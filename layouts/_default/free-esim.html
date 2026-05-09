@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang | default "en" }}" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Params.seo.title }}</title>
+    <meta name="description" content="{{ .Params.seo.description }}">
+    {{ if .Params.seo.keywords }}
+    <meta name="keywords" content="{{ .Params.seo.keywords }}">
+    {{ end }}
+    
+    {{ if .Params.seo.canonical_url }}
+    <link rel="canonical" href="{{ .Params.seo.canonical_url | absURL }}">
+    {{ else }}
+    <link rel="canonical" href="{{ .Permalink }}">
+    {{ end }}
+    
+    <meta property="og:title" content="{{ .Params.seo.title }}">
+    <meta property="og:description" content="{{ .Params.seo.description }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Permalink }}">
+    
+    {{ if .Params.seo.og_image }}
+    <meta property="og:image" content="{{ .Params.seo.og_image | absURL }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ .Params.seo.title }}">
+    <meta name="twitter:description" content="{{ .Params.seo.description }}">
+    {{ end }}
+
+    <link href="/css/tailwind-compiled.css" rel="stylesheet">
+    
+    <!-- 移动端样式优化：Hero区域紧凑化 + 弹出框精致化，确保首屏可见按钮 -->
+    <style>
+        /* 手机端整体字体微调，重点压缩 Hero 区域高度 */
+        @media (max-width: 768px) {
+            body {
+                font-size: 15px;
+            }
+            /* 压缩 Hero 区域的内边距和标题大小 */
+            .bg-gradient-to-b.from-blue-50.to-slate-50 {
+                padding-top: 1.75rem !important;
+                padding-bottom: 2rem !important;
+            }
+            h1 {
+                font-size: 1.6rem !important;
+                margin-bottom: 0.75rem !important;
+            }
+            .hero-subtitle {
+                font-size: 0.9rem !important;
+                margin-bottom: 1.25rem !important;
+            }
+            .trust-badges {
+                margin-bottom: 1.25rem !important;
+                gap: 0.5rem !important;
+            }
+            .cta-buttons {
+                margin-bottom: 1.25rem !important;
+                gap: 0.75rem !important;
+            }
+            .cta-buttons a {
+                padding: 0.6rem 1rem !important;
+                font-size: 0.9rem !important;
+            }
+            .trustpilot-widget {
+                margin-bottom: 1rem !important;
+                transform: scale(0.9);
+            }
+            .search-form {
+                margin-top: 0.5rem !important;
+            }
+            .search-form input {
+                padding: 0.6rem 0.8rem 0.6rem 2.5rem !important;
+                font-size: 0.9rem !important;
+            }
+            /* 其他字体保持之前优化 */
+            h2 {
+                font-size: 1.5rem !important;
+            }
+            .text-3xl {
+                font-size: 1.6rem !important;
+            }
+            .text-xl {
+                font-size: 1.2rem !important;
+            }
+            .text-lg {
+                font-size: 1rem !important;
+            }
+            .text-base {
+                font-size: 0.9rem !important;
+            }
+            .text-sm {
+                font-size: 0.8rem !important;
+            }
+            .text-xs {
+                font-size: 0.7rem !important;
+            }
+            
+            /* 弹出框（Modal）优化：更窄，内边距更小 */
+            #esimModal .relative.transform {
+                max-width: 95% !important;
+                width: 95% !important;
+                margin: 0 auto;
+            }
+            #esimModal .bg-slate-50.px-6.py-6 {
+                padding: 1rem !important;
+            }
+            #esimModal .px-6.py-6.h-\[60vh\] {
+                padding: 1rem !important;
+                height: auto !important;
+                max-height: 70vh;
+            }
+            #esimModal .grid-cols-1.sm\:grid-cols-2 {
+                gap: 0.75rem !important;
+            }
+            #esimModal .mb-6 {
+                margin-bottom: 1rem !important;
+            }
+            #esimModal .text-2xl {
+                font-size: 1.4rem !important;
+            }
+            #esimModal .text-4xl {
+                font-size: 1.8rem !important;
+            }
+            #esimModal .p-5 {
+                padding: 0.8rem !important;
+            }
+            #esimModal .rounded-xl {
+                border-radius: 0.8rem !important;
+            }
+            #esimModal button, #esimModal a {
+                padding-top: 0.6rem !important;
+                padding-bottom: 0.6rem !important;
+                font-size: 0.9rem !important;
+            }
+        }
+    </style>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "{{ .Params.seo.title }}",
+      "description": "{{ .Params.seo.description }}",
+      "url": "{{ .Permalink }}"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "name": "{{ .Params.ui.schema.list_name }}",
+      "description": "{{ .Params.ui.schema.list_desc }}",
+      "numberOfItems": {{ len .Params.countries }},
+      "itemListElement": [
+        {{ range $index, $country := .Params.countries }}
+        {{ if $index }},{{ end }}
+        {
+          "@type": "ListItem",
+          "position": {{ add $index 1 }},
+          "item": {
+            "@type": "Service",
+            "name": "{{ $.Params.ui.schema.item_name_prefix }}{{ $country.name }}",
+            "description": "{{ $.Params.ui.schema.item_desc_prefix }}{{ $country.name }}",
+            "url": "{{ (printf "/free-esim/#%s" $country.slug) | relLangURL | absURL }}",
+            "areaServed": {
+              "@type": "Country",
+              "name": "{{ $country.name }}"
+            }
+          }
+        }
+        {{ end }}
+      ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {{ range $index, $item := .Params.faq.items }}
+        {{ if $index }},{{ end }}
+        {
+          "@type": "Question",
+          "name": "{{ $item.question }}",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@type": "Answer",
+            "text": "{{ $item.answer | plainify }}"
+          }
+        }
+        {{ end }}
+      ]
+    }
+    </script>
+</head>
+<body class="bg-slate-50 text-slate-900 antialiased min-h-screen flex flex-col relative" data-alert-redirect="{{ .Params.ui.js.alert_redirect }}">
+
+{{ partial "header.html" . }}
+
+<main class="flex-grow">
+    <section class="relative bg-gradient-to-b from-blue-50 to-slate-50 border-b border-slate-200 pt-24 pb-12 sm:pt-32 sm:pb-16 px-4 sm:px-6 lg:px-8 text-center">
+        <div class="relative max-w-3xl mx-auto">
+            <h1 class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-slate-900 mb-4 tracking-tight leading-tight">
+                {{ .Params.hero.title }}
+            </h1>
+            <p class="text-slate-600 text-base sm:text-lg mb-6 max-w-xl mx-auto hero-subtitle">
+                {{ .Params.hero.subtitle }}
+            </p>
+            
+            <div class="flex flex-wrap justify-center gap-3 mb-8 trust-badges">
+                {{ range .Params.hero.trust_badges }}
+                <span class="inline-flex items-center px-3 py-1 rounded-full bg-blue-100/60 text-blue-800 text-xs font-semibold border border-blue-200 shadow-sm">
+                    {{ . }}
+                </span>
+                {{ end }}
+            </div>
+
+            <div class="flex flex-col sm:flex-row items-center justify-center gap-4 mb-8 cta-buttons">
+                <a href="#popularSection" class="w-full sm:w-auto px-8 py-3.5 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-xl shadow-lg hover:shadow-xl transition-all text-lg">
+                    {{ .Params.hero.cta_primary }}
+                </a>
+                <a href="#allCountriesList" class="w-full sm:w-auto px-8 py-3.5 bg-white hover:bg-slate-50 text-slate-700 font-medium rounded-xl border border-slate-300 shadow-sm transition-all text-base">
+                    {{ .Params.hero.cta_secondary }}
+                </a>
+            </div>
+
+            <div class="mb-8 flex justify-center w-full trustpilot-widget" aria-label="Trustpilot Reviews">
+                <div class="trustpilot-widget" data-locale="en-US" data-template-id="56278e9abfbbba0bdcd568bc" data-businessunit-id="69df14d2ef5f0c85e02c7a4b" data-style-height="52px" data-style-width="100%" data-token="dec1e7c0-29ae-4eda-b797-5db09ac02dc4">
+                  <a href="https://www.trustpilot.com/review/roamiapp.com" target="_blank" rel="noopener">Trustpilot</a>
+                </div>
+            </div>
+            <form role="search" onsubmit="event.preventDefault();" class="relative max-w-xl mx-auto search-form">
+                <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none" aria-hidden="true">
+                    <svg class="h-5 w-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                </div>
+                <input 
+                    type="search" 
+                    id="searchInput" 
+                    aria-label="{{ .Params.search.placeholder }}"
+                    class="block w-full pl-11 pr-4 py-3.5 bg-white border border-slate-300 rounded-xl text-slate-900 placeholder-slate-400 focus:border-blue-500 focus:ring-2 focus:ring-blue-500/20 transition-all text-base outline-none shadow-sm" 
+                    placeholder="{{ .Params.search.placeholder }}"
+                >
+            </form>
+        </div>
+    </section>
+
+    <!-- 优化部分：移动端一排两列，更加紧凑，字体缩小 -->
+    <section class="max-w-[90rem] mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10">
+        <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6" role="list">
+            {{ range .Params.value_props }}
+            <div class="bg-white rounded-xl sm:rounded-2xl p-3 sm:p-6 border border-slate-200 shadow-sm flex flex-col items-center text-center" role="listitem">
+                <div class="text-2xl sm:text-3xl mb-1.5 sm:mb-3" aria-hidden="true">{{ .icon }}</div>
+                <h3 class="text-sm sm:text-lg font-bold text-slate-900 mb-1 sm:mb-2">{{ .title }}</h3>
+                <p class="text-[11px] sm:text-sm text-slate-600 leading-snug">{{ .desc }}</p>
+            </div>
+            {{ end }}
+        </div>
+    </section>
+
+    <div class="max-w-[90rem] mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        
+        <section id="popularSection" class="mb-12 scroll-mt-24">
+            <div class="flex items-center mb-6">
+                <h2 class="text-xl font-bold text-slate-900 flex items-center">
+                    <span class="bg-orange-100 p-1.5 rounded-md mr-2" aria-hidden="true">🔥</span>
+                    {{ .Params.ui.popular_section.title }}
+                </h2>
+            </div>
+            
+            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 sm:gap-6" role="list">
+                {{ range .Params.popular_esims }}
+                <article class="group flex flex-col bg-white rounded-2xl p-4 border border-slate-200 shadow-sm hover:shadow-lg hover:border-blue-300 transition-all duration-300 relative cursor-pointer" onclick="openModal('{{ .slug }}')" role="listitem" aria-label="{{ .name }} Free Trial">
+                    <div class="absolute top-0 right-0 bg-orange-500 text-white text-[10px] font-bold px-2 py-0.5 rounded-bl-lg rounded-tr-xl z-10">{{ $.Params.ui.popular_section.hot_badge }}</div>
+                    <div class="flex flex-col items-center text-center flex-grow">
+                        <div class="w-16 h-12 mb-3 rounded-md overflow-hidden border border-slate-100 shadow-sm">
+                            <img src="/img/flags/{{ .code | lower }}.svg" alt="Flag of {{ .name }}" loading="lazy" class="w-full h-full object-cover">
+                        </div>
+                        <h3 class="text-base font-bold text-slate-900 mb-1">{{ $.Params.ui.card.title_prefix }}{{ .name }}</h3>
+                        <p class="text-[11px] text-slate-500 mb-2">{{ $.Params.ui.card.network }}</p>
+                        <div class="mt-auto mb-3">
+                            <span class="text-xl font-black text-emerald-600">{{ $.Params.ui.card.price }}</span>
+                        </div>
+                    </div>
+                    <button class="w-full block text-center bg-slate-900 group-hover:bg-blue-600 text-white font-medium py-2 px-4 rounded-lg transition-colors duration-200 text-sm" aria-hidden="true">
+                        {{ $.Params.ui.card.btn_popular }}
+                    </button>
+                </article>
+                {{ end }}
+            </div>
+        </section>
+
+        <section id="allCountriesList" class="scroll-mt-24">
+            <div class="flex flex-col md:flex-row md:items-center justify-between mb-6 gap-4">
+                <h2 class="text-xl font-bold text-slate-900 flex items-center whitespace-nowrap">
+                    <span class="bg-blue-100 p-1.5 rounded-md mr-2" aria-hidden="true">🌍</span>
+                    {{ .Params.ui.all_countries_section.title }}
+                </h2>
+                
+                <div class="flex items-center gap-2">
+                    <span class="text-xs font-bold text-slate-400 uppercase tracking-wider hidden sm:inline-block">{{ .Params.ui.all_countries_section.quick_index }}</span>
+                    <nav id="azNavContainer" class="flex flex-wrap items-center gap-1 bg-white px-2 py-1.5 rounded-lg border border-slate-200 shadow-sm" aria-label="A to Z Index">
+                        </nav>
+                </div>
+            </div>
+            
+            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 sm:gap-6" role="list">
+                {{ range .Params.countries }}
+                <article class="country-card group flex flex-col bg-white rounded-2xl p-4 border border-slate-200 shadow-sm hover:shadow-lg hover:border-blue-300 transition-all duration-300 cursor-pointer" data-name="{{ .name }}" data-initial="{{ .initial }}" onclick="openModal('{{ .slug }}')" role="listitem" aria-label="{{ .name }} Free Trial">
+                    <div class="flex flex-col items-center text-center flex-grow">
+                        <div class="w-16 h-12 mb-3 rounded-md overflow-hidden border border-slate-100 shadow-sm">
+                            <img src="/img/flags/{{ .code | lower }}.svg" alt="Flag of {{ .name }}" loading="lazy" class="w-full h-full object-cover">
+                        </div>
+                        <h3 class="text-base font-bold text-slate-900 mb-1">{{ $.Params.ui.card.title_prefix }}{{ .name }}</h3>
+                        <p class="text-[11px] text-slate-500 mb-2">{{ $.Params.ui.card.network }}</p>
+                        <div class="mt-auto mb-3">
+                            <span class="text-xl font-black text-emerald-600">{{ $.Params.ui.card.price }}</span>
+                        </div>
+                    </div>
+                    <button class="w-full block text-center bg-slate-900 group-hover:bg-blue-600 text-white font-medium py-2 px-4 rounded-lg transition-colors duration-200 text-sm" aria-hidden="true">
+                        {{ $.Params.ui.card.btn_all }}
+                    </button>
+                </article>
+                {{ end }}
+            </div>
+
+            <div id="noResults" aria-live="polite" class="hidden text-center py-16 bg-white rounded-2xl border border-slate-200 mt-4">
+                <p class="text-slate-600 text-lg">
+                    {{ .Params.ui.all_countries_section.no_results_text }} <a href="{{ "/plans/" | relLangURL }}" class="text-blue-600 font-medium hover:underline">{{ .Params.ui.all_countries_section.no_results_link }}</a>
+                </p>
+            </div>
+        </section>
+
+        <section class="mt-48 mb-20 sm:mt-64 max-w-4xl mx-auto">
+            <div class="text-center mb-10">
+                <h2 class="text-3xl font-extrabold text-slate-900 sm:text-4xl">{{ .Params.faq.heading }}</h2>
+                <p class="mt-4 text-lg text-slate-600">{{ .Params.ui.faq_section.subtitle }}</p>
+            </div>
+            
+            <div class="space-y-4" role="list">
+                {{ range $index, $faq := .Params.faq.items }}
+                <details role="listitem" class="group rounded-2xl bg-white p-6 border border-slate-200 shadow-sm [&_summary::-webkit-details-marker]:hidden open:ring-2 open:ring-blue-500/20 open:border-blue-300 transition-all duration-300" {{ if eq $index 0 }}open{{ end }}>
+                    <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-slate-900 outline-none">
+                        <h3 class="text-lg font-bold text-slate-800 group-hover:text-blue-600 transition-colors pr-4">{{ .question }}</h3>
+                        <span class="relative h-6 w-6 shrink-0 text-blue-600 bg-blue-50 rounded-full flex items-center justify-center group-hover:bg-blue-100 transition-colors" aria-hidden="true">
+                            <svg class="absolute h-4 w-4 opacity-100 group-open:opacity-0 transition-opacity duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" /></svg>
+                            <svg class="absolute h-4 w-4 opacity-0 group-open:opacity-100 transition-opacity duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12h-15" /></svg>
+                        </span>
+                    </summary>
+                    <div class="mt-4 text-slate-600 leading-relaxed text-base border-t border-slate-100 pt-4">
+                        {{ .answer | safeHTML }}
+                    </div>
+                </details>
+                {{ end }}
+            </div>
+        </section>
+
+    </div>
+</main>
+
+<div id="esimModal" class="fixed inset-0 z-50 hidden" aria-labelledby="modal-title" role="dialog" aria-modal="true">
+    <div class="fixed inset-0 bg-slate-900/60 backdrop-blur-sm transition-opacity" onclick="closeModal()"></div>
+    <div class="fixed inset-0 z-10 overflow-y-auto">
+        <div class="flex min-h-full items-end justify-center p-4 text-center sm:items-center sm:p-0">
+            <div class="relative transform overflow-hidden rounded-2xl bg-white text-left shadow-xl transition-all sm:my-8 w-full max-w-2xl">
+                <button type="button" aria-label="Close dialog" class="absolute top-4 right-4 text-slate-400 hover:text-slate-600 z-20 bg-white/80 backdrop-blur rounded-full p-1 shadow-sm" onclick="closeModal()">
+                    <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" /></svg>
+                </button>
+                
+                <div id="modalContentWrapper">
+                    {{ range .Params.countries }}
+                    <div class="country-modal-content hidden" id="modal-{{ .slug }}">
+                        
+                        <div class="bg-slate-50 px-6 py-6 border-b border-slate-200 flex items-start sm:items-center">
+                            <img src="/img/flags/{{ .code | lower }}.svg" alt="{{ .name }} eSIM flag" loading="lazy" class="w-14 h-10 rounded shadow-sm mr-4 object-cover mt-1 sm:mt-0">
+                            <div>
+                                <h2 class="text-2xl font-bold text-slate-900" id="modal-title">
+                                    {{ .meta_title | default (printf "Free %s eSIM Trial" .name) }}
+                                </h2>
+                                <p class="text-sm text-slate-600 mt-2 leading-relaxed">
+                                    {{ .meta_desc }}
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="px-6 py-6 h-[60vh] sm:h-auto overflow-y-auto">
+                            {{ $randNum := add 322 (mod (mul (len .name) 43) 970) }}
+                            <div class="flex items-center gap-2 mb-4 bg-orange-50 text-orange-800 px-4 py-2.5 rounded-lg border border-orange-100 shadow-sm">
+                                <span class="text-lg animate-pulse" aria-hidden="true">🔥</span>
+                                <span class="text-sm font-medium"><strong class="text-orange-600 text-base">{{ $randNum }}</strong> {{ $.Params.ui.modal.claimed_text_part1 | default "travelers have claimed their free" }} {{ .name }} {{ $.Params.ui.modal.claimed_text_part2 | default "eSIM this week." }}</span>
+                            </div>
+
+                            <div class="bg-gradient-to-r from-blue-600 to-blue-800 rounded-xl p-6 text-white mb-6 shadow-lg relative overflow-hidden">
+                                <svg class="absolute right-0 top-0 h-full w-32 text-white/10 transform translate-x-8" fill="currentColor" viewBox="0 0 100 100" aria-hidden="true"><path d="M50 0L100 50L50 100L0 50Z"/></svg>
+                                <div class="relative z-10 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+                                    <div>
+                                        <div class="inline-block bg-white/20 rounded-full px-3 py-1 text-xs font-bold tracking-wider uppercase mb-3">{{ $.Params.ui.modal.free_trial_badge | default "Free Trial" }}</div>
+                                        <div class="flex items-baseline gap-2">
+                                            <span class="text-4xl sm:text-5xl font-black tracking-tight">{{ $.Params.ui.modal.data_amount | default "100MB" }}</span>
+                                            <span class="text-xl font-medium text-blue-100">{{ $.Params.ui.modal.duration | default "Valid 1 Day" }}</span>
+                                        </div>
+                                        <div class="mt-2 text-sm text-blue-100 flex items-center gap-2">
+                                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+                                            {{ $.Params.ui.modal.data_only | default "Data Only (No Calls/SMS)" }}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6" role="list">
+                                <div class="bg-slate-50 p-4 rounded-xl border border-slate-200" role="listitem">
+                                    <h3 class="text-xs font-bold text-slate-500 mb-3 uppercase tracking-wider">{{ .name }} {{ $.Params.ui.modal.specs_title | default "Network Specs" }}</h3>
+                                    <div class="mb-3">
+                                        <span class="inline-flex items-center bg-blue-100 text-blue-800 px-2.5 py-1 rounded-md text-xs font-bold border border-blue-200">
+                                            <svg class="w-3 h-3 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+                                            {{ $.Params.ui.modal.network_speed | default "4G / 5G High Speed" }}
+                                        </span>
+                                    </div>
+                                    <div class="text-sm font-semibold text-slate-800 flex flex-wrap gap-1.5" role="list">
+                                        {{ if and .details .details.providers }}
+                                            {{ range $i, $provider := .details.providers }}
+                                            <span class="bg-white border border-slate-200 px-2 py-0.5 rounded text-xs text-slate-600" role="listitem">{{ $provider }}</span>
+                                            {{ end }}
+                                        {{ else }}
+                                            <span class="bg-white border border-slate-200 px-2 py-0.5 rounded text-xs text-slate-600" role="listitem">{{ $.Params.ui.modal.auto_connect | default "Auto Connect" }}</span>
+                                        {{ end }}
+                                    </div>
+                                </div>
+                                <div class="bg-slate-50 p-4 rounded-xl border border-slate-200" role="listitem">
+                                    <h3 class="text-xs font-bold text-slate-500 mb-3 uppercase tracking-wider">{{ $.Params.ui.modal.guarantees_title | default "Our Guarantees" }}</h3>
+                                    <ul class="text-sm font-medium text-slate-700 space-y-2">
+                                        <li class="flex items-center"><span class="mr-2 text-green-500" aria-hidden="true">✓</span> {{ $.Params.ui.modal.guarantee_1 | default "Instant Email Delivery" }}</li>
+                                        <li class="flex items-center"><span class="mr-2 text-green-500" aria-hidden="true">✓</span> {{ $.Params.ui.modal.guarantee_2 | default "No Hidden Fees" }}</li>
+                                        <li class="flex items-center"><span class="mr-2 text-green-500" aria-hidden="true">✓</span> {{ $.Params.ui.modal.guarantee_3 | default "24/7 Support" }}</li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="mb-6">
+                                <h3 class="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
+                                    <span class="bg-blue-100 text-blue-600 p-1.5 rounded-md" aria-hidden="true">⚙️</span> 
+                                    {{ $.Params.ui.modal.how_to_title | default "How to activate your free" }} {{ .name }} {{ $.Params.ui.modal.how_to_suffix | default "eSIM" }}
+                                </h3>
+                                <div class="bg-white p-5 rounded-xl border border-slate-200 shadow-sm">
+                                    <ol class="list-decimal list-inside text-sm text-slate-600 space-y-3 marker:text-blue-600 marker:font-bold">
+                                        <li><strong>{{ $.Params.ui.modal.step1_title | default "Claim your trial:" }}</strong> {{ $.Params.ui.modal.step1_desc | default "Tap the claim button below to get your unique QR code." }}</li>
+                                        <li><strong>{{ $.Params.ui.modal.step2_title | default "Scan & Install:" }}</strong> {{ $.Params.ui.modal.step2_desc | default "Go to your phone's settings and scan the QR code before you travel to" }} {{ .name }}.</li>
+                                        <li><strong>{{ $.Params.ui.modal.step3_title | default "Connect automatically:" }}</strong> {{ $.Params.ui.modal.step3_desc | default "Once you arrive in" }} {{ .name }}, {{ $.Params.ui.modal.step3_desc_2 | default "turn on the eSIM and enjoy instant local data." }}</li>
+                                    </ol>
+                                </div>
+                            </div>
+
+                            {{ if and .details .details.tips }}
+                            <div class="mb-6">
+                                <h3 class="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
+                                    <span class="bg-blue-100 text-blue-600 p-1.5 rounded-md" aria-hidden="true">💡</span> 
+                                    {{ .name }} {{ $.Params.ui.modal.tips_title | default "Travel & Data Tips" }}
+                                </h3>
+                                <div class="bg-slate-50 p-5 rounded-xl border border-slate-100">
+                                    <ul class="list-disc list-inside text-sm text-slate-600 space-y-2">
+                                        {{ range .details.tips }}
+                                        <li>{{ . }}</li>
+                                        {{ end }}
+                                    </ul>
+                                </div>
+                            </div>
+                            {{ end }}
+
+                            {{ if or (and .details .details.faq_q1) (and .details .details.faq_q2) }}
+                            <div class="mb-6">
+                                <h3 class="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
+                                    <span class="bg-blue-100 text-blue-600 p-1.5 rounded-md" aria-hidden="true">❓</span> 
+                                    {{ $.Params.ui.modal.faq_title | default "Frequently Asked Questions" }}
+                                </h3>
+                                <div class="space-y-3" role="list">
+                                    {{ if and .details .details.faq_q1 .details.faq_a1 }}
+                                    <div class="bg-white p-4 rounded-xl border border-slate-200 shadow-sm" role="listitem">
+                                        <h4 class="text-sm font-bold text-slate-800 mb-1">Q: {{ .details.faq_q1 }}</h4>
+                                        <p class="text-sm text-slate-600">A: {{ .details.faq_a1 }}</p>
+                                    </div>
+                                    {{ end }}
+                                    
+                                    {{ if and .details .details.faq_q2 .details.faq_a2 }}
+                                    <div class="bg-white p-4 rounded-xl border border-slate-200 shadow-sm" role="listitem">
+                                        <h4 class="text-sm font-bold text-slate-800 mb-1">Q: {{ .details.faq_q2 }}</h4>
+                                        <p class="text-sm text-slate-600">A: {{ .details.faq_a2 }}</p>
+                                    </div>
+                                    {{ end }}
+                                </div>
+                            </div>
+                            {{ end }}
+
+                        </div>
+
+                        <div class="bg-slate-50 px-6 py-4 border-t border-slate-200">
+                            <div class="flex flex-col sm:flex-row-reverse gap-3 justify-start items-center sm:items-start mb-4">
+                                <div class="w-full sm:w-auto flex flex-col items-center">
+                                    <a href="{{ $.Params.ui.modal.apple_redirect_url }}" target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto inline-flex justify-center items-center rounded-xl bg-white px-8 py-3 text-base font-bold text-black shadow-md hover:bg-gray-100 hover:shadow-lg transition-all focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-black">
+                                        <svg class="w-5 h-5 mr-2 fill-current" viewBox="0 0 384 512" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                                            <path d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/>
+                                        </svg>
+                                        {{ $.Params.ui.modal.btn_claim | default "Claim Free Trial" }}
+                                    </a>
+                                    {{ if $.Params.ui.modal.ios_only_hint }}
+                                    <span class="text-xs text-slate-500 mt-2 font-medium">{{ $.Params.ui.modal.ios_only_hint }}</span>
+                                    {{ end }}
+                                </div>
+                                
+                                <a href="{{ (printf "/%s-esim/" .slug) | relLangURL }}" class="w-full sm:w-auto inline-flex justify-center items-center rounded-xl bg-white border border-slate-300 px-6 py-3 text-base font-medium text-slate-700 shadow-sm hover:bg-slate-50 hover:text-blue-600 transition-all focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 mt-2 sm:mt-0">
+                                    {{ $.Params.ui.modal.btn_view_plans | default "View Paid Plans" }}
+                                </a>
+                            </div>
+
+                            <div class="w-full flex justify-center" aria-label="Trustpilot Reviews">
+                                <div class="trustpilot-widget" data-locale="en-US" data-template-id="56278e9abfbbba0bdcd568bc" data-businessunit-id="69df14d2ef5f0c85e02c7a4b" data-style-height="52px" data-style-width="100%" data-token="dec1e7c0-29ae-4eda-b797-5db09ac02dc4">
+                                  <a href="https://www.trustpilot.com/review/roamiapp.com" target="_blank" rel="noopener">Trustpilot</a>
+                                </div>
+                            </div>
+                            </div>
+
+                    </div>
+                    {{ end }}
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ partial "footer.html" . }}
+
+<script>
+// Modal control logic
+function openModal(slug) {
+    document.querySelectorAll('.country-modal-content').forEach(el => el.classList.add('hidden'));
+    const targetContent = document.getElementById(`modal-${slug}`);
+    if(targetContent) {
+        targetContent.classList.remove('hidden');
+        document.getElementById('esimModal').classList.remove('hidden');
+        // JavaScript 动态处理 URL Hash，不影响语言前缀
+        history.pushState(null, null, `#${slug}`);
+    }
+}
+
+function closeModal() {
+    document.getElementById('esimModal').classList.add('hidden');
+    // 关闭时移除 hash，保留当前语言路径
+    history.pushState(null, null, window.location.pathname);
+}
+
+window.addEventListener('popstate', function() {
+    if (!window.location.hash) {
+        closeModal();
+    }
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('searchInput');
+    const countryCards = document.querySelectorAll('.country-card');
+    const popularSection = document.getElementById('popularSection');
+    const noResults = document.getElementById('noResults');
+    const azNavContainer = document.getElementById('azNavContainer');
+
+    // A-Z Navigation Generation
+    const availableInitials = new Set();
+    countryCards.forEach(card => {
+        const initial = card.getAttribute('data-initial');
+        if (initial) availableInitials.add(initial.toUpperCase());
+    });
+    
+    const sortedInitials = Array.from(availableInitials).sort();
+    
+    sortedInitials.forEach(letter => {
+        const btn = document.createElement('button');
+        btn.className = 'w-6 h-6 text-xs font-medium flex items-center justify-center rounded-md text-slate-600 hover:bg-blue-100 hover:text-blue-700 transition-colors cursor-pointer';
+        btn.textContent = letter;
+        
+        btn.addEventListener('click', () => {
+            const targetCard = Array.from(countryCards).find(card => card.getAttribute('data-initial').toUpperCase() === letter && card.style.display !== 'none');
+            if (targetCard) {
+                const y = targetCard.getBoundingClientRect().top + window.scrollY - 120;
+                window.scrollTo({ top: y, behavior: 'smooth' });
+                targetCard.classList.add('ring-2', 'ring-blue-500', 'ring-offset-2');
+                setTimeout(() => targetCard.classList.remove('ring-2', 'ring-blue-500', 'ring-offset-2'), 1500);
+            }
+        });
+        
+        azNavContainer.appendChild(btn);
+    });
+
+    // Search Logic
+    searchInput.addEventListener('input', function(e) {
+        const searchTerm = e.target.value.toLowerCase().trim();
+        let visibleCount = 0;
+
+        if (searchTerm.length > 0) {
+            popularSection.style.display = 'none';
+        } else {
+            popularSection.style.display = 'block';
+        }
+
+        countryCards.forEach(card => {
+            const countryName = card.getAttribute('data-name').toLowerCase();
+            if (countryName.includes(searchTerm) || `${countryName}esim`.includes(searchTerm)) {
+                card.style.display = ''; 
+                visibleCount++;
+            } else {
+                card.style.display = 'none';
+            }
+        });
+
+        if (visibleCount === 0 && searchTerm.length > 0) {
+            noResults.classList.remove('hidden');
+        } else {
+            noResults.classList.add('hidden');
+        }
+    });
+
+    if(window.location.hash) {
+        const slug = window.location.hash.substring(1);
+        const targetCard = document.querySelector(`.country-card[onclick*="${slug}"]`);
+        if(targetCard) {
+            targetCard.click();
+        }
+    }
+});
+</script>
+
+<script>
+  (function(d, w, c) {
+    if (w[c]) return;
+    var s = d.createElement("script");
+    w[c] = function() {
+      (w[c].z = w[c].z || []).push(arguments);
+    };
+    s.async = true;
+    s.src = "https://static.ahc.ink/hecong.js";
+    if (d.head) d.head.appendChild(s);
+  })(document, window, "_AIHECONG");
+  _AIHECONG("ini",{ channelId : "U8rW8b" });
+</script>
+
+</body>
+</html>

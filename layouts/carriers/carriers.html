@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}" class="scroll-smooth">
+<head>
+    {{ partial "head.html" . }}
+    <link rel="canonical" href="{{ .Permalink }}">
+    
+    <title>{{ .Title }}</title>
+    <meta name="description" content="{{ .Description }}">
+    
+<link href="/css/tailwind-compiled.css" rel="stylesheet">
+    <style>
+        .no-scrollbar::-webkit-scrollbar { display: none; }
+        .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+        
+        .custom-scrollbar::-webkit-scrollbar { width: 4px; }
+        .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
+        .custom-scrollbar::-webkit-scrollbar-thumb { background-color: #cbd5e1; border-radius: 20px; }
+        .custom-scrollbar:hover::-webkit-scrollbar-thumb { background-color: #94a3b8; }
+
+        .scroll-mt-28 { scroll-margin-top: 7.5rem; }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-900 antialiased selection:bg-blue-200 selection:text-blue-900 relative">
+
+<!-- ═══════════ NAV ═══════════ -->
+{{ partial "header.html" . }}
+
+<!-- ═══════════ HERO & BREADCRUMBS ═══════════ -->
+<section class="relative overflow-hidden bg-slate-900 pt-10 pb-8 lg:pt-14 lg:pb-12">
+    <div class="absolute inset-0 overflow-hidden pointer-events-none">
+        <div class="absolute -top-1/2 -right-1/4 w-[1000px] h-[1000px] rounded-full bg-blue-600/20 blur-3xl"></div>
+        <div class="absolute -bottom-1/2 -left-1/4 w-[800px] h-[800px] rounded-full bg-emerald-500/10 blur-3xl"></div>
+    </div>
+
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 z-10">
+        <nav aria-label="Breadcrumb" class="mb-5">
+            <ol class="flex items-center space-x-2 text-sm text-slate-400">
+                <li><a href="{{ "/" | relLangURL }}" class="hover:text-white transition-colors">{{ .Params.hero.breadcrumb_home }}</a></li>
+                <li><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg></li>
+                <li class="text-slate-200 font-medium" aria-current="page">{{ .Params.hero.breadcrumb_current }}</li>
+            </ol>
+        </nav>
+
+        <div class="text-center">
+            <div class="inline-flex items-center gap-2.5 mb-3 px-4 py-1.5 rounded-full text-sm font-medium bg-blue-500/15 text-blue-400 border border-blue-400/30">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9"></path></svg>
+                {{ .Params.hero.badge }}
+            </div>
+            <h1 class="font-extrabold text-white leading-tight tracking-tight mb-4 text-3xl sm:text-4xl lg:text-5xl">
+                {{ .Params.hero.title }}<br/>
+                <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400 text-2xl sm:text-3xl lg:text-4xl mt-2 block">{{ .Params.hero.subtitle }}</span>
+            </h1>
+            <p class="text-base lg:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed">
+                {{ .Params.hero.description | safeHTML }}
+            </p>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════ 热门国家推荐 ═══════════ -->
+<section class="pt-10 pb-6 bg-white border-b border-slate-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex items-center justify-between mb-5">
+            <h2 class="text-2xl font-bold text-slate-900 flex items-center gap-2">
+                <svg class="w-6 h-6 text-orange-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
+                {{ .Params.popular.title }}
+            </h2>
+        </div>
+        
+        <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-4">
+            {{ range .Params.popular.items }}
+            <!-- 修复点：增加 relLangURL 处理多语言路径 -->
+            <a href="{{ .url | relLangURL }}" class="group block bg-slate-50 rounded-2xl p-4 border border-slate-200 hover:border-blue-400 hover:shadow-md transition-all">
+                <div class="flex items-center gap-3 mb-3">
+                    <img src="{{ .flag }}" alt="{{ .name }}" width="32" height="24" class="w-8 h-6 object-cover shadow-sm border border-slate-200 rounded-sm">
+                    <h3 class="font-bold text-slate-900 group-hover:text-blue-600 transition-colors">{{ .name }}</h3>
+                </div>
+                <p class="text-xs text-slate-500 mb-2">{{ .networks }}</p>
+                <div class="flex flex-wrap gap-1"><span class="px-2 py-0.5 bg-blue-100 text-blue-700 text-[10px] font-bold rounded">{{ .badge }}</span></div>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════ DIRECTORY & CONTENT ═══════════ -->
+<section class="py-10 lg:py-16">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex flex-col lg:flex-row gap-10 lg:gap-12 items-start">
+            
+            <!-- 左侧：智能导航与搜索 -->
+            <aside class="w-full lg:w-[300px] flex-shrink-0 lg:sticky lg:top-24 z-30 bg-slate-50 lg:bg-transparent pb-4 lg:pb-0">
+                <div class="sticky top-0 z-40 bg-slate-50/95 backdrop-blur-sm pt-3 pb-4 lg:p-0 lg:bg-transparent lg:static mb-6 lg:mb-8">
+                    <label for="countrySearch" class="sr-only">{{ .Params.sidebar.search_placeholder }}</label>
+                    <div class="relative group">
+                        <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                            <svg class="h-6 w-6 text-blue-500 group-hover:text-blue-600 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+                        </div>
+                        <input type="text" id="countrySearch" class="block w-full pl-12 pr-4 py-4 border-2 border-blue-400 rounded-2xl leading-5 bg-white placeholder-slate-400 text-slate-900 text-base sm:text-lg font-medium focus:outline-none focus:ring-4 focus:ring-blue-500/20 focus:border-blue-600 transition-all shadow-md hover:shadow-lg" placeholder="{{ .Params.sidebar.search_placeholder }}">
+                    </div>
+                </div>
+                
+                <nav id="toc-nav" class="flex lg:flex-col gap-6 overflow-x-auto lg:overflow-y-auto no-scrollbar lg:custom-scrollbar lg:max-h-[calc(100vh-16rem)] lg:pr-4 pb-2 lg:pb-0 relative">
+                    <div id="noResultsMsg" class="hidden absolute top-0 left-0 w-full text-center py-8 text-slate-500 text-sm">
+                        <svg class="w-12 h-12 mx-auto text-slate-300 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                        {{ .Params.sidebar.no_results_text }}<br>
+                        <a href="{{ .Params.sidebar.no_results_link_url | relLangURL }}" class="text-blue-600 hover:underline mt-2 inline-block">{{ .Params.sidebar.no_results_link_text | safeHTML }}</a>
+                    </div>
+
+                    {{ range .Params.sidebar.regions }}
+                    <div class="region-group flex-shrink-0 lg:w-full">
+                        <h4 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-3 px-1">{{ .name }}</h4>
+                        <div class="flex lg:flex-col gap-2">
+                            {{ range .links }}
+                            <a href="#{{ .id }}" data-name="{{ .search_tags }}" class="toc-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium transition-all bg-white text-slate-600 border border-slate-200 hover:bg-slate-100">
+                                <img src="{{ .flag }}" alt="{{ .name }}" width="24" height="16" loading="lazy" class="w-6 h-4 object-cover rounded-sm shadow-sm border border-slate-200/50">
+                                <span class="whitespace-nowrap">{{ .name }}</span>
+                            </a>
+                            {{ end }}
+                        </div>
+                    </div>
+                    {{ end }}
+                </nav>
+            </aside>
+
+            <!-- 右侧：全量内容区 -->
+            <main class="w-full flex-1 min-w-0 flex flex-col gap-12">
+                
+                {{ range .Params.countries }}
+                <article id="{{ .id }}" class="scroll-mt-28 group bg-white p-6 lg:p-8 rounded-3xl border border-slate-200 shadow-sm">
+                    <header class="mb-6">
+                        <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 mb-3 flex items-center gap-3">
+                            <img src="{{ .flag }}" alt="{{ .name }}" width="40" height="28" loading="lazy" class="w-10 h-7 object-cover shadow-sm border border-slate-200 rounded">
+                            {{ .name }}
+                        </h2>
+                        <p class="text-slate-600 leading-relaxed">{{ .desc }}</p>
+                    </header>
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-5 mb-6">
+                        {{ range .operators }}
+                        <div class="bg-slate-50 rounded-2xl p-5 border border-slate-100 flex flex-col hover:border-blue-200 transition-colors">
+                            <h3 class="font-bold text-lg {{ .color }} mb-1">{{ .name }}</h3>
+                            <p class="text-sm text-slate-500 mb-4 flex-1">{{ .desc }}</p>
+                            {{ if .badge }}
+                            <div class="flex gap-2 mt-auto">
+                                <span class="inline-flex items-center gap-1 px-2 py-1 bg-white border border-slate-200 text-xs font-semibold rounded-lg text-slate-700">
+                                    {{ if eq .icon_type "lightning" }}
+                                    <svg class="w-3 h-3 text-blue-500" fill="currentColor" viewBox="0 0 20 20"><path d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.38z"></path></svg>
+                                    {{ else if eq .icon_type "globe" }}
+                                    <svg class="w-3 h-3 text-emerald-500" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path></svg>
+                                    {{ else if eq .icon_type "shield" }}
+                                    <svg class="w-3 h-3 text-purple-500" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
+                                    {{ end }}
+                                    {{ .badge }}
+                                </span>
+                            </div>
+                            {{ end }}
+                        </div>
+                        {{ end }}
+                    </div>
+                    
+                    
+                   <div class="mt-4 pt-5 border-t border-slate-100 flex flex-col sm:flex-row gap-3 justify-end">
+    <!-- 详情按钮 -->
+    <a href="{{ .btn_details_url | relLangURL }}" class="inline-flex items-center justify-center px-5 py-2.5 bg-white border border-slate-300 hover:bg-slate-50 text-slate-700 text-sm font-medium rounded-xl transition-colors">
+        {{ .btn_details_text }}
+    </a>
+    
+    <!-- 购买按钮 -->
+    <a href="{{ .btn_buy_url | relLangURL }}" class="inline-flex items-center justify-center gap-2 px-6 py-2.5 bg-blue-600 hover:bg-blue-700 text-white text-sm font-bold rounded-xl transition-colors shadow-sm">
+        {{ .btn_buy_text }}
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+        </svg>
+    </a>
+</div>
+
+                </article>
+                {{ end }}
+
+                <!-- FAQ 区块 -->
+                <section id="faq" class="mt-4 pt-8 border-t border-slate-200">
+                    <h2 class="text-2xl font-bold text-slate-900 mb-6">{{ .Params.faq.title }}</h2>
+                    <div class="space-y-4">
+                        {{ range .Params.faq.items }}
+                        <details class="group bg-white border border-slate-200 rounded-xl p-4 cursor-pointer">
+                            <summary class="font-semibold text-slate-900 flex justify-between items-center">
+                                {{ .q }}
+                                <span class="transition group-open:rotate-180">
+                                    <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
+                                </span>
+                            </summary>
+                            <p class="text-slate-600 mt-3 text-sm leading-relaxed">{{ .a }}</p>
+                        </details>
+                        {{ end }}
+                    </div>
+                </section>
+
+            </main>
+        </div>
+    </div>
+</section>
+
+<!-- UX: 移动端悬浮回到顶部按钮 -->
+<button id="backToTopBtn" class="fixed bottom-6 right-6 bg-blue-600 text-white p-3 rounded-full shadow-lg opacity-0 pointer-events-none transition-all duration-300 hover:bg-blue-700 hover:scale-110 z-50 transform translate-y-4">
+    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18"></path></svg>
+</button>
+
+<!-- ═══════════ JAVASCRIPT ═══════════ -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const tocLinks = document.querySelectorAll('.toc-link');
+        const searchInput = document.getElementById('countrySearch');
+        const regionGroups = document.querySelectorAll('.region-group');
+        const noResultsMsg = document.getElementById('noResultsMsg');
+        const backToTopBtn = document.getElementById('backToTopBtn');
+
+        if (searchInput) {
+            searchInput.addEventListener('input', function(e) {
+                const term = e.target.value.toLowerCase();
+                let totalVisibleLinks = 0;
+                
+                regionGroups.forEach(group => {
+                    let hasVisibleLinks = false;
+                    const links = group.querySelectorAll('.toc-link');
+                    
+                    links.forEach(link => {
+                        const searchKeywords = link.getAttribute('data-name');
+                        if (searchKeywords.includes(term)) {
+                            link.style.display = 'flex';
+                            hasVisibleLinks = true;
+                            totalVisibleLinks++;
+                        } else {
+                            link.style.display = 'none';
+                        }
+                    });
+                    
+                    group.style.display = hasVisibleLinks ? 'block' : 'none';
+                });
+
+                if (totalVisibleLinks === 0) {
+                    noResultsMsg.classList.remove('hidden');
+                } else {
+                    noResultsMsg.classList.add('hidden');
+                }
+            });
+        }
+
+        const articles = document.querySelectorAll('article');
+        const observerOptions = {
+            root: null,
+            rootMargin: '-120px 0px -60% 0px',
+            threshold: 0
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const id = entry.target.getAttribute('id');
+                    
+                    tocLinks.forEach(link => {
+                        link.classList.remove('bg-blue-600', 'text-white', 'shadow-md', 'hover:bg-blue-700');
+                        link.classList.add('bg-white', 'text-slate-600', 'hover:bg-slate-100');
+                    });
+
+                    const activeLink = document.querySelector(`.toc-link[href="#${id}"]`);
+                    if (activeLink) {
+                        activeLink.classList.remove('bg-white', 'text-slate-600', 'hover:bg-slate-100');
+                        activeLink.classList.add('bg-blue-600', 'text-white', 'shadow-md', 'hover:bg-blue-700');
+                        
+                        if (window.innerWidth < 1024) {
+                            const tocNav = document.getElementById('toc-nav');
+                            if (tocNav) {
+                                const scrollPos = activeLink.offsetLeft - (tocNav.clientWidth / 2) + (activeLink.clientWidth / 2);
+                                tocNav.scrollTo({ left: scrollPos, behavior: 'smooth' });
+                            }
+                        }
+                    }
+                }
+            });
+        }, observerOptions);
+
+        articles.forEach(article => observer.observe(article));
+
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 500) {
+                backToTopBtn.classList.remove('opacity-0', 'pointer-events-none', 'translate-y-4');
+                backToTopBtn.classList.add('opacity-100', 'pointer-events-auto', 'translate-y-0');
+            } else {
+                backToTopBtn.classList.add('opacity-0', 'pointer-events-none', 'translate-y-4');
+                backToTopBtn.classList.remove('opacity-100', 'pointer-events-auto', 'translate-y-0');
+            }
+        });
+
+        backToTopBtn.addEventListener('click', () => {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+    });
+</script>
+
+<!-- 动态生成 SEO Structured Data -->
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "{{ .Title }}",
+    "description": "{{ .Description }}",
+    "itemListElement": [
+      {{ range $index, $element := .Params.countries }}
+      {{ if $index }},{{ end }}
+      { 
+        "@type": "ListItem", 
+        "position": {{ add $index 1 }}, 
+        "name": "{{ .name }}", 
+        "url": "{{ .btn_buy_url | absLangURL }}" 
+      }
+      {{ end }}
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {{ range $index, $element := .Params.faq.items }}
+      {{ if $index }},{{ end }}
+      {
+        "@type": "Question",
+        "name": "{{ .q }}",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{ .a }}"
+        }
+      }
+      {{ end }}
+    ]
+  }
+]
+</script>
+
+<!-- ═══════════ FOOTER ═══════════ -->
+{{ partial "footer.html" . }}
+
+</body>
+</html>

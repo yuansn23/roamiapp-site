@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<!-- 🌟 SEO 优化 1：动态读取当前语言 -->
+<html lang="{{ .Site.Language.Lang }}" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{ partial "head.html" . }}
+    <!-- 🌟 SEO 核心标签 (增加兜底逻辑) -->
+    <title>{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
+    <meta name="robots" content="index, follow">
+
+    <!-- 🌟 规范化链接 -->
+    <link rel="canonical" href="{{ .Permalink }}" />
+
+    <!-- 🌟 SEO 优化 2：多语言 hreflang 标签 (极其重要！) -->
+    {{ if .IsTranslated }}
+        {{ range .AllTranslations }}
+        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+        {{ end }}
+        <link rel="alternate" hreflang="x-default" href="{{ .Site.Home.Permalink }}">
+    {{ else }}
+        <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
+        <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+    {{ end }}
+
+    <!-- 🌟 Open Graph 社交分享标签 -->
+    <meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}">
+    <meta property="og:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    {{ with .Params.seo.image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
+
+    <!-- 🌟 Twitter Card 标签 -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}">
+    <meta name="twitter:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
+    {{ with .Params.seo.image }}<meta name="twitter:image" content="{{ . | absURL }}">{{ end }}
+    
+     
+	 
+<link href="/css/tailwind-compiled.css" rel="stylesheet">
+ 
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+ 
+    <style>
+        body { font-family: 'Inter', system-ui, sans-serif; }
+        
+        /* Typography styles for legal text */
+        .prose h2 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #0f172a;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        .prose p {
+            margin-bottom: 1rem;
+            line-height: 1.75;
+            color: #475569;
+        }
+        .prose ul {
+            list-style-type: disc;
+            padding-left: 1.5rem;
+            margin-bottom: 1rem;
+            color: #475569;
+        }
+        .prose li {
+            margin-bottom: 0.5rem;
+        }
+        .prose strong {
+            color: #0f172a;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-900 antialiased">
+ 
+<!-- ═══════════ NAV ═══════════ -->
+{{ partial "header.html" . }}
+
+<!-- ═══════════ PAGE HEADER ═══════════ -->
+<header class="bg-white border-b border-slate-200 py-16 lg:py-24">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <!-- 动态获取标题 -->
+        <h1 class="text-3xl md:text-5xl font-extrabold text-slate-900 mb-4">{{ .Title }}</h1>
+        <!-- 动态获取更新时间 -->
+        <p class="text-slate-500 text-lg">Last Updated: {{ .Params.last_updated }}</p>
+    </div>
+</header>
+
+<!-- ═══════════ PRIVACY CONTENT ═══════════ -->
+<section class="py-16">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="bg-white p-8 md:p-12 rounded-2xl shadow-sm border border-slate-200 prose">
+            <!-- 这里是核心！Hugo 会把 markdown 里的内容自动转换成 HTML 放在这里 -->
+            {{ .Content }}
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════ FOOTER ═══════════ -->
+<!-- 引入你之前做好的 footer 模板 -->
+{{ partial "footer.html" . }}
+
+<script>
+    lucide.createIcons();
+
+    // Mobile Navigation
+    document.getElementById('mobile-menu-btn').addEventListener('click', function () {
+        document.getElementById('mobile-menu').classList.toggle('hidden');
+    });
+</script>
+</body>
+</html>

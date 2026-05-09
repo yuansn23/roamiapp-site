@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}</title>
+    <meta name="description" content="{{- if .Params.seo.description -}}{{- .Params.seo.description -}}{{- else if .Params.description -}}{{- .Params.description -}}{{- else -}}{{- .Site.Params.description -}}{{- end -}}">
+    <meta name="keywords" content="{{ .Params.seo.keywords }}">
+    
+    <meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+    <meta property="og:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    <meta property="og:image" content="{{ .Params.seo.image | absURL }}">
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+    <meta name="twitter:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
+    <meta name="twitter:image" content="{{ .Params.seo.image | absURL }}">
+    
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    {{ if .IsTranslated }}
+        {{ range .AllTranslations }}
+        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+        {{ end }}
+        <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}">
+    {{ else }}
+        <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
+        <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}">
+    {{ end }}
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "{{ .Site.Title }}",
+          "url": "{{ .Site.BaseURL }}",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "{{ .Permalink }}?search={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+      ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "{{ .Params.ui.breadcrumb_home }}",
+          "item": "{{ "/" | absLangURL }}"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{ .Params.ui.breadcrumb_current }}",
+          "item": "{{ .Permalink }}"
+        }
+      ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {{- $first := true -}}
+        {{- range .Params.categories -}}
+          {{- /* 逻辑优化：通过 icon "gift" 匹配免费 eSIM 分类 */ -}}
+          {{- if and (eq .icon "gift") $.Params.free_esim_promo -}}
+            {{- if not $first -}},{{- end -}}
+            {
+              "@type": "Question",
+              "name": "{{ $.Params.free_esim_promo.question }}",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "{{ $.Params.free_esim_promo.schema_answer }}"
+              }
+            }
+            {{- $first = false -}}
+          {{- end -}}
+          
+          {{- range .questions -}}
+            {{- if not $first -}},{{- end -}}
+            {
+              "@type": "Question",
+              "name": "{{ .q | plainify }}",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "{{ .snippet | default $.Params.ui.default_snippet | plainify }} <a href=\"{{ .url | absLangURL }}\">{{ $.Params.ui.read_more_schema }}</a>"
+              }
+            }
+            {{- $first = false -}}
+          {{- end -}}
+        {{- end -}}
+      ]
+    }
+    </script>
+
+    <link href="/css/tailwind-compiled.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+ 
+    <style>
+        body { font-family: 'Inter', system-ui, sans-serif; }
+        .faq-category-content { display: none; animation: fadeIn 0.4s ease-in-out; }
+        .faq-category-content.active { display: block; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+        .nav-item.active { background-color: #eff6ff; color: #1d4ed8; font-weight: 600; }
+        .nav-item.active svg { color: #2563eb; }
+        .faq-answer { display: grid; grid-template-rows: 0fr; transition: grid-template-rows 0.3s ease-out; }
+        .faq-answer > div { overflow: hidden; }
+        .faq-item.open .faq-answer { grid-template-rows: 1fr; }
+        .faq-item.open .chevron-icon { transform: rotate(180deg); }
+        .faq-item.open { border-color: #3b82f6; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); }
+    </style>
+</head>
+
+<body class="bg-slate-50 text-slate-900 antialiased min-h-screen flex flex-col">
+
+{{ partial "header.html" . }}
+
+{{ $ui := .Params.ui }}
+{{ $freeEsims := .Params.free_esims }}
+
+{{ $cardColors := slice
+    (dict "bg" "bg-blue-50/60" "border" "border-blue-100" "hoverBorder" "hover:border-blue-400" "text" "text-blue-600" "hoverText" "group-hover:text-blue-700")
+    (dict "bg" "bg-emerald-50/60" "border" "border-emerald-100" "hoverBorder" "hover:border-emerald-400" "text" "text-emerald-600" "hoverText" "group-hover:text-emerald-700")
+    (dict "bg" "bg-purple-50/60" "border" "border-purple-100" "hoverBorder" "hover:border-purple-400" "text" "text-purple-600" "hoverText" "group-hover:text-purple-700")
+    (dict "bg" "bg-orange-50/60" "border" "border-orange-100" "hoverBorder" "hover:border-orange-400" "text" "text-orange-600" "hoverText" "group-hover:text-orange-700")
+    (dict "bg" "bg-rose-50/60" "border" "border-rose-100" "hoverBorder" "hover:border-rose-400" "text" "text-rose-600" "hoverText" "group-hover:text-rose-700")
+    (dict "bg" "bg-cyan-50/60" "border" "border-cyan-100" "hoverBorder" "hover:border-cyan-400" "text" "text-cyan-600" "hoverText" "group-hover:text-cyan-700")
+    (dict "bg" "bg-amber-50/60" "border" "border-amber-100" "hoverBorder" "hover:border-amber-400" "text" "text-amber-600" "hoverText" "group-hover:text-amber-700")
+    (dict "bg" "bg-indigo-50/60" "border" "border-indigo-100" "hoverBorder" "hover:border-indigo-400" "text" "text-indigo-600" "hoverText" "group-hover:text-indigo-700")
+}}
+
+<section class="bg-blue-600 text-white pt-20 pb-16 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-3xl mx-auto text-center">
+        <nav class="flex justify-center mb-4 text-sm text-blue-200" aria-label="Breadcrumb">
+            <ol class="inline-flex items-center space-x-2">
+                <li class="inline-flex items-center">
+                    <a href="{{ "/" | absLangURL }}" class="hover:text-white transition-colors">{{ $ui.breadcrumb_home }}</a>
+                </li>
+                <li>
+                    <div class="flex items-center">
+                        <svg aria-hidden="true" class="w-4 h-4 mx-1 opacity-70" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+                        <span class="text-white font-medium" aria-current="page">{{ $ui.breadcrumb_current }}</span>
+                    </div>
+                </li>
+            </ol>
+        </nav>
+
+        <h1 class="text-2xl sm:text-3xl lg:text-4xl font-extrabold mb-4">{{ .Params.hero.title }}</h1>
+        <p class="text-blue-100 mb-8 text-base sm:text-lg">{{ .Params.hero.subtitle }}</p>
+        
+        <form role="search" onsubmit="event.preventDefault();" class="relative max-w-xl mx-auto">
+            <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                <svg aria-hidden="true" class="h-5 w-5 text-slate-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+            </div>
+            <input type="search" aria-label="{{ $ui.search_aria_label | default "Search FAQs" }}" id="faq-search" class="block w-full pl-11 pr-4 py-3 rounded-xl border-0 text-slate-900 ring-1 ring-inset ring-slate-300 placeholder:text-slate-400 focus:ring-2 focus:ring-inset focus:ring-blue-500 sm:text-base shadow-lg outline-none transition-shadow" placeholder="{{ $ui.search_placeholder }}">
+        </form>
+    </div>
+</section>
+
+<section class="flex-1 max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-4 flex flex-col md:flex-row gap-8 lg:gap-12">
+    
+    <aside class="w-full md:w-64 shrink-0 transition-opacity duration-300" id="sidebar-nav" aria-label="{{ $ui.sidebar_aria_label | default "FAQ Sidebar" }}">
+        <div class="sticky top-24">
+            <h3 class="text-xs font-bold text-slate-400 uppercase tracking-widest mb-4 px-3">{{ $ui.sidebar_title }}</h3>
+            <nav id="faq-nav" aria-label="{{ $ui.nav_aria_label | default "FAQ Categories" }}">
+                <ul class="space-y-2 list-none p-0 m-0">
+                    {{ range $index, $category := .Params.categories }}
+                    <li>
+                        <button data-target="category-{{ $index }}" class="nav-item w-full flex items-center px-4 py-3 text-sm font-medium rounded-xl text-slate-600 hover:bg-slate-100 hover:text-slate-900 transition-all {{ if eq $index 0 }}active{{ end }}" aria-controls="category-{{ $index }}">
+                            <svg aria-hidden="true" class="w-5 h-5 mr-3 text-slate-400 transition-colors" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"/></svg>
+                            {{ .name }}
+                        </button>
+                    </li>
+                    {{ end }}
+                </ul>
+            </nav>
+
+            {{ with .Params.sidebar_promo }}
+            <div class="mt-8 bg-gradient-to-br from-blue-50 to-indigo-50 border border-blue-100 rounded-xl p-5 shadow-sm hidden md:block">
+                <div class="flex items-center gap-2 mb-2">
+                    <span class="text-lg" aria-hidden="true">{{ .icon | default "🎁" }}</span>
+                    <h3 class="font-bold text-slate-900 text-sm">{{ .title }}</h3>
+                </div>
+                <p class="text-xs text-slate-600 mb-4 leading-relaxed">{{ .desc }}</p>
+                <ul class="flex flex-wrap gap-2 mb-4 list-none p-0 m-0">
+                    {{ range first 6 $freeEsims }}
+                    <li>
+                        <a href="{{ .url | absLangURL }}" class="text-xs bg-white border border-blue-200 hover:border-blue-500 hover:text-blue-600 text-slate-700 px-2.5 py-1.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm" title="{{ .country }} {{ $ui.free_esim_trial_title_suffix }}">
+                            <span aria-hidden="true">{{ .emoji }}</span> {{ .country }}
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+                <a href="{{ .url | absLangURL }}" class="block w-full text-center text-xs font-semibold bg-blue-600 hover:bg-blue-700 text-white py-2.5 rounded-lg transition-colors shadow-sm">
+                    {{ .btn_text }}
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </aside>
+
+    <main class="flex-1 min-w-0" aria-label="{{ $ui.main_content_aria_label | default "FAQ Content" }}">
+        <div class="bg-white rounded-3xl shadow-sm border border-slate-200 p-6 sm:p-10 min-h-[500px]" id="faq-container">
+            
+            <div id="no-results" class="hidden text-center py-16" aria-live="polite">
+                <svg aria-hidden="true" class="w-12 h-12 text-slate-300 mx-auto mb-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m13.5 8.5-5 5"/><path d="m8.5 8.5 5 5"/><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+                <h3 class="text-lg font-medium text-slate-900 mb-2">{{ $ui.no_results_title }}</h3>
+                <p class="text-slate-500 text-sm">{{ $ui.no_results_desc }}</p>
+            </div>
+
+            {{ range $index, $category := .Params.categories }}
+            <div id="category-{{ $index }}" class="faq-category-content {{ if eq $index 0 }}active{{ end }}" role="region" aria-labelledby="cat-heading-{{ $index }}">
+                
+                <div class="mb-8 border-b border-slate-100 pb-6 category-header flex flex-col sm:flex-row sm:justify-between sm:items-end gap-4">
+                    <div>
+                        <h2 id="cat-heading-{{ $index }}" class="text-2xl font-bold text-slate-900 mb-2">{{ .name }}</h2>
+                        <p class="text-slate-500">{{ .description }}</p>
+                    </div>
+                </div>
+
+                <ul class="space-y-4 list-none p-0 m-0">
+                    {{/* 关键逻辑修复：使用 icon "gift" 判断，解决翻译后 Free eSIM 矩阵消失的问题 */}}
+                    {{ if and (eq .icon "gift") $.Params.free_esim_promo }}
+                    <li class="faq-item group border border-slate-200 rounded-2xl bg-white transition-all duration-200 hover:border-blue-300 open">
+                        <button class="faq-toggle w-full flex items-center justify-between p-4 text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 rounded-2xl" aria-expanded="true" aria-controls="faq-ans-free-esim">
+                            <h3 class="text-base m-0 text-slate-700 font-medium pr-4 group-hover:text-blue-700 transition-colors">
+                                {{ $.Params.free_esim_promo.question }}
+                            </h3>
+                            <svg aria-hidden="true" class="chevron-icon w-5 h-5 text-slate-400 transition-transform duration-300 flex-shrink-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+                        </button>
+                        <div class="faq-answer" id="faq-ans-free-esim">
+                            <div class="px-4 pb-4">
+                                <div class="w-full h-px bg-slate-100 mb-4" aria-hidden="true"></div>
+                                <p class="text-slate-600 text-sm leading-relaxed mb-4">{{ $.Params.free_esim_promo.html_desc }}</p>
+                                <div class="mt-2 mb-3 bg-slate-50 border border-slate-100 rounded-xl p-4">
+                                    <div class="flex items-center justify-between mb-4">
+                                        <h4 class="text-sm font-bold text-slate-900 flex items-center gap-2">
+                                            <span class="flex h-2 w-2 relative" aria-hidden="true">
+                                                <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
+                                                <span class="relative inline-flex rounded-full h-2 w-2 bg-blue-500"></span>
+                                            </span>
+                                            {{ $.Params.free_esim_promo.box_title }}
+                                        </h4>
+                                        <a href="{{ $.Params.free_esim_promo.see_all_url | absLangURL }}" class="text-xs font-semibold text-blue-600 hover:text-blue-800 flex items-center gap-1">
+                                            {{ $.Params.free_esim_promo.see_all }}
+                                            <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                                        </a>
+                                    </div>
+                                    <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 list-none p-0 m-0">
+                                        {{ range $idx, $esim := $freeEsims }}
+                                        {{ $c := index $cardColors (mod $idx (len $cardColors)) }}
+                                        <li>
+                                            <a href="{{ .url | absLangURL }}" title="{{ .country }} {{ $ui.free_esim_suffix }}" class="group block {{ $c.bg }} border {{ $c.border }} rounded-lg p-3 {{ $c.hoverBorder }} hover:shadow-sm transition-all duration-200 h-full">
+                                                <div class="flex items-center gap-2 mb-1.5">
+                                                    <span class="text-xl group-hover:scale-110 transition-transform" aria-hidden="true">{{ .emoji }}</span>
+                                                    <h5 class="text-sm font-bold text-slate-900 {{ $c.hoverText }} transition-colors">{{ .country }} {{ $ui.free_esim_suffix }}</h5>
+                                                </div>
+                                                <p class="text-[11px] text-slate-500 mb-2 line-clamp-1">{{ .desc }}</p>
+                                                <div class="flex items-center text-[11px] font-semibold {{ $c.text }} {{ $c.hoverText }}">
+                                                    {{ $ui.claim_free_trial }}
+                                                    <svg aria-hidden="true" class="w-3 h-3 ml-1 transform group-hover:translate-x-1 transition-transform" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        {{ end }}
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    {{ end }}
+
+                    {{ range $qIndex, $question := .questions }}
+                    <li class="faq-item group border border-slate-200 rounded-2xl bg-white transition-all duration-200 hover:border-blue-300">
+                        <button class="faq-toggle w-full flex items-center justify-between p-4 text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 rounded-2xl" aria-expanded="false" aria-controls="faq-ans-{{ $index }}-{{ $qIndex }}">
+                            <h3 class="text-base m-0 text-slate-700 font-medium pr-4 group-hover:text-blue-700 transition-colors">{{ .q }}</h3>
+                            <svg aria-hidden="true" class="chevron-icon w-5 h-5 text-slate-400 transition-transform duration-300 flex-shrink-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+                        </button>
+                        <div class="faq-answer" id="faq-ans-{{ $index }}-{{ $qIndex }}">
+                            <div class="px-4 pb-4">
+                                <div class="w-full h-px bg-slate-100 mb-4" aria-hidden="true"></div>
+                                <p class="text-slate-600 text-sm leading-relaxed mb-4">{{ .snippet | default $ui.default_snippet }}</p>
+                                <div class="mt-4 pt-4 border-t border-slate-50 flex items-center justify-between">
+                                    <a href="{{ .url | absLangURL }}" aria-label="{{ $ui.read_full_guide_aria_prefix }} {{ .q }}" class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors">
+                                        {{ $ui.read_full_guide }}
+                                        <svg aria-hidden="true" class="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+            {{ end }}
+        </div>
+    </main>
+</section>
+
+<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 mt-8 mb-8 border-t border-slate-200">
+    <div class="text-center mb-10">
+        <h2 class="text-2xl md:text-3xl font-bold text-slate-900 mb-3">{{ .Params.related_products.title }}</h2>
+        {{ with .Params.related_products.subtitle }}
+        <p class="text-slate-500 text-base max-w-2xl mx-auto">{{ . }}</p>
+        {{ end }}
+    </div>
+    <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4 list-none p-0 m-0">
+        {{ range .Params.related_products.items }}
+        <li>
+            {{/* 核心逻辑：自动生成多语言产品链接 */}}
+            {{ $prodLink := printf "/%s-esim/" (replace (lower .name) " esim" "") | absLangURL }}
+            <a href="{{ $prodLink }}" class="relative flex flex-col items-center justify-center p-5 rounded-2xl border {{ if .is_highlight }}border-blue-400 bg-blue-50/30{{ else }}border-slate-100 bg-white{{ end }} hover:border-blue-500 hover:shadow-md hover:-translate-y-1 transition-all duration-300 group h-full">
+                {{ if .is_highlight }}
+                <span class="absolute top-0 right-0 -mt-2 -mr-2 flex h-4 w-4" aria-hidden="true">
+                  <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
+                  <span class="relative inline-flex rounded-full h-4 w-4 bg-blue-500"></span>
+                </span>
+                {{ end }}
+                <img src="{{ .flag }}" alt="{{ .name }} {{ $ui.esim_flag_alt_suffix }}" class="w-12 h-12 object-contain mb-3 group-hover:scale-110 transition-transform duration-300 drop-shadow-sm" loading="lazy">
+                <h3 class="text-sm font-semibold text-slate-700 group-hover:text-blue-600 text-center leading-tight m-0">{{ .name }}</h3>
+                <span class="text-xs text-slate-500 mt-1.5 font-medium">{{ .price }}</span>
+            </a>
+        </li>
+        {{ end }}
+    </ul>
+</section>
+
+{{ partial "footer.html" . }}
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const navItems = document.querySelectorAll('.nav-item');
+        const categoryContents = document.querySelectorAll('.faq-category-content');
+        const faqToggles = document.querySelectorAll('.faq-toggle');
+        const searchInput = document.getElementById('faq-search');
+        const sidebarNav = document.getElementById('sidebar-nav');
+        const noResults = document.getElementById('no-results');
+
+        const freeEsimKeyword = '{{ lower ($ui.free_esim_js_keyword | default "free esim trial") }}';
+
+        /* 1. 分类切换 */
+        navItems.forEach(item => {
+            item.addEventListener('click', () => {
+                if(searchInput.value) {
+                    searchInput.value = '';
+                    searchInput.dispatchEvent(new Event('input'));
+                }
+                navItems.forEach(nav => {
+                    nav.classList.remove('active');
+                    nav.setAttribute('aria-selected', 'false');
+                });
+                categoryContents.forEach(content => {
+                    content.classList.remove('active');
+                    content.style.display = ''; 
+                });
+                item.classList.add('active');
+                item.setAttribute('aria-selected', 'true');
+                const targetId = item.getAttribute('data-target');
+                document.getElementById(targetId).classList.add('active');
+            });
+        });
+
+        /* 2. 手风琴逻辑 */
+        faqToggles.forEach(toggle => {
+            toggle.addEventListener('click', () => {
+                const parentItem = toggle.closest('.faq-item');
+                const isOpen = parentItem.classList.toggle('open');
+                toggle.setAttribute('aria-expanded', isOpen);
+            });
+        });
+
+        /* 3. 搜索优化 */
+        let searchTimeout;
+        searchInput.addEventListener('input', (e) => {
+            clearTimeout(searchTimeout);
+            searchTimeout = setTimeout(() => {
+                const keyword = e.target.value.toLowerCase().trim();
+                let hasAnyResult = false;
+                
+                if (keyword) {
+                    if(sidebarNav) sidebarNav.style.opacity = '0.4';
+                    categoryContents.forEach(content => {
+                        content.classList.add('active');
+                        content.style.display = 'block';
+                        let hasVisibleItem = false;
+                        content.querySelectorAll('.faq-item').forEach(item => {
+                            if (item.textContent.toLowerCase().includes(keyword)) {
+                                item.style.display = 'block';
+                                hasVisibleItem = true;
+                                hasAnyResult = true;
+                            } else {
+                                item.style.display = 'none';
+                                item.classList.remove('open');
+                            }
+                        });
+                        const header = content.querySelector('.category-header');
+                        if(header) header.style.display = hasVisibleItem ? 'flex' : 'none';
+                    });
+                    noResults.classList.toggle('hidden', hasAnyResult);
+                } else {
+                    if(sidebarNav) sidebarNav.style.opacity = '1';
+                    noResults.classList.add('hidden');
+                    const activeNavItem = document.querySelector('.nav-item.active');
+                    const activeTargetId = activeNavItem ? activeNavItem.getAttribute('data-target') : 'category-0';
+                    categoryContents.forEach(content => {
+                        if(content.querySelector('.category-header')) content.querySelector('.category-header').style.display = 'flex';
+                        content.querySelectorAll('.faq-item').forEach(item => {
+                            item.style.display = 'block';
+                            const h3Title = item.querySelector('h3');
+                            if (h3Title && !h3Title.textContent.toLowerCase().includes(freeEsimKeyword)) {
+                                item.classList.remove('open');
+                            } else {
+                                item.classList.add('open');
+                            }
+                        });
+                        const isActive = content.id === activeTargetId;
+                        content.classList.toggle('active', isActive);
+                        content.style.display = isActive ? 'block' : 'none';
+                    });
+                }
+            }, 150);
+        });
+    });
+</script>
+</body>
+</html>

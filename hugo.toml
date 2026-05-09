@@ -1,0 +1,259 @@
+baseURL = "https://www.roamiapp.com/"
+languageCode = "en-us"
+title = "Roami"
+defaultContentLanguage = "en" 
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+	  
+# 1. 定义自定义输出格式
+[outputFormats.FaqSitemap]
+  mediaType = "application/xml"
+  baseName = "sitemap"
+  isPlainText = false
+
+# 2. 修改你的 outputs 配置（把 section 里的 Sitemap 去掉，保持干净）
+[outputs]
+  home = ["HTML", "RSS", "Sitemap"]
+  page = ["HTML"]
+  # 注意：这里不需要写 section = [...] 了，我们在 _index.md 里单独指定
+
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-SPQT223N41'
+
+# 英文配置
+    [languages.en]
+    languageName = "English"
+    contentDir = "content/en"  # 告诉 Hugo 英文内容在这个文件夹
+    weight = 1
+	
+ [languages.en.params]
+    # 导航栏文案
+    nav_links = [
+      { name = "Home", url = "/" },
+      { name = "Plans", url = "/plans/" },
+      { name = "eSIM Compatibility", url = "/compatibility/" },
+     { name = "Free eSIM", url = "/free-esim/" },
+      { name = "Roami APP", url = "/app/" },
+	   { name = "Carriers", url = "/carriers/" },
+      { name = "FAQ", url = "/faq/" }
+    ]
+    
+
+# 页脚文案
+    footer_desc = "Providing premium eSIM services in 200+ countries and regions, keeping you connected wherever you travel."
+    
+    footer_col1_title = "Top Destinations"
+    # 优化：将纯文本改为带链接的对象，并使用绝对路径
+    footer_col1_links = [
+{name="United States eSIM", url="/united-states-esim/"}, 
+{name="Europe eSIM", url="/europe-esim/"}, 
+{name="Japan eSIM", url="/japan-esim/"}, 
+{name="Germany eSIM", url="/germany-esim/"}, 
+{name="Turkey eSIM", url="/turkey-esim/"}, 
+{name="Canada eSIM", url="/canada-esim/"}
+    ]
+    
+    footer_col2_title = "Customer Support"
+    # 优化：前面加 "/"，并建议去掉 .html 使用 Clean URL
+    footer_col2_links = [
+  { name = "FAQ", url = "/faq/" }, 
+  { name = "eSIM Compatibility", url = "/compatibility/" },
+   { name = "Carriers", url = "/carriers/" },
+     { name = "Download Roami", url = "/app/" }
+]
+    
+    footer_col3_title = "Company Info"
+    # 优化：前面加 "/"，确保从任何页面点击都跳回根目录
+    footer_col3_links = [
+      {name="About Us", url="/about-us/"}, 
+	  {name="Free eSIM", url="/free-esim/"}, 
+      {name="Privacy Policy", url="/privacy/"}, 
+      {name="Terms of Service", url="/terms/"}
+    ]
+    
+    footer_copyright = "© 2026 Roami. All rights reserved."
+    footer_slogan = "Professional Global eSIM Service Provider | Global eSIM Data Roaming Expert"
+
+    # 弹窗文案
+    modal_title = "Notice"
+    modal_cancel = "Cancel"
+    modal_confirm = "Go now"
+	
+# ==========================================
+# 德语配置 (German)
+# ==========================================
+[languages.de]
+  languageName = "Deutsch"
+  contentDir = "content/de"  # 德语内容文件夹
+  weight = 2
+
+[languages.de.params]
+  # 导航栏文案
+  nav_links = [
+    { name = "Startseite", url = "/" },
+    { name = "Tarife", url = "/plans/" },
+    { name = "eSIM-Kompatibilität", url = "/compatibility/" },
+    { name = "Kostenlose eSIM", url = "/free-esim/" },
+    { name = "Roami APP", url = "/app/" },
+	{ name = "Netzbetreiber", url = "/carriers/" },
+    { name = "FAQ", url = "/faq/" }
+  ]
+
+  # 页脚文案
+  footer_desc = "Bereitstellung erstklassiger eSIM-Dienste in über 200 Ländern und Regionen, damit Sie überall auf Reisen verbunden bleiben."
+  
+  footer_col1_title = "Top-Reiseziele"
+  footer_col1_links = [
+    {name="USA eSIM", url="/united-states-esim/"}, 
+    {name="Europa eSIM", url="/europe-esim/"}, 
+    {name="Japan eSIM", url="/japan-esim/"}, 
+    {name="Deutschland eSIM", url="/germany-esim/"}, 
+    {name="Türkei eSIM", url="/turkey-esim/"}, 
+    {name="Kanada eSIM", url="/canada-esim/"}
+  ]
+  
+  footer_col2_title = "Kundensupport"
+  footer_col2_links = [
+    { name = "FAQ", url = "/faq/" }, 
+    { name = "eSIM-Kompatibilität", url = "/compatibility/" },
+	   { name = "Netzbetreiber", url = "/carriers/" },
+     { name = "Herunterladen Roami", url = "/app/" }
+  ]
+  
+  footer_col3_title = "Unternehmensinfo"
+  footer_col3_links = [
+    {name="Über uns", url="/about-us/"}, 
+    {name="Kostenlose eSIM", url="/free-esim/"}, 
+    {name="Datenschutzrichtlinie", url="/privacy/"}, 
+    {name="Nutzungsbedingungen", url="/terms/"}
+  ]
+  
+  footer_copyright = "© 2026 Roami. Alle Rechte vorbehalten."
+  footer_slogan = "Professioneller globaler eSIM-Dienstanbieter | Experte für globales eSIM-Datenroaming"
+
+  # 弹窗文案
+  modal_title = "Hinweis"
+  modal_cancel = "Abbrechen"
+  modal_confirm = "Jetzt loslegen"
+
+
+# ==========================================
+# 意大利语配置 (Italian)
+# ==========================================
+[languages.it]
+  disabled = true
+  languageName = "Italiano"
+  contentDir = "content/it"  # 意大利语内容文件夹
+  weight = 3
+
+[languages.it.params]
+  # 导航栏文案
+  nav_links = [
+    { name = "Home", url = "/" },
+    { name = "Piani", url = "/plans/" },
+    { name = "Compatibilità eSIM", url = "/compatibility/" },
+    { name = "eSIM Gratuita", url = "/free-esim/" },
+       { name = "Roami APP", url = "/app/" },
+	   { name = "Carriers", url = "/carriers/" },
+    { name = "FAQ", url = "/faq/" }
+  ]
+
+  # 页脚文案
+  footer_desc = "Forniamo servizi eSIM premium in oltre 200 paesi e regioni, mantenendoti connesso ovunque tu viaggi."
+  
+  footer_col1_title = "Destinazioni Principali"
+  footer_col1_links = [
+    {name="eSIM Stati Uniti", url="/united-states-esim/"}, 
+    {name="eSIM Europa", url="/europe-esim/"}, 
+    {name="eSIM Giappone", url="/japan-esim/"}, 
+    {name="eSIM Germania", url="/germany-esim/"}, 
+    {name="eSIM Turchia", url="/turkey-esim/"}, 
+    {name="eSIM Canada", url="/canada-esim/"}
+  ]
+  
+  footer_col2_title = "Assistenza Clienti"
+  footer_col2_links = [
+    { name = "FAQ", url = "/faq/" }, 
+    { name = "Compatibilità eSIM", url = "/compatibility/" },
+    { name = "Contatta l'assistenza", url = "/contact/" }
+  ]
+  
+  footer_col3_title = "Info sull'Azienda"
+  footer_col3_links = [
+    {name="Chi Siamo", url="/about-us/"}, 
+    {name="eSIM Gratuita", url="/free-esim/"}, 
+    {name="Informativa sulla Privacy", url="/privacy/"}, 
+    {name="Termini di Servizio", url="/terms/"}
+  ]
+  
+  footer_copyright = "© 2026 Roami. Tutti i diritti riservati."
+  footer_slogan = "Fornitore professionale di servizi eSIM globali | Esperto di roaming dati eSIM globale"
+
+  # 弹窗文案
+  modal_title = "Avviso"
+  modal_cancel = "Annulla"
+  modal_confirm = "Vai ora"
+  
+  # ==========================================
+# 俄语配置 (Russian)
+# ==========================================
+[languages.ru]
+disabled = true
+  languageName = "Русский"
+  contentDir = "content/ru"  # 俄语内容文件夹
+  weight = 4
+
+[languages.ru.params]
+  # 导航栏文案
+  nav_links = [
+    { name = "Главная", url = "/" },
+    { name = "Тарифы", url = "/plans/" },
+    { name = "Совместимость eSIM", url = "/compatibility/" },
+    { name = "Бесплатная eSIM", url = "/free-esim/" },
+      { name = "Roami APP", url = "/app/" },
+	   { name = "Carriers", url = "/carriers/" },
+    { name = "FAQ", url = "/faq/" }
+  ]
+
+  # 页脚文案
+  footer_desc = "Предоставляем высококачественные eSIM-услуги в более чем 200 странах и регионах, оставаясь на связи во время любых путешествий."
+  
+  footer_col1_title = "Популярные направления"
+  footer_col1_links = [
+    {name="eSIM США", url="/united-states-esim/"}, 
+    {name="eSIM Европа", url="/europe-esim/"}, 
+    {name="eSIM Япония", url="/japan-esim/"}, 
+    {name="eSIM Германия", url="/germany-esim/"}, 
+    {name="eSIM Турция", url="/turkey-esim/"}, 
+    {name="eSIM Канада", url="/canada-esim/"}
+  ]
+  
+  footer_col2_title = "Поддержка клиентов"
+  footer_col2_links = [
+    { name = "FAQ", url = "/faq/" }, 
+    { name = "Совместимость eSIM", url = "/compatibility/" },
+    { name = "Связаться с поддержкой", url = "/contact/" }
+  ]
+  
+  footer_col3_title = "О компании"
+  footer_col3_links = [
+    {name="О нас", url="/about-us/"}, 
+    {name="Бесплатная eSIM", url="/free-esim/"}, 
+    {name="Политика конфиденциальности", url="/privacy/"}, 
+    {name="Условия использования", url="/terms/"}
+  ]
+  
+  footer_copyright = "© 2026 Roami. Все права защищены."
+  footer_slogan = "Профессиональный мировой провайдер eSIM-услуг | Эксперт по глобальному роумингу данных eSIM"
+
+  # 弹窗文案
+  modal_title = "Уведомление"
+  modal_cancel = "Отмена"
+  modal_confirm = "Перейти"

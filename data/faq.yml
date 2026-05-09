@@ -1,0 +1,59 @@
+# data/faq.yml
+
+related_questions_btn:
+  text: "View All Questions"
+  url: "/faq"
+  
+  # 新增的全局标题配置 (支持多语言的话可以根据语言配置)
+titles:
+  table_of_contents: "Table of Contents"
+  related_topics: "Related Topics"
+  related_questions: "Related Questions"
+  popular_destinations: "Popular eSIM Destinations"
+
+
+related_questions:
+  - title: "Which devices are compatible with eSIM?"
+    icon: "smartphone"
+  - title: "How to check my remaining data balance?"
+    icon: "wifi"
+  - title: "How to set up APN manually?"
+    icon: "settings"
+  - title: "Can I top up my eSIM data?"
+    icon: "refresh-cw"
+  - title: "What happens if I delete my eSIM?"
+    icon: "trash-2"
+  - title: "Does eSIM support phone calls and SMS?"
+    icon: "globe"
+
+popular_destinations:
+  - country: "France"
+    emoji: "🇫🇷"
+    image: "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=400&q=80"
+    price: "$1.99"
+    has_5g: true
+  - country: "Japan"
+    emoji: "🇯🇵"
+    image: "https://images.unsplash.com/photo-1480796927426-f609979314bd?auto=format&fit=crop&w=400&q=80"
+    price: "$1.99"
+    has_5g: true
+  - country: "United-Kingdom"
+    emoji: "🇬🇧"
+    image: "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=400&q=80"
+    price: "$1.99"
+    has_5g: true
+  - country: "United-States"
+    emoji: "🇺🇸"
+    image: "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=400&q=80"
+    price: "$1.99"
+    has_5g: true
+  - country: "Thailand"
+    emoji: "🇹🇭"
+    image: "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=400&q=80"
+    price: "$1.99"
+    has_5g: true
+  - country: "Australia"
+    emoji: "🇦🇺"
+    image: "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=400&q=80"
+    price: "$1.99"
+    has_5g: true

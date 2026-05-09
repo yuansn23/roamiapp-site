@@ -1,0 +1,9 @@
+# Hugo 构建产物
+/public/
+
+# Hugo 缓存
+/resources/_gen/
+
+# 本地环境
+hugo.exe
+.env

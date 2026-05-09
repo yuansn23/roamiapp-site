@@ -1,0 +1,226 @@
+<meta charset="UTF-8">
+<!-- TrustBox script -->
+<script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+<!-- End TrustBox script -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+{{ template "_internal/google_analytics.html" . }}
+ 
+<!-- 🌟 1. 动态 Title 逻辑 -->
+<title>
+    {{- if .Params.seo.title -}}
+        {{- .Params.seo.title -}}  
+    {{- else if .Title -}}
+        {{- .Title -}} | {{- .Site.Title -}}  
+    {{- else -}}
+        {{- .Site.Title -}}  
+    {{- end -}}
+</title>
+
+<!-- 🌟 2. 动态 Description 逻辑 -->
+<meta name="description" content="{{- if .Params.seo.description -}}{{- .Params.seo.description -}}{{- else if .Params.description -}}{{- .Params.description -}}{{- else -}}{{- .Site.Params.description -}}{{- end -}}">
+
+<!-- 🌟 3. 动态 Keywords 逻辑 (可选) -->
+{{ if .Params.seo.keywords }}
+<meta name="keywords" content="{{ .Params.seo.keywords }}">
+{{ end }}
+
+<!-- ═══════════ Language & Canonical ═══════════ -->
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{ if .IsTranslated }}
+    {{ range .AllTranslations }}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+    {{ end }}
+    <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}">
+{{ else }}
+    <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
+    <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}">
+{{ end }}
+	
+<!-- 🌟 当前页面的绝对路径 (极其重要) --> 
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+
+<!-- 4. Open Graph / 社交媒体分享标签 -->
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{- if .Params.seo.description -}}{{- .Params.seo.description -}}{{- else -}}{{- .Params.description -}}{{- end -}}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="Roami eSIM">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ .Params.description }}">
+
+<!-- 🌟 性能优化：预连接 Google 字体，加速加载 -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+<!-- 🌟 性能优化：引入预编译的 Tailwind CSS 文件 -->
+<!-- 请确保在 Hugo 中配置了 Tailwind 编译，或者手动编译后放在 static/css/ 目录下 --> 
+<link href="/css/tailwind-compiled.css" rel="stylesheet">
+<!-- 自定义样式 -->
+<style>
+    body { font-family: 'Inter', system-ui, sans-serif; }
+    .gradient-text {
+        background: linear-gradient(90deg, #2563eb 0%, #38bdf8 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+    /* ── Tabs ── */
+    .tab-content { display: none; }
+    .tab-content.active { display: block; animation: fadeUp .3s ease; }
+    @keyframes fadeUp {
+        from { opacity:0; transform:translateY(10px); }
+        to   { opacity:1; transform:translateY(0); }
+    }
+    /* ── Destination cards ── */
+    .dest-card {
+        transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+        box-shadow: 0 2px 8px rgba(0,0,0,.04);
+    }
+    .dest-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 16px 36px rgba(37,99,235,.12);
+        border-color: #93c5fd;
+    }
+    .dest-card:hover .flag-img { transform: scale(1.1); }
+    .dest-card:hover .card-action { background-color: #eff6ff; color: #2563eb; }
+    .flag-img { transition: transform .2s ease; }
+    /* ── Download buttons ── */
+    .appstore-btn {
+        display: inline-flex; align-items: center; gap: 12px;
+        background: #000; color: #fff; border-radius: 14px;
+        padding: 10px 20px; cursor: pointer; border: 1px solid rgba(255,255,255,.12);
+        transition: all .2s ease;
+    }
+    .appstore-btn:hover { background: #1a1a1a; transform: scale(1.03); box-shadow: 0 12px 32px rgba(0,0,0,.2); }
+    .android-btn { background: #0f2a0f; border-color: rgba(74,222,128,.25); }
+    .android-btn:hover { background: #193319; }
+    .web-btn { background: #1e3a8a; border-color: rgba(59,130,246,.4); }
+    .web-btn:hover { background: #1e40af; }
+    /* ── Misc ── */
+    .pulse-dot { animation: pulse 2s infinite; }
+    @keyframes pulse {
+        0%,100% { opacity:.7; transform:scale(1); }
+        50%      { opacity:1; transform:scale(1.2); }
+    }
+    .hide-scrollbar::-webkit-scrollbar { display: none; }
+    .hide-scrollbar { -ms-overflow-style:none; scrollbar-width:none; }
+    .card-hover { transition: transform .2s ease, box-shadow .2s ease; }
+    .card-hover:hover { transform:translateY(-4px); box-shadow:0 14px 30px rgba(37,99,235,.14); }
+    .feature-card { transition: all .25s ease; }
+    .feature-card:hover { background: #eff6ff; }
+    .feature-icon { transition: transform .25s ease; }
+    .feature-card:hover .feature-icon { transform: scale(1.1); }
+    /* ── FAQ Details Styles ── */
+    details > summary { list-style: none; }
+    details > summary::-webkit-details-marker { display: none; }
+    details[open] summary ~ * { animation: fadeIn 0.3s ease-in-out; }
+    @keyframes fadeIn {
+        0% { opacity: 0; transform: translateY(-10px); }
+        100% { opacity: 1; transform: translateY(0); }
+    }
+    /* DL Tabs */
+    .dl-tab-content.hidden, .dl-tab-content2.hidden { display: none; }
+    .dl-tab-content.active, .dl-tab-content2.active { display: block; animation: fadeUp .3s ease; }
+</style>
+
+<!-- 🌟 5. 组织结构化数据与首页专属数据 -->
+{{ if .IsHome }}
+    <!-- 公司信息 -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Roami",
+      "url": "{{ .Site.BaseURL }}",
+      "logo": "{{ "logo.png" | absURL }}",
+      "description": "Professional Global eSIM Service Provider offering high-speed data roaming in 200+ countries.",
+      "sameAs": [
+        "https://apps.apple.com/app/id6747127122",
+        "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+      ]
+    }
+    </script>
+
+    <!-- App 软件信息 -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "Roami eSIM App",
+      "operatingSystem": "iOS, Android",
+      "applicationCategory": "TravelApplication",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD"
+      }
+    }
+    </script>
+
+    <!-- 核心产品信息 -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Roami Global Travel eSIM",
+      "description": "Prepaid travel eSIM plans for 200+ countries with instant activation and 5G/4G high-speed internet.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Roami"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "lowPrice": "1.99",
+        "priceCurrency": "USD",
+        "offerCount": "200"
+      }
+    }
+    </script>
+
+    <!-- FAQ 问答 -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How to buy a USA eSIM?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To buy a USA eSIM, simply download the Roami app, select United States as your destination, choose a data plan that fits your needs, and complete the purchase. Activation is instant."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How to buy a Japan eSIM online?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Buying a Japan eSIM is easy with Roami. Search for Japan in our app, select your preferred 5G/4G data package, and install it via QR code or one-click activation before your trip."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How to get an eSIM for Europe, UK, or France?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Roami offers regional Europe eSIMs as well as local plans for the UK, France, Italy, Germany, and Spain. Just select your destination in the app to get connected instantly without roaming fees."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why choose Roami over Airalo, Nomad, Holafly, or Ubigi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "While Airalo, Nomad eSIM, Holafly, Saily eSIM, Yesim, MobiMatter, and GigSky are options, Roami provides highly competitive pricing starting at $1.99, 24/7 human support, and a worry-free refund policy for 200+ countries."
+          }
+        }
+      ]
+    }
+    </script>
+{{ end }}

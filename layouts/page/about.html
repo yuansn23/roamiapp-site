@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<!-- 🌟 SEO 优化 1：动态读取当前语言 -->
+<html lang="{{ .Site.Language.Lang }}" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{ partial "head.html" . }}
+    <!-- 🌟 SEO 核心标签 (增加兜底逻辑) -->
+    <title>{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - Roami{{ end }}</title>
+    <meta name="description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
+    <meta name="robots" content="index, follow">
+
+    <!-- 🌟 规范化链接 -->
+    <link rel="canonical" href="{{ .Permalink }}" />
+
+    <!-- 🌟 SEO 优化 2：多语言 hreflang 标签 (极其重要！) -->
+    {{ if .IsTranslated }}
+        {{ range .AllTranslations }}
+        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+        {{ end }}
+        <link rel="alternate" hreflang="x-default" href="{{ .Site.Home.Permalink }}">
+    {{ else }}
+        <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
+        <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+    {{ end }}
+
+    <!-- 🌟 Open Graph 社交分享标签 -->
+    <meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+    <meta property="og:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    {{ with .Params.seo.image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
+
+    <!-- 🌟 Twitter Card 标签 -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+    <meta name="twitter:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
+    {{ with .Params.seo.image }}<meta name="twitter:image" content="{{ . | absURL }}">{{ end }}
+    
+   
+<link href="/css/tailwind-compiled.css" rel="stylesheet">
+ 
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: { extend: { fontFamily: { 'sans': ['Inter','system-ui','sans-serif'] } } }
+        }
+    </script>
+    <style>
+        body { font-family: 'Inter', system-ui, sans-serif; }
+
+        .gradient-text {
+            background: linear-gradient(90deg, #2563eb 0%, #38bdf8 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .appstore-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            background: #000;
+            color: #fff;
+            border-radius: 14px;
+            padding: 10px 20px;
+            cursor: pointer;
+            border: 1px solid rgba(255,255,255,.12);
+            transition: all .2s ease;
+        }
+        .appstore-btn:hover {
+            background: #1a1a1a;
+            transform: scale(1.03);
+            box-shadow: 0 12px 32px rgba(0,0,0,.2);
+        }
+        .android-btn { background: #0f2a0f; border-color: rgba(74,222,128,.25); }
+        .android-btn:hover { background: #193319; }
+
+        .city-card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .city-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        }
+        .city-card:hover img {
+            transform: scale(1.05);
+        }
+        .city-img-wrapper img {
+            transition: transform 0.5s ease;
+        }
+    </style>
+</head>
+<body class="bg-white text-slate-900 antialiased">
+
+ 
+<!-- ═══════════ NAV ═══════════ -->
+{{ partial "header.html" . }}
+
+
+<!-- ═══════════ ABOUT HERO ═══════════ -->
+<section class="relative pt-24 pb-32 lg:pt-32 lg:pb-40 overflow-hidden">
+    <div class="absolute inset-0 z-0">
+        <!-- 修改点 1：使用 relURL 确保路径从根目录开始 -->
+        <img src="{{ .Params.hero.bg_image | relURL }}" alt="Global Travel" class="w-full h-full object-cover object-center">
+        <div class="absolute inset-0 bg-slate-900/70 backdrop-blur-[2px]"></div>
+    </div>
+    
+    <div class="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <p class="text-blue-400 text-sm font-bold uppercase tracking-widest mb-4">{{ .Params.hero.subtitle }}</p>
+        <h1 class="text-4xl md:text-5xl lg:text-6xl font-extrabold text-white leading-tight mb-6">
+            {{ .Params.hero.title_main | safeHTML }} 
+            <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400">{{ .Params.hero.title_highlight }}</span>
+        </h1>
+        <p class="text-lg md:text-xl text-slate-300 leading-relaxed mb-10 max-w-2xl mx-auto">
+            {{ .Params.hero.description }}
+        </p>
+    </div>
+</section>
+
+<!-- ═══════════ OUR MISSION & VISION ═══════════ -->
+<section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="grid lg:grid-cols-2 gap-16 items-center">
+            <!-- Left: Text Content -->
+            <div>
+                <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-6">{{ .Params.mission.title }}</h2>
+                
+                {{ range .Params.mission.paragraphs }}
+                <p class="text-lg text-slate-600 mb-6 leading-relaxed">
+                    {{ . | safeHTML }}
+                </p>
+                {{ end }}
+                
+                <div class="grid sm:grid-cols-2 gap-6">
+                    {{ range .Params.mission.features }}
+                    <div class="bg-slate-50 p-5 rounded-2xl border border-slate-100">
+                        <div class="w-10 h-10 {{ if eq .color "blue" }}bg-blue-100 text-blue-600{{ else }}bg-emerald-100 text-emerald-600{{ end }} rounded-lg flex items-center justify-center mb-4">
+                            <i data-lucide="{{ .icon }}" class="w-5 h-5"></i>
+                        </div>
+                        <h4 class="font-bold text-slate-900 mb-2">{{ .title }}</h4>
+                        <p class="text-sm text-slate-500">{{ .desc }}</p>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+            
+            <!-- Right: Premium Image -->
+            <div class="relative">
+                <div class="relative rounded-3xl overflow-hidden shadow-2xl border border-slate-200">
+                    <!-- 修改点 2：使用 relURL -->
+                    <img src="{{ .Params.mission.image| relURL }}" alt="Roami Team" class="w-full h-auto object-cover aspect-[4/5] md:aspect-square">
+                    <div class="absolute inset-0 bg-gradient-to-t from-slate-900/50 to-transparent"></div>
+                    <div class="absolute bottom-8 left-8 right-8">
+                        <div class="bg-white/95 backdrop-blur p-6 rounded-2xl shadow-lg">
+                            <div class="flex items-center gap-4 mb-2">
+                                <div class="flex -space-x-3">
+                                    <img class="w-10 h-10 rounded-full border-2 border-white object-cover" src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=100&q=80" alt="User">
+                                    <img class="w-10 h-10 rounded-full border-2 border-white object-cover" src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=100&q=80" alt="User">
+                                    <img class="w-10 h-10 rounded-full border-2 border-white object-cover" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80" alt="User">
+                                </div>
+                                <div class="text-sm font-bold text-slate-900">{{ .Params.mission.stats_title }}</div>
+                            </div>
+                            <p class="text-xs text-slate-500">{{ .Params.mission.stats_desc }}</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Decorative element -->
+                <div class="absolute -top-6 -right-6 w-32 h-32 bg-blue-100 rounded-full mix-blend-multiply filter blur-2xl opacity-70 -z-10"></div>
+                <div class="absolute -bottom-6 -left-6 w-32 h-32 bg-emerald-100 rounded-full mix-blend-multiply filter blur-2xl opacity-70 -z-10"></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════ GLOBAL PRESENCE ═══════════ -->
+<section class="py-24 bg-slate-50 border-t border-slate-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-16">
+            <p class="text-blue-600 text-xs font-bold uppercase tracking-widest mb-3">{{ .Params.presence.subtitle }}</p>
+            <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">{{ .Params.presence.title }}</h2>
+            <p class="text-lg text-slate-500 max-w-2xl mx-auto">
+                {{ .Params.presence.description }}
+            </p>
+        </div>
+
+        <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
+            {{ range .Params.presence.cities }}
+            <div class="city-card bg-white rounded-2xl overflow-hidden border border-slate-200">
+                <div class="city-img-wrapper relative h-48 overflow-hidden">
+                    <!-- 修改点 3：给循环里的图片也加上 relURL 过滤器 -->
+                    <img src="{{ .image | relURL }}" alt="{{ .name }}" class="w-full h-full object-cover">
+                    
+                    {{ if .tag }}
+                    <div class="absolute top-4 right-4 bg-blue-600 text-white text-[10px] font-bold px-3 py-1 rounded-full uppercase tracking-wide shadow-lg">{{ .tag }}</div>
+                    {{ end }}
+                </div>
+                <div class="p-6">
+                    <h3 class="text-xl font-bold text-slate-900 mb-1">{{ .name }}</h3>
+                    <p class="text-sm text-slate-500 leading-relaxed">{{ .desc }}</p>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+ 
+  <!-- ═══════════ FOOTER ═══════════ -->
+{{ partial "footer.html" . }}
+
+
+<script>
+    lucide.createIcons();
+
+    // Mobile Navigation
+    document.getElementById('mobile-menu-btn').addEventListener('click', function () {
+        document.getElementById('mobile-menu').classList.toggle('hidden');
+    });
+
+    // Android Detection → Show Google Play Button
+    (function () {
+        var platform = detectPlatform();
+        if (platform === 'android') {
+            document.querySelectorAll('.ios-download').forEach(function (el) { el.classList.add('hidden'); });
+            document.querySelectorAll('.android-download').forEach(function (el) { el.classList.remove('hidden'); });
+        }
+    })();
+</script>
+</body>
+</html>

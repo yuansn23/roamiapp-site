@@ -1,0 +1,86 @@
+<nav class="w-full bg-white border-b border-slate-200 sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex justify-between items-center h-16">
+            <!-- Logo -->
+            <a href="{{ "/" | relLangURL }}" class="text-2xl font-extrabold text-blue-600 tracking-tight">Roami</a>
+            
+            <div class="flex items-center">
+                
+                <!-- 桌面端 -->
+                <div class="hidden md:flex items-center">
+                    
+                    <div class="flex items-center gap-7">
+                        {{ range .Site.Params.nav_links }}
+                        <a href="{{ .url | relLangURL }}" class="flex items-center text-slate-500 hover:text-slate-900 text-sm font-medium transition-colors">
+                            <span>{{ .name }}</span>
+                            {{ if eq .name "Plans" }}
+                            <span class="ml-1.5 bg-red-500 text-white text-[10px] leading-none font-bold px-1.5 py-0.5 rounded-full shadow-sm">HOT</span>
+                            {{ end }}
+                        </a> 
+                        {{ end }}
+                    </div>
+
+                    <!-- 安全判断多语言：检查首页翻译数量是否大于1 -->
+                    {{ if gt (len .Site.Home.AllTranslations) 1 }}
+                    <div class="h-4 w-px bg-slate-300" style="margin-left: 3rem;"></div>
+                    <div class="relative group">
+                        <button class="flex items-center gap-1.5 text-slate-500 hover:text-slate-900 text-sm font-medium transition-colors py-2" aria-label="Select Language">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4">
+                                <circle cx="12" cy="12" r="10"></circle>
+                                <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path>
+                                <path d="M2 12h20"></path>
+                            </svg>
+                            <span>{{ .Language.LanguageName }}</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-3 h-3 transition-transform group-hover:rotate-180">
+                                <path d="m6 9 6 6 6-6"></path>
+                            </svg>
+                        </button>
+                        <div class="absolute right-0 top-full pt-3 w-36 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
+                            <div class="bg-white rounded-xl shadow-lg border border-slate-100 py-1.5 overflow-hidden">
+                                {{ range .Site.Home.AllTranslations }}
+                                <a href="{{ .Permalink }}" class="block px-4 py-2 text-sm text-slate-600 hover:bg-slate-50 hover:text-blue-600 transition-colors {{ if eq .Language.Lang $.Language.Lang }}bg-blue-50/50 text-blue-600 font-semibold{{ end }}">
+                                    {{ .Language.LanguageName }}
+                                </a>
+                                {{ end }}
+                            </div>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+
+                <!-- 移动端菜单按钮 -->
+                <button id="mobile-menu-btn" class="md:hidden ml-4 p-2 rounded-lg hover:bg-slate-100 transition-colors" aria-label="Toggle menu">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5 text-slate-700">
+                        <line x1="4" x2="20" y1="12" y2="12"></line>
+                        <line x1="4" x2="20" y1="6" y2="6"></line>
+                        <line x1="4" x2="20" y1="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 移动端展开菜单 -->
+    <div id="mobile-menu" class="md:hidden hidden bg-white border-t border-slate-100 absolute w-full shadow-lg z-50">
+        <div class="px-4 py-3 space-y-1">
+            {{ range .Site.Params.nav_links }}
+            <a href="{{ .url | relLangURL }}" class="flex items-center px-3 py-2 text-sm text-slate-600 hover:text-blue-600 rounded-lg hover:bg-slate-50 transition-colors">
+                <span>{{ .name }}</span>
+                {{ if eq .name "Plans" }}
+                <span class="ml-2 bg-red-500 text-white text-[10px] leading-none font-bold px-1.5 py-0.5 rounded-full">HOT</span>
+                {{ end }}
+            </a> 
+            {{ end }}
+            <!-- 移动端也显示语言切换 -->
+            {{ if gt (len .Site.Home.AllTranslations) 1 }}
+            <div class="border-t border-slate-100 my-2 pt-2">
+                {{ range .Site.Home.AllTranslations }}
+                <a href="{{ .Permalink }}" class="block px-3 py-2 text-sm text-slate-600 hover:text-blue-600 rounded-lg hover:bg-slate-50 transition-colors {{ if eq .Language.Lang $.Language.Lang }}bg-blue-50/50 text-blue-600 font-medium{{ end }}">
+                    {{ .Language.LanguageName }}
+                </a>
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</nav>

@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}" class="scroll-smooth">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{ partial "head.html" . }}
+
+    <meta property="og:type" content="product">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+    <meta property="og:description" content="{{ .Params.seo.description }}">
+    <meta property="og:image" content="{{ site.Home.Permalink }}{{ strings.TrimPrefix "/" .Params.seo.og_image }}">
+    <meta property="og:site_name" content="Roami">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="{{ .Permalink }}">
+    <meta name="twitter:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+    <meta name="twitter:description" content="{{ .Params.seo.description }}">
+    <meta name="twitter:image" content="{{ site.Home.Permalink }}{{ strings.TrimPrefix "/" .Params.seo.og_image }}">
+
+    {{- /* 0. 提取纯国家名称 */ -}}
+    {{- $countryName := .Params.hero.title -}}
+    {{- $countryName = replace $countryName " Data Plan" "" -}}
+    {{- $countryName = replace $countryName " eSIM" "" -}}
+    {{- $countryName = trim $countryName " " -}}
+
+    {{- /* 1. 定义退款政策 */ -}}
+    {{- $returnPolicy := dict
+        "@type" "MerchantReturnPolicy"
+        "applicableCountry" $countryName
+        "returnPolicyCategory" "https://schema.org/MerchantReturnNotPermitted"
+        "description" "100% refund not available"
+    -}}
+
+    {{- /* 2. 定义物流信息 */ -}}
+    {{- $shippingDetails := dict
+        "@type" "OfferShippingDetails"
+        "description" "Free shipping, activate in 1 minute, instant delivery"
+        "shippingRate" (dict 
+            "@type" "MonetaryAmount" 
+            "value" "0" 
+            "currency" "USD"
+        )
+        "deliveryTime" (dict 
+            "@type" "ShippingDeliveryTime" 
+            "handlingTime" (dict "@type" "QuantitativeValue" "minValue" 0 "maxValue" 0 "unitCode" "DAY")
+            "transitTime" (dict "@type" "QuantitativeValue" "minValue" 0 "maxValue" 0 "unitCode" "DAY")
+        )
+        "shippingDestination" (dict 
+            "@type" "DefinedRegion" 
+            "addressCountry" $countryName
+        )
+    -}}
+
+    {{- /* 3. 初始化 SKU 数组 */ -}}
+    {{- $offers := slice -}}
+    
+    {{- /* 4. 遍历 plans_data 生成 SKU URL */ -}}
+    {{- range $days, $plans := .Params.plans_data -}}
+        {{- $daysTitle := title $days -}}
+        {{- range $plans -}}
+            {{- $skuName := printf "%s %s %s" $.Params.hero.title $daysTitle .spec -}}
+            {{- $offer := dict 
+                "@type" "Offer" 
+                "name" $skuName 
+                "price" .price 
+                "priceCurrency" "USD" 
+                "availability" "https://schema.org/InStock" 
+                "url" $.Permalink 
+                "hasMerchantReturnPolicy" $returnPolicy
+                "shippingDetails" $shippingDetails
+            -}}
+            {{- $offers = $offers | append $offer -}}
+        {{- end -}}
+    {{- end -}}
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}",
+      "image": "{{ site.Home.Permalink }}img/home3.png",
+      "description": "{{ .Params.seo.description }}",
+      "brand": {
+        "@type": "Brand",
+        "name": "Roami"
+      },
+      "offers": {{ $offers | jsonify | safeJS }}
+    }
+    </script>
+
+    {{ if .Params.activation_steps }}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "HowTo",
+      "name": "How to activate {{ .Params.hero.title }}",
+      "description": "Step by step guide to activate your {{ .Params.hero.title }} eSIM.",
+      "step": [
+        {{ $len := len .Params.activation_steps.steps }}
+        {{ range $index, $step := .Params.activation_steps.steps }}
+        {
+          "@type": "HowToStep",
+          "name": "{{ .title }}",
+          "text": "{{ .desc | plainify }}",
+          "url": "{{ $.Permalink }}#step-{{ .num }}"
+        }{{ if ne (add $index 1) $len }},{{ end }}
+        {{ end }}
+      ]
+    }
+    </script>
+    {{ end }}
+
+    <link href="/css/tailwind-compiled.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    
+    <style>
+        body { font-family: 'Inter', system-ui, sans-serif; }
+        .glass-card { background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); }
+        .plan-card { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+        .plan-card:hover { transform: translateY(-2px); box-shadow: 0 10px 25px -5px rgba(37, 99, 235, 0.1), 0 8px 10px -6px rgba(37, 99, 235, 0.1); }
+        .plan-card.selected { border-color: #2563eb; background-color: #f8fafc; box-shadow: 0 0 0 1px #2563eb, 0 10px 25px -5px rgba(37, 99, 235, 0.15); }
+        .plan-card.selected .radio-circle { border-color: #2563eb; background-color: #2563eb; }
+        .plan-card.selected .radio-circle::after { content: ''; position: absolute; width: 8px; height: 8px; background: white; border-radius: 50%; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+        details > summary { list-style: none; }
+        details > summary::-webkit-details-marker { display: none; }
+        details[open] summary ~ * { animation: slideDown 0.3s ease-in-out; }
+        @keyframes slideDown { 0% { opacity: 0; transform: translateY(-10px); } 100% { opacity: 1; transform: translateY(0); } }
+        .timeline-line::before { content: ''; position: absolute; top: 40px; bottom: -20px; left: 24px; width: 2px; background: #e2e8f0; z-index: 0; }
+        .timeline-item:last-child .timeline-line::before { display: none; }
+        .tab-btn { transition: all 0.2s ease; }
+        .tab-btn.active { background-color: white; color: #2563eb; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        .hide-scrollbar::-webkit-scrollbar { display: none; }
+        .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+        .faq-tab-btn.active { background-color: #2563eb; color: white; border-color: #2563eb; box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.2); }
+        .faq-tab-btn.active i { color: white; }
+        .data-table-container { scrollbar-width: thin; scrollbar-color: #cbd5e1 #f8fafc; }
+        .data-table-container::-webkit-scrollbar { height: 6px; }
+        .data-table-container::-webkit-scrollbar-track { background: #f8fafc; border-radius: 4px; }
+        .data-table-container::-webkit-scrollbar-thumb { background-color: #cbd5e1; border-radius: 4px; }
+        
+        @media (max-width: 768px) { .market-analysis-section { display: none !important; } }
+
+        @media (max-width: 768px) {
+            h1 { font-size: 1.8rem !important; }
+            h2 { font-size: 1.4rem !important; }
+            h3 { font-size: 1.2rem !important; }
+            .text-4xl { font-size: 1.8rem !important; }
+            .text-3xl { font-size: 1.4rem !important; }
+            .text-2xl { font-size: 1.2rem !important; }
+            .text-lg { font-size: 1rem !important; }
+            .text-base { font-size: 0.9rem !important; }
+            .text-sm { font-size: 0.8rem !important; }
+            .text-xs { font-size: 0.7rem !important; }
+            .plan-card h3 { font-size: 1.1rem !important; }
+            .sidebar-price { font-size: 2.2rem !important; }
+            .custom-buy-btn { font-size: 0.95rem !important; padding: 0.75rem 1rem !important; }
+            .bg-white.rounded-3xl.p-8 { padding: 1.25rem !important; }
+            .px-6, .px-8 { padding-left: 1rem !important; padding-right: 1rem !important; }
+            .gap-6 { gap: 1rem !important; }
+            .space-y-8 { margin-top: 1.5rem; }
+            .timeline-item .w-12.h-12 { width: 2.5rem !important; height: 2.5rem !important; font-size: 1.1rem !important; }
+            .timeline-line::before { left: 1.25rem; }
+            .faq-tab-btn { font-size: 0.8rem !important; padding: 0.5rem 0.75rem !important; }
+            .bg-gradient-to-r.from-blue-600.to-indigo-600 .text-2xl { font-size: 1.3rem !important; }
+            .order-summary .text-4xl { font-size: 2rem !important; }
+            .sidebar-plan-name { font-size: 1.1rem !important; }
+        }
+
+        @media (min-width: 769px) {
+            .market-analysis-section .data-table-container { overflow-x: visible !important; width: 100% !important; }
+            .market-analysis-section table { width: 100% !important; min-width: 0 !important; table-layout: auto !important; border-collapse: collapse; }
+            .market-analysis-section th, .market-analysis-section td { white-space: normal !important; word-break: break-word; padding: 12px 16px; }
+            .market-analysis-section th:first-child, .market-analysis-section td:first-child { width: 20%; }
+            .market-analysis-section th:nth-child(2), .market-analysis-section td:nth-child(2) { width: 40%; }
+            .market-analysis-section th:last-child, .market-analysis-section td:last-child { width: 40%; }
+            .market-analysis-section .grid { display: grid !important; grid-template-columns: repeat(2, minmax(0, 1fr)) !important; gap: 1.5rem !important; }
+        }
+        
+        /* 阿拉伯语 RTL 兼容支持 */
+        [dir="rtl"] .radio-circle { margin-left: 0; margin-right: auto; }
+        [dir="rtl"] .text-left { text-align: right; }
+        [dir="rtl"] .text-right { text-align: left; }
+        [dir="rtl"] .flex-row { flex-direction: row-reverse; }
+    </style>
+    
+    <style>
+        .custom-buy-btn { width: 100%; padding: 1rem 0; margin-bottom: 0.75rem; background-color: #2563eb; color: #ffffff; font-weight: bold; font-size: 1rem; border: none; border-radius: 0.75rem; cursor: pointer; display: flex; justify-content: center; align-items: center; gap: 0.5rem; box-shadow: 0 10px 15px -3px rgba(37, 99, 235, 0.3); transition: all 0.2s ease-in-out; }
+        .custom-buy-btn:hover { background-color: #1d4ed8; transform: translateY(-2px); box-shadow: 0 12px 20px -3px rgba(37, 99, 235, 0.4); }
+        .custom-mobile-spacer { height: 90px; }
+        .custom-mobile-fab-container { position: fixed; bottom: 0; left: 0; right: 0; z-index: 9999; background-color: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-top: 1px solid #e2e8f0; padding: 12px 16px; padding-bottom: calc(12px + env(safe-area-inset-bottom)); box-shadow: 0 -10px 15px -3px rgba(0, 0, 0, 0.05); }
+        .custom-mobile-fab-btn { display: flex; align-items: center; justify-content: center; width: 100%; padding: 14px 16px; background: linear-gradient(90deg, #2563eb, #3b82f6); color: #ffffff; font-size: 16px; font-weight: 700; border-radius: 12px; border: none; cursor: pointer; box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.3); transition: transform 0.1s; }
+        @media (min-width: 1024px) { .custom-mobile-spacer { display: none !important; } .custom-mobile-fab-container { display: none !important; } }
+    </style>
+</head>
+
+<body class="bg-[#F8FAFC] text-slate-900 antialiased flex flex-col min-h-screen" {{ if eq .Site.LanguageCode "ar" }}dir="rtl"{{ end }}>
+
+{{ partial "header.html" . }}
+
+<main class="flex-grow max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full">
+
+  <nav class="flex text-sm text-slate-500 mb-6" aria-label="Breadcrumb">
+    <ol class="inline-flex items-center space-x-1 md:space-x-2">
+        {{ range $index, $item := .Params.breadcrumbs }}
+            {{ if gt $index 0 }}<li><i data-lucide="chevron-right" class="w-4 h-4 text-slate-400" aria-hidden="true"></i></li>{{ end }}
+            {{ if $item.url }}
+                <li class="inline-flex items-center"><a href="{{ $item.url | relLangURL }}" class="hover:text-blue-600 transition-colors">{{ $item.label }}</a></li>
+            {{ else }}
+                <li aria-current="page" class="inline-flex items-center"><span class="text-slate-800 font-medium">{{ $item.label }}</span></li>
+            {{ end }}
+        {{ end }}
+    </ol>
+</nav>
+
+    <div class="w-full h-64 md:h-80 rounded-3xl overflow-hidden relative mb-8 shadow-sm">
+        <img src="/{{ trim .Params.banner.image "/" }}" class="w-full h-full object-cover" alt="{{ .Params.banner.alt }}">
+        <div class="absolute inset-0 bg-gradient-to-t from-slate-900/80 via-slate-900/40 to-transparent flex items-end justify-center pb-12">
+            <div class="text-4xl md:text-5xl font-extrabold text-white tracking-tight text-center drop-shadow-lg">{{ .Params.banner.title }}</div>
+        </div>
+    </div>
+
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12">
+        
+        <div class="lg:col-span-8 space-y-12">
+            <header class="relative rounded-3xl overflow-hidden bg-white border border-slate-200 shadow-sm">
+                <div class="absolute top-0 right-0 w-64 h-64 bg-brand-50 rounded-bl-full opacity-50 pointer-events-none" aria-hidden="true"></div>
+                <div class="relative p-8 md:p-10">
+                    <div class="flex items-center gap-4"> 
+                        <img src="/{{ trim .Params.hero.flag_image "/" }}" alt="{{ .Params.hero.flag_alt }}" class="w-14 h-14 rounded-full shadow-md border-2 border-white">
+                        <div>
+                            <h1 class="text-3xl md:text-4xl font-extrabold text-slate-900 tracking-tight mb-1">{{ .Params.hero.title }}</h1>
+                            <p class="text-lg text-slate-500 font-medium">{{ .Params.hero.subtitle }}</p>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <section id="plans" class="scroll-mt-24">
+                <div class="flex flex-col sm:flex-row sm:items-center justify-between mb-6 gap-4">
+                    <h2 class="text-2xl font-bold text-slate-900">{{ .Params.plans_title }}</h2>
+                    <div class="flex space-x-1 bg-slate-200/60 p-1.5 rounded-xl w-fit" role="tablist">
+                        {{ $first := true }}
+                        {{ range $key, $val := .Params.plans_data }}
+                                <button role="tab" aria-selected="{{ if $first }}true{{ else }}false{{ end }}" aria-controls="plans-container" class="tab-btn px-4 py-2 rounded-lg text-sm font-bold {{ if $first }}active bg-white shadow text-brand-600{{ else }}text-slate-500 hover:text-slate-900{{ end }}" data-days="{{ $key }}" onclick="switchTab('{{ $key }}', this)">{{ $key }}</button>
+                                {{ $first = false }}
+                        {{ end }}
+                    </div>
+                </div>
+                <ul id="plans-container" class="grid sm:grid-cols-2 gap-5 list-none p-0 m-0"></ul>
+            </section>
+
+            <div class="block lg:hidden">
+                <div class="bg-white rounded-3xl border border-slate-200 shadow-xl shadow-slate-200/50 overflow-hidden" aria-live="polite">
+                    <div class="bg-slate-900 px-6 py-4 text-white">
+                        <h3 class="text-sm font-bold uppercase tracking-wider flex items-center gap-2"><i data-lucide="shopping-cart" class="w-4 h-4"></i> {{ .Params.order_summary.title }}</h3>
+                    </div>
+                    <div class="p-6">
+                        <div class="sidebar-plan-name font-extrabold text-2xl text-slate-900 mb-4">Loading...</div>
+                        <div class="space-y-3 mb-6">
+                            <div class="flex justify-between items-center text-sm"><span class="text-slate-500 flex items-center gap-2"><i data-lucide="database" class="w-4 h-4 text-slate-400"></i> {{ .Params.order_summary.label_data }}</span><span class="sidebar-data font-semibold text-slate-900">-</span></div>
+                            <div class="flex justify-between items-center text-sm"><span class="text-slate-500 flex items-center gap-2"><i data-lucide="clock" class="w-4 h-4 text-slate-400"></i> {{ .Params.order_summary.label_validity }}</span><span class="sidebar-validity font-semibold text-slate-900">-</span></div>
+                            <div class="flex justify-between items-center text-sm"><span class="text-slate-500 flex items-center gap-2"><i data-lucide="calculator" class="w-4 h-4 text-slate-400"></i> {{ .Params.order_summary.label_daily }}</span><span class="sidebar-daily font-semibold text-slate-900">-</span></div>
+                        </div>
+                        <div class="border-t border-slate-100 pt-4 mb-6 flex justify-between items-end">
+                            <span class="text-slate-500 font-medium pb-1">{{ .Params.order_summary.label_total }}</span>
+                            <div class="text-right">
+                                <div class="sidebar-price text-4xl font-extrabold text-brand-600 leading-none">-</div>
+                                <div class="sidebar-old-price text-sm text-slate-400 line-through mt-1">-</div>
+                            </div>
+                        </div>
+                        <div class="space-y-3">
+                            <button onclick="handleBuyNow()" class="custom-buy-btn">{{ .Params.order_summary.btn_primary }} <i class="fa-solid fa-arrow-right"></i></button>
+                            <button onclick="handleBuyNow()" class="w-full bg-amber-500 hover:bg-amber-600 text-white font-extrabold text-base py-3.5 rounded-xl transition-all shadow-lg flex justify-center items-center gap-2 border-2 border-dashed border-amber-200 transform hover:-translate-y-0.5"><i data-lucide="ticket" class="w-5 h-5"></i> {{ .Params.order_summary.btn_secondary }}</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-gradient-to-r from-blue-600 to-indigo-600 rounded-3xl p-6 shadow-lg text-white flex flex-col md:flex-row items-center justify-between relative overflow-hidden">
+                <div class="relative z-10 flex items-center gap-4 w-full md:w-auto">
+                    <div class="bg-white/20 p-3 rounded-full flex-shrink-0"><i data-lucide="ticket" class="w-8 h-8 text-white"></i></div>
+                    <div>
+                        <h3 class="text-2xl font-extrabold text-white mb-1">{{ .Params.discount_banner.title }}</h3>
+                        <p class="text-blue-50 text-base md:text-lg">{{ .Params.discount_banner.desc_html | safeHTML }}</p>
+                    </div>
+                </div>
+                <div class="flex flex-col items-center md:items-end mt-5 md:mt-0 w-full md:w-auto flex-shrink-0 relative z-10">
+                    <button onclick="handleBuyNow()" class="w-full md:w-auto bg-white text-blue-600 font-bold py-3 px-6 rounded-xl shadow-md hover:bg-slate-50 transition-colors flex items-center justify-center gap-2">
+                        {{ .Params.discount_banner.btn_text }} <i data-lucide="arrow-right" class="w-5 h-5"></i>
+                    </button>
+                    <div class="text-yellow-300 text-lg md:text-xl font-extrabold mt-3 tracking-wide flex items-center gap-2">
+                        <i data-lucide="timer" class="w-5 h-5 animate-pulse"></i> {{ .Params.discount_banner.validity }}
+                    </div>
+                </div>
+            </div>
+
+            <section class="bg-white rounded-3xl p-8 border border-slate-200 shadow-sm">
+                <div class="flex items-center gap-3 mb-6">
+                    <div class="w-12 h-12 rounded-full bg-amber-100 flex items-center justify-center"><i data-lucide="circle-alert" class="w-6 h-6 text-amber-600"></i></div>
+                    <h2 class="text-2xl font-bold text-slate-900">{{ .Params.reminders.title }}</h2>
+                </div>
+                <div class="grid md:grid-cols-2 gap-8">
+                    <ul class="space-y-4 text-slate-700 font-medium">
+                        {{ $currentLang := .Language.Lang }}
+                        {{ $langPrefix := cond (eq $currentLang "en") "/" (printf "/%s/" $currentLang) }}
+
+                        {{ range .Params.reminders.items }}
+                        <li class="flex items-start gap-3">
+                            <span class="text-2xl leading-none">{{ .icon }}</span>
+                            <span>
+                                {{ $processedHtml := replace .html "href=\"/" (printf "href=\"%s" $langPrefix) }}
+                                {{ $processedHtml | safeHTML }}
+                            </span>
+                        </li>
+                        {{ end }}
+                    </ul>
+                    <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl p-6 border border-blue-100 shadow-inner flex flex-col justify-center relative overflow-hidden">
+                        <div class="relative z-10">
+                            <div class="flex items-center gap-2 mb-3">
+                                <i data-lucide="lightbulb" class="w-6 h-6 text-amber-500 fill-amber-500"></i>
+                                <h3 class="font-bold text-slate-900 text-lg">{{ .Params.reminders.compatibility_check.title }}</h3>
+                            </div>
+                            <p class="text-slate-700 text-sm mb-4 leading-relaxed">{{ .Params.reminders.compatibility_check.desc }}</p>
+                            <div class="bg-white rounded-xl p-4 border border-blue-100 shadow-sm text-center">
+                                <p class="text-sm text-slate-600 mb-2">{{ .Params.reminders.compatibility_check.instruction }}</p>
+                                <div class="text-3xl font-black text-brand-600 tracking-wider font-mono mb-2">{{ .Params.reminders.compatibility_check.code }}</div>
+                                <div class="text-sm font-medium text-slate-800">
+                                    {{ $processedResult := replace .Params.reminders.compatibility_check.result_html "href=\"/" (printf "href=\"%s" $langPrefix) }}
+                                    {{ $processedResult | safeHTML }}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="bg-white rounded-3xl p-8 border border-slate-200 shadow-sm">
+                <h2 class="text-2xl font-bold text-slate-900 mb-8">{{ .Params.hero.title }} {{ .Params.activation_steps.title }}</h2>
+                <ol class="relative list-none p-0 m-0">
+                    {{ range .Params.activation_steps.steps }}
+                    <li id="step-{{ .num }}" class="timeline-item relative flex gap-6 pb-10 timeline-line">
+                        <div class="w-12 h-12 rounded-full bg-blue-600 text-white font-bold flex items-center justify-center flex-shrink-0 text-xl shadow-md z-10">{{ .num }}</div>
+                        <div class="pt-2">
+                            <h3 class="font-bold text-slate-900 text-lg mb-2">{{ .title }}</h3>
+                            {{ if .is_list }}
+                            <div class="bg-slate-50 p-4 rounded-xl border border-slate-100 mt-3">
+                                <ul class="space-y-2 text-slate-600">
+                                    {{ range .list_items }}<li class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4 text-blue-500 flex-shrink-0 mt-1"><path d="m9 18 6-6-6-6"/></svg><span>{{ . }}</span></li>{{ end }}
+                                </ul>
+                            </div>
+                            {{ else }}<p class="text-slate-600 leading-relaxed">{{ .desc }}</p>{{ end }}
+                        </div>
+                    </li>
+                    {{ end }}
+                </ol>
+            </section>
+
+            <section>
+                <div class="mb-8">
+                    <h2 class="text-3xl font-extrabold text-slate-900 mb-3">{{ .Params.faq_section.title }}</h2>
+                    <p class="text-slate-600">{{ .Params.faq_section.desc }}</p>
+                </div>
+                <div class="flex flex-col md:flex-row gap-8">
+                    <div class="md:w-1/3 lg:w-1/4 flex-shrink-0">
+                        <div class="flex md:flex-col overflow-x-auto md:overflow-visible gap-2 pb-4 md:pb-0 hide-scrollbar sticky top-24" role="tablist">
+                            {{ $firstFaq := true }}
+                            {{ range .Params.faq_section.categories }}
+                            <button role="tab" aria-selected="{{ if $firstFaq }}true{{ else }}false{{ end }}" aria-controls="{{ .id }}" class="faq-tab-btn {{ if $firstFaq }}active bg-brand-600 text-white shadow-md{{ else }}text-slate-600 hover:bg-slate-50 bg-white border-slate-200{{ end }} text-left px-4 py-3 rounded-xl font-semibold text-sm transition-all border flex items-center gap-2 whitespace-nowrap" data-target="{{ .id }}" onclick="switchFaqTab('{{ .id }}', this)">
+                                <i data-lucide="{{ .icon }}" class="w-4 h-4 {{ if $firstFaq }}text-white{{ end }}"></i> {{ .tab_title }}
+                            </button>
+                            {{ $firstFaq = false }}
+                            {{ end }}
+                        </div>
+                    </div>
+                    <div class="md:w-2/3 lg:w-3/4">
+                        {{ $firstFaqContent := true }}
+                        {{ range .Params.faq_section.categories }}
+                        <div id="{{ .id }}" role="tabpanel" class="faq-content-pane {{ if $firstFaqContent }}block{{ else }}hidden{{ end }} space-y-3">
+                            <h3 class="text-xl font-bold text-slate-800 mb-4 hidden md:block">{{ .title }}</h3>
+                            <ul class="list-none p-0 m-0 space-y-3">
+                                {{ range .questions }}
+                                <li>
+                                    <details class="group bg-white rounded-xl border border-slate-200 shadow-sm overflow-hidden">
+                                        <summary class="flex justify-between items-center font-semibold cursor-pointer list-none p-5 text-slate-900 hover:bg-slate-50 transition-colors text-sm md:text-base">
+                                            <span>{{ .q }}</span>
+                                            <span class="transform transition-transform duration-300 group-open:rotate-180 bg-slate-100 p-1 rounded-full flex-shrink-0 ml-4"><i data-lucide="chevron-down" class="w-4 h-4 text-slate-600"></i></span>
+                                        </summary>
+                                        <div class="px-5 pb-5 text-slate-600 text-sm leading-relaxed border-t border-slate-100 pt-4 bg-white">{{ .a | safeHTML }}</div>
+                                    </details>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                        {{ $firstFaqContent = false }}
+                        {{ end }}
+                    </div>
+                </div>
+            </section>
+
+       <section class="mt-12 pt-10 border-t border-slate-200">
+    <div class="flex items-center gap-3 mb-6"><h2 class="text-2xl font-bold text-slate-900">{{ .Params.related_products.title }}</h2></div>
+    <ul class="grid grid-cols-2 md:grid-cols-4 gap-4 list-none p-0 m-0">
+        {{ range .Params.related_products.items }}
+            {{- /* 逻辑优化：判断语言环境并分配跳转地址，确保非英环境下 slug 也有尾部斜杠 */ -}}
+            {{ $targetUrl := "" }}
+            {{ if eq $.Site.Language.Lang "en" }}
+                {{ $targetUrl = or .url .link (printf "/%s/" (.name | urlize)) }}
+            {{ else }}
+                {{- /* 如果定义了 slug，拼接斜杠；如果没有，根据 name 生成并补全斜杠 */ -}}
+                {{ $slugBase := .slug | default (.name | urlize) }}
+                {{ $targetUrl = printf "/%s/" (strings.Trim $slugBase "/") }}
+            {{ end }}
+            
+            <li class="h-full">
+                <a href="{{ $targetUrl | relLangURL }}" class="{{ if .is_highlight }}bg-brand-50 border-brand-200{{ else }}bg-white border-slate-200{{ end }} border rounded-2xl p-4 hover:border-brand-50 hover:shadow-md transition-all group h-full flex flex-col justify-center">
+                    {{ $imgPath := or .image .icon .img .flag "" }}
+                    {{ if $imgPath }}
+                        <img src="/{{ trim $imgPath "/" }}" loading="lazy" class="w-12 h-8 object-cover rounded-md shadow-sm mb-3" alt="{{ .name }}">
+                    {{ else }}
+                        <div class="w-12 h-8 rounded-md shadow-sm mb-3 bg-slate-100 flex items-center justify-center text-slate-400">
+                            <i data-lucide="globe" class="w-5 h-5"></i>
+                        </div>
+                    {{ end }}
+                    <h3 class="font-bold {{ if .is_highlight }}text-brand-700{{ else }}text-slate-900{{ end }} mb-1">{{ .name }}</h3>
+                    <p class="text-sm {{ if .is_highlight }}text-brand-600 font-medium{{ else }}text-slate-500{{ end }}">{{ .price }}</p>
+                </a>
+            </li>
+        {{ end }}
+    </ul>
+</section>
+
+        </div>
+
+        <aside class="lg:col-span-4" aria-label="Order Summary">
+            <div class="sticky top-24 space-y-6">
+                <div class="hidden lg:block bg-white rounded-3xl border border-slate-200 shadow-xl shadow-slate-200/50 overflow-hidden" aria-live="polite">
+                    <div class="bg-slate-900 px-6 py-4 flex justify-between items-center text-white">
+                        <h3 class="text-sm font-bold uppercase tracking-wider flex items-center gap-2"><i data-lucide="shopping-cart" class="w-4 h-4 text-white"></i> {{ .Params.order_summary.title }}</h3>
+                        <span class="flex items-center gap-1 text-xs text-emerald-400 font-medium tracking-wide"><i data-lucide="shield-check" class="w-3.5 h-3.5 text-emerald-400"></i> Secure</span>
+                    </div>
+                    <div class="p-6">
+                        <div class="sidebar-plan-name font-extrabold text-2xl text-slate-900 mb-5 pb-4 border-b border-slate-100">{{ default "Loading..." .Params.order_summary.loading_text }}</div>
+                        <div class="space-y-3.5 mb-6">
+                            <div class="flex justify-between items-center text-sm"><span class="text-slate-500 flex items-center gap-2.5"><i data-lucide="database" class="w-4 h-4 text-slate-400"></i> {{ .Params.order_summary.label_data }}</span><span class="sidebar-data font-semibold text-slate-900 bg-slate-50 px-2.5 py-1 rounded-md border border-slate-100">-</span></div>
+                            <div class="flex justify-between items-center text-sm"><span class="text-slate-500 flex items-center gap-2.5"><i data-lucide="clock" class="w-4 h-4 text-slate-400"></i> {{ .Params.order_summary.label_validity }}</span><span class="sidebar-validity font-semibold text-slate-900 bg-slate-50 px-2.5 py-1 rounded-md border border-slate-100">-</span></div>
+                            <div class="flex justify-between items-center text-sm"><span class="text-slate-500 flex items-center gap-2.5"><i data-lucide="calculator" class="w-4 h-4 text-slate-400"></i> {{ .Params.order_summary.label_daily }}</span><span class="sidebar-daily font-semibold text-slate-900 bg-slate-50 px-2.5 py-1 rounded-md border border-slate-100">-</span></div>
+                        </div>
+                        <div class="bg-slate-50 rounded-2xl p-4 mb-6 border border-slate-100 flex justify-between items-center">
+                            <span class="text-slate-700 font-bold">{{ .Params.order_summary.label_total }}</span>
+                            <div class="text-right flex flex-col items-end"><div class="sidebar-price text-4xl font-black text-brand-600 leading-none tracking-tight">-</div><div class="sidebar-old-price text-sm text-slate-400 line-through mt-1.5 font-medium">-</div></div>
+                        </div>
+                        <div class="space-y-3">
+                            <button onclick="handleBuyNow()" class="custom-buy-btn">{{ .Params.order_summary.btn_primary }} <i class="fa-solid fa-arrow-right"></i></button>
+                            <button onclick="handleBuyNow()" class="w-full bg-amber-500 hover:bg-amber-600 text-white font-extrabold text-base py-3.5 rounded-xl transition-all shadow-lg flex justify-center items-center gap-2 border-2 border-dashed border-amber-200 transform hover:-translate-y-0.5"><i data-lucide="ticket" class="w-5 h-5"></i> {{ .Params.order_summary.btn_secondary }}</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+    </div>
+</main>
+
+{{ partial "footer.html" . }}
+
+<div id="redirect-modal" class="fixed inset-0 z-50 hidden items-center justify-center bg-slate-900/60 backdrop-blur-sm transition-opacity" aria-modal="true" role="dialog">
+    <div class="bg-white rounded-2xl p-6 md:p-8 max-w-sm w-full mx-4 shadow-2xl">
+        <div class="w-14 h-14 bg-blue-50 text-blue-600 rounded-full flex items-center justify-center mb-5 mx-auto border-4 border-blue-100">
+            <i data-lucide="info" class="w-6 h-6 text-blue-600"></i>
+        </div>
+        <h3 id="modal-dynamic-title" class="text-xl font-bold text-slate-900 text-center mb-2"></h3>
+        <p id="modal-dynamic-content" class="text-slate-600 text-center mb-8 text-sm leading-relaxed"></p>
+        <div class="flex gap-3">
+            <!-- 修改点：使用 T 或 i18n 函数 -->
+            <button onclick="closeModal()" class="flex-1 py-3 px-4 bg-slate-100 hover:bg-slate-200 text-slate-700 text-sm font-semibold rounded-xl transition-colors">
+                {{ T "modal_cancel" | default "Cancel" }}
+            </button>
+            <button id="modal-continue-btn" class="flex-1 py-3 px-4 bg-blue-600 hover:bg-blue-700 text-white text-sm font-semibold rounded-xl transition-colors shadow-md shadow-blue-500/30">
+                {{ T "modal_continue" | default "Continue" }}
+            </button>
+        </div>
+    </div>
+</div>
+
+<div class="custom-mobile-spacer lg:hidden"></div>
+<div class="custom-mobile-fab-container lg:hidden">
+    <button onclick="handleBuyNow()" class="custom-mobile-fab-btn">
+        <span style="margin-right: 8px; font-size: 20px;">🎁</span> {{ i18n "get_esim_discount" | default "Get 20% eSIM Discount" }}
+    </button>
+</div>
+
+<script>
+    const faIconMap = {
+        'chevron-right': 'fa-solid fa-chevron-right', 'chevron-down': 'fa-solid fa-chevron-down', 'arrow-right': 'fa-solid fa-arrow-right',
+        'x': 'fa-solid fa-xmark', 'info': 'fa-solid fa-circle-info', 'check-circle': 'fa-solid fa-circle-check', 'circle-check': 'fa-solid fa-circle-check',
+        'circle-alert': 'fa-solid fa-circle-exclamation', 'zap': 'fa-solid fa-bolt', 'headset': 'fa-solid fa-headset', 'shopping-cart': 'fa-solid fa-cart-shopping',
+        'database': 'fa-solid fa-database', 'clock': 'fa-regular fa-clock', 'calculator': 'fa-solid fa-calculator', 'ticket': 'fa-solid fa-ticket',
+        'timer': 'fa-solid fa-stopwatch', 'sparkles': 'fa-solid fa-wand-magic-sparkles', 'radio-tower': 'fa-solid fa-tower-broadcast',
+        'shield-check': 'fa-solid fa-shield-halved', 'award': 'fa-solid fa-award', 'lightbulb': 'fa-solid fa-lightbulb', 'globe': 'fa-solid fa-globe', 'wifi': 'fa-solid fa-wifi'
+    };
+
+    function initIcons() {
+        document.querySelectorAll('[data-lucide]').forEach(el => {
+            if (el.classList.contains('fa-solid') || el.classList.contains('fa-regular')) return;
+            const name = el.getAttribute('data-lucide');
+            el.className = `${faIconMap[name] || `fa-solid fa-${name}`} ${el.className} flex items-center justify-center`;
+            el.removeAttribute('data-lucide');
+        });
+    }
+
+    const rawPlanData = {{ .Params.plans_data | jsonify | safeJS }};
+
+    function renderPlans(daysKey) {
+        const container = document.getElementById('plans-container');
+        if(!container) return; 
+        container.innerHTML = '';
+        
+        const lookupKey = daysKey.toLowerCase();
+        if(!rawPlanData || !rawPlanData[lookupKey]) return;
+        const currentPlans = [...rawPlanData[lookupKey]];
+        
+        currentPlans.sort((a, b) => {
+            const isAUnlimited = a.spec && a.spec.toLowerCase().includes('unlimited');
+            const isBUnlimited = b.spec && b.spec.toLowerCase().includes('unlimited');
+            if (isAUnlimited && !isBUnlimited) return -1;
+            if (!isAUnlimited && isBUnlimited) return 1;
+            let numA = parseFloat(a.spec) || 0, numB = parseFloat(b.spec) || 0;
+            if (a.spec && a.spec.toLowerCase().includes('mb')) numA /= 1024;
+            if (b.spec && b.spec.toLowerCase().includes('mb')) numB /= 1024;
+            return numA - numB;
+        });
+
+        currentPlans.forEach((plan, index) => {
+            const isSelectedClass = index === 0 ? 'selected' : '', 
+                  dayCount = parseInt(daysKey.match(/\d+/) || 1),
+                  calculatedDaily = (parseFloat(plan.price) / dayCount).toFixed(2);
+                  
+            const tagHtml = plan.tagIcon ? `<div class="absolute -top-3 right-6 ${plan.tagColor} text-white text-xs font-bold px-3 py-1 rounded-full shadow-md flex items-center gap-1"><i data-lucide="${plan.tagIcon}" class="w-3 h-3 fill-current"></i> ${plan.tag}</div>` : (plan.tag ? `<div class="absolute -top-3 right-6 ${plan.tagColor} text-white text-xs font-bold px-3 py-1 rounded-full shadow-sm">${plan.tag}</div>` : '');
+            
+            const cardHtml = `<li class="block h-full"><article class="plan-card ${isSelectedClass} bg-white border-2 border-slate-200 rounded-2xl p-6 cursor-pointer relative h-full flex flex-col" onclick="selectPlan(this, '{{ .Params.hero.title }} ${daysKey} ${plan.spec}', '${plan.price}', '${plan.oldPrice}', '${plan.data}', '${daysKey}', '${calculatedDaily}')">${tagHtml}<div class="flex justify-between items-start mb-4"><div><h3 class="font-extrabold text-xl text-slate-900">${daysKey} ${plan.spec}</h3><p class="text-sm text-slate-500 mt-1">${plan.desc}</p></div><div class="radio-circle w-6 h-6 rounded-full border-2 border-slate-300 relative transition-colors"></div></div><div class="bg-slate-50 rounded-lg p-3 mb-4"><div class="flex items-center gap-2 text-sm text-slate-700"><i data-lucide="wifi" class="w-4 h-4 text-brand-500"></i> ${plan.data}</div></div><div class="flex items-end gap-2 mt-auto pt-2"><span class="text-3xl font-extrabold text-slate-900">$${plan.price}</span><span class="text-sm text-slate-400 line-through mb-1">Was: $${plan.oldPrice}</span></div></article></li>`;
+            container.insertAdjacentHTML('beforeend', cardHtml);
+            
+            if (index === 0) setTimeout(() => { const activeCard = container.querySelector('.selected'); if(activeCard) selectPlan(activeCard, `{{ .Params.hero.title }} ${daysKey} ${plan.spec}`, plan.price, plan.oldPrice, plan.data, daysKey, calculatedDaily); }, 0);
+        });
+        initIcons();
+    }
+
+    function switchTab(daysKey, btnElement) {
+        document.querySelectorAll('.tab-btn').forEach(btn => { btn.classList.remove('active', 'bg-white', 'shadow', 'text-brand-600'); btn.classList.add('text-slate-500'); btn.setAttribute('aria-selected', 'false'); });
+        btnElement.classList.add('active', 'bg-white', 'shadow', 'text-brand-600'); btnElement.classList.remove('text-slate-500', 'hover:text-slate-900'); btnElement.setAttribute('aria-selected', 'true');
+        renderPlans(daysKey);
+    }
+
+    function selectPlan(element, name, price, oldPrice, data, validity, daily) {
+        document.querySelectorAll('.plan-card').forEach(card => card.classList.remove('selected'));
+        element.classList.add('selected');
+        document.querySelectorAll('.sidebar-plan-name').forEach(el => el.innerText = name);
+        document.querySelectorAll('.sidebar-price').forEach(el => el.innerText = '$' + price);
+        document.querySelectorAll('.sidebar-old-price').forEach(el => el.innerText = '$' + oldPrice);
+        document.querySelectorAll('.sidebar-data').forEach(el => el.innerText = data);
+        document.querySelectorAll('.sidebar-validity').forEach(el => el.innerText = validity);
+        document.querySelectorAll('.sidebar-daily').forEach(el => el.innerText = '$' + daily);
+    }
+
+    function switchFaqTab(targetId, btnElement) {
+        document.querySelectorAll('.faq-content-pane').forEach(pane => pane.classList.replace('block', 'hidden'));
+        document.querySelectorAll('.faq-tab-btn').forEach(btn => { btn.classList.remove('active', 'bg-brand-600', 'text-white', 'shadow-md'); btn.classList.add('bg-white', 'text-slate-600', 'hover:bg-slate-50', 'border-slate-200'); btn.setAttribute('aria-selected', 'false'); const icon = btn.querySelector('i'); if(icon) icon.classList.remove('text-white'); });
+        const targetPane = document.getElementById(targetId); if(targetPane) targetPane.classList.replace('hidden', 'block');
+        btnElement.classList.add('active', 'bg-brand-600', 'text-white', 'shadow-md'); btnElement.classList.remove('bg-white', 'text-slate-600', 'hover:bg-slate-50', 'border-slate-200'); btnElement.setAttribute('aria-selected', 'true'); btnElement.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+    }
+
+    function handleBuyNow() {
+        const userAgent = navigator.userAgent || navigator.vendor || window.opera, 
+              isIOS = /iPad|iPhone|iPod/.test(userAgent) && !window.MSStream, 
+              isAndroid = /android/i.test(userAgent);
+              
+        let targetUrl = 'https://www.phonesimgo.com', 
+            modalTitle = `{{ default "Notice" .Params.modal.title }}`,
+            modalText = `{{ .Params.modal.text_default | safeHTML }}`;
+            
+        if (isIOS) { 
+            targetUrl = 'https://apps.apple.com/app/id6747127122'; 
+            modalTitle = `{{ i18n "modal_title_ios" | default "Service Updated" }}`;
+            modalText = `{{ i18n "modal_text_ios" | default "You will be redirected to the official app to get the discount code." }}`;
+        } else if (isAndroid) { 
+            targetUrl = 'https://play.google.com/store/apps/details?id=com.usphonesimgo.app'; 
+            modalTitle = `{{ default "Notice" .Params.modal.title }}`;
+            modalText = `{{ .Params.modal.text_android | safeHTML }}`; 
+        }
+        
+        const modal = document.getElementById('redirect-modal'), 
+              continueBtn = document.getElementById('modal-continue-btn'),
+              titleEl = document.getElementById('modal-dynamic-title'),
+              contentEl = document.getElementById('modal-dynamic-content');
+              
+        if (titleEl) titleEl.innerHTML = modalTitle;
+        if (contentEl) contentEl.innerHTML = modalText;
+        modal.classList.replace('hidden', 'flex'); 
+        
+        continueBtn.onclick = () => { 
+            window.open(targetUrl, '_blank'); 
+            closeModal(); 
+        };
+    }
+
+    function closeModal() { document.getElementById('redirect-modal').classList.replace('flex', 'hidden'); }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        initIcons();
+        if (rawPlanData) {
+            const availableKeys = Object.keys(rawPlanData);
+            if (availableKeys.length > 0) {
+                renderPlans(availableKeys[0]);
+                const firstBtn = document.querySelector(`.tab-btn[data-days="${availableKeys[0]}"]`);
+                if(firstBtn) firstBtn.classList.add('active', 'bg-white', 'shadow', 'text-brand-600');
+            }
+        }
+    });
+
+    const searchInput = document.getElementById('device-search');
+    if (searchInput) {
+        searchInput.addEventListener('input', function(e) {
+            const term = e.target.value.toLowerCase().trim();
+            const brandCards = document.querySelectorAll('.brand-card');
+            const noResults = document.getElementById('no-results');
+            let anyCardVisible = false;
+
+            brandCards.forEach(card => {
+                const devices = card.querySelectorAll('.device-item');
+                let hasVisibleDevice = false;
+
+                devices.forEach(device => {
+                    const text = device.textContent.toLowerCase();
+                    if (text.includes(term)) {
+                        device.classList.remove('hidden-item');
+                        hasVisibleDevice = true;
+                    } else {
+                        device.classList.add('hidden-item');
+                    }
+                });
+
+                if (hasVisibleDevice || term === '') {
+                    card.classList.remove('hidden-item');
+                    anyCardVisible = true;
+                } else {
+                    card.classList.add('hidden-item');
+                }
+            });
+
+            if (anyCardVisible) {
+                noResults.classList.add('hidden');
+            } else {
+                noResults.classList.remove('hidden');
+            }
+        });
+    }
+</script>
+
+<script>
+  (function(d, w, c) {
+    if (w[c]) return;
+    var s = d.createElement("script");
+    w[c] = function() {
+      (w[c].z = w[c].z || []).push(arguments);
+    };
+    s.async = true;
+    s.src = "https://static.ahc.ink/hecong.js";
+    if (d.head) d.head.appendChild(s);
+  })(document, window, "_AIHECONG");
+  _AIHECONG("ini",{ channelId : "U8rW8b" });
+</script>
+</body>
+</html>

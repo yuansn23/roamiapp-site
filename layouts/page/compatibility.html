@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{ partial "head.html" . }}
+    <title>{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}">
+    {{ with .Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
+    <link rel="canonical" href="{{ .Permalink }}" />
+
+    {{ if .IsTranslated }}
+        {{ range .AllTranslations }}
+        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+        {{ end }}
+        <link rel="alternate" hreflang="x-default" href="{{ .Site.Home.Permalink }}">
+    {{ else }}
+        <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
+        <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+    {{ end }}
+
+    <meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+    <meta property="og:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    {{ with .Params.seo.image }}
+    <meta property="og:image" content="{{ . | absURL }}">
+    <meta name="twitter:image" content="{{ . | absURL }}">
+    {{ end }}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+    <meta name="twitter:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}">
+
+    {{ if .Params.faq_schema }}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {{ $len := len .Params.faq_schema }}
+        {{ range $index, $element := .Params.faq_schema }}
+        {
+          "@type": "Question",
+          "name": "{{ .question }}",
+          "acceptedAnswer": { "@type": "Answer", "text": "{{ .answer | plainify }}" }
+        }{{ if ne (add $index 1) $len }},{{ end }}
+        {{ end }}
+      ]
+    }
+    </script>
+    {{ end }}
+ 
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}",
+      "description": "{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}",
+      "url": "{{ .Permalink }}"
+    }
+    </script>
+    
+<link href="/css/tailwind-compiled.css" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', system-ui, sans-serif; }
+        .custom-scrollbar::-webkit-scrollbar { width: 4px; }
+        .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
+        .custom-scrollbar::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
+        .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+        .device-item { transition: opacity 0.2s ease-in-out; }
+        .hidden-item { display: none !important; }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-900 antialiased flex flex-col min-h-screen">
+
+{{ partial "header.html" . }}
+
+<main class="flex-grow">
+    <header class="bg-white border-b border-slate-200 py-6 lg:py-8 relative z-10 shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex flex-col md:flex-row md:items-center justify-between gap-4">
+                <div>
+                    <h1 class="text-2xl md:text-3xl font-extrabold text-slate-900">{{ .Params.header.title }}</h1>
+                    <p class="text-slate-500 text-sm mt-1">{{ .Params.header.subtitle }}</p>
+                </div>
+                
+                <form role="search" onsubmit="event.preventDefault();" class="w-full md:w-96 relative shrink-0">
+                    <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                        <i data-lucide="search" class="w-5 h-5 text-slate-400" aria-hidden="true"></i>
+                    </div>
+                    <input type="search" id="device-search" aria-label="Search supported devices" class="block w-full pl-10 pr-4 py-2.5 bg-slate-100 border-transparent focus:bg-white border focus:border-blue-500 rounded-xl text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all" placeholder="{{ default "Search your phone model..." .Params.header.search_placeholder }}">
+                </form>
+            </div>
+        </div>
+    </header>
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div class="flex flex-col lg:flex-row gap-8">
+            
+            <div class="flex-1">
+                
+                {{ with .Params.free_esim_banner }}
+                <section aria-label="Promotional Offer" class="mb-6 bg-gradient-to-r from-blue-50 to-indigo-50 border border-blue-100 rounded-xl p-5 shadow-sm">
+                    <div class="flex items-center gap-2 mb-2">
+                        <i data-lucide="gift" class="w-5 h-5 text-blue-600" aria-hidden="true"></i>
+                        <h2 class="font-bold text-slate-900 text-lg">{{ .title }}</h2>
+                    </div>
+                    {{ if .description }}
+                    <p class="text-sm text-slate-600 mb-4 leading-relaxed">
+                        {{ .description | safeHTML }}
+                    </p>
+                    {{ end }}
+                    <div class="flex flex-wrap gap-2">
+                        {{ range .links }}
+                        <a href="{{ .url | relLangURL }}" title="{{ .title }}" class="text-xs font-medium bg-white border border-blue-200 text-blue-700 hover:bg-blue-50 hover:text-blue-800 hover:border-blue-300 px-3 py-1.5 rounded-md transition-colors shadow-sm">
+                            {{ .text }}
+                        </a>
+                        {{ end }}
+                    </div>
+                </section>
+                {{ end }}
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6" id="brands-container" aria-label="Supported Devices by Brand">
+                    {{ range .Params.brands }}
+                    <article class="brand-card bg-white rounded-xl p-5 border border-slate-200 shadow-sm flex flex-col h-full" aria-labelledby="brand-{{ .name | urlize }}">
+                        <div class="flex items-center gap-3 mb-4 border-b border-slate-100 pb-3">
+                            <div class="{{ .bg_color }} text-white p-1.5 rounded-md" aria-hidden="true">
+                                <i data-lucide="{{ .icon }}" class="w-5 h-5"></i>
+                            </div>
+                            <h3 id="brand-{{ .name | urlize }}" class="text-lg font-bold text-slate-900">{{ .name }}</h3>
+                        </div>
+                        
+                        <div class="flex-grow overflow-hidden">
+                            {{ range .groups }}
+                                {{ if .sub_title }}
+                                    <h4 class="font-semibold text-slate-700 text-xs uppercase tracking-wider mb-2 mt-2">{{ .sub_title }}</h4>
+                                {{ end }}
+                                <ul class="device-list space-y-1.5 text-sm text-slate-600 {{ if not .sub_title }}h-56{{ else }}h-32 mb-3{{ end }} overflow-y-auto pr-2 custom-scrollbar">
+                                    {{ range .devices }}
+                                    <li class="device-item flex items-start gap-2">
+                                        <span class="w-1 h-1 rounded-full bg-slate-300 mt-2 shrink-0" aria-hidden="true"></span>
+                                        <span>{{ . | safeHTML }}</span>
+                                    </li>
+                                    {{ end }}
+                                </ul>
+                            {{ end }}
+                        </div>
+
+                        {{ if .note }}
+                        <div class="mt-3 p-2.5 rounded-lg bg-slate-50 border border-slate-100 text-xs text-slate-500 {{ .note_class }}">
+                            {{ .note | safeHTML }}
+                        </div>
+                        {{ end }}
+                    </article>
+                    {{ end }}
+                </div>
+                
+                {{ with .Params.no_results }}
+                <div id="no-results" aria-live="polite" class="hidden text-center py-12 sm:py-16 bg-white rounded-xl border border-slate-200 mt-6 shadow-sm">
+                  
+                    <h3 class="text-xl font-bold text-slate-900">{{ .title }}</h3>
+                    <p class="text-slate-500 mt-2 mb-6 max-w-md mx-auto px-4">{{ .description }}</p>
+                    
+                    <div class="bg-blue-50 border border-blue-100 rounded-xl p-5 max-w-md mx-auto text-left mx-4 sm:mx-auto">
+                        <h4 class="font-bold text-slate-900 flex items-center gap-2 mb-2">
+                            <i data-lucide="lightbulb" class="w-5 h-5 text-amber-500" aria-hidden="true"></i> {{ .box_title }}
+                        </h4>
+                        <p class="text-sm text-slate-600 mb-5">{{ .box_desc }}</p>
+                        <a href="{{ .button_url | relLangURL }}" class="flex items-center justify-center gap-2 w-full py-3 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-lg transition-colors shadow-sm">
+                            {{ .button_text }} <i data-lucide="arrow-right" class="w-4 h-4" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+
+            <aside class="w-full lg:w-80 shrink-0">
+                <div class="sticky top-28 space-y-6">
+                    
+                    <div class="bg-blue-50 border border-blue-100 rounded-xl p-6" itemscope itemtype="https://schema.org/HowTo">
+                        <h2 itemprop="name" class="text-lg font-bold text-slate-900 mb-2">{{ .Params.how_to_check.title }}</h2>
+                        <p itemprop="description" class="text-sm text-slate-600 mb-4">{{ .Params.how_to_check.description }}</p>
+                        <ul class="space-y-3 text-sm text-slate-700 font-medium">
+                            {{ range .Params.how_to_check.steps }}
+                            <li itemprop="step" itemscope itemtype="https://schema.org/HowToStep" class="flex items-start gap-2">
+                                <i data-lucide="check-circle-2" class="w-4 h-4 text-blue-600 mt-0.5 shrink-0" aria-hidden="true"></i> 
+                                <span itemprop="text" class="leading-tight">{{ . | safeHTML }}</span>
+                            </li>
+                            {{ end }}
+                        </ul>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-xl shadow-sm border border-slate-200 text-center">
+                        <div class="w-10 h-10 bg-slate-50 rounded-full flex items-center justify-center mx-auto mb-3" aria-hidden="true">
+                            <i data-lucide="smartphone" class="w-5 h-5 text-slate-600"></i>
+                        </div>
+                        <h3 class="font-bold text-slate-900 text-sm">{{ .Params.how_to_check.side_box.title }}</h3>
+                        <p class="text-xs text-slate-500 mt-2 leading-relaxed">{{ .Params.how_to_check.side_box.desc }}</p>
+                    </div>
+
+                    {{ with .Params.sidebar_promo }}
+                    <div class="bg-gradient-to-br from-slate-900 to-slate-800 rounded-xl p-6 text-white shadow-lg border border-slate-700" aria-label="Special Promotion">
+                        <div class="flex items-center gap-2 mb-3">
+                            <i data-lucide="sparkles" class="w-5 h-5 text-yellow-400" aria-hidden="true"></i>
+                            <h3 class="font-bold text-lg">{{ .title }}</h3>
+                        </div>
+                        <p class="text-slate-300 text-sm mb-5 leading-relaxed">
+                            {{ .description }}
+                        </p>
+                        <a href="{{ .button_url | relLangURL }}" class="flex items-center justify-center w-full py-2.5 bg-blue-600 hover:bg-blue-500 text-white text-sm font-bold rounded-lg transition-colors shadow-sm">
+                            {{ .button_text }}
+                        </a>
+                    </div>
+                    {{ end }}
+
+                </div>
+            </aside>
+
+        </div>
+    </div>
+</main>
+
+{{ partial "footer.html" . }}
+
+<script>
+    const searchInput = document.getElementById('device-search');
+    if (searchInput) {
+        searchInput.addEventListener('input', function(e) {
+            const term = e.target.value.toLowerCase().trim();
+            const brandCards = document.querySelectorAll('.brand-card');
+            const noResults = document.getElementById('no-results');
+            let anyCardVisible = false;
+
+            brandCards.forEach(card => {
+                const devices = card.querySelectorAll('.device-item');
+                let hasVisibleDevice = false;
+
+                devices.forEach(device => {
+                    const text = device.textContent.toLowerCase();
+                    if (text.includes(term)) {
+                        device.classList.remove('hidden-item');
+                        hasVisibleDevice = true;
+                    } else {
+                        device.classList.add('hidden-item');
+                    }
+                });
+
+                if (hasVisibleDevice || term === '') {
+                    card.classList.remove('hidden-item');
+                    anyCardVisible = true;
+                } else {
+                    card.classList.add('hidden-item');
+                }
+            });
+
+            if (anyCardVisible) {
+                noResults.classList.add('hidden');
+            } else {
+                noResults.classList.remove('hidden');
+            }
+        });
+    }
+</script>
+</body>
+</html>

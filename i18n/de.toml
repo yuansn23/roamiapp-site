@@ -1,0 +1,56 @@
+[download_on_the]
+other = "Laden im"
+
+[app_store]
+other = "App Store"
+
+[get_it_on]
+other = "Jetzt bei"
+
+[google_play]
+other = "Google Play"
+
+[visit_our]
+other = "Besuchen Sie unsere"
+
+[official_website]
+other = "offizielle Website"
+
+[view_plans]
+other = "Tarife anzeigen"
+
+[web]
+other = "Web"
+
+[android]
+other = "Android"
+
+[friendly_reminder]
+other = "Freundlicher Hinweis"
+
+[modal_upgrade_desc]
+other = "Unsere Dienste wurden aktualisiert. Bitte besuchen Sie unsere offizielle Website oder App, um Ihren Gutscheincode zu erhalten."
+
+[cancel]
+other = "Abbrechen"
+
+[proceed]
+other = "Weiter"
+
+[modal_title_ios]
+other = "Service aktualisiert"
+
+[modal_text_ios]
+other = "Sie werden zur offiziellen App weitergeleitet, um den Rabattcode zu erhalten."
+
+[get_esim_discount]
+other = "20 % eSIM-Rabatt erhalten"
+
+[tldr_summary_title]
+other = "💡 Kurzzusammenfassung für Reisende"
+
+[modal_cancel]
+other = "Abbrechen"
+
+[modal_continue]
+other = "Weiter"

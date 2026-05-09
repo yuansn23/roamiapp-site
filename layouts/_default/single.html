@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang | default "en" }}" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    {{ $siteName := .Params.site_name | default .Site.Title | default "Roami" }}
+    {{ $title := .Title | default $siteName }}
+    {{ $seoTitle := $title }}
+    {{ if ne $title $siteName }}
+        {{ $seoTitle = printf "%s - %s" $title $siteName }}
+    {{ end }}
+    
+    {{ $seoDescription := .Description | default .Params.description | default .Summary | default "" }}
+
+    {{ $seoKeywords := "" }}
+    {{ if .Keywords }}
+        {{ $seoKeywords = delimit .Keywords ", " }}
+    {{ else if .Params.keywords }}
+        {{ $seoKeywords = delimit .Params.keywords ", " }}
+    {{ else if .Params.tags }}
+        {{ $seoKeywords = delimit .Params.tags ", " }}
+    {{ end }}
+
+    {{ $seoImage := .Params.image | default "" }}
+    {{ if $seoImage }}
+        {{ $seoImage = $seoImage | absURL }}
+    {{ end }}
+
+    <title>{{ $seoTitle }}</title>
+    <meta name="description" content="{{ $seoDescription }}">
+    {{ with $seoKeywords }}<meta name="keywords" content="{{ . }}">{{ end }}
+    
+    <meta property="og:title" content="{{ $seoTitle }}">
+    <meta property="og:description" content="{{ $seoDescription }}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ $siteName }}">
+    {{ with $seoImage }}<meta property="og:image" content="{{ . }}">{{ end }}
+    
+    {{ if not .Date.IsZero }}<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
+    {{ if not .Lastmod.IsZero }}<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ $seoTitle }}">
+    <meta name="twitter:description" content="{{ $seoDescription }}">
+    {{ with $seoImage }}<meta name="twitter:image" content="{{ . }}">{{ end }}
+    
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    {{ if .IsTranslated }}
+        {{ range .AllTranslations }}
+        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+        {{ end }}
+        <link rel="alternate" hreflang="x-default" href="{{ .Site.Home.Permalink }}">
+    {{ else }}
+        <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
+        <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+    {{ end }}
+
+    <script type="application/ld+json">
+    [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "{{ $seoTitle }}",
+        "image": "{{ $seoImage }}",
+        "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+        "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+        "author": {
+          "@type": "Organization",
+          "name": "{{ .Params.author | default $siteName }}"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "{{ .Params.author | default $siteName }}",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "{{ .Params.publisher_logo | absURL }}"
+          }
+        },
+        "description": "{{ $seoDescription }}"
+      }
+    ]
+    </script>
+    <script src="https://cdn.tailwindcss.com?plugins=typography"></script> 
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: { extend: { fontFamily: { 'sans': ['Inter','system-ui','sans-serif'] } } }
+        }
+    </script>
+    <style>
+        /* 1. 确保平滑滚动在所有环境下生效 */
+        html { 
+            scroll-behavior: smooth !important; 
+        }
+        
+        body { font-family: 'Inter', system-ui, sans-serif; }
+        
+        /* 2. 核心：修复锚点被 Header 遮挡的问题 */
+        [id] {
+            scroll-margin-top: 120px;
+        }
+
+        #TableOfContents { font-size: 0.95rem; }
+        #TableOfContents ul { list-style-type: none; padding-left: 1.25rem; margin-top: 0.5rem; margin-bottom: 0.5rem; }
+        #TableOfContents > ul { padding-left: 0; }
+        #TableOfContents li { margin-bottom: 0.5rem; }
+        #TableOfContents a { 
+            color: #475569; 
+            text-decoration: none; 
+            transition: all 0.2s; 
+            display: block; 
+            border-left: 2px solid transparent; 
+            padding-left: 0.75rem; 
+        }
+        #TableOfContents a:hover { color: #2563eb; border-left-color: #2563eb; background-color: #eff6ff; }
+        
+        .toc-container a {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-900 antialiased min-h-screen flex flex-col">
+
+{{ partial "header.html" . }}
+ 
+<section class="bg-blue-600 text-white pt-24 pb-12 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-4xl mx-auto">
+        <nav class="flex mb-6 text-sm text-blue-200" aria-label="Breadcrumb">
+            <ol class="inline-flex items-center space-x-2">
+                <li class="inline-flex items-center">
+                    <a href="{{ .Params.breadcrumbs.home.url | default "/" | relLangURL }}" class="hover:text-white transition-colors">
+                        {{ .Params.breadcrumbs.home.text | default "Home" }}
+                    </a>
+                </li>
+                <li>
+                    <div class="flex items-center">
+                        <i data-lucide="chevron-right" class="w-4 h-4 mx-1 opacity-70" aria-hidden="true"></i>
+                        <a href="{{ .Params.breadcrumbs.parent.url | default "/faq/" | relLangURL }}" class="hover:text-white transition-colors">
+                            {{ .Params.breadcrumbs.parent.text | default "Help Center" }}
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div class="flex items-center">
+                        <i data-lucide="chevron-right" class="w-4 h-4 mx-1 opacity-70" aria-hidden="true"></i>
+                        <span class="text-white font-medium truncate max-w-[200px] sm:max-w-xs" aria-current="page">{{ .Title }}</span>
+                    </div>
+                </li>
+            </ol>
+        </nav>
+
+        <h1 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold mb-4 leading-tight">{{ .Title }}</h1>
+        
+        <div class="flex items-center text-blue-100 text-sm mt-6">
+            <div class="flex items-center mr-6">
+                <i data-lucide="calendar" class="w-4 h-4 mr-2 opacity-80" aria-hidden="true"></i>
+                <span>{{ .Params.ui_text.updated_on | default "Updated on" }} <time>{{ .Lastmod.Format "January 2, 2006" }}</time></span>
+            </div>
+            <div class="flex items-center">
+                <i data-lucide="clock" class="w-4 h-4 mr-2 opacity-80" aria-hidden="true"></i>
+                <span>{{ .ReadingTime }} {{ .Params.ui_text.min_read | default "min read" }}</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ $hasSidebar := or .Params.sidebar_popular .Params.sidebar_free .Params.sidebar_questions }}
+
+<section class="flex-1 {{ if $hasSidebar }}max-w-7xl{{ else }}max-w-4xl{{ end }} mx-auto w-full px-4 sm:px-6 lg:px-8 py-10 -mt-8 relative z-10 mb-8 {{ if $hasSidebar }}flex flex-col lg:flex-row gap-8 lg:items-start{{ end }}">
+    
+    <div role="main" class="{{ if $hasSidebar }}flex-1 min-w-0{{ end }} bg-white rounded-3xl shadow-xl border border-slate-100 p-6 sm:p-10 lg:p-12">
+        
+        {{ if and (gt .WordCount 10) (.Params.toc | default true) }}
+        <nav class="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-10 toc-container">
+            <h2 class="text-lg font-bold text-slate-900 mb-4 flex items-center">
+                <i data-lucide="list" class="w-5 h-5 text-blue-600 mr-2"></i> {{ .Params.ui_text.toc | default "Table of Contents" }}
+            </h2>
+            <div class="text-slate-700">
+                {{ .TableOfContents }}
+            </div>
+        </nav>
+        {{ end }}
+
+        <article class="prose prose-slate prose-lg max-w-none 
+            prose-headings:font-bold prose-headings:text-slate-900
+            prose-a:text-blue-600 hover:prose-a:text-blue-800 prose-a:no-underline hover:prose-a:underline">
+            {{ .Content }}
+        </article>
+
+    </div>
+
+    {{ if $hasSidebar }}
+    <aside class="w-full lg:w-[260px] shrink-0 space-y-6 mt-8 lg:mt-0 sticky top-24">
+        
+        {{ with .Params.sidebar_popular }}
+        <div class="bg-white rounded-2xl shadow-lg border border-slate-100 p-5">
+            <h3 class="text-base font-bold text-slate-900 mb-4 flex items-center">
+                <i data-lucide="flame" class="w-5 h-5 text-orange-500 mr-2"></i> {{ .title }}
+            </h3>
+            <div class="grid grid-cols-2 gap-3">
+                {{ range .items }}
+                <a href="{{ .url | relLangURL }}" class="relative overflow-hidden flex flex-col items-center justify-center p-3 rounded-xl border border-slate-100 bg-slate-50 hover:bg-white hover:border-blue-500 hover:shadow-md transition-all group text-center">
+                    {{ with .badge }}
+                    <div class="absolute top-0 right-0 bg-blue-600 text-white text-[9px] font-black px-1.5 py-0.5 rounded-bl-lg z-10">{{ . }}</div>
+                    {{ end }}
+                    <img src="{{ .flag }}" loading="lazy" class="w-8 h-8 object-contain mb-2 group-hover:scale-110 transition-transform">
+                    <span class="text-[12px] font-bold text-slate-800 mb-1 leading-tight line-clamp-1">{{ .name }}</span>
+                    <span class="text-[11px] font-semibold text-blue-600">{{ .price }}</span>
+                </a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.sidebar_free }}
+        <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl shadow-lg border border-blue-100 p-5">
+            <h3 class="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+                <span class="text-lg">{{ .icon | default "🎁" }}</span> {{ .title }}
+            </h3>
+            <div class="grid grid-cols-2 gap-3">
+                {{ range .items }}
+                <a href="{{ .url | relLangURL }}" class="flex items-center gap-2.5 p-3 bg-white rounded-xl border border-blue-100 hover:border-blue-500 hover:shadow-sm transition-all group">
+                    <img src="{{ .flag }}" loading="lazy" class="w-6 h-6 object-contain group-hover:scale-110 transition-transform shrink-0">
+                    <div class="flex flex-col">
+                        <span class="text-xs font-bold text-slate-800 leading-tight">{{ .name }}</span>
+                        <span class="text-[10px] text-slate-500 font-medium">{{ $.Params.sidebar_free.item_subtitle }}</span>
+                    </div>
+                </a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.sidebar_questions }}
+        <div class="bg-white rounded-2xl shadow-lg border border-slate-100 p-5">
+            <h3 class="text-base font-bold text-slate-900 mb-4 flex items-center">
+                <i data-lucide="help-circle" class="w-5 h-5 text-blue-500 mr-2"></i> {{ .title }}
+            </h3>
+            <ul class="space-y-3">
+                {{ range .items }}
+                <li>
+                    <a href="{{ .url | relLangURL }}" class="group flex items-start text-sm text-slate-600 hover:text-blue-600 transition-colors">
+                        <i data-lucide="chevron-right" class="w-4 h-4 text-slate-400 group-hover:text-blue-500 mt-0.5 mr-1.5 shrink-0 transition-colors"></i>
+                        <span class="leading-snug">{{ .question }}</span>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+        {{ end }}
+
+    </aside>
+    {{ end }}
+</section>
+
+{{ partial "footer.html" . }}
+
+<script src="https://unpkg.com/lucide@latest"></script>
+<script>
+    lucide.createIcons();
+    
+    // 强制修复锚点跳转逻辑
+    document.addEventListener('DOMContentLoaded', function() {
+        const tocLinks = document.querySelectorAll('.toc-container a');
+        
+        tocLinks.forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                const href = this.getAttribute('href');
+                if (href && href.startsWith('#')) {
+                    e.preventDefault();
+                    
+                    const targetId = decodeURIComponent(href.substring(1));
+                    const target = document.getElementById(targetId);
+                    
+                    if (target) {
+                        const headerOffset = 110;
+                        const elementPosition = target.getBoundingClientRect().top;
+                        const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+
+                        window.scrollTo({
+                            top: offsetPosition,
+                            behavior: 'smooth'
+                        });
+
+                        // 关键修复：更新 Hash 时保留原始路径（包含 /de/ 或 /en/）
+                        // 使用当前 window.location.pathname 保证多语言前缀不丢失
+                        history.pushState(null, null, window.location.pathname + href);
+                    }
+                }
+            });
+        });
+    });
+</script>
+
+<script>
+  (function(d, w, c) {
+    if (w[c]) return;
+    var s = d.createElement("script");
+    w[c] = function() {
+      (w[c].z = w[c].z || []).push(arguments);
+    };
+    s.async = true;
+    s.src = "https://static.ahc.ink/hecong.js";
+    if (d.head) d.head.appendChild(s);
+  })(document, window, "_AIHECONG");
+  _AIHECONG("ini",{ channelId : "U8rW8b" });
+</script>
+</body>
+</html>

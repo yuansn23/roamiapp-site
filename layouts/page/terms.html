@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<!-- 🌟 1. 动态获取当前语言代码，替代写死的 "en" -->
+<html lang="{{ .Site.Language.Lang }}" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     {{ partial "head.html" . }}
+    <!-- 🌟 2. 动态标题和描述 (支持从 front matter 的 seo 字段读取，或者使用默认值) -->
+    <title>{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - Roami eSIM{{ end }}</title>
+    <meta name="description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}">
+    <meta name="robots" content="index, follow">
+
+    <!-- 🌟 3. 规范化链接 (Canonical URL) -->
+    <link rel="canonical" href="{{ .Permalink }}" />
+
+    <!-- 🌟 4. 多语言 hreflang 标签 (多语言 SEO 核心！) -->
+    {{ if .IsTranslated }}
+        {{ range .AllTranslations }}
+        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+        {{ end }}
+        <link rel="alternate" hreflang="x-default" href="{{ .Site.Home.Permalink }}">
+    {{ else }}
+        <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
+        <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+    {{ end }}
+
+    <!-- 🌟 5. Open Graph 社交分享标签 -->
+    <meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - Roami eSIM{{ end }}">
+    <meta property="og:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    {{ with .Params.seo.image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
+
+    <!-- 🌟 6. Twitter Card 标签 -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - Roami eSIM{{ end }}">
+    <meta name="twitter:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}">
+    {{ with .Params.seo.image }}<meta name="twitter:image" content="{{ . | absURL }}">{{ end }}
+    
+    
+
+<link href="/css/tailwind-compiled.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: { extend: { fontFamily: { 'sans': ['Inter','system-ui','sans-serif'] } } }
+        }
+    </script>
+    <style>
+        body { font-family: 'Inter', system-ui, sans-serif; }
+        .prose h2 { font-size: 1.5rem; font-weight: 700; color: #0f172a; margin-top: 2rem; margin-bottom: 1rem; }
+        .prose p { margin-bottom: 1rem; line-height: 1.75; color: #475569; }
+        .prose ul { list-style-type: disc; padding-left: 1.5rem; margin-bottom: 1rem; color: #475569; }
+        .prose li { margin-bottom: 0.5rem; }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-900 antialiased">
+
+ <!-- ═══════════ NAV ═══════════ -->
+{{ partial "header.html" . }}
+
+<!-- ═══════════ PAGE HEADER ═══════════ -->
+<header class="bg-white border-b border-slate-200 py-16 lg:py-24">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <!-- 2. 替换大标题 -->
+        <h1 class="text-3xl md:text-5xl font-extrabold text-slate-900 mb-4">{{ .Title }}</h1>
+        <!-- 3. 替换更新时间 -->
+        <p class="text-slate-500 text-lg">Last Updated: {{ .Params.last_updated }}</p>
+    </div>
+</header>
+
+<!-- ═══════════ TERMS CONTENT ═══════════ -->
+<section class="py-16">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="bg-white p-8 md:p-12 rounded-2xl shadow-sm border border-slate-200 prose">
+            
+            <!-- 4. 核心魔法：这里会自动插入 Markdown 里的所有正文！ -->
+            {{ .Content }}
+
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════ FOOTER ═══════════ -->
+<!-- 引入你之前做好的 footer 模板 -->
+{{ partial "footer.html" . }}
+
+
+<script>
+    lucide.createIcons();
+    document.getElementById('mobile-menu-btn').addEventListener('click', function () {
+        document.getElementById('mobile-menu').classList.toggle('hidden');
+    });
+</script>
+</body>
+</html>

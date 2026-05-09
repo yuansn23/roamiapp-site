@@ -1,0 +1,47 @@
+[download_on_the]
+other = "Download on the"
+
+[app_store]
+other = "App Store"
+
+[get_it_on]
+other = "Get it on"
+
+[google_play]
+other = "Google Play"
+
+[visit_our]
+other = "Visit our"
+
+[official_website]
+other = "Official Website"
+
+[view_plans]
+other = "View Plans"
+
+[web]
+other = "Web"
+
+[android]
+other = "Android"
+
+[friendly_reminder]
+other = "Friendly Reminder"
+
+[modal_upgrade_desc]
+other = "Our services have been upgraded. Please visit our official website or APP to get your promo code."
+
+[cancel]
+other = "Cancel"
+
+[proceed]
+other = "Proceed"
+
+[modal_title_ios]
+other = "Service Updated"
+
+[modal_text_ios]
+other = "You will be redirected to the official app to get the discount code."
+
+[get_esim_discount]
+other = "Get 20% eSIM Discount"

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+ 
+Sitemap: https://www.roamiapp.com/sitemap.xml
+Sitemap: https://www.roamiapp.com/faq/sitemap.xml

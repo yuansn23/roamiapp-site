@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{ partial "head.html" . }}
+    <title>{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}</title>
+    <meta name="description" content="{{ .Params.seo.description }}">
+    <meta name="keywords" content="{{ .Params.seo.keywords }}">
+    
+    <meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+    <meta property="og:description" content="{{ .Params.seo.description }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    <meta property="og:image" content="{{ .Params.seo.image }}">
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+    <meta name="twitter:description" content="{{ .Params.seo.description }}">
+    <meta name="twitter:image" content="{{ .Params.seo.image }}">
+    
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    {{ if .IsTranslated }}
+        {{ range .AllTranslations }}
+        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+        {{ end }}
+        <link rel="alternate" hreflang="x-default" href="{{ .Site.Home.Permalink }}">
+    {{ else }}
+        <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
+        <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+    {{ end }}
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "{{ .Site.BaseURL }}#website",
+          "name": "{{ .Site.Title }}",
+          "url": "{{ .Site.BaseURL }}",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "{{ .Permalink }}?search={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "Organization",
+          "@id": "{{ .Site.BaseURL }}#organization",
+          "name": "{{ .Site.Title }}",
+          "url": "{{ .Site.BaseURL }}"
+        }
+        {{ if .Params.top_countries }},
+        {
+          "@type": "ItemList",
+          "name": "{{ .Params.ui.schema_top_dest_name | default "Top eSIM Destinations" }}",
+          "itemListElement": [
+            {{ range $index, $item := .Params.top_countries }}
+            {{ if gt $index 0 }},{{ end }}
+            {
+              "@type": "ListItem",
+              "position": {{ add $index 1 }},
+              "name": "{{ .name }} {{ $.Params.ui.schema_esim_suffix | default "eSIM" }}",
+              "url": "{{ if .slug }}{{ printf "/%s-esim/" .slug | absLangURL }}{{ else }}{{ printf "/%s-esim/" (.name | urlize) | absLangURL }}{{ end }}"
+            }
+            {{ end }}
+          ]
+        }
+        {{ end }}
+      ]
+    }
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    
+    <style>
+        body { font-family: 'Inter', system-ui, sans-serif; }
+        .dest-card { transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease; box-shadow: 0 2px 8px rgba(0,0,0,.04); }
+        .dest-card:hover { transform: translateY(-5px); box-shadow: 0 16px 36px rgba(37,99,235,.12); border-color: #93c5fd; }
+        .dest-card:hover .flag-img { transform: scale(1.1); }
+        .dest-card:hover .card-action { background-color: #2563eb; color: #ffffff; }
+        .flag-img { transition: transform .2s ease; }
+        .search-wrapper:focus-within { box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.3); border-color: #3b82f6; }
+        
+        .hide-scrollbar::-webkit-scrollbar { display: none; }
+        .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+        
+        @media (max-width: 1023px) {
+            .mobile-menu-btn,
+            .hamburger,
+            .menu-toggle,
+            [aria-label="Menu"],
+            [aria-label="Toggle navigation"],
+            button.hamburger {
+                display: flex !important;
+                visibility: visible !important;
+                opacity: 1 !important;
+                z-index: 1000 !important;
+                position: relative !important;
+            }
+            .mobile-menu-btn svg,
+            .hamburger svg,
+            .menu-toggle svg {
+                width: 24px !important;
+                height: 24px !important;
+                display: block !important;
+            }
+            .navbar-header,
+            .site-header {
+                overflow: visible !important;
+            }
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-900 antialiased flex flex-col min-h-screen">
+
+{{ partial "header.html" . }}
+
+<header class="relative bg-slate-900 py-24 lg:py-32 overflow-hidden">
+    <div class="absolute inset-0 z-0" aria-hidden="true">
+        <img src="/img/search.png" alt="{{ .Params.ui.bg_alt | default "Global Network Connectivity Background" }}" class="w-full h-full object-cover opacity-80">
+        <div class="absolute inset-0 bg-gradient-to-b from-slate-900/50 via-slate-900/30 to-slate-900/90"></div>
+    </div>
+
+    <div class="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <h1 class="text-4xl md:text-5xl lg:text-6xl font-extrabold text-white mb-6 tracking-tight">
+            {{ .Params.hero.title | safeHTML }}
+        </h1>
+        <p class="text-lg md:text-xl text-slate-300 mb-8 max-w-2xl mx-auto">
+            {{ .Params.hero.subtitle }}
+        </p>
+
+        <div class="mb-10 flex justify-center w-full" aria-label="{{ .Params.ui.trustpilot_aria | default "Trustpilot Reviews" }}">
+            <div class="trustpilot-widget" data-locale="en-US" data-template-id="56278e9abfbbba0bdcd568bc" data-businessunit-id="69df14d2ef5f0c85e02c7a4b" data-style-height="52px" data-style-width="100%" data-token="dec1e7c0-29ae-4eda-b797-5db09ac02dc4" data-theme="dark">
+              <a href="https://www.trustpilot.com/review/roamiapp.com" target="_blank" rel="noopener">Trustpilot</a>
+            </div>
+        </div>
+        <div class="max-w-2xl mx-auto relative">
+            <form role="search" onsubmit="event.preventDefault();" class="search-wrapper flex items-center bg-white rounded-2xl p-2 shadow-2xl transition-all duration-300 border-2 border-transparent">
+                <div class="pl-4 pr-2 text-slate-400" aria-hidden="true">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-6 h-6"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                </div>
+                <input type="search" id="destinationSearch" aria-label="{{ .Params.ui.search_input_aria | default "Search destination for eSIM" }}" placeholder="{{ .Params.hero.search_placeholder | default "Search country or region (e.g. Europe, Japan)..." }}" class="w-full py-3 px-2 text-slate-900 text-lg bg-transparent border-none outline-none placeholder-slate-400 font-medium">
+                <button type="button" onclick="document.getElementById('destinationSearch').focus()" class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-xl font-semibold transition-colors hidden sm:block">
+                    {{ .Params.hero.search_button }}
+                </button>
+            </form>
+            <nav aria-label="Popular Searches" class="text-slate-400 text-sm mt-4 text-left sm:text-center">
+                {{ .Params.hero.popular_text }} 
+                {{ range $index, $link := .Params.hero.popular_links }}
+                    {{ if gt $index 0 }}, {{ end }}
+                    <a href="#" onclick="setSearch('{{ .name }}'); return false;" class="text-blue-300 hover:text-white transition-colors" title="{{ .name }} {{ $.Params.ui.popular_link_title_suffix | default "eSIM plans" }}">{{ .name }}</a>
+                {{ end }}
+            </nav>
+        </div>
+    </div>
+</header>
+
+<section class="py-16 flex-grow relative">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+
+        <div id="noResults" class="hidden text-center py-16" aria-live="polite">
+            <div class="w-16 h-16 bg-slate-100 rounded-full flex items-center justify-center mx-auto mb-4" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-8 h-8 text-slate-400"><path d="M5.43 5.43A8.06 8.06 0 0 0 4 10c0 6 8 12 8 12a29.94 29.94 0 0 0 5-5.36"></path><path d="M19.18 13.52A8.66 8.66 0 0 0 20 10a8 8 0 0 0-8-8 7.88 7.88 0 0 0-3.52.82"></path><circle cx="12" cy="10" r="3"></circle><line x1="2" y1="2" x2="22" y2="22"></line></svg>
+            </div>
+            <h3 class="text-xl font-bold text-slate-900 mb-2">{{ .Params.ui.no_results_title }}</h3>
+            <p class="text-slate-500">{{ .Params.ui.no_results_desc }}</p>
+        </div>
+
+        <div id="topPlansSection" class="mb-16">
+            <div class="flex items-center gap-3 mb-8">
+                <div class="w-8 h-8 bg-red-100 rounded-lg flex items-center justify-center text-red-600" aria-hidden="true">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"></path></svg>
+                </div>
+                <h2 class="text-2xl font-bold text-slate-900">{{ .Params.ui.top_plans_title }}</h2>
+            </div>
+            
+            <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 sm:gap-5 list-none p-0 m-0" id="topPlansGrid">
+                {{ range .Params.top_countries }}
+                <li class="block">
+                    {{- $destURL := "" -}}
+                    {{- if .slug -}}
+                        {{- $destURL = printf "/%s-esim/" .slug | relLangURL -}}
+                    {{- else -}}
+                        {{- $destURL = printf "/%s-esim/" (.name | urlize) | relLangURL -}}
+                    {{- end -}}
+                    <a href="{{ $destURL }}" aria-label="{{ $.Params.ui.buy_plan_aria_prefix | default "Buy" }} {{ .name }} {{ $.Params.ui.buy_plan_aria_suffix | default "eSIM data plan" }}" class="dest-card group bg-white pt-6 pb-0 px-0 rounded-2xl border border-slate-200 text-center relative overflow-hidden flex flex-col h-full w-full" data-search="{{ lower .name }} {{ lower .code }} {{ if .alias }}{{ lower .alias }}{{ end }}">
+                        {{ if .badge }}
+                        <span class="absolute top-0 right-0 {{ .badgeColor | default "bg-red-500" }} text-white text-[10px] px-2.5 py-1 rounded-bl-lg font-bold shadow-sm z-10 tracking-wide">{{ .badge }}</span>
+                        {{ end }}
+                        <div class="px-4 flex-grow">
+                            <img src="/img/flags/{{ .code }}.svg" alt="{{ $.Params.ui.flag_alt_prefix | default "Flag of" }} {{ .name }}" loading="lazy" class="w-16 h-11 mx-auto mb-3 shadow-sm rounded-sm object-cover flag-img">
+                            <h3 class="font-bold text-slate-900 text-base mb-0.5">{{ .name }}</h3>
+                            <p class="text-slate-500 text-xs font-medium mb-2">{{ $.Params.ui.card_network_type | default "5G/4G eSIM" }}</p>
+                            <p class="text-blue-600 font-extrabold text-sm mb-3">{{ $.Params.ui.from_price }}</p>
+                        </div>
+                        <div class="card-action mt-auto border-t border-slate-100 py-3 text-blue-600 bg-slate-50 text-sm font-semibold flex items-center justify-center transition-colors" aria-hidden="true">
+                            {{ $.Params.ui.view_plans }} <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4 ml-1.5"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                        </div>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+
+        {{ if .Params.regional_plans }}
+        <div id="regionalPlansSection" class="mb-20 bg-gradient-to-br from-blue-50 via-indigo-50/50 to-white rounded-[2rem] p-6 sm:p-8 lg:p-10 border border-blue-100 shadow-sm relative overflow-hidden">
+            <div class="absolute top-0 right-0 -mt-10 -mr-10 text-blue-500 opacity-5 pointer-events-none" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-64 h-64"><path d="M22 12A10 10 0 1 1 12 2a10 10 0 0 1 10 10z"></path><path d="M2 12h20"></path><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+            </div>
+            <div class="relative z-10 flex flex-col md:flex-row md:items-end justify-between mb-10 gap-4">
+                <div>
+                    <div class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-blue-100/80 text-blue-700 text-xs font-bold tracking-wide uppercase mb-4 shadow-sm">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 h-3.5" aria-hidden="true"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"></path></svg> {{ .Params.ui.premium_coverage | default "Premium Coverage" }}
+                    </div>
+                    <h2 class="text-3xl md:text-4xl font-extrabold text-slate-900 tracking-tight">
+                        {{ .Params.ui.regional_plans_title | default "Regional & Global Plans" }}
+                    </h2>
+                    <p class="text-slate-500 mt-3 text-base max-w-xl leading-relaxed">
+                        {{ .Params.ui.regional_subtitle | default "Travel across multiple countries with a single eSIM. Perfect for multi-destination trips and digital nomads." }}
+                    </p>
+                </div>
+            </div>
+            
+            <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative z-10 list-none p-0 m-0" id="regionalPlansGrid">
+                {{ range .Params.regional_plans }}
+                <li class="block">
+                    <a href="{{ .url | relLangURL }}" aria-label="{{ $.Params.ui.regional_aria_prefix | default "Explore" }} {{ .name }} {{ $.Params.ui.regional_aria_suffix | default "Regional eSIM plans" }}" class="dest-card group bg-white p-6 rounded-2xl border-2 border-transparent {{ .hover_border | default "hover:border-blue-400" }} flex flex-col relative overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 h-full w-full" data-search="{{ .search_terms }}">
+                        {{ if .badge }}
+                        <span class="absolute top-4 right-4 bg-red-500 text-white text-[10px] px-2.5 py-1 rounded-md font-bold shadow-sm z-10 tracking-wide">{{ .badge }}</span>
+                        {{ end }}
+                        <div class="flex items-center gap-4 mb-5">
+                            <div class="w-14 h-14 rounded-2xl bg-gradient-to-br {{ .color_from | default "from-blue-500" }} {{ .color_to | default "to-indigo-600" }} flex items-center justify-center text-white flex-shrink-0 shadow-md group-hover:scale-110 group-hover:-rotate-3 transition-transform duration-300" aria-hidden="true">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-7 h-7"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+                            </div>
+                            <div>
+                                <h3 class="font-bold text-slate-900 text-xl mb-0.5">{{ .name }}</h3>
+                                <p class="text-slate-500 text-sm font-medium">{{ .description }}</p>
+                            </div>
+                        </div>
+                        <div class="mt-auto flex items-center justify-between pt-4 border-t border-slate-100">
+                            <div class="text-blue-600 font-extrabold text-lg">{{ $.Params.ui.from_price | default "From $1.99" }}</div>
+                            <div class="flex items-center text-sm font-bold text-slate-400 {{ .hover_text | default "group-hover:text-blue-600" }} transition-colors" aria-hidden="true">
+                                {{ $.Params.ui.explore | default "Explore" }} <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+        {{ end }}
+
+        <div id="allPlansSection">
+            <div class="flex items-center gap-3 mb-8">
+                <div class="w-8 h-8 bg-blue-100 rounded-lg flex items-center justify-center text-blue-600" aria-hidden="true">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+                </div>
+                <h2 class="text-2xl font-bold text-slate-900">{{ .Params.ui.all_plans_title }}</h2>
+            </div>
+
+            <div class="flex flex-col md:flex-row gap-6 items-start relative">
+                <div class="flex-1 w-full min-w-0">
+                    <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-4 xl:grid-cols-5 gap-4 sm:gap-5 list-none p-0 m-0" id="allPlansGrid">
+                        {{ range sort .Params.all_countries "name" "asc" }}
+                        <li class="block all-dest-card-wrapper" data-letter="{{ substr .name 0 1 | upper }}">
+                            {{- $destURL := "" -}}
+                            {{- if .slug -}}
+                                {{- $destURL = printf "/%s-esim/" .slug | relLangURL -}}
+                            {{- else -}}
+                                {{- $destURL = printf "/%s-esim/" (.name | urlize) | relLangURL -}}
+                            {{- end -}}
+                            <a href="{{ $destURL }}" 
+                               aria-label="{{ $.Params.ui.buy_plan_aria_prefix | default "Buy" }} {{ .name }} {{ $.Params.ui.buy_plan_aria_suffix | default "eSIM data plan" }}" 
+                               class="dest-card all-dest-card group bg-white pt-6 pb-0 px-0 rounded-2xl border border-slate-200 text-center relative overflow-hidden flex flex-col h-full w-full" 
+                               data-search="{{ lower .name }} {{ lower .code }} {{ if .alias }}{{ lower .alias }}{{ end }}">
+                                <div class="px-4 flex-grow">
+                                    <img src="/img/flags/{{ .code }}.svg" alt="{{ $.Params.ui.flag_alt_prefix | default "Flag of" }} {{ .name }}" loading="lazy" class="w-16 h-11 mx-auto mb-3 shadow-sm rounded-sm object-cover flag-img">
+                                    <h3 class="font-bold text-slate-900 text-base mb-0.5">{{ .name }}</h3>
+                                    <p class="text-slate-500 text-xs font-medium mb-2">{{ $.Params.ui.card_network_type | default "5G/4G eSIM" }}</p>
+                                    <p class="text-blue-600 font-extrabold text-sm mb-3">{{ $.Params.ui.from_price }}</p>
+                                </div>
+                                <div class="card-action mt-auto border-t border-slate-100 py-3 text-blue-600 bg-slate-50 text-sm font-semibold flex items-center justify-center transition-colors" aria-hidden="true">
+                                    {{ $.Params.ui.view_plans }} <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4 ml-1.5"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                                </div>
+                            </a>
+                        </li>
+                        {{ end }}
+                    </ul>
+                </div>
+
+                <nav aria-label="{{ .Params.ui.az_nav_aria | default "Alphabetical Country Navigation" }}" class="w-full md:w-12 flex-shrink-0 sticky top-24 z-30 bg-white/90 backdrop-blur-md rounded-xl border border-slate-200 p-2 shadow-sm order-first md:order-last overflow-x-auto hide-scrollbar">
+                    <div class="flex md:flex-col items-center gap-1 min-w-max md:min-w-0">
+                        <button class="az-btn active w-8 h-8 flex items-center justify-center rounded-lg text-xs font-bold bg-blue-600 text-white shadow-sm flex-shrink-0" data-letter="ALL">{{ .Params.ui.az_all_button | default "All" }}</button>
+                        {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+                        {{ range $letters }}
+                        <button class="az-btn w-8 h-8 flex items-center justify-center rounded-lg text-xs font-medium text-slate-500 hover:bg-blue-50 hover:text-blue-600 transition-colors flex-shrink-0" data-letter="{{ . }}">{{ . }}</button>
+                        {{ end }}
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ partial "footer.html" . }}
+
+<script>
+    const searchInput = document.getElementById('destinationSearch');
+    const allCards = document.querySelectorAll('.dest-card');
+    const allCardWrappers = document.querySelectorAll('.all-dest-card-wrapper');
+    const topSection = document.getElementById('topPlansSection');
+    const regionalSection = document.getElementById('regionalPlansSection');
+    const allSection = document.getElementById('allPlansSection');
+    const noResults = document.getElementById('noResults');
+
+    function performSearch(term) {
+        term = term.toLowerCase().trim();
+        let visibleCount = 0;
+        let topVisible = 0;
+        let regionalVisible = 0;
+        let allVisible = 0;
+
+        allCards.forEach(card => {
+            const searchData = card.getAttribute('data-search') || '';
+            const wrapper = card.closest('li');
+            
+            if (searchData.includes(term)) {
+                if(wrapper) wrapper.style.display = 'block';
+                card.style.display = 'flex';
+                visibleCount++;
+                if (card.closest('#topPlansGrid')) topVisible++;
+                if (card.closest('#regionalPlansGrid')) regionalVisible++;
+                if (card.closest('#allPlansGrid')) allVisible++;
+            } else {
+                if(wrapper) wrapper.style.display = 'none';
+                card.style.display = 'none';
+            }
+        });
+
+        topSection.style.display = topVisible > 0 ? 'block' : 'none';
+        if(regionalSection) regionalSection.style.display = regionalVisible > 0 ? 'block' : 'none';
+        allSection.style.display = allVisible > 0 ? 'block' : 'none';
+        noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+    }
+
+    searchInput.addEventListener('input', (e) => {
+        performSearch(e.target.value);
+    });
+
+    window.setSearch = function(term) {
+        searchInput.value = term;
+        performSearch(term);
+        if(term === 'Asia' || term === 'Europe') {
+            document.getElementById('regionalPlansSection').scrollIntoView({ behavior: 'smooth', block: 'start' });
+        } else {
+            document.getElementById('topPlansSection').scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        const azButtons = document.querySelectorAll('.az-btn');
+        
+        azButtons.forEach(btn => {
+            btn.addEventListener('click', function() {
+                const letter = this.getAttribute('data-letter');
+                
+                azButtons.forEach(b => {
+                    b.classList.remove('bg-blue-600', 'text-white', 'shadow-sm', 'font-bold');
+                    b.classList.add('text-slate-500', 'hover:bg-blue-50', 'font-medium');
+                });
+                this.classList.remove('text-slate-500', 'hover:bg-blue-50', 'font-medium');
+                this.classList.add('bg-blue-600', 'text-white', 'shadow-sm', 'font-bold');
+
+                if (letter === 'ALL') {
+                    document.getElementById('allPlansSection').scrollIntoView({ behavior: 'smooth' });
+                    return;
+                }
+
+                const targetCardWrapper = document.querySelector(`.all-dest-card-wrapper[data-letter="${letter}"]`);
+                
+                if (targetCardWrapper) {
+                    const targetCard = targetCardWrapper.querySelector('.dest-card');
+                    const y = targetCard.getBoundingClientRect().top + window.scrollY - 100;
+                    window.scrollTo({ top: y, behavior: 'smooth' });
+                    
+                    targetCard.style.transition = 'box-shadow 0.3s';
+                    targetCard.style.boxShadow = '0 0 0 4px rgba(37, 99, 235, 0.4)';
+                    setTimeout(() => { targetCard.style.boxShadow = ''; }, 1000);
+                } else {
+                    this.style.opacity = '0.5';
+                    setTimeout(() => { this.style.opacity = '1'; }, 200);
+                }
+            });
+        });
+    });
+</script>
+
+<script>
+  (function(d, w, c) {
+    if (w[c]) return;
+    var s = d.createElement("script");
+    w[c] = function() {
+      (w[c].z = w[c].z || []).push(arguments);
+    };
+    s.async = true;
+    s.src = "https://static.ahc.ink/hecong.js";
+    if (d.head) d.head.appendChild(s);
+  })(document, window, "_AIHECONG");
+  _AIHECONG("ini",{ channelId : "U8rW8b" });
+</script>
+</body>
+</html>
