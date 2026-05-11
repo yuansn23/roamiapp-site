@@ -1,65 +1,65 @@
 ---
-title: "France eSIM: The Convenient Way to Stay Connected"
-description: "Stay connected in France with an eSIM from Orange or Free Mobile. Enjoy fast 5G coverage in Paris, along the Côte d'Azur, and at the Eiffel Tower without roaming fees. Perfect for avoiding SIM swap hassles and expensive international plans."
-date: '2026-05-06T12:59:02+00:00'
-keywords: "France eSIM, Orange eSIM, Free Mobile eSIM, France travel eSIM, 5G France, eSIM Paris, eSIM without roaming fees, France prepaid eSIM, France tourist SIM"
+title: "Frankreich eSIM: The convenient way to stay connected"
+description: "Experience fast internet in Frankreich with the best prepaid eSIM. No roaming fees, instant activation via QR code."
+date: "2026-05-09T09:39:48+00:00"
+keywords: "eSIM Frankreich, prepaid data, 5G network, Orange, Bouygues, SFR, Free, travel eSIM"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "France eSIM Guide"
+  - name: "Frankreich eSIM Guide"
     url: ""
 
 # Hero section copy
-hero_badge: "🇫🇷 France Travel eSIM Latest Guide"
-hero_subtitle_main: "France eSIM: The Convenient Way to Stay Connected"
-hero_subtitle_highlight: "Premium France 5G Network Coverage"
-hero_description_line1: "The online purchase process for the France eSIM is simple and secure, with clear activation steps so you can prepare your internet solution before departure."
-hero_description_line2: "Choose between Orange, Free Mobile, Bouygues Telecom, and SFR — each offering reliable 4G/5G networks across the country. Whether you're navigating the Louvre or hiking the Alps, an eSIM keeps you online effortlessly."
-hero_link_text: "France eSIM"
+hero_badge: "[Country flag] Frankreich Travel eSIM Latest Guide"
+hero_subtitle_main: "Frankreich eSIM: The convenient way to stay connected"
+hero_subtitle_highlight: "Premium 5G network coverage by Orange, Bouygues Telecom, SFR, and Free"
+hero_description_line1: "The Frankreich eSIM provides reliable data services for business travelers, ensuring smooth video conferencing, navigation, and social apps, boosting your travel efficiency."
+hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_link_text: "Frankreich eSIM"
 hero_link_url: "/france-esim/"
-tldr_summary: "For the best overall coverage in France, choose Orange eSIM — it tops Opensignal's 2024 consistency report. Free Mobile offers the best value for heavy data users in cities. All major operators support <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> on recent smartphones. Avoid roaming fees by activating a local eSIM before departure."
+tldr_summary: "Top choice for digital nomads: seamless cross-border 5G network for continuous multi-country travel. Roami's Frankreich eSIM leverages Orange's leading 5G network, which recorded a median download speed of 281.3 Mbps and a Speed Score of 242.49 in 2H 2024, ensuring ultra-fast connectivity for remote work, streaming, and navigation across France. With instant activation and no roaming fees, it is the ideal solution for digital nomads exploring Europe."
 
 # Sidebar navigation
 sidebar_more_hint: "Swipe to see more"
-sidebar_title: "On this page"
+sidebar_title: "Frankreich eSIM Quick Links"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Which France eSIM operator should you choose?"
+    text: "Quick selection: Which Frankreich eSIM provider should you choose?"
 
   - href: "#operators"
-    text: "France mobile network operators compared"
-
-  - href: "#before-buy"
-    text: "What to know before buying an eSIM for France"
+    text: "Top Frankreich eSIM mobile operators review"
 
   - href: "#city-guide"
-    text: "France city eSIM recommendations"
+    text: "City guide: The best eSIM for Frankreich"
 
-  - href: "#scene-guide"
-    text: "Best eSIM for every travel scenario"
+  - href: "#before-buy"
+    text: "Things you need to know before buying a Frankreich eSIM"
 
   - href: "#faq"
-    text: "Frequently asked questions about France eSIM"
+    text: "Frequently asked questions about Frankreich eSIM"
 
   - href: "#myths"
-    text: "Common myths about France mobile data"
+    text: "Myths and facts about Frankreich eSIM"
+
+  - href: "#data-sources"
+    text: "Data sources"
 
 
 # Quick decision table
-quick_picks_title: "Quick picks: Which France eSIM operator is best for you?"
+quick_picks_title: "Quick selection: Which Frankreich eSIM provider should you choose?"
 quick_picks_table_headers:
 
   - "Your travel style"
 
-  - "Recommended operator"
+  - "Recommended provider"
 
   - "Network data performance"
 
 quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "Opensignal France Mobile Network Experience Report – January 2024"
+quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/france-speedtest-connectivity-report-h2-2024)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,25 +67,30 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "All-round traveler (cities + countryside)"
+  - travel: "Digital nomads"
     carrier: "Orange"
     carrier_class: "text-orange-600"
-    reason: "Orange consistently ranks #1 for coverage and reliability in Opensignal's 2024 report, making it the safest choice for trips mixing Paris, rural Provence, and the Alps."
+    reason: "Orange is the fastest mobile provider in France with a median download speed of 122.77 Mbps and a 5G median download of 281.3 Mbps, ideal for heavy data use and video conferencing."
 
-  - travel: "Budget-conscious data user"
-    carrier: "Free Mobile"
-    carrier_class: "text-purple-600"
-    reason: "Free Mobile offers the cheapest unlimited data plans in France, with strong 5G in major cities like Lyon and Marseille. Ideal for streaming and navigation without breaking the bank."
+  - travel: "Budget travelers"
+    carrier: "Free"
+    carrier_class: "text-blue-600"
+    reason: "Free offers the highest 5G availability at 74.0%, ensuring consistent connectivity at competitive prices."
 
-  - travel: "Business traveler / premium experience"
+  - travel: "Rural explorers"
     carrier: "Bouygues Telecom"
-    carrier_class: "text-red-600"
-    reason: "Bouygues Telecom provides excellent urban 5G speeds and reliable connectivity in business districts. It's a solid alternative to Orange with competitive enterprise plans."
+    carrier_class: "text-green-600"
+    reason: "Bouygues Telecom is the fastest fixed ISP with 305.15 Mbps download, and its mobile network offers strong rural coverage."
+
+  - travel: "Streaming enthusiasts"
+    carrier: "Orange"
+    carrier_class: "text-orange-600"
+    reason: "Orange provides the best 5G video streaming experience with a score of 91.32, perfect for uninterrupted entertainment."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost-effective France eSIM"
-cta_button_sub_text: "Auto network switching, supports eSIM automatic price comparison"
+cta_button_main_text: "View the most cost‑effective Frankreich travel eSIM"
+cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
 
 # Operator general labels
 operator_labels:
@@ -97,224 +102,223 @@ operator_labels:
 operators:
 
   - id: "orange-esim"
-    title: "Orange eSIM Review: Best Coverage for France Travelers"
-    best_for: "Best for travelers who prioritize nationwide coverage and reliability, especially when visiting rural areas, the French Riviera, and ski resorts."
-    core_data: "Opensignal 2024 report ranks Orange #1 for Coverage Experience and #1 for Voice App Experience in France."
-    arcep_note: "Orange is the historical incumbent, regulated by ARCEP, and holds the most extensive 4G/5G spectrum in France."
-    connect_note: "Activation is instant upon landing; enable data roaming and no APN configuration is needed for most devices. The eSIM profile can be installed before departure."
-    user_scenarios: "- **Exploring the Louvre & Musée d'Orsay**: Download museum apps and audio guides without buffering, even during peak hours.\\n- **Driving through the lavender fields of Provence**: Maintain a stable GPS signal and stream music on long stretches between Avignon and Aix-en-Provence.\\n- **Skiing in Chamonix**: Reliable coverage at altitude for sharing photos from Mont Blanc and checking resort conditions."
+    title: "Orange eSIM Review: Best overall performance"
+    best_for: "This plan is the absolute top choice for users who demand the fastest speeds and best quality of experience across all technologies."
+    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/france-speedtest-connectivity-report-h2-2024), Orange leads with a 5G Speed Score of 242.49 and median 5G download speed of 281.3 Mbps.\n- **Download rate**: Median download speed of 122.77 Mbps for all technologies combined.\n- **Upload rate**: Median upload speed of 10.01 Mbps (all technologies) and 13.83 Mbps on 5G.\n- **Latency**: 46 ms overall, 43 ms on 5G.\n- **Consistency**: Best 5G consistency with 77.9% of samples meeting the threshold.\n- **Gaming & Video**: Best 5G gaming and video streaming experience scores."
+    arcep_note: "Confirmed by the local telecom authority ARCEP, Orange holds the most extensive 4G/5G coverage in France."
+    connect_note: "Activation works seamlessly via QR code; compatible with most eSIM-enabled smartphones."
+    user_scenarios: "- **TGV high-speed train**: Stream 4K video and join video calls without buffering, thanks to Orange's robust network along rail corridors.\n- **Paris Metro**: Navigate underground stations with reliable 4G/5G coverage, ensuring maps and messaging work continuously.\n- **Provence countryside**: Enjoy stable connectivity in rural areas where Orange's coverage excels, perfect for remote work from a vineyard."
     bg_color: "bg-orange-50"
 
-  - id: "free-mobile-esim"
-    title: "Free Mobile eSIM Review: Best Value for Heavy Data Users"
-    best_for: "Ideal for budget travelers, students, and digital nomads who need large data allowances in urban areas without paying premium prices."
-    core_data: "Free Mobile offers the most affordable unlimited data plans in France, with 5G coverage in over 60% of the population (as of 2024)."
-    arcep_note: "Free Mobile is a challenger operator (part of Iliad Group) and is regulated by ARCEP. It relies on its own network plus a roaming agreement with Orange in some rural zones."
-    connect_note: "eSIM activation is quick via the Free Mobile app. Ensure data roaming is enabled. No APN changes required for standard use."
-    user_scenarios: "- **Navigating the Paris Métro**: Stream music and use offline maps between stations without worrying about data caps.\\n- **Posting Instagram Stories from Montmartre**: Upload photos and videos quickly on Free's 5G network, even in crowded tourist spots.\\n- **Video calls from a Marseille café**: Stay connected with family using WhatsApp or FaceTime over Free's unlimited data plan."
-    bg_color: "bg-purple-50"
-
-  - id: "bouygues-telecom-esim"
-    title: "Bouygues Telecom eSIM Review: Reliable Urban 5G for Business & Pleasure"
-    best_for: "Best for professionals and travelers who need fast, consistent 5G speeds in French business hubs and major cities."
-    core_data: "Bouygues Telecom ranks #2 for 5G Availability in Opensignal's 2024 report, with strong performance in Paris, Lyon, and Toulouse."
-    arcep_note: "Bouygues Telecom is a major MNO regulated by ARCEP, known for its investment in 5G and fiber infrastructure."
-    connect_note: "eSIM can be activated online before arrival. Upon landing, enable data roaming; the network auto-connects. No manual APN setup is needed for most smartphones."
-    user_scenarios: "- **Attending a conference at Paris Expo Porte de Versailles**: Stay connected for live streaming, emails, and presentations without lag.\\n- **Shopping on the Champs-Élysées**: Quickly load maps and reviews for boutiques and restaurants along the avenue.\\n- **Working from a Lyon bistro**: Use a hotspot for your laptop while enjoying a coffee, with reliable 5G speeds."
-    bg_color: "bg-red-50"
+  - id: "bouygues-esim"
+    title: "Bouygues Telecom eSIM Review: Fast fixed broadband alternative"
+    best_for: "This plan is ideal for users who need high-speed fixed broadband performance and reliable mobile data for streaming and large downloads."
+    core_data: "- **Fixed broadband**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/france-speedtest-connectivity-report-h2-2024), Bouygues is the fastest fixed ISP with median download speed of 305.15 Mbps and upload of 245.58 Mbps.\n- **Mobile download**: Median mobile download speed of 111.36 Mbps.\n- **5G download**: Median 5G download speed of 196.54 Mbps.\n- **Coverage**: Strong presence in urban and suburban areas."
+    arcep_note: "ARCEP data confirms Bouygues Telecom's extensive fiber and 5G rollout, especially in major cities."
+    connect_note: "Activation works seamlessly via eSIM QR code; supports dual SIM for flexible usage."
+    user_scenarios: "- **Lyon city center**: Leverage Bouygues' top fixed speeds for heavy data tasks like uploading large files or streaming 4K content.\n- **Marseille port area**: Stay connected while waiting for ferries with consistent mobile data speeds.\n- **Bordeaux wine region**: Use reliable mobile data for navigation and social sharing during wine tours."
+    bg_color: "bg-green-50"
 
   - id: "sfr-esim"
-    title: "SFR eSIM Review: Solid Alternative with Good Coverage in Southern France"
-    best_for: "Best for travelers spending significant time in the south of France, including Nice, Cannes, and the French Riviera."
-    core_data: "SFR offers competitive 4G/5G speeds in coastal areas and major cities, though rural coverage may be slightly behind Orange."
-    arcep_note: "SFR is a legacy operator (owned by Altice) and is regulated by ARCEP. It has strong infrastructure in the Provence-Alpes-Côte d'Azur region."
-    connect_note: "eSIM setup is straightforward via the SFR website or app. Activate before departure; enable data roaming upon arrival. No APN changes required."
-    user_scenarios: "- **Sunbathing on the beaches of Nice**: Share vacation selfies and check restaurant recommendations without worrying about data limits.\\n- **Exploring the Palais des Festivals in Cannes**: Stay updated on event schedules and stream live coverage during the film festival.\\n- **Driving along the Corniche**: Use GPS navigation reliably along the scenic coastal roads from Marseille to Menton."
-    bg_color: "bg-green-50"
+    title: "SFR eSIM Review: Strong 5G contender"
+    best_for: "This plan is a solid choice for users who want competitive 5G speeds and good overall performance without the premium price."
+    core_data: "- **5G download**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/france-speedtest-connectivity-report-h2-2024), SFR recorded a median 5G download speed of 226.19 Mbps, second only to Orange.\n- **Mobile download**: Median download speed of 101.82 Mbps.\n- **Coverage**: Extensive 4G/5G network in urban and suburban areas."
+    arcep_note: "ARCEP reports SFR as a major player with significant spectrum holdings for 5G."
+    connect_note: "Activation works seamlessly via eSIM; easy setup with QR code."
+    user_scenarios: "- **Paris business district**: Enjoy fast 5G speeds for video conferencing and cloud access in La Défense.\n- **Nice Riviera**: Stream live events and share photos instantly along the coast.\n- **Strasbourg historic center**: Use reliable data for maps and translation apps while exploring."
+    bg_color: "bg-red-50"
+
+  - id: "free-esim"
+    title: "Free eSIM Review: Best 5G availability"
+    best_for: "This plan is perfect for users who prioritize consistent 5G access and value-for-money, especially in areas with dense 5G coverage."
+    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/france-speedtest-connectivity-report-h2-2024), Free leads with 74.0% of users accessing 5G most of the time.\n- **Mobile download**: Median download speed not specified but competitive.\n- **Coverage**: Strong 5G presence in urban centers."
+    arcep_note: "ARCEP data shows Free has aggressively deployed 5G infrastructure, achieving the highest availability."
+    connect_note: "Activation works seamlessly via eSIM; budget-friendly plans with generous data caps."
+    user_scenarios: "- **Lyon Part-Dieu**: Stay connected in one of France's busiest commercial districts with near-constant 5G signal.\n- **Toulouse aerospace hub**: Use reliable data for work and navigation around Airbus facilities.\n- **Lille city center**: Enjoy uninterrupted streaming and social media in this vibrant student city."
+    bg_color: "bg-blue-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check France eSIM compatibility list"
-cards_compatibility_desc: "Check whether your phone supports France eSIM and local 5G bands"
-cards_free_title: "Claim your free France eSIM"
-cards_free_desc: "Limited free trial eSIM, experience high-speed France network"
+cards_compatibility_title: "Check the Frankreich eSIM compatibility list"
+cards_compatibility_desc: "Check if your phone supports Frankreich eSIM and local 5G bands"
+cards_free_title: "Get your free Frankreich eSIM"
+cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
 cards_free_badge: "FREE"
 cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class=\"bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base\">web20</strong> | One‑tap eSIM management"
+cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you must know before buying a France eSIM"
+before_buy_title: "Things you need to know before buying a Frankreich eSIM"
 before_buy_sections:
 
-  - heading: "Device compatibility: check before you buy"
-    content: "Before purchasing a France eSIM, ensure your smartphone is unlocked and supports eSIM. Most recent iPhones (XR and later), Google Pixels (3a and later), and Samsung Galaxy S20 and later models are compatible. Check our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page for a full list of supported devices."
+  - heading: "1. Main 5G/4G frequency bands in Frankreich"
+    content: "French operators use a mix of bands: 4G (LTE) bands include 800 MHz (B20), 1800 MHz (B3), 2600 MHz (B7); 5G bands include 700 MHz (n28), 2100 MHz (n1), 3500 MHz (n78). Ensure your device supports these bands for optimal performance."
 
-  - heading: "Activation & setup tips"
-    content: "All major French operators allow you to install the eSIM profile before departure. Upon arrival in France, enable data roaming in your settings. No APN configuration is needed for Orange, Free Mobile, Bouygues Telecom, or SFR. The network will connect automatically within seconds."
+  - heading: "2. KYC requirements for eSIM activation"
+    content: "To activate a Frankreich eSIM, you must provide a valid passport or national ID for identity verification. Some providers may require a selfie or proof of address. The process is digital and typically takes a few minutes."
 
-  - heading: "Coverage expectations"
-    content: "France has excellent 4G/5G coverage in cities and along major highways. Rural areas, especially in mountainous regions like the Alps and Pyrenees, may have weaker signals. Orange offers the most consistent rural coverage, while Free Mobile and Bouygues Telecom are strong in urban centers."
+  - heading: "3. Fair Usage Policy (FUP) and data limits"
+    content: "Most prepaid eSIM plans have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 20-50 GB per month). Always check the specific plan details to avoid unexpected slowdowns."
+
+  - heading: "4. Network compatibility and device support"
+    content: "eSIM is supported on most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Verify your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchase."
+
+  - heading: "5. Roaming and cross-border usage"
+    content: "Frankreich eSIMs often include roaming within the EU/EEA under 'Roam Like at Home' rules. However, data speeds may be reduced outside France. Check the plan's roaming policy if you plan to travel to neighboring countries."
 
 
 # City recommendation table
-city_guide_title: "France city eSIM recommendations"
-city_guide_desc: "Choose the best eSIM operator for your destination based on local network performance and typical traveler needs."
+city_guide_title: "City guide: The best eSIM for Frankreich"
+city_guide_desc: "Find out which Frankreich eSIM is the best choice for your destination city based on local network performance and coverage."
 city_table_headers:
 
   - "City"
 
-  - "Recommended eSIM operator"
+  - "Recommended eSIM provider"
 
-  - "Reason / characteristics"
+  - "Reason / Features"
 
 city_recommendations:
 
   - city: "Paris"
-    carriers: "Orange, Bouygues Telecom"
-    reason: "Both offer excellent 5G coverage across the city, including metro stations and tourist hotspots like the Eiffel Tower and Louvre."
-
-  - city: "Marseille"
-    carriers: "Orange, SFR"
-    reason: "SFR has strong local infrastructure in the Provence-Alpes-Côte d'Azur region; Orange provides backup reliability."
+    carriers: "Orange"
+    reason: "Orange offers the fastest mobile speeds in Paris, with median download speeds exceeding 120 Mbps. Its 5G network covers major landmarks and business districts, ensuring seamless connectivity for tourists and professionals."
 
   - city: "Lyon"
-    carriers: "Bouygues Telecom, Free Mobile"
-    reason: "Bouygues leads in 5G speeds; Free Mobile offers the best value for data-heavy users in this tech hub."
-
-  - city: "Nice"
-    carriers: "Orange, SFR"
-    reason: "SFR performs well along the Riviera coast; Orange ensures coverage in nearby hilltop villages."
-
-  - city: "Bordeaux"
-    carriers: "Orange, Free Mobile"
-    reason: "Orange provides consistent coverage across the city and wine regions; Free Mobile is a cost-effective alternative."
+    carriers: "Bouygues Telecom"
+    reason: "Lyon recorded the fastest median fixed download speed of 296.57 Mbps, and Bouygues Telecom leads in fixed broadband. For mobile, Bouygues provides excellent speeds and coverage, ideal for digital nomads and remote workers."
 
   - city: "Toulouse"
-    carriers: "Bouygues Telecom, Orange"
-    reason: "Bouygues has strong 5G availability; Orange offers broader coverage in the surrounding Occitanie countryside."
+    carriers: "Orange"
+    reason: "Toulouse has the fastest median mobile download speed of 180.92 Mbps among French cities. Orange's network delivers top performance here, perfect for aerospace professionals and students."
 
-city_guide_tip: "💡 Tip: if you use Roami’s multi‑network eSIM, your phone will automatically switch to the best local operator – no manual selection needed."
+  - city: "Marseille"
+    carriers: "SFR"
+    reason: "SFR has a strong presence in Marseille, offering competitive 5G speeds and reliable coverage along the port and coastal areas. It is a great choice for travelers and business users."
+
+  - city: "Nice"
+    carriers: "Free"
+    reason: "Free provides the highest 5G availability (74.0%), which is beneficial in Nice's tourist-heavy zones. Its affordable plans and consistent 5G access make it ideal for vacationers."
+
+city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best France eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choose the best Frankreich eSIM based on your travel scenario"
 scene_items:
 
   - icon: "🏛️"
-    title: "Museum & sightseeing"
-    text: "Use Orange or Bouygues Telecom for fast downloads of museum apps and audio guides at the Louvre, Musée d'Orsay, and Palace of Versailles."
+    title: "City explorer"
+    text: "Navigate Paris, Lyon, and Marseille with fast 5G for maps, translation apps, and instant social sharing. Orange's network ensures you never miss a moment."
 
-  - icon: "🏔️"
-    title: "Mountain & ski trips"
-    text: "Orange offers the best coverage in the Alps and Pyrenees, essential for GPS navigation and emergency calls in remote areas."
+  - icon: "🏞️"
+    title: "Nature lover"
+    text: "Explore the French Alps or Provence countryside with reliable coverage from Bouygues Telecom. Stay connected for hiking navigation and emergency calls."
 
-  - icon: "🚄"
-    title: "Train travel"
-    text: "Free Mobile's unlimited data plan is perfect for streaming movies and music on high-speed TGV trains between Paris, Lyon, and Marseille."
+  - icon: "🚗"
+    title: "Road tripper"
+    text: "Drive through the Loire Valley or along the Côte d'Azur with consistent 4G/5G from SFR. Stream music, use GPS, and share your journey in real time."
 
   - icon: "🏖️"
-    title: "Beach & coastal trips"
-    text: "SFR and Orange both provide strong signals along the Côte d'Azur, from Saint-Tropez to Cannes, for sharing beach photos instantly."
+    title: "Beach vacationer"
+    text: "Relax on the beaches of Nice or Cannes with Free's high 5G availability. Upload vacation photos and video call family without buffering."
 
-  - icon: "💼"
-    title: "Business travel"
-    text: "Bouygues Telecom's reliable 5G in business districts like La Défense ensures smooth video conferences and large file transfers."
-
-  - icon: "🍷"
-    title: "Wine country tours"
-    text: "Orange's rural coverage is ideal for navigating the vineyards of Bordeaux, Burgundy, and the Loire Valley without losing signal."
-
-scene_guide_footer: "💡 Roami France eSIM Multi‑Network Edition automatically recognizes your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 The Roami Frankreich eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
 
 # FAQ
-faq_title: "France eSIM frequently asked questions"
+faq_title: "Frequently asked questions about Frankreich eSIM"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View the complete FAQ →"
+faq_more_link_text: "More questions? View full FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Can I use an eSIM in France if my phone is locked to a US carrier?"
-    a: "No, your phone must be unlocked to use a local French eSIM. Contact your carrier to unlock your device before traveling. Check <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> for more details."
+  - q: "Are there significant speed differences between the various regions and cities in Frankreich?"
+    a: "Yes, speed differences exist. According to Ookla data, Toulouse recorded the fastest median mobile download speed of 180.92 Mbps, while Lyon led fixed broadband with 296.57 Mbps. Rural areas may experience lower speeds, but major cities generally have excellent 5G coverage."
 
-  - q: "Which France eSIM has the best coverage in rural areas?"
-    a: "Orange offers the most extensive rural coverage, including in the French Alps, Pyrenees, and countryside regions like Provence and Dordogne. Free Mobile uses a roaming agreement with Orange in some rural zones but may have slower speeds."
+  - q: "Does the eSIM in Frankreich support nationwide 4G and 5G networks?"
+    a: "Yes, all major operators (Orange, Bouygues Telecom, SFR, Free) provide nationwide 4G and 5G coverage. Orange has the best overall performance, while Free offers the highest 5G availability at 74.0%."
 
-  - q: "Do I need to set up an APN for a France eSIM?"
-    a: "No, for Orange, Free Mobile, Bouygues Telecom, and SFR eSIMs, the APN is configured automatically. Simply install the eSIM profile and enable data roaming upon arrival."
+  - q: "How long does it take to receive the QR code for the Frankreich eSIM after successful payment?"
+    a: "Typically, the QR code is sent via email within minutes after payment confirmation. In some cases, it may take up to 24 hours, but most providers deliver instantly."
 
-  - q: "Is 5G available everywhere in France?"
-    a: "5G is widely available in major cities like Paris, Lyon, Marseille, and Toulouse. Coverage in smaller towns and rural areas is still expanding. Orange and Bouygues Telecom lead in 5G availability according to Opensignal's 2024 report."
+  - q: "How can I transfer my active Frankreich eSIM profile to a new smartphone when I change phones?"
+    a: "eSIM profiles are usually tied to the device. To transfer, you need to deactivate the eSIM on the old phone (via settings) and scan the QR code again on the new phone. Some providers allow re-downloading the profile from your account."
 
-  - q: "Can I keep my original SIM card while using a France eSIM?"
-    a: "Yes, most dual-SIM phones allow you to use your physical SIM for calls/texts and the eSIM for data. This is a great way to avoid roaming fees while staying reachable on your home number."
-
-  - q: "How do I top up my France eSIM?"
-    a: "Each operator offers online top-up via their website or app. Orange, Free Mobile, Bouygues Telecom, and SFR all support credit card payments. Some eSIM resellers also offer top-up options."
+  - q: "Will I have a network signal with the eSIM in subways, deep valleys, or remote areas of Frankreich?"
+    a: "Coverage varies. In Paris Metro, Orange and SFR provide good 4G/5G coverage in most stations. In deep valleys or remote mountainous areas, signal may be weaker. Bouygues Telecom has strong rural coverage, but always check operator maps for specific locations."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about France eSIM"
+myths_title: "⚠️ Common myths and facts about the Frankreich eSIM"
 myth_label: "❌ Myth: "
 truth_label: "✅ Fact: "
 myths:
 
-  - myth: "You need a French address to buy a local eSIM in France."
-    truth: "False. Tourists can purchase prepaid eSIMs from Orange, Free Mobile, Bouygues Telecom, and SFR without a French address. Many providers allow online purchase and instant activation before you even arrive."
+  - myth: "All eSIMs in France offer the same speed."
+    truth: "Speed varies significantly by operator. Orange leads with a median download speed of 122.77 Mbps, while others like SFR and Bouygues offer lower speeds."
 
-  - myth: "Free Mobile's unlimited plan has no fair usage policy."
-    truth: "Free Mobile's unlimited data plan does have a fair usage policy. After a certain threshold (typically around 100 GB per month), speeds may be throttled during peak hours, especially on the 4G network. 5G users get higher priority."
+  - myth: "5G is available everywhere in France."
+    truth: "5G coverage is extensive but not universal. Free has the highest 5G availability at 74.0%, but rural areas may still rely on 4G."
 
-  - myth: "All French operators have identical coverage in the Alps."
-    truth: "Coverage in mountainous regions varies significantly. Orange has the most extensive network in ski resorts like Chamonix and Val Thorens, while Free Mobile and SFR may have weaker signals at higher altitudes."
+  - myth: "eSIM activation requires a physical SIM card."
+    truth: "eSIM is entirely digital; no physical SIM is needed. Activation is done via QR code and device settings."
 
-  - myth: "You must activate your eSIM only after landing in France."
-    truth: "You can install the eSIM profile before your trip. Activation happens automatically when you connect to a French network after arrival. This lets you prepare everything at home and avoid last-minute airport stress."
+  - myth: "Prepaid eSIM plans have no data limits."
+    truth: "Most prepaid plans have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold, typically 20-50 GB per month."
 
-  - myth: "eSIMs in France are more expensive than physical SIMs."
-    truth: "eSIMs are often priced similarly to physical prepaid SIMs. Many operators offer exclusive eSIM promotions. Plus, you save the cost of shipping or visiting a store, making eSIMs a convenient and cost-effective choice."
+  - myth: "You cannot use eSIM for international roaming."
+    truth: "Many French eSIM plans include EU roaming under 'Roam Like at Home' rules, allowing usage across EU countries without extra fees."
 
 
 # Data sources
-data_sources_title: "Data sources & methodology"
+data_sources_title: "Frankreich mobile network data sources"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Opensignal France Mobile Network Experience Report – January 2024"
-    description: "Independent analysis of mobile network performance in France, covering coverage, 5G availability, and speed metrics for Orange, Free Mobile, Bouygues Telecom, and SFR."
+  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/france-speedtest-connectivity-report-h2-2024)"
+    description: "Ookla's Speedtest Intelligence data for 2H 2024 provides comprehensive mobile and fixed broadband performance metrics for French operators, including median download/upload speeds, latency, and 5G scores."
 
-  - name: "ARCEP (Autorité de régulation des communications électroniques, des postes et de la distribution de la presse)"
-    description: "French telecom regulator providing official coverage maps and spectrum allocation data for all MNOs in France."
+  - name: "OpenSignal 2024"
+    description: "OpenSignal's mobile network experience reports for France offer insights into coverage, video streaming, and gaming experience across operators."
 
-data_sources_footer: "Network performance data is based on third-party reports and may vary by location, device, and time of day. Always check the latest coverage maps for your specific destinations."
-data_sources_note: "All data sourced from publicly available reports as of 2024."
+  - name: "ARCEP 2024"
+    description: "The French telecom regulator ARCEP publishes annual coverage maps and quality of service reports for 4G and 5G networks, confirming operator performance."
+
+data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are accurate as of the publication date. Network conditions may change over time."
+data_sources_note: "Network speeds and coverage can vary based on location, device, network congestion, and other factors. Always check the latest operator coverage maps before purchasing."
 
 # CTA product card
-cta_title: "Get your France eSIM now"
-cta_desc: "Stay connected from the moment you land. Choose from Orange, Free Mobile, Bouygues Telecom, or SFR — all available with instant eSIM activation."
-cta_button_text: "Buy France eSIM"
+cta_title: "Secure your Frankreich eSIM today"
+cta_desc: "Get immediate access to France's fastest 5G network with Roami eSIM. Instant activation, no roaming fees, and premium connectivity for your entire trip."
+cta_button_text: "Buy Frankreich eSIM now"
 cta_button_link: "/france-esim/"
-cta_free_trial_note: "New customer exclusive"
-cta_free_trial_text: "Free trial eSIM"
+cta_free_trial_note: "Exclusive for new customers"
+cta_free_trial_text: "Free Frankreich trial eSIM"
 cta_free_trial_link: "/free-esim/"
 
-# No text for back-to-top button, no configuration needed
 ---
 
-# France eSIM: The Convenient Way to Stay Connected
+# Frankreich eSIM: The convenient way to stay connected
 
-> **💡 Quick Summary for Travelers:** For the best overall coverage in France, choose Orange eSIM — it tops Opensignal's 2024 consistency report. Free Mobile offers the best value for heavy data users in cities. All major operators support <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> on recent smartphones. Avoid roaming fees by activating a local eSIM before departure.
+> **💡 Short summary for travelers:** Top choice for digital nomads: seamless cross-border 5G network for continuous multi-country travel. Roami's Frankreich eSIM leverages Orange's leading 5G network, which recorded a median download speed of 281.3 Mbps and a Speed Score of 242.49 in 2H 2024, ensuring ultra-fast connectivity for remote work, streaming, and navigation across France. With instant activation and no roaming fees, it is the ideal solution for digital nomads exploring Europe.
 
-## Things you must know before buying a France eSIM
+## Things you need to know before buying a Frankreich eSIM
 
 
-### Device compatibility: check before you buy {#device-compatibility-check-before-you-buy}
-Before purchasing a France eSIM, ensure your smartphone is unlocked and supports eSIM. Most recent iPhones (XR and later), Google Pixels (3a and later), and Samsung Galaxy S20 and later models are compatible. Check our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page for a full list of supported devices.
+### 1. Main 5G/4G frequency bands in Frankreich {#1-main-5g4g-frequency-bands-in-frankreich}
+French operators use a mix of bands: 4G (LTE) bands include 800 MHz (B20), 1800 MHz (B3), 2600 MHz (B7); 5G bands include 700 MHz (n28), 2100 MHz (n1), 3500 MHz (n78). Ensure your device supports these bands for optimal performance.
 
-### Activation & setup tips {#activation--setup-tips}
-All major French operators allow you to install the eSIM profile before departure. Upon arrival in France, enable data roaming in your settings. No APN configuration is needed for Orange, Free Mobile, Bouygues Telecom, or SFR. The network will connect automatically within seconds.
+### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
+To activate a Frankreich eSIM, you must provide a valid passport or national ID for identity verification. Some providers may require a selfie or proof of address. The process is digital and typically takes a few minutes.
 
-### Coverage expectations {#coverage-expectations}
-France has excellent 4G/5G coverage in cities and along major highways. Rural areas, especially in mountainous regions like the Alps and Pyrenees, may have weaker signals. Orange offers the most consistent rural coverage, while Free Mobile and Bouygues Telecom are strong in urban centers.
+### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
+Most prepaid eSIM plans have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 20-50 GB per month). Always check the specific plan details to avoid unexpected slowdowns.
+
+### 4. Network compatibility and device support {#4-network-compatibility-and-device-support}
+eSIM is supported on most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Verify your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchase.
+
+### 5. Roaming and cross-border usage {#5-roaming-and-cross-border-usage}
+Frankreich eSIMs often include roaming within the EU/EEA under 'Roam Like at Home' rules. However, data speeds may be reduced outside France. Check the plan's roaming policy if you plan to travel to neighboring countries.

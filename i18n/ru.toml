@@ -1,47 +1,106 @@
+# Общие кнопки и метки
 [download_on_the]
-other = "Download on the"
+other = "Скачать в"
 
 [app_store]
 other = "App Store"
 
 [get_it_on]
-other = "Get it on"
+other = "Доступно в"
 
 [google_play]
 other = "Google Play"
 
 [visit_our]
-other = "Visit our"
+other = "Посетите наш"
 
 [official_website]
-other = "Official Website"
+other = "Официальный сайт"
 
 [view_plans]
-other = "View Plans"
+other = "Смотреть тарифы"
 
 [web]
-other = "Web"
+other = "Веб"
 
 [android]
 other = "Android"
 
+# Всплывающие окна
 [friendly_reminder]
-other = "Friendly Reminder"
+other = "Сервис обновлён"
 
 [modal_upgrade_desc]
-other = "Our services have been upgraded. Please visit our official website or APP to get your promo code."
+other = "Наши услуги были улучшены. Пожалуйста, посетите наш официальный сайт или приложение, чтобы получить промокод."
 
 [cancel]
-other = "Cancel"
+other = "Отмена"
 
 [proceed]
-other = "Proceed"
+other = "Продолжить"
 
+# Текст плавающей кнопки
+[get_esim_discount]
+other = "Получить скидку 20% на eSIM"
+
+# Заголовок и описание FAQ
+[faq_title]
+other = "Часто задаваемые вопросы"
+
+[faq_desc]
+other = "Всё, что нужно знать о нашем глобальном eSIM-сервисе."
+
+# Ниже приведены старые (необязательные), но оставлены без изменений
 [modal_title_ios]
-other = "Service Updated"
+other = "Сервис обновлён"
 
 [modal_text_ios]
-other = "You will be redirected to the official app to get the discount code."
+other = "Вы будете перенаправлены в официальное приложение для получения кода скидки."
 
-[get_esim_discount]
-other = "Get 20% eSIM Discount"
+[tldr_summary_title]
+other = "Краткое резюме для путешественников"
+
+[modal_cancel]
+other = "Отмена"
+
+[modal_continue]
+other = "Продолжить"
+
+[global_connectivity_expert]
+other = "Эксперт по глобальной связи"
+
+[structured_data_org_description]
+other = "Профессиональный глобальный поставщик eSIM-услуг, предлагающий высокоскоростной роуминг данных в более чем 200 странах."
+
+[structured_data_product_description]
+other = "Предоплаченные тарифы eSIM для путешествий в 200+ странах с мгновенной активацией и высокоскоростным интернетом 5G/4G."
+
+[structured_data_faq1_question]
+other = "Как купить eSIM для США?"
+
+[structured_data_faq1_answer]
+other = "Чтобы купить eSIM для США, просто скачайте приложение Roami, выберите США в качестве направления, подберите подходящий тариф и завершите покупку. Активация происходит мгновенно."
+
+[structured_data_faq2_question]
+other = "Как купить eSIM для Японии онлайн?"
+
+[structured_data_faq2_answer]
+other = "Купить eSIM для Японии с Roami очень просто. Найдите Японию в нашем приложении, выберите предпочтительный 5G/4G пакет и установите его через QR-код или одно касание перед поездкой."
+
+[structured_data_faq3_question]
+other = "Как получить eSIM для Европы, Великобритании или Франции?"
+
+[structured_data_faq3_answer]
+other = "Roami предлагает региональные eSIM для Европы, а также местные тарифы для Великобритании, Франции, Италии, Германии и Испании. Просто выберите направление в приложении, чтобы подключиться мгновенно без роуминговых сборов."
+
+[structured_data_faq4_question]
+other = "Почему стоит выбрать Roami вместо Airalo, Nomad, Holafly или Ubigi?"
+
+[structured_data_faq4_answer]
+other = "Airalo, Nomad eSIM, Holafly, Saily eSIM, Yesim, MobiMatter и GigSky — это варианты, но Roami предлагает очень конкурентоспособные цены от $1.99, круглосуточную поддержку и гарантию возврата средств для более чем 200 стран."
+
+[software_description]
+other = "Глобальный поставщик eSIM для высокоскоростного подключения в поездках."
+
+[last_updated]
+other = "Последнее обновление"

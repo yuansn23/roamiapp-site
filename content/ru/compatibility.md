@@ -1,97 +1,97 @@
 ---
-title: "eSIM Compatible Phones List 2026"
-description: "Is your phone eSIM compatible? Check our complete, updated 2026 list of eSIM supported devices, including iPhone, Samsung Galaxy, Google Pixel, and more."
-keywords: "eSIM compatible phones, phones that support eSIM, is my phone eSIM compatible, iPhone eSIM compatibility, Samsung eSIM phones, eSIM supported devices 2026, check eSIM compatibility"
+title: "Список телефонов, совместимых с eSIM (2026)"
+description: "Ваш телефон совместим с eSIM? Проверьте по нашему полному обновлённому списку устройств с поддержкой eSIM на 2026 год, включая iPhone, Samsung Galaxy, Google Pixel и другие."
+keywords: "телефоны совместимые с eSIM, телефоны поддерживающие eSIM, мой телефон совместим с eSIM, совместимость iPhone с eSIM, телефоны Samsung с eSIM, устройства с поддержкой eSIM 2026, проверить совместимость eSIM"
 layout: "compatibility"
 date: '2026-04-24T00:00:00+00:00'
 type: "page"
 
-# 🌟 SEO 优化：FAQ 结构化数据
+# 🌟 Оптимизация SEO: структурированные данные FAQ
 faq_schema:
-  - question: "How to check if your phone is eSIM compatible?"
-    answer: "Before purchasing a travel data plan, verify that your device is unlocked and supports eSIM. Open your phone's dialer app, dial *#06# and press call. If your device is compatible, a 32-digit EID number will appear on your screen."
-  - question: "Which iPhones support eSIM?"
-    answer: "Most iPhones released after 2018 support eSIM, including iPhone 17, 16, 15, 14, 13, 12, 11 series, XS, XR, and SE (2020/2022). Note: iPhones sold in mainland China do not support eSIM."
-  - question: "Are Samsung Galaxy phones eSIM compatible?"
-    answer: "Yes, many Samsung phones support eSIM, including the Galaxy S25, S24, S23, S22, S21, S20 series, and the Galaxy Z Fold and Z Flip series."
+  - question: "Как проверить, совместим ли ваш телефон с eSIM?"
+    answer: "Перед покупкой туристического тарифа убедитесь, что ваше устройство разблокировано и поддерживает eSIM. Откройте приложение телефона, наберите *#06# и нажмите вызов. Если ваше устройство совместимо, на экране появится 32-значный номер EID."
+  - question: "Какие iPhone поддерживают eSIM?"
+    answer: "Большинство iPhone, выпущенных после 2018 года, поддерживают eSIM, включая серии iPhone 17, 16, 15, 14, 13, 12, 11, XS, XR и SE (2020/2022). Примечание: iPhone, проданные в материковом Китае, не поддерживают eSIM."
+  - question: "Совместимы ли телефоны Samsung Galaxy с eSIM?"
+    answer: "Да, многие телефоны Samsung поддерживают eSIM, включая серии Galaxy S25, S24, S23, S22, S21, S20, а также серии Galaxy Z Fold и Z Flip."
 
-# 页面头部文案
+# Заголовок страницы
 header:
-  title: "eSIM Compatible Phones List (2026)"
-  subtitle: "Discover which smartphones, including the latest iPhone, Samsung, and Google Pixel models, support Roami's global eSIM connectivity. Stay connected in over 200 countries."
-  search_placeholder: "Search your phone model..."
+  title: "Список телефонов, совместимых с eSIM (2026)"
+  subtitle: "Узнайте, какие смартфоны, включая новейшие модели iPhone, Samsung и Google Pixel, поддерживают глобальное eSIM-соединение Roami. Оставайтесь на связи в более чем 200 странах."
+  search_placeholder: "Поиск модели телефона..."
 
-# 🚀 首屏免费 eSIM 横幅配置 (融入 SEO 长尾词)
+# 🚀 Баннер бесплатной eSIM для первого экрана (включая SEO-ключевые слова)
 free_esim_banner:
-  title: "Claim Your Free eSIM Trial"
-  description: "Not sure if your device is supported? The best way to test compatibility is with a <strong>free eSIM trial</strong>. Whether you need a <strong>free USA eSIM</strong> for your American trip, a <strong>free Japan eSIM</strong>, or a <strong>free Europe eSIM data plan</strong>, grab one below and get connected instantly."
+  title: "Получите бесплатный пробный eSIM"
+  description: "Не уверены, поддерживается ли ваше устройство? Лучший способ проверить совместимость — <strong>бесплатный пробный eSIM</strong>. Нужен ли вам <strong>бесплатный eSIM для США</strong> для поездки в Америку, <strong>бесплатный eSIM для Японии</strong> или <strong>бесплатный тариф eSIM для Европы</strong>, выберите один ниже и подключитесь мгновенно."
   links:
-    - text: "🇺🇸 Free USA eSIM Trial"
-      title: "Get a free eSIM trial for USA travel"
+    - text: "🇺🇸 Бесплатный eSIM для США"
+      title: "Получите бесплатный пробный eSIM для поездки в США"
       url: "/free-esim/"
-    - text: "🇯🇵 Free Japan eSIM"
-      title: "Claim your free Japan eSIM data plan"
+    - text: "🇯🇵 Бесплатный eSIM для Японии"
+      title: "Получите бесплатный тариф eSIM для Японии"
       url: "/free-esim/"
-    - text: "🇨🇳 Free China eSIM"
-      title: "Try a free eSIM for mainland China"
+    - text: "🇨🇳 Бесплатный eSIM для Китая"
+      title: "Попробуйте бесплатный eSIM для материкового Китая"
       url: "/free-esim/"
-    - text: "🇹🇷 Free Turkey eSIM"
-      title: "Free Turkey eSIM trial for tourists"
+    - text: "🇹🇷 Бесплатный eSIM для Турции"
+      title: "Бесплатный пробный eSIM для туристов в Турции"
       url: "/free-esim/"
-    - text: "🇪🇺 Free Europe eSIM"
-      title: "Best free Europe eSIM for travel"
+    - text: "🇪🇺 Бесплатный eSIM для Европы"
+      title: "Лучший бесплатный eSIM для поездок по Европе"
       url: "/free-esim/"
-    - text: "🇬🇧 Free UK eSIM"
-      title: "Free UK eSIM data trial"
+    - text: "🇬🇧 Бесплатный eSIM для Великобритании"
+      title: "Бесплатный пробный тариф eSIM для Великобритании"
       url: "/free-esim/"
-    - text: "🇨🇦 Free Canada eSIM"
-      title: "Free Canada eSIM connectivity"
+    - text: "🇨🇦 Бесплатный eSIM для Канады"
+      title: "Бесплатное подключение eSIM в Канаде"
       url: "/free-esim/"
-    - text: "🇲🇽 Free Mexico eSIM"
-      title: "Free Mexico eSIM for vacation"
+    - text: "🇲🇽 Бесплатный eSIM для Мексики"
+      title: "Бесплатный eSIM для отпуска в Мексике"
       url: "/free-esim/"
-    - text: "🇦🇺 Free Australia eSIM"
-      title: "Free Australia eSIM trial"
+    - text: "🇦🇺 Бесплатный eSIM для Австралии"
+      title: "Бесплатный пробный eSIM для Австралии"
       url: "/free-esim/"
-    - text: "🇹🇭 Free Thailand eSIM"
-      title: "Free Thailand eSIM data plan"
+    - text: "🇹🇭 Бесплатный eSIM для Таиланда"
+      title: "Бесплатный тариф eSIM для Таиланда"
       url: "/free-esim/"
 
-# 🔍 搜索无结果时的转化引导配置
+# 🔍 Конфигурация преобразования при отсутствии результатов поиска
 no_results:
-  title: "Device not found"
-  description: "We couldn't find this exact model in our list, but most modern smartphones support eSIM."
-  box_title: "Best way to check?"
-  box_desc: "The easiest way to verify compatibility is to try installing a free eSIM. If it installs successfully, your phone is ready to go!"
-  button_text: "Get a Free eSIM Trial"
+  title: "Устройство не найдено"
+  description: "Мы не нашли эту точную модель в нашем списке, но большинство современных смартфонов поддерживают eSIM."
+  box_title: "Лучший способ проверить?"
+  box_desc: "Самый простой способ подтвердить совместимость — попробовать установить бесплатный eSIM. Если установка прошла успешно, ваше устройство готово к работе!"
+  button_text: "Получить бесплатный пробный eSIM"
   button_url: "/free-esim/"
 
-# ℹ️ 如何检查部分文案
+# ℹ️ Текст раздела «Как проверить»
 how_to_check:
-  title: "How to check if your phone is eSIM compatible?"
-  description: "Before purchasing a travel data plan, it's crucial to verify that your device is unlocked and supports eSIM technology. The quickest way to check is by looking for an EID number."
+  title: "Как проверить, совместим ли ваш телефон с eSIM?"
+  description: "Перед покупкой туристического тарифа крайне важно убедиться, что ваше устройство разблокировано и поддерживает технологию eSIM. Самый быстрый способ — поискать номер EID."
   steps:
-    - "Open your phone's dialer app."
-    - "Dial <strong>*#06#</strong> and press call."
-    - "If your device is compatible, an <strong>EID number</strong> (a 32-digit code) will appear on your screen."
+    - "Откройте приложение телефона."
+    - "Наберите <strong>*#06#</strong> и нажмите вызов."
+    - "Если ваше устройство совместимо, на экране появится <strong>номер EID</strong> (32-значный код)."
   side_box:
-    title: "Most modern phones support eSIM"
-    desc: "The majority of iPhones released after 2018 and premium Android devices are fully compatible with Roami."
+    title: "Большинство современных телефонов поддерживают eSIM"
+    desc: "Большинство iPhone, выпущенных после 2018 года, и премиальные устройства Android полностью совместимы с Roami."
 
-# 🎁 侧边栏底部转化卡片配置
+# 🎁 Карточка конвертации в боковой панели внизу
 sidebar_promo:
-  title: "Eligible for eSIM?"
-  description: "Experience seamless connectivity! Get your first eSIM for free and enjoy high-speed data abroad."
-  button_text: "Claim Free eSIM Now"
+  title: "Подходит ли ваш телефон для eSIM?"
+  description: "Оцените бесшовное подключение! Получите свой первый eSIM бесплатно и наслаждайтесь высокоскоростным интернетом за границей."
+  button_text: "Получить бесплатный eSIM сейчас"
   button_url: "/free-esim/"
 
-# 兼容列表部分 (保持不变)
-compatibility_list_title: "Supported Devices by Brand"
+# Список совместимости
+compatibility_list_title: "Поддерживаемые устройства по брендам"
 brands:
   - name: "Apple iPhone"
     icon: "apple"
     bg_color: "bg-slate-900"
-    note: "<strong>Note:</strong> iPhones sold in mainland China do not support eSIM. iPhones sold in Hong Kong and Macau only have partial eSIM support. Please check your specific model."
+    note: "<strong>Примечание:</strong> iPhone, проданные в материковом Китае, не поддерживают eSIM. iPhone, проданные в Гонконге и Макао, имеют лишь частичную поддержку eSIM. Пожалуйста, проверьте вашу конкретную модель."
     note_class: "bg-amber-50 border-amber-100 text-amber-800"
     groups:
       - devices:
@@ -132,7 +132,7 @@ brands:
   - name: "Samsung"
     icon: "smartphone"
     bg_color: "bg-blue-600"
-    note: "*Some regional versions may not be eSIM compatible. Please check your device manual."
+    note: "*Некоторые региональные версии могут быть несовместимы с eSIM. Пожалуйста, проверьте руководство к вашему устройству."
     note_class: "text-slate-500 bg-transparent border-transparent"
     groups:
       - devices:
@@ -195,7 +195,7 @@ brands:
   - name: "Google Pixel"
     icon: "smartphone"
     bg_color: "bg-red-500"
-    note: "*Some regional versions may not be eSIM compatible. Please check your device manual."
+    note: "*Некоторые региональные версии могут быть несовместимы с eSIM. Пожалуйста, проверьте руководство к вашему устройству."
     note_class: "text-slate-500 bg-transparent border-transparent"
     groups:
       - devices:
@@ -292,7 +292,7 @@ brands:
         - "Motorola ThinkPhone 25"
         - "Motorola Signature"
 
-  - name: "Xiaomi & Huawei"
+  - name: "Xiaomi и Huawei"
     icon: "smartphone"
     bg_color: "bg-orange-500"
     groups:
@@ -331,7 +331,7 @@ brands:
           - "Huawei Pura 70 Pro"
           - "Pura X foldable"
 
-  - name: "Oppo & Vivo"
+  - name: "Oppo и Vivo"
     icon: "smartphone"
     bg_color: "bg-emerald-500"
     groups:
@@ -375,7 +375,7 @@ brands:
           - "Vivo V40 Lite*"
           - "Vivo V50"
 
-  - name: "Honor & Sony"
+  - name: "Honor и Sony"
     icon: "smartphone"
     bg_color: "bg-purple-600"
     groups:
@@ -414,7 +414,7 @@ brands:
           - "Sony Xperia 5 V"
           - "Sony Xperia 1 VII"
 
-  - name: "Sharp & TCL"
+  - name: "Sharp и TCL"
     icon: "smartphone"
     bg_color: "bg-teal-600"
     groups:
@@ -452,7 +452,7 @@ brands:
           - "Tcl 50 Pro NxtPaper"
           - "Tcl 40 XL"
 
-  - name: "Other Brands"
+  - name: "Другие бренды"
     icon: "more-horizontal"
     bg_color: "bg-slate-700"
     groups:
@@ -464,6 +464,6 @@ brands:
         - "<strong>T-Mobile:</strong> T-Mobile Revvl 7, T-Mobile Revvl 7 Pro"
         - "<strong>Nuu:</strong> Nuu X5"
         - "<strong>Surface:</strong> Surface Duo"
-        - "<strong>OnePlus:</strong> Compatible Models"
+        - "<strong>OnePlus:</strong> Совместимые модели"
         - "<strong>Others:</strong> Gemini PDA 4G+Wi-Fi, Nothing Phone (3a) Pro, Realme 14 Pro+, ASUS Zenfone 12 Ultra, ZTE nubia Flip2, Alcatel V3 Ultra"
 ---

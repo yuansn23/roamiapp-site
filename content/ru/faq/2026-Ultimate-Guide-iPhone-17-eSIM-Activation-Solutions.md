@@ -1,336 +1,336 @@
 ---
-title: "2026 Ultimate Guide: iPhone 17 eSIM Global Compatibility & Activation"
-description: "Learn how to activate Roami eSIM on iPhone 17 in under 30 seconds. Whether using iOS 19 Push-to-Install, Quick Transfer, or QR codes, we provide frictionless setup steps. Fix common 'Unable to Activate' errors and unleash lightning-fast 5G roaming on your new iPhone 17 Air."
-keywords: ["iPhone 17 eSIM", "iPhone 17 Air eSIM", "iPhone 17 compatibility", "activate eSIM iPhone 17", "Roami 5G", "eSIM battery life", "eSIM vs physical SIM", "dual eSIM iPhone"]
+title: "Полное руководство 2026: глобальная совместимость и активация eSIM на iPhone 17"
+description: "Узнайте, как активировать Roami eSIM на iPhone 17 менее чем за 30 секунд. С помощью iOS 19 Push-to-Install, быстрого переноса или QR-кодов — бесшовная настройка. Исправьте ошибки «Не удаётся активировать» и откройте для себя молниеносный 5G-роуминг на новом iPhone 17 Air."
+keywords: ["iPhone 17 eSIM", "iPhone 17 Air eSIM", "совместимость iPhone 17", "активация eSIM iPhone 17", "Roami 5G", "время работы батареи eSIM", "eSIM против физической SIM", "двойная eSIM iPhone"]
 date: 2026-04-28T10:00:00Z
 lastmod: 2026-04-28T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "iPhone 17"]
+tags: ["eSIM", "iOS", "Android", "Устранение неполадок", "Настройка для путешествий", "iPhone 17"]
 toc: true
 
-# 站点 & SEO 基础硬编码配置
+# Базовые настройки сайта и SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# Конфигурация перевода UI-текста
 ui_text:
-  updated_on: "Updated on"
-  min_read: "min read"
-  toc: "Table of Contents"
+  updated_on: "Обновлено"
+  min_read: "мин чтения"
+  toc: "Содержание"
 
 breadcrumbs:
   home:
-    text: "Home"
+    text: "Главная"
     url: "/"
   parent:
-    text: "Help Center"
+    text: "Справочный центр"
     url: "/faq/"
     
-# 右侧：热门 eSIM 配置 (6个国家，1.99美金) - 严格保留原始配置
+# Правая панель: популярные eSIM (6 стран, 1.99 доллара)
 sidebar_popular:
-  title: "Popular eSIMs"
+  title: "Популярные eSIM"
   item_suffix: "eSIM"
   items:
-    - name: "United States"
+    - name: "США"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Germany"
+    - name: "Германия"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Europe"
+    - name: "Европа"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Turkey"
+    - name: "Турция"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japan"
+    - name: "Япония"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "China"
+    - name: "Китай"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置 (4个国家) - 严格保留原始配置
+# Правая панель: бесплатная eSIM (4 страны)
 sidebar_free:
-  title: "Claim Free eSIM"
+  title: "Получить бесплатную eSIM"
   icon: "🎁"
-  item_suffix: "Free eSIM"
-  item_subtitle: "Free eSIM"
+  item_suffix: "Бесплатная eSIM"
+  item_subtitle: "Бесплатная eSIM"
   items:
-    - name: "United Kingdom"
+    - name: "Великобритания"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
-    - name: "Germany"
+    - name: "Германия"
       flag: "/img/flags/de.svg"
       url: "/free-esim/"
-    - name: "Thailand"
+    - name: "Таиланд"
       flag: "/img/flags/th.svg"
       url: "/free-esim/"
-    - name: "Hong Kong"
+    - name: "Гонконг"
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右侧：热门问题配置 (5个问题) - 严格保留原始配置
+# Правая панель: популярные вопросы (5 вопросов)
 sidebar_questions:
-  title: "Popular Questions"
+  title: "Популярные вопросы"
   items:
-    - question: "What is eSIM activation and how does it work?"
+    - question: "Что такое активация eSIM и как она работает?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "How to activate an eSIM?"
+    - question: "Как активировать eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "How to activate eSIM on iPhone (All Models)?"
+    - question: "Как активировать eSIM на iPhone (все модели)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Latest eSIM Compatibility List"
+    - question: "Актуальный список совместимости eSIM"
       url: "/compatibility/"
 ---
 
 
-> With the release of the iPhone 17 series, eSIM technology has entered a phase of full普及. US models completely eliminate the physical SIM tray, while international models fully support dual eSIM active simultaneously. Based on Apple 2025–2026 official technical documentation, this guide covers compatibility, security, activation, travel, enterprise management, and cross-platform transfer. For users who want to move an eSIM from an Android phone, see our **[eSIM Cross‑Platform Transfer 2026 guide](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+> С выходом серии iPhone 17 технология eSIM вступила в фазу полного распространения. Американские модели полностью отказались от лотка для физической SIM-карты, а международные модели полностью поддерживают одновременную работу двух активных eSIM. Основываясь на официальной технической документации Apple 2025–2026, данное руководство охватывает совместимость, безопасность, активацию, путешествия, корпоративное управление и кроссплатформенный перенос. Для пользователей, желающих перенести eSIM с телефона Android, смотрите наше руководство **[«Перенос eSIM между iPhone и Android 2026»](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
 
 ---
 
-## 📌 Quick Diagnostic Index
+## 📌 Быстрый диагностический индекс
 
-| Symptom Keywords | Possible Core Cause | Solution Section |
-|-----------------|---------------------|------------------|
-| Activation stuck >10 min / "Activating..." | SM‑DP+ address error / MDM restriction | Section 4 / FAQ |
-| eSIM shows "No Service" | PLMN mismatch / roaming restriction | Section 8 |
-| Can't transfer from Android eSIM | Local network permission missing | Section 7 |
-| Dual eSIM: one number can't receive calls | T-ADS cache error | Section 8 |
-| eSIM‑only device (US model) can't activate without Wi‑Fi | Missing activation network coverage | Section 8 |
-| Still charged after deleting eSIM | Plan not cancelled | Section 8 |
-| DFU restore error 53 / 4013 | Corrupted eSIM profile | Section 8 |
-
----
-
-## 📖 Glossary
-
-| Term | Explanation |
-|------|-------------|
-| eSIM | Embedded SIM, a digital SIM card conforming to GSMA standards |
-| eUICC | Embedded Universal Integrated Circuit Card, the physical chip for eSIM |
-| EID | eUICC Identifier, 32‑digit unique ID per device |
-| SM‑DP+ | Carrier’s eSIM delivery server |
-| LPA | Low‑level iOS service managing eSIMs |
-| MDM | Mobile Device Management for enterprise remote control |
-| PLMN | Public Land Mobile Network (carrier code) |
-| T-ADS | Terminating Access Domain Selection for incoming call routing |
+| Ключевые слова симптома | Возможная основная причина | Раздел решения |
+|-------------------------|----------------------------|----------------|
+| Активация зависла >10 мин / «Активация...» | Ошибка адреса SM‑DP+ / ограничение MDM | Раздел 4 / ЧаВо |
+| eSIM показывает «Нет обслуживания» | Несовпадение PLMN / ограничение роуминга | Раздел 8 |
+| Не удаётся перенести eSIM с Android | Отсутствует разрешение локальной сети | Раздел 7 |
+| Двойная eSIM: один номер не принимает звонки | Ошибка кэша T-ADS | Раздел 8 |
+| Устройство только eSIM (американская модель) не активируется без Wi‑Fi | Отсутствие сети для активации | Раздел 8 |
+| Списание средств после удаления eSIM | План не отменён | Раздел 8 |
+| Ошибка DFU восстановления 53 / 4013 | Повреждённый профиль eSIM | Раздел 8 |
 
 ---
 
-## 1. Does the iPhone 17 Support eSIM?
+## 📖 Глоссарий
 
-**Direct Answer: Yes** – every single model in the iPhone 17 lineup – including the standard iPhone 17, Pro, Pro Max, and the ultra‑thin **iPhone 17 Air** – fully supports eSIM technology.
-
-Since the iPhone 14, Apple has been phasing out physical SIM slots. With the 17th generation, this digital‑first approach has reached new heights:
-
-- **North America & UAE:** Models are completely SIM‑less (eSIM only).
-- **International markets (EU, UK, Australia):** Most models support **dual eSIM** or a hybrid setup (1 Nano‑SIM + 1 eSIM).
-- **iPhone 17 Air (global first):** This model is uniquely designed without a SIM tray worldwide (including mainland China), making it the most versatile device for digital nomads.
-
-If you plan to use two lines simultaneously (e.g., a home number and a travel eSIM), check out our **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** for advanced tips.
+| Термин | Объяснение |
+|--------|------------|
+| eSIM | Встроенная SIM-карта, цифровая SIM-карта, соответствующая стандартам GSMA |
+| eUICC | Встроенная универсальная интегральная схема, физический чип для eSIM |
+| EID | Идентификатор eUICC, 32-значный уникальный номер устройства |
+| SM‑DP+ | Сервер доставки eSIM оператора |
+| LPA | Низкоуровневая служба iOS, управляющая eSIM |
+| MDM | Управление мобильными устройствами для удалённого контроля предприятия |
+| PLMN | Публичная наземная мобильная сеть (код оператора) |
+| T-ADS | Выбор домена завершения вызова для маршрутизации входящих звонков |
 
 ---
 
-## 2. Global iPhone 17 Models & eSIM Compatibility Table
+## 1. Поддерживает ли iPhone 17 eSIM?
 
-To ensure a seamless connection with Roami, verify your device configuration based on purchase region:
+**Прямой ответ: Да** – каждая модель в линейке iPhone 17 – включая обычный iPhone 17, Pro, Pro Max и сверхтонкий **iPhone 17 Air** – полностью поддерживает технологию eSIM.
 
-| Model Name | Purchase Region | Cellular Configuration | Roami Recommendation |
+Начиная с iPhone 14, Apple постепенно отказывается от физических SIM-слотов. В 17-м поколении этот цифровой подход достиг новых высот:
+
+- **Северная Америка и ОАЭ:** Модели полностью бессимочные (только eSIM).
+- **Международные рынки (ЕС, Великобритания, Австралия):** Большинство моделей поддерживают двойную eSIM или гибридную конфигурацию (1 Nano-SIM + 1 eSIM).
+- **iPhone 17 Air (мировой первый):** Эта модель уникальна – она не имеет лотка для SIM-карты во всём мире (включая материковый Китай), что делает её самым универсальным устройством для цифровых кочевников.
+
+Если вы планируете использовать две линии одновременно (например, домашний номер и туристическую eSIM), ознакомьтесь с нашим руководством **[«Двойная eSIM не работает? 12 исправлений для iPhone»](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** для продвинутых советов.
+
+---
+
+## 2. Модели iPhone 17 и таблица совместимости с eSIM
+
+Чтобы обеспечить бесшовное подключение с Roami, проверьте конфигурацию устройства в зависимости от региона покупки:
+
+| Модель | Регион покупки | Конфигурация сотовой связи | Рекомендация Roami |
 | :--- | :--- | :--- | :--- |
-| **iPhone 17 / Pro / Max** | US, Canada, Japan, UAE | **eSIM only** (no SIM tray) | Best experience: Activate instantly via Roami App right after unboxing. |
-| **iPhone 17 / Pro / Max** | Europe, UK, Southeast Asia, Australia | **1 physical Nano‑SIM + eSIM** | Hybrid mode: Keep your home country number on physical SIM, use Roami for affordable travel data. |
-| **iPhone 17 / Pro / Max** | Mainland China | **dual physical Nano‑SIM** | Hardware limitation: Except for Air model, cannot install local eSIM profiles. |
-| **iPhone 17 Air (ultra‑thin)** | **Global (including China)** | **eSIM only** (Apple's first all‑digital device) | Top choice: Fully optimized for Roami's ultra‑low‑latency 5G protocols on iOS 19. |
+| **iPhone 17 / Pro / Max** | США, Канада, Япония, ОАЭ | **только eSIM** (нет лотка для SIM) | Лучший опыт: активируйте мгновенно через приложение Roami сразу после распаковки. |
+| **iPhone 17 / Pro / Max** | Европа, Великобритания, Юго-Восточная Азия, Австралия | **1 физическая Nano-SIM + eSIM** | Гибридный режим: оставьте домашний номер на физической SIM, используйте Roami для доступного интернета в поездках. |
+| **iPhone 17 / Pro / Max** | Материковый Китай | **две физические Nano-SIM** | Аппаратное ограничение: за исключением модели Air, не могут устанавливать локальные профили eSIM. |
+| **iPhone 17 Air (ультратонкий)** | **Весь мир (включая Китай)** | **только eSIM** (первое полностью цифровое устройство Apple) | Лучший выбор: полностью оптимизирован для ультранизколатентных 5G-протоколов Roami на iOS 19. |
 
 ---
 
-## 3. Technical Deep Dive: Why the iPhone 17 Air Ditched the SIM Slot
+## 3. Техническое погружение: почему iPhone 17 Air отказался от SIM-слота
 
-### 3.1 The Necessity of the 5.6mm Extreme Design
-The iPhone 17 Air pushes industrial design boundaries. Physical SIM components – tray, reader, and spring mechanism – occupy nearly 15% of the device's lateral internal space. By removing them, Apple engineers reclaimed space for a larger vapor chamber and higher‑density battery.
+### 3.1 Необходимость экстремального дизайна 5,6 мм
+iPhone 17 Air расширяет границы промышленного дизайна. Компоненты физической SIM-карты – лоток, считыватель и пружинный механизм – занимают почти 15% бокового внутреннего пространства устройства. Удалив их, инженеры Apple освободили место для более крупной испарительной камеры и батареи повышенной плотности.
 
-**Technical benefit**: This seamless, hole‑less design reduces electromagnetic interference, allowing localized 5G protocols to achieve superior signal gain and stability.
+**Техническое преимущество**: этот бесшовный дизайн без отверстий уменьшает электромагнитные помехи, позволяя локализованным 5G-протоколам достигать превосходного усиления и стабильности сигнала.
 
-### 3.2 Baseband Efficiency and Battery Life
-Maintaining a connection with a physical SIM chip requires constant power delivery to the reader. On the iPhone 17, a fully digital connection reduces baseband standby power draw by approximately **11%**. For the power‑constrained iPhone 17 Air, this translates to **up to 90 minutes of additional battery life** during active data usage.
+### 3.2 Эффективность модема и время работы батареи
+Поддержание соединения с физическим чипом SIM-карты требует постоянной подачи питания на считыватель. На iPhone 17 полностью цифровое соединение снижает энергопотребление модема в режиме ожидания примерно на **11%**. Для энергоёмкого iPhone 17 Air это означает **до 90 минут дополнительного времени работы батареи** при активном использовании данных.
 
-### 3.3 Security: Anti‑Tampering and Secure Enclave
-Unlike physical SIMs that can be swapped or cloned, the iPhone 17 eSIM is embedded within the **Secure Enclave**. Even if your device is stolen, your Roami number cannot be removed without biometric authentication, ensuring "Find My" remains operational 24/7.
-
----
-
-## 4. How to Quickly Activate Roami eSIM on iPhone 17
-
-Tailored for the streamlined interface of iOS 19, Roami offers three frictionless activation paths for iPhone 17 users:
-
-### 4.1 Push‑to‑Install (Seamless Activation)
-1. Choose your plan in the **Roami App**.
-2. After purchase, tap "**Install to this device**".
-3. Your iPhone 17 automatically detects the configuration; when the system notification appears, tap "**Allow**".
-
-### 4.2 Quick Transfer (Native iOS Migration)
-- When upgrading from an older iPhone, Roami supports native iOS eSIM transfer.
-- During setup, place your old device near your new iPhone 17 to wirelessly migrate your data plan in seconds.
-
-### 4.3 Manual QR Code Configuration
-1. Go to **Settings** > **Cellular** > **Add eSIM**.
-2. Scan the high‑resolution QR code sent to your email by Roami.
-3. If scanning isn't possible, choose "**Enter Details Manually**" and paste the provided **SM‑DP+ address**.
+### 3.3 Безопасность: защита от несанкционированного доступа и Secure Enclave
+В отличие от физических SIM-карт, которые можно заменить или клонировать, eSIM iPhone 17 встроена в **Secure Enclave**. Даже если ваше устройство украдут, ваш номер Roami нельзя будет удалить без биометрической аутентификации, гарантируя, что функция «Локатор» будет работать 24/7.
 
 ---
 
-## 5. eSIM Security Advantages: Why More Reliable Than Physical SIM
+## 4. Как быстро активировать Roami eSIM на iPhone 17
 
-| Security Feature | Physical SIM | eSIM |
-|------------------|--------------|------|
-| Anti‑physical theft | ❌ Can be removed to receive SMS verification codes | ✅ Cannot be removed; even if device stolen, number can't be used |
-| Anti‑clone/tamper | ⚠️ Can be copied (some older tech) | ✅ Complies with GSMA SGP.21, cannot be cloned or modified |
-| Enterprise remote control | ⚠️ Requires physical swap | ✅ Remote add/delete/restrict via MDM |
-| Tracking after loss | ❌ Offline after SIM removal | ✅ Cannot go offline (eSIM‑only models) |
+Адаптированные к оптимизированному интерфейсу iOS 19, Roami предлагает три бесшовных пути активации для пользователей iPhone 17:
 
-**Enterprise protection**: MDM can enable `AllowESIMModification` restriction to prevent users from adding or removing eSIMs, avoiding accidental transfer of company numbers.
+### 4.1 Push-to-Install (бесшовная активация)
+1. Выберите план в **приложении Roami**.
+2. После покупки нажмите «**Установить на это устройство**».
+3. Ваш iPhone 17 автоматически обнаруживает конфигурацию; когда появится системное уведомление, нажмите «**Разрешить**».
 
----
+### 4.2 Быстрый перенос (встроенная миграция iOS)
+- При обновлении со старого iPhone Roami поддерживает встроенный перенос eSIM iOS.
+- Во время настройки поместите старое устройство рядом с новым iPhone 17, чтобы за секунды беспроводным способом перенести ваш тариф.
 
-## 6. eSIM vs Physical SIM: Why Travel with Roami?
-
-| Comparison | Physical SIM | Roami eSIM |
-|------------|--------------|-------------|
-| Instant connectivity | Need to buy at airport or wait for shipping | ✅ Install immediately after purchase |
-| Cost | Expensive roaming fees or queuing for local SIMs | ✅ Real‑time comparison, pay as needed |
-| Multiple profiles | Swap cards every time | ✅ Store 8‑10 profiles, switch with one tap |
-| Physical risk | Easy to lose or damage tray | ✅ Zero physical risk |
+### 4.3 Ручная настройка QR-кода
+1. Перейдите в **Настройки** > **Сотовая связь** > **Добавить eSIM**.
+2. Отсканируйте высококачественный QR-код, отправленный Roami на вашу электронную почту.
+3. Если сканирование невозможно, выберите «**Ввести данные вручную**» и вставьте предоставленный **SM‑DP+ адрес**.
 
 ---
 
-## 7. Enterprise Deployment & Management (For MDM Admins)
+## 5. Преимущества безопасности eSIM: почему надёжнее физической SIM
 
-For IT administrators, eSIM greatly simplifies large‑scale device deployment.
+| Функция безопасности | Физическая SIM | eSIM |
+|---------------------|----------------|------|
+| Защита от физической кражи | ❌ Можно извлечь для получения SMS-кодов подтверждения | ✅ Невозможно извлечь; даже при краже устройства номер нельзя использовать |
+| Защита от клонирования/взлома | ⚠️ Можно скопировать (некоторые старые технологии) | ✅ Соответствует GSMA SGP.21, невозможно клонировать или изменить |
+| Удалённое управление предприятием | ⚠️ Требуется физическая замена | ✅ Удалённое добавление/удаление/ограничение через MDM |
+| Отслеживание после потери | ❌ Офлайн после извлечения SIM | ✅ Не может отключиться (модели только eSIM) |
 
-### Key Questions When Choosing a Carrier
-- How long does it take to create and provision eSIMs after signing an agreement?
-- Does the carrier support **eSIM Carrier Activation** (out‑of‑box automatic installation)?
-- Does the carrier allow users to transfer eSIMs between iPhone/iPad?
-- Provide the **SM‑DP+ server URL** (ensure firewall access).
-- Is there a limit on simultaneous queuing for eSIM provisioning?
-
-### Apple School Manager / Business Manager Automatic Enrollment
-When devices join MDM via DEP (Automatic Device Enrollment), if the carrier supports it, eSIMs can be **automatically installed** during setup – no user interaction required.
-
-### MDM Remote Management Capabilities
-- Remote eSIM installation
-- Remote carrier change
-- Restrict user modifications (`AllowESIMModification`)
-- Refresh cellular plans (`RefreshCellularPlansCommand`)
+**Корпоративная защита**: MDM может включить ограничение `AllowESIMModification`, чтобы запретить пользователям добавлять или удалять eSIM, предотвращая случайный перенос корпоративных номеров.
 
 ---
 
-## 8. eSIM Cross‑Platform Transfer (iOS 26 ↔ Android 16)
+## 6. eSIM против физической SIM: почему путешествовать с Roami?
 
-Apple first opened bidirectional eSIM transfer between Android and iPhone in iOS 26.
-
-### Transfer from Android to iPhone
-1. On iPhone: `Settings` > `Cellular` > `Add eSIM` > `Transfer from Android` → generates a QR code.
-2. Scan the QR code with your Android device, select the number to transfer, tap "Transfer".
-3. The Android eSIM is automatically deactivated, and the number activates on iPhone.
-
-### Transfer from iPhone to Android (iOS 26.3+)
-1. On iPhone: `Settings` > `Cellular` > `Transfer to Android` > `Transfer eSIM`.
-2. A QR code appears; scan it with your Android device.
-3. Confirm on Android, then double‑click the side button on iPhone to confirm.
-4. After transfer completes, the eSIM on iPhone is automatically deactivated.
-
-> **Note**: Cross‑platform transfer is only supported by certain carriers (e.g., US: AT&T, T‑Mobile, Verizon; UK: EE; JP: KDDI). If not supported, contact your carrier for a new QR code. For detailed steps and troubleshooting, visit our dedicated **[eSIM Cross‑Platform Transfer 2026 guide](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+| Сравнение | Физическая SIM | Roami eSIM |
+|-----------|----------------|-------------|
+| Мгновенное подключение | Нужно покупать в аэропорту или ждать доставку | ✅ Установка сразу после покупки |
+| Стоимость | Дорогие роуминговые сборы или очереди за местными SIM | ✅ Сравнение в реальном времени, оплата по необходимости |
+| Несколько профилей | Каждый раз замена карты | ✅ Хранение 8‑10 профилей, переключение одним нажатием |
+| Физический риск | Легко потерять или повредить лоток | ✅ Нулевой физический риск |
 
 ---
 
-## 9. Using eSIM for International Travel (iOS 26 Smart Travel Assistant)
+## 7. Корпоративное развёртывание и управление (для администраторов MDM)
 
-### Three Travel eSIM Options Compared
+Для ИТ-администраторов eSIM значительно упрощает массовое развёртывание устройств.
 
-| Option | Pros | Cons | Best For |
-|--------|------|------|----------|
-| **International roaming on home carrier** | No extra setup, keep home number | Expensive, may be speed‑limited | Short business trips |
-| **Local carrier travel eSIM** | Low rates, local number | May require local ID | Long stays (>1 month) |
-| **Global provider data eSIM** | Covers 190+ countries, buy instantly | Data‑only, no phone number | Multi‑country trips |
+### Ключевые вопросы при выборе оператора
+- Сколько времени требуется для создания и предоставления eSIM после подписания соглашения?
+- Поддерживает ли оператор **Carrier Activation eSIM** (автоматическая установка из коробки)?
+- Позволяет ли оператор пользователям переносить eSIM между iPhone/iPad?
+- Предоставьте **URL-адрес SM‑DP+ сервера** (обеспечьте доступ через брандмауэр).
+- Существует ли ограничение на одновременное выполнение операций подготовки eSIM?
 
-### iOS 26 Smart Travel eSIM Management
-- **Before departure**: After purchasing a travel eSIM, the system asks "Do you intend to use this eSIM in your home country or while traveling?"
-- **Upon arrival**: Automatically pops up "Enable Travel eSIM" notification.
-  - Choose "Use Travel eSIM Only" → your home country number is temporarily turned off to avoid roaming fees.
-  - Choose "Use Both" → travel eSIM handles data, your home number can still receive calls (roaming charges may apply).
-- **After returning home**: iPhone automatically turns off the travel eSIM and re‑enables your home country number (depending on region).
+### Автоматическая регистрация Apple School Manager / Business Manager
+Когда устройства присоединяются к MDM через DEP (автоматическая регистрация устройств), если оператор поддерживает, eSIM могут быть **автоматически установлены** во время настройки – без участия пользователя.
 
-**Manually set data line**:
-`Settings` → `Cellular` → `Cellular Data` → select travel eSIM.
-
-> **Important**: If you purchase a data‑only eSIM (no phone number), FaceTime and iMessage will still use your home country number.
+### Возможности удалённого управления MDM
+- Удалённая установка eSIM
+- Удалённая смена оператора
+- Ограничение изменений пользователем (`AllowESIMModification`)
+- Обновление сотовых планов (`RefreshCellularPlansCommand`)
 
 ---
 
-## 10. Frequently Asked Questions & Troubleshooting (iPhone 17 Specific)
+## 8. Кроссплатформенный перенос eSIM (iOS 26 ↔ Android 16)
 
-> **More in‑depth troubleshooting (16 real‑world cases)**: This section covers common issues. For complex problems not listed here (e.g., eSIM bound to another device, dual SIM signal conflict, DFU error 53), please refer to our **[eSIM Deep Troubleshooting Guide 2026](/faq/esim-deep-troubleshooting-guide-2026/)** , which contains 16 detailed symptom‑cause‑solution cases. If you are experiencing dual‑SIM voice or data conflicts, also see **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+Apple впервые открыла двунаправленный перенос eSIM между Android и iPhone в iOS 26.
 
-**Q1: I'm traveling to China with a US‑version (SIM‑less) iPhone 17. How can I stay connected?**  
-A: You can purchase a China data plan directly in the Roami App. Roami automatically connects to local 5G signals upon arrival via roaming protocols – no physical SIM tray required.
+### Перенос с Android на iPhone
+1. На iPhone: `Настройки` > `Сотовая связь` > `Добавить eSIM` > `Перенести с Android` → генерируется QR-код.
+2. Отсканируйте QR-код на устройстве Android, выберите номер для переноса, нажмите «Перенести».
+3. eSIM на Android автоматически деактивируется, а номер активируется на iPhone.
 
-**Q2: Does deleting an eSIM affect my physical SIM line?**  
-A: Not at all. eSIM and physical SIM operate on independent circuits. You can toggle any line on or off at your convenience without interference.
+### Перенос с iPhone на Android (iOS 26.3+)
+1. На iPhone: `Настройки` > `Сотовая связь` > `Перенести на Android` > `Перенести eSIM`.
+2. Появляется QR-код; отсканируйте его на устройстве Android.
+3. Подтвердите на Android, затем дважды нажмите боковую кнопку на iPhone для подтверждения.
+4. После завершения переноса eSIM на iPhone автоматически деактивируется.
 
-**Q3: Does Roami support personal hotspot sharing on iPhone 17?**  
-A: Yes. All Roami plans for iPhone 17 include full personal hotspot support, optimized for the A19 chip to minimize heat generation during tethering.
-
-**Q4: Why is my eSIM stuck on "Activating"?**  
-A: This is often caused by an unstable Wi‑Fi connection. Ensure you are on a stable network, or try toggling Airplane Mode on and off to refresh the baseband.
-
-**Q5: Is my iPhone 17 carrier‑locked?**  
-A: Go to `Settings` > `General` > `About` and scroll down to **Carrier Lock**. It should say "No SIM restrictions." If locked, contact your home carrier to request an unlock before installing Roami.
-
-**Q6: QR code says "Invalid" or "Expired" after scanning?**  
-A: eSIM profiles typically expire 24‑72 hours after issuance. Contact your carrier to re‑issue a new QR code, then activate within 1 hour.
-
-**Q7: eSIM shows "No Service" – what can I do?**  
-A: Go to `Settings` > `Cellular` > tap the eSIM > `Network Selection`. Turn off "Automatic", manually select a different carrier, wait for failure, then switch back to "Automatic" to force re‑registration.
-
-**Q8: Still being charged after deleting eSIM?**  
-A: Deleting eSIM does **not** cancel your plan. First contact your carrier to cancel the number/plan, then delete the eSIM. If you already deleted it, provide your EID and ask for a profile re‑issue.
-
-**Q9: DFU restore error 53 or 4013?**  
-A: This indicates a corrupted eSIM profile. If your device still boots, delete all eSIMs under `Settings` > `Cellular` before DFU restore. If already unbootable, use Apple Configurator's "Ignore eSIM lock" option (iOS 26) during restore.
+> **Примечание**: Кроссплатформенный перенос поддерживается только некоторыми операторами (например, в США: AT&T, T‑Mobile, Verizon; в Великобритании: EE; в Японии: KDDI). Если не поддерживается, обратитесь к оператору за новым QR-кодом. Для получения подробных инструкций и устранения неполадок посетите наше специальное руководство **[«Кроссплатформенный перенос eSIM 2026»](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
 
 ---
 
-## 11. Conclusion & Best Practices
+## 9. Использование eSIM для международных поездок (iOS 26 Smart Travel Assistant)
 
-The iPhone 17 series makes eSIM the standard – not just an option. Whether you are a personal user or an enterprise IT administrator, follow these best practices:
+### Сравнение трёх вариантов туристических eSIM
 
-- **Before buying a device**: Confirm that your carrier supports eSIM and cross‑platform transfer.
-- **When upgrading devices**: Use eSIM Quick Transfer – no need to contact customer support.
-- **Before traveling abroad**: Purchase a data eSIM in advance, manually set the APN, and activate as soon as you land.
-- **For enterprise deployment**: Communicate with your carrier about SM‑DP+ address and provisioning capacity, then use MDM for zero‑touch activation.
-- **Security reminder**: Before selling or giving away your iPhone, delete all eSIMs under `Settings` > `Cellular` and notify your carrier to cancel associated plans.
+| Вариант | Плюсы | Минусы | Лучше всего для |
+|---------|-------|--------|----------------|
+| **Международный роуминг домашнего оператора** | Не требует дополнительной настройки, сохраняется домашний номер | Дорого, может быть ограничение скорости | Короткие деловые поездки |
+| **Туристическая eSIM местного оператора** | Низкие ставки, местный номер | Может потребоваться местное удостоверение личности | Длительное пребывание (>1 месяца) |
+| **Туристическая eSIM глобального провайдера** | Охватывает 190+ стран, покупка мгновенно | Только данные, без номера телефона | Поездки в несколько стран |
 
-**The future is here**: eSIM is not only a technological evolution but also a revolution in digital identity management. The iPhone 17 and Roami are ready to provide you with seamless global connectivity.
+### Умное управление туристическими eSIM в iOS 26
+- **Перед отъездом**: После покупки туристической eSIM система спрашивает: «Вы планируете использовать эту eSIM в своей стране или во время поездки?»
+- **По прибытии**: Автоматически появляется уведомление «Включить туристическую eSIM».
+  - Выберите «Использовать только туристическую eSIM» → домашний номер временно отключается, чтобы избежать роуминговых сборов.
+  - Выберите «Использовать обе» → туристическая eSIM обрабатывает данные, а домашний номер может принимать звонки (могут взиматься роуминговые сборы).
+- **После возвращения домой**: iPhone автоматически отключает туристическую eSIM и снова включает домашний номер (в зависимости от региона).
 
-> 📎 **Related resources on this site:**
-> - [eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [eSIM Cross‑Platform Transfer 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-> - [Dual eSIM Not Working? 12 Fixes for iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+**Ручная установка линии данных**:
+`Настройки` → `Сотовая связь` → `Сотовые данные` → выберите туристическую eSIM.
+
+> **Важно**: Если вы покупаете eSIM только для данных (без номера телефона), FaceTime и iMessage будут по-прежнему использовать ваш домашний номер.
 
 ---
 
-> This article is based on Apple official technical documentation (2025–2026). Actual features may vary depending on carrier policies, region, and device model.
+## 10. Часто задаваемые вопросы и устранение неполадок (специфично для iPhone 17)
+
+> **Более глубокое устранение неполадок (16 реальных случаев)**: Этот раздел охватывает распространённые проблемы. Для сложных проблем, не перечисленных здесь (например, eSIM привязана к другому устройству, конфликт сигнала двойной SIM, ошибка DFU 53), обратитесь к нашему **[«Полному руководству по устранению неполадок eSIM 2026»](/faq/esim-deep-troubleshooting-guide-2026/)** , который содержит 16 подробных случаев с симптомами, причинами и решениями. Если вы испытываете конфликты голоса или данных при использовании двух SIM-карт, также ознакомьтесь с **[«Двойная eSIM не работает? 12 исправлений для iPhone»](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+
+**В1: Я собираюсь в Китай с американской версией (бессимочной) iPhone 17. Как оставаться на связи?**  
+О: Вы можете приобрести тариф для Китая непосредственно в приложении Roami. Roami автоматически подключается к местным 5G-сигналам по прибытии через роуминговые протоколы – физический лоток SIM не требуется.
+
+**В2: Влияет ли удаление eSIM на мою линию физической SIM?**  
+О: Совсем нет. eSIM и физическая SIM работают на независимых схемах. Вы можете включать или выключать любую линию по своему усмотрению без помех.
+
+**В3: Поддерживает ли Roami общий доступ к персональному хотспоту на iPhone 17?**  
+О: Да. Все планы Roami для iPhone 17 включают полную поддержку персонального хотспота, оптимизированную для чипа A19 для минимизации нагрева при использовании в качестве модема.
+
+**В4: Почему моя eSIM зависла на «Активация»?**  
+О: Это часто вызвано нестабильным подключением к Wi-Fi. Убедитесь, что вы находитесь в стабильной сети, или попробуйте включать и выключать режим полёта, чтобы обновить модем.
+
+**В5: Заблокирован ли мой iPhone 17 под оператора?**  
+О: Перейдите в `Настройки` > `Основные` > `Об этом устройстве` и прокрутите вниз до **Блокировка оператора**. Там должно быть написано «Нет ограничений SIM». Если заблокирован, обратитесь к домашнему оператору с просьбой разблокировать перед установкой Roami.
+
+**В6: QR-код говорит «Недействителен» или «Просрочен» после сканирования?**  
+О: Профили eSIM обычно истекают через 24‑72 часа после выдачи. Свяжитесь с вашим оператором для повторной выдачи нового QR-кода, затем активируйте в течение 1 часа.
+
+**В7: eSIM показывает «Нет обслуживания» – что делать?**  
+О: Перейдите в `Настройки` > `Сотовая связь` > нажмите на eSIM > `Выбор сети`. Отключите «Автоматически», вручную выберите другого оператора, подождите сбоя, затем снова включите «Автоматически», чтобы принудительно перерегистрироваться.
+
+**В8: С меня по-прежнему списывают средства после удаления eSIM?**  
+О: Удаление eSIM **не отменяет** ваш план. Сначала свяжитесь с вашим оператором, чтобы отменить номер/план, затем удалите eSIM. Если вы уже удалили её, предоставьте свой EID и попросите повторно выдать профиль.
+
+**В9: Ошибка DFU восстановления 53 или 4013?**  
+О: Это указывает на повреждённый профиль eSIM. Если ваше устройство всё ещё загружается, удалите все eSIM в `Настройки` > `Сотовая связь` перед восстановлением DFU. Если уже не загружается, используйте опцию Apple Configurator «Игнорировать блокировку eSIM» (iOS 26) во время восстановления.
+
+---
+
+## 11. Заключение и лучшие практики
+
+Серия iPhone 17 делает eSIM стандартом – а не просто опцией. Будь вы частным пользователем или ИТ-администратором предприятия, следуйте этим лучшим практикам:
+
+- **Перед покупкой устройства**: Убедитесь, что ваш оператор поддерживает eSIM и кроссплатформенный перенос.
+- **При обновлении устройств**: Используйте быстрый перенос eSIM – не нужно обращаться в службу поддержки.
+- **Перед поездкой за границу**: Заранее приобретите eSIM для данных, вручную установите APN и активируйте сразу после приземления.
+- **Для корпоративного развёртывания**: Свяжитесь с вашим оператором по поводу SM‑DP+ адреса и ёмкости предоставления, затем используйте MDM для бесконтактной активации.
+- **Напоминание о безопасности**: Прежде чем продать или отдать свой iPhone, удалите все eSIM в `Настройки` > `Сотовая связь` и уведомите своего оператора об отмене связанных планов.
+
+**Будущее уже здесь**: eSIM – это не только технологическая эволюция, но и революция в управлении цифровой идентичностью. iPhone 17 и Roami готовы обеспечить вам бесшовную глобальную связь.
+
+> 📎 **Связанные ресурсы на этом сайте:**
+> - [Полное руководство по устранению неполадок eSIM (16 реальных случаев)](/faq/esim-deep-troubleshooting-guide-2026/)
+> - [Кроссплатформенный перенос eSIM 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
+> - [Двойная eSIM не работает? 12 исправлений для iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+
+---
+
+> Эта статья основана на официальной технической документации Apple (2025–2026). Фактические функции могут отличаться в зависимости от политики оператора, региона и модели устройства.

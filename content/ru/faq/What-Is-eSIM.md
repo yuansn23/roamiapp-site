@@ -1,303 +1,303 @@
 ---
-title: "What Is eSIM? A Beginner’s Guide to Embedded SIM Cards"
-description: "New to eSIM? This beginner-friendly guide explains what an embedded SIM is, how it works on iPhone & iPad, security benefits vs physical SIM, compatibility list, and simple setup steps. Based on Apple official docs."
-keywords: ["what is eSIM", "eSIM definition", "how does eSIM work", "eSIM vs physical SIM", "Apple eSIM support", "eSIM benefits", "embedded SIM card", "eSIM beginner guide"]
+title: "Что такое eSIM? Руководство для начинающих по встроенным SIM-картам"
+description: "Впервые с eSIM? Это понятное для начинающих руководство объясняет, что такое встроенная SIM-карта, как она работает на iPhone и iPad, преимущества безопасности по сравнению с физической SIM, список совместимости и простые шаги по настройке. Основано на официальных документах Apple."
+keywords: ["что такое eSIM", "определение eSIM", "как работает eSIM", "eSIM против физической SIM", "поддержка eSIM Apple", "преимущества eSIM", "встроенная SIM-карта", "руководство для начинающих eSIM"]
 date: 2026-04-28T10:00:00Z
 lastmod: 2026-04-28T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "iPhone 17"]
+tags: ["eSIM", "iOS", "Android", "Устранение неполадок", "Настройка для путешествий", "iPhone 17"]
 toc: true
 
-# 站点 & SEO 基础硬编码配置
+# Базовые настройки сайта и SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# Текст UI / переводы (поддержка многоязычности)
 ui_text:
-  updated_on: "Updated on"
-  min_read: "min read"
-  toc: "Table of Contents"
+  updated_on: "Обновлено"
+  min_read: "мин чтения"
+  toc: "Содержание"
 
 breadcrumbs:
   home:
-    text: "Home"
+    text: "Главная"
     url: "/"
   parent:
-    text: "Help Center"
+    text: "Центр помощи"
     url: "/faq/"
 
-# 右侧：热门 eSIM 配置 (6个国家，1.99美金)
+# Справа: популярные eSIM (6 стран, 1.99 доллара)
 sidebar_popular:
-  title: "Popular eSIMs"
+  title: "Популярные eSIM"
   item_suffix: "eSIM"
   items:
-    - name: "United States"
+    - name: "США"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Germany"
+    - name: "Германия"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Europe"
+    - name: "Европа"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Turkey"
+    - name: "Турция"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japan"
+    - name: "Япония"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "China"
+    - name: "Китай"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置 (4个国家)
+# Справа: бесплатная eSIM (4 страны)
 sidebar_free:
-  title: "Claim Free eSIM"
+  title: "Получить бесплатную eSIM"
   icon: "🎁"
-  item_suffix: "Free eSIM"
-  item_subtitle: "Free eSIM"
+  item_suffix: "Бесплатная eSIM"
+  item_subtitle: "Бесплатная eSIM"
   items:
-    - name: "United Kingdom"
+    - name: "Великобритания"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
-    - name: "Germany"
+    - name: "Германия"
       flag: "/img/flags/de.svg"
       url: "/free-esim/"
-    - name: "Thailand"
+    - name: "Таиланд"
       flag: "/img/flags/th.svg"
       url: "/free-esim/"
-    - name: "Hong Kong"
+    - name: "Гонконг"
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右侧：热门问题配置 (5个问题)
+# Справа: популярные вопросы (5 вопросов)
 sidebar_questions:
-  title: "Popular Questions"
+  title: "Популярные вопросы"
   items:
-    - question: "What is eSIM activation and how does it work?"
+    - question: "Что такое активация eSIM и как она работает?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "How to activate an eSIM?"
+    - question: "Как активировать eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "How to activate eSIM on iPhone (All Models)?"
+    - question: "Как активировать eSIM на iPhone (все модели)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Latest eSIM Compatibility List"
+    - question: "Актуальный список совместимости eSIM"
       url: "/compatibility/"
 ---
 
 
 
-> If you’ve bought a new iPhone or iPad recently, you’ve probably heard the term **eSIM**. It sounds technical, but it’s actually a simple and powerful upgrade from the plastic SIM cards we’ve used for decades. This guide explains everything a beginner needs to know – based directly on Apple’s official documentation. No jargon, no confusion.
+> Если вы недавно купили новый iPhone или iPad, вы, вероятно, слышали термин **eSIM**. Это звучит технически, но на самом деле это простое и мощное улучшение по сравнению с пластиковыми SIM-картами, которые мы использовали десятилетиями. Это руководство объясняет всё, что нужно знать новичку – основываясь непосредственно на официальной документации Apple. Никакого жаргона, никакой путаницы.
 
 ---
 
-## 📌 Quick Takeaways
+## 📌 Краткие выводы
 
-- **eSIM stands for “embedded SIM”** – a digital SIM built inside your device.
-- **No physical card** – you activate a cellular plan by scanning a QR code or using an app.
-- **Safer** – eSIMs cannot be removed or cloned, protecting you from SIM swap attacks.
-- **More convenient** – switch carriers or add travel plans instantly, no waiting for mail.
-- **Works on most newer iPhones and iPads** – from iPhone XS and later, and many iPad models.
-
----
-
-## 1. What Exactly Is an eSIM?
-
-**eSIM** (short for *embedded Subscriber Identity Module*) is a digital SIM card that is built directly into your iPhone or iPad’s motherboard. It does the same job as the physical plastic SIM card you’re used to – it identifies you to your carrier’s network – but without the need to insert or swap a tiny piece of plastic.
-
-### The Old Way: Physical SIM
-- A removable card that stores your phone number and carrier info.
-- Must be inserted into a SIM tray with a paperclip tool.
-- To change carriers, you need a new card.
-
-### The New Way: eSIM
-- A software-based profile stored in a chip called the **eUICC** (embedded Universal Integrated Circuit Card).
-- No tray, no tool, no card to lose.
-- To change carriers, you simply download a new eSIM profile over Wi-Fi.
-
-Think of eSIM like a **digital wallet for your phone number** – just as Apple Pay replaces physical credit cards, eSIM replaces physical SIM cards.
-
-> 🔗 **Already comfortable with the basics?** Our **[eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/)** covers advanced problems like activation failures, no service, and transfer errors.
+- **eSIM расшифровывается как «встроенная SIM»** – цифровая SIM-карта, встроенная внутрь вашего устройства.
+- **Нет физической карты** – вы активируете тариф, отсканировав QR-код или используя приложение.
+- **Безопаснее** – eSIM нельзя извлечь или клонировать, что защищает от атак с подменой SIM (SIM swap).
+- **Удобнее** – мгновенно меняйте оператора или добавляйте туристические тарифы, не дожидаясь доставки.
+- **Работает на большинстве новых iPhone и iPad** – начиная с iPhone XS и новее, а также многих моделях iPad.
 
 ---
 
-## 2. How Does eSIM Work? (Simple Explanation)
+## 1. Что именно такое eSIM?
 
-Behind the scenes, eSIM follows a global standard set by the **GSMA** (the industry group that represents mobile carriers). Here’s the simplified flow:
+**eSIM** (сокращение от *embedded Subscriber Identity Module*) – это цифровая SIM-карта, встроенная непосредственно в материнскую плату вашего iPhone или iPad. Она выполняет ту же работу, что и пластиковая SIM-карта, к которой вы привыкли – идентифицирует вас в сети оператора – но без необходимости вставлять или менять маленький кусочек пластика.
 
-1. **Your carrier creates a digital profile** for your phone number. This profile is encrypted and stored on their secure server.
-2. **You install the profile** on your device – usually by scanning a QR code, tapping an activation link, or using your carrier’s app.
-3. **The profile is stored on your device’s eUICC chip** – a tamper-proof component that cannot be removed or cloned.
-4. **Your device communicates with the carrier’s network** using the eSIM profile, exactly like a physical SIM.
+### Старый способ: физическая SIM
+- Съёмная карта, которая хранит ваш номер телефона и данные оператора.
+- Для установки нужна скрепка (инструмент для извлечения SIM).
+- Чтобы сменить оператора, нужна новая карта.
 
-Because the profile is digital, you can store **multiple eSIMs** on one device (the iPhone can hold 8 or more) and switch between them in Settings. You can also have **two active lines simultaneously** – for example, a personal number and a work number, or a home carrier and a travel eSIM.
+### Новый способ: eSIM
+- Программный профиль, хранящийся в чипе **eUICC** (встроенная универсальная интегральная схема).
+- Нет лотка, нет инструмента, нет карты, которую можно потерять.
+- Чтобы сменить оператора, вы просто загружаете новый профиль eSIM через Wi-Fi.
 
----
+Представьте eSIM как **цифровой кошелёк для вашего номера телефона** – подобно тому, как Apple Pay заменяет физические кредитные карты, eSIM заменяет физические SIM-карты.
 
-## 3. eSIM vs Physical SIM: The Comparison Table
-
-| Feature | Physical SIM Card | eSIM |
-|---------|-------------------|------|
-| **Physical component** | Removable plastic card | Embedded chip (non‑removable) |
-| **Activation** | Insert card; may require carrier setup | Scan QR code or use carrier app |
-| **Switching carriers** | Get new card (wait for mail or visit store) | Download new profile instantly |
-| **Multiple numbers** | One per SIM; swap cards | Store 8+ profiles, switch in Settings |
-| **Dual active lines** | Requires two SIM slots | Supported with dual eSIM (iPhone 13+) |
-| **Loss/theft risk** | SIM can be removed to disable tracking | Cannot be removed; still trackable |
-| **Clone/tamper risk** | Possible (SIM swapping attacks) | Impossible (GSMA SGP.21 standard) |
-| **Environmental impact** | Plastic, packaging, shipping | Zero physical waste |
-
-**Verdict for beginners**: eSIM is simply **more convenient, more secure, and more flexible**. Once you use it, you’ll never want to go back to plastic cards.
+> 🔗 **Уже знакомы с основами?** Наше **[Руководство по глубокому устранению неполадок eSIM (16 реальных случаев)](/faq/esim-deep-troubleshooting-guide-2026/)** охватывает продвинутые проблемы, такие как ошибки активации, отсутствие обслуживания и сбои переноса.
 
 ---
 
-## 4. Which Apple Devices Support eSIM?
+## 2. Как работает eSIM? (Простое объяснение)
 
-According to Apple’s official documentation, eSIM is supported on a wide range of iPhones and iPads. Here’s the complete list for 2026:
+За кулисами eSIM следует глобальному стандарту, установленному **GSMA** (отраслевая группа, представляющая мобильных операторов). Вот упрощённая схема:
 
-### iPhones with eSIM Support
+1. **Ваш оператор создаёт цифровой профиль** для вашего номера телефона. Этот профиль зашифрован и хранится на его защищённом сервере.
+2. **Вы устанавливаете профиль** на своё устройство – обычно сканируя QR-код, нажимая ссылку активации или используя приложение оператора.
+3. **Профиль хранится на чипе eUICC вашего устройства** – защищённом от взлома компоненте, который нельзя извлечь или клонировать.
+4. **Ваше устройство взаимодействует с сетью оператора** с помощью профиля eSIM, точно так же, как с физической SIM.
 
-| Model | eSIM Support | Dual eSIM? | Physical SIM Tray? |
-|-------|--------------|------------|--------------------|
-| iPhone 17, 17 Pro, Pro Max (US) | ✅ eSIM only | Yes | No |
-| iPhone 17, 17 Pro, Pro Max (International) | ✅ eSIM | Yes | Yes (1 nano‑SIM) |
-| iPhone 17 Air (Global) | ✅ eSIM only | Yes | No |
-| iPhone 16 all models | ✅ eSIM | Yes (US: eSIM only; Intl: +SIM tray) | Varies |
-| iPhone 15 all models | ✅ eSIM | Yes | Varies |
-| iPhone 14 all models | ✅ eSIM | Yes | Varies |
-| iPhone 13 all models | ✅ eSIM | Yes | Yes |
-| iPhone 12 all models | ✅ eSIM | No (single eSIM) | Yes |
-| iPhone 11, XS, XR, SE (2nd & 3rd gen) | ✅ eSIM | No | Yes |
-
-> **Note:** US models from iPhone 14 onward have **no physical SIM tray** – they are eSIM only.
-
-### iPads with eSIM Support (Cellular models)
-- 13” and 11” iPad Pro (M4, M5) – eSIM only, no SIM tray
-- 13” and 11” iPad Air (M2, M3, M4) – eSIM only
-- iPad mini (A17 Pro) – eSIM only
-- iPad (A16) – eSIM only
-- Older iPad Pro, Air, mini (3rd gen and later) – single eSIM + physical SIM
-
-> 📱 **Upgrading to an iPhone 17?** Our **[iPhone 17 eSIM Complete Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** walks you through activation step by step.
+Поскольку профиль цифровой, вы можете хранить **несколько eSIM** на одном устройстве (iPhone может хранить 8 и более) и переключаться между ними в настройках. Вы также можете иметь **две активные линии одновременно** – например, личный номер и рабочий номер, или домашнего оператора и туристическую eSIM.
 
 ---
 
-## 5. Why Is eSIM More Secure? (Key Benefits)
+## 3. eSIM против физической SIM: сравнительная таблица
 
-Apple highlights several security advantages in their official documentation:
+| Характеристика | Физическая SIM-карта | eSIM |
+|----------------|----------------------|------|
+| **Физический компонент** | Съёмная пластиковая карта | Встроенный чип (несъёмный) |
+| **Активация** | Вставить карту; может потребоваться настройка у оператора | Отсканировать QR-код или использовать приложение оператора |
+| **Смена оператора** | Получить новую карту (ждать доставку или идти в магазин) | Загрузить новый профиль мгновенно |
+| **Несколько номеров** | Один на SIM; менять карты | Хранить 8+ профилей, переключаться в настройках |
+| **Две активные линии** | Требует два слота для SIM | Поддерживается с двойной eSIM (iPhone 13+) |
+| **Риск потери/кражи** | SIM можно извлечь, чтобы отключить отслеживание | Нельзя извлечь; отслеживание сохраняется |
+| **Риск клонирования/взлома** | Возможно (атаки SIM swap) | Невозможно (стандарт GSMA SGP.21) |
+| **Воздействие на окружающую среду** | Пластик, упаковка, доставка | Нулевые физические отходы |
 
-### 5.1 No Physical Removal
-With a physical SIM card, a thief can pop it out of your lost or stolen phone, insert it into their own device, and receive your SMS verification codes (including 2FA codes). **eSIM cannot be physically removed** – your number stays tied to your device, and “Find My” remains active.
-
-### 5.2 No Cloning or Tampering
-The GSMA’s eSIM technical specification **SGP.21** was designed to prevent exporting a profile from one eUICC to another. Unlike older SIM cards that can be cloned with cheap hardware, eSIM is virtually impossible to clone or modify.
-
-### 5.3 Enterprise Control
-Using device management (MDM), companies can prevent users from adding or removing eSIMs (`AllowESIMModification` restriction). This ensures that a corporate phone number stays on the device and cannot be accidentally transferred.
-
-For advanced dual‑SIM security issues, check out our **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** guide.
-
----
-
-## 6. How to Set Up eSIM on Your iPhone or iPad
-
-Setting up eSIM is surprisingly simple. Here are the most common methods:
-
-### Method 1: Quick Transfer (iPhone to iPhone)
-- When setting up a new iPhone, place it near your old iPhone.
-- Follow the on‑screen prompt to transfer your existing eSIM.
-- No carrier contact needed – it just works.
-
-### Method 2: Scan a QR Code
-1. Open **Settings** → **Cellular** → **Add eSIM**.
-2. Scan the QR code provided by your carrier.
-3. Tap **Add Cellular Plan** and wait for activation.
-
-### Method 3: Carrier App (e.g., Roami)
-- Download your carrier’s app (Roami, T‑Mobile, Verizon, etc.).
-- Buy a plan and tap “Install eSIM” – the app installs it automatically.
-
-### Method 4: Transfer from Android (iOS 26+)
-- If you’re switching from an Android phone, you can now transfer your eSIM directly – no need to call your carrier. See the **[eSIM Cross‑Platform Transfer 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** guide for step‑by‑step instructions.
+**Вердикт для начинающих**: eSIM просто **удобнее, безопаснее и гибче**. Как только вы её используете, вы больше никогда не захотите возвращаться к пластиковым картам.
 
 ---
 
-## 7. Top Reasons to Switch to eSIM (Especially for Travel)
+## 4. Какие устройства Apple поддерживают eSIM?
 
-### 7.1 Instant Travel Connectivity
-No more hunting for a SIM card kiosk at the airport. Before you even leave home, you can purchase a local data eSIM for your destination and activate it when you land. Services like Roami offer plans for 190+ countries.
+Согласно официальной документации Apple, eSIM поддерживается на широком спектре iPhone и iPad. Вот полный список на 2026 год:
 
-### 7.2 Keep Your Home Number Active
-With dual eSIM, you can keep your home carrier active for calls and SMS while using a cheap travel eSIM for data. iOS 26 even has a **smart travel assistant** that prompts you to enable your travel eSIM upon arrival and automatically switches back when you return home.
+### iPhone с поддержкой eSIM
 
-### 7.3 No More Roaming Surprises
-Travel eSIMs have clear, upfront pricing – no “daily roaming charges” or “fair usage” throttling that often comes with international roaming from your home carrier.
+| Модель | Поддержка eSIM | Двойная eSIM? | Лоток для физической SIM? |
+|--------|----------------|---------------|---------------------------|
+| iPhone 17, 17 Pro, Pro Max (США) | ✅ только eSIM | Да | Нет |
+| iPhone 17, 17 Pro, Pro Max (международные) | ✅ eSIM | Да | Да (1 nano‑SIM) |
+| iPhone 17 Air (глобальный) | ✅ только eSIM | Да | Нет |
+| iPhone 16 все модели | ✅ eSIM | Да (США: только eSIM; междунар.: +SIM-лоток) | По-разному |
+| iPhone 15 все модели | ✅ eSIM | Да | По-разному |
+| iPhone 14 все модели | ✅ eSIM | Да | По-разному |
+| iPhone 13 все модели | ✅ eSIM | Да | Да |
+| iPhone 12 все модели | ✅ eSIM | Нет (одна eSIM) | Да |
+| iPhone 11, XS, XR, SE (2-го и 3-го поколения) | ✅ eSIM | Нет | Да |
 
----
+> **Примечание:** Модели для США, начиная с iPhone 14, **не имеют физического лотка для SIM** – они используют только eSIM.
 
-## 8. Common Beginner Questions (FAQ)
+### iPad с поддержкой eSIM (сотовые модели)
+- 13” и 11” iPad Pro (M4, M5) – только eSIM, без лотка для SIM
+- 13” и 11” iPad Air (M2, M3, M4) – только eSIM
+- iPad mini (A17 Pro) – только eSIM
+- iPad (A16) – только eSIM
+- Более старые iPad Pro, Air, mini (3-го поколения и новее) – одна eSIM + физическая SIM
 
-**Q1: Will my phone still work if I delete the eSIM?**  
-A: Yes, but you will lose cellular connection on that line. You can re‑add it later by scanning the QR code again (if still valid) or contacting your carrier.
-
-**Q2: Can I use eSIM on multiple devices at the same time?**  
-A: No, an eSIM is tied to one device. If you want to use the same number on another device (e.g., an iPad), you need a separate “Number Share” feature, which some carriers support.
-
-**Q3: Does eSIM drain more battery than physical SIM?**  
-A: No – eSIM actually consumes slightly less power because there’s no physical card reader. The difference is negligible (1‑2%).
-
-**Q4: I dropped my iPhone, and it broke. Can I get my eSIM back?**  
-A: Yes. Your eSIM profile is stored with your carrier. On a new device, you can re‑download the profile by contacting your carrier or using their app. Unlike a physical SIM, you never need a replacement card.
-
-**Q5: Is eSIM available in my country?**  
-A: eSIM is supported by hundreds of carriers worldwide. Apple provides a list of supported carriers for each country on their website. Even if your home carrier doesn’t support eSIM, you can still buy travel eSIMs from global providers.
-
-**Q6: I’m not very technical. Is eSIM hard to use?**  
-A: Not at all. Most eSIM activations take less than 60 seconds. If you can scan a QR code or tap a button in an app, you can use eSIM.
+> 📱 **Переход на iPhone 17?** Наше **[Полное руководство по iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** проведёт вас по активации шаг за шагом.
 
 ---
 
-## 9. The Future: eSIM-Only Devices
+## 5. Почему eSIM безопаснее? (Ключевые преимущества)
 
-Apple has already moved to **eSIM‑only** for US iPhone models (14, 15, 16, and 17). The iPhone 17 Air is the first Apple device with **no SIM tray anywhere in the world**, including China. This trend will continue – physical SIM slots are disappearing.
+Apple выделяет несколько преимуществ безопасности в своей официальной документации:
 
-What does this mean for beginners?
-- You no longer need a SIM ejector tool.
-- Switching phones becomes faster and less error‑prone.
-- Your next phone might not have a tray at all – so learning eSIM now is a smart move.
+### 5.1 Невозможность физического извлечения
+С физической SIM-картой вор может вытащить её из потерянного или украденного телефона, вставить в своё устройство и получать ваши SMS-коды подтверждения (включая коды двухфакторной аутентификации). **eSIM нельзя извлечь физически** – ваш номер остаётся привязанным к устройству, и функция «Локатор» остаётся активной.
 
----
+### 5.2 Отсутствие клонирования или взлома
+Техническая спецификация GSMA для eSIM **SGP.21** была разработана для предотвращения экспорта профиля с одного eUICC на другой. В отличие от старых SIM-карт, которые можно клонировать с помощью дешёвого оборудования, eSIM практически невозможно клонировать или модифицировать.
 
-## 10. Conclusion: Why You Should Make the Switch Today
+### 5.3 Контроль на предприятии
+С помощью управления устройствами (MDM) компании могут запретить пользователям добавлять или удалять eSIM (ограничение `AllowESIMModification`). Это гарантирует, что корпоративный номер телефона остаётся на устройстве и не может быть случайно перенесён.
 
-If you’re still using a physical SIM card, you’re missing out on:
-- **Convenience** – add a new plan in under a minute, any time.
-- **Security** – protect yourself from SIM swap attacks.
-- **Flexibility** – travel without roaming fees, keep two numbers active.
-- **Future‑proofing** – eSIM is the standard for all new devices.
-
-**Next steps for beginners:**
-1. Check if your iPhone or iPad supports eSIM (see Section 4).
-2. Ask your carrier if they offer eSIM (most major carriers do).
-3. Or skip the carrier entirely – buy a travel eSIM from Roami and try it on your next trip.
-
-> 📎 **More help from Roami:**
-> - [eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [iPhone 17 eSIM Complete Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
-> - [eSIM Cross‑Platform Transfer 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-> - [Dual eSIM Not Working? 12 Fixes for iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+Для продвинутых проблем безопасности с двойной SIM ознакомьтесь с нашим руководством **[Двойная eSIM не работает? 12 исправлений для iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
 
 ---
 
-*Based on Apple official technical documentation (2025–2026). eSIM compatibility may vary by carrier and region.*
+## 6. Как настроить eSIM на iPhone или iPad
+
+Настройка eSIM удивительно проста. Вот наиболее распространённые методы:
+
+### Способ 1: Быстрая передача (iPhone на iPhone)
+- При настройке нового iPhone поместите его рядом со старым iPhone.
+- Следуйте инструкции на экране, чтобы перенести существующую eSIM.
+- Не нужно обращаться к оператору – всё работает само.
+
+### Способ 2: Сканирование QR-кода
+1. Откройте **Настройки** → **Сотовая связь** → **Добавить eSIM**.
+2. Отсканируйте QR-код, предоставленный вашим оператором.
+3. Нажмите **Добавить тариф** и дождитесь активации.
+
+### Способ 3: Приложение оператора (например, Roami)
+- Скачайте приложение вашего оператора (Roami, T‑Mobile, Verizon и т.д.).
+- Купите тариф и нажмите «Установить eSIM» – приложение установит её автоматически.
+
+### Способ 4: Перенос с Android (iOS 26+)
+- Если вы переходите с телефона Android, теперь вы можете перенести свою eSIM напрямую – без необходимости звонить оператору. См. руководство **[Кросс-платформенный перенос eSIM 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** для пошаговых инструкций.
+
+---
+
+## 7. Главные причины перейти на eSIM (особенно для путешествий)
+
+### 7.1 Мгновенная связь в путешествиях
+Больше не нужно искать киоск с SIM-картами в аэропорту. Ещё до выезда из дома вы можете купить местную eSIM для данных для вашего пункта назначения и активировать её по прибытии. Такие сервисы, как Roami, предлагают тарифы для 190+ стран.
+
+### 7.2 Сохраняйте домашний номер активным
+С помощью двойной eSIM вы можете оставить домашнего оператора активным для звонков и SMS, используя дешёвую туристическую eSIM для данных. В iOS 26 даже есть **умный туристический помощник**, который предлагает включить вашу туристическую eSIM по прибытии и автоматически переключается обратно, когда вы возвращаетесь домой.
+
+### 7.3 Никаких роуминговых сюрпризов
+У туристических eSIM прозрачные цены – нет «ежедневных роуминговых сборов» или ограничений «честного использования», которые часто встречаются при международном роуминге от вашего домашнего оператора.
+
+---
+
+## 8. Часто задаваемые вопросы для начинающих (FAQ)
+
+**В1: Будет ли мой телефон работать, если я удалю eSIM?**  
+О: Да, но вы потеряете соту на этой линии. Вы можете добавить её позже, снова отсканировав QR-код (если он ещё действителен) или связавшись с оператором.
+
+**В2: Могу ли я использовать одну eSIM на нескольких устройствах одновременно?**  
+О: Нет, eSIM привязана к одному устройству. Если вы хотите использовать тот же номер на другом устройстве (например, на iPad), вам нужна отдельная функция «Общий номер», которую поддерживают некоторые операторы.
+
+**В3: Разряжает ли eSIM батарею быстрее, чем физическая SIM?**  
+О: Нет – на самом деле eSIM потребляет немного меньше энергии, потому что нет физического считывателя карт. Разница незначительна (1‑2%).
+
+**В4: Я уронил iPhone, и он сломался. Могу ли я восстановить свою eSIM?**  
+О: Да. Ваш профиль eSIM хранится у оператора. На новом устройстве вы можете загрузить профиль повторно, связавшись с оператором или используя его приложение. В отличие от физической SIM, вам никогда не нужна замена карты.
+
+**В5: Доступна ли eSIM в моей стране?**  
+О: eSIM поддерживается сотнями операторов по всему миру. Apple предоставляет список поддерживаемых операторов для каждой страны на своём веб-сайте. Даже если ваш домашний оператор не поддерживает eSIM, вы всё равно можете купить туристические eSIM у глобальных провайдеров.
+
+**В6: Я не очень технически подкован. Сложно ли пользоваться eSIM?**  
+О: Совсем нет. Большинство активаций eSIM занимают менее 60 секунд. Если вы можете сканировать QR-код или нажимать кнопку в приложении, вы сможете пользоваться eSIM.
+
+---
+
+## 9. Будущее: устройства только с eSIM
+
+Apple уже перешла на **только eSIM** для моделей iPhone в США (14, 15, 16 и 17). iPhone 17 Air – первое устройство Apple **без лотка для SIM где бы то ни было в мире**, включая Китай. Эта тенденция продолжится – физические слоты для SIM исчезают.
+
+Что это значит для начинающих?
+- Вам больше не нужен инструмент для извлечения SIM.
+- Смена телефонов становится быстрее и менее подвержена ошибкам.
+- Ваш следующий телефон может вообще не иметь лотка – поэтому изучать eSIM сейчас – разумный шаг.
+
+---
+
+## 10. Заключение: почему вам стоит перейти на eSIM уже сегодня
+
+Если вы всё ещё пользуетесь физической SIM-картой, вы упускаете:
+- **Удобство** – добавить новый тариф менее чем за минуту, в любое время.
+- **Безопасность** – защитите себя от атак SIM swap.
+- **Гибкость** – путешествуйте без роуминговых сборов, держите два номера активными.
+- **Перспективность** – eSIM является стандартом для всех новых устройств.
+
+**Следующие шаги для начинающих:**
+1. Проверьте, поддерживает ли ваш iPhone или iPad eSIM (см. раздел 4).
+2. Спросите своего оператора, предлагает ли он eSIM (большинство крупных операторов предлагают).
+3. Или полностью обойдите оператора – купите туристическую eSIM у Roami и опробуйте её в следующей поездке.
+
+> 📎 **Больше помощи от Roami:**
+> - [Руководство по глубокому устранению неполадок eSIM (16 реальных случаев)](/faq/esim-deep-troubleshooting-guide-2026/)
+> - [Полное руководство по iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
+> - [Кросс-платформенный перенос eSIM 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
+> - [Двойная eSIM не работает? 12 исправлений для iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+
+---
+
+*Основано на официальной технической документации Apple (2025–2026). Совместимость eSIM может различаться в зависимости от оператора и региона.*

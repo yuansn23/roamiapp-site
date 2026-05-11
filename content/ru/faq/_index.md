@@ -1,232 +1,243 @@
 ---
-title: "Help Center"
-description: "Find answers to your questions about eSIM setup, usage, and claim free eSIM trials for US, UK, Japan, and global networks."
+title: "Центр помощи"
+description: "Найдите ответы на вопросы о настройке eSIM, использовании и получении бесплатных пробных eSIM для сетей США, Великобритании, Японии и по всему миру."
 outputs:
   - HTML
   - Sitemap
   - FaqSitemap
 
 seo:
-  title: "Roami eSIM Frequently Asked Questions | Activation, Usage Guide"
-  description: "Find step-by-step answers for eSIM setup, troubleshooting, and learn how to get free eSIM trials for USA, UK, Japan, China, and more. Instant support."
-  keywords: "eSIM, travel eSIM, free eSIM, free eSIM trial, free USA eSIM, free Japan eSIM, eSIM setup, UK eSIM setup, help center, Roami, 2026 eSIM guide"
+  title: "Часто задаваемые вопросы о Roami eSIM | Руководство по активации и использованию"
+  description: "Найдите пошаговые ответы по настройке eSIM, устранению неполадок и узнайте, как получить бесплатные пробные eSIM для США, Великобритании, Японии, Китая и других стран. Мгновенная поддержка."
+  keywords: "eSIM, туристическая eSIM, бесплатная eSIM, бесплатная пробная eSIM, бесплатная eSIM США, бесплатная eSIM Япония, настройка eSIM, настройка eSIM Великобритания, центр помощи, Roami, руководство 2026"
 
 hero:
-  title: "Hello, how can we help?"
-  subtitle: "Search over 200+ guides on eSIM setup, troubleshooting, and free network trials across the globe."
+  title: "Здравствуйте, чем мы можем помочь?"
+  subtitle: "Найдите более 200 руководств по настройке eSIM, устранению неполадок и бесплатным пробным сетям по всему миру."
 
 breadcrumbs:
   home:
-    text: "Home"
+    text: "Главная"
     url: "/"
   parent:
-    text: "Help Center"
+    text: "Центр помощи"
     url: "/faq/"
 
-# 8个核心国家的免费 eSIM 矩阵
+# Матрица бесплатных eSIM для 8 основных стран
 free_esims:
-  - country: "United States"
+  - country: "Соединенные Штаты"
     code: "usa"
     emoji: "🇺🇸"
     url: "/free-esim/"
-    desc: "Free United States eSIM trial for travel"
-  - country: "China"
+    desc: "Бесплатная пробная eSIM для путешествий в США"
+  - country: "Китай"
     code: "cn"
     emoji: "🇨🇳"
     url: "/free-esim/"
-    desc: "Free China eSIM network test"
-  - country: "United Kingdom"
+    desc: "Бесплатное тестирование сети eSIM в Китае"
+  - country: "Великобритания"
     code: "uk"
     emoji: "🇬🇧"
     url: "/free-esim/"
-    desc: "Free United Kingdom eSIM for tourists"
-  - country: "Turkey"
+    desc: "Бесплатная eSIM для туристов в Великобритании"
+  - country: "Турция"
     code: "tr"
     emoji: "🇹🇷"
     url: "/free-esim/"
-    desc: "Free Turkey eSIM travel trial"
-  - country: "Germany"
+    desc: "Бесплатная пробная eSIM для путешествий в Турцию"
+  - country: "Германия"
     code: "de"
     emoji: "🇩🇪"
     url: "/free-esim/"
-    desc: "Free Germany eSIM data"
-  - country: "Australia"
+    desc: "Бесплатные данные eSIM для Германии"
+  - country: "Австралия"
     code: "au"
     emoji: "🇦🇺"
     url: "/free-esim/"
-    desc: "Free Australia eSIM connection"
-  - country: "Canada"
+    desc: "Бесплатное подключение eSIM в Австралии"
+  - country: "Канада"
     code: "ca"
     emoji: "🇨🇦"
     url: "/free-esim/"
-    desc: "Free Canada eSIM for visitors"
-  - country: "Japan"
+    desc: "Бесплатная eSIM для посетителей Канады"
+  - country: "Япония"
     code: "jp"
     emoji: "🇯🇵"
     url: "/free-esim/"
-    desc: "Free Japan eSIM travel test"
+    desc: "Бесплатное тестирование eSIM для путешествий в Японию"
 
-# 全局 UI 文本配置 (将所有隐藏在 HTML 中的无障碍文本、前缀后缀全部提取于此)
+# Глобальная конфигурация UI текста (все скрытые в HTML тексты доступности, префиксы и суффиксы извлечены сюда)
 ui:
-  breadcrumb_home: "Home"
-  breadcrumb_current: "Help Center"
-  search_placeholder: "e.g., How to install eSIM or How to get a free USA eSIM?"
-  search_aria_label: "Search FAQs"
-  top_questions_title: "Top Questions"
-  view_answer: "View Answer"
-  sidebar_title: "Help Categories"
-  sidebar_aria_label: "FAQ Sidebar"
-  nav_aria_label: "FAQ Categories"
-  main_content_aria_label: "FAQ Content"
-  no_results_title: "No results found"
-  no_results_desc: "Please try different keywords or browse the categories on the left."
-  last_updated: "Last updated:"
-  default_snippet: "Here is a brief answer or preview of the steps. Click the link below to view the complete guide."
-  read_full_guide: "View Details"
-  read_full_guide_aria_prefix: "Read full guide for:"
-  read_more_schema: "Read more"
-  claim_free_trial: "Claim Free Trial"
-  free_esim_trial_title_suffix: "Free eSIM Trial"
-  free_esim_suffix: "Free eSIM"
-  esim_flag_alt_suffix: "eSIM flag"
-  free_esim_js_keyword: "free esim trial"
+  breadcrumb_home: "Главная"
+  breadcrumb_current: "Центр помощи"
+  search_placeholder: "Например: Как установить eSIM или Как получить бесплатную eSIM для США?"
+  search_aria_label: "Поиск по ЧАВО"
+  top_questions_title: "Популярные вопросы"
+  view_answer: "Посмотреть ответ"
+  sidebar_title: "Категории помощи"
+  sidebar_aria_label: "Боковая панель ЧАВО"
+  nav_aria_label: "Категории ЧАВО"
+  main_content_aria_label: "Содержимое ЧАВО"
+  no_results_title: "Ничего не найдено"
+  no_results_desc: "Пожалуйста, попробуйте другие ключевые слова или просмотрите категории слева."
+  last_updated: "Последнее обновление:"
+  default_snippet: "Краткий ответ или предварительный просмотр шагов. Нажмите на ссылку ниже, чтобы просмотреть полное руководство."
+  read_full_guide: "Подробнее"
+  read_full_guide_aria_prefix: "Прочитать полное руководство для:"
+  read_more_schema: "Читать далее"
+  claim_free_trial: "Получить бесплатную пробную версию"
+  free_esim_trial_title_suffix: "Бесплатная пробная eSIM"
+  free_esim_suffix: "Бесплатная eSIM"
+  esim_flag_alt_suffix: "Флаг eSIM"
+  free_esim_js_keyword: "бесплатная пробная eSIM"
 
-# 侧边栏专属推广模块配置
+# Конфигурация рекламного модуля боковой панели
 sidebar_promo:
-  title: "Free eSIM Trials"
-  desc: "Test our network with 0 cost. Available in Top destinations. No credit card required."
-  btn_text: "View All Free eSIM"
+  title: "Бесплатные пробные eSIM"
+  desc: "Протестируйте нашу сеть бесплатно. Доступно в популярных направлениях. Без необходимости вводить данные карты."
+  btn_text: "Посмотреть все бесплатные eSIM"
   url: "/free-esim/"
   icon: "🎁"
 
-# FAQ 列表中针对 Free eSIM 的特殊注入区块配置
+# Специальная вставка для Free eSIM в списке ЧАВО
 free_esim_promo:
-  question: "Which countries are available for the Free eSIM trial?"
-  schema_answer: "We currently offer completely free eSIM trials in top destinations including USA, UK, Japan, and more. You can test our network with 0 cost, and no credit card is required. <a href=\"/free-esim/\">Claim yours here</a>."
-  html_desc: "We currently offer completely free eSIM trials in the following top destinations. You can test our network with 0 cost, and no credit card is required. Select a country below to claim yours:"
-  box_title: "Claim Your Free eSIM Trial"
-  see_all: "view ALL Free eSIM"
+  question: "Для каких стран доступна бесплатная пробная eSIM?"
+  schema_answer: "В настоящее время мы предлагаем полностью бесплатные пробные eSIM в популярных направлениях, включая США, Великобританию, Японию и другие. Вы можете протестировать нашу сеть бесплатно, без необходимости вводить данные карты. <a href=\"/free-esim/\">Получите свою здесь</a>."
+  html_desc: "В настоящее время мы предлагаем полностью бесплатные пробные eSIM в следующих популярных направлениях. Вы можете протестировать нашу сеть бесплатно, без необходимости вводить данные карты. Выберите страну ниже, чтобы получить свою:"
+  box_title: "Получите бесплатную пробную eSIM"
+  see_all: "Посмотреть ВСЕ бесплатные eSIM"
   see_all_url: "/free-esim/"
 
 related_products:
-  title: "Related eSIM Plans"
-  subtitle: "Stay connected wherever you go. Choose from our most popular local and regional eSIM plans with instant delivery and zero roaming fees."
+  title: "Связанные тарифы eSIM"
+  subtitle: "Оставайтесь на связи, где бы вы ни находились. Выберите наши самые популярные местные и региональные тарифы eSIM с мгновенной доставкой и нулевыми роуминговыми сборами."
   items:
-  - name: United States eSIM
+  - name: eSIM США
+    slug: united-states-esim
     flag: /img/flags/us.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: United Kingdom eSIM
+  - name: eSIM Великобритания
+    slug: united-kingdom-esim
     flag: /img/flags/gb.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: true
-  - name: Europe eSIM
+  - name: eSIM Европа
+    slug: europe-esim
     flag: /img/flags/eu.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: true
-  - name: Canada eSIM
+  - name: eSIM Канада
+    slug: canada-esim
     flag: /img/flags/ca.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Turkey eSIM
+  - name: eSIM Турция
+    slug: turkey-esim
     flag: /img/flags/tr.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: China eSIM
+  - name: eSIM Китай
+    slug: china-esim
     flag: /img/flags/cn.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Japan eSIM
+  - name: eSIM Япония
+    slug: japan-esim
     flag: /img/flags/jp.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
+  - name: eSIM Гонконг
+    slug: hong-kong-esim
     flag: /img/flags/hk.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: France eSIM
+  - name: eSIM Франция
+    slug: france-esim
     flag: /img/flags/fr.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Spain eSIM
+  - name: eSIM Испания
+    slug: spain-esim
     flag: /img/flags/es.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Germany eSIM
+  - name: eSIM Германия
+    slug: germany-esim
     flag: /img/flags/de.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Australia eSIM
+  - name: eSIM Австралия
+    slug: australia-esim
     flag: /img/flags/au.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-
 categories:
-  - name: "Free eSIM Trials"
-    description: "Learn how to claim a free eSIM to test network coverage in the USA, Japan, UK, and other top destinations before you buy."
+  - name: "Бесплатные пробные eSIM"
+    description: "Узнайте, как получить бесплатную eSIM, чтобы протестировать покрытие сети в США, Японии, Великобритании и других популярных направлениях перед покупкой."
     icon: "gift"
     questions:
-      - q: "Can I get a free eSIM trial for USA travel?"
-        snippet: "Yes! You can claim a free USA eSIM trial to test our 5G network coverage across the United States before purchasing a full data plan. It's completely free to try."
+      - q: "Могу ли я получить бесплатную пробную eSIM для поездки в США?"
+        snippet: "Да! Вы можете получить бесплатную пробную eSIM США, чтобы протестировать покрытие нашей сети 5G по всем Соединенным Штатам перед покупкой полного тарифа. Попробовать совершенно бесплатно."
         url: "/free-esim"
-      - q: "How to get a free eSIM for Japan, UK, or Canada?"
-        snippet: "We offer free eSIM data trials for top destinations including Japan, the UK, Canada, Australia, Germany, Turkey, and China. Simply visit our Free eSIM page to claim yours."
+      - q: "Как получить бесплатную eSIM для Японии, Великобритании или Канады?"
+        snippet: "Мы предлагаем бесплатные пробные eSIM для популярных направлений, включая Японию, Великобританию, Канаду, Австралию, Германию, Турцию и Китай. Просто посетите нашу страницу «Бесплатная eSIM», чтобы получить свою."
         url: "/free-esim"
-      - q: "Is the free eSIM truly free and how do I activate it?"
-        snippet: "Absolutely. Our free eSIMs for countries like Turkey, China, and Germany come with zero hidden fees. Just claim it, scan the QR code to install, and test the local network instantly."
+      - q: "Является ли бесплатная eSIM действительно бесплатной и как ее активировать?"
+        snippet: "Абсолютно. Наши бесплатные eSIM для таких стран, как Турция, Китай и Германия, не имеют скрытых платежей. Просто получите ее, отсканируйте QR-код для установки и мгновенно протестируйте локальную сеть."
         url: "/free-esim"
 
-  - name: "General eSIM Basics"
-    description: "Learn the fundamentals of eSIM technology and the universal activation process."
+  - name: "Основы eSIM"
+    description: "Изучите основы технологии eSIM и универсальный процесс активации."
     icon: "book-open"
     questions:
-      - q: "What is eSIM activation and how does it work?"
-        snippet: "eSIM activation is the process of downloading a digital SIM profile to your phone, allowing you to connect to a cellular network without a physical SIM card."
+      - q: "Что такое активация eSIM и как она работает?"
+        snippet: "Активация eSIM — это процесс загрузки цифрового SIM-профиля на ваш телефон, позволяющий подключиться к сотовой сети без физической SIM-карты."
         url: "/faq/What-is-eSIM-activation-and-how-does-it-work"
-      - q: "Dual eSIM Not Working? 12 Fixes for iPhone"
-        snippet: "Second eSIM showing “No Service”? Incoming calls go to voicemail? This guide covers CDMA voice fallback limits, T-ADS cache errors, battery drain fixes, and carrier lock checks. Works for iPhone 17, 16, and iOS 26. Dual physical SIM also covered"
+      - q: "Двойная eSIM не работает? 12 исправлений для iPhone"
+        snippet: "Вторая eSIM показывает «Нет обслуживания»? Входящие звонки уходят на голосовую почту? Это руководство охватывает ограничения отката CDMA голоса, ошибки кэша T-ADS, исправления разряда батареи и проверки блокировки оператора. Работает для iPhone 17, 16 и iOS 26. Также охвачена двойная физическая SIM."
         url: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone"
-      - q: "What Is eSIM? A Beginner’s Guide to Embedded SIM Cards"
-        snippet: "New to eSIM? This beginner-friendly guide explains what an embedded SIM is, how it works on iPhone & iPad, security benefits vs physical SIM, compatibility list, and simple setup steps. Based on Apple official docs."
+      - q: "Что такое eSIM? Руководство для начинающих по встроенным SIM-картам"
+        snippet: "Впервые с eSIM? Это понятное для начинающих руководство объясняет, что такое встроенная SIM, как она работает на iPhone и iPad, преимущества безопасности по сравнению с физической SIM, список совместимости и простые шаги по настройке. Основано на официальных документах Apple."
         url: "/faq/What-Is-eSIM"
-      - q: "Travel eSIM 2026: How to Avoid Roaming Fees & Stay Connected Abroad"
-        snippet: "Traveling abroad? Use a travel eSIM with iOS 26's smart assistant. Compare roaming vs local eSIM vs global data plans. Step-by-step activation, unlock check, and avoid bill shock. Save up to 90% on roaming."
+      - q: "Туристическая eSIM 2026: как избежать роуминговых сборов и оставаться на связи за границей"
+        snippet: "Путешествуете за границу? Используйте туристическую eSIM с интеллектуальным помощником iOS 26. Сравните роуминг, местную eSIM и глобальные тарифы данных. Пошаговая активация, проверка разблокировки и предотвращение высоких счетов. Экономьте до 90% на роуминге."
         url: "/faq/Travel-eSIM-2026-How-to-Avoid-Roaming-Fees-Stay-Connected-Abroad"
-      - q: "How-to-Transfer-eSIM-Between-iPhone-and-Android?"
-        snippet: "Three proven ways to transfer eSIM between iPhone and Android. Covers QR code transfer, manual SM-DP+ entry, and carrier app migration. Works for AT&T, T-Mobile, Verizon, EE, Orange, Telekom, Bell, Telus, au, Swisscom. Save time and avoid losing your number."
+      - q: "Как перенести eSIM между iPhone и Android?"
+        snippet: "Три проверенных способа переноса eSIM между iPhone и Android. Охватывает перенос по QR-коду, ручной ввод SM-DP+ и миграцию через приложение оператора. Работает для AT&T, T-Mobile, Verizon, EE, Orange, Telekom, Bell, Telus, au, Swisscom. Экономьте время и избегайте потери номера."
         url: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android"
-      - q: "eSIM Troubleshooting: 16 Fixes for iPhone & iPad (iOS 26)"
-        snippet: "Struggling with eSIM activation failures, no service, transfer errors, dual SIM conflicts, or iMessage not working? This guide covers 16 in-depth troubleshooting scenarios under iOS 26 / iPadOS 26, providing symptoms, root causes, and step-by-step fixes. Essential for IT admins and global travelers."
+      - q: "Устранение неполадок eSIM: 16 исправлений для iPhone и iPad (iOS 26)"
+        snippet: "Боретесь с ошибками активации eSIM, отсутствием обслуживания, ошибками переноса, конфликтами двойной SIM или неработающим iMessage? Это руководство охватывает 16 глубоких сценариев устранения неполадок в iOS 26 / iPadOS 26, предоставляя симптомы, коренные причины и пошаговые исправления. Необходимо для ИТ-администраторов и глобальных путешественников."
         url: "/faq/eSIM-Deep-Troubleshooting-Guide-2026"
-      - q: "How to activate an eSIM? (General Step-by-Step Guide)"
-        snippet: "To activate an eSIM, you generally need to go to your phone's cellular settings, select 'Add Data Plan', and scan the QR code provided by your carrier."
+      - q: "Как активировать eSIM? (Общее пошаговое руководство)"
+        snippet: "Чтобы активировать eSIM, вам обычно нужно зайти в настройки сотовой связи телефона, выбрать «Добавить тариф» и отсканировать QR-код, предоставленный вашим оператором."
         url: "/faq/how-to-activate-an-esim"
-      - q: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-        snippet: "As a leading expert in global connectivity, Roami has compiled the latest global iPhone 17 model distribution and usage guide for 2026."
+      - q: "Полное руководство 2026: решения по активации eSIM для iPhone 17"
+        snippet: "Как ведущий эксперт в области глобальной связи, Roami подготовил последнее руководство по распределению моделей iPhone 17 по всему миру и их использованию на 2026 год."
         url: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions"
 
-  - name: "Device-Specific Activation"
-    description: "Step-by-step guides for activating eSIMs on Apple, Samsung, and other compatible devices."
+  - name: "Активация на конкретных устройствах"
+    description: "Пошаговые руководства по активации eSIM на Apple, Samsung и других совместимых устройствах."
     icon: "smartphone"
     questions:
-      - q: "How to activate eSIM on iPhone (All Models)?"
-        snippet: "Go to Settings > Cellular > Add eSIM. Follow the on-screen prompts to scan your QR code or transfer your physical SIM to an eSIM seamlessly."
+      - q: "Как активировать eSIM на iPhone (все модели)?"
+        snippet: "Перейдите в Настройки > Сотовая связь > Добавить eSIM. Следуйте инструкциям на экране, чтобы отсканировать QR-код или бесшовно перенести физическую SIM на eSIM."
         url: "/faq/how-to-activate-esim-on-iphone"
 
-  - name: "Buying & Choosing eSIMs"
-    description: "Compare prices, find the best network coverage, and learn how to buy an eSIM online instantly."
+  - name: "Покупка и выбор eSIM"
+    description: "Сравните цены, найдите лучшее покрытие сети и узнайте, как купить eSIM онлайн мгновенно."
     icon: "shopping-cart"
     questions:
-      - q: "The Ultimate Guide to US eSIM in 2026: How to Choose the Best Plan?"
-        snippet: "Planning a trip to the US in 2026? This ultimate guide explains how to choose the best US eSIM plan for your travel, study, or business trip with top 5G coverage."
+      - q: "Полное руководство по eSIM США в 2026 году: как выбрать лучший тариф?"
+        snippet: "Планируете поездку в США в 2026 году? Это полное руководство объясняет, как выбрать лучший тариф eSIM США для вашей поездки, учебы или командировки с лучшим покрытием 5G."
         url: "/faq/The-Ultimate-Guide-to-US-eSIM-in-2026-How-to-Choose-the-Best-Plan"
-      - q: "How to Buy a UK eSIM (2026 Update)"
-        snippet: "Looking to buy a UK eSIM for travel or work? This guide compares the data allowances, prices, and coverage of the best UK eSIM plans available today."
+      - q: "Как купить eSIM для Великобритании (обновление 2026)"
+        snippet: "Хотите купить eSIM для Великобритании для поездки или работы? Это руководство сравнивает объемы данных, цены и покрытие лучших тарифов eSIM Великобритании, доступных сегодня."
         url: "/faq/How-to-Buy-a-UK-eSIM"
-      - q: "2026 Best Network Solutions for US Travel (Best eSIM USA)"
-        snippet: "Whether you are looking for an unlimited data eSIM USA or the cheapest plan, this article breaks down 5G architecture differences and how to avoid roaming traps."
+      - q: "Лучшие сетевые решения для поездок в США 2026 (Лучшая eSIM США)"
+        snippet: "Ищете ли вы безлимитную eSIM США или самый дешевый тариф, эта статья разбирает различия в архитектуре 5G и способы избежать роуминговых ловушек."
         url: "/faq/2026-Best-eSIM-Options-for-the-USA"
-      - q: "2026 UK Travel Connectivity: eSIM vs Physical SIM Guide"
-        snippet: "Discover the hidden truth about UK eSIMs. Avoid airport markups, understand local network coverage, and find the best connectivity for your travel needs."
+      - q: "Связь для путешествий в Великобританию 2026: руководство eSIM против физической SIM"
+        snippet: "Узнайте скрытую правду о eSIM Великобритании. Избегайте наценок в аэропортах, понимайте покрытие местных сетей и найдите лучшую связь для ваших потребностей в путешествиях."
         url: "/faq/2026-UK-Travel-Connectivity-eSIM-vs-Physical-SIM-Guide"
 ---

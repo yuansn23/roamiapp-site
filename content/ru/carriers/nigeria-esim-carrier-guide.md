@@ -1,8 +1,8 @@
 ---
-title: "Nigeria eSIM: Keep Your Primary Number Active"
-description: "Stay connected in Nigeria with an eSIM that keeps your primary number active. Enjoy fast 4G/5G data on MTN and Glo networks while exploring Lagos, Abuja, or the iconic Zuma Rock. No roaming fees, instant activation—perfect for business travelers and tourists."
-date: '2026-05-06T13:02:13+00:00'
-keywords: "Nigeria eSIM, keep primary number active, MTN Nigeria, Glo, Zuma Rock, no roaming fees, travel eSIM Nigeria, 5G coverage Nigeria"
+title: "Nigeria eSIM: Buy online and activate instantly"
+description: "Experience fast internet in Nigeria with the best prepaid eSIM. No roaming fees, instant activation via QR code."
+date: "2026-05-09T09:41:56+00:00"
+keywords: "eSIM Nigeria, prepaid data, 5G network, MTN, ipNX, Roami eSIM"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
@@ -12,51 +12,54 @@ breadcrumb_items:
     url: ""
 
 # Hero section copy
-hero_badge: "🇳🇬 Nigeria Travel eSIM Latest Guide"
-hero_subtitle_main: "Nigeria eSIM: Keep Your Primary Number Active"
-hero_subtitle_highlight: "Top-Tier 5G Coverage Across Nigeria"
-hero_description_line1: "Covering vast areas across Nigeria, this eSIM provides a high-speed and stable data connection. It replaces traditional international roaming services, making your outbound travel much more convenient."
-hero_description_line2: "Whether you're navigating the bustling streets of Lagos or visiting the ancient city of Kano, stay online without swapping SIM cards."
+hero_badge: "[Country flag] Nigeria Travel eSIM Latest Guide"
+hero_subtitle_main: "Nigeria eSIM: Buy online and activate instantly"
+hero_subtitle_highlight: "Premium 5G network coverage by MTN and Airtel"
+hero_description_line1: "Receive activation details immediately after purchasing the Nigeria eSIM. No waiting for physical card delivery, helping you save time and improve travel efficiency."
+hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
 hero_link_text: "Nigeria eSIM"
 hero_link_url: "/nigeria-esim/"
-tldr_summary: "For the best balance of speed and coverage in Nigeria, choose MTN Nigeria eSIM. It delivers strong 4G/5G performance across major cities and rural areas, making it ideal for travelers who need reliable data without roaming fees. Airtel Nigeria is a solid alternative for urban 5G hotspots."
+tldr_summary: "【Seamless global roaming: cost‑effective 5G eSIM for multi‑country connectivity】. Roami's Nigeria eSIM leverages MTN's leading network, which recorded a median 5G download speed of 231.39 Mbps and a Speed Score of 195.70 in 2H 2024. Whether you are a digital nomad or a leisure traveler, this eSIM provides instant activation, no roaming fees, and reliable connectivity across Lagos, Port Harcourt, and beyond. Experience the fastest mobile network in Nigeria with Roami."
 
 # Sidebar navigation
 sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Quick Navigation"
+sidebar_title: "Nigeria eSIM Quick Links"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Which Nigeria eSIM operator should you choose?"
+    text: "Quick selection: Which Nigeria eSIM provider should you choose?"
 
   - href: "#operators"
-    text: "Nigeria eSIM Operators Comparison"
-
-  - href: "#before-buy"
-    text: "What to Know Before Buying"
+    text: "Top Nigeria eSIM mobile operators review"
 
   - href: "#city-guide"
-    text: "Nigeria City eSIM Guide"
+    text: "City guide: The best eSIM for Nigeria"
+
+  - href: "#before-buy"
+    text: "Things you need to know before buying a Nigeria eSIM"
 
   - href: "#faq"
-    text: "Frequently Asked Questions"
+    text: "Frequently asked questions about Nigeria eSIM"
 
   - href: "#myths"
-    text: "Common Myths About Nigeria eSIM"
+    text: "Myths and facts about Nigeria eSIM"
+
+  - href: "#data-sources"
+    text: "Data sources"
 
 
 # Quick decision table
-quick_picks_title: "Quick Picks: Best Nigeria eSIM for Your Travel Style"
+quick_picks_title: "Quick selection: Which Nigeria eSIM provider should you choose?"
 quick_picks_table_headers:
 
   - "Your travel style"
 
-  - "Recommended operator"
+  - "Recommended provider"
 
   - "Network data performance"
 
 quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "Ookla Speedtest Global Index (Q2 2024)"
+quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/nigeria-speedtest-connectivity-report-h2-2024)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -64,30 +67,30 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Business traveler needing reliable 5G in Lagos & Abuja"
-    carrier: "MTN Nigeria"
-    carrier_class: "text-orange-600"
-    reason: "MTN leads in 5G coverage and consistent speeds, ideal for video calls and large file transfers."
+  - travel: "Digital nomads"
+    carrier: "MTN"
+    carrier_class: "text-yellow-600"
+    reason: "MTN is the fastest mobile provider in Nigeria with a Speed Score of 79.52 and median download speed of 24.25 Mbps. It also offers the best 5G gaming experience and highest 5G availability (16.2%). Ideal for remote work and video conferencing."
 
-  - travel: "Budget traveler exploring multiple regions"
-    carrier: "Airtel Nigeria"
-    carrier_class: "text-blue-600"
-    reason: "Airtel offers competitive prepaid data plans and strong 4G coverage in urban areas, perfect for cost-conscious tourists."
+  - travel: "Streaming enthusiasts"
+    carrier: "MTN"
+    carrier_class: "text-yellow-600"
+    reason: "MTN leads in mobile video streaming with a score of 72.48 and provides the best 5G download speeds (231.39 Mbps). Perfect for HD video streaming on YouTube and Netflix."
 
-  - travel: "Adventure traveler visiting remote areas"
-    carrier: "Glo"
-    carrier_class: "text-green-600"
-    reason: "Glo has extensive rural coverage and affordable data bundles, suitable for off-the-beaten-path destinations."
+  - travel: "Budget travelers"
+    carrier: "Airtel"
+    carrier_class: "text-red-600"
+    reason: "Airtel offers competitive speeds (median download 15.38 Mbps) and is the second fastest mobile provider. A cost-effective alternative with good coverage in urban areas."
 
-  - travel: "Digital nomad needing stable connection for work"
-    carrier: "9mobile"
-    carrier_class: "text-purple-600"
-    reason: "9mobile provides reliable 4G in major business districts and good customer support for data issues."
+  - travel: "Gamers"
+    carrier: "MTN"
+    carrier_class: "text-yellow-600"
+    reason: "MTN recorded the best 5G gaming experience in Nigeria during 2H 2024, with low latency (41 ms on 5G) and high consistency (79.7%)."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost-effective Nigeria eSIM"
-cta_button_sub_text: "Auto network switching, supports eSIM automatic price comparison"
+cta_button_main_text: "View the most cost‑effective Nigeria travel eSIM"
+cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
 
 # Operator general labels
 operator_labels:
@@ -98,214 +101,215 @@ operator_labels:
 # Operator data
 operators:
 
-  - id: "mtn-nigeria-esim"
-    title: "MTN Nigeria eSIM Review: Best 5G Coverage for Lagos & Abuja"
-    best_for: "Best for travelers who need the fastest 5G speeds in major cities and reliable connectivity across Nigeria."
-    core_data: "Consistently rated as Nigeria's fastest mobile network by Ookla Speedtest (Q2 2024). Offers extensive 4G/5G coverage in Lagos, Abuja, Port Harcourt, and Ibadan."
-    arcep_note: "Licensed by the Nigerian Communications Commission (NCC)."
-    connect_note: "Auto-activates upon landing. Enable data roaming in settings. No APN configuration required."
-    user_scenarios: "- **Navigating Lagos traffic**: Use Google Maps to avoid gridlock on the Third Mainland Bridge with real-time updates.\\n- **Exploring Zuma Rock**: Share high-resolution photos instantly with friends back home without buffering.\\n- **Business meetings in Abuja**: Join Zoom calls from your hotel near the Aso Rock with stable 5G."
-    bg_color: "bg-blue-50"
+  - id: "mtn-esim"
+    title: "MTN eSIM Review: Fastest network in Nigeria"
+    best_for: "This plan is the absolute top choice for travelers who need the fastest mobile internet, best 5G coverage, and reliable connectivity across Nigeria. MTN leads in all key metrics: download speed, upload speed, latency, and consistency."
+    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/nigeria-speedtest-connectivity-report-h2-2024), MTN recorded the highest 5G Availability in Nigeria at 16.2%.\n- **Download rate**: Median 5G download speed of 231.39 Mbps, median overall download speed of 24.25 Mbps.\n- **Upload rate**: Median 5G upload speed of 17.35 Mbps, median overall upload speed of 13.38 Mbps.\n- **Latency**: 5G latency of 41 ms, overall latency of 48 ms.\n- **Consistency**: 79.7% of samples met the 5 Mbps download / 1 Mbps upload threshold."
+    arcep_note: "Confirmed by the Nigerian Communications Commission (NCC) as the leading operator in coverage and quality of service."
+    connect_note: "Activation works seamlessly with Roami eSIM. Simply scan the QR code upon arrival and connect instantly to MTN's network."
+    user_scenarios: "- **Lagos (Eko Atlantic City)**: While exploring the new financial hub, enjoy uninterrupted video calls and fast social media uploads on MTN's 5G network.\n- **Port Harcourt (Bonny Island)**: During business trips to the oil and gas hub, rely on MTN's consistent connectivity for remote work and data-heavy applications.\n- **Abuja (Aso Rock)**: Near the presidential complex, stream live news and stay connected with family using MTN's low-latency 5G."
+    bg_color: "bg-yellow-50"
 
-  - id: "airtel-nigeria-esim"
-    title: "Airtel Nigeria eSIM Review: Affordable 4G for City Travelers"
-    best_for: "Best for budget-conscious travelers who want solid 4G speeds in urban centers without breaking the bank."
-    core_data: "Strong 4G performance in cities; competitive data bundles. Ranked among top 3 in Nigeria for urban speed by Opensignal (2024)."
-    arcep_note: "Licensed by the Nigerian Communications Commission (NCC)."
-    connect_note: "Auto-activates on first connection. Turn on data roaming. Works without manual APN setup."
-    user_scenarios: "- **Instagram stories at Lekki Market**: Upload vibrant photos of local crafts without lag.\\n- **Checking flight info at Murtala Muhammed Airport**: Stay updated on departure gates and delays.\\n- **Video calls from your hotel in Victoria Island**: Keep in touch with family using WhatsApp calls."
-    bg_color: "bg-blue-50"
+  - id: "airtel-esim"
+    title: "Airtel eSIM Review: Reliable alternative with good speeds"
+    best_for: "This plan is ideal for budget-conscious travelers who still want solid 4G/5G performance. Airtel is the second fastest mobile provider and offers competitive speeds in major cities."
+    core_data: "- **5G download speed**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/nigeria-speedtest-connectivity-report-h2-2024), Airtel recorded a median 5G download speed of 174.66 Mbps.\n- **Overall download speed**: Median download speed of 15.38 Mbps.\n- **Coverage**: Strong presence in urban areas like Lagos, Abuja, and Port Harcourt.\n- **Latency**: Competitive latency for streaming and browsing."
+    arcep_note: "Licensed by the NCC and compliant with local quality standards."
+    connect_note: "Roami eSIM connects to Airtel automatically. Activation is instant and requires no physical SIM swap."
+    user_scenarios: "- **Lagos (Victoria Island)**: While shopping or dining, enjoy smooth browsing and social media on Airtel's reliable network.\n- **Abuja (Central Business District)**: Stay connected during business meetings with consistent data speeds.\n- **Port Harcourt (GRA)**: Use Airtel for everyday navigation and messaging without breaking the bank."
+    bg_color: "bg-red-50"
 
-  - id: "glo-nigeria-esim"
-    title: "Glo eSIM Review: Best Rural Coverage & Data Bundles"
-    best_for: "Best for travelers venturing beyond cities who need affordable data and wide rural coverage."
-    core_data: "Glo has the most extensive rural 4G coverage in Nigeria, with competitive data pricing. Speeds are moderate but reliable in remote areas."
-    arcep_note: "Licensed by the Nigerian Communications Commission (NCC)."
-    connect_note: "Auto-activates upon arrival. Enable data roaming. No APN changes needed."
-    user_scenarios: "- **Hiking at Obudu Mountain Resort**: Share your summit photos with friends using Glo's rural network.\\n- **Safari at Yankari National Park**: Post wildlife sightings in real-time without losing signal.\\n- **Budget travel in Kano**: Use maps to explore the ancient city walls and markets without data worries."
-    bg_color: "bg-blue-50"
-
-  - id: "9mobile-nigeria-esim"
-    title: "9mobile eSIM Review: Reliable 4G for Business Districts"
-    best_for: "Best for business travelers who need consistent 4G speeds in commercial hubs and good customer support."
-    core_data: "9mobile offers solid 4G speeds in business districts like Victoria Island and Ikoyi. Customer service is praised for quick issue resolution."
-    arcep_note: "Licensed by the Nigerian Communications Commission (NCC)."
-    connect_note: "Auto-activates on landing. Enable data roaming. Works out-of-the-box without APN configuration."
-    user_scenarios: "- **Working from a coworking space in Ikoyi**: Upload large files to the cloud with stable 4G.\\n- **Virtual meetings from your hotel in Abuja**: Stay connected during important client calls.\\n- **Navigating the Lagos Business District**: Use ride-hailing apps without interruptions."
-    bg_color: "bg-blue-50"
+  - id: "ipnx-esim"
+    title: "ipNX eSIM Review: Best fixed ISP for home/office use"
+    best_for: "This plan is perfect for travelers staying in serviced apartments or hotels that offer ipNX fixed broadband. ipNX is the fastest fixed ISP in Nigeria with impressive upload speeds."
+    core_data: "- **Fixed download speed**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/nigeria-speedtest-connectivity-report-h2-2024), ipNX recorded a median fixed download speed of 37.78 Mbps.\n- **Fixed upload speed**: Median upload speed of 38.50 Mbps.\n- **Gaming experience**: ipNX recorded the best gaming experience among ISPs in Nigeria.\n- **Coverage**: Available in major cities like Lagos, Port Harcourt, and Abuja."
+    arcep_note: "Registered with the NCC as a leading fixed broadband provider."
+    connect_note: "Roami eSIM can also connect to ipNX's fixed network in supported locations. Ideal for long stays requiring high-speed home internet."
+    user_scenarios: "- **Lagos (Lekki)**: In a serviced apartment, use ipNX for lag-free video conferencing and large file uploads.\n- **Port Harcourt (Trans Amadi)**: Enjoy low-latency gaming and streaming on ipNX's fixed broadband.\n- **Abuja (Maitama)**: Work remotely with symmetrical upload/download speeds for cloud backups."
+    bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check Nigeria eSIM compatibility list"
-cards_compatibility_desc: "Check whether your phone supports Nigeria eSIM and local 5G bands"
-cards_free_title: "Claim your free Nigeria eSIM"
-cards_free_desc: "Limited free trial eSIM, experience high-speed Nigeria network"
+cards_compatibility_title: "Check the Nigeria eSIM compatibility list"
+cards_compatibility_desc: "Check if your phone supports Nigeria eSIM and local 5G bands"
+cards_free_title: "Get your free Nigeria eSIM"
+cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
 cards_free_badge: "FREE"
 cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class=\"bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base\">web20</strong> | One‑tap eSIM management"
+cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you must know before buying a Nigeria eSIM"
+before_buy_title: "Things you need to know before buying a Nigeria eSIM"
 before_buy_sections:
 
-  - heading: "eSIM Compatibility Check"
-    content: "Before purchasing, ensure your smartphone supports eSIM technology. Most modern devices (iPhone XR and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer) are compatible. For a full list, visit our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page."
+  - heading: "1. Main 5G/4G frequency bands in Nigeria"
+    content: "Nigeria's mobile networks operate on the following key bands: 4G LTE bands 1 (2100 MHz), 3 (1800 MHz), 7 (2600 MHz), 8 (900 MHz), 20 (800 MHz), and 28 (700 MHz). 5G networks use n78 (3500 MHz) and n41 (2500 MHz). Ensure your device supports these bands for optimal connectivity."
 
-  - heading: "Activation Process"
-    content: "After purchase, you'll receive a QR code via email. Scan it with your phone's camera to install the eSIM profile. Activation occurs automatically upon landing in Nigeria. Ensure data roaming is enabled in your device settings."
+  - heading: "2. KYC requirements for eSIM activation"
+    content: "To activate a Nigeria eSIM, you must provide a valid passport or national ID for identity verification. Roami handles the KYC process digitally, so you only need to upload a clear photo of your ID during purchase."
 
-  - heading: "Network Selection Tips"
-    content: "In Nigeria, your eSIM will automatically connect to the strongest available network. If you experience slow speeds, manually select a different operator from your device's network settings. MTN generally offers the best 5G coverage, while Glo excels in rural areas."
+  - heading: "3. Fair Usage Policy (FUP) and data limits"
+    content: "Most Nigeria eSIM plans have a Fair Usage Policy (FUP) that caps high-speed data after a certain threshold (e.g., 50 GB per month). Once exceeded, speeds may be throttled to 128 kbps. Check your plan details before heavy usage."
+
+  - heading: "4. Network coverage in rural vs urban areas"
+    content: "MTN offers the widest coverage, including rural areas. Airtel and Glo have strong urban presence but may be weaker in remote regions. ipNX is primarily fixed broadband in cities. For travel outside major cities, MTN is recommended."
+
+  - heading: "5. eSIM compatibility and device support"
+    content: "eSIM is supported on most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Check your device's IMEI for <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing."
 
 
 # City recommendation table
-city_guide_title: "Nigeria City eSIM Guide: Best Networks by Destination"
-city_guide_desc: "Choose the best eSIM operator based on your destination city in Nigeria. Coverage and speed vary, so we've matched each city with the most suitable carrier."
+city_guide_title: "City guide: The best eSIM for Nigeria"
+city_guide_desc: "Find out which Nigeria eSIM is the best choice for your destination city based on real network performance data."
 city_table_headers:
 
   - "City"
 
-  - "Recommended eSIM operator"
+  - "Recommended eSIM provider"
 
-  - "Reason / characteristics"
+  - "Reason / Features"
 
 city_recommendations:
 
   - city: "Lagos"
-    carriers: "MTN Nigeria"
-    reason: "Fastest 5G speeds for business districts and tourist spots like Victoria Island and Lekki."
-
-  - city: "Abuja"
-    carriers: "MTN Nigeria"
-    reason: "Excellent 5G coverage around Aso Rock and central business areas."
+    carriers: "MTN"
+    reason: "Lagos recorded the fastest median mobile download speed in Nigeria at 40.26 Mbps. MTN's 5G network is widely available, making it ideal for business travelers and digital nomads."
 
   - city: "Port Harcourt"
-    carriers: "Airtel Nigeria"
-    reason: "Strong 4G performance in the oil hub, ideal for business travelers."
+    carriers: "MTN or ipNX"
+    reason: "Port Harcourt has the fastest fixed download speed (24.04 Mbps) among Nigerian cities. For mobile, MTN offers excellent 5G coverage. ipNX is recommended for long stays with fixed broadband."
+
+  - city: "Abuja"
+    carriers: "MTN"
+    reason: "As the capital, Abuja has strong MTN 5G coverage. MTN's low latency (41 ms on 5G) is perfect for government and business communications."
 
   - city: "Ibadan"
-    carriers: "Glo"
-    reason: "Affordable data and good coverage in this sprawling city."
+    carriers: "Airtel"
+    reason: "Ibadan is a major city with good Airtel 4G/5G coverage. Airtel offers competitive speeds at a lower cost, suitable for budget travelers."
 
   - city: "Kano"
-    carriers: "Glo"
-    reason: "Best rural coverage for exploring ancient markets and historical sites."
+    carriers: "MTN"
+    reason: "Kano, in northern Nigeria, benefits from MTN's extensive rural coverage. MTN's consistency (79.7%) ensures reliable connectivity even in less densely populated areas."
 
-  - city: "Calabar"
-    carriers: "9mobile"
-    reason: "Reliable 4G for tourists visiting the Calabar Carnival and Tinapa Resort."
-
-city_guide_tip: "💡 Tip: if you use Roami’s multi‑network eSIM, your phone will automatically switch to the best local operator – no manual selection needed."
+city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
 
 # Scenario-based selection guide
 scene_guide_title: "🎯 Choose the best Nigeria eSIM based on your travel scenario"
 scene_items:
 
   - icon: "🏛️"
-    title: "Business Travel"
-    text: "MTN Nigeria provides the fastest 5G in Lagos and Abuja, perfect for video conferencing and large file transfers."
+    title: "City explorer"
+    text: "Explore Lagos' bustling markets and modern skyscrapers with MTN's 5G. Stream live tours, use navigation apps, and share photos instantly. Median download speed of 24.25 Mbps ensures smooth connectivity."
 
-  - icon: "🌍"
-    title: "Rural Exploration"
-    text: "Glo offers the widest rural coverage, keeping you connected at Obudu Mountain Resort and Yankari National Park."
+  - icon: "🏞️"
+    title: "Nature lover"
+    text: "Visit Yankari National Park or Obudu Mountain Resort. MTN's wide coverage keeps you connected even in remote areas. Use offline maps and upload wildlife photos with ease."
 
-  - icon: "💰"
-    title: "Budget Travel"
-    text: "Airtel Nigeria has competitive prepaid data plans ideal for cost-conscious tourists in urban areas."
+  - icon: "🚗"
+    title: "Road tripper"
+    text: "Drive from Lagos to Calabar along the coastal highway. MTN's consistent network (79.7% reliability) ensures you can stream music, use GPS, and stay in touch with family throughout the journey."
 
-  - icon: "📱"
-    title: "Social Media Sharing"
-    text: "MTN's 5G network lets you upload high-resolution photos and videos instantly from popular spots like Lekki Market."
+  - icon: "🏖️"
+    title: "Beach vacationer"
+    text: "Relax at Tarkwa Bay or Eleko Beach. With MTN's 5G, enjoy HD video streaming and social media without buffering. The best 5G gaming experience also lets you play online games on the sand."
 
-scene_guide_footer: "💡 Roami Nigeria eSIM Multi‑Network Edition automatically recognizes your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 The Roami Nigeria eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
 
 # FAQ
-faq_title: "Nigeria eSIM frequently asked questions"
+faq_title: "Frequently asked questions about Nigeria eSIM"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View the complete FAQ →"
+faq_more_link_text: "More questions? View full FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Can I keep my primary number active while using a Nigeria eSIM?"
-    a: "Yes, you can keep your primary number active for calls and texts while using the eSIM for data. Enable dual SIM mode on your device and set the eSIM as the data line."
+  - q: "Which local mobile operators does the Roami eSIM connect to in Nigeria?"
+    a: "Roami eSIM connects to MTN, Airtel, and ipNX networks in Nigeria. MTN is the fastest mobile provider with a Speed Score of 79.52 and median 5G download speed of 231.39 Mbps. Airtel offers competitive speeds, while ipNX is the fastest fixed ISP. Your device will automatically select the best available network."
 
-  - q: "Which Nigeria eSIM has the best 5G coverage?"
-    a: "MTN Nigeria offers the most extensive 5G coverage, especially in Lagos, Abuja, and Port Harcourt. It's the top choice for high-speed data."
+  - q: "Is the connection in Nigeria stable enough to stream HD videos on platforms like YouTube or Netflix smoothly?"
+    a: "Yes, absolutely. MTN recorded the best mobile video experience with a score of 72.48 and median 5G download speed of 231.39 Mbps. This is more than sufficient for HD and even 4K streaming. Airtel also provides reliable speeds for HD streaming. For fixed connections, ipNX offers 37.78 Mbps download speed, ideal for uninterrupted streaming."
 
-  - q: "Do I need to set up an APN for Nigeria eSIM?"
-    a: "No, the eSIM is pre-configured. Simply scan the QR code, enable data roaming, and you're connected."
+  - q: "Can I easily top up my Nigeria eSIM data volume if it is fully used during my trip?"
+    a: "Yes, Roami eSIM allows easy top-ups through your online account. You can purchase additional data packages at any time without changing your eSIM. The process is instant, and the new data is added to your existing plan. Check your plan's Fair Usage Policy to avoid throttling."
 
-  - q: "Is there a roaming fee with Nigeria eSIM?"
-    a: "No, you only pay for the data plan you purchase. There are no additional roaming charges."
+  - q: "Is the Nigeria eSIM suitable for online gaming, and what is the average network latency (ping)?"
+    a: "Yes, it is suitable for online gaming. MTN offers the best 5G gaming experience in Nigeria with a low latency of 41 ms on 5G and 48 ms overall. This ping is excellent for real-time games like PUBG, Call of Duty, and FIFA. ipNX also provides a great gaming experience on fixed broadband. For competitive gaming, MTN's 5G is recommended."
 
-  - q: "Can I use Nigeria eSIM in rural areas?"
-    a: "Yes, especially if you choose Glo, which has the best rural coverage. MTN also works in many rural locations but may be slower."
+  - q: "How do I check whether my specific destinations in Nigeria are reliably covered by eSIM networks?"
+    a: "You can check coverage maps on the NCC website or use Roami's coverage checker tool. MTN has the widest coverage, including rural areas, with 16.2% 5G availability. For specific cities like Lagos, Port Harcourt, and Abuja, MTN and Airtel offer excellent 4G/5G coverage. ipNX is available in select urban areas for fixed broadband."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about Nigeria eSIM"
+myths_title: "⚠️ Common myths and facts about the Nigeria eSIM"
 myth_label: "❌ Myth: "
 truth_label: "✅ Fact: "
 myths:
 
-  - myth: "Nigeria has no 5G coverage."
-    truth: "MTN and Airtel have deployed 5G in major cities like Lagos, Abuja, and Port Harcourt. Coverage is expanding rapidly."
+  - myth: "All Nigerian mobile networks have the same speed."
+    truth: "False. MTN is significantly faster than others, with a median download speed of 24.25 Mbps compared to Airtel's 15.38 Mbps and Glo's 7.77 Mbps. MTN also leads in 5G with 231.39 Mbps."
 
-  - myth: "All Nigerian networks have the same speed."
-    truth: "MTN consistently outperforms others in speed tests, while Glo focuses on coverage. Speeds vary significantly by operator and location."
+  - myth: "5G is not available in Nigeria."
+    truth: "False. MTN offers 5G with 16.2% availability and a median download speed of 231.39 Mbps. Airtel also provides 5G with 174.66 Mbps. 5G is live in major cities like Lagos, Abuja, and Port Harcourt."
 
-  - myth: "eSIMs are illegal in Nigeria."
-    truth: "eSIMs are fully legal and regulated by the Nigerian Communications Commission. Many local operators support eSIM."
+  - myth: "eSIMs are not compatible with most phones in Nigeria."
+    truth: "False. eSIM is supported on most modern smartphones, including iPhone XS and newer, Google Pixel 3 and newer, and Samsung Galaxy S20 and newer. Check your device's IMEI for <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a>."
 
-  - myth: "You need a Nigerian phone number to use an eSIM."
-    truth: "No, eSIMs for travelers are data-only and don't require a local number. You keep your primary number active."
+  - myth: "Fixed broadband is faster than mobile in Nigeria."
+    truth: "Not necessarily. MTN's 5G mobile speed (231.39 Mbps) is much faster than ipNX's fixed broadband (37.78 Mbps). However, ipNX offers better upload speeds (38.50 Mbps) for symmetrical needs."
 
-  - myth: "Nigeria's network is too slow for video calls."
-    truth: "On MTN's 5G network, video calls are smooth. Even 4G on Airtel or 9mobile supports reliable video conferencing in urban areas."
+  - myth: "You need a Nigerian ID to buy an eSIM."
+    truth: "False. Roami eSIM accepts international passports for KYC verification. You do not need a local ID. The process is digital and completed during purchase."
 
 
 # Data sources
-data_sources_title: "Data sources & methodology"
+data_sources_title: "Nigeria mobile network data sources"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest Global Index (Q2 2024)"
-    description: "Provides mobile speed rankings and 5G availability data for Nigeria."
+  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/nigeria-speedtest-connectivity-report-h2-2024)"
+    description: "Ookla's Speedtest Intelligence data for 2H 2024 provides comprehensive mobile and fixed network performance metrics for Nigeria, including download/upload speeds, latency, and consistency for MTN, Airtel, Glo, and ipNX."
 
-  - name: "Opensignal Mobile Network Experience Report (2024)"
-    description: "Offers insights on 4G/5G coverage, video experience, and reliability across Nigerian operators."
+  - name: "OpenSignal 2024"
+    description: "OpenSignal's mobile network experience report for Nigeria covers video streaming, gaming, and voice app experience. It confirms MTN's leadership in video and gaming categories."
 
-data_sources_footer: "Data sourced from independent third-party reports. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "All data is publicly available from the cited reports. Roami does not conduct internal network tests."
+  - name: "Nigerian Communications Commission (NCC) 2024"
+    description: "The NCC publishes quarterly quality of service reports for all licensed operators. These reports validate coverage, call drop rates, and data throughput across urban and rural areas."
+
+data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual speeds may vary based on location, device, and network congestion."
+data_sources_note: "Network speeds and coverage can vary depending on your location, device capabilities, and time of day. Always check the latest coverage maps before traveling."
 
 # CTA product card
-cta_title: "Get Your Nigeria eSIM Today"
-cta_desc: "Stay connected with fast 5G data, keep your primary number active, and avoid roaming fees. Perfect for business and leisure travelers."
-cta_button_text: "Buy Nigeria eSIM"
+cta_title: "Secure your Nigeria eSIM today"
+cta_desc: "Get immediate access to Nigeria's fastest 5G network with Roami eSIM. No roaming fees, instant activation, and reliable connectivity across Lagos, Port Harcourt, Abuja, and beyond."
+cta_button_text: "Buy Nigeria eSIM now"
 cta_button_link: "/nigeria-esim/"
-cta_free_trial_note: "New customer exclusive"
-cta_free_trial_text: "Free trial eSIM"
+cta_free_trial_note: "Exclusive for new customers"
+cta_free_trial_text: "Free Nigeria trial eSIM"
 cta_free_trial_link: "/free-esim/"
 
-# No text for back-to-top button, no configuration needed
 ---
 
-# Nigeria eSIM: Keep Your Primary Number Active
+# Nigeria eSIM: Buy online and activate instantly
 
-> **💡 Quick Summary for Travelers:** For the best balance of speed and coverage in Nigeria, choose MTN Nigeria eSIM. It delivers strong 4G/5G performance across major cities and rural areas, making it ideal for travelers who need reliable data without roaming fees. Airtel Nigeria is a solid alternative for urban 5G hotspots.
+> **💡 Short summary for travelers:** 【Seamless global roaming: cost‑effective 5G eSIM for multi‑country connectivity】. Roami's Nigeria eSIM leverages MTN's leading network, which recorded a median 5G download speed of 231.39 Mbps and a Speed Score of 195.70 in 2H 2024. Whether you are a digital nomad or a leisure traveler, this eSIM provides instant activation, no roaming fees, and reliable connectivity across Lagos, Port Harcourt, and beyond. Experience the fastest mobile network in Nigeria with Roami.
 
-## Things you must know before buying a Nigeria eSIM
+## Things you need to know before buying a Nigeria eSIM
 
 
-### eSIM Compatibility Check {#esim-compatibility-check}
-Before purchasing, ensure your smartphone supports eSIM technology. Most modern devices (iPhone XR and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer) are compatible. For a full list, visit our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page.
+### 1. Main 5G/4G frequency bands in Nigeria {#1-main-5g4g-frequency-bands-in-nigeria}
+Nigeria's mobile networks operate on the following key bands: 4G LTE bands 1 (2100 MHz), 3 (1800 MHz), 7 (2600 MHz), 8 (900 MHz), 20 (800 MHz), and 28 (700 MHz). 5G networks use n78 (3500 MHz) and n41 (2500 MHz). Ensure your device supports these bands for optimal connectivity.
 
-### Activation Process {#activation-process}
-After purchase, you'll receive a QR code via email. Scan it with your phone's camera to install the eSIM profile. Activation occurs automatically upon landing in Nigeria. Ensure data roaming is enabled in your device settings.
+### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
+To activate a Nigeria eSIM, you must provide a valid passport or national ID for identity verification. Roami handles the KYC process digitally, so you only need to upload a clear photo of your ID during purchase.
 
-### Network Selection Tips {#network-selection-tips}
-In Nigeria, your eSIM will automatically connect to the strongest available network. If you experience slow speeds, manually select a different operator from your device's network settings. MTN generally offers the best 5G coverage, while Glo excels in rural areas.
+### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
+Most Nigeria eSIM plans have a Fair Usage Policy (FUP) that caps high-speed data after a certain threshold (e.g., 50 GB per month). Once exceeded, speeds may be throttled to 128 kbps. Check your plan details before heavy usage.
+
+### 4. Network coverage in rural vs urban areas {#4-network-coverage-in-rural-vs-urban-areas}
+MTN offers the widest coverage, including rural areas. Airtel and Glo have strong urban presence but may be weaker in remote regions. ipNX is primarily fixed broadband in cities. For travel outside major cities, MTN is recommended.
+
+### 5. eSIM compatibility and device support {#5-esim-compatibility-and-device-support}
+eSIM is supported on most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Check your device's IMEI for <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing.

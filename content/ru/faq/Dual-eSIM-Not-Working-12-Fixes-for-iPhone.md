@@ -1,329 +1,329 @@
 ---
-title: "Dual eSIM Not Working? 12 Fixes for iPhone (CDMA, T-ADS, No Service)"
-description: "Second eSIM showing “No Service”? Incoming calls go to voicemail? This guide covers CDMA voice fallback limits, T-ADS cache errors, battery drain fixes, and carrier lock checks. Works for iPhone 17, 16, and iOS 26. Dual physical SIM also covered."
-keywords: ["eSIM troubleshooting", "eSIM activation failed", "eSIM no service", "eSIM transfer error", "Apple eSIM", "iOS 26 eSIM", "iPad eSIM not working", "eSIM APN settings", "eSIM confirmation code", "eSIM profile expired", "eSIM bound to another device", "dual eSIM signal issue", "eSIM DFU error 53", "eSIM carrier lock", "eSIM cross-platform transfer"]
+title: "Двойная eSIM не работает? 12 исправлений для iPhone (CDMA, T-ADS, Нет обслуживания)"
+description: "Вторая eSIM показывает «Нет обслуживания»? Входящие звонки уходят на голосовую почту? Это руководство охватывает ограничения голосового отката CDMA, ошибки кэша T-ADS, исправления разряда батареи и проверки блокировки оператора. Работает для iPhone 17, 16 и iOS 26. Также охвачена двойная физическая SIM."
+keywords: ["устранение неполадок eSIM", "сбой активации eSIM", "eSIM нет обслуживания", "ошибка переноса eSIM", "Apple eSIM", "iOS 26 eSIM", "iPad eSIM не работает", "настройки APN eSIM", "код подтверждения eSIM", "срок действия профиля eSIM истек", "eSIM привязана к другому устройству", "проблема с сигналом двойной eSIM", "ошибка DFU 53 eSIM", "блокировка оператора eSIM", "кроссплатформенный перенос eSIM"]
 date: 2026-04-28T10:00:00Z
 lastmod: 2026-04-28T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
+tags: ["eSIM", "iOS", "Android", "Устранение неполадок", "Настройка для путешествий"]
 toc: true
 
-# 站点 & SEO 基础硬编码配置
+# Базовые настройки сайта и SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# Текст UI / переводы (поддержка многоязычности)
 ui_text:
-  updated_on: "Updated on"
-  min_read: "min read"
-  toc: "Table of Contents"
+  updated_on: "Обновлено"
+  min_read: "мин чтения"
+  toc: "Содержание"
 
 breadcrumbs:
   home:
-    text: "Home"
+    text: "Главная"
     url: "/"
   parent:
-    text: "Help Center"
+    text: "Центр помощи"
     url: "/faq/"
     
-# 右侧：热门 eSIM 配置 (6个国家，1.99美金) - 严格保留原始配置
+# Справа: популярные eSIM (6 стран, 1.99 доллара)
 sidebar_popular:
-  title: "Popular eSIMs"
+  title: "Популярные eSIM"
   item_suffix: "eSIM"
   items:
-    - name: "United States"
+    - name: "США"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Germany"
+    - name: "Германия"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Europe"
+    - name: "Европа"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Turkey"
+    - name: "Турция"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japan"
+    - name: "Япония"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "China"
+    - name: "Китай"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置 (4个国家) - 严格保留原始配置
+# Справа: бесплатная eSIM (4 страны)
 sidebar_free:
-  title: "Claim Free eSIM"
+  title: "Получить бесплатную eSIM"
   icon: "🎁"
-  item_suffix: "Free eSIM"
-  item_subtitle: "Free eSIM"
+  item_suffix: "Бесплатная eSIM"
+  item_subtitle: "Бесплатная eSIM"
   items:
-    - name: "United Kingdom"
+    - name: "Великобритания"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
-    - name: "Germany"
+    - name: "Германия"
       flag: "/img/flags/de.svg"
       url: "/free-esim/"
-    - name: "Thailand"
+    - name: "Таиланд"
       flag: "/img/flags/th.svg"
       url: "/free-esim/"
-    - name: "Hong Kong"
+    - name: "Гонконг"
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右侧：热门问题配置 (5个问题) - 严格保留原始配置
+# Справа: популярные вопросы (5 вопросов)
 sidebar_questions:
-  title: "Popular Questions"
+  title: "Популярные вопросы"
   items:
-    - question: "What is eSIM activation and how does it work?"
+    - question: "Что такое активация eSIM и как она работает?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "How to activate an eSIM?"
+    - question: "Как активировать eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "How to activate eSIM on iPhone (All Models)?"
+    - question: "Как активировать eSIM на iPhone (все модели)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Latest eSIM Compatibility List"
+    - question: "Актуальный список совместимости eSIM"
       url: "/compatibility/"
 ---
 
 
 
-> Using two phone numbers on one iPhone is incredibly convenient – but it comes with hidden pitfalls. From CDMA vs GSM conflicts to incoming call routing failures (T‑ADS), this guide covers everything you need to know to run **dual eSIM** or **eSIM + physical SIM** flawlessly on iPhone 17, 16, and earlier models with iOS 26. For a complete walkthrough of basic eSIM setup, see our **[iPhone 17 eSIM Complete Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**.
+> Использование двух телефонных номеров на одном iPhone невероятно удобно – но у этого есть скрытые подводные камни. От конфликтов CDMA и GSM до сбоев маршрутизации входящих звонков (T‑ADS) – это руководство охватывает всё, что нужно знать для безупречной работы **двойной eSIM** или **eSIM + физическая SIM** на iPhone 17, 16 и более ранних моделях с iOS 26. Для полного ознакомления с базовой настройкой eSIM см. наше **[Полное руководство по iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**.
 
 ---
 
-## 📌 Quick Diagnostic Index (Dual‑SIM Specific)
+## 📌 Быстрый диагностический указатель (только для двойной SIM)
 
-| Symptom | Most Likely Cause | Fix Section |
-|---------|-------------------|--------------|
-| Second eSIM shows “No Service” but first works | CDMA voice fallback incompatibility | #2 |
-| One number can call out but cannot receive calls | Carrier T‑ADS cache stale | #3 |
-| During a call, the other line says “No Service” | iPhone uses one data network at a time | #4 |
-| Can’t add second eSIM – “Carrier lock” error | Device locked to first carrier | #5 |
-| Dual SIM works but drains battery faster | Both lines actively searching | #6 |
-| eSIM + physical SIM: physical SIM not recognized | SIM tray issue or incompatible card | #7 |
-
----
-
-## 1. What Are Your Dual‑SIM Options on iPhone?
-
-Starting with iPhone XS, XR, and all later models (including iPhone 17), Apple supports:
-
-| Configuration | Supported Models | Max Active Lines |
-|---------------|------------------|------------------|
-| **Dual eSIM** | iPhone 13 and newer (including all iPhone 17 models) | 2 |
-| **1 eSIM + 1 physical nano‑SIM** | All iPhones with SIM tray (non‑US models, and US models before iPhone 14) | 2 |
-| **1 physical SIM only** | Older iPhones (pre‑XS) | 1 |
-| **2 physical SIMs** | Mainland China, Hong Kong, Macau specific dual‑SIM tray models (e.g., iPhone 17 China version) | 2 |
-
-> 📱 **iPhone 17 Air & US iPhone 17 series**: No physical SIM tray – only dual eSIM. If you run into activation problems on these models, check our **[eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/)** for advanced fixes.
+| Симптом | Наиболее вероятная причина | Раздел с исправлением |
+|---------|----------------------------|------------------------|
+| Вторая eSIM показывает «Нет обслуживания», но первая работает | Несовместимость голосового отката CDMA | #2 |
+| Один номер может звонить, но не может принимать звонки | Устаревший кэш T‑ADS оператора | #3 |
+| Во время звонка другая линия показывает «Нет обслуживания» | iPhone использует только одну сеть данных за раз | #4 |
+| Не удается добавить вторую eSIM – ошибка «Блокировка оператора» | Устройство заблокировано для первого оператора | #5 |
+| Двойная SIM работает, но разряжает батарею быстрее | Обе линии активно ищут сеть | #6 |
+| eSIM + физическая SIM: физическая SIM не распознается | Проблема с лотком SIM или несовместимая карта | #7 |
 
 ---
 
-## 2. Critical Limitation: CDMA Carriers Break Dual eSIM
+## 1. Какие у вас есть варианты двойной SIM на iPhone?
 
-If your primary line is on a **CDMA carrier** (Verizon, Sprint legacy, or some regional US carriers), adding a second eSIM may fail or the second line will show “No Service”.
+Начиная с iPhone XS, XR и всех более поздних моделей (включая iPhone 17), Apple поддерживает:
 
-### Why does this happen?
-CDMA networks use a different voice fallback technology (1xRTT). The iPhone’s baseband can only handle **one CDMA voice channel** at a time. When the first eSIM is CDMA, it locks the baseband into CDMA mode, leaving no resources for the second line’s voice. The second line may still get LTE/5G data, but **cannot make or receive calls**.
+| Конфигурация | Поддерживаемые модели | Макс. активных линий |
+|--------------|------------------------|----------------------|
+| **Двойная eSIM** | iPhone 13 и новее (включая все модели iPhone 17) | 2 |
+| **1 eSIM + 1 физическая nano‑SIM** | Все iPhone с лотком для SIM (немодели для США и модели для США до iPhone 14) | 2 |
+| **Только 1 физическая SIM** | Старые iPhone (до XS) | 1 |
+| **2 физические SIM** | Специфические модели с двойным лотком для материкового Китая, Гонконга, Макао (например, китайская версия iPhone 17) | 2 |
 
-### Which carriers are CDMA?
-- **United States**: Verizon (older plans), US Cellular, some MVNOs
-- **Japan**: au (KDDI) (CDMA phased out, but legacy plans exist)
-- **Others**: Most of the world uses GSM/UMTS/LTE (no issue)
-
-### Fixes
-- ✅ **Switch your primary line to a GSM/5G‑only plan** – e.g., Verizon’s “5G Start” or T‑Mobile.
-- ✅ **Use the CDMA line as data‑only** – turn off “Voice” for that line (not possible in iOS; you’d need to disable VoLTE, which may not work).
-- ⚠️ **Workaround**: Swap which line is primary. If you must keep CDMA, place it as the second eSIM – but then the first eSIM may lose voice.
-- ❌ **No complete fix** – you may need to keep one physical SIM for CDMA voice and use eSIM only for data.
+> 📱 **iPhone 17 Air и серия iPhone 17 для США**: Нет физического лотка для SIM – только двойная eSIM. Если у вас возникли проблемы с активацией на этих моделях, ознакомьтесь с нашим **[Руководством по глубокому устранению неполадок eSIM (16 реальных случаев)](/faq/esim-deep-troubleshooting-guide-2026/)** для продвинутых исправлений.
 
 ---
 
-## 3. One Number Can Call Out but Not Receive – T‑ADS Cache Error
+## 2. Критическое ограничение: операторы CDMA нарушают работу двойной eSIM
 
-**Symptom**: Line A works fine. Line B can make outgoing calls, but incoming calls to B go straight to voicemail or ring as “unavailable”.
+Если ваша основная линия находится у **оператора CDMA** (Verizon, устаревший Sprint или некоторые региональные операторы США), добавление второй eSIM может не удаться, или вторая линия будет показывать «Нет обслуживания».
 
-**Root cause**: The carrier’s **T‑ADS (Terminating Access Domain Selection)** cache is outdated. When Line B recently switched from 5G to LTE, or used Wi‑Fi Calling, the network still tries to route incoming calls to the old domain.
+### Почему это происходит?
+Сети CDMA используют другую технологию голосового отката (1xRTT). Модем iPhone может обрабатывать только **один голосовой канал CDMA** одновременно. Когда первая eSIM — CDMA, она блокирует модем в режиме CDMA, не оставляя ресурсов для голоса второй линии. Вторая линия может по-прежнему получать данные LTE/5G, но **не может совершать или принимать звонки**.
 
-### Quick fix (user‑side)
-1. Turn off **Wi‑Fi Calling** temporarily: `Settings > Cellular > Line B > Wi‑Fi Calling` → OFF.
-2. Restart iPhone.
-3. Turn Wi‑Fi Calling back on.
+### Какие операторы являются CDMA?
+- **США**: Verizon (старые тарифы), US Cellular, некоторые MVNO
+- **Япония**: au (KDDI) (CDMA поэтапно выводится, но старые тарифы существуют)
+- **Другие**: Большая часть мира использует GSM/UMTS/LTE (проблем нет)
 
-### Carrier‑side fix (call support)
-Ask your carrier to “**clear the T‑ADS cache for this number**” or “**reset the domain selection record**”. This usually takes effect within 30 minutes. For more T‑ADS and other call‑related issues, see **[Fix 14 in our troubleshooting guide](/faq/esim-deep-troubleshooting-guide-2026/#14-dual-sim-one-number-can-call-out-but-cannot-receive-incoming-calls)**.
-
-### Prevent recurrence
-- Avoid rapidly switching between 5G/LTE (keep one mode for at least a few hours).
-- If you travel frequently, keep **Data Roaming** OFF for the line that doesn’t need data.
-
----
-
-## 4. During a Call, the Other Line Says “No Service” – Normal Behavior
-
-**Symptom**: You’re on a call using Line A. When you check, Line B shows “No Service”.
-
-**Explanation**: iPhones are **dual standby, not dual active**. Only one line can maintain a cellular connection at a time. While on a call, the other line is temporarily unreachable. As soon as the call ends, both lines reconnect.
-
-### What you can do:
-- **Enable Wi‑Fi Calling on both lines** – then the idle line may use Wi‑Fi to receive calls while you’re on the other line.
-- **Enable “Allow Cellular Data Switching”** – under `Settings > Cellular > Cellular Data`. This lets the non‑data line use the data line’s connection for Wi‑Fi Calling.
-
-> 📌 Note: Some carriers do not support Wi‑Fi Calling simultaneously on both lines. Check with your carrier.
+### Исправления
+- ✅ **Переведите основную линию на тариф только GSM/5G** – например, Verizon «5G Start» или T‑Mobile.
+- ✅ **Используйте линию CDMA только для данных** – отключите «Голос» для этой линии (невозможно в iOS; вам пришлось бы отключить VoLTE, что может не работать).
+- ⚠️ **Обходной путь**: Поменяйте, какая линия является основной. Если вы должны оставить CDMA, поместите её как вторую eSIM – но тогда первая eSIM может потерять голос.
+- ❌ **Полного исправления нет** – возможно, вам придется оставить одну физическую SIM для голоса CDMA и использовать eSIM только для данных.
 
 ---
 
-## 5. Dual SIM Not Working? Check Carrier Lock First
+## 3. Один номер может звонить, но не принимать – ошибка кэша T‑ADS
 
-If you cannot add a second eSIM or physical SIM:
-- Your iPhone might be **carrier‑locked** to the first carrier.
-- To check: `Settings > General > About` → scroll to **Carrier Lock**. It must say “No SIM restrictions”.
+**Симптом**: Линия A работает нормально. Линия B может совершать исходящие звонки, но входящие звонки на B идут прямо на голосовую почту или звенят как «недоступные».
 
-### What to do if locked:
-- Contact your carrier to request an unlock. US carriers must unlock after device paid off.
-- If unlocked but still not working, you may need to reset network settings: `Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings`. (Warning: this forgets Wi‑Fi passwords.)
+**Основная причина**: Кэш **T‑ADS (Terminating Access Domain Selection)** оператора устарел. Когда линия B недавно переключилась с 5G на LTE или использовала Wi‑Fi Calling, сеть все еще пытается направить входящие звонки в старый домен.
 
-Once unlocked, you can also move your eSIM between iPhone and Android – see our **[eSIM Cross‑Platform Transfer 2026 guide](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** for step‑by‑step instructions.
+### Быстрое исправление (со стороны пользователя)
+1. Временно отключите **Wi‑Fi Calling**: `Настройки > Сотовая связь > Линия B > Wi‑Fi Calling` → ВЫКЛ.
+2. Перезагрузите iPhone.
+3. Снова включите Wi‑Fi Calling.
 
----
+### Исправление со стороны оператора (позвоните в поддержку)
+Попросите оператора «**очистить кэш T‑ADS для этого номера**» или «**сбросить запись выбора домена**». Обычно это вступает в силу в течение 30 минут. Для получения дополнительной информации о T‑ADS и других проблемах, связанных со звонками, см. **[Исправление 14 в нашем руководстве по устранению неполадок](/faq/esim-deep-troubleshooting-guide-2026/#14-dual-sim-one-number-can-call-out-but-cannot-receive-incoming-calls)**.
 
-## 6. Dual SIM Battery Drain: How to Reduce
-
-Running two lines increases battery consumption by 5–15%. Here’s how to minimize:
-
-| Strategy | Effect |
-|----------|--------|
-| Set the line with weaker signal to **use LTE only** (not 5G) | Moderate saving |
-| Turn off **Data Roaming** on the line not used for data | Saves scanning |
-| Disable **5G Standalone** (if your carrier allows) | Helps a lot |
-| Use **Low Data Mode** for background apps on the secondary line | Minor saving |
-| In very low signal areas, temporarily disable the secondary line | Significant saving |
-
-To disable a line: `Settings > Cellular` → tap the line → toggle off **Turn On This Line**.
+### Предотвращение повторения
+- Избегайте быстрого переключения между 5G/LTE (оставайтесь в одном режиме не менее нескольких часов).
+- Если вы часто путешествуете, держите **Роуминг данных** ВЫКЛ для линии, которой не нужны данные.
 
 ---
 
-## 7. Physical SIM Not Recognized (Tray Issues)
+## 4. Во время звонка другая линия показывает «Нет обслуживания» – нормальное поведение
 
-**Symptom**: Your nano‑SIM works in another phone but not in your iPhone.
+**Симптом**: Вы разговариваете по линии A. Когда вы проверяете, линия B показывает «Нет обслуживания».
 
-**Common causes**:
-- SIM card is **CDMA** and iPhone is set to eSIM‑only mode? (rare)
-- SIM tray not fully inserted or damaged.
-- SIM card is **too old** (pre‑4G) or bent.
+**Объяснение**: iPhone поддерживает **двойной режим ожидания, а не двойной активный**. Только одна линия может поддерживать сотовое соединение одновременно. Во время звонка другая линия временно недоступна. Как только звонок заканчивается, обе линии переподключаются.
 
-**Fixes**:
-1. Remove tray, clean contacts with a soft cloth.
-2. Reinsert firmly until click.
-3. Restart iPhone.
-4. If still not recognized, try the SIM in another phone – if it works, your iPhone’s SIM reader may be faulty.
-5. Replace SIM card at carrier store (free for most postpaid plans).
+### Что можно сделать:
+- **Включите Wi‑Fi Calling на обеих линиях** – тогда простаивающая линия может использовать Wi‑Fi для приема звонков, пока вы разговариваете по другой линии.
+- **Включите «Разрешить переключение сотовых данных»** – в разделе `Настройки > Сотовая связь > Сотовые данные`. Это позволяет линии без данных использовать соединение линии данных для Wi‑Fi Calling.
 
-If you plan to switch entirely to eSIM, refer to our **[iPhone 17 eSIM guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** for activation methods.
+> 📌 Примечание: Некоторые операторы не поддерживают одновременный Wi‑Fi Calling на обеих линиях. Уточните у своего оператора.
 
 ---
 
-## 8. Special Regional Cases: China, Hong Kong, Macau
+## 5. Двойная SIM не работает? Сначала проверьте блокировку оператора
 
-Apple sells specific dual‑physical‑SIM models in **mainland China**:
-- iPhone 17, 17 Pro, 17 Pro Max: **two physical nano‑SIM slots** (no eSIM except Air).
-- iPhone 17 Air: **eSIM only** (global, including China).
+Если вы не можете добавить вторую eSIM или физическую SIM:
+- Ваш iPhone может быть **заблокирован оператором** для первого оператора.
+- Чтобы проверить: `Настройки > Основные > О телефоне` → прокрутите до **Блокировка оператора**. Там должно быть написано «Без ограничений SIM».
 
-**Hong Kong and Macau** models:
-- Support **eSIM + physical SIM** (like international models) or dual physical SIM depending on model.
-- Always verify before buying if you plan to use eSIM travel plans.
+### Что делать, если заблокирован:
+- Свяжитесь с вашим оператором и запросите разблокировку. Операторы США обязаны разблокировать после выплаты стоимости устройства.
+- Если разблокирован, но все еще не работает, возможно, вам потребуется сбросить настройки сети: `Настройки > Основные > Перенос или сброс iPhone > Сброс > Сбросить настройки сети`. (Предупреждение: это сотрет пароли Wi-Fi.)
 
-> ⚠️ **Important**: If you buy a mainland China dual‑physical‑SIM iPhone, you **cannot install any eSIM** (including international travel eSIMs) – except the iPhone 17 Air. This is a hardware limitation, not a software block.
-
----
-
-## 9. Dual SIM for Work & Personal: Best Practices
-
-Many users keep a **work number** (eSIM) and **personal number** (physical SIM or second eSIM). Here’s how to set it up cleanly:
-
-### Label lines clearly
-`Settings > Cellular` → tap a line → `Cellular Plan Label` → choose “Business” or “Personal”, or create custom label.
-
-### Choose default voice & data
-- **Default Voice Line**: Which line to use when you dial from the native Phone app (you can still choose per call).
-- **Cellular Data**: Which line uses mobile data. Turn on **Allow Cellular Data Switching** so the phone can temporarily use the other line’s data if the primary loses signal.
-
-### Separate contacts
-- Assign contacts to a specific line: Edit contact → `Preferred Line` → select business or personal.
-
-### Prevent accidental roaming
-- Turn off **Data Roaming** for the work line if it has expensive international rates.
+После разблокировки вы также можете перенести свою eSIM между iPhone и Android – см. наше **[руководство по кроссплатформенному переносу eSIM 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** для пошаговых инструкций.
 
 ---
 
-## 10. Troubleshooting Table – Dual SIM Scenarios
+## 6. Разряд батареи при двойной SIM: как уменьшить
 
-| Problem | Immediate Step | Long‑Term Fix |
-|---------|----------------|----------------|
-| Second eSIM never gets signal | Restart iPhone, then toggle off/on line | If CDMA carrier, switch to GSM plan |
-| Calls go straight to voicemail (no ring) | Disable “Silence Unknown Callers” and call forwarding | Contact carrier to reset T‑ADS |
-| Can’t receive SMS on second line | Send a test SMS from that line to any number | Ensure line is not data‑only; carrier may need to enable SMS |
-| Two eSIMs but both show “No Service” | Airplane mode on/off > check carrier lock | Restore network settings |
-| Switched lines and now FaceTime/iMessage won’t activate | Go to `Settings > Messages > Send & Receive` – manually select numbers | Sign out of Apple ID and back in |
+Работа с двумя линиями увеличивает потребление батареи на 5–15%. Вот как минимизировать:
 
-For additional problems like “eSIM bound to another device” or “DFU restore error 53”, see our **[full 16‑case troubleshooting library](/faq/esim-deep-troubleshooting-guide-2026/)** .
+| Стратегия | Эффект |
+|-----------|--------|
+| Установите для линии с более слабым сигналом **только LTE** (не 5G) | Умеренная экономия |
+| Отключите **Роуминг данных** на линии, не используемой для данных | Сокращает сканирование |
+| Отключите **5G Standalone** (если ваш оператор позволяет) | Очень помогает |
+| Используйте **Режим низких данных** для фоновых приложений на вторичной линии | Небольшая экономия |
+| В зонах с очень низким сигналом временно отключите вторичную линию | Значительная экономия |
 
----
-
-## 11. Frequently Asked Questions
-
-**Q1: Can I use two eSIMs from the same carrier?**  
-A: Yes, as long as your carrier allows multiple eSIM profiles on one account. For example, T‑Mobile US supports up to two eSIMs on the same iPhone. For a full list of compatible iPhone models, check the **[iPhone 17 compatibility table](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/#2-global-iphone-17-models--esim-compatibility-table)**.
-
-**Q2: Will both lines support 5G simultaneously?**  
-A: Yes, on iPhone 13 and newer (including iPhone 17), both lines can be on 5G (dual 5G standby). However, only one line can use 5G data at a time; the other uses 5G for voice fallback (VoNR).
-
-**Q3: My second line works but the first one stopped working after adding it – what happened?**  
-A: You may have accidentally swapped the primary line settings. Go to `Settings > Cellular > Default Voice Line` and set it back.
-
-**Q4: Does dual eSIM drain battery more than eSIM + physical SIM?**  
-A: Generally, dual eSIM consumes slightly less power because there’s no physical card reader. But the difference is negligible (within 2‑3%).
-
-**Q5: I’m traveling – can I use a local eSIM for data and keep my home eSIM for calls?**  
-A: Yes, best practice:  
-- Set local eSIM as **Cellular Data** line.  
-- Keep home eSIM as **Default Voice Line**.  
-- Turn off **Data Roaming** on home eSIM to avoid massive charges.  
-- Turn on **Allow Cellular Data Switching** so your home line can use the local eSIM’s data for Wi‑Fi Calling & MMS.
-
-If you frequently switch between devices while traveling, the **[eSIM cross‑platform transfer guide](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** will help you move your number seamlessly.
-
-**Q6: Why does the second eSIM sometimes disappear after an iOS update?**  
-A: Rare bug. Go to `Settings > Cellular` → if the line is missing but still shows under “Available SIMs”, tap it and re‑activate. If not, contact carrier to re‑push the profile.
-
-**Q7: Can I use a dual‑SIM setup with an Apple Watch?**  
-A: Yes. Apple Watch can mirror **one** of the iPhone’s lines. Choose which line you want on the watch during setup.
+Чтобы отключить линию: `Настройки > Сотовая связь` → нажмите на линию → отключите **Включить эту линию**.
 
 ---
 
-## 12. Final Pro Tips
+## 7. Физическая SIM не распознается (проблемы с лотком)
 
-- **Label your lines** immediately after setting up – it saves endless confusion.
-- **Set different ringtones** for each line: `Settings > Sounds & Haptics > Ringtone` → scroll down, you can assign per line.
-- **Use Shortcuts automation** to change default voice line based on time (e.g., work hours = business line; evenings = personal).
-- **Before selling your device**: Go to `Settings > Cellular`, delete **all** eSIMs, and remove the physical SIM. Then erase all content and settings. For a detailed walkthrough of deleting eSIMs and canceling plans, refer to **[Fix #9 in our troubleshooting guide](/faq/esim-deep-troubleshooting-guide-2026/#9-after-deleting-esim-carrier-still-charges--cannot-reactivate)**.
+**Симптом**: Ваша nano‑SIM работает в другом телефоне, но не в вашем iPhone.
 
-> 📎 **Related guides on this site:**
-> - [eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [iPhone 17 eSIM Complete Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
-> - [eSIM Cross‑Platform Transfer 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
+**Распространенные причины**:
+- SIM-карта **CDMA**, а iPhone настроен в режим только eSIM? (редко)
+- Лоток SIM вставлен не до конца или поврежден.
+- SIM-карта **слишком старая** (до 4G) или погнута.
+
+**Исправления**:
+1. Извлеките лоток, протрите контакты мягкой тканью.
+2. Вставьте обратно до щелчка.
+3. Перезагрузите iPhone.
+4. Если по-прежнему не распознается, попробуйте SIM в другом телефоне – если работает, возможно, неисправен считыватель SIM вашего iPhone.
+5. Замените SIM-карту в магазине оператора (бесплатно для большинства постоплатных тарифов).
+
+Если вы планируете полностью перейти на eSIM, обратитесь к нашему **[руководству по iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** для ознакомления с методами активации.
 
 ---
 
-*Based on Apple support documents, iOS 26 behavior, and carrier testing as of April 2026. Actual experience may vary by carrier, region, and device model.*
+## 8. Особые региональные случаи: Китай, Гонконг, Макао
+
+Apple продает специфические модели с двойной физической SIM в **материковом Китае**:
+- iPhone 17, 17 Pro, 17 Pro Max: **два слота для физических nano‑SIM** (eSIM нет, кроме Air).
+- iPhone 17 Air: **только eSIM** (глобально, включая Китай).
+
+**Модели для Гонконга и Макао**:
+- Поддерживают **eSIM + физическая SIM** (как международные модели) или двойную физическую SIM в зависимости от модели.
+- Всегда проверяйте перед покупкой, если вы планируете использовать туристические eSIM-тарифы.
+
+> ⚠️ **Важно**: Если вы купите iPhone материкового Китая с двойной физической SIM, вы **не сможете установить никакую eSIM** (включая международные туристические eSIM) – кроме iPhone 17 Air. Это аппаратное ограничение, а не программная блокировка.
+
+---
+
+## 9. Двойная SIM для работы и личного: лучшие практики
+
+Многие пользователи хранят **рабочий номер** (eSIM) и **личный номер** (физическая SIM или вторая eSIM). Вот как настроить это аккуратно:
+
+### Четко подпишите линии
+`Настройки > Сотовая связь` → нажмите на линию → `Метка тарифа` → выберите «Рабочий» или «Личный», или создайте свою метку.
+
+### Выберите голос по умолчанию и данные
+- **Линия голоса по умолчанию**: Какую линию использовать при звонках из родного приложения «Телефон» (вы все равно можете выбрать для каждого звонка).
+- **Сотовые данные**: Какая линия использует мобильные данные. Включите **Разрешить переключение сотовых данных**, чтобы телефон мог временно использовать данные другой линии, если основная потеряет сигнал.
+
+### Разделите контакты
+- Назначьте контакты для конкретной линии: Редактировать контакт → `Предпочитаемая линия` → выберите рабочий или личный.
+
+### Предотвратите случайный роуминг
+- Отключите **Роуминг данных** для рабочей линии, если у нее дорогие международные тарифы.
+
+---
+
+## 10. Таблица устранения неполадок – сценарии двойной SIM
+
+| Проблема | Немедленный шаг | Долгосрочное исправление |
+|----------|-----------------|--------------------------|
+| Вторая eSIM никогда не получает сигнал | Перезагрузите iPhone, затем отключите/включите линию | Если оператор CDMA, перейдите на GSM тариф |
+| Звонки идут прямо на голосовую почту (нет звонка) | Отключите «Заглушать неизвестные вызовы» и переадресацию | Свяжитесь с оператором для сброса T‑ADS |
+| Не удается получить SMS на второй линии | Отправьте тестовое SMS с этой линии на любой номер | Убедитесь, что линия не только для данных; оператору может потребоваться включить SMS |
+| Две eSIM, но обе показывают «Нет обслуживания» | Включите/выключите авиарежим > проверьте блокировку оператора | Сбросьте настройки сети |
+| Поменяли линии, и теперь FaceTime/iMessage не активируются | Перейдите в `Настройки > Сообщения > Отправка и получение` – вручную выберите номера | Выйдите из Apple ID и войдите снова |
+
+Для дополнительных проблем, таких как «eSIM привязана к другому устройству» или «ошибка DFU restore 53», см. нашу **[полную библиотеку устранения неполадок из 16 случаев](/faq/esim-deep-troubleshooting-guide-2026/)** .
+
+---
+
+## 11. Часто задаваемые вопросы
+
+**В1: Могу ли я использовать две eSIM от одного оператора?**  
+О: Да, если ваш оператор разрешает несколько профилей eSIM на одной учетной записи. Например, T‑Mobile US поддерживает до двух eSIM на одном iPhone. Для полного списка совместимых моделей iPhone ознакомьтесь с **[таблицей совместимости iPhone 17](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/#2-global-iphone-17-models--esim-compatibility-table)**.
+
+**В2: Будут ли обе линии поддерживать 5G одновременно?**  
+О: Да, на iPhone 13 и новее (включая iPhone 17) обе линии могут быть на 5G (двойной режим ожидания 5G). Однако только одна линия может использовать данные 5G за раз; другая использует 5G для голосового отката (VoNR).
+
+**В3: Моя вторая линия работает, но первая перестала работать после ее добавления – что случилось?**  
+О: Возможно, вы случайно поменяли настройки основной линии. Перейдите в `Настройки > Сотовая связь > Линия голоса по умолчанию` и установите ее обратно.
+
+**В4: Разряжает ли двойная eSIM батарею больше, чем eSIM + физическая SIM?**  
+О: Как правило, двойная eSIM потребляет немного меньше энергии, потому что нет физического считывателя карт. Но разница незначительна (в пределах 2‑3%).
+
+**В5: Я путешествую – могу ли я использовать местную eSIM для данных и оставить домашнюю eSIM для звонков?**  
+О: Да, лучшая практика:  
+- Установите местную eSIM как линию **Сотовых данных**.  
+- Оставьте домашнюю eSIM как **Линию голоса по умолчанию**.  
+- Отключите **Роуминг данных** на домашней eSIM, чтобы избежать больших расходов.  
+- Включите **Разрешить переключение сотовых данных**, чтобы ваша домашняя линия могла использовать данные местной eSIM для Wi‑Fi Calling и MMS.
+
+Если вы часто переключаетесь между устройствами во время путешествий, **[руководство по кроссплатформенному переносу eSIM](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** поможет вам легко перенести ваш номер.
+
+**В6: Почему вторая eSIM иногда исчезает после обновления iOS?**  
+О: Редкая ошибка. Перейдите в `Настройки > Сотовая связь` → если линия отсутствует, но все еще отображается в разделе «Доступные SIM», нажмите на нее и повторно активируйте. Если нет, свяжитесь с оператором, чтобы он повторно отправил профиль.
+
+**В7: Могу ли я использовать конфигурацию двойной SIM с Apple Watch?**  
+О: Да. Apple Watch может зеркалировать **одну** из линий iPhone. Выберите, какую линию вы хотите на часах, во время настройки.
+
+---
+
+## 12. Заключительные советы профи
+
+- **Подписывайте линии** сразу после настройки – это избавит от бесконечной путаницы.
+- **Установите разные рингтоны** для каждой линии: `Настройки > Звуки и тактильные сигналы > Рингтон` → прокрутите вниз, вы можете назначить для каждой линии.
+- **Используйте автоматизацию «Команды» (Shortcuts)**, чтобы менять линию голоса по умолчанию в зависимости от времени (например, рабочее время = рабочая линия; вечер = личная).
+- **Перед продажей устройства**: Перейдите в `Настройки > Сотовая связь`, удалите **все** eSIM и извлеките физическую SIM. Затем сотрите все содержимое и настройки. Для подробного описания удаления eSIM и отмены тарифов обратитесь к **[Исправлению №9 в нашем руководстве по устранению неполадок](/faq/esim-deep-troubleshooting-guide-2026/#9-after-deleting-esim-carrier-still-charges--cannot-reactivate)**.
+
+> 📎 **Связанные руководства на этом сайте:**
+> - [Руководство по глубокому устранению неполадок eSIM (16 реальных случаев)](/faq/esim-deep-troubleshooting-guide-2026/)
+> - [Полное руководство по iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
+> - [Кросс-платформенный перенос eSIM 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
+
+---
+
+*Основано на документах поддержки Apple, поведении iOS 26 и тестировании операторов по состоянию на апрель 2026 года. Фактический опыт может различаться в зависимости от оператора, региона и модели устройства.*

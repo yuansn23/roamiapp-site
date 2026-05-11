@@ -1,39 +1,39 @@
 ---
-title: "Roami Privacy Policy | How We Protect Your Travel Data Security"
-description: "Read the Privacy Policy to understand how Roami collects, uses, and protects your data."
-last_updated: "March 2026"
+title: "Политика конфиденциальности Roami | Как мы защищаем безопасность ваших данных в путешествиях"
+description: "Ознакомьтесь с Политикой конфиденциальности, чтобы узнать, как Roami собирает, использует и защищает ваши данные."
+last_updated: "Март 2026"
 date: '2026-04-24T00:00:00+00:00'
 type: "page"
 layout: "privacy"  
 ---
 
-At Roami, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website, use our mobile applications, or purchase our eSIM services.
+В компании Roami мы стремимся защищать вашу конфиденциальность и обеспечивать безопасность вашей личной информации. Настоящая Политика конфиденциальности объясняет, как мы собираем, используем, раскрываем и защищаем вашу информацию, когда вы посещаете наш веб-сайт, используете наши мобильные приложения или приобретаете наши eSIM-услуги.
 
-## 1. Information We Collect
-We may collect information about you in a variety of ways when you interact with our services:
-* **Personal Data:** Information such as your name, email address, and payment information when you register for an account or make a purchase.
-* **Device Data:** Information about your mobile device, including the hardware model, operating system, and device identifiers (such as EID) necessary to provision your eSIM.
-* **Usage Data:** Information regarding your interaction with our app and website, including IP addresses, browser types, and access times.
+## 1. Какую информацию мы собираем
+Мы можем собирать информацию о вас различными способами, когда вы взаимодействуете с нашими услугами:
+* **Личные данные:** Информация, такая как ваше имя, адрес электронной почты и платёжная информация, когда вы регистрируете учётную запись или совершаете покупку.
+* **Данные об устройстве:** Информация о вашем мобильном устройстве, включая модель оборудования, операционную систему и идентификаторы устройства (например, EID), необходимые для предоставления вашей eSIM.
+* **Данные об использовании:** Информация о вашем взаимодействии с нашим приложением и веб-сайтом, включая IP-адреса, типы браузеров и время доступа.
 
-## 2. How We Use Your Information
-We use the information we collect primarily to provide, maintain, and improve our services. Specifically, we may use your information to:
-* Process your transactions and deliver the purchased eSIM profiles to your device.
-* Provide customer support and respond to your inquiries.
-* Send you technical notices, updates, security alerts, and administrative messages.
-* Analyze usage trends to improve our website, app, and overall user experience.
+## 2. Как мы используем вашу информацию
+Собранную информацию мы используем в первую очередь для предоставления, поддержки и улучшения наших услуг. В частности, мы можем использовать вашу информацию для:
+* Обработки ваших транзакций и доставки приобретённых eSIM-профилей на ваше устройство.
+* Предоставления поддержки клиентов и ответа на ваши запросы.
+* Отправки вам технических уведомлений, обновлений, предупреждений безопасности и административных сообщений.
+* Анализа тенденций использования для улучшения нашего веб-сайта, приложения и общего пользовательского опыта.
 
-## 3. Information Sharing and Disclosure
-We do not sell, trade, or rent your personal identification information to others. We may share your information only in the following situations:
-* **Service Providers:** We may share data with trusted third-party vendors who assist us in operating our website, processing payments, or providing customer service.
-* **Legal Requirements:** We may disclose your information if required to do so by law or in response to valid requests by public authorities.
+## 3. Передача и раскрытие информации
+Мы не продаём, не обмениваем и не передаём вашу личную информацию третьим лицам. Мы можем делиться вашей информацией только в следующих случаях:
+* **Поставщикам услуг:** Мы можем передавать данные доверенным сторонним поставщикам, которые помогают нам управлять нашим веб-сайтом, обрабатывать платежи или предоставлять обслуживание клиентов.
+* **Юридические требования:** Мы можем раскрывать вашу информацию, если это требуется по закону или в ответ на законные запросы государственных органов.
 
-## 4. Data Security
-We implement a variety of industry-standard security measures to maintain the safety of your personal information. However, please be aware that no method of transmission over the internet or method of electronic storage is 100% secure, and we cannot guarantee absolute security.
+## 4. Безопасность данных
+Мы внедряем различные отраслевые стандарты безопасности для обеспечения безопасности вашей личной информации. Однако имейте в виду, что ни один метод передачи через Интернет или метод электронного хранения не является на 100% безопасным, и мы не можем гарантировать абсолютную безопасность.
 
-## 5. Your Data Rights
-Depending on your location, you may have the right to access, correct, update, or delete the personal information we hold about you. If you wish to exercise these rights, please contact us using the information provided below.
+## 5. Ваши права на данные
+В зависимости от вашего местоположения вы можете иметь право доступа, исправления, обновления или удаления личной информации, которую мы храним о вас. Если вы хотите воспользоваться этими правами, свяжитесь с нами, используя информацию, указанную ниже.
 
-## 6. Contact Us
-If you have any questions, comments, or concerns about this Privacy Policy or our data practices, please do not hesitate to contact us.
+## 6. Свяжитесь с нами
+Если у вас есть какие-либо вопросы, комментарии или опасения по поводу настоящей Политики конфиденциальности или нашей практики работы с данными, пожалуйста, не стесняйтесь обращаться к нам.
 
-**Email:** <a href="mailto:qwerty2015009@gmail.com" class="text-blue-600 hover:text-blue-800 underline">qwerty2015009@gmail.com</a>
+**Электронная почта:** <a href="mailto:qwerty2015009@gmail.com" class="text-blue-600 hover:text-blue-800 underline">qwerty2015009@gmail.com</a>

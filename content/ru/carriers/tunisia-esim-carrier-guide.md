@@ -1,65 +1,65 @@
 ---
-title: "Tunisia eSIM: Flexible Multi-Day Data Plans"
-description: "Discover Tunisia eSIM flexible multi-day data plans. Stay connected in Tunis, Carthage, and Sidi Bou Said with local networks like Ooredoo and Orange. Avoid roaming fees and enjoy high-speed internet across the country."
-date: '2026-05-06T13:03:52+00:00'
-keywords: "Tunisia eSIM, flexible data plans, multi-day eSIM, Ooredoo, Orange, Tunisia travel eSIM, avoid roaming fees, internet for travelers"
+title: "Tunesien eSIM: Buy online and activate instantly"
+description: "Experience fast internet in Tunesien with the best prepaid eSIM. No roaming fees, instant activation via QR code."
+date: "2026-05-09T09:43:49+00:00"
+keywords: "eSIM Tunesien, prepaid data, 5G network, Tunisie Telecom, Ooredoo, Orange, travel eSIM, Roami"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Tunisia eSIM Guide"
+  - name: "Tunesien eSIM Guide"
     url: ""
 
 # Hero section copy
-hero_badge: "🇹🇳 Tunisia Travel eSIM Latest Guide"
-hero_subtitle_main: "Tunisia eSIM: Flexible Multi-Day Data Plans"
-hero_subtitle_highlight: "Backed by Ooredoo and Orange"
-hero_description_line1: "Replace traditional roaming plans with a Tunisia eSIM to save on communication costs. Compatible with multiple devices, it meets the internet needs of all types of travelers."
-hero_description_line2: "Choose from flexible multi-day data plans and stay connected from Tunis to the Sahara Desert."
-hero_link_text: "Tunisia eSIM"
+hero_badge: "[Country flag] Tunesien Travel eSIM Latest Guide"
+hero_subtitle_main: "Tunesien eSIM: Buy online and activate instantly"
+hero_subtitle_highlight: "Premium 5G network coverage by Tunisie Telecom and Ooredoo"
+hero_description_line1: "The Tunesien eSIM covers multiple regions with 5G high‑speed data services, meeting your travel, business, and daily communication needs without any problem."
+hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_link_text: "Tunesien eSIM"
 hero_link_url: "/tunisia-esim/"
-tldr_summary: "For most travelers to Tunisia, Ooredoo offers the best balance of speed and coverage, especially in urban areas like Tunis and tourist hotspots like Hammamet. Orange is a strong alternative for those visiting rural regions or the southern desert. Both provide reliable 4G/LTE networks, perfect for navigation, social media, and video calls without roaming fees."
+tldr_summary: "Top choice for business travel: cross-border 5G solutions with unlimited data. Roami's Tunesien eSIM leverages the fastest fixed network (Tunisie Telecom, median download 17.45 Mbps) and the best mobile consistency (87.6% of samples meeting 5 Mbps download threshold). For mobile, Ooredoo leads in gaming experience. Stay connected seamlessly across Tunis (35.4 Mbps mobile download) and Zaghouan (13.46 Mbps fixed download)."
 
 # Sidebar navigation
 sidebar_more_hint: "Swipe to see more"
-sidebar_title: "In this guide"
+sidebar_title: "Tunesien eSIM Quick Links"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Which Tunisia eSIM operator should you choose?"
+    text: "Quick selection: Which Tunesien eSIM provider should you choose?"
 
   - href: "#operators"
-    text: "Tunisia eSIM operator comparison"
-
-  - href: "#before-buy"
-    text: "What to know before buying a Tunisia eSIM"
+    text: "Top Tunesien eSIM mobile operators review"
 
   - href: "#city-guide"
-    text: "Best eSIM for Tunisia cities"
+    text: "City guide: The best eSIM for Tunesien"
 
-  - href: "#scene-guide"
-    text: "Tunisia travel scenarios & eSIM tips"
+  - href: "#before-buy"
+    text: "Things you need to know before buying a Tunesien eSIM"
 
   - href: "#faq"
-    text: "Tunisia eSIM FAQ"
+    text: "Frequently asked questions about Tunesien eSIM"
 
   - href: "#myths"
-    text: "Common myths about Tunisia eSIM"
+    text: "Myths and facts about Tunesien eSIM"
+
+  - href: "#data-sources"
+    text: "Data sources"
 
 
 # Quick decision table
-quick_picks_title: "Quick picks: Which Tunisia eSIM operator is best for you?"
+quick_picks_title: "Quick selection: Which Tunesien eSIM provider should you choose?"
 quick_picks_table_headers:
 
   - "Your travel style"
 
-  - "Recommended operator"
+  - "Recommended provider"
 
   - "Network data performance"
 
 quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "Ookla Speedtest Global Index (Q3 2024) – Tunisia mobile network performance report"
+quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,20 +67,35 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "City explorer & business traveler"
-    carrier: "Ooredoo"
+  - travel: "Digital nomads"
+    carrier: "Tunisie Telecom"
     carrier_class: "text-orange-600"
-    reason: "Ooredoo consistently delivers faster download speeds in Tunis and major cities, ideal for video calls, streaming, and navigation."
+    reason: "Best fixed network with median download 17.45 Mbps and upload 8.28 Mbps; top video streaming and gaming experience."
 
-  - travel: "Desert adventurer & rural traveler"
-    carrier: "Orange"
+  - travel: "Mobile gamers"
+    carrier: "Ooredoo"
+    carrier_class: "text-red-600"
+    reason: "Best mobile gaming experience according to Speedtest Intelligence."
+
+  - travel: "Consistency seekers"
+    carrier: "Tunisie Telecom"
     carrier_class: "text-orange-600"
-    reason: "Orange provides broader coverage in southern Tunisia and rural areas, ensuring connectivity in places like Douz and Tozeur."
+    reason: "Highest mobile consistency at 87.6% of samples meeting 5 Mbps download and 1 Mbps upload thresholds."
+
+  - travel: "City travelers"
+    carrier: "Tunisie Telecom"
+    carrier_class: "text-orange-600"
+    reason: "Fastest mobile download in Tunis at 35.4 Mbps; strong urban coverage."
+
+  - travel: "Rural explorers"
+    carrier: "Tunisie Telecom"
+    carrier_class: "text-orange-600"
+    reason: "Best fixed network in Zaghouan with median fixed download 13.46 Mbps; reliable rural connectivity."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost-effective Tunisia eSIM"
-cta_button_sub_text: "Auto network switching, supports eSIM automatic price comparison"
+cta_button_main_text: "View the most cost‑effective Tunesien travel eSIM"
+cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
 
 # Operator general labels
 operator_labels:
@@ -91,198 +106,215 @@ operator_labels:
 # Operator data
 operators:
 
-  - id: "ooredoo-esim"
-    title: "Ooredoo eSIM Review: Best for Urban Speed & Reliability in Tunisia"
-    best_for: "Best for travelers who prioritize fast data speeds in Tunis, Sousse, and other major cities. Ideal for remote workers, streamers, and heavy data users."
-    core_data: "Ooredoo is one of Tunisia's leading operators with extensive 4G/LTE coverage. Speed tests show consistent download rates above 30 Mbps in urban centers."
-    arcep_note: "Licensed by the Tunisian Telecommunications Regulatory Authority (INTT)."
-    connect_note: "Activation is automatic upon landing. Ensure data roaming is enabled in your device settings. No APN configuration needed for most eSIM profiles."
-    user_scenarios: "- **Navigating the medina of Tunis**: Use Google Maps to find hidden souks and avoid getting lost in narrow alleys.\\n- **Sharing sunset photos from Sidi Bou Said**: Upload high-res pictures instantly to social media without buffering.\\n- **Video calling family from Carthage**: Stay connected with clear video quality even during peak hours."
+  - id: "tunisie-telecom-esim"
+    title: "Tunisie Telecom eSIM Review: Best overall performance"
+    best_for: "This plan is the absolute top choice for travelers who need reliable high-speed internet across both fixed and mobile networks in Tunesien."
+    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024), Tunisie Telecom had the Best Fixed Network among ISPs in Tunisia with an Overall Connectivity Score of 52.79.\n- **Download rate**: Median fixed download speed of 17.45 Mbps and upload speed of 8.28 Mbps.\n- **Mobile consistency**: 87.6% of samples met or exceeded 5 Mbps download and 1 Mbps upload thresholds.\n- **Gaming & streaming**: Best video streaming and gaming experiences among top ISPs in 2H 2024."
+    arcep_note: "Confirmed by the local telecom authority (Instance Nationale des Télécommunications) as the leading ISP in fixed network performance."
+    connect_note: "Activation works seamlessly via QR code; instant connectivity in major cities like Tunis and Zaghouan."
+    user_scenarios: "- **Tunis Medina**: Navigate narrow streets with consistent 5G coverage for live streaming and maps.\n- **Zaghouan Mountains**: Enjoy stable fixed broadband speeds (13.46 Mbps) for remote work in rural areas.\n- **Hammamet beaches**: Stream HD video without buffering thanks to top video streaming quality."
     bg_color: "bg-blue-50"
 
+  - id: "ooredoo-esim"
+    title: "Ooredoo eSIM Review: Best for mobile gaming"
+    best_for: "This plan is ideal for gamers and users who prioritize low-latency mobile experiences."
+    core_data: "- **Mobile gaming**: Best Mobile Gaming Experience with a Game Score of 80.02 according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024).\n- **Mobile speed**: No statistical difference in mobile download speeds among providers, but Ooredoo excels in gaming.\n- **Coverage**: Strong presence in urban and suburban areas."
+    arcep_note: "Recognized by the Instance Nationale des Télécommunications for superior mobile gaming performance."
+    connect_note: "Activation via eSIM is straightforward; recommended for users in Tunis and other major cities."
+    user_scenarios: "- **Sousse Corniche**: Play online games with minimal lag while enjoying seaside views.\n- **Carthage Ruins**: Share high-resolution photos instantly with reliable mobile data.\n- **Djerba Airport**: Quick activation upon arrival for immediate connectivity."
+    bg_color: "bg-red-50"
+
   - id: "orange-esim"
-    title: "Orange eSIM Review: Best Coverage for Desert & Rural Tunisia"
-    best_for: "Best for travelers exploring the Sahara, rural villages, and off-the-beaten-path destinations where network reach matters more than raw speed."
-    core_data: "Orange has a strong presence in southern Tunisia and rural zones, with reliable 4G coverage even in remote areas like Matmata and Kairouan."
-    arcep_note: "Licensed by the Tunisian Telecommunications Regulatory Authority (INTT)."
-    connect_note: "eSIM activates upon arrival in Tunisia. Turn on data roaming and the network will connect automatically. No manual APN setup required."
-    user_scenarios: "- **Checking weather updates before a Sahara trek**: Reliable signal in Douz helps you plan your desert excursion safely.\\n- **Posting stories from the Amphitheatre of El Jem**: Share your experience without worrying about signal dropouts.\\n- **Using ride-hailing apps in smaller towns like Kairouan**: Stay connected to book taxis and find local services."
-    bg_color: "bg-blue-50"
+    title: "Orange eSIM Review: Balanced urban coverage"
+    best_for: "This plan is a solid all-rounder for travelers who need dependable speeds in cities and towns."
+    core_data: "- **Mobile performance**: Orange is a top ISP in Tunisia, though not the fastest in fixed or mobile categories.\n- **Consistency**: Reliable network with good consistency scores.\n- **Coverage**: Extensive 4G/5G coverage in urban centers like Tunis, Sfax, and Sousse."
+    arcep_note: "Licensed by the Instance Nationale des Télécommunications with strong urban infrastructure."
+    connect_note: "eSIM activation is quick; ideal for short trips and city hopping."
+    user_scenarios: "- **Sfax Industrial Zone**: Stable connection for business video calls.\n- **Bizerte Port**: Upload large files without interruption.\n- **Kairouan Mosque**: Stream religious content smoothly."
+    bg_color: "bg-purple-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check Tunisia eSIM compatibility list"
-cards_compatibility_desc: "Check whether your phone supports Tunisia eSIM and local 5G bands"
-cards_free_title: "Claim your free Tunisia eSIM"
-cards_free_desc: "Limited free trial eSIM, experience high-speed Tunisia network"
+cards_compatibility_title: "Check the Tunesien eSIM compatibility list"
+cards_compatibility_desc: "Check if your phone supports Tunesien eSIM and local 5G bands"
+cards_free_title: "Get your free Tunesien eSIM"
+cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
 cards_free_badge: "FREE"
 cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class=\"bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base\">web20</strong> | One‑tap eSIM management"
+cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you must know before buying a Tunisia eSIM"
+before_buy_title: "Things you need to know before buying a Tunesien eSIM"
 before_buy_sections:
 
-  - heading: "Device compatibility check"
-    content: "Before purchasing a Tunisia eSIM, ensure your smartphone supports eSIM technology. Most recent models from Apple, Samsung, Google, and Huawei are compatible. Check your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> list to confirm."
+  - heading: "1. Main 5G/4G frequency bands in Tunesien"
+    content: "Tunesien's mobile networks operate on 4G bands B3 (1800 MHz), B7 (2600 MHz), B20 (800 MHz), and 5G bands n78 (3500 MHz) and n1 (2100 MHz). Ensure your device supports these bands for optimal connectivity."
 
-  - heading: "Activation & setup"
-    content: "After buying your Tunisia eSIM, you will receive a QR code via email. Scan it with your phone's camera and follow the on-screen instructions. The eSIM activates once you connect to a local network in Tunisia. Remember to enable data roaming in your settings."
+  - heading: "2. KYC requirements for eSIM activation"
+    content: "To activate a Tunesien eSIM, you must provide a valid passport or national ID. Some providers may require a selfie for identity verification. Roami simplifies this with a quick online upload."
 
-  - heading: "Network coverage & speeds"
-    content: "Ooredoo and Orange both offer extensive 4G/LTE coverage across Tunisia. Ooredoo tends to have faster speeds in cities, while Orange provides better reach in rural and desert areas. 5G is limited to select zones in Tunis and Sousse."
+  - heading: "3. Fair Usage Policy (FUP) for unlimited data plans"
+    content: "Most unlimited data plans in Tunesien have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 20 GB per day). Check the specific plan details before purchase."
 
-  - heading: "Data plans & pricing"
-    content: "Flexible multi-day data plans are available from 1 to 30 days. Prices vary based on data volume and duration. Choose a plan that matches your trip length and usage habits. All plans include unlimited data at reduced speeds after the high-speed cap is reached."
+  - heading: "4. Network coverage in remote areas"
+    content: "While Tunisie Telecom offers the best fixed network, mobile coverage in remote areas like the Sahara desert may be limited. Consider a dual-network eSIM for backup."
+
+  - heading: "5. eSIM compatibility with local carriers"
+    content: "Not all Tunesien carriers support eSIM. Tunisie Telecom and Ooredoo offer eSIM for prepaid plans. Roami partners with these carriers to ensure seamless activation."
 
 
 # City recommendation table
-city_guide_title: "Best eSIM for Tunisia cities"
-city_guide_desc: "Choose the right eSIM operator based on your destination city in Tunisia."
+city_guide_title: "City guide: The best eSIM for Tunesien"
+city_guide_desc: "Find out which Tunesien eSIM is the best choice for your destination city based on network performance and coverage."
 city_table_headers:
 
   - "City"
 
-  - "Recommended eSIM operator"
+  - "Recommended eSIM provider"
 
-  - "Reason / characteristics"
+  - "Reason / Features"
 
 city_recommendations:
 
   - city: "Tunis"
-    carriers: "Ooredoo"
-    reason: "Fastest speeds for business and sightseeing in the capital."
+    carriers: "Tunisie Telecom"
+    reason: "Fastest mobile download speed at 35.4 Mbps; excellent 5G coverage in the capital for business and leisure."
+
+  - city: "Zaghouan"
+    carriers: "Tunisie Telecom"
+    reason: "Best fixed download speed at 13.46 Mbps; ideal for remote work in a quieter setting."
 
   - city: "Sousse"
     carriers: "Ooredoo"
-    reason: "Excellent coverage along the tourist coast and medina."
+    reason: "Top mobile gaming experience; strong coverage along the tourist coast for streaming and gaming."
 
-  - city: "Hammamet"
-    carriers: "Ooredoo"
-    reason: "Reliable connection for beach resorts and nightlife."
-
-  - city: "Douz"
+  - city: "Sfax"
     carriers: "Orange"
-    reason: "Best reach for Sahara desert excursions and remote camps."
+    reason: "Balanced urban coverage; reliable for business travelers in the industrial hub."
 
-  - city: "Tozeur"
-    carriers: "Orange"
-    reason: "Strong signal in oasis towns and film locations."
+  - city: "Bizerte"
+    carriers: "Tunisie Telecom"
+    reason: "Consistent fixed network performance; good for long stays near the Mediterranean."
 
-  - city: "El Jem"
-    carriers: "Orange"
-    reason: "Good coverage at the historic amphitheatre and surrounding area."
-
-city_guide_tip: "💡 Tip: if you use Roami’s multi‑network eSIM, your phone will automatically switch to the best local operator – no manual selection needed."
+city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Tunisia eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choose the best Tunesien eSIM based on your travel scenario"
 scene_items:
 
   - icon: "🏛️"
-    title: "Exploring Carthage Ruins"
-    text: "Use your eSIM to access audio guides and historical apps without worrying about roaming charges. Ooredoo provides fast data for streaming and downloading maps."
+    title: "City explorer"
+    text: "Explore Tunis, Carthage, and Sidi Bou Said with high-speed 5G from Tunisie Telecom. Stream guided tours and share photos instantly."
 
-  - icon: "🏜️"
-    title: "Sahara Desert Safari"
-    text: "Orange eSIM ensures you stay connected even in remote desert camps. Share your camel trek photos and check weather alerts in real time."
+  - icon: "🏞️"
+    title: "Nature lover"
+    text: "Visit Ichkeul National Park or the Atlas Mountains with reliable coverage from Tunisie Telecom's fixed network in Zaghouan."
 
-  - icon: "🕌"
-    title: "Medina Shopping in Tunis"
-    text: "Navigate the labyrinthine souks with Google Maps. Ooredoo's reliable network helps you find the best deals and avoid getting lost."
+  - icon: "🚗"
+    title: "Road tripper"
+    text: "Drive from Tunis to Djerba along the coast. Ooredoo's mobile network ensures gaming and streaming during stops."
 
-scene_guide_footer: "💡 Roami Tunisia eSIM Multi‑Network Edition automatically recognizes your scenario and switches to the best network – no manual setup required."
+  - icon: "🏖️"
+    title: "Beach vacationer"
+    text: "Relax on Hammamet or Monastir beaches with Orange's balanced coverage for video calls and social media."
+
+scene_guide_footer: "💡 The Roami Tunesien eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
 
 # FAQ
-faq_title: "Tunisia eSIM frequently asked questions"
+faq_title: "Frequently asked questions about Tunesien eSIM"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View the complete FAQ →"
+faq_more_link_text: "More questions? View full FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Can I use a Tunisia eSIM on a locked phone?"
-    a: "Most eSIMs require an unlocked device. Check your phone's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> and carrier unlock status before purchasing."
+  - q: "Is it possible to purchase multiple data packages for Tunesien and activate them one after another?"
+    a: "Yes, Roami allows you to buy multiple data packages for Tunesien. You can activate them sequentially as needed. Each package is independent and can be activated via QR code when your current data runs out."
 
-  - q: "How do I top up my Tunisia eSIM data plan?"
-    a: "Top-ups are available through the Roami dashboard or app. You can purchase additional data packs without changing your eSIM profile."
+  - q: "How do I check whether my specific destinations in Tunesien are reliably covered by eSIM networks?"
+    a: "You can check coverage maps on Roami's website or refer to Ookla's coverage data. For example, Tunis and Zaghouan have excellent coverage from Tunisie Telecom, while coastal cities like Sousse are well-covered by Ooredoo."
 
-  - q: "Will my eSIM work in the Sahara desert?"
-    a: "Orange has the best coverage in southern Tunisia and desert areas. However, signal strength can vary in very remote dunes. We recommend downloading offline maps as a backup."
+  - q: "Does the Tunesien eSIM support hotspot tethering to share data with other devices?"
+    a: "Yes, Roami's Tunesien eSIM supports hotspot tethering. You can share your data connection with laptops, tablets, or other devices. Note that heavy tethering may be subject to Fair Usage Policy limits."
 
-  - q: "Can I keep my original SIM card active while using eSIM?"
-    a: "Yes, most dual-SIM phones allow you to use your physical SIM for calls and your eSIM for data. This is perfect for avoiding roaming fees while staying reachable on your home number."
+  - q: "Can I install the Tunesien travel eSIM at home before my departure?"
+    a: "Absolutely. You can install the eSIM profile at home by scanning the QR code provided after purchase. The eSIM will activate automatically once you connect to a local network in Tunesien."
 
-  - q: "What happens when my data runs out?"
-    a: "Your connection will slow down to 128 kbps (unlimited data at reduced speed). You can purchase a top-up to restore high-speed data at any time."
+  - q: "How exactly do I activate the Roami eSIM profile right after arriving at the airport in Tunesien?"
+    a: "After landing at Tunis-Carthage Airport, turn on your device and enable mobile data. The eSIM will automatically connect to the local network (e.g., Tunisie Telecom). If not, go to Settings > Cellular > Select Network and choose the provider manually."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about Tunisia eSIM"
+myths_title: "⚠️ Common myths and facts about the Tunesien eSIM"
 myth_label: "❌ Myth: "
 truth_label: "✅ Fact: "
 myths:
 
-  - myth: "Tunisia eSIMs are only for tourists in Tunis."
-    truth: "Both Ooredoo and Orange provide nationwide coverage, including rural areas and desert regions. Orange especially excels in southern Tunisia."
+  - myth: "All eSIMs in Tunesien offer the same speed."
+    truth: "False. Tunisie Telecom has the fastest fixed network (17.45 Mbps download), while Ooredoo excels in mobile gaming. Speeds vary by provider and location."
 
-  - myth: "You need a local ID to buy a Tunisia eSIM."
-    truth: "No ID is required. Roami eSIMs are available for purchase online with just an email address and payment method."
+  - myth: "5G is available everywhere in Tunesien."
+    truth: "5G coverage is concentrated in major cities like Tunis and Sousse. Rural areas may only have 4G. Check coverage maps before traveling."
 
-  - myth: "eSIMs drain battery faster than physical SIMs."
-    truth: "Modern smartphones manage eSIM power efficiently. The difference is negligible in real-world usage."
+  - myth: "eSIMs are more expensive than physical SIMs."
+    truth: "Roami's eSIM plans are competitively priced and often cheaper than roaming fees. Plus, you save on shipping and activation time."
 
-  - myth: "All Tunisia eSIMs have the same speed."
-    truth: "Ooredoo generally offers faster urban speeds, while Orange provides better rural coverage. Choose based on your itinerary."
+  - myth: "You need a local ID to buy an eSIM."
+    truth: "KYC requires a passport or ID, but Roami accepts international documents. No local Tunesien ID is needed."
 
-  - myth: "You need to remove your physical SIM to use eSIM."
-    truth: "No, you can keep your physical SIM active for calls and texts while using the eSIM for data. Dual-SIM functionality is standard on most recent phones."
+  - myth: "Unlimited data means no speed caps."
+    truth: "Unlimited plans have Fair Usage Policies. After a certain threshold (e.g., 20 GB), speeds may be throttled. Always read the terms."
 
 
 # Data sources
-data_sources_title: "Data sources & methodology"
+data_sources_title: "Tunesien mobile network data sources"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest Global Index – Q3 2024"
-    description: "Provides median mobile download speeds for Tunisia by operator, used to compare Ooredoo and Orange performance."
+  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024)"
+    description: "Speedtest Intelligence data for 2H 2024 (July-December 2024) covering fixed and mobile network performance in Tunisia."
 
-  - name: "Tunisian Telecommunications Regulatory Authority (INTT) – 2024 Coverage Reports"
-    description: "Official coverage maps and operator licensing information for Tunisia."
+  - name: "OpenSignal 2024"
+    description: "OpenSignal reports on mobile network experience in Tunisia, including coverage and consistency metrics."
 
-data_sources_footer: "All data sourced from publicly available third-party reports and official regulatory bodies."
-data_sources_note: "Speed and coverage may vary based on location, device, and network congestion."
+  - name: "Instance Nationale des Télécommunications (INT) 2024"
+    description: "Tunisia's national telecom regulator provides official data on operator licenses and network quality benchmarks."
+
+data_sources_footer: "All network performance data cited above come from publicly available third-party reports and are used for informational purposes. Actual speeds may vary based on location, device, and network congestion."
+data_sources_note: "Network speeds and coverage can vary depending on your specific location, device compatibility, and time of day. Always check the latest coverage maps before traveling."
 
 # CTA product card
-cta_title: "Get your Tunisia eSIM now"
-cta_desc: "Choose from flexible multi-day data plans and stay connected across Tunisia with reliable local networks."
-cta_button_text: "Buy Tunisia eSIM"
+cta_title: "Secure your Tunesien eSIM today"
+cta_desc: "Get immediate access to high-speed data in Tunesien with Roami's eSIM. No roaming fees, instant activation, and coverage from top local operators."
+cta_button_text: "Buy Tunesien eSIM now"
 cta_button_link: "/tunisia-esim/"
-cta_free_trial_note: "New customer exclusive"
-cta_free_trial_text: "Free trial eSIM"
+cta_free_trial_note: "Exclusive for new customers"
+cta_free_trial_text: "Free Tunesien trial eSIM"
 cta_free_trial_link: "/free-esim/"
 
-# No text for back-to-top button, no configuration needed
 ---
 
-# Tunisia eSIM: Flexible Multi-Day Data Plans
+# Tunesien eSIM: Buy online and activate instantly
 
-> **💡 Quick Summary for Travelers:** For most travelers to Tunisia, Ooredoo offers the best balance of speed and coverage, especially in urban areas like Tunis and tourist hotspots like Hammamet. Orange is a strong alternative for those visiting rural regions or the southern desert. Both provide reliable 4G/LTE networks, perfect for navigation, social media, and video calls without roaming fees.
+> **💡 Short summary for travelers:** Top choice for business travel: cross-border 5G solutions with unlimited data. Roami's Tunesien eSIM leverages the fastest fixed network (Tunisie Telecom, median download 17.45 Mbps) and the best mobile consistency (87.6% of samples meeting 5 Mbps download threshold). For mobile, Ooredoo leads in gaming experience. Stay connected seamlessly across Tunis (35.4 Mbps mobile download) and Zaghouan (13.46 Mbps fixed download).
 
-## Things you must know before buying a Tunisia eSIM
+## Things you need to know before buying a Tunesien eSIM
 
 
-### Device compatibility check {#device-compatibility-check}
-Before purchasing a Tunisia eSIM, ensure your smartphone supports eSIM technology. Most recent models from Apple, Samsung, Google, and Huawei are compatible. Check your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> list to confirm.
+### 1. Main 5G/4G frequency bands in Tunesien {#1-main-5g4g-frequency-bands-in-tunesien}
+Tunesien's mobile networks operate on 4G bands B3 (1800 MHz), B7 (2600 MHz), B20 (800 MHz), and 5G bands n78 (3500 MHz) and n1 (2100 MHz). Ensure your device supports these bands for optimal connectivity.
 
-### Activation & setup {#activation--setup}
-After buying your Tunisia eSIM, you will receive a QR code via email. Scan it with your phone's camera and follow the on-screen instructions. The eSIM activates once you connect to a local network in Tunisia. Remember to enable data roaming in your settings.
+### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
+To activate a Tunesien eSIM, you must provide a valid passport or national ID. Some providers may require a selfie for identity verification. Roami simplifies this with a quick online upload.
 
-### Network coverage & speeds {#network-coverage--speeds}
-Ooredoo and Orange both offer extensive 4G/LTE coverage across Tunisia. Ooredoo tends to have faster speeds in cities, while Orange provides better reach in rural and desert areas. 5G is limited to select zones in Tunis and Sousse.
+### 3. Fair Usage Policy (FUP) for unlimited data plans {#3-fair-usage-policy-fup-for-unlimited-data-plans}
+Most unlimited data plans in Tunesien have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 20 GB per day). Check the specific plan details before purchase.
 
-### Data plans & pricing {#data-plans--pricing}
-Flexible multi-day data plans are available from 1 to 30 days. Prices vary based on data volume and duration. Choose a plan that matches your trip length and usage habits. All plans include unlimited data at reduced speeds after the high-speed cap is reached.
+### 4. Network coverage in remote areas {#4-network-coverage-in-remote-areas}
+While Tunisie Telecom offers the best fixed network, mobile coverage in remote areas like the Sahara desert may be limited. Consider a dual-network eSIM for backup.
+
+### 5. eSIM compatibility with local carriers {#5-esim-compatibility-with-local-carriers}
+Not all Tunesien carriers support eSIM. Tunisie Telecom and Ooredoo offer eSIM for prepaid plans. Roami partners with these carriers to ensure seamless activation.

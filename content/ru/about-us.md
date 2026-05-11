@@ -1,59 +1,59 @@
 ---
-title: "About Roami | The eSIM expert connecting global travelers"
-description: "Learn more about Roami, your one-stop network solution for global travelers. Headquartered in the USA with offices worldwide, providing cost-effective eSIM plans."
-layout: "about"   # <--- 新加这一行！告诉 Hugo 使用 about.html 模板
-type: "page"      # <--- 告诉 Hugo 这是一个单页
+title: "О Roami | Эксперт по eSIM, объединяющий путешественников по всему миру"
+description: "Узнайте больше о Roami — вашем универсальном сетевом решении для глобальных путешественников. Штаб-квартира в США, офисы по всему миру, экономичные eSIM-тарифы."
+layout: "about"
+type: "page"
 
-# 顶部横幅区域 (Hero)
+# Баннер в верхней части (Hero)
 hero:
-  subtitle: "Our Story"
-  title_main: "Connecting Your World,<br>"
-  title_highlight: "Seamlessly."
-  description: "Roami is dedicated to being your global connectivity expert. We provide a one-stop network solution for cross-border travelers worldwide, eliminating boundaries and roaming anxiety."
+  subtitle: "Наша история"
+  title_main: "Объединяем ваш мир,<br>"
+  title_highlight: "бесшовно."
+  description: "Roami стремится быть вашим экспертом по глобальной связи. Мы предоставляем комплексное сетевое решение для путешественников по всему миру, устраняя границы и беспокойство о роуминге."
   bg_image: "img/about-bg.png"
 
-# 我们的使命与愿景区域 (Mission & Vision)
+# Наша миссия и видение (Mission & Vision)
 mission:
-  title: "Redefining Global Travel Connectivity"
+  title: "Переосмысление глобальной связи для путешествий"
   paragraphs:
-    - "At Roami, we believe that staying connected while traveling should be as simple as packing your passport. Founded with the vision of breaking down digital borders, we offer a comprehensive, <strong>one-stop network solution</strong> tailored for the modern global traveler."
-    - "We pride ourselves on delivering <strong>highly cost-effective eSIM plans</strong> without compromising on quality. By partnering with top-tier local carriers across 200+ countries and regions, we ensure you get premium 5G/4G high-speed internet at unbeatable prices. No hidden fees, no physical SIM cards, just instant, reliable connectivity wherever you land."
+    - "В Roami мы верим, что оставаться на связи во время путешествий должно быть так же просто, как взять с собой паспорт. Основанная с видением разрушения цифровых границ, мы предлагаем комплексное <strong>универсальное сетевое решение</strong>, созданное для современного глобального путешественника."
+    - "Мы гордимся тем, что предлагаем <strong>высокоэкономичные eSIM-тарифы</strong> без ущерба для качества. Сотрудничая с ведущими местными операторами в более чем 200 странах и регионах, мы гарантируем вам премиальный высокоскоростной интернет 5G/4G по непревзойденным ценам. Без скрытых платежей, без физических SIM-карт – просто мгновенное и надежное подключение, где бы вы ни приземлились."
   
-  # 两个特点小卡片
+  # Две карточки с особенностями
   features:
     - icon: "zap"
-      title: "One-Stop Solution"
-      desc: "From purchase to instant activation, manage all your global data needs in one powerful app."
+      title: "Универсальное решение"
+      desc: "От покупки до мгновенной активации – управляйте всеми вашими глобальными потребностями в данных в одном мощном приложении."
       color: "blue"
     - icon: "piggy-bank"
-      title: "Cost-Effective"
-      desc: "Premium local networks at a fraction of traditional roaming costs. Unbeatable value."
+      title: "Экономичность"
+      desc: "Премиальные локальные сети за малую долю традиционных роуминговых затрат. Непревзойденная ценность."
       color: "emerald"
       
-  # 右侧图片和统计数据
+  # Изображение и статистика справа
   image: "img/about-5.png"
-  stats_title: "1M+ Happy Travelers"
-  stats_desc: "Trusted by professionals and tourists globally."
+  stats_title: "Более 1 млн довольных путешественников"
+  stats_desc: "Доверие профессионалов и туристов по всему миру."
 
-# 全球业务分布区域 (Global Presence)
+# Присутствие в мире (Global Presence)
 presence:
-  subtitle: "Global Presence"
-  title: "Born in the USA, Serving the World"
-  description: "Headquartered in the United States, Roami operates strategically located offices across the globe to provide localized, 24/7 support and ensure seamless network quality."
+  subtitle: "Глобальное присутствие"
+  title: "Рождены в США, служим миру"
+  description: "Имея штаб-квартиру в Соединенных Штатах, Roami управляет стратегически расположенными офисами по всему миру, чтобы обеспечивать локализованную круглосуточную поддержку и гарантировать бесшовное качество сети."
   
-  # 城市卡片列表
+  # Список городов
   cities:
-    - name: "United States"
+    - name: "Соединенные Штаты"
       image: "img/about-1.png"
-      tag: "Headquarters"
-      desc: "Our global headquarters driving technological innovation, product strategy, and core network partnerships."
-    - name: "Hong Kong"
+      tag: "Штаб-квартира"
+      desc: "Наш глобальный штаб управляет технологическими инновациями, продуктовой стратегией и основными сетевыми партнерствами."
+    - name: "Гонконг"
       image: "img/about-2.png"
-      desc: "Our Asia-Pacific hub, focusing on regional carrier integrations and rapid customer support for Asian markets."
-    - name: "Canada"
+      desc: "Наш Азиатско-Тихоокеанский хаб, фокусирующийся на региональной интеграции операторов и оперативной поддержке клиентов на азиатских рынках."
+    - name: "Канада"
       image: "img/about-3.png"
-      desc: "Supporting our North American operations, ensuring robust connectivity and localized enterprise solutions."
-    - name: "Singapore"
+      desc: "Поддерживает нашу североамериканскую деятельность, обеспечивая надежное подключение и локализованные корпоративные решения."
+    - name: "Сингапур"
       image: "img/about-4.png"
-      desc: "Our Southeast Asia expansion center, optimizing regional data routing and delivering seamless travel experiences."
+      desc: "Наш центр расширения в Юго-Восточной Азии, оптимизирующий региональную маршрутизацию данных и обеспечивающий бесшовный опыт путешествий."
 ---

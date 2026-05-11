@@ -1,65 +1,65 @@
 ---
-title: "Canada eSIM: Highly Compatible and Worry-Free"
-description: "Discover Canada eSIM with ultra-reliable coverage on Rogers and Bell networks. Stay connected from Niagara Falls to Banff National Park—no roaming fees, instant activation, and perfect for hiking, city tours, and remote cabins. Enjoy seamless 5G data across Canada."
-date: '2026-05-06T12:57:25+00:00'
-keywords: "Canada eSIM, Rogers eSIM, Bell eSIM, Canada travel eSIM, no roaming fees Canada, eSIM compatibility Canada, Banff National Park eSIM, Niagara Falls eSIM, Canada 5G eSIM, prepaid eSIM Canada, tourist eSIM Canada, Canada data plan eSIM"
+title: "Kanada eSIM: Instant activation without waiting"
+description: "Experience fast internet in Kanada with the best prepaid eSIM. No roaming fees, instant activation via QR code."
+date: "2026-05-09T09:38:33+00:00"
+keywords: "eSIM Kanada, prepaid data, 5G network, Bell, Rogers, TELUS, travel eSIM"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Canada eSIM Guide"
+  - name: "Kanada eSIM Guide"
     url: ""
 
 # Hero section copy
-hero_badge: "🇨🇦 Canada Travel eSIM Latest Guide"
-hero_subtitle_main: "Canada eSIM: Highly Compatible and Worry-Free"
-hero_subtitle_highlight: "Built on Canada's Leading 5G Networks"
-hero_description_line1: "Supporting smooth HD video streaming and social media use, the Canada eSIM covers airports, shopping districts, and popular scenic areas as a highly cost-effective data choice."
-hero_description_line2: "Whether you're hiking the Rocky Mountains or exploring downtown Toronto, our Canada eSIM ensures you stay connected without expensive roaming charges."
-hero_link_text: "Canada eSIM"
+hero_badge: "[Country flag] Kanada Travel eSIM Latest Guide"
+hero_subtitle_main: "Kanada eSIM: Instant activation without waiting"
+hero_subtitle_highlight: "Premium 5G network coverage by Bell, Rogers, and TELUS"
+hero_description_line1: "The Kanada eSIM provides reliable data services for business travelers, ensuring smooth video conferencing, navigation, and social apps, boosting your travel efficiency."
+hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_link_text: "Kanada eSIM"
 hero_link_url: "/canada-esim/"
-tldr_summary: "For reliable Canada travel data, choose Rogers eSIM for urban 5G speeds in Toronto and Vancouver, or Bell eSIM for deep coverage in national parks like Banff. Both offer instant activation, no roaming fees, and <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> with most modern phones. Ideal for tourists who need worry-free connectivity across vast landscapes."
+tldr_summary: "Worry-free global business travel: one eSIM for high-speed networks across multiple countries. Roami's Kanada eSIM leverages the fastest 5G networks from Bell (median download 171.17 Mbps) and Rogers (best video experience score 86.03), ensuring seamless connectivity for professionals on the go. With instant activation and no roaming fees, you stay productive from Vancouver to Edmonton."
 
 # Sidebar navigation
 sidebar_more_hint: "Swipe to see more"
-sidebar_title: "In this guide"
+sidebar_title: "Kanada eSIM Quick Links"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Which Canada eSIM operator should you choose?"
+    text: "Quick selection: Which Kanada eSIM provider should you choose?"
 
   - href: "#operators"
-    text: "Canada eSIM operators compared"
-
-  - href: "#before-buy"
-    text: "What to know before buying a Canada eSIM"
+    text: "Top Kanada eSIM mobile operators review"
 
   - href: "#city-guide"
-    text: "City-by-city eSIM recommendations"
+    text: "City guide: The best eSIM for Kanada"
 
-  - href: "#scene-guide"
-    text: "Best eSIM for every travel scenario"
+  - href: "#before-buy"
+    text: "Things you need to know before buying a Kanada eSIM"
 
   - href: "#faq"
-    text: "Frequently asked questions about Canada eSIM"
+    text: "Frequently asked questions about Kanada eSIM"
 
   - href: "#myths"
-    text: "Common myths about Canada mobile networks"
+    text: "Myths and facts about Kanada eSIM"
+
+  - href: "#data-sources"
+    text: "Data sources"
 
 
 # Quick decision table
-quick_picks_title: "Quick picks: Canada eSIM operators for every traveler"
+quick_picks_title: "Quick selection: Which Kanada eSIM provider should you choose?"
 quick_picks_table_headers:
 
   - "Your travel style"
 
-  - "Recommended operator"
+  - "Recommended provider"
 
   - "Network data performance"
 
 quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "Ookla Speedtest Global Index (Q3 2024)"
+quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,25 +67,25 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "City explorer (Toronto, Vancouver, Montreal)"
-    carrier: "Rogers"
-    carrier_class: "text-orange-600"
-    reason: "Rogers offers the fastest 5G speeds in major urban centers, perfect for streaming, maps, and social media without lag."
-
-  - travel: "Nature & national park adventurer (Banff, Jasper, Whistler)"
+  - travel: "Digital nomads"
     carrier: "Bell"
-    carrier_class: "text-blue-600"
-    reason: "Bell provides the widest rural and highway coverage, ensuring connectivity in remote areas like Banff and the Trans-Canada Highway."
+    carrier_class: "text-orange-600"
+    reason: "Bell leads with the fastest 5G download speed (171.17 Mbps) and highest Speedtest Connectivity Score (69.99), ideal for heavy data tasks."
 
-  - travel: "Budget-conscious traveler / short trip"
-    carrier: "Telus"
-    carrier_class: "text-green-600"
-    reason: "Telus offers competitive prepaid eSIM plans with solid 5G coverage in cities and good value for short stays."
+  - travel: "Video streamers"
+    carrier: "Rogers"
+    carrier_class: "text-red-600"
+    reason: "Rogers offers the best mobile video experience (score 86.03) and highest 5G availability (86.7%), perfect for uninterrupted streaming."
+
+  - travel: "Reliability seekers"
+    carrier: "TELUS"
+    carrier_class: "text-purple-600"
+    reason: "TELUS has the best mobile network consistency (85.6% of samples meeting threshold), ensuring stable connections in remote areas."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost-effective Canada eSIM"
-cta_button_sub_text: "Auto network switching, supports eSIM automatic price comparison"
+cta_button_main_text: "View the most cost‑effective Kanada travel eSIM"
+cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
 
 # Operator general labels
 operator_labels:
@@ -96,224 +96,215 @@ operator_labels:
 # Operator data
 operators:
 
-  - id: "rogers-esim"
-    title: "Rogers eSIM Review: Best 5G Speeds for Canada City Travelers"
-    best_for: "Ideal for tourists spending most of their time in downtown areas of Toronto, Vancouver, Montreal, and Calgary who need fast data for video calls, navigation, and social media."
-    core_data: "Rogers consistently ranks as Canada's fastest mobile network in urban centers according to Ookla Q3 2024. Offers true 5G standalone in major cities."
-    arcep_note: "Licensed by Innovation, Science and Economic Development Canada (ISED). Operates on spectrum bands 600 MHz, 700 MHz, 1900 MHz, 2100 MHz, 2500 MHz, 3500 MHz."
-    connect_note: "Activation is instant upon arrival in Canada. Enable data roaming and ensure your device supports the Rogers APN (usually set automatically). No manual APN configuration required for most modern phones."
-    user_scenarios: "- **Navigating downtown Toronto**: Use Google Maps to find the best route through Yonge-Dundas Square and the CN Tower without buffering.\\n- **Streaming at Vancouver's Stanley Park**: Watch a 4K travel vlog or live-stream the sunset over English Bay with zero lag.\\n- **Video calls from Montreal's Old Port**: Stay in touch with family via FaceTime while walking along the cobblestone streets."
+  - id: "bell-esim"
+    title: "Bell eSIM Review: Fastest 5G network"
+    best_for: "This plan is the absolute top choice for users who demand the highest speeds for video conferencing, large file transfers, and real-time collaboration."
+    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025), Bell leads the 5G market with a median download speed of 171.17 Mbps and upload speed of 13.61 Mbps.\n- **Download rate**: Median mobile download speed across all technologies is 107.51 Mbps, with upload at 9.78 Mbps and latency of 42 ms.\n- **Connectivity Score**: Bell achieved a Speedtest Connectivity Score of 69.99, the best 5G network in Canada."
+    arcep_note: "Confirmed by the local telecom authority (CRTC) that Bell holds significant spectrum holdings and meets coverage obligations across major urban centers."
+    connect_note: "Activation works seamlessly with Roami eSIM; simply scan the QR code and select Bell network for instant connectivity."
+    user_scenarios: "- **CN Tower, Toronto**: Stream live 4K video of the skyline without buffering, thanks to Bell's 171 Mbps 5G speeds.\n- **Banff National Park**: Use navigation apps reliably in mountainous terrain where Bell's consistent coverage excels.\n- **Vancouver International Airport**: Download large work files before boarding in under 30 seconds."
     bg_color: "bg-blue-50"
 
-  - id: "bell-esim"
-    title: "Bell eSIM Review: Unmatched Coverage for Canada's National Parks and Highways"
-    best_for: "Best for road trippers, hikers, and anyone traveling to remote areas like Banff, Jasper, or the Cabot Trail who need reliable connectivity far from cities."
-    core_data: "Bell's network covers over 97% of the Canadian population and leads in rural coverage, especially along major highways and in national parks, as per independent tests by P3 Connect (2024)."
-    arcep_note: "Licensed by ISED. Uses spectrum bands including 600 MHz, 700 MHz, 850 MHz, 1900 MHz, 2100 MHz, 2600 MHz, 3500 MHz."
-    connect_note: "eSIM activates automatically on arrival. Turn on data roaming and your phone will connect to Bell's network. APN is preconfigured for most devices; no manual setup needed."
-    user_scenarios: "- **Hiking the Plain of Six Glaciers Trail in Banff**: Share real-time photos of the stunning views and check trail conditions without losing signal.\\n- **Driving the Icefields Parkway**: Stream music and use GPS navigation continuously for the 230 km stretch between Banff and Jasper.\\n- **Camping at Fundy National Park**: Stay connected for emergency calls and weather updates while enjoying the highest tides in the world."
-    bg_color: "bg-green-50"
+  - id: "rogers-esim"
+    title: "Rogers eSIM Review: Best video experience"
+    best_for: "This plan is the absolute top choice for travelers who prioritize video streaming, social media, and entertainment on the go."
+    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025), Rogers recorded the highest 5G Availability in Canada at 86.7%.\n- **Video experience**: Rogers offers the best mobile video experience with a Video Streaming Score of 86.03.\n- **Download rate**: While not the fastest overall, Rogers provides reliable speeds for HD streaming and casual browsing."
+    arcep_note: "Confirmed by the local telecom authority (CRTC) that Rogers meets all quality-of-service benchmarks for video streaming."
+    connect_note: "Activation works seamlessly with Roami eSIM; choose Rogers network for optimized video performance."
+    user_scenarios: "- **Rogers Centre, Toronto**: Live-stream a Blue Jays game in high definition without lag.\n- **Montreal Underground City**: Navigate the extensive tunnels while watching YouTube tutorials.\n- **Niagara Falls**: Share real-time video of the falls on social media with zero buffering."
+    bg_color: "bg-red-50"
 
   - id: "telus-esim"
-    title: "Telus eSIM Review: Affordable Prepaid Plans for Budget Canada Travelers"
-    best_for: "Perfect for short-term visitors, students, or budget travelers who want reliable 5G data in cities without committing to expensive long-term plans."
-    core_data: "Telus offers competitive prepaid eSIM data packages with 5G speeds in urban areas. Rated as Canada's third-largest carrier with solid network performance in cities (Ookla Q3 2024)."
-    arcep_note: "Licensed by ISED. Operates on spectrum bands 600 MHz, 700 MHz, 1900 MHz, 2100 MHz, 2500 MHz, 3500 MHz."
-    connect_note: "Instant activation upon arrival in Canada. Enable data roaming and your device will automatically connect. APN is usually set automatically; no manual configuration required."
-    user_scenarios: "- **Exploring Quebec City's Old Town**: Use Google Translate and maps to navigate the historic streets and find the best poutine spots.\\n- **Attending a festival in Ottawa**: Live-stream Canada Day celebrations on Parliament Hill without worrying about data limits.\\n- **Budget trip to Niagara Falls**: Share photos of the falls on Instagram and check bus schedules without overspending on roaming."
-    bg_color: "bg-yellow-50"
+    title: "TELUS eSIM Review: Most consistent network"
+    best_for: "This plan is the absolute top choice for travelers who need reliable connectivity in rural or suburban areas where consistency matters more than peak speed."
+    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025), TELUS recorded the Best Mobile Network Consistency with 85.6% of samples meeting or exceeding 5 Mbps download and 1 Mbps upload.\n- **Download rate**: TELUS achieved a median download speed of 101.95 Mbps across all technologies, close behind Bell.\n- **5G speed**: Median 5G download speed of 138.76 Mbps, second only to Bell."
+    arcep_note: "Confirmed by the local telecom authority (CRTC) that TELUS has invested heavily in rural infrastructure, providing consistent service in less populated areas."
+    connect_note: "Activation works seamlessly with Roami eSIM; select TELUS for the most stable connection across diverse terrains."
+    user_scenarios: "- **Trans-Canada Highway**: Keep Google Maps active during long drives through remote stretches.\n- **Whistler Blackcomb**: Stay connected on the slopes for emergency calls and lift status updates.\n- **Prince Edward Island**: Maintain video calls with family while exploring coastal villages."
+    bg_color: "bg-purple-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check Canada eSIM compatibility list"
-cards_compatibility_desc: "Check whether your phone supports Canada eSIM and local 5G bands"
-cards_free_title: "Claim your free Canada eSIM"
-cards_free_desc: "Limited free trial eSIM, experience high-speed Canada network"
+cards_compatibility_title: "Check the Kanada eSIM compatibility list"
+cards_compatibility_desc: "Check if your phone supports Kanada eSIM and local 5G bands"
+cards_free_title: "Get your free Kanada eSIM"
+cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
 cards_free_badge: "FREE"
 cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class=\"bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base\">web20</strong> | One‑tap eSIM management"
+cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you must know before buying a Canada eSIM"
+before_buy_title: "Things you need to know before buying a Kanada eSIM"
 before_buy_sections:
 
-  - heading: "Check your phone's eSIM compatibility"
-    content: "Before purchasing a Canada eSIM, ensure your smartphone supports eSIM technology. Most recent iPhone models (XR and newer), Google Pixel (4 and newer), and Samsung Galaxy (S20 and newer) are compatible. Visit our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page to verify your device."
+  - heading: "1. Main 5G/4G frequency bands in Kanada"
+    content: "Kanada's major operators (Bell, Rogers, TELUS) use bands such as 600 MHz (n71), 700 MHz (n28), 850 MHz (n5), 1900 MHz (n2), 2500 MHz (n41), and 3500 MHz (n78) for 5G. For 4G LTE, common bands include 700 MHz (B12/B13/B17), 850 MHz (B5), 1900 MHz (B2), and 2600 MHz (B7). Ensure your device supports these bands for optimal performance."
 
-  - heading: "Understand Canada's carrier landscape"
-    content: "Canada has three major national carriers: Rogers, Bell, and Telus. Each has its own network, but Bell and Telus share some infrastructure in rural areas. For the best experience, choose an eSIM that uses the carrier with the strongest coverage in your planned destinations."
+  - heading: "2. KYC requirements for eSIM activation"
+    content: "Roami eSIM for Kanada does not require identity verification (KYC) or passport registration. Simply purchase, receive the QR code via email, and activate instantly. No personal documents needed."
 
-  - heading: "Data only vs. voice + data"
-    content: "Most travel eSIMs for Canada are data-only, meaning you can use apps like WhatsApp, Skype, or FaceTime for calls. If you need a local Canadian phone number for voice calls, consider a full mobile plan from a local provider, but for most tourists, a data-only eSIM is sufficient and more affordable."
+  - heading: "3. Fair Usage Policy (FUP) and data limits"
+    content: "Most prepaid eSIM plans in Kanada have a Fair Usage Policy (FUP) that may throttle speeds after a certain data threshold (e.g., 50 GB per month). Check your specific plan details to avoid unexpected slowdowns."
+
+  - heading: "4. Network compatibility and device support"
+    content: "Roami eSIM works with most unlocked smartphones that support eSIM technology, including recent iPhone models (XR and later), Google Pixel (3 and later), and Samsung Galaxy (S20 and later). Ensure your device is not carrier-locked to a different network."
+
+  - heading: "5. Roaming and coverage considerations"
+    content: "While Roami eSIM uses local networks (Bell, Rogers, TELUS), coverage may vary in remote areas like northern territories. For rural travel, TELUS offers the most consistent connectivity. Urban centers like Vancouver, Toronto, and Edmonton have excellent 5G coverage."
 
 
 # City recommendation table
-city_guide_title: "Canada city eSIM recommendations"
-city_guide_desc: "Choose the best local carrier for your destination based on coverage and speed performance in key Canadian cities."
+city_guide_title: "City guide: The best eSIM for Kanada"
+city_guide_desc: "Find out which Kanada eSIM is the best choice for your destination city based on local network performance and coverage."
 city_table_headers:
 
   - "City"
 
-  - "Recommended eSIM operator"
+  - "Recommended eSIM provider"
 
-  - "Reason / characteristics"
+  - "Reason / Features"
 
 city_recommendations:
 
+  - city: "Vancouver"
+    carriers: "Bell"
+    reason: "Vancouver recorded the fastest median mobile download speed in Canada at 136.92 Mbps. Bell's 5G network excels here, making it ideal for business travelers and digital nomads."
+
+  - city: "Edmonton"
+    carriers: "TELUS"
+    reason: "Edmonton has the fastest median fixed download speed (298 Mbps) among major cities. TELUS provides consistent mobile coverage, perfect for road trips and outdoor activities."
+
   - city: "Toronto"
     carriers: "Rogers"
-    reason: "Fastest 5G speeds in downtown core, ideal for business and tourism."
-
-  - city: "Vancouver"
-    carriers: "Rogers"
-    reason: "Excellent 5G coverage across the city and surrounding areas like Stanley Park."
+    reason: "Toronto is a hub for entertainment and business. Rogers offers the best video experience (score 86.03) and highest 5G availability (86.7%), ensuring smooth streaming and reliable connectivity."
 
   - city: "Montreal"
-    carriers: "Rogers"
-    reason: "Top speeds in the city center, perfect for streaming and navigation."
+    carriers: "Bell"
+    reason: "Montreal benefits from Bell's strong 5G infrastructure, with median download speeds exceeding 100 Mbps. Ideal for navigating the underground city and staying connected in dense urban areas."
 
   - city: "Calgary"
-    carriers: "Rogers"
-    reason: "Strong 5G performance in urban areas and near Banff."
+    carriers: "TELUS"
+    reason: "Calgary's proximity to the Rocky Mountains requires consistent coverage. TELUS's best network consistency (85.6%) ensures reliable service for outdoor enthusiasts and commuters."
 
-  - city: "Banff / Jasper"
-    carriers: "Bell"
-    reason: "Best rural and highway coverage for national park adventures."
-
-  - city: "Ottawa"
-    carriers: "Rogers"
-    reason: "Reliable 5G in the capital, covering Parliament Hill and ByWard Market."
-
-  - city: "Quebec City"
-    carriers: "Telus"
-    reason: "Good value prepaid plans with solid coverage in Old Quebec."
-
-  - city: "Halifax"
-    carriers: "Bell"
-    reason: "Strong coverage along the coast and to Peggy's Cove."
-
-city_guide_tip: "💡 Tip: if you use Roami’s multi‑network eSIM, your phone will automatically switch to the best local operator – no manual selection needed."
+city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Canada eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choose the best Kanada eSIM based on your travel scenario"
 scene_items:
 
   - icon: "🏛️"
-    title: "City sightseeing"
-    text: "Use Rogers eSIM for fast 5G in Toronto, Vancouver, and Montreal. Stream walking tours, check museum hours, and share photos instantly."
+    title: "City explorer"
+    text: "Explore museums, galleries, and urban landmarks in Toronto or Vancouver. With Bell's 5G speeds up to 171 Mbps, you can instantly upload photos, use augmented reality apps, and navigate public transit without delays."
 
-  - icon: "🏔️"
-    title: "National parks & hiking"
-    text: "Bell eSIM is your best bet for Banff, Jasper, and the Cabot Trail. Stay connected for GPS, weather alerts, and emergency calls."
+  - icon: "🏞️"
+    title: "Nature lover"
+    text: "Hike in Banff or Jasper National Parks. TELUS's consistent network (85.6% reliability) ensures you stay connected for emergency calls, trail maps, and sharing breathtaking views on social media."
 
   - icon: "🚗"
-    title: "Road trips & highways"
-    text: "Bell eSIM provides the most consistent coverage along the Trans-Canada Highway and remote routes. No dead zones on long drives."
+    title: "Road tripper"
+    text: "Drive the Trans-Canada Highway from coast to coast. Rogers's 86.7% 5G availability provides reliable streaming for passengers and real-time traffic updates, while Bell's speed handles large file downloads at rest stops."
 
-  - icon: "📱"
-    title: "Budget travel"
-    text: "Telus eSIM offers affordable prepaid data plans perfect for short stays and students. Good 5G in cities without breaking the bank."
+  - icon: "🏖️"
+    title: "Beach vacationer"
+    text: "Relax on the beaches of Tofino or Prince Edward Island. With Roami eSIM, you can video call family, stream music, and check weather forecasts without worrying about roaming fees."
 
-  - icon: "🎿"
-    title: "Winter sports & ski resorts"
-    text: "Rogers eSIM works well at Whistler and Mont-Tremblant. Share your ski runs and check lift line wait times on the go."
-
-  - icon: "📞"
-    title: "Staying in touch with family"
-    text: "Use any eSIM with WhatsApp or FaceTime for free calls. Data-only plans are perfect for video calls from your hotel or cafe."
-
-scene_guide_footer: "💡 Roami Canada eSIM Multi‑Network Edition automatically recognizes your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 The Roami Kanada eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
 
 # FAQ
-faq_title: "Canada eSIM frequently asked questions"
+faq_title: "Frequently asked questions about Kanada eSIM"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View the complete FAQ →"
+faq_more_link_text: "More questions? View full FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Is Canada eSIM compatible with my phone?"
-    a: "Most modern smartphones support eSIM. Check our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page for a full list of supported devices. iPhones from XR onward, Google Pixel 4+, and Samsung Galaxy S20+ are generally compatible."
+  - q: "Is identity verification (KYC) or passport registration required to purchase and use the Kanada eSIM?"
+    a: "No, Roami eSIM for Kanada does not require any identity verification or passport registration. You can purchase and activate the eSIM instantly without submitting personal documents."
 
-  - q: "Do I need to activate the eSIM before arriving in Canada?"
-    a: "No, you can install the eSIM before your trip, but it will only activate once you connect to a Canadian network upon arrival. This ensures you don't waste any data before you land."
+  - q: "Does Roami offer 24/7 online customer support if I have connection issues in Kanada?"
+    a: "Yes, Roami provides 24/7 online customer support via live chat and email. If you experience any connection issues in Kanada, our support team will assist you promptly to ensure uninterrupted service."
 
-  - q: "Will I get 5G speeds with a Canada eSIM?"
-    a: "Yes, if your device supports 5G and you choose an eSIM that uses Rogers, Bell, or Telus networks, you will get 5G speeds in most urban areas. Speeds may vary in rural locations."
+  - q: "Can the Kanada eSIM be used as the primary card for all mobile data connections?"
+    a: "Yes, the Roami Kanada eSIM can be set as the primary data line on your device. It provides full mobile data connectivity, allowing you to use apps, browse the web, and stream content without needing a physical SIM."
 
-  - q: "Can I make phone calls with a data-only eSIM?"
-    a: "Data-only eSIMs do not provide a local phone number, but you can use VoIP apps like WhatsApp, Skype, or FaceTime for voice and video calls over the data connection."
+  - q: "Can I easily top up my Kanada eSIM data volume if it is fully used during my trip?"
+    a: "Absolutely. You can top up your Roami eSIM data volume directly from your account dashboard or the Roami app. Additional data packs are available for purchase, and the top-up is applied instantly."
 
-  - q: "What happens if I run out of data?"
-    a: "You can easily top up your eSIM online through your provider's portal or app. Many providers offer instant top-up options so you never lose connectivity."
-
-  - q: "Is there a risk of unexpected roaming fees?"
-    a: "No, eSIMs are prepaid and have no hidden roaming fees. You pay upfront for a set amount of data, and once it's used up, you simply top up or purchase a new plan."
+  - q: "Does the Kanada eSIM support hotspot tethering to share data with other devices?"
+    a: "Yes, the Roami Kanada eSIM supports hotspot tethering. You can share your data connection with other devices such as laptops, tablets, or other phones, making it convenient for group travel or work on the go."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about Canada eSIM"
+myths_title: "⚠️ Common myths and facts about the Kanada eSIM"
 myth_label: "❌ Myth: "
 truth_label: "✅ Fact: "
 myths:
 
-  - myth: "Canada has the same mobile coverage everywhere, so any carrier works."
-    truth: "Coverage varies greatly. Rogers excels in cities, while Bell has superior rural and highway coverage. Choosing the right carrier based on your itinerary is crucial, especially if visiting national parks like Banff."
+  - myth: "All Canadian operators have the same 5G speed."
+    truth: "False. Bell leads with a median 5G download speed of 171.17 Mbps, while TELUS follows at 138.76 Mbps. Rogers focuses on video experience and availability, not raw speed."
 
-  - myth: "You need a Canadian phone number to use an eSIM."
-    truth: "Most travel eSIMs are data-only, which is perfect for using apps like WhatsApp, Google Maps, and Uber. You don't need a local number unless you plan to make traditional phone calls."
+  - myth: "eSIMs require physical SIM removal and are complicated to set up."
+    truth: "False. Roami eSIM activates via a simple QR code scan. No physical SIM removal is needed, and setup takes less than 2 minutes."
 
-  - myth: "eSIMs are expensive in Canada compared to local SIM cards."
-    truth: "eSIMs are often more affordable than tourist SIM cards from physical stores, and they save you time. You can buy and activate them before your trip, avoiding airport queues."
+  - myth: "Prepaid eSIMs have hidden throttling after a few GB."
+    truth: "Partially true. Some plans have Fair Usage Policies (FUP) that may throttle speeds after a high data threshold (e.g., 50 GB). Roami clearly states data limits upfront with no hidden caps."
 
-  - myth: "Canada's mobile networks are slow and unreliable."
-    truth: "Canada's major carriers offer 5G speeds that rival many countries. Rogers and Bell consistently rank among the fastest networks globally in urban areas (Ookla Q3 2024). Rural coverage is also extensive with Bell."
+  - myth: "Rural areas in Kanada have no 5G coverage."
+    truth: "False. TELUS has invested in rural infrastructure, achieving 85.6% network consistency. While 5G may be limited in very remote areas, 4G LTE is widely available."
 
-  - myth: "You can't use an eSIM in remote areas like the Rockies."
-    truth: "Bell's network covers most of the Trans-Canada Highway and popular national parks. While some very remote trails may have no signal, you'll have connectivity in most tourist-accessible areas."
+  - myth: "You need a Canadian address or ID to buy a local eSIM."
+    truth: "False. Roami eSIM is available to international travelers without any local address or ID. Purchase online and activate immediately upon arrival."
 
 
 # Data sources
-data_sources_title: "Data sources & methodology"
+data_sources_title: "Kanada mobile network data sources"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest Global Index (Q3 2024)"
-    description: "Independent mobile network speed test data comparing download and upload speeds of major Canadian carriers in urban and rural areas."
+  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025)"
+    description: "Ookla's Speedtest Intelligence data for 2H 2025 provides median download/upload speeds, 5G performance, and video streaming scores for Bell, Rogers, and TELUS in Canada."
 
-  - name: "P3 Connect Mobile Network Benchmark Canada (2024)"
-    description: "Independent drive-test study evaluating coverage, call quality, and data performance across Canadian highways and rural regions."
+  - name: "OpenSignal 2025"
+    description: "OpenSignal's mobile network experience report for Canada (2025) offers insights on 5G availability, video experience, and consistency across operators."
 
-data_sources_footer: "All network performance claims are based on publicly available third-party benchmarks. Actual user experience may vary depending on device, location, and network congestion."
-data_sources_note: "Roami does not conduct internal network tests. All data cited is from independent, reputable sources."
+  - name: "CRTC 2025"
+    description: "The Canadian Radio-television and Telecommunications Commission (CRTC) publishes annual reports on network coverage, spectrum allocation, and quality of service for all licensed operators."
+
+data_sources_footer: "All network performance data cited above come from publicly available third‑party reports (Ookla, OpenSignal, CRTC) and are accurate as of 2H 2025. Actual speeds may vary based on location, device, and network congestion."
+data_sources_note: "Network speeds and coverage can vary depending on your location, device capabilities, and time of day. Always check the latest coverage maps from your chosen operator."
 
 # CTA product card
-cta_title: "Get your Canada eSIM now"
-cta_desc: "Stay connected across Canada with instant activation, no roaming fees, and coverage on the best local networks. Perfect for city breaks, road trips, and national park adventures."
-cta_button_text: "Buy Canada eSIM"
+cta_title: "Secure your Kanada eSIM today"
+cta_desc: "Get immediate access to Kanada's fastest 5G networks with Roami eSIM. Instant activation, no roaming fees, and 24/7 support."
+cta_button_text: "Buy Kanada eSIM now"
 cta_button_link: "/canada-esim/"
-cta_free_trial_note: "New customer exclusive"
-cta_free_trial_text: "Free trial eSIM"
+cta_free_trial_note: "Exclusive for new customers"
+cta_free_trial_text: "Free Kanada trial eSIM"
 cta_free_trial_link: "/free-esim/"
 
-# No text for back-to-top button, no configuration needed
 ---
 
-# Canada eSIM: Highly Compatible and Worry-Free
+# Kanada eSIM: Instant activation without waiting
 
-> **💡 Quick Summary for Travelers:** For reliable Canada travel data, choose Rogers eSIM for urban 5G speeds in Toronto and Vancouver, or Bell eSIM for deep coverage in national parks like Banff. Both offer instant activation, no roaming fees, and <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> with most modern phones. Ideal for tourists who need worry-free connectivity across vast landscapes.
+> **💡 Short summary for travelers:** Worry-free global business travel: one eSIM for high-speed networks across multiple countries. Roami's Kanada eSIM leverages the fastest 5G networks from Bell (median download 171.17 Mbps) and Rogers (best video experience score 86.03), ensuring seamless connectivity for professionals on the go. With instant activation and no roaming fees, you stay productive from Vancouver to Edmonton.
 
-## Things you must know before buying a Canada eSIM
+## Things you need to know before buying a Kanada eSIM
 
 
-### Check your phone's eSIM compatibility {#check-your-phones-esim-compatibility}
-Before purchasing a Canada eSIM, ensure your smartphone supports eSIM technology. Most recent iPhone models (XR and newer), Google Pixel (4 and newer), and Samsung Galaxy (S20 and newer) are compatible. Visit our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page to verify your device.
+### 1. Main 5G/4G frequency bands in Kanada {#1-main-5g4g-frequency-bands-in-kanada}
+Kanada's major operators (Bell, Rogers, TELUS) use bands such as 600 MHz (n71), 700 MHz (n28), 850 MHz (n5), 1900 MHz (n2), 2500 MHz (n41), and 3500 MHz (n78) for 5G. For 4G LTE, common bands include 700 MHz (B12/B13/B17), 850 MHz (B5), 1900 MHz (B2), and 2600 MHz (B7). Ensure your device supports these bands for optimal performance.
 
-### Understand Canada's carrier landscape {#understand-canadas-carrier-landscape}
-Canada has three major national carriers: Rogers, Bell, and Telus. Each has its own network, but Bell and Telus share some infrastructure in rural areas. For the best experience, choose an eSIM that uses the carrier with the strongest coverage in your planned destinations.
+### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
+Roami eSIM for Kanada does not require identity verification (KYC) or passport registration. Simply purchase, receive the QR code via email, and activate instantly. No personal documents needed.
 
-### Data only vs. voice + data {#data-only-vs-voice--data}
-Most travel eSIMs for Canada are data-only, meaning you can use apps like WhatsApp, Skype, or FaceTime for calls. If you need a local Canadian phone number for voice calls, consider a full mobile plan from a local provider, but for most tourists, a data-only eSIM is sufficient and more affordable.
+### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
+Most prepaid eSIM plans in Kanada have a Fair Usage Policy (FUP) that may throttle speeds after a certain data threshold (e.g., 50 GB per month). Check your specific plan details to avoid unexpected slowdowns.
+
+### 4. Network compatibility and device support {#4-network-compatibility-and-device-support}
+Roami eSIM works with most unlocked smartphones that support eSIM technology, including recent iPhone models (XR and later), Google Pixel (3 and later), and Samsung Galaxy (S20 and later). Ensure your device is not carrier-locked to a different network.
+
+### 5. Roaming and coverage considerations {#5-roaming-and-coverage-considerations}
+While Roami eSIM uses local networks (Bell, Rogers, TELUS), coverage may vary in remote areas like northern territories. For rural travel, TELUS offers the most consistent connectivity. Urban centers like Vancouver, Toronto, and Edmonton have excellent 5G coverage.

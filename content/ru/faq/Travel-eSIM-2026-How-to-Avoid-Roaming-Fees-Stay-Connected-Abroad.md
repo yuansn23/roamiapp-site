@@ -1,325 +1,325 @@
 ---
-title: "Travel eSIM 2026: How to Avoid Roaming Fees & Stay Connected Abroad (iOS 26)"
-description: "Traveling abroad? Use a travel eSIM with iOS 26's smart assistant. Compare roaming vs local eSIM vs global data plans. Step-by-step activation, unlock check, and avoid bill shock. Save up to 90% on roaming."
-keywords: ["travel eSIM", "international roaming", "iOS 26 travel eSIM", "buy eSIM for travel", "eSIM for tourists", "cheap roaming", "iPhone travel eSIM", "eSIM vs roaming"]
+title: "Туристическая eSIM 2026: как избежать роуминговых сборов и оставаться на связи за границей (iOS 26)"
+description: "Путешествуете за границу? Используйте туристическую eSIM с интеллектуальным помощником iOS 26. Сравнение роуминга, местной eSIM и глобальных тарифов данных. Пошаговая активация, проверка разблокировки и предотвращение высоких счетов. Экономьте до 90% на роуминге."
+keywords: ["туристическая eSIM", "международный роуминг", "iOS 26 туристическая eSIM", "купить eSIM для путешествий", "eSIM для туристов", "дешёвый роуминг", "iPhone туристическая eSIM", "eSIM против роуминга"]
 date: 2026-04-28T10:00:00Z
 lastmod: 2026-04-28T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "iPhone 17"]
+tags: ["eSIM", "iOS", "Android", "Устранение неполадок", "Настройка для путешествий", "iPhone 17"]
 toc: true
 
-# 站点 & SEO 基础硬编码配置
+# Базовые настройки сайта и SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# Текст UI / переводы (поддержка многоязычности)
 ui_text:
-  updated_on: "Updated on"
-  min_read: "min read"
-  toc: "Table of Contents"
+  updated_on: "Обновлено"
+  min_read: "мин чтения"
+  toc: "Содержание"
 
 breadcrumbs:
   home:
-    text: "Home"
+    text: "Главная"
     url: "/"
   parent:
-    text: "Help Center"
+    text: "Центр помощи"
     url: "/faq/"
 
-# 右侧：热门 eSIM 配置 (6个国家，1.99美金)
+# Справа: популярные eSIM (6 стран, 1.99 доллара)
 sidebar_popular:
-  title: "Popular eSIMs"
+  title: "Популярные eSIM"
   item_suffix: "eSIM"
   items:
-    - name: "United States"
+    - name: "США"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Germany"
+    - name: "Германия"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Europe"
+    - name: "Европа"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Turkey"
+    - name: "Турция"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japan"
+    - name: "Япония"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "China"
+    - name: "Китай"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置 (4个国家)
+# Справа: бесплатная eSIM (4 страны)
 sidebar_free:
-  title: "Claim Free eSIM"
+  title: "Получить бесплатную eSIM"
   icon: "🎁"
-  item_suffix: "Free eSIM"
-  item_subtitle: "Free eSIM"
+  item_suffix: "Бесплатная eSIM"
+  item_subtitle: "Бесплатная eSIM"
   items:
-    - name: "United Kingdom"
+    - name: "Великобритания"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
-    - name: "Germany"
+    - name: "Германия"
       flag: "/img/flags/de.svg"
       url: "/free-esim/"
-    - name: "Thailand"
+    - name: "Таиланд"
       flag: "/img/flags/th.svg"
       url: "/free-esim/"
-    - name: "Hong Kong"
+    - name: "Гонконг"
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右侧：热门问题配置 (5个问题)
+# Справа: популярные вопросы (5 вопросов)
 sidebar_questions:
-  title: "Popular Questions"
+  title: "Популярные вопросы"
   items:
-    - question: "What is eSIM activation and how does it work?"
+    - question: "Что такое активация eSIM и как она работает?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "How to activate an eSIM?"
+    - question: "Как активировать eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "How to activate eSIM on iPhone (All Models)?"
+    - question: "Как активировать eSIM на iPhone (все модели)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Latest eSIM Compatibility List"
+    - question: "Актуальный список совместимости eSIM"
       url: "/compatibility/"
 ---
- 
 
-> International roaming is expensive. Airport SIM kiosks are a rip-off. And juggling multiple physical SIM cards is a headache. **Enter the travel eSIM** – a digital SIM that lets you buy local data plans from anywhere in the world, installed before you leave home, and activated the moment you land. This guide, based on Apple’s official 2025–2026 documentation, gives you the ultimate strategy for staying connected abroad.
 
----
-
-## 📌 Quick Summary for Travelers
-
-- **Three options:** Existing carrier roaming / Local travel eSIM / Global provider data eSIM.
-- **Cheapest & most flexible:** Buy a data‑only travel eSIM from a global provider (covers 190+ countries).
-- **iOS 26 smart feature:** iPhone now asks if you want to use a travel eSIM before departure and auto‑enables it upon arrival.
-- **Key requirement:** Your iPhone must be **unlocked** (no carrier lock). Check in `Settings > General > About`.
-- **Device support:** iPhone XS or newer, many iPads with cellular. US models from 14 onward are eSIM‑only.
+> Международный роуминг дорог. Киоски с SIM-картами в аэропортах – разорение. А возня с несколькими физическими SIM-картами – головная боль. **На помощь приходит туристическая eSIM** – цифровая SIM-карта, которая позволяет покупать местные тарифы данных из любой точки мира, установить её ещё до выезда из дома и активировать в момент прилёта. Это руководство, основанное на официальной документации Apple 2025–2026 годов, даёт вам лучшую стратегию для поддержания связи за границей.
 
 ---
 
-## 1. Three Ways to Stay Connected Abroad (Which One Saves You the Most?)
+## 📌 Краткое резюме для путешественников
 
-Apple’s official “出境旅行时使用 eSIM” document outlines these three paths. Here’s how they compare:
-
-| Option | How It Works | Cost | Best For | Hidden Pitfalls |
-|--------|--------------|------|----------|------------------|
-| **Home carrier international roaming** | Use your existing plan (often with a daily fee) | $10–15/day or $50–100/month | Short trips where convenience > cost | Bill shock; slow throttled speeds after fair use |
-| **Local carrier travel eSIM** | Buy from a carrier in your destination country | Local rates (e.g., €10 for 20GB) | Long stays (>1 month) | May require local ID; sometimes in‑store purchase only |
-| **Global provider data eSIM** | Buy from an app (Roami, Airalo, etc.) before you go | $5–30 depending on data | Most tourists (1–30 days) | Data‑only (no phone number for calls/SMS) |
-
-**Verdict for 90% of travelers:** The **global provider data eSIM** offers the best balance of cost, convenience, and coverage. You buy it from your phone while still at home, install it in 60 seconds, and activate it as soon as you land – no airport queues, no language barriers, no hidden daily fees.
+- **Три варианта:** Роуминг вашего оператора / Местная туристическая eSIM / Глобальный eSIM-провайдер данных.
+- **Самый дешёвый и гибкий:** Купить eSIM только для передачи данных у глобального провайдера (охватывает 190+ стран).
+- **Умная функция iOS 26:** iPhone теперь спрашивает, хотите ли вы использовать туристическую eSIM перед вылетом, и автоматически включает её по прибытии.
+- **Ключевое требование:** Ваш iPhone должен быть **разблокирован** (без блокировки оператора). Проверьте в `Настройки > Основные > О телефоне`.
+- **Поддержка устройств:** iPhone XS или новее, многие iPad с сотовой связью. Модели для США начиная с 14-й серии поддерживают только eSIM.
 
 ---
 
-## 2. Check Your iPhone Before You Go (Crucial Step)
+## 1. Три способа оставаться на связи за границей (какой сэкономит вам больше всего?)
 
-Not all iPhones work with all eSIMs. Follow this checklist:
+В официальном документе Apple «出境旅行时使用 eSIM» описаны эти три пути. Вот их сравнение:
 
-### 2.1 Is Your iPhone Unlocked?
-A locked iPhone can only use the carrier it was bought from. To check:
-`Settings` > `General` > `About` → scroll to **Carrier Lock**.
-- If it says “**No SIM restrictions**” → you’re good.
-- If it lists a carrier → contact that carrier to request an unlock before traveling.
+| Вариант | Как работает | Стоимость | Для кого лучше | Скрытые подводные камни |
+|---------|--------------|-----------|----------------|--------------------------|
+| **Международный роуминг домашнего оператора** | Использование вашего тарифа (часто с ежедневной платой) | $10–15/день или $50–100/месяц | Короткие поездки, где удобство важнее цены | Шок от счёта; медленная скорость после честного использования |
+| **Местная туристическая eSIM** | Покупка у оператора в стране назначения | Местные тарифы (напр., €10 за 20 ГБ) | Длительное пребывание (>1 месяца) | Может потребоваться местное удостоверение личности; иногда только в магазине |
+| **Глобальный eSIM-провайдер данных** | Покупка через приложение (Roami, Airalo и др.) до поездки | $5–30 в зависимости от трафика | Большинство туристов (1–30 дней) | Только данные (нет номера телефона для звонков/SMS) |
 
-### 2.2 Does Your iPhone Support eSIM?
-All iPhone models from **iPhone XS, XR, and later** support eSIM. That includes all iPhone 11, 12, 13, 14, 15, 16, and 17 series. If you have an older model (iPhone X or earlier), you cannot use eSIM and must use physical SIM.
-
-### 2.3 US vs International Models
-- **US models (iPhone 14 and newer):** eSIM only – no physical SIM tray. Perfect for travel – you must use eSIM anyway.
-- **International models:** Usually have one physical SIM + eSIM. You can keep your home physical SIM for calls and use an eSIM for data.
-
-> 📱 **Upgrading before a trip?** Our **[iPhone 17 eSIM Complete Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** shows how to activate any eSIM on the latest hardware.
+**Вердикт для 90% путешественников:** **Глобальный eSIM-провайдер данных** предлагает наилучший баланс цены, удобства и покрытия. Вы покупаете его прямо с телефона, ещё находясь дома, устанавливаете за 60 секунд и активируете сразу после прилёта – без очередей в аэропорту, языковых барьеров и скрытых ежедневных платежей.
 
 ---
 
-## 3. Where to Buy a Travel eSIM (Three Reliable Sources)
+## 2. Проверьте свой iPhone перед поездкой (важнейший шаг)
 
-### 3.1 Global Providers (Roami, Airalo, Holafly, Nomad)
-- **Best for:** 1–30 day trips, multiple countries.
-- **How to buy:** Download the app, choose a plan, pay with credit card/Apple Pay. You’ll get a QR code or an auto‑install link.
-- **Coverage:** 100–190+ countries, sometimes regional (e.g., “Europe eSIM” covers 30+ countries).
-- **Pricing:** Typically $5–$10 for 1GB/7 days up to $30–$50 for unlimited 30 days.
+Не все iPhone работают со всеми eSIM. Следуйте этому контрольному списку:
 
-### 3.2 Local Carrier (Buy at Destination)
-- **Best for:** Stays longer than a month, or if you need a local phone number (for local apps, delivery calls).
-- **Examples:** EE or O2 in the UK, Deutsche Telekom in Germany, Orange in France.
-- **How to buy:** Visit a carrier store in person (you may need your passport). Some allow online purchase before you arrive.
-- **Pricing:** Often cheaper per GB than global providers, but requires setup time.
+### 2.1 Разблокирован ли ваш iPhone?
+Заблокированный iPhone может использовать только того оператора, у которого был куплен. Чтобы проверить:
+`Настройки` > `Основные` > `О телефоне` → прокрутите до **Блокировка оператора**.
+- Если написано «**Без ограничений SIM**» → всё хорошо.
+- Если указан оператор → свяжитесь с ним и запросите разблокировку перед поездкой.
 
-### 3.3 Use Your Home Carrier’s Travel Pass
-- **Best for:** Short business trips where you must keep your home number active 24/7.
-- **Examples:** AT&T International Day Pass ($10/day), T‑Mobile Magenta (included slow data), Verizon TravelPass.
-- **Warning:** Many “unlimited” plans throttle to 2G speeds after 500MB–1GB per day. Check fine print.
+### 2.2 Поддерживает ли ваш iPhone eSIM?
+Все модели iPhone, начиная с **iPhone XS, XR и новее**, поддерживают eSIM. Это включает все серии iPhone 11, 12, 13, 14, 15, 16 и 17. Если у вас более старая модель (iPhone X или раньше), вы не можете использовать eSIM и должны пользоваться физической SIM.
 
-> 🔗 **Trouble activating your travel eSIM?** Our **[eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/)** covers activation failures, “No Service” errors, and more.
+### 2.3 Модели для США и международные модели
+- **Модели для США (iPhone 14 и новее):** только eSIM – нет физического лотка для SIM. Идеально для путешествий – вы всё равно должны использовать eSIM.
+- **Международные модели:** обычно имеют одну физическую SIM + eSIM. Вы можете оставить свою домашнюю физическую SIM для звонков и использовать eSIM для данных.
+
+> 📱 **Обновление перед поездкой?** Наше **[Полное руководство по iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** показывает, как активировать любую eSIM на новейшем оборудовании.
 
 ---
 
-## 4. iOS 26 Smart Travel eSIM Assistant (Game‑Changer)
+## 3. Где купить туристическую eSIM (три надёжных источника)
 
-Apple’s iOS 26 introduces a feature designed specifically for travel eSIM users. It automates two annoying manual steps:
+### 3.1 Глобальные провайдеры (Roami, Airalo, Holafly, Nomad)
+- **Для кого:** Поездки на 1–30 дней, несколько стран.
+- **Как купить:** Скачайте приложение, выберите тариф, оплатите картой/Apple Pay. Вы получите QR-код или ссылку на автоматическую установку.
+- **Покрытие:** 100–190+ стран, иногда региональное (например, «eSIM Европа» охватывает 30+ стран).
+- **Цены:** Обычно $5–10 за 1 ГБ/7 дней и до $30–50 за безлимит на 30 дней.
 
-### Before Departure
-When you purchase a travel eSIM (from any provider that supports iOS integration), the system will ask:
-> **“Do you intend to use this eSIM in your home country or while traveling?”**
-- Answer “Traveling” – the iPhone marks it as a travel plan.
+### 3.2 Местный оператор (покупка на месте)
+- **Для кого:** Пребывание более месяца или если нужен местный номер телефона (для местных приложений, звонков курьеров).
+- **Примеры:** EE или O2 в Великобритании, Deutsche Telekom в Германии, Orange во Франции.
+- **Как купить:** Лично посетить магазин оператора (может потребоваться паспорт). Некоторые позволяют купить онлайн до прибытия.
+- **Цены:** Часто дешевле за ГБ, чем у глобальных провайдеров, но требует времени на оформление.
 
-### Upon Arrival
-As soon as you land in your destination country and your phone connects to a local network, a notification pops up:
-> **“Enable Travel eSIM?”**
-- **Tap “Enable Travel eSIM”** → You’ll see two options:
-  - **“Use Travel eSIM Only”** – Your home eSIM is temporarily disabled, preventing accidental roaming charges.
-  - **“Use Both”** – Both lines stay active; travel eSIM handles data, home line can receive calls (roaming charges may still apply for home calls/SMS).
+### 3.3 Использование туристического пропуска вашего домашнего оператора
+- **Для кого:** Короткие командировки, где ваш домашний номер должен быть активен 24/7.
+- **Примеры:** AT&T International Day Pass ($10/день), T‑Mobile Magenta (включён медленный интернет), Verizon TravelPass.
+- **Предупреждение:** Многие «безлимитные» тарифы снижают скорость до 2G после 500 МБ–1 ГБ в день. Проверяйте мелкий шрифт.
 
-### After Returning Home
-When you land back in your home country, iOS 26 will automatically:
-- Turn off the travel eSIM (or prompt you to disable it).
-- Re‑enable your home carrier eSIM.
-
-> 💡 **Pro tip:** Even with the smart assistant, you can manually control your data line anytime: `Settings` > `Cellular` > `Cellular Data` → pick which eSIM to use for internet.
+> 🔗 **Проблемы с активацией туристической eSIM?** Наше **[Руководство по глубокому устранению неполадок eSIM (16 реальных случаев)](/faq/esim-deep-troubleshooting-guide-2026/)** охватывает ошибки активации, «Нет обслуживания» и многое другое.
 
 ---
 
-## 5. Step‑by‑Step: How to Set Up a Travel eSIM Before Your Trip
+## 4. Умный туристический помощник eSIM в iOS 26 (меняет правила игры)
 
-Do this **before** you leave home (while you still have Wi‑Fi):
+В iOS 26 Apple представляет функцию, специально разработанную для пользователей туристических eSIM. Она автоматизирует два надоедливых ручных шага:
 
-1. **Purchase your travel eSIM** from your chosen provider (app or website).
-2. **Install the eSIM profile** – usually by scanning a QR code or tapping an “Install” link.
-   - To scan QR: `Settings` > `Cellular` > `Add eSIM` > `Use QR Code`.
-3. **Label the eSIM** – give it a name like “Japan Travel” so you don’t confuse it with your home line.
-4. **Turn off “Cellular Data” for this eSIM until you arrive** – to avoid accidentally using it before departure.
-5. **Leave it installed** – do not delete it.
+### Перед вылетом
+Когда вы покупаете туристическую eSIM (у любого провайдера, поддерживающего интеграцию с iOS), система спросит:
+> **«Планируете ли вы использовать эту eSIM в своей стране или во время путешествий?»**
+- Ответьте «Путешествие» – iPhone пометит её как туристический тариф.
 
-Upon arrival at your destination:
-- Turn on **Data Roaming** for the travel eSIM (`Settings` > `Cellular` > tap the travel eSIM > toggle on `Data Roaming`).
-- Go to `Settings` > `Cellular` > `Cellular Data` → select the travel eSIM.
-- Enjoy instant connectivity.
+### По прибытии
+Как только вы приземлитесь в стране назначения и ваш телефон подключится к местной сети, появится уведомление:
+> **«Включить туристическую eSIM?»**
+- **Нажмите «Включить туристическую eSIM»** → Вы увидите два варианта:
+  - **«Использовать только туристическую eSIM»** – Ваша домашняя eSIM временно отключается, предотвращая случайные роуминговые сборы.
+  - **«Использовать обе»** – Обе линии остаются активными; туристическая eSIM обрабатывает данные, домашняя линия может принимать звонки (роуминговые сборы могут всё равно применяться для домашних звонков/SMS).
 
-> ⚠️ **If you have an eSIM‑only iPhone (US model):** Your home eSIM might still try to roam. To avoid charges, turn off **Data Roaming** for the home line and/or disable “Allow Cellular Data Switching.”
+### После возвращения домой
+Когда вы приземлитесь обратно в своей стране, iOS 26 автоматически:
+- Отключит туристическую eSIM (или предложит отключить её).
+- Вновь включит вашу домашнюю eSIM.
 
----
-
-## 6. How to Use Dual eSIM for Travel (Keep Home Number Active)
-
-If your iPhone supports dual eSIM (iPhone 13 and newer), this is the **ideal setup**:
-- **Home eSIM (primary):** Keep active for calls, iMessage, and SMS from your home country. **Turn off Data Roaming** for this line to avoid huge bills.
-- **Travel eSIM (secondary):** Use for all mobile data. Set as the default **Cellular Data** line.
-
-This way, your home number can still receive calls (over Wi‑Fi Calling if your carrier supports it, using the travel eSIM’s data connection) and your travel eSIM handles maps, social media, and browsing.
-
-For best results:
-- Enable **Allow Cellular Data Switching** – the phone can use the travel eSIM’s data for your home line’s Wi‑Fi Calling.
-- Disable **“Send as SMS”** for iMessage if your home plan has expensive SMS.
-
-> 📖 **Dual SIM not behaving?** Check our **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** for CDMA conflicts, T‑ADS errors, and battery drain fixes.
+> 💡 **Совет профи:** Даже с умным помощником вы можете вручную управлять линией данных в любое время: `Настройки` > `Сотовая связь` > `Сотовые данные` → выберите, какую eSIM использовать для интернета.
 
 ---
 
-## 7. Special Cases: Traveling to China, Hong Kong, Macau
+## 5. Пошаговая инструкция: как настроить туристическую eSIM до поездки
 
-Apple’s documentation includes region‑specific restrictions:
+Сделайте это **до** того, как уедете из дома (пока у вас есть Wi-Fi):
 
-### Mainland China
-- **iPhone 17e and iPhone Air** (sold in China) support eSIM. Other China‑sold iPhones use dual physical SIM and **cannot install any eSIM** – including travel eSIMs.
-- **Foreign iPhone models (e.g., US or European)**: Can use travel eSIMs in China, but data will route through roaming networks (VPN may be required for some apps).
-- **Travel eSIM providers** (like Roami) offer China data plans that work on arrival.
+1. **Купите туристическую eSIM** у выбранного провайдера (приложение или сайт).
+2. **Установите профиль eSIM** – обычно сканированием QR-кода или нажатием ссылки «Установить».
+   - Чтобы отсканировать QR: `Настройки` > `Сотовая связь` > `Добавить eSIM` > `Использовать QR-код`.
+3. **Подпишите eSIM** – дайте ей имя, например «Japan Travel», чтобы не путать с домашней линией.
+4. **Отключите «Сотовые данные» для этой eSIM до прибытия** – чтобы случайно не использовать её перед вылетом.
+5. **Оставьте её установленной** – не удаляйте.
 
-### Hong Kong & Macau
-- Many models support **eSIM + physical SIM** or dual physical SIM. Check your specific model before buying a travel eSIM.
+По прибытии в пункт назначения:
+- Включите **Роуминг данных** для туристической eSIM (`Настройки` > `Сотовая связь` > нажмите на туристическую eSIM > включите `Роуминг данных`).
+- Перейдите в `Настройки` > `Сотовая связь` > `Сотовые данные` → выберите туристическую eSIM.
+- Наслаждайтесь мгновенным подключением.
 
-> **Important:** You cannot use a mainland China carrier’s eSIM on a device purchased outside China. Travel eSIMs from global providers are the only reliable option for foreign visitors.
-
----
-
-## 8. Avoid Common Travel eSIM Mistakes
-
-| Mistake | Why It Hurts | Correct Action |
-|---------|--------------|----------------|
-| Buying at airport | Pay 2–3x more | Buy online before you leave |
-| Not checking carrier lock | eSIM won’t activate | Check `Settings > General > About` before trip |
-| Activating before departure | Uses roaming on travel eSIM | Keep travel eSIM disabled until you land |
-| Forgetting to turn off home data roaming | Huge daily charges | Turn off `Data Roaming` for home line |
-| Buying a “Europe” plan but landing in UK | Post‑Brexit UK may not be included | Check coverage: “Europe” often excludes UK; buy “UK + Europe” separately |
-| Deleting eSIM after trip | Cannot reuse later | Just turn it off; you can keep it for next trip |
+> ⚠️ **Если у вас iPhone только с eSIM (модель для США):** Ваша домашняя eSIM может всё равно пытаться роумить. Чтобы избежать сборов, отключите **Роуминг данных** для домашней линии и/или отключите «Разрешить переключение сотовых данных».
 
 ---
 
-## 9. Step‑by‑Step Activation Sequence at Arrival
+## 6. Как использовать двойную eSIM для путешествий (сохранить домашний номер активным)
 
-1️⃣ **Connect to airport Wi‑Fi** (free at most major airports).  
-2️⃣ Go to `Settings` > `Cellular` > tap your travel eSIM.  
-3️⃣ Toggle **Data Roaming** ON.  
-4️⃣ Wait 10–30 seconds for signal bars to appear.  
-5️⃣ Go to `Settings` > `Cellular` > **Cellular Data** – select travel eSIM.  
-6️⃣ Test by opening a website or using Speedtest.  
+Если ваш iPhone поддерживает двойную eSIM (iPhone 13 и новее), это **идеальная настройка**:
+- **Домашняя eSIM (основная):** Оставайтесь активными для звонков, iMessage и SMS из вашей страны. **Отключите роуминг данных** для этой линии, чтобы избежать огромных счетов.
+- **Туристическая eSIM (вторичная):** Используйте для всех мобильных данных. Установите её как линию **Сотовых данных** по умолчанию.
 
-If no connection after 2 minutes:
-- Restart your iPhone.
-- Manually select a network: `Settings` > `Cellular` > travel eSIM > `Network Selection` → turn off Automatic → pick a local carrier manually.
+Таким образом, ваш домашний номер всё ещё может принимать звонки (через Wi-Fi Calling, если ваш оператор это поддерживает, используя подключение к данным туристической eSIM), а туристическая eSIM обеспечивает карты, социальные сети и просмотр веб-страниц.
 
-> 🔄 **Switching phones during travel?** You may need to **[transfer your eSIM](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** – our guide covers moving between iPhone and Android cross‑platform.
+Для лучшего результата:
+- Включите **Разрешить переключение сотовых данных** – телефон сможет использовать данные туристической eSIM для Wi-Fi Calling вашей домашней линии.
+- Отключите **«Отправлять как SMS»** для iMessage, если у вашего домашнего тарифа дорогие SMS.
 
----
-
-## 10. Frequently Asked Questions (Travel eSIM)
-
-**Q1: Do travel eSIMs come with a phone number?**  
-A: Most global providers (Roami, Airalo, Nomad) offer **data‑only** eSIMs – no SMS or voice. You can still use WhatsApp, FaceTime, Skype, and other VoIP apps. If you need a local number (for reservations, banking), buy from a local carrier in‑country.
-
-**Q2: Can I make phone calls with a data‑only eSIM?**  
-A: Yes, using VoIP apps (WhatsApp call, FaceTime audio, Skype, Google Meet). Regular cellular calls require a voice plan.
-
-**Q3: Will my iMessage and FaceTime still work with my home number while using a travel eSIM?**  
-A: Yes – iMessage and FaceTime are tied to your Apple ID and the phone number registered with iMessage. As long as your home eSIM is active (even with data roaming off), iMessage will work.
-
-**Q4: How much data do I need for a 7‑day trip?**  
-A: 
-- Light use (maps, WhatsApp, occasional browsing): 1–2GB
-- Moderate (social media, music streaming, some video): 3–5GB
-- Heavy (video calls, streaming Netflix, hotspot for laptop): 10GB+
-
-**Q5: Can I use a travel eSIM on a cruise ship?**  
-A: Most cruise ship cellular is not covered by standard travel eSIMs. You’ll need the ship’s Wi‑Fi or a maritime roaming plan.
-
-**Q6: What if I run out of data mid‑trip?**  
-A: Most providers let you top up through their app instantly – no new QR code needed. Just buy an additional data pack.
-
-**Q7: Is eSIM safe? Can someone hack it?**  
-A: eSIMs are more secure than physical SIMs. They comply with the GSMA’s SGP.21 standard, which prevents cloning or extraction. See the **[eSIM security overview in our iPhone 17 guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/#5-esim-security-advantages-why-more-reliable-than-physical-sim)**.
+> 📖 **Двойная SIM ведёт себя не так?** Ознакомьтесь с нашей статьей **[Двойная eSIM не работает? 12 исправлений для iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** о конфликтах CDMA, ошибках T‑ADS и исправлениях разряда батареи.
 
 ---
 
-## 11. Final Takeaway: The Smart Traveler’s Strategy
+## 7. Особые случаи: поездки в Китай, Гонконг, Макао
 
-**If you travel internationally at least once a year, switching to travel eSIMs will save you money and hassle.** The optimal strategy in 2026:
+В документации Apple описаны региональные ограничения:
 
-- **Before departure:** Buy a data‑only travel eSIM from a global provider. Install it at home.
-- **At departure gate:** Disable `Data Roaming` on your home eSIM.
-- **On arrival:** Enable `Data Roaming` on travel eSIM. Let iOS 26’s smart assistant do the rest.
-- **During trip:** Use travel eSIM for all data; keep home eSIM for iMessage and occasional calls (over Wi‑Fi Calling).
-- **After return:** Disable travel eSIM (or keep it for next trip).
+### Материковый Китай
+- **iPhone 17e и iPhone Air** (продаваемые в Китае) поддерживают eSIM. Другие iPhone, продаваемые в Китае, используют двойную физическую SIM и **не могут установить никакую eSIM** – включая туристические eSIM.
+- **Иностранные модели iPhone (например, американские или европейские):** Могут использовать туристические eSIM в Китае, но трафик будет проходить через роуминговые сети (для некоторых приложений может потребоваться VPN).
+- **Провайдеры туристических eSIM** (например, Roami) предлагают тарифы для Китая, работающие по прибытии.
 
-> 📎 **Related resources:**
-> - [eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [iPhone 17 eSIM Complete Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
-> - [eSIM Cross‑Platform Transfer 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-> - [Dual eSIM Not Working? 12 Fixes for iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+### Гонконг и Макао
+- Многие модели поддерживают **eSIM + физическая SIM** или двойную физическую SIM. Проверьте свою конкретную модель перед покупкой туристической eSIM.
+
+> **Важно:** Вы не можете использовать eSIM оператора материкового Китая на устройстве, приобретённом за пределами Китая. Туристические eSIM от глобальных провайдеров – единственный надёжный вариант для иностранных посетителей.
 
 ---
 
-*Based on Apple official documentation (2025–2026) and real‑world testing. Carrier policies and eSIM compatibility may change. Always verify with your provider before traveling.*
+## 8. Избегайте распространённых ошибок при использовании туристической eSIM
+
+| Ошибка | Почему вредит | Правильное действие |
+|--------|---------------|----------------------|
+| Покупка в аэропорту | Платите в 2–3 раза дороже | Купите онлайн до выезда |
+| Не проверили блокировку оператора | eSIM не активируется | Проверьте `Настройки > Основные > О телефоне` перед поездкой |
+| Активация до вылета | Использует роуминг на туристической eSIM | Держите туристическую eSIM отключённой до прилёта |
+| Забыли отключить роуминг данных у домашней линии | Огромные ежедневные сборы | Отключите `Роуминг данных` для домашней линии |
+| Покупка тарифа «Европа» при прилёте в Великобританию | После Brexit Великобритания может не входить в покрытие | Проверьте покрытие: «Европа» часто исключает Великобританию; покупайте «Великобритания + Европа» отдельно |
+| Удаление eSIM после поездки | Нельзя будет использовать снова | Просто отключите её; вы можете сохранить её для следующей поездки |
+
+---
+
+## 9. Пошаговая последовательность активации по прибытии
+
+1️⃣ **Подключитесь к Wi-Fi в аэропорту** (бесплатно в большинстве крупных аэропортов).  
+2️⃣ Перейдите в `Настройки` > `Сотовая связь` > нажмите на вашу туристическую eSIM.  
+3️⃣ Включите **Роуминг данных**.  
+4️⃣ Подождите 10–30 секунд, пока появятся полоски сигнала.  
+5️⃣ Перейдите в `Настройки` > `Сотовая связь` > **Сотовые данные** – выберите туристическую eSIM.  
+6️⃣ Проверьте, открыв веб-сайт или используя Speedtest.
+
+Если соединения нет через 2 минуты:
+- Перезагрузите iPhone.
+- Вручную выберите сеть: `Настройки` > `Сотовая связь` > туристическая eSIM > `Выбор сети` → отключите Автоматически → выберите местного оператора вручную.
+
+> 🔄 **Смена телефона во время поездки?** Возможно, вам потребуется **[перенести eSIM](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** – наше руководство охватывает перенос между iPhone и Android на разных платформах.
+
+---
+
+## 10. Часто задаваемые вопросы (туристическая eSIM)
+
+**В1: Имеют ли туристические eSIM телефонный номер?**  
+О: Большинство глобальных провайдеров (Roami, Airalo, Nomad) предлагают eSIM **только для данных** – без SMS и голоса. Вы всё равно можете использовать WhatsApp, FaceTime, Skype и другие VoIP-приложения. Если вам нужен местный номер (для бронирований, банков), купите у местного оператора на месте.
+
+**В2: Могу ли я совершать телефонные звонки с eSIM только для данных?**  
+О: Да, используя VoIP-приложения (звонки WhatsApp, аудио FaceTime, Skype, Google Meet). Обычные сотовые звонки требуют голосового тарифа.
+
+**В3: Будут ли мои iMessage и FaceTime работать с моим домашним номером при использовании туристической eSIM?**  
+О: Да – iMessage и FaceTime привязаны к вашему Apple ID и номеру телефона, зарегистрированному в iMessage. Пока ваша домашняя eSIM активна (даже с отключённым роумингом данных), iMessage будет работать.
+
+**В4: Сколько данных мне нужно для поездки на 7 дней?**  
+О:
+- Лёгкое использование (карты, WhatsApp, иногда просмотр): 1–2 ГБ
+- Умеренное (социальные сети, потоковая музыка, немного видео): 3–5 ГБ
+- Интенсивное (видеозвонки, потоковое Netflix, раздача на ноутбук): 10 ГБ+
+
+**В5: Можно ли использовать туристическую eSIM на круизном лайнере?**  
+О: Большинство сотовых сетей на круизных лайнерах не покрываются стандартными туристическими eSIM. Вам понадобится Wi-Fi на лайнере или морской роуминговый тариф.
+
+**В6: Что, если у меня закончатся данные в середине поездки?**  
+О: Большинство провайдеров позволяют пополнить баланс через их приложение мгновенно – не нужен новый QR-код. Просто купите дополнительный пакет данных.
+
+**В7: Безопасна ли eSIM? Может ли кто-то взломать её?**  
+О: eSIM более безопасны, чем физические SIM. Они соответствуют стандарту GSMA SGP.21, который предотвращает клонирование или извлечение. См. **[обзор безопасности eSIM в нашем руководстве по iPhone 17](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/#5-esim-security-advantages-why-more-reliable-than-physical-sim)**.
+
+---
+
+## 11. Итог: стратегия умного путешественника
+
+**Если вы выезжаете за границу хотя бы раз в год, переход на туристические eSIM сэкономит вам деньги и избавит от хлопот.** Оптимальная стратегия в 2026 году:
+
+- **Перед выездом:** Купите eSIM только для данных у глобального провайдера. Установите дома.
+- **У выхода на посадку:** Отключите `Роуминг данных` на домашней eSIM.
+- **По прибытии:** Включите `Роуминг данных` на туристической eSIM. Позвольте умному помощнику iOS 26 сделать остальное.
+- **Во время поездки:** Используйте туристическую eSIM для всех данных; оставьте домашнюю eSIM для iMessage и эпизодических звонков (через Wi-Fi Calling).
+- **После возвращения:** Отключите туристическую eSIM (или сохраните её для следующей поездки).
+
+> 📎 **Связанные ресурсы:**
+> - [Руководство по глубокому устранению неполадок eSIM (16 реальных случаев)](/faq/esim-deep-troubleshooting-guide-2026/)
+> - [Полное руководство по iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
+> - [Кросс-платформенный перенос eSIM 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
+> - [Двойная eSIM не работает? 12 исправлений для iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+
+---
+
+*Основано на официальной документации Apple (2025–2026) и реальном тестировании. Политика операторов и совместимость eSIM могут меняться. Перед поездкой всегда уточняйте у своего провайдера.*

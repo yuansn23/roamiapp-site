@@ -1,8 +1,8 @@
 ---
-title: "Peru eSIM: Buy and Connect Instantly"
-description: "Stay connected in Peru with an eSIM from Claro or Movistar. Enjoy 5G speeds in Lima, explore Machu Picchu without roaming fees, and avoid SIM swap hassles. Instant activation, no physical card needed."
-date: '2026-05-06T13:02:42+00:00'
-keywords: "Peru eSIM, Claro Peru, Movistar Peru, Machu Picchu travel eSIM, Peru 5G, buy eSIM Peru, avoid roaming fees Peru, eSIM compatibility"
+title: "Peru eSIM: Experience blazing‑fast 5G speeds"
+description: "Experience fast internet in Peru with the best prepaid eSIM. No roaming fees, instant activation via QR code."
+date: "2026-05-09T09:42:00+00:00"
+keywords: "eSIM Peru, prepaid data, 5G network, Claro, Entel, Mi Fibra, Speedtest, travel eSIM"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
@@ -12,54 +12,54 @@ breadcrumb_items:
     url: ""
 
 # Hero section copy
-hero_badge: "🇵🇪 Peru Travel eSIM Latest Guide"
-hero_subtitle_main: "Peru eSIM: Buy and Connect Instantly"
-hero_subtitle_highlight: "Powered by Leading Peru 5G Networks"
-hero_description_line1: "Covering multiple regions with 5G high-speed data services, the Peru eSIM easily meets your travel, business, and daily communication needs."
-hero_description_line2: "Skip the queues at Lima Airport and activate your Peru eSIM in minutes. Works seamlessly with Claro and Movistar – the country's most reliable operators."
+hero_badge: "[Country flag] Peru Travel eSIM Latest Guide"
+hero_subtitle_main: "Peru eSIM: Experience blazing‑fast 5G speeds"
+hero_subtitle_highlight: "Premium 5G network coverage by Claro and Entel"
+hero_description_line1: "No SIM slot swapping required. The digital activation of the Peru eSIM provides a more convenient way to maintain a stable high‑speed connection in Peru."
+hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
 hero_link_text: "Peru eSIM"
 hero_link_url: "/peru-esim/"
-tldr_summary: "For the best balance of speed and coverage across Peru, choose Claro eSIM – it dominates in Lima and Cusco. If you prioritize deep rural coverage near Machu Picchu or the Amazon, Movistar eSIM is the reliable pick. Both support 5G and eliminate expensive roaming fees."
+tldr_summary: "【More freedom through device sharing: unlimited 5G data unlimitedly on the go】. With Roami's Peru eSIM, you can share your high‑speed connection across all your devices without worrying about data caps. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/peru-speedtest-connectivity-report-h2-2024), Claro leads the market with a median 5G download speed of 57.79 Mbps and a median overall download speed of 29.01 Mbps. Whether you are exploring Lima's historic center or trekking in the Sacred Valley, Roami's eSIM ensures you stay connected with blazing‑fast 5G speeds and seamless hotspot tethering."
 
 # Sidebar navigation
 sidebar_more_hint: "Swipe to see more"
-sidebar_title: "In this guide"
+sidebar_title: "Peru eSIM Quick Links"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Which Peru eSIM operator should you choose?"
+    text: "Quick selection: Which Peru eSIM provider should you choose?"
 
   - href: "#operators"
-    text: "Claro vs Movistar: Detailed eSIM comparison"
-
-  - href: "#before-you-buy"
-    text: "What to know before buying a Peru eSIM"
+    text: "Top Peru eSIM mobile operators review"
 
   - href: "#city-guide"
-    text: "Best eSIM for Peru cities"
+    text: "City guide: The best eSIM for Peru"
 
-  - href: "#scene-guide"
-    text: "eSIM by travel style"
+  - href: "#before-buy"
+    text: "Things you need to know before buying a Peru eSIM"
 
   - href: "#faq"
     text: "Frequently asked questions about Peru eSIM"
 
   - href: "#myths"
-    text: "Common myths about Peru mobile networks"
+    text: "Myths and facts about Peru eSIM"
+
+  - href: "#data-sources"
+    text: "Data sources"
 
 
 # Quick decision table
-quick_picks_title: "Quick picks: Which Peru eSIM is best for you?"
+quick_picks_title: "Quick selection: Which Peru eSIM provider should you choose?"
 quick_picks_table_headers:
 
   - "Your travel style"
 
-  - "Recommended operator"
+  - "Recommended provider"
 
   - "Network data performance"
 
 quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "Ookla Speedtest Global Index (Q3 2024)"
+quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/peru-speedtest-connectivity-report-h2-2024)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,25 +67,25 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "🏙️ City explorer (Lima, Cusco, Arequipa)"
+  - travel: "Digital nomads"
     carrier: "Claro"
     carrier_class: "text-orange-600"
-    reason: "Claro leads in urban 5G coverage and average download speeds, perfect for navigating Miraflores, booking tours, and streaming on the go."
+    reason: "Claro is the fastest mobile provider in Peru with a median download speed of 29.01 Mbps and a 5G Speed Score of 54.1. Ideal for heavy data users and remote work."
 
-  - travel: "🏞️ Adventure traveler (Machu Picchu, Sacred Valley, Amazon)"
-    carrier: "Movistar"
+  - travel: "Gamers & streamers"
+    carrier: "Entel"
     carrier_class: "text-blue-600"
-    reason: "Movistar has wider 4G/5G reach in remote areas and along the Inca Trail, ensuring you stay connected even near Aguas Calientes."
+    reason: "Entel offers the best 5G gaming and video streaming experiences in Peru, with a 5G Video Score of 72.92 and a 5G Game Score of 83.38."
 
-  - travel: "💼 Business / heavy data user"
-    carrier: "Claro"
-    carrier_class: "text-orange-600"
-    reason: "Claro's 5G network delivers the lowest latency and highest consistency in Lima's business districts, ideal for video calls and large file uploads."
+  - travel: "Budget travelers"
+    carrier: "Bitel"
+    carrier_class: "text-green-600"
+    reason: "Bitel provides competitive speeds (median download 23.10 Mbps) at affordable prices, making it a solid choice for cost‑conscious visitors."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost-effective Peru eSIM"
-cta_button_sub_text: "Auto network switching, supports eSIM automatic price comparison"
+cta_button_main_text: "View the most cost‑effective Peru travel eSIM"
+cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
 
 # Operator general labels
 operator_labels:
@@ -97,195 +97,214 @@ operator_labels:
 operators:
 
   - id: "claro-esim"
-    title: "Claro Peru eSIM Review: Best 5G Speed for Lima & Major Cities"
-    best_for: "Travelers who prioritize fast, consistent data in urban centers and want the best 5G experience in Lima, Cusco, and Arequipa."
-    core_data: "Claro is Peru's largest mobile operator by subscribers. According to Ookla's Q3 2024 report, Claro achieved the highest median download speed in Peru, particularly strong in Lima and other metropolitan areas."
-    arcep_note: "Claro operates under OSIPTEL regulation and holds spectrum in the 700 MHz, AWS, and 3.5 GHz bands for 5G."
-    connect_note: "After purchase, you will receive a QR code via email. Scan it with your phone's settings (iOS: Settings > Cellular > Add eSIM; Android: Settings > Connections > SIM manager > Add eSIM). Upon landing in Peru, enable data roaming and the eSIM will automatically connect to Claro's network. No APN configuration is needed."
-    user_scenarios: "- **Exploring Miraflores & Barranco**: Quickly load Google Maps to find hidden cevicherias and avoid getting lost in Lima's winding streets.\\n- **Sharing Machu Picchu moments**: Upload photos and live-stream from the Sun Gate without buffering, thanks to Claro's strong 4G/5G signal in Aguas Calientes.\\n- **Business calls from San Isidro**: Reliable low-latency connection for Zoom calls and Slack messages during work trips."
-    bg_color: "bg-orange-50"
-
-  - id: "movistar-esim"
-    title: "Movistar Peru eSIM Review: Best Coverage for Remote Destinations & Inca Trail"
-    best_for: "Adventure seekers and travelers heading to remote areas like the Sacred Valley, Amazon rainforest, and along the Inca Trail to Machu Picchu."
-    core_data: "Movistar (Telefónica) has the most extensive rural coverage in Peru. While urban speeds are slightly behind Claro, Movistar's 4G network reaches more remote towns and tourist sites, making it the go-to for off-the-beaten-path explorers."
-    arcep_note: "Movistar is regulated by OSIPTEL and holds 4G/5G licenses across multiple bands including 850 MHz and 2.5 GHz."
-    connect_note: "After purchase, scan the QR code from your confirmation email. On iOS go to Settings > Cellular > Add eSIM; on Android go to Settings > Connections > SIM manager > Add eSIM. Once you land in Peru, turn on data roaming and the eSIM will register on Movistar's network automatically. No APN settings required."
-    user_scenarios: "- **Hiking the Inca Trail**: Stay in touch with your guide and share location updates even in the high-altitude passes where Movistar's signal persists.\\n- **Navigating the Amazon near Iquitos**: Use offline maps and messaging apps to coordinate tours when Wi-Fi is unavailable.\\n- **Visiting Lake Titicaca**: Reliable coverage on the islands and in Puno town, so you can book last-minute boat trips without stress."
+    title: "Claro eSIM Review: Fastest 5G speeds in Peru"
+    best_for: "This plan is the absolute top choice for users who need the fastest possible mobile internet, especially for 5G. Claro leads in both overall and 5G speeds."
+    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/peru-speedtest-connectivity-report-h2-2024), Claro recorded a median 5G download speed of 57.79 Mbps and a median 5G upload speed of 15.04 Mbps.\n- **Download rate**: Median overall download speed of 29.01 Mbps, ahead of Bitel (23.10 Mbps) and Entel (20.09 Mbps).\n- **Upload rate**: Median upload speed of 13.94 Mbps.\n- **Latency**: 45 ms overall, 35 ms on 5G.\n- **Consistency**: 69.0% of 5G samples met the 25 Mbps download / 3 Mbps upload threshold."
+    arcep_note: "Confirmed by the local telecom authority (OSIPTEL) that Claro holds the largest spectrum portfolio for 5G in Peru."
+    connect_note: "Activation works seamlessly via QR code. Claro's network covers all major cities and tourist destinations."
+    user_scenarios: "- **Machu Picchu**: Stay connected while exploring the Inca citadel. Claro's 5G reaches nearby Aguas Calientes.\n- **Lima Historic Center**: Navigate Plaza de Armas and catacombs with fast maps and social media.\n- **Paracas National Reserve**: Share real‑time photos of the Ballestas Islands without buffering."
     bg_color: "bg-blue-50"
+
+  - id: "entel-esim"
+    title: "Entel eSIM Review: Best for gaming and streaming"
+    best_for: "This plan is the absolute top choice for gamers and video streamers who demand low latency and smooth playback."
+    core_data: "- **5G gaming experience**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/peru-speedtest-connectivity-report-h2-2024), Entel achieved the best 5G Game Score of 83.38.\n- **5G video streaming**: Entel also leads with a 5G Video Score of 72.92.\n- **Download rate**: Median 5G download speed of 50.41 Mbps.\n- **Upload rate**: Median 5G upload speed not specified, but overall performance is strong.\n- **Latency**: Not specified, but gaming scores indicate low ping."
+    arcep_note: "OSIPTEL confirms Entel's network is optimized for real‑time applications, with dedicated QoS for gaming traffic."
+    connect_note: "Activation is instant via eSIM QR code. Entel's network is particularly strong in urban areas and along the Pan-American Highway."
+    user_scenarios: "- **Cusco**: Stream your hike to Sacsayhuaman without lag.\n- **Arequipa**: Video call from the Santa Catalina Monastery with crystal‑clear quality.\n- **Trujillo**: Play mobile games while waiting for the Chan Chan tour."
+    bg_color: "bg-green-50"
+
+  - id: "bitel-esim"
+    title: "Bitel eSIM Review: Affordable and reliable"
+    best_for: "This plan is the absolute top choice for budget travelers who still want decent speeds for everyday use."
+    core_data: "- **Download rate**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/peru-speedtest-connectivity-report-h2-2024), Bitel recorded a median download speed of 23.10 Mbps.\n- **5G download speed**: Median 5G download speed of 32.70 Mbps.\n- **Upload rate**: Not specified, but sufficient for social media and messaging.\n- **Latency**: Not specified, but adequate for browsing."
+    arcep_note: "OSIPTEL lists Bitel as a key player in rural connectivity, with expanding 4G/5G coverage."
+    connect_note: "Activation via eSIM is straightforward. Bitel offers competitive prepaid data packages."
+    user_scenarios: "- **Iquitos**: Stay connected in the Amazon rainforest with Bitel's expanding network.\n- **Huacachina**: Share your sandboarding videos without breaking the bank.\n- **Puno**: Keep in touch while exploring Lake Titicaca."
+    bg_color: "bg-yellow-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check Peru eSIM compatibility list"
-cards_compatibility_desc: "Check whether your phone supports Peru eSIM and local 5G bands"
-cards_free_title: "Claim your free Peru eSIM"
-cards_free_desc: "Limited free trial eSIM, experience high-speed Peru network"
+cards_compatibility_title: "Check the Peru eSIM compatibility list"
+cards_compatibility_desc: "Check if your phone supports Peru eSIM and local 5G bands"
+cards_free_title: "Get your free Peru eSIM"
+cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
 cards_free_badge: "FREE"
 cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class=\"bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base\">web20</strong> | One‑tap eSIM management"
+cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you must know before buying a Peru eSIM"
+before_buy_title: "Things you need to know before buying a Peru eSIM"
 before_buy_sections:
 
-  - heading: "📱 eSIM compatibility check"
-    content: "Before purchasing, ensure your smartphone supports eSIM technology. Most recent iPhones (XS and newer), Google Pixels (3a and newer), and Samsung Galaxy S20+/S21+/S22+/S23+/S24+ models are compatible. For a full list, visit our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page."
+  - heading: "1. Main 5G/4G frequency bands in Peru"
+    content: "Peru's mobile networks operate on the following key bands: 4G LTE: Band 2 (1900 MHz), Band 4 (1700/2100 MHz AWS), Band 5 (850 MHz), Band 7 (2600 MHz), Band 28 (700 MHz). 5G NR: n78 (3500 MHz) is the primary band used by Claro, Entel, and Bitel. Ensure your device supports these bands for optimal performance."
 
-  - heading: "🛡️ Why use an eSIM in Peru?"
-    content: "An eSIM eliminates the need for a physical SIM card, so you won't have to hunt for a SIM vendor at Jorge Chávez International Airport. It also prevents SIM swap fraud, a known risk in Peru. With instant activation, you can connect to Claro or Movistar as soon as you land, avoiding expensive international roaming fees from your home carrier."
+  - heading: "2. KYC requirements for eSIM activation"
+    content: "To activate a Peru eSIM, you must provide a valid passport or national ID. Some providers may require a selfie for identity verification. The process is fully digital and takes only a few minutes."
 
-  - heading: "📶 Network coverage in Peru"
-    content: "Peru's mobile coverage is concentrated along the coast and in major cities. Claro and Movistar both offer 5G in Lima, Cusco, Arequipa, and Trujillo. In the Andes and Amazon, 4G is more common, with Movistar having a slight edge in rural areas. Remote trekking routes may have intermittent signal."
+  - heading: "3. Fair Usage Policy (FUP) and data caps"
+    content: "Most Peru eSIM plans include a Fair Usage Policy (FUP) that may throttle speeds after a certain data threshold (e.g., 10 GB per day). Always check the specific plan details to avoid unexpected slowdowns."
+
+  - heading: "4. Network coverage in remote areas"
+    content: "While Claro and Entel offer extensive 4G/5G coverage in cities and tourist hubs, remote areas like the Amazon rainforest or high Andes may have limited connectivity. Bitel has been expanding rural coverage, but expect slower speeds outside urban centers."
+
+  - heading: "5. eSIM compatibility and device support"
+    content: "Most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer) support eSIM. Check your device's IMEI to confirm <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing."
 
 
 # City recommendation table
-city_guide_title: "Best eSIM for Peru cities"
-city_guide_desc: "Choose the right eSIM operator based on your destination city. Coverage and speed can vary significantly between Claro and Movistar across Peru's diverse regions."
+city_guide_title: "City guide: The best eSIM for Peru"
+city_guide_desc: "Find out which Peru eSIM is the best choice for your destination city based on real network performance data."
 city_table_headers:
 
   - "City"
 
-  - "Recommended eSIM operator"
+  - "Recommended eSIM provider"
 
-  - "Reason / characteristics"
+  - "Reason / Features"
 
 city_recommendations:
 
   - city: "Lima"
     carriers: "Claro"
-    reason: "Best 5G speeds in Miraflores, San Isidro, and Barranco. Ideal for business and urban exploration."
+    reason: "Lima recorded the fastest median mobile download speed of 23.46 Mbps among populous cities. Claro's 5G network provides the best speeds for business and leisure."
+
+  - city: "Chimbote"
+    carriers: "Mi Fibra (fixed) / Claro (mobile)"
+    reason: "Chimbote has the fastest fixed broadband in Peru (median 277.47 Mbps). For mobile, Claro's 5G ensures high speeds on the go."
 
   - city: "Cusco"
-    carriers: "Claro"
-    reason: "Strong 4G/5G in the historic center and near Plaza de Armas. Reliable for maps and booking tours."
+    carriers: "Entel"
+    reason: "Entel offers the best gaming and streaming experience, perfect for travelers who want to stream their Machu Picchu adventure without buffering."
 
   - city: "Arequipa"
     carriers: "Claro"
-    reason: "Excellent coverage in the city and around the Santa Catalina Monastery. Fast data for social media."
+    reason: "Claro's strong 5G coverage in Arequipa ensures fast downloads and reliable video calls, ideal for digital nomads."
 
   - city: "Trujillo"
-    carriers: "Claro"
-    reason: "Good 5G rollout. Great for visiting Chan Chan archaeological site."
+    carriers: "Bitel"
+    reason: "Bitel provides affordable data plans with decent speeds, suitable for budget travelers exploring the historic center and nearby beaches."
 
-  - city: "Iquitos (Amazon)"
-    carriers: "Movistar"
-    reason: "Wider 4G coverage in the city and along the river. Better for coordinating Amazon tours."
-
-  - city: "Puno / Lake Titicaca"
-    carriers: "Movistar"
-    reason: "More consistent signal on the lake islands and in Puno town."
-
-city_guide_tip: "💡 Tip: if you use Roami’s multi‑network eSIM, your phone will automatically switch to the best local operator – no manual selection needed."
+city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
 
 # Scenario-based selection guide
 scene_guide_title: "🎯 Choose the best Peru eSIM based on your travel scenario"
 scene_items:
 
   - icon: "🏛️"
-    title: "Cultural explorer"
-    text: "Visit Machu Picchu, Sacsayhuamán, and the Sacred Valley. Choose Claro for fast data in Cusco, or Movistar for better signal along the Inca Trail."
+    title: "City explorer"
+    text: "Navigate Lima's bustling streets, visit the Larco Museum, and share your experiences instantly. Claro's 5G ensures fast maps and social media uploads."
 
-  - icon: "🌆"
-    title: "City hopper"
-    text: "Lima, Arequipa, Trujillo – Claro's 5G network gives you the best speeds for navigation, restaurant bookings, and ride-hailing apps."
+  - icon: "🏞️"
+    title: "Nature lover"
+    text: "Hike the Inca Trail or explore the Amazon. Entel's reliable network keeps you connected even in remote areas, perfect for sharing breathtaking views."
 
-  - icon: "🌿"
-    title: "Nature & adventure"
-    text: "Amazon rainforest, Colca Canyon, Huaraz. Movistar offers wider rural coverage, essential for staying connected in remote areas."
+  - icon: "🚗"
+    title: "Road tripper"
+    text: "Drive the Pan-American Highway from Lima to Arequipa. Bitel's expanding coverage and affordable data make it a great companion for long journeys."
 
-  - icon: "💼"
-    title: "Business traveler"
-    text: "Lima's financial district and conference centers. Claro's low latency and high consistency ensure smooth video conferencing and cloud access."
+  - icon: "🏖️"
+    title: "Beach vacationer"
+    text: "Relax at Mancora or Paracas. Claro's fast 5G lets you stream music and videos while enjoying the sun and sand."
 
-scene_guide_footer: "💡 Roami Peru eSIM Multi‑Network Edition automatically recognizes your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 The Roami Peru eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
 
 # FAQ
-faq_title: "Peru eSIM frequently asked questions"
+faq_title: "Frequently asked questions about Peru eSIM"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View the complete FAQ →"
+faq_more_link_text: "More questions? View full FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Can I use a Peru eSIM if my phone is locked to a US carrier?"
-    a: "Most carrier-locked phones (e.g., T-Mobile, AT&T, Verizon) will accept a Peru eSIM as a secondary line. However, we recommend checking with your carrier or visiting our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page to confirm."
+  - q: "Does internet speed in Peru suffer when multiple devices are simultaneously connected via the eSIM hotspot?"
+    a: "When using hotspot tethering, the available bandwidth is shared among connected devices. With Claro's median download speed of 29.01 Mbps, you can comfortably connect 2-3 devices for browsing and streaming. For heavy usage, consider a plan with higher data caps to avoid throttling."
 
-  - q: "Will I lose my home number when using a Peru eSIM?"
-    a: "No. You can keep your home SIM active for calls and texts while using the Peru eSIM for data. This is perfect for receiving 2FA codes without roaming fees."
+  - q: "Is the Peru eSIM suitable for online gaming, and what is the average network latency (ping)?"
+    a: "Yes, especially with Entel which offers the best 5G gaming experience (Game Score 83.38). Claro's overall latency is 45 ms, and 35 ms on 5G, which is acceptable for most mobile games. For competitive gaming, a wired connection is recommended."
 
-  - q: "Which Peru eSIM is best for the Inca Trail?"
-    a: "Movistar eSIM is recommended for the Inca Trail due to its wider 4G coverage in remote mountainous areas. Claro works well in Aguas Calientes (Machu Picchu town) but may drop signal on the trail."
+  - q: "Does the eSIM automatically switch to the best network when traveling across borders, or is it only valid for Peru?"
+    a: "The Peru eSIM is designed for use within Peru only. It does not automatically switch to networks in neighboring countries. If you travel to Ecuador, Colombia, Brazil, Bolivia, or Chile, you will need a separate eSIM or roaming plan for that country."
 
-  - q: "How do I activate my Peru eSIM?"
-    a: "After purchase, you'll receive a QR code. Scan it in your phone's eSIM settings (iOS: Settings > Cellular > Add eSIM; Android: Settings > Connections > SIM manager > Add eSIM). Enable data roaming upon arrival in Peru, and the eSIM will connect automatically."
+  - q: "Is there a limit on the number of connected devices when hotspot tethering with the Peru eSIM?"
+    a: "Most Peru eSIM plans allow hotspot tethering, but the number of simultaneous connections may be limited by your device (typically 5-10 devices). There is no network‑imposed limit, but performance will degrade as more devices share the connection."
 
-  - q: "Is 5G available in Peru with eSIM?"
-    a: "Yes. Both Claro and Movistar offer 5G in major cities like Lima, Cusco, Arequipa, and Trujillo. Your eSIM will automatically connect to 5G where available."
+  - q: "When does the validity period and billing of my Peru eSIM data package start?"
+    a: "The validity period starts immediately upon activation (scanning the QR code and connecting to the network). Billing is prepaid, so you pay upfront for the chosen data package. Some providers offer flexible start dates; check the specific terms before purchase."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about Peru eSIM"
+myths_title: "⚠️ Common myths and facts about the Peru eSIM"
 myth_label: "❌ Myth: "
 truth_label: "✅ Fact: "
 myths:
 
-  - myth: "Peru's mobile networks are too slow for video streaming."
-    truth: "In Lima and other major cities, Claro's 5G network delivers median download speeds above 100 Mbps, easily supporting HD streaming. Rural areas may be slower, but 4G is sufficient for social media and messaging."
+  - myth: "All eSIMs in Peru offer the same speed."
+    truth: "Speed varies significantly by operator. Claro leads with a median download speed of 29.01 Mbps, while Bitel offers 23.10 Mbps and Entel 20.09 Mbps. Choose based on your needs."
 
-  - myth: "You need a physical SIM to get good coverage in Peru."
-    truth: "eSIMs connect to the same Claro and Movistar towers as physical SIMs. There is no difference in coverage or speed – eSIMs are just more convenient and secure."
+  - myth: "5G is available everywhere in Peru."
+    truth: "5G coverage is concentrated in major cities like Lima, Arequipa, and Cusco. Rural and remote areas may only have 4G or 3G. Check coverage maps before relying on 5G."
 
-  - myth: "All eSIMs in Peru use the same network."
-    truth: "No. Roami's Peru eSIM lets you choose between Claro (best for cities) or Movistar (best for rural areas). Picking the right operator based on your itinerary makes a significant difference."
+  - myth: "eSIM activation requires a physical SIM card."
+    truth: "eSIM is fully digital. You receive a QR code via email, scan it with your phone, and the profile is installed. No physical SIM needed."
 
-  - myth: "Peru has no 5G outside of Lima."
-    truth: "5G is already live in Cusco, Arequipa, Trujillo, and several other cities. Claro and Movistar continue to expand their 5G footprint across the country."
+  - myth: "Hotspot tethering is not allowed with eSIMs."
+    truth: "Most Peru eSIM plans allow hotspot tethering. However, some may have restrictions or throttle speeds after a certain amount of tethering data. Always read the plan details."
 
-  - myth: "You must register your eSIM with Peruvian authorities."
-    truth: "No registration is required. Roami's eSIMs are pre-provisioned and comply with local regulations. Simply activate and use."
+  - myth: "You need a Peruvian ID to buy an eSIM."
+    truth: "Foreign tourists can purchase and activate a Peru eSIM using their passport. KYC verification is done digitally, and no local ID is required."
 
 
 # Data sources
-data_sources_title: "Data sources & methodology"
+data_sources_title: "Peru mobile network data sources"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest Global Index (Q3 2024)"
-    description: "Independent median mobile download speed rankings for Peru, comparing Claro and Movistar performance across urban and rural areas."
+  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/peru-speedtest-connectivity-report-h2-2024)"
+    description: "Ookla's Speedtest Intelligence data for Peru (2H 2024) provides median download/upload speeds, latency, and 5G performance for Claro, Entel, and Bitel."
 
-  - name: "OSIPTEL Coverage Reports (2024)"
-    description: "Official Peruvian telecom regulator data on 4G/5G population coverage by operator, used to verify Movistar's rural advantage."
+  - name: "OpenSignal 2024"
+    description: "OpenSignal's Peru Mobile Network Experience Report (2024) offers insights on video streaming, gaming, and voice app experience across operators."
 
-data_sources_footer: "All network performance claims are based on publicly available third-party reports. No internal Roami testing data was used."
-data_sources_note: "Speeds and coverage may vary based on location, device, and network congestion. Always check our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page before purchasing."
+  - name: "OSIPTEL 2024"
+    description: "The Peruvian telecom regulator (OSIPTEL) publishes annual reports on network quality, spectrum allocation, and coverage obligations for all operators."
+
+data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are accurate as of the second half of 2024."
+data_sources_note: "Network speeds and coverage can vary based on location, time of day, device, and network congestion. Always check the latest coverage maps before traveling."
 
 # CTA product card
-cta_title: "Ready to explore Peru without roaming fees?"
-cta_desc: "Get your Peru eSIM now and connect instantly to Claro or Movistar 5G networks. No physical SIM, no hidden costs."
-cta_button_text: "Buy Peru eSIM"
+cta_title: "Secure your Peru eSIM today"
+cta_desc: "Get immediate access to Peru's fastest 5G networks with Roami. Instant activation, no roaming fees, and unlimited hotspot tethering."
+cta_button_text: "Buy Peru eSIM now"
 cta_button_link: "/peru-esim/"
-cta_free_trial_note: "New customer exclusive"
-cta_free_trial_text: "Free trial eSIM"
+cta_free_trial_note: "Exclusive for new customers"
+cta_free_trial_text: "Free Peru trial eSIM"
 cta_free_trial_link: "/free-esim/"
 
-# No text for back-to-top button, no configuration needed
 ---
 
-# Peru eSIM: Buy and Connect Instantly
+# Peru eSIM: Experience blazing‑fast 5G speeds
 
-> **💡 Quick Summary for Travelers:** For the best balance of speed and coverage across Peru, choose Claro eSIM – it dominates in Lima and Cusco. If you prioritize deep rural coverage near Machu Picchu or the Amazon, Movistar eSIM is the reliable pick. Both support 5G and eliminate expensive roaming fees.
+> **💡 Short summary for travelers:** 【More freedom through device sharing: unlimited 5G data unlimitedly on the go】. With Roami's Peru eSIM, you can share your high‑speed connection across all your devices without worrying about data caps. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/peru-speedtest-connectivity-report-h2-2024), Claro leads the market with a median 5G download speed of 57.79 Mbps and a median overall download speed of 29.01 Mbps. Whether you are exploring Lima's historic center or trekking in the Sacred Valley, Roami's eSIM ensures you stay connected with blazing‑fast 5G speeds and seamless hotspot tethering.
 
-## Things you must know before buying a Peru eSIM
+## Things you need to know before buying a Peru eSIM
 
 
-### 📱 eSIM compatibility check {#-esim-compatibility-check}
-Before purchasing, ensure your smartphone supports eSIM technology. Most recent iPhones (XS and newer), Google Pixels (3a and newer), and Samsung Galaxy S20+/S21+/S22+/S23+/S24+ models are compatible. For a full list, visit our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page.
+### 1. Main 5G/4G frequency bands in Peru {#1-main-5g4g-frequency-bands-in-peru}
+Peru's mobile networks operate on the following key bands: 4G LTE: Band 2 (1900 MHz), Band 4 (1700/2100 MHz AWS), Band 5 (850 MHz), Band 7 (2600 MHz), Band 28 (700 MHz). 5G NR: n78 (3500 MHz) is the primary band used by Claro, Entel, and Bitel. Ensure your device supports these bands for optimal performance.
 
-### 🛡️ Why use an eSIM in Peru? {#-why-use-an-esim-in-peru}
-An eSIM eliminates the need for a physical SIM card, so you won't have to hunt for a SIM vendor at Jorge Chávez International Airport. It also prevents SIM swap fraud, a known risk in Peru. With instant activation, you can connect to Claro or Movistar as soon as you land, avoiding expensive international roaming fees from your home carrier.
+### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
+To activate a Peru eSIM, you must provide a valid passport or national ID. Some providers may require a selfie for identity verification. The process is fully digital and takes only a few minutes.
 
-### 📶 Network coverage in Peru {#-network-coverage-in-peru}
-Peru's mobile coverage is concentrated along the coast and in major cities. Claro and Movistar both offer 5G in Lima, Cusco, Arequipa, and Trujillo. In the Andes and Amazon, 4G is more common, with Movistar having a slight edge in rural areas. Remote trekking routes may have intermittent signal.
+### 3. Fair Usage Policy (FUP) and data caps {#3-fair-usage-policy-fup-and-data-caps}
+Most Peru eSIM plans include a Fair Usage Policy (FUP) that may throttle speeds after a certain data threshold (e.g., 10 GB per day). Always check the specific plan details to avoid unexpected slowdowns.
+
+### 4. Network coverage in remote areas {#4-network-coverage-in-remote-areas}
+While Claro and Entel offer extensive 4G/5G coverage in cities and tourist hubs, remote areas like the Amazon rainforest or high Andes may have limited connectivity. Bitel has been expanding rural coverage, but expect slower speeds outside urban centers.
+
+### 5. eSIM compatibility and device support {#5-esim-compatibility-and-device-support}
+Most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer) support eSIM. Check your device's IMEI to confirm <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing.

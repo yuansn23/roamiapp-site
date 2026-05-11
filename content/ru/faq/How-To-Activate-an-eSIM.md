@@ -1,202 +1,199 @@
 ---
-title: "How to Activate an eSIM (Complete iOS & Android Guide)"
-description: "Learn how to easily activate an eSIM on iPhone and Android devices. Follow our step-by-step guide to scan your QR code and fix common activation errors."
-keywords: ["eSIM activation", "how to activate eSIM", "iPhone eSIM setup", "Android eSIM", "eSIM QR code", "travel eSIM", "eSIM troubleshooting"]
+title: "Как активировать eSIM (полное руководство для iOS и Android)"
+description: "Узнайте, как легко активировать eSIM на iPhone и Android. Следуйте нашему пошаговому руководству, чтобы отсканировать QR-код и исправить распространённые ошибки активации."
+keywords: ["активация eSIM", "как активировать eSIM", "настройка eSIM на iPhone", "eSIM на Android", "QR-код eSIM", "туристическая eSIM", "устранение неполадок eSIM"]
 date: 2026-04-02T10:00:00Z
 lastmod: 2026-04-02T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
+tags: ["eSIM", "iOS", "Android", "Устранение неполадок", "Настройка для путешествий"]
 toc: true
 image: "/images/esim-activation-guide.jpg"
 
-# 站点 & SEO 基础硬编码配置
+# Базовые настройки сайта и SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# Конфигурация перевода UI-текста
 ui_text:
-  updated_on: "Updated on"
-  min_read: "min read"
-  toc: "Table of Contents"
+  updated_on: "Обновлено"
+  min_read: "мин чтения"
+  toc: "Содержание"
 
 breadcrumbs:
   home:
-    text: "Home"
+    text: "Главная"
     url: "/"
   parent:
-    text: "Help Center"
+    text: "Справочный центр"
     url: "/faq/"
  
-# 右侧：热门 eSIM 配置 (6个国家，1.99美金)
+# Правая панель: популярные eSIM (6 стран, 1.99 доллара)
 sidebar_popular:
-  title: "Popular eSIMs"
+  title: "Популярные eSIM"
   item_suffix: "eSIM"
   items:
-    - name: "United States"
+    - name: "США"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Germany"
+    - name: "Германия"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Europe"
+    - name: "Европа"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Turkey"
+    - name: "Турция"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japan"
+    - name: "Япония"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "China"
+    - name: "Китай"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置 (4个国家)
+# Правая панель: бесплатная eSIM (4 страны)
 sidebar_free:
-  title: "Claim Free eSIM"
+  title: "Получить бесплатную eSIM"
   icon: "🎁"
-  item_suffix: "Free eSIM"
-  item_subtitle: "Free eSIM"
+  item_suffix: "Бесплатная eSIM"
+  item_subtitle: "Бесплатная eSIM"
   items:
-    - name: "United Kingdom"
+    - name: "Великобритания"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
-    - name: "Germany"
+    - name: "Германия"
       flag: "/img/flags/de.svg"
       url: "/free-esim/"
-    - name: "Thailand"
+    - name: "Таиланд"
       flag: "/img/flags/th.svg"
       url: "/free-esim/"
-    - name: "Hong Kong"
+    - name: "Гонконг"
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右侧：热门问题配置 (5个问题)
+# Правая панель: популярные вопросы (5 вопросов)
 sidebar_questions:
-  title: "Popular Questions"
+  title: "Популярные вопросы"
   items:
-    - question: "What is eSIM activation and how does it work?"
+    - question: "Что такое активация eSIM и как она работает?"
       url: "faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "How to activate an eSIM?"
+    - question: "Как активировать eSIM?"
       url: "/faq/how-to-activate-an-esim//"
-    - question: "How to activate eSIM on iPhone (All Models)?"
+    - question: "Как активировать eSIM на iPhone (все модели)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Latest eSIM Compatibility List"
+    - question: "Актуальный список совместимости eSIM"
       url: "/compatibility/"
 ---
 
 
-**The Bottom Line Up Front:**
-To activate an eSIM, you need a carrier-unlocked phone, a stable Wi-Fi connection, and an eSIM QR code from your provider. Navigate to your phone’s cellular settings, select "Add eSIM" or "Add Data Plan," scan the QR code, and wait 1-2 minutes for the digital profile to download and install. 
+**Коротко о главном:**
+Чтобы активировать eSIM, вам нужен разблокированный телефон, стабильное Wi-Fi-соединение и QR-код eSIM от вашего провайдера. Перейдите в настройки сотовой связи телефона, выберите «Добавить eSIM» или «Добавить тариф», отсканируйте QR-код и подождите 1-2 минуты, пока цифровой профиль загрузится и установится.
 
 ---
 
-## Crucial Checks Before You Start
+## Важные проверки перед началом
 
-Do11 not scan your QR code until you have verified these three requirements. Failing to do so is the #1 cause of activation errors.
+Не сканируйте QR-код, пока не убедитесь, что выполнены эти три требования. Их игнорирование — главная причина ошибок активации.
 
-1. **Your Phone Must Be Carrier-Unlocked:** If you bought your phone through a carrier contract (like AT&T or Verizon), it might be locked to their network. 
-   * *iPhone check:* Go to **Settings > General > About**. Scroll down to **Carrier Lock**. It must say **No SIM restrictions**.
-2. **You Need a Stable Wi-Fi Connection:** An eSIM is a digital download. You cannot activate it using your regular cellular data because the phone needs an internet connection to communicate with the carrier's secure server.
-3. **Do Not Use Your Camera App:** Always scan the QR code through your phone’s Settings menu, not the standard camera app.
- 
+1. **Ваш телефон должен быть разблокирован:** Если вы купили телефон по контракту оператора (например, AT&T или Verizon), он может быть заблокирован в его сети.
+   * *Проверка на iPhone:* перейдите в **Настройки > Основные > Об этом устройстве**. Прокрутите вниз до пункта **Блокировка оператора**. Должно быть написано **Нет ограничений SIM**.
+2. **Вам нужно стабильное Wi-Fi соединение:** eSIM — это цифровая загрузка. Вы не можете активировать её через обычные сотовые данные, потому что телефону требуется интернет-соединение для связи с защищённым сервером оператора.
+3. **Не используйте приложение камеры:** Всегда сканируйте QR-код через меню настроек телефона, а не через стандартное приложение камеры.
 
-## How to Activate an eSIM on iPhone (iOS)
+## Как активировать eSIM на iPhone (iOS)
 
-Apple has streamlined the eSIM process in recent iOS updates. Follow these exact steps to install your profile.
+Apple упростила процесс eSIM в последних обновлениях iOS. Следуйте этим точным шагам для установки вашего профиля.
 
-1. **Step 1:** Go to **Settings > Cellular** (or **Mobile Data** depending on your region).
-2. **Step 2:** Tap **Add eSIM** (or **Add Data Plan** on older iOS versions).
-3. **Step 3:** Tap **Use QR Code** at the bottom of the screen.
-4. **Step 4:** Position the QR code within the camera frame. 
-5. **Step 5:** Once recognized, tap **Continue** and wait for the "Cellular Setup Complete" message.
+1. **Шаг 1:** Перейдите в **Настройки > Сотовая связь** (или «Мобильные данные» в зависимости от региона).
+2. **Шаг 2:** Нажмите **Добавить eSIM** (или «Добавить тариф» на старых версиях iOS).
+3. **Шаг 3:** Нажмите **Использовать QR-код** внизу экрана.
+4. **Шаг 4:** Расположите QR-код в рамке камеры.
+5. **Шаг 5:** После распознавания нажмите **Продолжить** и дождитесь сообщения «Настройка сотовой связи завершена».
 
-If you cannot scan the code (e.g., the QR code is on the phone you are using), tap **Enter Details Manually** at the bottom of the scanning screen. Paste the **SM-DP+ Address** and **Activation Code** provided in your carrier's email.
- 
+Если вы не можете отсканировать код (например, QR-код находится на телефоне, который вы используете), нажмите **Ввести данные вручную** внизу экрана сканирования. Вставьте **SM‑DP+ адрес** и **код активации**, указанные в письме вашего оператора.
 
-## How to Activate an eSIM on Android 
+## Как активировать eSIM на Android
 
-Android menus vary slightly depending on your device manufacturer. Here are the exact paths for the two most popular Android brands.
+Меню Android незначительно отличаются в зависимости от производителя устройства. Вот точные пути для двух самых популярных брендов Android.
 
-### For Samsung Galaxy Devices:
+### Для устройств Samsung Galaxy:
 
-1. **Step 1:** Go to **Settings > Connections**.
-2. **Step 2:** Tap **SIM Manager**.
-3. **Step 3:** Select **Add eSIM**.
-4. **Step 4:** Tap **Scan QR code from service provider**.
-5. **Step 5:** Scan the code and tap **Add** when prompted.
+1. **Шаг 1:** Перейдите в **Настройки > Подключения**.
+2. **Шаг 2:** Нажмите **Диспетчер SIM-карт**.
+3. **Шаг 3:** Выберите **Добавить eSIM**.
+4. **Шаг 4:** Нажмите **Сканировать QR-код от провайдера**.
+5. **Шаг 5:** Отсканируйте код и нажмите **Добавить** при появлении запроса.
 
-### For Google Pixel Devices:
+### Для устройств Google Pixel:
 
-1. **Step 1:** Go to **Settings > Network & internet**.
-2. **Step 2:** Tap the **+ (plus icon)** next to **SIMs**.
-3. **Step 3:** Tap **Download a SIM instead?** at the bottom.
-4. **Step 4:** Tap **Next** and scan your QR code.
- 
+1. **Шаг 1:** Перейдите в **Настройки > Сеть и интернет**.
+2. **Шаг 2:** Нажмите **+ (знак плюса)** рядом с **SIM-карты**.
+3. **Шаг 3:** Нажмите внизу **Загрузить SIM-карту?**.
+4. **Шаг 4:** Нажмите **Далее** и отсканируйте QR-код.
 
-## Activating via a Carrier App (The Alternative Method)
+## Активация через приложение оператора (альтернативный метод)
 
-Many travel eSIM providers (like Airalo or Holafly) and major domestic carriers offer in-app activation. This bypasses the QR code entirely.
+Многие поставщики туристических eSIM (например, Airalo или Holafly) и крупные местные операторы предлагают активацию через приложение. Это полностью обходит QR-код.
 
-1. Download your provider's official app.
-2. Log into your account and locate your purchased plan.
-3. Tap the **Activate** or **Install eSIM** button.
-4. Your phone will prompt you for permission to allow the app to install a cellular plan. Tap **Allow** or **Continue**.
+1. Скачайте официальное приложение вашего провайдера.
+2. Войдите в свой аккаунт и найдите приобретённый план.
+3. Нажмите кнопку **Активировать** или **Установить eSIM**.
+4. Телефон запросит разрешение на установку сотового плана. Нажмите **Разрешить** или **Продолжить**.
 
-## How to Confirm Your eSIM is Successfully Activated
+## Как подтвердить успешную активацию eSIM
 
-Once you have completed the steps above, here is how you can verify that your new eSIM is ready to use:
+После выполнения вышеуказанных шагов вот как можно убедиться, что ваша новая eSIM готова к использованию:
 
-* **Check the Status Bar:** Look at the top right corner of your screen. If you have both your physical SIM and eSIM turned on, you should see two separate sets of cellular signal bars.
-* **Check the Settings Menu:** Go to your Cellular/Network settings. You should see both lines listed, and your newly added eSIM status should say **"On"** or **"Active"**.
-* **The Real-World Test:** Turn off your Wi-Fi, switch your primary Cellular Data to the new eSIM line, and try to load a webpage or open an app. If it connects smoothly, your activation is 100% successful!
+* **Проверьте строку состояния:** Посмотрите в верхний правый угол экрана. Если у вас включены и физическая SIM, и eSIM, вы должны увидеть два отдельных набора индикаторов сотового сигнала.
+* **Проверьте меню настроек:** Перейдите в настройки сотовой связи. Вы должны увидеть обе линии, и статус вашей новой eSIM должен быть «Вкл.» или «Активна».
+* **Реальный тест:** Выключите Wi-Fi, переключите основную линию сотовых данных на новую eSIM и попробуйте загрузить веб-страницу или открыть приложение. Если соединение устанавливается плавно, активация прошла на 100% успешно!
 
-## How to Switch Between Multiple eSIM Plans
+## Как переключаться между несколькими планами eSIM
 
-If you are a frequent traveler, you can store multiple eSIMs on your phone and switch between them effortlessly. 
+Если вы часто путешествуете, вы можете хранить несколько eSIM на телефоне и легко переключаться между ними.
 
-* **On iPhone:** Go to **Settings > Cellular > Cellular Data**, and simply tap the plan you want to use for internet access. *(Shortcut: Swipe down to open the Control Center, long-press the cellular data icon, and quickly switch your active data line).*
-* **On Android:** Go to **Settings > Network & internet > SIMs**. Tap the plan you want to use, and toggle on the **"Use SIM"** or **"Mobile data"** option.
+* **На iPhone:** Перейдите в **Настройки > Сотовая связь > Сотовые данные** и просто нажмите на план, который хотите использовать для доступа в интернет. *(Быстрый способ: проведите вниз, чтобы открыть Пункт управления, нажмите и удерживайте значок сотовых данных и быстро переключите активную линию данных).*
+* **На Android:** Перейдите в **Настройки > Сеть и интернет > SIM-карты**. Нажмите на план, который хотите использовать, и включите опцию **«Использовать SIM-карту»** или **«Мобильные данные»**.
 
-> 💡 **Traveler Tip:** You can install your travel eSIM at home. Once your plane lands at your destination, simply go into your settings and switch your Cellular Data over to the local eSIM to get online instantly.
+> 💡 **Совет путешественнику:** Вы можете установить туристическую eSIM дома. Как только ваш самолёт приземлится в пункте назначения, просто зайдите в настройки и переключите сотовые данные на местную eSIM, чтобы мгновенно подключиться к интернету.
 
-## Troubleshooting Common Activation Failures
+## Устранение распространённых сбоев активации
 
-If your eSIM fails to activate or connect, do not panic. Try these technical fixes before contacting customer support.
+Если ваша eSIM не активируется или не подключается, не паникуйте. Попробуйте эти технические исправления, прежде чем обращаться в службу поддержки.
 
-### Error 1: "Cellular Plan Cannot Be Added"
-* **The Fix:** This usually means your phone is carrier-locked, or the QR code has already been scanned. QR codes are strictly single-use. If your phone is unlocked and you get this error, you must contact your provider to generate a fresh QR code.
+### Ошибка 1: «Сотовый тариф не может быть добавлен»
+* **Исправление:** Обычно это означает, что ваш телефон заблокирован под оператора или QR-код уже был отсканирован. QR-коды предназначены только для однократного использования. Если ваш телефон разблокирован и вы получаете эту ошибку, вам нужно обратиться к провайдеру для создания нового QR-кода.
 
-### Error 2: "Invalid QR Code" or Code Won't Scan
-* **The Fix:** The QR code might be expired, damaged, or your camera cannot focus. Make sure you are scanning in a well-lit area and the screen displaying the code is bright. If it still fails, tap "Enter Details Manually" and type in the **SM-DP+ Address** and **Activation Code** provided by your carrier.
+### Ошибка 2: «Неверный QR-код» или код не сканируется
+* **Исправление:** QR-код мог истечь, быть повреждённым, или ваша камера не может сфокусироваться. Убедитесь, что вы сканируете в хорошо освещённом месте, а экран с кодом яркий. Если это не помогло, нажмите «Ввести данные вручную» и введите **SM‑DP+ адрес** и **код активации**, предоставленные вашим оператором.
 
-### Issue 1: The eSIM is Installed, but Shows "No Service"
-* **The Fix:** The profile downloaded, but your phone hasn't registered with the local cell tower. First, ensure the eSIM line is toggled **ON** in your settings. Next, turn on **Airplane Mode** for 30 seconds, then turn it off. This forces your phone's antenna to reboot and search for a signal.
+### Проблема 1: eSIM установлена, но показывает «Нет обслуживания»
+* **Исправление:** Профиль загружен, но телефон ещё не зарегистрировался на местной вышке сотовой связи. Сначала убедитесь, что линия eSIM **включена** в настройках. Затем включите **Режим полёта** на 30 секунд, а затем выключите его. Это заставит антенну телефона перезагрузиться и найти сигнал.
 
-### Issue 2: Activated Successfully, But No Internet Connection
-* **The Fix:** If you have signal bars but pages won't load, check two things:
-  1. **Turn on Data Roaming:** Go to your eSIM settings and ensure the "Data Roaming" toggle is ON (this is mandatory for most travel eSIMs).
-  2. **Check the APN Settings:** Find the **APN (Access Point Name)** menu in your cellular settings. Ask your provider for the correct APN details and type them in manually. *(This step is especially common for Android devices).*
-  3. **Verify Data Line:** Double-check that your phone's primary "Cellular Data" is actually assigned to the new eSIM, not your home SIM.
+### Проблема 2: Активировано успешно, но нет интернет-соединения
+* **Исправление:** Если у вас есть индикаторы сигнала, но страницы не загружаются, проверьте две вещи:
+  1. **Включите роуминг данных:** Перейдите в настройки eSIM и убедитесь, что переключатель «Роуминг данных» включён (это обязательно для большинства туристических eSIM).
+  2. **Проверьте настройки APN:** Найдите меню **APN (имя точки доступа)** в настройках сотовой связи. Спросите у провайдера правильные параметры APN и введите их вручную. *(Этот шаг особенно распространён для устройств Android).*
+  3. **Проверьте линию данных:** Убедитесь, что основная «Сотовая передача данных» вашего телефона действительно назначена новой eSIM, а не вашей домашней SIM-карте.
 
-> **CRITICAL WARNING:** Never tap **Delete eSIM** or **Remove Data Plan** if you are trying to fix a connection issue. Deleting the eSIM permanently destroys the digital profile, and you will have to purchase a new one.
+> **КРИТИЧЕСКОЕ ПРЕДУПРЕЖДЕНИЕ:** Никогда не нажимайте «Удалить eSIM» или «Удалить тариф», если вы пытаетесь исправить проблему с подключением. Удаление eSIM безвозвратно уничтожает цифровой профиль, и вам придётся покупать новый.
 
-## Frequently Asked Questions
+## Часто задаваемые вопросы
 
-**Is there a fee to activate an eSIM?** No, carriers do not charge an "activation fee" just to scan and install an eSIM profile. You only pay for the actual data plan or cellular package you purchased. 
+**Взимается ли плата за активацию eSIM?** Нет, операторы не взимают «абонентскую плату за активацию» только за сканирование и установку профиля eSIM. Вы платите только за фактический тариф или купленный сотовый пакет.
 
-**Can I activate my eSIM before I travel?** Yes, and it is highly recommended. You should install the eSIM at home while you have reliable Wi-Fi. The data plan will simply remain inactive (or "searching") until you land in your destination country and your phone connects to the local supported network.
+**Могу ли я активировать eSIM до поездки?** Да, и это настоятельно рекомендуется. Вы должны установить eSIM дома, пока у вас есть надёжный Wi-Fi. Тариф просто останется неактивным (или будет «искать»), пока вы не приземлитесь в стране назначения и ваш телефон не подключится к местной поддерживаемой сети.
 
-**How do I switch between my physical SIM and my eSIM?** Go to your cellular settings. You will see both lines listed. You can tap on your physical SIM to turn it off, or set your physical SIM as the default for Voice/SMS, and the eSIM as the default for Cellular Data.
+**Как переключаться между физической SIM-картой и eSIM?** Перейдите в настройки сотовой связи. Вы увидите обе линии. Вы можете нажать на физическую SIM, чтобы отключить её, или сделать физическую SIM основной для голоса/SMS, а eSIM — для сотовых данных.

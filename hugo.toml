@@ -142,118 +142,63 @@ disableKinds = ["taxonomy", "term"]
   modal_title = "Hinweis"
   modal_cancel = "Abbrechen"
   modal_confirm = "Jetzt loslegen"
+ 
+ # 俄语
+    [languages.ru]
+	disabled = true
+    languageName = "Русский"
+    contentDir = "content/ru"  #  сообщаем Hugo, что русский контент в этой папке
+    weight = 1
+    
+ [languages.ru.params]
+    # Текст навигационной панели
+    nav_links = [
+      { name = "Главная", url = "/" },
+      { name = "Тарифы", url = "/plans/" },
+      { name = "совместимость", url = "/compatibility/" },
+     { name = "Бесплатная", url = "/free-esim/" },
+      { name = "Приложение Roami", url = "/app/" },
+	   { name = "Операторы", url = "/carriers/" },
+      { name = "Помощь", url = "/faq/" }
+    ]
+    
 
+# Текст подвала
+    footer_desc = "Предоставляем премиальные eSIM-услуги в 200+ странах и регионах, чтобы вы оставались на связи в любых путешествиях."
+    
+    footer_col1_title = "Популярные направления"
+    # Оптимизация: простой текст заменён на объекты со ссылками, используются абсолютные пути
+    footer_col1_links = [
+{name="eSIM США", url="/united-states-esim/"}, 
+{name="eSIM Европа", url="/europe-esim/"}, 
+{name="eSIM Япония", url="/japan-esim/"}, 
+{name="eSIM Германия", url="/germany-esim/"}, 
+{name="eSIM Турция", url="/turkey-esim/"}, 
+{name="eSIM Канада", url="/canada-esim/"}
+    ]
+    
+    footer_col2_title = "Поддержка клиентов"
+    # Оптимизация: добавлен слэш в начале, убраны .html для чистых URL
+    footer_col2_links = [
+  { name = "Помощь", url = "/faq/" }, 
+  { name = "Совместимость", url = "/compatibility/" },
+   { name = "Операторы", url = "/carriers/" },
+     { name = "Скачать Roami", url = "/app/" }
+]
+    
+    footer_col3_title = "О компании"
+    # Оптимизация: добавлен слэш в начале, чтобы переход с любой страницы вёл в корень
+    footer_col3_links = [
+      {name="О нас", url="/about-us/"}, 
+	  {name="Бесплатная eSIM", url="/free-esim/"}, 
+      {name="Политика конфиденциальности", url="/privacy/"}, 
+      {name="Условия использования", url="/terms/"}
+    ]
+    
+    footer_copyright = "© 2026 Roami. Все права защищены."
+    footer_slogan = "Профессиональный глобальный поставщик eSIM | Эксперт по глобальному роумингу данных eSIM"
 
-# ==========================================
-# 意大利语配置 (Italian)
-# ==========================================
-[languages.it]
-  disabled = true
-  languageName = "Italiano"
-  contentDir = "content/it"  # 意大利语内容文件夹
-  weight = 3
-
-[languages.it.params]
-  # 导航栏文案
-  nav_links = [
-    { name = "Home", url = "/" },
-    { name = "Piani", url = "/plans/" },
-    { name = "Compatibilità eSIM", url = "/compatibility/" },
-    { name = "eSIM Gratuita", url = "/free-esim/" },
-       { name = "Roami APP", url = "/app/" },
-	   { name = "Carriers", url = "/carriers/" },
-    { name = "FAQ", url = "/faq/" }
-  ]
-
-  # 页脚文案
-  footer_desc = "Forniamo servizi eSIM premium in oltre 200 paesi e regioni, mantenendoti connesso ovunque tu viaggi."
-  
-  footer_col1_title = "Destinazioni Principali"
-  footer_col1_links = [
-    {name="eSIM Stati Uniti", url="/united-states-esim/"}, 
-    {name="eSIM Europa", url="/europe-esim/"}, 
-    {name="eSIM Giappone", url="/japan-esim/"}, 
-    {name="eSIM Germania", url="/germany-esim/"}, 
-    {name="eSIM Turchia", url="/turkey-esim/"}, 
-    {name="eSIM Canada", url="/canada-esim/"}
-  ]
-  
-  footer_col2_title = "Assistenza Clienti"
-  footer_col2_links = [
-    { name = "FAQ", url = "/faq/" }, 
-    { name = "Compatibilità eSIM", url = "/compatibility/" },
-    { name = "Contatta l'assistenza", url = "/contact/" }
-  ]
-  
-  footer_col3_title = "Info sull'Azienda"
-  footer_col3_links = [
-    {name="Chi Siamo", url="/about-us/"}, 
-    {name="eSIM Gratuita", url="/free-esim/"}, 
-    {name="Informativa sulla Privacy", url="/privacy/"}, 
-    {name="Termini di Servizio", url="/terms/"}
-  ]
-  
-  footer_copyright = "© 2026 Roami. Tutti i diritti riservati."
-  footer_slogan = "Fornitore professionale di servizi eSIM globali | Esperto di roaming dati eSIM globale"
-
-  # 弹窗文案
-  modal_title = "Avviso"
-  modal_cancel = "Annulla"
-  modal_confirm = "Vai ora"
-  
-  # ==========================================
-# 俄语配置 (Russian)
-# ==========================================
-[languages.ru]
-disabled = true
-  languageName = "Русский"
-  contentDir = "content/ru"  # 俄语内容文件夹
-  weight = 4
-
-[languages.ru.params]
-  # 导航栏文案
-  nav_links = [
-    { name = "Главная", url = "/" },
-    { name = "Тарифы", url = "/plans/" },
-    { name = "Совместимость eSIM", url = "/compatibility/" },
-    { name = "Бесплатная eSIM", url = "/free-esim/" },
-      { name = "Roami APP", url = "/app/" },
-	   { name = "Carriers", url = "/carriers/" },
-    { name = "FAQ", url = "/faq/" }
-  ]
-
-  # 页脚文案
-  footer_desc = "Предоставляем высококачественные eSIM-услуги в более чем 200 странах и регионах, оставаясь на связи во время любых путешествий."
-  
-  footer_col1_title = "Популярные направления"
-  footer_col1_links = [
-    {name="eSIM США", url="/united-states-esim/"}, 
-    {name="eSIM Европа", url="/europe-esim/"}, 
-    {name="eSIM Япония", url="/japan-esim/"}, 
-    {name="eSIM Германия", url="/germany-esim/"}, 
-    {name="eSIM Турция", url="/turkey-esim/"}, 
-    {name="eSIM Канада", url="/canada-esim/"}
-  ]
-  
-  footer_col2_title = "Поддержка клиентов"
-  footer_col2_links = [
-    { name = "FAQ", url = "/faq/" }, 
-    { name = "Совместимость eSIM", url = "/compatibility/" },
-    { name = "Связаться с поддержкой", url = "/contact/" }
-  ]
-  
-  footer_col3_title = "О компании"
-  footer_col3_links = [
-    {name="О нас", url="/about-us/"}, 
-    {name="Бесплатная eSIM", url="/free-esim/"}, 
-    {name="Политика конфиденциальности", url="/privacy/"}, 
-    {name="Условия использования", url="/terms/"}
-  ]
-  
-  footer_copyright = "© 2026 Roami. Все права защищены."
-  footer_slogan = "Профессиональный мировой провайдер eSIM-услуг | Эксперт по глобальному роумингу данных eSIM"
-
-  # 弹窗文案
-  modal_title = "Уведомление"
-  modal_cancel = "Отмена"
-  modal_confirm = "Перейти"
+    # Текст всплывающих окон
+    modal_title = "Уведомление"
+    modal_cancel = "Отмена"
+    modal_confirm = "Перейти сейчас"

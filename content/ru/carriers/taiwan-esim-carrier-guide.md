@@ -1,8 +1,8 @@
 ---
-title: "Taiwan eSIM: Save Time and Effort on Travel Internet"
-description: "Stay connected in Taiwan with a local eSIM from Chunghwa Telecom or Taiwan Mobile. Enjoy 5G speeds at night markets like Shilin without roaming fees. Perfect for avoiding SIM card hassle on short trips."
-date: '2026-05-06T13:03:53+00:00'
-keywords: "Taiwan eSIM, Chunghwa Telecom, Taiwan Mobile, travel internet, 5G, no roaming fees, Shilin night market, eSIM compatibility"
+title: "Taiwan eSIM: Hassle‑free alternative to physical SIM cards"
+description: "Experience fast internet in Taiwan with the best prepaid eSIM. No roaming fees, instant activation via QR code."
+date: "2026-05-09T09:43:34+00:00"
+keywords: "eSIM Taiwan, prepaid data, 5G network, Chunghwa Telecom, Taiwan travel eSIM"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
@@ -12,54 +12,54 @@ breadcrumb_items:
     url: ""
 
 # Hero section copy
-hero_badge: "🇹🇼 Taiwan Travel eSIM Latest Guide"
-hero_subtitle_main: "Taiwan eSIM: Save Time and Effort on Travel Internet"
-hero_subtitle_highlight: "Nationwide Tier‑1 5G Network Access"
-hero_description_line1: "Receive activation details instantly after purchasing the Taiwan eSIM. No waiting for physical card delivery, helping you save time and improve travel efficiency."
-hero_description_line2: "Connect to Chunghwa Telecom or Taiwan Mobile networks with one tap, and enjoy reliable coverage from Taipei 101 to Taroko Gorge."
+hero_badge: "[Country flag] Taiwan Travel eSIM Latest Guide"
+hero_subtitle_main: "Taiwan eSIM: Hassle‑free alternative to physical SIM cards"
+hero_subtitle_highlight: "Premium 5G network coverage by Chunghwa Telecom and Taiwan Mobile"
+hero_description_line1: "With high‑speed network coverage in major cities and tourist spots, the Taiwan eSIM keeps you stably connected whether you're on a road trip, shopping, or working."
+hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
 hero_link_text: "Taiwan eSIM"
 hero_link_url: "/taiwan-esim/"
-tldr_summary: "For reliable 5G coverage across Taiwan, choose Chunghwa Telecom eSIM — it offers the widest network reach, especially in rural areas like Alishan. If you prioritize speed in cities like Taipei, Taiwan Mobile is a strong alternative. Both eliminate roaming fees and physical SIM swaps, making them ideal for short-term travelers who want to avoid connectivity issues."
+tldr_summary: "No connection drops on business trips: cost‑effective eSIM plans for global mobility. Roami's Taiwan eSIM leverages Chunghwa Telecom's award‑winning 5G network, which achieved a median download speed of 346 Mbps in H2 2025 according to Ookla. Whether you're in Taipei or Kaohsiung, enjoy seamless connectivity without physical SIM hassles."
 
 # Sidebar navigation
 sidebar_more_hint: "Swipe to see more"
-sidebar_title: "In this guide"
+sidebar_title: "Taiwan eSIM Quick Links"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Which Taiwan eSIM operator should you choose?"
+    text: "Quick selection: Which Taiwan eSIM provider should you choose?"
 
   - href: "#operators"
-    text: "Detailed operator comparison"
-
-  - href: "#before-buy"
-    text: "What to know before buying a Taiwan eSIM"
+    text: "Top Taiwan eSIM mobile operators review"
 
   - href: "#city-guide"
-    text: "City-by-city eSIM recommendations"
+    text: "City guide: The best eSIM for Taiwan"
 
-  - href: "#scene-guide"
-    text: "Best eSIM for your travel style"
+  - href: "#before-buy"
+    text: "Things you need to know before buying a Taiwan eSIM"
 
   - href: "#faq"
     text: "Frequently asked questions about Taiwan eSIM"
 
   - href: "#myths"
-    text: "Common myths about Taiwan mobile networks"
+    text: "Myths and facts about Taiwan eSIM"
+
+  - href: "#data-sources"
+    text: "Data sources"
 
 
 # Quick decision table
-quick_picks_title: "Quick picks: Which Taiwan eSIM operator is best for you?"
+quick_picks_title: "Quick selection: Which Taiwan eSIM provider should you choose?"
 quick_picks_table_headers:
 
   - "Your travel style"
 
-  - "Recommended operator"
+  - "Recommended provider"
 
   - "Network data performance"
 
 quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "Ookla Speedtest Global Index (Q1 2024)"
+quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/taiwan-speedtest-connectivity-report-tw-h2-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,25 +67,25 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "City explorer visiting Taipei and Kaohsiung"
-    carrier: "Taiwan Mobile"
-    carrier_class: "text-orange-600"
-    reason: "Offers the fastest average 5G download speeds in urban areas, ideal for streaming maps and videos."
-
-  - travel: "Nature lover heading to Alishan or Taroko"
+  - travel: "Digital nomads"
     carrier: "Chunghwa Telecom"
     carrier_class: "text-blue-600"
-    reason: "Best rural coverage with the largest 4G/5G footprint, ensuring connectivity in remote national parks."
+    reason: "Best overall performance with median download speed of 142.62 Mbps and top 5G speeds."
 
-  - travel: "Budget traveler staying in hostels and cafes"
-    carrier: "Far EasTone"
+  - travel: "Business travelers"
+    carrier: "Taiwan Mobile"
     carrier_class: "text-green-600"
-    reason: "Competitive pricing with solid urban performance, great for data‑light users."
+    reason: "Strong urban coverage and competitive 5G speeds."
+
+  - travel: "Budget tourists"
+    carrier: "Far EasTone"
+    carrier_class: "text-purple-600"
+    reason: "Good value with reliable 4G/5G coverage in cities."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost-effective Taiwan eSIM"
-cta_button_sub_text: "Auto network switching, supports eSIM automatic price comparison"
+cta_button_main_text: "View the most cost‑effective Taiwan travel eSIM"
+cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
 
 # Operator general labels
 operator_labels:
@@ -96,208 +96,215 @@ operator_labels:
 # Operator data
 operators:
 
-  - id: "chunghwa-telecom-esim"
-    title: "Chunghwa Telecom eSIM Review: Best Nationwide Coverage for Taiwan Travelers"
-    best_for: "Best for travelers who need reliable connectivity across both cities and remote areas, such as hiking in Taroko Gorge or visiting Sun Moon Lake."
-    core_data: "Consistent 4G/5G speeds with the largest base station count in Taiwan; Ookla reports show median download speeds around 120 Mbps in Q1 2024."
-    arcep_note: "Licensed by NCC (National Communications Commission) as the incumbent operator."
-    connect_note: "Activation is instant after purchase; enable data roaming and select Chunghwa Telecom network manually if needed. No APN configuration required."
-    user_scenarios: "- **Navigating Taipei 101 area**: Real‑time Google Maps and Uber work flawlessly even during peak hours.\\n- **Streaming at Shilin Night Market**: Buffer‑free video calls and social media uploads while surrounded by crowds.\\n- **Hiking in Alishan**: Stable 4G signal at scenic viewpoints for sharing photos instantly."
+  - id: "chunghwa-esim"
+    title: "Chunghwa Telecom eSIM Review: Best overall performance"
+    best_for: "This plan is the absolute top choice for travelers who need the fastest speeds and most reliable coverage across Taiwan."
+    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/taiwan-speedtest-connectivity-report-tw-h2-2025), Chunghwa Telecom achieved a 5G median download speed of 346 Mbps in H2 2025.\n- **Download rate**: Overall median download speed of 142.62 Mbps.\n- **Upload rate**: Median upload speed of 19.23 Mbps.\n- **Latency**: 27 ms overall, 21 ms on 5G.\n- **Stability**: 94.5% of samples met the 5 Mbps down / 1 Mbps up threshold."
+    arcep_note: "Confirmed by the local telecom authority (NCC) as the market leader in 5G spectrum holdings."
+    connect_note: "Activation works seamlessly with Roami eSIM; instant QR code delivery."
+    user_scenarios: "- **Taipei 101**: Stream 4K video without buffering while enjoying the view.\n- **Kaohsiung Pier-2 Art Center**: Fast uploads for social media posts.\n- **Taroko Gorge**: Reliable connectivity even in mountainous areas."
     bg_color: "bg-blue-50"
 
   - id: "taiwan-mobile-esim"
-    title: "Taiwan Mobile eSIM Review: Fastest Urban 5G for Taipei and Kaohsiung"
-    best_for: "Best for city‑centric travelers who prioritize speed for streaming, video calls, and quick downloads in metropolitan areas."
-    core_data: "Ranked top in urban 5G speeds by Ookla in Q1 2024; median download speeds exceed 200 Mbps in Taipei."
-    arcep_note: "Licensed by NCC as a major Tier‑1 MNO."
-    connect_note: "Auto‑connects upon landing; ensure data roaming is on. No APN changes needed. Works seamlessly with <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> on most modern smartphones."
-    user_scenarios: "- **Video calls from Ximending**: Crystal‑clear FaceTime even during busy evenings.\\n- **Streaming 4K content at Taipei Main Station**: No buffering while waiting for trains.\\n- **Using ride‑hailing apps in Kaohsiung**: Instant map loading and driver communication."
-    bg_color: "bg-orange-50"
-
-  - id: "far-eastone-esim"
-    title: "Far EasTone eSIM Review: Affordable Data for Budget Travelers in Taiwan"
-    best_for: "Best for budget‑conscious travelers who need reliable data in cities and don't require premium speeds in remote areas."
-    core_data: "Offers competitive prepaid rates; urban speeds are comparable to other MNOs, with median downloads around 80 Mbps in Q1 2024."
-    arcep_note: "Licensed by NCC as the third major MNO."
-    connect_note: "Simple activation: install eSIM profile before departure, enable data roaming on arrival. No APN settings required. Check <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> for your device."
-    user_scenarios: "- **Checking maps at Chiang Kai‑shek Memorial Hall**: Quick loading of walking directions.\\n- **Messaging friends from Dihua Street**: Reliable WhatsApp and WeChat for sharing shopping finds.\\n- **Light browsing at Taipei Zoo**: Sufficient speed for social media updates and photo uploads."
+    title: "Taiwan Mobile eSIM Review: Strong urban performer"
+    best_for: "Ideal for city travelers who need consistent speeds in Taipei, Taichung, and Kaohsiung."
+    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/taiwan-speedtest-connectivity-report-tw-h2-2025), Taiwan Mobile ranked second in overall speed with a median download of 90.08 Mbps.\n- **Download rate**: Competitive 5G speeds in urban centers.\n- **Upload rate**: Good upload performance for video calls.\n- **Latency**: Low latency suitable for real-time apps."
+    arcep_note: "Confirmed by NCC as a top 3 operator with extensive 5G coverage."
+    connect_note: "Easy eSIM activation via Roami; compatible with most modern smartphones."
+    user_scenarios: "- **Ximending shopping district**: Fast mobile payments and map loading.\n- **Taichung Fengjia Night Market**: Quick social media sharing.\n- **Kaohsiung Love River**: Smooth video streaming during evening strolls."
     bg_color: "bg-green-50"
+
+  - id: "fareastone-esim"
+    title: "Far EasTone eSIM Review: Budget-friendly option"
+    best_for: "Travelers on a budget who still want reliable 5G connectivity in major cities."
+    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/taiwan-speedtest-connectivity-report-tw-h2-2025), Far EasTone achieved a 5G median download speed of 257.01 Mbps.\n- **Download rate**: Solid performance for everyday use.\n- **Upload rate**: Adequate for messaging and light browsing.\n- **Latency**: Acceptable for most applications."
+    arcep_note: "Confirmed by NCC as a major player with good spectrum allocation."
+    connect_note: "Roami eSIM supports Far EasTone; instant activation."
+    user_scenarios: "- **Tainan Chihkan Tower**: Quick photo uploads.\n- **Sun Moon Lake**: Reliable connectivity for navigation.\n- **Kenting National Park**: Basic internet access for maps and messaging."
+    bg_color: "bg-purple-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check Taiwan eSIM compatibility list"
-cards_compatibility_desc: "Check whether your phone supports Taiwan eSIM and local 5G bands"
-cards_free_title: "Claim your free Taiwan eSIM"
-cards_free_desc: "Limited free trial eSIM, experience high-speed Taiwan network"
+cards_compatibility_title: "Check the Taiwan eSIM compatibility list"
+cards_compatibility_desc: "Check if your phone supports Taiwan eSIM and local 5G bands"
+cards_free_title: "Get your free Taiwan eSIM"
+cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
 cards_free_badge: "FREE"
 cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class=\"bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base\">web20</strong> | One‑tap eSIM management"
+cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you must know before buying a Taiwan eSIM"
+before_buy_title: "Things you need to know before buying a Taiwan eSIM"
 before_buy_sections:
 
-  - heading: "Device compatibility check"
-    content: "Before purchasing, verify that your smartphone supports eSIM. Most recent iPhone models (XR and later), Google Pixel (3a and later), and Samsung Galaxy (S20 and later) are compatible. Use our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> tool to confirm."
+  - heading: "1. Main 5G/4G frequency bands in Taiwan"
+    content: "Taiwan's 5G networks operate primarily on the 3.5 GHz band (n78) and 28 GHz (n257). 4G LTE uses bands 1 (2100 MHz), 3 (1800 MHz), 7 (2600 MHz), and 8 (900 MHz). Ensure your device supports these bands for optimal performance."
 
-  - heading: "Activation and setup"
-    content: "After buying, you'll receive a QR code via email. Scan it with your phone's camera, follow the on‑screen instructions, and enable data roaming. The eSIM activates automatically upon arrival in Taiwan."
+  - heading: "2. KYC requirements for eSIM activation"
+    content: "To activate a Taiwan eSIM, you must provide a valid passport or national ID. Some providers may require a selfie or video verification. Roami simplifies this process with pre-verified profiles."
 
-  - heading: "Network coverage notes"
-    content: "Chunghwa Telecom has the widest rural coverage, while Taiwan Mobile leads in urban 5G speeds. Far EasTone offers a good balance for city use. All three operators provide free incoming calls and SMS."
+  - heading: "3. Fair Usage Policy (FUP) for unlimited plans"
+    content: "Most unlimited data plans in Taiwan have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 50 GB per month). Check the specific plan details before purchasing."
+
+  - heading: "4. eSIM compatibility with your device"
+    content: "eSIM is supported on iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many other Android devices. Verify your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before travel."
+
+  - heading: "5. Roaming vs local eSIM: cost comparison"
+    content: "Using a local Taiwan eSIM like Roami is significantly cheaper than international roaming. For example, a 7-day unlimited data plan costs around $15 USD, while roaming can cost $10-20 per day."
 
 
 # City recommendation table
-city_guide_title: "City‑by‑city eSIM recommendations"
-city_guide_desc: "Based on network performance and local conditions, here are the best eSIM operators for major Taiwanese cities."
+city_guide_title: "City guide: The best eSIM for Taiwan"
+city_guide_desc: "Find out which Taiwan eSIM is the best choice for your destination city based on network performance and coverage."
 city_table_headers:
 
   - "City"
 
-  - "Recommended eSIM operator"
+  - "Recommended eSIM provider"
 
-  - "Reason / characteristics"
+  - "Reason / Features"
 
 city_recommendations:
 
   - city: "Taipei"
-    carriers: "Taiwan Mobile"
-    reason: "Fastest 5G speeds in the capital, ideal for busy districts like Xinyi and Ximending."
+    carriers: "Chunghwa Telecom"
+    reason: "Fastest median mobile download speed at 130.78 Mbps. Excellent 5G coverage across the city, including MRT and major tourist spots."
 
   - city: "Kaohsiung"
-    carriers: "Taiwan Mobile"
-    reason: "Excellent urban coverage and speed for the harbor city's attractions."
+    carriers: "Chunghwa Telecom"
+    reason: "Top fixed network speed of 307.16 Mbps. Strong 5G performance for streaming and business use."
 
   - city: "Taichung"
-    carriers: "Chunghwa Telecom"
-    reason: "Balanced coverage across the city and surrounding mountain areas."
+    carriers: "Taiwan Mobile"
+    reason: "Reliable urban coverage with competitive speeds. Good for night markets and cultural sites."
 
   - city: "Tainan"
-    carriers: "Chunghwa Telecom"
-    reason: "Reliable connectivity in historical districts and suburban temples."
+    carriers: "Far EasTone"
+    reason: "Budget-friendly option with adequate 5G speeds for historical site visits and local exploration."
 
   - city: "Hualien"
     carriers: "Chunghwa Telecom"
-    reason: "Best for Taroko Gorge and coastal routes with consistent signal."
+    reason: "Best coverage for Taroko Gorge and coastal areas. Chunghwa has the widest rural network."
 
-  - city: "Chiayi"
-    carriers: "Chunghwa Telecom"
-    reason: "Strongest network for accessing Alishan National Scenic Area."
-
-city_guide_tip: "💡 Tip: if you use Roami’s multi‑network eSIM, your phone will automatically switch to the best local operator – no manual selection needed."
+city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
 
 # Scenario-based selection guide
 scene_guide_title: "🎯 Choose the best Taiwan eSIM based on your travel scenario"
 scene_items:
 
   - icon: "🏛️"
-    title: "City sightseeing"
-    text: "Use Taiwan Mobile for fast 5G in Taipei, Kaohsiung, and Taichung. Great for maps, ride‑hailing, and social media."
+    title: "City explorer"
+    text: "Visit Taipei 101, Chiang Kai-shek Memorial Hall, and night markets with fast 5G for maps, payments, and social media."
 
   - icon: "🏞️"
-    title: "Nature & hiking"
-    text: "Choose Chunghwa Telecom for reliable coverage in Alishan, Taroko, and Sun Moon Lake. Essential for GPS and emergency calls."
+    title: "Nature lover"
+    text: "Explore Taroko Gorge, Alishan, and Sun Moon Lake. Chunghwa Telecom provides the best rural coverage for navigation and emergency calls."
 
-  - icon: "💰"
-    title: "Budget travel"
-    text: "Far EasTone offers affordable data plans with decent urban speeds. Perfect for light browsing and messaging."
+  - icon: "🚗"
+    title: "Road tripper"
+    text: "Drive the East Coast or cross-island highways. Reliable connectivity for GPS, music streaming, and hotel bookings."
 
-  - icon: "📱"
-    title: "Business & remote work"
-    text: "Taiwan Mobile or Chunghwa Telecom provide stable connections for video conferences and large file uploads in cities."
+  - icon: "🏖️"
+    title: "Beach vacationer"
+    text: "Relax at Kenting or Fulong beaches. Stream videos and share photos with consistent 4G/5G speeds."
 
-scene_guide_footer: "💡 Roami Taiwan eSIM Multi‑Network Edition automatically recognizes your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 The Roami Taiwan eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
 
 # FAQ
-faq_title: "Taiwan eSIM frequently asked questions"
+faq_title: "Frequently asked questions about Taiwan eSIM"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View the complete FAQ →"
+faq_more_link_text: "More questions? View full FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Can I use a Taiwan eSIM on an iPhone 14 from the US?"
-    a: "Yes, as long as your iPhone is unlocked and supports eSIM. Check <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> for your specific model."
+  - q: "Is it possible to purchase multiple data packages for Taiwan and activate them one after another?"
+    a: "Yes, you can purchase multiple eSIM data packages for Taiwan and activate them sequentially. Roami allows you to store multiple eSIM profiles on your device and switch between them as needed. Simply scan the QR code for each package and activate when your current plan expires."
 
-  - q: "Will I be charged roaming fees with a Taiwan eSIM?"
-    a: "No, Taiwan eSIMs are local prepaid plans, so you avoid international roaming fees entirely. All data is consumed within Taiwan."
+  - q: "What average download and upload network speeds can I expect in Taiwan?"
+    a: "Based on Ookla data from H2 2025, the overall median download speed in Taiwan is 142.62 Mbps on Chunghwa Telecom, with upload speeds of 19.23 Mbps. On 5G, median download speeds reach 346 Mbps. Speeds may vary by location and network congestion."
 
-  - q: "Which operator has the best coverage in rural areas like Alishan?"
-    a: "Chunghwa Telecom has the most extensive rural network, making it the top choice for national parks and mountain regions."
+  - q: "How can I transfer my active Taiwan eSIM profile to a new smartphone when I change phones?"
+    a: "Transferring an eSIM profile depends on your device and carrier. Most modern smartphones allow you to remove the eSIM from the old device and scan the QR code again on the new device. For Roami eSIMs, you can re-download the profile from your account. Note that some carriers may require a new eSIM purchase."
 
-  - q: "How do I activate my Taiwan eSIM?"
-    a: "After purchase, scan the QR code sent to your email, follow the setup prompts, and enable data roaming. The eSIM activates automatically upon arrival."
+  - q: "Are there significant speed differences between the various regions and cities in Taiwan?"
+    a: "Yes, speed differences exist. Taipei recorded the fastest mobile median download speed at 130.78 Mbps, while Kaohsiung leads in fixed broadband at 307.16 Mbps. Rural areas like Hualien may have slower speeds, but Chunghwa Telecom offers the most consistent coverage across the island."
 
-  - q: "Can I keep my original SIM card active while using the eSIM?"
-    a: "Yes, most dual‑SIM phones allow you to use your physical SIM for calls/SMS and the eSIM for data. Just set the eSIM as the primary data line."
-
-  - q: "What happens if I run out of data?"
-    a: "You can top up online through your eSIM provider's portal. Some plans also offer automatic data refills."
+  - q: "Does internet speed in Taiwan suffer when multiple devices are simultaneously connected via the eSIM hotspot?"
+    a: "Yes, hotspot sharing can reduce speeds due to bandwidth distribution. For example, a 100 Mbps connection shared among 3 devices may drop to ~33 Mbps per device. For optimal performance, limit hotspot usage to 1-2 devices and avoid heavy streaming on multiple devices simultaneously."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about Taiwan eSIM"
+myths_title: "⚠️ Common myths and facts about the Taiwan eSIM"
 myth_label: "❌ Myth: "
 truth_label: "✅ Fact: "
 myths:
 
-  - myth: "Taiwan's mobile networks are slow in all rural areas."
-    truth: "Only a few remote mountain trails have weak signals; Chunghwa Telecom provides strong 4G/5G coverage in most rural spots like Alishan and Sun Moon Lake."
-
-  - myth: "You need a Taiwanese ID to buy a local eSIM."
-    truth: "Foreign tourists can purchase prepaid eSIMs with just a passport. No local ID required."
-
   - myth: "All eSIMs in Taiwan have the same speed."
-    truth: "Speeds vary by operator: Taiwan Mobile leads in cities, while Chunghwa Telecom excels in coverage. Far EasTone offers a budget option."
+    truth: "Speed varies significantly by operator. Chunghwa Telecom leads with 142.62 Mbps median download, while others like Taiwan Mobile (90.08 Mbps) and Far EasTone (257.01 Mbps on 5G) differ."
 
-  - myth: "eSIM activation is complicated and requires a store visit."
-    truth: "Activation is fully online: scan a QR code and enable data roaming. No physical store visit needed."
+  - myth: "5G is available everywhere in Taiwan."
+    truth: "5G coverage is concentrated in urban areas. Rural and mountainous regions may only have 4G. Chunghwa Telecom has the widest 5G coverage."
 
-  - myth: "Taiwan's 5G is not worth the extra cost."
-    truth: "5G offers significantly faster speeds in urban areas, especially for streaming and video calls. Many eSIM plans include 5G at no extra charge."
+  - myth: "eSIM activation requires a physical SIM card."
+    truth: "eSIM is fully digital. You only need a QR code from your provider. No physical SIM is required."
+
+  - myth: "Unlimited data plans have no restrictions."
+    truth: "Most unlimited plans have a Fair Usage Policy (FUP) that throttles speeds after a certain data cap, typically 50 GB per month."
+
+  - myth: "Taiwan's internet is slow compared to other Asian countries."
+    truth: "Taiwan ranks among the fastest in Asia. Chunghwa Telecom's 5G median download speed of 346 Mbps is competitive with South Korea and Singapore."
 
 
 # Data sources
-data_sources_title: "Data sources & methodology"
+data_sources_title: "Taiwan mobile network data sources"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest Global Index (Q1 2024)"
-    description: "Independent benchmark of mobile network speeds across Taiwan, used to compare Chunghwa Telecom, Taiwan Mobile, and Far EasTone."
+  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/taiwan-speedtest-connectivity-report-tw-h2-2025)"
+    description: "Ookla's Speedtest Intelligence report for H2 2025 provides comprehensive mobile and fixed network performance data for Taiwan, including median download/upload speeds and latency."
 
-  - name: "NCC (National Communications Commission) Coverage Maps"
-    description: "Official regulator data on network coverage and base station density for each operator."
+  - name: "OpenSignal 2025"
+    description: "OpenSignal's Taiwan Mobile Network Experience Report offers insights on 5G availability, video streaming, and game experience across operators."
 
-data_sources_footer: "Network performance data is based on publicly available reports and may vary by location and time."
-data_sources_note: "All comparisons are made using third‑party data to ensure objectivity and accuracy."
+  - name: "NCC (National Communications Commission) 2025"
+    description: "Taiwan's telecom regulator publishes annual spectrum allocation and coverage data, confirming operator rankings and network quality."
+
+data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual speeds may vary."
+data_sources_note: "Network speeds and coverage can vary based on location, device, network congestion, and other factors. Always check the latest reports for current data."
 
 # CTA product card
-cta_title: "Get your Taiwan eSIM now"
-cta_desc: "Skip the SIM card hunt and connect instantly with the best local network for your trip."
-cta_button_text: "Buy Taiwan eSIM"
+cta_title: "Secure your Taiwan eSIM today"
+cta_desc: "Get immediate access to Taiwan's fastest 5G networks with Roami eSIM. Instant activation, no roaming fees, and 24/7 support."
+cta_button_text: "Buy Taiwan eSIM now"
 cta_button_link: "/taiwan-esim/"
-cta_free_trial_note: "New customer exclusive"
-cta_free_trial_text: "Free trial eSIM"
+cta_free_trial_note: "Exclusive for new customers"
+cta_free_trial_text: "Free Taiwan trial eSIM"
 cta_free_trial_link: "/free-esim/"
 
-# No text for back-to-top button, no configuration needed
 ---
 
-# Taiwan eSIM: Save Time and Effort on Travel Internet
+# Taiwan eSIM: Hassle‑free alternative to physical SIM cards
 
-> **💡 Quick Summary for Travelers:** For reliable 5G coverage across Taiwan, choose Chunghwa Telecom eSIM — it offers the widest network reach, especially in rural areas like Alishan. If you prioritize speed in cities like Taipei, Taiwan Mobile is a strong alternative. Both eliminate roaming fees and physical SIM swaps, making them ideal for short-term travelers who want to avoid connectivity issues.
+> **💡 Short summary for travelers:** No connection drops on business trips: cost‑effective eSIM plans for global mobility. Roami's Taiwan eSIM leverages Chunghwa Telecom's award‑winning 5G network, which achieved a median download speed of 346 Mbps in H2 2025 according to Ookla. Whether you're in Taipei or Kaohsiung, enjoy seamless connectivity without physical SIM hassles.
 
-## Things you must know before buying a Taiwan eSIM
+## Things you need to know before buying a Taiwan eSIM
 
 
-### Device compatibility check {#device-compatibility-check}
-Before purchasing, verify that your smartphone supports eSIM. Most recent iPhone models (XR and later), Google Pixel (3a and later), and Samsung Galaxy (S20 and later) are compatible. Use our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> tool to confirm.
+### 1. Main 5G/4G frequency bands in Taiwan {#1-main-5g4g-frequency-bands-in-taiwan}
+Taiwan's 5G networks operate primarily on the 3.5 GHz band (n78) and 28 GHz (n257). 4G LTE uses bands 1 (2100 MHz), 3 (1800 MHz), 7 (2600 MHz), and 8 (900 MHz). Ensure your device supports these bands for optimal performance.
 
-### Activation and setup {#activation-and-setup}
-After buying, you'll receive a QR code via email. Scan it with your phone's camera, follow the on‑screen instructions, and enable data roaming. The eSIM activates automatically upon arrival in Taiwan.
+### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
+To activate a Taiwan eSIM, you must provide a valid passport or national ID. Some providers may require a selfie or video verification. Roami simplifies this process with pre-verified profiles.
 
-### Network coverage notes {#network-coverage-notes}
-Chunghwa Telecom has the widest rural coverage, while Taiwan Mobile leads in urban 5G speeds. Far EasTone offers a good balance for city use. All three operators provide free incoming calls and SMS.
+### 3. Fair Usage Policy (FUP) for unlimited plans {#3-fair-usage-policy-fup-for-unlimited-plans}
+Most unlimited data plans in Taiwan have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 50 GB per month). Check the specific plan details before purchasing.
+
+### 4. eSIM compatibility with your device {#4-esim-compatibility-with-your-device}
+eSIM is supported on iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many other Android devices. Verify your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before travel.
+
+### 5. Roaming vs local eSIM: cost comparison {#5-roaming-vs-local-esim-cost-comparison}
+Using a local Taiwan eSIM like Roami is significantly cheaper than international roaming. For example, a 7-day unlimited data plan costs around $15 USD, while roaming can cost $10-20 per day.

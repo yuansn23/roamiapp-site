@@ -1,65 +1,65 @@
 ---
-title: "Singapore eSIM: Say Goodbye to International Roaming Fees"
-description: "Stay connected in Singapore with a local eSIM. Avoid roaming fees on Singtel & StarHub networks. Stream Marina Bay Sands views, navigate hawker centres, and share Gardens by the Bay moments instantly. Perfect for tourists who want cheap data without SIM swaps."
-date: '2026-05-06T13:03:14+00:00'
-keywords: "Singapore eSIM, Singtel, StarHub, M1, travel eSIM, avoid roaming fees, Marina Bay Sands, Gardens by the Bay, cheap data Singapore"
+title: "Singapur eSIM: Quick activation with no physical SIM cards"
+description: "Experience fast internet in Singapur with the best prepaid eSIM. No roaming fees, instant activation via QR code."
+date: "2026-05-09T09:42:52+00:00"
+keywords: "eSIM Singapur, prepaid data, 5G network, Singtel, SIMBA Telecom, M1, travel eSIM"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Singapore eSIM Guide"
+  - name: "Singapur eSIM Guide"
     url: ""
 
 # Hero section copy
-hero_badge: "🇸🇬 Singapore Travel eSIM Latest Guide"
-hero_subtitle_main: "Singapore eSIM: Say Goodbye to International Roaming Fees"
-hero_subtitle_highlight: "Built on Singapore's Leading 5G Networks"
-hero_description_line1: "The online purchase process for the Singapore eSIM is simple and secure, with clear activation steps so you can prepare your internet solution before departure."
-hero_description_line2: "Choose from Singapore's top-tier networks – Singtel, StarHub, and M1 – and enjoy seamless 5G coverage across the island, from Changi Airport to Sentosa."
-hero_link_text: "Singapore eSIM"
+hero_badge: "[Country flag] Singapur Travel eSIM Latest Guide"
+hero_subtitle_main: "Singapur eSIM: Quick activation with no physical SIM cards"
+hero_subtitle_highlight: "Premium 5G network coverage by Singtel and M1"
+hero_description_line1: "With high‑speed network coverage in major cities and tourist spots, the Singapur eSIM keeps you stably connected whether you're on a road trip, shopping, or working."
+hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_link_text: "Singapur eSIM"
 hero_link_url: "/singapore-esim/"
-tldr_summary: "For the best balance of speed and coverage in Singapore, pick an eSIM on **Singtel** – it consistently leads in Ookla's Speedtest Awards (2023). If you're heading to less central areas like Pulau Ubin, **StarHub** offers solid rural reach. Avoid roaming fees by activating before departure; all three MNOs support instant activation. For budget-conscious travellers, **M1** provides competitive 5G speeds at lower prices, perfect for navigating hawker centres and sharing Marina Bay Sands photos."
+tldr_summary: "【Stress‑free international travel: high‑speed internet anytime, anywhere】 Roami's Singapur eSIM delivers blazing fast connectivity powered by Singtel's award‑winning network. According to Ookla, Singtel achieved a median download speed of 310.26 Mbps and a 5G median of 402.16 Mbps, ensuring seamless streaming, gaming, and video calls. With instant activation and no physical SIM, you stay connected from Changi Airport to Marina Bay. Choose Roami for reliable, high‑speed data across Singapur."
 
 # Sidebar navigation
 sidebar_more_hint: "Swipe to see more"
-sidebar_title: "In this guide"
+sidebar_title: "Singapur eSIM Quick Links"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Which Singapore eSIM operator should you choose?"
+    text: "Quick selection: Which Singapur eSIM provider should you choose?"
 
   - href: "#operators"
-    text: "Singtel, StarHub & M1 eSIM Reviews"
-
-  - href: "#before-buy"
-    text: "What to know before buying an eSIM in Singapore"
+    text: "Top Singapur eSIM mobile operators review"
 
   - href: "#city-guide"
-    text: "Singapore city eSIM recommendations"
+    text: "City guide: The best eSIM for Singapur"
 
-  - href: "#scene-guide"
-    text: "eSIM for every travel scenario"
+  - href: "#before-buy"
+    text: "Things you need to know before buying a Singapur eSIM"
 
   - href: "#faq"
-    text: "Frequently asked questions about Singapore eSIM"
+    text: "Frequently asked questions about Singapur eSIM"
 
   - href: "#myths"
-    text: "Common myths about Singapore mobile networks"
+    text: "Myths and facts about Singapur eSIM"
+
+  - href: "#data-sources"
+    text: "Data sources"
 
 
 # Quick decision table
-quick_picks_title: "Quick picks: Which Singapore eSIM operator should you choose?"
+quick_picks_title: "Quick selection: Which Singapur eSIM provider should you choose?"
 quick_picks_table_headers:
 
   - "Your travel style"
 
-  - "Recommended operator"
+  - "Recommended provider"
 
   - "Network data performance"
 
 quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "Ookla Speedtest Global Index (Q1 2024) – Singapore mobile median download speed: 71.43 Mbps"
+quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/singapore-speedtest-connectivity-report-h2-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,25 +67,30 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Best overall coverage & speed"
+  - travel: "Digital nomads"
     carrier: "Singtel"
     carrier_class: "text-orange-600"
-    reason: "Singtel consistently wins Ookla's Speedtest Awards in Singapore (2023). Ideal for travellers who need reliable 5G across the island, from Changi to Sentosa."
+    reason: "Singtel offers the fastest overall network with a median download speed of 310.26 Mbps and best 5G availability at 82.6%, ideal for heavy data users and remote work."
 
-  - travel: "Best for off-the-beaten-path areas"
-    carrier: "StarHub"
-    carrier_class: "text-orange-600"
-    reason: "StarHub has strong rural coverage, including Pulau Ubin and nature reserves. Perfect for eco-tourists and hikers."
+  - travel: "Budget travelers"
+    carrier: "SIMBA Telecom"
+    carrier_class: "text-green-600"
+    reason: "SIMBA Telecom provides the most consistent network with a Consistency Score of 96.6%, ensuring reliable connectivity at competitive prices."
 
-  - travel: "Best value for budget travellers"
-    carrier: "M1"
+  - travel: "Gamers & streamers"
+    carrier: "Singtel"
     carrier_class: "text-orange-600"
-    reason: "M1 offers competitive 5G speeds at lower prices. Great for backpackers who want to save on data without sacrificing performance in city hotspots like Orchard Road."
+    reason: "Singtel leads in mobile gaming and video streaming experiences, with a Game Score of 89.98 and Video Streaming Score of 89.98, perfect for low‑latency gaming and HD streaming."
+
+  - travel: "Frequent 5G users"
+    carrier: "Singtel"
+    carrier_class: "text-orange-600"
+    reason: "Singtel's 5G network tops the charts with a median 5G download speed of 402.16 Mbps and a 5G Speed Score of 87.82, offering the best 5G experience."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost-effective Singapore eSIM"
-cta_button_sub_text: "Auto network switching, supports eSIM automatic price comparison"
+cta_button_main_text: "View the most cost‑effective Singapur travel eSIM"
+cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
 
 # Operator general labels
 operator_labels:
@@ -97,195 +102,214 @@ operator_labels:
 operators:
 
   - id: "singtel-esim"
-    title: "Singtel eSIM Review: Best Overall Coverage for Singapore Travel"
-    best_for: "Travellers who want the most reliable 5G network across Singapore, including indoor venues like Marina Bay Sands and underground MRT stations."
-    core_data: "Singtel is the largest MNO in Singapore with over 4 million subscribers. In Ookla's Speedtest Awards 2023, Singtel won both 'Fastest Mobile Network' and 'Best Mobile Coverage' in Singapore."
-    arcep_note: "Regulated by the Infocomm Media Development Authority (IMDA) of Singapore."
-    connect_note: "Activate your eSIM before departure. Upon landing at Changi Airport, enable data roaming and the eSIM will automatically connect to Singtel's 5G network. No APN configuration needed."
-    user_scenarios: "- **Navigating Marina Bay Sands**: Use Google Maps to find the best rooftop photo spots without buffering.\\n- **Sharing Gardens by the Bay light show**: Live-stream the Supertree Grove light & sound show on Instagram without lag.\\n- **MRT commuting**: Stream music or podcasts seamlessly during your ride from Orchard to Little India."
+    title: "Singtel eSIM Review: Best overall network performance"
+    best_for: "This plan is the absolute top choice for travelers who demand the fastest speeds and best coverage across Singapur. Ideal for streaming, gaming, and heavy data usage."
+    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/singapore-speedtest-connectivity-report-h2-2025), Singtel recorded the highest 5G Availability at 82.6%.\n- **Download rate**: Median download speed of 310.26 Mbps (all technologies) and 402.16 Mbps (5G).\n- **Upload rate**: Median upload speed of 32.26 Mbps (all technologies) and 37.99 Mbps (5G).\n- **Latency**: 27 ms (all technologies) and 24 ms (5G).\n- **Consistency**: 96.7% of samples met the threshold (5 Mbps down / 1 Mbps up).\n- **Connectivity Score**: 87.22 overall, 83.0 for 5G."
+    arcep_note: "Confirmed by the Infocomm Media Development Authority (IMDA) of Singapore, Singtel holds the widest 4G/5G coverage license and complies with all local regulations."
+    connect_note: "Activation works seamlessly via QR code. Compatible with most eSIM‑enabled devices. Instant connectivity upon arrival at Changi Airport."
+    user_scenarios: "- **Marina Bay Sands**: Stream live shows and navigate the integrated resort with ultra‑fast 5G speeds.\n- **Sentosa Island**: Enjoy lag‑free mobile gaming while relaxing on the beach.\n- **MRT underground**: Stay connected during subway commutes with consistent coverage across all lines."
     bg_color: "bg-blue-50"
 
-  - id: "starhub-esim"
-    title: "StarHub eSIM Review: Best Rural & Nature Coverage in Singapore"
-    best_for: "Adventure travellers heading to Singapore's nature reserves, Pulau Ubin, or the Southern Islands, where coverage can be spotty."
-    core_data: "StarHub has invested heavily in rural 4G/5G coverage. According to Opensignal's 'Rural Experience Report' (2023), StarHub ranked highest for rural download speed in Singapore."
-    arcep_note: "Regulated by the Infocomm Media Development Authority (IMDA) of Singapore."
-    connect_note: "Activate your eSIM before departure. On arrival, enable data roaming. StarHub will automatically connect. For best performance in rural areas, keep your phone's network mode set to '4G/5G Auto'."
-    user_scenarios: "- **Hiking at Bukit Timah Nature Reserve**: Use AllTrails to follow trails without losing signal deep in the forest.\\n- **Exploring Pulau Ubin**: Rent a bike and navigate the island's unpaved paths with reliable Google Maps directions.\\n- **Sunset at Sentosa's Siloso Beach**: Upload beach photos to social media quickly even during peak hours."
-    bg_color: "bg-blue-50"
+  - id: "simba-esim"
+    title: "SIMBA Telecom eSIM Review: Most consistent connectivity"
+    best_for: "This plan is perfect for budget‑conscious travelers who need reliable, consistent data without breaking the bank. Great for everyday browsing and social media."
+    core_data: "- **Consistency Score**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/singapore-speedtest-connectivity-report-h2-2025), SIMBA Telecom achieved the highest Consistency Score of 96.6%.\n- **Download rate**: Median download speed of 70.87 Mbps (all technologies).\n- **Coverage**: Strong urban coverage with competitive pricing.\n- **5G**: Available in major cities, though speeds are lower than Singtel."
+    arcep_note: "SIMBA Telecom is licensed by IMDA and operates as a Mobile Virtual Network Operator (MVNO) leveraging M1's infrastructure, ensuring regulatory compliance."
+    connect_note: "Activation is straightforward via eSIM QR code. Works on most modern smartphones. Customer support available via chat."
+    user_scenarios: "- **Orchard Road**: Shop and post on social media with consistent data speeds.\n- **Gardens by the Bay**: Share real‑time stories and photos without buffering.\n- **Hawker centres**: Use digital payment apps reliably even during peak hours."
+    bg_color: "bg-green-50"
 
   - id: "m1-esim"
-    title: "M1 eSIM Review: Best Budget 5G eSIM for Singapore City Travel"
-    best_for: "Budget-conscious travellers who want fast 5G in urban areas like Orchard Road, Chinatown, and Clarke Quay without paying a premium."
-    core_data: "M1 offers competitive 5G speeds at lower price points. In Opensignal's '5G Global Experience Report' (2023), M1's 5G download speed was within 10% of Singtel's, making it a strong value pick."
-    arcep_note: "Regulated by the Infocomm Media Development Authority (IMDA) of Singapore."
-    connect_note: "Activate your eSIM before departure. Once in Singapore, turn on data roaming and the eSIM will connect to M1's 5G network automatically. No manual APN setup required."
-    user_scenarios: "- **Hawker centre hopping at Maxwell Food Centre**: Use Google Pay to pay for chicken rice and check reviews on the go.\\n- **Shopping along Orchard Road**: Compare prices on Lazada and Shopee without worrying about data limits.\\n- **Nightlife at Clarke Quay**: Share Instagram Stories of the riverside bars with fast uploads."
-    bg_color: "bg-blue-50"
+    title: "M1 eSIM Review: Strong 5G alternative"
+    best_for: "This plan is a solid choice for users who want competitive 5G speeds and good overall performance, especially in urban areas."
+    core_data: "- **5G download speed**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/singapore-speedtest-connectivity-report-h2-2025), M1 recorded a median 5G download speed of 387.98 Mbps, second only to Singtel.\n- **Overall download speed**: Median of 173.1 Mbps (all technologies).\n- **Coverage**: Excellent in city centers and suburban areas.\n- **Latency**: Competitive latency for real‑time applications."
+    arcep_note: "M1 is a full‑fledged mobile network operator regulated by IMDA, holding spectrum licenses for 4G and 5G services."
+    connect_note: "eSIM activation is quick via QR code. Supports dual SIM functionality. Reliable customer service."
+    user_scenarios: "- **Chinatown**: Navigate crowded streets with fast data for maps and translation apps.\n- **Universal Studios Singapore**: Stream ride wait times and share videos instantly.\n- **Business district**: Conduct video calls with minimal lag."
+    bg_color: "bg-red-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check Singapore eSIM compatibility list"
-cards_compatibility_desc: "Check whether your phone supports Singapore eSIM and local 5G bands"
-cards_free_title: "Claim your free Singapore eSIM"
-cards_free_desc: "Limited free trial eSIM, experience high-speed Singapore network"
+cards_compatibility_title: "Check the Singapur eSIM compatibility list"
+cards_compatibility_desc: "Check if your phone supports Singapur eSIM and local 5G bands"
+cards_free_title: "Get your free Singapur eSIM"
+cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
 cards_free_badge: "FREE"
 cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class=\"bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base\">web20</strong> | One‑tap eSIM management"
+cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you must know before buying a Singapore eSIM"
+before_buy_title: "Things you need to know before buying a Singapur eSIM"
 before_buy_sections:
 
-  - heading: "Check your device compatibility"
-    content: "Before purchasing an eSIM for Singapore, ensure your smartphone supports eSIM technology. Most recent models from Apple (iPhone XS and newer), Google Pixel (3 and newer), and Samsung (Galaxy S20 and newer) are compatible. Visit our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page for a full list of supported devices."
+  - heading: "1. Main 5G/4G frequency bands in Singapur"
+    content: "Singapur's mobile networks operate on the following key bands: 4G LTE: Band 1 (2100 MHz), Band 3 (1800 MHz), Band 7 (2600 MHz), Band 8 (900 MHz), Band 28 (700 MHz). 5G NR: n78 (3500 MHz) is the primary band used by all operators. Ensure your device supports these bands for optimal connectivity."
 
-  - heading: "Activation & setup tips"
-    content: "All three major Singapore operators (Singtel, StarHub, M1) support instant eSIM activation. We recommend purchasing and installing the eSIM before your flight so you're connected as soon as you land at Changi Airport. Simply enable data roaming in your phone settings – no physical SIM swap or APN configuration is needed."
+  - heading: "2. KYC requirements for eSIM activation"
+    content: "To activate a Singapur eSIM, you must provide a valid passport and a recent photograph. Some providers may require a local address or proof of travel itinerary. Roami simplifies this by handling KYC on your behalf during purchase."
 
-  - heading: "Data plans & pricing"
-    content: "Singapore eSIM data plans are typically sold in fixed data bundles (e.g., 1GB, 3GB, 5GB, 10GB) valid for a set number of days (7, 15, 30 days). Prices range from around SGD 5 for a small data pack to SGD 30 for unlimited data. Compare plans on our platform to find the best fit for your trip length and usage."
+  - heading: "3. Fair Usage Policy (FUP) and data limits"
+    content: "Most prepaid eSIM plans have a Fair Usage Policy. For example, unlimited data plans may throttle speeds after 1-2 GB per day. Always check the specific FUP of your chosen plan to avoid unexpected slowdowns."
+
+  - heading: "4. Device compatibility and eSIM support"
+    content: "eSIM is supported on most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Verify that your device is unlocked and eSIM‑compatible before purchasing."
+
+  - heading: "5. Network coverage in remote areas"
+    content: "While Singapur has excellent urban coverage, some remote areas like Pulau Ubin or offshore islands may have limited signal. Singtel offers the widest coverage, but always download offline maps as a backup."
 
 
 # City recommendation table
-city_guide_title: "Singapore city eSIM recommendations"
-city_guide_desc: "Singapore is a compact city-state, but network performance can vary slightly by area. Here's our quick guide based on real user experiences and third-party reports."
+city_guide_title: "City guide: The best eSIM for Singapur"
+city_guide_desc: "Find out which Singapur eSIM is the best choice for your destination city based on network performance and coverage."
 city_table_headers:
 
   - "City"
 
-  - "Recommended eSIM operator"
+  - "Recommended eSIM provider"
 
-  - "Reason / characteristics"
+  - "Reason / Features"
 
 city_recommendations:
 
   - city: "Singapore (Central)"
     carriers: "Singtel"
-    reason: "Best overall 5G coverage in the downtown core, including Marina Bay, Orchard Road, and the CBD."
+    reason: "Singtel offers the fastest speeds and best 5G availability (82.6%) in the central business district, ideal for professionals and tourists visiting Marina Bay, Orchard Road, and Chinatown."
 
-  - city: "Singapore (Rural / Nature)"
-    carriers: "StarHub"
-    reason: "Stronger signal in nature reserves like Bukit Timah and Pulau Ubin, where other networks may drop."
-
-  - city: "Singapore (Budget Travel)"
+  - city: "Jurong East"
     carriers: "M1"
-    reason: "Affordable 5G plans with solid performance in popular tourist areas like Chinatown and Little India."
+    reason: "M1 provides strong 5G coverage in Jurong East, home to the Jurong Lake District and Nanyang Technological University. Median 5G download speed of 387.98 Mbps ensures smooth streaming and browsing."
 
-city_guide_tip: "💡 Tip: if you use Roami’s multi‑network eSIM, your phone will automatically switch to the best local operator – no manual selection needed."
+  - city: "Woodlands"
+    carriers: "SIMBA Telecom"
+    reason: "SIMBA Telecom's high Consistency Score (96.6%) makes it reliable in Woodlands, a residential area near the Johor causeway. Great for daily commuting and local errands."
+
+  - city: "Tampines"
+    carriers: "Singtel"
+    reason: "Singtel's network consistency (96.7% of samples meeting thresholds) ensures dependable connectivity in Tampines, a major regional centre with shopping malls and transport hubs."
+
+  - city: "Sentosa Island"
+    carriers: "Singtel"
+    reason: "Singtel's best mobile gaming and video experience scores (89.98 each) make it perfect for Sentosa's resorts and attractions, where tourists demand high‑quality streaming and low latency."
+
+city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Singapore eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choose the best Singapur eSIM based on your travel scenario"
 scene_items:
 
   - icon: "🏛️"
-    title: "City sightseeing"
-    text: "Use Singtel eSIM for seamless navigation and photo sharing at Marina Bay Sands, Gardens by the Bay, and the Merlion Park."
+    title: "City explorer"
+    text: "Explore Singapur's iconic landmarks like Marina Bay Sands, Gardens by the Bay, and Chinatown with Singtel's ultra‑fast 5G. Stream live guides, navigate with Google Maps, and share photos instantly."
 
-  - icon: "🌿"
-    title: "Nature & adventure"
-    text: "StarHub eSIM keeps you connected on hikes at Bukit Timah Nature Reserve and island trips to Pulau Ubin."
+  - icon: "🏞️"
+    title: "Nature lover"
+    text: "Visit the Singapore Botanic Gardens, MacRitchie Reservoir, or Pulau Ubin. SIMBA Telecom's consistent network ensures you stay connected even in green spaces, perfect for posting nature shots."
 
-  - icon: "💰"
-    title: "Budget travel"
-    text: "M1 eSIM offers great value for backpackers exploring hawker centres, Little India, and Kampong Glam."
+  - icon: "🚗"
+    title: "Road tripper"
+    text: "Drive across the island from Changi to Tuas. M1's strong 5G coverage along expressways provides reliable navigation and music streaming without interruptions."
 
-  - icon: "✈️"
-    title: "Airport arrival"
-    text: "All three operators work instantly at Changi Airport. Pre-install your eSIM to avoid queuing for physical SIM cards."
+  - icon: "🏖️"
+    title: "Beach vacationer"
+    text: "Relax at Sentosa's beaches or East Coast Park. Singtel's low latency (24 ms on 5G) enables lag‑free video calls and mobile gaming while you soak up the sun."
 
-scene_guide_footer: "💡 Roami Singapore eSIM Multi‑Network Edition automatically recognizes your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 The Roami Singapur eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
 
 # FAQ
-faq_title: "Singapore eSIM frequently asked questions"
+faq_title: "Frequently asked questions about Singapur eSIM"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View the complete FAQ →"
+faq_more_link_text: "More questions? View full FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Can I use an eSIM in Singapore if my phone is locked to a carrier?"
-    a: "Yes, as long as your phone is unlocked and supports eSIM technology. Check our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page for your device model."
+  - q: "Can I install the Singapur travel eSIM at home before my departure?"
+    a: "Yes, you can install the eSIM at home by scanning the QR code provided after purchase. Activation occurs once you connect to a local network in Singapur. Ensure your device is eSIM‑compatible and unlocked."
 
-  - q: "Which Singapore operator has the best 5G coverage?"
-    a: "According to Ookla's Speedtest Awards 2023, Singtel has the best overall 5G coverage and speed in Singapore. StarHub is best for rural areas, while M1 offers competitive speeds at lower prices."
+  - q: "Is the connection in Singapur stable enough to stream HD videos on platforms like YouTube or Netflix smoothly?"
+    a: "Absolutely. Singtel's median download speed of 310.26 Mbps and 5G speed of 402.16 Mbps easily support 4K streaming. Even SIMBA Telecom's 70.87 Mbps is sufficient for HD streaming without buffering."
 
-  - q: "Do I need to remove my physical SIM to use an eSIM in Singapore?"
-    a: "No, you can keep your physical SIM in your phone. Just enable data roaming on the eSIM line in your settings. Your home SIM can still receive calls and texts."
+  - q: "Can I manually select a different local network operator in Singapur if the current signal is weak?"
+    a: "Yes, most eSIMs allow manual network selection. Go to your device's mobile network settings and choose from available operators (Singtel, M1, StarHub, SIMBA). Note that some plans may restrict roaming to a specific partner network."
 
-  - q: "How do I activate my Singapore eSIM?"
-    a: "Purchase and install the eSIM profile before your trip. Upon arrival in Singapore, enable data roaming. The eSIM will automatically connect to the local network. No APN settings are required."
+  - q: "What should I do if my Singapur eSIM does not find a network after successful installation?"
+    a: "First, ensure data roaming is enabled in your settings. Restart your device and manually select a network. If the issue persists, contact Roami support. Common fixes include re‑scanning the QR code or updating carrier settings."
 
-  - q: "Is eSIM data cheaper than international roaming?"
-    a: "Yes, eSIM data plans in Singapore are significantly cheaper than typical international roaming fees. You can save up to 80% compared to roaming with your home carrier."
+  - q: "Is the Singapur eSIM suitable for online gaming, and what is the average network latency (ping)?"
+    a: "Yes, Singapur eSIMs are excellent for gaming. Singtel offers an average latency of 27 ms (24 ms on 5G), which is ideal for real‑time games like PUBG Mobile or Call of Duty. M1 and SIMBA also provide competitive latency for a smooth experience."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about Singapore eSIM"
+myths_title: "⚠️ Common myths and facts about the Singapur eSIM"
 myth_label: "❌ Myth: "
 truth_label: "✅ Fact: "
 myths:
 
-  - myth: "All Singapore mobile networks have the same coverage everywhere."
-    truth: "While Singapore is small, coverage varies. Singtel leads in urban 5G, but StarHub has better rural reach (e.g., Pulau Ubin). M1 is strong in city centres but may be weaker in remote areas."
+  - myth: "All eSIMs in Singapur offer the same speed and coverage."
+    truth: "False. Singtel leads with a median download speed of 310.26 Mbps and 5G availability of 82.6%, while SIMBA Telecom offers lower speeds but higher consistency (96.6%). Choose based on your needs."
 
-  - myth: "You need to buy a physical SIM at Changi Airport to get cheap data."
-    truth: "eSIMs are often cheaper and more convenient. You can purchase and install one before your flight, avoiding airport queues and premium prices."
+  - myth: "You need a local SIM card to get the best network performance."
+    truth: "Not true. eSIMs from Roami use the same local networks (Singtel, M1, etc.) as physical SIMs, providing identical performance without the hassle of swapping cards."
 
-  - myth: "Singapore's 5G is only available in the city centre."
-    truth: "All three major operators have rolled out 5G across most of the island, including residential areas and tourist spots like Sentosa and Gardens by the Bay. Rural areas may still rely on 4G."
+  - myth: "5G is available everywhere in Singapur."
+    truth: "While Singapur has excellent 5G coverage, it is not universal. Singtel leads with 82.6% 5G availability, but some remote areas like offshore islands may only have 4G. Check coverage maps before traveling."
 
-  - myth: "eSIMs drain your battery faster than physical SIMs."
-    truth: "Modern smartphones manage eSIM power efficiently. Battery drain is negligible compared to the convenience of having instant local connectivity without swapping SIMs."
+  - myth: "Unlimited data plans have no restrictions."
+    truth: "Most unlimited plans have a Fair Usage Policy (FUP). After a certain data threshold (e.g., 1-2 GB per day), speeds may be throttled. Always read the terms to avoid surprises."
 
-  - myth: "You need to register your eSIM with Singapore authorities before use."
-    truth: "No registration is required for tourists using eSIMs. The operator handles all compliance. Just install and activate – you're good to go."
+  - myth: "eSIMs are difficult to set up and require technical skills."
+    truth: "Setting up an eSIM is simple: scan a QR code, follow on‑screen instructions, and you're connected. Roami provides step‑by‑step guides and customer support for any issues."
 
 
 # Data sources
-data_sources_title: "Data sources & methodology"
+data_sources_title: "Singapur mobile network data sources"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest Global Index (Q1 2024)"
-    description: "Provides median mobile download speeds for Singapore (71.43 Mbps) and ranks operators by performance."
+  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/singapore-speedtest-connectivity-report-h2-2025)"
+    description: "Ookla's Speedtest Intelligence report for Singapore (2H 2025) provides comprehensive mobile network performance data including median download/upload speeds, latency, 5G availability, and consistency scores for Singtel, M1, and SIMBA Telecom."
 
-  - name: "Opensignal Rural Experience Report (2023)"
-    description: "Evaluates mobile network performance in rural areas of Singapore, highlighting StarHub's lead in rural download speed."
+  - name: "OpenSignal 2025"
+    description: "OpenSignal's Singapore Mobile Network Experience Report (2025) offers independent analysis of video experience, gaming experience, and coverage across major operators."
 
-  - name: "Opensignal 5G Global Experience Report (2023)"
-    description: "Compares 5G download speeds across operators in Singapore, showing M1's competitive performance relative to Singtel."
+  - name: "Infocomm Media Development Authority (IMDA) 2025"
+    description: "IMDA's annual report on Singapore's telecom sector provides regulatory data on spectrum allocation, coverage obligations, and network quality benchmarks for all licensed operators."
 
-data_sources_footer: "All data sourced from publicly available third-party reports. No internal testing was conducted."
-data_sources_note: "Network performance may vary based on location, device, and time of day. Always check the latest reports for the most current data."
+data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual speeds may vary based on device, location, and network congestion."
+data_sources_note: "Network speeds and coverage can vary depending on your device, location, time of day, and network congestion. Always check the latest provider information before purchasing."
 
 # CTA product card
-cta_title: "Ready to stay connected in Singapore?"
-cta_desc: "Browse our Singapore eSIM plans and enjoy instant activation on Singtel, StarHub, or M1 networks. No roaming fees, no SIM swaps."
-cta_button_text: "Get your Singapore eSIM"
+cta_title: "Secure your Singapur eSIM today"
+cta_desc: "Get immediate access to Singapur's fastest networks with Roami's instant eSIM activation. No roaming fees, no physical SIM, just pure connectivity."
+cta_button_text: "Buy Singapur eSIM now"
 cta_button_link: "/singapore-esim/"
-cta_free_trial_note: "New customer exclusive"
-cta_free_trial_text: "Free trial eSIM"
+cta_free_trial_note: "Exclusive for new customers"
+cta_free_trial_text: "Free Singapur trial eSIM"
 cta_free_trial_link: "/free-esim/"
 
-# No text for back-to-top button, no configuration needed
 ---
 
-# Singapore eSIM: Say Goodbye to International Roaming Fees
+# Singapur eSIM: Quick activation with no physical SIM cards
 
-> **💡 Quick Summary for Travelers:** For the best balance of speed and coverage in Singapore, pick an eSIM on **Singtel** – it consistently leads in Ookla's Speedtest Awards (2023). If you're heading to less central areas like Pulau Ubin, **StarHub** offers solid rural reach. Avoid roaming fees by activating before departure; all three MNOs support instant activation. For budget-conscious travellers, **M1** provides competitive 5G speeds at lower prices, perfect for navigating hawker centres and sharing Marina Bay Sands photos.
+> **💡 Short summary for travelers:** 【Stress‑free international travel: high‑speed internet anytime, anywhere】 Roami's Singapur eSIM delivers blazing fast connectivity powered by Singtel's award‑winning network. According to Ookla, Singtel achieved a median download speed of 310.26 Mbps and a 5G median of 402.16 Mbps, ensuring seamless streaming, gaming, and video calls. With instant activation and no physical SIM, you stay connected from Changi Airport to Marina Bay. Choose Roami for reliable, high‑speed data across Singapur.
 
-## Things you must know before buying a Singapore eSIM
+## Things you need to know before buying a Singapur eSIM
 
 
-### Check your device compatibility {#check-your-device-compatibility}
-Before purchasing an eSIM for Singapore, ensure your smartphone supports eSIM technology. Most recent models from Apple (iPhone XS and newer), Google Pixel (3 and newer), and Samsung (Galaxy S20 and newer) are compatible. Visit our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page for a full list of supported devices.
+### 1. Main 5G/4G frequency bands in Singapur {#1-main-5g4g-frequency-bands-in-singapur}
+Singapur's mobile networks operate on the following key bands: 4G LTE: Band 1 (2100 MHz), Band 3 (1800 MHz), Band 7 (2600 MHz), Band 8 (900 MHz), Band 28 (700 MHz). 5G NR: n78 (3500 MHz) is the primary band used by all operators. Ensure your device supports these bands for optimal connectivity.
 
-### Activation & setup tips {#activation--setup-tips}
-All three major Singapore operators (Singtel, StarHub, M1) support instant eSIM activation. We recommend purchasing and installing the eSIM before your flight so you're connected as soon as you land at Changi Airport. Simply enable data roaming in your phone settings – no physical SIM swap or APN configuration is needed.
+### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
+To activate a Singapur eSIM, you must provide a valid passport and a recent photograph. Some providers may require a local address or proof of travel itinerary. Roami simplifies this by handling KYC on your behalf during purchase.
 
-### Data plans & pricing {#data-plans--pricing}
-Singapore eSIM data plans are typically sold in fixed data bundles (e.g., 1GB, 3GB, 5GB, 10GB) valid for a set number of days (7, 15, 30 days). Prices range from around SGD 5 for a small data pack to SGD 30 for unlimited data. Compare plans on our platform to find the best fit for your trip length and usage.
+### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
+Most prepaid eSIM plans have a Fair Usage Policy. For example, unlimited data plans may throttle speeds after 1-2 GB per day. Always check the specific FUP of your chosen plan to avoid unexpected slowdowns.
+
+### 4. Device compatibility and eSIM support {#4-device-compatibility-and-esim-support}
+eSIM is supported on most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Verify that your device is unlocked and eSIM‑compatible before purchasing.
+
+### 5. Network coverage in remote areas {#5-network-coverage-in-remote-areas}
+While Singapur has excellent urban coverage, some remote areas like Pulau Ubin or offshore islands may have limited signal. Singtel offers the widest coverage, but always download offline maps as a backup.

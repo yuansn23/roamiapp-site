@@ -1,43 +1,43 @@
 ---
-title: "Roami Terms of Service | Your Global eSIM Usage Agreement"
-description: "Read the Terms of Service for using Roami's global eSIM connectivity solutions."
-last_updated: "March 2026"
+title: "Условия использования Roami | Соглашение об использовании глобального eSIM"
+description: "Ознакомьтесь с Условиями использования решений для глобального подключения eSIM от Roami."
+last_updated: "Март 2026"
 date: '2026-04-24T00:00:00+00:00'
 layout: "terms"
 type: "page"
 ---
 
-Welcome to Roami. These Terms of Service ("Terms") govern your access to and use of the Roami website, mobile applications, and eSIM services (collectively, the "Services"). By accessing or using our Services, you agree to be bound by these Terms.
+Добро пожаловать в Roami. Настоящие Условия использования («Условия») регулируют ваш доступ и использование веб-сайта, мобильных приложений и eSIM-услуг Roami (совместно именуемых «Услуги»). Используя наши Услуги, вы соглашаетесь соблюдать настоящие Условия.
 
-## 1. Acceptance of Terms
-By creating an account, purchasing an eSIM, or otherwise using the Services provided by Roami, you agree to comply with and be bound by these Terms. If you do not agree to these Terms, you may not access or use our Services.
+## 1. Принятие условий
+Регистрируя учётную запись, приобретая eSIM или иным образом используя Услуги, предоставляемые Roami, вы соглашаетесь соблюдать настоящие Условия и быть связанными ими. Если вы не согласны с настоящими Условиями, вы не можете получать доступ или использовать наши Услуги.
 
-## 2. Description of Service
-Roami provides global travelers with digital eSIM profiles that allow users to connect to local cellular networks in over 200 countries and regions. Our services include the sale of prepaid data plans, which are delivered digitally via our mobile application or website.
+## 2. Описание услуги
+Roami предоставляет путешественникам по всему миру цифровые eSIM-профили, позволяющие пользователям подключаться к местным сотовым сетям в более чем 200 странах и регионах. Наши услуги включают продажу предоплаченных тарифов передачи данных, которые доставляются в цифровом виде через наше мобильное приложение или веб-сайт.
 
-## 3. User Responsibilities
-When using Roami Services, you agree to the following:
-* **Device Compatibility:** You are solely responsible for ensuring that your device is eSIM-compatible and unlocked by your carrier before purchasing a plan.
-* **Lawful Use:** You agree not to use the Services for any unlawful, abusive, or fraudulent purposes.
-* **Account Security:** You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+## 3. Обязанности пользователя
+При использовании Услуг Roami вы соглашаетесь со следующим:
+* **Совместимость устройства:** Вы несёте единоличную ответственность за то, чтобы ваше устройство поддерживало eSIM и было разблокировано вашим оператором перед покупкой тарифа.
+* **Законное использование:** Вы соглашаетесь не использовать Услуги в каких-либо незаконных, злонамеренных или мошеннических целях.
+* **Безопасность учётной записи:** Вы несёте ответственность за сохранение конфиденциальности учётных данных вашей учётной записи и за все действия, которые происходят под вашей учётной записью.
 
-## 4. Purchases and Payments
-All prices for eSIM data plans are subject to change without notice. Payment must be made in full at the time of purchase. We accept major credit cards and other payment methods as indicated on our platform. You agree to provide current, complete, and accurate purchase and account information for all purchases made.
+## 4. Покупки и платежи
+Все цены на тарифы eSIM могут быть изменены без предварительного уведомления. Оплата должна быть произведена в полном объёме в момент покупки. Мы принимаем основные кредитные карты и другие способы оплаты, указанные на нашей платформе. Вы соглашаетесь предоставлять актуальную, полную и точную информацию о покупке и учётной записи для всех совершаемых покупок.
 
-## 5. Refunds and Cancellations
-Due to the digital nature of eSIM profiles, refunds are generally only provided under the following circumstances:
-* The eSIM cannot be installed or activated due to a technical fault on Roami's end.
-* The data plan was not consumed, and the request is made within 30 days of purchase.
+## 5. Возврат и отмена
+Из-за цифрового характера eSIM-профилей возврат средств обычно предоставляется только при следующих обстоятельствах:
+* eSIM не может быть установлена или активирована из-за технической неисправности на стороне Roami.
+* Тариф данных не был использован, и запрос сделан в течение 30 дней с момента покупки.
 
-Refunds will not be issued if your device is not eSIM-compatible or is locked by your carrier.
+Возврат не будет произведён, если ваше устройство несовместимо с eSIM или заблокировано вашим оператором.
 
-## 6. Limitation of Liability
-To the maximum extent permitted by law, Roami and its affiliates shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of or inability to access or use the Services.
+## 6. Ограничение ответственности
+В максимальной степени, разрешённой законом, Roami и её аффилированные лица не несут ответственности за любые косвенные, случайные, специальные, штрафные или последующие убытки, включая, без ограничений, потерю прибыли, данных, использования, деловой репутации или другие нематериальные потери, возникшие в результате вашего доступа к Услугам или их использования, либо невозможности доступа или использования Услуг.
 
-## 7. Service Availability
-While we strive to provide uninterrupted service, Roami does not guarantee that the Services will always be available or error-free. Network coverage, speed, and quality may vary depending on the local carrier, network congestion, and geographic location.
+## 7. Доступность услуги
+Хотя мы стремимся предоставлять бесперебойное обслуживание, Roami не гарантирует, что Услуги всегда будут доступны или безошибочны. Покрытие сети, скорость и качество могут варьироваться в зависимости от местного оператора, загруженности сети и географического положения.
 
-## 8. Contact Us
-If you have any questions, concerns, or disputes regarding these Terms of Service, please contact our support team. We are here to help.
+## 8. Свяжитесь с нами
+Если у вас есть какие-либо вопросы, опасения или споры относительно настоящих Условий использования, пожалуйста, свяжитесь с нашей службой поддержки. Мы здесь, чтобы помочь.
 
-Email: <a href="mailto:qwerty2015009@gmail.com" class="text-blue-600 hover:text-blue-800 underline">qwerty2015009@gmail.com</a>
+Электронная почта: <a href="mailto:qwerty2015009@gmail.com" class="text-blue-600 hover:text-blue-800 underline">qwerty2015009@gmail.com</a>

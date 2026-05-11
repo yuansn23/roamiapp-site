@@ -1,228 +1,228 @@
 ---
-title: "How to activate eSIM on iPhone "
-description: "Learn how to easily activate an eSIM on iPhone and Android devices. Follow our step-by-step guide to scan your QR code and fix common activation errors."
-keywords: ["eSIM activation", "how to activate eSIM", "iPhone eSIM setup", "Android eSIM", "eSIM QR code", "travel eSIM", "eSIM troubleshooting"]
+title: "Как активировать eSIM на iPhone"
+description: "Узнайте, как легко активировать eSIM на устройствах iPhone и Android. Следуйте нашему пошаговому руководству, чтобы отсканировать QR-код и исправить распространенные ошибки активации."
+keywords: ["активация eSIM", "как активировать eSIM", "настройка eSIM на iPhone", "eSIM на Android", "QR-код eSIM", "туристическая eSIM", "устранение неполадок eSIM"]
 date: 2026-04-02T10:00:00Z
 lastmod: 2026-04-02T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
+tags: ["eSIM", "iOS", "Android", "Устранение неполадок", "Настройка для путешествий"]
 toc: true
 image: "/images/esim-activation-guide.jpg"
 
-# 站点 & SEO 基础硬编码配置
+# Базовые настройки сайта и SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# Текст UI / переводы (поддержка многоязычности)
 ui_text:
-  updated_on: "Updated on"
-  min_read: "min read"
-  toc: "Table of Contents"
+  updated_on: "Обновлено"
+  min_read: "мин чтения"
+  toc: "Содержание"
 
-# 面包屑导航
+# Навигационные цепочки
 breadcrumbs:
   home:
-    text: "Home"
+    text: "Главная"
     url: "/"
   parent:
-    text: "Help Center"
+    text: "Центр помощи"
     url: "/faq/"
 
-# 右侧：热门 eSIM 配置
+# Справа: популярные eSIM
 sidebar_popular:
-  title: "Popular eSIMs"
-  item_suffix: "eSIM"       # 用于 HTML 的 title="{{ .name }} eSIM"
+  title: "Популярные eSIM"
+  item_suffix: "eSIM"
   items:
-    - name: "United States"
+    - name: "США"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
-      badge: "5G"           # 提取出的角标配置
-    - name: "Germany"
+      badge: "5G"
+    - name: "Германия"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Europe"
+    - name: "Европа"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Turkey"
+    - name: "Турция"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japan"
+    - name: "Япония"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "China"
+    - name: "Китай"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置
+# Справа: бесплатная eSIM
 sidebar_free:
-  title: "Claim Free eSIM"
+  title: "Получить бесплатную eSIM"
   icon: "🎁"
-  item_suffix: "Free eSIM"     # 用于 HTML 的 title="{{ .name }} Free eSIM"
-  item_subtitle: "Free eSIM"   # 提取出的硬编码副标题 span
+  item_suffix: "Бесплатная eSIM"
+  item_subtitle: "Бесплатная eSIM"
   items:
-    - name: "United Kingdom"
+    - name: "Великобритания"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
-    - name: "Germany"
+    - name: "Германия"
       flag: "/img/flags/de.svg"
       url: "/free-esim/"
-    - name: "Thailand"
+    - name: "Таиланд"
       flag: "/img/flags/th.svg"
       url: "/free-esim/"
-    - name: "Hong Kong"
+    - name: "Гонконг"
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右侧：热门问题配置
+# Справа: популярные вопросы
 sidebar_questions:
-  title: "Popular Questions"
+  title: "Популярные вопросы"
   items:
-    - question: "What is eSIM activation and how does it work?"
+    - question: "Что такое активация eSIM и как она работает?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "How to activate an eSIM?"
+    - question: "Как активировать eSIM?"
       url: "/faq/how-to-activate-an-esim//"
-    - question: "How to activate eSIM on iPhone (All Models)?"
+    - question: "Как активировать eSIM на iPhone (все модели)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Latest eSIM Compatibility List"
+    - question: "Актуальный список совместимости eSIM"
       url: "/compatibility/"
 ---
 
-**The Short Answer:**
-eSIM activation is the process of securely downloading a digital carrier profile from your network provider directly to your phone's embedded microchip via the internet. Instead of inserting a physical card, you simply scan a QR code or use a carrier app to connect to a mobile network instantly.
+**Краткий ответ:**
+Активация eSIM — это процесс безопасной загрузки цифрового профиля оператора от вашего поставщика услуг непосредственно во встроенный микрочип телефона через интернет. Вместо вставки физической карты вы просто сканируете QR-код или используете приложение оператора, чтобы мгновенно подключиться к мобильной сети.
 
 ---
 
-## How to Activate an eSIM on Your iPhone: Step-by-Step Guide (All Models)
+## Как активировать eSIM на iPhone: пошаговое руководство (все модели)
 
-Gone are the days of fumbling with tiny paperclips and microscopic plastic SIM cards. Whether you are switching to a new local carrier or buying a travel data plan for your next international trip, using an eSIM is the most convenient way to stay connected. 
+Прошли те времена, когда нужно было возиться с маленькими скрепками и микроскопическими пластиковыми SIM-картами. Переходите ли вы к новому местному оператору или покупаете туристический тариф для следующей международной поездки, использование eSIM — самый удобный способ оставаться на связи.
 
-However, if it’s your first time doing an **iPhone eSIM setup**, the process might seem a bit daunting. Don't worry! In this comprehensive guide, we will show you exactly **how to activate an eSIM on your iPhone** using a QR code, manual entry, or a carrier app. This guide covers all compatible models, including the eSIM-only iPhone 14 and iPhone 15 series.
-
----
-
-## 1. Prerequisites: What You Need Before Starting
-
-Before we dive into the setup process, let's make sure your device is ready. You need to check three quick things to ensure a smooth installation.
-
-### Check iPhone Compatibility
-First, ensure your iPhone supports eSIM technology. Apple introduced eSIMs starting with the iPhone XS. Compatible models include:
-* iPhone XS, XS Max, and XR
-* iPhone 11, 12, 13, 14, and 15 series
-* iPhone SE (2nd and 3rd generation)
-
-*💡 Pro Tip: If you purchased an iPhone 14 or iPhone 15 in the United States, your phone is eSIM-only and does not have a physical SIM card tray.*
-
-### Ensure Your iPhone is Carrier-Unlocked
-If you are trying to install a travel eSIM, your phone must be unlocked. 
-1. Go to **Settings** > **General** > **About**.
-2. Scroll down to find **Carrier Lock** (or Network Provider Lock).
-3. If it says **"No SIM restrictions"**, your iPhone is unlocked and ready for a new eSIM!
-
-### Connect to a Stable Wi-Fi Network
-You **must** have a stable internet connection (Wi-Fi is highly recommended) to download the eSIM profile to your phone. 
+Однако, если вы впервые выполняете **настройку eSIM на iPhone**, этот процесс может показаться немного пугающим. Не волнуйтесь! В этом подробном руководстве мы покажем вам, **как активировать eSIM на вашем iPhone** с помощью QR-кода, ручного ввода или приложения оператора. Это руководство охватывает все совместимые модели, включая серии iPhone 14 и iPhone 15, поддерживающие только eSIM.
 
 ---
 
-## 2. How to Install & Activate eSIM on iPhone (3 Main Methods)
+## 1. Предварительные требования: что вам нужно перед началом
 
-Depending on your carrier or eSIM provider, there are three primary ways to **activate an eSIM on an iPhone**. 
+Прежде чем приступить к процессу настройки, давайте убедимся, что ваше устройство готово. Вам нужно быстро проверить три вещи, чтобы обеспечить беспроблемную установку.
 
-### Method A: Using a QR Code (Most Common)
-This is the standard method for most travel eSIMs. Your provider will usually email you a QR code after purchase.
+### Проверьте совместимость iPhone
+Во-первых, убедитесь, что ваш iPhone поддерживает технологию eSIM. Apple представила eSIM, начиная с iPhone XS. Совместимые модели включают:
+* iPhone XS, XS Max и XR
+* Серии iPhone 11, 12, 13, 14 и 15
+* iPhone SE (2-го и 3-го поколения)
 
-1. Go to **Settings** > **Cellular** (or Mobile Data).
-2. Tap **Add eSIM** (or Add Cellular Plan).
-3. Select **Use QR Code**.
-4. Point your camera at the QR code to scan it. 
-5. Tap **Continue** when you see the "A Cellular Plan is Ready to be Added" notification.
-6. Follow the on-screen prompts to label your new plan (e.g., name it "Travel" or "Europe").
+*💡 Совет профессионала: Если вы купили iPhone 14 или iPhone 15 в США, ваш телефон поддерживает только eSIM и не имеет физического лотка для SIM-карты.*
 
-*[Image Placeholder: Screenshot showing Settings > Cellular > Add eSIM]*
+### Убедитесь, что ваш iPhone разблокирован (без привязки к оператору)
+Если вы пытаетесь установить туристическую eSIM, ваш телефон должен быть разблокирован.
+1. Перейдите в **Настройки** > **Основные** > **О телефоне**.
+2. Прокрутите вниз, чтобы найти **Блокировка оператора** (или Блокировка сетевого провайдера).
+3. Если там написано **«Без ограничений SIM»**, ваш iPhone разблокирован и готов к новой eSIM!
 
-### Method B: Manual Entry (If you can't scan the QR code)
-What if you bought the eSIM on your phone and can't scan the QR code from your own screen? You can enter the details manually.
-
-1. Go to **Settings** > **Cellular** > **Add eSIM** > **Use QR Code**.
-2. Tap **Enter Details Manually** at the bottom of the camera screen.
-3. Input the **SM-DP+ Address** and **Activation Code** (these are provided in your confirmation email).
-4. Tap **Next** and follow the prompts to finish the installation.
-
-### Method C: Direct Installation via Carrier App
-Many modern eSIM providers offer an app that allows you to install the eSIM with a single tap.
-1. Download your provider’s app from the App Store.
-2. Log in and locate your purchased eSIM plan.
-3. Tap the **Install / Activate eSIM** button.
-4. Allow the app permission to add the cellular plan to your iPhone settings.
+### Подключитесь к стабильной сети Wi-Fi
+Вам **обязательно** нужно стабильное интернет-соединение (настоятельно рекомендуется Wi-Fi), чтобы загрузить профиль eSIM на ваш телефон.
 
 ---
 
-## 3. How to Configure Your eSIM Settings for Travel
+## 2. Как установить и активировать eSIM на iPhone (3 основных метода)
 
-Installing the eSIM is only half the battle. If you are traveling abroad, you need to configure your settings correctly to **prevent expensive roaming charges** on your primary home SIM.
+В зависимости от вашего оператора или поставщика eSIM, существует три основных способа **активировать eSIM на iPhone**.
 
-### Set Your Default Voice & SMS Line
-During setup, your iPhone will ask you to choose a default line. 
-* **Default Line:** Choose your Primary (Home) SIM if you still want to receive iMessages and calls on your regular number.
-* **iMessage & FaceTime:** Select your Primary SIM.
+### Метод A: Использование QR-кода (наиболее распространенный)
+Это стандартный метод для большинства туристических eSIM. После покупки провайдер обычно высылает вам QR-код по электронной почте.
 
-### Set Up Cellular Data & Prevent Roaming Charges
-This is the most crucial step for travelers:
-1. Go to **Settings** > **Cellular** > **Cellular Data**.
-2. Select your new **Travel eSIM** for cellular data.
-3. **Turn OFF "Allow Cellular Data Switching"**. This ensures your phone doesn't sneakily switch back to your home SIM for data.
-4. Go back to the Cellular menu, tap your Primary (Home) SIM, and ensure **Data Roaming is turned OFF**.
-5. Tap your Travel eSIM, and ensure **Data Roaming is turned ON** (most travel eSIMs require roaming to connect to local networks).
+1. Перейдите в **Настройки** > **Сотовая связь** (или Мобильные данные).
+2. Нажмите **Добавить eSIM** (или Добавить тариф).
+3. Выберите **Использовать QR-код**.
+4. Наведите камеру на QR-код, чтобы отсканировать его.
+5. Когда появится уведомление «Тариф готов к добавлению», нажмите **Продолжить**.
+6. Следуйте инструкциям на экране, чтобы подписать ваш новый тариф (например, назовите его «Travel» или «Europe»).
 
----
+*[Заполнитель изображения: скриншот Настройки > Сотовая связь > Добавить eSIM]*
 
-## 4. iOS 16/17 Special Features: eSIM Quick Transfer
+### Метод B: Ручной ввод (если вы не можете отсканировать QR-код)
+Что делать, если вы купили eSIM на своем телефоне и не можете отсканировать QR-код с собственного экрана? Вы можете ввести данные вручную.
 
-If you are upgrading to a new iPhone, Apple has made it incredibly easy to transfer your eSIM. With iOS 16 and later, you can use **eSIM Quick Transfer** via Bluetooth.
+1. Перейдите в **Настройки** > **Сотовая связь** > **Добавить eSIM** > **Использовать QR-код**.
+2. Нажмите **Ввести данные вручную** внизу экрана камеры.
+3. Введите **SM-DP+ адрес** и **Код активации** (они указаны в вашем письме с подтверждением).
+4. Нажмите **Далее** и следуйте инструкциям, чтобы завершить установку.
 
-Simply place your old iPhone near your new one, go to **Settings > Cellular > Add eSIM** on the new phone, and select **Transfer from Nearby iPhone**. Follow the prompts, and your number will seamlessly move to the new device without needing a new QR code.
-
----
-
-## 5. Troubleshooting Common eSIM Activation Errors
-
-Running into issues? Here are the most common errors and how to fix them:
-
-* **"Cellular Plan Cannot Be Added"**: This usually means your iPhone is carrier-locked, or the QR code has already been scanned and used. Contact your provider.
-* **Stuck on "Activating..."**: Sometimes the network handshake takes a few minutes. If it’s stuck for over 15 minutes, restart your iPhone or turn Airplane Mode on and off.
-* **No Service After Activation**: Double-check that you have turned on the eSIM line and enabled **Data Roaming** for that specific plan. Also, note that travel eSIMs will only show service once you physically arrive in the destination country.
+### Метод C: Прямая установка через приложение оператора
+Многие современные провайдеры eSIM предлагают приложение, которое позволяет установить eSIM одним нажатием.
+1. Скачайте приложение вашего провайдера из App Store.
+2. Войдите в систему и найдите свой купленный тариф eSIM.
+3. Нажмите кнопку **Установить / Активировать eSIM**.
+4. Разрешите приложению добавить тариф в настройки вашего iPhone.
 
 ---
 
-## 6. Frequently Asked Questions (FAQs)
+## 3. Как настроить параметры eSIM для путешествий
 
-**How many eSIMs can I have on my iPhone?**
-You can store 8 or more eSIM profiles on an iPhone. However, depending on your model (iPhone 13 and newer), you can only have two eSIMs actively working at the same time (Dual eSIM).
+Установка eSIM — это только полдела. Если вы путешествуете за границу, вам необходимо правильно настроить параметры, чтобы **предотвратить дорогостоящие роуминговые сборы** на вашей основной домашней SIM-карте.
 
-**Can I use my physical SIM and eSIM at the same time?**
-Yes! iPhones support Dual SIM functionality, meaning you can keep your physical home SIM active for calls and texts while using a travel eSIM for data.
+### Установите голосовую линию и линию SMS по умолчанию
+Во время настройки ваш iPhone спросит, какую линию выбрать по умолчанию.
+* **Линия по умолчанию:** Выберите вашу основную (домашнюю) SIM-карту, если вы все еще хотите получать iMessage и звонки на свой обычный номер.
+* **iMessage и FaceTime:** Выберите вашу основную SIM-карту.
 
-**Can I delete my eSIM after my trip?**
-Yes. Once your trip is over and the plan has expired, you can go to Settings > Cellular, tap the eSIM, and select **Delete eSIM**. 
-> ⚠️ **WARNING:** NEVER delete your eSIM while you are still traveling or if you lose connection temporarily. Most eSIM QR codes can only be scanned once. If you delete it, you will lose the plan and have to buy a new one!
-
-**Does using an eSIM drain my iPhone battery faster?**
-Using an eSIM consumes the same amount of battery as a physical SIM. However, running two active lines (Dual SIM) in an area with poor signal can cause slight battery drain as your phone searches for networks.
+### Настройте сотовые данные и предотвратите роуминговые сборы
+Это самый важный шаг для путешественников:
+1. Перейдите в **Настройки** > **Сотовая связь** > **Сотовые данные**.
+2. Выберите вашу новую **туристическую eSIM** для сотовых данных.
+3. **Отключите «Разрешить переключение сотовых данных»**. Это гарантирует, что ваш телефон тайно не переключится обратно на домашнюю SIM-карту для данных.
+4. Вернитесь в меню «Сотовая связь», нажмите на вашу основную (домашнюю) SIM-карту и убедитесь, что **Роуминг данных отключен**.
+5. Нажмите на вашу туристическую eSIM и убедитесь, что **Роуминг данных включен** (большинству туристических eSIM требуется роуминг для подключения к местным сетям).
 
 ---
 
-## Ready for Your Next Adventure?
+## 4. Особенности iOS 16/17: быстрый перенос eSIM
 
-Learning **how to use an eSIM on an iPhone** unlocks a world of hassle-free connectivity. No more waiting in line at airport kiosks or paying exorbitant roaming fees. 
+Если вы переходите на новый iPhone, Apple сделала перенос eSIM невероятно простым. Начиная с iOS 16, вы можете использовать **быстрый перенос eSIM** через Bluetooth.
 
-*Ready for your next trip? Browse our global eSIM plans and stay connected anywhere in the world with instant delivery and easy setup!*
+Просто поместите старый iPhone рядом с новым, перейдите в **Настройки > Сотовая связь > Добавить eSIM** на новом телефоне и выберите **Перенести с находящегося рядом iPhone**. Следуйте инструкциям, и ваш номер бесшовно переместится на новое устройство без необходимости в новом QR-коде.
+
+---
+
+## 5. Устранение распространенных ошибок активации eSIM
+
+Возникли проблемы? Вот наиболее распространенные ошибки и способы их исправления:
+
+* **«Невозможно добавить тариф»**: Обычно это означает, что ваш iPhone заблокирован оператором или QR-код уже был отсканирован и использован. Свяжитесь с вашим провайдером.
+* **Зависло на «Активация...»**: Иногда «рукопожатие» с сетью занимает несколько минут. Если процесс завис более чем на 15 минут, перезагрузите iPhone или включите и выключите авиарежим.
+* **Нет обслуживания после активации**: Дважды проверьте, что вы включили линию eSIM и активировали **Роуминг данных** для этого конкретного тарифа. Также имейте в виду, что туристические eSIM покажут обслуживание, только когда вы физически прибудете в страну назначения.
+
+---
+
+## 6. Часто задаваемые вопросы (FAQ)
+
+**Сколько eSIM я могу иметь на своем iPhone?**
+Вы можете хранить 8 или более профилей eSIM на iPhone. Однако, в зависимости от вашей модели (iPhone 13 и новее), вы можете иметь только две eSIM, работающие одновременно (двойная eSIM).
+
+**Могу ли я использовать физическую SIM и eSIM одновременно?**
+Да! iPhone поддерживают функцию двойной SIM, что означает, что вы можете оставить вашу физическую домашнюю SIM активной для звонков и текстовых сообщений, используя туристическую eSIM для данных.
+
+**Могу ли я удалить eSIM после поездки?**
+Да. После того как поездка закончится и срок действия тарифа истечет, вы можете перейти в Настройки > Сотовая связь, нажать на eSIM и выбрать **Удалить eSIM**.
+> ⚠️ **ПРЕДУПРЕЖДЕНИЕ:** НИКОГДА не удаляйте eSIM, пока вы еще путешествуете или если вы временно потеряли соединение. Большинство QR-кодов eSIM можно отсканировать только один раз. Если вы удалите eSIM, вы потеряете тариф и вам придется покупать новый!
+
+**Разряжает ли использование eSIM батарею моего iPhone быстрее?**
+Использование eSIM потребляет такое же количество батареи, как и физическая SIM. Однако работа с двумя активными линиями (двойная SIM) в зоне с плохим сигналом может вызывать небольшой разряд батареи, поскольку телефон ищет сети.
+
+---
+
+## Готовы к следующему приключению?
+
+Изучение **как использовать eSIM на iPhone** открывает мир беспроблемной связи. Никаких больше очередей в киосках аэропортов или непомерных роуминговых сборов.
+
+*Готовы к следующей поездке? Просмотрите наши глобальные тарифы eSIM и оставайтесь на связи в любой точке мира с мгновенной доставкой и простой настройкой!*
