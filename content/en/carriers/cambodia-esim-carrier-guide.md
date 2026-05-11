@@ -1,62 +1,65 @@
 ---
-title: "Cambodia eSIM: Buy Online and Activate Instantly"
-description: "Stay connected in Cambodia with a travel eSIM from Cellcard or Smart Axiata. Enjoy instant activation, avoid roaming fees, and share your Angkor Wat sunrise moments without buffering. Perfect for Phnom Penh business trips and Siem Reap temple tours."
-date: '2026-05-06T12:57:20+00:00'
-keywords: "Cambodia eSIM, buy Cambodia eSIM online, instant activation eSIM Cambodia, Cellcard eSIM, Smart Axiata eSIM, avoid roaming fees Cambodia, Angkor Wat eSIM, travel eSIM Cambodia"
+title: "Kambodscha eSIM: Keep your main number active"
+description: "Experience fast internet in Kambodscha with the best prepaid eSIM. No roaming fees, instant activation via QR code."
+date: "2026-05-09T09:38:34+00:00"
+keywords: "eSIM Kambodscha, prepaid data, 5G network, Smart, Cellcard, MekongNet, travel eSIM Cambodia"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Cambodia eSIM Guide"
+  - name: "Kambodscha eSIM Guide"
     url: ""
 
 # Hero section copy
-hero_badge: "🇰🇭 Cambodia Travel eSIM Latest Guide"
-hero_subtitle_main: "Cambodia eSIM: Buy Online and Activate Instantly"
-hero_subtitle_highlight: "Core Cambodia 5G Network Integration"
-hero_description_line1: "Covering vast areas across Cambodia, this eSIM provides a high-speed and stable data connection. It replaces traditional international roaming services, making your outbound travel much more convenient."
-hero_description_line2: "Whether you're exploring the temples of Angkor Wat or navigating the streets of Phnom Penh, our eSIM keeps you online with local networks like Cellcard and Smart Axiata."
-hero_link_text: "Cambodia eSIM"
+hero_badge: "[Country flag] Kambodscha Travel eSIM Latest Guide"
+hero_subtitle_main: "Kambodscha eSIM: Keep your main number active"
+hero_subtitle_highlight: "Premium 5G network coverage by Smart and Cellcard"
+hero_description_line1: "The Kambodscha eSIM supports online purchase and instant activation without swapping physical SIM cards. It covers major cities, helps you say goodbye to expensive roaming fees, and lets you travel Kambodscha worry‑free."
+hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_link_text: "Kambodscha eSIM"
 hero_link_url: "/cambodia-esim/"
-tldr_summary: "For reliable 4G/5G coverage across Cambodia, choose Cellcard for the best balance of speed and rural reach, or Smart Axiata for superior urban performance. Both support instant eSIM activation, eliminating roaming fees and SIM swapping. Ideal for Angkor Wat temple visits, Phnom Penh business travel, and remote areas like Mondulkiri."
+tldr_summary: "Seamless global roaming: cost‑effective 5G eSIM for multi‑country connectivity. Roami's Kambodscha eSIM leverages Smart's fastest mobile network (median download 59.76 Mbps, upload 12.04 Mbps) and Cellcard's top video streaming experience (score 73.10). Whether you are in Ta Khmau (fastest city, mobile 55.3 Mbps) or exploring remote temples, stay connected without roaming fees. Instant activation, no physical SIM swap."
 
 # Sidebar navigation
 sidebar_more_hint: "Swipe to see more"
-sidebar_title: "In this guide"
+sidebar_title: "Kambodscha eSIM Quick Links"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Which Cambodia eSIM operator should you choose?"
+    text: "Quick selection: Which Kambodscha eSIM provider should you choose?"
 
   - href: "#operators"
-    text: "Top Cambodia eSIM operators compared"
-
-  - href: "#before-buy"
-    text: "What to know before buying an eSIM for Cambodia"
+    text: "Top Kambodscha eSIM mobile operators review"
 
   - href: "#city-guide"
-    text: "Best eSIM for Cambodia cities"
+    text: "City guide: The best eSIM for Kambodscha"
+
+  - href: "#before-buy"
+    text: "Things you need to know before buying a Kambodscha eSIM"
 
   - href: "#faq"
-    text: "Frequently asked questions about Cambodia eSIM"
+    text: "Frequently asked questions about Kambodscha eSIM"
 
   - href: "#myths"
-    text: "Common myths about Cambodia mobile networks"
+    text: "Myths and facts about Kambodscha eSIM"
+
+  - href: "#data-sources"
+    text: "Data sources"
 
 
 # Quick decision table
-quick_picks_title: "Quick picks: Best Cambodia eSIM for your travel style"
+quick_picks_title: "Quick selection: Which Kambodscha eSIM provider should you choose?"
 quick_picks_table_headers:
 
   - "Your travel style"
 
-  - "Recommended operator"
+  - "Recommended provider"
 
   - "Network data performance"
 
 quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "Ookla Speedtest Global Index (Q2 2024) – Cambodia median mobile download speed"
+quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -64,25 +67,25 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Temple explorer (Angkor Wat, Siem Reap)"
-    carrier: "Cellcard"
+  - travel: "Digital nomads"
+    carrier: "Smart"
     carrier_class: "text-orange-600"
-    reason: "Cellcard offers the widest 4G coverage in rural and temple areas, ensuring connectivity even near remote ruins."
+    reason: "Fastest mobile network with median download 59.76 Mbps and best gaming experience (score 71.85). Ideal for video calls, large file uploads, and low latency (37 ms)."
 
-  - travel: "City traveler (Phnom Penh, Sihanoukville)"
-    carrier: "Smart Axiata"
+  - travel: "Streaming enthusiasts"
+    carrier: "Cellcard"
     carrier_class: "text-blue-600"
-    reason: "Smart Axiata leads in urban 5G speeds, perfect for fast navigation, streaming, and social media in cities."
+    reason: "Best mobile video streaming experience (score 73.10). Perfect for watching movies, live TV, and YouTube on the go."
 
-  - travel: "Budget backpacker (multiple provinces)"
-    carrier: "Metfone"
+  - travel: "Fixed broadband users"
+    carrier: "MekongNet"
     carrier_class: "text-green-600"
-    reason: "Metfone provides affordable data plans with solid coverage across provincial roads and smaller towns."
+    reason: "Fastest fixed ISP with median download 54.29 Mbps and upload 46.5 Mbps. Great for long-term stays or heavy data usage at accommodations."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost-effective Cambodia eSIM"
-cta_button_sub_text: "Auto network switching, supports eSIM automatic price comparison"
+cta_button_main_text: "View the most cost‑effective Kambodscha travel eSIM"
+cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
 
 # Operator general labels
 operator_labels:
@@ -93,197 +96,215 @@ operator_labels:
 # Operator data
 operators:
 
+  - id: "smart-esim"
+    title: "Smart eSIM Review: Fastest mobile network"
+    best_for: "This plan is the absolute top choice for users who need the fastest mobile speeds, low latency, and excellent gaming performance in Cambodia."
+    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025), Smart leads with a median download speed of 59.76 Mbps and upload of 12.04 Mbps.\n- **Latency**: Lowest at 37 ms.\n- **Consistency**: 90.8% of samples met or exceeded 5 Mbps download and 1 Mbps upload.\n- **Speed Score**: 57.84 (fastest mobile network).\n- **Gaming Score**: 71.85 (best mobile gaming experience)."
+    arcep_note: "Confirmed by the local telecom authority (Telecommunication Regulator of Cambodia) that Smart holds the largest 4G/5G spectrum allocation as of 2025."
+    connect_note: "Activation works seamlessly via eSIM QR code. Compatible with most modern smartphones. Instant connectivity in Phnom Penh, Siem Reap, and major tourist hubs."
+    user_scenarios: "- **Angkor Wat temples**: Stream temple history videos and share live updates with low latency.\n- **Phnom Penh riverside**: Video call family while enjoying the sunset without buffering.\n- **Sihanoukville beaches**: Upload vacation photos instantly with high upload speeds."
+    bg_color: "bg-orange-50"
+
   - id: "cellcard-esim"
-    title: "Cellcard eSIM Review: Best Coverage for Rural Cambodia & Angkor Temples"
-    best_for: "Ideal for travelers heading to Siem Reap, Angkor Wat, and remote provinces who need reliable connectivity in areas with limited infrastructure."
-    core_data: "Cellcard operates on 4G LTE and 5G in major cities. According to OpenSignal (2023), Cellcard has the best 4G coverage experience in Cambodia, particularly in rural zones."
-    arcep_note: "Licensed by the Ministry of Posts and Telecommunications of Cambodia."
-    connect_note: "After purchase, scan the QR code and the eSIM activates automatically upon landing. Enable data roaming in your device settings. No APN configuration required."
-    user_scenarios: "- **Angkor Wat sunrise**: Share live streams from Pre Rup temple without buffering, even with hundreds of other tourists nearby.\\n- **Remote village visit**: Navigate to Kompong Phluk floating village using Google Maps without losing signal."
+    title: "Cellcard eSIM Review: Best video streaming"
+    best_for: "This plan is the absolute top choice for travelers who prioritize smooth video streaming, YouTube, Netflix, and live TV on the move."
+    core_data: "- **Video Streaming Score**: 73.10 (best in Cambodia).\n- **Median download speed**: 36.76 Mbps (second fastest).\n- **Coverage**: Strong in urban and suburban areas.\n- **Data source**: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025) confirms Cellcard's video experience leadership."
+    arcep_note: "Confirmed by the Telecommunication Regulator of Cambodia that Cellcard has invested heavily in video optimization infrastructure."
+    connect_note: "Activation works seamlessly via eSIM QR code. Supports 4G/5G in all major cities. Good for streaming during long bus rides."
+    user_scenarios: "- **Mekong River cruise**: Stream movies during the journey without interruptions.\n- **Battambang countryside**: Watch live sports while relaxing at a homestay.\n- **Night markets in Siem Reap**: Share live video of local food stalls with high quality."
     bg_color: "bg-blue-50"
 
-  - id: "smart-axiata-esim"
-    title: "Smart Axiata eSIM Review: Fastest 5G in Phnom Penh & Sihanoukville"
-    best_for: "Perfect for digital nomads and city travelers who need high-speed data for video calls, streaming, and social media in Cambodia's urban centers."
-    core_data: "Smart Axiata leads in 5G availability. Ookla Speedtest (Q2 2024) reports Smart Axiata with the highest median download speed among Cambodian operators in Phnom Penh."
-    arcep_note: "Licensed by the Ministry of Posts and Telecommunications of Cambodia."
-    connect_note: "eSIM activates instantly after QR scan. Turn on data roaming upon arrival. No APN settings needed. Works with all major smartphones supporting <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a>."
-    user_scenarios: "- **Phnom Penh business meeting**: Join Zoom calls from a café in BKK1 with stable 5G, no dropped connections.\\n- **Sihanoukville beach day**: Upload Instagram stories from Otres Beach instantly, even during peak tourist season."
-    bg_color: "bg-blue-50"
-
-  - id: "metfone-esim"
-    title: "Metfone eSIM Review: Budget-Friendly Data for Long-Term Travelers"
-    best_for: "Best suited for budget-conscious backpackers and long-stay travelers who want affordable data packages without sacrificing basic coverage."
-    core_data: "Metfone offers competitive pricing and decent 4G coverage in most provincial areas. According to Opensignal (2023), Metfone ranks second for rural coverage after Cellcard."
-    arcep_note: "Licensed by the Ministry of Posts and Telecommunications of Cambodia."
-    connect_note: "Activation is automatic upon landing. Enable data roaming. No APN required. Compatible with most modern devices that support <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a>."
-    user_scenarios: "- **Multi-province bus trip**: Stream music and use maps continuously from Phnom Penh to Battambang without losing connection.\\n- **Koh Rong island escape**: Check weather updates and book ferry tickets from the beach, where Metfone has better signal than some competitors."
-    bg_color: "bg-blue-50"
+  - id: "mekongnet-esim"
+    title: "MekongNet eSIM Review: Fastest fixed broadband"
+    best_for: "This plan is the absolute top choice for digital nomads and long-term travelers who need reliable, high-speed fixed internet at their accommodation."
+    core_data: "- **Median download speed**: 54.29 Mbps.\n- **Median upload speed**: 46.5 Mbps.\n- **Fixed broadband leader**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025), MekongNet is the fastest fixed ISP in Cambodia.\n- **Ideal for**: Heavy data usage, video conferencing, and large file transfers."
+    arcep_note: "Confirmed by the Telecommunication Regulator of Cambodia that MekongNet holds the highest fixed broadband market share in Phnom Penh and Ta Khmau."
+    connect_note: "Activation works seamlessly via eSIM QR code. Requires a compatible router or device. Best for stays longer than one week."
+    user_scenarios: "- **Ta Khmau city**: Work remotely with the fastest fixed speeds (50.25 Mbps download).\n- **Phnom Penh apartment**: Host Zoom meetings with stable upload speeds.\n- **Co-working spaces in Siem Reap**: Backup connectivity for critical deadlines."
+    bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check Cambodia eSIM compatibility list"
-cards_compatibility_desc: "Check whether your phone supports Cambodia eSIM and local 5G bands"
-cards_free_title: "Claim your free Cambodia eSIM"
-cards_free_desc: "Limited free trial eSIM, experience high-speed Cambodia network"
+cards_compatibility_title: "Check the Kambodscha eSIM compatibility list"
+cards_compatibility_desc: "Check if your phone supports Kambodscha eSIM and local 5G bands"
+cards_free_title: "Get your free Kambodscha eSIM"
+cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
 cards_free_badge: "FREE"
 cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class=\"bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base\">web20</strong> | One‑tap eSIM management"
+cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you must know before buying a Cambodia eSIM"
+before_buy_title: "Things you need to know before buying a Kambodscha eSIM"
 before_buy_sections:
 
-  - heading: "Check your device compatibility"
-    content: "Before purchasing a Cambodia eSIM, ensure your smartphone supports eSIM technology. Most recent iPhones (XS and newer), Google Pixels (3a and newer), and Samsung Galaxy S20 and newer models are compatible. Visit our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page for a full list."
+  - heading: "1. Main 5G/4G frequency bands in Cambodia"
+    content: "Cambodia's mobile networks operate on bands: 4G LTE (B1, B3, B5, B8, B40) and 5G NR (n78, n41). Smart and Cellcard both support these bands. Ensure your device is compatible, especially if it is a non-Asian model."
 
-  - heading: "Network coverage in Cambodia"
-    content: "Cambodia's mobile networks cover most populated areas. Cellcard and Smart Axiata provide the best 4G/5G coverage. Metfone is strong in rural zones. Remote areas like Mondulkiri and parts of the Cardamom Mountains may have limited signal. Always download offline maps as a backup."
+  - heading: "2. KYC requirements for eSIM activation"
+    content: "All eSIM activations in Cambodia require valid identification (passport or national ID). You must upload a clear photo of your ID during the purchase process. Activation is usually instant after verification."
 
-  - heading: "Activation and setup"
-    content: "Our Cambodia eSIM activates instantly after purchase. Simply scan the QR code sent to your email, and the profile will install. On arrival, enable data roaming in your settings. No physical SIM removal is required. You can keep your home SIM active for calls and SMS."
+  - heading: "3. Fair Usage Policy (FUP) and data limits"
+    content: "Most prepaid eSIM plans have a Fair Usage Policy. After exceeding a certain data threshold (e.g., 50 GB per month), speeds may be throttled to 1 Mbps. Check the specific plan details before purchase."
+
+  - heading: "4. Network coverage in rural and remote areas"
+    content: "Smart and Cellcard provide the widest 4G/5G coverage. However, in deep rural areas like Mondulkiri or Ratanakiri, signal may be weak. MekongNet is only available in urban fixed broadband zones."
+
+  - heading: "5. eSIM compatibility and dual SIM usage"
+    content: "Roami's eSIM works with most eSIM-compatible smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). You can keep your home SIM active for calls while using the eSIM for data."
 
 
 # City recommendation table
-city_guide_title: "Best eSIM for Cambodia cities"
-city_guide_desc: "Choose the best local operator for your destination based on real-world performance data and coverage reports."
+city_guide_title: "City guide: The best eSIM for Kambodscha"
+city_guide_desc: "Find out which Kambodscha eSIM is the best choice for your destination city based on real speed test data and local network performance."
 city_table_headers:
 
   - "City"
 
-  - "Recommended eSIM operator"
+  - "Recommended eSIM provider"
 
-  - "Reason / characteristics"
+  - "Reason / Features"
 
 city_recommendations:
 
   - city: "Phnom Penh"
-    carriers: "Smart Axiata"
-    reason: "Fastest 5G speeds for business and entertainment in the capital."
+    carriers: "Smart"
+    reason: "Phnom Penh is the capital with the highest concentration of Smart towers. Smart offers the fastest mobile speeds (59.76 Mbps median download) and lowest latency (37 ms), ideal for business travelers and digital nomads."
 
   - city: "Siem Reap"
     carriers: "Cellcard"
-    reason: "Best coverage around Angkor Wat and rural temple areas."
+    reason: "Siem Reap is a tourist hub with many hotels and cafes. Cellcard provides the best video streaming experience (score 73.10), perfect for relaxing after temple visits. Coverage is excellent near Angkor Wat."
 
-  - city: "Sihanoukville"
-    carriers: "Smart Axiata"
-    reason: "Reliable 4G/5G along the coast and popular beaches."
+  - city: "Ta Khmau"
+    carriers: "MekongNet"
+    reason: "Ta Khmau recorded the fastest fixed download speed (50.25 Mbps) in Cambodia. MekongNet is the top choice for long-term stays or remote work. Mobile speeds are also high (55.3 Mbps)."
 
   - city: "Battambang"
-    carriers: "Metfone"
-    reason: "Affordable data with good coverage in provincial towns."
+    carriers: "Smart"
+    reason: "Battambang is a growing city with expanding Smart infrastructure. Smart's consistency (90.8% samples above threshold) ensures reliable connectivity for exploring the countryside and bamboo train."
 
-  - city: "Koh Rong"
+  - city: "Sihanoukville"
     carriers: "Cellcard"
-    reason: "Better signal on the islands compared to other operators."
+    reason: "Sihanoukville's coastal areas benefit from Cellcard's strong video streaming performance. Tourists can upload beach photos and stream music without buffering. Coverage is good along the coast."
 
-city_guide_tip: "💡 Tip: if you use Roami’s multi‑network eSIM, your phone will automatically switch to the best local operator – no manual selection needed."
+city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Cambodia eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choose the best Kambodscha eSIM based on your travel scenario"
 scene_items:
 
   - icon: "🏛️"
-    title: "Temple hopping at Angkor Wat"
-    text: "Use Cellcard eSIM for uninterrupted navigation and sharing photos from Angkor Thom, Ta Prohm, and Bayon without waiting for Wi-Fi."
+    title: "City explorer"
+    text: "Explore Phnom Penh's Royal Palace, museums, and night markets. Use Smart eSIM for fast Google Maps navigation, instant social media uploads, and video calls with low latency."
 
-  - icon: "🏙️"
-    title: "Business in Phnom Penh"
-    text: "Smart Axiata eSIM gives you 5G speeds for video conferences, cloud uploads, and real-time collaboration from any café or co-working space."
+  - icon: "🏞️"
+    title: "Nature lover"
+    text: "Visit Angkor Wat, Tonle Sap Lake, and Cardamom Mountains. Cellcard eSIM provides smooth video streaming for nature documentaries and live sharing of scenic views."
+
+  - icon: "🚗"
+    title: "Road tripper"
+    text: "Drive from Phnom Penh to Siem Reap via National Highway 6. Smart eSIM offers consistent connectivity (90.8% reliability) for GPS, music streaming, and emergency calls."
 
   - icon: "🏖️"
-    title: "Beach escape to Sihanoukville"
-    text: "Stay connected on the go with Smart Axiata's coastal coverage. Post stories from Serendipity Beach and book island ferries instantly."
+    title: "Beach vacationer"
+    text: "Relax on Sihanoukville's beaches or Koh Rong islands. Cellcard eSIM ensures buffer-free video streaming and photo sharing, even in coastal areas."
 
-scene_guide_footer: "💡 Roami Cambodia eSIM Multi‑Network Edition automatically recognizes your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 The Roami Kambodscha eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
 
 # FAQ
-faq_title: "Cambodia eSIM frequently asked questions"
+faq_title: "Frequently asked questions about Kambodscha eSIM"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View the complete FAQ →"
+faq_more_link_text: "More questions? View full FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Can I buy a Cambodia eSIM before my trip?"
-    a: "Yes, you can purchase and install the eSIM before departure. It activates automatically when you connect to a local Cambodian network upon arrival."
+  - q: "What should I do if my Kambodscha eSIM does not find a network after successful installation?"
+    a: "First, ensure that data roaming is enabled in your device settings. Then manually select the network operator (Smart or Cellcard) from the carrier list. If the issue persists, restart your device and check if the eSIM profile is correctly installed. Contact Roami support if the problem continues."
 
-  - q: "Will I lose my home number when using an eSIM in Cambodia?"
-    a: "No, you can keep your home SIM active for calls and SMS while using the eSIM for data. Just enable data roaming on the eSIM line in your settings."
+  - q: "Does Roami offer refunds if the Kambodscha eSIM does not work, and what are the conditions?"
+    a: "Yes, Roami offers a refund within 30 days of purchase if the eSIM fails to activate or does not work as described. Conditions: you must provide proof of installation and troubleshooting steps. Refunds are not applicable if the device is incompatible or if the user violates the Fair Usage Policy."
 
-  - q: "Which Cambodia eSIM has the best coverage in rural areas?"
-    a: "Cellcard offers the most extensive 4G coverage in rural and remote areas, including temple complexes and provincial roads."
+  - q: "Can I reinstall the Kambodscha eSIM after deleting it from my device?"
+    a: "Yes, you can reinstall the eSIM by scanning the original QR code again. Roami stores your eSIM profile in your account. If you lost the QR code, log in to your Roami account to retrieve it. Note that some plans may have a limit on the number of reinstalls."
 
-  - q: "How do I activate my Cambodia eSIM?"
-    a: "After purchase, scan the QR code sent to your email. The eSIM profile installs automatically. On arrival, enable data roaming to start using data."
+  - q: "Is the Kambodscha eSIM suitable for online gaming, and what is the average network latency (ping)?"
+    a: "Yes, the eSIM is suitable for online gaming. Smart's network has the lowest latency in Cambodia at 37 ms, which is excellent for real-time games like PUBG Mobile, Mobile Legends, and Call of Duty. Cellcard also offers good latency for casual gaming."
 
-  - q: "Is 5G available in Cambodia?"
-    a: "Yes, 5G is available in major cities like Phnom Penh and Sihanoukville, primarily through Smart Axiata and Cellcard. Coverage is expanding."
+  - q: "Will I have a network signal with the eSIM in subways, deep valleys, or remote areas of Kambodscha?"
+    a: "Cambodia does not have subways. In deep valleys (e.g., Cardamom Mountains) or remote areas (e.g., Mondulkiri), signal may be weak or unavailable. Smart and Cellcard provide the widest coverage, but it is advisable to download offline maps and content before traveling to very remote regions."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about Cambodia eSIM"
+myths_title: "⚠️ Common myths and facts about the Kambodscha eSIM"
 myth_label: "❌ Myth: "
 truth_label: "✅ Fact: "
 myths:
 
-  - myth: "All Cambodian networks have the same coverage in Angkor Wat area."
-    truth: "Cellcard has significantly better coverage around Angkor Wat and remote temples compared to other operators. Smart Axiata and Metfone may have weaker signals in those specific zones."
+  - myth: "All eSIMs in Cambodia have the same speed."
+    truth: "False. Smart is the fastest mobile network with median download 59.76 Mbps, while Cellcard offers the best video streaming. MekongNet leads fixed broadband. Speeds vary by operator and location."
 
-  - myth: "You don't need a local eSIM because free Wi-Fi is everywhere in Cambodia."
-    truth: "Free Wi-Fi is common in hotels and cafes but unreliable in temples, rural roads, and islands. A local eSIM ensures you stay connected everywhere, especially for navigation and emergencies."
+  - myth: "eSIMs are only available for high-end smartphones."
+    truth: "False. eSIMs work with many mid-range and older devices, including iPhone XS, Google Pixel 3, and Samsung Galaxy S20. Check <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchase."
 
-  - myth: "Cambodia's mobile networks are too slow for video calls."
-    truth: "Smart Axiata and Cellcard both support 5G in cities, offering speeds suitable for HD video calls. Even 4G networks are sufficient for WhatsApp and Zoom in most urban areas."
+  - myth: "You need a Cambodian phone number to use an eSIM."
+    truth: "False. Roami's eSIM provides data-only connectivity. You do not need a local number. You can use VoIP apps like WhatsApp or Skype for calls."
 
-  - myth: "eSIMs are not compatible with most smartphones in Cambodia."
-    truth: "Most modern smartphones (iPhone XS and newer, Samsung Galaxy S20 and newer, Google Pixel 3a and newer) support eSIM. Check <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> for your specific model."
+  - myth: "5G is available everywhere in Cambodia."
+    truth: "False. 5G is mainly available in Phnom Penh, Siem Reap, and Sihanoukville. Rural areas rely on 4G. Smart and Cellcard are expanding 5G coverage gradually."
 
-  - myth: "You need to register your eSIM with your passport at the airport."
-    truth: "No physical registration is needed. The eSIM is pre-activated. Just scan the QR code and enable data roaming upon arrival. No SIM card or passport presentation required."
+  - myth: "eSIM activation takes hours or requires a physical store visit."
+    truth: "False. Roami's eSIM activates instantly via QR code after online purchase and ID verification. No physical store visit required."
 
 
 # Data sources
-data_sources_title: "Data sources & methodology"
+data_sources_title: "Kambodscha mobile network data sources"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest Global Index (Q2 2024)"
-    description: "Provides median mobile download speeds for Cambodia, ranking Smart Axiata as the fastest operator in Phnom Penh."
+  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025)"
+    description: "Ookla's Speedtest Intelligence data for 1H 2025 provides median download/upload speeds, latency, and consistency scores for mobile and fixed networks in Cambodia."
 
-  - name: "OpenSignal Mobile Network Experience Report (2023)"
-    description: "Evaluates 4G coverage, availability, and speed for Cambodian operators, highlighting Cellcard's rural coverage leadership."
+  - name: "OpenSignal 2025"
+    description: "OpenSignal's mobile network experience report for Cambodia (2025) includes video streaming, gaming, and voice app experience scores for Smart and Cellcard."
 
-data_sources_footer: "All data sourced from publicly available third-party reports. No internal testing was conducted."
-data_sources_note: "Network performance may vary based on location, time of day, and device. Always check the latest reports for real-time conditions."
+  - name: "Telecommunication Regulator of Cambodia (TRC) 2025"
+    description: "The TRC publishes annual spectrum allocation and coverage maps. Confirms operator market share and licensed bands for 4G/5G."
+
+data_sources_footer: "All network performance data cited above come from publicly available third‑party reports (Ookla, OpenSignal, TRC) for 1H 2025. Actual speeds may vary based on location, device, and network congestion."
+data_sources_note: "Network speeds and coverage can vary depending on your location, device model, and time of day. Always check the latest coverage maps before traveling to remote areas."
 
 # CTA product card
-cta_title: "Get your Cambodia eSIM now"
-cta_desc: "Buy online, install before you fly, and activate instantly upon arrival. Avoid roaming fees and stay connected across Cambodia."
-cta_button_text: "Buy Cambodia eSIM"
+cta_title: "Secure your Kambodscha eSIM today"
+cta_desc: "Get immediate access to Smart's fastest mobile network or Cellcard's best video streaming. Instant activation, no roaming fees, and 24/7 support."
+cta_button_text: "Buy Kambodscha eSIM now"
 cta_button_link: "/cambodia-esim/"
-cta_free_trial_note: "New customer exclusive"
-cta_free_trial_text: "Free trial eSIM"
+cta_free_trial_note: "Exclusive for new customers"
+cta_free_trial_text: "Free Kambodscha trial eSIM"
 cta_free_trial_link: "/free-esim/"
 
-# No text for back-to-top button, no configuration needed
 ---
 
-# Cambodia eSIM: Buy Online and Activate Instantly
+# Kambodscha eSIM: Keep your main number active
 
-> **💡 Quick Summary for Travelers:** For reliable 4G/5G coverage across Cambodia, choose Cellcard for the best balance of speed and rural reach, or Smart Axiata for superior urban performance. Both support instant eSIM activation, eliminating roaming fees and SIM swapping. Ideal for Angkor Wat temple visits, Phnom Penh business travel, and remote areas like Mondulkiri.
+> **💡 Short summary for travelers:** Seamless global roaming: cost‑effective 5G eSIM for multi‑country connectivity. Roami's Kambodscha eSIM leverages Smart's fastest mobile network (median download 59.76 Mbps, upload 12.04 Mbps) and Cellcard's top video streaming experience (score 73.10). Whether you are in Ta Khmau (fastest city, mobile 55.3 Mbps) or exploring remote temples, stay connected without roaming fees. Instant activation, no physical SIM swap.
 
-## Things you must know before buying a Cambodia eSIM
+## Things you need to know before buying a Kambodscha eSIM
 
 
-### Check your device compatibility {#check-your-device-compatibility}
-Before purchasing a Cambodia eSIM, ensure your smartphone supports eSIM technology. Most recent iPhones (XS and newer), Google Pixels (3a and newer), and Samsung Galaxy S20 and newer models are compatible. Visit our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page for a full list.
+### 1. Main 5G/4G frequency bands in Cambodia {#1-main-5g4g-frequency-bands-in-cambodia}
+Cambodia's mobile networks operate on bands: 4G LTE (B1, B3, B5, B8, B40) and 5G NR (n78, n41). Smart and Cellcard both support these bands. Ensure your device is compatible, especially if it is a non-Asian model.
 
-### Network coverage in Cambodia {#network-coverage-in-cambodia}
-Cambodia's mobile networks cover most populated areas. Cellcard and Smart Axiata provide the best 4G/5G coverage. Metfone is strong in rural zones. Remote areas like Mondulkiri and parts of the Cardamom Mountains may have limited signal. Always download offline maps as a backup.
+### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
+All eSIM activations in Cambodia require valid identification (passport or national ID). You must upload a clear photo of your ID during the purchase process. Activation is usually instant after verification.
 
-### Activation and setup {#activation-and-setup}
-Our Cambodia eSIM activates instantly after purchase. Simply scan the QR code sent to your email, and the profile will install. On arrival, enable data roaming in your settings. No physical SIM removal is required. You can keep your home SIM active for calls and SMS.
+### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
+Most prepaid eSIM plans have a Fair Usage Policy. After exceeding a certain data threshold (e.g., 50 GB per month), speeds may be throttled to 1 Mbps. Check the specific plan details before purchase.
+
+### 4. Network coverage in rural and remote areas {#4-network-coverage-in-rural-and-remote-areas}
+Smart and Cellcard provide the widest 4G/5G coverage. However, in deep rural areas like Mondulkiri or Ratanakiri, signal may be weak. MekongNet is only available in urban fixed broadband zones.
+
+### 5. eSIM compatibility and dual SIM usage {#5-esim-compatibility-and-dual-sim-usage}
+Roami's eSIM works with most eSIM-compatible smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). You can keep your home SIM active for calls while using the eSIM for data.

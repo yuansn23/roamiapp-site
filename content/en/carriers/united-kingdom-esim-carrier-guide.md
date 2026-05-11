@@ -1,65 +1,65 @@
 ---
-title: "United Kingdom eSIM: Fast Activation Without Physical SIMs"
-description: "Stay connected in the UK with an eSIM that activates in minutes—no physical SIM needed. Enjoy fast 5G on EE and Vodafone networks while exploring London's Tower Bridge or hiking the Scottish Highlands. Avoid roaming fees with a local UK eSIM plan."
-date: '2026-05-06T11:47:19+00:00'
-keywords: "United Kingdom eSIM, UK travel eSIM, fast activation eSIM UK, EE eSIM, Vodafone eSIM, no roaming fees UK, London eSIM, Scottish Highlands eSIM, instant eSIM United Kingdom, best eSIM for UK travel"
+title: "Großbritannien eSIM: The convenient way to stay connected"
+description: "Experience fast internet in Großbritannien with the best prepaid eSIM. No roaming fees, instant activation via QR code."
+date: "2026-05-09T09:44:09+00:00"
+keywords: "eSIM Großbritannien, prepaid data, 5G network, UK eSIM, travel eSIM, digital nomad UK"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "United Kingdom eSIM Guide"
+  - name: "Großbritannien eSIM Guide"
     url: ""
 
 # Hero section copy
-hero_badge: "🇬🇧 United Kingdom Travel eSIM Latest Guide"
-hero_subtitle_main: "United Kingdom eSIM: Fast Activation Without Physical SIMs"
-hero_subtitle_highlight: "Powered by Leading United Kingdom 5G Networks"
-hero_description_line1: "With high-speed network coverage in major cities and tourist spots, the United Kingdom eSIM keeps you stably connected whether you are on a road trip, shopping, or working."
-hero_description_line2: "Activate instantly and avoid expensive international roaming charges. Perfect for tourists, business travelers, and digital nomads visiting England, Scotland, Wales, and Northern Ireland."
-hero_link_text: "United Kingdom eSIM"
+hero_badge: "[Country flag] Großbritannien Travel eSIM Latest Guide"
+hero_subtitle_main: "Großbritannien eSIM: The convenient way to stay connected"
+hero_subtitle_highlight: "Premium 5G network coverage by EE, Three, Virgin Media O2 and Vodafone"
+hero_description_line1: "Choose a Großbritannien eSIM to connect to high‑speed 5G networks upon arrival. Compatible with iPhone and Android, it provides stable internet for travel, business, or study, saving you time and money."
+hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_link_text: "Großbritannien eSIM"
 hero_link_url: "/united-kingdom-esim/"
-tldr_summary: "For travelers to the UK, we recommend EE eSIM for the fastest 5G speeds in London and other cities, and Vodafone eSIM for the widest coverage in rural areas like the Lake District. Both provide instant activation without a physical SIM, eliminating roaming fees. Ideal for tourists wanting reliable connectivity from arrival."
+tldr_summary: "Designed for digital nomads: unlimited data solutions for multiple countries. Roami's Großbritannien eSIM gives you instant access to the UK's top networks. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025), EE leads with a median download speed of 114.1 Mbps, while Three, Virgin Media O2 and Vodafone offer competitive speeds above 44 Mbps. Whether you're working from a London coffee shop or hiking in the Scottish Highlands, Roami ensures you stay connected with no roaming fees and easy top‑ups."
 
 # Sidebar navigation
 sidebar_more_hint: "Swipe to see more"
-sidebar_title: "In this guide"
+sidebar_title: "Großbritannien eSIM Quick Links"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Which United Kingdom eSIM operator should you choose?"
+    text: "Quick selection: Which Großbritannien eSIM provider should you choose?"
 
   - href: "#operators"
-    text: "Top UK mobile operators compared"
-
-  - href: "#before-buy"
-    text: "What to know before buying a UK eSIM"
+    text: "Top Großbritannien eSIM mobile operators review"
 
   - href: "#city-guide"
-    text: "Best eSIM for UK cities and regions"
+    text: "City guide: The best eSIM for Großbritannien"
 
-  - href: "#scene-guide"
-    text: "eSIM usage scenarios in the UK"
+  - href: "#before-buy"
+    text: "Things you need to know before buying a Großbritannien eSIM"
 
   - href: "#faq"
-    text: "Frequently asked questions about UK eSIMs"
+    text: "Frequently asked questions about Großbritannien eSIM"
 
   - href: "#myths"
-    text: "Common myths about UK mobile networks"
+    text: "Myths and facts about Großbritannien eSIM"
+
+  - href: "#data-sources"
+    text: "Data sources"
 
 
 # Quick decision table
-quick_picks_title: "Quick picks: Best UK eSIM for every traveler"
+quick_picks_title: "Quick selection: Which Großbritannien eSIM provider should you choose?"
 quick_picks_table_headers:
 
   - "Your travel style"
 
-  - "Recommended operator"
+  - "Recommended provider"
 
   - "Network data performance"
 
 quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "Ookla Speedtest Intelligence report for Q1 2024 on UK mobile networks"
+quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,25 +67,30 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Urban explorer & speed seeker"
-    carrier: "EE"
-    carrier_class: "text-orange-600"
-    reason: "EE consistently ranks as the fastest 5G network in UK cities, ideal for streaming, video calls, and quick downloads in London, Manchester, and Birmingham."
-
-  - travel: "Rural adventurer & road tripper"
+  - travel: "Digital nomads"
     carrier: "Vodafone"
     carrier_class: "text-orange-600"
-    reason: "Vodafone offers the widest 4G/5G coverage across the UK countryside, including the Lake District and Scottish Highlands, ensuring connectivity on long drives."
+    reason: "Best rural coverage and strong performance in Wales and Scotland. Median download speed 47.7 Mbps UK-wide, with speeds above 100 Mbps in cities like London."
 
-  - travel: "Budget-conscious traveler"
-    carrier: "Three UK"
-    carrier_class: "text-orange-600"
-    reason: "Three UK provides affordable unlimited data plans with good urban coverage, perfect for travelers who need lots of data without breaking the bank."
+  - travel: "City explorers"
+    carrier: "EE"
+    carrier_class: "text-blue-600"
+    reason: "Fastest overall network with median download speed 114.1 Mbps. Best 5G experience and 25 consecutive Overall RootScore Awards."
+
+  - travel: "Budget travelers"
+    carrier: "Three"
+    carrier_class: "text-purple-600"
+    reason: "Competitive speeds (53.8 Mbps median) and strong metro performance. Best for value with wide 5G coverage in cities."
+
+  - travel: "Reliability seekers"
+    carrier: "Virgin Media O2"
+    carrier_class: "text-red-600"
+    reason: "Improved reliability ranking to second place UK-wide. Median download speed 44.1 Mbps, with speeds above 100 Mbps in three metro areas."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost-effective United Kingdom eSIM"
-cta_button_sub_text: "Auto network switching, supports eSIM automatic price comparison"
+cta_button_main_text: "View the most cost‑effective Großbritannien travel eSIM"
+cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
 
 # Operator general labels
 operator_labels:
@@ -96,205 +101,224 @@ operator_labels:
 # Operator data
 operators:
 
-  - id: "ee-esim"
-    title: "EE eSIM Review: Fastest 5G Speeds for UK City Travelers"
-    best_for: "Best for tourists who prioritize speed and need reliable high-speed internet in major cities like London, Edinburgh, and Manchester for streaming, navigation, and social media."
-    core_data: "EE's 5G network delivers median download speeds over 150 Mbps in central London (based on Ookla Q1 2024 data), making it the fastest operator in urban areas."
-    arcep_note: "EE is owned by BT Group and is regulated by Ofcom. It holds spectrum in 800 MHz, 1800 MHz, 2.6 GHz, and 3.4 GHz bands."
-    connect_note: "After purchase, you will receive a QR code via email. Scan it with your phone's settings to install the eSIM profile. The eSIM activates automatically upon landing in the UK. Ensure data roaming is enabled in your device settings. No APN configuration is needed."
-    user_scenarios: "- **Navigating the London Underground**: With EE's extensive Wi-Fi and 4G coverage on the Tube (e.g., at Oxford Circus station), you can check maps and messages without interruption.\\n- **Streaming at the Edinburgh Castle**: EE's 5G speeds let you upload high-resolution photos and live-stream your visit without buffering.\\n- **Working from a café in Soho**: Reliable video calls and large file uploads are seamless on EE's network."
-    bg_color: "bg-blue-50"
-
   - id: "vodafone-esim"
-    title: "Vodafone eSIM Review: Best Coverage for UK Countryside & Road Trips"
-    best_for: "Ideal for travelers exploring rural areas, national parks, and driving long distances across the UK, where consistent connectivity is crucial."
-    core_data: "Vodafone covers 99% of the UK population with 4G and has the largest 5G footprint in rural regions, including the Lake District and Snowdonia (based on Vodafone's own coverage claims and Ofcom data)."
-    arcep_note: "Vodafone UK is a subsidiary of Vodafone Group Plc, regulated by Ofcom. It operates on 800 MHz, 900 MHz, 1800 MHz, 2100 MHz, and 2600 MHz bands."
-    connect_note: "Activation is instant via QR code. The eSIM profile connects to Vodafone's network as soon as you land. Turn on data roaming in your device settings. No manual APN settings are required."
-    user_scenarios: "- **Driving the North Coast 500 in Scotland**: Vodafone's extensive rural coverage keeps your GPS and music streaming active even in remote stretches.\\n- **Hiking in the Lake District**: Stay connected for emergency calls and share your location with friends while trekking near Windermere.\\n- **Visiting the Giant's Causeway in Northern Ireland**: Upload photos and use translation apps without worrying about signal drops."
+    title: "Vodafone eSIM Review: Best rural coverage"
+    best_for: "This plan is the absolute top choice for travelers heading to the countryside, national parks, or remote areas of Scotland and Wales. Vodafone consistently ranks second in those nations across most performance categories."
+    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025), Vodafone's 5G network uses a fragmented mid-band portfolio with configurations from 50 MHz to 115 MHz on n78. In London, it achieved median download speeds above 100 Mbps.\n- **Download rate**: UK-wide median download speed 47.7 Mbps, faster than Virgin Media O2 (44.1 Mbps) but behind EE (114.1 Mbps) and Three (53.8 Mbps).\n- **Reliability**: Ranked fourth UK-wide in reliability in 2H 2025, down from second in 1H 2025."
+    arcep_note: "Confirmed by the local telecom authority Ofcom, Vodafone holds spectrum in the 800 MHz, 900 MHz, 1800 MHz, 2100 MHz, 2600 MHz and 3.5 GHz bands, ensuring broad coverage."
+    connect_note: "Activation works seamlessly with Roami's eSIM. Simply scan the QR code upon arrival and Vodafone's network will connect automatically. No manual APN settings required."
+    user_scenarios: "- **Scottish Highlands**: While hiking near Ben Nevis, Vodafone's strong rural coverage keeps you connected for maps and emergency calls.\n- **Welsh valleys**: Driving through Snowdonia National Park, Vodafone's network provides reliable data for navigation and social media.\n- **Cornwall coast**: Enjoying the beaches of St Ives, Vodafone's consistent speeds allow video calls and streaming without buffering."
     bg_color: "bg-blue-50"
 
-  - id: "three-uk-esim"
-    title: "Three UK eSIM Review: Affordable Unlimited Data for Budget Travelers"
-    best_for: "Perfect for travelers who need large data allowances at low cost, especially for social media, video streaming, and extended stays in UK cities."
-    core_data: "Three UK offers some of the cheapest unlimited data plans in the UK, with average 5G speeds around 100 Mbps in central London (based on Ookla Q1 2024 data)."
-    arcep_note: "Three UK is owned by CK Hutchison Holdings and regulated by Ofcom. It uses 800 MHz, 1800 MHz, and 2100 MHz bands for 4G/5G."
-    connect_note: "Activate by scanning the QR code sent to your email. The eSIM will connect to Three's network upon arrival in the UK. Enable data roaming in your phone settings. No APN configuration is required."
-    user_scenarios: "- **Binge-watching shows on a long train journey from London to Edinburgh**: Three's unlimited data lets you stream without worrying about caps.\\n- **Sharing travel updates on Instagram at the Tower of London**: Upload stories and photos quickly with Three's decent urban speeds.\\n- **Using video calls to stay in touch with family while staying in a budget hostel**: Affordable plans mean you can stay connected without overspending."
+  - id: "ee-esim"
+    title: "EE eSIM Review: Fastest overall network"
+    best_for: "This plan is the absolute top choice for users who demand the fastest speeds and best 5G experience across the UK, especially in major cities like London, Manchester, and Birmingham."
+    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025), EE won the Best 5G Experience award. It deploys 80 MHz of 3.5 GHz (n78) in dual-carrier configuration in cities, plus supplementary bands n1, n3, n7, n28.\n- **Download rate**: UK-wide median download speed 114.1 Mbps, more than double the next fastest operator (Three at 53.8 Mbps).\n- **Reliability**: EE has won the UK Overall RootScore Award outright every test period since 2H 2013, over 12 years of consistent leadership."
+    arcep_note: "Confirmed by Ofcom, EE holds the most diverse spectrum portfolio including 700 MHz, 800 MHz, 1800 MHz, 2100 MHz, 2600 MHz and 3.5 GHz bands, enabling advanced carrier aggregation."
+    connect_note: "Activation works seamlessly with Roami's eSIM. EE's network is automatically prioritized for speed. No manual configuration needed."
+    user_scenarios: "- **London business district**: In Canary Wharf, EE's supercharged 4G anchor ensures fluid video conferencing even when 5G signal drops.\n- **Manchester city centre**: Shopping and streaming on the go, EE's median speeds exceed 100 Mbps in nearly every city tested.\n- **Edinburgh festival**: During peak usage, EE's capacity management keeps social media and live streaming smooth."
+    bg_color: "bg-blue-50"
+
+  - id: "three-esim"
+    title: "Three eSIM Review: Best value 5G speeds"
+    best_for: "This plan is the absolute top choice for budget-conscious travelers who still want excellent 5G speeds in urban areas. Three offers the largest contiguous 3.5 GHz spectrum holdings, delivering top 5% speeds exceeding 1.6 Gbps in London."
+    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025), Three deploys up to 140 MHz of 3.5 GHz (n78) via dual-carrier aggregation, unmatched by competitors. However, 4G fallback is more frequent in cities.\n- **Download rate**: UK-wide median download speed 53.8 Mbps, faster than Virgin Media O2 (44.1 Mbps) and Vodafone (47.7 Mbps).\n- **Reliability**: Improved to second place UK-wide in reliability, tied with Virgin Media O2."
+    arcep_note: "Confirmed by Ofcom, Three uses MOCN sharing with Vodafone in rural areas to extend coverage, leveraging Vodafone's lower-band spectrum."
+    connect_note: "Activation works seamlessly with Roami's eSIM. Three's network is optimized for data-heavy use. No manual setup required."
+    user_scenarios: "- **London tourist hotspots**: Near the London Eye, Three's wide 5G layer delivers blazing speeds for uploading photos and videos.\n- **Birmingham nightlife**: Streaming music and using ride-sharing apps, Three's consistent metro performance keeps you connected.\n- **Glasgow city centre**: Three's median download speeds above 50 Mbps in all 16 metro markets ensure reliable connectivity."
+    bg_color: "bg-blue-50"
+
+  - id: "virgin-media-o2-esim"
+    title: "Virgin Media O2 eSIM Review: Most reliable coverage"
+    best_for: "This plan is the absolute top choice for travelers who prioritize reliability and consistent connectivity. Virgin Media O2 improved its UK-wide reliability ranking from fourth to second in 2H 2025."
+    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025), Virgin Media O2 has the highest 5G attachment rates in cities like London, relying on 700 MHz (n28) for coverage and 3.5 GHz (n78) for capacity. Median 5G download speeds jumped 21% between 1H and 2H 2025.\n- **Download rate**: UK-wide median download speed 44.1 Mbps, with speeds above 100 Mbps in three metro areas.\n- **Reliability**: Ranked second UK-wide in reliability, tied with Three."
+    arcep_note: "Confirmed by Ofcom, Virgin Media O2 uses a dual-vendor RAN strategy (Nokia in central London, Ericsson on outskirts) for supply-chain resilience."
+    connect_note: "Activation works seamlessly with Roami's eSIM. Virgin Media O2's network automatically connects with strong indoor penetration. No manual configuration needed."
+    user_scenarios: "- **London underground stations**: Virgin Media O2's high 5G attachment rates ensure connectivity even in dense urban canyons.\n- **Cardiff city centre**: Recent spectrum reconfiguration in the 2100 MHz band improves performance for streaming and browsing.\n- **Southampton waterfront**: Consistent speeds above 50 Mbps make it easy to share holiday moments in real time."
     bg_color: "bg-blue-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check United Kingdom eSIM compatibility list"
-cards_compatibility_desc: "Check whether your phone supports United Kingdom eSIM and local 5G bands"
-cards_free_title: "Claim your free United Kingdom eSIM"
-cards_free_desc: "Limited free trial eSIM, experience high-speed United Kingdom network"
+cards_compatibility_title: "Check the Großbritannien eSIM compatibility list"
+cards_compatibility_desc: "Check if your phone supports Großbritannien eSIM and local 5G bands"
+cards_free_title: "Get your free Großbritannien eSIM"
+cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
 cards_free_badge: "FREE"
 cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class=\"bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base\">web20</strong> | One‑tap eSIM management"
+cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you must know before buying a United Kingdom eSIM"
+before_buy_title: "Things you need to know before buying a Großbritannien eSIM"
 before_buy_sections:
 
-  - heading: "Device compatibility: Check your phone first"
-    content: "Before purchasing a UK eSIM, ensure your smartphone supports eSIM technology. Most modern phones from Apple (iPhone XS and later), Google Pixel (3 and later), and Samsung Galaxy (S20 and later) are compatible. For a full list, visit our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page. Also, confirm that your device is unlocked from your home carrier, as locked phones may not accept a foreign eSIM."
+  - heading: "1. Main 5G/4G frequency bands in Großbritannien"
+    content: "UK operators use a mix of bands: 700 MHz (n28), 800 MHz (n20), 1800 MHz (n3), 2100 MHz (n1), 2600 MHz (n7), and 3.5 GHz (n78) for 5G. 4G LTE bands include 800 MHz (band 20), 1800 MHz (band 3), 2100 MHz (band 1), and 2600 MHz (band 7). Ensure your device supports these bands for optimal performance."
 
-  - heading: "Network coverage in the United Kingdom"
-    content: "The UK has four major mobile network operators: EE, Vodafone, Three UK, and O2. EE offers the fastest urban speeds, while Vodafone and O2 provide broader rural coverage. Three UK is known for affordable unlimited plans. All operators support 5G in major cities like London, Manchester, Birmingham, and Edinburgh, with ongoing expansion to smaller towns."
+  - heading: "2. KYC requirements for eSIM activation"
+    content: "In the UK, purchasing an eSIM typically requires identity verification. You may need to provide a passport or national ID number. Roami's eSIM activation is instant and compliant with local regulations, but always have your ID ready."
 
-  - heading: "Activation and setup process"
-    content: "After purchasing your UK eSIM from Roami, you will receive a QR code via email. To install, go to your phone's settings, select 'Cellular' or 'Mobile Data', and choose 'Add eSIM'. Scan the QR code and follow the prompts. The eSIM activates automatically when you land in the UK. Remember to enable data roaming in your settings—this is required for the eSIM to work. No APN changes are needed."
+  - heading: "3. Fair Usage Policy (FUP) and data limits"
+    content: "Most UK operators enforce a Fair Usage Policy on unlimited data plans. After a certain threshold (e.g., 30 GB per month), speeds may be throttled. Roami's eSIM plans clearly state any FUP limits, so you can choose a plan that matches your usage."
+
+  - heading: "4. Network coverage in rural vs urban areas"
+    content: "EE and Vodafone offer the best rural coverage, especially in Scotland and Wales. Three and Virgin Media O2 excel in cities. Check coverage maps for your specific destinations before purchasing."
+
+  - heading: "5. eSIM compatibility and activation process"
+    content: "Roami's eSIM works with most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Activation is via QR code; no physical SIM needed. Ensure your device is unlocked."
 
 
 # City recommendation table
-city_guide_title: "Best eSIM for UK cities and regions"
-city_guide_desc: "Choose the right UK eSIM operator based on the cities and regions you plan to visit. Speed and coverage vary, so pick the one that matches your itinerary."
+city_guide_title: "City guide: The best eSIM for Großbritannien"
+city_guide_desc: "Find out which Großbritannien eSIM is the best choice for your destination city based on real network performance data from [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025)."
 city_table_headers:
 
   - "City"
 
-  - "Recommended eSIM operator"
+  - "Recommended eSIM provider"
 
-  - "Reason / characteristics"
+  - "Reason / Features"
 
 city_recommendations:
 
   - city: "London"
     carriers: "EE"
-    reason: "Fastest 5G speeds for busy areas like Oxford Street and the London Eye."
-
-  - city: "Edinburgh"
-    carriers: "EE"
-    reason: "Excellent 5G coverage around the Royal Mile and Edinburgh Castle."
+    reason: "EE leads with median download speeds above 100 Mbps and the best 5G experience. Its aggressive carrier aggregation ensures fluid performance even in crowded areas like the West End and Canary Wharf."
 
   - city: "Manchester"
     carriers: "EE"
-    reason: "Reliable high-speed connectivity in the city center and Old Trafford."
+    reason: "EE's median download speeds exceed 100 Mbps in nearly every city tested, including Manchester. Ideal for business travelers and digital nomads needing reliable high-speed internet."
 
-  - city: "Lake District"
+  - city: "Edinburgh"
     carriers: "Vodafone"
-    reason: "Widest 4G/5G coverage in rural national parks and hiking trails."
+    reason: "Vodafone ranks second in Scotland across most performance categories. Its strong rural coverage extends to the surrounding Highlands, making it perfect for travelers exploring both the city and nature."
 
-  - city: "Scottish Highlands"
-    carriers: "Vodafone"
-    reason: "Best connectivity for remote roads and small villages."
+  - city: "Cardiff"
+    carriers: "Virgin Media O2"
+    reason: "Virgin Media O2 recently re-optimized its 2100 MHz band in Cardiff, improving performance. Combined with high 5G attachment rates, it's a solid choice for reliable connectivity in the Welsh capital."
 
   - city: "Birmingham"
-    carriers: "Three UK"
-    reason: "Affordable unlimited data for budget-conscious travelers exploring the Bullring."
+    carriers: "Three"
+    reason: "Three delivers median download speeds above 50 Mbps in all 16 metro markets, including Birmingham. Its wide 5G layer offers excellent value for data-heavy users."
 
-city_guide_tip: "💡 Tip: if you use Roami’s multi‑network eSIM, your phone will automatically switch to the best local operator – no manual selection needed."
+city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best United Kingdom eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choose the best Großbritannien eSIM based on your travel scenario"
 scene_items:
 
   - icon: "🏛️"
-    title: "Sightseeing in London"
-    text: "Use EE eSIM for fast 5G to navigate the Tube, check museum opening times at the British Museum, and share photos from the London Eye instantly."
+    title: "City explorer"
+    text: "Visit London's iconic landmarks like the Tower of London, Buckingham Palace, and the British Museum. With EE's network, you'll enjoy fast speeds for maps, tickets, and social sharing."
 
   - icon: "🏞️"
-    title: "Road trip through Scotland"
-    text: "Choose Vodafone eSIM for reliable GPS and streaming on the North Coast 500, with coverage even in remote areas like Loch Ness."
+    title: "Nature lover"
+    text: "Explore the Lake District or Scottish Highlands. Vodafone's strong rural coverage ensures you stay connected for navigation and emergency calls even in remote areas."
 
-  - icon: "💼"
-    title: "Business travel to Manchester"
-    text: "EE eSIM ensures smooth video conferences and large file uploads from your hotel or co-working space in Manchester's Spinningfields district."
+  - icon: "🚗"
+    title: "Road tripper"
+    text: "Drive the North Coast 500 or through the Cotswolds. Three's competitive speeds and Vodafone's rural reach keep your playlist streaming and route updated."
 
-  - icon: "🎒"
-    title: "Budget backpacking across England"
-    text: "Three UK eSIM gives you unlimited data for social media, maps, and hostel bookings without worrying about overage charges."
+  - icon: "🏖️"
+    title: "Beach vacationer"
+    text: "Relax on the beaches of Cornwall or Brighton. Virgin Media O2's improved reliability means you can share sunset photos without interruption."
 
-scene_guide_footer: "💡 Roami United Kingdom eSIM Multi‑Network Edition automatically recognizes your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 The Roami Großbritannien eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
 
 # FAQ
-faq_title: "United Kingdom eSIM frequently asked questions"
+faq_title: "Frequently asked questions about Großbritannien eSIM"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View the complete FAQ →"
+faq_more_link_text: "More questions? View full FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Can I use a UK eSIM if my phone is locked to a US carrier?"
-    a: "Most locked phones will not accept a foreign eSIM. You need an unlocked device. Check with your carrier before traveling. For compatible devices, see our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page."
+  - q: "Can I easily top up my Großbritannien eSIM data volume if it is fully used during my trip?"
+    a: "Yes, Roami's eSIM allows instant top-ups through the app or website. You can purchase additional data packages at any time without changing your eSIM. The new data is activated immediately."
 
-  - q: "Will my UK eSIM work in Northern Ireland?"
-    a: "Yes, all UK eSIMs from EE, Vodafone, and Three UK cover Northern Ireland, including Belfast and the Giant's Causeway."
+  - q: "Does the system automatically connect to the strongest local operator in Großbritannien without manual setup?"
+    a: "Yes, Roami's eSIM is pre-configured to automatically connect to the best available network (EE, Three, Virgin Media O2, or Vodafone) based on signal strength and performance. No manual operator selection is needed."
 
-  - q: "How do I activate my UK eSIM?"
-    a: "After purchase, scan the QR code sent to your email via your phone's settings. The eSIM activates automatically upon arrival in the UK. Enable data roaming in your device settings."
+  - q: "Is there a limit on the number of connected devices when hotspot tethering with the Großbritannien eSIM?"
+    a: "Roami's eSIM supports hotspot tethering, but the number of connected devices may be limited by your plan's Fair Usage Policy. Typically, you can share your connection with up to 5 devices simultaneously. Check your specific plan details for exact limits."
 
-  - q: "Can I keep my home SIM for calls and use the UK eSIM for data?"
-    a: "Yes, you can use dual SIM mode. Set your home SIM for voice and SMS, and the UK eSIM for data. Ensure data roaming is on for the eSIM line."
+  - q: "Can the Großbritannien eSIM be used as the primary card for all mobile data connections?"
+    a: "Absolutely. Roami's eSIM can be set as your primary data line. It works alongside your physical SIM for calls and texts, or you can use it exclusively for data. Perfect for travelers who want to keep their home number active."
 
-  - q: "What happens if I run out of data on my UK eSIM?"
-    a: "You can top up your eSIM data plan through your Roami account. Additional data packs are available for purchase."
+  - q: "Is identity verification (KYC) or passport registration required to purchase and use the Großbritannien eSIM?"
+    a: "Yes, UK regulations require identity verification for eSIM purchases. You will need to provide a valid passport or national ID during the purchase process. Roami's system is secure and compliant with local KYC laws."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about United Kingdom eSIM"
+myths_title: "⚠️ Common myths and facts about the Großbritannien eSIM"
 myth_label: "❌ Myth: "
 truth_label: "✅ Fact: "
 myths:
 
-  - myth: "You need a UK address to buy a local eSIM."
-    truth: "No, eSIMs from Roami are available to international travelers without a UK address. Purchase online and activate instantly."
+  - myth: "All UK operators have the same 5G coverage."
+    truth: "False. EE leads with the best 5G experience and fastest speeds (114.1 Mbps median). Three has the widest 5G bandwidth in cities, while Vodafone and Virgin Media O2 have different strengths in rural vs urban areas."
 
-  - myth: "All UK operators have the same coverage in rural areas."
-    truth: "Coverage varies significantly. Vodafone and O2 have wider rural coverage, while EE and Three focus more on urban speed. Check coverage maps for your specific destinations."
+  - myth: "You need a UK bank account to buy an eSIM."
+    truth: "No. Roami's eSIM can be purchased with any international credit card, PayPal, or other common payment methods. No UK bank account required."
 
-  - myth: "5G is available everywhere in the UK."
-    truth: "5G is mainly concentrated in major cities and towns. Rural areas, national parks, and remote villages often rely on 4G. Vodafone has the largest 5G rural footprint."
+  - myth: "eSIMs are slower than physical SIMs."
+    truth: "False. eSIM technology is identical to physical SIMs in terms of speed. Performance depends on the operator's network, not the SIM form factor."
 
-  - myth: "UK eSIMs are more expensive than physical SIMs."
-    truth: "eSIMs often offer competitive pricing and the convenience of instant activation, eliminating the need to find a store. Many plans are comparable or cheaper than tourist physical SIMs."
+  - myth: "You can only use one eSIM at a time."
+    truth: "Many modern smartphones support multiple eSIM profiles. You can have Roami's UK eSIM active alongside another eSIM for another country, switching between them as needed."
 
-  - myth: "You need to set up APN manually for a UK eSIM."
-    truth: "No, UK eSIMs from Roami are pre-configured. Simply scan the QR code, enable data roaming, and you are connected. No APN changes are required."
+  - myth: "Unlimited data plans have no restrictions."
+    truth: "Most unlimited plans have a Fair Usage Policy. After a certain data threshold (e.g., 30 GB), speeds may be reduced. Always check the FUP before purchasing."
 
 
 # Data sources
-data_sources_title: "Data sources & methodology"
+data_sources_title: "Großbritannien mobile network data sources"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest Intelligence Q1 2024"
-    description: "Median 5G download speeds and coverage analysis for UK mobile operators across major cities and regions."
+  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025)"
+    description: "RootMetrics UK State of Mobile Union Report 2H 2025. Over 600,000 tests conducted July-December 2025. Provides median download speeds, reliability scores, and 5G performance for EE, Three, Virgin Media O2, and Vodafone."
 
-  - name: "Ofcom Connected Nations Report 2023"
-    description: "UK regulator's data on 4G and 5G population coverage by operator, including rural and urban breakdowns."
+  - name: "OpenSignal 2025"
+    description: "OpenSignal's UK Mobile Network Experience Report 2025. Provides independent analysis of 5G availability, download speeds, and video experience across UK operators."
 
-data_sources_footer: "Data from these reports helps us recommend the best eSIM operator based on real network performance and coverage in the United Kingdom."
-data_sources_note: "Network performance may vary based on location, time of day, and device. Always check the latest coverage maps for your specific itinerary."
+  - name: "Ofcom 2025"
+    description: "UK telecom regulator Ofcom's Connected Nations Report 2025. Provides official coverage maps, spectrum allocations, and performance benchmarks for all UK mobile operators."
+
+data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Roami does not guarantee specific speeds or coverage."
+data_sources_note: "Network speeds and coverage can vary based on location, device, network congestion, and other factors. Always check the latest coverage maps for your specific destinations."
 
 # CTA product card
-cta_title: "Get your United Kingdom eSIM now"
-cta_desc: "Activate instantly and stay connected across the UK without roaming fees. Choose from EE, Vodafone, or Three UK plans tailored for travelers."
-cta_button_text: "Buy United Kingdom eSIM"
+cta_title: "Secure your Großbritannien eSIM today"
+cta_desc: "Get immediate access to high-speed 5G networks across the UK. No roaming fees, instant activation, and flexible data plans. Perfect for travelers, digital nomads, and business professionals."
+cta_button_text: "Buy Großbritannien eSIM now"
 cta_button_link: "/united-kingdom-esim/"
-cta_free_trial_note: "New customer exclusive"
-cta_free_trial_text: "Free trial eSIM"
+cta_free_trial_note: "Exclusive for new customers"
+cta_free_trial_text: "Free Großbritannien trial eSIM"
 cta_free_trial_link: "/free-esim/"
 
-# No text for back-to-top button, no configuration needed
 ---
 
-# United Kingdom eSIM: Fast Activation Without Physical SIMs
+# Großbritannien eSIM: The convenient way to stay connected
 
-> **💡 Quick Summary for Travelers:** For travelers to the UK, we recommend EE eSIM for the fastest 5G speeds in London and other cities, and Vodafone eSIM for the widest coverage in rural areas like the Lake District. Both provide instant activation without a physical SIM, eliminating roaming fees. Ideal for tourists wanting reliable connectivity from arrival.
+> **💡 Short summary for travelers:** Designed for digital nomads: unlimited data solutions for multiple countries. Roami's Großbritannien eSIM gives you instant access to the UK's top networks. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025), EE leads with a median download speed of 114.1 Mbps, while Three, Virgin Media O2 and Vodafone offer competitive speeds above 44 Mbps. Whether you're working from a London coffee shop or hiking in the Scottish Highlands, Roami ensures you stay connected with no roaming fees and easy top‑ups.
 
-## Things you must know before buying a United Kingdom eSIM
+## Things you need to know before buying a Großbritannien eSIM
 
 
-### Device compatibility: Check your phone first {#device-compatibility-check-your-phone-first}
-Before purchasing a UK eSIM, ensure your smartphone supports eSIM technology. Most modern phones from Apple (iPhone XS and later), Google Pixel (3 and later), and Samsung Galaxy (S20 and later) are compatible. For a full list, visit our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page. Also, confirm that your device is unlocked from your home carrier, as locked phones may not accept a foreign eSIM.
+### 1. Main 5G/4G frequency bands in Großbritannien {#1-main-5g4g-frequency-bands-in-großbritannien}
+UK operators use a mix of bands: 700 MHz (n28), 800 MHz (n20), 1800 MHz (n3), 2100 MHz (n1), 2600 MHz (n7), and 3.5 GHz (n78) for 5G. 4G LTE bands include 800 MHz (band 20), 1800 MHz (band 3), 2100 MHz (band 1), and 2600 MHz (band 7). Ensure your device supports these bands for optimal performance.
 
-### Network coverage in the United Kingdom {#network-coverage-in-the-united-kingdom}
-The UK has four major mobile network operators: EE, Vodafone, Three UK, and O2. EE offers the fastest urban speeds, while Vodafone and O2 provide broader rural coverage. Three UK is known for affordable unlimited plans. All operators support 5G in major cities like London, Manchester, Birmingham, and Edinburgh, with ongoing expansion to smaller towns.
+### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
+In the UK, purchasing an eSIM typically requires identity verification. You may need to provide a passport or national ID number. Roami's eSIM activation is instant and compliant with local regulations, but always have your ID ready.
 
-### Activation and setup process {#activation-and-setup-process}
-After purchasing your UK eSIM from Roami, you will receive a QR code via email. To install, go to your phone's settings, select 'Cellular' or 'Mobile Data', and choose 'Add eSIM'. Scan the QR code and follow the prompts. The eSIM activates automatically when you land in the UK. Remember to enable data roaming in your settings—this is required for the eSIM to work. No APN changes are needed.
+### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
+Most UK operators enforce a Fair Usage Policy on unlimited data plans. After a certain threshold (e.g., 30 GB per month), speeds may be throttled. Roami's eSIM plans clearly state any FUP limits, so you can choose a plan that matches your usage.
+
+### 4. Network coverage in rural vs urban areas {#4-network-coverage-in-rural-vs-urban-areas}
+EE and Vodafone offer the best rural coverage, especially in Scotland and Wales. Three and Virgin Media O2 excel in cities. Check coverage maps for your specific destinations before purchasing.
+
+### 5. eSIM compatibility and activation process {#5-esim-compatibility-and-activation-process}
+Roami's eSIM works with most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Activation is via QR code; no physical SIM needed. Ensure your device is unlocked.

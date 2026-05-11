@@ -87,7 +87,7 @@
         <!-- 动态获取标题 -->
         <h1 class="text-3xl md:text-5xl font-extrabold text-slate-900 mb-4">{{ .Title }}</h1>
         <!-- 动态获取更新时间 -->
-        <p class="text-slate-500 text-lg">Last Updated: {{ .Params.last_updated }}</p>
+		<p class="text-slate-500 text-lg">{{ i18n "last_updated" }}: {{ .Params.last_updated }}</p> 
     </div>
 </header>
 

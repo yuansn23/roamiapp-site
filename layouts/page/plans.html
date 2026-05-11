@@ -64,7 +64,7 @@
               "@type": "ListItem",
               "position": {{ add $index 1 }},
               "name": "{{ .name }} {{ $.Params.ui.schema_esim_suffix | default "eSIM" }}",
-              "url": "{{ if .slug }}{{ printf "/%s-esim/" .slug | absLangURL }}{{ else }}{{ printf "/%s-esim/" (.name | urlize) | absLangURL }}{{ end }}"
+              "url": "{{ if .slug }}{{ printf "/%s-esim/" (.slug | lower) | absLangURL }}{{ else }}{{ printf "/%s-esim/" ((.name | urlize) | lower) | absLangURL }}{{ end }}"
             }
             {{ end }}
           ]
@@ -182,9 +182,9 @@
                 <li class="block">
                     {{- $destURL := "" -}}
                     {{- if .slug -}}
-                        {{- $destURL = printf "/%s-esim/" .slug | relLangURL -}}
+                        {{- $destURL = printf "/%s-esim/" (.slug | lower) | relLangURL -}}
                     {{- else -}}
-                        {{- $destURL = printf "/%s-esim/" (.name | urlize) | relLangURL -}}
+                        {{- $destURL = printf "/%s-esim/" ((.name | urlize) | lower) | relLangURL -}}
                     {{- end -}}
                     <a href="{{ $destURL }}" aria-label="{{ $.Params.ui.buy_plan_aria_prefix | default "Buy" }} {{ .name }} {{ $.Params.ui.buy_plan_aria_suffix | default "eSIM data plan" }}" class="dest-card group bg-white pt-6 pb-0 px-0 rounded-2xl border border-slate-200 text-center relative overflow-hidden flex flex-col h-full w-full" data-search="{{ lower .name }} {{ lower .code }} {{ if .alias }}{{ lower .alias }}{{ end }}">
                         {{ if .badge }}
@@ -227,7 +227,7 @@
             <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative z-10 list-none p-0 m-0" id="regionalPlansGrid">
                 {{ range .Params.regional_plans }}
                 <li class="block">
-                    <a href="{{ .url | relLangURL }}" aria-label="{{ $.Params.ui.regional_aria_prefix | default "Explore" }} {{ .name }} {{ $.Params.ui.regional_aria_suffix | default "Regional eSIM plans" }}" class="dest-card group bg-white p-6 rounded-2xl border-2 border-transparent {{ .hover_border | default "hover:border-blue-400" }} flex flex-col relative overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 h-full w-full" data-search="{{ .search_terms }}">
+                    <a href="{{ .url | lower | relLangURL }}" aria-label="{{ $.Params.ui.regional_aria_prefix | default "Explore" }} {{ .name }} {{ $.Params.ui.regional_aria_suffix | default "Regional eSIM plans" }}" class="dest-card group bg-white p-6 rounded-2xl border-2 border-transparent {{ .hover_border | default "hover:border-blue-400" }} flex flex-col relative overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 h-full w-full" data-search="{{ .search_terms }}">
                         {{ if .badge }}
                         <span class="absolute top-4 right-4 bg-red-500 text-white text-[10px] px-2.5 py-1 rounded-md font-bold shadow-sm z-10 tracking-wide">{{ .badge }}</span>
                         {{ end }}
@@ -268,9 +268,9 @@
                         <li class="block all-dest-card-wrapper" data-letter="{{ substr .name 0 1 | upper }}">
                             {{- $destURL := "" -}}
                             {{- if .slug -}}
-                                {{- $destURL = printf "/%s-esim/" .slug | relLangURL -}}
+                                {{- $destURL = printf "/%s-esim/" (.slug | lower) | relLangURL -}}
                             {{- else -}}
-                                {{- $destURL = printf "/%s-esim/" (.name | urlize) | relLangURL -}}
+                                {{- $destURL = printf "/%s-esim/" ((.name | urlize) | lower) | relLangURL -}}
                             {{- end -}}
                             <a href="{{ $destURL }}" 
                                aria-label="{{ $.Params.ui.buy_plan_aria_prefix | default "Buy" }} {{ .name }} {{ $.Params.ui.buy_plan_aria_suffix | default "eSIM data plan" }}" 

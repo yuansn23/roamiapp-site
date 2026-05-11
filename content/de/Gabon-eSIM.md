@@ -1,31 +1,30 @@
 ---
-title: Gabon eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-08T14:39:25+00:00'
+title: Gabun eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
+date: '2026-05-11T08:52:56+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Gabon eSIM
-  scenario_keywords: Sightseeing in Libreville, Safari im Loango Nationalpark, Geschäftsreise
-    Port-Gentil, Strandurlaub Pointe-Denis, Kultur in Franceville
-  operators: Airtel Gabon, Moov Africa, Gabon Telecom
-  competitors: Airalo, Holafly, Ubigi, Flexiroam, Orange Travel
+  core_keyword: Gabun eSIM
+  scenario_keywords: Sightseeing in Gabun, Geschäftsreise Gabun, Strandurlaub Gabun,
+    Safari Gabun, Kultur in Gabun
+  operators: Airtel Gabun, Moov Africa Gabun, Gabon Telecom
+  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Libreville, Port-Gentil, Franceville, Oyem, Moanda
-  main_packages: 3/7/15/30 Tage, Unbegrenzte Daten
+  main_packages: 3/7/15/30 Tage, unbegrenzte Daten
 modal:
-  title: Service Upgrade!
-  btn_text: Weiter
+  title: Service-Upgrade!
+  btn_text: Fortfahren
   text_default: |-
-    Unser eSIM-Service wurde auf <strong>PhoneSIMGo</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: esim20
+    Unser eSIM-Service wurde auf <strong>PhoneSIMGo</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
   text_android: |-
-    Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: esim20
+    Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Gabon eSIM - Günstige Daten-SIM für Libreville - Roami
-  description: Erhalten Sie sofort mobilen Internetzugang in Gabon mit unserer eSIM.
-    Keine Roaming-Gebühren, einfache QR-Code Aktivierung. Ideal für Reisen.
-  keywords: Gabon eSIM, eSIM Gabon, günstige eSIM Gabon, mobiles Internet Gabon, Daten
-    eSIM Gabon, Roami
-  low_price: 1.99
-  high_price: 39.9
+  title: Gabun eSIM | Unbegrenzte Daten | Stabiles 5G für leichte Reisen | Roami
+  description: Entdecken Sie Gabun mit Leichtigkeit. Erleben Sie keinen Roaming-Schock
+    und nahtloses zuverlässiges 5G vom lokalen Top-Betreiber. Perfekt für Familienbesuche
+    – 24/7 Support und nahtlose Abdeckung.
+  keywords: Gabun eSIM, Reise nach Gabun, Internet in Gabun, mobiles Internet Gabun,
+    Touristen eSIM Gabun
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -33,27 +32,27 @@ order_summary:
   label_daily: Tagespreis
   label_total: Gesamtpreis
   btn_primary: 20% Rabatt sichern
-  btn_secondary: 'Code: ESIM20'
+  btn_secondary: 'Code: web20'
 breadcrumbs:
 - label: Startseite
   url: /
-- label: Gabon eSIM
+- label: Gabun eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Beste eSIM für Gabon
-  title: Beste eSIM für Gabon
+  alt: Beste eSIM für Gabun
+  title: Beste eSIM für Gabun
 hero:
   flag_image: img/flags/ga.svg
-  flag_alt: Gabon Flagge
-  title: Gabon eSIM Datentarif
-  subtitle: Top-Wahl für Reisen in Gabon | Günstige Gabon eSIM | 100% Geld-zurück-Garantie
+  flag_alt: Flagge von Gabun
+  title: Gabun eSIM Datentarif
+  subtitle: Keine versteckten Gebühren | Bestseller | Hotspot unterstützt
 features:
   title: Warum Reisende Roami wählen
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Sofort-QR-Code
-    desc: Lieferung in unter 5 Min.
+    title: Sofortiger QR-Code
+    desc: Lieferung in unter 5 Minuten
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: 24/7 Support
@@ -72,13 +71,13 @@ features:
     desc: Jederzeit kündbar
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Wechsel
+    title: Auto-Auswahl
     desc: Beste lokale Netze
 plans_title: Wählen Sie Ihren Tarif
 plans_data:
   7 Tage:
   - spec: 1GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Ideal für kurze Geschäftsreisen
     price: '14.99'
     oldPrice: '22.48'
@@ -86,7 +85,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '2.14'
   - spec: 3GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Sightseeing
     price: '23.99'
     oldPrice: '35.98'
@@ -95,16 +94,16 @@ plans_data:
     daily: '3.43'
     tagIcon: star
   - spec: 5GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für tiefergehende Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für längere Reisen
     price: '34.99'
     oldPrice: '52.48'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '5.00'
   15 Tage:
   - spec: 3GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Sightseeing
     price: '25.99'
     oldPrice: '38.98'
@@ -113,24 +112,24 @@ plans_data:
     daily: '1.73'
     tagIcon: star
   - spec: 5GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für tiefergehende Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für längere Reisen
     price: '37.99'
     oldPrice: '56.98'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '2.53'
   - spec: 10GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für längere Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für noch längere Reisen
     price: '64.99'
     oldPrice: '97.48'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '4.33'
   30 Tage:
   - spec: 3GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Sightseeing
     price: '26.99'
     oldPrice: '40.48'
@@ -139,23 +138,23 @@ plans_data:
     daily: '0.90'
     tagIcon: star
   - spec: 5GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für tiefergehende Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für längere Reisen
     price: '39.99'
     oldPrice: '59.98'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '1.33'
   - spec: 10GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für längere Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für noch längere Reisen
     price: '74.99'
     oldPrice: '112.48'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '2.50'
   - spec: 20GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '99.99'
     oldPrice: '149.98'
@@ -163,7 +162,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '3.33'
   - spec: 20GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '30.99'
     oldPrice: '46.48'
@@ -172,7 +171,7 @@ plans_data:
     daily: '1.03'
   3 Tage:
   - spec: Unlimited
-    data: Unbegrenztes Highspeed-Volumen
+    data: Unbegrenzte Hochgeschwindigkeitsdaten
     desc: Sorgenfreie Datennutzung
     price: '52.99'
     oldPrice: '79.48'
@@ -180,24 +179,23 @@ plans_data:
     tagColor: bg-purple-600
     daily: '17.66'
 discount_banner:
-  title: Sonderrabatt!
+  title: Spezialrabatt!
   desc_html: |-
-    Nutzen Sie den Code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">esim20</span> beim Checkout für <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% RABATT</span>!
-  btn_text: Rabatt sichern
-  validity: 'Gültigkeit: 3 Tage'
+    Verwenden Sie den Code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> an der Kasse für <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% RABATT</span>!
+  btn_text: Rabatt speichern
+  validity: 'Gültig: 3 Tage'
 network_coverage:
-  title: Details zur Netzabdeckung
+  title: Netzabdeckungsdetails
   supports_text: 'Unterstützt:'
   service_details:
-    title: Servicedetails
+    title: Service-Details
     items:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Genießen Sie umfassende Netzabdeckung in ganz Gabon, einschließlich Städten
-        wie Libreville, Port-Gentil, Franceville und Oyem. Unsere Gabon eSIM verbindet
-        sich nahtlos mit den Netzen von Airtel Gabon, Moov Africa und Gabon Telecom
-        für stabilen Empfang.
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Gabun, einschließlich Städten
+        wie Libreville, Port-Gentil und Franceville. Unsere Gabun eSIM verbindet sich
+        nahtlos mit den Netzen von Airtel, Moov Africa und Gabon Telecom.
     - icon: zap
       color: text-amber-500
       title: Lieferzeit
@@ -210,61 +208,78 @@ network_coverage:
     title: Mobilfunknetze
     badge: Offizieller Partner
     items:
-    - name: Airtel Gabon
+    - name: Airtel Gabun
       coverage: Geringe Latenz
-      network: 4G/LTE Netzwerk
-    - name: Moov Africa
-      coverage: Hohe Zuverlässigkeit
-      network: 4G/LTE Netzwerk
-    - name: Gabon Telecom
+      network: 5G/4G/LTE Netzwerk
+    - name: Moov Africa Gabun
       coverage: Native IP
-      network: 4G/LTE Netzwerk
+      network: 5G/4G/LTE Netzwerk
 reminders:
   title: Wichtige Hinweise
   items:
   - icon: 📱
     html: |-
-      Prüfen Sie vor dem Kauf die <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-Kompatibilität</a> Ihres Handys.
+      Überprüfen Sie vor dem Kauf die <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-Kompatibilität</a> Ihres Telefons.
   - icon: ✈️
-    html: Wir empfehlen, die eSIM erst nach Ankunft in Gabon zu aktivieren.
+    html: Wir empfehlen, die eSIM erst nach der Ankunft in Gabun zu aktivieren.
   - icon: ⏰
-    html: Die Gültigkeit beginnt mit der Verbindung zum Partnernetz.
+    html: Die Gültigkeit beginnt bei Verbindung mit dem Partnernetzwerk.
   - icon: 📧
-    html: Der QR-Code wird an Ihre E-Mail gesendet.
+    html: Der QR-Code wird an Ihre E-Mail-Adresse gesendet.
   - icon: 🔄
     html: Sie können mehrere eSIMs gleichzeitig installieren.
   compatibility_check:
     title: Schneller Kompatibilitätscheck
-    desc: 'Nicht sicher? Prüfen Sie es jetzt direkt an Ihrem Handy:'
-    instruction: 'Wählen Sie auf Ihrem Tastenfeld:'
+    desc: 'Nicht sicher? Prüfen Sie es jetzt auf Ihrem Telefon:'
+    instruction: 'Wählen Sie auf Ihrer Tastatur:'
     code: '*#06#'
     result_html: |-
       Wenn eine <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>-Nummer erscheint, wird eSIM unterstützt!
 activation_steps:
-  title: Schritte zur Aktivierung
+  title: Aktivierung Ihrer Gabun eSIM in wenigen Minuten
   steps:
   - num: '1'
-    title: 'Schritt 1: QR-Code erhalten'
-    desc: Nach der Zahlung erhalten Sie den QR-Code innerhalb von 5 Minuten per E-Mail.
-      Bitte prüfen Sie auch den Spam-Ordner.
+    title: QR-Code empfangen & speichern – startklar für Gabun
+    desc: Direkt nach Ihrer Bestellung erhalten Sie eine E‑Mail mit Ihrem persönlichen
+      Aktivierungs‑QR‑Code und den Einrichtungsanweisungen. Speichern Sie den QR-Code
+      auf Ihrem Smartphone oder drucken Sie ihn aus – Sie benötigen keine aktive Internetverbindung
+      für die spätere Installation. Die eSIM ist 30 Tage gültig, Sie können sie also
+      vor Ihrer Abreise nach Gabun in aller Ruhe vorbereiten.
     is_list: false
   - num: '2'
-    title: 'Schritt 2: eSIM hinzufügen'
+    title: eSIM auf Ihrem Gerät installieren - QR-Code scannen
     is_list: true
     list_items:
-    - |-
-      Einstellungen > Mobilfunk (oder Mobile Daten)
-    - Tippen Sie auf "eSIM hinzufügen"
-    - Scannen Sie den QR-Code mit der Kamera
-    - Folgen Sie den Anweisungen zum Setup
+    - Öffnen Sie die **Einstellungen** Ihres Smartphones → **Mobilfunk / Mobile Daten**
+    - Tippen Sie auf **"eSIM hinzufügen"** oder **"Mobilfunkplan hinzufügen"**
+    - Wählen Sie **"QR-Code scannen"** und halten Sie die Kamera über den Code
+    - Das Gabun eSIM-Profil wird automatisch geladen – tippen Sie auf **"Weiter"**
+    - Vergeben Sie einen Namen (z.B. „Roami Gabun“) und wählen Sie ihn als **Standard
+      für mobile Daten**
+    - Die eSIM ist jetzt installiert, aber noch **inaktiv** – perfekt für die Reisevorbereitung
   - num: '3'
-    title: 'Schritt 3: In Gabon nutzen'
-    desc: Aktivieren Sie nach der Landung in Gabon die eSIM in den Einstellungen.
-      Wir empfehlen WLAN für die erste Aktivierung.
+    title: Vorbereitung zu Hause – ohne Risiko testen
+    desc: Nach der Installation können Sie die eSIM in den Einstellungen deaktiviert
+      lassen. Sie können sie jedoch bereits mit Ihrem heimischen WLAN testen (es werden
+      keine mobilen Daten verbraucht). Sobald Sie in Gabun landen, schalten Sie die
+      eSIM einfach ein – die Gültigkeit startet dann automatisch bei der ersten Verbindung
+      mit dem Netz von Airtel Gabun / Moov Africa Gabun. Keine versteckten Aktivierungsgebühren,
+      keine Roamingkosten.
+    is_list: false
+  - num: '4'
+    title: 'Ankunft in Gabun: sofort online mit 5G/4G'
+    desc: Sobald Sie in Gabun gelandet sind (z.B. in Flughafen Libreville, Flughafen
+      Port-Gentil, Flughafen Franceville), schalten Sie den Flugmodus aus (oder bleiben
+      Sie im Flugmodus und aktivieren Sie nur die eSIM). Gehen Sie zu **Einstellungen
+      → Mobilfunk** und aktivieren Sie Ihre Roami Gabun eSIM. Innerhalb weniger Sekunden
+      verbindet sich Ihr Gerät automatisch mit dem schnellsten verfügbaren 5G/4G-Netz
+      von Airtel Gabun / Moov Africa Gabun. Sie können sofort navigieren, WhatsApp
+      nutzen, soziale Medien checken oder einen Hotspot für andere Geräte einrichten
+      – ohne Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
 faq_section:
-  title: Gabon eSIM FAQ & Reiseführer
-  desc: Alles, was Sie über die Nutzung Ihrer Gabon eSIM in verschiedenen Reiseszenarien
+  title: Gabun eSIM FAQ & Reiseführer
+  desc: Alles, was Sie über die Verwendung Ihrer Gabun eSIM in verschiedenen Reiseszenarien
     wissen müssen.
   categories:
   - id: faq-general
@@ -272,138 +287,136 @@ faq_section:
     tab_title: Allgemein
     title: 1. Allgemeine Fragen
     questions:
-    - q: Unterstützt mein Handy die Gabon eSIM? Wie installiere ich sie?
-      a: Die meisten modernen Smartphones ab dem iPhone XS/XR, Samsung Galaxy S20+
-        und Google Pixel 3+ unterstützen eSIM. Sie können Ihre Gabon eSIM einfach
-        installieren, indem Sie den QR-Code scannen, den wir Ihnen per E-Mail senden,
-        in den Einstellungen für Mobilfunk/Mobile Daten Ihres Handys.
-    - q: Wie kaufe und aktiviere ich die Gabon eSIM? Ist sie sofort aktiv?
-      a: Sie können sie direkt auf unserer Website kaufen. Sie ist nicht sofort nach
-        dem Kauf aktiv; die Gültigkeitsdauer beginnt erst, wenn Sie in Gabon ankommen
-        und sich Ihr Handy mit dem lokalen Netzwerk verbindet.
-    - q: Was ist ein Aktivierungs-QR-Code? Läuft er ab? Kann er wiederverwendet werden?
-      a: Der QR-Code ist Ihr digitales SIM-Profil für die Gabon eSIM. Er muss in der
-        Regel innerhalb von 30 Tagen nach dem Kauf installiert werden. Einmal installiert,
-        kann er nicht erneut gescannt oder auf ein anderes Gerät übertragen werden.
-    - q: Kann ich eine Rückerstattung erhalten, wenn die Gabon eSIM nicht funktioniert
-        oder ein schlechtes Signal hat?
-      a: Ja, wir bieten eine Geld-zurück-Garantie. Wenn Sie anhaltende Netzwerkprobleme
-        in Gabon haben, die unser Support-Team nicht lösen kann, haben Sie Anspruch
-        auf eine Rückerstattung.
-    - q: Bieten Sie 24/7 Kundensupport an? Wie kann ich Sie kontaktieren?
-      a: Ja, unser technisches Support-Team ist rund um die Uhr erreichbar. Sie können
-        uns über das Live-Chat-Widget auf unserer Website oder durch Antworten auf
-        Ihre Bestellbestätigungs-E-Mail erreichen.
-    - q: Gibt es Rabattcodes? Wie verwende ich den Promo-Code 'esim20'?
-      a: Ja! Sie können den Promo-Code 'esim20' auf der Checkout-Seite eingeben, um
-        sofort 20% Rabatt auf Ihre Gabon eSIM Bestellung zu erhalten.
-    - q: Ist Ihr 'Unlimited Data' Tarif wirklich unbegrenzt? Gibt es eine Fair Usage
-        Policy (FUP)?
-      a: Unsere Unlimited-Tarife bieten kontinuierliche Daten. Wie bei allen globalen
-        Anbietern gilt jedoch eine Fair Usage Policy (FUP), um Netzwerkmissbrauch
-        zu vermeiden. Bei extrem hoher Nutzung kann die Geschwindigkeit vorübergehend
-        reduziert werden, was normales Surfen oder Social Media jedoch nicht beeinträchtigt.
-    - q: Kann ich meine Gabon eSIM-Daten teilen (Hotspot)?
-      a: Absolut. Alle unsere Gabon eSIM-Tarife unterstützen mobilen Hotspot und Tethering,
-        sodass Sie Ihre Daten mit Ihrem Laptop, Tablet oder Mitreisenden teilen können.
-    - q: Was sind die Vorteile Ihrer Gabon eSIM gegenüber lokalen SIM-Karten oder
-        anderen Anbietern?
-      a: Im Gegensatz zu physischen SIM-Karten müssen Sie nicht am Flughafen anstehen
-        oder kleine Plastikkarten wechseln. Wir arbeiten direkt mit Top-Netzen in
-        Gabon wie Airtel Gabon, Moov Africa, Gabon Telecom zusammen, um Premium-Geschwindigkeiten
-        zu einem Bruchteil der Roaming-Kosten zu gewährleisten.
-    - q: Wie schneidet Roami im Vergleich zu bekannten eSIM-Anbietern wie Numero,
-        Holafly, Airalo, mobimatter ab?
-      a: Während großartige Unternehmen wie Numero, Holafly, Airalo, mobimatter zuverlässige
-        Dienste leisten, konzentrieren wir uns auf die kosteneffizienteste Gabon eSIM
-        mit geringer Latenz und Bestpreisgarantie durch unser automatisches Preisabgleichsystem.
+    - q: Wie sicher ist die Gabun eSIM im Vergleich zu einer physischen SIM-Karte?
+      a: eSIMs sind manipulationssicherer, da sie fest im Gerät verbaut sind und nicht
+        herausgenommen oder kopiert werden können. Ihre Daten bleiben verschlüsselt
+        – kein Risiko durch verlorene oder gestohlene SIM-Karten.
+    - q: Wie aktiviere ich die Gabun eSIM und wann beginnt die Gültigkeit?
+      a: Nach dem Kauf erhalten Sie sofort einen Aktivierungs‑QR‑Code per E‑Mail.
+        Die Gültigkeit startet erst, wenn Ihr Telefon in Gabun erstmals eine Verbindung
+        zu einem der Partner-Netze (Airtel Gabun / Moov Africa Gabun) herstellt. So
+        zahlen Sie nur für die Tage, die Sie tatsächlich vor Ort sind.
+    - q: Wie kann ich meinen Datenverbrauch mit der Gabun eSIM überwachen?
+      a: Nach der Aktivierung haben Sie Zugriff auf unser Online‑Dashboard. Dort sehen
+        Sie in Echtzeit Ihren verbleibenden Datenverbrauch, die Restlaufzeit und können
+        bei Bedarf Support anfordern – jederzeit und überall.
+    - q: Wie lange ist der QR-Code für die Gabun eSIM gültig?
+      a: Der QR-Code ist 30 Tage lang gültig, nachdem wir ihn an Ihre E‑Mail gesendet
+        haben. Sie haben also ausreichend Zeit, die eSIM vor Ihrer Reise zu installieren.
+        Nach Ablauf der Frist können wir einen neuen Code ausstellen.
+    - q: Kann ich während der Nutzung der Gabun eSIM weiterhin Anrufe auf meiner heimischen
+        SIM empfangen?
+      a: Ja, Dual‑SIM‑Geräte erlauben die gleichzeitige Nutzung beider Profile. Stellen
+        Sie einfach in den Einstellungen die Roami eSIM als Standard für mobile Daten
+        ein. Anrufe und SMS laufen weiter über Ihre Heim‑SIM (Roaming kann aktiv bleiben).
+    - q: Welche Vorteile bietet die Roami eSIM gegenüber lokalen Prepaid-SIM-Karten
+        in Gabun?
+      a: Im Gegensatz zu lokalen Prepaid‑SIMs sparen Sie sich den Gang zum Shop, die
+        Passregistrierung (KYC) und die Suche nach einer passenden Aufladekarte. Mit
+        Roami aktivieren Sie die eSIM digital in unter 2 Minuten – ohne Warteschlange
+        am Flughafen.
+    - q: Welche 5G/4G-Netzwerke nutzt die Gabun eSIM und wie ist die Abdeckung?
+      a: Die Gabun eSIM arbeitet exklusiv mit Airtel Gabun / Moov Africa Gabun zusammen.
+        Sie erhalten automatisch das jeweils beste verfügbare Netz (5G/4G/LTE) mit
+        bester Abdeckung in Städten wie Berlin, München, Hamburg sowie auf dem Land
+        und entlang der Autobahnen.
+    - q: Bietet Roami auch regionale eSIMs für Reisen über Gabun hinaus an?
+      a: Ja, zusätzlich zur Gabun eSIM bieten wir Regional‑eSIM für Europa, Asien,
+        Nordamerika und weltweit an. Ideal für mehrtägige Städtereisen oder Rundreisen
+        durch mehrere Länder – ohne SIM‑Kartenwechsel.
+    - q: Was kostet die Gabun eSIM und gibt es Rabattaktionen?
+      a: Unser Gabun eSIM Tarif startet bei nur $1.99/GB. Mit dem Promo-Code 'web20'
+        erhalten Sie 20% Rabatt auf jede Bestellung – gültig für alle Tarife. Keine
+        versteckten Gebühren, keine Mindestvertragslaufzeit.
+    - q: Wie funktioniert das internationale Roaming mit der Gabun eSIM in Nachbarländern?
+      a: Die Gabun eSIM ist primär für Gabun optimiert. Für Reisen in EU‑Nachbarländer
+        empfehlen wir unsere Europa‑eSIM, die nahtloses Roaming ohne zusätzliche Kosten
+        bietet. Die reine Land‑eSIM funktioniert nicht zuverlässig außerhalb von Gabun.
   - id: faq-airport
     icon: plane
-    tab_title: Flughafen
+    tab_title: Flughäfen
     title: 2. Flughafen-Netzwerk
     questions:
-    - q: Wie bekomme ich sofort nach dem Aussteigen eine Internetverbindung?
-      a: Installieren Sie die Gabon eSIM vor Ihrem Flug. Sobald Sie an Flughäfen wie
-        Flughafen Libreville (LBV), Flughafen Port-Gentil (POG), Flughafen Franceville
-        (MVB) landen, deaktivieren Sie einfach den Flugmodus und aktivieren Sie Ihre
-        eSIM-Leitung. Sie verbindet sich in Sekunden mit dem lokalen 4G/5G-Netz.
+    - q: Wie erhalte ich sofort nach der Landung ein zuverlässiges Netz?
+      a: Installieren Sie die Gabun eSIM vor Ihrem Flug. Sobald Sie an Flughäfen wie
+        Flughafen Libreville, Flughafen Port-Gentil, Flughafen Franceville landen,
+        schalten Sie einfach den Flugmodus aus und aktivieren Sie Ihre eSIM. Sie verbindet
+        sich in Sekunden mit dem lokalen 4G/5G-Netz.
     - q: Wie kontaktiere ich meinen Abholer oder nutze Uber/Grab?
-      a: Nach der Aktivierung bei der Landung können Sie sofort Apps wie Gozem, Africab,
-        Moto Taxi nutzen, um eine Fahrt zu buchen oder WhatsApp zu verwenden, um Ihren
-        Fahrer zu kontaktieren, ohne auf unsicheres Flughafen-WLAN angewiesen zu sein.
-    - q: Wie nutze ich Google Maps zur Transportsuche am Flughafen?
-      a: Mit Ihren Gabon eSIM-Daten können Sie direkt an der Gepäckausgabe in Flughafen
-        Libreville (LBV), Flughafen Port-Gentil (POG), Flughafen Franceville (MVB)
-        Echtzeit-Fahrpläne für Züge und Busse prüfen oder den Weg zum Taxistand finden.
-    - q: Wie vermeide ich teure SIM-Karten-Touristenfallen am Flughafen?
-      a: Indem Sie unsere Gabon eSIM vorab online kaufen, umgehen Sie die teuren SIM-Kioske
+      a: Nach der Aktivierung bei der Landung können Sie sofort Apps wie Yango, Gozem,
+        Uber (begrenzt) nutzen, um eine Fahrt zu buchen, oder WhatsApp verwenden,
+        um Ihren Fahrer zu kontaktieren, ohne auf unsicheres Flughafen-WLAN angewiesen
+        zu sein.
+    - q: Wie nutze ich Google Maps/Apple Maps, um Transportmittel zu finden?
+      a: Mit Ihren Gabun eSIM-Daten können Sie direkt an der Gepäckausgabe in Flughafen
+        Libreville, Flughafen Port-Gentil, Flughafen Franceville Echtzeit-Fahrpläne
+        für Züge und Busse prüfen oder den Weg zum Taxistand finden.
+    - q: Wie vermeide ich teure SIM-Karten am Flughafen?
+      a: Indem Sie unsere Gabun eSIM vorab online kaufen, umgehen Sie die teuren SIM-Kioske
         in der Ankunftshalle komplett und sparen Zeit und Geld.
-    - q: Wie empfange ich SMS ohne lokale Nummer?
-      a: Unsere Gabon eSIM ist ein reiner Datentarif. Um SMS zu empfangen, lassen
-        Sie Ihre primäre SIM-Karte für Texte aktiv (der Empfang ist im Roaming oft
-        kostenlos) und nutzen Sie die eSIM für den gesamten Datenverkehr.
-    - q: Wie kontaktiere ich meine Familie sofort nach der Landung?
+    - q: Wie empfange ich SMS von Hotel/Autovermietung ohne lokale Nummer?
+      a: Unsere Gabun eSIM ist ein reiner Datentarif. Um SMS zu empfangen, lassen
+        Sie Ihre heimische SIM-Karte aktiviert (SMS-Empfang ist oft kostenlos im Roaming)
+        und nutzen Sie die eSIM für den gesamten Datenverkehr.
+    - q: Wie kontaktiere ich sofort meine Familie?
       a: Sobald Sie landen, können Sie iMessage, WhatsApp oder FaceTime über unsere
-        schnellen Gabon eSIM-Daten nutzen, um Ihren Lieben mitzuteilen, dass Sie sicher
+        schnellen Gabun eSIM-Daten nutzen, um Ihren Lieben mitzuteilen, dass Sie sicher
         angekommen sind.
   - id: faq-transport
     icon: car
-    tab_title: Verkehr
+    tab_title: Transport
     title: 3. Transport & Reisen
     questions:
-    - q: Wie nutze ich Google Maps für die Routenplanung?
-      a: Unsere stabile Gabon eSIM-Verbindung stellt sicher, dass Google Maps überall
-        in Gabon Echtzeit-Verkehrsdaten und Fahrpläne laden kann, was die Navigation
-        nahtlos macht.
-    - q: Wie kontaktiere ich Uber/Grab-Fahrer über die App?
-      a: Apps wie Gozem, Africab, Moto Taxi nutzen VoIP. Da Sie aktive Gabon eSIM-Daten
+    - q: Wie nutze ich Google Maps zur Routenplanung?
+      a: Unsere stabile Gabun eSIM-Verbindung stellt sicher, dass Google Maps überall
+        in Gabun Echtzeit-Verkehrsdaten und Fahrpläne laden kann.
+    - q: Wie können mich Uber/Grab-Fahrer über die App kontaktieren?
+      a: Apps wie Yango, Gozem, Uber (begrenzt) nutzen VoIP. Da Sie aktive Gabun eSIM-Daten
         haben, können Fahrer Sie direkt über die App anrufen oder benachrichtigen,
-        ohne dass eine lokale Nummer nötig ist.
+        ohne eine lokale Nummer.
     - q: Wie kaufe ich Zug- oder U-Bahn-Tickets online?
-      a: Nutzen Sie Ihre Gabon eSIM-Daten, um in lokalen Apps digitale QR-Code-Tickets
-        zu kaufen und lange Warteschlangen an Automaten zu vermeiden.
+      a: Nutzen Sie Ihre Gabun eSIM-Daten, um in lokalen Apps digitale QR-Code-Tickets
+        zu kaufen und lange Schlangen an Automaten zu vermeiden.
     - q: Wie nutze ich Google Maps für Echtzeit-Navigation im Mietwagen?
-      a: Befestigen Sie Ihr Handy und nutzen Sie Ihre Gabon eSIM. Ein 5GB oder 10GB
-        Tarif reicht völlig für eine umfangreiche GPS-Navigation während eines Roadtrips
-        in Gabon.
-    - q: Wie scanne und entsperre ich E-Scooter?
+      a: Befestigen Sie Ihr Telefon und nutzen Sie Ihre Gabun eSIM. Ein 5GB- oder
+        10GB-Tarif reicht für eine umfangreiche GPS-Navigation während eines Roadtrips
+        in Gabun.
+    - q: Wie scanne und entsperre ich E-Scooter (Lime/Bird)?
       a: Das Entsperren von E-Scootern erfordert eine schnelle Internetverbindung.
-        Unsere Gabon eSIM bietet die dafür nötige zuverlässige Abdeckung.
+        Unsere Gabun eSIM bietet die dafür nötige zuverlässige Abdeckung.
     - q: Funktionieren Fahrdienst-Apps länderübergreifend?
-      a: Ja, Ihr Account bleibt gleich. Stellen Sie nur sicher, dass Sie über unsere
-        lokale oder regionale eSIM eine aktive Internetverbindung haben, um Fahrten
-        zu buchen.
-    - q: Wie biete ich einen stabilen Hotspot für meine Familie an?
+      a: Ja, Ihr Konto bleibt gleich. Stellen Sie nur sicher, dass Sie über unsere
+        lokale oder regionale eSIM eine aktive Internetverbindung haben.
+    - q: Wie biete ich einen stabilen Hotspot für meine Familie?
       a: Aktivieren Sie einfach den 'Persönlichen Hotspot' in Ihren Einstellungen.
-        Ihre Familie kann sich mit Ihrem Gabon eSIM-Netzwerk im Zug oder Auto verbinden.
+        Ihre Familie kann sich mit Ihrem Gabun eSIM-Netzwerk im Zug oder Auto verbinden.
   - id: faq-hotels
     icon: hotel
     tab_title: Hotels
     title: 4. Hotels & Unterkünfte
     questions:
-    - q: Wie mache ich einen Self-Check-in nach einer Online-Buchung?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Ihre Gabon eSIM stellt sicher, dass Sie diese
-        Details direkt vor der Haustür abrufen können.
-    - q: Wie kontaktiere ich meinen Airbnb-Gastgeber bei der Ankunft?
+    - q: Wie mache ich einen Self-Check-in nach Buchung?
+      a: Viele moderne Unterkünfte senden Smart-Lock-Codes per E-Mail. Ihre Gabun
+        eSIM stellt sicher, dass Sie diese Details direkt vor der Haustür abrufen
+        können.
+    - q: Wie kontaktiere ich meinen Airbnb-Gastgeber bei Ankunft?
       a: Nutzen Sie die Messaging-Funktion der Airbnb-App oder WhatsApp, um Ihre Ankunftszeit
-        mit Ihrem Gastgeber über mobile Gabon eSIM-Daten abzustimmen.
+        mit Ihrem Gastgeber über mobile Gabun eSIM-Daten abzustimmen.
     - q: Wie nutze ich Google Maps, um zum Hotel zu navigieren?
-      a: Egal ob Sie im Radisson Blu Okoumé Palace Hotel, Le Méridien Re-Ndama, Hotel
-        Tchad oder einer Pension übernachten, geben Sie die Adresse in Google Maps
-        ein und nutzen Sie die Navigation Ihrer Gabon eSIM.
-    - q: Wie empfange ich Verifizierungscodes (SMS) im Hotel?
-      a: Keep your home SIM active for receiving SMS, and use the hotel Wi-Fi or your
-        Gabon eSIM data to trigger the verification code from your bank or app.
-    - q: Wie kontaktiere ich den Kundenservice schnell?
+      a: Egal ob Sie in Radisson Blu Okoumé Palace Hotel, Park Inn by Radisson Libreville,
+        Intercontinental Libreville übernachten, geben Sie die Adresse in Google Maps
+        ein und nutzen Sie die Navigation Ihrer Gabun eSIM.
+    - q: Wie empfange ich SMS-Verifizierungscodes?
+      a: Lassen Sie Ihre heimische SIM für SMS aktiv und nutzen Sie Ihre Gabun eSIM-Daten,
+        um Codes per E-Mail oder Authenticator-App zu empfangen.
+    - q: Wie kontaktiere ich schnell den Kundenservice?
       a: Nutzen Sie VoIP-Apps wie Skype oder die Chat-Funktion der Buchungs-App über
-        Ihre Hochgeschwindigkeits-Gabon eSIM-Daten.
-    - q: Wie bestelle ich Essen ins Hotel mit lokalen Apps?
-      a: Laden Sie Jumia Food, Uber Eats (eingeschränkt), Glovo (eingeschränkt) herunter
-        und nutzen Sie Ihre Gabon eSIM-Daten, um eine warme Mahlzeit direkt in die
-        Hotellobby zu bestellen.
+        Ihre Hochgeschwindigkeits-Gabun eSIM-Daten.
+    - q: Wie bestelle ich Essen mit lokalen Liefer-Apps?
+      a: Laden Sie Yango Delivery, Glovo, Jumia Food herunter und nutzen Sie Ihre
+        Gabun eSIM-Daten, um eine warme Mahlzeit direkt in die Hotellobby zu bestellen.
     - q: Wie bleibe ich nach dem Checkout mit dem Hotel in Kontakt?
-      a: Sobald Sie das Hotel-WLAN verlassen, übernimmt Ihre Gabon eSIM, sodass Sie
+      a: Sobald Sie das Hotel-WLAN verlassen, übernimmt Ihre Gabun eSIM, sodass Sie
         dem Hotel schreiben können, falls Sie etwas vergessen haben.
   - id: faq-attractions
     icon: landmark
@@ -411,94 +424,93 @@ faq_section:
     title: 5. Sehenswürdigkeiten & Unterhaltung
     questions:
     - q: Wie kaufe ich E-Tickets über GetYourGuide/Viator?
-      a: Wenn Sie Nationalpark Loango, Ivindo-Nationalpark, Pointe-Denis Strand spontan
-        besuchen möchten, können Sie Ihre Gabon eSIM-Daten nutzen, um Online-Tickets
+      a: Wenn Sie Nationalpark Loango, Palacio de la Ciencia, St. Michael's Church
+        spontan besuchen möchten, können Sie Ihre Gabun eSIM-Daten nutzen, um Online-Tickets
         zu kaufen und den Barcode direkt vorzuzeigen.
-    - q: Wie buche ich Erlebnisse auf Tripadvisor sofort?
-      a: Mit dem zuverlässigen 4G/5G Ihrer Gabon eSIM können Sie Bewertungen lesen
+    - q: Wie buche ich Erlebnisse bei Tripadvisor sofort?
+      a: Mit dem zuverlässigen 4G/5G Ihrer Gabun eSIM können Sie Bewertungen lesen
         und lokale Touren buchen, während Sie in einem Café sitzen.
-    - q: Wie nutze ich Wikipedia/Google für Informationen während der Besichtigung?
+    - q: Wie nutze ich Wikipedia/Google für Informationen während des Besuchs?
       a: Erweitern Sie Ihr kulturelles Erlebnis, indem Sie historische Fakten googeln
-        oder Museumstafeln übersetzen, während Sie Gabon erkunden.
+        oder Museumstafeln übersetzen, während Sie Gabun erkunden.
     - q: Wie finde ich den Weg zur nächsten Sehenswürdigkeit?
       a: Geben Sie Ihr nächstes Ziel in Google Maps ein; die starke Abdeckung Ihrer
-        Gabon eSIM führt Sie über die schnellste Route.
-    - q: Wie prüfe ich Wartezeiten in Freizeitparks?
-      a: Freizeitpark-Apps benötigen Internet für Live-Wartezeiten. Ihre Gabon eSIM
+        Gabun eSIM führt Sie über die schnellste Route.
+    - q: Wie prüfe ich Echtzeit-Wartezeiten in Freizeitparks?
+      a: Freizeitpark-Apps benötigen Internet für Live-Wartezeiten. Ihre Gabun eSIM
         hält Sie im gesamten Park online.
     - q: Wie greife ich auf Ticketmaster für Show-Tickets zu?
       a: Sie können sicher Last-Minute-Theaterkarten über Ticketing-Apps mit Ihren
-        Gabon eSIM-Daten kaufen.
+        Gabun eSIM-Daten kaufen.
     - q: Wie teile ich Fotos/Videos sofort auf Instagram/TikTok?
-      a: Unsere schnellen Gabon eSIM Upload-Geschwindigkeiten ermöglichen es Ihnen,
-        Reels und Fotos in Echtzeit zu posten, ohne auf das Hotel-WLAN zu warten.
+      a: Unsere schnellen Gabun eSIM-Upload-Geschwindigkeiten ermöglichen es Ihnen,
+        Reels und Fotos in Echtzeit zu posten, ohne auf Hotel-WLAN zu warten.
   - id: faq-dining
     icon: utensils
     tab_title: Gastronomie
     title: 6. Essen & Restaurants
     questions:
     - q: Wie finde ich Restaurants mit Google Maps/Tripadvisor?
-      a: Suchen Sie mit Ihrer Gabon eSIM nach 'Restaurants in der Nähe', um Bewertungen,
+      a: Suchen Sie mit Ihrer Gabun eSIM nach 'Restaurants in der Nähe', um Bewertungen,
         Öffnungszeiten und Menüfotos zu prüfen.
     - q: Wie reserviere ich Tische online?
-      a: Sichern Sie sich eine Reservierung über Online-Plattformen mit Ihrer Gabon
+      a: Sichern Sie sich eine Reservierung über Online-Plattformen mit Ihrer Gabun
         eSIM, während Sie unterwegs sind.
     - q: Wie scanne ich QR-Codes für digitale Menüs?
-      a: Viele Restaurants nutzen digitale Karten. Ihre Gabon eSIM stellt sicher,
-        dass der Code auf dem Tisch sofort geladen wird.
+      a: Viele Restaurants nutzen digitale Menüs. Ihre Gabun eSIM stellt sicher, dass
+        der Code auf dem Tisch sofort geladen wird.
     - q: Wie nutze ich die Google Translate Kamera für Speisekarten?
       a: Öffnen Sie die App und richten Sie die Kamera auf das Menü. Die Live-Übersetzung
-        erfordert eine Internetverbindung über Ihre Gabon eSIM.
+        benötigt eine Internetverbindung über Ihre Gabun eSIM.
     - q: Wie nutze ich lokale Lieferdienste?
-      a: Laden Sie lokale Apps wie Jumia Food, Uber Eats (eingeschränkt), Glovo (eingeschränkt)
-        herunter und bestellen Sie bequem über Ihre Gabon eSIM mobile Daten.
+      a: Laden Sie lokale Apps wie Yango Delivery, Glovo, Jumia Food herunter und
+        bestellen Sie bequem über Ihre Gabun eSIM-Mobildaten.
     - q: Wie bezahle ich mit Apple Pay/Google Pay?
       a: Kontaktlose Zahlungen oder lokale Methoden wie Orange Money, Airtel Money,
-        Kreditkarte erfordern einen kurzen Internet-Handshake, den Ihre Gabon eSIM
-        perfekt bewältigt.
+        Kreditkarten (Visa/Mastercard) erfordern einen kurzen Internet-Handshake,
+        den Ihre Gabun eSIM perfekt meistert.
     - q: Wie finde ich Geheimtipps von Food-Bloggern?
       a: Streamen Sie YouTube-Vlogs oder stöbern Sie in Yelp-Bewertungen mit Ihrer
-        Gabon eSIM, um kulinarische Highlights der Stadt zu finden.
+        Gabun eSIM, um kulinarische Highlights zu entdecken.
   - id: faq-social
     icon: smartphone
-    tab_title: Social
+    tab_title: Social Media
     title: 7. Social Media & Kommunikation
     questions:
     - q: Wie nutze ich WhatsApp/Telegram stabil im Ausland?
-      a: Ihre Accounts sind an Ihre Heimnummer gebunden. Mit unserer Gabon eSIM als
+      a: Ihre Accounts sind an Ihre Heimnummer gebunden. Mit unserer Gabun eSIM als
         Internetquelle können Sie genau wie zu Hause chatten und telefonieren.
-    - q: Wie lade ich Inhalte auf TikTok hoch ohne öffentliches WLAN?
-      a: Öffentliches WLAN ist oft langsam und unsicher. Unsere 4G/5G Gabon eSIM bietet
+    - q: Wie lade ich Inhalte auf TikTok hoch, ohne öffentliches WLAN?
+      a: Öffentliches WLAN ist oft langsam und unsicher. Unsere 4G/5G Gabun eSIM bietet
         die Bandbreite für schnelle Uploads.
     - q: Wie mache ich Videoanrufe mit meiner Familie?
-      a: Unsere Netzpartnerschaften garantieren, dass Videoanrufe über die Gabon eSIM
-        klar und verzögerungsfrei sind, egal wo Sie sich im Land befinden.
-    - q: Ist es sicher, soziale Accounts in öffentlichem WLAN zu nutzen?
+      a: Unsere Netzwerkpartnerschaften garantieren, dass Videoanrufe über die Gabun
+        eSIM klar und verzögerungsfrei sind, wo immer Sie sich im Land befinden.
+    - q: Ist es sicher, sich in öffentlichen WLANs in soziale Accounts einzuloggen?
       a: Öffentliches WLAN ist anfällig für Hacker. Die Nutzung Ihrer persönlichen
-        Gabon eSIM-Daten ist verschlüsselt und wesentlich sicherer.
-    - q: Wie teile ich das Netzwerk als Hotspot mit Mitreisenden?
+        Gabun eSIM-Daten ist verschlüsselt und wesentlich sicherer.
+    - q: Wie teile ich das Netzwerk als Hotspot mit Reisebegleitern?
       a: Aktivieren Sie die Hotspot-Funktion. Ihre Freunde können sich verbinden und
-        Ihr Gabon eSIM-Datenvolumen für ihre sozialen Medien nutzen.
+        Ihr Gabun eSIM-Datenvolumen für ihre sozialen Medien nutzen.
   - id: faq-crossborder
     icon: globe
-    tab_title: Grenzen
+    tab_title: Grenzüberschreitend
     title: 8. Grenzüberschreitende Reisen
     questions:
     - q: Brauche ich für jedes Land eine neue SIM-Karte?
-      a: Die Einzelland-Gabon eSIM funktioniert nur dort. Für Reisen durch mehrere
-        Länder empfehlen wir unsere Regionale eSIM (z. B. Europa eSIM).
-    - q: Wie vermeide ich Roaming-Gebühren bei Bahnfahrten über Grenzen?
+      a: Die Einzelland-Gabun eSIM funktioniert nur dort. Für Reisen durch mehrere
+        Länder empfehlen wir unsere Regionale eSIM (z.B. Europa eSIM).
+    - q: Wie vermeide ich Roaminggebühren bei Zugfahrten über Grenzen?
       a: Deaktivieren Sie 'Daten-Roaming' auf Ihrer Heim-SIM. Stellen Sie sicher,
-        dass die Gabon eSIM als primäre Datenleitung festgelegt ist.
-    - q: Wie bekomme ich Internet bei Transits in Singapur/Dubai?
+        dass die Gabun eSIM als primäre Datenleitung eingestellt ist.
+    - q: Wie bekomme ich Internet während Zwischenstopps in Singapur/Dubai?
       a: Sie können eine günstige 1GB eSIM für das Transitland kaufen, um während
-        des Zwischenstopps online zu bleiben.
-    - q: Wie bekomme ich Internet bei Kreuzfahrten?
-      a: Anstatt teures Schiffs-WLAN zu zahlen, aktivieren Sie eine lokale eSIM für
-        die Länder, in denen Sie anlegen. Sie verbindet sich, sobald Sie Landnähe
-        haben.
+        des Layovers online zu bleiben.
+    - q: Wie bekomme ich Internet auf Kreuzfahrten?
+      a: Statt teures Schiffs-WLAN zu zahlen, aktivieren Sie eine lokale eSIM für
+        die Länder, die Sie anlaufen. Sie verbindet sich, sobald Sie Landnähe haben.
     - q: Wie bleibt Google Maps bei Roadtrips online?
-      a: Mit einer Regional-eSIM wechselt Ihr Handy automatisch zum Netz des neuen
+      a: Mit einer Regional-eSIM wechselt Ihr Telefon automatisch zum Netz des neuen
         Landes, wenn Sie die Grenze überqueren, und hält Ihr GPS aktiv.
     - q: Wie verwalte ich Daten für mehrere Länder in einer App?
       a: Sie können Ihren Datenverbrauch für alle aktiven eSIMs direkt über unser
@@ -512,23 +524,22 @@ faq_section:
     title: 9. Notfälle
     questions:
     - q: Wie wähle ich lokale Notrufnummern?
-      a: 'In Gabon können Sie Notrufnummern wie Polizei: 173, Feuerwehr: 18, Notarzt:
-        1300 direkt wählen, solange Ihr Handy irgendein Mobilfunksignal empfängt,
-        unabhängig von der SIM.'
-    - q: Wie finde ich das nächste Krankenhaus bei plötzlicher Krankheit?
-      a: Ihre Gabon eSIM-Daten erlauben eine sofortige Suche auf Google Maps nach
+      a: 'In Gabun können Sie Notrufnummern wie Polizei: 1730, Feuerwehr: 18, Notarzt:
+        1300 direkt wählen, solange Ihr Telefon ein Mobilfunksignal empfängt.'
+    - q: Wie finde ich das nächste Krankenhaus?
+      a: Ihre Gabun eSIM-Daten ermöglichen eine sofortige Suche auf Google Maps nach
         'Apotheke' oder 'Krankenhaus' mit der schnellsten Route.
     - q: Wie finde ich Botschaftsinformationen bei Passverlust?
-      a: Nutzen Sie Ihre Gabon eSIM, um schnell Adresse, Notfallkontakt und Öffnungszeiten
-        Ihrer Botschaft im Internet zu finden.
+      a: Nutzen Sie Ihre Gabun eSIM, um schnell Adresse und Notfallkontakt Ihrer Botschaft
+        zu finden.
     - q: Wie kontaktiere ich die Reiseversicherung bei einem Unfall?
-      a: Nutzen Sie VoIP-Apps wie Skype oder Viber über Ihre Gabon eSIM-Daten, um
-        die Hotlines Ihrer Versicherung anzurufen.
-    - q: Wie teile ich meinen Standort in Echtzeit in unsicheren Gebieten?
-      a: Nutzen Sie 'Live-Standort teilen' in WhatsApp oder 'Wo ist?' von Apple, um
-        Ihre Koordinaten über Gabon eSIM-Daten zu senden.
+      a: Nutzen Sie VoIP-Apps wie Skype über Ihre Gabun eSIM-Daten, um die Hotlines
+        Ihrer Versicherung anzurufen.
+    - q: Wie teile ich meinen Standort in Echtzeit?
+      a: Nutzen Sie 'Live-Standort teilen' in WhatsApp oder Apples 'Wo ist?', um Ihre
+        Koordinaten über Gabun eSIM-Daten zu senden.
     - q: Wie lade ich Offline-Karten für abgelegene Gebiete?
-      a: Nutzen Sie Ihre Stadt-Abdeckung der Gabon eSIM, um Offline-Karten in Google
+      a: Nutzen Sie Ihre Stadt-Abdeckung der Gabun eSIM, um Offline-Karten in Google
         Maps zu laden, bevor Sie in Gebiete ohne Signal reisen.
   - id: faq-business
     icon: briefcase
@@ -536,87 +547,167 @@ faq_section:
     title: 10. Business & Arbeit
     questions:
     - q: Wie garantiere ich stabile Zoom/Teams-Meetings?
-      a: Unsere Gabon eSIM verbindet sich mit Premium-Netzen und bietet die Bandbreite
+      a: Unsere Gabun eSIM verbindet sich mit Premium-Netzen und bietet die Bandbreite
         und geringe Latenz für professionelle Videokonferenzen.
     - q: Wie verbinde ich mich sicher mit dem Firmen-VPN?
       a: Unsere Daten beschränken keine VPN-Protokolle. Sie können Ihr Firmen-VPN
-        sicher über das Gabon eSIM-Netzwerk starten.
+        sicher über das Gabun eSIM-Netzwerk starten.
     - q: Wie nutze ich den Hotspot für Laptops in Cafés?
-      a: Aktivieren Sie den Hotspot. Die Nutzung Ihrer Gabon eSIM ist deutlich schneller
-        und sicherer vor Cyber-Bedrohungen als offene WLAN-Netze.
+      a: Aktivieren Sie den Hotspot. Die Nutzung Ihrer Gabun eSIM ist deutlich schneller
+        und sicherer vor Cyber-Bedrohungen als offene WLANs.
     - q: Wie empfange ich 2FA-Codes für Firmen-E-Mails?
-      a: Lassen Sie Ihre Heim-SIM für SMS aktiv und nutzen Sie die Gabon eSIM-Daten
-        für den Empfang von E-Mail-Codes.
+      a: Lassen Sie Ihre heimische SIM für SMS aktiv und nutzen Sie die Gabun eSIM-Daten
+        für E-Mail-basierte Codes.
     - q: Wie lade ich große Dateien bei Kundenbesuchen hoch?
-      a: Mit 5G/4G-LTE-Geschwindigkeiten Ihrer Gabon eSIM können Sie Präsentationen
+      a: Mit 5G/4G-LTE-Geschwindigkeiten Ihrer Gabun eSIM können Sie Präsentationen
         schnell in Cloud-Dienste hochladen.
     - q: Wie nutze ich Slack/Gmail nahtlos für die Zusammenarbeit?
-      a: Ihre Gabon eSIM bietet konstante Verbindung, sodass Sie Slack-Nachrichten
+      a: Ihre Gabun eSIM bietet konstante Verbindung, sodass Sie Slack-Nachrichten
         und E-Mails sofort erhalten.
     - q: Wie aktualisiere ich Reisepläne für die Firma online?
-      a: Greifen Sie über Ihre Gabon eSIM von unterwegs auf Firmenportale zu, um HR
-        über Flugverspätungen zu informieren.
+      a: Greifen Sie über Ihre Gabun eSIM von unterwegs auf Firmenportale zu, um die
+        Personalabteilung über Flugverspätungen zu informieren.
 related_products:
   title: Ähnliche eSIM-Tarife
   items:
-  - name: USA eSIM
+  - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: united-states-esim
-  - name: UK eSIM
+  - name: Vereinigtes Königreich eSIM
     flag: img/flags/gb.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: united-kingdom-esim
   - name: Europa eSIM
     flag: img/flags/eu.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: true
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
     flag: img/flags/tr.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: turkey-esim
   - name: China eSIM
     flag: img/flags/cn.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: china-esim
   - name: Japan eSIM
     flag: img/flags/jp.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: japan-esim
-  - name: Hong Kong eSIM
+  - name: Hongkong eSIM
     flag: img/flags/hk.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: hong-kong-esim
   - name: Frankreich eSIM
     flag: img/flags/fr.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: france-esim
   - name: Spanien eSIM
     flag: img/flags/es.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: spain-esim
   - name: Deutschland eSIM
     flag: img/flags/de.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: germany-esim
   - name: Australien eSIM
     flag: img/flags/au.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
+# =============== 100% vollständige Wiederherstellung: datengesteuertes Marktvergleichsmodul ===============
+market_analysis:
+  title: "Gabon eSIM oder SIM-Karte: Was ist 2026 die beste Option?"
+  subtitle: "Lokale Prepaid-SIMs in Gabon vs. eSIM-Lösungen (2024/2025 Benchmark)"
+  citation:
+    text: "Datenquelle: Prepaid Data SIM Card Wiki (Gabon) + Webseiten lokaler Anbieter"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Gabon"
+  table_headers:
+    - "Vergleichsmatrix"
+    - "Lokale Prepaid-SIM (Marktdaten)"
+    - "Roami Gabon eSIM"
+  table_rows:
+    - icon: "store"
+      title: "Erwerb &<br>Aktivierung"
+      prepaid_title: ""
+      prepaid_desc: "SIM-Karten von Gabon Telecom und Airtel sind in Geschäften am Flughafen oder in der Stadt erhältlich; der Kauf erfordert die Vorlage von zwei Kopien des Reisepasses und des Visums, was den Prozess zeitaufwändig macht."
+      esim_title: "Sofortige digitale Lieferung"
+      esim_desc: "Umgehen Sie die lästige Suche nach Kopien von Reisepass und Visum für Gabon Telecom oder Airtel. Aktivieren Sie Ihre eSIM online innerhalb von 1 Minute vor Ihrer Abreise oder nach der Landung in Libreville."
+    - icon: "id-card"
+      title: "KYC & Realnamen-<br>Registrierung"
+      prepaid_title: ""
+      prepaid_desc: "Beide Anbieter verlangen eine strenge Identitätsprüfung: Gabon Telecom benötigt zwei Kopien von Reisepass und Visum, Airtel verlangt den Reisepass für die Registrierung."
+      esim_title: "Keine Passregistrierung nötig"
+      esim_desc: "Im Gegensatz zu Gabon Telecom, das zwei Kopien von Reisepass und Visum verlangt, benötigt Roami eSIM keine persönlichen Ausweise. Genießen Sie sofortige Konnektivität ohne Bürokratie."
+    - icon: "globe"
+      title: "Internationales<br>Roaming"
+      prepaid_title: ""
+      prepaid_desc: "Keine spezifischen Daten in der Quelle für diese Dimension. Typischerweise bieten lokale SIM-Karten in Gabon kein günstiges internationales Roaming; Roaming-Gebühren sind sehr hoch."
+      esim_title: "Weltweites Roaming inklusive"
+      esim_desc: "Während lokale SIM-Karten in Gabon teures Roaming berechnen oder gar kein Roaming anbieten, ermöglicht Roami eSIM nahtloses Roaming in über 190 Ländern zu transparenten Preisen ab $1.99/GB."
+    - icon: "calendar-xmark"
+      title: "Abrechnungszyklus &<br>verschwendete Kosten"
+      prepaid_title: ""
+      prepaid_desc: "Gabon Telecom bietet 2 GB/7 Tage für 4500 CFA, Airtel 2 GB/7 Tage für 5000 CFA; kürzere Pakete wie 1 GB/3 Tage kosten 2500 CFA, was für Kurzaufenthalte teuer ist."
+      esim_title: "Flexible Tarife ohne Verschwendung"
+      esim_desc: "Vermeiden Sie die 7-Tage-Zyklen von Gabon Telecom (2 GB/4500 CFA) oder Airtel (2 GB/5000 CFA). Roami bietet 7-Tage-Datentarife ab $1.99/GB, sodass Sie nur für das bezahlen, was Sie nutzen."
+    - icon: "wifi"
+      title: "Hotspot &<br>Geschwindigkeitsrichtlinien"
+      prepaid_title: ""
+      prepaid_desc: "Keine spezifischen Daten in der Quelle für diese Dimension. In der Regel erlauben lokale Anbieter Tethering, aber die Geschwindigkeit kann nach Verbrauch des Datenvolumens gedrosselt werden."
+      esim_title: "Uneingeschränktes Tethering"
+      esim_desc: "Im Gegensatz zu lokalen SIMs, die Tethering oft einschränken oder nach Datenverbrauch drosseln, erlaubt Roami eSIM uneingeschränktes Tethering mit voller Geschwindigkeit – ideal für Laptop-Arbeit unterwegs."
+    - icon: "credit-card"
+      title: "Aufladung & Zahlung"
+      prepaid_title: ""
+      prepaid_desc: "Aufladungen erfolgen über physische Guthabenkarten an Kiosken; Online-Zahlungen mit ausländischen Karten sind oft nicht möglich."
+      esim_title: "Weltweite Zahlungsmethoden"
+      esim_desc: "Statt auf physische Guthabenkarten angewiesen zu sein, akzeptiert Roami Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal – sicher und bequem von überall."
+    - icon: "headset"
+      title: "Kundensupport"
+      prepaid_title: ""
+      prepaid_desc: "Kundensupport ist auf Französisch verfügbar, oft nur zu Geschäftszeiten; es gibt keinen Live-Chat für Prepaid-Kunden."
+      esim_title: "24/7 Kundensupport"
+      esim_desc: "Während lokale Anbieter wie Gabon Telecom nur zu Geschäftszeiten auf Französisch unterstützen, bietet Roami rund um die Uhr mehrsprachigen Support per Chat und E-Mail."
+
+  # =============== 100% vollständige Wiederherstellung: Expertenfazit-Modul ===============
+  expert_verdict:
+    title: "Gabon eSIM oder SIM-Karte für Touristen: Welche sollten Sie wählen?"
+    cards:
+      - icon: "wifi"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "Uneingeschränktes Tethering"
+        desc: "Lokale SIMs drosseln oft die Geschwindigkeit nach Datenverbrauch oder verbieten Tethering. Roami erlaubt <b>uneingeschränktes Tethering</b> mit voller 4G/5G-Geschwindigkeit – perfekt für mobiles Arbeiten."
+      - icon: "globe"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Internationales Roaming ohne Aufpreis"
+        desc: "Lokale SIMs in Gabon haben keine günstigen Roaming-Optionen. Roami eSIM bietet <b>Roaming in über 190 Ländern</b> zu transparenten Preisen – ideal für Weiterreisen nach Kamerun oder Äquatorialguinea."
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "Umgehen Sie Gabons strenge SIM-Passanforderungen"
+        desc: "Gabon Telecom und Airtel verlangen beide die Vorlage von <b>zwei Kopien des Reisepasses und Visums</b> – ein zeitaufwändiger Prozess. Mit Roami eSIM entfällt dieser Schritt komplett."
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "Flexible Tarife vermeiden Verschwendung"
+        desc: "Gabon Telecoms 7-Tage-Paket (2 GB/4500 CFA) oder Airtels (2 GB/5000 CFA) sind teuer für Kurzaufenthalte. Roami bietet <b>7-Tage-Tarife ab $1.99/GB</b> – zahlen Sie nur für das, was Sie brauchen."
 ---

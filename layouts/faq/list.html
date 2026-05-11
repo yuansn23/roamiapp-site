@@ -11,7 +11,7 @@
     <meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
     <meta property="og:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:url" content="{{ .Permalink | lower | strings.TrimSuffix "/" }}/">
     <meta property="og:site_name" content="{{ .Site.Title }}">
     <meta property="og:image" content="{{ .Params.seo.image | absURL }}">
     
@@ -20,16 +20,16 @@
     <meta name="twitter:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
     <meta name="twitter:image" content="{{ .Params.seo.image | absURL }}">
     
-    <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="canonical" href="{{ .Permalink | lower | strings.TrimSuffix "/" }}/">
 
     {{ if .IsTranslated }}
         {{ range .AllTranslations }}
-        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink | lower | strings.TrimSuffix "/" }}/">
         {{ end }}
-        <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}">
+        <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL | lower | strings.TrimSuffix "/" }}/">
     {{ else }}
-        <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
-        <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}">
+        <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink | lower | strings.TrimSuffix "/" }}/">
+        <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL | lower | strings.TrimSuffix "/" }}/">
     {{ end }}
 
     <script type="application/ld+json">
@@ -39,10 +39,10 @@
         {
           "@type": "WebSite",
           "name": "{{ .Site.Title }}",
-          "url": "{{ .Site.BaseURL }}",
+          "url": "{{ .Site.BaseURL | lower | strings.TrimSuffix "/" }}/",
           "potentialAction": {
             "@type": "SearchAction",
-            "target": "{{ .Permalink }}?search={search_term_string}",
+            "target": "{{ .Permalink | lower | strings.TrimSuffix "/" }}/?search={search_term_string}",
             "query-input": "required name=search_term_string"
           }
         }
@@ -59,13 +59,13 @@
           "@type": "ListItem",
           "position": 1,
           "name": "{{ .Params.ui.breadcrumb_home }}",
-          "item": "{{ "/" | absLangURL }}"
+          "item": "{{ "/" | absLangURL | lower | strings.TrimSuffix "/" }}/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "{{ .Params.ui.breadcrumb_current }}",
-          "item": "{{ .Permalink }}"
+          "item": "{{ .Permalink | lower | strings.TrimSuffix "/" }}/"
         }
       ]
     }
@@ -99,7 +99,7 @@
               "name": "{{ .q | plainify }}",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "{{ .snippet | default $.Params.ui.default_snippet | plainify }} <a href=\"{{ .url | absLangURL }}\">{{ $.Params.ui.read_more_schema }}</a>"
+                "text": "{{ .snippet | default $.Params.ui.default_snippet | plainify }} <a href=\"{{ .url | absLangURL | lower | strings.TrimSuffix "/" }}/\">{{ $.Params.ui.read_more_schema }}</a>"
               }
             }
             {{- $first = false -}}
@@ -150,7 +150,7 @@
         <nav class="flex justify-center mb-4 text-sm text-blue-200" aria-label="Breadcrumb">
             <ol class="inline-flex items-center space-x-2">
                 <li class="inline-flex items-center">
-                    <a href="{{ "/" | absLangURL }}" class="hover:text-white transition-colors">{{ $ui.breadcrumb_home }}</a>
+                    <a href="{{ "/" | absLangURL | lower | strings.TrimSuffix "/" }}/" class="hover:text-white transition-colors">{{ $ui.breadcrumb_home }}</a>
                 </li>
                 <li>
                     <div class="flex items-center">
@@ -201,13 +201,13 @@
                 <ul class="flex flex-wrap gap-2 mb-4 list-none p-0 m-0">
                     {{ range first 6 $freeEsims }}
                     <li>
-                        <a href="{{ .url | absLangURL }}" class="text-xs bg-white border border-blue-200 hover:border-blue-500 hover:text-blue-600 text-slate-700 px-2.5 py-1.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm" title="{{ .country }} {{ $ui.free_esim_trial_title_suffix }}">
+                        <a href="{{ .url | absLangURL | lower | strings.TrimSuffix "/" }}/" class="text-xs bg-white border border-blue-200 hover:border-blue-500 hover:text-blue-600 text-slate-700 px-2.5 py-1.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm" title="{{ .country }} {{ $ui.free_esim_trial_title_suffix }}">
                             <span aria-hidden="true">{{ .emoji }}</span> {{ .country }}
                         </a>
                     </li>
                     {{ end }}
                 </ul>
-                <a href="{{ .url | absLangURL }}" class="block w-full text-center text-xs font-semibold bg-blue-600 hover:bg-blue-700 text-white py-2.5 rounded-lg transition-colors shadow-sm">
+                <a href="{{ .url | absLangURL | lower | strings.TrimSuffix "/" }}/" class="block w-full text-center text-xs font-semibold bg-blue-600 hover:bg-blue-700 text-white py-2.5 rounded-lg transition-colors shadow-sm">
                     {{ .btn_text }}
                 </a>
             </div>
@@ -257,7 +257,7 @@
                                             </span>
                                             {{ $.Params.free_esim_promo.box_title }}
                                         </h4>
-                                        <a href="{{ $.Params.free_esim_promo.see_all_url | absLangURL }}" class="text-xs font-semibold text-blue-600 hover:text-blue-800 flex items-center gap-1">
+                                        <a href="{{ $.Params.free_esim_promo.see_all_url | absLangURL | lower | strings.TrimSuffix "/" }}/" class="text-xs font-semibold text-blue-600 hover:text-blue-800 flex items-center gap-1">
                                             {{ $.Params.free_esim_promo.see_all }}
                                             <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
                                         </a>
@@ -266,7 +266,7 @@
                                         {{ range $idx, $esim := $freeEsims }}
                                         {{ $c := index $cardColors (mod $idx (len $cardColors)) }}
                                         <li>
-                                            <a href="{{ .url | absLangURL }}" title="{{ .country }} {{ $ui.free_esim_suffix }}" class="group block {{ $c.bg }} border {{ $c.border }} rounded-lg p-3 {{ $c.hoverBorder }} hover:shadow-sm transition-all duration-200 h-full">
+                                            <a href="{{ .url | absLangURL | lower | strings.TrimSuffix "/" }}/" title="{{ .country }} {{ $ui.free_esim_suffix }}" class="group block {{ $c.bg }} border {{ $c.border }} rounded-lg p-3 {{ $c.hoverBorder }} hover:shadow-sm transition-all duration-200 h-full">
                                                 <div class="flex items-center gap-2 mb-1.5">
                                                     <span class="text-xl group-hover:scale-110 transition-transform" aria-hidden="true">{{ .emoji }}</span>
                                                     <h5 class="text-sm font-bold text-slate-900 {{ $c.hoverText }} transition-colors">{{ .country }} {{ $ui.free_esim_suffix }}</h5>
@@ -297,7 +297,7 @@
                                 <div class="w-full h-px bg-slate-100 mb-4" aria-hidden="true"></div>
                                 <p class="text-slate-600 text-sm leading-relaxed mb-4">{{ .snippet | default $ui.default_snippet }}</p>
                                 <div class="mt-4 pt-4 border-t border-slate-50 flex items-center justify-between">
-                                    <a href="{{ .url | absLangURL }}" aria-label="{{ $ui.read_full_guide_aria_prefix }} {{ .q }}" class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors">
+                                    <a href="{{ .url | absLangURL | lower | strings.TrimSuffix "/" }}/" aria-label="{{ $ui.read_full_guide_aria_prefix }} {{ .q }}" class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors">
                                         {{ $ui.read_full_guide }}
                                         <svg aria-hidden="true" class="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
                                     </a>
@@ -312,7 +312,6 @@
         </div>
     </main>
 </section>
-
 <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 mt-8 mb-8 border-t border-slate-200">
     <div class="text-center mb-10">
         <h2 class="text-2xl md:text-3xl font-bold text-slate-900 mb-3">{{ .Params.related_products.title }}</h2>
@@ -323,9 +322,14 @@
     <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4 list-none p-0 m-0">
         {{ range .Params.related_products.items }}
         <li>
-            {{/* 核心逻辑：自动生成多语言产品链接 */}}
-            {{ $prodLink := printf "/%s-esim/" (replace (lower .name) " esim" "") | absLangURL }}
-            <a href="{{ $prodLink }}" class="relative flex flex-col items-center justify-center p-5 rounded-2xl border {{ if .is_highlight }}border-blue-400 bg-blue-50/30{{ else }}border-slate-100 bg-white{{ end }} hover:border-blue-500 hover:shadow-md hover:-translate-y-1 transition-all duration-300 group h-full">
+            {{/* 优先使用 slug 字段，否则自动从 name 生成。强制小写 + 尾部斜杠 */}}
+            {{ $prodLink := "" }}
+            {{ if .slug }}
+                {{ $prodLink = printf "/%s/" (.slug | lower) | absLangURL | lower | strings.TrimSuffix "/" }}
+            {{ else }}
+                {{ $prodLink = printf "/%s-esim/" (replace (lower .name) " esim" "") | absLangURL | lower | strings.TrimSuffix "/" }}
+            {{ end }}
+            <a href="{{ $prodLink }}/" class="relative flex flex-col items-center justify-center p-5 rounded-2xl border {{ if .is_highlight }}border-blue-400 bg-blue-50/30{{ else }}border-slate-100 bg-white{{ end }} hover:border-blue-500 hover:shadow-md hover:-translate-y-1 transition-all duration-300 group h-full">
                 {{ if .is_highlight }}
                 <span class="absolute top-0 right-0 -mt-2 -mr-2 flex h-4 w-4" aria-hidden="true">
                   <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>

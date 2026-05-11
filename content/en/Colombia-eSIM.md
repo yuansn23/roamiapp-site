@@ -1,15 +1,15 @@
 ---
 title: Colombia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-04-20T00:00:00+00:00'
+date: '2026-03-29T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: Colombia eSIM
-  scenario_keywords: coffee region tours, Amazon rainforest exploration, Caribbean
-    beach vacations, Andean mountain trekking, cultural city breaks
+  scenario_keywords: Colombia sightseeing, Amazon jungle travel, Cartagena beach vacation,
+    Bogotá city tour, coffee region travel
   operators: Claro, Movistar, Tigo
-  competitors: Airalo, Holafly, Nomad, Ubigi, Maya Mobile
-  main_cities: Bogotá, Medellín, Cali, Barranquilla, Cartagena
+  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
+  main_cities: Bogotá, Medellín, Cartagena, Cali, Barranquilla
   main_packages: 3/7/15/30 Days, Unlimited Data
 modal:
   title: Service Upgraded!
@@ -23,8 +23,8 @@ seo:
   description: Heading to Colombia soon? Stay connected via Top Local Carrier Seamless
     5G with 24/7 Data. Ideal for Visiting Family. Enjoy No Hidden Charges with Multi-Country
     Roaming.
-  keywords: Colombia eSIM, unlimited data Colombia, 5G Colombia, local carrier Colombia,
-    travel eSIM Colombia, roaming Colombia, prepaid eSIM Colombia
+  keywords: Colombia eSIM, prepaid eSIM Colombia, best eSIM for Colombia travel, cheap
+    Colombia eSIM, buy Colombia eSIM
   low_price: 1.99
   high_price: 39.9
 order_summary:
@@ -41,40 +41,40 @@ breadcrumbs:
 - label: Colombia eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best value Colombia eSIM
-  title: Best value Colombia eSIM
+  alt: Best eSIM for Colombia
+  title: Best eSIM for Colombia
 hero:
   flag_image: img/flags/co.svg
   flag_alt: Colombia Flag
-  title: Colombia eSIM Data Plan
-  subtitle: Travel with Ease | Priority 5G Access | High-Speed 5G Network
+  title: Colombia eSIM data plan
+  subtitle: Instant delivery | Hotspot supported | No ID required
 features:
-  title: Perfect for Your Colombia Trip
+  title: Why Travelers Choose Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: QR in 5 mins
-    desc: Get connected before you land in Bogotá
+    title: Instant QR Code
+    desc: Delivered within 5 mins
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: Localized Support
-    desc: Help tailored to Colombia networks and regions
-  - icon: radio-tower
-    color: from-blue-400 to-blue-600
-    title: Smart Network Switch
-    desc: 'Auto-connect to strongest signal: Claro or Movistar'
+    title: 24/7 Support
+    desc: Always here to help you
+  - icon: shield-check
+    color: from-amber-400 to-amber-600
+    title: Not Available
+    desc: Money-back protection
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot for Group Travel
-    desc: Share with family on Colombia trips
+    title: Hotspot Supported
+    desc: Share with other devices
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: Colombia-Ready Flexibility
-    desc: No lock-in, perfect for vacation trips
-  - icon: map
-    color: from-amber-400 to-amber-600
-    title: Coverage Optimized
-    desc: Best performance in Bogotá, Medellín, and Cali
+    title: No Contracts
+    desc: Cancel anytime, freely
+  - icon: radio-tower
+    color: from-blue-400 to-blue-600
+    title: Auto-Switch
+    desc: Connect to top carriers
 plans_title: Choose Your Plan
 plans_data:
   7 Days:
@@ -269,7 +269,7 @@ network_coverage:
       color: text-brand-500
       title: Coverage
       desc: Enjoy comprehensive network coverage across Colombia, including major
-        cities like Bogotá, Medellín, Cali, and Cartagena. Our Colombia eSIM seamlessly
+        cities like Bogotá, Medellín, Cartagena, and Cali. Our Colombia eSIM seamlessly
         connects to the robust networks of Claro, Movistar, and Tigo, ensuring stable
         signals in urban centers, tourist hotspots, and along major transportation
         routes.
@@ -291,312 +291,431 @@ network_coverage:
     - name: Movistar
       coverage: Reliability
       network: 5G/4G/LTE Network
+    - name: Tigo
+      coverage: Native IP
+      network: 5G/4G/LTE Network
 reminders:
-  title: Things to Keep in Mind
+  title: Important Reminders
   items:
   - icon: 📱
     html: |-
-      Make sure your device is unlocked and <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">supports eSIM technology</a>.
+      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Colombia.
   - icon: ⏰
-    html: Your plan's time begins the moment it connects to a local network.
+    html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email instantly.
+    html: The QR code will be sent to your email.
   - icon: 🔄
-    html: Keep your physical SIM active while using our eSIM for data.
+    html: You can install multiple eSIMs simultaneously.
   compatibility_check:
-    title: Verify Device Compatibility
-    desc: 'Follow this quick step to verify your phone''s capability:'
-    instruction: 'Simply type this code into your phone app:'
+    title: Quick Compatibility Check
+    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
+      right now:'
+    instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: |-
-      Seeing an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> means your phone is ready for an eSIM.
+      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
     desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes.
+      within 5 minutes. Please check your spam folder if you don't see it.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
     - |-
-      Go to Settings > Cellular
-    - Tap 'Add eSIM'
-    - Scan the QR code
-    - Follow prompts
+      Go to Settings > Cellular (or Mobile Data)
+    - Tap "Add Cellular Plan" or "Add eSIM"
+    - Scan the QR code with your camera
+    - Follow the prompts to complete setup
   - num: '3'
     title: 'Step 3: Activate in Colombia'
     desc: Upon arriving in Colombia, enable your Colombia eSIM in settings to start
-      using data.
+      using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: Colombia Travel eSIM & Data Guide
-  desc: Frequently asked questions by travelers about using prepaid data and staying
-    connected in Colombia.
+  title: Colombia eSIM FAQ & Travel Guide
+  desc: Everything you need to know about using your Colombia eSIM across different
+    travel scenarios.
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
     title: 1. General Questions
     questions:
-    - q: Is my phone compatible with this mobile data package?
-      a: Most modern smartphones (iPhone XS and newer, Samsung Galaxy S20+, Pixel
-        3+) are fully compatible. You can easily install the Colombia profile by scanning
-        the QR code we email you.
-    - q: How does your service compare to DENT, Holafly, GoMoWorld, Airalo in Colombia?
-      a: While providers like DENT, Holafly, GoMoWorld, Airalo are well-known, we
-        focus on aggressive pricing and direct partnerships with Claro, Movistar,
-        Tigo to give you lower latency and better value for your money.
-    - q: Can I install the Colombia profile before my travel date?
-      a: We highly recommend installing the QR code while you are still at home with
-        a stable Wi-Fi connection. It will remain dormant until you land.
-    - q: Do I need to provide my passport or ID to buy this travel internet plan?
-      a: No eKYC or identity verification is required. You can purchase and install
-        your Colombia data plan instantly and anonymously.
-    - q: When does my prepaid Colombia data plan actually activate?
-      a: Your plan won't start the moment you buy it. The validity period only begins
-        when you physically arrive in Colombia and your phone connects to the local
-        network.
+    - q: Does my phone support the Colombia eSIM? How do I install it?
+      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
+        Google Pixel 3+ support eSIM. You can install your Colombia eSIM simply by
+        scanning the QR code we send to your email in your phone's Cellular/Mobile
+        Data settings.
+    - q: How to buy and activate the Colombia eSIM? Is it active immediately?
+      a: You can purchase it directly on our website. It is not active immediately
+        upon purchase; the validity period only starts when you arrive in Colombia
+        and your phone connects to the local network.
+    - q: What is an activation QR code? Does it expire? Can it be reused?
+      a: The QR code is your digital SIM profile for the Colombia eSIM. It typically
+        needs to be installed within 30 days of purchase. Once installed, it cannot
+        be scanned again or transferred to another device.
+    - q: Can I get a refund if the Colombia eSIM doesn't work or has a poor signal?
+      a: Yes, we offer a money-back guarantee. If you experience persistent network
+        issues in Colombia that our support team cannot resolve, you are eligible
+        for a refund.
+    - q: Do you provide 24/7 customer support? How can I contact you?
+      a: Yes, our technical support team is available 24/7. You can reach us via the
+        live chat widget on our website or by replying to your order confirmation
+        email.
+    - q: Are there any discount codes? How to use the 'web20' promo code?
+      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
+        receive a 20% discount on your Colombia eSIM order.
+    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
+        (FUP)?
+      a: Our Unlimited plans provide continuous data. However, like all global carriers,
+        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
+        an exceptionally high amount of data in a short period, speeds may be temporarily
+        reduced. Even so, it will not affect your web browsing, social media usage,
+        watching videos, etc.
+    - q: Can I share my Colombia eSIM data (hotspot) with other devices?
+      a: Absolutely. All our Colombia eSIM plans support mobile hotspot and tethering,
+        allowing you to share your data with your laptop, tablet, or travel companions.
+    - q: What are the advantages of your Colombia eSIM compared to local SIM cards
+        or other providers?
+      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
+        small plastic cards. We partner directly with top local networks in Colombia,
+        such as Claro, Movistar, Tigo, to ensure premium speeds at a fraction of roaming
+        costs.
+    - q: How do you compare with well-known eSIM providers like Holafly, Airalo, Yesim,
+        mobimatter?
+      a: While great companies like Holafly, Airalo, Yesim, mobimatter offer reliable
+        services, we focus on providing the most cost-effective Colombia eSIM, ensuring
+        lower latency and better prices with our automatic price-matching system.
   - id: faq-airport
     icon: plane
     tab_title: Airports
-    title: 2. Arriving at the Airport
+    title: 2. Airport Network
     questions:
-    - q: Can I activate my mobile data package while waiting at baggage claim?
-      a: Definitely. As long as the profile is installed, turning on the line will
-        instantly connect you, bypassing the need for slow, congested airport Wi-Fi.
-    - q: Will I have internet access as soon as I land at El Dorado International
-        Airport (BOG), José María Córdova International Airport (MDE), Rafael Núñez
-        International Airport (CTG)?
-      a: Yes! If you installed the profile before your flight, simply turn off Airplane
-        Mode upon landing at El Dorado International Airport (BOG), José María Córdova
-        International Airport (MDE), Rafael Núñez International Airport (CTG). It
-        will automatically connect to the local 4G/5G network within seconds.
-    - q: Can I complete my online customs declaration upon arrival?
-      a: Absolutely. Your instant data connection allows you to quickly fill out any
-        digital arrival cards or health declarations required by Colombia immigration.
-    - q: Will the signal drop inside the terminal at El Dorado International Airport
-        (BOG), José María Córdova International Airport (MDE), Rafael Núñez International
-        Airport (CTG)?
-      a: Our partner networks (Claro, Movistar, Tigo) provide excellent indoor coverage,
-        ensuring you stay connected even deep inside the airport terminals.
-    - q: Will I be able to use Uber, Cabify, Beat right outside the airport?
-      a: Yes, with your Colombia data active, you can immediately open Uber, Cabify,
-        Beat to book a ride to your hotel without buying an expensive tourist SIM
-        at the arrivals hall.
-    - q: Can I buy this digital SIM for Colombia at the airport kiosk?
-      a: Our plans are 100% digital. You can buy it online right now and receive it
-        via email instantly, saving you from queuing at physical SIM card kiosks after
-        a long flight.
+    - q: How to get a reliable network immediately after getting off the plane?
+      a: Install the Colombia eSIM before your flight. Once you land at El Dorado
+        International Airport (Bogotá), José María Córdova International Airport (Medellín),
+        Rafael Núñez International Airport (Cartagena), simply turn off Airplane Mode
+        and enable your eSIM line. It will connect to the local 4G/5G network within
+        seconds.
+    - q: How to contact my airport pickup driver or use Uber/Grab?
+      a: With your Colombia eSIM activated upon landing, you can immediately open
+        Uber, Didi, Cabify to book a ride or use WhatsApp to message your pre-booked
+        driver without relying on spotty airport Wi-Fi.
+    - q: How to use Google Maps/Apple Maps to find transport?
+      a: Your high-speed Colombia eSIM data allows you to open Google Maps right at
+        the baggage claim in El Dorado International Airport (Bogotá), José María
+        Córdova International Airport (Medellín), Rafael Núñez International Airport
+        (Cartagena) to check real-time train schedules, bus routes, or walking directions
+        to the taxi stand.
+    - q: How to avoid buying expensive temporary SIM cards at the airport?
+      a: By purchasing our Colombia eSIM online beforehand, you completely bypass
+        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
+    - q: How to receive hotel/car rental SMS without a local number?
+      a: Our Colombia eSIM provides data only. To receive SMS, keep your home country's
+        primary SIM active for texts (receiving SMS is usually free while roaming)
+        and use the eSIM for all data traffic.
+    - q: How to immediately contact family to report safety and plan the itinerary?
+      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
+        our fast Colombia eSIM cellular data to let your family know you've arrived
+        safely.
   - id: faq-transport
     icon: car
     tab_title: Transport
-    title: 3. Navigation & Transport
+    title: 3. Transport & Travel
     questions:
-    - q: Can I rely on this data plan for a road trip across Colombia?
-      a: Yes. A 5GB or 10GB plan provides more than enough reliable data for extensive
-        GPS navigation and streaming music while driving through Colombia.
-    - q: Does the coverage extend to remote highways in Colombia?
-      a: We partner with Claro, Movistar, Tigo, who boast the widest nationwide coverage,
-        ensuring you stay connected on most major highways and rural routes.
-    - q: How much data does Google Maps use while driving?
-      a: Google Maps uses very little data (about 5-10 MB per hour). A standard digital
-        SIM for Colombia will easily cover weeks of heavy navigation.
-    - q: Do I need a local phone number to use Uber, Cabify, Beat?
-      a: No, apps like Uber, Cabify, Beat primarily use internet data for booking
-        and in-app messaging. Your tourist eSIM provides all the connectivity you
-        need to hail rides.
-    - q: Can I buy digital train or subway tickets on my phone?
-      a: Yes, you can use your fast mobile data to access local transit apps and purchase
-        QR-code tickets on the go, helping you skip the long lines at the stations.
-    - q: Will I be able to check live bus schedules?
-      a: Definitely. You can use local transit apps or Google Maps to track live bus
-        arrivals and departures without relying on bus stop Wi-Fi.
+    - q: How to use Google Maps/Apple Maps to plan routes?
+      a: Our stable Colombia eSIM connection ensures Google Maps can download real-time
+        traffic data and transit schedules anywhere in Colombia, making navigation
+        seamless.
+    - q: How to let Uber/Grab drivers contact you via the app?
+      a: Apps like Uber, Didi, Cabify use VoIP (internet calling) and in-app messaging.
+        Since you have active Colombia eSIM data, drivers can call or message you
+        directly through the app without needing a local phone number.
+    - q: How to buy train/subway passes online?
+      a: You can use your Colombia eSIM data to access local transit apps or websites
+        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
+        machines.
+    - q: How to use Google Maps for real-time navigation after renting a car?
+      a: Simply mount your phone and use your Colombia eSIM data. A 5GB or 10GB plan
+        provides more than enough data for extensive GPS navigation during a road
+        trip in Colombia.
+    - q: How to scan and unlock shared e-scooters like Lime/Bird?
+      a: Unlocking e-scooters requires a fast internet connection to process the QR
+        code and payment. Our Colombia eSIM provides the reliable urban coverage needed
+        for this.
+    - q: How to ensure ride-hailing apps work normally across multiple countries?
+      a: If you are traveling regionally, your ride-hailing app account remains the
+        same. Just ensure you have an active internet connection (via our local or
+        regional eSIM) to book rides.
+    - q: How to provide a stable personal hotspot for family devices?
+      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
+        connect their phones or iPads to your Colombia eSIM's data network while on
+        the train or in the car.
   - id: faq-hotels
     icon: hotel
     tab_title: Hotels
-    title: 4. Accommodation
+    title: 4. Hotels & Accommodation
     questions:
-    - q: Will I have a signal in high-rise hotel rooms in Colombia?
-      a: Yes, our network partners (Claro, Movistar, Tigo) provide strong urban coverage
-        that easily penetrates most high-rise hotel buildings.
-    - q: Can I use this digital SIM for Colombia to do self-check-in at my Airbnb
-        or hotel?
-      a: Yes. Many modern rentals and hotels like Four Seasons Hotel Casa Medina Bogotá,
-        Sofitel Legend Santa Clara Cartagena, The Charlee Hotel Medellín require you
-        to access a smart lock code via email or an app. Your data plan ensures you
-        can retrieve these details right at the doorstep.
-    - q: Is it safer to book flights using this travel internet plan rather than hotel
-        Wi-Fi?
-      a: Yes, booking flights involves sensitive credit card information. Your personal
-        cellular connection is encrypted, making it much safer than shared hotel networks.
-    - q: Can I use this mobile data package to cast videos to the hotel Smart TV?
-      a: Yes, you can use your mobile hotspot feature to connect the hotel TV to your
-        personal network, bypassing restrictive hotel Wi-Fi firewalls.
-    - q: Is the data fast enough to stream Netflix in my hotel room?
-      a: Absolutely. If you purchase a plan with sufficient data, our high-speed connection
-        easily supports HD video streaming on platforms like Netflix or YouTube.
-    - q: Can I leave my phone as a hotspot in the room for my family?
-      a: Yes, you can leave your device plugged in and broadcasting a hotspot, allowing
-        your family members to connect their tablets or laptops.
-    - q: Can I receive bank SMS codes while using hotel Wi-Fi and this eSIM?
-      a: Yes! Keep your primary home SIM turned on for receiving SMS (usually free
-        while roaming), and use the Colombia eSIM for all your data needs.
+    - q: How to do self-check-in after booking on Booking.com/Agoda?
+      a: Many modern rentals require you to access an online portal or check your
+        email for a smart lock code. Your Colombia eSIM ensures you can retrieve these
+        details right at the doorstep.
+    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
+      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
+        your arrival time with your host using your Colombia eSIM mobile data.
+    - q: How to use Google Maps to navigate to the hotel?
+      a: Whether you are staying at Hotel Charleston Santa Teresa (Cartagena), Four
+        Seasons Hotel Casa Medina (Bogotá), The Charlee Hotel (Medellín) or a local
+        guesthouse, you can input the address into Google Maps and get turn-by-turn
+        walking or transit directions using your Colombia eSIM.
+    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
+      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
+        your Colombia eSIM data to trigger the verification code from your bank or
+        app.
+    - q: How to quickly contact Booking/hotel customer service to change orders?
+      a: You can use VoIP apps like Skype or the customer service chat features within
+        the Booking.com app using your high-speed Colombia eSIM data.
+    - q: How to order food to the hotel using local delivery apps?
+      a: If you arrive late, you can download Rappi, Domicilios.com, Ifood and use
+        your Colombia eSIM data to order a hot meal directly to your hotel lobby or
+        room.
+    - q: How to maintain network connection to communicate with the hotel after checkout?
+      a: Once you leave the hotel's Wi-Fi zone, your Colombia eSIM automatically takes
+        over, allowing you to message the hotel if you forgot luggage or need to arrange
+        a later pickup.
   - id: faq-attractions
     icon: landmark
     tab_title: Attractions
-    title: 5. Sightseeing & Tours
+    title: 5. Attractions & Entertainment
     questions:
-    - q: Can I use Google Translate for museum plaques or signs?
-      a: Yes, the live camera translation feature requires a steady internet connection,
-        which your Colombia data plan handles perfectly.
-    - q: Is the upload speed good enough to post videos from Colombia?
-      a: Yes, our 4G/5G connections offer excellent upload speeds, meaning you can
-        post high-quality Instagram Stories or TikToks in real-time while sightseeing.
-    - q: Can I check the weather forecast before heading out for the day?
-      a: Yes, you can instantly check live weather radar apps to plan your itinerary
-        and avoid sudden rain showers.
-    - q: Can I buy skip-the-line tickets online while standing outside Ciudad Perdida
-        (Lost City), Cartagena's Walled City, Salt Cathedral of Zipaquirá?
-      a: Definitely. With your high-speed travel internet plan, you can spontaneously
-        purchase digital tickets on GetYourGuide or Viator and scan the barcode from
-        your screen.
-    - q: Is it easy to look up historical facts while touring?
-      a: With instant internet access, you can quickly Google historical contexts
-        or Wikipedia pages to enrich your sightseeing experience.
-    - q: Does the signal drop inside old stone buildings or cathedrals?
-      a: While thick stone walls can weaken any cellular signal, our premium network
-        partners provide the best possible indoor penetration in Colombia.
-    - q: Can I live-stream my visit to my family back home?
-      a: Yes, our stable 5G/4G network allows for smooth, uninterrupted live streaming
-        on platforms like YouTube, Instagram, or Facebook.
-    - q: How can I find my friends if we get separated in a crowded tourist spot?
-      a: With your active data connection, you can instantly share your live location
-        via WhatsApp or Apple Maps to reunite with your group.
+    - q: How to buy electronic tickets via GetYourGuide/Viator?
+      a: If you decide to visit Cartagena's Walled City, Tayrona National Natural
+        Park, Cocora Valley spontaneously, you can use your Colombia eSIM data to
+        buy skip-the-line tickets online and present the barcode on your screen.
+    - q: How to immediately book experiences on Tripadvisor?
+      a: With reliable 4G/5G from your Colombia eSIM, you can read reviews and book
+        local tours or experiences on Tripadvisor while having coffee at a nearby
+        cafe.
+    - q: How to use Google/Wikipedia to look up information during the visit?
+      a: Enhance your cultural experience by instantly Googling historical facts or
+        translating museum plaques while exploring Colombia.
+    - q: How to use Google Maps to navigate to the next attraction?
+      a: Simply type your next destination into Google Maps; the strong urban coverage
+        of your Colombia eSIM will guide you via the fastest walking or transit route.
+    - q: How to check real-time queue times at theme parks like Disney?
+      a: Theme park apps require constant internet access to display live wait times
+        and book fast passes. Your Colombia eSIM will keep you connected throughout
+        the park.
+    - q: How to access Ticketmaster to book show tickets?
+      a: You can securely browse and purchase last-minute theater or concert tickets
+        through ticketing apps using your Colombia eSIM cellular data.
+    - q: How to instantly share photos/videos to Instagram/Facebook?
+      a: Our fast Colombia eSIM upload speeds mean you can post high-quality stories,
+        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
   - id: faq-dining
     icon: utensils
     tab_title: Dining
-    title: 6. Food & Dining
+    title: 6. Dining & Restaurants
     questions:
-    - q: Can I check if a restaurant accommodates dietary restrictions?
-      a: With instant internet access, you can quickly browse a restaurant's website
-        or message them on social media to confirm their menu options.
-    - q: How can I translate a menu that is entirely in the local language?
-      a: Open the Google Translate app and use the camera feature. Your Colombia data
-        plan will instantly translate the text on your screen.
-    - q: Can I order a coffee ahead of time using a local cafe app?
-      a: Yes, you can use your mobile data to order and pay ahead, allowing you to
-        skip the queue when you arrive at the cafe.
-    - q: Can I use apps to split the bill with my friends?
-      a: Yes, you can use apps like Splitwise or Venmo at the dinner table, as your
-        prepaid Colombia data plan provides the necessary internet connection.
-    - q: Can I book a dinner reservation online while I'm out exploring?
-      a: Absolutely. You can easily secure a table via OpenTable or local booking
-        sites using your mobile data.
-    - q: How can I find good local restaurants near me in Colombia?
-      a: Use your Colombia virtual SIM to search Google Maps or Tripadvisor on the
-        go. You can check reviews, opening hours, and menus before walking in.
-    - q: Will I have signal in underground or basement restaurants?
-      a: Coverage in basements can vary, but our partners (Claro, Movistar, Tigo)
-        offer robust urban networks that reach into many subterranean commercial spaces.
-    - q: Is it safe to tip using a digital payment link on my phone?
-      a: Yes, processing payments over your private cellular data is highly secure
-        compared to using the restaurant's public Wi-Fi.
+    - q: How to find restaurants using Google Maps/Tripadvisor?
+      a: Use your Colombia eSIM data to search 'restaurants near me' on Google Maps
+        to check ratings, opening hours, and photos of the menu before walking in.
+    - q: How to book seats via OpenTable or restaurant websites?
+      a: You can easily secure a dinner reservation by accessing booking platforms
+        online using your Colombia eSIM while you are out sightseeing.
+    - q: How to scan restaurant QR codes to view electronic menus?
+      a: Many restaurants now use digital menus. Your Colombia eSIM ensures you can
+        scan the QR code on the table and load the menu instantly.
+    - q: How to use Google Translate camera to translate menus?
+      a: Open the Google Translate app, select the camera feature, and point it at
+        the local menu. It requires an internet connection via your Colombia eSIM
+        to process live translations accurately.
+    - q: How to register and use international versions of Uber Eats/DoorDash?
+      a: You can download local apps like Rappi, Domicilios.com, Ifood, register using
+        your email or social accounts, and order food seamlessly using your Colombia
+        eSIM mobile data.
+    - q: How to successfully checkout using Apple Pay/Google Pay?
+      a: Contactless payments via Apple Pay, Google Pay, or local methods like Nequi,
+        Davivienda, Bancolombia require a brief internet handshake, which your Colombia
+        eSIM handles perfectly.
+    - q: How to find restaurants recommended by Yelp/food bloggers?
+      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
+        your Colombia eSIM to find hidden culinary gems in the city.
   - id: faq-social
     icon: smartphone
     tab_title: Social
-    title: 7. Social Media & Chat
+    title: 7. Social Media & Comm
     questions:
-    - q: Will my WhatsApp still work with this Colombia data plan?
-      a: Yes! Your WhatsApp is tied to your home phone number. The eSIM simply provides
-        the internet connection, so your chats and contacts remain exactly the same.
-    - q: Do I need to change my Telegram or iMessage settings?
-      a: No changes needed. As long as you have internet via our prepaid Colombia
-        data plan, all your messaging apps will function normally.
-    - q: Can I play online multiplayer games on my phone?
-      a: Yes, our 5G/4G networks provide low ping and stable connections, making casual
-        online gaming smooth during your downtime.
-    - q: Is it safe to log into my bank or social media on this network?
-      a: Yes, using a personal cellular connection via our Colombia eSIM is encrypted
-        and vastly safer than connecting to free, unsecured public Wi-Fi networks.
-    - q: How can I check my emails while on the go?
-      a: Your phone's email app will sync automatically in the background as long
-        as your Colombia eSIM is active and has data remaining.
-    - q: Can I use a VPN with this Colombia data plan?
-      a: Absolutely. Our network does not restrict VPN usage, allowing you to maintain
-        your corporate security or access geo-blocked content from home.
-    - q: Can I make FaceTime or WhatsApp video calls back home?
-      a: Yes, our low-latency network partnerships ensure your video calls are clear
-        and lag-free, no matter where you are in Colombia.
-    - q: Will my home carrier charge me for receiving WhatsApp messages?
-      a: No, WhatsApp uses internet data, not traditional SMS. As long as you are
-        using our mobile data package for data, your home carrier won't charge you
-        for app messages.
+    - q: How to stably use WhatsApp/Telegram overseas?
+      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
+        Colombia eSIM providing the internet, you can chat and call exactly as you
+        do at home.
+    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
+      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Colombia eSIM gives you
+        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
+    - q: How to make FaceTime/WhatsApp video calls with family?
+      a: Our low-latency network partnerships ensure your FaceTime and video calls
+        over the Colombia eSIM are clear and lag-free, no matter where you are in
+        the country.
+    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
+      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Colombia
+        eSIM cellular data is encrypted and vastly safer for logging into accounts.
+    - q: How to share the network as a personal hotspot with travel companions?
+      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
+        network and use your Colombia eSIM data allowance to check their own social
+        media.
+  - id: faq-crossborder
+    icon: globe
+    tab_title: Cross-border
+    title: 8. Cross-border Travel
+    questions:
+    - q: Do I need to buy a different SIM card for each country when traveling across
+        multiple European countries?
+      a: If you buy a single-country Colombia eSIM, it only works there. For multi-country
+        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
+        multiple countries with one profile.
+    - q: How to avoid high roaming charges when crossing borders by train?
+      a: Turn off Data Roaming on your home SIM card. Ensure your Colombia eSIM is
+        set as the primary data line so you never incur unexpected charges from your
+        home carrier.
+    - q: How to get short-term network when transiting in Singapore/Dubai?
+      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
+        to stay connected during your layover.
+    - q: How to get economical local network for cruise shore excursions?
+      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
+        countries you dock in. It will connect as soon as you are near the shore.
+    - q: How to ensure Google Maps is online throughout cross-border road trips?
+      a: With a Regional eSIM, your phone will automatically switch to the new country's
+        network as you drive across the border, keeping your GPS active.
+    - q: How to manage multi-country data usage with one app?
+      a: You can track your data usage for all your active eSIMs directly through
+        our website's user dashboard.
+    - q: How to maintain stable contact methods during multi-country travel?
+      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
+        your friends and family can always reach you on the same number without interruption.
   - id: faq-emergency
     icon: alert-triangle
     tab_title: Emergencies
-    title: 8. Safety & Emergencies
+    title: 9. Emergencies
     questions:
-    - q: Is it possible to translate medical symptoms to a local doctor?
-      a: Yes, you can use Google Translate's conversation mode via your mobile data
-        to clearly communicate your symptoms to healthcare professionals.
-    - q: How can I share my live location if I feel unsafe in Colombia?
+    - q: How to dial local emergency numbers in an unfamiliar country?
+      a: In Colombia, you can dial local emergency numbers like 911, 112, 110, 119
+        directly from your phone's dialer regardless of your active SIM, as long as
+        your phone can catch any cellular signal.
+    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
+      a: Your Colombia eSIM data allows you to immediately search Google Maps for
+        'pharmacy near me' or 'hospital' and get the fastest route.
+    - q: How to find embassy/consulate information after losing a passport?
+      a: You can quickly browse the internet using your Colombia eSIM to find the
+        exact address, emergency contact email, and opening hours of your country's
+        embassy.
+    - q: How to contact the travel insurance company's rescue hotline in an accident?
+      a: Use VoIP apps like Skype or Viber over your Colombia eSIM data to call your
+        insurance company's international toll-free numbers.
+    - q: How to share location in real-time in unsafe areas?
       a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
         to continuously broadcast your GPS coordinates to trusted friends using your
-        mobile data.
-    - q: Can I use this prepaid Colombia data plan to find a pharmacy or hospital
-        quickly?
-      a: Yes, in an emergency, your reliable data connection allows you to instantly
-        search Google Maps for the nearest medical facilities and get the fastest
-        route.
-    - q: How can I block my credit cards if my wallet is stolen?
-      a: You can immediately open your banking apps using your secure Colombia cellular
-        data to freeze your cards and prevent unauthorized transactions.
-    - q: Can I contact my travel insurance company using this plan?
-      a: Since this is a data-only eSIM, you can use VoIP apps like Skype, Viber,
-        or Wi-Fi calling to dial your insurance company's international toll-free
-        numbers.
-    - q: Can I receive emergency weather or government alerts?
-      a: Yes, wireless emergency alerts broadcasted by local cell towers in Colombia
-        will still reach your phone, keeping you informed of severe weather or hazards.
-    - q: How do I call 123 (Police), 125 (Ambulance), 119 (Fire) if I only have a
-        data eSIM?
-      a: Emergency numbers like 123 (Police), 125 (Ambulance), 119 (Fire) can be dialed
-        directly from your phone's dialpad regardless of your active SIM, as long
-        as your phone catches any cellular signal.
-    - q: What should I do if I lose my phone in Colombia?
-      a: If you lose your device, you can log into your account from another device
-        to pause your mobile data package and contact our support team for a replacement
-        QR code.
+        Colombia eSIM mobile data.
+    - q: How to download offline maps/key locations before going to remote areas?
+      a: While you still have strong city coverage with your Colombia eSIM, use your
+        data to download offline areas in Google Maps just in case you venture into
+        mountains or deep rural zones where signals drop.
+  - id: faq-business
+    icon: briefcase
+    tab_title: Business
+    title: 10. Business & Work
+    questions:
+    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
+      a: Our Colombia eSIM connects to premium local networks, providing the high
+        bandwidth and low latency required for smooth, professional video conferencing.
+    - q: How to securely connect to the company VPN to access internal systems during
+        business trips?
+      a: Our cellular data does not restrict VPN protocols. You can safely launch
+        your corporate VPN app over the Colombia eSIM network to access internal servers.
+    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
+      a: Simply enable your phone's Personal Hotspot. Sharing your Colombia eSIM is
+        significantly faster and much more secure against cyber threats than using
+        open public Wi-Fi networks.
+    - q: How to ensure receiving bank/company email verification codes?
+      a: Keep your home SIM active for receiving SMS, and use your Colombia eSIM data
+        to receive email-based 2FA codes or push notifications from authenticator
+        apps.
+    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
+      a: With 5G/4G LTE speeds from your Colombia eSIM, you can rapidly upload presentations
+        or large documents to Google Drive or Dropbox directly from the exhibition
+        floor.
+    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
+      a: Your Colombia eSIM provides constant connectivity, ensuring you receive Slack
+        notifications and important emails instantly, keeping you synced with your
+        team.
+    - q: How to update travel itineraries online at any time to communicate with the
+        company?
+      a: You can access your corporate travel portals or email your HR department
+        on the go using your Colombia eSIM to update them on flight delays or schedule
+        changes.
 related_products:
-  title: Popular Destinations
+  title: Related eSIM Plans
   items:
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: united states eSIM
+    flag: img/flags/us.svg
+    price: From $1.99
+    is_highlight: false
+  - name: United-Kingdom
+    flag: img/flags/gb.svg
     price: From $1.99
     is_highlight: false
   - name: Europe eSIM
     flag: img/flags/eu.svg
+    price: From $1.99
+    is_highlight: true
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Turkey eSIM
+    flag: img/flags/tr.svg
+    price: From $1.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
     price: From $1.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: From $1.99
     is_highlight: false
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: From $1.99
+    is_highlight: false
+  - name: France eSIM
+    flag: img/flags/fr.svg
+    price: From $1.99
+    is_highlight: false
   - name: Spain eSIM
     flag: img/flags/es.svg
     price: From $1.99
-    is_highlight: true
+    is_highlight: false
+  - name: Germany eSIM
+    flag: img/flags/de.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Australia eSIM
+    flag: img/flags/au.svg
+    price: From $1.99
+    is_highlight: false
 
 # =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Colombia eSIM vs Physical SIM: Travel, Cost, and Setup Compared"
-  subtitle: "Colombia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: "Colombia eSIM or SIM Card: What’s the Best Option in 2026?"
+  subtitle: "Colombia Local Prepaid SIMs vs. eSIM Solutions (2025/2026 Benchmark)"
   citation:
     text: "Data Source: Prepaid Data SIM Card Wiki (Colombia) + Local Operator Sites"
     url: "https://prepaid-data-sim-card.fandom.com/wiki/Colombia"
@@ -608,68 +727,68 @@ market_analysis:
     - icon: "store"
       title: "Acquisition &<br>Activation"
       prepaid_title: ""
-      prepaid_desc: "Claro SIM cards at Bogota airport are sold at a premium price compared to city stores; purchase requires ID and hotel address proof."
+      prepaid_desc: "Claro SIM cards at Bogota airport cost more than city stores; purchase requires ID and hotel address proof."
       esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport queues and premium prices. Activate your Roami eSIM online within 1 minute after landing in Bogota, avoiding Claro's airport markup and paperwork."
+      esim_desc: "Skip airport queues and avoid Claro's higher airport prices. Activate your Roami eSIM online within 1 minute after landing in Bogota."
     - icon: "id-card"
       title: "KYC & Real-Name<br>Registration"
       prepaid_title: ""
-      prepaid_desc: "All Colombian prepaid SIMs require IMEI registration within 30 days; Claro requires in-store or Spanish-language customer service registration."
+      prepaid_desc: "All Colombian prepaid SIMs require IMEI registration within 30 days; Claro requires passport and address proof at purchase."
       esim_title: "No Passport or IMEI Registration"
-      esim_desc: "Bypass Colombia's mandatory IMEI registration (required by Claro, Movistar, Tigo within 30 days). Roami eSIM requires no ID, no Spanish-language forms, and no risk of phone lock."
+      esim_desc: "Bypass Colombia's mandatory IMEI registration (required by Claro, Movistar, Tigo within 30 days) and passport checks. Roami eSIM activates instantly without personal ID."
     - icon: "globe"
       title: "International<br>Roaming"
       prepaid_title: ""
-      prepaid_desc: "CAN roaming (Bolivia, Colombia, Ecuador, Peru) benefits apply only for postpaid, not for prepaid; prepaid users pay high international roaming fees."
-      esim_title: "Multi-Country Roaming Included"
-      esim_desc: "Unlike Colombian prepaid SIMs (CAN roaming only for postpaid), Roami eSIM works seamlessly across Colombia, Peru, Ecuador, and Bolivia with one plan, no extra fees."
+      prepaid_desc: "CAN roaming (Bolivia, Colombia, Ecuador, Peru) is postpaid-only; prepaid cards incur high international roaming charges."
+      esim_title: "Seamless Multi-Country Roaming"
+      esim_desc: "Unlike Colombian prepaid SIMs (CAN roaming only for postpaid), Roami eSIM works across Colombia, Ecuador, Peru, and Bolivia with a single plan, no extra charges."
     - icon: "calendar-xmark"
       title: "Billing Cycle &<br>Sunk Cost"
       prepaid_title: ""
-      prepaid_desc: "Claro's 7-day plan costs COP 11,000 for 5GB; a 5-day trip wastes 2 days of the plan's value."
+      prepaid_desc: "Claro 7-day plan (5GB, COP 11,000) and Movistar 7-day plan (1.4GB, COP 13,900) are typical; a 5-day trip wastes 2 days of value."
       esim_title: "Flexible Daily Plans"
       esim_desc: "Avoid Claro's 7-day fixed cycle (COP 11,000/5GB) that wastes 2 days for a 5-day trip. Roami offers 7-day plans starting from $1.99/GB, paying only for what you use."
     - icon: "wifi"
       title: "Hotspot &<br>Speed Policies"
       prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, most Colombian operators allow tethering but may throttle after a certain limit."
+      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, most Colombian prepaid plans allow tethering but may throttle after a certain limit."
       esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike some local SIMs that may throttle or block tethering. Share data with friends or laptops without limits."
+      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike some local plans that may throttle after a limit (e.g., Tigo Une caps at 10 Mbps)."
     - icon: "credit-card"
       title: "Top-up Payments"
       prepaid_title: ""
-      prepaid_desc: "Top-up can be done via credit card online or physical vouchers; foreign cards may be rejected online."
+      prepaid_desc: "Top-up is available via physical vouchers at kiosks or online; foreign cards may be rejected."
       esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local cash or vouchers; avoid foreign card rejection issues common with Colombian top-up sites."
+      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local cash or vouchers that often reject foreign cards."
     - icon: "headset"
       title: "Customer Support"
       prepaid_title: ""
-      prepaid_desc: "Customer support is primarily in Spanish; Claro's IMEI registration requires Spanish-language customer service."
+      prepaid_desc: "Customer support is primarily in Spanish; Claro's IMEI registration requires Spanish-speaking客服 or Mi Claro portal."
       esim_title: "24/7 English Support"
-      esim_desc: "Get round-the-clock customer support in English via live chat or email. No need to navigate Spanish-only helplines (like Claro's *611# or Tigo's *300) for IMEI registration or billing issues."
+      esim_desc: "Get round-the-clock support in English, avoiding the language barrier of Claro's Spanish-only客服 and IMEI registration portals."
 
   # =============== 100% 完整还原：专家结论模块 ===============
   expert_verdict:
-    title: "Colombia eSIM vs Prepaid SIM: Which One Is Right for You?"
+    title: "Colombia eSIM vs SIM Card: The Complete Comparison Guide"
     cards:
+      - icon: "wifi"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "Unrestricted Hotspot Sharing"
+        desc: "While local plans may throttle tethering (e.g., Tigo Une caps at 10 Mbps), Roami eSIM allows <b>full-speed hotspot</b> for all your devices."
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
-        title: "Avoid Roaming Restrictions in CAN Countries"
-        desc: "Colombian prepaid SIMs do not benefit from CAN roaming (Bolivia, Ecuador, Peru, Colombia) – only postpaid users do. Roami eSIM offers seamless multi-country coverage with one plan, no extra roaming charges."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot & Full Speed"
-        desc: "While local SIMs like <b>Tigo Une</b> cap 4G at 10 Mbps and <b>WOM</b> restricts VoIP on WhatsApp, Roami eSIM provides full-speed tethering with no throttling or app restrictions."
-      - icon: "clock"
+        title: "Avoid Network Dead Zones"
+        desc: "In remote areas like Cabo de la Vela, only Claro has coverage. Movistar and Tigo users face no service. Roami eSIM connects to <b>multiple local networks</b> (Claro, Movistar) for best coverage."
+      - icon: "headset"
         icon_bg: "bg-indigo-100"
         icon_color: "text-indigo-600"
-        title: "Instant Activation, No Airport Queues"
-        desc: "Bogota airport sells Claro SIMs at a premium and requires ID proof. Roami eSIM activates in <b>1 minute</b> after purchase, ready to use upon landing."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Colombia's Strict SIM Registration"
-        desc: "Colombia requires IMEI registration within 30 days for all prepaid SIMs. <b>Claro</b>, <b>Movistar</b>, and <b>Tigo</b> demand in-store or Spanish-language website registration. Roami eSIM needs no ID or registration—activate instantly."
+        title: "24/7 English Customer Support"
+        desc: "Claro's IMEI registration and客服 are <b>Spanish-only</b>. Roami provides round-the-clock support in English, eliminating language barriers."
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "Pay with Global Cards, No Cash Needed"
+        desc: "Local top-up often rejects foreign cards; you need physical vouchers. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>."
 ---

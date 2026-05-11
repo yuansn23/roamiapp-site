@@ -19,9 +19,9 @@ modal:
   title: Service Upgrade!
   btn_text: Weiter
   text_default: |-
-    Unser eSIM-Service wurde auf <strong>PhoneSIMGo</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: esim20
+    Unser eSIM-Service wurde auf <strong>PhoneSIMGo</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: web20
   text_android: |-
-    Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: esim20
+    Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: web20
 seo:
   title: Kosovo eSIM - Günstige Daten Flatrate - Roami
   description: Kosovo eSIM mit sofortiger Lieferung, ohne Roaming-Gebühren. Mobiles
@@ -37,7 +37,7 @@ order_summary:
   label_daily: Tagespreis
   label_total: Gesamtpreis
   btn_primary: 20% Rabatt sichern
-  btn_secondary: 'Code: ESIM20'
+  btn_secondary: 'Code: web20'
 breadcrumbs:
 - label: Startseite
   url: /
@@ -143,7 +143,7 @@ plans_data:
 discount_banner:
   title: Sonderrabatt!
   desc_html: |-
-    Nutzen Sie den Code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">esim20</span> beim Checkout für <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% RABATT</span>!
+    Nutzen Sie den Code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> beim Checkout für <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% RABATT</span>!
   btn_text: Rabatt sichern
   validity: 'Gültigkeit: 3 Tage'
 network_coverage:
@@ -255,8 +255,8 @@ faq_section:
       a: Ja, unser technisches Support-Team ist rund um die Uhr erreichbar. Sie können
         uns über das Live-Chat-Widget auf unserer Website oder durch Antworten auf
         Ihre Bestellbestätigungs-E-Mail erreichen.
-    - q: Gibt es Rabattcodes? Wie verwende ich den Promo-Code 'esim20'?
-      a: Ja! Sie können den Promo-Code 'esim20' auf der Checkout-Seite eingeben, um
+    - q: Gibt es Rabattcodes? Wie verwende ich den Promo-Code 'web20'?
+      a: Ja! Sie können den Promo-Code 'web20' auf der Checkout-Seite eingeben, um
         sofort 20% Rabatt auf Ihre Kosovo eSIM Bestellung zu erhalten.
     - q: Ist Ihr 'Unlimited Data' Tarif wirklich unbegrenzt? Gibt es eine Fair Usage
         Policy (FUP)?

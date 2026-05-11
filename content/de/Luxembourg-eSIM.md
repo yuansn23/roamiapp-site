@@ -1,31 +1,29 @@
 ---
-title: Luxembourg eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-08T14:42:53+00:00'
+title: Luxemburg eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
+date: '2026-05-11T08:52:49+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Luxembourg eSIM
-  scenario_keywords: Sightseeing in Luxemburg-Stadt, Geschäftsreise nach Kirchberg,
-    Shopping in Esch-sur-Alzette, Wandern in der Müllerthal-Region
-  operators: POST Luxembourg, Tango, Orange Luxembourg
-  competitors: Airalo, Holafly, Ubigi, eSIMGo, MTX Connect
-  main_cities: Luxemburg-Stadt, Esch-sur-Alzette, Differdange, Dudelange, Ettelbruck
-  main_packages: 3/7/15/30 Tage, Unbegrenzte Daten
+  core_keyword: Luxemburg eSIM
+  scenario_keywords: Sightseeing, Geschäftsreise, Städtereise, Wandern, Kultur
+  operators: POST, Tango, Orange
+  competitors: Airalo, Holafly, Nomad, SimLocal, Flexiroam
+  main_cities: Luxemburg-Stadt, Esch-sur-Alzette, Differdingen, Düdelingen, Echternach
+  main_packages: 3/7/15/30 Tage, unbegrenzte Daten
 modal:
-  title: Service Upgrade!
-  btn_text: Weiter
+  title: Service-Upgrade!
+  btn_text: Fortfahren
   text_default: |-
-    Unser eSIM-Service wurde auf <strong>PhoneSIMGo</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: esim20
+    Unser eSIM-Service wurde auf <strong>PhoneSIMGo</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
   text_android: |-
-    Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: esim20
+    Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Luxembourg eSIM - Günstige Datenflat ohne Roaming - Roami
-  description: Holen Sie sich Ihre Luxembourg eSIM mit sofortiger Lieferung, keine
-    Roaming-Gebühren. Mobiles Internet per QR-Code aktivieren. Jetzt starten!
-  keywords: Luxembourg eSIM, günstige eSIM, unbegrenzte Daten, sofortige Lieferung,
-    keine Roaming-Gebühren, QR-Code Aktivierung, mobiles Internet
-  low_price: 1.99
-  high_price: 39.9
+  title: Luxemburg Reise-eSIM | 20% RABATT | Zuverlässiges 5G | Roami
+  description: Bald in Luxemburg? Roami bietet unbegrenzte Daten auf dem zuverlässigen
+    lokalen Top-Betreiber mit stabilem 5G. Mit nahtloser Abdeckung und unbegrenzten
+    Daten – perfekt für leichte Reisen.
+  keywords: eSIM Luxemburg, Reise eSIM Luxemburg, Daten eSIM Luxemburg, günstige eSIM
+    Luxemburg, mobiles Internet Luxemburg
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -33,27 +31,27 @@ order_summary:
   label_daily: Tagespreis
   label_total: Gesamtpreis
   btn_primary: 20% Rabatt sichern
-  btn_secondary: 'Code: ESIM20'
+  btn_secondary: 'Code: web20'
 breadcrumbs:
 - label: Startseite
   url: /
-- label: Luxembourg eSIM
+- label: Luxemburg eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Beste eSIM für Luxembourg
-  title: Beste eSIM für Luxembourg
+  alt: Beste eSIM für Luxemburg
+  title: Beste eSIM für Luxemburg
 hero:
   flag_image: img/flags/lu.svg
-  flag_alt: Luxembourg Flagge
-  title: Luxembourg eSIM Datentarif
-  subtitle: Top-Wahl für Reisen in Luxembourg | Günstige Luxembourg eSIM | 100% Geld-zurück-Garantie
+  flag_alt: Flagge von Luxemburg
+  title: Luxemburg eSIM Datentarif
+  subtitle: Reise mit Leichtigkeit | Bestseller | Hochgeschwindigkeits-5G-Netzwerk
 features:
   title: Warum Reisende Roami wählen
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Sofort-QR-Code
-    desc: Lieferung in unter 5 Min.
+    title: Sofortiger QR-Code
+    desc: Lieferung in unter 5 Minuten
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: 24/7 Support
@@ -72,13 +70,13 @@ features:
     desc: Jederzeit kündbar
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Wechsel
+    title: Auto-Auswahl
     desc: Beste lokale Netze
 plans_title: Wählen Sie Ihren Tarif
 plans_data:
   30 Tage:
   - spec: 20GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '21.99'
     oldPrice: '32.98'
@@ -86,7 +84,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 50GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '39.99'
     oldPrice: '59.98'
@@ -94,7 +92,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 100GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '54.99'
     oldPrice: '82.48'
@@ -102,7 +100,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.83'
   - spec: 30GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '29.99'
     oldPrice: '44.98'
@@ -110,7 +108,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 20GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '22.99'
     oldPrice: '34.48'
@@ -118,7 +116,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '0.77'
   - spec: 3GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Sightseeing
     price: '6.99'
     oldPrice: '10.48'
@@ -127,23 +125,23 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für tiefergehende Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für längere Reisen
     price: '9.99'
     oldPrice: '14.98'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '0.33'
   - spec: 10GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für längere Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für noch längere Reisen
     price: '14.99'
     oldPrice: '22.48'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '0.50'
   - spec: Unlimited
-    data: Unbegrenztes Highspeed-Volumen
+    data: Unbegrenzte Hochgeschwindigkeitsdaten
     desc: Sorgenfreie Datennutzung
     price: '77.99'
     oldPrice: '116.98'
@@ -152,7 +150,7 @@ plans_data:
     daily: '2.60'
   7 Tage:
   - spec: 1GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Ideal für kurze Geschäftsreisen
     price: '2.99'
     oldPrice: '4.49'
@@ -160,7 +158,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: 3GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Sightseeing
     price: '4.99'
     oldPrice: '7.49'
@@ -169,23 +167,23 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 5GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für tiefergehende Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für längere Reisen
     price: '7.99'
     oldPrice: '11.98'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '1.14'
   - spec: 10GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für längere Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für noch längere Reisen
     price: '12.99'
     oldPrice: '19.48'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '1.86'
   - spec: 20GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '20.99'
     oldPrice: '31.48'
@@ -193,7 +191,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '3.00'
   - spec: Unlimited
-    data: Unbegrenztes Highspeed-Volumen
+    data: Unbegrenzte Hochgeschwindigkeitsdaten
     desc: Sorgenfreie Datennutzung
     price: '20.99'
     oldPrice: '31.48'
@@ -202,7 +200,7 @@ plans_data:
     daily: '3.00'
   15 Tage:
   - spec: 30GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '28.99'
     oldPrice: '43.48'
@@ -210,7 +208,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.93'
   - spec: 3GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Sightseeing
     price: '5.99'
     oldPrice: '8.98'
@@ -219,23 +217,23 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für tiefergehende Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für längere Reisen
     price: '8.99'
     oldPrice: '13.48'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '0.60'
   - spec: 10GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für längere Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für noch längere Reisen
     price: '13.99'
     oldPrice: '20.98'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '0.93'
   - spec: 20GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '21.99'
     oldPrice: '32.98'
@@ -243,7 +241,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.47'
   - spec: Unlimited
-    data: Unbegrenztes Highspeed-Volumen
+    data: Unbegrenzte Hochgeschwindigkeitsdaten
     desc: Sorgenfreie Datennutzung
     price: '42.99'
     oldPrice: '64.48'
@@ -252,7 +250,7 @@ plans_data:
     daily: '2.87'
   3 Tage:
   - spec: 1GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Ideal für kurze Geschäftsreisen
     price: '1.99'
     oldPrice: '2.98'
@@ -260,7 +258,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 3GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Sightseeing
     price: '3.99'
     oldPrice: '5.99'
@@ -269,23 +267,23 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für tiefergehende Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für längere Reisen
     price: '6.99'
     oldPrice: '10.48'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: 10GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für längere Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für noch längere Reisen
     price: '11.99'
     oldPrice: '17.98'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '4.00'
   - spec: Unlimited
-    data: Unbegrenztes Highspeed-Volumen
+    data: Unbegrenzte Hochgeschwindigkeitsdaten
     desc: Sorgenfreie Datennutzung
     price: '9.99'
     oldPrice: '14.98'
@@ -293,24 +291,23 @@ plans_data:
     tagColor: bg-purple-600
     daily: '3.33'
 discount_banner:
-  title: Sonderrabatt!
+  title: Spezialrabatt!
   desc_html: |-
-    Nutzen Sie den Code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">esim20</span> beim Checkout für <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% RABATT</span>!
-  btn_text: Rabatt sichern
-  validity: 'Gültigkeit: 3 Tage'
+    Verwenden Sie den Code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> an der Kasse für <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% RABATT</span>!
+  btn_text: Rabatt speichern
+  validity: 'Gültig: 3 Tage'
 network_coverage:
-  title: Details zur Netzabdeckung
+  title: Netzabdeckungsdetails
   supports_text: 'Unterstützt:'
   service_details:
-    title: Servicedetails
+    title: Service-Details
     items:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Genießen Sie umfassende Netzabdeckung in ganz Luxembourg, einschließlich
-        Städten wie Luxemburg-Stadt, Esch-sur-Alzette, Differdange und Dudelange.
-        Unsere Luxembourg eSIM verbindet sich nahtlos mit den Netzen von POST Luxembourg,
-        Tango und Orange für stabilen Empfang.
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Luxemburg, einschließlich
+        Städten wie Luxemburg-Stadt, Esch-sur-Alzette, Differdingen. Unsere Luxemburg
+        eSIM verbindet sich nahtlos mit den Netzen von POST, Tango, Orange.
     - icon: zap
       color: text-amber-500
       title: Lieferzeit
@@ -323,13 +320,10 @@ network_coverage:
     title: Mobilfunknetze
     badge: Offizieller Partner
     items:
-    - name: POST Luxembourg
+    - name: POST
       coverage: Geringe Latenz
       network: 5G/4G/LTE Netzwerk
-    - name: Tango
-      coverage: Hohe Zuverlässigkeit
-      network: 5G/4G/LTE Netzwerk
-    - name: Orange Luxembourg
+    - name: Orange
       coverage: Native IP
       network: 5G/4G/LTE Netzwerk
 reminders:
@@ -337,47 +331,67 @@ reminders:
   items:
   - icon: 📱
     html: |-
-      Prüfen Sie vor dem Kauf die <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-Kompatibilität</a> Ihres Handys.
+      Überprüfen Sie vor dem Kauf die <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-Kompatibilität</a> Ihres Telefons.
   - icon: ✈️
-    html: Wir empfehlen, die eSIM erst nach Ankunft in Luxembourg zu aktivieren.
+    html: Wir empfehlen, die eSIM erst nach der Ankunft in Luxemburg zu aktivieren.
   - icon: ⏰
-    html: Die Gültigkeit beginnt mit der Verbindung zum Partnernetz.
+    html: Die Gültigkeit beginnt bei Verbindung mit dem Partnernetzwerk.
   - icon: 📧
-    html: Der QR-Code wird an Ihre E-Mail gesendet.
+    html: Der QR-Code wird an Ihre E-Mail-Adresse gesendet.
   - icon: 🔄
     html: Sie können mehrere eSIMs gleichzeitig installieren.
   compatibility_check:
     title: Schneller Kompatibilitätscheck
-    desc: 'Nicht sicher? Prüfen Sie es jetzt direkt an Ihrem Handy:'
-    instruction: 'Wählen Sie auf Ihrem Tastenfeld:'
+    desc: 'Nicht sicher? Prüfen Sie es jetzt auf Ihrem Telefon:'
+    instruction: 'Wählen Sie auf Ihrer Tastatur:'
     code: '*#06#'
     result_html: |-
       Wenn eine <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>-Nummer erscheint, wird eSIM unterstützt!
 activation_steps:
-  title: Schritte zur Aktivierung
+  title: Aktivierung Ihrer Luxemburg eSIM in wenigen Minuten
   steps:
   - num: '1'
-    title: 'Schritt 1: QR-Code erhalten'
-    desc: Nach der Zahlung erhalten Sie den QR-Code innerhalb von 5 Minuten per E-Mail.
-      Bitte prüfen Sie auch den Spam-Ordner.
+    title: QR-Code empfangen & speichern – startklar für Luxemburg
+    desc: Direkt nach Ihrer Bestellung erhalten Sie eine E‑Mail mit Ihrem persönlichen
+      Aktivierungs‑QR‑Code und den Einrichtungsanweisungen. Speichern Sie den QR-Code
+      auf Ihrem Smartphone oder drucken Sie ihn aus – Sie benötigen keine aktive Internetverbindung
+      für die spätere Installation. Die eSIM ist 30 Tage gültig, Sie können sie also
+      vor Ihrer Abreise nach Luxemburg in aller Ruhe vorbereiten.
     is_list: false
   - num: '2'
-    title: 'Schritt 2: eSIM hinzufügen'
+    title: eSIM auf Ihrem Gerät installieren - QR-Code scannen
     is_list: true
     list_items:
-    - |-
-      Einstellungen > Mobilfunk (oder Mobile Daten)
-    - Tippen Sie auf "eSIM hinzufügen"
-    - Scannen Sie den QR-Code mit der Kamera
-    - Folgen Sie den Anweisungen zum Setup
+    - Öffnen Sie die **Einstellungen** Ihres Smartphones → **Mobilfunk / Mobile Daten**
+    - Tippen Sie auf **"eSIM hinzufügen"** oder **"Mobilfunkplan hinzufügen"**
+    - Wählen Sie **"QR-Code scannen"** und halten Sie die Kamera über den Code
+    - Das Luxemburg eSIM-Profil wird automatisch geladen – tippen Sie auf **"Weiter"**
+    - Vergeben Sie einen Namen (z.B. „Roami Luxemburg“) und wählen Sie ihn als **Standard
+      für mobile Daten**
+    - Die eSIM ist jetzt installiert, aber noch **inaktiv** – perfekt für die Reisevorbereitung
   - num: '3'
-    title: 'Schritt 3: In Luxembourg nutzen'
-    desc: Aktivieren Sie nach der Landung in Luxembourg die eSIM in den Einstellungen.
-      Wir empfehlen WLAN für die erste Aktivierung.
+    title: Vorbereitung zu Hause – ohne Risiko testen
+    desc: Nach der Installation können Sie die eSIM in den Einstellungen deaktiviert
+      lassen. Sie können sie jedoch bereits mit Ihrem heimischen WLAN testen (es werden
+      keine mobilen Daten verbraucht). Sobald Sie in Luxemburg landen, schalten Sie
+      die eSIM einfach ein – die Gültigkeit startet dann automatisch bei der ersten
+      Verbindung mit dem Netz von POST / Tango. Keine versteckten Aktivierungsgebühren,
+      keine Roamingkosten.
+    is_list: false
+  - num: '4'
+    title: 'Ankunft in Luxemburg: sofort online mit 5G/4G'
+    desc: Sobald Sie in Luxemburg gelandet sind (z.B. in Flughafen Luxemburg (LUX),
+      Flughafen Frankfurt-Hahn (HHN), Flughafen Brüssel (BRU)), schalten Sie den Flugmodus
+      aus (oder bleiben Sie im Flugmodus und aktivieren Sie nur die eSIM). Gehen Sie
+      zu **Einstellungen → Mobilfunk** und aktivieren Sie Ihre Roami Luxemburg eSIM.
+      Innerhalb weniger Sekunden verbindet sich Ihr Gerät automatisch mit dem schnellsten
+      verfügbaren 5G/4G-Netz von POST / Tango. Sie können sofort navigieren, WhatsApp
+      nutzen, soziale Medien checken oder einen Hotspot für andere Geräte einrichten
+      – ohne Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
 faq_section:
-  title: Luxembourg eSIM FAQ & Reiseführer
-  desc: Alles, was Sie über die Nutzung Ihrer Luxembourg eSIM in verschiedenen Reiseszenarien
+  title: Luxemburg eSIM FAQ & Reiseführer
+  desc: Alles, was Sie über die Verwendung Ihrer Luxemburg eSIM in verschiedenen Reiseszenarien
     wissen müssen.
   categories:
   - id: faq-general
@@ -385,142 +399,136 @@ faq_section:
     tab_title: Allgemein
     title: 1. Allgemeine Fragen
     questions:
-    - q: Unterstützt mein Handy die Luxembourg eSIM? Wie installiere ich sie?
-      a: Die meisten modernen Smartphones ab dem iPhone XS/XR, Samsung Galaxy S20+
-        und Google Pixel 3+ unterstützen eSIM. Sie können Ihre Luxembourg eSIM einfach
-        installieren, indem Sie den QR-Code scannen, den wir Ihnen per E-Mail senden,
-        in den Einstellungen für Mobilfunk/Mobile Daten Ihres Handys.
-    - q: Wie kaufe und aktiviere ich die Luxembourg eSIM? Ist sie sofort aktiv?
-      a: Sie können sie direkt auf unserer Website kaufen. Sie ist nicht sofort nach
-        dem Kauf aktiv; die Gültigkeitsdauer beginnt erst, wenn Sie in Luxembourg
-        ankommen und sich Ihr Handy mit dem lokalen Netzwerk verbindet.
-    - q: Was ist ein Aktivierungs-QR-Code? Läuft er ab? Kann er wiederverwendet werden?
-      a: Der QR-Code ist Ihr digitales SIM-Profil für die Luxembourg eSIM. Er muss
-        in der Regel innerhalb von 30 Tagen nach dem Kauf installiert werden. Einmal
-        installiert, kann er nicht erneut gescannt oder auf ein anderes Gerät übertragen
-        werden.
-    - q: Kann ich eine Rückerstattung erhalten, wenn die Luxembourg eSIM nicht funktioniert
-        oder ein schlechtes Signal hat?
-      a: Ja, wir bieten eine Geld-zurück-Garantie. Wenn Sie anhaltende Netzwerkprobleme
-        in Luxembourg haben, die unser Support-Team nicht lösen kann, haben Sie Anspruch
-        auf eine Rückerstattung.
-    - q: Bieten Sie 24/7 Kundensupport an? Wie kann ich Sie kontaktieren?
-      a: Ja, unser technisches Support-Team ist rund um die Uhr erreichbar. Sie können
-        uns über das Live-Chat-Widget auf unserer Website oder durch Antworten auf
-        Ihre Bestellbestätigungs-E-Mail erreichen.
-    - q: Gibt es Rabattcodes? Wie verwende ich den Promo-Code 'esim20'?
-      a: Ja! Sie können den Promo-Code 'esim20' auf der Checkout-Seite eingeben, um
-        sofort 20% Rabatt auf Ihre Luxembourg eSIM Bestellung zu erhalten.
-    - q: Ist Ihr 'Unlimited Data' Tarif wirklich unbegrenzt? Gibt es eine Fair Usage
-        Policy (FUP)?
-      a: Unsere Unlimited-Tarife bieten kontinuierliche Daten. Wie bei allen globalen
-        Anbietern gilt jedoch eine Fair Usage Policy (FUP), um Netzwerkmissbrauch
-        zu vermeiden. Bei extrem hoher Nutzung kann die Geschwindigkeit vorübergehend
-        reduziert werden, was normales Surfen oder Social Media jedoch nicht beeinträchtigt.
-    - q: Kann ich meine Luxembourg eSIM-Daten teilen (Hotspot)?
-      a: Absolut. Alle unsere Luxembourg eSIM-Tarife unterstützen mobilen Hotspot
-        und Tethering, sodass Sie Ihre Daten mit Ihrem Laptop, Tablet oder Mitreisenden
-        teilen können.
-    - q: Was sind die Vorteile Ihrer Luxembourg eSIM gegenüber lokalen SIM-Karten
-        oder anderen Anbietern?
-      a: Im Gegensatz zu physischen SIM-Karten müssen Sie nicht am Flughafen anstehen
-        oder kleine Plastikkarten wechseln. Wir arbeiten direkt mit Top-Netzen in
-        Luxembourg wie POST Luxembourg, Tango, Orange Luxembourg zusammen, um Premium-Geschwindigkeiten
-        zu einem Bruchteil der Roaming-Kosten zu gewährleisten.
-    - q: Wie schneidet Roami im Vergleich zu bekannten eSIM-Anbietern wie Flexiroam,
-        aloSIM, Holafly, Airalo ab?
-      a: Während großartige Unternehmen wie Flexiroam, aloSIM, Holafly, Airalo zuverlässige
-        Dienste leisten, konzentrieren wir uns auf die kosteneffizienteste Luxembourg
-        eSIM mit geringer Latenz und Bestpreisgarantie durch unser automatisches Preisabgleichsystem.
+    - q: Unterstützt mein Smartphone die Luxemburg eSIM und wie installiere ich sie?
+      a: Ja, die meisten modernen Smartphones (iPhone XS/XR oder neuer, Samsung Galaxy
+        S20+/Note20+, Google Pixel 3a+) unterstützen eSIM. Sie installieren die Luxemburg
+        eSIM, indem Sie den QR-Code in den Mobilfunkeinstellungen scannen. Die Netzwerke
+        von POST / Tango bieten hervorragende 5G/4G-Abdeckung in Luxemburg.
+    - q: Bietet Roami unbegrenzte Datentarife für Luxemburg an? Gibt es eine Fair‑Use‑Policy?
+      a: Roami bietet echte unbegrenzte Datentarife für Luxemburg. Eine Fair‑Use‑Policy
+        gilt nur bei extremer Nutzung (z.B. dauerhaftes 4K‑Streaming über mehrere
+        Tage). Normales Surfen, Social Media, Videoanrufe und Navigation sind nicht
+        betroffen.
+    - q: Kann ich die Luxemburg eSIM nach der Installation auf ein anderes Gerät übertragen?
+      a: Eine einmal installierte eSIM kann nicht auf ein anderes Gerät übertragen
+        werden. Bitte installieren Sie die eSIM auf dem Gerät, das Sie auf Reisen
+        nutzen werden. Für zusätzliche Geräte können Sie weitere eSIMs erwerben.
+    - q: Unterstützt die Luxemburg eSIM VoLTE und HD-Sprachanrufe?
+      a: Ja, die Luxemburg eSIM unterstützt VoLTE und HD‑Sprache, sofern Ihr Gerät
+        dies zulässt. Genießen Sie gestochen scharfe Anrufqualität über das 5G/4G‑Netz
+        von POST / Tango.
+    - q: Was kostet die Luxemburg eSIM und gibt es Rabattaktionen?
+      a: Unser Luxemburg eSIM Tarif startet bei nur $1.99/GB. Mit dem Promo-Code 'web20'
+        erhalten Sie 20% Rabatt auf jede Bestellung – gültig für alle Tarife. Keine
+        versteckten Gebühren, keine Mindestvertragslaufzeit.
+    - q: Wie funktioniert das internationale Roaming mit der Luxemburg eSIM in Nachbarländern?
+      a: Die Luxemburg eSIM ist primär für Luxemburg optimiert. Für Reisen in EU‑Nachbarländer
+        empfehlen wir unsere Europa‑eSIM, die nahtloses Roaming ohne zusätzliche Kosten
+        bietet. Die reine Land‑eSIM funktioniert nicht zuverlässig außerhalb von Luxemburg.
+    - q: Bietet Roami auch regionale eSIMs für Reisen über Luxemburg hinaus an?
+      a: Ja, zusätzlich zur Luxemburg eSIM bieten wir Regional‑eSIM für Europa, Asien,
+        Nordamerika und weltweit an. Ideal für mehrtägige Städtereisen oder Rundreisen
+        durch mehrere Länder – ohne SIM‑Kartenwechsel.
+    - q: Kann ich meine bestehende Telefonnummer behalten, wenn ich die Luxemburg
+        eSIM nutze?
+      a: 'Die Roami eSIM ist eine reine Daten‑eSIM. Sie können Ihre heimische SIM
+        parallel nutzen (z.B. für Anrufe/SMS). Die meisten Dual‑SIM‑Handys verwalten
+        beide Profile: Wählen Sie einfach die Roami eSIM als Standard für mobile Daten.'
+    - q: Wie kann ich meinen Datenverbrauch mit der Luxemburg eSIM überwachen?
+      a: Nach der Aktivierung haben Sie Zugriff auf unser Online‑Dashboard. Dort sehen
+        Sie in Echtzeit Ihren verbleibenden Datenverbrauch, die Restlaufzeit und können
+        bei Bedarf Support anfordern – jederzeit und überall.
+    - q: Kann ich die Luxemburg eSIM auch ohne QR-Code installieren?
+      a: Ja, zusätzlich zum QR-Code können Sie die eSIM manuell über die SM‑DP+‑Adresse
+        und den Aktivierungscode installieren (beide finden Sie in Ihrer Bestellbestätigung).
+        Der QR‑Code ist jedoch die schnellste und einfachste Methode.
   - id: faq-airport
     icon: plane
-    tab_title: Flughafen
+    tab_title: Flughäfen
     title: 2. Flughafen-Netzwerk
     questions:
-    - q: Wie bekomme ich sofort nach dem Aussteigen eine Internetverbindung?
-      a: Installieren Sie die Luxembourg eSIM vor Ihrem Flug. Sobald Sie an Flughäfen
-        wie Flughafen Luxemburg (LUX), Flughafen Findel landen, deaktivieren Sie einfach
-        den Flugmodus und aktivieren Sie Ihre eSIM-Leitung. Sie verbindet sich in
-        Sekunden mit dem lokalen 4G/5G-Netz.
+    - q: Wie erhalte ich sofort nach der Landung ein zuverlässiges Netz?
+      a: Installieren Sie die Luxemburg eSIM vor Ihrem Flug. Sobald Sie an Flughäfen
+        wie Flughafen Luxemburg (LUX), Flughafen Frankfurt-Hahn (HHN), Flughafen Brüssel
+        (BRU) landen, schalten Sie einfach den Flugmodus aus und aktivieren Sie Ihre
+        eSIM. Sie verbindet sich in Sekunden mit dem lokalen 4G/5G-Netz.
     - q: Wie kontaktiere ich meinen Abholer oder nutze Uber/Grab?
-      a: Nach der Aktivierung bei der Landung können Sie sofort Apps wie RideNow,
-        Vel'oh!, CFL Mobilité nutzen, um eine Fahrt zu buchen oder WhatsApp zu verwenden,
-        um Ihren Fahrer zu kontaktieren, ohne auf unsicheres Flughafen-WLAN angewiesen
-        zu sein.
-    - q: Wie nutze ich Google Maps zur Transportsuche am Flughafen?
-      a: Mit Ihren Luxembourg eSIM-Daten können Sie direkt an der Gepäckausgabe in
-        Flughafen Luxemburg (LUX), Flughafen Findel Echtzeit-Fahrpläne für Züge und
-        Busse prüfen oder den Weg zum Taxistand finden.
-    - q: Wie vermeide ich teure SIM-Karten-Touristenfallen am Flughafen?
-      a: Indem Sie unsere Luxembourg eSIM vorab online kaufen, umgehen Sie die teuren
+      a: Nach der Aktivierung bei der Landung können Sie sofort Apps wie Mobiliteit.lu,
+        Flex (Emile Weber), BlaBlaCar nutzen, um eine Fahrt zu buchen, oder WhatsApp
+        verwenden, um Ihren Fahrer zu kontaktieren, ohne auf unsicheres Flughafen-WLAN
+        angewiesen zu sein.
+    - q: Wie nutze ich Google Maps/Apple Maps, um Transportmittel zu finden?
+      a: Mit Ihren Luxemburg eSIM-Daten können Sie direkt an der Gepäckausgabe in
+        Flughafen Luxemburg (LUX), Flughafen Frankfurt-Hahn (HHN), Flughafen Brüssel
+        (BRU) Echtzeit-Fahrpläne für Züge und Busse prüfen oder den Weg zum Taxistand
+        finden.
+    - q: Wie vermeide ich teure SIM-Karten am Flughafen?
+      a: Indem Sie unsere Luxemburg eSIM vorab online kaufen, umgehen Sie die teuren
         SIM-Kioske in der Ankunftshalle komplett und sparen Zeit und Geld.
-    - q: Wie empfange ich SMS ohne lokale Nummer?
-      a: Unsere Luxembourg eSIM ist ein reiner Datentarif. Um SMS zu empfangen, lassen
-        Sie Ihre primäre SIM-Karte für Texte aktiv (der Empfang ist im Roaming oft
-        kostenlos) und nutzen Sie die eSIM für den gesamten Datenverkehr.
-    - q: Wie kontaktiere ich meine Familie sofort nach der Landung?
+    - q: Wie empfange ich SMS von Hotel/Autovermietung ohne lokale Nummer?
+      a: Unsere Luxemburg eSIM ist ein reiner Datentarif. Um SMS zu empfangen, lassen
+        Sie Ihre heimische SIM-Karte aktiviert (SMS-Empfang ist oft kostenlos im Roaming)
+        und nutzen Sie die eSIM für den gesamten Datenverkehr.
+    - q: Wie kontaktiere ich sofort meine Familie?
       a: Sobald Sie landen, können Sie iMessage, WhatsApp oder FaceTime über unsere
-        schnellen Luxembourg eSIM-Daten nutzen, um Ihren Lieben mitzuteilen, dass
-        Sie sicher angekommen sind.
+        schnellen Luxemburg eSIM-Daten nutzen, um Ihren Lieben mitzuteilen, dass Sie
+        sicher angekommen sind.
   - id: faq-transport
     icon: car
-    tab_title: Verkehr
+    tab_title: Transport
     title: 3. Transport & Reisen
     questions:
-    - q: Wie nutze ich Google Maps für die Routenplanung?
-      a: Unsere stabile Luxembourg eSIM-Verbindung stellt sicher, dass Google Maps
-        überall in Luxembourg Echtzeit-Verkehrsdaten und Fahrpläne laden kann, was
-        die Navigation nahtlos macht.
-    - q: Wie kontaktiere ich Uber/Grab-Fahrer über die App?
-      a: Apps wie RideNow, Vel'oh!, CFL Mobilité nutzen VoIP. Da Sie aktive Luxembourg
-        eSIM-Daten haben, können Fahrer Sie direkt über die App anrufen oder benachrichtigen,
-        ohne dass eine lokale Nummer nötig ist.
+    - q: Wie nutze ich Google Maps zur Routenplanung?
+      a: Unsere stabile Luxemburg eSIM-Verbindung stellt sicher, dass Google Maps
+        überall in Luxemburg Echtzeit-Verkehrsdaten und Fahrpläne laden kann.
+    - q: Wie können mich Uber/Grab-Fahrer über die App kontaktieren?
+      a: Apps wie Mobiliteit.lu, Flex (Emile Weber), BlaBlaCar nutzen VoIP. Da Sie
+        aktive Luxemburg eSIM-Daten haben, können Fahrer Sie direkt über die App anrufen
+        oder benachrichtigen, ohne eine lokale Nummer.
     - q: Wie kaufe ich Zug- oder U-Bahn-Tickets online?
-      a: Nutzen Sie Ihre Luxembourg eSIM-Daten, um in lokalen Apps digitale QR-Code-Tickets
-        zu kaufen und lange Warteschlangen an Automaten zu vermeiden.
+      a: Nutzen Sie Ihre Luxemburg eSIM-Daten, um in lokalen Apps digitale QR-Code-Tickets
+        zu kaufen und lange Schlangen an Automaten zu vermeiden.
     - q: Wie nutze ich Google Maps für Echtzeit-Navigation im Mietwagen?
-      a: Befestigen Sie Ihr Handy und nutzen Sie Ihre Luxembourg eSIM. Ein 5GB oder
-        10GB Tarif reicht völlig für eine umfangreiche GPS-Navigation während eines
-        Roadtrips in Luxembourg.
-    - q: Wie scanne und entsperre ich E-Scooter?
+      a: Befestigen Sie Ihr Telefon und nutzen Sie Ihre Luxemburg eSIM. Ein 5GB- oder
+        10GB-Tarif reicht für eine umfangreiche GPS-Navigation während eines Roadtrips
+        in Luxemburg.
+    - q: Wie scanne und entsperre ich E-Scooter (Lime/Bird)?
       a: Das Entsperren von E-Scootern erfordert eine schnelle Internetverbindung.
-        Unsere Luxembourg eSIM bietet die dafür nötige zuverlässige Abdeckung.
+        Unsere Luxemburg eSIM bietet die dafür nötige zuverlässige Abdeckung.
     - q: Funktionieren Fahrdienst-Apps länderübergreifend?
-      a: Ja, Ihr Account bleibt gleich. Stellen Sie nur sicher, dass Sie über unsere
-        lokale oder regionale eSIM eine aktive Internetverbindung haben, um Fahrten
-        zu buchen.
-    - q: Wie biete ich einen stabilen Hotspot für meine Familie an?
+      a: Ja, Ihr Konto bleibt gleich. Stellen Sie nur sicher, dass Sie über unsere
+        lokale oder regionale eSIM eine aktive Internetverbindung haben.
+    - q: Wie biete ich einen stabilen Hotspot für meine Familie?
       a: Aktivieren Sie einfach den 'Persönlichen Hotspot' in Ihren Einstellungen.
-        Ihre Familie kann sich mit Ihrem Luxembourg eSIM-Netzwerk im Zug oder Auto
+        Ihre Familie kann sich mit Ihrem Luxemburg eSIM-Netzwerk im Zug oder Auto
         verbinden.
   - id: faq-hotels
     icon: hotel
     tab_title: Hotels
     title: 4. Hotels & Unterkünfte
     questions:
-    - q: Wie mache ich einen Self-Check-in nach einer Online-Buchung?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Ihre Luxembourg eSIM stellt sicher, dass Sie
-        diese Details direkt vor der Haustür abrufen können.
-    - q: Wie kontaktiere ich meinen Airbnb-Gastgeber bei der Ankunft?
+    - q: Wie mache ich einen Self-Check-in nach Buchung?
+      a: Viele moderne Unterkünfte senden Smart-Lock-Codes per E-Mail. Ihre Luxemburg
+        eSIM stellt sicher, dass Sie diese Details direkt vor der Haustür abrufen
+        können.
+    - q: Wie kontaktiere ich meinen Airbnb-Gastgeber bei Ankunft?
       a: Nutzen Sie die Messaging-Funktion der Airbnb-App oder WhatsApp, um Ihre Ankunftszeit
-        mit Ihrem Gastgeber über mobile Luxembourg eSIM-Daten abzustimmen.
+        mit Ihrem Gastgeber über mobile Luxemburg eSIM-Daten abzustimmen.
     - q: Wie nutze ich Google Maps, um zum Hotel zu navigieren?
-      a: Egal ob Sie im Le Royal Hotels & Resorts, Sofitel Luxembourg Le Grand Ducal,
-        Hôtel Le Place d'Armes oder einer Pension übernachten, geben Sie die Adresse
-        in Google Maps ein und nutzen Sie die Navigation Ihrer Luxembourg eSIM.
-    - q: Wie empfange ich Verifizierungscodes (SMS) im Hotel?
-      a: Keep your home SIM active for receiving SMS, and use the hotel Wi-Fi or your
-        Luxembourg eSIM data to trigger the verification code from your bank or app.
-    - q: Wie kontaktiere ich den Kundenservice schnell?
+      a: Egal ob Sie in Le Royal Hotels & Resorts Luxembourg, Sofitel Luxembourg Le
+        Grand Ducal, Meliá Luxembourg übernachten, geben Sie die Adresse in Google
+        Maps ein und nutzen Sie die Navigation Ihrer Luxemburg eSIM.
+    - q: Wie empfange ich SMS-Verifizierungscodes?
+      a: Lassen Sie Ihre heimische SIM für SMS aktiv und nutzen Sie Ihre Luxemburg
+        eSIM-Daten, um Codes per E-Mail oder Authenticator-App zu empfangen.
+    - q: Wie kontaktiere ich schnell den Kundenservice?
       a: Nutzen Sie VoIP-Apps wie Skype oder die Chat-Funktion der Buchungs-App über
-        Ihre Hochgeschwindigkeits-Luxembourg eSIM-Daten.
-    - q: Wie bestelle ich Essen ins Hotel mit lokalen Apps?
-      a: Laden Sie Takeaway.com, Uber Eats, Deliveroo herunter und nutzen Sie Ihre
-        Luxembourg eSIM-Daten, um eine warme Mahlzeit direkt in die Hotellobby zu
-        bestellen.
+        Ihre Hochgeschwindigkeits-Luxemburg eSIM-Daten.
+    - q: Wie bestelle ich Essen mit lokalen Liefer-Apps?
+      a: Laden Sie Lunchtime.lu, Food4U.lu, Uber Eats herunter und nutzen Sie Ihre
+        Luxemburg eSIM-Daten, um eine warme Mahlzeit direkt in die Hotellobby zu bestellen.
     - q: Wie bleibe ich nach dem Checkout mit dem Hotel in Kontakt?
-      a: Sobald Sie das Hotel-WLAN verlassen, übernimmt Ihre Luxembourg eSIM, sodass
+      a: Sobald Sie das Hotel-WLAN verlassen, übernimmt Ihre Luxemburg eSIM, sodass
         Sie dem Hotel schreiben können, falls Sie etwas vergessen haben.
   - id: faq-attractions
     icon: landmark
@@ -528,93 +536,93 @@ faq_section:
     title: 5. Sehenswürdigkeiten & Unterhaltung
     questions:
     - q: Wie kaufe ich E-Tickets über GetYourGuide/Viator?
-      a: Wenn Sie Altstadt von Luxemburg, Bockfelsen, Großherzoglicher Palast spontan
-        besuchen möchten, können Sie Ihre Luxembourg eSIM-Daten nutzen, um Online-Tickets
+      a: Wenn Sie Bockfiels, Großherzoglicher Palast, Kathedrale Notre-Dame spontan
+        besuchen möchten, können Sie Ihre Luxemburg eSIM-Daten nutzen, um Online-Tickets
         zu kaufen und den Barcode direkt vorzuzeigen.
-    - q: Wie buche ich Erlebnisse auf Tripadvisor sofort?
-      a: Mit dem zuverlässigen 4G/5G Ihrer Luxembourg eSIM können Sie Bewertungen
-        lesen und lokale Touren buchen, während Sie in einem Café sitzen.
-    - q: Wie nutze ich Wikipedia/Google für Informationen während der Besichtigung?
+    - q: Wie buche ich Erlebnisse bei Tripadvisor sofort?
+      a: Mit dem zuverlässigen 4G/5G Ihrer Luxemburg eSIM können Sie Bewertungen lesen
+        und lokale Touren buchen, während Sie in einem Café sitzen.
+    - q: Wie nutze ich Wikipedia/Google für Informationen während des Besuchs?
       a: Erweitern Sie Ihr kulturelles Erlebnis, indem Sie historische Fakten googeln
-        oder Museumstafeln übersetzen, während Sie Luxembourg erkunden.
+        oder Museumstafeln übersetzen, während Sie Luxemburg erkunden.
     - q: Wie finde ich den Weg zur nächsten Sehenswürdigkeit?
       a: Geben Sie Ihr nächstes Ziel in Google Maps ein; die starke Abdeckung Ihrer
-        Luxembourg eSIM führt Sie über die schnellste Route.
-    - q: Wie prüfe ich Wartezeiten in Freizeitparks?
-      a: Freizeitpark-Apps benötigen Internet für Live-Wartezeiten. Ihre Luxembourg
+        Luxemburg eSIM führt Sie über die schnellste Route.
+    - q: Wie prüfe ich Echtzeit-Wartezeiten in Freizeitparks?
+      a: Freizeitpark-Apps benötigen Internet für Live-Wartezeiten. Ihre Luxemburg
         eSIM hält Sie im gesamten Park online.
     - q: Wie greife ich auf Ticketmaster für Show-Tickets zu?
       a: Sie können sicher Last-Minute-Theaterkarten über Ticketing-Apps mit Ihren
-        Luxembourg eSIM-Daten kaufen.
+        Luxemburg eSIM-Daten kaufen.
     - q: Wie teile ich Fotos/Videos sofort auf Instagram/TikTok?
-      a: Unsere schnellen Luxembourg eSIM Upload-Geschwindigkeiten ermöglichen es
-        Ihnen, Reels und Fotos in Echtzeit zu posten, ohne auf das Hotel-WLAN zu warten.
+      a: Unsere schnellen Luxemburg eSIM-Upload-Geschwindigkeiten ermöglichen es Ihnen,
+        Reels und Fotos in Echtzeit zu posten, ohne auf Hotel-WLAN zu warten.
   - id: faq-dining
     icon: utensils
     tab_title: Gastronomie
     title: 6. Essen & Restaurants
     questions:
     - q: Wie finde ich Restaurants mit Google Maps/Tripadvisor?
-      a: Suchen Sie mit Ihrer Luxembourg eSIM nach 'Restaurants in der Nähe', um Bewertungen,
+      a: Suchen Sie mit Ihrer Luxemburg eSIM nach 'Restaurants in der Nähe', um Bewertungen,
         Öffnungszeiten und Menüfotos zu prüfen.
     - q: Wie reserviere ich Tische online?
-      a: Sichern Sie sich eine Reservierung über Online-Plattformen mit Ihrer Luxembourg
+      a: Sichern Sie sich eine Reservierung über Online-Plattformen mit Ihrer Luxemburg
         eSIM, während Sie unterwegs sind.
     - q: Wie scanne ich QR-Codes für digitale Menüs?
-      a: Viele Restaurants nutzen digitale Karten. Ihre Luxembourg eSIM stellt sicher,
+      a: Viele Restaurants nutzen digitale Menüs. Ihre Luxemburg eSIM stellt sicher,
         dass der Code auf dem Tisch sofort geladen wird.
     - q: Wie nutze ich die Google Translate Kamera für Speisekarten?
       a: Öffnen Sie die App und richten Sie die Kamera auf das Menü. Die Live-Übersetzung
-        erfordert eine Internetverbindung über Ihre Luxembourg eSIM.
+        benötigt eine Internetverbindung über Ihre Luxemburg eSIM.
     - q: Wie nutze ich lokale Lieferdienste?
-      a: Laden Sie lokale Apps wie Takeaway.com, Uber Eats, Deliveroo herunter und
-        bestellen Sie bequem über Ihre Luxembourg eSIM mobile Daten.
+      a: Laden Sie lokale Apps wie Lunchtime.lu, Food4U.lu, Uber Eats herunter und
+        bestellen Sie bequem über Ihre Luxemburg eSIM-Mobildaten.
     - q: Wie bezahle ich mit Apple Pay/Google Pay?
-      a: Kontaktlose Zahlungen oder lokale Methoden wie Visa, Mastercard, PayPal erfordern
-        einen kurzen Internet-Handshake, den Ihre Luxembourg eSIM perfekt bewältigt.
+      a: Kontaktlose Zahlungen oder lokale Methoden wie Maestro, Visa, Mastercard,
+        kontaktloses Zahlen erfordern einen kurzen Internet-Handshake, den Ihre Luxemburg
+        eSIM perfekt meistert.
     - q: Wie finde ich Geheimtipps von Food-Bloggern?
       a: Streamen Sie YouTube-Vlogs oder stöbern Sie in Yelp-Bewertungen mit Ihrer
-        Luxembourg eSIM, um kulinarische Highlights der Stadt zu finden.
+        Luxemburg eSIM, um kulinarische Highlights zu entdecken.
   - id: faq-social
     icon: smartphone
-    tab_title: Social
+    tab_title: Social Media
     title: 7. Social Media & Kommunikation
     questions:
     - q: Wie nutze ich WhatsApp/Telegram stabil im Ausland?
-      a: Ihre Accounts sind an Ihre Heimnummer gebunden. Mit unserer Luxembourg eSIM
+      a: Ihre Accounts sind an Ihre Heimnummer gebunden. Mit unserer Luxemburg eSIM
         als Internetquelle können Sie genau wie zu Hause chatten und telefonieren.
-    - q: Wie lade ich Inhalte auf TikTok hoch ohne öffentliches WLAN?
-      a: Öffentliches WLAN ist oft langsam und unsicher. Unsere 4G/5G Luxembourg eSIM
+    - q: Wie lade ich Inhalte auf TikTok hoch, ohne öffentliches WLAN?
+      a: Öffentliches WLAN ist oft langsam und unsicher. Unsere 4G/5G Luxemburg eSIM
         bietet die Bandbreite für schnelle Uploads.
     - q: Wie mache ich Videoanrufe mit meiner Familie?
-      a: Unsere Netzpartnerschaften garantieren, dass Videoanrufe über die Luxembourg
-        eSIM klar und verzögerungsfrei sind, egal wo Sie sich im Land befinden.
-    - q: Ist es sicher, soziale Accounts in öffentlichem WLAN zu nutzen?
+      a: Unsere Netzwerkpartnerschaften garantieren, dass Videoanrufe über die Luxemburg
+        eSIM klar und verzögerungsfrei sind, wo immer Sie sich im Land befinden.
+    - q: Ist es sicher, sich in öffentlichen WLANs in soziale Accounts einzuloggen?
       a: Öffentliches WLAN ist anfällig für Hacker. Die Nutzung Ihrer persönlichen
-        Luxembourg eSIM-Daten ist verschlüsselt und wesentlich sicherer.
-    - q: Wie teile ich das Netzwerk als Hotspot mit Mitreisenden?
+        Luxemburg eSIM-Daten ist verschlüsselt und wesentlich sicherer.
+    - q: Wie teile ich das Netzwerk als Hotspot mit Reisebegleitern?
       a: Aktivieren Sie die Hotspot-Funktion. Ihre Freunde können sich verbinden und
-        Ihr Luxembourg eSIM-Datenvolumen für ihre sozialen Medien nutzen.
+        Ihr Luxemburg eSIM-Datenvolumen für ihre sozialen Medien nutzen.
   - id: faq-crossborder
     icon: globe
-    tab_title: Grenzen
+    tab_title: Grenzüberschreitend
     title: 8. Grenzüberschreitende Reisen
     questions:
     - q: Brauche ich für jedes Land eine neue SIM-Karte?
-      a: Die Einzelland-Luxembourg eSIM funktioniert nur dort. Für Reisen durch mehrere
-        Länder empfehlen wir unsere Regionale eSIM (z. B. Europa eSIM).
-    - q: Wie vermeide ich Roaming-Gebühren bei Bahnfahrten über Grenzen?
+      a: Die Einzelland-Luxemburg eSIM funktioniert nur dort. Für Reisen durch mehrere
+        Länder empfehlen wir unsere Regionale eSIM (z.B. Europa eSIM).
+    - q: Wie vermeide ich Roaminggebühren bei Zugfahrten über Grenzen?
       a: Deaktivieren Sie 'Daten-Roaming' auf Ihrer Heim-SIM. Stellen Sie sicher,
-        dass die Luxembourg eSIM als primäre Datenleitung festgelegt ist.
-    - q: Wie bekomme ich Internet bei Transits in Singapur/Dubai?
+        dass die Luxemburg eSIM als primäre Datenleitung eingestellt ist.
+    - q: Wie bekomme ich Internet während Zwischenstopps in Singapur/Dubai?
       a: Sie können eine günstige 1GB eSIM für das Transitland kaufen, um während
-        des Zwischenstopps online zu bleiben.
-    - q: Wie bekomme ich Internet bei Kreuzfahrten?
-      a: Anstatt teures Schiffs-WLAN zu zahlen, aktivieren Sie eine lokale eSIM für
-        die Länder, in denen Sie anlegen. Sie verbindet sich, sobald Sie Landnähe
-        haben.
+        des Layovers online zu bleiben.
+    - q: Wie bekomme ich Internet auf Kreuzfahrten?
+      a: Statt teures Schiffs-WLAN zu zahlen, aktivieren Sie eine lokale eSIM für
+        die Länder, die Sie anlaufen. Sie verbindet sich, sobald Sie Landnähe haben.
     - q: Wie bleibt Google Maps bei Roadtrips online?
-      a: Mit einer Regional-eSIM wechselt Ihr Handy automatisch zum Netz des neuen
+      a: Mit einer Regional-eSIM wechselt Ihr Telefon automatisch zum Netz des neuen
         Landes, wenn Sie die Grenze überqueren, und hält Ihr GPS aktiv.
     - q: Wie verwalte ich Daten für mehrere Länder in einer App?
       a: Sie können Ihren Datenverbrauch für alle aktiven eSIMs direkt über unser
@@ -628,23 +636,22 @@ faq_section:
     title: 9. Notfälle
     questions:
     - q: Wie wähle ich lokale Notrufnummern?
-      a: In Luxembourg können Sie Notrufnummern wie 112 (Notruf), 113 (Polizei), 116117
-        (Ärztlicher Bereitschaftsdienst) direkt wählen, solange Ihr Handy irgendein
-        Mobilfunksignal empfängt, unabhängig von der SIM.
-    - q: Wie finde ich das nächste Krankenhaus bei plötzlicher Krankheit?
-      a: Ihre Luxembourg eSIM-Daten erlauben eine sofortige Suche auf Google Maps
+      a: In Luxemburg können Sie Notrufnummern wie Polizei 113, Rettung 112, Feuerwehr
+        112 direkt wählen, solange Ihr Telefon ein Mobilfunksignal empfängt.
+    - q: Wie finde ich das nächste Krankenhaus?
+      a: Ihre Luxemburg eSIM-Daten ermöglichen eine sofortige Suche auf Google Maps
         nach 'Apotheke' oder 'Krankenhaus' mit der schnellsten Route.
     - q: Wie finde ich Botschaftsinformationen bei Passverlust?
-      a: Nutzen Sie Ihre Luxembourg eSIM, um schnell Adresse, Notfallkontakt und Öffnungszeiten
-        Ihrer Botschaft im Internet zu finden.
+      a: Nutzen Sie Ihre Luxemburg eSIM, um schnell Adresse und Notfallkontakt Ihrer
+        Botschaft zu finden.
     - q: Wie kontaktiere ich die Reiseversicherung bei einem Unfall?
-      a: Nutzen Sie VoIP-Apps wie Skype oder Viber über Ihre Luxembourg eSIM-Daten,
-        um die Hotlines Ihrer Versicherung anzurufen.
-    - q: Wie teile ich meinen Standort in Echtzeit in unsicheren Gebieten?
-      a: Nutzen Sie 'Live-Standort teilen' in WhatsApp oder 'Wo ist?' von Apple, um
-        Ihre Koordinaten über Luxembourg eSIM-Daten zu senden.
+      a: Nutzen Sie VoIP-Apps wie Skype über Ihre Luxemburg eSIM-Daten, um die Hotlines
+        Ihrer Versicherung anzurufen.
+    - q: Wie teile ich meinen Standort in Echtzeit?
+      a: Nutzen Sie 'Live-Standort teilen' in WhatsApp oder Apples 'Wo ist?', um Ihre
+        Koordinaten über Luxemburg eSIM-Daten zu senden.
     - q: Wie lade ich Offline-Karten für abgelegene Gebiete?
-      a: Nutzen Sie Ihre Stadt-Abdeckung der Luxembourg eSIM, um Offline-Karten in
+      a: Nutzen Sie Ihre Stadt-Abdeckung der Luxemburg eSIM, um Offline-Karten in
         Google Maps zu laden, bevor Sie in Gebiete ohne Signal reisen.
   - id: faq-business
     icon: briefcase
@@ -652,87 +659,167 @@ faq_section:
     title: 10. Business & Arbeit
     questions:
     - q: Wie garantiere ich stabile Zoom/Teams-Meetings?
-      a: Unsere Luxembourg eSIM verbindet sich mit Premium-Netzen und bietet die Bandbreite
+      a: Unsere Luxemburg eSIM verbindet sich mit Premium-Netzen und bietet die Bandbreite
         und geringe Latenz für professionelle Videokonferenzen.
     - q: Wie verbinde ich mich sicher mit dem Firmen-VPN?
       a: Unsere Daten beschränken keine VPN-Protokolle. Sie können Ihr Firmen-VPN
-        sicher über das Luxembourg eSIM-Netzwerk starten.
+        sicher über das Luxemburg eSIM-Netzwerk starten.
     - q: Wie nutze ich den Hotspot für Laptops in Cafés?
-      a: Aktivieren Sie den Hotspot. Die Nutzung Ihrer Luxembourg eSIM ist deutlich
-        schneller und sicherer vor Cyber-Bedrohungen als offene WLAN-Netze.
+      a: Aktivieren Sie den Hotspot. Die Nutzung Ihrer Luxemburg eSIM ist deutlich
+        schneller und sicherer vor Cyber-Bedrohungen als offene WLANs.
     - q: Wie empfange ich 2FA-Codes für Firmen-E-Mails?
-      a: Lassen Sie Ihre Heim-SIM für SMS aktiv und nutzen Sie die Luxembourg eSIM-Daten
-        für den Empfang von E-Mail-Codes.
+      a: Lassen Sie Ihre heimische SIM für SMS aktiv und nutzen Sie die Luxemburg
+        eSIM-Daten für E-Mail-basierte Codes.
     - q: Wie lade ich große Dateien bei Kundenbesuchen hoch?
-      a: Mit 5G/4G-LTE-Geschwindigkeiten Ihrer Luxembourg eSIM können Sie Präsentationen
+      a: Mit 5G/4G-LTE-Geschwindigkeiten Ihrer Luxemburg eSIM können Sie Präsentationen
         schnell in Cloud-Dienste hochladen.
     - q: Wie nutze ich Slack/Gmail nahtlos für die Zusammenarbeit?
-      a: Ihre Luxembourg eSIM bietet konstante Verbindung, sodass Sie Slack-Nachrichten
+      a: Ihre Luxemburg eSIM bietet konstante Verbindung, sodass Sie Slack-Nachrichten
         und E-Mails sofort erhalten.
     - q: Wie aktualisiere ich Reisepläne für die Firma online?
-      a: Greifen Sie über Ihre Luxembourg eSIM von unterwegs auf Firmenportale zu,
-        um HR über Flugverspätungen zu informieren.
+      a: Greifen Sie über Ihre Luxemburg eSIM von unterwegs auf Firmenportale zu,
+        um die Personalabteilung über Flugverspätungen zu informieren.
 related_products:
   title: Ähnliche eSIM-Tarife
   items:
-  - name: USA eSIM
+  - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: united-states-esim
-  - name: UK eSIM
+  - name: Vereinigtes Königreich eSIM
     flag: img/flags/gb.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: united-kingdom-esim
   - name: Europa eSIM
     flag: img/flags/eu.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: true
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
     flag: img/flags/tr.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: turkey-esim
   - name: China eSIM
     flag: img/flags/cn.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: china-esim
   - name: Japan eSIM
     flag: img/flags/jp.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: japan-esim
-  - name: Hong Kong eSIM
+  - name: Hongkong eSIM
     flag: img/flags/hk.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: hong-kong-esim
   - name: Frankreich eSIM
     flag: img/flags/fr.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: france-esim
   - name: Spanien eSIM
     flag: img/flags/es.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: spain-esim
   - name: Deutschland eSIM
     flag: img/flags/de.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: germany-esim
   - name: Australien eSIM
     flag: img/flags/au.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
+# =============== 100% vollständige Wiederherstellung: datengesteuertes Marktvergleichsmodul ===============
+market_analysis:
+  title: "Luxembourg eSIM vs. lokale Prepaid-SIM: Was ist bequemer?"
+  subtitle: "Lokale Prepaid-SIMs in Luxemburg vs. eSIM-Lösungen (2024/2025 Benchmark)"
+  citation:
+    text: "Datenquelle: Prepaid Data SIM Card Wiki (Luxembourg) + Webseiten lokaler Anbieter"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Luxembourg"
+  table_headers:
+    - "Vergleichsmatrix"
+    - "Lokale Prepaid-SIM (Marktdaten)"
+    - "Roami Luxembourg eSIM"
+  table_rows:
+    - icon: "store"
+      title: "Erwerb &<br>Aktivierung"
+      prepaid_title: ""
+      prepaid_desc: "Post Telecom erfordert den Kauf in einer Postfiliale mit Passvorlage; Tango und Orange verlangen den Kauf in ihren offiziellen Geschäften mit Ausweisregistrierung."
+      esim_title: "Sofortige digitale Lieferung"
+      esim_desc: "Umgehen Sie Post-Filialen und Tango-Geschäfte. Aktivieren Sie Ihre eSIM online innerhalb von 1 Minute nach der Landung in Luxemburg-Stadt."
+    - icon: "id-card"
+      title: "KYC & Realnamen-<br>Registrierung"
+      prepaid_title: ""
+      prepaid_desc: "Seit 2015 sind anonyme Prepaid-Karten in Luxemburg verboten; alle Anbieter (Post, Tango, Orange) verlangen die Vorlage eines gültigen Ausweises oder Reisepasses beim Kauf."
+      esim_title: "Kein Pass erforderlich"
+      esim_desc: "Im Gegensatz zu Post, Tango und Orange, die seit 2015 eine Passregistrierung vorschreiben, benötigt Roami eSIM keine persönliche Identifikation – sofortige Aktivierung ohne Bürokratie."
+    - icon: "globe"
+      title: "Internationales<br>Roaming"
+      prepaid_title: ""
+      prepaid_desc: "Post und Tango bieten EU-Roaming ohne Aufpreis, unterliegen aber der Fair-Use-Policy (FUP); Orange schließt internationales Roaming für seinen 50GB-Router-Tarif ausdrücklich aus."
+      esim_title: "Weltweites Roaming ohne FUP"
+      esim_desc: "Während Post und Tango EU-Roaming mit Fair-Use-Limitierung bieten und Orange den 50GB-Tarif auf Luxemburg beschränkt, ermöglicht Roami eSIM nahtloses Roaming in über 100 Ländern ohne versteckte Drosselung."
+    - icon: "calendar-xmark"
+      title: "Abrechnungszyklus &<br>verschwendete Kosten"
+      prepaid_title: ""
+      prepaid_desc: "Post hat einen 30-Tage-Zyklus (€10/2GB, €15/8GB); Tango bietet 90-Tage-Guthaben mit Datenboni (€10/500MB) oder 30-Tage-Kombipakete (€10/1GB); Orange hat 30-Tage-Zyklen (€9/5GB) und 24-Stunden-Pässe (€1/250MB)."
+      esim_title: "Flexible Tarife nach Tagen"
+      esim_desc: "Statt 30-Tage-Zyklen bei Post (€10/2GB) oder Tango (€10/1GB) bietet Roami 7-Tage-Tarife ab $1.99/GB – sparen Sie bis zu 75% der Kosten für Kurzreisen."
+    - icon: "wifi"
+      title: "Hotspot &<br>Geschwindigkeitsrichtlinien"
+      prepaid_title: ""
+      prepaid_desc: "Keine spezifischen Daten in der Quelle für diese Dimension. Typischerweise erlauben luxemburgische Anbieter Tethering, aber unter FUP-Bedingungen."
+      esim_title: "Uneingeschränktes Tethering"
+      esim_desc: "Roami erlaubt Hotspot-Nutzung ohne zusätzliche Gebühren, während lokale Anbieter wie Orange Tethering in bestimmten Tarifen einschränken können."
+    - icon: "credit-card"
+      title: "Aufladung & Zahlung"
+      prepaid_title: ""
+      prepaid_desc: "Aufladung erfolgt über Guthabenkarten oder Online-Zahlung; ausländische Karten werden möglicherweise nicht akzeptiert."
+      esim_title: "Weltweite Zahlungsmethoden"
+      esim_desc: "Zahlen Sie mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal – keine Probleme mit ausländischen Karten wie bei lokalen Aufladestationen."
+    - icon: "headset"
+      title: "Kundensupport"
+      prepaid_title: ""
+      prepaid_desc: "Kundensupport ist auf Französisch, Deutsch oder Luxemburgisch verfügbar; Öffnungszeiten sind in der Regel Mo-Fr 9-17 Uhr."
+      esim_title: "24/7 Kundensupport"
+      esim_desc: "Roami bietet mehrsprachigen 24/7-Support per Live-Chat, während lokale Anbieter nur zu Bürozeiten auf Luxemburgisch, Deutsch oder Französisch helfen."
+
+  # =============== 100% vollständige Wiederherstellung: Expertenfazit-Modul ===============
+  expert_verdict:
+    title: "Luxembourg eSIM vs. Prepaid-SIM-Karte: Der ultimative Vergleich für stressfreie Konnektivität"
+    cards:
+      - icon: "wifi"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "Sofortige Aktivierung ohne Filialbesuch"
+        desc: "Statt in einer Postfiliale oder einem Tango-Store anzustehen, aktivieren Sie Roami eSIM online in unter einer Minute – ideal für Geschäftsreisende in Luxemburg-Stadt."
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "Umgehen Sie Luxemburgs strenge SIM-Passanforderungen"
+        desc: "Seit 2015 sind anonyme Prepaid-Karten verboten. Post, Tango und Orange verlangen alle die Vorlage eines Ausweises in einer Filiale. Mit Roami eSIM entfällt dieser Schritt komplett."
+      - icon: "globe"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "Multi-Netz-Abdeckung statt Single-Netz"
+        desc: "Lokale SIMs binden Sie an ein Netz (Post, Tango oder Orange). Roami eSIM nutzt automatisch das beste verfügbare Netz in Luxemburg und weltweit."
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "Vermeiden Sie FUP-Limitierungen beim Roaming"
+        desc: "Post und Tango bieten EU-Roaming, unterliegen aber der Fair-Use-Policy. Oranges 50GB-Tarif erlaubt gar kein internationales Roaming. Roami eSIM bietet transparente Daten ohne Drosselung."
 ---

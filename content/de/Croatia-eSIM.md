@@ -1,32 +1,29 @@
 ---
-title: Croatia eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-08T14:40:45+00:00'
+title: Kroatien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
+date: '2026-05-11T08:51:09+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Croatia eSIM
-  scenario_keywords: Sightseeing in Dubrovnik, Inselhüpfen in Dalmatien, Nationalparks
-    besuchen, Strandurlaub an der Adria
-  operators: Hrvatski Telekom, A1, Telemach
-  competitors: Airalo, Holafly, Ubigi, Flexiroam, eSIM.net
+  core_keyword: Kroatien eSIM
+  scenario_keywords: Inselhopping, Sightseeing, Geschäftsreise, Badeurlaub, Kulturreise
+  operators: T-Mobile, A1, Telemach
+  competitors: Airalo, Holafly, Nomad, Ubigi, eSIM.net
   main_cities: Zagreb, Split, Dubrovnik, Zadar, Rijeka
-  main_packages: 3/7/15/30 Tage, Unbegrenzte Daten
+  main_packages: 3/7/15/30 Tage, unbegrenzte Daten
 modal:
-  title: Service Upgrade!
-  btn_text: Weiter
+  title: Service-Upgrade!
+  btn_text: Fortfahren
   text_default: |-
-    Unser eSIM-Service wurde auf <strong>PhoneSIMGo</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: esim20
+    Unser eSIM-Service wurde auf <strong>PhoneSIMGo</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
   text_android: |-
-    Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: esim20
+    Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Günstige Prepaid eSIM für Kroatien - Ab $1.99 - Roami
-  description: Holen Sie sich eine günstige Prepaid eSIM für Kroatien mit sofortiger
-    Lieferung. Keine Roaming-Gebühren, mobiles Internet per QR-Code Aktivierung. Jetzt
-    kaufen!
-  keywords: eSIM Kroatien, Prepaid eSIM, günstige eSIM, mobiles Internet Kroatien,
-    Roami eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: Kaufen Sie Kroatien eSIM | Unbegrenztes 5G Reiseinternet | Roami
+  description: Bald an der kroatischen Küste? Roami garantiert sorgenfreie Prepaid-Daten
+    und nahtloses echtes 5G auf den besten lokalen Netzen. Aktivieren Sie sofort Ihre
+    digitale SIM und vermeiden Sie internationale Roaminggebühren.
+  keywords: Kroatien eSIM, Reisen Kroatien, mobiles Internet Kroatien, günstige eSIM
+    Kroatien, Urlaub Kroatien
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -34,27 +31,28 @@ order_summary:
   label_daily: Tagespreis
   label_total: Gesamtpreis
   btn_primary: 20% Rabatt sichern
-  btn_secondary: 'Code: ESIM20'
+  btn_secondary: 'Code: web20'
 breadcrumbs:
 - label: Startseite
   url: /
-- label: Croatia eSIM
+- label: Kroatien eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Beste eSIM für Croatia
-  title: Beste eSIM für Croatia
+  alt: Beste eSIM für Kroatien
+  title: Beste eSIM für Kroatien
 hero:
-  flag_image: img/flags/cr.svg
-  flag_alt: Croatia Flagge
-  title: Croatia eSIM Datentarif
-  subtitle: Top-Wahl für Reisen in Croatia | Günstige Croatia eSIM | 100% Geld-zurück-Garantie
+  flag_image: img/flags/hr.svg
+  flag_alt: Flagge von Kroatien
+  title: Kroatien eSIM Datentarif
+  subtitle: 1-Minuten-Aktivierung | Sorgenfreies Internet | Keine Roaminggebühren
+    mehr
 features:
   title: Warum Reisende Roami wählen
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Sofort-QR-Code
-    desc: Lieferung in unter 5 Min.
+    title: Sofortiger QR-Code
+    desc: Lieferung in unter 5 Minuten
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: 24/7 Support
@@ -73,13 +71,13 @@ features:
     desc: Jederzeit kündbar
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Wechsel
+    title: Auto-Auswahl
     desc: Beste lokale Netze
 plans_title: Wählen Sie Ihren Tarif
 plans_data:
   30 Tage:
   - spec: 20GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '21.99'
     oldPrice: '32.98'
@@ -87,7 +85,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 50GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '39.99'
     oldPrice: '59.98'
@@ -95,7 +93,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 100GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '54.99'
     oldPrice: '82.48'
@@ -103,7 +101,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.83'
   - spec: 30GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '29.99'
     oldPrice: '44.98'
@@ -111,7 +109,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 3GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Sightseeing
     price: '6.99'
     oldPrice: '10.48'
@@ -120,23 +118,23 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für tiefergehende Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für längere Reisen
     price: '9.99'
     oldPrice: '14.98'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '0.33'
   - spec: 10GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für längere Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für noch längere Reisen
     price: '14.99'
     oldPrice: '22.48'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '0.50'
   - spec: 20GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '22.99'
     oldPrice: '34.48'
@@ -144,7 +142,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '0.77'
   - spec: Unlimited
-    data: Unbegrenztes Highspeed-Volumen
+    data: Unbegrenzte Hochgeschwindigkeitsdaten
     desc: Sorgenfreie Datennutzung
     price: '76.99'
     oldPrice: '115.48'
@@ -153,7 +151,7 @@ plans_data:
     daily: '2.57'
   15 Tage:
   - spec: 30GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '28.99'
     oldPrice: '43.48'
@@ -161,7 +159,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.93'
   - spec: 3GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Sightseeing
     price: '5.99'
     oldPrice: '8.98'
@@ -170,23 +168,23 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für tiefergehende Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für längere Reisen
     price: '8.99'
     oldPrice: '13.48'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '0.60'
   - spec: 10GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für längere Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für noch längere Reisen
     price: '13.99'
     oldPrice: '20.98'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '0.93'
   - spec: 20GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '21.99'
     oldPrice: '32.98'
@@ -194,7 +192,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.47'
   - spec: Unlimited
-    data: Unbegrenztes Highspeed-Volumen
+    data: Unbegrenzte Hochgeschwindigkeitsdaten
     desc: Sorgenfreie Datennutzung
     price: '42.99'
     oldPrice: '64.48'
@@ -203,7 +201,7 @@ plans_data:
     daily: '2.87'
   7 Tage:
   - spec: 1GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Ideal für kurze Geschäftsreisen
     price: '2.99'
     oldPrice: '4.49'
@@ -211,7 +209,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: 3GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Sightseeing
     price: '4.99'
     oldPrice: '7.49'
@@ -220,23 +218,23 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 5GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für tiefergehende Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für längere Reisen
     price: '7.99'
     oldPrice: '11.98'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '1.14'
   - spec: 10GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für längere Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für noch längere Reisen
     price: '12.99'
     oldPrice: '19.48'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '1.86'
   - spec: 20GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '20.99'
     oldPrice: '31.48'
@@ -244,7 +242,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '3.00'
   - spec: Unlimited
-    data: Unbegrenztes Highspeed-Volumen
+    data: Unbegrenzte Hochgeschwindigkeitsdaten
     desc: Sorgenfreie Datennutzung
     price: '20.99'
     oldPrice: '31.48'
@@ -253,7 +251,7 @@ plans_data:
     daily: '3.00'
   3 Tage:
   - spec: 1GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Ideal für kurze Geschäftsreisen
     price: '1.99'
     oldPrice: '2.98'
@@ -261,7 +259,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 3GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Sightseeing
     price: '3.99'
     oldPrice: '5.99'
@@ -270,23 +268,23 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für tiefergehende Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für längere Reisen
     price: '6.99'
     oldPrice: '10.48'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: 10GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für längere Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für noch längere Reisen
     price: '11.99'
     oldPrice: '17.98'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '4.00'
   - spec: Unlimited
-    data: Unbegrenztes Highspeed-Volumen
+    data: Unbegrenzte Hochgeschwindigkeitsdaten
     desc: Sorgenfreie Datennutzung
     price: '9.99'
     oldPrice: '14.98'
@@ -294,24 +292,23 @@ plans_data:
     tagColor: bg-purple-600
     daily: '3.33'
 discount_banner:
-  title: Sonderrabatt!
+  title: Spezialrabatt!
   desc_html: |-
-    Nutzen Sie den Code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">esim20</span> beim Checkout für <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% RABATT</span>!
-  btn_text: Rabatt sichern
-  validity: 'Gültigkeit: 3 Tage'
+    Verwenden Sie den Code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> an der Kasse für <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% RABATT</span>!
+  btn_text: Rabatt speichern
+  validity: 'Gültig: 3 Tage'
 network_coverage:
-  title: Details zur Netzabdeckung
+  title: Netzabdeckungsdetails
   supports_text: 'Unterstützt:'
   service_details:
-    title: Servicedetails
+    title: Service-Details
     items:
     - icon: map
       color: text-brand-500
       title: Abdeckung
       desc: Genießen Sie umfassende Netzabdeckung in ganz Kroatien, einschließlich
         Städten wie Zagreb, Split, Dubrovnik, Zadar. Unsere Kroatien eSIM verbindet
-        sich nahtlos mit den Netzen von Hrvatski Telekom, A1, Telemach für stabilen
-        Empfang.
+        sich nahtlos mit den Netzen von T-Mobile, A1, Telemach.
     - icon: zap
       color: text-amber-500
       title: Lieferzeit
@@ -324,13 +321,10 @@ network_coverage:
     title: Mobilfunknetze
     badge: Offizieller Partner
     items:
-    - name: Hrvatski Telekom
+    - name: T-Mobile
       coverage: Geringe Latenz
       network: 5G/4G/LTE Netzwerk
     - name: A1
-      coverage: Hohe Zuverlässigkeit
-      network: 5G/4G/LTE Netzwerk
-    - name: Telemach
       coverage: Native IP
       network: 5G/4G/LTE Netzwerk
 reminders:
@@ -338,47 +332,67 @@ reminders:
   items:
   - icon: 📱
     html: |-
-      Prüfen Sie vor dem Kauf die <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-Kompatibilität</a> Ihres Handys.
+      Überprüfen Sie vor dem Kauf die <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-Kompatibilität</a> Ihres Telefons.
   - icon: ✈️
-    html: Wir empfehlen, die eSIM erst nach Ankunft in Croatia zu aktivieren.
+    html: Wir empfehlen, die eSIM erst nach der Ankunft in Kroatien zu aktivieren.
   - icon: ⏰
-    html: Die Gültigkeit beginnt mit der Verbindung zum Partnernetz.
+    html: Die Gültigkeit beginnt bei Verbindung mit dem Partnernetzwerk.
   - icon: 📧
-    html: Der QR-Code wird an Ihre E-Mail gesendet.
+    html: Der QR-Code wird an Ihre E-Mail-Adresse gesendet.
   - icon: 🔄
     html: Sie können mehrere eSIMs gleichzeitig installieren.
   compatibility_check:
     title: Schneller Kompatibilitätscheck
-    desc: 'Nicht sicher? Prüfen Sie es jetzt direkt an Ihrem Handy:'
-    instruction: 'Wählen Sie auf Ihrem Tastenfeld:'
+    desc: 'Nicht sicher? Prüfen Sie es jetzt auf Ihrem Telefon:'
+    instruction: 'Wählen Sie auf Ihrer Tastatur:'
     code: '*#06#'
     result_html: |-
       Wenn eine <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>-Nummer erscheint, wird eSIM unterstützt!
 activation_steps:
-  title: Schritte zur Aktivierung
+  title: Aktivierung Ihrer Kroatien eSIM in wenigen Minuten
   steps:
   - num: '1'
-    title: 'Schritt 1: QR-Code erhalten'
-    desc: Nach der Zahlung erhalten Sie den QR-Code innerhalb von 5 Minuten per E-Mail.
-      Bitte prüfen Sie auch den Spam-Ordner.
+    title: QR-Code empfangen & speichern – startklar für Kroatien
+    desc: Direkt nach Ihrer Bestellung erhalten Sie eine E‑Mail mit Ihrem persönlichen
+      Aktivierungs‑QR‑Code und den Einrichtungsanweisungen. Speichern Sie den QR-Code
+      auf Ihrem Smartphone oder drucken Sie ihn aus – Sie benötigen keine aktive Internetverbindung
+      für die spätere Installation. Die eSIM ist 30 Tage gültig, Sie können sie also
+      vor Ihrer Abreise nach Kroatien in aller Ruhe vorbereiten.
     is_list: false
   - num: '2'
-    title: 'Schritt 2: eSIM hinzufügen'
+    title: eSIM auf Ihrem Gerät installieren - QR-Code scannen
     is_list: true
     list_items:
-    - |-
-      Einstellungen > Mobilfunk (oder Mobile Daten)
-    - Tippen Sie auf "eSIM hinzufügen"
-    - Scannen Sie den QR-Code mit der Kamera
-    - Folgen Sie den Anweisungen zum Setup
+    - Öffnen Sie die **Einstellungen** Ihres Smartphones → **Mobilfunk / Mobile Daten**
+    - Tippen Sie auf **"eSIM hinzufügen"** oder **"Mobilfunkplan hinzufügen"**
+    - Wählen Sie **"QR-Code scannen"** und halten Sie die Kamera über den Code
+    - Das Kroatien eSIM-Profil wird automatisch geladen – tippen Sie auf **"Weiter"**
+    - Vergeben Sie einen Namen (z.B. „Roami Kroatien“) und wählen Sie ihn als **Standard
+      für mobile Daten**
+    - Die eSIM ist jetzt installiert, aber noch **inaktiv** – perfekt für die Reisevorbereitung
   - num: '3'
-    title: 'Schritt 3: In Croatia nutzen'
-    desc: Aktivieren Sie nach der Landung in Croatia die eSIM in den Einstellungen.
-      Wir empfehlen WLAN für die erste Aktivierung.
+    title: Vorbereitung zu Hause – ohne Risiko testen
+    desc: Nach der Installation können Sie die eSIM in den Einstellungen deaktiviert
+      lassen. Sie können sie jedoch bereits mit Ihrem heimischen WLAN testen (es werden
+      keine mobilen Daten verbraucht). Sobald Sie in Kroatien landen, schalten Sie
+      die eSIM einfach ein – die Gültigkeit startet dann automatisch bei der ersten
+      Verbindung mit dem Netz von T-Mobile / A1. Keine versteckten Aktivierungsgebühren,
+      keine Roamingkosten.
+    is_list: false
+  - num: '4'
+    title: 'Ankunft in Kroatien: sofort online mit 5G/4G'
+    desc: Sobald Sie in Kroatien gelandet sind (z.B. in Flughafen Zagreb, Flughafen
+      Split, Flughafen Dubrovnik), schalten Sie den Flugmodus aus (oder bleiben Sie
+      im Flugmodus und aktivieren Sie nur die eSIM). Gehen Sie zu **Einstellungen
+      → Mobilfunk** und aktivieren Sie Ihre Roami Kroatien eSIM. Innerhalb weniger
+      Sekunden verbindet sich Ihr Gerät automatisch mit dem schnellsten verfügbaren
+      5G/4G-Netz von T-Mobile / A1. Sie können sofort navigieren, WhatsApp nutzen,
+      soziale Medien checken oder einen Hotspot für andere Geräte einrichten – ohne
+      Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
 faq_section:
-  title: Croatia eSIM FAQ & Reiseführer
-  desc: Alles, was Sie über die Nutzung Ihrer Croatia eSIM in verschiedenen Reiseszenarien
+  title: Kroatien eSIM FAQ & Reiseführer
+  desc: Alles, was Sie über die Verwendung Ihrer Kroatien eSIM in verschiedenen Reiseszenarien
     wissen müssen.
   categories:
   - id: faq-general
@@ -386,139 +400,137 @@ faq_section:
     tab_title: Allgemein
     title: 1. Allgemeine Fragen
     questions:
-    - q: Unterstützt mein Handy die Croatia eSIM? Wie installiere ich sie?
-      a: Die meisten modernen Smartphones ab dem iPhone XS/XR, Samsung Galaxy S20+
-        und Google Pixel 3+ unterstützen eSIM. Sie können Ihre Croatia eSIM einfach
-        installieren, indem Sie den QR-Code scannen, den wir Ihnen per E-Mail senden,
-        in den Einstellungen für Mobilfunk/Mobile Daten Ihres Handys.
-    - q: Wie kaufe und aktiviere ich die Croatia eSIM? Ist sie sofort aktiv?
-      a: Sie können sie direkt auf unserer Website kaufen. Sie ist nicht sofort nach
-        dem Kauf aktiv; die Gültigkeitsdauer beginnt erst, wenn Sie in Croatia ankommen
-        und sich Ihr Handy mit dem lokalen Netzwerk verbindet.
-    - q: Was ist ein Aktivierungs-QR-Code? Läuft er ab? Kann er wiederverwendet werden?
-      a: Der QR-Code ist Ihr digitales SIM-Profil für die Croatia eSIM. Er muss in
-        der Regel innerhalb von 30 Tagen nach dem Kauf installiert werden. Einmal
-        installiert, kann er nicht erneut gescannt oder auf ein anderes Gerät übertragen
-        werden.
-    - q: Kann ich eine Rückerstattung erhalten, wenn die Croatia eSIM nicht funktioniert
-        oder ein schlechtes Signal hat?
-      a: Ja, wir bieten eine Geld-zurück-Garantie. Wenn Sie anhaltende Netzwerkprobleme
-        in Croatia haben, die unser Support-Team nicht lösen kann, haben Sie Anspruch
-        auf eine Rückerstattung.
-    - q: Bieten Sie 24/7 Kundensupport an? Wie kann ich Sie kontaktieren?
-      a: Ja, unser technisches Support-Team ist rund um die Uhr erreichbar. Sie können
-        uns über das Live-Chat-Widget auf unserer Website oder durch Antworten auf
-        Ihre Bestellbestätigungs-E-Mail erreichen.
-    - q: Gibt es Rabattcodes? Wie verwende ich den Promo-Code 'esim20'?
-      a: Ja! Sie können den Promo-Code 'esim20' auf der Checkout-Seite eingeben, um
-        sofort 20% Rabatt auf Ihre Croatia eSIM Bestellung zu erhalten.
-    - q: Ist Ihr 'Unlimited Data' Tarif wirklich unbegrenzt? Gibt es eine Fair Usage
-        Policy (FUP)?
-      a: Unsere Unlimited-Tarife bieten kontinuierliche Daten. Wie bei allen globalen
-        Anbietern gilt jedoch eine Fair Usage Policy (FUP), um Netzwerkmissbrauch
-        zu vermeiden. Bei extrem hoher Nutzung kann die Geschwindigkeit vorübergehend
-        reduziert werden, was normales Surfen oder Social Media jedoch nicht beeinträchtigt.
-    - q: Kann ich meine Croatia eSIM-Daten teilen (Hotspot)?
-      a: Absolut. Alle unsere Croatia eSIM-Tarife unterstützen mobilen Hotspot und
-        Tethering, sodass Sie Ihre Daten mit Ihrem Laptop, Tablet oder Mitreisenden
-        teilen können.
-    - q: Was sind die Vorteile Ihrer Croatia eSIM gegenüber lokalen SIM-Karten oder
-        anderen Anbietern?
-      a: Im Gegensatz zu physischen SIM-Karten müssen Sie nicht am Flughafen anstehen
-        oder kleine Plastikkarten wechseln. Wir arbeiten direkt mit Top-Netzen in
-        Croatia wie Hrvatski Telekom, A1, Telemach zusammen, um Premium-Geschwindigkeiten
-        zu einem Bruchteil der Roaming-Kosten zu gewährleisten.
-    - q: Wie schneidet Roami im Vergleich zu bekannten eSIM-Anbietern wie eSIM GO,
-        Holafly, Roamless, Airalo ab?
-      a: Während großartige Unternehmen wie eSIM GO, Holafly, Roamless, Airalo zuverlässige
-        Dienste leisten, konzentrieren wir uns auf die kosteneffizienteste Croatia
-        eSIM mit geringer Latenz und Bestpreisgarantie durch unser automatisches Preisabgleichsystem.
+    - q: Kann ich die Kroatien eSIM nach der Installation auf ein anderes Gerät übertragen?
+      a: Eine einmal installierte eSIM kann nicht auf ein anderes Gerät übertragen
+        werden. Bitte installieren Sie die eSIM auf dem Gerät, das Sie auf Reisen
+        nutzen werden. Für zusätzliche Geräte können Sie weitere eSIMs erwerben.
+    - q: Welche Voraussetzungen muss mein Smartphone erfüllen, um die Kroatien eSIM
+        nutzen zu können?
+      a: Ihr Gerät muss eSIM‑kompatibel sein (iPhone XS/XR oder neuer, Samsung Galaxy
+        S20/Note20 oder neuer, Google Pixel 3a oder neuer, sowie die meisten aktuellen
+        5G‑Handys von Huawei, Xiaomi, OnePlus). Prüfen Sie in den Einstellungen, ob
+        'eSIM hinzufügen' verfügbar ist.
+    - q: Kann ich meine bestehende Telefonnummer behalten, wenn ich die Kroatien eSIM
+        nutze?
+      a: 'Die Roami eSIM ist eine reine Daten‑eSIM. Sie können Ihre heimische SIM
+        parallel nutzen (z.B. für Anrufe/SMS). Die meisten Dual‑SIM‑Handys verwalten
+        beide Profile: Wählen Sie einfach die Roami eSIM als Standard für mobile Daten.'
+    - q: Wie sicher ist die Kroatien eSIM im Vergleich zu einer physischen SIM-Karte?
+      a: eSIMs sind manipulationssicherer, da sie fest im Gerät verbaut sind und nicht
+        herausgenommen oder kopiert werden können. Ihre Daten bleiben verschlüsselt
+        – kein Risiko durch verlorene oder gestohlene SIM-Karten.
+    - q: Welche 5G/4G-Netzwerke nutzt die Kroatien eSIM und wie ist die Abdeckung?
+      a: Die Kroatien eSIM arbeitet exklusiv mit T-Mobile / A1 zusammen. Sie erhalten
+        automatisch das jeweils beste verfügbare Netz (5G/4G/LTE) mit bester Abdeckung
+        in Städten wie Berlin, München, Hamburg sowie auf dem Land und entlang der
+        Autobahnen.
+    - q: Kann ich die Kroatien eSIM vor meiner Abreise installieren und später aktivieren?
+      a: Ja, Sie können die eSIM bereits zu Hause (per WLAN) installieren. Die Aktivierung
+        erfolgt dann automatisch, sobald Ihr Telefon in Kroatien das erste Mal das
+        Netz von T-Mobile / A1 erkennt. So vermeiden Sie jeglichen Stress bei der
+        Landung.
+    - q: Kann ich die Kroatien eSIM auch ohne QR-Code installieren?
+      a: Ja, zusätzlich zum QR-Code können Sie die eSIM manuell über die SM‑DP+‑Adresse
+        und den Aktivierungscode installieren (beide finden Sie in Ihrer Bestellbestätigung).
+        Der QR‑Code ist jedoch die schnellste und einfachste Methode.
+    - q: Bietet Roami unbegrenzte Datentarife für Kroatien an? Gibt es eine Fair‑Use‑Policy?
+      a: Roami bietet echte unbegrenzte Datentarife für Kroatien. Eine Fair‑Use‑Policy
+        gilt nur bei extremer Nutzung (z.B. dauerhaftes 4K‑Streaming über mehrere
+        Tage). Normales Surfen, Social Media, Videoanrufe und Navigation sind nicht
+        betroffen.
+    - q: Kann ich während der Nutzung der Kroatien eSIM weiterhin Anrufe auf meiner
+        heimischen SIM empfangen?
+      a: Ja, Dual‑SIM‑Geräte erlauben die gleichzeitige Nutzung beider Profile. Stellen
+        Sie einfach in den Einstellungen die Roami eSIM als Standard für mobile Daten
+        ein. Anrufe und SMS laufen weiter über Ihre Heim‑SIM (Roaming kann aktiv bleiben).
+    - q: Wie lange ist der QR-Code für die Kroatien eSIM gültig?
+      a: Der QR-Code ist 30 Tage lang gültig, nachdem wir ihn an Ihre E‑Mail gesendet
+        haben. Sie haben also ausreichend Zeit, die eSIM vor Ihrer Reise zu installieren.
+        Nach Ablauf der Frist können wir einen neuen Code ausstellen.
   - id: faq-airport
     icon: plane
-    tab_title: Flughafen
+    tab_title: Flughäfen
     title: 2. Flughafen-Netzwerk
     questions:
-    - q: Wie bekomme ich sofort nach dem Aussteigen eine Internetverbindung?
-      a: Installieren Sie die Croatia eSIM vor Ihrem Flug. Sobald Sie an Flughäfen
-        wie Flughafen Zagreb, Flughafen Split, Flughafen Dubrovnik landen, deaktivieren
-        Sie einfach den Flugmodus und aktivieren Sie Ihre eSIM-Leitung. Sie verbindet
+    - q: Wie erhalte ich sofort nach der Landung ein zuverlässiges Netz?
+      a: Installieren Sie die Kroatien eSIM vor Ihrem Flug. Sobald Sie an Flughäfen
+        wie Flughafen Zagreb, Flughafen Split, Flughafen Dubrovnik landen, schalten
+        Sie einfach den Flugmodus aus und aktivieren Sie Ihre eSIM. Sie verbindet
         sich in Sekunden mit dem lokalen 4G/5G-Netz.
     - q: Wie kontaktiere ich meinen Abholer oder nutze Uber/Grab?
       a: Nach der Aktivierung bei der Landung können Sie sofort Apps wie Uber, Bolt,
-        Moovit nutzen, um eine Fahrt zu buchen oder WhatsApp zu verwenden, um Ihren
+        Taxi Zagreb nutzen, um eine Fahrt zu buchen, oder WhatsApp verwenden, um Ihren
         Fahrer zu kontaktieren, ohne auf unsicheres Flughafen-WLAN angewiesen zu sein.
-    - q: Wie nutze ich Google Maps zur Transportsuche am Flughafen?
-      a: Mit Ihren Croatia eSIM-Daten können Sie direkt an der Gepäckausgabe in Flughafen
+    - q: Wie nutze ich Google Maps/Apple Maps, um Transportmittel zu finden?
+      a: Mit Ihren Kroatien eSIM-Daten können Sie direkt an der Gepäckausgabe in Flughafen
         Zagreb, Flughafen Split, Flughafen Dubrovnik Echtzeit-Fahrpläne für Züge und
         Busse prüfen oder den Weg zum Taxistand finden.
-    - q: Wie vermeide ich teure SIM-Karten-Touristenfallen am Flughafen?
-      a: Indem Sie unsere Croatia eSIM vorab online kaufen, umgehen Sie die teuren
+    - q: Wie vermeide ich teure SIM-Karten am Flughafen?
+      a: Indem Sie unsere Kroatien eSIM vorab online kaufen, umgehen Sie die teuren
         SIM-Kioske in der Ankunftshalle komplett und sparen Zeit und Geld.
-    - q: Wie empfange ich SMS ohne lokale Nummer?
-      a: Unsere Croatia eSIM ist ein reiner Datentarif. Um SMS zu empfangen, lassen
-        Sie Ihre primäre SIM-Karte für Texte aktiv (der Empfang ist im Roaming oft
-        kostenlos) und nutzen Sie die eSIM für den gesamten Datenverkehr.
-    - q: Wie kontaktiere ich meine Familie sofort nach der Landung?
+    - q: Wie empfange ich SMS von Hotel/Autovermietung ohne lokale Nummer?
+      a: Unsere Kroatien eSIM ist ein reiner Datentarif. Um SMS zu empfangen, lassen
+        Sie Ihre heimische SIM-Karte aktiviert (SMS-Empfang ist oft kostenlos im Roaming)
+        und nutzen Sie die eSIM für den gesamten Datenverkehr.
+    - q: Wie kontaktiere ich sofort meine Familie?
       a: Sobald Sie landen, können Sie iMessage, WhatsApp oder FaceTime über unsere
-        schnellen Croatia eSIM-Daten nutzen, um Ihren Lieben mitzuteilen, dass Sie
+        schnellen Kroatien eSIM-Daten nutzen, um Ihren Lieben mitzuteilen, dass Sie
         sicher angekommen sind.
   - id: faq-transport
     icon: car
-    tab_title: Verkehr
+    tab_title: Transport
     title: 3. Transport & Reisen
     questions:
-    - q: Wie nutze ich Google Maps für die Routenplanung?
-      a: Unsere stabile Croatia eSIM-Verbindung stellt sicher, dass Google Maps überall
-        in Croatia Echtzeit-Verkehrsdaten und Fahrpläne laden kann, was die Navigation
-        nahtlos macht.
-    - q: Wie kontaktiere ich Uber/Grab-Fahrer über die App?
-      a: Apps wie Uber, Bolt, Moovit nutzen VoIP. Da Sie aktive Croatia eSIM-Daten
+    - q: Wie nutze ich Google Maps zur Routenplanung?
+      a: Unsere stabile Kroatien eSIM-Verbindung stellt sicher, dass Google Maps überall
+        in Kroatien Echtzeit-Verkehrsdaten und Fahrpläne laden kann.
+    - q: Wie können mich Uber/Grab-Fahrer über die App kontaktieren?
+      a: Apps wie Uber, Bolt, Taxi Zagreb nutzen VoIP. Da Sie aktive Kroatien eSIM-Daten
         haben, können Fahrer Sie direkt über die App anrufen oder benachrichtigen,
-        ohne dass eine lokale Nummer nötig ist.
+        ohne eine lokale Nummer.
     - q: Wie kaufe ich Zug- oder U-Bahn-Tickets online?
-      a: Nutzen Sie Ihre Croatia eSIM-Daten, um in lokalen Apps digitale QR-Code-Tickets
-        zu kaufen und lange Warteschlangen an Automaten zu vermeiden.
+      a: Nutzen Sie Ihre Kroatien eSIM-Daten, um in lokalen Apps digitale QR-Code-Tickets
+        zu kaufen und lange Schlangen an Automaten zu vermeiden.
     - q: Wie nutze ich Google Maps für Echtzeit-Navigation im Mietwagen?
-      a: Befestigen Sie Ihr Handy und nutzen Sie Ihre Croatia eSIM. Ein 5GB oder 10GB
-        Tarif reicht völlig für eine umfangreiche GPS-Navigation während eines Roadtrips
-        in Croatia.
-    - q: Wie scanne und entsperre ich E-Scooter?
+      a: Befestigen Sie Ihr Telefon und nutzen Sie Ihre Kroatien eSIM. Ein 5GB- oder
+        10GB-Tarif reicht für eine umfangreiche GPS-Navigation während eines Roadtrips
+        in Kroatien.
+    - q: Wie scanne und entsperre ich E-Scooter (Lime/Bird)?
       a: Das Entsperren von E-Scootern erfordert eine schnelle Internetverbindung.
-        Unsere Croatia eSIM bietet die dafür nötige zuverlässige Abdeckung.
+        Unsere Kroatien eSIM bietet die dafür nötige zuverlässige Abdeckung.
     - q: Funktionieren Fahrdienst-Apps länderübergreifend?
-      a: Ja, Ihr Account bleibt gleich. Stellen Sie nur sicher, dass Sie über unsere
-        lokale oder regionale eSIM eine aktive Internetverbindung haben, um Fahrten
-        zu buchen.
-    - q: Wie biete ich einen stabilen Hotspot für meine Familie an?
+      a: Ja, Ihr Konto bleibt gleich. Stellen Sie nur sicher, dass Sie über unsere
+        lokale oder regionale eSIM eine aktive Internetverbindung haben.
+    - q: Wie biete ich einen stabilen Hotspot für meine Familie?
       a: Aktivieren Sie einfach den 'Persönlichen Hotspot' in Ihren Einstellungen.
-        Ihre Familie kann sich mit Ihrem Croatia eSIM-Netzwerk im Zug oder Auto verbinden.
+        Ihre Familie kann sich mit Ihrem Kroatien eSIM-Netzwerk im Zug oder Auto verbinden.
   - id: faq-hotels
     icon: hotel
     tab_title: Hotels
     title: 4. Hotels & Unterkünfte
     questions:
-    - q: Wie mache ich einen Self-Check-in nach einer Online-Buchung?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Ihre Croatia eSIM stellt sicher, dass Sie diese
-        Details direkt vor der Haustür abrufen können.
-    - q: Wie kontaktiere ich meinen Airbnb-Gastgeber bei der Ankunft?
+    - q: Wie mache ich einen Self-Check-in nach Buchung?
+      a: Viele moderne Unterkünfte senden Smart-Lock-Codes per E-Mail. Ihre Kroatien
+        eSIM stellt sicher, dass Sie diese Details direkt vor der Haustür abrufen
+        können.
+    - q: Wie kontaktiere ich meinen Airbnb-Gastgeber bei Ankunft?
       a: Nutzen Sie die Messaging-Funktion der Airbnb-App oder WhatsApp, um Ihre Ankunftszeit
-        mit Ihrem Gastgeber über mobile Croatia eSIM-Daten abzustimmen.
+        mit Ihrem Gastgeber über mobile Kroatien eSIM-Daten abzustimmen.
     - q: Wie nutze ich Google Maps, um zum Hotel zu navigieren?
-      a: Egal ob Sie im Hotel Esplanade Zagreb, Hotel Park Split, Hilton Rijeka oder
-        einer Pension übernachten, geben Sie die Adresse in Google Maps ein und nutzen
-        Sie die Navigation Ihrer Croatia eSIM.
-    - q: Wie empfange ich Verifizierungscodes (SMS) im Hotel?
-      a: Keep your home SIM active for receiving SMS, and use the hotel Wi-Fi or your
-        Croatia eSIM data to trigger the verification code from your bank or app.
-    - q: Wie kontaktiere ich den Kundenservice schnell?
+      a: Egal ob Sie in Hotel Esplanade Zagreb, Hotel Dubrovnik Palace, Hotel Park
+        Split übernachten, geben Sie die Adresse in Google Maps ein und nutzen Sie
+        die Navigation Ihrer Kroatien eSIM.
+    - q: Wie empfange ich SMS-Verifizierungscodes?
+      a: Lassen Sie Ihre heimische SIM für SMS aktiv und nutzen Sie Ihre Kroatien
+        eSIM-Daten, um Codes per E-Mail oder Authenticator-App zu empfangen.
+    - q: Wie kontaktiere ich schnell den Kundenservice?
       a: Nutzen Sie VoIP-Apps wie Skype oder die Chat-Funktion der Buchungs-App über
-        Ihre Hochgeschwindigkeits-Croatia eSIM-Daten.
-    - q: Wie bestelle ich Essen ins Hotel mit lokalen Apps?
-      a: Laden Sie Wolt, Glovo, Pauza herunter und nutzen Sie Ihre Croatia eSIM-Daten,
+        Ihre Hochgeschwindigkeits-Kroatien eSIM-Daten.
+    - q: Wie bestelle ich Essen mit lokalen Liefer-Apps?
+      a: Laden Sie Wolt, Glovo, Bolt Food herunter und nutzen Sie Ihre Kroatien eSIM-Daten,
         um eine warme Mahlzeit direkt in die Hotellobby zu bestellen.
     - q: Wie bleibe ich nach dem Checkout mit dem Hotel in Kontakt?
-      a: Sobald Sie das Hotel-WLAN verlassen, übernimmt Ihre Croatia eSIM, sodass
+      a: Sobald Sie das Hotel-WLAN verlassen, übernimmt Ihre Kroatien eSIM, sodass
         Sie dem Hotel schreiben können, falls Sie etwas vergessen haben.
   - id: faq-attractions
     icon: landmark
@@ -526,94 +538,93 @@ faq_section:
     title: 5. Sehenswürdigkeiten & Unterhaltung
     questions:
     - q: Wie kaufe ich E-Tickets über GetYourGuide/Viator?
-      a: Wenn Sie Plitvicer Seen, Diokletianpalast, Altstadt von Dubrovnik spontan
-        besuchen möchten, können Sie Ihre Croatia eSIM-Daten nutzen, um Online-Tickets
+      a: Wenn Sie Diokletianpalast in Split, Altstadt von Dubrovnik, Plitvicer Seen
+        spontan besuchen möchten, können Sie Ihre Kroatien eSIM-Daten nutzen, um Online-Tickets
         zu kaufen und den Barcode direkt vorzuzeigen.
-    - q: Wie buche ich Erlebnisse auf Tripadvisor sofort?
-      a: Mit dem zuverlässigen 4G/5G Ihrer Croatia eSIM können Sie Bewertungen lesen
+    - q: Wie buche ich Erlebnisse bei Tripadvisor sofort?
+      a: Mit dem zuverlässigen 4G/5G Ihrer Kroatien eSIM können Sie Bewertungen lesen
         und lokale Touren buchen, während Sie in einem Café sitzen.
-    - q: Wie nutze ich Wikipedia/Google für Informationen während der Besichtigung?
+    - q: Wie nutze ich Wikipedia/Google für Informationen während des Besuchs?
       a: Erweitern Sie Ihr kulturelles Erlebnis, indem Sie historische Fakten googeln
-        oder Museumstafeln übersetzen, während Sie Croatia erkunden.
+        oder Museumstafeln übersetzen, während Sie Kroatien erkunden.
     - q: Wie finde ich den Weg zur nächsten Sehenswürdigkeit?
       a: Geben Sie Ihr nächstes Ziel in Google Maps ein; die starke Abdeckung Ihrer
-        Croatia eSIM führt Sie über die schnellste Route.
-    - q: Wie prüfe ich Wartezeiten in Freizeitparks?
-      a: Freizeitpark-Apps benötigen Internet für Live-Wartezeiten. Ihre Croatia eSIM
-        hält Sie im gesamten Park online.
+        Kroatien eSIM führt Sie über die schnellste Route.
+    - q: Wie prüfe ich Echtzeit-Wartezeiten in Freizeitparks?
+      a: Freizeitpark-Apps benötigen Internet für Live-Wartezeiten. Ihre Kroatien
+        eSIM hält Sie im gesamten Park online.
     - q: Wie greife ich auf Ticketmaster für Show-Tickets zu?
       a: Sie können sicher Last-Minute-Theaterkarten über Ticketing-Apps mit Ihren
-        Croatia eSIM-Daten kaufen.
+        Kroatien eSIM-Daten kaufen.
     - q: Wie teile ich Fotos/Videos sofort auf Instagram/TikTok?
-      a: Unsere schnellen Croatia eSIM Upload-Geschwindigkeiten ermöglichen es Ihnen,
-        Reels und Fotos in Echtzeit zu posten, ohne auf das Hotel-WLAN zu warten.
+      a: Unsere schnellen Kroatien eSIM-Upload-Geschwindigkeiten ermöglichen es Ihnen,
+        Reels und Fotos in Echtzeit zu posten, ohne auf Hotel-WLAN zu warten.
   - id: faq-dining
     icon: utensils
     tab_title: Gastronomie
     title: 6. Essen & Restaurants
     questions:
     - q: Wie finde ich Restaurants mit Google Maps/Tripadvisor?
-      a: Suchen Sie mit Ihrer Croatia eSIM nach 'Restaurants in der Nähe', um Bewertungen,
+      a: Suchen Sie mit Ihrer Kroatien eSIM nach 'Restaurants in der Nähe', um Bewertungen,
         Öffnungszeiten und Menüfotos zu prüfen.
     - q: Wie reserviere ich Tische online?
-      a: Sichern Sie sich eine Reservierung über Online-Plattformen mit Ihrer Croatia
+      a: Sichern Sie sich eine Reservierung über Online-Plattformen mit Ihrer Kroatien
         eSIM, während Sie unterwegs sind.
     - q: Wie scanne ich QR-Codes für digitale Menüs?
-      a: Viele Restaurants nutzen digitale Karten. Ihre Croatia eSIM stellt sicher,
+      a: Viele Restaurants nutzen digitale Menüs. Ihre Kroatien eSIM stellt sicher,
         dass der Code auf dem Tisch sofort geladen wird.
     - q: Wie nutze ich die Google Translate Kamera für Speisekarten?
       a: Öffnen Sie die App und richten Sie die Kamera auf das Menü. Die Live-Übersetzung
-        erfordert eine Internetverbindung über Ihre Croatia eSIM.
+        benötigt eine Internetverbindung über Ihre Kroatien eSIM.
     - q: Wie nutze ich lokale Lieferdienste?
-      a: Laden Sie lokale Apps wie Wolt, Glovo, Pauza herunter und bestellen Sie bequem
-        über Ihre Croatia eSIM mobile Daten.
+      a: Laden Sie lokale Apps wie Wolt, Glovo, Bolt Food herunter und bestellen Sie
+        bequem über Ihre Kroatien eSIM-Mobildaten.
     - q: Wie bezahle ich mit Apple Pay/Google Pay?
-      a: Kontaktlose Zahlungen oder lokale Methoden wie Kreditkarte (Visa, Mastercard),
-        Google Pay, Apple Pay erfordern einen kurzen Internet-Handshake, den Ihre
-        Croatia eSIM perfekt bewältigt.
+      a: Kontaktlose Zahlungen oder lokale Methoden wie Kreditkarte, Google Pay, Apple
+        Pay erfordern einen kurzen Internet-Handshake, den Ihre Kroatien eSIM perfekt
+        meistert.
     - q: Wie finde ich Geheimtipps von Food-Bloggern?
       a: Streamen Sie YouTube-Vlogs oder stöbern Sie in Yelp-Bewertungen mit Ihrer
-        Croatia eSIM, um kulinarische Highlights der Stadt zu finden.
+        Kroatien eSIM, um kulinarische Highlights zu entdecken.
   - id: faq-social
     icon: smartphone
-    tab_title: Social
+    tab_title: Social Media
     title: 7. Social Media & Kommunikation
     questions:
     - q: Wie nutze ich WhatsApp/Telegram stabil im Ausland?
-      a: Ihre Accounts sind an Ihre Heimnummer gebunden. Mit unserer Croatia eSIM
+      a: Ihre Accounts sind an Ihre Heimnummer gebunden. Mit unserer Kroatien eSIM
         als Internetquelle können Sie genau wie zu Hause chatten und telefonieren.
-    - q: Wie lade ich Inhalte auf TikTok hoch ohne öffentliches WLAN?
-      a: Öffentliches WLAN ist oft langsam und unsicher. Unsere 4G/5G Croatia eSIM
+    - q: Wie lade ich Inhalte auf TikTok hoch, ohne öffentliches WLAN?
+      a: Öffentliches WLAN ist oft langsam und unsicher. Unsere 4G/5G Kroatien eSIM
         bietet die Bandbreite für schnelle Uploads.
     - q: Wie mache ich Videoanrufe mit meiner Familie?
-      a: Unsere Netzpartnerschaften garantieren, dass Videoanrufe über die Croatia
-        eSIM klar und verzögerungsfrei sind, egal wo Sie sich im Land befinden.
-    - q: Ist es sicher, soziale Accounts in öffentlichem WLAN zu nutzen?
+      a: Unsere Netzwerkpartnerschaften garantieren, dass Videoanrufe über die Kroatien
+        eSIM klar und verzögerungsfrei sind, wo immer Sie sich im Land befinden.
+    - q: Ist es sicher, sich in öffentlichen WLANs in soziale Accounts einzuloggen?
       a: Öffentliches WLAN ist anfällig für Hacker. Die Nutzung Ihrer persönlichen
-        Croatia eSIM-Daten ist verschlüsselt und wesentlich sicherer.
-    - q: Wie teile ich das Netzwerk als Hotspot mit Mitreisenden?
+        Kroatien eSIM-Daten ist verschlüsselt und wesentlich sicherer.
+    - q: Wie teile ich das Netzwerk als Hotspot mit Reisebegleitern?
       a: Aktivieren Sie die Hotspot-Funktion. Ihre Freunde können sich verbinden und
-        Ihr Croatia eSIM-Datenvolumen für ihre sozialen Medien nutzen.
+        Ihr Kroatien eSIM-Datenvolumen für ihre sozialen Medien nutzen.
   - id: faq-crossborder
     icon: globe
-    tab_title: Grenzen
+    tab_title: Grenzüberschreitend
     title: 8. Grenzüberschreitende Reisen
     questions:
     - q: Brauche ich für jedes Land eine neue SIM-Karte?
-      a: Die Einzelland-Croatia eSIM funktioniert nur dort. Für Reisen durch mehrere
-        Länder empfehlen wir unsere Regionale eSIM (z. B. Europa eSIM).
-    - q: Wie vermeide ich Roaming-Gebühren bei Bahnfahrten über Grenzen?
+      a: Die Einzelland-Kroatien eSIM funktioniert nur dort. Für Reisen durch mehrere
+        Länder empfehlen wir unsere Regionale eSIM (z.B. Europa eSIM).
+    - q: Wie vermeide ich Roaminggebühren bei Zugfahrten über Grenzen?
       a: Deaktivieren Sie 'Daten-Roaming' auf Ihrer Heim-SIM. Stellen Sie sicher,
-        dass die Croatia eSIM als primäre Datenleitung festgelegt ist.
-    - q: Wie bekomme ich Internet bei Transits in Singapur/Dubai?
+        dass die Kroatien eSIM als primäre Datenleitung eingestellt ist.
+    - q: Wie bekomme ich Internet während Zwischenstopps in Singapur/Dubai?
       a: Sie können eine günstige 1GB eSIM für das Transitland kaufen, um während
-        des Zwischenstopps online zu bleiben.
-    - q: Wie bekomme ich Internet bei Kreuzfahrten?
-      a: Anstatt teures Schiffs-WLAN zu zahlen, aktivieren Sie eine lokale eSIM für
-        die Länder, in denen Sie anlegen. Sie verbindet sich, sobald Sie Landnähe
-        haben.
+        des Layovers online zu bleiben.
+    - q: Wie bekomme ich Internet auf Kreuzfahrten?
+      a: Statt teures Schiffs-WLAN zu zahlen, aktivieren Sie eine lokale eSIM für
+        die Länder, die Sie anlaufen. Sie verbindet sich, sobald Sie Landnähe haben.
     - q: Wie bleibt Google Maps bei Roadtrips online?
-      a: Mit einer Regional-eSIM wechselt Ihr Handy automatisch zum Netz des neuen
+      a: Mit einer Regional-eSIM wechselt Ihr Telefon automatisch zum Netz des neuen
         Landes, wenn Sie die Grenze überqueren, und hält Ihr GPS aktiv.
     - q: Wie verwalte ich Daten für mehrere Länder in einer App?
       a: Sie können Ihren Datenverbrauch für alle aktiven eSIMs direkt über unser
@@ -627,22 +638,23 @@ faq_section:
     title: 9. Notfälle
     questions:
     - q: Wie wähle ich lokale Notrufnummern?
-      a: In Croatia können Sie Notrufnummern wie 112 (allgemeiner Notruf) direkt wählen,
-        solange Ihr Handy irgendein Mobilfunksignal empfängt, unabhängig von der SIM.
-    - q: Wie finde ich das nächste Krankenhaus bei plötzlicher Krankheit?
-      a: Ihre Croatia eSIM-Daten erlauben eine sofortige Suche auf Google Maps nach
-        'Apotheke' oder 'Krankenhaus' mit der schnellsten Route.
+      a: In Kroatien können Sie Notrufnummern wie 112 (Allgemein), 192 (Polizei),
+        194 (Krankenwagen) direkt wählen, solange Ihr Telefon ein Mobilfunksignal
+        empfängt.
+    - q: Wie finde ich das nächste Krankenhaus?
+      a: Ihre Kroatien eSIM-Daten ermöglichen eine sofortige Suche auf Google Maps
+        nach 'Apotheke' oder 'Krankenhaus' mit der schnellsten Route.
     - q: Wie finde ich Botschaftsinformationen bei Passverlust?
-      a: Nutzen Sie Ihre Croatia eSIM, um schnell Adresse, Notfallkontakt und Öffnungszeiten
-        Ihrer Botschaft im Internet zu finden.
+      a: Nutzen Sie Ihre Kroatien eSIM, um schnell Adresse und Notfallkontakt Ihrer
+        Botschaft zu finden.
     - q: Wie kontaktiere ich die Reiseversicherung bei einem Unfall?
-      a: Nutzen Sie VoIP-Apps wie Skype oder Viber über Ihre Croatia eSIM-Daten, um
-        die Hotlines Ihrer Versicherung anzurufen.
-    - q: Wie teile ich meinen Standort in Echtzeit in unsicheren Gebieten?
-      a: Nutzen Sie 'Live-Standort teilen' in WhatsApp oder 'Wo ist?' von Apple, um
-        Ihre Koordinaten über Croatia eSIM-Daten zu senden.
+      a: Nutzen Sie VoIP-Apps wie Skype über Ihre Kroatien eSIM-Daten, um die Hotlines
+        Ihrer Versicherung anzurufen.
+    - q: Wie teile ich meinen Standort in Echtzeit?
+      a: Nutzen Sie 'Live-Standort teilen' in WhatsApp oder Apples 'Wo ist?', um Ihre
+        Koordinaten über Kroatien eSIM-Daten zu senden.
     - q: Wie lade ich Offline-Karten für abgelegene Gebiete?
-      a: Nutzen Sie Ihre Stadt-Abdeckung der Croatia eSIM, um Offline-Karten in Google
+      a: Nutzen Sie Ihre Stadt-Abdeckung der Kroatien eSIM, um Offline-Karten in Google
         Maps zu laden, bevor Sie in Gebiete ohne Signal reisen.
   - id: faq-business
     icon: briefcase
@@ -650,87 +662,167 @@ faq_section:
     title: 10. Business & Arbeit
     questions:
     - q: Wie garantiere ich stabile Zoom/Teams-Meetings?
-      a: Unsere Croatia eSIM verbindet sich mit Premium-Netzen und bietet die Bandbreite
+      a: Unsere Kroatien eSIM verbindet sich mit Premium-Netzen und bietet die Bandbreite
         und geringe Latenz für professionelle Videokonferenzen.
     - q: Wie verbinde ich mich sicher mit dem Firmen-VPN?
       a: Unsere Daten beschränken keine VPN-Protokolle. Sie können Ihr Firmen-VPN
-        sicher über das Croatia eSIM-Netzwerk starten.
+        sicher über das Kroatien eSIM-Netzwerk starten.
     - q: Wie nutze ich den Hotspot für Laptops in Cafés?
-      a: Aktivieren Sie den Hotspot. Die Nutzung Ihrer Croatia eSIM ist deutlich schneller
-        und sicherer vor Cyber-Bedrohungen als offene WLAN-Netze.
+      a: Aktivieren Sie den Hotspot. Die Nutzung Ihrer Kroatien eSIM ist deutlich
+        schneller und sicherer vor Cyber-Bedrohungen als offene WLANs.
     - q: Wie empfange ich 2FA-Codes für Firmen-E-Mails?
-      a: Lassen Sie Ihre Heim-SIM für SMS aktiv und nutzen Sie die Croatia eSIM-Daten
-        für den Empfang von E-Mail-Codes.
+      a: Lassen Sie Ihre heimische SIM für SMS aktiv und nutzen Sie die Kroatien eSIM-Daten
+        für E-Mail-basierte Codes.
     - q: Wie lade ich große Dateien bei Kundenbesuchen hoch?
-      a: Mit 5G/4G-LTE-Geschwindigkeiten Ihrer Croatia eSIM können Sie Präsentationen
+      a: Mit 5G/4G-LTE-Geschwindigkeiten Ihrer Kroatien eSIM können Sie Präsentationen
         schnell in Cloud-Dienste hochladen.
     - q: Wie nutze ich Slack/Gmail nahtlos für die Zusammenarbeit?
-      a: Ihre Croatia eSIM bietet konstante Verbindung, sodass Sie Slack-Nachrichten
+      a: Ihre Kroatien eSIM bietet konstante Verbindung, sodass Sie Slack-Nachrichten
         und E-Mails sofort erhalten.
     - q: Wie aktualisiere ich Reisepläne für die Firma online?
-      a: Greifen Sie über Ihre Croatia eSIM von unterwegs auf Firmenportale zu, um
-        HR über Flugverspätungen zu informieren.
+      a: Greifen Sie über Ihre Kroatien eSIM von unterwegs auf Firmenportale zu, um
+        die Personalabteilung über Flugverspätungen zu informieren.
 related_products:
   title: Ähnliche eSIM-Tarife
   items:
-  - name: USA eSIM
+  - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: united-states-esim
-  - name: UK eSIM
+  - name: Vereinigtes Königreich eSIM
     flag: img/flags/gb.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: united-kingdom-esim
   - name: Europa eSIM
     flag: img/flags/eu.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: true
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
     flag: img/flags/tr.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: turkey-esim
   - name: China eSIM
     flag: img/flags/cn.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: china-esim
   - name: Japan eSIM
     flag: img/flags/jp.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: japan-esim
-  - name: Hong Kong eSIM
+  - name: Hongkong eSIM
     flag: img/flags/hk.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: hong-kong-esim
   - name: Frankreich eSIM
     flag: img/flags/fr.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: france-esim
   - name: Spanien eSIM
     flag: img/flags/es.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: spain-esim
   - name: Deutschland eSIM
     flag: img/flags/de.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: germany-esim
   - name: Australien eSIM
     flag: img/flags/au.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
+# =============== 100% vollständige Wiederherstellung: datengesteuertes Marktvergleichsmodul ===============
+market_analysis:
+  title: "Croatia eSIM vs. lokale Prepaid-SIM: Was ist bequemer?"
+  subtitle: "Lokale Prepaid-SIMs in Kroatien vs. eSIM-Lösungen (2024/2025 Benchmark)"
+  citation:
+    text: "Datenquelle: Prepaid Data SIM Card Wiki (Croatia) + Webseiten lokaler Anbieter"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Croatia"
+  table_headers:
+    - "Vergleichsmatrix"
+    - "Lokale Prepaid-SIM (Marktdaten)"
+    - "Roami Croatia eSIM"
+  table_rows:
+    - icon: "store"
+      title: "Erwerb &<br>Aktivierung"
+      prepaid_title: ""
+      prepaid_desc: "Kauf in Tisak- oder iNovine-Kiosken, T-Centar- oder A1-Shops; für bonbon-Registrierungsbonus (5 GB) ist Passfoto erforderlich."
+      esim_title: "Sofortige digitale Lieferung"
+      esim_desc: "Umgehen Sie Kiosk-Schlangen in Zagreb. Aktivieren Sie online innerhalb von 1 Minute vor der Abreise – kein physischer Kauf nötig."
+    - icon: "id-card"
+      title: "KYC & Realnamen-<br>Registrierung"
+      prepaid_title: ""
+      prepaid_desc: "SIM-Karten sind initial anonym, aber für Bonusdaten (z.B. 5 GB/30 Tage) ist eine Registrierung mit Pass erforderlich."
+      esim_title: "Keine Passregistrierung"
+      esim_desc: "Kein Hochladen von Passfotos für Bonusdaten wie bei bonbon (5 GB). Roami eSIM benötigt keine KYC – sofort nutzbar."
+    - icon: "globe"
+      title: "Internationales<br>Roaming"
+      prepaid_title: ""
+      prepaid_desc: "A1 und Telemach Tourist SIMs unterstützen KEIN internationales Roaming; Hrvatski Telekom DAN EU-Limit 1,6 GB, TJEDAN EU-Limit 2,8 GB; bonbon 50 GB Data EU-Limit 10,7 GB."
+      esim_title: "Weltweites Roaming inklusive"
+      esim_desc: "Im Gegensatz zu A1 und Telemach (kein EU-Roaming) oder Hrvatski Telekom (DAN EU-Limit 1,6 GB) bietet Roami eSIM nahtloses Roaming in ganz Europa ohne FUP-Drosselung."
+    - icon: "calendar-xmark"
+      title: "Abrechnungszyklus &<br>verschwendete Kosten"
+      prepaid_title: ""
+      prepaid_desc: "Hrvatski Telekom bietet 24h (1,49 €), 7 Tage (9,99 €), 30 Tage (11,95 €), 90 Tage (20 €); A1 3 Tage (5,90 €), 10 Tage (7,90 €), 30 Tage (29 €); Telemach 10 Tage (10,62 €); bonbon 7 Tage (2,65 €/2 GB), 30 Tage (3,98 €/2 GB)."
+      esim_title: "Flexible Tarife nach Tagen"
+      esim_desc: "Statt 10-Tage-Zyklen (A1 7,90 €) oder 30-Tage-Zyklen (Hrvatski Telekom 11,95 €) bietet Roami 7-Tage-Tarife ab $1.99/GB – sparen Sie bis zu 75% Verschwendung."
+    - icon: "wifi"
+      title: "Hotspot &<br>Geschwindigkeitsrichtlinien"
+      prepaid_title: ""
+      prepaid_desc: "Keine spezifischen Daten in der Quelle für diese Dimension."
+      esim_title: "Uneingeschränktes Tethering"
+      esim_desc: "Keine versteckten Hotspot-Beschränkungen wie bei manchen lokalen Anbietern. Teilen Sie Ihr Datenvolumen mit allen Geräten."
+    - icon: "credit-card"
+      title: "Aufladung & Zahlung"
+      prepaid_title: ""
+      prepaid_desc: "Keine spezifischen Daten in der Quelle für diese Dimension."
+      esim_title: "Weltweite Zahlung akzeptiert"
+      esim_desc: "Zahlen Sie mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal – keine Ablehnung ausländischer Karten wie bei lokalen Aufladestellen."
+    - icon: "headset"
+      title: "Kundensupport"
+      prepaid_title: ""
+      prepaid_desc: "Keine spezifischen Daten in der Quelle für diese Dimension."
+      esim_title: "24/7 Kundensupport"
+      esim_desc: "Mehrsprachiger Support rund um die Uhr, im Gegensatz zu lokalen Anbietern mit eingeschränkten Öffnungszeiten (z.B. nur Mo-Fr 9-17 Uhr)."
+
+  # =============== 100% vollständige Wiederherstellung: Expertenfazit-Modul ===============
+  expert_verdict:
+    title: "Croatia eSIM vs. Prepaid-SIM: Welche ist die intelligenter Wahl für stressfreie Konnektivität?"
+    cards:
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Sofortige Aktivierung vor der Reise"
+        desc: "Kein Suchen nach Tisak-Kiosken am Flughafen Zagreb. Roami eSIM wird vor Abflug per E-Mail geliefert und in 1 Minute aktiviert."
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "Internationale Zahlungen akzeptiert"
+        desc: "Lokale Aufladestellen akzeptieren oft nur kroatische Zahlungsmethoden. Roami akzeptiert <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b> – weltweit einsetzbar."
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "Vermeiden Sie Roaming-Fallen"
+        desc: "<b>A1</b> und <b>Telemach</b> Tourist SIMs unterstützen KEIN EU-Roaming. Selbst <b>Hrvatski Telekom</b> drosselt EU-Daten auf 1,6 GB (DAN) oder 2,8 GB (TJEDAN). Roami eSIM bietet volles Roaming ohne FUP."
+      - icon: "globe"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "Multinationale Konnektivität ohne Unterbrechung"
+        desc: "Reisen Sie von Dubrovnik nach Mostar (Bosnien)? <b>A1</b> und <b>Telemach</b> SIMs brechen die Verbindung ab. Roami eSIM funktioniert in Kroatien und Nachbarländern nahtlos."
 ---

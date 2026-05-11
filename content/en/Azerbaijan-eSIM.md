@@ -1,15 +1,15 @@
 ---
 title: Azerbaijan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-04-20T00:00:00+00:00'
+date: '2026-03-29T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: Azerbaijan eSIM
-  scenario_keywords: City exploration in Baku, cultural heritage tours, Caspian Sea
-    coastal trips, mountain hiking in Caucasus, business travel connectivity
-  operators: Azercell, Bakcell, Nar Mobile
-  competitors: Airalo, Holafly, Nomad, Ubigi, Maya Mobile
-  main_cities: Baku, Ganja, Sumgait, Lankaran, Mingachevir
+  scenario_keywords: Baku sightseeing, Gobustan petroglyphs, Sheki travel, Caspian
+    Sea coastline, mud volcanoes adventure
+  operators: Azercell, Bakcell, Nar
+  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
+  main_cities: Baku, Ganja, Sumqayit, Mingachevir, Nakhchivan
   main_packages: 3/7/15/30 Days, Unlimited Data
 modal:
   title: Service Upgraded!
@@ -23,8 +23,8 @@ seo:
   description: Need internet in Azerbaijan? Enjoy Top Local Carrier True 5G and Fair
     Use Data with Roami. Features Best Local Network and Auto-Connect, great for Light
     Travel.
-  keywords: Azerbaijan eSIM, Azerbaijan travel SIM, 5G in Azerbaijan, mobile data
-    Azerbaijan, local network Azerbaijan, tourist internet Azerbaijan, Roami eSIM
+  keywords: Azerbaijan eSIM, cheap eSIM Azerbaijan, travel internet, no roaming charges,
+    instant delivery
   low_price: 1.99
   high_price: 39.9
 order_summary:
@@ -41,40 +41,40 @@ breadcrumbs:
 - label: Azerbaijan eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best value Azerbaijan eSIM
-  title: Best value Azerbaijan eSIM
+  alt: Best eSIM for Azerbaijan
+  title: Best eSIM for Azerbaijan
 hero:
   flag_image: img/flags/az.svg
   flag_alt: Azerbaijan Flag
-  title: Azerbaijan eSIM Data Plan
-  subtitle: High-Speed 5G Network | 24/7 Customer Support | Priority 5G Access
+  title: Azerbaijan eSIM data plan
+  subtitle: High-speed 5G network | 20% discount for a limited time | Travel essential
 features:
-  title: Azerbaijan eSIM Designed for Seamless Travel
+  title: Why Travelers Choose Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Quick Start
-    desc: Get your Azerbaijan QR code in 5 minutes
+    title: Instant QR Code
+    desc: Delivered within 5 mins
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: Local Network Expertise
-    desc: Support that knows Azercell, Bakcell, and Nar Mobile
-  - icon: radio-tower
-    color: from-blue-400 to-blue-600
-    title: Smart Connection
-    desc: Auto-switch to strongest Azerbaijan carrier
-  - icon: wifi
-    color: from-purple-400 to-purple-600
-    title: Share Freely
-    desc: Hotspot for all your devices in Azerbaijan
-  - icon: file-x
-    color: from-rose-400 to-rose-600
-    title: Total Freedom
-    desc: No contracts, cancel anytime
+    title: 24/7 Support
+    desc: Always here to help you
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Peace of Mind
-    desc: Reliable across major Azerbaijan regions
+    title: Not Available
+    desc: Money-back protection
+  - icon: wifi
+    color: from-purple-400 to-purple-600
+    title: Hotspot Supported
+    desc: Share with other devices
+  - icon: file-x
+    color: from-rose-400 to-rose-600
+    title: No Contracts
+    desc: Cancel anytime, freely
+  - icon: radio-tower
+    color: from-blue-400 to-blue-600
+    title: Auto-Switch
+    desc: Connect to top carriers
 plans_title: Choose Your Plan
 plans_data:
   7 Days:
@@ -253,9 +253,9 @@ network_coverage:
       color: text-brand-500
       title: Coverage
       desc: Enjoy comprehensive network coverage across Azerbaijan, including major
-        cities like Baku, Ganja, Sumgait, and Lankaran. Our Azerbaijan eSIM seamlessly
-        connects to the robust networks of Azercell, Bakcell, and Nar Mobile, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
+        cities like Baku, Ganja, Sumqayit, and Mingachevir. Our Azerbaijan eSIM seamlessly
+        connects to the robust networks of Azercell, Bakcell, and Nar, ensuring stable
+        signals in urban centers, tourist hotspots, and along major transportation
         routes.
     - icon: zap
       color: text-amber-500
@@ -275,24 +275,28 @@ network_coverage:
     - name: Bakcell
       coverage: Reliability
       network: 5G/4G/LTE Network
+    - name: Nar
+      coverage: Native IP
+      network: 5G/4G/LTE Network
 reminders:
   title: Important Reminders
   items:
   - icon: 📱
     html: |-
-      Make sure your device is unlocked and <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">supports eSIM technology</a>.
+      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
   - icon: ✈️
-    html: For best results, switch on your eSIM profile once you reach Azerbaijan.
+    html: We recommend turning on the line after arriving in Azerbaijan.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: Check your inbox for the activation QR code after purchase.
+    html: The QR code will be sent to your email.
   - icon: 🔄
-    html: Keep your physical SIM active while using our eSIM for data.
+    html: You can install multiple eSIMs simultaneously.
   compatibility_check:
     title: Quick Compatibility Check
-    desc: 'Follow this quick step to verify your phone''s capability:'
-    instruction: 'Simply type this code into your phone app:'
+    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
+      right now:'
+    instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: |-
       If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
@@ -302,278 +306,400 @@ activation_steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
     desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes.
+      within 5 minutes. Please check your spam folder if you don't see it.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
     - |-
-      Go to Settings > Cellular
-    - Tap 'Add eSIM'
-    - Scan the QR code
-    - Follow prompts
+      Go to Settings > Cellular (or Mobile Data)
+    - Tap "Add Cellular Plan" or "Add eSIM"
+    - Scan the QR code with your camera
+    - Follow the prompts to complete setup
   - num: '3'
     title: 'Step 3: Activate in Azerbaijan'
     desc: Upon arriving in Azerbaijan, enable your Azerbaijan eSIM in settings to
-      start using data.
+      start using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: Azerbaijan Travel eSIM & Data Guide
-  desc: Frequently asked questions by travelers about using prepaid data and staying
-    connected in Azerbaijan.
+  title: Azerbaijan eSIM FAQ & Travel Guide
+  desc: Everything you need to know about using your Azerbaijan eSIM across different
+    travel scenarios.
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
     title: 1. General Questions
     questions:
-    - q: Do I need to provide my passport or ID to buy this travel internet plan?
-      a: No eKYC or identity verification is required. You can purchase and install
-        your Azerbaijan data plan instantly and anonymously.
-    - q: Will my battery drain faster using a mobile data package?
-      a: Using an eSIM consumes the same amount of battery as a physical SIM. However,
-        if you are in an area with weak signal in Azerbaijan, your phone may use more
-        power searching for a network.
-    - q: Can I move the Azerbaijan data plan to a different phone?
-      a: For security reasons, an eSIM QR code can usually only be scanned and installed
-        once. If you change phones, you will need to contact our support for a replacement.
-    - q: Do you offer refunds if the mobile data package doesn't work?
-      a: Yes, we have a 100% money-back guarantee. If you experience technical issues
-        in Azerbaijan that our 24/7 support team cannot resolve, we will issue a full
-        refund.
-    - q: Can I install the Azerbaijan profile before my travel date?
-      a: We highly recommend installing the QR code while you are still at home with
-        a stable Wi-Fi connection. It will remain dormant until you land.
-    - q: Is my phone compatible with this travel internet plan?
-      a: Most modern smartphones (iPhone XS and newer, Samsung Galaxy S20+, Pixel
-        3+) are fully compatible. You can easily install the Azerbaijan profile by
-        scanning the QR code we email you.
-    - q: Can I keep my physical home SIM card inside my phone?
-      a: Yes! You can keep your physical SIM active for receiving SMS and calls from
-        home, while setting our travel internet plan as your primary source for cellular
-        data.
-    - q: Is this a 5G or 4G LTE connection?
-      a: We partner with Azercell, Bakcell, Nar Mobile to provide 5G speeds wherever
-        available in major cities. In more remote areas, it will seamlessly fall back
-        to a stable 4G LTE network.
+    - q: Does my phone support the Azerbaijan eSIM? How do I install it?
+      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
+        Google Pixel 3+ support eSIM. You can install your Azerbaijan eSIM simply
+        by scanning the QR code we send to your email in your phone's Cellular/Mobile
+        Data settings.
+    - q: How to buy and activate the Azerbaijan eSIM? Is it active immediately?
+      a: You can purchase it directly on our website. It is not active immediately
+        upon purchase; the validity period only starts when you arrive in Azerbaijan
+        and your phone connects to the local network.
+    - q: What is an activation QR code? Does it expire? Can it be reused?
+      a: The QR code is your digital SIM profile for the Azerbaijan eSIM. It typically
+        needs to be installed within 30 days of purchase. Once installed, it cannot
+        be scanned again or transferred to another device.
+    - q: Can I get a refund if the Azerbaijan eSIM doesn't work or has a poor signal?
+      a: Yes, we offer a money-back guarantee. If you experience persistent network
+        issues in Azerbaijan that our support team cannot resolve, you are eligible
+        for a refund.
+    - q: Do you provide 24/7 customer support? How can I contact you?
+      a: Yes, our technical support team is available 24/7. You can reach us via the
+        live chat widget on our website or by replying to your order confirmation
+        email.
+    - q: Are there any discount codes? How to use the 'web20' promo code?
+      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
+        receive a 20% discount on your Azerbaijan eSIM order.
+    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
+        (FUP)?
+      a: Our Unlimited plans provide continuous data. However, like all global carriers,
+        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
+        an exceptionally high amount of data in a short period, speeds may be temporarily
+        reduced. Even so, it will not affect your web browsing, social media usage,
+        watching videos, etc.
+    - q: Can I share my Azerbaijan eSIM data (hotspot) with other devices?
+      a: Absolutely. All our Azerbaijan eSIM plans support mobile hotspot and tethering,
+        allowing you to share your data with your laptop, tablet, or travel companions.
+    - q: What are the advantages of your Azerbaijan eSIM compared to local SIM cards
+        or other providers?
+      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
+        small plastic cards. We partner directly with top local networks in Azerbaijan,
+        such as Azercell, Bakcell, Nar, to ensure premium speeds at a fraction of
+        roaming costs.
+    - q: How do you compare with well-known eSIM providers like BNESIM, Holafly, Instabridge,
+        Airalo?
+      a: While great companies like BNESIM, Holafly, Instabridge, Airalo offer reliable
+        services, we focus on providing the most cost-effective Azerbaijan eSIM, ensuring
+        lower latency and better prices with our automatic price-matching system.
   - id: faq-airport
     icon: plane
     tab_title: Airports
-    title: 2. Arriving at the Airport
+    title: 2. Airport Network
     questions:
-    - q: How can I contact my pickup driver at Heydar Aliyev International Airport
-        (Baku), Ganja International Airport, Nakhchivan International Airport without
-        a local number?
-      a: Since our travel internet plan provides instant high-speed data, you can
-        use WhatsApp, iMessage, or VoIP apps to call or text your driver the moment
-        you step off the plane.
-    - q: Can I activate my prepaid Azerbaijan data plan while waiting at baggage claim?
-      a: Definitely. As long as the profile is installed, turning on the line will
-        instantly connect you, bypassing the need for slow, congested airport Wi-Fi.
-    - q: Will the signal drop inside the terminal at Heydar Aliyev International Airport
-        (Baku), Ganja International Airport, Nakhchivan International Airport?
-      a: Our partner networks (Azercell, Bakcell, Nar Mobile) provide excellent indoor
-        coverage, ensuring you stay connected even deep inside the airport terminals.
-    - q: Do I need Wi-Fi at the airport to scan the QR code?
-      a: Yes, you need an internet connection to install the eSIM. That's why we strongly
-        advise scanning the QR code at home before you depart for Azerbaijan.
-    - q: Can I buy this Azerbaijan virtual SIM at the airport kiosk?
-      a: Our plans are 100% digital. You can buy it online right now and receive it
-        via email instantly, saving you from queuing at physical SIM card kiosks after
-        a long flight.
-    - q: Will I have internet access as soon as I land at Heydar Aliyev International
-        Airport (Baku), Ganja International Airport, Nakhchivan International Airport?
-      a: Yes! If you installed the profile before your flight, simply turn off Airplane
-        Mode upon landing at Heydar Aliyev International Airport (Baku), Ganja International
-        Airport, Nakhchivan International Airport. It will automatically connect to
-        the local 4G/5G network within seconds.
+    - q: How to get a reliable network immediately after getting off the plane?
+      a: Install the Azerbaijan eSIM before your flight. Once you land at Heydar Aliyev
+        International Airport, Ganja International Airport, Nakhchivan Airport, simply
+        turn off Airplane Mode and enable your eSIM line. It will connect to the local
+        4G/5G network within seconds.
+    - q: How to contact my airport pickup driver or use Uber/Grab?
+      a: With your Azerbaijan eSIM activated upon landing, you can immediately open
+        Uber, Bolt, Yango to book a ride or use WhatsApp to message your pre-booked
+        driver without relying on spotty airport Wi-Fi.
+    - q: How to use Google Maps/Apple Maps to find transport?
+      a: Your high-speed Azerbaijan eSIM data allows you to open Google Maps right
+        at the baggage claim in Heydar Aliyev International Airport, Ganja International
+        Airport, Nakhchivan Airport to check real-time train schedules, bus routes,
+        or walking directions to the taxi stand.
+    - q: How to avoid buying expensive temporary SIM cards at the airport?
+      a: By purchasing our Azerbaijan eSIM online beforehand, you completely bypass
+        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
+    - q: How to receive hotel/car rental SMS without a local number?
+      a: Our Azerbaijan eSIM provides data only. To receive SMS, keep your home country's
+        primary SIM active for texts (receiving SMS is usually free while roaming)
+        and use the eSIM for all data traffic.
+    - q: How to immediately contact family to report safety and plan the itinerary?
+      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
+        our fast Azerbaijan eSIM cellular data to let your family know you've arrived
+        safely.
   - id: faq-transport
     icon: car
     tab_title: Transport
-    title: 3. Navigation & Transport
+    title: 3. Transport & Travel
     questions:
-    - q: Is the prepaid Azerbaijan data plan fast enough for real-time Google Maps
-        navigation?
-      a: Absolutely. Our seamless connection to Azercell, Bakcell, Nar Mobile ensures
-        Google Maps or Apple Maps can download live traffic data and transit schedules
-        anywhere in Azerbaijan.
-    - q: Can I use this plan to unlock electric scooters or bikes in Azerbaijan?
-      a: Yes, scanning QR codes to unlock local e-scooters or rental bikes requires
-        a quick internet connection, which your active data plan handles perfectly.
-    - q: Can I use Waze to check for speed cameras?
-      a: Yes, Waze requires real-time data to update road hazards and speed traps.
-        Your Azerbaijan data plan will keep the app fully updated while you drive.
-    - q: How much data does Google Maps use while driving?
-      a: Google Maps uses very little data (about 5-10 MB per hour). A standard prepaid
-        Azerbaijan data plan will easily cover weeks of heavy navigation.
-    - q: Does the coverage extend to remote highways in Azerbaijan?
-      a: We partner with Azercell, Bakcell, Nar Mobile, who boast the widest nationwide
-        coverage, ensuring you stay connected on most major highways and rural routes.
+    - q: How to use Google Maps/Apple Maps to plan routes?
+      a: Our stable Azerbaijan eSIM connection ensures Google Maps can download real-time
+        traffic data and transit schedules anywhere in Azerbaijan, making navigation
+        seamless.
+    - q: How to let Uber/Grab drivers contact you via the app?
+      a: Apps like Uber, Bolt, Yango use VoIP (internet calling) and in-app messaging.
+        Since you have active Azerbaijan eSIM data, drivers can call or message you
+        directly through the app without needing a local phone number.
+    - q: How to buy train/subway passes online?
+      a: You can use your Azerbaijan eSIM data to access local transit apps or websites
+        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
+        machines.
+    - q: How to use Google Maps for real-time navigation after renting a car?
+      a: Simply mount your phone and use your Azerbaijan eSIM data. A 5GB or 10GB
+        plan provides more than enough data for extensive GPS navigation during a
+        road trip in Azerbaijan.
+    - q: How to scan and unlock shared e-scooters like Lime/Bird?
+      a: Unlocking e-scooters requires a fast internet connection to process the QR
+        code and payment. Our Azerbaijan eSIM provides the reliable urban coverage
+        needed for this.
+    - q: How to ensure ride-hailing apps work normally across multiple countries?
+      a: If you are traveling regionally, your ride-hailing app account remains the
+        same. Just ensure you have an active internet connection (via our local or
+        regional eSIM) to book rides.
+    - q: How to provide a stable personal hotspot for family devices?
+      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
+        connect their phones or iPads to your Azerbaijan eSIM's data network while
+        on the train or in the car.
   - id: faq-hotels
     icon: hotel
     tab_title: Hotels
-    title: 4. Accommodation
+    title: 4. Hotels & Accommodation
     questions:
-    - q: What if the Wi-Fi at Four Seasons Hotel Baku, Fairmont Baku, JW Marriott
-        Absheron Baku is slow or paid?
-      a: You can simply switch off Wi-Fi and rely on your Azerbaijan eSIM. Our 4G/5G
-        speeds are often faster and more secure than public hotel networks.
-    - q: Will I have a signal in high-rise hotel rooms in Azerbaijan?
-      a: Yes, our network partners (Azercell, Bakcell, Nar Mobile) provide strong
-        urban coverage that easily penetrates most high-rise hotel buildings.
-    - q: Can I use this tourist eSIM to do self-check-in at my Airbnb or hotel?
-      a: Yes. Many modern rentals and hotels like Four Seasons Hotel Baku, Fairmont
-        Baku, JW Marriott Absheron Baku require you to access a smart lock code via
-        email or an app. Your data plan ensures you can retrieve these details right
-        at the doorstep.
-    - q: Can I leave my phone as a hotspot in the room for my family?
-      a: Yes, you can leave your device plugged in and broadcasting a hotspot, allowing
-        your family members to connect their tablets or laptops.
-    - q: Can I receive bank SMS codes while using hotel Wi-Fi and this eSIM?
-      a: Yes! Keep your primary home SIM turned on for receiving SMS (usually free
-        while roaming), and use the Azerbaijan eSIM for all your data needs.
-    - q: Is it safer to book flights using this prepaid Azerbaijan data plan rather
-        than hotel Wi-Fi?
-      a: Yes, booking flights involves sensitive credit card information. Your personal
-        cellular connection is encrypted, making it much safer than shared hotel networks.
-    - q: Can I use this data to book last-minute hotel extensions?
-      a: Definitely. You can quickly browse booking sites like Agoda or Booking.com
-        on your phone to secure extra nights or find new accommodations.
+    - q: How to do self-check-in after booking on Booking.com/Agoda?
+      a: Many modern rentals require you to access an online portal or check your
+        email for a smart lock code. Your Azerbaijan eSIM ensures you can retrieve
+        these details right at the doorstep.
+    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
+      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
+        your arrival time with your host using your Azerbaijan eSIM mobile data.
+    - q: How to use Google Maps to navigate to the hotel?
+      a: Whether you are staying at JW Marriott Absheron Baku, Fairmont Baku Flame
+        Towers, Four Seasons Baku or a local guesthouse, you can input the address
+        into Google Maps and get turn-by-turn walking or transit directions using
+        your Azerbaijan eSIM.
+    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
+      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
+        your Azerbaijan eSIM data to trigger the verification code from your bank
+        or app.
+    - q: How to quickly contact Booking/hotel customer service to change orders?
+      a: You can use VoIP apps like Skype or the customer service chat features within
+        the Booking.com app using your high-speed Azerbaijan eSIM data.
+    - q: How to order food to the hotel using local delivery apps?
+      a: If you arrive late, you can download Wolt, Bolt Food, YemekSepeti and use
+        your Azerbaijan eSIM data to order a hot meal directly to your hotel lobby
+        or room.
+    - q: How to maintain network connection to communicate with the hotel after checkout?
+      a: Once you leave the hotel's Wi-Fi zone, your Azerbaijan eSIM automatically
+        takes over, allowing you to message the hotel if you forgot luggage or need
+        to arrange a later pickup.
   - id: faq-attractions
     icon: landmark
     tab_title: Attractions
-    title: 5. Sightseeing & Tours
+    title: 5. Attractions & Entertainment
     questions:
-    - q: Does the signal drop inside old stone buildings or cathedrals?
-      a: While thick stone walls can weaken any cellular signal, our premium network
-        partners provide the best possible indoor penetration in Azerbaijan.
-    - q: Can I use Google Translate for museum plaques or signs?
-      a: Yes, the live camera translation feature requires a steady internet connection,
-        which your Azerbaijan data plan handles perfectly.
-    - q: How can I find my friends if we get separated in a crowded tourist spot?
-      a: With your active data connection, you can instantly share your live location
-        via WhatsApp or Apple Maps to reunite with your group.
-    - q: Can I live-stream my visit to my family back home?
-      a: Yes, our stable 5G/4G network allows for smooth, uninterrupted live streaming
-        on platforms like YouTube, Instagram, or Facebook.
-    - q: Can I check the weather forecast before heading out for the day?
-      a: Yes, you can instantly check live weather radar apps to plan your itinerary
-        and avoid sudden rain showers.
+    - q: How to buy electronic tickets via GetYourGuide/Viator?
+      a: If you decide to visit Maiden Tower, Heydar Aliyev Center, Gobustan National
+        Park spontaneously, you can use your Azerbaijan eSIM data to buy skip-the-line
+        tickets online and present the barcode on your screen.
+    - q: How to immediately book experiences on Tripadvisor?
+      a: With reliable 4G/5G from your Azerbaijan eSIM, you can read reviews and book
+        local tours or experiences on Tripadvisor while having coffee at a nearby
+        cafe.
+    - q: How to use Google/Wikipedia to look up information during the visit?
+      a: Enhance your cultural experience by instantly Googling historical facts or
+        translating museum plaques while exploring Azerbaijan.
+    - q: How to use Google Maps to navigate to the next attraction?
+      a: Simply type your next destination into Google Maps; the strong urban coverage
+        of your Azerbaijan eSIM will guide you via the fastest walking or transit
+        route.
+    - q: How to check real-time queue times at theme parks like Disney?
+      a: Theme park apps require constant internet access to display live wait times
+        and book fast passes. Your Azerbaijan eSIM will keep you connected throughout
+        the park.
+    - q: How to access Ticketmaster to book show tickets?
+      a: You can securely browse and purchase last-minute theater or concert tickets
+        through ticketing apps using your Azerbaijan eSIM cellular data.
+    - q: How to instantly share photos/videos to Instagram/Facebook?
+      a: Our fast Azerbaijan eSIM upload speeds mean you can post high-quality stories,
+        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
   - id: faq-dining
     icon: utensils
     tab_title: Dining
-    title: 6. Food & Dining
+    title: 6. Dining & Restaurants
     questions:
-    - q: Can I use Cash (Azerbaijani Manat), Bank cards (Visa/Mastercard), Local mobile
-        wallets (Kartal, MilliON) or Apple Pay at local cafes?
-      a: Yes, contactless payments via Apple Pay, Google Pay, or Cash (Azerbaijani
-        Manat), Bank cards (Visa/Mastercard), Local mobile wallets (Kartal, MilliON)
-        require a brief internet handshake, which your active data plan processes
-        instantly.
-    - q: Can I order a coffee ahead of time using a local cafe app?
-      a: Yes, you can use your mobile data to order and pay ahead, allowing you to
-        skip the queue when you arrive at the cafe.
-    - q: Can I use apps to split the bill with my friends?
-      a: Yes, you can use apps like Splitwise or Venmo at the dinner table, as your
-        Azerbaijan virtual SIM provides the necessary internet connection.
-    - q: Can I book a dinner reservation online while I'm out exploring?
-      a: Absolutely. You can easily secure a table via OpenTable or local booking
-        sites using your mobile data.
-    - q: Will I have signal in underground or basement restaurants?
-      a: Coverage in basements can vary, but our partners (Azercell, Bakcell, Nar
-        Mobile) offer robust urban networks that reach into many subterranean commercial
-        spaces.
-    - q: Is it safe to tip using a digital payment link on my phone?
-      a: Yes, processing payments over your private cellular data is highly secure
-        compared to using the restaurant's public Wi-Fi.
-    - q: How can I translate a menu that is entirely in the local language?
-      a: Open the Google Translate app and use the camera feature. Your Azerbaijan
-        data plan will instantly translate the text on your screen.
-    - q: Do I need data to scan digital QR menus at restaurants?
-      a: Yes, many restaurants in Azerbaijan now use QR codes instead of physical
-        menus. Your eSIM ensures you can load these digital menus without asking for
-        the Wi-Fi password.
+    - q: How to find restaurants using Google Maps/Tripadvisor?
+      a: Use your Azerbaijan eSIM data to search 'restaurants near me' on Google Maps
+        to check ratings, opening hours, and photos of the menu before walking in.
+    - q: How to book seats via OpenTable or restaurant websites?
+      a: You can easily secure a dinner reservation by accessing booking platforms
+        online using your Azerbaijan eSIM while you are out sightseeing.
+    - q: How to scan restaurant QR codes to view electronic menus?
+      a: Many restaurants now use digital menus. Your Azerbaijan eSIM ensures you
+        can scan the QR code on the table and load the menu instantly.
+    - q: How to use Google Translate camera to translate menus?
+      a: Open the Google Translate app, select the camera feature, and point it at
+        the local menu. It requires an internet connection via your Azerbaijan eSIM
+        to process live translations accurately.
+    - q: How to register and use international versions of Uber Eats/DoorDash?
+      a: You can download local apps like Wolt, Bolt Food, YemekSepeti, register using
+        your email or social accounts, and order food seamlessly using your Azerbaijan
+        eSIM mobile data.
+    - q: How to successfully checkout using Apple Pay/Google Pay?
+      a: Contactless payments via Apple Pay, Google Pay, or local methods like Kart,
+        MilliÖn, Visa/Mastercard require a brief internet handshake, which your Azerbaijan
+        eSIM handles perfectly.
+    - q: How to find restaurants recommended by Yelp/food bloggers?
+      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
+        your Azerbaijan eSIM to find hidden culinary gems in the city.
   - id: faq-social
     icon: smartphone
     tab_title: Social
-    title: 7. Social Media & Chat
+    title: 7. Social Media & Comm
     questions:
-    - q: Is it safe to log into my bank or social media on this network?
-      a: Yes, using a personal cellular connection via our Azerbaijan eSIM is encrypted
-        and vastly safer than connecting to free, unsecured public Wi-Fi networks.
-    - q: Will using TikTok or Instagram drain my data quickly?
-      a: Video apps consume data rapidly. If you plan to use them heavily, we recommend
-        purchasing a larger data package or an unlimited Azerbaijan virtual SIM.
-    - q: Can I update my travel blog or vlog from my phone?
-      a: Definitely. The reliable upload speeds allow you to publish blog posts, upload
-        high-res photos, or manage your website remotely.
-    - q: Do I need to change my Telegram or iMessage settings?
-      a: No changes needed. As long as you have internet via our mobile data package,
-        all your messaging apps will function normally.
-    - q: Can I play online multiplayer games on my phone?
-      a: Yes, our 5G/4G networks provide low ping and stable connections, making casual
-        online gaming smooth during your downtime.
-    - q: How can I check my emails while on the go?
-      a: Your phone's email app will sync automatically in the background as long
-        as your Azerbaijan eSIM is active and has data remaining.
-    - q: Will my home carrier charge me for receiving WhatsApp messages?
-      a: No, WhatsApp uses internet data, not traditional SMS. As long as you are
-        using our tourist eSIM for data, your home carrier won't charge you for app
-        messages.
+    - q: How to stably use WhatsApp/Telegram overseas?
+      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
+        Azerbaijan eSIM providing the internet, you can chat and call exactly as you
+        do at home.
+    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
+      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Azerbaijan eSIM gives you
+        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
+    - q: How to make FaceTime/WhatsApp video calls with family?
+      a: Our low-latency network partnerships ensure your FaceTime and video calls
+        over the Azerbaijan eSIM are clear and lag-free, no matter where you are in
+        the country.
+    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
+      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Azerbaijan
+        eSIM cellular data is encrypted and vastly safer for logging into accounts.
+    - q: How to share the network as a personal hotspot with travel companions?
+      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
+        network and use your Azerbaijan eSIM data allowance to check their own social
+        media.
+  - id: faq-crossborder
+    icon: globe
+    tab_title: Cross-border
+    title: 8. Cross-border Travel
+    questions:
+    - q: Do I need to buy a different SIM card for each country when traveling across
+        multiple European countries?
+      a: If you buy a single-country Azerbaijan eSIM, it only works there. For multi-country
+        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
+        multiple countries with one profile.
+    - q: How to avoid high roaming charges when crossing borders by train?
+      a: Turn off Data Roaming on your home SIM card. Ensure your Azerbaijan eSIM
+        is set as the primary data line so you never incur unexpected charges from
+        your home carrier.
+    - q: How to get short-term network when transiting in Singapore/Dubai?
+      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
+        to stay connected during your layover.
+    - q: How to get economical local network for cruise shore excursions?
+      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
+        countries you dock in. It will connect as soon as you are near the shore.
+    - q: How to ensure Google Maps is online throughout cross-border road trips?
+      a: With a Regional eSIM, your phone will automatically switch to the new country's
+        network as you drive across the border, keeping your GPS active.
+    - q: How to manage multi-country data usage with one app?
+      a: You can track your data usage for all your active eSIMs directly through
+        our website's user dashboard.
+    - q: How to maintain stable contact methods during multi-country travel?
+      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
+        your friends and family can always reach you on the same number without interruption.
   - id: faq-emergency
     icon: alert-triangle
     tab_title: Emergencies
-    title: 8. Safety & Emergencies
+    title: 9. Emergencies
     questions:
-    - q: What should I do if I lose my phone in Azerbaijan?
-      a: If you lose your device, you can log into your account from another device
-        to pause your digital SIM for Azerbaijan and contact our support team for
-        a replacement QR code.
-    - q: Can I receive emergency weather or government alerts?
-      a: Yes, wireless emergency alerts broadcasted by local cell towers in Azerbaijan
-        will still reach your phone, keeping you informed of severe weather or hazards.
-    - q: How can I block my credit cards if my wallet is stolen?
-      a: You can immediately open your banking apps using your secure Azerbaijan cellular
-        data to freeze your cards and prevent unauthorized transactions.
-    - q: Is it possible to translate medical symptoms to a local doctor?
-      a: Yes, you can use Google Translate's conversation mode via your mobile data
-        to clearly communicate your symptoms to healthcare professionals.
-    - q: How do I call 112 (general emergency), 102 (police), 103 (ambulance) if I
-        only have a data eSIM?
-      a: Emergency numbers like 112 (general emergency), 102 (police), 103 (ambulance)
-        can be dialed directly from your phone's dialpad regardless of your active
-        SIM, as long as your phone catches any cellular signal.
-    - q: Can I access my digital travel documents if I lose my passport?
-      a: With an active internet connection, you can quickly access your cloud storage
-        (Google Drive, iCloud) to retrieve copies of your passport and visas.
-    - q: How can I share my live location if I feel unsafe in Azerbaijan?
+    - q: How to dial local emergency numbers in an unfamiliar country?
+      a: In Azerbaijan, you can dial local emergency numbers like 112 (general emergency),
+        102 (police), 103 (ambulance), 101 (fire) directly from your phone's dialer
+        regardless of your active SIM, as long as your phone can catch any cellular
+        signal.
+    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
+      a: Your Azerbaijan eSIM data allows you to immediately search Google Maps for
+        'pharmacy near me' or 'hospital' and get the fastest route.
+    - q: How to find embassy/consulate information after losing a passport?
+      a: You can quickly browse the internet using your Azerbaijan eSIM to find the
+        exact address, emergency contact email, and opening hours of your country's
+        embassy.
+    - q: How to contact the travel insurance company's rescue hotline in an accident?
+      a: Use VoIP apps like Skype or Viber over your Azerbaijan eSIM data to call
+        your insurance company's international toll-free numbers.
+    - q: How to share location in real-time in unsafe areas?
       a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
         to continuously broadcast your GPS coordinates to trusted friends using your
-        mobile data.
+        Azerbaijan eSIM mobile data.
+    - q: How to download offline maps/key locations before going to remote areas?
+      a: While you still have strong city coverage with your Azerbaijan eSIM, use
+        your data to download offline areas in Google Maps just in case you venture
+        into mountains or deep rural zones where signals drop.
+  - id: faq-business
+    icon: briefcase
+    tab_title: Business
+    title: 10. Business & Work
+    questions:
+    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
+      a: Our Azerbaijan eSIM connects to premium local networks, providing the high
+        bandwidth and low latency required for smooth, professional video conferencing.
+    - q: How to securely connect to the company VPN to access internal systems during
+        business trips?
+      a: Our cellular data does not restrict VPN protocols. You can safely launch
+        your corporate VPN app over the Azerbaijan eSIM network to access internal
+        servers.
+    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
+      a: Simply enable your phone's Personal Hotspot. Sharing your Azerbaijan eSIM
+        is significantly faster and much more secure against cyber threats than using
+        open public Wi-Fi networks.
+    - q: How to ensure receiving bank/company email verification codes?
+      a: Keep your home SIM active for receiving SMS, and use your Azerbaijan eSIM
+        data to receive email-based 2FA codes or push notifications from authenticator
+        apps.
+    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
+      a: With 5G/4G LTE speeds from your Azerbaijan eSIM, you can rapidly upload presentations
+        or large documents to Google Drive or Dropbox directly from the exhibition
+        floor.
+    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
+      a: Your Azerbaijan eSIM provides constant connectivity, ensuring you receive
+        Slack notifications and important emails instantly, keeping you synced with
+        your team.
+    - q: How to update travel itineraries online at any time to communicate with the
+        company?
+      a: You can access your corporate travel portals or email your HR department
+        on the go using your Azerbaijan eSIM to update them on flight delays or schedule
+        changes.
 related_products:
   title: Related eSIM Plans
   items:
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: united states eSIM
+    flag: img/flags/us.svg
+    price: From $1.99
+    is_highlight: false
+  - name: United-Kingdom
+    flag: img/flags/gb.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Europe eSIM
+    flag: img/flags/eu.svg
     price: From $1.99
     is_highlight: true
   - name: Canada eSIM
     flag: img/flags/ca.svg
     price: From $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Turkey eSIM
+    flag: img/flags/tr.svg
     price: From $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: From $1.99
     is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: From $1.99
+    is_highlight: false
+  - name: France eSIM
+    flag: img/flags/fr.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Spain eSIM
+    flag: img/flags/es.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Germany eSIM
+    flag: img/flags/de.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Australia eSIM
+    flag: img/flags/au.svg
+    price: From $1.99
+    is_highlight: false
 
 # =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Azerbaijan eSIM vs SIM Card Plans: Which One Fits Your Needs?"
+  title: "Azerbaijan eSIM vs Physical SIM Card: What’s the Real Difference?"
   subtitle: "Azerbaijan Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
   citation:
     text: "Data Source: Prepaid Data SIM Card Wiki (Azerbaijan) + Local Operator Sites"
@@ -586,68 +712,68 @@ market_analysis:
     - icon: "store"
       title: "Acquisition &<br>Activation"
       prepaid_title: ""
-      prepaid_desc: "Foreign tourists can legally purchase SIM cards from Azercell, Bakcell, or Nar at physical stores or airport kiosks. SIM card costs AZN 5, and purchase requires passport registration."
+      prepaid_desc: "Foreign tourists can legally purchase SIM cards from Azercell, Bakcell, or Nar at physical stores or airport kiosks, with a SIM card fee of AZN 5."
       esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Azercell store queues and passport checks. Activate online within 1 minute after landing in Baku, avoiding the AZN 5 SIM card fee and language barriers."
+      esim_desc: "Skip the queue at Azercell or Bakcell stores. Activate your eSIM online within 1 minute after landing in Baku, avoiding the AZN 5 SIM card fee and passport registration hassle."
     - icon: "id-card"
       title: "KYC & Real-Name<br>Registration"
       prepaid_title: ""
-      prepaid_desc: "All three operators (Azercell, Bakcell, Nar) require passport registration at the point of sale. Since 2018, the process has been simplified for short-term tourists but still requires in-person registration."
+      prepaid_desc: "Purchase requires passport registration at the point of sale; all three operators enforce mandatory real-name registration."
       esim_title: "No Passport Required"
-      esim_desc: "Unlike Azercell, Bakcell, and Nar which require passport registration at point of sale, Roami eSIM requires zero personal identification. No risk of IMEI registration fees (AZN 15-100) for stays over 30 days."
+      esim_desc: "Unlike Azercell, Bakcell, and Nar which require passport registration at the point of sale, Roami eSIM requires no personal ID, ensuring privacy and saving 30 minutes of paperwork."
     - icon: "globe"
       title: "International<br>Roaming"
       prepaid_title: ""
-      prepaid_desc: "Azercell, Bakcell, and Nar SIM cards are locked to Azerbaijan only. They have no infrastructure in the Nagorno-Karabakh region and do not offer roaming or IDD calls there. For multi-country travel, the card becomes useless outside Azerbaijan."
+      prepaid_desc: "Azercell, Bakcell, and Nar SIM cards are locked to Azerbaijan's network; they do not provide roaming in the Nagorno-Karabakh region, where Karabakh Telecom operates independently."
       esim_title: "Seamless Cross-Border Roaming"
-      esim_desc: "Azercell and Bakcell SIMs are locked to Azerbaijan and have no coverage in Nagorno-Karabakh. Roami eSIM provides multi-country connectivity, automatically connecting to local networks across borders without changing cards."
+      esim_desc: "While local SIMs from Azercell and Bakcell have no coverage in Nagorno-Karabakh and no roaming agreements, Roami eSIM provides multi-country connectivity, automatically connecting to the best local network."
     - icon: "calendar-xmark"
       title: "Billing Cycle &<br>Sunk Cost"
       prepaid_title: ""
-      prepaid_desc: "All major prepaid plans from Azercell, Bakcell, and Nar are 30-day cycles. For example, Azercell's Sərbəst 10 (AZN 10/30 days), Bakcell's DaimOnline 10 (AZN 10/30 days), and Nar's Full 9 (AZN 9/30 days). A 5-day trip wastes over 80% of the plan's value."
-      esim_title: "Flexible Daily Plans"
-      esim_desc: "Unlike Azercell's 30-day Sərbəst 10 (AZN 10/2GB) and Bakcell's DaimOnline 10 (AZN 10/5GB) which waste over 80% for short trips, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste."
+      prepaid_desc: "All major prepaid plans (e.g., Azercell Sərbəst 10 at AZN 10/30 days, Bakcell DaimOnline 10 at AZN 10/30 days, Nar Full 9 at AZN 9/30 days) have a fixed 30-day validity, causing significant waste for short-term visitors."
+      esim_title: "Flexible Short-Term Plans"
+      esim_desc: "Avoid the 30-day lock-in of Azercell's AZN 10/2GB plan or Nar's AZN 9/1.5GB plan. Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste for a 5-day trip."
     - icon: "wifi"
       title: "Hotspot &<br>Speed Policies"
       prepaid_title: ""
-      prepaid_desc: "Bakcell's 1-hour unlimited plan explicitly bans tethering and limits speed to 4 Mbit/s. Other plans may allow tethering but with unspecified restrictions."
+      prepaid_desc: "Bakcell's 1-hour unlimited plan explicitly bans tethering and limits speed to 4 Mbit/s; other plans may allow tethering but with restrictions."
       esim_title: "Unrestricted Tethering"
-      esim_desc: "Bakcell's 1-hour unlimited plan explicitly bans tethering and limits speed to 4 Mbit/s. Roami eSIM allows full-speed hotspot sharing on all plans, with no restrictions."
+      esim_desc: "Unlike Bakcell's 1-hour unlimited plan which bans tethering and throttles to 4 Mbit/s, Roami eSIM allows full-speed hotspot sharing on all devices without restrictions."
     - icon: "credit-card"
       title: "Top-up Payments"
       prepaid_title: ""
-      prepaid_desc: "Top-up can be done via online platforms or physical vouchers at kiosks. Common payment methods include Visa, Mastercard, and local payment systems. Foreign credit cards may be rejected online."
-      esim_title: "Global Payment Options"
-      esim_desc: "Top-up for local SIMs often rejects foreign cards. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal, ensuring hassle-free payment from anywhere."
+      prepaid_desc: "Top-up can be done via physical vouchers at kiosks or online; foreign credit cards may be rejected, requiring local payment methods."
+      esim_title: "Global Payment Methods"
+      esim_desc: "Top up with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to find physical vouchers or deal with rejected foreign cards common with local operators."
     - icon: "headset"
       title: "Customer Support"
       prepaid_title: ""
-      prepaid_desc: "Customer support is available in Azerbaijani and Russian, with limited English. Phone support hours are typically Mon-Fri 9-5. Live chat is not commonly available for prepaid customers."
+      prepaid_desc: "Customer support is primarily in Azerbaijani and Russian; English support is limited and available only during business hours."
       esim_title: "24/7 Multilingual Support"
-      esim_desc: "Azercell and Bakcell support is only in Azerbaijani and Russian, with limited hours. Roami provides 24/7 English support via live chat and email, ready to assist anytime."
+      esim_desc: "Get round-the-clock support in English, unlike Azercell and Bakcell which offer limited Azerbaijani/Russian support during business hours only."
 
   # =============== 100% 完整还原：专家结论模块 ===============
   expert_verdict:
-    title: "Azerbaijan eSIM vs Physical SIM Card: What’s the Real Difference?"
+    title: "Azerbaijan eSIM or SIM Card for Tourists: Which Should You Choose?"
     cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Azerbaijan's Strict SIM Passport Requirements"
-        desc: "Azercell, Bakcell, and Nar all require passport registration at point of sale. Roami eSIM requires zero personal identification, eliminating the risk of IMEI registration fees (AZN 15-100) for stays over 30 days."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate 80% Waste from 30-Day Plans"
-        desc: "Azercell's Sərbəst 10 (AZN 10/2GB/30 days) and Bakcell's DaimOnline 10 (AZN 10/5GB/30 days) force tourists to pay for unused days. Roami offers 7-day plans from $1.99/GB, saving up to 75% waste."
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "Pay with Visa, Mastercard, Apple Pay & More"
+        desc: "Local top-up often rejects foreign cards; users must buy physical vouchers at kiosks (minimum AZN 5). Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal for instant top-up."
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Instant Activation vs. In-Store Queues"
+        desc: "Buying a local SIM requires finding an Azercell or Bakcell store, queuing, and completing passport registration. Roami eSIM activates in under 1 minute via email, ready upon landing in Baku."
       - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "No IMEI Registration Risk"
-        desc: "Azerbaijan requires IMEI registration for devices using local SIMs over 30 days, with fees from AZN 15 to AZN 100. Roami eSIM bypasses this entirely, protecting your device from being blocked."
+        icon_bg: "bg-yellow-100"
+        icon_color: "text-yellow-600"
+        title: "Bypass IMEI Registration Tax for Stays Over 30 Days"
+        desc: "Azerbaijan requires devices used with local SIMs for over 30 days to be registered in the IMEI database, costing AZN 15-100. Roami eSIM uses international roaming, completely avoiding this mandatory tax and device blocking risk."
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
-        title: "Avoid Roaming Blackouts in Nagorno-Karabakh"
-        desc: "Azercell, Bakcell, and Nar have no infrastructure in Nagorno-Karabakh and do not offer roaming there. Roami eSIM provides seamless connectivity across borders, automatically connecting to local networks."
+        title: "Avoid Nagorno-Karabakh Coverage Blackout"
+        desc: "Local SIMs from Azercell, Bakcell, and Nar have no infrastructure or roaming in Nagorno-Karabakh. Roami eSIM provides seamless connectivity across the region, avoiding the need for a separate Karabakh Telecom SIM (1,200 AMD)."
 ---

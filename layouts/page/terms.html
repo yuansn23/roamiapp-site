@@ -65,8 +65,8 @@
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <!-- 2. 替换大标题 -->
         <h1 class="text-3xl md:text-5xl font-extrabold text-slate-900 mb-4">{{ .Title }}</h1>
-        <!-- 3. 替换更新时间 -->
-        <p class="text-slate-500 text-lg">Last Updated: {{ .Params.last_updated }}</p>
+        <!-- 3. 替换更新时间 --> 
+		<p class="text-slate-500 text-lg">{{ i18n "last_updated" }}: {{ .Params.last_updated }}</p>
     </div>
 </header>
 

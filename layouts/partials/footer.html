@@ -4,7 +4,7 @@
             <div class="md:col-span-1">
                 <!-- 修改点：将 div onclick 改为 a 标签，并加上 relLangURL -->
                 <a href="{{ "/" | relLangURL }}" class="block text-2xl font-extrabold text-blue-500 mb-3 hover:text-blue-400 transition-colors">Roami</a>
-                <p class="text-slate-400 text-sm mb-1">Global Connectivity Expert</p>
+               <p class="text-slate-400 text-sm mb-1">{{ i18n "global_connectivity_expert" | default "Global Connectivity Expert" }}</p>
                 <p class="text-slate-600 text-xs leading-relaxed">{{ .Site.Params.footer_desc }}</p>
             </div>
             <div>

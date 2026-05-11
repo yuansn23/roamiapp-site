@@ -113,54 +113,65 @@ related_products:
   subtitle: "Stay connected wherever you go. Choose from our most popular local and regional eSIM plans with instant delivery and zero roaming fees."
   items:
   - name: United States eSIM
+    slug: united-states-esim
     flag: /img/flags/us.svg
     price: From $1.99
     is_highlight: false
   - name: United Kingdom eSIM
+    slug: united-kingdom-esim
     flag: /img/flags/gb.svg
     price: From $1.99
     is_highlight: true
   - name: Europe eSIM
+    slug: europe-esim
     flag: /img/flags/eu.svg
     price: From $1.99
     is_highlight: true
   - name: Canada eSIM
+    slug: canada-esim
     flag: /img/flags/ca.svg
     price: From $1.99
     is_highlight: false
   - name: Turkey eSIM
+    slug: turkey-esim
     flag: /img/flags/tr.svg
     price: From $1.99
     is_highlight: false
   - name: China eSIM
+    slug: china-esim
     flag: /img/flags/cn.svg
     price: From $1.99
     is_highlight: false
   - name: Japan eSIM
+    slug: japan-esim
     flag: /img/flags/jp.svg
     price: From $1.99
     is_highlight: false
   - name: Hong Kong eSIM
+    slug: hong-kong-esim
     flag: /img/flags/hk.svg
     price: From $1.99
     is_highlight: false
   - name: France eSIM
+    slug: france-esim
     flag: /img/flags/fr.svg
     price: From $1.99
     is_highlight: false
   - name: Spain eSIM
+    slug: spain-esim
     flag: /img/flags/es.svg
     price: From $1.99
     is_highlight: false
   - name: Germany eSIM
+    slug: germany-esim
     flag: /img/flags/de.svg
     price: From $1.99
     is_highlight: false
   - name: Australia eSIM
+    slug: australia-esim
     flag: /img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
 categories:
   - name: "Free eSIM Trials"
     description: "Learn how to claim a free eSIM to test network coverage in the USA, Japan, UK, and other top destinations before you buy."

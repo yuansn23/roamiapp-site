@@ -468,29 +468,7 @@
                             </div>
                             {{ end }}
 
-                            {{ if or (and .details .details.faq_q1) (and .details .details.faq_q2) }}
-                            <div class="mb-6">
-                                <h3 class="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
-                                    <span class="bg-blue-100 text-blue-600 p-1.5 rounded-md" aria-hidden="true">❓</span> 
-                                    {{ $.Params.ui.modal.faq_title | default "Frequently Asked Questions" }}
-                                </h3>
-                                <div class="space-y-3" role="list">
-                                    {{ if and .details .details.faq_q1 .details.faq_a1 }}
-                                    <div class="bg-white p-4 rounded-xl border border-slate-200 shadow-sm" role="listitem">
-                                        <h4 class="text-sm font-bold text-slate-800 mb-1">Q: {{ .details.faq_q1 }}</h4>
-                                        <p class="text-sm text-slate-600">A: {{ .details.faq_a1 }}</p>
-                                    </div>
-                                    {{ end }}
-                                    
-                                    {{ if and .details .details.faq_q2 .details.faq_a2 }}
-                                    <div class="bg-white p-4 rounded-xl border border-slate-200 shadow-sm" role="listitem">
-                                        <h4 class="text-sm font-bold text-slate-800 mb-1">Q: {{ .details.faq_q2 }}</h4>
-                                        <p class="text-sm text-slate-600">A: {{ .details.faq_a2 }}</p>
-                                    </div>
-                                    {{ end }}
-                                </div>
-                            </div>
-                            {{ end }}
+                          
 
                         </div>
 

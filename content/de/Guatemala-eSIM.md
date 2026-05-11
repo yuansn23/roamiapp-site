@@ -1,31 +1,30 @@
 ---
 title: Guatemala eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-08T14:40:16+00:00'
+date: '2026-05-11T08:50:38+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: Guatemala eSIM
-  scenario_keywords: Maya-Ruinen besichtigen, Kolonialstädte erkunden, Vulkane besteigen,
-    Pazifikstrände genießen
+  scenario_keywords: Sightseeing, Geschäftsreise, Kultur erleben, Backpacking, Strandurlaub
   operators: Tigo, Claro, Movistar
-  competitors: Airalo, Holafly, Ubigi, Nomad eSIM, Yesim
-  main_cities: Guatemala-Stadt, Antigua, Quetzaltenango, Flores, Puerto Barrios
-  main_packages: 3/7/15/30 Tage, Unbegrenzte Daten
+  competitors: Airalo, Holafly, Nomad, Ubigi, Maya Mobile
+  main_cities: Guatemala-Stadt, Antigua Guatemala, Quetzaltenango, Flores, Puerto
+    Barrios
+  main_packages: 3/7/15/30 Tage, unbegrenzte Daten
 modal:
-  title: Service Upgrade!
-  btn_text: Weiter
+  title: Service-Upgrade!
+  btn_text: Fortfahren
   text_default: |-
-    Unser eSIM-Service wurde auf <strong>PhoneSIMGo</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: esim20
+    Unser eSIM-Service wurde auf <strong>PhoneSIMGo</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
   text_android: |-
-    Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: esim20
+    Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Guatemala eSIM - Günstige Daten Flatrate ohne Roaming - Roami
-  description: Sofortige Lieferung, keine Roaming-Gebühren. Mobiles Internet in Guatemala
-    mit QR-Code Aktivierung. Jetzt eSIM kaufen und flexibel surfen.
-  keywords: Guatemala eSIM, eSIM Guatemala, Daten Flatrate Guatemala, mobiles Internet
-    Guatemala, Roaming-frei
-  low_price: 1.99
-  high_price: 39.9
+  title: Guatemala eSIM | Zuverlässiges 5G für Geschäftsreisen | Roami
+  description: Entdecken Sie Guatemala mit Leichtigkeit. Erleben Sie Hochgeschwindigkeitsdaten
+    und nahtloses schnelles 5G vom lokalen Top-Betreiber. Mit bestem lokalen Netzwerk
+    und Auto-Connect – perfekt für Familienbesuche.
+  keywords: Guatemala eSIM, Reise eSIM, mobile Daten Guatemala, Internet Guatemala,
+    eSIM Lateinamerika
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -33,7 +32,7 @@ order_summary:
   label_daily: Tagespreis
   label_total: Gesamtpreis
   btn_primary: 20% Rabatt sichern
-  btn_secondary: 'Code: ESIM20'
+  btn_secondary: 'Code: web20'
 breadcrumbs:
 - label: Startseite
   url: /
@@ -43,17 +42,17 @@ banner:
   alt: Beste eSIM für Guatemala
   title: Beste eSIM für Guatemala
 hero:
-  flag_image: img/flags/gu.svg
-  flag_alt: Guatemala Flagge
+  flag_image: img/flags/gt.svg
+  flag_alt: Flagge von Guatemala
   title: Guatemala eSIM Datentarif
-  subtitle: Top-Wahl für Reisen in Guatemala | Günstige Guatemala eSIM | 100% Geld-zurück-Garantie
+  subtitle: Sofortige Lieferung | 100% Rückerstattungsgarantie | Kein Ausweis erforderlich
 features:
   title: Warum Reisende Roami wählen
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Sofort-QR-Code
-    desc: Lieferung in unter 5 Min.
+    title: Sofortiger QR-Code
+    desc: Lieferung in unter 5 Minuten
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: 24/7 Support
@@ -72,13 +71,13 @@ features:
     desc: Jederzeit kündbar
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Wechsel
+    title: Auto-Auswahl
     desc: Beste lokale Netze
 plans_title: Wählen Sie Ihren Tarif
 plans_data:
   7 Tage:
   - spec: 1GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Ideal für kurze Geschäftsreisen
     price: '11.99'
     oldPrice: '17.98'
@@ -87,7 +86,7 @@ plans_data:
     daily: '1.71'
   15 Tage:
   - spec: 3GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Sightseeing
     price: '15.99'
     oldPrice: '23.98'
@@ -97,7 +96,7 @@ plans_data:
     tagIcon: star
   30 Tage:
   - spec: 3GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Sightseeing
     price: '22.99'
     oldPrice: '34.48'
@@ -106,15 +105,15 @@ plans_data:
     daily: '0.77'
     tagIcon: star
   - spec: 5GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für tiefergehende Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für längere Reisen
     price: '35.99'
     oldPrice: '53.98'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '1.20'
   - spec: 20GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '30.99'
     oldPrice: '46.48'
@@ -122,32 +121,32 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.03'
   - spec: 10GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für längere Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für noch längere Reisen
     price: '48.99'
     oldPrice: '73.48'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '1.63'
 discount_banner:
-  title: Sonderrabatt!
+  title: Spezialrabatt!
   desc_html: |-
-    Nutzen Sie den Code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">esim20</span> beim Checkout für <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% RABATT</span>!
-  btn_text: Rabatt sichern
-  validity: 'Gültigkeit: 3 Tage'
+    Verwenden Sie den Code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> an der Kasse für <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% RABATT</span>!
+  btn_text: Rabatt speichern
+  validity: 'Gültig: 3 Tage'
 network_coverage:
-  title: Details zur Netzabdeckung
+  title: Netzabdeckungsdetails
   supports_text: 'Unterstützt:'
   service_details:
-    title: Servicedetails
+    title: Service-Details
     items:
     - icon: map
       color: text-brand-500
       title: Abdeckung
       desc: Genießen Sie umfassende Netzabdeckung in ganz Guatemala, einschließlich
-        Städten wie Guatemala-Stadt, Antigua, Quetzaltenango und Flores. Unsere Guatemala
-        eSIM verbindet sich nahtlos mit den Netzen von Tigo, Claro und Movistar für
-        stabilen Empfang.
+        Städten wie Guatemala-Stadt, Antigua Guatemala, Quetzaltenango, und Flores.
+        Unsere Guatemala eSIM verbindet sich nahtlos mit den Netzen von Tigo, Claro
+        und Movistar.
     - icon: zap
       color: text-amber-500
       title: Lieferzeit
@@ -164,9 +163,6 @@ network_coverage:
       coverage: Geringe Latenz
       network: 5G/4G/LTE Netzwerk
     - name: Claro
-      coverage: Hohe Zuverlässigkeit
-      network: 5G/4G/LTE Netzwerk
-    - name: Movistar
       coverage: Native IP
       network: 5G/4G/LTE Netzwerk
 reminders:
@@ -174,47 +170,67 @@ reminders:
   items:
   - icon: 📱
     html: |-
-      Prüfen Sie vor dem Kauf die <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-Kompatibilität</a> Ihres Handys.
+      Überprüfen Sie vor dem Kauf die <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-Kompatibilität</a> Ihres Telefons.
   - icon: ✈️
-    html: Wir empfehlen, die eSIM erst nach Ankunft in Guatemala zu aktivieren.
+    html: Wir empfehlen, die eSIM erst nach der Ankunft in Guatemala zu aktivieren.
   - icon: ⏰
-    html: Die Gültigkeit beginnt mit der Verbindung zum Partnernetz.
+    html: Die Gültigkeit beginnt bei Verbindung mit dem Partnernetzwerk.
   - icon: 📧
-    html: Der QR-Code wird an Ihre E-Mail gesendet.
+    html: Der QR-Code wird an Ihre E-Mail-Adresse gesendet.
   - icon: 🔄
     html: Sie können mehrere eSIMs gleichzeitig installieren.
   compatibility_check:
     title: Schneller Kompatibilitätscheck
-    desc: 'Nicht sicher? Prüfen Sie es jetzt direkt an Ihrem Handy:'
-    instruction: 'Wählen Sie auf Ihrem Tastenfeld:'
+    desc: 'Nicht sicher? Prüfen Sie es jetzt auf Ihrem Telefon:'
+    instruction: 'Wählen Sie auf Ihrer Tastatur:'
     code: '*#06#'
     result_html: |-
       Wenn eine <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>-Nummer erscheint, wird eSIM unterstützt!
 activation_steps:
-  title: Schritte zur Aktivierung
+  title: Aktivierung Ihrer Guatemala eSIM in wenigen Minuten
   steps:
   - num: '1'
-    title: 'Schritt 1: QR-Code erhalten'
-    desc: Nach der Zahlung erhalten Sie den QR-Code innerhalb von 5 Minuten per E-Mail.
-      Bitte prüfen Sie auch den Spam-Ordner.
+    title: QR-Code empfangen & speichern – startklar für Guatemala
+    desc: Direkt nach Ihrer Bestellung erhalten Sie eine E‑Mail mit Ihrem persönlichen
+      Aktivierungs‑QR‑Code und den Einrichtungsanweisungen. Speichern Sie den QR-Code
+      auf Ihrem Smartphone oder drucken Sie ihn aus – Sie benötigen keine aktive Internetverbindung
+      für die spätere Installation. Die eSIM ist 30 Tage gültig, Sie können sie also
+      vor Ihrer Abreise nach Guatemala in aller Ruhe vorbereiten.
     is_list: false
   - num: '2'
-    title: 'Schritt 2: eSIM hinzufügen'
+    title: eSIM auf Ihrem Gerät installieren - QR-Code scannen
     is_list: true
     list_items:
-    - |-
-      Einstellungen > Mobilfunk (oder Mobile Daten)
-    - Tippen Sie auf "eSIM hinzufügen"
-    - Scannen Sie den QR-Code mit der Kamera
-    - Folgen Sie den Anweisungen zum Setup
+    - Öffnen Sie die **Einstellungen** Ihres Smartphones → **Mobilfunk / Mobile Daten**
+    - Tippen Sie auf **"eSIM hinzufügen"** oder **"Mobilfunkplan hinzufügen"**
+    - Wählen Sie **"QR-Code scannen"** und halten Sie die Kamera über den Code
+    - Das Guatemala eSIM-Profil wird automatisch geladen – tippen Sie auf **"Weiter"**
+    - Vergeben Sie einen Namen (z.B. „Roami Guatemala“) und wählen Sie ihn als **Standard
+      für mobile Daten**
+    - Die eSIM ist jetzt installiert, aber noch **inaktiv** – perfekt für die Reisevorbereitung
   - num: '3'
-    title: 'Schritt 3: In Guatemala nutzen'
-    desc: Aktivieren Sie nach der Landung in Guatemala die eSIM in den Einstellungen.
-      Wir empfehlen WLAN für die erste Aktivierung.
+    title: Vorbereitung zu Hause – ohne Risiko testen
+    desc: Nach der Installation können Sie die eSIM in den Einstellungen deaktiviert
+      lassen. Sie können sie jedoch bereits mit Ihrem heimischen WLAN testen (es werden
+      keine mobilen Daten verbraucht). Sobald Sie in Guatemala landen, schalten Sie
+      die eSIM einfach ein – die Gültigkeit startet dann automatisch bei der ersten
+      Verbindung mit dem Netz von Tigo / Claro. Keine versteckten Aktivierungsgebühren,
+      keine Roamingkosten.
+    is_list: false
+  - num: '4'
+    title: 'Ankunft in Guatemala: sofort online mit 5G/4G'
+    desc: Sobald Sie in Guatemala gelandet sind (z.B. in La Aurora Internationaler
+      Flughafen (GUA), Mundo Maya International (FRS), Quetzaltenango Airport (AAZ)),
+      schalten Sie den Flugmodus aus (oder bleiben Sie im Flugmodus und aktivieren
+      Sie nur die eSIM). Gehen Sie zu **Einstellungen → Mobilfunk** und aktivieren
+      Sie Ihre Roami Guatemala eSIM. Innerhalb weniger Sekunden verbindet sich Ihr
+      Gerät automatisch mit dem schnellsten verfügbaren 5G/4G-Netz von Tigo / Claro.
+      Sie können sofort navigieren, WhatsApp nutzen, soziale Medien checken oder einen
+      Hotspot für andere Geräte einrichten – ohne Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
 faq_section:
   title: Guatemala eSIM FAQ & Reiseführer
-  desc: Alles, was Sie über die Nutzung Ihrer Guatemala eSIM in verschiedenen Reiseszenarien
+  desc: Alles, was Sie über die Verwendung Ihrer Guatemala eSIM in verschiedenen Reiseszenarien
     wissen müssen.
   categories:
   - id: faq-general
@@ -222,112 +238,106 @@ faq_section:
     tab_title: Allgemein
     title: 1. Allgemeine Fragen
     questions:
-    - q: Unterstützt mein Handy die Guatemala eSIM? Wie installiere ich sie?
-      a: Die meisten modernen Smartphones ab dem iPhone XS/XR, Samsung Galaxy S20+
-        und Google Pixel 3+ unterstützen eSIM. Sie können Ihre Guatemala eSIM einfach
-        installieren, indem Sie den QR-Code scannen, den wir Ihnen per E-Mail senden,
-        in den Einstellungen für Mobilfunk/Mobile Daten Ihres Handys.
-    - q: Wie kaufe und aktiviere ich die Guatemala eSIM? Ist sie sofort aktiv?
-      a: Sie können sie direkt auf unserer Website kaufen. Sie ist nicht sofort nach
-        dem Kauf aktiv; die Gültigkeitsdauer beginnt erst, wenn Sie in Guatemala ankommen
-        und sich Ihr Handy mit dem lokalen Netzwerk verbindet.
-    - q: Was ist ein Aktivierungs-QR-Code? Läuft er ab? Kann er wiederverwendet werden?
-      a: Der QR-Code ist Ihr digitales SIM-Profil für die Guatemala eSIM. Er muss
-        in der Regel innerhalb von 30 Tagen nach dem Kauf installiert werden. Einmal
-        installiert, kann er nicht erneut gescannt oder auf ein anderes Gerät übertragen
-        werden.
-    - q: Kann ich eine Rückerstattung erhalten, wenn die Guatemala eSIM nicht funktioniert
-        oder ein schlechtes Signal hat?
-      a: Ja, wir bieten eine Geld-zurück-Garantie. Wenn Sie anhaltende Netzwerkprobleme
-        in Guatemala haben, die unser Support-Team nicht lösen kann, haben Sie Anspruch
-        auf eine Rückerstattung.
-    - q: Bieten Sie 24/7 Kundensupport an? Wie kann ich Sie kontaktieren?
-      a: Ja, unser technisches Support-Team ist rund um die Uhr erreichbar. Sie können
-        uns über das Live-Chat-Widget auf unserer Website oder durch Antworten auf
-        Ihre Bestellbestätigungs-E-Mail erreichen.
-    - q: Gibt es Rabattcodes? Wie verwende ich den Promo-Code 'esim20'?
-      a: Ja! Sie können den Promo-Code 'esim20' auf der Checkout-Seite eingeben, um
-        sofort 20% Rabatt auf Ihre Guatemala eSIM Bestellung zu erhalten.
-    - q: Ist Ihr 'Unlimited Data' Tarif wirklich unbegrenzt? Gibt es eine Fair Usage
-        Policy (FUP)?
-      a: Unsere Unlimited-Tarife bieten kontinuierliche Daten. Wie bei allen globalen
-        Anbietern gilt jedoch eine Fair Usage Policy (FUP), um Netzwerkmissbrauch
-        zu vermeiden. Bei extrem hoher Nutzung kann die Geschwindigkeit vorübergehend
-        reduziert werden, was normales Surfen oder Social Media jedoch nicht beeinträchtigt.
-    - q: Kann ich meine Guatemala eSIM-Daten teilen (Hotspot)?
-      a: Absolut. Alle unsere Guatemala eSIM-Tarife unterstützen mobilen Hotspot und
-        Tethering, sodass Sie Ihre Daten mit Ihrem Laptop, Tablet oder Mitreisenden
-        teilen können.
-    - q: Was sind die Vorteile Ihrer Guatemala eSIM gegenüber lokalen SIM-Karten oder
-        anderen Anbietern?
-      a: Im Gegensatz zu physischen SIM-Karten müssen Sie nicht am Flughafen anstehen
-        oder kleine Plastikkarten wechseln. Wir arbeiten direkt mit Top-Netzen in
-        Guatemala wie Tigo, Claro, Movistar zusammen, um Premium-Geschwindigkeiten
-        zu einem Bruchteil der Roaming-Kosten zu gewährleisten.
-    - q: Wie schneidet Roami im Vergleich zu bekannten eSIM-Anbietern wie aloSIM,
-        Roamless, Holafly, Airalo ab?
-      a: Während großartige Unternehmen wie aloSIM, Roamless, Holafly, Airalo zuverlässige
-        Dienste leisten, konzentrieren wir uns auf die kosteneffizienteste Guatemala
-        eSIM mit geringer Latenz und Bestpreisgarantie durch unser automatisches Preisabgleichsystem.
+    - q: Wie sicher ist die Guatemala eSIM im Vergleich zu einer physischen SIM-Karte?
+      a: eSIMs sind manipulationssicherer, da sie fest im Gerät verbaut sind und nicht
+        herausgenommen oder kopiert werden können. Ihre Daten bleiben verschlüsselt
+        – kein Risiko durch verlorene oder gestohlene SIM-Karten.
+    - q: Was kostet die Guatemala eSIM und gibt es Rabattaktionen?
+      a: Unser Guatemala eSIM Tarif startet bei nur $1.99/GB. Mit dem Promo-Code 'web20'
+        erhalten Sie 20% Rabatt auf jede Bestellung – gültig für alle Tarife. Keine
+        versteckten Gebühren, keine Mindestvertragslaufzeit.
+    - q: Unterstützt mein Smartphone die Guatemala eSIM und wie installiere ich sie?
+      a: Ja, die meisten modernen Smartphones (iPhone XS/XR oder neuer, Samsung Galaxy
+        S20+/Note20+, Google Pixel 3a+) unterstützen eSIM. Sie installieren die Guatemala
+        eSIM, indem Sie den QR-Code in den Mobilfunkeinstellungen scannen. Die Netzwerke
+        von Tigo / Claro bieten hervorragende 5G/4G-Abdeckung in Guatemala.
+    - q: Welche 5G/4G-Netzwerke nutzt die Guatemala eSIM und wie ist die Abdeckung?
+      a: Die Guatemala eSIM arbeitet exklusiv mit Tigo / Claro zusammen. Sie erhalten
+        automatisch das jeweils beste verfügbare Netz (5G/4G/LTE) mit bester Abdeckung
+        in Städten wie Berlin, München, Hamburg sowie auf dem Land und entlang der
+        Autobahnen.
+    - q: Gibt es eine Geld‑zurück‑Garantie, falls die Guatemala eSIM nicht funktioniert?
+      a: Ja, wir bieten eine 100%ige Geld‑zurück‑Garantie innerhalb von 7 Tagen nach
+        Aktivierung, falls technische Probleme nicht durch unseren 24/7‑Support gelöst
+        werden können. Kein Risiko für Sie.
+    - q: Unterstützt die Guatemala eSIM VoLTE und HD-Sprachanrufe?
+      a: Ja, die Guatemala eSIM unterstützt VoLTE und HD‑Sprache, sofern Ihr Gerät
+        dies zulässt. Genießen Sie gestochen scharfe Anrufqualität über das 5G/4G‑Netz
+        von Tigo / Claro.
+    - q: Kann ich die Guatemala eSIM nach der Installation auf ein anderes Gerät übertragen?
+      a: Eine einmal installierte eSIM kann nicht auf ein anderes Gerät übertragen
+        werden. Bitte installieren Sie die eSIM auf dem Gerät, das Sie auf Reisen
+        nutzen werden. Für zusätzliche Geräte können Sie weitere eSIMs erwerben.
+    - q: Wie funktioniert das internationale Roaming mit der Guatemala eSIM in Nachbarländern?
+      a: Die Guatemala eSIM ist primär für Guatemala optimiert. Für Reisen in EU‑Nachbarländer
+        empfehlen wir unsere Europa‑eSIM, die nahtloses Roaming ohne zusätzliche Kosten
+        bietet. Die reine Land‑eSIM funktioniert nicht zuverlässig außerhalb von Guatemala.
+    - q: Kann ich meine bestehende Telefonnummer behalten, wenn ich die Guatemala
+        eSIM nutze?
+      a: 'Die Roami eSIM ist eine reine Daten‑eSIM. Sie können Ihre heimische SIM
+        parallel nutzen (z.B. für Anrufe/SMS). Die meisten Dual‑SIM‑Handys verwalten
+        beide Profile: Wählen Sie einfach die Roami eSIM als Standard für mobile Daten.'
+    - q: Bietet Roami auch regionale eSIMs für Reisen über Guatemala hinaus an?
+      a: Ja, zusätzlich zur Guatemala eSIM bieten wir Regional‑eSIM für Europa, Asien,
+        Nordamerika und weltweit an. Ideal für mehrtägige Städtereisen oder Rundreisen
+        durch mehrere Länder – ohne SIM‑Kartenwechsel.
   - id: faq-airport
     icon: plane
-    tab_title: Flughafen
+    tab_title: Flughäfen
     title: 2. Flughafen-Netzwerk
     questions:
-    - q: Wie bekomme ich sofort nach dem Aussteigen eine Internetverbindung?
+    - q: Wie erhalte ich sofort nach der Landung ein zuverlässiges Netz?
       a: Installieren Sie die Guatemala eSIM vor Ihrem Flug. Sobald Sie an Flughäfen
-        wie La Aurora International Airport (GUA), Mundo Maya International Airport
-        (FRS), Quetzaltenango Airport (AAZ) landen, deaktivieren Sie einfach den Flugmodus
-        und aktivieren Sie Ihre eSIM-Leitung. Sie verbindet sich in Sekunden mit dem
-        lokalen 4G/5G-Netz.
+        wie La Aurora Internationaler Flughafen (GUA), Mundo Maya International (FRS),
+        Quetzaltenango Airport (AAZ) landen, schalten Sie einfach den Flugmodus aus
+        und aktivieren Sie Ihre eSIM. Sie verbindet sich in Sekunden mit dem lokalen
+        4G/5G-Netz.
     - q: Wie kontaktiere ich meinen Abholer oder nutze Uber/Grab?
-      a: Nach der Aktivierung bei der Landung können Sie sofort Apps wie Uber, InDriver,
-        Moovit nutzen, um eine Fahrt zu buchen oder WhatsApp zu verwenden, um Ihren
+      a: Nach der Aktivierung bei der Landung können Sie sofort Apps wie Uber, Didi,
+        TuChofer nutzen, um eine Fahrt zu buchen, oder WhatsApp verwenden, um Ihren
         Fahrer zu kontaktieren, ohne auf unsicheres Flughafen-WLAN angewiesen zu sein.
-    - q: Wie nutze ich Google Maps zur Transportsuche am Flughafen?
+    - q: Wie nutze ich Google Maps/Apple Maps, um Transportmittel zu finden?
       a: Mit Ihren Guatemala eSIM-Daten können Sie direkt an der Gepäckausgabe in
-        La Aurora International Airport (GUA), Mundo Maya International Airport (FRS),
+        La Aurora Internationaler Flughafen (GUA), Mundo Maya International (FRS),
         Quetzaltenango Airport (AAZ) Echtzeit-Fahrpläne für Züge und Busse prüfen
         oder den Weg zum Taxistand finden.
-    - q: Wie vermeide ich teure SIM-Karten-Touristenfallen am Flughafen?
+    - q: Wie vermeide ich teure SIM-Karten am Flughafen?
       a: Indem Sie unsere Guatemala eSIM vorab online kaufen, umgehen Sie die teuren
         SIM-Kioske in der Ankunftshalle komplett und sparen Zeit und Geld.
-    - q: Wie empfange ich SMS ohne lokale Nummer?
+    - q: Wie empfange ich SMS von Hotel/Autovermietung ohne lokale Nummer?
       a: Unsere Guatemala eSIM ist ein reiner Datentarif. Um SMS zu empfangen, lassen
-        Sie Ihre primäre SIM-Karte für Texte aktiv (der Empfang ist im Roaming oft
-        kostenlos) und nutzen Sie die eSIM für den gesamten Datenverkehr.
-    - q: Wie kontaktiere ich meine Familie sofort nach der Landung?
+        Sie Ihre heimische SIM-Karte aktiviert (SMS-Empfang ist oft kostenlos im Roaming)
+        und nutzen Sie die eSIM für den gesamten Datenverkehr.
+    - q: Wie kontaktiere ich sofort meine Familie?
       a: Sobald Sie landen, können Sie iMessage, WhatsApp oder FaceTime über unsere
         schnellen Guatemala eSIM-Daten nutzen, um Ihren Lieben mitzuteilen, dass Sie
         sicher angekommen sind.
   - id: faq-transport
     icon: car
-    tab_title: Verkehr
+    tab_title: Transport
     title: 3. Transport & Reisen
     questions:
-    - q: Wie nutze ich Google Maps für die Routenplanung?
+    - q: Wie nutze ich Google Maps zur Routenplanung?
       a: Unsere stabile Guatemala eSIM-Verbindung stellt sicher, dass Google Maps
-        überall in Guatemala Echtzeit-Verkehrsdaten und Fahrpläne laden kann, was
-        die Navigation nahtlos macht.
-    - q: Wie kontaktiere ich Uber/Grab-Fahrer über die App?
-      a: Apps wie Uber, InDriver, Moovit nutzen VoIP. Da Sie aktive Guatemala eSIM-Daten
+        überall in Guatemala Echtzeit-Verkehrsdaten und Fahrpläne laden kann.
+    - q: Wie können mich Uber/Grab-Fahrer über die App kontaktieren?
+      a: Apps wie Uber, Didi, TuChofer nutzen VoIP. Da Sie aktive Guatemala eSIM-Daten
         haben, können Fahrer Sie direkt über die App anrufen oder benachrichtigen,
-        ohne dass eine lokale Nummer nötig ist.
+        ohne eine lokale Nummer.
     - q: Wie kaufe ich Zug- oder U-Bahn-Tickets online?
       a: Nutzen Sie Ihre Guatemala eSIM-Daten, um in lokalen Apps digitale QR-Code-Tickets
-        zu kaufen und lange Warteschlangen an Automaten zu vermeiden.
+        zu kaufen und lange Schlangen an Automaten zu vermeiden.
     - q: Wie nutze ich Google Maps für Echtzeit-Navigation im Mietwagen?
-      a: Befestigen Sie Ihr Handy und nutzen Sie Ihre Guatemala eSIM. Ein 5GB oder
-        10GB Tarif reicht völlig für eine umfangreiche GPS-Navigation während eines
-        Roadtrips in Guatemala.
-    - q: Wie scanne und entsperre ich E-Scooter?
+      a: Befestigen Sie Ihr Telefon und nutzen Sie Ihre Guatemala eSIM. Ein 5GB- oder
+        10GB-Tarif reicht für eine umfangreiche GPS-Navigation während eines Roadtrips
+        in Guatemala.
+    - q: Wie scanne und entsperre ich E-Scooter (Lime/Bird)?
       a: Das Entsperren von E-Scootern erfordert eine schnelle Internetverbindung.
         Unsere Guatemala eSIM bietet die dafür nötige zuverlässige Abdeckung.
     - q: Funktionieren Fahrdienst-Apps länderübergreifend?
-      a: Ja, Ihr Account bleibt gleich. Stellen Sie nur sicher, dass Sie über unsere
-        lokale oder regionale eSIM eine aktive Internetverbindung haben, um Fahrten
-        zu buchen.
-    - q: Wie biete ich einen stabilen Hotspot für meine Familie an?
+      a: Ja, Ihr Konto bleibt gleich. Stellen Sie nur sicher, dass Sie über unsere
+        lokale oder regionale eSIM eine aktive Internetverbindung haben.
+    - q: Wie biete ich einen stabilen Hotspot für meine Familie?
       a: Aktivieren Sie einfach den 'Persönlichen Hotspot' in Ihren Einstellungen.
         Ihre Familie kann sich mit Ihrem Guatemala eSIM-Netzwerk im Zug oder Auto
         verbinden.
@@ -336,26 +346,27 @@ faq_section:
     tab_title: Hotels
     title: 4. Hotels & Unterkünfte
     questions:
-    - q: Wie mache ich einen Self-Check-in nach einer Online-Buchung?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Ihre Guatemala eSIM stellt sicher, dass Sie diese
-        Details direkt vor der Haustür abrufen können.
-    - q: Wie kontaktiere ich meinen Airbnb-Gastgeber bei der Ankunft?
+    - q: Wie mache ich einen Self-Check-in nach Buchung?
+      a: Viele moderne Unterkünfte senden Smart-Lock-Codes per E-Mail. Ihre Guatemala
+        eSIM stellt sicher, dass Sie diese Details direkt vor der Haustür abrufen
+        können.
+    - q: Wie kontaktiere ich meinen Airbnb-Gastgeber bei Ankunft?
       a: Nutzen Sie die Messaging-Funktion der Airbnb-App oder WhatsApp, um Ihre Ankunftszeit
         mit Ihrem Gastgeber über mobile Guatemala eSIM-Daten abzustimmen.
     - q: Wie nutze ich Google Maps, um zum Hotel zu navigieren?
-      a: Egal ob Sie im Hotel Casa Santo Domingo, Barceló Guatemala City, Westin Camino
-        Real oder einer Pension übernachten, geben Sie die Adresse in Google Maps
-        ein und nutzen Sie die Navigation Ihrer Guatemala eSIM.
-    - q: Wie empfange ich Verifizierungscodes (SMS) im Hotel?
-      a: Keep your home SIM active for receiving SMS, and use the hotel Wi-Fi or your
-        Guatemala eSIM data to trigger the verification code from your bank or app.
-    - q: Wie kontaktiere ich den Kundenservice schnell?
+      a: Egal ob Sie in Hotel Camino Real, Barceló Guatemala City, Casa Palopó übernachten,
+        geben Sie die Adresse in Google Maps ein und nutzen Sie die Navigation Ihrer
+        Guatemala eSIM.
+    - q: Wie empfange ich SMS-Verifizierungscodes?
+      a: Lassen Sie Ihre heimische SIM für SMS aktiv und nutzen Sie Ihre Guatemala
+        eSIM-Daten, um Codes per E-Mail oder Authenticator-App zu empfangen.
+    - q: Wie kontaktiere ich schnell den Kundenservice?
       a: Nutzen Sie VoIP-Apps wie Skype oder die Chat-Funktion der Buchungs-App über
         Ihre Hochgeschwindigkeits-Guatemala eSIM-Daten.
-    - q: Wie bestelle ich Essen ins Hotel mit lokalen Apps?
-      a: Laden Sie Uber Eats, Hugo, Apetito herunter und nutzen Sie Ihre Guatemala
-        eSIM-Daten, um eine warme Mahlzeit direkt in die Hotellobby zu bestellen.
+    - q: Wie bestelle ich Essen mit lokalen Liefer-Apps?
+      a: Laden Sie Uber Eats, Hugo Restaurantes, PedidosYa herunter und nutzen Sie
+        Ihre Guatemala eSIM-Daten, um eine warme Mahlzeit direkt in die Hotellobby
+        zu bestellen.
     - q: Wie bleibe ich nach dem Checkout mit dem Hotel in Kontakt?
       a: Sobald Sie das Hotel-WLAN verlassen, übernimmt Ihre Guatemala eSIM, sodass
         Sie dem Hotel schreiben können, falls Sie etwas vergessen haben.
@@ -365,27 +376,27 @@ faq_section:
     title: 5. Sehenswürdigkeiten & Unterhaltung
     questions:
     - q: Wie kaufe ich E-Tickets über GetYourGuide/Viator?
-      a: Wenn Sie Tikal Nationalpark, Antigua Guatemala, Atitlán-See spontan besuchen
+      a: Wenn Sie Tikal-Nationalpark, Antigua Guatemala, Atitlán-See spontan besuchen
         möchten, können Sie Ihre Guatemala eSIM-Daten nutzen, um Online-Tickets zu
         kaufen und den Barcode direkt vorzuzeigen.
-    - q: Wie buche ich Erlebnisse auf Tripadvisor sofort?
+    - q: Wie buche ich Erlebnisse bei Tripadvisor sofort?
       a: Mit dem zuverlässigen 4G/5G Ihrer Guatemala eSIM können Sie Bewertungen lesen
         und lokale Touren buchen, während Sie in einem Café sitzen.
-    - q: Wie nutze ich Wikipedia/Google für Informationen während der Besichtigung?
+    - q: Wie nutze ich Wikipedia/Google für Informationen während des Besuchs?
       a: Erweitern Sie Ihr kulturelles Erlebnis, indem Sie historische Fakten googeln
         oder Museumstafeln übersetzen, während Sie Guatemala erkunden.
     - q: Wie finde ich den Weg zur nächsten Sehenswürdigkeit?
       a: Geben Sie Ihr nächstes Ziel in Google Maps ein; die starke Abdeckung Ihrer
         Guatemala eSIM führt Sie über die schnellste Route.
-    - q: Wie prüfe ich Wartezeiten in Freizeitparks?
+    - q: Wie prüfe ich Echtzeit-Wartezeiten in Freizeitparks?
       a: Freizeitpark-Apps benötigen Internet für Live-Wartezeiten. Ihre Guatemala
         eSIM hält Sie im gesamten Park online.
     - q: Wie greife ich auf Ticketmaster für Show-Tickets zu?
       a: Sie können sicher Last-Minute-Theaterkarten über Ticketing-Apps mit Ihren
         Guatemala eSIM-Daten kaufen.
     - q: Wie teile ich Fotos/Videos sofort auf Instagram/TikTok?
-      a: Unsere schnellen Guatemala eSIM Upload-Geschwindigkeiten ermöglichen es Ihnen,
-        Reels und Fotos in Echtzeit zu posten, ohne auf das Hotel-WLAN zu warten.
+      a: Unsere schnellen Guatemala eSIM-Upload-Geschwindigkeiten ermöglichen es Ihnen,
+        Reels und Fotos in Echtzeit zu posten, ohne auf Hotel-WLAN zu warten.
   - id: faq-dining
     icon: utensils
     tab_title: Gastronomie
@@ -398,61 +409,60 @@ faq_section:
       a: Sichern Sie sich eine Reservierung über Online-Plattformen mit Ihrer Guatemala
         eSIM, während Sie unterwegs sind.
     - q: Wie scanne ich QR-Codes für digitale Menüs?
-      a: Viele Restaurants nutzen digitale Karten. Ihre Guatemala eSIM stellt sicher,
+      a: Viele Restaurants nutzen digitale Menüs. Ihre Guatemala eSIM stellt sicher,
         dass der Code auf dem Tisch sofort geladen wird.
     - q: Wie nutze ich die Google Translate Kamera für Speisekarten?
       a: Öffnen Sie die App und richten Sie die Kamera auf das Menü. Die Live-Übersetzung
-        erfordert eine Internetverbindung über Ihre Guatemala eSIM.
+        benötigt eine Internetverbindung über Ihre Guatemala eSIM.
     - q: Wie nutze ich lokale Lieferdienste?
-      a: Laden Sie lokale Apps wie Uber Eats, Hugo, Apetito herunter und bestellen
-        Sie bequem über Ihre Guatemala eSIM mobile Daten.
+      a: Laden Sie lokale Apps wie Uber Eats, Hugo Restaurantes, PedidosYa herunter
+        und bestellen Sie bequem über Ihre Guatemala eSIM-Mobildaten.
     - q: Wie bezahle ich mit Apple Pay/Google Pay?
-      a: Kontaktlose Zahlungen oder lokale Methoden wie Kreditkarte, PayPal, lokale
-        Banküberweisung erfordern einen kurzen Internet-Handshake, den Ihre Guatemala
-        eSIM perfekt bewältigt.
+      a: Kontaktlose Zahlungen oder lokale Methoden wie Bargeld, Kreditkarten (Visa/MC),
+        Tarjeta Puntos erfordern einen kurzen Internet-Handshake, den Ihre Guatemala
+        eSIM perfekt meistert.
     - q: Wie finde ich Geheimtipps von Food-Bloggern?
       a: Streamen Sie YouTube-Vlogs oder stöbern Sie in Yelp-Bewertungen mit Ihrer
-        Guatemala eSIM, um kulinarische Highlights der Stadt zu finden.
+        Guatemala eSIM, um kulinarische Highlights zu entdecken.
   - id: faq-social
     icon: smartphone
-    tab_title: Social
+    tab_title: Social Media
     title: 7. Social Media & Kommunikation
     questions:
     - q: Wie nutze ich WhatsApp/Telegram stabil im Ausland?
       a: Ihre Accounts sind an Ihre Heimnummer gebunden. Mit unserer Guatemala eSIM
         als Internetquelle können Sie genau wie zu Hause chatten und telefonieren.
-    - q: Wie lade ich Inhalte auf TikTok hoch ohne öffentliches WLAN?
+    - q: Wie lade ich Inhalte auf TikTok hoch, ohne öffentliches WLAN?
       a: Öffentliches WLAN ist oft langsam und unsicher. Unsere 4G/5G Guatemala eSIM
         bietet die Bandbreite für schnelle Uploads.
     - q: Wie mache ich Videoanrufe mit meiner Familie?
-      a: Unsere Netzpartnerschaften garantieren, dass Videoanrufe über die Guatemala
-        eSIM klar und verzögerungsfrei sind, egal wo Sie sich im Land befinden.
-    - q: Ist es sicher, soziale Accounts in öffentlichem WLAN zu nutzen?
+      a: Unsere Netzwerkpartnerschaften garantieren, dass Videoanrufe über die Guatemala
+        eSIM klar und verzögerungsfrei sind, wo immer Sie sich im Land befinden.
+    - q: Ist es sicher, sich in öffentlichen WLANs in soziale Accounts einzuloggen?
       a: Öffentliches WLAN ist anfällig für Hacker. Die Nutzung Ihrer persönlichen
         Guatemala eSIM-Daten ist verschlüsselt und wesentlich sicherer.
-    - q: Wie teile ich das Netzwerk als Hotspot mit Mitreisenden?
+    - q: Wie teile ich das Netzwerk als Hotspot mit Reisebegleitern?
       a: Aktivieren Sie die Hotspot-Funktion. Ihre Freunde können sich verbinden und
         Ihr Guatemala eSIM-Datenvolumen für ihre sozialen Medien nutzen.
   - id: faq-crossborder
     icon: globe
-    tab_title: Grenzen
+    tab_title: Grenzüberschreitend
     title: 8. Grenzüberschreitende Reisen
     questions:
     - q: Brauche ich für jedes Land eine neue SIM-Karte?
       a: Die Einzelland-Guatemala eSIM funktioniert nur dort. Für Reisen durch mehrere
-        Länder empfehlen wir unsere Regionale eSIM (z. B. Europa eSIM).
-    - q: Wie vermeide ich Roaming-Gebühren bei Bahnfahrten über Grenzen?
+        Länder empfehlen wir unsere Regionale eSIM (z.B. Europa eSIM).
+    - q: Wie vermeide ich Roaminggebühren bei Zugfahrten über Grenzen?
       a: Deaktivieren Sie 'Daten-Roaming' auf Ihrer Heim-SIM. Stellen Sie sicher,
-        dass die Guatemala eSIM als primäre Datenleitung festgelegt ist.
-    - q: Wie bekomme ich Internet bei Transits in Singapur/Dubai?
+        dass die Guatemala eSIM als primäre Datenleitung eingestellt ist.
+    - q: Wie bekomme ich Internet während Zwischenstopps in Singapur/Dubai?
       a: Sie können eine günstige 1GB eSIM für das Transitland kaufen, um während
-        des Zwischenstopps online zu bleiben.
-    - q: Wie bekomme ich Internet bei Kreuzfahrten?
-      a: Anstatt teures Schiffs-WLAN zu zahlen, aktivieren Sie eine lokale eSIM für
-        die Länder, in denen Sie anlegen. Sie verbindet sich, sobald Sie Landnähe
-        haben.
+        des Layovers online zu bleiben.
+    - q: Wie bekomme ich Internet auf Kreuzfahrten?
+      a: Statt teures Schiffs-WLAN zu zahlen, aktivieren Sie eine lokale eSIM für
+        die Länder, die Sie anlaufen. Sie verbindet sich, sobald Sie Landnähe haben.
     - q: Wie bleibt Google Maps bei Roadtrips online?
-      a: Mit einer Regional-eSIM wechselt Ihr Handy automatisch zum Netz des neuen
+      a: Mit einer Regional-eSIM wechselt Ihr Telefon automatisch zum Netz des neuen
         Landes, wenn Sie die Grenze überqueren, und hält Ihr GPS aktiv.
     - q: Wie verwalte ich Daten für mehrere Länder in einer App?
       a: Sie können Ihren Datenverbrauch für alle aktiven eSIMs direkt über unser
@@ -466,21 +476,20 @@ faq_section:
     title: 9. Notfälle
     questions:
     - q: Wie wähle ich lokale Notrufnummern?
-      a: 'In Guatemala können Sie Notrufnummern wie Polizei: 110, Feuerwehr: 122,
-        Krankenwagen: 123 direkt wählen, solange Ihr Handy irgendein Mobilfunksignal
-        empfängt, unabhängig von der SIM.'
-    - q: Wie finde ich das nächste Krankenhaus bei plötzlicher Krankheit?
-      a: Ihre Guatemala eSIM-Daten erlauben eine sofortige Suche auf Google Maps nach
-        'Apotheke' oder 'Krankenhaus' mit der schnellsten Route.
+      a: 'In Guatemala können Sie Notrufnummern wie Polizei: 120, Feuerwehr: 122,
+        Krankenwagen: 128 direkt wählen, solange Ihr Telefon ein Mobilfunksignal empfängt.'
+    - q: Wie finde ich das nächste Krankenhaus?
+      a: Ihre Guatemala eSIM-Daten ermöglichen eine sofortige Suche auf Google Maps
+        nach 'Apotheke' oder 'Krankenhaus' mit der schnellsten Route.
     - q: Wie finde ich Botschaftsinformationen bei Passverlust?
-      a: Nutzen Sie Ihre Guatemala eSIM, um schnell Adresse, Notfallkontakt und Öffnungszeiten
-        Ihrer Botschaft im Internet zu finden.
+      a: Nutzen Sie Ihre Guatemala eSIM, um schnell Adresse und Notfallkontakt Ihrer
+        Botschaft zu finden.
     - q: Wie kontaktiere ich die Reiseversicherung bei einem Unfall?
-      a: Nutzen Sie VoIP-Apps wie Skype oder Viber über Ihre Guatemala eSIM-Daten,
-        um die Hotlines Ihrer Versicherung anzurufen.
-    - q: Wie teile ich meinen Standort in Echtzeit in unsicheren Gebieten?
-      a: Nutzen Sie 'Live-Standort teilen' in WhatsApp oder 'Wo ist?' von Apple, um
-        Ihre Koordinaten über Guatemala eSIM-Daten zu senden.
+      a: Nutzen Sie VoIP-Apps wie Skype über Ihre Guatemala eSIM-Daten, um die Hotlines
+        Ihrer Versicherung anzurufen.
+    - q: Wie teile ich meinen Standort in Echtzeit?
+      a: Nutzen Sie 'Live-Standort teilen' in WhatsApp oder Apples 'Wo ist?', um Ihre
+        Koordinaten über Guatemala eSIM-Daten zu senden.
     - q: Wie lade ich Offline-Karten für abgelegene Gebiete?
       a: Nutzen Sie Ihre Stadt-Abdeckung der Guatemala eSIM, um Offline-Karten in
         Google Maps zu laden, bevor Sie in Gebiete ohne Signal reisen.
@@ -497,10 +506,10 @@ faq_section:
         sicher über das Guatemala eSIM-Netzwerk starten.
     - q: Wie nutze ich den Hotspot für Laptops in Cafés?
       a: Aktivieren Sie den Hotspot. Die Nutzung Ihrer Guatemala eSIM ist deutlich
-        schneller und sicherer vor Cyber-Bedrohungen als offene WLAN-Netze.
+        schneller und sicherer vor Cyber-Bedrohungen als offene WLANs.
     - q: Wie empfange ich 2FA-Codes für Firmen-E-Mails?
-      a: Lassen Sie Ihre Heim-SIM für SMS aktiv und nutzen Sie die Guatemala eSIM-Daten
-        für den Empfang von E-Mail-Codes.
+      a: Lassen Sie Ihre heimische SIM für SMS aktiv und nutzen Sie die Guatemala
+        eSIM-Daten für E-Mail-basierte Codes.
     - q: Wie lade ich große Dateien bei Kundenbesuchen hoch?
       a: Mit 5G/4G-LTE-Geschwindigkeiten Ihrer Guatemala eSIM können Sie Präsentationen
         schnell in Cloud-Dienste hochladen.
@@ -509,68 +518,148 @@ faq_section:
         und E-Mails sofort erhalten.
     - q: Wie aktualisiere ich Reisepläne für die Firma online?
       a: Greifen Sie über Ihre Guatemala eSIM von unterwegs auf Firmenportale zu,
-        um HR über Flugverspätungen zu informieren.
+        um die Personalabteilung über Flugverspätungen zu informieren.
 related_products:
   title: Ähnliche eSIM-Tarife
   items:
-  - name: USA eSIM
+  - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: united-states-esim
-  - name: UK eSIM
+  - name: Vereinigtes Königreich eSIM
     flag: img/flags/gb.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: united-kingdom-esim
   - name: Europa eSIM
     flag: img/flags/eu.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: true
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
     flag: img/flags/tr.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: turkey-esim
   - name: China eSIM
     flag: img/flags/cn.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: china-esim
   - name: Japan eSIM
     flag: img/flags/jp.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: japan-esim
-  - name: Hong Kong eSIM
+  - name: Hongkong eSIM
     flag: img/flags/hk.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: hong-kong-esim
   - name: Frankreich eSIM
     flag: img/flags/fr.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: france-esim
   - name: Spanien eSIM
     flag: img/flags/es.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: spain-esim
   - name: Deutschland eSIM
     flag: img/flags/de.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: germany-esim
   - name: Australien eSIM
     flag: img/flags/au.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
+# =============== 100% vollständige Wiederherstellung: datengesteuertes Marktvergleichsmodul ===============
+market_analysis:
+  title: "Guatemala eSIM oder SIM-Karte für Touristen: Welche sollten Sie wählen?"
+  subtitle: "Lokale Prepaid-SIMs in Guatemala vs. eSIM-Lösungen (2024/2025 Benchmark)"
+  citation:
+    text: "Datenquelle: Prepaid Data SIM Card Wiki (Guatemala) + Webseiten lokaler Anbieter"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Guatemala"
+  table_headers:
+    - "Vergleichsmatrix"
+    - "Lokale Prepaid-SIM (Marktdaten)"
+    - "Roami Guatemala eSIM"
+  table_rows:
+    - icon: "store"
+      title: "Erwerb &<br>Aktivierung"
+      prepaid_title: ""
+      prepaid_desc: "Tigo-Karten kosten Q50 im offiziellen Shop (enthält Q25 Guthaben und 200 MB); Claro-Startpaket für Q25 enthält 150 MB, 30 SMS und Q30 Guthaben. Tuenti erfordert Online-Registrierung."
+      esim_title: "Sofortige digitale Lieferung"
+      esim_desc: "Umgehen Sie die langen Schlangen an Tigo- und Claro-Läden. Aktivieren Sie Ihre eSIM online innerhalb von 1 Minute vor Ihrer Abreise nach Guatemala-Stadt."
+    - icon: "id-card"
+      title: "KYC & Realnamen-<br>Registrierung"
+      prepaid_title: ""
+      prepaid_desc: "Guatemala verlangt gesetzlich die Passregistrierung für alle SIM-Karten; über zwei Millionen nicht registrierte Nutzer wurden gesperrt. Touristen müssen ihren Pass vorlegen und sich von Ladenmitarbeitern registrieren lassen."
+      esim_title: "Keine Passregistrierung nötig"
+      esim_desc: "Vermeiden Sie die gesetzlich vorgeschriebene Passregistrierung in Guatemala. Roami eSIM benötigt keine persönlichen Ausweise – sofortige Aktivierung ohne Datenschutzrisiken."
+    - icon: "globe"
+      title: "Internationales<br>Roaming"
+      prepaid_title: ""
+      prepaid_desc: "Movistar bietet 'sin fronteras' für Mittelamerika zu Inlandstarifen, aber für USA/Kanada fallen zusätzlich Q40/Tag an. Tigo und Claro haben keine günstigen Roaming-Optionen."
+      esim_title: "Weltweites Roaming ohne Aufpreis"
+      esim_desc: "Im Gegensatz zu Movistars Q40/Tag-Zusatzkosten für USA/Kanada bietet Roami eSIM nahtloses Roaming in über 100 Ländern zu einem festen Preis – keine versteckten Gebühren."
+    - icon: "calendar-xmark"
+      title: "Abrechnungszyklus &<br>verschwendete Kosten"
+      prepaid_title: ""
+      prepaid_desc: "Tigo 30-Tage-Tarife: 2 GB für Q99, 4 GB für Q199, 20 GB für Q499. Claro 30-Tage: 3 GB für Q100, 6 GB für Q200. Movistar 30-Tage: 3+3 GB für Q100. Kurzzeitpakete existieren, aber die Hauptoptionen sind 30 Tage."
+      esim_title: "Flexible Tarife ab 7 Tagen"
+      esim_desc: "Während Tigo und Claro 30-Tage-Zyklen (z.B. 2 GB für Q99) erzwingen, bietet Roami 7-Tage-Datentarife ab $1.99/GB – sparen Sie bis zu 75% der Kosten für Kurzaufenthalte."
+    - icon: "wifi"
+      title: "Hotspot &<br>Geschwindigkeitsrichtlinien"
+      prepaid_title: ""
+      prepaid_desc: "Keine spezifischen Daten in der Quelle für diese Dimension. Typischerweise erlauben Tigo, Claro und Movistar Tethering, aber die Geschwindigkeit kann nach Verbrauch des Datenvolumens gedrosselt werden."
+      esim_title: "Uneingeschränktes Tethering"
+      esim_desc: "Roami eSIM erlaubt unbegrenztes Tethering ohne Drosselung. Teilen Sie Ihre Daten mit Laptop und Tablet, ohne sich um versteckte Beschränkungen wie bei lokalen SIMs sorgen zu müssen."
+    - icon: "credit-card"
+      title: "Aufladung & Zahlung"
+      prepaid_title: ""
+      prepaid_desc: "Aufladung erfolgt über physische Guthabenkarten an Kiosken; Online-Aufladung mit ausländischen Karten wird oft abgelehnt."
+      esim_title: "Weltweite Zahlungsmethoden"
+      esim_desc: "Bezahlen Sie mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal – keine Bargeld-Guthabenkarten nötig. Vermeiden Sie die umständliche Aufladung an Kiosken."
+    - icon: "headset"
+      title: "Kundensupport"
+      prepaid_title: ""
+      prepaid_desc: "Kundensupport ist auf Spanisch; nicht spanischsprachige Touristen haben Schwierigkeiten. Keine englischen Hotlines oder Live-Chats für Prepaid-Kunden."
+      esim_title: "24/7 mehrsprachiger Support"
+      esim_desc: "Unser Kundenservice ist rund um die Uhr auf Englisch und Deutsch erreichbar – kein Spanisch nötig. Im Gegensatz zu lokalen Anbietern mit nur spanischsprachigem Support."
+
+  # =============== 100% vollständige Wiederherstellung: Expertenfazit-Modul ===============
+  expert_verdict:
+    title: "Guatemala eSIM vs. lokale Prepaid-SIM: Was ist bequemer? Die ultimative Entscheidung für stressfreie Konnektivität"
+    cards:
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "Bequeme Zahlung mit Karte oder PayPal"
+        desc: "Lokale SIMs erfordern Bargeld oder physische Guthabenkarten an Kiosken. Roami akzeptiert Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal – weltweit und sofort."
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "Bessere Netzabdeckung durch Multi-Netz"
+        desc: "Tigo 4G nutzt nur Band 5 (850 MHz), das viele internationale Handys nicht unterstützen – dann nur 3G. Claro 4G nur in Guatemala-Stadt. Roami eSIM aggregiert Tigo, Claro und Movistar und wechselt automatisch zum besten verfügbaren Netz."
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "Umgehen Sie Guatemalas strenge SIM-Passanforderungen"
+        desc: "Guatemala verlangt gesetzlich die Passregistrierung für alle SIM-Karten. Über zwei Millionen nicht registrierte Nutzer wurden gesperrt. Mit Roami eSIM entfällt dieser Schritt komplett – keine Passkopie, keine Wartezeit."
+      - icon: "shield"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "Sicherheit: Keine SIM-Karte verlieren"
+        desc: "Beim Wechsel zur lokalen SIM müssen Sie Ihre Heim-SIM herausnehmen – Risiko von Verlust oder Diebstahl. Roami eSIM bleibt auf dem Gerät, Ihre Heimnummer bleibt aktiv für Bank-SMS und Anrufe."
 ---

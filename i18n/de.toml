@@ -1,11 +1,12 @@
+# 通用按钮与标签
 [download_on_the]
-other = "Laden im"
+other = "Laden Sie die"
 
 [app_store]
 other = "App Store"
 
 [get_it_on]
-other = "Jetzt bei"
+other = "Holen Sie es sich im"
 
 [google_play]
 other = "Google Play"
@@ -14,7 +15,7 @@ other = "Google Play"
 other = "Besuchen Sie unsere"
 
 [official_website]
-other = "offizielle Website"
+other = "Offizielle Website"
 
 [view_plans]
 other = "Tarife anzeigen"
@@ -25,32 +26,81 @@ other = "Web"
 [android]
 other = "Android"
 
+# 弹窗相关
 [friendly_reminder]
-other = "Freundlicher Hinweis"
+other = "Service aktualisiert"
 
 [modal_upgrade_desc]
-other = "Unsere Dienste wurden aktualisiert. Bitte besuchen Sie unsere offizielle Website oder App, um Ihren Gutscheincode zu erhalten."
+other = "Unsere Dienste wurden aktualisiert. Bitte besuchen Sie unsere offizielle Website oder APP, um Ihren Promo-Code zu erhalten."
 
 [cancel]
 other = "Abbrechen"
 
 [proceed]
-other = "Weiter"
+other = "Fortfahren"
 
+# 悬浮按钮文本
+[get_esim_discount]
+other = "20% eSIM-Rabatt sichern"
+
+# FAQ 标题和描述
+[faq_title]
+other = "Häufig gestellte Fragen"
+
+[faq_desc]
+other = "Alles, was Sie über unseren globalen eSIM-Dienst wissen müssen."
+
+# 以下是您原有但可能未使用的，保留不影响（可选）
 [modal_title_ios]
 other = "Service aktualisiert"
 
 [modal_text_ios]
 other = "Sie werden zur offiziellen App weitergeleitet, um den Rabattcode zu erhalten."
 
-[get_esim_discount]
-other = "20 % eSIM-Rabatt erhalten"
-
 [tldr_summary_title]
-other = "💡 Kurzzusammenfassung für Reisende"
+other = "Kurze Zusammenfassung für Reisende"
 
 [modal_cancel]
 other = "Abbrechen"
 
 [modal_continue]
-other = "Weiter"
+other = "Fortfahren"
+
+[global_connectivity_expert]
+other = "Globaler Konnektivitätsexperte"
+
+[structured_data_org_description]
+other = "Professioneller globaler eSIM-Dienstanbieter mit Hochgeschwindigkeits-Datenroaming in über 200 Ländern."
+
+[structured_data_product_description]
+other = "Prepaid-Reise-eSIM-Tarife für über 200 Länder mit sofortiger Aktivierung und 5G/4G-Hochgeschwindigkeitsinternet."
+
+[structured_data_faq1_question]
+other = "Wie kaufe ich eine USA eSIM?"
+
+[structured_data_faq1_answer]
+other = "Um eine USA eSIM zu kaufen, laden Sie einfach die Roami-App herunter, wählen Sie die USA als Ziel, wählen Sie einen Datentarif, der Ihren Bedürfnissen entspricht, und schließen Sie den Kauf ab. Die Aktivierung erfolgt sofort."
+
+[structured_data_faq2_question]
+other = "Wie kaufe ich eine Japan eSIM online?"
+
+[structured_data_faq2_answer]
+other = "Mit Roami ist der Kauf einer Japan eSIM einfach. Suchen Sie Japan in unserer App, wählen Sie Ihr bevorzugtes 5G/4G-Datenpaket und installieren Sie es vor Ihrer Reise per QR-Code oder per One-Click-Aktivierung."
+
+[structured_data_faq3_question]
+other = "Wie erhalte ich eine eSIM für Europa, Großbritannien oder Frankreich?"
+
+[structured_data_faq3_answer]
+other = "Roami bietet regionale Europa-eSIMs sowie lokale Tarife für Großbritannien, Frankreich, Italien, Deutschland und Spanien. Wählen Sie einfach Ihr Ziel in der App aus, um sofort ohne Roaminggebühren verbunden zu werden."
+
+[structured_data_faq4_question]
+other = "Warum sollte ich Roami Airalo, Nomad, Holafly oder Ubigi vorziehen?"
+
+[structured_data_faq4_answer]
+other = "Airalo, Nomad eSIM, Holafly, Saily eSIM, Yesim, MobiMatter und GigSky sind zwar auch Optionen, aber Roami bietet äußerst wettbewerbsfähige Preise ab 1,99 $, rund um die Uhr menschlichen Support und eine sorgenfreie Rückerstattungsrichtlinie für über 200 Länder."
+
+[software_description]
+other = "Globaler eSIM-Anbieter für Hochgeschwindigkeits-Reisekonnektivität."
+
+[last_updated]
+other = "Zuletzt aktualisiert"

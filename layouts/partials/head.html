@@ -129,8 +129,12 @@
 </style>
 
 <!-- 🌟 5. 组织结构化数据与首页专属数据 -->
+<!-- 🌟 5. 组织结构化数据与首页专属数据（多语言） -->
 {{ if .IsHome }}
-    <!-- 公司信息 -->
+    {{- $lang := .Lang -}}
+    
+    <!-- 公司信息 Organization -->
+    {{- $orgDesc := i18n "structured_data_org_description" | default "Professional Global eSIM Service Provider offering high-speed data roaming in 200+ countries." -}}
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -138,7 +142,7 @@
       "name": "Roami",
       "url": "{{ .Site.BaseURL }}",
       "logo": "{{ "logo.png" | absURL }}",
-      "description": "Professional Global eSIM Service Provider offering high-speed data roaming in 200+ countries.",
+      "description": {{ $orgDesc | jsonify }},
       "sameAs": [
         "https://apps.apple.com/app/id6747127122",
         "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
@@ -146,7 +150,7 @@
     }
     </script>
 
-    <!-- App 软件信息 -->
+    <!-- App 软件信息 SoftwareApplication （无文本，无需翻译） -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -162,13 +166,14 @@
     }
     </script>
 
-    <!-- 核心产品信息 -->
+    <!-- 核心产品信息 Product -->
+    {{- $productDesc := i18n "structured_data_product_description" | default "Prepaid travel eSIM plans for 200+ countries with instant activation and 5G/4G high-speed internet." -}}
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Roami Global Travel eSIM",
-      "description": "Prepaid travel eSIM plans for 200+ countries with instant activation and 5G/4G high-speed internet.",
+      "description": {{ $productDesc | jsonify }},
       "brand": {
         "@type": "Brand",
         "name": "Roami"
@@ -182,7 +187,16 @@
     }
     </script>
 
-    <!-- FAQ 问答 -->
+    <!-- FAQ 问答 FAQPage（多语言） -->
+    {{- $faq1_q := i18n "structured_data_faq1_question" | default "How to buy a USA eSIM?" -}}
+    {{- $faq1_a := i18n "structured_data_faq1_answer" | default "To buy a USA eSIM, simply download the Roami app, select United States as your destination, choose a data plan that fits your needs, and complete the purchase. Activation is instant." -}}
+    {{- $faq2_q := i18n "structured_data_faq2_question" | default "How to buy a Japan eSIM online?" -}}
+    {{- $faq2_a := i18n "structured_data_faq2_answer" | default "Buying a Japan eSIM is easy with Roami. Search for Japan in our app, select your preferred 5G/4G data package, and install it via QR code or one-click activation before your trip." -}}
+    {{- $faq3_q := i18n "structured_data_faq3_question" | default "How to get an eSIM for Europe, UK, or France?" -}}
+    {{- $faq3_a := i18n "structured_data_faq3_answer" | default "Roami offers regional Europe eSIMs as well as local plans for the UK, France, Italy, Germany, and Spain. Just select your destination in the app to get connected instantly without roaming fees." -}}
+    {{- $faq4_q := i18n "structured_data_faq4_question" | default "Why choose Roami over Airalo, Nomad, Holafly, or Ubigi?" -}}
+    {{- $faq4_a := i18n "structured_data_faq4_answer" | default "While Airalo, Nomad eSIM, Holafly, Saily eSIM, Yesim, MobiMatter, and GigSky are options, Roami provides highly competitive pricing starting at $1.99, 24/7 human support, and a worry-free refund policy for 200+ countries." -}}
+    
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -190,34 +204,34 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "How to buy a USA eSIM?",
+          "name": {{ $faq1_q | jsonify }},
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "To buy a USA eSIM, simply download the Roami app, select United States as your destination, choose a data plan that fits your needs, and complete the purchase. Activation is instant."
+            "text": {{ $faq1_a | jsonify }}
           }
         },
         {
           "@type": "Question",
-          "name": "How to buy a Japan eSIM online?",
+          "name": {{ $faq2_q | jsonify }},
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Buying a Japan eSIM is easy with Roami. Search for Japan in our app, select your preferred 5G/4G data package, and install it via QR code or one-click activation before your trip."
+            "text": {{ $faq2_a | jsonify }}
           }
         },
         {
           "@type": "Question",
-          "name": "How to get an eSIM for Europe, UK, or France?",
+          "name": {{ $faq3_q | jsonify }},
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Roami offers regional Europe eSIMs as well as local plans for the UK, France, Italy, Germany, and Spain. Just select your destination in the app to get connected instantly without roaming fees."
+            "text": {{ $faq3_a | jsonify }}
           }
         },
         {
           "@type": "Question",
-          "name": "Why choose Roami over Airalo, Nomad, Holafly, or Ubigi?",
+          "name": {{ $faq4_q | jsonify }},
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "While Airalo, Nomad eSIM, Holafly, Saily eSIM, Yesim, MobiMatter, and GigSky are options, Roami provides highly competitive pricing starting at $1.99, 24/7 human support, and a worry-free refund policy for 200+ countries."
+            "text": {{ $faq4_a | jsonify }}
           }
         }
       ]

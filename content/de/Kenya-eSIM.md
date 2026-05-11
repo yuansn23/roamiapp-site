@@ -1,31 +1,28 @@
 ---
-title: Kenya eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-08T14:41:37+00:00'
+title: Kenia eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
+date: '2026-05-11T08:53:53+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Kenya eSIM
-  scenario_keywords: Safari in der Masai Mara, Strandurlaub in Mombasa, Geschäftsreise
-    nach Nairobi, Kultur in Lamu, Trekking am Mount Kenya
-  operators: Safaricom, Airtel Kenya, Telkom Kenya
-  competitors: Airalo, Holafly, Ubigi, Nomad eSIM, Maya Mobile
+  core_keyword: Kenia eSIM
+  scenario_keywords: Safari, Geschäftsreise, Badeurlaub, Kultur, Backpacking
+  operators: Safaricom, Airtel, Telkom Kenya
+  competitors: Airalo, Holafly, Nomad, GigSky, Flexiroam
   main_cities: Nairobi, Mombasa, Kisumu, Nakuru, Eldoret
-  main_packages: 3/7/15/30 Tage, Unbegrenzte Daten
+  main_packages: 3/7/15/30 Tage, unbegrenzte Daten
 modal:
-  title: Service Upgrade!
-  btn_text: Weiter
+  title: Service-Upgrade!
+  btn_text: Fortfahren
   text_default: |-
-    Unser eSIM-Service wurde auf <strong>PhoneSIMGo</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: esim20
+    Unser eSIM-Service wurde auf <strong>PhoneSIMGo</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
   text_android: |-
-    Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: esim20
+    Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Kenya eSIM - Günstige Datenpakete & Sofortige Lieferung - Roami
-  description: 'Kenya eSIM ohne Roaming-Gebühren: mobiles Internet mit QR-Code Aktivierung.
-    Ideal für Reisen nach Nairobi, Mombasa. Jetzt günstig eSIM kaufen!'
-  keywords: Kenya eSIM, günstige eSIM Kenia, mobiles Internet Kenia, Roaming-frei,
-    QR-Code eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: Kaufen Sie Kenia eSIM | Hochgeschwindigkeits-5G-Daten | Auto-Connect | Roami
+  description: Entdecken Sie Kenia mit Leichtigkeit. Erleben Sie sorgenfreie Daten
+    und nahtloses verzögerungsfreies 5G vom lokalen Top-Betreiber. Ideal für digitale
+    Nomaden. Genießen Sie unbegrenzte Daten mit bestem lokalen Netzwerk.
+  keywords: eSIM Kenia, mobiles Internet Kenia, Reise eSIM, Kenya Reise, LTE Kenia
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -33,27 +30,27 @@ order_summary:
   label_daily: Tagespreis
   label_total: Gesamtpreis
   btn_primary: 20% Rabatt sichern
-  btn_secondary: 'Code: ESIM20'
+  btn_secondary: 'Code: web20'
 breadcrumbs:
 - label: Startseite
   url: /
-- label: Kenya eSIM
+- label: Kenia eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Beste eSIM für Kenya
-  title: Beste eSIM für Kenya
+  alt: Beste eSIM für Kenia
+  title: Beste eSIM für Kenia
 hero:
   flag_image: img/flags/ke.svg
-  flag_alt: Kenya Flagge
-  title: Kenya eSIM Datentarif
-  subtitle: Top-Wahl für Reisen in Kenya | Günstige Kenya eSIM | 100% Geld-zurück-Garantie
+  flag_alt: Flagge von Kenia
+  title: Kenia eSIM Datentarif
+  subtitle: Top bewertet | Sofortige Lieferung | Kein Ausweis erforderlich
 features:
   title: Warum Reisende Roami wählen
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Sofort-QR-Code
-    desc: Lieferung in unter 5 Min.
+    title: Sofortiger QR-Code
+    desc: Lieferung in unter 5 Minuten
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: 24/7 Support
@@ -72,13 +69,13 @@ features:
     desc: Jederzeit kündbar
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Wechsel
+    title: Auto-Auswahl
     desc: Beste lokale Netze
 plans_title: Wählen Sie Ihren Tarif
 plans_data:
   7 Tage:
   - spec: 1GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Ideal für kurze Geschäftsreisen
     price: '10.99'
     oldPrice: '16.48'
@@ -86,23 +83,23 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.57'
   - spec: 10GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für längere Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für noch längere Reisen
     price: '35.99'
     oldPrice: '53.98'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '5.14'
   - spec: 5GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für tiefergehende Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für längere Reisen
     price: '22.99'
     oldPrice: '34.48'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '3.28'
   - spec: 3GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Sightseeing
     price: '15.99'
     oldPrice: '23.98'
@@ -111,7 +108,7 @@ plans_data:
     daily: '2.28'
     tagIcon: star
   - spec: 20GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '64.99'
     oldPrice: '97.48'
@@ -120,7 +117,7 @@ plans_data:
     daily: '9.28'
   15 Tage:
   - spec: 3GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Sightseeing
     price: '25.99'
     oldPrice: '38.98'
@@ -129,23 +126,23 @@ plans_data:
     daily: '1.73'
     tagIcon: star
   - spec: 5GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für tiefergehende Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für längere Reisen
     price: '37.99'
     oldPrice: '56.98'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '2.53'
   - spec: 10GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für längere Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für noch längere Reisen
     price: '64.99'
     oldPrice: '97.48'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '4.33'
   - spec: 20GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '69.99'
     oldPrice: '104.98'
@@ -153,7 +150,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '4.67'
   - spec: 30GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '94.99'
     oldPrice: '142.48'
@@ -162,15 +159,15 @@ plans_data:
     daily: '6.33'
   30 Tage:
   - spec: 15GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für tiefergehende Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für längere Reisen
     price: '30.99'
     oldPrice: '46.48'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '1.03'
   - spec: 20GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '72.99'
     oldPrice: '109.48'
@@ -178,23 +175,23 @@ plans_data:
     tagColor: bg-slate-800
     daily: '2.43'
   - spec: 10GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für längere Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für noch längere Reisen
     price: '39.99'
     oldPrice: '59.98'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '1.33'
   - spec: 5GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für tiefergehende Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für längere Reisen
     price: '25.99'
     oldPrice: '38.98'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '0.87'
   - spec: 3GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Sightseeing
     price: '17.99'
     oldPrice: '26.98'
@@ -203,7 +200,7 @@ plans_data:
     daily: '0.60'
     tagIcon: star
   - spec: 30GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Ihre Reise
     price: '98.99'
     oldPrice: '148.48'
@@ -212,7 +209,7 @@ plans_data:
     daily: '3.30'
   3 Tage:
   - spec: Unlimited
-    data: Unbegrenztes Highspeed-Volumen
+    data: Unbegrenzte Hochgeschwindigkeitsdaten
     desc: Sorgenfreie Datennutzung
     price: '52.99'
     oldPrice: '79.48'
@@ -220,7 +217,7 @@ plans_data:
     tagColor: bg-purple-600
     daily: '17.66'
   - spec: 1GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Ideal für kurze Geschäftsreisen
     price: '7.99'
     oldPrice: '11.98'
@@ -228,7 +225,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '2.66'
   - spec: 3GB
-    data: Highspeed 5G/4G/LTE
+    data: Hochgeschwindigkeit 5G/4G/LTE
     desc: Perfekt für Sightseeing
     price: '13.99'
     oldPrice: '20.98'
@@ -237,39 +234,39 @@ plans_data:
     daily: '4.66'
     tagIcon: star
   - spec: 5GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für tiefergehende Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für längere Reisen
     price: '21.99'
     oldPrice: '32.98'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '7.33'
   - spec: 10GB
-    data: Highspeed 5G/4G/LTE
-    desc: Ideal für längere Reisen
+    data: Hochgeschwindigkeit 5G/4G/LTE
+    desc: Ideal für noch längere Reisen
     price: '32.99'
     oldPrice: '49.48'
-    tag: Bestes Angebot
+    tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '11.00'
 discount_banner:
-  title: Sonderrabatt!
+  title: Spezialrabatt!
   desc_html: |-
-    Nutzen Sie den Code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">esim20</span> beim Checkout für <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% RABATT</span>!
-  btn_text: Rabatt sichern
-  validity: 'Gültigkeit: 3 Tage'
+    Verwenden Sie den Code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> an der Kasse für <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% RABATT</span>!
+  btn_text: Rabatt speichern
+  validity: 'Gültig: 3 Tage'
 network_coverage:
-  title: Details zur Netzabdeckung
+  title: Netzabdeckungsdetails
   supports_text: 'Unterstützt:'
   service_details:
-    title: Servicedetails
+    title: Service-Details
     items:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Genießen Sie umfassende Netzabdeckung in ganz Kenya, einschließlich Städten
-        wie Nairobi, Mombasa, Kisumu. Unsere Kenya eSIM verbindet sich nahtlos mit
-        den Netzen von Safaricom, Airtel und Telkom Kenya für stabilen Empfang.
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Kenia, einschließlich Städten
+        wie Nairobi, Mombasa und Kisumu. Unsere Kenia eSIM verbindet sich nahtlos
+        mit den Netzen von Safaricom, Airtel und Telkom Kenya.
     - icon: zap
       color: text-amber-500
       title: Lieferzeit
@@ -286,9 +283,6 @@ network_coverage:
       coverage: Geringe Latenz
       network: 5G/4G/LTE Netzwerk
     - name: Airtel
-      coverage: Hohe Zuverlässigkeit
-      network: 5G/4G/LTE Netzwerk
-    - name: Telkom Kenya
       coverage: Native IP
       network: 5G/4G/LTE Netzwerk
 reminders:
@@ -296,47 +290,67 @@ reminders:
   items:
   - icon: 📱
     html: |-
-      Prüfen Sie vor dem Kauf die <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-Kompatibilität</a> Ihres Handys.
+      Überprüfen Sie vor dem Kauf die <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-Kompatibilität</a> Ihres Telefons.
   - icon: ✈️
-    html: Wir empfehlen, die eSIM erst nach Ankunft in Kenya zu aktivieren.
+    html: Wir empfehlen, die eSIM erst nach der Ankunft in Kenia zu aktivieren.
   - icon: ⏰
-    html: Die Gültigkeit beginnt mit der Verbindung zum Partnernetz.
+    html: Die Gültigkeit beginnt bei Verbindung mit dem Partnernetzwerk.
   - icon: 📧
-    html: Der QR-Code wird an Ihre E-Mail gesendet.
+    html: Der QR-Code wird an Ihre E-Mail-Adresse gesendet.
   - icon: 🔄
     html: Sie können mehrere eSIMs gleichzeitig installieren.
   compatibility_check:
     title: Schneller Kompatibilitätscheck
-    desc: 'Nicht sicher? Prüfen Sie es jetzt direkt an Ihrem Handy:'
-    instruction: 'Wählen Sie auf Ihrem Tastenfeld:'
+    desc: 'Nicht sicher? Prüfen Sie es jetzt auf Ihrem Telefon:'
+    instruction: 'Wählen Sie auf Ihrer Tastatur:'
     code: '*#06#'
     result_html: |-
       Wenn eine <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>-Nummer erscheint, wird eSIM unterstützt!
 activation_steps:
-  title: Schritte zur Aktivierung
+  title: Aktivierung Ihrer Kenia eSIM in wenigen Minuten
   steps:
   - num: '1'
-    title: 'Schritt 1: QR-Code erhalten'
-    desc: Nach der Zahlung erhalten Sie den QR-Code innerhalb von 5 Minuten per E-Mail.
-      Bitte prüfen Sie auch den Spam-Ordner.
+    title: QR-Code empfangen & speichern – startklar für Kenia
+    desc: Direkt nach Ihrer Bestellung erhalten Sie eine E‑Mail mit Ihrem persönlichen
+      Aktivierungs‑QR‑Code und den Einrichtungsanweisungen. Speichern Sie den QR-Code
+      auf Ihrem Smartphone oder drucken Sie ihn aus – Sie benötigen keine aktive Internetverbindung
+      für die spätere Installation. Die eSIM ist 30 Tage gültig, Sie können sie also
+      vor Ihrer Abreise nach Kenia in aller Ruhe vorbereiten.
     is_list: false
   - num: '2'
-    title: 'Schritt 2: eSIM hinzufügen'
+    title: eSIM auf Ihrem Gerät installieren - QR-Code scannen
     is_list: true
     list_items:
-    - |-
-      Einstellungen > Mobilfunk (oder Mobile Daten)
-    - Tippen Sie auf "eSIM hinzufügen"
-    - Scannen Sie den QR-Code mit der Kamera
-    - Folgen Sie den Anweisungen zum Setup
+    - Öffnen Sie die **Einstellungen** Ihres Smartphones → **Mobilfunk / Mobile Daten**
+    - Tippen Sie auf **"eSIM hinzufügen"** oder **"Mobilfunkplan hinzufügen"**
+    - Wählen Sie **"QR-Code scannen"** und halten Sie die Kamera über den Code
+    - Das Kenia eSIM-Profil wird automatisch geladen – tippen Sie auf **"Weiter"**
+    - Vergeben Sie einen Namen (z.B. „Roami Kenia“) und wählen Sie ihn als **Standard
+      für mobile Daten**
+    - Die eSIM ist jetzt installiert, aber noch **inaktiv** – perfekt für die Reisevorbereitung
   - num: '3'
-    title: 'Schritt 3: In Kenya nutzen'
-    desc: Aktivieren Sie nach der Landung in Kenya die eSIM in den Einstellungen.
-      Wir empfehlen WLAN für die erste Aktivierung.
+    title: Vorbereitung zu Hause – ohne Risiko testen
+    desc: Nach der Installation können Sie die eSIM in den Einstellungen deaktiviert
+      lassen. Sie können sie jedoch bereits mit Ihrem heimischen WLAN testen (es werden
+      keine mobilen Daten verbraucht). Sobald Sie in Kenia landen, schalten Sie die
+      eSIM einfach ein – die Gültigkeit startet dann automatisch bei der ersten Verbindung
+      mit dem Netz von Safaricom / Airtel. Keine versteckten Aktivierungsgebühren,
+      keine Roamingkosten.
+    is_list: false
+  - num: '4'
+    title: 'Ankunft in Kenia: sofort online mit 5G/4G'
+    desc: Sobald Sie in Kenia gelandet sind (z.B. in Jomo Kenyatta International Airport
+      (Nairobi), Moi International Airport (Mombasa), Kisumu International Airport),
+      schalten Sie den Flugmodus aus (oder bleiben Sie im Flugmodus und aktivieren
+      Sie nur die eSIM). Gehen Sie zu **Einstellungen → Mobilfunk** und aktivieren
+      Sie Ihre Roami Kenia eSIM. Innerhalb weniger Sekunden verbindet sich Ihr Gerät
+      automatisch mit dem schnellsten verfügbaren 5G/4G-Netz von Safaricom / Airtel.
+      Sie können sofort navigieren, WhatsApp nutzen, soziale Medien checken oder einen
+      Hotspot für andere Geräte einrichten – ohne Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
 faq_section:
-  title: Kenya eSIM FAQ & Reiseführer
-  desc: Alles, was Sie über die Nutzung Ihrer Kenya eSIM in verschiedenen Reiseszenarien
+  title: Kenia eSIM FAQ & Reiseführer
+  desc: Alles, was Sie über die Verwendung Ihrer Kenia eSIM in verschiedenen Reiseszenarien
     wissen müssen.
   categories:
   - id: faq-general
@@ -344,142 +358,137 @@ faq_section:
     tab_title: Allgemein
     title: 1. Allgemeine Fragen
     questions:
-    - q: Unterstützt mein Handy die Kenya eSIM? Wie installiere ich sie?
-      a: Die meisten modernen Smartphones ab dem iPhone XS/XR, Samsung Galaxy S20+
-        und Google Pixel 3+ unterstützen eSIM. Sie können Ihre Kenya eSIM einfach
-        installieren, indem Sie den QR-Code scannen, den wir Ihnen per E-Mail senden,
-        in den Einstellungen für Mobilfunk/Mobile Daten Ihres Handys.
-    - q: Wie kaufe und aktiviere ich die Kenya eSIM? Ist sie sofort aktiv?
-      a: Sie können sie direkt auf unserer Website kaufen. Sie ist nicht sofort nach
-        dem Kauf aktiv; die Gültigkeitsdauer beginnt erst, wenn Sie in Kenya ankommen
-        und sich Ihr Handy mit dem lokalen Netzwerk verbindet.
-    - q: Was ist ein Aktivierungs-QR-Code? Läuft er ab? Kann er wiederverwendet werden?
-      a: Der QR-Code ist Ihr digitales SIM-Profil für die Kenya eSIM. Er muss in der
-        Regel innerhalb von 30 Tagen nach dem Kauf installiert werden. Einmal installiert,
-        kann er nicht erneut gescannt oder auf ein anderes Gerät übertragen werden.
-    - q: Kann ich eine Rückerstattung erhalten, wenn die Kenya eSIM nicht funktioniert
-        oder ein schlechtes Signal hat?
-      a: Ja, wir bieten eine Geld-zurück-Garantie. Wenn Sie anhaltende Netzwerkprobleme
-        in Kenya haben, die unser Support-Team nicht lösen kann, haben Sie Anspruch
-        auf eine Rückerstattung.
-    - q: Bieten Sie 24/7 Kundensupport an? Wie kann ich Sie kontaktieren?
-      a: Ja, unser technisches Support-Team ist rund um die Uhr erreichbar. Sie können
-        uns über das Live-Chat-Widget auf unserer Website oder durch Antworten auf
-        Ihre Bestellbestätigungs-E-Mail erreichen.
-    - q: Gibt es Rabattcodes? Wie verwende ich den Promo-Code 'esim20'?
-      a: Ja! Sie können den Promo-Code 'esim20' auf der Checkout-Seite eingeben, um
-        sofort 20% Rabatt auf Ihre Kenya eSIM Bestellung zu erhalten.
-    - q: Ist Ihr 'Unlimited Data' Tarif wirklich unbegrenzt? Gibt es eine Fair Usage
-        Policy (FUP)?
-      a: Unsere Unlimited-Tarife bieten kontinuierliche Daten. Wie bei allen globalen
-        Anbietern gilt jedoch eine Fair Usage Policy (FUP), um Netzwerkmissbrauch
-        zu vermeiden. Bei extrem hoher Nutzung kann die Geschwindigkeit vorübergehend
-        reduziert werden, was normales Surfen oder Social Media jedoch nicht beeinträchtigt.
-    - q: Kann ich meine Kenya eSIM-Daten teilen (Hotspot)?
-      a: Absolut. Alle unsere Kenya eSIM-Tarife unterstützen mobilen Hotspot und Tethering,
-        sodass Sie Ihre Daten mit Ihrem Laptop, Tablet oder Mitreisenden teilen können.
-    - q: Was sind die Vorteile Ihrer Kenya eSIM gegenüber lokalen SIM-Karten oder
-        anderen Anbietern?
-      a: Im Gegensatz zu physischen SIM-Karten müssen Sie nicht am Flughafen anstehen
-        oder kleine Plastikkarten wechseln. Wir arbeiten direkt mit Top-Netzen in
-        Kenya wie Safaricom, Airtel Kenya, Telkom Kenya zusammen, um Premium-Geschwindigkeiten
-        zu einem Bruchteil der Roaming-Kosten zu gewährleisten.
-    - q: Wie schneidet Roami im Vergleich zu bekannten eSIM-Anbietern wie Airalo,
-        Flexiroam, Holafly, Nomad eSIM ab?
-      a: Während großartige Unternehmen wie Airalo, Flexiroam, Holafly, Nomad eSIM
-        zuverlässige Dienste leisten, konzentrieren wir uns auf die kosteneffizienteste
-        Kenya eSIM mit geringer Latenz und Bestpreisgarantie durch unser automatisches
-        Preisabgleichsystem.
+    - q: Kann ich die Kenia eSIM nach der Installation auf ein anderes Gerät übertragen?
+      a: Eine einmal installierte eSIM kann nicht auf ein anderes Gerät übertragen
+        werden. Bitte installieren Sie die eSIM auf dem Gerät, das Sie auf Reisen
+        nutzen werden. Für zusätzliche Geräte können Sie weitere eSIMs erwerben.
+    - q: Kann ich die Kenia eSIM als Hotspot mit anderen Geräten teilen?
+      a: Ja, alle Roami eSIM-Tarife für Kenia erlauben unbegrenztes Tethering (Hotspot).
+        Sie können Ihre Datenverbindung mit Laptop, Tablet oder Reisebegleitern teilen
+        – ohne versteckte Kosten oder Geschwindigkeitsdrosselung.
+    - q: Bietet Roami unbegrenzte Datentarife für Kenia an? Gibt es eine Fair‑Use‑Policy?
+      a: Roami bietet echte unbegrenzte Datentarife für Kenia. Eine Fair‑Use‑Policy
+        gilt nur bei extremer Nutzung (z.B. dauerhaftes 4K‑Streaming über mehrere
+        Tage). Normales Surfen, Social Media, Videoanrufe und Navigation sind nicht
+        betroffen.
+    - q: Bietet Roami auch regionale eSIMs für Reisen über Kenia hinaus an?
+      a: Ja, zusätzlich zur Kenia eSIM bieten wir Regional‑eSIM für Europa, Asien,
+        Nordamerika und weltweit an. Ideal für mehrtägige Städtereisen oder Rundreisen
+        durch mehrere Länder – ohne SIM‑Kartenwechsel.
+    - q: Welche Vorteile bietet die Roami eSIM gegenüber lokalen Prepaid-SIM-Karten
+        in Kenia?
+      a: Im Gegensatz zu lokalen Prepaid‑SIMs sparen Sie sich den Gang zum Shop, die
+        Passregistrierung (KYC) und die Suche nach einer passenden Aufladekarte. Mit
+        Roami aktivieren Sie die eSIM digital in unter 2 Minuten – ohne Warteschlange
+        am Flughafen.
+    - q: Unterstützt mein Smartphone die Kenia eSIM und wie installiere ich sie?
+      a: Ja, die meisten modernen Smartphones (iPhone XS/XR oder neuer, Samsung Galaxy
+        S20+/Note20+, Google Pixel 3a+) unterstützen eSIM. Sie installieren die Kenia
+        eSIM, indem Sie den QR-Code in den Mobilfunkeinstellungen scannen. Die Netzwerke
+        von Safaricom / Airtel bieten hervorragende 5G/4G-Abdeckung in Kenia.
+    - q: Was kostet die Kenia eSIM und gibt es Rabattaktionen?
+      a: Unser Kenia eSIM Tarif startet bei nur $1.99/GB. Mit dem Promo-Code 'web20'
+        erhalten Sie 20% Rabatt auf jede Bestellung – gültig für alle Tarife. Keine
+        versteckten Gebühren, keine Mindestvertragslaufzeit.
+    - q: Wie funktioniert das internationale Roaming mit der Kenia eSIM in Nachbarländern?
+      a: Die Kenia eSIM ist primär für Kenia optimiert. Für Reisen in EU‑Nachbarländer
+        empfehlen wir unsere Europa‑eSIM, die nahtloses Roaming ohne zusätzliche Kosten
+        bietet. Die reine Land‑eSIM funktioniert nicht zuverlässig außerhalb von Kenia.
+    - q: Kann ich die Kenia eSIM auch ohne QR-Code installieren?
+      a: Ja, zusätzlich zum QR-Code können Sie die eSIM manuell über die SM‑DP+‑Adresse
+        und den Aktivierungscode installieren (beide finden Sie in Ihrer Bestellbestätigung).
+        Der QR‑Code ist jedoch die schnellste und einfachste Methode.
+    - q: Wie sicher ist die Kenia eSIM im Vergleich zu einer physischen SIM-Karte?
+      a: eSIMs sind manipulationssicherer, da sie fest im Gerät verbaut sind und nicht
+        herausgenommen oder kopiert werden können. Ihre Daten bleiben verschlüsselt
+        – kein Risiko durch verlorene oder gestohlene SIM-Karten.
   - id: faq-airport
     icon: plane
-    tab_title: Flughafen
+    tab_title: Flughäfen
     title: 2. Flughafen-Netzwerk
     questions:
-    - q: Wie bekomme ich sofort nach dem Aussteigen eine Internetverbindung?
-      a: Installieren Sie die Kenya eSIM vor Ihrem Flug. Sobald Sie an Flughäfen wie
+    - q: Wie erhalte ich sofort nach der Landung ein zuverlässiges Netz?
+      a: Installieren Sie die Kenia eSIM vor Ihrem Flug. Sobald Sie an Flughäfen wie
         Jomo Kenyatta International Airport (Nairobi), Moi International Airport (Mombasa),
-        Kisumu International Airport landen, deaktivieren Sie einfach den Flugmodus
-        und aktivieren Sie Ihre eSIM-Leitung. Sie verbindet sich in Sekunden mit dem
-        lokalen 4G/5G-Netz.
+        Kisumu International Airport landen, schalten Sie einfach den Flugmodus aus
+        und aktivieren Sie Ihre eSIM. Sie verbindet sich in Sekunden mit dem lokalen
+        4G/5G-Netz.
     - q: Wie kontaktiere ich meinen Abholer oder nutze Uber/Grab?
       a: Nach der Aktivierung bei der Landung können Sie sofort Apps wie Uber, Bolt,
-        Little Cab nutzen, um eine Fahrt zu buchen oder WhatsApp zu verwenden, um
-        Ihren Fahrer zu kontaktieren, ohne auf unsicheres Flughafen-WLAN angewiesen
+        Taxify (alias Bolt) nutzen, um eine Fahrt zu buchen, oder WhatsApp verwenden,
+        um Ihren Fahrer zu kontaktieren, ohne auf unsicheres Flughafen-WLAN angewiesen
         zu sein.
-    - q: Wie nutze ich Google Maps zur Transportsuche am Flughafen?
-      a: Mit Ihren Kenya eSIM-Daten können Sie direkt an der Gepäckausgabe in Jomo
+    - q: Wie nutze ich Google Maps/Apple Maps, um Transportmittel zu finden?
+      a: Mit Ihren Kenia eSIM-Daten können Sie direkt an der Gepäckausgabe in Jomo
         Kenyatta International Airport (Nairobi), Moi International Airport (Mombasa),
         Kisumu International Airport Echtzeit-Fahrpläne für Züge und Busse prüfen
         oder den Weg zum Taxistand finden.
-    - q: Wie vermeide ich teure SIM-Karten-Touristenfallen am Flughafen?
-      a: Indem Sie unsere Kenya eSIM vorab online kaufen, umgehen Sie die teuren SIM-Kioske
+    - q: Wie vermeide ich teure SIM-Karten am Flughafen?
+      a: Indem Sie unsere Kenia eSIM vorab online kaufen, umgehen Sie die teuren SIM-Kioske
         in der Ankunftshalle komplett und sparen Zeit und Geld.
-    - q: Wie empfange ich SMS ohne lokale Nummer?
-      a: Unsere Kenya eSIM ist ein reiner Datentarif. Um SMS zu empfangen, lassen
-        Sie Ihre primäre SIM-Karte für Texte aktiv (der Empfang ist im Roaming oft
-        kostenlos) und nutzen Sie die eSIM für den gesamten Datenverkehr.
-    - q: Wie kontaktiere ich meine Familie sofort nach der Landung?
+    - q: Wie empfange ich SMS von Hotel/Autovermietung ohne lokale Nummer?
+      a: Unsere Kenia eSIM ist ein reiner Datentarif. Um SMS zu empfangen, lassen
+        Sie Ihre heimische SIM-Karte aktiviert (SMS-Empfang ist oft kostenlos im Roaming)
+        und nutzen Sie die eSIM für den gesamten Datenverkehr.
+    - q: Wie kontaktiere ich sofort meine Familie?
       a: Sobald Sie landen, können Sie iMessage, WhatsApp oder FaceTime über unsere
-        schnellen Kenya eSIM-Daten nutzen, um Ihren Lieben mitzuteilen, dass Sie sicher
+        schnellen Kenia eSIM-Daten nutzen, um Ihren Lieben mitzuteilen, dass Sie sicher
         angekommen sind.
   - id: faq-transport
     icon: car
-    tab_title: Verkehr
+    tab_title: Transport
     title: 3. Transport & Reisen
     questions:
-    - q: Wie nutze ich Google Maps für die Routenplanung?
-      a: Unsere stabile Kenya eSIM-Verbindung stellt sicher, dass Google Maps überall
-        in Kenya Echtzeit-Verkehrsdaten und Fahrpläne laden kann, was die Navigation
-        nahtlos macht.
-    - q: Wie kontaktiere ich Uber/Grab-Fahrer über die App?
-      a: Apps wie Uber, Bolt, Little Cab nutzen VoIP. Da Sie aktive Kenya eSIM-Daten
-        haben, können Fahrer Sie direkt über die App anrufen oder benachrichtigen,
-        ohne dass eine lokale Nummer nötig ist.
+    - q: Wie nutze ich Google Maps zur Routenplanung?
+      a: Unsere stabile Kenia eSIM-Verbindung stellt sicher, dass Google Maps überall
+        in Kenia Echtzeit-Verkehrsdaten und Fahrpläne laden kann.
+    - q: Wie können mich Uber/Grab-Fahrer über die App kontaktieren?
+      a: Apps wie Uber, Bolt, Taxify (alias Bolt) nutzen VoIP. Da Sie aktive Kenia
+        eSIM-Daten haben, können Fahrer Sie direkt über die App anrufen oder benachrichtigen,
+        ohne eine lokale Nummer.
     - q: Wie kaufe ich Zug- oder U-Bahn-Tickets online?
-      a: Nutzen Sie Ihre Kenya eSIM-Daten, um in lokalen Apps digitale QR-Code-Tickets
-        zu kaufen und lange Warteschlangen an Automaten zu vermeiden.
+      a: Nutzen Sie Ihre Kenia eSIM-Daten, um in lokalen Apps digitale QR-Code-Tickets
+        zu kaufen und lange Schlangen an Automaten zu vermeiden.
     - q: Wie nutze ich Google Maps für Echtzeit-Navigation im Mietwagen?
-      a: Befestigen Sie Ihr Handy und nutzen Sie Ihre Kenya eSIM. Ein 5GB oder 10GB
-        Tarif reicht völlig für eine umfangreiche GPS-Navigation während eines Roadtrips
-        in Kenya.
-    - q: Wie scanne und entsperre ich E-Scooter?
+      a: Befestigen Sie Ihr Telefon und nutzen Sie Ihre Kenia eSIM. Ein 5GB- oder
+        10GB-Tarif reicht für eine umfangreiche GPS-Navigation während eines Roadtrips
+        in Kenia.
+    - q: Wie scanne und entsperre ich E-Scooter (Lime/Bird)?
       a: Das Entsperren von E-Scootern erfordert eine schnelle Internetverbindung.
-        Unsere Kenya eSIM bietet die dafür nötige zuverlässige Abdeckung.
+        Unsere Kenia eSIM bietet die dafür nötige zuverlässige Abdeckung.
     - q: Funktionieren Fahrdienst-Apps länderübergreifend?
-      a: Ja, Ihr Account bleibt gleich. Stellen Sie nur sicher, dass Sie über unsere
-        lokale oder regionale eSIM eine aktive Internetverbindung haben, um Fahrten
-        zu buchen.
-    - q: Wie biete ich einen stabilen Hotspot für meine Familie an?
+      a: Ja, Ihr Konto bleibt gleich. Stellen Sie nur sicher, dass Sie über unsere
+        lokale oder regionale eSIM eine aktive Internetverbindung haben.
+    - q: Wie biete ich einen stabilen Hotspot für meine Familie?
       a: Aktivieren Sie einfach den 'Persönlichen Hotspot' in Ihren Einstellungen.
-        Ihre Familie kann sich mit Ihrem Kenya eSIM-Netzwerk im Zug oder Auto verbinden.
+        Ihre Familie kann sich mit Ihrem Kenia eSIM-Netzwerk im Zug oder Auto verbinden.
   - id: faq-hotels
     icon: hotel
     tab_title: Hotels
     title: 4. Hotels & Unterkünfte
     questions:
-    - q: Wie mache ich einen Self-Check-in nach einer Online-Buchung?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Ihre Kenya eSIM stellt sicher, dass Sie diese
-        Details direkt vor der Haustür abrufen können.
-    - q: Wie kontaktiere ich meinen Airbnb-Gastgeber bei der Ankunft?
+    - q: Wie mache ich einen Self-Check-in nach Buchung?
+      a: Viele moderne Unterkünfte senden Smart-Lock-Codes per E-Mail. Ihre Kenia
+        eSIM stellt sicher, dass Sie diese Details direkt vor der Haustür abrufen
+        können.
+    - q: Wie kontaktiere ich meinen Airbnb-Gastgeber bei Ankunft?
       a: Nutzen Sie die Messaging-Funktion der Airbnb-App oder WhatsApp, um Ihre Ankunftszeit
-        mit Ihrem Gastgeber über mobile Kenya eSIM-Daten abzustimmen.
+        mit Ihrem Gastgeber über mobile Kenia eSIM-Daten abzustimmen.
     - q: Wie nutze ich Google Maps, um zum Hotel zu navigieren?
-      a: Egal ob Sie im Nairobi Serena Hotel, Mombasa Sarova Whitesands Beach Resort,
-        Fairmont The Norfolk Hotel oder einer Pension übernachten, geben Sie die Adresse
-        in Google Maps ein und nutzen Sie die Navigation Ihrer Kenya eSIM.
-    - q: Wie empfange ich Verifizierungscodes (SMS) im Hotel?
-      a: Keep your home SIM active for receiving SMS, and use the hotel Wi-Fi or your
-        Kenya eSIM data to trigger the verification code from your bank or app.
-    - q: Wie kontaktiere ich den Kundenservice schnell?
+      a: Egal ob Sie in Sarova Stanley, Fairmont The Norfolk, Muthu Silver Springs
+        Hotel übernachten, geben Sie die Adresse in Google Maps ein und nutzen Sie
+        die Navigation Ihrer Kenia eSIM.
+    - q: Wie empfange ich SMS-Verifizierungscodes?
+      a: Lassen Sie Ihre heimische SIM für SMS aktiv und nutzen Sie Ihre Kenia eSIM-Daten,
+        um Codes per E-Mail oder Authenticator-App zu empfangen.
+    - q: Wie kontaktiere ich schnell den Kundenservice?
       a: Nutzen Sie VoIP-Apps wie Skype oder die Chat-Funktion der Buchungs-App über
-        Ihre Hochgeschwindigkeits-Kenya eSIM-Daten.
-    - q: Wie bestelle ich Essen ins Hotel mit lokalen Apps?
-      a: Laden Sie Uber Eats, Glovo, Little Cab (food delivery) herunter und nutzen
-        Sie Ihre Kenya eSIM-Daten, um eine warme Mahlzeit direkt in die Hotellobby
-        zu bestellen.
+        Ihre Hochgeschwindigkeits-Kenia eSIM-Daten.
+    - q: Wie bestelle ich Essen mit lokalen Liefer-Apps?
+      a: Laden Sie Uber Eats, Jumia Food, EatOut herunter und nutzen Sie Ihre Kenia
+        eSIM-Daten, um eine warme Mahlzeit direkt in die Hotellobby zu bestellen.
     - q: Wie bleibe ich nach dem Checkout mit dem Hotel in Kontakt?
-      a: Sobald Sie das Hotel-WLAN verlassen, übernimmt Ihre Kenya eSIM, sodass Sie
+      a: Sobald Sie das Hotel-WLAN verlassen, übernimmt Ihre Kenia eSIM, sodass Sie
         dem Hotel schreiben können, falls Sie etwas vergessen haben.
   - id: faq-attractions
     icon: landmark
@@ -487,93 +496,92 @@ faq_section:
     title: 5. Sehenswürdigkeiten & Unterhaltung
     questions:
     - q: Wie kaufe ich E-Tickets über GetYourGuide/Viator?
-      a: Wenn Sie Masai Mara National Reserve, Mount Kenya National Park, Lamu Old
-        Town spontan besuchen möchten, können Sie Ihre Kenya eSIM-Daten nutzen, um
+      a: Wenn Sie Maasai Mara National Reserve, Amboseli National Park, Nairobi National
+        Park spontan besuchen möchten, können Sie Ihre Kenia eSIM-Daten nutzen, um
         Online-Tickets zu kaufen und den Barcode direkt vorzuzeigen.
-    - q: Wie buche ich Erlebnisse auf Tripadvisor sofort?
-      a: Mit dem zuverlässigen 4G/5G Ihrer Kenya eSIM können Sie Bewertungen lesen
+    - q: Wie buche ich Erlebnisse bei Tripadvisor sofort?
+      a: Mit dem zuverlässigen 4G/5G Ihrer Kenia eSIM können Sie Bewertungen lesen
         und lokale Touren buchen, während Sie in einem Café sitzen.
-    - q: Wie nutze ich Wikipedia/Google für Informationen während der Besichtigung?
+    - q: Wie nutze ich Wikipedia/Google für Informationen während des Besuchs?
       a: Erweitern Sie Ihr kulturelles Erlebnis, indem Sie historische Fakten googeln
-        oder Museumstafeln übersetzen, während Sie Kenya erkunden.
+        oder Museumstafeln übersetzen, während Sie Kenia erkunden.
     - q: Wie finde ich den Weg zur nächsten Sehenswürdigkeit?
       a: Geben Sie Ihr nächstes Ziel in Google Maps ein; die starke Abdeckung Ihrer
-        Kenya eSIM führt Sie über die schnellste Route.
-    - q: Wie prüfe ich Wartezeiten in Freizeitparks?
-      a: Freizeitpark-Apps benötigen Internet für Live-Wartezeiten. Ihre Kenya eSIM
+        Kenia eSIM führt Sie über die schnellste Route.
+    - q: Wie prüfe ich Echtzeit-Wartezeiten in Freizeitparks?
+      a: Freizeitpark-Apps benötigen Internet für Live-Wartezeiten. Ihre Kenia eSIM
         hält Sie im gesamten Park online.
     - q: Wie greife ich auf Ticketmaster für Show-Tickets zu?
       a: Sie können sicher Last-Minute-Theaterkarten über Ticketing-Apps mit Ihren
-        Kenya eSIM-Daten kaufen.
+        Kenia eSIM-Daten kaufen.
     - q: Wie teile ich Fotos/Videos sofort auf Instagram/TikTok?
-      a: Unsere schnellen Kenya eSIM Upload-Geschwindigkeiten ermöglichen es Ihnen,
-        Reels und Fotos in Echtzeit zu posten, ohne auf das Hotel-WLAN zu warten.
+      a: Unsere schnellen Kenia eSIM-Upload-Geschwindigkeiten ermöglichen es Ihnen,
+        Reels und Fotos in Echtzeit zu posten, ohne auf Hotel-WLAN zu warten.
   - id: faq-dining
     icon: utensils
     tab_title: Gastronomie
     title: 6. Essen & Restaurants
     questions:
     - q: Wie finde ich Restaurants mit Google Maps/Tripadvisor?
-      a: Suchen Sie mit Ihrer Kenya eSIM nach 'Restaurants in der Nähe', um Bewertungen,
+      a: Suchen Sie mit Ihrer Kenia eSIM nach 'Restaurants in der Nähe', um Bewertungen,
         Öffnungszeiten und Menüfotos zu prüfen.
     - q: Wie reserviere ich Tische online?
-      a: Sichern Sie sich eine Reservierung über Online-Plattformen mit Ihrer Kenya
+      a: Sichern Sie sich eine Reservierung über Online-Plattformen mit Ihrer Kenia
         eSIM, während Sie unterwegs sind.
     - q: Wie scanne ich QR-Codes für digitale Menüs?
-      a: Viele Restaurants nutzen digitale Karten. Ihre Kenya eSIM stellt sicher,
-        dass der Code auf dem Tisch sofort geladen wird.
+      a: Viele Restaurants nutzen digitale Menüs. Ihre Kenia eSIM stellt sicher, dass
+        der Code auf dem Tisch sofort geladen wird.
     - q: Wie nutze ich die Google Translate Kamera für Speisekarten?
       a: Öffnen Sie die App und richten Sie die Kamera auf das Menü. Die Live-Übersetzung
-        erfordert eine Internetverbindung über Ihre Kenya eSIM.
+        benötigt eine Internetverbindung über Ihre Kenia eSIM.
     - q: Wie nutze ich lokale Lieferdienste?
-      a: Laden Sie lokale Apps wie Uber Eats, Glovo, Little Cab (food delivery) herunter
-        und bestellen Sie bequem über Ihre Kenya eSIM mobile Daten.
+      a: Laden Sie lokale Apps wie Uber Eats, Jumia Food, EatOut herunter und bestellen
+        Sie bequem über Ihre Kenia eSIM-Mobildaten.
     - q: Wie bezahle ich mit Apple Pay/Google Pay?
       a: Kontaktlose Zahlungen oder lokale Methoden wie M-Pesa, Airtel Money, Visa/Mastercard
-        erfordern einen kurzen Internet-Handshake, den Ihre Kenya eSIM perfekt bewältigt.
+        erfordern einen kurzen Internet-Handshake, den Ihre Kenia eSIM perfekt meistert.
     - q: Wie finde ich Geheimtipps von Food-Bloggern?
       a: Streamen Sie YouTube-Vlogs oder stöbern Sie in Yelp-Bewertungen mit Ihrer
-        Kenya eSIM, um kulinarische Highlights der Stadt zu finden.
+        Kenia eSIM, um kulinarische Highlights zu entdecken.
   - id: faq-social
     icon: smartphone
-    tab_title: Social
+    tab_title: Social Media
     title: 7. Social Media & Kommunikation
     questions:
     - q: Wie nutze ich WhatsApp/Telegram stabil im Ausland?
-      a: Ihre Accounts sind an Ihre Heimnummer gebunden. Mit unserer Kenya eSIM als
+      a: Ihre Accounts sind an Ihre Heimnummer gebunden. Mit unserer Kenia eSIM als
         Internetquelle können Sie genau wie zu Hause chatten und telefonieren.
-    - q: Wie lade ich Inhalte auf TikTok hoch ohne öffentliches WLAN?
-      a: Öffentliches WLAN ist oft langsam und unsicher. Unsere 4G/5G Kenya eSIM bietet
+    - q: Wie lade ich Inhalte auf TikTok hoch, ohne öffentliches WLAN?
+      a: Öffentliches WLAN ist oft langsam und unsicher. Unsere 4G/5G Kenia eSIM bietet
         die Bandbreite für schnelle Uploads.
     - q: Wie mache ich Videoanrufe mit meiner Familie?
-      a: Unsere Netzpartnerschaften garantieren, dass Videoanrufe über die Kenya eSIM
-        klar und verzögerungsfrei sind, egal wo Sie sich im Land befinden.
-    - q: Ist es sicher, soziale Accounts in öffentlichem WLAN zu nutzen?
+      a: Unsere Netzwerkpartnerschaften garantieren, dass Videoanrufe über die Kenia
+        eSIM klar und verzögerungsfrei sind, wo immer Sie sich im Land befinden.
+    - q: Ist es sicher, sich in öffentlichen WLANs in soziale Accounts einzuloggen?
       a: Öffentliches WLAN ist anfällig für Hacker. Die Nutzung Ihrer persönlichen
-        Kenya eSIM-Daten ist verschlüsselt und wesentlich sicherer.
-    - q: Wie teile ich das Netzwerk als Hotspot mit Mitreisenden?
+        Kenia eSIM-Daten ist verschlüsselt und wesentlich sicherer.
+    - q: Wie teile ich das Netzwerk als Hotspot mit Reisebegleitern?
       a: Aktivieren Sie die Hotspot-Funktion. Ihre Freunde können sich verbinden und
-        Ihr Kenya eSIM-Datenvolumen für ihre sozialen Medien nutzen.
+        Ihr Kenia eSIM-Datenvolumen für ihre sozialen Medien nutzen.
   - id: faq-crossborder
     icon: globe
-    tab_title: Grenzen
+    tab_title: Grenzüberschreitend
     title: 8. Grenzüberschreitende Reisen
     questions:
     - q: Brauche ich für jedes Land eine neue SIM-Karte?
-      a: Die Einzelland-Kenya eSIM funktioniert nur dort. Für Reisen durch mehrere
-        Länder empfehlen wir unsere Regionale eSIM (z. B. Europa eSIM).
-    - q: Wie vermeide ich Roaming-Gebühren bei Bahnfahrten über Grenzen?
+      a: Die Einzelland-Kenia eSIM funktioniert nur dort. Für Reisen durch mehrere
+        Länder empfehlen wir unsere Regionale eSIM (z.B. Europa eSIM).
+    - q: Wie vermeide ich Roaminggebühren bei Zugfahrten über Grenzen?
       a: Deaktivieren Sie 'Daten-Roaming' auf Ihrer Heim-SIM. Stellen Sie sicher,
-        dass die Kenya eSIM als primäre Datenleitung festgelegt ist.
-    - q: Wie bekomme ich Internet bei Transits in Singapur/Dubai?
+        dass die Kenia eSIM als primäre Datenleitung eingestellt ist.
+    - q: Wie bekomme ich Internet während Zwischenstopps in Singapur/Dubai?
       a: Sie können eine günstige 1GB eSIM für das Transitland kaufen, um während
-        des Zwischenstopps online zu bleiben.
-    - q: Wie bekomme ich Internet bei Kreuzfahrten?
-      a: Anstatt teures Schiffs-WLAN zu zahlen, aktivieren Sie eine lokale eSIM für
-        die Länder, in denen Sie anlegen. Sie verbindet sich, sobald Sie Landnähe
-        haben.
+        des Layovers online zu bleiben.
+    - q: Wie bekomme ich Internet auf Kreuzfahrten?
+      a: Statt teures Schiffs-WLAN zu zahlen, aktivieren Sie eine lokale eSIM für
+        die Länder, die Sie anlaufen. Sie verbindet sich, sobald Sie Landnähe haben.
     - q: Wie bleibt Google Maps bei Roadtrips online?
-      a: Mit einer Regional-eSIM wechselt Ihr Handy automatisch zum Netz des neuen
+      a: Mit einer Regional-eSIM wechselt Ihr Telefon automatisch zum Netz des neuen
         Landes, wenn Sie die Grenze überqueren, und hält Ihr GPS aktiv.
     - q: Wie verwalte ich Daten für mehrere Länder in einer App?
       a: Sie können Ihren Datenverbrauch für alle aktiven eSIMs direkt über unser
@@ -587,23 +595,22 @@ faq_section:
     title: 9. Notfälle
     questions:
     - q: Wie wähle ich lokale Notrufnummern?
-      a: 'In Kenya können Sie Notrufnummern wie Polizei: 999 oder 112; Notruf: 112;
-        Krankenwagen: 112 direkt wählen, solange Ihr Handy irgendein Mobilfunksignal
-        empfängt, unabhängig von der SIM.'
-    - q: Wie finde ich das nächste Krankenhaus bei plötzlicher Krankheit?
-      a: Ihre Kenya eSIM-Daten erlauben eine sofortige Suche auf Google Maps nach
+      a: 'In Kenia können Sie Notrufnummern wie Polizei: 112, Feuerwehr: 112, Rettungsdienst:
+        112 direkt wählen, solange Ihr Telefon ein Mobilfunksignal empfängt.'
+    - q: Wie finde ich das nächste Krankenhaus?
+      a: Ihre Kenia eSIM-Daten ermöglichen eine sofortige Suche auf Google Maps nach
         'Apotheke' oder 'Krankenhaus' mit der schnellsten Route.
     - q: Wie finde ich Botschaftsinformationen bei Passverlust?
-      a: Nutzen Sie Ihre Kenya eSIM, um schnell Adresse, Notfallkontakt und Öffnungszeiten
-        Ihrer Botschaft im Internet zu finden.
+      a: Nutzen Sie Ihre Kenia eSIM, um schnell Adresse und Notfallkontakt Ihrer Botschaft
+        zu finden.
     - q: Wie kontaktiere ich die Reiseversicherung bei einem Unfall?
-      a: Nutzen Sie VoIP-Apps wie Skype oder Viber über Ihre Kenya eSIM-Daten, um
-        die Hotlines Ihrer Versicherung anzurufen.
-    - q: Wie teile ich meinen Standort in Echtzeit in unsicheren Gebieten?
-      a: Nutzen Sie 'Live-Standort teilen' in WhatsApp oder 'Wo ist?' von Apple, um
-        Ihre Koordinaten über Kenya eSIM-Daten zu senden.
+      a: Nutzen Sie VoIP-Apps wie Skype über Ihre Kenia eSIM-Daten, um die Hotlines
+        Ihrer Versicherung anzurufen.
+    - q: Wie teile ich meinen Standort in Echtzeit?
+      a: Nutzen Sie 'Live-Standort teilen' in WhatsApp oder Apples 'Wo ist?', um Ihre
+        Koordinaten über Kenia eSIM-Daten zu senden.
     - q: Wie lade ich Offline-Karten für abgelegene Gebiete?
-      a: Nutzen Sie Ihre Stadt-Abdeckung der Kenya eSIM, um Offline-Karten in Google
+      a: Nutzen Sie Ihre Stadt-Abdeckung der Kenia eSIM, um Offline-Karten in Google
         Maps zu laden, bevor Sie in Gebiete ohne Signal reisen.
   - id: faq-business
     icon: briefcase
@@ -611,87 +618,167 @@ faq_section:
     title: 10. Business & Arbeit
     questions:
     - q: Wie garantiere ich stabile Zoom/Teams-Meetings?
-      a: Unsere Kenya eSIM verbindet sich mit Premium-Netzen und bietet die Bandbreite
+      a: Unsere Kenia eSIM verbindet sich mit Premium-Netzen und bietet die Bandbreite
         und geringe Latenz für professionelle Videokonferenzen.
     - q: Wie verbinde ich mich sicher mit dem Firmen-VPN?
       a: Unsere Daten beschränken keine VPN-Protokolle. Sie können Ihr Firmen-VPN
-        sicher über das Kenya eSIM-Netzwerk starten.
+        sicher über das Kenia eSIM-Netzwerk starten.
     - q: Wie nutze ich den Hotspot für Laptops in Cafés?
-      a: Aktivieren Sie den Hotspot. Die Nutzung Ihrer Kenya eSIM ist deutlich schneller
-        und sicherer vor Cyber-Bedrohungen als offene WLAN-Netze.
+      a: Aktivieren Sie den Hotspot. Die Nutzung Ihrer Kenia eSIM ist deutlich schneller
+        und sicherer vor Cyber-Bedrohungen als offene WLANs.
     - q: Wie empfange ich 2FA-Codes für Firmen-E-Mails?
-      a: Lassen Sie Ihre Heim-SIM für SMS aktiv und nutzen Sie die Kenya eSIM-Daten
-        für den Empfang von E-Mail-Codes.
+      a: Lassen Sie Ihre heimische SIM für SMS aktiv und nutzen Sie die Kenia eSIM-Daten
+        für E-Mail-basierte Codes.
     - q: Wie lade ich große Dateien bei Kundenbesuchen hoch?
-      a: Mit 5G/4G-LTE-Geschwindigkeiten Ihrer Kenya eSIM können Sie Präsentationen
+      a: Mit 5G/4G-LTE-Geschwindigkeiten Ihrer Kenia eSIM können Sie Präsentationen
         schnell in Cloud-Dienste hochladen.
     - q: Wie nutze ich Slack/Gmail nahtlos für die Zusammenarbeit?
-      a: Ihre Kenya eSIM bietet konstante Verbindung, sodass Sie Slack-Nachrichten
+      a: Ihre Kenia eSIM bietet konstante Verbindung, sodass Sie Slack-Nachrichten
         und E-Mails sofort erhalten.
     - q: Wie aktualisiere ich Reisepläne für die Firma online?
-      a: Greifen Sie über Ihre Kenya eSIM von unterwegs auf Firmenportale zu, um HR
-        über Flugverspätungen zu informieren.
+      a: Greifen Sie über Ihre Kenia eSIM von unterwegs auf Firmenportale zu, um die
+        Personalabteilung über Flugverspätungen zu informieren.
 related_products:
   title: Ähnliche eSIM-Tarife
   items:
-  - name: USA eSIM
+  - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: united-states-esim
-  - name: UK eSIM
+  - name: Vereinigtes Königreich eSIM
     flag: img/flags/gb.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: united-kingdom-esim
   - name: Europa eSIM
     flag: img/flags/eu.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: true
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
     flag: img/flags/tr.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: turkey-esim
   - name: China eSIM
     flag: img/flags/cn.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: china-esim
   - name: Japan eSIM
     flag: img/flags/jp.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: japan-esim
-  - name: Hong Kong eSIM
+  - name: Hongkong eSIM
     flag: img/flags/hk.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: hong-kong-esim
   - name: Frankreich eSIM
     flag: img/flags/fr.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: france-esim
   - name: Spanien eSIM
     flag: img/flags/es.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: spain-esim
   - name: Deutschland eSIM
     flag: img/flags/de.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: germany-esim
   - name: Australien eSIM
     flag: img/flags/au.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
+# =============== 100% vollständige Wiederherstellung: datengesteuertes Marktvergleichsmodul ===============
+market_analysis:
+  title: "Kenya eSIM vs. Prepaid-SIM-Karte: Lohnt sich der Wechsel?"
+  subtitle: "Lokale Prepaid-SIMs in Kenia vs. eSIM-Lösungen (2024/2025 Benchmark)"
+  citation:
+    text: "Datenquelle: Prepaid Data SIM Card Wiki (Kenya) + Webseiten lokaler Anbieter"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Kenya"
+  table_headers:
+    - "Vergleichsmatrix"
+    - "Lokale Prepaid-SIM (Marktdaten)"
+    - "Roami Kenya eSIM"
+  table_rows:
+    - icon: "store"
+      title: "Erwerb &<br>Aktivierung"
+      prepaid_title: ""
+      prepaid_desc: "Safaricom offizielle Registrierung erfordert Passkopie, Straßenhändler verkaufen möglicherweise nicht registrierte Karten mit rechtlichen Risiken (6 Monate Haft oder KES 10.000 Geldstrafe)."
+      esim_title: "Sofortige digitale Lieferung"
+      esim_desc: "Umgehen Sie Safaricom-Ladenschlangen und das Risiko illegaler Straßenkarten. Aktivieren Sie Ihre eSIM online innerhalb von 1 Minute nach der Landung in Nairobi."
+    - icon: "id-card"
+      title: "KYC & Realnamen-<br>Registrierung"
+      prepaid_title: ""
+      prepaid_desc: "Kenianische Kommunikationsbehörde verlangt seit 2018 für alle Prepaid-SIMs eine Identitätsregistrierung mit Pass oder kenianischem Personalausweis; nicht registrierte Karten werden gesperrt."
+      esim_title: "Keine Passregistrierung nötig"
+      esim_desc: "Vermeiden Sie die kenianische KYC-Pflicht (Passkopie, 6 Monate Haft bei Verstößen). eSIM benötigt keine persönliche Identifikation – sofort einsatzbereit."
+    - icon: "globe"
+      title: "Internationales<br>Roaming"
+      prepaid_title: ""
+      prepaid_desc: "Safaricom und Airtel Monatstarife enthalten keine ostafrikanischen Roaming-Rechte; bei Einreise nach Tansania oder Uganda fallen Roaming-Gebühren von ca. KES 4/MB an."
+      esim_title: "Weltweites Roaming ohne Aufpreis"
+      esim_desc: "Im Gegensatz zu Safaricom (KES 4/MB in Tansania) bietet eSIM nahtloses Roaming in Ostafrika zu fairen Preisen, z.B. ab $1.99/GB für Kenia, Tansania und Uganda."
+    - icon: "calendar-xmark"
+      title: "Abrechnungszyklus &<br>verschwendete Kosten"
+      prepaid_title: ""
+      prepaid_desc: "Safaricom bietet Tagespakete (KES 99/500MB oder 1GB) und Wochenpakete (KES 250/1GB); ein 5-tägiger Tourist muss entweder teure Tagespakete kaufen oder ein Wochenpaket mit 2 Tagen Verschwendung."
+      esim_title: "Flexible Tarife ohne Verschwendung"
+      esim_desc: "Statt Safaricoms 7-Tage-Zwang (KES 250/1GB) bietet Roami 7-Tage-Tarife ab $1.99/GB. Ein 5-tägiger Tourist spart 40% gegenüber dem Wochenpaket."
+    - icon: "wifi"
+      title: "Hotspot &<br>Geschwindigkeitsrichtlinien"
+      prepaid_title: ""
+      prepaid_desc: "Keine spezifischen Daten in der Quelle für diese Dimension. Typischerweise erlauben kenianische Anbieter Tethering, aber es gibt Berichte über Drosselung nach hohem Verbrauch."
+      esim_title: "Uneingeschränktes Tethering"
+      esim_desc: "Keine versteckten Drosselungen oder Sperren für Hotspots. Teilen Sie Ihr Datenvolumen mit Laptop und Tablet, ohne sich um Safaricoms mögliche Einschränkungen zu sorgen."
+    - icon: "credit-card"
+      title: "Aufladung & Zahlung"
+      prepaid_title: ""
+      prepaid_desc: "Aufladung über physische Gutscheine an Kiosken oder über mobile Geldbörsen wie M-Pesa; Online-Aufladung mit ausländischen Kreditkarten ist oft nicht möglich."
+      esim_title: "Weltweite Zahlung akzeptiert"
+      esim_desc: "Bezahlen Sie mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal. Keine Abhängigkeit von kenianischen Bargeld-Gutscheinen oder M-Pesa."
+    - icon: "headset"
+      title: "Kundensupport"
+      prepaid_title: ""
+      prepaid_desc: "Kundensupport hauptsächlich auf Swahili und Englisch, per Telefon oder in Geschäften; keine spezifischen Öffnungszeiten genannt."
+      esim_title: "24/7 Kundensupport"
+      esim_desc: "Unser mehrsprachiger Support (Englisch, Deutsch) ist rund um die Uhr erreichbar – im Gegensatz zu Safaricoms Geschäftszeiten oder Airtels Hotline."
+
+  # =============== 100% vollständige Wiederherstellung: Expertenfazit-Modul ===============
+  expert_verdict:
+    title: "Kenya eSIM vs. Prepaid-SIM: Geschwindigkeit, Abdeckung und Preis verglichen"
+    cards:
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Sofort aktiviert, kein Warten"
+        desc: "Safaricom-Registrierung dauert 30 Minuten im Laden. eSIM ist innerhalb von 1 Minute nach Kauf aktiv – ideal für Ankunft am Flughafen Jomo Kenyatta."
+      - icon: "shield"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "Rechtssicher ohne Risiko"
+        desc: "Der Kauf einer nicht registrierten SIM von Straßenhändlern kann zu 6 Monaten Haft führen. eSIM ist legal und benötigt keine Registrierung – volle Rechtssicherheit."
+      - icon: "globe"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "Mehr Netzabdeckung als Telkom"
+        desc: "Telkom Kenya hat nur 55% 3G-Abdeckung und ist auf Städte beschränkt. eSIM nutzt das beste verfügbare Netz (Safaricom, Airtel) und bietet so landesweit bessere Verbindung."
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "Keine verschwendeten Tage mit Safaricom"
+        desc: "Safaricoms kürzestes Datenpaket ist 1 Tag (KES 99/500MB) oder 7 Tage (KES 250/1GB). Ein 5-tägiger Tourist verschwendet 2 Tage oder zahlt 40% mehr. eSIM bietet flexible Laufzeiten ab 1 Tag."
 ---
