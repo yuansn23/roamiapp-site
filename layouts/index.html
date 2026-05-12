@@ -16,9 +16,11 @@
                 touch-action: manipulation;
             }
             
-            /* 1. 手机上一行显示 Your Global Connectivity Expert */
+            /* 1. 修复手机端标题换行，防止溢出屏幕 */
             .hero-title-main {
-                white-space: nowrap;
+                white-space: normal !important;
+                word-break: break-word;
+                max-width: 100%;
             }
             
             /* 2. 首屏图片上的文字变小 */
