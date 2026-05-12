@@ -104,3 +104,12 @@ other = "Global eSIM provider for high-speed travel connectivity."
 
 [last_updated]
 other = "Last Updated"
+
+[select_language]
+other = "Select Language"
+
+[language]
+other = "Language"
+
+[close]
+other = "Close"

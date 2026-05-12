@@ -104,3 +104,12 @@ other = "Глобальный поставщик eSIM для высокоско�
 
 [last_updated]
 other = "Последнее обновление"
+
+[select_language]
+other = "Выберите язык"
+
+[language]
+other = "Язык"
+
+[close]
+other = "Закрыть"

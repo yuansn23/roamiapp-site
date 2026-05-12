@@ -5,10 +5,8 @@
             <a href="{{ "/" | relLangURL }}" class="text-2xl font-extrabold text-blue-600 tracking-tight">Roami</a>
             
             <div class="flex items-center">
-                
                 <!-- 桌面端 -->
                 <div class="hidden md:flex items-center">
-                    
                     <div class="flex items-center gap-7">
                         {{ range .Site.Params.nav_links }}
                         <a href="{{ .url | relLangURL }}" class="flex items-center text-slate-500 hover:text-slate-900 text-sm font-medium transition-colors">
@@ -20,36 +18,25 @@
                         {{ end }}
                     </div>
 
-                    <!-- 安全判断多语言：检查首页翻译数量是否大于1 -->
+                    <!-- 多语言按钮：打开模态框 -->
                     {{ if gt (len .Site.Home.AllTranslations) 1 }}
-                    <div class="h-4 w-px bg-slate-300" style="margin-left: 3rem;"></div>
-                    <div class="relative group">
-                        <button class="flex items-center gap-1.5 text-slate-500 hover:text-slate-900 text-sm font-medium transition-colors py-2" aria-label="Select Language">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4">
-                                <circle cx="12" cy="12" r="10"></circle>
-                                <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path>
-                                <path d="M2 12h20"></path>
-                            </svg>
-                            <span>{{ .Language.LanguageName }}</span>
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-3 h-3 transition-transform group-hover:rotate-180">
-                                <path d="m6 9 6 6 6-6"></path>
-                            </svg>
-                        </button>
-                        <div class="absolute right-0 top-full pt-3 w-36 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
-                            <div class="bg-white rounded-xl shadow-lg border border-slate-100 py-1.5 overflow-hidden">
-                                {{ range .Site.Home.AllTranslations }}
-                                <a href="{{ .Permalink }}" class="block px-4 py-2 text-sm text-slate-600 hover:bg-slate-50 hover:text-blue-600 transition-colors {{ if eq .Language.Lang $.Language.Lang }}bg-blue-50/50 text-blue-600 font-semibold{{ end }}">
-                                    {{ .Language.LanguageName }}
-                                </a>
-                                {{ end }}
-                            </div>
-                        </div>
-                    </div>
+                    <div class="h-4 w-px bg-slate-300 ml-12"></div>
+                    <button id="lang-modal-open" class="flex items-center gap-1.5 text-slate-500 hover:text-slate-900 text-sm font-medium transition-colors py-2 ml-6" aria-label="Select Language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4">
+                            <circle cx="12" cy="12" r="10"></circle>
+                            <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path>
+                            <path d="M2 12h20"></path>
+                        </svg>
+                        <span>{{ .Language.LanguageName }}</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-3 h-3">
+                            <path d="m6 9 6 6 6-6"></path>
+                        </svg>
+                    </button>
                     {{ end }}
                 </div>
 
-                <!-- 移动端菜单按钮 -->
-                <button id="mobile-menu-btn" class="md:hidden ml-4 p-2 rounded-lg hover:bg-slate-100 transition-colors" aria-label="Toggle menu">
+                <!-- 移动端菜单按钮（汉堡菜单） -->
+                <button id="mobileMenuBtn" class="md:hidden ml-4 p-2 rounded-lg hover:bg-slate-100 transition-colors" aria-label="Toggle menu">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5 text-slate-700">
                         <line x1="4" x2="20" y1="12" y2="12"></line>
                         <line x1="4" x2="20" y1="6" y2="6"></line>
@@ -59,9 +46,9 @@
             </div>
         </div>
     </div>
-    
-    <!-- 移动端展开菜单 -->
-    <div id="mobile-menu" class="md:hidden hidden bg-white border-t border-slate-100 absolute w-full shadow-lg z-50">
+
+    <!-- 移动端下拉菜单 -->
+    <div id="mobileMenu" class="md:hidden hidden bg-white border-t border-slate-100 absolute w-full shadow-lg z-50">
         <div class="px-4 py-3 space-y-1">
             {{ range .Site.Params.nav_links }}
             <a href="{{ .url | relLangURL }}" class="flex items-center px-3 py-2 text-sm text-slate-600 hover:text-blue-600 rounded-lg hover:bg-slate-50 transition-colors">
@@ -71,16 +58,117 @@
                 {{ end }}
             </a> 
             {{ end }}
-            <!-- 移动端也显示语言切换 -->
+            <!-- 移动端语言入口：打开模态框 -->
             {{ if gt (len .Site.Home.AllTranslations) 1 }}
-            <div class="border-t border-slate-100 my-2 pt-2">
-                {{ range .Site.Home.AllTranslations }}
-                <a href="{{ .Permalink }}" class="block px-3 py-2 text-sm text-slate-600 hover:text-blue-600 rounded-lg hover:bg-slate-50 transition-colors {{ if eq .Language.Lang $.Language.Lang }}bg-blue-50/50 text-blue-600 font-medium{{ end }}">
-                    {{ .Language.LanguageName }}
-                </a>
-                {{ end }}
-            </div>
+            <button id="mobileLangBtn" class="flex items-center gap-2 w-full px-3 py-2 text-sm text-slate-600 hover:text-blue-600 rounded-lg hover:bg-slate-50 transition-colors">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4">
+                    <circle cx="12" cy="12" r="10"></circle>
+                    <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path>
+                    <path d="M2 12h20"></path>
+                </svg>
+                <span>{{ i18n "language" | default "语言 / Language" }}</span>
+            </button>
             {{ end }}
         </div>
     </div>
 </nav>
+
+<!-- 语言模态框（网格布局） -->
+<div id="langModal" class="fixed inset-0 bg-black/50 z-[100] hidden items-center justify-center p-4">
+    <div class="bg-white rounded-2xl shadow-2xl max-w-2xl w-full max-h-[85vh] overflow-y-auto">
+        <div class="sticky top-0 bg-white border-b border-slate-100 px-6 py-4 flex justify-between items-center">
+            <h3 class="text-lg font-semibold text-slate-800">
+                {{ i18n "select_language" | default "选择语言 / Select Language" }}
+            </h3>
+            <button id="closeModalBtn" class="p-1 rounded-full hover:bg-slate-100 transition-colors" aria-label="{{ i18n "close" | default "Close" }}">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="18" y1="6" x2="6" y2="18"></line>
+                    <line x1="6" y1="6" x2="18" y2="18"></line>
+                </svg>
+            </button>
+        </div>
+        <div class="p-6">
+            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
+                {{ range .Site.Home.AllTranslations }}
+                <a href="{{ .Permalink }}" class="flex items-center justify-between px-3 py-2 rounded-lg border border-slate-200 hover:border-blue-300 hover:bg-blue-50 transition-all {{ if eq .Language.Lang $.Language.Lang }}bg-blue-50 border-blue-300 text-blue-700 font-medium{{ else }}text-slate-700{{ end }}">
+                    <span>{{ .Language.LanguageName }}</span>
+                    {{ if eq .Language.Lang $.Language.Lang }}
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-blue-600">
+                        <polyline points="20 6 9 17 4 12"></polyline>
+                    </svg>
+                    {{ end }}
+                </a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    // 确保 DOM 完全加载后执行
+    document.addEventListener('DOMContentLoaded', function() {
+        // 移动端汉堡菜单
+        const mobileBtn = document.getElementById('mobileMenuBtn');
+        const mobileMenu = document.getElementById('mobileMenu');
+        
+        if (mobileBtn && mobileMenu) {
+            // 切换菜单显示/隐藏
+            mobileBtn.addEventListener('click', function(event) {
+                event.stopPropagation();
+                mobileMenu.classList.toggle('hidden');
+            });
+            
+            // 点击菜单内任何链接后自动关闭菜单
+            const menuLinks = mobileMenu.querySelectorAll('a, button');
+            menuLinks.forEach(link => {
+                link.addEventListener('click', function() {
+                    mobileMenu.classList.add('hidden');
+                });
+            });
+            
+            // 点击页面其他区域关闭菜单（可选，避免遮挡）
+            document.addEventListener('click', function(event) {
+                if (!mobileMenu.contains(event.target) && !mobileBtn.contains(event.target)) {
+                    mobileMenu.classList.add('hidden');
+                }
+            });
+        }
+        
+        // 语言模态框
+        const modal = document.getElementById('langModal');
+        const openModalBtns = document.querySelectorAll('#lang-modal-open, #mobileLangBtn');
+        const closeModalBtn = document.getElementById('closeModalBtn');
+        
+        if (modal) {
+            function openModal() {
+                modal.classList.remove('hidden');
+                modal.classList.add('flex');
+                document.body.style.overflow = 'hidden'; // 防止背景滚动
+            }
+            function closeModal() {
+                modal.classList.add('hidden');
+                modal.classList.remove('flex');
+                document.body.style.overflow = '';
+            }
+            
+            openModalBtns.forEach(btn => {
+                if (btn) {
+                    btn.addEventListener('click', function(e) {
+                        e.preventDefault();
+                        openModal();
+                    });
+                }
+            });
+            
+            if (closeModalBtn) closeModalBtn.addEventListener('click', closeModal);
+            modal.addEventListener('click', function(e) {
+                if (e.target === modal) closeModal();
+            });
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape' && modal && !modal.classList.contains('hidden')) {
+                    closeModal();
+                }
+            });
+        }
+    });
+</script>

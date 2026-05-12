@@ -104,3 +104,12 @@ other = "Globaler eSIM-Anbieter für Hochgeschwindigkeits-Reisekonnektivität."
 
 [last_updated]
 other = "Zuletzt aktualisiert"
+
+[select_language]
+other = "Sprache auswählen"
+
+[language]
+other = "Sprache"
+
+[close]
+other = "Schließen"
