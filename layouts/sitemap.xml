@@ -1,37 +1,13 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  {{- $currentLang := .Language.Lang }}
-  {{- $supportedLangs := slice "en" "de" "ru" }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {{- range .Site.RegularPages }}
-    {{- $page := . }}
-    {{- if ne $page.Params.sitemap_exclude true }}
-      {{- /* 仅输出当前语言版本的页面 */}}
-      {{- if eq $page.Language.Lang $currentLang }}
-        <url>
-          <loc>{{ $page.Permalink }}</loc>
-          {{- if $page.Lastmod }}
-            <lastmod>{{ $page.Lastmod.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}</lastmod>
-          {{- end }}
-          {{- /* 为每个支持的语言构造备选 URL */}}
-          {{- $basePath := strings.TrimPrefix "/" $page.RelPermalink }}
-          {{- $basePath = strings.TrimPrefix (printf "%s/" $currentLang) $basePath }}
-          {{- range $supportedLangs }}
-            {{- $altLang := . }}
-            {{- $altURL := "" }}
-            {{- if eq $altLang "en" }}
-              {{- $altURL = printf "/%s" $basePath | relLangURL }}
-            {{- else }}
-              {{- $altURL = printf "/%s/%s" $altLang $basePath | relLangURL }}
-            {{- end }}
-            {{- /* 检查该备选页面是否存在（通过 GetPage） */}}
-            {{- $altPage := $.Site.GetPage (strings.TrimSuffix "/" $altURL) }}
-            {{- if $altPage }}
-              <xhtml:link rel="alternate" hreflang="{{ $altLang }}" href="{{ $altURL }}"/>
-            {{- end }}
-          {{- end }}
-        </url>
+    {{- if ne .Params.sitemap_exclude true }}
+    <url>
+      <loc>{{ .Permalink }}</loc>
+      {{- if .Lastmod }}
+      <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}</lastmod>
       {{- end }}
+    </url>
     {{- end }}
   {{- end }}
 </urlset>
