@@ -1,8 +1,0 @@
-/* 引入 Tailwind v4 的核心 */
-@import "tailwindcss";
-
-/* 告诉 Tailwind 去哪里扫描你的 HTML 文件（替代了原来的 content 配置） */
-@source "./layouts";
-@source "./content";
-@source "./static";
-@source "./*.html";

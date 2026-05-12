@@ -83,13 +83,9 @@
       }
     ]
     </script>
-    <script src="https://cdn.tailwindcss.com?plugins=typography"></script> 
+    <link href="{{ "css/tailwind-compiled.css?v=2d" | absURL }}" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-    <script>
-        tailwind.config = {
-            theme: { extend: { fontFamily: { 'sans': ['Inter','system-ui','sans-serif'] } } }
-        }
-    </script>
+ 
     <style>
         /* 1. 确保平滑滚动在所有环境下生效 */
         html { 
