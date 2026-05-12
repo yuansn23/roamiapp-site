@@ -1,5 +1,14 @@
 User-agent: *
 Allow: /
 
-Sitemap: {{ .Site.BaseURL }}sitemap.xml
-Sitemap: {{ .Site.BaseURL }}faq/sitemap.xml
+{{- /* 收集所有唯一的 sitemap URL */}}
+{{- $sitemaps := slice }}
+{{- $sitemaps = $sitemaps | append (printf "%ssitemap.xml" .Site.BaseURL) }}
+{{- range .Site.Home.AllTranslations }}
+  {{- $langSitemap := printf "%ssitemap.xml" .Permalink }}
+  {{- $sitemaps = $sitemaps | append $langSitemap }}
+{{- end }}
+{{- /* 去重并输出 */}}
+{{- range uniq $sitemaps }}
+Sitemap: {{ . }}
+{{- end }}
