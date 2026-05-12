@@ -10,17 +10,21 @@ disableKinds = ["taxonomy", "term"]
     [markup.goldmark.renderer]
       unsafe = true
 	  
-# 1. 定义自定义输出格式
-[outputFormats.FaqSitemap]
+
+# ==========================================
+# 输出格式定义（确保 sitemap 为 XML）
+# ==========================================
+[outputFormats.Sitemap]
   mediaType = "application/xml"
   baseName = "sitemap"
   isPlainText = false
+  notAlternative = true
 
-# 2. 修改你的 outputs 配置（把 section 里的 Sitemap 去掉，保持干净）
+# 全局 outputs（控制各类页面生成的内容）
 [outputs]
   home = ["HTML", "RSS", "Sitemap"]
   page = ["HTML"]
-  # 注意：这里不需要写 section = [...] 了，我们在 _index.md 里单独指定
+  section = ["HTML", "RSS"]
 
 
 [services]

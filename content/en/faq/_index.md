@@ -3,8 +3,7 @@ title: "Help Center"
 description: "Find answers to your questions about eSIM setup, usage, and claim free eSIM trials for US, UK, Japan, and global networks."
 outputs:
   - HTML
-  - Sitemap
-  - FaqSitemap
+  - sitemap
 
 seo:
   title: "Roami eSIM Frequently Asked Questions | Activation, Usage Guide"

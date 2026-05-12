@@ -3,8 +3,7 @@ title: "Hilfezentrum"
 description: "Finden Sie Antworten auf Ihre Fragen zur eSIM-Einrichtung, Nutzung und fordern Sie kostenlose eSIM-Tests für die USA, Großbritannien, Japan und weltweite Netze an."
 outputs:
   - HTML
-  - Sitemap
-  - FaqSitemap
+  - sitemap
 
 seo:
   title: "Roami eSIM Häufig gestellte Fragen | Aktivierung, Nutzungsanleitung"
