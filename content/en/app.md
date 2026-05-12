@@ -30,11 +30,11 @@ promo:
 # ================= 弹窗设置 (Modal Settings) =================
 popup:
   title: "Service Upgrade Notice"
-  message: "Our eSIM service has been upgraded to PhoneSIMGo. To provide you with the best experience, we are redirecting you to our new platform."
+  message: "Our eSIM service has been upgraded to PhoneSIM. To provide you with the best experience, we are redirecting you to our new platform."
   discount_title: "Exclusive Welcome Offer"
   discount_text: "New customers enjoy a 20% discount, promo code:"
   code: "WEB20"
-  button_text: "Continue to PhoneSIMGo"
+  button_text: "Continue to PhoneSIM"
 
 # ================= 动态跳转链接配置 =================
 links:
@@ -104,7 +104,7 @@ top_countries_section:
       alias: "eu"
     - name: "United States"
       code: "us"
-      slug: "usa"
+      slug: "united-states"
       badge: "5G"
       badgeColor: "bg-blue-600"
       alias: "usa america us"

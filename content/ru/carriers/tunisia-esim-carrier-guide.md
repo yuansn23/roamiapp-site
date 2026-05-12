@@ -1,64 +1,64 @@
 ---
-title: "Tunesien eSIM: Buy online and activate instantly"
-description: "Experience fast internet in Tunesien with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:43:49+00:00"
-keywords: "eSIM Tunesien, prepaid data, 5G network, Tunisie Telecom, Ooredoo, Orange, travel eSIM, Roami"
+title: "Tunesien eSIM: Решите проблемы с роумингом без усилий"
+description: "Испытайте быстрый интернет в Tunesien с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:59:18+00:00"
+keywords: "eSIM Tunesien, предоплаченные данные, сеть 5G, роуминг Тунис, eSIM для путешествий"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Tunesien eSIM Guide"
+  - name: "Руководство по eSIM для Tunesien"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Tunesien Travel eSIM Latest Guide"
-hero_subtitle_main: "Tunesien eSIM: Buy online and activate instantly"
-hero_subtitle_highlight: "Premium 5G network coverage by Tunisie Telecom and Ooredoo"
-hero_description_line1: "The Tunesien eSIM covers multiple regions with 5G high‑speed data services, meeting your travel, business, and daily communication needs without any problem."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "[Флаг] Tunesien Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Tunesien eSIM: Решите проблемы с роумингом без усилий"
+hero_subtitle_highlight: "Премиальное покрытие 5G от Ooredoo и Tunisie Telecom"
+hero_description_line1: "Пропустите очереди за SIM-картами с eSIM для Tunesien. Получите QR-код сразу после онлайн-оплаты, активируйте за несколько минут и быстро решите проблему интернета в Tunesien."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Tunesien eSIM"
 hero_link_url: "/tunisia-esim/"
-tldr_summary: "Top choice for business travel: cross-border 5G solutions with unlimited data. Roami's Tunesien eSIM leverages the fastest fixed network (Tunisie Telecom, median download 17.45 Mbps) and the best mobile consistency (87.6% of samples meeting 5 Mbps download threshold). For mobile, Ooredoo leads in gaming experience. Stay connected seamlessly across Tunis (35.4 Mbps mobile download) and Zaghouan (13.46 Mbps fixed download)."
+tldr_summary: "【Обязательна для международных поездок: решения 5G eSIM с бесшовным переключением сетей】. Roami eSIM для Tunesien обеспечивает мгновенное подключение к местным операторам, таким как Ooredoo и Tunisie Telecom. Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024), медианная скорость фиксированного интернета у Tunisie Telecom составляет 17.45 Мбит/с на загрузку, а мобильная скорость в Тунисе достигает 35.4 Мбит/с. Выбирайте eSIM для стабильного интернета без роуминговых сборов."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Tunesien eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Tunesien eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Tunesien eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Tunesien выбрать?"
 
   - href: "#operators"
-    text: "Top Tunesien eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Tunesien"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Tunesien"
+    text: "Городской гид: Лучшая eSIM для Tunesien"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Tunesien eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Tunesien"
 
   - href: "#faq"
-    text: "Frequently asked questions about Tunesien eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Tunesien"
 
   - href: "#myths"
-    text: "Myths and facts about Tunesien eSIM"
+    text: "Мифы и факты о eSIM для Tunesien"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Tunesien eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Tunesien выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,254 +67,235 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
-    carrier: "Tunisie Telecom"
-    carrier_class: "text-orange-600"
-    reason: "Best fixed network with median download 17.45 Mbps and upload 8.28 Mbps; top video streaming and gaming experience."
-
-  - travel: "Mobile gamers"
+  - travel: "Цифровые кочевники"
     carrier: "Ooredoo"
-    carrier_class: "text-red-600"
-    reason: "Best mobile gaming experience according to Speedtest Intelligence."
-
-  - travel: "Consistency seekers"
-    carrier: "Tunisie Telecom"
     carrier_class: "text-orange-600"
-    reason: "Highest mobile consistency at 87.6% of samples meeting 5 Mbps download and 1 Mbps upload thresholds."
+    reason: "Лучший мобильный игровой опыт и высокая скорость в городах."
 
-  - travel: "City travelers"
+  - travel: "Деловые поездки"
     carrier: "Tunisie Telecom"
-    carrier_class: "text-orange-600"
-    reason: "Fastest mobile download in Tunis at 35.4 Mbps; strong urban coverage."
+    carrier_class: "text-blue-600"
+    reason: "Самая стабильная фиксированная сеть и лучшее качество видеосвязи."
 
-  - travel: "Rural explorers"
-    carrier: "Tunisie Telecom"
-    carrier_class: "text-orange-600"
-    reason: "Best fixed network in Zaghouan with median fixed download 13.46 Mbps; reliable rural connectivity."
+  - travel: "Туристы"
+    carrier: "Orange"
+    carrier_class: "text-purple-600"
+    reason: "Хорошее покрытие в курортных зонах и туристических центрах."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Tunesien travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Tunesien"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
-  - id: "tunisie-telecom-esim"
-    title: "Tunisie Telecom eSIM Review: Best overall performance"
-    best_for: "This plan is the absolute top choice for travelers who need reliable high-speed internet across both fixed and mobile networks in Tunesien."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024), Tunisie Telecom had the Best Fixed Network among ISPs in Tunisia with an Overall Connectivity Score of 52.79.\n- **Download rate**: Median fixed download speed of 17.45 Mbps and upload speed of 8.28 Mbps.\n- **Mobile consistency**: 87.6% of samples met or exceeded 5 Mbps download and 1 Mbps upload thresholds.\n- **Gaming & streaming**: Best video streaming and gaming experiences among top ISPs in 2H 2024."
-    arcep_note: "Confirmed by the local telecom authority (Instance Nationale des Télécommunications) as the leading ISP in fixed network performance."
-    connect_note: "Activation works seamlessly via QR code; instant connectivity in major cities like Tunis and Zaghouan."
-    user_scenarios: "- **Tunis Medina**: Navigate narrow streets with consistent 5G coverage for live streaming and maps.\n- **Zaghouan Mountains**: Enjoy stable fixed broadband speeds (13.46 Mbps) for remote work in rural areas.\n- **Hammamet beaches**: Stream HD video without buffering thanks to top video streaming quality."
-    bg_color: "bg-blue-50"
-
   - id: "ooredoo-esim"
-    title: "Ooredoo eSIM Review: Best for mobile gaming"
-    best_for: "This plan is ideal for gamers and users who prioritize low-latency mobile experiences."
-    core_data: "- **Mobile gaming**: Best Mobile Gaming Experience with a Game Score of 80.02 according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024).\n- **Mobile speed**: No statistical difference in mobile download speeds among providers, but Ooredoo excels in gaming.\n- **Coverage**: Strong presence in urban and suburban areas."
-    arcep_note: "Recognized by the Instance Nationale des Télécommunications for superior mobile gaming performance."
-    connect_note: "Activation via eSIM is straightforward; recommended for users in Tunis and other major cities."
-    user_scenarios: "- **Sousse Corniche**: Play online games with minimal lag while enjoying seaside views.\n- **Carthage Ruins**: Share high-resolution photos instantly with reliable mobile data.\n- **Djerba Airport**: Quick activation upon arrival for immediate connectivity."
-    bg_color: "bg-red-50"
+    title: "Обзор Ooredoo eSIM: Лучший мобильный игровой опыт"
+    best_for: "Этот план – абсолютно лучший выбор для геймеров и любителей стриминга в Tunesien."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024), Ooredoo признан лучшим провайдером для мобильных игр.\n- **Скорость загрузки**: Медианная мобильная скорость загрузки в Тунисе составляет 35.4 Мбит/с.\n- **Покрытие**: Широкое покрытие в крупных городах и туристических зонах."
+    arcep_note: "Подтверждено местным телекоммуникационным органом – Ooredoo активно развивает сети 4G и 5G."
+    connect_note: "Активация работает безупречно через QR-код, поддерживается большинством современных смартфонов."
+    user_scenarios: "- **[Медина Туниса]**: Идеально для навигации по узким улочкам и поиска ресторанов.\n- **[Пляжи Хаммамета]**: Быстрый интернет для загрузки фото и видео в соцсети."
+    bg_color: "bg-orange-50"
 
-  - id: "orange-esim"
-    title: "Orange eSIM Review: Balanced urban coverage"
-    best_for: "This plan is a solid all-rounder for travelers who need dependable speeds in cities and towns."
-    core_data: "- **Mobile performance**: Orange is a top ISP in Tunisia, though not the fastest in fixed or mobile categories.\n- **Consistency**: Reliable network with good consistency scores.\n- **Coverage**: Extensive 4G/5G coverage in urban centers like Tunis, Sfax, and Sousse."
-    arcep_note: "Licensed by the Instance Nationale des Télécommunications with strong urban infrastructure."
-    connect_note: "eSIM activation is quick; ideal for short trips and city hopping."
-    user_scenarios: "- **Sfax Industrial Zone**: Stable connection for business video calls.\n- **Bizerte Port**: Upload large files without interruption.\n- **Kairouan Mosque**: Stream religious content smoothly."
-    bg_color: "bg-purple-50"
+  - id: "tunisie-telecom-esim"
+    title: "Обзор Tunisie Telecom eSIM: Лучшая фиксированная сеть"
+    best_for: "Этот план – абсолютно лучший выбор для тех, кому нужна стабильная связь в отелях и удаленных районах."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024), Tunisie Telecom имеет лучшую фиксированную сеть с Overall Connectivity Score 52.79.\n- **Скорость загрузки**: Медианная скорость загрузки 17.45 Мбит/с, выгрузки 8.28 Мбит/с.\n- **Покрытие**: Лучшее покрытие в сельской местности и регионах, таких как Загуан."
+    arcep_note: "Подтверждено местным телекоммуникационным органом – государственный оператор с наибольшей зоной покрытия."
+    connect_note: "Активация работает безупречно, eSIM совместима с большинством устройств."
+    user_scenarios: "- **[Римские руины в Дугге]**: Стабильная связь для изучения исторических мест.\n- **[Пустыня Сахара]**: Надежное соединение в отдаленных районах."
+    bg_color: "bg-blue-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Tunesien eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Tunesien eSIM and local 5G bands"
-cards_free_title: "Get your free Tunesien eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Tunesien"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Tunesien и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Tunesien"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Tunesien eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Tunesien"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Tunesien"
-    content: "Tunesien's mobile networks operate on 4G bands B3 (1800 MHz), B7 (2600 MHz), B20 (800 MHz), and 5G bands n78 (3500 MHz) and n1 (2100 MHz). Ensure your device supports these bands for optimal connectivity."
+  - heading: "1. Основные диапазоны частот 5G/4G"
+    content: "В Tunesien используются частоты 800 МГц, 1800 МГц и 2600 МГц для 4G, а 5G развертывается на частотах 3.5 ГГц. Убедитесь, что ваше устройство поддерживает эти диапазоны."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate a Tunesien eSIM, you must provide a valid passport or national ID. Some providers may require a selfie for identity verification. Roami simplifies this with a quick online upload."
+  - heading: "2. Требования KYC"
+    content: "Для активации eSIM в Tunesien требуется загрузить паспорт или ID. Процесс занимает несколько минут."
 
-  - heading: "3. Fair Usage Policy (FUP) for unlimited data plans"
-    content: "Most unlimited data plans in Tunesien have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 20 GB per day). Check the specific plan details before purchase."
+  - heading: "3. Политика добросовестного использования"
+    content: "Безлимитные тарифы могут иметь ограничение скорости после 10-20 ГБ в день. Проверьте условия перед покупкой."
 
-  - heading: "4. Network coverage in remote areas"
-    content: "While Tunisie Telecom offers the best fixed network, mobile coverage in remote areas like the Sahara desert may be limited. Consider a dual-network eSIM for backup."
+  - heading: "4. Совместимость устройств"
+    content: "eSIM поддерживается iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее."
 
-  - heading: "5. eSIM compatibility with local carriers"
-    content: "Not all Tunesien carriers support eSIM. Tunisie Telecom and Ooredoo offer eSIM for prepaid plans. Roami partners with these carriers to ensure seamless activation."
+  - heading: "5. Срок действия и пополнение"
+    content: "Большинство eSIM для Tunesien действуют от 7 до 30 дней. Пополнение возможно онлайн через личный кабинет."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Tunesien"
-city_guide_desc: "Find out which Tunesien eSIM is the best choice for your destination city based on network performance and coverage."
+city_guide_title: "Городской гид: Лучшая eSIM для Tunesien"
+city_guide_desc: "Узнайте, какая eSIM для Tunesien является лучшим выбором для вашего города назначения, основываясь на данных о скорости и покрытии."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Tunis"
-    carriers: "Tunisie Telecom"
-    reason: "Fastest mobile download speed at 35.4 Mbps; excellent 5G coverage in the capital for business and leisure."
-
-  - city: "Zaghouan"
-    carriers: "Tunisie Telecom"
-    reason: "Best fixed download speed at 13.46 Mbps; ideal for remote work in a quieter setting."
-
-  - city: "Sousse"
+  - city: "Тунис"
     carriers: "Ooredoo"
-    reason: "Top mobile gaming experience; strong coverage along the tourist coast for streaming and gaming."
+    reason: "Самая быстрая мобильная скорость в стране – 35.4 Мбит/с. Идеально для деловых поездок и туризма."
 
-  - city: "Sfax"
-    carriers: "Orange"
-    reason: "Balanced urban coverage; reliable for business travelers in the industrial hub."
-
-  - city: "Bizerte"
+  - city: "Загуан"
     carriers: "Tunisie Telecom"
-    reason: "Consistent fixed network performance; good for long stays near the Mediterranean."
+    reason: "Лучшая фиксированная скорость в регионе – 13.46 Мбит/с. Подходит для удаленной работы."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Сус"
+    carriers: "Orange"
+    reason: "Хорошее покрытие в курортной зоне и порту. Стабильная связь для туристов."
+
+  - city: "Хаммамет"
+    carriers: "Ooredoo"
+    reason: "Высокая скорость для загрузки фото и видео на пляжах. Отличный игровой опыт."
+
+  - city: "Джерба"
+    carriers: "Tunisie Telecom"
+    reason: "Надежное покрытие на острове, включая отдаленные пляжи и отели."
+
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Tunesien eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Tunesien в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Tunis, Carthage, and Sidi Bou Said with high-speed 5G from Tunisie Telecom. Stream guided tours and share photos instantly."
+    title: "Исследователь города"
+    text: "Исследуйте медину Туниса и Карфаген с быстрым интернетом для навигации и поиска достопримечательностей."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Visit Ichkeul National Park or the Atlas Mountains with reliable coverage from Tunisie Telecom's fixed network in Zaghouan."
+    title: "Любитель природы"
+    text: "Отправляйтесь в национальный парк Ишкёль с надежной связью для фото и видео."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive from Tunis to Djerba along the coast. Ooredoo's mobile network ensures gaming and streaming during stops."
+    title: "Путешественник на авто"
+    text: "Используйте GPS и стриминг в поездках по побережью от Туниса до Сфакса."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on Hammamet or Monastir beaches with Orange's balanced coverage for video calls and social media."
+    title: "Любитель пляжа"
+    text: "Делитесь моментами с пляжей Хаммамета и Монастира без задержек."
 
-scene_guide_footer: "💡 The Roami Tunesien eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Tunesien автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Tunesien eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Tunesien"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Is it possible to purchase multiple data packages for Tunesien and activate them one after another?"
-    a: "Yes, Roami allows you to buy multiple data packages for Tunesien. You can activate them sequentially as needed. Each package is independent and can be activated via QR code when your current data runs out."
+  - q: "Поддерживает ли eSIM для Tunesien набор местных номеров или приём SMS-сообщений?"
+    a: "Большинство туристических eSIM, включая Roami, предоставляют только передачу данных. Для звонков и SMS используйте мессенджеры (WhatsApp, Telegram)."
 
-  - q: "How do I check whether my specific destinations in Tunesien are reliably covered by eSIM networks?"
-    a: "You can check coverage maps on Roami's website or refer to Ookla's coverage data. For example, Tunis and Zaghouan have excellent coverage from Tunisie Telecom, while coastal cities like Sousse are well-covered by Ooredoo."
+  - q: "Что делать, если активационный QR-код для моей eSIM Tunesien не пришёл по электронной почте?"
+    a: "Проверьте папку «Спам» и обратитесь в службу поддержки Roami. Обычно код приходит в течение 5 минут после оплаты."
 
-  - q: "Does the Tunesien eSIM support hotspot tethering to share data with other devices?"
-    a: "Yes, Roami's Tunesien eSIM supports hotspot tethering. You can share your data connection with laptops, tablets, or other devices. Note that heavy tethering may be subject to Fair Usage Policy limits."
+  - q: "Включает ли покрытие сети основные транспортные узлы, такие как аэропорты, высокоскоростные поезда и метро в Tunesien?"
+    a: "Да, eSIM Roami подключается к сетям Ooredoo и Tunisie Telecom, которые обеспечивают покрытие в аэропорту Тунис-Карфаген, на вокзалах и в метро."
 
-  - q: "Can I install the Tunesien travel eSIM at home before my departure?"
-    a: "Absolutely. You can install the eSIM profile at home by scanning the QR code provided after purchase. The eSIM will activate automatically once you connect to a local network in Tunesien."
+  - q: "Какие средние скорости загрузки и выгрузки в сети я могу ожидать в Tunesien?"
+    a: "Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024), медианная мобильная скорость загрузки в Тунисе составляет 35.4 Мбит/с. Фиксированная скорость у Tunisie Telecom – 17.45 Мбит/с на загрузку и 8.28 Мбит/с на выгрузку."
 
-  - q: "How exactly do I activate the Roami eSIM profile right after arriving at the airport in Tunesien?"
-    a: "After landing at Tunis-Carthage Airport, turn on your device and enable mobile data. The eSIM will automatically connect to the local network (e.g., Tunisie Telecom). If not, go to Settings > Cellular > Select Network and choose the provider manually."
+  - q: "К каким местным мобильным операторам подключается Roami eSIM в Tunesien?"
+    a: "Roami eSIM автоматически подключается к лучшей доступной сети среди Ooredoo, Tunisie Telecom и Orange, обеспечивая максимальную скорость и покрытие."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Tunesien eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Tunesien"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "All eSIMs in Tunesien offer the same speed."
-    truth: "False. Tunisie Telecom has the fastest fixed network (17.45 Mbps download), while Ooredoo excels in mobile gaming. Speeds vary by provider and location."
+  - myth: "В Tunesien нет 5G"
+    truth: "5G активно развертывается операторами Ooredoo и Tunisie Telecom, особенно в крупных городах."
 
-  - myth: "5G is available everywhere in Tunesien."
-    truth: "5G coverage is concentrated in major cities like Tunis and Sousse. Rural areas may only have 4G. Check coverage maps before traveling."
+  - myth: "eSIM работает только на iPhone"
+    truth: "eSIM поддерживается большинством современных Android-смартфонов, включая Samsung, Google Pixel и Huawei."
 
-  - myth: "eSIMs are more expensive than physical SIMs."
-    truth: "Roami's eSIM plans are competitively priced and often cheaper than roaming fees. Plus, you save on shipping and activation time."
+  - myth: "В сельской местности нет интернета"
+    truth: "Tunisie Telecom обеспечивает покрытие даже в отдаленных регионах, таких как Загуан и Дугга."
 
-  - myth: "You need a local ID to buy an eSIM."
-    truth: "KYC requires a passport or ID, but Roami accepts international documents. No local Tunesien ID is needed."
+  - myth: "Роуминг с eSIM дорогой"
+    truth: "eSIM Roami предлагает фиксированные тарифы без скрытых комиссий, что дешевле традиционного роуминга."
 
-  - myth: "Unlimited data means no speed caps."
-    truth: "Unlimited plans have Fair Usage Policies. After a certain threshold (e.g., 20 GB), speeds may be throttled. Always read the terms."
+  - myth: "Скорость интернета везде одинаковая"
+    truth: "Скорость варьируется: в Тунисе до 35.4 Мбит/с, в Загуане – 13.46 Мбит/с (фиксированная)."
 
 
 # Data sources
-data_sources_title: "Tunesien mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Tunesien"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024)"
-    description: "Speedtest Intelligence data for 2H 2024 (July-December 2024) covering fixed and mobile network performance in Tunisia."
+    description: "Отчет за 2-е полугодие 2024 года: Tunisie Telecom признан лучшим по фиксированной сети, Ooredoo – по мобильным играм."
 
   - name: "OpenSignal 2024"
-    description: "OpenSignal reports on mobile network experience in Tunisia, including coverage and consistency metrics."
+    description: "Отчет о мобильном покрытии и скорости в Tunesien за 2024 год."
 
-  - name: "Instance Nationale des Télécommunications (INT) 2024"
-    description: "Tunisia's national telecom regulator provides official data on operator licenses and network quality benchmarks."
+  - name: "Национальное агентство по телекоммуникациям Туниса (INTT) 2024"
+    description: "Данные о лицензиях операторов и покрытии сети."
 
-data_sources_footer: "All network performance data cited above come from publicly available third-party reports and are used for informational purposes. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your specific location, device compatibility, and time of day. Always check the latest coverage maps before traveling."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах, включая Ookla и OpenSignal."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от местоположения, времени суток и загрузки сети."
 
 # CTA product card
-cta_title: "Secure your Tunesien eSIM today"
-cta_desc: "Get immediate access to high-speed data in Tunesien with Roami's eSIM. No roaming fees, instant activation, and coverage from top local operators."
-cta_button_text: "Buy Tunesien eSIM now"
+cta_title: "Получите вашу eSIM для Tunesien сегодня"
+cta_desc: "Мгновенный доступ к интернету без роуминговых сборов. Активация за 2 минуты."
+cta_button_text: "Купить eSIM для Tunesien сейчас"
 cta_button_link: "/tunisia-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Tunesien trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Tunesien"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Tunesien eSIM: Buy online and activate instantly
+# Tunesien eSIM: Решите проблемы с роумингом без усилий
 
-> **💡 Short summary for travelers:** Top choice for business travel: cross-border 5G solutions with unlimited data. Roami's Tunesien eSIM leverages the fastest fixed network (Tunisie Telecom, median download 17.45 Mbps) and the best mobile consistency (87.6% of samples meeting 5 Mbps download threshold). For mobile, Ooredoo leads in gaming experience. Stay connected seamlessly across Tunis (35.4 Mbps mobile download) and Zaghouan (13.46 Mbps fixed download).
+> **💡 Краткое резюме для путешественников:** 【Обязательна для международных поездок: решения 5G eSIM с бесшовным переключением сетей】. Roami eSIM для Tunesien обеспечивает мгновенное подключение к местным операторам, таким как Ooredoo и Tunisie Telecom. Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024), медианная скорость фиксированного интернета у Tunisie Telecom составляет 17.45 Мбит/с на загрузку, а мобильная скорость в Тунисе достигает 35.4 Мбит/с. Выбирайте eSIM для стабильного интернета без роуминговых сборов.
 
-## Things you need to know before buying a Tunesien eSIM
+## Что нужно знать перед покупкой eSIM для Tunesien
 
 
-### 1. Main 5G/4G frequency bands in Tunesien {#1-main-5g4g-frequency-bands-in-tunesien}
-Tunesien's mobile networks operate on 4G bands B3 (1800 MHz), B7 (2600 MHz), B20 (800 MHz), and 5G bands n78 (3500 MHz) and n1 (2100 MHz). Ensure your device supports these bands for optimal connectivity.
+### 1. Основные диапазоны частот 5G/4G {#1-основные-диапазоны-частот-5g4g}
+В Tunesien используются частоты 800 МГц, 1800 МГц и 2600 МГц для 4G, а 5G развертывается на частотах 3.5 ГГц. Убедитесь, что ваше устройство поддерживает эти диапазоны.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate a Tunesien eSIM, you must provide a valid passport or national ID. Some providers may require a selfie for identity verification. Roami simplifies this with a quick online upload.
+### 2. Требования KYC {#2-требования-kyc}
+Для активации eSIM в Tunesien требуется загрузить паспорт или ID. Процесс занимает несколько минут.
 
-### 3. Fair Usage Policy (FUP) for unlimited data plans {#3-fair-usage-policy-fup-for-unlimited-data-plans}
-Most unlimited data plans in Tunesien have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 20 GB per day). Check the specific plan details before purchase.
+### 3. Политика добросовестного использования {#3-политика-добросовестного-использования}
+Безлимитные тарифы могут иметь ограничение скорости после 10-20 ГБ в день. Проверьте условия перед покупкой.
 
-### 4. Network coverage in remote areas {#4-network-coverage-in-remote-areas}
-While Tunisie Telecom offers the best fixed network, mobile coverage in remote areas like the Sahara desert may be limited. Consider a dual-network eSIM for backup.
+### 4. Совместимость устройств {#4-совместимость-устройств}
+eSIM поддерживается iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее.
 
-### 5. eSIM compatibility with local carriers {#5-esim-compatibility-with-local-carriers}
-Not all Tunesien carriers support eSIM. Tunisie Telecom and Ooredoo offer eSIM for prepaid plans. Roami partners with these carriers to ensure seamless activation.
+### 5. Срок действия и пополнение {#5-срок-действия-и-пополнение}
+Большинство eSIM для Tunesien действуют от 7 до 30 дней. Пополнение возможно онлайн через личный кабинет.

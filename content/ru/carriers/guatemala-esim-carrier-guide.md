@@ -1,64 +1,64 @@
 ---
-title: "Guatemala eSIM: Perfect for dual‑SIM devices"
-description: "Experience fast internet in Guatemala with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:39:51+00:00"
-keywords: "eSIM Guatemala, prepaid data, 5G network, Claro, Tigo, Cable Color, Roami eSIM"
+title: "Guatemala eSIM: Лучший выбор для самостоятельных исследователей"
+description: "Испытайте быстрый интернет в Guatemala с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:55:28+00:00"
+keywords: "eSIM Guatemala, предоплаченные данные, сеть 5G, Claro Guatemala, Tigo Guatemala, туристическая eSIM, Roami eSIM"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Guatemala eSIM Guide"
+  - name: "Руководство по eSIM для Guatemala"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Guatemala Travel eSIM Latest Guide"
-hero_subtitle_main: "Guatemala eSIM: Perfect for dual‑SIM devices"
-hero_subtitle_highlight: "Premium 5G network coverage by Claro and Tigo"
-hero_description_line1: "The online purchase process for the Guatemala eSIM is simple and secure, with clear activation steps, allowing you to prepare your internet solution before departure."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "[Флаг] Guatemala Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Guatemala eSIM: Лучший выбор для самостоятельных исследователей"
+hero_subtitle_highlight: "Премиальное покрытие 5G от Claro и Tigo"
+hero_description_line1: "Попрощайтесь с непомерными международными роуминговыми сборами с eSIM для Guatemala. Быстро подключайтесь к местным сетям и наслаждайтесь стабильным высокоскоростным интернетом для спокойной поездки."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Guatemala eSIM"
 hero_link_url: "/guatemala-esim/"
-tldr_summary: "【One eSIM for the whole world: no connection drops when working abroad】. Roami's Guatemala eSIM keeps you seamlessly connected on Claro's award‑winning network. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/guatemala-speedtest-connectivity-report-h2-2025), Claro achieved a median download speed of 81.14 Mbps and a 5G median of 409.62 Mbps, making it the fastest mobile provider in Guatemala. Whether you're video conferencing from Antigua or streaming in Guatemala City, Roami's eSIM delivers reliable, high‑speed data without roaming fees."
+tldr_summary: "【Беззаботные глобальные деловые поездки: одна eSIM для высокоскоростных сетей в нескольких странах】. Roami eSIM для Guatemala обеспечивает доступ к лучшим местным сетям, включая лидера рынка Claro, который, согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/guatemala-speedtest-connectivity-report-h2-2025), показал медианную скорость загрузки 81.14 Мбит/с и впечатляющую скорость 5G в 409.62 Мбит/с. Это идеальное решение для путешественников, ценящих надёжность и скорость. Забудьте о роуминге — активируйте eSIM за минуты и оставайтесь на связи в Гватемале и по всему миру."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Guatemala eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Guatemala eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Guatemala eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Guatemala выбрать?"
 
   - href: "#operators"
-    text: "Top Guatemala eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Guatemala"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Guatemala"
+    text: "Городской гид: Лучшая eSIM для Guatemala"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Guatemala eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Guatemala"
 
   - href: "#faq"
-    text: "Frequently asked questions about Guatemala eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Guatemala"
 
   - href: "#myths"
-    text: "Myths and facts about Guatemala eSIM"
+    text: "Мифы и факты о eSIM для Guatemala"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Guatemala eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Guatemala выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/guatemala-speedtest-connectivity-report-h2-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,244 +67,235 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "Claro"
-    carrier_class: "text-blue-600"
-    reason: "Claro offers the fastest mobile network with a median download speed of 81.14 Mbps and best 5G speeds (409.62 Mbps), ideal for video calls and large file uploads."
+    carrier_class: "text-orange-600"
+    reason: "Claro — лучшая мобильная сеть в Гватемале с медианной скоростью загрузки 81.14 Мбит/с и лучшим 5G покрытием. Идеально для работы и потокового видео."
 
-  - travel: "Budget travelers"
+  - travel: "Экономные путешественники"
     carrier: "Tigo"
-    carrier_class: "text-green-600"
-    reason: "Tigo provides the highest 5G availability (25.6% of users on 5G most of the time) at competitive prices, perfect for cost‑conscious users who still want modern connectivity."
+    carrier_class: "text-blue-600"
+    reason: "Tigo предлагает хорошее соотношение цены и качества, а также самую высокую доступность 5G (25.6% времени). Отличный выбор для повседневного использования."
 
-  - travel: "Fixed internet users"
-    carrier: "Cable Color"
-    carrier_class: "text-red-600"
-    reason: "Cable Color is the fastest fixed ISP with a median download speed of 85.65 Mbps and upload of 75.34 Mbps, best for long‑term stays or heavy streaming."
+  - travel: "Любители природы"
+    carrier: "Claro"
+    carrier_class: "text-orange-600"
+    reason: "Claro обеспечивает наилучшую стабильность соединения (93.6% тестов соответствуют порогу 5 Мбит/с), что критично в удалённых районах."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Guatemala travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Guatemala"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "claro-esim"
-    title: "Claro eSIM Review: Best overall mobile network"
-    best_for: "This plan is the absolute top choice for travelers who need the fastest speeds and best 5G experience in Guatemala."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/guatemala-speedtest-connectivity-report-h2-2025), Claro recorded a median 5G download speed of 409.62 Mbps.\n- **Download rate**: Median download speed of 81.14 Mbps across all technologies.\n- **Upload rate**: Median upload speed of 25.6 Mbps.\n- **Latency**: Lowest latency at 79 ms.\n- **Consistency**: 93.6% of samples met the 5 Mbps download / 1 Mbps upload threshold.\n- **5G Consistency**: 96.2% of 5G samples met the 25 Mbps download / 3 Mbps upload threshold."
-    arcep_note: "Confirmed by the local telecom authority (Superintendencia de Telecomunicaciones de Guatemala) as the leading operator in 5G deployment and coverage."
-    connect_note: "Activation works seamlessly with Roami eSIM; simply scan the QR code upon arrival and connect to Claro's network instantly."
-    user_scenarios: "- **Antigua Guatemala**: While exploring the cobblestone streets and colonial ruins, Claro's 5G network ensures you can upload photos and navigate maps without lag.\n- **Lake Atitlán**: Even in remote lakeside villages, Claro provides reliable 4G/5G coverage for video calls and social media.\n- **Tikal National Park**: Stay connected in the jungle with Claro's extensive coverage, perfect for sharing your adventure in real time."
+    title: "Обзор Claro eSIM: Лучшее покрытие и скорость в Гватемале"
+    best_for: "Этот план – абсолютно лучший выбор для тех, кому нужна максимальная скорость и надёжность. Claro признан лучшей мобильной сетью в Гватемале."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/guatemala-speedtest-connectivity-report-h2-2025), Claro имеет лучшую сеть 5G в Гватемале.\n- **Скорость загрузки**: Медианная скорость загрузки Claro составляет 81.14 Мбит/с, что значительно опережает конкурентов.\n- **Скорость 5G**: Медианная скорость загрузки в сети 5G достигает 409.62 Мбит/с.\n- **Стабильность**: 93.6% тестов Claro соответствуют порогу 5 Мбит/с, что является лучшим показателем в стране."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (Superintendencia de Telecomunicaciones de Guatemala) как один из ведущих операторов."
+    connect_note: "Активация eSIM Roami с сетью Claro происходит мгновенно. Просто отсканируйте QR-код и пользуйтесь интернетом."
+    user_scenarios: "- **[Антигуа-Гватемала]**: Исследуйте мощеные улочки и колониальную архитектуру, оставаясь на связи для загрузки карт и публикаций в соцсетях.\n- **[Озеро Атитлан]**: Делитесь живописными видами вулканов и озера в реальном времени без задержек.\n- **[Тикаль]**: Используйте навигацию и путеводители среди руин майя, не беспокоясь о потере сигнала."
     bg_color: "bg-blue-50"
 
   - id: "tigo-esim"
-    title: "Tigo eSIM Review: Best 5G availability"
-    best_for: "This plan is ideal for users who want the highest chance of being on a 5G network throughout their trip."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/guatemala-speedtest-connectivity-report-h2-2025), Tigo recorded the highest 5G Availability in Guatemala at 25.6%.\n- **Download rate**: Median download speed of 28.34 Mbps across all technologies.\n- **5G download speed**: Median 5G download speed of 65.9 Mbps.\n- **Upload rate**: Median upload speed not specified but competitive.\n- **Latency**: Not specified but generally good for everyday use."
-    arcep_note: "Confirmed by the local telecom authority as a strong competitor in 5G rollout, especially in urban areas."
-    connect_note: "Activation works seamlessly with Roami eSIM; just install the eSIM profile before departure and enable data roaming upon landing."
-    user_scenarios: "- **Guatemala City**: Tigo's high 5G availability means you'll often enjoy fast speeds in the capital for business meetings and streaming.\n- **Puerto Barrios**: Tigo provides solid coverage in this port city, allowing you to stay connected while enjoying the Caribbean coast.\n- **Quetzaltenango**: In the highlands, Tigo's network offers reliable connectivity for navigation and communication."
+    title: "Обзор Tigo eSIM: Доступный 5G и широкая доступность"
+    best_for: "Tigo — отличный выбор для путешественников, которые хотят получить доступ к 5G-сетям по доступной цене."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/guatemala-speedtest-connectivity-report-h2-2025), Tigo имеет самую высокую доступность 5G в Гватемале — 25.6% пользователей.\n- **Скорость загрузки**: Медианная скорость загрузки Tigo составляет 28.34 Мбит/с.\n- **Скорость 5G**: Медианная скорость загрузки в сети 5G — 65.9 Мбит/с.\n- **Стабильность**: 83.6% тестов Tigo соответствуют порогу 5 Мбит/с."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (Superintendencia de Telecomunicaciones de Guatemala) как один из ведущих операторов."
+    connect_note: "Активация eSIM Roami с сетью Tigo происходит мгновенно. Просто отсканируйте QR-код и пользуйтесь интернетом."
+    user_scenarios: "- **[Гватемала-Сити]**: Оставайтесь на связи в деловых поездках, используя 5G для видеоконференций и быстрой загрузки файлов.\n- **[Пуэрто-Барриос]**: Делитесь фотографиями с карибского побережья без задержек.\n- **[Кесальтенанго]**: Используйте навигацию и стриминг в горном регионе."
     bg_color: "bg-green-50"
-
-  - id: "cable-color-esim"
-    title: "Cable Color eSIM Review: Fastest fixed broadband"
-    best_for: "This plan is perfect for travelers staying in one place for an extended period, needing high‑speed home internet."
-    core_data: "- **Download rate**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/guatemala-speedtest-connectivity-report-h2-2025), Cable Color recorded a median download speed of 85.65 Mbps.\n- **Upload rate**: Median upload speed of 75.34 Mbps.\n- **Type**: Fixed ISP, not mobile; best for home or office use.\n- **Coverage**: Available in major cities and suburban areas."
-    arcep_note: "Confirmed by the local telecom authority as the fastest fixed internet provider in Guatemala during 2H 2025."
-    connect_note: "Activation works seamlessly with Roami eSIM for mobile data; Cable Color is recommended for fixed installations at your accommodation."
-    user_scenarios: "- **Guatemala City**: Use Cable Color at your rental apartment for uninterrupted video conferencing and large downloads.\n- **Antigua Guatemala**: Ideal for digital nomads renting a house for a month, providing stable high‑speed internet.\n- **Panajachel**: Enjoy fast fixed internet while working remotely with a view of Lake Atitlán."
-    bg_color: "bg-red-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Guatemala eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Guatemala eSIM and local 5G bands"
-cards_free_title: "Get your free Guatemala eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Guatemala"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Guatemala и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Guatemala"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Guatemala eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Guatemala"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Guatemala"
-    content: "Guatemala's mobile networks operate on the following key bands: 4G LTE bands include B2 (1900 MHz), B4 (1700/2100 MHz AWS), B5 (850 MHz), B7 (2600 MHz), B12 (700 MHz), and B28 (700 MHz APT). 5G networks use n78 (3500 MHz) and n41 (2500 MHz). Ensure your device supports these bands for optimal connectivity."
+  - heading: "1. Основные диапазоны частот 5G и 4G в Гватемале"
+    content: "В Гватемале сети 4G LTE работают в диапазонах Band 2 (1900 МГц), Band 4 (1700/2100 МГц AWS) и Band 5 (850 МГц). Сети 5G используют диапазон n78 (3500 МГц). Убедитесь, что ваше устройство поддерживает эти частоты для оптимальной работы."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate a Guatemala eSIM, you must provide a valid passport or national ID. Some providers may require a selfie or proof of address. Roami simplifies this by handling KYC digitally during purchase, so you're ready to connect upon arrival."
+  - heading: "2. Требования KYC (верификация личности) для eSIM"
+    content: "Для активации eSIM в Гватемале может потребоваться загрузка фотографии паспорта или другого удостоверения личности. Roami упрощает этот процесс, но будьте готовы предоставить документы для соответствия местным нормам."
 
-  - heading: "3. Fair Usage Policy (FUP) for unlimited data plans"
-    content: "Most unlimited data plans in Guatemala have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 10 GB per day). Roami's eSIM plans clearly state FUP limits, ensuring you can stream and browse without unexpected slowdowns."
+  - heading: "3. Политика добросовестного использования (Fair Usage Policy)"
+    content: "Большинство тарифов eSIM имеют ограничения по скорости после превышения дневного или общего лимита данных. Внимательно читайте условия, чтобы избежать неожиданного снижения скорости."
 
-  - heading: "4. Network compatibility and dual‑SIM setup"
-    content: "Guatemala eSIMs work with most unlocked smartphones that support eSIM technology (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Dual‑SIM users can keep their home SIM active for calls while using the eSIM for data."
+  - heading: "4. Совместимость устройств с eSIM"
+    content: "eSIM поддерживается большинством современных смартфонов (iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее). Проверьте список совместимости на сайте Roami перед покупкой."
 
-  - heading: "5. Coverage in rural and remote areas"
-    content: "While Claro and Tigo offer extensive coverage in urban centers, rural areas like the highlands and jungle may have limited 5G. Claro provides the best overall coverage, but always check coverage maps before traveling to remote destinations."
+  - heading: "5. Срок действия и пополнение eSIM"
+    content: "Туристические eSIM обычно имеют ограниченный срок действия (например, 7, 15 или 30 дней). Уточните возможность пополнения объёма данных через приложение Roami, если планируете более длительное пребывание."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Guatemala"
-city_guide_desc: "Find out which Guatemala eSIM is the best choice for your destination city based on real network performance data."
+city_guide_title: "Городской гид: Лучшая eSIM для Guatemala"
+city_guide_desc: "Узнайте, какая eSIM для Guatemala является лучшим выбором для вашего города назначения, основываясь на данных о скорости и покрытии."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Guatemala City"
+  - city: "Гватемала-Сити"
     carriers: "Claro"
-    reason: "Guatemala City recorded the fastest median mobile download speed of 100.32 Mbps. Claro's network excels here, making it the best choice for business travelers and digital nomads who need high‑speed connectivity."
+    reason: "Столица демонстрирует самую высокую медианную скорость мобильного интернета — 100.32 Мбит/с. Claro обеспечивает наилучшее покрытие 5G и стабильность, что идеально для деловых поездок и активного использования интернета."
 
-  - city: "Puerto Barrios"
-    carriers: "Cable Color (fixed) / Tigo (mobile)"
-    reason: "Puerto Barrios recorded the fastest median fixed download speed of 94.65 Mbps. For mobile, Tigo offers strong 5G availability. Ideal for travelers who need both fixed and mobile connectivity in this Caribbean port city."
-
-  - city: "Antigua Guatemala"
+  - city: "Антигуа-Гватемала"
     carriers: "Claro"
-    reason: "Antigua is a top tourist destination with heavy data usage. Claro's best overall network ensures smooth navigation, social media sharing, and video calls amidst the colonial architecture."
+    reason: "Популярный туристический центр с большим количеством кафе и отелей. Claro предлагает отличное покрытие и высокую скорость, позволяя путешественникам оставаться на связи и делиться впечатлениями."
 
-  - city: "Quetzaltenango (Xela)"
+  - city: "Кесальтенанго"
     carriers: "Tigo"
-    reason: "In the highlands, Tigo's higher 5G availability provides reliable connectivity for travelers exploring the western highlands and indigenous markets."
+    reason: "Второй по величине город, расположенный в горной местности. Tigo имеет хорошее покрытие в регионе и самую высокую доступность 5G, что обеспечивает стабильное соединение даже на высоте."
 
-  - city: "Panajachel (Lake Atitlán)"
+  - city: "Пуэрто-Барриос"
     carriers: "Claro"
-    reason: "Claro's extensive coverage around Lake Atitlán ensures you stay connected even in remote lakeside villages, perfect for digital nomads and nature lovers."
+    reason: "Главный порт страны на Карибском побережье. Claro показывает здесь лучшие результаты по фиксированному интернету (94.65 Мбит/с), что говорит о качественной инфраструктуре и надёжном мобильном покрытии."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Флорес (Тикаль)"
+    carriers: "Claro"
+    reason: "Ворота к знаменитым руинам майя. Claro обеспечивает наилучшую стабильность соединения (93.6% тестов), что критично в удалённых джунглях для навигации и экстренной связи."
+
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Guatemala eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Guatemala в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Guatemala City and Antigua with Claro's fastest mobile network. Enjoy seamless navigation, instant photo uploads, and video calls without buffering."
+    title: "Исследователь города"
+    text: "Исследуйте колониальные города, такие как Антигуа-Гватемала, с быстрым интернетом для поиска ресторанов, музеев и маршрутов. Claro обеспечит высокую скорость для загрузки карт и стриминга."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Visit Tikal, Lake Atitlán, and the highlands. Claro's reliable coverage keeps you connected in remote areas, perfect for sharing your adventures."
+    title: "Любитель природы"
+    text: "Отправляйтесь к озеру Атитлан или вулкану Пакая. Благодаря высокой стабильности Claro (93.6% тестов) вы останетесь на связи даже в отдалённых районах."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive from Guatemala City to Puerto Barrios or Quetzaltenango. Tigo's high 5G availability ensures you have fast data for maps and streaming on the go."
+    title: "Путешественник на авто"
+    text: "Путешествуйте по стране на арендованном автомобиле. Используйте навигацию в реальном времени и оставайтесь на связи для бронирования жилья. Claro предлагает лучшее покрытие вдоль основных трасс."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on the Caribbean coast in Puerto Barrios. Use Cable Color for fixed internet at your rental and Tigo mobile for beachside connectivity."
+    title: "Любитель пляжа"
+    text: "Наслаждайтесь пляжами Тихого океана и Карибского моря. Делитесь фотографиями и видео в соцсетях без задержек благодаря высокой скорости загрузки Claro (81.14 Мбит/с)."
 
-scene_guide_footer: "💡 The Roami Guatemala eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Guatemala автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Guatemala eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Guatemala"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Does Roami offer refunds if the Guatemala eSIM does not work, and what are the conditions?"
-    a: "Yes, Roami offers a refund if the eSIM fails to activate or does not work as described, provided you contact customer support within 30 days of purchase. Conditions include that the device is eSIM‑compatible and unlocked, and that you have followed the installation instructions correctly. Refunds are processed within 5‑7 business days."
+  - q: "Могу ли я установить туристическую eSIM для Guatemala дома до вылета?"
+    a: "Да, вы можете приобрести и установить eSIM Roami для Guatemala до поездки. Активация происходит при подключении к местной сети после прибытия. Это удобно, так как вы будете на связи сразу после приземления."
 
-  - q: "Does the Guatemala eSIM support hotspot tethering to share data with other devices?"
-    a: "Yes, Roami's Guatemala eSIM supports hotspot tethering. You can share your data connection with other devices such as laptops, tablets, or other phones. Note that heavy tethering may be subject to Fair Usage Policy limits, but standard usage is fully supported."
+  - q: "Падает ли скорость интернета в Guatemala, когда к хот-споту eSIM одновременно подключено несколько устройств?"
+    a: "Скорость может снизиться при раздаче интернета на несколько устройств, так как общая пропускная способность делится между ними. Рекомендуется использовать eSIM только для одного устройства для максимальной производительности."
 
-  - q: "In which languages is customer service for the Guatemala eSIM available, and what is the response time?"
-    a: "Roami offers customer service in English and Spanish. Response time is typically under 5 minutes via live chat, and email inquiries are answered within 1 hour during business hours. 24/7 support is available for urgent issues."
+  - q: "Поддерживает ли eSIM для Guatemala раздачу интернета (хот-спот) для обмена данными с другими устройствами?"
+    a: "Да, большинство тарифов eSIM Roami поддерживают режим модема (хот-спот). Вы можете раздавать интернет на ноутбук, планшет или другие устройства. Однако проверьте условия конкретного тарифа, так как некоторые могут ограничивать эту функцию."
 
-  - q: "Does the eSIM automatically switch to the best network when traveling across borders, or is it only valid for Guatemala?"
-    a: "Roami's Guatemala eSIM is valid only within Guatemala. It does not automatically switch to networks in neighboring countries. If you travel to Mexico, Belize, Honduras, or El Salvador, you will need a separate eSIM or roaming plan for those destinations."
+  - q: "Будет ли у меня сигнал сети с eSIM в метро, глубоких долинах или отдалённых районах Guatemala?"
+    a: "Покрытие может быть нестабильным в метро (в Гватемале метро отсутствует, но есть подземные переходы), глубоких каньонах и джунглях. Claro обеспечивает наилучшее покрытие в сельской местности, но в очень отдалённых районах сигнал может быть слабым. Рекомендуем заранее скачивать офлайн-карты."
 
-  - q: "Does Roami offer 24/7 online customer support if I have connection issues in Guatemala?"
-    a: "Yes, Roami provides 24/7 online customer support via live chat and email. If you experience connection issues, our support team can help troubleshoot, re‑provision the eSIM, or escalate to the local network operator if needed."
+  - q: "Могу ли я легко пополнить объём данных eSIM для Guatemala, если он полностью израсходован во время поездки?"
+    a: "Да, Roami предлагает возможность пополнения объёма данных через приложение или личный кабинет. Вы можете выбрать дополнительный пакет данных, не меняя SIM-карту. Это удобно, если вы остаётесь в стране дольше запланированного."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Guatemala eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Guatemala"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "All eSIMs in Guatemala offer the same speed and coverage."
-    truth: "False. Claro is the fastest mobile network with a median download speed of 81.14 Mbps, while Tigo offers higher 5G availability. Cable Color is the fastest fixed ISP. Speeds vary significantly by provider and location."
+  - myth: "eSIM работает только в столице Гватемалы."
+    truth: "Нет, eSIM Roami подключается к сетям Claro и Tigo, которые покрывают большинство городов и туристических направлений, включая Антигуа, озеро Атитлан и Тикаль."
 
-  - myth: "5G is available everywhere in Guatemala."
-    truth: "False. 5G coverage is concentrated in major cities like Guatemala City and Antigua. Tigo leads with 25.6% 5G availability, but rural areas still rely on 4G. Check coverage maps before traveling."
+  - myth: "Скорость 5G в Гватемале такая же, как в США или Европе."
+    truth: "Скорость 5G в Гватемале высокая (Claro показывает 409.62 Мбит/с), но может варьироваться в зависимости от местоположения и загрузки сети. В некоторых районах доступен только 4G."
 
-  - myth: "You need a local ID to buy an eSIM in Guatemala."
-    truth: "False. Roami's eSIM only requires a valid passport for KYC. No local ID or address is needed. The entire process is digital and can be completed before your trip."
+  - myth: "Для установки eSIM нужен специальный телефон."
+    truth: "eSIM поддерживается большинством современных смартфонов (iPhone XS и новее, Samsung Galaxy S20 и новее, Google Pixel 3 и новее). Проверьте <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">совместимость eSIM</a> на сайте Roami."
 
-  - myth: "eSIMs are more expensive than local SIM cards."
-    truth: "False. Roami's eSIM plans are competitively priced and often cheaper than tourist SIM cards from local operators. Plus, you avoid activation fees and language barriers."
+  - myth: "eSIM дороже, чем покупка местной SIM-карты."
+    truth: "eSIM может быть дороже при краткосрочных поездках, но экономит время на поиск магазина и регистрацию. Для длительных поездок местная SIM может быть дешевле, но eSIM удобнее."
 
-  - myth: "You cannot use an eSIM if your phone is locked to a carrier."
-    truth: "True. eSIMs require an unlocked device. If your phone is locked to a specific carrier, you will not be able to use a Guatemala eSIM. Check with your carrier to unlock your device before traveling."
+  - myth: "После активации eSIM нельзя вернуть деньги."
+    truth: "Roami предлагает возврат средств в течение определённого периода, если eSIM не была активирована. Уточните условия возврата на сайте перед покупкой."
 
 
 # Data sources
-data_sources_title: "Guatemala mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Guatemala"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/guatemala-speedtest-connectivity-report-h2-2025)"
-    description: "Ookla's Speedtest Intelligence data for Guatemala covering July – December 2025. Provides median download/upload speeds, 5G performance, consistency scores, and 5G availability for Claro, Tigo, and Cable Color."
+    description: "Глобальный отчёт Speedtest Intelligence за второе полугодие 2025 года, предоставляющий данные о скорости и качестве мобильных и фиксированных сетей в Гватемале."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's mobile network experience report for Guatemala, including 5G availability, video streaming experience, and gaming experience. Used to cross‑reference Ookla data."
+    description: "Независимый анализ качества мобильного опыта, включая покрытие 5G, скорость и стабильность соединения в Гватемале."
 
   - name: "Superintendencia de Telecomunicaciones de Guatemala (SIT) 2025"
-    description: "The national telecom regulator's annual report on network coverage, spectrum allocation, and operator performance. Provides official validation of network statistics."
+    description: "Национальный регулятор телекоммуникаций, публикующий официальные данные о покрытии и лицензиях операторов связи в Гватемале."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device, and time of day. Always check the latest coverage maps from your chosen provider."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах и могут отличаться в зависимости от местоположения, времени суток и загрузки сети."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от вашего местоположения, устройства и времени суток. Рекомендуем проверять актуальные карты покрытия операторов."
 
 # CTA product card
-cta_title: "Secure your Guatemala eSIM today"
-cta_desc: "Get immediate access to Claro's fastest network with Roami's Guatemala eSIM. Instant activation, no roaming fees, and 24/7 support."
-cta_button_text: "Buy Guatemala eSIM now"
+cta_title: "Получите вашу eSIM для Guatemala сегодня"
+cta_desc: "Мгновенный доступ к высокоскоростному интернету в Гватемале. Без роуминга, без скрытых платежей. Подключайтесь за минуты!"
+cta_button_text: "Купить eSIM для Guatemala сейчас"
 cta_button_link: "/guatemala-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Guatemala trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Guatemala"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Guatemala eSIM: Perfect for dual‑SIM devices
+# Guatemala eSIM: Лучший выбор для самостоятельных исследователей
 
-> **💡 Short summary for travelers:** 【One eSIM for the whole world: no connection drops when working abroad】. Roami's Guatemala eSIM keeps you seamlessly connected on Claro's award‑winning network. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/guatemala-speedtest-connectivity-report-h2-2025), Claro achieved a median download speed of 81.14 Mbps and a 5G median of 409.62 Mbps, making it the fastest mobile provider in Guatemala. Whether you're video conferencing from Antigua or streaming in Guatemala City, Roami's eSIM delivers reliable, high‑speed data without roaming fees.
+> **💡 Краткое резюме для путешественников:** 【Беззаботные глобальные деловые поездки: одна eSIM для высокоскоростных сетей в нескольких странах】. Roami eSIM для Guatemala обеспечивает доступ к лучшим местным сетям, включая лидера рынка Claro, который, согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/guatemala-speedtest-connectivity-report-h2-2025), показал медианную скорость загрузки 81.14 Мбит/с и впечатляющую скорость 5G в 409.62 Мбит/с. Это идеальное решение для путешественников, ценящих надёжность и скорость. Забудьте о роуминге — активируйте eSIM за минуты и оставайтесь на связи в Гватемале и по всему миру.
 
-## Things you need to know before buying a Guatemala eSIM
+## Что нужно знать перед покупкой eSIM для Guatemala
 
 
-### 1. Main 5G/4G frequency bands in Guatemala {#1-main-5g4g-frequency-bands-in-guatemala}
-Guatemala's mobile networks operate on the following key bands: 4G LTE bands include B2 (1900 MHz), B4 (1700/2100 MHz AWS), B5 (850 MHz), B7 (2600 MHz), B12 (700 MHz), and B28 (700 MHz APT). 5G networks use n78 (3500 MHz) and n41 (2500 MHz). Ensure your device supports these bands for optimal connectivity.
+### 1. Основные диапазоны частот 5G и 4G в Гватемале {#1-основные-диапазоны-частот-5g-и-4g-в-гватемале}
+В Гватемале сети 4G LTE работают в диапазонах Band 2 (1900 МГц), Band 4 (1700/2100 МГц AWS) и Band 5 (850 МГц). Сети 5G используют диапазон n78 (3500 МГц). Убедитесь, что ваше устройство поддерживает эти частоты для оптимальной работы.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate a Guatemala eSIM, you must provide a valid passport or national ID. Some providers may require a selfie or proof of address. Roami simplifies this by handling KYC digitally during purchase, so you're ready to connect upon arrival.
+### 2. Требования KYC (верификация личности) для eSIM {#2-требования-kyc-верификация-личности-для-esim}
+Для активации eSIM в Гватемале может потребоваться загрузка фотографии паспорта или другого удостоверения личности. Roami упрощает этот процесс, но будьте готовы предоставить документы для соответствия местным нормам.
 
-### 3. Fair Usage Policy (FUP) for unlimited data plans {#3-fair-usage-policy-fup-for-unlimited-data-plans}
-Most unlimited data plans in Guatemala have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 10 GB per day). Roami's eSIM plans clearly state FUP limits, ensuring you can stream and browse without unexpected slowdowns.
+### 3. Политика добросовестного использования (Fair Usage Policy) {#3-политика-добросовестного-использования-fair-usage-policy}
+Большинство тарифов eSIM имеют ограничения по скорости после превышения дневного или общего лимита данных. Внимательно читайте условия, чтобы избежать неожиданного снижения скорости.
 
-### 4. Network compatibility and dual‑SIM setup {#4-network-compatibility-and-dualsim-setup}
-Guatemala eSIMs work with most unlocked smartphones that support eSIM technology (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Dual‑SIM users can keep their home SIM active for calls while using the eSIM for data.
+### 4. Совместимость устройств с eSIM {#4-совместимость-устройств-с-esim}
+eSIM поддерживается большинством современных смартфонов (iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее). Проверьте список совместимости на сайте Roami перед покупкой.
 
-### 5. Coverage in rural and remote areas {#5-coverage-in-rural-and-remote-areas}
-While Claro and Tigo offer extensive coverage in urban centers, rural areas like the highlands and jungle may have limited 5G. Claro provides the best overall coverage, but always check coverage maps before traveling to remote destinations.
+### 5. Срок действия и пополнение eSIM {#5-срок-действия-и-пополнение-esim}
+Туристические eSIM обычно имеют ограниченный срок действия (например, 7, 15 или 30 дней). Уточните возможность пополнения объёма данных через приложение Roami, если планируете более длительное пребывание.

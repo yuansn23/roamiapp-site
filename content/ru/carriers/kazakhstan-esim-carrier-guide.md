@@ -1,64 +1,64 @@
 ---
-title: "Kasachstan eSIM: Reliable network for business trips"
-description: "Experience fast internet in Kasachstan with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:40:53+00:00"
-keywords: "eSIM Kasachstan, prepaid data, 5G network, Tele2, Kcell, Meganet, Speedtest Connectivity Report"
+title: "Kasachstan eSIM: Высокоскоростное покрытие по всей стране"
+description: "Испытайте быстрый интернет в Kasachstan с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:56:28+00:00"
+keywords: "eSIM Kasachstan, предоплаченные данные, сеть 5G, Tele2, Kcell, Meganet, Speedtest, покрытие"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Kasachstan eSIM Guide"
+  - name: "Руководство по eSIM для Kasachstan"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Kasachstan Travel eSIM Latest Guide"
-hero_subtitle_main: "Kasachstan eSIM: Reliable network for business trips"
-hero_subtitle_highlight: "Premium 5G network coverage by Tele2 and Kcell"
-hero_description_line1: "The Kasachstan eSIM supports smooth HD video streaming and social media use, covering airports, shopping districts, and popular scenic areas as an extremely cost‑effective data option."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "[Флаг] Kasachstan Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Kasachstan eSIM: Высокоскоростное покрытие по всей стране"
+hero_subtitle_highlight: "Премиальное покрытие 5G от Tele2 и Kcell"
+hero_description_line1: "Быстро установите через QR-код и используйте сразу. eSIM для Kasachstan помогает избежать длинных очередей в аэропортах, предлагая умное интернет-решение для вашей поездки в Kasachstan."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Kasachstan eSIM"
 hero_link_url: "/kazakhstan-esim/"
-tldr_summary: "【Seamless global roaming: cost‑effective 5G eSIM for multi‑country connectivity】. Roami's Kasachstan eSIM leverages the award‑winning Tele2 network, which achieved a Speedtest Connectivity Score of 72.37 and the fastest 5G gaming experience in H1 2025. With median mobile download speeds reaching 128.91 Mbps in Shymkent and 101.56 Mbps in Almaty, you get reliable, high‑speed data for business and leisure across Kazakhstan. Activate instantly and avoid roaming fees."
+tldr_summary: "【Бесшовное переключение сетей в нескольких странах – новый стандарт для путешествующих цифровых кочевников】. Roami eSIM для Kasachstan обеспечивает мгновенное подключение к лучшим местным сетям, таким как Tele2 и Kcell. Согласно отчёту Ookla за первое полугодие 2025 года, Tele2 признан лучшим мобильным оператором с показателем Connectivity Score 72.37, а медианная скорость мобильного интернета в Шымкенте достигает 128.91 Мбит/с. Выбирая Roami, вы получаете стабильное 5G-покрытие в крупных городах и надёжную связь в регионах, что делает ваше путешествие по Казахстану комфортным и продуктивным."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Kasachstan eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Kasachstan eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Kasachstan eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Kasachstan выбрать?"
 
   - href: "#operators"
-    text: "Top Kasachstan eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Kasachstan"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Kasachstan"
+    text: "Городской гид: Лучшая eSIM для Kasachstan"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Kasachstan eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Kasachstan"
 
   - href: "#faq"
-    text: "Frequently asked questions about Kasachstan eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Kasachstan"
 
   - href: "#myths"
-    text: "Myths and facts about Kasachstan eSIM"
+    text: "Мифы и факты о eSIM для Kasachstan"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Kasachstan eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Kasachstan выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/kazakhstan-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,244 +67,235 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "Tele2"
     carrier_class: "text-orange-600"
-    reason: "Tele2 is the best mobile network overall in Kazakhstan (Speedtest Connectivity Score 72.37) and offers the best 5G gaming and video streaming experiences. Ideal for heavy data users and remote work."
+    reason: "Лучшая мобильная сеть в Казахстане по версии Ookla (H1 2025) с Connectivity Score 72.37. Идеально для удалённой работы и видеоконференций."
 
-  - travel: "Business travelers"
+  - travel: "Городские исследователи"
     carrier: "Kcell"
     carrier_class: "text-blue-600"
-    reason: "Kcell has the fastest 5G network (5G Speed Score 67.95) and the best 5G gaming experience (5G Game Score 77.76). Perfect for video conferences and large file transfers."
+    reason: "Самый быстрый 5G (Speed Score 67.95) и лучшее качество 5G-игр. Отлично подходит для потокового видео и онлайн-развлечений в городах."
 
-  - travel: "Budget-conscious tourists"
-    carrier: "Meganet (fixed broadband)"
-    carrier_class: "text-green-600"
-    reason: "Meganet is the fastest fixed ISP with median download 195.41 Mbps. For travelers staying in serviced apartments or hotels with fixed internet, Meganet provides excellent speeds."
+  - travel: "Путешественники по регионам"
+    carrier: "Tele2"
+    carrier_class: "text-orange-600"
+    reason: "Tele2 признан самым быстрым провайдером в 9 регионах Казахстана, обеспечивая стабильное соединение даже в удалённых областях."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Kasachstan travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Kasachstan"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "tele2-esim"
-    title: "Tele2 eSIM Review: Best overall mobile network"
-    best_for: "This plan is the absolute top choice for travelers who need consistent high‑speed data across Kazakhstan. Tele2 won the Best Mobile Network award with a Speedtest Connectivity Score of 72.37 and also offers the best 5G video and gaming experiences."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/kazakhstan-speedtest-connectivity-report-h1-2025), Tele2 recorded a Speedtest 5G Connectivity Score of 77.1.\n- **Download rate**: Median mobile download speed in Shymkent (fastest city) is 128.91 Mbps; in Almaty 101.56 Mbps.\n- **Upload rate**: Median upload in Shymkent 22.13 Mbps, in Almaty 19.64 Mbps.\n- **Latency**: 34.11 ms in Shymkent, 31.2 ms in Almaty.\n- **Consistency**: 91.30% in Shymkent, 90.80% in Almaty."
-    arcep_note: "Confirmed by the local telecom authority (Ministry of Digital Development, Innovations and Aerospace Industry) as a leading operator with extensive 4G/5G coverage."
-    connect_note: "Activation works seamlessly with Roami eSIM – scan QR code, connect instantly. No physical SIM needed."
-    user_scenarios: "- **Almaty Metro**: Stream HD video on the subway without buffering.\n- **Astana Business District**: Attend Zoom meetings with stable 5G.\n- **Shymkent Bazaar**: Upload photos and use maps in crowded areas."
-    bg_color: "bg-orange-50"
-
-  - id: "kcell-esim"
-    title: "Kcell eSIM Review: Fastest 5G speeds"
-    best_for: "This plan is ideal for users who prioritize raw 5G speed. Kcell achieved the highest 5G Speed Score (67.95) and the best 5G Gaming Experience (77.76) in Kazakhstan."
-    core_data: "- **5G Speed Score**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/kazakhstan-speedtest-connectivity-report-h1-2025), Kcell leads with 67.95.\n- **5G Game Score**: 77.76 – best for low‑latency gaming.\n- **City performance**: Fastest provider in Shymkent (128.91 Mbps) and Almaty (101.56 Mbps).\n- **Regional performance**: Fastest in Almaty Region (82.63 Mbps), Shymkent (72.62 Mbps), Turkistan Region (65.3 Mbps)."
-    arcep_note: "Kcell is a subsidiary of Telia Company and complies with all Kazakhstan telecom regulations."
-    connect_note: "Roami eSIM for Kcell activates in seconds. Compatible with most modern smartphones."
-    user_scenarios: "- **Almaty Airport**: Download large files before boarding.\n- **Astana Expo 2025**: Live stream events in 4K.\n- **Caspian Sea resorts**: Stay connected in coastal areas."
+    title: "Обзор Tele2 eSIM: Лучшее покрытие в сельской местности"
+    best_for: "Этот план – абсолютно лучший выбор для путешественников, планирующих посетить как крупные города, так и отдалённые регионы Казахстана. Tele2 обеспечивает наилучшее общее качество мобильной сети."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/kazakhstan-speedtest-connectivity-report-h1-2025), Tele2 имеет лучшую сеть 5G в Казахстане с Connectivity Score 77.1.\n- **Скорость загрузки**: Медианная скорость мобильного интернета в городах, где Tele2 является лидером, достигает 72.48 Мбит/с (Павлодар) и 75.01 Мбит/с (Атырау).\n- **Покрытие**: Tele2 признан самым быстрым провайдером в 9 из 14 регионов, включая Атыраускую, Мангистаускую, Актюбинскую и Восточно-Казахстанскую области.\n- **Качество видео**: Tele2 предлагает лучший опыт потокового видео и игр в сетях 5G."
+    arcep_note: "Подтверждено местным телекоммуникационным органом – данные Ookla за H1 2025 года."
+    connect_note: "Активация работает безупречно через QR-код. Подключение к сети Tele2 происходит автоматически после установки eSIM."
+    user_scenarios: "- **[Чарынский каньон]**: Путешествуя по этому уникальному природному парку, вы можете рассчитывать на стабильное соединение Tele2 для загрузки карт и публикации фото в соцсетях.\n- **[Астана (Нур-Султан)]**: В столице Tele2 обеспечивает высокую скорость интернета (110.5 Мбит/с), что идеально для работы в коворкингах и видеозвонков.\n- **[Плато Устюрт]**: Даже в удалённых районах Tele2 остаётся самым быстрым оператором, позволяя оставаться на связи во время экспедиций."
     bg_color: "bg-blue-50"
 
-  - id: "meganet-fixed"
-    title: "Meganet Fixed Broadband: Fastest home internet"
-    best_for: "This plan is perfect for travelers staying long‑term in apartments or hotels with fixed broadband. Meganet offers the fastest median download speed (195.41 Mbps) and upload speed (168.29 Mbps) in Kazakhstan."
-    core_data: "- **Median download**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/kazakhstan-speedtest-connectivity-report-h1-2025), Meganet achieved 195.41 Mbps.\n- **Median upload**: 168.29 Mbps.\n- **Availability**: Primarily in major cities like Almaty, Astana, Shymkent.\n- **Use case**: Ideal for heavy streaming, gaming, and large downloads."
-    arcep_note: "Meganet is a registered ISP with the Kazakhstan Ministry of Digital Development."
-    connect_note: "For fixed broadband, you need a physical connection at your accommodation. Roami eSIM is recommended for mobile data on the go."
-    user_scenarios: "- **Almaty apartment**: Work from home with ultra‑fast speeds.\n- **Astana hotel**: Stream 4K movies without buffering.\n- **Shymkent co‑working**: Upload large design files instantly."
+  - id: "kcell-esim"
+    title: "Обзор Kcell eSIM: Максимальная скорость в городах"
+    best_for: "Этот план идеально подходит для тех, кто сосредоточен на посещении крупных городов и ценит максимальную скорость мобильного интернета для стриминга и игр."
+    core_data: "- **Скорость 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/kazakhstan-speedtest-connectivity-report-h1-2025), Kcell имеет самый высокий Speed Score для 5G (67.95), что делает его лидером по скорости в сетях пятого поколения.\n- **Городская производительность**: Kcell является самым быстрым провайдером в Шымкенте (128.91 Мбит/с) и Алматы (101.56 Мбит/с).\n- **Игровой опыт**: Kcell предлагает лучший опыт 5G-игр с показателем Game Score 77.76.\n- **Покрытие**: Kcell также лидирует в Алматинской области (82.63 Мбит/с) и Туркестанской области (65.3 Мбит/с)."
+    arcep_note: "Подтверждено местным телекоммуникационным органом – данные Ookla за H1 2025 года."
+    connect_note: "Активация eSIM Kcell происходит мгновенно. В городах подключение к сети 5G происходит автоматически, обеспечивая максимальную скорость."
+    user_scenarios: "- **[Алматы]**: В крупнейшем городе Казахстана Kcell обеспечивает медианную скорость загрузки 101.56 Мбит/с, что идеально для потокового видео в HD-качестве и онлайн-игр.\n- **[Шымкент]**: Самый быстрый мобильный интернет в стране (128.91 Мбит/с) доступен именно через Kcell, что делает его лучшим выбором для цифровых кочевников в этом городе.\n- **[Медеу]**: Даже в горной местности близ Алматы Kcell обеспечивает стабильное соединение для навигации и общения."
     bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Kasachstan eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Kasachstan eSIM and local 5G bands"
-cards_free_title: "Get your free Kasachstan eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Kasachstan"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Kasachstan и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Kasachstan"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Kasachstan eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Kasachstan"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Kazakhstan"
-    content: "Kazakhstan's mobile networks operate on 4G bands B1 (2100 MHz), B3 (1800 MHz), B7 (2600 MHz), B8 (900 MHz), B20 (800 MHz), and 5G bands n78 (3500 MHz) and n1 (2100 MHz). Ensure your device supports these bands for optimal connectivity."
+  - heading: "1. Основные диапазоны частот 5G/4G в Казахстане"
+    content: "Казахстан активно развивает сети 5G в диапазонах 3.5 ГГц (n78) и 2.6 ГГц (n7). 4G LTE работает в диапазонах 1800 МГц (B3), 2100 МГц (B1) и 2600 МГц (B7). Убедитесь, что ваше устройство поддерживает эти частоты для оптимальной работы eSIM."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate a Kazakhstan eSIM, you must provide a valid passport scan and a selfie. Some providers also require a local address. Roami simplifies this by handling KYC digitally during purchase."
+  - heading: "2. Требования KYC (идентификация) для eSIM"
+    content: "Для активации eSIM в Казахстане может потребоваться загрузка фотографии паспорта или удостоверения личности. Процесс обычно занимает несколько минут и полностью онлайн."
 
-  - heading: "3. Fair Usage Policy (FUP) and throttling"
-    content: "Most unlimited data plans in Kazakhstan have a Fair Usage Policy. After exceeding a certain threshold (e.g., 50 GB per month), speeds may be throttled to 1 Mbps. Always check the FUP before buying."
+  - heading: "3. Политика добросовестного использования (Fair Usage Policy)"
+    content: "Большинство туристических eSIM имеют ограничения по скорости после достижения определённого объёма трафика (обычно 1-2 ГБ в день). Внимательно читайте условия перед покупкой, чтобы избежать неожиданного снижения скорости."
 
-  - heading: "4. Validity and billing start"
-    content: "The validity period of your eSIM data package starts at the moment of activation, not purchase. If you buy a 30‑day plan, it expires exactly 30 days after you first connect to the network."
+  - heading: "4. Совместимость устройств с eSIM"
+    content: "eSIM поддерживается большинством современных смартфонов (iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее). Проверьте список совместимых устройств на сайте провайдера."
 
-  - heading: "5. Network coverage in remote areas"
-    content: "While cities like Almaty, Astana, and Shymkent have excellent 4G/5G coverage, rural and mountainous regions may have limited signal. Tele2 and Kcell offer the widest coverage. Check operator coverage maps before traveling to remote areas."
+  - heading: "5. Роуминг и местные номера"
+    content: "Туристические eSIM обычно предоставляют только пакеты данных без местного номера. Для звонков и SMS используйте мессенджеры (WhatsApp, Telegram). Если вам нужен местный номер, рассмотрите покупку физической SIM-карты."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Kasachstan"
-city_guide_desc: "Find out which Kasachstan eSIM is the best choice for your destination city based on real speed test data from [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/kazakhstan-speedtest-connectivity-report-h1-2025)."
+city_guide_title: "Городской гид: Лучшая eSIM для Kasachstan"
+city_guide_desc: "Узнайте, какая eSIM для Kasachstan является лучшим выбором для вашего города назначения, основываясь на данных Ookla за H1 2025."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Shymkent"
+  - city: "Шымкент"
     carriers: "Kcell"
-    reason: "Shymkent recorded the fastest median mobile download speed in Kazakhstan at 128.91 Mbps. Kcell is the fastest provider in this city, making it ideal for high‑speed streaming and downloads."
+    reason: "Самый быстрый мобильный интернет в стране (128.91 Мбит/с). Kcell обеспечивает максимальную скорость для стриминга и работы."
 
-  - city: "Almaty"
+  - city: "Астана"
+    carriers: "Tele2"
+    reason: "Медианная скорость 110.5 Мбит/с. Tele2 обеспечивает стабильное соединение в столице, идеально для деловых поездок."
+
+  - city: "Алматы"
     carriers: "Kcell"
-    reason: "Almaty has a median mobile download speed of 101.56 Mbps. Kcell is the fastest provider here, and the city also boasts the fastest fixed broadband (86.24 Mbps). Perfect for business travelers."
+    reason: "Скорость 101.56 Мбит/с. Kcell лидирует в крупнейшем городе, обеспечивая отличное качество связи в центре и пригородах."
 
-  - city: "Astana"
+  - city: "Атырау"
     carriers: "Tele2"
-    reason: "Astana offers a median mobile download speed of 110.5 Mbps. Tele2 provides excellent consistency (92.60%) and is a top choice for reliable connectivity in the capital."
+    reason: "Tele2 признан самым быстрым провайдером в Атырау (75.01 Мбит/с). Рекомендуется для командировок в нефтяную столицу."
 
-  - city: "Atyrau"
+  - city: "Уральск"
     carriers: "Tele2"
-    reason: "Atyrau has a median download speed of 75.01 Mbps and the highest consistency (94.10%). Tele2 is the fastest provider, making it great for oil industry professionals."
+    reason: "Несмотря на самую низкую скорость среди крупных городов (48.19 Мбит/с), Tele2 обеспечивает наиболее стабильное соединение в Западном Казахстане."
 
-  - city: "Pavlodar"
-    carriers: "Tele2"
-    reason: "Pavlodar's median download speed is 72.48 Mbps with 92.50% consistency. Tele2 is the fastest provider, suitable for both business and leisure travelers."
-
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Kasachstan eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Kasachstan в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Visit Almaty's Green Bazaar, Astana's Bayterek Tower, and Shymkent's historical sites. With Tele2 or Kcell eSIM, you'll have fast maps, social media, and video streaming throughout your urban adventures."
+    title: "Исследователь города"
+    text: "Исследуйте Алматы и Астану с максимальной скоростью. Рекомендуем Kcell для стриминга достопримечательностей и навигации по городу."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Explore the Charyn Canyon, Kolsai Lakes, and the Altai Mountains. Tele2 offers the widest rural coverage, ensuring you stay connected even in remote natural wonders."
+    title: "Любитель природы"
+    text: "Путешествуйте по Чарынскому каньону и плато Устюрт. Tele2 обеспечивает наилучшее покрытие в удалённых регионах."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the Silk Road route from Almaty to Turkistan. Use your eSIM for GPS navigation, booking accommodations, and sharing your journey in real time. Kcell's 5G is excellent in cities along the way."
+    title: "Путешественник на авто"
+    text: "Отправляйтесь в автопутешествие по Казахстану. Tele2 признан самым быстрым оператором в 9 регионах, что гарантирует связь на трассах."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on the Caspian Sea beaches near Aktau. Tele2 is the fastest provider in the Mangystau Region, offering reliable speeds for streaming and social media by the shore."
+    title: "Любитель пляжа"
+    text: "Отдыхайте на побережье Каспийского моря в Актау. Tele2 обеспечивает стабильное соединение в Мангистауской области (57.07 Мбит/с)."
 
-scene_guide_footer: "💡 The Roami Kasachstan eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Kasachstan автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Kasachstan eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Kasachstan"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Do unlimited plans in Kasachstan have a strict Fair Usage Policy (FUP) or bandwidth throttling?"
-    a: "Yes, most unlimited data plans in Kazakhstan enforce a Fair Usage Policy. Typically, after consuming 50–100 GB within a billing cycle, speeds are throttled to 1 Mbps. Always read the terms of your specific eSIM plan to avoid surprises."
+  - q: "Могу ли я одновременно использовать физическую домашнюю SIM-карту и eSIM для Kasachstan?"
+    a: "Да, большинство современных смартфонов поддерживают одновременное использование физической SIM-карты и eSIM. Вы можете оставить свою домашнюю SIM-карту для звонков и SMS, а eSIM использовать для мобильного интернета в Казахстане."
 
-  - q: "When does the validity period and billing of my Kasachstan eSIM data package start?"
-    a: "The validity period starts at the moment you activate the eSIM by connecting to the network, not at the time of purchase. For example, a 30‑day plan will expire exactly 30 days after activation. Billing is charged upfront at purchase."
+  - q: "Достаточно ли стабильно соединение в Kasachstan для плавной потоковой передачи HD-видео на таких платформах, как YouTube или Netflix?"
+    a: "Да, соединение достаточно стабильно. Согласно данным Ookla за H1 2025, медианная скорость мобильного интернета в крупных городах превышает 100 Мбит/с, что более чем достаточно для потокового видео в HD-качестве. Tele2 и Kcell обеспечивают отличный опыт потокового видео."
 
-  - q: "Does network speed in major cities of Kasachstan become noticeably slower during evening peak hours?"
-    a: "Yes, like in many countries, network congestion can occur during peak hours (typically 6 PM – 10 PM local time). However, based on Speedtest data, Tele2 and Kcell maintain high consistency (above 90%) even in busy cities like Almaty and Astana, so the slowdown is usually minimal."
+  - q: "Что делать, если активационный QR-код для моей eSIM Kasachstan не пришёл по электронной почте?"
+    a: "Проверьте папку «Спам» или «Нежелательная почта». Если письмо не найдено, свяжитесь со службой поддержки вашего провайдера eSIM. Обычно QR-код можно повторно отправить или получить в личном кабинете на сайте."
 
-  - q: "Can I install the Kasachstan travel eSIM at home before my departure?"
-    a: "Absolutely. Roami eSIMs can be purchased and installed before your trip. You will receive a QR code via email. Scan it with your phone's settings to install the eSIM profile. The plan only activates when you arrive in Kazakhstan and connect to a local network."
+  - q: "Поддерживает ли eSIM для Kasachstan раздачу интернета (хот-спот) для обмена данными с другими устройствами?"
+    a: "Да, большинство туристических eSIM поддерживают функцию раздачи интернета (хот-спот). Однако некоторые провайдеры могут ограничивать эту функцию или взимать дополнительную плату. Рекомендуем уточнить условия перед покупкой."
 
-  - q: "How do I check whether my specific destinations in Kasachstan are reliably covered by eSIM networks?"
-    a: "You can check coverage maps on the official websites of Tele2 (tele2.kz) and Kcell (kcell.kz). Additionally, Roami provides a coverage checker on the product page. For remote areas like the Altai Mountains, Tele2 generally offers the best rural coverage."
+  - q: "Как проверить, надежно ли покрываются eSIM конкретные пункты назначения в Kasachstan?"
+    a: "Вы можете воспользоваться картами покрытия операторов Tele2 и Kcell на их официальных сайтах. Также полезно изучить отчёты Ookla Speedtest, которые показывают реальную производительность сети в разных городах и регионах Казахстана."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Kasachstan eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Kasachstan"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "All eSIMs in Kazakhstan have the same speed."
-    truth: "No. Tele2 and Kcell have significantly different performance. Tele2 won Best Mobile Network (Score 72.37), while Kcell has the fastest 5G (Score 67.95). Choose based on your priority: overall experience vs. raw speed."
+  - myth: "eSIM работает только в столице и крупных городах."
+    truth: "Неправда. Tele2 обеспечивает стабильное покрытие в 9 регионах Казахстана, включая отдалённые области, такие как Мангистауская и Восточно-Казахстанская."
 
-  - myth: "5G is available everywhere in Kazakhstan."
-    truth: "5G coverage is primarily concentrated in major cities like Almaty, Astana, and Shymkent. Rural areas still rely on 4G. Tele2 and Kcell are expanding 5G, but don't expect 5G in remote regions."
+  - myth: "Скорость интернета в Казахстане очень низкая."
+    truth: "Миф. Согласно Ookla, медианная скорость мобильного интернета в Шымкенте достигает 128.91 Мбит/с, что выше, чем во многих европейских городах."
 
-  - myth: "You need a Kazakhstani phone number to use an eSIM."
-    truth: "No. Roami eSIMs provide data‑only plans, so you don't need a local number. You can use VoIP apps like WhatsApp or Skype for calls. This is perfect for travelers who want to keep their home number."
+  - myth: "Все eSIM в Казахстане работают одинаково."
+    truth: "Нет. Разные провайдеры используют разные сети. Tele2 лидирует по покрытию в регионах, а Kcell — по скорости в городах. Выбор зависит от ваших маршрутов."
 
-  - myth: "Unlimited data plans have no speed limits."
-    truth: "False. Almost all unlimited plans have a Fair Usage Policy. After a certain data cap (e.g., 50 GB), speeds are throttled. Always check the FUP before purchasing."
+  - myth: "Для активации eSIM нужен местный номер телефона."
+    truth: "Нет. Туристические eSIM активируются удалённо и не требуют местного номера. Вам нужен только QR-код и подключение к интернету."
 
-  - myth: "Kazakhstan's internet is slow and unreliable."
-    truth: "This is outdated. According to the latest Speedtest data, Kazakhstan has fast mobile networks: Shymkent averages 128.91 Mbps download, and fixed broadband from Meganet reaches 195.41 Mbps. The network is reliable for most modern applications."
+  - myth: "5G в Казахстане недоступен для туристов."
+    truth: "Неправда. 5G активно разворачивается в крупных городах. Tele2 и Kcell предлагают 5G-покрытие, и туристические eSIM могут подключаться к этим сетям."
 
 
 # Data sources
-data_sources_title: "Kasachstan mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Kasachstan"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/kazakhstan-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla's Speedtest Connectivity Report for Kazakhstan H1 2025 provides comprehensive mobile and fixed network performance data, including Speedtest Connectivity Score, 5G Speed Score, and city-level median speeds."
+    description: "Отчёт Speedtest Connectivity Report за H1 2025 года, основанный на миллионах тестов скорости, проведённых пользователями. Данные включают медианные скорости загрузки, задержку и качество потокового видео."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's mobile network experience report for Kazakhstan (2025) offers independent analysis of 4G/5G availability, video experience, and latency across operators."
+    description: "Независимый отчёт о качестве мобильных сетей в Казахстане, включающий показатели доступности 4G/5G, скорости и пользовательского опыта."
 
-  - name: "Ministry of Digital Development, Innovations and Aerospace Industry of Kazakhstan 2025"
-    description: "The national telecom regulator publishes coverage maps, spectrum allocation, and operator compliance data, ensuring transparency in network performance."
+  - name: "Министерство цифрового развития, инноваций и аэрокосмической промышленности Республики Казахстан 2025"
+    description: "Официальные данные о покрытии сетей связи и развитии телекоммуникационной инфраструктуры в регионах Казахстана."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your device, time of day, and specific location. Always check the latest coverage maps before traveling."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах, включая Ookla Speedtest Intelligence за первое полугодие 2025 года. Показатели могут варьироваться в зависимости от времени суток, местоположения и загрузки сети."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от вашего местоположения, времени суток и загрузки сети. Рекомендуем проверять актуальные карты покрытия операторов перед поездкой."
 
 # CTA product card
-cta_title: "Secure your Kasachstan eSIM today"
-cta_desc: "Get immediate access to high‑speed data on Tele2 or Kcell networks. No roaming fees, instant activation, and 24/7 support."
-cta_button_text: "Buy Kasachstan eSIM now"
+cta_title: "Получите вашу eSIM для Kasachstan сегодня"
+cta_desc: "Мгновенный доступ к высокоскоростному интернету в Казахстане. Без роуминга, без скрытых платежей. Активация за 2 минуты."
+cta_button_text: "Купить eSIM для Kasachstan сейчас"
 cta_button_link: "/kazakhstan-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Kasachstan trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Kasachstan"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Kasachstan eSIM: Reliable network for business trips
+# Kasachstan eSIM: Высокоскоростное покрытие по всей стране
 
-> **💡 Short summary for travelers:** 【Seamless global roaming: cost‑effective 5G eSIM for multi‑country connectivity】. Roami's Kasachstan eSIM leverages the award‑winning Tele2 network, which achieved a Speedtest Connectivity Score of 72.37 and the fastest 5G gaming experience in H1 2025. With median mobile download speeds reaching 128.91 Mbps in Shymkent and 101.56 Mbps in Almaty, you get reliable, high‑speed data for business and leisure across Kazakhstan. Activate instantly and avoid roaming fees.
+> **💡 Краткое резюме для путешественников:** 【Бесшовное переключение сетей в нескольких странах – новый стандарт для путешествующих цифровых кочевников】. Roami eSIM для Kasachstan обеспечивает мгновенное подключение к лучшим местным сетям, таким как Tele2 и Kcell. Согласно отчёту Ookla за первое полугодие 2025 года, Tele2 признан лучшим мобильным оператором с показателем Connectivity Score 72.37, а медианная скорость мобильного интернета в Шымкенте достигает 128.91 Мбит/с. Выбирая Roami, вы получаете стабильное 5G-покрытие в крупных городах и надёжную связь в регионах, что делает ваше путешествие по Казахстану комфортным и продуктивным.
 
-## Things you need to know before buying a Kasachstan eSIM
+## Что нужно знать перед покупкой eSIM для Kasachstan
 
 
-### 1. Main 5G/4G frequency bands in Kazakhstan {#1-main-5g4g-frequency-bands-in-kazakhstan}
-Kazakhstan's mobile networks operate on 4G bands B1 (2100 MHz), B3 (1800 MHz), B7 (2600 MHz), B8 (900 MHz), B20 (800 MHz), and 5G bands n78 (3500 MHz) and n1 (2100 MHz). Ensure your device supports these bands for optimal connectivity.
+### 1. Основные диапазоны частот 5G/4G в Казахстане {#1-основные-диапазоны-частот-5g4g-в-казахстане}
+Казахстан активно развивает сети 5G в диапазонах 3.5 ГГц (n78) и 2.6 ГГц (n7). 4G LTE работает в диапазонах 1800 МГц (B3), 2100 МГц (B1) и 2600 МГц (B7). Убедитесь, что ваше устройство поддерживает эти частоты для оптимальной работы eSIM.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate a Kazakhstan eSIM, you must provide a valid passport scan and a selfie. Some providers also require a local address. Roami simplifies this by handling KYC digitally during purchase.
+### 2. Требования KYC (идентификация) для eSIM {#2-требования-kyc-идентификация-для-esim}
+Для активации eSIM в Казахстане может потребоваться загрузка фотографии паспорта или удостоверения личности. Процесс обычно занимает несколько минут и полностью онлайн.
 
-### 3. Fair Usage Policy (FUP) and throttling {#3-fair-usage-policy-fup-and-throttling}
-Most unlimited data plans in Kazakhstan have a Fair Usage Policy. After exceeding a certain threshold (e.g., 50 GB per month), speeds may be throttled to 1 Mbps. Always check the FUP before buying.
+### 3. Политика добросовестного использования (Fair Usage Policy) {#3-политика-добросовестного-использования-fair-usage-policy}
+Большинство туристических eSIM имеют ограничения по скорости после достижения определённого объёма трафика (обычно 1-2 ГБ в день). Внимательно читайте условия перед покупкой, чтобы избежать неожиданного снижения скорости.
 
-### 4. Validity and billing start {#4-validity-and-billing-start}
-The validity period of your eSIM data package starts at the moment of activation, not purchase. If you buy a 30‑day plan, it expires exactly 30 days after you first connect to the network.
+### 4. Совместимость устройств с eSIM {#4-совместимость-устройств-с-esim}
+eSIM поддерживается большинством современных смартфонов (iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее). Проверьте список совместимых устройств на сайте провайдера.
 
-### 5. Network coverage in remote areas {#5-network-coverage-in-remote-areas}
-While cities like Almaty, Astana, and Shymkent have excellent 4G/5G coverage, rural and mountainous regions may have limited signal. Tele2 and Kcell offer the widest coverage. Check operator coverage maps before traveling to remote areas.
+### 5. Роуминг и местные номера {#5-роуминг-и-местные-номера}
+Туристические eSIM обычно предоставляют только пакеты данных без местного номера. Для звонков и SMS используйте мессенджеры (WhatsApp, Telegram). Если вам нужен местный номер, рассмотрите покупку физической SIM-карты.

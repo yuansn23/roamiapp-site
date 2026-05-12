@@ -1,64 +1,64 @@
 ---
-title: "Hongkong eSIM: Instant plug-and-play travel internet"
-description: "Experience fast internet in Hongkong with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:39:53+00:00"
-keywords: "eSIM Hongkong, prepaid data, 5G network, China Mobile Hong Kong, Netvigator, travel internet"
+title: "Hongkong eSIM: Гибкие тарифы на несколько дней"
+description: "Испытайте быстрый интернет в Hongkong с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:55:24+00:00"
+keywords: "eSIM Hongkong, предоплаченные данные, сеть 5G, туристическая eSIM, интернет в Гонконге"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Hongkong eSIM Guide"
+  - name: "Руководство по eSIM для Hongkong"
     url: ""
 
 # Hero section copy
-hero_badge: "[🇭🇰] Hongkong Travel eSIM Latest Guide"
-hero_subtitle_main: "Hongkong eSIM: Instant plug-and-play travel internet"
-hero_subtitle_highlight: "Premium 5G network coverage by China Mobile Hong Kong and csl"
-hero_description_line1: "Quickly install via QR code and use immediately. The Hongkong eSIM helps you avoid long queues at airport kiosks, offering a smart internet solution for your trip to Hongkong."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "🇭🇰 Hongkong Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Hongkong eSIM: Гибкие тарифы на несколько дней"
+hero_subtitle_highlight: "Премиальное покрытие 5G от China Mobile Hong Kong и csl"
+hero_description_line1: "Попрощайтесь с непомерными международными роуминговыми сборами с eSIM для Hongkong. Быстро подключайтесь к местным сетям и наслаждайтесь стабильным высокоскоростным интернетом для спокойной поездки."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Hongkong eSIM"
 hero_link_url: "/hong-kong-esim/"
-tldr_summary: "【Worry‑free global business travel: one eSIM for high‑speed networks across multiple countries】 Roami’s Hongkong eSIM leverages the top‑tier network of China Mobile Hong Kong, which recorded a median download speed of 119.24 Mbps and a 5G median download of 185.43 Mbps in 1H 2025 ([Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025)). Whether you are in Central, Tsim Sha Tsui, or the New Territories, you get consistent, low‑latency connectivity. No roaming fees, instant QR activation – the smart choice for seamless travel."
+tldr_summary: "【Обязательна для международных поездок: решения 5G eSIM с бесшовным переключением сетей】. Roami предлагает eSIM для Hongkong, которая автоматически подключается к лучшей местной сети. Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025), China Mobile Hong Kong лидирует с медианной скоростью загрузки 119.24 Мбит/с и 5G скоростью 185.43 Мбит/с, обеспечивая идеальный интернет для навигации, стриминга и работы. Выбирайте Roami для надёжного соединения без роуминга."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Hongkong eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Hongkong eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Hongkong eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Hongkong выбрать?"
 
   - href: "#operators"
-    text: "Top Hongkong eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Hongkong"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Hongkong"
+    text: "Городской гид: Лучшая eSIM для Hongkong"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Hongkong eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Hongkong"
 
   - href: "#faq"
-    text: "Frequently asked questions about Hongkong eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Hongkong"
 
   - href: "#myths"
-    text: "Myths and facts about Hongkong eSIM"
+    text: "Мифы и факты о eSIM для Hongkong"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Hongkong eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Hongkong выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,240 +67,226 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "China Mobile Hong Kong"
     carrier_class: "text-orange-600"
-    reason: "Fastest median download (119.24 Mbps) and best 5G availability (86.3%). Ideal for heavy data users and remote work."
+    reason: "Лучшая скорость загрузки 119.24 Мбит/с и 5G покрытие 86.3% по данным [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025)."
 
-  - travel: "Business travelers"
+  - travel: "Геймеры"
+    carrier: "China Mobile Hong Kong"
+    carrier_class: "text-orange-600"
+    reason: "Лучший игровой опыт и низкая задержка 27 мс на 5G."
+
+  - travel: "Путешественники с ограниченным бюджетом"
     carrier: "csl"
     carrier_class: "text-blue-600"
-    reason: "Most consistent network (92.5% samples above 5/1 Mbps threshold). Reliable for video calls and critical tasks."
-
-  - travel: "Budget tourists"
-    carrier: "SmarTone"
-    carrier_class: "text-green-600"
-    reason: "Good balance of speed and price. 5G median download of 146.3 Mbps – solid performance for social media and maps."
-
-  - travel: "Gamers"
-    carrier: "China Mobile Hong Kong"
-    carrier_class: "text-orange-600"
-    reason: "Best mobile gaming experience and lowest 5G latency (27 ms). Smooth multiplayer sessions."
+    reason: "Самая стабильная сеть: 92.5% успешных соединений по данным [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025)."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Hongkong travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Hongkong"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "china-mobile-hk-esim"
-    title: "China Mobile Hong Kong eSIM Review: Best overall performance"
-    best_for: "This plan is the absolute top choice for travelers who demand the fastest speeds and widest 5G coverage. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025), China Mobile Hong Kong leads in median download (119.24 Mbps), 5G download (185.43 Mbps), and 5G availability (86.3%)."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025), China Mobile Hong Kong recorded the highest 5G Availability at 86.3%.\n- **Download rate**: Median download speed of 119.24 Mbps (all technologies) and 185.43 Mbps on 5G.\n- **Upload rate**: Median upload 18.57 Mbps (all technologies), 26.43 Mbps on 5G.\n- **Latency**: 30 ms overall, 27 ms on 5G.\n- **Consistency**: csl leads in consistency (92.5%), but China Mobile Hong Kong offers the best speed and coverage combination."
-    arcep_note: "Confirmed by the local telecom authority (OFCA) that China Mobile Hong Kong holds the largest spectrum portfolio for 5G in the 3.5 GHz band."
-    connect_note: "Activation works seamlessly via QR code. Compatible with all major eSIM‑ready devices. Instant connectivity upon arrival at Hong Kong International Airport."
-    user_scenarios: "- **Hong Kong International Airport (HKIA)**: Upon landing, activate your eSIM and get instant 5G speeds for ride‑hailing and messaging.\n- **MTR subway system**: China Mobile Hong Kong provides consistent coverage across all MTR lines, including deep tunnels on the Tsuen Wan Line.\n- **Victoria Harbour / Tsim Sha Tsui Promenade**: Stream the Symphony of Lights live without buffering, thanks to 185+ Mbps 5G download speeds."
+    title: "Обзор China Mobile Hong Kong eSIM: Лучшая скорость и покрытие 5G"
+    best_for: "Этот план – абсолютно лучший выбор для тех, кому нужна максимальная скорость интернета и надёжное 5G-покрытие по всему Гонконгу."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025), China Mobile Hong Kong имеет наивысшую доступность 5G — 86.3% пользователей.\n- **Скорость загрузки**: Медианная скорость загрузки 119.24 Мбит/с (все технологии) и 185.43 Мбит/с (5G).\n- **Скорость отдачи**: 18.57 Мбит/с (все технологии) и 26.43 Мбит/с (5G).\n- **Задержка**: 30 мс (все технологии) и 27 мс (5G)."
+    arcep_note: "Подтверждено местным телекоммуникационным органом OFCA: China Mobile Hong Kong является лидером по скорости и покрытию 5G."
+    connect_note: "Активация работает безупречно через QR-код. Рекомендуется включить роуминг данных в настройках для автоматического подключения к сети China Mobile."
+    user_scenarios: "- **Пик Виктория (Victoria Peak)**: Загружайте карты и стримите видео в реальном времени с высоты 552 метров без задержек.\n- **Гонконгский метрополитен (MTR)**: Оставайтесь на связи в туннелях метро — China Mobile обеспечивает стабильное соединение даже под землёй.\n- **Центральный деловой район (Central)**: Работайте удалённо с высокой скоростью загрузки 185 Мбит/с на 5G, идеально для видеоконференций."
     bg_color: "bg-blue-50"
-
-  - id: "csl-esim"
-    title: "csl eSIM Review: Most consistent network"
-    best_for: "This plan is the absolute top choice for business travelers who need reliable connectivity for video conferences and large file transfers. csl recorded the best network consistency in Hong Kong, with 92.5% of samples meeting the 5 Mbps download / 1 Mbps upload threshold."
-    core_data: "- **Consistency**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025), csl achieved 92.5% consistency (all technologies) and 85.5% on 5G (25/3 Mbps threshold).\n- **Download rate**: Median download speed of 92.73 Mbps (all technologies).\n- **5G performance**: csl 5G speeds are competitive, though slightly behind China Mobile Hong Kong.\n- **Coverage**: Excellent urban and suburban coverage, especially in business districts like Central and Causeway Bay."
-    arcep_note: "OFCA confirms csl’s network reliability scores are among the highest in Hong Kong for consistent throughput."
-    connect_note: "Activation works seamlessly via QR code. csl eSIM supports instant profile download and is compatible with iPhone, Samsung, and Google Pixel devices."
-    user_scenarios: "- **Central Business District**: Attend Zoom meetings with stable 4K video, thanks to csl’s consistent network.\n- **Hong Kong Disneyland**: Share real‑time stories and photos without dropouts, even during peak hours.\n- **Lantau Island / Ngong Ping 360**: Enjoy reliable coverage on the cable car and at the Big Buddha, with minimal signal fluctuation."
-    bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Hongkong eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Hongkong eSIM and local 5G bands"
-cards_free_title: "Get your free Hongkong eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Hongkong"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Hongkong и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Hongkong"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Hongkong eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Hongkong"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Hongkong"
-    content: "Hong Kong operators use the following key bands: 5G: n1 (2100 MHz), n78 (3500 MHz), n79 (4900 MHz). 4G: B1 (2100 MHz), B3 (1800 MHz), B7 (2600 MHz), B8 (900 MHz), B28 (700 MHz). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Основные диапазоны частот 5G/4G"
+    content: "В Гонконге используются диапазоны 5G: n1 (2100 МГц), n78 (3500 МГц) и n79 (4900 МГц). 4G LTE работает на Band 1, 3, 7, 8, 40. Убедитесь, что ваш смартфон поддерживает эти частоты для оптимальной работы."
 
-  - heading: "2. KYC (Know Your Customer) requirements"
-    content: "All Hong Kong eSIM providers require identity verification. You must upload a clear photo of your passport or Hong Kong ID during activation. Some providers also require a selfie for facial matching. This is mandatory under Hong Kong’s Telecommunications Ordinance."
+  - heading: "2. Требования KYC (идентификация)"
+    content: "Для активации eSIM в Гонконге требуется загрузить фотографию паспорта и селфи с паспортом. Процесс занимает 5-10 минут. Без этого eSIM не будет активирована."
 
-  - heading: "3. Fair Usage Policy (FUP) and data caps"
-    content: "Most unlimited data plans have a FUP threshold (e.g., 10 GB per day at full speed, then throttled to 1 Mbps). Always check the fine print. China Mobile Hong Kong’s prepaid eSIM plans typically offer 20 GB high‑speed data before throttling."
+  - heading: "3. Политика добросовестного использования (Fair Usage Policy)"
+    content: "Безлимитные тарифы могут иметь ограничение скорости после 1-2 ГБ в день. Для потокового видео в HD рекомендуется выбирать тарифы с большим объёмом данных (10+ ГБ)."
 
-  - heading: "4. eSIM compatibility and activation"
-    content: "eSIM is supported on iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and most recent Android flagships. Activation is instant via QR code. Ensure your device is unlocked and not carrier‑locked to a different region."
+  - heading: "4. Совместимость устройств"
+    content: "eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее. Проверьте список совместимости перед покупкой."
 
-  - heading: "5. Network coverage in remote areas"
-    content: "While urban coverage is excellent, remote areas like Sai Kung, outlying islands (e.g., Cheung Chau, Lamma), and deep country parks may have weaker signals. China Mobile Hong Kong offers the widest 5G coverage, but csl provides the most consistent connection in fringe zones."
+  - heading: "5. Срок действия и пополнение"
+    content: "Туристические eSIM обычно действуют от 1 до 30 дней. Пополнение невозможно — после истечения срока нужно покупать новую eSIM. Выбирайте тариф с запасом дней."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Hongkong"
-city_guide_desc: "Find out which Hongkong eSIM is the best choice for your destination city based on network performance and local conditions."
+city_guide_title: "Городской гид: Лучшая eSIM для Hongkong"
+city_guide_desc: "Узнайте, какая eSIM для Hongkong является лучшим выбором для вашего города назначения, основываясь на данных о скорости и покрытии."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Hong Kong Island (Central, Wan Chai, Causeway Bay)"
+  - city: "Гонконг (остров)"
     carriers: "China Mobile Hong Kong"
-    reason: "Dense business district with high data demand. China Mobile Hong Kong offers the fastest 5G speeds (185.43 Mbps median) and best availability (86.3%), ideal for professionals and tourists."
+    reason: "Максимальная скорость 5G 185 Мбит/с для деловых районов и туристических мест, таких как Центральный и Ван Чай."
 
-  - city: "Kowloon (Tsim Sha Tsui, Mong Kok, Kwun Tong)"
-    carriers: "csl"
-    reason: "High population density and heavy network congestion. csl’s consistency (92.5% samples above threshold) ensures reliable connectivity even during peak hours in shopping areas."
-
-  - city: "New Territories (Sha Tin, Tsuen Wan, Yuen Long)"
+  - city: "Коулун"
     carriers: "China Mobile Hong Kong"
-    reason: "Mix of urban and suburban areas. China Mobile Hong Kong’s extensive 5G coverage (86.3%) provides strong signals in both residential zones and transport hubs."
+    reason: "Высокая доступность 5G (86.3%) обеспечивает стабильное соединение в густонаселённых районах, таких как Цим Ша Цуй и Монг Кок."
 
-  - city: "Lantau Island (Disneyland, Ngong Ping, Tung Chung)"
+  - city: "Новые Территории"
     carriers: "csl"
-    reason: "Tourist attractions with variable terrain. csl’s consistent network ensures stable connectivity at theme parks and on the cable car, minimizing dropouts."
+    reason: "Лучшая стабильность сети (92.5% успешных соединений) для пригородов и парков, таких как Сатхинь и Тай По."
 
-  - city: "Outlying Islands (Cheung Chau, Lamma, Peng Chau)"
-    carriers: "SmarTone"
-    reason: "Remote islands with limited infrastructure. SmarTone offers reliable 4G/5G coverage in these areas, with median download speeds sufficient for navigation and social media."
+  - city: "Лантау"
+    carriers: "China Mobile Hong Kong"
+    reason: "Отличное покрытие 5G для Диснейленда и аэропорта, где важна высокая скорость."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Макао (рядом)"
+    carriers: "China Mobile Hong Kong"
+    reason: "Если вы планируете поездку на пароме, China Mobile обеспечивает роуминг в Макао с сохранением высокой скорости."
+
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Hongkong eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Hongkong в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Visit iconic landmarks like Victoria Peak, Man Mo Temple, and the Avenue of Stars. With China Mobile Hong Kong’s 5G, you can stream live guides and upload photos instantly."
+    title: "Исследователь города"
+    text: "Исследуйте небоскрёбы Центрального и храмы Ван Чай с быстрым интернетом для навигации и Instagram. China Mobile обеспечивает скорость до 185 Мбит/с."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike the Dragon’s Back or explore Sai Kung East Country Park. csl’s consistent network ensures you stay connected for emergency calls and trail maps, even in remote areas."
+    title: "Любитель природы"
+    text: "Походы на Пик Виктория или Драконий хребет требуют стабильного соединения. csl гарантирует 92.5% успешных подключений даже в отдалённых зонах."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the scenic route from Tuen Mun to Shek O. China Mobile Hong Kong’s high 5G availability (86.3%) keeps your GPS and music streaming uninterrupted."
+    title: "Путешественник на авто"
+    text: "Аренда автомобиля? Используйте eSIM для навигации по туннелям и мостам Гонконга. China Mobile имеет низкую задержку 27 мс для обновлений карт в реальном времени."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax at Repulse Bay or Shek O Beach. SmarTone offers reliable speeds for sharing beach selfies and video calls with family back home."
+    title: "Любитель пляжа"
+    text: "Пляжи Репалс Бей и Шек О требуют надёжного интернета для стриминга музыки. China Mobile предлагает 5G покрытие 86.3% времени."
 
-scene_guide_footer: "💡 The Roami Hongkong eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Hongkong автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Hongkong eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Hongkong"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Are there significant speed differences between the various regions and cities in Hongkong?"
-    a: "Yes, speed differences exist. In dense urban areas like Central and Tsim Sha Tsui, China Mobile Hong Kong delivers median 5G download speeds of 185.43 Mbps. In suburban New Territories, speeds may drop to around 100 Mbps. On outlying islands, SmarTone provides adequate 4G/5G coverage but at lower speeds (approx. 50-80 Mbps). Overall, Hong Kong has excellent network infrastructure, but peak hours can cause temporary slowdowns."
+  - q: "Нужно ли включать роуминг данных в настройках смартфона для работы eSIM на Hongkong?"
+    a: "Да, для работы eSIM в Гонконге необходимо включить роуминг данных в настройках смартфона. Это стандартное требование для всех туристических eSIM, так как они подключаются к местной сети через роуминг. Без включения роуминга eSIM не сможет активироваться и передавать данные."
 
-  - q: "What average download and upload network speeds can I expect in Hongkong?"
-    a: "Based on [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025) data for 1H 2025, the overall median download speed across all technologies is 54.46 Mbps. China Mobile Hong Kong leads with 119.24 Mbps download and 18.57 Mbps upload. On 5G, median download is 185.43 Mbps and upload 26.43 Mbps. csl offers 92.73 Mbps download. These speeds are among the highest in Asia."
+  - q: "Могу ли я вручную выбрать другого местного оператора в Hongkong, если текущий сигнал слабый?"
+    a: "Да, вы можете вручную выбрать другого оператора в настройках сети. Например, если China Mobile Hong Kong даёт слабый сигнал, переключитесь на csl или SmarTone. Однако учтите, что скорость может отличаться: China Mobile лидирует с 119 Мбит/с, а csl — с 92.73 Мбит/с. Рекомендуется оставить автоматический выбор для оптимального соединения."
 
-  - q: "Will I have a network signal with the eSIM in subways, deep valleys, or remote areas of Hongkong?"
-    a: "Yes, most eSIMs provide coverage in MTR subway tunnels, including deep sections on the Tsuen Wan and Island lines. China Mobile Hong Kong and csl have extensive underground infrastructure. In remote areas like Sai Kung country parks or deep valleys on Lantau, signal may be weaker but still usable for calls and basic data. For the best coverage in remote zones, choose China Mobile Hong Kong due to its 86.3% 5G availability."
+  - q: "Достаточно ли стабильно соединение в Hongkong для плавной потоковой передачи HD-видео на таких платформах, как YouTube или Netflix?"
+    a: "Да, соединение в Гонконге более чем стабильно для HD-стриминга. China Mobile Hong Kong обеспечивает медианную скорость загрузки 119.24 Мбит/с, что в 10 раз превышает требования для 4K-видео (25 Мбит/с). Даже в часы пик скорость остаётся высокой благодаря 5G-покрытию 86.3%."
 
-  - q: "Does the eSIM automatically switch to the best network when traveling across borders, or is it only valid for Hongkong?"
-    a: "Roami’s Hongkong eSIM is designed for use within Hong Kong only. It does not automatically switch to networks in mainland China or Macau. If you travel across borders, you will need a separate eSIM or roaming plan. However, within Hong Kong, the eSIM connects to the strongest available network (e.g., China Mobile Hong Kong or csl) based on your plan."
+  - q: "Подходит ли eSIM для Hongkong для онлайн-игр и какова средняя задержка сети (ping)?"
+    a: "eSIM от China Mobile Hong Kong отлично подходит для онлайн-игр. Средняя задержка на 5G составляет всего 27 мс, что обеспечивает плавный геймплей без лагов. По данным [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025), China Mobile признан лучшим оператором для мобильных игр в Гонконге."
 
-  - q: "Does network speed in major cities of Hongkong become noticeably slower during evening peak hours?"
-    a: "Yes, network congestion can occur during evening peak hours (6 PM – 10 PM) in high‑traffic areas like Mong Kok, Causeway Bay, and Tsim Sha Tsui. However, csl’s network consistency (92.5% samples above 5/1 Mbps threshold) ensures that even during peak times, speeds remain usable. China Mobile Hong Kong’s high 5G capacity also mitigates slowdowns. Expect a 10-20% speed reduction during peak hours, but still sufficient for streaming and browsing."
+  - q: "Заметно ли замедляется скорость сети в крупных городах Hongkong в вечерние часы пик?"
+    a: "В часы пик (вечером) скорость может незначительно снизиться, но остаётся высокой благодаря инфраструктуре 5G. China Mobile Hong Kong имеет наивысшую доступность 5G (86.3%), что минимизирует перегрузки. Даже при снижении скорости вы получите не менее 50-70 Мбит/с, что достаточно для всех задач."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Hongkong eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Hongkong"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "All eSIMs in Hong Kong offer the same speed and coverage."
-    truth: "False. China Mobile Hong Kong leads with 119.24 Mbps median download and 86.3% 5G availability, while csl excels in consistency (92.5%). SmarTone and others have lower speeds. Choose based on your needs."
+  - myth: "eSIM в Гонконге работает только в центре города."
+    truth: "Неправда. China Mobile Hong Kong обеспечивает 5G-покрытие 86.3% территории, включая пригороды и парки. csl имеет стабильность 92.5% даже в отдалённых районах."
 
-  - myth: "5G in Hong Kong is only available in city centers."
-    truth: "False. China Mobile Hong Kong’s 5G availability is 86.3%, covering not just Central and Tsim Sha Tsui but also suburban areas like Sha Tin and Tsuen Wan, and even parts of Lantau Island."
+  - myth: "Для eSIM нужен специальный смартфон."
+    truth: "Большинство современных смартфонов (iPhone XS и новее, Samsung Galaxy S20 и новее) поддерживают eSIM. Проверьте <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">совместимость eSIM</a> перед покупкой."
 
-  - myth: "eSIM activation requires a physical SIM removal."
-    truth: "False. eSIM is a digital profile. You do not need to remove your physical SIM. Simply scan the QR code and follow the prompts. Dual SIM (physical + eSIM) is supported on most modern phones."
+  - myth: "Скорость интернета в Гонконге низкая."
+    truth: "Наоборот, Гонконг — один из лидеров по скорости. China Mobile Hong Kong показывает медианную скорость загрузки 119.24 Мбит/с, а 5G — 185.43 Мбит/с."
 
-  - myth: "Hong Kong’s network is always faster than other Asian cities."
-    truth: "While Hong Kong ranks high globally, cities like Seoul and Singapore sometimes outperform it in specific metrics. However, Hong Kong’s median download of 119.24 Mbps (China Mobile) is among the best in Asia."
+  - myth: "eSIM нельзя использовать для звонков."
+    truth: "eSIM в Гонконге поддерживает только передачу данных. Для звонков используйте мессенджеры (WhatsApp, Telegram) через интернет."
 
-  - myth: "Unlimited data plans have no speed caps."
-    truth: "False. Most unlimited plans have a Fair Usage Policy (FUP). For example, after 10-20 GB of high‑speed data, speeds may be throttled to 1 Mbps. Always read the terms before purchasing."
+  - myth: "После активации eSIM нужно ждать несколько часов."
+    truth: "Активация eSIM занимает 5-10 минут после загрузки документов. Интернет появляется сразу после подключения к сети."
 
 
 # Data sources
-data_sources_title: "Hongkong mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Hongkong"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla’s Speedtest Intelligence report for 1H 2025 provides median download/upload speeds, 5G performance, consistency, and availability for Hong Kong mobile operators. Data collected from millions of user-initiated tests."
+    description: "Отчёт о скорости мобильного интернета в Гонконге за первое полугодие 2025 года. Данные включают медианные скорости загрузки, отдачи и задержку для всех операторов."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal’s Hong Kong Mobile Network Experience Report (January 2025) evaluates video experience, download speed, upload speed, and latency for major operators including China Mobile Hong Kong, csl, and SmarTone."
+    description: "Анализ покрытия 5G и стабильности сети в Гонконге. Подтверждает лидерство China Mobile Hong Kong по доступности 5G."
 
-  - name: "OFCA (Office of the Communications Authority) 2025"
-    description: "The Hong Kong telecom regulator publishes annual spectrum allocation and network quality benchmarks. OFCA’s 2025 report confirms spectrum holdings and compliance with service quality standards."
+  - name: "OFCA (Управление связи Гонконга) 2025"
+    description: "Официальные данные регулятора о спектре частот и качестве услуг операторов связи в Гонконге."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports (Ookla, OpenSignal, OFCA) for the period 1H 2025. Speed test results may vary based on device, location, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your device, time of day, and specific location within Hong Kong. Always check the latest provider coverage maps before purchasing."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах, включая [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025), OpenSignal и OFCA. Скорость может варьироваться в зависимости от местоположения и времени суток."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от вашего местоположения, времени суток и загрузки сети. Рекомендуется выбирать eSIM с поддержкой 5G для максимальной производительности."
 
 # CTA product card
-cta_title: "Secure your Hongkong eSIM today"
-cta_desc: "Get immediate access to Hong Kong’s fastest 5G network with Roami. Instant QR activation, no roaming fees, and 24/7 support. Perfect for business and leisure travelers."
-cta_button_text: "Buy Hongkong eSIM now"
+cta_title: "Получите вашу eSIM для Hongkong сегодня"
+cta_desc: "Мгновенный доступ к высокоскоростному интернету 5G. Активация за 5 минут, никаких скрытых платежей."
+cta_button_text: "Купить eSIM для Hongkong сейчас"
 cta_button_link: "/hong-kong-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Hongkong trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Hongkong"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Hongkong eSIM: Instant plug-and-play travel internet
+# Hongkong eSIM: Гибкие тарифы на несколько дней
 
-> **💡 Short summary for travelers:** 【Worry‑free global business travel: one eSIM for high‑speed networks across multiple countries】 Roami’s Hongkong eSIM leverages the top‑tier network of China Mobile Hong Kong, which recorded a median download speed of 119.24 Mbps and a 5G median download of 185.43 Mbps in 1H 2025 ([Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025)). Whether you are in Central, Tsim Sha Tsui, or the New Territories, you get consistent, low‑latency connectivity. No roaming fees, instant QR activation – the smart choice for seamless travel.
+> **💡 Краткое резюме для путешественников:** 【Обязательна для международных поездок: решения 5G eSIM с бесшовным переключением сетей】. Roami предлагает eSIM для Hongkong, которая автоматически подключается к лучшей местной сети. Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025), China Mobile Hong Kong лидирует с медианной скоростью загрузки 119.24 Мбит/с и 5G скоростью 185.43 Мбит/с, обеспечивая идеальный интернет для навигации, стриминга и работы. Выбирайте Roami для надёжного соединения без роуминга.
 
-## Things you need to know before buying a Hongkong eSIM
+## Что нужно знать перед покупкой eSIM для Hongkong
 
 
-### 1. Main 5G/4G frequency bands in Hongkong {#1-main-5g4g-frequency-bands-in-hongkong}
-Hong Kong operators use the following key bands: 5G: n1 (2100 MHz), n78 (3500 MHz), n79 (4900 MHz). 4G: B1 (2100 MHz), B3 (1800 MHz), B7 (2600 MHz), B8 (900 MHz), B28 (700 MHz). Ensure your device supports these bands for optimal performance.
+### 1. Основные диапазоны частот 5G/4G {#1-основные-диапазоны-частот-5g4g}
+В Гонконге используются диапазоны 5G: n1 (2100 МГц), n78 (3500 МГц) и n79 (4900 МГц). 4G LTE работает на Band 1, 3, 7, 8, 40. Убедитесь, что ваш смартфон поддерживает эти частоты для оптимальной работы.
 
-### 2. KYC (Know Your Customer) requirements {#2-kyc-know-your-customer-requirements}
-All Hong Kong eSIM providers require identity verification. You must upload a clear photo of your passport or Hong Kong ID during activation. Some providers also require a selfie for facial matching. This is mandatory under Hong Kong’s Telecommunications Ordinance.
+### 2. Требования KYC (идентификация) {#2-требования-kyc-идентификация}
+Для активации eSIM в Гонконге требуется загрузить фотографию паспорта и селфи с паспортом. Процесс занимает 5-10 минут. Без этого eSIM не будет активирована.
 
-### 3. Fair Usage Policy (FUP) and data caps {#3-fair-usage-policy-fup-and-data-caps}
-Most unlimited data plans have a FUP threshold (e.g., 10 GB per day at full speed, then throttled to 1 Mbps). Always check the fine print. China Mobile Hong Kong’s prepaid eSIM plans typically offer 20 GB high‑speed data before throttling.
+### 3. Политика добросовестного использования (Fair Usage Policy) {#3-политика-добросовестного-использования-fair-usage-policy}
+Безлимитные тарифы могут иметь ограничение скорости после 1-2 ГБ в день. Для потокового видео в HD рекомендуется выбирать тарифы с большим объёмом данных (10+ ГБ).
 
-### 4. eSIM compatibility and activation {#4-esim-compatibility-and-activation}
-eSIM is supported on iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and most recent Android flagships. Activation is instant via QR code. Ensure your device is unlocked and not carrier‑locked to a different region.
+### 4. Совместимость устройств {#4-совместимость-устройств}
+eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее. Проверьте список совместимости перед покупкой.
 
-### 5. Network coverage in remote areas {#5-network-coverage-in-remote-areas}
-While urban coverage is excellent, remote areas like Sai Kung, outlying islands (e.g., Cheung Chau, Lamma), and deep country parks may have weaker signals. China Mobile Hong Kong offers the widest 5G coverage, but csl provides the most consistent connection in fringe zones.
+### 5. Срок действия и пополнение {#5-срок-действия-и-пополнение}
+Туристические eSIM обычно действуют от 1 до 30 дней. Пополнение невозможно — после истечения срока нужно покупать новую eSIM. Выбирайте тариф с запасом дней.

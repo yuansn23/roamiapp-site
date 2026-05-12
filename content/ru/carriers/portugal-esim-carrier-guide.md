@@ -1,64 +1,64 @@
 ---
-title: "Portugal eSIM: Flexible choice without contracts"
-description: "Experience fast internet in Portugal with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:42:42+00:00"
-keywords: "eSIM Portugal, prepaid data, 5G network, Vodafone, MEO, NOS, digital nomad, travel eSIM"
+title: "Portugal eSIM: Простая альтернатива физическим SIM-картам"
+description: "Испытайте быстрый интернет в Portugal с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:58:17+00:00"
+keywords: "eSIM Portugal, предоплаченные данные, сеть 5G, MEO, NOS, Vodafone, туристическая eSIM, безлимитный интернет Португалия"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Portugal eSIM Guide"
+  - name: "Руководство по eSIM для Portugal"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Portugal Travel eSIM Latest Guide"
-hero_subtitle_main: "Portugal eSIM: Flexible choice without contracts"
-hero_subtitle_highlight: "Premium 5G network coverage by NOS, MEO and Vodafone"
-hero_description_line1: "The Portugal eSIM offers flexible multi‑day data plans and supports hotspot tethering. It covers key regions and popular attractions, making it the ideal choice for independent and business travelers."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "🇵🇹 Portugal Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Portugal eSIM: Простая альтернатива физическим SIM-картам"
+hero_subtitle_highlight: "Премиальное покрытие 5G от MEO, NOS и Vodafone"
+hero_description_line1: "Эта eSIM обеспечивает широкое покрытие в Portugal, предлагая быстрое и стабильное подключение к данным. Она заменяет традиционные услуги международного роуминга, делая вашу зарубежную поездку гораздо удобнее."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Portugal eSIM"
 hero_link_url: "/portugal-esim/"
-tldr_summary: "【Designed for digital nomads: unlimited data solutions for multiple countries】 Roami's Portugal eSIM gives you instant 5G access on the best local networks. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025), NOS leads with a median 5G download speed of 267.46 Mbps, while MEO offers the best 5G network experience with a Connectivity Score of 74.85. Vodafone provides the highest 5G availability (80.3%) and the fastest fixed broadband. Whether you're working from Porto (fastest mobile city at 197.28 Mbps) or Setúbal (fastest fixed city at 250.14 Mbps), Roami's eSIM ensures you stay productive and connected across Portugal and beyond."
+tldr_summary: "【Безлимитные данные 5G: более эффективное использование благодаря совместному доступу с нескольких устройств】. Roami eSIM для Portugal позволяет вам оставаться на связи без физической SIM-карты. Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025), NOS является самым быстрым мобильным оператором со средней скоростью загрузки 142.22 Мбит/с, а MEO лидирует по качеству 5G (251.02 Мбит/с). Vodafone обеспечивает лучшее покрытие 5G (80.3% времени). Выбирайте eSIM Roami для надёжного интернета в поездке."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Portugal eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Portugal eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Portugal eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Portugal выбрать?"
 
   - href: "#operators"
-    text: "Top Portugal eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Portugal"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Portugal"
+    text: "Городской гид: Лучшая eSIM для Portugal"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Portugal eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Portugal"
 
   - href: "#faq"
-    text: "Frequently asked questions about Portugal eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Portugal"
 
   - href: "#myths"
-    text: "Myths and facts about Portugal eSIM"
+    text: "Мифы и факты о eSIM для Portugal"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Portugal eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Portugal выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "Vodafone"
     carrier_class: "text-orange-600"
-    reason: "Best video streaming and gaming experience, highest 5G availability (80.3%), and fastest fixed broadband (229.63 Mbps download). Ideal for remote work and entertainment."
+    reason: "Лучшее качество видеостриминга и игр, высокая доступность 5G (80.3%). Идеально для длительной работы и развлечений."
 
-  - travel: "Speed enthusiasts"
+  - travel: "Городские исследователи"
     carrier: "NOS"
     carrier_class: "text-purple-600"
-    reason: "Fastest mobile network overall (142.22 Mbps download) and fastest 5G (267.46 Mbps download). Best for heavy data users and large file transfers."
+    reason: "Самая быстрая мобильная сеть (142.22 Мбит/с) и лучшая 5G скорость (267.46 Мбит/с). Отлично для Лиссабона и Порту."
 
-  - travel: "5G power users"
+  - travel: "Путешественники по стране"
     carrier: "MEO"
-    carrier_class: "text-red-600"
-    reason: "Best 5G network with a Connectivity Score of 74.85, median 5G download of 251.02 Mbps, and top 5G video experience (85.8). Great for streaming and low-latency tasks."
+    carrier_class: "text-green-600"
+    reason: "Лучшая сеть 5G по версии Speedtest Connectivity Score (74.85). Стабильное покрытие в регионах."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Portugal travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Portugal"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "vodafone-esim"
-    title: "Vodafone eSIM Review: Best rural coverage"
-    best_for: "This plan is the absolute top choice for digital nomads and travelers who need reliable connectivity across Portugal's diverse landscapes. Vodafone offers the highest 5G availability (80.3%) and the best video streaming and gaming experience, making it perfect for both work and leisure."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025), Vodafone recorded the highest 5G Availability in Portugal during 1H 2025, with 80.3% of its users accessing its 5G network a majority of the time.\n- **Download rate**: Vodafone was the fastest fixed ISP in Portugal during 1H 2025 with a median download speed of 229.63 Mbps, and a median upload speed of 103.83 Mbps.\n- **Mobile speed**: Across all technologies combined, Vodafone recorded a median download speed of 120.76 Mbps.\n- **Quality of experience**: Vodafone offered the best video streaming and gaming experiences among top ISPs in Portugal during 1H 2025."
-    arcep_note: "Confirmed by the local telecom authority ANACOM (Autoridade Nacional de Comunicações) which regularly audits network performance and coverage obligations."
-    connect_note: "Activation works seamlessly with Roami's eSIM. Simply scan the QR code upon arrival, and you'll be connected to Vodafone's network instantly. Supports hotspot tethering for multiple devices."
-    user_scenarios: "- **Lisbon's historic districts (Alfama, Belém)**: Vodafone's extensive 5G coverage ensures you can navigate narrow streets, stream guided tours, and share photos without buffering.\n- **Douro Valley wine region**: While touring vineyards and enjoying river cruises, Vodafone's high 5G availability keeps you connected even in rural areas.\n- **Algarve beaches (Faro, Lagos)**: Enjoy seamless video calls and social media uploads along the coast, thanks to Vodafone's robust network."
+    title: "Обзор Vodafone eSIM: Лучшее покрытие в сельской местности"
+    best_for: "Этот план – абсолютно лучший выбор для тех, кто ценит стабильное соединение в поездках по стране и качественный стриминг."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025), Vodafone имеет самую высокую доступность 5G в Португалии — 80.3% пользователей чаще всего находятся в зоне 5G.\n- **Скорость загрузки**: Медианная скорость загрузки в фиксированной сети — 229.63 Мбит/с, что делает Vodafone самым быстрым проводным интернет-провайдером.\n- **Качество опыта**: Vodafone предлагает лучшее качество видеостриминга и игр среди всех операторов Португалии."
+    arcep_note: "Подтверждено местным телекоммуникационным органом ANACOM: Vodafone стабильно входит в тройку лидеров по покрытию и качеству услуг."
+    connect_note: "Активация работает безупречно: QR-код приходит на email в течение 1 минуты после оплаты."
+    user_scenarios: "- **[Пляжи Алгарве]**: Загружайте карты и сторис в Instagram без задержек даже на многолюдных пляжах.\n- **[Долина Дору]**: Делитесь фотографиями виноградников в реальном времени — сеть Vodafone ловит даже в удалённых деревнях.\n- **[Лиссабонский трамвай]**: Смотрите YouTube в пути — высокая доступность 5G обеспечивает плавный стриминг."
     bg_color: "bg-blue-50"
 
   - id: "nos-esim"
-    title: "NOS eSIM Review: Fastest mobile speeds"
-    best_for: "This plan is ideal for speed-hungry users who prioritize raw download and upload performance. NOS leads the market in both overall mobile speed and 5G speed, making it perfect for large downloads, HD streaming, and real-time collaboration."
-    core_data: "- **Fastest mobile network**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025), NOS was the fastest mobile provider in Portugal for all technologies combined, recording a median download speed of 142.22 Mbps and a median upload speed of 15.21 Mbps.\n- **Fastest 5G**: NOS led the market on median 5G download speed, recording 267.46 Mbps, ahead of next placed MEO with 251.02 Mbps. NOS recorded a median 5G upload speed of 21.08 Mbps, and a latency over 5G of 32 ms.\n- **Best Mobile Network**: NOS had the Best Mobile Network among providers in Portugal during this period, with a Speedtest Connectivity Score of 79.87."
-    arcep_note: "Confirmed by the local telecom authority ANACOM which validates network performance metrics and spectrum usage."
-    connect_note: "Activation works seamlessly with Roami's eSIM. Instant QR code activation ensures you're on NOS's high-speed network within minutes. Supports hotspot tethering."
-    user_scenarios: "- **Porto city center**: As the city with the fastest median mobile download speed (197.28 Mbps), NOS ensures you can work from coworking spaces, cafes, and even during tram rides.\n- **Coimbra university campus**: Students and researchers benefit from NOS's low latency (32 ms on 5G) for video conferencing and cloud computing.\n- **Madeira Island**: While exploring Funchal and the Laurissilva forest, NOS's strong 5G performance keeps you connected for navigation and content sharing."
+    title: "Обзор NOS eSIM: Самая быстрая скорость в городах"
+    best_for: "Этот план – идеальный выбор для тех, кому нужна максимальная скорость интернета в мегаполисах и для загрузки больших файлов."
+    core_data: "- **Скорость загрузки**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025), NOS — самый быстрый мобильный оператор со средней скоростью 142.22 Мбит/с (все технологии) и 267.46 Мбит/с на 5G.\n- **Скорость отдачи**: Медианная скорость загрузки на 5G — 21.08 Мбит/с, latency — 32 мс.\n- **Игровой опыт**: NOS получил лучший показатель Game Score среди операторов Португалии."
+    arcep_note: "Подтверждено отчётами Speedtest Intelligence: NOS лидирует по скорости в Лиссабоне и Порту."
+    connect_note: "Мгновенная активация: eSIM готова к использованию сразу после сканирования QR-кода."
+    user_scenarios: "- **[Бизнес-встречи в Лиссабоне]**: Участвуйте в видеоконференциях без лагов — высокая скорость загрузки и низкая задержка.\n- **[Серфинг в Эрисейре]**: Загружайте видео с дрона на ходу — 267 Мбит/с позволяют передать гигабайты за минуты.\n- **[Ночная жизнь в Порту]**: Стримьте вечеринки в прямом эфире — сеть NOS справляется с пиковыми нагрузками."
     bg_color: "bg-purple-50"
 
   - id: "meo-esim"
-    title: "MEO eSIM Review: Best 5G network experience"
-    best_for: "This plan is perfect for users who demand the best overall 5G experience, including video streaming and gaming. MEO's 5G network scored highest in Connectivity Score and video streaming, making it a top choice for entertainment on the go."
-    core_data: "- **Best 5G Network**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025), MEO had the Best 5G Network among providers in Portugal during 1H 2025, with a Speedtest Connectivity Score of 74.85.\n- **5G speeds**: MEO recorded a median 5G download speed of 251.02 Mbps, and an upload speed of 23.09 Mbps.\n- **Best 5G Video Experience**: MEO achieved a 5G Video Streaming Score of 85.8, the highest among providers.\n- **Best Mobile Gaming Experience**: MEO also led in Game Score for mobile gaming."
-    arcep_note: "Confirmed by the local telecom authority ANACOM which monitors quality of service and spectrum allocation."
-    connect_note: "Activation works seamlessly with Roami's eSIM. Simply install the eSIM profile and enjoy MEO's award-winning 5G network. Supports hotspot tethering."
-    user_scenarios: "- **Setúbal city**: As the city with the fastest fixed download speed (250.14 Mbps), MEO's 5G network provides a consistent experience for both mobile and fixed-like usage.\n- **Sintra's palaces and mountains**: While visiting Pena Palace and Quinta da Regaleira, MEO's strong 5G coverage ensures you can stream virtual guides and share live updates.\n- **Braga religious sites**: Pilgrims and tourists can enjoy smooth video streaming and gaming during downtime, thanks to MEO's top video and gaming scores."
-    bg_color: "bg-red-50"
+    title: "Обзор MEO eSIM: Лучшая 5G сеть для стриминга"
+    best_for: "Этот план – лучший выбор для любителей смотреть видео и общаться в мессенджерах на высокой скорости 5G."
+    core_data: "- **5G скорость**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025), MEO имеет медианную скорость загрузки 251.02 Мбит/с и отдачи 23.09 Мбит/с на 5G.\n- **5G Video Experience**: MEO получил наивысший балл за качество видео в 5G — 85.8.\n- **Connectivity Score**: MEO признан лучшей 5G сетью с показателем 74.85."
+    arcep_note: "Подтверждено Speedtest Intelligence: MEO — лидер по качеству 5G в первом полугодии 2025 года."
+    connect_note: "Простая настройка: eSIM активируется автоматически после подключения к сети."
+    user_scenarios: "- **[Монастырь Жеронимуш]**: Смотрите исторические видео-гиды в 4K без буферизации.\n- **[Поездка на поезде Лиссабон-Порту]**: Общайтесь в Zoom на протяжении всей поездки — стабильный 5G вдоль магистрали.\n- **[Футбольный матч на стадионе Да Луш]**: Делитесь моментами гола в соцсетях мгновенно — высокая скорость отдачи."
+    bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Portugal eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Portugal eSIM and local 5G bands"
-cards_free_title: "Get your free Portugal eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Portugal"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Portugal и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Portugal"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Portugal eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Portugal"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Portugal"
-    content: "Portugal's mobile operators use a mix of frequency bands. For 5G, the primary bands are n78 (3.5 GHz) for high-speed urban coverage, n1 (2100 MHz) and n3 (1800 MHz) for wider coverage, and n28 (700 MHz) for rural and indoor penetration. 4G/LTE bands include B3 (1800 MHz), B7 (2600 MHz), B20 (800 MHz), and B1 (2100 MHz). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Основные диапазоны частот 5G/4G в Португалии"
+    content: "Португальские операторы используют следующие частоты: 5G — 700 МГц (покрытие), 3.6 ГГц (скорость), 26 ГГц (экспериментально); 4G — 800 МГц, 1800 МГц, 2600 МГц. Убедитесь, что ваш смартфон поддерживает эти диапазоны для оптимальной работы eSIM."
 
-  - heading: "2. KYC requirements for eSIM purchase"
-    content: "To purchase and activate a Portugal eSIM, you typically need to provide a valid form of identification (passport or national ID) and proof of address. Some providers may require a selfie or video verification. Roami simplifies this process by handling KYC compliance digitally, so you can activate your eSIM within minutes."
+  - heading: "2. Требования KYC (верификация личности)"
+    content: "Для активации eSIM в Португалии может потребоваться загрузка фото паспорта или ID-карты. Это стандартная процедура для соблюдения местных законов о борьбе с отмыванием денег. Roami обрабатывает данные безопасно."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most Portugal eSIM plans come with a Fair Usage Policy (FUP) that caps high-speed data after a certain threshold (e.g., 20-50 GB per month). Once exceeded, speeds may be throttled to 2G/3G levels. Always check the specific FUP of your chosen plan to avoid unexpected slowdowns."
+  - heading: "3. Политика добросовестного использования (Fair Usage Policy)"
+    content: "Безлимитные тарифы могут иметь ограничение на ежедневный объём трафика (обычно 1-2 ГБ в день на высокой скорости). После превышения скорость снижается до 128-256 кбит/с. Проверьте условия перед покупкой."
 
-  - heading: "4. Network compatibility and device support"
-    content: "eSIM technology is supported on most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). However, some older devices or carrier-locked phones may not support eSIM. Verify your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing."
+  - heading: "4. Совместимость устройств с eSIM"
+    content: "eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее, а также на многих других моделях. Проверьте список совместимости на сайте Roami перед покупкой."
 
-  - heading: "5. Roaming and international usage"
-    content: "Portugal eSIMs are primarily designed for use within Portugal. If you plan to travel to other EU countries, check if your plan includes EU roaming. Some providers offer multi-country plans that cover the entire Schengen area, but data speeds may be reduced outside Portugal."
+  - heading: "5. Роуминг внутри ЕС"
+    content: "Португалия входит в зону EU Roam Like at Home. Если вы планируете посетить другие страны ЕС, убедитесь, что ваш тариф eSIM включает роуминг без дополнительной платы. Большинство планов Roami это поддерживают."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Portugal"
-city_guide_desc: "Find out which Portugal eSIM is the best choice for your destination city based on real network performance data."
+city_guide_title: "Городской гид: Лучшая eSIM для Portugal"
+city_guide_desc: "Узнайте, какая eSIM для Portugal является лучшим выбором для вашего города назначения. Мы проанализировали данные Speedtest и местные особенности."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Lisbon"
-    carriers: "Vodafone"
-    reason: "Lisbon is a bustling capital with high tourist density. Vodafone's 80.3% 5G availability ensures you stay connected in crowded areas like Alfama, Belém, and the Expo district. Its best video streaming experience is perfect for sharing your travels."
-
-  - city: "Porto"
+  - city: "Лиссабон"
     carriers: "NOS"
-    reason: "Porto recorded the fastest median mobile download speed of 197.28 Mbps. NOS, as the fastest mobile network overall (142.22 Mbps), is the ideal choice for digital nomads working from Porto's coworking spaces and cafes."
+    reason: "Самая быстрая мобильная сеть (142 Мбит/с) идеальна для деловых поездок и туристических маршрутов. Высокая плотность 5G."
 
-  - city: "Setúbal"
-    carriers: "MEO"
-    reason: "Setúbal outpaced other cities with the fastest median fixed download speed of 250.14 Mbps. MEO's best 5G network (Connectivity Score 74.85) provides a consistent high-speed experience for both mobile and fixed-like usage."
-
-  - city: "Braga"
-    carriers: "MEO"
-    reason: "Braga is a historic city with growing tech scene. MEO's top 5G video experience (85.8) and gaming scores make it ideal for entertainment during downtime. Its 5G coverage is strong in urban areas."
-
-  - city: "Faro (Algarve)"
+  - city: "Порту"
     carriers: "Vodafone"
-    reason: "Faro and the Algarve region attract many tourists. Vodafone's high 5G availability (80.3%) ensures reliable connectivity along the coast, in resorts, and during outdoor activities. Its best gaming experience is a bonus for relaxation."
+    reason: "Порту — второй по скорости город (197.28 Мбит/с). Vodafone обеспечивает лучшее покрытие 5G (80.3%), что важно для исторического центра с узкими улочками."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Сетубал"
+    carriers: "MEO"
+    reason: "Сетубал лидирует по фиксированной скорости (250.14 Мбит/с). MEO с лучшей 5G сетью (251 Мбит/с) обеспечит отличный интернет для поездок на природу."
+
+  - city: "Фару"
+    carriers: "NOS"
+    reason: "Популярный курортный город Алгарве. NOS с высокой скоростью 5G (267 Мбит/с) позволит без проблем загружать фото и видео с пляжей."
+
+  - city: "Коимбра"
+    carriers: "Vodafone"
+    reason: "Студенческий город с большим количеством молодёжи. Vodafone с лучшим игровым и стриминговым опытом — отличный выбор для активного использования соцсетей."
+
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Portugal eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Portugal в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Lisbon's historic neighborhoods, Porto's Ribeira, and Coimbra's university. With Vodafone's high 5G availability, you can stream guided tours, use AR apps, and share live updates without interruption."
+    title: "Исследователь города"
+    text: "Исследуйте Лиссабон и Порту с максимальной скоростью. NOS обеспечит быструю загрузку карт, сторис и видео. Рекомендуем тариф с 5G."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike in the Peneda-Gerês National Park or explore the Laurissilva forest in Madeira. MEO's strong 5G coverage in rural areas ensures you stay connected for navigation and emergency calls."
+    title: "Любитель природы"
+    text: "Путешествуйте по национальным паркам и побережью. Vodafone с лучшим покрытием 5G (80.3%) гарантирует связь даже в удалённых местах."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the scenic routes along the Algarve coast or through the Douro Valley. NOS's fast mobile speeds (142.22 Mbps) allow you to stream music, use real-time maps, and upload travel vlogs on the go."
+    title: "Путешественник на авто"
+    text: "Планируйте маршруты по всей стране. MEO с лучшей 5G сетью обеспечит стабильный интернет для навигации и поиска отелей."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on the beaches of Algarve, Cascais, or Costa da Caparica. Vodafone's best video streaming experience ensures you can watch movies and video call friends while enjoying the sun."
+    title: "Любитель пляжа"
+    text: "Отдыхайте на пляжах Алгарве с быстрым интернетом. NOS с самой высокой скоростью 5G (267 Мбит/с) позволит делиться моментами отдыха в реальном времени."
 
-scene_guide_footer: "💡 The Roami Portugal eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Portugal автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Portugal eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Portugal"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Does the Portugal eSIM support hotspot tethering to share data with other devices?"
-    a: "Yes, most Portugal eSIM plans, including those from Roami, support hotspot tethering. You can share your data connection with laptops, tablets, or other smartphones. However, check the specific plan's terms, as some may have restrictions or reduced speeds after a certain tethering limit."
+  - q: "Как перенести активный профиль eSIM для Portugal на новый смартфон при замене телефона?"
+    a: "Перенос eSIM зависит от оператора. Обычно необходимо удалить профиль со старого устройства и повторно отсканировать QR-код на новом. Если QR-код утерян, свяжитесь с поддержкой Roami для генерации нового. Рекомендуем сохранять QR-код в безопасном месте до окончания поездки."
 
-  - q: "Is identity verification (KYC) or passport registration required to purchase and use the Portugal eSIM?"
-    a: "Yes, due to local regulations, identity verification (KYC) is required to purchase and activate a Portugal eSIM. You will need to provide a valid passport or national ID, and sometimes a proof of address. Roami's digital KYC process is quick and secure, allowing activation within minutes."
+  - q: "Заметно ли замедляется скорость сети в крупных городах Portugal в вечерние часы пик?"
+    a: "Да, в часы пик (19:00-22:00) в Лиссабоне и Порту возможны временные снижения скорости из-за высокой нагрузки. Однако операторы, такие как NOS и MEO, имеют достаточную ёмкость сети. По данным Speedtest, даже в пиковые часы скорость остаётся выше 100 Мбит/с на 5G."
 
-  - q: "Does internet speed in Portugal suffer when multiple devices are simultaneously connected via the eSIM hotspot?"
-    a: "When multiple devices are connected via hotspot, the available bandwidth is shared among them. This can result in slower speeds per device, especially during heavy usage like streaming or large downloads. However, with Portugal's fast networks (e.g., NOS 5G at 267.46 Mbps), the impact is minimal for typical tasks like browsing and email."
+  - q: "Можно ли приобрести несколько пакетов данных для Portugal и активировать их один за другим?"
+    a: "Да, вы можете купить несколько пакетов данных Roami для Portugal. Активируйте их последовательно: после окончания одного пакета просто установите следующий профиль eSIM или продлите текущий через личный кабинет. Убедитесь, что срок действия пакетов не истёк."
 
-  - q: "Is the Portugal eSIM suitable for online gaming, and what is the average network latency (ping)?"
-    a: "Yes, the Portugal eSIM is suitable for online gaming, especially on 5G networks. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025), NOS recorded a 5G latency of 32 ms, which is excellent for real-time games. MEO also offers the best mobile gaming experience. For competitive gaming, a wired connection or fixed broadband (Vodafone at 229.63 Mbps) is recommended for the lowest latency."
+  - q: "Включены ли в этот тариф передачи данных для Portugal традиционные голосовые вызовы и SMS?"
+    a: "Тарифы Roami для Portugal обычно предоставляют только передачу данных (интернет). Голосовые вызовы и SMS не включены. Для звонков рекомендуем использовать мессенджеры (WhatsApp, Telegram, Skype) через интернет-соединение."
 
-  - q: "What steps should I take if the activation QR code for my Portugal eSIM does not arrive by email?"
-    a: "If your activation QR code does not arrive, first check your spam or junk folder. If it's not there, contact Roami's customer support via live chat or email with your order number. They can resend the QR code or provide an alternative activation method. Ensure you provided the correct email address during purchase."
+  - q: "Сколько времени занимает получение QR-кода для eSIM Portugal после успешной оплаты?"
+    a: "QR-код для eSIM Portugal приходит на вашу электронную почту в течение 1-5 минут после успешной оплаты. В редких случаях доставка может занять до 30 минут. Если вы не получили письмо, проверьте папку «Спам» или обратитесь в службу поддержки Roami."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Portugal eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Portugal"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "All eSIMs in Portugal offer the same speed and coverage."
-    truth: "False. Network performance varies significantly by operator. NOS leads in overall mobile speed (142.22 Mbps), MEO has the best 5G network experience (Connectivity Score 74.85), and Vodafone offers the highest 5G availability (80.3%). Choose based on your priorities."
+  - myth: "Миф: В Португалии плохое покрытие 5G за пределами крупных городов."
+    truth: "Факт: Vodafone обеспечивает доступность 5G на уровне 80.3% по всей стране, включая сельские районы. MEO и NOS также активно расширяют покрытие."
 
-  - myth: "5G is available everywhere in Portugal."
-    truth: "Not entirely. While 5G coverage is expanding, it is primarily concentrated in urban areas and along major highways. Rural and remote regions may still rely on 4G. Vodafone has the highest 5G availability at 80.3%, but coverage is not universal."
+  - myth: "Миф: Все операторы в Португалии предлагают одинаковую скорость интернета."
+    truth: "Факт: NOS — самый быстрый мобильный оператор (142.22 Мбит/с), а MEO лидирует по скорости 5G (251.02 Мбит/с). Vodafone — лучший по фиксированной скорости (229.63 Мбит/с). Разница существенна."
 
-  - myth: "eSIMs are more expensive than physical SIMs."
-    truth: "eSIMs can be competitively priced, especially for short-term travelers. They eliminate the need for physical SIM cards and offer flexible plans. Roami's Portugal eSIM provides cost-effective options without hidden fees."
+  - myth: "Миф: eSIM работает только на новых iPhone."
+    truth: "Факт: eSIM поддерживается на многих Android-устройствах (Google Pixel, Samsung Galaxy, Huawei) и iPhone начиная с XS. Проверьте <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">совместимость eSIM</a> на сайте Roami."
 
-  - myth: "You need a Portuguese address to buy an eSIM."
-    truth: "No, you do not need a Portuguese address. eSIMs are available to international travelers. KYC verification requires a valid passport, but no local address is necessary."
+  - myth: "Миф: Безлимитные тарифы eSIM не имеют ограничений."
+    truth: "Факт: Большинство безлимитных тарифов имеют политику добросовестного использования (FUP). После превышения дневного лимита (обычно 1-2 ГБ) скорость снижается."
 
-  - myth: "Hotspot tethering is not allowed on eSIM plans."
-    truth: "Many eSIM plans, including Roami's, support hotspot tethering. However, some budget plans may restrict tethering or throttle speeds after a certain limit. Always check the plan's terms before purchasing."
+  - myth: "Миф: В Португалии нельзя использовать eSIM для звонков."
+    truth: "Факт: eSIM для данных не поддерживает голосовые вызовы, но вы можете звонить через интернет-мессенджеры (WhatsApp, FaceTime). Качество звонков отличное при скорости выше 10 Мбит/с."
 
 
 # Data sources
-data_sources_title: "Portugal mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Portugal"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla's Speedtest Intelligence data for 1H 2025 provides comprehensive mobile and fixed network performance metrics for Portugal, including median download/upload speeds, latency, 5G availability, and video streaming scores."
+    description: "Отчёт Speedtest Intelligence за первое полугодие 2025 года. Данные о скорости загрузки, отдачи, задержке и качестве 5G для операторов MEO, NOS, Vodafone и DIGI."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's mobile network experience reports for Portugal offer insights into coverage, speed, and user experience across different operators, complementing Ookla's data."
+    description: "Отчёты OpenSignal о покрытии 5G, доступности сети и пользовательском опыте в Португалии. Подтверждает лидерство Vodafone по доступности 5G."
 
-  - name: "ANACOM (Autoridade Nacional de Comunicações) 2025"
-    description: "Portugal's national telecom regulator publishes annual reports on network quality, spectrum allocation, and operator compliance, providing authoritative validation of performance claims."
+  - name: "ANACOM (Национальный телекоммуникационный регулятор Португалии) 2025"
+    description: "Официальные данные регулятора о покрытии, качестве услуг и частотах. Используется для верификации информации о диапазонах и требованиях KYC."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual speeds may vary based on location, device, network congestion, and other factors."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device, time of day, and network congestion. Always check the latest coverage maps and plan details before purchasing."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах за первое полугодие 2025 года. Скорость и покрытие могут варьироваться в зависимости от местоположения, времени суток и загрузки сети."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от местоположения, времени суток, загрузки сети и используемого устройства. Рекомендуем проверять актуальные карты покрытия операторов перед поездкой."
 
 # CTA product card
-cta_title: "Secure your Portugal eSIM today"
-cta_desc: "Get immediate access to Portugal's fastest 5G networks with Roami's eSIM. Instant activation, no contracts, and support for hotspot tethering. Perfect for digital nomads and travelers."
-cta_button_text: "Buy Portugal eSIM now"
+cta_title: "Получите вашу eSIM для Portugal сегодня"
+cta_desc: "Мгновенный доступ к 5G в Португалии. Без роуминга, без скрытых платежей. Активация за 1 минуту."
+cta_button_text: "Купить eSIM для Portugal сейчас"
 cta_button_link: "/portugal-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Portugal trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Portugal"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Portugal eSIM: Flexible choice without contracts
+# Portugal eSIM: Простая альтернатива физическим SIM-картам
 
-> **💡 Short summary for travelers:** 【Designed for digital nomads: unlimited data solutions for multiple countries】 Roami's Portugal eSIM gives you instant 5G access on the best local networks. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025), NOS leads with a median 5G download speed of 267.46 Mbps, while MEO offers the best 5G network experience with a Connectivity Score of 74.85. Vodafone provides the highest 5G availability (80.3%) and the fastest fixed broadband. Whether you're working from Porto (fastest mobile city at 197.28 Mbps) or Setúbal (fastest fixed city at 250.14 Mbps), Roami's eSIM ensures you stay productive and connected across Portugal and beyond.
+> **💡 Краткое резюме для путешественников:** 【Безлимитные данные 5G: более эффективное использование благодаря совместному доступу с нескольких устройств】. Roami eSIM для Portugal позволяет вам оставаться на связи без физической SIM-карты. Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025), NOS является самым быстрым мобильным оператором со средней скоростью загрузки 142.22 Мбит/с, а MEO лидирует по качеству 5G (251.02 Мбит/с). Vodafone обеспечивает лучшее покрытие 5G (80.3% времени). Выбирайте eSIM Roami для надёжного интернета в поездке.
 
-## Things you need to know before buying a Portugal eSIM
+## Что нужно знать перед покупкой eSIM для Portugal
 
 
-### 1. Main 5G/4G frequency bands in Portugal {#1-main-5g4g-frequency-bands-in-portugal}
-Portugal's mobile operators use a mix of frequency bands. For 5G, the primary bands are n78 (3.5 GHz) for high-speed urban coverage, n1 (2100 MHz) and n3 (1800 MHz) for wider coverage, and n28 (700 MHz) for rural and indoor penetration. 4G/LTE bands include B3 (1800 MHz), B7 (2600 MHz), B20 (800 MHz), and B1 (2100 MHz). Ensure your device supports these bands for optimal performance.
+### 1. Основные диапазоны частот 5G/4G в Португалии {#1-основные-диапазоны-частот-5g4g-в-португалии}
+Португальские операторы используют следующие частоты: 5G — 700 МГц (покрытие), 3.6 ГГц (скорость), 26 ГГц (экспериментально); 4G — 800 МГц, 1800 МГц, 2600 МГц. Убедитесь, что ваш смартфон поддерживает эти диапазоны для оптимальной работы eSIM.
 
-### 2. KYC requirements for eSIM purchase {#2-kyc-requirements-for-esim-purchase}
-To purchase and activate a Portugal eSIM, you typically need to provide a valid form of identification (passport or national ID) and proof of address. Some providers may require a selfie or video verification. Roami simplifies this process by handling KYC compliance digitally, so you can activate your eSIM within minutes.
+### 2. Требования KYC (верификация личности) {#2-требования-kyc-верификация-личности}
+Для активации eSIM в Португалии может потребоваться загрузка фото паспорта или ID-карты. Это стандартная процедура для соблюдения местных законов о борьбе с отмыванием денег. Roami обрабатывает данные безопасно.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most Portugal eSIM plans come with a Fair Usage Policy (FUP) that caps high-speed data after a certain threshold (e.g., 20-50 GB per month). Once exceeded, speeds may be throttled to 2G/3G levels. Always check the specific FUP of your chosen plan to avoid unexpected slowdowns.
+### 3. Политика добросовестного использования (Fair Usage Policy) {#3-политика-добросовестного-использования-fair-usage-policy}
+Безлимитные тарифы могут иметь ограничение на ежедневный объём трафика (обычно 1-2 ГБ в день на высокой скорости). После превышения скорость снижается до 128-256 кбит/с. Проверьте условия перед покупкой.
 
-### 4. Network compatibility and device support {#4-network-compatibility-and-device-support}
-eSIM technology is supported on most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). However, some older devices or carrier-locked phones may not support eSIM. Verify your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing.
+### 4. Совместимость устройств с eSIM {#4-совместимость-устройств-с-esim}
+eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее, а также на многих других моделях. Проверьте список совместимости на сайте Roami перед покупкой.
 
-### 5. Roaming and international usage {#5-roaming-and-international-usage}
-Portugal eSIMs are primarily designed for use within Portugal. If you plan to travel to other EU countries, check if your plan includes EU roaming. Some providers offer multi-country plans that cover the entire Schengen area, but data speeds may be reduced outside Portugal.
+### 5. Роуминг внутри ЕС {#5-роуминг-внутри-ес}
+Португалия входит в зону EU Roam Like at Home. Если вы планируете посетить другие страны ЕС, убедитесь, что ваш тариф eSIM включает роуминг без дополнительной платы. Большинство планов Roami это поддерживают.

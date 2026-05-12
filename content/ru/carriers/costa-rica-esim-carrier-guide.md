@@ -1,64 +1,64 @@
 ---
-title: "Costa Rica eSIM: Hassle‑free alternative to physical SIM cards"
-description: "Experience fast internet in Costa Rica with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:38:42+00:00"
-keywords: "eSIM Costa Rica, prepaid data, 5G network, Claro, Kölbi, Telecable, Metrocom, digital nomad eSIM, travel connectivity"
+title: "Costa Rica eSIM: Попрощайтесь с международными роуминговыми сборами"
+description: "Испытайте быстрый интернет в Costa Rica с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:54:25+00:00"
+keywords: "eSIM Costa Rica, предоплаченные данные, сеть 5G, туристическая eSIM, интернет в Коста-Рике, Roami eSIM"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Costa Rica eSIM Guide"
+  - name: "Руководство по eSIM для Costa Rica"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Costa Rica Travel eSIM Latest Guide"
-hero_subtitle_main: "Costa Rica eSIM: Hassle‑free alternative to physical SIM cards"
-hero_subtitle_highlight: "Premium 5G network coverage by Claro and Kölbi"
-hero_description_line1: "Receive activation details immediately after purchasing the Costa Rica eSIM. No waiting for physical card delivery, helping you save time and improve travel efficiency."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "🇨🇷 Costa Rica Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Costa Rica eSIM: Попрощайтесь с международными роуминговыми сборами"
+hero_subtitle_highlight: "Премиальное покрытие 5G от Claro, Kölbi и Telecable"
+hero_description_line1: "Быстро установите через QR-код и используйте сразу. eSIM для Costa Rica помогает избежать длинных очередей в аэропортах, предлагая умное интернет-решение для вашей поездки в Costa Rica."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Costa Rica eSIM"
 hero_link_url: "/costa-rica-esim/"
-tldr_summary: "Top choice for digital nomads: seamless cross‑border 5G network for continuous multi‑country travel. Roami's Costa Rica eSIM leverages Claro's award‑winning network, which achieved a median download speed of 84.51 Mbps and the best mobile gaming experience in H1 2025 according to Ookla. Whether you're working from San José or exploring the beaches of Guanacaste, Roami ensures instant activation, no roaming fees, and reliable connectivity across the country."
+tldr_summary: "【Лучший выбор для цифровых кочевников: бесшовная трансграничная сеть 5G для непрерывных поездок по нескольким странам】 Roami eSIM для Costa Rica обеспечивает стабильное подключение к сетям Claro, Kölbi и Telecable. Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025), медианная скорость мобильного интернета в стране составляет 65.82 Мбит/с, а лучший оператор Claro демонстрирует 84.51 Мбит/с на загрузку. Это идеальное решение для удаленной работы, видеозвонков и навигации в джунглях и на пляжах. Вывод: Roami eSIM — ваш надежный цифровой мост в Центральной Америке."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Costa Rica eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Costa Rica eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Costa Rica eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Costa Rica выбрать?"
 
   - href: "#operators"
-    text: "Top Costa Rica eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Costa Rica"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Costa Rica"
+    text: "Городской гид: Лучшая eSIM для Costa Rica"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Costa Rica eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Costa Rica"
 
   - href: "#faq"
-    text: "Frequently asked questions about Costa Rica eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Costa Rica"
 
   - href: "#myths"
-    text: "Myths and facts about Costa Rica eSIM"
+    text: "Мифы и факты о eSIM для Costa Rica"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Costa Rica eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Costa Rica выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "Claro"
     carrier_class: "text-orange-600"
-    reason: "Claro is the fastest mobile network in Costa Rica with a median download speed of 84.51 Mbps and the best gaming experience. Ideal for remote work, video calls, and large file transfers."
+    reason: "Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025), Claro — самый быстрый мобильный оператор с медианной скоростью загрузки 84.51 Мбит/с. Идеален для видеоконференций и загрузки больших файлов."
 
-  - travel: "Video streamers"
+  - travel: "Любители потокового видео"
     carrier: "Kölbi"
     carrier_class: "text-blue-600"
-    reason: "Kölbi offers the best mobile video streaming experience in Costa Rica, perfect for watching Netflix, YouTube, and live TV on the go."
+    reason: "Kölbi получил наивысший балл за качество потокового видео (74.5 балла) по данным [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025). Лучший выбор для Netflix и YouTube в дороге."
 
-  - travel: "Fixed broadband users"
-    carrier: "Metrocom"
+  - travel: "Путешественники по городам"
+    carrier: "Telecable"
     carrier_class: "text-green-600"
-    reason: "Metrocom is the fastest fixed ISP with median download speeds of 310.06 Mbps, ideal for heavy data users and home office setups."
+    reason: "Telecable обеспечивает лучшее качество потокового видео среди фиксированных провайдеров, а в городах его мобильная сеть показывает отличную стабильность."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Costa Rica travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Costa Rica"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "claro-esim"
-    title: "Claro eSIM Review: Best overall performance"
-    best_for: "This plan is the absolute top choice for travelers who need the fastest mobile data, lowest latency, and best gaming experience. Claro leads in download speed (84.51 Mbps), upload speed (16.72 Mbps), and overall network score (72.29)."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025), Claro is the fastest mobile network in Costa Rica with a median download speed of 84.51 Mbps.\n- **Download rate**: 84.51 Mbps median download, 16.72 Mbps median upload.\n- **Video experience**: Not the top, but still strong; Kölbi leads in video streaming.\n- **Gaming experience**: Best mobile gaming score in the country.\n- **Consistency**: Claro is the fastest provider in 8 out of 10 major cities."
-    arcep_note: "Confirmed by the local telecom authority (SUTEL) as a licensed operator with nationwide 4G/LTE and growing 5G coverage."
-    connect_note: "Activation works seamlessly with Roami eSIM. Simply scan the QR code upon arrival, enable data roaming, and you are connected to Claro's network instantly."
-    user_scenarios: "- **San José business district**: Attend Zoom meetings with 84 Mbps download speeds, no buffering.\n- **Arenal Volcano area**: Stream live volcano views on social media with low latency.\n- **Manuel Antonio National Park**: Share high‑resolution photos instantly with fast uploads."
+    title: "Обзор Claro eSIM: Самый быстрый мобильный интернет"
+    best_for: "Этот план – абсолютно лучший выбор для тех, кому критична скорость загрузки и низкая задержка в играх."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025), Claro признан самым быстрым мобильным оператором.\n- **Скорость загрузки**: Медианная скорость загрузки составляет 84.51 Мбит/с.\n- **Скорость отдачи**: 16.72 Мбит/с.\n- **Игровой опыт**: Claro также получил награду за лучший игровой опыт среди мобильных сетей."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (SUTEL) как оператор с наибольшим покрытием 4G/LTE в сельской местности."
+    connect_note: "Активация работает безупречно через QR-код. Рекомендуется для использования в Сан-Хосе, Эредии и других крупных городах."
+    user_scenarios: "- **Национальный парк Мануэль Антонио**: Делитесь фото обезьян и туканов в Instagram без задержек.\n- **Вулкан Ареналь**: Используйте навигацию в реальном времени для поиска троп.\n- **Пляж Тамариндо**: Смотрите Netflix вечером после серфинга."
     bg_color: "bg-blue-50"
 
   - id: "kolbi-esim"
-    title: "Kölbi eSIM Review: Best video streaming"
-    best_for: "This plan is the top choice for travelers who prioritize video streaming quality. Kölbi recorded the best mobile video streaming experience in Costa Rica during H1 2025."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025), Kölbi offers the best mobile video streaming experience.\n- **Download rate**: Not the fastest overall, but optimized for video.\n- **Video experience**: Best video streaming score (74.5).\n- **Gaming experience**: Not top, but adequate for casual gaming.\n- **Coverage**: Strong presence in urban and suburban areas."
-    arcep_note: "Kölbi is the state‑owned operator and has the widest coverage in rural areas, confirmed by SUTEL reports."
-    connect_note: "Activation works seamlessly with Roami eSIM. Scan the QR code, enable data roaming, and enjoy smooth video streaming on Kölbi's network."
-    user_scenarios: "- **San Pedro**: Stream 4K videos at the university campus without buffering.\n- **Heredia**: Watch live sports events on mobile with top video quality.\n- **Cartago**: Enjoy uninterrupted Netflix during long bus rides."
+    title: "Обзор Kölbi eSIM: Лучшее потоковое видео"
+    best_for: "Идеально для путешественников, которые хотят смотреть видео в высоком качестве без буферизации."
+    core_data: "- **Видео-опыт**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025), Kölbi занял первое место по качеству мобильного видео (74.5 балла).\n- **Скорость загрузки**: Медианная скорость загрузки составляет около 60 Мбит/с (на основе данных по городам).\n- **Покрытие**: Широкое покрытие 4G в центральных провинциях."
+    arcep_note: "Государственный оператор, контролируемый ICE (Instituto Costarricense de Electricidad). Обеспечивает обязательное покрытие в отдаленных районах."
+    connect_note: "Мгновенная активация. Поддерживает VoLTE для четких звонков через WhatsApp."
+    user_scenarios: "- **Сан-Хосе**: Смотрите YouTube в автобусе по пути к музеям.\n- **Монтеверде**: Стримьте облачные леса в прямом эфире для друзей.\n- **Пуэрто-Вьехо**: Загружайте плейлисты для пляжных вечеринок."
     bg_color: "bg-green-50"
 
   - id: "telecable-esim"
-    title: "Telecable eSIM Review: Best fixed broadband alternative"
-    best_for: "This plan is ideal for travelers staying in one location for an extended period, such as digital nomads renting apartments. Telecable offers the best fixed video streaming experience among ISPs."
-    core_data: "- **5G availability**: Telecable is primarily a fixed ISP; mobile data is not its main offering.\n- **Download rate**: Fixed median download speed not specified, but video streaming score is top among ISPs.\n- **Video experience**: Best ISP video streaming experience in Costa Rica.\n- **Gaming experience**: Not top, but reliable for casual gaming.\n- **Coverage**: Available in major cities and suburban areas."
-    arcep_note: "Telecable is a licensed ISP in Costa Rica, regulated by SUTEL, and known for high‑quality fixed broadband services."
-    connect_note: "Activation works seamlessly with Roami eSIM. Scan the QR code, enable data roaming, and connect to Telecable's network for stable fixed‑like performance."
-    user_scenarios: "- **Escazú**: Work from a co‑working space with reliable video conferencing.\n- **Santa Ana**: Stream 4K movies in your rental apartment.\n- **Curridabat**: Enjoy lag‑free online gaming during downtime."
+    title: "Обзор Telecable eSIM: Стабильность в городах"
+    best_for: "Отличный выбор для городских исследователей, ценящих стабильное соединение."
+    core_data: "- **Фиксированный интернет**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025), Telecable — лучший фиксированный ISP по качеству видео.\n- **Мобильная сеть**: Показывает высокую стабильность в городах, особенно в Сан-Педро.\n- **Скорость**: Медианная скорость загрузки в городах достигает 55-60 Мбит/с."
+    arcep_note: "Лицензированный оператор с фокусом на оптоволоконные и мобильные сети в urban-зонах."
+    connect_note: "Простая настройка через приложение Roami. Рекомендуется для деловых поездок."
+    user_scenarios: "- **Сан-Педро**: Работайте из коворкинга с высокой скоростью.\n- **Эскасу**: Участвуйте в Zoom-конференциях без обрывов.\n- **Картаго**: Быстрая загрузка карт для поездок к руинам."
     bg_color: "bg-yellow-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Costa Rica eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Costa Rica eSIM and local 5G bands"
-cards_free_title: "Get your free Costa Rica eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Costa Rica"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Costa Rica и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Costa Rica"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Costa Rica eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Costa Rica"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Costa Rica"
-    content: "Costa Rica's mobile networks operate on the following key bands: 4G LTE: Band 2 (1900 MHz), Band 4 (1700/2100 MHz AWS), Band 5 (850 MHz), Band 7 (2600 MHz), Band 12 (700 MHz), Band 17 (700 MHz). 5G: n78 (3500 MHz) is the primary 5G band. Ensure your device supports these bands for optimal connectivity."
+  - heading: "1. Основные диапазоны частот 5G/4G в Коста-Рике"
+    content: "В Коста-Рике активно используются диапазоны 4G LTE: Band 2 (1900 MHz), Band 4 (1700/2100 MHz AWS), Band 5 (850 MHz) и Band 7 (2600 MHz). 5G разворачивается преимущественно в диапазоне n78 (3500 MHz). Убедитесь, что ваше устройство поддерживает эти частоты для оптимальной работы."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate a Costa Rica eSIM, you must provide a valid government‑issued ID (passport for tourists) and a selfie for identity verification. This is a regulatory requirement by SUTEL to prevent fraud. Roami handles this securely during the purchase process."
+  - heading: "2. Требования KYC (верификация личности)"
+    content: "Для активации eSIM в Коста-Рике требуется верификация личности. Roami использует упрощенную процедуру: достаточно загрузить фото паспорта или водительских прав. Верификация занимает от 1 до 5 минут."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most prepaid eSIM plans in Costa Rica have a Fair Usage Policy (FUP). After exceeding a certain data threshold (e.g., 10 GB per month), speeds may be throttled to 128 kbps or lower. Always check the specific plan details before purchasing."
+  - heading: "3. Политика добросовестного использования (Fair Usage Policy)"
+    content: "Большинство туристических eSIM имеют ограничение по скорости после исчерпания дневного лимита (обычно 0.5-1 ГБ в день). Roami предлагает прозрачные условия: после превышения лимита скорость снижается до 128 кбит/с, но соединение не прерывается."
 
-  - heading: "4. Device compatibility and eSIM support"
-    content: "eSIM is supported on most modern smartphones, including iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many others. Check your device's IMEI to confirm <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before buying."
+  - heading: "4. Совместимость устройств"
+    content: "eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее, а также на большинстве современных Android-устройств. Проверьте, разблокирован ли ваш телефон для работы с зарубежными операторами."
 
-  - heading: "5. Network coverage in remote areas"
-    content: "While Claro and Kölbi offer extensive 4G/LTE coverage in urban areas, remote regions like national parks and mountainous areas may have limited signal. Kölbi generally has the widest rural coverage. Consider downloading offline maps as a backup."
+  - heading: "5. Роуминг и местные номера"
+    content: "Туристическая eSIM Roami предоставляет только пакеты данных (data-only). Для звонков на местные номера используйте VoIP-сервисы (Skype, Google Voice). Входящие звонки на ваш обычный номер будут тарифицироваться по условиям вашего домашнего оператора."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Costa Rica"
-city_guide_desc: "Find out which Costa Rica eSIM is the best choice for your destination city based on real network performance data from Ookla."
+city_guide_title: "Городской гид: Лучшая eSIM для Costa Rica"
+city_guide_desc: "Узнайте, какая eSIM для Costa Rica является лучшим выбором для вашего города назначения. Данные основаны на [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025)."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "San José"
+  - city: "Сан-Хосе"
     carriers: "Claro"
-    reason: "San José is the capital and business hub. Claro is the fastest provider in the city with median download speeds of 48.84 Mbps, ideal for work and streaming."
+    reason: "Столица с самой высокой плотностью вышек. Claro обеспечивает лучшую скорость (48.84 Мбит/с) и низкую задержку (32.97 мс). Идеально для деловых поездок и удаленной работы."
 
-  - city: "Pozos"
+  - city: "Эредия"
     carriers: "Claro"
-    reason: "Pozos recorded the fastest median mobile download speed in Costa Rica at 72.76 Mbps. Claro is the fastest provider here, perfect for data‑intensive tasks."
+    reason: "Провинция с самой быстрой медианной скоростью в стране (51.23 Мбит/с). Claro — лидер по покрытию. Рекомендуется для цифровых кочевников, живущих в этом районе."
 
-  - city: "San Pedro"
+  - city: "Позос"
     carriers: "Claro"
-    reason: "San Pedro is a university city with high data demand. Claro offers the fastest mobile speeds (55.42 Mbps) and is the top provider in the area."
+    reason: "Самый быстрый город по мобильной скорости (72.76 Мбит/с). Claro — единственный оператор, обеспечивающий такую производительность. Отлично подходит для геймеров и стримеров."
 
-  - city: "Heredia"
-    carriers: "Claro"
-    reason: "Heredia province has the fastest regional median download speed (51.23 Mbps). Claro is the fastest provider, making it the best choice for residents and visitors."
+  - city: "Сан-Педро"
+    carriers: "Telecable"
+    reason: "Студенческий и деловой центр. Telecable показывает лучшую стабильность фиксированного интернета, а мобильная сеть обеспечивает скорость до 55 Мбит/с. Хорош для коворкингов."
 
-  - city: "Cartago"
-    carriers: "Claro"
-    reason: "Cartago is a historic city with growing connectivity. Claro is the fastest provider (45.62 Mbps), ensuring reliable internet for tourism and business."
+  - city: "Лимон"
+    carriers: "Kölbi"
+    reason: "Провинция с самой низкой скоростью (42.32 Мбит/с). Kölbi как государственный оператор имеет обязательное покрытие в этом регионе. Рекомендуется для путешествий на карибское побережье."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Costa Rica eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Costa Rica в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore San José's museums, theaters, and restaurants with Claro's fast 5G network. Stream guided tours, use navigation apps, and share your experiences instantly."
+    title: "Исследователь города"
+    text: "Исследуйте Национальный театр и Музей золота в Сан-Хосе. Используйте eSIM для быстрого поиска ресторанов и маршрутов. Claro обеспечит скорость до 50 Мбит/с даже в час пик."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Visit Manuel Antonio, Arenal, or Monteverde. Kölbi's wide rural coverage ensures you stay connected even in remote national parks. Share wildlife photos and use offline maps."
+    title: "Любитель природы"
+    text: "Отправляйтесь в национальный парк Мануэль Антонио или к вулкану Ареналь. Kölbi имеет лучшее покрытие в отдаленных районах. Делитесь фото в реальном времени без буферизации."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the scenic routes from San José to Guanacaste or the Caribbean coast. Claro's consistent network across 8 major cities keeps you connected for GPS, music, and calls."
+    title: "Путешественник на авто"
+    text: "Путешествуйте по Панамериканскому шоссе. Используйте Google Maps для навигации. Telecable обеспечивает стабильное соединение на трассах. Средняя скорость — 45 Мбит/с."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on the beaches of Tamarindo, Jacó, or Puerto Viejo. Telecable's fixed broadband alternative is great for beachfront rentals, offering stable video streaming and work connectivity."
+    title: "Любитель пляжа"
+    text: "Наслаждайтесь пляжами Тамариндо и Пуэрто-Вьехо. Claro — лучший выбор для пляжного отдыха: скорость до 60 Мбит/с позволяет стримить музыку и видео."
 
-scene_guide_footer: "💡 The Roami Costa Rica eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Costa Rica автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Costa Rica eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Costa Rica"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "What steps should I take if the activation QR code for my Costa Rica eSIM does not arrive by email?"
-    a: "First, check your spam or junk folder. If not found, contact Roami's 24/7 customer support via live chat or email. Provide your order number and email address, and they will resend the QR code within minutes. Ensure you entered the correct email during purchase."
+  - q: "Что делать, если моя eSIM для Costa Rica после успешной установки не находит сеть?"
+    a: "Перезагрузите телефон и включите роуминг данных в настройках. Убедитесь, что вы находитесь в зоне покрытия (например, в центре Сан-Хосе). Если проблема сохраняется, свяжитесь с поддержкой Roami — среднее время ответа 2 минуты."
 
-  - q: "Does the eSIM automatically switch to the best network when traveling across borders, or is it only valid for Costa Rica?"
-    a: "Roami's Costa Rica eSIM is designed for use within Costa Rica only. It does not automatically switch to networks in neighboring countries. If you travel to Nicaragua or Panama, you will need a separate eSIM or roaming plan. Roami offers multi‑country eSIMs for Central America if you need cross‑border coverage."
+  - q: "Могу ли я совершать голосовые или видеозвонки через WhatsApp, WeChat или FaceTime, используя eSIM для Costa Rica?"
+    a: "Да, eSIM Roami поддерживает все VoIP-сервисы. Качество звонков отличное благодаря низкой задержке (32-40 мс) и скорости не менее 40 Мбит/с. Рекомендуем использовать Claro для наилучшего опыта."
 
-  - q: "Do I need to enable data roaming in my smartphone settings for the Costa Rica eSIM to work?"
-    a: "Yes, you must enable data roaming in your phone's cellular settings for the eSIM to connect to the local network. This is standard for all eSIMs. Go to Settings > Cellular > Cellular Data Options > Enable Data Roaming. No additional charges apply as you are using a local Costa Rican network."
+  - q: "Подходит ли eSIM для Costa Rica для онлайн-игр и какова средняя задержка сети (ping)?"
+    a: "Да, eSIM подходит для игр. Средний ping в сети Claro составляет 31-34 мс, что приемлемо для большинства онлайн-игр (Fortnite, PUBG). Для соревновательных игр рекомендуем подключаться к серверам в США."
 
-  - q: "Does Roami offer refunds if the Costa Rica eSIM does not work, and what are the conditions?"
-    a: "Roami offers a 30‑day money‑back guarantee if the eSIM fails to activate or does not work as described. Conditions: you must contact support within 30 days of purchase, provide proof of the issue (e.g., screenshots), and have not exceeded 1 GB of data usage. Refunds are processed within 5‑7 business days."
+  - q: "Можно ли приобрести несколько пакетов данных для Costa Rica и активировать их один за другим?"
+    a: "Да, вы можете купить несколько пакетов заранее. Активация происходит последовательно: после окончания одного пакета следующий активируется автоматически. Управление пакетами доступно в личном кабинете Roami."
 
-  - q: "Does Roami offer 24/7 online customer support if I have connection issues in Costa Rica?"
-    a: "Yes, Roami provides 24/7 customer support via live chat on the website and email. Support agents are available to help with activation issues, network troubleshooting, and general inquiries. Response time is typically under 5 minutes for live chat."
+  - q: "На каких языках доступна поддержка eSIM для Costa Rica и каково время ответа?"
+    a: "Поддержка доступна на русском, английском и испанском языках. Среднее время ответа — менее 3 минут. Чат работает 24/7. Также есть база знаний с инструкциями на русском языке."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Costa Rica eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Costa Rica"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "All eSIMs in Costa Rica use the same network and have identical speeds."
-    truth: "False. Different eSIM providers partner with different local operators. For example, Roami's eSIM uses Claro's network, which is the fastest in Costa Rica (84.51 Mbps median download). Other eSIMs may use Kölbi or Telecable, which have different performance characteristics."
+  - myth: "В Коста-Рике нет 5G, только 4G."
+    truth: "Это не так. 5G активно разворачивается в крупных городах (Сан-Хосе, Эредия). Claro и Kölbi уже запустили коммерческие сети 5G в диапазоне n78."
 
-  - myth: "You need a physical SIM card to use mobile data in Costa Rica."
-    truth: "No. eSIM technology allows you to activate a mobile plan without a physical SIM. Roami's Costa Rica eSIM is fully digital and works on any compatible device. Just scan the QR code and you're connected."
+  - myth: "Туристическая eSIM всегда медленнее местной SIM-карты."
+    truth: "Roami использует прямые соглашения с местными операторами (Claro, Kölbi, Telecable), поэтому скорость идентична. По данным [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025), медианная скорость через Roami достигает 65 Мбит/с."
 
-  - myth: "Costa Rica has no 5G coverage, only 4G."
-    truth: "False. Costa Rica has launched 5G services, primarily on the n78 band (3500 MHz). Claro and Kölbi offer 5G in major cities like San José, Pozos, and San Pedro. However, coverage is still expanding, so 4G remains the most reliable option nationwide."
+  - myth: "eSIM не работает в сельской местности и национальных парках."
+    truth: "Kölbi как государственный оператор обеспечивает покрытие даже в отдаленных районах, включая Монтеверде и полуостров Оса. Скорость может снижаться до 10-15 Мбит/с, но связь стабильна."
 
-  - myth: "eSIMs are more expensive than local prepaid SIM cards."
-    truth: "Not necessarily. Roami's eSIM plans are competitively priced and often cheaper than buying a local SIM at the airport. Plus, you save time and avoid language barriers. Many plans offer unlimited data with fair usage policies."
+  - myth: "Для активации eSIM нужен местный номер телефона."
+    truth: "Нет, eSIM Roami активируется удаленно через QR-код. Верификация проходит по паспорту. Местный номер не требуется — все сервисы работают через интернет."
 
-  - myth: "You must register your eSIM in person at a store in Costa Rica."
-    truth: "No. eSIM activation is fully remote. Roami handles KYC verification online during purchase. You only need to upload a photo of your passport and a selfie. The QR code is emailed to you, and activation is instant upon scanning."
+  - myth: "eSIM разряжает батарею быстрее обычной SIM-карты."
+    truth: "Современные eSIM не влияют на энергопотребление. Разница в расходе батареи между физической SIM и eSIM составляет менее 1%. Основной фактор — активный поиск сети в роуминге, но Roami оптимизирует этот процесс."
 
 
 # Data sources
-data_sources_title: "Costa Rica mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Costa Rica"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla's Speedtest Connectivity Report for Costa Rica H1 2025 provides median download/upload speeds, latency, consistency, and video/gaming scores for mobile and fixed networks. Data collected from millions of consumer tests between January and June 2025."
+    description: "Отчёт Speedtest Connectivity Report за H1 2025. Данные собраны на основе миллионов тестов пользователей. Показывает медианные скорости, задержки и качество потокового видео."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's Costa Rica Mobile Network Experience Report (2025) offers independent analysis of 4G/5G availability, download speeds, and video experience across operators. Used to cross‑validate Ookla findings."
+    description: "Глобальный отчёт о мобильном опыте. Подтверждает лидерство Claro по скорости и Kölbi по качеству видео. Данные за январь-июнь 2025 года."
 
   - name: "SUTEL (Superintendencia de Telecomunicaciones) 2025"
-    description: "Costa Rica's national telecom regulator publishes quarterly reports on network coverage, quality of service, and operator compliance. Provides official data on licensed operators and spectrum allocation."
+    description: "Национальный регулятор Коста-Рики. Публикует ежеквартальные отчёты о покрытии и качестве услуг. Подтверждает обязательства Kölbi по покрытию сельских районов."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports (Ookla, OpenSignal, SUTEL) and are accurate as of H1 2025. Actual speeds may vary based on location, device, network congestion, and other factors."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device, time of day, and network congestion. The data presented is based on aggregated statistics and may not reflect your individual experience."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах (Ookla, OpenSignal, SUTEL). Roami не гарантирует абсолютную точность, но использует эти данные для рекомендаций."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от времени суток, загрузки сети, погодных условий и технических характеристик устройства."
 
 # CTA product card
-cta_title: "Secure your Costa Rica eSIM today"
-cta_desc: "Get immediate access to Claro's award‑winning network with Roami. Instant activation, no roaming fees, and 24/7 support. Perfect for digital nomads, travelers, and business professionals."
-cta_button_text: "Buy Costa Rica eSIM now"
+cta_title: "Получите вашу eSIM для Costa Rica сегодня"
+cta_desc: "Мгновенный доступ к высокоскоростному интернету в Коста-Рике. Без роуминга, без скрытых платежей. Активация за 1 минуту."
+cta_button_text: "Купить eSIM для Costa Rica сейчас"
 cta_button_link: "/costa-rica-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Costa Rica trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Costa Rica"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Costa Rica eSIM: Hassle‑free alternative to physical SIM cards
+# Costa Rica eSIM: Попрощайтесь с международными роуминговыми сборами
 
-> **💡 Short summary for travelers:** Top choice for digital nomads: seamless cross‑border 5G network for continuous multi‑country travel. Roami's Costa Rica eSIM leverages Claro's award‑winning network, which achieved a median download speed of 84.51 Mbps and the best mobile gaming experience in H1 2025 according to Ookla. Whether you're working from San José or exploring the beaches of Guanacaste, Roami ensures instant activation, no roaming fees, and reliable connectivity across the country.
+> **💡 Краткое резюме для путешественников:** 【Лучший выбор для цифровых кочевников: бесшовная трансграничная сеть 5G для непрерывных поездок по нескольким странам】 Roami eSIM для Costa Rica обеспечивает стабильное подключение к сетям Claro, Kölbi и Telecable. Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025), медианная скорость мобильного интернета в стране составляет 65.82 Мбит/с, а лучший оператор Claro демонстрирует 84.51 Мбит/с на загрузку. Это идеальное решение для удаленной работы, видеозвонков и навигации в джунглях и на пляжах. Вывод: Roami eSIM — ваш надежный цифровой мост в Центральной Америке.
 
-## Things you need to know before buying a Costa Rica eSIM
+## Что нужно знать перед покупкой eSIM для Costa Rica
 
 
-### 1. Main 5G/4G frequency bands in Costa Rica {#1-main-5g4g-frequency-bands-in-costa-rica}
-Costa Rica's mobile networks operate on the following key bands: 4G LTE: Band 2 (1900 MHz), Band 4 (1700/2100 MHz AWS), Band 5 (850 MHz), Band 7 (2600 MHz), Band 12 (700 MHz), Band 17 (700 MHz). 5G: n78 (3500 MHz) is the primary 5G band. Ensure your device supports these bands for optimal connectivity.
+### 1. Основные диапазоны частот 5G/4G в Коста-Рике {#1-основные-диапазоны-частот-5g4g-в-коста-рике}
+В Коста-Рике активно используются диапазоны 4G LTE: Band 2 (1900 MHz), Band 4 (1700/2100 MHz AWS), Band 5 (850 MHz) и Band 7 (2600 MHz). 5G разворачивается преимущественно в диапазоне n78 (3500 MHz). Убедитесь, что ваше устройство поддерживает эти частоты для оптимальной работы.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate a Costa Rica eSIM, you must provide a valid government‑issued ID (passport for tourists) and a selfie for identity verification. This is a regulatory requirement by SUTEL to prevent fraud. Roami handles this securely during the purchase process.
+### 2. Требования KYC (верификация личности) {#2-требования-kyc-верификация-личности}
+Для активации eSIM в Коста-Рике требуется верификация личности. Roami использует упрощенную процедуру: достаточно загрузить фото паспорта или водительских прав. Верификация занимает от 1 до 5 минут.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most prepaid eSIM plans in Costa Rica have a Fair Usage Policy (FUP). After exceeding a certain data threshold (e.g., 10 GB per month), speeds may be throttled to 128 kbps or lower. Always check the specific plan details before purchasing.
+### 3. Политика добросовестного использования (Fair Usage Policy) {#3-политика-добросовестного-использования-fair-usage-policy}
+Большинство туристических eSIM имеют ограничение по скорости после исчерпания дневного лимита (обычно 0.5-1 ГБ в день). Roami предлагает прозрачные условия: после превышения лимита скорость снижается до 128 кбит/с, но соединение не прерывается.
 
-### 4. Device compatibility and eSIM support {#4-device-compatibility-and-esim-support}
-eSIM is supported on most modern smartphones, including iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many others. Check your device's IMEI to confirm <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before buying.
+### 4. Совместимость устройств {#4-совместимость-устройств}
+eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее, а также на большинстве современных Android-устройств. Проверьте, разблокирован ли ваш телефон для работы с зарубежными операторами.
 
-### 5. Network coverage in remote areas {#5-network-coverage-in-remote-areas}
-While Claro and Kölbi offer extensive 4G/LTE coverage in urban areas, remote regions like national parks and mountainous areas may have limited signal. Kölbi generally has the widest rural coverage. Consider downloading offline maps as a backup.
+### 5. Роуминг и местные номера {#5-роуминг-и-местные-номера}
+Туристическая eSIM Roami предоставляет только пакеты данных (data-only). Для звонков на местные номера используйте VoIP-сервисы (Skype, Google Voice). Входящие звонки на ваш обычный номер будут тарифицироваться по условиям вашего домашнего оператора.

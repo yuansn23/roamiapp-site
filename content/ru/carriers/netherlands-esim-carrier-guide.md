@@ -1,64 +1,64 @@
 ---
-title: "Niederlande eSIM: Buy online and activate instantly"
-description: "Experience fast internet in Niederlande with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:41:47+00:00"
-keywords: "eSIM Niederlande, prepaid data, 5G network, Odido, KPN Mobile, Vodafone, travel eSIM, Netherlands eSIM"
+title: "Niederlande eSIM: Мгновенная активация без ожидания"
+description: "Испытайте быстрый интернет в Niederlande с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:57:31+00:00"
+keywords: "eSIM Niederlande, предоплаченные данные, сеть 5G, Odido, KPN Mobile, Vodafone, туристическая eSIM, Roami"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Niederlande eSIM Guide"
+  - name: "Руководство по eSIM для Niederlande"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Niederlande Travel eSIM Latest Guide"
-hero_subtitle_main: "Niederlande eSIM: Buy online and activate instantly"
-hero_subtitle_highlight: "Premium 5G network coverage by Odido, KPN Mobile and Vodafone"
-hero_description_line1: "The Niederlande eSIM offers flexible multi‑day data plans and supports hotspot tethering. It covers key regions and popular attractions, making it the ideal choice for independent and business travelers."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "[Флаг] Niederlande Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Niederlande eSIM: Мгновенная активация без ожидания"
+hero_subtitle_highlight: "Премиальное покрытие 5G от Odido, KPN Mobile и Vodafone"
+hero_description_line1: "Процесс онлайн-покупки eSIM для Niederlande прост и безопасен, с чёткими шагами активации, что позволяет подготовить интернет-решение до вылета."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Niederlande eSIM"
 hero_link_url: "/netherlands-esim/"
-tldr_summary: "No connection drops on business trips: cost‑effective eSIM plans for global mobility. Roami's Niederlande eSIM leverages the fastest mobile network in the country, with Odido achieving a median download speed of 216.3 Mbps across all technologies and 272.74 Mbps on 5G. Whether you are in Amsterdam, Rotterdam, or Eindhoven, you get instant activation and reliable connectivity without roaming fees."
+tldr_summary: "【Безстрессовые международные поездки: высокоскоростной интернет в любое время и в любом месте】. Планируете поездку в Niederlande? Забудьте о роуминговых сборах и медленных соединениях. С eSIM от Roami вы получаете мгновенный доступ к лучшим местным сетям, включая Odido — самого быстрого оператора страны. Согласно данным Ookla, медианная скорость загрузки 5G у Odido составляет 272.74 Мбит/с, а общая медианная скорость мобильного интернета — 216.3 Мбит/с. Это значит, что вы сможете без задержек смотреть видео в высоком разрешении, пользоваться навигацией и видеозвонками. Выбирайте Roami для Niederlande и оставайтесь на связи с максимальной скоростью."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Niederlande eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Niederlande eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Niederlande eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Niederlande выбрать?"
 
   - href: "#operators"
-    text: "Top Niederlande eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Niederlande"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Niederlande"
+    text: "Городской гид: Лучшая eSIM для Niederlande"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Niederlande eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Niederlande"
 
   - href: "#faq"
-    text: "Frequently asked questions about Niederlande eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Niederlande"
 
   - href: "#myths"
-    text: "Myths and facts about Niederlande eSIM"
+    text: "Мифы и факты о eSIM для Niederlande"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Niederlande eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Niederlande выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,244 +67,249 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "Odido"
     carrier_class: "text-orange-600"
-    reason: "Odido is the fastest mobile provider in the Netherlands with a median download speed of 216.3 Mbps and 5G download speed of 272.74 Mbps. Ideal for heavy data users and remote work."
+    reason: "Самая высокая скорость 5G (272.74 Мбит/с) и лучший общий опыт мобильного интернета. Идеально для работы с большими файлами и видеоконференций."
 
-  - travel: "Business travelers"
+  - travel: "Любители потокового видео"
+    carrier: "Odido"
+    carrier_class: "text-orange-600"
+    reason: "Лучший опыт потокового видео (93.84 балла) и игр (81.31 балл). Никаких буферизаций."
+
+  - travel: "Путешественники по городам"
     carrier: "KPN Mobile"
-    carrier_class: "text-green-600"
-    reason: "KPN Mobile offers strong 5G consistency (88.6% of samples above 25 Mbps download) and reliable coverage across major cities and business districts."
+    carrier_class: "text-blue-600"
+    reason: "Отличная скорость (152.08 Мбит/с) и лучшая стабильность 5G (88.6% успешных тестов). Надёжная связь в Эйндховене и других городах."
 
-  - travel: "Tourists & casual users"
+  - travel: "Экономные туристы"
     carrier: "Vodafone"
     carrier_class: "text-red-600"
-    reason: "Vodafone provides good overall performance with a median download speed of 104.7 Mbps and wide coverage in tourist hotspots."
+    reason: "Достаточная скорость (104.7 Мбит/с) для социальных сетей и мессенджеров по доступной цене."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Niederlande travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Niederlande"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "odido-esim"
-    title: "Odido eSIM Review: Fastest network in the Netherlands"
-    best_for: "This plan is the absolute top choice for users who demand the highest speeds and best 5G experience. Odido leads in download speed, upload speed, and gaming experience."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025), Odido recorded a median 5G download speed of 272.74 Mbps and upload speed of 28.38 Mbps.\n- **Download rate**: Median download speed across all technologies is 216.3 Mbps, ahead of KPN Mobile (152.08 Mbps) and Vodafone (104.7 Mbps).\n- **Upload rate**: Median upload speed of 23.98 Mbps.\n- **Latency**: 33 ms overall, 32 ms on 5G.\n- **Connectivity Score**: Speedtest Connectivity Score of 84.34, 5G Connectivity Score of 77.11."
-    arcep_note: "Confirmed by the local telecom authority (Autoriteit Consument & Markt) that Odido holds leading spectrum positions and invests heavily in 5G infrastructure."
-    connect_note: "Activation works seamlessly with Roami eSIM; simply scan the QR code and connect to Odido's network automatically."
-    user_scenarios: "- **Amsterdam Central Station**: With Odido's 5G, you can stream 4K video and video call without buffering even during peak hours.\n- **Keukenhof Gardens**: Upload your flower photos instantly with upload speeds of 28.38 Mbps.\n- **Rotterdam port area**: Reliable connectivity for business travelers needing constant access to cloud apps."
+    title: "Обзор Odido eSIM: Абсолютный лидер скорости"
+    best_for: "Этот план – абсолютно лучший выбор для тех, кому нужна максимальная скорость интернета в Niederlande. Odido признан самым быстрым мобильным оператором в стране."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025), Odido — самый быстрый оператор 5G в Нидерландах.\n- **Скорость загрузки (5G)**: Медианная скорость загрузки 5G составляет 272.74 Мбит/с.\n- **Скорость отдачи (5G)**: Медианная скорость отдачи 5G — 28.38 Мбит/с.\n- **Общая скорость загрузки**: Медианная скорость загрузки по всем технологиям — 216.3 Мбит/с.\n- **Общая скорость отдачи**: Медианная скорость отдачи — 23.98 Мбит/с.\n- **Задержка (5G)**: 32 мс.\n- **Игровой опыт**: Лучший опыт в 5G-играх.\n- **Потоковое видео**: Лучший опыт потокового видео (93.84 балла)."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (Autoriteit Consument & Markt), Odido является одним из трёх крупнейших операторов страны, наряду с KPN и VodafoneZiggo."
+    connect_note: "Активация работает безупречно: просто отсканируйте QR-код, и вы подключитесь к сети Odido в течение нескольких минут."
+    user_scenarios: "- **[Каналы Амстердама]**: Плывите на лодке по каналам и делитесь фотографиями в реальном времени без задержек благодаря скорости 272 Мбит/с.\n- **[Музей Ван Гога]**: Скачивайте аудиогиды и дополненную реальность мгновенно, без ожидания.\n- **[Велосипедная поездка в Велюве]**: Используйте навигацию в реальном времени с минимальной задержкой (32 мс)."
     bg_color: "bg-orange-50"
 
   - id: "kpn-mobile-esim"
-    title: "KPN Mobile eSIM Review: Best consistency and 5G reliability"
-    best_for: "This plan is ideal for users who prioritize consistent speeds and reliable 5G coverage across the country, especially in suburban and rural areas."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025), KPN Mobile achieved a median 5G download speed of 182.84 Mbps.\n- **Download rate**: Median download speed across all technologies is 152.08 Mbps.\n- **Upload rate**: Median upload speed not specified but competitive.\n- **Consistency**: KPN Mobile had the best 5G Consistency in the market, with 88.6% of samples meeting or exceeding 25 Mbps download and 3 Mbps upload.\n- **Latency**: Not specified but generally low."
-    arcep_note: "Confirmed by the local telecom authority (ACM) that KPN Mobile has extensive 4G/5G coverage obligations and meets high reliability standards."
-    connect_note: "Activation works seamlessly with Roami eSIM; the eSIM automatically selects KPN Mobile where it offers the best signal."
-    user_scenarios: "- **Utrecht Science Park**: Reliable connectivity for students and researchers needing stable video conferencing.\n- **Hoge Veluwe National Park**: Stay connected even in nature with KPN's consistent coverage.\n- **The Hague business district**: Dependable 5G for corporate users."
-    bg_color: "bg-green-50"
+    title: "Обзор KPN Mobile eSIM: Стабильность и надёжность"
+    best_for: "Лучший выбор для тех, кто ценит стабильное соединение и широкое покрытие, особенно в городах и пригородах."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025), KPN Mobile занимает второе место по скорости 5G.\n- **Скорость загрузки (5G)**: Медианная скорость загрузки 5G составляет 182.84 Мбит/с.\n- **Скорость отдачи (5G)**: Медианная скорость отдачи 5G — данные не указаны, но уступает Odido.\n- **Общая скорость загрузки**: Медианная скорость загрузки по всем технологиям — 152.08 Мбит/с.\n- **Стабильность 5G**: Лучшая стабильность 5G в стране: 88.6% тестов соответствуют порогу 25 Мбит/с.\n- **Задержка**: 33 мс (общая)."
+    arcep_note: "KPN — исторический монополист и один из трёх основных операторов, регулируемых ACM. Обеспечивает одно из лучших покрытий в стране."
+    connect_note: "Активация eSIM через Roami проста: после покупки вы получите QR-код, который нужно отсканировать в настройках телефона."
+    user_scenarios: "- **[Деловая поездка в Гаагу]**: Участвуйте в видеоконференциях без разрывов благодаря высокой стабильности соединения.\n- **[Прогулка по Роттердаму]**: Используйте карты и стриминг музыки без перебоев.\n- **[Поезд из Утрехта в Амстердам]**: Наслаждайтесь непрерывным интернетом в пути."
+    bg_color: "bg-blue-50"
 
   - id: "vodafone-esim"
-    title: "Vodafone eSIM Review: Good all-rounder with wide coverage"
-    best_for: "This plan is a solid choice for tourists and casual users who need reliable connectivity in cities and popular attractions without requiring top speeds."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025), Vodafone recorded a median 5G download speed of 114.99 Mbps.\n- **Download rate**: Median download speed across all technologies is 104.7 Mbps.\n- **Upload rate**: Not specified but adequate for social media and messaging.\n- **Latency**: Not specified but generally acceptable.\n- **Coverage**: Vodafone has extensive 4G/5G coverage in urban and suburban areas."
-    arcep_note: "Confirmed by the local telecom authority (ACM) that Vodafone meets all coverage requirements and has strong roaming agreements."
-    connect_note: "Activation works seamlessly with Roami eSIM; the eSIM will connect to Vodafone's network automatically upon arrival."
-    user_scenarios: "- **Amsterdam canals**: Share your boat tour live on Instagram with Vodafone's reliable 4G/5G.\n- **Zaanse Schans windmills**: Upload photos and videos without issues.\n- **Schiphol Airport**: Stay connected immediately after landing."
+    title: "Обзор Vodafone eSIM: Доступная скорость для повседневных задач"
+    best_for: "Отличный бюджетный вариант для путешественников, которым нужен надёжный интернет для социальных сетей, мессенджеров и навигации."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025), Vodafone замыкает тройку лидеров по скорости 5G.\n- **Скорость загрузки (5G)**: Медианная скорость загрузки 5G составляет 114.99 Мбит/с.\n- **Общая скорость загрузки**: Медианная скорость загрузки по всем технологиям — 104.7 Мбит/с.\n- **Скорость отдачи**: Данные не указаны, но ниже, чем у конкурентов.\n- **Задержка**: Данные не указаны, но выше, чем у Odido и KPN."
+    arcep_note: "VodafoneZiggo — третий крупный игрок на рынке, предоставляющий услуги как мобильной, так и фиксированной связи под надзором ACM."
+    connect_note: "Активация eSIM занимает всего пару минут. Просто следуйте инструкции в приложении Roami."
+    user_scenarios: "- **[Шопинг в Маастрихте]**: Проверяйте цены и общайтесь в мессенджерах без лишних затрат.\n- **[Фестиваль в Амстердаме]**: Делитесь сторис в Instagram и TikTok без задержек.\n- **[Короткая поездка в Эйндховен]**: Используйте навигатор и слушайте подкасты."
     bg_color: "bg-red-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Niederlande eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Niederlande eSIM and local 5G bands"
-cards_free_title: "Get your free Niederlande eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Niederlande"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Niederlande и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Niederlande"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Niederlande eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Niederlande"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in the Netherlands"
-    content: "The Netherlands uses a variety of frequency bands for 4G and 5G. Key 4G bands include 800 MHz (Band 20), 1800 MHz (Band 3), 2600 MHz (Band 7), and 2100 MHz (Band 1). For 5G, operators use 700 MHz (n28), 3.5 GHz (n78), and 3.8 GHz (n77). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Основные диапазоны частот 5G/4G в Niederlande"
+    content: "В Нидерландах используются следующие диапазоны: 5G — n78 (3.5 ГГц) для высокой скорости в городах, n1 (2100 МГц) и n3 (1800 МГц) для широкого покрытия. 4G LTE — B3 (1800 МГц), B7 (2600 МГц), B20 (800 МГц). Все современные eSIM-совместимые смартфоны поддерживают эти частоты."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate a Roami eSIM in the Netherlands, you generally need to provide a valid passport or national ID for identity verification. Some providers may require a selfie or proof of address. The process is fully digital and takes only a few minutes."
+  - heading: "2. Требования KYC (идентификация) для eSIM"
+    content: "Для покупки eSIM в Нидерландах через Roami не требуется загружать паспорт или проходить видеоверификацию. Достаточно указать адрес электронной почты и оплатить тариф. Это делает процесс покупки полностью анонимным и мгновенным."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most prepaid eSIM plans in the Netherlands have a Fair Usage Policy. After exceeding a certain data threshold (e.g., 20-50 GB per month), speeds may be throttled to 1-2 Mbps. Always check the specific plan details before purchasing."
+  - heading: "3. Политика добросовестного использования (Fair Usage Policy)"
+    content: "Большинство безлимитных тарифов eSIM имеют ограничение по скорости после превышения дневного лимита (обычно 1-2 ГБ). Например, после использования 2 ГБ в день скорость может быть снижена до 1-2 Мбит/с. Внимательно читайте условия вашего тарифа."
 
-  - heading: "4. Network coverage in rural and remote areas"
-    content: "While urban areas have excellent 5G coverage, rural regions like Friesland or the Wadden Islands may have limited 5G. KPN Mobile offers the best consistency in these areas, with 88.6% of samples meeting minimum speed thresholds. Odido and Vodafone also provide good 4G fallback."
+  - heading: "4. Совместимость устройств и привязка к IMEI"
+    content: "eSIM от Roami не привязывается к IMEI телефона. Вы можете использовать её в любом разблокированном смартфоне, поддерживающем eSIM. При смене телефона просто переустановите профиль eSIM (если это предусмотрено провайдером) или приобретите новый."
 
-  - heading: "5. eSIM compatibility and device support"
-    content: "Roami eSIMs are compatible with most modern smartphones, including iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many others. Check your device's IMEI for eSIM support before purchasing."
+  - heading: "5. Роуминг и звонки: что нужно знать"
+    content: "eSIM от Roami предоставляет только мобильные данные. Для звонков и SMS используйте мессенджеры (WhatsApp, Telegram). Внутри страны звонки через интернет работают без ограничений. Роуминг в других странах ЕС может быть недоступен или тарифицироваться отдельно."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Niederlande"
-city_guide_desc: "Find out which Niederlande eSIM is the best choice for your destination city based on real speed test data and coverage."
+city_guide_title: "Городской гид: Лучшая eSIM для Niederlande"
+city_guide_desc: "Узнайте, какая eSIM для Niederlande является лучшим выбором для вашего города назначения. Мы проанализировали данные Speedtest Intelligence, чтобы дать вам точные рекомендации."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Eindhoven"
+  - city: "Амстердам"
     carriers: "Odido"
-    reason: "Eindhoven recorded the fastest median mobile download speed among populous cities at 220.42 Mbps. Odido's network excels here, making it perfect for tech professionals and visitors to the High Tech Campus."
+    reason: "Столица с высокой плотностью пользователей. Odido обеспечивает лучшую скорость 5G (272.74 Мбит/с), что идеально для туристов, активно использующих интернет."
 
-  - city: "Almere"
+  - city: "Эйндховен"
     carriers: "Odido"
-    reason: "Almere outpaced other cities with the fastest median fixed download speed of 241.32 Mbps. For mobile, Odido provides excellent speeds, ideal for remote workers and families."
+    reason: "Самый быстрый город по мобильной скорости (220.42 Мбит/с). Odido — лучший выбор для максимальной производительности."
 
-  - city: "Amsterdam"
+  - city: "Роттердам"
     carriers: "KPN Mobile"
-    reason: "Amsterdam's dense urban environment benefits from KPN Mobile's high consistency (88.6% of samples above 25 Mbps). Reliable for tourists navigating the city center and using ride-sharing apps."
+    reason: "Крупный портовый город с отличным покрытием. KPN Mobile предлагает лучшую стабильность 5G (88.6%), что важно для деловых поездок."
 
-  - city: "Rotterdam"
+  - city: "Гаага"
+    carriers: "KPN Mobile"
+    reason: "Политический центр. KPN Mobile обеспечивает надёжное соединение для видеоконференций и работы."
+
+  - city: "Утрехт"
     carriers: "Vodafone"
-    reason: "Rotterdam's port and modern districts have strong Vodafone coverage. With a median download speed of 104.7 Mbps, it's sufficient for streaming and social media during your visit."
+    reason: "Студенческий город с хорошим соотношением цены и качества. Vodafone предлагает достаточную скорость (104.7 Мбит/с) для повседневных задач."
 
-  - city: "Utrecht"
-    carriers: "KPN Mobile"
-    reason: "Utrecht's university and business areas require consistent connectivity. KPN Mobile's 5G consistency ensures smooth video calls and online classes."
-
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Niederlande eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Niederlande в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Amsterdam's canals, museums, and nightlife with Odido's blazing fast 5G. Download maps, stream audio guides, and share your experiences instantly."
+    title: "Исследователь города"
+    text: "Посещайте музеи, кафе и исторические центры. С Odido вы получите максимальную скорость для загрузки карт и аудиогидов."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Visit the Hoge Veluwe National Park or the Wadden Islands. KPN Mobile offers the best consistency in rural areas, so you can stay connected while hiking or birdwatching."
+    title: "Любитель природы"
+    text: "Путешествуйте по национальным паркам, таким как Де-Хоге-Велюве. KPN Mobile обеспечит стабильное покрытие даже в удалённых районах."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive from Rotterdam to Groningen with Vodafone's reliable coverage along highways. Use navigation apps without interruption and stream music for the journey."
+    title: "Путешественник на авто"
+    text: "Используйте навигацию в реальном времени. Odido с низкой задержкой (32 мс) идеально подходит для динамических маршрутов."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on the beaches of Scheveningen or Zandvoort. Odido's high upload speeds let you post beach selfies and videos in seconds."
+    title: "Любитель пляжа"
+    text: "Отдыхайте на пляжах Схевенингена или Зандворта. Vodafone предложит достаточную скорость для стриминга музыки и социальных сетей."
 
-scene_guide_footer: "💡 The Roami Niederlande eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Niederlande автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Niederlande eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Niederlande"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "What average download and upload network speeds can I expect in Niederlande?"
-    a: "Based on Ookla data, the fastest mobile provider Odido offers a median download speed of 216.3 Mbps across all technologies and 272.74 Mbps on 5G. Upload speeds average 23.98 Mbps overall and 28.38 Mbps on 5G. KPN Mobile and Vodafone offer median downloads of 152.08 Mbps and 104.7 Mbps respectively."
+  - q: "Подключается ли система автоматически к самому сильному местному оператору в Niederlande без ручной настройки?"
+    a: "Да, eSIM от Roami автоматически подключается к сети выбранного оператора (например, Odido, KPN или Vodafone) при активации. Вам не нужно вручную выбирать сеть — телефон сделает это сам. Однако вы можете вручную переключиться на другую доступную сеть в настройках, если это необходимо."
 
-  - q: "Can I install the Niederlande travel eSIM at home before my departure?"
-    a: "Yes, you can install the Roami eSIM at home before your trip. Simply purchase the plan, receive the QR code via email, and scan it with your device's camera. The eSIM will activate once you connect to a supported network in the Netherlands."
+  - q: "Как перенести активный профиль eSIM для Niederlande на новый смартфон при замене телефона?"
+    a: "Перенос eSIM зависит от политики провайдера. Большинство eSIM от Roami являются одноразовыми и привязаны к устройству. При смене телефона вам потребуется приобрести новый профиль eSIM. Рекомендуем сохранять QR-код активации до конца поездки на случай сбоя."
 
-  - q: "Does the system automatically connect to the strongest local operator in Niederlande without manual setup?"
-    a: "Yes, Roami eSIMs are designed to automatically connect to the strongest available network. In the Netherlands, your device will prioritize operators like Odido, KPN Mobile, or Vodafone based on signal strength and network conditions. No manual selection is required."
+  - q: "Существует ли определённый порог использования данных (например, после 2 ГБ в день), после которого скорость eSIM для Niederlande снижается?"
+    a: "Да, многие тарифы eSIM имеют политику добросовестного использования (Fair Usage Policy). Например, после превышения дневного лимита в 1-2 ГБ скорость может быть снижена до 1-2 Мбит/с. Внимательно читайте описание тарифа перед покупкой. Безлимитные тарифы без ограничений скорости встречаются редко."
 
-  - q: "Can I make voice or video calls via WhatsApp, WeChat, or FaceTime using the Niederlande eSIM?"
-    a: "Absolutely. The Roami eSIM provides data connectivity, which supports all VoIP and video calling apps like WhatsApp, WeChat, FaceTime, Skype, and Zoom. You can make high-quality voice and video calls over 4G/5G without any additional charges."
+  - q: "Предлагает ли Roami возврат средств, если eSIM для Niederlande не работает, и какие условия?"
+    a: "Roami предлагает возврат средств в течение 30 дней с момента покупки, если eSIM не была активирована. Если eSIM не работает из-за технической ошибки со стороны Roami, мы вернём полную стоимость. Возврат не осуществляется, если проблема связана с несовместимостью устройства или неправильной настройкой."
 
-  - q: "Which local network operator provides the strongest and most reliable coverage in the most famous national parks and cities of Niederlande?"
-    a: "For national parks like Hoge Veluwe and De Biesbosch, KPN Mobile offers the best consistency with 88.6% of samples meeting minimum speed thresholds. In cities like Eindhoven and Almere, Odido provides the fastest speeds. For overall reliability across both urban and rural areas, KPN Mobile is the top choice."
+  - q: "Падает ли скорость интернета в Niederlande, когда к хот-споту eSIM одновременно подключено несколько устройств?"
+    a: "Да, скорость интернета будет делиться между всеми подключёнными устройствами. Например, если ваш тариф обеспечивает 100 Мбит/с, и вы подключили 2 устройства, каждое получит примерно по 50 Мбит/с. Для комфортного использования рекомендуется подключать не более 3-4 устройств."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Niederlande eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Niederlande"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "All eSIMs in the Netherlands offer the same speed."
-    truth: "False. Odido is significantly faster than KPN Mobile and Vodafone, with median download speeds of 216.3 Mbps vs 152.08 Mbps and 104.7 Mbps respectively."
+  - myth: "Все eSIM в Нидерландах работают с одинаковой скоростью."
+    truth: "Нет. Скорость сильно зависит от оператора. Odido — самый быстрый (272.74 Мбит/с 5G), Vodafone — медленнее (114.99 Мбит/с). Выбор оператора критичен."
 
-  - myth: "5G is available everywhere in the Netherlands."
-    truth: "5G coverage is excellent in cities but limited in rural areas. KPN Mobile has the best 5G consistency, but 4G fallback is common in remote regions."
+  - myth: "eSIM работает только в Амстердаме."
+    truth: "Нет. Все три оператора (Odido, KPN, Vodafone) имеют общенациональное покрытие. В небольших городах и сельской местности скорость может быть ниже, но связь будет."
 
-  - myth: "You need a Dutch SIM card to use local apps."
-    truth: "No. Roami eSIM provides a local IP and data connection, allowing you to use all Dutch apps like NS (train), Buienradar (weather), and Thuisbezorgd (food delivery) without issues."
+  - myth: "Для активации eSIM нужен паспорт и банковская карта."
+    truth: "Нет. Для покупки eSIM через Roami достаточно email и оплаты. Никакой верификации личности не требуется."
 
-  - myth: "eSIMs are more expensive than physical SIM cards."
-    truth: "Roami eSIMs are competitively priced and often cheaper than tourist SIM cards from physical stores. Plus, you save time by activating online before travel."
+  - myth: "После активации eSIM нельзя сменить оператора."
+    truth: "Можно. Вы можете приобрести новый профиль eSIM у другого оператора. Однако одновременное использование двух eSIM от Roami на одном устройстве может быть ограничено."
 
-  - myth: "You cannot use hotspot tethering with an eSIM."
-    truth: "Roami eSIMs support hotspot tethering. You can share your data connection with other devices like laptops or tablets, making it ideal for business travelers."
+  - myth: "5G в Нидерландах работает только в центре городов."
+    truth: "5G покрытие быстро расширяется. Odido и KPN обеспечивают 5G в большинстве крупных городов и вдоль основных автомагистралей. В небольших городах может быть только 4G."
 
 
 # Data sources
-data_sources_title: "Niederlande mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Niederlande"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla's Speedtest Intelligence data for the Netherlands, covering mobile and fixed network performance in the first half of 2025. Includes median download/upload speeds, 5G performance, and connectivity scores for Odido, KPN Mobile, and Vodafone."
+    description: "Отчёт Speedtest Intelligence за 1 полугодие 2025 года. Данные основаны на миллионах тестов скорости, проведённых реальными пользователями. Odido признан самым быстрым оператором."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's mobile network experience report for the Netherlands, providing insights on video streaming, gaming, and voice app experience across major operators."
+    description: "Отчёты OpenSignal о мобильном опыте в Нидерландах. Подтверждают лидерство Odido в скорости и игровом опыте."
 
-  - name: "Autoriteit Consument & Markt (ACM) 2025"
-    description: "The Dutch telecom regulator's annual report on spectrum allocation, coverage obligations, and quality of service benchmarks for mobile operators in the Netherlands."
+  - name: "ACM (Autoriteit Consument & Markt) 2025"
+    description: "Регулятор телекоммуникационного рынка Нидерландов. Предоставляет данные о покрытии и качестве услуг операторов."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual speeds may vary based on location, device, network congestion, and other factors."
-data_sources_note: "Network speeds and coverage can vary depending on your location, time of day, device capabilities, and network congestion. Always check the latest coverage maps from your chosen operator."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах за 1 полугодие 2025 года. Скорость может варьироваться в зависимости от местоположения, времени суток и загрузки сети."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от вашего местоположения, устройства и времени суток. Рекомендуем проверять актуальные карты покрытия операторов."
 
 # CTA product card
-cta_title: "Secure your Niederlande eSIM today"
-cta_desc: "Get immediate access to the fastest mobile network in the Netherlands with Roami. Instant activation, no roaming fees, and flexible plans for every traveler."
-cta_button_text: "Buy Niederlande eSIM now"
+cta_title: "Получите вашу eSIM для Niederlande сегодня"
+cta_desc: "Мгновенный доступ к лучшим сетям 5G. Никаких роуминговых сборов, никаких SIM-карт. Просто скачайте, оплатите и пользуйтесь."
+cta_button_text: "Купить eSIM для Niederlande сейчас"
 cta_button_link: "/netherlands-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Niederlande trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Niederlande"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Niederlande eSIM: Buy online and activate instantly
+# Niederlande eSIM: Мгновенная активация без ожидания
 
-> **💡 Short summary for travelers:** No connection drops on business trips: cost‑effective eSIM plans for global mobility. Roami's Niederlande eSIM leverages the fastest mobile network in the country, with Odido achieving a median download speed of 216.3 Mbps across all technologies and 272.74 Mbps on 5G. Whether you are in Amsterdam, Rotterdam, or Eindhoven, you get instant activation and reliable connectivity without roaming fees.
+> **💡 Краткое резюме для путешественников:** 【Безстрессовые международные поездки: высокоскоростной интернет в любое время и в любом месте】. Планируете поездку в Niederlande? Забудьте о роуминговых сборах и медленных соединениях. С eSIM от Roami вы получаете мгновенный доступ к лучшим местным сетям, включая Odido — самого быстрого оператора страны. Согласно данным Ookla, медианная скорость загрузки 5G у Odido составляет 272.74 Мбит/с, а общая медианная скорость мобильного интернета — 216.3 Мбит/с. Это значит, что вы сможете без задержек смотреть видео в высоком разрешении, пользоваться навигацией и видеозвонками. Выбирайте Roami для Niederlande и оставайтесь на связи с максимальной скоростью.
 
-## Things you need to know before buying a Niederlande eSIM
+## Что нужно знать перед покупкой eSIM для Niederlande
 
 
-### 1. Main 5G/4G frequency bands in the Netherlands {#1-main-5g4g-frequency-bands-in-the-netherlands}
-The Netherlands uses a variety of frequency bands for 4G and 5G. Key 4G bands include 800 MHz (Band 20), 1800 MHz (Band 3), 2600 MHz (Band 7), and 2100 MHz (Band 1). For 5G, operators use 700 MHz (n28), 3.5 GHz (n78), and 3.8 GHz (n77). Ensure your device supports these bands for optimal performance.
+### 1. Основные диапазоны частот 5G/4G в Niederlande {#1-основные-диапазоны-частот-5g4g-в-niederlande}
+В Нидерландах используются следующие диапазоны: 5G — n78 (3.5 ГГц) для высокой скорости в городах, n1 (2100 МГц) и n3 (1800 МГц) для широкого покрытия. 4G LTE — B3 (1800 МГц), B7 (2600 МГц), B20 (800 МГц). Все современные eSIM-совместимые смартфоны поддерживают эти частоты.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate a Roami eSIM in the Netherlands, you generally need to provide a valid passport or national ID for identity verification. Some providers may require a selfie or proof of address. The process is fully digital and takes only a few minutes.
+### 2. Требования KYC (идентификация) для eSIM {#2-требования-kyc-идентификация-для-esim}
+Для покупки eSIM в Нидерландах через Roami не требуется загружать паспорт или проходить видеоверификацию. Достаточно указать адрес электронной почты и оплатить тариф. Это делает процесс покупки полностью анонимным и мгновенным.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most prepaid eSIM plans in the Netherlands have a Fair Usage Policy. After exceeding a certain data threshold (e.g., 20-50 GB per month), speeds may be throttled to 1-2 Mbps. Always check the specific plan details before purchasing.
+### 3. Политика добросовестного использования (Fair Usage Policy) {#3-политика-добросовестного-использования-fair-usage-policy}
+Большинство безлимитных тарифов eSIM имеют ограничение по скорости после превышения дневного лимита (обычно 1-2 ГБ). Например, после использования 2 ГБ в день скорость может быть снижена до 1-2 Мбит/с. Внимательно читайте условия вашего тарифа.
 
-### 4. Network coverage in rural and remote areas {#4-network-coverage-in-rural-and-remote-areas}
-While urban areas have excellent 5G coverage, rural regions like Friesland or the Wadden Islands may have limited 5G. KPN Mobile offers the best consistency in these areas, with 88.6% of samples meeting minimum speed thresholds. Odido and Vodafone also provide good 4G fallback.
+### 4. Совместимость устройств и привязка к IMEI {#4-совместимость-устройств-и-привязка-к-imei}
+eSIM от Roami не привязывается к IMEI телефона. Вы можете использовать её в любом разблокированном смартфоне, поддерживающем eSIM. При смене телефона просто переустановите профиль eSIM (если это предусмотрено провайдером) или приобретите новый.
 
-### 5. eSIM compatibility and device support {#5-esim-compatibility-and-device-support}
-Roami eSIMs are compatible with most modern smartphones, including iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many others. Check your device's IMEI for eSIM support before purchasing.
+### 5. Роуминг и звонки: что нужно знать {#5-роуминг-и-звонки-что-нужно-знать}
+eSIM от Roami предоставляет только мобильные данные. Для звонков и SMS используйте мессенджеры (WhatsApp, Telegram). Внутри страны звонки через интернет работают без ограничений. Роуминг в других странах ЕС может быть недоступен или тарифицироваться отдельно.

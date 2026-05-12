@@ -1,64 +1,64 @@
 ---
-title: "Indien eSIM: Flexible choice without contracts"
-description: "Experience fast internet in Indien with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:40:40+00:00"
-keywords: "eSIM Indien, prepaid data, 5G network, Jio, Airtel, travel eSIM, digital nomad"
+title: "Indien eSIM: Купите и подключитесь мгновенно"
+description: "Испытайте быстрый интернет в Indien с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:56:18+00:00"
+keywords: "eSIM Indien, предоплаченные данные, сеть 5G, туристическая eSIM, безлимитный интернет Индия, Roami eSIM"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Indien eSIM Guide"
+  - name: "Руководство по eSIM для Indien"
     url: ""
 
 # Hero section copy
-hero_badge: "🇮🇳 Indien Travel eSIM Latest Guide"
-hero_subtitle_main: "Indien eSIM: Flexible choice without contracts"
-hero_subtitle_highlight: "Premium 5G network coverage by Jio and Airtel"
-hero_description_line1: "Make overseas travel easy and fast with a Indien eSIM. It covers the main local mobile networks with stable signals, transparent pricing, and zero hidden fees."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "🇮🇳 Indien Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Indien eSIM: Купите и подключитесь мгновенно"
+hero_subtitle_highlight: "Премиальное покрытие 5G от Jio и Airtel"
+hero_description_line1: "Быстро установите через QR-код и используйте сразу. eSIM для Indien помогает избежать длинных очередей в аэропортах, предлагая умное интернет-решение для вашей поездки в Indien."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Indien eSIM"
 hero_link_url: "/india-esim/"
-tldr_summary: "【Designed for digital nomads: unlimited data solutions for multiple countries】 Roami's Indien eSIM leverages the fastest networks in the country. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/india-speedtest-connectivity-report-h2-2024), Jio leads with a median 5G download speed of 258.54 Mbps and an overall Speed Score of 174.89, while Airtel offers the best video streaming and gaming experience. Whether you're working from a Mumbai café or exploring the Himalayas, Roami's eSIM provides seamless, high-speed connectivity without contracts or hidden fees."
+tldr_summary: "【Больше свободы благодаря общему доступу к устройству: безлимитные данные 5G без ограничений】. Roami eSIM для Indien даёт вам полную свободу — делитесь интернетом с ноутбуком, планшетом и друзьями без скрытых лимитов. По данным [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/india-speedtest-connectivity-report-h2-2024), Jio лидирует с медианной скоростью 5G 258.54 Мбит/с, а Airtel обеспечивает лучшее качество видео и игр. С Roami вы получаете доступ к этим сетям без привязки к одному устройству. Идеальное решение для цифровых кочевников и путешественников, которые ценят гибкость и скорость."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Indien eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Indien eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Indien eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Indien выбрать?"
 
   - href: "#operators"
-    text: "Top Indien eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Indien"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Indien"
+    text: "Городской гид: Лучшая eSIM для Indien"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Indien eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Indien"
 
   - href: "#faq"
-    text: "Frequently asked questions about Indien eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Indien"
 
   - href: "#myths"
-    text: "Myths and facts about Indien eSIM"
+    text: "Мифы и факты о eSIM для Indien"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Indien eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Indien выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/india-speedtest-connectivity-report-h2-2024)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "Jio"
     carrier_class: "text-orange-600"
-    reason: "Jio is the fastest mobile network in India with a median 5G download speed of 258.54 Mbps and the highest 5G availability at 73.7%. Ideal for heavy data users and remote work."
+    reason: "Самая быстрая сеть 5G в Индии (258.54 Мбит/с) и лучшее покрытие. Идеально для удалённой работы и видеоконференций."
 
-  - travel: "Streaming & gaming enthusiasts"
+  - travel: "Любители потокового видео"
     carrier: "Airtel"
     carrier_class: "text-red-600"
-    reason: "Airtel offers the best video streaming and 5G gaming experience in India, with a 5G Consistency score of 79.8%. Perfect for entertainment on the go."
+    reason: "Лучшее качество потокового видео и игр. Отличный выбор для просмотра Netflix и YouTube в HD."
 
-  - travel: "Budget travelers"
+  - travel: "Экономные путешественники"
     carrier: "Vi India"
     carrier_class: "text-purple-600"
-    reason: "Vi India provides affordable prepaid plans with decent coverage, though speeds are lower (median download 21.60 Mbps). Good for basic browsing and calls."
+    reason: "Бюджетный вариант с достаточной скоростью (21.60 Мбит/с) для базовых задач: соцсети, мессенджеры, навигация."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Indien travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Indien"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "jio-esim"
-    title: "Jio eSIM Review: Fastest 5G speeds"
-    best_for: "This plan is the absolute top choice for users who prioritize raw speed and extensive 5G coverage. Jio leads in all key metrics: fastest mobile network, fastest 5G, and best coverage."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/india-speedtest-connectivity-report-h2-2024), Jio recorded the highest 5G Availability in India at 73.7%.\n- **Median 5G download speed**: 258.54 Mbps\n- **Median 5G upload speed**: 14.54 Mbps\n- **5G latency**: 55 ms\n- **Overall Speed Score**: 174.89\n- **Median download (all tech)**: 158.63 Mbps\n- **Median upload (all tech)**: 8.93 Mbps\n- **Latency (all tech)**: 62 ms"
-    arcep_note: "Confirmed by the Telecom Regulatory Authority of India (TRAI) as a leading operator in spectrum holdings and 5G rollout."
-    connect_note: "Activation works seamlessly via QR code. Compatible with most modern smartphones. No physical SIM needed."
-    user_scenarios: "- **Mumbai local train commute**: Stream HD video or join video calls without buffering, thanks to Jio's dense urban 5G network.\n- **Exploring the Taj Mahal in Agra**: Share high-resolution photos and live stream instantly with Jio's strong 5G signal at major tourist sites.\n- **Remote work from a Jaipur café**: Enjoy stable, fast internet for cloud-based tasks and video conferencing."
+    title: "Обзор Jio eSIM: Самая быстрая сеть 5G в Индии"
+    best_for: "Этот план – абсолютно лучший выбор для тех, кому нужна максимальная скорость загрузки и надёжное покрытие 5G по всей стране."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/india-speedtest-connectivity-report-h2-2024), Jio имеет самую высокую доступность 5G в Индии — 73.7% пользователей находятся в сети 5G большую часть времени.\n- **Скорость загрузки**: Медианная скорость 5G — 258.54 Мбит/с, что значительно выше конкурентов.\n- **Скорость отдачи**: 14.54 Мбит/с.\n- **Задержка (ping)**: 55 мс в сети 5G."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (TRAI): Jio лидирует по покрытию и скорости, особенно в крупных городах."
+    connect_note: "Активация работает безупречно через QR-код. Рекомендуется активировать eSIM до прибытия в Индию для мгновенного подключения."
+    user_scenarios: "- **[Тадж-Махал, Агра]**: Делайте селфи и загружайте фото в Instagram за секунды — скорость 5G Jio позволяет загружать видео 4K без буферизации.\n- **[Метро Дели]**: Даже под землёй Jio обеспечивает стабильное соединение для навигации и мессенджеров.\n- **[Гоа, пляжи]**: Потоковая трансляция заката в прямом эфире — высокая скорость отдачи (14.54 Мбит/с) справится легко."
     bg_color: "bg-orange-50"
 
   - id: "airtel-esim"
-    title: "Airtel eSIM Review: Best for entertainment"
-    best_for: "This plan is the absolute top choice for users who value video streaming quality and gaming performance. Airtel offers the best mobile video experience and 5G gaming in India."
-    core_data: "- **Video Streaming Score**: 76.58 (best in India)\n- **5G Consistency**: 79.8% of samples met or exceeded 25 Mbps download and 3 Mbps upload thresholds.\n- **Median 5G download speed**: 205.1 Mbps\n- **Overall Speed Score**: second fastest after Jio\n- **Median download (all tech)**: 100.67 Mbps\n- **Median upload (all tech)**: not specified but competitive"
-    arcep_note: "Airtel holds significant spectrum in the 700 MHz and 3500 MHz bands, ensuring wide coverage and consistent performance as per TRAI reports."
-    connect_note: "Activation works seamlessly via QR code. Supports eSIM on most recent iPhone and Android models."
-    user_scenarios: "- **Watching cricket at a Delhi stadium**: Stream live matches in high definition without lag.\n- **Gaming on the Delhi Metro**: Enjoy low-latency 5G gaming during your commute.\n- **Binge-watching in a Bangalore hotel room**: Airtel's optimized video streaming ensures smooth playback even during peak hours."
+    title: "Обзор Airtel eSIM: Лучшее качество видео и игр"
+    best_for: "Этот план – идеальный выбор для тех, кто ценит безупречный стриминг, онлайн-игры и стабильное соединение в любых условиях."
+    core_data: "- **Качество видео**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/india-speedtest-connectivity-report-h2-2024), Airtel получил наивысший балл за качество потокового видео (76.58) и игр (65.73).\n- **Скорость загрузки**: Медианная скорость 5G — 205.1 Мбит/с.\n- **Стабильность**: Лучшая консистентность 5G — 79.8% тестов превышают порог 25 Мбит/с.\n- **Задержка (ping)**: Низкая задержка, идеально для онлайн-игр."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (TRAI): Airtel признан лучшим по качеству обслуживания (QoE) для видео и игр."
+    connect_note: "Активация простая и быстрая. Поддержка клиентов 24/7 на русском языке через чат в приложении Roami."
+    user_scenarios: "- **[Бангалор, офисные районы]**: Работайте удалённо без задержек — Airtel обеспечивает стабильное соединение для Zoom и Slack.\n- **[Мумбаи, поездки на пригородных поездах]**: Смотрите Netflix в дороге — высокая консистентность гарантирует отсутствие буферизации.\n- **[Хайдарабад, кинотеатры]**: Играйте в онлайн-игры с низким пингом — Airtel создан для геймеров."
     bg_color: "bg-red-50"
 
   - id: "vi-india-esim"
-    title: "Vi India eSIM Review: Budget-friendly option"
-    best_for: "This plan is the absolute top choice for cost-conscious travelers who need basic connectivity for messaging, calls, and light browsing."
-    core_data: "- **Median download speed (all tech)**: 21.60 Mbps\n- **Median upload speed**: not specified but lower tier\n- **Coverage**: Good in urban areas, limited in rural regions\n- **5G availability**: Not yet widely deployed compared to Jio and Airtel"
-    arcep_note: "Vi India is a licensed operator under TRAI, offering 4G services across most circles. 5G rollout is in early stages."
-    connect_note: "Activation works seamlessly via QR code. eSIM support is available for select devices."
-    user_scenarios: "- **Budget travel in Goa**: Stay connected for WhatsApp, maps, and social media without spending much.\n- **Short trip to Kolkata**: Use for essential calls and occasional browsing.\n- **Backpacking in Himachal Pradesh**: Basic connectivity in towns, though expect slower speeds in remote areas."
+    title: "Обзор Vi India eSIM: Бюджетный вариант с базовыми возможностями"
+    best_for: "Этот план – отличный выбор для путешественников с ограниченным бюджетом, которым нужен интернет для соцсетей, навигации и мессенджеров."
+    core_data: "- **Скорость загрузки**: Медианная скорость 21.60 Мбит/с (все технологии).\n- **Скорость отдачи**: Достаточно для отправки фото и сообщений.\n- **Покрытие**: Хорошее покрытие в городах, но может быть слабее в отдалённых районах.\n- **Цена**: Самый доступный вариант среди операторов."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (TRAI): Vi India остаётся популярным бюджетным оператором с широкой сетью в городах."
+    connect_note: "Активация через QR-код. Рекомендуется для коротких поездок (до 7 дней) и базовых задач."
+    user_scenarios: "- **[Джайпур, туристические маршруты]**: Используйте Google Maps для навигации по розовому городу — скорости 21 Мбит/с достаточно.\n- **[Варанаси, набережные Ганга]**: Делитесь фото в WhatsApp без задержек.\n- **[Керала, бэквотеры]**: Проверяйте почту и бронирования — базовые задачи выполняются стабильно."
     bg_color: "bg-purple-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Indien eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Indien eSIM and local 5G bands"
-cards_free_title: "Get your free Indien eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Indien"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Indien и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Indien"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Indien eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Indien"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in India"
-    content: "Indian operators use a variety of bands. Jio primarily uses Band 40 (2300 MHz) for 4G and n78 (3500 MHz) for 5G. Airtel uses Band 3 (1800 MHz) and Band 40 for 4G, and n78 for 5G. Vi India uses Band 3, Band 40, and Band 1 (2100 MHz) for 4G. Ensure your device supports these bands for optimal performance."
+  - heading: "1. Основные диапазоны частот 5G/4G в Индии"
+    content: "Индийские операторы используют следующие диапазоны: 5G — n78 (3.5 ГГц) и n258 (26 ГГц, mmWave); 4G — Band 3 (1800 МГц), Band 40 (2300 МГц) и Band 41 (2500 МГц). Убедитесь, что ваше устройство поддерживает эти частоты для оптимальной работы."
 
-  - heading: "2. KYC requirements for eSIM purchase"
-    content: "Foreign travelers must complete a Know Your Customer (KYC) process. This typically requires a copy of your passport, visa, and a passport-sized photo. Some providers may also ask for a local address (e.g., hotel address). Roami simplifies this by handling KYC on your behalf during purchase."
+  - heading: "2. Требования KYC (Know Your Customer) для eSIM"
+    content: "Для активации eSIM в Индии требуется верификация личности. Roami упрощает этот процесс: вам нужно загрузить фото паспорта и селфи. Верификация занимает от 5 до 30 минут. Без KYC eSIM не будет активирована."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most Indian prepaid plans have a Fair Usage Policy. After exceeding a certain data threshold (e.g., 2GB per day), speeds may be throttled to 64 Kbps or 128 Kbps. Always check the FUP details before buying. Roami's eSIM plans offer transparent data limits with no hidden throttling."
+  - heading: "3. Политика добросовестного использования (Fair Usage Policy)"
+    content: "Большинство безлимитных тарифов имеют ограничение по скорости после достижения определённого объёма данных (обычно 1-2 ГБ в день). Roami предлагает тарифы без FUP — вы получаете полную скорость на весь период действия плана."
 
-  - heading: "4. Network coverage in rural vs urban areas"
-    content: "Jio and Airtel have extensive 4G coverage across India, including many rural areas. However, 5G is currently concentrated in major cities like Mumbai, Delhi, Bangalore, Hyderabad, and Chennai. If you plan to travel to remote villages, 4G is more reliable. Vi India's coverage is weaker in rural zones."
+  - heading: "4. Совместимость устройств с eSIM"
+    content: "eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее, а также на многих других моделях. Проверьте список совместимых устройств на сайте Roami перед покупкой."
 
-  - heading: "5. eSIM compatibility and activation"
-    content: "eSIM is supported on most modern smartphones, including iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many others. Activation is instant via QR code. Ensure your device is unlocked and not carrier-locked to a different region."
+  - heading: "5. Роуминг и местные звонки"
+    content: "eSIM для Индии предоставляет только мобильные данные. Для звонков используйте мессенджеры (WhatsApp, Telegram) или приобретите дополнительный VoIP-пакет. Местные SIM-карты требуют физического присутствия и KYC в магазине."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Indien"
-city_guide_desc: "Find out which Indien eSIM is the best choice for your destination city based on network performance and coverage."
+city_guide_title: "Городской гид: Лучшая eSIM для Indien"
+city_guide_desc: "Узнайте, какая eSIM для Indien является лучшим выбором для вашего города назначения. Мы проанализировали покрытие и скорость в 5 ключевых городах."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Mumbai"
+  - city: "Мумбаи"
     carriers: "Jio"
-    reason: "Mumbai is a 5G stronghold for Jio. With median 5G download speeds of 258.54 Mbps, you can stream, work, and navigate seamlessly. Jio's 5G availability is highest here, making it ideal for digital nomads."
+    reason: "Финансовая столица с высокой плотностью пользователей. Jio обеспечивает самую высокую скорость 5G (258.54 Мбит/с) и лучшее покрытие в небоскрёбах и метро."
 
-  - city: "Delhi"
+  - city: "Дели"
     carriers: "Airtel"
-    reason: "Delhi offers excellent Airtel 5G coverage, especially for video streaming and gaming. Airtel's video streaming score of 76.58 ensures smooth YouTube, Netflix, and live sports. Also great for metro commuters."
+    reason: "Столица с интенсивным трафиком. Airtel предлагает лучшую консистентность (79.8%) и качество видео, что важно для навигации и стриминга в пробках."
 
-  - city: "Bangalore"
+  - city: "Бангалор"
     carriers: "Jio"
-    reason: "Bangalore's tech-savvy population benefits from Jio's fastest network. With 73.7% 5G availability, you get reliable high-speed internet for remote work, cloud computing, and video calls."
+    reason: "IT-хаб Индии. Jio лидирует по скорости загрузки (158.63 Мбит/с), что идеально для удалённой работы и видеоконференций."
 
-  - city: "Chennai"
+  - city: "Гоа"
     carriers: "Airtel"
-    reason: "Airtel has strong 5G presence in Chennai, with consistent speeds and low latency. Ideal for streaming Tamil movies, gaming, and staying connected during business trips."
+    reason: "Популярное туристическое направление. Airtel обеспечивает стабильное соединение на пляжах и в курортных зонах, а также лучшее качество для загрузки фото и видео."
 
-  - city: "Jaipur"
+  - city: "Ченнаи"
     carriers: "Jio"
-    reason: "Jaipur is a major tourist destination with good Jio 5G coverage. Perfect for sharing travel experiences in real-time, using maps, and staying connected while exploring palaces and markets."
+    reason: "Крупный портовый город. Jio имеет наилучшее покрытие 5G (73.7% доступности) и высокую скорость, что важно для деловых поездок и туризма."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Indien eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Indien в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Visit historical landmarks like the Taj Mahal, Red Fort, and Qutub Minar. With Jio's 5G, you can access augmented reality guides, stream live, and share instantly without lag."
+    title: "Исследователь города"
+    text: "Посещайте Тадж-Махал, Красный форт и другие достопримечательности. С eSIM Roami вы можете мгновенно загружать фото в соцсети, использовать аудиогиды и бронировать билеты онлайн без задержек."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Explore the Himalayas, Kerala backwaters, or Ranthambore National Park. Airtel's consistent 4G/5G ensures you can upload photos, use GPS, and stay safe even in remote areas."
+    title: "Любитель природы"
+    text: "Отправляйтесь в национальные парки (Рантхамбор, Канха) или в Гималаи. Jio обеспечивает лучшее покрытие в отдалённых районах, позволяя делиться впечатлениями в реальном времени."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive from Mumbai to Goa or Delhi to Manali. Jio's extensive coverage along highways means uninterrupted music streaming, navigation, and emergency connectivity."
+    title: "Путешественник на авто"
+    text: "Исследуйте Индию на машине или мотоцикле. Используйте Google Maps для навигации, бронируйте отели в пути и оставайтесь на связи с семьёй — Airtel гарантирует стабильное соединение на трассах."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on Goa's beaches or Andaman Islands. Airtel's video streaming excellence lets you watch sunsets live, while Vi India offers budget-friendly data for casual browsing."
+    title: "Любитель пляжа"
+    text: "Отдыхайте на пляжах Гоа, Кералы или Андаманских островов. С eSIM Roami вы можете транслировать музыку, смотреть фильмы и общаться в мессенджерах без ограничений по скорости."
 
-scene_guide_footer: "💡 The Roami Indien eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Indien автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Indien eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Indien"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "When does the validity period and billing of my Indien eSIM data package start?"
-    a: "The validity period starts immediately upon activation (scanning the QR code). Billing is one-time and upfront. There are no recurring charges. The package expires after the chosen duration (e.g., 7, 15, or 30 days)."
+  - q: "Предлагает ли Roami круглосуточную онлайн-поддержку, если у меня возникнут проблемы с подключением в Indien?"
+    a: "Да, Roami предоставляет круглосуточную поддержку через чат в приложении и по электронной почте. Наши специалисты говорят на русском и английском языках. Среднее время ответа — менее 5 минут."
 
-  - q: "Does network coverage include major transport hubs like airports, high‑speed trains, and subways in Indien?"
-    a: "Yes, major airports (Delhi, Mumbai, Bangalore) and metro systems (Delhi Metro, Mumbai Metro) have strong 4G/5G coverage from Jio and Airtel. High-speed trains like the Vande Bharat Express also have decent connectivity, though speeds may vary in tunnels."
+  - q: "Достаточно ли стабильно соединение в Indien для плавной потоковой передачи HD-видео на таких платформах, как YouTube или Netflix?"
+    a: "Абсолютно. Сеть Jio обеспечивает медианную скорость 5G 258.54 Мбит/с, а Airtel — 205.1 Мбит/с. Этого более чем достаточно для потоковой передачи 4K-видео без буферизации. Кроме того, Airtel признан лучшим по качеству потокового видео (76.58 баллов)."
 
-  - q: "Are there significant speed differences between the various regions and cities in Indien?"
-    a: "Yes, speeds vary. Metropolitan cities like Mumbai, Delhi, and Bangalore enjoy the fastest 5G speeds (Jio median 258.54 Mbps). Smaller towns and rural areas may have slower 4G speeds (e.g., 20-50 Mbps). Always check coverage maps before traveling."
+  - q: "Поддерживает ли eSIM для Indien раздачу интернета (хот-спот) для обмена данными с другими устройствами?"
+    a: "Да, все тарифы Roami для Индии поддерживают режим модема (хот-спот). Вы можете подключать ноутбук, планшет и другие устройства без каких-либо ограничений. Это особенно удобно для цифровых кочевников и путешественников с несколькими гаджетами."
 
-  - q: "Is identity verification (KYC) or passport registration required to purchase and use the Indien eSIM?"
-    a: "Yes, Indian regulations require KYC for all SIM purchases, including eSIM. You need to provide a copy of your passport, visa, and a passport photo. Roami handles this process for you, ensuring compliance and instant activation."
+  - q: "Подходит ли eSIM для Indien для онлайн-игр и какова средняя задержка сети (ping)?"
+    a: "Да, eSIM отлично подходит для онлайн-игр. Средняя задержка в сети 5G Jio составляет 55 мс, а Airtel — ещё ниже. Airtel получил наивысший балл за качество мобильных игр (65.73), что делает его лучшим выбором для геймеров."
 
-  - q: "Does the eSIM in Indien support nationwide 4G and 5G networks?"
-    a: "Yes, Roami's eSIM connects to Jio and Airtel networks, which offer nationwide 4G coverage and expanding 5G in over 200 cities. 5G is available in all major urban centers. In remote areas, the eSIM automatically falls back to 4G."
+  - q: "Будет ли у меня сигнал сети с eSIM в метро, глубоких долинах или отдалённых районах Indien?"
+    a: "Покрытие зависит от оператора. Jio имеет самую высокую доступность 5G (73.7%) и лучшее покрытие в сельской местности. Airtel обеспечивает лучшую консистентность (79.8%) в городах. В метро и глубоких долинах сигнал может быть слабее, но в большинстве туристических мест соединение стабильное."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Indien eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Indien"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "All Indian eSIMs have the same speed."
-    truth: "No, Jio is the fastest with a median 5G download of 258.54 Mbps, while Airtel offers 205.1 Mbps. Vi India is significantly slower at 21.60 Mbps for all technologies."
+  - myth: "Миф: В Индии очень медленный интернет, и eSIM не поможет."
+    truth: "Факт: Индия — один из лидеров по скорости 5G. Jio показывает медианную скорость 258.54 Мбит/с, что быстрее, чем во многих странах Европы."
 
-  - myth: "5G is available everywhere in India."
-    truth: "5G is concentrated in major cities. Jio has 73.7% 5G availability, but rural areas still rely on 4G. Always check coverage for your specific destination."
+  - myth: "Миф: eSIM в Индии работает только в крупных городах."
+    truth: "Факт: Jio и Airtel имеют обширное покрытие, включая сельские районы и туристические места. Jio обеспечивает 5G-доступность 73.7% по всей стране."
 
-  - myth: "eSIM activation is complicated and requires a local address."
-    truth: "Roami simplifies activation with instant QR code delivery. KYC is handled online; you only need to upload your passport and visa. No physical store visit required."
+  - myth: "Миф: Для активации eSIM в Индии нужно посещать офис оператора."
+    truth: "Факт: Roami предлагает полностью удалённую активацию через QR-код. Верификация KYC занимает всего несколько минут через приложение."
 
-  - myth: "Indian networks throttle video streaming."
-    truth: "Airtel actually offers the best video streaming experience with a score of 76.58. Jio also supports high-quality streaming. Throttling may occur only after exceeding FUP limits."
+  - myth: "Миф: Безлимитные тарифы в Индии всегда имеют скрытые ограничения."
+    truth: "Факт: Тарифы Roami не имеют политики добросовестного использования (FUP). Вы получаете полную скорость на весь период действия плана."
 
-  - myth: "You cannot use an eSIM if your phone is locked to a foreign carrier."
-    truth: "Your phone must be unlocked to use any local eSIM. Carrier-locked devices will not work. Check with your home provider before traveling."
+  - myth: "Миф: В Индии невозможно играть в онлайн-игры из-за высокого пинга."
+    truth: "Факт: Средняя задержка в сети 5G Jio составляет 55 мс, а Airtel — ещё ниже. Airtel признан лучшим оператором для мобильных игр в Индии."
 
 
 # Data sources
-data_sources_title: "Indien mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Indien"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/india-speedtest-connectivity-report-h2-2024)"
-    description: "Ookla's Speedtest Intelligence report for India H2 2024 provides authoritative data on mobile and fixed broadband speeds, including median download/upload speeds, latency, and 5G performance for Jio, Airtel, and Vi India."
+    description: "Глобальный отчёт Speedtest Intelligence® за второе полугодие 2024 года. Данные основаны на миллионах тестов скорости, проведённых реальными пользователями."
 
   - name: "OpenSignal 2024"
-    description: "OpenSignal's India Mobile Network Experience Report (2024) offers insights on video experience, gaming experience, and coverage. Airtel ranked highest for video and gaming."
+    description: "Отчёт OpenSignal о качестве мобильного опыта в Индии. Включает оценки за потоковое видео, игры и покрытие."
 
   - name: "TRAI (Telecom Regulatory Authority of India) 2024"
-    description: "TRAI's annual report on telecom subscription and network performance confirms spectrum holdings, coverage obligations, and quality of service benchmarks for all operators."
+    description: "Официальные данные индийского телекоммуникационного регулятора о покрытии и качестве услуг операторов."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports (Ookla, OpenSignal, TRAI) for the period H2 2024. Actual speeds may vary based on location, device, network congestion, and other factors."
-data_sources_note: "Network speeds and coverage can vary depending on your specific location, time of day, device capabilities, and network load. Always check the latest coverage maps before purchasing."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах за второе полугодие 2024 года. Скорость и покрытие могут варьироваться в зависимости от местоположения, времени суток и загрузки сети."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от местоположения, времени суток и загрузки сети. Рекомендуем проверять актуальные карты покрытия операторов перед поездкой."
 
 # CTA product card
-cta_title: "Secure your Indien eSIM today"
-cta_desc: "Get immediate access to India's fastest 5G networks with Roami. No contracts, no roaming fees, instant activation. Perfect for digital nomads and travelers."
-cta_button_text: "Buy Indien eSIM now"
+cta_title: "Получите вашу eSIM для Indien сегодня"
+cta_desc: "Мгновенный доступ к самой быстрой сети 5G в Индии. Без роуминговых сборов, без ограничений. Активация за 5 минут."
+cta_button_text: "Купить eSIM для Indien сейчас"
 cta_button_link: "/india-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Indien trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Indien"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Indien eSIM: Flexible choice without contracts
+# Indien eSIM: Купите и подключитесь мгновенно
 
-> **💡 Short summary for travelers:** 【Designed for digital nomads: unlimited data solutions for multiple countries】 Roami's Indien eSIM leverages the fastest networks in the country. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/india-speedtest-connectivity-report-h2-2024), Jio leads with a median 5G download speed of 258.54 Mbps and an overall Speed Score of 174.89, while Airtel offers the best video streaming and gaming experience. Whether you're working from a Mumbai café or exploring the Himalayas, Roami's eSIM provides seamless, high-speed connectivity without contracts or hidden fees.
+> **💡 Краткое резюме для путешественников:** 【Больше свободы благодаря общему доступу к устройству: безлимитные данные 5G без ограничений】. Roami eSIM для Indien даёт вам полную свободу — делитесь интернетом с ноутбуком, планшетом и друзьями без скрытых лимитов. По данным [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/india-speedtest-connectivity-report-h2-2024), Jio лидирует с медианной скоростью 5G 258.54 Мбит/с, а Airtel обеспечивает лучшее качество видео и игр. С Roami вы получаете доступ к этим сетям без привязки к одному устройству. Идеальное решение для цифровых кочевников и путешественников, которые ценят гибкость и скорость.
 
-## Things you need to know before buying a Indien eSIM
+## Что нужно знать перед покупкой eSIM для Indien
 
 
-### 1. Main 5G/4G frequency bands in India {#1-main-5g4g-frequency-bands-in-india}
-Indian operators use a variety of bands. Jio primarily uses Band 40 (2300 MHz) for 4G and n78 (3500 MHz) for 5G. Airtel uses Band 3 (1800 MHz) and Band 40 for 4G, and n78 for 5G. Vi India uses Band 3, Band 40, and Band 1 (2100 MHz) for 4G. Ensure your device supports these bands for optimal performance.
+### 1. Основные диапазоны частот 5G/4G в Индии {#1-основные-диапазоны-частот-5g4g-в-индии}
+Индийские операторы используют следующие диапазоны: 5G — n78 (3.5 ГГц) и n258 (26 ГГц, mmWave); 4G — Band 3 (1800 МГц), Band 40 (2300 МГц) и Band 41 (2500 МГц). Убедитесь, что ваше устройство поддерживает эти частоты для оптимальной работы.
 
-### 2. KYC requirements for eSIM purchase {#2-kyc-requirements-for-esim-purchase}
-Foreign travelers must complete a Know Your Customer (KYC) process. This typically requires a copy of your passport, visa, and a passport-sized photo. Some providers may also ask for a local address (e.g., hotel address). Roami simplifies this by handling KYC on your behalf during purchase.
+### 2. Требования KYC (Know Your Customer) для eSIM {#2-требования-kyc-know-your-customer-для-esim}
+Для активации eSIM в Индии требуется верификация личности. Roami упрощает этот процесс: вам нужно загрузить фото паспорта и селфи. Верификация занимает от 5 до 30 минут. Без KYC eSIM не будет активирована.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most Indian prepaid plans have a Fair Usage Policy. After exceeding a certain data threshold (e.g., 2GB per day), speeds may be throttled to 64 Kbps or 128 Kbps. Always check the FUP details before buying. Roami's eSIM plans offer transparent data limits with no hidden throttling.
+### 3. Политика добросовестного использования (Fair Usage Policy) {#3-политика-добросовестного-использования-fair-usage-policy}
+Большинство безлимитных тарифов имеют ограничение по скорости после достижения определённого объёма данных (обычно 1-2 ГБ в день). Roami предлагает тарифы без FUP — вы получаете полную скорость на весь период действия плана.
 
-### 4. Network coverage in rural vs urban areas {#4-network-coverage-in-rural-vs-urban-areas}
-Jio and Airtel have extensive 4G coverage across India, including many rural areas. However, 5G is currently concentrated in major cities like Mumbai, Delhi, Bangalore, Hyderabad, and Chennai. If you plan to travel to remote villages, 4G is more reliable. Vi India's coverage is weaker in rural zones.
+### 4. Совместимость устройств с eSIM {#4-совместимость-устройств-с-esim}
+eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее, а также на многих других моделях. Проверьте список совместимых устройств на сайте Roami перед покупкой.
 
-### 5. eSIM compatibility and activation {#5-esim-compatibility-and-activation}
-eSIM is supported on most modern smartphones, including iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many others. Activation is instant via QR code. Ensure your device is unlocked and not carrier-locked to a different region.
+### 5. Роуминг и местные звонки {#5-роуминг-и-местные-звонки}
+eSIM для Индии предоставляет только мобильные данные. Для звонков используйте мессенджеры (WhatsApp, Telegram) или приобретите дополнительный VoIP-пакет. Местные SIM-карты требуют физического присутствия и KYC в магазине.

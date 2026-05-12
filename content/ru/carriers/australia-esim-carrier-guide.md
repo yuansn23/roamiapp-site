@@ -1,64 +1,64 @@
 ---
-title: "Australien eSIM: Flexible multi-day data plans"
-description: "Experience fast internet in Australien with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:38:45+00:00"
-keywords: "eSIM Australien, prepaid data, 5G network, Optus, Telstra, Vodafone, Superloop"
+title: "Australien eSIM: Экономичные тарифы для поездок"
+description: "Испытайте быстрый интернет в Australien с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:54:35+00:00"
+keywords: "eSIM Australien, предоплаченные данные, сеть 5G, туристическая eSIM, Roami, Optus, Telstra, Vodafone, скорость интернета"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Australien eSIM Guide"
+  - name: "Руководство по eSIM для Australien"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Australien Travel eSIM Latest Guide"
-hero_subtitle_main: "Australien eSIM: Flexible multi-day data plans"
-hero_subtitle_highlight: "Premium 5G network coverage by Optus, Telstra and Vodafone"
-hero_description_line1: "Make overseas travel easy and fast with a Australien eSIM. It covers the main local mobile networks with stable signals, transparent pricing, and zero hidden fees."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "🇦🇺 Australien Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Australien eSIM: Экономичные тарифы для поездок"
+hero_subtitle_highlight: "Премиальное покрытие 5G от Optus, Telstra и Vodafone"
+hero_description_line1: "Выберите eSIM для Australien, чтобы подключиться к высокоскоростным сетям 5G по прибытии. Совместима с iPhone и Android, обеспечивает стабильный интернет для поездок, работы или учёбы, экономя ваше время и деньги."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Australien eSIM"
 hero_link_url: "/australia-esim/"
-tldr_summary: "【Top choice for digital nomads: seamless cross‑border 5G network for continuous multi‑country travel】. Roami's Australien eSIM leverages Optus's award‑winning 5G network, which recorded a median download speed of 199.92 Mbps in 2H 2025, making it the fastest 5G network in the country. Whether you're hopping between Sydney, Melbourne, or Adelaide, you get consistent high‑speed connectivity without roaming fees. For digital nomads requiring reliable video calls and large file uploads, Optus's median upload speed of 12.95 Mbps over 5G ensures smooth remote work. Choose Roami for instant activation and flexible multi‑day plans tailored to your travel itinerary."
+tldr_summary: "【Лучший выбор для цифровых кочевников: бесшовная трансграничная сеть 5G для непрерывных поездок по нескольким странам】 Roami eSIM для Australien обеспечивает доступ к самым быстрым сетям страны. Согласно последним данным Ookla ([Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)), Optus лидирует с медианной скоростью загрузки 124.34 Мбит/с (все технологии) и 199.92 Мбит/с в сети 5G, что делает его идеальным для потокового видео и видеозвонков. Telstra, в свою очередь, предлагает лучшее покрытие в сельской местности и самую стабильную сеть (91.6% успешных тестов). Выбирайте Roami eSIM, чтобы оставаться на связи в любом уголке Австралии — от пляжей Сиднея до национальных парков Квинсленда."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Australien eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Australien eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Australien eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Australien выбрать?"
 
   - href: "#operators"
-    text: "Top Australien eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Australien"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Australien"
+    text: "Городской гид: Лучшая eSIM для Australien"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Australien eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Australien"
 
   - href: "#faq"
-    text: "Frequently asked questions about Australien eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Australien"
 
   - href: "#myths"
-    text: "Myths and facts about Australien eSIM"
+    text: "Мифы и факты о eSIM для Australien"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Australien eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Australien выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,249 +67,249 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "Optus"
     carrier_class: "text-yellow-600"
-    reason: "Best overall mobile network with median download 124.34 Mbps and top 5G gaming experience. Ideal for remote work and streaming."
+    reason: "Optus признан лучшей мобильной сетью и лучшей сетью 5G в Австралии (2H 2025). Медианная скорость загрузки 124.34 Мбит/с, а в 5G — 199.92 Мбит/с. Идеально для работы с большими файлами и видеоконференций."
 
-  - travel: "Rural & remote explorers"
+  - travel: "Путешественники по сельской местности"
     carrier: "Telstra"
-    carrier_class: "text-blue-600"
-    reason: "Highest network consistency (91.6% of samples above 5 Mbps down / 1 Mbps up). Best for outback and regional travel."
+    carrier_class: "text-red-600"
+    reason: "Telstra имеет самую стабильную сеть (Consistency Score 91.6%), что критически важно в удаленных районах. Хотя скорость немного ниже (118.03 Мбит/с), покрытие в национальных парках и на побережье лучшее."
 
-  - travel: "Budget‑conscious travelers"
+  - travel: "Геймеры и стримеры"
+    carrier: "Optus"
+    carrier_class: "text-yellow-600"
+    reason: "Optus предлагает лучший игровой опыт в 5G (5G Game Score). Низкая задержка (29 мс в 5G) и высокая скорость загрузки обеспечивают плавный геймплей и стриминг в высоком разрешении."
+
+  - travel: "Городские исследователи"
     carrier: "Vodafone"
     carrier_class: "text-red-600"
-    reason: "Best mobile video experience (score 85.96). Affordable plans with solid urban coverage."
-
-  - travel: "Fixed broadband replacement"
-    carrier: "Superloop"
-    carrier_class: "text-green-600"
-    reason: "Fastest fixed ISP with median download 274.98 Mbps. Great for long‑term stays or tethering."
+    reason: "Vodafone показал лучший опыт просмотра видео (Video Streaming Score 85.96). В городах, таких как Мельбурн и Сидней, сеть обеспечивает отличное качество потокового видео и быстрый веб-серфинг."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Australien travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Australien"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "optus-esim"
-    title: "Optus eSIM Review: Best overall 5G performance"
-    best_for: "This plan is the absolute top choice for digital nomads and heavy data users who need the fastest 5G speeds and low latency for video conferencing, gaming, and large file transfers."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025), Optus had the Best 5G Network in Australia during 2H 2025.\n- **Median download speed (all technologies)**: 124.34 Mbps\n- **Median 5G download speed**: 199.92 Mbps\n- **Median upload speed**: 9.8 Mbps\n- **Median 5G upload speed**: 12.95 Mbps\n- **Latency (all technologies)**: 32 ms\n- **5G latency**: 29 ms\n- **Speedtest Connectivity Score**: 77.59\n- **5G Connectivity Score**: 72.58\n- **5G Consistency**: 80.5% of samples above 25 Mbps down / 3 Mbps up"
-    arcep_note: "Confirmed by the Australian Communications and Media Authority (ACMA) as a licensed national mobile operator with extensive spectrum holdings in the 700 MHz, 1800 MHz, 2100 MHz, 2300 MHz, and 3500 MHz bands."
-    connect_note: "Activation works seamlessly with Roami eSIM. Simply scan the QR code upon arrival, and your device will automatically connect to Optus's network. No physical SIM swap required."
-    user_scenarios: "- **Sydney Opera House & Harbour Bridge**: Stream live 4K video of the iconic skyline without buffering, thanks to Optus's 199.92 Mbps 5G download speed.\n- **Great Barrier Reef (Queensland)**: Upload high‑resolution underwater photos instantly with 12.95 Mbps 5G upload speed.\n- **Melbourne CBD**: Enjoy lag‑free video calls and cloud backups while coworking from Federation Square."
+    title: "Обзор Optus eSIM: Лучшая скорость и 5G"
+    best_for: "Этот план – абсолютно лучший выбор для тех, кому нужна максимальная скорость интернета и передовые возможности 5G. Optus лидирует по всем ключевым показателям производительности."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025), Optus имеет лучшую сеть 5G в Австралии (2H 2025).\n- **Скорость загрузки (все сети)**: Медианная скорость 124.34 Мбит/с.\n- **Скорость загрузки (5G)**: Медианная скорость 199.92 Мбит/с.\n- **Скорость выгрузки (5G)**: 12.95 Мбит/с.\n- **Задержка (5G)**: 29 мс.\n- **Connectivity Score**: 77.59 (общий), 72.58 (5G)."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (ACMA) и независимыми тестами Speedtest Intelligence."
+    connect_note: "Активация работает безупречно через QR-код. Рекомендуется активировать eSIM перед вылетом, чтобы по прибытии сразу подключиться к сети Optus."
+    user_scenarios: "- **Сиднейский мост Харбор-Бридж**: Делитесь фотографиями и видео в реальном времени без задержек благодаря высокой скорости загрузки.\n- **Национальный парк Голубые горы**: Используйте навигацию и стриминг музыки в походе — сеть Optus обеспечивает стабильное покрытие в популярных туристических зонах.\n- **Работа из кафе в Мельбурне**: Проводите видеоконференции и загружайте большие файлы с минимальной задержкой."
     bg_color: "bg-yellow-50"
 
   - id: "telstra-esim"
-    title: "Telstra eSIM Review: Best rural & consistent coverage"
-    best_for: "This plan is the absolute top choice for travelers venturing into remote areas, national parks, and the Outback, where network consistency is critical."
-    core_data: "- **Network consistency**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025), Telstra recorded the best mobile network Consistency in Australia, with 91.6% of samples meeting or exceeding 5 Mbps download and 1 Mbps upload.\n- **Median download speed (all technologies)**: 118.03 Mbps\n- **Median 5G download speed**: 163.22 Mbps\n- **5G Consistency**: Not the highest (Optus leads at 80.5%), but overall reliability is unmatched.\n- **Coverage**: Telstra's 4G/5G network covers over 99% of the Australian population, including many regional highways."
-    arcep_note: "Confirmed by ACMA as the incumbent carrier with the largest geographic coverage obligation under the Universal Service Obligation (USO)."
-    connect_note: "Roami eSIM automatically selects Telstra when available. In deep rural areas, you may need to manually select Telstra from the network list for best results."
-    user_scenarios: "- **Uluru (Ayers Rock)**: Stay connected while exploring the Red Centre. Telstra's consistency ensures you can share photos and navigate without dropouts.\n- **Great Ocean Road**: Stream music and use GPS navigation seamlessly along the scenic coastal route.\n- **Tasmania's wilderness**: Reliable coverage in national parks like Cradle Mountain for emergency calls and basic data."
-    bg_color: "bg-blue-50"
+    title: "Обзор Telstra eSIM: Надежность и покрытие"
+    best_for: "Этот план – лучший выбор для путешественников, которые планируют посещать отдаленные регионы, национальные парки и сельскую местность. Telstra обеспечивает самую стабильную сеть."
+    core_data: "- **Стабильность сети**: 91.6% тестов соответствуют порогу (5 Мбит/с загрузка, 1 Мбит/с выгрузка) — лучший показатель в Австралии.\n- **Скорость загрузки (все сети)**: Медианная скорость 118.03 Мбит/с.\n- **Скорость загрузки (5G)**: Медианная скорость 163.22 Мбит/с.\n- **Consistency Score**: 91.6 (лучший в стране).\n- **Покрытие**: Самая обширная сеть в сельской местности и на побережье."
+    arcep_note: "Подтверждено отчетами ACMA и независимыми исследованиями покрытия."
+    connect_note: "Активация проста: установите eSIM до поездки и включите данные по прибытии. Telstra автоматически подключается к лучшей доступной вышке."
+    user_scenarios: "- **Путешествие по Великой океанской дороге**: Оставайтесь на связи на всем протяжении маршрута, включая удаленные участки.\n- **Посещение национального парка Какаду**: Используйте карты и экстренную связь в самых отдаленных уголках парка.\n- **Кемпинг на побережье Западной Австралии**: Наслаждайтесь стабильным интернетом даже в местах, где другие операторы не ловят."
+    bg_color: "bg-red-50"
 
   - id: "vodafone-esim"
-    title: "Vodafone eSIM Review: Best video streaming experience"
-    best_for: "This plan is the absolute top choice for entertainment lovers who prioritize smooth video streaming and social media browsing on a budget."
-    core_data: "- **Mobile video experience**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025), Vodafone achieved the Best Mobile Video Experience with a Video Streaming Score of 85.96.\n- **Median download speed (all technologies)**: Not the fastest, but competitive in urban areas.\n- **5G availability**: Vodafone has rolled out 5G in major cities including Sydney, Melbourne, Brisbane, Perth, and Adelaide.\n- **Pricing**: Typically offers more affordable prepaid plans compared to Optus and Telstra."
-    arcep_note: "Confirmed by ACMA as a major mobile network operator with spectrum in the 700 MHz, 1800 MHz, 2100 MHz, and 3500 MHz bands."
-    connect_note: "Roami eSIM works with Vodafone's network. In areas with weak Vodafone signal, the eSIM may automatically roam to Optus or Telstra depending on roaming agreements."
-    user_scenarios: "- **Bondi Beach**: Stream live surf cams and upload Instagram stories with high video quality.\n- **Melbourne's laneways**: Enjoy buffer‑free YouTube and Netflix during café breaks.\n- **Perth's Kings Park**: Video call friends and family while overlooking the Swan River."
+    title: "Обзор Vodafone eSIM: Лучшее видео и городское покрытие"
+    best_for: "Этот план – идеальный выбор для любителей потокового видео, социальных сетей и городских путешествий. Vodafone предлагает отличное качество видео и хорошую скорость в городах."
+    core_data: "- **Видео-стриминг**: Лучший опыт просмотра видео (Video Streaming Score 85.96).\n- **Скорость загрузки (5G)**: Конкурентоспособная скорость в городах.\n- **Городское покрытие**: Отличное покрытие в Сиднее, Мельбурне, Брисбене и Аделаиде.\n- **Задержка**: Низкая задержка для комфортного веб-серфинга и видеозвонков."
+    arcep_note: "Подтверждено данными Speedtest Intelligence и отзывами пользователей."
+    connect_note: "Активация eSIM занимает минуты. Рекомендуется для тех, кто планирует оставаться в городах и пригородах."
+    user_scenarios: "- **Шопинг в торговом центре Chadstone (Мельбурн)**: Смотрите обзоры товаров и стримите покупки в высоком качестве.\n- **Прогулка по набережной Брисбена**: Делитесь видео и фото в Instagram без буферизации.\n- **Посещение оперного театра в Сиднее**: Транслируйте представление в прямом эфире для друзей и семьи."
     bg_color: "bg-red-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Australien eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Australien eSIM and local 5G bands"
-cards_free_title: "Get your free Australien eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Australien"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Australien и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Australien"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Australien eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Australien"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Australia"
-    content: "Australian mobile networks operate on the following key bands: 4G: Band 1 (2100 MHz), Band 3 (1800 MHz), Band 5 (850 MHz), Band 7 (2600 MHz), Band 8 (900 MHz), Band 28 (700 MHz). 5G: n78 (3500 MHz) is the primary 5G band used by all three operators; n40 (2300 MHz) used by Optus; n5 (850 MHz) used by Telstra for wider 5G coverage. Ensure your device supports these bands for optimal performance."
+  - heading: "1. Основные диапазоны частот 5G/4G в Австралии"
+    content: "Австралийские операторы используют следующие диапазоны: 5G — n78 (3.5 ГГц), n40 (2.3 ГГц), n1 (2.1 ГГц); 4G — B1 (2100 МГц), B3 (1800 МГц), B5 (850 МГц), B7 (2600 МГц), B28 (700 МГц). Убедитесь, что ваш смартфон поддерживает эти частоты для оптимальной работы."
 
-  - heading: "2. KYC (Know Your Customer) requirements"
-    content: "To activate an Australian eSIM, you must provide a valid form of ID. For prepaid eSIMs, most providers require: passport number and country of issuance, or Australian driver's license. Some providers may also ask for a local Australian address (can be your hotel). Roami handles KYC on your behalf; you only need to upload a clear photo of your passport during the purchase process."
+  - heading: "2. Требования KYC (верификация личности)"
+    content: "Для покупки и использования eSIM в Австралии требуется регистрация паспорта или другого удостоверения личности. Это обязательное требование местного регулятора (ACMA). Roami eSIM автоматически запрашивает необходимые данные при активации."
 
-  - heading: "3. Fair Usage Policy (FUP) and data throttling"
-    content: "Most Australian prepaid eSIM plans have a Fair Usage Policy. Typically, after exceeding a certain data threshold (e.g., 50 GB per month), speeds may be throttled to 1.5 Mbps or 256 kbps. Always check the specific plan's FUP before purchasing. Roami's plans clearly state the data cap and any speed reductions after the cap."
+  - heading: "3. Политика добросовестного использования (Fair Usage Policy)"
+    content: "Большинство eSIM-провайдеров, включая Roami, применяют политику добросовестного использования. После превышения определенного лимита (обычно 30-50 ГБ в месяц) скорость может быть временно снижена. Рекомендуется выбирать тариф с запасом, если вы планируете активно использовать интернет."
 
-  - heading: "4. Network locking and device compatibility"
-    content: "Australian eSIMs are not locked to a specific network; you can choose between Optus, Telstra, or Vodafone depending on the Roami plan. However, your phone must be eSIM‑compatible and unlocked. Most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer) support eSIM. Check your device's IMEI for <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a>."
+  - heading: "4. Совместимость устройств и активация"
+    content: "eSIM Roami совместима с большинством современных смартфонов (iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее). Активация происходит через QR-код, который приходит на email после покупки. Установите eSIM до поездки, чтобы по прибытии сразу подключиться к сети."
 
-  - heading: "5. Emergency services and 000 calls"
-    content: "In Australia, you can always dial 000 (emergency) even without a SIM card or with zero balance. However, an active eSIM ensures that emergency services can locate you more accurately. All Australian networks support emergency SMS to 106 for people with hearing or speech impairments."
+  - heading: "5. Роуминг и международные звонки"
+    content: "eSIM Roami предназначена для использования данных в Австралии. Звонки и SMS обычно не поддерживаются, но вы можете использовать мессенджеры (WhatsApp, Telegram) для общения. Если вам нужен местный номер, рассмотрите дополнительные услуги операторов."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Australien"
-city_guide_desc: "Find out which Australien eSIM is the best choice for your destination city based on local network performance and coverage."
+city_guide_title: "Городской гид: Лучшая eSIM для Australien"
+city_guide_desc: "Узнайте, какая eSIM для Australien является лучшим выбором для вашего города назначения. Мы проанализировали данные Speedtest Intelligence и рекомендации местных экспертов."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Adelaide"
+  - city: "Сидней"
     carriers: "Optus"
-    reason: "Adelaide recorded the fastest median mobile download speed in Australia at 155.65 Mbps. Optus's 5G network is particularly strong here, making it ideal for data‑intensive tasks."
+    reason: "Сидней — деловой и туристический центр. Optus обеспечивает самую высокую скорость загрузки (124.34 Мбит/с) и лучшее покрытие 5G, что идеально для работы, стриминга и навигации по городу."
 
-  - city: "Melbourne"
-    carriers: "Optus or Telstra"
-    reason: "Melbourne has the fastest median fixed download speed (137.71 Mbps) and excellent mobile coverage. Optus leads in 5G speed, while Telstra offers the most consistent connectivity across the city's extensive tram and train network."
-
-  - city: "Sydney"
-    carriers: "Optus"
-    reason: "As Australia's largest city, Sydney benefits from Optus's best‑in‑class 5G network. Median 5G download speeds of 199.92 Mbps ensure smooth streaming and video calls even during peak hours."
-
-  - city: "Brisbane"
-    carriers: "Telstra"
-    reason: "Brisbane's spread‑out suburbs and surrounding natural attractions (e.g., Gold Coast, Sunshine Coast) require reliable coverage. Telstra's 91.6% consistency score makes it the safest choice for travelers exploring beyond the CBD."
-
-  - city: "Perth"
+  - city: "Мельбурн"
     carriers: "Vodafone"
-    reason: "Perth has a strong Vodafone 5G presence, and the operator's best video experience score (85.96) is perfect for enjoying streaming services during long flights or downtime. Vodafone also offers competitive pricing for budget travelers."
+    reason: "Мельбурн — культурная столица с развитой инфраструктурой. Vodafone показал лучший опыт просмотра видео (Score 85.96), что важно для потокового вещания и видеозвонков. Кроме того, Мельбурн — самый быстрый город по фиксированному интернету (137.71 Мбит/с)."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Аделаида"
+    carriers: "Optus"
+    reason: "Аделаида — самый быстрый город по мобильной скорости (155.65 Мбит/с). Optus, как лидер по скорости, обеспечит максимальную производительность в этом городе."
+
+  - city: "Брисбен"
+    carriers: "Telstra"
+    reason: "Брисбен — ворота в национальные парки и побережье Квинсленда. Telstra с лучшей стабильностью сети (91.6%) гарантирует связь как в городе, так и за его пределами."
+
+  - city: "Перт"
+    carriers: "Telstra"
+    reason: "Перт — один из самых удаленных крупных городов мира. Telstra имеет самое обширное покрытие в Западной Австралии, что критически важно для поездок по региону."
+
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Australien eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Australien в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Visit iconic landmarks like the Sydney Opera House, Melbourne's laneways, and Adelaide's festivals. With Optus's 5G network, you can live‑stream events, navigate with real‑time maps, and share high‑resolution photos instantly."
+    title: "Исследователь города"
+    text: "Исследуйте Сидней, Мельбурн и Брисбен с максимальной скоростью. Используйте Optus или Vodafone для быстрого поиска ресторанов, бронирования билетов и стриминга городских событий."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Explore the Great Barrier Reef, Daintree Rainforest, and the Blue Mountains. Telstra's consistent coverage ensures you stay connected even in remote national parks, allowing you to upload wildlife photos and use GPS tracking."
+    title: "Любитель природы"
+    text: "Отправляйтесь в национальные парки, такие как Какаду или Голубые горы. Telstra обеспечит стабильную связь даже в удаленных местах, позволяя использовать навигацию и делиться фотографиями."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the Great Ocean Road, the Nullarbor Plain, or the Savannah Way. Telstra's network consistency (91.6%) is your best bet for uninterrupted music streaming, navigation, and emergency connectivity across long stretches of highway."
+    title: "Путешественник на авто"
+    text: "Путешествуйте по Великой океанской дороге или побережью Западной Австралии. Telstra с лучшим покрытием на трассах гарантирует, что вы не потеряете связь в пути."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax at Bondi Beach, Whitehaven Beach, or the Whitsundays. Vodafone's excellent video streaming score means you can enjoy movies and social media without buffering while soaking up the sun."
+    title: "Любитель пляжа"
+    text: "Наслаждайтесь пляжами Золотого Берега или Бонди-Бич. Optus предлагает высокую скорость для загрузки пляжных фото и видео, а также для стриминга музыки."
 
-scene_guide_footer: "💡 The Roami Australien eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Australien автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Australien eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Australien"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "In which languages is customer service for the Australien eSIM available, and what is the response time?"
-    a: "Roami offers customer support in English, Mandarin, and Spanish. The average response time is under 5 minutes via live chat (24/7) and within 2 hours for email inquiries. For urgent issues, we recommend using the in‑app chat for the fastest resolution."
+  - q: "Могу ли я одновременно использовать физическую домашнюю SIM-карту и eSIM для Australien?"
+    a: "Да, большинство современных смартфонов поддерживают режим Dual SIM (одна физическая SIM + одна eSIM). Вы можете оставить домашнюю SIM-карту для звонков и SMS, а eSIM Roami использовать для мобильных данных в Австралии. В настройках телефона выберите eSIM как основной источник данных."
 
-  - q: "Does Roami offer refunds if the Australien eSIM does not work, and what are the conditions?"
-    a: "Yes, Roami provides a full refund within 30 days of purchase if the eSIM fails to activate or does not work on your device, provided you have not used more than 100 MB of data. To request a refund, contact customer support with your order number and a description of the issue. Refunds are processed within 5–7 business days."
+  - q: "Требуется ли проверка личности (KYC) или регистрация паспорта для покупки и использования eSIM для Australien?"
+    a: "Да, в соответствии с австралийским законодательством (Закон о телекоммуникациях 1997 года) все поставщики услуг обязаны проверять личность пользователей. При активации eSIM Roami вам потребуется загрузить фотографию паспорта или другого удостоверения личности. Это стандартная процедура, которая занимает несколько минут."
 
-  - q: "Can I manually select a different local network operator in Australien if the current signal is weak?"
-    a: "Yes, Roami eSIMs allow manual network selection. On iOS, go to Settings > Cellular > Network Selection and turn off Automatic, then choose from the available networks (Optus, Telstra, Vodafone). On Android, go to Settings > Connections > Mobile Networks > Network Operators. Note that some Roami plans may be restricted to a single network; check your plan details before purchasing."
+  - q: "Как именно активировать профиль Roami eSIM сразу по прибытии в аэропорт Australien?"
+    a: "Перед поездкой установите eSIM-профиль, отсканировав QR-код, полученный на email. По прибытии в Австралию включите переключатель «Данные в роуминге» для этой eSIM в настройках телефона. Телефон автоматически подключится к сети партнера (Optus, Telstra или Vodafone). Никаких дополнительных действий не требуется."
 
-  - q: "Does Roami offer 24/7 online customer support if I have connection issues in Australien?"
-    a: "Absolutely. Roami provides 24/7 online customer support via live chat on the website and in the mobile app. You can also reach us by email at support@roami.com. Our team is trained to troubleshoot common issues such as APN settings, network selection, and data throttling."
+  - q: "Мой телефон поддерживает двойную eSIM. Могу ли я одновременно иметь два активных профиля eSIM для Australien?"
+    a: "Технически да, если ваш телефон поддерживает две активные eSIM (например, iPhone 13 и новее). Однако на практике это не имеет смысла, так как вы можете использовать только один профиль для передачи данных одновременно. Рекомендуется активировать один профиль Roami eSIM с достаточным объемом данных."
 
-  - q: "My phone supports dual eSIM. Can I have two Australien eSIM profiles active at the same time?"
-    a: "Yes, if your phone supports dual eSIM (e.g., iPhone 13 and newer, Google Pixel 7 and newer), you can have two active eSIM profiles simultaneously. For example, you could keep your home number active for calls and SMS while using a Roami Australien eSIM for data. Note that only one eSIM can be used for data at a time; you can switch between them in your device settings."
+  - q: "Можно ли приобрести несколько пакетов данных для Australien и активировать их один за другим?"
+    a: "Да, вы можете приобрести несколько пакетов данных Roami eSIM. После того как текущий пакет закончится или будет израсходован, вы можете активировать следующий, отсканировав новый QR-код или переключившись на другой профиль eSIM в настройках телефона. Убедитесь, что у вас есть доступ к интернету для активации нового пакета."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Australien eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Australien"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "All Australian mobile networks have the same coverage in rural areas."
-    truth: "False. Telstra has the most extensive rural coverage due to its Universal Service Obligation and investment in low‑band spectrum (700 MHz). Optus and Vodafone have good urban coverage but may have gaps in remote Outback regions."
+  - myth: "В Австралии 5G работает только в центрах крупных городов."
+    truth: "Это не так. Согласно данным Ookla, Optus и Telstra активно расширяют покрытие 5G. В 2H 2025 года 5G доступен в большинстве пригородов Сиднея, Мельбурна, Брисбена, Аделаиды и Перта, а также в крупных туристических зонах."
 
-  - myth: "5G in Australia is only available in Sydney and Melbourne."
-    truth: "False. 5G is available in all major cities including Brisbane, Perth, Adelaide, and Canberra, as well as many regional centers like Newcastle, Wollongong, and the Gold Coast. Optus and Telstra have the widest 5G footprints."
+  - myth: "eSIM работает медленнее, чем физическая SIM-карта."
+    truth: "Нет, скорость eSIM идентична физической SIM-карте, так как она использует те же сетевые вышки и частоты. Разница может быть только в тарифном плане, но Roami eSIM подключается к тем же операторам (Optus, Telstra, Vodafone) с теми же скоростями."
 
-  - myth: "Prepaid eSIMs in Australia are more expensive than local physical SIMs."
-    truth: "Not necessarily. Roami's eSIM plans are competitively priced and often include features like instant activation, no roaming fees, and multi‑day flexibility that physical SIMs may not offer. Additionally, you save the hassle of finding a store upon arrival."
+  - myth: "Для использования eSIM в Австралии нужно покупать местную SIM-карту в магазине."
+    truth: "Современные eSIM, такие как Roami, можно купить онлайн и активировать удаленно. Вам не нужно посещать магазин оператора. Вся процедура занимает несколько минут и не требует физического присутствия."
 
-  - myth: "You need an Australian bank account or address to buy a prepaid eSIM."
-    truth: "False. Tourists can purchase prepaid eSIMs with just a passport for identification. Roami does not require an Australian bank account or local address. KYC is completed online with your passport photo."
+  - myth: "В Австралии самый дорогой мобильный интернет в мире."
+    truth: "Хотя цены могут быть выше, чем в некоторых странах, конкуренция между операторами (Optus, Telstra, Vodafone) и появление eSIM-провайдеров, таких как Roami, сделали тарифы более доступными. Вы можете найти выгодные предложения с большими объемами данных."
 
-  - myth: "Using an eSIM drains your battery faster than a physical SIM."
-    truth: "No. Modern smartphones manage eSIM and physical SIM power consumption identically. Battery drain is more influenced by signal strength and data usage than by SIM type. In weak signal areas, any SIM will cause higher battery consumption."
+  - myth: "Если у вас eSIM, вы не сможете звонить по телефону."
+    truth: "eSIM Roami предназначена в первую очередь для передачи данных, но вы можете использовать мессенджеры (WhatsApp, Telegram, Skype) для голосовых и видеозвонков через интернет. Если вам нужен местный номер, вы можете дополнительно приобрести виртуальный номер у некоторых операторов."
 
 
 # Data sources
-data_sources_title: "Australien mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Australien"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)"
-    description: "Ookla's Speedtest Intelligence report for Australia, covering July–December 2025. Provides median download/upload speeds, latency, consistency scores, and 5G performance for Optus, Telstra, and Vodafone."
+    description: "Глобальный отчет Speedtest Intelligence за 2H 2025 года. Данные основаны на миллионах тестов скорости, проведенных пользователями в Австралии. Отчет включает медианные скорости загрузки, выгрузки, задержку, а также показатели Consistency Score и Connectivity Score."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's Mobile Network Experience Report for Australia (2025). Includes metrics on video experience, download speed experience, and 4G/5G availability for the three major operators."
+    description: "Независимый отчет OpenSignal о мобильном опыте в Австралии. Включает анализ покрытия 5G, скорости видео, игрового опыта и общего качества сети. Данные собраны в период с января по июнь 2025 года."
 
-  - name: "ACMA 2025"
-    description: "Australian Communications and Media Authority (ACMA) annual report on mobile network coverage, spectrum allocations, and consumer safeguards. Confirms operator licensing and coverage obligations."
+  - name: "ACMA (Australian Communications and Media Authority) 2025"
+    description: "Официальный отчет австралийского регулятора телекоммуникаций. Включает данные о покрытии, качестве услуг и соответствии стандартам. Используется для верификации данных операторов."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports (Ookla, OpenSignal, ACMA) and are accurate as of the report dates. Actual user experience may vary based on location, device, network congestion, and other factors."
-data_sources_note: "Network speeds and coverage can vary depending on your specific location, time of day, device model, and network congestion. The data presented reflects average performance across the entire country during the reporting period."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах (Speedtest Intelligence, OpenSignal, ACMA) за 2H 2025 года. Roami не гарантирует абсолютную точность этих данных, но использует их для предоставления объективной информации пользователям."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от местоположения, времени суток, загрузки сети и технических характеристик устройства. Рекомендуется проверять актуальное покрытие на сайтах операторов."
 
 # CTA product card
-cta_title: "Secure your Australien eSIM today"
-cta_desc: "Get immediate access to Australia's fastest 5G networks with Roami. Instant activation, no roaming fees, and flexible plans starting from just $4.99. Stay connected from the Outback to the Great Barrier Reef."
-cta_button_text: "Buy Australien eSIM now"
+cta_title: "Получите вашу eSIM для Australien сегодня"
+cta_desc: "Мгновенный доступ к высокоскоростному интернету 5G. Без скрытых платежей, без роуминга. Активируйте за минуты и оставайтесь на связи в любой точке Австралии."
+cta_button_text: "Купить eSIM для Australien сейчас"
 cta_button_link: "/australia-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Australien trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Australien"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Australien eSIM: Flexible multi-day data plans
+# Australien eSIM: Экономичные тарифы для поездок
 
-> **💡 Short summary for travelers:** 【Top choice for digital nomads: seamless cross‑border 5G network for continuous multi‑country travel】. Roami's Australien eSIM leverages Optus's award‑winning 5G network, which recorded a median download speed of 199.92 Mbps in 2H 2025, making it the fastest 5G network in the country. Whether you're hopping between Sydney, Melbourne, or Adelaide, you get consistent high‑speed connectivity without roaming fees. For digital nomads requiring reliable video calls and large file uploads, Optus's median upload speed of 12.95 Mbps over 5G ensures smooth remote work. Choose Roami for instant activation and flexible multi‑day plans tailored to your travel itinerary.
+> **💡 Краткое резюме для путешественников:** 【Лучший выбор для цифровых кочевников: бесшовная трансграничная сеть 5G для непрерывных поездок по нескольким странам】 Roami eSIM для Australien обеспечивает доступ к самым быстрым сетям страны. Согласно последним данным Ookla ([Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)), Optus лидирует с медианной скоростью загрузки 124.34 Мбит/с (все технологии) и 199.92 Мбит/с в сети 5G, что делает его идеальным для потокового видео и видеозвонков. Telstra, в свою очередь, предлагает лучшее покрытие в сельской местности и самую стабильную сеть (91.6% успешных тестов). Выбирайте Roami eSIM, чтобы оставаться на связи в любом уголке Австралии — от пляжей Сиднея до национальных парков Квинсленда.
 
-## Things you need to know before buying a Australien eSIM
+## Что нужно знать перед покупкой eSIM для Australien
 
 
-### 1. Main 5G/4G frequency bands in Australia {#1-main-5g4g-frequency-bands-in-australia}
-Australian mobile networks operate on the following key bands: 4G: Band 1 (2100 MHz), Band 3 (1800 MHz), Band 5 (850 MHz), Band 7 (2600 MHz), Band 8 (900 MHz), Band 28 (700 MHz). 5G: n78 (3500 MHz) is the primary 5G band used by all three operators; n40 (2300 MHz) used by Optus; n5 (850 MHz) used by Telstra for wider 5G coverage. Ensure your device supports these bands for optimal performance.
+### 1. Основные диапазоны частот 5G/4G в Австралии {#1-основные-диапазоны-частот-5g4g-в-австралии}
+Австралийские операторы используют следующие диапазоны: 5G — n78 (3.5 ГГц), n40 (2.3 ГГц), n1 (2.1 ГГц); 4G — B1 (2100 МГц), B3 (1800 МГц), B5 (850 МГц), B7 (2600 МГц), B28 (700 МГц). Убедитесь, что ваш смартфон поддерживает эти частоты для оптимальной работы.
 
-### 2. KYC (Know Your Customer) requirements {#2-kyc-know-your-customer-requirements}
-To activate an Australian eSIM, you must provide a valid form of ID. For prepaid eSIMs, most providers require: passport number and country of issuance, or Australian driver's license. Some providers may also ask for a local Australian address (can be your hotel). Roami handles KYC on your behalf; you only need to upload a clear photo of your passport during the purchase process.
+### 2. Требования KYC (верификация личности) {#2-требования-kyc-верификация-личности}
+Для покупки и использования eSIM в Австралии требуется регистрация паспорта или другого удостоверения личности. Это обязательное требование местного регулятора (ACMA). Roami eSIM автоматически запрашивает необходимые данные при активации.
 
-### 3. Fair Usage Policy (FUP) and data throttling {#3-fair-usage-policy-fup-and-data-throttling}
-Most Australian prepaid eSIM plans have a Fair Usage Policy. Typically, after exceeding a certain data threshold (e.g., 50 GB per month), speeds may be throttled to 1.5 Mbps or 256 kbps. Always check the specific plan's FUP before purchasing. Roami's plans clearly state the data cap and any speed reductions after the cap.
+### 3. Политика добросовестного использования (Fair Usage Policy) {#3-политика-добросовестного-использования-fair-usage-policy}
+Большинство eSIM-провайдеров, включая Roami, применяют политику добросовестного использования. После превышения определенного лимита (обычно 30-50 ГБ в месяц) скорость может быть временно снижена. Рекомендуется выбирать тариф с запасом, если вы планируете активно использовать интернет.
 
-### 4. Network locking and device compatibility {#4-network-locking-and-device-compatibility}
-Australian eSIMs are not locked to a specific network; you can choose between Optus, Telstra, or Vodafone depending on the Roami plan. However, your phone must be eSIM‑compatible and unlocked. Most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer) support eSIM. Check your device's IMEI for <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a>.
+### 4. Совместимость устройств и активация {#4-совместимость-устройств-и-активация}
+eSIM Roami совместима с большинством современных смартфонов (iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее). Активация происходит через QR-код, который приходит на email после покупки. Установите eSIM до поездки, чтобы по прибытии сразу подключиться к сети.
 
-### 5. Emergency services and 000 calls {#5-emergency-services-and-000-calls}
-In Australia, you can always dial 000 (emergency) even without a SIM card or with zero balance. However, an active eSIM ensures that emergency services can locate you more accurately. All Australian networks support emergency SMS to 106 for people with hearing or speech impairments.
+### 5. Роуминг и международные звонки {#5-роуминг-и-международные-звонки}
+eSIM Roami предназначена для использования данных в Австралии. Звонки и SMS обычно не поддерживаются, но вы можете использовать мессенджеры (WhatsApp, Telegram) для общения. Если вам нужен местный номер, рассмотрите дополнительные услуги операторов.

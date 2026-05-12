@@ -1,64 +1,64 @@
 ---
-title: "Algerien eSIM: Top choice for independent explorers"
-description: "Experience fast internet in Algerien with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:38:33+00:00"
-keywords: "eSIM Algerien, prepaid data, 5G network, Ooredoo, Mobilis, DJEZZY, travel eSIM, Algeria eSIM"
+title: "Algerien eSIM: Быстрая активация без физических SIM-карт"
+description: "Испытайте быстрый интернет в Algerien с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:54:08+00:00"
+keywords: "eSIM Algerien, предоплаченные данные, сеть 5G, Ooredoo, Mobilis, DJEZZY, туристическая eSIM, роуминг"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Algerien eSIM Guide"
+  - name: "Руководство по eSIM для Algerien"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Algerien Travel eSIM Latest Guide"
-hero_subtitle_main: "Algerien eSIM: Top choice for independent explorers"
-hero_subtitle_highlight: "Premium 5G network coverage by Ooredoo, Mobilis and DJEZZY"
-hero_description_line1: "The Algerien eSIM supports online purchase and instant activation without swapping physical SIM cards. It covers major cities, helps you say goodbye to expensive roaming fees, and lets you travel Algerien worry‑free."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "🇩🇿 Algerien Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Algerien eSIM: Быстрая активация без физических SIM-карт"
+hero_subtitle_highlight: "Премиальное покрытие 5G от Ooredoo и Mobilis"
+hero_description_line1: "Пропустите очереди за SIM-картами с eSIM для Algerien. Получите QR-код сразу после онлайн-оплаты, активируйте за несколько минут и быстро решите проблему интернета в Algerien."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Algerien eSIM"
 hero_link_url: "/algeria-esim/"
-tldr_summary: "Top choice for business travel: cross‑border 5G solutions with unlimited data. Roami's Algerien eSIM leverages Ooredoo's leading network, which achieved a median download speed of 31.22 Mbps and a Speed Score of 40.40 in H2 2024 (Ookla). Enjoy seamless connectivity in Algiers, Oran, and Annaba with instant activation and no roaming fees."
+tldr_summary: "【Бесшовный глобальный роуминг: экономичная 5G eSIM для связи в нескольких странах】 Roami предлагает туристическую eSIM для Algerien с доступом к сетям Ooredoo, Mobilis и DJEZZY. Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/algeria-speedtest-connectivity-report-h2-2024), Ooredoo лидирует с медианной скоростью загрузки 31.22 Мбит/с. Активируйте eSIM за минуту и оставайтесь на связи без физических SIM-карт и роуминговых сборов."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Algerien eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Algerien eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Algerien eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Algerien выбрать?"
 
   - href: "#operators"
-    text: "Top Algerien eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Algerien"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Algerien"
+    text: "Городской гид: Лучшая eSIM для Algerien"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Algerien eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Algerien"
 
   - href: "#faq"
-    text: "Frequently asked questions about Algerien eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Algerien"
 
   - href: "#myths"
-    text: "Myths and facts about Algerien eSIM"
+    text: "Мифы и факты о eSIM для Algerien"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Algerien eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Algerien выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/algeria-speedtest-connectivity-report-h2-2024)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "Ooredoo"
-    carrier_class: "text-red-600"
-    reason: "Fastest mobile network with median download 31.22 Mbps, best for video streaming and gaming."
+    carrier_class: "text-orange-600"
+    reason: "Самая быстрая сеть в Алжире с медианной скоростью загрузки 31.22 Мбит/с и лучшим качеством для видео и игр."
 
-  - travel: "Business travelers"
+  - travel: "Городские исследователи"
     carrier: "Mobilis"
-    carrier_class: "text-green-600"
-    reason: "Best coverage in Algiers and consistent performance for calls and data."
-
-  - travel: "Budget travelers"
-    carrier: "DJEZZY"
     carrier_class: "text-blue-600"
-    reason: "Affordable plans with decent speeds (16.61 Mbps median download) for basic browsing."
+    reason: "Лучший выбор для Алжира: Mobilis признан самым быстрым провайдером в столице."
+
+  - travel: "Бюджетные путешественники"
+    carrier: "DJEZZY"
+    carrier_class: "text-green-600"
+    reason: "Доступные тарифы при стабильной скорости 16.61 Мбит/с, подходит для базовых задач."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Algerien travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Algerien"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "ooredoo-esim"
-    title: "Ooredoo eSIM Review: Fastest network in Algerien"
-    best_for: "This plan is the absolute top choice for users who need high-speed data for streaming, gaming, and large file transfers. Ooredoo leads in download speed, upload speed, and low latency."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/algeria-speedtest-connectivity-report-h2-2024), Ooredoo achieved a Speed Score of 40.40 in H2 2024.\n- **Median download rate**: 31.22 Mbps\n- **Median upload rate**: 12.37 Mbps\n- **Latency**: 46 ms\n- **Best mobile video experience**: Score 68.53\n- **Best mobile gaming experience**: Score 77.12"
-    arcep_note: "Confirmed by the local telecom authority ARPT (Autorité de Régulation de la Poste et des Télécommunications) as a leading operator in 4G/5G deployment."
-    connect_note: "Activation works seamlessly via QR code. Compatible with most eSIM-enabled smartphones. Instant connectivity in major cities."
-    user_scenarios: "- **Algiers city tour**: Stream live from the Casbah of Algiers without buffering.\n- **Oran business trip**: Attend video conferences with stable 12.37 Mbps upload.\n- **Annaba beach**: Share high-res photos instantly with 31.22 Mbps download."
-    bg_color: "bg-red-50"
+    title: "Обзор Ooredoo eSIM: Самая быстрая сеть в Алжире"
+    best_for: "Этот план – абсолютно лучший выбор для путешественников, которым нужна максимальная скорость интернета для стриминга, видеозвонков и онлайн-игр."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/algeria-speedtest-connectivity-report-h2-2024), Ooredoo лидирует по скорости.\n- **Скорость загрузки**: Медианная скорость загрузки 31.22 Мбит/с.\n- **Скорость отдачи**: 12.37 Мбит/с.\n- **Задержка**: 46 мс.\n- **Качество видео**: 68.53 балла.\n- **Качество игр**: 77.12 балла."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (ARPCE) как один из ведущих операторов по покрытию 4G/LTE."
+    connect_note: "Активация работает безупречно через QR-код. Рекомендуется для городов Оран и Аннаба, где Ooredoo признан самым быстрым провайдером."
+    user_scenarios: "- **🏛️ Древний город Джемила**: Идеально для загрузки карт и публикации фото в соцсетях.\n- **🏜️ Сахара (Тассилин-Аджер)**: Стабильное соединение в туристических лагерях.\n- **🌊 Пляжи Скикды**: Быстрый интернет для стриминга и видеозвонков."
+    bg_color: "bg-orange-50"
 
   - id: "mobilis-esim"
-    title: "Mobilis eSIM Review: Best coverage in Algiers"
-    best_for: "This plan is ideal for travelers who prioritize consistent coverage in the capital and major urban centers. Mobilis offers reliable speeds and was the fastest provider in Algiers."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/algeria-speedtest-connectivity-report-h2-2024), Mobilis recorded a median download speed of 19.95 Mbps in H2 2024.\n- **Median download rate**: 19.95 Mbps\n- **Median upload rate**: Not specified, but competitive\n- **Latency**: 38.1 ms in Algiers (lowest among cities)\n- **Consistency**: 84.5% in Algiers\n- **Fastest provider in Algiers**"
-    arcep_note: "Confirmed by ARPT as a state-owned operator with extensive 4G coverage across the country."
-    connect_note: "Activation works seamlessly via QR code. Supports dual eSIM profiles. Good for long stays."
-    user_scenarios: "- **Algiers business district**: Reliable connectivity for emails and VoIP calls.\n- **Tizi Ouzou mountains**: Decent coverage in northern regions.\n- **Constantine cultural visit**: Stream local music and videos without interruptions."
-    bg_color: "bg-green-50"
+    title: "Обзор Mobilis eSIM: Лучшее покрытие в столице"
+    best_for: "Этот план – лучший выбор для тех, кто планирует посетить Алжир и нуждается в надёжном соединении в центре города."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/algeria-speedtest-connectivity-report-h2-2024), Mobilis — самый быстрый провайдер в Алжире.\n- **Скорость загрузки**: Медианная скорость 19.95 Мбит/с.\n- **Скорость отдачи**: 11.15 Мбит/с (в Алжире).\n- **Задержка**: 38.1 мс (в Алжире).\n- **Консистентность**: 84.5% (в Алжире)."
+    arcep_note: "Подтверждено отчётами Speedtest Intelligence как лидер по скорости в столице Алжира."
+    connect_note: "Активация через QR-код занимает менее 5 минут. Рекомендуется для деловых поездок и городского туризма."
+    user_scenarios: "- **🏛️ Касба Алжира**: Быстрая загрузка гидов и навигация по узким улочкам.\n- **🕌 Большая мечеть Алжира**: Потоковая трансляция мероприятий без задержек.\n- **🌳 Ботанический сад Хамма**: Идеально для видеозвонков и публикаций в Instagram."
+    bg_color: "bg-blue-50"
 
   - id: "djezzy-esim"
-    title: "DJEZZY eSIM Review: Budget-friendly data plans"
-    best_for: "This plan is perfect for budget-conscious travelers who need basic internet access for messaging, maps, and light browsing. DJEZZY offers competitive pricing."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/algeria-speedtest-connectivity-report-h2-2024), DJEZZY recorded a median download speed of 16.61 Mbps in H2 2024.\n- **Median download rate**: 16.61 Mbps\n- **Median upload rate**: Not specified\n- **Latency**: Not specified\n- **Consistency**: Not specified\n- **Affordable data bundles**"
-    arcep_note: "Confirmed by ARPT as a private operator with growing 4G+ network."
-    connect_note: "Activation works seamlessly via QR code. Easy top-up options. Suitable for short trips."
-    user_scenarios: "- **Hoggar Mountains trek**: Use offline maps and messaging with basic data.\n- **Oran city exploration**: Check social media and navigation.\n- **Algiers airport arrival**: Quick activation for immediate connectivity."
-    bg_color: "bg-blue-50"
+    title: "Обзор DJEZZY eSIM: Доступная связь для базовых задач"
+    best_for: "Этот план – отличный выбор для бюджетных путешественников, которым нужен стабильный интернет для мессенджеров и навигации."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/algeria-speedtest-connectivity-report-h2-2024), DJEZZY обеспечивает стабильное 4G-покрытие.\n- **Скорость загрузки**: Медианная скорость 16.61 Мбит/с.\n- **Скорость отдачи**: Ниже, чем у конкурентов, но достаточно для базовых задач.\n- **Задержка**: Средняя, подходит для VoIP-звонков.\n- **Консистентность**: Хорошая в крупных городах."
+    arcep_note: "Подтверждено отчётами Speedtest Intelligence как третий по скорости оператор в Алжире."
+    connect_note: "Активация простая и быстрая. Рекомендуется для краткосрочных поездок и использования в городах."
+    user_scenarios: "- **🏛️ Типаса**: Загрузка карт и фото руин.\n- **🏖️ Пляжи Орана**: Проверка соцсетей и мессенджеров.\n- **🚌 Путешествия на автобусе**: Прослушивание музыки и подкастов."
+    bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Algerien eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Algerien eSIM and local 5G bands"
-cards_free_title: "Get your free Algerien eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Algerien"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Algerien и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Algerien"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Algerien eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Algerien"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Algerien"
-    content: "Algerien operators use bands: 4G LTE on B3 (1800 MHz), B7 (2600 MHz), B20 (800 MHz); 5G NR on n78 (3500 MHz). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Основные диапазоны частот 5G/4G в Алжире"
+    content: "Алжирские операторы используют частоты 800 МГц (4G), 1800 МГц (4G), 2100 МГц (3G/4G) и 2600 МГц (4G). 5G пока не развёрнут массово, но сети 4G+ обеспечивают высокую скорость. Убедитесь, что ваше устройство поддерживает эти диапазоны."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "You must provide a valid passport or national ID for registration. Some operators require a local address. Roami handles verification digitally for instant activation."
+  - heading: "2. Требования KYC (идентификация) для eSIM"
+    content: "Для активации eSIM в Алжире может потребоваться загрузка паспорта или удостоверения личности. Roami упрощает процесс, но будьте готовы предоставить документы для соответствия местным законам."
 
-  - heading: "3. Fair Usage Policy (FUP) and data caps"
-    content: "Most prepaid eSIM plans have a FUP: after exceeding a daily threshold (e.g., 2 GB), speeds may be throttled to 128 kbps. Check plan details before purchase."
+  - heading: "3. Политика добросовестного использования (Fair Usage Policy)"
+    content: "Большинство eSIM-планов имеют ограничение на ежедневное использование данных. После превышения лимита скорость может быть снижена. Внимательно читайте условия перед покупкой."
 
-  - heading: "4. Device compatibility and eSIM support"
-    content: "eSIM is supported on iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many other devices. Verify your IMEI <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a>."
+  - heading: "4. Совместимость устройств с eSIM"
+    content: "eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее, а также на многих других моделях. Проверьте список совместимости на сайте Roami."
 
-  - heading: "5. Roaming and cross-border usage"
-    content: "Algerien eSIMs are for domestic use only. If you travel to neighboring countries, you may need a separate eSIM or roaming add-on. Roami offers regional plans."
+  - heading: "5. Роуминг и местные номера"
+    content: "eSIM Roami предоставляет виртуальный номер для данных, но не для голосовых звонков. Для звонков используйте мессенджеры (WhatsApp, Telegram) или приобретите дополнительный VoIP-пакет."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Algerien"
-city_guide_desc: "Find out which Algerien eSIM is the best choice for your destination city based on real network performance data."
+city_guide_title: "Городской гид: Лучшая eSIM для Algerien"
+city_guide_desc: "Узнайте, какая eSIM для Algerien является лучшим выбором для вашего города назначения, основываясь на данных Speedtest Intelligence."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Algiers"
+  - city: "Оран"
+    carriers: "Ooredoo"
+    reason: "Самая быстрая медианная скорость загрузки 27.88 Мбит/с. Ooredoo признан самым быстрым провайдером в городе."
+
+  - city: "Алжир"
     carriers: "Mobilis"
-    reason: "Mobilis was the fastest provider in Algiers with median download 26.61 Mbps and lowest latency 38.1 ms. Ideal for business travelers and tourists in the capital."
+    reason: "Mobilis — самый быстрый провайдер в столице со скоростью 26.61 Мбит/с и низкой задержкой 38.1 мс."
 
-  - city: "Oran"
+  - city: "Аннаба"
     carriers: "Ooredoo"
-    reason: "Oran had the fastest median mobile download speed among major cities at 27.88 Mbps, and Ooredoo was the fastest provider. Perfect for high-speed needs."
+    reason: "Ooredoo лидирует в Аннабе со скоростью 22.51 Мбит/с и высокой консистентностью 84.1%."
 
-  - city: "Annaba"
+  - city: "Константина"
     carriers: "Ooredoo"
-    reason: "Annaba recorded 22.51 Mbps median download with Ooredoo as fastest provider. Great for coastal travelers needing reliable connectivity."
+    reason: "Рекомендуется Ooredoo для стабильного соединения в этом историческом городе."
 
-  - city: "Constantine"
-    carriers: "Ooredoo"
-    reason: "Ooredoo leads in overall performance. Constantine benefits from Ooredoo's strong network, suitable for cultural explorers."
-
-  - city: "Tizi Ouzou"
+  - city: "Тизи-Узу"
     carriers: "Mobilis"
-    reason: "Mobilis has extensive coverage in northern regions including Tizi Ouzou. Good for travelers visiting the Kabylie region."
+    reason: "Mobilis обеспечивает хорошее покрытие в регионе Кабилия, где расположен город."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Algerien eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Algerien в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Visit Algiers, Oran, and Annaba with Ooredoo eSIM for fast data to navigate, stream, and share experiences instantly."
+    title: "Исследователь города"
+    text: "Исследуйте Касбу Алжира или руины Типасы с быстрым интернетом для навигации и публикаций."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Explore the Hoggar Mountains or Tassili n'Ajjer with Mobilis eSIM for reliable coverage in remote areas."
+    title: "Любитель природы"
+    text: "Отправляйтесь в Национальный парк Тассилин-Аджер с eSIM для загрузки карт и связи в удалённых районах."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive from Algiers to Oran along the coast. Ooredoo eSIM ensures consistent connectivity for GPS and music streaming."
+    title: "Путешественник на авто"
+    text: "Используйте навигацию в реальном времени и стриминг музыки во время поездок по трассам Алжира."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on the beaches of Annaba or Tipaza. DJEZZY eSIM offers affordable data for social media and video calls."
+    title: "Любитель пляжа"
+    text: "Наслаждайтесь пляжами Скикды и Орана с возможностью видеозвонков и загрузки фото без задержек."
 
-scene_guide_footer: "💡 The Roami Algerien eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Algerien автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Algerien eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Algerien"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "In which languages is customer service for the Algerien eSIM available, and what is the response time?"
-    a: "Customer service is available in English, French, and Arabic. Typical response time is under 5 minutes via live chat, and within 24 hours for email support."
+  - q: "Сколько времени занимает получение QR-кода для eSIM Algerien после успешной оплаты?"
+    a: "QR-код приходит на вашу электронную почту в течение 1-5 минут после оплаты. Активация занимает менее 5 минут."
 
-  - q: "Does network speed in major cities of Algerien become noticeably slower during evening peak hours?"
-    a: "Yes, like many countries, network congestion can occur during peak hours (7 PM - 10 PM). Ooredoo's network is optimized to minimize slowdowns, but you may experience a 10-20% speed reduction."
+  - q: "Как проверить, надежно ли покрываются eSIM конкретные пункты назначения в Algerien?"
+    a: "Проверьте карту покрытия на сайте Roami или используйте данные Speedtest Intelligence. Ooredoo и Mobilis обеспечивают наилучшее покрытие в городах."
 
-  - q: "Is there a specific data usage threshold (e.g., after 2 GB per day) after which the speed of the Algerien eSIM is reduced?"
-    a: "Yes, many prepaid eSIM plans have a Fair Usage Policy (FUP). For example, after 2 GB of daily usage, speeds may be throttled to 128 kbps. Always check the plan's terms before purchase."
+  - q: "Как перенести активный профиль eSIM для Algerien на новый смартфон при замене телефона?"
+    a: "Удалите профиль eSIM со старого устройства и повторно отсканируйте QR-код на новом. Если QR-код утерян, свяжитесь с поддержкой Roami."
 
-  - q: "My phone supports dual eSIM. Can I have two Algerien eSIM profiles active at the same time?"
-    a: "Yes, if your phone supports dual eSIM (e.g., iPhone 13 and newer), you can have two active eSIM profiles. However, only one can be used for data at a time. You can switch between profiles in settings."
+  - q: "Можно ли приобрести несколько пакетов данных для Algerien и активировать их один за другим?"
+    a: "Да, вы можете купить несколько пакетов и активировать их последовательно. После окончания одного пакета просто активируйте следующий."
 
-  - q: "Does network coverage include major transport hubs like airports, high‑speed trains, and subways in Algerien?"
-    a: "Yes, all three operators provide coverage at Algiers Houari Boumediene Airport, Oran Ahmed Ben Bella Airport, and major train stations. Subway coverage in Algiers is good with Ooredoo and Mobilis."
+  - q: "Могу ли я вручную выбрать другого местного оператора в Algerien, если текущий сигнал слабый?"
+    a: "Да, в настройках сети выберите ручной выбор оператора и переключитесь на Ooredoo, Mobilis или DJEZZY."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Algerien eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Algerien"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "eSIMs are not available in Algerien."
-    truth: "eSIMs are widely available from all three major operators (Ooredoo, Mobilis, DJEZZY) and through international providers like Roami."
+  - myth: "eSIM работает только в столице Алжира."
+    truth: "Нет, eSIM Roami подключается к сетям Ooredoo, Mobilis и DJEZZY, которые покрывают все крупные города и многие сельские районы."
 
-  - myth: "Ooredoo is the only fast network in Algerien."
-    truth: "While Ooredoo leads overall, Mobilis is faster in Algiers and offers excellent coverage in the capital."
+  - myth: "Для активации eSIM нужен алжирский номер телефона."
+    truth: "Нет, для активации достаточно вашего основного номера и электронной почты. Алжирский номер не требуется."
 
-  - myth: "You need a local ID to activate an eSIM."
-    truth: "International travelers can activate eSIMs with a valid passport. Roami handles digital verification without needing a local ID."
+  - myth: "Скорость интернета в Алжире очень низкая."
+    truth: "Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/algeria-speedtest-connectivity-report-h2-2024), медианная скорость загрузки у Ooredoo составляет 31.22 Мбит/с, что достаточно для стриминга и видеозвонков."
 
-  - myth: "5G is not available in Algerien."
-    truth: "5G is available in major cities like Algiers, Oran, and Annaba. Ooredoo and Mobilis have deployed 5G networks."
+  - myth: "eSIM нельзя использовать для навигации в Сахаре."
+    truth: "В туристических зонах Сахары (например, Тассилин-Аджер) есть покрытие 4G от Ooredoo и Mobilis, что позволяет использовать навигацию."
 
-  - myth: "eSIMs are more expensive than physical SIMs."
-    truth: "eSIMs often offer competitive pricing and the convenience of instant activation, eliminating the need to find a physical store."
+  - myth: "После активации eSIM нельзя сменить оператора."
+    truth: "Вы можете вручную переключиться между Ooredoo, Mobilis и DJEZZY в настройках сети вашего устройства."
 
 
 # Data sources
-data_sources_title: "Algerien mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Algerien"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/algeria-speedtest-connectivity-report-h2-2024)"
-    description: "Ookla Speedtest Connectivity Report H2 2024 for Algeria. Data collection period July – December 2024. Provides median download/upload speeds, latency, consistency, and Speed Score for Ooredoo, Mobilis, and DJEZZY."
+    description: "Отчёт Speedtest Connectivity Report H2 2024 для Алжира, основанный на миллионах тестов скорости."
 
   - name: "OpenSignal 2024"
-    description: "OpenSignal Mobile Network Experience Report for Algeria (2024). Provides insights on 4G/5G availability, video experience, and latency for major operators."
+    description: "Отчёты OpenSignal о покрытии и качестве мобильных сетей в Алжире."
 
-  - name: "ARPT (Autorité de Régulation de la Poste et des Télécommunications) 2024"
-    description: "Algerian telecom regulator annual report. Confirms operator market shares, spectrum allocations, and coverage obligations."
+  - name: "ARPCE (Algerian Regulatory Authority) 2024"
+    description: "Данные национального регулятора о покрытии и качестве услуг операторов."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device, and time of day. Always check the latest coverage maps before purchasing."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах и могут меняться в зависимости от местоположения и времени."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от загрузки сети, погодных условий и технических характеристик устройства."
 
 # CTA product card
-cta_title: "Secure your Algerien eSIM today"
-cta_desc: "Get immediate access to high-speed data in Algerien with instant activation. No roaming fees, no physical SIM needed."
-cta_button_text: "Buy Algerien eSIM now"
+cta_title: "Получите вашу eSIM для Algerien сегодня"
+cta_desc: "Мгновенный доступ к интернету в Алжире без физических SIM-карт. Активируйте за минуты и путешествуйте с комфортом."
+cta_button_text: "Купить eSIM для Algerien сейчас"
 cta_button_link: "/algeria-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Algerien trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Algerien"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Algerien eSIM: Top choice for independent explorers
+# Algerien eSIM: Быстрая активация без физических SIM-карт
 
-> **💡 Short summary for travelers:** Top choice for business travel: cross‑border 5G solutions with unlimited data. Roami's Algerien eSIM leverages Ooredoo's leading network, which achieved a median download speed of 31.22 Mbps and a Speed Score of 40.40 in H2 2024 (Ookla). Enjoy seamless connectivity in Algiers, Oran, and Annaba with instant activation and no roaming fees.
+> **💡 Краткое резюме для путешественников:** 【Бесшовный глобальный роуминг: экономичная 5G eSIM для связи в нескольких странах】 Roami предлагает туристическую eSIM для Algerien с доступом к сетям Ooredoo, Mobilis и DJEZZY. Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/algeria-speedtest-connectivity-report-h2-2024), Ooredoo лидирует с медианной скоростью загрузки 31.22 Мбит/с. Активируйте eSIM за минуту и оставайтесь на связи без физических SIM-карт и роуминговых сборов.
 
-## Things you need to know before buying a Algerien eSIM
+## Что нужно знать перед покупкой eSIM для Algerien
 
 
-### 1. Main 5G/4G frequency bands in Algerien {#1-main-5g4g-frequency-bands-in-algerien}
-Algerien operators use bands: 4G LTE on B3 (1800 MHz), B7 (2600 MHz), B20 (800 MHz); 5G NR on n78 (3500 MHz). Ensure your device supports these bands for optimal performance.
+### 1. Основные диапазоны частот 5G/4G в Алжире {#1-основные-диапазоны-частот-5g4g-в-алжире}
+Алжирские операторы используют частоты 800 МГц (4G), 1800 МГц (4G), 2100 МГц (3G/4G) и 2600 МГц (4G). 5G пока не развёрнут массово, но сети 4G+ обеспечивают высокую скорость. Убедитесь, что ваше устройство поддерживает эти диапазоны.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-You must provide a valid passport or national ID for registration. Some operators require a local address. Roami handles verification digitally for instant activation.
+### 2. Требования KYC (идентификация) для eSIM {#2-требования-kyc-идентификация-для-esim}
+Для активации eSIM в Алжире может потребоваться загрузка паспорта или удостоверения личности. Roami упрощает процесс, но будьте готовы предоставить документы для соответствия местным законам.
 
-### 3. Fair Usage Policy (FUP) and data caps {#3-fair-usage-policy-fup-and-data-caps}
-Most prepaid eSIM plans have a FUP: after exceeding a daily threshold (e.g., 2 GB), speeds may be throttled to 128 kbps. Check plan details before purchase.
+### 3. Политика добросовестного использования (Fair Usage Policy) {#3-политика-добросовестного-использования-fair-usage-policy}
+Большинство eSIM-планов имеют ограничение на ежедневное использование данных. После превышения лимита скорость может быть снижена. Внимательно читайте условия перед покупкой.
 
-### 4. Device compatibility and eSIM support {#4-device-compatibility-and-esim-support}
-eSIM is supported on iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many other devices. Verify your IMEI <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a>.
+### 4. Совместимость устройств с eSIM {#4-совместимость-устройств-с-esim}
+eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее, а также на многих других моделях. Проверьте список совместимости на сайте Roami.
 
-### 5. Roaming and cross-border usage {#5-roaming-and-cross-border-usage}
-Algerien eSIMs are for domestic use only. If you travel to neighboring countries, you may need a separate eSIM or roaming add-on. Roami offers regional plans.
+### 5. Роуминг и местные номера {#5-роуминг-и-местные-номера}
+eSIM Roami предоставляет виртуальный номер для данных, но не для голосовых звонков. Для звонков используйте мессенджеры (WhatsApp, Telegram) или приобретите дополнительный VoIP-пакет.

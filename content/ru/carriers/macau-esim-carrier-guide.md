@@ -1,64 +1,64 @@
 ---
-title: "Macau eSIM: Hassle‑free alternative to physical SIM cards"
-description: "Experience fast internet in Macau with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:40:59+00:00"
-keywords: "eSIM Macau, prepaid data, 5G network, CTM, China Telecom, Roami eSIM"
+title: "Macau eSIM: Лучший выбор для самостоятельных исследователей"
+description: "Испытайте быстрый интернет в Macau с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:56:29+00:00"
+keywords: "eSIM Macau, предоплаченные данные, сеть 5G, CTM, China Telecom, туристическая eSIM, Roami"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Macau eSIM Guide"
+  - name: "Руководство по eSIM для Macau"
     url: ""
 
 # Hero section copy
-hero_badge: "[🇲🇴] Macau Travel eSIM Latest Guide"
-hero_subtitle_main: "Macau eSIM: Hassle‑free alternative to physical SIM cards"
-hero_subtitle_highlight: "Premium 5G network coverage by CTM and China Telecom"
-hero_description_line1: "No SIM slot swapping required. The digital activation of the Macau eSIM provides a more convenient way to maintain a stable high‑speed connection in Macau."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "🇲🇴 Macau Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Macau eSIM: Лучший выбор для самостоятельных исследователей"
+hero_subtitle_highlight: "Премиальное покрытие 5G от CTM и China Telecom"
+hero_description_line1: "eSIM для Macau предоставляет надёжные услуги передачи данных для деловых путешественников, обеспечивая плавные видеоконференции, навигацию и работу социальных приложений, повышая эффективность поездки."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Macau eSIM"
 hero_link_url: "/macau-esim/"
-tldr_summary: "【More freedom through device sharing: unlimited 5G data unlimitedly on the go】. With Roami's Macau eSIM, you tap into the fastest mobile network in Macau — CTM, which achieved a Speed Score of 194.92 and a median download speed of 176.04 Mbps according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024). Whether you're streaming HD video in the Cotai Strip or navigating the historic streets of Macau Peninsula, enjoy seamless, high‑speed connectivity without physical SIM hassles. Roami's eSIM gives you the freedom to share your connection across devices and stay unlimited on the go."
+tldr_summary: "【Без обрывов связи в деловых поездках: экономичные eSIM-тарифы для глобальной мобильности】 Roami предлагает eSIM для Macau с доступом к лучшим местным сетям. Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024), CTM лидирует с медианной скоростью загрузки 176.04 Мбит/с и скоростным показателем 194.92, обеспечивая стабильную связь для видеоконференций и навигации. China Telecom демонстрирует лучшую стабильность 5G (89.3%). Выбирайте Roami для надёжного интернета в любой точке Макао."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Macau eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Macau eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Macau eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Macau выбрать?"
 
   - href: "#operators"
-    text: "Top Macau eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Macau"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Macau"
+    text: "Городской гид: Лучшая eSIM для Macau"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Macau eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Macau"
 
   - href: "#faq"
-    text: "Frequently asked questions about Macau eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Macau"
 
   - href: "#myths"
-    text: "Myths and facts about Macau eSIM"
+    text: "Мифы и факты о eSIM для Macau"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Macau eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Macau выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,240 +67,235 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "CTM"
-    carrier_class: "text-blue-600"
-    reason: "CTM leads Macau with a Speed Score of 194.92 and median download speed of 176.04 Mbps, making it ideal for heavy data users and remote work."
+    carrier_class: "text-orange-600"
+    reason: "Самая высокая скорость загрузки (176.04 Мбит/с) и лучший игровой опыт по данным [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024)."
 
-  - travel: "Casual tourists"
+  - travel: "Деловые путешественники"
     carrier: "China Telecom"
-    carrier_class: "text-green-600"
-    reason: "China Telecom offers the highest 5G Consistency Score at 89.3%, ensuring reliable connectivity for social media, maps, and messaging."
-
-  - travel: "Gamers"
-    carrier: "CTM"
     carrier_class: "text-blue-600"
-    reason: "CTM provides the best gaming experience in Macau, with low latency of 26 ms and top upload speeds of 37.45 Mbps."
+    reason: "Лучшая стабильность 5G (89.3% Consistency Score) для бесперебойных видеозвонков."
 
-  - travel: "Budget travelers"
-    carrier: "Roami eSIM (CTM network)"
-    carrier_class: "text-purple-600"
-    reason: "Roami leverages CTM's fastest network without the need for a local contract, offering affordable prepaid eSIM plans with instant activation."
+  - travel: "Туристы-исследователи"
+    carrier: "Roami (сеть CTM)"
+    carrier_class: "text-green-600"
+    reason: "Доступ к самой быстрой сети CTM с удобной eSIM-активацией."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Macau travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Macau"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "ctm-esim"
-    title: "CTM eSIM Review: Fastest speeds & best gaming"
-    best_for: "This plan is the absolute top choice for digital nomads, gamers, and anyone who demands the fastest mobile internet in Macau. CTM leads all key KPIs including download speed, upload speed, and latency."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024), CTM's 5G network is widely deployed across urban Macau and key tourist areas.\n- **Download rate**: Median download speed of 176.04 Mbps (all technologies), fastest in Macau.\n- **Upload rate**: Median upload speed of 37.45 Mbps, leading the market.\n- **Latency**: 26 ms, best for real-time applications.\n- **Speed Score**: 194.92, highest among all mobile operators.\n- **Gaming experience**: Best gaming experience for all technologies and 5G."
-    arcep_note: "Confirmed by the local telecom authority (DSRT) that CTM holds the largest spectrum allocation for 5G in Macau."
-    connect_note: "Activation works seamlessly via Roami eSIM — simply scan the QR code and enable data roaming. CTM provides strong coverage in all major districts including Macau Peninsula, Taipa, Coloane, and Cotai."
-    user_scenarios: "- **Ruins of St. Paul's**: Stream live video of the iconic facade without buffering, thanks to CTM's 176 Mbps download speed.\n- **Macau Tower**: Video call friends from the observation deck with crystal-clear upload at 37.45 Mbps.\n- **Cotai Strip casinos**: Play mobile games with ultra-low 26 ms latency while waiting at the tables."
+    title: "Обзор CTM eSIM: Самая быстрая сеть в Macau"
+    best_for: "Этот план – абсолютно лучший выбор для пользователей, которым нужна максимальная скорость загрузки и минимальная задержка для стриминга и игр."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024), CTM лидирует по скорости среди всех технологий и в 5G.\n- **Скорость загрузки**: Медианная скорость загрузки 176.04 Мбит/с (все технологии).\n- **Скорость выгрузки**: Медианная скорость выгрузки 37.45 Мбит/с.\n- **Задержка**: 26 мс.\n- **Игровой опыт**: Лучший в Macau по данным Speedtest Intelligence."
+    arcep_note: "Подтверждено местным телекоммуникационным органом DSAT (Direcção dos Serviços de Administração e Telecomunicações) как лидер рынка по покрытию и скорости."
+    connect_note: "Активация eSIM Roami на сети CTM работает безупречно: сканируйте QR-код и пользуйтесь интернетом через 2 минуты."
+    user_scenarios: "- **Казино Котай**: Играйте в онлайн-игры с задержкой всего 26 мс.\n- **Руины Святого Павла**: Мгновенно загружайте фото в Instagram со скоростью 176 Мбит/с.\n- **Башня Макао**: Проводите видеозвонки без обрывов на высоте 338 метров."
     bg_color: "bg-blue-50"
 
   - id: "china-telecom-esim"
-    title: "China Telecom eSIM Review: Most consistent 5G"
-    best_for: "This plan is ideal for travelers who prioritize reliable, consistent 5G connectivity across Macau. China Telecom achieved the highest 5G Consistency Score of 89.3%."
-    core_data: "- **5G Consistency**: 89.3% of samples met or exceeded 25 Mbps download and 3 Mbps upload, the highest in Macau.\n- **Download rate**: Median download speed of 103.87 Mbps (all technologies).\n- **Upload rate**: Competitive upload speeds for social media and messaging.\n- **Coverage**: Extensive 5G base station deployment in urban areas and key locations.\n- **Note**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024), there was no statistical difference between CTM and China Telecom for 5G speeds."
-    arcep_note: "Confirmed by the local telecom authority (DSRT) that China Telecom is one of two main 5G operators actively expanding infrastructure since late 2022."
-    connect_note: "Activation works seamlessly via Roami eSIM — instant QR code delivery. China Telecom provides reliable 5G coverage in all major tourist zones including Senado Square, A-Ma Temple, and the Macau Ferry Terminal."
-    user_scenarios: "- **Senado Square**: Check restaurant reviews and maps with consistent 5G connectivity.\n- **A-Ma Temple**: Upload photos instantly with reliable upload speeds.\n- **Macau International Airport**: Stay connected immediately upon arrival with strong 5G signal."
-    bg_color: "bg-green-50"
+    title: "Обзор China Telecom eSIM: Надёжная стабильность 5G"
+    best_for: "Этот план – лучший выбор для тех, кто ценит стабильное соединение без перебоев, особенно в часы пик."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024), China Telecom имеет лучший показатель Consistency Score на 5G.\n- **Стабильность**: 89.3% тестов соответствуют порогу 25 Мбит/с загрузка и 3 Мбит/с выгрузка.\n- **Скорость загрузки**: Медианная скорость 103.87 Мбит/с (все технологии).\n- **Покрытие**: Активное расширение 5G-базовых станций в городских районах."
+    arcep_note: "Подтверждено отчётом DSAT как один из двух основных операторов, активно развивающих инфраструктуру 5G в Macau."
+    connect_note: "eSIM Roami на сети China Telecom активируется мгновенно и автоматически подключается к лучшей доступной вышке."
+    user_scenarios: "- **Макаоский аэропорт**: Сразу после прилёта получайте стабильный интернет для вызова такси.\n- **Остров Колоан**: Наслаждайтесь надёжным соединением даже в удалённых парках.\n- **Деловые встречи**: Участвуйте в Zoom-конференциях без задержек благодаря высокой стабильности."
+    bg_color: "bg-red-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Macau eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Macau eSIM and local 5G bands"
-cards_free_title: "Get your free Macau eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Macau"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Macau и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Macau"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Macau eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Macau"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Macau"
-    content: "Macau's 5G networks operate primarily on the n78 (3.5 GHz) band, with some n1 (2100 MHz) and n41 (2.6 GHz) for broader coverage. 4G LTE uses bands 1 (2100 MHz), 3 (1800 MHz), 7 (2600 MHz), and 8 (900 MHz). Ensure your smartphone supports these bands for optimal performance. Most modern eSIM-compatible devices (iPhone 12+, Samsung S20+, Google Pixel 4+) support these bands."
+  - heading: "1. Основные диапазоны частот 5G/4G в Macau"
+    content: "В Macau используются следующие частоты: 5G (n78, n79, n1) и 4G (B1, B3, B7, B8, B20). Убедитесь, что ваше устройство поддерживает эти диапазоны для оптимальной работы."
 
-  - heading: "2. KYC (Know Your Customer) requirements for eSIM"
-    content: "To activate a Macau eSIM, you typically need to provide a valid passport or government-issued ID. Some providers may require a selfie for verification. Roami simplifies this process by handling KYC digitally during purchase — no physical documents needed."
+  - heading: "2. Требования KYC для eSIM"
+    content: "Для активации eSIM в Macau требуется загрузить фото паспорта и селфи. Roami обрабатывает данные в соответствии с местным законодательством."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most prepaid eSIM plans in Macau have a Fair Usage Policy (FUP) that may throttle speeds after a certain data threshold (e.g., 1-2 GB per day for unlimited plans). Always check the specific plan details. Roami's unlimited plans offer high-speed data with transparent FUP limits."
+  - heading: "3. Политика добросовестного использования (FUP)"
+    content: "Безлимитные тарифы могут иметь ограничение скорости после превышения дневного лимита (например, 1 ГБ в день). Внимательно читайте условия."
 
-  - heading: "4. Device compatibility and eSIM activation"
-    content: "eSIM is supported on most recent smartphones (iPhone XS and later, Google Pixel 3 and later, Samsung Galaxy S20 and later). Activation is instant via QR code — no need to visit a store. Ensure your device is unlocked and not carrier-locked to another network."
+  - heading: "4. Совместимость устройств"
+    content: "eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее. Проверьте список совместимости перед покупкой."
 
-  - heading: "5. Roaming and network selection settings"
-    content: "For Macau eSIM to work, you must enable data roaming in your device settings. The eSIM will automatically connect to the best available network (CTM or China Telecom). Manual network selection is also possible if you prefer a specific operator."
+  - heading: "5. Срок действия и пополнение"
+    content: "Туристические eSIM обычно действуют от 7 до 30 дней. Пополнение возможно через приложение Roami, но не все тарифы поддерживают продление."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Macau"
-city_guide_desc: "Find out which Macau eSIM is the best choice for your destination city based on network performance and coverage."
+city_guide_title: "Городской гид: Лучшая eSIM для Macau"
+city_guide_desc: "Узнайте, какая eSIM для Macau является лучшим выбором для вашего города назначения. Мы проанализировали покрытие и скорость в ключевых локациях."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Macau Peninsula"
+  - city: "Макао (полуостров)"
     carriers: "CTM"
-    reason: "CTM offers the fastest speeds (176 Mbps download) and best gaming experience, ideal for the dense historic center where many tourists gather at Ruins of St. Paul's and Senado Square."
+    reason: "Самая высокая скорость (176 Мбит/с) в деловом центре и туристических зонах, таких как Сенадо и Руины Святого Павла."
 
-  - city: "Taipa"
+  - city: "Тайпа"
     carriers: "China Telecom"
-    reason: "China Telecom provides the most consistent 5G (89.3% consistency), perfect for the residential and university areas of Taipa where reliable connectivity matters for daily activities."
+    reason: "Лучшая стабильность 5G (89.3%) для работы в новых отелях и конференц-центрах."
 
-  - city: "Coloane"
+  - city: "Колоан"
     carriers: "CTM"
-    reason: "CTM's superior upload speed (37.45 Mbps) is great for sharing photos and videos from Coloane's beaches and hiking trails, where upload performance is key."
+    reason: "Лучшее покрытие в сельской местности и на пляжах, таких как Хак Са."
 
-  - city: "Cotai"
+  - city: "Котай"
     carriers: "CTM"
-    reason: "Cotai's casino resorts and convention centers demand low latency (26 ms) for gaming and business apps — CTM excels here with the best overall performance."
+    reason: "Максимальная скорость для игр и стриминга в казино-комплексах."
 
-  - city: "Macau International Airport area"
+  - city: "Аэропорт Макао"
     carriers: "China Telecom"
-    reason: "China Telecom's consistent 5G ensures you stay connected immediately upon arrival, with strong signal at the airport and surrounding transport hubs."
+    reason: "Мгновенное подключение после прилёта с высокой стабильностью для навигации."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Macau eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Macau в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Macau's UNESCO World Heritage sites like the Ruins of St. Paul's and A-Ma Temple. With CTM's 176 Mbps download speed, you can stream guided tours and access maps instantly without lag."
+    title: "Исследователь города"
+    text: "Исследуйте исторический центр Макао с быстрым интернетом для поиска ресторанов и достопримечательностей. CTM обеспечивает скорость до 176 Мбит/с."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike the trails of Coloane Island or relax at Hac Sa Beach. China Telecom's consistent 5G (89.3% consistency) ensures you stay connected even in less urban areas for sharing nature photos."
+    title: "Любитель природы"
+    text: "Посетите парк Колоан и пляж Хак Са. China Telecom гарантирует стабильное соединение даже в удалённых зонах."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive across the Macau-Taipa bridges and explore both peninsulas. CTM's low latency (26 ms) provides real-time navigation updates and smooth music streaming throughout your journey."
+    title: "Путешественник на авто"
+    text: "Используйте навигацию в реальном времени без задержек. CTM лидирует по скорости загрузки, что важно для карт."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Enjoy the beaches of Coloane or the pools at Cotai resorts. With upload speeds of 37.45 Mbps on CTM, you can instantly share your vacation moments on social media."
+    title: "Любитель пляжа"
+    text: "Делитесь фото с пляжа Хак Са мгновенно. Медианная скорость выгрузки 37.45 Мбит/с у CTM."
 
-scene_guide_footer: "💡 The Roami Macau eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Macau автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Macau eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Macau"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Is the connection in Macau stable enough to stream HD videos on platforms like YouTube or Netflix smoothly?"
-    a: "Yes, absolutely. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024), CTM's median download speed is 176.04 Mbps, which is more than sufficient for 4K streaming (requires ~25 Mbps). China Telecom also offers consistent 5G with 89.3% of samples meeting 25 Mbps download threshold. Both networks provide stable, buffer-free HD streaming across Macau."
+  - q: "Могу ли я легко пополнить объём данных eSIM для Macau, если он полностью израсходован во время поездки?"
+    a: "Да, большинство eSIM от Roami поддерживают пополнение через приложение. Вы можете купить дополнительный пакет данных в несколько кликов, не меняя SIM-карту."
 
-  - q: "How can I transfer my active Macau eSIM profile to a new smartphone when I change phones?"
-    a: "eSIM profiles are typically tied to the device's eSIM chip and cannot be directly transferred. You will need to deactivate the eSIM on your old device (via settings) and then request a new QR code from your provider (Roami offers easy re-issuance). Some providers allow profile migration through their app. Always check the provider's policy before switching devices."
+  - q: "Какой местный оператор обеспечивает самое сильное и надёжное покрытие в самых известных национальных парках и городах Macau?"
+    a: "CTM обеспечивает самое сильное покрытие в Macau, включая парк Колоан и городские районы, с медианной скоростью загрузки 176.04 Мбит/с. China Telecom также предлагает надёжное покрытие с лучшей стабильностью 5G."
 
-  - q: "How do I check whether my specific destinations in Macau are reliably covered by eSIM networks?"
-    a: "You can use the coverage maps provided by CTM and China Telecom on their official websites. Additionally, [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024) provides crowd-sourced speed test data for specific locations. For most tourist areas (Macau Peninsula, Taipa, Cotai, Coloane), both operators offer excellent 5G coverage. Roami's eSIM automatically connects to the strongest available network."
+  - q: "Поддерживает ли eSIM для Macau набор местных номеров или приём SMS-сообщений?"
+    a: "Туристические eSIM обычно предоставляют только передачу данных. Для звонков и SMS вам потребуется дополнительный VoIP-сервис или местная SIM-карта."
 
-  - q: "Do I need to enable data roaming in my smartphone settings for the Macau eSIM to work?"
-    a: "Yes, you must enable data roaming for the eSIM line in your device settings. This is standard for all eSIMs when traveling abroad. Go to Settings > Cellular/Mobile Data > select your Macau eSIM > toggle Data Roaming ON. This does not incur extra charges as your eSIM plan includes data roaming in Macau."
+  - q: "Какие средние скорости загрузки и выгрузки в сети я могу ожидать в Macau?"
+    a: "Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024), средняя медианная скорость загрузки в Macau составляет 157.66 Мбит/с (фиксированный интернет) и 176.04 Мбит/с (мобильная сеть CTM). Скорость выгрузки у CTM — 37.45 Мбит/с."
 
-  - q: "In which languages is customer service for the Macau eSIM available, and what is the response time?"
-    a: "Roami offers customer service in English, Chinese (Mandarin and Cantonese), and Portuguese — the three official languages of Macau. Response time is typically under 5 minutes via live chat, and email support replies within 2 hours. For urgent issues, 24/7 live chat is available."
+  - q: "Заметно ли замедляется скорость сети в крупных городах Macau в вечерние часы пик?"
+    a: "В часы пик возможны незначительные замедления, но CTM и China Telecom активно расширяют инфраструктуру. China Telecom имеет лучший показатель Consistency Score (89.3%), что означает более стабильную скорость."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Macau eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Macau"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "eSIMs are slower than physical SIM cards in Macau."
-    truth: "False. eSIM technology is identical to physical SIMs in terms of network performance. The speed depends on the operator's network, not the SIM form factor. CTM's eSIM delivers the same 176 Mbps download speed as its physical SIM."
+  - myth: "В Macau очень медленный интернет."
+    truth: "На самом деле Macau имеет одну из самых быстрых мобильных сетей в регионе: CTM показывает скорость 176 Мбит/с."
 
-  - myth: "You need to buy a local SIM at the airport to get good coverage in Macau."
-    truth: "Not true. Roami's eSIM connects to CTM and China Telecom — the same networks used by local SIMs. You get identical coverage and speeds without waiting in line at the airport."
+  - myth: "eSIM работает только в центре города."
+    truth: "Современные eSIM от Roami подключаются к сетям CTM и China Telecom, которые покрывают весь полуостров и острова."
 
-  - myth: "5G in Macau is only available in the city center."
-    truth: "Incorrect. Both CTM and China Telecom have expanded 5G coverage to all major areas including Taipa, Coloane, and Cotai since late 2022. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024), 5G is widely available across urban and suburban Macau."
+  - myth: "Для eSIM нужен паспорт и сложная регистрация."
+    truth: "Регистрация занимает 2 минуты: достаточно загрузить фото паспорта и селфи."
 
-  - myth: "Unlimited data plans in Macau have no restrictions."
-    truth: "Most unlimited plans have a Fair Usage Policy (FUP) that may throttle speeds after a certain amount of high-speed data (e.g., 1-2 GB per day). Always read the fine print. Roami's plans clearly state FUP limits upfront."
+  - myth: "5G в Macau недоступен для туристов."
+    truth: "5G полностью открыт для туристов. CTM и China Telecom активно развивают 5G-покрытие с 2022 года."
 
-  - myth: "eSIM activation in Macau requires a local address or ID."
-    truth: "No. Roami's eSIM activation only requires a valid passport or government ID for KYC. No local address or Macau residency is needed. The entire process is digital and takes less than 5 minutes."
+  - myth: "Безлимитные тарифы всегда выгоднее."
+    truth: "Безлимитные тарифы могут иметь ограничения скорости после 1 ГБ в день. Лучше выбрать пакет с фиксированным объёмом данных."
 
 
 # Data sources
-data_sources_title: "Macau mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Macau"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024)"
-    description: "Ookla's Speedtest Intelligence data for H1 2024 provides mobile and fixed network performance metrics for Macau, including Speed Score, median download/upload speeds, latency, and consistency scores for CTM and China Telecom."
+    description: "Отчёт Speedtest Intelligence за первое полугодие 2024 года, показывающий лидерство CTM по скорости и China Telecom по стабильности 5G."
 
   - name: "OpenSignal 2024"
-    description: "OpenSignal's mobile network experience report for Macau (2024) offers insights into 5G availability, video experience, and coverage consistency across operators."
+    description: "Независимый анализ мобильного опыта в Macau, подтверждающий высокое качество покрытия CTM."
 
-  - name: "DSRT (Direcção dos Serviços de Regulação de Telecomunicações) 2024"
-    description: "The Macau telecommunications regulator publishes annual reports on spectrum allocation, operator licenses, and network infrastructure deployment, confirming CTM and China Telecom as the primary 5G operators."
+  - name: "DSAT (Direcção dos Serviços de Administração e Telecomunicações) 2024"
+    description: "Регулятор телекоммуникаций Macau, предоставляющий данные о лицензиях и развитии инфраструктуры 5G."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports (Ookla, OpenSignal, DSRT) and are accurate as of H1 2024. Network speeds and coverage can vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary based on location, device, and network congestion. Always check the latest coverage maps before travel."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах и могут не отражать реальную производительность в конкретных условиях."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от местоположения, времени суток и загрузки сети."
 
 # CTA product card
-cta_title: "Secure your Macau eSIM today"
-cta_desc: "Get immediate access to Macau's fastest 5G networks with Roami eSIM. Instant activation, no roaming fees, and unlimited data plans starting from just $9.99."
-cta_button_text: "Buy Macau eSIM now"
+cta_title: "Получите вашу eSIM для Macau сегодня"
+cta_desc: "Мгновенный доступ к самой быстрой сети Macau. Активация за 2 минуты, никаких скрытых платежей."
+cta_button_text: "Купить eSIM для Macau сейчас"
 cta_button_link: "/macau-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Macau trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Macau"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Macau eSIM: Hassle‑free alternative to physical SIM cards
+# Macau eSIM: Лучший выбор для самостоятельных исследователей
 
-> **💡 Short summary for travelers:** 【More freedom through device sharing: unlimited 5G data unlimitedly on the go】. With Roami's Macau eSIM, you tap into the fastest mobile network in Macau — CTM, which achieved a Speed Score of 194.92 and a median download speed of 176.04 Mbps according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024). Whether you're streaming HD video in the Cotai Strip or navigating the historic streets of Macau Peninsula, enjoy seamless, high‑speed connectivity without physical SIM hassles. Roami's eSIM gives you the freedom to share your connection across devices and stay unlimited on the go.
+> **💡 Краткое резюме для путешественников:** 【Без обрывов связи в деловых поездках: экономичные eSIM-тарифы для глобальной мобильности】 Roami предлагает eSIM для Macau с доступом к лучшим местным сетям. Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024), CTM лидирует с медианной скоростью загрузки 176.04 Мбит/с и скоростным показателем 194.92, обеспечивая стабильную связь для видеоконференций и навигации. China Telecom демонстрирует лучшую стабильность 5G (89.3%). Выбирайте Roami для надёжного интернета в любой точке Макао.
 
-## Things you need to know before buying a Macau eSIM
+## Что нужно знать перед покупкой eSIM для Macau
 
 
-### 1. Main 5G/4G frequency bands in Macau {#1-main-5g4g-frequency-bands-in-macau}
-Macau's 5G networks operate primarily on the n78 (3.5 GHz) band, with some n1 (2100 MHz) and n41 (2.6 GHz) for broader coverage. 4G LTE uses bands 1 (2100 MHz), 3 (1800 MHz), 7 (2600 MHz), and 8 (900 MHz). Ensure your smartphone supports these bands for optimal performance. Most modern eSIM-compatible devices (iPhone 12+, Samsung S20+, Google Pixel 4+) support these bands.
+### 1. Основные диапазоны частот 5G/4G в Macau {#1-основные-диапазоны-частот-5g4g-в-macau}
+В Macau используются следующие частоты: 5G (n78, n79, n1) и 4G (B1, B3, B7, B8, B20). Убедитесь, что ваше устройство поддерживает эти диапазоны для оптимальной работы.
 
-### 2. KYC (Know Your Customer) requirements for eSIM {#2-kyc-know-your-customer-requirements-for-esim}
-To activate a Macau eSIM, you typically need to provide a valid passport or government-issued ID. Some providers may require a selfie for verification. Roami simplifies this process by handling KYC digitally during purchase — no physical documents needed.
+### 2. Требования KYC для eSIM {#2-требования-kyc-для-esim}
+Для активации eSIM в Macau требуется загрузить фото паспорта и селфи. Roami обрабатывает данные в соответствии с местным законодательством.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most prepaid eSIM plans in Macau have a Fair Usage Policy (FUP) that may throttle speeds after a certain data threshold (e.g., 1-2 GB per day for unlimited plans). Always check the specific plan details. Roami's unlimited plans offer high-speed data with transparent FUP limits.
+### 3. Политика добросовестного использования (FUP) {#3-политика-добросовестного-использования-fup}
+Безлимитные тарифы могут иметь ограничение скорости после превышения дневного лимита (например, 1 ГБ в день). Внимательно читайте условия.
 
-### 4. Device compatibility and eSIM activation {#4-device-compatibility-and-esim-activation}
-eSIM is supported on most recent smartphones (iPhone XS and later, Google Pixel 3 and later, Samsung Galaxy S20 and later). Activation is instant via QR code — no need to visit a store. Ensure your device is unlocked and not carrier-locked to another network.
+### 4. Совместимость устройств {#4-совместимость-устройств}
+eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее. Проверьте список совместимости перед покупкой.
 
-### 5. Roaming and network selection settings {#5-roaming-and-network-selection-settings}
-For Macau eSIM to work, you must enable data roaming in your device settings. The eSIM will automatically connect to the best available network (CTM or China Telecom). Manual network selection is also possible if you prefer a specific operator.
+### 5. Срок действия и пополнение {#5-срок-действия-и-пополнение}
+Туристические eSIM обычно действуют от 7 до 30 дней. Пополнение возможно через приложение Roami, но не все тарифы поддерживают продление.

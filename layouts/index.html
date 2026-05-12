@@ -726,5 +726,143 @@
         }
     })();
 </script>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    
+    // 1. 修复 Top Destinations 的 Tab 切换
+    const destTabs = document.querySelectorAll('.tab-btn');
+    const destContents = document.querySelectorAll('.tab-content');
+    
+    destContents.forEach(content => {
+        if (!content.classList.contains('active')) {
+            content.style.display = 'none';
+        }
+    });
+
+    destTabs.forEach(tab => {
+        tab.addEventListener('click', () => {
+            destTabs.forEach(t => {
+                t.classList.remove('active', 'bg-blue-600', 'text-white', 'shadow-sm');
+                t.classList.add('text-slate-500');
+            });
+            destContents.forEach(c => {
+                c.classList.remove('active');
+                c.style.display = 'none';
+            });
+            
+            tab.classList.add('active', 'bg-blue-600', 'text-white', 'shadow-sm');
+            tab.classList.remove('text-slate-500');
+            
+            const targetId = tab.getAttribute('data-target');
+            const targetContent = document.getElementById(targetId);
+            if (targetContent) {
+                targetContent.classList.add('active');
+                targetContent.style.display = 'block';
+            }
+        });
+    });
+
+    // 2. 修复 Free Banner 区域的下载 Tab 切换
+    const dlTabs = document.querySelectorAll('.dl-tab-btn');
+    const dlContents = document.querySelectorAll('.dl-tab-content');
+    dlTabs.forEach(tab => {
+        tab.addEventListener('click', () => {
+            dlTabs.forEach(t => {
+                t.setAttribute('aria-selected', 'false');
+                t.classList.remove('text-white', 'border-blue-500');
+                t.classList.add('text-slate-400', 'border-transparent');
+            });
+            dlContents.forEach(c => {
+                c.classList.remove('active');
+                c.classList.add('hidden');
+            });
+            
+            tab.setAttribute('aria-selected', 'true');
+            tab.classList.add('text-white', 'border-blue-500');
+            tab.classList.remove('text-slate-400', 'border-transparent');
+            
+            const targetId = tab.getAttribute('data-target');
+            const targetContent = document.getElementById(targetId);
+            if (targetContent) {
+                targetContent.classList.remove('hidden');
+                targetContent.classList.add('active');
+            }
+        });
+    });
+
+    // 3. 修复底部 Download 区域的 Tab 切换
+    const dlTabs2 = document.querySelectorAll('.dl-tab-btn2');
+    const dlContents2 = document.querySelectorAll('.dl-tab-content2');
+    dlTabs2.forEach(tab => {
+        tab.addEventListener('click', () => {
+            dlTabs2.forEach(t => {
+                t.classList.remove('bg-blue-600', 'text-white');
+                t.classList.add('text-slate-400');
+            });
+            dlContents2.forEach(c => {
+                c.classList.add('hidden');
+            });
+            
+            tab.classList.add('bg-blue-600', 'text-white');
+            tab.classList.remove('text-slate-400');
+            
+            const targetId = tab.getAttribute('data-target');
+            const targetContent = document.getElementById(targetId);
+            if (targetContent) {
+                targetContent.classList.remove('hidden');
+            }
+        });
+    });
+
+    // 4. 拦截下载链接，显示自定义弹窗
+    const downloadLinks = document.querySelectorAll('.js-download-link');
+    const modal = document.getElementById('redirect-modal');
+    const modalContent = document.getElementById('redirect-modal-content');
+    const cancelBtn = document.getElementById('modal-cancel-btn');
+    const confirmBtn = document.getElementById('modal-confirm-btn');
+    let currentTargetHref = '';
+
+    function closeModal() {
+        modal.classList.add('hidden');
+        modalContent.classList.replace('scale-100', 'scale-95');
+    }
+
+    function openModal(href) {
+        currentTargetHref = href;
+        modal.classList.remove('hidden');
+        setTimeout(() => {
+            modalContent.classList.replace('scale-95', 'scale-100');
+        }, 10);
+    }
+
+    downloadLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+            e.preventDefault();
+            const href = this.getAttribute('href');
+            if (href) {
+                openModal(href);
+            }
+        });
+    });
+
+    cancelBtn.addEventListener('click', closeModal);
+    
+    modal.addEventListener('click', function(e) {
+        if (e.target === modal) {
+            closeModal();
+        }
+    });
+
+    confirmBtn.addEventListener('click', function() {
+        if (currentTargetHref) {
+            window.open(currentTargetHref, '_blank', 'noopener,noreferrer');
+            closeModal();
+        }
+    });
+});
+</script>
+
 </body>
 </html>

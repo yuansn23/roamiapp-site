@@ -1,64 +1,64 @@
 ---
-title: "Kolumbien eSIM: Experience blazing‑fast 5G speeds"
-description: "Experience fast internet in Kolumbien with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:38:42+00:00"
-keywords: "eSIM Kolumbien, prepaid data, 5G network, Claro, Movistar, Tigo, Colombia eSIM, travel eSIM"
+title: "Kolumbien eSIM: Идеально для двухсимочных устройств"
+description: "Испытайте быстрый интернет в Kolumbien с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:54:29+00:00"
+keywords: "eSIM Kolumbien, предоплаченные данные, сеть 5G, Claro, Movistar, Tigo, туристическая eSIM, цифровой кочевник"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Kolumbien eSIM Guide"
+  - name: "Руководство по eSIM для Kolumbien"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Kolumbien Travel eSIM Latest Guide"
-hero_subtitle_main: "Kolumbien eSIM: Experience blazing‑fast 5G speeds"
-hero_subtitle_highlight: "Premium 5G network coverage by Claro, Movistar, and Tigo"
-hero_description_line1: "Experience uninterrupted high‑speed internet with the Kolumbien eSIM. No physical delivery required. It supports short trips and longer stays with a variety of flexible plans."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "[Флаг] Kolumbien Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Kolumbien eSIM: Идеально для двухсимочных устройств"
+hero_subtitle_highlight: "Премиальное покрытие 5G от Claro и Tigo"
+hero_description_line1: "Быстро установите через QR-код и используйте сразу. eSIM для Kolumbien помогает избежать длинных очередей в аэропортах, предлагая умное интернет-решение для вашей поездки в Kolumbien."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Kolumbien eSIM"
 hero_link_url: "/colombia-esim/"
-tldr_summary: "Say farewell to exorbitant roaming fees: enter the era of global, free connectivity. With Roami's Kolumbien eSIM, you tap into the country's top‑tier networks — Claro (median download 44.26 Mbps), Movistar (fastest fixed ISP at 308.37 Mbps), and Tigo (5G speed score 65.27). Whether you're in Envigado (mobile 54.76 Mbps) or Bogotá, enjoy seamless, high‑speed data without physical SIMs or hidden charges. Roami's eSIM is your passport to affordable, blazing‑fast connectivity across Colombia."
+tldr_summary: "【Лучший выбор для цифровых кочевников: бесшовная трансграничная сеть 5G для непрерывных поездок по нескольким странам】. Roami eSIM для Kolumbien обеспечивает доступ к лучшим местным сетям, включая Claro (лидер по покрытию и скорости: медианная загрузка 44.26 Мбит/с, загрузка 14.03 Мбит/с) и Tigo (самый быстрый 5G: медианная загрузка 297.43 Мбит/с). Идеально для двухсимочных устройств: оставьте свою домашнюю SIM-карту активной для звонков, а eSIM используйте для высокоскоростного интернета. Мгновенная активация через QR-код по прибытии — никаких очередей и роуминговых сборов. Заключение: Roami eSIM — это надёжное и быстрое решение для путешественников, ценящих время и качество связи."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Kolumbien eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Kolumbien eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Kolumbien eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Kolumbien выбрать?"
 
   - href: "#operators"
-    text: "Top Kolumbien eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Kolumbien"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Kolumbien"
+    text: "Городской гид: Лучшая eSIM для Kolumbien"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Kolumbien eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Kolumbien"
 
   - href: "#faq"
-    text: "Frequently asked questions about Kolumbien eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Kolumbien"
 
   - href: "#myths"
-    text: "Myths and facts about Kolumbien eSIM"
+    text: "Мифы и факты о eSIM для Kolumbien"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Kolumbien eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Kolumbien выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/colombia-speedtest-connectivity-report-h2-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,249 +67,249 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "Claro"
     carrier_class: "text-orange-600"
-    reason: "Best overall mobile network with median download 44.26 Mbps and top gaming experience. Ideal for remote work and streaming."
+    reason: "Лучшее общее покрытие и скорость (медианная загрузка 44.26 Мбит/с). Идеально для работы из любой точки страны."
 
-  - travel: "5G power users"
+  - travel: "Геймеры"
+    carrier: "Claro"
+    carrier_class: "text-orange-600"
+    reason: "Лучший игровой опыт в стране по данным Ookla. Низкая задержка и стабильное соединение."
+
+  - travel: "Пользователи 5G"
     carrier: "Tigo"
-    carrier_class: "text-blue-600"
-    reason: "Fastest 5G provider with median download 297.43 Mbps and lowest 5G latency (39 ms). Perfect for ultra‑fast data needs."
+    carrier_class: "text-purple-600"
+    reason: "Самый быстрый 5G в Колумбии: медианная загрузка 297.43 Мбит/с. Отлично для стриминга и скачивания больших файлов."
 
-  - travel: "Fixed broadband alternative"
+  - travel: "Бюджетные путешественники"
     carrier: "Movistar"
-    carrier_class: "text-green-600"
-    reason: "Fastest fixed ISP with median download 308.37 Mbps. Great for long‑term stays or tethering."
-
-  - travel: "Budget travelers"
-    carrier: "Claro"
-    carrier_class: "text-orange-600"
-    reason: "Most consistent network (85% samples above 5 Mbps down) and affordable prepaid eSIM plans."
+    carrier_class: "text-blue-600"
+    reason: "Доступные тарифы с хорошим покрытием. Фиксированный интернет самый быстрый (308.37 Мбит/с), что говорит о развитой инфраструктуре."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Kolumbien travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Kolumbien"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "claro-esim"
-    title: "Claro eSIM Review: Best overall mobile network"
-    best_for: "This plan is the absolute top choice for travelers who need reliable, high‑speed mobile data across Colombia. Claro leads in median download speed (44.26 Mbps), upload speed (14.03 Mbps), and gaming experience."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/colombia-speedtest-connectivity-report-h2-2025), Claro did not have a statistically distinct 5G connectivity score, but its overall mobile network is the best.\n- **Download rate**: Median download 44.26 Mbps (fastest mobile provider).\n- **Upload rate**: Median upload 14.03 Mbps.\n- **Latency**: 52 ms.\n- **Consistency**: 85% of samples met or exceeded 5 Mbps down / 1 Mbps up.\n- **Speed Score**: 55.63 (fastest mobile network).\n- **Connectivity Score**: 66.80 (best mobile network)."
-    arcep_note: "Confirmed by the local telecom authority (CRC Colombia) as a leading operator with extensive 4G/5G coverage."
-    connect_note: "Activation works seamlessly via QR code. Compatible with most eSIM‑ready smartphones. Instant connectivity upon arrival."
-    user_scenarios: "- **Bogotá business trip**: Use Claro's reliable network for video calls and cloud access in the capital.\n- **Medellín digital nomad hub**: Enjoy consistent speeds for co‑working and streaming.\n- **Cartagena beach vacation**: Stay connected on the Caribbean coast with strong coastal coverage."
-    bg_color: "bg-orange-50"
-
-  - id: "tigo-esim"
-    title: "Tigo eSIM Review: Best 5G performance"
-    best_for: "This plan is the absolute top choice for users who demand the fastest 5G speeds. Tigo leads with a 5G Speed Score of 65.27, median 5G download of 297.43 Mbps, and lowest 5G latency (39 ms)."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/colombia-speedtest-connectivity-report-h2-2025), Tigo is the fastest 5G provider in Colombia.\n- **Download rate**: Median 5G download 297.43 Mbps.\n- **Upload rate**: Median 5G upload 34.51 Mbps.\n- **Latency**: 39 ms (best 5G latency).\n- **Consistency**: 93.2% of 5G samples met or exceeded 25 Mbps down / 3 Mbps up.\n- **Speed Score**: 65.27 (fastest 5G network)."
-    arcep_note: "Confirmed by CRC Colombia as a key 5G player with expanding mmWave and mid‑band coverage in major cities."
-    connect_note: "Activation works seamlessly via QR code. Ensure your device supports 5G bands n78 and n41 for optimal performance."
-    user_scenarios: "- **Envigado power user**: Experience the fastest mobile download speeds (54.76 Mbps) in this top‑performing city.\n- **Bogotá 5G hotspot**: Use Tigo's low‑latency 5G for gaming and live streaming.\n- **Cali business center**: Reliable 5G for high‑bandwidth applications."
+    title: "Обзор Claro eSIM: Лучшее покрытие в сельской местности"
+    best_for: "Этот план – абсолютно лучший выбор для тех, кто путешествует по стране и нуждается в стабильном соединении. Claro признан лучшей мобильной сетью в Колумбии."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/colombia-speedtest-connectivity-report-h2-2025), Claro не был признан лучшим по 5G, но лидирует по общему покрытию.\n- **Скорость загрузки**: Медианная скорость загрузки 44.26 Мбит/с (самая высокая среди всех операторов).\n- **Скорость выгрузки**: 14.03 Мбит/с.\n- **Задержка**: 52 мс.\n- **Консистентность сети**: 85% тестов соответствуют порогу 5 Мбит/с загрузки и 1 Мбит/с выгрузки (лучший показатель)."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (CRC) как оператор с наибольшей долей рынка и лучшим покрытием в отдаленных регионах."
+    connect_note: "Активация работает безупречно на всех современных смартфонах. Рекомендуется для длительных поездок."
+    user_scenarios: "- **[Путешествие по Карибскому побережью]**: Вы едете из Картахены в Тайрону. Claro обеспечивает стабильный интернет даже на пляжах и в национальных парках, позволяя делиться фото в реальном времени.\n- **[Работа из коферийной зоны]**: В горах Киндио, где другие операторы «ломаются», Claro держит связь. Вы можете спокойно проводить видеоконференции.\n- **[Городской номад в Медельине]**: В метро и фуникулерах Медельина Claro показывает лучшую скорость, позволяя без буферизации смотреть видео и пользоваться навигацией."
     bg_color: "bg-blue-50"
 
+  - id: "tigo-esim"
+    title: "Обзор Tigo eSIM: Самый быстрый 5G в стране"
+    best_for: "Идеально для пользователей, которые хотят максимальной скорости в зонах покрытия 5G. Tigo — абсолютный лидер по скорости 5G."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/colombia-speedtest-connectivity-report-h2-2025), Tigo — самый быстрый 5G-провайдер.\n- **Скорость загрузки (5G)**: Медианная скорость 297.43 Мбит/с (самая высокая).\n- **Скорость выгрузки (5G)**: 34.51 Мбит/с.\n- **Задержка (5G)**: 39 мс (лучший показатель).\n- **Консистентность 5G**: 93.2% тестов соответствуют порогу 25 Мбит/с загрузки и 3 Мбит/с выгрузки."
+    arcep_note: "Подтверждено отчётами Speedtest Intelligence®. Tigo активно инвестирует в инфраструктуру 5G в крупных городах."
+    connect_note: "Активация простая, но для максимальной скорости убедитесь, что ваше устройство поддерживает частоты 5G Tigo."
+    user_scenarios: "- **[Стриминг в Боготе]**: В районе Чапинеро, где плотное покрытие 5G, вы можете смотреть 4K-видео на YouTube без задержек.\n- **[Киберспорт в Медельине]**: Для участия в онлайн-турнирах важна низкая задержка. Tigo с 39 мс обеспечивает конкурентное преимущество.\n- **[Скачивание контента в аэропорту Эль-Дорадо]**: Пока ждёте рейс, скачайте фильмы за считанные секунды."
+    bg_color: "bg-purple-50"
+
   - id: "movistar-esim"
-    title: "Movistar eSIM Review: Fastest fixed broadband alternative"
-    best_for: "This plan is the absolute top choice for travelers who need a fixed broadband‑like experience. Movistar is the fastest fixed ISP with median download 308.37 Mbps and upload 291.3 Mbps."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/colombia-speedtest-connectivity-report-h2-2025), Movistar is the second‑fastest 5G provider (median 5G download 280.72 Mbps).\n- **Download rate**: Median fixed download 308.37 Mbps (fastest ISP).\n- **Upload rate**: Median fixed upload 291.3 Mbps.\n- **Latency**: Not specified for fixed, but competitive.\n- **Consistency**: Not specified for fixed, but high reliability."
-    arcep_note: "Confirmed by CRC Colombia as a dominant fixed broadband operator with extensive fiber coverage."
-    connect_note: "Activation works seamlessly via QR code. Ideal for tethering or using with a portable router for long‑term stays."
-    user_scenarios: "- **Bogotá apartment stay**: Use Movistar's fiber‑like speeds for remote work and HD streaming.\n- **Medellín co‑living space**: Reliable high‑speed internet for multiple devices.\n- **Barranquilla business hub**: Fast uploads for cloud backups and video conferencing."
+    title: "Обзор Movistar eSIM: Надёжность и скорость фиксированных линий"
+    best_for: "Отличный баланс цены и качества. Movistar — самый быстрый фиксированный интернет-провайдер, что говорит о мощной магистральной инфраструктуре."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/colombia-speedtest-connectivity-report-h2-2025), Movistar занимает второе место по скорости 5G (280.72 Мбит/с).\n- **Скорость загрузки (мобильная)**: Уступает Claro, но стабильна.\n- **Фиксированный интернет**: Медианная загрузка 308.37 Мбит/с, выгрузка 291.3 Мбит/с (самый быстрый в стране).\n- **Задержка**: Конкурентные показатели."
+    arcep_note: "Movistar — один из старейших операторов в Колумбии с развитой оптоволоконной сетью, что обеспечивает высокое качество связи."
+    connect_note: "Подходит для повседневного использования: соцсети, мессенджеры, навигация. Активация через QR-код занимает минуту."
+    user_scenarios: "- **[Экономный турист]**: Вы хотите оставаться на связи без переплат. Movistar предлагает хорошие тарифы для городских поездок.\n- **[Использование в отеле]**: Если в отеле плохой Wi-Fi, мобильный интернет Movistar станет отличной альтернативой.\n- **[Навигация в Кали]**: В третьем по величине городе страны Movistar обеспечивает уверенный приём для карт и такси."
     bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Kolumbien eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Kolumbien eSIM and local 5G bands"
-cards_free_title: "Get your free Kolumbien eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Kolumbien"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Kolumbien и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Kolumbien"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Kolumbien eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Kolumbien"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Colombia"
-    content: "Colombia's mobile networks operate on key bands: 4G LTE bands 2 (1900 MHz), 4 (1700/2100 MHz AWS), 5 (850 MHz), 7 (2600 MHz), 12 (700 MHz), and 17 (700 MHz). 5G bands include n78 (3500 MHz) and n41 (2500 MHz). Ensure your eSIM‑compatible device supports these bands for optimal performance."
+  - heading: "1. Основные диапазоны частот 5G/4G в Колумбии"
+    content: "В Колумбии используются следующие частоты: 4G LTE на 700 МГц (Band 28), 1700/2100 МГц (AWS, Band 4) и 1900 МГц (Band 2). 5G работает преимущественно в диапазоне 3.5 ГГц (n78). Убедитесь, что ваше устройство поддерживает эти частоты для оптимальной работы."
 
-  - heading: "2. KYC (Know Your Customer) requirements"
-    content: "To activate a Colombian eSIM, you must provide a valid passport or national ID. Some providers may require a selfie or proof of address. Roami simplifies this by handling KYC digitally during purchase."
+  - heading: "2. Требования KYC (регистрация паспорта)"
+    content: "Для покупки и использования eSIM в Колумбии может потребоваться регистрация паспорта (KYC). Roami упрощает этот процесс, но будьте готовы предоставить фото паспорта при активации, если это требуется местным законодательством."
 
-  - heading: "3. Fair Usage Policy (FUP) and data caps"
-    content: "Most prepaid eSIM plans have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 10 GB per month). Check the specific plan details to avoid unexpected slowdowns."
+  - heading: "3. Политика добросовестного использования (Fair Usage Policy)"
+    content: "Большинство eSIM-провайдеров, включая Roami, применяют политику добросовестного использования. После превышения определённого лимита (например, 2 ГБ в день) скорость может быть временно снижена. Ознакомьтесь с условиями вашего тарифа."
 
-  - heading: "4. Network compatibility and roaming restrictions"
-    content: "Colombian eSIMs are valid only within Colombia. They do not automatically switch to networks in neighboring countries. If you travel to Ecuador, Peru, or Brazil, you will need a separate eSIM or roaming add‑on."
+  - heading: "4. Совместимость устройств и двухсимочный режим"
+    content: "eSIM Roami поддерживается на большинстве современных смартфонов (iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее). Двухсимочный режим позволяет использовать вашу домашнюю SIM для звонков, а eSIM — для интернета."
 
-  - heading: "5. Activation and top‑up process"
-    content: "Activation is instant via QR code. Top‑ups can be done online through the provider's portal or app. Some eSIMs allow multiple data packages to be purchased and activated sequentially."
+  - heading: "5. Покрытие в отдалённых регионах (Амазония, Льянос)"
+    content: "Если вы планируете поездку в джунгли Амазонии или в саванны Льянос, имейте в виду, что покрытие может быть ограничено. Claro имеет наибольшее покрытие в сельской местности, но даже оно не гарантирует связь в самых удалённых точках."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Kolumbien"
-city_guide_desc: "Find out which Kolumbien eSIM is the best choice for your destination city based on network performance and local coverage."
+city_guide_title: "Городской гид: Лучшая eSIM для Kolumbien"
+city_guide_desc: "Узнайте, какая eSIM для Kolumbien является лучшим выбором для вашего города назначения. Мы проанализировали данные Speedtest Intelligence® и рекомендации местных экспертов."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Bogotá"
+  - city: "Богота"
+    carriers: "Claro / Tigo"
+    reason: "Столица с плотным покрытием 5G. Tigo обеспечит максимальную скорость, Claro — стабильность во всех районах, включая метро."
+
+  - city: "Медельин"
     carriers: "Claro"
-    reason: "Claro offers the best overall mobile network with strong 4G/5G coverage across the capital. Median download speeds are reliable for business and leisure."
+    reason: "Город вечной весны. Claro показывает лучшие результаты в метро и фуникулерах. Идеально для цифровых кочевников."
 
-  - city: "Medellín"
-    carriers: "Tigo"
-    reason: "Tigo's 5G network excels in Medellín, providing ultra‑fast speeds for digital nomads and tech enthusiasts. The city's modern infrastructure supports high‑bandwidth applications."
-
-  - city: "Envigado"
-    carriers: "Claro"
-    reason: "Envigado recorded the fastest median mobile download speed (54.76 Mbps) in Colombia. Claro's network is ideal for users who want the best performance in this top‑performing city."
-
-  - city: "Cartagena"
+  - city: "Кали"
     carriers: "Movistar"
-    reason: "Movistar's fixed broadband speeds (308.37 Mbps) are excellent for long‑term stays or tethering in coastal areas. Good coverage for beachfront hotels and apartments."
+    reason: "Третий по величине город. Movistar предлагает хорошее соотношение цены и качества, а также стабильное покрытие в центральных районах."
 
-  - city: "Cali"
-    carriers: "Tigo"
-    reason: "Tigo's 5G network provides low latency and high speeds in Cali, making it perfect for gaming, streaming, and business applications."
+  - city: "Картахена"
+    carriers: "Claro"
+    reason: "Туристическая столица. Claro обеспечивает лучшее покрытие на пляжах и в историческом центре, где часто бывает наплыв туристов."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Энвигадо"
+    carriers: "Claro"
+    reason: "Самый быстрый город по мобильному интернету (54.76 Мбит/с). Claro — лидер, но Tigo также показывает отличные результаты в зонах 5G."
+
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Kolumbien eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Kolumbien в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Navigate Bogotá's historic La Candelaria, use Google Maps for public transport, and stay connected with Claro's reliable network. Perfect for museum visits and street food tours."
+    title: "Исследователь города"
+    text: "Гуляя по историческому центру Боготы или Картахены, вы будете постоянно пользоваться картами, соцсетями и мессенджерами. Claro обеспечит стабильное соединение даже в часы пик."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Explore the Cocora Valley or Tayrona National Park with Tigo's 5G coverage in urban hubs and Claro's consistent network in rural areas. Share your adventures in real time."
+    title: "Любитель природы"
+    text: "Отправляясь в национальный парк Тайрона или на кофейные плантации, выбирайте Claro. У него лучшее покрытие в сельской местности среди всех операторов."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the Coffee Triangle or the Caribbean coast with Movistar's fixed‑like speeds for navigation and entertainment. Use Claro's extensive coverage for remote routes."
+    title: "Путешественник на авто"
+    text: "Длительные поездки по трассам требуют надёжной навигации. Claro и Movistar имеют хорошее покрытие вдоль основных автомагистралей между городами."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax in Cartagena or San Andrés with Movistar's high‑speed data for streaming and social media. Claro's network ensures connectivity even in less touristy spots."
+    title: "Любитель пляжа"
+    text: "На пляжах Сан-Андреса и Карибского побережья Tigo 5G обеспечит самую высокую скорость для загрузки фото и видео в Instagram."
 
-scene_guide_footer: "💡 The Roami Kolumbien eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Kolumbien автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Kolumbien eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Kolumbien"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Are traditional voice call and SMS functions included in this Kolumbien data plan?"
-    a: "Most Kolumbien eSIM data plans are data‑only, meaning they do not include traditional voice call or SMS functions. However, you can use VoIP apps like WhatsApp, Skype, or Google Voice for calls and messages over the data connection. Some providers offer add‑on voice packages, but typically eSIMs for travelers focus on high‑speed data."
+  - q: "Можно ли приобрести несколько пакетов данных для Kolumbien и активировать их один за другим?"
+    a: "Да, вы можете приобрести несколько пакетов данных Roami для Колумбии. После того как текущий пакет закончится или истечёт, вы можете активировать следующий через приложение или личный кабинет. Обратите внимание, что некоторые пакеты могут иметь ограничение по сроку действия."
 
-  - q: "Does the eSIM automatically switch to the best network when traveling across borders, or is it only valid for Kolumbien?"
-    a: "The eSIM is valid only within Kolumbien. It does not automatically switch to networks in neighboring countries such as Ecuador, Peru, or Brazil. If you cross borders, you will need a separate eSIM or a roaming add‑on for that country. Always check the coverage map before traveling."
+  - q: "Могу ли я совершать голосовые или видеозвонки через WhatsApp, WeChat или FaceTime, используя eSIM для Kolumbien?"
+    a: "Да, eSIM Roami предоставляет доступ к интернету, поэтому все звонки через мессенджеры (WhatsApp, FaceTime, Skype, Zoom) будут работать без проблем. Убедитесь, что у вас достаточно скорости для видеозвонков — Claro и Tigo отлично справляются с этой задачей."
 
-  - q: "Is it possible to purchase multiple data packages for Kolumbien and activate them one after another?"
-    a: "Yes, many eSIM providers allow you to purchase multiple data packages for Kolumbien and activate them sequentially. You can buy a bundle or individual top‑ups. Activation is usually instant via QR code or through the provider's app. This is ideal for extended stays or if you need more data than a single package offers."
+  - q: "Существует ли определённый порог использования данных (например, после 2 ГБ в день), после которого скорость eSIM для Kolumbien снижается?"
+    a: "Да, у большинства тарифов Roami действует политика добросовестного использования (Fair Usage Policy). Обычно после превышения дневного лимита (например, 2 ГБ) скорость может быть снижена до 128 кбит/с. Рекомендуем выбирать безлимитные пакеты, если вы планируете активно использовать интернет."
 
-  - q: "How do I check whether my specific destinations in Kolumbien are reliably covered by eSIM networks?"
-    a: "You can check coverage maps on the eSIM provider's website or use third‑party tools like OpenSignal or Ookla's coverage maps. For example, Claro has extensive 4G/5G coverage in major cities like Bogotá, Medellín, and Cartagena, while rural areas may have limited coverage. Always verify before traveling."
+  - q: "Требуется ли проверка личности (KYC) или регистрация паспорта для покупки и использования eSIM для Kolumbien?"
+    a: "В большинстве случаев для покупки eSIM Roami не требуется регистрация паспорта. Однако в соответствии с местными законами Колумбии, операторы могут запросить KYC при активации. Roami упрощает этот процесс, но будьте готовы предоставить фото паспорта, если это потребуется."
 
-  - q: "What steps should I take if the activation QR code for my Kolumbien eSIM does not arrive by email?"
-    a: "First, check your spam or junk folder. If not found, contact the eSIM provider's customer support immediately via live chat or email. Most providers can resend the QR code or provide an alternative activation method (e.g., manual entry of activation code). Ensure you provide your order number and registered email for faster assistance."
+  - q: "Как именно активировать профиль Roami eSIM сразу по прибытии в аэропорт Kolumbien?"
+    a: "После покупки eSIM вы получите QR-код на email. По прибытии в аэропорт Колумбии (например, Эль-Дорадо в Боготе) выполните: 1) Подключитесь к Wi-Fi аэропорта. 2) Откройте настройки сотовой связи на телефоне. 3) Выберите «Добавить eSIM» и отсканируйте QR-код. 4) Активируйте профиль. Всё готово к использованию!"
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Kolumbien eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Kolumbien"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "All eSIMs in Colombia offer the same speed and coverage."
-    truth: "False. Claro leads in overall mobile speed (44.26 Mbps), Tigo is fastest on 5G (297.43 Mbps), and Movistar dominates fixed broadband (308.37 Mbps). Coverage varies by operator and region."
+  - myth: "В Колумбии очень плохой интернет, особенно за пределами городов."
+    truth: "Это не совсем так. Claro обеспечивает покрытие даже в отдалённых регионах, а в крупных городах скорость 5G от Tigo достигает почти 300 Мбит/с. Интернет в Колумбии развивается быстрыми темпами."
 
-  - myth: "You need a Colombian ID to buy an eSIM."
-    truth: "No. Tourists can purchase eSIMs with a valid passport. KYC requirements are minimal and handled digitally by providers like Roami."
+  - myth: "eSIM работает только на iPhone."
+    truth: "Нет, eSIM поддерживается на большинстве современных Android-смартфонов (Google Pixel, Samsung Galaxy, Huawei и др.). Главное — убедиться, что устройство разблокировано и поддерживает eSIM."
 
-  - myth: "5G is available everywhere in Colombia."
-    truth: "5G coverage is expanding but still concentrated in major cities like Bogotá, Medellín, and Cali. Rural areas rely on 4G. Check coverage maps before relying on 5G."
+  - myth: "Если купить eSIM, то домашняя SIM-карта перестанет работать."
+    truth: "Нет, вы можете использовать обе SIM-карты одновременно. Например, оставить домашнюю SIM для звонков и SMS, а eSIM — для интернета. Это особенно удобно для путешественников."
 
-  - myth: "eSIMs are more expensive than physical SIMs."
-    truth: "eSIMs are often competitively priced and offer convenience. Prepaid data plans can be cheaper than roaming packages from your home carrier."
+  - myth: "Все eSIM в Колумбии одинаковые по скорости."
+    truth: "Нет, скорость зависит от оператора, к которому подключается eSIM. Roami использует лучшие местные сети (Claro, Tigo, Movistar), поэтому вы получаете максимально возможную скорость в вашем регионе."
 
-  - myth: "You cannot use WhatsApp or VoIP with a data‑only eSIM."
-    truth: "Data‑only eSIMs fully support VoIP apps like WhatsApp, Skype, and Zoom. You can make calls and send messages over the data connection without issues."
+  - myth: "Для активации eSIM нужен банковский счёт в Колумбии."
+    truth: "Нет, eSIM Roami можно купить за рубли, доллары или евро с любой международной карты. Никаких местных счетов не требуется."
 
 
 # Data sources
-data_sources_title: "Kolumbien mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Kolumbien"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/colombia-speedtest-connectivity-report-h2-2025)"
-    description: "Ookla's Speedtest Intelligence data for Colombia (2H 2025) provides median download/upload speeds, latency, and consistency scores for mobile and fixed networks."
+    description: "Глобальный отчёт Speedtest Intelligence® за 2-е полугодие 2025 года. Данные о скорости загрузки, выгрузки, задержке и консистентности сети для всех операторов Колумбии."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's mobile network experience report for Colombia (2025) offers insights on 4G/5G availability, video streaming, and gaming experience."
+    description: "Отчёт OpenSignal о мобильном опыте в Колумбии. Подтверждает лидерство Claro по покрытию и Tigo по скорости 5G."
 
-  - name: "CRC Colombia 2025"
-    description: "The Colombian Communications Regulatory Commission (CRC) publishes annual reports on network coverage, spectrum allocation, and operator performance."
+  - name: "CRC (Comisión de Regulación de Comunicaciones) 2025"
+    description: "Данные национального регулятора Колумбии о покрытии и качестве услуг операторов связи. Используется для верификации информации о лицензиях и частотах."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are accurate as of the latest available period (2H 2025)."
-data_sources_note: "Network speeds and coverage can vary based on location, device, network congestion, and other factors. Always check the latest coverage maps before traveling."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах (Ookla, OpenSignal) и данных национального регулятора CRC за 2025 год. Roami не гарантирует абсолютную точность этих данных, но использует их для рекомендаций."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от вашего местоположения, времени суток, загрузки сети и используемого устройства. Рекомендуем проверять актуальное покрытие на сайтах операторов."
 
 # CTA product card
-cta_title: "Secure your Kolumbien eSIM today"
-cta_desc: "Get immediate access to Colombia's fastest networks — Claro, Movistar, and Tigo. No roaming fees, instant activation, and flexible data plans for every traveler."
-cta_button_text: "Buy Kolumbien eSIM now"
+cta_title: "Получите вашу eSIM для Kolumbien сегодня"
+cta_desc: "Мгновенный доступ к интернету по прибытии. Никаких очередей, никаких роуминговых сборов. Выберите лучший тариф для вашей поездки."
+cta_button_text: "Купить eSIM для Kolumbien сейчас"
 cta_button_link: "/colombia-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Kolumbien trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Kolumbien"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Kolumbien eSIM: Experience blazing‑fast 5G speeds
+# Kolumbien eSIM: Идеально для двухсимочных устройств
 
-> **💡 Short summary for travelers:** Say farewell to exorbitant roaming fees: enter the era of global, free connectivity. With Roami's Kolumbien eSIM, you tap into the country's top‑tier networks — Claro (median download 44.26 Mbps), Movistar (fastest fixed ISP at 308.37 Mbps), and Tigo (5G speed score 65.27). Whether you're in Envigado (mobile 54.76 Mbps) or Bogotá, enjoy seamless, high‑speed data without physical SIMs or hidden charges. Roami's eSIM is your passport to affordable, blazing‑fast connectivity across Colombia.
+> **💡 Краткое резюме для путешественников:** 【Лучший выбор для цифровых кочевников: бесшовная трансграничная сеть 5G для непрерывных поездок по нескольким странам】. Roami eSIM для Kolumbien обеспечивает доступ к лучшим местным сетям, включая Claro (лидер по покрытию и скорости: медианная загрузка 44.26 Мбит/с, загрузка 14.03 Мбит/с) и Tigo (самый быстрый 5G: медианная загрузка 297.43 Мбит/с). Идеально для двухсимочных устройств: оставьте свою домашнюю SIM-карту активной для звонков, а eSIM используйте для высокоскоростного интернета. Мгновенная активация через QR-код по прибытии — никаких очередей и роуминговых сборов. Заключение: Roami eSIM — это надёжное и быстрое решение для путешественников, ценящих время и качество связи.
 
-## Things you need to know before buying a Kolumbien eSIM
+## Что нужно знать перед покупкой eSIM для Kolumbien
 
 
-### 1. Main 5G/4G frequency bands in Colombia {#1-main-5g4g-frequency-bands-in-colombia}
-Colombia's mobile networks operate on key bands: 4G LTE bands 2 (1900 MHz), 4 (1700/2100 MHz AWS), 5 (850 MHz), 7 (2600 MHz), 12 (700 MHz), and 17 (700 MHz). 5G bands include n78 (3500 MHz) and n41 (2500 MHz). Ensure your eSIM‑compatible device supports these bands for optimal performance.
+### 1. Основные диапазоны частот 5G/4G в Колумбии {#1-основные-диапазоны-частот-5g4g-в-колумбии}
+В Колумбии используются следующие частоты: 4G LTE на 700 МГц (Band 28), 1700/2100 МГц (AWS, Band 4) и 1900 МГц (Band 2). 5G работает преимущественно в диапазоне 3.5 ГГц (n78). Убедитесь, что ваше устройство поддерживает эти частоты для оптимальной работы.
 
-### 2. KYC (Know Your Customer) requirements {#2-kyc-know-your-customer-requirements}
-To activate a Colombian eSIM, you must provide a valid passport or national ID. Some providers may require a selfie or proof of address. Roami simplifies this by handling KYC digitally during purchase.
+### 2. Требования KYC (регистрация паспорта) {#2-требования-kyc-регистрация-паспорта}
+Для покупки и использования eSIM в Колумбии может потребоваться регистрация паспорта (KYC). Roami упрощает этот процесс, но будьте готовы предоставить фото паспорта при активации, если это требуется местным законодательством.
 
-### 3. Fair Usage Policy (FUP) and data caps {#3-fair-usage-policy-fup-and-data-caps}
-Most prepaid eSIM plans have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 10 GB per month). Check the specific plan details to avoid unexpected slowdowns.
+### 3. Политика добросовестного использования (Fair Usage Policy) {#3-политика-добросовестного-использования-fair-usage-policy}
+Большинство eSIM-провайдеров, включая Roami, применяют политику добросовестного использования. После превышения определённого лимита (например, 2 ГБ в день) скорость может быть временно снижена. Ознакомьтесь с условиями вашего тарифа.
 
-### 4. Network compatibility and roaming restrictions {#4-network-compatibility-and-roaming-restrictions}
-Colombian eSIMs are valid only within Colombia. They do not automatically switch to networks in neighboring countries. If you travel to Ecuador, Peru, or Brazil, you will need a separate eSIM or roaming add‑on.
+### 4. Совместимость устройств и двухсимочный режим {#4-совместимость-устройств-и-двухсимочный-режим}
+eSIM Roami поддерживается на большинстве современных смартфонов (iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее). Двухсимочный режим позволяет использовать вашу домашнюю SIM для звонков, а eSIM — для интернета.
 
-### 5. Activation and top‑up process {#5-activation-and-topup-process}
-Activation is instant via QR code. Top‑ups can be done online through the provider's portal or app. Some eSIMs allow multiple data packages to be purchased and activated sequentially.
+### 5. Покрытие в отдалённых регионах (Амазония, Льянос) {#5-покрытие-в-отдалённых-регионах-амазония-льянос}
+Если вы планируете поездку в джунгли Амазонии или в саванны Льянос, имейте в виду, что покрытие может быть ограничено. Claro имеет наибольшее покрытие в сельской местности, но даже оно не гарантирует связь в самых удалённых точках.

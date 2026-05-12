@@ -1,64 +1,64 @@
 ---
-title: "Thailand eSIM: Perfect for dual‑SIM devices"
-description: "Experience fast internet in Thailand with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:43:41+00:00"
-keywords: "eSIM Thailand, prepaid data, 5G network, AIS, TrueMove H, Thailand travel eSIM, best mobile network Thailand"
+title: "Thailand eSIM: Премиальный выбор для 5G-сетей в путешествиях"
+description: "Испытайте быстрый интернет в Thailand с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:59:38+00:00"
+keywords: "eSIM Thailand, предоплаченные данные, сеть 5G, AIS, TrueMove H, туристическая eSIM, интернет в Таиланде"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Thailand eSIM Guide"
+  - name: "Руководство по eSIM для Thailand"
     url: ""
 
 # Hero section copy
-hero_badge: "🇹🇭 Thailand Travel eSIM Latest Guide"
-hero_subtitle_main: "Thailand eSIM: Perfect for dual‑SIM devices"
-hero_subtitle_highlight: "Premium 5G network coverage by AIS and TrueMove H"
-hero_description_line1: "The Thailand eSIM supports smooth HD video streaming and social media use, covering airports, shopping districts, and popular scenic areas as an extremely cost‑effective data option."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "[Флаг] Thailand Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Thailand eSIM: Премиальный выбор для 5G-сетей в путешествиях"
+hero_subtitle_highlight: "Премиальное покрытие 5G от AIS и TrueMove H"
+hero_description_line1: "Пропустите очереди за SIM-картами с eSIM для Thailand. Получите QR-код сразу после онлайн-оплаты, активируйте за несколько минут и быстро решите проблему интернета в Thailand."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Thailand eSIM"
 hero_link_url: "/thailand-esim/"
-tldr_summary: "No connection drops on business trips: cost‑effective eSIM plans for global mobility. Roami's Thailand eSIM leverages AIS's award‑winning network, which achieved a median download speed of 104.33 Mbps and a 5G median download speed of 177.19 Mbps in 1H 2025, ensuring seamless video calls and file transfers. With instant activation and dual‑SIM support, you stay productive from Bangkok to Phuket without roaming fees."
+tldr_summary: "【Бесшовное переключение сетей в нескольких странах – новый стандарт для путешествующих цифровых кочевников】. Roami и eSIM для Thailand обеспечивают мгновенный доступ к лучшим местным сетям, таким как AIS и TrueMove H. Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025), AIS лидирует с медианной скоростью загрузки 104.33 Мбит/с (все технологии) и 177.19 Мбит/с (5G). TrueMove H предлагает лучшую доступность 5G (74.2%). Выбирайте Roami для стабильного соединения в путешествиях по Таиланду без роуминговых сборов."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Thailand eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Thailand eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Thailand eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Thailand выбрать?"
 
   - href: "#operators"
-    text: "Top Thailand eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Thailand"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Thailand"
+    text: "Городской гид: Лучшая eSIM для Thailand"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Thailand eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Thailand"
 
   - href: "#faq"
-    text: "Frequently asked questions about Thailand eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Thailand"
 
   - href: "#myths"
-    text: "Myths and facts about Thailand eSIM"
+    text: "Мифы и факты о eSIM для Thailand"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Thailand eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Thailand выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,235 +67,235 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "AIS"
     carrier_class: "text-green-600"
-    reason: "AIS leads with the fastest median download speed (104.33 Mbps) and best 5G gaming experience (Game Score 81.34), ideal for heavy data use and video conferencing."
+    reason: "Лучшая общая производительность: медианная скорость загрузки 104.33 Мбит/с, лучшая скорость 5G (177.19 Мбит/с) и низкая задержка (37 мс). Идеально для работы и потокового видео."
 
-  - travel: "Frequent travelers / commuters"
+  - travel: "Любители пляжного отдыха"
     carrier: "TrueMove H"
     carrier_class: "text-blue-600"
-    reason: "TrueMove H offers the highest 5G availability (74.2%), ensuring consistent connectivity in transit and suburban areas."
+    reason: "Лучшая доступность 5G (74.2% времени). Отличный выбор для курортных зон, где важна стабильность сигнала."
 
-  - travel: "Budget-conscious tourists"
+  - travel: "Путешественники по городам"
     carrier: "AIS"
     carrier_class: "text-green-600"
-    reason: "AIS provides the best overall value with top speeds and wide coverage, making it cost‑effective for short stays."
+    reason: "Лучший игровой опыт (Game Score 79.71) и высокая согласованность сети (95% образцов >5 Мбит/с). Подходит для навигации и соцсетей."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Thailand travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Thailand"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "ais-esim"
-    title: "AIS eSIM Review: Best overall performance"
-    best_for: "This plan is the absolute top choice for users who demand the fastest speeds and lowest latency for streaming, gaming, and business use."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025), AIS achieved a median 5G download speed of 177.19 Mbps and a 5G latency of 35 ms.\n- **Download rate**: Median download speed of 104.33 Mbps for all technologies combined.\n- **Upload rate**: Median upload speed of 23.21 Mbps (all technologies) and 30.06 Mbps on 5G.\n- **Consistency**: 95% of samples met or exceeded 5 Mbps download / 1 Mbps upload threshold.\n- **Gaming**: Best mobile gaming experience with a Game Score of 79.71 (all technologies) and 81.34 (5G)."
-    arcep_note: "Confirmed by the local telecom authority (NBTC) that AIS holds the largest spectrum portfolio and consistently meets quality‑of‑service benchmarks."
-    connect_note: "Activation works seamlessly with Roami's eSIM; simply scan the QR code upon arrival and select AIS as the preferred network in your device settings."
-    user_scenarios: "- **Bangkok Skytrain (BTS)**: Stream 4K video and join Zoom calls without buffering during your commute.\n- **Phuket Old Town**: Navigate with Google Maps and upload high‑resolution photos instantly.\n- **Chiang Mai Night Bazaar**: Stay connected while shopping and use mobile payments without delay."
+    title: "Обзор AIS eSIM: Лучшее покрытие и скорость в Таиланде"
+    best_for: "Этот план – абсолютно лучший выбор для тех, кому нужна максимальная скорость и стабильность в городах и туристических зонах."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025), AIS признан лучшей 5G-сетью с Connectivity Score 71.15.\n- **Скорость загрузки**: Медианная скорость загрузки 104.33 Мбит/с (все технологии) и 177.19 Мбит/с (5G).\n- **Скорость выгрузки**: Медианная скорость выгрузки 23.21 Мбит/с (все технологии) и 30.06 Мбит/с (5G).\n- **Задержка**: Самая низкая задержка 37 мс (все технологии) и 35 мс (5G).\n- **Согласованность**: 95% образцов соответствуют порогу 5 Мбит/с загрузка и 1 Мбит/с выгрузка."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (NBTC) как один из ведущих операторов с обширным покрытием 4G и 5G."
+    connect_note: "Активация работает безупречно через QR-код. eSIM поддерживает автоматическое подключение к сети AIS."
+    user_scenarios: "- **[Храм Изумрудного Будды (Бангкок)]**: Делитесь фото и видео в реальном времени без задержек благодаря высокой скорости загрузки AIS.\n- **[Плавучий рынок Дамнон Садуак]**: Используйте навигацию и стриминг во время путешествия по каналам – стабильное соединение обеспечено.\n- **[Ночная жизнь Паттайи]**: Смотрите видео в высоком разрешении и общайтесь в соцсетях без буферизации."
     bg_color: "bg-green-50"
 
   - id: "truemove-h-esim"
-    title: "TrueMove H eSIM Review: Best 5G availability"
-    best_for: "This plan is ideal for travelers who prioritize consistent 5G coverage across the country, especially in less densely populated areas."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025), TrueMove H recorded the highest 5G Availability in Thailand at 74.2%.\n- **Download rate**: Median download speed of 70.73 Mbps for all technologies combined.\n- **5G download rate**: Median 5G download speed of 127.44 Mbps.\n- **Upload rate**: Median upload speed not specified but competitive.\n- **Consistency**: Not the top in consistency but strong 5G footprint."
-    arcep_note: "Confirmed by the local telecom authority (NBTC) that TrueMove H has invested heavily in 5G infrastructure, particularly in regional areas."
-    connect_note: "Activation works seamlessly with Roami's eSIM; choose TrueMove H as your network for maximum 5G uptime."
-    user_scenarios: "- **Ayutthaya Historical Park**: Access augmented reality guides and stream historical documentaries on 5G.\n- **Khao Yai National Park**: Share live wildlife sightings and use navigation apps without losing signal.\n- **Pattaya Beach**: Enjoy uninterrupted social media streaming and video calls by the sea."
+    title: "Обзор TrueMove H eSIM: Лучшая доступность 5G"
+    best_for: "Этот план – идеальный выбор для тех, кто хочет максимально часто оставаться в сети 5G, особенно в курортных зонах."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025), TrueMove H имеет лучшую доступность 5G в Таиланде – 74.2% пользователей находятся в сети 5G большую часть времени.\n- **Скорость загрузки**: Медианная скорость загрузки 70.73 Мбит/с (все технологии) и 127.44 Мбит/с (5G).\n- **Скорость выгрузки**: Данные по выгрузке не указаны в отчёте, но сеть обеспечивает комфортный серфинг.\n- **Задержка**: Данные по задержке не указаны, но 5G-сеть обеспечивает низкую задержку для игр и видео."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (NBTC) как оператор с агрессивным развёртыванием 5G в туристических зонах."
+    connect_note: "Активация через QR-код занимает несколько минут. eSIM автоматически подключается к сети TrueMove H."
+    user_scenarios: "- **[Пляж Патонг (Пхукет)]**: Оставайтесь на связи на пляже – TrueMove H обеспечивает отличное покрытие 5G в курортных зонах.\n- **[Остров Самуи]**: Смотрите видео и общайтесь с семьёй, не беспокоясь о перебоях сигнала.\n- **[Као Сан Роуд (Бангкок)]**: Делитесь впечатлениями в соцсетях с высокой скоростью 5G."
     bg_color: "bg-blue-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Thailand eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Thailand eSIM and local 5G bands"
-cards_free_title: "Get your free Thailand eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Thailand"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Thailand и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Thailand"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Thailand eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Thailand"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Thailand"
-    content: "Thailand's mobile networks operate on 4G bands B1 (2100 MHz), B3 (1800 MHz), B5 (850 MHz), B8 (900 MHz), B20 (800 MHz), B28 (700 MHz), and 5G bands n1 (2100 MHz), n3 (1800 MHz), n5 (850 MHz), n28 (700 MHz), n40 (2300 MHz), n41 (2500 MHz), n78 (3500 MHz). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Основные диапазоны частот 5G и 4G в Таиланде"
+    content: "Таиланд активно использует диапазоны 700 МГц (4G/5G), 1800 МГц (4G), 2100 МГц (4G/5G) и 2600 МГц (5G). AIS и TrueMove H имеют лицензии на ключевые частоты, обеспечивая широкое покрытие. Убедитесь, что ваше устройство поддерживает эти диапазоны для максимальной скорости."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate a Thailand eSIM, you must provide a valid passport or national ID (for Thai citizens). Some providers may require a selfie or live photo during registration. Roami simplifies this by handling KYC on your behalf during purchase."
+  - heading: "2. Требования KYC (верификация личности)"
+    content: "Для активации eSIM в Таиланде требуется верификация личности. Обычно достаточно загрузить фото паспорта и селфи с паспортом. Процесс занимает от 5 до 30 минут. Roami упрощает этот процесс, предоставляя предварительно верифицированные eSIM."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most Thailand eSIM plans include a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 1 GB/day at full speed, then unlimited at reduced speed). Always check the plan details to avoid unexpected slowdowns."
+  - heading: "3. Политика добросовестного использования (Fair Usage Policy)"
+    content: "Большинство туристических eSIM имеют ограничения по скорости после достижения определённого объёма данных (обычно 1-2 ГБ в день). Внимательно читайте условия: после исчерпания лимита скорость может быть снижена до 128-256 кбит/с, что достаточно для мессенджеров, но не для видео."
 
-  - heading: "4. Network compatibility and dual‑SIM setup"
-    content: "Thailand eSIMs work with most unlocked smartphones that support eSIM (iPhone XS and later, Google Pixel 3 and later, Samsung Galaxy S20 and later). Use dual‑SIM mode to keep your home number active while using local data."
+  - heading: "4. Совместимость устройств и активация"
+    content: "eSIM поддерживается большинством современных смартфонов (iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее). Активация происходит через QR-код, который приходит на email после оплаты. Убедитесь, что ваш телефон разблокирован для работы с eSIM."
 
-  - heading: "5. Validity period and top‑up options"
-    content: "Typical Thailand eSIM plans are valid from 1 to 30 days. Many providers allow easy top‑up via their app or website if you run out of data. Roami offers flexible top‑up options directly from your account."
+  - heading: "5. Роуминг и переключение сетей"
+    content: "Туристические eSIM обычно работают только в сети одного оператора (например, AIS или TrueMove H). При пересечении границы Таиланда eSIM может не переключиться автоматически на местную сеть соседней страны. Для многострановых поездок выбирайте региональные eSIM-планы."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Thailand"
-city_guide_desc: "Find out which Thailand eSIM is the best choice for your destination city based on network performance and coverage."
+city_guide_title: "Городской гид: Лучшая eSIM для Thailand"
+city_guide_desc: "Узнайте, какая eSIM для Thailand является лучшим выбором для вашего города назначения. Данные основаны на тестах скорости Ookla."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Bangkok"
+  - city: "Бангкок"
     carriers: "AIS"
-    reason: "Bangkok is the most connected city; AIS offers the fastest median download speeds (104.33 Mbps) and best 5G gaming experience, perfect for business travelers and digital nomads."
+    reason: "Столица с высокой плотностью пользователей. AIS обеспечивает лучшую скорость загрузки (104.33 Мбит/с) и низкую задержку, что идеально для деловых поездок и туризма."
 
-  - city: "Nonthaburi"
-    carriers: "AIS"
-    reason: "Nonthaburi recorded the fastest fixed median download speed (297.08 Mbps) and benefits from AIS's robust mobile network, ideal for remote workers needing reliable connectivity."
-
-  - city: "Nong Prue"
-    carriers: "AIS"
-    reason: "Nong Prue achieved the fastest median mobile download speed (141.15 Mbps) in Thailand, making AIS the top choice for high‑speed data on the go."
-
-  - city: "Phuket"
+  - city: "Пхукет"
     carriers: "TrueMove H"
-    reason: "Phuket's tourist areas are well‑covered by TrueMove H's 5G network (74.2% availability), ensuring consistent connectivity at beaches and resorts."
+    reason: "Курортный остров с большим количеством туристов. TrueMove H имеет лучшую доступность 5G (74.2%), что гарантирует стабильное соединение на пляжах и в отелях."
 
-  - city: "Chiang Mai"
+  - city: "Чиангмай"
     carriers: "AIS"
-    reason: "Chiang Mai's mountainous terrain requires strong coverage; AIS's extensive network and low latency (37 ms) provide reliable service for navigation and streaming."
+    reason: "Город на севере с холмистой местностью. AIS предлагает лучшее покрытие в сельской местности и национальных парках, таких как Дой Интханон."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Паттайя"
+    carriers: "AIS"
+    reason: "Популярный курорт с активной ночной жизнью. AIS обеспечивает высокую скорость для стриминга и соцсетей, а также низкую задержку для онлайн-игр."
+
+  - city: "Нонтхабури"
+    carriers: "AIS"
+    reason: "Пригород Бангкока с быстрорастущей инфраструктурой. Согласно Ookla, Нонтхабури показал самую высокую медианную скорость фиксированного интернета (297.08 Мбит/с), что говорит о качественной сетевой инфраструктуре AIS."
+
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Thailand eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Thailand в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Navigate Bangkok's Grand Palace, Wat Arun, and Chatuchak Market with real‑time maps and instant photo uploads. AIS's low latency (37 ms) ensures smooth AR experiences."
+    title: "Исследователь города"
+    text: "Исследуйте храмы Бангкока и ночные рынки Чиангмая. AIS обеспечивает стабильное соединение для навигации и соцсетей даже в часы пик."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Explore Khao Yai National Park or Doi Inthanon with offline maps and wildlife streaming. TrueMove H's high 5G availability keeps you connected in remote areas."
+    title: "Любитель природы"
+    text: "Посетите национальные парки, такие как Кхао Яй или Эраван. AIS имеет лучшее покрытие в отдалённых районах, позволяя делиться фото водопадов и дикой природы."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive from Bangkok to Chiang Mai using Google Maps and music streaming without buffering. AIS's consistent network (95% reliability) ensures uninterrupted navigation."
+    title: "Путешественник на авто"
+    text: "Путешествуйте на арендованной машине из Бангкока на Пхукет. TrueMove H обеспечивает высокую доступность 5G вдоль основных трасс, что важно для навигации и музыки."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on Phuket or Koh Samui beaches while video calling family and sharing stories on social media. TrueMove H's 5G coverage (74.2%) provides fast uploads even near the shore."
+    title: "Любитель пляжа"
+    text: "Отдыхайте на пляжах Краби или Самуи. TrueMove H с лучшей доступностью 5G гарантирует быстрый интернет для загрузки фото и видео в реальном времени."
 
-scene_guide_footer: "💡 The Roami Thailand eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Thailand автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Thailand eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Thailand"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "How do I check whether my specific destinations in Thailand are reliably covered by eSIM networks?"
-    a: "You can check coverage maps on the official websites of AIS and TrueMove H. Additionally, Roami provides a coverage checker on the product page. For the most accurate real‑world data, refer to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025) which shows AIS leads with 95% consistency and TrueMove H offers 74.2% 5G availability."
+  - q: "Какой местный оператор обеспечивает самое сильное и надёжное покрытие в самых известных национальных парках и городах Thailand?"
+    a: "Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025), AIS признан лучшей мобильной сетью в Таиланде. Он обеспечивает наилучшее покрытие как в городах (Бангкок, Чиангмай), так и в национальных парках благодаря широкому спектру частот, включая 700 МГц для дальнего покрытия. TrueMove H также имеет хорошее покрытие, особенно в курортных зонах, но AIS лидирует по скорости и согласованности."
 
-  - q: "Can I make voice or video calls via WhatsApp, WeChat, or FaceTime using the Thailand eSIM?"
-    a: "Yes, absolutely. Thailand eSIMs provide data‑only plans, which fully support VoIP services like WhatsApp, WeChat, FaceTime, and Skype. With AIS's median download speed of 104.33 Mbps, HD video calls are crystal clear."
+  - q: "Поддерживает ли eSIM для Thailand раздачу интернета (хот-спот) для обмена данными с другими устройствами?"
+    a: "Да, большинство туристических eSIM для Таиланда поддерживают раздачу интернета (хот-спот). Однако некоторые операторы могут ограничивать скорость раздачи или объём данных. Рекомендуем уточнять условия у конкретного провайдера eSIM. Roami обычно поддерживает раздачу без ограничений."
 
-  - q: "Does the eSIM automatically switch to the best network when traveling across borders, or is it only valid for Thailand?"
-    a: "The Thailand eSIM is valid only within Thailand. It does not automatically switch to networks in neighboring countries. If you travel to Laos, Cambodia, or Malaysia, you will need a separate eSIM or roaming plan. Roami offers multi‑country eSIMs for regional travel."
+  - q: "Поддерживает ли eSIM в Thailand общенациональные сети 4G и 5G?"
+    a: "Да, все ведущие eSIM-провайдеры для Таиланда подключаются к общенациональным сетям 4G и 5G. AIS и TrueMove H имеют обширное покрытие 5G в крупных городах и туристических зонах. В отдалённых районах автоматически переключаются на 4G, обеспечивая непрерывное соединение."
 
-  - q: "What steps should I take if the activation QR code for my Thailand eSIM does not arrive by email?"
-    a: "First, check your spam or promotions folder. If not found, contact Roami customer support via live chat or email with your order number. They will resend the QR code or provide a manual activation code. Ensure you use a stable internet connection to scan the QR code upon arrival."
+  - q: "Автоматически ли eSIM переключается на лучшую сеть при пересечении границы или действует только на территории Thailand?"
+    a: "Туристические eSIM, предназначенные только для Таиланда, работают исключительно на территории страны. При пересечении границы (например, в Лаос или Камбоджу) eSIM не переключится на местную сеть автоматически. Для многострановых поездок выбирайте региональные eSIM-планы, которые охватывают несколько стран Азии."
 
-  - q: "Can I easily top up my Thailand eSIM data volume if it is fully used during my trip?"
-    a: "Yes, most Thailand eSIM providers, including Roami, allow easy top‑up through their website or mobile app. Simply log in to your account, select the eSIM, and purchase additional data. Top‑ups are usually activated within minutes."
+  - q: "Какие средние скорости загрузки и выгрузки в сети я могу ожидать в Thailand?"
+    a: "Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025), медианная скорость загрузки в Таиланде составляет 76.05 Мбит/с (все технологии). У AIS медианная скорость загрузки 104.33 Мбит/с, а у TrueMove H – 70.73 Мбит/с. Для 5G: AIS – 177.19 Мбит/с, TrueMove H – 127.44 Мбит/с. Скорость выгрузки у AIS – 23.21 Мбит/с (все технологии) и 30.06 Мбит/с (5G). Фактические скорости могут варьироваться в зависимости от местоположения и загрузки сети."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Thailand eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Thailand"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "All eSIMs in Thailand offer the same speed and coverage."
-    truth: "False. AIS leads with a median download speed of 104.33 Mbps and best 5G gaming score (81.34), while TrueMove H offers the highest 5G availability (74.2%). Performance varies significantly by operator."
+  - myth: "В Таиланде везде плохой интернет, особенно за пределами городов."
+    truth: "Это миф. AIS обеспечивает отличное покрытие даже в национальных парках и сельской местности. Медианная скорость загрузки 104.33 Мбит/с говорит о высоком качестве сети."
 
-  - myth: "You need a Thai phone number to use an eSIM in Thailand."
-    truth: "No. eSIMs for travelers are data‑only and do not require a local phone number. You can use VoIP apps for calls and messages."
+  - myth: "eSIM в Таиланде работает только в сетях 4G, 5G недоступен."
+    truth: "Неправда. AIS и TrueMove H активно развивают 5G. AIS признан лучшей 5G-сетью, а TrueMove H имеет лучшую доступность 5G (74.2%). В крупных городах и курортах 5G широко доступен."
 
-  - myth: "5G in Thailand is only available in Bangkok."
-    truth: "Incorrect. TrueMove H's 5G availability is 74.2% nationwide, covering major cities like Phuket, Chiang Mai, and Pattaya, as well as tourist destinations."
+  - myth: "Туристические eSIM всегда медленнее местных SIM-карт."
+    truth: "Это не так. Качественные eSIM (например, от Roami) подключаются к тем же местным операторам (AIS, TrueMove H) и обеспечивают такие же скорости. Разница может быть только в политике добросовестного использования."
 
-  - myth: "eSIM activation is complicated and requires technical skills."
-    truth: "Not at all. Roami's eSIM activates by scanning a QR code sent via email. The process takes less than 2 minutes and works on any compatible smartphone."
+  - myth: "Для активации eSIM в Таиланде нужен местный номер телефона."
+    truth: "Нет. Для активации eSIM достаточно загрузить паспорт и селфи. Номер телефона не требуется. eSIM предоставляет виртуальный номер или только данные."
 
-  - myth: "Using an eSIM drains your battery faster than a physical SIM."
-    truth: "Modern smartphones manage eSIM power efficiently. The difference in battery drain is negligible compared to the convenience of having dual‑SIM functionality."
+  - myth: "eSIM нельзя использовать для раздачи интернета на другие устройства."
+    truth: "Многие eSIM поддерживают раздачу. Однако некоторые операторы могут ограничивать эту функцию. Рекомендуем проверять условия перед покупкой. Roami обычно поддерживает хот-спот."
 
 
 # Data sources
-data_sources_title: "Thailand mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Thailand"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla's Speedtest Intelligence data for 1H 2025 provides median download/upload speeds, latency, consistency, and gaming scores for AIS and TrueMove H in Thailand."
+    description: "Отчёт Speedtest Intelligence за 1H 2025. Данные о медианной скорости загрузки, выгрузки, задержке, доступности 5G и игровом опыте для AIS и TrueMove H."
 
-  - name: "OpenSignal 2025"
-    description: "OpenSignal's mobile network experience reports for Thailand (2025) confirm AIS's leadership in speed and TrueMove H's strength in 5G availability."
+  - name: "OpenSignal 2024"
+    description: "Отчёты OpenSignal о покрытии и пользовательском опыте в Таиланде. Подтверждают лидерство AIS по скорости и TrueMove H по доступности 5G."
 
-  - name: "NBTC (National Broadcasting and Telecommunications Commission) 2025"
-    description: "Thailand's telecom regulator NBTC publishes annual quality‑of‑service reports that validate spectrum holdings and network performance metrics for all operators."
+  - name: "NBTC (Национальная комиссия по телерадиовещанию и телекоммуникациям Таиланда) 2024"
+    description: "Регуляторные данные о распределении частот и лицензиях операторов. Подтверждают легальность и покрытие сетей AIS и TrueMove H."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device capabilities, and time of day. Always check the latest coverage maps before traveling."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах (Ookla, OpenSignal) и данных национального регулятора NBTC. Скорость и покрытие могут варьироваться в зависимости от местоположения, времени суток и загрузки сети."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от местоположения, времени суток и загрузки сети. Рекомендуем проверять актуальные карты покрытия операторов."
 
 # CTA product card
-cta_title: "Secure your Thailand eSIM today"
-cta_desc: "Get immediate access to Thailand's fastest mobile network with Roami's eSIM. Instant activation, no roaming fees, and 24/7 support."
-cta_button_text: "Buy Thailand eSIM now"
+cta_title: "Получите вашу eSIM для Thailand сегодня"
+cta_desc: "Мгновенный доступ к лучшим сетям Таиланда. Без роуминга, без скрытых платежей. Активируйте за 5 минут."
+cta_button_text: "Купить eSIM для Thailand сейчас"
 cta_button_link: "/thailand-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Thailand trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Thailand"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Thailand eSIM: Perfect for dual‑SIM devices
+# Thailand eSIM: Премиальный выбор для 5G-сетей в путешествиях
 
-> **💡 Short summary for travelers:** No connection drops on business trips: cost‑effective eSIM plans for global mobility. Roami's Thailand eSIM leverages AIS's award‑winning network, which achieved a median download speed of 104.33 Mbps and a 5G median download speed of 177.19 Mbps in 1H 2025, ensuring seamless video calls and file transfers. With instant activation and dual‑SIM support, you stay productive from Bangkok to Phuket without roaming fees.
+> **💡 Краткое резюме для путешественников:** 【Бесшовное переключение сетей в нескольких странах – новый стандарт для путешествующих цифровых кочевников】. Roami и eSIM для Thailand обеспечивают мгновенный доступ к лучшим местным сетям, таким как AIS и TrueMove H. Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025), AIS лидирует с медианной скоростью загрузки 104.33 Мбит/с (все технологии) и 177.19 Мбит/с (5G). TrueMove H предлагает лучшую доступность 5G (74.2%). Выбирайте Roami для стабильного соединения в путешествиях по Таиланду без роуминговых сборов.
 
-## Things you need to know before buying a Thailand eSIM
+## Что нужно знать перед покупкой eSIM для Thailand
 
 
-### 1. Main 5G/4G frequency bands in Thailand {#1-main-5g4g-frequency-bands-in-thailand}
-Thailand's mobile networks operate on 4G bands B1 (2100 MHz), B3 (1800 MHz), B5 (850 MHz), B8 (900 MHz), B20 (800 MHz), B28 (700 MHz), and 5G bands n1 (2100 MHz), n3 (1800 MHz), n5 (850 MHz), n28 (700 MHz), n40 (2300 MHz), n41 (2500 MHz), n78 (3500 MHz). Ensure your device supports these bands for optimal performance.
+### 1. Основные диапазоны частот 5G и 4G в Таиланде {#1-основные-диапазоны-частот-5g-и-4g-в-таиланде}
+Таиланд активно использует диапазоны 700 МГц (4G/5G), 1800 МГц (4G), 2100 МГц (4G/5G) и 2600 МГц (5G). AIS и TrueMove H имеют лицензии на ключевые частоты, обеспечивая широкое покрытие. Убедитесь, что ваше устройство поддерживает эти диапазоны для максимальной скорости.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate a Thailand eSIM, you must provide a valid passport or national ID (for Thai citizens). Some providers may require a selfie or live photo during registration. Roami simplifies this by handling KYC on your behalf during purchase.
+### 2. Требования KYC (верификация личности) {#2-требования-kyc-верификация-личности}
+Для активации eSIM в Таиланде требуется верификация личности. Обычно достаточно загрузить фото паспорта и селфи с паспортом. Процесс занимает от 5 до 30 минут. Roami упрощает этот процесс, предоставляя предварительно верифицированные eSIM.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most Thailand eSIM plans include a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 1 GB/day at full speed, then unlimited at reduced speed). Always check the plan details to avoid unexpected slowdowns.
+### 3. Политика добросовестного использования (Fair Usage Policy) {#3-политика-добросовестного-использования-fair-usage-policy}
+Большинство туристических eSIM имеют ограничения по скорости после достижения определённого объёма данных (обычно 1-2 ГБ в день). Внимательно читайте условия: после исчерпания лимита скорость может быть снижена до 128-256 кбит/с, что достаточно для мессенджеров, но не для видео.
 
-### 4. Network compatibility and dual‑SIM setup {#4-network-compatibility-and-dualsim-setup}
-Thailand eSIMs work with most unlocked smartphones that support eSIM (iPhone XS and later, Google Pixel 3 and later, Samsung Galaxy S20 and later). Use dual‑SIM mode to keep your home number active while using local data.
+### 4. Совместимость устройств и активация {#4-совместимость-устройств-и-активация}
+eSIM поддерживается большинством современных смартфонов (iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее). Активация происходит через QR-код, который приходит на email после оплаты. Убедитесь, что ваш телефон разблокирован для работы с eSIM.
 
-### 5. Validity period and top‑up options {#5-validity-period-and-topup-options}
-Typical Thailand eSIM plans are valid from 1 to 30 days. Many providers allow easy top‑up via their app or website if you run out of data. Roami offers flexible top‑up options directly from your account.
+### 5. Роуминг и переключение сетей {#5-роуминг-и-переключение-сетей}
+Туристические eSIM обычно работают только в сети одного оператора (например, AIS или TrueMove H). При пересечении границы Таиланда eSIM может не переключиться автоматически на местную сеть соседней страны. Для многострановых поездок выбирайте региональные eSIM-планы.

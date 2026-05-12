@@ -1,716 +1,749 @@
 ---
-title: UAE eSIM Data Plan | Best 2026 Travel eSIM | Roami
+title: Тариф eSIM для ОАЭ | Лучшая туристическая eSIM 2026 | Roami
 date: '2026-03-29T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: UAE eSIM
-  scenario_keywords: Dubai sightseeing, desert safari, Abu Dhabi cultural tour, Sharjah
-    heritage walk, Dubai shopping
+  core_keyword: eSIM для ОАЭ
+  scenario_keywords: Осмотр Дубая, сафари по пустыне, культурный тур в Абу-Даби, прогулка
+    по наследию Шарджи, шопинг в Дубае
   operators: Etisalat, du, Virgin Mobile
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Dubai, Abu Dhabi, Sharjah, Ajman, Ras Al Khaimah
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_cities: Дубай, Абу-Даби, Шарджа, Аджман, Рас-эль-Хайма
+  main_packages: 3/7/15/30 дней, безлимитные данные
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: Сервис обновлён!
+  btn_text: Продолжить
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Наш eSIM-сервис обновлён до <strong>PhoneSIMGo</strong>.<br>Новые клиенты получают скидку 20% по промокоду: web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Наш eSIM-сервис обновлён до <strong>PhoneSIM</strong>.<br>Новые клиенты получают скидку 20% по промокоду: web20
 seo:
-  title: UAE eSIM Plan | Top Local Carrier Always-On 5G | 20% OFF|Roami
-  description: Explore UAE with ease. Get Roami's Always-On 5G on Top Local Carrier
-    with High-Speed Data. Features Auto Network Switch and Unlimited Data, great for
-    Digital Nomads.
-  keywords: UAE eSIM, cheap eSIM UAE, travel internet UAE, no roaming charges, instant
-    eSIM, UAE data plan
+  title: Тариф eSIM для ОАЭ | Всегда включённый 5G от местного оператора | 20% OFF | Roami
+  description: >-
+    Исследуйте ОАЭ с лёгкостью. Получите всегда включённый 5G от ведущего местного оператора с высокоскоростными данными.
+    Функция автоматического переключения сети и безлимитные данные — отлично для цифровых кочевников.
+  keywords: eSIM ОАЭ, дешёвая eSIM ОАЭ, туристический интернет ОАЭ, без роуминговых сборов, мгновенная eSIM, тариф данных ОАЭ
   low_price: 1.99
   high_price: 39.9
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: Выбранный тариф
+  label_data: Включено данных
+  label_validity: Срок действия
+  label_daily: Стоимость в день
+  label_total: Общая стоимость
+  btn_primary: Получить скидку 20%
+  btn_secondary: 'Код: web20'
 breadcrumbs:
-- label: Home
+- label: Главная
   url: /
-- label: UAE eSIM
+- label: eSIM для ОАЭ
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for UAE
-  title: Best eSIM for UAE
+  alt: Лучшая eSIM для ОАЭ
+  title: Лучшая eSIM для ОАЭ
 hero:
-  flag_image: img/flags/ua.svg
-  flag_alt: UAE Flag
-  title: Uae eSIM data plan
-  subtitle: No ID required | Worry-free internet | 20% discount for a limited time
+  flag_image: img/flags/ae.svg
+  flag_alt: Флаг ОАЭ
+  title: Тариф eSIM для ОАЭ
+  subtitle: Не требует удостоверения личности | Беззаботный интернет | Скидка 20% на ограниченное время
 features:
-  title: Why Travelers Choose Roami
+  title: Почему путешественники выбирают Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: Мгновенный QR-код
+    desc: Доставка в течение 5 минут
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: Круглосуточная поддержка
+    desc: Всегда готовы помочь
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: Недоступно
+    desc: Гарантия возврата денег
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: Точка доступа
+    desc: Делитесь с другими устройствами
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: Без контрактов
+    desc: Отмена в любое время
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: Автовыбор сети
+    desc: Подключайтесь к лучшим операторам
+plans_title: Выберите свой тариф
 plans_data:
-  3 Days:
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+  3 Дня:
+  - spec: 3 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для осмотра достопримечательностей
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
     tagColor: bg-orange-500
     daily: '2.00'
     tagIcon: star
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 5 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для длительных поездок
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: Лучшее соотношение
     tagColor: bg-emerald-500
     daily: '3.66'
-  - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+  - spec: 1 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для коротких деловых поездок
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+  - spec: Безлимит
+    data: Безлимитный высокоскоростной
+    desc: Беззаботное использование данных
     price: '19.99'
     oldPrice: '29.98'
-    tag: Premium
+    tag: Премиум
     tagColor: bg-purple-600
     daily: '6.66'
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 10 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для длительных поездок
     price: '16.99'
     oldPrice: '25.48'
-    tag: Great Value
+    tag: Лучшее соотношение
     tagColor: bg-emerald-500
     daily: '5.66'
-  7 Days:
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+  7 Дней:
+  - spec: 3 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для осмотра достопримечательностей
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
     tagColor: bg-orange-500
     daily: '1.00'
     tagIcon: star
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 5 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для длительных поездок
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: Лучшее соотношение
     tagColor: bg-emerald-500
     daily: '1.57'
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 10 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для длительных поездок
     price: '17.99'
     oldPrice: '26.98'
-    tag: Great Value
+    tag: Лучшее соотношение
     tagColor: bg-emerald-500
     daily: '2.57'
-  - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+  - spec: 1 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для коротких деловых поездок
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.57'
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+  - spec: Безлимит
+    data: Безлимитный высокоскоростной
+    desc: Беззаботное использование данных
     price: '45.99'
     oldPrice: '68.98'
-    tag: Premium
+    tag: Премиум
     tagColor: bg-purple-600
     daily: '6.57'
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+  - spec: 20 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '34.99'
     oldPrice: '52.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '5.00'
-  15 Days:
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+  15 Дней:
+  - spec: 3 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для осмотра достопримечательностей
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
     tagColor: bg-orange-500
     daily: '0.53'
     tagIcon: star
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 5 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для длительных поездок
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: Лучшее соотношение
     tagColor: bg-emerald-500
     daily: '0.73'
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 10 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для длительных поездок
     price: '18.99'
     oldPrice: '28.48'
-    tag: Great Value
+    tag: Лучшее соотношение
     tagColor: bg-emerald-500
     daily: '1.27'
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+  - spec: 20 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '31.99'
     oldPrice: '47.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.13'
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+  - spec: Безлимит
+    data: Безлимитный высокоскоростной
+    desc: Беззаботное использование данных
     price: '99.99'
     oldPrice: '149.98'
-    tag: Premium
+    tag: Премиум
     tagColor: bg-purple-600
     daily: '6.67'
-  30 Days:
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+  30 Дней:
+  - spec: 3 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для осмотра достопримечательностей
     price: '8.99'
     oldPrice: '13.48'
     tag: ''
     tagColor: bg-orange-500
     daily: '0.30'
     tagIcon: star
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 5 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для длительных поездок
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: Лучшее соотношение
     tagColor: bg-emerald-500
     daily: '0.40'
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 10 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для длительных поездок
     price: '19.99'
     oldPrice: '29.98'
-    tag: Great Value
+    tag: Лучшее соотношение
     tagColor: bg-emerald-500
     daily: '0.67'
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+  - spec: 20 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.97'
-  - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+  - spec: 30 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '52.99'
     oldPrice: '79.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.77'
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+  - spec: 20 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '32.99'
     oldPrice: '49.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.10'
-  - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+  - spec: 50 ГБ
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '75.99'
     oldPrice: '113.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.53'
 discount_banner:
-  title: Special Discount!
+  title: Специальная скидка!
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    Используйте промокод <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> при оплате и получите <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% СКИДКИ</span>!
+  btn_text: Получить скидку
+  validity: 'Срок действия: 3 дня'
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: Детали покрытия сети
+  supports_text: 'Поддерживает:'
   service_details:
-    title: Service Details
+    title: Детали сервиса
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across UAE, including major cities
-        like Dubai, Abu Dhabi, Sharjah, and Ajman. Our UAE eSIM seamlessly connects
-        to the robust networks of Etisalat, du, and Virgin Mobile, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: Покрытие
+      desc: >-
+        Наслаждайтесь обширным покрытием сети по всей ОАЭ, включая крупные города, такие как Дубай, Абу-Даби,
+        Шарджа и Аджман. Наша eSIM для ОАЭ бесшовно подключается к надёжным сетям Etisalat, du и Virgin Mobile,
+        обеспечивая стабильный сигнал в городских центрах, туристических местах и вдоль основных транспортных маршрутов.
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: Время доставки
+      desc: Мгновенная доставка после покупки.
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: Точка доступа
+      desc: Без ограничений на раздачу интернета.
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: Сети операторов
+    badge: Официальный партнёр
     items:
     - name: Etisalat
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: Низкая задержка
+      network: Сеть 5G/4G/LTE
     - name: du
-      coverage: Reliability
-      network: 5G/4G/LTE Network
+      coverage: Надёжность
+      network: Сеть 5G/4G/LTE
     - name: Virgin Mobile
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: Собственный IP
+      network: Сеть 5G/4G/LTE
 reminders:
-  title: Important Reminders
+  title: Важные напоминания
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: >-
+      Убедитесь, что ваш телефон <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">поддерживает eSIM</a> перед покупкой.
   - icon: ✈️
-    html: We recommend turning on the line after arriving in UAE.
+    html: Рекомендуем активировать линию после прибытия в ОАЭ.
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: Срок действия начинается при подключении к поддерживаемой сети.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR-код будет отправлен на вашу электронную почту.
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: Вы можете установить несколько eSIM одновременно.
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: Быстрая проверка совместимости
+    desc: 'Не уверены, поддерживает ли ваш телефон eSIM? Вы можете легко проверить это прямо сейчас:'
+    instruction: 'Наберите на клавиатуре телефона:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: >-
+      Если на экране появится номер <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>, ваше устройство поддерживает eSIM!
 activation_steps:
-  title: Activation Steps
+  title: Шаги активации
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 'Шаг 1: Получите QR-код'
+    desc: >-
+      После оплаты QR-код и руководство по активации будут отправлены на вашу электронную почту в течение 5 минут.
+      Проверьте папку со спамом, если не видите письмо.
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 'Шаг 2: Добавьте eSIM в телефон'
     is_list: true
     list_items:
     - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+      Перейдите в Настройки > Сотовая связь (или Мобильные данные)
+    - Нажмите «Добавить тариф» или «Добавить eSIM»
+    - Отсканируйте QR-код камерой
+    - Следуйте инструкциям на экране для завершения настройки
   - num: '3'
-    title: 'Step 3: Activate in UAE'
-    desc: Upon arriving in UAE, enable your UAE eSIM in settings to start using data.
-      We recommend connecting to WiFi during the initial activation.
+    title: 'Шаг 3: Активируйте в ОАЭ'
+    desc: >-
+      По прибытии в ОАЭ включите вашу eSIM для ОАЭ в настройках, чтобы начать использовать данные.
+      Рекомендуем подключиться к Wi-Fi во время первоначальной активации.
     is_list: false
 faq_section:
-  title: UAE eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your UAE eSIM across different travel
-    scenarios.
+  title: Часто задаваемые вопросы о eSIM для ОАЭ и путеводитель
+  desc: Всё, что нужно знать об использовании вашей eSIM для ОАЭ в различных сценариях путешествий.
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: Общее
+    title: 1. Общие вопросы
     questions:
-    - q: Does my phone support the UAE eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your UAE eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the UAE eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in UAE and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the UAE eSIM. It typically needs
-        to be installed within 30 days of purchase. Once installed, it cannot be scanned
-        again or transferred to another device.
-    - q: Can I get a refund if the UAE eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in UAE that our support team cannot resolve, you are eligible for a
-        refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your UAE eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my UAE eSIM data (hotspot) with other devices?
-      a: Absolutely. All our UAE eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your UAE eSIM compared to local SIM cards or other
-        providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in UAE, such
-        as Etisalat, du, Virgin Mobile, to ensure premium speeds at a fraction of
-        roaming costs.
-    - q: How do you compare with well-known eSIM providers like esim io, DENT, Holafly,
-        Airalo?
-      a: While great companies like esim io, DENT, Holafly, Airalo offer reliable
-        services, we focus on providing the most cost-effective UAE eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+      - q: Поддерживает ли мой телефон eSIM для ОАЭ? Как её установить?
+        a: >-
+          Большинство современных смартфонов (iPhone XS/XR или новее, Samsung Galaxy S20+, Google Pixel 3+)
+          поддерживают eSIM. Вы можете установить eSIM для ОАЭ, просто отсканировав QR-код, который мы пришлём
+          вам на почту, в настройках сотовой связи.
+      - q: Как купить и активировать eSIM для ОАЭ? Она активна сразу?
+        a: >-
+          Вы можете купить её прямо на нашем сайте. Она активируется не сразу после покупки; срок действия
+          начинается только по прибытии в ОАЭ с подключением к местной сети.
+      - q: Что такое QR-код активации? Он имеет срок действия? Можно ли использовать его повторно?
+        a: >-
+          QR-код — это цифровой профиль вашей eSIM для ОАЭ. Обычно его нужно установить в течение 30 дней после покупки.
+          После установки его нельзя сканировать снова или переносить на другое устройство.
+      - q: Могу ли я получить возврат, если eSIM для ОАЭ не работает или плохой сигнал?
+        a: >-
+          Да, мы предлагаем гарантию возврата денег. Если у вас возникнут постоянные проблемы с сетью в ОАЭ,
+          которые наша служба поддержки не сможет решить, вы имеете право на возврат.
+      - q: Предоставляете ли вы круглосуточную поддержку клиентов? Как с вами связаться?
+        a: >-
+          Да, наша служба технической поддержки доступна 24/7. Вы можете связаться с нами через виджет чата
+          на нашем сайте или ответив на письмо с подтверждением заказа.
+      - q: Есть ли промокоды? Как использовать промокод 'web20'?
+        a: >-
+          Да! Вы можете ввести промокод 'web20' на странице оформления заказа и мгновенно получить скидку 20%
+          на ваш заказ eSIM для ОАЭ.
+      - q: Ваш тариф «Безлимитные данные» действительно безлимитный? Есть ли политика честного использования (FUP)?
+        a: >-
+          Наши безлимитные тарифы предоставляют непрерывный доступ к данным. Однако, как и у всех глобальных
+          операторов, действует политика честного использования для предотвращения злоупотребления сетью.
+          При чрезмерном потреблении данных за короткий период скорость может временно снижаться.
+          Это не повлияет на веб-серфинг, соцсети, просмотр видео и т.д.
+      - q: Могу ли я использовать eSIM для ОАЭ как точку доступа для других устройств?
+        a: >-
+          Абсолютно. Все наши тарифы eSIM для ОАЭ поддерживают мобильную точку доступа, позволяя делиться
+          интернетом с ноутбуком, планшетом или попутчиками.
+      - q: В чём преимущества вашей eSIM для ОАЭ по сравнению с местными SIM-картами или другими провайдерами?
+        a: >-
+          В отличие от физических SIM-карт, вам не нужно стоять в очереди в аэропорту или менять маленькие
+          пластиковые карты. Мы работаем напрямую с ведущими местными сетями ОАЭ, такими как Etisalat, du,
+          Virgin Mobile, чтобы обеспечить премиальную скорость за небольшую долю стоимости роуминга.
+      - q: Как вы сравниваетесь с известными eSIM-провайдерами, такими как esim io, DENT, Holafly, Airalo?
+        a: >-
+          Эти компании также предлагают надёжные услуги, но мы фокусируемся на предоставлении самой выгодной
+          eSIM для ОАЭ, обеспечивая низкую задержку и лучшие цены благодаря нашей системе автоматического
+          сравнения цен.
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: Аэропорты
+    title: 2. Сеть в аэропорту
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the UAE eSIM before your flight. Once you land at Dubai International
-        Airport, Abu Dhabi International Airport, Sharjah International Airport, simply
-        turn off Airplane Mode and enable your eSIM line. It will connect to the local
-        4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your UAE eSIM activated upon landing, you can immediately open Careem,
-        Uber, Dubai Taxi to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed UAE eSIM data allows you to open Google Maps right at the
-        baggage claim in Dubai International Airport, Abu Dhabi International Airport,
-        Sharjah International Airport to check real-time train schedules, bus routes,
-        or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our UAE eSIM online beforehand, you completely bypass the tourist-trap
-        SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our UAE eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast UAE eSIM cellular data to let your family know you've arrived safely.
+      - q: Как получить надёжную сеть сразу после выхода из самолёта?
+        a: >-
+          Установите eSIM для ОАЭ перед вылетом. Как только вы приземлитесь в международном аэропорту Дубая,
+          Абу-Даби или Шарджи, просто выключите авиарежим и включите линию eSIM. Она подключится к локальной
+          сети 4G/5G за секунды.
+      - q: Как связаться с водителем, встречающим в аэропорту, или вызвать Uber/Careem?
+        a: >-
+          Благодаря eSIM для ОАЭ, активированной при посадке, вы можете сразу открыть Careem, Uber, Dubai Taxi
+          для заказа машины или использовать WhatsApp, чтобы написать заранее забронированному водителю,
+          не полагаясь на ненадёжный Wi-Fi аэропорта.
+      - q: Как использовать Google/Apple Maps для поиска транспорта?
+        a: >-
+          Благодаря высокоскоростным данным вашей eSIM для ОАЭ вы можете открыть Google Maps прямо у выдачи
+          багажа в аэропорту Дубая, Абу-Даби или Шарджи, чтобы проверить расписания поездов, маршруты автобусов
+          или найти путь к стоянке такси.
+      - q: Как избежать покупки дорогих временных SIM-карт в аэропорту?
+        a: >-
+          Купив нашу eSIM для ОАЭ онлайн заранее, вы полностью обходите туристические киоски с SIM-картами
+          в зале прилёта, экономя время и деньги.
+      - q: Как получать SMS от отеля/проката авто без местного номера?
+        a: >-
+          Наша eSIM для ОАЭ предоставляет только данные. Чтобы получать SMS, оставьте активной вашу домашнюю
+          SIM-карту для текстовых сообщений (приём SMS обычно бесплатен в роуминге) и используйте eSIM для
+          всего трафика.
+      - q: Как немедленно связаться с семьёй, сообщить о безопасности и согласовать маршрут?
+        a: >-
+          Как только вы приземлитесь, вы можете использовать iMessage, WhatsApp или FaceTime через наши
+          быстрые данные eSIM для ОАЭ, чтобы сообщить близким, что вы благополучно прибыли.
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: Транспорт
+    title: 3. Транспорт и путешествия
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable UAE eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in UAE, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Careem, Uber, Dubai Taxi use VoIP (internet calling) and in-app
-        messaging. Since you have active UAE eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your UAE eSIM data to access local transit apps or websites to
-        purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your UAE eSIM data. A 5GB or 10GB plan provides
-        more than enough data for extensive GPS navigation during a road trip in UAE.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our UAE eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your UAE eSIM's data network while on the
-        train or in the car.
+      - q: Как использовать Google/Apple Maps для планирования маршрутов?
+        a: >-
+          Стабильное соединение eSIM для ОАЭ гарантирует, что Google Maps сможет загружать данные о трафике
+          в реальном времени и расписания транспорта в любой точке ОАЭ, делая навигацию бесшовной.
+      - q: Как позволить водителям Uber/Careem связаться с вами через приложение?
+        a: >-
+          Приложения типа Careem, Uber, Dubai Taxi используют VoIP (интернет-звонки) и внутриприложенные сообщения.
+          Поскольку у вас активны данные eSIM для ОАЭ, водители могут звонить или писать вам напрямую в приложении,
+          не требуя местного номера телефона.
+      - q: Как купить билеты на поезд/метро онлайн?
+        a: >-
+          Вы можете использовать данные eSIM для ОАЭ для доступа к местным транспортным приложениям или веб-сайтам,
+          чтобы купить цифровые QR-билеты на ходу, избегая длинных очередей у автоматов.
+      - q: Как использовать Google Maps для навигации в реальном времени после аренды автомобиля?
+        a: >-
+          Просто закрепите телефон и используйте данные eSIM для ОАЭ. Тарифа 5 ГБ или 10 ГБ более чем достаточно
+          для обширной GPS-навигации во время поездки по ОАЭ.
+      - q: Как сканировать и разблокировать общие электросамокаты (Lime/Bird)?
+        a: >-
+          Разблокировка электросамокатов требует быстрого интернет-соединения для обработки QR-кода и платежа.
+          Наша eSIM для ОАЭ обеспечивает необходимое городское покрытие для этого.
+      - q: Как обеспечить нормальную работу приложений райдшеринга при поездках по нескольким странам?
+        a: >-
+          Если вы путешествуете по региону, ваш аккаунт в приложении райдшеринга остаётся тем же. Просто убедитесь,
+          что у вас есть активное интернет-соединение (через нашу местную или региональную eSIM) для заказа поездок.
+      - q: Как предоставить стабильную личную точку доступа для устройств семьи?
+        a: >-
+          Перейдите в настройки телефона, включите «Режим модема», и ваша семья сможет подключиться к вашей сети
+          данных eSIM для ОАЭ в поезде или автомобиле.
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: Отели
+    title: 4. Отели и размещение
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your UAE eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your UAE eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Burj Al Arab, Atlantis The Palm, Emirates Palace
-        or a local guesthouse, you can input the address into Google Maps and get
-        turn-by-turn walking or transit directions using your UAE eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your UAE eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed UAE eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Talabat, Zomato, Deliveroo and use your
-        UAE eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your UAE eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+      - q: Как осуществить самостоятельный заезд после бронирования на Booking.com/Agoda?
+        a: >-
+          Многие современные заведения требуют доступа к онлайн-порталу или проверки электронной почты для получения
+          кода умного замка. Ваша eSIM для ОАЭ гарантирует, что вы получите эти детали прямо у двери.
+      - q: Как немедленно связаться с хозяином Airbnb по прибытии для получения инструкций?
+        a: >-
+          Вы можете использовать функцию обмена сообщениями в приложении Airbnb или WhatsApp, чтобы согласовать
+          время прибытия, используя мобильные данные eSIM для ОАЭ.
+      - q: Как использовать Google Maps для построения маршрута до отеля?
+        a: >-
+          Неважно, останавливаетесь ли вы в Burj Al Arab, Atlantis The Palm, Emirates Palace или в местном гостевом доме,
+          вы можете ввести адрес в Google Maps и получить пошаговую пешую навигацию или маршруты общественного
+          транспорта, используя eSIM для ОАЭ.
+      - q: Как получать SMS с кодами подтверждения с помощью Wi-Fi отеля и eSIM?
+        a: >-
+          Оставьте вашу домашнюю SIM-карту включённой для SMS, а для запуска проверочного кода от банка или приложения
+          используйте Wi-Fi отеля или данные eSIM для ОАЭ.
+      - q: Как быстро связаться со службой поддержки Booking/отеля для изменения заказа?
+        a: >-
+          Вы можете использовать VoIP-приложения, такие как Skype, или функции чата поддержки в приложении Booking.com,
+          используя высокоскоростные данные eSIM для ОАЭ.
+      - q: Как заказать еду в отель через местные приложения доставки?
+        a: >-
+          Если вы прилетаете поздно, скачайте Talabat, Zomato, Deliveroo и с помощью данных eSIM для ОАЭ закажите
+          горячую еду прямо в холл или номер отеля.
+      - q: Как сохранить соединение для связи с отелем после выезда?
+        a: >-
+          Как только вы покинете зону Wi-Fi отеля, ваша eSIM для ОАЭ автоматически возьмёт управление на себя,
+          позволяя написать отелю, если вы забыли багаж или нужно договориться о более позднем заборе.
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: Достопримечательности
+    title: 5. Достопримечательности и развлечения
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Burj Khalifa, Palm Jumeirah, Sheikh Zayed Grand Mosque
-        spontaneously, you can use your UAE eSIM data to buy skip-the-line tickets
-        online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your UAE eSIM, you can read reviews and book local
-        tours or experiences on Tripadvisor while having coffee at a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring UAE.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your UAE eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your UAE eSIM will keep you connected throughout the
-        park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your UAE eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast UAE eSIM upload speeds mean you can post high-quality stories, reels,
-        and photos of your trip in real-time without waiting for hotel Wi-Fi.
+      - q: Как купить электронные билеты через GetYourGuide/Viator?
+        a: >-
+          Если вы решите спонтанно посетить Бурдж-Халифу, Пальму Джумейру, мечеть шейха Зайда, вы можете
+          использовать данные eSIM для ОАЭ, чтобы купить билеты без очереди онлайн и предъявить штрих-код на экране.
+      - q: Как мгновенно забронировать впечатления на Tripadvisor?
+        a: >-
+          Благодаря надёжному 4G/5G вашей eSIM для ОАЭ вы можете читать отзывы и бронировать местные туры
+          или впечатления на Tripadvisor, сидя в ближайшем кафе.
+      - q: Как использовать Google/Wikipedia для поиска информации во время посещения?
+        a: >-
+          Улучшите свой культурный опыт, мгновенно гугля исторические факты или переводя таблички в музеях
+          во время изучения ОАЭ.
+      - q: Как использовать Google Maps для навигации к следующей достопримечательности?
+        a: >-
+          Просто введите следующую цель в Google Maps; сильное городское покрытие вашей eSIM для ОАЭ проведёт вас
+          по самому быстрому пешеходному или транспортному маршруту.
+      - q: Как проверить время ожидания в реальном времени в тематических парках?
+        a: >-
+          Приложениям тематических парков требуется постоянный доступ к интернету для отображения времени ожидания
+          и бронирования быстрых пропусков. Ваша eSIM для ОАЭ будет держать вас онлайн на всей территории парка.
+      - q: Как получить доступ к Ticketmaster для бронирования билетов на шоу?
+        a: >-
+          Вы можете безопасно просматривать и покупать билеты в последнюю минуту в театр или на концерт
+          через приложения для билетов, используя сотовые данные eSIM для ОАЭ.
+      - q: Как мгновенно делиться фото/видео в Instagram/Facebook?
+        a: >-
+          Быстрая скорость загрузки eSIM для ОАЭ позволяет вам публиковать качественные истории, рилсы и фотографии
+          вашей поездки в реальном времени, не дожидаясь Wi-Fi отеля.
   - id: faq-dining
     icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
+    tab_title: Рестораны
+    title: 6. Еда и рестораны
     questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your UAE eSIM data to search 'restaurants near me' on Google Maps to
-        check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your UAE eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your UAE eSIM ensures you can scan
-        the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your UAE eSIM to process
-        live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Talabat, Zomato, Deliveroo, register using
-        your email or social accounts, and order food seamlessly using your UAE eSIM
-        mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Apple
-        Pay, Google Pay, Nol Card require a brief internet handshake, which your UAE
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your UAE eSIM to find hidden culinary gems in the city.
+      - q: Как найти рестораны с помощью Google Maps/Tripadvisor?
+        a: >-
+          Используйте данные eSIM для ОАЭ, чтобы искать «рестораны рядом со мной» в Google Maps: проверяйте
+          рейтинги, часы работы и фото меню перед входом.
+      - q: Как забронировать столик через OpenTable или сайты ресторанов?
+        a: >-
+          Вы можете легко забронировать ужин, зайдя на сайты бронирования через eSIM для ОАЭ, пока вы на экскурсии.
+      - q: Как сканировать QR-коды ресторанов для просмотра электронных меню?
+        a: >-
+          Многие рестораны сейчас используют цифровые меню. Ваша eSIM для ОАЭ гарантирует, что вы отсканируете
+          QR-код на столе и меню загрузится мгновенно.
+      - q: Как использовать камеру Google Translate для перевода меню?
+        a: >-
+          Откройте приложение Google Translate, выберите функцию камеры и наведите её на местное меню. Для обработки
+          живого перевода требуется интернет-соединение через вашу eSIM для ОАЭ.
+      - q: Как использовать местные сервисы доставки?
+        a: >-
+          Вы можете скачать местные приложения, такие как Talabat, Zomato, Deliveroo, зарегистрироваться,
+          используя электронную почту или аккаунты в соцсетях, и заказывать еду, используя мобильные данные
+          eSIM для ОАЭ.
+      - q: Как платить с помощью Apple Pay/Google Pay?
+        a: >-
+          Бесконтактные платежи через Apple Pay, Google Pay или местные методы, такие как Nol Card, требуют
+          короткого интернет-согласования, с которым ваша eSIM для ОАЭ справляется отлично.
+      - q: Как найти секретные места, рекомендуемые Yelp/фуд-блогерами?
+        a: >-
+          Вы можете смотреть YouTube-влоги о еде или просматривать отзывы на Yelp, используя eSIM для ОАЭ,
+          чтобы найти скрытые кулинарные жемчужины в городе.
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: Соцсети
+    title: 7. Социальные сети и связь
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        UAE eSIM providing the internet, you can chat and call exactly as you do at
-        home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G UAE eSIM gives you the bandwidth
-        needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the UAE eSIM are clear and lag-free, no matter where you are in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal UAE
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your UAE eSIM data allowance to check their own social media.
+      - q: Как стабильно использовать WhatsApp/Telegram за границей?
+        a: >-
+          Ваши аккаунты в WhatsApp и Telegram привязаны к домашнему номеру. С нашей eSIM для ОАЭ, обеспечивающей
+          интернет, вы можете общаться и звонить так же, как дома.
+      - q: Как загружать контент в Instagram/TikTok без подключения к общественному Wi-Fi?
+        a: >-
+          Общественный Wi-Fi может быть медленным и небезопасным. Наша 4G/5G eSIM для ОАЭ даёт вам необходимую
+          пропускную способность для безопасной загрузки больших видеофайлов в TikTok или Instagram.
+      - q: Как совершать видеозвонки FaceTime/WhatsApp с семьёй?
+        a: >-
+          Наши партнёрские отношения с сетями с низкой задержкой гарантируют, что видеозвонки через eSIM для ОАЭ
+          будут чёткими и без задержек, где бы вы ни находились.
+      - q: Безопасно ли входить в социальные сети, подключаясь к общественному Wi-Fi?
+        a: >-
+          Общественные сети Wi-Fi уязвимы для взлома. Использование ваших личных сотовых данных eSIM для ОАЭ
+          зашифровано и гораздо безопаснее для входа в аккаунты.
+      - q: Как поделиться сетью в качестве личной точки доступа с попутчиками?
+        a: >-
+          Включите режим модема на телефоне. Ваши друзья смогут подключиться к вашей сети и использовать
+          ваш трафик eSIM для ОАЭ для проверки своих соцсетей.
   - id: faq-crossborder
     icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
+    tab_title: Трансграничные поездки
+    title: 8. Трансграничные поездки
     questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country UAE eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your UAE eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+      - q: Нужно ли покупать новую SIM-карту для каждой страны при путешествии по нескольким странам?
+        a: >-
+          Если вы купили однострановую eSIM для ОАЭ, она работает только там. Для поездок по нескольким странам
+          мы настоятельно рекомендуем нашу региональную eSIM (например, eSIM для Европы), которая покрывает
+          несколько стран одним профилем.
+      - q: Как избежать высоких роуминговых сборов при пересечении границ на поезде?
+        a: >-
+          Отключите роуминг данных на домашней SIM-карте. Убедитесь, что ваша eSIM для ОАЭ установлена как
+          основная линия передачи данных, чтобы не получать неожиданные счета от домашнего оператора.
+      - q: Как получить краткосрочную сеть при транзите в Сингапуре/Дубае?
+        a: >-
+          Вы можете купить недорогую eSIM на 1 ГБ специально для транзитной страны, чтобы оставаться на связи
+          во время стыковки.
+      - q: Как получить экономичную местную сеть для береговых экскурсий в круизе?
+        a: >-
+          Вместо оплаты дорогого корабельного Wi-Fi активируйте местную eSIM для стран, в которые вы заходите.
+          Она подключится, как только вы окажетесь недалеко от берега.
+      - q: Как обеспечить онлайн Google Maps во время трансграничных автомобильных поездок?
+        a: >-
+          С региональной eSIM ваш телефон автоматически переключится на сеть новой страны, когда вы пересечёте
+          границу, сохраняя GPS активным.
+      - q: Как управлять использованием данных в нескольких странах через одно приложение?
+        a: >-
+          Вы можете отслеживать использование данных для всех ваших активных eSIM прямо через панель управления
+          на нашем сайте.
+      - q: Как сохранить стабильные способы связи во время поездок по нескольким странам?
+        a: >-
+          Поскольку ваш WhatsApp/iMessage зависит от данных, использование региональной eSIM гарантирует,
+          что друзья и семья всегда смогут связаться с вами по тому же номеру без перебоев.
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: Экстренные случаи
+    title: 9. Экстренные ситуации
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In UAE, you can dial local emergency numbers like 999 (Police), 998 (Ambulance),
-        997 (Fire) directly from your phone's dialer regardless of your active SIM,
-        as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your UAE eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your UAE eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your UAE eSIM data to call your insurance
-        company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        UAE eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your UAE eSIM, use your data
-        to download offline areas in Google Maps just in case you venture into mountains
-        or deep rural zones where signals drop.
+      - q: Как набрать местные экстренные номера в незнакомой стране?
+        a: >-
+          В ОАЭ вы можете набрать местные экстренные номера: 999 (полиция), 998 (скорая), 997 (пожарная)
+          прямо с клавиатуры телефона независимо от активной SIM-карты, если телефон ловит любой сотовый сигнал.
+      - q: Как найти ближайшую больницу/аптеку при внезапном недомогании?
+        a: >-
+          Данные вашей eSIM для ОАЭ позволяют вам сразу найти в Google Maps «аптеку рядом со мной» или «больницу»
+          и проложить самый быстрый маршрут.
+      - q: Как найти информацию о посольстве/консульстве после потери паспорта?
+        a: >-
+          Вы можете быстро найти в интернете с помощью eSIM для ОАЭ точный адрес, контактный email и часы работы
+          посольства вашей страны.
+      - q: Как связаться со страховой компанией по горячей линии помощи при несчастном случае?
+        a: >-
+          Используйте VoIP-приложения, такие как Skype или Viber, через данные eSIM для ОАЭ, чтобы позвонить
+          на бесплатные международные номера вашей страховой.
+      - q: Как передавать местоположение в реальном времени в небезопасных районах?
+        a: >-
+          Вы можете использовать функцию «Передать местоположение» в WhatsApp или «Локатор» от Apple, чтобы
+          непрерывно передавать координаты GPS доверенным друзьям, используя мобильные данные eSIM для ОАЭ.
+      - q: Как загрузить офлайн-карты/ключевые места перед поездкой в удалённые районы?
+        a: >-
+          Пока у вас ещё есть сильное городское покрытие с eSIM для ОАЭ, используйте данные, чтобы загрузить
+          офлайн-области в Google Maps на случай, если вы отправитесь в пустыню или горы, где сигнал может пропасть.
   - id: faq-business
     icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
+    tab_title: Бизнес
+    title: 10. Бизнес и работа
     questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our UAE eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the UAE eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your UAE eSIM is significantly
-        faster and much more secure against cyber threats than using open public Wi-Fi
-        networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your UAE eSIM data to
-        receive email-based 2FA codes or push notifications from authenticator apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your UAE eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your UAE eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your UAE eSIM to update them on flight delays or schedule
-        changes.
+      - q: Как обеспечить стабильные видеовстречи в Zoom/Microsoft Teams?
+        a: >-
+          Наша eSIM для ОАЭ подключается к премиальным местным сетям, обеспечивая высокую пропускную способность
+          и низкую задержку для плавных профессиональных видеоконференций.
+      - q: Как безопасно подключиться к корпоративному VPN для доступа к внутренним системам во время командировки?
+        a: >-
+          Наши сотовые данные не ограничивают VPN-протоколы. Вы можете безопасно запустить корпоративное
+          VPN-приложение через сеть eSIM для ОАЭ для доступа к внутренним серверам.
+      - q: Как обеспечить сеть для ноутбуков с помощью мобильной точки доступа в аэропортах/кафе?
+        a: >-
+          Просто включите «Режим модема» на телефоне. Раздача вашей eSIM для ОАЭ значительно быстрее и гораздо
+          безопаснее с точки зрения киберугроз, чем использование открытых сетей Wi-Fi.
+      - q: Как обеспечить получение кодов подтверждения от банка/корпоративной почты?
+        a: >-
+          Оставьте домашнюю SIM-карту активной для приёма SMS, а для получения 2FA-кодов по электронной почте
+          или push-уведомлений из приложений-аутентификаторов используйте данные eSIM для ОАЭ.
+      - q: Как быстро загружать большие файлы в облачные хранилища на местах клиентов/выставках?
+        a: >-
+          Благодаря скоростям 5G/4G LTE вашей eSIM для ОАЭ вы можете быстро загружать презентации или большие
+          документы в Google Drive или Dropbox прямо с выставочного стенда.
+      - q: Как беспрепятственно использовать Slack/Gmail/Google Drive для совместной работы?
+        a: >-
+          Ваша eSIM для ОАЭ обеспечивает постоянное соединение, гарантируя мгновенное получение уведомлений Slack
+          и важных писем, чтобы вы оставались в курсе дел команды.
+      - q: Как обновлять планы поездок онлайн в любое время, чтобы сообщать компании?
+        a: >-
+          Вы можете получить доступ к корпоративным порталам или написать в отдел кадров на ходу, используя
+          eSIM для ОАЭ, чтобы сообщить о задержках рейсов или изменениях в расписании.
 related_products:
-  title: Related eSIM Plans
+  title: Похожие eSIM-тарифы
   items:
-  - name: united states eSIM
+  - name: eSIM США
     flag: img/flags/us.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: United-Kingdom
+  - name: eSIM Великобритании
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Europe eSIM
+  - name: eSIM Европы
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: true
-  - name: Canada eSIM
+  - name: eSIM Канады
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Turkey eSIM
+  - name: eSIM Турции
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: China eSIM
+  - name: eSIM Китая
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Japan eSIM
+  - name: eSIM Японии
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
+  - name: eSIM Гонконга
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: France eSIM
+  - name: eSIM Франции
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Spain eSIM
+  - name: eSIM Испании
     flag: img/flags/es.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Germany eSIM
+  - name: eSIM Германии
     flag: img/flags/de.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Australia eSIM
+  - name: eSIM Австралии
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
 ---

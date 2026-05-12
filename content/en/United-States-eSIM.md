@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for United States
   title: Best eSIM for United States
 hero:
-  flag_image: img/flags/un.svg
+  flag_image: img/flags/us.svg
   flag_alt: United States Flag
   title: United States eSIM data plan
   subtitle: No more roaming fees | Automatic network selection | 100% money-back guarantee

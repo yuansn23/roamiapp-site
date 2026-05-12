@@ -30,11 +30,11 @@ promo:
 # ================= Настройки модального окна =================
 popup:
   title: "Уведомление об обновлении сервиса"
-  message: "Наш eSIM-сервис был обновлён до PhoneSIMGo. Чтобы обеспечить вам наилучший опыт, мы перенаправляем вас на новую платформу."
+  message: "Наш eSIM-сервис был обновлён до PhoneSIM. Чтобы обеспечить вам наилучший опыт, мы перенаправляем вас на новую платформу."
   discount_title: "Эксклюзивное приветственное предложение"
   discount_text: "Новые клиенты получают скидку 20%, промокод:"
   code: "WEB20"
-  button_text: "Перейти на PhoneSIMGo"
+  button_text: "Перейти на PhoneSIM"
 
 # ================= Конфигурация ссылок =================
 links:
@@ -104,7 +104,7 @@ top_countries_section:
       alias: "eu"
     - name: "США"
       code: "us"
-      slug: "usa"
+      slug: "united-states"
       badge: "5G"
       badgeColor: "bg-blue-600"
       alias: "usa america us"

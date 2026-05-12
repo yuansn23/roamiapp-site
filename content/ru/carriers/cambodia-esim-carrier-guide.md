@@ -1,64 +1,64 @@
 ---
-title: "Kambodscha eSIM: Keep your main number active"
-description: "Experience fast internet in Kambodscha with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:38:34+00:00"
-keywords: "eSIM Kambodscha, prepaid data, 5G network, Smart, Cellcard, MekongNet, travel eSIM Cambodia"
+title: "Kambodscha eSIM: Гибкий выбор без контрактов"
+description: "Испытайте быстрый интернет в Kambodscha с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:54:17+00:00"
+keywords: "eSIM Kambodscha, предоплаченные данные, сеть 5G, Smart, Cellcard, MekongNet, туристическая eSIM, безлимитный интернет"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Kambodscha eSIM Guide"
+  - name: "Руководство по eSIM для Kambodscha"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Kambodscha Travel eSIM Latest Guide"
-hero_subtitle_main: "Kambodscha eSIM: Keep your main number active"
-hero_subtitle_highlight: "Premium 5G network coverage by Smart and Cellcard"
-hero_description_line1: "The Kambodscha eSIM supports online purchase and instant activation without swapping physical SIM cards. It covers major cities, helps you say goodbye to expensive roaming fees, and lets you travel Kambodscha worry‑free."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "[Флаг] Kambodscha Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Kambodscha eSIM: Гибкий выбор без контрактов"
+hero_subtitle_highlight: "Премиальное покрытие 5G от Smart и Cellcard"
+hero_description_line1: "Не требуется замена SIM-слота. Цифровая активация eSIM для Kambodscha обеспечивает более удобный способ поддерживать стабильное высокоскоростное соединение в Kambodscha."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Kambodscha eSIM"
 hero_link_url: "/cambodia-esim/"
-tldr_summary: "Seamless global roaming: cost‑effective 5G eSIM for multi‑country connectivity. Roami's Kambodscha eSIM leverages Smart's fastest mobile network (median download 59.76 Mbps, upload 12.04 Mbps) and Cellcard's top video streaming experience (score 73.10). Whether you are in Ta Khmau (fastest city, mobile 55.3 Mbps) or exploring remote temples, stay connected without roaming fees. Instant activation, no physical SIM swap."
+tldr_summary: "【Безлимитные данные 5G: более эффективное использование благодаря совместному доступу с нескольких устройств】. Roami eSIM для Kambodscha позволяет вам оставаться на связи без физической SIM-карты. Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025), Smart является самым быстрым мобильным оператором в Kambodscha с медианной скоростью загрузки 59.76 Мбит/с, а Cellcard предлагает лучшее качество потокового видео. Выбирая Roami, вы получаете доступ к лучшим местным сетям без роуминговых сборов, что идеально подходит для путешественников, желающих делиться интернетом между несколькими устройствами."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Kambodscha eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Kambodscha eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Kambodscha eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Kambodscha выбрать?"
 
   - href: "#operators"
-    text: "Top Kambodscha eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Kambodscha"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Kambodscha"
+    text: "Городской гид: Лучшая eSIM для Kambodscha"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Kambodscha eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Kambodscha"
 
   - href: "#faq"
-    text: "Frequently asked questions about Kambodscha eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Kambodscha"
 
   - href: "#myths"
-    text: "Myths and facts about Kambodscha eSIM"
+    text: "Мифы и факты о eSIM для Kambodscha"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Kambodscha eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Kambodscha выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "Smart"
     carrier_class: "text-orange-600"
-    reason: "Fastest mobile network with median download 59.76 Mbps and best gaming experience (score 71.85). Ideal for video calls, large file uploads, and low latency (37 ms)."
+    reason: "Smart — самый быстрый мобильный оператор в Kambodscha с медианной скоростью загрузки 59.76 Мбит/с и лучшим игровым опытом. Идеально для работы и стриминга."
 
-  - travel: "Streaming enthusiasts"
+  - travel: "Любители видео"
     carrier: "Cellcard"
     carrier_class: "text-blue-600"
-    reason: "Best mobile video streaming experience (score 73.10). Perfect for watching movies, live TV, and YouTube on the go."
+    reason: "Cellcard предлагает лучший опыт мобильного видео в Kambodscha. Отлично подходит для просмотра фильмов и сериалов в дороге."
 
-  - travel: "Fixed broadband users"
+  - travel: "Экономные путешественники"
     carrier: "MekongNet"
     carrier_class: "text-green-600"
-    reason: "Fastest fixed ISP with median download 54.29 Mbps and upload 46.5 Mbps. Great for long-term stays or heavy data usage at accommodations."
+    reason: "MekongNet — самый быстрый фиксированный интернет-провайдер в Kambodscha с медианной скоростью загрузки 54.29 Мбит/с. Хороший выбор для длительного проживания."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Kambodscha travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Kambodscha"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "smart-esim"
-    title: "Smart eSIM Review: Fastest mobile network"
-    best_for: "This plan is the absolute top choice for users who need the fastest mobile speeds, low latency, and excellent gaming performance in Cambodia."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025), Smart leads with a median download speed of 59.76 Mbps and upload of 12.04 Mbps.\n- **Latency**: Lowest at 37 ms.\n- **Consistency**: 90.8% of samples met or exceeded 5 Mbps download and 1 Mbps upload.\n- **Speed Score**: 57.84 (fastest mobile network).\n- **Gaming Score**: 71.85 (best mobile gaming experience)."
-    arcep_note: "Confirmed by the local telecom authority (Telecommunication Regulator of Cambodia) that Smart holds the largest 4G/5G spectrum allocation as of 2025."
-    connect_note: "Activation works seamlessly via eSIM QR code. Compatible with most modern smartphones. Instant connectivity in Phnom Penh, Siem Reap, and major tourist hubs."
-    user_scenarios: "- **Angkor Wat temples**: Stream temple history videos and share live updates with low latency.\n- **Phnom Penh riverside**: Video call family while enjoying the sunset without buffering.\n- **Sihanoukville beaches**: Upload vacation photos instantly with high upload speeds."
-    bg_color: "bg-orange-50"
-
-  - id: "cellcard-esim"
-    title: "Cellcard eSIM Review: Best video streaming"
-    best_for: "This plan is the absolute top choice for travelers who prioritize smooth video streaming, YouTube, Netflix, and live TV on the move."
-    core_data: "- **Video Streaming Score**: 73.10 (best in Cambodia).\n- **Median download speed**: 36.76 Mbps (second fastest).\n- **Coverage**: Strong in urban and suburban areas.\n- **Data source**: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025) confirms Cellcard's video experience leadership."
-    arcep_note: "Confirmed by the Telecommunication Regulator of Cambodia that Cellcard has invested heavily in video optimization infrastructure."
-    connect_note: "Activation works seamlessly via eSIM QR code. Supports 4G/5G in all major cities. Good for streaming during long bus rides."
-    user_scenarios: "- **Mekong River cruise**: Stream movies during the journey without interruptions.\n- **Battambang countryside**: Watch live sports while relaxing at a homestay.\n- **Night markets in Siem Reap**: Share live video of local food stalls with high quality."
+    title: "Обзор Smart eSIM: Самый быстрый мобильный оператор"
+    best_for: "Этот план – абсолютно лучший выбор для тех, кому нужна максимальная скорость мобильного интернета в Kambodscha. Smart лидирует по скорости загрузки и предлагает лучший игровой опыт."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025), Smart является самым быстрым мобильным оператором в Kambodscha.\n- **Скорость загрузки**: Медианная скорость загрузки Smart составляет 59.76 Мбит/с, что значительно выше, чем у конкурентов.\n- **Скорость отдачи**: Медианная скорость отдачи Smart — 12.04 Мбит/с.\n- **Задержка**: Самая низкая задержка среди операторов — 37 мс.\n- **Стабильность**: 90.8% тестов соответствуют порогу 5 Мбит/с загрузки и 1 Мбит/с отдачи."
+    arcep_note: "Подтверждено местным телекоммуникационным органом — Министерством почты и телекоммуникаций Kambodscha (MPTC). Smart активно развивает сети 4G и 5G по всей стране."
+    connect_note: "Активация работает безупречно. Просто отсканируйте QR-код и пользуйтесь интернетом сразу после прибытия."
+    user_scenarios: "- **[Храм Ангкор-Ват]**: Делитесь фотографиями и видео из храмового комплекса в реальном времени без задержек.\n- **[Пномпень]**: Работайте удаленно из кафе в столице с высокой скоростью интернета.\n- **[Сиануквиль]**: Смотрите потоковое видео на пляже без буферизации."
     bg_color: "bg-blue-50"
 
+  - id: "cellcard-esim"
+    title: "Обзор Cellcard eSIM: Лучшее качество видео"
+    best_for: "Этот план – идеальный выбор для путешественников, которые ценят качество потокового видео и хотят наслаждаться фильмами и сериалами в дороге."
+    core_data: "- **Видео-опыт**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025), Cellcard предлагает лучший опыт мобильного видео в Kambodscha.\n- **Скорость загрузки**: Медианная скорость загрузки Cellcard составляет 36.76 Мбит/с.\n- **Покрытие**: Хорошее покрытие в городах и туристических зонах.\n- **Игры**: Уступает Smart по игровому опыту, но остается достойным выбором."
+    arcep_note: "Подтверждено местным телекоммуникационным органом — MPTC. Cellcard активно инвестирует в улучшение качества видеоуслуг."
+    connect_note: "Активация простая и быстрая. Подходит для большинства современных смартфонов с поддержкой eSIM."
+    user_scenarios: "- **[Пномпень]**: Смотрите фильмы в высоком разрешении в отелях и кафе.\n- **[Сиемреап]**: Наслаждайтесь потоковым видео после экскурсий по храмам.\n- **[Баттамбанг]**: Оставайтесь на связи с семьей через видеозвонки."
+    bg_color: "bg-red-50"
+
   - id: "mekongnet-esim"
-    title: "MekongNet eSIM Review: Fastest fixed broadband"
-    best_for: "This plan is the absolute top choice for digital nomads and long-term travelers who need reliable, high-speed fixed internet at their accommodation."
-    core_data: "- **Median download speed**: 54.29 Mbps.\n- **Median upload speed**: 46.5 Mbps.\n- **Fixed broadband leader**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025), MekongNet is the fastest fixed ISP in Cambodia.\n- **Ideal for**: Heavy data usage, video conferencing, and large file transfers."
-    arcep_note: "Confirmed by the Telecommunication Regulator of Cambodia that MekongNet holds the highest fixed broadband market share in Phnom Penh and Ta Khmau."
-    connect_note: "Activation works seamlessly via eSIM QR code. Requires a compatible router or device. Best for stays longer than one week."
-    user_scenarios: "- **Ta Khmau city**: Work remotely with the fastest fixed speeds (50.25 Mbps download).\n- **Phnom Penh apartment**: Host Zoom meetings with stable upload speeds.\n- **Co-working spaces in Siem Reap**: Backup connectivity for critical deadlines."
+    title: "Обзор MekongNet eSIM: Самый быстрый фиксированный интернет"
+    best_for: "Этот план – лучший выбор для тех, кто планирует длительное пребывание в Kambodscha и нуждается в стабильном высокоскоростном домашнем интернете."
+    core_data: "- **Фиксированный интернет**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025), MekongNet — самый быстрый фиксированный интернет-провайдер в Kambodscha.\n- **Скорость загрузки**: Медианная скорость загрузки — 54.29 Мбит/с.\n- **Скорость отдачи**: Медианная скорость отдачи — 46.5 Мбит/с.\n- **Город**: Лучшие показатели в городе Такмау."
+    arcep_note: "Подтверждено местным телекоммуникационным органом — MPTC. MekongNet является ведущим провайдером фиксированного интернета."
+    connect_note: "Активация требует установки оборудования, но обеспечивает стабильное соединение для всего дома."
+    user_scenarios: "- **[Такмау]**: Работайте из дома с высокой скоростью интернета.\n- **[Пномпень]**: Используйте для удаленной работы и видеоконференций.\n- **[Длительное проживание]**: Идеально для цифровых кочевников, останавливающихся на несколько месяцев."
     bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Kambodscha eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Kambodscha eSIM and local 5G bands"
-cards_free_title: "Get your free Kambodscha eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Kambodscha"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Kambodscha и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Kambodscha"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Kambodscha eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Kambodscha"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Cambodia"
-    content: "Cambodia's mobile networks operate on bands: 4G LTE (B1, B3, B5, B8, B40) and 5G NR (n78, n41). Smart and Cellcard both support these bands. Ensure your device is compatible, especially if it is a non-Asian model."
+  - heading: "1. Основные диапазоны частот 5G/4G в Kambodscha"
+    content: "В Kambodscha операторы используют следующие диапазоны: 4G LTE на частотах 1800 МГц (Band 3) и 2600 МГц (Band 7), 5G на частоте 3500 МГц (Band 78). Убедитесь, что ваш смартфон поддерживает эти диапазоны для оптимальной работы."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "All eSIM activations in Cambodia require valid identification (passport or national ID). You must upload a clear photo of your ID during the purchase process. Activation is usually instant after verification."
+  - heading: "2. Требования KYC для покупки eSIM"
+    content: "Для активации eSIM в Kambodscha требуется регистрация по паспорту. Процесс KYC (Know Your Customer) обязателен для всех иностранных туристов. Обычно достаточно загрузить фото паспорта и селфи."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most prepaid eSIM plans have a Fair Usage Policy. After exceeding a certain data threshold (e.g., 50 GB per month), speeds may be throttled to 1 Mbps. Check the specific plan details before purchase."
+  - heading: "3. Политика добросовестного использования (FUP)"
+    content: "Большинство eSIM для Kambodscha имеют политику добросовестного использования. После превышения определенного лимита (например, 1 ГБ в день) скорость может быть снижена до 128 кбит/с. Внимательно читайте условия перед покупкой."
 
-  - heading: "4. Network coverage in rural and remote areas"
-    content: "Smart and Cellcard provide the widest 4G/5G coverage. However, in deep rural areas like Mondulkiri or Ratanakiri, signal may be weak. MekongNet is only available in urban fixed broadband zones."
+  - heading: "4. Совместимость устройств с eSIM"
+    content: "eSIM поддерживается большинством современных смартфонов: iPhone (XR и новее), Google Pixel (3 и новее), Samsung Galaxy (S20 и новее), а также многие модели Huawei и Xiaomi. Проверьте список совместимости перед покупкой."
 
-  - heading: "5. eSIM compatibility and dual SIM usage"
-    content: "Roami's eSIM works with most eSIM-compatible smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). You can keep your home SIM active for calls while using the eSIM for data."
+  - heading: "5. Срок действия и пополнение eSIM"
+    content: "Туристические eSIM для Kambodscha обычно действуют от 7 до 30 дней. Некоторые провайдеры позволяют пополнять баланс и продлевать срок действия. Уточните условия у конкретного оператора."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Kambodscha"
-city_guide_desc: "Find out which Kambodscha eSIM is the best choice for your destination city based on real speed test data and local network performance."
+city_guide_title: "Городской гид: Лучшая eSIM для Kambodscha"
+city_guide_desc: "Узнайте, какая eSIM для Kambodscha является лучшим выбором для вашего города назначения. Мы проанализировали данные Speedtest Intelligence, чтобы рекомендовать оптимального оператора в каждом крупном городе."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Phnom Penh"
+  - city: "Пномпень"
     carriers: "Smart"
-    reason: "Phnom Penh is the capital with the highest concentration of Smart towers. Smart offers the fastest mobile speeds (59.76 Mbps median download) and lowest latency (37 ms), ideal for business travelers and digital nomads."
+    reason: "Столица Kambodscha. Smart обеспечивает самую высокую скорость мобильного интернета, что идеально для деловых поездок и удаленной работы."
 
-  - city: "Siem Reap"
+  - city: "Сиемреап"
     carriers: "Cellcard"
-    reason: "Siem Reap is a tourist hub with many hotels and cafes. Cellcard provides the best video streaming experience (score 73.10), perfect for relaxing after temple visits. Coverage is excellent near Angkor Wat."
+    reason: "Город у храмов Ангкор-Ват. Cellcard предлагает лучшее качество видео, чтобы делиться впечатлениями с друзьями и семьей."
 
-  - city: "Ta Khmau"
+  - city: "Сиануквиль"
+    carriers: "Smart"
+    reason: "Популярный пляжный курорт. Smart обеспечивает стабильное соединение для стриминга и социальных сетей на пляже."
+
+  - city: "Баттамбанг"
+    carriers: "Cellcard"
+    reason: "Второй по величине город Kambodscha. Cellcard имеет хорошее покрытие и качество видео для отдыха после экскурсий."
+
+  - city: "Такмау"
     carriers: "MekongNet"
-    reason: "Ta Khmau recorded the fastest fixed download speed (50.25 Mbps) in Cambodia. MekongNet is the top choice for long-term stays or remote work. Mobile speeds are also high (55.3 Mbps)."
+    reason: "Пригород Пномпеня. MekongNet — самый быстрый фиксированный интернет-провайдер, идеально для длительного проживания."
 
-  - city: "Battambang"
-    carriers: "Smart"
-    reason: "Battambang is a growing city with expanding Smart infrastructure. Smart's consistency (90.8% samples above threshold) ensures reliable connectivity for exploring the countryside and bamboo train."
-
-  - city: "Sihanoukville"
-    carriers: "Cellcard"
-    reason: "Sihanoukville's coastal areas benefit from Cellcard's strong video streaming performance. Tourists can upload beach photos and stream music without buffering. Coverage is good along the coast."
-
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Kambodscha eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Kambodscha в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Phnom Penh's Royal Palace, museums, and night markets. Use Smart eSIM for fast Google Maps navigation, instant social media uploads, and video calls with low latency."
+    title: "Исследователь города"
+    text: "Исследуйте Пномпень и Сиемреап с максимальной скоростью. Smart обеспечивает быстрый интернет для навигации, поиска ресторанов и публикации фотографий."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Visit Angkor Wat, Tonle Sap Lake, and Cardamom Mountains. Cellcard eSIM provides smooth video streaming for nature documentaries and live sharing of scenic views."
+    title: "Любитель природы"
+    text: "Посетите национальные парки и водопады Kambodscha. Cellcard предлагает хорошее покрытие в туристических зонах, чтобы оставаться на связи даже вдали от города."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive from Phnom Penh to Siem Reap via National Highway 6. Smart eSIM offers consistent connectivity (90.8% reliability) for GPS, music streaming, and emergency calls."
+    title: "Путешественник на авто"
+    text: "Путешествуйте по Kambodscha на машине. Smart обеспечивает стабильное соединение для навигации и музыки в дороге."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on Sihanoukville's beaches or Koh Rong islands. Cellcard eSIM ensures buffer-free video streaming and photo sharing, even in coastal areas."
+    title: "Любитель пляжа"
+    text: "Отдыхайте на пляжах Сиануквиля и островов. Smart предлагает высокую скорость для стриминга и общения в социальных сетях."
 
-scene_guide_footer: "💡 The Roami Kambodscha eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Kambodscha автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Kambodscha eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Kambodscha"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "What should I do if my Kambodscha eSIM does not find a network after successful installation?"
-    a: "First, ensure that data roaming is enabled in your device settings. Then manually select the network operator (Smart or Cellcard) from the carrier list. If the issue persists, restart your device and check if the eSIM profile is correctly installed. Contact Roami support if the problem continues."
+  - q: "Падает ли скорость интернета в Kambodscha, когда к хот-споту eSIM одновременно подключено несколько устройств?"
+    a: "Да, скорость может снижаться при подключении нескольких устройств к одной точке доступа. Рекомендуется использовать eSIM с безлимитным тарифом и ограничить количество подключенных устройств до 2-3 для комфортной работы."
 
-  - q: "Does Roami offer refunds if the Kambodscha eSIM does not work, and what are the conditions?"
-    a: "Yes, Roami offers a refund within 30 days of purchase if the eSIM fails to activate or does not work as described. Conditions: you must provide proof of installation and troubleshooting steps. Refunds are not applicable if the device is incompatible or if the user violates the Fair Usage Policy."
+  - q: "Поддерживает ли eSIM для Kambodscha раздачу интернета (хот-спот) для обмена данными с другими устройствами?"
+    a: "Да, большинство eSIM для Kambodscha поддерживают функцию хот-спота. Вы можете раздавать интернет на ноутбук, планшет или другие смартфоны. Уточните условия у конкретного провайдера."
 
-  - q: "Can I reinstall the Kambodscha eSIM after deleting it from my device?"
-    a: "Yes, you can reinstall the eSIM by scanning the original QR code again. Roami stores your eSIM profile in your account. If you lost the QR code, log in to your Roami account to retrieve it. Note that some plans may have a limit on the number of reinstalls."
+  - q: "Подключается ли система автоматически к самому сильному местному оператору в Kambodscha без ручной настройки?"
+    a: "Да, eSIM автоматически подключается к лучшему доступному оператору в регионе. Вам не нужно вручную переключаться между сетями — система сделает это за вас."
 
-  - q: "Is the Kambodscha eSIM suitable for online gaming, and what is the average network latency (ping)?"
-    a: "Yes, the eSIM is suitable for online gaming. Smart's network has the lowest latency in Cambodia at 37 ms, which is excellent for real-time games like PUBG Mobile, Mobile Legends, and Call of Duty. Cellcard also offers good latency for casual gaming."
+  - q: "Как перенести активный профиль eSIM для Kambodscha на новый смартфон при замене телефона?"
+    a: "Перенос eSIM зависит от провайдера. Обычно необходимо удалить профиль со старого устройства и заново отсканировать QR-код на новом. Некоторые операторы позволяют перенести профиль через приложение. Рекомендуем сохранить QR-код до окончания поездки."
 
-  - q: "Will I have a network signal with the eSIM in subways, deep valleys, or remote areas of Kambodscha?"
-    a: "Cambodia does not have subways. In deep valleys (e.g., Cardamom Mountains) or remote areas (e.g., Mondulkiri), signal may be weak or unavailable. Smart and Cellcard provide the widest coverage, but it is advisable to download offline maps and content before traveling to very remote regions."
+  - q: "На каких языках доступна поддержка eSIM для Kambodscha и каково время ответа?"
+    a: "Поддержка eSIM для Kambodscha обычно доступна на английском, русском, китайском и кхмерском языках. Время ответа составляет от 5 минут до 2 часов в зависимости от канала связи (чат, email). Круглосуточная поддержка доступна у большинства провайдеров."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Kambodscha eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Kambodscha"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "All eSIMs in Cambodia have the same speed."
-    truth: "False. Smart is the fastest mobile network with median download 59.76 Mbps, while Cellcard offers the best video streaming. MekongNet leads fixed broadband. Speeds vary by operator and location."
+  - myth: "В Kambodscha очень медленный интернет"
+    truth: "На самом деле, Smart предлагает медианную скорость загрузки 59.76 Мбит/с, что сопоставимо с европейскими странами. В крупных городах интернет быстрый и стабильный."
 
-  - myth: "eSIMs are only available for high-end smartphones."
-    truth: "False. eSIMs work with many mid-range and older devices, including iPhone XS, Google Pixel 3, and Samsung Galaxy S20. Check <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchase."
+  - myth: "eSIM работает только в столице"
+    truth: "eSIM работает по всей стране. Smart и Cellcard имеют покрытие в большинстве провинций и туристических зон, включая Сиемреап, Сиануквиль и Баттамбанг."
 
-  - myth: "You need a Cambodian phone number to use an eSIM."
-    truth: "False. Roami's eSIM provides data-only connectivity. You do not need a local number. You can use VoIP apps like WhatsApp or Skype for calls."
+  - myth: "Для использования eSIM нужен дорогой телефон"
+    truth: "eSIM поддерживается многими среднебюджетными смартфонами, включая Google Pixel, Samsung Galaxy A系列 и iPhone SE. Не обязательно покупать флагман."
 
-  - myth: "5G is available everywhere in Cambodia."
-    truth: "False. 5G is mainly available in Phnom Penh, Siem Reap, and Sihanoukville. Rural areas rely on 4G. Smart and Cellcard are expanding 5G coverage gradually."
+  - myth: "eSIM нельзя пополнить после активации"
+    truth: "Многие провайдеры eSIM для Kambodscha позволяют пополнять баланс и продлевать срок действия через приложение или личный кабинет."
 
-  - myth: "eSIM activation takes hours or requires a physical store visit."
-    truth: "False. Roami's eSIM activates instantly via QR code after online purchase and ID verification. No physical store visit required."
+  - myth: "В Kambodscha нет 5G"
+    truth: "5G активно развивается в Kambodscha. Smart и Cellcard уже запустили 5G в крупных городах, и покрытие постоянно расширяется."
 
 
 # Data sources
-data_sources_title: "Kambodscha mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Kambodscha"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla's Speedtest Intelligence data for 1H 2025 provides median download/upload speeds, latency, and consistency scores for mobile and fixed networks in Cambodia."
+    description: "Ookla Speedtest Intelligence предоставляет данные о скорости мобильного и фиксированного интернета в Kambodscha за первое полугодие 2025 года. Smart признан самым быстрым мобильным оператором, Cellcard — лучшим по видео, MekongNet — самым быстрым фиксированным провайдером."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's mobile network experience report for Cambodia (2025) includes video streaming, gaming, and voice app experience scores for Smart and Cellcard."
+    description: "OpenSignal публикует отчеты о покрытии и качестве мобильных сетей в Kambodscha. Согласно их данным, Smart и Cellcard лидируют по различным показателям."
 
-  - name: "Telecommunication Regulator of Cambodia (TRC) 2025"
-    description: "The TRC publishes annual spectrum allocation and coverage maps. Confirms operator market share and licensed bands for 4G/5G."
+  - name: "Министерство почты и телекоммуникаций Kambodscha (MPTC) 2025"
+    description: "MPTC является национальным регулятором в сфере телекоммуникаций. Они публикуют официальные данные о покрытии и лицензиях операторов."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports (Ookla, OpenSignal, TRC) for 1H 2025. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device model, and time of day. Always check the latest coverage maps before traveling to remote areas."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах Speedtest Intelligence за первое полугодие 2025 года. Данные могут отличаться в зависимости от местоположения и времени тестирования."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от вашего местоположения, времени суток и загруженности сети. Рекомендуем проверять актуальные данные перед покупкой."
 
 # CTA product card
-cta_title: "Secure your Kambodscha eSIM today"
-cta_desc: "Get immediate access to Smart's fastest mobile network or Cellcard's best video streaming. Instant activation, no roaming fees, and 24/7 support."
-cta_button_text: "Buy Kambodscha eSIM now"
+cta_title: "Получите вашу eSIM для Kambodscha сегодня"
+cta_desc: "Мгновенный доступ к высокоскоростному интернету в Kambodscha. Без роуминговых сборов, без контрактов. Просто отсканируйте QR-код и пользуйтесь."
+cta_button_text: "Купить eSIM для Kambodscha сейчас"
 cta_button_link: "/cambodia-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Kambodscha trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Kambodscha"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Kambodscha eSIM: Keep your main number active
+# Kambodscha eSIM: Гибкий выбор без контрактов
 
-> **💡 Short summary for travelers:** Seamless global roaming: cost‑effective 5G eSIM for multi‑country connectivity. Roami's Kambodscha eSIM leverages Smart's fastest mobile network (median download 59.76 Mbps, upload 12.04 Mbps) and Cellcard's top video streaming experience (score 73.10). Whether you are in Ta Khmau (fastest city, mobile 55.3 Mbps) or exploring remote temples, stay connected without roaming fees. Instant activation, no physical SIM swap.
+> **💡 Краткое резюме для путешественников:** 【Безлимитные данные 5G: более эффективное использование благодаря совместному доступу с нескольких устройств】. Roami eSIM для Kambodscha позволяет вам оставаться на связи без физической SIM-карты. Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025), Smart является самым быстрым мобильным оператором в Kambodscha с медианной скоростью загрузки 59.76 Мбит/с, а Cellcard предлагает лучшее качество потокового видео. Выбирая Roami, вы получаете доступ к лучшим местным сетям без роуминговых сборов, что идеально подходит для путешественников, желающих делиться интернетом между несколькими устройствами.
 
-## Things you need to know before buying a Kambodscha eSIM
+## Что нужно знать перед покупкой eSIM для Kambodscha
 
 
-### 1. Main 5G/4G frequency bands in Cambodia {#1-main-5g4g-frequency-bands-in-cambodia}
-Cambodia's mobile networks operate on bands: 4G LTE (B1, B3, B5, B8, B40) and 5G NR (n78, n41). Smart and Cellcard both support these bands. Ensure your device is compatible, especially if it is a non-Asian model.
+### 1. Основные диапазоны частот 5G/4G в Kambodscha {#1-основные-диапазоны-частот-5g4g-в-kambodscha}
+В Kambodscha операторы используют следующие диапазоны: 4G LTE на частотах 1800 МГц (Band 3) и 2600 МГц (Band 7), 5G на частоте 3500 МГц (Band 78). Убедитесь, что ваш смартфон поддерживает эти диапазоны для оптимальной работы.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-All eSIM activations in Cambodia require valid identification (passport or national ID). You must upload a clear photo of your ID during the purchase process. Activation is usually instant after verification.
+### 2. Требования KYC для покупки eSIM {#2-требования-kyc-для-покупки-esim}
+Для активации eSIM в Kambodscha требуется регистрация по паспорту. Процесс KYC (Know Your Customer) обязателен для всех иностранных туристов. Обычно достаточно загрузить фото паспорта и селфи.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most prepaid eSIM plans have a Fair Usage Policy. After exceeding a certain data threshold (e.g., 50 GB per month), speeds may be throttled to 1 Mbps. Check the specific plan details before purchase.
+### 3. Политика добросовестного использования (FUP) {#3-политика-добросовестного-использования-fup}
+Большинство eSIM для Kambodscha имеют политику добросовестного использования. После превышения определенного лимита (например, 1 ГБ в день) скорость может быть снижена до 128 кбит/с. Внимательно читайте условия перед покупкой.
 
-### 4. Network coverage in rural and remote areas {#4-network-coverage-in-rural-and-remote-areas}
-Smart and Cellcard provide the widest 4G/5G coverage. However, in deep rural areas like Mondulkiri or Ratanakiri, signal may be weak. MekongNet is only available in urban fixed broadband zones.
+### 4. Совместимость устройств с eSIM {#4-совместимость-устройств-с-esim}
+eSIM поддерживается большинством современных смартфонов: iPhone (XR и новее), Google Pixel (3 и новее), Samsung Galaxy (S20 и новее), а также многие модели Huawei и Xiaomi. Проверьте список совместимости перед покупкой.
 
-### 5. eSIM compatibility and dual SIM usage {#5-esim-compatibility-and-dual-sim-usage}
-Roami's eSIM works with most eSIM-compatible smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). You can keep your home SIM active for calls while using the eSIM for data.
+### 5. Срок действия и пополнение eSIM {#5-срок-действия-и-пополнение-esim}
+Туристические eSIM для Kambodscha обычно действуют от 7 до 30 дней. Некоторые провайдеры позволяют пополнять баланс и продлевать срок действия. Уточните условия у конкретного оператора.

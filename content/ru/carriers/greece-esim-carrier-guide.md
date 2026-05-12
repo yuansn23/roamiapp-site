@@ -1,64 +1,64 @@
 ---
-title: "Griechenland eSIM: Keep your main number active"
-description: "Experience fast internet in Griechenland with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:39:46+00:00"
-keywords: "eSIM Griechenland, prepaid data, 5G network, Cosmote, Vodafone, travel eSIM"
+title: "Griechenland eSIM: Экономичные тарифы для поездок"
+description: "Испытайте быстрый интернет в Griechenland с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:55:27+00:00"
+keywords: "eSIM Griechenland, предоплаченные данные, сеть 5G, Cosmote, Vodafone, туристическая eSIM, высокоскоростной интернет"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Griechenland eSIM Guide"
+  - name: "Руководство по eSIM для Griechenland"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Griechenland Travel eSIM Latest Guide"
-hero_subtitle_main: "Griechenland eSIM: Keep your main number active"
-hero_subtitle_highlight: "Premium 5G network coverage by Cosmote and Vodafone"
-hero_description_line1: "The Griechenland eSIM offers a reliable data solution with hotspot tethering and multi‑day plans, a practical tool for both tourism and business travel in Griechenland."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "[Флаг] Griechenland Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Griechenland eSIM: Экономичные тарифы для поездок"
+hero_subtitle_highlight: "Премиальное покрытие 5G от Cosmote и Vodafone"
+hero_description_line1: "Испытайте бесперебойный высокоскоростной интернет с eSIM для Griechenland. Не требует физической доставки. Подходит для коротких поездок и длительного пребывания благодаря разнообразным гибким тарифам."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Griechenland eSIM"
 hero_link_url: "/greece-esim/"
-tldr_summary: "More freedom through device sharing: unlimited 5G data unlimitedly on the go. With a Griechenland eSIM from Roami, you can share your high‑speed connection across all your devices while traveling. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/greece-speedtest-connectivity-report-h1-2025), Cosmote leads with a median download speed of 118.8 Mbps and a 5G median of 200.52 Mbps, ensuring you stay productive and entertained wherever you roam."
+tldr_summary: "【Безстрессовые международные поездки: высокоскоростной интернет в любое время и в любом месте】. Планируете поездку в Грецию? Забудьте о роуминговых сборах и нестабильном Wi-Fi. С eSIM от Roami вы получаете мгновенный доступ к лучшим местным сетям, включая лидера рынка Cosmote. Согласно последним данным Ookla, Cosmote обеспечивает медианную скорость загрузки 118.8 Мбит/с, а в сетях 5G — впечатляющие 200.52 Мбит/с. Это значит, что вы сможете без задержек смотреть видео в высоком разрешении, пользоваться навигацией и оставаться на связи с близкими. Выбирайте Roami для надёжного и быстрого интернета в Греции."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Griechenland eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Griechenland eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Griechenland eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Griechenland выбрать?"
 
   - href: "#operators"
-    text: "Top Griechenland eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Griechenland"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Griechenland"
+    text: "Городской гид: Лучшая eSIM для Griechenland"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Griechenland eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Griechenland"
 
   - href: "#faq"
-    text: "Frequently asked questions about Griechenland eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Griechenland"
 
   - href: "#myths"
-    text: "Myths and facts about Griechenland eSIM"
+    text: "Мифы и факты о eSIM для Griechenland"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Griechenland eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Griechenland выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/greece-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,240 +67,235 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "Cosmote"
     carrier_class: "text-orange-600"
-    reason: "Best overall network with 118.8 Mbps median download and 200.52 Mbps 5G speed, ideal for video calls and large file transfers."
+    reason: "Лучшая общая производительность сети: медианная скорость загрузки 118.8 Мбит/с и лучшая сеть 5G с медианной скоростью 200.52 Мбит/с. Идеально для работы и потокового вещания."
 
-  - travel: "City explorers"
+  - travel: "Городские исследователи"
     carrier: "Vodafone"
     carrier_class: "text-red-600"
-    reason: "Strong urban coverage and competitive speeds, perfect for navigating Athens and Thessaloniki."
+    reason: "Вторая по скорости сеть с медианной загрузкой 70.91 Мбит/с. Отличное покрытие в городах и пригородах."
 
-  - travel: "Island hoppers"
+  - travel: "Путешественники по островам"
     carrier: "Cosmote"
     carrier_class: "text-orange-600"
-    reason: "Highest 5G availability at 78.5% and best consistency, ensuring reliable connectivity even on remote islands."
-
-  - travel: "Budget travelers"
-    carrier: "Vodafone"
-    carrier_class: "text-red-600"
-    reason: "Affordable prepaid eSIM plans with good enough speeds for social media and messaging."
+    reason: "Наивысшая доступность 5G (78.5% времени) и лучшая стабильность 5G (83.3% тестов соответствуют порогу). Надёжная связь даже в удалённых районах."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Griechenland travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Griechenland"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "cosmote-esim"
-    title: "Cosmote eSIM Review: Best overall network"
-    best_for: "This plan is the absolute top choice for travelers who demand the fastest speeds and widest coverage across Griechenland, including islands and rural areas."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/greece-speedtest-connectivity-report-h1-2025), Cosmote recorded the highest 5G Availability in Greece during 1H 2025, with 78.5% of users accessing its 5G network a majority of the time.\n- **Download rate**: Median download speed of 118.8 Mbps across all technologies, and 200.52 Mbps on 5G.\n- **Upload rate**: Median upload speed of 16.25 Mbps overall, 20.19 Mbps on 5G.\n- **Latency**: 41 ms overall, 40 ms on 5G.\n- **Consistency**: Best 5G Consistency with 83.3% of samples meeting or exceeding 25 Mbps download and 3 Mbps upload."
-    arcep_note: "Confirmed by the local telecom authority (Hellenic Telecommunications & Post Commission - EETT) that Cosmote holds the largest spectrum portfolio and leads in 5G rollout."
-    connect_note: "Activation works seamlessly via QR code; compatible with most eSIM‑enabled smartphones. Instant setup with no physical SIM required."
-    user_scenarios: "- **Athens Acropolis**: Stream a live guided tour in 4K without buffering, thanks to Cosmote's 200+ Mbps 5G speeds.\n- **Santorini sunset**: Share high‑resolution photos and video calls from Oia with zero lag, using Cosmote's consistent network.\n- **Crete road trip**: Navigate through mountainous terrain with reliable coverage, as Cosmote leads in rural 5G availability."
+    title: "Обзор Cosmote eSIM: Лучшее покрытие и скорость в Греции"
+    best_for: "Этот план – абсолютно лучший выбор для тех, кому нужна максимальная скорость и надёжность. Cosmote признан лучшим мобильным оператором и лучшей сетью 5G в Греции по данным Ookla за первую половину 2025 года."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/greece-speedtest-connectivity-report-h1-2025), Cosmote имеет самую высокую доступность 5G в Греции — 78.5% пользователей большую часть времени находятся в сети 5G.\n- **Скорость загрузки**: Медианная скорость загрузки во всех технологиях составляет 118.8 Мбит/с, а в сети 5G — 200.52 Мбит/с.\n- **Скорость выгрузки**: Медианная скорость выгрузки — 16.25 Мбит/с, в 5G — 20.19 Мбит/с.\n- **Задержка**: Средняя задержка — 41 мс, в 5G — 40 мс.\n- **Стабильность**: Лучшая стабильность 5G: 83.3% тестов соответствуют порогу 25 Мбит/с на загрузку и 3 Мбит/с на выгрузку."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (EETT) как оператор с наибольшим покрытием территории и населения."
+    connect_note: "Активация работает безупречно через QR-код. После установки eSIM телефон автоматически подключается к сети Cosmote."
+    user_scenarios: "- **[Афинский Акрополь]**: Делитесь фотографиями и видео в реальном времени без задержек благодаря скорости 5G до 200 Мбит/с.\n- **[Паром на Санторини]**: Оставайтесь на связи во время морской прогулки — Cosmote обеспечивает стабильное покрытие вдоль популярных маршрутов.\n- **[Горные деревни Крита]**: Используйте навигацию и стриминг без буферизации даже в удалённых районах."
     bg_color: "bg-blue-50"
 
   - id: "vodafone-esim"
-    title: "Vodafone eSIM Review: Strong urban performer"
-    best_for: "This plan is an excellent choice for city travelers and those looking for competitive pricing without sacrificing performance in metropolitan areas."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/greece-speedtest-connectivity-report-h1-2025), Vodafone is the second‑placed provider with a median 5G download speed of 105.34 Mbps.\n- **Download rate**: Median download speed of 70.91 Mbps across all technologies.\n- **Upload rate**: Median upload speed not specified in the raw data, but competitive in urban centers.\n- **Latency**: Not specified in the raw data, but generally low in cities.\n- **Consistency**: No statistical difference from Cosmote for overall consistency, but trails in 5G consistency."
-    arcep_note: "Confirmed by EETT that Vodafone holds significant spectrum and offers robust 4G/5G coverage in all major cities and tourist hubs."
-    connect_note: "Activation works seamlessly via QR code; supports hotspot tethering and multi‑device sharing. Easy top‑up via app."
-    user_scenarios: "- **Thessaloniki waterfront**: Stream music and use navigation apps while walking along the promenade, with Vodafone's reliable city network.\n- **Mykonos nightlife**: Post stories and live‑stream from beach clubs without interruption, thanks to Vodafone's strong 5G in popular tourist spots.\n- **Meteora monasteries**: Use offline maps and messaging apps with consistent 4G/5G coverage around the rock pillars."
+    title: "Обзор Vodafone eSIM: Надёжная альтернатива с хорошим покрытием"
+    best_for: "Этот план – отличный выбор для путешественников, которые хотят сбалансированное соотношение цены и качества. Vodafone занимает второе место по скорости и обеспечивает уверенное покрытие в городах."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/greece-speedtest-connectivity-report-h1-2025), Vodafone активно развивает сеть 5G, но уступает Cosmote по охвату.\n- **Скорость загрузки**: Медианная скорость загрузки — 70.91 Мбит/с, что более чем достаточно для большинства задач.\n- **Скорость выгрузки**: Медианная скорость выгрузки ниже, чем у Cosmote, но остаётся комфортной для видеозвонков.\n- **Задержка**: Низкая задержка обеспечивает плавный серфинг и игры."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (EETT) как один из трёх основных операторов с лицензиями на 5G."
+    connect_note: "Активация простая: сканируете QR-код и пользуетесь интернетом. Сеть Vodafone автоматически выбирается приоритетно."
+    user_scenarios: "- **[Салоники, набережная]**: Смотрите YouTube и общайтесь в мессенджерах без перебоев.\n- **[Метеоры]**: Делитесь впечатлениями от монастырей в Instagram — скорость позволяет загружать фото высокого разрешения.\n- **[Остров Родос]**: Пользуйтесь картами и бронируйте отели на ходу."
     bg_color: "bg-red-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Griechenland eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Griechenland eSIM and local 5G bands"
-cards_free_title: "Get your free Griechenland eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Griechenland"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Griechenland и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Griechenland"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Griechenland eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Griechenland"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Griechenland"
-    content: "Griechenland's mobile networks operate on the following key bands: 4G (LTE) uses bands 3 (1800 MHz), 7 (2600 MHz), and 20 (800 MHz). 5G uses bands n78 (3500 MHz) and n1 (2100 MHz). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Основные диапазоны частот 5G/4G в Греции"
+    content: "Греческие операторы используют следующие диапазоны: 5G — n78 (3.5 ГГц) для высокой скорости и n1 (2100 МГц) для покрытия; 4G/LTE — B3 (1800 МГц), B7 (2600 МГц) и B20 (800 МГц) для широкого охвата. Убедитесь, что ваше устройство поддерживает эти частоты."
 
-  - heading: "2. KYC (Know Your Customer) requirements"
-    content: "All eSIM activations in Griechenland require identity verification. You will need to upload a clear photo of your passport or EU ID card during the purchase process. This is mandatory by Greek law for prepaid SIMs."
+  - heading: "2. Требования KYC и регистрация паспорта"
+    content: "Для покупки и использования eSIM в Греции требуется проверка личности (KYC). Вам необходимо загрузить фотографию паспорта или другого удостоверения личности. Это стандартная процедура, соответствующая местному законодательству."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most prepaid eSIM plans include a Fair Usage Policy. After exceeding a certain data threshold (e.g., 50 GB per month), speeds may be throttled to 1-2 Mbps. Always check the specific plan's FUP before purchasing."
+  - heading: "3. Политика добросовестного использования (Fair Usage Policy)"
+    content: "Большинство тарифов eSIM имеют ограничения по скорости после достижения определённого объёма данных (обычно 20-50 ГБ в месяц). Внимательно читайте условия, чтобы избежать неожиданного снижения скорости."
 
-  - heading: "4. Network coverage in remote areas and islands"
-    content: "While Cosmote offers the best overall coverage, some remote islands and mountainous regions may have limited 5G. 4G is widely available. Check coverage maps on the operator's website before traveling to very remote locations."
+  - heading: "4. Совместимость устройств с eSIM"
+    content: "eSIM поддерживается большинством современных смартфонов: iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее. Проверьте список совместимых устройств на сайте Roami перед покупкой."
 
-  - heading: "5. eSIM compatibility and activation process"
-    content: "Your smartphone must be eSIM‑compatible and carrier‑unlocked. Activation is instant via QR code sent by email. No physical SIM swap is needed. Keep your main number active for calls and SMS while using the eSIM for data."
+  - heading: "5. Срок действия и пополнение тарифа"
+    content: "Тарифы eSIM для Греции обычно действуют от 7 до 30 дней. После истечения срока вы можете продлить тариф или купить новый пакет данных. Некоторые провайдеры предлагают автоматическое продление."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Griechenland"
-city_guide_desc: "Find out which Griechenland eSIM is the best choice for your destination city based on local network performance and coverage."
+city_guide_title: "Городской гид: Лучшая eSIM для Griechenland"
+city_guide_desc: "Узнайте, какая eSIM для Griechenland является лучшим выбором для вашего города назначения. Мы проанализировали данные о скорости и покрытии, чтобы дать вам точные рекомендации."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Athens"
+  - city: "Афины"
     carriers: "Cosmote"
-    reason: "Athens is the capital with the highest population density. Cosmote leads with a median download speed of 118.8 Mbps and 5G speeds of 200.52 Mbps, ensuring fast connectivity in all neighborhoods and tourist sites like the Acropolis and Plaka."
+    reason: "Столица с лучшей инфраструктурой 5G. Cosmote обеспечивает максимальную скорость (до 233 Мбит/с в пригороде Маруси) и стабильность."
 
-  - city: "Thessaloniki"
+  - city: "Салоники"
     carriers: "Vodafone"
-    reason: "Greece's second city has excellent Vodafone coverage. With a median download speed of 70.91 Mbps, Vodafone provides reliable performance for navigating the city center, waterfront, and university areas."
+    reason: "Второй по величине город. Vodafone предлагает отличное покрытие и конкурентоспособные тарифы, идеально для городских прогулок."
 
-  - city: "Heraklion (Crete)"
+  - city: "Ираклион (Крит)"
     carriers: "Cosmote"
-    reason: "Crete is a large island with varied terrain. Cosmote's 78.5% 5G availability ensures strong signals in Heraklion city and along the northern coast, ideal for tourists exploring Knossos and local beaches."
+    reason: "Крупнейший город Крита. Cosmote имеет наилучшее покрытие на острове, включая удалённые пляжи и горные деревни."
 
-  - city: "Patras"
+  - city: "Родос"
     carriers: "Cosmote"
-    reason: "Patras is a major port city with high data demand. Cosmote's consistent network (83.3% 5G consistency) handles peak usage during festivals and ferry arrivals without slowdowns."
+    reason: "Популярный туристический остров. Cosmote лидирует по доступности 5G (78.5%), что важно для туристов, активно использующих интернет."
 
-  - city: "Marousi (Athens suburb)"
-    carriers: "Cosmote"
-    reason: "Marousi recorded the fastest median mobile download speed in Greece at 233.19 Mbps. Cosmote is the top performer here, making it perfect for business travelers and digital nomads in this affluent suburb."
+  - city: "Патра"
+    carriers: "Vodafone"
+    reason: "Третий по величине город. Vodafone обеспечивает надёжное соединение в порту и центре города, удобно для путешественников."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Griechenland eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Griechenland в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Navigate ancient ruins and modern streets with fast 5G. Use Cosmote's network for real‑time translation apps, museum audio guides, and instant photo uploads from the Acropolis or Syntagma Square."
+    title: "Исследователь города"
+    text: "Исследуйте древние руины и современные кварталы Афин. С eSIM Cosmote вы получите скорость до 200 Мбит/с для загрузки карт, бронирования билетов и стриминга."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike the Samaria Gorge or explore the Vikos Gorge with reliable 4G/5G from Cosmote. Share your adventure live, use offline maps, and stay connected even in remote national parks."
+    title: "Любитель природы"
+    text: "Отправляйтесь в горы или на уединённые пляжи. Cosmote обеспечивает лучшее покрытие в сельской местности, позволяя оставаться на связи даже вдали от городов."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the scenic routes of Peloponnese or the mainland with Cosmote's wide coverage. Stream music, use GPS navigation, and video call family without worrying about dead zones."
+    title: "Путешественник на авто"
+    text: "Путешествуйте по материковой Греции и островам. Используйте навигацию в реальном времени, слушайте музыку и делитесь фото — Vodafone предлагает стабильное соединение вдоль основных трасс."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on the beaches of Mykonos, Santorini, or Zakynthos with Vodafone's strong coastal coverage. Post sunset photos, stream beachside playlists, and stay in touch with friends back home."
+    title: "Любитель пляжа"
+    text: "Отдыхайте на пляжах Миконоса или Санторини. С eSIM Cosmote вы сможете смотреть видео в 4K и общаться с друзьями без буферизации."
 
-scene_guide_footer: "💡 The Roami Griechenland eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Griechenland автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Griechenland eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Griechenland"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Does the Griechenland eSIM support hotspot tethering to share data with other devices?"
-    a: "Yes, most Griechenland eSIM plans support hotspot tethering. You can share your data connection with up to 5 devices simultaneously, including laptops, tablets, and other smartphones. Check the specific plan's terms for any tethering limits."
+  - q: "Требуется ли проверка личности (KYC) или регистрация паспорта для покупки и использования eSIM для Griechenland?"
+    a: "Да, для покупки eSIM в Греции требуется проверка личности. Вам необходимо загрузить фотографию паспорта или другого удостоверения личности. Это стандартное требование местного законодательства."
 
-  - q: "How can I transfer my active Griechenland eSIM profile to a new smartphone when I change phones?"
-    a: "Transferring an eSIM profile is not always straightforward. You typically need to deactivate the eSIM on your old device (via settings) and then re‑scan the original QR code on your new phone. Some providers allow a one‑time re‑download. Contact customer support for assistance if needed."
+  - q: "Автоматически ли eSIM переключается на лучшую сеть при пересечении границы или действует только на территории Griechenland?"
+    a: "eSIM для Греции действует только на территории страны. При пересечении границы (например, в Албанию или Турцию) необходимо приобрести отдельный тариф для соответствующей страны."
 
-  - q: "Is there a limit on the number of connected devices when hotspot tethering with the Griechenland eSIM?"
-    a: "Yes, most operators impose a limit of 5 to 10 connected devices. Cosmote and Vodafone typically allow up to 5 devices. Exceeding this limit may result in slower speeds or disconnection. Always verify the tethering policy in your plan's terms."
+  - q: "Предлагает ли Roami круглосуточную онлайн-поддержку, если у меня возникнут проблемы с подключением в Griechenland?"
+    a: "Да, Roami предоставляет круглосуточную онлайн-поддержку через чат и электронную почту. Вы можете обратиться за помощью в любое время."
 
-  - q: "Does network speed in major cities of Griechenland become noticeably slower during evening peak hours?"
-    a: "In major cities like Athens and Thessaloniki, network speeds can decrease during peak hours (7 PM to 10 PM) due to high user density. However, Cosmote's robust infrastructure maintains median speeds above 100 Mbps even during busy periods, as per [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/greece-speedtest-connectivity-report-h1-2025) data."
+  - q: "Какие средние скорости загрузки и выгрузки в сети я могу ожидать в Griechenland?"
+    a: "Согласно данным Ookla, медианная скорость загрузки в Греции составляет 53.80 Мбит/с. Лучший оператор Cosmote обеспечивает 118.8 Мбит/с, а в сети 5G — 200.52 Мбит/с. Скорость выгрузки в среднем 16.25 Мбит/с."
 
-  - q: "What should I do if my Griechenland eSIM does not find a network after successful installation?"
-    a: "First, ensure that your device is not in airplane mode and that mobile data is enabled. Manually select the network operator (Cosmote or Vodafone) in your phone's settings. If the issue persists, restart your device, re‑install the eSIM profile, or contact your eSIM provider's support team for troubleshooting."
+  - q: "Можно ли использовать eSIM для Griechenland в качестве основной карты для всех мобильных подключений к данным?"
+    a: "Да, eSIM можно использовать в качестве основной карты для мобильного интернета. Однако для звонков и SMS рекомендуется использовать физическую SIM-карту вашего домашнего оператора, так как eSIM обычно предоставляет только данные."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Griechenland eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Griechenland"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "All eSIMs in Griechenland offer the same speed and coverage."
-    truth: "False. Cosmote leads with a median download speed of 118.8 Mbps and 5G speeds of 200.52 Mbps, while Vodafone offers 70.91 Mbps. Coverage also varies, with Cosmote having the highest 5G availability at 78.5%."
+  - myth: "В Греции плохой мобильный интернет, особенно на островах."
+    truth: "Это не так. Cosmote обеспечивает медианную скорость 118.8 Мбит/с, а 5G доступна в 78.5% времени. Даже на удалённых островах покрытие хорошее."
 
-  - myth: "You need a Greek ID to buy a prepaid eSIM."
-    truth: "No. Foreign travelers can purchase eSIMs using their passport for KYC verification. EU citizens can use their national ID card. The process is digital and takes only a few minutes."
+  - myth: "eSIM работает только в крупных городах."
+    truth: "eSIM подключается к местным операторам, которые имеют покрытие по всей стране. Cosmote и Vodafone обеспечивают связь в городах, сельской местности и на островах."
 
-  - myth: "5G is only available in Athens and Thessaloniki."
-    truth: "Incorrect. Cosmote's 5G network covers 78.5% of users across the country, including popular islands like Crete, Santorini, and Mykonos. Rural areas also have growing 5G coverage."
+  - myth: "Для использования eSIM нужно покупать новый телефон."
+    truth: "eSIM поддерживается большинством современных смартфонов (iPhone XS и новее, Samsung Galaxy S20 и новее). Проверьте <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">совместимость eSIM</a> вашего устройства."
 
-  - myth: "eSIMs cannot be used for hotspot tethering in Griechenland."
-    truth: "This is false. Most Griechenland eSIM plans support hotspot tethering, allowing you to share data with up to 5 devices. Always check the plan's terms for any restrictions."
+  - myth: "Скорость интернета в Греции очень низкая по сравнению с другими странами Европы."
+    truth: "Средняя скорость загрузки в Греции (53.80 Мбит/с) сопоставима с другими европейскими странами. Cosmote входит в число лучших операторов по скорости 5G."
 
-  - myth: "You must activate your eSIM within 24 hours of purchase."
-    truth: "Not true. eSIM activation codes (QR codes) are typically valid for 30 to 90 days after purchase. You can activate it just before your trip to maximize the validity period."
+  - myth: "После активации eSIM невозможно сменить оператора."
+    truth: "Вы можете удалить профиль eSIM и установить новый от другого провайдера. Процесс прост и занимает несколько минут."
 
 
 # Data sources
-data_sources_title: "Griechenland mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Griechenland"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/greece-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla's Speedtest Intelligence data for 1H 2025 provides median download/upload speeds, 5G performance, consistency, and availability for Greek mobile operators."
+    description: "Отчёт о скорости мобильного интернета в Греции за первую половину 2025 года. Данные основаны на миллионах тестов, проведённых пользователями."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's mobile network experience report for Greece (2025) offers insights on video streaming, voice app experience, and coverage across operators."
+    description: "Анализ покрытия и качества мобильных сетей в Греции, включая показатели доступности 5G и пользовательского опыта."
 
-  - name: "Hellenic Telecommunications & Post Commission (EETT) 2025"
-    description: "EETT's annual report on spectrum allocation, network rollout, and quality of service metrics for all licensed operators in Greece."
+  - name: "EETT (Национальная комиссия по телекоммуникациям и почте Греции) 2024"
+    description: "Официальные данные регулятора о покрытии и качестве услуг операторов связи в Греции."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your specific location, time of day, device capabilities, and network load. Always check the latest coverage maps before traveling."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах и могут не отражать реальный опыт каждого пользователя."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от местоположения, времени суток, загрузки сети и используемого устройства."
 
 # CTA product card
-cta_title: "Secure your Griechenland eSIM today"
-cta_desc: "Get immediate access to high‑speed 5G data with instant activation. No roaming fees, no contracts. Perfect for tourists and business travelers alike."
-cta_button_text: "Buy Griechenland eSIM now"
+cta_title: "Получите вашу eSIM для Griechenland сегодня"
+cta_desc: "Мгновенный доступ к высокоскоростному интернету в Греции. Без роуминга, без скрытых платежей."
+cta_button_text: "Купить eSIM для Griechenland сейчас"
 cta_button_link: "/greece-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Griechenland trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Griechenland"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Griechenland eSIM: Keep your main number active
+# Griechenland eSIM: Экономичные тарифы для поездок
 
-> **💡 Short summary for travelers:** More freedom through device sharing: unlimited 5G data unlimitedly on the go. With a Griechenland eSIM from Roami, you can share your high‑speed connection across all your devices while traveling. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/greece-speedtest-connectivity-report-h1-2025), Cosmote leads with a median download speed of 118.8 Mbps and a 5G median of 200.52 Mbps, ensuring you stay productive and entertained wherever you roam.
+> **💡 Краткое резюме для путешественников:** 【Безстрессовые международные поездки: высокоскоростной интернет в любое время и в любом месте】. Планируете поездку в Грецию? Забудьте о роуминговых сборах и нестабильном Wi-Fi. С eSIM от Roami вы получаете мгновенный доступ к лучшим местным сетям, включая лидера рынка Cosmote. Согласно последним данным Ookla, Cosmote обеспечивает медианную скорость загрузки 118.8 Мбит/с, а в сетях 5G — впечатляющие 200.52 Мбит/с. Это значит, что вы сможете без задержек смотреть видео в высоком разрешении, пользоваться навигацией и оставаться на связи с близкими. Выбирайте Roami для надёжного и быстрого интернета в Греции.
 
-## Things you need to know before buying a Griechenland eSIM
+## Что нужно знать перед покупкой eSIM для Griechenland
 
 
-### 1. Main 5G/4G frequency bands in Griechenland {#1-main-5g4g-frequency-bands-in-griechenland}
-Griechenland's mobile networks operate on the following key bands: 4G (LTE) uses bands 3 (1800 MHz), 7 (2600 MHz), and 20 (800 MHz). 5G uses bands n78 (3500 MHz) and n1 (2100 MHz). Ensure your device supports these bands for optimal performance.
+### 1. Основные диапазоны частот 5G/4G в Греции {#1-основные-диапазоны-частот-5g4g-в-греции}
+Греческие операторы используют следующие диапазоны: 5G — n78 (3.5 ГГц) для высокой скорости и n1 (2100 МГц) для покрытия; 4G/LTE — B3 (1800 МГц), B7 (2600 МГц) и B20 (800 МГц) для широкого охвата. Убедитесь, что ваше устройство поддерживает эти частоты.
 
-### 2. KYC (Know Your Customer) requirements {#2-kyc-know-your-customer-requirements}
-All eSIM activations in Griechenland require identity verification. You will need to upload a clear photo of your passport or EU ID card during the purchase process. This is mandatory by Greek law for prepaid SIMs.
+### 2. Требования KYC и регистрация паспорта {#2-требования-kyc-и-регистрация-паспорта}
+Для покупки и использования eSIM в Греции требуется проверка личности (KYC). Вам необходимо загрузить фотографию паспорта или другого удостоверения личности. Это стандартная процедура, соответствующая местному законодательству.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most prepaid eSIM plans include a Fair Usage Policy. After exceeding a certain data threshold (e.g., 50 GB per month), speeds may be throttled to 1-2 Mbps. Always check the specific plan's FUP before purchasing.
+### 3. Политика добросовестного использования (Fair Usage Policy) {#3-политика-добросовестного-использования-fair-usage-policy}
+Большинство тарифов eSIM имеют ограничения по скорости после достижения определённого объёма данных (обычно 20-50 ГБ в месяц). Внимательно читайте условия, чтобы избежать неожиданного снижения скорости.
 
-### 4. Network coverage in remote areas and islands {#4-network-coverage-in-remote-areas-and-islands}
-While Cosmote offers the best overall coverage, some remote islands and mountainous regions may have limited 5G. 4G is widely available. Check coverage maps on the operator's website before traveling to very remote locations.
+### 4. Совместимость устройств с eSIM {#4-совместимость-устройств-с-esim}
+eSIM поддерживается большинством современных смартфонов: iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее. Проверьте список совместимых устройств на сайте Roami перед покупкой.
 
-### 5. eSIM compatibility and activation process {#5-esim-compatibility-and-activation-process}
-Your smartphone must be eSIM‑compatible and carrier‑unlocked. Activation is instant via QR code sent by email. No physical SIM swap is needed. Keep your main number active for calls and SMS while using the eSIM for data.
+### 5. Срок действия и пополнение тарифа {#5-срок-действия-и-пополнение-тарифа}
+Тарифы eSIM для Греции обычно действуют от 7 до 30 дней. После истечения срока вы можете продлить тариф или купить новый пакет данных. Некоторые провайдеры предлагают автоматическое продление.

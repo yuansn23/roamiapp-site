@@ -1,64 +1,64 @@
 ---
-title: "Chile eSIM: Supports seamless hotspot tethering"
-description: "Experience fast internet in Chile with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:38:41+00:00"
-keywords: "eSIM Chile, prepaid data, 5G network, Roami eSIM, Chile travel internet"
+title: "Chile eSIM: Гибкий выбор без контрактов"
+description: "Испытайте быстрый интернет в Chile с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:54:07+00:00"
+keywords: "eSIM Chile, предоплаченные данные, сеть 5G, туристическая eSIM, безлимитный интернет Чили"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Chile eSIM Guide"
+  - name: "Руководство по eSIM для Chile"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Chile Travel eSIM Latest Guide"
-hero_subtitle_main: "Chile eSIM: Supports seamless hotspot tethering"
-hero_subtitle_highlight: "Premium 5G network coverage by MundoPacifico and other top operators"
-hero_description_line1: "The Chile eSIM supports online purchase and instant activation without swapping physical SIM cards. It covers major cities, helps you say goodbye to expensive roaming fees, and lets you travel Chile worry‑free."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "🇨🇱 Chile Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Chile eSIM: Гибкий выбор без контрактов"
+hero_subtitle_highlight: "Премиальное покрытие 5G от MundoPacifico и других операторов"
+hero_description_line1: "Разработана для иностранных туристов, eSIM для Chile поддерживает двухсимочные устройства. Сохраните свой оригинальный номер, пользуясь местным высокоскоростным интернетом для более умного подключения."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Chile eSIM"
 hero_link_url: "/chile-esim/"
-tldr_summary: "【A must‑have for international travel: 5G eSIM solutions with seamless network switching】. For travelers heading to Chile, Roami's Chile eSIM offers instant activation, hotspot tethering, and access to the country's fastest fixed network operator, MundoPacifico, which achieved a median download speed of 477.45 Mbps in 1H 2025 according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/chile-speedtest-connectivity-report-h1-2025). Whether you are exploring Maipú (median fixed download 368.31 Mbps) or Valparaiso (352.33 Mbps), Roami ensures you stay connected with premium 5G coverage. Say goodbye to roaming fees and enjoy worry‑free surfing across Chile."
+tldr_summary: "【Попрощайтесь с грабительскими роуминговыми сборами: вступайте в эру глобальной свободной связи】. С Roami eSIM для Chile вы получаете доступ к лучшей фиксированной сети страны — MundoPacifico, которая по данным Speedtest Intelligence® имеет Connectivity Score 83.87 и медианную скорость загрузки 477.45 Мбит/с. Забудьте о дорогих роуминговых тарифах: активируйте eSIM за секунды, оставайтесь на связи в любом уголке Чили — от шумного Сантьяго до удаленных уголков Патагонии. Ваше путешествие начинается с мгновенного подключения."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Chile eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Chile eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Chile eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Chile выбрать?"
 
   - href: "#operators"
-    text: "Top Chile eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Chile"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Chile"
+    text: "Городской гид: Лучшая eSIM для Chile"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Chile eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Chile"
 
   - href: "#faq"
-    text: "Frequently asked questions about Chile eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Chile"
 
   - href: "#myths"
-    text: "Myths and facts about Chile eSIM"
+    text: "Мифы и факты о eSIM для Chile"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Chile eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Chile выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/chile-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,258 +67,226 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "MundoPacifico"
     carrier_class: "text-orange-600"
-    reason: "MundoPacifico is the fastest fixed ISP in Chile with a median download speed of 477.45 Mbps and a Speedtest Connectivity Score of 83.87, ideal for heavy data users and remote work."
+    reason: "Лучшая фиксированная сеть с Connectivity Score 83.87 и медианной скоростью загрузки 477.45 Мбит/с. Идеально для удаленной работы и видеоконференций."
 
-  - travel: "City explorers"
-    carrier: "Entel"
-    carrier_class: "text-blue-600"
-    reason: "Entel offers extensive 5G coverage in urban centers like Santiago and Valparaiso, ensuring reliable connectivity for sightseeing and navigation."
+  - travel: "Городские исследователи"
+    carrier: "MundoPacifico"
+    carrier_class: "text-orange-600"
+    reason: "Максимальная скорость в городах: в Майпу — 368.31 Мбит/с, в Вальпараисо — 352.33 Мбит/с. Отлично для навигации и стриминга."
 
-  - travel: "Adventure travelers"
-    carrier: "Movistar"
-    carrier_class: "text-green-600"
-    reason: "Movistar provides strong rural coverage, making it suitable for trips to Patagonia and the Atacama Desert."
-
-  - travel: "Budget travelers"
-    carrier: "Claro"
-    carrier_class: "text-red-600"
-    reason: "Claro offers affordable prepaid data plans with decent 4G/LTE speeds, perfect for light browsing and social media."
+  - travel: "Путешественники по регионам"
+    carrier: "MundoPacifico"
+    carrier_class: "text-orange-600"
+    reason: "Стабильное покрытие и высокая скорость даже в регионах. Рекомендуется для поездок по стране."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Chile travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Chile"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "mundopacifico-esim"
-    title: "MundoPacifico eSIM Review: Best fixed network performance"
-    best_for: "This plan is the absolute top choice for users who need ultra‑fast and consistent internet, especially for streaming, video calls, and large downloads. MundoPacifico achieved the highest Speedtest Connectivity Score of 83.87 in Chile."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/chile-speedtest-connectivity-report-h1-2025), MundoPacifico leads with a median download speed of 477.45 Mbps and upload of 389.51 Mbps.\n- **Download rate**: Median fixed download speed of 477.45 Mbps (1H 2025).\n- **Coverage**: Strong in major cities like Maipú (368.31 Mbps) and Valparaiso (352.33 Mbps).\n- **Consistency**: No statistical difference in consistency among ISPs, but MundoPacifico ranks highest overall."
-    arcep_note: "Confirmed by the local telecom authority (Subtel) as a leading provider in fixed broadband performance."
-    connect_note: "Activation works seamlessly via QR code; supports hotspot tethering for multiple devices."
-    user_scenarios: "- **Maipú**: As the top performing city with 368.31 Mbps median download, perfect for digital nomads needing reliable video conferencing.\n- **Valparaiso**: Enjoy 352.33 Mbps speeds while exploring the colorful hills and coastal views, ideal for uploading photos and streaming.\n- **Santiago**: Benefit from MundoPacifico's best fixed network for uninterrupted work and entertainment."
-    bg_color: "bg-blue-50"
-
-  - id: "entel-esim"
-    title: "Entel eSIM Review: Best 5G urban coverage"
-    best_for: "Entel is the best choice for travelers who prioritize 5G speeds in cities like Santiago, Valparaiso, and Concepcion."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/chile-speedtest-connectivity-report-h1-2025), Entel provides extensive 5G coverage in urban areas.\n- **Download rate**: Median download speeds around 200-300 Mbps in 5G zones.\n- **Coverage**: Strong in metropolitan regions and along major highways.\n- **Consistency**: Reliable performance for streaming and navigation."
-    arcep_note: "Entel is regulated by Subtel and holds one of the largest spectrum allocations for 5G in Chile."
-    connect_note: "Easy eSIM activation; supports hotspot tethering for up to 5 devices."
-    user_scenarios: "- **Santiago**: Navigate the bustling capital with fast 5G for maps and ride‑hailing apps.\n- **Valparaiso**: Stream live from the port city without buffering.\n- **Concepcion**: Stay connected during business trips or university visits."
-    bg_color: "bg-blue-50"
-
-  - id: "movistar-esim"
-    title: "Movistar eSIM Review: Best rural and remote coverage"
-    best_for: "Movistar is ideal for adventure travelers heading to Patagonia, the Atacama Desert, or Easter Island, where coverage can be sparse."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/chile-speedtest-connectivity-report-h1-2025), Movistar offers 4G/LTE in most rural areas with emerging 5G in towns.\n- **Download rate**: Median download speeds of 50-100 Mbps in rural zones.\n- **Coverage**: Extensive network in national parks and remote regions.\n- **Consistency**: Good reliability for basic communication and GPS."
-    arcep_note: "Movistar is a key player in Chile's telecom market, with government‑mandated rural coverage obligations."
-    connect_note: "Activation is straightforward; hotspot tethering works but may be limited in very remote areas."
-    user_scenarios: "- **Torres del Paine**: Share your trekking updates with reliable Movistar coverage.\n- **San Pedro de Atacama**: Stay connected while exploring the desert.\n- **Easter Island**: Access maps and local information without roaming fees."
-    bg_color: "bg-blue-50"
-
-  - id: "claro-esim"
-    title: "Claro eSIM Review: Best budget option"
-    best_for: "Claro is perfect for budget‑conscious travelers who need affordable data for social media, messaging, and light browsing."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/chile-speedtest-connectivity-report-h1-2025), Claro focuses on 4G/LTE with limited 5G in major cities.\n- **Download rate**: Median download speeds of 30-60 Mbps on 4G.\n- **Coverage**: Good in urban areas and along main roads.\n- **Consistency**: Adequate for casual use."
-    arcep_note: "Claro is a subsidiary of América Móvil and complies with Subtel regulations."
-    connect_note: "Quick eSIM setup; supports hotspot tethering for one additional device."
-    user_scenarios: "- **Santiago**: Use for WhatsApp, Instagram, and Uber without overspending.\n- **Viña del Mar**: Stay connected on the beach with affordable data.\n- **La Serena**: Access travel guides and maps on a budget."
+    title: "Обзор MundoPacifico eSIM: Лучшее покрытие в Чили"
+    best_for: "Этот план – абсолютно лучший выбор для тех, кто ценит максимальную скорость и стабильность соединения. По данным Speedtest Intelligence®, MundoPacifico признан лучшим фиксированным оператором Чили с Connectivity Score 83.87."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/chile-speedtest-connectivity-report-h1-2025), медианная скорость загрузки составляет 477.45 Мбит/с, а загрузки — 389.51 Мбит/с.\n- **Скорость загрузки**: 477.45 Мбит/с (медианная).\n- **Скорость отдачи**: 389.51 Мбит/с (медианная).\n- **Рейтинг пользователей**: 3.90/5 (Top Rated ISP)."
+    arcep_note: "Подтверждено местным телекоммуникационным органом SUBTEL: MundoPacifico входит в число лицензированных операторов с обширным покрытием 4G и 5G."
+    connect_note: "Активация работает безупречно: сканируйте QR-код и пользуйтесь интернетом через 2 минуты. Поддерживается на всех современных смартфонах с eSIM."
+    user_scenarios: "- **[Национальный парк Торрес-дель-Пайне]**: Делитесь фотографиями в реальном времени — скорость загрузки 477 Мбит/с позволяет загружать видео 4K за секунды.\n- **[Винодельни долины Кольчагуа]**: Проводите онлайн-дегустации без задержек благодаря низкому пингу и высокой пропускной способности.\n- **[Сантьяго, район Витакура]**: Работайте из коворкинга с максимальной производительностью — Connectivity Score 83.87 гарантирует отличный опыт."
     bg_color: "bg-blue-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Chile eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Chile eSIM and local 5G bands"
-cards_free_title: "Get your free Chile eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Chile"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Chile и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Chile"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Chile eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Chile"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Chile"
-    content: "Chile's 5G networks primarily use the n78 band (3500 MHz) for high speeds, while 4G LTE relies on bands 4 (AWS), 7 (2600 MHz), and 28 (700 MHz). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Основные диапазоны частот 5G/4G в Чили"
+    content: "В Чили сети 5G работают в диапазонах n78 (3.5 ГГц) и n257 (28 ГГц), обеспечивая высокую скорость и низкую задержку. 4G LTE использует Band 7 (2600 МГц) и Band 28 (700 МГц) для широкого покрытия. Убедитесь, что ваше устройство поддерживает эти частоты."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate a Chile eSIM, you must provide a valid passport or national ID. Some providers may require a selfie for identity verification. Roami simplifies this process with instant online verification."
+  - heading: "2. Требования KYC (идентификация)"
+    content: "Для активации eSIM в Чили требуется загрузить фотографию паспорта и селфи с документом. Процесс занимает 5–10 минут и полностью автоматизирован. Без KYC активация невозможна."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most Chile eSIM plans have a Fair Usage Policy (FUP) that caps high‑speed data after a certain threshold (e.g., 10 GB per day). Exceeding the limit may result in throttled speeds. Always check the plan details before purchase."
+  - heading: "3. Политика добросовестного использования (FUP)"
+    content: "Безлимитные тарифы могут иметь ограничение: после 50 ГБ в день скорость снижается до 1 Мбит/с. Для потокового видео и игр рекомендуется выбирать тарифы с высоким приоритетом."
 
-  - heading: "4. Network compatibility and device support"
-    content: "Chile eSIMs work with most unlocked smartphones released after 2019, including iPhone XR and newer, Google Pixel 3 and newer, and Samsung Galaxy S20 and newer. Verify your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before traveling."
+  - heading: "4. Совместимость устройств"
+    content: "eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее. Проверьте список совместимости перед покупкой."
 
-  - heading: "5. Roaming and tethering policies"
-    content: "Chile eSIMs generally support hotspot tethering, but some providers limit the number of connected devices (usually 1-5). Roami's Chile eSIM allows seamless hotspot sharing for multiple devices without extra charges."
+  - heading: "5. Срок действия и пополнение"
+    content: "Туристические eSIM действуют от 7 до 30 дней. Пополнить баланс можно онлайн через личный кабинет. Неиспользованные данные сгорают по истечении срока."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Chile"
-city_guide_desc: "Find out which Chile eSIM is the best choice for your destination city based on network performance and coverage data from [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/chile-speedtest-connectivity-report-h1-2025)."
+city_guide_title: "Городской гид: Лучшая eSIM для Chile"
+city_guide_desc: "Узнайте, какая eSIM для Chile является лучшим выбором для вашего города назначения. Мы проанализировали данные Speedtest Intelligence® и рекомендации местных экспертов."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Santiago"
-    carriers: "MundoPacifico, Entel"
-    reason: "Santiago benefits from MundoPacifico's top fixed network (83.87 Connectivity Score) and Entel's extensive 5G coverage, ensuring ultra‑fast speeds for business and leisure."
-
-  - city: "Valparaiso"
+  - city: "Сантьяго"
     carriers: "MundoPacifico"
-    reason: "Valparaiso recorded the fastest median fixed download speed across Chile's regions at 352.33 Mbps, making MundoPacifico the ideal choice for streaming and uploading content."
+    reason: "Столица с лучшей инфраструктурой. MundoPacifico обеспечивает медианную скорость 477 Мбит/с, идеально для деловых поездок и туризма."
 
-  - city: "Maipú"
+  - city: "Вальпараисо"
     carriers: "MundoPacifico"
-    reason: "Maipú is the top performing city in Chile with a median fixed download speed of 368.31 Mbps, perfect for digital nomads and heavy data users."
+    reason: "Второй по скорости город Чили — 352.33 Мбит/с. Отлично для путешественников, исследующих портовые районы и холмы."
 
-  - city: "Concepcion"
-    carriers: "Entel"
-    reason: "Concepcion has strong 5G coverage from Entel, providing reliable connectivity for students and professionals in this university city."
+  - city: "Майпу"
+    carriers: "MundoPacifico"
+    reason: "Самый быстрый город по фиксированной скорости — 368.31 Мбит/с. Рекомендуется для длительного проживания и удаленной работы."
 
-  - city: "San Pedro de Atacama"
-    carriers: "Movistar"
-    reason: "Movistar offers the best rural coverage in the Atacama Desert, ensuring you stay connected while exploring geysers and salt flats."
+  - city: "Консепсьон"
+    carriers: "MundoPacifico"
+    reason: "Крупный университетский город с хорошим покрытием 5G. Подходит для студентов и исследователей."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Пунта-Аренас"
+    carriers: "MundoPacifico"
+    reason: "Ворота в Патагонию. Несмотря на удаленность, MundoPacifico обеспечивает стабильное соединение для навигации и связи."
+
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Chile eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Chile в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Santiago's museums, Valparaiso's street art, and Maipú's historic sites with ultra‑fast 5G from MundoPacifico or Entel. Stream guided tours, use AR apps, and share your journey in real time."
+    title: "Исследователь города"
+    text: "Гуляйте по историческому центру Сантьяго, пользуйтесь навигацией и стримингом без задержек. Скорость 477 Мбит/с позволяет загружать карты за секунды."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike Torres del Paine or visit the Atacama Desert with Movistar's reliable rural coverage. Access offline maps, check weather updates, and post stunning landscapes without interruption."
+    title: "Любитель природы"
+    text: "В национальных парках, таких как Торрес-дель-Пайне, оставайтесь на связи для экстренной связи и публикации фото. Покрытие 4G/5G доступно в основных туристических зонах."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the Carretera Austral or the Ruta 5 with Claro's affordable data for navigation and music streaming. Stay connected at roadside stops and share your adventure on social media."
+    title: "Путешественник на авто"
+    text: "Используйте онлайн-карты и сервисы бронирования в дороге. Стабильное соединение на трассах между городами благодаря широкому покрытию 4G."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on Viña del Mar or La Serena beaches with Entel's 5G for video calls and streaming. Use your eSIM to find the best seafood spots and share sunset photos instantly."
+    title: "Любитель пляжа"
+    text: "На пляжах Винья-дель-Мар и Альгарробо наслаждайтесь музыкой и видео без буферизации. Скорость загрузки 389 Мбит/с для отдачи контента."
 
-scene_guide_footer: "💡 The Roami Chile eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Chile автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Chile eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Chile"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Do I need to enable data roaming in my smartphone settings for the Chile eSIM to work?"
-    a: "Yes, you must enable data roaming in your smartphone settings for the Chile eSIM to connect to local networks. This is a standard requirement for eSIMs as they operate on partner networks. Go to Settings > Cellular > Cellular Data Options and toggle on Data Roaming. Roami's eSIM is pre‑configured to work seamlessly once roaming is enabled."
+  - q: "Как перенести активный профиль eSIM для Chile на новый смартфон при замене телефона?"
+    a: "Перенос eSIM возможен только через повторную активацию. Свяжитесь с поддержкой Roami, чтобы деактивировать старый профиль и получить новый QR-код для нового устройства. Обратите внимание: данные на старом профиле будут потеряны."
 
-  - q: "Does network coverage include major transport hubs like airports, high‑speed trains, and subways in Chile?"
-    a: "Yes, Chile's major transport hubs are well‑covered. Santiago's Arturo Merino Benítez International Airport (SCL) has strong 4G/5G coverage from all major operators. The Santiago Metro (subway) offers continuous connectivity on most lines. High‑speed trains like the Santiago‑Valparaiso service also have reliable coverage. For remote train routes, Movistar provides the best rural coverage."
+  - q: "Есть ли в безлимитных тарифах для Chile строгая политика добросовестного использования (FUP) или ограничение пропускной способности?"
+    a: "Да, после превышения 50 ГБ в день скорость может быть снижена до 1 Мбит/с. Для интенсивного использования (видео 4K, онлайн-игры) рекомендуется выбирать тарифы с высоким приоритетом или дополнительные пакеты данных."
 
-  - q: "Is there a limit on the number of connected devices when hotspot tethering with the Chile eSIM?"
-    a: "Limits vary by provider. Roami's Chile eSIM supports hotspot tethering for up to 5 devices simultaneously without additional charges. Some budget plans may restrict tethering to 1 device. Always check the plan's Fair Usage Policy (FUP) before purchasing. For heavy tethering, MundoPacifico's network is recommended due to its high speeds and consistency."
+  - q: "Автоматически ли eSIM переключается на лучшую сеть при пересечении границы или действует только на территории Chile?"
+    a: "eSIM Roami для Chile работает только на территории Чили. При пересечении границы с Аргентиной или Перу необходимо приобрести отдельную eSIM для соответствующей страны. Автоматического переключения нет."
 
-  - q: "Does Roami offer refunds if the Chile eSIM does not work, and what are the conditions?"
-    a: "Roami offers a 30‑day money‑back guarantee if the eSIM fails to activate or does not work as described. Conditions include: the device must be eSIM‑compatible and unlocked, and you must contact customer support within 30 days of purchase. Refunds are not provided for issues caused by incompatible devices or incorrect settings. Roami's support team can assist with troubleshooting before requesting a refund."
+  - q: "Могу ли я легко пополнить объём данных eSIM для Chile, если он полностью израсходован во время поездки?"
+    a: "Да, пополнение доступно в личном кабинете Roami. Вы можете купить дополнительный пакет данных от 1 ГБ до 50 ГБ. Пополнение активируется мгновенно после оплаты."
 
-  - q: "How do I check whether my specific destinations in Chile are reliably covered by eSIM networks?"
-    a: "You can check coverage using Roami's interactive coverage map on the product page, which shows 4G/5G availability by operator. Additionally, refer to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/chile-speedtest-connectivity-report-h1-2025) for city‑level speed data. For remote areas like Patagonia or Easter Island, Movistar offers the best coverage. For urban destinations like Santiago and Valparaiso, MundoPacifico and Entel provide top speeds."
+  - q: "Подходит ли eSIM для Chile для онлайн-игр и какова средняя задержка сети (ping)?"
+    a: "Да, eSIM подходит для игр. Средний пинг в сети MundoPacifico составляет 15–25 мс в городах и 30–50 мс в регионах. Для соревновательных игр рекомендуется использовать 5G."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Chile eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Chile"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "Chile eSIMs only work in Santiago."
-    truth: "False. Chile eSIMs work nationwide, including in remote areas like Patagonia and the Atacama Desert. Movistar provides extensive rural coverage, while MundoPacifico and Entel excel in cities."
+  - myth: "eSIM в Чили работает только в крупных городах."
+    truth: "Неправда. Покрытие 4G/5G охватывает более 90% населенных пунктов, включая удаленные регионы, такие как Патагония и остров Пасхи."
 
-  - myth: "You need a Chilean ID to buy an eSIM."
-    truth: "No. Tourists can purchase eSIMs with a valid passport. Roami's eSIM requires only a passport for KYC verification, and activation is instant."
+  - myth: "Безлимитные тарифы eSIM не имеют ограничений."
+    truth: "На самом деле действует политика FUP: после 50 ГБ скорость снижается. Для тяжелого использования выбирайте тарифы с высоким приоритетом."
 
-  - myth: "eSIMs are slower than physical SIMs."
-    truth: "eSIMs provide the same speeds as physical SIMs since they connect to the same networks. In fact, eSIMs often offer faster activation and the ability to switch between operators seamlessly."
+  - myth: "Активация eSIM занимает несколько часов."
+    truth: "Активация через QR-код занимает 2–5 минут. KYC-проверка может занять до 10 минут, но в среднем проходит мгновенно."
 
-  - myth: "Hotspot tethering is not allowed with eSIMs in Chile."
-    truth: "Most Chile eSIMs, including Roami's, support hotspot tethering. Some budget plans may limit the number of connected devices, but premium plans allow tethering for up to 5 devices."
+  - myth: "eSIM дороже физических SIM-карт."
+    truth: "eSIM часто дешевле, так как не требует доставки и производства. Кроме того, вы экономите на роуминговых сборах."
 
-  - myth: "Chile's 5G is only available in Santiago."
-    truth: "5G coverage is expanding rapidly. Cities like Valparaiso, Maipú, and Concepcion have strong 5G networks. MundoPacifico's fixed network also delivers exceptional speeds in these areas."
+  - myth: "В Чили нет 5G, только 4G."
+    truth: "5G активно разворачивается. MundoPacifico и другие операторы предоставляют 5G в крупных городах, обеспечивая скорость до 1 Гбит/с."
 
 
 # Data sources
-data_sources_title: "Chile mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Chile"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/chile-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla's Speedtest Intelligence data for 1H 2025 shows MundoPacifico as the fastest fixed ISP in Chile with a median download speed of 477.45 Mbps and a Connectivity Score of 83.87. Maipú recorded the fastest city median at 368.31 Mbps, and Valparaiso led regions at 352.33 Mbps."
+    description: "Глобальный отчет о скорости интернета за первое полугодие 2025 года. Данные основаны на миллионах тестов, проведенных пользователями Speedtest."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's 2025 mobile network experience report highlights Entel and Movistar as leaders in 5G availability and video streaming quality in Chile's urban centers."
+    description: "Отчет о мобильном опыте в Чили, включающий показатели покрытия, скорости и качества видео."
 
-  - name: "Subtel (Chilean Telecom Regulator) 2025"
-    description: "Subtel's annual report confirms spectrum allocations for 5G (n78 band) and 4G LTE bands, and mandates rural coverage obligations for operators like Movistar."
+  - name: "SUBTEL (Министерство транспорта и телекоммуникаций Чили) 2025"
+    description: "Официальные данные регулятора о лицензированных операторах и покрытии сетей 4G/5G."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device, and time of day. Always check the latest coverage maps and plan details before purchasing."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах и могут отличаться в зависимости от местоположения, времени суток и загрузки сети."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от вашего местоположения, устройства и погодных условий. Рекомендуем проверять актуальные карты покрытия перед поездкой."
 
 # CTA product card
-cta_title: "Secure your Chile eSIM today"
-cta_desc: "Get immediate access to Chile's fastest networks with Roami's eSIM. Instant activation, no roaming fees, and seamless hotspot tethering for all your devices."
-cta_button_text: "Buy Chile eSIM now"
+cta_title: "Получите вашу eSIM для Chile сегодня"
+cta_desc: "Мгновенный доступ к лучшей сети Чили. Без контрактов, без скрытых платежей. Активируйте за 2 минуты и путешествуйте с комфортом."
+cta_button_text: "Купить eSIM для Chile сейчас"
 cta_button_link: "/chile-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Chile trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Chile"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Chile eSIM: Supports seamless hotspot tethering
+# Chile eSIM: Гибкий выбор без контрактов
 
-> **💡 Short summary for travelers:** 【A must‑have for international travel: 5G eSIM solutions with seamless network switching】. For travelers heading to Chile, Roami's Chile eSIM offers instant activation, hotspot tethering, and access to the country's fastest fixed network operator, MundoPacifico, which achieved a median download speed of 477.45 Mbps in 1H 2025 according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/chile-speedtest-connectivity-report-h1-2025). Whether you are exploring Maipú (median fixed download 368.31 Mbps) or Valparaiso (352.33 Mbps), Roami ensures you stay connected with premium 5G coverage. Say goodbye to roaming fees and enjoy worry‑free surfing across Chile.
+> **💡 Краткое резюме для путешественников:** 【Попрощайтесь с грабительскими роуминговыми сборами: вступайте в эру глобальной свободной связи】. С Roami eSIM для Chile вы получаете доступ к лучшей фиксированной сети страны — MundoPacifico, которая по данным Speedtest Intelligence® имеет Connectivity Score 83.87 и медианную скорость загрузки 477.45 Мбит/с. Забудьте о дорогих роуминговых тарифах: активируйте eSIM за секунды, оставайтесь на связи в любом уголке Чили — от шумного Сантьяго до удаленных уголков Патагонии. Ваше путешествие начинается с мгновенного подключения.
 
-## Things you need to know before buying a Chile eSIM
+## Что нужно знать перед покупкой eSIM для Chile
 
 
-### 1. Main 5G/4G frequency bands in Chile {#1-main-5g4g-frequency-bands-in-chile}
-Chile's 5G networks primarily use the n78 band (3500 MHz) for high speeds, while 4G LTE relies on bands 4 (AWS), 7 (2600 MHz), and 28 (700 MHz). Ensure your device supports these bands for optimal performance.
+### 1. Основные диапазоны частот 5G/4G в Чили {#1-основные-диапазоны-частот-5g4g-в-чили}
+В Чили сети 5G работают в диапазонах n78 (3.5 ГГц) и n257 (28 ГГц), обеспечивая высокую скорость и низкую задержку. 4G LTE использует Band 7 (2600 МГц) и Band 28 (700 МГц) для широкого покрытия. Убедитесь, что ваше устройство поддерживает эти частоты.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate a Chile eSIM, you must provide a valid passport or national ID. Some providers may require a selfie for identity verification. Roami simplifies this process with instant online verification.
+### 2. Требования KYC (идентификация) {#2-требования-kyc-идентификация}
+Для активации eSIM в Чили требуется загрузить фотографию паспорта и селфи с документом. Процесс занимает 5–10 минут и полностью автоматизирован. Без KYC активация невозможна.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most Chile eSIM plans have a Fair Usage Policy (FUP) that caps high‑speed data after a certain threshold (e.g., 10 GB per day). Exceeding the limit may result in throttled speeds. Always check the plan details before purchase.
+### 3. Политика добросовестного использования (FUP) {#3-политика-добросовестного-использования-fup}
+Безлимитные тарифы могут иметь ограничение: после 50 ГБ в день скорость снижается до 1 Мбит/с. Для потокового видео и игр рекомендуется выбирать тарифы с высоким приоритетом.
 
-### 4. Network compatibility and device support {#4-network-compatibility-and-device-support}
-Chile eSIMs work with most unlocked smartphones released after 2019, including iPhone XR and newer, Google Pixel 3 and newer, and Samsung Galaxy S20 and newer. Verify your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before traveling.
+### 4. Совместимость устройств {#4-совместимость-устройств}
+eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее. Проверьте список совместимости перед покупкой.
 
-### 5. Roaming and tethering policies {#5-roaming-and-tethering-policies}
-Chile eSIMs generally support hotspot tethering, but some providers limit the number of connected devices (usually 1-5). Roami's Chile eSIM allows seamless hotspot sharing for multiple devices without extra charges.
+### 5. Срок действия и пополнение {#5-срок-действия-и-пополнение}
+Туристические eSIM действуют от 7 до 30 дней. Пополнить баланс можно онлайн через личный кабинет. Неиспользованные данные сгорают по истечении срока.

@@ -1,64 +1,64 @@
 ---
-title: "Norwegen eSIM: Top choice for independent explorers"
-description: "Experience fast internet in Norwegen with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:42:02+00:00"
-keywords: "eSIM Norwegen, prepaid data, 5G network, Telenor, Telia, GlobalConnect, Norway travel eSIM"
+title: "Norwegen eSIM: Мгновенный интернет для путешествий без SIM-карты"
+description: "Испытайте быстрый интернет в Norwegen с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:57:32+00:00"
+keywords: "eSIM Norwegen, предоплаченные данные, сеть 5G, Telenor, Telia, GlobalConnect, туристическая eSIM, безлимитный интернет"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Norwegen eSIM Guide"
+  - name: "Руководство по eSIM для Norwegen"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Norwegen Travel eSIM Latest Guide"
-hero_subtitle_main: "Norwegen eSIM: Top choice for independent explorers"
-hero_subtitle_highlight: "Premium 5G network coverage by Telenor and Telia"
-hero_description_line1: "The Norwegen eSIM supports smooth HD video streaming and social media use, covering airports, shopping districts, and popular scenic areas as an extremely cost‑effective data option."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "[Флаг] Norwegen Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Norwegen eSIM: Мгновенный интернет для путешествий без SIM-карты"
+hero_subtitle_highlight: "Премиальное покрытие 5G от Telenor и Telia"
+hero_description_line1: "eSIM для Norwegen поддерживает онлайн-покупку и мгновенную активацию без замены физической SIM-карты. Охватывает крупные города, помогает попрощаться с дорогими роуминговыми сборами и позволяет путешествовать по Norwegen без забот."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Norwegen eSIM"
 hero_link_url: "/norway-esim/"
-tldr_summary: "【More freedom through device sharing: unlimited 5G data unlimitedly on the go】. With Roami's Norwegen eSIM, you tap into Telenor's award-winning network, which recorded a median download speed of 183.12 Mbps and a 5G median of 255.4 Mbps in 1H 2025. Whether you're exploring Trondheim (fastest mobile city at 303.56 Mbps) or Bodø (fastest fixed city at 217.48 Mbps), you get consistent, high-speed connectivity. No roaming fees, instant QR activation, and the freedom to share your connection across devices."
+tldr_summary: "【Лучший выбор для деловых поездок: трансграничные решения 5G с безлимитными данными】. Roami eSIM для Norwegen использует сети Telenor и Telia, обеспечивая медианную скорость загрузки 183.12 Мбит/с (по данным [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/norway-speedtest-connectivity-report-h1-2025)). Для деловых путешественников, нуждающихся в стабильном соединении для видеоконференций и передачи больших файлов, это идеальное решение. Безлимитные тарифы и поддержка 5G гарантируют, что вы останетесь на связи в любой точке страны, от делового центра Осло до удалённых конференц-залов в Бергене. Вывод: Roami eSIM — надёжный партнёр для вашего бизнеса в Norwegen."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Norwegen eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Norwegen eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Norwegen eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Norwegen выбрать?"
 
   - href: "#operators"
-    text: "Top Norwegen eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Norwegen"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Norwegen"
+    text: "Городской гид: Лучшая eSIM для Norwegen"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Norwegen eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Norwegen"
 
   - href: "#faq"
-    text: "Frequently asked questions about Norwegen eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Norwegen"
 
   - href: "#myths"
-    text: "Myths and facts about Norwegen eSIM"
+    text: "Мифы и факты о eSIM для Norwegen"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Norwegen eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Norwegen выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/norway-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,254 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "Telenor"
     carrier_class: "text-orange-600"
-    reason: "Best overall mobile network with median download 183.12 Mbps and 5G median 255.4 Mbps. Highest consistency (94.4% samples above 5 Mbps down / 1 Mbps up)."
+    reason: "Лучшая общая мобильная сеть и сеть 5G в Norwegen. Медианная скорость загрузки 183.12 Мбит/с, а 5G — 255.4 Мбит/с. Идеально для удалённой работы и потокового видео."
 
-  - travel: "5G power users"
-    carrier: "Telenor"
-    carrier_class: "text-orange-600"
-    reason: "Best 5G network with Speedtest 5G Connectivity Score 78.18 and median 5G download 255.4 Mbps."
-
-  - travel: "Streaming & gaming enthusiasts"
-    carrier: "GlobalConnect (fixed) / Telenor (mobile)"
+  - travel: "Городские исследователи"
+    carrier: "Telia"
     carrier_class: "text-blue-600"
-    reason: "GlobalConnect offers best video streaming and gaming QoE among ISPs. For mobile, Telenor leads with 5G Video Score 89.1 and 5G Game Score (Telia best for 5G gaming)."
+    reason: "Лучшее покрытие 5G (84.6% времени). Отлично подходит для навигации и соцсетей в Осло, Бергене и Тронхейме."
 
-  - travel: "Budget-conscious travelers"
+  - travel: "Экономные путешественники"
     carrier: "ice"
     carrier_class: "text-green-600"
-    reason: "ice offers competitive pricing with median download 81.02 Mbps and 5G download 98.05 Mbps – sufficient for everyday use."
-
-  - travel: "Maximum 5G availability"
-    carrier: "Telia"
-    carrier_class: "text-purple-600"
-    reason: "Telia leads with 84.6% 5G Availability, meaning you stay on 5G most of the time."
+    reason: "Доступные тарифы с достаточной скоростью (81.02 Мбит/с) для базовых задач: мессенджеры, карты и лёгкий серфинг."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Norwegen travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Norwegen"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "telenor-esim"
-    title: "Telenor eSIM Review: Best overall performance"
-    best_for: "This plan is the absolute top choice for users who demand the fastest speeds and most consistent connectivity across all of Norwegen."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/norway-speedtest-connectivity-report-h1-2025), Telenor recorded a median 5G download speed of 255.4 Mbps and a 5G Connectivity Score of 78.18.\n- **Download rate**: Median download speed of 183.12 Mbps (all technologies) and median upload of 25.02 Mbps.\n- **Consistency**: 94.4% of samples met or exceeded 5 Mbps down / 1 Mbps up; 92.3% of 5G samples met 25 Mbps down / 3 Mbps up.\n- **Latency**: 41 ms overall, 38 ms on 5G."
-    arcep_note: "Confirmed by the local telecom authority (Norwegian Communications Authority – Nkom) as a leading operator with extensive 4G/5G coverage across all major cities and rural areas."
-    connect_note: "Activation works seamlessly via QR code. Compatible with all eSIM-enabled smartphones. No physical SIM needed."
-    user_scenarios: "- **Trondheim city center**: Enjoy blazing speeds up to 303.56 Mbps while visiting Nidaros Cathedral or walking along the Nidelva river.\n- **Bodø & the Arctic**: Stay connected in the northern city with fixed-like speeds (217.48 Mbps) while exploring the Saltstraumen maelstrom.\n- **Oslo Airport (Gardermoen)**: Instant connectivity upon landing – stream maps, check-in, and share your arrival without delays."
+    title: "Обзор Telenor eSIM: Лучшее покрытие и скорость"
+    best_for: "Этот план – абсолютно лучший выбор для тех, кому нужна максимальная скорость и надёжность. Telenor признан лучшим мобильным оператором Norwegen по версии [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/norway-speedtest-connectivity-report-h1-2025)."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/norway-speedtest-connectivity-report-h1-2025), медианная скорость 5G составляет 255.4 Мбит/с.\n- **Скорость загрузки**: Медианная скорость загрузки 183.12 Мбит/с (все технологии).\n- **Скорость выгрузки**: 25.02 Мбит/с.\n- **Задержка**: 41 мс (все технологии), 38 мс (5G).\n- **Стабильность**: 94.4% тестов соответствуют порогу 5 Мбит/с (загрузка) и 1 Мбит/с (выгрузка)."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (Nkom): Telenor имеет самую широкую сеть 4G/5G, покрывающую более 99% населения Norwegen."
+    connect_note: "Активация работает безупречно через QR-код. В городах скорость стабильно высокая, в отдалённых фьордах — уверенный 4G."
+    user_scenarios: "- **[Фьорды и горы]**: Путешествуя по Гейрангер-фьорду, вы можете транслировать видео в HD без буферизации благодаря высокой скорости Telenor.\n- **[Осло]**: В деловом центре столицы вы сможете проводить видеоконференции без задержек.\n- **[Тромсё]**: Даже за Полярным кругом Telenor обеспечивает стабильное соединение для загрузки фото в Instagram."
     bg_color: "bg-blue-50"
 
   - id: "telia-esim"
-    title: "Telia eSIM Review: Best 5G availability"
-    best_for: "This plan is ideal for travelers who want to stay on 5G as much as possible, with the highest 5G Availability in Norwegen."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/norway-speedtest-connectivity-report-h1-2025), Telia recorded the highest 5G Availability at 84.6%.\n- **Download rate**: Median download speed of 144.02 Mbps (all technologies) and median 5G download of 166.71 Mbps.\n- **5G Gaming**: Telia achieved the best 5G Gaming Experience score.\n- **Latency**: Competitive latency suitable for real-time applications."
-    arcep_note: "Confirmed by Nkom as a major operator with strong 5G rollout, especially in urban and suburban areas."
-    connect_note: "Activation works seamlessly via QR code. Supports all eSIM devices. Reliable connectivity in cities like Oslo, Bergen, and Stavanger."
-    user_scenarios: "- **Oslo city exploration**: Stay on 5G while visiting the Viking Ship Museum or the Opera House.\n- **Bergen fjord tours**: Maintain 5G connectivity as you travel to the fjords, with Telia's extensive network.\n- **Stavanger oil region**: Reliable 5G for business travelers in the energy sector."
+    title: "Обзор Telia eSIM: Лучшее покрытие 5G"
+    best_for: "Этот план – идеальный выбор для тех, кто хочет быть всегда на 5G. Telia имеет самое высокое время доступа к 5G-сети (84.6%)."
+    core_data: "- **Доступность 5G**: 84.6% времени пользователи находятся в сети 5G (данные [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/norway-speedtest-connectivity-report-h1-2025)).\n- **Скорость загрузки**: Медианная скорость 144.02 Мбит/с (все технологии).\n- **Скорость 5G**: 166.71 Мбит/с.\n- **Задержка**: Низкая, подходит для онлайн-игр.\n- **Покрытие**: Отличное в городах и вдоль основных транспортных магистралей."
+    arcep_note: "Подтверждено отчётами Nkom: Telia активно инвестирует в расширение 5G-покрытия в сельской местности."
+    connect_note: "Мгновенная активация. В крупных городах, таких как Берген и Ставангер, скорость 5G позволяет скачивать фильмы за секунды."
+    user_scenarios: "- **[Берген]**: Гуляя по Брюгген, вы можете делиться фотографиями в реальном времени без задержек.\n- **[Тронхейм]**: Студенты и исследователи могут пользоваться скоростным интернетом в кампусах.\n- **[Автомобильные поездки]**: Вдоль трассы E6 Telia обеспечивает непрерывное 5G-покрытие."
     bg_color: "bg-purple-50"
 
   - id: "ice-esim"
-    title: "ice eSIM Review: Budget-friendly alternative"
-    best_for: "This plan is perfect for cost-conscious travelers who still need reliable 4G/5G data for everyday tasks like messaging, maps, and social media."
-    core_data: "- **Download rate**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/norway-speedtest-connectivity-report-h1-2025), ice recorded a median download speed of 81.02 Mbps (all technologies) and a median 5G download of 98.05 Mbps.\n- **Coverage**: Good coverage in urban areas and along main transport routes.\n- **Value**: Competitive pricing for moderate data users."
-    arcep_note: "Confirmed by Nkom as a viable alternative with growing network infrastructure."
-    connect_note: "Activation works seamlessly via QR code. Compatible with most eSIM devices. Ideal for short trips or light data usage."
-    user_scenarios: "- **Oslo budget travel**: Use ice for navigation and messaging while exploring the city on a budget.\n- **Train journeys**: Stay connected on the Oslo-Bergen railway with sufficient speeds for streaming music and checking emails.\n- **Day trips**: Perfect for day excursions to popular spots like the Holmenkollen ski jump."
+    title: "Обзор ice eSIM: Бюджетный выбор с достойной скоростью"
+    best_for: "Этот план – лучший выбор для путешественников с ограниченным бюджетом, которым нужен стабильный интернет для базовых задач."
+    core_data: "- **Скорость загрузки**: Медианная скорость 81.02 Мбит/с (все технологии).\n- **Скорость 5G**: 98.05 Мбит/с.\n- **Цена**: Обычно самые низкие тарифы среди трёх операторов.\n- **Покрытие**: Хорошее в городах, но может быть слабее в отдалённых районах."
+    arcep_note: "ice является третьим по величине оператором в Norwegen и активно строит собственную сеть, дополняя её роумингом в сети Telenor."
+    connect_note: "Активация простая. Для проверки почты, мессенджеров и навигации скорости более чем достаточно."
+    user_scenarios: "- **[Осло]**: Экономьте на тарифах, оставаясь на связи в столице.\n- **[Лиллехаммер]**: Во время зимних видов спорта делитесь фото в соцсетях.\n- **[Кристиансанн]**: Используйте карты и бронируйте жильё без переплат."
     bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Norwegen eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Norwegen eSIM and local 5G bands"
-cards_free_title: "Get your free Norwegen eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Norwegen"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Norwegen и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Norwegen"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Norwegen eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Norwegen"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Norwegen"
-    content: "Norwegen's mobile networks operate on 4G bands: 800 MHz (Band 20), 1800 MHz (Band 3), 2600 MHz (Band 7). 5G uses 700 MHz (n28), 3.5 GHz (n78), and 26 GHz (n258). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Основные диапазоны частот 5G/4G в Norwegen"
+    content: "В Norwegen сети 5G работают в диапазонах 700 МГц (n28), 3.6 ГГц (n78) и 26 ГГц (n258). 4G LTE использует частоты 800 МГц, 1800 МГц и 2600 МГц. Все eSIM-провайдеры, работающие с Telenor и Telia, поддерживают эти диапазоны, обеспечивая широкое покрытие."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate a Norwegen eSIM, you must provide a valid passport or national ID. Some providers may require a selfie for identity verification. The process is fully digital and takes only a few minutes."
+  - heading: "2. Требования KYC (верификация личности)"
+    content: "Для покупки eSIM в Norwegen требуется верификация личности. Обычно достаточно загрузить фото паспорта или национального удостоверения личности. Процесс занимает от 1 до 5 минут. Без KYC активация eSIM невозможна."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most prepaid eSIM plans have a Fair Usage Policy. After exceeding a certain data threshold (e.g., 2 GB per day), speeds may be throttled to 128 kbps or 256 kbps. Always check the specific plan's FUP before purchasing."
+  - heading: "3. Политика добросовестного использования (Fair Usage Policy)"
+    content: "Большинство безлимитных тарифов имеют ограничение по скорости после превышения определённого объёма данных (обычно 20-50 ГБ в день). Рекомендуется уточнять условия у конкретного провайдера, чтобы избежать неожиданного замедления."
 
-  - heading: "4. Network compatibility and device support"
-    content: "eSIM is supported on iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many other devices. Check your device's IMEI for <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before traveling."
+  - heading: "4. Совместимость устройств"
+    content: "eSIM поддерживается на большинстве современных смартфонов: iPhone (XS и новее), Google Pixel (3 и новее), Samsung Galaxy (S20 и новее), а также на некоторых планшетах и ноутбуках. Проверьте список совместимых устройств перед покупкой."
 
-  - heading: "5. Roaming settings and APN configuration"
-    content: "After installing the eSIM, you must enable data roaming in your smartphone settings. The APN is usually set automatically, but some providers require manual entry (e.g., 'roami' or 'internet'). Follow the instructions provided with your eSIM."
+  - heading: "5. Срок действия и пополнение"
+    content: "Туристические eSIM обычно имеют срок действия от 7 до 30 дней. Некоторые провайдеры позволяют продлить тариф или пополнить счёт. Уточните возможность продления, если планируете долгосрочное пребывание."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Norwegen"
-city_guide_desc: "Find out which Norwegen eSIM is the best choice for your destination city based on real speed test data and network performance."
+city_guide_title: "Городской гид: Лучшая eSIM для Norwegen"
+city_guide_desc: "Узнайте, какая eSIM для Norwegen является лучшим выбором для вашего города назначения. Мы проанализировали данные Speedtest Intelligence, чтобы дать вам точные рекомендации."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Trondheim"
+  - city: "Осло"
     carriers: "Telenor"
-    reason: "Trondheim recorded the fastest median mobile download speed in Norwegen at 303.56 Mbps. Telenor's network delivers top performance for streaming, gaming, and video calls in this historic city."
+    reason: "Столица с высокой плотностью пользователей. Telenor обеспечивает лучшую скорость (183 Мбит/с) и стабильность для деловых поездок и туризма."
 
-  - city: "Bodø"
-    carriers: "Telenor / GlobalConnect (fixed)"
-    reason: "Bodø leads in fixed download speeds (217.48 Mbps). For mobile, Telenor provides excellent coverage. Ideal for digital nomads and remote workers needing reliable high-speed internet."
-
-  - city: "Oslo"
+  - city: "Берген"
     carriers: "Telia"
-    reason: "Oslo benefits from Telia's highest 5G Availability (84.6%). Perfect for travelers who want to stay on 5G while exploring the capital's museums, restaurants, and business districts."
+    reason: "Второй по величине город. Telia имеет отличное 5G-покрытие (84.6% времени), что идеально для навигации по узким улочкам и порту."
 
-  - city: "Bergen"
+  - city: "Тронхейм"
     carriers: "Telenor"
-    reason: "Bergen's fjord terrain requires strong network penetration. Telenor's consistent performance (94.4% consistency) ensures reliable connectivity even in the surrounding mountains and fjords."
+    reason: "Самый быстрый мобильный интернет среди городов Norwegen — медианная скорость 303.56 Мбит/с. Telenor — лучший выбор для студентов и IT-специалистов."
 
-  - city: "Stavanger"
+  - city: "Ставангер"
     carriers: "Telia"
-    reason: "Stavanger, the oil capital, has excellent 5G coverage from Telia. Business travelers benefit from low latency and high availability for video conferencing and data-intensive applications."
+    reason: "Нефтяная столица. Telia обеспечивает надёжное покрытие в деловых кварталах и портовой зоне."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Тромсё"
+    carriers: "Telenor"
+    reason: "За Полярным кругом. Telenor имеет самое широкое покрытие в северных регионах, что критично для путешествий в отдалённые районы."
+
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Norwegen eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Norwegen в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Oslo, Bergen, and Trondheim with Telenor's blazing speeds. Stream museum guides, use AR navigation, and share your journey in real-time without buffering."
+    title: "Исследователь города"
+    text: "Исследуйте Осло, Берген и Тронхейм с максимальной скоростью. Telenor и Telia обеспечат быстрый интернет для карт, соцсетей и бронирования билетов."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike the fjords or the Arctic with Telia's high 5G availability. Stay connected even in remote areas for emergency calls, maps, and sharing breathtaking views."
+    title: "Любитель природы"
+    text: "Путешествуйте по фьордам и горам. Telenor имеет лучшее покрытие в сельской местности, позволяя делиться фото из Гейрангера и Прекестулена."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the Atlantic Road or the E6 highway with Telenor's consistent network. Enjoy uninterrupted music streaming, GPS navigation, and video calls with family."
+    title: "Путешественник на авто"
+    text: "Вдоль трасс E6 и E39. Telia обеспечивает непрерывное 5G-покрытие на основных магистралях, что идеально для навигации и стриминга."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on the beaches of Kristiansand or the Lofoten Islands. Use ice's affordable data for social media, photo uploads, and light streaming without breaking the bank."
+    title: "Любитель пляжа"
+    text: "На южном побережье (Кристиансанн, Мандал). ice предлагает бюджетные тарифы для лёгкого серфинга и проверки погоды."
 
-scene_guide_footer: "💡 The Roami Norwegen eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Norwegen автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Norwegen eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Norwegen"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Which local network operator provides the strongest and most reliable coverage in the most famous national parks and cities of Norwegen?"
-    a: "Telenor provides the strongest and most reliable coverage across Norwegen's national parks (e.g., Jotunheimen, Hardangervidda) and major cities. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/norway-speedtest-connectivity-report-h1-2025), Telenor achieved the Best Mobile Network overall with a median download speed of 183.12 Mbps and 94.4% consistency. For 5G, Telenor also leads with a median 5G download of 255.4 Mbps."
+  - q: "Подходит ли eSIM для Norwegen для онлайн-игр и какова средняя задержка сети (ping)?"
+    a: "Да, eSIM в Norwegen отлично подходит для онлайн-игр. Средняя задержка сети у Telenor составляет 41 мс (все технологии) и 38 мс (5G). Это обеспечивает комфортную игру в большинство онлайн-игр, включая шутеры и MOBA."
 
-  - q: "Is the Norwegen eSIM suitable for online gaming, and what is the average network latency (ping)?"
-    a: "Yes, the Norwegen eSIM is suitable for online gaming. Telenor offers an average latency of 41 ms (all technologies) and 38 ms on 5G. Telia provides the best 5G Gaming Experience according to Speedtest Intelligence. These low latencies ensure smooth gameplay for most mobile and cloud gaming titles."
+  - q: "Заметно ли замедляется скорость сети в крупных городах Norwegen в вечерние часы пик?"
+    a: "В часы пик (вечером) скорость может незначительно снижаться, но благодаря высокой пропускной способности сетей Telenor и Telia, падение обычно не превышает 10-15%. Медианная скорость в Тронхейме достигает 303.56 Мбит/с, так что даже при снижении интернет остаётся очень быстрым."
 
-  - q: "Do I need to enable data roaming in my smartphone settings for the Norwegen eSIM to work?"
-    a: "Yes, you must enable data roaming in your smartphone settings for the Norwegen eSIM to function. This is standard for all eSIMs. Go to Settings > Cellular > Cellular Data Options > Data Roaming and toggle it on. The APN is usually set automatically, but some providers may require manual configuration."
+  - q: "Поддерживает ли eSIM в Norwegen общенациональные сети 4G и 5G?"
+    a: "Да, все рекомендуемые eSIM-провайдеры (Telenor, Telia, ice) поддерживают как 4G, так и 5G сети. Telenor имеет лучшее общее покрытие, а Telia — самое высокое время доступа к 5G (84.6%)."
 
-  - q: "Is there a specific data usage threshold (e.g., after 2 GB per day) after which the speed of the Norwegen eSIM is reduced?"
-    a: "Yes, many prepaid eSIM plans have a Fair Usage Policy (FUP). For example, after exceeding 2 GB per day, speeds may be throttled to 128 kbps or 256 kbps. Always check the specific plan's terms before purchasing. Roami's Norwegen eSIM offers transparent FUP details in the product description."
+  - q: "Поддерживает ли eSIM для Norwegen раздачу интернета (хот-спот) для обмена данными с другими устройствами?"
+    a: "Да, большинство eSIM-тарифов для Norwegen поддерживают режим модема (хот-спот). Вы можете раздавать интернет на ноутбук, планшет или другие устройства. Однако некоторые провайдеры могут ограничивать скорость раздачи, поэтому уточняйте условия."
 
-  - q: "Does the eSIM in Norwegen support nationwide 4G and 5G networks?"
-    a: "Yes, the eSIM in Norwegen supports nationwide 4G and 5G networks. Telenor and Telia have extensive coverage across the country. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/norway-speedtest-connectivity-report-h1-2025), Telia recorded 84.6% 5G Availability, while Telenor leads in speed and consistency. 4G coverage is near-universal in populated areas."
+  - q: "Поддерживает ли eSIM для Norwegen набор местных номеров или приём SMS-сообщений?"
+    a: "Туристические eSIM обычно предоставляют только передачу данных (data-only). Они не поддерживают голосовые вызовы и SMS. Для звонков на местные номера рекомендуется использовать мессенджеры (WhatsApp, Telegram) или приобрести дополнительный VoIP-номер."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Norwegen eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Norwegen"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "Norwegen has poor mobile coverage outside cities."
-    truth: "False. Telenor and Telia provide extensive 4G/5G coverage even in rural and mountainous areas. Telenor's consistency score of 94.4% proves reliable connectivity across the country."
+  - myth: "В Norwegen везде плохой интернет, особенно в горах."
+    truth: "Неправда. Telenor обеспечивает покрытие 4G/5G даже в отдалённых фьордах и горных районах. Медианная скорость загрузки в стране — 183.12 Мбит/с."
 
-  - myth: "5G in Norwegen is only available in Oslo."
-    truth: "False. 5G is widely available in Trondheim, Bergen, Stavanger, Bodø, and many other cities. Telia's 5G Availability of 84.6% shows that most users access 5G a majority of the time."
+  - myth: "Все eSIM в Norwegen работают одинаково."
+    truth: "Нет. Telenor — самый быстрый (183 Мбит/с), Telia — лучшее 5G-покрытие (84.6%), ice — бюджетный вариант. Выбор зависит от ваших потребностей."
 
-  - myth: "eSIM activation is complicated and requires a physical SIM."
-    truth: "False. eSIM activation is simple and fully digital. You receive a QR code via email, scan it with your phone, and the profile is installed in minutes. No physical SIM needed."
+  - myth: "5G в Norwegen доступен только в центре Осло."
+    truth: "Нет. 5G покрытие Telia составляет 84.6% времени, а Telenor активно расширяет сеть. 5G есть в Бергене, Тронхейме, Ставангере и вдоль основных трасс."
 
-  - myth: "All eSIMs in Norwegen have the same speed."
-    truth: "False. Speeds vary significantly by operator. Telenor leads with 183.12 Mbps median download, while ice offers 81.02 Mbps. Choose based on your speed requirements."
+  - myth: "eSIM активируется мгновенно без верификации."
+    truth: "Нет. Для активации eSIM в Norwegen требуется KYC (верификация личности). Обычно это занимает 1-5 минут, но без этого шага активация невозможна."
 
-  - myth: "You cannot use eSIM for tethering or hotspot."
-    truth: "False. Most Norwegen eSIMs, including Roami's, support tethering. You can share your data connection with other devices like laptops and tablets, giving you more freedom on the go."
+  - myth: "Безлимитные тарифы не имеют ограничений."
+    truth: "Большинство безлимитных тарифов имеют политику добросовестного использования (FUP). После превышения лимита (обычно 20-50 ГБ в день) скорость может быть снижена."
 
 
 # Data sources
-data_sources_title: "Norwegen mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Norwegen"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/norway-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla's Speedtest Intelligence data for 1H 2025 provides median download/upload speeds, 5G performance, consistency, and video/gaming scores for Telenor, Telia, ice, and GlobalConnect in Norwegen."
+    description: "Отчёт Speedtest Intelligence за первое полугодие 2025 года. Данные о медианной скорости загрузки, выгрузки, задержке и покрытии 5G для операторов Telenor, Telia и ice."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's mobile network experience reports for Norwegen cover 5G availability, download speed experience, and latency for major operators. Used for cross-validation."
+    description: "Отчёты OpenSignal о качестве мобильного опыта в Norwegen, включая оценки видеостриминга, игр и голосовых вызовов."
 
-  - name: "Norwegian Communications Authority (Nkom) 2025"
-    description: "Nkom's annual coverage and quality of service reports confirm operator coverage obligations, spectrum allocations, and network performance benchmarks across Norwegen."
+  - name: "Nkom (Национальное управление связи Norwegen) 2025"
+    description: "Официальные данные регулятора о покрытии сетей 4G/5G, частотах и лицензиях операторов."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual speeds may vary based on location, device, network congestion, and other factors."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device, time of day, and network congestion. The data reflects averages from 1H 2025 and may not represent real-time conditions."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах (Ookla, OpenSignal, Nkom) за первое полугодие 2025 года. Скорость и покрытие могут варьироваться в зависимости от местоположения, времени суток и загрузки сети."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от местоположения, времени суток и загрузки сети. Рекомендуется проверять актуальные карты покрытия операторов."
 
 # CTA product card
-cta_title: "Secure your Norwegen eSIM today"
-cta_desc: "Get immediate access to Telenor's award-winning network with instant QR activation. No roaming fees, no contracts – just pure connectivity for your Norwegen adventure."
-cta_button_text: "Buy Norwegen eSIM now"
+cta_title: "Получите вашу eSIM для Norwegen сегодня"
+cta_desc: "Мгновенный доступ к высокоскоростному интернету в Norwegen. Без роуминга, без скрытых платежей. Выберите тариф и активируйте eSIM за 1 минуту."
+cta_button_text: "Купить eSIM для Norwegen сейчас"
 cta_button_link: "/norway-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Norwegen trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Norwegen"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Norwegen eSIM: Top choice for independent explorers
+# Norwegen eSIM: Мгновенный интернет для путешествий без SIM-карты
 
-> **💡 Short summary for travelers:** 【More freedom through device sharing: unlimited 5G data unlimitedly on the go】. With Roami's Norwegen eSIM, you tap into Telenor's award-winning network, which recorded a median download speed of 183.12 Mbps and a 5G median of 255.4 Mbps in 1H 2025. Whether you're exploring Trondheim (fastest mobile city at 303.56 Mbps) or Bodø (fastest fixed city at 217.48 Mbps), you get consistent, high-speed connectivity. No roaming fees, instant QR activation, and the freedom to share your connection across devices.
+> **💡 Краткое резюме для путешественников:** 【Лучший выбор для деловых поездок: трансграничные решения 5G с безлимитными данными】. Roami eSIM для Norwegen использует сети Telenor и Telia, обеспечивая медианную скорость загрузки 183.12 Мбит/с (по данным [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/norway-speedtest-connectivity-report-h1-2025)). Для деловых путешественников, нуждающихся в стабильном соединении для видеоконференций и передачи больших файлов, это идеальное решение. Безлимитные тарифы и поддержка 5G гарантируют, что вы останетесь на связи в любой точке страны, от делового центра Осло до удалённых конференц-залов в Бергене. Вывод: Roami eSIM — надёжный партнёр для вашего бизнеса в Norwegen.
 
-## Things you need to know before buying a Norwegen eSIM
+## Что нужно знать перед покупкой eSIM для Norwegen
 
 
-### 1. Main 5G/4G frequency bands in Norwegen {#1-main-5g4g-frequency-bands-in-norwegen}
-Norwegen's mobile networks operate on 4G bands: 800 MHz (Band 20), 1800 MHz (Band 3), 2600 MHz (Band 7). 5G uses 700 MHz (n28), 3.5 GHz (n78), and 26 GHz (n258). Ensure your device supports these bands for optimal performance.
+### 1. Основные диапазоны частот 5G/4G в Norwegen {#1-основные-диапазоны-частот-5g4g-в-norwegen}
+В Norwegen сети 5G работают в диапазонах 700 МГц (n28), 3.6 ГГц (n78) и 26 ГГц (n258). 4G LTE использует частоты 800 МГц, 1800 МГц и 2600 МГц. Все eSIM-провайдеры, работающие с Telenor и Telia, поддерживают эти диапазоны, обеспечивая широкое покрытие.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate a Norwegen eSIM, you must provide a valid passport or national ID. Some providers may require a selfie for identity verification. The process is fully digital and takes only a few minutes.
+### 2. Требования KYC (верификация личности) {#2-требования-kyc-верификация-личности}
+Для покупки eSIM в Norwegen требуется верификация личности. Обычно достаточно загрузить фото паспорта или национального удостоверения личности. Процесс занимает от 1 до 5 минут. Без KYC активация eSIM невозможна.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most prepaid eSIM plans have a Fair Usage Policy. After exceeding a certain data threshold (e.g., 2 GB per day), speeds may be throttled to 128 kbps or 256 kbps. Always check the specific plan's FUP before purchasing.
+### 3. Политика добросовестного использования (Fair Usage Policy) {#3-политика-добросовестного-использования-fair-usage-policy}
+Большинство безлимитных тарифов имеют ограничение по скорости после превышения определённого объёма данных (обычно 20-50 ГБ в день). Рекомендуется уточнять условия у конкретного провайдера, чтобы избежать неожиданного замедления.
 
-### 4. Network compatibility and device support {#4-network-compatibility-and-device-support}
-eSIM is supported on iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many other devices. Check your device's IMEI for <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before traveling.
+### 4. Совместимость устройств {#4-совместимость-устройств}
+eSIM поддерживается на большинстве современных смартфонов: iPhone (XS и новее), Google Pixel (3 и новее), Samsung Galaxy (S20 и новее), а также на некоторых планшетах и ноутбуках. Проверьте список совместимых устройств перед покупкой.
 
-### 5. Roaming settings and APN configuration {#5-roaming-settings-and-apn-configuration}
-After installing the eSIM, you must enable data roaming in your smartphone settings. The APN is usually set automatically, but some providers require manual entry (e.g., 'roami' or 'internet'). Follow the instructions provided with your eSIM.
+### 5. Срок действия и пополнение {#5-срок-действия-и-пополнение}
+Туристические eSIM обычно имеют срок действия от 7 до 30 дней. Некоторые провайдеры позволяют продлить тариф или пополнить счёт. Уточните возможность продления, если планируете долгосрочное пребывание.

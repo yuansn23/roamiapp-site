@@ -1,64 +1,64 @@
 ---
-title: "Neuseeland eSIM: Quick activation with no physical SIM cards"
-description: "Experience fast internet in Neuseeland with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:41:58+00:00"
-keywords: "eSIM Neuseeland, prepaid data, 5G network, One NZ, Spark, 2degrees, travel eSIM"
+title: "Neuseeland eSIM: Экономьте время и силы с интернетом для путешествий"
+description: "Испытайте быстрый интернет в Neuseeland с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:57:42+00:00"
+keywords: "eSIM Neuseeland, предоплаченные данные, сеть 5G, One NZ, Spark, 2degrees, туристическая eSIM, интернет для путешествий"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Neuseeland eSIM Guide"
+  - name: "Руководство по eSIM для Neuseeland"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Neuseeland Travel eSIM Latest Guide"
-hero_subtitle_main: "Neuseeland eSIM: Quick activation with no physical SIM cards"
-hero_subtitle_highlight: "Premium 5G network coverage by One NZ, Spark and 2degrees"
-hero_description_line1: "This eSIM covers wide areas in Neuseeland, offering fast and stable data connectivity. It replaces traditional international roaming services, making your overseas trip much more convenient."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "[Флаг] Neuseeland Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Neuseeland eSIM: Экономьте время и силы с интернетом для путешествий"
+hero_subtitle_highlight: "Премиальное покрытие 5G от One NZ и Spark"
+hero_description_line1: "Разработана для иностранных туристов, eSIM для Neuseeland поддерживает двухсимочные устройства. Сохраните свой оригинальный номер, пользуясь местным высокоскоростным интернетом для более умного подключения."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Neuseeland eSIM"
 hero_link_url: "/new-zealand-esim/"
-tldr_summary: "【Unlimited 5G data: more efficient use by sharing across multiple devices】. With Roami's Neuseeland eSIM, you can share your unlimited 5G data across your phone, tablet, and laptop, maximizing every megabyte. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/new-zealand-speedtest-connectivity-report-h1-2025), Spark leads 5G with a median download speed of 342.37 Mbps, while One NZ offers the best overall mobile network with a Speedtest Connectivity Score of 74.58. Whether you're in Wellington (fastest mobile city at 186.4 Mbps) or Lower Hutt (fastest fixed city at 223.26 Mbps), Roami's eSIM ensures you stay connected without physical SIM cards or roaming fees."
+tldr_summary: "【Бесшовное переключение сетей в нескольких странах – новый стандарт для путешествующих цифровых кочевников】. Roami eSIM для Neuseeland обеспечивает мгновенное подключение к лучшим местным сетям: One NZ (лидер по общему качеству мобильной связи с показателем Speedtest Connectivity Score 74.58) и Spark (самая быстрая сеть 5G с медианной скоростью загрузки 342.37 Мбит/с). Забудьте о роуминговых сборах и физических SIM-картах. Активируйте eSIM за секунды по QR-коду и наслаждайтесь высокоскоростным интернетом в городах и сельской местности. Идеальное решение для тех, кто ценит время и стабильное соединение."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Neuseeland eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Neuseeland eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Neuseeland eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Neuseeland выбрать?"
 
   - href: "#operators"
-    text: "Top Neuseeland eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Neuseeland"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Neuseeland"
+    text: "Городской гид: Лучшая eSIM для Neuseeland"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Neuseeland eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Neuseeland"
 
   - href: "#faq"
-    text: "Frequently asked questions about Neuseeland eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Neuseeland"
 
   - href: "#myths"
-    text: "Myths and facts about Neuseeland eSIM"
+    text: "Мифы и факты о eSIM для Neuseeland"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Neuseeland eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Neuseeland выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/new-zealand-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "One NZ"
-    carrier_class: "text-blue-600"
-    reason: "Best overall mobile network with Speedtest Connectivity Score of 74.58 and highest 5G availability at 60.9%. Ideal for consistent connectivity across cities and rural areas."
+    carrier_class: "text-orange-600"
+    reason: "Лучшая общая мобильная сеть (Speedtest Connectivity Score 74.58). Идеально для работы и путешествий по всей стране."
 
-  - travel: "5G power users"
+  - travel: "Любители скорости"
     carrier: "Spark"
     carrier_class: "text-red-600"
-    reason: "Fastest 5G network with median download speed of 342.37 Mbps and upload speed of 20.64 Mbps. Perfect for streaming, video calls, and large file transfers."
+    reason: "Самая быстрая сеть 5G (медианная скорость загрузки 342.37 Мбит/с). Отлично подходит для стриминга и загрузки больших файлов."
 
-  - travel: "Budget-conscious travelers"
+  - travel: "Экономные путешественники"
     carrier: "2degrees"
     carrier_class: "text-green-600"
-    reason: "Most consistent mobile network with 91% of samples meeting 5 Mbps download threshold. Also the fastest fixed ISP at 220.52 Mbps, great for tethering."
+    reason: "Самый быстрый фиксированный интернет (220.52 Мбит/с) и лучшая стабильность мобильной сети (91% успешных тестов). Хороший баланс цены и качества."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Neuseeland travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Neuseeland"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "one-nz-esim"
-    title: "One NZ eSIM Review: Best overall mobile network"
-    best_for: "This plan is the absolute top choice for travelers who need reliable connectivity across both urban and rural Neuseeland. One NZ leads in overall mobile performance with a Speedtest Connectivity Score of 74.58 and the highest 5G availability at 60.9%."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/new-zealand-speedtest-connectivity-report-h1-2025), One NZ recorded the highest 5G Availability in New Zealand during 1H 2025, with 60.9% of its users accessing its 5G network a majority of the time.\n- **Download rate**: One NZ led the mobile market across key performance metrics, though no statistical difference was found for fastest mobile network overall.\n- **Consistency**: One NZ's network consistency is strong, but 2degrees leads with 91% of samples meeting the 5 Mbps download threshold."
-    arcep_note: "Confirmed by the local telecom authority (Commerce Commission New Zealand) that One NZ holds the largest spectrum portfolio for 5G and 4G, ensuring broad coverage."
-    connect_note: "Activation works seamlessly via QR code. One NZ supports eSIM on most modern smartphones including iPhone XS and later, Samsung Galaxy S20 and later, and Google Pixel 4 and later."
-    user_scenarios: "- **Milford Sound**: One NZ's high 5G availability ensures you can share live streams of the stunning fjords without buffering.\n- **Tongariro Alpine Crossing**: Stay connected on one of Neuseeland's most famous hikes with consistent coverage along the trail.\n- **Queenstown**: Perfect for digital nomads who need reliable video call connectivity while enjoying lake views."
+    title: "Обзор One NZ eSIM: Лучшее покрытие в сельской местности"
+    best_for: "Этот план – абсолютно лучший выбор для путешественников, которые планируют много перемещаться по Новой Зеландии, включая отдаленные районы. One NZ признана лучшей мобильной сетью в стране по версии Ookla за первую половину 2025 года."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/new-zealand-speedtest-connectivity-report-h1-2025), One NZ имеет самую высокую доступность 5G в Новой Зеландии — 60.9% пользователей большую часть времени находятся в зоне покрытия 5G.\n- **Общая производительность**: One NZ лидирует по общему качеству мобильной связи с показателем Speedtest Connectivity Score 74.58.\n- **Игровой опыт**: One NZ также признана лучшей сетью для мобильных игр с показателем Game Score 79.30."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (NZCC) как один из трех основных операторов с обширным покрытием в сельской местности и вдоль основных автомагистралей."
+    connect_note: "Активация работает безупречно: просто отсканируйте QR-код, и вы подключены к сети One NZ в течение нескольких минут. Поддержка клиентов доступна 24/7."
+    user_scenarios: "- **[Треккинг по леднику Франца-Иосифа]**: Вы находитесь на леднике, где покрытие других операторов может быть нестабильным. One NZ обеспечивает надежное соединение для отправки фото и связи с гидом.\n- **[Путешествие по живописному шоссе Milford Road]**: На пути к Милфорд-Саунд вы проезжаете через туннели и горные перевалы. One NZ предлагает лучшее покрытие на этом маршруте, позволяя вам оставаться на связи и пользоваться навигацией."
     bg_color: "bg-blue-50"
 
   - id: "spark-esim"
-    title: "Spark eSIM Review: Fastest 5G speeds"
-    best_for: "This plan is the absolute top choice for 5G power users who demand the fastest download and upload speeds. Spark leads the 5G market with a median download speed of 342.37 Mbps and a 5G Speed Score of 62.12."
-    core_data: "- **5G download speed**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/new-zealand-speedtest-connectivity-report-h1-2025), Spark recorded a median 5G download speed of 342.37 Mbps, ahead of next placed 2degrees with 271.04 Mbps.\n- **5G upload speed**: Spark recorded a median 5G upload speed of 20.64 Mbps.\n- **5G latency**: Spark's 5G latency is 48 ms, ensuring responsive gaming and video calls.\n- **5G Consistency**: Spark has the best 5G Consistency in the market, with 86.1% of samples meeting or exceeding 25 Mbps download and 3 Mbps upload."
-    arcep_note: "Confirmed by the local telecom authority (Commerce Commission New Zealand) that Spark holds extensive 5G spectrum in the 3.5 GHz band, enabling high-speed urban coverage."
-    connect_note: "Activation works seamlessly via QR code. Spark supports eSIM on iPhone XS and later, Samsung Galaxy S20 and later, and select Huawei and Oppo devices."
-    user_scenarios: "- **Auckland CBD**: Experience blazing 5G speeds for downloading large files, streaming 4K video, and seamless video conferencing.\n- **Wellington**: As the fastest mobile city with 186.4 Mbps median download speed, Spark's 5G network excels in the capital.\n- **Christchurch**: Ideal for gamers and streamers who need low latency and high throughput."
+    title: "Обзор Spark eSIM: Максимальная скорость 5G в городах"
+    best_for: "Этот план идеально подходит для тех, кто сосредоточен на городских поездках и нуждается в максимальной скорости интернета для стриминга, видеозвонков и загрузки контента."
+    core_data: "- **Скорость 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/new-zealand-speedtest-connectivity-report-h1-2025), Spark — самый быстрый 5G-провайдер в Новой Зеландии с медианной скоростью загрузки 342.37 Мбит/с и скоростью отдачи 20.64 Мбит/с.\n- **5G Speed Score**: Spark лидирует с показателем Speed Score 62.12.\n- **Задержка**: Средняя задержка в сети 5G Spark составляет 48 мс, что обеспечивает отзывчивое соединение для онлайн-игр и видеоконференций."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (NZCC) как оператор с наиболее развитой инфраструктурой 5G в крупных городах, включая Окленд, Веллингтон и Крайстчерч."
+    connect_note: "Активация eSIM Spark через Roami происходит мгновенно. Вы получаете доступ к сети Spark сразу после приземления в аэропорту Окленда или Веллингтона."
+    user_scenarios: "- **[Стриминг в кафе Веллингтона]**: Вы сидите в модном кафе в районе Cuba Street и хотите посмотреть видео в 4K. Spark обеспечивает скорость, достаточную для плавного стриминга без буферизации.\n- **[Видеозвонок с семьей из Окленда]**: Находясь в Sky Tower, вы совершаете видеозвонок. Spark гарантирует высокое качество видео и четкий звук благодаря низкой задержке."
     bg_color: "bg-red-50"
 
   - id: "2degrees-esim"
-    title: "2degrees eSIM Review: Most consistent and budget-friendly"
-    best_for: "This plan is the absolute top choice for budget-conscious travelers who need reliable connectivity without breaking the bank. 2degrees offers the most consistent mobile network with 91% of samples meeting the 5 Mbps download threshold."
-    core_data: "- **Consistency**: According to OOKRA_REPORT_LINK, 2degrees recorded the best mobile network Consistency in New Zealand, with 91% of its samples meeting or exceeding the threshold of 5 Mbps download and 1 Mbps upload throughput.\n- **5G download speed**: 2degrees recorded a median 5G download speed of 271.04 Mbps, second only to Spark.\n- **Fixed ISP**: 2degrees is the fastest fixed ISP in New Zealand with a median download speed of 220.52 Mbps and upload speed of 99.55 Mbps, making it excellent for tethering."
-    arcep_note: "Confirmed by the local telecom authority (Commerce Commission New Zealand) that 2degrees has invested heavily in network densification, resulting in high consistency scores."
-    connect_note: "Activation works seamlessly via QR code. 2degrees supports eSIM on iPhone XS and later, Samsung Galaxy S20 and later, and Google Pixel 4 and later."
-    user_scenarios: "- **Lower Hutt**: As the fastest fixed city with 223.26 Mbps median download speed, 2degrees is perfect for travelers staying in serviced apartments.\n- **Rotorua**: Enjoy consistent connectivity while exploring geothermal wonders and Maori cultural sites.\n- **Hamilton**: Reliable network for students and business travelers needing stable data for work."
+    title: "Обзор 2degrees eSIM: Стабильность и надежность"
+    best_for: "Этот план — лучший выбор для тех, кто ценит стабильное соединение и не хочет рисковать потерей связи в важный момент. 2degrees также предлагает отличные тарифы на фиксированный интернет, если вы планируете остановиться в одном месте надолго."
+    core_data: "- **Стабильность**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/new-zealand-speedtest-connectivity-report-h1-2025), 2degrees имеет лучшую стабильность мобильной сети: 91% тестов соответствуют порогу 5 Мбит/с на загрузку и 1 Мбит/с на отдачу.\n- **Фиксированный интернет**: 2degrees — самый быстрый интернет-провайдер в Новой Зеландии с медианной скоростью загрузки 220.52 Мбит/с и отдачи 99.55 Мбит/с.\n- **5G Consistency**: Spark лидирует по стабильности 5G (86.1%), но 2degrees также показывает хорошие результаты."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (NZCC) как оператор с хорошим покрытием в городах и растущей сетью 5G."
+    connect_note: "Активация eSIM 2degrees проста и интуитивно понятна. Вы получаете доступ к сети сразу после установки профиля."
+    user_scenarios: "- **[Работа из коворкинга в Крайстчерче]**: Вам нужно стабильное соединение для видеоконференций и загрузки больших файлов. 2degrees обеспечивает надежное подключение без перебоев.\n- **[Путешествие на пароме между Северным и Южным островами]**: Во время переправы связь может быть нестабильной. 2degrees предлагает лучшее качество соединения в таких условиях."
     bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Neuseeland eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Neuseeland eSIM and local 5G bands"
-cards_free_title: "Get your free Neuseeland eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Neuseeland"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Neuseeland и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Neuseeland"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Neuseeland eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Neuseeland"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Neuseeland"
-    content: "Neuseeland's mobile networks operate on the following key bands: 4G: Band 1 (2100 MHz), Band 3 (1800 MHz), Band 28 (700 MHz) for wide coverage. 5G: n78 (3500 MHz) is the primary 5G band used by all three operators (One NZ, Spark, 2degrees). Some operators also use n40 (2300 MHz) and n257 (28 GHz) for mmWave in dense urban areas. Ensure your device supports these bands for optimal performance."
+  - heading: "1. Основные диапазоны частот 5G и 4G в Новой Зеландии"
+    content: "Перед покупкой eSIM убедитесь, что ваш смартфон поддерживает новозеландские частоты. Основные диапазоны 4G: Band 1 (2100 МГц), Band 3 (1800 МГц), Band 28 (700 МГц). Для 5G используются диапазоны n78 (3500 МГц) и n257 (28 ГГц). Большинство современных флагманских телефонов поддерживают эти частоты, но старые модели могут иметь ограничения."
 
-  - heading: "2. KYC (Know Your Customer) requirements"
-    content: "To activate a Neuseeland eSIM, you must provide a valid form of identification. Accepted documents include a passport, national ID card, or driver's license. The KYC process is typically completed online during purchase. Your personal data is handled in compliance with New Zealand's Privacy Act 2020."
+  - heading: "2. Требования KYC (Know Your Customer) для активации eSIM"
+    content: "Для активации eSIM в Новой Зеландии требуется пройти процедуру KYC. Вам необходимо предоставить действительный заграничный паспорт и, возможно, подтверждение адреса (например, банковская выписка или счет за коммунальные услуги). Процесс обычно занимает несколько минут и выполняется онлайн."
 
-  - heading: "3. Fair Usage Policy (FUP) for unlimited data plans"
-    content: "Most unlimited data eSIM plans in Neuseeland have a Fair Usage Policy (FUP). Typically, after a certain data threshold (e.g., 30 GB per month), speeds may be throttled to 1-2 Mbps during peak times. Always check the specific FUP of your chosen provider to avoid unexpected slowdowns."
+  - heading: "3. Политика добросовестного использования (Fair Usage Policy)"
+    content: "Большинство eSIM-провайдеров, включая Roami, применяют политику добросовестного использования. Это означает, что после превышения определенного лимита трафика (обычно 20-50 ГБ в месяц) скорость может быть временно снижена. Внимательно читайте условия вашего тарифа."
 
-  - heading: "4. eSIM compatibility and device support"
-    content: "eSIM is supported on most modern smartphones including iPhone XS and later, Samsung Galaxy S20 and later, Google Pixel 4 and later, and select Huawei, Oppo, and Xiaomi models. Some older devices may not support eSIM. Check your device's IMEI <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing."
+  - heading: "4. Совместимость с двухсимочными устройствами"
+    content: "eSIM для Новой Зеландии отлично работает на двухсимочных смартфонах. Вы можете сохранить свою физическую SIM-карту для звонков и SMS, а eSIM использовать для мобильного интернета. Это особенно удобно для путешественников, которые хотят оставаться на связи со своим домашним номером."
 
-  - heading: "5. Roaming and network switching"
-    content: "Neuseeland eSIMs typically connect to a single operator network (One NZ, Spark, or 2degrees). Some providers offer automatic network switching for better coverage. Roaming within Neuseeland is free, but if you travel to nearby islands like the Cook Islands, separate roaming charges may apply."
+  - heading: "5. Роуминг и международные звонки"
+    content: "eSIM Roami для Новой Зеландии предназначена только для использования внутри страны. Если вы планируете посетить соседние острова (например, острова Кука или Фиджи), вам потребуется отдельная eSIM для этих направлений. Международные звонки с новозеландского номера могут тарифицироваться отдельно."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Neuseeland"
-city_guide_desc: "Find out which Neuseeland eSIM is the best choice for your destination city based on real speed test data and coverage."
+city_guide_title: "Городской гид: Лучшая eSIM для Neuseeland"
+city_guide_desc: "Узнайте, какая eSIM для Neuseeland является лучшим выбором для вашего города назначения. Мы проанализировали данные о скорости и покрытии, чтобы дать вам точные рекомендации."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Wellington"
+  - city: "Веллингтон"
     carriers: "Spark"
-    reason: "Wellington recorded the fastest median mobile download speed of 186.4 Mbps among populous cities. Spark's 5G network excels here, offering median download speeds of 342.37 Mbps. Ideal for business travelers and digital nomads."
+    reason: "Веллингтон — самый быстрый город по мобильной загрузке (186.4 Мбит/с). Spark обеспечивает максимальную скорость 5G, что идеально для столицы с высокой плотностью пользователей."
 
-  - city: "Lower Hutt"
+  - city: "Окленд"
+    carriers: "One NZ"
+    reason: "Крупнейший город страны с отличным покрытием One NZ. Рекомендуем One NZ для тех, кто много перемещается между районами и нуждается в стабильном соединении."
+
+  - city: "Крайстчерч"
     carriers: "2degrees"
-    reason: "Lower Hutt outpaced other cities with the fastest median fixed download speed of 223.26 Mbps. 2degrees is the fastest fixed ISP and offers consistent mobile connectivity, perfect for travelers staying in serviced apartments."
+    reason: "В Крайстчерче 2degrees показывает отличную стабильность сети. Идеально для путешественников, которые планируют работать удаленно или часто пользоваться видеозвонками."
 
-  - city: "Auckland"
+  - city: "Куинстаун"
     carriers: "One NZ"
-    reason: "Auckland is Neuseeland's largest city with dense 5G coverage. One NZ offers the highest 5G availability at 60.9%, ensuring you stay connected across the city's business districts, suburbs, and waterfront areas."
+    reason: "Популярный туристический центр с активным отдыхом. One NZ обеспечивает лучшее покрытие в горной местности и вдоль озер."
 
-  - city: "Christchurch"
+  - city: "Данидин"
     carriers: "Spark"
-    reason: "Christchurch benefits from Spark's 5G network with low latency (48 ms) and high speeds. Ideal for gamers, streamers, and visitors exploring the rebuilt city center and nearby Banks Peninsula."
+    reason: "Данидин — студенческий город с высокой потребностью в скорости. Spark предлагает самую быструю сеть 5G для стриминга и онлайн-обучения."
 
-  - city: "Queenstown"
-    carriers: "One NZ"
-    reason: "Queenstown is a major tourist hub with challenging terrain. One NZ's broad coverage and high 5G availability ensure reliable connectivity in the mountains and around Lake Wakatipu, perfect for adventure travelers."
-
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Neuseeland eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Neuseeland в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Neuseeland's vibrant cities like Auckland, Wellington, and Christchurch with high-speed 5G data. Use Spark for the fastest downloads or One NZ for the best overall coverage. Stream maps, book activities, and share your experiences in real-time."
+    title: "Исследователь города"
+    text: "Исследуйте музеи, рестораны и ночные клубы Окленда и Веллингтона. С eSIM Spark вы получите максимальную скорость для поиска информации, бронирования билетов и публикации фото в соцсетях."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "From Milford Sound to Tongariro National Park, stay connected in Neuseeland's stunning natural landscapes. One NZ's high 5G availability (60.9%) ensures you can upload photos and navigate trails without interruption."
+    title: "Любитель природы"
+    text: "Отправляйтесь в национальные парки Тонгариро или Абель Тасман. One NZ обеспечит надежное покрытие даже в отдаленных районах, чтобы вы могли делиться впечатлениями в реальном времени."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the scenic routes of the South Island or explore the North Island's geothermal wonders. 2degrees offers the most consistent network (91% reliability), perfect for GPS navigation, streaming music, and finding accommodation on the go."
+    title: "Путешественник на авто"
+    text: "Путешествуйте по живописным маршрутам, таким как Milford Road или Desert Road. One NZ предлагает лучшее покрытие вдоль автомагистралей, обеспечивая работу навигации и стриминг музыки."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on the beaches of the Coromandel Peninsula, Abel Tasman, or Bay of Islands. One NZ's broad coverage keeps you connected even in coastal areas. Share your beach moments instantly with fast uploads."
+    title: "Любитель пляжа"
+    text: "Отдыхайте на пляжах Coromandel или Abel Tasman. 2degrees обеспечивает стабильное соединение для загрузки фото и видео, а также для поиска ближайших кафе и магазинов."
 
-scene_guide_footer: "💡 The Roami Neuseeland eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Neuseeland автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Neuseeland eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Neuseeland"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "What steps should I take if the activation QR code for my Neuseeland eSIM does not arrive by email?"
-    a: "First, check your spam or junk folder. If not found, contact Roami's customer support via live chat or email with your order number. They will resend the QR code within minutes. Ensure you provided the correct email address during purchase."
+  - q: "Как перенести активный профиль eSIM для Neuseeland на новый смартфон при замене телефона?"
+    a: "Перенос eSIM зависит от провайдера. Обычно вам нужно удалить профиль eSIM со старого телефона и заново отсканировать QR-код активации на новом устройстве. Если QR-код утерян, обратитесь в службу поддержки Roami для повторной генерации."
 
-  - q: "Does network coverage include major transport hubs like airports, high‑speed trains, and subways in Neuseeland?"
-    a: "Yes, all three operators (One NZ, Spark, 2degrees) provide coverage at major airports including Auckland, Wellington, and Christchurch. Neuseeland does not have high-speed trains or subways, but intercity buses and ferries are well-covered. One NZ offers the best overall coverage for transport hubs."
+  - q: "Достаточно ли стабильно соединение в Neuseeland для плавной потоковой передачи HD-видео на таких платформах, как YouTube или Netflix?"
+    a: "Да, соединение достаточно стабильно. Spark обеспечивает медианную скорость загрузки 342.37 Мбит/с, что более чем достаточно для потоковой передачи 4K-видео. Даже в часы пик скорость остается высокой благодаря развитой инфраструктуре 5G."
 
-  - q: "Can I use my physical home SIM card and the Neuseeland eSIM simultaneously?"
-    a: "Yes, most modern smartphones support dual SIM functionality (physical SIM + eSIM). You can keep your home SIM active for calls and SMS while using the Neuseeland eSIM for data. This is ideal for receiving OTPs and staying reachable on your home number."
+  - q: "Есть ли ограничение на количество подключаемых устройств при использовании хот-спота с eSIM для Neuseeland?"
+    a: "Ограничения зависят от тарифа. Большинство eSIM-планов Roami позволяют использовать режим модема (хот-спот) для подключения до 5 устройств одновременно. Однако помните о политике добросовестного использования: при превышении лимита трафика скорость может быть снижена."
 
-  - q: "Can the Neuseeland eSIM be used as the primary card for all mobile data connections?"
-    a: "Absolutely. Once installed and activated, you can set the Neuseeland eSIM as your primary data line. It will handle all internet traffic including browsing, streaming, navigation, and app usage. Voice and SMS are typically not included unless specified."
+  - q: "Заметно ли замедляется скорость сети в крупных городах Neuseeland в вечерние часы пик?"
+    a: "В часы пик (вечером с 18:00 до 22:00) скорость может незначительно снижаться из-за высокой нагрузки на сеть. Однако благодаря мощной инфраструктуре 5G, особенно у Spark и One NZ, снижение скорости обычно не превышает 10-15%, что не влияет на комфортное использование интернета."
 
-  - q: "How long does it take to receive the QR code for the Neuseeland eSIM after successful payment?"
-    a: "The QR code is usually sent within 1-5 minutes after successful payment. In rare cases, it may take up to 30 minutes due to verification processes. If you don't receive it within an hour, contact customer support immediately."
+  - q: "Как именно активировать профиль Roami eSIM сразу по прибытии в аэропорт Neuseeland?"
+    a: "После покупки eSIM Roami вы получите QR-код на email. По прибытии в аэропорт Окленда или Веллингтона включите мобильные данные и отсканируйте QR-код в настройках вашего смартфона (Настройки > Сотовая связь > Добавить eSIM). Профиль активируется автоматически в течение 1-2 минут."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Neuseeland eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Neuseeland"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "All eSIMs in Neuseeland offer the same speed and coverage."
-    truth: "False. One NZ leads in overall mobile performance with a Speedtest Connectivity Score of 74.58, while Spark offers the fastest 5G speeds at 342.37 Mbps. 2degrees provides the most consistent network. Choose based on your needs."
+  - myth: "Миф: В Новой Зеландии плохое покрытие 5G, и интернет работает медленно."
+    truth: "Факт: Новая Зеландия имеет одну из самых развитых сетей 5G в Океании. Spark обеспечивает медианную скорость загрузки 342.37 Мбит/с, что выше, чем во многих европейских странах."
 
-  - myth: "5G is available everywhere in Neuseeland."
-    truth: "False. 5G coverage is concentrated in urban areas. One NZ has the highest 5G availability at 60.9%, but rural areas may still rely on 4G. Check coverage maps before traveling to remote regions."
+  - myth: "Миф: eSIM работает только на дорогих флагманских телефонах."
+    truth: "Факт: eSIM поддерживается на большинстве современных смартфонов, включая iPhone (начиная с XS), Google Pixel (начиная с 3), Samsung Galaxy (начиная с S20) и многие другие. Проверьте <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">совместимость eSIM</a> вашего устройства перед покупкой."
 
-  - myth: "You need a physical SIM to use mobile data in Neuseeland."
-    truth: "False. eSIM technology allows you to activate a data plan without a physical SIM. Roami's Neuseeland eSIM works on all compatible devices and can be set up in minutes via QR code."
+  - myth: "Миф: Использование eSIM разряжает батарею быстрее, чем физическая SIM-карта."
+    truth: "Факт: Разница в энергопотреблении между eSIM и физической SIM-картой незначительна. Современные телефоны оптимизированы для работы с eSIM, и вы не заметите существенного влияния на время автономной работы."
 
-  - myth: "Unlimited data plans have no restrictions."
-    truth: "False. Most unlimited plans have a Fair Usage Policy (FUP). After a certain threshold (e.g., 30 GB), speeds may be throttled during peak times. Always read the terms before purchasing."
+  - myth: "Миф: В Новой Зеландии нельзя использовать eSIM для звонков, только для интернета."
+    truth: "Факт: eSIM Roami поддерживает не только интернет, но и голосовые звонки и SMS. Вы можете совершать и принимать звонки, используя местный номер, что удобно для связи с отелями, ресторанами и экстренными службами."
 
-  - myth: "eSIMs are only for tourists."
-    truth: "False. While eSIMs are popular among travelers, locals also use them for secondary lines, business purposes, or testing different networks. eSIMs offer flexibility for both short-term and long-term use."
+  - myth: "Миф: Активация eSIM занимает много времени и требует посещения офиса оператора."
+    truth: "Факт: Активация eSIM Roami происходит полностью онлайн и занимает не более 5 минут. Вам не нужно посещать офис или магазин. Просто отсканируйте QR-код, и вы подключены."
 
 
 # Data sources
-data_sources_title: "Neuseeland mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Neuseeland"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/new-zealand-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla's Speedtest Intelligence data for 1H 2025 provides comprehensive mobile and fixed network performance metrics for Neuseeland, including median download/upload speeds, latency, consistency, and 5G availability."
+    description: "Отчёт Ookla за первую половину 2025 года, основанный на данных Speedtest Intelligence. Показывает лидерство One NZ по общему качеству мобильной сети и Spark по скорости 5G."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's mobile network experience report for New Zealand (2025) offers insights into 4G/5G availability, download speed experience, and video streaming quality across One NZ, Spark, and 2degrees."
+    description: "Отчёт OpenSignal за 2025 год, подтверждающий высокое качество покрытия и скорости в Новой Зеландии. Дополнительный источник для верификации данных."
 
-  - name: "Commerce Commission New Zealand 2025"
-    description: "The New Zealand Commerce Commission's annual telecommunications monitoring report provides regulatory data on spectrum allocation, coverage obligations, and market competition among mobile operators."
+  - name: "NZCC (New Zealand Commerce Commission) 2025"
+    description: "Данные новозеландского регулятора телекоммуникаций о покрытии и качестве услуг операторов One NZ, Spark и 2degrees."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports (Ookla, OpenSignal, Commerce Commission New Zealand) for the period 1H 2025. Actual speeds and coverage may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your device, time of day, and specific location within Neuseeland. Always check the latest coverage maps from your chosen operator."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах Ookla, OpenSignal и NZCC за первую половину 2025 года. Скорость и покрытие могут варьироваться в зависимости от местоположения, времени суток и загрузки сети."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от местоположения, времени суток и загрузки сети. Рекомендуем проверять актуальные карты покрытия операторов перед поездкой."
 
 # CTA product card
-cta_title: "Secure your Neuseeland eSIM today"
-cta_desc: "Get immediate access to high-speed 5G data on Neuseeland's best networks. No physical SIM, no roaming fees, instant activation via QR code. Perfect for travelers, digital nomads, and business professionals."
-cta_button_text: "Buy Neuseeland eSIM now"
+cta_title: "Получите вашу eSIM для Neuseeland сегодня"
+cta_desc: "Мгновенный доступ к лучшим сетям Новой Зеландии. Активация за секунды, никаких скрытых платежей. Оставайтесь на связи с Roami."
+cta_button_text: "Купить eSIM для Neuseeland сейчас"
 cta_button_link: "/new-zealand-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Neuseeland trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Neuseeland"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Neuseeland eSIM: Quick activation with no physical SIM cards
+# Neuseeland eSIM: Экономьте время и силы с интернетом для путешествий
 
-> **💡 Short summary for travelers:** 【Unlimited 5G data: more efficient use by sharing across multiple devices】. With Roami's Neuseeland eSIM, you can share your unlimited 5G data across your phone, tablet, and laptop, maximizing every megabyte. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/new-zealand-speedtest-connectivity-report-h1-2025), Spark leads 5G with a median download speed of 342.37 Mbps, while One NZ offers the best overall mobile network with a Speedtest Connectivity Score of 74.58. Whether you're in Wellington (fastest mobile city at 186.4 Mbps) or Lower Hutt (fastest fixed city at 223.26 Mbps), Roami's eSIM ensures you stay connected without physical SIM cards or roaming fees.
+> **💡 Краткое резюме для путешественников:** 【Бесшовное переключение сетей в нескольких странах – новый стандарт для путешествующих цифровых кочевников】. Roami eSIM для Neuseeland обеспечивает мгновенное подключение к лучшим местным сетям: One NZ (лидер по общему качеству мобильной связи с показателем Speedtest Connectivity Score 74.58) и Spark (самая быстрая сеть 5G с медианной скоростью загрузки 342.37 Мбит/с). Забудьте о роуминговых сборах и физических SIM-картах. Активируйте eSIM за секунды по QR-коду и наслаждайтесь высокоскоростным интернетом в городах и сельской местности. Идеальное решение для тех, кто ценит время и стабильное соединение.
 
-## Things you need to know before buying a Neuseeland eSIM
+## Что нужно знать перед покупкой eSIM для Neuseeland
 
 
-### 1. Main 5G/4G frequency bands in Neuseeland {#1-main-5g4g-frequency-bands-in-neuseeland}
-Neuseeland's mobile networks operate on the following key bands: 4G: Band 1 (2100 MHz), Band 3 (1800 MHz), Band 28 (700 MHz) for wide coverage. 5G: n78 (3500 MHz) is the primary 5G band used by all three operators (One NZ, Spark, 2degrees). Some operators also use n40 (2300 MHz) and n257 (28 GHz) for mmWave in dense urban areas. Ensure your device supports these bands for optimal performance.
+### 1. Основные диапазоны частот 5G и 4G в Новой Зеландии {#1-основные-диапазоны-частот-5g-и-4g-в-новой-зеландии}
+Перед покупкой eSIM убедитесь, что ваш смартфон поддерживает новозеландские частоты. Основные диапазоны 4G: Band 1 (2100 МГц), Band 3 (1800 МГц), Band 28 (700 МГц). Для 5G используются диапазоны n78 (3500 МГц) и n257 (28 ГГц). Большинство современных флагманских телефонов поддерживают эти частоты, но старые модели могут иметь ограничения.
 
-### 2. KYC (Know Your Customer) requirements {#2-kyc-know-your-customer-requirements}
-To activate a Neuseeland eSIM, you must provide a valid form of identification. Accepted documents include a passport, national ID card, or driver's license. The KYC process is typically completed online during purchase. Your personal data is handled in compliance with New Zealand's Privacy Act 2020.
+### 2. Требования KYC (Know Your Customer) для активации eSIM {#2-требования-kyc-know-your-customer-для-активации-esim}
+Для активации eSIM в Новой Зеландии требуется пройти процедуру KYC. Вам необходимо предоставить действительный заграничный паспорт и, возможно, подтверждение адреса (например, банковская выписка или счет за коммунальные услуги). Процесс обычно занимает несколько минут и выполняется онлайн.
 
-### 3. Fair Usage Policy (FUP) for unlimited data plans {#3-fair-usage-policy-fup-for-unlimited-data-plans}
-Most unlimited data eSIM plans in Neuseeland have a Fair Usage Policy (FUP). Typically, after a certain data threshold (e.g., 30 GB per month), speeds may be throttled to 1-2 Mbps during peak times. Always check the specific FUP of your chosen provider to avoid unexpected slowdowns.
+### 3. Политика добросовестного использования (Fair Usage Policy) {#3-политика-добросовестного-использования-fair-usage-policy}
+Большинство eSIM-провайдеров, включая Roami, применяют политику добросовестного использования. Это означает, что после превышения определенного лимита трафика (обычно 20-50 ГБ в месяц) скорость может быть временно снижена. Внимательно читайте условия вашего тарифа.
 
-### 4. eSIM compatibility and device support {#4-esim-compatibility-and-device-support}
-eSIM is supported on most modern smartphones including iPhone XS and later, Samsung Galaxy S20 and later, Google Pixel 4 and later, and select Huawei, Oppo, and Xiaomi models. Some older devices may not support eSIM. Check your device's IMEI <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing.
+### 4. Совместимость с двухсимочными устройствами {#4-совместимость-с-двухсимочными-устройствами}
+eSIM для Новой Зеландии отлично работает на двухсимочных смартфонах. Вы можете сохранить свою физическую SIM-карту для звонков и SMS, а eSIM использовать для мобильного интернета. Это особенно удобно для путешественников, которые хотят оставаться на связи со своим домашним номером.
 
-### 5. Roaming and network switching {#5-roaming-and-network-switching}
-Neuseeland eSIMs typically connect to a single operator network (One NZ, Spark, or 2degrees). Some providers offer automatic network switching for better coverage. Roaming within Neuseeland is free, but if you travel to nearby islands like the Cook Islands, separate roaming charges may apply.
+### 5. Роуминг и международные звонки {#5-роуминг-и-международные-звонки}
+eSIM Roami для Новой Зеландии предназначена только для использования внутри страны. Если вы планируете посетить соседние острова (например, острова Кука или Фиджи), вам потребуется отдельная eSIM для этих направлений. Международные звонки с новозеландского номера могут тарифицироваться отдельно.

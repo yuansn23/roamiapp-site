@@ -1,659 +1,516 @@
 ---
-title: North America eSIM Data Plan | Best 2026 Travel eSIM | Roami
+title: Северная Америка eSIM Тариф | Лучшая туристическая eSIM 2026 | Roami
 date: '2026-03-29T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: North America eSIM
-  scenario_keywords: New York sightseeing, Los Angeles road trip, Toronto city break,
-    Mexico City exploration, Niagara Falls visit
+  core_keyword: Северная Америка eSIM
+  scenario_keywords: Осмотр Нью-Йорка, поездка по Лос-Анджелесу, отдых в Торонто,
+    знакомство с Мехико, посещение Ниагарского водопада
   operators: AT&T, T-Mobile, Rogers
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: New York, Los Angeles, Toronto, Mexico City, Chicago
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_cities: Нью-Йорк, Лос-Анджелес, Торонто, Мехико, Чикаго
+  main_packages: 3/7/15/30 дней, безлимитный интернет
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: Сервис обновлён!
+  btn_text: Продолжить
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Наш eSIM-сервис обновлён до <strong>PhoneSIMGo</strong>.<br>Новые клиенты получают скидку 20%, промокод: web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Наш eSIM-сервис обновлён до <strong>PhoneSIM</strong>.<br>Новые клиенты получают скидку 20%, промокод: web20
 seo:
-  title: Top North America eSIM  Top Local Carrier High-Speed 5G | Roami
-  description: Heading to North America soon? Enjoy Top Local Carrier Fast 5G and
-    Fair Use Data with Roami. Enjoy No Roaming Fees and Nationwide Coverage, tailored
-    for Light Travel.
-  keywords: North America eSIM, prepaid eSIM, cheap eSIM, unlimited data, travel internet,
-    no roaming charges, instant delivery
+  title: Лучшая eSIM для Северной Америки | Высокоскоростной 5G от ведущего оператора | Roami
+  description: Скоро в Северную Америку? Наслаждайтесь быстрым 5G от ведущего местного оператора и честным использованием данных с Roami. Никаких роуминговых сборов и общенациональное покрытие, создано для лёгких путешествий.
+  keywords: eSIM Северная Америка, предоплаченная eSIM, дешёвая eSIM, безлимитный интернет, туристический интернет, без роуминга, мгновенная доставка
   low_price: 1.99
   high_price: 39.9
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: Выбранный тариф
+  label_data: Включено данных
+  label_validity: Срок действия
+  label_daily: В день
+  label_total: Итого
+  btn_primary: Получить скидку 20%
+  btn_secondary: 'Код: web20'
 breadcrumbs:
-- label: Home
+- label: Главная
   url: /
-- label: North America eSIM
+- label: Северная Америка eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for North America
-  title: Best eSIM for North America
+  alt: Лучшая eSIM для Северной Америки
+  title: Лучшая eSIM для Северной Америки
 hero:
-  flag_image: img/flags/no.svg
-  flag_alt: North America Flag
-  title: North America eSIM data plan
-  subtitle: Travel with ease | Smooth video streaming | Travel essential
+  flag_image: img/flags/ya.webp
+  flag_alt: Флаг Северной Америки
+  title: Тариф eSIM для Северной Америки
+  subtitle: Путешествуйте с лёгкостью | Плавное потоковое видео | Необходимая вещь для путешествий
 features:
-  title: Why Travelers Choose Roami
+  title: Почему путешественники выбирают Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: Мгновенный QR-код
+    desc: Доставка в течение 5 минут
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 поддержка
+    desc: Всегда рядом, чтобы помочь
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: Гарантия
+    desc: Защита покупателя
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: Поддержка хот-спота
+    desc: Делитесь с другими устройствами
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: Без контрактов
+    desc: Отмена в любое время
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: Автоматическое переключение
+    desc: Подключение к лучшим операторам
+plans_title: Выберите ваш тариф
 plans_data:
-  15 Days:
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  15 дней:
+  - spec: 5 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для глубоких путешествий
     price: '29.99'
     oldPrice: '44.98'
-    tag: Great Value
+    tag: Отличная цена
     tagColor: bg-emerald-500
     daily: '2.00'
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+  - spec: 3 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для осмотра достопримечательностей
     price: '10.99'
     oldPrice: '16.48'
     tag: ''
     tagColor: bg-orange-500
     daily: '0.73'
     tagIcon: star
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 5 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для глубоких путешествий
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: Отличная цена
     tagColor: bg-emerald-500
     daily: '0.93'
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 10 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для глубоких путешествий
     price: '24.99'
     oldPrice: '37.48'
-    tag: Great Value
+    tag: Отличная цена
     tagColor: bg-emerald-500
     daily: '1.67'
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+  - spec: 20 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '44.99'
     oldPrice: '67.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.00'
-  30 Days:
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  30 дней:
+  - spec: 5 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для глубоких путешествий
     price: '54.99'
     oldPrice: '82.48'
-    tag: Great Value
+    tag: Отличная цена
     tagColor: bg-emerald-500
     daily: '1.83'
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+  - spec: 3 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для осмотра достопримечательностей
     price: '11.99'
     oldPrice: '17.98'
     tag: ''
     tagColor: bg-orange-500
     daily: '0.40'
     tagIcon: star
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 5 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для глубоких путешествий
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: Отличная цена
     tagColor: bg-emerald-500
     daily: '0.50'
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 10 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для глубоких путешествий
     price: '25.99'
     oldPrice: '38.98'
-    tag: Great Value
+    tag: Отличная цена
     tagColor: bg-emerald-500
     daily: '0.87'
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+  - spec: 20 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '46.99'
     oldPrice: '70.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.57'
-  7 Days:
-  - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+  7 дней:
+  - spec: 1 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для коротких деловых поездок
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.86'
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+  - spec: 3 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для осмотра достопримечательностей
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
     tagColor: bg-orange-500
     daily: '1.43'
     tagIcon: star
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 5 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для глубоких путешествий
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: Отличная цена
     tagColor: bg-emerald-500
     daily: '1.86'
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 10 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для глубоких путешествий
     price: '23.99'
     oldPrice: '35.98'
-    tag: Great Value
+    tag: Отличная цена
     tagColor: bg-emerald-500
     daily: '3.43'
 discount_banner:
-  title: Special Discount!
+  title: Специальная скидка!
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    Используйте промокод <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> при оформлении заказа, чтобы получить <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% СКИДКИ</span>!
+  btn_text: Получить скидку
+  validity: 'Срок действия: 3 дня'
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: Детали покрытия сети
+  supports_text: 'Поддерживает:'
   service_details:
-    title: Service Details
+    title: Детали услуги
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across North America, including major
-        cities like New York, Los Angeles, Toronto, and Mexico City. Our North America
-        eSIM seamlessly connects to the robust networks of AT&T, T-Mobile, and Rogers,
-        ensuring stable signals in urban centers, tourist hotspots, and along major
-        transportation routes.
+      title: Покрытие
+      desc: Наслаждайтесь всесторонним покрытием сети по всей Северной Америке, включая крупные города, такие как Нью-Йорк, Лос-Анджелес, Торонто и Мехико. Наша eSIM для Северной Америки бесшовно подключается к надёжным сетям AT&T, T-Mobile и Rogers, обеспечивая стабильный сигнал в городских центрах, туристических местах и на основных транспортных маршрутах.
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: Время доставки
+      desc: Мгновенная доставка после покупки.
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: Хот-спот
+      desc: Без ограничений на хот-спот.
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: Сети операторов
+    badge: Официальный партнёр
     items:
     - name: AT&T
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: Низкая задержка
+      network: Сеть 5G/4G/LTE
     - name: T-Mobile
-      coverage: Reliability
-      network: 5G/4G/LTE Network
+      coverage: Надёжность
+      network: Сеть 5G/4G/LTE
     - name: Rogers
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: Нативный IP
+      network: Сеть 5G/4G/LTE
 reminders:
-  title: Important Reminders
+  title: Важные напоминания
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      Перед покупкой убедитесь, что ваш телефон <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">поддерживает eSIM</a>.
   - icon: ✈️
-    html: We recommend turning on the line after arriving in North America.
+    html: Рекомендуем включать линию после прибытия в Северную Америку.
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: Срок действия начинается с момента подключения к поддерживаемой сети.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR-код будет отправлен на вашу электронную почту.
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: Вы можете установить несколько eSIM одновременно.
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: Быстрая проверка совместимости
+    desc: 'Не уверены, поддерживает ли ваш телефон eSIM? Вы можете легко проверить это прямо сейчас:'
+    instruction: 'Наберите на клавиатуре телефона:'
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      Если на экране появится <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>-номер, ваше устройство поддерживается!
 activation_steps:
-  title: Activation Steps
+  title: Шаги активации
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 'Шаг 1: Получите QR-код'
+    desc: После оплаты QR-код и руководство по активации будут отправлены на вашу электронную почту в течение 5 минут. Проверьте папку со спамом, если не видите письмо.
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 'Шаг 2: Добавьте eSIM в телефон'
     is_list: true
     list_items:
     - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+      Перейдите в Настройки > Сотовая связь (или Мобильные данные)
+    - Нажмите «Добавить тариф» или «Добавить eSIM»
+    - Отсканируйте QR-код камерой
+    - Следуйте инструкциям для завершения настройки
   - num: '3'
-    title: 'Step 3: Activate in North America'
-    desc: Upon arriving in North America, enable your North America eSIM in settings
-      to start using data. We recommend connecting to WiFi during the initial activation.
+    title: 'Шаг 3: Активируйте в Северной Америке'
+    desc: По прибытии в Северную Америку включите вашу eSIM в настройках, чтобы начать использовать данные. Рекомендуем подключиться к Wi-Fi во время первоначальной активации.
     is_list: false
 faq_section:
   title: North America eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your North America eSIM across different
-    travel scenarios.
+  desc: Все, что вам нужно знать об использовании вашей eSIM в Северной Америке в различных сценариях путешествий.
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: Общие
+    title: 1. Общие вопросы
     questions:
-    - q: Does my phone support the North America eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your North America eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the North America eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in North America
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the North America eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the North America eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in North America that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your North America eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my North America eSIM data (hotspot) with other devices?
-      a: Absolutely. All our North America eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your North America eSIM compared to local SIM
-        cards or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in North
-        America, such as AT&T, T-Mobile, Rogers, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, Holafly, Yesim,
-        Ubigi?
-      a: While great companies like Airalo, Holafly, Yesim, Ubigi offer reliable services,
-        we focus on providing the most cost-effective North America eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: Поддерживает ли мой телефон eSIM для Северной Америки? Как установить?
+      a: Большинство современных смартфонов, начиная с iPhone XS/XR, Samsung Galaxy S20+ и Google Pixel 3+, поддерживают eSIM. Вы можете установить eSIM для Северной Америки, просто отсканировав QR-код, который мы отправляем на вашу электронную почту, в настройках «Сотовая связь/Мобильные данные» вашего телефона.
+    - q: Как купить и активировать eSIM для Северной Америки? Активируется ли она сразу?
+      a: Вы можете купить её прямо на нашем сайте. Она не активируется сразу после покупки; срок действия начинается только тогда, когда вы прибываете в Северную Америку и ваш телефон подключается к местной сети.
+    - q: Что такое активационный QR-код? Истекает ли его срок? Можно ли использовать повторно?
+      a: QR-код — это ваш цифровой SIM-профиль для eSIM Северной Америки. Обычно его необходимо установить в течение 30 дней после покупки. После установки его нельзя отсканировать повторно или перенести на другое устройство.
+    - q: Могу ли я получить возврат средств, если eSIM для Северной Америки не работает или сигнал плохой?
+      a: Да, у нас есть гарантия возврата денег. Если у вас возникнут постоянные проблемы с сетью в Северной Америке, которые наша служба поддержки не сможет решить, вы имеете право на возврат.
+    - q: Предоставляете ли вы круглосуточную поддержку? Как с вами связаться?
+      a: Да, наша техническая поддержка доступна 24/7. Вы можете связаться с нами через виджет чата на нашем сайте или ответив на письмо с подтверждением заказа.
+    - q: Есть ли промокоды? Как использовать промокод 'web20'?
+      a: Да! Вы можете ввести промокод 'web20' на странице оформления заказа, чтобы мгновенно получить скидку 20% на ваш заказ eSIM для Северной Америки.
+    - q: Является ли тариф «Безлимитные данные» действительно безлимитным? Действует ли политика добросовестного использования (FUP)?
+      a: Наши безлимитные тарифы обеспечивают непрерывный доступ к данным. Однако, как и у всех глобальных операторов, применяется политика добросовестного использования для предотвращения злоупотреблений. Если вы потребляете исключительно большой объем данных за короткий период, скорость может быть временно снижена. Тем не менее, это не повлияет на просмотр веб-страниц, использование социальных сетей, просмотр видео и т.д.
+    - q: Могу ли я делиться данными eSIM для Северной Америки (раздавать hotspot) с другими устройствами?
+      a: Абсолютно. Все наши тарифы eSIM для Северной Америки поддерживают мобильный хот-спот и режим модема, что позволяет вам делиться данными со своим ноутбуком, планшетом или попутчиками.
+    - q: В чем преимущества вашей eSIM для Северной Америки по сравнению с местными SIM-картами или другими провайдерами?
+      a: В отличие от физических SIM-карт, вам не нужно стоять в очереди в аэропорту или менять крошечные пластиковые карты. Мы сотрудничаем напрямую с лучшими местными сетями в Северной Америке, такими как AT&T, T-Mobile, Rogers, чтобы обеспечить премиальную скорость за небольшую долю стоимости роуминга.
+    - q: Как Roami сравнивается с известными eSIM-провайдерами, такими как Airalo, Holafly, Yesim, Ubigi?
+      a: В то время как такие известные компании, как Airalo, Holafly, Yesim, Ubigi, предлагают надежные услуги, мы сосредотачиваемся на предоставлении наиболее экономически эффективной eSIM для Северной Америки, обеспечивая более низкую задержку и лучшие цены благодаря нашей системе автоматического сравнения цен.
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: Аэропорты
+    title: 2. Сеть в аэропорту
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the North America eSIM before your flight. Once you land at Los Angeles
-        International Airport (LAX), Toronto Pearson International Airport (YYZ),
-        Mexico City International Airport (MEX), simply turn off Airplane Mode and
-        enable your eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your North America eSIM activated upon landing, you can immediately
-        open Uber, Lyft, Moovit to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed North America eSIM data allows you to open Google Maps right
-        at the baggage claim in Los Angeles International Airport (LAX), Toronto Pearson
-        International Airport (YYZ), Mexico City International Airport (MEX) to check
-        real-time train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our North America eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our North America eSIM provides data only. To receive SMS, keep your home
-        country's primary SIM active for texts (receiving SMS is usually free while
-        roaming) and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast North America eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: Как получить надежную сеть сразу после выхода из самолета?
+      a: Установите eSIM для Северной Америки перед полетом. Как только вы приземлитесь в аэропортах, таких как Лос-Анджелес (LAX), Торонто Пирсон (YYZ), Мехико (MEX), просто выключите авиарежим и включите линию eSIM. Она подключится к местной сети 4G/5G в течение нескольких секунд.
+    - q: Как связаться с водителем встречи или использовать Uber/Grab?
+      a: После активации eSIM после посадки вы можете сразу открыть Uber, Lyft, Moovit, чтобы заказать поездку, или использовать WhatsApp, чтобы написать забронированному водителю, не полагаясь на ненадежный Wi-Fi аэропорта.
+    - q: Как использовать Google/Apple Maps для поиска транспорта?
+      a: Ваши высокоскоростные данные eSIM для Северной Америки позволяют открыть Google Maps прямо у выдачи багажа в аэропортах LAX, YYZ, MEX, чтобы проверить расписание поездов, автобусные маршруты или пешеходные указатели к стоянке такси.
+    - q: Как избежать покупки дорогих временных SIM-карт в аэропорту?
+      a: Купив нашу eSIM для Северной Америки онлайн заранее, вы полностью обходите туристические киоски по продаже SIM-карт в зале прилета, экономя время и деньги.
+    - q: Как получать SMS от отеля/проката авто без местного номера?
+      a: Наша eSIM для Северной Америки предоставляет только данные. Чтобы получать SMS, оставьте домашнюю основную SIM-карту активной для текстовых сообщений (получение SMS в роуминге обычно бесплатно) и используйте eSIM для всего интернет-трафика.
+    - q: Как немедленно связаться с семьей, чтобы сообщить о безопасности и плане поездки?
+      a: Как только вы коснетесь земли, вы можете использовать iMessage, WhatsApp или FaceTime через наши быстрые данные eSIM для Северной Америки, чтобы сообщить семье, что вы благополучно прибыли.
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: Транспорт
+    title: 3. Транспорт и путешествия
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable North America eSIM connection ensures Google Maps can download
-        real-time traffic data and transit schedules anywhere in North America, making
-        navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Lyft, Moovit use VoIP (internet calling) and in-app messaging.
-        Since you have active North America eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your North America eSIM data to access local transit apps or
-        websites to purchase digital QR-code tickets on the go, avoiding long queues
-        at ticket machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your North America eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in North America.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our North America eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your North America eSIM's data network while
-        on the train or in the car.
+    - q: Как использовать Google/Apple Maps для планирования маршрута?
+      a: Наше стабильное соединение eSIM для Северной Америки гарантирует, что Google Maps сможет загружать данные о трафике в реальном времени и расписания транспорта в любом месте Северной Америки, делая навигацию бесшовной.
+    - q: Как позволить водителям Uber/Grab связаться с вами через приложение?
+      a: Приложения типа Uber, Lyft, Moovit используют VoIP (интернет-звонки) и внутриприложенные сообщения. Поскольку у вас есть активные данные eSIM для Северной Америки, водители могут звонить или писать вам напрямую через приложение без необходимости иметь местный номер телефона.
+    - q: Как купить билеты на поезд/метро онлайн?
+      a: Вы можете использовать данные вашей eSIM для Северной Америки, чтобы получить доступ к местным транспортным приложениям или веб-сайтам для покупки цифровых QR-билетов в пути, избегая длинных очередей в билетных автоматах.
+    - q: Как использовать Google Maps для навигации в реальном времени после аренды автомобиля?
+      a: Просто установите телефон на крепление и используйте данные eSIM для Северной Америки. Тарифа 5 ГБ или 10 ГБ более чем достаточно для активной GPS-навигации во время поездки на автомобиле по Северной Америке.
+    - q: Как сканировать и разблокировать общие электросамокаты (Lime/Bird)?
+      a: Разблокировка электросамокатов требует быстрого подключения к Интернету для обработки QR-кода и оплаты. Наша eSIM для Северной Америки обеспечивает необходимое для этого надежное городское покрытие.
+    - q: Как обеспечить нормальную работу приложений райдшеринга в нескольких странах?
+      a: Если вы путешествуете по региону, ваш аккаунт в приложении райдшеринга остается тем же. Просто убедитесь, что у вас есть активное подключение к Интернету (через нашу локальную или региональную eSIM), чтобы заказывать поездки.
+    - q: Как обеспечить стабильную личную точку доступа для устройств семьи?
+      a: Перейдите в настройки телефона, включите «Режим модема», и ваша семья сможет подключать свои телефоны или iPad к сети данных вашей eSIM для Северной Америки в поезде или автомобиле.
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: Отели
+    title: 4. Отели и проживание
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your North America eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your North America eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Marriott, Hilton, Four Seasons or a local guesthouse,
-        you can input the address into Google Maps and get turn-by-turn walking or
-        transit directions using your North America eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your North America eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed North America eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download DoorDash, Uber Eats, Grubhub and use
-        your North America eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your North America eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: Как заселиться самостоятельно после бронирования на Booking.com/Agoda?
+      a: Многие современные варианты аренды требуют доступа к онлайн-порталу или проверки электронной почты для получения кода умного замка. Ваша eSIM для Северной Америки гарантирует, что вы сможете получить эти данные прямо у порога.
+    - q: Как немедленно связаться с хозяином Airbnb для получения инструкций по прибытии?
+      a: Вы можете использовать функцию обмена сообщениями в приложении Airbnb или WhatsApp, чтобы согласовать время прибытия с хозяином, используя мобильные данные вашей eSIM для Северной Америки.
+    - q: Как использовать Google Maps для навигации к отелю?
+      a: Независимо от того, останавливаетесь ли вы в Marriott, Hilton, Four Seasons или в местном гостевом доме, вы можете ввести адрес в Google Maps и получить пошаговые пешеходные или транспортные указания, используя вашу eSIM для Северной Америки.
+    - q: Как получить SMS-коды подтверждения, используя Wi-Fi отеля и eSIM?
+      a: Оставьте вашу домашнюю основную SIM-карту включенной для SMS, и используйте Wi-Fi отеля или данные вашей eSIM для Северной Америки, чтобы инициировать код подтверждения от вашего банка или приложения.
+    - q: Как быстро связаться со службой поддержки Booking/отеля для изменения заказа?
+      a: Вы можете использовать VoIP-приложения, такие как Skype, или функции чата поддержки внутри приложения Booking.com, используя ваши высокоскоростные данные eSIM для Северной Америки.
+    - q: Как заказать еду в отель с помощью местных приложений доставки?
+      a: Если вы приезжаете поздно, вы можете загрузить DoorDash, Uber Eats, Grubhub и использовать данные eSIM для Северной Америки, чтобы заказать горячую еду прямо в холл или номер отеля.
+    - q: Как поддерживать интернет-соединение, чтобы общаться с отелем после выезда?
+      a: Как только вы покинете зону Wi-Fi отеля, ваша eSIM для Северной Америки автоматически вступит в силу, позволяя вам написать в отель, если вы забыли багаж или нужно договориться о более позднем заборе.
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: Достопримечательности
+    title: 5. Достопримечательности и развлечения
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Grand Canyon, Niagara Falls, Statue of Liberty spontaneously,
-        you can use your North America eSIM data to buy skip-the-line tickets online
-        and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your North America eSIM, you can read reviews and
-        book local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring North America.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your North America eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your North America eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your North America eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast North America eSIM upload speeds mean you can post high-quality
-        stories, reels, and photos of your trip in real-time without waiting for hotel
-        Wi-Fi.
+    - q: Как купить электронные билеты через GetYourGuide/Viator?
+      a: Если вы спонтанно решите посетить Гранд-Каньон, Ниагарский водопад, Статую Свободы, вы можете использовать данные eSIM для Северной Америки, чтобы купить билеты без очереди онлайн и предъявить штрих-код на экране.
+    - q: Как мгновенно забронировать впечатления на Tripadvisor?
+      a: Благодаря надежному 4G/5G от вашей eSIM для Северной Америки вы можете читать отзывы и бронировать местные туры или впечатления на Tripadvisor, попивая кофе в ближайшем кафе.
+    - q: Как использовать Google/Википедию для поиска информации во время посещения?
+      a: Улучшите свои культурные впечатления, мгновенно находя исторические факты в Google или переводя таблички в музеях, исследуя Северную Америку.
+    - q: Как использовать Google Maps для навигации к следующей достопримечательности?
+      a: Просто введите следующее место назначения в Google Maps; сильное городское покрытие вашей eSIM для Северной Америки проведет вас через самый быстрый пешеходный или общественный транспорт.
+    - q: Как проверить время ожидания в реальном времени в тематических парках, таких как Disney?
+      a: Приложениям тематических парков требуется постоянный доступ в Интернет для отображения времени ожидания и бронирования FastPass. Ваша eSIM для Северной Америки будет поддерживать вас на связи на всей территории парка.
+    - q: Как получить доступ к Ticketmaster для бронирования билетов на шоу?
+      a: Вы можете безопасно просматривать и покупать билеты в театр или на концерты в последнюю минуту через приложения по продаже билетов, используя ваши сотовые данные eSIM для Северной Америки.
+    - q: Как мгновенно делиться фотографиями/видео в Instagram/Facebook?
+      a: Быстрая скорость загрузки eSIM для Северной Америки означает, что вы можете публиковать качественные истории, рилс и фотографии вашей поездки в реальном времени, не дожидаясь Wi-Fi отеля.
   - id: faq-dining
     icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
+    tab_title: Рестораны
+    title: 6. Рестораны и кафе
     questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your North America eSIM data to search 'restaurants near me' on Google
-        Maps to check ratings, opening hours, and photos of the menu before walking
-        in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your North America eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your North America eSIM ensures you
-        can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your North America
-        eSIM to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like DoorDash, Uber Eats, Grubhub, register using
-        your email or social accounts, and order food seamlessly using your North
-        America eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Visa,
-        Mastercard, Apple Pay require a brief internet handshake, which your North
-        America eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your North America eSIM to find hidden culinary gems in the city.
+    - q: Как найти рестораны с помощью Google Maps/Tripadvisor?
+      a: Используйте данные eSIM для Северной Америки, чтобы найти «рестораны рядом со мной» в Google Maps и проверить рейтинги, часы работы и фотографии меню, прежде чем заходить.
+    - q: Как забронировать столик через OpenTable или сайты ресторанов?
+      a: Вы можете легко забронировать столик на ужин, зайдя на платформы бронирования онлайн, используя вашу eSIM для Северной Америки, пока вы осматриваете достопримечательности.
+    - q: Как сканировать QR-коды в ресторанах для просмотра электронных меню?
+      a: Многие рестораны теперь используют цифровые меню. Ваша eSIM для Северной Америки гарантирует, что вы сможете отсканировать QR-код на столе и мгновенно загрузить меню.
+    - q: Как использовать камеру Google Translate для перевода меню?
+      a: Откройте приложение Google Translate, выберите функцию камеры и направьте её на местное меню. Для точного перевода в реальном времени требуется интернет-соединение через вашу eSIM для Северной Америки.
+    - q: Как зарегистрироваться и использовать международные версии Uber Eats/DoorDash?
+      a: Вы можете загрузить местные приложения, такие как DoorDash, Uber Eats, Grubhub, зарегистрироваться, используя свою электронную почту или социальные сети, и заказать еду без проблем, используя мобильные данные eSIM для Северной Америки.
+    - q: Как успешно оплатить через Apple Pay/Google Pay?
+      a: Бесконтактные платежи через Apple Pay, Google Pay или местные методы, такие как Visa, Mastercard, Apple Pay, требуют короткого обмена данными через интернет, с чем ваша eSIM для Северной Америки справляется идеально.
+    - q: Как найти рестораны, рекомендуемые Yelp/фуд-блогерами?
+      a: Вы можете смотреть кулинарные влоги на YouTube или просматривать отзывы на Yelp на ходу, используя вашу eSIM для Северной Америки, чтобы найти скрытые кулинарные жемчужины города.
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: Соцсети
+    title: 7. Социальные сети и общение
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        North America eSIM providing the internet, you can chat and call exactly as
-        you do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G North America eSIM gives
-        you the bandwidth needed to upload heavy video files to TikTok or Instagram
-        securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the North America eSIM are clear and lag-free, no matter where you are
-        in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal North
-        America eSIM cellular data is encrypted and vastly safer for logging into
-        accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your North America eSIM data allowance to check their own
-        social media.
+    - q: Как стабильно пользоваться WhatsApp/Telegram за границей?
+      a: Ваши учетные записи WhatsApp и Telegram привязаны к вашему домашнему номеру. С нашей eSIM для Северной Америки, обеспечивающей интернет, вы можете общаться и звонить точно так же, как дома.
+    - q: Как загружать контент в Instagram/TikTok, не подключаясь к общественному Wi-Fi?
+      a: Общественный Wi-Fi может быть медленным и небезопасным. Наша eSIM для Северной Америки 4G/5G дает вам полосу пропускания, необходимую для безопасной загрузки больших видеофайлов в TikTok или Instagram.
+    - q: Как совершать видеозвонки FaceTime/WhatsApp с семьей?
+      a: Наше партнерство с сетями с низкой задержкой гарантирует, что ваши видеозвонки FaceTime по eSIM для Северной Америки будут четкими и без задержек, где бы вы ни находились в стране.
+    - q: Безопасно ли входить в социальные сети, подключаясь к общественному Wi-Fi?
+      a: Общественные сети Wi-Fi уязвимы для взлома. Использование ваших личных сотовых данных eSIM для Северной Америки зашифровано и намного безопаснее для входа в учетные записи.
+    - q: Как поделиться сетью в качестве личной точки доступа с попутчиками?
+      a: Включите функцию хот-спота на вашем телефоне. Ваши друзья смогут подключиться к вашей сети Wi-Fi и использовать ваш пакет данных eSIM для Северной Америки, чтобы проверять свои собственные социальные сети.
   - id: faq-crossborder
     icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
+    tab_title: Границы
+    title: 8. Путешествия через границы
     questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country North America eSIM, it only works there. For
-        multi-country trips, we highly recommend our Regional eSIM (e.g., Europe eSIM),
-        which covers multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your North America eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: Нужно ли покупать другую SIM-карту для каждой страны при путешествии по нескольким европейским странам?
+      a: Если вы покупаете eSIM для одной страны Северной Америки, она работает только там. Для поездок по нескольким странам мы настоятельно рекомендуем нашу региональную eSIM (например, eSIM для Европы), которая охватывает несколько стран одним профилем.
+    - q: Как избежать высоких роуминговых сборов при пересечении границ на поезде?
+      a: Отключите роуминг данных на вашей домашней SIM-карте. Убедитесь, что ваша eSIM для Северной Америки установлена в качестве основной линии данных, чтобы вы никогда не несли непредвиденных расходов от вашего домашнего оператора.
+    - q: Как получить краткосрочную сеть при транзите в Сингапуре/Дубае?
+      a: Вы можете приобрести недорогую eSIM на 1 ГБ специально для страны транзита, чтобы оставаться на связи во время пересадки.
+    - q: Как получить экономичную местную сеть для береговых экскурсий на круизе?
+      a: Вместо того чтобы платить за дорогой Wi-Fi на корабле, активируйте местную eSIM для стран, в которые вы заходите. Она подключится, как только вы приблизитесь к берегу.
+    - q: Как обеспечить, чтобы Google Maps был онлайн во время трансграничных поездок на автомобиле?
+      a: С региональной eSIM ваш телефон автоматически переключится на сеть новой страны, когда вы пересечете границу, поддерживая ваш GPS активным.
+    - q: Как управлять использованием данных в нескольких странах с помощью одного приложения?
+      a: Вы можете отслеживать использование данных для всех ваших активных eSIM прямо через панель пользователя на нашем веб-сайте.
+    - q: Как поддерживать стабильные способы связи во время поездок по нескольким странам?
+      a: Поскольку ваш WhatsApp/iMessage зависит от данных, использование региональной eSIM гарантирует, что ваши друзья и семья всегда смогут связаться с вами по одному номеру без перебоев.
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: ЧС
+    title: 9. Чрезвычайные ситуации
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In North America, you can dial local emergency numbers like 911 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your North America eSIM data allows you to immediately search Google Maps
-        for 'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your North America eSIM to find
-        the exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your North America eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        North America eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your North America eSIM, use
-        your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
+    - q: Как набрать местные экстренные номера в незнакомой стране?
+      a: В Северной Америке вы можете набрать местные экстренные номера, такие как 911, прямо с клавиатуры телефона, независимо от вашей активной SIM, если ваш телефон может уловить любой сотовый сигнал.
+    - q: Как найти ближайшую больницу/аптеку в случае внезапного заболевания?
+      a: Ваши данные eSIM для Северной Америки позволяют вам немедленно найти в Google Maps «аптеку рядом со мной» или «больницу» и получить самый быстрый маршрут.
+    - q: Как найти информацию о посольстве/консульстве после потери паспорта?
+      a: Вы можете быстро найти в Интернете с помощью вашей eSIM для Северной Америки точный адрес, экстренный адрес электронной почты и часы работы посольства вашей страны.
+    - q: Как связаться с горячей линией помощи туристической страховки при несчастном случае?
+      a: Используйте VoIP-приложения, такие как Skype или Viber, через данные вашей eSIM для Северной Америки, чтобы позвонить на международные бесплатные номера вашей страховой компании.
+    - q: Как поделиться местоположением в реальном времени в небезопасных районах?
+      a: Вы можете использовать функцию «Поделиться местоположением» в WhatsApp или функцию «Локатор» Apple, чтобы непрерывно передавать координаты GPS доверенным лицам, используя мобильные данные вашей eSIM для Северной Америки.
+    - q: Как загрузить офлайн-карты/ключевые места перед поездкой в отдаленные районы?
+      a: Пока у вас еще есть сильное городское покрытие с вашей eSIM для Северной Америки, используйте ваши данные, чтобы загрузить офлайн-зоны в Google Maps на случай, если вы отправитесь в горы или глухие сельские районы, где сигнал пропадает.
   - id: faq-business
     icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
+    tab_title: Бизнес
+    title: 10. Бизнес и работа
     questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our North America eSIM connects to premium local networks, providing the
-        high bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the North America eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your North America eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your North America eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your North America eSIM, you can rapidly upload
-        presentations or large documents to Google Drive or Dropbox directly from
-        the exhibition floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your North America eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your North America eSIM to update them on flight delays or
-        schedule changes.
+    - q: Как обеспечить стабильные видеовстречи Zoom/Microsoft Teams?
+      a: Наша eSIM для Северной Америки подключается к премиальным местным сетям, обеспечивая высокую пропускную способность и низкую задержку, необходимые для плавных профессиональных видеоконференций.
+    - q: Как безопасно подключиться к корпоративному VPN для доступа к внутренним системам во время деловых поездок?
+      a: Наши сотовые данные не ограничивают протоколы VPN. Вы можете безопасно запустить корпоративное VPN-приложение через сеть eSIM для Северной Америки для доступа к внутренним серверам.
+    - q: Как обеспечить сеть для ноутбуков с помощью мобильных хот-спотов в аэропортах/кафе?
+      a: Просто включите функцию «Персональный хот-спот» на вашем телефоне. Распространение сигнала через вашу eSIM для Северной Америки значительно быстрее и гораздо безопаснее от киберугроз, чем использование открытых общественных сетей Wi-Fi.
+    - q: Как гарантировать получение кодов подтверждения от банка/корпоративной почты?
+      a: Оставьте вашу домашнюю SIM-карту активной для получения SMS, и используйте данные eSIM для Северной Америки для получения кодов 2FA по электронной почте или push-уведомлений от приложений-аутентификаторов.
+    - q: Как быстро загружать большие файлы в облачные хранилища на площадках клиентов/выставках?
+      a: Со скоростями 5G/4G LTE от вашей eSIM для Северной Америки вы можете быстро загружать презентации или большие документы в Google Диск или Dropbox прямо с выставочного этажа.
+    - q: Как бесшовно использовать Slack/Gmail/Google Диск для совместной работы?
+      a: Ваша eSIM для Северной Америки обеспечивает постоянное подключение, гарантируя, что вы мгновенно получаете уведомления Slack и важные электронные письма, оставаясь в курсе событий вашей команды.
+    - q: Как в любое время обновлять маршруты поездок онлайн, чтобы информировать компанию?
+      a: Вы можете получить доступ к корпоративным туристическим порталам или написать в отдел кадров на ходу, используя вашу eSIM для Северной Америки, чтобы сообщить им о задержках рейсов или изменениях в расписании.
 related_products:
-  title: Related eSIM Plans
+  title: Похожие eSIM-планы
   items:
-  - name: united states eSIM
+  - name: eSIM для США
     flag: img/flags/us.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: United-Kingdom
+  - name: eSIM для Великобритании
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Europe eSIM
+  - name: eSIM для Европы
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: true
-  - name: Canada eSIM
+  - name: eSIM для Канады
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Turkey eSIM
+  - name: eSIM для Турции
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: China eSIM
+  - name: eSIM для Китая
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Japan eSIM
+  - name: eSIM для Японии
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
+  - name: eSIM для Гонконга
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: France eSIM
+  - name: eSIM для Франции
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Spain eSIM
+  - name: eSIM для Испании
     flag: img/flags/es.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Germany eSIM
+  - name: eSIM для Германии
     flag: img/flags/de.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Australia eSIM
+  - name: eSIM для Австралии
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
 ---

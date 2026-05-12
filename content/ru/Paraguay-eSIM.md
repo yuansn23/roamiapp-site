@@ -1,652 +1,658 @@
 ---
-title: Paraguay eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: Парагвай eSIM тариф | Лучшая туристическая eSIM 2026 | Roami
+date: '2026-05-12T09:32:28+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Paraguay eSIM
-  scenario_keywords: Asunción sightseeing, Paraguay business trip, Itaipu Dam visit,
-    Jesuit Missions exploration, Paraguay river cruise
+  core_keyword: Парагвай eSIM
+  scenario_keywords: путешествие в Парагвай, осмотр достопримечательностей, деловая
+    поездка, экотуризм, отдых
   operators: Tigo, Claro, Personal
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Asunción, Ciudad del Este, Encarnación, Luque, San Lorenzo
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  competitors: Airalo, Holafly, Nomad, Flexiroam, SimOptions
+  main_cities: Асунсьон, Сьюдад-дель-Эсте, Энкарнасьон, Консепсьон, Педро-Хуан-Кабальеро
+  main_packages: 3/7/15/30 дней, безлимитные данные
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: Обновление сервиса!
+  btn_text: Продолжить
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Наш eSIM-сервис обновлён до <strong>PhoneSIMGo</strong>.<br>Новые клиенты получают 20% скидку с кодом: web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Наш eSIM-сервис обновлён до <strong>PhoneSIM</strong>.<br>Новые клиенты получают 20% скидку с кодом: web20
 seo:
-  title: Top Paraguay eSIM | Fast 5G Travel Internet | Roami
-  description: Heading to Paraguay? Ensure you have stable digital connectivity with
-    a Roami travel eSIM. Access always-on 5G mobile data via reliable local carriers,
-    backed by 24/7 support for tourists.
-  keywords: Paraguay eSIM, Paraguay travel internet, Paraguay data plan, eSIM Paraguay,
-    no roaming charges
-  low_price: 1.99
-  high_price: 39.9
+  title: eSIM для Парагвая | Быстрый 5G интернет и круглосуточная поддержка | Roami
+  description: Скоро в Парагвай? Обеспечьте себе стабильную цифровую связь с туристической
+    eSIM Roami. Получите доступ к всегда включенным 5G мобильным данным через надежные
+    местные операторы при поддержке круглосуточной поддержки для туристов.
+  keywords: eSIM Парагвай, туристическая eSIM, мобильный интернет Парагвай, интернет
+    для путешествий, онлайн eSIM
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: Выбранный тариф
+  label_data: Объём данных
+  label_validity: Срок действия
+  label_daily: Цена за день
+  label_total: Общая стоимость
+  btn_primary: Получить скидку 20%
+  btn_secondary: 'Код: web20'
 breadcrumbs:
-- label: Home
+- label: Главная
   url: /
-- label: Paraguay eSIM
+- label: Парагвай eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Paraguay
-  title: Best eSIM for Paraguay
+  alt: Лучшая eSIM для Парагвай
+  title: Лучшая eSIM для Парагвай
 hero:
-  flag_image: img/flags/pa.svg
-  flag_alt: Paraguay Flag
-  title: Paraguay eSIM data plan
-  subtitle: Instant delivery | Smart choice | Worry-free internet
+  flag_image: img/flags/py.svg
+  flag_alt: Флаг Парагвай
+  title: Тариф eSIM для Парагвай
+  subtitle: Мгновенная доставка | Скидка 20% на ограниченное время | Автоматический
+    выбор сети
 features:
-  title: Why Travelers Choose Roami
+  title: Почему путешественники выбирают Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: Мгновенный QR-код
+    desc: Доставка менее 5 минут
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 поддержка
+    desc: Всегда на связи
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: Гарантия
+    desc: Защита покупателя гарантирована
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: Точка доступа
+    desc: Делитесь данными с другими
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: Без контрактов
+    desc: Отмена в любое время
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: Автовыбор
+    desc: Лучшие местные сети
+plans_title: Выберите ваш тариф
 plans_data:
-  7 Days:
+  7 дней:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для коротких деловых поездок
     price: '22.99'
     oldPrice: '34.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.28'
-  15 Days:
+  15 дней:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для осмотра достопримечательностей
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-orange-500
     daily: '3.67'
     tagIcon: star
-  30 Days:
+  30 дней:
   - spec: 15GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для длительных поездок
     price: '30.99'
     oldPrice: '46.48'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '1.03'
-  3 Days:
+  3 дней:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Безлимитные высокоскоростные данные
+    desc: Беззаботное использование данных
     price: '52.99'
     oldPrice: '79.48'
-    tag: Premium
+    tag: Премиум
     tagColor: bg-purple-600
     daily: '17.66'
 discount_banner:
-  title: Special Discount!
+  title: Специальная скидка!
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    Используйте код <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> при оплате для <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% СКИДКИ</span>!
+  btn_text: Сохранить скидку
+  validity: 'Действует: 3 дня'
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: Детали покрытия сети
+  supports_text: 'Поддерживает:'
   service_details:
-    title: Service Details
+    title: Детали сервиса
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Paraguay, including major
-        cities like Asunción, Ciudad del Este, Encarnación, and Luque. Our Paraguay
-        eSIM seamlessly connects to the robust networks of Tigo, Claro, and Personal,
-        ensuring stable signals in urban centers, tourist hotspots, and along major
-        transportation routes.
+      title: Покрытие
+      desc: Наслаждайтесь обширным покрытием сети по всему Парагвай, включая такие
+        города, как Асунсьон, Сьюдад-дель-Эсте, Энкарнасьон. Наша eSIM для Парагвай
+        бесшовно подключается к сетям Tigo, Claro, Personal.
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: Время доставки
+      desc: Мгновенная доставка после покупки.
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: Точка доступа
+      desc: Без ограничений на точку доступа.
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: Мобильные сети
+    badge: Официальный партнёр
     items:
     - name: Tigo
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: Низкая задержка
+      network: 5G/4G/LTE сеть
     - name: Claro
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Personal
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: Собственный IP
+      network: 5G/4G/LTE сеть
 reminders:
-  title: Important Reminders
+  title: Важные замечания
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      Перед покупкой проверьте <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">совместимость eSIM</a> вашего телефона.
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Paraguay.
+    html: Рекомендуем активировать eSIM только после прибытия в Парагвай.
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: Срок действия начинается при подключении к сети-партнёру.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR-код будет отправлен на вашу электронную почту.
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: Вы можете установить несколько eSIM одновременно.
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: Быстрая проверка совместимости
+    desc: 'Не уверены? Проверьте прямо сейчас на телефоне:'
+    instruction: 'Наберите на клавиатуре:'
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      Если отображается <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>-номер, eSIM поддерживается!
 activation_steps:
-  title: Activation Steps
+  title: Активация вашей eSIM для Парагвай за несколько минут
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: Получите и сохраните QR-код – готовьтесь к Парагвай
+    desc: Сразу после заказа вы получите письмо с вашим персональным QR-кодом активации
+      и инструкциями. Сохраните QR-код на смартфоне или распечатайте – вам не нужно
+      активное интернет-соединение для последующей установки. eSIM действует 30 дней,
+      вы можете спокойно подготовить её к поездке в Парагвай.
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: Установите eSIM на устройстве – отсканируйте QR-код
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - Откройте **Настройки** → **Сотовая связь / Мобильные данные**
+    - Нажмите **"Добавить eSIM"** или **"Добавить тариф"**
+    - Выберите **"Отсканировать QR-код"** и наведите камеру на код
+    - Профиль eSIM для Парагвай загрузится автоматически – нажмите **"Далее"**
+    - Присвойте имя (например, «Roami Парагвай») и установите его как **стандарт для
+      мобильных данных**
+    - Теперь eSIM установлена, но ещё **неактивна** – идеально для подготовки к поездке
   - num: '3'
-    title: 'Step 3: Activate in Paraguay'
-    desc: Upon arriving in Paraguay, enable your Paraguay eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: Подготовка дома – протестируйте без риска
+    desc: После установки вы можете оставить eSIM отключённой в настройках. Однако
+      вы уже можете протестировать её через домашний Wi-Fi (мобильные данные не расходуются).
+      Как только вы приземлитесь в Парагвай, просто включите eSIM – срок действия
+      начнётся автоматически при первом подключении к сети Tigo / Claro. Никаких скрытых
+      платежей за активацию, никаких роуминговых сборов.
+    is_list: false
+  - num: '4'
+    title: 'Прибытие в Парагвай: мгновенный выход в сеть 5G/4G'
+    desc: Как только вы приземлитесь в Парагвай (например, в Международный аэропорт
+      Сильвио Петтиросси (Асунсьон), Международный аэропорт Гуарани (Сьюдад-дель-Эсте),
+      Аэропорт Хуан С. Дельфин (Энкарнасьон)), выключите авиарежим (или оставайтесь
+      в нём и активируйте только eSIM). Перейдите в **Настройки → Сотовая связь**
+      и включите вашу Roami eSIM для Парагвай. В течение нескольких секунд ваше устройство
+      автоматически подключится к самой быстрой доступной сети 5G/4G от Tigo / Claro.
+      Вы сможете сразу пользоваться навигацией, WhatsApp, соцсетями или раздать интернет
+      другим устройствам – без ожидания, без удостоверения личности, без контракта.
     is_list: false
 faq_section:
-  title: Paraguay eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Paraguay eSIM across different
-    travel scenarios.
+  title: 'Парагвай eSIM: Часто задаваемые вопросы и путеводитель'
+  desc: Всё, что нужно знать об использовании вашей eSIM для Парагвай в различных
+    сценариях путешествий.
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: Общее
+    title: 1. Общие вопросы
     questions:
-    - q: Does my phone support the Paraguay eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Paraguay eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Paraguay eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Paraguay
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Paraguay eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Paraguay eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Paraguay that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Paraguay eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Paraguay eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Paraguay eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Paraguay eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Paraguay,
-        such as Tigo, Claro, Personal, to ensure premium speeds at a fraction of roaming
-        costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, esim io, Holafly,
-        saily?
-      a: While great companies like Airalo, esim io, Holafly, saily offer reliable
-        services, we focus on providing the most cost-effective Paraguay eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: Могу ли я использовать eSIM для Парагвай в качестве точки доступа для других
+        устройств?
+      a: Да, все тарифы Roami eSIM для Парагвай поддерживают неограниченную раздачу
+        интернета (точка доступа). Вы можете делиться соединением с ноутбуком, планшетом
+        или попутчиками — без скрытых платежей или снижения скорости.
+    - q: Как активировать eSIM для Парагвай и когда начинается срок действия?
+      a: После покупки вы сразу получаете QR-код активации по электронной почте. Срок
+        действия начинается только тогда, когда ваш телефон впервые подключается к
+        одной из сетей-партнёров (Tigo / Claro) в Парагвай. Так вы платите только
+        за те дни, которые фактически находитесь в стране.
+    - q: Насколько безопасна eSIM для Парагвай по сравнению с физической SIM-картой?
+      a: eSIM более защищены от несанкционированного доступа, так как они встроены
+        в устройство и не могут быть извлечены или скопированы. Ваши данные остаются
+        зашифрованными — никакого риска от потерянных или украденных SIM-карт.
+    - q: Каким требованиям должен соответствовать мой смартфон для использования eSIM
+        для Парагвай?
+      a: Ваше устройство должно поддерживать eSIM (iPhone XS/XR или новее, Samsung
+        Galaxy S20/Note20 или новее, Google Pixel 3a или новее, а также большинство
+        современных 5G-телефонов Huawei, Xiaomi, OnePlus). Проверьте в настройках,
+        доступен ли пункт 'Добавить eSIM'.
+    - q: Поддерживает ли eSIM для Парагвай VoLTE и HD-голосовые звонки?
+      a: Да, eSIM для Парагвай поддерживает VoLTE и HD-голос, если ваше устройство
+        позволяет это. Наслаждайтесь кристально чистым качеством звонков через сеть
+        5G/4G от Tigo / Claro.
+    - q: Какие преимущества даёт eSIM Roami по сравнению с местными предоплаченными
+        SIM-картами в Парагвай?
+      a: В отличие от местных предоплаченных SIM-карт, вам не нужно идти в магазин,
+        проходить регистрацию (KYC) и искать подходящую карту пополнения. С Roami
+        вы активируете eSIM цифровым способом менее чем за 2 минуты — без очередей
+        в аэропорту.
+    - q: Могу ли я продолжать принимать звонки на своей домашней SIM-карте во время
+        использования eSIM для Парагвай?
+      a: Да, устройства с двумя SIM-картами позволяют использовать оба профиля одновременно.
+        Просто установите в настройках eSIM Roami как стандарт для мобильных данных.
+        Звонки и SMS будут идти через вашу домашнюю SIM-карту (роуминг может быть
+        активен).
+    - q: Как отслеживать расход трафика с eSIM для Парагвай?
+      a: После активации у вас будет доступ к нашей онлайн-панели управления. Там
+        вы в реальном времени видите остаток трафика, оставшийся срок действия и можете
+        запросить поддержку в любое время.
+    - q: Поддерживает ли мой смартфон eSIM для Парагвай и как её установить?
+      a: Да, большинство современных смартфонов (iPhone XS/XR или новее, Samsung Galaxy
+        S20+/Note20+, Google Pixel 3a+) поддерживают eSIM. Вы устанавливаете eSIM
+        для Парагвай, отсканировав QR-код в настройках мобильной связи. Сети Tigo
+        / Claro обеспечивают отличное покрытие 5G/4G в Парагвай.
+    - q: Предлагает ли Roami безлимитные тарифы для Парагвай? Есть ли политика честного
+        использования (FUP)?
+      a: Roami предлагает действительно безлимитные тарифы для Парагвай. Политика
+        честного использования применяется только при экстремальном потреблении (например,
+        постоянная потоковая передача 4K в течение нескольких дней). Обычный сёрфинг,
+        соцсети, видеозвонки и навигация не ограничиваются.
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: Аэропорты
+    title: 2. Сеть в аэропорту
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Paraguay eSIM before your flight. Once you land at Silvio Pettirossi
-        International Airport, Guaraní International Airport, Doctor Luis María Argaña
-        International Airport, simply turn off Airplane Mode and enable your eSIM
-        line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Paraguay eSIM activated upon landing, you can immediately open
-        MUV, Uber, Bolt to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Paraguay eSIM data allows you to open Google Maps right at
-        the baggage claim in Silvio Pettirossi International Airport, Guaraní International
-        Airport, Doctor Luis María Argaña International Airport to check real-time
-        train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Paraguay eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Paraguay eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Paraguay eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: Как получить надёжную сеть сразу после прилёта?
+      a: Установите eSIM для Парагвай перед вылетом. Как только вы приземлитесь в
+        аэропортах, таких как Международный аэропорт Сильвио Петтиросси (Асунсьон),
+        Международный аэропорт Гуарани (Сьюдад-дель-Эсте), Аэропорт Хуан С. Дельфин
+        (Энкарнасьон), просто выключите авиарежим и активируйте eSIM. Она подключится
+        к локальной сети 4G/5G за секунды.
+    - q: Как связаться с встречающим или использовать Uber/Grab?
+      a: После активации при прилёте вы сможете сразу использовать приложения, такие
+        как Uber, Bolt, MUV (местное), чтобы заказать поездку, или WhatsApp, чтобы
+        связаться с водителем, не полагаясь на небезопасный Wi-Fi аэропорта.
+    - q: Как использовать Google/Apple Maps для поиска транспорта?
+      a: С данными вашей eSIM для Парагвай вы можете прямо у выдачи багажа в Международный
+        аэропорт Сильвио Петтиросси (Асунсьон), Международный аэропорт Гуарани (Сьюдад-дель-Эсте),
+        Аэропорт Хуан С. Дельфин (Энкарнасьон) проверить расписания поездов и автобусов
+        в реальном времени или найти путь к стоянке такси.
+    - q: Как избежать дорогих SIM-карт в аэропорту?
+      a: Купив нашу eSIM для Парагвай заранее онлайн, вы полностью обходите дорогие
+        киоски SIM-карт в зале прилёта, экономя время и деньги.
+    - q: Как получать SMS от отеля/проката авто без местного номера?
+      a: Наша eSIM для Парагвай — это только тариф данных. Чтобы получать SMS, оставьте
+        активной вашу домашнюю SIM-карту (приём SMS в роуминге часто бесплатен) и
+        используйте eSIM для всего трафика.
+    - q: Как немедленно связаться с семьёй?
+      a: Как только вы приземлитесь, вы можете использовать iMessage, WhatsApp или
+        FaceTime через быстрые данные нашей eSIM для Парагвай, чтобы сообщить близким,
+        что вы благополучно прибыли.
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: Транспорт
+    title: 3. Транспорт и путешествия
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Paraguay eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Paraguay, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like MUV, Uber, Bolt use VoIP (internet calling) and in-app messaging.
-        Since you have active Paraguay eSIM data, drivers can call or message you
-        directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Paraguay eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Paraguay eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Paraguay.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Paraguay eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Paraguay eSIM's data network while on
-        the train or in the car.
+    - q: Как использовать Google Maps для планирования маршрута?
+      a: Наше стабильное соединение eSIM для Парагвай гарантирует, что Google Maps
+        сможет загружать данные о трафике и расписаниях в реальном времени по всему
+        Парагвай.
+    - q: Как водители Uber/Grab могут связаться со мной через приложение?
+      a: Приложения, такие как Uber, Bolt, MUV (местное), используют VoIP. Поскольку
+        у вас активны данные eSIM для Парагвай, водители могут звонить вам через приложение
+        или отправлять уведомления без местного номера.
+    - q: Как купить билеты на поезд или метро онлайн?
+      a: Используйте данные вашей eSIM для Парагвай, чтобы покупать цифровые QR-билеты
+        в местных приложениях и избегать длинных очередей у автоматов.
+    - q: Как использовать Google Maps для навигации в арендованном автомобиле в реальном
+        времени?
+      a: Закрепите телефон и используйте eSIM для Парагвай. Тарифа 5GB или 10GB достаточно
+        для обширной GPS-навигации во время поездки по Парагвай.
+    - q: Как сканировать и разблокировать электросамокаты (Lime/Bird)?
+      a: Разблокировка электросамокатов требует быстрого интернета. Наша eSIM для
+        Парагвай обеспечивает необходимое надёжное покрытие.
+    - q: Работают ли приложения райдшеринга трансгранично?
+      a: Да, ваш аккаунт остаётся тем же. Просто убедитесь, что у вас есть активное
+        интернет-соединение через нашу местную или региональную eSIM.
+    - q: Как организовать стабильную точку доступа для семьи?
+      a: Просто включите ' Личный точка доступа' в настройках. Ваша семья сможет подключиться
+        к вашей сети eSIM для Парагвай в поезде или автомобиле.
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: Отели
+    title: 4. Отели и жильё
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Paraguay eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Paraguay eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Sheraton Asunción Hotel, Bourbon Conmebol Convention
-        Hotel, Dazzler Asunción or a local guesthouse, you can input the address into
-        Google Maps and get turn-by-turn walking or transit directions using your
-        Paraguay eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Paraguay eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Paraguay eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download PedidosYa, Come, Rappi and use your
-        Paraguay eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Paraguay eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: Как сделать самостоятельный заезд (self-check-in) после бронирования?
+      a: Многие современные жилья высылают коды умных замков по электронной почте.
+        Ваша eSIM для Парагвай гарантирует, что вы сможете получить эти детали прямо
+        перед дверью.
+    - q: Как связаться с хозяином Airbnb по прибытии?
+      a: Используйте функцию обмена сообщениями в приложении Airbnb или WhatsApp,
+        чтобы согласовать время прибытия, используя мобильные данные eSIM для Парагвай.
+    - q: Как использовать Google Maps для навигации к отелю?
+      a: Независимо от того, останавливаетесь ли вы в Sheraton Asunción Hotel, La
+        Misión Hotel Boutique (Асунсьон), Bourbon Conmebol Convention Hotel, введите
+        адрес в Google Maps и используйте навигацию вашей eSIM для Парагвай.
+    - q: Как получать SMS-коды подтверждения?
+      a: Оставьте вашу домашнюю SIM-карту активной для SMS и используйте данные eSIM
+        для Парагвай для получения кодов по электронной почте или через приложение
+        аутентификатора.
+    - q: Как быстро связаться со службой поддержки?
+      a: Используйте VoIP-приложения, такие как Skype, или функцию чата приложения
+        бронирования через высокоскоростные данные вашей eSIM для Парагвай.
+    - q: Как заказать еду через местные приложения доставки?
+      a: Скачайте PedidosYa, Uber Eats, Rappi и используйте данные вашей eSIM для
+        Парагвай, чтобы заказать горячую еду прямо в лобби отеля.
+    - q: Как оставаться на связи с отелем после выезда (checkout)?
+      a: Как только вы выйдете из Wi-Fi отеля, ваша eSIM для Парагвай возьмёт на себя
+        управление, чтобы вы могли написать отелю, если что-то забыли.
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: Достопримечательности
+    title: 5. Достопримечательности и развлечения
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Itaipu Dam, Jesuit Missions of La Santísima Trinidad
-        de Paraná, Saltos del Monday spontaneously, you can use your Paraguay eSIM
-        data to buy skip-the-line tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Paraguay eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Paraguay.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Paraguay eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Paraguay eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Paraguay eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Paraguay eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
+    - q: Как купить электронные билеты через GetYourGuide/Viator?
+      a: Если вы хотите спонтанно посетить Итайпу ГЭС, Миссии иезуитов в Ла-Сантисима-Тринидад,
+        Национальная икона Пантеон-де-лос-Херое, вы можете использовать данные вашей
+        eSIM для Парагвай для покупки билетов онлайн и показать штрих-код прямо на
+        месте.
+    - q: Как забронировать впечатления на Tripadvisor мгновенно?
+      a: С надёжным 4G/5G вашей eSIM для Парагвай вы можете читать отзывы и бронировать
+        местные туры, сидя в кафе.
+    - q: Как использовать Wikipedia/Google для получения информации во время посещения?
+      a: Расширьте свой культурный опыт, ища исторические факты или переводя таблички
+        в музеях с помощью Google Translate на данных eSIM для Парагвай.
+    - q: Как найти дорогу к следующей достопримечательности?
+      a: Введите следующую цель в Google Maps; мощное покрытие вашей eSIM для Парагвай
+        приведёт вас по самому быстрому маршруту.
+    - q: Как проверить время ожидания в парках аттракционов в реальном времени?
+      a: Приложениям парков развлечений нужен интернет для отображения времени ожидания.
+        Ваша eSIM для Парагвай держит вас онлайн на всей территории парка.
+    - q: Как получить доступ к Ticketmaster для билетов на шоу?
+      a: Вы можете безопасно купить билеты в последнюю минуту через приложения для
+        билетов с данными вашей eSIM для Парагвай.
+    - q: Как мгновенно делиться фото/видео в Instagram/TikTok?
+      a: Высокая скорость загрузки eSIM для Парагвай позволяет публиковать рилсы и
+        фото в реальном времени, не дожидаясь Wi-Fi отеля.
   - id: faq-dining
     icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
+    tab_title: Рестораны
+    title: 6. Еда и рестораны
     questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Paraguay eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Paraguay eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Paraguay eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Paraguay eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like PedidosYa, Come, Rappi, register using your
-        email or social accounts, and order food seamlessly using your Paraguay eSIM
-        mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Billetera
-        Personal, Tigo Money, Efectivo require a brief internet handshake, which your
-        Paraguay eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Paraguay eSIM to find hidden culinary gems in the city.
+    - q: Как найти рестораны через Google Maps/Tripadvisor?
+      a: Используйте вашу eSIM для Парагвай, чтобы искать 'рестораны поблизости' и
+        проверять отзывы, часы работы и фото меню.
+    - q: Как забронировать столик онлайн?
+      a: Обеспечьте бронирование через онлайн-платформы, используя вашу eSIM для Парагвай,
+        пока вы в пути.
+    - q: Как сканировать QR-коды для цифровых меню?
+      a: Многие рестораны используют цифровые меню. Ваша eSIM для Парагвай гарантирует,
+        что код на столе загрузится мгновенно.
+    - q: Как использовать камеру Google Translate для меню?
+      a: Откройте приложение и наведите камеру на меню. Для живого перевода требуется
+        подключение к интернету через вашу eSIM для Парагвай.
+    - q: Как использовать местные сервисы доставки?
+      a: Скачайте местные приложения, такие как PedidosYa, Uber Eats, Rappi, и заказывайте
+        с комфортом, используя мобильные данные вашей eSIM для Парагвай.
+    - q: Как платить с помощью Apple Pay/Google Pay?
+      a: Бесконтактные платежи или местные методы, такие как Наличные (гуарани), кредитные
+        карты (Visa, Mastercard), цифровые кошельки (Billetera Personal), требуют
+        короткого интернет-согласования, которое ваша eSIM для Парагвай отлично выполняет.
+    - q: Как найти секретные места, рекомендуемые фуд-блогерами?
+      a: Смотрите YouTube-влоги или изучайте отзывы на Yelp с данными вашей eSIM для
+        Парагвай, чтобы открыть кулинарные изюминки.
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: Соцсети
+    title: 7. Социальные сети и связь
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Paraguay eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Paraguay eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Paraguay eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Paraguay
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Paraguay eSIM data allowance to check their own social
-        media.
+    - q: Как стабильно использовать WhatsApp/Telegram за границей?
+      a: Ваши аккаунты привязаны к домашнему номеру. С нашей eSIM для Парагвай как
+        источником интернета вы сможете общаться и звонить как дома.
+    - q: Как загружать контент в TikTok без общественного Wi-Fi?
+      a: Общественный Wi-Fi часто медленный и небезопасный. Наш 4G/5G eSIM для Парагвай
+        обеспечивает пропускную способность для быстрой загрузки.
+    - q: Как совершать видеозвонки с семьёй?
+      a: Наши сетевые партнёрства гарантируют, что видеозвонки через eSIM для Парагвай
+        будут чёткими и без задержек, где бы вы ни находились в стране.
+    - q: Безопасно ли входить в социальные сети через общественный Wi-Fi?
+      a: Общественный Wi-Fi уязвим для хакеров. Использование ваших собственных данных
+        eSIM для Парагвай зашифровано и гораздо безопаснее.
+    - q: Как поделиться сетью в качестве точки доступа с попутчиками?
+      a: Включите функцию точки доступа. Ваши друзья смогут подключиться и использовать
+        ваш трафик eSIM для Парагвай для своих социальных сетей.
   - id: faq-crossborder
     icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
+    tab_title: Трансграничные поездки
+    title: 8. Трансграничные поездки
     questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Paraguay eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Paraguay eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: Нужна ли мне новая SIM-карта для каждой страны?
+      a: Одностраничная eSIM для Парагвай работает только там. Для поездок по нескольким
+        странам рекомендуем наши региональные eSIM (например, eSIM для Европы).
+    - q: Как избежать роуминговых сборов при поездке на поезде через границы?
+      a: Отключите 'Роуминг данных' на домашней SIM-карте. Убедитесь, что eSIM для
+        Парагвай установлена как основная для передачи данных.
+    - q: Как получить интернет во время пересадки в Сингапуре/Дубае?
+      a: Вы можете купить недорогую eSIM на 1 ГБ для транзитной страны, чтобы оставаться
+        онлайн во время ожидания рейса.
+    - q: Как получить интернет в круизе?
+      a: Вместо того чтобы платить за дорогой корабельный Wi-Fi, активируйте местную
+        eSIM для стран, которые вы посещаете. Она подключится, как только вы приблизитесь
+        к суше.
+    - q: Как Google Maps остаётся онлайн в автопутешествиях?
+      a: С региональной eSIM ваш телефон автоматически переключится на сеть новой
+        страны при пересечении границы, сохраняя GPS активным.
+    - q: Как управлять данными для нескольких стран в одном приложении?
+      a: Вы можете отслеживать потребление данных для всех активных eSIM через нашу
+        онлайн-панель управления на сайте.
+    - q: Как оставаться на связи при поездке по нескольким странам?
+      a: Поскольку WhatsApp/iMessage работают через данные, региональная eSIM гарантирует,
+        что вы остаётесь доступны под тем же номером телефона.
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: Экстренные случаи
+    title: 9. Экстренные случаи
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Paraguay, you can dial local emergency numbers like 911, 112, 911 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Paraguay eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Paraguay eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Paraguay eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Paraguay eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Paraguay eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
+    - q: Как набрать местные номера экстренных служб?
+      a: 'В Парагвай вы можете набрать номера экстренных служб, такие как Полиция:
+        911, Скорая помощь: 141, Пожарная: 132, напрямую, если ваш телефон ловит сигнал
+        сотовой связи.'
+    - q: Как найти ближайшую больницу?
+      a: Данные вашей eSIM для Парагвай позволяют мгновенно искать в Google Maps 'аптеку'
+        или 'больницу' и строить самый быстрый маршрут.
+    - q: Как найти информацию о посольстве при потере паспорта?
+      a: Используйте eSIM для Парагвай, чтобы быстро найти адрес и контактный номер
+        вашего посольства.
+    - q: Как связаться со страховой компанией при несчастном случае?
+      a: Используйте VoIP-приложения, такие как Skype, через данные eSIM для Парагвай,
+        чтобы позвонить на горячие линии страховой.
+    - q: Как поделиться своим местоположением в реальном времени?
+      a: Используйте 'Поделиться местоположением' в WhatsApp или Apple 'Где мои',
+        чтобы отправлять координаты через данные eSIM для Парагвай.
+    - q: Как загрузить офлайн-карты для удалённых районов?
+      a: Используя городское покрытие eSIM для Парагвай, загрузите офлайн-карты в
+        Google Maps, прежде чем отправиться в места без сигнала.
   - id: faq-business
     icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
+    tab_title: Бизнес
+    title: 10. Бизнес и работа
     questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Paraguay eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Paraguay eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Paraguay eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Paraguay eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Paraguay eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Paraguay eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Paraguay eSIM to update them on flight delays or schedule
-        changes.
+    - q: Как гарантировать стабильные встречи в Zoom/Teams?
+      a: Наша eSIM для Парагвай подключается к премиальным сетям, обеспечивая полосу
+        пропускания и низкую задержку для профессиональных видеоконференций.
+    - q: Как безопасно подключиться к корпоративному VPN?
+      a: Наши данные не ограничивают VPN-протоколы. Вы можете безопасно запустить
+        корпоративный VPN через сеть eSIM для Парагвай.
+    - q: Как использовать точку доступа для ноутбука в кафе?
+      a: Включите точку доступа. Использование вашей eSIM для Парагвай значительно
+        быстрее и безопаснее для киберугроз, чем открытый Wi-Fi.
+    - q: Как получать 2FA-коды для корпоративной электронной почты?
+      a: Оставьте вашу домашнюю SIM-карту активной для SMS и используйте данные eSIM
+        для Парагвай для кодов, приходящих по электронной почте.
+    - q: Как загружать большие файлы во время встреч с клиентами?
+      a: Скорости 5G/4G-LTE вашей eSIM для Парагвай позволяют быстро загружать презентации
+        в облачные сервисы.
+    - q: Как беспрепятственно использовать Slack/Gmail для совместной работы?
+      a: Ваша eSIM для Парагвай обеспечивает постоянное соединение, поэтому вы мгновенно
+        получаете сообщения Slack и электронные письма.
+    - q: Как обновлять планы поездок для компании онлайн?
+      a: Получайте доступ к корпоративным порталам через eSIM для Парагвай в пути,
+        чтобы сообщать отделу кадров о задержках рейсов.
 related_products:
-  title: Related eSIM Plans
+  title: Похожие eSIM тарифы
   items:
-  - name: united states eSIM
+  - name: eSIM США
     flag: img/flags/us.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: United-Kingdom
+    slug: united-states-esim
+  - name: eSIM Великобритании
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Europe eSIM
+    slug: united-kingdom-esim
+  - name: eSIM Европы
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: true
-  - name: Canada eSIM
+    slug: europe-esim
+  - name: eSIM Канады
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Turkey eSIM
+    slug: canada-esim
+  - name: eSIM Турции
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: China eSIM
+    slug: turkey-esim
+  - name: eSIM Китая
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Japan eSIM
+    slug: china-esim
+  - name: eSIM Японии
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
+    slug: japan-esim
+  - name: eSIM Гонконга
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
+    slug: hong-kong-esim
+  - name: eSIM Франции
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
+    slug: france-esim
+  - name: eSIM Испании
     flag: img/flags/es.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
+    slug: spain-esim
+  - name: eSIM Германии
     flag: img/flags/de.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: germany-esim
+  - name: eSIM Австралии
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
+    slug: australia-esim
 
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
+# =============== 100% полное восстановление: модуль сравнения на основе данных ===============
 market_analysis:
-  title: "Paraguay eSIM vs Prepaid SIM Card: Everything You Should Consider"
-  subtitle: "Paraguay Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: "eSIM для Paraguay против SIM-карты: полное руководство по сравнению"
+  subtitle: "Местные предоплаченные SIM-карты в Парагвае против eSIM-решений (2024/2025 бенчмарк)"
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Paraguay) + Local Operator Sites"
+    text: "Источник данных: Prepaid Data SIM Card Wiki (Paraguay) + веб-сайты местных операторов"
     url: "https://prepaid-data-sim-card.fandom.com/wiki/Paraguay"
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Paraguay eSIM"
+    - "Матрица сравнения"
+    - "Местная предоплаченная SIM (рыночные данные)"
+    - "Roami eSIM для Paraguay"
   table_rows:
     - icon: "store"
-      title: "Acquisition &<br>Activation"
+      title: "Приобретение и<br>активация"
       prepaid_title: ""
-      prepaid_desc: "In Paraguay, purchasing a prepaid SIM requires presenting a passport or ID, filling out a Conatel form, and providing fingerprints at operator stores like Tigo or Personal; airport kiosks may charge higher prices."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Tigo or Personal store queues and fingerprint registration. Activate your Roami eSIM online within 1 minute before landing in Asunción."
+      prepaid_desc: "Приобретение SIM-карт в Парагвае требует личной покупки в магазинах операторов, таких как Tigo или Personal, с обязательным предоставлением паспорта и снятием отпечатков пальцев, что занимает значительное время."
+      esim_title: "Мгновенная цифровая доставка"
+      esim_desc: "Избегайте очередей в магазинах Tigo или Personal. Активируйте eSIM онлайн за 1 минуту до прибытия в Асунсьон."
     - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
+      title: "KYC и регистрация<br>по паспорту"
       prepaid_title: ""
-      prepaid_desc: "Since 2017, all Paraguayan operators (Tigo, Personal, Claro, VOX) must collect fingerprints and passport details for SIM registration; unregistered lines are deactivated."
-      esim_title: "No Passport or Fingerprint Needed"
-      esim_desc: "Avoid Paraguay's mandatory fingerprint and passport registration (required by law since 2017). Roami eSIM requires zero personal identification."
+      prepaid_desc: "Все операторы (Tigo, Personal, Claro, VOX) обязаны по закону 2017 года собирать отпечатки пальцев и паспортные данные для регистрации SIM-карты; не зарегистрированные линии блокируются."
+      esim_title: "Без паспорта и отпечатков"
+      esim_desc: "В отличие от обязательной регистрации с отпечатками пальцев у Tigo, Personal, Claro и VOX, eSIM не требует KYC — просто скачайте и пользуйтесь."
     - icon: "globe"
-      title: "International<br>Roaming"
+      title: "Международный<br>роуминг"
       prepaid_title: ""
-      prepaid_desc: "The Mercosur 'Roam Like at Home' agreement explicitly excludes prepaid users; Tigo and Claro prepaid SIMs have no free roaming in neighboring countries like Brazil or Argentina."
-      esim_title: "Seamless Cross-Border Roaming"
-      esim_desc: "Unlike Tigo prepaid which is excluded from Mercosur roaming, Roami eSIM works in Brazil and Argentina without extra fees or SIM swaps."
+      prepaid_desc: "Международный роуминг для предоплаченных пользователей в рамках Mercosur не действует; при поездках в Аргентину или Бразилию SIM-карта Tigo или Personal теряет связь или взимает высокие сборы."
+      esim_title: "Глобальный роуминг без границ"
+      esim_desc: "В то время как предоплаченные SIM-карты Tigo не работают в Mercosur, eSIM автоматически подключается к лучшим сетям в Аргентине и Бразилии."
     - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
+      title: "Расчетный цикл и<br>потерянные затраты"
       prepaid_title: ""
-      prepaid_desc: "Tigo offers plans up to 5 days (e.g., 2GB/5 days for PYG 15,000); Personal SIM cards have a forced 7-day validity for included balance; a 8-day tourist may waste up to PYG 30,000 on unused data."
-      esim_title: "Flexible Plans, No Waste"
-      esim_desc: "Unlike Personal's 7-day forced validity or Tigo's 5-day max plan, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste for short trips."
+      prepaid_desc: "Расчетные периоды крайне короткие: Tigo предлагает пакеты на 2-5 дней (например, 2 ГБ за PYG 15,000 на 5 дней), Personal — на 24-72 часа; для 8-дневной поездки это приводит к потере до 75% стоимости тарифа."
+      esim_title: "Гибкие тарифы без потерь"
+      esim_desc: "В отличие от 5-дневных пакетов Tigo (PYG 15,000 за 2 ГБ) или 7-дневного ограничения Personal, Roami предлагает 7-дневные тарифы от $1.99/ГБ, экономя до 75% затрат."
     - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
+      title: "Хотспот и политика<br>скорости"
       prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. However, based on common practice, Paraguayan operators generally allow tethering but may throttle speeds after a certain limit (e.g., Claro data-only SIM throttles to 128 kbps after 500MB/day)."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike Claro's data-only SIM which throttles to 128 kbps after 500MB/day."
+      prepaid_desc: "Нет конкретных данных в источнике для этого измерения. Однако на основе рыночных знаний: большинство операторов Парагвая разрешают раздачу, но скорость может быть ограничена после использования определенного объема."
+      esim_title: "Неограниченная раздача"
+      esim_desc: "В отличие от ограничений местных операторов, eSIM поддерживает раздачу интернета на другие устройства без дополнительной платы."
     - icon: "credit-card"
-      title: "Top-up Payments"
+      title: "Пополнение и оплата"
       prepaid_title: ""
-      prepaid_desc: "Top-up can be done via physical vouchers or operator apps; foreign credit cards (Visa, Mastercard) are often rejected for online top-ups due to lack of local tax ID."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local tax ID or physical vouchers."
+      prepaid_desc: "Пополнение баланса возможно через физические ваучеры в киосках или онлайн, но международные карты часто отклоняются; минимальная сумма пополнения обычно составляет PYG 10,000."
+      esim_title: "Глобальная оплата"
+      esim_desc: "Оплачивайте eSIM картами Visa, Mastercard, AMEX, Apple Pay, Google Pay или PayPal — никаких проблем с местными ваучерами."
     - icon: "headset"
-      title: "Customer Support"
+      title: "Поддержка клиентов"
       prepaid_title: ""
-      prepaid_desc: "Customer support is typically in Spanish, available via phone or in-store; no dedicated English support for prepaid users."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get English-speaking support via live chat or email, unlike Paraguayan operators which offer only Spanish phone support during business hours."
+      prepaid_desc: "Поддержка клиентов доступна на испанском языке в магазинах и по телефону, обычно в рабочие часы; онлайн-чат для предоплаченных клиентов отсутствует."
+      esim_title: "Поддержка 24/7"
+      esim_desc: "Круглосуточная поддержка на русском языке, в отличие от испаноязычной поддержки Tigo и Personal с ограниченными часами работы."
 
-  # =============== 100% 完整还原：专家结论模块 ===============
+  # =============== 100% полное восстановление: модуль экспертного заключения ===============
   expert_verdict:
-    title: "Paraguay eSIM vs Physical SIM: Travel, Cost, and Setup Compared"
+    title: "eSIM для Paraguay или SIM-карта для туристов: умнее, экономичнее и без стресса"
     cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Paraguay's Strict SIM Registration"
-        desc: "Paraguay requires <b>fingerprint and passport</b> for all prepaid SIMs (Tigo, Personal, Claro, VOX) since 2017. Roami eSIM needs <b>zero personal data</b>."
+      - icon: "globe"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "Мгновенная активация до поездки"
+        desc: "В отличие от необходимости посещать магазин Tigo или Personal в аэропорту, eSIM можно активировать онлайн за 1 минуту до вылета, экономя время."
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
-        title: "Avoid Mercosur Roaming Exclusion"
-        desc: "Mercosur 'Roam Like at Home' <b>excludes prepaid users</b>. Tigo and Claro SIMs have no free roaming in Brazil/Argentina. Roami eSIM works seamlessly across borders."
+        title: "Роуминг без границ в Mercosur"
+        desc: "Предоплаченные SIM-карты Tigo и Personal не работают в роуминге по Mercosur (Аргентина, Бразилия). eSIM автоматически переключается на местные сети, обеспечивая связь в любой точке Южной Америки."
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
-        title: "Pay with Global Cards, No Local Tax ID"
-        desc: "Paraguayan top-up often rejects foreign cards (Visa, Mastercard). Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>."
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "24/7 English Support vs Local Spanish Only"
-        desc: "Paraguayan operators offer <b>Spanish-only phone support</b> during business hours. Roami provides <b>24/7 multilingual live chat</b>."
+        title: "Удобная оплата без местных карт"
+        desc: "Пополнение местных SIM-карт требует покупки ваучеров или использования местных платежных систем. eSIM принимает Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal."
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Гибкие тарифы под любой срок"
+        desc: "Местные тарифы привязаны к 2-5 дням (Tigo) или 24-72 часам (Personal). eSIM позволяет выбрать тариф на 7, 15 или 30 дней, точно под ваш маршрут."
 ---

@@ -4,683 +4,556 @@ date: '2026-03-29T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Asia eSIM
-  scenario_keywords: Tokyo sightseeing, Bangkok street food tour, Singapore shopping,
-    Bali beach vacation, Seoul K-pop experience
+  core_keyword: Азия eSIM
+  scenario_keywords: осмотр Токио, уличная еда Бангкока, шопинг в Сингапуре, пляжный отпуск на Бали, K-pop опыт в Сеуле
   operators: China Mobile, NTT Docomo, Singtel
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Tokyo, Bangkok, Singapore, Seoul, Hong Kong
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_cities: Токио, Бангкок, Сингапур, Сеул, Гонконг
+  main_packages: 3/7/15/30 Дней, безлимитные данные
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: Сервис обновлен!
+  btn_text: Продолжить
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Наш eSIM сервис был обновлен до <strong>PhoneSIMGo</strong>.<br>Для новых клиентов действует скидка 20%, промокод: web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Наш eSIM сервис был обновлен до <strong>PhoneSIM</strong>.<br>Для новых клиентов действует скидка 20%, промокод: web20
 seo:
-  title: Best Asia eSIM - Unlimited Travel Data for 15+ Countries | Roami
-  description:  Exploring Japan, Korea, Thailand, and more? One Asia eSIM covers your entire trip. Enjoy seamless cross-border 5G/4G data without changing SIM cards.
-  keywords: Asia eSIM, travel SIM Asia, instant delivery eSIM, no roaming Asia, QR
-    code activation, 5G coverage Asia, travel internet
+  title: Лучший eSIM для Азии - безлимитные данные для путешествий по 15+ странам | Roami
+  description: Планируете поездку в Японию, Корею, Таиланд и другие страны? Один eSIM для Азии покроет всю вашу поездку. Наслаждайтесь seamless связью 5G/4G без смены SIM-карт.
+  keywords: eSIM Азия, туристическая SIM Азия, мгновенная доставка eSIM, без роуминга Азия, активация по QR-коду, покрытие 5G Азия, интернет для путешествий
   low_price: 1.99
   high_price: 39.9
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: Выбранный тариф
+  label_data: Включено данных
+  label_validity: Срок действия
+  label_daily: Стоимость в день
+  label_total: Итого
+  btn_primary: Получить скидку 20%
+  btn_secondary: 'Код: web20'
 breadcrumbs:
-- label: Home
+- label: Главная
   url: /
-- label: Asia eSIM
+- label: eSIM для Азии
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Asia
-  title: Best eSIM for Asia
+  alt: Лучший eSIM для Азии
+  title: Лучший eSIM для Азии
 hero:
   flag_image: img/flags/ya.webp
-  flag_alt: Asia Flag
-  title: Asia eSIM Data Plan
-  subtitle: Top choice for traveling in Asia | Cheap Asia eSIM | 100% Refund Guarantee
+  flag_alt: Флаг Азии
+  title: Тариф eSIM для Азии
+  subtitle: Лучший выбор для путешествий по Азии | Дешевый eSIM для Азии | 100% гарантия возврата
 features:
-  title: Why Travelers Choose Roami
+  title: Почему путешественники выбирают Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: Мгновенный QR-код
+    desc: Доставка в течение 5 минут
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: Поддержка 24/7
+    desc: Всегда готовы помочь
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: Не активно
+    desc: Защита возврата денег
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: Поддержка точки доступа
+    desc: Делитесь с другими устройствами
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: Без контрактов
+    desc: Отмена в любое время, свободно
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: Автопереключение
+    desc: Подключение к лучшим операторам
+plans_title: Выберите ваш тариф
 plans_data:
   7 Days:
-  - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+  - spec: 1 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для коротких деловых поездок
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.14'
-  - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+  - spec: 1 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для коротких деловых поездок
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.57'
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+  - spec: Безлимит
+    data: Безлимитный высокоскоростной
+    desc: Беззаботное использование данных
     price: '27.99'
     oldPrice: '41.98'
-    tag: Premium
+    tag: Премиум
     tagColor: bg-purple-600
     daily: '4.00'
-  - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+  - spec: 1 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для коротких деловых поездок
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.14'
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+  - spec: 3 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для осмотра достопримечательностей
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-orange-500
     daily: '0.57'
     tagIcon: star
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 5 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для глубоких путешествий
     price: '5.99'
     oldPrice: '8.98'
-    tag: Great Value
+    tag: Отличная цена
     tagColor: bg-emerald-500
     daily: '0.86'
   15 Days:
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+  - spec: 3 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для осмотра достопримечательностей
     price: '18.99'
     oldPrice: '28.48'
     tag: ''
     tagColor: bg-orange-500
     daily: '1.27'
     tagIcon: star
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+  - spec: 3 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для осмотра достопримечательностей
     price: '18.99'
     oldPrice: '28.48'
     tag: ''
     tagColor: bg-orange-500
     daily: '1.27'
     tagIcon: star
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+  - spec: 3 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для осмотра достопримечательностей
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
     tagColor: bg-orange-500
     daily: '0.33'
     tagIcon: star
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 5 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для глубоких путешествий
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: Отличная цена
     tagColor: bg-emerald-500
     daily: '0.47'
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 10 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для глубоких путешествий
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: Отличная цена
     tagColor: bg-emerald-500
     daily: '0.73'
   30 Days:
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+  - spec: 3 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для осмотра достопримечательностей
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
     tagColor: bg-orange-500
     daily: '0.20'
     tagIcon: star
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 5 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для глубоких путешествий
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: Отличная цена
     tagColor: bg-emerald-500
     daily: '0.27'
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 10 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для глубоких путешествий
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: Отличная цена
     tagColor: bg-emerald-500
     daily: '0.40'
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+  - spec: 3 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для осмотра достопримечательностей
     price: '19.99'
     oldPrice: '29.98'
     tag: ''
     tagColor: bg-orange-500
     daily: '0.67'
     tagIcon: star
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+  - spec: 3 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для осмотра достопримечательностей
     price: '19.99'
     oldPrice: '29.98'
     tag: ''
     tagColor: bg-orange-500
     daily: '0.67'
     tagIcon: star
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 10 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для глубоких путешествий
     price: '45.99'
     oldPrice: '68.98'
-    tag: Great Value
+    tag: Отличная цена
     tagColor: bg-emerald-500
     daily: '1.53'
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+  - spec: 10 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для глубоких путешествий
     price: '45.99'
     oldPrice: '68.98'
-    tag: Great Value
+    tag: Отличная цена
     tagColor: bg-emerald-500
     daily: '1.53'
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+  - spec: 20 ГБ
+    data: Высокоскоростной 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '20.99'
     oldPrice: '31.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.70'
 discount_banner:
-  title: Special Discount!
+  title: Специальная скидка!
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    Используйте промокод <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> при оформлении заказа, чтобы получить <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% СКИДКУ</span>!
+  btn_text: Получить скидку
+  validity: 'Срок действия: 3 дня'
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: Детали покрытия сети
+  supports_text: 'Поддерживается:'
   service_details:
-    title: Service Details
+    title: Детали услуги
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Asia, including major cities
-        like Tokyo, Bangkok, Singapore, and Seoul. Our Asia eSIM seamlessly connects
-        to the robust networks of NTT Docomo, AIS, and Singtel, ensuring stable signals
-        in urban centers, tourist hotspots, and along major transportation routes.
+      title: Покрытие
+      desc: Наслаждайтесь полным покрытием сети по всей Азии, включая крупные города, такие как Токио, Бангкок, Сингапур и Сеул. Наш eSIM для Азии легко подключается к надежным сетям NTT Docomo, AIS и Singtel, обеспечивая стабильный сигнал в городских центрах, туристических местах и вдоль основных транспортных маршрутов.
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: Время доставки
+      desc: Немедленная доставка после покупки.
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: Точка доступа
+      desc: Нет ограничений на раздачу интернета.
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: Сети операторов
+    badge: Официальный партнер
     items:
     - name: NTT Docomo
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: Низкая задержка
+      network: Сеть 5G/4G/LTE
     - name: Singtel
-      coverage: Reliability
-      network: 5G/4G/LTE Network
+      coverage: Надежность
+      network: Сеть 5G/4G/LTE
     - name: AIS
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: Нативный IP
+      network: Сеть 5G/4G/LTE
 reminders:
-  title: Important Reminders
+  title: Важные напоминания
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      Убедитесь, что ваш телефон <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">поддерживает eSIM</a> перед покупкой.
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Asia.
+    html: Мы рекомендуем включать линию после прибытия в Азию.
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: Срок действия начинается после подключения к поддерживаемой сети.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR-код будет отправлен на вашу электронную почту.
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: Вы можете установить несколько eSIM одновременно.
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: Быстрая проверка совместимости
+    desc: 'Не уверены, поддерживает ли ваш телефон eSIM? Вы можете легко проверить это прямо сейчас:'
+    instruction: 'Наберите на клавиатуре телефона:'
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      Если на экране появится номер <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>, ваше устройство поддерживается!
 activation_steps:
-  title: Activation Steps
+  title: Шаги активации
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 'Шаг 1: Получите QR-код'
+    desc: После оплаты QR-код и руководство по активации будут отправлены на вашу электронную почту в течение 5 минут. Пожалуйста, проверьте папку со спамом, если не видите письмо.
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 'Шаг 2: Добавьте eSIM на телефон'
     is_list: true
     list_items:
     - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+      Перейдите в Настройки > Сотовая связь (или Мобильные данные)
+    - Нажмите "Добавить тариф" или "Добавить eSIM"
+    - Отсканируйте QR-код камерой
+    - Следуйте инструкциям для завершения настройки
   - num: '3'
-    title: 'Step 3: Activate in Asia'
-    desc: Upon arriving in Asia, enable your Asia eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 'Шаг 3: Активируйте в Азии'
+    desc: По прибытии в Азию включите ваш eSIM для Азии в настройках, чтобы начать использовать данные. Рекомендуем подключиться к Wi-Fi во время первоначальной активации.
     is_list: false
 faq_section:
-  title: Asia eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Asia eSIM across different travel
-    scenarios.
+  title: Часто задаваемые вопросы о eSIM для Азии и путеводитель
+  desc: Всё, что нужно знать об использовании вашего eSIM для Азии в различных сценариях путешествий.
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: Общее
+    title: 1. Общие вопросы
     questions:
-    - q: Does my phone support the Asia eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Asia eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Asia eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Asia and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Asia eSIM. It typically needs
-        to be installed within 30 days of purchase. Once installed, it cannot be scanned
-        again or transferred to another device.
-    - q: Can I get a refund if the Asia eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Asia that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Asia eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Asia eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Asia eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Asia eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Asia,
-        such as China Mobile, NTT Docomo, Singtel, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like eSIM GO, Numero, Airalo,
-        Holafly?
-      a: While great companies like eSIM GO, Numero, Airalo, Holafly offer reliable
-        services, we focus on providing the most cost-effective Asia eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: Поддерживает ли мой телефон eSIM для Азии? Как его установить?
+      a: Большинство современных смартфонов, начиная с iPhone XS/XR, Samsung Galaxy S20+ и Google Pixel 3+, поддерживают eSIM. Вы можете установить ваш eSIM для Азии, просто отсканировав QR-код, который мы отправляем на вашу электронную почту, в настройках "Сотовая связь" / "Мобильные данные" вашего телефона.
+    - q: Как купить и активировать eSIM для Азии? Он активируется сразу?
+      a: Вы можете приобрести его прямо на нашем сайте. Он активируется не сразу после покупки; срок действия начинается только когда вы прибываете в Азию и ваш телефон подключается к местной сети.
+    - q: Что такое QR-код активации? Он истекает? Можно ли использовать повторно?
+      a: QR-код — это ваш цифровой SIM-профиль для eSIM Азии. Обычно его необходимо установить в течение 30 дней после покупки. После установки его нельзя отсканировать снова или передать на другое устройство.
+    - q: Могу ли я получить возврат, если eSIM для Азии не работает или плохой сигнал?
+      a: Да, мы предлагаем гарантию возврата денег. Если у вас возникнут постоянные проблемы с сетью в Азии, которые наша служба поддержки не сможет решить, вы имеете право на возврат.
+    - q: Предоставляете ли вы круглосуточную поддержку клиентов? Как с вами связаться?
+      a: Да, наша служба технической поддержки доступна 24/7. Вы можете связаться с нами через виджет онлайн-чата на нашем сайте или ответив на письмо с подтверждением заказа.
+    - q: Есть ли промокоды на скидку? Как использовать промокод 'web20'?
+      a: Да! Вы можете ввести промокод 'web20' на странице оформления заказа, чтобы мгновенно получить 20% скидку на ваш заказ eSIM для Азии.
+    - q: Является ли ваш тариф «Безлимитные данные» действительно безлимитным? Действует ли политика добросовестного использования (FUP)?
+      a: Наши безлимитные тарифы предоставляют непрерывный доступ к данным. Однако, как и все глобальные операторы, применяется политика добросовестного использования для предотвращения злоупотребления сетью. Если вы потребляете исключительно большой объем данных за короткий период, скорость может быть временно снижена. Тем не менее, это не повлияет на просмотр веб-страниц, использование социальных сетей, просмотр видео и т.д.
+    - q: Могу ли я делиться данными моего eSIM для Азии (точка доступа) с другими устройствами?
+      a: Абсолютно. Все наши тарифы eSIM для Азии поддерживают мобильную точку доступа и модемный режим, позволяя делиться данными с вашим ноутбуком, планшетом или попутчиками.
+    - q: Каковы преимущества вашего eSIM для Азии по сравнению с местными SIM-картами или другими провайдерами?
+      a: В отличие от физических SIM-карт, вам не нужно стоять в очереди в аэропорту или менять маленькие пластиковые карты. Мы напрямую сотрудничаем с ведущими местными сетями в Азии, такими как China Mobile, NTT Docomo, Singtel, чтобы обеспечить премиальную скорость за небольшую часть стоимости роуминга.
+    - q: Как вы сравниваетесь с известными провайдерами eSIM, такими как eSIM GO, Numero, Airalo, Holafly?
+      a: В то время как такие отличные компании, как eSIM GO, Numero, Airalo, Holafly, предлагают надежные услуги, мы фокусируемся на предоставлении наиболее экономичного eSIM для Азии, обеспечивая меньшую задержку и лучшие цены с нашей системой автоматического сравнения цен.
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: Аэропорты
+    title: 2. Сеть в аэропорту
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Asia eSIM before your flight. Once you land at Tokyo Haneda Airport,
-        Singapore Changi Airport, Bangkok Suvarnabhumi Airport, simply turn off Airplane
-        Mode and enable your eSIM line. It will connect to the local 4G/5G network
-        within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Asia eSIM activated upon landing, you can immediately open Grab,
-        Gojek, Didi Chuxing to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Asia eSIM data allows you to open Google Maps right at the
-        baggage claim in Tokyo Haneda Airport, Singapore Changi Airport, Bangkok Suvarnabhumi
-        Airport to check real-time train schedules, bus routes, or walking directions
-        to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Asia eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Asia eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Asia eSIM cellular data to let your family know you've arrived safely.
+    - q: Как получить надежную сеть сразу после выхода из самолета?
+      a: Установите eSIM для Азии перед полетом. Как только вы приземлитесь в токийском аэропорту Ханэда, сингапурском аэропорту Чанги, аэропорту Суваннабхуми в Бангкоке, просто выключите авиарежим и включите линию eSIM. Он подключится к местной сети 4G/5G в течение нескольких секунд.
+    - q: Как связаться с водителем, встречающим в аэропорту, или использовать Uber/Grab?
+      a: С активированным по прибытии eSIM для Азии вы можете немедленно открыть Grab, Gojek, Didi Chuxing, чтобы заказать поездку, или использовать WhatsApp, чтобы написать заранее забронированному водителю, не полагаясь на нестабильный Wi-Fi аэропорта.
+    - q: Как использовать Google Карты/Apple Карты для поиска транспорта?
+      a: Ваши высокоскоростные данные eSIM для Азии позволяют открыть Google Карты прямо в зоне выдачи багажа в токийском аэропорту Ханэда, сингапурском Чанги, аэропорту Суваннабхуми в Бангкоке, чтобы проверить расписание поездов, автобусные маршруты или маршрут до стоянки такси в реальном времени.
+    - q: Как избежать покупки дорогих временных SIM-карт в аэропорту?
+      a: Приобретая наш eSIM для Азии онлайн заранее, вы полностью обходите туристические ларьки с SIM-картами в зале прилета, экономя время и деньги.
+    - q: Как получать SMS от отеля/аренды авто без местного номера?
+      a: Наш eSIM для Азии предоставляет только данные. Для получения SMS оставьте вашу домашнюю основную SIM-карту активной для приема сообщений (получение SMS обычно бесплатно в роуминге) и используйте eSIM для всего интернет-трафика.
+    - q: Как немедленно связаться с семьей, чтобы сообщить о безопасности и обсудить маршрут?
+      a: Как только вы приземлитесь, вы можете использовать iMessage, WhatsApp или FaceTime через наши быстрые сотовые данные eSIM для Азии, чтобы дать семье знать, что вы благополучно прибыли.
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: Транспорт
+    title: 3. Транспорт и путешествия
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Asia eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Asia, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Grab, Gojek, Didi Chuxing use VoIP (internet calling) and in-app
-        messaging. Since you have active Asia eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Asia eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Asia eSIM data. A 5GB or 10GB plan provides
-        more than enough data for extensive GPS navigation during a road trip in Asia.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Asia eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Asia eSIM's data network while on the
-        train or in the car.
+    - q: Как использовать Google Карты/Apple Карты для планирования маршрутов?
+      a: Наше стабильное соединение eSIM для Азии гарантирует, что Google Карты могут загружать данные о дорожном движении в реальном времени и расписания транспорта в любом месте Азии, делая навигацию простой.
+    - q: Как позволить водителям Uber/Grab связываться с вами через приложение?
+      a: Приложения, такие как Grab, Gojek, Didi Chuxing, используют VoIP (интернет-звонки) и внутриприложенческие сообщения. Поскольку у вас есть активные данные eSIM для Азии, водители могут звонить или писать вам напрямую через приложение без необходимости местного номера телефона.
+    - q: Как купить билеты на поезд/метро онлайн?
+      a: Вы можете использовать данные вашего eSIM для Азии для доступа к местным транспортным приложениям или веб-сайтам, чтобы приобрести цифровые QR-билеты на ходу, избегая длинных очередей в билетных автоматах.
+    - q: Как использовать Google Карты для навигации в реальном времени после аренды автомобиля?
+      a: Просто установите телефон и используйте данные eSIM для Азии. Тариф 5 ГБ или 10 ГБ обеспечит более чем достаточно данных для обширной GPS-навигации во время поездки на автомобиле по Азии.
+    - q: Как отсканировать и разблокировать общие электросамокаты, такие как Lime/Bird?
+      a: Разблокировка электросамокатов требует быстрого интернет-соединения для обработки QR-кода и оплаты. Наш eSIM для Азии обеспечивает надежное городское покрытие, необходимое для этого.
+    - q: Как гарантировать нормальную работу приложений для вызова такси в нескольких странах?
+      a: Если вы путешествуете по региону, ваш аккаунт в приложении для вызова такси остается тем же. Просто убедитесь, что у вас есть активное интернет-соединение (через наш местный или региональный eSIM) для заказа поездок.
+    - q: Как обеспечить стабильную персональную точку доступа для устройств семьи?
+      a: Перейдите в настройки телефона, включите «Персональная точка доступа», и ваша семья сможет подключить свои телефоны или iPad к сети данных вашего eSIM для Азии, находясь в поезде или автомобиле.
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: Отели
+    title: 4. Отели и размещение
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Asia eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Asia eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at The Ritz-Carlton Tokyo, Marina Bay Sands Singapore,
-        Mandarin Oriental Bangkok or a local guesthouse, you can input the address
-        into Google Maps and get turn-by-turn walking or transit directions using
-        your Asia eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Asia eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Asia eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download GrabFood, Foodpanda, Meituan and use
-        your Asia eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Asia eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: Как заселиться самостоятельно после бронирования через Booking.com/Agoda?
+      a: Многие современные арендуемые квартиры требуют доступа к онлайн-порталу или проверки электронной почты для получения кода умного замка. Ваш eSIM для Азии гарантирует, что вы сможете получить эти данные прямо у двери.
+    - q: Как немедленно связаться с хозяином Airbnb для получения инструкций по прибытии?
+      a: Вы можете использовать функцию обмена сообщениями в приложении Airbnb или WhatsApp, чтобы согласовать время прибытия с хозяином, используя мобильные данные вашего eSIM для Азии.
+    - q: Как использовать Google Карты для навигации к отелю?
+      a: Независимо от того, останавливаетесь ли вы в Ritz-Carlton Tokyo, Marina Bay Sands Singapore, Mandarin Oriental Bangkok или в местном гостевом доме, вы можете ввести адрес в Google Карты и получить пошаговые пешеходные или транспортные указания, используя ваш eSIM для Азии.
+    - q: Как получать SMS-коды подтверждения, используя Wi-Fi отеля и eSIM?
+      a: Оставьте вашу домашнюю основную SIM-карту включенной для SMS и используйте Wi-Fi отеля или данные вашего eSIM для Азии, чтобы инициировать код подтверждения от вашего банка или приложения.
+    - q: Как быстро связаться со службой поддержки Booking/отеля для изменения заказа?
+      a: Вы можете использовать VoIP-приложения, такие как Skype, или функции чата поддержки внутри приложения Booking.com, используя высокоскоростные данные вашего eSIM для Азии.
+    - q: Как заказать еду в отель через местные приложения доставки?
+      a: Если вы приезжаете поздно, вы можете скачать GrabFood, Foodpanda, Meituan и использовать данные вашего eSIM для Азии, чтобы заказать горячую еду прямо в холл или номер отеля.
+    - q: Как поддерживать сетевое соединение для связи с отелем после выезда?
+      a: Как только вы покидаете зону Wi-Fi отеля, ваш eSIM для Азии автоматически вступает в силу, позволяя вам отправить сообщение отелю, если вы забыли багаж или нужно договориться о более позднем заборе.
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: Достопримечательности
+    title: 5. Достопримечательности и развлечения
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Great Wall of China, Taj Mahal, Angkor Wat spontaneously,
-        you can use your Asia eSIM data to buy skip-the-line tickets online and present
-        the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Asia eSIM, you can read reviews and book local
-        tours or experiences on Tripadvisor while having coffee at a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Asia.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Asia eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Asia eSIM will keep you connected throughout the
-        park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Asia eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Asia eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
+    - q: Как купить электронные билеты через GetYourGuide/Viator?
+      a: Если вы решите спонтанно посетить Великую Китайскую стену, Тадж-Махал, Ангкор-Ват, вы можете использовать данные вашего eSIM для Азии, чтобы купить билеты онлайн без очереди и представить штрих-код на экране.
+    - q: Как немедленно забронировать впечатления через Tripadvisor?
+      a: С надежным 4G/5G от вашего eSIM для Азии вы можете читать отзывы и бронировать местные туры или впечатления через Tripadvisor, выпивая кофе в ближайшем кафе.
+    - q: Как использовать Google/Википедию для поиска информации во время посещения?
+      a: Улучшите свой культурный опыт, мгновенно ища исторические факты или переводя музейные таблички во время изучения Азии.
+    - q: Как использовать Google Карты для навигации к следующей достопримечательности?
+      a: Просто введите следующий пункт назначения в Google Карты; сильное городское покрытие вашего eSIM для Азии проведет вас по самому быстрому пешеходному или транспортному маршруту.
+    - q: Как проверить время ожидания в реальном времени в тематических парках, таких как Disney?
+      a: Приложения тематических парков требуют постоянного доступа в интернет для отображения времени ожидания и бронирования быстрых пропусков. Ваш eSIM для Азии будет поддерживать соединение по всему парку.
+    - q: Как получить доступ к Ticketmaster для бронирования билетов на шоу?
+      a: Вы можете безопасно просматривать и покупать билеты на театральные или концертные представления в последнюю минуту через приложения для билетов, используя сотовые данные вашего eSIM для Азии.
+    - q: Как мгновенно делиться фотографиями/видео в Instagram/Facebook?
+      a: Высокая скорость загрузки нашего eSIM для Азии означает, что вы можете публиковать качественные истории, рилсы и фотографии вашей поездки в реальном времени, не дожидаясь Wi-Fi в отеле.
   - id: faq-dining
     icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
+    tab_title: Рестораны
+    title: 6. Рестораны и питание
     questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Asia eSIM data to search 'restaurants near me' on Google Maps to
-        check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Asia eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Asia eSIM ensures you can scan
-        the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Asia eSIM to process
-        live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like GrabFood, Foodpanda, Meituan, register using
-        your email or social accounts, and order food seamlessly using your Asia eSIM
-        mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Alipay,
-        WeChat Pay, PayPay require a brief internet handshake, which your Asia eSIM
-        handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Asia eSIM to find hidden culinary gems in the city.
+    - q: Как найти рестораны с помощью Google Карт/Tripadvisor?
+      a: Используйте данные вашего eSIM для Азии, чтобы искать 'рестораны рядом со мной' в Google Картах для проверки рейтингов, часов работы и фотографий меню перед входом.
+    - q: Как забронировать столик через OpenTable или веб-сайты ресторанов?
+      a: Вы можете легко забронировать столик на ужин, зайдя на платформы бронирования онлайн, используя ваш eSIM для Азии, пока вы осматриваете достопримечательности.
+    - q: Как сканировать QR-коды ресторанов для просмотра электронных меню?
+      a: Многие рестораны теперь используют цифровые меню. Ваш eSIM для Азии гарантирует, что вы можете отсканировать QR-код на столе и мгновенно загрузить меню.
+    - q: Как использовать камеру Google Translate для перевода меню?
+      a: Откройте приложение Google Translate, выберите функцию камеры и наведите ее на местное меню. Для точного перевода в реальном времени требуется интернет-соединение через ваш eSIM для Азии.
+    - q: Как зарегистрироваться и использовать международные версии Uber Eats/DoorDash?
+      a: Вы можете скачать местные приложения, такие как GrabFood, Foodpanda, Meituan, зарегистрироваться, используя адрес электронной почты или социальные сети, и заказывать еду без проблем, используя мобильные данные вашего eSIM для Азии.
+    - q: Как успешно оплатить с помощью Apple Pay/Google Pay?
+      a: Бесконтактные платежи через Apple Pay, Google Pay или местные методы, такие как Alipay, WeChat Pay, PayPay, требуют короткого интернет-рукопожатия, с которым ваш eSIM для Азии отлично справляется.
+    - q: Как найти рестораны, рекомендуемые Yelp/блогерами о еде?
+      a: Вы можете смотреть YouTube-обзоры еды или просматривать отзывы на Yelp в пути, используя ваш eSIM для Азии, чтобы найти скрытые кулинарные жемчужины в городе.
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: Социальные сети
+    title: 7. Социальные сети и общение
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Asia eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Asia eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Asia eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Asia
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Asia eSIM data allowance to check their own social media.
+    - q: Как стабильно использовать WhatsApp/Telegram за границей?
+      a: Ваши аккаунты WhatsApp и Telegram привязаны к вашему домашнему номеру. С нашим eSIM для Азии, обеспечивающим интернет, вы можете общаться и звонить точно так же, как дома.
+    - q: Как загружать контент в Instagram/TikTok без подключения к публичному Wi-Fi?
+      a: Общественный Wi-Fi может быть медленным и небезопасным. Наш 4G/5G eSIM для Азии дает вам пропускную способность, необходимую для безопасной загрузки больших видеофайлов в TikTok или Instagram.
+    - q: Как совершать видеозвонки FaceTime/WhatsApp с семьей?
+      a: Наше партнерство с сетями с низкой задержкой гарантирует, что ваши видеозвонки FaceTime и через eSIM для Азии будут четкими и без задержек, где бы вы ни находились в стране.
+    - q: Безопасно ли входить в социальные сети, подключаясь к публичному Wi-Fi?
+      a: Публичные сети Wi-Fi уязвимы для взлома. Использование ваших личных сотовых данных eSIM для Азии зашифровано и гораздо безопаснее для входа в аккаунты.
+    - q: Как делиться сетью в качестве персональной точки доступа с попутчиками?
+      a: Включите функцию точки доступа на вашем телефоне. Ваши друзья смогут подключиться к вашей Wi-Fi сети и использовать ваш тариф eSIM для Азии для проверки своих социальных сетей.
   - id: faq-crossborder
     icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
+    tab_title: Путешествия между странами
+    title: 8. Трансграничные поездки
     questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Asia eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Asia eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: Нужно ли покупать другую SIM-карту для каждой страны при поездке по нескольким европейским странам?
+      a: Если вы покупаете однострановой eSIM Азии, он работает только там. Для поездок по нескольким странам мы настоятельно рекомендуем наш Региональный eSIM (например, eSIM Европы), который покрывает несколько стран одним профилем.
+    - q: Как избежать высоких роуминговых сборов при пересечении границ на поезде?
+      a: Отключите роуминг данных на вашей домашней SIM-карте. Убедитесь, что ваш eSIM для Азии установлен в качестве основной линии данных, чтобы никогда не нести непредвиденные расходы от вашего домашнего оператора.
+    - q: Как получить краткосрочную сеть при транзите через Сингапур/Дубай?
+      a: Вы можете приобрести недорогой eSIM объемом 1 ГБ специально для страны транзита, чтобы оставаться на связи во время пересадки.
+    - q: Как получить экономичную местную сеть для береговых экскурсий круизного лайнера?
+      a: Вместо оплаты дорогого круизного Wi-Fi активируйте местный eSIM для стран, в которых вы останавливаетесь. Он подключится, как только вы будете рядом с берегом.
+    - q: Как гарантировать, что Google Карты будут онлайн во время трансграничных автопутешествий?
+      a: С региональным eSIM ваш телефон автоматически переключится на сеть новой страны, когда вы пересечете границу на автомобиле, сохраняя GPS активным.
+    - q: Как управлять использованием данных в нескольких странах с помощью одного приложения?
+      a: Вы можете отслеживать использование данных для всех ваших активных eSIM напрямую через нашу панель управления на веб-сайте.
+    - q: Как поддерживать стабильные способы связи во время поездки по нескольким странам?
+      a: Поскольку ваш WhatsApp/iMessage полагается на данные, использование регионального eSIM гарантирует, что ваши друзья и семья всегда смогут связаться с вами по тому же номеру без перерывов.
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: Чрезвычайные ситуации
+    title: 9. Чрезвычайные ситуации
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Asia, you can dial local emergency numbers like 110, 119, 112 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Asia eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Asia eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Asia eSIM data to call your insurance
-        company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Asia eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Asia eSIM, use your data
-        to download offline areas in Google Maps just in case you venture into mountains
-        or deep rural zones where signals drop.
+    - q: Как набрать местный номер экстренной помощи в незнакомой стране?
+      a: В Азии вы можете набирать местные экстренные номера, такие как 110, 119, 112, прямо с клавиатуры телефона, независимо от вашей активной SIM-карты, если ваш телефон может поймать любой сотовый сигнал.
+    - q: Как найти ближайшую больницу/аптеку в случае внезапного заболевания?
+      a: Ваши данные eSIM для Азии позволяют вам немедленно найти в Google Картах "аптеку рядом со мной" или "больницу" и получить самый быстрый маршрут.
+    - q: Как найти информацию о посольстве/консульстве после потери паспорта?
+      a: Вы можете быстро найти в интернете, используя ваш eSIM для Азии, точный адрес, контактный электронный адрес и часы работы посольства вашей страны.
+    - q: Как связаться с горячей линией помощи страховой компании в случае аварии?
+      a: Используйте VoIP-приложения, такие как Skype или Viber, через данные вашего eSIM для Азии, чтобы позвонить на международные бесплатные номера вашей страховой компании.
+    - q: Как делиться местоположением в реальном времени в небезопасных районах?
+      a: Вы можете использовать функцию "Share Live Location" в WhatsApp или функцию "Локатор" от Apple, чтобы непрерывно передавать ваши GPS-координаты доверенным друзьям, используя мобильные данные вашего eSIM для Азии.
+    - q: Как скачать офлайн-карты/ключевые места перед поездкой в отдаленные районы?
+      a: Пока у вас все еще есть хорошее городское покрытие eSIM для Азии, используйте ваши данные для загрузки офлайн-областей в Google Картах на случай, если вы отправитесь в горы или глубокие сельские районы, где сигнал может пропадать.
   - id: faq-business
     icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
+    tab_title: Бизнес
+    title: 10. Бизнес и работа
     questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Asia eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Asia eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Asia eSIM is significantly
-        faster and much more secure against cyber threats than using open public Wi-Fi
-        networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Asia eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Asia eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Asia eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Asia eSIM to update them on flight delays or schedule
-        changes.
+    - q: Как обеспечить стабильные видеоконференции Zoom/Microsoft Teams?
+      a: Наш eSIM для Азии подключается к премиальным местным сетям, обеспечивая высокую пропускную способность и низкую задержку, необходимые для плавных, профессиональных видеоконференций.
+    - q: Как безопасно подключиться к корпоративному VPN для доступа к внутренним системам во время деловых поездок?
+      a: Наши сотовые данные не ограничивают протоколы VPN. Вы можете безопасно запустить ваше корпоративное VPN-приложение через сеть eSIM для Азии для доступа к внутренним серверам.
+    - q: Как обеспечить сеть для ноутбуков, используя мобильные точки доступа в аэропортах/кафе?
+      a: Просто включите функцию "Персональная точка доступа" на вашем телефоне. Использование вашего eSIM для Азии значительно быстрее и намного безопаснее с точки зрения киберугроз, чем использование открытых публичных Wi-Fi сетей.
+    - q: Как гарантировать получение кодов подтверждения от банка/электронной почты компании?
+      a: Оставьте вашу домашнюю SIM-карту активной для приема SMS и используйте данные вашего eSIM для Азии для получения кодов 2FA по электронной почте или push-уведомлений от приложений-аутентификаторов.
+    - q: Как быстро загружать большие файлы в облачные хранилища на площадках клиентов/выставках?
+      a: Со скоростями 5G/4G LTE вашего eSIM для Азии вы можете быстро загружать презентации или большие документы в Google Диск или Dropbox прямо с выставочного стенда.
+    - q: Как беспрепятственно использовать Slack/Gmail/Google Диск для совместной работы?
+      a: Ваш eSIM для Азии обеспечивает постоянное соединение, гарантируя, что вы мгновенно получаете уведомления Slack и важные электронные письма, оставаясь в курсе событий вашей команды.
+    - q: Как обновлять маршруты путешествий онлайн в любое время для связи с компанией?
+      a: Вы можете получить доступ к корпоративным туристическим порталам или отправить электронное письмо в отдел кадров в пути, используя ваш eSIM для Азии, чтобы сообщить им о задержках рейсов или изменениях расписания.
 related_products:
-  title: Related eSIM Plans
+  title: Связанные eSIM тарифы
   items:
-  - name: united states eSIM
+  - name: eSIM для США
     flag: img/flags/us.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: United-Kingdom
+  - name: eSIM для Великобритании
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Europe eSIM
+  - name: eSIM для Европы
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: true
-  - name: Canada eSIM
+  - name: eSIM для Канады
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Turkey eSIM
+  - name: eSIM для Турции
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: China eSIM
+  - name: eSIM для Китая
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Japan eSIM
+  - name: eSIM для Японии
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
+  - name: eSIM для Гонконга
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: France eSIM
+  - name: eSIM для Франции
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Spain eSIM
+  - name: eSIM для Испании
     flag: img/flags/es.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Germany eSIM
+  - name: eSIM для Германии
     flag: img/flags/de.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
-  - name: Australia eSIM
+  - name: eSIM для Австралии
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От $1.99
     is_highlight: false
 ---

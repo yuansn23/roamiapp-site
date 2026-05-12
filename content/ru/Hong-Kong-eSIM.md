@@ -1,134 +1,133 @@
 ---
-title: Hong Kong eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: Гонконг eSIM тариф | Лучшая туристическая eSIM 2026 | Roami
+date: '2026-05-12T09:34:53+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Hong Kong eSIM
-  scenario_keywords: Hong Kong sightseeing, Victoria Harbour cruise, Disneyland visit,
-    hiking in Hong Kong, temple street market
-  operators: CSL, SmarTone, China Mobile Hong Kong
+  core_keyword: Гонконг eSIM
+  scenario_keywords: осмотр достопримечательностей, деловая поездка, шопинг, гастрономический
+    тур, транзит
+  operators: CMHK, SmarTone, 3 Hong Kong
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Hong Kong Island, Kowloon, Tsuen Wan, Sha Tin, Tuen Mun
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_cities: Гонконг (остров Гонконг), Коулун, Новые Территории, Лантау, Чхеклапкок
+  main_packages: 3/7/15/30 дней, безлимитные данные
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: Обновление сервиса!
+  btn_text: Продолжить
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Наш eSIM-сервис обновлён до <strong>PhoneSIMGo</strong>.<br>Новые клиенты получают 20% скидку с кодом: web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Наш eSIM-сервис обновлён до <strong>PhoneSIM</strong>.<br>Новые клиенты получают 20% скидку с кодом: web20
 seo:
-  title: Hong Kong Travel eSIM | Always-On 5G Connection | Roami
-  description: Visiting Hong Kong soon? Experience high-speed 5G connectivity from
-    CMHK with a Roami travel eSIM. Enjoy instant QR activation and seamless mobile
-    data without signing any contracts.
-  keywords: Hong Kong eSIM, prepaid eSIM Hong Kong, cheap eSIM Hong Kong, travel internet
-    Hong Kong, instant delivery eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: eSIM для Гонконга | 5G от CMHK с мгновенной активацией | Roami
+  description: Скоро посетите Гонконг? Ощутите высокоскоростное 5G соединение от CMHK
+    с туристической eSIM Roami. Наслаждайтесь мгновенной активацией через QR-код и
+    бесшовным мобильным интернетом без подписания контрактов.
+  keywords: eSIM Гонконг, туристическая eSIM Гонконг, интернет в Гонконг, мобильная
+    связь Гонконг, виртуальная сим-карта Гонконг
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: Выбранный тариф
+  label_data: Объём данных
+  label_validity: Срок действия
+  label_daily: Цена за день
+  label_total: Общая стоимость
+  btn_primary: Получить скидку 20%
+  btn_secondary: 'Код: web20'
 breadcrumbs:
-- label: Home
+- label: Главная
   url: /
-- label: Hong Kong eSIM
+- label: Гонконг eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Hong Kong
-  title: Best eSIM for Hong Kong
+  alt: Лучшая eSIM для Гонконг
+  title: Лучшая eSIM для Гонконг
 hero:
-  flag_image: img/flags/ho.svg
-  flag_alt: Hong Kong Flag
-  title: Hong Kong eSIM data plan
-  subtitle: Smooth video streaming | High-speed 5G network | No more roaming fees
+  flag_image: img/flags/hk.svg
+  flag_alt: Флаг Гонконг
+  title: Тариф eSIM для Гонконг
+  subtitle: Поддержка точки доступа | Мгновенная доставка | Приоритетный доступ к
+    5G
 features:
-  title: Why Travelers Choose Roami
+  title: Почему путешественники выбирают Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: Мгновенный QR-код
+    desc: Доставка менее 5 минут
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 поддержка
+    desc: Всегда на связи
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: Гарантия
+    desc: Защита покупателя гарантирована
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: Точка доступа
+    desc: Делитесь данными с другими
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: Без контрактов
+    desc: Отмена в любое время
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: Автовыбор
+    desc: Лучшие местные сети
+plans_title: Выберите ваш тариф
 plans_data:
-  30 Days:
+  30 дней:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для длительных поездок
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '0.27'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для ещё более длительных поездок
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '0.43'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Безлимитные высокоскоростные данные
+    desc: Беззаботное использование данных
     price: '57.99'
     oldPrice: '86.98'
-    tag: Premium
+    tag: Премиум
     tagColor: bg-purple-600
     daily: '1.93'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '31.99'
     oldPrice: '47.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.07'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для осмотра достопримечательностей
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -136,17 +135,17 @@ plans_data:
     daily: '0.20'
     tagIcon: star
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '23.99'
     oldPrice: '35.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.80'
-  7 Days:
+  7 дней:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для осмотра достопримечательностей
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -154,99 +153,99 @@ plans_data:
     daily: '0.57'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для длительных поездок
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для ещё более длительных поездок
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '1.57'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '15.99'
     oldPrice: '23.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.28'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для коротких деловых поездок
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Безлимитные высокоскоростные данные
+    desc: Беззаботное использование данных
     price: '18.99'
     oldPrice: '28.48'
-    tag: Premium
+    tag: Премиум
     tagColor: bg-purple-600
     daily: '2.71'
-  15 Days:
+  15 дней:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для длительных поездок
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '0.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для ещё более длительных поездок
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '0.80'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '19.99'
     oldPrice: '29.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Безлимитные высокоскоростные данные
+    desc: Беззаботное использование данных
     price: '35.99'
     oldPrice: '53.98'
-    tag: Premium
+    tag: Премиум
     tagColor: bg-purple-600
     daily: '2.40'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для осмотра достопримечательностей
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
     tagColor: bg-orange-500
     daily: '0.33'
     tagIcon: star
-  3 Days:
+  3 дней:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для осмотра достопримечательностей
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
@@ -254,572 +253,571 @@ plans_data:
     daily: '1.00'
     tagIcon: star
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для ещё более длительных поездок
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '3.33'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для коротких деловых поездок
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для длительных поездок
     price: '4.99'
     oldPrice: '7.49'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '1.66'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Безлимитные высокоскоростные данные
+    desc: Беззаботное использование данных
     price: '7.99'
     oldPrice: '11.98'
-    tag: Premium
+    tag: Премиум
     tagColor: bg-purple-600
     daily: '2.66'
 discount_banner:
-  title: Special Discount!
+  title: Специальная скидка!
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    Используйте код <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> при оплате для <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% СКИДКИ</span>!
+  btn_text: Сохранить скидку
+  validity: 'Действует: 3 дня'
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: Детали покрытия сети
+  supports_text: 'Поддерживает:'
   service_details:
-    title: Service Details
+    title: Детали сервиса
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Hong Kong, including major
-        cities like Hong Kong Island, Kowloon, Tsuen Wan, and Sha Tin. Our Hong Kong
-        eSIM seamlessly connects to the robust networks of CSL, SmarTone, and China
-        Mobile Hong Kong, ensuring stable signals in urban centers, tourist hotspots,
-        and along major transportation routes.
+      title: Покрытие
+      desc: Наслаждайтесь обширным покрытием сети по всему Гонконг, включая такие
+        города, как Центральный, Цим Ша Цуй, Ван Чай, Монг Кок. Наша eSIM для Гонконг
+        бесшовно подключается к сетям CMHK, SmarTone, 3 Hong Kong.
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: Время доставки
+      desc: Мгновенная доставка после покупки.
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: Точка доступа
+      desc: Без ограничений на точку доступа.
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: Мобильные сети
+    badge: Официальный партнёр
     items:
-    - name: CSL
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+    - name: CMHK
+      coverage: Низкая задержка
+      network: 5G/4G/LTE сеть
     - name: SmarTone
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: China Mobile Hong Kong
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: Собственный IP
+      network: 5G/4G/LTE сеть
 reminders:
-  title: Important Reminders
+  title: Важные замечания
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      Перед покупкой проверьте <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">совместимость eSIM</a> вашего телефона.
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Hong Kong.
+    html: Рекомендуем активировать eSIM только после прибытия в Гонконг.
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: Срок действия начинается при подключении к сети-партнёру.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR-код будет отправлен на вашу электронную почту.
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: Вы можете установить несколько eSIM одновременно.
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: Быстрая проверка совместимости
+    desc: 'Не уверены? Проверьте прямо сейчас на телефоне:'
+    instruction: 'Наберите на клавиатуре:'
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      Если отображается <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>-номер, eSIM поддерживается!
 activation_steps:
-  title: Activation Steps
+  title: Активация вашей eSIM для Гонконг за несколько минут
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: Получите и сохраните QR-код – готовьтесь к Гонконг
+    desc: Сразу после заказа вы получите письмо с вашим персональным QR-кодом активации
+      и инструкциями. Сохраните QR-код на смартфоне или распечатайте – вам не нужно
+      активное интернет-соединение для последующей установки. eSIM действует 30 дней,
+      вы можете спокойно подготовить её к поездке в Гонконг.
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: Установите eSIM на устройстве – отсканируйте QR-код
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - Откройте **Настройки** → **Сотовая связь / Мобильные данные**
+    - Нажмите **"Добавить eSIM"** или **"Добавить тариф"**
+    - Выберите **"Отсканировать QR-код"** и наведите камеру на код
+    - Профиль eSIM для Гонконг загрузится автоматически – нажмите **"Далее"**
+    - Присвойте имя (например, «Roami Гонконг») и установите его как **стандарт для
+      мобильных данных**
+    - Теперь eSIM установлена, но ещё **неактивна** – идеально для подготовки к поездке
   - num: '3'
-    title: 'Step 3: Activate in Hong Kong'
-    desc: Upon arriving in Hong Kong, enable your Hong Kong eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: Подготовка дома – протестируйте без риска
+    desc: После установки вы можете оставить eSIM отключённой в настройках. Однако
+      вы уже можете протестировать её через домашний Wi-Fi (мобильные данные не расходуются).
+      Как только вы приземлитесь в Гонконг, просто включите eSIM – срок действия начнётся
+      автоматически при первом подключении к сети CMHK / SmarTone. Никаких скрытых
+      платежей за активацию, никаких роуминговых сборов.
+    is_list: false
+  - num: '4'
+    title: 'Прибытие в Гонконг: мгновенный выход в сеть 5G/4G'
+    desc: Как только вы приземлитесь в Гонконг (например, в Международный аэропорт
+      Гонконга (HKG), аэропорт Шэньчжэнь (SZX — для трансфера)), выключите авиарежим
+      (или оставайтесь в нём и активируйте только eSIM). Перейдите в **Настройки →
+      Сотовая связь** и включите вашу Roami eSIM для Гонконг. В течение нескольких
+      секунд ваше устройство автоматически подключится к самой быстрой доступной сети
+      5G/4G от CMHK / SmarTone. Вы сможете сразу пользоваться навигацией, WhatsApp,
+      соцсетями или раздать интернет другим устройствам – без ожидания, без удостоверения
+      личности, без контракта.
     is_list: false
 faq_section:
-  title: Hong Kong eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Hong Kong eSIM across different
-    travel scenarios.
+  title: 'Гонконг eSIM: Часто задаваемые вопросы и путеводитель'
+  desc: Всё, что нужно знать об использовании вашей eSIM для Гонконг в различных сценариях
+    путешествий.
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: Общее
+    title: 1. Общие вопросы
     questions:
-    - q: Does my phone support the Hong Kong eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Hong Kong eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Hong Kong eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Hong Kong
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Hong Kong eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Hong Kong eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Hong Kong that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Hong Kong eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Hong Kong eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Hong Kong eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Hong Kong eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Hong Kong,
-        such as CSL, SmarTone, China Mobile Hong Kong, to ensure premium speeds at
-        a fraction of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Numero, Holafly, BNESIM,
-        Airalo?
-      a: While great companies like Numero, Holafly, BNESIM, Airalo offer reliable
-        services, we focus on providing the most cost-effective Hong Kong eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: Могу ли я сохранить свой номер телефона, используя eSIM для Гонконг?
+      a: 'Roami eSIM — это исключительно дата-сим. Вы можете параллельно использовать
+        свою домашнюю SIM-карту (например, для звонков/SMS). Большинство телефонов
+        с двумя SIM-картами управляют обоими профилями: просто выберите eSIM Roami
+        как стандарт для мобильных данных.'
+    - q: Как активировать eSIM для Гонконг и когда начинается срок действия?
+      a: После покупки вы сразу получаете QR-код активации по электронной почте. Срок
+        действия начинается только тогда, когда ваш телефон впервые подключается к
+        одной из сетей-партнёров (CMHK / SmarTone) в Гонконг. Так вы платите только
+        за те дни, которые фактически находитесь в стране.
+    - q: Могу ли я установить eSIM для Гонконг перед поездкой и активировать позже?
+      a: Да, вы можете установить eSIM уже дома (через Wi-Fi). Активация произойдёт
+        автоматически, как только ваш телефон в Гонконг впервые обнаружит сеть CMHK
+        / SmarTone. Так вы избежите стресса сразу после прилёта.
+    - q: Предлагает ли Roami региональные eSIM для поездок за пределы Гонконг?
+      a: Да, помимо eSIM для Гонконг, мы предлагаем региональные eSIM для Европы,
+        Азии, Северной Америки и всего мира. Идеально для многодневных поездок по
+        городам или турне по нескольким странам — без смены SIM-карт.
+    - q: Могу ли я использовать eSIM для Гонконг в качестве точки доступа для других
+        устройств?
+      a: Да, все тарифы Roami eSIM для Гонконг поддерживают неограниченную раздачу
+        интернета (точка доступа). Вы можете делиться соединением с ноутбуком, планшетом
+        или попутчиками — без скрытых платежей или снижения скорости.
+    - q: Предлагает ли Roami безлимитные тарифы для Гонконг? Есть ли политика честного
+        использования (FUP)?
+      a: Roami предлагает действительно безлимитные тарифы для Гонконг. Политика честного
+        использования применяется только при экстремальном потреблении (например,
+        постоянная потоковая передача 4K в течение нескольких дней). Обычный сёрфинг,
+        соцсети, видеозвонки и навигация не ограничиваются.
+    - q: Насколько безопасна eSIM для Гонконг по сравнению с физической SIM-картой?
+      a: eSIM более защищены от несанкционированного доступа, так как они встроены
+        в устройство и не могут быть извлечены или скопированы. Ваши данные остаются
+        зашифрованными — никакого риска от потерянных или украденных SIM-карт.
+    - q: Как долго действителен QR-код для eSIM для Гонконг?
+      a: QR-код действителен в течение 30 дней после отправки на вашу электронную
+        почту. У вас достаточно времени, чтобы установить eSIM перед поездкой. По
+        истечении срока мы можем выдать новый код.
+    - q: Могу ли я перенести eSIM для Гонконг на другое устройство после установки?
+      a: Однажды установленная eSIM не может быть перенесена на другое устройство.
+        Пожалуйста, устанавливайте eSIM на то устройство, которое будете использовать
+        в поездке. Для дополнительных устройств вы можете приобрести отдельные eSIM.
+    - q: Могу ли я продолжать принимать звонки на своей домашней SIM-карте во время
+        использования eSIM для Гонконг?
+      a: Да, устройства с двумя SIM-картами позволяют использовать оба профиля одновременно.
+        Просто установите в настройках eSIM Roami как стандарт для мобильных данных.
+        Звонки и SMS будут идти через вашу домашнюю SIM-карту (роуминг может быть
+        активен).
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: Аэропорты
+    title: 2. Сеть в аэропорту
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Hong Kong eSIM before your flight. Once you land at Hong Kong
-        International Airport, Shenzhen Bao'an International Airport (via ferry connection),
-        simply turn off Airplane Mode and enable your eSIM line. It will connect to
-        the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Hong Kong eSIM activated upon landing, you can immediately open
-        MTR Mobile, Uber, HK Taxi to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Hong Kong eSIM data allows you to open Google Maps right
-        at the baggage claim in Hong Kong International Airport, Shenzhen Bao'an International
-        Airport (via ferry connection) to check real-time train schedules, bus routes,
-        or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Hong Kong eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Hong Kong eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Hong Kong eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: Как получить надёжную сеть сразу после прилёта?
+      a: Установите eSIM для Гонконг перед вылетом. Как только вы приземлитесь в аэропортах,
+        таких как Международный аэропорт Гонконга (HKG), аэропорт Шэньчжэнь (SZX —
+        для трансфера), просто выключите авиарежим и активируйте eSIM. Она подключится
+        к локальной сети 4G/5G за секунды.
+    - q: Как связаться с встречающим или использовать Uber/Grab?
+      a: После активации при прилёте вы сможете сразу использовать приложения, такие
+        как Uber, HK Taxi, GoGoVan, чтобы заказать поездку, или WhatsApp, чтобы связаться
+        с водителем, не полагаясь на небезопасный Wi-Fi аэропорта.
+    - q: Как использовать Google/Apple Maps для поиска транспорта?
+      a: С данными вашей eSIM для Гонконг вы можете прямо у выдачи багажа в Международный
+        аэропорт Гонконга (HKG), аэропорт Шэньчжэнь (SZX — для трансфера) проверить
+        расписания поездов и автобусов в реальном времени или найти путь к стоянке
+        такси.
+    - q: Как избежать дорогих SIM-карт в аэропорту?
+      a: Купив нашу eSIM для Гонконг заранее онлайн, вы полностью обходите дорогие
+        киоски SIM-карт в зале прилёта, экономя время и деньги.
+    - q: Как получать SMS от отеля/проката авто без местного номера?
+      a: Наша eSIM для Гонконг — это только тариф данных. Чтобы получать SMS, оставьте
+        активной вашу домашнюю SIM-карту (приём SMS в роуминге часто бесплатен) и
+        используйте eSIM для всего трафика.
+    - q: Как немедленно связаться с семьёй?
+      a: Как только вы приземлитесь, вы можете использовать iMessage, WhatsApp или
+        FaceTime через быстрые данные нашей eSIM для Гонконг, чтобы сообщить близким,
+        что вы благополучно прибыли.
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: Транспорт
+    title: 3. Транспорт и путешествия
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Hong Kong eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Hong Kong, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like MTR Mobile, Uber, HK Taxi use VoIP (internet calling) and in-app
-        messaging. Since you have active Hong Kong eSIM data, drivers can call or
-        message you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Hong Kong eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Hong Kong eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Hong Kong.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Hong Kong eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Hong Kong eSIM's data network while
-        on the train or in the car.
+    - q: Как использовать Google Maps для планирования маршрута?
+      a: Наше стабильное соединение eSIM для Гонконг гарантирует, что Google Maps
+        сможет загружать данные о трафике и расписаниях в реальном времени по всему
+        Гонконг.
+    - q: Как водители Uber/Grab могут связаться со мной через приложение?
+      a: Приложения, такие как Uber, HK Taxi, GoGoVan, используют VoIP. Поскольку
+        у вас активны данные eSIM для Гонконг, водители могут звонить вам через приложение
+        или отправлять уведомления без местного номера.
+    - q: Как купить билеты на поезд или метро онлайн?
+      a: Используйте данные вашей eSIM для Гонконг, чтобы покупать цифровые QR-билеты
+        в местных приложениях и избегать длинных очередей у автоматов.
+    - q: Как использовать Google Maps для навигации в арендованном автомобиле в реальном
+        времени?
+      a: Закрепите телефон и используйте eSIM для Гонконг. Тарифа 5GB или 10GB достаточно
+        для обширной GPS-навигации во время поездки по Гонконг.
+    - q: Как сканировать и разблокировать электросамокаты (Lime/Bird)?
+      a: Разблокировка электросамокатов требует быстрого интернета. Наша eSIM для
+        Гонконг обеспечивает необходимое надёжное покрытие.
+    - q: Работают ли приложения райдшеринга трансгранично?
+      a: Да, ваш аккаунт остаётся тем же. Просто убедитесь, что у вас есть активное
+        интернет-соединение через нашу местную или региональную eSIM.
+    - q: Как организовать стабильную точку доступа для семьи?
+      a: Просто включите ' Личный точка доступа' в настройках. Ваша семья сможет подключиться
+        к вашей сети eSIM для Гонконг в поезде или автомобиле.
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: Отели
+    title: 4. Отели и жильё
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Hong Kong eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Hong Kong eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at The Peninsula Hong Kong, The Ritz-Carlton Hong
-        Kong, Mandarin Oriental Hong Kong or a local guesthouse, you can input the
-        address into Google Maps and get turn-by-turn walking or transit directions
-        using your Hong Kong eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Hong Kong eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Hong Kong eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Foodpanda, Deliveroo, OpenRice and use
-        your Hong Kong eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Hong Kong eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: Как сделать самостоятельный заезд (self-check-in) после бронирования?
+      a: Многие современные жилья высылают коды умных замков по электронной почте.
+        Ваша eSIM для Гонконг гарантирует, что вы сможете получить эти детали прямо
+        перед дверью.
+    - q: Как связаться с хозяином Airbnb по прибытии?
+      a: Используйте функцию обмена сообщениями в приложении Airbnb или WhatsApp,
+        чтобы согласовать время прибытия, используя мобильные данные eSIM для Гонконг.
+    - q: Как использовать Google Maps для навигации к отелю?
+      a: Независимо от того, останавливаетесь ли вы в The Ritz-Carlton Hong Kong,
+        The Peninsula Hong Kong, Four Seasons Hotel Hong Kong, введите адрес в Google
+        Maps и используйте навигацию вашей eSIM для Гонконг.
+    - q: Как получать SMS-коды подтверждения?
+      a: Оставьте вашу домашнюю SIM-карту активной для SMS и используйте данные eSIM
+        для Гонконг для получения кодов по электронной почте или через приложение
+        аутентификатора.
+    - q: Как быстро связаться со службой поддержки?
+      a: Используйте VoIP-приложения, такие как Skype, или функцию чата приложения
+        бронирования через высокоскоростные данные вашей eSIM для Гонконг.
+    - q: Как заказать еду через местные приложения доставки?
+      a: Скачайте Foodpanda, Deliveroo, OpenRice и используйте данные вашей eSIM для
+        Гонконг, чтобы заказать горячую еду прямо в лобби отеля.
+    - q: Как оставаться на связи с отелем после выезда (checkout)?
+      a: Как только вы выйдете из Wi-Fi отеля, ваша eSIM для Гонконг возьмёт на себя
+        управление, чтобы вы могли написать отелю, если что-то забыли.
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: Достопримечательности
+    title: 5. Достопримечательности и развлечения
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Victoria Harbour, The Peak, Hong Kong Disneyland spontaneously,
-        you can use your Hong Kong eSIM data to buy skip-the-line tickets online and
-        present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Hong Kong eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Hong Kong.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Hong Kong eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Hong Kong eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Hong Kong eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Hong Kong eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
+    - q: Как купить электронные билеты через GetYourGuide/Viator?
+      a: Если вы хотите спонтанно посетить Виктория Пик, Диснейленд Гонконг, Бухта
+        Репульс, вы можете использовать данные вашей eSIM для Гонконг для покупки
+        билетов онлайн и показать штрих-код прямо на месте.
+    - q: Как забронировать впечатления на Tripadvisor мгновенно?
+      a: С надёжным 4G/5G вашей eSIM для Гонконг вы можете читать отзывы и бронировать
+        местные туры, сидя в кафе.
+    - q: Как использовать Wikipedia/Google для получения информации во время посещения?
+      a: Расширьте свой культурный опыт, ища исторические факты или переводя таблички
+        в музеях с помощью Google Translate на данных eSIM для Гонконг.
+    - q: Как найти дорогу к следующей достопримечательности?
+      a: Введите следующую цель в Google Maps; мощное покрытие вашей eSIM для Гонконг
+        приведёт вас по самому быстрому маршруту.
+    - q: Как проверить время ожидания в парках аттракционов в реальном времени?
+      a: Приложениям парков развлечений нужен интернет для отображения времени ожидания.
+        Ваша eSIM для Гонконг держит вас онлайн на всей территории парка.
+    - q: Как получить доступ к Ticketmaster для билетов на шоу?
+      a: Вы можете безопасно купить билеты в последнюю минуту через приложения для
+        билетов с данными вашей eSIM для Гонконг.
+    - q: Как мгновенно делиться фото/видео в Instagram/TikTok?
+      a: Высокая скорость загрузки eSIM для Гонконг позволяет публиковать рилсы и
+        фото в реальном времени, не дожидаясь Wi-Fi отеля.
   - id: faq-dining
     icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
+    tab_title: Рестораны
+    title: 6. Еда и рестораны
     questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Hong Kong eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Hong Kong eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Hong Kong eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Hong Kong eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Foodpanda, Deliveroo, OpenRice, register
-        using your email or social accounts, and order food seamlessly using your
-        Hong Kong eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Octopus,
-        AlipayHK, FPS require a brief internet handshake, which your Hong Kong eSIM
-        handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Hong Kong eSIM to find hidden culinary gems in the city.
+    - q: Как найти рестораны через Google Maps/Tripadvisor?
+      a: Используйте вашу eSIM для Гонконг, чтобы искать 'рестораны поблизости' и
+        проверять отзывы, часы работы и фото меню.
+    - q: Как забронировать столик онлайн?
+      a: Обеспечьте бронирование через онлайн-платформы, используя вашу eSIM для Гонконг,
+        пока вы в пути.
+    - q: Как сканировать QR-коды для цифровых меню?
+      a: Многие рестораны используют цифровые меню. Ваша eSIM для Гонконг гарантирует,
+        что код на столе загрузится мгновенно.
+    - q: Как использовать камеру Google Translate для меню?
+      a: Откройте приложение и наведите камеру на меню. Для живого перевода требуется
+        подключение к интернету через вашу eSIM для Гонконг.
+    - q: Как использовать местные сервисы доставки?
+      a: Скачайте местные приложения, такие как Foodpanda, Deliveroo, OpenRice, и
+        заказывайте с комфортом, используя мобильные данные вашей eSIM для Гонконг.
+    - q: Как платить с помощью Apple Pay/Google Pay?
+      a: Бесконтактные платежи или местные методы, такие как Octopus, AlipayHK, Visa/Mastercard,
+        требуют короткого интернет-согласования, которое ваша eSIM для Гонконг отлично
+        выполняет.
+    - q: Как найти секретные места, рекомендуемые фуд-блогерами?
+      a: Смотрите YouTube-влоги или изучайте отзывы на Yelp с данными вашей eSIM для
+        Гонконг, чтобы открыть кулинарные изюминки.
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: Соцсети
+    title: 7. Социальные сети и связь
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Hong Kong eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Hong Kong eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Hong Kong eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Hong
-        Kong eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Hong Kong eSIM data allowance to check their own social
-        media.
+    - q: Как стабильно использовать WhatsApp/Telegram за границей?
+      a: Ваши аккаунты привязаны к домашнему номеру. С нашей eSIM для Гонконг как
+        источником интернета вы сможете общаться и звонить как дома.
+    - q: Как загружать контент в TikTok без общественного Wi-Fi?
+      a: Общественный Wi-Fi часто медленный и небезопасный. Наш 4G/5G eSIM для Гонконг
+        обеспечивает пропускную способность для быстрой загрузки.
+    - q: Как совершать видеозвонки с семьёй?
+      a: Наши сетевые партнёрства гарантируют, что видеозвонки через eSIM для Гонконг
+        будут чёткими и без задержек, где бы вы ни находились в стране.
+    - q: Безопасно ли входить в социальные сети через общественный Wi-Fi?
+      a: Общественный Wi-Fi уязвим для хакеров. Использование ваших собственных данных
+        eSIM для Гонконг зашифровано и гораздо безопаснее.
+    - q: Как поделиться сетью в качестве точки доступа с попутчиками?
+      a: Включите функцию точки доступа. Ваши друзья смогут подключиться и использовать
+        ваш трафик eSIM для Гонконг для своих социальных сетей.
   - id: faq-crossborder
     icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
+    tab_title: Трансграничные поездки
+    title: 8. Трансграничные поездки
     questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Hong Kong eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Hong Kong eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: Нужна ли мне новая SIM-карта для каждой страны?
+      a: Одностраничная eSIM для Гонконг работает только там. Для поездок по нескольким
+        странам рекомендуем наши региональные eSIM (например, eSIM для Европы).
+    - q: Как избежать роуминговых сборов при поездке на поезде через границы?
+      a: Отключите 'Роуминг данных' на домашней SIM-карте. Убедитесь, что eSIM для
+        Гонконг установлена как основная для передачи данных.
+    - q: Как получить интернет во время пересадки в Сингапуре/Дубае?
+      a: Вы можете купить недорогую eSIM на 1 ГБ для транзитной страны, чтобы оставаться
+        онлайн во время ожидания рейса.
+    - q: Как получить интернет в круизе?
+      a: Вместо того чтобы платить за дорогой корабельный Wi-Fi, активируйте местную
+        eSIM для стран, которые вы посещаете. Она подключится, как только вы приблизитесь
+        к суше.
+    - q: Как Google Maps остаётся онлайн в автопутешествиях?
+      a: С региональной eSIM ваш телефон автоматически переключится на сеть новой
+        страны при пересечении границы, сохраняя GPS активным.
+    - q: Как управлять данными для нескольких стран в одном приложении?
+      a: Вы можете отслеживать потребление данных для всех активных eSIM через нашу
+        онлайн-панель управления на сайте.
+    - q: Как оставаться на связи при поездке по нескольким странам?
+      a: Поскольку WhatsApp/iMessage работают через данные, региональная eSIM гарантирует,
+        что вы остаётесь доступны под тем же номером телефона.
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: Экстренные случаи
+    title: 9. Экстренные случаи
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Hong Kong, you can dial local emergency numbers like 999 directly from
-        your phone's dialer regardless of your active SIM, as long as your phone can
-        catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Hong Kong eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Hong Kong eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Hong Kong eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Hong Kong eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Hong Kong eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
+    - q: Как набрать местные номера экстренных служб?
+      a: 'В Гонконг вы можете набрать номера экстренных служб, такие как Полиция:
+        999, Скорая помощь: 999, Пожарная служба: 999, напрямую, если ваш телефон
+        ловит сигнал сотовой связи.'
+    - q: Как найти ближайшую больницу?
+      a: Данные вашей eSIM для Гонконг позволяют мгновенно искать в Google Maps 'аптеку'
+        или 'больницу' и строить самый быстрый маршрут.
+    - q: Как найти информацию о посольстве при потере паспорта?
+      a: Используйте eSIM для Гонконг, чтобы быстро найти адрес и контактный номер
+        вашего посольства.
+    - q: Как связаться со страховой компанией при несчастном случае?
+      a: Используйте VoIP-приложения, такие как Skype, через данные eSIM для Гонконг,
+        чтобы позвонить на горячие линии страховой.
+    - q: Как поделиться своим местоположением в реальном времени?
+      a: Используйте 'Поделиться местоположением' в WhatsApp или Apple 'Где мои',
+        чтобы отправлять координаты через данные eSIM для Гонконг.
+    - q: Как загрузить офлайн-карты для удалённых районов?
+      a: Используя городское покрытие eSIM для Гонконг, загрузите офлайн-карты в Google
+        Maps, прежде чем отправиться в места без сигнала.
   - id: faq-business
     icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
+    tab_title: Бизнес
+    title: 10. Бизнес и работа
     questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Hong Kong eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Hong Kong eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Hong Kong eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Hong Kong eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Hong Kong eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Hong Kong eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Hong Kong eSIM to update them on flight delays or schedule
-        changes.
+    - q: Как гарантировать стабильные встречи в Zoom/Teams?
+      a: Наша eSIM для Гонконг подключается к премиальным сетям, обеспечивая полосу
+        пропускания и низкую задержку для профессиональных видеоконференций.
+    - q: Как безопасно подключиться к корпоративному VPN?
+      a: Наши данные не ограничивают VPN-протоколы. Вы можете безопасно запустить
+        корпоративный VPN через сеть eSIM для Гонконг.
+    - q: Как использовать точку доступа для ноутбука в кафе?
+      a: Включите точку доступа. Использование вашей eSIM для Гонконг значительно
+        быстрее и безопаснее для киберугроз, чем открытый Wi-Fi.
+    - q: Как получать 2FA-коды для корпоративной электронной почты?
+      a: Оставьте вашу домашнюю SIM-карту активной для SMS и используйте данные eSIM
+        для Гонконг для кодов, приходящих по электронной почте.
+    - q: Как загружать большие файлы во время встреч с клиентами?
+      a: Скорости 5G/4G-LTE вашей eSIM для Гонконг позволяют быстро загружать презентации
+        в облачные сервисы.
+    - q: Как беспрепятственно использовать Slack/Gmail для совместной работы?
+      a: Ваша eSIM для Гонконг обеспечивает постоянное соединение, поэтому вы мгновенно
+        получаете сообщения Slack и электронные письма.
+    - q: Как обновлять планы поездок для компании онлайн?
+      a: Получайте доступ к корпоративным порталам через eSIM для Гонконг в пути,
+        чтобы сообщать отделу кадров о задержках рейсов.
 related_products:
-  title: Related eSIM Plans
+  title: Похожие eSIM тарифы
   items:
-  - name: united states eSIM
+  - name: eSIM США
     flag: img/flags/us.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: United-Kingdom
+    slug: united-states-esim
+  - name: eSIM Великобритании
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Europe eSIM
+    slug: united-kingdom-esim
+  - name: eSIM Европы
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: true
-  - name: Canada eSIM
+    slug: europe-esim
+  - name: eSIM Канады
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Turkey eSIM
+    slug: canada-esim
+  - name: eSIM Турции
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: China eSIM
+    slug: turkey-esim
+  - name: eSIM Китая
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Japan eSIM
+    slug: china-esim
+  - name: eSIM Японии
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
+    slug: japan-esim
+  - name: eSIM Гонконга
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
+    slug: hong-kong-esim
+  - name: eSIM Франции
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
+    slug: france-esim
+  - name: eSIM Испании
     flag: img/flags/es.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
+    slug: spain-esim
+  - name: eSIM Германии
     flag: img/flags/de.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: germany-esim
+  - name: eSIM Австралии
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
+    slug: australia-esim
 
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
+# =============== 100% полное восстановление: модуль сравнения на основе данных ===============
 market_analysis:
-  title: "Hong-Kong eSIM vs Local Prepaid SIM: Which Is More Convenient?"
-  subtitle: "Hong Kong Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: "eSIM для Hong-Kong по сравнению с предоплаченными SIM-картами: что нужно знать"
+  subtitle: "Местные предоплаченные SIM-карты в Гонконге против eSIM-решений (2024/2025 бенчмарк)"
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Hong-Kong) + Local Operator Sites"
+    text: "Источник данных: Prepaid Data SIM Card Wiki (Hong-Kong) + веб-сайты местных операторов"
     url: "https://prepaid-data-sim-card.fandom.com/wiki/Hong-Kong"
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Hong-Kong eSIM"
+    - "Матрица сравнения"
+    - "Местная предоплаченная SIM (рыночные данные)"
+    - "Roami eSIM для Hong-Kong"
   table_rows:
     - icon: "store"
-      title: "Acquisition &<br>Activation"
+      title: "Приобретение и<br>активация"
       prepaid_title: ""
-      prepaid_desc: "Since March 2022, Hong Kong mandates real-name registration for all prepaid SIMs. At airport 1O1O (csl.) or CMHK counters, staff can assist, but cards from convenience stores like 7-Eleven require self-service online KYC, which is unfriendly to non-Chinese speakers. Some areas (e.g., Apliu Street) sell discounted cards but risk buying a 3 Macau SIM by mistake."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip the hassle of airport queues and self-service KYC. Activate your eSIM within 1 minute after landing in Hong Kong, no passport or registration needed."
+      prepaid_desc: "Приобретение предоплаченных SIM-карт в Гонконге возможно в магазинах операторов (например, 1O1O для csl., CMHK), киосках в аэропорту и розничных точках (7-Eleven). Цены варьируются: SoSIM от 3 HK стоит HK$33, csl. Discover Hong Kong SIM — HK$88."
+      esim_title: "Мгновенная цифровая доставка"
+      esim_desc: "Избегайте очередей в магазинах 1O1O или CMHK. Активируйте eSIM онлайн в течение 1 минуты после приземления в аэропорту Гонконга."
     - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
+      title: "KYC и регистрация<br>по паспорту"
       prepaid_title: ""
-      prepaid_desc: "Since March 2022, Hong Kong's OFCA enforces mandatory SIM card real-name registration (KYC). Except for airport 1O1O (csl.) and CMHK stores, cards from 7-Eleven require self-service online registration, creating a first experience gap for travelers unfamiliar with English or Cantonese."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid Hong Kong's mandatory real-name registration (KYC) since 2022. Unlike csl. or CMHK SIMs that require passport scanning, Roami eSIM activates instantly without any ID."
+      prepaid_desc: "С 2022 года в Гонконге обязательна регистрация SIM-карт по паспорту (KYC). В магазинах 1O1O и CMHK помогают с регистрацией, при покупке в 7-Eleven требуется самостоятельная онлайн-регистрация."
+      esim_title: "Без паспорта и регистрации"
+      esim_desc: "В отличие от обязательной регистрации по паспорту (KYC) для местных SIM с 2022 года, eSIM не требует предоставления документов."
     - icon: "globe"
-      title: "International<br>Roaming"
+      title: "Международный<br>роуминг"
       prepaid_title: ""
-      prepaid_desc: "csl. China-HK-Macau Travel SIM (HK$218) includes only 1GB roaming data for China/Macau; excess costs HK$40/100MB/day. CMHK Greater Bay Area SIM (HK$148/10 days) offers only 3GB shared data, with no service after exceeding."
-      esim_title: "Seamless Cross-Border Roaming"
-      esim_desc: "Unlike csl.'s HK$218 SIM with only 1GB roaming data (excess HK$40/100MB/day), Roami offers large multi-country data pools for Hong Kong, Macau, and mainland China at competitive rates."
+      prepaid_desc: "csl. туристическая SIM-карта Китай-Гонконг-Макао за HK$218 включает только 1 ГБ роуминга, превышение стоит HK$40/100 МБ/день. CMHK предлагает пакеты роуминга, например, 500 МБ/3 дня за HK$48."
+      esim_title: "Глобальный роуминг без ограничений"
+      esim_desc: "В отличие от csl. туристической SIM (HK$218, всего 1 ГБ роуминга), eSIM предлагает большие пакеты данных для Китая, Макао и других стран."
     - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
+      title: "Расчетный цикл и<br>потерянные затраты"
       prepaid_title: ""
-      prepaid_desc: "3 HK SoSIM (HK$33/50GB/30 days) forces a 30-day cycle; a 3-day tourist wastes 27 days and over 45GB. csl. Discover Hong Kong SIM (HK$88/3GB/5 days) ends with no pay-as-you-go; must buy a HK$48 add-on pack to continue."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike 3 HK SoSIM's 30-day cycle (HK$33/50GB) wasting 90% for short trips, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste."
+      prepaid_desc: "SoSIM от 3 HK имеет 30-дневный цикл (HK$33/50 ГБ), csl. Discover Hong Kong SIM — 5 дней (HK$88/3 ГБ). После окончания пакета csl. требуется обязательная покупка доппакета за HK$48."
+      esim_title: "Гибкие тарифы без потерь"
+      esim_desc: "В отличие от 30-дневного цикла SoSIM (HK$33/50 ГБ), Roami предлагает 7-дневные тарифы на данные, начиная от $1.99/ГБ, экономя до 90% неиспользованного трафика."
     - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
+      title: "Хотспот и политика<br>скорости"
       prepaid_title: ""
-      prepaid_desc: "SmarTone's terms prohibit tethering (though not technically blocked). CMHK's unlimited 10-day plan (HK$30, 384kbps) explicitly bans hotspot. No specific data on other operators' hotspot policies."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike SmarTone's tethering ban and CMHK's hotspot-prohibited plan (HK$30/10 days), Roami allows full hotspot sharing at high speeds."
+      prepaid_desc: "SmarTone запрещает раздачу (Tethering) по условиям, но технически не блокирует. 3 HK SoSIM разрешает раздачу, но после 50 ГБ скорость снижается. CMHK в некоторых пакетах (например, безлимит на 10 дней) явно запрещает хотспот."
+      esim_title: "Неограниченная раздача"
+      esim_desc: "В отличие от SmarTone, запрещающего хотспот, eSIM разрешает раздачу интернета на любые устройства без ограничений."
     - icon: "credit-card"
-      title: "Top-up Payments"
+      title: "Пополнение и оплата"
       prepaid_title: ""
-      prepaid_desc: "CMHK online top-up only accepts UnionPay (mainland-issued cards), posing a barrier for international cardholders. Other operators' websites may accept international credit cards, but no specific data on Visa/Mastercard/AMEX/Apple Pay/Google Pay/PayPal acceptance."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for UnionPay-only channels like CMHK's top-up system."
+      prepaid_desc: "Пополнение счета возможно онлайн через сайты операторов, принимаются международные карты (Visa, Mastercard), но CMHK принимает только карты UnionPay, выпущенные в материковом Китае. Также доступны физические ваучеры в киосках."
+      esim_title: "Глобальная оплата без проблем"
+      esim_desc: "Оплачивайте eSIM картами Visa, Mastercard, AMEX, Apple Pay, Google Pay или PayPal — никаких проблем с UnionPay, как у CMHK."
     - icon: "headset"
-      title: "Customer Support"
+      title: "Поддержка клиентов"
       prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common knowledge, customer support for prepaid SIMs in Hong Kong is typically in Cantonese and English, with limited hours; self-service online portals are often Chinese-only."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock customer support in English and Chinese, unlike local prepaid SIMs with limited hours and Chinese-only self-service portals."
+      prepaid_desc: "Поддержка клиентов у операторов (csl., CMHK, 3 HK, SmarTone) доступна по телефону и в магазинах, часто только на китайском или английском. Онлайн-чат не всегда доступен для предоплаченных клиентов."
+      esim_title: "Поддержка 24/7 на русском"
+      esim_desc: "Круглосуточная поддержка клиентов на русском языке, в отличие от местных операторов с ограниченными часами работы и только китайским/английским."
 
-  # =============== 100% 完整还原：专家结论模块 ===============
+  # =============== 100% полное восстановление: модуль экспертного заключения ===============
   expert_verdict:
-    title: "Hong-Kong eSIM vs SIM Card Plans: Which One Fits Your Needs?"
+    title: "eSIM для Hong-Kong против предоплаченной SIM-карты: умное решение для экономии денег и времени"
     cards:
+      - icon: "globe"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "Покрытие лучших сетей без слепых зон"
+        desc: "3 HK и SmarTone имеют слепые зоны в некоторых районах (например, Clear Water Bay). eSIM может подключаться к сетям csl. и CMHK, обеспечивая лучшее покрытие."
+      - icon: "shield"
+        icon_bg: "bg-sky-100"
+        icon_color: "text-sky-600"
+        title: "Безопасность и сохранение номера"
+        desc: "Использование физической SIM требует извлечения основной SIM-карты, что может привести к потере важных звонков или SMS (например, банковских кодов). eSIM работает параллельно, сохраняя связь с домашним номером."
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "Удобная оплата международными картами"
+        desc: "CMHK принимает пополнение только картами UnionPay, выпущенными в материковом Китае. eSIM можно оплатить Visa, Mastercard, AMEX, Apple Pay, Google Pay или PayPal."
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
-        title: "Avoid Roaming Data Scarcity and High Costs"
-        desc: "<b>csl. China-HK-Macau Travel SIM (HK$218)</b> includes only <b>1GB</b> roaming data for China/Macau; excess costs <b>HK$40/100MB/day</b>. <b>CMHK Greater Bay Area SIM (HK$148/10 days)</b> offers only <b>3GB</b> shared data. Roami eSIM provides generous multi-country data at affordable rates."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot and Tethering"
-        desc: "<b>SmarTone's</b> terms prohibit tethering (though not technically blocked). <b>CMHK's unlimited 10-day plan (HK$30, 384kbps)</b> explicitly bans hotspot. Roami eSIM allows full-speed tethering without restrictions."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Multi-Country Connectivity"
-        desc: "Local SIMs like <b>csl. Travel SIM</b> segregate Hong Kong and roaming data pools. Roami eSIM offers a single, large data pool valid across Hong Kong, Macau, and mainland China, eliminating the need for multiple SIMs."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from Long Billing Cycles"
-        desc: "<b>3 HK SoSIM (HK$33/50GB/30 days)</b> forces a 30-day cycle; a 3-day tourist wastes <b>27 days</b> and over <b>45GB</b>. <b>csl. Discover Hong Kong SIM (HK$88/3GB/5 days)</b> ends with no pay-as-you-go; must buy a <b>HK$48</b> add-on. Roami offers flexible 7-day plans from <b>$1.99/GB</b>."
+        title: "Избегайте дорогих роуминговых пакетов"
+        desc: "csl. туристическая SIM-карта Китай-Гонконг-Макао за HK$218 включает только <b>1 ГБ</b> роуминга, превышение стоит HK$40/100 МБ/день. eSIM предлагает большие пакеты данных для нескольких стран по фиксированной цене."
 ---

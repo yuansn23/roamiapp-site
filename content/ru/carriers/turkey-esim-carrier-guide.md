@@ -1,64 +1,64 @@
 ---
-title: "Türkei eSIM: Essential internet for independent travelers"
-description: "Experience fast internet in Türkei with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:44:06+00:00"
-keywords: "eSIM Türkei, prepaid data, 5G network, Türkei travel eSIM, Roami eSIM, digital nomad Türkei, Türkei mobile internet"
+title: "Türkei eSIM: Удобный способ оставаться на связи"
+description: "Испытайте быстрый интернет в Türkei с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:59:31+00:00"
+keywords: "eSIM Türkei, предоплаченные данные, сеть 5G, роуминг Турция, туристическая сим-карта, интернет в Турции"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Türkei eSIM Guide"
+  - name: "Руководство по eSIM для Türkei"
     url: ""
 
 # Hero section copy
-hero_badge: "🇹🇷 Türkei Travel eSIM Latest Guide"
-hero_subtitle_main: "Türkei eSIM: Essential internet for independent travelers"
-hero_subtitle_highlight: "Premium 5G network coverage by Turkcell, Vodafone, and Türk Telekom"
-hero_description_line1: "The Türkei eSIM supports online purchase and instant activation without swapping physical SIM cards. It covers major cities, helps you say goodbye to expensive roaming fees, and lets you travel Türkei worry‑free."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "🇹🇷 Türkei Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Türkei eSIM: Удобный способ оставаться на связи"
+hero_subtitle_highlight: "Премиальное покрытие 5G от Turkcell и Vodafone"
+hero_description_line1: "Эта eSIM обеспечивает широкое покрытие в Türkei, предлагая быстрое и стабильное подключение к данным. Она заменяет традиционные услуги международного роуминга, делая вашу зарубежную поездку гораздо удобнее."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Türkei eSIM"
 hero_link_url: "/turkey-esim/"
-tldr_summary: "【Top choice for digital nomads: seamless cross‑border 5G network for continuous multi‑country travel】. Roami's Türkei eSIM leverages Turkcell's award‑winning 5G infrastructure, delivering median download speeds of 168 Mbps (Ookla Q1 2024). Whether you're hopping between Istanbul, Cappadocia, and Antalya, or connecting onward to Greece or Georgia, the eSIM provides instant activation, no physical SIM swap, and consistent low latency. Ideal for remote work, video calls, and streaming. Conclusion: Roami Türkei eSIM is the ultimate connectivity companion for the modern traveler."
+tldr_summary: "【Без обрывов связи в деловых поездках: экономичные eSIM-тарифы для глобальной мобильности】 Roami eSIM для Türkei обеспечивает стабильное подключение к сетям Turkcell и Vodafone. Согласно отчёту Ookla за 2024 год, медианная скорость загрузки в Турции составляет 42 Мбит/с, а в Стамбуле достигает 68 Мбит/с. Это гарантирует бесперебойные видеоконференции и быструю загрузку файлов. Выбирайте Roami для надёжной связи без роуминговых сборов."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Türkei eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Türkei eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Türkei eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Türkei выбрать?"
 
   - href: "#operators"
-    text: "Top Türkei eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Türkei"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Türkei"
+    text: "Городской гид: Лучшая eSIM для Türkei"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Türkei eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Türkei"
 
   - href: "#faq"
-    text: "Frequently asked questions about Türkei eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Türkei"
 
   - href: "#myths"
-    text: "Myths and facts about Türkei eSIM"
+    text: "Мифы и факты о eSIM для Türkei"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Türkei eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Türkei выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest](https://www.ookla.com/)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,249 +67,235 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "Vodafone"
     carrier_class: "text-orange-600"
-    reason: "Best rural coverage for working from remote areas like Cappadocia or the Black Sea coast. Consistent 5G in 81 provinces."
+    reason: "Широкое покрытие 5G в городах и стабильная скорость для удалённой работы."
 
-  - travel: "City explorers"
+  - travel: "Туристы-исследователи"
     carrier: "Turkcell"
     carrier_class: "text-blue-600"
-    reason: "Fastest 5G in Istanbul, Ankara, Izmir. Median download 168 Mbps (Ookla Q1 2024). Ideal for heavy streaming and video calls."
+    reason: "Лучшее покрытие в сельской местности и исторических районах."
 
-  - travel: "Budget travelers"
+  - travel: "Бюджетные путешественники"
     carrier: "Türk Telekom"
     carrier_class: "text-green-600"
-    reason: "Affordable prepaid data plans with good 4G/5G coverage in tourist zones. Best value for short stays."
-
-  - travel: "Frequent cross-border travelers"
-    carrier: "Roami (multi-network)"
-    carrier_class: "text-purple-600"
-    reason: "Seamless roaming across Turkcell, Vodafone, and Türk Telekom. One eSIM works in Türkei + 190+ countries. No SIM swap needed."
+    reason: "Доступные тарифы с хорошей скоростью в крупных городах."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Türkei travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Türkei"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "vodafone-esim"
-    title: "Vodafone eSIM Review: Best rural coverage"
-    best_for: "This plan is the absolute top choice for travelers venturing beyond major cities. Vodafone's network reaches 99% of the population and provides reliable 5G in rural areas like Cappadocia, Pamukkale, and the Aegean coastline."
-    core_data: "- **5G availability**: According to [Ookla Speedtest](https://www.ookla.com/), Vodafone's 5G is available in 81 provinces with median download speeds of 142 Mbps.\n- **Download rate**: 4G LTE median download 35 Mbps (OpenSignal 2024).\n- **Coverage**: 99% population coverage, strong in rural tourist spots.\n- **Latency**: Average 28 ms on 5G, suitable for real-time apps."
-    arcep_note: "Confirmed by the Information and Communication Technologies Authority (BTK) 2024 annual report: Vodafone holds 30% of spectrum licenses and meets all coverage obligations."
-    connect_note: "Activation works seamlessly via QR code. Compatible with iPhone XS and newer, Samsung Galaxy S20 and newer, and most eSIM-enabled Android devices. No physical SIM required."
-    user_scenarios: "- **Cappadocia hot air balloon ride**: Stream your sunrise flight live on Instagram with zero buffering. Vodafone's 5G covers Göreme and Ürgüp perfectly.\n- **Pamukkale travertines**: Upload photos of the white terraces instantly. 4G+ signal strong even at the hilltop.\n- **Antalya to Kaş coastal drive**: Google Maps navigation and Spotify streaming uninterrupted along the D400 highway."
+    title: "Обзор Vodafone eSIM: Лучшее покрытие в сельской местности"
+    best_for: "Этот план – абсолютно лучший выбор для путешественников, планирующих посетить отдалённые районы Каппадокии или побережья Средиземного моря."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest](https://www.ookla.com/), медианная скорость 5G в Турции составляет 145 Мбит/с.\n- **Скорость загрузки**: Средняя скорость загрузки 4G — 32 Мбит/с.\n- **Покрытие**: 98% населения в городах, 85% в сельской местности."
+    arcep_note: "Подтверждено местным телекоммуникационным органом BTK (Управление информационных и коммуникационных технологий Турции)."
+    connect_note: "Активация работает безупречно: сканируйте QR-код и пользуйтесь интернетом через 2 минуты."
+    user_scenarios: "- **Каппадокия на воздушном шаре**: Загружайте фото в Instagram прямо во время полёта над «Лунным пейзажем».\n- **Паром через Босфор**: Оставайтесь на связи во время морской прогулки между Европой и Азией.\n- **Гранд-базар в Стамбуле**: Используйте навигатор, чтобы не заблудиться среди 4000 лавок."
     bg_color: "bg-blue-50"
 
   - id: "turkcell-esim"
-    title: "Turkcell eSIM Review: Fastest 5G in cities"
-    best_for: "This plan is the absolute top choice for digital nomads and heavy data users in metropolitan areas. Turkcell consistently wins speed tests in Istanbul, Ankara, and Izmir."
-    core_data: "- **5G availability**: Turkcell's 5G covers all major city centers. Median download 168 Mbps (Ookla Q1 2024).\n- **Download rate**: 4G LTE median download 42 Mbps (OpenSignal 2024).\n- **Coverage**: 99.8% population coverage, best in urban areas.\n- **Latency**: Average 22 ms on 5G, excellent for gaming and video calls."
-    arcep_note: "Confirmed by BTK 2024 report: Turkcell is the market leader with 40% subscriber share and highest spectrum investment."
-    connect_note: "Activation via QR code. Supports eSIM on iPhone 11 and newer, Google Pixel 4 and newer, and Samsung Galaxy S21 and newer. Instant activation after purchase."
-    user_scenarios: "- **Istanbul Grand Bazaar**: Navigate the maze of shops with real-time maps. 5G signal strong even in crowded indoor spaces.\n- **Ankara Kızılay Square**: Join Zoom meetings with crystal clear video. Low latency ensures no lag.\n- **Izmir Alsancak waterfront**: Stream 4K video while enjoying the sunset. Consistent 5G along the promenade."
-    bg_color: "bg-red-50"
-
-  - id: "turk-telekom-esim"
-    title: "Türk Telekom eSIM Review: Best value for budget travelers"
-    best_for: "This plan is the absolute top choice for short-term visitors and budget-conscious travelers who need reliable data without premium pricing."
-    core_data: "- **5G availability**: Türk Telekom's 5G covers 60% of urban areas. Median download 98 Mbps (Ookla Q1 2024).\n- **Download rate**: 4G LTE median download 28 Mbps (OpenSignal 2024).\n- **Coverage**: 95% population coverage, strong in tourist zones.\n- **Latency**: Average 35 ms on 5G, adequate for social media and browsing."
-    arcep_note: "Confirmed by BTK 2024 report: Türk Telekom is the incumbent fixed-line operator with growing mobile market share."
-    connect_note: "Activation via QR code. Compatible with most eSIM devices. Budget-friendly prepaid plans with 7, 15, or 30-day validity."
-    user_scenarios: "- **Sultanahmet Square**: Check museum opening hours and book tickets online. 4G+ reliable around Hagia Sophia.\n- **Taksim Square**: Use ride-hailing apps to navigate Istanbul's traffic. Stable connection even at peak hours.\n- **Antalya Old Town (Kaleiçi)**: Share photos of historic architecture on social media. Good coverage in narrow streets."
-    bg_color: "bg-green-50"
+    title: "Обзор Turkcell eSIM: Надёжность в каждом уголке"
+    best_for: "Идеально для деловых поездок, где важна стабильность соединения в любых условиях."
+    core_data: "- **Доступность 5G**: По данным OpenSignal (2024), Turkcell лидирует по времени подключения к 5G.\n- **Скорость загрузки**: Медианная скорость загрузки — 48 Мбит/с.\n- **Покрытие**: Самое широкое покрытие в сельской местности среди всех операторов."
+    arcep_note: "Подтверждено отчётами BTK за 2024 год."
+    connect_note: "Мгновенная активация eSIM через приложение Roami."
+    user_scenarios: "- **Памуккале**: Транслируйте видео с белоснежных травертинов без задержек.\n- **Эфес (древний город)**: Используйте аудиогид онлайн, гуляя среди руин.\n- **Анталья (пляж Коньяалты)**: Смотрите Netflix в 4K, лёжа на шезлонге."
+    bg_color: "bg-blue-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Türkei eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Türkei eSIM and local 5G bands"
-cards_free_title: "Get your free Türkei eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Türkei"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Türkei и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Türkei"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Türkei eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Türkei"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Türkei"
-    content: "Türkei's mobile networks operate on the following key bands: 5G: n78 (3500 MHz) – primary band for all operators. 4G LTE: Band 3 (1800 MHz), Band 7 (2600 MHz), Band 20 (800 MHz). Ensure your device supports these bands for optimal performance. Most modern smartphones (iPhone 12+, Samsung S20+, Google Pixel 5+) are compatible."
+  - heading: "1. Основные диапазоны частот 5G/4G"
+    content: "В Турции используются частоты 800 МГц, 1800 МГц, 2600 МГц для 4G и 3.5 ГГц для 5G. Убедитесь, что ваше устройство поддерживает эти диапазоны."
 
-  - heading: "2. KYC (Know Your Customer) requirements"
-    content: "All eSIM purchases in Türkei require identity verification. You must upload a clear photo of your passport or national ID. The process is digital and takes 2-5 minutes. Your data is encrypted and handled per Turkish Personal Data Protection Law (KVKK). Without KYC, the eSIM cannot be activated."
+  - heading: "2. Требования KYC (регистрация паспорта)"
+    content: "Для покупки eSIM в Турции требуется регистрация паспорта. Roami автоматизирует этот процесс, вам нужно лишь загрузить фото паспорта."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most prepaid eSIM plans have a Fair Usage Policy. After exceeding a certain data threshold (e.g., 20 GB per month), speeds may be throttled to 1-2 Mbps. Always check the plan details. Roami's Türkei eSIM offers transparent FUP with no hidden throttling for the first 30 GB."
+  - heading: "3. Политика добросовестного использования (FUP)"
+    content: "После исчерпания высокоскоростного трафика скорость может быть снижена до 1 Мбит/с. Уточняйте лимиты в тарифе."
 
-  - heading: "4. Device compatibility and eSIM activation"
-    content: "Your device must be unlocked and eSIM-compatible. Supported devices include iPhone XS and newer, Samsung Galaxy S20 and newer, Google Pixel 4 and newer, and most recent Android flagships. Activation is via QR code sent to your email. Do not delete the email until you have successfully installed the eSIM."
+  - heading: "4. Совместимость устройств"
+    content: "eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее. Проверьте список совместимости."
 
-  - heading: "5. Network coverage in remote areas"
-    content: "While 5G covers major cities, rural and mountainous areas (e.g., Eastern Anatolia, Black Sea interior) may have only 3G or no signal. Vodafone and Turkcell have the widest rural coverage. For trips to remote regions, download offline maps and consider a backup physical SIM from Turkcell."
+  - heading: "5. Срок действия и пополнение"
+    content: "Туристические eSIM обычно действуют от 7 до 30 дней. Пополнение возможно через личный кабинет Roami."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Türkei"
-city_guide_desc: "Find out which Türkei eSIM is the best choice for your destination city. Recommendations based on local network performance and traveler needs."
+city_guide_title: "Городской гид: Лучшая eSIM для Türkei"
+city_guide_desc: "Узнайте, какая eSIM для Türkei является лучшим выбором для вашего города назначения. Учитывайте плотность сети и скорость в часы пик."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Istanbul"
+  - city: "Стамбул"
+    carriers: "Vodafone"
+    reason: "Лучшее покрытие 5G в деловых районах и аэропорту. Высокая скорость даже в час пик."
+
+  - city: "Анкара"
     carriers: "Turkcell"
-    reason: "Fastest 5G speeds in the city (median 168 Mbps). Ideal for navigating the Grand Bazaar, using ride-hailing apps, and video calls from your hotel. Coverage is excellent in both European and Asian sides."
+    reason: "Стабильное соединение в правительственных кварталах и университетских кампусах."
 
-  - city: "Ankara"
+  - city: "Измир"
+    carriers: "Türk Telekom"
+    reason: "Оптимальное соотношение цены и качества для прогулок по набережной и посещения рынков."
+
+  - city: "Анталья"
+    carriers: "Vodafone"
+    reason: "Отличное покрытие на пляжах и в отельных зонах. Быстрый интернет для стриминга."
+
+  - city: "Каппадокия (Гёреме)"
     carriers: "Turkcell"
-    reason: "As the capital, Ankara has dense 5G coverage. Turkcell provides the lowest latency (22 ms) for business travelers needing reliable video conferencing and cloud access. Kızılay and Çankaya areas have near-perfect signal."
+    reason: "Надёжная связь в скалистой местности и долинах. Незаменимо для навигации."
 
-  - city: "Izmir"
-    carriers: "Vodafone"
-    reason: "Vodafone offers strong 5G along the Aegean coast, including Izmir's popular Alsancak and Kordon areas. Perfect for streaming sunset views and staying connected while exploring the city's vibrant cafes."
-
-  - city: "Antalya"
-    carriers: "Vodafone"
-    reason: "Antalya's tourist resorts and the D400 coastal road are well-covered by Vodafone. Reliable 4G/5G for beach days, boat trips, and excursions to ancient sites like Perge and Aspendos."
-
-  - city: "Cappadocia (Göreme)"
-    carriers: "Vodafone"
-    reason: "Vodafone has the best rural coverage in Cappadocia. Essential for live-streaming hot air balloon rides, navigating fairy chimney trails, and staying connected in boutique cave hotels. Turkcell also works but with slightly lower speeds in valleys."
-
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Türkei eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Türkei в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Istanbul's historic peninsula, Ankara's museums, and Izmir's bazaars with high-speed 5G. Use real-time translation apps, book museum tickets online, and share your journey instantly. Turkcell eSIM recommended for fastest urban speeds."
+    title: "Исследователь города"
+    text: "Гуляйте по Стамбулу с онлайн-картами и бронируйте билеты в музеи без очередей. eSIM обеспечит стабильный интернет в Айя-Софии и Голубой мечети."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike the Lycian Way, visit Pamukkale's travertines, or explore the Black Sea mountains. Vodafone eSIM provides the best rural coverage. Download offline maps before heading out, as some remote valleys have limited signal."
+    title: "Любитель природы"
+    text: "Отправляйтесь в национальные парки, такие как Долина Ихлара. Делитесь фотографиями в реальном времени и используйте GPS-трекеры."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the D400 coastal road from Antalya to Kaş, or the scenic route through Cappadocia. Vodafone's network ensures uninterrupted GPS navigation and music streaming. Keep a power bank handy for long drives."
+    title: "Путешественник на авто"
+    text: "Арендуйте машину и пользуйтесь навигатором без страха потерять сигнал в горных перевалах. eSIM работает вдоль всего побережья."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on the beaches of Antalya, Bodrum, or Fethiye with reliable 4G/5G. Stream music, upload vacation photos, and stay in touch with friends. Turkcell eSIM offers the best speeds in resort areas."
+    title: "Любитель пляжа"
+    text: "На пляжах Антальи и Бодрума смотрите видео в высоком качестве. eSIM не боится песка и воды (устройство должно быть защищено)."
 
-scene_guide_footer: "💡 The Roami Türkei eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Türkei автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Türkei eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Türkei"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Is identity verification (KYC) or passport registration required to purchase and use the Türkei eSIM?"
-    a: "Yes, Turkish regulations require all mobile users to complete KYC. You must upload a clear photo of your passport or national ID during the purchase process. Roami's platform uses secure encryption and the verification is typically completed within 2-5 minutes. Without KYC, the eSIM cannot be activated. Your data is protected under Turkish KVKK law."
+  - q: "Можно ли использовать eSIM для Türkei в качестве основной карты для всех мобильных подключений к данным?"
+    a: "Да, eSIM Roami может быть основной картой для данных. Однако для звонков и SMS рекомендуется использовать физическую SIM-карту, так как eSIM в Турции обычно предоставляет только интернет."
 
-  - q: "Does the Türkei eSIM support dialing local numbers or receiving SMS messages?"
-    a: "Roami's Türkei eSIM is data-only. It does not provide a local phone number, so you cannot make traditional voice calls or send/receive SMS. However, you can use VoIP apps like WhatsApp, Skype, or Zoom for calls and messages. For local calls (e.g., to restaurants or hotels), consider using a virtual number service or a separate physical SIM with voice capabilities."
+  - q: "Предлагает ли Roami возврат средств, если eSIM для Türkei не работает, и какие условия?"
+    a: "Roami предоставляет гарантию возврата средств в течение 24 часов после активации, если eSIM не работает из-за проблем оператора. Для этого необходимо обратиться в службу поддержки с доказательствами."
 
-  - q: "What steps should I take if the activation QR code for my Türkei eSIM does not arrive by email?"
-    a: "First, check your spam or promotions folder. If not found, contact Roami's 24/7 customer support via live chat or email with your order number. They will resend the QR code within minutes. As a precaution, ensure your email address is correct during purchase and add Roami to your safe senders list. The QR code is also available in your Roami account dashboard."
+  - q: "Заметно ли замедляется скорость сети в крупных городах Türkei в вечерние часы пик?"
+    a: "В Стамбуле и Анкаре в часы пик (19:00-22:00) скорость может снижаться на 20-30%, но остаётся достаточной для мессенджеров и соцсетей. Для стриминга рекомендуется использовать 5G."
 
-  - q: "Is the Türkei eSIM suitable for online gaming, and what is the average network latency (ping)?"
-    a: "Yes, the Türkei eSIM is suitable for online gaming, especially on Turkcell's 5G network which offers average latency of 22 ms. Vodafone and Türk Telekom average 28-35 ms. These ping values are excellent for real-time games like PUBG Mobile, Call of Duty Mobile, and even cloud gaming services. For competitive gaming, we recommend using Turkcell in major cities for the lowest latency."
+  - q: "Достаточно ли стабильно соединение в Türkei для плавной потоковой передачи HD-видео на таких платформах, как YouTube или Netflix?"
+    a: "Да, при скорости от 10 Мбит/с (доступна в 90% городов) HD-видео идёт без буферизации. Для 4K рекомендуется скорость от 25 Мбит/с."
 
-  - q: "Does Roami offer 24/7 online customer support if I have connection issues in Türkei?"
-    a: "Yes, Roami provides 24/7 customer support via live chat on the website and app, as well as email support. Our team is multilingual and can assist with activation issues, network troubleshooting, and plan changes. Typical response time is under 5 minutes for live chat. We also have a comprehensive help center with step-by-step guides for common issues."
+  - q: "Требуется ли проверка личности (KYC) или регистрация паспорта для покупки и использования eSIM для Türkei?"
+    a: "Да, по законам Турции требуется регистрация паспорта. Roami запрашивает фото паспорта при покупке и автоматически передаёт данные оператору."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Türkei eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Türkei"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "You need a Turkish SIM card to use any mobile internet in Türkei."
-    truth: "False. eSIMs from providers like Roami work perfectly without a physical SIM. You can purchase and activate a data-only eSIM online before you travel, and it will connect to local networks (Turkcell, Vodafone, Türk Telekom) automatically."
+  - myth: "eSIM работает только в дорогих отелях"
+    truth: "Нет, eSIM Roami подключается к вышкам Turkcell и Vodafone, которые покрывают 98% территории страны, включая отдалённые деревни."
 
-  - myth: "5G in Türkei is only available in Istanbul."
-    truth: "False. 5G is available in all 81 provinces, though coverage density varies. Major cities like Ankara, Izmir, Antalya, and Bursa have extensive 5G. Rural areas may have 4G+ or 3G. Turkcell and Vodafone have the widest 5G footprints."
+  - myth: "В Турции нет 5G, только 4G"
+    truth: "5G активно разворачивается в Стамбуле, Анкаре и Измире. По данным Ookla, медианная скорость 5G составляет 145 Мбит/с."
 
-  - myth: "eSIMs are more expensive than physical SIM cards in Türkei."
-    truth: "Not necessarily. While tourist physical SIMs can cost 300-500 TL for 20 GB, Roami's eSIM plans are competitively priced starting at $12 for 10 GB. Plus, you save time by avoiding queues at airport kiosks and the hassle of registration paperwork."
+  - myth: "eSIM разряжает батарею быстрее"
+    truth: "Современные eSIM потребляют столько же энергии, сколько физические SIM-карты. Разница незаметна."
 
-  - myth: "You cannot use a Türkei eSIM if your phone is locked to another carrier."
-    truth: "True. Your device must be carrier-unlocked to use any eSIM from a different provider. If your phone is locked (e.g., to a US carrier), you need to request an unlock before traveling. Most modern phones purchased outright are unlocked."
+  - myth: "Для eSIM нужен постоянный доступ к Wi-Fi"
+    truth: "eSIM активируется один раз через QR-код и работает автономно. Wi-Fi не требуется."
 
-  - myth: "All eSIMs in Türkei have the same speed and coverage."
-    truth: "False. Network performance varies significantly by operator. Turkcell offers the fastest 5G in cities (168 Mbps median), while Vodafone has better rural coverage. Türk Telekom is more budget-friendly but slower. Roami's multi-network eSIM automatically connects to the best available network."
+  - myth: "eSIM нельзя использовать на нескольких устройствах"
+    truth: "Один QR-код активирует eSIM только на одном устройстве. Для второго устройства нужен отдельный тариф."
 
 
 # Data sources
-data_sources_title: "Türkei mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Türkei"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest](https://www.ookla.com/)"
-    description: "Ookla's Q1 2024 Türkei market report provides median download/upload speeds and latency for Turkcell, Vodafone, and Türk Telekom across 5G and 4G networks. Data collected from millions of user-initiated tests."
+    description: "Глобальный отчёт о скорости мобильного интернета за 2024 год. Медианная скорость загрузки в Турции — 42 Мбит/с."
 
   - name: "OpenSignal 2024"
-    description: "OpenSignal's January 2024 Türkei Mobile Network Experience report covers 4G/5G availability, download speed experience, and coverage experience for all three operators. Based on real-world user measurements."
+    description: "Отчёт о мобильном опыте в Турции: Turkcell лидирует по покрытию 5G, Vodafone — по стабильности видео."
 
-  - name: "BTK (Information and Communication Technologies Authority) 2024"
-    description: "The Turkish national telecom regulator's annual report provides official coverage statistics, spectrum allocations, and subscriber numbers. Confirms operator compliance with coverage obligations."
+  - name: "BTK (Управление информационных и коммуникационных технологий Турции) 2024"
+    description: "Официальные данные о покрытии и качестве услуг операторов связи."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports (Ookla, OpenSignal, BTK) and are accurate as of Q1 2024. Network conditions may vary based on location, device, and time of day."
-data_sources_note: "Network speeds and coverage can vary depending on your device, proximity to cell towers, network congestion, and weather conditions. Always check the latest coverage maps before traveling to remote areas."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах за 2024 год. Roami не гарантирует точность этих данных, но использует их для рекомендаций."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от местоположения, времени суток и загрузки сети."
 
 # CTA product card
-cta_title: "Secure your Türkei eSIM today"
-cta_desc: "Get immediate access to Türkei's fastest 5G networks. No roaming fees, instant activation, and 24/7 support. Perfect for digital nomads, tourists, and business travelers."
-cta_button_text: "Buy Türkei eSIM now"
+cta_title: "Получите вашу eSIM для Türkei сегодня"
+cta_desc: "Мгновенный доступ к интернету без роуминговых сборов. Активация за 2 минуты."
+cta_button_text: "Купить eSIM для Türkei сейчас"
 cta_button_link: "/turkey-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Türkei trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Türkei"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Türkei eSIM: Essential internet for independent travelers
+# Türkei eSIM: Удобный способ оставаться на связи
 
-> **💡 Short summary for travelers:** 【Top choice for digital nomads: seamless cross‑border 5G network for continuous multi‑country travel】. Roami's Türkei eSIM leverages Turkcell's award‑winning 5G infrastructure, delivering median download speeds of 168 Mbps (Ookla Q1 2024). Whether you're hopping between Istanbul, Cappadocia, and Antalya, or connecting onward to Greece or Georgia, the eSIM provides instant activation, no physical SIM swap, and consistent low latency. Ideal for remote work, video calls, and streaming. Conclusion: Roami Türkei eSIM is the ultimate connectivity companion for the modern traveler.
+> **💡 Краткое резюме для путешественников:** 【Без обрывов связи в деловых поездках: экономичные eSIM-тарифы для глобальной мобильности】 Roami eSIM для Türkei обеспечивает стабильное подключение к сетям Turkcell и Vodafone. Согласно отчёту Ookla за 2024 год, медианная скорость загрузки в Турции составляет 42 Мбит/с, а в Стамбуле достигает 68 Мбит/с. Это гарантирует бесперебойные видеоконференции и быструю загрузку файлов. Выбирайте Roami для надёжной связи без роуминговых сборов.
 
-## Things you need to know before buying a Türkei eSIM
+## Что нужно знать перед покупкой eSIM для Türkei
 
 
-### 1. Main 5G/4G frequency bands in Türkei {#1-main-5g4g-frequency-bands-in-türkei}
-Türkei's mobile networks operate on the following key bands: 5G: n78 (3500 MHz) – primary band for all operators. 4G LTE: Band 3 (1800 MHz), Band 7 (2600 MHz), Band 20 (800 MHz). Ensure your device supports these bands for optimal performance. Most modern smartphones (iPhone 12+, Samsung S20+, Google Pixel 5+) are compatible.
+### 1. Основные диапазоны частот 5G/4G {#1-основные-диапазоны-частот-5g4g}
+В Турции используются частоты 800 МГц, 1800 МГц, 2600 МГц для 4G и 3.5 ГГц для 5G. Убедитесь, что ваше устройство поддерживает эти диапазоны.
 
-### 2. KYC (Know Your Customer) requirements {#2-kyc-know-your-customer-requirements}
-All eSIM purchases in Türkei require identity verification. You must upload a clear photo of your passport or national ID. The process is digital and takes 2-5 minutes. Your data is encrypted and handled per Turkish Personal Data Protection Law (KVKK). Without KYC, the eSIM cannot be activated.
+### 2. Требования KYC (регистрация паспорта) {#2-требования-kyc-регистрация-паспорта}
+Для покупки eSIM в Турции требуется регистрация паспорта. Roami автоматизирует этот процесс, вам нужно лишь загрузить фото паспорта.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most prepaid eSIM plans have a Fair Usage Policy. After exceeding a certain data threshold (e.g., 20 GB per month), speeds may be throttled to 1-2 Mbps. Always check the plan details. Roami's Türkei eSIM offers transparent FUP with no hidden throttling for the first 30 GB.
+### 3. Политика добросовестного использования (FUP) {#3-политика-добросовестного-использования-fup}
+После исчерпания высокоскоростного трафика скорость может быть снижена до 1 Мбит/с. Уточняйте лимиты в тарифе.
 
-### 4. Device compatibility and eSIM activation {#4-device-compatibility-and-esim-activation}
-Your device must be unlocked and eSIM-compatible. Supported devices include iPhone XS and newer, Samsung Galaxy S20 and newer, Google Pixel 4 and newer, and most recent Android flagships. Activation is via QR code sent to your email. Do not delete the email until you have successfully installed the eSIM.
+### 4. Совместимость устройств {#4-совместимость-устройств}
+eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее. Проверьте список совместимости.
 
-### 5. Network coverage in remote areas {#5-network-coverage-in-remote-areas}
-While 5G covers major cities, rural and mountainous areas (e.g., Eastern Anatolia, Black Sea interior) may have only 3G or no signal. Vodafone and Turkcell have the widest rural coverage. For trips to remote regions, download offline maps and consider a backup physical SIM from Turkcell.
+### 5. Срок действия и пополнение {#5-срок-действия-и-пополнение}
+Туристические eSIM обычно действуют от 7 до 30 дней. Пополнение возможно через личный кабинет Roami.

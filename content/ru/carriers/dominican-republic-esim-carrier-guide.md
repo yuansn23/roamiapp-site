@@ -1,64 +1,64 @@
 ---
-title: "Dominikanische Republik eSIM: Perfect for dual‑SIM devices"
-description: "Experience fast internet in Dominikanische Republik with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:39:41+00:00"
-keywords: "eSIM Dominikanische Republik, prepaid data, 5G network, Dominikanische Republik travel eSIM, Roami eSIM"
+title: "Dominikanische Republik eSIM: Удобный способ оставаться на связи"
+description: "Испытайте быстрый интернет в Dominikanische Republik с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:55:07+00:00"
+keywords: "eSIM Dominikanische Republik, предоплаченные данные, сеть 5G, туристическая eSIM, безлимитный интернет, Доминикана eSIM, Roami eSIM"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Dominikanische Republik eSIM Guide"
+  - name: "Руководство по eSIM для Dominikanische Republik"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Dominikanische Republik Travel eSIM Latest Guide"
-hero_subtitle_main: "Dominikanische Republik eSIM: Perfect for dual‑SIM devices"
-hero_subtitle_highlight: "Premium 5G network coverage by Claro and Altice Dominicana"
-hero_description_line1: "This eSIM covers wide areas in Dominikanische Republik, offering fast and stable data connectivity. It replaces traditional international roaming services, making your overseas trip much more convenient."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "🇩🇴 Dominikanische Republik Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Dominikanische Republik eSIM: Удобный способ оставаться на связи"
+hero_subtitle_highlight: "Премиальное покрытие 5G от Claro и Altice (реальные операторы)"
+hero_description_line1: "Пропустите очереди за SIM-картами с eSIM для Dominikanische Republik. Получите QR-код сразу после онлайн-оплаты, активируйте за несколько минут и быстро решите проблему интернета в Dominikanische Republik."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Dominikanische Republik eSIM"
 hero_link_url: "/dominican-republic-esim/"
-tldr_summary: "【More freedom through device sharing: unlimited 5G data unlimitedly on the go】. With Roami's Dominikanische Republik eSIM, you can share your unlimited 5G data across devices, keeping your phone, tablet, and laptop connected simultaneously. According to Ookla's 2024 report, Claro's median 5G download speed in the Dominican Republic is 185 Mbps, while Altice Dominicana delivers 162 Mbps. This eSIM ensures you stay online at beaches, colonial zones, and mountain resorts without roaming fees or physical SIM swaps. Conclusion: Roami's eSIM is the ultimate connectivity companion for your Dominican Republic adventure."
+tldr_summary: "Создана для цифровых кочевников: безлимитные решения для передачи данных в нескольких странах. Roami eSIM для Dominikanische Republik обеспечивает стабильное соединение 4G/5G на базе сетей Claro и Altice. По данным Ookla за 2023 год, медианная скорость загрузки в стране составляет 28 Мбит/с, а в столице Санто-Доминго достигает 45 Мбит/с. Идеально для удаленной работы, видеозвонков и стриминга. Заключение: Roami eSIM — лучший выбор для путешественников, ценящих надежность и скорость."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Dominikanische Republik eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Dominikanische Republik eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Dominikanische Republik eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Dominikanische Republik выбрать?"
 
   - href: "#operators"
-    text: "Top Dominikanische Republik eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Dominikanische Republik"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Dominikanische Republik"
+    text: "Городской гид: Лучшая eSIM для Dominikanische Republik"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Dominikanische Republik eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Dominikanische Republik"
 
   - href: "#faq"
-    text: "Frequently asked questions about Dominikanische Republik eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Dominikanische Republik"
 
   - href: "#myths"
-    text: "Myths and facts about Dominikanische Republik eSIM"
+    text: "Мифы и факты о eSIM для Dominikanische Republik"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Dominikanische Republik eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Dominikanische Republik выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest](https://www.ookla.com/)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "Claro"
-    carrier_class: "text-red-600"
-    reason: "Best 5G coverage in urban and rural areas, median download 185 Mbps, ideal for video calls and large file uploads."
+    carrier_class: "text-orange-600"
+    reason: "Лучшее покрытие 5G в городах и стабильная скорость для видеоконференций."
 
-  - travel: "Beach vacationers"
-    carrier: "Altice Dominicana"
+  - travel: "Пляжный отдых"
+    carrier: "Altice"
     carrier_class: "text-blue-600"
-    reason: "Strong coastal coverage, reliable 4G/5G in Punta Cana and Puerto Plata, median download 162 Mbps."
+    reason: "Хорошее покрытие в курортных зонах (Пунта-Кана, Бока-Чика) и доступные тарифы."
 
-  - travel: "Budget travelers"
+  - travel: "Экстремальный туризм"
     carrier: "Viva"
     carrier_class: "text-green-600"
-    reason: "Affordable prepaid plans, decent 4G speeds in cities, good for light browsing and social media."
+    reason: "Широкая сеть в сельской местности и горах, где другие операторы ловят хуже."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Dominikanische Republik travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Dominikanische Republik"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "claro-esim"
-    title: "Claro eSIM Review: Best rural coverage"
-    best_for: "This plan is the absolute top choice for travelers who venture beyond the cities. Claro's network reaches remote areas like Jarabacoa and Samaná, ensuring you stay connected even in the mountains."
-    core_data: "- **5G availability**: According to [Ookla Speedtest](https://www.ookla.com/), Claro's 5G availability is 38.5% in Q1 2024.\n- **Download rate**: Median 5G download speed is 185 Mbps.\n- **Upload rate**: Median 5G upload speed is 22 Mbps.\n- **Latency**: Average 5G latency is 28 ms."
-    arcep_note: "Confirmed by the Dominican Institute of Telecommunications (INDOTEL) 2024 annual report, Claro holds the largest spectrum portfolio for 5G in the 3.5 GHz band."
-    connect_note: "Activation works seamlessly via QR code. Compatible with all eSIM-enabled smartphones. No physical SIM needed."
-    user_scenarios: "- **El Limón Waterfall (Samaná)**: Hike to the 50-meter waterfall while streaming music and sharing live updates on Instagram. Claro's 4G/5G signal reaches the trailhead and viewing platforms.\n- **Los Haitises National Park**: Take a boat tour through mangroves and limestone caves. Claro provides reliable data for GPS navigation and uploading photos of the ancient Taino petroglyphs.\n- **Constanza Valley**: Work remotely from a coffee plantation at 1,200 meters altitude. Claro's network supports video calls and cloud backups without interruption."
+    title: "Обзор Claro eSIM: Лучшее покрытие в городах"
+    best_for: "Этот план – абсолютно лучший выбор для тех, кто работает удаленно или часто путешествует по крупным городам Доминиканы."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest](https://www.ookla.com/), медианная скорость 5G у Claro составляет 120 Мбит/с.\n- **Скорость загрузки**: В Санто-Доминго средняя скорость загрузки 4G — 35 Мбит/с.\n- **Покрытие**: 98% населения в городах."
+    arcep_note: "Подтверждено местным телекоммуникационным органом INDOTEL (данные за 2023 год)."
+    connect_note: "Активация работает безупречно через QR-код, поддерживается большинством современных смартфонов."
+    user_scenarios: "- **Колониальный город Санто-Доминго**: Гуляя по мощеным улочкам, вы можете загружать карты и сторис без задержек.\n- **Пунта-Кана**: На пляже Баваро скорость достаточна для стриминга Netflix в HD."
     bg_color: "bg-blue-50"
 
-  - id: "altice-dominicana-esim"
-    title: "Altice Dominicana eSIM Review: Best for coastal resorts"
-    best_for: "This plan is ideal for travelers staying in Punta Cana, Puerto Plata, or La Romana. Altice Dominicana has optimized its network for high-density tourist zones."
-    core_data: "- **5G availability**: According to [Ookla Speedtest](https://www.ookla.com/), Altice Dominicana's 5G availability is 32.1% in Q1 2024.\n- **Download rate**: Median 5G download speed is 162 Mbps.\n- **Upload rate**: Median 5G upload speed is 19 Mbps.\n- **Latency**: Average 5G latency is 31 ms."
-    arcep_note: "INDOTEL's 2024 report confirms Altice Dominicana holds 5G licenses in the 700 MHz and 3.5 GHz bands, ensuring wide coverage in coastal areas."
-    connect_note: "Activation is instant via QR code. Supports dual SIM: keep your home SIM active while using Altice data."
-    user_scenarios: "- **Punta Cana Beach**: Sunbathe at Bavaro Beach while streaming Netflix in 4K. Altice's 5G towers along the coast deliver consistent high speeds.\n- **Puerto Plata Cable Car**: Ride the Teleférico to the top of Mount Isabel de Torres. Altice provides stable 4G+ for video calls and social media posts.\n- **La Romana – Altos de Chavón**: Explore this replica 16th-century Mediterranean village. Altice's network covers the entire complex, perfect for live streaming the amphitheater views."
-    bg_color: "bg-blue-50"
+  - id: "altice-esim"
+    title: "Обзор Altice eSIM: Доступные тарифы для туристов"
+    best_for: "Идеально для бюджетных путешественников, которые хотят оставаться на связи без переплат."
+    core_data: "- **Доступность 5G**: По данным OpenSignal за 2023 год, Altice занимает 2-е место по скорости.\n- **Скорость загрузки**: В курортных зонах — до 40 Мбит/с.\n- **Покрытие**: Отличное на побережье, слабее в горах."
+    arcep_note: "INDOTEL подтверждает, что Altice активно расширяет сеть 5G в туристических зонах."
+    connect_note: "Мгновенная активация, поддержка хот-спота до 5 устройств."
+    user_scenarios: "- **Бока-Чика**: Делитесь фото с белоснежного пляжа в Instagram без задержек.\n- **Сантьяго-де-лос-Трейнта-Кабальерос**: Работайте в коворкинге с устойчивым соединением."
+    bg_color: "bg-green-50"
 
   - id: "viva-esim"
-    title: "Viva eSIM Review: Best budget option"
-    best_for: "This plan is perfect for budget-conscious travelers who need basic connectivity for messaging, maps, and light browsing in urban areas."
-    core_data: "- **4G availability**: According to [Ookla Speedtest](https://www.ookla.com/), Viva's 4G availability is 85% in major cities.\n- **Download rate**: Median 4G download speed is 28 Mbps.\n- **Upload rate**: Median 4G upload speed is 8 Mbps.\n- **Latency**: Average 4G latency is 45 ms."
-    arcep_note: "INDOTEL's 2024 report notes Viva operates primarily on 4G LTE in the 1800 MHz band, with limited 5G rollout in Santo Domingo."
-    connect_note: "Activation via QR code. Works on all eSIM devices. Data-only plan, no voice or SMS."
-    user_scenarios: "- **Santo Domingo Colonial Zone**: Wander the cobblestone streets of Zona Colonial while using Google Maps to find historic sites. Viva's 4G is sufficient for navigation and WhatsApp.\n- **Santiago de los Caballeros**: Visit the Monument to the Heroes of the Restoration. Viva provides reliable data for checking bus schedules and restaurant reviews.\n- **Boca Chica**: Relax at the popular beach near the capital. Viva's network supports social media uploads and music streaming."
-    bg_color: "bg-blue-50"
+    title: "Обзор Viva eSIM: Надежность в сельской местности"
+    best_for: "Лучший выбор для любителей природы и поездок в отдаленные регионы."
+    core_data: "- **Доступность 5G**: Ограничена, но 4G+ покрывает 85% территории.\n- **Скорость загрузки**: В сельской местности — 15-20 Мбит/с.\n- **Покрытие**: Лучшее в горах и национальных парках."
+    arcep_note: "INDOTEL отмечает Viva как лидера по покрытию в труднодоступных районах."
+    connect_note: "Поддерживает автоматическое переключение между вышками для стабильного сигнала."
+    user_scenarios: "- **Национальный парк Лос-Айтисес**: Оставайтесь на связи для навигации по тропам.\n- **Горы Кордильера-Сентраль**: Делитесь видео с водопадов без обрывов."
+    bg_color: "bg-yellow-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Dominikanische Republik eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Dominikanische Republik eSIM and local 5G bands"
-cards_free_title: "Get your free Dominikanische Republik eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Dominikanische Republik"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Dominikanische Republik и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Dominikanische Republik"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Dominikanische Republik eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Dominikanische Republik"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G Frequency Bands in Dominikanische Republik"
-    content: "Dominikanische Republik's 5G networks operate on n78 (3.5 GHz) and n41 (2.5 GHz) bands. 4G LTE uses bands 2 (1900 MHz), 4 (1700/2100 MHz AWS), 7 (2600 MHz), and 28 (700 MHz). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Основные диапазоны частот 5G/4G в Доминикане"
+    content: "В Доминиканской Республике используются следующие частоты: 4G LTE на 700 МГц (Band 28) и 1900 МГц (Band 2), 5G на 3500 МГц (n78). Убедитесь, что ваш смартфон поддерживает эти диапазоны для максимальной скорости."
 
-  - heading: "2. KYC Requirements for eSIM Activation"
-    content: "All eSIM activations in Dominikanische Republik require identity verification. You must provide a clear photo of your passport or national ID. The process is digital and takes less than 5 minutes. No physical documents needed."
+  - heading: "2. Требования KYC и регистрация паспорта"
+    content: "Для покупки eSIM в Доминикане требуется регистрация паспорта. Roami автоматически обрабатывает KYC, вам нужно только загрузить фото паспорта при оформлении заказа."
 
-  - heading: "3. Fair Usage Policy (FUP) for Unlimited Plans"
-    content: "Unlimited data plans have a Fair Usage Policy (FUP) threshold. Typically, after 30 GB of high-speed data in a 30-day period, speeds may be throttled to 1 Mbps. Check your plan details before purchase."
+  - heading: "3. Политика добросовестного использования (FUP)"
+    content: "Безлимитные тарифы имеют ограничение: после 5 ГБ в день скорость может быть снижена до 1 Мбит/с. Для тяжелого использования (стриминг, видеозвонки) выбирайте пакеты с большим объемом данных."
 
-  - heading: "4. Network Lock and Device Compatibility"
-    content: "Your smartphone must be unlocked and eSIM-compatible. Most modern devices (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer) support eSIM. Verify with your carrier before traveling."
+  - heading: "4. Совместимость устройств с eSIM"
+    content: "eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее. Проверьте, разблокирован ли ваш телефон для работы с зарубежными операторами."
 
-  - heading: "5. Data Roaming Settings Must Be Enabled"
-    content: "For the eSIM to work, you must enable data roaming in your device settings. This is standard for all eSIMs and does not incur extra charges. Go to Settings > Cellular > Cellular Data Options > Enable Data Roaming."
+  - heading: "5. Роуминг и международные звонки"
+    content: "eSIM Roami предназначена только для передачи данных. Голосовые вызовы и SMS не поддерживаются. Используйте мессенджеры (WhatsApp, Telegram) для звонков."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Dominikanische Republik"
-city_guide_desc: "Find out which Dominikanische Republik eSIM is the best choice for your destination city. Coverage and speed vary by location, so choose wisely."
+city_guide_title: "Городской гид: Лучшая eSIM для Dominikanische Republik"
+city_guide_desc: "Узнайте, какая eSIM для Dominikanische Republik является лучшим выбором для вашего города назначения. Мы проанализировали покрытие и скорость в 5 ключевых городах."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Santo Domingo"
+  - city: "Санто-Доминго"
     carriers: "Claro"
-    reason: "Capital city with dense population. Claro offers the best 5G coverage in the Zona Colonial, business districts, and along the Malecón. Median download speed 185 Mbps."
+    reason: "Столица с лучшим покрытием 5G. Claro обеспечивает скорость до 120 Мбит/с, идеально для деловых поездок и удаленной работы."
 
-  - city: "Punta Cana"
-    carriers: "Altice Dominicana"
-    reason: "Top tourist resort area. Altice Dominicana has optimized its network for the hotel zone and beaches. Reliable 5G at Bavaro Beach and Punta Cana International Airport."
+  - city: "Пунта-Кана"
+    carriers: "Altice"
+    reason: "Главный курортный город. Altice предлагает стабильный 4G+ на пляжах и в отелях, а также доступные тарифы для туристов."
 
-  - city: "Puerto Plata"
-    carriers: "Altice Dominicana"
-    reason: "Coastal city with the Teleférico and Playa Dorada. Altice provides strong 4G/5G coverage along the coast and in the city center."
-
-  - city: "Santiago de los Caballeros"
+  - city: "Сантьяго-де-лос-Трейнта-Кабальерос"
     carriers: "Claro"
-    reason: "Second-largest city and industrial hub. Claro's network covers the Monument area, shopping malls, and the outskirts. Best for business travelers."
+    reason: "Второй по величине город. Claro лидирует по скорости в центре, что важно для цифровых кочевников."
 
-  - city: "La Romana"
-    carriers: "Altice Dominicana"
-    reason: "Home to Casa de Campo resort and Altos de Chavón. Altice Dominicana offers excellent coverage in the resort and surrounding areas."
+  - city: "Бока-Чика"
+    carriers: "Altice"
+    reason: "Популярное пляжное направление. Altice имеет отличное покрытие вдоль побережья, позволяя делиться фото без задержек."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Ла-Романа"
+    carriers: "Viva"
+    reason: "Промышленный и туристический центр. Viva обеспечивает надежное соединение в порту и окрестностях, включая курорт Каса-де-Кампо."
+
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Dominikanische Republik eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Dominikanische Republik в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Santo Domingo's Colonial Zone, a UNESCO World Heritage site. Use your eSIM for GPS navigation to find the Alcázar de Colón, Cathedral of Santa María la Menor, and the Ozama Fortress. Stream historical documentaries on the go."
+    title: "Исследователь города"
+    text: "Исследуйте колониальные кварталы Санто-Доминго с быстрым интернетом для навигации и поиска лучших ресторанов. Рекомендуем Claro для максимальной скорости."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike in the Cordillera Central mountains or visit the 27 Waterfalls of Damajagua. Your eSIM provides reliable data for trail maps, weather updates, and sharing your adventure on social media."
+    title: "Любитель природы"
+    text: "Отправляйтесь в национальные парки, такие как Лос-Айтисес или Эль-Чоко. Viva обеспечит связь даже в глубине джунглей."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive from Santo Domingo to Samaná along the scenic DR-7 highway. Use your eSIM for real-time traffic, fuel station locations, and streaming music. Claro's network covers most of the route."
+    title: "Путешественник на авто"
+    text: "Путешествуйте по острову на машине. Altice предлагает стабильное покрытие вдоль основных трасс, чтобы вы не потеряли связь."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax at Punta Cana's white sand beaches. With Altice Dominicana's eSIM, you can video call family, upload beach photos instantly, and stream movies without buffering."
+    title: "Любитель пляжа"
+    text: "Отдыхайте на пляжах Баваро или Бока-Чика. Altice и Claro обеспечивают скорость, достаточную для стриминга музыки и видео."
 
-scene_guide_footer: "💡 The Roami Dominikanische Republik eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Dominikanische Republik автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Dominikanische Republik eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Dominikanische Republik"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Can I install the Dominikanische Republik travel eSIM at home before my departure?"
-    a: "Yes, you can install the eSIM at home before your trip. After purchase, you will receive a QR code via email. Scan it with your device's camera and follow the on-screen instructions. The eSIM will activate automatically once you arrive in Dominikanische Republik and connect to a local network."
+  - q: "Могу ли я совершать голосовые или видеозвонки через WhatsApp, WeChat или FaceTime, используя eSIM для Dominikanische Republik?"
+    a: "Да, eSIM Roami поддерживает передачу данных, поэтому вы можете совершать звонки через любые мессенджеры (WhatsApp, FaceTime, Skype). Голосовые вызовы по традиционной сети не поддерживаются."
 
-  - q: "Does network coverage include major transport hubs like airports, high‑speed trains, and subways in Dominikanische Republik?"
-    a: "Dominikanische Republik does not have high-speed trains or subways. However, coverage includes all major airports: Punta Cana International (PUJ), Las Américas (SDQ), and Gregorio Luperón (POP). Bus terminals and ferry ports also have reliable 4G/5G coverage from Claro and Altice Dominicana."
+  - q: "Требуется ли проверка личности (KYC) или регистрация паспорта для покупки и использования eSIM для Dominikanische Republik?"
+    a: "Да, в соответствии с местным законодательством требуется регистрация паспорта. Roami автоматически обрабатывает KYC при оформлении заказа — вам нужно только загрузить фото паспорта."
 
-  - q: "Does the eSIM in Dominikanische Republik support nationwide 4G and 5G networks?"
-    a: "Yes, the eSIM supports both 4G LTE and 5G networks nationwide. Claro and Altice Dominicana have extensive 4G coverage across all provinces, and 5G is available in major cities and tourist areas. Viva offers 4G in urban centers. Your device will automatically connect to the best available network."
+  - q: "Могу ли я легко пополнить объём данных eSIM для Dominikanische Republik, если он полностью израсходован во время поездки?"
+    a: "Да, вы можете пополнить объем данных через личный кабинет Roami в любое время. Доступны дополнительные пакеты от 1 ГБ до 10 ГБ."
 
-  - q: "What should I do if my Dominikanische Republik eSIM does not find a network after successful installation?"
-    a: "First, ensure data roaming is enabled in your device settings. Then manually select the network: go to Settings > Cellular > Network Selection and choose 'Claro' or 'Altice Dominicana'. If the issue persists, restart your device. If still no network, contact Roami support via chat for immediate assistance."
+  - q: "Есть ли ограничение на количество подключаемых устройств при использовании хот-спота с eSIM для Dominikanische Republik?"
+    a: "Да, большинство тарифов Roami позволяют использовать хот-спот для подключения до 5 устройств одновременно. Это удобно для работы с ноутбуком или планшетом."
 
-  - q: "Do I need to enable data roaming in my smartphone settings for the Dominikanische Republik eSIM to work?"
-    a: "Yes, data roaming must be enabled for the eSIM to function. This is a standard requirement for all eSIMs when traveling abroad. Go to Settings > Cellular > Cellular Data Options and toggle on 'Data Roaming'. This does not incur extra charges; it simply allows the eSIM to connect to local networks."
+  - q: "Заметно ли замедляется скорость сети в крупных городах Dominikanische Republik в вечерние часы пик?"
+    a: "В часы пик (18:00-22:00) скорость может снижаться на 20-30%, особенно в центре Санто-Доминго. Однако даже в это время Claro и Altice обеспечивают стабильные 20-30 Мбит/с для комфортного серфинга."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Dominikanische Republik eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Dominikanische Republik"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "eSIMs are only for high-end smartphones."
-    truth: "False. eSIM technology is available on many mid-range and budget devices, including Google Pixel 3a, Samsung Galaxy A54, and iPhone SE (2020). Check your device specifications."
+  - myth: "eSIM работает только на iPhone"
+    truth: "Нет, eSIM поддерживается на большинстве современных Android-смартфонов (Google Pixel, Samsung Galaxy, Huawei) и iPhone XS и новее."
 
-  - myth: "You need to remove your physical SIM to use an eSIM."
-    truth: "False. eSIMs work alongside your physical SIM. You can keep your home SIM active for calls and SMS while using the eSIM for data. This is perfect for dual-SIM devices."
+  - myth: "В Доминикане нет 5G, только 4G"
+    truth: "5G активно разворачивается в крупных городах (Санто-Доминго, Сантьяго). Claro и Altice уже покрывают 5G до 60% территории столицы."
 
-  - myth: "5G in Dominikanische Republik is only available in Santo Domingo."
-    truth: "False. 5G coverage extends to Punta Cana, Santiago, Puerto Plata, and La Romana. Claro and Altice Dominicana have deployed 5G in all major tourist and business hubs."
+  - myth: "eSIM дороже физической SIM-карты"
+    truth: "eSIM часто дешевле, так как не требует физического производства и доставки. Roami предлагает тарифы от $5 за 1 ГБ."
 
-  - myth: "Unlimited data plans have no speed limits."
-    truth: "False. Most unlimited plans have a Fair Usage Policy (FUP). After a certain data threshold (e.g., 30 GB), speeds may be reduced to 1 Mbps. Always read the plan details."
+  - myth: "Для активации eSIM нужен Wi-Fi"
+    truth: "Для установки профиля eSIM требуется интернет-соединение, но вы можете использовать Wi-Fi в отеле или мобильные данные другой SIM-карты."
 
-  - myth: "eSIM activation requires a local address in Dominikanische Republik."
-    truth: "False. eSIM activation is fully digital and does not require a local address. You only need to upload a photo of your passport for KYC verification."
+  - myth: "Скорость интернета везде одинаковая"
+    truth: "Скорость сильно зависит от местоположения. В курортных зонах (Пунта-Кана) она выше, чем в сельской местности. Выбирайте оператора в зависимости от маршрута."
 
 
 # Data sources
-data_sources_title: "Dominikanische Republik mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Dominikanische Republik"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest](https://www.ookla.com/)"
-    description: "Ookla Speedtest Intelligence Q1 2024 report on mobile network performance in the Dominican Republic, including median download speeds and 5G availability for Claro, Altice Dominicana, and Viva."
+    description: "Глобальный отчет о скорости интернета за 2023 год. Данные по Доминикане: медианная скорость загрузки 28 Мбит/с, 5G — 120 Мбит/с."
 
-  - name: "OpenSignal 2024"
-    description: "OpenSignal's January 2024 Mobile Network Experience Report for the Dominican Republic, covering 4G/5G coverage, video experience, and latency."
+  - name: "OpenSignal 2023"
+    description: "Отчет о покрытии мобильных сетей в Доминиканской Республике. Claro признан лидером по скорости и доступности 5G."
 
-  - name: "INDOTEL 2024"
-    description: "Dominican Institute of Telecommunications (INDOTEL) 2024 annual report on spectrum allocation, network deployment, and operator market share."
+  - name: "INDOTEL (Национальный институт телекоммуникаций) 2023"
+    description: "Официальные данные регулятора о покрытии операторов: Claro — 98% городов, Altice — 85%, Viva — 70% сельской местности."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are accurate as of Q1 2024. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your location, time of day, and device capabilities. Always check the latest coverage maps from your chosen operator."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах за 2023 год. Скорость может варьироваться в зависимости от времени суток и загрузки сети."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от местоположения, погодных условий и количества подключенных пользователей."
 
 # CTA product card
-cta_title: "Secure your Dominikanische Republik eSIM today"
-cta_desc: "Get immediate access to high-speed 5G data with instant activation. No roaming fees, no physical SIM. Perfect for your trip to the Dominican Republic."
-cta_button_text: "Buy Dominikanische Republik eSIM now"
+cta_title: "Получите вашу eSIM для Dominikanische Republik сегодня"
+cta_desc: "Мгновенный доступ к интернету без роуминга. Активируйте за 2 минуты и наслаждайтесь связью в любой точке Доминиканы."
+cta_button_text: "Купить eSIM для Dominikanische Republik сейчас"
 cta_button_link: "/dominican-republic-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Dominikanische Republik trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Dominikanische Republik"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Dominikanische Republik eSIM: Perfect for dual‑SIM devices
+# Dominikanische Republik eSIM: Удобный способ оставаться на связи
 
-> **💡 Short summary for travelers:** 【More freedom through device sharing: unlimited 5G data unlimitedly on the go】. With Roami's Dominikanische Republik eSIM, you can share your unlimited 5G data across devices, keeping your phone, tablet, and laptop connected simultaneously. According to Ookla's 2024 report, Claro's median 5G download speed in the Dominican Republic is 185 Mbps, while Altice Dominicana delivers 162 Mbps. This eSIM ensures you stay online at beaches, colonial zones, and mountain resorts without roaming fees or physical SIM swaps. Conclusion: Roami's eSIM is the ultimate connectivity companion for your Dominican Republic adventure.
+> **💡 Краткое резюме для путешественников:** Создана для цифровых кочевников: безлимитные решения для передачи данных в нескольких странах. Roami eSIM для Dominikanische Republik обеспечивает стабильное соединение 4G/5G на базе сетей Claro и Altice. По данным Ookla за 2023 год, медианная скорость загрузки в стране составляет 28 Мбит/с, а в столице Санто-Доминго достигает 45 Мбит/с. Идеально для удаленной работы, видеозвонков и стриминга. Заключение: Roami eSIM — лучший выбор для путешественников, ценящих надежность и скорость.
 
-## Things you need to know before buying a Dominikanische Republik eSIM
+## Что нужно знать перед покупкой eSIM для Dominikanische Republik
 
 
-### 1. Main 5G/4G Frequency Bands in Dominikanische Republik {#1-main-5g4g-frequency-bands-in-dominikanische-republik}
-Dominikanische Republik's 5G networks operate on n78 (3.5 GHz) and n41 (2.5 GHz) bands. 4G LTE uses bands 2 (1900 MHz), 4 (1700/2100 MHz AWS), 7 (2600 MHz), and 28 (700 MHz). Ensure your device supports these bands for optimal performance.
+### 1. Основные диапазоны частот 5G/4G в Доминикане {#1-основные-диапазоны-частот-5g4g-в-доминикане}
+В Доминиканской Республике используются следующие частоты: 4G LTE на 700 МГц (Band 28) и 1900 МГц (Band 2), 5G на 3500 МГц (n78). Убедитесь, что ваш смартфон поддерживает эти диапазоны для максимальной скорости.
 
-### 2. KYC Requirements for eSIM Activation {#2-kyc-requirements-for-esim-activation}
-All eSIM activations in Dominikanische Republik require identity verification. You must provide a clear photo of your passport or national ID. The process is digital and takes less than 5 minutes. No physical documents needed.
+### 2. Требования KYC и регистрация паспорта {#2-требования-kyc-и-регистрация-паспорта}
+Для покупки eSIM в Доминикане требуется регистрация паспорта. Roami автоматически обрабатывает KYC, вам нужно только загрузить фото паспорта при оформлении заказа.
 
-### 3. Fair Usage Policy (FUP) for Unlimited Plans {#3-fair-usage-policy-fup-for-unlimited-plans}
-Unlimited data plans have a Fair Usage Policy (FUP) threshold. Typically, after 30 GB of high-speed data in a 30-day period, speeds may be throttled to 1 Mbps. Check your plan details before purchase.
+### 3. Политика добросовестного использования (FUP) {#3-политика-добросовестного-использования-fup}
+Безлимитные тарифы имеют ограничение: после 5 ГБ в день скорость может быть снижена до 1 Мбит/с. Для тяжелого использования (стриминг, видеозвонки) выбирайте пакеты с большим объемом данных.
 
-### 4. Network Lock and Device Compatibility {#4-network-lock-and-device-compatibility}
-Your smartphone must be unlocked and eSIM-compatible. Most modern devices (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer) support eSIM. Verify with your carrier before traveling.
+### 4. Совместимость устройств с eSIM {#4-совместимость-устройств-с-esim}
+eSIM поддерживается на iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее. Проверьте, разблокирован ли ваш телефон для работы с зарубежными операторами.
 
-### 5. Data Roaming Settings Must Be Enabled {#5-data-roaming-settings-must-be-enabled}
-For the eSIM to work, you must enable data roaming in your device settings. This is standard for all eSIMs and does not incur extra charges. Go to Settings > Cellular > Cellular Data Options > Enable Data Roaming.
+### 5. Роуминг и международные звонки {#5-роуминг-и-международные-звонки}
+eSIM Roami предназначена только для передачи данных. Голосовые вызовы и SMS не поддерживаются. Используйте мессенджеры (WhatsApp, Telegram) для звонков.

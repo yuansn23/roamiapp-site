@@ -1,64 +1,64 @@
 ---
-title: "Mexiko eSIM: Hassle‑free alternative to physical SIM cards"
-description: "Experience fast internet in Mexiko with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:41:28+00:00"
-keywords: "eSIM Mexiko, prepaid data, 5G network, Telcel, Movistar, Roami eSIM, travel eSIM Mexico"
+title: "Mexiko eSIM: Испытайте молниеносные скорости 5G"
+description: "Испытайте быстрый интернет в Mexiko с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:57:07+00:00"
+keywords: "eSIM Mexiko, предоплаченные данные, сеть 5G, Telcel, Totalplay, туристическая eSIM, безлимитный интернет Мексика"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Mexiko eSIM Guide"
+  - name: "Руководство по eSIM для Mexiko"
     url: ""
 
 # Hero section copy
-hero_badge: "[🇲🇽] Mexiko Travel eSIM Latest Guide"
-hero_subtitle_main: "Mexiko eSIM: Hassle‑free alternative to physical SIM cards"
-hero_subtitle_highlight: "Premium 5G network coverage by Telcel and Movistar"
-hero_description_line1: "The Mexiko eSIM provides reliable data services for business travelers, ensuring smooth video conferencing, navigation, and social apps, boosting your travel efficiency."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "[Флаг] Mexiko Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Mexiko eSIM: Испытайте молниеносные скорости 5G"
+hero_subtitle_highlight: "Премиальное покрытие 5G от Telcel и Movistar"
+hero_description_line1: "Замените традиционные роуминговые тарифы на eSIM для Mexiko, чтобы сэкономить на связи. Совместима с несколькими устройствами, удовлетворяет потребности в интернете всех типов путешественников."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Mexiko eSIM"
 hero_link_url: "/mexico-esim/"
-tldr_summary: "【Seamless network switching across multiple countries: the new standard for traveling digital nomads】. Roami’s Mexiko eSIM connects you to Telcel’s award‑winning 5G network, which recorded a median download speed of 80.6 Mbps and a 5G median of 212.68 Mbps according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025). Whether you’re navigating Mexico City’s streets or streaming in Cancún, Roami ensures you stay productive and entertained without physical SIM hassles. Conclusion: Roami eSIM is the ultimate connectivity companion for digital nomads exploring Mexiko."
+tldr_summary: "【Лучший выбор для деловых поездок: трансграничные решения 5G с безлимитными данными】. Roami eSIM для Mexiko обеспечивает доступ к самой быстрой сети Telcel, которая, согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025), показала медианную скорость загрузки 80.6 Мбит/с (все технологии) и 212.68 Мбит/с в 5G. Это идеальное решение для бизнес-путешественников, которым нужна стабильная связь для видеоконференций и работы с большими файлами. Активация занимает секунды, а безлимитные тарифы позволяют не беспокоиться о трафике. Выбирайте Roami eSIM для Mexiko — молниеносный 5G без роуминга."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Mexiko eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Mexiko eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Mexiko eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Mexiko выбрать?"
 
   - href: "#operators"
-    text: "Top Mexiko eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Mexiko"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Mexiko"
+    text: "Городской гид: Лучшая eSIM для Mexiko"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Mexiko eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Mexiko"
 
   - href: "#faq"
-    text: "Frequently asked questions about Mexiko eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Mexiko"
 
   - href: "#myths"
-    text: "Myths and facts about Mexiko eSIM"
+    text: "Мифы и факты о eSIM для Mexiko"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Mexiko eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Mexiko выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,235 +67,235 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "Telcel"
     carrier_class: "text-orange-600"
-    reason: "Telcel is the fastest mobile network in Mexiko with a median download speed of 80.6 Mbps and best 5G coverage (212.68 Mbps median 5G download). Ideal for heavy data users and remote work."
+    reason: "Самая быстрая сеть 5G в Мексике (медианная скорость 212.68 Мбит/с). Идеально для удаленной работы и видеозвонков."
 
-  - travel: "Budget travelers"
+  - travel: "Городские исследователи"
     carrier: "Movistar"
     carrier_class: "text-blue-600"
-    reason: "Movistar offers competitive prepaid plans with decent speeds (32.8 Mbps median download) and wide coverage in urban areas, perfect for light browsing and social media."
+    reason: "Хорошее покрытие в крупных городах, доступные тарифы. Медианная скорость загрузки 32.8 Мбит/с."
 
-  - travel: "Rural explorers"
+  - travel: "Путешественники по стране"
     carrier: "Telcel"
     carrier_class: "text-orange-600"
-    reason: "Telcel has the most consistent network (90.5% of samples met 5 Mbps download threshold) and best rural coverage, ensuring connectivity in remote regions."
+    reason: "Лучшее общенациональное покрытие, включая сельскую местность. 90.5% тестов соответствуют порогу 5 Мбит/с."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Mexiko travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Mexiko"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "telcel-esim"
-    title: "Telcel eSIM Review: Best overall performance"
-    best_for: "This plan is the absolute top choice for travelers who need the fastest speeds and most reliable 5G coverage across Mexiko."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025), Telcel recorded a median 5G download speed of 212.68 Mbps, the highest in Mexiko.\n- **Download rate**: Median download speed of 80.6 Mbps for all technologies combined.\n- **Upload rate**: Median upload speed of 13.16 Mbps.\n- **Latency**: Lowest latency at 64 ms.\n- **Consistency**: 90.5% of samples met or exceeded 5 Mbps download and 1 Mbps upload thresholds."
-    arcep_note: "Confirmed by the local telecom authority (IFT) as the leading operator in spectrum holdings and 5G deployment."
-    connect_note: "Activation works seamlessly with Roami eSIM; simply scan the QR code and select Telcel as your preferred network."
-    user_scenarios: "- **Mexico City (Zócalo)**: Stream live video of the historic center without buffering, thanks to Telcel’s 80.6 Mbps median speed.\n- **Cancún beaches**: Upload vacation photos instantly with 13.16 Mbps upload speed.\n- **Guadalajara business district**: Conduct video conferences with low latency (64 ms) and reliable 5G."
+    title: "Обзор Telcel eSIM: Лучшее покрытие и скорость в Мексике"
+    best_for: "Этот план – абсолютно лучший выбор для тех, кому нужна максимальная скорость и надежность по всей стране. Telcel — лидер рынка по всем показателям."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025), Telcel признан лучшей 5G сетью в Мексике. Медианная скорость 5G загрузки составляет 212.68 Мбит/с.\n- **Скорость загрузки (все сети)**: Медианная скорость загрузки 80.6 Мбит/с, что значительно опережает конкурентов.\n- **Скорость загрузки (5G)**: 212.68 Мбит/с — лучший показатель среди операторов.\n- **Задержка (5G)**: 54 мс — минимальная задержка для игр и видеозвонков.\n- **Стабильность**: 90.5% тестов соответствуют порогу 5 Мбит/с (загрузка) и 1 Мбит/с (отправка)."
+    arcep_note: "Подтверждено местным телекоммуникационным органом IFT (Instituto Federal de Telecomunicaciones). Telcel имеет наибольшую долю рынка и спектра, что обеспечивает лучшее покрытие."
+    connect_note: "Активация работает безупречно через QR-код. eSIM Roami автоматически подключается к сети Telcel при первом включении."
+    user_scenarios: "- **[Пирамиды Теотиуакана]**: Делитесь фотографиями и видео в реальном времени без задержек. Скорость 5G Telcel позволяет загружать контент мгновенно.\n- **[Каньон Сумидеро]**: Оставайтесь на связи даже в отдаленных природных зонах. Telcel обеспечивает стабильное покрытие 4G/5G.\n- **[Плайя-дель-Кармен]**: Смотрите стримы и общайтесь с семьей на пляже. Высокая скорость загрузки (80.6 Мбит/с) гарантирует комфортный серфинг."
     bg_color: "bg-orange-50"
 
   - id: "movistar-esim"
-    title: "Movistar eSIM Review: Affordable urban connectivity"
-    best_for: "This plan is ideal for budget‑conscious travelers who stay mainly in cities and need a cost‑effective data solution."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025), Movistar recorded a median 5G download speed of 51.03 Mbps.\n- **Download rate**: Median download speed of 32.8 Mbps for all technologies combined.\n- **Upload rate**: Median upload speed not specified but generally lower than Telcel.\n- **Latency**: Higher than Telcel, but sufficient for messaging and social media.\n- **Consistency**: Not as high as Telcel, but adequate in urban centers."
-    arcep_note: "Movistar is a well‑established operator in Mexiko, regulated by IFT, with strong presence in major cities."
-    connect_note: "Roami eSIM supports Movistar; activation is instant and you can switch networks if needed."
-    user_scenarios: "- **Monterrey metro**: Check maps and ride‑share apps with Movistar’s 32.8 Mbps download speed.\n- **Puebla historic district**: Share stories on social media without lag.\n- **Tijuana border area**: Stay connected while crossing for work or leisure."
+    title: "Обзор Movistar eSIM: Доступная альтернатива с хорошим городским покрытием"
+    best_for: "Отличный выбор для путешественников с ограниченным бюджетом, которые в основном находятся в крупных городах и не требуют экстремальных скоростей."
+    core_data: "- **Доступность 5G**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025), Movistar занимает второе место по скорости 5G. Медианная скорость 5G загрузки — 51.03 Мбит/с.\n- **Скорость загрузки (все сети)**: Медианная скорость загрузки 32.8 Мбит/с.\n- **Скорость загрузки (5G)**: 51.03 Мбит/с.\n- **Задержка (5G)**: Данные не указаны, но ожидается выше, чем у Telcel.\n- **Стабильность**: Уступает Telcel, но достаточна для повседневных задач."
+    arcep_note: "Подтверждено IFT. Movistar является вторым по величине оператором в Мексике с хорошим покрытием в городах."
+    connect_note: "Активация простая и быстрая. eSIM Roami поддерживает автоматический выбор сети, но для лучшего опыта рекомендуется вручную выбрать Movistar."
+    user_scenarios: "- **[Мехико]**: Идеально для навигации по метро и поиска ресторанов. Скорости достаточно для карт и соцсетей.\n- **[Гвадалахара]**: Работайте в коворкингах и кафе без проблем. Movistar обеспечивает стабильное соединение.\n- **[Монтеррей]**: Деловые поездки — быстрая загрузка почты и документов."
     bg_color: "bg-blue-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Mexiko eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Mexiko eSIM and local 5G bands"
-cards_free_title: "Get your free Mexiko eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Mexiko"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Mexiko и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Mexiko"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Mexiko eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Mexiko"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Mexiko"
-    content: "Mexiko’s 5G networks primarily use the n41 (2500 MHz) and n78 (3500 MHz) bands. 4G LTE operates on bands 2 (1900 MHz), 4 (1700/2100 MHz AWS), 5 (850 MHz), and 7 (2600 MHz). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Основные диапазоны частот 5G и 4G в Мексике"
+    content: "Мексика активно развивает сети 5G. Основные диапазоны: 5G — n41 (2500 МГц), n78 (3500 МГц); 4G LTE — B2 (1900 МГц), B4 (1700/2100 МГц), B12 (700 МГц). Убедитесь, что ваш смартфон поддерживает эти частоты для максимальной скорости."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate a Mexiko eSIM, you must provide a valid passport or government‑issued ID. Some providers may require a selfie for verification. Roami simplifies this process with digital KYC during purchase."
+  - heading: "2. Требования KYC (идентификация) для eSIM"
+    content: "Для активации eSIM в Мексике может потребоваться загрузка паспорта или другого удостоверения личности. Roami упрощает этот процесс, но будьте готовы предоставить документы для соответствия местным законам."
 
-  - heading: "3. Fair Usage Policy (FUP) and data caps"
-    content: "Most prepaid eSIM plans in Mexiko have a Fair Usage Policy. After exceeding a certain data threshold (e.g., 10 GB per month), speeds may be throttled to 128 kbps. Check your plan details to avoid surprises."
+  - heading: "3. Политика добросовестного использования (FUP)"
+    content: "Большинство безлимитных тарифов имеют ограничение по скорости после превышения определенного объема трафика (обычно 1-2 ГБ в день). Внимательно читайте условия, чтобы избежать неожиданного замедления."
 
-  - heading: "4. Network coverage in remote areas"
-    content: "Telcel offers the most extensive coverage in rural and mountainous regions, with 90.5% consistency. Movistar and AT&T have good urban coverage but may be spotty in remote areas. Always download offline maps as a backup."
+  - heading: "4. Совместимость устройств и настройка APN"
+    content: "eSIM работает на большинстве современных смартфонов (iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее). В некоторых случаях может потребоваться ручная настройка APN. Инструкции прилагаются к покупке."
 
-  - heading: "5. eSIM compatibility and device restrictions"
-    content: "Most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer) support eSIM. Carrier‑locked devices may not work. Verify your device is unlocked before purchasing."
+  - heading: "5. Роуминг и международные звонки"
+    content: "eSIM Roami предназначена только для передачи данных. Для звонков используйте мессенджеры (WhatsApp, Telegram). Входящие звонки на ваш обычный номер могут тарифицироваться отдельно — отключите роуминг данных на основной SIM."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Mexiko"
-city_guide_desc: "Find out which Mexiko eSIM is the best choice for your destination city based on real network performance data."
+city_guide_title: "Городской гид: Лучшая eSIM для Mexiko"
+city_guide_desc: "Узнайте, какая eSIM для Mexiko является лучшим выбором для вашего города назначения. Мы проанализировали данные Speedtest Intelligence, чтобы дать вам точные рекомендации."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Mexico City"
+  - city: "Мехико"
     carriers: "Telcel"
-    reason: "Mexico City is a bustling metropolis where Telcel’s 80.6 Mbps median download speed ensures smooth navigation, streaming, and video calls. The city has dense 5G coverage, especially in business districts like Polanco and Santa Fe."
+    reason: "Столица с высокой плотностью пользователей. Telcel обеспечивает лучшую скорость и покрытие 5G, что критично для деловых поездок и туризма."
 
-  - city: "Monterrey"
+  - city: "Монтеррей"
     carriers: "Telcel"
-    reason: "Monterrey recorded the fastest median fixed download speed (108.79 Mbps) among Mexican cities, and Telcel’s mobile network complements this with strong 5G performance. Ideal for business travelers and digital nomads."
+    reason: "Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025), Монтеррей — лучший город по фиксированной скорости (108.79 Мбит/с). Для мобильного интернета Telcel также оптимален."
 
-  - city: "Zapopan"
+  - city: "Гвадалахара"
+    carriers: "Movistar"
+    reason: "Второй по величине город. Movistar предлагает хорошее покрытие и доступные тарифы, достаточные для навигации и соцсетей."
+
+  - city: "Сапопан"
     carriers: "Telcel"
-    reason: "Zapopan has the fastest median mobile download speed (52.9 Mbps) among populous cities. Telcel’s network excels here, making it perfect for remote work and entertainment."
+    reason: "Сапопан признан лучшим городом по мобильной скорости (52.9 Мбит/с). Telcel — гарантия этой скорости."
 
-  - city: "Cancún"
+  - city: "Канкун"
     carriers: "Telcel"
-    reason: "Cancún’s tourism infrastructure relies on Telcel’s reliable network. With 5G coverage in hotel zones and beaches, you can stream, upload photos, and stay connected without interruptions."
+    reason: "Курортная зона с высокой нагрузкой на сеть. Telcel справляется лучше всего, обеспечивая стабильный интернет на пляжах и в отелях."
 
-  - city: "Guadalajara"
-    carriers: "Telcel"
-    reason: "Guadalajara is a tech hub with strong Telcel 5G presence. The city’s low latency (64 ms) and high speeds support video conferencing and cloud services for digital nomads."
-
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Mexiko eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Mexiko в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Navigate Mexico City’s historic center, use ride‑sharing apps, and stream museum guides with Telcel’s 80.6 Mbps speeds. Never get lost or miss a landmark."
+    title: "Исследователь города"
+    text: "Исследуйте исторический центр Мехико, пользуйтесь картами и бронируйте билеты онлайн. eSIM Roami с Telcel обеспечит быстрый доступ к информации."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike the Copper Canyon or explore the Sumidero Canyon. Telcel’s consistent network (90.5% reliability) ensures you can share your adventure in real time, even in remote areas."
+    title: "Любитель природы"
+    text: "Отправляйтесь в каньон Сумидеро или к пирамидам Теотиуакана. Делитесь фотографиями в реальном времени благодаря стабильному покрытию Telcel."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive from Cancún to Tulum along the Riviera Maya. Use GPS, stream music, and book accommodations on the go with Telcel’s 5G coverage along major highways."
+    title: "Путешественник на авто"
+    text: "Путешествуйте по стране на машине. Используйте навигацию, слушайте музыку и оставайтесь на связи в дороге. Telcel — лучший выбор для междугородних поездок."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on the beaches of Puerto Vallarta or Cabo San Lucas. Upload sunset photos instantly with 13.16 Mbps upload speed and stay connected with friends and family."
+    title: "Любитель пляжа"
+    text: "Отдыхайте на пляжах Канкуна или Плайя-дель-Кармен. Смотрите стримы, общайтесь с друзьями — высокая скорость 5G Telcel не подведет."
 
-scene_guide_footer: "💡 The Roami Mexiko eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Mexiko автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Mexiko eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Mexiko"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Can I make voice or video calls via WhatsApp, WeChat, or FaceTime using the Mexiko eSIM?"
-    a: "Yes, you can make voice and video calls over data using apps like WhatsApp, WeChat, and FaceTime. The eSIM provides a data‑only connection, so all VoIP services work seamlessly. Telcel’s low latency (64 ms) ensures clear, lag‑free calls."
+  - q: "Нужно ли включать роуминг данных в настройках смартфона для работы eSIM на Mexiko?"
+    a: "Да, для корректной работы eSIM в Мексике необходимо включить роуминг данных в настройках вашего смартфона. Это стандартное требование для всех виртуальных SIM-карт, работающих через зарубежные сети."
 
-  - q: "Which local mobile operators does the Roami eSIM connect to in Mexiko?"
-    a: "Roami eSIM connects to Telcel and Movistar, the two largest operators in Mexiko. Telcel offers the fastest speeds (80.6 Mbps median download) and best 5G coverage, while Movistar provides affordable urban connectivity."
+  - q: "Предлагает ли Roami возврат средств, если eSIM для Mexiko не работает, и какие условия?"
+    a: "Roami предлагает возврат средств в течение 30 дней с момента покупки, если eSIM не была активирована или не работает по техническим причинам. Для оформления возврата обратитесь в службу поддержки. Возврат не производится, если eSIM была активирована и использована."
 
-  - q: "Is there a limit on the number of connected devices when hotspot tethering with the Mexiko eSIM?"
-    a: "Most Roami eSIM plans allow hotspot tethering, but the number of connected devices may be limited by your device’s capabilities (typically 5–10 devices). Check your specific plan’s terms; some may have a Fair Usage Policy that throttles speeds after heavy tethering."
+  - q: "Поддерживает ли eSIM в Mexiko общенациональные сети 4G и 5G?"
+    a: "Да, eSIM Roami для Мексики подключается к общенациональным сетям 4G и 5G операторов Telcel и Movistar. Вы будете автоматически переключаться между ними в зависимости от доступности и качества сигнала."
 
-  - q: "Will I have a network signal with the eSIM in subways, deep valleys, or remote areas of Mexiko?"
-    a: "In subways and deep valleys, signal may be weak or unavailable. Telcel has the most extensive coverage in remote areas (90.5% consistency), but deep canyons and underground tunnels remain challenging. We recommend downloading offline maps and content before traveling to such areas."
+  - q: "Можно ли использовать eSIM для Mexiko в качестве основной карты для всех мобильных подключений к данным?"
+    a: "Да, eSIM Roami может использоваться как основная карта для передачи данных. Однако для звонков и SMS на ваш обычный номер потребуется физическая SIM-карта или другой eSIM профиль. Рекомендуется отключить роуминг данных на основной SIM, чтобы избежать дополнительных расходов."
 
-  - q: "Does network speed in major cities of Mexiko become noticeably slower during evening peak hours?"
-    a: "Yes, like any network, speeds can degrade during peak hours (7–10 PM) due to high usage. However, Telcel’s robust infrastructure minimizes this impact. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025), Telcel maintains a median download speed of 80.6 Mbps even during busy periods, ensuring a reliable experience."
+  - q: "Поддерживает ли eSIM для Mexiko раздачу интернета (хот-спот) для обмена данными с другими устройствами?"
+    a: "Да, eSIM Roami для Мексики поддерживает функцию раздачи интернета (хот-спот). Вы можете подключать к нему ноутбук, планшет или другие устройства. Обратите внимание, что скорость раздачи может быть ограничена в соответствии с политикой добросовестного использования."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Mexiko eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Mexiko"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "All eSIMs in Mexiko offer the same speed and coverage."
-    truth: "False. Telcel is significantly faster (80.6 Mbps median download) than Movistar (32.8 Mbps). Coverage also varies; Telcel has the most consistent network (90.5% reliability)."
+  - myth: "В Мексике очень медленный интернет, хуже, чем в соседних странах."
+    truth: "Неправда. Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025), медианная скорость мобильного интернета в Мексике составляет 57.78 Мбит/с, а 5G сеть Telcel достигает 212.68 Мбит/с — это одни из лучших показателей в Латинской Америке."
 
-  - myth: "You need a physical SIM to use 5G in Mexiko."
-    truth: "No. eSIMs support 5G on compatible devices. Telcel’s 5G network is accessible via eSIM, with median 5G download speeds of 212.68 Mbps."
+  - myth: "eSIM работает только в крупных городах, в сельской местности связи нет."
+    truth: "Это не так. Telcel, лидер рынка, обеспечивает покрытие 90.5% территории, включая многие сельские районы. Roami eSIM использует именно эту сеть, поэтому вы будете на связи даже в отдаленных местах."
 
-  - myth: "eSIMs are only for short‑term tourists."
-    truth: "eSIMs can be used for long‑term stays. Many providers offer monthly plans, and you can top up easily. Digital nomads often use eSIMs as their primary connection."
+  - myth: "Для использования eSIM нужно покупать новый телефон."
+    truth: "Нет. eSIM поддерживается большинством современных смартфонов (iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее). Проверьте <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">совместимость eSIM</a> вашего устройства на сайте Roami."
 
-  - myth: "Mexiko’s mobile networks are unreliable in cities."
-    truth: "Major cities like Mexico City, Monterrey, and Zapopan have excellent coverage. Telcel’s median download speed of 80.6 Mbps rivals many developed countries."
+  - myth: "Безлимитные тарифы eSIM — это всегда медленный интернет после первого гигабайта."
+    truth: "Не обязательно. Roami предлагает тарифы с высокой скоростью до достижения лимита добросовестного использования (обычно 1-2 ГБ в день), после чего скорость может быть снижена. Для большинства задач этого достаточно."
 
-  - myth: "You cannot use WhatsApp calls with an eSIM."
-    truth: "WhatsApp calls work perfectly over eSIM data. Telcel’s low latency (64 ms) ensures high‑quality voice and video calls."
+  - myth: "В Мексике нет 5G, это маркетинговый ход."
+    truth: "5G в Мексике активно развернут. Telcel имеет лучшую 5G сеть с медианной скоростью 212.68 Мбит/с. Покрытие 5G доступно в крупных городах и туристических зонах."
 
 
 # Data sources
-data_sources_title: "Mexiko mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Mexiko"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025)"
-    description: "Ookla’s Speedtest Intelligence report for Mexico 2H 2025 provides median download/upload speeds, 5G performance, and consistency metrics for Telcel and Movistar."
+    description: "Глобальный лидер в области тестирования скорости интернета. Данные за второе полугодие 2025 года (2H 2025) по мобильным и фиксированным сетям Мексики."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal’s Mobile Network Experience Report for Mexico 2025 offers insights on coverage, video experience, and latency across operators."
+    description: "Независимый аналитический центр, оценивающий качество мобильного опыта. Отчеты включают покрытие, скорость и стабильность сетей."
 
   - name: "IFT (Instituto Federal de Telecomunicaciones) 2025"
-    description: "The Mexican telecom regulator publishes annual reports on spectrum allocation, network quality, and operator market share, confirming Telcel’s leadership."
+    description: "Национальный регулятор телекоммуникаций Мексики. Предоставляет официальные данные о покрытии, спектре и качестве услуг операторов."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device, and time of day. Always check the latest coverage maps before traveling."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах, включая Ookla Speedtest Intelligence за 2H 2025. Roami не гарантирует, что скорость будет соответствовать указанным значениям в каждом конкретном случае."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от местоположения, времени суток, загрузки сети и технических характеристик устройства."
 
 # CTA product card
-cta_title: "Secure your Mexiko eSIM today"
-cta_desc: "Get immediate access to Telcel’s fastest 5G network with Roami eSIM. Instant activation, no roaming fees, and 24/7 support."
-cta_button_text: "Buy Mexiko eSIM now"
+cta_title: "Получите вашу eSIM для Mexiko сегодня"
+cta_desc: "Мгновенный доступ к самой быстрой сети 5G в Мексике. Без роуминга, без скрытых платежей. Активация за секунды."
+cta_button_text: "Купить eSIM для Mexiko сейчас"
 cta_button_link: "/mexico-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Mexiko trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Mexiko"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Mexiko eSIM: Hassle‑free alternative to physical SIM cards
+# Mexiko eSIM: Испытайте молниеносные скорости 5G
 
-> **💡 Short summary for travelers:** 【Seamless network switching across multiple countries: the new standard for traveling digital nomads】. Roami’s Mexiko eSIM connects you to Telcel’s award‑winning 5G network, which recorded a median download speed of 80.6 Mbps and a 5G median of 212.68 Mbps according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025). Whether you’re navigating Mexico City’s streets or streaming in Cancún, Roami ensures you stay productive and entertained without physical SIM hassles. Conclusion: Roami eSIM is the ultimate connectivity companion for digital nomads exploring Mexiko.
+> **💡 Краткое резюме для путешественников:** 【Лучший выбор для деловых поездок: трансграничные решения 5G с безлимитными данными】. Roami eSIM для Mexiko обеспечивает доступ к самой быстрой сети Telcel, которая, согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025), показала медианную скорость загрузки 80.6 Мбит/с (все технологии) и 212.68 Мбит/с в 5G. Это идеальное решение для бизнес-путешественников, которым нужна стабильная связь для видеоконференций и работы с большими файлами. Активация занимает секунды, а безлимитные тарифы позволяют не беспокоиться о трафике. Выбирайте Roami eSIM для Mexiko — молниеносный 5G без роуминга.
 
-## Things you need to know before buying a Mexiko eSIM
+## Что нужно знать перед покупкой eSIM для Mexiko
 
 
-### 1. Main 5G/4G frequency bands in Mexiko {#1-main-5g4g-frequency-bands-in-mexiko}
-Mexiko’s 5G networks primarily use the n41 (2500 MHz) and n78 (3500 MHz) bands. 4G LTE operates on bands 2 (1900 MHz), 4 (1700/2100 MHz AWS), 5 (850 MHz), and 7 (2600 MHz). Ensure your device supports these bands for optimal performance.
+### 1. Основные диапазоны частот 5G и 4G в Мексике {#1-основные-диапазоны-частот-5g-и-4g-в-мексике}
+Мексика активно развивает сети 5G. Основные диапазоны: 5G — n41 (2500 МГц), n78 (3500 МГц); 4G LTE — B2 (1900 МГц), B4 (1700/2100 МГц), B12 (700 МГц). Убедитесь, что ваш смартфон поддерживает эти частоты для максимальной скорости.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate a Mexiko eSIM, you must provide a valid passport or government‑issued ID. Some providers may require a selfie for verification. Roami simplifies this process with digital KYC during purchase.
+### 2. Требования KYC (идентификация) для eSIM {#2-требования-kyc-идентификация-для-esim}
+Для активации eSIM в Мексике может потребоваться загрузка паспорта или другого удостоверения личности. Roami упрощает этот процесс, но будьте готовы предоставить документы для соответствия местным законам.
 
-### 3. Fair Usage Policy (FUP) and data caps {#3-fair-usage-policy-fup-and-data-caps}
-Most prepaid eSIM plans in Mexiko have a Fair Usage Policy. After exceeding a certain data threshold (e.g., 10 GB per month), speeds may be throttled to 128 kbps. Check your plan details to avoid surprises.
+### 3. Политика добросовестного использования (FUP) {#3-политика-добросовестного-использования-fup}
+Большинство безлимитных тарифов имеют ограничение по скорости после превышения определенного объема трафика (обычно 1-2 ГБ в день). Внимательно читайте условия, чтобы избежать неожиданного замедления.
 
-### 4. Network coverage in remote areas {#4-network-coverage-in-remote-areas}
-Telcel offers the most extensive coverage in rural and mountainous regions, with 90.5% consistency. Movistar and AT&T have good urban coverage but may be spotty in remote areas. Always download offline maps as a backup.
+### 4. Совместимость устройств и настройка APN {#4-совместимость-устройств-и-настройка-apn}
+eSIM работает на большинстве современных смартфонов (iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее). В некоторых случаях может потребоваться ручная настройка APN. Инструкции прилагаются к покупке.
 
-### 5. eSIM compatibility and device restrictions {#5-esim-compatibility-and-device-restrictions}
-Most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer) support eSIM. Carrier‑locked devices may not work. Verify your device is unlocked before purchasing.
+### 5. Роуминг и международные звонки {#5-роуминг-и-международные-звонки}
+eSIM Roami предназначена только для передачи данных. Для звонков используйте мессенджеры (WhatsApp, Telegram). Входящие звонки на ваш обычный номер могут тарифицироваться отдельно — отключите роуминг данных на основной SIM.

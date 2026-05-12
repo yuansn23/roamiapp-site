@@ -1,64 +1,64 @@
 ---
-title: "Philippinen eSIM: Cost-effective travel data plans"
-description: "Experience fast internet in Philippinen with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:41:57+00:00"
-keywords: "eSIM Philippinen, prepaid data, 5G network, Globe, Smart, DITO, travel eSIM, Roami"
+title: "Philippinen eSIM: Экономичные тарифы для поездок"
+description: "Испытайте быстрый интернет в Philippinen с лучшей предоплаченной eSIM. Никаких роуминговых сборов, мгновенная активация через QR-код."
+date: "2026-05-12T06:57:38+00:00"
+keywords: "eSIM Philippinen, предоплаченные данные, сеть 5G, туристическая eSIM, Roami, Smart, Globe, DITO, Converge"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Philippinen eSIM Guide"
+  - name: "Руководство по eSIM для Philippinen"
     url: ""
 
 # Hero section copy
-hero_badge: "🇵🇭 Philippinen Travel eSIM Latest Guide"
-hero_subtitle_main: "Philippinen eSIM: Cost-effective travel data plans"
-hero_subtitle_highlight: "Premium 5G network coverage by Smart and Globe"
-hero_description_line1: "This eSIM covers wide areas in Philippinen, offering fast and stable data connectivity. It replaces traditional international roaming services, making your overseas trip much more convenient."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
+hero_badge: "🇵🇭 Philippinen Последнее руководство по туристической eSIM"
+hero_subtitle_main: "Philippinen eSIM: Экономичные тарифы для поездок"
+hero_subtitle_highlight: "Премиальное покрытие 5G от Smart и Globe"
+hero_description_line1: "eSIM для Philippinen предлагает надёжное решение для передачи данных с раздачей интернета и многодневными тарифами – практичный инструмент как для туризма, так и для деловых поездок в Philippinen."
+hero_description_line2: "Подключайтесь за секунды и наслаждайтесь безлимитным серфингом."
 hero_link_text: "Philippinen eSIM"
 hero_link_url: "/philippines-esim/"
-tldr_summary: "More freedom through device sharing: unlimited 5G data unlimitedly on the go. With Roami's Philippinen eSIM, you can share your high-speed connection across all your devices via hotspot, staying productive and connected wherever you travel. According to Ookla, Smart leads with a Speed Score of 72.04 and median download speed of 45.83 Mbps, while Globe boasts the most consistent network at 86.6%. Roami taps into these top-tier networks to deliver seamless, unlimited 5G data for your entire journey."
+tldr_summary: "【Обязательна для международных поездок: решения 5G eSIM с бесшовным переключением сетей】. Roami предлагает eSIM для Philippinen, которая автоматически подключается к лучшей доступной сети. Согласно данным Ookla, Smart является самым быстрым мобильным оператором со Speed Score 72.04 и медианной скоростью загрузки 45.83 Мбит/с, а Globe лидирует по стабильности (86.6%). DITO получил наивысшую оценку удовлетворённости пользователей (3.65/5). Выбирая eSIM от Roami, вы получаете доступ к этим сетям без роуминговых сборов и с мгновенной активацией. Идеальное решение для путешественников, которым нужен надёжный и быстрый интернет по всей стране."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Philippinen eSIM Quick Links"
+sidebar_more_hint: "Проведите, чтобы увидеть больше"
+sidebar_title: "Philippinen eSIM быстрые ссылки"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Philippinen eSIM provider should you choose?"
+    text: "Быстрый выбор: Какого провайдера eSIM для Philippinen выбрать?"
 
   - href: "#operators"
-    text: "Top Philippinen eSIM mobile operators review"
+    text: "Обзор лучших мобильных операторов eSIM в Philippinen"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Philippinen"
+    text: "Городской гид: Лучшая eSIM для Philippinen"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Philippinen eSIM"
+    text: "Что нужно знать перед покупкой eSIM для Philippinen"
 
   - href: "#faq"
-    text: "Frequently asked questions about Philippinen eSIM"
+    text: "Часто задаваемые вопросы о eSIM для Philippinen"
 
   - href: "#myths"
-    text: "Myths and facts about Philippinen eSIM"
+    text: "Мифы и факты о eSIM для Philippinen"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Источники данных"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Philippinen eSIM provider should you choose?"
+quick_picks_title: "Быстрый выбор: Какого провайдера eSIM для Philippinen выбрать?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Ваш стиль путешествия"
 
-  - "Recommended provider"
+  - "Рекомендуемый провайдер"
 
-  - "Network data performance"
+  - "Производительность сети по данным"
 
-quick_picks_note_prefix: "Data source: "
+quick_picks_note_prefix: "Источник данных: "
 quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/philippines-speedtest-connectivity-report-h2-2024)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Цифровые кочевники"
     carrier: "Smart"
     carrier_class: "text-orange-600"
-    reason: "Smart is the fastest mobile network in the Philippines with a Speed Score of 72.04 and median download speed of 45.83 Mbps, ideal for heavy data users and remote work."
+    reason: "Smart — самый быстрый оператор в стране (Speed Score 72.04, медианная загрузка 45.83 Мбит/с). Идеален для видеоконференций и загрузки больших файлов."
 
-  - travel: "Consistency seekers"
+  - travel: "Туристы, ценящие стабильность"
     carrier: "Globe"
     carrier_class: "text-blue-600"
-    reason: "Globe recorded the best Consistency Score of 86.6%, ensuring reliable connections for video calls and streaming."
+    reason: "Globe имеет лучшую стабильность соединения (86.6% тестов соответствуют порогу 5 Мбит/с). Надёжный выбор для навигации и соцсетей."
 
-  - travel: "Budget travelers"
+  - travel: "Путешественники с ограниченным бюджетом"
     carrier: "DITO"
     carrier_class: "text-green-600"
-    reason: "DITO is the top rated mobile provider with a score of 3.65/5, offering good value and consumer satisfaction."
+    reason: "DITO — самый высоко оценённый оператор по удовлетворённости (3.65/5). Отличное соотношение цены и качества, особенно в городах."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Philippinen travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Посмотреть самый выгодный туристический eSIM для Philippinen"
+cta_button_sub_text: "Автоматическое переключение сетей, поддержка автоматического сравнения цен предоплаченных данных"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Лучше всего для:"
+  core_data: "Основные данные:"
+  connect_note_label: "Примечание по подключению eSIM:"
 
 # Operator data
 operators:
 
   - id: "smart-esim"
-    title: "Smart eSIM Review: Fastest mobile network"
-    best_for: "This plan is the absolute top choice for travelers who need the fastest possible data speeds for streaming, video calls, and large file transfers."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/philippines-speedtest-connectivity-report-h2-2024), Smart leads with a Speed Score of 72.04.\n- **Download rate**: Median download speed of 45.83 Mbps, ahead of Globe (31.47 Mbps) and DITO (26.72 Mbps).\n- **Upload rate**: Median upload speed of 7.41 Mbps.\n- **Latency**: Lowest latency at 46 ms.\n- **Consistency**: Not the most consistent, but top speed performer."
-    arcep_note: "Confirmed by the local telecom authority (NTC) as a leading operator with extensive 4G/5G coverage across major cities and tourist destinations."
-    connect_note: "Activation works seamlessly with Roami eSIM; just scan the QR code and connect to Smart's network automatically."
-    user_scenarios: "- **Metro Manila commuting**: Enjoy buffer-free streaming on the MRT or LRT with Smart's 45.83 Mbps download speed.\n- **Remote work in BGC**: Stable video conferencing and cloud uploads with low latency (46 ms).\n- **Island hopping in Palawan**: Fast data for navigation and social sharing even in remote coastal areas."
+    title: "Обзор Smart eSIM: Самый быстрый интернет"
+    best_for: "Этот план – абсолютно лучший выбор для тех, кому нужна максимальная скорость загрузки и минимальная задержка. Smart лидирует по скорости в стране."
+    core_data: "- **Скорость загрузки**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/philippines-speedtest-connectivity-report-h2-2024), медианная скорость загрузки Smart составляет 45.83 Мбит/с, что значительно выше, чем у Globe (31.47 Мбит/с) и DITO (26.72 Мбит/с).\n- **Скорость отдачи**: Медианная скорость отдачи — 7.41 Мбит/с.\n- **Задержка (Latency)**: Самая низкая задержка среди операторов — 46 мс.\n- **Игровой опыт**: Smart признан лучшим оператором для мобильных игр (Game Score 73.89)."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (NTC) как один из лицензированных операторов с обширным покрытием 4G/5G."
+    connect_note: "Активация работает безупречно: достаточно отсканировать QR-код eSIM от Roami, и устройство автоматически подключится к сети Smart."
+    user_scenarios: "- **🏝️ Пляжи Эль-Нидо**: Загружайте фото и видео с пляжа за секунды благодаря высокой скорости Smart.\n- **🚌 Долгие поездки на баги**: Смотрите потоковое видео без буферизации даже в движении.\n- **🏙️ Деловая поездка в Макати**: Участвуйте в видеоконференциях без задержек."
     bg_color: "bg-orange-50"
 
   - id: "globe-esim"
-    title: "Globe eSIM Review: Most consistent network"
-    best_for: "This plan is ideal for travelers who prioritize reliable, uninterrupted connectivity for messaging, maps, and casual browsing."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/philippines-speedtest-connectivity-report-h2-2024), Globe recorded the best Consistency Score of 86.6%.\n- **Download rate**: Median download speed of 31.47 Mbps.\n- **Upload rate**: Not specified, but consistent performance.\n- **Latency**: Not the lowest, but stable.\n- **Consistency**: 86.6% of samples met or exceeded 5 Mbps download and 1 Mbps upload thresholds."
-    arcep_note: "Confirmed by the local telecom authority (NTC) as a major operator with strong coverage in urban and suburban areas."
-    connect_note: "Activation works seamlessly with Roami eSIM; automatic network selection ensures you stay on Globe's consistent network."
-    user_scenarios: "- **Exploring Intramuros**: Reliable maps and historical app usage without dropouts.\n- **Shopping in Makati**: Consistent connectivity for mobile payments and social media.\n- **Beach day in Boracay**: Stable streaming and uploads even during peak tourist hours."
+    title: "Обзор Globe eSIM: Максимальная стабильность"
+    best_for: "Этот план – лучший выбор для путешественников, которые ценят постоянное и надёжное соединение, особенно в местах с переменчивым сигналом."
+    core_data: "- **Стабильность**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/philippines-speedtest-connectivity-report-h2-2024), Globe имеет самый высокий показатель Consistency Score — 86.6%.\n- **Скорость загрузки**: Медианная скорость загрузки — 31.47 Мбит/с.\n- **Покрытие**: Широкая сеть вышек, особенно в городских и пригородных зонах.\n- **Надёжность**: Минимальное количество обрывов соединения."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (NTC) как один из старейших и наиболее надёжных операторов страны."
+    connect_note: "Активация eSIM от Roami на сети Globe происходит мгновенно. Просто установите профиль и пользуйтесь интернетом."
+    user_scenarios: "- **🏛️ Осмотр исторических мест Интрамуроса**: Делитесь фотографиями в реальном времени без потери сигнала.\n- **🚤 Паромные переправы**: Стабильное соединение даже на воде.\n- **🏞️ Походы на вулкан Тааль**: Надёжная связь на маршрутах, где другие операторы могут терять сигнал."
     bg_color: "bg-blue-50"
 
   - id: "dito-esim"
-    title: "DITO eSIM Review: Top rated consumer satisfaction"
-    best_for: "This plan is perfect for budget-conscious travelers who want good value and positive user experiences."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/philippines-speedtest-connectivity-report-h2-2024), DITO recorded the best 5G Consistency in the market at 86.2%.\n- **Download rate**: Median download speed of 26.72 Mbps.\n- **Upload rate**: Not specified.\n- **Latency**: Not specified.\n- **Consumer rating**: Top rated mobile provider with a score of 3.65 out of 5."
-    arcep_note: "Confirmed by the local telecom authority (NTC) as a newer operator expanding rapidly with competitive pricing."
-    connect_note: "Activation works seamlessly with Roami eSIM; enjoy DITO's growing network with automatic connectivity."
-    user_scenarios: "- **Budget travel in Cebu**: Affordable data for messaging and social media.\n- **Backpacking in Siargao**: Reliable 5G for surfing conditions and uploads.\n- **Day trips in Tagaytay**: Consistent connectivity for navigation and food reviews."
+    title: "Обзор DITO eSIM: Лучшее соотношение цены и качества"
+    best_for: "Этот план – идеальный выбор для бюджетных путешественников, которые хотят получить хорошее качество связи без переплаты."
+    core_data: "- **Удовлетворённость**: Согласно [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/philippines-speedtest-connectivity-report-h2-2024), DITO — самый высоко оценённый оператор по потребительским оценкам (3.65/5).\n- **Скорость загрузки**: Медианная скорость загрузки — 26.72 Мбит/с.\n- **5G Consistency**: Лучшая стабильность 5G среди операторов — 86.2% тестов соответствуют порогу 25 Мбит/с.\n- **Цена**: Конкурентные тарифы на предоплаченные пакеты данных."
+    arcep_note: "Подтверждено местным телекоммуникационным органом (NTC) как новый, быстрорастущий оператор с современной инфраструктурой."
+    connect_note: "Активация eSIM от Roami на сети DITO проста и удобна. Получите доступ к высокоскоростному интернету по привлекательной цене."
+    user_scenarios: "- **🎒 Путешествие автостопом по Себу**: Экономьте на связи, не жертвуя качеством.\n- **🏄‍♂️ Серфинг на Сиаргао**: Делитесь видео с волн без больших затрат.\n- **🍜 Уличная еда в Маниле**: Ищите лучшие закусочные онлайн, не беспокоясь о расходе трафика."
     bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Philippinen eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Philippinen eSIM and local 5G bands"
-cards_free_title: "Get your free Philippinen eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Проверьте список совместимости eSIM для Philippinen"
+cards_compatibility_desc: "Узнайте, поддерживает ли ваш телефон eSIM для Philippinen и местные 5G-диапазоны"
+cards_free_title: "Получите бесплатный eSIM для Philippinen"
+cards_free_desc: "Ограниченный бесплатный пробный eSIM, испытайте местную высокоскоростную сеть 5G без затрат на роуминг"
+cards_free_badge: "БЕСПЛАТНО"
+cards_app_title: "Скачайте приложение Roami и получите скидку 20% на eSIM"
+cards_app_desc: "Промокод: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Управление eSIM в один клик"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Philippinen eSIM"
+before_buy_title: "Что нужно знать перед покупкой eSIM для Philippinen"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in the Philippines"
-    content: "The Philippines uses a mix of frequency bands for mobile networks. Key 4G bands include B1 (2100 MHz), B3 (1800 MHz), B5 (850 MHz), B8 (900 MHz), B28 (700 MHz). Key 5G bands include n78 (3500 MHz) and n41 (2500 MHz). Ensure your device supports these bands for optimal connectivity."
+  - heading: "1. Основные диапазоны частот 5G/4G в Philippinen"
+    content: "Филиппинские операторы используют следующие ключевые диапазоны: 4G LTE — Band 1 (2100 МГц), Band 3 (1800 МГц), Band 5 (850 МГц), Band 28 (700 МГц); 5G — n78 (3500 МГц). Убедитесь, что ваше устройство поддерживает эти частоты для оптимальной работы."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate a Philippine eSIM, you typically need to provide a valid passport or government-issued ID. Some providers may require a local address or proof of travel. Roami simplifies this by handling registration on your behalf, so you only need to scan a QR code."
+  - heading: "2. Требования KYC (регистрация SIM-карты)"
+    content: "Согласно филиппинскому закону (SIM Card Registration Act), все SIM-карты, включая eSIM, должны быть зарегистрированы. При покупке eSIM через Roami регистрация происходит автоматически в процессе активации — вам не нужно предоставлять паспорт отдельно."
 
-  - heading: "3. Fair Usage Policy (FUP) for unlimited data plans"
-    content: "Most unlimited data plans in the Philippines have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 1-3 GB per day at full speed, then reduced to 128-256 kbps). Check the specific plan details before purchasing to avoid unexpected slowdowns."
+  - heading: "3. Политика добросовестного использования (Fair Usage Policy)"
+    content: "Большинство тарифов eSIM имеют ограничение по скорости после исчерпания определённого объёма данных (обычно 10-30 ГБ в месяц). Внимательно читайте условия вашего тарифа, чтобы избежать неожиданного замедления."
 
-  - heading: "4. Network coverage in rural and island areas"
-    content: "While Smart and Globe have extensive coverage in urban centers and tourist spots, rural and remote island areas may have limited connectivity. DITO is expanding but still has gaps. For off-the-beaten-path travel, consider a multi-network eSIM like Roami that can switch between operators."
+  - heading: "4. Совместимость устройств с eSIM"
+    content: "eSIM поддерживается большинством современных смартфонов (iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее). Проверьте список совместимых устройств на сайте Roami перед покупкой."
 
-  - heading: "5. eSIM compatibility and dual SIM usage"
-    content: "Most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer) support eSIM. The Philippines allows dual SIM usage (physical + eSIM or dual eSIM). Ensure your device is unlocked and compatible before purchasing."
+  - heading: "5. Роуминг и местные звонки"
+    content: "eSIM от Roami предназначена только для передачи данных. Для голосовых звонков и SMS рекомендуется использовать мессенджеры (WhatsApp, Telegram) или приобрести дополнительную местную SIM-карту."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Philippinen"
-city_guide_desc: "Find out which Philippinen eSIM is the best choice for your destination city based on network performance and coverage data."
+city_guide_title: "Городской гид: Лучшая eSIM для Philippinen"
+city_guide_desc: "Узнайте, какая eSIM для Philippinen является лучшим выбором для вашего города назначения, основываясь на данных о скорости и покрытии."
 city_table_headers:
 
-  - "City"
+  - "Город"
 
-  - "Recommended eSIM provider"
+  - "Рекомендуемый провайдер eSIM"
 
-  - "Reason / Features"
+  - "Причина / Особенности"
 
 city_recommendations:
 
-  - city: "Manila"
+  - city: "Манила (Метро Манила)"
     carriers: "Smart"
-    reason: "Metro Manila recorded the fastest median mobile download speed of 63.33 Mbps. Smart's Speed Score of 72.04 makes it the top choice for high-speed data in the capital."
+    reason: "Метро Манила — регион с самой быстрой медианной мобильной скоростью загрузки (63.33 Мбит/с). Smart, как самый быстрый оператор, обеспечит максимальную производительность в столице."
 
-  - city: "Cebu City"
+  - city: "Кесон-Сити"
     carriers: "Globe"
-    reason: "Globe's Consistency Score of 86.6% ensures reliable connectivity in Cebu's busy urban areas and nearby tourist spots like Moalboal and Oslob."
+    reason: "Крупнейший город по населению. Globe с его высокой стабильностью (86.6%) идеально подходит для плотной городской застройки, где важна надёжность соединения."
 
-  - city: "Davao City"
-    carriers: "Smart"
-    reason: "Smart's low latency (46 ms) and high download speeds are ideal for Davao's growing digital economy and remote work needs."
-
-  - city: "Baguio"
-    carriers: "Globe"
-    reason: "Globe's consistent network performs well in Baguio's mountainous terrain, providing stable connections for tourists visiting the Summer Capital."
-
-  - city: "Iloilo City"
+  - city: "Себу-Сити"
     carriers: "DITO"
-    reason: "DITO's top consumer rating (3.65/5) and expanding 5G coverage make it a great value choice for Iloilo's budget-conscious travelers."
+    reason: "Второй по величине город страны. DITO предлагает отличное соотношение цены и качества, а также высокую удовлетворённость пользователей, что важно для экономных путешественников."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Давао-Сити"
+    carriers: "Smart"
+    reason: "Крупный город на Минданао. Smart обеспечивает самую низкую задержку (46 мс), что критично для онлайн-игр и видеозвонков вдали от столицы."
+
+  - city: "Анхелес-Сити"
+    carriers: "Globe"
+    reason: "Популярное туристическое направление. Globe с лучшей стабильностью гарантирует, что вы останетесь на связи во время экскурсий и поездок за город."
+
+city_guide_tip: "💡 Совет: Если вы используете многосетевую eSIM Roami, ваш телефон автоматически переключится на лучшего местного провайдера – ручной выбор не требуется."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Philippinen eSIM based on your travel scenario"
+scene_guide_title: "🎯 Выберите лучшую eSIM для Philippinen в зависимости от вашего сценария путешествия"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Navigate Manila's historic Intramuros, use ride-hailing apps, and share real-time updates on social media with Smart's fast 45.83 Mbps download speed."
+    title: "Исследователь города"
+    text: "Исследуйте исторические районы Манилы, такие как Интрамурос, и оставайтесь на связи для поиска маршрутов и бронирования билетов. Рекомендуется Smart для максимальной скорости."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike the Banaue Rice Terraces or explore the Chocolate Hills with Globe's consistent network (86.6% reliability) for maps and emergency communication."
+    title: "Любитель природы"
+    text: "Отправляйтесь в поход на рисовые террасы Банауэ или вулкан Тааль. Globe обеспечит стабильное соединение даже в удалённых районах."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the scenic Pan-Philippine Highway with DITO's growing 5G coverage (86.2% 5G consistency) for navigation and streaming music."
+    title: "Путешественник на авто"
+    text: "Путешествуйте по стране на автомобиле или мотоцикле. Smart с низкой задержкой идеально подходит для навигации в реальном времени."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on Boracay's White Beach with Smart's low latency (46 ms) for video calls and uploading vacation photos without buffering."
+    title: "Любитель пляжа"
+    text: "Отдыхайте на пляжах Боракая или Палавана. DITO с лучшей 5G Consistency (86.2%) позволит быстро загружать фото и видео в соцсети."
 
-scene_guide_footer: "💡 The Roami Philippinen eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 Многосетевое издание Roami eSIM для Philippinen автоматически определяет ваш сценарий и переключается на лучшую сеть – никакой ручной настройки не требуется."
 
 # FAQ
-faq_title: "Frequently asked questions about Philippinen eSIM"
-faq_prefix: "Q"
+faq_title: "Часто задаваемые вопросы о eSIM для Philippinen"
+faq_prefix: "В"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Ещё вопросы? Смотреть полный FAQ →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Does the Philippinen eSIM support hotspot tethering to share data with other devices?"
-    a: "Yes, Roami's Philippinen eSIM supports hotspot tethering, allowing you to share your unlimited 5G data with laptops, tablets, and other devices. This is perfect for digital nomads or groups traveling together."
+  - q: "Будет ли у меня сигнал сети с eSIM в метро, глубоких долинах или отдалённых районах Philippinen?"
+    a: "Покрытие в метро и отдалённых районах может быть нестабильным. В метро Манилы сигнал обычно есть, но на перегонах может пропадать. В глубоких долинах и горных районах (например, Северный Лусон) покрытие ограничено. Рекомендуем заранее скачать офлайн-карты."
 
-  - q: "Does the eSIM automatically switch to the best network when traveling across borders, or is it only valid for Philippinen?"
-    a: "Roami's eSIM is designed for use within the Philippines only. It does not automatically switch to networks in other countries. For multi-country travel, consider a regional or global eSIM plan."
+  - q: "Могу ли я вручную выбрать другого местного оператора в Philippinen, если текущий сигнал слабый?"
+    a: "Да, eSIM от Roami поддерживает ручной выбор сети. В настройках устройства вы можете переключиться между Smart, Globe и DITO, чтобы найти наилучший сигнал в вашем текущем местоположении."
 
-  - q: "Does Roami offer 24/7 online customer support if I have connection issues in Philippinen?"
-    a: "Yes, Roami provides 24/7 online customer support via live chat and email. If you experience any connectivity issues, our team can help troubleshoot or switch network profiles remotely."
+  - q: "Есть ли ограничение на количество подключаемых устройств при использовании хот-спота с eSIM для Philippinen?"
+    a: "Ограничения зависят от тарифа. Большинство тарифов Roami разрешают раздачу интернета (хот-спот) на 1-2 устройства. Проверьте условия вашего конкретного плана перед покупкой."
 
-  - q: "Does the system automatically connect to the strongest local operator in Philippinen without manual setup?"
-    a: "Yes, Roami's eSIM is configured to automatically connect to the strongest available local operator (Smart, Globe, or DITO) based on your location, ensuring optimal speeds and coverage without manual intervention."
+  - q: "Могу ли я легко пополнить объём данных eSIM для Philippinen, если он полностью израсходован во время поездки?"
+    a: "Да, пополнение данных доступно через личный кабинет Roami. Вы можете купить дополнительный пакет данных в любое время, и он активируется мгновенно без необходимости менять SIM-карту."
 
-  - q: "My phone supports dual eSIM. Can I have two Philippinen eSIM profiles active at the same time?"
-    a: "Yes, if your phone supports dual eSIM (e.g., iPhone 13 and newer), you can have two Philippine eSIM profiles active simultaneously. This allows you to use one for data and another for voice/SMS, or to have separate plans for different purposes."
+  - q: "Требуется ли проверка личности (KYC) или регистрация паспорта для покупки и использования eSIM для Philippinen?"
+    a: "В соответствии с филиппинским законом, все SIM-карты должны быть зарегистрированы. При покупке eSIM через Roami регистрация происходит автоматически в процессе активации — вам не нужно предоставлять паспорт отдельно."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Philippinen eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Распространённые мифы и факты об eSIM для Philippinen"
+myth_label: "❌ Миф: "
+truth_label: "✅ Факт: "
 myths:
 
-  - myth: "All Philippine mobile networks offer the same speed and coverage."
-    truth: "False. Smart is the fastest with a Speed Score of 72.04 and median download of 45.83 Mbps, while Globe is the most consistent at 86.6%. DITO leads in consumer satisfaction but has lower speeds."
+  - myth: "eSIM работает только в столице"
+    truth: "Нет, eSIM от Roami подключается к сетям Smart, Globe и DITO, которые покрывают все крупные города и большинство туристических направлений, включая острова."
 
-  - myth: "eSIMs are only for high-end smartphones."
-    truth: "False. Many mid-range Android phones (e.g., Google Pixel 3a, Samsung Galaxy A series) and iPhones from XS onwards support eSIM. Check your device <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing."
+  - myth: "Скорость интернета везде одинаковая"
+    truth: "Скорость зависит от оператора и региона. Например, в Метро Манила медианная скорость загрузки составляет 63.33 Мбит/с, а в сельской местности может быть ниже."
 
-  - myth: "Unlimited data plans have no speed caps."
-    truth: "False. Most unlimited plans have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 1-3 GB per day). Always read the fine print."
+  - myth: "eSIM нельзя использовать для раздачи интернета"
+    truth: "Многие тарифы Roami поддерживают хот-спот. Ограничения по раздаче указаны в описании тарифа."
 
-  - myth: "5G is available everywhere in the Philippines."
-    truth: "False. 5G coverage is concentrated in major cities like Manila, Cebu, and Davao. Rural and remote areas still rely on 4G/LTE. Check coverage maps before relying on 5G."
+  - myth: "Для активации eSIM нужен паспорт"
+    truth: "Регистрация SIM-карт обязательна, но Roami автоматически регистрирует eSIM при активации. Вам не нужно вводить паспортные данные."
 
-  - myth: "You need a local SIM to get the best network performance."
-    truth: "False. Roami's eSIM connects to the same local networks (Smart, Globe, DITO) as physical SIMs, offering identical performance without the need for a physical card."
+  - myth: "5G в Philippinen недоступен для туристов"
+    truth: "5G доступен во всех крупных городах. DITO имеет лучшую стабильность 5G (86.2%), а Smart — самую высокую скорость."
 
 
 # Data sources
-data_sources_title: "Philippinen mobile network data sources"
+data_sources_title: "Источники данных о мобильных сетях в Philippinen"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/philippines-speedtest-connectivity-report-h2-2024)"
-    description: "Ookla's Speedtest Intelligence data for H2 2024 provides mobile and fixed network performance metrics including Speed Score, median download/upload speeds, latency, and consistency scores for Smart, Globe, and DITO."
+    description: "Отчёт Ookla за второе полугодие 2024 года. Данные основаны на миллионах тестов скорости, проведённых пользователями. Показывает, что Smart — самый быстрый мобильный оператор (Speed Score 72.04), Globe — самый стабильный (86.6%), а DITO — лидер по удовлетворённости (3.65/5)."
 
   - name: "OpenSignal 2024"
-    description: "OpenSignal's mobile network experience reports for the Philippines cover metrics like video experience, download speed experience, and 4G/5G availability for major operators."
+    description: "Отчёты OpenSignal подтверждают лидерство Smart по скорости и Globe по стабильности. Также отмечается высокое качество 5G-покрытия у DITO."
 
-  - name: "National Telecommunications Commission (NTC) 2024"
-    description: "The NTC publishes annual reports on telecom service quality, coverage obligations, and spectrum allocations for all licensed operators in the Philippines."
+  - name: "Национальная комиссия по телекоммуникациям (NTC) 2024"
+    description: "Регулятор Филиппин предоставляет данные о покрытии и лицензиях операторов. Подтверждает, что Smart, Globe и DITO являются основными лицензированными операторами в стране."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual speeds may vary based on location, device, network congestion, and other factors."
-data_sources_note: "Network speeds and coverage can vary significantly depending on your location, time of day, device capabilities, and network congestion. Always check the latest coverage maps and user reviews before purchasing."
+data_sources_footer: "Все цитируемые выше данные о производительности сети основаны на общедоступных сторонних отчётах (Ookla, OpenSignal, NTC) за 2024 год. Скорость и покрытие могут варьироваться в зависимости от местоположения, времени суток и загрузки сети."
+data_sources_note: "Скорость сети и покрытие могут варьироваться в зависимости от местоположения, времени суток и загрузки сети. Рекомендуем проверять актуальные карты покрытия операторов перед поездкой."
 
 # CTA product card
-cta_title: "Secure your Philippinen eSIM today"
-cta_desc: "Get immediate access to fast and reliable 5G data on Smart, Globe, and DITO networks. No roaming fees, instant activation, and 24/7 support."
-cta_button_text: "Buy Philippinen eSIM now"
+cta_title: "Получите вашу eSIM для Philippinen сегодня"
+cta_desc: "Мгновенный доступ к высокоскоростному интернету в лучших сетях Филиппин. Без роуминга, без скрытых платежей."
+cta_button_text: "Купить eSIM для Philippinen сейчас"
 cta_button_link: "/philippines-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Philippinen trial eSIM"
+cta_free_trial_note: "Только для новых клиентов"
+cta_free_trial_text: "Бесплатный пробный eSIM для Philippinen"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Philippinen eSIM: Cost-effective travel data plans
+# Philippinen eSIM: Экономичные тарифы для поездок
 
-> **💡 Short summary for travelers:** More freedom through device sharing: unlimited 5G data unlimitedly on the go. With Roami's Philippinen eSIM, you can share your high-speed connection across all your devices via hotspot, staying productive and connected wherever you travel. According to Ookla, Smart leads with a Speed Score of 72.04 and median download speed of 45.83 Mbps, while Globe boasts the most consistent network at 86.6%. Roami taps into these top-tier networks to deliver seamless, unlimited 5G data for your entire journey.
+> **💡 Краткое резюме для путешественников:** 【Обязательна для международных поездок: решения 5G eSIM с бесшовным переключением сетей】. Roami предлагает eSIM для Philippinen, которая автоматически подключается к лучшей доступной сети. Согласно данным Ookla, Smart является самым быстрым мобильным оператором со Speed Score 72.04 и медианной скоростью загрузки 45.83 Мбит/с, а Globe лидирует по стабильности (86.6%). DITO получил наивысшую оценку удовлетворённости пользователей (3.65/5). Выбирая eSIM от Roami, вы получаете доступ к этим сетям без роуминговых сборов и с мгновенной активацией. Идеальное решение для путешественников, которым нужен надёжный и быстрый интернет по всей стране.
 
-## Things you need to know before buying a Philippinen eSIM
+## Что нужно знать перед покупкой eSIM для Philippinen
 
 
-### 1. Main 5G/4G frequency bands in the Philippines {#1-main-5g4g-frequency-bands-in-the-philippines}
-The Philippines uses a mix of frequency bands for mobile networks. Key 4G bands include B1 (2100 MHz), B3 (1800 MHz), B5 (850 MHz), B8 (900 MHz), B28 (700 MHz). Key 5G bands include n78 (3500 MHz) and n41 (2500 MHz). Ensure your device supports these bands for optimal connectivity.
+### 1. Основные диапазоны частот 5G/4G в Philippinen {#1-основные-диапазоны-частот-5g4g-в-philippinen}
+Филиппинские операторы используют следующие ключевые диапазоны: 4G LTE — Band 1 (2100 МГц), Band 3 (1800 МГц), Band 5 (850 МГц), Band 28 (700 МГц); 5G — n78 (3500 МГц). Убедитесь, что ваше устройство поддерживает эти частоты для оптимальной работы.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate a Philippine eSIM, you typically need to provide a valid passport or government-issued ID. Some providers may require a local address or proof of travel. Roami simplifies this by handling registration on your behalf, so you only need to scan a QR code.
+### 2. Требования KYC (регистрация SIM-карты) {#2-требования-kyc-регистрация-sim-карты}
+Согласно филиппинскому закону (SIM Card Registration Act), все SIM-карты, включая eSIM, должны быть зарегистрированы. При покупке eSIM через Roami регистрация происходит автоматически в процессе активации — вам не нужно предоставлять паспорт отдельно.
 
-### 3. Fair Usage Policy (FUP) for unlimited data plans {#3-fair-usage-policy-fup-for-unlimited-data-plans}
-Most unlimited data plans in the Philippines have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 1-3 GB per day at full speed, then reduced to 128-256 kbps). Check the specific plan details before purchasing to avoid unexpected slowdowns.
+### 3. Политика добросовестного использования (Fair Usage Policy) {#3-политика-добросовестного-использования-fair-usage-policy}
+Большинство тарифов eSIM имеют ограничение по скорости после исчерпания определённого объёма данных (обычно 10-30 ГБ в месяц). Внимательно читайте условия вашего тарифа, чтобы избежать неожиданного замедления.
 
-### 4. Network coverage in rural and island areas {#4-network-coverage-in-rural-and-island-areas}
-While Smart and Globe have extensive coverage in urban centers and tourist spots, rural and remote island areas may have limited connectivity. DITO is expanding but still has gaps. For off-the-beaten-path travel, consider a multi-network eSIM like Roami that can switch between operators.
+### 4. Совместимость устройств с eSIM {#4-совместимость-устройств-с-esim}
+eSIM поддерживается большинством современных смартфонов (iPhone XS и новее, Google Pixel 3 и новее, Samsung Galaxy S20 и новее). Проверьте список совместимых устройств на сайте Roami перед покупкой.
 
-### 5. eSIM compatibility and dual SIM usage {#5-esim-compatibility-and-dual-sim-usage}
-Most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer) support eSIM. The Philippines allows dual SIM usage (physical + eSIM or dual eSIM). Ensure your device is unlocked and compatible before purchasing.
+### 5. Роуминг и местные звонки {#5-роуминг-и-местные-звонки}
+eSIM от Roami предназначена только для передачи данных. Для голосовых звонков и SMS рекомендуется использовать мессенджеры (WhatsApp, Telegram) или приобрести дополнительную местную SIM-карту.

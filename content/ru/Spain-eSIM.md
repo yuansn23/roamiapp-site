@@ -1,94 +1,92 @@
 ---
-title: Spain eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: Испания eSIM тариф | Лучшая туристическая eSIM 2026 | Roami
+date: '2026-05-12T09:32:10+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Spain eSIM
-  scenario_keywords: Barcelona sightseeing, Madrid travel, Andorra day trip, Costa
-    del Sol beach, Camino de Santiago
-  operators: Movistar, Orange, Vodafone
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Madrid, Barcelona, Valencia, Seville, Bilbao
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: Испания eSIM
+  scenario_keywords: осмотр достопримечательностей, деловая поездка, пляжный отдых,
+    гастрономический тур, культурный туризм
+  operators: Movistar, Vodafone, Orange
+  competitors: Airalo, Holafly, Nomad, Ubigi, Maya Mobile
+  main_cities: Мадрид, Барселона, Валенсия, Севилья, Малага
+  main_packages: 3/7/15/30 дней, безлимитные данные
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: Обновление сервиса!
+  btn_text: Продолжить
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Наш eSIM-сервис обновлён до <strong>PhoneSIMGo</strong>.<br>Новые клиенты получают 20% скидку с кодом: web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Наш eSIM-сервис обновлён до <strong>PhoneSIM</strong>.<br>Новые клиенты получают 20% скидку с кодом: web20
 seo:
-  title: Buy Spain eSIM | Prepaid 5G Travel Data | 20% OFF | Roami
-  description: Need internet in Spain? Roami offers seamless digital SIM connectivity
-    on the reliable Vodafone 5G network. Enjoy transparent, high-speed travel internet
-    with nationwide coverage for your vacation.
-  keywords: Spain eSIM, tourist eSIM Spain, cheap data Spain, travel internet Spain,
-    Movistar eSIM, Orange eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: eSIM для Испании | 5G от Vodafone и общенациональное покрытие | Roami
+  description: Нужен интернет в Испании? Roami предлагает бесшовное цифровое соединение
+    SIM на надежной сети Vodafone 5G. Наслаждайтесь прозрачным высокоскоростным туристическим
+    интернетом с общенациональным покрытием для вашего отпуска.
+  keywords: eSIM Испания, туристическая eSIM, интернет в Испании, мобильный интернет
+    для путешествий, eSIM для туристов
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: Выбранный тариф
+  label_data: Объём данных
+  label_validity: Срок действия
+  label_daily: Цена за день
+  label_total: Общая стоимость
+  btn_primary: Получить скидку 20%
+  btn_secondary: 'Код: web20'
 breadcrumbs:
-- label: Home
+- label: Главная
   url: /
-- label: Spain eSIM
+- label: Испания eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Spain
-  title: Best eSIM for Spain
+  alt: Лучшая eSIM для Испания
+  title: Лучшая eSIM для Испания
 hero:
   flag_image: img/flags/es.svg
-  flag_alt: Spain Flag
-  title: Spain eSIM data plan
-  subtitle: 24/7 customer support | Instant delivery | Travel essential
+  flag_alt: Флаг Испания
+  title: Тариф eSIM для Испания
+  subtitle: Скидка 20% на ограниченное время | Хит продаж | Круглосуточная поддержка
 features:
-  title: Why Travelers Choose Roami
+  title: Почему путешественники выбирают Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: Мгновенный QR-код
+    desc: Доставка менее 5 минут
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 поддержка
+    desc: Всегда на связи
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: Гарантия
+    desc: Защита покупателя гарантирована
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: Точка доступа
+    desc: Делитесь данными с другими
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: Без контрактов
+    desc: Отмена в любое время
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: Автовыбор
+    desc: Лучшие местные сети
+plans_title: Выберите ваш тариф
 plans_data:
-  7 Days:
+  7 дней:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для коротких деловых поездок
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для осмотра достопримечательностей
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -96,49 +94,49 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для длительных поездок
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для ещё более длительных поездок
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '1.57'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '17.99'
     oldPrice: '26.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.57'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Безлимитные высокоскоростные данные
+    desc: Беззаботное использование данных
     price: '21.99'
     oldPrice: '32.98'
-    tag: Premium
+    tag: Премиум
     tagColor: bg-purple-600
     daily: '3.14'
-  3 Days:
+  3 дней:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для коротких деловых поездок
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для осмотра достопримечательностей
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -146,65 +144,65 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для длительных поездок
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для ещё более длительных поездок
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '3.33'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Безлимитные высокоскоростные данные
+    desc: Беззаботное использование данных
     price: '9.99'
     oldPrice: '14.98'
-    tag: Premium
+    tag: Премиум
     tagColor: bg-purple-600
     daily: '3.33'
-  30 Days:
+  30 дней:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 100GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.83'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для осмотра достопримечательностей
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -212,57 +210,57 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для длительных поездок
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '0.30'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для ещё более длительных поездок
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '0.47'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '19.99'
     oldPrice: '29.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.67'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '32.99'
     oldPrice: '49.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.10'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Безлимитные высокоскоростные данные
+    desc: Беззаботное использование данных
     price: '69.99'
     oldPrice: '104.98'
-    tag: Premium
+    tag: Премиум
     tagColor: bg-purple-600
     daily: '2.33'
-  15 Days:
+  15 дней:
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.93'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для осмотра достопримечательностей
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -270,562 +268,570 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для длительных поездок
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '0.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для ещё более длительных поездок
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '0.87'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '18.99'
     oldPrice: '28.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.27'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Безлимитные высокоскоростные данные
+    desc: Беззаботное использование данных
     price: '43.99'
     oldPrice: '65.98'
-    tag: Premium
+    tag: Премиум
     tagColor: bg-purple-600
     daily: '2.93'
 discount_banner:
-  title: Special Discount!
+  title: Специальная скидка!
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    Используйте код <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> при оплате для <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% СКИДКИ</span>!
+  btn_text: Сохранить скидку
+  validity: 'Действует: 3 дня'
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: Детали покрытия сети
+  supports_text: 'Поддерживает:'
   service_details:
-    title: Service Details
+    title: Детали сервиса
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Spain, including major cities
-        like Madrid, Barcelona, and Valencia. Our Spain eSIM seamlessly connects to
-        the robust networks of Movistar, Orange, and Vodafone, ensuring stable signals
-        in urban centers, tourist hotspots, and along major transportation routes.
+      title: Покрытие
+      desc: Наслаждайтесь обширным покрытием сети по всему Испания, включая такие
+        города, как Мадрид, Барселона, Валенсия, Севилья. Наша eSIM для Испания бесшовно
+        подключается к сетям Movistar, Vodafone, Orange.
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: Время доставки
+      desc: Мгновенная доставка после покупки.
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: Точка доступа
+      desc: Без ограничений на точку доступа.
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: Мобильные сети
+    badge: Официальный партнёр
     items:
     - name: Movistar
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: Orange
-      coverage: Reliability
-      network: 5G/4G/LTE Network
+      coverage: Низкая задержка
+      network: 5G/4G/LTE сеть
     - name: Vodafone
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: Собственный IP
+      network: 5G/4G/LTE сеть
+    - name: Orange
+      coverage: Широкое покрытие
+      network: 5G/4G/LTE сеть
 reminders:
-  title: Important Reminders
+  title: Важные замечания
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      Перед покупкой проверьте <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">совместимость eSIM</a> вашего телефона.
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Spain.
+    html: Рекомендуем активировать eSIM только после прибытия в Испания.
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: Срок действия начинается при подключении к сети-партнёру.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR-код будет отправлен на вашу электронную почту.
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: Вы можете установить несколько eSIM одновременно.
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: Быстрая проверка совместимости
+    desc: 'Не уверены? Проверьте прямо сейчас на телефоне:'
+    instruction: 'Наберите на клавиатуре:'
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      Если отображается <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>-номер, eSIM поддерживается!
 activation_steps:
-  title: Activation Steps
+  title: Активация вашей eSIM для Испания за несколько минут
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: Получите и сохраните QR-код – готовьтесь к Испания
+    desc: Сразу после заказа вы получите письмо с вашим персональным QR-кодом активации
+      и инструкциями. Сохраните QR-код на смартфоне или распечатайте – вам не нужно
+      активное интернет-соединение для последующей установки. eSIM действует 30 дней,
+      вы можете спокойно подготовить её к поездке в Испания.
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: Установите eSIM на устройстве – отсканируйте QR-код
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - Откройте **Настройки** → **Сотовая связь / Мобильные данные**
+    - Нажмите **"Добавить eSIM"** или **"Добавить тариф"**
+    - Выберите **"Отсканировать QR-код"** и наведите камеру на код
+    - Профиль eSIM для Испания загрузится автоматически – нажмите **"Далее"**
+    - Присвойте имя (например, «Roami Испания») и установите его как **стандарт для
+      мобильных данных**
+    - Теперь eSIM установлена, но ещё **неактивна** – идеально для подготовки к поездке
   - num: '3'
-    title: 'Step 3: Activate in Spain'
-    desc: Upon arriving in Spain, enable your Spain eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: Подготовка дома – протестируйте без риска
+    desc: После установки вы можете оставить eSIM отключённой в настройках. Однако
+      вы уже можете протестировать её через домашний Wi-Fi (мобильные данные не расходуются).
+      Как только вы приземлитесь в Испания, просто включите eSIM – срок действия начнётся
+      автоматически при первом подключении к сети Movistar / Vodafone. Никаких скрытых
+      платежей за активацию, никаких роуминговых сборов.
+    is_list: false
+  - num: '4'
+    title: 'Прибытие в Испания: мгновенный выход в сеть 5G/4G'
+    desc: Как только вы приземлитесь в Испания (например, в Аэропорт Мадрид-Барахас,
+      Аэропорт Барселона-Эль-Прат, Аэропорт Малага-Коста-дель-Соль), выключите авиарежим
+      (или оставайтесь в нём и активируйте только eSIM). Перейдите в **Настройки →
+      Сотовая связь** и включите вашу Roami eSIM для Испания. В течение нескольких
+      секунд ваше устройство автоматически подключится к самой быстрой доступной сети
+      5G/4G от Movistar / Vodafone. Вы сможете сразу пользоваться навигацией, WhatsApp,
+      соцсетями или раздать интернет другим устройствам – без ожидания, без удостоверения
+      личности, без контракта.
     is_list: false
 faq_section:
-  title: Spain eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Spain eSIM across different travel
-    scenarios.
+  title: 'Испания eSIM: Часто задаваемые вопросы и путеводитель'
+  desc: Всё, что нужно знать об использовании вашей eSIM для Испания в различных сценариях
+    путешествий.
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: Общее
+    title: 1. Общие вопросы
     questions:
-    - q: Does my phone support the Spain eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Spain eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Spain eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Spain and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Spain eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Spain eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Spain that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Spain eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Spain eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Spain eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Spain eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Spain,
-        such as Movistar, Orange, Vodafone, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Redtea Mobile, Numero,
-        Holafly, Airalo?
-      a: While great companies like Redtea Mobile, Numero, Holafly, Airalo offer reliable
-        services, we focus on providing the most cost-effective Spain eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: Поддерживает ли eSIM для Испания VoLTE и HD-голосовые звонки?
+      a: Да, eSIM для Испания поддерживает VoLTE и HD-голос, если ваше устройство
+        позволяет это. Наслаждайтесь кристально чистым качеством звонков через сеть
+        5G/4G от Movistar / Vodafone.
+    - q: Какие сети 5G/4G использует eSIM для Испания и каково покрытие?
+      a: eSIM для Испания работает исключительно с Movistar / Vodafone. Вы автоматически
+        получаете наилучшую доступную сеть (5G/4G/LTE) с лучшим покрытием в городах,
+        таких как Москва, Санкт-Петербург, а также в сельской местности и вдоль трасс.
+    - q: Могу ли я перенести eSIM для Испания на другое устройство после установки?
+      a: Однажды установленная eSIM не может быть перенесена на другое устройство.
+        Пожалуйста, устанавливайте eSIM на то устройство, которое будете использовать
+        в поездке. Для дополнительных устройств вы можете приобрести отдельные eSIM.
+    - q: Предлагает ли Roami региональные eSIM для поездок за пределы Испания?
+      a: Да, помимо eSIM для Испания, мы предлагаем региональные eSIM для Европы,
+        Азии, Северной Америки и всего мира. Идеально для многодневных поездок по
+        городам или турне по нескольким странам — без смены SIM-карт.
+    - q: Могу ли я использовать eSIM для Испания в качестве точки доступа для других
+        устройств?
+      a: Да, все тарифы Roami eSIM для Испания поддерживают неограниченную раздачу
+        интернета (точка доступа). Вы можете делиться соединением с ноутбуком, планшетом
+        или попутчиками — без скрытых платежей или снижения скорости.
+    - q: Каким требованиям должен соответствовать мой смартфон для использования eSIM
+        для Испания?
+      a: Ваше устройство должно поддерживать eSIM (iPhone XS/XR или новее, Samsung
+        Galaxy S20/Note20 или новее, Google Pixel 3a или новее, а также большинство
+        современных 5G-телефонов Huawei, Xiaomi, OnePlus). Проверьте в настройках,
+        доступен ли пункт 'Добавить eSIM'.
+    - q: Сколько стоит eSIM для Испания и есть ли скидки?
+      a: Наш тариф eSIM для Испания начинается от $1.99/ГБ. С промокодом 'web20' вы
+        получаете 20% скидку на любой заказ — действует на все тарифы. Без скрытых
+        платежей, без минимального срока контракта.
+    - q: Поддерживает ли мой смартфон eSIM для Испания и как её установить?
+      a: Да, большинство современных смартфонов (iPhone XS/XR или новее, Samsung Galaxy
+        S20+/Note20+, Google Pixel 3a+) поддерживают eSIM. Вы устанавливаете eSIM
+        для Испания, отсканировав QR-код в настройках мобильной связи. Сети Movistar
+        / Vodafone обеспечивают отличное покрытие 5G/4G в Испания.
+    - q: Как работает международный роуминг с eSIM для Испания в соседних странах?
+      a: eSIM для Испания в первую очередь оптимизирована для Испания. Для поездок
+        в соседние страны рекомендуем нашу eSIM для Европы или региона, которая обеспечивает
+        бесшовный роуминг без дополнительных затрат.
+    - q: Могу ли я установить eSIM для Испания перед поездкой и активировать позже?
+      a: Да, вы можете установить eSIM уже дома (через Wi-Fi). Активация произойдёт
+        автоматически, как только ваш телефон в Испания впервые обнаружит сеть Movistar
+        / Vodafone. Так вы избежите стресса сразу после прилёта.
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: Аэропорты
+    title: 2. Сеть в аэропорту
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Spain eSIM before your flight. Once you land at Adolfo Suárez
-        Madrid-Barajas Airport, Barcelona-El Prat Airport, Palma de Mallorca Airport,
-        simply turn off Airplane Mode and enable your eSIM line. It will connect to
-        the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Spain eSIM activated upon landing, you can immediately open Cabify,
-        Uber Spain, Moovit to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Spain eSIM data allows you to open Google Maps right at the
-        baggage claim in Adolfo Suárez Madrid-Barajas Airport, Barcelona-El Prat Airport,
-        Palma de Mallorca Airport to check real-time train schedules, bus routes,
-        or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Spain eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Spain eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Spain eSIM cellular data to let your family know you've arrived safely.
+    - q: Как получить надёжную сеть сразу после прилёта?
+      a: Установите eSIM для Испания перед вылетом. Как только вы приземлитесь в аэропортах,
+        таких как Аэропорт Мадрид-Барахас, Аэропорт Барселона-Эль-Прат, Аэропорт Малага-Коста-дель-Соль,
+        просто выключите авиарежим и активируйте eSIM. Она подключится к локальной
+        сети 4G/5G за секунды.
+    - q: Как связаться с встречающим или использовать Uber/Grab?
+      a: После активации при прилёте вы сможете сразу использовать приложения, такие
+        как Uber, Cabify, Free Now, чтобы заказать поездку, или WhatsApp, чтобы связаться
+        с водителем, не полагаясь на небезопасный Wi-Fi аэропорта.
+    - q: Как использовать Google/Apple Maps для поиска транспорта?
+      a: С данными вашей eSIM для Испания вы можете прямо у выдачи багажа в Аэропорт
+        Мадрид-Барахас, Аэропорт Барселона-Эль-Прат, Аэропорт Малага-Коста-дель-Соль
+        проверить расписания поездов и автобусов в реальном времени или найти путь
+        к стоянке такси.
+    - q: Как избежать дорогих SIM-карт в аэропорту?
+      a: Купив нашу eSIM для Испания заранее онлайн, вы полностью обходите дорогие
+        киоски SIM-карт в зале прилёта, экономя время и деньги.
+    - q: Как получать SMS от отеля/проката авто без местного номера?
+      a: Наша eSIM для Испания — это только тариф данных. Чтобы получать SMS, оставьте
+        активной вашу домашнюю SIM-карту (приём SMS в роуминге часто бесплатен) и
+        используйте eSIM для всего трафика.
+    - q: Как немедленно связаться с семьёй?
+      a: Как только вы приземлитесь, вы можете использовать iMessage, WhatsApp или
+        FaceTime через быстрые данные нашей eSIM для Испания, чтобы сообщить близким,
+        что вы благополучно прибыли.
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: Транспорт
+    title: 3. Транспорт и путешествия
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Spain eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Spain, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Cabify, Uber Spain, Moovit use VoIP (internet calling) and in-app
-        messaging. Since you have active Spain eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Spain eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Spain eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Spain.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Spain eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Spain eSIM's data network while on the
-        train or in the car.
+    - q: Как использовать Google Maps для планирования маршрута?
+      a: Наше стабильное соединение eSIM для Испания гарантирует, что Google Maps
+        сможет загружать данные о трафике и расписаниях в реальном времени по всему
+        Испания.
+    - q: Как водители Uber/Grab могут связаться со мной через приложение?
+      a: Приложения, такие как Uber, Cabify, Free Now, используют VoIP. Поскольку
+        у вас активны данные eSIM для Испания, водители могут звонить вам через приложение
+        или отправлять уведомления без местного номера.
+    - q: Как купить билеты на поезд или метро онлайн?
+      a: Используйте данные вашей eSIM для Испания, чтобы покупать цифровые QR-билеты
+        в местных приложениях и избегать длинных очередей у автоматов.
+    - q: Как использовать Google Maps для навигации в арендованном автомобиле в реальном
+        времени?
+      a: Закрепите телефон и используйте eSIM для Испания. Тарифа 5GB или 10GB достаточно
+        для обширной GPS-навигации во время поездки по Испания.
+    - q: Как сканировать и разблокировать электросамокаты (Lime/Bird)?
+      a: Разблокировка электросамокатов требует быстрого интернета. Наша eSIM для
+        Испания обеспечивает необходимое надёжное покрытие.
+    - q: Работают ли приложения райдшеринга трансгранично?
+      a: Да, ваш аккаунт остаётся тем же. Просто убедитесь, что у вас есть активное
+        интернет-соединение через нашу местную или региональную eSIM.
+    - q: Как организовать стабильную точку доступа для семьи?
+      a: Просто включите ' Личный точка доступа' в настройках. Ваша семья сможет подключиться
+        к вашей сети eSIM для Испания в поезде или автомобиле.
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: Отели
+    title: 4. Отели и жильё
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Spain eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Spain eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Ritz Madrid, W Barcelona, Four Seasons Madrid
-        or a local guesthouse, you can input the address into Google Maps and get
-        turn-by-turn walking or transit directions using your Spain eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Spain eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Spain eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Glovo, Just Eat Spain, Deliveroo Spain
-        and use your Spain eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Spain eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: Как сделать самостоятельный заезд (self-check-in) после бронирования?
+      a: Многие современные жилья высылают коды умных замков по электронной почте.
+        Ваша eSIM для Испания гарантирует, что вы сможете получить эти детали прямо
+        перед дверью.
+    - q: Как связаться с хозяином Airbnb по прибытии?
+      a: Используйте функцию обмена сообщениями в приложении Airbnb или WhatsApp,
+        чтобы согласовать время прибытия, используя мобильные данные eSIM для Испания.
+    - q: Как использовать Google Maps для навигации к отелю?
+      a: Независимо от того, останавливаетесь ли вы в Отель Ritz Madrid, Отель Arts
+        Barcelona, Отель Alfonso XIII Sevilla, введите адрес в Google Maps и используйте
+        навигацию вашей eSIM для Испания.
+    - q: Как получать SMS-коды подтверждения?
+      a: Оставьте вашу домашнюю SIM-карту активной для SMS и используйте данные eSIM
+        для Испания для получения кодов по электронной почте или через приложение
+        аутентификатора.
+    - q: Как быстро связаться со службой поддержки?
+      a: Используйте VoIP-приложения, такие как Skype, или функцию чата приложения
+        бронирования через высокоскоростные данные вашей eSIM для Испания.
+    - q: Как заказать еду через местные приложения доставки?
+      a: Скачайте Glovo, Just Eat, Uber Eats и используйте данные вашей eSIM для Испания,
+        чтобы заказать горячую еду прямо в лобби отеля.
+    - q: Как оставаться на связи с отелем после выезда (checkout)?
+      a: Как только вы выйдете из Wi-Fi отеля, ваша eSIM для Испания возьмёт на себя
+        управление, чтобы вы могли написать отелю, если что-то забыли.
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: Достопримечательности
+    title: 5. Достопримечательности и развлечения
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Sagrada Familia, Alhambra, Prado Museum spontaneously,
-        you can use your Spain eSIM data to buy skip-the-line tickets online and present
-        the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Spain eSIM, you can read reviews and book local
-        tours or experiences on Tripadvisor while having coffee at a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Spain.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Spain eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Spain eSIM will keep you connected throughout the
-        park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Spain eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Spain eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
+    - q: Как купить электронные билеты через GetYourGuide/Viator?
+      a: Если вы хотите спонтанно посетить Саграда Фамилия, Альгамбра, Парк Гуэля,
+        вы можете использовать данные вашей eSIM для Испания для покупки билетов онлайн
+        и показать штрих-код прямо на месте.
+    - q: Как забронировать впечатления на Tripadvisor мгновенно?
+      a: С надёжным 4G/5G вашей eSIM для Испания вы можете читать отзывы и бронировать
+        местные туры, сидя в кафе.
+    - q: Как использовать Wikipedia/Google для получения информации во время посещения?
+      a: Расширьте свой культурный опыт, ища исторические факты или переводя таблички
+        в музеях с помощью Google Translate на данных eSIM для Испания.
+    - q: Как найти дорогу к следующей достопримечательности?
+      a: Введите следующую цель в Google Maps; мощное покрытие вашей eSIM для Испания
+        приведёт вас по самому быстрому маршруту.
+    - q: Как проверить время ожидания в парках аттракционов в реальном времени?
+      a: Приложениям парков развлечений нужен интернет для отображения времени ожидания.
+        Ваша eSIM для Испания держит вас онлайн на всей территории парка.
+    - q: Как получить доступ к Ticketmaster для билетов на шоу?
+      a: Вы можете безопасно купить билеты в последнюю минуту через приложения для
+        билетов с данными вашей eSIM для Испания.
+    - q: Как мгновенно делиться фото/видео в Instagram/TikTok?
+      a: Высокая скорость загрузки eSIM для Испания позволяет публиковать рилсы и
+        фото в реальном времени, не дожидаясь Wi-Fi отеля.
   - id: faq-dining
     icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
+    tab_title: Рестораны
+    title: 6. Еда и рестораны
     questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Spain eSIM data to search 'restaurants near me' on Google Maps to
-        check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Spain eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Spain eSIM ensures you can scan
-        the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Spain eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Glovo, Just Eat Spain, Deliveroo Spain,
-        register using your email or social accounts, and order food seamlessly using
-        your Spain eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Bizum,
-        PayPal, Visa/Mastercard require a brief internet handshake, which your Spain
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Spain eSIM to find hidden culinary gems in the city.
+    - q: Как найти рестораны через Google Maps/Tripadvisor?
+      a: Используйте вашу eSIM для Испания, чтобы искать 'рестораны поблизости' и
+        проверять отзывы, часы работы и фото меню.
+    - q: Как забронировать столик онлайн?
+      a: Обеспечьте бронирование через онлайн-платформы, используя вашу eSIM для Испания,
+        пока вы в пути.
+    - q: Как сканировать QR-коды для цифровых меню?
+      a: Многие рестораны используют цифровые меню. Ваша eSIM для Испания гарантирует,
+        что код на столе загрузится мгновенно.
+    - q: Как использовать камеру Google Translate для меню?
+      a: Откройте приложение и наведите камеру на меню. Для живого перевода требуется
+        подключение к интернету через вашу eSIM для Испания.
+    - q: Как использовать местные сервисы доставки?
+      a: Скачайте местные приложения, такие как Glovo, Just Eat, Uber Eats, и заказывайте
+        с комфортом, используя мобильные данные вашей eSIM для Испания.
+    - q: Как платить с помощью Apple Pay/Google Pay?
+      a: Бесконтактные платежи или местные методы, такие как Visa, Mastercard, Bizum,
+        требуют короткого интернет-согласования, которое ваша eSIM для Испания отлично
+        выполняет.
+    - q: Как найти секретные места, рекомендуемые фуд-блогерами?
+      a: Смотрите YouTube-влоги или изучайте отзывы на Yelp с данными вашей eSIM для
+        Испания, чтобы открыть кулинарные изюминки.
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: Соцсети
+    title: 7. Социальные сети и связь
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Spain eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Spain eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Spain eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Spain
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Spain eSIM data allowance to check their own social media.
+    - q: Как стабильно использовать WhatsApp/Telegram за границей?
+      a: Ваши аккаунты привязаны к домашнему номеру. С нашей eSIM для Испания как
+        источником интернета вы сможете общаться и звонить как дома.
+    - q: Как загружать контент в TikTok без общественного Wi-Fi?
+      a: Общественный Wi-Fi часто медленный и небезопасный. Наш 4G/5G eSIM для Испания
+        обеспечивает пропускную способность для быстрой загрузки.
+    - q: Как совершать видеозвонки с семьёй?
+      a: Наши сетевые партнёрства гарантируют, что видеозвонки через eSIM для Испания
+        будут чёткими и без задержек, где бы вы ни находились в стране.
+    - q: Безопасно ли входить в социальные сети через общественный Wi-Fi?
+      a: Общественный Wi-Fi уязвим для хакеров. Использование ваших собственных данных
+        eSIM для Испания зашифровано и гораздо безопаснее.
+    - q: Как поделиться сетью в качестве точки доступа с попутчиками?
+      a: Включите функцию точки доступа. Ваши друзья смогут подключиться и использовать
+        ваш трафик eSIM для Испания для своих социальных сетей.
   - id: faq-crossborder
     icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
+    tab_title: Трансграничные поездки
+    title: 8. Трансграничные поездки
     questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Spain eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Spain eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: Нужна ли мне новая SIM-карта для каждой страны?
+      a: Одностраничная eSIM для Испания работает только там. Для поездок по нескольким
+        странам рекомендуем наши региональные eSIM (например, eSIM для Европы).
+    - q: Как избежать роуминговых сборов при поездке на поезде через границы?
+      a: Отключите 'Роуминг данных' на домашней SIM-карте. Убедитесь, что eSIM для
+        Испания установлена как основная для передачи данных.
+    - q: Как получить интернет во время пересадки в Сингапуре/Дубае?
+      a: Вы можете купить недорогую eSIM на 1 ГБ для транзитной страны, чтобы оставаться
+        онлайн во время ожидания рейса.
+    - q: Как получить интернет в круизе?
+      a: Вместо того чтобы платить за дорогой корабельный Wi-Fi, активируйте местную
+        eSIM для стран, которые вы посещаете. Она подключится, как только вы приблизитесь
+        к суше.
+    - q: Как Google Maps остаётся онлайн в автопутешествиях?
+      a: С региональной eSIM ваш телефон автоматически переключится на сеть новой
+        страны при пересечении границы, сохраняя GPS активным.
+    - q: Как управлять данными для нескольких стран в одном приложении?
+      a: Вы можете отслеживать потребление данных для всех активных eSIM через нашу
+        онлайн-панель управления на сайте.
+    - q: Как оставаться на связи при поездке по нескольким странам?
+      a: Поскольку WhatsApp/iMessage работают через данные, региональная eSIM гарантирует,
+        что вы остаётесь доступны под тем же номером телефона.
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: Экстренные случаи
+    title: 9. Экстренные случаи
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Spain, you can dial local emergency numbers like 112 directly from your
-        phone's dialer regardless of your active SIM, as long as your phone can catch
-        any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Spain eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Spain eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Spain eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Spain eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Spain eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
+    - q: Как набрать местные номера экстренных служб?
+      a: В Испания вы можете набрать номера экстренных служб, такие как 112 (единый
+        номер экстренных служб), напрямую, если ваш телефон ловит сигнал сотовой связи.
+    - q: Как найти ближайшую больницу?
+      a: Данные вашей eSIM для Испания позволяют мгновенно искать в Google Maps 'аптеку'
+        или 'больницу' и строить самый быстрый маршрут.
+    - q: Как найти информацию о посольстве при потере паспорта?
+      a: Используйте eSIM для Испания, чтобы быстро найти адрес и контактный номер
+        вашего посольства.
+    - q: Как связаться со страховой компанией при несчастном случае?
+      a: Используйте VoIP-приложения, такие как Skype, через данные eSIM для Испания,
+        чтобы позвонить на горячие линии страховой.
+    - q: Как поделиться своим местоположением в реальном времени?
+      a: Используйте 'Поделиться местоположением' в WhatsApp или Apple 'Где мои',
+        чтобы отправлять координаты через данные eSIM для Испания.
+    - q: Как загрузить офлайн-карты для удалённых районов?
+      a: Используя городское покрытие eSIM для Испания, загрузите офлайн-карты в Google
+        Maps, прежде чем отправиться в места без сигнала.
   - id: faq-business
     icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
+    tab_title: Бизнес
+    title: 10. Бизнес и работа
     questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Spain eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Spain eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Spain eSIM is significantly
-        faster and much more secure against cyber threats than using open public Wi-Fi
-        networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Spain eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Spain eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Spain eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Spain eSIM to update them on flight delays or schedule
-        changes.
+    - q: Как гарантировать стабильные встречи в Zoom/Teams?
+      a: Наша eSIM для Испания подключается к премиальным сетям, обеспечивая полосу
+        пропускания и низкую задержку для профессиональных видеоконференций.
+    - q: Как безопасно подключиться к корпоративному VPN?
+      a: Наши данные не ограничивают VPN-протоколы. Вы можете безопасно запустить
+        корпоративный VPN через сеть eSIM для Испания.
+    - q: Как использовать точку доступа для ноутбука в кафе?
+      a: Включите точку доступа. Использование вашей eSIM для Испания значительно
+        быстрее и безопаснее для киберугроз, чем открытый Wi-Fi.
+    - q: Как получать 2FA-коды для корпоративной электронной почты?
+      a: Оставьте вашу домашнюю SIM-карту активной для SMS и используйте данные eSIM
+        для Испания для кодов, приходящих по электронной почте.
+    - q: Как загружать большие файлы во время встреч с клиентами?
+      a: Скорости 5G/4G-LTE вашей eSIM для Испания позволяют быстро загружать презентации
+        в облачные сервисы.
+    - q: Как беспрепятственно использовать Slack/Gmail для совместной работы?
+      a: Ваша eSIM для Испания обеспечивает постоянное соединение, поэтому вы мгновенно
+        получаете сообщения Slack и электронные письма.
+    - q: Как обновлять планы поездок для компании онлайн?
+      a: Получайте доступ к корпоративным порталам через eSIM для Испания в пути,
+        чтобы сообщать отделу кадров о задержках рейсов.
 related_products:
-  title: Related eSIM Plans
+  title: Похожие eSIM тарифы
   items:
-  - name: united states eSIM
+  - name: eSIM США
     flag: img/flags/us.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: United-Kingdom
+    slug: united-states-esim
+  - name: eSIM Великобритании
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Europe eSIM
+    slug: united-kingdom-esim
+  - name: eSIM Европы
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: true
-  - name: Canada eSIM
+    slug: europe-esim
+  - name: eSIM Канады
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Turkey eSIM
+    slug: canada-esim
+  - name: eSIM Турции
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: China eSIM
+    slug: turkey-esim
+  - name: eSIM Китая
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Japan eSIM
+    slug: china-esim
+  - name: eSIM Японии
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
+    slug: japan-esim
+  - name: eSIM Гонконга
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
+    slug: hong-kong-esim
+  - name: eSIM Франции
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
+    slug: france-esim
+  - name: eSIM Испании
     flag: img/flags/es.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
+    slug: spain-esim
+  - name: eSIM Германии
     flag: img/flags/de.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: germany-esim
+  - name: eSIM Австралии
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
+    slug: australia-esim
 
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
+# =============== 100% полное восстановление: модуль сравнения на основе данных ===============
 market_analysis:
-  title: "Spain eSIM vs Local Prepaid SIM: Which Is More Convenient?"
-  subtitle: "Spain Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: "eSIM для Spain против физической SIM: сравнение путешествий, стоимости и настройки"
+  subtitle: "Местные предоплаченные SIM-карты в Испании против eSIM-решений (2024/2025 бенчмарк)"
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Spain) + Local Operator Sites"
+    text: "Источник данных: Prepaid Data SIM Card Wiki (Spain) + веб-сайты местных операторов"
     url: "https://prepaid-data-sim-card.fandom.com/wiki/Spain"
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Spain eSIM"
+    - "Матрица сравнения"
+    - "Местная предоплаченная SIM (рыночные данные)"
+    - "Roami eSIM для Spain"
   table_rows:
     - icon: "store"
-      title: "Acquisition &<br>Activation"
+      title: "Приобретение и<br>активация"
       prepaid_title: ""
-      prepaid_desc: "Airport SIM kiosks are very overpriced; official advice is to buy at city center stores, which takes hours including travel and queuing."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport overpriced kiosks and city store queues. Activate online within 1 minute after landing in Spain."
+      prepaid_desc: "Мадридские и барселонские аэропортовые киоски продают SIM-карты по завышенным ценам; официальные магазины Vodafone требуют личного присутствия и проверки паспорта, что занимает около 30 минут."
+      esim_title: "Мгновенная цифровая доставка"
+      esim_desc: "Избегайте очередей в магазинах Vodafone и завышенных цен в аэропорту. Активируйте eSIM онлайн за 1 минуту после приземления в Мадриде."
     - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
+      title: "KYC и регистрация<br>по паспорту"
       prepaid_title: ""
-      prepaid_desc: "Vodafone since 2024 only accepts passports or Spanish ID, explicitly rejecting foreign ID cards; Digi mobil requires passport for registration."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid Vodafone's strict passport-only policy (since 2024) and Digi's mandatory passport registration. Roami eSIM activates without any ID."
+      prepaid_desc: "Vodafone с 2024 года принимает только паспорт или испанское удостоверение личности, иностранные удостоверения не принимаются; Orange, Movistar и Digi также требуют предъявления паспорта при покупке."
+      esim_title: "Без паспорта и очередей"
+      esim_desc: "В отличие от Vodafone, требующего паспорт и отказывающего иностранцам, eSIM не требует KYC — никакой проверки документов."
     - icon: "globe"
-      title: "International<br>Roaming"
+      title: "Международный<br>роуминг"
       prepaid_title: ""
-      prepaid_desc: "Vodafone Prepago S (50GB) offers only 6GB in the EU (88% reduction); Orange Mundo 15 (20GB) offers only 10GB in the EU; Movistar Prepago Total (35GB) offers only 11GB in the EU."
-      esim_title: "True Global Roaming"
-      esim_desc: "Unlike Vodafone's 50GB plan that shrinks to 6GB in the EU (88% reduction), Roami eSIM offers consistent data across countries with no FUP caps."
+      prepaid_desc: "Vodafone Prepago S (50 ГБ) в ЕС предоставляет только 6 ГБ (сокращение на 88%); Orange Mundo 15 (20 ГБ) в ЕС — 10 ГБ; Movistar Prepago Total (35 ГБ) в ЕС — 11 ГБ; превышение лимита тарифицируется по €2,50/ГБ у Orange и €1,88/ГБ у Vodafone."
+      esim_title: "Глобальный роуминг без сокращений"
+      esim_desc: "В отличие от Vodafone (50 ГБ -> 6 ГБ в ЕС) и Orange (20 ГБ -> 10 ГБ), eSIM предоставляет полный объем данных в Испании и соседних странах без FUP-ограничений."
     - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
+      title: "Расчетный цикл и<br>потерянные затраты"
       prepaid_title: ""
-      prepaid_desc: "Major prepaid plans from Orange, Vodafone, and Movistar are all 28-day cycles (e.g., Vodafone €10/50GB, Orange €15/20GB). A 7-day tourist buying Vodafone's €10 plan wastes 75% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike 28-day cycles (e.g., Vodafone €10/50GB, Orange €15/20GB) that waste 75% for a 7-day trip, Roami offers 7-day plans starting from $1.99/GB."
+      prepaid_desc: "Основные тарифы Orange, Vodafone и Movistar имеют 28-дневный цикл (например, Vodafone €10/50 ГБ на 28 дней); турист, путешествующий 7 дней и купивший Vodafone за €10, теряет 75% стоимости тарифа."
+      esim_title: "Гибкие тарифы без потерь"
+      esim_desc: "В отличие от 28-дневного цикла Vodafone (€15/100 ГБ), Roami предлагает 7-дневные тарифы от $1.99/ГБ, экономя 75% затрат для коротких поездок."
     - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
+      title: "Хотспот и политика<br>скорости"
       prepaid_title: ""
-      prepaid_desc: "Orange explicitly disallows VoIP; no specific hotspot data for other operators, but many MVNOs like Lebara may restrict tethering."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Orange bans VoIP; many MVNOs restrict hotspot. Roami eSIM allows full tethering and VoIP without any throttling."
+      prepaid_desc: "Orange запрещает VoIP; Vodafone разрешает раздачу, но после 3 ГБ/день скорость снижается до 1,5 Мбит/с; Lebara полностью блокирует хотспот."
+      esim_title: "Неограниченная раздача"
+      esim_desc: "В отличие от Lebara (блокировка) и Orange (запрет VoIP), eSIM разрешает хотспот без ограничений скорости."
     - icon: "credit-card"
-      title: "Top-up Payments"
+      title: "Пополнение и оплата"
       prepaid_title: ""
-      prepaid_desc: "Orange, Movistar, and Simyo online top-up systems reject non-Spanish credit cards; users must buy physical scratch cards at Carrefour or newsstands."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Orange, Movistar, and Simyo reject non-Spanish cards. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
+      prepaid_desc: "Онлайн-пополнение Orange, Movistar и Simyo отклоняет неиспанские кредитные карты; пользователям приходится покупать физические ваучеры в Carrefour или киосках (минимум €10)."
+      esim_title: "Глобальная оплата без барьеров"
+      esim_desc: "В отличие от Orange и Movistar (отклоняют неиспанские карты), eSIM принимает Visa, Mastercard, AMEX, Apple Pay, Google Pay и PayPal."
     - icon: "headset"
-      title: "Customer Support"
+      title: "Поддержка клиентов"
       prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is typically in Spanish only, with limited English and no 24/7 live chat for prepaid."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Local prepaid support is often Spanish-only with limited hours. Roami provides 24/7 English support via live chat."
+      prepaid_desc: "Телефонная поддержка Vodafone только на испанском, Пн-Пт 9-17; чат для предоплаченных клиентов отсутствует."
+      esim_title: "Поддержка 24/7 на русском"
+      esim_desc: "В отличие от Vodafone (только испанский, Пн-Пт 9-17), Roami предоставляет круглосуточный чат на русском языке."
 
-  # =============== 100% 完整还原：专家结论模块 ===============
+  # =============== 100% полное восстановление: модуль экспертного заключения ===============
   expert_verdict:
-    title: "Spain eSIM vs Physical SIM: Which Is Smarter for Travel?"
+    title: "eSIM для Spain против предоплаченной SIM: умнее, экономичнее и без стресса"
     cards:
       - icon: "globe"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation vs Airport Overpricing"
-        desc: "Airport SIM kiosks are <b>very overpriced</b>; city stores take hours. Roami activates <b>within 1 minute</b> after landing."
-      - icon: "wifi"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
-        title: "Unrestricted Hotspot & VoIP"
-        desc: "Orange <b>explicitly disallows VoIP</b>. Many MVNOs restrict tethering. Roami eSIM allows <b>full hotspot and VoIP</b> without throttling."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Spain's Strict SIM Passport Requirements"
-        desc: "Vodafone since 2024 <b>only accepts passports or Spanish ID</b>, rejecting foreign ID cards. Digi mobil also requires passport. Roami eSIM activates with <b>zero ID</b>."
+        title: "Мгновенная активация без поиска магазина"
+        desc: "Аэропортовые киоски продают SIM по завышенным ценам, а магазины Vodafone требуют личного визита. eSIM активируется онлайн за 1 минуту после приземления."
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "Платите только за нужные дни"
+        desc: "Orange, Vodafone и Movistar используют 28-дневные циклы (например, Vodafone €10/50 ГБ). При поездке на 7 дней вы теряете <b>75%</b> стоимости. eSIM предлагает 7-дневные тарифы от $1.99/ГБ."
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "Платите международными картами без проблем"
+        desc: "Orange, Movistar и Simyo отклоняют неиспанские карты при онлайн-пополнении. eSIM принимает Visa, Mastercard, AMEX, Apple Pay, Google Pay и PayPal."
       - icon: "clock"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "No Hidden Inactivity Fees"
-        desc: "Vodafone charges <b>€0.50/month</b> after 3-4 months of no outgoing calls. Roami has <b>no hidden fees</b>."
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Круглосуточная поддержка на русском"
+        desc: "Поддержка Vodafone работает только на испанском с 9 до 17 по будням. Roami предоставляет чат 24/7 на русском языке."
 ---

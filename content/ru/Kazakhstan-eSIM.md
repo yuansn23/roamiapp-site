@@ -1,94 +1,93 @@
 ---
-title: Kazakhstan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: Казахстан eSIM тариф | Лучшая туристическая eSIM 2026 | Roami
+date: '2026-05-12T09:33:17+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Kazakhstan eSIM
-  scenario_keywords: Almaty sightseeing, Astana business trip, Charyn Canyon hiking,
-    Shymkent cultural tour, Caspian Sea beach
-  operators: Beeline Kazakhstan, Kcell, Tele2 Kazakhstan
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Almaty, Astana, Shymkent, Karaganda, Aktobe
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: Казахстан eSIM
+  scenario_keywords: осмотр достопримечательностей, деловая поездка, экотуризм, шопинг,
+    транзит
+  operators: Beeline, Kcell, Tele2
+  competitors: Airalo, Holafly, Nomad, Ubigi, Airalo
+  main_cities: Алматы, Нур-Султан, Шымкент, Караганда, Актау
+  main_packages: 3/7/15/30 дней, безлимитные данные
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: Обновление сервиса!
+  btn_text: Продолжить
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Наш eSIM-сервис обновлён до <strong>PhoneSIMGo</strong>.<br>Новые клиенты получают 20% скидку с кодом: web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Наш eSIM-сервис обновлён до <strong>PhoneSIM</strong>.<br>Новые клиенты получают 20% скидку с кодом: web20
 seo:
-  title: Kazakhstan eSIM Plan | Top Local Carrier Stable 5G |20% OFF| Roami
-  description: Traveling to Kazakhstan? Experience No Roaming Shock and seamless Reliable
-    5G from Top Local Carrier. Features Seamless Coverage and Unlimited Data, great
-    for Digital Nomads.
-  keywords: Kazakhstan eSIM, prepaid eSIM, cheap eSIM, unlimited data, travel internet,
-    no roaming charges, instant delivery, Roami
-  low_price: 1.99
-  high_price: 39.9
+  title: eSIM для Казахстана | Стабильный 5G и бесшовное покрытие | Roami
+  description: Путешествуете в Казахстан? Оцените отсутствие роумингового шока и бесшовный
+    надежный 5G от ведущего местного оператора. Бесшовное покрытие и безлимитный интернет,
+    отлично подходит для цифровых кочевников.
+  keywords: eSIM Казахстан, мобильный интернет в Казахстане, туристическая eSIM, связь
+    в Казахстане, интернет для путешественников
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: Выбранный тариф
+  label_data: Объём данных
+  label_validity: Срок действия
+  label_daily: Цена за день
+  label_total: Общая стоимость
+  btn_primary: Получить скидку 20%
+  btn_secondary: 'Код: web20'
 breadcrumbs:
-- label: Home
+- label: Главная
   url: /
-- label: Kazakhstan eSIM
+- label: Казахстан eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Kazakhstan
-  title: Best eSIM for Kazakhstan
+  alt: Лучшая eSIM для Казахстан
+  title: Лучшая eSIM для Казахстан
 hero:
-  flag_image: img/flags/ka.svg
-  flag_alt: Kazakhstan Flag
-  title: Kazakhstan eSIM data plan
-  subtitle: No ID required | No more roaming fees | Prioritized 5G access
+  flag_image: img/flags/kz.svg
+  flag_alt: Флаг Казахстан
+  title: Тариф eSIM для Казахстан
+  subtitle: 100% гарантия возврата | Активация за 1 минуту | Автоматический выбор
+    сети
 features:
-  title: Why Travelers Choose Roami
+  title: Почему путешественники выбирают Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: Мгновенный QR-код
+    desc: Доставка менее 5 минут
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 поддержка
+    desc: Всегда на связи
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: Гарантия
+    desc: Защита покупателя гарантирована
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: Точка доступа
+    desc: Делитесь данными с другими
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: Без контрактов
+    desc: Отмена в любое время
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: Автовыбор
+    desc: Лучшие местные сети
+plans_title: Выберите ваш тариф
 plans_data:
-  30 Days:
+  30 дней:
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '37.99'
     oldPrice: '56.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.27'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для осмотра достопримечательностей
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -96,41 +95,41 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для длительных поездок
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '0.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для ещё более длительных поездок
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '0.50'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '27.99'
     oldPrice: '41.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.93'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Безлимитные высокоскоростные данные
+    desc: Беззаботное использование данных
     price: '96.99'
     oldPrice: '145.48'
-    tag: Premium
+    tag: Премиум
     tagColor: bg-purple-600
     daily: '3.23'
-  7 Days:
+  7 дней:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для осмотра достопримечательностей
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -138,49 +137,49 @@ plans_data:
     daily: '0.86'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для длительных поездок
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '1.28'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для ещё более длительных поездок
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '1.86'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '23.99'
     oldPrice: '35.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.43'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для коротких деловых поездок
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.57'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Безлимитные высокоскоростные данные
+    desc: Беззаботное использование данных
     price: '24.99'
     oldPrice: '37.48'
-    tag: Premium
+    tag: Премиум
     tagColor: bg-purple-600
     daily: '3.57'
-  15 Days:
+  15 дней:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для осмотра достопримечательностей
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -188,65 +187,65 @@ plans_data:
     daily: '0.47'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для длительных поездок
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '0.67'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '25.99'
     oldPrice: '38.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.73'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для вашей поездки
     price: '34.99'
     oldPrice: '52.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для ещё более длительных поездок
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '0.93'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Безлимитные высокоскоростные данные
+    desc: Беззаботное использование данных
     price: '48.99'
     oldPrice: '73.48'
-    tag: Premium
+    tag: Премиум
     tagColor: bg-purple-600
     daily: '3.27'
-  3 Days:
+  3 дней:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Безлимитные высокоскоростные данные
+    desc: Беззаботное использование данных
     price: '12.99'
     oldPrice: '19.48'
-    tag: Premium
+    tag: Премиум
     tagColor: bg-purple-600
     daily: '4.33'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Идеально для коротких деловых поездок
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Отлично для осмотра достопримечательностей
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -254,555 +253,555 @@ plans_data:
     daily: '1.66'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для длительных поездок
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Высокоскоростные 5G/4G/LTE
+    desc: Подходит для ещё более длительных поездок
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '3.33'
 discount_banner:
-  title: Special Discount!
+  title: Специальная скидка!
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    Используйте код <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> при оплате для <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% СКИДКИ</span>!
+  btn_text: Сохранить скидку
+  validity: 'Действует: 3 дня'
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: Детали покрытия сети
+  supports_text: 'Поддерживает:'
   service_details:
-    title: Service Details
+    title: Детали сервиса
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Kazakhstan, including major
-        cities like Almaty, Astana, Shymkent, and Karaganda. Our Kazakhstan eSIM seamlessly
-        connects to the robust networks of Beeline, Kcell, and Tele2, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: Покрытие
+      desc: Наслаждайтесь обширным покрытием сети по всему Казахстану, включая такие
+        города, как Алматы, Нур-Султан, Шымкент, Караганда. Наша eSIM для Казахстана
+        бесшовно подключается к сетям Beeline, Kcell, Tele2.
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: Время доставки
+      desc: Мгновенная доставка после покупки.
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: Точка доступа
+      desc: Без ограничений на точку доступа.
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: Мобильные сети
+    badge: Официальный партнёр
     items:
-    - name: Beeline Kazakhstan
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+    - name: Beeline
+      coverage: Низкая задержка
+      network: 5G/4G/LTE сеть
     - name: Kcell
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Tele2 Kazakhstan
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: Собственный IP
+      network: 5G/4G/LTE сеть
 reminders:
-  title: Important Reminders
+  title: Важные замечания
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      Перед покупкой проверьте <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">совместимость eSIM</a> вашего телефона.
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Kazakhstan.
+    html: Рекомендуем активировать eSIM только после прибытия в Казахстан.
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: Срок действия начинается при подключении к сети-партнёру.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR-код будет отправлен на вашу электронную почту.
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: Вы можете установить несколько eSIM одновременно.
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: Быстрая проверка совместимости
+    desc: 'Не уверены? Проверьте прямо сейчас на телефоне:'
+    instruction: 'Наберите на клавиатуре:'
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      Если отображается <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>-номер, eSIM поддерживается!
 activation_steps:
-  title: Activation Steps
+  title: Активация вашей eSIM для Казахстан за несколько минут
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: Получите и сохраните QR-код – готовьтесь к Казахстан
+    desc: Сразу после заказа вы получите письмо с вашим персональным QR-кодом активации
+      и инструкциями. Сохраните QR-код на смартфоне или распечатайте – вам не нужно
+      активное интернет-соединение для последующей установки. eSIM действует 30 дней,
+      вы можете спокойно подготовить её к поездке в Казахстан.
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: Установите eSIM на устройстве – отсканируйте QR-код
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - Откройте **Настройки** → **Сотовая связь / Мобильные данные**
+    - Нажмите **"Добавить eSIM"** или **"Добавить тариф"**
+    - Выберите **"Отсканировать QR-код"** и наведите камеру на код
+    - Профиль eSIM для Казахстан загрузится автоматически – нажмите **"Далее"**
+    - Присвойте имя (например, «Roami Казахстан») и установите его как **стандарт
+      для мобильных данных**
+    - Теперь eSIM установлена, но ещё **неактивна** – идеально для подготовки к поездке
   - num: '3'
-    title: 'Step 3: Activate in Kazakhstan'
-    desc: Upon arriving in Kazakhstan, enable your Kazakhstan eSIM in settings to
-      start using data. We recommend connecting to WiFi during the initial activation.
+    title: Подготовка дома – протестируйте без риска
+    desc: После установки вы можете оставить eSIM отключённой в настройках. Однако
+      вы уже можете протестировать её через домашний Wi-Fi (мобильные данные не расходуются).
+      Как только вы приземлитесь в Казахстан, просто включите eSIM – срок действия
+      начнётся автоматически при первом подключении к сети Beeline / Kcell. Никаких
+      скрытых платежей за активацию, никаких роуминговых сборов.
+    is_list: false
+  - num: '4'
+    title: 'Прибытие в Казахстан: мгновенный выход в сеть 5G/4G'
+    desc: Как только вы приземлитесь в Казахстан (например, в Международный аэропорт
+      Алматы, Международный аэропорт Нур-Султан, Международный аэропорт Актау), выключите
+      авиарежим (или оставайтесь в нём и активируйте только eSIM). Перейдите в **Настройки
+      → Сотовая связь** и включите вашу Roami eSIM для Казахстан. В течение нескольких
+      секунд ваше устройство автоматически подключится к самой быстрой доступной сети
+      5G/4G от Beeline / Kcell. Вы сможете сразу пользоваться навигацией, WhatsApp,
+      соцсетями или раздать интернет другим устройствам – без ожидания, без удостоверения
+      личности, без контракта.
     is_list: false
 faq_section:
-  title: Kazakhstan eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Kazakhstan eSIM across different
-    travel scenarios.
+  title: 'Казахстан eSIM: Часто задаваемые вопросы и путеводитель'
+  desc: Всё, что нужно знать об использовании вашей eSIM для Казахстан в различных
+    сценариях путешествий.
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: Общее
+    title: 1. Общие вопросы
     questions:
-    - q: Does my phone support the Kazakhstan eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Kazakhstan eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Kazakhstan eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Kazakhstan
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Kazakhstan eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Kazakhstan eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Kazakhstan that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Kazakhstan eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Kazakhstan eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Kazakhstan eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Kazakhstan eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Kazakhstan,
-        such as Beeline Kazakhstan, Kcell, Tele2 Kazakhstan, to ensure premium speeds
-        at a fraction of roaming costs.
-    - q: How do you compare with well-known eSIM providers like BNESIM, Redtea Mobile,
-        Airalo, Holafly?
-      a: While great companies like BNESIM, Redtea Mobile, Airalo, Holafly offer reliable
-        services, we focus on providing the most cost-effective Kazakhstan eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: Поддерживает ли eSIM для Казахстан VoLTE и HD-голосовые звонки?
+      a: Да, eSIM для Казахстан поддерживает VoLTE и HD-голос, если ваше устройство
+        позволяет это. Наслаждайтесь кристально чистым качеством звонков через сеть
+        5G/4G от Beeline / Kcell.
+    - q: Сколько стоит eSIM для Казахстан и есть ли скидки?
+      a: Наш тариф eSIM для Казахстан начинается от $1.99/ГБ. С промокодом 'web20'
+        вы получаете 20% скидку на любой заказ — действует на все тарифы. Без скрытых
+        платежей, без минимального срока контракта.
+    - q: Могу ли я перенести eSIM для Казахстан на другое устройство после установки?
+      a: Однажды установленная eSIM не может быть перенесена на другое устройство.
+        Пожалуйста, устанавливайте eSIM на то устройство, которое будете использовать
+        в поездке. Для дополнительных устройств вы можете приобрести отдельные eSIM.
+    - q: Могу ли я использовать eSIM для Казахстан в качестве точки доступа для других
+        устройств?
+      a: Да, все тарифы Roami eSIM для Казахстан поддерживают неограниченную раздачу
+        интернета (точка доступа). Вы можете делиться соединением с ноутбуком, планшетом
+        или попутчиками — без скрытых платежей или снижения скорости.
+    - q: Какие преимущества даёт eSIM Roami по сравнению с местными предоплаченными
+        SIM-картами в Казахстан?
+      a: В отличие от местных предоплаченных SIM-карт, вам не нужно идти в магазин,
+        проходить регистрацию (KYC) и искать подходящую карту пополнения. С Roami
+        вы активируете eSIM цифровым способом менее чем за 2 минуты — без очередей
+        в аэропорту.
+    - q: Могу ли я установить eSIM для Казахстан без QR-кода?
+      a: Да, в дополнение к QR-коду вы можете установить eSIM вручную, используя SM‑DP+
+        адрес и код активации (оба указаны в вашем подтверждении заказа). QR-код —
+        самый быстрый и простой метод.
+    - q: Каким требованиям должен соответствовать мой смартфон для использования eSIM
+        для Казахстан?
+      a: Ваше устройство должно поддерживать eSIM (iPhone XS/XR или новее, Samsung
+        Galaxy S20/Note20 или новее, Google Pixel 3a или новее, а также большинство
+        современных 5G-телефонов Huawei, Xiaomi, OnePlus). Проверьте в настройках,
+        доступен ли пункт 'Добавить eSIM'.
+    - q: Предлагает ли Roami безлимитные тарифы для Казахстан? Есть ли политика честного
+        использования (FUP)?
+      a: Roami предлагает действительно безлимитные тарифы для Казахстан. Политика
+        честного использования применяется только при экстремальном потреблении (например,
+        постоянная потоковая передача 4K в течение нескольких дней). Обычный сёрфинг,
+        соцсети, видеозвонки и навигация не ограничиваются.
+    - q: Как отслеживать расход трафика с eSIM для Казахстан?
+      a: После активации у вас будет доступ к нашей онлайн-панели управления. Там
+        вы в реальном времени видите остаток трафика, оставшийся срок действия и можете
+        запросить поддержку в любое время.
+    - q: Насколько безопасна eSIM для Казахстан по сравнению с физической SIM-картой?
+      a: eSIM более защищены от несанкционированного доступа, так как они встроены
+        в устройство и не могут быть извлечены или скопированы. Ваши данные остаются
+        зашифрованными — никакого риска от потерянных или украденных SIM-карт.
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: Аэропорты
+    title: 2. Сеть в аэропорту
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Kazakhstan eSIM before your flight. Once you land at Almaty International
-        Airport, Nursultan Nazarbayev International Airport, Shymkent International
-        Airport, simply turn off Airplane Mode and enable your eSIM line. It will
-        connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Kazakhstan eSIM activated upon landing, you can immediately open
-        Yandex Taxi, InDrive, Uber to book a ride or use WhatsApp to message your
-        pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Kazakhstan eSIM data allows you to open Google Maps right
-        at the baggage claim in Almaty International Airport, Nursultan Nazarbayev
-        International Airport, Shymkent International Airport to check real-time train
-        schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Kazakhstan eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Kazakhstan eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Kazakhstan eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: Как получить надёжную сеть сразу после прилёта?
+      a: Установите eSIM для Казахстан перед вылетом. Как только вы приземлитесь в
+        аэропортах, таких как Международный аэропорт Алматы, Международный аэропорт
+        Нур-Султан, Международный аэропорт Актау, просто выключите авиарежим и активируйте
+        eSIM. Она подключится к локальной сети 4G/5G за секунды.
+    - q: Как связаться с встречающим или использовать Uber/Grab?
+      a: После активации при прилёте вы сможете сразу использовать приложения, такие
+        как Яндекс.Такси, Uber, InDriver, чтобы заказать поездку, или WhatsApp, чтобы
+        связаться с водителем, не полагаясь на небезопасный Wi-Fi аэропорта.
+    - q: Как использовать Google/Apple Maps для поиска транспорта?
+      a: С данными вашей eSIM для Казахстан вы можете прямо у выдачи багажа в Международный
+        аэропорт Алматы, Международный аэропорт Нур-Султан, Международный аэропорт
+        Актау проверить расписания поездов и автобусов в реальном времени или найти
+        путь к стоянке такси.
+    - q: Как избежать дорогих SIM-карт в аэропорту?
+      a: Купив нашу eSIM для Казахстан заранее онлайн, вы полностью обходите дорогие
+        киоски SIM-карт в зале прилёта, экономя время и деньги.
+    - q: Как получать SMS от отеля/проката авто без местного номера?
+      a: Наша eSIM для Казахстан — это только тариф данных. Чтобы получать SMS, оставьте
+        активной вашу домашнюю SIM-карту (приём SMS в роуминге часто бесплатен) и
+        используйте eSIM для всего трафика.
+    - q: Как немедленно связаться с семьёй?
+      a: Как только вы приземлитесь, вы можете использовать iMessage, WhatsApp или
+        FaceTime через быстрые данные нашей eSIM для Казахстан, чтобы сообщить близким,
+        что вы благополучно прибыли.
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: Транспорт
+    title: 3. Транспорт и путешествия
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Kazakhstan eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Kazakhstan, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Yandex Taxi, InDrive, Uber use VoIP (internet calling) and in-app
-        messaging. Since you have active Kazakhstan eSIM data, drivers can call or
-        message you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Kazakhstan eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Kazakhstan eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in Kazakhstan.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Kazakhstan eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Kazakhstan eSIM's data network while
-        on the train or in the car.
+    - q: Как использовать Google Maps для планирования маршрута?
+      a: Наше стабильное соединение eSIM для Казахстан гарантирует, что Google Maps
+        сможет загружать данные о трафике и расписаниях в реальном времени по всему
+        Казахстан.
+    - q: Как водители Uber/Grab могут связаться со мной через приложение?
+      a: Приложения, такие как Яндекс.Такси, Uber, InDriver, используют VoIP. Поскольку
+        у вас активны данные eSIM для Казахстан, водители могут звонить вам через
+        приложение или отправлять уведомления без местного номера.
+    - q: Как купить билеты на поезд или метро онлайн?
+      a: Используйте данные вашей eSIM для Казахстан, чтобы покупать цифровые QR-билеты
+        в местных приложениях и избегать длинных очередей у автоматов.
+    - q: Как использовать Google Maps для навигации в арендованном автомобиле в реальном
+        времени?
+      a: Закрепите телефон и используйте eSIM для Казахстан. Тарифа 5GB или 10GB достаточно
+        для обширной GPS-навигации во время поездки по Казахстан.
+    - q: Как сканировать и разблокировать электросамокаты (Lime/Bird)?
+      a: Разблокировка электросамокатов требует быстрого интернета. Наша eSIM для
+        Казахстан обеспечивает необходимое надёжное покрытие.
+    - q: Работают ли приложения райдшеринга трансгранично?
+      a: Да, ваш аккаунт остаётся тем же. Просто убедитесь, что у вас есть активное
+        интернет-соединение через нашу местную или региональную eSIM.
+    - q: Как организовать стабильную точку доступа для семьи?
+      a: Просто включите ' Личный точка доступа' в настройках. Ваша семья сможет подключиться
+        к вашей сети eSIM для Казахстан в поезде или автомобиле.
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: Отели
+    title: 4. Отели и жильё
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Kazakhstan eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Kazakhstan eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Ritz-Carlton Almaty, Hilton Astana, St. Regis
-        Astana or a local guesthouse, you can input the address into Google Maps and
-        get turn-by-turn walking or transit directions using your Kazakhstan eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Kazakhstan eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Kazakhstan eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Glovo, Wolt, Yandex Eda and use your
-        Kazakhstan eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Kazakhstan eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: Как сделать самостоятельный заезд (self-check-in) после бронирования?
+      a: Многие современные жилья высылают коды умных замков по электронной почте.
+        Ваша eSIM для Казахстан гарантирует, что вы сможете получить эти детали прямо
+        перед дверью.
+    - q: Как связаться с хозяином Airbnb по прибытии?
+      a: Используйте функцию обмена сообщениями в приложении Airbnb или WhatsApp,
+        чтобы согласовать время прибытия, используя мобильные данные eSIM для Казахстан.
+    - q: Как использовать Google Maps для навигации к отелю?
+      a: Независимо от того, останавливаетесь ли вы в Ritz-Carlton Алматы, Hilton
+        Astana, St. Regis Astana, введите адрес в Google Maps и используйте навигацию
+        вашей eSIM для Казахстан.
+    - q: Как получать SMS-коды подтверждения?
+      a: Оставьте вашу домашнюю SIM-карту активной для SMS и используйте данные eSIM
+        для Казахстан для получения кодов по электронной почте или через приложение
+        аутентификатора.
+    - q: Как быстро связаться со службой поддержки?
+      a: Используйте VoIP-приложения, такие как Skype, или функцию чата приложения
+        бронирования через высокоскоростные данные вашей eSIM для Казахстан.
+    - q: Как заказать еду через местные приложения доставки?
+      a: Скачайте Wolt, Chocofood, Delivery Club и используйте данные вашей eSIM для
+        Казахстан, чтобы заказать горячую еду прямо в лобби отеля.
+    - q: Как оставаться на связи с отелем после выезда (checkout)?
+      a: Как только вы выйдете из Wi-Fi отеля, ваша eSIM для Казахстан возьмёт на
+        себя управление, чтобы вы могли написать отелю, если что-то забыли.
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: Достопримечательности
+    title: 5. Достопримечательности и развлечения
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Charyn Canyon, Big Almaty Lake, Mausoleum of Khoja
-        Ahmed Yasawi spontaneously, you can use your Kazakhstan eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Kazakhstan eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Kazakhstan.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Kazakhstan eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Kazakhstan eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Kazakhstan eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Kazakhstan eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
+    - q: Как купить электронные билеты через GetYourGuide/Viator?
+      a: Если вы хотите спонтанно посетить Чарынский каньон, Медео, Байтерек, вы можете
+        использовать данные вашей eSIM для Казахстан для покупки билетов онлайн и
+        показать штрих-код прямо на месте.
+    - q: Как забронировать впечатления на Tripadvisor мгновенно?
+      a: С надёжным 4G/5G вашей eSIM для Казахстан вы можете читать отзывы и бронировать
+        местные туры, сидя в кафе.
+    - q: Как использовать Wikipedia/Google для получения информации во время посещения?
+      a: Расширьте свой культурный опыт, ища исторические факты или переводя таблички
+        в музеях с помощью Google Translate на данных eSIM для Казахстан.
+    - q: Как найти дорогу к следующей достопримечательности?
+      a: Введите следующую цель в Google Maps; мощное покрытие вашей eSIM для Казахстан
+        приведёт вас по самому быстрому маршруту.
+    - q: Как проверить время ожидания в парках аттракционов в реальном времени?
+      a: Приложениям парков развлечений нужен интернет для отображения времени ожидания.
+        Ваша eSIM для Казахстан держит вас онлайн на всей территории парка.
+    - q: Как получить доступ к Ticketmaster для билетов на шоу?
+      a: Вы можете безопасно купить билеты в последнюю минуту через приложения для
+        билетов с данными вашей eSIM для Казахстан.
+    - q: Как мгновенно делиться фото/видео в Instagram/TikTok?
+      a: Высокая скорость загрузки eSIM для Казахстан позволяет публиковать рилсы
+        и фото в реальном времени, не дожидаясь Wi-Fi отеля.
   - id: faq-dining
     icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
+    tab_title: Рестораны
+    title: 6. Еда и рестораны
     questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Kazakhstan eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Kazakhstan eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Kazakhstan eSIM ensures you
-        can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Kazakhstan eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Glovo, Wolt, Yandex Eda, register using
-        your email or social accounts, and order food seamlessly using your Kazakhstan
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Kaspi.kz,
-        Halyk Bank, Qiwi require a brief internet handshake, which your Kazakhstan
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Kazakhstan eSIM to find hidden culinary gems in the city.
+    - q: Как найти рестораны через Google Maps/Tripadvisor?
+      a: Используйте вашу eSIM для Казахстан, чтобы искать 'рестораны поблизости'
+        и проверять отзывы, часы работы и фото меню.
+    - q: Как забронировать столик онлайн?
+      a: Обеспечьте бронирование через онлайн-платформы, используя вашу eSIM для Казахстан,
+        пока вы в пути.
+    - q: Как сканировать QR-коды для цифровых меню?
+      a: Многие рестораны используют цифровые меню. Ваша eSIM для Казахстан гарантирует,
+        что код на столе загрузится мгновенно.
+    - q: Как использовать камеру Google Translate для меню?
+      a: Откройте приложение и наведите камеру на меню. Для живого перевода требуется
+        подключение к интернету через вашу eSIM для Казахстан.
+    - q: Как использовать местные сервисы доставки?
+      a: Скачайте местные приложения, такие как Wolt, Chocofood, Delivery Club, и
+        заказывайте с комфортом, используя мобильные данные вашей eSIM для Казахстан.
+    - q: Как платить с помощью Apple Pay/Google Pay?
+      a: Бесконтактные платежи или местные методы, такие как Kaspi.kz, Visa/Mastercard,
+        Apple Pay, требуют короткого интернет-согласования, которое ваша eSIM для
+        Казахстан отлично выполняет.
+    - q: Как найти секретные места, рекомендуемые фуд-блогерами?
+      a: Смотрите YouTube-влоги или изучайте отзывы на Yelp с данными вашей eSIM для
+        Казахстан, чтобы открыть кулинарные изюминки.
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: Соцсети
+    title: 7. Социальные сети и связь
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Kazakhstan eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Kazakhstan eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Kazakhstan eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Kazakhstan
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Kazakhstan eSIM data allowance to check their own social
-        media.
+    - q: Как стабильно использовать WhatsApp/Telegram за границей?
+      a: Ваши аккаунты привязаны к домашнему номеру. С нашей eSIM для Казахстан как
+        источником интернета вы сможете общаться и звонить как дома.
+    - q: Как загружать контент в TikTok без общественного Wi-Fi?
+      a: Общественный Wi-Fi часто медленный и небезопасный. Наш 4G/5G eSIM для Казахстан
+        обеспечивает пропускную способность для быстрой загрузки.
+    - q: Как совершать видеозвонки с семьёй?
+      a: Наши сетевые партнёрства гарантируют, что видеозвонки через eSIM для Казахстан
+        будут чёткими и без задержек, где бы вы ни находились в стране.
+    - q: Безопасно ли входить в социальные сети через общественный Wi-Fi?
+      a: Общественный Wi-Fi уязвим для хакеров. Использование ваших собственных данных
+        eSIM для Казахстан зашифровано и гораздо безопаснее.
+    - q: Как поделиться сетью в качестве точки доступа с попутчиками?
+      a: Включите функцию точки доступа. Ваши друзья смогут подключиться и использовать
+        ваш трафик eSIM для Казахстан для своих социальных сетей.
   - id: faq-crossborder
     icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
+    tab_title: Трансграничные поездки
+    title: 8. Трансграничные поездки
     questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Kazakhstan eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Kazakhstan eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: Нужна ли мне новая SIM-карта для каждой страны?
+      a: Одностраничная eSIM для Казахстан работает только там. Для поездок по нескольким
+        странам рекомендуем наши региональные eSIM (например, eSIM для Европы).
+    - q: Как избежать роуминговых сборов при поездке на поезде через границы?
+      a: Отключите 'Роуминг данных' на домашней SIM-карте. Убедитесь, что eSIM для
+        Казахстан установлена как основная для передачи данных.
+    - q: Как получить интернет во время пересадки в Сингапуре/Дубае?
+      a: Вы можете купить недорогую eSIM на 1 ГБ для транзитной страны, чтобы оставаться
+        онлайн во время ожидания рейса.
+    - q: Как получить интернет в круизе?
+      a: Вместо того чтобы платить за дорогой корабельный Wi-Fi, активируйте местную
+        eSIM для стран, которые вы посещаете. Она подключится, как только вы приблизитесь
+        к суше.
+    - q: Как Google Maps остаётся онлайн в автопутешествиях?
+      a: С региональной eSIM ваш телефон автоматически переключится на сеть новой
+        страны при пересечении границы, сохраняя GPS активным.
+    - q: Как управлять данными для нескольких стран в одном приложении?
+      a: Вы можете отслеживать потребление данных для всех активных eSIM через нашу
+        онлайн-панель управления на сайте.
+    - q: Как оставаться на связи при поездке по нескольким странам?
+      a: Поскольку WhatsApp/iMessage работают через данные, региональная eSIM гарантирует,
+        что вы остаётесь доступны под тем же номером телефона.
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: Экстренные случаи
+    title: 9. Экстренные случаи
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Kazakhstan, you can dial local emergency numbers like 112, 101, 102, 103
-        directly from your phone's dialer regardless of your active SIM, as long as
-        your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Kazakhstan eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Kazakhstan eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Kazakhstan eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Kazakhstan eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Kazakhstan eSIM, use
-        your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
+    - q: Как набрать местные номера экстренных служб?
+      a: В Казахстан вы можете набрать номера экстренных служб, такие как 101 (пожарная),
+        102 (полиция), 103 (скорая помощь), напрямую, если ваш телефон ловит сигнал
+        сотовой связи.
+    - q: Как найти ближайшую больницу?
+      a: Данные вашей eSIM для Казахстан позволяют мгновенно искать в Google Maps
+        'аптеку' или 'больницу' и строить самый быстрый маршрут.
+    - q: Как найти информацию о посольстве при потере паспорта?
+      a: Используйте eSIM для Казахстан, чтобы быстро найти адрес и контактный номер
+        вашего посольства.
+    - q: Как связаться со страховой компанией при несчастном случае?
+      a: Используйте VoIP-приложения, такие как Skype, через данные eSIM для Казахстан,
+        чтобы позвонить на горячие линии страховой.
+    - q: Как поделиться своим местоположением в реальном времени?
+      a: Используйте 'Поделиться местоположением' в WhatsApp или Apple 'Где мои',
+        чтобы отправлять координаты через данные eSIM для Казахстан.
+    - q: Как загрузить офлайн-карты для удалённых районов?
+      a: Используя городское покрытие eSIM для Казахстан, загрузите офлайн-карты в
+        Google Maps, прежде чем отправиться в места без сигнала.
   - id: faq-business
     icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
+    tab_title: Бизнес
+    title: 10. Бизнес и работа
     questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Kazakhstan eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Kazakhstan eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Kazakhstan eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Kazakhstan eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Kazakhstan eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Kazakhstan eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Kazakhstan eSIM to update them on flight delays or schedule
-        changes.
+    - q: Как гарантировать стабильные встречи в Zoom/Teams?
+      a: Наша eSIM для Казахстан подключается к премиальным сетям, обеспечивая полосу
+        пропускания и низкую задержку для профессиональных видеоконференций.
+    - q: Как безопасно подключиться к корпоративному VPN?
+      a: Наши данные не ограничивают VPN-протоколы. Вы можете безопасно запустить
+        корпоративный VPN через сеть eSIM для Казахстан.
+    - q: Как использовать точку доступа для ноутбука в кафе?
+      a: Включите точку доступа. Использование вашей eSIM для Казахстан значительно
+        быстрее и безопаснее для киберугроз, чем открытый Wi-Fi.
+    - q: Как получать 2FA-коды для корпоративной электронной почты?
+      a: Оставьте вашу домашнюю SIM-карту активной для SMS и используйте данные eSIM
+        для Казахстан для кодов, приходящих по электронной почте.
+    - q: Как загружать большие файлы во время встреч с клиентами?
+      a: Скорости 5G/4G-LTE вашей eSIM для Казахстан позволяют быстро загружать презентации
+        в облачные сервисы.
+    - q: Как беспрепятственно использовать Slack/Gmail для совместной работы?
+      a: Ваша eSIM для Казахстан обеспечивает постоянное соединение, поэтому вы мгновенно
+        получаете сообщения Slack и электронные письма.
+    - q: Как обновлять планы поездок для компании онлайн?
+      a: Получайте доступ к корпоративным порталам через eSIM для Казахстан в пути,
+        чтобы сообщать отделу кадров о задержках рейсов.
 related_products:
-  title: Related eSIM Plans
+  title: Похожие eSIM тарифы
   items:
-  - name: united states eSIM
+  - name: eSIM США
     flag: img/flags/us.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: United-Kingdom
+    slug: united-states-esim
+  - name: eSIM Великобритании
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Europe eSIM
+    slug: united-kingdom-esim
+  - name: eSIM Европы
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: true
-  - name: Canada eSIM
+    slug: europe-esim
+  - name: eSIM Канады
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Turkey eSIM
+    slug: canada-esim
+  - name: eSIM Турции
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: China eSIM
+    slug: turkey-esim
+  - name: eSIM Китая
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Japan eSIM
+    slug: china-esim
+  - name: eSIM Японии
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
+    slug: japan-esim
+  - name: eSIM Гонконга
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
+    slug: hong-kong-esim
+  - name: eSIM Франции
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
+    slug: france-esim
+  - name: eSIM Испании
     flag: img/flags/es.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
+    slug: spain-esim
+  - name: eSIM Германии
     flag: img/flags/de.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: germany-esim
+  - name: eSIM Австралии
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
+    slug: australia-esim
 
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
+# =============== 100% полное восстановление: модуль сравнения на основе данных ===============
 market_analysis:
-  title: "Kazakhstan eSIM vs Prepaid SIM: Cost and Convenience Compared"
-  subtitle: "Kazakhstan Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: "eSIM для Kazakhstan против физической SIM-карты: преимущества и недостатки"
+  subtitle: "Сравнение местных предоплаченных SIM-карт в Казахстане и eSIM-решений (2024/2025 бенчмарк)"
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Kazakhstan) + Local Operator Sites"
+    text: "Источник данных: Prepaid Data SIM Card Wiki (Kazakhstan) + веб-сайты местных операторов"
     url: "https://prepaid-data-sim-card.fandom.com/wiki/Kazakhstan"
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Kazakhstan eSIM"
+    - "Матрица сравнения"
+    - "Местная предоплаченная SIM (рыночные данные)"
+    - "Roami eSIM для Kazakhstan"
   table_rows:
     - icon: "store"
-      title: "Acquisition &<br>Activation"
+      title: "Приобретение и<br>активация"
       prepaid_title: ""
-      prepaid_desc: "Must go to airport, train station, or city center outlets to queue. Passport required for real-name registration. Street vendors sell Beeline SIMs for 150-1000 KZT but communication is difficult."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport queues and passport checks. Activate online within 1 minute after landing in Almaty or Nur-Sultan."
+      prepaid_desc: "Приобретение SIM-карт Kcell, Beeline, Tele2 возможно в аэропортах, на вокзалах или в городских точках продаж. Стоимость SIM-карты Kcell — 1500 тенге (включая 1300 тенге предоплаты), Beeline — 150-1000 тенге."
+      esim_title: "Мгновенная цифровая доставка"
+      esim_desc: "Избегайте очередей в точках продаж Kcell или Beeline. Активируйте eSIM онлайн за 1 минуту после приземления в Алматы или Нур-Султане."
     - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
+      title: "KYC и регистрация<br>по паспорту"
       prepaid_title: ""
-      prepaid_desc: "Foreigners must submit passport, residence permit, or diplomatic documents. Since 2019, device IMEI is forcibly bound to personal identity in the government database (BDIK)."
-      esim_title: "No Passport or IMEI Binding"
-      esim_desc: "Avoid Kcell's strict passport registration and BDIK IMEI lock. Roami eSIM activates without any personal ID."
+      prepaid_desc: "Строгая регистрация по паспорту: для покупки SIM-карты Kcell требуется загранпаспорт, вид на жительство или дипломатические документы. С 2019 года IMEI устройства привязывается к личности в базе BDIC."
+      esim_title: "Без паспорта и IMEI-привязки"
+      esim_desc: "В отличие от Kcell, требующего паспорт и привязку IMEI к базе BDIC, eSIM не требует KYC. Ваше устройство не блокируется для других SIM."
     - icon: "globe"
-      title: "International<br>Roaming"
+      title: "Международный<br>роуминг"
       prepaid_title: ""
-      prepaid_desc: "Kcell roaming pack 150 MB/5 days costs 1490 KZT, limited countries. Beeline SuperVisa splits data into 'basic' and 'CIS-only bonus' data. Tele2 default daily roaming pack 590 KZT gives only 100 MB high-speed then throttled to 128 kbps."
-      esim_title: "Global Roaming Without Caps"
-      esim_desc: "Unlike Beeline's SuperVisa that splits data into CIS-only bonus (e.g., 1GB basic vs 5GB CIS), Roami offers seamless multi-country data with no regional restrictions."
+      prepaid_desc: "Роуминг-пакеты дороги: Kcell предлагает 150 МБ за 5 дней за 1490 тенге. Beeline делит трафик на «базовый» и «бонусный» (только для СНГ). Tele2 автоматически активирует ежедневный роуминг за 590 тенге (100 МБ, затем 128 кбит/с)."
+      esim_title: "Глобальный роуминг без ограничений"
+      esim_desc: "В отличие от Beeline, где роуминг-пакет делит трафик на «базовый» и «бонусный» (только СНГ), eSIM работает в нескольких странах без разделения. Нет риска остаться без связи."
     - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
+      title: "Расчетный цикл и<br>потерянные затраты"
       prepaid_title: ""
-      prepaid_desc: "All major operators use 30-day cycles. Kcell minimum 5GB plan costs 1490 KZT, Beeline 3GB costs 890 KZT. A 5-day trip wastes over 80% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Kcell's 30-day 5GB plan costs 1490 KZT (~$3.30) but a 7-day trip wastes 77% of data. Roami offers 7-day plans starting from $1.99/GB, saving over 75% waste."
+      prepaid_desc: "Расчетный период — 30 дней. Минимальный тариф Kcell: 5 ГБ за 1490 тенге. Beeline: 3 ГБ за 890 тенге. Tele2: настраиваемые пакеты от 10 ГБ за 2490 тенге."
+      esim_title: "Гибкие тарифы без потерь"
+      esim_desc: "В отличие от 30-дневных циклов Kcell (5 ГБ за 1490 тенге), Roami предлагает 7-дневные тарифы от $1.99/ГБ, экономя до 75% средств при коротких поездках."
     - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
+      title: "Хотспот и политика<br>скорости"
       prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, most Kazakh prepaid SIMs allow tethering but may throttle after certain usage."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Most Kazakh prepaid SIMs allow tethering but may throttle after 3GB/day. Roami provides full-speed hotspot with no caps."
+      prepaid_desc: "Нет конкретных данных в источнике для этого измерения. На основе рыночных знаний: большинство операторов разрешают раздачу, но могут ограничивать скорость после исчерпания пакета."
+      esim_title: "Неограниченная раздача"
+      esim_desc: "В отличие от местных операторов, которые могут ограничивать скорость после исчерпания пакета, eSIM позволяет раздавать интернет на другие устройства без дополнительной платы."
     - icon: "credit-card"
-      title: "Top-up Payments"
+      title: "Пополнение и оплата"
       prepaid_title: ""
-      prepaid_desc: "Kcell explicitly states foreign debit cards may not be accepted. Beeline requires street top-up machines. Tele2 online payment is complicated."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Kcell rejects foreign debit cards; Beeline requires street machines. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
+      prepaid_desc: "Kcell не принимает международные банковские карты для онлайн-пополнения. Beeline требует оплаты через уличные терминалы. Tele2 имеет онлайн-оплату, но процесс сложен."
+      esim_title: "Глобальная оплата без проблем"
+      esim_desc: "В отличие от Kcell, не принимающего международные карты, eSIM можно оплатить Visa, Mastercard, AMEX, Apple Pay, Google Pay или PayPal. Никаких уличных терминалов."
     - icon: "headset"
-      title: "Customer Support"
+      title: "Поддержка клиентов"
       prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, customer support is primarily in Russian/Kazakh, limited English."
-      esim_title: "24/7 English Support"
-      esim_desc: "Kazakh operators offer limited English support. Roami provides 24/7 live chat in English for instant help."
+      prepaid_desc: "Нет конкретных данных в источнике для этого измерения. На основе рыночных знаний: поддержка клиентов обычно на казахском и русском языках, английский может быть ограничен."
+      esim_title: "Поддержка 24/7 на русском"
+      esim_desc: "В отличие от местных операторов с ограниченной поддержкой на английском, eSIM предоставляет круглосуточную поддержку на русском языке через чат и телефон."
 
-  # =============== 100% 完整还原：专家结论模块 ===============
+  # =============== 100% полное восстановление: модуль экспертного заключения ===============
   expert_verdict:
-    title: "Kazakhstan eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared"
+    title: "eSIM для Kazakhstan против предоплаченной SIM: что умнее и экономически выгоднее?"
     cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Kazakhstan's Strict SIM Passport Requirements"
-        desc: "Kcell and Beeline require passport registration and IMEI binding to BDIK since 2019. Roami eSIM activates instantly with <b>no ID</b> needed, avoiding the risk of device lock."
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
-        title: "Global Payment Acceptance"
-        desc: "Kcell rejects foreign debit cards; Beeline requires street top-up machines. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal</b>."
-      - icon: "globe"
+        title: "Удобная оплата без отказов"
+        desc: "Kcell не принимает международные карты. Beeline требует уличные терминалы. eSIM принимает Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal."
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Круглосуточная поддержка на русском"
+        desc: "Поддержка местных операторов часто ограничена по времени и языку. eSIM предоставляет поддержку 24/7 на русском языке."
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "Гибкие тарифы без потерь"
+        desc: "Kcell и Beeline предлагают только 30-дневные пакеты (Kcell 5 ГБ за 1490 тенге). При поездке на 5 дней вы теряете 83% трафика. eSIM с 7-дневными тарифами от $1.99/ГБ экономит деньги."
+      - icon: "wifi"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
-        title: "Multi-Country Seamless Roaming"
-        desc: "Tele2's daily roaming pack (590 KZT) gives only 100MB high-speed then 128kbps. Roami provides <b>high-speed data across 100+ countries</b> without throttling."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Roaming Data 'Slicing' Traps"
-        desc: "Beeline's SuperVisa splits data into 'basic' and 'CIS-only bonus' (e.g., 1GB basic + 5GB CIS). Roami provides <b>unified global data</b> with no regional restrictions."
+        title: "Раздача интернета без ограничений"
+        desc: "Местные операторы могут ограничивать скорость после исчерпания пакета. eSIM позволяет раздавать интернет на другие устройства без дополнительной платы."
 ---

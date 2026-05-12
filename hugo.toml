@@ -150,7 +150,7 @@ disableKinds = ["taxonomy", "term"]
  
  # 俄语
     [languages.ru]
-	disabled = true
+	disabled = false
     languageName = "Русский"
     contentDir = "content/ru"  #  сообщаем Hugo, что русский контент в этой папке
     weight = 1
@@ -162,7 +162,7 @@ disableKinds = ["taxonomy", "term"]
       { name = "Тарифы", url = "/plans/" },
       { name = "совместимость", url = "/compatibility/" },
      { name = "Бесплатная", url = "/free-esim/" },
-      { name = "Приложение Roami", url = "/app/" },
+      { name = "Приложение", url = "/app/" },
 	   { name = "Операторы", url = "/carriers/" },
       { name = "Помощь", url = "/faq/" }
     ]
