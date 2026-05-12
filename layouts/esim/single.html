@@ -112,7 +112,7 @@
     </script>
     {{ end }}
 
-    <link href="/css/tailwind-compiled.css" rel="stylesheet">
+    <link href="/css/tailwind-compiled.css?=11" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -202,7 +202,7 @@
 
 {{ partial "header.html" . }}
 
-<main class="flex-grow max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full">
+<main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full">
 
   <nav class="flex text-sm text-slate-500 mb-6" aria-label="Breadcrumb">
     <ol class="inline-flex items-center space-x-1 md:space-x-2">
@@ -232,10 +232,12 @@
                 <div class="relative p-8 md:p-10">
                     <div class="flex items-center gap-4"> 
                         <img src="/{{ trim .Params.hero.flag_image "/" }}" alt="{{ .Params.hero.flag_alt }}" class="w-14 h-14 rounded-full shadow-md border-2 border-white">
-                        <div>
-                            <h1 class="text-3xl md:text-4xl font-extrabold text-slate-900 tracking-tight mb-1">{{ .Params.hero.title }}</h1>
-                            <p class="text-lg text-slate-500 font-medium">{{ .Params.hero.subtitle }}</p>
-                        </div>
+                       <div>
+    <h1 class="text-3xl md:text-4xl font-extrabold text-slate-900 tracking-tight mb-1 break-words hyphens-auto">
+        {{ .Params.hero.title }}
+    </h1>
+    <p class="text-lg text-slate-500 font-medium">{{ .Params.hero.subtitle }}</p>
+</div>
                     </div>
                 </div>
             </header>

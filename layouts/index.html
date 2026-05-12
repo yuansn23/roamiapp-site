@@ -4,6 +4,7 @@
     {{ partial "head.html" . }}
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <style>
+        /* 原有样式保留 */
         @media (max-width: 767px) {
             .fixed.bottom-0 {
                 padding-bottom: max(0.75rem, env(safe-area-inset-bottom));
@@ -14,7 +15,60 @@
             .js-unified-download-btn {
                 touch-action: manipulation;
             }
+            
+            /* 1. 手机上一行显示 Your Global Connectivity Expert */
+            .hero-title-main {
+                white-space: nowrap;
+            }
+            
+            /* 2. 首屏图片上的文字变小 */
+            .floating-card-title {
+                font-size: 0.7rem !important;
+            }
+            .floating-card-desc {
+                font-size: 0.6rem !important;
+            }
+            /* 调整浮动卡片内部间距 */
+            .floating-card {
+                padding: 0.5rem !important;
+                gap: 0.5rem !important;
+            }
+            .floating-card-icon {
+                width: 2rem !important;
+                height: 2rem !important;
+            }
+            
+            /* 3. 整体紧凑：减少各个区域的上下内边距 */
+            section {
+                padding-top: 2rem !important;
+                padding-bottom: 2rem !important;
+            }
+            /* 恢复第一个section的独特内边距（hero） */
+            section:first-of-type {
+                padding-top: 2rem !important;
+                padding-bottom: 2rem !important;
+            }
+            /* 调整标题下方间距 */
+            .section-title {
+                margin-bottom: 1rem !important;
+            }
+            .section-desc {
+                margin-bottom: 1.5rem !important;
+            }
+            /* 卡片网格间距调整 */
+            .grid.gap-5, .grid.gap-4 {
+                gap: 0.75rem !important;
+            }
+            
+            /* 4. Why Choose Roami 模块在手机上每行2个 */
+            .why-choose-grid {
+                display: grid !important;
+                grid-template-columns: repeat(2, 1fr) !important;
+                gap: 0.75rem !important;
+            }
         }
+        
+        /* 桌面端保持原有样式，不做更改 */
     </style>
 </head>
 <body class="bg-white text-slate-900 antialiased pb-24 md:pb-0">
@@ -55,7 +109,7 @@
                     {{ .Params.hero.tag }}
                 </div>
 
-                <h1 class="font-extrabold text-slate-900 leading-tight tracking-tight mb-4 text-4xl sm:text-5xl lg:text-6xl">
+                <h1 class="font-extrabold text-slate-900 leading-tight tracking-tight mb-4 text-4xl sm:text-5xl lg:text-6xl hero-title-main">
                     {{ .Params.hero.title | safeHTML }}
                 </h1>
 
@@ -96,13 +150,13 @@
                 <div class="relative rounded-3xl overflow-hidden shadow-2xl border border-slate-200/50">
                     <img src="/img/home.jpg" alt="Global eSIM Travel Connection" class="w-full h-auto object-cover aspect-video lg:aspect-[4/3] max-h-[460px]">
                     <div class="absolute inset-0 bg-gradient-to-t from-slate-900/40 to-transparent"></div>
-                    <div class="absolute bottom-6 left-6 right-6 bg-white/90 backdrop-blur-md p-4 rounded-2xl shadow-lg border border-white/50 flex items-center gap-4">
-                        <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center flex-shrink-0">
+                    <div class="absolute bottom-6 left-6 right-6 bg-white/90 backdrop-blur-md p-4 rounded-2xl shadow-lg border border-white/50 flex items-center gap-4 floating-card">
+                        <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center flex-shrink-0 floating-card-icon">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-6 h-6"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/></svg>
                         </div>
                         <div>
-                            <div class="font-bold text-slate-900 text-sm">{{ .Params.hero.floating_card_title }}</div>
-                            <div class="text-xs text-slate-500">{{ .Params.hero.floating_card_desc }}</div>
+                            <div class="font-bold text-slate-900 text-sm floating-card-title">{{ .Params.hero.floating_card_title }}</div>
+                            <div class="text-xs text-slate-500 floating-card-desc">{{ .Params.hero.floating_card_desc }}</div>
                         </div>
                     </div>
                 </div>
@@ -286,7 +340,8 @@
             {{ end }}
         </dl>
         
-        <ul class="grid md:grid-cols-2 lg:grid-cols-3 gap-5 list-none p-0 m-0">
+        <!-- 为 Why Choose Roami 的6个卡片添加自定义类，以便手机端设置每行2个 -->
+        <ul class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-5 list-none p-0 m-0 why-choose-grid">
             {{ range $index, $card := .Params.features.cards }}
             <li>
                 <a href="https://apps.apple.com/app/id6747127122" target="_blank" rel="noopener noreferrer" class="feature-card block p-8 rounded-2xl bg-slate-50 border border-slate-200 cursor-pointer hover:shadow-md transition-shadow focus:outline-none focus:ring-2 focus:ring-blue-500">
@@ -524,7 +579,7 @@
 
 {{ partial "footer.html" . }}
 
-<!-- ========== 弹窗 Modal（直接使用 i18n 渲染，不依赖 JS） ========== -->
+<!-- ========== 弹窗 Modal ========== -->
 <div id="redirect-modal" class="fixed inset-0 z-50 hidden flex items-center justify-center bg-slate-900/60 backdrop-blur-sm transition-opacity" aria-modal="true" role="dialog" aria-labelledby="modal-title" aria-describedby="modal-desc">
     <div class="bg-white rounded-2xl p-6 md:p-8 max-w-sm w-full mx-4 shadow-2xl transform scale-95 transition-transform duration-300" id="redirect-modal-content">
         <div class="w-14 h-14 bg-blue-50 text-blue-600 rounded-full flex items-center justify-center mb-5 mx-auto border-4 border-blue-100" aria-hidden="true">
