@@ -114,3 +114,48 @@ other = "Langue"
 
 [close]
 other = "Fermer"
+
+[fifa_title_line1]
+other = "Connectivité transparente"
+
+[fifa_title_line2]
+other = "Coupe du Monde FIFA 2026™"
+
+[fifa_desc]
+other = "Une eSIM de voyage mondiale pour votre périple à travers toutes les villes hôtes. Restez connecté, partagez chaque instant."
+
+[fifa_guide_text]
+other = "✈️ Voyagez sans frontières — obtenez votre eSIM maintenant"
+
+[fifa_card1_title]
+other = "Sans itinérance"
+
+[fifa_card1_desc]
+other = "Payez aux tarifs locaux"
+
+[fifa_card2_title]
+other = "Une SIM, 3 pays"
+
+[fifa_card2_desc]
+other = "États-Unis · Canada · Mexique"
+
+[fifa_card3_title]
+other = "Activation instantanée"
+
+[fifa_card3_desc]
+other = "Prêt avant le décollage"
+
+[fifa_country_canada]
+other = "🇨🇦 Canada"
+
+[fifa_country_mexico]
+other = "🇲🇽 Mexique"
+
+[fifa_country_usa]
+other = "🇺🇸 États-Unis"
+
+[fifa_5g]
+other = "⚡ Prêt pour la 5G"
+
+[fifa_button]
+other = "Obtenir l'eSIM Coupe du Monde"

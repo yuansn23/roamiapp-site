@@ -113,3 +113,48 @@ other = "Язык"
 
 [close]
 other = "Закрыть"
+
+[fifa_title_line1]
+other = "Бесперебойное соединение"
+
+[fifa_title_line2]
+other = "Чемпионат мира FIFA 2026™"
+
+[fifa_desc]
+other = "Глобальная туристическая eSIM для вашего путешествия по всем городам-хозяевам. Оставайтесь на связи, делитесь каждым моментом."
+
+[fifa_guide_text]
+other = "✈️ Путешествуйте без границ — получите eSIM сейчас"
+
+[fifa_card1_title]
+other = "Без роуминга"
+
+[fifa_card1_desc]
+other = "Платите по местным тарифам"
+
+[fifa_card2_title]
+other = "Одна SIM, 3 страны"
+
+[fifa_card2_desc]
+other = "США · Канада · Мексика"
+
+[fifa_card3_title]
+other = "Мгновенная активация"
+
+[fifa_card3_desc]
+other = "Готово до вылета"
+
+[fifa_country_canada]
+other = "🇨🇦 Канада"
+
+[fifa_country_mexico]
+other = "🇲🇽 Мексика"
+
+[fifa_country_usa]
+other = "🇺🇸 США"
+
+[fifa_5g]
+other = "⚡ Готово к 5G"
+
+[fifa_button]
+other = "Получить eSIM для ЧМ"

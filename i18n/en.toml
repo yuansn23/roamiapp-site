@@ -113,3 +113,48 @@ other = "Language"
 
 [close]
 other = "Close"
+
+[fifa_title_line1]
+other = "Seamless Connectivity"
+
+[fifa_title_line2]
+other = "2026 FIFA World Cup™"
+
+[fifa_desc]
+other = "Global travel eSIM empowering your journey across all host cities. Stay connected, share every moment."
+
+[fifa_guide_text]
+other = "✈️ Travel without borders — get your eSIM now"
+
+[fifa_card1_title]
+other = "No Roaming"
+
+[fifa_card1_desc]
+other = "Pay local rates"
+
+[fifa_card2_title]
+other = "One SIM, 3 Countries"
+
+[fifa_card2_desc]
+other = "USA · Canada · Mexico"
+
+[fifa_card3_title]
+other = "Instant Activation"
+
+[fifa_card3_desc]
+other = "Ready before you fly"
+
+[fifa_country_canada]
+other = "🇨🇦 Canada"
+
+[fifa_country_mexico]
+other = "🇲🇽 Mexico"
+
+[fifa_country_usa]
+other = "🇺🇸 USA"
+
+[fifa_5g]
+other = "⚡ 5G Ready"
+
+[fifa_button]
+other = "Get World Cup eSIM"
