@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Kuwait
   title: Best eSIM for Kuwait
 hero:
-  flag_image: img/flags/ku.svg
+  flag_image: img/flags/kw.svg
   flag_alt: Kuwait Flag
   title: Kuwait eSIM data plan
   subtitle: Comfortable | 24/7 customer support | Instant delivery

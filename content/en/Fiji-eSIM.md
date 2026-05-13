@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Fiji
   title: Best eSIM for Fiji
 hero:
-  flag_image: img/flags/fi.svg
+  flag_image: img/flags/fj.svg
   flag_alt: Fiji Flag
   title: Fiji eSIM data plan
   subtitle: High-speed 5G network | Bestseller | 1-minute activation

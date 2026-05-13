@@ -45,7 +45,7 @@ banner:
   alt: Beste eSIM für Brunei
   title: Beste eSIM für Brunei
 hero:
-  flag_image: img/flags/br.svg
+  flag_image: img/flags/bn.svg
   flag_alt: Brunei Flagge
   title: Brunei eSIM Datentarif
   subtitle: Top-Wahl für Reisen in Brunei | Günstige Brunei eSIM | 100% Geld-zurück-Garantie

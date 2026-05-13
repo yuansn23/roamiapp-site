@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Southeast Asia
   title: Best eSIM for Southeast Asia
 hero:
-  flag_image: img/flags/so.svg
+  flag_image: img/flags/ya.webp
   flag_alt: Southeast Asia Flag
   title: Southeast Asia eSIM data plan
   subtitle: No hidden fees | No more roaming fees | Smooth video streaming

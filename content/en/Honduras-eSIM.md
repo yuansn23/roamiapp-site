@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Honduras
   title: Best eSIM for Honduras
 hero:
-  flag_image: img/flags/ho.svg
+  flag_image: img/flags/hn.svg
   flag_alt: Honduras Flag
   title: Honduras eSIM data plan
   subtitle: Bestseller | Smooth video streaming | Hotspot supported

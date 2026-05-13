@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Croatia
   title: Best eSIM for Croatia
 hero:
-  flag_image: img/flags/cr.svg
+  flag_image: img/flags/hr.svg
   flag_alt: Croatia Flag
   title: Croatia eSIM data plan
   subtitle: Comfortable | No more roaming fees | High-speed 5G network

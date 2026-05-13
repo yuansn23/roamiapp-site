@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Malta
   title: Best eSIM for Malta
 hero:
-  flag_image: img/flags/ma.svg
+  flag_image: img/flags/mt.svg
   flag_alt: Malta Flag
   title: Malta eSIM data plan
   subtitle: Instant delivery | No hidden fees | Automatic network selection

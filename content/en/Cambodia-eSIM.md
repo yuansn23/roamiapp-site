@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Cambodia
   title: Best eSIM for Cambodia
 hero:
-  flag_image: img/flags/ca.svg
+  flag_image: img/flags/kh.svg
   flag_alt: Cambodia Flag
   title: Cambodia eSIM data plan
   subtitle: No hidden fees | Worry-free internet | No more roaming fees

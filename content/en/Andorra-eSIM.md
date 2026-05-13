@@ -45,7 +45,7 @@ banner:
   alt: Best eSIM for Andorra
   title: Best eSIM for Andorra
 hero:
-  flag_image: img/flags/an.svg
+  flag_image: img/flags/ad.svg
   flag_alt: Andorra Flag
   title: Andorra eSIM data plan
   subtitle: Top rated | Instant delivery | High-speed 5G network

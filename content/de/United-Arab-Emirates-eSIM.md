@@ -40,7 +40,7 @@ banner:
   alt: Bestwert VAE eSIM
   title: Bestwert VAE eSIM
 hero:
-  flag_image: img/flags/ua.svg
+  flag_image: img/flags/ae.svg
   flag_alt: Flagge der VAE
   title: VAE eSIM Datentarif
   subtitle: Reise-Essential | Entspannt reisen | Hotspot unterstützt

@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Nigeria
   title: Best eSIM for Nigeria
 hero:
-  flag_image: img/flags/ni.svg
+  flag_image: img/flags/ng.svg
   flag_alt: Nigeria Flag
   title: Nigeria eSIM data plan
   subtitle: No hidden fees | Instant delivery | Travel essential

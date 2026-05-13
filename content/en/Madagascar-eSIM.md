@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Madagascar
   title: Best eSIM for Madagascar
 hero:
-  flag_image: img/flags/ma.svg
+  flag_image: img/flags/mg.svg
   flag_alt: Madagascar Flag
   title: Madagascar eSIM data plan
   subtitle: High-speed 5G network | Smooth video streaming | Top rated

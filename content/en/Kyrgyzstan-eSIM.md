@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Kyrgyzstan
   title: Best eSIM for Kyrgyzstan
 hero:
-  flag_image: img/flags/ky.svg
+  flag_image: img/flags/kz.svg
   flag_alt: Kyrgyzstan Flag
   title: Kyrgyzstan eSIM data plan
   subtitle: High-speed 5G network | Comfortable | Smooth video streaming

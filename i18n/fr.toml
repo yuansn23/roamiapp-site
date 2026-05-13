@@ -1,0 +1,116 @@
+# 法语 (fr) 国际化配置
+
+[download_on_the]
+other = "Télécharger sur l'"
+
+[app_store]
+other = "App Store"
+
+[get_it_on]
+other = "Disponible sur"
+
+[google_play]
+other = "Google Play"
+
+[visit_our]
+other = "Visitez notre"
+
+[official_website]
+other = "Site officiel"
+
+[view_plans]
+other = "Voir les forfaits"
+
+[web]
+other = "Web"
+
+[android]
+other = "Android"
+
+# 弹窗相关
+[friendly_reminder]
+other = "Service mis à jour"
+
+[modal_upgrade_desc]
+other = "Nos services ont été améliorés. Veuillez visiter notre site officiel ou notre application pour obtenir votre code promo."
+
+[cancel]
+other = "Annuler"
+
+[proceed]
+other = "Continuer"
+
+# 悬浮按钮文本
+[get_esim_discount]
+other = "Obtenez 20% de réduction sur eSIM"
+
+# FAQ 标题和描述
+[faq_title]
+other = "Questions fréquentes"
+
+[faq_desc]
+other = "Tout ce que vous devez savoir sur notre service eSIM mondial."
+
+# 以下可选（保留原结构）
+[modal_title_ios]
+other = "Service mis à jour"
+
+[modal_text_ios]
+other = "Vous serez redirigé vers l'application officielle pour obtenir le code de réduction."
+
+[tldr_summary_title]
+other = "Résumé rapide pour les voyageurs"
+
+[modal_cancel]
+other = "Annuler"
+
+[modal_continue]
+other = "Continuer"
+
+[global_connectivity_expert]
+other = "Expert en connectivité mondiale"
+
+[structured_data_org_description]
+other = "Fournisseur professionnel de services eSIM mondiaux offrant un itinérance de données haut débit dans plus de 200 pays."
+
+[structured_data_product_description]
+other = "Forfaits eSIM de voyage prépayés pour plus de 200 pays avec activation instantanée et internet 5G/4G haut débit."
+
+[structured_data_faq1_question]
+other = "Comment acheter une eSIM pour les États-Unis ?"
+
+[structured_data_faq1_answer]
+other = "Pour acheter une eSIM pour les États-Unis, téléchargez simplement l'application Roami, sélectionnez les États-Unis comme destination, choisissez un forfait de données adapté à vos besoins et effectuez l'achat. L'activation est instantanée."
+
+[structured_data_faq2_question]
+other = "Comment acheter une eSIM pour le Japon en ligne ?"
+
+[structured_data_faq2_answer]
+other = "Acheter une eSIM pour le Japon est facile avec Roami. Recherchez le Japon dans notre application, sélectionnez votre forfait de données 5G/4G préféré et installez-le via code QR ou activation en un clic avant votre voyage."
+
+[structured_data_faq3_question]
+other = "Comment obtenir une eSIM pour l'Europe, le Royaume-Uni ou la France ?"
+
+[structured_data_faq3_answer]
+other = "Roami propose des eSIM régionales pour l'Europe ainsi que des forfaits locaux pour le Royaume-Uni, la France, l'Italie, l'Allemagne et l'Espagne. Sélectionnez simplement votre destination dans l'application pour être connecté instantanément sans frais d'itinérance."
+
+[structured_data_faq4_question]
+other = "Pourquoi choisir Roami plutôt qu'Airalo, Nomad, Holafly ou Ubigi ?"
+
+[structured_data_faq4_answer]
+other = "Bien que Airalo, Nomad eSIM, Holafly, Saily eSIM, Yesim, MobiMatter et GigSky soient des options, Roami propose des prix extrêmement compétitifs à partir de 1,99 $, une assistance humaine 24h/24 et une politique de remboursement sans souci pour plus de 200 pays."
+
+[software_description]
+other = "Fournisseur mondial d'eSIM pour une connectivité de voyage haut débit."
+
+[last_updated]
+other = "Dernière mise à jour"
+
+[select_language]
+other = "Choisir la langue"
+
+[language]
+other = "Langue"
+
+[close]
+other = "Fermer"

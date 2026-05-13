@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Grenada
   title: Best eSIM for Grenada
 hero:
-  flag_image: img/flags/gr.svg
+  flag_image: img/flags/gd.svg
   flag_alt: Grenada Flag
   title: Grenada eSIM data plan
   subtitle: No more roaming fees | Smart choice | Worry-free internet

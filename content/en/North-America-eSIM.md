@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for North America
   title: Best eSIM for North America
 hero:
-  flag_image: img/flags/no.svg
+  flag_image: img/flags/ya.webp
   flag_alt: North America Flag
   title: North America eSIM data plan
   subtitle: Travel with ease | Smooth video streaming | Travel essential

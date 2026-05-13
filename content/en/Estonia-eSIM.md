@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Estonia
   title: Best eSIM for Estonia
 hero:
-  flag_image: img/flags/es.svg
+  flag_image: img/flags/ee.svg
   flag_alt: Estonia Flag
   title: Estonia eSIM data plan
   subtitle: Prioritized 5G access | Comfortable | Travel essential

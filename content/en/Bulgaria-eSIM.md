@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Bulgaria
   title: Best eSIM for Bulgaria
 hero:
-  flag_image: img/flags/bu.svg
+  flag_image: img/flags/bg.svg
   flag_alt: Bulgaria Flag
   title: Bulgaria eSIM data plan
   subtitle: 1-minute activation | Automatic network selection | Smooth video streaming

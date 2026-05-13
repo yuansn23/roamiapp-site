@@ -45,7 +45,7 @@ banner:
   alt: Лучшая eSIM для Косово
   title: Лучшая eSIM для Косово
 hero:
-  flag_image: img/flags/ko.svg
+  flag_image: img/flags/xk.svg
   flag_alt: Флаг Косово
   title: Тариф eSIM для Косово
   subtitle: Высокий рейтинг | Плавный видеопоток | Активация за 1 минуту

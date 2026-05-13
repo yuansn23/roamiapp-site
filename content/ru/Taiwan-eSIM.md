@@ -42,7 +42,7 @@ banner:
   alt: Лучшая eSIM для Тайвань
   title: Лучшая eSIM для Тайвань
 hero:
-  flag_image: img/flags/886.svg
+  flag_image: img/flags/tw.svg
   flag_alt: Флаг Тайвань
   title: Тариф eSIM для Тайвань
   subtitle: Путешествуйте с лёгкостью | Никаких роуминговых сборов | Плавная потоковая

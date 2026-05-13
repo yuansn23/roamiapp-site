@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Malawi
   title: Best eSIM for Malawi
 hero:
-  flag_image: img/flags/ma.svg
+  flag_image: img/flags/mw.svg
   flag_alt: Malawi Flag
   title: Malawi eSIM data plan
   subtitle: 1-minute activation | High-speed 5G network | Hotspot supported

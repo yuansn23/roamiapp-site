@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Hong Kong
   title: Best eSIM for Hong Kong
 hero:
-  flag_image: img/flags/ho.svg
+  flag_image: img/flags/hk.svg
   flag_alt: Hong Kong Flag
   title: Hong Kong eSIM data plan
   subtitle: Smooth video streaming | High-speed 5G network | No more roaming fees

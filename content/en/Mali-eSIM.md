@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Mali
   title: Best eSIM for Mali
 hero:
-  flag_image: img/flags/ma.svg
+  flag_image: img/flags/ml.svg
   flag_alt: Mali Flag
   title: Mali eSIM data plan
   subtitle: Bestseller | Comfortable | High-speed 5G network

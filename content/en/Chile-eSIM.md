@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Chile
   title: Best eSIM for Chile
 hero:
-  flag_image: img/flags/ch.svg
+  flag_image: img/flags/cl.svg
   flag_alt: Chile Flag
   title: Chile eSIM data plan
   subtitle: 1-minute activation | Smart choice | Instant delivery

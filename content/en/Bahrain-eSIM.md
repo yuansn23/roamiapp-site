@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Bahrain
   title: Best eSIM for Bahrain
 hero:
-  flag_image: img/flags/ba.svg
+  flag_image: img/flags/bh.svg
   flag_alt: Bahrain Flag
   title: Bahrain eSIM data plan
   subtitle: High-speed 5G network | No more roaming fees | Top rated

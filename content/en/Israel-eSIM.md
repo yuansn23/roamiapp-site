@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Israel
   title: Best eSIM for Israel
 hero:
-  flag_image: img/flags/is.svg
+  flag_image: img/flags/il.svg
   flag_alt: Israel Flag
   title: Israel eSIM data plan
   subtitle: High-speed 5G network | 100% money-back guarantee | 20% discount for a

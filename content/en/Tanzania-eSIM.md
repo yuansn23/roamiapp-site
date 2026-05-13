@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Tanzania
   title: Best eSIM for Tanzania
 hero:
-  flag_image: img/flags/ta.svg
+  flag_image: img/flags/tz.svg
   flag_alt: Tanzania Flag
   title: Tanzania eSIM data plan
   subtitle: Bestseller | Hotspot supported | 20% discount for a limited time

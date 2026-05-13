@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for French Guiana
   title: Best eSIM for French Guiana
 hero:
-  flag_image: img/flags/fr.svg
+  flag_image: img/flags/gf.svg
   flag_alt: French Guiana Flag
   title: French Guiana eSIM data plan
   subtitle: Automatic network selection | Bestseller | Comfortable

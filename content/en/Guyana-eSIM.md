@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Guyana
   title: Best eSIM for Guyana
 hero:
-  flag_image: img/flags/gu.svg
+  flag_image: img/flags/gy.svg
   flag_alt: Guyana Flag
   title: Guyana eSIM data plan
   subtitle: High-speed 5G network | Smart choice | 1-minute activation

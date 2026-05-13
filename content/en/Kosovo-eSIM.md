@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Kosovo
   title: Best eSIM for Kosovo
 hero:
-  flag_image: img/flags/ko.svg
+  flag_image: img/flags/xk.svg
   flag_alt: Kosovo Flag
   title: Kosovo eSIM data plan
   subtitle: Top rated | Smooth video streaming | 1-minute activation

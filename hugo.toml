@@ -207,3 +207,51 @@ disableKinds = ["taxonomy", "term"]
     modal_title = "Уведомление"
     modal_cancel = "Отмена"
     modal_confirm = "Перейти сейчас"
+	
+# ========== 新增法语配置 ==========
+[languages.fr]
+languageName = "Français"
+contentDir = "content/fr"
+disabled = true
+weight = 2
+
+[languages.fr.params]
+nav_links = [
+  { name = "Accueil", url = "/" },
+  { name = "Forfaits", url = "/plans/" },
+  { name = "Compatibilité eSIM", url = "/compatibility/" },
+  { name = "eSIM gratuite", url = "/free-esim/" },
+  { name = "App Roami", url = "/app/" },
+  { name = "Opérateurs", url = "/carriers/" },
+  { name = "FAQ", url = "/faq/" }
+]
+footer_desc = "Services eSIM premium dans plus de 200 pays et régions – restez connecté où que vous voyagiez."
+footer_col1_title = "Destinations phares"
+footer_col1_links = [
+  { name = "eSIM États-Unis", url = "/united-states-esim/" },
+  { name = "eSIM Europe", url = "/europe-esim/" },
+  { name = "eSIM Japon", url = "/japan-esim/" },
+  { name = "eSIM Allemagne", url = "/germany-esim/" },
+  { name = "eSIM Turquie", url = "/turkey-esim/" },
+  { name = "eSIM Canada", url = "/canada-esim/" }
+]
+footer_col2_title = "Assistance client"
+footer_col2_links = [
+  { name = "FAQ", url = "/faq/" },
+  { name = "Compatibilité eSIM", url = "/compatibility/" },
+  { name = "Opérateurs", url = "/carriers/" },
+  { name = "Télécharger Roami", url = "/app/" }
+]
+footer_col3_title = "Informations"
+footer_col3_links = [
+  { name = "À propos", url = "/about-us/" },
+  { name = "eSIM gratuite", url = "/free-esim/" },
+  { name = "Confidentialité", url = "/privacy/" },
+  { name = "Conditions d'utilisation", url = "/terms/" }
+]
+footer_copyright = "© 2026 Roami. Tous droits réservés."
+footer_slogan = "Fournisseur professionnel de services eSIM mondiaux | Expert en itinérance des données eSIM"
+
+modal_title = "Avis important"
+modal_cancel = "Annuler"
+modal_confirm = "Aller maintenant"

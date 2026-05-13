@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Botswana
   title: Best eSIM for Botswana
 hero:
-  flag_image: img/flags/bo.svg
+  flag_image: img/flags/bw.svg
   flag_alt: Botswana Flag
   title: Botswana eSIM data plan
   subtitle: Travel essential | Bestseller | No ID required

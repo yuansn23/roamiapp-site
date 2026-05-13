@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Lithuania
   title: Best eSIM for Lithuania
 hero:
-  flag_image: img/flags/li.svg
+  flag_image: img/flags/lt.svg
   flag_alt: Lithuania Flag
   title: Lithuania eSIM data plan
   subtitle: Bestseller | 1-minute activation | Top rated

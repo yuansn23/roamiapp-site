@@ -42,7 +42,7 @@ banner:
   alt: Лучшая eSIM для Танзания
   title: Лучшая eSIM для Танзания
 hero:
-  flag_image: img/flags/255.svg
+  flag_image: img/flags/tz.svg
   flag_alt: Флаг Танзания
   title: Тариф eSIM для Танзания
   subtitle: Активация за 1 минуту | Хит продаж | Высокий рейтинг

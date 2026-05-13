@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Sweden
   title: Best eSIM for Sweden
 hero:
-  flag_image: img/flags/sw.svg
+  flag_image: img/flags/se.svg
   flag_alt: Sweden Flag
   title: Sweden eSIM data plan
   subtitle: Bestseller | Travel with ease | Automatic network selection

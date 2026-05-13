@@ -41,7 +41,7 @@ banner:
   alt: Лучшая eSIM для Лаос
   title: Лучшая eSIM для Лаос
 hero:
-  flag_image: img/flags/856.svg
+  flag_image: img/flags/la.svg
   flag_alt: Флаг Лаос
   title: Тариф eSIM для Лаос
   subtitle: Без скрытых платежей | Никаких роуминговых сборов | Хит продаж

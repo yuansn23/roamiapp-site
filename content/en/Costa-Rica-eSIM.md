@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Costa Rica
   title: Best eSIM for Costa Rica
 hero:
-  flag_image: img/flags/co.svg
+  flag_image: img/flags/cr.svg
   flag_alt: Costa Rica Flag
   title: Costa Rica eSIM data plan
   subtitle: Worry-free internet | Smart choice | High-speed 5G network

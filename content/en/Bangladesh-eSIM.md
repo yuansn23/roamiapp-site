@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Bangladesh
   title: Best eSIM for Bangladesh
 hero:
-  flag_image: img/flags/ba.svg
+  flag_image: img/flags/bd.svg
   flag_alt: Bangladesh Flag
   title: Bangladesh eSIM data plan
   subtitle: High-speed 5G network | Comfortable | Prioritized 5G access

@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Maldives
   title: Best eSIM for Maldives
 hero:
-  flag_image: img/flags/ma.svg
+  flag_image: img/flags/mv.svg
   flag_alt: Maldives Flag
   title: Maldives eSIM data plan
   subtitle: High-speed 5G network | Hotspot supported | No hidden fees

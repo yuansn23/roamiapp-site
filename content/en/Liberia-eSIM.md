@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Liberia
   title: Best eSIM for Liberia
 hero:
-  flag_image: img/flags/li.svg
+  flag_image: img/flags/lr.svg
   flag_alt: Liberia Flag
   title: Liberia eSIM data plan
   subtitle: High-speed 5G network | Hotspot supported | Comfortable

@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for El Salvador
   title: Best eSIM for El Salvador
 hero:
-  flag_image: img/flags/el.svg
+  flag_image: img/flags/sv.svg
   flag_alt: El Salvador Flag
   title: El Salvador eSIM data plan
   subtitle: Automatic network selection | Instant delivery | 24/7 customer support

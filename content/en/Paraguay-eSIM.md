@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Paraguay
   title: Best eSIM for Paraguay
 hero:
-  flag_image: img/flags/pa.svg
+  flag_image: img/flags/py.svg
   flag_alt: Paraguay Flag
   title: Paraguay eSIM data plan
   subtitle: Instant delivery | Smart choice | Worry-free internet

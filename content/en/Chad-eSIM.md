@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Chad
   title: Best eSIM for Chad
 hero:
-  flag_image: img/flags/ch.svg
+  flag_image: img/flags/td.svg
   flag_alt: Chad Flag
   title: Chad eSIM data plan
   subtitle: 24/7 customer support | Instant delivery | Travel with ease

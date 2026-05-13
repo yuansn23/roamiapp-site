@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Belarus
   title: Best eSIM for Belarus
 hero:
-  flag_image: img/flags/be.svg
+  flag_image: img/flags/by.svg
   flag_alt: Belarus Flag
   title: Belarus eSIM data plan
   subtitle: 1-minute activation | 20% discount for a limited time | 100% money-back

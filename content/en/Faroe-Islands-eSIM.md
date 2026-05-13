@@ -45,7 +45,7 @@ banner:
   alt: Best eSIM for Faroe Islands
   title: Best eSIM for Faroe Islands
 hero:
-  flag_image: img/flags/fa.svg
+  flag_image: img/flags/fo.svg
   flag_alt: Faroe Islands Flag
   title: Faroe Islands eSIM data plan
   subtitle: Automatic network selection | Smooth video streaming | 100% money-back

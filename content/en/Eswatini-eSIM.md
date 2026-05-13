@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Eswatini
   title: Best eSIM for Eswatini
 hero:
-  flag_image: img/flags/es.svg
+  flag_image: img/flags/sz.svg
   flag_alt: Eswatini Flag
   title: Eswatini eSIM data plan
   subtitle: High-speed 5G network | 24/7 customer support | Top rated

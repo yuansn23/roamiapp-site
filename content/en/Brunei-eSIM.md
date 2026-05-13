@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Brunei
   title: Best eSIM for Brunei
 hero:
-  flag_image: img/flags/br.svg
+  flag_image: img/flags/bn.svg
   flag_alt: Brunei Flag
   title: Brunei eSIM data plan
   subtitle: 100% money-back guarantee | Automatic network selection | 24/7 customer

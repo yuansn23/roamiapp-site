@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Jamaica
   title: Best eSIM for Jamaica
 hero:
-  flag_image: img/flags/ja.svg
+  flag_image: img/flags/jm.svg
   flag_alt: Jamaica Flag
   title: Jamaica eSIM data plan
   subtitle: Top rated | 20% discount for a limited time | 1-minute activation

@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Dominica
   title: Best eSIM for Dominica
 hero:
-  flag_image: img/flags/do.svg
+  flag_image: img/flags/dm.svg
   flag_alt: Dominica Flag
   title: Dominica eSIM data plan
   subtitle: 24/7 customer support | Worry-free internet | Top rated

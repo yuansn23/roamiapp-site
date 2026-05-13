@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Burkina Faso
   title: Best eSIM for Burkina Faso
 hero:
-  flag_image: img/flags/bu.svg
+  flag_image: img/flags/bg.svg
   flag_alt: Burkina Faso Flag
   title: Burkina Faso eSIM data plan
   subtitle: Travel with ease | Prioritized 5G access | Smooth video streaming

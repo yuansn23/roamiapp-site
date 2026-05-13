@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Austria
   title: Best eSIM for Austria
 hero:
-  flag_image: img/flags/au.svg
+  flag_image: img/flags/at.svg
   flag_alt: Austria Flag
   title: Austria eSIM data plan
   subtitle: 1-minute activation | 100% money-back guarantee | Instant delivery

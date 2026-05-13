@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Latvia
   title: Best eSIM for Latvia
 hero:
-  flag_image: img/flags/la.svg
+  flag_image: img/flags/lv.svg
   flag_alt: Latvia Flag
   title: Latvia eSIM data plan
   subtitle: Travel with ease | Bestseller | Hotspot supported

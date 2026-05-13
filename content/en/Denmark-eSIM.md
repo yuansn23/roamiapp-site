@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Denmark
   title: Best eSIM for Denmark
 hero:
-  flag_image: img/flags/de.svg
+  flag_image: img/flags/dk.svg
   flag_alt: Denmark Flag
   title: Denmark eSIM data plan
   subtitle: Bestseller | High-speed 5G network | Comfortable

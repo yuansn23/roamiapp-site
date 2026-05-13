@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Iceland
   title: Best eSIM for Iceland
 hero:
-  flag_image: img/flags/ic.svg
+  flag_image: img/flags/is.svg
   flag_alt: Iceland Flag
   title: Iceland eSIM data plan
   subtitle: Comfortable | Worry-free internet | Smooth video streaming

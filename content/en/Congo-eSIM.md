@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Congo
   title: Best eSIM for Congo
 hero:
-  flag_image: img/flags/co.svg
+  flag_image: img/flags/cg.svg
   flag_alt: Congo Flag
   title: Congo eSIM data plan
   subtitle: Bestseller | Travel with ease | Worry-free internet

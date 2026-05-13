@@ -42,7 +42,7 @@ banner:
   alt: Лучшая eSIM для Бруней
   title: Лучшая eSIM для Бруней
 hero:
-  flag_image: img/flags/673.svg
+  flag_image: img/flags/bn.svg
   flag_alt: Флаг Бруней
   title: Тариф eSIM для Бруней
   subtitle: Плавная потоковая передача видео | Приоритетный доступ к 5G | Хит продаж

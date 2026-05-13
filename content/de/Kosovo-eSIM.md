@@ -47,7 +47,7 @@ banner:
   alt: Beste eSIM für Kosovo
   title: Beste eSIM für Kosovo
 hero:
-  flag_image: img/flags/ko.svg
+  flag_image: img/flags/xk.svg
   flag_alt: Kosovo Flagge
   title: Kosovo eSIM Datentarif
   subtitle: Top-Wahl für Reisen in Kosovo | Günstige Kosovo eSIM | 100% Geld-zurück-Garantie

@@ -44,7 +44,7 @@ banner:
   alt: Beste eSIM für Tanzania
   title: Beste eSIM für Tanzania
 hero:
-  flag_image: img/flags/ta.svg
+  flag_image: img/flags/tz.svg
   flag_alt: Tanzania Flagge
   title: Tanzania eSIM Datentarif
   subtitle: Top-Wahl für Reisen in Tanzania | Günstige Tanzania eSIM | 100% Geld-zurück-Garantie

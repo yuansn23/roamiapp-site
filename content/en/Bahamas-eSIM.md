@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Bahamas
   title: Best eSIM for Bahamas
 hero:
-  flag_image: img/flags/ba.svg
+  flag_image: img/flags/bs.svg
   flag_alt: Bahamas Flag
   title: Bahamas eSIM data plan
   subtitle: No hidden fees | No more roaming fees | Prioritized 5G access

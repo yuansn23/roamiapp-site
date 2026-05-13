@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Iraq
   title: Best eSIM for Iraq
 hero:
-  flag_image: img/flags/ir.svg
+  flag_image: img/flags/iq.svg
   flag_alt: Iraq Flag
   title: Iraq eSIM data plan
   subtitle: Smooth video streaming | Comfortable | No hidden fees

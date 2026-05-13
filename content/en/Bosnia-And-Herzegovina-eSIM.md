@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Bosnia And Herzegovina
   title: Best eSIM for Bosnia And Herzegovina
 hero:
-  flag_image: img/flags/bo.svg
+  flag_image: img/flags/ba.svg
   flag_alt: Bosnia And Herzegovina Flag
   title: Bosnia And Herzegovina eSIM data plan
   subtitle: Instant delivery | 20% discount for a limited time | Hotspot supported

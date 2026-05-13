@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Armenia
   title: Best eSIM for Armenia
 hero:
-  flag_image: img/flags/ar.svg
+  flag_image: img/flags/am.svg
   flag_alt: Armenia Flag
   title: Armenia eSIM data plan
   subtitle: 100% money-back guarantee | 24/7 customer support | Instant delivery

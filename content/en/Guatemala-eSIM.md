@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Guatemala
   title: Best eSIM for Guatemala
 hero:
-  flag_image: img/flags/gu.svg
+  flag_image: img/flags/gt.svg
   flag_alt: Guatemala Flag
   title: Guatemala eSIM data plan
   subtitle: Prioritized 5G access | Top rated | Instant delivery

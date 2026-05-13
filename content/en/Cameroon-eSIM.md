@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Cameroon
   title: Best eSIM for Cameroon
 hero:
-  flag_image: img/flags/ca.svg
+  flag_image: img/flags/cm.svg
   flag_alt: Cameroon Flag
   title: Cameroon eSIM data plan
   subtitle: Smooth video streaming | 20% discount for a limited time | Bestseller

@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Kazakhstan
   title: Best eSIM for Kazakhstan
 hero:
-  flag_image: img/flags/ka.svg
+  flag_image: img/flags/kz.svg
   flag_alt: Kazakhstan Flag
   title: Kazakhstan eSIM data plan
   subtitle: No ID required | No more roaming fees | Prioritized 5G access

@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Indonesia
   title: Best eSIM for Indonesia
 hero:
-  flag_image: img/flags/in.svg
+  flag_image: img/flags/id.svg
   flag_alt: Indonesia Flag
   title: Indonesia eSIM data plan
   subtitle: Travel with ease | Automatic network selection | 1-minute activation

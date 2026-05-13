@@ -42,7 +42,7 @@ banner:
   alt: Лучшая eSIM для Боливия
   title: Лучшая eSIM для Боливия
 hero:
-  flag_image: img/flags/591.svg
+  flag_image: img/flags/bo.svg
   flag_alt: Флаг Боливия
   title: Тариф eSIM для Боливия
   subtitle: Приоритетный доступ к 5G | Умный выбор | Удобно

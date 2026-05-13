@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Uruguay
   title: Best eSIM for Uruguay
 hero:
-  flag_image: img/flags/ur.svg
+  flag_image: img/flags/uy.svg
   flag_alt: Uruguay Flag
   title: Uruguay eSIM data plan
   subtitle: No hidden fees | Bestseller | Hotspot supported

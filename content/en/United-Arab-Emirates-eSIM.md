@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for UAE
   title: Best eSIM for UAE
 hero:
-  flag_image: img/flags/ua.svg
+  flag_image: img/flags/ae.svg
   flag_alt: UAE Flag
   title: Uae eSIM data plan
   subtitle: No ID required | Worry-free internet | 20% discount for a limited time

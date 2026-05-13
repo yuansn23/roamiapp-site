@@ -44,7 +44,7 @@ banner:
   alt: Beste eSIM für North America
   title: Beste eSIM für North America
 hero:
-  flag_image: img/flags/no.svg
+  flag_image: img/flags/ya.webp
   flag_alt: North America Flagge
   title: North America eSIM Datentarif
   subtitle: Top-Wahl für Reisen in North America | Günstige North America eSIM | 100%

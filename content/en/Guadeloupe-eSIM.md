@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Guadeloupe
   title: Best eSIM for Guadeloupe
 hero:
-  flag_image: img/flags/gu.svg
+  flag_image: img/flags/gp.svg
   flag_alt: Guadeloupe Flag
   title: Guadeloupe eSIM data plan
   subtitle: Smart choice | Smooth video streaming | Travel with ease

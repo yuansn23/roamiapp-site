@@ -1,5 +1,5 @@
 ---
-title: Vereinigte Staaten eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
+title: USA eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
 date: '2026-05-11T08:52:41+00:00'
 draft: false
 type: esim
