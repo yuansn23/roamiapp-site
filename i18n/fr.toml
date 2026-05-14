@@ -168,3 +168,18 @@ other = "Nous n'avons pas trouvé la page que vous recherchez. Elle a peut-être
 
 [404_back_home]
 other = "Retour à l'accueil"
+
+[404_promo_title]
+other = "Offre exclusive pour vous"
+
+[404_promo_desc]
+other = "Bénéficiez de 20% de réduction sur votre premier achat d'eSIM"
+
+[404_promo_code]
+other = "web20"
+
+[404_promo_cta]
+other = "Profitez de votre réduction"
+
+[404_promo_note]  
+other = "Aucune inscription requise. Valable pour les nouveaux utilisateurs."

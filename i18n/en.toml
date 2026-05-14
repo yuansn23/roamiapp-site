@@ -167,3 +167,18 @@ other = "We couldn't find the page you're looking for. It might have been moved 
 
 [404_back_home]
 other = "Take me home"
+
+[404_promo_title]
+other = "Exclusive Offer for You"
+
+[404_promo_desc]
+other = "Get 20% off your first eSIM purchase"
+
+[404_promo_code]
+other = "web20"
+
+[404_promo_cta]
+other = "Claim Your Discount"
+
+[404_promo_note]
+other = "No registration required. Valid for new users."
