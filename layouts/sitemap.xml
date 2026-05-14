@@ -4,8 +4,22 @@
     {{- if ne .Params.sitemap_exclude true }}
     <url>
       <loc>{{ .Permalink }}</loc>
-      {{- if .Lastmod }}
-      <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}</lastmod>
+      {{- $lastmodDate := "" }}
+      {{- if eq .Lang "en" }}
+        {{- /* 优先使用 .Lastmod，若为零值则回退到 .Date，若仍无则留空（不输出 lastmod） */ -}}
+        {{- $lastmodTime := .Lastmod }}
+        {{- if $lastmodTime.IsZero }}
+          {{- $lastmodTime = .Date }}
+        {{- end }}
+        {{- if not $lastmodTime.IsZero }}
+          {{- $lastmodDate = $lastmodTime.Format "2006-01-02" }}
+        {{- end }}
+      {{- else }}
+        {{- /* 非英文页面：使用构建当天的日期 */ -}}
+        {{- $lastmodDate = now.Format "2006-01-02" }}
+      {{- end }}
+      {{- if ne $lastmodDate "" }}
+      <lastmod>{{ $lastmodDate | safeHTML }}</lastmod>
       {{- end }}
     </url>
     {{- end }}
