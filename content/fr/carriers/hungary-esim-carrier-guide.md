@@ -1,65 +1,65 @@
 ---
-title: "Ungarn eSIM: Supports seamless hotspot tethering"
-description: "Experience fast internet in Ungarn with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:40:33+00:00"
-keywords: "eSIM Ungarn, prepaid data, 5G network, Yettel, Magyar Telekom, One, mobile internet Hungary, travel eSIM"
+title: "Hongrie eSIM: Entièrement compatible avec iPhone et Android"
+description: "Profitez d'Internet rapide en Hongrie avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:16:20+00:00"
+keywords: "eSIM Hongrie, données prépayées, réseau 5G, Yettel, Magyar Telekom, One, voyage Hongrie, eSIM voyage"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Ungarn eSIM Guide"
+  - name: "Guide eSIM Hongrie"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Ungarn Travel eSIM Latest Guide"
-hero_subtitle_main: "Ungarn eSIM: Supports seamless hotspot tethering"
-hero_subtitle_highlight: "Premium 5G network coverage by Yettel, Magyar Telekom, and One"
-hero_description_line1: "With a variety of plans, the Ungarn eSIM is perfect for short‑term visitors, students, and business travelers, enabling easy high‑speed data access across Ungarn."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Ungarn eSIM"
+hero_badge: "🇭🇺 Guide actuel de l'eSIM de voyage Hongrie"
+hero_subtitle_main: "Hongrie eSIM: Entièrement compatible avec iPhone et Android"
+hero_subtitle_highlight: "Couverture réseau 5G premium via Yettel, Magyar Telekom et One"
+hero_description_line1: "Avec une large gamme de forfaits, l'eSIM Hongrie est parfaite pour les visiteurs de courte durée, les étudiants et les voyageurs d'affaires, permettant un accès facile aux données haut débit dans toute la Hongrie."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Hongrie"
 hero_link_url: "/hungary-esim/"
-tldr_summary: "Worry‑free global business travel: one eSIM for high‑speed networks across multiple countries. Roami’s Ungarn eSIM connects you to Yettel’s award‑winning 5G network, which achieved a median download speed of 369.08 Mbps in 1H 2025 (Ookla). Whether you’re in Budapest or Szombathely, enjoy seamless hotspot tethering and reliable connectivity without roaming fees."
+tldr_summary: "Changement de réseau transparent dans plusieurs pays : la nouvelle norme pour les nomades numériques en voyage. En Hongrie, Yettel domine le marché mobile avec un débit 5G médian de 369,08 Mbps, tandis que Telekom est le FAI fixe le plus rapide (274,72 Mbps). Pour les voyageurs, Roami eSIM offre une connexion instantanée sur les meilleurs réseaux hongrois, idéale pour les nomades numériques qui ont besoin d'une connectivité fiable à Budapest, Szombathely ou Miskolc."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Ungarn eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Hongrie eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Ungarn eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Hongrie choisir ?"
 
   - href: "#operators"
-    text: "Top Ungarn eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Hongrie"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Ungarn"
+    text: "Guide des villes : La meilleure eSIM pour Hongrie"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Ungarn eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Hongrie"
 
   - href: "#faq"
-    text: "Frequently asked questions about Ungarn eSIM"
+    text: "Questions fréquentes sur l'eSIM Hongrie"
 
   - href: "#myths"
-    text: "Myths and facts about Ungarn eSIM"
+    text: "Mythes et faits sur l'eSIM Hongrie"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Ungarn eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Hongrie devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,249 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "Yettel"
-    carrier_class: "text-orange-600"
-    reason: "Yettel is the fastest mobile provider in Ungarn with a median 5G download speed of 369.08 Mbps and the best overall network consistency (94.6% of samples met 5 Mbps down / 1 Mbps up). Ideal for heavy data users and video calls."
+    carrier_class: "text-purple-600"
+    reason: "Yettel offre le meilleur réseau mobile global avec un score de connectivité de 80,28 et le meilleur débit 5G (369,08 Mbps en téléchargement). Idéal pour le travail à distance et les appels vidéo."
 
-  - travel: "Business travelers"
+  - travel: "Voyageurs urbains"
     carrier: "Magyar Telekom"
     carrier_class: "text-blue-600"
-    reason: "Magyar Telekom offers the highest 5G availability (50.8% of users on 5G most of the time) and the best mobile video streaming experience (score 91.23). Reliable for presentations and streaming."
+    reason: "Magyar Telekom a la meilleure disponibilité 5G (50,8% du temps) et la meilleure expérience de streaming vidéo (score 91,23). Parfait pour les déplacements fréquents à Budapest."
 
-  - travel: "Gamers"
+  - travel: "Amateurs de jeux mobiles"
     carrier: "One"
     carrier_class: "text-green-600"
-    reason: "One provides the best 5G gaming experience in Ungarn, with low latency and stable connections. Perfect for mobile gaming on the go."
-
-  - travel: "Budget travelers"
-    carrier: "Yettel"
-    carrier_class: "text-orange-600"
-    reason: "Yettel leads on 4G-LTE performance with a 4G Speed Score of 70.97 and median download of 68.40 Mbps, offering excellent value for cost‑conscious users."
+    reason: "One offre la meilleure expérience de jeu mobile en Hongrie, avec une latence faible et une stabilité élevée. Excellent pour les sessions de jeu en déplacement."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Ungarn travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Hongrie la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "yettel-esim"
-    title: "Yettel eSIM Review: Fastest 5G and 4G network"
-    best_for: "This plan is the absolute top choice for users who demand the highest speeds and best consistency across Ungarn."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025), Yettel recorded a median 5G download speed of 369.08 Mbps and upload speed of 37.18 Mbps.\n- **4G performance**: Median 4G download speed of 68.40 Mbps, upload 15.02 Mbps, with a 4G Speed Score of 70.97.\n- **Consistency**: 94.6% of samples met the 5 Mbps down / 1 Mbps up threshold.\n- **Connectivity Score**: Overall 80.28, 5G Connectivity Score 79.87."
-    arcep_note: "Confirmed by the local telecom authority NMHH (Nemzeti Média- és Hírközlési Hatóság) as a leading operator in spectrum efficiency and coverage."
-    connect_note: "Activation works seamlessly via QR code; supports hotspot tethering on all modern eSIM‑compatible devices."
-    user_scenarios: "- **Budapest Castle District**: Stream live guided tours in 4K without buffering.\n- **Lake Balaton**: Share vacation photos instantly with friends and family.\n- **Miskolc business trip**: Attend Zoom meetings with stable 5G connectivity."
-    bg_color: "bg-orange-50"
+    title: "Test eSIM Yettel : Meilleure performance mobile globale"
+    best_for: "Ce forfait est le meilleur choix absolu pour les utilisateurs exigeants qui ont besoin de la meilleure vitesse 5G et de la meilleure couverture réseau en Hongrie."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025), Yettel n'a pas la meilleure disponibilité 5G (c'est Magyar Telekom avec 50,8%), mais il offre la meilleure performance.\n- **Débit descendant médian 5G** : 369,08 Mbps\n- **Débit montant médian 5G** : 37,18 Mbps\n- **Latence 5G** : 31 ms\n- **Score de connectivité global** : 80,28\n- **Score de connectivité 5G** : 79,87\n- **Consistance réseau (toutes technologies)** : 94,6% des échantillons ≥ 5 Mbps descendant / 1 Mbps montant\n- **Consistance réseau 5G** : 96,2% des échantillons ≥ 25 Mbps descendant / 3 Mbps montant"
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (NMHH) et les données Speedtest Intelligence® du premier semestre 2025."
+    connect_note: "L'activation se déroule sans problème via QR code. Compatible avec la plupart des smartphones récents. Support client disponible en anglais et en hongrois."
+    user_scenarios: "- **Pont des Chaînes (Széchenyi Lánchíd)** : Téléchargez votre audioguide en 4K en moins de 10 secondes grâce au débit 5G de 369 Mbps.\n- **Marché Central de Budapest (Nagy Vásárcsarnok)** : Partagez en direct vos découvertes culinaires sans mise en mémoire tampon, même en heure de pointe.\n- **Lac Balaton** : Restez connecté lors de vos déplacements entre les plages avec une couverture 4G/5G fiable même dans les zones moins densément peuplées."
+    bg_color: "bg-purple-50"
 
   - id: "magyar-telekom-esim"
-    title: "Magyar Telekom eSIM Review: Best 5G availability and video streaming"
-    best_for: "This plan is the absolute top choice for travelers who prioritize consistent 5G access and high‑quality video streaming."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025), Magyar Telekom recorded the highest 5G Availability at 50.8%.\n- **Video streaming**: Best mobile video experience with a score of 91.23.\n- **5G download speed**: Median 101.82 Mbps.\n- **Overall network**: Strong performance in urban and suburban areas."
-    arcep_note: "Confirmed by NMHH as a key player in 5G rollout and spectrum allocation."
-    connect_note: "Activation works seamlessly via QR code; supports hotspot tethering on all modern eSIM‑compatible devices."
-    user_scenarios: "- **Széchenyi Thermal Bath**: Watch Netflix while relaxing in the thermal pools.\n- **Debrecen university campus**: Attend online lectures with reliable 5G.\n- **Hortobágy National Park**: Stream nature documentaries in remote areas."
+    title: "Test eSIM Magyar Telekom : Meilleure disponibilité 5G et streaming vidéo"
+    best_for: "Ce forfait est idéal pour les voyageurs qui regardent beaucoup de vidéos en streaming et qui veulent être connectés à la 5G le plus souvent possible."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025), Magyar Telekom a la meilleure disponibilité 5G avec 50,8% de ses utilisateurs accédant au réseau 5G la plupart du temps.\n- **Débit descendant médian 5G** : 101,82 Mbps\n- **Débit montant médian 5G** : Non spécifié dans le rapport, mais inférieur à Yettel.\n- **Score d'expérience vidéo mobile** : 91,23 (meilleur score)\n- **Débit descendant médian fixe** : 274,72 Mbps (meilleur FAI fixe de Hongrie)\n- **Débit montant médian fixe** : 90,12 Mbps"
+    arcep_note: "Données issues du rapport Speedtest Intelligence® du premier semestre 2025, confirmées par l'Autorité nationale des médias et des télécommunications (NMHH)."
+    connect_note: "Installation simple via l'application Roami ou QR code. Profitez d'une activation instantanée dès votre arrivée à l'aéroport de Budapest."
+    user_scenarios: "- **Bains thermaux Széchenyi** : Regardez vos séries préférées en streaming 4K sans interruption pendant que vous vous détendez dans les piscines extérieures.\n- **Château de Buda** : Téléchargez des cartes hors ligne et des guides audio en quelques secondes avant de commencer votre visite.\n- **Ruines bars (quartier juif)** : Restez connecté avec vos amis et partagez vos photos sur les réseaux sociaux sans latence."
     bg_color: "bg-blue-50"
 
   - id: "one-esim"
-    title: "One eSIM Review: Best gaming experience"
-    best_for: "This plan is the absolute top choice for mobile gamers and low‑latency applications."
-    core_data: "- **5G gaming**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025), One recorded the best 5G gaming experience among ISPs.\n- **5G download speed**: Median 66.84 Mbps.\n- **Overall network**: Competitive performance with focus on low latency."
-    arcep_note: "Confirmed by NMHH as a reliable operator with growing 5G footprint."
-    connect_note: "Activation works seamlessly via QR code; supports hotspot tethering on all modern eSIM‑compatible devices."
-    user_scenarios: "- **Budapest eSports arena**: Compete in mobile tournaments with minimal lag.\n- **Szeged student life**: Play multiplayer games during breaks.\n- **Pécs cultural festival**: Share live streams without interruption."
+    title: "Test eSIM One : Meilleure expérience de jeu mobile"
+    best_for: "Ce forfait est parfait pour les joueurs mobiles et les utilisateurs qui ont besoin d'une latence faible et d'une connexion stable pour les applications en temps réel."
+    core_data: "- **Expérience de jeu 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025), One offre la meilleure expérience de jeu mobile parmi les FAI hongrois.\n- **Débit descendant médian 5G** : 66,84 Mbps\n- **Débit montant médian 5G** : Non spécifié dans le rapport.\n- **Positionnement** : Troisième opérateur en termes de vitesse 5G, mais leader pour l'expérience de jeu."
+    arcep_note: "Basé sur les données Speedtest Intelligence® du premier semestre 2025 et les rapports de l'autorité hongroise des télécommunications."
+    connect_note: "Configuration rapide et facile. Compatible avec les eSIM des principaux smartphones. Assistance multilingue disponible."
+    user_scenarios: "- **Gare de Budapest-Keleti** : Jouez à des jeux en ligne multijoueurs sans décalage pendant que vous attendez votre train.\n- **Szeged** : Participez à des compétitions de jeux mobiles avec une latence minimale, même en déplacement.\n- **Debrecen** : Utilisez des applications de réalité augmentée pour explorer la ville sans interruption."
     bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Ungarn eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Ungarn eSIM and local 5G bands"
-cards_free_title: "Get your free Ungarn eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Hongrie"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Hongrie et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Hongrie gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Ungarn eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Hongrie"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Ungarn"
-    content: "Ungarn’s mobile networks operate on the following key bands: 4G LTE: Band 3 (1800 MHz), Band 7 (2600 MHz), Band 20 (800 MHz). 5G NR: n78 (3500 MHz) – primary band for high‑speed 5G, n1 (2100 MHz) – used for wider coverage. Ensure your device supports these bands for optimal performance."
+  - heading: "1. Bandes 5G/4G principales en Hongrie"
+    content: "Les opérateurs hongrois utilisent principalement les bandes 5G suivantes : n78 (3,5 GHz) pour la 5G à haute vitesse, et n1 (2100 MHz) pour une meilleure couverture. Pour la 4G LTE, les bandes principales sont B3 (1800 MHz), B7 (2600 MHz) et B20 (800 MHz). Assurez-vous que votre smartphone est compatible avec ces bandes pour profiter de la meilleure expérience possible."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate an eSIM in Ungarn, you must provide a valid passport or national ID. Some providers may require a selfie or proof of address. Roami simplifies the process by handling KYC digitally during purchase."
+  - heading: "2. Exigence KYC (connaissance du client) pour les eSIM"
+    content: "En Hongrie, comme dans toute l'UE, l'activation d'une eSIM prépayée nécessite une vérification d'identité (KYC). Vous devrez fournir une pièce d'identité valide (passeport ou carte d'identité) lors de l'achat. Roami simplifie ce processus en vérifiant votre identité en ligne avant votre départ."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most Ungarn eSIM plans include a Fair Usage Policy (FUP) that caps high‑speed data after a certain threshold (e.g., 20 GB per month). After exceeding the limit, speeds may be throttled to 128 kbps or 256 kbps. Check your plan details before heavy usage."
+  - heading: "3. Politique d'utilisation équitable (FUP) et limitations"
+    content: "La plupart des forfaits eSIM en Hongrie incluent une politique d'utilisation équitable (FUP). Après avoir dépassé un certain volume de données à haute vitesse (par exemple, 20 Go), le débit peut être réduit à 128 kbps ou 256 kbps. Vérifiez les conditions de votre forfait avant de souscrire."
 
-  - heading: "4. Network coverage in rural and remote areas"
-    content: "While urban centers like Budapest, Szeged, and Miskolc enjoy excellent 5G coverage, rural areas (e.g., parts of the Great Plain or northern mountains) may rely on 4G or 3G. Yettel and Magyar Telekom offer the widest rural coverage. Check coverage maps before traveling to remote regions."
+  - heading: "4. Couverture réseau dans les zones rurales"
+    content: "Bien que les opérateurs hongrois offrent une excellente couverture dans les grandes villes comme Budapest, Debrecen et Szeged, la couverture peut être moins bonne dans les zones rurales et montagneuses (par exemple, dans le parc national de Bükk). Yettel et Magyar Telekom offrent généralement la meilleure couverture rurale."
 
-  - heading: "5. eSIM compatibility and device support"
-    content: "eSIM is supported on most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Ensure your device is unlocked and eSIM‑compatible. Roami provides a QR code for instant activation."
+  - heading: "5. Itinérance et utilisation dans l'UE"
+    content: "Les eSIM hongroises permettent généralement l'itinérance dans l'UE conformément à la réglementation 'Roam Like at Home'. Cependant, certains forfaits peuvent avoir des limitations. Vérifiez si votre forfait Roami inclut l'itinérance dans d'autres pays européens si vous prévoyez de voyager."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Ungarn"
-city_guide_desc: "Find out which Ungarn eSIM is the best choice for your destination city based on local network performance and user needs."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Hongrie"
+city_guide_desc: "Découvrez quelle eSIM Hongrie est le meilleur choix pour votre ville de destination, en fonction des performances réseau locales et de vos besoins spécifiques."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
   - city: "Budapest"
-    carriers: "Yettel"
-    reason: "Budapest is the capital with dense 5G coverage. Yettel offers the fastest speeds (median 5G download 369.08 Mbps) and best consistency, ideal for business travelers and tourists exploring the city."
+    carriers: "Yettel ou Magyar Telekom"
+    reason: "Budapest bénéficie d'une excellente couverture 5G de tous les opérateurs. Yettel offre les meilleures vitesses (369 Mbps en 5G), tandis que Magyar Telekom a la meilleure disponibilité 5G (50,8%). Pour les nomades numériques et les touristes, les deux sont d'excellents choix."
 
   - city: "Szombathely"
     carriers: "Yettel"
-    reason: "Szombathely recorded the fastest median mobile download speed in Ungarn at 130.9 Mbps. Yettel’s network ensures top performance in this western city, perfect for remote workers and digital nomads."
+    reason: "Szombathely a enregistré la vitesse de téléchargement mobile médiane la plus rapide parmi les grandes villes hongroises, avec 130,9 Mbps. Yettel, étant le leader de la vitesse mobile, est le choix optimal pour cette ville de l'ouest de la Hongrie."
 
   - city: "Miskolc"
     carriers: "Magyar Telekom"
-    reason: "Miskolc has the fastest fixed broadband speeds (median 250.88 Mbps), but for mobile, Magyar Telekom’s high 5G availability (50.8%) provides reliable connectivity for students and professionals."
+    reason: "Miskolc a la vitesse de téléchargement fixe médiane la plus rapide (250,88 Mbps). Pour les voyageurs qui ont besoin d'une connexion fixe fiable (par exemple, dans un hôtel ou un Airbnb), Magyar Telekom est le meilleur FAI fixe de Hongrie."
 
   - city: "Debrecen"
-    carriers: "Magyar Telekom"
-    reason: "Debrecen is a major university city. Magyar Telekom’s best video streaming score (91.23) and strong 5G availability make it ideal for students attending online classes and streaming content."
+    carriers: "One"
+    reason: "Debrecen est une ville universitaire dynamique avec une forte demande de jeux mobiles et de streaming. One offre la meilleure expérience de jeu mobile, ce qui en fait un excellent choix pour les étudiants et les jeunes voyageurs."
 
   - city: "Szeged"
-    carriers: "One"
-    reason: "Szeged is a vibrant student city with a growing tech scene. One’s best 5G gaming experience ensures low latency for gamers and smooth video calls for young professionals."
+    carriers: "Yettel"
+    reason: "Szeged, située près de la frontière serbe, bénéficie d'une bonne couverture Yettel. Avec les meilleures performances globales du réseau mobile, Yettel assure une connexion stable pour les voyageurs d'affaires et les touristes."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Ungarn eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Hongrie selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Budapest’s historic landmarks like the Parliament and Buda Castle. With Yettel’s 5G, you can stream live guides, upload photos instantly, and navigate with Google Maps without delays."
+    title: "Découvreur de villes"
+    text: "Explorez Budapest, Szeged et Debrecen avec une connexion 5G ultra-rapide. Téléchargez des cartes, des guides et partagez vos photos instantanément. Yettel offre les meilleures vitesses pour les explorateurs urbains."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Visit Lake Balaton or the Bükk Mountains. Magyar Telekom’s wide 5G coverage ensures you can share breathtaking views and stay connected even in less urban areas."
+    title: "Amoureux de la nature"
+    text: "Randonnez dans le parc national de Bükk ou le long du lac Balaton. Magyar Telekom offre la meilleure disponibilité 5G, ce qui est idéal pour rester connecté même dans les zones moins densément peuplées."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive across Ungarn from Szombathely to Debrecen. One’s consistent network performance keeps your music streaming, navigation, and social media updates uninterrupted."
+    title: "Roadtrippeur"
+    text: "Parcourez la Hongrie en voiture avec une eSIM fiable. One offre une excellente expérience de jeu pour les passagers, tandis que Yettel assure une navigation GPS fluide avec des vitesses de téléchargement élevées."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax at the thermal beaches of Hévíz or the shores of Lake Tisza. Yettel’s high consistency (94.6%) means you can video call family and stream movies without buffering."
+    title: "Vacancier à la plage"
+    text: "Profitez des plages du lac Balaton ou des thermes de Budapest. Avec une eSIM Roami, regardez des vidéos en streaming, écoutez de la musique et restez en contact avec vos proches sans souci de connexion."
 
-scene_guide_footer: "💡 The Roami Ungarn eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Hongrie détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Ungarn eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Hongrie"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Does Roami offer 24/7 online customer support if I have connection issues in Ungarn?"
-    a: "Yes, Roami provides 24/7 online customer support via live chat and email. Our team is available around the clock to help you with any connection issues, activation problems, or network troubleshooting while you are in Ungarn."
+  - q: "Y a-t-il une limite du nombre d'appareils connectés lors du partage de connexion de l'eSIM Hongrie ?"
+    a: "La plupart des forfaits eSIM Roami pour la Hongrie permettent le partage de connexion (hotspot) sans limite stricte du nombre d'appareils. Cependant, l'utilisation intensive du partage de connexion peut entraîner une réduction de la vitesse après avoir dépassé le quota de données à haute vitesse (FUP). Pour une expérience optimale, nous recommandons de limiter le partage à 2-3 appareils simultanément."
 
-  - q: "In which languages is customer service for the Ungarn eSIM available, and what is the response time?"
-    a: "Customer service is available in English, German, French, Spanish, and Hungarian. The average response time is under 5 minutes for live chat and within 1 hour for email inquiries during peak hours."
+  - q: "Comment activer exactement le profil eSIM Roami dès mon arrivée à l'aéroport en Hongrie ?"
+    a: "L'activation est simple : 1) Avant votre départ, installez le profil eSIM Roami sur votre téléphone en scannant le code QR reçu par email. 2) À votre arrivée à l'aéroport de Budapest, activez la ligne eSIM dans les paramètres de votre téléphone. 3) Assurez-vous que l'itinérance des données est activée. 4) Votre connexion devrait être opérationnelle en moins de 2 minutes. Si vous rencontrez des problèmes, redémarrez votre téléphone."
 
-  - q: "Will I have a network signal with the eSIM in subways, deep valleys, or remote areas of Ungarn?"
-    a: "In urban subways (e.g., Budapest Metro), coverage is generally good due to in‑tunnel repeaters. In deep valleys or remote areas like the Bükk Mountains, signal may be weaker. Yettel and Magyar Telekom offer the best rural coverage. We recommend checking coverage maps before traveling to very remote locations."
+  - q: "Puis-je installer l'eSIM de voyage Hongrie à l'avance depuis chez moi avant mon départ ?"
+    a: "Oui, absolument ! Vous pouvez installer le profil eSIM Roami sur votre téléphone à l'avance, depuis chez vous. Le profil sera inactif jusqu'à ce que vous arriviez en Hongrie et activiez la ligne. Cela vous permet de gagner du temps à l'aéroport et d'être connecté dès votre atterrissage. Assurez-vous simplement de ne pas activer la ligne avant d'être en Hongrie pour éviter une activation prématurée."
 
-  - q: "What average download and upload network speeds can I expect in Ungarn?"
-    a: "Based on Ookla data from 1H 2025, Yettel’s median 5G download speed is 369.08 Mbps and upload 37.18 Mbps. On 4G, median download is 68.40 Mbps and upload 15.02 Mbps. Speeds may vary by location and network congestion."
+  - q: "Dans quelles langues le support client pour l'eSIM Hongrie est-il disponible et quel est le temps de réponse ?"
+    a: "Le support client Roami pour l'eSIM Hongrie est disponible en anglais, français, allemand, espagnol et hongrois. Le temps de réponse moyen est de moins de 5 minutes pour le chat en direct, et de moins de 2 heures pour les demandes par email. Un centre d'aide en ligne est également disponible 24h/24 avec des guides détaillés."
 
-  - q: "Can I reinstall the Ungarn eSIM after deleting it from my device?"
-    a: "Yes, if you have saved the QR code or activation code provided at purchase, you can reinstall the eSIM. If you lost the code, contact Roami support with your order details to receive a new QR code. Note that some plans may have a limit on reinstallations."
+  - q: "Comment vérifier si mes destinations spécifiques en Hongrie sont bien couvertes par les réseaux eSIM ?"
+    a: "Vous pouvez vérifier la couverture de nos réseaux partenaires (Yettel, Magyar Telekom, One) sur notre page de couverture interactive. Entrez simplement le nom de votre destination (par exemple, 'Lac Balaton' ou 'Parc national de Bükk') pour voir la carte de couverture 4G/5G. En général, les zones urbaines et les principales routes sont bien couvertes. Pour les zones rurales, Yettel et Magyar Telekom offrent la meilleure couverture."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Ungarn eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Hongrie"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "All eSIMs in Ungarn have the same speed and coverage."
-    truth: "False. Yettel is the fastest with 5G median download of 369.08 Mbps, while Magyar Telekom offers the best 5G availability (50.8%). One excels in gaming. Speeds and coverage vary significantly by operator."
+  - myth: "Tous les opérateurs hongrois offrent la même vitesse 5G."
+    truth: "Faux. Selon les données Speedtest Intelligence® du premier semestre 2025, Yettel est nettement plus rapide que ses concurrents avec un débit 5G médian de 369,08 Mbps, contre 101,82 Mbps pour Magyar Telekom et 66,84 Mbps pour One."
 
-  - myth: "5G is available everywhere in Ungarn."
-    truth: "No. 5G coverage is concentrated in major cities like Budapest, Szeged, and Debrecen. Rural areas may rely on 4G or 3G. Magyar Telekom has the highest 5G availability at 50.8%, but it’s not universal."
+  - myth: "La 5G est disponible partout en Hongrie."
+    truth: "Faux. La disponibilité 5G varie considérablement. Magyar Telekom a la meilleure disponibilité avec 50,8% de ses utilisateurs accédant à la 5G la plupart du temps. Dans les zones rurales, la 4G reste le réseau principal."
 
-  - myth: "eSIMs cannot be used for hotspot tethering in Ungarn."
-    truth: "False. Roami’s Ungarn eSIM supports seamless hotspot tethering on all compatible devices. You can share your connection with laptops, tablets, or other phones without issues."
+  - myth: "Les eSIM sont moins fiables que les cartes SIM physiques."
+    truth: "Faux. Les eSIM utilisent les mêmes réseaux mobiles que les cartes SIM physiques. La fiabilité dépend de l'opérateur, pas du format. Roami s'associe aux meilleurs opérateurs hongrois (Yettel, Telekom, One) pour offrir une connexion aussi fiable qu'une carte SIM traditionnelle."
 
-  - myth: "You need a Hungarian ID to buy an eSIM in Ungarn."
-    truth: "No. Tourists and foreigners can purchase eSIMs from providers like Roami with just a passport or national ID. KYC is handled digitally during the purchase process."
+  - myth: "Il est impossible d'utiliser une eSIM hongroise dans d'autres pays de l'UE."
+    truth: "Faux. Grâce à la réglementation 'Roam Like at Home' de l'UE, la plupart des eSIM hongroises permettent l'itinérance dans les pays de l'UE sans frais supplémentaires. Vérifiez les conditions de votre forfait Roami pour confirmer."
 
-  - myth: "Ungarn’s mobile networks are slow compared to other European countries."
-    truth: "False. Yettel’s median 5G download speed of 369.08 Mbps is among the fastest in Europe, outperforming many Western European operators. Ungarn offers excellent mobile performance."
+  - myth: "Les forfaits eSIM sont toujours plus chers que les forfaits locaux."
+    truth: "Faux. Les forfaits eSIM de voyage comme Roami sont souvent plus compétitifs que les forfaits locaux pour les courts séjours, car ils n'ont pas de frais d'activation, de dépôt de garantie ou d'engagement. De plus, vous pouvez choisir un forfait adapté à votre durée de séjour sans payer pour des services inutilisés."
 
 
 # Data sources
-data_sources_title: "Ungarn mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Hongrie"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla’s Speedtest Intelligence report for Hungary 1H 2025 provides median download/upload speeds, consistency, and gaming scores for Yettel, Magyar Telekom, and One."
+  - name: "Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025)"
+    description: "Rapport Speedtest Intelligence® du premier semestre 2025 analysant les performances des réseaux mobiles et fixes en Hongrie. Données incluant les vitesses de téléchargement, téléversement, latence, disponibilité 5G et scores de connectivité pour Yettel, Magyar Telekom et One."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal’s Hungary Mobile Network Experience Report (2025) offers insights on video experience, download speed, and 4G/5G availability across operators."
+    description: "Rapport OpenSignal sur l'expérience mobile en Hongrie, couvrant la disponibilité 5G, les vitesses de téléchargement et l'expérience de jeu. Données collectées entre janvier et juin 2025."
 
-  - name: "NMHH (Nemzeti Média- és Hírközlési Hatóság) 2025"
-    description: "The Hungarian telecom regulator publishes annual reports on spectrum allocation, coverage obligations, and network quality benchmarks for all licensed operators."
+  - name: "NMHH (Autorité nationale des médias et des télécommunications) 2025"
+    description: "Rapport officiel de l'autorité hongroise de régulation des télécommunications sur la couverture réseau, les obligations de service universel et les performances des opérateurs. Données vérifiées et publiées au premier semestre 2025."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports (Ookla, OpenSignal, NMHH) and are accurate as of 1H 2025. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device, time of day, and network congestion. Always check the latest coverage maps before traveling."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public et sont utilisées à des fins d'information. Les performances réelles peuvent varier en fonction de l'emplacement, de l'appareil et des conditions du réseau."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de votre emplacement, de votre appareil, de l'heure de la journée et des conditions du réseau. Les données présentées sont des médianes et des scores composites basés sur des tests effectués dans des conditions réelles."
 
 # CTA product card
-cta_title: "Secure your Ungarn eSIM today"
-cta_desc: "Get immediate access to Yettel’s fastest 5G network with Roami’s Ungarn eSIM. Instant activation, no roaming fees, and seamless hotspot tethering."
-cta_button_text: "Buy Ungarn eSIM now"
+cta_title: "Obtenez votre eSIM Hongrie dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat aux meilleurs réseaux hongrois (Yettel, Magyar Telekom, One) avec une eSIM Roami. Activation instantanée, pas de frais d'itinérance, et support client multilingue 24h/24."
+cta_button_text: "Acheter l'eSIM Hongrie maintenant"
 cta_button_link: "/hungary-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Ungarn trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Hongrie gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Ungarn eSIM: Supports seamless hotspot tethering
+# Hongrie eSIM: Entièrement compatible avec iPhone et Android
 
-> **💡 Short summary for travelers:** Worry‑free global business travel: one eSIM for high‑speed networks across multiple countries. Roami’s Ungarn eSIM connects you to Yettel’s award‑winning 5G network, which achieved a median download speed of 369.08 Mbps in 1H 2025 (Ookla). Whether you’re in Budapest or Szombathely, enjoy seamless hotspot tethering and reliable connectivity without roaming fees.
+> **💡 Résumé rapide pour les voyageurs :** Changement de réseau transparent dans plusieurs pays : la nouvelle norme pour les nomades numériques en voyage. En Hongrie, Yettel domine le marché mobile avec un débit 5G médian de 369,08 Mbps, tandis que Telekom est le FAI fixe le plus rapide (274,72 Mbps). Pour les voyageurs, Roami eSIM offre une connexion instantanée sur les meilleurs réseaux hongrois, idéale pour les nomades numériques qui ont besoin d'une connectivité fiable à Budapest, Szombathely ou Miskolc.
 
-## Things you need to know before buying a Ungarn eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Hongrie
 
 
-### 1. Main 5G/4G frequency bands in Ungarn {#1-main-5g4g-frequency-bands-in-ungarn}
-Ungarn’s mobile networks operate on the following key bands: 4G LTE: Band 3 (1800 MHz), Band 7 (2600 MHz), Band 20 (800 MHz). 5G NR: n78 (3500 MHz) – primary band for high‑speed 5G, n1 (2100 MHz) – used for wider coverage. Ensure your device supports these bands for optimal performance.
+### 1. Bandes 5G/4G principales en Hongrie {#1-bandes-5g4g-principales-en-hongrie}
+Les opérateurs hongrois utilisent principalement les bandes 5G suivantes : n78 (3,5 GHz) pour la 5G à haute vitesse, et n1 (2100 MHz) pour une meilleure couverture. Pour la 4G LTE, les bandes principales sont B3 (1800 MHz), B7 (2600 MHz) et B20 (800 MHz). Assurez-vous que votre smartphone est compatible avec ces bandes pour profiter de la meilleure expérience possible.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate an eSIM in Ungarn, you must provide a valid passport or national ID. Some providers may require a selfie or proof of address. Roami simplifies the process by handling KYC digitally during purchase.
+### 2. Exigence KYC (connaissance du client) pour les eSIM {#2-exigence-kyc-connaissance-du-client-pour-les-esim}
+En Hongrie, comme dans toute l'UE, l'activation d'une eSIM prépayée nécessite une vérification d'identité (KYC). Vous devrez fournir une pièce d'identité valide (passeport ou carte d'identité) lors de l'achat. Roami simplifie ce processus en vérifiant votre identité en ligne avant votre départ.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most Ungarn eSIM plans include a Fair Usage Policy (FUP) that caps high‑speed data after a certain threshold (e.g., 20 GB per month). After exceeding the limit, speeds may be throttled to 128 kbps or 256 kbps. Check your plan details before heavy usage.
+### 3. Politique d'utilisation équitable (FUP) et limitations {#3-politique-dutilisation-équitable-fup-et-limitations}
+La plupart des forfaits eSIM en Hongrie incluent une politique d'utilisation équitable (FUP). Après avoir dépassé un certain volume de données à haute vitesse (par exemple, 20 Go), le débit peut être réduit à 128 kbps ou 256 kbps. Vérifiez les conditions de votre forfait avant de souscrire.
 
-### 4. Network coverage in rural and remote areas {#4-network-coverage-in-rural-and-remote-areas}
-While urban centers like Budapest, Szeged, and Miskolc enjoy excellent 5G coverage, rural areas (e.g., parts of the Great Plain or northern mountains) may rely on 4G or 3G. Yettel and Magyar Telekom offer the widest rural coverage. Check coverage maps before traveling to remote regions.
+### 4. Couverture réseau dans les zones rurales {#4-couverture-réseau-dans-les-zones-rurales}
+Bien que les opérateurs hongrois offrent une excellente couverture dans les grandes villes comme Budapest, Debrecen et Szeged, la couverture peut être moins bonne dans les zones rurales et montagneuses (par exemple, dans le parc national de Bükk). Yettel et Magyar Telekom offrent généralement la meilleure couverture rurale.
 
-### 5. eSIM compatibility and device support {#5-esim-compatibility-and-device-support}
-eSIM is supported on most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Ensure your device is unlocked and eSIM‑compatible. Roami provides a QR code for instant activation.
+### 5. Itinérance et utilisation dans l'UE {#5-itinérance-et-utilisation-dans-lue}
+Les eSIM hongroises permettent généralement l'itinérance dans l'UE conformément à la réglementation 'Roam Like at Home'. Cependant, certains forfaits peuvent avoir des limitations. Vérifiez si votre forfait Roami inclut l'itinérance dans d'autres pays européens si vous prévoyez de voyager.

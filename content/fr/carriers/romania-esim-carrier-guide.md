@@ -1,65 +1,65 @@
 ---
-title: "Rumänien eSIM: Perfect for dual‑SIM devices"
-description: "Experience fast internet in Rumänien with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:42:42+00:00"
-keywords: "eSIM Rumänien, prepaid data, 5G network, Orange Romania, DIGI Romania, travel eSIM, mobile internet Romania"
+title: "Roumanie eSIM: Gardez votre numéro principal actif"
+description: "Profitez d'Internet rapide en Roumanie avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:17:59+00:00"
+keywords: "eSIM Roumanie, données prépayées, réseau 5G, Orange, DIGI, voyage Roumanie, carte eSIM"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Rumänien eSIM Guide"
+  - name: "Guide eSIM Roumanie"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Rumänien Travel eSIM Latest Guide"
-hero_subtitle_main: "Rumänien eSIM: Perfect for dual‑SIM devices"
-hero_subtitle_highlight: "Premium 5G network coverage by Orange and DIGI"
-hero_description_line1: "Replace traditional roaming plans with a Rumänien eSIM to save communication costs. Compatible with multiple devices, it meets the internet needs of all kinds of travelers."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Rumänien eSIM"
+hero_badge: "🇷🇴 Guide actuel de l'eSIM de voyage Roumanie"
+hero_subtitle_main: "Roumanie eSIM: Gardez votre numéro principal actif"
+hero_subtitle_highlight: "Couverture réseau 5G premium via Orange et DIGI"
+hero_description_line1: "Dites adieu aux frais d'itinérance internationaux exorbitants avec l'eSIM Roumanie. Connectez-vous rapidement aux réseaux locaux et profitez de données haut débit stables pour un voyage détendu."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Roumanie"
 hero_link_url: "/romania-esim/"
-tldr_summary: "Worry-free global business travel: one eSIM for high-speed networks across multiple countries. Roami's Rumänien eSIM connects you to Orange's award-winning 5G network, which achieved a median download speed of 86.91 Mbps overall and 156.76 Mbps on 5G during H2 2025 (Ookla). Whether you're in Bucharest, Iași, or Timișoara, enjoy seamless connectivity without roaming fees. Perfect for dual-SIM devices, instant activation, and reliable coverage across Romania."
+tldr_summary: "Voyages d'affaires mondiaux sans souci : une eSIM pour les réseaux haut débit dans plusieurs pays. Avec Roami, vous accédez aux meilleurs réseaux roumains comme Orange, qui affiche un débit descendant médian de 86,91 Mbps (toutes technologies confondues) et 156,76 Mbps en 5G selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025). L'eSIM Roumanie de Roami vous garantit une connexion stable et rapide, idéale pour les professionnels en déplacement."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Rumänien eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Roumanie eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Rumänien eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Roumanie choisir ?"
 
   - href: "#operators"
-    text: "Top Rumänien eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Roumanie"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Rumänien"
+    text: "Guide des villes : La meilleure eSIM pour Roumanie"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Rumänien eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Roumanie"
 
   - href: "#faq"
-    text: "Frequently asked questions about Rumänien eSIM"
+    text: "Questions fréquentes sur l'eSIM Roumanie"
 
   - href: "#myths"
-    text: "Myths and facts about Rumänien eSIM"
+    text: "Mythes et faits sur l'eSIM Roumanie"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Rumänien eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Roumanie devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,235 +67,240 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "Orange"
     carrier_class: "text-orange-600"
-    reason: "Orange is the fastest mobile network in Romania with a median download speed of 86.91 Mbps and best 5G availability (50.9%). Ideal for heavy data users and remote work."
+    reason: "Orange est le meilleur réseau mobile global en Roumanie avec un débit descendant médian de 86,91 Mbps et une disponibilité 5G de 50,9 %. Idéal pour le télétravail et les visioconférences."
 
-  - travel: "Budget travelers"
+  - travel: "Voyageurs en zone rurale"
+    carrier: "Orange"
+    carrier_class: "text-orange-600"
+    reason: "Orange offre la meilleure couverture rurale et la meilleure expérience vidéo en streaming, parfait pour les escapades à la campagne."
+
+  - travel: "Amateurs de jeux mobiles"
     carrier: "DIGI"
-    carrier_class: "text-green-600"
-    reason: "DIGI offers competitive pricing and strong 5G consistency (88.1% of samples meeting 25 Mbps down / 3 Mbps up). Good value for everyday browsing and streaming."
+    carrier_class: "text-blue-600"
+    reason: "DIGI remporte la meilleure expérience de jeu 5G en Roumanie, avec une latence faible et une grande fiabilité."
 
-  - travel: "Rural explorers"
+  - travel: "Utilisateurs intensifs de données"
     carrier: "Orange"
     carrier_class: "text-orange-600"
-    reason: "Orange recorded the best mobile network consistency (92.6% of samples above 5 Mbps down / 1 Mbps up), ensuring reliable connectivity even in less populated areas."
+    reason: "Orange est le FAI fixe le plus rapide avec un débit descendant médian de 339,63 Mbps, et le meilleur réseau mobile pour les gros volumes de données."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Rumänien travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Roumanie la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "orange-esim"
-    title: "Orange eSIM Review: Best overall performance"
-    best_for: "This plan is the absolute top choice for travelers who demand the fastest speeds and most reliable 5G coverage across Romania."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025), Orange had the highest 5G Availability in Romania during H2 2025, with 50.9% of users accessing its 5G network a majority of the time.\n- **Download rate**: Median download speed of 86.91 Mbps (all technologies) and 156.76 Mbps on 5G.\n- **Upload speed**: Median upload of 18.57 Mbps overall, 27.62 Mbps on 5G.\n- **Latency**: 41 ms overall, 39 ms on 5G.\n- **Consistency**: 92.6% of samples met or exceeded 5 Mbps down / 1 Mbps up.\n- **Video streaming**: Best 5G video streaming experience score of 85.99."
-    arcep_note: "Confirmed by the national telecom regulator ANCOM, Orange holds the largest spectrum portfolio and consistently leads in independent speed tests."
-    connect_note: "Activation works seamlessly with Roami eSIM – simply scan the QR code before departure and connect automatically to Orange's network upon arrival."
-    user_scenarios: "- **Palace of the Parliament, Bucharest**: Stream a live virtual tour of the world's heaviest building without buffering, thanks to Orange's 156.76 Mbps 5G speeds.\n- **Transfăgărășan Highway**: Navigate winding mountain roads with real-time maps and upload photos instantly – Orange's 92.6% consistency ensures no dropouts.\n- **Iași city center**: Enjoy the fastest mobile download speeds in Romania (155.1 Mbps median) while exploring the historic Copou Park."
+    title: "Test eSIM Orange : Meilleure couverture et débits 5G"
+    best_for: "Ce forfait est le meilleur choix absolu pour les voyageurs exigeants qui ont besoin de la meilleure couverture 5G et des débits les plus élevés, que ce soit en ville ou à la campagne."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025), le taux de disponibilité 5G est de 50,9 %.\n- **Débit descendant médian (toutes technologies)** : 86,91 Mbps.\n- **Débit descendant médian 5G** : 156,76 Mbps.\n- **Débit montant médian** : 18,57 Mbps.\n- **Latence** : 41 ms.\n- **Score de connectivité** : 76,2.\n- **Consistance réseau** : 92,6 % des échantillons dépassent 5 Mbps descendant / 1 Mbps montant."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (ANCOM) : Orange détient les meilleures licences de fréquences 5G en Roumanie, garantissant une couverture étendue."
+    connect_note: "L'activation se déroule sans problème via le QR code Roami. Compatible avec la plupart des smartphones récents. Aucune configuration manuelle requise."
+    user_scenarios: "- **Bucarest (Palais du Parlement)** : Téléchargez des documents volumineux en quelques secondes grâce au débit 5G de 156,76 Mbps.\n- **Iași (Palais de la Culture)** : Partagez vos photos et vidéos en streaming 4K sans aucun décalage.\n- **Timișoara (Place de l'Union)** : Utilisez les applications de navigation et de messagerie en temps réel avec une latence minimale."
     bg_color: "bg-orange-50"
 
   - id: "digi-esim"
-    title: "DIGI eSIM Review: Best value 5G"
-    best_for: "This plan is ideal for cost-conscious travelers who still want excellent 5G performance and consistent connectivity."
-    core_data: "- **5G download speed**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025), DIGI recorded a median 5G download speed of 126.22 Mbps.\n- **Overall download speed**: Median of 64.75 Mbps across all technologies.\n- **5G consistency**: Best in market with 88.1% of samples meeting 25 Mbps down / 3 Mbps up.\n- **5G gaming**: DIGI won the Best 5G Gaming Experience award in Romania during H2 2025.\n- **Coverage**: Strong urban and suburban presence, especially in cities like Timișoara."
-    arcep_note: "ANCOM data confirms DIGI's aggressive expansion of 5G infrastructure, making it a reliable secondary option."
-    connect_note: "Roami eSIM supports DIGI networks – activate before travel and enjoy automatic network selection with competitive speeds."
-    user_scenarios: "- **Timișoara fixed broadband alternative**: While fixed median download in Timișoara is 333.25 Mbps, DIGI's mobile 5G (126.22 Mbps) is perfect for on-the-go work.\n- **Bucharest metro**: Stream music and podcasts during commutes – DIGI's 5G consistency keeps playback smooth.\n- **Brașov old town**: Share Instagram stories from the Black Church without lag, thanks to DIGI's gaming-optimized low latency."
-    bg_color: "bg-green-50"
+    title: "Test eSIM DIGI : Meilleure expérience de jeu 5G"
+    best_for: "Ce forfait est le meilleur choix pour les joueurs mobiles et les utilisateurs qui privilégient une latence ultra-faible et une expérience de jeu fluide en 5G."
+    core_data: "- **Débit descendant médian (toutes technologies)** : 64,75 Mbps.\n- **Débit descendant médian 5G** : 126,22 Mbps.\n- **Débit montant médian 5G** : 27,62 Mbps.\n- **Latence 5G** : 39 ms.\n- **Consistance 5G** : 88,1 % des échantillons dépassent 25 Mbps descendant / 3 Mbps montant.\n- **Meilleure expérience de jeu 5G** : Score de jeu 5G le plus élevé du marché."
+    arcep_note: "DIGI est un opérateur majeur en Roumanie, reconnu pour ses offres compétitives et son réseau 5G en pleine expansion, supervisé par l'ANCOM."
+    connect_note: "L'activation est simple et rapide. Le profil eSIM se télécharge automatiquement dès la connexion au réseau DIGI. Parfait pour une utilisation immédiate."
+    user_scenarios: "- **Cluj-Napoca (Parcul Central)** : Jouez à des jeux en ligne multijoueurs sans lag grâce à la latence 5G de 39 ms.\n- **Brașov (Mont Tâmpa)** : Diffusez vos parties en direct sur les réseaux sociaux avec un débit montant de 27,62 Mbps.\n- **Constanța (Plage de Mamaia)** : Profitez d'une expérience de jeu mobile fluide même en bord de mer."
+    bg_color: "bg-blue-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Rumänien eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Rumänien eSIM and local 5G bands"
-cards_free_title: "Get your free Rumänien eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Roumanie"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Roumanie et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Roumanie gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Rumänien eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Roumanie"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Romania"
-    content: "Romanian operators use bands: 800 MHz (Band 20), 1800 MHz (Band 3), 2100 MHz (Band 1), 2600 MHz (Band 7) for 4G/LTE. 5G uses n78 (3500 MHz) and n1 (2100 MHz). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Bande 5G/4G principales en Roumanie"
+    content: "Les bandes 5G utilisées en Roumanie sont principalement le n78 (3,5 GHz) et le n1 (2100 MHz). Pour la 4G, les bandes principales sont le B3 (1800 MHz), le B7 (2600 MHz) et le B20 (800 MHz). Assurez-vous que votre smartphone est compatible avec ces fréquences pour une expérience optimale."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "Romania requires identity verification for prepaid SIMs. For Roami eSIM, you must provide a valid passport or national ID during purchase. Activation is instant after verification."
+  - heading: "2. Exigence d'identification (KYC) pour les eSIM"
+    content: "En Roumanie, l'achat d'une eSIM prépayée nécessite une vérification d'identité (KYC). Vous devrez fournir une pièce d'identité valide (passeport ou carte d'identité) lors de l'activation. Roami simplifie ce processus en ligne pour une activation sans tracas."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most eSIM plans have a Fair Usage Policy. After exceeding a certain data threshold (e.g., 30 GB per month), speeds may be throttled to 1-2 Mbps. Check your plan details before heavy streaming."
+  - heading: "3. Politique de limitation de débit (FUP)"
+    content: "Les forfaits eSIM en Roumanie peuvent inclure une politique d'utilisation équitable (FUP). Après avoir consommé un certain volume de données à haute vitesse, le débit peut être réduit. Vérifiez les conditions de votre forfait Roami pour éviter les surprises."
 
-  - heading: "4. Device compatibility and dual-SIM setup"
-    content: "Roami eSIM works with most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Dual-SIM users can keep their home SIM active for calls while using the eSIM for data."
+  - heading: "4. Couverture réseau dans les zones rurales"
+    content: "Orange offre la meilleure couverture rurale en Roumanie, avec une consistance réseau de 92,6 %. Si vous prévoyez de voyager dans des régions éloignées comme les Carpates, privilégiez un opérateur avec une forte présence rurale."
 
-  - heading: "5. Network coverage in rural vs urban areas"
-    content: "Orange offers the best rural coverage with 92.6% consistency. DIGI focuses on urban centers. If traveling to remote areas like the Carpathian Mountains, Orange is recommended for reliable connectivity."
+  - heading: "5. Compatibilité des smartphones avec les eSIM"
+    content: "La plupart des smartphones récents (iPhone XS et ultérieurs, Google Pixel 3 et ultérieurs, Samsung Galaxy S20 et ultérieurs) sont compatibles avec les eSIM. Vérifiez la liste des appareils compatibles avant d'acheter votre forfait Roami."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Rumänien"
-city_guide_desc: "Find out which Rumänien eSIM is the best choice for your destination city based on real speed test data and local network performance."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Roumanie"
+city_guide_desc: "Découvrez quelle eSIM Roumanie est le meilleur choix pour votre ville de destination, en fonction des performances réseau locales et de vos besoins spécifiques."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
-  - city: "Bucharest"
+  - city: "Bucarest"
     carriers: "Orange"
-    reason: "As the capital, Bucharest benefits from Orange's best overall network. With median download speeds of 86.91 Mbps and 50.9% 5G availability, you'll have fast connectivity for business meetings, sightseeing, and streaming."
+    reason: "Capitale dynamique avec une forte demande de données. Orange offre le meilleur débit descendant médian (86,91 Mbps) et la meilleure disponibilité 5G (50,9 %), idéal pour les professionnels et les touristes."
 
   - city: "Iași"
     carriers: "Orange"
-    reason: "Iași recorded the fastest median mobile download speed in Romania at 155.1 Mbps. Orange's network excels here, making it perfect for digital nomads and students who need high-speed internet for work and study."
+    reason: "Iași est la ville la plus performante pour la vitesse mobile avec un débit médian de 155,1 Mbps. Orange est le choix optimal pour profiter de cette vitesse exceptionnelle, que ce soit pour le travail ou les loisirs."
 
   - city: "Timișoara"
-    carriers: "DIGI"
-    reason: "Timișoara has the fastest fixed broadband (333.25 Mbps median), but for mobile, DIGI offers excellent 5G gaming experience and competitive speeds (126.22 Mbps 5G download). Ideal for gamers and budget travelers."
-
-  - city: "Brașov"
     carriers: "Orange"
-    reason: "Brașov is a gateway to the Carpathians. Orange's 92.6% consistency ensures reliable coverage in the old town and nearby mountain trails. Great for hikers and history buffs."
+    reason: "Timișoara détient le record de vitesse fixe (333,25 Mbps) et offre d'excellentes performances mobiles. Orange est recommandé pour une expérience homogène entre le fixe et le mobile."
 
   - city: "Cluj-Napoca"
-    carriers: "Orange"
-    reason: "Cluj-Napoca is a tech hub with strong Orange 5G coverage. The city's vibrant startup scene benefits from Orange's low latency (39 ms on 5G) and high upload speeds (27.62 Mbps), ideal for video calls and cloud work."
+    carriers: "DIGI"
+    reason: "Ville universitaire et technologique, Cluj-Napoca bénéficie d'une excellente couverture 5G. DIGI est idéal pour les étudiants et les gamers grâce à sa meilleure expérience de jeu 5G."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Constanța"
+    carriers: "Orange"
+    reason: "Station balnéaire très fréquentée, Constanța nécessite un réseau fiable. Orange offre la meilleure couverture et les débits les plus stables, même en période de forte affluence touristique."
+
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Rumänien eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Roumanie selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Visit Bucharest's Palace of the Parliament or Brașov's medieval squares. With Orange's 5G (156.76 Mbps), stream guided tours, upload photos instantly, and navigate with real-time maps."
+    title: "Découvreur de villes"
+    text: "Explorez Bucarest, Iași ou Timișoara avec une connexion 5G ultra-rapide. Téléchargez des guides, utilisez la réalité augmentée pour visiter les monuments et partagez vos expériences en direct."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike the Carpathian Mountains or explore the Danube Delta. Orange's 92.6% consistency ensures you stay connected even in remote areas. Share your adventure live without interruptions."
+    title: "Amoureux de la nature"
+    text: "Partez en randonnée dans les Carpates ou visitez le delta du Danube. Orange offre la meilleure couverture rurale, vous permettant de rester connecté même dans les zones les plus reculées."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the Transfăgărășan Highway or the Transalpina. Use DIGI's 5G (126.22 Mbps) for reliable GPS, streaming music, and uploading road trip vlogs. Low latency keeps navigation responsive."
+    title: "Roadtrippeur"
+    text: "Parcourez la Transfăgărășan ou la route transylvaine avec une navigation GPS fiable. La consistance réseau d'Orange (92,6 %) garantit une connexion stable tout au long de votre voyage."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on the Black Sea coast in Constanța. Orange's 5G availability (50.9%) means you can stream movies, video call family, and share sunset photos with high upload speeds (27.62 Mbps)."
+    title: "Vacancier à la plage"
+    text: "Profitez des plages de la mer Noire à Constanța ou Mamaia. Diffusez de la musique, regardez des vidéos en streaming et restez en contact avec vos proches grâce au débit élevé d'Orange."
 
-scene_guide_footer: "💡 The Roami Rumänien eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Roumanie détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Rumänien eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Roumanie"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Which local mobile operators does the Roami eSIM connect to in Rumänien?"
-    a: "Roami eSIM connects to Orange and DIGI networks in Romania. Orange is the fastest operator with median download speeds of 86.91 Mbps (overall) and 156.76 Mbps on 5G. DIGI offers excellent 5G gaming experience and competitive speeds. Your device will automatically select the best available network."
+  - q: "Roami propose-t-elle des remboursements si l'eSIM Roumanie ne fonctionne pas, et quelles sont les conditions ?"
+    a: "Oui, Roami offre une garantie de remboursement sous certaines conditions. Si l'eSIM ne fonctionne pas sur votre appareil compatible et que vous nous contactez dans les 30 jours suivant l'achat, nous procéderons au remboursement intégral. Veuillez consulter notre politique de remboursement pour plus de détails."
 
-  - q: "Can I make voice or video calls via WhatsApp, WeChat, or FaceTime using the Rumänien eSIM?"
-    a: "Yes, absolutely. The Roami eSIM provides data-only connectivity, which supports all VoIP and video calling apps like WhatsApp, WeChat, FaceTime, Skype, and Zoom. With Orange's low latency (39 ms on 5G) and high upload speeds (27.62 Mbps), your calls will be clear and stable."
+  - q: "Dois-je activer l'itinérance des données dans les paramètres de mon smartphone pour que l'eSIM Roumanie fonctionne ?"
+    a: "Oui, il est nécessaire d'activer l'itinérance des données dans les paramètres de votre smartphone pour que l'eSIM Roumanie fonctionne correctement. Cela permet à votre appareil de se connecter aux réseaux locaux roumains. Assurez-vous également que la ligne eSIM est sélectionnée pour les données mobiles."
 
-  - q: "Can I install the Rumänien travel eSIM at home before my departure?"
-    a: "Yes, you can install the Roami eSIM at home before your trip. Simply purchase the plan, scan the QR code sent to your email, and install the eSIM profile. The eSIM will activate automatically when you arrive in Romania and connect to the local network."
+  - q: "L'eSIM Roumanie permet-elle d'appeler des numéros locaux ou de recevoir des SMS ?"
+    a: "Les forfaits eSIM Roami sont principalement dédiés aux données. Ils ne permettent pas d'effectuer des appels vocaux ou d'envoyer des SMS. Cependant, vous pouvez utiliser des applications de messagerie comme WhatsApp, Telegram ou Skype pour passer des appels et envoyer des messages via Internet."
 
-  - q: "My phone supports dual eSIM. Can I have two Rumänien eSIM profiles active at the same time?"
-    a: "Most dual-SIM phones allow only one eSIM profile active at a time, plus a physical SIM. However, you can store multiple eSIM profiles and switch between them. For example, keep your home SIM for calls and use the Roami eSIM for data. Check your device specifications for exact capabilities."
+  - q: "Comment activer exactement le profil eSIM Roami dès mon arrivée à l'aéroport en Roumanie ?"
+    a: "Dès votre arrivée à l'aéroport, allumez votre smartphone et connectez-vous au réseau Wi-Fi de l'aéroport. Ouvrez l'e-mail de confirmation Roami contenant le code QR. Allez dans les paramètres de votre téléphone, section 'Données mobiles' ou 'Réseau mobile', puis 'Ajouter un forfait cellulaire'. Scannez le code QR et suivez les instructions à l'écran. Activez l'itinérance des données et sélectionnez la ligne eSIM pour les données. Votre connexion sera active en quelques minutes."
 
-  - q: "When does the validity period and billing of my Rumänien eSIM data package start?"
-    a: "The validity period starts when the eSIM first connects to a Romanian network (i.e., upon arrival). Billing is one-time upfront at purchase. For example, a 30-day plan gives you 30 consecutive days of data from first connection. No hidden fees or auto-renewals."
+  - q: "Comment vérifier si mes destinations spécifiques en Roumanie sont bien couvertes par les réseaux eSIM ?"
+    a: "Vous pouvez consulter les cartes de couverture des opérateurs partenaires (Orange et DIGI) sur leurs sites officiels. Roami fournit également une carte de couverture interactive sur notre page produit. Pour une vérification précise, contactez notre support client avec vos destinations exactes, et nous vous confirmerons la couverture."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Rumänien eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Roumanie"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "All eSIMs in Romania have the same speed."
-    truth: "No. Orange leads with median download speeds of 86.91 Mbps overall and 156.76 Mbps on 5G, while DIGI offers 64.75 Mbps overall and 126.22 Mbps on 5G. Performance varies significantly by operator."
+  - myth: "Tous les opérateurs offrent la même qualité de réseau en Roumanie."
+    truth: "Faux. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025), Orange est le meilleur réseau mobile global avec un débit descendant médian de 86,91 Mbps, tandis que DIGI excelle dans l'expérience de jeu 5G. Les performances varient considérablement entre les opérateurs."
 
-  - myth: "5G coverage is available everywhere in Romania."
-    truth: "5G availability is highest on Orange at 50.9% of users accessing 5G most of the time. Rural areas may still rely on 4G. Check coverage maps before traveling to remote regions."
+  - myth: "La 5G est disponible partout en Roumanie."
+    truth: "Non. La disponibilité 5G est de 50,9 % pour Orange, ce qui signifie que seulement la moitié des utilisateurs accèdent à la 5G la plupart du temps. Les zones rurales peuvent encore dépendre de la 4G."
 
-  - myth: "eSIMs are more expensive than physical SIMs."
-    truth: "Roami eSIM plans are competitively priced and often cheaper than roaming fees. Plus, you save time by activating before travel and avoid physical SIM hassles."
+  - myth: "Les eSIM sont moins fiables que les cartes SIM physiques."
+    truth: "Faux. Les eSIM utilisent la même technologie réseau que les cartes physiques. Elles offrent même une meilleure flexibilité, permettant de changer d'opérateur sans changer de carte SIM."
 
-  - myth: "You need a Romanian ID to buy an eSIM."
-    truth: "No. Roami eSIM accepts international passports or IDs for KYC verification. No Romanian residency or ID required."
+  - myth: "Il est impossible d'utiliser une eSIM en Roumanie sans adresse locale."
+    truth: "Faux. Roami propose des eSIM prépayées sans nécessité d'adresse locale. L'activation se fait en ligne avec une simple vérification d'identité (KYC)."
 
-  - myth: "Video streaming is poor on mobile networks in Romania."
-    truth: "Orange offers the best 5G video streaming experience with a score of 85.99. DIGI also provides smooth streaming. With high speeds and low latency, you can enjoy HD video without buffering."
+  - myth: "Les forfaits eSIM sont toujours plus chers que les cartes SIM locales."
+    truth: "Faux. Les eSIM Roami offrent des tarifs compétitifs, souvent inférieurs aux frais d'itinérance des opérateurs traditionnels. De plus, vous évitez les tracas d'achat en boutique et les barrières linguistiques."
 
 
 # Data sources
-data_sources_title: "Rumänien mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Roumanie"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)"
-    description: "Ookla's Speedtest Intelligence data for H2 2025 provides median download/upload speeds, latency, 5G availability, consistency, and video streaming scores for Romanian mobile and fixed networks."
+  - name: "Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)"
+    description: "Analyse des performances des réseaux mobiles et fixes en Roumanie pour le second semestre 2025, basée sur les données Speedtest Intelligence."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's independent reports on mobile network experience in Romania, including 5G availability, download speed experience, and video experience for major operators."
+    description: "Rapport sur l'expérience utilisateur des réseaux mobiles en Roumanie, incluant la couverture, la vitesse et la latence."
 
-  - name: "ANCOM (National Authority for Communications) 2025"
-    description: "The Romanian telecom regulator ANCOM publishes annual market reports on spectrum allocation, coverage obligations, and quality of service benchmarks for all licensed operators."
+  - name: "ANCOM (Autorité Nationale pour l'Administration et la Régulation des Communications) 2025"
+    description: "Données réglementaires officielles sur la couverture réseau, les licences de fréquences et les parts de marché des opérateurs en Roumanie."
 
-data_sources_footer: "All network performance data cited above come from publicly available third-party reports and are used for informational purposes. Actual speeds may vary based on location, device, network congestion, and other factors."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device capabilities, time of day, and network congestion. Always check the latest coverage maps from your chosen operator."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public, notamment Ookla, OpenSignal et l'ANCOM. Ces données sont fournies à titre indicatif et peuvent varier en fonction de votre emplacement, de votre appareil et des conditions réseau."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de nombreux facteurs, notamment la congestion du réseau, les conditions météorologiques, le type d'appareil et la configuration logicielle. Les données présentées sont des médianes et ne garantissent pas une expérience individuelle."
 
 # CTA product card
-cta_title: "Secure your Rumänien eSIM today"
-cta_desc: "Get immediate access to Orange's fastest 5G network in Romania. Instant activation, no roaming fees, and reliable connectivity across the country. Perfect for business and leisure travelers."
-cta_button_text: "Buy Rumänien eSIM now"
+cta_title: "Obtenez votre eSIM Roumanie dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat aux meilleurs réseaux roumains avec Roami. Activation instantanée, pas de frais d'itinérance, et une couverture 5G premium. Commandez votre eSIM Roumanie maintenant et restez connecté où que vous alliez."
+cta_button_text: "Acheter l'eSIM Roumanie maintenant"
 cta_button_link: "/romania-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Rumänien trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Roumanie gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Rumänien eSIM: Perfect for dual‑SIM devices
+# Roumanie eSIM: Gardez votre numéro principal actif
 
-> **💡 Short summary for travelers:** Worry-free global business travel: one eSIM for high-speed networks across multiple countries. Roami's Rumänien eSIM connects you to Orange's award-winning 5G network, which achieved a median download speed of 86.91 Mbps overall and 156.76 Mbps on 5G during H2 2025 (Ookla). Whether you're in Bucharest, Iași, or Timișoara, enjoy seamless connectivity without roaming fees. Perfect for dual-SIM devices, instant activation, and reliable coverage across Romania.
+> **💡 Résumé rapide pour les voyageurs :** Voyages d'affaires mondiaux sans souci : une eSIM pour les réseaux haut débit dans plusieurs pays. Avec Roami, vous accédez aux meilleurs réseaux roumains comme Orange, qui affiche un débit descendant médian de 86,91 Mbps (toutes technologies confondues) et 156,76 Mbps en 5G selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025). L'eSIM Roumanie de Roami vous garantit une connexion stable et rapide, idéale pour les professionnels en déplacement.
 
-## Things you need to know before buying a Rumänien eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Roumanie
 
 
-### 1. Main 5G/4G frequency bands in Romania {#1-main-5g4g-frequency-bands-in-romania}
-Romanian operators use bands: 800 MHz (Band 20), 1800 MHz (Band 3), 2100 MHz (Band 1), 2600 MHz (Band 7) for 4G/LTE. 5G uses n78 (3500 MHz) and n1 (2100 MHz). Ensure your device supports these bands for optimal performance.
+### 1. Bande 5G/4G principales en Roumanie {#1-bande-5g4g-principales-en-roumanie}
+Les bandes 5G utilisées en Roumanie sont principalement le n78 (3,5 GHz) et le n1 (2100 MHz). Pour la 4G, les bandes principales sont le B3 (1800 MHz), le B7 (2600 MHz) et le B20 (800 MHz). Assurez-vous que votre smartphone est compatible avec ces fréquences pour une expérience optimale.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-Romania requires identity verification for prepaid SIMs. For Roami eSIM, you must provide a valid passport or national ID during purchase. Activation is instant after verification.
+### 2. Exigence d'identification (KYC) pour les eSIM {#2-exigence-didentification-kyc-pour-les-esim}
+En Roumanie, l'achat d'une eSIM prépayée nécessite une vérification d'identité (KYC). Vous devrez fournir une pièce d'identité valide (passeport ou carte d'identité) lors de l'activation. Roami simplifie ce processus en ligne pour une activation sans tracas.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most eSIM plans have a Fair Usage Policy. After exceeding a certain data threshold (e.g., 30 GB per month), speeds may be throttled to 1-2 Mbps. Check your plan details before heavy streaming.
+### 3. Politique de limitation de débit (FUP) {#3-politique-de-limitation-de-débit-fup}
+Les forfaits eSIM en Roumanie peuvent inclure une politique d'utilisation équitable (FUP). Après avoir consommé un certain volume de données à haute vitesse, le débit peut être réduit. Vérifiez les conditions de votre forfait Roami pour éviter les surprises.
 
-### 4. Device compatibility and dual-SIM setup {#4-device-compatibility-and-dual-sim-setup}
-Roami eSIM works with most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Dual-SIM users can keep their home SIM active for calls while using the eSIM for data.
+### 4. Couverture réseau dans les zones rurales {#4-couverture-réseau-dans-les-zones-rurales}
+Orange offre la meilleure couverture rurale en Roumanie, avec une consistance réseau de 92,6 %. Si vous prévoyez de voyager dans des régions éloignées comme les Carpates, privilégiez un opérateur avec une forte présence rurale.
 
-### 5. Network coverage in rural vs urban areas {#5-network-coverage-in-rural-vs-urban-areas}
-Orange offers the best rural coverage with 92.6% consistency. DIGI focuses on urban centers. If traveling to remote areas like the Carpathian Mountains, Orange is recommended for reliable connectivity.
+### 5. Compatibilité des smartphones avec les eSIM {#5-compatibilité-des-smartphones-avec-les-esim}
+La plupart des smartphones récents (iPhone XS et ultérieurs, Google Pixel 3 et ultérieurs, Samsung Galaxy S20 et ultérieurs) sont compatibles avec les eSIM. Vérifiez la liste des appareils compatibles avant d'acheter votre forfait Roami.

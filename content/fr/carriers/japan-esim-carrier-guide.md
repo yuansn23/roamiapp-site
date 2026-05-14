@@ -1,65 +1,65 @@
 ---
-title: "Japan eSIM: Reliable network for business trips"
-description: "Experience fast internet in Japan with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:40:51+00:00"
-keywords: "eSIM Japan, prepaid data, 5G network, Rakuten Mobile, SoftBank, So-net, Japan travel eSIM"
+title: "Japon eSIM: Économisez du temps et des efforts pour l'Internet de voyage"
+description: "Profitez d'Internet rapide en Japon avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:16:39+00:00"
+keywords: "eSIM Japon, données prépayées, réseau 5G, Rakuten Mobile, SoftBank, So-net, voyage Japon, guide eSIM"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Japan eSIM Guide"
+  - name: "Guide eSIM Japon"
     url: ""
 
 # Hero section copy
-hero_badge: "🇯🇵 Japan Travel eSIM Latest Guide"
-hero_subtitle_main: "Japan eSIM: Reliable network for business trips"
-hero_subtitle_highlight: "Premium 5G network coverage by Rakuten Mobile and SoftBank"
-hero_description_line1: "Quickly install via QR code and use immediately. The Japan eSIM helps you avoid long queues at airport kiosks, offering a smart internet solution for your trip to Japan."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Japan eSIM"
+hero_badge: "🇯🇵 Guide actuel de l'eSIM de voyage Japon"
+hero_subtitle_main: "Japon eSIM: Économisez du temps et des efforts pour l'Internet de voyage"
+hero_subtitle_highlight: "Couverture réseau 5G premium via Rakuten Mobile, NTT DoCoMo et SoftBank"
+hero_description_line1: "Rendez les voyages à l'étranger simples et rapides avec l'eSIM Japon. Elle couvre les principaux réseaux mobiles locaux avec des signaux stables, des prix transparents et aucun frais caché."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Japon"
 hero_link_url: "/japan-esim/"
-tldr_summary: "【Top choice for business travel: cross‑border 5G solutions with unlimited data】. Roami's Japan eSIM leverages the fastest 5G network in Japan (Rakuten Mobile with median download speed of 151.16 Mbps) and the best video/gaming experience (SoftBank). Stay productive with ultra‑low latency and consistent connectivity across Tokyo, Osaka, and Saitama. Perfect for remote work, streaming, and navigation."
+tldr_summary: "Un must pour les voyages internationaux : solutions eSIM 5G avec changement de réseau transparent. Selon les dernières données de [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024), Rakuten Mobile domine la 5G avec un débit descendant médian de 151,16 Mbps, tandis que SoftBank offre la meilleure expérience vidéo et gaming. Avec Roami, vous accédez à ces réseaux sans contrainte, idéal pour les nomades numériques et les touristes visitant Tokyo, Osaka ou Saitama."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Japan eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Japon eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Japan eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Japon choisir ?"
 
   - href: "#operators"
-    text: "Top Japan eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Japon"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Japan"
+    text: "Guide des villes : La meilleure eSIM pour Japon"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Japan eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Japon"
 
   - href: "#faq"
-    text: "Frequently asked questions about Japan eSIM"
+    text: "Questions fréquentes sur l'eSIM Japon"
 
   - href: "#myths"
-    text: "Myths and facts about Japan eSIM"
+    text: "Mythes et faits sur l'eSIM Japon"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Japan eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Japon devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,249 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "Rakuten Mobile"
     carrier_class: "text-orange-600"
-    reason: "Fastest 5G network in Japan with median download speed of 151.16 Mbps and best consistency (89.9% of samples meeting threshold). Ideal for heavy data users and remote work."
+    reason: "Réseau 5G le plus rapide avec 151,16 Mbps en téléchargement, idéal pour le télétravail et les transferts de fichiers lourds."
 
-  - travel: "Business travelers"
+  - travel: "Touristes urbains"
     carrier: "SoftBank"
     carrier_class: "text-red-600"
-    reason: "Best mobile video streaming and gaming experience. Reliable for video calls and entertainment during downtime."
+    reason: "Meilleure expérience vidéo et gaming, parfait pour le streaming et les jeux en déplacement dans les grandes villes."
 
-  - travel: "Budget-conscious tourists"
+  - travel: "Voyageurs en zone rurale"
     carrier: "NTT DoCoMo"
-    carrier_class: "text-green-600"
-    reason: "Highest 5G availability (43% of users accessing 5G most of the time). Good balance of coverage and speed."
-
-  - travel: "Fixed internet users (long stays)"
-    carrier: "So-net"
     carrier_class: "text-blue-600"
-    reason: "Fastest fixed ISP in Japan with median download speed of 301.75 Mbps. Perfect for apartment or hotel Wi-Fi replacement."
+    reason: "Meilleure disponibilité 5G (43% du temps), couverture étendue même dans les régions reculées."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Japan travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Japon la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "rakuten-mobile-esim"
-    title: "Rakuten Mobile eSIM Review: Fastest 5G network"
-    best_for: "This plan is the absolute top choice for users who demand the fastest 5G speeds in Japan. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024), Rakuten Mobile achieved a median 5G download speed of 151.16 Mbps and upload speed of 26.1 Mbps, with a latency of 49 ms. It also leads in network consistency (89.9% of samples meeting 5 Mbps down / 1 Mbps up)."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024), NTT DoCoMo leads with 43% 5G availability, but Rakuten Mobile offers the fastest speeds.\n- **Download rate**: Median 5G download speed of 151.16 Mbps.\n- **Upload rate**: Median 5G upload speed of 26.1 Mbps.\n- **Latency**: 49 ms over 5G.\n- **Consistency**: 89.9% of samples met the threshold (5 Mbps down / 1 Mbps up)."
-    arcep_note: "Confirmed by the local telecom authority (Ministry of Internal Affairs and Communications) that Rakuten Mobile holds the fastest 5G network title in 2H 2024."
-    connect_note: "Activation works seamlessly via QR code. Compatible with most eSIM‑enabled devices. Instant connectivity upon arrival."
-    user_scenarios: "- **Shinkansen bullet train**: Stream HD video without buffering between Tokyo and Osaka.\n- **Osaka Prefecture**: Enjoy the fastest mobile download speeds in Japan (median 63.12 Mbps) for navigation and social media.\n- **Saitama Prefecture**: Benefit from the fastest fixed broadband speeds (median 239.22 Mbps) when using tethering."
-    bg_color: "bg-blue-50"
+    title: "Test eSIM Rakuten Mobile : Meilleure performance 5G"
+    best_for: "Ce forfait est le meilleur choix absolu pour les utilisateurs exigeant des vitesses 5G maximales, notamment pour le streaming 4K, les visioconférences et les téléchargements lourds."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024), Rakuten Mobile n'affiche pas le meilleur taux de disponibilité, mais il domine en vitesse.\n- **Débit descendant médian 5G** : 151,16 Mbps\n- **Débit montant médian 5G** : 26,1 Mbps\n- **Latence 5G** : 49 ms\n- **Score de vitesse Speedtest** : 139,48\n- **Consistance réseau** : 89,9% des échantillons dépassent 5 Mbps descendant / 1 Mbps montant\n- **Consistance 5G** : 84,3% des échantillons dépassent 25 Mbps descendant / 3 Mbps montant"
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (Ministère des Affaires Intérieures et des Communications) : Rakuten Mobile est certifié pour ses performances 5G."
+    connect_note: "L'activation se déroule sans problème via QR code. Compatible avec la plupart des smartphones récents. Aucune configuration manuelle requise."
+    user_scenarios: "- **Shinjuku, Tokyo** : Téléchargez vos cartes et itinéraires en quelques secondes avant de partir explorer les quartiers animés.\n- **Gare de Shibuya** : Partagez vos stories Instagram en direct sans mise en mémoire tampon, même aux heures de pointe.\n- **Mont Fuji** : Restez connecté lors de votre ascension grâce à la couverture 5G étendue de Rakuten Mobile."
+    bg_color: "bg-orange-50"
 
   - id: "softbank-esim"
-    title: "SoftBank eSIM Review: Best video & gaming experience"
-    best_for: "This plan is ideal for travelers who prioritize video streaming and mobile gaming. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024), SoftBank scored the highest in video streaming experience and gaming experience among Japanese operators in 2H 2024."
-    core_data: "- **Video streaming score**: 75.91 (best in Japan).\n- **Gaming experience score**: 80.94 (best in Japan).\n- **5G speed**: Not the fastest, but optimized for low‑latency applications.\n- **Coverage**: Strong urban and suburban coverage."
-    arcep_note: "SoftBank's video and gaming leadership is recognized by Ookla and aligns with local telecom reports."
-    connect_note: "Simple eSIM activation via QR code. Works with most modern smartphones. Reliable for streaming services like Netflix and YouTube."
-    user_scenarios: "- **Tokyo Disneyland**: Stream live shows and play mobile games with minimal lag.\n- **Kyoto temples**: Watch guided tour videos without interruption.\n- **Akihabara**: Download large game updates quickly."
+    title: "Test eSIM SoftBank : Meilleure expérience multimédia"
+    best_for: "Ce forfait est le meilleur choix absolu pour les amateurs de vidéo et de jeux mobiles, offrant une expérience fluide et sans latence."
+    core_data: "- **Expérience vidéo** : Meilleur score de streaming vidéo selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024).\n- **Expérience gaming** : Meilleur score pour les jeux mobiles.\n- **Débit descendant médian** : Non spécifié dans le rapport, mais SoftBank se distingue par la qualité de service.\n- **Disponibilité 5G** : Non spécifiée, mais couverture urbaine excellente."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications : SoftBank respecte les normes de qualité de service pour le streaming et le gaming."
+    connect_note: "L'activation se déroule sans problème via QR code. Compatible avec la plupart des smartphones récents. Aucune configuration manuelle requise."
+    user_scenarios: "- **Akihabara, Tokyo** : Jouez à des jeux mobiles en réalité augmentée sans décalage dans le quartier électrique.\n- **Disneyland Tokyo** : Regardez des vidéos en streaming pendant les files d'attente sans interruption.\n- **Gare de Shin-Osaka** : Regardez des films en streaming pendant votre trajet en Shinkansen."
     bg_color: "bg-red-50"
 
   - id: "ntt-docomo-esim"
-    title: "NTT DoCoMo eSIM Review: Best 5G availability"
-    best_for: "This plan is perfect for users who need consistent 5G access across Japan. NTT DoCoMo recorded the highest 5G availability at 43%, meaning users spend more time on 5G than any other operator."
-    core_data: "- **5G availability**: 43% of users accessing 5G most of the time.\n- **Median 5G download speed**: 119.75 Mbps.\n- **Median 5G upload speed**: Not specified, but competitive.\n- **Consistency**: Second best after Rakuten Mobile."
-    arcep_note: "NTT DoCoMo's 5G availability leadership is confirmed by Ookla Speedtest Intelligence data for 2H 2024."
-    connect_note: "eSIM activation is straightforward. Compatible with major eSIM devices. Good for rural and urban areas alike."
-    user_scenarios: "- **Mount Fuji area**: Stay connected on 5G even in less dense regions.\n- **Hokkaido ski resorts**: Reliable coverage for maps and emergency calls.\n- **Osaka business district**: Fast enough for video conferencing."
-    bg_color: "bg-green-50"
+    title: "Test eSIM NTT DoCoMo : Meilleure couverture 5G"
+    best_for: "Ce forfait est le meilleur choix absolu pour les voyageurs qui explorent les zones rurales et les parcs nationaux, où la disponibilité du réseau est cruciale."
+    core_data: "- **Disponibilité 5G** : 43% des utilisateurs accèdent à la 5G la plupart du temps, selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024).\n- **Débit descendant médian 5G** : 119,75 Mbps\n- **Débit montant médian 5G** : Non spécifié, mais compétitif.\n- **Consistance réseau** : Non spécifiée, mais bonne fiabilité globale."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications : NTT DoCoMo est reconnu pour sa couverture étendue, notamment dans les zones montagneuses et rurales."
+    connect_note: "L'activation se déroule sans problème via QR code. Compatible avec la plupart des smartphones récents. Aucune configuration manuelle requise."
+    user_scenarios: "- **Parc national de Nikko** : Restez connecté pour partager vos photos de cascades et de temples.\n- **Île de Miyajima** : Utilisez la navigation GPS sans craindre de perdre le signal.\n- **Vallée de Kiso** : Téléchargez des guides de randonnée en déplacement."
+    bg_color: "bg-blue-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Japan eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Japan eSIM and local 5G bands"
-cards_free_title: "Get your free Japan eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Japon"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Japon et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Japon gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Japan eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Japon"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Japan"
-    content: "Japan's 5G networks operate on n77 (3.7 GHz), n78 (3.5 GHz), and n257 (28 GHz) bands. 4G LTE uses bands 1 (2100 MHz), 3 (1800 MHz), 8 (900 MHz), 11 (1500 MHz), 18 (800 MHz), 19 (800 MHz), 21 (1500 MHz), 28 (700 MHz), and 42 (3500 MHz). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Principales bandes 5G/4G utilisées au Japon"
+    content: "Le Japon utilise principalement les bandes 5G n77 (3,7 GHz), n78 (3,5 GHz) et n257 (28 GHz) pour les zones urbaines denses. Pour la 4G, les bandes 1 (2100 MHz), 3 (1800 MHz), 8 (900 MHz) et 11 (1500 MHz) sont courantes. Assurez-vous que votre smartphone est compatible avec ces fréquences pour une expérience optimale."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate a Japan eSIM, you typically need to provide a valid passport or government‑issued ID. Some providers may require a selfie or proof of address. Roami simplifies this with a quick online verification process."
+  - heading: "2. Exigence d'identification (KYC) pour les cartes SIM locales"
+    content: "Au Japon, l'achat d'une carte SIM physique ou d'un forfait eSIM nécessite une pièce d'identité (passeport) et une adresse locale. Les eSIM de voyage comme Roami contournent cette obligation en fournissant une activation à distance sans vérification d'identité complexe."
 
-  - heading: "3. Fair Usage Policy (FUP) for unlimited data plans"
-    content: "Most unlimited data plans in Japan have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 10 GB per day). Check the specific plan details to avoid unexpected slowdowns."
+  - heading: "3. Politiques de fair use (FUP) et limitations de débit"
+    content: "La plupart des forfaits locaux imposent une limite de données après laquelle le débit est réduit (généralement 128 kbps à 1 Mbps). Les eSIM de voyage incluent souvent des données illimitées sans FUP stricte, mais vérifiez les conditions générales pour éviter les mauvaises surprises."
 
-  - heading: "4. Network compatibility with your device"
-    content: "Not all eSIM‑compatible devices support Japan's specific frequency bands. Verify that your smartphone (e.g., iPhone 12 or later, Google Pixel 5 or later) supports n77/n78 for 5G and LTE bands 1/3/8/18/19/28 for 4G."
+  - heading: "4. Compatibilité des smartphones avec les eSIM japonaises"
+    content: "Les iPhone XS et ultérieurs, Google Pixel 3 et ultérieurs, et la plupart des Samsung Galaxy récents supportent les eSIM. Cependant, certains modèles chinois ou verrouillés peuvent ne pas être compatibles. Vérifiez les paramètres de votre appareil avant l'achat."
 
-  - heading: "5. Roaming vs. local eSIM: cost and performance"
-    content: "Using a local Japan eSIM like Roami is significantly cheaper than international roaming. Local eSIMs also provide better latency and speeds because they connect directly to Japanese networks (Rakuten Mobile, SoftBank, NTT DoCoMo)."
+  - heading: "5. Durée de validité et renouvellement des forfaits eSIM"
+    content: "Les forfaits eSIM de voyage ont une durée de validité fixe (7, 15 ou 30 jours). Passé ce délai, les données sont coupées. Certains fournisseurs permettent le rechargement en ligne, mais il est plus simple d'acheter un nouveau forfait si vous prolongez votre séjour."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Japan"
-city_guide_desc: "Find out which Japan eSIM is the best choice for your destination city based on network performance data from [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024)."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Japon"
+city_guide_desc: "Découvrez quelle eSIM Japon est le meilleur choix pour votre ville de destination, en fonction des performances réseau locales et de vos besoins."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
   - city: "Tokyo"
     carriers: "Rakuten Mobile"
-    reason: "Tokyo demands high‑speed data for business and entertainment. Rakuten Mobile's fastest 5G network (151.16 Mbps) ensures smooth video calls, streaming, and navigation across the metropolis."
+    reason: "Capitale dynamique avec une forte demande en données. Rakuten Mobile offre les vitesses 5G les plus élevées (151,16 Mbps), idéal pour les professionnels et les touristes connectés."
 
   - city: "Osaka"
     carriers: "SoftBank"
-    reason: "Osaka Prefecture recorded the fastest median mobile download speed (63.12 Mbps) in Japan. SoftBank's best video and gaming experience makes it ideal for tourists visiting Dotonbori and Universal Studios Japan."
+    reason: "Osaka est la région la plus performante pour le mobile (63,12 Mbps en téléchargement). SoftBank y excelle pour le streaming et le gaming, parfait pour les amateurs de divertissement."
 
   - city: "Saitama"
-    carriers: "So-net (fixed) / NTT DoCoMo (mobile)"
-    reason: "Saitama Prefecture has the fastest fixed broadband (239.22 Mbps). For mobile, NTT DoCoMo offers the highest 5G availability (43%), perfect for long stays or remote work."
+    carriers: "NTT DoCoMo"
+    reason: "Saitama est la meilleure région pour le fixe (239,22 Mbps). Pour le mobile, NTT DoCoMo offre une couverture 5G étendue (43% de disponibilité), idéale pour les déplacements entre zones urbaines et rurales."
 
   - city: "Kyoto"
     carriers: "Rakuten Mobile"
-    reason: "Kyoto's mix of ancient temples and modern cafes requires reliable connectivity. Rakuten Mobile's consistency (89.9%) ensures you stay connected even in crowded tourist spots."
+    reason: "Ville historique avec des zones touristiques denses. Rakuten Mobile assure des vitesses élevées pour partager photos et vidéos sans latence, même dans les temples bondés."
 
-  - city: "Hokkaido (Sapporo)"
+  - city: "Hokkaido"
     carriers: "NTT DoCoMo"
-    reason: "Hokkaido's rural areas benefit from NTT DoCoMo's extensive 5G coverage. With 43% 5G availability, you can navigate ski resorts and national parks without losing signal."
+    reason: "Région montagneuse et rurale. NTT DoCoMo est le meilleur choix pour une couverture fiable lors des randonnées et des visites de parcs nationaux."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Japan eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Japon selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Tokyo's Shibuya, Osaka's Dotonbori, and Kyoto's temples with Rakuten Mobile's fastest 5G. Stream live guides, use AR navigation, and share photos instantly."
+    title: "Découvreur de villes"
+    text: "Explorez Tokyo, Osaka et Kyoto avec une connexion 5G ultra-rapide. Téléchargez des cartes, réservez des billets de musée et partagez vos aventures en temps réel."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike Mount Fuji or visit Hokkaido's national parks. NTT DoCoMo's high 5G availability (43%) ensures you stay connected for emergency calls and trail maps."
+    title: "Amoureux de la nature"
+    text: "Randonnez dans les parcs nationaux de Nikko ou de Hokkaido avec une couverture fiable grâce à NTT DoCoMo. Utilisez le GPS sans craindre de perdre le signal."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the Shimanami Kaido or explore the Japanese Alps. SoftBank's consistent video streaming keeps passengers entertained, while Rakuten Mobile's speed helps with real‑time navigation."
+    title: "Roadtrippeur"
+    text: "Parcourez le Japon en voiture avec une eSIM qui bascule automatiquement entre les réseaux. Profitez de la 5G de Rakuten Mobile sur les autoroutes et dans les aires de repos."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on Okinawa's beaches. So-net's fixed broadband (301.75 Mbps) is great for beachfront rentals, and Rakuten Mobile's 5G ensures fast uploads of your vacation photos."
+    title: "Vacancier à la plage"
+    text: "Détendez-vous sur les plages d'Okinawa avec une connexion stable pour le streaming et les appels vidéo. SoftBank offre la meilleure expérience multimédia même en bord de mer."
 
-scene_guide_footer: "💡 The Roami Japan eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Japon détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Japan eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Japon"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "How exactly do I activate the Roami eSIM profile right after arriving at the airport in Japan?"
-    a: "After landing, turn on your device and connect to Wi‑Fi (available at most airports). Open the Roami app or email with your QR code, go to Settings > Cellular > Add eSIM, and scan the QR code. The profile installs in seconds. Then select Roami as your primary data line. No physical SIM swap needed."
+  - q: "Quel opérateur local offre la couverture réseau la plus forte et la plus fiable dans les parcs nationaux et les villes les plus célèbres de Japon ?"
+    a: "NTT DoCoMo est l'opérateur avec la meilleure disponibilité 5G (43% du temps) et une couverture étendue dans les zones rurales et montagneuses, y compris les parcs nationaux comme Nikko et Hokkaido. Pour les villes comme Tokyo et Osaka, Rakuten Mobile offre les vitesses les plus élevées (151,16 Mbps en 5G), tandis que SoftBank excelle pour le streaming et le gaming."
 
-  - q: "Is the Japan eSIM suitable for online gaming, and what is the average network latency (ping)?"
-    a: "Yes, especially with SoftBank which offers the best gaming experience (score 80.94). Rakuten Mobile's 5G latency is 49 ms, suitable for most online games. For competitive gaming, use 5G networks for lower ping."
+  - q: "Dois-je activer l'itinérance des données dans les paramètres de mon smartphone pour que l'eSIM Japon fonctionne ?"
+    a: "Oui, pour la plupart des eSIM de voyage, l'itinérance des données doit être activée dans les paramètres de votre smartphone. Cela permet à l'eSIM de se connecter aux réseaux partenaires locaux. Cependant, vous ne serez pas facturé de frais d'itinérance supplémentaires, car le forfait est prépayé. Vérifiez les instructions spécifiques de votre fournisseur eSIM."
 
-  - q: "Can I use my physical home SIM card and the Japan eSIM simultaneously?"
-    a: "Absolutely. Most dual‑SIM phones allow you to keep your home SIM active for calls/SMS while using the Japan eSIM for data. In Settings, set the eSIM as the default data line. This way you avoid roaming charges while staying reachable."
+  - q: "Comment vérifier si mes destinations spécifiques en Japon sont bien couvertes par les réseaux eSIM ?"
+    a: "Consultez les cartes de couverture des opérateurs locaux (Rakuten Mobile, NTT DoCoMo, SoftBank) sur leurs sites officiels. Vous pouvez également utiliser des applications comme OpenSignal ou Speedtest pour vérifier la qualité du réseau dans des zones spécifiques. Les eSIM de voyage comme Roami utilisent plusieurs réseaux, ce qui maximise la couverture."
 
-  - q: "Can I install the Japan travel eSIM at home before my departure?"
-    a: "Yes, you can install the eSIM profile at home as long as you have an internet connection. The profile will remain inactive until you arrive in Japan and enable data roaming. This saves time at the airport."
+  - q: "Puis-je installer l'eSIM de voyage Japon à l'avance depuis chez moi avant mon départ ?"
+    a: "Oui, la plupart des fournisseurs d'eSIM permettent l'installation à l'avance. Vous recevez un QR code par email que vous pouvez scanner depuis chez vous. L'activation se fait automatiquement dès que vous arrivez au Japon et que vous activez l'itinérance des données. Cela vous évite de chercher une connexion Wi-Fi à l'aéroport."
 
-  - q: "Is it possible to purchase multiple data packages for Japan and activate them one after another?"
-    a: "Yes, Roami allows you to buy multiple data packages in advance. You can store them in your account and activate each one sequentially when the previous package expires. This is perfect for extended stays."
+  - q: "Est-il possible d'acheter plusieurs forfaits de données pour Japon et de les activer l'un après l'autre ?"
+    a: "Oui, vous pouvez acheter plusieurs forfaits eSIM et les installer sur votre smartphone. Cependant, un seul forfait peut être actif à la fois. Pour passer d'un forfait à l'autre, vous devez désactiver l'eSIM actuelle et activer la suivante dans les paramètres de votre téléphone. Certains fournisseurs proposent des forfaits multi-pays qui couvrent plusieurs destinations, ce qui peut être plus pratique."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Japan eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Japon"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "All Japanese operators have the same 5G speed."
-    truth: "False. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024), Rakuten Mobile is the fastest with 151.16 Mbps, while NTT DoCoMo and au are slower (119.75 Mbps and 115.24 Mbps respectively)."
+  - myth: "Tous les opérateurs japonais offrent la même vitesse 5G."
+    truth: "Faux. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024), Rakuten Mobile est le plus rapide avec 151,16 Mbps en téléchargement, tandis que NTT DoCoMo et au sont derrière avec respectivement 119,75 Mbps et 115,24 Mbps."
 
-  - myth: "You need a Japanese phone number to use an eSIM."
-    truth: "No. Data‑only eSIMs like Roami do not require a local number. You can use VoIP apps (WhatsApp, Skype) for calls."
+  - myth: "La 5G est disponible partout au Japon."
+    truth: "Non. NTT DoCoMo a la meilleure disponibilité 5G avec 43% de ses utilisateurs accédant à la 5G la plupart du temps. Les zones rurales et montagneuses peuvent encore dépendre de la 4G."
 
-  - myth: "5G is available everywhere in Japan."
-    truth: "5G coverage is still expanding. NTT DoCoMo leads with 43% availability, but rural areas may only have 4G. Check coverage maps before traveling."
+  - myth: "Les eSIM de voyage sont plus lentes que les cartes SIM locales."
+    truth: "Faux. Les eSIM de voyage comme Roami utilisent les mêmes réseaux locaux (Rakuten Mobile, SoftBank, NTT DoCoMo) et offrent des vitesses identiques, sans frais d'itinérance."
 
-  - myth: "Unlimited data plans have no restrictions."
-    truth: "Most plans have a Fair Usage Policy (FUP). After a certain threshold (e.g., 10 GB/day), speeds may be throttled. Always read the fine print."
+  - myth: "SoftBank est le meilleur opérateur pour tout type d'usage."
+    truth: "SoftBank est excellent pour le streaming vidéo et le gaming, mais Rakuten Mobile est plus rapide pour les téléchargements et NTT DoCoMo offre une meilleure couverture rurale."
 
-  - myth: "eSIMs are only for high‑end smartphones."
-    truth: "Many mid‑range and older devices support eSIM, including iPhone XR and later, Google Pixel 3 and later, and Samsung Galaxy S20 and later. Check your device <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a>."
+  - myth: "Il est impossible d'utiliser une eSIM au Japon sans adresse locale."
+    truth: "Faux. Les eSIM de voyage contournent l'obligation d'adresse locale et de pièce d'identité. L'activation se fait à distance sans vérification KYC complexe."
 
 
 # Data sources
-data_sources_title: "Japan mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Japon"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024)"
-    description: "Ookla's Speedtest Intelligence data for 2H 2024 provides median download/upload speeds, 5G availability, consistency, and video/gaming scores for Japanese operators."
+  - name: "Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024)"
+    description: "Rapport officiel d'Ookla sur les performances des réseaux mobiles et fixes au Japon pour le second semestre 2024. Données basées sur Speedtest Intelligence."
 
   - name: "OpenSignal 2024"
-    description: "OpenSignal's Japan Mobile Network Experience Report (2024) offers insights on coverage, latency, and user experience across operators."
+    description: "Analyse indépendante de l'expérience utilisateur sur les réseaux mobiles japonais, incluant la couverture, la vitesse et la fiabilité."
 
-  - name: "Ministry of Internal Affairs and Communications (MIC) 2024"
-    description: "Japan's telecom regulator publishes annual reports on spectrum allocation, network quality, and operator compliance."
+  - name: "Ministère des Affaires Intérieures et des Communications du Japon 2024"
+    description: "Rapport réglementaire sur la qualité de service des opérateurs télécoms japonais, incluant les obligations de couverture et de performance."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports (Ookla, OpenSignal, MIC). Speeds and coverage may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your device, time of day, and specific location within Japan. Always check the latest operator coverage maps."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public. Les vitesses et la couverture peuvent varier en fonction de l'emplacement, de l'heure et de l'appareil utilisé."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de l'emplacement, de l'heure et de l'appareil utilisé. Les données sont basées sur des tests effectués en conditions réelles."
 
 # CTA product card
-cta_title: "Secure your Japan eSIM today"
-cta_desc: "Get immediate access to Japan's fastest 5G network with Roami. No roaming fees, instant activation, and 24/7 support."
-cta_button_text: "Buy Japan eSIM now"
+cta_title: "Obtenez votre eSIM Japon dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat aux réseaux 5G les plus rapides du Japon avec Roami. Activation instantanée, pas de frais cachés, et support client 24/7."
+cta_button_text: "Acheter l'eSIM Japon maintenant"
 cta_button_link: "/japan-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Japan trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Japon gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Japan eSIM: Reliable network for business trips
+# Japon eSIM: Économisez du temps et des efforts pour l'Internet de voyage
 
-> **💡 Short summary for travelers:** 【Top choice for business travel: cross‑border 5G solutions with unlimited data】. Roami's Japan eSIM leverages the fastest 5G network in Japan (Rakuten Mobile with median download speed of 151.16 Mbps) and the best video/gaming experience (SoftBank). Stay productive with ultra‑low latency and consistent connectivity across Tokyo, Osaka, and Saitama. Perfect for remote work, streaming, and navigation.
+> **💡 Résumé rapide pour les voyageurs :** Un must pour les voyages internationaux : solutions eSIM 5G avec changement de réseau transparent. Selon les dernières données de [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024), Rakuten Mobile domine la 5G avec un débit descendant médian de 151,16 Mbps, tandis que SoftBank offre la meilleure expérience vidéo et gaming. Avec Roami, vous accédez à ces réseaux sans contrainte, idéal pour les nomades numériques et les touristes visitant Tokyo, Osaka ou Saitama.
 
-## Things you need to know before buying a Japan eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Japon
 
 
-### 1. Main 5G/4G frequency bands in Japan {#1-main-5g4g-frequency-bands-in-japan}
-Japan's 5G networks operate on n77 (3.7 GHz), n78 (3.5 GHz), and n257 (28 GHz) bands. 4G LTE uses bands 1 (2100 MHz), 3 (1800 MHz), 8 (900 MHz), 11 (1500 MHz), 18 (800 MHz), 19 (800 MHz), 21 (1500 MHz), 28 (700 MHz), and 42 (3500 MHz). Ensure your device supports these bands for optimal performance.
+### 1. Principales bandes 5G/4G utilisées au Japon {#1-principales-bandes-5g4g-utilisées-au-japon}
+Le Japon utilise principalement les bandes 5G n77 (3,7 GHz), n78 (3,5 GHz) et n257 (28 GHz) pour les zones urbaines denses. Pour la 4G, les bandes 1 (2100 MHz), 3 (1800 MHz), 8 (900 MHz) et 11 (1500 MHz) sont courantes. Assurez-vous que votre smartphone est compatible avec ces fréquences pour une expérience optimale.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate a Japan eSIM, you typically need to provide a valid passport or government‑issued ID. Some providers may require a selfie or proof of address. Roami simplifies this with a quick online verification process.
+### 2. Exigence d'identification (KYC) pour les cartes SIM locales {#2-exigence-didentification-kyc-pour-les-cartes-sim-locales}
+Au Japon, l'achat d'une carte SIM physique ou d'un forfait eSIM nécessite une pièce d'identité (passeport) et une adresse locale. Les eSIM de voyage comme Roami contournent cette obligation en fournissant une activation à distance sans vérification d'identité complexe.
 
-### 3. Fair Usage Policy (FUP) for unlimited data plans {#3-fair-usage-policy-fup-for-unlimited-data-plans}
-Most unlimited data plans in Japan have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 10 GB per day). Check the specific plan details to avoid unexpected slowdowns.
+### 3. Politiques de fair use (FUP) et limitations de débit {#3-politiques-de-fair-use-fup-et-limitations-de-débit}
+La plupart des forfaits locaux imposent une limite de données après laquelle le débit est réduit (généralement 128 kbps à 1 Mbps). Les eSIM de voyage incluent souvent des données illimitées sans FUP stricte, mais vérifiez les conditions générales pour éviter les mauvaises surprises.
 
-### 4. Network compatibility with your device {#4-network-compatibility-with-your-device}
-Not all eSIM‑compatible devices support Japan's specific frequency bands. Verify that your smartphone (e.g., iPhone 12 or later, Google Pixel 5 or later) supports n77/n78 for 5G and LTE bands 1/3/8/18/19/28 for 4G.
+### 4. Compatibilité des smartphones avec les eSIM japonaises {#4-compatibilité-des-smartphones-avec-les-esim-japonaises}
+Les iPhone XS et ultérieurs, Google Pixel 3 et ultérieurs, et la plupart des Samsung Galaxy récents supportent les eSIM. Cependant, certains modèles chinois ou verrouillés peuvent ne pas être compatibles. Vérifiez les paramètres de votre appareil avant l'achat.
 
-### 5. Roaming vs. local eSIM: cost and performance {#5-roaming-vs-local-esim-cost-and-performance}
-Using a local Japan eSIM like Roami is significantly cheaper than international roaming. Local eSIMs also provide better latency and speeds because they connect directly to Japanese networks (Rakuten Mobile, SoftBank, NTT DoCoMo).
+### 5. Durée de validité et renouvellement des forfaits eSIM {#5-durée-de-validité-et-renouvellement-des-forfaits-esim}
+Les forfaits eSIM de voyage ont une durée de validité fixe (7, 15 ou 30 jours). Passé ce délai, les données sont coupées. Certains fournisseurs permettent le rechargement en ligne, mais il est plus simple d'acheter un nouveau forfait si vous prolongez votre séjour.

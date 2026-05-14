@@ -1,65 +1,65 @@
 ---
-title: "Pakistan eSIM: Supports seamless hotspot tethering"
-description: "Experience fast internet in Pakistan with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:42:15+00:00"
-keywords: "eSIM Pakistan, prepaid data, 5G network, Jazz, Zong, PTCL Flash Fiber, Transworld, travel eSIM, hotspot tethering"
+title: "Pakistan eSIM: Entièrement compatible avec iPhone et Android"
+description: "Profitez d'Internet rapide en Pakistan avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:17:31+00:00"
+keywords: "eSIM Pakistan, données prépayées, réseau 5G, Jazz, Zong, PTCL, Transworld, voyage Pakistan, Internet mobile Pakistan"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Pakistan eSIM Guide"
+  - name: "Guide eSIM Pakistan"
     url: ""
 
 # Hero section copy
-hero_badge: "🇵🇰 Pakistan Travel eSIM Latest Guide"
-hero_subtitle_main: "Pakistan eSIM: Supports seamless hotspot tethering"
-hero_subtitle_highlight: "Premium 5G network coverage by Jazz and Zong"
-hero_description_line1: "The Pakistan eSIM supports smooth HD video streaming and social media use, covering airports, shopping districts, and popular scenic areas as an extremely cost‑effective data option."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Pakistan eSIM"
+hero_badge: "🇵🇰 Guide actuel de l'eSIM de voyage Pakistan"
+hero_subtitle_main: "Pakistan eSIM: Entièrement compatible avec iPhone et Android"
+hero_subtitle_highlight: "Couverture réseau 5G premium via Jazz, Zong et PTCL Flash Fiber"
+hero_description_line1: "Choisissez l'eSIM Pakistan pour vous connecter aux réseaux 5G haut débit dès votre arrivée. Compatible avec iPhone et Android, elle offre un Internet stable pour les voyages, les affaires ou les études, et vous fait gagner du temps et de l'argent."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Pakistan"
 hero_link_url: "/pakistan-esim/"
-tldr_summary: "【Seamless global roaming: cost‑effective 5G eSIM for multi‑country connectivity】. Roami's Pakistan eSIM leverages the fastest mobile network in the country — Jazz, which recorded a median download speed of 24.13 Mbps and an upload speed of 8.89 Mbps during 2H 2025 according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025). For fixed broadband, Transworld leads with 34.86 Mbps download and 30.5 Mbps upload. Whether you are in Faisalabad (fastest mobile city at 24.13 Mbps) or Islamabad (fastest fixed city at 24.57 Mbps), Roami's eSIM ensures you stay connected with zero roaming fees and instant activation. Ideal for digital nomads, travelers, and business users who need reliable, high‑speed data across Pakistan."
+tldr_summary: "Le premier choix des nomades numériques : réseau 5G transfrontalier transparent pour des voyages continus dans plusieurs pays. Selon les données de [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025), Jazz domine le marché mobile avec un débit descendant médian de 24,13 Mbps et un score de vitesse de 42,14, tandis que Transworld est le FAI fixe le plus rapide avec 34,86 Mbps. Roami eSIM vous connecte automatiquement aux meilleurs réseaux locaux comme Jazz et Zong, garantissant une expérience fluide pour le télétravail, le streaming et les appels vidéo, sans frais d'itinérance."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Pakistan eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Pakistan eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Pakistan eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Pakistan choisir ?"
 
   - href: "#operators"
-    text: "Top Pakistan eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Pakistan"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Pakistan"
+    text: "Guide des villes : La meilleure eSIM pour Pakistan"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Pakistan eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Pakistan"
 
   - href: "#faq"
-    text: "Frequently asked questions about Pakistan eSIM"
+    text: "Questions fréquentes sur l'eSIM Pakistan"
 
   - href: "#myths"
-    text: "Myths and facts about Pakistan eSIM"
+    text: "Mythes et faits sur l'eSIM Pakistan"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Pakistan eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Pakistan devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,258 +67,258 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "Jazz"
     carrier_class: "text-orange-600"
-    reason: "Jazz is the fastest mobile network in Pakistan with a median download speed of 24.13 Mbps and upload of 8.89 Mbps. It also has the best overall mobile network with a Speedtest Connectivity Score of 59.83, making it ideal for remote work and video conferencing."
+    reason: "Jazz est le réseau mobile le plus rapide du Pakistan avec un débit descendant médian de 24,13 Mbps et un score de vitesse de 42,14. Idéal pour le télétravail, les visioconférences et le streaming en déplacement."
 
-  - travel: "Gamers"
+  - travel: "Voyageurs urbains"
     carrier: "Zong"
     carrier_class: "text-blue-600"
-    reason: "Zong offers the best mobile gaming experience in Pakistan during 2H 2025, with low latency and high consistency. 86.2% of Zong's samples meet or exceed 5 Mbps download and 1 Mbps upload thresholds."
+    reason: "Zong offre la meilleure expérience de jeu mobile et une excellente couverture 4G/5G dans les grandes villes comme Islamabad et Lahore. Parfait pour les déplacements fréquents."
 
-  - travel: "Fixed broadband users"
-    carrier: "Transworld"
+  - travel: "Amateurs de jeux et streaming"
+    carrier: "PTCL Flash Fiber"
     carrier_class: "text-green-600"
-    reason: "Transworld is the fastest fixed ISP in Pakistan with a median download speed of 34.86 Mbps and upload of 30.5 Mbps. Perfect for heavy streaming, large file transfers, and stable home office connections."
+    reason: "PTCL Flash Fiber offre la meilleure expérience de jeu fixe au Pakistan. Recommandé pour les sessions de jeu en ligne et le streaming 4K à domicile."
 
-  - travel: "City travelers"
-    carrier: "Jazz"
-    carrier_class: "text-orange-600"
-    reason: "Faisalabad and Islamabad are top performing cities. Jazz leads mobile speeds in Faisalabad (24.13 Mbps) and PTCL Flash Fiber offers best gaming in Islamabad. Jazz provides the best overall mobile experience across major cities."
+  - travel: "Utilisateurs fixes haut débit"
+    carrier: "Transworld"
+    carrier_class: "text-purple-600"
+    reason: "Transworld est le FAI fixe le plus rapide avec un débit descendant médian de 34,86 Mbps et un débit montant de 30,5 Mbps. Idéal pour les téléchargements lourds et le travail à distance."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Pakistan travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Pakistan la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "jazz-esim"
-    title: "Jazz eSIM Review: Best overall mobile network"
-    best_for: "This plan is the absolute top choice for travelers and digital nomads who need reliable, high‑speed mobile data across Pakistan. Jazz leads in download speed (24.13 Mbps), upload speed (8.89 Mbps), and has the lowest latency (48 ms)."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025), Jazz is the fastest mobile provider in Pakistan for all technologies combined.\n- **Download rate**: Median download speed of 24.13 Mbps.\n- **Upload rate**: Median upload speed of 8.89 Mbps.\n- **Latency**: Lowest latency at 48 ms.\n- **Speed Score**: 42.14.\n- **Connectivity Score**: 59.83 (Best Mobile Network).\n- **Video Streaming Score**: 68.46 (Best Mobile Video Experience)."
-    arcep_note: "Confirmed by the local telecom authority (Pakistan Telecommunication Authority) that Jazz holds the largest subscriber base and consistently meets quality of service benchmarks."
-    connect_note: "Activation works seamlessly with Roami eSIM. Simply scan the QR code upon arrival, and you will be connected to Jazz's network instantly. Supports hotspot tethering for multiple devices."
-    user_scenarios: "- **Lahore's Badshahi Mosque**: Stream live video of the Mughal architecture without buffering, thanks to Jazz's 24.13 Mbps download speed.\n- **Karachi's Clifton Beach**: Upload sunset photos instantly with 8.89 Mbps upload speed.\n- **Islamabad's Margalla Hills**: Use Google Maps for hiking trails with low latency (48 ms) for real‑time navigation."
+    title: "Test eSIM Jazz : Meilleure couverture mobile au Pakistan"
+    best_for: "Ce forfait est le meilleur choix absolu pour les voyageurs et les nomades numériques qui ont besoin d'une connexion mobile rapide et fiable partout au Pakistan."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025), Jazz est le réseau mobile le plus rapide avec un score de vitesse de 42,14.\n- **Débit descendant médian** : 24,13 Mbps\n- **Débit montant médian** : 8,89 Mbps\n- **Latence** : 48 ms\n- **Score de connectivité** : 59,83 (meilleur réseau mobile)"
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (PTA) et les données Speedtest Intelligence® pour la période 2H 2025."
+    connect_note: "L'activation se déroule sans problème via un code QR. Compatible avec tous les smartphones récents (iPhone, Samsung, Google Pixel, etc.)."
+    user_scenarios: "- **Lahore (Gulberg)** : Navigation fluide sur les réseaux sociaux et streaming vidéo en 4K dans les cafés branchés.\n- **Islamabad (Blue Area)** : Télétravail efficace avec des appels vidéo sans coupure.\n- **Karachi (Clifton)** : Téléchargement rapide de fichiers volumineux pour les professionnels en déplacement."
     bg_color: "bg-orange-50"
 
   - id: "zong-esim"
-    title: "Zong eSIM Review: Best for gaming and consistency"
-    best_for: "This plan is the absolute top choice for mobile gamers and users who prioritize network consistency. Zong offers the best mobile gaming experience in Pakistan and the most consistent network with 86.2% of samples meeting or exceeding 5 Mbps download and 1 Mbps upload thresholds."
-    core_data: "- **Gaming Experience**: Best mobile gaming experience in Pakistan during 2H 2025 according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025).\n- **Consistency**: 86.2% of samples meet or exceed 5 Mbps download and 1 Mbps upload.\n- **Download rate**: Median download speed of 20.5 Mbps (second fastest).\n- **Upload rate**: Not specified but competitive.\n- **Latency**: Low latency suitable for real‑time gaming."
-    arcep_note: "Confirmed by the Pakistan Telecommunication Authority that Zong has invested heavily in 4G/5G infrastructure, particularly in urban centers, ensuring high consistency."
-    connect_note: "Activation works seamlessly with Roami eSIM. Zong's network is optimized for low latency, making it perfect for gaming and video calls. Supports hotspot tethering."
-    user_scenarios: "- **Karachi's DHA Phase 8**: Play PUBG Mobile or Call of Duty Mobile with minimal lag, thanks to Zong's best gaming experience.\n- **Lahore's MM Alam Road**: Stream live esports tournaments without interruption.\n- **Islamabad's Centaurus Mall**: Use video calling apps like FaceTime with high consistency."
+    title: "Test eSIM Zong : Meilleure expérience de jeu mobile"
+    best_for: "Ce forfait est le meilleur choix pour les joueurs mobiles et les utilisateurs qui privilégient une faible latence et une expérience de streaming optimale."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025), Zong offre la meilleure expérience de jeu mobile au Pakistan.\n- **Débit descendant médian** : 20,5 Mbps\n- **Consistance réseau** : 86,2 % des échantillons dépassent 5 Mbps descendant et 1 Mbps montant (meilleure consistance)."
+    arcep_note: "Données issues de Speedtest Intelligence® pour la période 2H 2025, confirmées par les rapports de l'OpenSignal."
+    connect_note: "Activation instantanée par QR code. Profitez d'une connexion stable même dans les zones à forte densité."
+    user_scenarios: "- **Faisalabad (Centre-ville)** : Jeux en ligne multijoueurs sans lag.\n- **Rawalpindi (Saddar)** : Streaming de vidéos en direct sans mise en mémoire tampon.\n- **Multan (Bazar)** : Navigation rapide et téléchargement d'applications lourdes."
     bg_color: "bg-blue-50"
 
   - id: "ptcl-flash-fiber-esim"
-    title: "PTCL Flash Fiber eSIM Review: Best fixed broadband gaming"
-    best_for: "This plan is the absolute top choice for users who need a fixed broadband connection with the best gaming experience. PTCL Flash Fiber recorded the best gaming experience among ISPs in Pakistan during 2H 2025."
-    core_data: "- **Gaming Experience**: Best gaming experience among ISPs in Pakistan according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025).\n- **Download rate**: Not specified but competitive for fiber.\n- **Upload rate**: Not specified but symmetric fiber speeds expected.\n- **Latency**: Low latency ideal for competitive gaming."
-    arcep_note: "Confirmed by the Pakistan Telecommunication Authority that PTCL Flash Fiber is the leading fiber‑to‑the‑home (FTTH) provider with extensive coverage in major cities."
-    connect_note: "Activation works seamlessly with Roami eSIM for fixed broadband. Ideal for home offices and heavy data users. Supports multiple devices via Wi‑Fi."
-    user_scenarios: "- **Islamabad's F‑7 Sector**: Play online games like Valorant or Fortnite with the best ISP gaming experience.\n- **Lahore's Gulberg**: Stream 4K movies on Netflix without buffering.\n- **Karachi's Clifton**: Work from home with stable video conferencing."
+    title: "Test eSIM PTCL Flash Fiber : Meilleur FAI fixe pour le gaming"
+    best_for: "Ce forfait est idéal pour les utilisateurs fixes qui recherchent une connexion fibre optique ultra-rapide pour le gaming et le streaming 4K."
+    core_data: "- **Expérience de jeu** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025), PTCL Flash Fiber offre la meilleure expérience de jeu parmi les FAI.\n- **Débit descendant médian** : Données non spécifiées dans le rapport, mais reconnu pour sa faible latence.\n- **Score de streaming vidéo** : Excellent pour les contenus 4K."
+    arcep_note: "Données issues de Speedtest Intelligence® pour la période 2H 2025, validées par la PTA."
+    connect_note: "Installation facile via fibre optique. Activation rapide et support client réactif."
+    user_scenarios: "- **Islamabad (Secteur F-7)** : Sessions de jeu compétitif avec une latence minimale.\n- **Lahore (Defence)** : Streaming de films en 4K sans interruption.\n- **Karachi (DHA)** : Téléchargement de jeux volumineux en quelques minutes."
     bg_color: "bg-green-50"
 
   - id: "transworld-esim"
-    title: "Transworld eSIM Review: Fastest fixed ISP"
-    best_for: "This plan is the absolute top choice for users who demand the fastest fixed broadband speeds. Transworld is the fastest ISP in Pakistan with a median download speed of 34.86 Mbps and upload speed of 30.5 Mbps."
-    core_data: "- **Download rate**: Median download speed of 34.86 Mbps according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025).\n- **Upload rate**: Median upload speed of 30.5 Mbps.\n- **Speed ranking**: Fastest fixed ISP in Pakistan during 2H 2025.\n- **Latency**: Not specified but expected low for fiber."
-    arcep_note: "Confirmed by the Pakistan Telecommunication Authority that Transworld is a key player in the fixed broadband market, particularly in business districts and high‑end residential areas."
-    connect_note: "Activation works seamlessly with Roami eSIM for fixed broadband. Perfect for heavy downloaders, content creators, and businesses. Supports hotspot tethering."
-    user_scenarios: "- **Karachi's IT Park**: Upload large video files to cloud storage with 30.5 Mbps upload speed.\n- **Islamabad's Blue Area**: Download software updates and large datasets quickly.\n- **Lahore's Johar Town**: Stream 4K content on multiple devices simultaneously."
+    title: "Test eSIM Transworld : FAI fixe le plus rapide du Pakistan"
+    best_for: "Ce forfait est parfait pour les professionnels et les familles qui ont besoin d'un débit élevé pour le télétravail, les téléchargements lourds et le streaming simultané."
+    core_data: "- **Débit descendant médian** : 34,86 Mbps (le plus rapide parmi les FAI)\n- **Débit montant médian** : 30,5 Mbps\n- **Disponibilité** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025), Transworld est le FAI le plus rapide du Pakistan."
+    arcep_note: "Données Speedtest Intelligence® pour la période 2H 2025, confirmées par les rapports de l'OpenSignal."
+    connect_note: "Connexion fibre optique stable. Activation rapide et compatible avec les routeurs modernes."
+    user_scenarios: "- **Islamabad (Secteur G-9)** : Télétravail avec vidéoconférences HD simultanées.\n- **Lahore (Model Town)** : Téléchargement de fichiers professionnels volumineux en un temps record.\n- **Karachi (Clifton)** : Streaming 4K sur plusieurs appareils sans ralentissement."
     bg_color: "bg-purple-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Pakistan eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Pakistan eSIM and local 5G bands"
-cards_free_title: "Get your free Pakistan eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Pakistan"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Pakistan et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Pakistan gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Pakistan eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Pakistan"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Pakistan"
-    content: "Pakistan's mobile networks operate on the following key frequency bands: 4G LTE bands include Band 3 (1800 MHz), Band 5 (850 MHz), and Band 40 (2300 MHz). 5G bands include n78 (3500 MHz) and n41 (2500 MHz). Jazz and Zong have deployed 5G in major cities like Karachi, Lahore, and Islamabad. Ensure your device supports these bands for optimal performance."
+  - heading: "1. Bande 5G/4G principales au Pakistan"
+    content: "Les réseaux mobiles pakistanais utilisent principalement les bandes 4G LTE (B3, B5, B40) et 5G (n78, n41). Assurez-vous que votre smartphone est compatible avec ces fréquences pour une connexion optimale. Les opérateurs comme Jazz et Zong déploient activement la 5G dans les grandes villes."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate a Pakistan eSIM, you must complete Know Your Customer (KYC) verification. This typically requires a valid passport copy and a recent photograph. Some providers may also ask for a local address. Roami simplifies this process by pre‑verifying your identity before travel, so you can activate instantly upon arrival."
+  - heading: "2. Exigence KYC (Know Your Customer) pour les eSIM"
+    content: "Au Pakistan, l'activation d'une carte SIM (y compris eSIM) nécessite une vérification d'identité (KYC) conformément à la réglementation de la PTA. Vous devrez fournir une pièce d'identité valide (passeport pour les étrangers) et une photo. Roami simplifie ce processus pour les voyageurs."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most Pakistan eSIM plans come with a Fair Usage Policy (FUP). After exceeding a certain data threshold (e.g., 10 GB per day), speeds may be throttled to 256 kbps or 512 kbps. Always check the specific FUP of your chosen plan. Roami offers transparent FUP details in the product description."
+  - heading: "3. Politique d'utilisation équitable (FUP) et limites de données"
+    content: "La plupart des forfaits eSIM au Pakistan incluent une politique d'utilisation équitable (FUP). Après avoir dépassé un certain seuil de données (généralement 30 à 50 Go par mois), le débit peut être réduit. Vérifiez les conditions de votre forfait avant de souscrire."
 
-  - heading: "4. Network coverage in rural and remote areas"
-    content: "While Jazz and Zong have extensive 4G coverage in urban centers, rural and remote areas (e.g., northern areas like Gilgit‑Baltistan) may have limited connectivity. For travel to such regions, consider a plan that includes Zong, which has better consistency (86.2% of samples meet thresholds). Roami eSIM automatically connects to the strongest available network."
+  - heading: "4. Couverture réseau dans les zones rurales et montagneuses"
+    content: "La couverture mobile est excellente dans les grandes villes (Islamabad, Lahore, Karachi) mais peut être limitée dans les zones rurales et montagneuses (Gilgit-Baltistan, Cachemire). Jazz et Zong offrent la meilleure couverture nationale. Pour les voyages hors des sentiers battus, privilégiez ces opérateurs."
 
-  - heading: "5. Device compatibility and eSIM activation"
-    content: "Ensure your smartphone is eSIM‑compatible and unlocked. Most modern iPhones (XR and later), Google Pixels (3 and later), and Samsung Galaxy S20 and later support eSIM. Roami provides a QR code for instant activation. Do not remove the eSIM profile during your trip to avoid deactivation."
+  - heading: "5. Compatibilité des smartphones avec les eSIM au Pakistan"
+    content: "Les eSIM sont compatibles avec la plupart des smartphones récents (iPhone XS et ultérieurs, Samsung Galaxy S20 et ultérieurs, Google Pixel 3 et ultérieurs). Vérifiez que votre téléphone est déverrouillé et prend en charge les profils eSIM. Roami fournit des instructions détaillées pour l'activation."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Pakistan"
-city_guide_desc: "Find out which Pakistan eSIM is the best choice for your destination city based on real speed test data from [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025)."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Pakistan"
+city_guide_desc: "Découvrez quelle eSIM Pakistan est le meilleur choix pour votre ville de destination. Les performances réseau varient selon les villes, et nous vous recommandons l'opérateur le plus adapté à chaque métropole."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
+  - city: "Islamabad"
+    carriers: "Jazz"
+    reason: "Islamabad est la ville la plus performante pour le fixe avec un débit médian de 24,57 Mbps. Jazz offre une excellente couverture mobile 5G dans la capitale, idéale pour les professionnels et les voyageurs d'affaires."
+
   - city: "Faisalabad"
     carriers: "Jazz"
-    reason: "Faisalabad recorded the fastest median mobile download speed of 24.13 Mbps among populous cities. Jazz leads in mobile performance, making it ideal for streaming, social media, and video calls."
-
-  - city: "Islamabad"
-    carriers: "PTCL Flash Fiber / Jazz"
-    reason: "Islamabad outpaced other cities for fixed download speed (24.57 Mbps). PTCL Flash Fiber offers the best gaming experience among ISPs, while Jazz provides excellent mobile coverage for on‑the‑go connectivity."
-
-  - city: "Karachi"
-    carriers: "Zong"
-    reason: "Karachi is Pakistan's largest city and a hub for business and entertainment. Zong offers the best mobile gaming experience and highest consistency (86.2%), perfect for gamers and professionals who need reliable connections."
+    reason: "Faisalabad enregistre le meilleur débit mobile médian du Pakistan (24,13 Mbps). Jazz est le choix optimal pour une connexion rapide dans cette ville industrielle dynamique."
 
   - city: "Lahore"
-    carriers: "Jazz"
-    reason: "Lahore is a cultural and economic center. Jazz's low latency (48 ms) and high download speeds (24.13 Mbps) ensure smooth video streaming and real‑time navigation through the city's busy streets."
+    carriers: "Zong"
+    reason: "Lahore bénéficie d'une couverture 4G/5G dense. Zong offre la meilleure expérience de jeu mobile et une latence faible, parfait pour les gamers et les streamers."
+
+  - city: "Karachi"
+    carriers: "Transworld"
+    reason: "Karachi, la plus grande ville du Pakistan, dispose d'une infrastructure fibre optique développée. Transworld est le FAI fixe le plus rapide, idéal pour les téléchargements lourds et le télétravail."
 
   - city: "Rawalpindi"
-    carriers: "Transworld"
-    reason: "Rawalpindi, adjacent to Islamabad, benefits from Transworld's fastest fixed ISP speeds (34.86 Mbps download, 30.5 Mbps upload). Ideal for home offices and heavy data users in this twin‑city region."
+    carriers: "Jazz"
+    reason: "Rawalpindi, voisine d'Islamabad, bénéficie d'une excellente couverture mobile. Jazz offre des débits élevés et une latence faible, adaptés aux déplacements fréquents entre les deux villes."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Pakistan eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Pakistan selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Lahore's Walled City, Karachi's Mazar‑e‑Quaid, and Islamabad's Faisal Mosque. With Jazz's 24.13 Mbps download speed, you can stream historical documentaries, use augmented reality apps, and share your journey in real‑time."
+    title: "Découvreur de villes"
+    text: "Explorez les monuments historiques de Lahore, Islamabad et Karachi avec une connexion 5G ultra-rapide. Téléchargez des guides, partagez vos photos en temps réel et utilisez les applications de navigation sans interruption."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Visit the northern areas like Hunza Valley, Naran, and Swat. Zong's consistent network (86.2% reliability) ensures you stay connected even in remote valleys. Upload breathtaking mountain photos and use offline maps with confidence."
+    title: "Amoureux de la nature"
+    text: "Partez en randonnée dans les vallées du nord (Hunza, Skardu) avec une couverture fiable grâce à Jazz. Restez connecté pour partager vos aventures et accéder aux cartes hors ligne."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the Karakoram Highway or the coastal highway from Karachi to Gwadar. Jazz's low latency (48 ms) provides real‑time traffic updates and navigation. Stream music and podcasts without buffering."
+    title: "Roadtrippeur"
+    text: "Parcourez la Karakoram Highway ou les routes côtières du Baloutchistan avec une eSIM Roami. Profitez d'une connexion stable pour la musique, les podcasts et les appels vidéo en déplacement."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax at Clifton Beach (Karachi), French Beach, or Hawke's Bay. Transworld's fixed broadband (34.86 Mbps) is perfect for beachside villas, while Jazz's mobile network keeps you connected on the sand."
+    title: "Vacancier à la plage"
+    text: "Détendez-vous sur les plages de Karachi (Clifton, French Beach) avec un streaming vidéo fluide. Zong offre une excellente expérience de jeu et de divertissement pour les moments de loisirs."
 
-scene_guide_footer: "💡 The Roami Pakistan eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Pakistan détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Pakistan eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Pakistan"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "My phone supports dual eSIM. Can I have two Pakistan eSIM profiles active at the same time?"
-    a: "Yes, if your phone supports dual eSIM (e.g., iPhone 13 and later, Google Pixel 7 and later), you can have two Pakistan eSIM profiles active simultaneously. However, only one can be used for data at a time. You can switch between profiles in your phone settings. Roami eSIM supports this feature, allowing you to keep your home eSIM active for calls while using Roami for data."
+  - q: "Comment vérifier si mes destinations spécifiques en Pakistan sont bien couvertes par les réseaux eSIM ?"
+    a: "Consultez les cartes de couverture des opérateurs partenaires de Roami (Jazz, Zong, PTCL, Transworld) sur leurs sites officiels. Vous pouvez également utiliser l'outil de vérification de couverture de Roami en entrant vos villes de destination. Les grandes villes comme Islamabad, Lahore, Karachi et Faisalabad bénéficient d'une excellente couverture 4G/5G."
 
-  - q: "Does network speed in major cities of Pakistan become noticeably slower during evening peak hours?"
-    a: "Yes, like any network, peak hours (typically 7 PM to 11 PM) can see reduced speeds due to higher user demand. However, Jazz and Zong have robust infrastructure. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025), Jazz maintains a median download speed of 24.13 Mbps even during peak periods, while Zong's consistency score of 86.2% indicates reliable performance. For the best experience, consider using a plan with higher data priority."
+  - q: "Mon téléphone prend en charge la double eSIM. Puis-je avoir deux profils eSIM Pakistan actifs en même temps ?"
+    a: "Oui, si votre smartphone prend en charge la double eSIM (par exemple, iPhone 13 et ultérieurs, Samsung Galaxy S22 et ultérieurs), vous pouvez avoir deux profils eSIM actifs simultanément. Cela vous permet de conserver votre numéro personnel tout en utilisant un forfait local pakistanais pour les données. Assurez-vous que votre opérateur d'origine autorise l'utilisation simultanée de deux eSIM."
 
-  - q: "What average download and upload network speeds can I expect in Pakistan?"
-    a: "Based on the latest Speedtest Intelligence data from [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025), the fastest mobile network (Jazz) offers a median download speed of 24.13 Mbps and upload speed of 8.89 Mbps. For fixed broadband, Transworld leads with 34.86 Mbps download and 30.5 Mbps upload. City‑specific: Faisalabad has the fastest mobile download at 24.13 Mbps, while Islamabad has the fastest fixed download at 24.57 Mbps."
+  - q: "À quels opérateurs mobiles locaux l'eSIM Roami se connecte-t-elle en Pakistan ?"
+    a: "L'eSIM Roami se connecte automatiquement aux meilleurs réseaux locaux disponibles, notamment Jazz, Zong, PTCL et Transworld. En fonction de votre position et de la qualité du signal, votre appareil basculera de manière transparente entre ces opérateurs pour vous offrir la meilleure expérience possible."
 
-  - q: "Can I make voice or video calls via WhatsApp, WeChat, or FaceTime using the Pakistan eSIM?"
-    a: "Absolutely. The Pakistan eSIM provides data‑only connectivity, which fully supports VoIP services like WhatsApp, WeChat, FaceTime, Skype, and Zoom. With Jazz's low latency (48 ms) and high upload speed (8.89 Mbps), video calls are clear and stable. Zong's consistent network ensures minimal dropouts. Note that traditional voice calls (circuit‑switched) are not supported on data‑only eSIMs."
+  - q: "Quelles mesures dois-je prendre si le code QR d'activation de mon eSIM Pakistan n'arrive pas par e-mail ?"
+    a: "Vérifiez d'abord votre dossier de courriers indésirables ou spam. Si vous ne trouvez pas l'e-mail, contactez le support client de Roami via le chat en direct ou l'assistance téléphonique. Vous pouvez également demander un renvoi du code QR depuis votre compte Roami. Assurez-vous d'avoir fourni une adresse e-mail valide lors de l'achat."
 
-  - q: "Is it possible to purchase multiple data packages for Pakistan and activate them one after another?"
-    a: "Yes, Roami allows you to purchase multiple data packages for Pakistan in advance. You can store them in your account and activate them sequentially. For example, buy a 7‑day package first, then activate a 30‑day package after it expires. Each package is activated via a QR code or through the Roami app. This is ideal for extended stays or multi‑trip travelers."
+  - q: "Combien de temps après le paiement réussi faut-il pour recevoir le code QR de l'eSIM Pakistan ?"
+    a: "Le code QR d'activation est généralement envoyé instantanément après confirmation du paiement. Dans la plupart des cas, vous le recevrez dans les 5 à 10 minutes. Si le délai dépasse 30 minutes, contactez le support Roami pour vérifier le statut de votre commande."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Pakistan eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Pakistan"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "All eSIMs in Pakistan offer the same speed."
-    truth: "False. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025), Jazz is the fastest mobile network with 24.13 Mbps download, while Zong offers the best gaming experience. Transworld is the fastest fixed ISP at 34.86 Mbps. Speeds vary significantly by operator and location."
+  - myth: "Les eSIM ne fonctionnent pas au Pakistan car le réseau n'est pas assez développé."
+    truth: "Faux. Le Pakistan dispose d'un réseau 4G/5G très développé, notamment dans les grandes villes. Jazz, Zong et PTCL offrent des débits élevés et une couverture étendue. Les eSIM sont parfaitement compatibles et offrent une connexion fiable."
 
-  - myth: "You need a local SIM card to get good coverage in rural areas."
-    truth: "Not necessarily. Roami eSIM connects to the strongest available network (Jazz or Zong). Zong has 86.2% consistency, meaning it works well even in less populated areas. For remote northern regions, Zong's network is often more reliable."
+  - myth: "Il est obligatoire d'acheter une carte SIM physique à l'aéroport pour avoir Internet au Pakistan."
+    truth: "Non. Les eSIM comme Roami vous permettent d'être connecté dès l'atterrissage sans passer par les files d'attente. L'activation se fait en ligne et vous recevez un code QR par e-mail. C'est plus pratique et souvent moins cher."
 
-  - myth: "eSIMs in Pakistan do not support hotspot tethering."
-    truth: "False. Roami eSIM fully supports hotspot tethering. You can share your data connection with other devices like laptops, tablets, or other phones. Jazz and Zong both allow tethering without additional charges."
+  - myth: "Les forfaits eSIM au Pakistan sont très chers par rapport aux cartes SIM locales."
+    truth: "Les eSIM de voyage comme Roami sont souvent plus compétitives que les forfaits internationaux des opérateurs traditionnels. De plus, elles évitent les frais d'itinérance et offrent une flexibilité totale. Comparez les prix pour trouver l'offre la plus adaptée à vos besoins."
 
-  - myth: "5G is not available in Pakistan."
-    truth: "5G is available in major cities like Karachi, Lahore, and Islamabad. Jazz and Zong have deployed 5G on n78 (3500 MHz) and n41 (2500 MHz) bands. However, coverage is still expanding. Roami eSIM will automatically connect to 5G when available."
+  - myth: "La 5G n'est pas encore disponible au Pakistan, donc une eSIM 5G est inutile."
+    truth: "La 5G est déployée activement au Pakistan, notamment par Jazz et Zong dans les grandes villes comme Islamabad, Lahore et Karachi. Une eSIM compatible 5G vous permettra de profiter des débits les plus élevés là où le service est disponible."
 
-  - myth: "You must register your eSIM with the local telecom authority before use."
-    truth: "Roami handles all regulatory compliance. Your eSIM is pre‑activated and compliant with Pakistan Telecommunication Authority (PTA) regulations. You do not need to register separately. Simply scan the QR code and start using data immediately."
+  - myth: "Les eSIM ne sont pas sécurisées et peuvent être piratées facilement."
+    truth: "Les eSIM utilisent les mêmes normes de sécurité que les cartes SIM physiques, voire meilleures. Elles sont protégées par des protocoles de cryptage avancés et ne peuvent pas être retirées physiquement. Les risques de piratage sont extrêmement faibles."
 
 
 # Data sources
-data_sources_title: "Pakistan mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Pakistan"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025)"
-    description: "Ookla's Speedtest Intelligence data for Pakistan during 2H 2025. Provides median download/upload speeds, latency, and consistency scores for mobile and fixed networks. Used to identify Jazz as fastest mobile, Zong as best gaming, and Transworld as fastest fixed ISP."
+  - name: "Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025)"
+    description: "Analyse des performances des réseaux mobiles et fixes au Pakistan pour la période 2H 2025, basée sur des millions de tests réalisés par les utilisateurs."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's mobile network experience report for Pakistan (2025). Provides insights on video experience, download speed experience, and 4G/5G availability. Corroborates Jazz's leadership in overall mobile experience."
+    description: "Rapport sur l'expérience utilisateur des réseaux mobiles au Pakistan, incluant la couverture, la vitesse et la latence."
 
   - name: "Pakistan Telecommunication Authority (PTA) 2025"
-    description: "PTA's annual Quality of Service (QoS) report for 2025. Confirms operator compliance with minimum speed and coverage benchmarks. Validates Jazz and Zong as top performers in urban and rural areas."
+    description: "Données officielles sur la couverture réseau, les licences des opérateurs et les statistiques de déploiement de la 5G au Pakistan."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports including Ookla Speedtest Intelligence, OpenSignal, and the Pakistan Telecommunication Authority. These sources are independent and provide the most accurate representation of network performance in Pakistan."
-data_sources_note: "Network speeds and coverage can vary based on location, time of day, device capabilities, and network congestion. The data presented reflects median values from 2H 2025 and may not represent real‑time conditions. Always check the latest reports for the most current information."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public, notamment Speedtest Intelligence® d'Ookla, OpenSignal et la Pakistan Telecommunication Authority (PTA). Ces sources sont reconnues pour leur fiabilité dans l'analyse des réseaux de télécommunications."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de votre emplacement, de l'heure de la journée, de la congestion du réseau et du type d'appareil utilisé. Les données présentées sont des moyennes et ne garantissent pas une expérience individuelle."
 
 # CTA product card
-cta_title: "Secure your Pakistan eSIM today"
-cta_desc: "Get immediate access to Pakistan's fastest mobile network (Jazz) with median download speeds of 24.13 Mbps. No roaming fees, instant activation via QR code, and full hotspot tethering support. Perfect for travelers, digital nomads, and business professionals."
-cta_button_text: "Buy Pakistan eSIM now"
+cta_title: "Obtenez votre eSIM Pakistan dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat à Internet haut débit au Pakistan avec Roami. Activation instantanée, pas de frais d'itinérance, et couverture nationale via les meilleurs opérateurs locaux."
+cta_button_text: "Acheter l'eSIM Pakistan maintenant"
 cta_button_link: "/pakistan-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Pakistan trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Pakistan gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Pakistan eSIM: Supports seamless hotspot tethering
+# Pakistan eSIM: Entièrement compatible avec iPhone et Android
 
-> **💡 Short summary for travelers:** 【Seamless global roaming: cost‑effective 5G eSIM for multi‑country connectivity】. Roami's Pakistan eSIM leverages the fastest mobile network in the country — Jazz, which recorded a median download speed of 24.13 Mbps and an upload speed of 8.89 Mbps during 2H 2025 according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025). For fixed broadband, Transworld leads with 34.86 Mbps download and 30.5 Mbps upload. Whether you are in Faisalabad (fastest mobile city at 24.13 Mbps) or Islamabad (fastest fixed city at 24.57 Mbps), Roami's eSIM ensures you stay connected with zero roaming fees and instant activation. Ideal for digital nomads, travelers, and business users who need reliable, high‑speed data across Pakistan.
+> **💡 Résumé rapide pour les voyageurs :** Le premier choix des nomades numériques : réseau 5G transfrontalier transparent pour des voyages continus dans plusieurs pays. Selon les données de [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025), Jazz domine le marché mobile avec un débit descendant médian de 24,13 Mbps et un score de vitesse de 42,14, tandis que Transworld est le FAI fixe le plus rapide avec 34,86 Mbps. Roami eSIM vous connecte automatiquement aux meilleurs réseaux locaux comme Jazz et Zong, garantissant une expérience fluide pour le télétravail, le streaming et les appels vidéo, sans frais d'itinérance.
 
-## Things you need to know before buying a Pakistan eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Pakistan
 
 
-### 1. Main 5G/4G frequency bands in Pakistan {#1-main-5g4g-frequency-bands-in-pakistan}
-Pakistan's mobile networks operate on the following key frequency bands: 4G LTE bands include Band 3 (1800 MHz), Band 5 (850 MHz), and Band 40 (2300 MHz). 5G bands include n78 (3500 MHz) and n41 (2500 MHz). Jazz and Zong have deployed 5G in major cities like Karachi, Lahore, and Islamabad. Ensure your device supports these bands for optimal performance.
+### 1. Bande 5G/4G principales au Pakistan {#1-bande-5g4g-principales-au-pakistan}
+Les réseaux mobiles pakistanais utilisent principalement les bandes 4G LTE (B3, B5, B40) et 5G (n78, n41). Assurez-vous que votre smartphone est compatible avec ces fréquences pour une connexion optimale. Les opérateurs comme Jazz et Zong déploient activement la 5G dans les grandes villes.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate a Pakistan eSIM, you must complete Know Your Customer (KYC) verification. This typically requires a valid passport copy and a recent photograph. Some providers may also ask for a local address. Roami simplifies this process by pre‑verifying your identity before travel, so you can activate instantly upon arrival.
+### 2. Exigence KYC (Know Your Customer) pour les eSIM {#2-exigence-kyc-know-your-customer-pour-les-esim}
+Au Pakistan, l'activation d'une carte SIM (y compris eSIM) nécessite une vérification d'identité (KYC) conformément à la réglementation de la PTA. Vous devrez fournir une pièce d'identité valide (passeport pour les étrangers) et une photo. Roami simplifie ce processus pour les voyageurs.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most Pakistan eSIM plans come with a Fair Usage Policy (FUP). After exceeding a certain data threshold (e.g., 10 GB per day), speeds may be throttled to 256 kbps or 512 kbps. Always check the specific FUP of your chosen plan. Roami offers transparent FUP details in the product description.
+### 3. Politique d'utilisation équitable (FUP) et limites de données {#3-politique-dutilisation-équitable-fup-et-limites-de-données}
+La plupart des forfaits eSIM au Pakistan incluent une politique d'utilisation équitable (FUP). Après avoir dépassé un certain seuil de données (généralement 30 à 50 Go par mois), le débit peut être réduit. Vérifiez les conditions de votre forfait avant de souscrire.
 
-### 4. Network coverage in rural and remote areas {#4-network-coverage-in-rural-and-remote-areas}
-While Jazz and Zong have extensive 4G coverage in urban centers, rural and remote areas (e.g., northern areas like Gilgit‑Baltistan) may have limited connectivity. For travel to such regions, consider a plan that includes Zong, which has better consistency (86.2% of samples meet thresholds). Roami eSIM automatically connects to the strongest available network.
+### 4. Couverture réseau dans les zones rurales et montagneuses {#4-couverture-réseau-dans-les-zones-rurales-et-montagneuses}
+La couverture mobile est excellente dans les grandes villes (Islamabad, Lahore, Karachi) mais peut être limitée dans les zones rurales et montagneuses (Gilgit-Baltistan, Cachemire). Jazz et Zong offrent la meilleure couverture nationale. Pour les voyages hors des sentiers battus, privilégiez ces opérateurs.
 
-### 5. Device compatibility and eSIM activation {#5-device-compatibility-and-esim-activation}
-Ensure your smartphone is eSIM‑compatible and unlocked. Most modern iPhones (XR and later), Google Pixels (3 and later), and Samsung Galaxy S20 and later support eSIM. Roami provides a QR code for instant activation. Do not remove the eSIM profile during your trip to avoid deactivation.
+### 5. Compatibilité des smartphones avec les eSIM au Pakistan {#5-compatibilité-des-smartphones-avec-les-esim-au-pakistan}
+Les eSIM sont compatibles avec la plupart des smartphones récents (iPhone XS et ultérieurs, Samsung Galaxy S20 et ultérieurs, Google Pixel 3 et ultérieurs). Vérifiez que votre téléphone est déverrouillé et prend en charge les profils eSIM. Roami fournit des instructions détaillées pour l'activation.

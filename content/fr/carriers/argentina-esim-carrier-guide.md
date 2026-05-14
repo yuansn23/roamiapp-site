@@ -1,65 +1,65 @@
 ---
-title: "Argentinien eSIM: Save time and effort with travel internet"
-description: "Experience fast internet in Argentinien with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:38:33+00:00"
-keywords: "eSIM Argentinien, prepaid data, 5G network, Personal, Claro, travel internet"
+title: "Argentine eSIM: Entièrement compatible avec iPhone et Android"
+description: "Profitez d'Internet rapide en Argentine avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:15:07+00:00"
+keywords: "eSIM Argentine, données prépayées, réseau 5G, Personal, Claro, Movistar, voyage Argentine, internet mobile Argentine"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Argentinien eSIM Guide"
+  - name: "Guide eSIM Argentine"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Argentinien Travel eSIM Latest Guide"
-hero_subtitle_main: "Argentinien eSIM: Save time and effort with travel internet"
-hero_subtitle_highlight: "Premium 5G network coverage by Personal and Claro"
-hero_description_line1: "The Argentinien eSIM covers multiple regions with 5G high‑speed data services, meeting your travel, business, and daily communication needs without any problem."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Argentinien eSIM"
+hero_badge: "🇦🇷 Guide actuel de l'eSIM de voyage Argentine"
+hero_subtitle_main: "Argentine eSIM: Entièrement compatible avec iPhone et Android"
+hero_subtitle_highlight: "Couverture réseau 5G premium via Personal, Claro et Movistar"
+hero_description_line1: "Cette eSIM couvre de vastes zones en Argentine et offre une connexion data rapide et stable. Elle remplace les services d'itinérance internationaux traditionnels, rendant votre voyage à l'étranger bien plus pratique."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Argentine"
 hero_link_url: "/argentina-esim/"
-tldr_summary: "Worry-free global business travel: one eSIM for high‑speed networks across multiple countries. Roami's Argentinien eSIM leverages Personal's award‑winning network, which achieved a median download speed of 55.48 Mbps and a 5G median of 518.8 Mbps ([Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/argentina-speedtest-connectivity-report-h2-2025)). Stay productive in Buenos Aires, Córdoba, and beyond with instant activation and no roaming fees."
+tldr_summary: "Voyages internationaux sans stress : Internet haut débit partout et à tout moment. Avec Roami et une eSIM Argentine, vous bénéficiez des meilleures performances réseau du pays. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/argentina-speedtest-connectivity-report-h2-2025), Personal domine le marché avec une vitesse de téléchargement médiane de 55,48 Mbps (toutes technologies confondues) et une vitesse 5G époustouflante de 518,8 Mbps. Que vous soyez à Buenos Aires (vitesse mobile médiane de 113,51 Mbps) ou en Patagonie, notre eSIM vous connecte automatiquement au meilleur opérateur disponible. Fini les frais d'itinérance exorbitants et les activations complexes : scannez un QR code et profitez d'une connexion fiable dès l'atterrissage."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Argentinien eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Argentine eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Argentinien eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Argentine choisir ?"
 
   - href: "#operators"
-    text: "Top Argentinien eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Argentine"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Argentinien"
+    text: "Guide des villes : La meilleure eSIM pour Argentine"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Argentinien eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Argentine"
 
   - href: "#faq"
-    text: "Frequently asked questions about Argentinien eSIM"
+    text: "Questions fréquentes sur l'eSIM Argentine"
 
   - href: "#myths"
-    text: "Myths and facts about Argentinien eSIM"
+    text: "Mythes et faits sur l'eSIM Argentine"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Argentinien eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Argentine devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/argentina-speedtest-connectivity-report-h2-2025)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/argentina-speedtest-connectivity-report-h2-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "Personal"
     carrier_class: "text-orange-600"
-    reason: "Personal leads with 55.48 Mbps median download and 518.8 Mbps 5G speed, ideal for video calls and large file transfers."
+    reason: "Personal offre le meilleur réseau mobile global et 5G en Argentine. Avec une vitesse de téléchargement médiane de 55,48 Mbps et une vitesse 5G de 518,8 Mbps, c'est le choix idéal pour le télétravail, les visioconférences et le streaming HD."
 
-  - travel: "City explorers"
+  - travel: "Voyageurs urbains"
     carrier: "Claro"
-    carrier_class: "text-blue-600"
-    reason: "Claro offers strong urban coverage with 39.79 Mbps median download, reliable for social media and navigation."
+    carrier_class: "text-red-600"
+    reason: "Claro est le deuxième opérateur avec une vitesse de téléchargement médiane de 39,79 Mbps. Excellent pour une utilisation quotidienne dans les grandes villes comme Buenos Aires, Córdoba et Rosario."
 
-  - travel: "Rural adventurers"
+  - travel: "Aventuriers et roadtrippeurs"
     carrier: "Movistar"
-    carrier_class: "text-green-600"
-    reason: "Movistar provides extensive rural coverage, ensuring connectivity in remote areas like Patagonia."
+    carrier_class: "text-blue-600"
+    reason: "Movistar propose une couverture étendue, notamment dans les zones rurales et le long des routes nationales. Idéal pour les voyages en Patagonie ou dans la région des Andes."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Argentinien travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Argentine la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "personal-esim"
-    title: "Personal eSIM Review: Best overall performance"
-    best_for: "This plan is the absolute top choice for users who demand the fastest speeds and best 5G experience in Argentina."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/argentina-speedtest-connectivity-report-h2-2025), Personal achieved a 5G Speed Score of 92.15 and a 5G median download of 518.8 Mbps.\n- **Download rate**: Median download speed of 55.48 Mbps across all technologies.\n- **Upload rate**: Median upload speed of 11.26 Mbps.\n- **Latency**: Lowest latency at 37 ms.\n- **Consistency**: 88.3% of samples met the 5/1 Mbps threshold; 93.1% of 5G samples met 25/3 Mbps."
-    arcep_note: "Confirmed by the local telecom authority ENACOM, Personal holds the highest spectrum allocation for 5G in Argentina."
-    connect_note: "Activation works seamlessly with Roami eSIM; simply scan the QR code and enable data roaming."
-    user_scenarios: "- **Buenos Aires Subway**: Stream music and check maps underground with Personal's consistent 5G.\n- **Iguazú Falls**: Share live videos of the falls with ultra‑low latency.\n- **Patagonia Road Trip**: Stay connected on long drives with Personal's wide 4G/5G coverage."
+    title: "Test eSIM Personal : Meilleure performance 5G et expérience utilisateur"
+    best_for: "Ce forfait est le meilleur choix absolu pour les utilisateurs exigeants qui ont besoin de la meilleure vitesse et de la meilleure expérience de streaming et de jeux en 5G."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/argentina-speedtest-connectivity-report-h2-2025), Personal offre la meilleure disponibilité 5G en Argentine.\n- **Débit descendant médian (toutes technologies)** : 55,48 Mbps\n- **Débit montant médian (toutes technologies)** : 11,26 Mbps\n- **Latence médiane (toutes technologies)** : 37 ms\n- **Débit descendant médian 5G** : 518,8 Mbps\n- **Débit montant médian 5G** : 32,06 Mbps\n- **Latence médiane 5G** : 30 ms\n- **Score de connectivité Speedtest** : 72,62\n- **Score de connectivité 5G Speedtest** : 83,31\n- **Consistance du réseau (toutes technologies)** : 88,3% des échantillons ≥ 5 Mbps download / 1 Mbps upload\n- **Consistance du réseau 5G** : 93,1% des échantillons ≥ 25 Mbps download / 3 Mbps upload"
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (ENACOM) et les rapports de l'industrie. Personal est reconnu comme le leader du marché mobile argentin."
+    connect_note: "L'activation se déroule sans problème via un QR code. Compatible avec la plupart des smartphones récents (iPhone XS et ultérieur, Samsung Galaxy S20 et ultérieur, Google Pixel, etc.)."
+    user_scenarios: "- **Buenos Aires (Quartier de Palermo)** : En flânant dans les rues animées de Palermo Soho, vous pouvez streamer de la musique en continu, utiliser Google Maps pour trouver les meilleurs restaurants et partager des stories Instagram en 4K sans aucun décalage, grâce à la vitesse 5G de 518,8 Mbps.\n- **Córdoba (Centre-ville)** : Lors d'une visioconférence professionnelle depuis un café du centre historique, la connexion reste stable et fluide, avec une latence de seulement 30 ms, idéale pour les appels vidéo sans interruption.\n- **Mendoza (Région viticole)** : En visitant les vignobles de Luján de Cuyo, vous pouvez télécharger des cartes hors ligne et des guides de dégustation en quelques secondes, et partager des photos haute résolution de vos dégustations sans attendre."
     bg_color: "bg-blue-50"
 
   - id: "claro-esim"
-    title: "Claro eSIM Review: Reliable urban companion"
-    best_for: "This plan is ideal for city travelers who need dependable speeds for everyday tasks like browsing and messaging."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/argentina-speedtest-connectivity-report-h2-2025), Claro recorded a median 5G download speed of 279.62 Mbps.\n- **Download rate**: Median download speed of 39.79 Mbps across all technologies.\n- **Upload rate**: Median upload speed not specified but competitive.\n- **Latency**: Slightly higher than Personal at 40 ms.\n- **Consistency**: Strong performance in urban centers like Buenos Aires and Córdoba."
-    arcep_note: "Claro is a subsidiary of América Móvil and is regulated by ENACOM, ensuring compliance with local telecom standards."
-    connect_note: "Activation is straightforward with Roami; the eSIM automatically selects Claro's network in supported areas."
-    user_scenarios: "- **Buenos Aires Business District**: Attend Zoom meetings with stable 5G.\n- **Mendoza Wine Tour**: Upload photos of vineyards without buffering.\n- **Bariloche Ski Resort**: Check weather updates and navigate slopes."
-    bg_color: "bg-blue-50"
+    title: "Test eSIM Claro : Excellent rapport qualité-prix pour les voyageurs"
+    best_for: "Ce forfait est le meilleur choix pour les voyageurs qui recherchent un bon équilibre entre performance et coût, avec une couverture fiable dans les zones urbaines."
+    core_data: "- **Disponibilité 5G** : Claro est le deuxième opérateur pour la 5G en Argentine.\n- **Débit descendant médian (toutes technologies)** : 39,79 Mbps\n- **Débit descendant médian 5G** : 279,62 Mbps\n- **Expérience de streaming** : Bonne qualité pour le streaming vidéo en HD.\n- **Couverture** : Excellente dans les grandes villes et le long des axes routiers principaux."
+    arcep_note: "Claro est un opérateur majeur en Argentine, régulé par l'ENACOM. Il fait partie du groupe América Móvil."
+    connect_note: "L'activation de l'eSIM Claro est simple et rapide. Profitez d'une connexion immédiate dès votre arrivée en Argentine."
+    user_scenarios: "- **Rosario (Bord du fleuve Paraná)** : En vous promenant le long du fleuve, vous pouvez regarder des vidéos YouTube en 1080p sans mise en mémoire tampon, et utiliser les applications de messagerie pour rester en contact avec vos proches.\n- **Bariloche (Centre-ville)** : Après une journée de randonnée, vous pouvez commander un repas via une application de livraison et regarder un film en streaming depuis votre hôtel, le tout avec une connexion stable.\n- **Salta (Place principale)** : En explorant la ville coloniale, vous pouvez utiliser Google Maps pour naviguer et partager des photos de l'architecture sur les réseaux sociaux sans problème."
+    bg_color: "bg-red-50"
 
   - id: "movistar-esim"
-    title: "Movistar eSIM Review: Best for rural coverage"
-    best_for: "This plan is perfect for travelers venturing into Argentina's vast countryside and national parks."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/argentina-speedtest-connectivity-report-h2-2025), Movistar's 5G speeds are competitive but not leading.\n- **Download rate**: Median download speed around 30 Mbps.\n- **Upload rate**: Adequate for messaging and light browsing.\n- **Latency**: Moderate at 45 ms.\n- **Consistency**: Excellent coverage in rural areas, though speeds may drop in very remote locations."
-    arcep_note: "Movistar is part of Telefónica and adheres to ENACOM's rural coverage obligations, making it a reliable choice off the beaten path."
-    connect_note: "Roami eSIM activates instantly; manual network selection may be needed in remote zones."
-    user_scenarios: "- **Patagonia National Parks**: Stay connected while hiking in Los Glaciares.\n- **Salta Highlands**: Share stories from remote villages.\n- **Atlantic Coast**: Enjoy beach days with reliable 4G."
+    title: "Test eSIM Movistar : Couverture étendue pour les aventuriers"
+    best_for: "Ce forfait est le meilleur choix pour les voyageurs qui explorent les zones rurales, les parcs nationaux et les régions éloignées de l'Argentine."
+    core_data: "- **Couverture** : Movistar offre une large couverture, notamment dans les zones rurales et le long des routes nationales.\n- **Performance** : Vitesse de téléchargement correcte pour une utilisation de base (navigation, messagerie, réseaux sociaux).\n- **Fiabilité** : Réseau fiable pour les appels vocaux et les SMS, même dans les zones moins densément peuplées."
+    arcep_note: "Movistar est un opérateur historique en Argentine, filiale de Telefónica. Il est régulé par l'ENACOM."
+    connect_note: "L'activation de l'eSIM Movistar est simple. Idéal pour les voyageurs qui ont besoin d'une connexion de base dans les zones reculées."
+    user_scenarios: "- **Parc National d'Iguazú** : En visitant les chutes d'Iguazú, vous pouvez partager des photos et des vidéos en direct sur les réseaux sociaux, et utiliser des applications de guidage pour en apprendre davantage sur la faune et la flore.\n- **Route 40 (Patagonie)** : En parcourant la célèbre Route 40, vous pouvez utiliser la navigation GPS pour suivre votre itinéraire et rester en contact avec vos proches via des messages texte.\n- **Ushuaïa (Terre de Feu)** : Même à la pointe sud de l'Argentine, vous pouvez consulter vos emails et utiliser les applications de messagerie pour organiser vos excursions."
     bg_color: "bg-blue-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Argentinien eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Argentinien eSIM and local 5G bands"
-cards_free_title: "Get your free Argentinien eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Argentine"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Argentine et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Argentine gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Argentinien eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Argentine"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Argentina"
-    content: "Argentina's 5G networks primarily use the n78 (3500 MHz) band, while 4G LTE operates on bands 2 (1900 MHz), 4 (1700/2100 MHz), 7 (2600 MHz), and 28 (700 MHz). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Bandes 5G et 4G principales en Argentine"
+    content: "Les opérateurs argentins utilisent principalement les bandes 4G LTE B4 (1700/2100 MHz), B7 (2600 MHz) et B28 (700 MHz). Pour la 5G, les bandes principales sont le n78 (3500 MHz) et le n257 (26 GHz). Assurez-vous que votre smartphone est compatible avec ces bandes pour profiter de la meilleure couverture et des vitesses les plus élevées."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate an eSIM in Argentina, you must provide a valid passport or national ID. Roami handles the KYC process digitally; upload a clear photo of your ID during purchase."
+  - heading: "2. Exigence d'identification (KYC) pour l'activation de l'eSIM"
+    content: "En Argentine, l'activation d'une ligne mobile (y compris les eSIM) est soumise à une procédure de connaissance du client (KYC). Vous devrez fournir une pièce d'identité valide (passeport pour les touristes) et, dans certains cas, un justificatif de domicile. Les fournisseurs d'eSIM comme Roami simplifient ce processus en vérifiant votre identité en ligne avant votre départ."
 
-  - heading: "3. Fair Usage Policy (FUP) explained"
-    content: "Most Argentinien eSIM plans include a Fair Usage Policy. After exceeding a certain data threshold (e.g., 50 GB), speeds may be throttled to 1 Mbps. Check your plan details before heavy streaming."
+  - heading: "3. Politiques de limitation de débit (FUP) et de données équitables"
+    content: "La plupart des forfaits eSIM en Argentine incluent une politique d'utilisation équitable (FUP). Après avoir consommé un certain volume de données à haute vitesse (par exemple, 2 Go par jour), votre débit peut être réduit à une vitesse inférieure (généralement 128 kbps ou 256 kbps). Vérifiez toujours les conditions de votre forfait pour éviter les mauvaises surprises."
 
-  - heading: "4. Network compatibility and device support"
-    content: "eSIMs work with most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Verify your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing."
+  - heading: "4. Couverture réseau : zones urbaines vs zones rurales"
+    content: "La couverture 5G est excellente dans les grandes villes comme Buenos Aires, Córdoba et Rosario. Cependant, dans les zones rurales et reculées (Patagonie, Andes, parc national d'Iguazú), la couverture peut être limitée à la 4G ou même à la 3G. Personal offre la meilleure couverture globale, mais Movistar est souvent plus fiable dans les zones éloignées."
 
-  - heading: "5. Roaming and local regulations"
-    content: "Argentina requires all mobile services to be registered with ENACOM. Roami's eSIM complies with local regulations, ensuring legal and uninterrupted service during your stay."
+  - heading: "5. Compatibilité des smartphones avec les eSIM en Argentine"
+    content: "La plupart des smartphones modernes (iPhone XS et ultérieur, Google Pixel 3 et ultérieur, Samsung Galaxy S20 et ultérieur) sont compatibles avec les eSIM. Cependant, certains modèles achetés en Chine ou aux États-Unis peuvent être verrouillés. Vérifiez les paramètres de votre téléphone pour confirmer la prise en charge de l'eSIM avant d'acheter un forfait."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Argentinien"
-city_guide_desc: "Find out which Argentinien eSIM is the best choice for your destination city based on network performance and coverage."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Argentine"
+city_guide_desc: "Découvrez quelle eSIM Argentine est le meilleur choix pour votre ville de destination, en fonction des performances réseau locales et de vos besoins de voyage."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
   - city: "Buenos Aires"
     carriers: "Personal"
-    reason: "Buenos Aires recorded the fastest median mobile download speed of 113.51 Mbps. Personal's 5G network excels here, making it perfect for business travelers and digital nomads."
+    reason: "Buenos Aires est la ville la plus performante d'Argentine avec une vitesse mobile médiane de 113,51 Mbps et une vitesse fixe de 134,92 Mbps. Personal offre la meilleure expérience 5G, idéale pour les nomades numériques et les voyageurs d'affaires."
 
   - city: "Córdoba"
-    carriers: "Claro"
-    reason: "Córdoba has strong Claro coverage with reliable 4G/5G speeds. Ideal for students and tourists exploring the city's historic sites."
+    carriers: "Personal ou Claro"
+    reason: "Córdoba est un important centre technologique et universitaire. Personal offre les meilleures performances globales, mais Claro est également très fiable et souvent moins cher. Les deux opérateurs offrent une excellente couverture 5G dans le centre-ville."
 
   - city: "Rosario"
-    carriers: "Personal"
-    reason: "Personal offers consistent high speeds in Rosario, supporting streaming and video calls along the Paraná River."
+    carriers: "Claro"
+    reason: "Rosario est la troisième plus grande ville d'Argentine. Claro offre un excellent rapport qualité-prix et une couverture 5G en plein essor. Idéal pour les voyageurs qui souhaitent économiser tout en bénéficiant d'une connexion fiable."
 
   - city: "Mendoza"
     carriers: "Movistar"
-    reason: "Movistar provides excellent coverage in Mendoza's wine regions and mountainous areas, ensuring connectivity during vineyard tours."
+    reason: "Mendoza est la porte d'entrée de la région viticole et des Andes. Movistar offre une meilleure couverture dans les zones rurales et montagneuses environnantes, ce qui est essentiel pour les excursions dans les vignobles et les randonnées."
 
   - city: "Bariloche"
-    carriers: "Movistar"
-    reason: "Bariloche's remote location benefits from Movistar's rural network, keeping you connected while skiing or hiking in the Andes."
+    carriers: "Personal"
+    reason: "Bariloche est une destination prisée pour les sports d'hiver et les activités de plein air. Personal offre la meilleure vitesse et fiabilité dans le centre-ville et les stations de ski, permettant de partager des photos et vidéos en temps réel."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Argentinien eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Argentine selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Buenos Aires' historic neighborhoods with Personal's 5G. Use maps, book restaurants, and share stories in real time."
+    title: "Découvreur de villes"
+    text: "Explorez Buenos Aires, Córdoba et Rosario avec une connexion 5G ultra-rapide. Utilisez Google Maps pour naviguer, réservez des restaurants et des visites guidées en ligne, et partagez vos expériences sur les réseaux sociaux sans attendre."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike Iguazú National Park with Movistar's reliable coverage. Post photos of waterfalls and stay safe with GPS tracking."
+    title: "Amoureux de la nature"
+    text: "Partez à la découverte des chutes d'Iguazú, de la Patagonie et des Andes. Avec une eSIM Roami, vous restez connecté même dans les parcs nationaux. Téléchargez des cartes hors ligne, suivez des sentiers de randonnée et partagez vos photos de paysages époustouflants."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the Ruta 40 with Claro's network. Stream music, check weather, and navigate remote stretches without worry."
+    title: "Roadtrippeur"
+    text: "Parcourez la célèbre Route 40 ou la Route des Vins de Mendoza. Notre eSIM vous offre une couverture fiable le long des axes routiers principaux. Utilisez le GPS pour naviguer, écoutez de la musique en streaming et restez en contact avec vos proches."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on Mar del Plata's beaches with Personal's fast data. Upload vacation videos and video call family back home."
+    title: "Vacancier à la plage"
+    text: "Profitez des plages de Mar del Plata ou de la Costa Atlántica. Avec une connexion 4G/5G stable, vous pouvez regarder des films en streaming, jouer à des jeux en ligne et partager vos moments de détente sur les réseaux sociaux."
 
-scene_guide_footer: "💡 The Roami Argentinien eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Argentine détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Argentinien eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Argentine"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Can I use my physical home SIM card and the Argentinien eSIM simultaneously?"
-    a: "Yes, most modern smartphones support dual SIM (physical + eSIM). You can keep your home SIM active for calls/SMS while using the eSIM for data. Ensure your phone settings allow data switching."
+  - q: "À quelle vitesse de réseau moyenne (téléchargement et téléversement) puis-je m'attendre en Argentine ?"
+    a: "En Argentine, la vitesse de téléchargement médiane toutes technologies confondues est de 72,45 Mbps. L'opérateur Personal offre la meilleure performance avec une vitesse de téléchargement médiane de 55,48 Mbps (toutes technologies) et une vitesse 5G de 518,8 Mbps. Claro suit avec 39,79 Mbps en téléchargement. Pour le téléversement, Personal offre 11,26 Mbps (toutes technologies) et 32,06 Mbps en 5G. Ces vitesses peuvent varier en fonction de votre emplacement, de l'heure de la journée et de la congestion du réseau."
 
-  - q: "Is it possible to purchase multiple data packages for Argentinien and activate them one after another?"
-    a: "Absolutely. Roami allows you to buy multiple data packages in advance. You can activate them sequentially by scanning new QR codes or through the app, ensuring continuous coverage."
+  - q: "Comment transférer mon profil eSIM Argentine actif vers un nouveau smartphone si je change de téléphone ?"
+    a: "Le transfert d'un profil eSIM actif vers un nouveau smartphone dépend du fournisseur. En général, vous devez désactiver le profil eSIM sur votre ancien téléphone (via les paramètres de l'opérateur mobile), puis scanner à nouveau le code QR d'activation sur votre nouveau téléphone. Certains fournisseurs comme Roami permettent de réactiver facilement le profil via votre compte en ligne. Il est recommandé de contacter le service client de votre fournisseur pour obtenir des instructions spécifiques."
 
-  - q: "Does the system automatically connect to the strongest local operator in Argentinien without manual setup?"
-    a: "Yes, Roami eSIMs are configured to automatically select the best available network (Personal, Claro, or Movistar) based on signal strength and speed. No manual intervention is needed."
+  - q: "Existe-t-il une limite spécifique de consommation de données (par exemple après 2 Go par jour) à partir de laquelle la vitesse de l'eSIM Argentine est réduite ?"
+    a: "Oui, la plupart des forfaits eSIM en Argentine incluent une politique d'utilisation équitable (FUP). Par exemple, après avoir consommé 2 Go de données à haute vitesse par jour, votre débit peut être réduit à 128 kbps ou 256 kbps pour le reste de la journée. Cette limitation est courante chez les fournisseurs comme Airalo, Holafly et d'autres. Roami propose des forfaits avec des limites de données claires et transparentes. Vérifiez toujours les conditions de votre forfait avant de l'acheter."
 
-  - q: "Do I need to enable data roaming in my smartphone settings for the Argentinien eSIM to work?"
-    a: "Yes, data roaming must be enabled for the eSIM line in your phone settings. This is standard for all eSIMs and does not incur extra charges with Roami's prepaid plans."
+  - q: "Puis-je passer des appels vocaux ou vidéo via WhatsApp, WeChat ou FaceTime avec l'eSIM Argentine ?"
+    a: "Oui, absolument. Les eSIM en Argentine fournissent un accès à Internet, ce qui vous permet d'utiliser toutes les applications de messagerie et d'appels vocaux/vidéo basées sur IP (VoIP) comme WhatsApp, WeChat, FaceTime, Skype, Zoom, etc. Ces appels sont inclus dans votre forfait de données et ne sont pas facturés comme des appels internationaux traditionnels. Assurez-vous d'avoir une connexion Internet stable pour une qualité d'appel optimale."
 
-  - q: "What should I do if my Argentinien eSIM does not find a network after successful installation?"
-    a: "First, ensure data roaming is enabled for the eSIM. Then, manually select a network (e.g., Personal) in your phone's network settings. If the issue persists, restart your device or contact Roami support for assistance."
+  - q: "Dois-je activer l'itinérance des données dans les paramètres de mon smartphone pour que l'eSIM Argentine fonctionne ?"
+    a: "Oui, pour que votre eSIM Argentine fonctionne correctement, vous devez activer l'itinérance des données dans les paramètres de votre smartphone. Cela permet à votre téléphone de se connecter aux réseaux partenaires en Argentine. Ne vous inquiétez pas, vous ne serez pas facturé de frais d'itinérance supplémentaires car votre forfait eSIM est prépayé et inclut déjà l'accès au réseau local. Assurez-vous également que votre eSIM est définie comme ligne de données par défaut."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Argentinien eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Argentine"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "eSIMs are only for high-end smartphones."
-    truth: "eSIMs are supported by a wide range of devices, including mid-range Android phones and iPhones from the XS series onward. Check your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a>."
+  - myth: "Les eSIM sont moins fiables que les cartes SIM physiques."
+    truth: "Faux. Les eSIM sont tout aussi fiables que les cartes SIM physiques. Elles utilisent la même technologie et les mêmes réseaux. En fait, les eSIM sont souvent plus sécurisées car elles ne peuvent pas être perdues ou volées physiquement."
 
-  - myth: "Argentina's mobile networks are slow everywhere."
-    truth: "Personal's median download speed of 55.48 Mbps and 5G speeds of 518.8 Mbps prove that Argentina offers world-class connectivity in major cities."
+  - myth: "Je dois acheter une eSIM argentine uniquement après mon arrivée dans le pays."
+    truth: "Faux. Vous pouvez acheter et activer une eSIM argentine avant votre départ. Des fournisseurs comme Roami vous permettent d'acheter un forfait en ligne, de recevoir un code QR par email et de l'activer dès votre atterrissage. Cela vous évite de chercher un magasin local à votre arrivée."
 
-  - myth: "You need a local ID to buy an eSIM."
-    truth: "Roami eSIMs require only a passport for KYC, and the process is fully digital. No local ID or address is needed."
+  - myth: "Tous les forfaits eSIM en Argentine offrent des vitesses 5G."
+    truth: "Faux. Tous les forfaits eSIM ne donnent pas accès à la 5G. Certains forfaits économiques peuvent être limités à la 4G. Vérifiez les spécifications du forfait avant d'acheter. Personal offre la meilleure expérience 5G en Argentine."
 
-  - myth: "eSIMs drain battery faster than physical SIMs."
-    truth: "eSIMs use the same power as physical SIMs. Battery drain depends on network signal strength and usage, not the SIM type."
+  - myth: "Les eSIM sont uniquement compatibles avec les iPhones."
+    truth: "Faux. Les eSIM sont compatibles avec une large gamme de smartphones Android et iOS. La plupart des téléphones modernes (Samsung Galaxy, Google Pixel, Huawei, etc.) prennent en charge les eSIM. Vérifiez la <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> de votre appareil avant d'acheter."
 
-  - myth: "You cannot keep your home number with an eSIM."
-    truth: "You can use your physical home SIM for calls/SMS while the eSIM handles data. Both work simultaneously on dual-SIM phones."
+  - myth: "Utiliser une eSIM argentine est plus cher que d'acheter une carte SIM locale."
+    truth: "Pas nécessairement. Les eSIM offrent souvent des prix compétitifs, surtout pour les courts séjours. De plus, vous économisez du temps et des tracas en évitant les files d'attente dans les magasins locaux. Comparez les prix des forfaits eSIM avec ceux des cartes SIM physiques pour trouver la meilleure offre."
 
 
 # Data sources
-data_sources_title: "Argentinien mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Argentine"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/argentina-speedtest-connectivity-report-h2-2025)"
-    description: "Ookla's Speedtest Intelligence data for H2 2025 provides median download/upload speeds, latency, and consistency scores for Argentina's mobile and fixed networks."
+  - name: "Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/argentina-speedtest-connectivity-report-h2-2025)"
+    description: "Analyse des performances des réseaux mobiles et fixes en Argentine pour le second semestre 2025. Données issues de millions de tests effectués par les utilisateurs de Speedtest."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's 2025 Mobile Network Experience Report offers insights on coverage, video streaming, and gaming experience for Argentinien operators."
+    description: "Rapport sur l'expérience mobile en Argentine, incluant la disponibilité 5G, la vitesse de téléchargement et l'expérience de streaming vidéo."
 
-  - name: "ENACOM 2025"
-    description: "Argentina's national telecom regulator ENACOM publishes annual spectrum allocation and coverage maps, confirming operator performance and compliance."
+  - name: "ENACOM (Ente Nacional de Comunicaciones) 2025"
+    description: "Rapport officiel du régulateur argentin des télécommunications sur la couverture et la qualité des services mobiles et fixes dans le pays."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are accurate as of H2 2025. Speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device, and time of day. Always check the latest coverage maps before traveling."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public et sont basées sur des tests réels effectués par les utilisateurs. Les performances peuvent varier en fonction de l'emplacement, de l'appareil et des conditions du réseau."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de votre emplacement, de l'heure de la journée, de la congestion du réseau et de votre appareil. Les données présentées sont des médianes et ne garantissent pas une expérience individuelle."
 
 # CTA product card
-cta_title: "Secure your Argentinien eSIM today"
-cta_desc: "Get immediate access to Argentina's fastest 5G networks with Roami. Instant activation, no roaming fees, and 24/7 support."
-cta_button_text: "Buy Argentinien eSIM now"
+cta_title: "Obtenez votre eSIM Argentine dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat à Internet haut débit en Argentine avec Roami. Pas de frais d'itinérance, activation instantanée par code QR, et couverture 5G premium via Personal. Profitez d'une connexion fiable dès votre arrivée."
+cta_button_text: "Acheter l'eSIM Argentine maintenant"
 cta_button_link: "/argentina-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Argentinien trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Argentine gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Argentinien eSIM: Save time and effort with travel internet
+# Argentine eSIM: Entièrement compatible avec iPhone et Android
 
-> **💡 Short summary for travelers:** Worry-free global business travel: one eSIM for high‑speed networks across multiple countries. Roami's Argentinien eSIM leverages Personal's award‑winning network, which achieved a median download speed of 55.48 Mbps and a 5G median of 518.8 Mbps ([Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/argentina-speedtest-connectivity-report-h2-2025)). Stay productive in Buenos Aires, Córdoba, and beyond with instant activation and no roaming fees.
+> **💡 Résumé rapide pour les voyageurs :** Voyages internationaux sans stress : Internet haut débit partout et à tout moment. Avec Roami et une eSIM Argentine, vous bénéficiez des meilleures performances réseau du pays. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/argentina-speedtest-connectivity-report-h2-2025), Personal domine le marché avec une vitesse de téléchargement médiane de 55,48 Mbps (toutes technologies confondues) et une vitesse 5G époustouflante de 518,8 Mbps. Que vous soyez à Buenos Aires (vitesse mobile médiane de 113,51 Mbps) ou en Patagonie, notre eSIM vous connecte automatiquement au meilleur opérateur disponible. Fini les frais d'itinérance exorbitants et les activations complexes : scannez un QR code et profitez d'une connexion fiable dès l'atterrissage.
 
-## Things you need to know before buying a Argentinien eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Argentine
 
 
-### 1. Main 5G/4G frequency bands in Argentina {#1-main-5g4g-frequency-bands-in-argentina}
-Argentina's 5G networks primarily use the n78 (3500 MHz) band, while 4G LTE operates on bands 2 (1900 MHz), 4 (1700/2100 MHz), 7 (2600 MHz), and 28 (700 MHz). Ensure your device supports these bands for optimal performance.
+### 1. Bandes 5G et 4G principales en Argentine {#1-bandes-5g-et-4g-principales-en-argentine}
+Les opérateurs argentins utilisent principalement les bandes 4G LTE B4 (1700/2100 MHz), B7 (2600 MHz) et B28 (700 MHz). Pour la 5G, les bandes principales sont le n78 (3500 MHz) et le n257 (26 GHz). Assurez-vous que votre smartphone est compatible avec ces bandes pour profiter de la meilleure couverture et des vitesses les plus élevées.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate an eSIM in Argentina, you must provide a valid passport or national ID. Roami handles the KYC process digitally; upload a clear photo of your ID during purchase.
+### 2. Exigence d'identification (KYC) pour l'activation de l'eSIM {#2-exigence-didentification-kyc-pour-lactivation-de-lesim}
+En Argentine, l'activation d'une ligne mobile (y compris les eSIM) est soumise à une procédure de connaissance du client (KYC). Vous devrez fournir une pièce d'identité valide (passeport pour les touristes) et, dans certains cas, un justificatif de domicile. Les fournisseurs d'eSIM comme Roami simplifient ce processus en vérifiant votre identité en ligne avant votre départ.
 
-### 3. Fair Usage Policy (FUP) explained {#3-fair-usage-policy-fup-explained}
-Most Argentinien eSIM plans include a Fair Usage Policy. After exceeding a certain data threshold (e.g., 50 GB), speeds may be throttled to 1 Mbps. Check your plan details before heavy streaming.
+### 3. Politiques de limitation de débit (FUP) et de données équitables {#3-politiques-de-limitation-de-débit-fup-et-de-données-équitables}
+La plupart des forfaits eSIM en Argentine incluent une politique d'utilisation équitable (FUP). Après avoir consommé un certain volume de données à haute vitesse (par exemple, 2 Go par jour), votre débit peut être réduit à une vitesse inférieure (généralement 128 kbps ou 256 kbps). Vérifiez toujours les conditions de votre forfait pour éviter les mauvaises surprises.
 
-### 4. Network compatibility and device support {#4-network-compatibility-and-device-support}
-eSIMs work with most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Verify your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing.
+### 4. Couverture réseau : zones urbaines vs zones rurales {#4-couverture-réseau--zones-urbaines-vs-zones-rurales}
+La couverture 5G est excellente dans les grandes villes comme Buenos Aires, Córdoba et Rosario. Cependant, dans les zones rurales et reculées (Patagonie, Andes, parc national d'Iguazú), la couverture peut être limitée à la 4G ou même à la 3G. Personal offre la meilleure couverture globale, mais Movistar est souvent plus fiable dans les zones éloignées.
 
-### 5. Roaming and local regulations {#5-roaming-and-local-regulations}
-Argentina requires all mobile services to be registered with ENACOM. Roami's eSIM complies with local regulations, ensuring legal and uninterrupted service during your stay.
+### 5. Compatibilité des smartphones avec les eSIM en Argentine {#5-compatibilité-des-smartphones-avec-les-esim-en-argentine}
+La plupart des smartphones modernes (iPhone XS et ultérieur, Google Pixel 3 et ultérieur, Samsung Galaxy S20 et ultérieur) sont compatibles avec les eSIM. Cependant, certains modèles achetés en Chine ou aux États-Unis peuvent être verrouillés. Vérifiez les paramètres de votre téléphone pour confirmer la prise en charge de l'eSIM avant d'acheter un forfait.

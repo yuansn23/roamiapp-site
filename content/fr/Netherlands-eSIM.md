@@ -1,108 +1,108 @@
 ---
-title: Netherlands eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: Forfait eSIM Pays-Bas | Meilleure eSIM de voyage 2026 | Roami
+date: '2026-05-14T03:14:35+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Netherlands eSIM
-  scenario_keywords: Amsterdam sightseeing, canal cruise, tulip fields, windmills
-    visit, Dutch museums
+  core_keyword: eSIM Pays-Bas
+  scenario_keywords: voyage d'affaires, visites touristiques, séminaire, tourisme
+    culturel, festival
   operators: KPN, Vodafone, T-Mobile
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Amsterdam, Rotterdam, The Hague, Utrecht
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  competitors: Airalo, Holafly, Nomad, Ubigi, Flexiroam
+  main_cities: Amsterdam, Rotterdam, La Haye, Utrecht, Eindhoven
+  main_packages: 3/7/15/30 jours, données illimitées
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: Mise à jour du service !
+  btn_text: Continuer
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Notre service eSIM a été mis à jour vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: Netherlands eSIM Plan | Vodafone Full-Speed 5G |20% OFF| Roami
-  description: Need internet in Netherlands? Get Roami's Stable 5G on KPN with 24/7
-    Data. Enjoy 24/7 Support and Best Local Network, tailored for Digital Nomads.
-  keywords: Netherlands eSIM, prepaid eSIM, cheap eSIM, unlimited data, travel internet
-  low_price: 1.99
-  high_price: 39.9
+  title: eSIM Pays-Bas | 5G stable KPN | 20% DE RÉDUCTION | Roami
+  description: Besoin d'Internet aux Pays-Bas ? Obtenez la 5G stable de Roami sur
+    KPN avec des données 24/7. Profitez d'un support 24/7 et du meilleur réseau local,
+    adapté aux nomades numériques.
+  keywords: eSIM Pays-Bas, forfait data Pays-Bas, internet mobile Pays-Bas, voyage
+    Pays-Bas, eSIM voyage
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: Forfait sélectionné
+  label_data: Volume de données
+  label_validity: Validité
+  label_daily: Prix par jour
+  label_total: Prix total
+  btn_primary: Obtenir 20% de réduction
+  btn_secondary: 'Code : web20'
 breadcrumbs:
-- label: Home
+- label: Accueil
   url: /
-- label: Netherlands eSIM
+- label: eSIM Pays-Bas
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Netherlands
-  title: Best eSIM for Netherlands
+  alt: Meilleure eSIM pour Pays-Bas
+  title: Meilleure eSIM pour Pays-Bas
 hero:
   flag_image: img/flags/nl.svg
-  flag_alt: Netherlands Flag
-  title: Netherlands eSIM data plan
-  subtitle: Prioritized 5G access | Top rated | 24/7 customer support
+  flag_alt: Drapeau Pays-Bas
+  title: Forfait eSIM pour Pays-Bas
+  subtitle: Aucune pièce d'identité requise | Pratique | Activation en 1 minute
 features:
-  title: Why Travelers Choose Roami
+  title: Pourquoi les voyageurs choisissent Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: Code QR instantané
+    desc: Livraison en moins de 5 minutes
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: Support 24/7
+    desc: Toujours disponible
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: Garantie
+    desc: Protection acheteur garantie
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: Point d'accès
+    desc: Partagez vos données avec d'autres
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: Sans contrat
+    desc: Annulation à tout moment
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: Sélection auto
+    desc: Meilleurs réseaux locaux
+plans_title: Choisissez votre forfait
 plans_data:
-  30 Days:
+  30 jours:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Données haut débit 5G/4G/LTE
+    desc: Idéal pour votre voyage
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Données haut débit 5G/4G/LTE
+    desc: Idéal pour votre voyage
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 100GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Données haut débit 5G/4G/LTE
+    desc: Idéal pour votre voyage
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.83'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Données haut débit 5G/4G/LTE
+    desc: Parfait pour visiter les attractions
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -110,57 +110,57 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Données haut débit 5G/4G/LTE
+    desc: Adapté aux longs séjours
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '0.27'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Données haut débit 5G/4G/LTE
+    desc: Adapté aux séjours encore plus longs
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '0.47'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Données haut débit 5G/4G/LTE
+    desc: Idéal pour votre voyage
     price: '18.99'
     oldPrice: '28.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.63'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Données haut débit 5G/4G/LTE
+    desc: Idéal pour votre voyage
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Données haut débit illimitées
+    desc: Utilisation des données sans souci
     price: '69.99'
     oldPrice: '104.98'
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.33'
-  7 Days:
+  7 jours:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: Données haut débit 5G/4G/LTE
+    desc: Idéal pour les courts voyages d'affaires
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Données haut débit 5G/4G/LTE
+    desc: Parfait pour visiter les attractions
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -168,73 +168,73 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Données haut débit 5G/4G/LTE
+    desc: Adapté aux longs séjours
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Données haut débit 5G/4G/LTE
+    desc: Adapté aux séjours encore plus longs
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '1.57'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Données haut débit 5G/4G/LTE
+    desc: Idéal pour votre voyage
     price: '20.99'
     oldPrice: '31.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Données haut débit illimitées
+    desc: Utilisation des données sans souci
     price: '21.99'
     oldPrice: '32.98'
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.14'
-  15 Days:
+  15 jours:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Données haut débit 5G/4G/LTE
+    desc: Adapté aux longs séjours
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '0.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Données haut débit 5G/4G/LTE
+    desc: Adapté aux séjours encore plus longs
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '0.93'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Données haut débit 5G/4G/LTE
+    desc: Idéal pour votre voyage
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.47'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Données haut débit 5G/4G/LTE
+    desc: Idéal pour votre voyage
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.93'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Données haut débit 5G/4G/LTE
+    desc: Parfait pour visiter les attractions
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -242,25 +242,25 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Données haut débit illimitées
+    desc: Utilisation des données sans souci
     price: '37.99'
     oldPrice: '56.98'
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.53'
-  3 Days:
+  3 jours:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: Données haut débit 5G/4G/LTE
+    desc: Idéal pour les courts voyages d'affaires
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Données haut débit 5G/4G/LTE
+    desc: Parfait pour visiter les attractions
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -268,568 +268,601 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Données haut débit 5G/4G/LTE
+    desc: Adapté aux longs séjours
     price: '5.99'
     oldPrice: '8.98'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '2.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Données haut débit 5G/4G/LTE
+    desc: Adapté aux séjours encore plus longs
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '3.66'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Données haut débit illimitées
+    desc: Utilisation des données sans souci
     price: '9.99'
     oldPrice: '14.98'
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.33'
 discount_banner:
-  title: Special Discount!
+  title: Réduction spéciale !
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    Utilisez le code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> lors du paiement pour bénéficier de <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% DE RÉDUCTION</span> !
+  btn_text: Profiter de la réduction
+  validity: 'Valable : 3 jours'
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: Détails de couverture réseau
+  supports_text: 'Prend en charge :'
   service_details:
-    title: Service Details
+    title: Détails du service
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Netherlands, including major
-        cities like Amsterdam, Rotterdam, The Hague, and Utrecht. Our Netherlands
-        eSIM seamlessly connects to the robust networks of KPN, Vodafone, and T-Mobile,
-        ensuring stable signals in urban centers, tourist hotspots, and along major
-        transportation routes.
+      title: Couverture
+      desc: Profitez d'une vaste couverture réseau dans tout Pays-Bas, y compris des
+        villes comme Amsterdam, Rotterdam, La Haye, Utrecht. Notre eSIM pour Pays-Bas
+        se connecte de manière transparente aux réseaux KPN, Vodafone, T-Mobile.
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: Délai de livraison
+      desc: Livraison instantanée après achat.
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: Point d'accès
+      desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: Réseaux mobiles
+    badge: Partenaire officiel
     items:
     - name: KPN
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: Faible latence
+      network: Réseau 5G/4G/LTE
     - name: Vodafone
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: T-Mobile
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: IP dédié
+      network: Réseau 5G/4G/LTE
 reminders:
-  title: Important Reminders
+  title: Remarques importantes
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Netherlands.
+    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Pays-Bas.
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: La validité commence lors de la connexion au réseau partenaire.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Le code QR sera envoyé à votre adresse e-mail.
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: Vous pouvez installer plusieurs eSIM simultanément.
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: Vérification rapide de compatibilité
+    desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
+    instruction: 'Composez sur le clavier :'
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: Activation Steps
+  title: Activez votre eSIM pour Pays-Bas en quelques minutes
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: Recevez et conservez le code QR – préparez-vous pour Pays-Bas
+    desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code
+      QR d'activation personnel et des instructions. Conservez le code QR sur votre
+      smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet
+      active pour l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez
+      donc la préparer tranquillement pour votre voyage à Pays-Bas.
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: Installez l'eSIM sur votre appareil – scannez le code QR
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - Ouvrez **Réglages** → **Réseau cellulaire / Données mobiles**
+    - Appuyez sur **"Ajouter eSIM"** ou **"Ajouter un forfait"**
+    - Sélectionnez **"Scanner le code QR"** et pointez l'appareil photo vers le code
+    - Le profil eSIM pour Pays-Bas se téléchargera automatiquement – appuyez sur **"Suivant"**
+    - Donnez un nom (par exemple « Roami Pays-Bas ») et définissez-le comme **standard
+      pour les données mobiles**
+    - Maintenant, l'eSIM est installée mais **pas encore active** – idéal pour la
+      préparation du voyage
   - num: '3'
-    title: 'Step 3: Activate in Netherlands'
-    desc: Upon arriving in Netherlands, enable your Netherlands eSIM in settings to
-      start using data. We recommend connecting to WiFi during the initial activation.
+    title: Préparez-vous à la maison – testez sans risque
+    desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages.
+      Cependant, vous pouvez déjà la tester via votre Wi-Fi domestique (les données
+      mobiles ne sont pas consommées). Dès que vous atterrissez à Pays-Bas, il vous
+      suffit d'activer l'eSIM – la validité commencera automatiquement lors de la
+      première connexion au réseau KPN / Vodafone. Aucun frais caché d'activation,
+      aucun frais d'itinérance.
+    is_list: false
+  - num: '4'
+    title: 'Arrivée à Pays-Bas : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez à Pays-Bas (par exemple dans Aéroport d'Amsterdam-Schiphol,
+      Aéroport de Rotterdam La Haye, Aéroport d'Eindhoven), désactivez le mode avion
+      (ou restez dedans et activez uniquement l'eSIM). Allez dans **Réglages → Réseau
+      cellulaire** et activez votre eSIM Roami pour Pays-Bas. En quelques secondes,
+      votre appareil se connectera automatiquement au réseau 5G/4G le plus rapide
+      disponible de KPN / Vodafone. Vous pourrez immédiatement utiliser la navigation,
+      WhatsApp, les réseaux sociaux ou partager la connexion avec d'autres appareils
+      – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: Netherlands eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Netherlands eSIM across different
-    travel scenarios.
+  title: 'eSIM Pays-Bas : Foire aux questions et guide de voyage'
+  desc: Tout ce que vous devez savoir sur l'utilisation de votre eSIM pour Pays-Bas
+    dans divers scénarios de voyage.
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: Général
+    title: 1. Questions générales
     questions:
-    - q: Does my phone support the Netherlands eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Netherlands eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Netherlands eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Netherlands
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Netherlands eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Netherlands eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Netherlands that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Netherlands eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Netherlands eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Netherlands eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Netherlands eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Netherlands,
-        such as KPN, Vodafone, T-Mobile, to ensure premium speeds at a fraction of
-        roaming costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, Flexiroam,
-        DENT, Airalo?
-      a: While great companies like Holafly, Flexiroam, DENT, Airalo offer reliable
-        services, we focus on providing the most cost-effective Netherlands eSIM,
-        ensuring lower latency and better prices with our automatic price-matching
-        system.
+    - q: Combien coûte l'eSIM pour Pays-Bas et y a-t-il des réductions ?
+      a: Notre forfait eSIM pour Pays-Bas commence à 1,99 $/Go. Avec le code promo
+        'web20', vous bénéficiez de 20% de réduction sur toute commande — valable
+        sur tous les forfaits. Aucun frais caché, aucun engagement de durée minimale.
+    - q: Mon smartphone prend-il en charge l'eSIM pour Pays-Bas et comment l'installer
+        ?
+      a: Oui, la plupart des smartphones modernes (iPhone XS/XR ou plus récent, Samsung
+        Galaxy S20+/Note20+, Google Pixel 3a+) prennent en charge l'eSIM. Vous installez
+        l'eSIM pour Pays-Bas en scannant le code QR dans les réglages mobiles. Les
+        réseaux KPN / Vodafone offrent une excellente couverture 5G/4G dans Pays-Bas.
+    - q: Puis-je installer l'eSIM pour Pays-Bas avant mon voyage et l'activer plus
+        tard ?
+      a: Oui, vous pouvez installer l'eSIM dès maintenant (via Wi-Fi). L'activation
+        se fera automatiquement lorsque votre téléphone, une fois dans Pays-Bas, détectera
+        pour la première fois le réseau KPN / Vodafone. Ainsi, vous évitez le stress
+        dès l'arrivée.
+    - q: Comment suivre ma consommation de données avec l'eSIM pour Pays-Bas ?
+      a: Après activation, vous aurez accès à notre tableau de bord en ligne. Vous
+        y verrez en temps réel votre solde de données, la durée restante et pourrez
+        demander de l'aide à tout moment.
+    - q: L'eSIM pour Pays-Bas est-elle plus sûre qu'une carte SIM physique ?
+      a: Les eSIM sont plus protégées contre les accès non autorisés car elles sont
+        intégrées à l'appareil et ne peuvent pas être extraites ou copiées. Vos données
+        restent chiffrées — aucun risque de carte SIM perdue ou volée.
+    - q: Roami propose-t-il des eSIM régionales pour les voyages hors de Pays-Bas
+        ?
+      a: Oui, en plus de l'eSIM pour Pays-Bas, nous proposons des eSIM régionales
+        pour l'Europe, l'Asie, l'Amérique du Nord et le monde entier. Idéal pour les
+        voyages de plusieurs jours entre villes ou les tournées multi-pays — sans
+        changer de carte SIM.
+    - q: Puis-je continuer à recevoir des appels sur ma carte SIM domestique tout
+        en utilisant l'eSIM pour Pays-Bas ?
+      a: Oui, les appareils double SIM permettent d'utiliser les deux profils simultanément.
+        Il suffit de définir dans les réglages l'eSIM Roami comme standard pour les
+        données mobiles. Les appels et SMS passeront par votre carte SIM domestique
+        (l'itinérance peut être active).
+    - q: Puis-je conserver mon numéro de téléphone tout en utilisant l'eSIM pour Pays-Bas
+        ?
+      a: 'L''eSIM Roami est exclusivement une carte de données. Vous pouvez utiliser
+        votre carte SIM domestique en parallèle (par exemple pour les appels/SMS).
+        La plupart des téléphones double SIM gèrent les deux profils : il suffit de
+        sélectionner l''eSIM Roami comme standard pour les données mobiles.'
+    - q: Roami propose-t-il des forfaits illimités pour Pays-Bas ? Y a-t-il une politique
+        d'utilisation équitable (FUP) ?
+      a: Roami propose des forfaits véritablement illimités pour Pays-Bas. La politique
+        d'utilisation équitable ne s'applique qu'en cas de consommation extrême (par
+        exemple, streaming 4K continu pendant plusieurs jours). La navigation habituelle,
+        les réseaux sociaux, les appels vidéo et la navigation GPS ne sont pas limités.
+    - q: Proposez-vous une garantie de remboursement si l'eSIM pour Pays-Bas ne fonctionne
+        pas ?
+      a: Oui, nous offrons une garantie de remboursement à 100% dans les 7 jours suivant
+        l'activation, si les problèmes techniques ne peuvent être résolus par notre
+        support 24h/24. Aucun risque pour vous.
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: Aéroports
+    title: 2. Réseau à l'aéroport
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Netherlands eSIM before your flight. Once you land at Amsterdam
-        Airport Schiphol, Eindhoven Airport, Rotterdam The Hague Airport, simply turn
-        off Airplane Mode and enable your eSIM line. It will connect to the local
-        4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Netherlands eSIM activated upon landing, you can immediately open
-        NS (Nederlandse Spoorwegen), 9292, Uber to book a ride or use WhatsApp to
-        message your pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Netherlands eSIM data allows you to open Google Maps right
-        at the baggage claim in Amsterdam Airport Schiphol, Eindhoven Airport, Rotterdam
-        The Hague Airport to check real-time train schedules, bus routes, or walking
-        directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Netherlands eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Netherlands eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Netherlands eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: Comment obtenir un réseau fiable dès mon arrivée ?
+      a: Installez l'eSIM pour Pays-Bas avant votre départ. Dès que vous atterrissez
+        dans des aéroports comme Aéroport d'Amsterdam-Schiphol, Aéroport de Rotterdam
+        La Haye, Aéroport d'Eindhoven, désactivez simplement le mode avion et activez
+        l'eSIM. Elle se connectera au réseau local 4G/5G en quelques secondes.
+    - q: Comment contacter ma prise en charge ou utiliser Uber/Grab ?
+      a: Après activation à l'arrivée, vous pourrez immédiatement utiliser des applications
+        comme Uber, Bolt, Felyx pour commander un trajet, ou WhatsApp pour contacter
+        votre chauffeur, sans dépendre du Wi-Fi peu sûr de l'aéroport.
+    - q: Comment utiliser Google/Apple Maps pour trouver les transports ?
+      a: Avec les données de votre eSIM pour Pays-Bas, vous pouvez, dès la sortie
+        des bagages dans Aéroport d'Amsterdam-Schiphol, Aéroport de Rotterdam La Haye,
+        Aéroport d'Eindhoven, consulter les horaires des trains et bus en temps réel
+        ou trouver le chemin vers le parking des taxis.
+    - q: Comment éviter les cartes SIM chères à l'aéroport ?
+      a: En achetant notre eSIM pour Pays-Bas à l'avance en ligne, vous contournez
+        totalement les kiosques de vente de SIM chers dans la salle d'arrivée, économisant
+        ainsi du temps et de l'argent.
+    - q: Comment recevoir les SMS de l'hôtel/location de voiture sans numéro local
+        ?
+      a: Notre eSIM pour Pays-Bas est un forfait données uniquement. Pour recevoir
+        des SMS, laissez votre carte SIM domestique active (la réception de SMS en
+        itinérance est souvent gratuite) et utilisez l'eSIM pour tout le trafic de
+        données.
+    - q: Comment contacter immédiatement ma famille ?
+      a: Dès que vous atterrissez, vous pouvez utiliser iMessage, WhatsApp ou FaceTime
+        via les données rapides de notre eSIM pour Pays-Bas pour dire à vos proches
+        que vous êtes bien arrivé.
   - id: faq-transport
     icon: car
     tab_title: Transport
-    title: 3. Transport & Travel
+    title: 3. Transports et déplacements
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Netherlands eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Netherlands, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like NS (Nederlandse Spoorwegen), 9292, Uber use VoIP (internet calling)
-        and in-app messaging. Since you have active Netherlands eSIM data, drivers
-        can call or message you directly through the app without needing a local phone
-        number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Netherlands eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Netherlands eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in Netherlands.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Netherlands eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Netherlands eSIM's data network while
-        on the train or in the car.
+    - q: Comment utiliser Google Maps pour planifier mon itinéraire ?
+      a: Notre connexion eSIM stable pour Pays-Bas garantit que Google Maps peut charger
+        les données de trafic et les horaires en temps réel partout dans Pays-Bas.
+    - q: Comment les chauffeurs Uber/Grab peuvent-ils me contacter via l'application
+        ?
+      a: Les applications comme Uber, Bolt, Felyx utilisent la VoIP. Comme vos données
+        eSIM pour Pays-Bas sont actives, les chauffeurs peuvent vous appeler via l'application
+        ou envoyer des notifications sans numéro local.
+    - q: Comment acheter des billets de train ou de métro en ligne ?
+      a: Utilisez les données de votre eSIM pour Pays-Bas pour acheter des billets
+        QR digitaux sur les applications locales et éviter les longues files d'attente
+        aux distributeurs.
+    - q: Comment utiliser Google Maps pour la navigation en temps réel dans une voiture
+        de location ?
+      a: Fixez votre téléphone et utilisez l'eSIM pour Pays-Bas. Un forfait de 5 Go
+        ou 10 Go suffit pour une navigation GPS intensive lors de votre voyage à travers
+        Pays-Bas.
+    - q: Comment scanner et déverrouiller des trottinettes électriques (Lime/Bird)
+        ?
+      a: Le déverrouillage des trottinettes électriques nécessite une connexion Internet
+        rapide. Notre eSIM pour Pays-Bas assure la couverture fiable nécessaire.
+    - q: Les applications de VTC fonctionnent-elles de manière transfrontalière ?
+      a: Oui, votre compte reste le même. Assurez-vous simplement d'avoir une connexion
+        Internet active via notre eSIM locale ou régionale.
+    - q: Comment configurer un point d'accès stable pour la famille ?
+      a: Activez simplement le « Point d'accès personnel » dans les réglages. Votre
+        famille pourra se connecter à votre réseau eSIM pour Pays-Bas dans le train
+        ou la voiture.
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: Hôtels
+    title: 4. Hôtels et hébergements
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Netherlands eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Netherlands eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Hotel Okura Amsterdam, Conservatorium Hotel, Waldorf
-        Astoria Amsterdam or a local guesthouse, you can input the address into Google
-        Maps and get turn-by-turn walking or transit directions using your Netherlands
-        eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Netherlands eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Netherlands eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Thuisbezorgd, Uber Eats, Deliveroo and
-        use your Netherlands eSIM data to order a hot meal directly to your hotel
-        lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Netherlands eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: Comment faire un auto-arrivée (self-check-in) après réservation ?
+      a: De nombreux hébergements modernes envoient les codes de serrures connectées
+        par e-mail. Votre eSIM pour Pays-Bas garantit que vous pouvez recevoir ces
+        détails juste devant la porte.
+    - q: Comment contacter le propriétaire Airbnb à mon arrivée ?
+      a: Utilisez la fonction de messagerie de l'application Airbnb ou WhatsApp pour
+        convenir de l'heure d'arrivée, en utilisant les données mobiles de l'eSIM
+        pour Pays-Bas.
+    - q: Comment utiliser Google Maps pour naviguer vers l'hôtel ?
+      a: Que vous séjourniez dans Hotel Okura Amsterdam, De L'Europe Amsterdam, Conservatorium
+        Hotel, entrez l'adresse dans Google Maps et utilisez la navigation de votre
+        eSIM pour Pays-Bas.
+    - q: Comment recevoir les codes SMS de confirmation ?
+      a: Laissez votre carte SIM domestique active pour les SMS et utilisez les données
+        de l'eSIM pour Pays-Bas pour recevoir les codes par e-mail ou via l'application
+        d'authentification.
+    - q: Comment contacter rapidement le support client ?
+      a: Utilisez des applications VoIP comme Skype ou la fonction de chat de l'application
+        de réservation via les données haut débit de votre eSIM pour Pays-Bas.
+    - q: Comment commander de la nourriture via les applications locales de livraison
+        ?
+      a: Téléchargez Thuisbezorgd, Uber Eats, Deliveroo et utilisez les données de
+        votre eSIM pour Pays-Bas pour commander un repas chaud directement dans le
+        hall de l'hôtel.
+    - q: Comment rester en contact avec l'hôtel après le départ (checkout) ?
+      a: Une fois que vous quittez le Wi-Fi de l'hôtel, votre eSIM pour Pays-Bas prend
+        le relais pour que vous puissiez envoyer un message à l'hôtel si vous avez
+        oublié quelque chose.
   - id: faq-attractions
     icon: landmark
     tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    title: 5. Attractions et loisirs
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Rijksmuseum, Anne Frank House, Keukenhof Gardens spontaneously,
-        you can use your Netherlands eSIM data to buy skip-the-line tickets online
-        and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Netherlands eSIM, you can read reviews and
-        book local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Netherlands.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Netherlands eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Netherlands eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Netherlands eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Netherlands eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
+    - q: Comment acheter des billets électroniques via GetYourGuide/Viator ?
+      a: Si vous souhaitez visiter spontanément Musée Van Gogh, Rijksmuseum, Maison
+        d'Anne Frank, vous pouvez utiliser les données de votre eSIM pour Pays-Bas
+        pour acheter des billets en ligne et afficher le code-barres directement sur
+        place.
+    - q: Comment réserver des expériences sur Tripadvisor instantanément ?
+      a: Avec le 4G/5G fiable de votre eSIM pour Pays-Bas, vous pouvez lire les avis
+        et réserver des visites locales tout en étant assis dans un café.
+    - q: Comment utiliser Wikipedia/Google pour obtenir des informations lors de la
+        visite ?
+      a: Améliorez votre expérience culturelle en recherchant des faits historiques
+        ou en traduisant des panneaux dans les musées avec Google Traduction sur les
+        données de l'eSIM pour Pays-Bas.
+    - q: Comment trouver le chemin vers la prochaine attraction ?
+      a: Entrez la prochaine destination dans Google Maps ; la couverture puissante
+        de votre eSIM pour Pays-Bas vous guidera par l'itinéraire le plus rapide.
+    - q: Comment vérifier les temps d'attente en temps réel dans les parcs d'attractions
+        ?
+      a: Les applications des parcs d'attractions ont besoin d'Internet pour afficher
+        les temps d'attente. Votre eSIM pour Pays-Bas vous maintient en ligne dans
+        tout le parc.
+    - q: Comment accéder à Ticketmaster pour les billets de spectacle ?
+      a: Vous pouvez acheter des billets de dernière minute en toute sécurité via
+        les applications de billetterie avec les données de votre eSIM pour Pays-Bas.
+    - q: Comment partager instantanément des photos/vidéos sur Instagram/TikTok ?
+      a: La vitesse de téléchargement élevée de l'eSIM pour Pays-Bas vous permet de
+        publier des reels et des photos en temps réel, sans attendre le Wi-Fi de l'hôtel.
   - id: faq-dining
     icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
+    tab_title: Restaurants
+    title: 6. Nourriture et restaurants
     questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Netherlands eSIM data to search 'restaurants near me' on Google
-        Maps to check ratings, opening hours, and photos of the menu before walking
-        in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Netherlands eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Netherlands eSIM ensures you
-        can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Netherlands eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Thuisbezorgd, Uber Eats, Deliveroo, register
-        using your email or social accounts, and order food seamlessly using your
-        Netherlands eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like iDEAL,
-        PayPal, Credit Card require a brief internet handshake, which your Netherlands
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Netherlands eSIM to find hidden culinary gems in the city.
+    - q: Comment trouver des restaurants via Google Maps/Tripadvisor ?
+      a: Utilisez votre eSIM pour Pays-Bas pour rechercher des « restaurants à proximité
+        » et consulter les avis, horaires d'ouverture et photos des menus.
+    - q: Comment réserver une table en ligne ?
+      a: Assurez votre réservation via les plateformes en ligne en utilisant votre
+        eSIM pour Pays-Bas pendant vos déplacements.
+    - q: Comment scanner les codes QR pour les menus numériques ?
+      a: De nombreux restaurants utilisent des menus numériques. Votre eSIM pour Pays-Bas
+        garantit que le code sur la table se charge instantanément.
+    - q: Comment utiliser l'appareil photo Google Traduction pour les menus ?
+      a: Ouvrez l'application et pointez l'appareil photo vers le menu. La traduction
+        en direct nécessite une connexion Internet via votre eSIM pour Pays-Bas.
+    - q: Comment utiliser les services de livraison locaux ?
+      a: Téléchargez les applications locales comme Thuisbezorgd, Uber Eats, Deliveroo
+        et commandez confortablement en utilisant les données mobiles de votre eSIM
+        pour Pays-Bas.
+    - q: Comment payer avec Apple Pay/Google Pay ?
+      a: Les paiements sans contact ou les méthodes locales telles que Carte de crédit
+        (Visa, Mastercard), IDEAL, PayPal nécessitent une brève validation Internet
+        que votre eSIM pour Pays-Bas exécute parfaitement.
+    - q: Comment trouver les endroits secrets recommandés par les blogueurs culinaires
+        ?
+      a: Regardez des vlogs YouTube ou parcourez les avis sur Yelp avec les données
+        de votre eSIM pour Pays-Bas pour découvrir des pépites culinaires.
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: Réseaux sociaux
+    title: 7. Réseaux sociaux et communication
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Netherlands eSIM providing the internet, you can chat and call exactly as
-        you do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Netherlands eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Netherlands eSIM are clear and lag-free, no matter where you are
-        in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Netherlands
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Netherlands eSIM data allowance to check their own social
-        media.
+    - q: Comment utiliser WhatsApp/Telegram de manière stable à l'étranger ?
+      a: Vos comptes sont liés à votre numéro domestique. Avec notre eSIM pour Pays-Bas
+        comme source de données, vous pourrez communiquer et passer des appels comme
+        à la maison.
+    - q: Comment publier du contenu sur TikTok sans Wi-Fi public ?
+      a: Le Wi-Fi public est souvent lent et peu sûr. Notre 4G/5G eSIM pour Pays-Bas
+        offre la bande passante nécessaire pour des téléchargements rapides.
+    - q: Comment passer des appels vidéo avec ma famille ?
+      a: Nos partenariats réseau garantissent que les appels vidéo via l'eSIM pour
+        Pays-Bas sont clairs et sans latence, où que vous soyez dans le pays.
+    - q: Est-il sûr de se connecter aux réseaux sociaux via le Wi-Fi public ?
+      a: Le Wi-Fi public est vulnérable aux pirates. Utiliser vos propres données
+        eSIM pour Pays-Bas est chiffré et bien plus sûr.
+    - q: Comment partager la connexion en point d'accès avec des compagnons de voyage
+        ?
+      a: Activez la fonction point d'accès. Vos amis pourront se connecter et utiliser
+        votre trafic eSIM pour Pays-Bas pour leurs réseaux sociaux.
   - id: faq-crossborder
     icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
+    tab_title: Voyages transfrontaliers
+    title: 8. Voyages transfrontaliers
     questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Netherlands eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Netherlands eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: Ai-je besoin d'une nouvelle carte SIM pour chaque pays ?
+      a: L'eSIM pour un seul pays Pays-Bas ne fonctionne que là-bas. Pour les voyages
+        multi-pays, nous vous recommandons nos eSIM régionales (par exemple eSIM Europe).
+    - q: Comment éviter les frais d'itinérance lors d'un voyage en train traversant
+        les frontières ?
+      a: Désactivez l'« Itinérance des données » sur votre carte SIM domestique. Assurez-vous
+        que l'eSIM pour Pays-Bas est définie comme principale pour les données.
+    - q: Comment obtenir Internet lors d'une escale à Singapour/Dubaï ?
+      a: Vous pouvez acheter une eSIM à faible coût de 1 Go pour le pays de transit
+        afin de rester en ligne pendant votre attente.
+    - q: Comment obtenir Internet en croisière ?
+      a: Au lieu de payer le Wi-Fi cher du navire, activez une eSIM locale pour les
+        pays que vous visitez. Elle se connectera dès que vous vous approcherez de
+        la terre.
+    - q: Comment Google Maps reste-t-il en ligne lors des road trips ?
+      a: Avec une eSIM régionale, votre téléphone basculera automatiquement sur le
+        réseau du nouveau pays lorsque vous traverserez la frontière, gardant le GPS
+        actif.
+    - q: Comment gérer les données pour plusieurs pays dans une seule application
+        ?
+      a: Vous pouvez suivre la consommation de données de toutes vos eSIM actives
+        via notre tableau de bord en ligne sur le site web.
+    - q: Comment rester connecté lors de voyages dans plusieurs pays ?
+      a: Comme WhatsApp/iMessage fonctionnent via les données, une eSIM régionale
+        garantit que vous restez joignable sous le même numéro de téléphone.
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: Urgences
+    title: 9. Situations d'urgence
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Netherlands, you can dial local emergency numbers like 112 directly from
-        your phone's dialer regardless of your active SIM, as long as your phone can
-        catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Netherlands eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Netherlands eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Netherlands eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Netherlands eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Netherlands eSIM, use
-        your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
+    - q: Comment composer les numéros d'urgence locaux ?
+      a: 'Dans Pays-Bas, vous pouvez composer des numéros d''urgence tels que Police:
+        112, Pompiers: 112, Ambulance: 112 directement si votre téléphone capte un
+        signal cellulaire.'
+    - q: Comment trouver l'hôpital le plus proche ?
+      a: Les données de votre eSIM pour Pays-Bas vous permettent de rechercher instantanément
+        « pharmacie » ou « hôpital » dans Google Maps et de calculer l'itinéraire
+        le plus rapide.
+    - q: Comment trouver les informations de l'ambassade en cas de perte de passeport
+        ?
+      a: Utilisez l'eSIM pour Pays-Bas pour trouver rapidement l'adresse et le numéro
+        de contact de votre ambassade.
+    - q: Comment contacter mon assurance en cas d'accident ?
+      a: Utilisez des applications VoIP comme Skype via les données de l'eSIM pour
+        Pays-Bas pour appeler les lignes d'assistance de votre assurance.
+    - q: Comment partager ma position en temps réel ?
+      a: Utilisez « Partager ma position » dans WhatsApp ou Apple « Où suis-je ? »
+        pour envoyer des coordonnées via les données de l'eSIM pour Pays-Bas.
+    - q: Comment télécharger des cartes hors ligne pour les zones reculées ?
+      a: En utilisant la couverture urbaine de l'eSIM pour Pays-Bas, téléchargez des
+        cartes hors ligne dans Google Maps avant de vous rendre dans des zones sans
+        signal.
   - id: faq-business
     icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
+    tab_title: Affaires
+    title: 10. Affaires et travail
     questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Netherlands eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Netherlands eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Netherlands eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Netherlands eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Netherlands eSIM, you can rapidly upload
-        presentations or large documents to Google Drive or Dropbox directly from
-        the exhibition floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Netherlands eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Netherlands eSIM to update them on flight delays or schedule
-        changes.
+    - q: Comment garantir des réunions stables sur Zoom/Teams ?
+      a: Notre eSIM pour Pays-Bas se connecte à des réseaux premium, fournissant la
+        bande passante et la faible latence nécessaires pour les visioconférences
+        professionnelles.
+    - q: Comment me connecter en toute sécurité au VPN de mon entreprise ?
+      a: Nos données ne restreignent pas les protocoles VPN. Vous pouvez exécuter
+        en toute sécurité le VPN de votre entreprise via le réseau de l'eSIM pour
+        Pays-Bas.
+    - q: Comment utiliser le point d'accès pour mon ordinateur portable dans un café
+        ?
+      a: Activez le point d'accès. Utiliser votre eSIM pour Pays-Bas est nettement
+        plus rapide et plus sûr contre les cybermenaces que le Wi-Fi ouvert.
+    - q: Comment recevoir les codes 2FA pour ma messagerie professionnelle ?
+      a: Laissez votre carte SIM domestique active pour les SMS et utilisez les données
+        de l'eSIM pour Pays-Bas pour les codes reçus par e-mail.
+    - q: Comment télécharger de gros fichiers lors de réunions avec des clients ?
+      a: Les vitesses 5G/4G-LTE de votre eSIM pour Pays-Bas vous permettent de télécharger
+        rapidement des présentations vers le cloud.
+    - q: Comment utiliser Slack/Gmail sans interruption pour collaborer ?
+      a: Votre eSIM pour Pays-Bas fournit une connexion constante, vous recevez donc
+        instantanément les messages Slack et les e-mails.
+    - q: Comment mettre à jour les plans de voyage pour l'entreprise en ligne ?
+      a: Accédez aux portails de l'entreprise via l'eSIM pour Pays-Bas en déplacement
+        pour informer les RH des retards de vol.
 related_products:
-  title: Related eSIM Plans
+  title: Forfaits eSIM similaires
   items:
-  - name: united states eSIM
+  - name: eSIM États-Unis
     flag: img/flags/us.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: United-Kingdom
+    slug: united-states-esim
+  - name: eSIM Royaume-Uni
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Europe eSIM
+    slug: united-kingdom-esim
+  - name: eSIM Europe
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: true
-  - name: Canada eSIM
+    slug: europe-esim
+  - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Turkey eSIM
+    slug: canada-esim
+  - name: eSIM Turquie
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: China eSIM
+    slug: turkey-esim
+  - name: eSIM Chine
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Japan eSIM
+    slug: china-esim
+  - name: eSIM Japon
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
+    slug: japan-esim
+  - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: France eSIM
+    slug: hong-kong-esim
+  - name: eSIM France
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Spain eSIM
+    slug: france-esim
+  - name: eSIM Espagne
     flag: img/flags/es.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Germany eSIM
+    slug: spain-esim
+  - name: eSIM Allemagne
     flag: img/flags/de.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: germany-esim
+  - name: eSIM Australie
     flag: img/flags/au.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
+    slug: australia-esim
 
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
+# =============== 100 % récupération complète : module de comparaison basé sur les données ===============
 market_analysis:
-  title: "Netherlands eSIM vs Prepaid SIM: Which Offers Better Value?"
-  subtitle: "Netherlands Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: "eSIM pour les Netherlands contre prépayée : comparaison de la vitesse, de la couverture et du prix"
+  subtitle: "Cartes SIM prépayées locales aux Pays-Bas contre solutions eSIM (benchmark 2024/2025)"
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Netherlands) + Local Operator Sites"
+    text: "Source des données : Prepaid Data SIM Card Wiki (Netherlands) + sites Web des opérateurs locaux"
     url: "https://prepaid-data-sim-card.fandom.com/wiki/Netherlands"
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Netherlands eSIM"
+    - "Matrice de comparaison"
+    - "Carte SIM prépayée locale (données de marché)"
+    - "Roami eSIM pour Netherlands"
   table_rows:
     - icon: "store"
-      title: "Acquisition &<br>Activation"
+      title: "Acquisition et<br>activation"
       prepaid_title: ""
-      prepaid_desc: "Despite no registration required, buying a Vodafone SIM at Schiphol Airport requires finding a vending machine, and its stores mostly do not accept cash; Lyca Mobile SIMs can be bought at airport service points but setting up and avoiding high default rates is cumbersome."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport vending machine queues and cash-only stores. Activate your Roami eSIM online within 1 minute before landing in Amsterdam."
+      prepaid_desc: "Les cartes SIM prépayées aux Pays-Bas sont disponibles en vente libre sans enregistrement, mais l'achat à l'aéroport de Schiphol nécessite de trouver un distributeur automatique Vodafone, et les magasins Vodafone n'acceptent généralement pas les espèces."
+      esim_title: "Activation instantanée en ligne"
+      esim_desc: "Évitez les distributeurs automatiques à l'aéroport de Schiphol et les magasins Vodafone qui n'acceptent pas les espèces. Activez votre eSIM Roami en ligne en 1 minute avant votre départ."
     - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
+      title: "KYC et enregistrement<br>par passeport"
       prepaid_title: ""
-      prepaid_desc: "SIM cards are freely sold without registration; KPN, Odido, Vodafone, and Lyca Mobile all do not require registration."
-      esim_title: "No Registration Needed"
-      esim_desc: "While Dutch prepaid SIMs don't require registration, Roami eSIM eliminates any potential passport checks or store visits entirely."
+      prepaid_desc: "Aucune donnée spécifique dans la source pour cette dimension. (Basé sur la connaissance du marché : l'enregistrement du passeport n'est pas requis pour les cartes SIM prépayées aux Pays-Bas.)"
+      esim_title: "Aucun passeport requis"
+      esim_desc: "Contrairement à certains pays, les Pays-Bas n'exigent pas d'enregistrement de passeport pour les cartes prépayées, mais Roami eSIM supprime toute formalité : pas de vérification d'identité, activation immédiate."
     - icon: "globe"
-      title: "International<br>Roaming"
+      title: "Itinérance<br>internationale"
       prepaid_title: ""
-      prepaid_desc: "Odido's unlimited daily plan (€2.95) has an EU roaming cap of 2.6 GB and must be activated in the Netherlands; Vodafone's 1-day unlimited (€4.00) has a 7 GB EU roaming cap; Lebara throttles to 3G in the EU."
-      esim_title: "True EU Roaming"
-      esim_desc: "Avoid Odido's 2.6 GB EU roaming cap and Lebara's 3G throttling. Roami eSIM provides full-speed data across all EU countries without FUP limits."
+      prepaid_desc: "Odido limite les données en itinérance dans l'UE à 2,6 Go pour son forfait journalier illimité à 2,95 €, et Vodafone limite son forfait illimité 1 jour à 7 Go en itinérance UE ; Lebara réduit la vitesse à 3G en itinérance UE."
+      esim_title: "Itinérance mondiale sans limites"
+      esim_desc: "Évitez les limites d'itinérance UE d'Odido (2,6 Go/jour) et de Vodafone (7 Go/jour). Roami offre des forfaits de données utilisables dans toute l'UE sans réduction de vitesse ni plafond caché."
     - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
+      title: "Cycle de facturation et<br>coûts perdus"
       prepaid_title: ""
-      prepaid_desc: "KPN offers 1-day (€1.99) or 31-day (€14.99) plans; Vodafone's 30-day unlimited (€44) wastes 75% value for a 7-day trip."
-      esim_title: "Flexible Daily Plans"
-      esim_desc: "Unlike Vodafone's 30-day €44 plan that wastes 75% for a 7-day trip, Roami offers 7-day plans starting from $1.99/GB, saving you money."
+      prepaid_desc: "KPN propose des forfaits de 1 jour (1,99 €) ou 31 jours (14,99 € pour 1 Go) ; Vodafone propose un forfait 7 jours à 7 € pour 2 Go/jour (total 14 Go) et un forfait 30 jours à 44 € pour 60 Go."
+      esim_title: "Forfaits flexibles sans gaspillage"
+      esim_desc: "Contrairement au forfait 31 jours de KPN à 14,99 € pour 1 Go ou au forfait 30 jours de Vodafone à 44 € pour 60 Go, Roami propose des forfaits de 7 jours à partir de 1,99 $/Go, économisant jusqu'à 75 % de coûts perdus pour les courts séjours."
     - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
+      title: "Partage de connexion et<br>politique de vitesse"
       prepaid_title: ""
-      prepaid_desc: "Lyca Mobile explicitly bans tethering; Vodafone allows tethering; KPN and Odido do not explicitly restrict hotspot."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike Lyca Mobile which explicitly bans tethering, Roami eSIM allows hotspot sharing on all devices without any restrictions."
+      prepaid_desc: "Vodafone autorise explicitement le partage de connexion ; Lyca Mobile l'interdit explicitement."
+      esim_title: "Partage de connexion illimité"
+      esim_desc: "Alors que Lyca Mobile interdit le partage de connexion, Roami autorise le partage sans restriction, vous permettant de connecter tous vos appareils."
     - icon: "credit-card"
-      title: "Top-up Payments"
+      title: "Recharge et paiement"
       prepaid_title: ""
-      prepaid_desc: "Lyca Mobile online top-up only accepts 3D secure credit cards from Netherlands, Belgium, Germany, UK, Norway, and Sweden; KPN is uncertain about international card acceptance."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Avoid Lyca Mobile's limited 3D secure card acceptance. Roami eSIM accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
+      prepaid_desc: "Lyca Mobile n'accepte les cartes de crédit en ligne que depuis les Pays-Bas, la Belgique, l'Allemagne, le Royaume-Uni, la Norvège et la Suède ; KPN accepte Mastercard, Visa et PayPal mais on ne sait pas si toutes les cartes internationales sont acceptées."
+      esim_title: "Paiement global simplifié"
+      esim_desc: "Évitez les restrictions de paiement de Lyca Mobile (uniquement cartes de certains pays). Roami accepte Visa, Mastercard, AMEX, Apple Pay, Google Pay et PayPal."
     - icon: "headset"
-      title: "Customer Support"
+      title: "Support client"
       prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get instant help via live chat or email anytime, unlike local prepaid SIMs that often lack dedicated English support."
+      prepaid_desc: "Aucune donnée spécifique dans la source pour cette dimension. (Basé sur la connaissance du marché : le support client est généralement disponible en néerlandais et en anglais, avec des horaires limités.)"
+      esim_title: "Support client 24/7"
+      esim_desc: "Bénéficiez d'un support client multilingue 24h/24 et 7j/7, contrairement aux horaires limités des opérateurs locaux."
 
-  # =============== 100% 完整还原：专家结论模块 ===============
+  # =============== 100 % récupération complète : module de verdict expert ===============
   expert_verdict:
-    title: "Netherlands eSIM vs Prepaid SIM: Which Smarter Choice Saves You Money?"
+    title: "eSIM pour les Netherlands : la solution ultime pour une connectivité sans stress et économique"
     cards:
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid EU Roaming Data Caps"
-        desc: "Odido's unlimited daily plan (€2.95) caps EU roaming at <b>2.6 GB</b> and must be activated in the Netherlands. Vodafone's 1-day unlimited (€4.00) has a <b>7 GB</b> EU cap. Roami eSIM offers full-speed data across all EU countries without FUP limits."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payment Methods Accepted"
-        desc: "Lyca Mobile's online top-up only accepts 3D secure cards from <b>6 European countries</b>, excluding most tourists. Roami eSIM accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal globally."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Multi-Country Travel Without SIM Swaps"
-        desc: "Lebara throttles to <b>3G</b> in the EU, and Odido's unlimited plan must be activated in the Netherlands. Roami eSIM works seamlessly across all EU countries with automatic network selection."
       - icon: "clock"
         icon_bg: "bg-indigo-100"
         icon_color: "text-indigo-600"
-        title: "Instant Activation vs. Store Queues"
-        desc: "Buying a Vodafone SIM at Schiphol requires finding a vending machine, and its stores mostly don't accept cash. Roami eSIM activates in <b>1 minute</b> before your trip."
+        title: "Activation avant le départ"
+        desc: "Achetez et activez votre eSIM Roami avant de quitter votre pays. Contrairement à Odido qui exige une activation aux Pays-Bas pour ses forfaits, vous arrivez connecté."
+      - icon: "wifi"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "Partage de connexion autorisé"
+        desc: "Lyca Mobile <b>interdit explicitement</b> le partage de connexion. Roami eSIM permet le partage sans restriction, idéal pour connecter votre ordinateur ou tablette."
+      - icon: "globe"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "Couverture réseau optimale"
+        desc: "Les opérateurs néerlandais comme KPN limitent la vitesse prépayée à <b>25 Mbit/s</b> et n'offrent pas la 5G. Roami eSIM utilise les meilleurs réseaux locaux pour une vitesse maximale, y compris la 5G."
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "Contournez les formalités d'enregistrement"
+        desc: "Aux Pays-Bas, les cartes SIM prépayées sont en vente libre sans enregistrement, mais avec Roami eSIM, vous évitez même de chercher un point de vente. Activez votre eSIM en ligne sans aucune vérification d'identité."
 ---

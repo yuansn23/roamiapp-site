@@ -1,65 +1,65 @@
 ---
-title: "Vietnam eSIM: Save time and effort with travel internet"
-description: "Experience fast internet in Vietnam with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:44:12+00:00"
-keywords: "eSIM Vietnam, prepaid data, 5G network, Viettel, Vinaphone, mobifone, travel internet, Speedtest, [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/vietnam-speedtest-connectivity-report-h1-2025)"
+title: "Vietnam eSIM: Alternative sans tracas à la carte SIM physique"
+description: "Profitez d'Internet rapide au Vietnam avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:18:58+00:00"
+keywords: "eSIM Vietnam, données prépayées, réseau 5G, Viettel, Vinaphone, mobifone, FPT Telecom, guide voyage, connectivité"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Vietnam eSIM Guide"
+  - name: "Guide eSIM Vietnam"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Vietnam Travel eSIM Latest Guide"
-hero_subtitle_main: "Vietnam eSIM: Save time and effort with travel internet"
-hero_subtitle_highlight: "Premium 5G network coverage by Viettel, Vinaphone and mobifone"
-hero_description_line1: "Skip the SIM card queues with a Vietnam eSIM. Receive your QR code immediately after online payment, activate it in minutes, and quickly solve your internet needs in Vietnam."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Vietnam eSIM"
+hero_badge: "🇻🇳 Guide actuel de l'eSIM de voyage Vietnam"
+hero_subtitle_main: "Vietnam eSIM: Alternative sans tracas à la carte SIM physique"
+hero_subtitle_highlight: "Couverture réseau 5G premium via Viettel, Vinaphone et mobifone"
+hero_description_line1: "Remplacez les forfaits d'itinérance traditionnels par une eSIM Vietnam pour économiser sur les coûts de communication. Compatible avec plusieurs appareils, elle répond aux besoins Internet de tous les types de voyageurs."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Vietnam"
 hero_link_url: "/vietnam-esim/"
-tldr_summary: "Unlimited 5G data: more efficient use by sharing across multiple devices. With a Vietnam eSIM from Roami, you tap into Viettel's best mobile network (median download 165.03 Mbps) and Vinaphone's fastest 5G (median 594.16 Mbps) — all without physical SIM queues. Activate instantly, tether your laptop, and stay productive from Hanoi to Ho Chi Minh City."
+tldr_summary: "Itinérance transparente mondiale : eSIM 5G économique pour une connectivité dans plusieurs pays. Avec Roami, accédez aux réseaux vietnamiens les plus rapides (Viettel : 165,03 Mbps en téléchargement médian, 5G jusqu'à 594,16 Mbps avec Vinaphone) sans changer de carte SIM. Une solution idéale pour les voyageurs exigeants."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Vietnam eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Vietnam eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Vietnam eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Vietnam choisir ?"
 
   - href: "#operators"
-    text: "Top Vietnam eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Vietnam"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Vietnam"
+    text: "Guide des villes : La meilleure eSIM pour Vietnam"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Vietnam eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Vietnam"
 
   - href: "#faq"
-    text: "Frequently asked questions about Vietnam eSIM"
+    text: "Questions fréquentes sur l'eSIM Vietnam"
 
   - href: "#myths"
-    text: "Myths and facts about Vietnam eSIM"
+    text: "Mythes et faits sur l'eSIM Vietnam"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Vietnam eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Vietnam devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/vietnam-speedtest-connectivity-report-h1-2025)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/vietnam-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,244 +67,249 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "Viettel"
-    carrier_class: "text-orange-600"
-    reason: "Best overall mobile network with median download 165.03 Mbps and highest 5G availability (50.4%). Ideal for heavy data users and tethering."
+    carrier_class: "text-green-600"
+    reason: "Meilleur réseau mobile global (Score de connectivité 83,17) et meilleure disponibilité 5G (50,4 %). Idéal pour le travail à distance et les appels vidéo."
 
-  - travel: "Speed enthusiasts"
+  - travel: "Voyageurs 5G"
     carrier: "Vinaphone"
     carrier_class: "text-blue-600"
-    reason: "Fastest 5G network with median download 594.16 Mbps. Perfect for ultra‑fast streaming and large file transfers."
+    reason: "Réseau 5G le plus rapide avec un débit médian de 594,16 Mbps. Parfait pour le streaming 4K et les jeux en ligne."
 
-  - travel: "Budget travelers"
+  - travel: "Explorateurs urbains"
     carrier: "mobifone"
+    carrier_class: "text-red-600"
+    reason: "Bonne couverture dans les grandes villes comme Hanoï et Hô Chi Minh-Ville, avec un débit mobile médian de 68,45 Mbps."
+
+  - travel: "Amateurs de jeux"
+    carrier: "Viettel"
     carrier_class: "text-green-600"
-    reason: "Solid performance with median download 68.45 Mbps and best mobile video experience score of 79.81. Great value for casual use."
+    reason: "Meilleure expérience de jeu mobile selon Speedtest Intelligence. Latence faible et stabilité élevée."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Vietnam travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Vietnam la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "viettel-esim"
-    title: "Viettel eSIM Review: Best overall coverage and 5G availability"
-    best_for: "This plan is the absolute top choice for travelers who need reliable connectivity across Vietnam. Viettel leads in mobile network consistency (97.4%) and offers the highest 5G availability (50.4%)."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/vietnam-speedtest-connectivity-report-h1-2025), Viettel recorded the highest 5G Availability in Vietnam during 1H 2025, with 50.4% of its users accessing its 5G network a majority of the time.\n- **Download rate**: Median download speed of 165.03 Mbps (all technologies) and median 5G download speed of 421.61 Mbps.\n- **Upload rate**: Median upload speed of 34.2 Mbps; median 5G upload speed not separately reported but overall upload leads the market.\n- **Latency**: 34 ms overall; 30 ms over 5G.\n- **Consistency**: 97.4% of samples met or exceeded 5 Mbps down / 1 Mbps up threshold."
-    arcep_note: "Confirmed by the local telecom authority (Vietnam Telecommunications Authority) that Viettel holds the largest spectrum holdings and widest 4G/5G footprint."
-    connect_note: "Activation works seamlessly with Roami eSIM — scan QR code, enable data roaming, and connect within minutes."
-    user_scenarios: "- **Halong Bay cruise**: Stream live from the bay with Viettel's strong coastal coverage.\n- **Hanoi Old Quarter walking tour**: Stay connected in dense urban areas with consistent 5G.\n- **Da Nang beach remote work**: Tether your laptop using Viettel's high upload speed (34.2 Mbps) for video calls."
-    bg_color: "bg-blue-50"
+    title: "Test eSIM Viettel : Meilleure couverture et performances globales"
+    best_for: "Ce forfait est le meilleur choix absolu pour les voyageurs recherchant une connectivité fiable dans tout le Vietnam, y compris les zones rurales."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/vietnam-speedtest-connectivity-report-h1-2025), le taux de disponibilité 5G est de 50,4 %.\n- **Débit descendant médian** : 165,03 Mbps (toutes technologies confondues).\n- **Débit montant médian** : 34,2 Mbps.\n- **Latence** : 34 ms.\n- **Score de connectivité** : 83,17.\n- **Score de connectivité 5G** : 81,53.\n- **Consistance du réseau** : 97,4 % des échantillons dépassent le seuil de 5 Mbps descendant / 1 Mbps montant."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (Ministère de l'Information et de la Communication du Vietnam) comme l'opérateur dominant avec la plus large couverture."
+    connect_note: "L'activation se déroule sans problème via un QR code. Compatible avec la plupart des smartphones récents."
+    user_scenarios: "- **Pont de la Rivière Hàn (Da Nang)** : Téléchargez vos photos de nuit en 4K en moins de 10 secondes grâce au débit 5G de Viettel.\n- **Baie d'Ha Long** : Partagez vos vidéos en direct depuis le bateau sans coupure, même en pleine mer.\n- **Marché de Bến Thành (Hô Chi Minh-Ville)** : Utilisez Google Maps et les applis de livraison sans latence."
+    bg_color: "bg-green-50"
 
   - id: "vinaphone-esim"
-    title: "Vinaphone eSIM Review: Fastest 5G speeds"
-    best_for: "This plan is the absolute top choice for users who demand the highest possible 5G download speeds for streaming, gaming, and large downloads."
-    core_data: "- **5G download rate**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/vietnam-speedtest-connectivity-report-h1-2025), Vinaphone led on median 5G download speed, recording 594.16 Mbps, ahead of Viettel (421.61 Mbps) and mobifone (306.5 Mbps).\n- **5G upload rate**: Median 5G upload speed of 55.37 Mbps.\n- **5G latency**: 30 ms.\n- **Overall Speed Score**: 78.11 (fastest 5G network).\n- **Mobile video experience**: Not separately reported for Vinaphone, but overall mobile video score for the market is led by mobifone."
-    arcep_note: "Confirmed by the local telecom authority that Vinaphone has aggressively deployed 5G in major cities like Hanoi, Ho Chi Minh City, and Da Nang."
-    connect_note: "Activation works seamlessly with Roami eSIM — scan QR code, enable data roaming, and connect within minutes."
-    user_scenarios: "- **Ho Chi Minh City business district**: Download large presentations in seconds.\n- **Hue Imperial City**: Upload high‑resolution photos instantly.\n- **Nha Trang beach**: Stream 4K video without buffering."
-    bg_color: "bg-red-50"
+    title: "Test eSIM Vinaphone : La 5G la plus rapide du Vietnam"
+    best_for: "Ce forfait est le meilleur choix pour les utilisateurs intensifs de données mobiles et les amateurs de streaming vidéo."
+    core_data: "- **Débit descendant médian 5G** : 594,16 Mbps (le plus rapide du pays).\n- **Débit montant médian 5G** : 55,37 Mbps.\n- **Latence 5G** : 30 ms.\n- **Score de vitesse 5G** : 78,11.\n- **Débit mobile global** : 78,69 Mbps (deuxième derrière Viettel).\n- **Expérience vidéo mobile** : Meilleur score de streaming vidéo parmi les FAI (FPT Telecom pour le fixe)."
+    arcep_note: "Vinaphone est reconnu par l'Autorité de régulation des télécommunications vietnamienne pour ses investissements dans l'infrastructure 5G urbaine."
+    connect_note: "Installation rapide, compatible eSIM. Profitez de la 5G dès l'arrivée à l'aéroport de Hanoï ou de Hô Chi Minh-Ville."
+    user_scenarios: "- **Tour de la Tortue (Hanoï)** : Regardez des vidéos YouTube en 4K sans mise en mémoire tampon.\n- **Plage de Nha Trang** : Téléchargez vos stories Instagram en quelques secondes.\n- **Train de nuit vers Huế** : Regardez des films en streaming pendant le trajet."
+    bg_color: "bg-blue-50"
 
   - id: "mobifone-esim"
-    title: "mobifone eSIM Review: Best video streaming experience"
-    best_for: "This plan is the absolute top choice for travelers who prioritize smooth video streaming and casual browsing at an affordable price."
-    core_data: "- **Video streaming score**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/vietnam-speedtest-connectivity-report-h1-2025), mobifone recorded the best mobile video experience with a Video Streaming Score of 79.81.\n- **Download rate**: Median download speed of 68.45 Mbps (all technologies); median 5G download speed of 306.5 Mbps.\n- **Upload rate**: Not separately reported but competitive.\n- **Gaming experience**: Not the top (Viettel leads), but adequate for casual gaming."
-    arcep_note: "Confirmed by the local telecom authority that mobifone has a strong 4G/5G presence in urban and suburban areas."
-    connect_note: "Activation works seamlessly with Roami eSIM — scan QR code, enable data roaming, and connect within minutes."
-    user_scenarios: "- **Hoi An Ancient Town**: Stream travel vlogs while exploring.\n- **Phong Nha Cave**: Stay connected in tourist hubs with reliable 4G/5G.\n- **Mui Ne sand dunes**: Share stories on social media without lag."
-    bg_color: "bg-green-50"
+    title: "Test eSIM mobifone : Bon équilibre qualité-prix"
+    best_for: "Ce forfait est idéal pour les voyageurs à la recherche d'une solution économique sans sacrifier la qualité."
+    core_data: "- **Débit descendant médian** : 68,45 Mbps.\n- **Débit descendant médian 5G** : 306,5 Mbps.\n- **Score d'expérience de jeu mobile** : 79,81 (deuxième meilleur).\n- **Couverture** : Bonne dans les zones urbaines et périurbaines."
+    arcep_note: "mobifone est un opérateur historique régulé par le Ministère de l'Information et de la Communication, offrant une couverture étendue."
+    connect_note: "Activation simple par QR code. Support client en anglais disponible."
+    user_scenarios: "- **Vieux quartier de Hanoï** : Utilisez Grab (VTC) sans problème de connexion.\n- **Delta du Mékong** : Restez connecté lors des excursions en bateau.\n- **Parc national de Phong Nha** : Téléchargez des cartes hors ligne avant de partir en randonnée."
+    bg_color: "bg-red-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Vietnam eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Vietnam eSIM and local 5G bands"
-cards_free_title: "Get your free Vietnam eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Vietnam"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Vietnam et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Vietnam gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Vietnam eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Vietnam"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Vietnam"
-    content: "Vietnam's mobile networks operate on bands 1 (2100 MHz), 3 (1800 MHz), 5 (850 MHz), 7 (2600 MHz), 8 (900 MHz), 20 (800 MHz), 28 (700 MHz), 40 (2300 MHz), and 41 (2500 MHz) for 4G LTE. 5G uses bands n1, n3, n5, n7, n28, n40, n41, n78, and n79. Most modern smartphones support these bands, but check your device specifications before purchasing an eSIM."
+  - heading: "1. Bandes 4G/5G utilisées au Vietnam"
+    content: "Les opérateurs vietnamiens utilisent principalement les bandes 4G LTE B1 (2100 MHz), B3 (1800 MHz), B5 (850 MHz), B8 (900 MHz) et B40 (2300 MHz). Pour la 5G, les bandes n78 (3500 MHz) et n41 (2500 MHz) sont déployées. Assurez-vous que votre smartphone est compatible avec ces fréquences."
 
-  - heading: "2. KYC (Know Your Customer) requirements"
-    content: "To activate a Vietnam eSIM, you must provide a valid passport or national ID. The registration process is digital — upload a clear photo of your ID and a selfie. Roami handles the KYC process on your behalf, ensuring compliance with local regulations."
+  - heading: "2. Enregistrement KYC obligatoire"
+    content: "Conformément à la réglementation vietnamienne, tout achat de carte SIM ou eSIM nécessite une vérification d'identité (KYC). Vous devrez fournir une photo de votre passeport et un selfie lors de l'activation. Roami simplifie ce processus pour vous."
 
-  - heading: "3. Fair Usage Policy (FUP) and data caps"
-    content: "Most Vietnam eSIM plans include a Fair Usage Policy. For example, after exceeding a daily threshold (e.g., 2 GB), speeds may be throttled to 128 kbps or 256 kbps. Always check the specific plan details before purchase. Unlimited plans typically have a soft cap."
+  - heading: "3. Politique de fair use (FUP) et limitation de débit"
+    content: "La plupart des forfaits eSIM incluent une politique d'utilisation raisonnable (FUP). Après avoir dépassé un certain volume de données (ex: 1 Go/jour), le débit peut être réduit à 128 kbps. Vérifiez les conditions avant d'acheter."
 
-  - heading: "4. Network compatibility and VoLTE"
-    content: "Vietnam eSIMs support VoLTE (Voice over LTE) on compatible devices. Ensure your smartphone is unlocked and supports the required bands. Most recent iPhones, Samsung Galaxy, and Google Pixel models work seamlessly."
+  - heading: "4. Couverture réseau dans les zones reculées"
+    content: "Viettel offre la meilleure couverture dans les zones rurales et montagneuses (ex: Sapa, Ha Giang). Vinaphone et mobifone sont excellents dans les villes mais peuvent être moins performants dans les régions isolées."
 
-  - heading: "5. eSIM activation and dual SIM usage"
-    content: "Activation is instant via QR code. You can use your physical home SIM for calls/SMS while the eSIM provides data. Enable data roaming in settings. Some carriers require APN configuration — Roami provides easy setup instructions."
+  - heading: "5. Compatibilité des appareils avec l'eSIM"
+    content: "L'eSIM Vietnam est compatible avec la plupart des smartphones récents (iPhone XS et ultérieur, Google Pixel 3 et ultérieur, Samsung Galaxy S20 et ultérieur). Vérifiez la liste de <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> sur le site de Roami avant l'achat."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Vietnam"
-city_guide_desc: "Find out which Vietnam eSIM is the best choice for your destination city based on real network performance data from [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/vietnam-speedtest-connectivity-report-h1-2025)."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Vietnam"
+city_guide_desc: "Découvrez quelle eSIM Vietnam est le meilleur choix pour votre ville de destination, en fonction des performances réseau locales."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
-  - city: "Hue (tp. Huế)"
+  - city: "Hanoï"
     carriers: "Viettel"
-    reason: "Hue recorded the fastest median mobile download speed of 613.79 Mbps among populous cities. Viettel's best overall network ensures you get top speeds in this historic city."
+    reason: "Capitale avec une forte densité de population. Viettel offre la meilleure couverture 5G (50,4 % de disponibilité) et des débits stables, idéal pour les déplacements professionnels et touristiques."
+
+  - city: "Hô Chi Minh-Ville"
+    carriers: "Vinaphone"
+    reason: "Métropole dynamique où Vinaphone excelle avec la 5G la plus rapide (594,16 Mbps). Parfait pour le streaming et les applications gourmandes en données."
 
   - city: "Da Nang"
     carriers: "Viettel"
-    reason: "Da Nang outpaced other cities with the fastest median fixed download speed of 245.31 Mbps. For mobile, Viettel's consistency (97.4%) makes it ideal for beachside remote work."
+    reason: "Da Nang est la ville avec le débit fixe le plus rapide (245,31 Mbps). Viettel est recommandé pour sa fiabilité globale, notamment pour les nomades numériques."
 
-  - city: "Ho Chi Minh City"
+  - city: "Huế"
     carriers: "Vinaphone"
-    reason: "Vinaphone's fastest 5G network (median 594.16 Mbps) is perfect for the bustling business hub. Enjoy ultra‑fast downloads and low latency in the city center."
-
-  - city: "Hanoi"
-    carriers: "Viettel"
-    reason: "Viettel's high 5G availability (50.4%) and strong overall performance make it the best choice for Hanoi's dense urban environment and Old Quarter."
+    reason: "Huế enregistre le débit mobile le plus rapide du pays (613,79 Mbps). Vinaphone est le choix optimal pour profiter de cette vitesse exceptionnelle."
 
   - city: "Nha Trang"
     carriers: "mobifone"
-    reason: "mobifone's best video streaming experience (score 79.81) is ideal for beach vacations. Stream movies and share vacation photos without buffering."
+    reason: "Station balnéaire populaire. mobifone offre un bon équilibre entre couverture et prix, idéal pour les vacanciers qui souhaitent rester connectés sans se ruiner."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Vietnam eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Vietnam selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Hanoi's Old Quarter or Ho Chi Minh City's landmarks with Viettel's reliable 5G. Use maps, book rides, and share stories instantly."
+    title: "Découvreur de villes"
+    text: "Explorez Hanoï, Hô Chi Minh-Ville et Da Nang avec une connexion 5G ultra-rapide. Utilisez Google Maps, les applis de transport et les réseaux sociaux sans latence."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Visit Phong Nha Cave or Sapa with Viettel's wide coverage. Stay connected even in remote areas with the highest consistency (97.4%)."
+    title: "Amoureux de la nature"
+    text: "Randonnée à Sapa, croisière dans la baie d'Ha Long ou visite du parc national de Phong Nha. Viettel assure la meilleure couverture dans les zones reculées."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the Hai Van Pass or Mekong Delta with Vinaphone's fast 5G. Stream music, navigate, and upload road trip videos in real time."
+    title: "Roadtrippeur"
+    text: "Parcourez le Vietnam du nord au sud (Hanoï - Hô Chi Minh-Ville) avec une eSIM fiable. Viettel offre la meilleure consistance réseau (97,4 % des échantillons stables)."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on Da Nang or Nha Trang beaches with mobifone's excellent video streaming. Watch movies and video call family without lag."
+    title: "Vacancier à la plage"
+    text: "Profitez des plages de Nha Trang, Phú Quốc ou Đà Nẵng. mobifone et Vinaphone offrent d'excellents débits pour partager vos souvenirs en temps réel."
 
-scene_guide_footer: "💡 The Roami Vietnam eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Vietnam détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Vietnam eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Vietnam"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Can I use my physical home SIM card and the Vietnam eSIM simultaneously?"
-    a: "Yes, most modern smartphones support dual SIM (physical + eSIM). You can keep your home SIM active for calls and SMS while using the Vietnam eSIM for data. Ensure your device is unlocked and supports dual SIM functionality."
+  - q: "L'eSIM Vietnam prend-elle en charge le partage de connexion (hotspot) pour partager les données avec d'autres appareils ?"
+    a: "Oui, la plupart des forfaits eSIM Roami au Vietnam autorisent le partage de connexion (hotspot). Vous pouvez ainsi connecter votre ordinateur portable, tablette ou un autre smartphone. Vérifiez néanmoins les conditions spécifiques de votre forfait, car certains peuvent limiter le débit après un certain volume partagé."
 
-  - q: "How can I transfer my active Vietnam eSIM profile to a new smartphone when I change phones?"
-    a: "eSIM profiles are typically tied to the device. To transfer, you need to deactivate the eSIM on your old phone (via settings) and re‑scan the QR code on your new phone. Some providers allow re‑issuance of the QR code. Contact Roami support for assistance."
+  - q: "Une vérification d'identité (KYC) ou un enregistrement de passeport est-il requis pour acheter et utiliser l'eSIM Vietnam ?"
+    a: "Oui, conformément à la réglementation vietnamienne, un processus KYC est obligatoire. Vous devrez fournir une photo de votre passeport et un selfie lors de l'activation. Roami sécurise vos données et les supprime après vérification."
 
-  - q: "Do I need to enable data roaming in my smartphone settings for the Vietnam eSIM to work?"
-    a: "Yes, data roaming must be enabled in your device settings for the eSIM line. This is standard for all eSIMs. Go to Settings > Cellular/Mobile Data > select the eSIM line > toggle Data Roaming ON. No extra charges apply as you are using a local Vietnam network."
+  - q: "Puis-je passer des appels vocaux ou vidéo via WhatsApp, WeChat ou FaceTime avec l'eSIM Vietnam ?"
+    a: "Absolument. L'eSIM Vietnam fournit un accès Internet, vous permettant d'utiliser toutes les applications de messagerie et d'appels VoIP (WhatsApp, FaceTime, Skype, etc.). Les appels sont de haute qualité grâce aux débits 4G/5G élevés."
 
-  - q: "How do I check whether my specific destinations in Vietnam are reliably covered by eSIM networks?"
-    a: "Check the coverage maps of Viettel, Vinaphone, and mobifone on their official websites. Viettel offers the widest coverage, including rural and remote areas. For real‑time data, refer to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/vietnam-speedtest-connectivity-report-h1-2025) for crowd‑sourced speed tests in your destination."
+  - q: "Comment vérifier si mes destinations spécifiques en Vietnam sont bien couvertes par les réseaux eSIM ?"
+    a: "Consultez les cartes de couverture des opérateurs partenaires (Viettel, Vinaphone, mobifone) sur notre site. En général, Viettel offre la meilleure couverture nationale, y compris dans les zones rurales. Vous pouvez également nous contacter pour une vérification personnalisée."
 
-  - q: "Is there a specific data usage threshold (e.g., after 2 GB per day) after which the speed of the Vietnam eSIM is reduced?"
-    a: "Yes, many Vietnam eSIM plans have a Fair Usage Policy (FUP). For example, after exceeding 2 GB per day, speeds may be throttled to 128 kbps or 256 kbps. Always read the plan details before purchase. Roami's unlimited plans include a soft cap to ensure fair usage for all users."
+  - q: "L'eSIM Vietnam est-elle adaptée aux jeux en ligne et quelle est la latence moyenne du réseau (ping) ?"
+    a: "Oui, l'eSIM Vietnam est adaptée aux jeux en ligne. Viettel offre la meilleure expérience de jeu mobile avec une latence moyenne de 34 ms. Vinaphone affiche une latence 5G de 30 ms, idéale pour les jeux compétitifs. Les débits élevés garantissent des téléchargements rapides."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Vietnam eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Vietnam"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "Vietnam eSIMs are only available for iPhones."
-    truth: "False. eSIM technology is supported on a wide range of Android devices (Samsung, Google Pixel, Huawei, etc.) and iPhones. Check your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchase."
+  - myth: "Les eSIM sont moins fiables que les cartes SIM physiques."
+    truth: "Faux. Les eSIM utilisent la même technologie réseau que les cartes physiques. Elles sont même plus pratiques car elles évitent les problèmes de perte ou de détérioration de la carte."
 
-  - myth: "All Vietnam eSIMs offer the same speed."
-    truth: "No. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/vietnam-speedtest-connectivity-report-h1-2025), Viettel leads with median download 165.03 Mbps, while Vinaphone offers the fastest 5G at 594.16 Mbps. mobifone excels in video streaming. Choose based on your needs."
+  - myth: "La 5G au Vietnam est encore expérimentale et peu disponible."
+    truth: "Faux. Viettel affiche une disponibilité 5G de 50,4 %, et Vinaphone propose la 5G la plus rapide du pays (594,16 Mbps). La 5G est largement déployée dans les grandes villes."
 
-  - myth: "You need to register your eSIM at a physical store in Vietnam."
-    truth: "False. eSIM activation is fully digital. Upload your passport or ID online, receive the QR code via email, and activate instantly. No physical visit required."
+  - myth: "Tous les opérateurs offrent la même qualité de réseau."
+    truth: "Faux. Viettel domine en termes de couverture et de consistance (97,4 %), tandis que Vinaphone excelle en vitesse 5G. mobifone est un bon choix économique mais moins performant dans les zones rurales."
 
-  - myth: "Vietnam eSIMs do not support tethering."
-    truth: "Most Vietnam eSIMs support tethering/hotspot. Viettel's high upload speed (34.2 Mbps) makes it ideal for sharing your connection with laptops and tablets."
+  - myth: "L'eSIM ne fonctionne que sur les iPhone récents."
+    truth: "Faux. De nombreux smartphones Android récents (Google Pixel, Samsung Galaxy, Huawei) supportent également l'eSIM. Vérifiez la <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> de votre appareil."
 
-  - myth: "5G coverage in Vietnam is limited to major cities only."
-    truth: "While 5G is strongest in Hanoi, Ho Chi Minh City, and Da Nang, Viettel's 5G availability reached 50.4% in 1H 2025, expanding to many provincial capitals and tourist areas."
+  - myth: "Les forfaits eSIM sont plus chers que les cartes SIM locales."
+    truth: "Faux. Les eSIM Roami sont souvent plus compétitives, surtout pour les courts séjours. Elles évitent les frais d'itinérance et les tracas d'achat en boutique."
 
 
 # Data sources
-data_sources_title: "Vietnam mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Vietnam"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/vietnam-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla's Speedtest Intelligence data for 1H 2025 provides median download/upload speeds, latency, consistency, and 5G performance for Viettel, Vinaphone, and mobifone in Vietnam."
+  - name: "Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/vietnam-speedtest-connectivity-report-h1-2025)"
+    description: "Analyse des performances des réseaux mobiles et fixes au Vietnam pour le premier semestre 2025. Données issues de millions de tests réalisés par les utilisateurs."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's mobile network experience reports for Vietnam cover video streaming, gaming, voice app, and coverage experience for major operators."
+    description: "Rapport sur l'expérience utilisateur des réseaux mobiles au Vietnam, incluant la couverture, la vitesse et la latence."
 
-  - name: "Vietnam Telecommunications Authority (VNTA) 2025"
-    description: "VNTA publishes annual reports on spectrum allocation, network coverage obligations, and quality of service benchmarks for all licensed operators."
+  - name: "Ministère de l'Information et de la Communication du Vietnam 2025"
+    description: "Données réglementaires officielles sur les opérateurs télécoms, les bandes de fréquences et les obligations KYC."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual speeds may vary based on location, device, network congestion, and other factors."
-data_sources_note: "Network speeds and coverage can vary depending on your specific location, time of day, device capabilities, and network load. Always check the latest coverage maps and plan details before purchasing."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public et sont utilisées à titre indicatif. Les vitesses réelles peuvent varier en fonction de votre emplacement, de votre appareil et des conditions du réseau."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de l'heure, de la météo et de la congestion du réseau. Les données sont basées sur des moyennes et ne garantissent pas une expérience individuelle."
 
 # CTA product card
-cta_title: "Secure your Vietnam eSIM today"
-cta_desc: "Get immediate access to Viettel, Vinaphone, or mobifone networks with instant activation. No roaming fees, no queues — just fast, reliable internet from the moment you land."
-cta_button_text: "Buy Vietnam eSIM now"
+cta_title: "Obtenez votre eSIM Vietnam dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat à Internet haut débit au Vietnam. Activation en 5 minutes, support client 24/7."
+cta_button_text: "Acheter l'eSIM Vietnam maintenant"
 cta_button_link: "/vietnam-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Vietnam trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Vietnam gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Vietnam eSIM: Save time and effort with travel internet
+# Vietnam eSIM: Alternative sans tracas à la carte SIM physique
 
-> **💡 Short summary for travelers:** Unlimited 5G data: more efficient use by sharing across multiple devices. With a Vietnam eSIM from Roami, you tap into Viettel's best mobile network (median download 165.03 Mbps) and Vinaphone's fastest 5G (median 594.16 Mbps) — all without physical SIM queues. Activate instantly, tether your laptop, and stay productive from Hanoi to Ho Chi Minh City.
+> **💡 Résumé rapide pour les voyageurs :** Itinérance transparente mondiale : eSIM 5G économique pour une connectivité dans plusieurs pays. Avec Roami, accédez aux réseaux vietnamiens les plus rapides (Viettel : 165,03 Mbps en téléchargement médian, 5G jusqu'à 594,16 Mbps avec Vinaphone) sans changer de carte SIM. Une solution idéale pour les voyageurs exigeants.
 
-## Things you need to know before buying a Vietnam eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Vietnam
 
 
-### 1. Main 5G/4G frequency bands in Vietnam {#1-main-5g4g-frequency-bands-in-vietnam}
-Vietnam's mobile networks operate on bands 1 (2100 MHz), 3 (1800 MHz), 5 (850 MHz), 7 (2600 MHz), 8 (900 MHz), 20 (800 MHz), 28 (700 MHz), 40 (2300 MHz), and 41 (2500 MHz) for 4G LTE. 5G uses bands n1, n3, n5, n7, n28, n40, n41, n78, and n79. Most modern smartphones support these bands, but check your device specifications before purchasing an eSIM.
+### 1. Bandes 4G/5G utilisées au Vietnam {#1-bandes-4g5g-utilisées-au-vietnam}
+Les opérateurs vietnamiens utilisent principalement les bandes 4G LTE B1 (2100 MHz), B3 (1800 MHz), B5 (850 MHz), B8 (900 MHz) et B40 (2300 MHz). Pour la 5G, les bandes n78 (3500 MHz) et n41 (2500 MHz) sont déployées. Assurez-vous que votre smartphone est compatible avec ces fréquences.
 
-### 2. KYC (Know Your Customer) requirements {#2-kyc-know-your-customer-requirements}
-To activate a Vietnam eSIM, you must provide a valid passport or national ID. The registration process is digital — upload a clear photo of your ID and a selfie. Roami handles the KYC process on your behalf, ensuring compliance with local regulations.
+### 2. Enregistrement KYC obligatoire {#2-enregistrement-kyc-obligatoire}
+Conformément à la réglementation vietnamienne, tout achat de carte SIM ou eSIM nécessite une vérification d'identité (KYC). Vous devrez fournir une photo de votre passeport et un selfie lors de l'activation. Roami simplifie ce processus pour vous.
 
-### 3. Fair Usage Policy (FUP) and data caps {#3-fair-usage-policy-fup-and-data-caps}
-Most Vietnam eSIM plans include a Fair Usage Policy. For example, after exceeding a daily threshold (e.g., 2 GB), speeds may be throttled to 128 kbps or 256 kbps. Always check the specific plan details before purchase. Unlimited plans typically have a soft cap.
+### 3. Politique de fair use (FUP) et limitation de débit {#3-politique-de-fair-use-fup-et-limitation-de-débit}
+La plupart des forfaits eSIM incluent une politique d'utilisation raisonnable (FUP). Après avoir dépassé un certain volume de données (ex: 1 Go/jour), le débit peut être réduit à 128 kbps. Vérifiez les conditions avant d'acheter.
 
-### 4. Network compatibility and VoLTE {#4-network-compatibility-and-volte}
-Vietnam eSIMs support VoLTE (Voice over LTE) on compatible devices. Ensure your smartphone is unlocked and supports the required bands. Most recent iPhones, Samsung Galaxy, and Google Pixel models work seamlessly.
+### 4. Couverture réseau dans les zones reculées {#4-couverture-réseau-dans-les-zones-reculées}
+Viettel offre la meilleure couverture dans les zones rurales et montagneuses (ex: Sapa, Ha Giang). Vinaphone et mobifone sont excellents dans les villes mais peuvent être moins performants dans les régions isolées.
 
-### 5. eSIM activation and dual SIM usage {#5-esim-activation-and-dual-sim-usage}
-Activation is instant via QR code. You can use your physical home SIM for calls/SMS while the eSIM provides data. Enable data roaming in settings. Some carriers require APN configuration — Roami provides easy setup instructions.
+### 5. Compatibilité des appareils avec l'eSIM {#5-compatibilité-des-appareils-avec-lesim}
+L'eSIM Vietnam est compatible avec la plupart des smartphones récents (iPhone XS et ultérieur, Google Pixel 3 et ultérieur, Samsung Galaxy S20 et ultérieur). Vérifiez la liste de <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> sur le site de Roami avant l'achat.

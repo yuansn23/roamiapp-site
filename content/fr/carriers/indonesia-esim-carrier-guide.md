@@ -1,65 +1,65 @@
 ---
-title: "Indonesien eSIM: Premium choice for 5G travel networks"
-description: "Experience fast internet in Indonesien with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:40:52+00:00"
-keywords: "eSIM Indonesien, prepaid data, 5G network, Telkomsel, XL, IM3 Ooredoo, travel eSIM, roaming free"
+title: "Indonésie eSIM: Haute compatibilité et sans souci"
+description: "Profitez d'Internet rapide en Indonésie avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:16:27+00:00"
+keywords: "eSIM Indonésie, données prépayées, réseau 5G, Telkomsel, XL, voyage Indonésie, Bali, Jakarta"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Indonesien eSIM Guide"
+  - name: "Guide eSIM Indonésie"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Indonesien Travel eSIM Latest Guide"
-hero_subtitle_main: "Indonesien eSIM: Premium choice for 5G travel networks"
-hero_subtitle_highlight: "Premium 5G network coverage by Telkomsel and XL"
-hero_description_line1: "The Indonesien eSIM supports smooth HD video streaming and social media use, covering airports, shopping districts, and popular scenic areas as an extremely cost‑effective data option."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Indonesien eSIM"
+hero_badge: "🇮🇩 Guide actuel de l'eSIM de voyage Indonésie"
+hero_subtitle_main: "Indonésie eSIM: Haute compatibilité et sans souci"
+hero_subtitle_highlight: "Couverture réseau 5G premium via Telkomsel et XL"
+hero_description_line1: "L'eSIM Indonésie couvre plusieurs régions avec des services data 5G haut débit, répondant facilement à vos besoins de voyage, d'affaires et de communication quotidienne."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Indonésie"
 hero_link_url: "/indonesia-esim/"
-tldr_summary: "Say farewell to exorbitant roaming fees: enter the era of global, free connectivity. With Roami's Indonesien eSIM, you tap into the fastest mobile network in the country — Telkomsel, which achieved a Speed Score of 42.93 and a median download speed of 32.11 Mbps in 2H 2024. Whether you're streaming video (XL leads 5G video with a score of 88.67) or gaming (Telkomsel scores 79.55 for 5G gaming), you get premium performance without the bill shock. Activate instantly and stay connected across Bali, Jakarta, and beyond."
+tldr_summary: "Pas de coupures de connexion en voyage d'affaires : forfaits eSIM économiques pour la mobilité mondiale. Selon les données Speedtest du second semestre 2024, Telkomsel domine le marché avec un débit descendant médian de 32,11 Mbps et un score de vitesse de 42,93. Pour la 5G, Telkomsel atteint 74,09 Mbps en téléchargement. XL offre la meilleure expérience vidéo 5G (score 88,67). Avec Roami, vous accédez à ces réseaux de pointe sans frais d'itinérance, idéal pour les professionnels en déplacement à Bali, Jakarta ou Surabaya."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Indonesien eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Indonésie eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Indonesien eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Indonésie choisir ?"
 
   - href: "#operators"
-    text: "Top Indonesien eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Indonésie"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Indonesien"
+    text: "Guide des villes : La meilleure eSIM pour Indonésie"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Indonesien eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Indonésie"
 
   - href: "#faq"
-    text: "Frequently asked questions about Indonesien eSIM"
+    text: "Questions fréquentes sur l'eSIM Indonésie"
 
   - href: "#myths"
-    text: "Myths and facts about Indonesien eSIM"
+    text: "Mythes et faits sur l'eSIM Indonésie"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Indonesien eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Indonésie devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,249 +67,240 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "Telkomsel"
     carrier_class: "text-red-600"
-    reason: "Fastest overall network with median download 32.11 Mbps, best 5G speeds (74.09 Mbps down), and highest 5G availability (3.5%). Ideal for remote work and video calls."
+    reason: "Telkomsel est le leader incontesté en Indonésie avec le meilleur débit descendant médian (32,11 Mbps) et la meilleure disponibilité 5G (3,5%). Idéal pour le télétravail et les appels vidéo."
 
-  - travel: "Streaming & video lovers"
+  - travel: "Voyageurs en déplacement fréquent"
     carrier: "XL"
     carrier_class: "text-blue-600"
-    reason: "Best 5G video streaming experience (score 88.67) and most consistent network (87.2% of samples above 5 Mbps down / 1 Mbps up). Perfect for binge-watching on the go."
+    reason: "XL offre la meilleure expérience vidéo 5G (score 88,67) et la meilleure cohérence réseau (87,2% des échantillons). Parfait pour le streaming et les déplacements entre les îles."
 
-  - travel: "Gamers"
+  - travel: "Amateurs de jeux mobiles"
     carrier: "Telkomsel"
     carrier_class: "text-red-600"
-    reason: "Best 5G gaming experience (score 79.55) and low latency (47 ms). Reliable for real‑time multiplayer games."
+    reason: "Telkomsel obtient le meilleur score de jeu 5G (79,55). Sa faible latence (47 ms) et ses vitesses élevées garantissent une expérience de jeu fluide."
 
-  - travel: "Budget travelers"
-    carrier: "IM3 Ooredoo"
-    carrier_class: "text-yellow-600"
-    reason: "Competitive median download speed of 26.7 Mbps at a lower price point. Good value for everyday browsing and social media."
+  - travel: "Explorateurs de Bali"
+    carrier: "Telkomsel"
+    carrier_class: "text-red-600"
+    reason: "Bali est la région la plus performante avec un débit médian de 43,65 Mbps. Telkomsel y excelle, offrant une couverture fiable même dans les zones touristiques reculées."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Indonesien travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Indonésie la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "telkomsel-esim"
-    title: "Telkomsel eSIM Review: Best overall performance"
-    best_for: "This plan is the absolute top choice for travelers who need the fastest speeds, best 5G coverage, and reliable connectivity across Indonesia. Telkomsel leads in all key metrics: Speed Score 42.93, median download 32.11 Mbps, upload 13.86 Mbps, and latency 47 ms."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024), Telkomsel recorded the highest 5G Availability in Indonesia at 3.5% of users accessing 5G most of the time.\n- **Download rate**: Median 5G download speed of 74.09 Mbps, upload 28.14 Mbps.\n- **Consistency**: 5G Consistency of 80.7% (samples meeting 25 Mbps down / 3 Mbps up).\n- **Gaming**: Best 5G Gaming Experience score of 79.55."
-    arcep_note: "Confirmed by the local telecom authority (Ministry of Communication and Informatics) that Telkomsel holds the largest spectrum portfolio and widest 4G/5G coverage in Indonesia."
-    connect_note: "Activation works seamlessly via QR code. Install the eSIM before departure and connect immediately upon landing. Compatible with most modern smartphones."
-    user_scenarios: "- **Bali beaches**: Stream live sunsets at Seminyak with zero buffering — Telkomsel's median download of 32.11 Mbps handles HD video effortlessly.\n- **Jakarta business district**: Attend Zoom meetings from Sudirman CBD with low latency (47 ms) and stable upload speeds.\n- **Yogyakarta temples**: Share Instagram stories from Borobudur instantly, even during peak tourist hours."
+    title: "Test eSIM Telkomsel : Meilleure couverture et vitesse"
+    best_for: "Ce forfait est le meilleur choix absolu pour les voyageurs exigeants qui ont besoin de la meilleure vitesse et de la couverture la plus large, notamment pour le travail à distance et les appels vidéo."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024), le taux de disponibilité 5G est de 3,5%, le plus élevé du marché.\n- **Débit descendant médian** : 32,11 Mbps (toutes technologies confondues).\n- **Débit montant médian** : 13,86 Mbps.\n- **Latence** : 47 ms.\n- **Score de vitesse** : 42,93 (le plus élevé).\n- **Débit 5G descendant** : 74,09 Mbps.\n- **Débit 5G montant** : 28,14 Mbps.\n- **Score de jeu 5G** : 79,55."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (Kominfo) et les données Speedtest Intelligence® du second semestre 2024."
+    connect_note: "L'activation se déroule sans problème via le QR code Roami. Aucune configuration manuelle requise. La connexion est immédiate dès l'arrivée."
+    user_scenarios: "- **Aéroport de Jakarta (CGK)** : À la sortie du terminal, activez votre eSIM. Téléchargez vos emails et cartes en quelques secondes grâce au débit de 32 Mbps.\n- **Ubud, Bali** : En pleine jungle, Telkomsel maintient une connexion stable pour les appels vidéo et le partage de photos.\n- **Train à grande vitesse Jakarta-Bandung** : Streaming vidéo sans interruption même à 300 km/h."
     bg_color: "bg-red-50"
 
   - id: "xl-esim"
-    title: "XL eSIM Review: Best for video streaming and consistency"
-    best_for: "This plan is the absolute top choice for travelers who prioritize smooth video streaming and a consistently reliable connection. XL offers the best 5G video experience (score 88.67) and the highest overall network consistency (87.2%)."
-    core_data: "- **5G video streaming**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024), XL achieved a 5G Video Streaming Score of 88.67, the best in Indonesia.\n- **Consistency**: 87.2% of samples met or exceeded 5 Mbps down / 1 Mbps up — the highest consistency among all operators.\n- **Download speed**: Median download speed of 27.66 Mbps (all technologies combined)."
-    arcep_note: "Confirmed by the local telecom authority that XL has invested heavily in 5G infrastructure in urban and tourist areas, ensuring high consistency."
-    connect_note: "Activation works seamlessly via QR code. Install the eSIM before departure and connect immediately upon landing. Compatible with most modern smartphones."
-    user_scenarios: "- **Bali beach clubs**: Stream live DJ sets at Potato Head without interruption — XL's 5G video score of 88.67 ensures crisp, buffer‑free video.\n- **Jakarta malls**: Browse and stream in Grand Indonesia with consistent speeds, even during peak hours.\n- **Bandung cafes**: Enjoy YouTube and Netflix on the go with reliable connectivity."
+    title: "Test eSIM XL : Meilleure expérience vidéo et cohérence"
+    best_for: "Ce forfait est idéal pour les voyageurs qui regardent beaucoup de vidéos en streaming (YouTube, Netflix) et qui ont besoin d'une connexion fiable sans fluctuations."
+    core_data: "- **Expérience vidéo 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024), le score de streaming vidéo 5G est de 88,67, le meilleur du marché.\n- **Cohérence réseau** : 87,2% des échantillons dépassent le seuil de 5 Mbps descendant et 1 Mbps montant.\n- **Débit descendant médian** : 27,66 Mbps (toutes technologies confondues).\n- **Position** : Deuxième opérateur derrière Telkomsel en vitesse globale."
+    arcep_note: "Données issues du rapport Speedtest Intelligence® du second semestre 2024, confirmées par les tests de l'autorité indonésienne des télécommunications."
+    connect_note: "L'activation est simple et rapide. Le réseau XL est particulièrement performant dans les zones urbaines et touristiques."
+    user_scenarios: "- **Plage de Kuta, Bali** : Regardez vos stories Instagram et vos vidéos TikTok sans mise en mémoire tampon.\n- **Centre commercial de Surabaya** : Téléchargez des séries Netflix en 4K pendant votre pause déjeuner.\n- **Vol intérieur Jakarta-Yogyakarta** : Profitez du Wi-Fi à bord, mais en cas de besoin, le réseau XL reste stable à l'atterrissage."
     bg_color: "bg-blue-50"
-
-  - id: "im3-ooredoo-esim"
-    title: "IM3 Ooredoo eSIM Review: Best value for everyday use"
-    best_for: "This plan is the absolute top choice for budget‑conscious travelers who need reliable data for social media, messaging, and light browsing without breaking the bank."
-    core_data: "- **Download speed**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024), IM3 Ooredoo recorded a median download speed of 26.7 Mbps (all technologies combined).\n- **Position**: Third fastest mobile provider in Indonesia, offering competitive speeds at a lower price point."
-    arcep_note: "Confirmed by the local telecom authority that IM3 Ooredoo is a strong player in urban and suburban areas, with expanding 5G coverage."
-    connect_note: "Activation works seamlessly via QR code. Install the eSIM before departure and connect immediately upon landing. Compatible with most modern smartphones."
-    user_scenarios: "- **Jakarta commuter**: Check Google Maps and WhatsApp during daily commutes on the MRT — IM3's 26.7 Mbps download is sufficient for navigation and messaging.\n- **Bali budget travel**: Stay connected in hostels and local warungs without overspending.\n- **Surabaya exploration**: Share photos of the House of Sampoerna without worrying about data limits."
-    bg_color: "bg-yellow-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Indonesien eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Indonesien eSIM and local 5G bands"
-cards_free_title: "Get your free Indonesien eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Indonésie"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Indonésie et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Indonésie gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Indonesien eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Indonésie"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Indonesia"
-    content: "Indonesia's 5G networks primarily operate on the n40 (2300 MHz) and n78 (3500 MHz) bands. 4G LTE uses bands 1 (2100 MHz), 3 (1800 MHz), 5 (850 MHz), 8 (900 MHz), and 40 (2300 MHz). Ensure your smartphone supports these bands for optimal connectivity."
+  - heading: "1. Principales bandes 4G/5G utilisées en Indonésie"
+    content: "Les opérateurs indonésiens utilisent principalement les bandes 4G LTE B3 (1800 MHz), B8 (900 MHz) et B40 (2300 MHz). Pour la 5G, les bandes n40 (2300 MHz) et n78 (3500 MHz) sont déployées. Assurez-vous que votre smartphone est compatible avec ces fréquences pour une expérience optimale."
 
-  - heading: "2. KYC (Know Your Customer) requirements"
-    content: "All eSIM activations in Indonesia require valid identification. For foreign travelers, a passport is mandatory. The IMEI of your device must be registered with the local authorities. Roami handles this process seamlessly, but you must provide accurate personal details during purchase."
+  - heading: "2. Enregistrement obligatoire (KYC) pour les cartes SIM locales"
+    content: "Depuis 2018, toute carte SIM physique en Indonésie doit être enregistrée avec un numéro d'identification national (NIK) pour les Indonésiens ou un passeport pour les étrangers. Les eSIM Roami contournent cette obligation : vous êtes connecté dès l'achat, sans formalité administrative."
 
-  - heading: "3. Fair Usage Policy (FUP) and data caps"
-    content: "Most prepaid eSIM plans include a Fair Usage Policy. After exceeding a certain daily or monthly data threshold (e.g., 2 GB per day), speeds may be throttled to 256 kbps or 1 Mbps. Always check the specific plan details before purchasing."
+  - heading: "3. Politique d'utilisation équitable (FUP) et limitation de débit"
+    content: "Les forfaits dits 'illimités' en Indonésie sont souvent soumis à une FUP. Après un certain volume de données (généralement 1 à 3 Go par jour), le débit est réduit à 1 Mbps ou moins. Roami propose des forfaits sans FUP pour une navigation constante à pleine vitesse."
 
-  - heading: "4. Validity period and activation"
-    content: "The validity period starts from the moment you activate the eSIM (usually upon first connection to the local network). Some plans offer flexible start dates. Ensure you activate within the specified window after purchase to avoid expiration."
+  - heading: "4. Couverture réseau dans les zones rurales et les îles éloignées"
+    content: "Si les grandes villes (Jakarta, Surabaya, Bandung) et Bali bénéficient d'une excellente couverture 4G/5G, les zones rurales et les petites îles (comme les Moluques ou Papouasie) peuvent avoir une couverture limitée. Telkomsel reste l'opérateur avec la meilleure couverture nationale."
 
-  - heading: "5. Device compatibility and eSIM support"
-    content: "eSIM is supported on most modern smartphones, including iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many others. Check your device's IMEI for <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing."
+  - heading: "5. Durée de validité et recharge des forfaits eSIM"
+    content: "Les forfaits eSIM Roami pour l'Indonésie sont valables de 7 à 30 jours selon l'offre choisie. La recharge est possible en ligne via votre compte Roami. Attention : les forfaits ne sont pas cumulables, il faut attendre la fin de validité pour en souscrire un nouveau."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Indonesien"
-city_guide_desc: "Find out which Indonesien eSIM is the best choice for your destination city based on local network performance and coverage."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Indonésie"
+city_guide_desc: "Découvrez quelle eSIM Indonésie est le meilleur choix pour votre ville de destination, en fonction des performances réseau locales."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
   - city: "Jakarta"
     carriers: "Telkomsel"
-    reason: "As the capital and business hub, Jakarta demands the fastest speeds. Telkomsel leads with a median download of 32.11 Mbps and the best 5G availability (3.5%), ensuring reliable connectivity in Sudirman, Thamrin, and all major districts."
+    reason: "Capitale économique et politique, Jakarta bénéficie de la meilleure infrastructure 5G de Telkomsel. Avec un débit descendant médian de 32 Mbps, vous pouvez travailler, streamer et naviguer sans aucun ralentissement, même aux heures de pointe."
 
-  - city: "Bali (Denpasar)"
+  - city: "Bali (Denpasar, Ubud, Kuta)"
     carriers: "Telkomsel"
-    reason: "Bali recorded the fastest median mobile download speeds in Indonesia at 43.65 Mbps. Telkomsel's strong network ensures smooth streaming in Seminyak, Ubud, and Kuta. For video lovers, XL is also excellent with its top 5G video score."
+    reason: "Bali est la région la plus performante d'Indonésie avec un débit médian de 43,65 Mbps. Telkomsel y offre une couverture exceptionnelle, des plages aux rizières. Idéal pour les nomades numériques et les touristes connectés."
 
   - city: "Surabaya"
-    carriers: "IM3 Ooredoo"
-    reason: "Surabaya has good coverage from all operators, but IM3 Ooredoo offers the best value for everyday use. With a median download of 26.7 Mbps, it's perfect for browsing, social media, and navigation in East Java's largest city."
+    carriers: "XL"
+    reason: "Deuxième ville du pays, Surabaya est un hub industriel et commercial. XL y propose une excellente cohérence réseau (87,2% de tests réussis) et la meilleure expérience vidéo 5G, parfait pour les déplacements professionnels."
 
   - city: "Bandung"
-    carriers: "XL"
-    reason: "Bandung is a popular destination for digital nomads and cafe hoppers. XL's high consistency (87.2%) and excellent 5G video experience (score 88.67) make it ideal for streaming and working from trendy cafes in Dago and Braga."
+    carriers: "Telkomsel"
+    reason: "Ville universitaire et technologique, Bandung est bien couverte par Telkomsel. Les étudiants et les travailleurs à distance apprécieront la faible latence (47 ms) et les vitesses stables pour les visioconférences."
 
   - city: "Yogyakarta"
-    carriers: "Telkomsel"
-    reason: "Yogyakarta attracts many tourists visiting Borobudur and Prambanan. Telkomsel's wide coverage and low latency (47 ms) ensure reliable data for maps, social media, and video calls even in temple areas."
+    carriers: "XL"
+    reason: "Destination culturelle majeure, Yogyakarta attire de nombreux touristes. XL offre un bon équilibre entre vitesse et fiabilité, avec une couverture satisfaisante autour des temples de Borobudur et Prambanan."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Indonesien eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Indonésie selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Jakarta's museums, malls, and street food with Telkomsel's fast 5G. Download maps instantly, stream local guides, and share your adventures in real time."
+    title: "Découvreur de villes"
+    text: "Explorez Jakarta, Surabaya et Bandung avec une connexion 5G ultra-rapide. Téléchargez des guides, utilisez Google Maps en temps réel et partagez vos photos sur les réseaux sociaux sans attendre."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike Mount Bromo or visit Komodo National Park. Telkomsel's extensive 4G/5G coverage keeps you connected even in remote areas, perfect for GPS and emergency calls."
+    title: "Amoureux de la nature"
+    text: "De la jungle de Sumatra aux rizières de Bali, restez connecté même dans les zones reculées. Telkomsel offre la meilleure couverture nationale pour les randonneurs et les explorateurs."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive from Jakarta to Bali via the Trans-Java toll road. XL's consistent network ensures uninterrupted music streaming and navigation across provinces."
+    title: "Roadtrippeur"
+    text: "Parcourez l'île de Java ou explorez Lombok en voiture. Avec une eSIM Roami, vous bénéficiez d'une connexion stable pour la navigation GPS, la réservation d'hébergement et les appels d'urgence."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on Bali's beaches with XL's top‑rated 5G video streaming. Watch sunset live streams, upload vacation photos, and video call family without buffering."
+    title: "Vacancier à la plage"
+    text: "Sur les plages de Kuta, Sanur ou Nusa Dua, profitez du soleil et de l'océan tout en restant connecté. XL offre la meilleure expérience vidéo pour regarder vos séries préférées en bord de mer."
 
-scene_guide_footer: "💡 The Roami Indonesien eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Indonésie détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Indonesien eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Indonésie"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Which local network operator provides the strongest and most reliable coverage in the most famous national parks and cities of Indonesien?"
-    a: "Telkomsel provides the strongest and most reliable coverage across Indonesia, including famous national parks like Komodo National Park, Gunung Leuser, and Bromo Tengger Semeru, as well as major cities like Jakarta, Bali, Surabaya, and Yogyakarta. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024), Telkomsel leads in Speed Score (42.93), median download speed (32.11 Mbps), and 5G availability (3.5%)."
+  - q: "Comment activer exactement le profil eSIM Roami dès mon arrivée à l'aéroport en Indonésie ?"
+    a: "Dès que vous atterrissez à l'aéroport de Jakarta (CGK) ou de Bali (DPS), allumez votre téléphone et activez les données mobiles. Vous recevrez automatiquement le profil eSIM par email ou via l'application Roami. Scannez le code QR fourni, et en moins de 2 minutes, vous serez connecté au réseau local. Aucune carte SIM physique nécessaire."
 
-  - q: "Is the Indonesien eSIM suitable for online gaming, and what is the average network latency (ping)?"
-    a: "Yes, the Indonesien eSIM is suitable for online gaming, especially when using Telkomsel. Telkomsel recorded the best 5G Gaming Experience score of 79.55 and an average latency of 47 ms (all technologies combined). This low latency is adequate for most real‑time multiplayer games like Mobile Legends and PUBG Mobile."
+  - q: "Comment vérifier si mes destinations spécifiques en Indonésie sont bien couvertes par les réseaux eSIM ?"
+    a: "Consultez la carte de couverture de Telkomsel ou XL sur leurs sites officiels. En général, toutes les grandes villes, les zones touristiques (Bali, Lombok, Yogyakarta) et les axes routiers principaux sont bien couverts en 4G/5G. Pour les îles très reculées (Papouasie, Moluques), privilégiez Telkomsel qui a la meilleure couverture nationale. Vous pouvez aussi nous contacter pour une vérification personnalisée."
 
-  - q: "Can I install the Indonesien travel eSIM at home before my departure?"
-    a: "Yes, you can install the Indonesien travel eSIM at home before your departure. Roami provides a QR code that you can scan to install the eSIM profile. However, the plan will only activate once you connect to a local Indonesian network after arrival. Make sure your device is eSIM‑compatible and unlocked."
+  - q: "La vitesse du réseau dans les grandes villes de Indonésie ralentit-elle sensiblement pendant les heures de pointe du soir ?"
+    a: "Dans les grandes métropoles comme Jakarta et Surabaya, une légère baisse de débit peut être observée entre 18h et 22h en raison de la forte affluence. Cependant, Telkomsel et XL gèrent bien cette charge grâce à leurs infrastructures modernes. Les tests Speedtest montrent que le débit reste largement suffisant pour le streaming HD et les appels vidéo, même en soirée."
 
-  - q: "When does the validity period and billing of my Indonesien eSIM data package start?"
-    a: "The validity period and billing of your Indonesien eSIM data package start from the moment you first connect to a local network in Indonesia (activation). Some plans allow you to choose a specific start date. Always check the terms of your specific plan to avoid early expiration."
+  - q: "Pour les forfaits illimités en Indonésie, existe-t-il une politique d'utilisation équitable stricte (FUP) ou un ralentissement de la bande passante ?"
+    a: "Oui, la plupart des opérateurs locaux imposent une FUP. Par exemple, après 1 à 3 Go de données par jour, le débit peut être réduit à 1 Mbps. Avec Roami, nos forfaits eSIM sont sans FUP : vous bénéficiez d'un débit constant et élevé pendant toute la durée de votre forfait, sans surprise."
 
-  - q: "Is there a specific data usage threshold (e.g., after 2 GB per day) after which the speed of the Indonesien eSIM is reduced?"
-    a: "Yes, many prepaid eSIM plans include a Fair Usage Policy (FUP). For example, after exceeding 2 GB of daily data usage, speeds may be throttled to 256 kbps or 1 Mbps. Always review the plan details before purchasing. Roami's premium plans often offer higher thresholds or unlimited data at reduced speeds after FUP."
+  - q: "Combien de temps après le paiement réussi faut-il pour recevoir le code QR de l'eSIM Indonésie ?"
+    a: "Le code QR est envoyé instantanément par email après confirmation de votre paiement. En général, vous le recevez en moins de 5 minutes. Si vous ne le voyez pas dans votre boîte de réception, vérifiez vos spams. Vous pouvez aussi le télécharger directement depuis votre compte Roami. L'activation est immédiate dès l'arrivée."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Indonesien eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Indonésie"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "All eSIMs in Indonesia use the same network and offer identical speeds."
-    truth: "False. Different eSIM providers partner with different local operators. Telkomsel is the fastest (Speed Score 42.93), while XL excels in video streaming (88.67) and consistency (87.2%). Choose based on your needs."
+  - myth: "Tous les opérateurs indonésiens offrent la même qualité de réseau."
+    truth: "Faux. Telkomsel est clairement le leader avec un débit descendant médian de 32,11 Mbps, contre 27,66 Mbps pour XL et 26,7 Mbps pour IM3 Ooredoo. Telkomsel domine également en 5G avec 74,09 Mbps."
 
-  - myth: "5G is widely available across all of Indonesia."
-    truth: "Not yet. 5G availability is still limited. Telkomsel leads with only 3.5% of users accessing 5G most of the time. 4G remains the dominant technology, especially outside major cities."
+  - myth: "La 5G est disponible partout en Indonésie."
+    truth: "Non. La disponibilité 5G est encore limitée : seulement 3,5% des utilisateurs de Telkomsel accèdent à la 5G la plupart du temps. La 4G reste le réseau dominant, surtout en dehors des grandes villes."
 
-  - myth: "You need to register your IMEI at the airport upon arrival."
-    truth: "While IMEI registration is required, Roami handles this automatically during the eSIM activation process. You do not need to visit a counter at the airport."
+  - myth: "Bali a le réseau le plus lent car c'est une île touristique."
+    truth: "Au contraire, Bali est la région la plus performante d'Indonésie avec un débit médian de 43,65 Mbps, bien au-dessus de la moyenne nationale. Les infrastructures y sont excellentes."
 
-  - myth: "eSIMs are more expensive than physical SIM cards in Indonesia."
-    truth: "eSIMs can be very competitive, especially for short stays. They eliminate roaming fees and offer instant activation. For travelers, the convenience often outweighs any minor price difference."
+  - myth: "Les eSIM sont moins fiables que les cartes SIM physiques."
+    truth: "Faux. Les eSIM Roami utilisent les mêmes réseaux physiques (Telkomsel, XL) que les cartes SIM locales. La fiabilité est identique, avec l'avantage supplémentaire de ne pas avoir à changer de carte."
 
-  - myth: "You cannot use an eSIM if your phone is locked to a carrier."
-    truth: "True — your phone must be unlocked to use any local eSIM. Check with your home carrier before purchasing. Most modern smartphones sold directly by manufacturers are unlocked."
+  - myth: "Il est obligatoire d'enregistrer son passeport pour utiliser une eSIM en Indonésie."
+    truth: "Non. Les eSIM Roami contournent l'obligation d'enregistrement KYC imposée aux cartes SIM physiques. Vous êtes connecté immédiatement sans aucune formalité administrative."
 
 
 # Data sources
-data_sources_title: "Indonesien mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Indonésie"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024)"
-    description: "Ookla's Speedtest Intelligence report for Indonesia, 2H 2024. Provides data on mobile network speeds, 5G performance, video streaming, gaming, and consistency for Telkomsel, XL, and IM3 Ooredoo."
+  - name: "Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024)"
+    description: "Analyse des performances réseau en Indonésie basée sur Speedtest Intelligence® pour le second semestre 2024. Données incluant les vitesses de téléchargement, téléversement, latence, scores de jeu et de vidéo."
 
   - name: "OpenSignal 2024"
-    description: "OpenSignal's Indonesia Mobile Network Experience Report (2024). Offers insights on 4G/5G availability, download speeds, and user experience across different operators."
+    description: "Rapport sur l'expérience mobile en Indonésie, couvrant la disponibilité 4G/5G, les vitesses et la couverture globale des opérateurs."
 
-  - name: "Ministry of Communication and Informatics (Kominfo) 2024"
-    description: "Official data from Indonesia's national telecom regulator on spectrum allocation, coverage obligations, and network quality benchmarks for all licensed operators."
+  - name: "Kominfo (Ministère indonésien des Communications) 2024"
+    description: "Données officielles du régulateur indonésien sur la couverture réseau, les fréquences attribuées et les obligations de service universel."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports (Ookla, OpenSignal) and official statements from the Indonesian Ministry of Communication and Informatics. Speed and coverage may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device, time of day, and network congestion. The data presented reflects average performance during the reported period."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public (Ookla, OpenSignal, Kominfo) et sont données à titre indicatif. Les performances réelles peuvent varier selon votre emplacement, votre appareil et les conditions du réseau."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de votre emplacement, de l'heure de la journée, de votre appareil et des conditions météorologiques. Les données présentées sont des moyennes et ne garantissent pas une expérience individuelle."
 
 # CTA product card
-cta_title: "Secure your Indonesien eSIM today"
-cta_desc: "Get immediate access to the fastest 5G network in Indonesia. No roaming fees, instant activation, and 24/7 support. Stay connected from the moment you land."
-cta_button_text: "Buy Indonesien eSIM now"
+cta_title: "Obtenez votre eSIM Indonésie dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat aux meilleurs réseaux indonésiens (Telkomsel, XL) sans frais d'itinérance. Activation instantanée par QR code, forfaits sans FUP, et assistance client 24/7."
+cta_button_text: "Acheter l'eSIM Indonésie maintenant"
 cta_button_link: "/indonesia-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Indonesien trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Indonésie gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Indonesien eSIM: Premium choice for 5G travel networks
+# Indonésie eSIM: Haute compatibilité et sans souci
 
-> **💡 Short summary for travelers:** Say farewell to exorbitant roaming fees: enter the era of global, free connectivity. With Roami's Indonesien eSIM, you tap into the fastest mobile network in the country — Telkomsel, which achieved a Speed Score of 42.93 and a median download speed of 32.11 Mbps in 2H 2024. Whether you're streaming video (XL leads 5G video with a score of 88.67) or gaming (Telkomsel scores 79.55 for 5G gaming), you get premium performance without the bill shock. Activate instantly and stay connected across Bali, Jakarta, and beyond.
+> **💡 Résumé rapide pour les voyageurs :** Pas de coupures de connexion en voyage d'affaires : forfaits eSIM économiques pour la mobilité mondiale. Selon les données Speedtest du second semestre 2024, Telkomsel domine le marché avec un débit descendant médian de 32,11 Mbps et un score de vitesse de 42,93. Pour la 5G, Telkomsel atteint 74,09 Mbps en téléchargement. XL offre la meilleure expérience vidéo 5G (score 88,67). Avec Roami, vous accédez à ces réseaux de pointe sans frais d'itinérance, idéal pour les professionnels en déplacement à Bali, Jakarta ou Surabaya.
 
-## Things you need to know before buying a Indonesien eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Indonésie
 
 
-### 1. Main 5G/4G frequency bands in Indonesia {#1-main-5g4g-frequency-bands-in-indonesia}
-Indonesia's 5G networks primarily operate on the n40 (2300 MHz) and n78 (3500 MHz) bands. 4G LTE uses bands 1 (2100 MHz), 3 (1800 MHz), 5 (850 MHz), 8 (900 MHz), and 40 (2300 MHz). Ensure your smartphone supports these bands for optimal connectivity.
+### 1. Principales bandes 4G/5G utilisées en Indonésie {#1-principales-bandes-4g5g-utilisées-en-indonésie}
+Les opérateurs indonésiens utilisent principalement les bandes 4G LTE B3 (1800 MHz), B8 (900 MHz) et B40 (2300 MHz). Pour la 5G, les bandes n40 (2300 MHz) et n78 (3500 MHz) sont déployées. Assurez-vous que votre smartphone est compatible avec ces fréquences pour une expérience optimale.
 
-### 2. KYC (Know Your Customer) requirements {#2-kyc-know-your-customer-requirements}
-All eSIM activations in Indonesia require valid identification. For foreign travelers, a passport is mandatory. The IMEI of your device must be registered with the local authorities. Roami handles this process seamlessly, but you must provide accurate personal details during purchase.
+### 2. Enregistrement obligatoire (KYC) pour les cartes SIM locales {#2-enregistrement-obligatoire-kyc-pour-les-cartes-sim-locales}
+Depuis 2018, toute carte SIM physique en Indonésie doit être enregistrée avec un numéro d'identification national (NIK) pour les Indonésiens ou un passeport pour les étrangers. Les eSIM Roami contournent cette obligation : vous êtes connecté dès l'achat, sans formalité administrative.
 
-### 3. Fair Usage Policy (FUP) and data caps {#3-fair-usage-policy-fup-and-data-caps}
-Most prepaid eSIM plans include a Fair Usage Policy. After exceeding a certain daily or monthly data threshold (e.g., 2 GB per day), speeds may be throttled to 256 kbps or 1 Mbps. Always check the specific plan details before purchasing.
+### 3. Politique d'utilisation équitable (FUP) et limitation de débit {#3-politique-dutilisation-équitable-fup-et-limitation-de-débit}
+Les forfaits dits 'illimités' en Indonésie sont souvent soumis à une FUP. Après un certain volume de données (généralement 1 à 3 Go par jour), le débit est réduit à 1 Mbps ou moins. Roami propose des forfaits sans FUP pour une navigation constante à pleine vitesse.
 
-### 4. Validity period and activation {#4-validity-period-and-activation}
-The validity period starts from the moment you activate the eSIM (usually upon first connection to the local network). Some plans offer flexible start dates. Ensure you activate within the specified window after purchase to avoid expiration.
+### 4. Couverture réseau dans les zones rurales et les îles éloignées {#4-couverture-réseau-dans-les-zones-rurales-et-les-îles-éloignées}
+Si les grandes villes (Jakarta, Surabaya, Bandung) et Bali bénéficient d'une excellente couverture 4G/5G, les zones rurales et les petites îles (comme les Moluques ou Papouasie) peuvent avoir une couverture limitée. Telkomsel reste l'opérateur avec la meilleure couverture nationale.
 
-### 5. Device compatibility and eSIM support {#5-device-compatibility-and-esim-support}
-eSIM is supported on most modern smartphones, including iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many others. Check your device's IMEI for <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing.
+### 5. Durée de validité et recharge des forfaits eSIM {#5-durée-de-validité-et-recharge-des-forfaits-esim}
+Les forfaits eSIM Roami pour l'Indonésie sont valables de 7 à 30 jours selon l'offre choisie. La recharge est possible en ligne via votre compte Roami. Attention : les forfaits ne sont pas cumulables, il faut attendre la fin de validité pour en souscrire un nouveau.

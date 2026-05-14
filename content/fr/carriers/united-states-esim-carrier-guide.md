@@ -1,65 +1,65 @@
 ---
-title: "USA eSIM: Nationwide high-speed data coverage"
-description: "Experience fast internet in USA with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:44:08+00:00"
-keywords: "eSIM USA, prepaid data, 5G network, T-Mobile, Verizon, AT&T, travel eSIM, unlimited data USA"
+title: "États-Unis eSIM: Activation instantanée sans temps d'attente"
+description: "Profitez d'Internet rapide en États-Unis avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:19:02+00:00"
+keywords: "eSIM États-Unis, données prépayées, réseau 5G, T-Mobile, Verizon, AT&T, voyage États-Unis, couverture mobile, débit 5G"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "USA eSIM Guide"
+  - name: "Guide eSIM États-Unis"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] USA Travel eSIM Latest Guide"
-hero_subtitle_main: "USA eSIM: Nationwide high-speed data coverage"
-hero_subtitle_highlight: "Premium 5G network coverage by T-Mobile, Verizon, and AT&T"
-hero_description_line1: "No SIM slot swapping required. The digital activation of the USA eSIM provides a more convenient way to maintain a stable high‑speed connection in USA."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "USA eSIM"
+hero_badge: "🇺🇸 Guide actuel de l'eSIM de voyage États-Unis"
+hero_subtitle_main: "États-Unis eSIM: Activation instantanée sans temps d'attente"
+hero_subtitle_highlight: "Couverture réseau 5G premium via T-Mobile, Verizon et AT&T"
+hero_description_line1: "Remplacez les forfaits d'itinérance traditionnels par une eSIM États-Unis pour économiser sur les coûts de communication. Compatible avec plusieurs appareils, elle répond aux besoins Internet de tous les types de voyageurs."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM États-Unis"
 hero_link_url: "/united-states-esim/"
-tldr_summary: "【Unlimited 5G data: more efficient use by sharing across multiple devices】. With Roami's USA eSIM, you tap into T-Mobile's award-winning network, which recorded a median download speed of 259.48 Mbps and a 5G median of 309.41 Mbps in 2H 2025 (Ookla). Share your connection across phones, tablets, and laptops without throttling. Perfect for digital nomads and families who need reliable, high-speed internet everywhere from New York to national parks."
+tldr_summary: "Données 5G illimitées : utilisation plus efficace grâce au partage pour plusieurs appareils. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025), T-Mobile domine le marché avec un débit médian de 259,48 Mbps et une disponibilité 5G de 91,2 %. Avec Roami eSIM, vous accédez au meilleur réseau américain sans engagement, idéal pour les nomades numériques et les voyageurs."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "USA eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "États-Unis eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which USA eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM États-Unis choisir ?"
 
   - href: "#operators"
-    text: "Top USA eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM États-Unis"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for USA"
+    text: "Guide des villes : La meilleure eSIM pour États-Unis"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a USA eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM États-Unis"
 
   - href: "#faq"
-    text: "Frequently asked questions about USA eSIM"
+    text: "Questions fréquentes sur l'eSIM États-Unis"
 
   - href: "#myths"
-    text: "Myths and facts about USA eSIM"
+    text: "Mythes et faits sur l'eSIM États-Unis"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which USA eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM États-Unis devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "T-Mobile"
     carrier_class: "text-magenta-600"
-    reason: "Best overall mobile network with 259.48 Mbps median download and 91.2% 5G availability. Ideal for remote work and video calls."
+    reason: "Meilleur réseau mobile global avec un débit médian de 259,48 Mbps et une disponibilité 5G de 91,2 %. Idéal pour le travail à distance."
 
-  - travel: "City explorers"
+  - travel: "Voyageurs en zone rurale"
     carrier: "Verizon"
     carrier_class: "text-red-600"
-    reason: "Best mobile coverage (30.0% geographic score) and top 5G video streaming score (3.73/5). Reliable in dense urban areas."
+    reason: "Meilleure couverture géographique (score de couverture 30,0 %). Parfait pour les road trips hors des grandes villes."
 
-  - travel: "Rural & road trippers"
-    carrier: "AT&T"
+  - travel: "Utilisateurs de fibre à domicile"
+    carrier: "AT&T Fiber"
     carrier_class: "text-blue-600"
-    reason: "AT&T Fiber is the fastest fixed ISP (369.39 Mbps download). Mobile network strong in suburban and rural corridors."
+    reason: "Meilleur FAI fixe avec un débit médian de 369,39 Mbps. Recommandé pour les séjours prolongés."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective USA travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage États-Unis la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "t-mobile-esim"
-    title: "T-Mobile eSIM Review: Best overall 5G performance"
-    best_for: "This plan is the absolute top choice for travelers who demand the fastest speeds and widest 5G availability across the USA."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025), T-Mobile recorded 91.2% 5G availability, meaning most users are on 5G most of the time.\n- **Median download speed**: 259.48 Mbps (all technologies), 309.41 Mbps (5G).\n- **Median upload speed**: 12.26 Mbps (all), 13.57 Mbps (5G).\n- **Latency**: 46 ms (all), 44 ms (5G).\n- **Consistency**: 87.9% of samples met 5 Mbps down / 1 Mbps up threshold.\n- **Connectivity Score**: 81.52 overall, 74.74 for 5G."
-    arcep_note: "Confirmed by the FCC's annual mobile benchmark report, T-Mobile leads in 5G deployment and spectrum efficiency."
-    connect_note: "Activation works seamlessly with Roami eSIM – just scan the QR code upon arrival. T-Mobile's network auto-connects in major airports and cities."
-    user_scenarios: "- **New York City subway**: T-Mobile's 5G now reaches many underground stations, allowing seamless streaming during commutes.\n- **Grand Canyon National Park**: T-Mobile has expanded 5G coverage to key visitor centers and viewpoints, so you can share live updates.\n- **Route 66 road trip**: Consistent 5G along major highways between Chicago and Santa Monica, with median speeds above 200 Mbps."
+    title: "Test eSIM T-Mobile : Meilleure performance 5G"
+    best_for: "Ce forfait est le meilleur choix absolu pour les utilisateurs exigeants en débit et en disponibilité 5G."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025), le taux de disponibilité 5G est de 91,2 %.\n- **Débit descendant médian** : 259,48 Mbps (toutes technologies) et 309,41 Mbps (5G).\n- **Débit montant médian** : 12,26 Mbps (toutes technologies) et 13,57 Mbps (5G).\n- **Latence** : 46 ms (toutes technologies) et 44 ms (5G).\n- **Score de connectivité** : 81,52 (global) et 74,74 (5G).\n- **Consistance** : 87,9 % des échantillons ≥ 5 Mbps descendant / 1 Mbps montant."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (FCC) et les rapports Speedtest Intelligence® 2H 2025."
+    connect_note: "L'activation se déroule sans problème via QR code. Compatible avec la plupart des smartphones récents."
+    user_scenarios: "- **Times Square (New York)** : Téléchargez des vidéos 4K en streaming sans mise en mémoire tampon, même aux heures de pointe.\n- **Parc national de Yellowstone** : Restez connecté dans les zones les plus reculées grâce à la couverture étendue de T-Mobile.\n- **Aéroport de Los Angeles (LAX)** : Profitez d'une connexion stable pour vos appels vidéo et téléchargements avant l'embarquement."
     bg_color: "bg-magenta-50"
 
   - id: "verizon-esim"
-    title: "Verizon eSIM Review: Best coverage and video streaming"
-    best_for: "This plan is ideal for travelers who prioritize wide geographic coverage and smooth video streaming on platforms like YouTube and Netflix."
-    core_data: "- **Coverage Score**: 30.0% (best geographic coverage in the USA).\n- **5G Video Streaming Score**: 3.73/5 (top rated).\n- **Median download speed**: 130.64 Mbps (all technologies), 214.17 Mbps (5G).\n- **Median upload speed**: Not specified in report, but competitive.\n- **Latency**: Not specified, but generally low in urban areas.\n- **Consistency**: Not specified, but strong in metro regions."
-    arcep_note: "FCC coverage maps confirm Verizon's extensive rural and highway coverage, especially in the Midwest and Southwest."
-    connect_note: "Roami eSIM activates instantly on Verizon's network. Recommended for travelers visiting national parks and remote areas where coverage is critical."
-    user_scenarios: "- **Yellowstone National Park**: Verizon provides the most reliable signal at Old Faithful and Mammoth Hot Springs.\n- **Los Angeles to Las Vegas drive**: Consistent 5G along I-15, with strong signal at rest stops.\n- **Miami Beach**: Excellent 5G speeds for uploading vacation photos and video calls."
+    title: "Test eSIM Verizon : Meilleure couverture géographique"
+    best_for: "Ce forfait est le meilleur choix absolu pour les voyageurs qui explorent les zones rurales et les parcs nationaux."
+    core_data: "- **Couverture géographique** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025), Verizon a le meilleur score de couverture avec 30,0 %.\n- **Débit descendant médian** : 130,64 Mbps (toutes technologies) et 214,17 Mbps (5G).\n- **Débit montant médian** : Données non spécifiées dans le rapport, mais compétitif.\n- **Latence** : Données non spécifiées, mais généralement faible.\n- **Score de streaming vidéo 5G** : 3,73/5 (meilleure expérience de streaming vidéo 5G)."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (FCC) et les rapports Speedtest Intelligence® 2H 2025."
+    connect_note: "L'activation se déroule sans problème via QR code. Offre une excellente couverture dans les zones moins densément peuplées."
+    user_scenarios: "- **Route 66** : Naviguez sans interruption sur l'une des routes les plus emblématiques des États-Unis.\n- **Parc national du Grand Canyon** : Partagez vos photos et vidéos en temps réel depuis les points de vue les plus isolés.\n- **Montagnes Rocheuses (Colorado)** : Restez joignable lors de vos randonnées en haute altitude."
     bg_color: "bg-red-50"
 
-  - id: "att-esim"
-    title: "AT&T eSIM Review: Best fixed broadband alternative"
-    best_for: "This plan is perfect for travelers who need a reliable backup connection or are staying in areas with strong AT&T infrastructure."
-    core_data: "- **Fixed ISP median download**: 369.39 Mbps (AT&T Fiber).\n- **Fixed ISP median upload**: 309.28 Mbps.\n- **Mobile network**: Not explicitly ranked in the report, but AT&T is a strong competitor with extensive LTE/5G coverage.\n- **Gaming experience**: Frontier Fiber ranked best among ISPs; AT&T Fiber is best overall ISP.\n- **Consistency**: Not specified, but generally reliable in suburban and urban areas."
-    arcep_note: "FCC data shows AT&T has invested heavily in fiber backhaul, improving mobile speeds in many cities."
-    connect_note: "Roami eSIM supports AT&T's network. Ideal for long-term stays where you might tether to a laptop for work."
-    user_scenarios: "- **San Antonio**: Fastest fixed download speed among US cities (365.08 Mbps). Great for digital nomads.\n- **Pittsburgh**: Fastest mobile download speed (362.61 Mbps). AT&T performs well here.\n- **Chicago**: Strong AT&T presence in the Loop and O'Hare Airport."
+  - id: "att-fiber-esim"
+    title: "Test eSIM AT&T Fiber : Meilleur FAI fixe"
+    best_for: "Ce forfait est le meilleur choix absolu pour les utilisateurs ayant besoin d'une connexion fixe ultra-rapide à domicile ou au bureau."
+    core_data: "- **Débit descendant médian** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025), AT&T Fiber enregistre 369,39 Mbps.\n- **Débit montant médian** : 309,28 Mbps.\n- **Type** : Fibre optique (FTTH).\n- **Performance** : Meilleur FAI fixe aux États-Unis pour la période 2H 2025."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (FCC) et les rapports Speedtest Intelligence® 2H 2025."
+    connect_note: "L'activation se déroule sans problème via QR code. Idéal pour les télétravailleurs et les familles nombreuses."
+    user_scenarios: "- **San Antonio (Texas)** : Bénéficiez du débit fixe le plus rapide des grandes villes (365,08 Mbps médian).\n- **Pittsburgh (Pennsylvanie)** : Profitez d'une connexion mobile record (362,61 Mbps médian) en complément de la fibre.\n- **Bureau à domicile à Los Angeles** : Téléchargez et uploadez des fichiers volumineux sans latence."
     bg_color: "bg-blue-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the USA eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports USA eSIM and local 5G bands"
-cards_free_title: "Get your free USA eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM États-Unis"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM États-Unis et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM États-Unis gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a USA eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM États-Unis"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands used in the USA"
-    content: "USA carriers use a mix of low-band (600 MHz, 700 MHz), mid-band (2.5 GHz, 3.5 GHz), and mmWave (24-39 GHz) for 5G. T-Mobile leads with mid-band 2.5 GHz (n41) for broad coverage and speed. Verizon uses mmWave (n260/n261) in dense cities and low-band (n5) for rural. AT&T uses mid-band (n77) and mmWave. Ensure your device supports these bands for optimal performance."
+  - heading: "1. Bandes 5G/4G principales aux États-Unis"
+    content: "Les opérateurs américains utilisent principalement les bandes 5G suivantes : n71 (600 MHz) pour la couverture étendue, n41 (2,5 GHz) pour l'équilibre vitesse/couverture, et n260/n261 (mmWave 39 GHz) pour les débits ultra-rapides en zones denses. En 4G LTE, les bandes principales sont B2 (1900 MHz), B4 (1700/2100 MHz AWS), B5 (850 MHz), B12 (700 MHz) et B13 (700 MHz). Assurez-vous que votre appareil prend en charge ces bandes pour une <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> optimale."
 
-  - heading: "2. KYC (Know Your Customer) requirements"
-    content: "To activate a USA eSIM, you typically need to provide a valid passport or government-issued ID. Some providers may require a US address or proof of travel. Roami simplifies this by only requiring your email and payment – no complex KYC steps."
+  - heading: "2. Exigence KYC (Know Your Customer) pour l'activation"
+    content: "Aux États-Unis, l'activation d'une eSIM prépayée ne nécessite généralement pas de vérification d'identité poussée (KYC) pour les forfaits data uniquement. Cependant, certains opérateurs peuvent demander une adresse e-mail valide et un numéro de téléphone de contact. Pour les forfaits avec voix/SMS, une pièce d'identité peut être requise. Avec Roami, l'activation est instantanée et sans paperasse."
 
-  - heading: "3. Fair Usage Policy (FUP) and data throttling"
-    content: "Most unlimited data plans have a FUP threshold (e.g., 50 GB per month). After exceeding this, speeds may be throttled to 128 kbps – 1 Mbps. Roami's USA eSIM offers truly unlimited data with no throttling, based on T-Mobile's network, which has 91.2% 5G availability."
+  - heading: "3. Politique d'utilisation équitable (FUP) et limitation de débit"
+    content: "La plupart des forfaits « illimités » aux États-Unis appliquent une politique d'utilisation équitable (FUP). Après un certain seuil de données (souvent 50 Go à 100 Go par mois), le débit peut être réduit, surtout en période de congestion. T-Mobile, par exemple, peut prioriser les utilisateurs ayant consommé plus de 50 Go. Vérifiez les conditions de votre forfait pour éviter les mauvaises surprises."
 
-  - heading: "4. eSIM compatibility and device support"
-    content: "eSIM is supported on iPhone XR and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many other devices. Check your phone's IMEI for <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing. Roami provides a free <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> check on their website."
+  - heading: "4. Compatibilité des appareils avec les réseaux américains"
+    content: "Tous les smartphones récents (iPhone 12 et ultérieur, Samsung Galaxy S20 et ultérieur, Google Pixel 5 et ultérieur) sont compatibles avec les réseaux 5G américains. Cependant, les appareils chinois (Xiaomi, Huawei, Oppo) peuvent ne pas prendre en charge toutes les bandes 5G américaines, notamment le mmWave. Vérifiez les spécifications de votre téléphone avant d'acheter une eSIM."
 
-  - heading: "5. Network switching and roaming restrictions"
-    content: "Some eSIM providers lock you to one carrier. Roami's USA eSIM automatically connects to the best available network (T-Mobile, Verizon, or AT&T) based on signal strength. No manual switching required. Domestic roaming is included, so you stay connected even in rural areas."
+  - heading: "5. Restrictions de partage de connexion (tethering)"
+    content: "Certains forfaits eSIM limitent ou facturent le partage de connexion (tethering). Par exemple, les forfaits « illimités » de T-Mobile incluent généralement 5 Go de données en partage à haut débit, puis réduisent le débit à 3G. Vérifiez les conditions de votre forfait Roami pour savoir si le partage est inclus et s'il y a des limites."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for USA"
-city_guide_desc: "Find out which USA eSIM is the best choice for your destination city based on real network performance data from Ookla and local tests."
+city_guide_title: "Guide des villes : La meilleure eSIM pour États-Unis"
+city_guide_desc: "Découvrez quelle eSIM États-Unis est le meilleur choix pour votre ville de destination, en fonction des performances réseau locales."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
-  - city: "New York City"
+  - city: "Pittsburgh"
     carriers: "T-Mobile"
-    reason: "T-Mobile's 5G availability is 91.2% and median download speed is 259.48 Mbps. In NYC, T-Mobile leads in subway coverage and midtown Manhattan speeds. Ideal for tourists and business travelers."
+    reason: "Pittsburgh a enregistré la vitesse mobile médiane la plus rapide des grandes villes américaines avec 362,61 Mbps. T-Mobile y offre des performances exceptionnelles, idéales pour les professionnels et les gamers."
+
+  - city: "San Antonio"
+    carriers: "AT&T Fiber"
+    reason: "San Antonio détient le record de vitesse fixe médiane avec 365,08 Mbps. AT&T Fiber y est le meilleur choix pour les résidents et les voyageurs en séjour prolongé."
+
+  - city: "New York"
+    carriers: "T-Mobile"
+    reason: "Avec une densité de population élevée, T-Mobile offre la meilleure disponibilité 5G (91,2 %) et des débits stables même aux heures de pointe. Parfait pour les touristes et les navetteurs."
 
   - city: "Los Angeles"
     carriers: "Verizon"
-    reason: "Verizon's coverage score of 30.0% ensures strong signal across LA's sprawling suburbs and beaches. Excellent for streaming and navigation from Santa Monica to Hollywood."
+    reason: "Verizon offre la meilleure couverture géographique (30,0 %), ce qui est crucial dans une ville étendue comme Los Angeles. Idéal pour les déplacements entre les quartiers et les plages."
 
   - city: "Chicago"
-    carriers: "AT&T"
-    reason: "AT&T Fiber is the best fixed ISP (369.39 Mbps download). In Chicago, AT&T's mobile network is robust in the Loop and O'Hare. Good for long-term stays and tethering."
-
-  - city: "San Antonio"
-    carriers: "AT&T"
-    reason: "San Antonio recorded the fastest fixed download speed (365.08 Mbps) among US cities. AT&T's network is top-notch here, perfect for digital nomads needing reliable home-office speeds."
-
-  - city: "Pittsburgh"
     carriers: "T-Mobile"
-    reason: "Pittsburgh has the fastest mobile download speed (362.61 Mbps) in the US. T-Mobile's network excels here, making it ideal for heavy data users and gamers."
+    reason: "T-Mobile domine le marché avec des débits 5G élevés (309,41 Mbps médian) et une faible latence (44 ms). Recommandé pour les utilisateurs intensifs de données en milieu urbain."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best USA eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM États-Unis selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Visit museums, skyscrapers, and historic sites. With T-Mobile's 5G (309.41 Mbps median), you can stream guided tours, upload photos instantly, and navigate public transit without lag."
+    title: "Découvreur de villes"
+    text: "Explorez les musées, les monuments et les quartiers animés de New York, Washington D.C. ou San Francisco. Avec T-Mobile, bénéficiez d'une connexion 5G ultra-rapide pour les cartes, les avis et les réseaux sociaux."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Explore national parks like Yellowstone or Grand Canyon. Verizon's 30.0% coverage score ensures you stay connected even in remote areas. Share live streams of wildlife and trails."
+    title: "Amoureux de la nature"
+    text: "Partez en randonnée dans les parcs nationaux comme Yellowstone, Yosemite ou le Grand Canyon. Verizon offre la meilleure couverture géographique pour rester connecté même dans les zones reculées."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive Route 66 or the Pacific Coast Highway. T-Mobile's 91.2% 5G availability means consistent speeds for music streaming, GPS rerouting, and finding gas stations."
+    title: "Roadtrippeur"
+    text: "Parcourez la Route 66 ou la côte californienne en toute sérénité. T-Mobile et Verizon assurent une couverture continue le long des grands axes routiers. Partagez votre voyage en direct sans interruption."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on Miami Beach or Santa Monica. Verizon's top 5G video streaming score (3.73/5) ensures smooth Netflix and YouTube even during peak hours."
+    title: "Vacancier à la plage"
+    text: "Profitez des plages de Miami, de Los Angeles ou d'Hawaï. Avec une eSIM Roami, téléchargez vos photos de vacances et restez en contact avec vos proches sans frais d'itinérance."
 
-scene_guide_footer: "💡 The Roami USA eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami États-Unis détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about USA eSIM"
+faq_title: "Questions fréquentes sur l'eSIM États-Unis"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Does network coverage include major transport hubs like airports, high‑speed trains, and subways in USA?"
-    a: "Yes. T-Mobile has expanded 5G to many subway stations in NYC, Chicago, and Washington D.C. Major airports (JFK, LAX, O'Hare) have strong 5G coverage from all three carriers. Amtrak trains offer free Wi-Fi, but cellular coverage is generally good along the Northeast Corridor. Roami's eSIM automatically connects to the strongest carrier, ensuring seamless connectivity in transit hubs."
+  - q: "Les fonctions d'appel et de SMS traditionnels sont-elles incluses dans ce forfait de données États-Unis ?"
+    a: "Non, les forfaits eSIM de données Roami pour les États-Unis sont exclusivement dédiés aux données mobiles. Ils ne prennent pas en charge les appels vocaux traditionnels ni les SMS. Cependant, vous pouvez utiliser des applications de communication comme WhatsApp, Skype, FaceTime ou Google Voice pour passer des appels et envoyer des messages via Internet. Cette approche vous permet de bénéficier de tarifs très compétitifs tout en restant joignable."
 
-  - q: "Which local network operator provides the strongest and most reliable coverage in the most famous national parks and cities of USA?"
-    a: "Verizon has the best geographic coverage (30.0% coverage score), making it the most reliable in national parks like Yellowstone, Grand Canyon, and Yosemite. For cities, T-Mobile leads with the fastest median download speed (259.48 Mbps) and highest 5G availability (91.2%). AT&T is strong in suburban and rural corridors. Roami's eSIM uses all three networks, so you get the best of each."
+  - q: "Y a-t-il une limite du nombre d'appareils connectés lors du partage de connexion de l'eSIM États-Unis ?"
+    a: "La plupart des forfaits eSIM Roami pour les États-Unis autorisent le partage de connexion (tethering) sans limite stricte du nombre d'appareils. Cependant, veuillez noter que le débit est partagé entre tous les appareils connectés. Pour une expérience optimale, nous recommandons de limiter le partage à 3 à 5 appareils simultanément. Certains forfaits peuvent appliquer une politique d'utilisation équitable (FUP) après un certain volume de données partagées. Consultez les détails de votre forfait pour plus d'informations."
 
-  - q: "Are traditional voice call and SMS functions included in this USA data plan?"
-    a: "Roami's USA eSIM is data-only, meaning it does not include a traditional phone number for voice calls or SMS. However, you can use VoIP apps like WhatsApp, Skype, or Google Voice for calls and texts. For emergency calls, US law requires all carriers to connect 911 even without a SIM, but it's best to have a backup method. If you need a US number, consider a separate VoIP service."
+  - q: "L'eSIM en États-Unis prend-elle en charge les réseaux 4G et 5G sur tout le territoire ?"
+    a: "Oui, les eSIM Roami pour les États-Unis sont compatibles avec les réseaux 4G LTE et 5G des principaux opérateurs (T-Mobile, Verizon, AT&T). La couverture 5G est excellente dans les grandes villes et le long des axes principaux, avec une disponibilité de 91,2 % pour T-Mobile. Dans les zones rurales ou montagneuses, la couverture 4G LTE reste très bonne, notamment grâce à Verizon qui offre la meilleure couverture géographique (30,0 %). Vous serez donc connecté dans la quasi-totalité du territoire."
 
-  - q: "How do I check whether my specific destinations in USA are reliably covered by eSIM networks?"
-    a: "You can use the official coverage maps from T-Mobile, Verizon, and AT&T. Ookla's Speedtest Map also shows real-world speeds by location. Roami provides a coverage checker on their website where you enter your destinations. For national parks, check the park's website for cellular coverage notes. Generally, Verizon has the widest rural coverage, while T-Mobile excels in urban areas."
+  - q: "Pour les forfaits illimités en États-Unis, existe-t-il une politique d'utilisation équitable stricte (FUP) ou un ralentissement de la bande passante ?"
+    a: "Oui, comme pour la plupart des opérateurs américains, les forfaits dits « illimités » appliquent une politique d'utilisation équitable (FUP). Après avoir consommé un certain volume de données à haut débit (généralement entre 50 Go et 100 Go par mois), votre débit peut être réduit en cas de congestion du réseau. Par exemple, T-Mobile peut prioriser les utilisateurs ayant dépassé 50 Go. Roami s'efforce de minimiser ces limitations, mais il est important de vérifier les conditions spécifiques de votre forfait avant l'achat."
 
-  - q: "Is the connection in USA stable enough to stream HD videos on platforms like YouTube or Netflix smoothly?"
-    a: "Absolutely. T-Mobile's median 5G download speed is 309.41 Mbps, which is more than enough for 4K streaming. Verizon scored 3.73/5 for 5G video streaming, indicating excellent performance. Even on 4G, median speeds are above 130 Mbps. Roami's eSIM prioritizes data traffic, so you can stream HD content without buffering, even during peak hours."
+  - q: "La vitesse du réseau dans les grandes villes de États-Unis ralentit-elle sensiblement pendant les heures de pointe du soir ?"
+    a: "Dans les grandes villes comme New York, Los Angeles ou Chicago, il est possible de constater une légère baisse de débit aux heures de pointe (18h-22h) en raison de la forte affluence d'utilisateurs. Cependant, grâce à la robustesse des réseaux 5G américains, notamment celui de T-Mobile qui affiche une latence de seulement 44 ms en 5G, cette baisse est généralement modérée et n'affecte pas significativement la navigation, le streaming ou les appels vidéo. Les utilisateurs de Roami peuvent donc profiter d'une expérience fluide même en soirée."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the USA eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM États-Unis"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "All US carriers have the same 5G coverage."
-    truth: "False. T-Mobile has 91.2% 5G availability, while Verizon and AT&T have lower percentages. T-Mobile leads in speed (309.41 Mbps 5G median), but Verizon leads in geographic coverage (30.0% coverage score). Each carrier excels in different areas."
+  - myth: "Aux États-Unis, le réseau 5G est disponible partout, même en pleine nature."
+    truth: "Faux. Bien que T-Mobile offre une disponibilité 5G de 91,2 %, la couverture n'est pas universelle. Dans les parcs nationaux et les zones très reculées, le réseau 4G LTE reste prédominant. Verizon est le meilleur choix pour ces zones avec un score de couverture de 30,0 %."
 
-  - myth: "eSIMs are slower than physical SIMs."
-    truth: "No. eSIM technology is identical to physical SIMs in terms of speed. The network performance depends on the carrier, not the SIM form factor. Roami's eSIM uses the same T-Mobile, Verizon, and AT&T networks as physical SIMs."
+  - myth: "Tous les opérateurs américains offrent des débits 5G équivalents."
+    truth: "Faux. T-Mobile domine largement avec un débit médian 5G de 309,41 Mbps, contre 214,17 Mbps pour Verizon. AT&T est en retrait sur la 5G mobile mais excelle sur la fibre fixe (369,39 Mbps)."
 
-  - myth: "You need a US address to activate an eSIM."
-    truth: "Not with Roami. Many eSIM providers require only an email and payment. Some carriers may ask for a US address for regulatory reasons, but Roami's eSIM activates instantly without KYC hurdles."
+  - myth: "Les forfaits « illimités » aux États-Unis n'ont aucune limite de données."
+    truth: "Faux. La plupart des forfaits illimités appliquent une politique d'utilisation équitable (FUP). Après 50 Go à 100 Go, le débit peut être réduit en cas de congestion. Vérifiez toujours les conditions de votre forfait."
 
-  - myth: "Unlimited data plans always throttle after a few GB."
-    truth: "Not all. Roami's USA eSIM offers truly unlimited data with no throttling, based on T-Mobile's network. However, some budget eSIMs have Fair Usage Policies (e.g., 50 GB). Always check the terms before buying."
+  - myth: "Verizon a le meilleur réseau mobile global aux États-Unis."
+    truth: "Faux. Selon les données Speedtest Intelligence® 2H 2025, T-Mobile est le meilleur réseau mobile global avec un score de connectivité de 81,52, devant Verizon. Verizon excelle uniquement en couverture géographique."
 
-  - myth: "5G drains battery faster than 4G."
-    truth: "Early 5G modems were less efficient, but modern devices (iPhone 15, Samsung S24) have optimized power management. T-Mobile's mid-band 5G (2.5 GHz) offers a good balance of speed and battery life. Roami's eSIM automatically switches to 4G when 5G signal is weak to preserve battery."
+  - myth: "Les eSIM sont moins fiables que les cartes SIM physiques aux États-Unis."
+    truth: "Faux. Les eSIM sont tout aussi fiables, voire plus, car elles ne peuvent pas être perdues ou endommagées. De plus, elles permettent une activation instantanée et un changement d'opérateur sans avoir à changer de carte SIM."
 
 
 # Data sources
-data_sources_title: "USA mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles États-Unis"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025)"
-    description: "Ookla's Speedtest Intelligence report for 2H 2025 provides median download/upload speeds, latency, consistency, and 5G availability for T-Mobile, Verizon, and AT&T. Data collected from millions of real user tests across the USA."
+  - name: "Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025)"
+    description: "Analyse des performances des réseaux mobiles et fixes aux États-Unis pour le second semestre 2025, basée sur Speedtest Intelligence®. Données incluant les débits médians, la latence, la couverture et la disponibilité 5G."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's USA Mobile Network Experience Report (2025) ranks carriers on video experience, download speed, and coverage. It confirms T-Mobile's leadership in 5G speed and Verizon's strength in video streaming."
+    description: "Rapport sur l'expérience utilisateur des réseaux mobiles aux États-Unis, incluant la disponibilité 5G, la vitesse de téléchargement et la qualité du streaming vidéo."
 
-  - name: "FCC 2025"
-    description: "The Federal Communications Commission's annual broadband deployment report includes coverage maps and speed benchmarks. It validates Verizon's 30.0% geographic coverage and T-Mobile's 5G leadership."
+  - name: "FCC (Federal Communications Commission) 2025"
+    description: "Rapport officiel de l'autorité de régulation des télécommunications américaine sur la couverture et la qualité des services mobiles et fixes à travers le pays."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports (Ookla, OpenSignal, FCC) for the period 2H 2025. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary significantly depending on your exact location, time of day, device capabilities, and network congestion. The data presented reflects national averages and may not represent your experience in every area."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public, notamment Speedtest Intelligence® (Ookla), OpenSignal et la FCC. Ces sources sont reconnues pour leur fiabilité et leur méthodologie rigoureuse."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de votre emplacement, de l'heure de la journée, de la congestion du réseau et de l'appareil utilisé. Les données présentées sont des médianes et ne garantissent pas une expérience individuelle."
 
 # CTA product card
-cta_title: "Secure your USA eSIM today"
-cta_desc: "Get immediate access to T-Mobile's award-winning 5G network with Roami's USA eSIM. No roaming fees, instant activation, and unlimited data. Perfect for travelers, digital nomads, and families."
-cta_button_text: "Buy USA eSIM now"
+cta_title: "Obtenez votre eSIM États-Unis dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat au meilleur réseau américain avec Roami. Activation instantanée, pas de frais d'itinérance, et une couverture 5G étendue. Parfait pour les voyageurs, les nomades numériques et les professionnels en déplacement."
+cta_button_text: "Acheter l'eSIM États-Unis maintenant"
 cta_button_link: "/united-states-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free USA trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai États-Unis gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# USA eSIM: Nationwide high-speed data coverage
+# États-Unis eSIM: Activation instantanée sans temps d'attente
 
-> **💡 Short summary for travelers:** 【Unlimited 5G data: more efficient use by sharing across multiple devices】. With Roami's USA eSIM, you tap into T-Mobile's award-winning network, which recorded a median download speed of 259.48 Mbps and a 5G median of 309.41 Mbps in 2H 2025 (Ookla). Share your connection across phones, tablets, and laptops without throttling. Perfect for digital nomads and families who need reliable, high-speed internet everywhere from New York to national parks.
+> **💡 Résumé rapide pour les voyageurs :** Données 5G illimitées : utilisation plus efficace grâce au partage pour plusieurs appareils. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025), T-Mobile domine le marché avec un débit médian de 259,48 Mbps et une disponibilité 5G de 91,2 %. Avec Roami eSIM, vous accédez au meilleur réseau américain sans engagement, idéal pour les nomades numériques et les voyageurs.
 
-## Things you need to know before buying a USA eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM États-Unis
 
 
-### 1. Main 5G/4G frequency bands used in the USA {#1-main-5g4g-frequency-bands-used-in-the-usa}
-USA carriers use a mix of low-band (600 MHz, 700 MHz), mid-band (2.5 GHz, 3.5 GHz), and mmWave (24-39 GHz) for 5G. T-Mobile leads with mid-band 2.5 GHz (n41) for broad coverage and speed. Verizon uses mmWave (n260/n261) in dense cities and low-band (n5) for rural. AT&T uses mid-band (n77) and mmWave. Ensure your device supports these bands for optimal performance.
+### 1. Bandes 5G/4G principales aux États-Unis {#1-bandes-5g4g-principales-aux-états-unis}
+Les opérateurs américains utilisent principalement les bandes 5G suivantes : n71 (600 MHz) pour la couverture étendue, n41 (2,5 GHz) pour l'équilibre vitesse/couverture, et n260/n261 (mmWave 39 GHz) pour les débits ultra-rapides en zones denses. En 4G LTE, les bandes principales sont B2 (1900 MHz), B4 (1700/2100 MHz AWS), B5 (850 MHz), B12 (700 MHz) et B13 (700 MHz). Assurez-vous que votre appareil prend en charge ces bandes pour une <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> optimale.
 
-### 2. KYC (Know Your Customer) requirements {#2-kyc-know-your-customer-requirements}
-To activate a USA eSIM, you typically need to provide a valid passport or government-issued ID. Some providers may require a US address or proof of travel. Roami simplifies this by only requiring your email and payment – no complex KYC steps.
+### 2. Exigence KYC (Know Your Customer) pour l'activation {#2-exigence-kyc-know-your-customer-pour-lactivation}
+Aux États-Unis, l'activation d'une eSIM prépayée ne nécessite généralement pas de vérification d'identité poussée (KYC) pour les forfaits data uniquement. Cependant, certains opérateurs peuvent demander une adresse e-mail valide et un numéro de téléphone de contact. Pour les forfaits avec voix/SMS, une pièce d'identité peut être requise. Avec Roami, l'activation est instantanée et sans paperasse.
 
-### 3. Fair Usage Policy (FUP) and data throttling {#3-fair-usage-policy-fup-and-data-throttling}
-Most unlimited data plans have a FUP threshold (e.g., 50 GB per month). After exceeding this, speeds may be throttled to 128 kbps – 1 Mbps. Roami's USA eSIM offers truly unlimited data with no throttling, based on T-Mobile's network, which has 91.2% 5G availability.
+### 3. Politique d'utilisation équitable (FUP) et limitation de débit {#3-politique-dutilisation-équitable-fup-et-limitation-de-débit}
+La plupart des forfaits « illimités » aux États-Unis appliquent une politique d'utilisation équitable (FUP). Après un certain seuil de données (souvent 50 Go à 100 Go par mois), le débit peut être réduit, surtout en période de congestion. T-Mobile, par exemple, peut prioriser les utilisateurs ayant consommé plus de 50 Go. Vérifiez les conditions de votre forfait pour éviter les mauvaises surprises.
 
-### 4. eSIM compatibility and device support {#4-esim-compatibility-and-device-support}
-eSIM is supported on iPhone XR and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many other devices. Check your phone's IMEI for <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing. Roami provides a free <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> check on their website.
+### 4. Compatibilité des appareils avec les réseaux américains {#4-compatibilité-des-appareils-avec-les-réseaux-américains}
+Tous les smartphones récents (iPhone 12 et ultérieur, Samsung Galaxy S20 et ultérieur, Google Pixel 5 et ultérieur) sont compatibles avec les réseaux 5G américains. Cependant, les appareils chinois (Xiaomi, Huawei, Oppo) peuvent ne pas prendre en charge toutes les bandes 5G américaines, notamment le mmWave. Vérifiez les spécifications de votre téléphone avant d'acheter une eSIM.
 
-### 5. Network switching and roaming restrictions {#5-network-switching-and-roaming-restrictions}
-Some eSIM providers lock you to one carrier. Roami's USA eSIM automatically connects to the best available network (T-Mobile, Verizon, or AT&T) based on signal strength. No manual switching required. Domestic roaming is included, so you stay connected even in rural areas.
+### 5. Restrictions de partage de connexion (tethering) {#5-restrictions-de-partage-de-connexion-tethering}
+Certains forfaits eSIM limitent ou facturent le partage de connexion (tethering). Par exemple, les forfaits « illimités » de T-Mobile incluent généralement 5 Go de données en partage à haut débit, puis réduisent le débit à 3G. Vérifiez les conditions de votre forfait Roami pour savoir si le partage est inclus et s'il y a des limites.

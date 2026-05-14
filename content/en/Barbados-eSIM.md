@@ -44,7 +44,7 @@ banner:
   alt: Best eSIM for Barbados
   title: Best eSIM for Barbados
 hero:
-  flag_image: img/flags/ba.svg
+  flag_image: img/flags/bb.svg
   flag_alt: Barbados Flag
   title: Barbados eSIM data plan
   subtitle: Top rated | No hidden fees | 24/7 customer support

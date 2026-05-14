@@ -1,86 +1,83 @@
 ---
-title: Armenia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: Forfait eSIM Arménie | Meilleure eSIM de voyage 2026 | Roami
+date: '2026-05-14T03:15:25+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Armenia eSIM
-  scenario_keywords: Yerevan sightseeing, Lake Sevan travel, Armenian monastery tours,
-    skiing in Tsaghkadzor, Caucasus hiking
-  operators: Viva-MTS, Ucom, Team Telecom Armenia
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Yerevan, Gyumri, Vanadzor, Vagharshapat (Ejmiatsin), Hrazdan
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: eSIM Arménie
+  scenario_keywords: visites touristiques, voyage d'affaires, escale, road trip, pèlerinage
+  operators: MTS Armenia, Beeline Armenia, Ucom
+  competitors: Airalo, Holafly, Nomad, Ubigi, eSIM Plus
+  main_cities: Erevan, Gyumri, Vanadzor, Echmiadzin, Hrazdan
+  main_packages: 3/7/15/30 jours, données illimitées
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: Mise à jour du service !
+  btn_text: Continuer
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Notre service eSIM a été mis à jour vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: Armenia eSIM | 20% OFF | High-Speed 5G Travel Data | Roami
-  description: Need a reliable connection in Armenia? Roami offers a zero-roaming-shock
-    digital SIM with seamless 5G local coverage. Get unlimited prepaid internet perfectly
-    tailored for light travel and tourism.
-  keywords: Armenia eSIM, prepaid eSIM Armenia, travel internet Armenia, local eSIM
-    Armenia, eSIM for tourists Armenia
-  low_price: 1.99
-  high_price: 39.9
+  title: eSIM Arménie | 5G haut débit | 20% DE RÉDUCTION | Roami
+  description: Besoin d'une connexion fiable en Arménie ? Roami offre une SIM numérique
+    sans choc de roaming avec une couverture locale 5G transparente. Obtenez des données
+    prépayées illimitées parfaitement adaptées aux voyages légers et au tourisme.
+  keywords: eSIM Arménie, forfait data Arménie, internet mobile Arménie, réseau Arménie,
+    voyage Arménie
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: Forfait sélectionné
+  label_data: Volume de données
+  label_validity: Validité
+  label_daily: Prix par jour
+  label_total: Prix total
+  btn_primary: Obtenir 20% de réduction
+  btn_secondary: 'Code : web20'
 breadcrumbs:
-- label: Home
+- label: Accueil
   url: /
-- label: Armenia eSIM
+- label: eSIM Arménie
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Armenia
-  title: Best eSIM for Armenia
+  alt: Meilleure eSIM pour Arménie
+  title: Meilleure eSIM pour Arménie
 hero:
-  flag_image: img/flags/ar.svg
-  flag_alt: Armenia Flag
-  title: Armenia eSIM data plan
-  subtitle: 100% money-back guarantee | 24/7 customer support | Instant delivery
+  flag_image: img/flags/am.svg
+  flag_alt: Drapeau Arménie
+  title: Forfait eSIM pour Arménie
+  subtitle: Indispensable pour voyager | Activation en 1 minute | Internet sans souci
 features:
-  title: Why Travelers Choose Roami
+  title: Pourquoi les voyageurs choisissent Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: Code QR instantané
+    desc: Livraison en moins de 5 minutes
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: Support 24/7
+    desc: Toujours disponible
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: Garantie
+    desc: Protection acheteur garantie
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: Point d'accès
+    desc: Partagez vos données avec d'autres
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: Sans contrat
+    desc: Annulation à tout moment
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: Sélection auto
+    desc: Meilleurs réseaux locaux
+plans_title: Choisissez votre forfait
 plans_data:
-  7 Days:
+  7 jours:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Données haut débit 5G/4G/LTE
+    desc: Parfait pour visiter les attractions
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
@@ -88,41 +85,41 @@ plans_data:
     daily: '1.43'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Données haut débit 5G/4G/LTE
+    desc: Adapté aux longs séjours
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '2.14'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Données haut débit 5G/4G/LTE
+    desc: Adapté aux séjours encore plus longs
     price: '23.99'
     oldPrice: '35.98'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '3.43'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Données haut débit illimitées
+    desc: Utilisation des données sans souci
     price: '30.99'
     oldPrice: '46.48'
     tag: Premium
     tagColor: bg-purple-600
     daily: '4.43'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Données haut débit illimitées
+    desc: Utilisation des données sans souci
     price: '44.99'
     oldPrice: '67.48'
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.43'
-  15 Days:
+  15 jours:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Données haut débit 5G/4G/LTE
+    desc: Parfait pour visiter les attractions
     price: '10.99'
     oldPrice: '16.48'
     tag: ''
@@ -130,65 +127,65 @@ plans_data:
     daily: '0.73'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Données haut débit 5G/4G/LTE
+    desc: Adapté aux longs séjours
     price: '16.99'
     oldPrice: '25.48'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '1.13'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Données haut débit 5G/4G/LTE
+    desc: Adapté aux séjours encore plus longs
     price: '25.99'
     oldPrice: '38.98'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '1.73'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Données haut débit illimitées
+    desc: Utilisation des données sans souci
     price: '65.99'
     oldPrice: '98.98'
     tag: Premium
     tagColor: bg-purple-600
     daily: '4.40'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Données haut débit 5G/4G/LTE
+    desc: Idéal pour votre voyage
     price: '33.99'
     oldPrice: '50.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.27'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Données haut débit illimitées
+    desc: Utilisation des données sans souci
     price: '98.99'
     oldPrice: '148.48'
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.60'
-  30 Days:
+  30 jours:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Données haut débit 5G/4G/LTE
+    desc: Adapté aux longs séjours
     price: '17.99'
     oldPrice: '26.98'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '0.60'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Données haut débit 5G/4G/LTE
+    desc: Adapté aux séjours encore plus longs
     price: '27.99'
     oldPrice: '41.98'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '0.93'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Données haut débit 5G/4G/LTE
+    desc: Parfait pour visiter les attractions
     price: '11.99'
     oldPrice: '17.98'
     tag: ''
@@ -196,33 +193,33 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Données haut débit 5G/4G/LTE
+    desc: Idéal pour votre voyage
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Données haut débit 5G/4G/LTE
+    desc: Idéal pour votre voyage
     price: '65.99'
     oldPrice: '98.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.20'
-  3 Days:
+  3 jours:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Données haut débit illimitées
+    desc: Utilisation des données sans souci
     price: '14.99'
     oldPrice: '22.48'
     tag: Premium
     tagColor: bg-purple-600
     daily: '5.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Données haut débit 5G/4G/LTE
+    desc: Parfait pour visiter les attractions
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
@@ -230,547 +227,583 @@ plans_data:
     daily: '2.66'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Données haut débit 5G/4G/LTE
+    desc: Adapté aux longs séjours
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '3.33'
 discount_banner:
-  title: Special Discount!
+  title: Réduction spéciale !
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    Utilisez le code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> lors du paiement pour bénéficier de <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% DE RÉDUCTION</span> !
+  btn_text: Profiter de la réduction
+  validity: 'Valable : 3 jours'
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: Détails de couverture réseau
+  supports_text: 'Prend en charge :'
   service_details:
-    title: Service Details
+    title: Détails du service
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Armenia, including major cities
-        like Yerevan, Gyumri, Vanadzor, and Dilijan. Our Armenia eSIM seamlessly connects
-        to the robust networks of Viva-MTS, Ucom, and Team Telecom Armenia, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: Couverture
+      desc: Profitez d'une vaste couverture réseau dans tout Arménie, y compris des
+        villes comme Erevan, Gyumri, Vanadzor, et Dilidjan. Notre eSIM pour Arménie
+        se connecte de manière transparente aux réseaux MTS Armenia, Beeline Armenia,
+        et Ucom.
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: Délai de livraison
+      desc: Livraison instantanée après achat.
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: Point d'accès
+      desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: Réseaux mobiles
+    badge: Partenaire officiel
     items:
-    - name: Viva-MTS
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: Ucom
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Team Telecom Armenia
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+    - name: MTS Armenia
+      coverage: Faible latence
+      network: Réseau 5G/4G/LTE
+    - name: Beeline Armenia
+      coverage: IP dédié
+      network: Réseau 5G/4G/LTE
 reminders:
-  title: Important Reminders
+  title: Remarques importantes
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Armenia.
+    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Arménie.
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: La validité commence lors de la connexion au réseau partenaire.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Le code QR sera envoyé à votre adresse e-mail.
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: Vous pouvez installer plusieurs eSIM simultanément.
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: Vérification rapide de compatibilité
+    desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
+    instruction: 'Composez sur le clavier :'
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: Activation Steps
+  title: Activez votre eSIM pour Arménie en quelques minutes
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: Recevez et conservez le code QR – préparez-vous pour Arménie
+    desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code
+      QR d'activation personnel et des instructions. Conservez le code QR sur votre
+      smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet
+      active pour l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez
+      donc la préparer tranquillement pour votre voyage à Arménie.
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: Installez l'eSIM sur votre appareil – scannez le code QR
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - Ouvrez **Réglages** → **Réseau cellulaire / Données mobiles**
+    - Appuyez sur **"Ajouter eSIM"** ou **"Ajouter un forfait"**
+    - Sélectionnez **"Scanner le code QR"** et pointez l'appareil photo vers le code
+    - Le profil eSIM pour Arménie se téléchargera automatiquement – appuyez sur **"Suivant"**
+    - Donnez un nom (par exemple « Roami Arménie ») et définissez-le comme **standard
+      pour les données mobiles**
+    - Maintenant, l'eSIM est installée mais **pas encore active** – idéal pour la
+      préparation du voyage
   - num: '3'
-    title: 'Step 3: Activate in Armenia'
-    desc: Upon arriving in Armenia, enable your Armenia eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: Préparez-vous à la maison – testez sans risque
+    desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages.
+      Cependant, vous pouvez déjà la tester via votre Wi-Fi domestique (les données
+      mobiles ne sont pas consommées). Dès que vous atterrissez à Arménie, il vous
+      suffit d'activer l'eSIM – la validité commencera automatiquement lors de la
+      première connexion au réseau MTS Armenia / Beeline Armenia. Aucun frais caché
+      d'activation, aucun frais d'itinérance.
+    is_list: false
+  - num: '4'
+    title: 'Arrivée à Arménie : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez à Arménie (par exemple dans Aéroport international
+      Zvartnots (Erevan), Aéroport de Gyumri Shirak, Aéroport de Kapan), désactivez
+      le mode avion (ou restez dedans et activez uniquement l'eSIM). Allez dans **Réglages
+      → Réseau cellulaire** et activez votre eSIM Roami pour Arménie. En quelques
+      secondes, votre appareil se connectera automatiquement au réseau 5G/4G le plus
+      rapide disponible de MTS Armenia / Beeline Armenia. Vous pourrez immédiatement
+      utiliser la navigation, WhatsApp, les réseaux sociaux ou partager la connexion
+      avec d'autres appareils – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: Armenia eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Armenia eSIM across different
-    travel scenarios.
+  title: 'eSIM Arménie : Foire aux questions et guide de voyage'
+  desc: Tout ce que vous devez savoir sur l'utilisation de votre eSIM pour Arménie
+    dans divers scénarios de voyage.
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: Général
+    title: 1. Questions générales
     questions:
-    - q: Does my phone support the Armenia eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Armenia eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Armenia eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Armenia
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Armenia eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Armenia eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Armenia that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Armenia eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Armenia eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Armenia eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Armenia eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Armenia,
-        such as Viva-MTS, Ucom, Team Telecom Armenia, to ensure premium speeds at
-        a fraction of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, Nomad eSIM,
-        Roamless, Holafly?
-      a: While great companies like Airalo, Nomad eSIM, Roamless, Holafly offer reliable
-        services, we focus on providing the most cost-effective Armenia eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: Quels sont les avantages de l'eSIM Roami par rapport aux cartes SIM prépayées
+        locales dans Arménie ?
+      a: Contrairement aux cartes SIM prépayées locales, vous n'avez pas besoin d'aller
+        en magasin, de passer par une vérification d'identité (KYC) ou de chercher
+        une carte de recharge adaptée. Avec Roami, vous activez votre eSIM numériquement
+        en moins de 2 minutes — sans faire la queue à l'aéroport.
+    - q: Puis-je installer l'eSIM pour Arménie avant mon voyage et l'activer plus
+        tard ?
+      a: Oui, vous pouvez installer l'eSIM dès maintenant (via Wi-Fi). L'activation
+        se fera automatiquement lorsque votre téléphone, une fois dans Arménie, détectera
+        pour la première fois le réseau MTS Armenia / Beeline Armenia. Ainsi, vous
+        évitez le stress dès l'arrivée.
+    - q: Roami propose-t-il des eSIM régionales pour les voyages hors de Arménie ?
+      a: Oui, en plus de l'eSIM pour Arménie, nous proposons des eSIM régionales pour
+        l'Europe, l'Asie, l'Amérique du Nord et le monde entier. Idéal pour les voyages
+        de plusieurs jours entre villes ou les tournées multi-pays — sans changer
+        de carte SIM.
+    - q: Quelle est la durée de validité du code QR pour l'eSIM pour Arménie ?
+      a: Le code QR est valable 30 jours après son envoi à votre adresse e-mail. Vous
+        avez suffisamment de temps pour installer l'eSIM avant votre voyage. Passé
+        ce délai, nous pouvons vous fournir un nouveau code.
+    - q: L'eSIM pour Arménie est-elle plus sûre qu'une carte SIM physique ?
+      a: Les eSIM sont plus protégées contre les accès non autorisés car elles sont
+        intégrées à l'appareil et ne peuvent pas être extraites ou copiées. Vos données
+        restent chiffrées — aucun risque de carte SIM perdue ou volée.
+    - q: Combien coûte l'eSIM pour Arménie et y a-t-il des réductions ?
+      a: Notre forfait eSIM pour Arménie commence à 1,99 $/Go. Avec le code promo
+        'web20', vous bénéficiez de 20% de réduction sur toute commande — valable
+        sur tous les forfaits. Aucun frais caché, aucun engagement de durée minimale.
+    - q: Mon smartphone prend-il en charge l'eSIM pour Arménie et comment l'installer
+        ?
+      a: Oui, la plupart des smartphones modernes (iPhone XS/XR ou plus récent, Samsung
+        Galaxy S20+/Note20+, Google Pixel 3a+) prennent en charge l'eSIM. Vous installez
+        l'eSIM pour Arménie en scannant le code QR dans les réglages mobiles. Les
+        réseaux MTS Armenia / Beeline Armenia offrent une excellente couverture 5G/4G
+        dans Arménie.
+    - q: Puis-je installer l'eSIM pour Arménie sans code QR ?
+      a: Oui, en plus du code QR, vous pouvez installer l'eSIM manuellement en utilisant
+        l'adresse SM‑DP+ et le code d'activation (tous deux indiqués dans votre confirmation
+        de commande). Le code QR est la méthode la plus rapide et la plus simple.
+    - q: Puis-je continuer à recevoir des appels sur ma carte SIM domestique tout
+        en utilisant l'eSIM pour Arménie ?
+      a: Oui, les appareils double SIM permettent d'utiliser les deux profils simultanément.
+        Il suffit de définir dans les réglages l'eSIM Roami comme standard pour les
+        données mobiles. Les appels et SMS passeront par votre carte SIM domestique
+        (l'itinérance peut être active).
+    - q: L'eSIM pour Arménie prend-elle en charge VoLTE et les appels vocaux HD ?
+      a: Oui, l'eSIM pour Arménie prend en charge VoLTE et la voix HD si votre appareil
+        le permet. Profitez d'une qualité d'appel cristalline via le réseau 5G/4G
+        de MTS Armenia / Beeline Armenia.
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: Aéroports
+    title: 2. Réseau à l'aéroport
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Armenia eSIM before your flight. Once you land at Zvartnots International
-        Airport (Yerevan), Shirak International Airport (Gyumri), simply turn off
-        Airplane Mode and enable your eSIM line. It will connect to the local 4G/5G
-        network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Armenia eSIM activated upon landing, you can immediately open Yandex.Taxi,
-        GG Taxi, Armenia Taxi to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Armenia eSIM data allows you to open Google Maps right at
-        the baggage claim in Zvartnots International Airport (Yerevan), Shirak International
-        Airport (Gyumri) to check real-time train schedules, bus routes, or walking
-        directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Armenia eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Armenia eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Armenia eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: Comment obtenir un réseau fiable dès mon arrivée ?
+      a: Installez l'eSIM pour Arménie avant votre départ. Dès que vous atterrissez
+        dans des aéroports comme Aéroport international Zvartnots (Erevan), Aéroport
+        de Gyumri Shirak, Aéroport de Kapan, désactivez simplement le mode avion et
+        activez l'eSIM. Elle se connectera au réseau local 4G/5G en quelques secondes.
+    - q: Comment contacter ma prise en charge ou utiliser Uber/Grab ?
+      a: Après activation à l'arrivée, vous pourrez immédiatement utiliser des applications
+        comme Yandex.Taxi, Bolt, GG Taxi pour commander un trajet, ou WhatsApp pour
+        contacter votre chauffeur, sans dépendre du Wi-Fi peu sûr de l'aéroport.
+    - q: Comment utiliser Google/Apple Maps pour trouver les transports ?
+      a: Avec les données de votre eSIM pour Arménie, vous pouvez, dès la sortie des
+        bagages dans Aéroport international Zvartnots (Erevan), Aéroport de Gyumri
+        Shirak, Aéroport de Kapan, consulter les horaires des trains et bus en temps
+        réel ou trouver le chemin vers le parking des taxis.
+    - q: Comment éviter les cartes SIM chères à l'aéroport ?
+      a: En achetant notre eSIM pour Arménie à l'avance en ligne, vous contournez
+        totalement les kiosques de vente de SIM chers dans la salle d'arrivée, économisant
+        ainsi du temps et de l'argent.
+    - q: Comment recevoir les SMS de l'hôtel/location de voiture sans numéro local
+        ?
+      a: Notre eSIM pour Arménie est un forfait données uniquement. Pour recevoir
+        des SMS, laissez votre carte SIM domestique active (la réception de SMS en
+        itinérance est souvent gratuite) et utilisez l'eSIM pour tout le trafic de
+        données.
+    - q: Comment contacter immédiatement ma famille ?
+      a: Dès que vous atterrissez, vous pouvez utiliser iMessage, WhatsApp ou FaceTime
+        via les données rapides de notre eSIM pour Arménie pour dire à vos proches
+        que vous êtes bien arrivé.
   - id: faq-transport
     icon: car
     tab_title: Transport
-    title: 3. Transport & Travel
+    title: 3. Transports et déplacements
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Armenia eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Armenia, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Yandex.Taxi, GG Taxi, Armenia Taxi use VoIP (internet calling)
-        and in-app messaging. Since you have active Armenia eSIM data, drivers can
-        call or message you directly through the app without needing a local phone
-        number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Armenia eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Armenia eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Armenia.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Armenia eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Armenia eSIM's data network while on
-        the train or in the car.
+    - q: Comment utiliser Google Maps pour planifier mon itinéraire ?
+      a: Notre connexion eSIM stable pour Arménie garantit que Google Maps peut charger
+        les données de trafic et les horaires en temps réel partout dans Arménie.
+    - q: Comment les chauffeurs Uber/Grab peuvent-ils me contacter via l'application
+        ?
+      a: Les applications comme Yandex.Taxi, Bolt, GG Taxi utilisent la VoIP. Comme
+        vos données eSIM pour Arménie sont actives, les chauffeurs peuvent vous appeler
+        via l'application ou envoyer des notifications sans numéro local.
+    - q: Comment acheter des billets de train ou de métro en ligne ?
+      a: Utilisez les données de votre eSIM pour Arménie pour acheter des billets
+        QR digitaux sur les applications locales et éviter les longues files d'attente
+        aux distributeurs.
+    - q: Comment utiliser Google Maps pour la navigation en temps réel dans une voiture
+        de location ?
+      a: Fixez votre téléphone et utilisez l'eSIM pour Arménie. Un forfait de 5 Go
+        ou 10 Go suffit pour une navigation GPS intensive lors de votre voyage à travers
+        Arménie.
+    - q: Comment scanner et déverrouiller des trottinettes électriques (Lime/Bird)
+        ?
+      a: Le déverrouillage des trottinettes électriques nécessite une connexion Internet
+        rapide. Notre eSIM pour Arménie assure la couverture fiable nécessaire.
+    - q: Les applications de VTC fonctionnent-elles de manière transfrontalière ?
+      a: Oui, votre compte reste le même. Assurez-vous simplement d'avoir une connexion
+        Internet active via notre eSIM locale ou régionale.
+    - q: Comment configurer un point d'accès stable pour la famille ?
+      a: Activez simplement le « Point d'accès personnel » dans les réglages. Votre
+        famille pourra se connecter à votre réseau eSIM pour Arménie dans le train
+        ou la voiture.
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: Hôtels
+    title: 4. Hôtels et hébergements
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Armenia eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Armenia eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at The Alexander, a Luxury Collection Hotel (Yerevan),
-        Marriott Armenia Hotel (Yerevan), Grand Hotel Yerevan or a local guesthouse,
-        you can input the address into Google Maps and get turn-by-turn walking or
-        transit directions using your Armenia eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Armenia eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Armenia eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Menu.am, Pizza Hut Delivery Armenia,
-        Yandex.Eda Armenia and use your Armenia eSIM data to order a hot meal directly
-        to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Armenia eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: Comment faire un auto-arrivée (self-check-in) après réservation ?
+      a: De nombreux hébergements modernes envoient les codes de serrures connectées
+        par e-mail. Votre eSIM pour Arménie garantit que vous pouvez recevoir ces
+        détails juste devant la porte.
+    - q: Comment contacter le propriétaire Airbnb à mon arrivée ?
+      a: Utilisez la fonction de messagerie de l'application Airbnb ou WhatsApp pour
+        convenir de l'heure d'arrivée, en utilisant les données mobiles de l'eSIM
+        pour Arménie.
+    - q: Comment utiliser Google Maps pour naviguer vers l'hôtel ?
+      a: Que vous séjourniez dans Armenia Marriott Hotel Yerevan, The Alexander, a
+        Luxury Collection Hotel, Radisson Blu Hotel Yerevan, entrez l'adresse dans
+        Google Maps et utilisez la navigation de votre eSIM pour Arménie.
+    - q: Comment recevoir les codes SMS de confirmation ?
+      a: Laissez votre carte SIM domestique active pour les SMS et utilisez les données
+        de l'eSIM pour Arménie pour recevoir les codes par e-mail ou via l'application
+        d'authentification.
+    - q: Comment contacter rapidement le support client ?
+      a: Utilisez des applications VoIP comme Skype ou la fonction de chat de l'application
+        de réservation via les données haut débit de votre eSIM pour Arménie.
+    - q: Comment commander de la nourriture via les applications locales de livraison
+        ?
+      a: Téléchargez Yandex.Eda, Glovo, Uber Eats (disponible via Uber) et utilisez
+        les données de votre eSIM pour Arménie pour commander un repas chaud directement
+        dans le hall de l'hôtel.
+    - q: Comment rester en contact avec l'hôtel après le départ (checkout) ?
+      a: Une fois que vous quittez le Wi-Fi de l'hôtel, votre eSIM pour Arménie prend
+        le relais pour que vous puissiez envoyer un message à l'hôtel si vous avez
+        oublié quelque chose.
   - id: faq-attractions
     icon: landmark
     tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    title: 5. Attractions et loisirs
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Garni Temple, Geghard Monastery, Lake Sevan spontaneously,
-        you can use your Armenia eSIM data to buy skip-the-line tickets online and
-        present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Armenia eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Armenia.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Armenia eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Armenia eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Armenia eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Armenia eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
+    - q: Comment acheter des billets électroniques via GetYourGuide/Viator ?
+      a: Si vous souhaitez visiter spontanément Monastère de Geghard, Temple de Garni,
+        Cascade d'Erevan, vous pouvez utiliser les données de votre eSIM pour Arménie
+        pour acheter des billets en ligne et afficher le code-barres directement sur
+        place.
+    - q: Comment réserver des expériences sur Tripadvisor instantanément ?
+      a: Avec le 4G/5G fiable de votre eSIM pour Arménie, vous pouvez lire les avis
+        et réserver des visites locales tout en étant assis dans un café.
+    - q: Comment utiliser Wikipedia/Google pour obtenir des informations lors de la
+        visite ?
+      a: Améliorez votre expérience culturelle en recherchant des faits historiques
+        ou en traduisant des panneaux dans les musées avec Google Traduction sur les
+        données de l'eSIM pour Arménie.
+    - q: Comment trouver le chemin vers la prochaine attraction ?
+      a: Entrez la prochaine destination dans Google Maps ; la couverture puissante
+        de votre eSIM pour Arménie vous guidera par l'itinéraire le plus rapide.
+    - q: Comment vérifier les temps d'attente en temps réel dans les parcs d'attractions
+        ?
+      a: Les applications des parcs d'attractions ont besoin d'Internet pour afficher
+        les temps d'attente. Votre eSIM pour Arménie vous maintient en ligne dans
+        tout le parc.
+    - q: Comment accéder à Ticketmaster pour les billets de spectacle ?
+      a: Vous pouvez acheter des billets de dernière minute en toute sécurité via
+        les applications de billetterie avec les données de votre eSIM pour Arménie.
+    - q: Comment partager instantanément des photos/vidéos sur Instagram/TikTok ?
+      a: La vitesse de téléchargement élevée de l'eSIM pour Arménie vous permet de
+        publier des reels et des photos en temps réel, sans attendre le Wi-Fi de l'hôtel.
   - id: faq-dining
     icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
+    tab_title: Restaurants
+    title: 6. Nourriture et restaurants
     questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Armenia eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Armenia eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Armenia eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Armenia eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Menu.am, Pizza Hut Delivery Armenia, Yandex.Eda
-        Armenia, register using your email or social accounts, and order food seamlessly
-        using your Armenia eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Visa,
-        Mastercard, Telcell require a brief internet handshake, which your Armenia
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Armenia eSIM to find hidden culinary gems in the city.
+    - q: Comment trouver des restaurants via Google Maps/Tripadvisor ?
+      a: Utilisez votre eSIM pour Arménie pour rechercher des « restaurants à proximité
+        » et consulter les avis, horaires d'ouverture et photos des menus.
+    - q: Comment réserver une table en ligne ?
+      a: Assurez votre réservation via les plateformes en ligne en utilisant votre
+        eSIM pour Arménie pendant vos déplacements.
+    - q: Comment scanner les codes QR pour les menus numériques ?
+      a: De nombreux restaurants utilisent des menus numériques. Votre eSIM pour Arménie
+        garantit que le code sur la table se charge instantanément.
+    - q: Comment utiliser l'appareil photo Google Traduction pour les menus ?
+      a: Ouvrez l'application et pointez l'appareil photo vers le menu. La traduction
+        en direct nécessite une connexion Internet via votre eSIM pour Arménie.
+    - q: Comment utiliser les services de livraison locaux ?
+      a: Téléchargez les applications locales comme Yandex.Eda, Glovo, Uber Eats (disponible
+        via Uber) et commandez confortablement en utilisant les données mobiles de
+        votre eSIM pour Arménie.
+    - q: Comment payer avec Apple Pay/Google Pay ?
+      a: Les paiements sans contact ou les méthodes locales telles que Visa, Mastercard,
+        TelCell (paiement mobile local) nécessitent une brève validation Internet
+        que votre eSIM pour Arménie exécute parfaitement.
+    - q: Comment trouver les endroits secrets recommandés par les blogueurs culinaires
+        ?
+      a: Regardez des vlogs YouTube ou parcourez les avis sur Yelp avec les données
+        de votre eSIM pour Arménie pour découvrir des pépites culinaires.
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: Réseaux sociaux
+    title: 7. Réseaux sociaux et communication
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Armenia eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Armenia eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Armenia eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Armenia
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Armenia eSIM data allowance to check their own social
-        media.
+    - q: Comment utiliser WhatsApp/Telegram de manière stable à l'étranger ?
+      a: Vos comptes sont liés à votre numéro domestique. Avec notre eSIM pour Arménie
+        comme source de données, vous pourrez communiquer et passer des appels comme
+        à la maison.
+    - q: Comment publier du contenu sur TikTok sans Wi-Fi public ?
+      a: Le Wi-Fi public est souvent lent et peu sûr. Notre 4G/5G eSIM pour Arménie
+        offre la bande passante nécessaire pour des téléchargements rapides.
+    - q: Comment passer des appels vidéo avec ma famille ?
+      a: Nos partenariats réseau garantissent que les appels vidéo via l'eSIM pour
+        Arménie sont clairs et sans latence, où que vous soyez dans le pays.
+    - q: Est-il sûr de se connecter aux réseaux sociaux via le Wi-Fi public ?
+      a: Le Wi-Fi public est vulnérable aux pirates. Utiliser vos propres données
+        eSIM pour Arménie est chiffré et bien plus sûr.
+    - q: Comment partager la connexion en point d'accès avec des compagnons de voyage
+        ?
+      a: Activez la fonction point d'accès. Vos amis pourront se connecter et utiliser
+        votre trafic eSIM pour Arménie pour leurs réseaux sociaux.
   - id: faq-crossborder
     icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
+    tab_title: Voyages transfrontaliers
+    title: 8. Voyages transfrontaliers
     questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Armenia eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Armenia eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: Ai-je besoin d'une nouvelle carte SIM pour chaque pays ?
+      a: L'eSIM pour un seul pays Arménie ne fonctionne que là-bas. Pour les voyages
+        multi-pays, nous vous recommandons nos eSIM régionales (par exemple eSIM Europe).
+    - q: Comment éviter les frais d'itinérance lors d'un voyage en train traversant
+        les frontières ?
+      a: Désactivez l'« Itinérance des données » sur votre carte SIM domestique. Assurez-vous
+        que l'eSIM pour Arménie est définie comme principale pour les données.
+    - q: Comment obtenir Internet lors d'une escale à Singapour/Dubaï ?
+      a: Vous pouvez acheter une eSIM à faible coût de 1 Go pour le pays de transit
+        afin de rester en ligne pendant votre attente.
+    - q: Comment obtenir Internet en croisière ?
+      a: Au lieu de payer le Wi-Fi cher du navire, activez une eSIM locale pour les
+        pays que vous visitez. Elle se connectera dès que vous vous approcherez de
+        la terre.
+    - q: Comment Google Maps reste-t-il en ligne lors des road trips ?
+      a: Avec une eSIM régionale, votre téléphone basculera automatiquement sur le
+        réseau du nouveau pays lorsque vous traverserez la frontière, gardant le GPS
+        actif.
+    - q: Comment gérer les données pour plusieurs pays dans une seule application
+        ?
+      a: Vous pouvez suivre la consommation de données de toutes vos eSIM actives
+        via notre tableau de bord en ligne sur le site web.
+    - q: Comment rester connecté lors de voyages dans plusieurs pays ?
+      a: Comme WhatsApp/iMessage fonctionnent via les données, une eSIM régionale
+        garantit que vous restez joignable sous le même numéro de téléphone.
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: Urgences
+    title: 9. Situations d'urgence
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Armenia, you can dial local emergency numbers like 112 (general), 102
-        (police), 103 (ambulance), 101 (fire) directly from your phone's dialer regardless
-        of your active SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Armenia eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Armenia eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Armenia eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Armenia eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Armenia eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
+    - q: Comment composer les numéros d'urgence locaux ?
+      a: 'Dans Arménie, vous pouvez composer des numéros d''urgence tels que Police
+        : 102, Pompiers : 101, Ambulance : 103 directement si votre téléphone capte
+        un signal cellulaire.'
+    - q: Comment trouver l'hôpital le plus proche ?
+      a: Les données de votre eSIM pour Arménie vous permettent de rechercher instantanément
+        « pharmacie » ou « hôpital » dans Google Maps et de calculer l'itinéraire
+        le plus rapide.
+    - q: Comment trouver les informations de l'ambassade en cas de perte de passeport
+        ?
+      a: Utilisez l'eSIM pour Arménie pour trouver rapidement l'adresse et le numéro
+        de contact de votre ambassade.
+    - q: Comment contacter mon assurance en cas d'accident ?
+      a: Utilisez des applications VoIP comme Skype via les données de l'eSIM pour
+        Arménie pour appeler les lignes d'assistance de votre assurance.
+    - q: Comment partager ma position en temps réel ?
+      a: Utilisez « Partager ma position » dans WhatsApp ou Apple « Où suis-je ? »
+        pour envoyer des coordonnées via les données de l'eSIM pour Arménie.
+    - q: Comment télécharger des cartes hors ligne pour les zones reculées ?
+      a: En utilisant la couverture urbaine de l'eSIM pour Arménie, téléchargez des
+        cartes hors ligne dans Google Maps avant de vous rendre dans des zones sans
+        signal.
   - id: faq-business
     icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
+    tab_title: Affaires
+    title: 10. Affaires et travail
     questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Armenia eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Armenia eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Armenia eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Armenia eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Armenia eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Armenia eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Armenia eSIM to update them on flight delays or schedule
-        changes.
+    - q: Comment garantir des réunions stables sur Zoom/Teams ?
+      a: Notre eSIM pour Arménie se connecte à des réseaux premium, fournissant la
+        bande passante et la faible latence nécessaires pour les visioconférences
+        professionnelles.
+    - q: Comment me connecter en toute sécurité au VPN de mon entreprise ?
+      a: Nos données ne restreignent pas les protocoles VPN. Vous pouvez exécuter
+        en toute sécurité le VPN de votre entreprise via le réseau de l'eSIM pour
+        Arménie.
+    - q: Comment utiliser le point d'accès pour mon ordinateur portable dans un café
+        ?
+      a: Activez le point d'accès. Utiliser votre eSIM pour Arménie est nettement
+        plus rapide et plus sûr contre les cybermenaces que le Wi-Fi ouvert.
+    - q: Comment recevoir les codes 2FA pour ma messagerie professionnelle ?
+      a: Laissez votre carte SIM domestique active pour les SMS et utilisez les données
+        de l'eSIM pour Arménie pour les codes reçus par e-mail.
+    - q: Comment télécharger de gros fichiers lors de réunions avec des clients ?
+      a: Les vitesses 5G/4G-LTE de votre eSIM pour Arménie vous permettent de télécharger
+        rapidement des présentations vers le cloud.
+    - q: Comment utiliser Slack/Gmail sans interruption pour collaborer ?
+      a: Votre eSIM pour Arménie fournit une connexion constante, vous recevez donc
+        instantanément les messages Slack et les e-mails.
+    - q: Comment mettre à jour les plans de voyage pour l'entreprise en ligne ?
+      a: Accédez aux portails de l'entreprise via l'eSIM pour Arménie en déplacement
+        pour informer les RH des retards de vol.
 related_products:
-  title: Related eSIM Plans
+  title: Forfaits eSIM similaires
   items:
-  - name: united states eSIM
+  - name: eSIM États-Unis
     flag: img/flags/us.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: United-Kingdom
+    slug: united-states-esim
+  - name: eSIM Royaume-Uni
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Europe eSIM
+    slug: united-kingdom-esim
+  - name: eSIM Europe
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: true
-  - name: Canada eSIM
+    slug: europe-esim
+  - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Turkey eSIM
+    slug: canada-esim
+  - name: eSIM Turquie
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: China eSIM
+    slug: turkey-esim
+  - name: eSIM Chine
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Japan eSIM
+    slug: china-esim
+  - name: eSIM Japon
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
+    slug: japan-esim
+  - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: France eSIM
+    slug: hong-kong-esim
+  - name: eSIM France
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Spain eSIM
+    slug: france-esim
+  - name: eSIM Espagne
     flag: img/flags/es.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Germany eSIM
+    slug: spain-esim
+  - name: eSIM Allemagne
     flag: img/flags/de.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: germany-esim
+  - name: eSIM Australie
     flag: img/flags/au.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
+    slug: australia-esim
 
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
+# =============== 100 % récupération complète : module de comparaison basé sur les données ===============
 market_analysis:
-  title: "Armenia eSIM vs Physical SIM Card: Pros and Cons Breakdown"
-  subtitle: "Armenia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: "eSIM pour les Armenia contre carte SIM prépayée : faut-il passer à l'eSIM ?"
+  subtitle: "Cartes SIM prépayées locales en Arménie contre solutions eSIM (benchmark 2024/2025)"
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Armenia) + Local Operator Sites"
+    text: "Source des données : Prepaid Data SIM Card Wiki (Armenia) + sites Web des opérateurs locaux"
     url: "https://prepaid-data-sim-card.fandom.com/wiki/Armenia"
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Armenia eSIM"
+    - "Matrice de comparaison"
+    - "Carte SIM prépayée locale (données de marché)"
+    - "Roami eSIM pour Armenia"
   table_rows:
     - icon: "store"
-      title: "Acquisition &<br>Activation"
+      title: "Acquisition et<br>activation"
       prepaid_title: ""
-      prepaid_desc: "Viva-MTS requires passport purchase at official stores or border kiosks; Ucom requires calling 111 for activation."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Viva-MTS store queues and passport checks. Activate online within 1 minute after landing in Yerevan."
+      prepaid_desc: "Les cartes SIM prépayées en Arménie nécessitent un achat en personne dans les magasins Viva-MTS, Team ou Ucom, avec un temps d'attente pouvant atteindre 30 minutes."
+      esim_title: "Activation instantanée sans file d'attente"
+      esim_desc: "Évitez les files d'attente dans les magasins Viva-MTS ou Team. Activez votre eSIM en ligne en 1 minute après votre atterrissage à Erevan."
     - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
+      title: "KYC et enregistrement<br>par passeport"
       prepaid_title: ""
-      prepaid_desc: "All three operators enforce mandatory SIM card real-name registration: passport must be presented at purchase."
-      esim_title: "No Passport Required"
-      esim_desc: "Bypass Armenia's mandatory SIM registration. Unlike Viva-MTS or Team, Roami eSIM requires zero ID verification."
+      prepaid_desc: "L'Arménie impose un enregistrement obligatoire du passeport pour toutes les cartes SIM prépayées, avec photocopie du passeport en magasin."
+      esim_title: "Zéro passeport requis"
+      esim_desc: "Contournez l'obligation de photocopie de passeport chez Viva-MTS et Team. Roami eSIM ne nécessite aucun enregistrement KYC."
     - icon: "globe"
-      title: "International<br>Roaming"
+      title: "Itinérance<br>internationale"
       prepaid_title: ""
-      prepaid_desc: "Team Telecom Armenia charges AMD 2625 (≈€6.5) for 500MB in Europe outside Russia; Viva-MTS roaming add-ons are expensive."
-      esim_title: "Global Roaming Included"
-      esim_desc: "Avoid Team's €6.5/500MB roaming rip-off. Roami offers affordable multi-country plans with no FUP throttling."
+      prepaid_desc: "Team Telecom Armenia facture AMD 2625 (environ 6,5 €) pour 500 Mo de données en itinérance en Europe, un coût très élevé."
+      esim_title: "Itinérance mondiale sans FUP"
+      esim_desc: "Évitez les frais exorbitants de Team Telecom (AMD 2625 pour 500 Mo en Europe). Roami propose des forfaits de données à partir de 1,99 $/Go, sans limite de vitesse."
     - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
+      title: "Cycle de facturation et<br>coûts perdus"
       prepaid_title: ""
-      prepaid_desc: "All major prepaid plans (e.g., Viva-MTS AMD 2500/4GB, Team AMD 1500/3GB) use 30-day cycles; a 3-day trip wastes ~90% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Viva-MTS's 30-day cycle (AMD 2500/4GB), Roami offers 7-day plans starting from $1.99/GB, saving up to 90% waste for short trips."
+      prepaid_desc: "Tous les forfaits prépayés en Arménie ont un cycle de facturation de 30 jours, par exemple Viva-MTS AMD 2500 pour 4 Go, entraînant une perte de 90 % pour un séjour de 3 jours."
+      esim_title: "Forfaits flexibles sans perte"
+      esim_desc: "Contrairement au cycle de 30 jours de Viva-MTS (AMD 2500 pour 4 Go), Roami propose des forfaits de 7 jours à partir de 1,99 $/Go, économisant 90 % de pertes pour les courts séjours."
     - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
+      title: "Partage de connexion et<br>politique de vitesse"
       prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common practice, tethering is generally allowed but may be throttled after fair usage."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami allows full-speed hotspot sharing, unlike some local SIMs that may throttle or block tethering after a few GB."
+      prepaid_desc: "Aucune donnée spécifique dans la source pour cette dimension, mais les opérateurs arméniens facturent AMD 150 pour 500 Mo supplémentaires après épuisement du forfait."
+      esim_title: "Partage de connexion illimité"
+      esim_desc: "Contrairement aux frais supplémentaires de Viva-MTS (AMD 150 pour 500 Mo), Roami autorise le partage de connexion sans frais ni limite de vitesse."
     - icon: "credit-card"
-      title: "Top-up Payments"
+      title: "Recharge et paiement"
       prepaid_title: ""
-      prepaid_desc: "Top-up via physical vouchers with short validity (e.g., Viva-MTS AMD 500 valid 12 days); online top-up may reject foreign cards."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to buy short-lived physical vouchers."
+      prepaid_desc: "Les recharges en ligne sont souvent rejetées pour les cartes étrangères ; les utilisateurs doivent acheter des tickets physiques dans les kiosques (minimum AMD 500)."
+      esim_title: "Paiement global simplifié"
+      esim_desc: "Payez avec Visa, Mastercard, AMEX, Apple Pay, Google Pay ou PayPal. Pas besoin de tickets physiques ni de recharges en kiosque."
     - icon: "headset"
-      title: "Customer Support"
+      title: "Support client"
       prepaid_title: ""
-      prepaid_desc: "Customer support is primarily in Armenian/Russian; Ucom activation requires calling 111 with voice prompts."
-      esim_title: "24/7 English Support"
-      esim_desc: "Get instant help via live chat or email, unlike Ucom's Armenian-only 111 hotline."
+      prepaid_desc: "Le support client est disponible en arménien et en russe, du lundi au vendredi de 9h à 18h, sans chat en direct pour les clients prépayés."
+      esim_title: "Support client 24/7 multilingue"
+      esim_desc: "Bénéficiez d'un support en français, anglais et arménien 24h/24, contrairement aux horaires limités des opérateurs locaux (lun-ven 9h-18h)."
 
-  # =============== 100% 完整还原：专家结论模块 ===============
+  # =============== 100 % récupération complète : module de verdict expert ===============
   expert_verdict:
-    title: "Armenia eSIM vs Physical SIM Card: Activation and Setup Compared"
+    title: "eSIM pour les Armenia contre carte SIM : guide complet comparatif pour une connectivité sans stress"
     cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay Globally, Skip Short-Lived Vouchers"
-        desc: "Viva-MTS vouchers expire in 12-48 days. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
-      - icon: "shield"
-        icon_bg: "bg-orange-100"
-        icon_color: "text-orange-600"
-        title: "Keep Your Home SIM Active"
-        desc: "No need to remove your physical SIM. Roami eSIM allows dual-SIM use, so you never miss bank SMS or calls."
       - icon: "hourglass-empty"
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
-        title: "Eliminate 90% Sunk Cost on 30-Day Plans"
-        desc: "Viva-MTS's cheapest plan (AMD 2500/4GB) is 30-day locked. A 3-day trip wastes ~90% of the value. Roami's 7-day plans start at $1.99/GB."
+        title: "Forfaits flexibles contre cycles rigides de 30 jours"
+        desc: "Viva-MTS impose un cycle de 30 jours (ex: AMD 2500 pour 4 Go). Un touriste de 3 jours perd <b>90 %</b> de la valeur du forfait. Roami propose des forfaits de <b>7 jours à partir de 1,99 $/Go</b>."
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "Partage de connexion sans frais cachés"
+        desc: "Viva-MTS facture <b>AMD 150 pour 500 Mo supplémentaires</b> après épuisement du forfait. Roami autorise le partage de connexion sans frais ni limite de vitesse."
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "Contournez les exigences strictes de passeport en Arménie"
+        desc: "Viva-MTS, Team et Ucom exigent tous une photocopie du passeport en magasin. Avec Roami eSIM, activez votre forfait en ligne sans aucune vérification d'identité."
       - icon: "clock"
-        icon_bg: "bg-cyan-100"
-        icon_color: "text-cyan-600"
-        title: "Instant Activation, No Queue"
-        desc: "Skip Viva-MTS border kiosks and Ucom's 111 call activation. Roami delivers eSIM via email, ready in 1 minute."
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Activation instantanée sans file d'attente"
+        desc: "L'achat en magasin chez Viva-MTS ou Team peut prendre <b>30 minutes</b>. Roami s'active en ligne en <b>1 minute</b> après l'atterrissage."
 ---

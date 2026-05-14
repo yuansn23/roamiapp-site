@@ -511,19 +511,24 @@
                     </div>
                 </div>
             </section>
-
-       <section class="mt-12 pt-10 border-t border-slate-200">
+<section class="mt-12 pt-10 border-t border-slate-200">
     <div class="flex items-center gap-3 mb-6"><h2 class="text-2xl font-bold text-slate-900">{{ .Params.related_products.title }}</h2></div>
     <ul class="grid grid-cols-2 md:grid-cols-4 gap-4 list-none p-0 m-0">
         {{ range .Params.related_products.items }}
-            {{- /* 逻辑优化：判断语言环境并分配跳转地址，确保非英环境下 slug 也有尾部斜杠 */ -}}
+            {{- /* 1. 确定基础 slug */ -}}
+            {{ $slugBase := .slug | default (.name | urlize) }}
+            {{- /* 2. 强制追加 -esim 后缀（如果尚未包含） */ -}}
+            {{ $slugWithSuffix := $slugBase }}
+            {{ if not (hasSuffix $slugBase "-esim") }}
+                {{ $slugWithSuffix = printf "%s-esim" $slugBase }}
+            {{ end }}
+            
+            {{- /* 3. 根据语言环境构造完整 URL，确保尾部斜杠 */ -}}
             {{ $targetUrl := "" }}
             {{ if eq $.Site.Language.Lang "en" }}
-                {{ $targetUrl = or .url .link (printf "/%s/" (.name | urlize)) }}
+                {{ $targetUrl = or .url .link (printf "/%s/" $slugWithSuffix) }}
             {{ else }}
-                {{- /* 如果定义了 slug，拼接斜杠；如果没有，根据 name 生成并补全斜杠 */ -}}
-                {{ $slugBase := .slug | default (.name | urlize) }}
-                {{ $targetUrl = printf "/%s/" (strings.Trim $slugBase "/") }}
+                {{ $targetUrl = printf "/%s/" (strings.Trim $slugWithSuffix "/") }}
             {{ end }}
             
             <li class="h-full">
@@ -543,7 +548,6 @@
         {{ end }}
     </ul>
 </section>
-
         </div>
 
         <aside class="lg:col-span-4" aria-label="Order Summary">

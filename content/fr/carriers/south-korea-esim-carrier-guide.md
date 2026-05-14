@@ -1,65 +1,65 @@
 ---
-title: "Südkorea eSIM: Experience blazing‑fast 5G speeds"
-description: "Experience fast internet in Südkorea with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:42:57+00:00"
-keywords: "eSIM Südkorea, prepaid data, 5G network, SK Telecom, LG U+, KT, Roami eSIM, travel internet"
+title: "Corée du Sud eSIM: Résolvez vos problèmes d'itinérance sans effort"
+description: "Profitez d'Internet rapide en Corée du Sud avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:18:13+00:00"
+keywords: "eSIM Corée du Sud, données prépayées, réseau 5G, SK Telecom, LG U+, KT, voyage Corée du Sud, itinérance, [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Südkorea eSIM Guide"
+  - name: "Guide eSIM Corée du Sud"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Südkorea Travel eSIM Latest Guide"
-hero_subtitle_main: "Südkorea eSIM: Experience blazing‑fast 5G speeds"
-hero_subtitle_highlight: "Premium 5G network coverage by SK Telecom, LG U+, and KT"
-hero_description_line1: "The Südkorea eSIM covers multiple regions with 5G high‑speed data services, meeting your travel, business, and daily communication needs without any problem."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Südkorea eSIM"
+hero_badge: "🇰🇷 Guide actuel de l'eSIM de voyage Corée du Sud"
+hero_subtitle_main: "Corée du Sud eSIM: Résolvez vos problèmes d'itinérance sans effort"
+hero_subtitle_highlight: "Couverture réseau 5G premium via SK Telecom, LG U+ et KT"
+hero_description_line1: "Remplacez les forfaits d'itinérance traditionnels par une eSIM Corée du Sud pour économiser sur les coûts de communication. Compatible avec plusieurs appareils, elle répond aux besoins Internet de tous les types de voyageurs."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Corée du Sud"
 hero_link_url: "/south-korea-esim/"
-tldr_summary: "Say goodbye to high roaming fees: unlimited 5G data for multiple devices. Roami's Südkorea eSIM connects you to the nation's top networks, including SK Telecom (Speed Score 236.24) and LG U+ (5G Speed Score 456.32). Enjoy median download speeds of 205.10 Mbps on mobile and 152.99 Mbps on fixed broadband. Perfect for travelers, digital nomads, and business users who demand reliable, high‑speed connectivity across Seoul, Busan, Daejeon, and beyond."
+tldr_summary: "Dites adieu aux frais d'itinérance exorbitants : entrez dans l'ère de la connectivité mondiale gratuite. Avec Roami eSIM, profitez des réseaux 5G ultra-rapides de Corée du Sud (SK Telecom affiche un Speed Score de 236.24, LG U+ domine la 5G avec 456.32 points) sans surcoût. Activation instantanée, données prépayées et couverture nationale : votre voyage connecté commence ici."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Südkorea eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Corée du Sud eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Südkorea eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Corée du Sud choisir ?"
 
   - href: "#operators"
-    text: "Top Südkorea eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Corée du Sud"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Südkorea"
+    text: "Guide des villes : La meilleure eSIM pour Corée du Sud"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Südkorea eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Corée du Sud"
 
   - href: "#faq"
-    text: "Frequently asked questions about Südkorea eSIM"
+    text: "Questions fréquentes sur l'eSIM Corée du Sud"
 
   - href: "#myths"
-    text: "Myths and facts about Südkorea eSIM"
+    text: "Mythes et faits sur l'eSIM Corée du Sud"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Südkorea eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Corée du Sud devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "SK Telecom"
     carrier_class: "text-orange-600"
-    reason: "Fastest overall mobile network with Speed Score 236.24 and median download 205.10 Mbps. Best consistency (89.6% of samples above 5 Mbps down / 1 Mbps up)."
+    reason: "SK Telecom est le réseau mobile le plus rapide de Corée du Sud (Speed Score 236.24) avec une latence de 90 ms, idéal pour le télétravail et les appels vidéo."
 
-  - travel: "5G power users"
+  - travel: "Gamers mobiles"
     carrier: "LG U+"
     carrier_class: "text-purple-600"
-    reason: "Fastest 5G network with Speed Score 456.32 and median 5G download 546.83 Mbps. Also best 5G gaming experience (Game Score 92.56)."
+    reason: "LG U+ offre la meilleure expérience de jeu mobile en 5G (5G Game Score 92.56) et les vitesses 5G les plus élevées (débit médian 546.83 Mbps)."
 
-  - travel: "Budget travelers"
+  - travel: "Voyageurs en zone urbaine"
     carrier: "KT"
-    carrier_class: "text-green-600"
-    reason: "Reliable 5G speeds (median 526.41 Mbps) and competitive pricing. Good balance of performance and cost."
+    carrier_class: "text-blue-600"
+    reason: "KT est un excellent choix pour les grandes villes comme Séoul et Busan, avec une couverture 5G dense et des performances solides (débit médian 109.33 Mbps)."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Südkorea travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Corée du Sud la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "sk-telecom-esim"
-    title: "SK Telecom eSIM Review: Best overall performance"
-    best_for: "This plan is the absolute top choice for users who need the fastest and most consistent mobile connection across all technologies in Südkorea."
-    core_data: "- **Overall Speed Score**: 236.24 (fastest in Südkorea 1H 2024).\n- **Median download speed**: 205.10 Mbps.\n- **Median upload speed**: 19.53 Mbps.\n- **Latency**: 90 ms.\n- **Consistency**: 89.6% of samples met or exceeded 5 Mbps down / 1 Mbps up.\n- **5G median download**: 513.74 Mbps.\nAccording to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024), SK Telecom leads the market on overall performance."
-    arcep_note: "Confirmed by the Korea Communications Commission (KCC) as a leading operator with nationwide 5G coverage."
-    connect_note: "Activation works seamlessly via Roami eSIM – instant QR code delivery, no physical SIM needed."
-    user_scenarios: "- **Seoul Metro**: Stream 4K video on subway lines without buffering.\n- **Busan Haeundae Beach**: Upload vacation photos instantly with 5G speeds.\n- **Jeju Island**: Reliable coverage even in remote coastal areas."
+    title: "Test eSIM SK Telecom : Meilleure couverture nationale"
+    best_for: "Ce forfait est le meilleur choix absolu pour les voyageurs qui privilégient la fiabilité et la vitesse globale, notamment en dehors des zones urbaines."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024), SK Telecom affiche une couverture 5G quasi nationale.\n- **Débit descendant médian** : 205.10 Mbps (toutes technologies confondues).\n- **Débit montant médian** : 19.53 Mbps.\n- **Latence** : 90 ms.\n- **Score de vitesse** : 236.24 (plus rapide de Corée du Sud).\n- **Consistance réseau** : 89.6% des échantillons dépassent le seuil de 5 Mbps descendant / 1 Mbps montant."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (KCC) et les données Speedtest Intelligence® 2024."
+    connect_note: "L'activation se déroule sans problème via QR code. Compatible avec la plupart des smartphones récents."
+    user_scenarios: "- **Séoul (Gangnam)** : Téléchargement de fichiers lourds en déplacement, streaming 4K sans interruption.\n- **Daejeon** : Navigation fluide dans la ville la plus rapide pour le mobile (204.73 Mbps).\n- **Suwon-si** : Connexion fixe ultra-rapide (196.37 Mbps) pour le travail à distance."
     bg_color: "bg-blue-50"
 
   - id: "lg-uplus-esim"
-    title: "LG U+ eSIM Review: Best 5G gaming and speeds"
-    best_for: "This plan is the ultimate choice for 5G enthusiasts, mobile gamers, and anyone who demands the absolute fastest 5G download speeds."
-    core_data: "- **5G Speed Score**: 456.32 (fastest 5G in Südkorea 1H 2024).\n- **Median 5G download speed**: 546.83 Mbps.\n- **Median 5G upload speed**: 44.28 Mbps.\n- **5G latency**: 72 ms.\n- **5G Game Score**: 92.56 (best 5G gaming experience).\n- **Overall median download**: 127.99 Mbps.\nAccording to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024), LG U+ outpaced competition on 5G KPIs."
-    arcep_note: "Recognized by the KCC for leading 5G innovation and low‑latency services."
-    connect_note: "Activation works seamlessly via Roami eSIM – instant QR code delivery, no physical SIM needed."
-    user_scenarios: "- **Seoul Gangnam**: Play competitive mobile games with sub‑75 ms ping.\n- **Daejeon**: Fastest median mobile download city (204.73 Mbps) – perfect for data‑heavy tasks.\n- **Suwon-si**: Enjoy fixed broadband speeds of 196.37 Mbps for tethering."
+    title: "Test eSIM LG U+ : Roi de la 5G et du gaming"
+    best_for: "Ce forfait est le meilleur choix absolu pour les gamers mobiles et les utilisateurs intensifs de données 5G."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024), LG U+ est le leader 5G en Corée du Sud.\n- **Débit descendant médian 5G** : 546.83 Mbps (le plus rapide).\n- **Débit montant médian 5G** : 44.28 Mbps.\n- **Latence 5G** : 72 ms.\n- **Score de vitesse 5G** : 456.32.\n- **Expérience de jeu 5G** : Meilleure du marché (5G Game Score 92.56)."
+    arcep_note: "Données issues de Speedtest Intelligence® 1H 2024, confirmées par les rapports OpenSignal."
+    connect_note: "Installation rapide, compatible eSIM. Profitez de la 5G sans configuration complexe."
+    user_scenarios: "- **Busan (Haeundae)** : Jeu en ligne en bord de mer avec une latence minimale.\n- **Incheon** : Streaming de jeux en réalité augmentée près de l'aéroport.\n- **Gwangju** : Téléchargement de mises à jour de jeux en quelques secondes."
     bg_color: "bg-purple-50"
 
   - id: "kt-esim"
-    title: "KT eSIM Review: Reliable and balanced"
-    best_for: "This plan is a solid all‑rounder for travelers who want dependable 5G speeds without paying a premium."
-    core_data: "- **Median 5G download speed**: 526.41 Mbps.\n- **Overall median download**: 109.33 Mbps.\n- **5G latency**: competitive with top operators.\nAccording to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024), KT offers strong 5G performance and wide coverage."
-    arcep_note: "KT is a major operator with extensive 5G infrastructure, approved by the KCC."
-    connect_note: "Activation works seamlessly via Roami eSIM – instant QR code delivery, no physical SIM needed."
-    user_scenarios: "- **Incheon Airport**: Instant connectivity upon arrival.\n- **Gyeongju historic sites**: Stay connected while exploring ancient temples.\n- **Busan Port**: Reliable data for business travelers."
+    title: "Test eSIM KT : Équilibre et fiabilité"
+    best_for: "Ce forfait est le meilleur choix absolu pour les voyageurs qui recherchent un bon rapport qualité-prix et une couverture homogène."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024), KT offre une couverture 5G étendue dans les grandes métropoles.\n- **Débit descendant médian** : 109.33 Mbps (toutes technologies).\n- **Débit descendant médian 5G** : 526.41 Mbps.\n- **Positionnement** : Deuxième meilleure performance 5G derrière LG U+.\n- **Fiabilité** : Réseau stable avec une bonne consistance."
+    arcep_note: "Rapporté par Speedtest Intelligence® et l'autorité coréenne des télécommunications."
+    connect_note: "Activation sans accroc. Profitez d'une connexion stable dès l'arrivée."
+    user_scenarios: "- **Séoul (Myeongdong)** : Navigation shopping et cartes en temps réel sans ralentissement.\n- **Jeju** : Streaming vidéo lors des déplacements sur l'île.\n- **Daegu** : Appels vidéo de qualité en déplacement."
     bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Südkorea eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Südkorea eSIM and local 5G bands"
-cards_free_title: "Get your free Südkorea eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Corée du Sud"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Corée du Sud et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Corée du Sud gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Südkorea eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Corée du Sud"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Südkorea"
-    content: "Südkorea's 5G networks primarily use the 3.5 GHz band (n78) for wide coverage and the 28 GHz mmWave band (n257) for ultra‑fast speeds in dense urban areas. 4G LTE operates on bands 1 (2100 MHz), 3 (1800 MHz), 5 (850 MHz), and 8 (900 MHz). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Bandes 5G/4G principales utilisées en Corée du Sud"
+    content: "Les opérateurs coréens utilisent principalement les bandes 5G : n78 (3.5 GHz) et n257 (mmWave, licence révoquée en 2023). Pour la 4G, les bandes principales sont B1 (2100 MHz), B3 (1800 MHz) et B8 (900 MHz). Assurez-vous que votre smartphone est compatible avec ces fréquences pour une expérience optimale."
 
-  - heading: "2. KYC (Know Your Customer) requirements"
-    content: "To activate a local SIM or eSIM in Südkorea, you must provide a valid passport and sometimes a local ID number. Roami eSIM simplifies this by handling KYC digitally – just upload your passport during purchase and you're ready to go."
+  - heading: "2. Exigence d'enregistrement KYC (Know Your Customer)"
+    content: "Toute carte SIM ou eSIM en Corée du Sud doit être enregistrée auprès des autorités. Vous devrez fournir une pièce d'identité (passeport) et un justificatif de domicile ou de voyage. Les eSIM Roami incluent cet enregistrement automatiquement, vous évitant des démarches complexes."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most Südkorea eSIM plans include a Fair Usage Policy (FUP) that caps high‑speed data (e.g., 50 GB per month) after which speeds may be throttled to 1 Mbps. Always check the plan details to avoid unexpected slowdowns."
+  - heading: "3. Politiques de limitation de débit (FUP) et données illimitées"
+    content: "Les forfaits dits 'illimités' en Corée du Sud appliquent souvent une politique d'utilisation équitable (FUP). Après un certain volume (généralement 10 à 50 Go), le débit peut être réduit à 1 Mbps ou moins. Vérifiez les conditions de votre forfait eSIM avant de souscrire."
 
-  - heading: "4. Device compatibility and eSIM support"
-    content: "eSIM is supported on most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Verify that your device is unlocked and eSIM‑compatible before purchasing."
+  - heading: "4. Couverture réseau dans les zones rurales et montagneuses"
+    content: "Si vous prévoyez de visiter des zones reculées (parc national de Seoraksan, îles éloignées), SK Telecom offre la meilleure couverture rurale. LG U+ et KT sont excellents en ville mais peuvent avoir des lacunes dans les zones très isolées."
 
-  - heading: "5. Network coverage in rural and remote areas"
-    content: "While Südkorea boasts near‑nationwide 5G coverage, remote mountainous regions and some islands may have limited 5G signal. SK Telecom and KT offer the best rural coverage; LG U+ excels in urban 5G hotspots."
+  - heading: "5. Compatibilité des smartphones avec les eSIM en Corée du Sud"
+    content: "La plupart des smartphones récents (iPhone XS et ultérieurs, Google Pixel 3 et ultérieurs, Samsung Galaxy S20 et ultérieurs) supportent les eSIM. Vérifiez que votre appareil est débloqué et compatible avec les réseaux coréens avant l'achat."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Südkorea"
-city_guide_desc: "Find out which Südkorea eSIM is the best choice for your destination city based on real speed test data and local network strengths."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Corée du Sud"
+city_guide_desc: "Découvrez quelle eSIM Corée du Sud est le meilleur choix pour votre ville de destination, en fonction des performances réseau locales."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
-  - city: "Seoul"
-    carriers: "SK Telecom"
-    reason: "Seoul is the most connected city with dense 5G coverage. SK Telecom offers the fastest overall speeds (median 205.10 Mbps) and best consistency (89.6%), ideal for business travelers and digital nomads."
+  - city: "Séoul"
+    carriers: "SK Telecom ou LG U+"
+    reason: "Capitale dynamique avec une couverture 5G dense. SK Telecom offre la meilleure vitesse globale (205.10 Mbps), tandis que LG U+ excelle en 5G (546.83 Mbps). Idéal pour les nomades numériques et les gamers."
 
   - city: "Busan"
     carriers: "LG U+"
-    reason: "Busan's port and beach areas benefit from LG U+'s superior 5G speeds (median 546.83 Mbps). Perfect for streaming, gaming, and uploading content while enjoying Haeundae Beach."
+    reason: "Deuxième plus grande ville, portuaire et touristique. LG U+ domine la 5G, parfait pour le streaming et les jeux en ligne sur la plage de Haeundae. La latence de 72 ms est un atout."
 
   - city: "Daejeon"
-    carriers: "LG U+"
-    reason: "Daejeon recorded the fastest median mobile download speed among populous cities (204.73 Mbps). LG U+ is the top choice for data‑intensive tasks in this tech hub."
+    carriers: "SK Telecom"
+    reason: "Ville scientifique et technologique. Daejeon affiche la vitesse mobile médiane la plus élevée du pays (204.73 Mbps). SK Telecom est le choix optimal pour les professionnels en déplacement."
 
   - city: "Suwon-si"
-    carriers: "SK Telecom"
-    reason: "Suwon-si has the fastest fixed download speed (196.37 Mbps). SK Telecom's robust network ensures reliable tethering and high‑speed connectivity for remote work."
-
-  - city: "Incheon"
     carriers: "KT"
-    reason: "Incheon International Airport is a major entry point. KT offers balanced 5G speeds (median 526.41 Mbps) and wide coverage, making it ideal for travelers arriving or transiting."
+    reason: "Ville industrielle et résidentielle. Suwon-si détient la vitesse fixe la plus rapide (196.37 Mbps). KT offre un bon équilibre entre performance mobile et fixe pour les travailleurs hybrides."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Jeju"
+    carriers: "SK Telecom"
+    reason: "Île touristique avec des zones rurales. SK Telecom assure la meilleure couverture dans les zones moins densément peuplées, garantissant une connexion stable lors de vos excursions."
+
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Südkorea eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Corée du Sud selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Navigate Seoul's palaces, markets, and skyscrapers with uninterrupted 5G. Use maps, translation apps, and social media without lag. SK Telecom's consistency ensures you never lose signal in crowded areas."
+    title: "Découvreur de villes"
+    text: "Explorez Séoul, Busan et Gyeongju avec une eSIM Roami. Utilisez Google Maps, réservez des taxis et partagez vos photos instantanément. SK Telecom garantit une connexion rapide même dans les quartiers historiques."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike in Seoraksan National Park or explore Jeju Island's volcanic landscapes. KT and SK Telecom provide the best rural coverage, so you can share your adventures in real time."
+    title: "Amoureux de la nature"
+    text: "Randonnez dans le parc national de Seoraksan ou visitez les chutes de Cheonjiyeon à Jeju. Avec SK Telecom, bénéficiez d'une couverture étendue dans les zones montagneuses pour rester connecté en toute sécurité."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive from Seoul to Busan on the KTX or by car. LG U+'s 5G speeds keep you entertained with streaming and navigation. Daejeon and Suwon-si offer excellent pit‑stop connectivity."
+    title: "Roadtrippeur"
+    text: "Parcourez la côte est de Gangneung à Sokcho ou l'île de Jeju en voiture. LG U+ offre une 5G performante sur les axes principaux, idéale pour le streaming musical et la navigation en temps réel."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax at Haeundae Beach or Gyeongpo Beach. LG U+ delivers blazing 5G for uploading photos and video calls. Enjoy low latency for mobile gaming while lounging on the sand."
+    title: "Vacancier à la plage"
+    text: "Profitez des plages de Haeundae (Busan) ou de Jungmun (Jeju). Avec LG U+, jouez en ligne ou regardez des films en 4G/5G sans latence. La vitesse 5G de 546.83 Mbps rend l'expérience fluide."
 
-scene_guide_footer: "💡 The Roami Südkorea eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Corée du Sud détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Südkorea eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Corée du Sud"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Does the eSIM automatically switch to the best network when traveling across borders, or is it only valid for Südkorea?"
-    a: "Roami's Südkorea eSIM is designed for use within Südkorea only. It does not automatically switch networks when crossing borders. For multi‑country travel, consider a regional eSIM plan that covers multiple destinations."
+  - q: "Combien de temps après le paiement réussi faut-il pour recevoir le code QR de l'eSIM Corée du Sud ?"
+    a: "Généralement, le code QR est envoyé par e-mail dans les 5 à 10 minutes suivant le paiement. En cas de retard, vérifiez vos spams ou contactez le support client. L'activation est instantanée une fois le QR scanné."
 
-  - q: "Are there significant speed differences between the various regions and cities in Südkorea?"
-    a: "Yes, speed differences exist. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024), Daejeon leads with a median mobile download speed of 204.73 Mbps, while Suwon-si tops fixed broadband at 196.37 Mbps. Seoul and Busan also offer excellent speeds, but rural areas may see lower performance. Roami eSIM connects to the strongest local network to optimize your experience."
+  - q: "L'eSIM en Corée du Sud prend-elle en charge les réseaux 4G et 5G sur tout le territoire ?"
+    a: "Oui, les eSIM Roami se connectent aux réseaux 4G et 5G des opérateurs partenaires (SK Telecom, LG U+, KT). La couverture 5G est quasi nationale dans les zones urbaines, mais peut être limitée dans les zones rurales. La 4G reste disponible partout."
 
-  - q: "How can I transfer my active Südkorea eSIM profile to a new smartphone when I change phones?"
-    a: "To transfer your Roami eSIM, you need to deactivate the profile on your old device (via settings) and then scan the original QR code on your new phone. If the QR code is lost, contact Roami support for a reissue. Note that some eSIMs are single‑device only."
+  - q: "Comment vérifier si mes destinations spécifiques en Corée du Sud sont bien couvertes par les réseaux eSIM ?"
+    a: "Consultez les cartes de couverture officielles des opérateurs (SK Telecom, LG U+, KT) sur leurs sites. Vous pouvez également utiliser l'outil de vérification de <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> sur le site de Roami avant l'achat."
 
-  - q: "Is the Südkorea eSIM suitable for online gaming, and what is the average network latency (ping)?"
-    a: "Absolutely. LG U+ offers the best 5G gaming experience with a Game Score of 92.56 and latency as low as 72 ms. SK Telecom and KT also provide low latency (around 90 ms). For competitive gaming, LG U+ is the top choice."
+  - q: "À quels opérateurs mobiles locaux l'eSIM Roami se connecte-t-elle en Corée du Sud ?"
+    a: "Roami s'associe aux trois principaux opérateurs coréens : SK Telecom, LG U+ et KT. Votre eSIM se connectera automatiquement au réseau disponible le plus performant selon votre position."
 
-  - q: "Which local mobile operators does the Roami eSIM connect to in Südkorea?"
-    a: "Roami eSIM connects to all three major operators: SK Telecom, LG U+, and KT. Your device automatically selects the strongest available network, ensuring you get the best speeds and coverage during your stay."
+  - q: "Comment transférer mon profil eSIM Corée du Sud actif vers un nouveau smartphone si je change de téléphone ?"
+    a: "Le transfert d'une eSIM active n'est pas toujours possible. Il est recommandé de désactiver le profil sur l'ancien téléphone (via les réglages) et de scanner à nouveau le code QR sur le nouveau. Contactez le support Roami pour obtenir un nouveau QR si nécessaire."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Südkorea eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Corée du Sud"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "All eSIMs in Südkorea offer the same speed."
-    truth: "False. SK Telecom leads overall with a Speed Score of 236.24, while LG U+ dominates 5G with a Speed Score of 456.32. Speeds vary significantly by operator and plan."
+  - myth: "La Corée du Sud a la 5G la plus rapide du monde, donc tous les opérateurs sont équivalents."
+    truth: "Faux. SK Telecom domine la vitesse globale (236.24), mais LG U+ est le leader 5G (456.32). Les performances varient selon l'opérateur et la localisation."
 
-  - myth: "5G coverage is perfect everywhere in Südkorea."
-    truth: "While coverage is near‑nationwide, remote mountains and some islands may have limited 5G. SK Telecom and KT offer the best rural coverage, but 4G fallback is common in very remote areas."
+  - myth: "Les eSIM sont interdites en Corée du Sud à cause des lois strictes sur l'enregistrement."
+    truth: "Faux. Les eSIM sont légales et largement utilisées. L'enregistrement KYC est obligatoire, mais Roami le gère automatiquement pour vous."
 
-  - myth: "eSIM activation is complicated and requires a physical store visit."
-    truth: "Roami eSIM activates instantly via QR code – no store visit needed. Just scan, connect, and enjoy. KYC is handled digitally with your passport."
+  - myth: "La 5G mmWave est disponible partout en Corée du Sud."
+    truth: "Faux. Les licences mmWave ont été révoquées en 2023, donc les smartphones compatibles mmWave ne sont pas commercialisés. La 5G utilise principalement la bande n78 (3.5 GHz)."
 
-  - myth: "You need a Korean phone number to use data eSIM."
-    truth: "No. Roami's data‑only eSIM works without a local number. You get full internet access for apps like WhatsApp, Skype, and Google Maps."
+  - myth: "Les forfaits eSIM illimités n'ont aucune restriction de débit."
+    truth: "Faux. La plupart des forfaits 'illimités' appliquent une FUP (Fair Usage Policy) réduisant le débit après un certain volume (souvent 10-50 Go). Vérifiez les conditions."
 
-  - myth: "mmWave 5G is widely available in Südkorea."
-    truth: "mmWave (28 GHz) licenses were revoked last year, so mmWave smartphones are not yet common. Current 5G relies on the 3.5 GHz band, which still delivers excellent speeds (up to 546.83 Mbps on LG U+)."
+  - myth: "Seul Séoul bénéficie d'une bonne couverture 5G."
+    truth: "Faux. Des villes comme Daejeon (204.73 Mbps) et Suwon-si (196.37 Mbps) offrent des vitesses excellentes. La couverture 5G s'étend à toutes les grandes métropoles."
 
 
 # Data sources
-data_sources_title: "Südkorea mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Corée du Sud"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)"
-    description: "Ookla's Speedtest Intelligence data for 1H 2024 provides mobile and fixed network performance metrics for Südkorea, including Speed Scores, median download/upload speeds, latency, and consistency."
+  - name: "Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)"
+    description: "Analyse des performances réseau en Corée du Sud pour le premier semestre 2024, basée sur Speedtest Intelligence®. Données incluant les Speed Scores, débits médians et latences."
 
   - name: "OpenSignal 2024"
-    description: "OpenSignal's mobile network experience reports for Südkorea cover 5G availability, download speed experience, and gaming experience, complementing Ookla's data."
+    description: "Rapport sur l'expérience mobile en Corée du Sud, couvrant la disponibilité 5G, les vitesses et la qualité de streaming."
 
-  - name: "Korea Communications Commission (KCC) 2024"
-    description: "The KCC publishes annual reports on network quality, spectrum allocation, and operator performance, ensuring regulatory oversight and data accuracy."
+  - name: "KCC (Korea Communications Commission) 2024"
+    description: "Rapport réglementaire officiel sur la couverture réseau, les licences 5G et les statistiques de déploiement en Corée du Sud."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device, and time of day. Always check the latest operator coverage maps before traveling."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public (Ookla, OpenSignal, KCC) et sont valables pour le premier semestre 2024. Les performances peuvent varier selon les conditions locales."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de votre emplacement, de l'heure de la journée, de l'appareil utilisé et des conditions météorologiques. Les données sont fournies à titre indicatif."
 
 # CTA product card
-cta_title: "Secure your Südkorea eSIM today"
-cta_desc: "Get immediate access to blazing‑fast 5G networks from SK Telecom, LG U+, and KT. No roaming fees, instant activation, and 24/7 support."
-cta_button_text: "Buy Südkorea eSIM now"
+cta_title: "Obtenez votre eSIM Corée du Sud dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat aux réseaux 5G les plus rapides de Corée du Sud. Pas de frais d'itinérance, activation en 5 minutes, et support client 24/7."
+cta_button_text: "Acheter l'eSIM Corée du Sud maintenant"
 cta_button_link: "/south-korea-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Südkorea trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Corée du Sud gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Südkorea eSIM: Experience blazing‑fast 5G speeds
+# Corée du Sud eSIM: Résolvez vos problèmes d'itinérance sans effort
 
-> **💡 Short summary for travelers:** Say goodbye to high roaming fees: unlimited 5G data for multiple devices. Roami's Südkorea eSIM connects you to the nation's top networks, including SK Telecom (Speed Score 236.24) and LG U+ (5G Speed Score 456.32). Enjoy median download speeds of 205.10 Mbps on mobile and 152.99 Mbps on fixed broadband. Perfect for travelers, digital nomads, and business users who demand reliable, high‑speed connectivity across Seoul, Busan, Daejeon, and beyond.
+> **💡 Résumé rapide pour les voyageurs :** Dites adieu aux frais d'itinérance exorbitants : entrez dans l'ère de la connectivité mondiale gratuite. Avec Roami eSIM, profitez des réseaux 5G ultra-rapides de Corée du Sud (SK Telecom affiche un Speed Score de 236.24, LG U+ domine la 5G avec 456.32 points) sans surcoût. Activation instantanée, données prépayées et couverture nationale : votre voyage connecté commence ici.
 
-## Things you need to know before buying a Südkorea eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Corée du Sud
 
 
-### 1. Main 5G/4G frequency bands in Südkorea {#1-main-5g4g-frequency-bands-in-südkorea}
-Südkorea's 5G networks primarily use the 3.5 GHz band (n78) for wide coverage and the 28 GHz mmWave band (n257) for ultra‑fast speeds in dense urban areas. 4G LTE operates on bands 1 (2100 MHz), 3 (1800 MHz), 5 (850 MHz), and 8 (900 MHz). Ensure your device supports these bands for optimal performance.
+### 1. Bandes 5G/4G principales utilisées en Corée du Sud {#1-bandes-5g4g-principales-utilisées-en-corée-du-sud}
+Les opérateurs coréens utilisent principalement les bandes 5G : n78 (3.5 GHz) et n257 (mmWave, licence révoquée en 2023). Pour la 4G, les bandes principales sont B1 (2100 MHz), B3 (1800 MHz) et B8 (900 MHz). Assurez-vous que votre smartphone est compatible avec ces fréquences pour une expérience optimale.
 
-### 2. KYC (Know Your Customer) requirements {#2-kyc-know-your-customer-requirements}
-To activate a local SIM or eSIM in Südkorea, you must provide a valid passport and sometimes a local ID number. Roami eSIM simplifies this by handling KYC digitally – just upload your passport during purchase and you're ready to go.
+### 2. Exigence d'enregistrement KYC (Know Your Customer) {#2-exigence-denregistrement-kyc-know-your-customer}
+Toute carte SIM ou eSIM en Corée du Sud doit être enregistrée auprès des autorités. Vous devrez fournir une pièce d'identité (passeport) et un justificatif de domicile ou de voyage. Les eSIM Roami incluent cet enregistrement automatiquement, vous évitant des démarches complexes.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most Südkorea eSIM plans include a Fair Usage Policy (FUP) that caps high‑speed data (e.g., 50 GB per month) after which speeds may be throttled to 1 Mbps. Always check the plan details to avoid unexpected slowdowns.
+### 3. Politiques de limitation de débit (FUP) et données illimitées {#3-politiques-de-limitation-de-débit-fup-et-données-illimitées}
+Les forfaits dits 'illimités' en Corée du Sud appliquent souvent une politique d'utilisation équitable (FUP). Après un certain volume (généralement 10 à 50 Go), le débit peut être réduit à 1 Mbps ou moins. Vérifiez les conditions de votre forfait eSIM avant de souscrire.
 
-### 4. Device compatibility and eSIM support {#4-device-compatibility-and-esim-support}
-eSIM is supported on most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Verify that your device is unlocked and eSIM‑compatible before purchasing.
+### 4. Couverture réseau dans les zones rurales et montagneuses {#4-couverture-réseau-dans-les-zones-rurales-et-montagneuses}
+Si vous prévoyez de visiter des zones reculées (parc national de Seoraksan, îles éloignées), SK Telecom offre la meilleure couverture rurale. LG U+ et KT sont excellents en ville mais peuvent avoir des lacunes dans les zones très isolées.
 
-### 5. Network coverage in rural and remote areas {#5-network-coverage-in-rural-and-remote-areas}
-While Südkorea boasts near‑nationwide 5G coverage, remote mountainous regions and some islands may have limited 5G signal. SK Telecom and KT offer the best rural coverage; LG U+ excels in urban 5G hotspots.
+### 5. Compatibilité des smartphones avec les eSIM en Corée du Sud {#5-compatibilité-des-smartphones-avec-les-esim-en-corée-du-sud}
+La plupart des smartphones récents (iPhone XS et ultérieurs, Google Pixel 3 et ultérieurs, Samsung Galaxy S20 et ultérieurs) supportent les eSIM. Vérifiez que votre appareil est débloqué et compatible avec les réseaux coréens avant l'achat.

@@ -1,65 +1,65 @@
 ---
-title: "Schweden eSIM: Perfect for dual‑SIM devices"
-description: "Experience fast internet in Schweden with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:43:06+00:00"
-keywords: "eSIM Schweden, prepaid data, 5G network, Telenor, Bahnhof, Sweden travel eSIM"
+title: "Suède eSIM: Forfaits data flexibles de plusieurs jours"
+description: "Profitez d'Internet rapide en Suède avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:18:17+00:00"
+keywords: "eSIM Suède, données prépayées, réseau 5G, Telenor, Bahnhof, Stockholm, Huddinge, forfait data voyage"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Schweden eSIM Guide"
+  - name: "Guide eSIM Suède"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Schweden Travel eSIM Latest Guide"
-hero_subtitle_main: "Schweden eSIM: Perfect for dual‑SIM devices"
-hero_subtitle_highlight: "Premium 5G network coverage by Telenor and Tele2"
-hero_description_line1: "Quickly install via QR code and use immediately. The Schweden eSIM helps you avoid long queues at airport kiosks, offering a smart internet solution for your trip to Schweden."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Schweden eSIM"
+hero_badge: "🇸🇪 Guide actuel de l'eSIM de voyage Suède"
+hero_subtitle_main: "Suède eSIM: Forfaits data flexibles de plusieurs jours"
+hero_subtitle_highlight: "Couverture réseau 5G premium via Telenor et Tele2"
+hero_description_line1: "Choisissez l'eSIM Suède pour vous connecter aux réseaux 5G haut débit dès votre arrivée. Compatible avec iPhone et Android, elle offre un Internet stable pour les voyages, les affaires ou les études, et vous fait gagner du temps et de l'argent."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Suède"
 hero_link_url: "/sweden-esim/"
-tldr_summary: "【Designed for digital nomads: unlimited data solutions for multiple countries】 Roami's Schweden eSIM delivers blazing-fast connectivity powered by Telenor's award-winning network. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025), Telenor achieved a median download speed of 172.67 Mbps overall and 234.94 Mbps on 5G, making it the fastest mobile provider in Sweden during 1H 2025. Whether you're working from Stockholm or exploring Huddinge, Roami's eSIM ensures you stay online with zero roaming fees and instant QR activation. Conclusion: For digital nomads who demand speed and reliability, Roami's Schweden eSIM is the ultimate companion."
+tldr_summary: "Dites adieu aux frais d'itinérance élevés : données 5G illimitées pour plusieurs appareils. Avec Roami, accédez au meilleur réseau suédois, Telenor, qui affiche un débit médian de 172,67 Mbps (toutes technologies) et 234,94 Mbps en 5G selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025). Que vous soyez à Stockholm (263,63 Mbps en mobile) ou à Huddinge (231,68 Mbps en fixe), votre eSIM Roami vous garantit une connexion ultra-rapide, sans surprise."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Schweden eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Suède eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Schweden eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Suède choisir ?"
 
   - href: "#operators"
-    text: "Top Schweden eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Suède"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Schweden"
+    text: "Guide des villes : La meilleure eSIM pour Suède"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Schweden eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Suède"
 
   - href: "#faq"
-    text: "Frequently asked questions about Schweden eSIM"
+    text: "Questions fréquentes sur l'eSIM Suède"
 
   - href: "#myths"
-    text: "Myths and facts about Schweden eSIM"
+    text: "Mythes et faits sur l'eSIM Suède"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Schweden eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Suède devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,244 +67,249 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "Telenor"
     carrier_class: "text-orange-600"
-    reason: "Telenor is the fastest mobile network in Sweden with a median download speed of 172.67 Mbps and best 5G gaming experience. Ideal for remote work and streaming."
+    reason: "Meilleur réseau mobile global (Score de connectivité 84,15) et meilleur réseau 5G (Score 76,88). Débit médian 172,67 Mbps, idéal pour le télétravail et les visioconférences."
 
-  - travel: "City explorers"
+  - travel: "Voyageurs en déplacement fréquent"
     carrier: "Tele2"
     carrier_class: "text-blue-600"
-    reason: "Tele2 offers strong 5G speeds (145.54 Mbps median download) and excellent urban coverage, perfect for navigating Stockholm and other cities."
+    reason: "Deuxième meilleur débit mobile (123,92 Mbps) et bonne disponibilité 5G. Excellent rapport qualité-prix pour les déplacements entre les grandes villes."
 
-  - travel: "Budget travelers"
-    carrier: "Telia"
+  - travel: "Amateurs de gaming mobile"
+    carrier: "Telenor"
+    carrier_class: "text-orange-600"
+    reason: "Meilleure expérience de jeu 5G en Suède selon les tests. Latence 5G la plus faible (32 ms), parfait pour les jeux en ligne."
+
+  - travel: "Utilisateurs de données fixes à domicile"
+    carrier: "Bahnhof"
     carrier_class: "text-green-600"
-    reason: "Telia provides reliable connectivity with a median download speed of 98.55 Mbps and the best 5G video experience, balancing cost and performance."
+    reason: "ISP fixe le plus rapide de Suède : débit médian descendant 212,53 Mbps et montant 196 Mbps. Idéal pour les nomades numériques en location longue durée."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Schweden travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Suède la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "telenor-esim"
-    title: "Telenor eSIM Review: Best overall network performance"
-    best_for: "This plan is the absolute top choice for users who demand the fastest speeds and best 5G experience in Sweden."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025), Telenor recorded a median 5G download speed of 234.94 Mbps, the highest among all providers.\n- **Download rate**: Median overall download speed of 172.67 Mbps, upload 18.34 Mbps, latency 34 ms.\n- **Consistency**: 95.6% of samples met the 5 Mbps download / 1 Mbps upload threshold.\n- **Gaming**: Best 5G gaming experience in Sweden during 1H 2025."
-    arcep_note: "Confirmed by the Swedish Post and Telecom Authority (PTS) as a leading operator with extensive 5G coverage across major cities and highways."
-    connect_note: "Activation works seamlessly with Roami eSIM; simply scan the QR code and select Telenor as your preferred network. Dual-SIM users can keep their home SIM active for calls."
-    user_scenarios: "- **Stockholm Central Station**: Commuting through Sweden's busiest transport hub, you can stream 4K video and join video calls without buffering, thanks to Telenor's 234.94 Mbps 5G speeds.\n- **Huddinge fixed broadband alternative**: If you're staying in Huddinge, Telenor's mobile network rivals fixed broadband (231.68 Mbps fixed median), making it perfect for remote work.\n- **Road trip to Gothenburg**: On the E4 highway, Telenor's consistent coverage ensures navigation apps and music streaming never drop out."
-    bg_color: "bg-blue-50"
+    title: "Test eSIM Telenor : Meilleure couverture mobile et 5G"
+    best_for: "Ce forfait est le meilleur choix absolu pour les voyageurs exigeants qui ont besoin de la meilleure performance mobile et 5G en Suède."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025), Telenor est le meilleur réseau 5G avec un score de connectivité 5G de 76,88.\n- **Débit descendant médian** : 172,67 Mbps (toutes technologies) et 234,94 Mbps (5G).\n- **Débit montant médian** : 18,34 Mbps (toutes technologies) et 21,27 Mbps (5G).\n- **Latence** : 34 ms (toutes technologies) et 32 ms (5G).\n- **Consistance** : 95,6% des échantillons dépassent 5 Mbps descendant / 1 Mbps montant ; 88,3% des échantillons 5G dépassent 25 Mbps descendant / 3 Mbps montant."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (PTS) et les données Speedtest Intelligence® du premier semestre 2025."
+    connect_note: "L'activation se déroule sans problème via QR code. Compatible avec tous les smartphones récents. Aucune configuration manuelle requise."
+    user_scenarios: "- **Gamla Stan, Stockholm** : Naviguez dans les ruelles médiévales avec une connexion 5G stable pour partager vos photos en temps réel.\n- **Gare centrale de Stockholm** : Téléchargez vos podcasts et cartes hors ligne en quelques secondes avant de prendre le train pour Göteborg.\n- **Campus de l'Université d'Uppsala** : Participez à des cours en visioconférence sans coupure, même en extérieur."
+    bg_color: "bg-orange-50"
 
   - id: "tele2-esim"
-    title: "Tele2 eSIM Review: Strong 5G speeds and urban reliability"
-    best_for: "This plan is ideal for city travelers who need fast, reliable 5G in metropolitan areas."
-    core_data: "- **5G download speed**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025), Tele2 recorded a median 5G download speed of 145.54 Mbps, second only to Telenor.\n- **Overall download**: Median download speed of 123.92 Mbps across all technologies.\n- **Coverage**: Excellent 5G coverage in Stockholm, Gothenburg, and Malmö."
-    arcep_note: "Tele2 is a major Swedish operator regulated by PTS, known for its strong urban 5G rollout and competitive pricing."
-    connect_note: "Roami eSIM users can easily switch to Tele2 for a balance of speed and cost. Activation is instant via QR code."
-    user_scenarios: "- **Stockholm Old Town (Gamla Stan)**: Navigating narrow cobblestone streets with live maps and instant social media uploads, Tele2's 5G keeps you connected.\n- **Malmö city break**: Enjoy smooth video calls and streaming in Sweden's third-largest city.\n- **Business meetings in Uppsala**: Reliable connectivity for conference calls and file sharing."
+    title: "Test eSIM Tele2 : Excellent rapport qualité-prix"
+    best_for: "Ce forfait est idéal pour les voyageurs soucieux de leur budget qui veulent une connexion fiable sans payer le prix premium."
+    core_data: "- **Débit descendant médian** : 123,92 Mbps (toutes technologies) et 145,54 Mbps (5G).\n- **Positionnement** : Deuxième opérateur mobile le plus rapide de Suède selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025).\n- **Couverture** : Bonne couverture 4G/5G dans les zones urbaines et périurbaines."
+    arcep_note: "Données issues de Speedtest Intelligence® et conformes aux rapports de l'autorité suédoise des télécommunications (PTS)."
+    connect_note: "Activation instantanée par QR code. Profil eSIM préchargé, prêt à l'emploi dès l'arrivée."
+    user_scenarios: "- **Aéroport d'Arlanda** : Commandez un VTC et consultez les horaires de vol sans attendre.\n- **Métro de Stockholm** : Écoutez du streaming musical en continu grâce à la couverture souterraine.\n- **Café à Malmö** : Travaillez en nomade avec une connexion stable pour vos appels VoIP."
     bg_color: "bg-blue-50"
 
-  - id: "telia-esim"
-    title: "Telia eSIM Review: Best 5G video experience"
-    best_for: "This plan is perfect for entertainment lovers who prioritize video streaming quality."
-    core_data: "- **5G video experience**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025), Telia scored 90.08 in 5G Video Streaming Score, the highest among providers.\n- **Overall download**: Median download speed of 98.55 Mbps.\n- **Coverage**: Nationwide 4G and 5G coverage, especially strong in rural areas."
-    arcep_note: "Telia is Sweden's incumbent operator, regulated by PTS, with a long history of reliable service and extensive rural coverage."
-    connect_note: "Roami eSIM supports Telia for users who want the best video streaming quality. Activation is simple and dual-SIM compatible."
-    user_scenarios: "- **Long train ride from Stockholm to Gothenburg**: Stream Netflix or YouTube in high definition without buffering.\n- **Camping in Swedish Lapland**: Telia's rural coverage ensures you can stay connected even in remote nature.\n- **Video calls with family**: Crystal-clear video calls thanks to Telia's optimized video streaming."
-    bg_color: "bg-blue-50"
+  - id: "bahnhof-esim"
+    title: "Test eSIM Bahnhof : Le roi de la fibre et du fixe"
+    best_for: "Ce forfait est parfait pour les nomades numériques et les expatriés qui ont besoin d'une connexion fixe ultra-rapide à domicile."
+    core_data: "- **Débit descendant médian** : 212,53 Mbps (fixe).\n- **Débit montant médian** : 196 Mbps (fixe).\n- **Performance** : ISP fixe le plus rapide de Suède selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025).\n- **Gaming** : Meilleure expérience de jeu parmi les FAI suédois."
+    arcep_note: "Données vérifiées par Speedtest Intelligence® et l'autorité de régulation suédoise (PTS)."
+    connect_note: "Installation simple via box fibre. Activation en quelques heures. Idéal pour les locations longue durée."
+    user_scenarios: "- **Appartement à Huddinge** : Téléchargez des fichiers volumineux pour votre travail à distance à 231,68 Mbps.\n- **Maison à Göteborg** : Organisez des réunions en visio avec une qualité HD sans latence.\n- **Studio à Uppsala** : Jouez en ligne avec une latence minimale et des téléchargements instantanés."
+    bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Schweden eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Schweden eSIM and local 5G bands"
-cards_free_title: "Get your free Schweden eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Suède"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Suède et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Suède gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Schweden eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Suède"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Sweden"
-    content: "Sweden's 5G networks primarily use the 3.5 GHz band (n78) for high-speed urban coverage, and the 700 MHz band (n28) for wider rural coverage. 4G LTE uses bands 1 (2100 MHz), 3 (1800 MHz), 7 (2600 MHz), and 20 (800 MHz). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Fréquences 5G/4G principales en Suède"
+    content: "Les opérateurs suédois utilisent principalement les bandes 700 MHz (bande 28), 800 MHz (bande 20), 1800 MHz (bande 3), 2100 MHz (bande 1) et 2600 MHz (bande 7) pour la 4G. Pour la 5G, les bandes 3,5 GHz (n78) et 700 MHz (n28) sont déployées. Assurez-vous que votre smartphone est compatible avec ces fréquences pour bénéficier de la meilleure couverture."
 
-  - heading: "2. KYC (Know Your Customer) requirements"
-    content: "To activate a Swedish eSIM, you typically need to provide a valid passport or national ID. Some providers may require a Swedish personal number (personnummer) for postpaid plans, but prepaid eSIMs like Roami only need your email and payment details."
+  - heading: "2. Exigence d'identification (KYC) pour les eSIM"
+    content: "En Suède, l'achat d'une eSIM prépayée nécessite une vérification d'identité (KYC). Vous devrez fournir une pièce d'identité valide (passeport ou carte d'identité) lors de l'activation. Roami simplifie ce processus en ligne pour une activation rapide et conforme."
 
-  - heading: "3. Fair Usage Policy (FUP) and data caps"
-    content: "Most Swedish eSIM plans have a Fair Usage Policy. For example, after exceeding a certain daily or monthly data threshold (e.g., 2 GB per day), speeds may be throttled to 128 kbps or 256 kbps. Always check the specific FUP of your chosen plan."
+  - heading: "3. Politique d'utilisation équitable (FUP) et limitations de vitesse"
+    content: "La plupart des forfaits eSIM en Suède incluent une politique d'utilisation équitable (FUP). Après un certain seuil de données (ex: 2 Go par jour), la vitesse peut être réduite à 128 kbps ou 256 kbps. Vérifiez les conditions de votre forfait pour éviter les mauvaises surprises."
 
-  - heading: "4. Network compatibility and dual-SIM setup"
-    content: "Sweden's eSIMs work with most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Dual-SIM users can keep their home SIM active for calls while using the Swedish eSIM for data."
+  - heading: "4. Couverture réseau dans les zones rurales et archipels"
+    content: "La Suède possède de vastes zones rurales et un archipel étendu. Telenor et Tele2 offrent la meilleure couverture dans ces régions, mais la 5G peut être limitée. Pour les voyages dans l'archipel de Stockholm ou en Laponie, privilégiez un forfait avec accès au réseau 4G de Telenor."
 
-  - heading: "5. Roaming and coverage outside major cities"
-    content: "While 5G coverage is excellent in cities like Stockholm, Gothenburg, and Malmö, rural areas may rely on 4G. Telenor and Telia offer the best rural coverage. Check coverage maps before traveling to remote regions."
+  - heading: "5. Itinérance et utilisation transfrontalière"
+    content: "Les eSIM suédoises sont généralement valables uniquement en Suède. Si vous voyagez au Danemark, en Norvège ou en Finlande, vérifiez si votre forfait inclut l'itinérance dans les pays nordiques. Roami propose des forfaits spécifiques pour la région nordique."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Schweden"
-city_guide_desc: "Find out which Schweden eSIM is the best choice for your destination city based on real speed test data and local network performance."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Suède"
+city_guide_desc: "Découvrez quelle eSIM Suède est le meilleur choix pour votre ville de destination, basé sur les performances réseau réelles."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
   - city: "Stockholm"
     carriers: "Telenor"
-    reason: "Stockholm recorded the fastest median mobile download speed of 263.63 Mbps among Swedish cities. Telenor's 5G network delivers the best performance here, ideal for digital nomads and business travelers."
+    reason: "Stockholm est la ville la plus rapide de Suède pour le mobile avec un débit médian de 263,63 Mbps. Telenor y offre la meilleure expérience 5G et la latence la plus faible (32 ms). Idéal pour les professionnels et les touristes connectés."
 
   - city: "Huddinge"
-    carriers: "Bahnhof (fixed) / Telenor (mobile)"
-    reason: "Huddinge has the fastest fixed broadband median download speed of 231.68 Mbps. For mobile, Telenor offers the best speeds. If you need a fixed-line alternative, Bahnhof is the top ISP."
+    carriers: "Bahnhof"
+    reason: "Huddinge détient le record de vitesse fixe avec 231,68 Mbps en téléchargement. Bahnhof est le FAI le plus rapide du pays, parfait pour les nomades numériques en location longue durée dans cette banlieue de Stockholm."
 
-  - city: "Gothenburg"
+  - city: "Göteborg"
     carriers: "Tele2"
-    reason: "Gothenburg has strong 5G coverage from Tele2, with median download speeds around 120 Mbps. Tele2 is a reliable choice for city exploration and business trips."
+    reason: "Deuxième ville de Suède, Göteborg bénéficie d'une excellente couverture Tele2. Avec un débit 5G de 145,54 Mbps, c'est un choix équilibré pour les voyageurs d'affaires et les touristes visitant le parc d'attractions Liseberg."
 
   - city: "Malmö"
-    carriers: "Telia"
-    reason: "Malmö benefits from Telia's excellent 5G video experience and consistent coverage. Ideal for streaming and video calls while enjoying the city's cultural attractions."
+    carriers: "Telenor"
+    reason: "Proche du Danemark, Malmö est bien couverte par Telenor. La 5G y est très performante, idéale pour les navetteurs entre la Suède et Copenhague. La latence de 32 ms assure des appels vidéo fluides."
 
   - city: "Uppsala"
     carriers: "Telenor"
-    reason: "Uppsala, a major university city, has robust Telenor 5G coverage. Students and researchers can rely on fast speeds for online learning and research."
+    reason: "Ville universitaire dynamique, Uppsala bénéficie d'une couverture Telenor de premier plan. Les étudiants et chercheurs peuvent compter sur un débit descendant de 172,67 Mbps pour leurs travaux en ligne et le streaming."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Schweden eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Suède selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Stockholm's Gamla Stan, visit the Vasa Museum, and enjoy fika at local cafes. With Telenor's 5G, you can navigate, share photos, and stream guides without lag."
+    title: "Découvreur de villes"
+    text: "Explorez Stockholm, Göteborg et Malmö avec une connexion 5G ultra-rapide. Téléchargez des guides, réservez des visites et partagez vos photos en temps réel sans attendre."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike in Abisko National Park or kayak in the Stockholm archipelago. Telia's rural coverage ensures you stay connected even in remote natural settings."
+    title: "Amoureux de la nature"
+    text: "Partez en randonnée dans l'archipel de Stockholm ou en Laponie. La couverture 4G de Telenor assure une connexion même dans les zones reculées, pour votre sécurité et pour partager vos aventures."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the E4 from Stockholm to Malmö or the scenic roads of Dalarna. Telenor's consistent network keeps your GPS and music streaming uninterrupted."
+    title: "Roadtrippeur"
+    text: "Parcourez la Suède en voiture de Stockholm à Malmö. Avec Tele2, bénéficiez d'une connexion stable sur les autoroutes et dans les petites villes. Utilisez le GPS et le streaming musical sans interruption."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on the beaches of Öland or Gotland. Tele2's 5G coverage in coastal areas lets you share sunset photos and video call friends instantly."
+    title: "Vacancier à la plage"
+    text: "Profitez des plages de l'archipel de Stockholm ou de la côte ouest. La 5G de Telenor vous permet de regarder des films en streaming et de rester connecté même en bord de mer."
 
-scene_guide_footer: "💡 The Roami Schweden eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Suède détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Schweden eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Suède"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Is the Schweden eSIM suitable for online gaming, and what is the average network latency (ping)?"
-    a: "Yes, the Schweden eSIM is excellent for online gaming. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025), Telenor recorded the best 5G gaming experience in Sweden during 1H 2025, with a median latency of 32 ms on 5G and 34 ms overall. This low latency is suitable for real-time games like Fortnite, Call of Duty, and League of Legends."
+  - q: "Dois-je activer l'itinérance des données dans les paramètres de mon smartphone pour que l'eSIM Suède fonctionne ?"
+    a: "Oui, pour que votre eSIM Roami fonctionne correctement en Suède, vous devez activer l'itinérance des données dans les paramètres de votre téléphone. Cela permet à votre appareil de se connecter aux réseaux partenaires locaux (Telenor, Tele2, etc.). Sans cette activation, la connexion data ne fonctionnera pas. Rendez-vous dans Réseau mobile > Itinérance des données et activez-la."
 
-  - q: "My phone supports dual eSIM. Can I have two Schweden eSIM profiles active at the same time?"
-    a: "Yes, if your phone supports dual eSIM (e.g., iPhone 13 and newer, Google Pixel 7 and newer), you can have two Schweden eSIM profiles active simultaneously. However, only one can be used for data at a time. You can easily switch between profiles in your phone settings. Roami's eSIM works perfectly in dual-SIM mode, allowing you to keep your home SIM for calls."
+  - q: "Existe-t-il une limite spécifique de consommation de données (par exemple après 2 Go par jour) à partir de laquelle la vitesse de l'eSIM Suède est réduite ?"
+    a: "Oui, la plupart des forfaits eSIM en Suède, y compris ceux de Roami, appliquent une politique d'utilisation équitable (FUP). Par exemple, après avoir consommé 2 Go de données en une journée, votre vitesse peut être réduite à 128 kbps ou 256 kbps jusqu'à la fin de la journée. Cette limitation est réinitialisée chaque jour. Vérifiez les conditions spécifiques de votre forfait pour connaître les seuils exacts."
 
-  - q: "Is there a specific data usage threshold (e.g., after 2 GB per day) after which the speed of the Schweden eSIM is reduced?"
-    a: "Yes, many prepaid eSIM plans in Sweden have a Fair Usage Policy (FUP). For example, after exceeding 2 GB of daily data usage, speeds may be throttled to 128 kbps or 256 kbps. Always check the specific terms of your plan. Roami offers transparent FUP details, and some plans have no throttling for the first 10 GB."
+  - q: "L'eSIM bascule-t-elle automatiquement vers le meilleur réseau lors d'un voyage transfrontalier ou n'est-elle valable que pour Suède ?"
+    a: "L'eSIM Roami pour la Suède est conçue pour fonctionner uniquement sur le territoire suédois. Elle ne bascule pas automatiquement vers les réseaux des pays voisins (Danemark, Norvège, Finlande). Si vous voyagez dans un autre pays nordique, vous devrez souscrire un forfait spécifique pour cette région. Roami propose des forfaits nordiques couvrant plusieurs pays."
 
-  - q: "Does the eSIM in Schweden support nationwide 4G and 5G networks?"
-    a: "Yes, the eSIM supports both 4G and 5G networks across Sweden. Telenor, Tele2, and Telia all have extensive 4G coverage nationwide and 5G in major cities and along highways. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025), Telenor's 5G availability is statistically tied with other providers, meaning you can expect 5G in most urban areas."
+  - q: "L'eSIM en Suède prend-elle en charge les réseaux 4G et 5G sur tout le territoire ?"
+    a: "Oui, les eSIM Roami en Suède prennent en charge les réseaux 4G et 5G. Cependant, la couverture 5G est principalement concentrée dans les grandes villes comme Stockholm, Göteborg, Malmö et Uppsala. Dans les zones rurales et l'archipel, vous basculerez automatiquement sur la 4G, qui offre une excellente couverture grâce à Telenor et Tele2. La 5G est disponible dans environ 80% des zones urbaines."
 
-  - q: "Are traditional voice call and SMS functions included in this Schweden data plan?"
-    a: "Most prepaid eSIM data plans in Sweden are data-only and do not include traditional voice call or SMS functions. However, you can use VoIP services like WhatsApp, Skype, or FaceTime for calls and messages. If you need a local phone number, consider a hybrid plan that includes voice minutes. Roami's eSIM is primarily data-focused, perfect for internet-based communication."
+  - q: "Comment transférer mon profil eSIM Suède actif vers un nouveau smartphone si je change de téléphone ?"
+    a: "Le transfert d'un profil eSIM actif vers un nouveau smartphone n'est pas automatique. Vous devez d'abord désactiver l'eSIM sur votre ancien téléphone (supprimer le profil dans les paramètres). Ensuite, sur votre nouveau téléphone, scannez à nouveau le code QR fourni par Roami lors de l'achat. Si vous avez perdu le QR code, contactez le support Roami pour obtenir un nouveau lien de téléchargement. Assurez-vous que votre nouveau téléphone est déverrouillé et compatible eSIM."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Schweden eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Suède"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "Sweden's mobile networks are slow and unreliable in rural areas."
-    truth: "False. Sweden has excellent rural coverage, especially from Telia and Telenor. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025), Telenor's consistency score is 95.6%, meaning most users experience reliable speeds even outside cities."
+  - myth: "La 5G en Suède est disponible partout, même dans l'archipel."
+    truth: "Faux. La 5G est principalement déployée dans les grandes villes et leurs agglomérations. Dans l'archipel de Stockholm et les zones rurales, la 4G reste le réseau dominant, avec une couverture excellente grâce à Telenor."
 
-  - myth: "You need a Swedish personal number to buy a prepaid eSIM."
-    truth: "Not true. Prepaid eSIMs like Roami only require an email and payment. No Swedish personal number (personnummer) is needed for activation."
+  - myth: "Tous les opérateurs suédois offrent la même vitesse 5G."
+    truth: "Faux. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025), Telenor est nettement plus rapide que ses concurrents avec un débit 5G médian de 234,94 Mbps, contre 145,54 Mbps pour Tele2 et 115,25 Mbps pour 3. Le choix de l'opérateur a un impact direct sur votre expérience."
 
-  - myth: "5G in Sweden is only available in Stockholm."
-    truth: "False. 5G is widely available in Gothenburg, Malmö, Uppsala, and along major highways. Telenor and Tele2 have rolled out 5G in over 50 cities."
+  - myth: "Les eSIM sont moins fiables que les cartes SIM physiques en Suède."
+    truth: "Faux. Les eSIM sont tout aussi fiables, voire plus, car elles ne peuvent pas être perdues ou endommagées. Elles offrent une activation instantanée et la possibilité de changer de forfait sans changer de carte. Les réseaux suédois supportent parfaitement les profils eSIM."
 
-  - myth: "All eSIMs in Sweden have the same speed."
-    truth: "No. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025), Telenor is the fastest with a median download speed of 172.67 Mbps, while Tele2 and Telia are slower. Choose your provider based on your needs."
+  - myth: "Il est obligatoire d'avoir un numéro suédois pour utiliser Internet mobile en Suède."
+    truth: "Faux. Les eSIM de voyage comme Roami fournissent uniquement des données, sans numéro de téléphone local. Vous pouvez utiliser WhatsApp, Skype ou d'autres applications pour passer des appels. C'est plus simple et moins cher pour les courts séjours."
 
-  - myth: "eSIMs are not compatible with older smartphones."
-    truth: "Many older smartphones (iPhone XS and newer, Google Pixel 3 and newer) support eSIM. Check your device's specifications before purchasing."
+  - myth: "Le réseau fixe de Bahnhof est identique à son réseau mobile."
+    truth: "Faux. Bahnhof est principalement un fournisseur d'accès fixe (fibre). Son réseau mobile est limité. Pour le mobile, Telenor et Tele2 sont les meilleurs choix. Bahnhof excelle dans le fixe avec un débit descendant médian de 212,53 Mbps."
 
 
 # Data sources
-data_sources_title: "Schweden mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Suède"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla's Speedtest Intelligence data for Sweden 1H 2025 provides median download/upload speeds, latency, consistency, and 5G performance for Telenor, Tele2, Telia, and 3."
+  - name: "Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025)"
+    description: "Rapport Speedtest Intelligence® pour la Suède, premier semestre 2025. Analyse des performances des réseaux mobiles et fixes, incluant les débits, la latence et la consistance."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's Sweden Mobile Network Experience Report (2025) offers insights on video experience, download speed, and 5G coverage across operators."
+    description: "Rapport OpenSignal sur l'expérience mobile en Suède, couvrant la disponibilité 5G, la vitesse de téléchargement et l'expérience de jeu vidéo."
 
-  - name: "Swedish Post and Telecom Authority (PTS) 2025"
-    description: "PTS publishes annual reports on mobile coverage, spectrum allocation, and operator performance, confirming the regulatory landscape and network quality."
+  - name: "PTS (Post- och telestyrelsen) 2025"
+    description: "Rapport de l'autorité nationale suédoise des télécommunications sur la couverture réseau, les fréquences attribuées et la qualité de service des opérateurs."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports, including Ookla Speedtest Intelligence and PTS. Speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device, and time of day. Always check the latest coverage maps and plan details before purchasing."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public (Ookla, OpenSignal, PTS) et sont basées sur des mesures réalisées entre janvier et juin 2025. Les vitesses peuvent varier selon les conditions locales, le type d'appareil et l'heure de la journée."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de votre emplacement, de votre appareil, des conditions météorologiques et de la congestion du réseau. Les données présentées sont des médianes et ne garantissent pas une expérience individuelle."
 
 # CTA product card
-cta_title: "Secure your Schweden eSIM today"
-cta_desc: "Get immediate access to Sweden's fastest 5G networks with Roami eSIM. Instant QR activation, no roaming fees, and dual-SIM support."
-cta_button_text: "Buy Schweden eSIM now"
+cta_title: "Obtenez votre eSIM Suède dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat au meilleur réseau suédois (Telenor, Tele2) avec une activation instantanée par QR code. Profitez de la 5G ultra-rapide à Stockholm, Göteborg et Malmö. Pas de frais d'itinérance, pas de surprise."
+cta_button_text: "Acheter l'eSIM Suède maintenant"
 cta_button_link: "/sweden-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Schweden trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Suède gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Schweden eSIM: Perfect for dual‑SIM devices
+# Suède eSIM: Forfaits data flexibles de plusieurs jours
 
-> **💡 Short summary for travelers:** 【Designed for digital nomads: unlimited data solutions for multiple countries】 Roami's Schweden eSIM delivers blazing-fast connectivity powered by Telenor's award-winning network. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025), Telenor achieved a median download speed of 172.67 Mbps overall and 234.94 Mbps on 5G, making it the fastest mobile provider in Sweden during 1H 2025. Whether you're working from Stockholm or exploring Huddinge, Roami's eSIM ensures you stay online with zero roaming fees and instant QR activation. Conclusion: For digital nomads who demand speed and reliability, Roami's Schweden eSIM is the ultimate companion.
+> **💡 Résumé rapide pour les voyageurs :** Dites adieu aux frais d'itinérance élevés : données 5G illimitées pour plusieurs appareils. Avec Roami, accédez au meilleur réseau suédois, Telenor, qui affiche un débit médian de 172,67 Mbps (toutes technologies) et 234,94 Mbps en 5G selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025). Que vous soyez à Stockholm (263,63 Mbps en mobile) ou à Huddinge (231,68 Mbps en fixe), votre eSIM Roami vous garantit une connexion ultra-rapide, sans surprise.
 
-## Things you need to know before buying a Schweden eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Suède
 
 
-### 1. Main 5G/4G frequency bands in Sweden {#1-main-5g4g-frequency-bands-in-sweden}
-Sweden's 5G networks primarily use the 3.5 GHz band (n78) for high-speed urban coverage, and the 700 MHz band (n28) for wider rural coverage. 4G LTE uses bands 1 (2100 MHz), 3 (1800 MHz), 7 (2600 MHz), and 20 (800 MHz). Ensure your device supports these bands for optimal performance.
+### 1. Fréquences 5G/4G principales en Suède {#1-fréquences-5g4g-principales-en-suède}
+Les opérateurs suédois utilisent principalement les bandes 700 MHz (bande 28), 800 MHz (bande 20), 1800 MHz (bande 3), 2100 MHz (bande 1) et 2600 MHz (bande 7) pour la 4G. Pour la 5G, les bandes 3,5 GHz (n78) et 700 MHz (n28) sont déployées. Assurez-vous que votre smartphone est compatible avec ces fréquences pour bénéficier de la meilleure couverture.
 
-### 2. KYC (Know Your Customer) requirements {#2-kyc-know-your-customer-requirements}
-To activate a Swedish eSIM, you typically need to provide a valid passport or national ID. Some providers may require a Swedish personal number (personnummer) for postpaid plans, but prepaid eSIMs like Roami only need your email and payment details.
+### 2. Exigence d'identification (KYC) pour les eSIM {#2-exigence-didentification-kyc-pour-les-esim}
+En Suède, l'achat d'une eSIM prépayée nécessite une vérification d'identité (KYC). Vous devrez fournir une pièce d'identité valide (passeport ou carte d'identité) lors de l'activation. Roami simplifie ce processus en ligne pour une activation rapide et conforme.
 
-### 3. Fair Usage Policy (FUP) and data caps {#3-fair-usage-policy-fup-and-data-caps}
-Most Swedish eSIM plans have a Fair Usage Policy. For example, after exceeding a certain daily or monthly data threshold (e.g., 2 GB per day), speeds may be throttled to 128 kbps or 256 kbps. Always check the specific FUP of your chosen plan.
+### 3. Politique d'utilisation équitable (FUP) et limitations de vitesse {#3-politique-dutilisation-équitable-fup-et-limitations-de-vitesse}
+La plupart des forfaits eSIM en Suède incluent une politique d'utilisation équitable (FUP). Après un certain seuil de données (ex: 2 Go par jour), la vitesse peut être réduite à 128 kbps ou 256 kbps. Vérifiez les conditions de votre forfait pour éviter les mauvaises surprises.
 
-### 4. Network compatibility and dual-SIM setup {#4-network-compatibility-and-dual-sim-setup}
-Sweden's eSIMs work with most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Dual-SIM users can keep their home SIM active for calls while using the Swedish eSIM for data.
+### 4. Couverture réseau dans les zones rurales et archipels {#4-couverture-réseau-dans-les-zones-rurales-et-archipels}
+La Suède possède de vastes zones rurales et un archipel étendu. Telenor et Tele2 offrent la meilleure couverture dans ces régions, mais la 5G peut être limitée. Pour les voyages dans l'archipel de Stockholm ou en Laponie, privilégiez un forfait avec accès au réseau 4G de Telenor.
 
-### 5. Roaming and coverage outside major cities {#5-roaming-and-coverage-outside-major-cities}
-While 5G coverage is excellent in cities like Stockholm, Gothenburg, and Malmö, rural areas may rely on 4G. Telenor and Telia offer the best rural coverage. Check coverage maps before traveling to remote regions.
+### 5. Itinérance et utilisation transfrontalière {#5-itinérance-et-utilisation-transfrontalière}
+Les eSIM suédoises sont généralement valables uniquement en Suède. Si vous voyagez au Danemark, en Norvège ou en Finlande, vérifiez si votre forfait inclut l'itinérance dans les pays nordiques. Roami propose des forfaits spécifiques pour la région nordique.

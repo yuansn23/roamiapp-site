@@ -1,94 +1,90 @@
 ---
-title: Tanzania eSIM Data Plan | Best 2026 Travel eSIM | Roami
+title: Forfait eSIM Tanzanie | Meilleur eSIM voyage 2026 | Roami
 date: '2026-03-29T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Tanzania eSIM
-  scenario_keywords: Safari tours, Beach vacations, Mountain trekking, Cultural heritage,
-    Wildlife photography
+  core_keyword: eSIM Tanzanie
+  scenario_keywords: Safaris, vacances à la plage, randonnée en montagne, patrimoine culturel, photographie animalière
   operators: Vodacom, Airtel, Tigo
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Dar es Salaam, Mwanza, Arusha, Zanzibar City
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_packages: 3/7/15/30 Jours, Données illimitées
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: Service mis à jour !
+  btn_text: Continuer
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
 seo:
-  title: Tanzania eSIM |20% OFF| Reliable 5G for Family Vacations |Roami
-  description: Heading to Tanzania soon? Get Roami's Zero-Lag 5G on Top Local Carrier
-    with 24/7 Data. Ideal for Visiting Family. Enjoy Unlimited Data with Multi-Country
-    Roaming.
-  keywords: Tanzania eSIM, prepaid eSIM Tanzania, cheap eSIM Tanzania, travel internet
-    Tanzania, eSIM for tourists
+  title: eSIM Tanzanie | 20% DE RÉDUCTION | 5G fiable pour vacances en famille | Roami
+  description: Vous partez bientôt en Tanzanie ? Obtenez la 5G sans latence de Roami sur le meilleur opérateur local avec une connexion data 24/7. Idéal pour les visites familiales. Profitez de données illimitées avec itinérance multi-pays.
+  keywords: eSIM Tanzanie, eSIM prépayée Tanzanie, eSIM pas cher Tanzanie, internet voyage Tanzanie, eSIM pour touristes
   low_price: 1.99
   high_price: 39.9
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: Forfait sélectionné
+  label_data: Données incluses
+  label_validity: Validité
+  label_daily: Moyenne journalière
+  label_total: Prix total
+  btn_primary: Obtenir 20% de réduction
+  btn_secondary: 'Code : web20'
 breadcrumbs:
-- label: Home
+- label: Accueil
   url: /
-- label: Tanzania eSIM
+- label: eSIM Tanzanie
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Tanzania
-  title: Best eSIM for Tanzania
+  alt: Meilleur eSIM pour la Tanzanie
+  title: Meilleur eSIM pour la Tanzanie
 hero:
   flag_image: img/flags/ta.svg
-  flag_alt: Tanzania Flag
-  title: Tanzania eSIM data plan
-  subtitle: Bestseller | Hotspot supported | 20% discount for a limited time
+  flag_alt: Drapeau de la Tanzanie
+  title: Forfait eSIM Tanzanie
+  subtitle: Meilleure vente | Point d'accès supporté | Réduction de 20% pour une durée limitée
 features:
-  title: Why Travelers Choose Roami
+  title: Pourquoi les voyageurs choisissent Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: Code QR instantané
+    desc: Livré en 5 min
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: Support 24/7
+    desc: Toujours là pour vous aider
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: Non disponible
+    desc: Protection remboursement
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: Point d'accès supporté
+    desc: Partagez avec d'autres appareils
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: Sans engagement
+    desc: Annulez à tout moment, librement
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: Commutation automatique
+    desc: Connectez-vous aux meilleurs opérateurs
+plans_title: Choisissez votre forfait
 plans_data:
   7 Days:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour les courts voyages d'affaires
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.14'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour les visites touristiques
     price: '23.99'
     oldPrice: '35.98'
     tag: ''
@@ -96,24 +92,24 @@ plans_data:
     daily: '3.43'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour un voyage approfondi
     price: '34.99'
     oldPrice: '52.48'
-    tag: Great Value
+    tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '5.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour un voyage approfondi
     price: '35.99'
     oldPrice: '53.98'
-    tag: Great Value
+    tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '5.14'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour votre voyage
     price: '64.99'
     oldPrice: '97.48'
     tag: ''
@@ -121,24 +117,24 @@ plans_data:
     daily: '9.28'
   3 Days:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Haut débit illimité
+    desc: Utilisation des données sans souci
     price: '52.99'
     oldPrice: '79.48'
     tag: Premium
     tagColor: bg-purple-600
     daily: '17.66'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour les courts voyages d'affaires
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour les visites touristiques
     price: '13.99'
     oldPrice: '20.98'
     tag: ''
@@ -146,57 +142,57 @@ plans_data:
     daily: '4.66'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour un voyage approfondi
     price: '20.99'
     oldPrice: '31.48'
-    tag: Great Value
+    tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '7.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour un voyage approfondi
     price: '32.99'
     oldPrice: '49.48'
-    tag: Great Value
+    tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '11.00'
   30 Days:
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour votre voyage
     price: '98.99'
     oldPrice: '148.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.30'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour votre voyage
     price: '59.99'
     oldPrice: '89.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour un voyage approfondi
     price: '33.99'
     oldPrice: '50.98'
-    tag: Great Value
+    tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '1.13'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour un voyage approfondi
     price: '19.99'
     oldPrice: '29.98'
-    tag: Great Value
+    tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '0.67'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour les visites touristiques
     price: '18.99'
     oldPrice: '28.48'
     tag: ''
@@ -205,32 +201,32 @@ plans_data:
     tagIcon: star
   15 Days:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour votre voyage
     price: '70.99'
     oldPrice: '106.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '4.73'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour un voyage approfondi
     price: '38.99'
     oldPrice: '58.48'
-    tag: Great Value
+    tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '2.60'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour un voyage approfondi
     price: '24.99'
     oldPrice: '37.48'
-    tag: Great Value
+    tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '1.67'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour les visites touristiques
     price: '16.99'
     oldPrice: '25.48'
     tag: ''
@@ -238,547 +234,424 @@ plans_data:
     daily: '1.13'
     tagIcon: star
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour votre voyage
     price: '95.99'
     oldPrice: '143.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '6.40'
 discount_banner:
-  title: Special Discount!
+  title: Réduction spéciale !
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    Utilisez le code promo <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> lors du paiement pour obtenir <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% DE RÉDUCTION</span> sur votre commande !
+  btn_text: Profiter de la réduction
+  validity: 'Validité : 3 jours'
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: Détails de la couverture réseau
+  supports_text: 'Supporte :'
   service_details:
-    title: Service Details
+    title: Détails du service
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Tanzania, including major
-        cities like Dar es Salaam, Arusha, Mwanza, and Zanzibar. Our Tanzania eSIM
-        seamlessly connects to the robust networks of Vodacom, Airtel, and Tigo, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: Couverture
+      desc: Profitez d'une couverture réseau complète en Tanzanie, y compris les grandes villes comme Dar es Salaam, Arusha, Mwanza et Zanzibar. Notre eSIM Tanzanie se connecte de manière transparente aux réseaux robustes de Vodacom, Airtel et Tigo, garantissant un signal stable dans les centres urbains, les lieux touristiques et le long des principaux axes de transport.
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: Délai de livraison
+      desc: Livraison immédiate après l'achat.
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: Point d'accès
+      desc: Aucune limite ou restriction de partage de connexion.
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: Réseaux partenaires
+    badge: Partenaire officiel
     items:
     - name: Vodacom
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: Faible latence
+      network: Réseau 5G/4G/LTE
     - name: Airtel
-      coverage: Reliability
-      network: 5G/4G/LTE Network
+      coverage: Fiabilité
+      network: Réseau 5G/4G/LTE
     - name: Tigo
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: IP native
+      network: Réseau 5G/4G/LTE
 reminders:
-  title: Important Reminders
+  title: Rappels importants
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      Assurez-vous que votre téléphone est <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatible eSIM</a> avant l'achat.
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Tanzania.
+    html: Nous recommandons d'activer la ligne après votre arrivée en Tanzanie.
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: La validité commence à la connexion à un réseau pris en charge.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Le code QR sera envoyé à votre adresse e-mail.
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: Vous pouvez installer plusieurs eSIM simultanément.
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: Vérification rapide de compatibilité
+    desc: 'Vous ne savez pas si votre téléphone prend en charge l''eSIM ? Vous pouvez le vérifier facilement vous-même dès maintenant :'
+    instruction: 'Composez ceci sur le clavier de votre téléphone :'
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> apparaît à l'écran, votre appareil est compatible !
 activation_steps:
-  title: Activation Steps
+  title: Étapes d'activation
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 'Étape 1 : Recevoir le code QR'
+    desc: Après paiement, un code QR et un guide d'activation vous seront envoyés par e-mail dans les 5 minutes. Veuillez vérifier votre dossier spam si vous ne le voyez pas.
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 'Étape 2 : Ajouter l''eSIM au téléphone'
     is_list: true
     list_items:
     - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+      Allez dans Paramètres > Cellulaire (ou Données mobiles)
+    - Appuyez sur 'Ajouter un forfait cellulaire' ou 'Ajouter eSIM'
+    - Scannez le code QR avec votre appareil photo
+    - Suivez les instructions pour terminer la configuration
   - num: '3'
-    title: 'Step 3: Activate in Tanzania'
-    desc: Upon arriving in Tanzania, enable your Tanzania eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 'Étape 3 : Activer en Tanzanie'
+    desc: À votre arrivée en Tanzanie, activez votre eSIM Tanzanie dans les paramètres pour commencer à utiliser les données. Nous vous recommandons de vous connecter au Wi-Fi lors de l'activation initiale.
     is_list: false
 faq_section:
-  title: Tanzania eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Tanzania eSIM across different
-    travel scenarios.
+  title: FAQ eSIM Tanzanie et guide de voyage
+  desc: Tout ce que vous devez savoir sur l'utilisation de votre eSIM Tanzanie selon différents scénarios de voyage.
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: Général
+    title: 1. Questions générales
     questions:
-    - q: Does my phone support the Tanzania eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Tanzania eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Tanzania eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Tanzania
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Tanzania eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Tanzania eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Tanzania that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Tanzania eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Tanzania eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Tanzania eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Tanzania eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Tanzania,
-        such as Vodacom, Airtel, Tigo, to ensure premium speeds at a fraction of roaming
-        costs.
-    - q: How do you compare with well-known eSIM providers like eSIM GO, Flexiroam,
-        Holafly, Airalo?
-      a: While great companies like eSIM GO, Flexiroam, Holafly, Airalo offer reliable
-        services, we focus on providing the most cost-effective Tanzania eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: Mon téléphone est-il compatible avec l'eSIM Tanzanie ? Comment l'installer ?
+      a: La plupart des smartphones modernes à partir de l'iPhone XS/XR, du Samsung Galaxy S20+ et du Google Pixel 3+ prennent en charge l'eSIM. Vous pouvez installer votre eSIM Tanzanie simplement en scannant le code QR que nous vous envoyons par e-mail dans les paramètres Cellulaire/Données mobiles de votre téléphone.
+    - q: Comment acheter et activer l'eSIM Tanzanie ? Est-elle active immédiatement ?
+      a: Vous pouvez l'acheter directement sur notre site web. Elle n'est pas active immédiatement après l'achat ; la période de validité ne commence que lorsque vous arrivez en Tanzanie et que votre téléphone se connecte au réseau local.
+    - q: Qu'est-ce qu'un code QR d'activation ? Expire-t-il ? Peut-il être réutilisé ?
+      a: Le code QR est votre profil SIM numérique pour l'eSIM Tanzanie. Il doit généralement être installé dans les 30 jours suivant l'achat. Une fois installé, il ne peut pas être scanné à nouveau ni transféré vers un autre appareil.
+    - q: Puis-je obtenir un remboursement si l'eSIM Tanzanie ne fonctionne pas ou a un mauvais signal ?
+      a: Oui, nous offrons une garantie de remboursement. Si vous rencontrez des problèmes de réseau persistants en Tanzanie que notre équipe de support ne peut pas résoudre, vous avez droit à un remboursement.
+    - q: Proposez-vous une assistance client 24/7 ? Comment puis-vous contacter ?
+      a: Oui, notre équipe de support technique est disponible 24h/24 et 7j/7. Vous pouvez nous joindre via le chat en direct sur notre site web ou en répondant à votre e-mail de confirmation de commande.
+    - q: Existe-t-il des codes de réduction ? Comment utiliser le code promo 'web20' ?
+      a: Oui ! Vous pouvez saisir le code promo 'web20' sur la page de paiement pour bénéficier instantanément d'une réduction de 20 % sur votre commande d'eSIM Tanzanie.
+    - q: Votre forfait « Données illimitées » est-il vraiment illimité ? Existe-t-il une politique d'utilisation équitable (FUP) ?
+      a: Nos forfaits Illimités fournissent des données continues. Cependant, comme tous les opérateurs mondiaux, une politique d'utilisation équitable (FUP) s'applique pour prévenir les abus de réseau. Si vous consommez une quantité exceptionnellement élevée de données sur une courte période, la vitesse peut être temporairement réduite. Même ainsi, cela n'affectera pas votre navigation web, l'utilisation des réseaux sociaux, le visionnage de vidéos, etc.
+    - q: Puis-je partager les données de mon eSIM Tanzanie (point d'accès) avec d'autres appareils ?
+      a: Absolument. Tous nos forfaits eSIM Tanzanie prennent en charge le partage de connexion et le modem, vous permettant de partager vos données avec votre ordinateur portable, votre tablette ou vos compagnons de voyage.
+    - q: Quels sont les avantages de votre eSIM Tanzanie par rapport aux cartes SIM locales ou à d'autres fournisseurs ?
+      a: Contrairement aux cartes SIM physiques, vous n'avez pas besoin de faire la queue à l'aéroport ni d'échanger de petites cartes en plastique. Nous collaborons directement avec les meilleurs réseaux locaux de Tanzanie, tels que Vodacom, Airtel, Tigo, pour garantir des vitesses premium à une fraction des coûts d'itinérance.
+    - q: Comment vous comparez-vous aux fournisseurs d'eSIM bien connus comme eSIM GO, Flexiroam, Holafly, Airalo ?
+      a: Bien que d'excellentes entreprises comme eSIM GO, Flexiroam, Holafly, Airalo offrent des services fiables, nous nous concentrons sur la fourniture de l'eSIM Tanzanie la plus rentable, garantissant une latence plus faible et de meilleurs prix grâce à notre système d'alignement automatique des prix.
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: Aéroports
+    title: 2. Réseau à l'aéroport
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Tanzania eSIM before your flight. Once you land at Julius Nyerere
-        International Airport, Kilimanjaro International Airport, Abeid Amani Karume
-        International Airport, simply turn off Airplane Mode and enable your eSIM
-        line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Tanzania eSIM activated upon landing, you can immediately open
-        Uber, Bolt, Arusha Taxi to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Tanzania eSIM data allows you to open Google Maps right at
-        the baggage claim in Julius Nyerere International Airport, Kilimanjaro International
-        Airport, Abeid Amani Karume International Airport to check real-time train
-        schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Tanzania eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Tanzania eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Tanzania eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: Comment obtenir un réseau fiable immédiatement après la descente de l'avion ?
+      a: Installez l'eSIM Tanzanie avant votre vol. Dès que vous atterrissez à l'aéroport international Julius Nyerere, à l'aéroport international du Kilimandjaro, à l'aéroport international Abeid Amani Karume, il vous suffit de désactiver le mode Avion et d'activer votre ligne eSIM. Elle se connectera au réseau local 4G/5G en quelques secondes.
+    - q: Comment contacter mon chauffeur pour la prise en charge à l'aéroport ou utiliser Uber/Grab ?
+      a: Avec votre eSIM Tanzanie activée dès l'atterrissage, vous pouvez immédiatement ouvrir Uber, Bolt, Arusha Taxi pour réserver un trajet ou utiliser WhatsApp pour envoyer un message à votre chauffeur pré-réservé, sans dépendre du Wi-Fi capricieux de l'aéroport.
+    - q: Comment utiliser Google Maps/Apple Maps pour trouver les transports ?
+      a: Vos données haut débit de l'eSIM Tanzanie vous permettent d'ouvrir Google Maps dès la récupération des bagages à l'aéroport international Julius Nyerere, à l'aéroport international du Kilimandjaro, à l'aéroport international Abeid Amani Karume pour vérifier les horaires des trains en temps réel, les itinéraires de bus ou les directions vers la station de taxi.
+    - q: Comment éviter d'acheter des cartes SIM temporaires chères à l'aéroport ?
+      a: En achetant notre eSIM Tanzanie en ligne à l'avance, vous contournez complètement les kiosques SIM pièges à touristes dans la salle des arrivées, économisant ainsi du temps et de l'argent.
+    - q: Comment recevoir les SMS de confirmation de l'hôtel/de la location de voiture sans numéro local ?
+      a: Notre eSIM Tanzanie fournit uniquement des données. Pour recevoir des SMS, gardez votre carte SIM principale de votre pays d'origine active pour les textos (la réception de SMS est généralement gratuite en itinérance) et utilisez l'eSIM pour tout le trafic de données.
+    - q: Comment contacter immédiatement ma famille pour signaler mon arrivée en toute sécurité et planifier l'itinéraire ?
+      a: Dès que vous touchez le sol, vous pouvez utiliser iMessage, WhatsApp ou FaceTime via les données cellulaires rapides de notre eSIM Tanzanie pour informer votre famille que vous êtes bien arrivé.
   - id: faq-transport
     icon: car
     tab_title: Transport
-    title: 3. Transport & Travel
+    title: 3. Transport et voyage
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Tanzania eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Tanzania, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Bolt, Arusha Taxi use VoIP (internet calling) and in-app
-        messaging. Since you have active Tanzania eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Tanzania eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Tanzania eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Tanzania.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Tanzania eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Tanzania eSIM's data network while on
-        the train or in the car.
+    - q: Comment utiliser Google Maps/Apple Maps pour planifier des itinéraires ?
+      a: La connexion stable de notre eSIM Tanzanie garantit que Google Maps peut télécharger les données de trafic en temps réel et les horaires de transport en commun partout en Tanzanie, rendant la navigation fluide.
+    - q: Comment permettre aux chauffeurs Uber/Grab de vous contacter via l'application ?
+      a: Les applications comme Uber, Bolt, Arusha Taxi utilisent la VoIP (appels internet) et la messagerie intégrée. Comme vous disposez de données eSIM Tanzanie actives, les chauffeurs peuvent vous appeler ou vous envoyer un message directement via l'application sans avoir besoin d'un numéro de téléphone local.
+    - q: Comment acheter des abonnements de train/métro en ligne ?
+      a: Vous pouvez utiliser vos données eSIM Tanzanie pour accéder aux applications de transport locales ou aux sites web afin d'acheter des billets numériques avec code QR en déplacement, évitant ainsi les longues files d'attente aux distributeurs.
+    - q: Comment utiliser Google Maps pour la navigation en temps réel après avoir loué une voiture ?
+      a: Il vous suffit de monter votre téléphone et d'utiliser vos données eSIM Tanzanie. Un forfait de 5 Go ou 10 Go fournit plus que suffisamment de données pour une navigation GPS intensive lors d'un road trip en Tanzanie.
+    - q: Comment scanner et déverrouiller des trottinettes électriques partagées comme Lime/Bird ?
+      a: Le déverrouillage des trottinettes électriques nécessite une connexion Internet rapide pour traiter le code QR et le paiement. Notre eSIM Tanzanie offre la couverture urbaine fiable nécessaire pour cela.
+    - q: Comment assurer le bon fonctionnement des applications de VTC à travers plusieurs pays ?
+      a: Si vous voyagez dans la région, votre compte d'application de VTC reste le même. Assurez-vous simplement d'avoir une connexion Internet active (via notre eSIM locale ou régionale) pour réserver des trajets.
+    - q: Comment fournir un point d'accès personnel stable pour les appareils de la famille ?
+      a: Allez dans les paramètres de votre téléphone, activez « Point d'accès personnel », et votre famille pourra connecter ses téléphones ou iPads au réseau de données de votre eSIM Tanzanie dans le train ou la voiture.
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: Hôtels
+    title: 4. Hôtels et hébergement
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Tanzania eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Tanzania eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Four Seasons Safari Lodge Serengeti, Park Hyatt
-        Zanzibar, Ngorongoro Crater Lodge or a local guesthouse, you can input the
-        address into Google Maps and get turn-by-turn walking or transit directions
-        using your Tanzania eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Tanzania eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Tanzania eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Jumia Food, Uber Eats, FoodPro and use
-        your Tanzania eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Tanzania eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: Comment effectuer l'auto-enregistrement après une réservation sur Booking.com/Agoda ?
+      a: De nombreuses locations modernes exigent que vous accédiez à un portail en ligne ou que vous consultiez votre e-mail pour un code de serrure connectée. Votre eSIM Tanzanie vous permet de récupérer ces détails sur le pas de la porte.
+    - q: Comment contacter immédiatement l'hôte Airbnb pour les consignes à l'arrivée ?
+      a: Vous pouvez utiliser la fonction de messagerie de l'application Airbnb ou WhatsApp pour coordonner votre heure d'arrivée avec votre hôte en utilisant les données mobiles de votre eSIM Tanzanie.
+    - q: Comment utiliser Google Maps pour naviguer vers l'hôtel ?
+      a: Que vous séjourniez au Four Seasons Safari Lodge Serengeti, Park Hyatt Zanzibar, Ngorongoro Crater Lodge ou dans une maison d'hôtes locale, vous pouvez saisir l'adresse dans Google Maps et obtenir des instructions pas à pas pour la marche ou les transports en commun en utilisant votre eSIM Tanzanie.
+    - q: Comment recevoir des codes de vérification par SMS en utilisant le Wi-Fi de l'hôtel et l'eSIM ?
+      a: Gardez votre carte SIM domestique principale active pour les SMS et utilisez le Wi-Fi de l'hôtel ou les données de votre eSIM Tanzanie pour déclencher le code de vérification de votre banque ou application.
+    - q: Comment contacter rapidement le service client de Booking/l'hôtel pour modifier des commandes ?
+      a: Vous pouvez utiliser des applications VoIP comme Skype ou les fonctionnalités de chat du service client dans l'application Booking.com en utilisant les données haut débit de votre eSIM Tanzanie.
+    - q: Comment commander de la nourriture à l'hôtel via les applications de livraison locales ?
+      a: Si vous arrivez tard, vous pouvez télécharger Jumia Food, Uber Eats, FoodPro et utiliser vos données eSIM Tanzanie pour commander un repas chaud directement dans le hall de votre hôtel ou dans votre chambre.
+    - q: Comment maintenir la connexion réseau pour communiquer avec l'hôtel après le départ ?
+      a: Dès que vous quittez la zone Wi-Fi de l'hôtel, votre eSIM Tanzanie prend automatiquement le relais, vous permettant d'envoyer un message à l'hôtel si vous avez oublié des bagages ou si vous devez organiser un ramassage ultérieur.
   - id: faq-attractions
     icon: landmark
     tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    title: 5. Attractions et loisirs
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Serengeti National Park, Mount Kilimanjaro, Zanzibar
-        Archipelago spontaneously, you can use your Tanzania eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Tanzania eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Tanzania.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Tanzania eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Tanzania eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Tanzania eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Tanzania eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
+    - q: Comment acheter des billets électroniques via GetYourGuide/Viator ?
+      a: Si vous décidez de visiter le parc national du Serengeti, le mont Kilimandjaro, l'archipel de Zanzibar de manière spontanée, vous pouvez utiliser vos données eSIM Tanzanie pour acheter des billets coupe-file en ligne et présenter le code-barres sur votre écran.
+    - q: Comment réserver immédiatement des expériences sur Tripadvisor ?
+      a: Avec une 4G/5G fiable de votre eSIM Tanzanie, vous pouvez lire les avis et réserver des visites ou expériences locales sur Tripadvisor tout en prenant un café dans un café à proximité.
+    - q: Comment utiliser Google/Wikipédia pour rechercher des informations pendant la visite ?
+      a: Améliorez votre expérience culturelle en recherchant instantanément des faits historiques ou en traduisant des plaques de musée tout en explorant la Tanzanie.
+    - q: Comment utiliser Google Maps pour naviguer vers la prochaine attraction ?
+      a: Tapez simplement votre prochaine destination dans Google Maps ; la forte couverture urbaine de votre eSIM Tanzanie vous guidera via l'itinéraire de marche ou de transport en commun le plus rapide.
+    - q: Comment vérifier les temps d'attente en temps réel dans les parcs à thème comme Disney ?
+      a: Les applications des parcs à thème nécessitent un accès Internet constant pour afficher les temps d'attente en direct et réserver des fast passes. Votre eSIM Tanzanie vous gardera connecté dans tout le parc.
+    - q: Comment accéder à Ticketmaster pour réserver des billets de spectacle ?
+      a: Vous pouvez parcourir et acheter en toute sécurité des billets de théâtre ou de concert de dernière minute via les applications de billetterie en utilisant les données cellulaires de votre eSIM Tanzanie.
+    - q: Comment partager instantanément des photos/vidéos sur Instagram/Facebook ?
+      a: Les vitesses de téléchargement rapides de notre eSIM Tanzanie vous permettent de publier des stories, reels et photos de haute qualité de votre voyage en temps réel sans attendre le Wi-Fi de l'hôtel.
   - id: faq-dining
     icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
+    tab_title: Restauration
+    title: 6. Restauration et restaurants
     questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Tanzania eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Tanzania eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Tanzania eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Tanzania eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Jumia Food, Uber Eats, FoodPro, register
-        using your email or social accounts, and order food seamlessly using your
-        Tanzania eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like M-Pesa,
-        Tigo Pesa, Airtel Money require a brief internet handshake, which your Tanzania
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Tanzania eSIM to find hidden culinary gems in the city.
+    - q: Comment trouver des restaurants en utilisant Google Maps/Tripadvisor ?
+      a: Utilisez vos données eSIM Tanzanie pour rechercher « restaurants près de moi » sur Google Maps afin de vérifier les notes, horaires d'ouverture et photos du menu avant d'entrer.
+    - q: Comment réserver des tables via OpenTable ou les sites web des restaurants ?
+      a: Vous pouvez facilement obtenir une réservation pour le dîner en accédant aux plateformes de réservation en ligne avec votre eSIM Tanzanie pendant que vous visitez la ville.
+    - q: Comment scanner les codes QR des restaurants pour voir les menus électroniques ?
+      a: De nombreux restaurants utilisent désormais des menus numériques. Votre eSIM Tanzanie vous permet de scanner le code QR sur la table et de charger le menu instantanément.
+    - q: Comment utiliser l'appareil photo de Google Translate pour traduire les menus ?
+      a: Ouvrez l'application Google Traduction, sélectionnez la fonction appareil photo et pointez-la vers le menu local. Cela nécessite une connexion Internet via votre eSIM Tanzanie pour traiter les traductions en direct avec précision.
+    - q: Comment s'inscrire et utiliser les versions internationales d'Uber Eats/DoorDash ?
+      a: Vous pouvez télécharger des applications locales comme Jumia Food, Uber Eats, FoodPro, vous inscrire avec votre e-mail ou vos comptes sociaux et commander de la nourriture de manière transparente en utilisant les données mobiles de votre eSIM Tanzanie.
+    - q: Comment effectuer un paiement réussi avec Apple Pay/Google Pay ?
+      a: Les paiements sans contact via Apple Pay, Google Pay, ou des méthodes locales comme M-Pesa, Tigo Pesa, Airtel Money nécessitent une brève liaison Internet, que votre eSIM Tanzanie gère parfaitement.
+    - q: Comment trouver des restaurants recommandés par Yelp/les blogueurs culinaires ?
+      a: Vous pouvez diffuser des vlogs culinaires YouTube ou parcourir les avis Yelp en déplacement en utilisant votre eSIM Tanzanie pour trouver des pépites culinaires cachées dans la ville.
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: Réseaux sociaux
+    title: 7. Réseaux sociaux et communication
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Tanzania eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Tanzania eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Tanzania eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Tanzania
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Tanzania eSIM data allowance to check their own social
-        media.
+    - q: Comment utiliser stablement WhatsApp/Telegram à l'étranger ?
+      a: Vos comptes WhatsApp et Telegram sont liés à votre numéro domestique. Avec notre eSIM Tanzanie fournissant l'Internet, vous pouvez discuter et appeler exactement comme à la maison.
+    - q: Comment publier du contenu sur Instagram/TikTok sans me connecter au Wi-Fi public ?
+      a: Le Wi-Fi public peut être lent et peu sûr. Notre eSIM Tanzanie 4G/5G vous donne la bande passante nécessaire pour télécharger en toute sécurité des fichiers vidéo lourds sur TikTok ou Instagram.
+    - q: Comment passer des appels vidéo FaceTime/WhatsApp avec la famille ?
+      a: Nos partenariats réseau à faible latence garantissent que vos appels FaceTime et vidéo via l'eSIM Tanzanie sont clairs et sans décalage, où que vous soyez dans le pays.
+    - q: Est-il sûr de se connecter à des comptes sociaux en se connectant au Wi-Fi public ?
+      a: Les réseaux Wi-Fi publics sont vulnérables au piratage. L'utilisation de vos données cellulaires personnelles de l'eSIM Tanzanie est chiffrée et beaucoup plus sûre pour vous connecter à vos comptes.
+    - q: Comment partager le réseau comme point d'accès personnel avec mes compagnons de voyage ?
+      a: Activez la fonction point d'accès de votre téléphone. Vos amis peuvent se connecter à votre réseau Wi-Fi et utiliser votre forfait de données eSIM Tanzanie pour consulter leurs propres réseaux sociaux.
   - id: faq-crossborder
     icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
+    tab_title: Voyages transfrontaliers
+    title: 8. Voyages transfrontaliers
     questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Tanzania eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Tanzania eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: Dois-je acheter une carte SIM différente pour chaque pays lorsque je voyage à travers plusieurs pays européens ?
+      a: Si vous achetez une eSIM Tanzanie pour un seul pays, elle ne fonctionne que là-bas. Pour les voyages multi-pays, nous recommandons vivement notre eSIM régionale (par exemple, eSIM Europe), qui couvre plusieurs pays avec un seul profil.
+    - q: Comment éviter les frais d'itinérance élevés en traversant les frontières en train ?
+      a: Désactivez l'itinérance des données sur votre carte SIM domestique. Assurez-vous que votre eSIM Tanzanie est définie comme ligne de données principale afin de ne jamais encourir de frais inattendus de la part de votre opérateur domestique.
+    - q: Comment obtenir un réseau à court terme lors d'une escale à Singapour/Dubaï ?
+      a: Vous pouvez acheter une eSIM low-cost de 1 Go spécifiquement pour votre pays de transit afin de rester connecté pendant votre escale.
+    - q: Comment obtenir un réseau local économique pour les excursions à terre des croisières ?
+      a: Au lieu de payer pour le Wi-Fi cher du navire, activez une eSIM locale pour les pays où vous accostez. Elle se connectera dès que vous serez près du rivage.
+    - q: Comment garantir que Google Maps reste en ligne tout au long des road trips transfrontaliers ?
+      a: Avec une eSIM régionale, votre téléphone basculera automatiquement vers le réseau du nouveau pays lorsque vous traverserez la frontière en voiture, gardant votre GPS actif.
+    - q: Comment gérer l'utilisation des données multi-pays avec une seule application ?
+      a: Vous pouvez suivre votre utilisation des données pour toutes vos eSIM actives directement via le tableau de bord utilisateur de notre site web.
+    - q: Comment maintenir des méthodes de contact stables lors de voyages multi-pays ?
+      a: Étant donné que votre WhatsApp/iMessage repose sur les données, l'utilisation d'une eSIM régionale garantit que vos amis et votre famille peuvent toujours vous joindre sur le même numéro sans interruption.
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: Urgences
+    title: 9. Urgences
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Tanzania, you can dial local emergency numbers like 112, 114, 115 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Tanzania eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Tanzania eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Tanzania eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Tanzania eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Tanzania eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
+    - q: Comment composer les numéros d'urgence locaux dans un pays inconnu ?
+      a: En Tanzanie, vous pouvez composer les numéros d'urgence locaux comme le 112, 114, 115 directement depuis le clavier de votre téléphone, quel que soit votre SIM actif, à condition que votre téléphone capte un signal cellulaire.
+    - q: Comment trouver l'hôpital/la pharmacie le plus proche en cas de maladie soudaine ?
+      a: Les données de votre eSIM Tanzanie vous permettent de rechercher immédiatement « pharmacie près de chez moi » ou « hôpital » sur Google Maps et d'obtenir l'itinéraire le plus rapide.
+    - q: Comment trouver les coordonnées de l'ambassade/du consulat après avoir perdu son passeport ?
+      a: Vous pouvez rapidement naviguer sur Internet en utilisant votre eSIM Tanzanie pour trouver l'adresse exacte, l'e-mail d'urgence et les heures d'ouverture de l'ambassade de votre pays.
+    - q: Comment contacter la ligne d'assistance de secours de la compagnie d'assurance voyage en cas d'accident ?
+      a: Utilisez des applications VoIP comme Skype ou Viber via vos données eSIM Tanzanie pour appeler les numéros gratuits internationaux de votre compagnie d'assurance.
+    - q: Comment partager ma position en temps réel dans des zones dangereuses ?
+      a: Vous pouvez utiliser la fonction « Partager la position en direct » de WhatsApp ou la fonction « Localiser » d'Apple pour diffuser en continu vos coordonnées GPS à des amis de confiance en utilisant les données mobiles de votre eSIM Tanzanie.
+    - q: Comment télécharger des cartes hors ligne / emplacements clés avant de partir dans des zones reculées ?
+      a: Pendant que vous bénéficiez encore d'une bonne couverture urbaine avec votre eSIM Tanzanie, utilisez vos données pour télécharger des zones hors ligne dans Google Maps au cas où vous vous aventuriez dans des montagnes ou des zones rurales profondes où le signal faiblit.
   - id: faq-business
     icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
+    tab_title: Affaires & Travail
+    title: 10. Affaires et travail
     questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Tanzania eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Tanzania eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Tanzania eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Tanzania eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Tanzania eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Tanzania eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Tanzania eSIM to update them on flight delays or schedule
-        changes.
+    - q: Comment garantir des réunions vidéo stables sur Zoom/Microsoft Teams ?
+      a: Notre eSIM Tanzanie se connecte aux réseaux locaux premium, fournissant la bande passante élevée et la faible latence nécessaires pour des vidéoconférences professionnelles fluides.
+    - q: Comment me connecter de manière sécurisée au VPN de l'entreprise pour accéder aux systèmes internes lors de voyages d'affaires ?
+      a: Nos données cellulaires ne restreignent pas les protocoles VPN. Vous pouvez lancer en toute sécurité votre application VPN d'entreprise via le réseau eSIM Tanzanie pour accéder aux serveurs internes.
+    - q: Comment fournir un réseau pour les ordinateurs portables en utilisant des points d'accès mobiles dans les aéroports/cafés ?
+      a: Activez simplement le point d'accès personnel de votre téléphone. Partager votre eSIM Tanzanie est nettement plus rapide et beaucoup plus sécurisé contre les cybermenaces que d'utiliser des réseaux Wi-Fi publics ouverts.
+    - q: Comment garantir la réception des codes de vérification par SMS des banques/e-mails de l'entreprise ?
+      a: Gardez votre carte SIM domestique active pour recevoir des SMS et utilisez les données de votre eSIM Tanzanie pour recevoir les codes 2FA par e-mail ou les notifications push des applications d'authentification.
+    - q: Comment télécharger rapidement de gros fichiers vers des drives cloud sur les sites clients/expositions ?
+      a: Avec les vitesses 5G/4G LTE de votre eSIM Tanzanie, vous pouvez rapidement télécharger des présentations ou de gros documents vers Google Drive ou Dropbox directement depuis le salon d'exposition.
+    - q: Comment utiliser de manière transparente Slack/Gmail/Google Drive pour la collaboration ?
+      a: Votre eSIM Tanzanie fournit une connectivité constante, garantissant que vous recevez les notifications Slack et les e-mails importants instantanément, vous gardant synchronisé avec votre équipe.
+    - q: Comment mettre à jour les itinéraires de voyage en ligne à tout moment pour communiquer avec l'entreprise ?
+      a: Vous pouvez accéder aux portails de voyage de votre entreprise ou envoyer un e-mail à votre service RH en déplacement en utilisant votre eSIM Tanzanie pour les informer des retards de vol ou des changements d'horaire.
 related_products:
-  title: Related eSIM Plans
+  title: Forfaits eSIM similaires
   items:
-  - name: united states eSIM
+  - name: eSIM États-Unis
     flag: img/flags/us.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: United-Kingdom
+    slug: united-states-esim
+  - name: eSIM Royaume-Uni
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Europe eSIM
+    slug: united-kingdom-esim
+  - name: eSIM Europe
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: true
-  - name: Canada eSIM
+    slug: europe-esim
+  - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Turkey eSIM
+    slug: canada-esim
+  - name: eSIM Turquie
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: China eSIM
+    slug: turkey-esim
+  - name: eSIM Chine
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Japan eSIM
+    slug: china-esim
+  - name: eSIM Japon
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
+    slug: japan-esim
+  - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: France eSIM
+    slug: hong-kong-esim
+  - name: eSIM France
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Spain eSIM
+    slug: france-esim
+  - name: eSIM Espagne
     flag: img/flags/es.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Germany eSIM
+    slug: spain-esim
+  - name: eSIM Allemagne
     flag: img/flags/de.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: germany-esim
+  - name: eSIM Australie
     flag: img/flags/au.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
+    slug: australia-esim
 
 # =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Tanzania eSIM vs Prepaid SIM: Which One Is Right for You?"
-  subtitle: "Tanzania Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: "eSIM Tanzanie vs SIM prépayée : laquelle vous convient le mieux ?"
+  subtitle: "Cartes SIM prépayées locales de Tanzanie vs solutions eSIM (référence 2024/2025)"
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Tanzania) + Local Operator Sites"
+    text: "Source des données : Prepaid Data SIM Card Wiki (Tanzanie) + Sites des opérateurs locaux"
     url: "https://prepaid-data-sim-card.fandom.com/wiki/Tanzania"
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Tanzania eSIM"
+    - "Matrice de comparaison"
+    - "SIM prépayée locale (données de marché)"
+    - "Roami eSIM Tanzanie"
   table_rows:
     - icon: "store"
       title: "Acquisition &<br>Activation"
       prepaid_title: ""
-      prepaid_desc: "Tanzania SIM cards can be purchased at airports or street vendors, but must comply with biometric registration laws requiring fingerprints and passport; Zantel SIM cards are available at Zanzibar Airport but still require registration."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport queues and biometric registration. Activate your eSIM online within 1 minute before landing in Tanzania."
+      prepaid_desc: "Les cartes SIM tanzaniennes peuvent être achetées aux aéroports ou chez les vendeurs de rue, mais doivent se conformer aux lois d'enregistrement biométrique exigeant empreintes digitales et passeport ; les cartes SIM Zantel sont disponibles à l'aéroport de Zanzibar mais nécessitent toujours un enregistrement."
+      esim_title: "Livraison numérique instantanée"
+      esim_desc: "Évitez les files d'attente à l'aéroport et l'enregistrement biométrique. Activez votre eSIM en ligne en 1 minute avant d'atterrir en Tanzanie."
     - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
+      title: "KYC & enregistrement<br>par pièce d'identité"
       prepaid_title: ""
-      prepaid_desc: "Since 2019, Tanzania has enforced biometric SIM registration requiring fingerprints and passport; each person is limited to one SIM per operator unless specially approved by TCRA."
-      esim_title: "No Passport or Fingerprints"
-      esim_desc: "Avoid Tanzania's mandatory biometric SIM registration (fingerprints + passport). Roami eSIM requires zero personal ID."
+      prepaid_desc: "Depuis 2019, la Tanzanie impose un enregistrement biométrique des SIM nécessitant empreintes digitales et passeport ; chaque personne est limitée à une SIM par opérateur sauf approbation spéciale de la TCRA."
+      esim_title: "Aucun passeport ni empreinte"
+      esim_desc: "Évitez l'enregistrement biométrique obligatoire des SIM en Tanzanie (empreintes + passeport). L'eSIM Roami ne nécessite aucune pièce d'identité."
     - icon: "globe"
-      title: "International<br>Roaming"
+      title: "Itinérance<br>internationale"
       prepaid_title: ""
-      prepaid_desc: "Local prepaid plans from Vodacom, Tigo, and Airtel are designed for domestic use and do not include international roaming; travelers crossing into Kenya or Uganda need to buy a new SIM."
-      esim_title: "Seamless Cross-Border Roaming"
-      esim_desc: "Unlike local SIMs that die at the border, Roami eSIM works in Kenya, Uganda, and 100+ countries without changing SIM."
+      prepaid_desc: "Les forfaits prépayés locaux de Vodacom, Tigo et Airtel sont conçus pour un usage domestique et n'incluent pas l'itinérance internationale ; les voyageurs traversant la frontière vers le Kenya ou l'Ouganda doivent acheter une nouvelle SIM."
+      esim_title: "Itinérance transfrontalière transparente"
+      esim_desc: "Contrairement aux SIM locales qui cessent de fonctionner à la frontière, l'eSIM Roami fonctionne au Kenya, en Ouganda et dans plus de 100 pays sans changer de SIM."
     - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
+      title: "Cycle de facturation &<br>coût irrécupérable"
       prepaid_title: ""
-      prepaid_desc: "Major plans are 30-day cycles (e.g., Vodacom 10GB/TSH 35000, Airtel 10GB/TSH 20000); short-term plans (1-7 days) exist but have poor value (e.g., Vodacom 1GB/TSH 2000 for 1 day)."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Vodacom's 30-day cycle (10GB/TSH 35000), Roami offers 7-day plans starting from $1.99/GB, saving up to 80% waste for short trips."
+      prepaid_desc: "Les principaux forfaits sont des cycles de 30 jours (ex. Vodacom 10GB/TSH 35000, Airtel 10GB/TSH 20000) ; des forfaits court terme (1-7 jours) existent mais ont un mauvais rapport qualité-prix (ex. Vodacom 1GB/TSH 2000 pour 1 jour)."
+      esim_title: "Forfaits court terme flexibles"
+      esim_desc: "Contrairement au cycle de 30 jours de Vodacom (10GB/TSH 35000), Roami propose des forfaits de 7 jours à partir de 1,99 $/Go, économisant jusqu'à 80 % de gaspillage pour les courts séjours."
     - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
+      title: "Politiques de point d'accès<br>et de vitesse"
       prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed but may be restricted on some plans; out-of-bundle rates are high (TSH 282/MB)."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Tether freely without extra fees. No risk of out-of-bundle charges (TSH 282/MB) common on local SIMs."
+      prepaid_desc: "Aucune donnée spécifique dans la source pour cette dimension. Selon la connaissance du marché, le partage de connexion est généralement autorisé mais peut être restreint sur certains forfaits ; les tarifs hors forfait sont élevés (TSH 282/Mo)."
+      esim_title: "Partage de connexion sans restriction"
+      esim_desc: "Partagez votre connexion librement sans frais supplémentaires. Pas de risque de frais hors forfait (TSH 282/Mo) courants sur les SIM locales."
     - icon: "credit-card"
-      title: "Top-up Payments"
+      title: "Paiements de recharge"
       prepaid_title: ""
-      prepaid_desc: "Top-up is available at numerous street vendors, but foreign tourists may face inflated prices; Tigo 4G SIM card costs TSH 5000 at service centers vs TSH 1000 for regular SIM, creating price opacity."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No cash or local currency needed."
+      prepaid_desc: "La recharge est disponible chez de nombreux vendeurs de rue, mais les touristes étrangers peuvent subir des prix gonflés ; la carte SIM Tigo 4G coûte TSH 5000 dans les centres de service contre TSH 1000 pour une SIM ordinaire, créant une opacité des prix."
+      esim_title: "Paiements mondiaux acceptés"
+      esim_desc: "Payez avec Visa, Mastercard, AMEX, Apple Pay, Google Pay ou PayPal. Pas besoin d'espèces ou de monnaie locale."
     - icon: "headset"
-      title: "Customer Support"
+      title: "Support client"
       prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is typically in Swahili and English, with limited hours; no dedicated live chat for prepaid."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get help in English anytime via live chat or email. No language barriers or limited hours."
+      prepaid_desc: "Aucune donnée spécifique dans la source pour cette dimension. Selon la connaissance du marché, le support client est généralement en swahili et en anglais, avec des horaires limités ; pas de chat en direct dédié pour les prépayés."
+      esim_title: "Support multilingue 24/7"
+      esim_desc: "Obtenez de l'aide en anglais à tout moment via le chat en direct ou par e-mail. Pas de barrières linguistiques ni d'horaires limités."
 
   # =============== 100% 完整还原：专家结论模块 ===============
   expert_verdict:
-    title: "Tanzania eSIM or SIM Card for Tourists: Which Should You Choose?"
+    title: "eSIM Tanzanie ou carte SIM pour touristes : laquelle choisir ?"
     cards:
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, Apple Pay"
-        desc: "Street vendors may overcharge tourists (e.g., Tigo 4G SIM costs TSH 5000 vs TSH 1000). Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal."
+        title: "Payez avec Visa, Mastercard, Apple Pay"
+        desc: "Les vendeurs de rue peuvent surfacturer les touristes (ex. la SIM Tigo 4G coûte TSH 5000 contre TSH 1000). Roami accepte Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal."
       - icon: "wifi"
         icon_bg: "bg-green-100"
         icon_color: "text-green-600"
-        title: "Unrestricted Hotspot & Tethering"
-        desc: "Local SIMs charge TSH 282/MB out-of-bundle. Roami eSIM allows tethering at full speed with no extra fees."
+        title: "Point d'accès et partage sans restriction"
+        desc: "Les SIM locales facturent TSH 282/Mo hors forfait. L'eSIM Roami permet un partage de connexion à pleine vitesse sans frais supplémentaires."
       - icon: "clock"
         icon_bg: "bg-indigo-100"
         icon_color: "text-indigo-600"
-        title: "Instant Activation Before Landing"
-        desc: "No need to find a Vodacom or Tigo shop at the airport. Install Roami eSIM at home and activate upon arrival in Tanzania."
+        title: "Activation instantanée avant l'atterrissage"
+        desc: "Pas besoin de trouver un magasin Vodacom ou Tigo à l'aéroport. Installez l'eSIM Roami chez vous et activez-la à votre arrivée en Tanzanie."
       - icon: "passport"
         icon_bg: "bg-blue-100"
         icon_color: "text-blue-600"
-        title: "Bypass Tanzania's Biometric SIM Registration"
-        desc: "Since 2019, all Tanzanian prepaid SIMs require fingerprints and passport registration. Roami eSIM needs zero personal ID, saving 30+ minutes at the airport."
+        title: "Contournez l'enregistrement biométrique obligatoire des SIM en Tanzanie"
+        desc: "Depuis 2019, toutes les SIM prépayées tanzaniennes exigent empreintes digitales et enregistrement du passeport. L'eSIM Roami ne nécessite aucune pièce d'identité, vous économisant 30+ minutes à l'aéroport."
 ---

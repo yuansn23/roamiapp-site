@@ -1,65 +1,65 @@
 ---
-title: "Slowakei eSIM: Perfect for dual‑SIM devices"
-description: "Experience fast internet in Slowakei with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:42:52+00:00"
-keywords: "eSIM Slowakei, prepaid data, 5G network, Telekom, Orange, 4ka, mobile coverage, travel eSIM"
+title: "Slovaquie eSIM: Activation rapide sans carte SIM physique"
+description: "Profitez d'Internet rapide en Slovaquie avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:18:09+00:00"
+keywords: "eSIM Slovaquie, données prépayées, réseau 5G, Telekom, Orange, 4ka, guide voyage, Roami"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Slowakei eSIM Guide"
+  - name: "Guide eSIM Slovaquie"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Slowakei Travel eSIM Latest Guide"
-hero_subtitle_main: "Slowakei eSIM: Perfect for dual‑SIM devices"
-hero_subtitle_highlight: "Premium 5G network coverage by Telekom and Orange"
-hero_description_line1: "Skip the SIM card queues with a Slowakei eSIM. Receive your QR code immediately after online payment, activate it in minutes, and quickly solve your internet needs in Slowakei."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Slowakei eSIM"
+hero_badge: "🇸🇰 Guide actuel de l'eSIM de voyage Slovaquie"
+hero_subtitle_main: "Slovaquie eSIM: Activation rapide sans carte SIM physique"
+hero_subtitle_highlight: "Couverture réseau 5G premium via Telekom, Orange et 4ka"
+hero_description_line1: "Rendez les voyages à l'étranger simples et rapides avec l'eSIM Slovaquie. Elle couvre les principaux réseaux mobiles locaux avec des signaux stables, des prix transparents et aucun frais caché."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Slovaquie"
 hero_link_url: "/slovakia-esim/"
-tldr_summary: "【Seamless global roaming: cost-effective 5G eSIM for multi-country connectivity】. Roami's Slowakei eSIM leverages the country's leading networks, with Telekom achieving a median download speed of 102.38 Mbps and a Speed Score of 109.35 according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024). Whether you're exploring the High Tatras or navigating Bratislava, our eSIM provides instant, reliable connectivity without roaming fees. Perfect for travelers who demand high-speed data across borders."
+tldr_summary: "Dites adieu aux frais d'itinérance exorbitants : entrez dans l'ère de la connectivité mondiale gratuite. Avec Roami, votre eSIM Slovaquie vous offre un accès immédiat au meilleur réseau du pays. Selon le rapport Ookla H2 2024, Telekom domine avec un débit médian de téléchargement de 102,38 Mbps et un score de vitesse de 109,35. Que vous soyez à Žilina (140,70 Mbps) ou à Bratislava (106,56 Mbps), profitez d'une expérience 5G fluide, idéale pour le gaming et le streaming, sans aucun frais caché."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Slowakei eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Slovaquie eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Slowakei eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Slovaquie choisir ?"
 
   - href: "#operators"
-    text: "Top Slowakei eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Slovaquie"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Slowakei"
+    text: "Guide des villes : La meilleure eSIM pour Slovaquie"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Slowakei eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Slovaquie"
 
   - href: "#faq"
-    text: "Frequently asked questions about Slowakei eSIM"
+    text: "Questions fréquentes sur l'eSIM Slovaquie"
 
   - href: "#myths"
-    text: "Myths and facts about Slowakei eSIM"
+    text: "Mythes et faits sur l'eSIM Slovaquie"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Slowakei eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Slovaquie devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "Telekom"
     carrier_class: "text-orange-600"
-    reason: "Fastest median download speed of 102.38 Mbps and best gaming experience. Ideal for heavy data users and remote work."
+    reason: "Meilleure vitesse globale (102,38 Mbps en download) et meilleure expérience de jeu (Game Score 89,16). Idéal pour le télétravail et le streaming."
 
-  - travel: "City explorers"
+  - travel: "Voyageurs urbains"
     carrier: "Orange"
     carrier_class: "text-orange-600"
-    reason: "Strong performance in urban areas with 81.33 Mbps median download speed. Reliable for everyday browsing and streaming."
+    reason: "Deuxième meilleur débit (81,33 Mbps) et excellente couverture dans les grandes villes comme Bratislava et Košice."
 
-  - travel: "Budget travelers"
+  - travel: "Randonneurs et aventuriers"
     carrier: "4ka"
     carrier_class: "text-orange-600"
-    reason: "Affordable option with 33.88 Mbps median download speed. Suitable for light usage like messaging and maps."
+    reason: "Réseau en développement, bon rapport qualité-prix pour les zones moins densément peuplées, bien que les vitesses soient plus modestes (33,88 Mbps)."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Slowakei travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Slovaquie la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "telekom-esim"
-    title: "Telekom eSIM Review: Best overall performance"
-    best_for: "This plan is the absolute top choice for users who demand the fastest speeds and lowest latency. Telekom leads in all key metrics including download, upload, and gaming experience."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024), Telekom offers the best 5G gaming experience with a Game Score of 91.58.\n- **Download rate**: Median download speed of 102.38 Mbps.\n- **Upload rate**: Median upload speed of 20.33 Mbps.\n- **Latency**: 31 ms.\n- **Speed Score**: 109.35."
-    arcep_note: "Confirmed by the local telecom authority (Telekomunikačný úrad Slovenskej republiky) as the leading operator in coverage and speed."
-    connect_note: "Activation works seamlessly with Roami eSIM. Instant QR code delivery, compatible with most modern smartphones."
-    user_scenarios: "- **High Tatras hiking**: Telekom's strong rural coverage ensures you stay connected even in remote mountain areas.\n- **Bratislava business district**: Enjoy ultra-fast 5G for video calls and large file transfers.\n- **Košice city center**: Reliable streaming and social media without buffering."
+    title: "Test eSIM Telekom : Meilleure performance globale"
+    best_for: "Ce forfait est le meilleur choix absolu pour les utilisateurs exigeants : gaming, streaming 4K, visioconférences et téléchargements lourds."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024), Telekom offre la meilleure expérience de jeu 5G avec un score de 91,58.\n- **Débit descendant médian** : 102,38 Mbps\n- **Débit montant médian** : 20,33 Mbps\n- **Latence** : 31 ms\n- **Score de vitesse** : 109,35 (le plus élevé du marché)"
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (Úrad pre reguláciu elektronických komunikácií a poštových služieb) comme l'opérateur le plus performant du pays."
+    connect_note: "L'activation se déroule sans problème via le QR code Roami. La configuration APN est automatique sur la plupart des smartphones récents."
+    user_scenarios: "- **Žilina** : Avec un débit de 140,70 Mbps, Telekom est le fournisseur le plus rapide de la ville. Parfait pour les nomades numériques installés dans les cafés du centre historique.\n- **Bratislava** : Dans la capitale, Telekom offre 106,56 Mbps en download. Idéal pour les réunions en ligne depuis le quartier d'affaires de Ružinov.\n- **Nitra** : Troisième ville la plus rapide (121 Mbps) avec Telekom comme opérateur recommandé pour les étudiants et les professionnels."
     bg_color: "bg-blue-50"
 
   - id: "orange-esim"
-    title: "Orange eSIM Review: Best urban coverage"
-    best_for: "This plan is ideal for city travelers who need consistent speeds in urban environments. Orange is the second fastest operator with excellent reliability."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024), Orange provides strong 5G coverage in major cities.\n- **Download rate**: Median download speed of 81.33 Mbps.\n- **Upload rate**: Median upload speed of 18.50 Mbps.\n- **Latency**: 32 ms.\n- **Speed Score**: 89.16."
-    arcep_note: "Orange is a trusted operator regulated by the Slovak telecom authority, ensuring compliance with national standards."
-    connect_note: "Activation works seamlessly with Roami eSIM. Instant QR code delivery, compatible with most modern smartphones."
-    user_scenarios: "- **Bratislava Old Town**: Navigate cobblestone streets with reliable maps and social media.\n- **Shopping in Trnava**: Stream music and use payment apps without interruption.\n- **Business meetings in Nitra**: Stable video conferencing and email access."
-    bg_color: "bg-blue-50"
+    title: "Test eSIM Orange : Excellent compromis vitesse/prix"
+    best_for: "Ce forfait est le meilleur choix pour les voyageurs souhaitant un bon équilibre entre performance et coût, avec une couverture fiable dans tout le pays."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024), Orange est le deuxième opérateur pour la 5G, avec des performances solides.\n- **Débit descendant médian** : 81,33 Mbps\n- **Débit montant médian** : Non spécifié dans le rapport, mais généralement autour de 18-20 Mbps\n- **Latence** : Non spécifiée, mais comparable à Telekom (environ 30-35 ms)\n- **Score de vitesse** : Non spécifié, mais inférieur à Telekom"
+    arcep_note: "Orange est un opérateur historique régulé par l'Úrad pre reguláciu elektronických komunikácií, garantissant une couverture nationale étendue."
+    connect_note: "L'activation est simple et rapide. Orange est compatible avec la plupart des appareils eSIM. Aucune configuration manuelle n'est nécessaire."
+    user_scenarios: "- **Trnava** : Deuxième ville la plus rapide (127,31 Mbps) – Orange y est très performant, idéal pour les déplacements professionnels.\n- **Trenčín** : Orange est le fournisseur le plus rapide de la ville (100,80 Mbps). Parfait pour les visites touristiques du château.\n- **Banská Bystrica** : Avec 101,66 Mbps, Orange offre une excellente expérience pour les randonneurs dans les basses Tatras."
+    bg_color: "bg-orange-50"
 
   - id: "4ka-esim"
-    title: "4ka eSIM Review: Best budget option"
-    best_for: "This plan is perfect for light users who primarily need messaging, maps, and occasional browsing. 4ka offers the most affordable data plans."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024), 4ka has limited 5G coverage but adequate 4G for basic tasks.\n- **Download rate**: Median download speed of 33.88 Mbps.\n- **Upload rate**: Median upload speed of 10.00 Mbps.\n- **Latency**: 40 ms.\n- **Speed Score**: 30.91."
-    arcep_note: "4ka operates under the same regulatory framework as other Slovak operators, ensuring fair competition and service quality."
-    connect_note: "Activation works seamlessly with Roami eSIM. Instant QR code delivery, compatible with most modern smartphones."
-    user_scenarios: "- **Budget travel in Prešov**: Check emails and use WhatsApp without overspending.\n- **Short city breaks in Martin**: Use maps and ride-sharing apps efficiently.\n- **Backpacking in Poprad**: Stay in touch with family via messaging apps."
-    bg_color: "bg-blue-50"
+    title: "Test eSIM 4ka : Option économique pour les petits budgets"
+    best_for: "Ce forfait est le meilleur choix pour les voyageurs à petit budget ou ceux qui n'ont besoin que de données de base (messagerie, navigation web légère)."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024), 4ka est en retard sur la 5G par rapport à Telekom et Orange.\n- **Débit descendant médian** : 33,88 Mbps\n- **Débit montant médian** : Non spécifié, mais généralement inférieur à 10 Mbps\n- **Latence** : Non spécifiée, probablement plus élevée (40-50 ms)\n- **Score de vitesse** : 30,91 (le plus bas du marché)"
+    arcep_note: "4ka (SWAN) est un opérateur alternatif régulé, offrant une couverture principalement urbaine. Vérifiez la disponibilité dans votre zone de voyage."
+    connect_note: "L'activation via Roami est simple, mais les performances peuvent varier. Idéal pour une utilisation légère en ville."
+    user_scenarios: "- **Košice** : Avec 81,72 Mbps (tous opérateurs confondus), 4ka peut suffire pour une utilisation basique dans la deuxième ville du pays.\n- **Prešov** : La ville la plus lente (70,87 Mbps) – 4ka y est une option économique acceptable pour les courts séjours.\n- **Martin** : 97,37 Mbps – 4ka peut convenir pour les voyageurs de passage dans cette ville moyenne."
+    bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Slowakei eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Slowakei eSIM and local 5G bands"
-cards_free_title: "Get your free Slowakei eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Slovaquie"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Slovaquie et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Slovaquie gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Slowakei eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Slovaquie"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Slowakei"
-    content: "Slowakei's mobile networks operate on the following key bands: 4G (LTE) bands 1 (2100 MHz), 3 (1800 MHz), 7 (2600 MHz), 8 (900 MHz), and 20 (800 MHz). 5G networks use bands n1 (2100 MHz), n3 (1800 MHz), n28 (700 MHz), and n78 (3500 MHz). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Bandes 5G/4G principales en Slovaquie"
+    content: "Les opérateurs slovaques utilisent principalement les bandes 5G suivantes : n78 (3,5 GHz) pour la 5G à haute vitesse, et n1 (2100 MHz) pour une meilleure couverture. Pour la 4G, les bandes principales sont B3 (1800 MHz), B7 (2600 MHz) et B20 (800 MHz). Assurez-vous que votre smartphone est compatible avec ces fréquences pour une expérience optimale."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate a Slowakei eSIM, you must provide a valid passport or national ID for identity verification. Some providers may require a selfie or proof of address. Roami simplifies this process by handling KYC digitally during checkout."
+  - heading: "2. Exigence d'identification (KYC) pour l'eSIM"
+    content: "En Slovaquie, l'achat d'une eSIM prépayée (y compris via Roami) nécessite une vérification d'identité (KYC). Vous devrez fournir une pièce d'identité valide (passeport ou carte d'identité) lors de l'activation. Ce processus est entièrement en ligne et sécurisé."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most prepaid eSIM plans in Slowakei have a Fair Usage Policy (FUP) that caps high-speed data after a certain threshold (e.g., 20 GB per month). Once exceeded, speeds may be throttled to 128 kbps. Always check the plan details before purchasing."
+  - heading: "3. Politique d'utilisation équitable (FUP) et limitation de débit"
+    content: "Les forfaits dits « illimités » en Slovaquie sont soumis à une politique d'utilisation équitable (FUP). Après un certain volume de données (généralement 20 à 50 Go par mois), le débit peut être réduit à 1-2 Mbps. Roami applique également cette règle pour garantir une qualité de service équitable pour tous."
 
-  - heading: "4. Network coverage in rural and mountainous areas"
-    content: "While urban areas have excellent 4G/5G coverage, rural and mountainous regions like the High Tatras may have weaker signals. Telekom offers the best rural coverage, but it's advisable to download offline maps as a backup."
+  - heading: "4. Couverture réseau dans les zones rurales et montagneuses"
+    content: "Si vous prévoyez de voyager dans les Hautes Tatras ou les zones rurales, privilégiez Telekom ou Orange. Selon le rapport Ookla, Telekom offre la meilleure couverture et les vitesses les plus élevées, même en dehors des grandes villes. 4ka peut être moins fiable dans ces régions."
 
-  - heading: "5. eSIM compatibility and dual-SIM usage"
-    content: "Most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer) support eSIM. Slowakei eSIMs work perfectly with dual-SIM setups, allowing you to keep your home SIM active for calls while using data on the eSIM."
+  - heading: "5. Compatibilité des smartphones avec l'eSIM"
+    content: "L'eSIM Roami est compatible avec la plupart des smartphones récents (iPhone XS et ultérieur, Google Pixel 3 et ultérieur, Samsung Galaxy S20 et ultérieur, etc.). Vérifiez la liste de <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> sur notre site avant l'achat. Les appareils verrouillés par un opérateur peuvent ne pas fonctionner."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Slowakei"
-city_guide_desc: "Find out which Slowakei eSIM is the best choice for your destination city based on real speed test data from [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024)."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Slovaquie"
+city_guide_desc: "Découvrez quelle eSIM Slovaquie est le meilleur choix pour votre ville de destination, basé sur les données de performance réelles du rapport Ookla H2 2024."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
   - city: "Žilina"
     carriers: "Telekom"
-    reason: "Žilina recorded the fastest median mobile download speed of 140.70 Mbps, with Telekom as the fastest provider. Ideal for high-speed streaming and remote work."
+    reason: "Žilina est la ville la plus rapide de Slovaquie avec un débit médian de 140,70 Mbps. Telekom y est le fournisseur le plus performant, idéal pour les nomades numériques et les gamers."
 
   - city: "Trnava"
     carriers: "Orange"
-    reason: "Trnava achieved a median download speed of 127.31 Mbps. Orange provides excellent coverage and consistent speeds for daily use."
-
-  - city: "Nitra"
-    carriers: "Telekom"
-    reason: "Nitra's median download speed is 121 Mbps, with Telekom leading. Perfect for business travelers needing reliable connectivity."
+    reason: "Deuxième ville la plus rapide (127,31 Mbps). Orange y offre une excellente couverture et des vitesses stables, parfait pour les voyageurs d'affaires."
 
   - city: "Bratislava"
     carriers: "Telekom"
-    reason: "The capital city has a median download speed of 106.56 Mbps. Telekom is the fastest provider, ensuring smooth navigation and communication."
+    reason: "Capitale dynamique avec un débit de 106,56 Mbps. Telekom est le fournisseur le plus rapide, recommandé pour les touristes et les professionnels. Orange est une bonne alternative."
 
   - city: "Košice"
     carriers: "Orange"
-    reason: "Košice has a median download speed of 81.72 Mbps. Orange offers strong urban coverage, suitable for tourists and locals alike."
+    reason: "Deuxième plus grande ville, avec un débit de 81,72 Mbps. Orange offre une couverture fiable dans le centre historique et les zones résidentielles. Telekom est également un bon choix."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Prešov"
+    carriers: "Telekom"
+    reason: "Ville la plus lente (70,87 Mbps), mais Telekom y est généralement le plus performant. Recommandé pour les voyageurs à petit budget ou les courts séjours."
+
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Slowakei eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Slovaquie selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Bratislava's historic Old Town, visit the Bratislava Castle, and enjoy the vibrant café culture. With Telekom's fast 5G, you can stream guided tours and share photos instantly."
+    title: "Découvreur de villes"
+    text: "Explorez Bratislava, Košice ou Trnava avec une connexion 5G ultra-rapide. Téléchargez des guides, utilisez Google Maps en temps réel et partagez vos photos sur les réseaux sociaux sans attendre."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike the High Tatras, visit the Dobšinská Ice Cave, or relax in the Low Tatras National Park. Telekom's rural coverage ensures you stay connected even in remote areas."
+    title: "Amoureux de la nature"
+    text: "Randonnez dans les Hautes Tatras ou le Paradis Slovaque avec une couverture fiable. Telekom offre la meilleure réception en montagne. Utilisez des applications de randonnée et restez joignable en cas d'urgence."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive from Bratislava to Košice via the D1 highway. Use Orange's reliable network for GPS navigation, music streaming, and finding local restaurants along the way."
+    title: "Roadtrippeur"
+    text: "Parcourez la Slovaquie en voiture avec une eSIM qui fonctionne partout. De Žilina à Banská Bystrica, profitez d'un streaming musical ininterrompu et d'un GPS précis. Orange est un excellent choix pour les longs trajets."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Although landlocked, Slowakei offers beautiful lakes like Štrbské Pleso and Zemplínska Šírava. Enjoy swimming and sunbathing while staying connected with 4ka's affordable data plans."
+    title: "Vacancier à la plage"
+    text: "Bien que la Slovaquie n'ait pas de plages, les lacs comme le Štrbské Pleso ou le lac Zemplínska šírava sont parfaits pour se détendre. Restez connecté avec une eSIM économique de 4ka pour partager vos moments de détente."
 
-scene_guide_footer: "💡 The Roami Slowakei eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Slovaquie détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Slowakei eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Slovaquie"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Will I have a network signal with the eSIM in subways, deep valleys, or remote areas of Slowakei?"
-    a: "In subways and deep valleys, signal strength may be limited. Telekom offers the best coverage in remote areas like the High Tatras, but some valleys may have weak signals. We recommend downloading offline maps for navigation."
+  - q: "L'eSIM Slovaquie est-elle adaptée aux jeux en ligne et quelle est la latence moyenne du réseau (ping) ?"
+    a: "Oui, l'eSIM Roami est parfaitement adaptée aux jeux en ligne, surtout si vous choisissez Telekom. Selon le rapport Ookla H2 2024, Telekom offre la meilleure expérience de jeu avec un Game Score de 89,16 (toutes technologies confondues) et un score de 91,58 spécifiquement pour la 5G. La latence moyenne est de 31 ms, ce qui est excellent pour les jeux compétitifs comme Fortnite ou Call of Duty Mobile. Orange offre également une bonne expérience, mais avec une latence légèrement plus élevée."
 
-  - q: "Which local network operator provides the strongest and most reliable coverage in the most famous national parks and cities of Slowakei?"
-    a: "Telekom is the strongest operator overall, with the fastest speeds in cities like Žilina and Bratislava. For national parks, Telekom also leads in rural coverage, making it the best choice for nature lovers."
+  - q: "À quelle vitesse de réseau moyenne (téléchargement et téléversement) puis-je m'attendre en Slovaquie ?"
+    a: "Les vitesses varient selon l'opérateur et la ville. En moyenne, avec Telekom (le plus rapide), attendez-vous à un débit descendant médian de 102,38 Mbps et un débit montant de 20,33 Mbps. Orange offre 81,33 Mbps en download, et 4ka 33,88 Mbps. Dans les villes les plus performantes comme Žilina, le débit peut atteindre 140,70 Mbps. Même dans les villes les plus lentes comme Prešov, vous aurez au moins 70,87 Mbps. Ces chiffres sont basés sur le rapport Ookla H2 2024."
 
-  - q: "Does network coverage include major transport hubs like airports, high-speed trains, and subways in Slowakei?"
-    a: "Yes, major transport hubs like Bratislava Airport and main train stations have excellent 4G/5G coverage from all operators. Subway systems in Bratislava also have reliable signals, though some tunnels may have brief dead zones."
+  - q: "Roami offre-t-elle un support client en ligne 24h/24 en cas de problèmes de connexion en Slovaquie ?"
+    a: "Oui, Roami propose un support client disponible 24h/24 et 7j/7 via chat en direct et email. Notre équipe est formée pour résoudre rapidement les problèmes de connexion, de configuration APN ou de <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a>. En cas de problème, contactez-nous immédiatement et nous vous assisterons en français, anglais ou slovaque."
 
-  - q: "Are there significant speed differences between the various regions and cities in Slowakei?"
-    a: "Yes, speed differences are notable. Žilina leads with 140.70 Mbps median download speed, while Prešov has the slowest at 70.87 Mbps. Telekom is the fastest provider in most cities, but Orange performs well in urban areas."
+  - q: "Pour les forfaits illimités en Slovaquie, existe-t-il une politique d'utilisation équitable stricte (FUP) ou un ralentissement de la bande passante ?"
+    a: "Oui, tous les forfaits dits « illimités » en Slovaquie, y compris ceux de Roami, sont soumis à une politique d'utilisation équitable (FUP). Généralement, après avoir consommé un certain volume de données (par exemple 30 Go par mois), le débit peut être réduit à 1-2 Mbps. Cette limitation est levée au début du cycle de facturation suivant. Cette pratique est standard chez tous les opérateurs slovaques (Telekom, Orange, 4ka) pour garantir une qualité de service équitable."
 
-  - q: "In which languages is customer service for the Slowakei eSIM available, and what is the response time?"
-    a: "Roami offers customer service in English, German, and Slovak. Response time is typically under 5 minutes via live chat, and email inquiries are answered within 24 hours."
+  - q: "L'eSIM Slovaquie permet-elle d'appeler des numéros locaux ou de recevoir des SMS ?"
+    a: "L'eSIM Roami est principalement conçue pour les données mobiles (Internet). Elle ne permet pas d'effectuer des appels vocaux traditionnels vers des numéros locaux ni de recevoir des SMS. Cependant, vous pouvez utiliser des applications de VoIP comme WhatsApp, Skype ou Viber pour passer des appels et envoyer des messages via Internet. Pour les appels d'urgence, composez le 112 (numéro d'urgence européen) – il fonctionne même sans crédit, mais nécessite un réseau disponible."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Slowakei eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Slovaquie"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "All operators in Slowakei offer the same speed and coverage."
-    truth: "False. Telekom leads with a Speed Score of 109.35, while 4ka scores only 30.91. Coverage also varies, with Telekom being strongest in rural areas."
+  - myth: "Tous les opérateurs slovaques offrent la même vitesse 5G."
+    truth: "Faux. Selon le rapport Ookla H2 2024, Telekom domine largement avec un débit descendant médian de 102,38 Mbps, contre 81,33 Mbps pour Orange et seulement 33,88 Mbps pour 4ka. Le choix de l'opérateur a un impact majeur sur votre expérience."
 
-  - myth: "5G is available everywhere in Slowakei."
-    truth: "5G coverage is expanding but not universal. Major cities like Bratislava and Žilina have good 5G, but rural areas may rely on 4G. Telekom offers the best 5G gaming experience."
+  - myth: "Bratislava est la ville avec le meilleur réseau mobile de Slovaquie."
+    truth: "Faux. Bien que Bratislava soit la capitale, elle se classe seulement 5ème en termes de vitesse de téléchargement médiane (106,56 Mbps). Žilina est la ville la plus rapide avec 140,70 Mbps, suivie de Trnava (127,31 Mbps) et Nitra (121 Mbps)."
 
-  - myth: "eSIMs are not compatible with older smartphones."
-    truth: "Many older smartphones (e.g., iPhone X, Samsung Galaxy S10) support eSIM. Check your device settings to confirm <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing."
+  - myth: "Une eSIM est plus chère qu'une carte SIM physique en Slovaquie."
+    truth: "Faux. Les eSIM Roami sont souvent plus économiques, surtout pour les courts séjours. Vous évitez les frais d'itinérance des opérateurs traditionnels et les frais d'activation en boutique. De plus, vous pouvez choisir des forfaits flexibles adaptés à votre durée de voyage."
 
-  - myth: "Prepaid eSIMs have hidden fees or contracts."
-    truth: "Roami's eSIMs are prepaid with no hidden fees or contracts. You pay upfront for the data plan, and there are no surprise charges."
+  - myth: "La 5G est disponible partout en Slovaquie."
+    truth: "Faux. La couverture 5G est encore principalement concentrée dans les grandes villes (Bratislava, Košice, Žilina). Dans les zones rurales et montagneuses, la 4G reste le réseau dominant. Telekom offre la meilleure couverture 5G, mais il est conseillé de vérifier la carte de couverture avant de voyager."
 
-  - myth: "You need a Slovak address to activate an eSIM."
-    truth: "No, eSIM activation is fully digital and does not require a local address. Roami handles KYC online with your passport or ID."
+  - myth: "Les forfaits « illimités » n'ont aucune limite de données."
+    truth: "Faux. Comme mentionné, tous les forfaits illimités en Slovaquie sont soumis à une politique d'utilisation équitable (FUP). Après un certain seuil (généralement 20-50 Go), le débit est réduit. Lisez attentivement les conditions générales avant d'acheter."
 
 
 # Data sources
-data_sources_title: "Slowakei mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Slovaquie"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024)"
-    description: "Ookla's Speedtest Intelligence report for Slovakia H2 2024 provides median download/upload speeds, latency, and Speed Scores for all major operators."
+  - name: "Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024)"
+    description: "Rapport officiel de connectivité pour la Slovaquie, période H2 2024 (juillet-décembre 2024). Fournit des données de performance réseau (vitesses de téléchargement, téléversement, latence, scores de jeu) pour les principaux opérateurs mobiles (Telekom, Orange, 4ka) et les villes les plus peuplées."
 
   - name: "OpenSignal 2024"
-    description: "OpenSignal's mobile network experience report for Slovakia offers insights into coverage, video experience, and 4G/5G availability."
+    description: "Rapport sur l'expérience mobile en Slovaquie, analysant la couverture 4G/5G, la disponibilité et la qualité de la vidéo en streaming. OpenSignal utilise des tests passifs pour évaluer l'expérience réelle des utilisateurs."
 
-  - name: "Telekomunikačný úrad Slovenskej republiky (TÚSR) 2024"
-    description: "The Slovak telecom regulator publishes annual reports on network quality, coverage obligations, and consumer rights."
+  - name: "Úrad pre reguláciu elektronických komunikácií a poštových služieb (Autorité slovaque des télécommunications) 2024"
+    description: "Rapport annuel de l'autorité de régulation slovaque, fournissant des données officielles sur la couverture réseau, les parts de marché des opérateurs et les plaintes des consommateurs. Source fiable pour les informations réglementaires."
 
-data_sources_footer: "All network performance data cited above come from publicly available third-party reports and are used for informational purposes. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device, and time of day. Always check the latest coverage maps before traveling."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public, notamment le rapport Ookla Speedtest Connectivity Report H2 2024 pour la Slovaquie. Les vitesses et la couverture peuvent varier en fonction de votre emplacement, de votre appareil et des conditions du réseau."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de votre emplacement, de votre appareil, de l'heure de la journée et des conditions du réseau. Les données présentées sont des médianes basées sur des millions de tests effectués par les utilisateurs de Speedtest."
 
 # CTA product card
-cta_title: "Secure your Slowakei eSIM today"
-cta_desc: "Get immediate access to high-speed 5G data in Slowakei with Roami. No roaming fees, instant activation, and 24/7 customer support."
-cta_button_text: "Buy Slowakei eSIM now"
+cta_title: "Obtenez votre eSIM Slovaquie dès aujourd'hui"
+cta_desc: "Profitez d'une connexion 5G ultra-rapide dès votre arrivée en Slovaquie. Activation instantanée, pas de frais d'itinérance, et un support client disponible 24h/24. Choisissez le forfait qui correspond à votre voyage."
+cta_button_text: "Acheter l'eSIM Slovaquie maintenant"
 cta_button_link: "/slovakia-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Slowakei trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Slovaquie gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Slowakei eSIM: Perfect for dual‑SIM devices
+# Slovaquie eSIM: Activation rapide sans carte SIM physique
 
-> **💡 Short summary for travelers:** 【Seamless global roaming: cost-effective 5G eSIM for multi-country connectivity】. Roami's Slowakei eSIM leverages the country's leading networks, with Telekom achieving a median download speed of 102.38 Mbps and a Speed Score of 109.35 according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024). Whether you're exploring the High Tatras or navigating Bratislava, our eSIM provides instant, reliable connectivity without roaming fees. Perfect for travelers who demand high-speed data across borders.
+> **💡 Résumé rapide pour les voyageurs :** Dites adieu aux frais d'itinérance exorbitants : entrez dans l'ère de la connectivité mondiale gratuite. Avec Roami, votre eSIM Slovaquie vous offre un accès immédiat au meilleur réseau du pays. Selon le rapport Ookla H2 2024, Telekom domine avec un débit médian de téléchargement de 102,38 Mbps et un score de vitesse de 109,35. Que vous soyez à Žilina (140,70 Mbps) ou à Bratislava (106,56 Mbps), profitez d'une expérience 5G fluide, idéale pour le gaming et le streaming, sans aucun frais caché.
 
-## Things you need to know before buying a Slowakei eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Slovaquie
 
 
-### 1. Main 5G/4G frequency bands in Slowakei {#1-main-5g4g-frequency-bands-in-slowakei}
-Slowakei's mobile networks operate on the following key bands: 4G (LTE) bands 1 (2100 MHz), 3 (1800 MHz), 7 (2600 MHz), 8 (900 MHz), and 20 (800 MHz). 5G networks use bands n1 (2100 MHz), n3 (1800 MHz), n28 (700 MHz), and n78 (3500 MHz). Ensure your device supports these bands for optimal performance.
+### 1. Bandes 5G/4G principales en Slovaquie {#1-bandes-5g4g-principales-en-slovaquie}
+Les opérateurs slovaques utilisent principalement les bandes 5G suivantes : n78 (3,5 GHz) pour la 5G à haute vitesse, et n1 (2100 MHz) pour une meilleure couverture. Pour la 4G, les bandes principales sont B3 (1800 MHz), B7 (2600 MHz) et B20 (800 MHz). Assurez-vous que votre smartphone est compatible avec ces fréquences pour une expérience optimale.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate a Slowakei eSIM, you must provide a valid passport or national ID for identity verification. Some providers may require a selfie or proof of address. Roami simplifies this process by handling KYC digitally during checkout.
+### 2. Exigence d'identification (KYC) pour l'eSIM {#2-exigence-didentification-kyc-pour-lesim}
+En Slovaquie, l'achat d'une eSIM prépayée (y compris via Roami) nécessite une vérification d'identité (KYC). Vous devrez fournir une pièce d'identité valide (passeport ou carte d'identité) lors de l'activation. Ce processus est entièrement en ligne et sécurisé.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most prepaid eSIM plans in Slowakei have a Fair Usage Policy (FUP) that caps high-speed data after a certain threshold (e.g., 20 GB per month). Once exceeded, speeds may be throttled to 128 kbps. Always check the plan details before purchasing.
+### 3. Politique d'utilisation équitable (FUP) et limitation de débit {#3-politique-dutilisation-équitable-fup-et-limitation-de-débit}
+Les forfaits dits « illimités » en Slovaquie sont soumis à une politique d'utilisation équitable (FUP). Après un certain volume de données (généralement 20 à 50 Go par mois), le débit peut être réduit à 1-2 Mbps. Roami applique également cette règle pour garantir une qualité de service équitable pour tous.
 
-### 4. Network coverage in rural and mountainous areas {#4-network-coverage-in-rural-and-mountainous-areas}
-While urban areas have excellent 4G/5G coverage, rural and mountainous regions like the High Tatras may have weaker signals. Telekom offers the best rural coverage, but it's advisable to download offline maps as a backup.
+### 4. Couverture réseau dans les zones rurales et montagneuses {#4-couverture-réseau-dans-les-zones-rurales-et-montagneuses}
+Si vous prévoyez de voyager dans les Hautes Tatras ou les zones rurales, privilégiez Telekom ou Orange. Selon le rapport Ookla, Telekom offre la meilleure couverture et les vitesses les plus élevées, même en dehors des grandes villes. 4ka peut être moins fiable dans ces régions.
 
-### 5. eSIM compatibility and dual-SIM usage {#5-esim-compatibility-and-dual-sim-usage}
-Most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer) support eSIM. Slowakei eSIMs work perfectly with dual-SIM setups, allowing you to keep your home SIM active for calls while using data on the eSIM.
+### 5. Compatibilité des smartphones avec l'eSIM {#5-compatibilité-des-smartphones-avec-lesim}
+L'eSIM Roami est compatible avec la plupart des smartphones récents (iPhone XS et ultérieur, Google Pixel 3 et ultérieur, Samsung Galaxy S20 et ultérieur, etc.). Vérifiez la liste de <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> sur notre site avant l'achat. Les appareils verrouillés par un opérateur peuvent ne pas fonctionner.

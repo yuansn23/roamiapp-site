@@ -1,65 +1,65 @@
 ---
-title: "Marokko eSIM: Save time and effort with travel internet"
-description: "Experience fast internet in Marokko with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:41:43+00:00"
-keywords: "eSIM Marokko, prepaid data, 5G network, Maroc Telecom, inwi, Orange, travel internet, Roami eSIM"
+title: "Maroc eSIM: Prend en charge le partage de connexion (hotspot) sans faille"
+description: "Profitez d'Internet rapide en Maroc avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:17:22+00:00"
+keywords: "eSIM Maroc, données prépayées, réseau 5G, Maroc Telecom, Orange, inwi, partage de connexion, hotspot, voyage Maroc"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Marokko eSIM Guide"
+  - name: "Guide eSIM Maroc"
     url: ""
 
 # Hero section copy
-hero_badge: "🇲🇦 Marokko Travel eSIM Latest Guide"
-hero_subtitle_main: "Marokko eSIM: Save time and effort with travel internet"
-hero_subtitle_highlight: "Premium 5G network coverage by Maroc Telecom, inwi, and Orange"
-hero_description_line1: "Replace traditional roaming plans with a Marokko eSIM to save communication costs. Compatible with multiple devices, it meets the internet needs of all kinds of travelers."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Marokko eSIM"
+hero_badge: "🇲🇦 Guide actuel de l'eSIM de voyage Maroc"
+hero_subtitle_main: "Maroc eSIM: Prend en charge le partage de connexion (hotspot) sans faille"
+hero_subtitle_highlight: "Couverture réseau 5G premium via Maroc Telecom, Orange et inwi"
+hero_description_line1: "Recevez les détails d'activation immédiatement après l'achat de l'eSIM Maroc. Pas d'attente pour la livraison d'une carte physique, ce qui vous aide à gagner du temps et à améliorer l'efficacité de votre voyage."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Maroc"
 hero_link_url: "/morocco-esim/"
-tldr_summary: "Unlimited 5G data: more efficient use by sharing across multiple devices. Roami's Marokko eSIM leverages the fastest mobile network in the country, Maroc Telecom, which achieved a median download speed of 53.72 Mbps and a Speed Score of 68.20 in the second half of 2024. Whether you are streaming video, gaming, or working remotely, this eSIM provides reliable, high-speed connectivity without roaming fees. Save time and money by activating instantly and sharing your data plan across your phone, tablet, and laptop."
+tldr_summary: "Données 5G illimitées : utilisation plus efficace grâce au partage pour plusieurs appareils. Avec Roami eSIM Maroc, vous bénéficiez des meilleures performances réseau du pays. Selon les données Speedtest Intelligence® de la seconde moitié de 2024, Maroc Telecom est l'opérateur le plus rapide avec une vitesse de téléchargement médiane de 53,72 Mbps et une vitesse de téléchargement montant de 13,28 Mbps. Que vous soyez à Oujda (vitesse mobile médiane de 65,74 Mbps) ou à Salé (vitesse fixe médiane de 35,57 Mbps), notre eSIM vous connecte automatiquement au meilleur réseau disponible. Activez le partage de connexion (hotspot) sans frais supplémentaires et partagez vos données avec votre tablette, ordinateur ou vos proches. Voyagez connecté, travaillez à distance et profitez d'une expérience vidéo fluide grâce à Maroc Telecom et Orange, leaders de l'expérience de streaming vidéo."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Marokko eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Maroc eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Marokko eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Maroc choisir ?"
 
   - href: "#operators"
-    text: "Top Marokko eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Maroc"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Marokko"
+    text: "Guide des villes : La meilleure eSIM pour Maroc"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Marokko eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Maroc"
 
   - href: "#faq"
-    text: "Frequently asked questions about Marokko eSIM"
+    text: "Questions fréquentes sur l'eSIM Maroc"
 
   - href: "#myths"
-    text: "Myths and facts about Marokko eSIM"
+    text: "Mythes et faits sur l'eSIM Maroc"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Marokko eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Maroc devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/morocco-speedtest-connectivity-report-h2-2024)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/morocco-speedtest-connectivity-report-h2-2024)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "Maroc Telecom"
     carrier_class: "text-orange-600"
-    reason: "Fastest mobile network with median download 53.72 Mbps and upload 13.28 Mbps, ideal for video calls and large file transfers."
+    reason: "Meilleure vitesse mobile globale (53,72 Mbps en téléchargement) et la latence la plus faible (43 ms). Idéal pour le télétravail, les visioconférences et le partage de connexion."
 
-  - travel: "Streaming enthusiasts"
+  - travel: "Voyageurs urbains"
     carrier: "Orange"
-    carrier_class: "text-orange-600"
-    reason: "Best mobile video streaming experience according to Ookla, perfect for watching movies and shows on the go."
+    carrier_class: "text-red-600"
+    reason: "Meilleure expérience de streaming vidéo. Parfait pour regarder des films, séries et vidéos en déplacement dans les grandes villes comme Casablanca, Rabat ou Marrakech."
 
-  - travel: "Budget travelers"
+  - travel: "Aventuriers et randonneurs"
     carrier: "inwi"
-    carrier_class: "text-orange-600"
-    reason: "Competitive pricing with solid performance (median download 41.24 Mbps) and good gaming experience."
+    carrier_class: "text-purple-600"
+    reason: "Meilleure expérience de jeu mobile, indiquant une bonne stabilité réseau. Convient aux zones moins densément peuplées et aux activités de plein air."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Marokko travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Maroc la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "maroc-telecom-esim"
-    title: "Maroc Telecom eSIM Review: Best overall performance"
-    best_for: "This plan is the absolute top choice for travelers who need the fastest and most consistent mobile internet in Morocco. Maroc Telecom leads in download speed, upload speed, and network consistency."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/morocco-speedtest-connectivity-report-h2-2024), Maroc Telecom achieved a Speed Score of 68.20, the highest among all operators.\n- **Download rate**: Median download speed of 53.72 Mbps.\n- **Upload rate**: Median upload speed of 13.28 Mbps.\n- **Latency**: Lowest latency at 43 ms.\n- **Consistency**: 89.2% of samples met the threshold of 5 Mbps download and 1 Mbps upload."
-    arcep_note: "Confirmed by the local telecom authority (ANRT) as the market leader in mobile broadband performance."
-    connect_note: "Activation works seamlessly via QR code; eSIM compatible with most modern smartphones."
-    user_scenarios: "- **Marrakech Medina**: Navigate narrow alleys with fast Google Maps loading and instant social media uploads.\n- **Chefchaouen (Blue City)**: Stream high-definition videos of the blue-washed streets without buffering.\n- **Sahara Desert camps**: Stay connected with reliable data even in remote desert lodges."
+    title: "Test eSIM Maroc Telecom : Meilleure couverture et vitesse"
+    best_for: "Ce forfait est le meilleur choix absolu pour les nomades numériques et les voyageurs d'affaires exigeant une connexion rapide et stable. Maroc Telecom domine le marché mobile marocain avec la vitesse de téléchargement médiane la plus élevée (53,72 Mbps) et la latence la plus faible (43 ms)."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/morocco-speedtest-connectivity-report-h2-2024), Maroc Telecom offre la meilleure couverture 5G du pays.\n- **Débit descendant médian** : 53,72 Mbps (toutes technologies confondues).\n- **Débit montant médian** : 13,28 Mbps.\n- **Latence** : 43 ms.\n- **Score de vitesse** : 68,20 (le plus élevé).\n- **Expérience vidéo** : Meilleure expérience de streaming vidéo mobile.\n- **Régularité** : 89,2 % des échantillons atteignent le seuil de 5 Mbps descendant / 1 Mbps montant."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (ANRT) et les rapports Speedtest Intelligence®. Maroc Telecom est également le FAI fixe le plus rapide avec une vitesse de téléchargement médiane de 49,59 Mbps."
+    connect_note: "L'activation se déroule sans problème via un QR code. Compatible avec le partage de connexion (hotspot) sans frais supplémentaires. Profitez d'une connexion instantanée dès votre arrivée au Maroc."
+    user_scenarios: "- **Place Jemaa el-Fna (Marrakech)** : Partagez en direct vos vidéos de la place animée avec vos amis et votre famille. Grâce à la faible latence de Maroc Telecom, vos streams seront fluides et sans décalage.\n- **Gare de Casa-Voyageurs (Casablanca)** : Téléchargez vos documents de travail ou regardez une série en streaming pendant votre trajet en train. La vitesse de téléchargement de 53,72 Mbps vous permet de télécharger un film en quelques secondes.\n- **Médina de Fès** : Utilisez votre téléphone comme point d'accès Wi-Fi pour votre ordinateur portable afin de travailler depuis un café traditionnel. Le partage de connexion est parfaitement pris en charge."
     bg_color: "bg-blue-50"
 
   - id: "orange-esim"
-    title: "Orange eSIM Review: Best for video streaming"
-    best_for: "Ideal for travelers who prioritize watching videos, live streaming, or video calling. Orange offers the best mobile video streaming experience in Morocco."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/morocco-speedtest-connectivity-report-h2-2024), Orange recorded a median download speed of 33.21 Mbps.\n- **Video experience**: Best video streaming score among ISPs.\n- **Coverage**: Strong urban and suburban coverage, especially in Casablanca and Rabat."
-    arcep_note: "Orange is a key player in the Moroccan telecom market, regulated by ANRT."
-    connect_note: "Easy eSIM activation; supports dual SIM (physical + eSIM) for simultaneous use."
-    user_scenarios: "- **Casablanca Corniche**: Stream live football matches or Netflix on the beach.\n- **Fes medina**: Video call family while exploring the ancient tanneries.\n- **Tangier port**: Download travel guides and maps before boarding the ferry."
-    bg_color: "bg-orange-50"
+    title: "Test eSIM Orange : Meilleure expérience vidéo"
+    best_for: "Ce forfait est le meilleur choix pour les amateurs de streaming vidéo et les voyageurs qui souhaitent une expérience de divertissement optimale. Orange offre la meilleure expérience de streaming vidéo parmi les FAI marocains."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/morocco-speedtest-connectivity-report-h2-2024), Orange propose une couverture 5G étendue dans les grandes villes.\n- **Débit descendant médian** : 33,21 Mbps.\n- **Expérience vidéo** : Meilleure expérience de streaming vidéo parmi les FAI.\n- **Positionnement** : Deuxième opérateur mobile en termes de vitesse."
+    arcep_note: "Données issues des rapports OpenSignal et Speedtest Intelligence®. Orange est reconnu pour la qualité de son réseau et son engagement envers l'expérience client."
+    connect_note: "Activation simple et rapide. Profitez d'une connexion stable pour le streaming HD et le partage de connexion. Idéal pour les séjours en ville."
+    user_scenarios: "- **Corniche de Casablanca** : Regardez vos séries préférées en streaming depuis la plage. La qualité vidéo optimale d'Orange vous garantit une expérience sans buffering.\n- **Aéroport Mohammed V** : Téléchargez des films et des séries pour votre vol. La vitesse de téléchargement est suffisante pour préparer votre divertissement en quelques minutes.\n- **Riad à Marrakech** : Connectez votre tablette au hotspot de votre téléphone pour regarder un film en soirée. Le partage de connexion est fluide et fiable."
+    bg_color: "bg-red-50"
 
   - id: "inwi-esim"
-    title: "inwi eSIM Review: Best for gaming and budget"
-    best_for: "Perfect for gamers and cost-conscious travelers. inwi offers competitive speeds and the best mobile gaming experience in Morocco."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/morocco-speedtest-connectivity-report-h2-2024), inwi achieved a median download speed of 41.24 Mbps.\n- **Gaming experience**: Best mobile gaming experience score of 78.67.\n- **Pricing**: Generally more affordable than competitors."
-    arcep_note: "inwi is the third major operator in Morocco, licensed by ANRT."
-    connect_note: "Quick QR code activation; compatible with most eSIM-enabled devices."
-    user_scenarios: "- **Rabat tram**: Play online games during your commute with low latency.\n- **Agadir beach**: Share your vacation photos instantly with fast uploads.\n- **Oujda city**: Enjoy smooth video calls and browsing at the fastest mobile speeds in the city (65.74 Mbps median)."
-    bg_color: "bg-green-50"
+    title: "Test eSIM inwi : Meilleure expérience de jeu mobile"
+    best_for: "Ce forfait est le meilleur choix pour les joueurs mobiles et les utilisateurs recherchant une connexion stable pour les applications interactives. inwi offre la meilleure expérience de jeu mobile au Maroc."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/morocco-speedtest-connectivity-report-h2-2024), inwi développe activement son réseau 5G.\n- **Débit descendant médian** : 41,24 Mbps.\n- **Expérience de jeu** : Meilleure expérience de jeu mobile.\n- **Positionnement** : Deuxième opérateur en vitesse de téléchargement médiane."
+    arcep_note: "Données issues des rapports Speedtest Intelligence®. inwi est un acteur dynamique sur le marché marocain, avec une attention particulière portée à l'expérience utilisateur."
+    connect_note: "Activation rapide et sans tracas. Profitez d'une connexion stable pour jouer en ligne et partager votre connexion avec d'autres appareils."
+    user_scenarios: "- **Cyber Park à Rabat** : Jouez à vos jeux mobiles préférés en plein air. La faible latence et la stabilité d'inwi vous offrent une expérience de jeu optimale.\n- **Tramway de Casablanca** : Utilisez votre téléphone comme hotspot pour que vos enfants jouent sur leur tablette pendant le trajet. Le partage de connexion est parfaitement adapté.\n- **Plage d'Agadir** : Partagez votre connexion avec vos amis pour diffuser de la musique ou des vidéos. La vitesse de téléchargement de 41,24 Mbps est suffisante pour un usage collectif."
+    bg_color: "bg-purple-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Marokko eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Marokko eSIM and local 5G bands"
-cards_free_title: "Get your free Marokko eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Maroc"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Maroc et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Maroc gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Marokko eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Maroc"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Morocco"
-    content: "Morocco's mobile networks operate on the following key bands: 4G LTE bands 3 (1800 MHz), 7 (2600 MHz), and 20 (800 MHz); 5G bands n78 (3500 MHz) and n28 (700 MHz). Ensure your device supports these bands for optimal connectivity."
+  - heading: "1. Bandes 5G et 4G principales au Maroc"
+    content: "Avant d'acheter votre eSIM, vérifiez la <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> de votre téléphone avec les bandes de fréquences utilisées au Maroc. Les bandes 4G principales sont : B3 (1800 MHz), B7 (2600 MHz), B20 (800 MHz). Pour la 5G, les bandes principales sont : n78 (3500 MHz) et n1 (2100 MHz). La plupart des smartphones récents sont compatibles, mais il est conseillé de vérifier les spécifications de votre appareil."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate a Moroccan eSIM, you must provide a valid passport or national ID. Some providers may require a selfie or proof of address. Roami simplifies this process by handling verification digitally."
+  - heading: "2. Exigence KYC (Connaître votre client) pour l'eSIM"
+    content: "Au Maroc, l'activation d'une carte SIM (y compris eSIM) est soumise à une procédure KYC. Vous devez fournir une pièce d'identité valide (passeport ou carte d'identité nationale). Avec Roami, cette vérification est effectuée en ligne lors de l'achat, ce qui vous évite des formalités à l'arrivée. Assurez-vous d'avoir une pièce d'identité à portée de main."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most unlimited data plans have a Fair Usage Policy (FUP) that throttles speeds after a certain threshold (e.g., 20-50 GB per month). Check the specific plan details to avoid unexpected slowdowns."
+  - heading: "3. Politique d'utilisation équitable (FUP) et données illimitées"
+    content: "Les forfaits dits 'illimités' au Maroc sont souvent soumis à une politique d'utilisation équitable (FUP). Après avoir consommé un certain volume de données à haute vitesse (par exemple, 20 Go ou 50 Go), votre débit peut être réduit. Roami vous informe clairement des conditions de votre forfait. Pour une utilisation intensive (streaming, partage de connexion), choisissez un forfait avec un volume de données élevé avant la limitation."
 
-  - heading: "4. Network coverage in rural and remote areas"
-    content: "Maroc Telecom offers the widest rural coverage, including the Sahara and Atlas Mountains. Orange and inwi have strong urban coverage but may be weaker in remote regions. Always check coverage maps before traveling."
+  - heading: "4. Partage de connexion (Hotspot) : est-ce autorisé ?"
+    content: "Oui, le partage de connexion (hotspot) est autorisé avec les eSIM Roami au Maroc. Vous pouvez utiliser votre téléphone comme point d'accès Wi-Fi pour connecter votre ordinateur, votre tablette ou d'autres appareils. Aucun frais supplémentaire n'est facturé pour cette fonctionnalité. C'est idéal pour les nomades numériques et les voyageurs en groupe."
 
-  - heading: "5. eSIM compatibility and device support"
-    content: "eSIM is supported on most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Ensure your device is unlocked and eSIM-compatible before purchasing."
+  - heading: "5. Couverture réseau dans les zones rurales et montagneuses"
+    content: "La couverture réseau est excellente dans les grandes villes et les axes principaux. Cependant, dans les zones rurales, montagneuses (Atlas, Rif) ou désertiques (Sahara), la couverture peut être plus limitée. Maroc Telecom offre généralement la meilleure couverture dans ces zones. Si vous prévoyez de voyager hors des sentiers battus, privilégiez un opérateur avec une couverture étendue."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Marokko"
-city_guide_desc: "Find out which Marokko eSIM is the best choice for your destination city based on local network performance and user needs."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Maroc"
+city_guide_desc: "Découvrez quelle eSIM Maroc est le meilleur choix pour votre ville de destination. Les performances réseau peuvent varier selon les villes. Nous nous basons sur les données Speedtest Intelligence® pour vous recommander l'opérateur le plus adapté."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
+  - city: "Oujda"
+    carriers: "Maroc Telecom"
+    reason: "Oujda est la ville la plus performante pour la vitesse mobile avec une vitesse de téléchargement médiane de 65,74 Mbps. Maroc Telecom, étant l'opérateur le plus rapide du pays, est le choix idéal pour profiter de cette vitesse exceptionnelle."
+
+  - city: "Salé"
+    carriers: "Maroc Telecom"
+    reason: "Salé est la ville la plus performante pour la vitesse fixe avec une vitesse de téléchargement médiane de 35,57 Mbps. Maroc Telecom, également le FAI fixe le plus rapide, est recommandé pour une connexion domestique ou de bureau stable."
+
   - city: "Casablanca"
     carriers: "Orange"
-    reason: "Orange offers the best video streaming experience, perfect for enjoying entertainment in Morocco's largest city. Strong 5G coverage in business districts and the Corniche."
+    reason: "Casablanca est la capitale économique. Orange offre la meilleure expérience de streaming vidéo, idéale pour les professionnels et les voyageurs qui souhaitent se divertir après le travail. La couverture 5G y est excellente."
 
   - city: "Marrakech"
     carriers: "Maroc Telecom"
-    reason: "Maroc Telecom provides the fastest and most consistent speeds, ideal for navigating the medina, booking tours, and staying connected in busy tourist areas."
+    reason: "Marrakech est une destination touristique majeure. Maroc Telecom offre la meilleure couverture et la vitesse la plus élevée, ce qui est essentiel pour partager des photos et des vidéos, utiliser des applications de navigation et rester connecté dans les zones très fréquentées."
 
-  - city: "Fes"
+  - city: "Rabat"
     carriers: "inwi"
-    reason: "inwi's affordable plans and good gaming experience are great for budget travelers exploring the ancient medina. Reliable 4G coverage in the city center."
+    reason: "Rabat est la capitale administrative. inwi offre la meilleure expérience de jeu mobile, ce qui peut être un indicateur de stabilité réseau. C'est un bon choix pour les résidents et les visiteurs qui ont besoin d'une connexion fiable pour le travail et les loisirs."
 
-  - city: "Tangier"
-    carriers: "Maroc Telecom"
-    reason: "Maroc Telecom's low latency (43 ms) ensures smooth video calls and browsing, perfect for travelers arriving by ferry or exploring the port area."
-
-  - city: "Oujda"
-    carriers: "inwi"
-    reason: "Oujda recorded the fastest median mobile download speed in Morocco at 65.74 Mbps. inwi's network excels here, making it ideal for data-heavy tasks."
-
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Marokko eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Maroc selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Morocco's vibrant cities like Marrakech, Fes, and Casablanca with fast internet for maps, restaurant reviews, and social media. Maroc Telecom's high consistency (89.2%) ensures you never lose connection in crowded souks."
+    title: "Découvreur de villes"
+    text: "Explorez les médinas de Marrakech, Fès et Rabat. Utilisez votre eSIM pour les cartes de navigation, les guides touristiques et les réseaux sociaux. Le partage de connexion vous permet de connecter votre tablette pour planifier votre itinéraire."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike the Atlas Mountains or camp in the Sahara Desert. Maroc Telecom offers the best rural coverage, so you can share your adventure in real-time. Download offline maps before heading out."
+    title: "Amoureux de la nature"
+    text: "Randonnez dans le Haut Atlas ou le désert du Sahara. Maroc Telecom offre la meilleure couverture dans les zones reculées. Utilisez votre téléphone comme hotspot pour partager votre position avec vos proches."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive from Tangier to Merzouga with reliable navigation and streaming. Orange's video experience is perfect for passengers watching movies during long drives. Use eSIM data for real-time traffic updates."
+    title: "Roadtrippeur"
+    text: "Parcourez la côte atlantique ou les routes de l'Atlas. Votre eSIM vous garantit une connexion continue pour la musique, les podcasts et les appels. Le partage de connexion permet à vos passagers de rester connectés."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on the beaches of Agadir or Essaouira with fast uploads for photos and videos. inwi's affordable plans let you share your vacation without worrying about data limits."
+    title: "Vacancier à la plage"
+    text: "Profitez des plages d'Agadir, d'Essaouira ou de Tanger. Diffusez de la musique, regardez des vidéos et partagez vos moments de détente. Orange offre la meilleure expérience de streaming vidéo pour vos soirées plage."
 
-scene_guide_footer: "💡 The Roami Marokko eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Maroc détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Marokko eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Maroc"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "How exactly do I activate the Roami eSIM profile right after arriving at the airport in Marokko?"
-    a: "After purchasing the Roami eSIM, you will receive a QR code via email. Upon arrival at Mohammed V International Airport or any other Moroccan airport, simply scan the QR code with your phone's camera, follow the on-screen instructions to install the eSIM profile, and enable data roaming. Activation takes less than 2 minutes, and you will be connected to the local network immediately."
+  - q: "Aurai-je un signal réseau avec l'eSIM même dans les métros, les vallées profondes ou les zones reculées en Maroc ?"
+    a: "La couverture réseau au Maroc est généralement excellente dans les grandes villes, les axes routiers principaux et les zones touristiques. Cependant, dans les métros (peu nombreux au Maroc), les vallées profondes de l'Atlas ou les zones désertiques reculées, le signal peut être plus faible ou inexistant. Maroc Telecom offre la meilleure couverture dans les zones rurales et montagneuses. Pour une expérience optimale, nous vous recommandons de télécharger des cartes hors ligne pour la navigation et de prévoir des solutions de communication alternatives dans les zones très isolées."
 
-  - q: "Is the Marokko eSIM suitable for online gaming, and what is the average network latency (ping)?"
-    a: "Yes, the Marokko eSIM is suitable for online gaming. According to Ookla data, Maroc Telecom offers the lowest latency at 43 ms, while inwi provides the best mobile gaming experience with a score of 78.67. This ensures smooth gameplay for most mobile games, including real-time strategy and battle royale titles."
+  - q: "Le système se connecte-t-il automatiquement au réseau local le plus puissant en Maroc sans configuration manuelle ?"
+    a: "Oui, avec Roami eSIM, votre téléphone se connecte automatiquement au meilleur réseau local disponible en fonction de votre position et de la force du signal. Vous n'avez pas besoin de configurer manuellement l'opérateur. Cependant, si vous rencontrez des problèmes de connexion, vous pouvez toujours sélectionner manuellement un opérateur dans les paramètres réseau de votre téléphone. Les opérateurs disponibles sont Maroc Telecom, Orange et inwi."
 
-  - q: "Can I use my physical home SIM card and the Marokko eSIM simultaneously?"
-    a: "Yes, most modern smartphones support dual SIM functionality, allowing you to use your physical home SIM for calls and texts while the eSIM handles data. This is perfect for keeping your home number active while enjoying fast internet in Morocco. Simply configure your phone's settings to prefer the eSIM for mobile data."
+  - q: "Puis-je sélectionner manuellement un autre opérateur local en Maroc si le signal actuel est faible ?"
+    a: "Absolument. Si le signal de l'opérateur sélectionné automatiquement est faible, vous pouvez changer manuellement d'opérateur. Allez dans les paramètres réseau de votre téléphone, désactivez la sélection automatique et choisissez parmi les opérateurs disponibles : Maroc Telecom, Orange ou inwi. Cela peut être utile dans les zones où un opérateur particulier offre une meilleure couverture."
 
-  - q: "Does network coverage include major transport hubs like airports, high‑speed trains, and subways in Marokko?"
-    a: "Yes, all three major operators (Maroc Telecom, Orange, and inwi) provide extensive coverage at airports (e.g., Casablanca, Marrakech, Agadir), along high-speed train routes (Al Boraq), and in urban metro systems (Casablanca Tramway). Maroc Telecom offers the most consistent coverage across these hubs, with 89.2% of samples meeting the minimum speed threshold."
+  - q: "Mon téléphone prend en charge la double eSIM. Puis-je avoir deux profils eSIM Maroc actifs en même temps ?"
+    a: "Oui, si votre téléphone prend en charge la double eSIM (ou une eSIM et une carte physique), vous pouvez avoir deux profils actifs simultanément. Par exemple, vous pouvez utiliser un profil pour les données (Roami) et un autre pour les appels et SMS (votre opérateur habituel). Cependant, un seul profil peut être utilisé pour les données mobiles à la fois. Vous pouvez basculer entre les profils dans les paramètres."
 
-  - q: "Does Roami offer refunds if the Marokko eSIM does not work, and what are the conditions?"
-    a: "Roami offers a 30-day money-back guarantee if the eSIM fails to work on a compatible device. Conditions include: the device must be eSIM-compatible and unlocked, the eSIM must not have been used (no data consumed), and you must provide proof of the issue (e.g., screenshots). Refunds are processed within 5-7 business days."
+  - q: "Que dois-je faire si mon eSIM Maroc ne trouve pas de réseau après une installation réussie ?"
+    a: "Si votre eSIM est installée mais ne trouve pas de réseau, suivez ces étapes : 1. Assurez-vous que les données mobiles sont activées. 2. Redémarrez votre téléphone. 3. Vérifiez que la sélection automatique du réseau est activée. 4. Si le problème persiste, sélectionnez manuellement un opérateur (Maroc Telecom, Orange ou inwi). 5. Vérifiez que votre forfait est actif et que vous n'avez pas dépassé la date d'expiration. 6. Contactez le support client Roami pour une assistance supplémentaire."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Marokko eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Maroc"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "All eSIMs in Morocco have the same speed and coverage."
-    truth: "False. Maroc Telecom is the fastest with a median download speed of 53.72 Mbps, while Orange excels in video streaming and inwi offers the best gaming experience. Coverage also varies, with Maroc Telecom having the widest rural reach."
+  - myth: "Les eSIM sont moins fiables que les cartes SIM physiques."
+    truth: "Faux. Les eSIM sont tout aussi fiables, voire plus, car elles ne peuvent pas être perdues ou endommagées physiquement. Elles offrent une sécurité accrue et une activation instantanée."
 
-  - myth: "You need a Moroccan ID to buy an eSIM."
-    truth: "No. Tourists can purchase eSIMs using a valid passport. Roami handles the KYC process digitally, requiring only a passport scan and a selfie for verification."
+  - myth: "Le partage de connexion (hotspot) est toujours bloqué avec les eSIM de voyage."
+    truth: "Faux. Avec Roami, le partage de connexion est autorisé et sans frais supplémentaires. Vous pouvez connecter plusieurs appareils à votre hotspot."
 
-  - myth: "eSIMs are only for high-end smartphones."
-    truth: "eSIMs are supported on a wide range of devices, including mid-range Android phones (e.g., Google Pixel 3a, Samsung Galaxy A54) and iPhones from the XS model onward. Check your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchase."
+  - myth: "Tous les opérateurs marocains offrent la même qualité de réseau."
+    truth: "Faux. Selon les données Speedtest Intelligence®, Maroc Telecom est le plus rapide (53,72 Mbps), Orange offre la meilleure expérience vidéo, et inwi la meilleure expérience de jeu. Les performances varient selon les opérateurs et les villes."
 
-  - myth: "Unlimited data plans have no restrictions."
-    truth: "Most unlimited plans have a Fair Usage Policy (FUP). After exceeding a certain data cap (e.g., 30 GB), speeds may be throttled. Always read the terms to avoid surprises."
+  - myth: "Les forfaits de données illimités au Maroc sont vraiment illimités sans aucune restriction."
+    truth: "Faux. La plupart des forfaits dits 'illimités' sont soumis à une politique d'utilisation équitable (FUP). Après un certain volume de données, la vitesse peut être réduite. Lisez attentivement les conditions de votre forfait."
 
-  - myth: "Morocco's mobile networks are unreliable in cities."
-    truth: "Urban coverage is excellent. Maroc Telecom's consistency score of 89.2% means nearly 9 out of 10 speed tests meet the minimum threshold. Cities like Oujda and Salé have some of the fastest speeds in the country."
+  - myth: "Vous devez absolument acheter une carte SIM physique à l'aéroport pour avoir une connexion au Maroc."
+    truth: "Faux. Vous pouvez acheter et activer une eSIM Roami avant votre départ. Vous serez connecté dès votre arrivée, sans faire la queue dans les magasins de l'aéroport."
 
 
 # Data sources
-data_sources_title: "Marokko mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Maroc"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/morocco-speedtest-connectivity-report-h2-2024)"
-    description: "Ookla's Speedtest Intelligence data for Morocco, covering the second half of 2024. Provides median download/upload speeds, latency, and consistency scores for mobile and fixed networks."
+  - name: "Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/morocco-speedtest-connectivity-report-h2-2024)"
+    description: "Analyse des performances des réseaux mobiles et fixes au Maroc pour la seconde moitié de 2024. Données basées sur des millions de tests effectués par les utilisateurs."
 
   - name: "OpenSignal 2024"
-    description: "OpenSignal's mobile network experience report for Morocco, including video experience, gaming experience, and coverage metrics for all major operators."
+    description: "Rapport sur l'expérience mobile au Maroc, incluant la couverture, la vitesse et l'expérience vidéo. Données collectées via l'application OpenSignal."
 
   - name: "ANRT (Agence Nationale de Réglementation des Télécommunications) 2024"
-    description: "The Moroccan national telecom regulator's annual report on network quality, spectrum allocation, and operator performance benchmarks."
+    description: "Rapport officiel de l'autorité de régulation marocaine sur la qualité de service des opérateurs télécoms. Données de référence pour la couverture et la conformité."
 
-data_sources_footer: "All network performance data cited above come from publicly available third-party reports and are used for informational purposes. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device, and time of day. Always check the latest coverage maps and user reviews before purchasing an eSIM."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public et sont utilisées à des fins d'information. Les performances réelles peuvent varier en fonction de votre emplacement, de votre appareil et des conditions du réseau."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de nombreux facteurs, notamment l'heure de la journée, la congestion du réseau, le type d'appareil et les conditions météorologiques. Les données présentées sont des médianes et des scores composites."
 
 # CTA product card
-cta_title: "Secure your Marokko eSIM today"
-cta_desc: "Get immediate access to Morocco's fastest mobile networks with Roami's eSIM. Instant activation, no roaming fees, and unlimited data options. Perfect for travelers who want to stay connected without hassle."
-cta_button_text: "Buy Marokko eSIM now"
+cta_title: "Obtenez votre eSIM Maroc dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat à Internet haut débit au Maroc. Activez votre eSIM avant votre départ et profitez d'une connexion instantanée. Partagez vos données avec vos appareils et vos proches."
+cta_button_text: "Acheter l'eSIM Maroc maintenant"
 cta_button_link: "/morocco-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Marokko trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Maroc gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Marokko eSIM: Save time and effort with travel internet
+# Maroc eSIM: Prend en charge le partage de connexion (hotspot) sans faille
 
-> **💡 Short summary for travelers:** Unlimited 5G data: more efficient use by sharing across multiple devices. Roami's Marokko eSIM leverages the fastest mobile network in the country, Maroc Telecom, which achieved a median download speed of 53.72 Mbps and a Speed Score of 68.20 in the second half of 2024. Whether you are streaming video, gaming, or working remotely, this eSIM provides reliable, high-speed connectivity without roaming fees. Save time and money by activating instantly and sharing your data plan across your phone, tablet, and laptop.
+> **💡 Résumé rapide pour les voyageurs :** Données 5G illimitées : utilisation plus efficace grâce au partage pour plusieurs appareils. Avec Roami eSIM Maroc, vous bénéficiez des meilleures performances réseau du pays. Selon les données Speedtest Intelligence® de la seconde moitié de 2024, Maroc Telecom est l'opérateur le plus rapide avec une vitesse de téléchargement médiane de 53,72 Mbps et une vitesse de téléchargement montant de 13,28 Mbps. Que vous soyez à Oujda (vitesse mobile médiane de 65,74 Mbps) ou à Salé (vitesse fixe médiane de 35,57 Mbps), notre eSIM vous connecte automatiquement au meilleur réseau disponible. Activez le partage de connexion (hotspot) sans frais supplémentaires et partagez vos données avec votre tablette, ordinateur ou vos proches. Voyagez connecté, travaillez à distance et profitez d'une expérience vidéo fluide grâce à Maroc Telecom et Orange, leaders de l'expérience de streaming vidéo.
 
-## Things you need to know before buying a Marokko eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Maroc
 
 
-### 1. Main 5G/4G frequency bands in Morocco {#1-main-5g4g-frequency-bands-in-morocco}
-Morocco's mobile networks operate on the following key bands: 4G LTE bands 3 (1800 MHz), 7 (2600 MHz), and 20 (800 MHz); 5G bands n78 (3500 MHz) and n28 (700 MHz). Ensure your device supports these bands for optimal connectivity.
+### 1. Bandes 5G et 4G principales au Maroc {#1-bandes-5g-et-4g-principales-au-maroc}
+Avant d'acheter votre eSIM, vérifiez la <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> de votre téléphone avec les bandes de fréquences utilisées au Maroc. Les bandes 4G principales sont : B3 (1800 MHz), B7 (2600 MHz), B20 (800 MHz). Pour la 5G, les bandes principales sont : n78 (3500 MHz) et n1 (2100 MHz). La plupart des smartphones récents sont compatibles, mais il est conseillé de vérifier les spécifications de votre appareil.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate a Moroccan eSIM, you must provide a valid passport or national ID. Some providers may require a selfie or proof of address. Roami simplifies this process by handling verification digitally.
+### 2. Exigence KYC (Connaître votre client) pour l'eSIM {#2-exigence-kyc-connaître-votre-client-pour-lesim}
+Au Maroc, l'activation d'une carte SIM (y compris eSIM) est soumise à une procédure KYC. Vous devez fournir une pièce d'identité valide (passeport ou carte d'identité nationale). Avec Roami, cette vérification est effectuée en ligne lors de l'achat, ce qui vous évite des formalités à l'arrivée. Assurez-vous d'avoir une pièce d'identité à portée de main.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most unlimited data plans have a Fair Usage Policy (FUP) that throttles speeds after a certain threshold (e.g., 20-50 GB per month). Check the specific plan details to avoid unexpected slowdowns.
+### 3. Politique d'utilisation équitable (FUP) et données illimitées {#3-politique-dutilisation-équitable-fup-et-données-illimitées}
+Les forfaits dits 'illimités' au Maroc sont souvent soumis à une politique d'utilisation équitable (FUP). Après avoir consommé un certain volume de données à haute vitesse (par exemple, 20 Go ou 50 Go), votre débit peut être réduit. Roami vous informe clairement des conditions de votre forfait. Pour une utilisation intensive (streaming, partage de connexion), choisissez un forfait avec un volume de données élevé avant la limitation.
 
-### 4. Network coverage in rural and remote areas {#4-network-coverage-in-rural-and-remote-areas}
-Maroc Telecom offers the widest rural coverage, including the Sahara and Atlas Mountains. Orange and inwi have strong urban coverage but may be weaker in remote regions. Always check coverage maps before traveling.
+### 4. Partage de connexion (Hotspot) : est-ce autorisé ? {#4-partage-de-connexion-hotspot--est-ce-autorisé-}
+Oui, le partage de connexion (hotspot) est autorisé avec les eSIM Roami au Maroc. Vous pouvez utiliser votre téléphone comme point d'accès Wi-Fi pour connecter votre ordinateur, votre tablette ou d'autres appareils. Aucun frais supplémentaire n'est facturé pour cette fonctionnalité. C'est idéal pour les nomades numériques et les voyageurs en groupe.
 
-### 5. eSIM compatibility and device support {#5-esim-compatibility-and-device-support}
-eSIM is supported on most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Ensure your device is unlocked and eSIM-compatible before purchasing.
+### 5. Couverture réseau dans les zones rurales et montagneuses {#5-couverture-réseau-dans-les-zones-rurales-et-montagneuses}
+La couverture réseau est excellente dans les grandes villes et les axes principaux. Cependant, dans les zones rurales, montagneuses (Atlas, Rif) ou désertiques (Sahara), la couverture peut être plus limitée. Maroc Telecom offre généralement la meilleure couverture dans ces zones. Si vous prévoyez de voyager hors des sentiers battus, privilégiez un opérateur avec une couverture étendue.

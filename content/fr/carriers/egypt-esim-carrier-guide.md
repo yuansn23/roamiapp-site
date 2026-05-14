@@ -1,65 +1,65 @@
 ---
-title: "Ägypten eSIM: Fully compatible with iPhone and Android"
-description: "Experience fast internet in Ägypten with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:39:38+00:00"
-keywords: "eSIM Ägypten, prepaid data, 5G network, We Egypt, Orange Egypt, Etisalat Egypt, travel eSIM, Roami eSIM"
+title: "Égypte eSIM: Forfaits data flexibles de plusieurs jours"
+description: "Profitez d'Internet rapide en Égypte avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:15:54+00:00"
+keywords: "eSIM Égypte, données prépayées, réseau 5G, opérateur We, Orange, Etisalat, voyage, nomade numérique"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Ägypten eSIM Guide"
+  - name: "Guide eSIM Égypte"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Ägypten Travel eSIM Latest Guide"
-hero_subtitle_main: "Ägypten eSIM: Fully compatible with iPhone and Android"
-hero_subtitle_highlight: "Premium 5G network coverage by We, Orange, and Etisalat"
-hero_description_line1: "Designed for international tourists, the Ägypten eSIM supports dual‑SIM devices. Keep your original number while enjoying local high‑speed data volume for a smarter connection."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Ägypten eSIM"
+hero_badge: "🇪🇬 Guide actuel de l'eSIM de voyage Égypte"
+hero_subtitle_main: "Égypte eSIM: Forfaits data flexibles de plusieurs jours"
+hero_subtitle_highlight: "Couverture réseau 5G premium via We, Orange et Etisalat"
+hero_description_line1: "Recevez les détails d'activation immédiatement après l'achat de l'eSIM Égypte. Pas d'attente pour la livraison d'une carte physique, ce qui vous aide à gagner du temps et à améliorer l'efficacité de votre voyage."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Égypte"
 hero_link_url: "/egypt-esim/"
-tldr_summary: "Worry-free global business travel: one eSIM for high‑speed networks across multiple countries. Roami’s Ägypten eSIM leverages the fastest mobile network in Egypt — We, which recorded a median download speed of 32.93 Mbps and a Speed Score of 42.20 according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/egypt-speedtest-connectivity-report-h2-2024). Whether you are in Luxor (top‑performing city with 31.48 Mbps) or Cairo, enjoy seamless connectivity with zero roaming fees. Roami eSIM is your reliable partner for instant activation and premium 5G coverage."
+tldr_summary: "Spécialement conçu pour les nomades numériques : solutions de données illimitées pour plusieurs pays. Selon les dernières données Speedtest (2H 2024), l'opérateur We domine le marché égyptien avec un débit descendant médian de 32,93 Mbps et un débit montant de 9,00 Mbps, offrant la meilleure expérience de jeu mobile et de streaming vidéo. Luxor est la ville la plus performante avec 31,48 Mbps en téléchargement. Avec Roami, vous bénéficiez d'une eSIM fiable qui se connecte automatiquement au meilleur réseau local (We, Orange ou Etisalat), sans frais d'itinérance et avec une activation instantanée. Idéal pour travailler, streamer ou explorer le pays en toute sérénité."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Ägypten eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Égypte eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Ägypten eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Égypte choisir ?"
 
   - href: "#operators"
-    text: "Top Ägypten eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Égypte"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Ägypten"
+    text: "Guide des villes : La meilleure eSIM pour Égypte"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Ägypten eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Égypte"
 
   - href: "#faq"
-    text: "Frequently asked questions about Ägypten eSIM"
+    text: "Questions fréquentes sur l'eSIM Égypte"
 
   - href: "#myths"
-    text: "Myths and facts about Ägypten eSIM"
+    text: "Mythes et faits sur l'eSIM Égypte"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Ägypten eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Égypte devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/egypt-speedtest-connectivity-report-h2-2024)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/egypt-speedtest-connectivity-report-h2-2024)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "We"
     carrier_class: "text-orange-600"
-    reason: "Fastest median download speed (32.93 Mbps) and best gaming/video experience. Ideal for heavy data users and remote work."
+    reason: "We est le réseau le plus rapide d'Égypte (32,93 Mbps en download) avec la meilleure cohérence (88,6% des échantillons ≥ 5 Mbps). Idéal pour le télétravail, les visioconférences et le streaming HD."
 
-  - travel: "City explorers"
+  - travel: "Voyageurs urbains"
     carrier: "Orange"
     carrier_class: "text-orange-600"
-    reason: "Strong second place with 26.59 Mbps median download. Excellent coverage in urban areas like Cairo and Alexandria."
+    reason: "Orange offre un excellent équilibre entre vitesse (26,59 Mbps) et couverture dans les grandes villes comme Le Caire et Alexandrie. Parfait pour une utilisation quotidienne en milieu urbain."
 
-  - travel: "Budget travelers"
+  - travel: "Aventuriers / zones rurales"
     carrier: "Etisalat"
     carrier_class: "text-orange-600"
-    reason: "Reliable network with 22.67 Mbps median download. Good value for casual browsing and social media."
+    reason: "Etisalat propose une couverture étendue même dans les zones moins densément peuplées, avec un débit de 22,67 Mbps. Bon choix pour les road trips et les visites de sites historiques éloignés."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Ägypten travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Égypte la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "we-esim"
-    title: "We eSIM Review: Fastest network in Egypt"
-    best_for: "This plan is the absolute top choice for users who demand the highest speeds and best streaming quality. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/egypt-speedtest-connectivity-report-h2-2024), We leads with a median download speed of 32.93 Mbps and a Speed Score of 42.20."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/egypt-speedtest-connectivity-report-h2-2024), We is the fastest mobile provider in Egypt across all technologies combined.\n- **Download rate**: Median download speed 32.93 Mbps.\n- **Upload rate**: Median upload speed 9.00 Mbps.\n- **Latency**: 51 ms.\n- **Consistency**: 88.6% of samples met or exceeded 5 Mbps download and 1 Mbps upload thresholds.\n- **Gaming Score**: 74.02 (best mobile gaming experience).\n- **Video Score**: 68.50 (best mobile video experience)."
-    arcep_note: "Confirmed by the local telecom authority (NTRA Egypt) that We holds the leading position in mobile network performance for 2H 2024."
-    connect_note: "Activation works seamlessly with Roami eSIM. Simply scan the QR code upon arrival and enjoy instant connectivity on We’s network."
-    user_scenarios: "- **Luxor Temple**: While exploring the ancient temples, enjoy buffer‑free video streaming and fast social media uploads with We’s 32.93 Mbps download speed.\n- **Cairo Metro**: Commute between stations with stable connectivity for maps and messaging, thanks to We’s 88.6% consistency rate.\n- **Red Sea resorts**: Share high‑resolution photos from Hurghada instantly with We’s 9.00 Mbps upload speed."
+    title: "Test eSIM We : Meilleure performance globale en Égypte"
+    best_for: "Ce forfait est le meilleur choix absolu pour les nomades numériques et les voyageurs exigeants qui ont besoin de la meilleure vitesse et fiabilité. We est officiellement le réseau le plus rapide d'Égypte."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/egypt-speedtest-connectivity-report-h2-2024), We domine le marché avec un Speed Score de 42,20.\n- **Débit descendant médian** : 32,93 Mbps (le plus élevé d'Égypte).\n- **Débit montant médian** : 9,00 Mbps (le plus élevé).\n- **Latence** : 51 ms.\n- **Cohérence réseau** : 88,6% des échantillons dépassent le seuil de 5 Mbps download / 1 Mbps upload (meilleure cohérence)."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (NTRA) et les données Speedtest Intelligence® du second semestre 2024. We est également reconnu pour la meilleure expérience de jeu mobile et de streaming vidéo en Égypte."
+    connect_note: "L'activation se déroule sans problème via le QR code Roami. Une fois activée, l'eSIM se connecte automatiquement au réseau We, garantissant une expérience optimale dès l'arrivée."
+    user_scenarios: "- **Au Caire (Place Tahrir)** : Téléchargez des cartes et guides en quelques secondes, regardez des vidéos YouTube en 4K sans mise en mémoire tampon.\n- **À Louxor (Vallée des Rois)** : Partagez vos photos et vidéos en direct sur les réseaux sociaux avec un débit montant de 9 Mbps, même dans une zone touristique très fréquentée.\n- **En télétravail depuis un hôtel à Hurghada** : Participez à des visioconférences Zoom sans coupure, grâce à la latence de 51 ms et à la cohérence réseau de 88,6%."
     bg_color: "bg-blue-50"
 
   - id: "orange-esim"
-    title: "Orange eSIM Review: Strong urban performer"
-    best_for: "This plan is ideal for travelers staying in major cities who need reliable speeds for everyday tasks. Orange recorded a median download speed of 26.59 Mbps, making it a solid alternative."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/egypt-speedtest-connectivity-report-h2-2024), Orange is the second fastest mobile provider in Egypt with a median download speed of 26.59 Mbps.\n- **Download rate**: Median download speed 26.59 Mbps.\n- **Upload rate**: Not specified in the raw data, but competitive.\n- **Latency**: Not specified.\n- **Consistency**: Not specified.\n- **Gaming Score**: Not specified.\n- **Video Score**: Not specified."
-    arcep_note: "Orange is a well‑established operator in Egypt, regulated by the NTRA, and offers extensive 4G/LTE coverage in urban centers."
-    connect_note: "Activation works seamlessly with Roami eSIM. Orange provides excellent coverage in Cairo, Alexandria, and other major cities."
-    user_scenarios: "- **Alexandria Corniche**: Stream music and navigate along the Mediterranean with Orange’s reliable 26.59 Mbps speeds.\n- **Khan El Khalili Bazaar**: Stay connected while shopping in Cairo’s historic market without lag.\n- **Giza Pyramids**: Share live videos from the plateau with consistent upload performance."
-    bg_color: "bg-white"
+    title: "Test eSIM Orange : Excellent rapport qualité-prix en ville"
+    best_for: "Ce forfait est idéal pour les voyageurs urbains qui visitent principalement les grandes villes comme Le Caire, Alexandrie ou Gizeh. Orange offre une très bonne vitesse et une couverture fiable."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/egypt-speedtest-connectivity-report-h2-2024), Orange est le deuxième opérateur le plus rapide d'Égypte.\n- **Débit descendant médian** : 26,59 Mbps.\n- **Débit montant médian** : Données non spécifiées, mais généralement compétitif.\n- **Latence** : Non spécifiée, mais comparable à la moyenne du marché.\n- **Cohérence réseau** : Bonne, mais légèrement inférieure à celle de We."
+    arcep_note: "Orange est un opérateur historique en Égypte, régulé par la NTRA. Ses performances en zone urbaine sont excellentes, et il propose des forfaits data attractifs pour les voyageurs."
+    connect_note: "L'activation de l'eSIM Orange via Roami est instantanée. Profitez d'une connexion stable dans les centres-villes, les centres commerciaux et les aéroports."
+    user_scenarios: "- **Au Caire (Khan el-Khalili)** : Recherchez des informations sur les produits, consultez les avis et publiez des stories Instagram sans latence.\n- **À Alexandrie (Bibliotheca Alexandrina)** : Téléchargez des livres numériques, regardez des documentaires en streaming HD.\n- **En déplacement entre Le Caire et Gizeh** : Utilisez Google Maps en temps réel pour naviguer sans interruption."
+    bg_color: "bg-orange-50"
 
   - id: "etisalat-esim"
-    title: "Etisalat eSIM Review: Budget‑friendly reliability"
-    best_for: "This plan is perfect for budget‑conscious travelers who need a dependable connection for messaging, maps, and light browsing. Etisalat offers a median download speed of 22.67 Mbps."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/egypt-speedtest-connectivity-report-h2-2024), Etisalat is the third fastest mobile provider in Egypt with a median download speed of 22.67 Mbps.\n- **Download rate**: Median download speed 22.67 Mbps.\n- **Upload rate**: Not specified.\n- **Latency**: Not specified.\n- **Consistency**: Not specified.\n- **Gaming Score**: Not specified.\n- **Video Score**: Not specified."
-    arcep_note: "Etisalat is a trusted operator in Egypt, licensed by the NTRA, and provides good coverage in both urban and suburban areas."
-    connect_note: "Activation works seamlessly with Roami eSIM. Etisalat is a cost‑effective choice for travelers who prioritize affordability."
-    user_scenarios: "- **Aswan Felucca Ride**: Check emails and upload photos from the Nile with Etisalat’s stable connection.\n- **Luxor Hot Air Balloon**: Share your sunrise experience in real time without breaking the bank.\n- **Dahab Beach**: Stay connected for social media updates while enjoying the Red Sea."
-    bg_color: "bg-blue-50"
+    title: "Test eSIM Etisalat : Couverture étendue pour les explorateurs"
+    best_for: "Ce forfait est parfait pour les aventuriers et les roadtrippeurs qui souhaitent explorer des régions moins touristiques. Etisalat offre une couverture réseau étendue, même dans les zones rurales."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/egypt-speedtest-connectivity-report-h2-2024), Etisalat complète le trio de tête avec un débit descendant médian de 22,67 Mbps.\n- **Débit descendant médian** : 22,67 Mbps.\n- **Débit montant médian** : Données non spécifiées, mais suffisant pour les usages courants.\n- **Latence** : Non spécifiée.\n- **Cohérence réseau** : Bonne couverture géographique, idéale pour les zones moins densément peuplées."
+    arcep_note: "Etisalat est un acteur majeur du marché égyptien, reconnu pour la qualité de son réseau dans les zones périurbaines et rurales. La NTRA supervise ses activités."
+    connect_note: "L'eSIM Etisalat de Roami s'active en un clin d'œil. Vous pouvez ainsi vous aventurer hors des sentiers battus tout en restant connecté."
+    user_scenarios: "- **En road trip vers le désert Blanc** : Utilisez votre téléphone comme point d'accès Wi-Fi pour partager la connexion avec vos compagnons de voyage.\n- **À Siwa (Oasis)** : Restez en contact avec vos proches et téléchargez des informations sur les attractions locales.\n- **Dans la région de Louxor (temples de Karnak)** : Téléchargez des audioguides et des cartes hors ligne, puis partagez vos photos en fin de journée."
+    bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Ägypten eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Ägypten eSIM and local 5G bands"
-cards_free_title: "Get your free Ägypten eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Égypte"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Égypte et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Égypte gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Ägypten eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Égypte"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Egypt"
-    content: "Egyptian operators use the following key bands: 4G LTE: Band 3 (1800 MHz), Band 7 (2600 MHz), Band 20 (800 MHz), Band 1 (2100 MHz). 5G: n78 (3500 MHz) is the primary band. Ensure your device supports these bands for optimal performance."
+  - heading: "1. Principales bandes 4G/5G en Égypte"
+    content: "Les opérateurs égyptiens (We, Orange, Etisalat) utilisent principalement les bandes 4G LTE suivantes : B3 (1800 MHz), B7 (2600 MHz), B20 (800 MHz) et B1 (2100 MHz). Pour la 5G, les bandes n78 (3500 MHz) et n28 (700 MHz) sont déployées. Assurez-vous que votre smartphone est compatible avec ces fréquences pour bénéficier de la meilleure couverture."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate an eSIM in Egypt, you must provide a valid passport copy and a recent photo. Some operators may require a local ID or visa. Roami simplifies this by pre‑verifying your documents during purchase."
+  - heading: "2. Exigence d'identification (KYC) pour les eSIM"
+    content: "En Égypte, l'achat d'une carte SIM (y compris eSIM) est soumis à une vérification d'identité (KYC). Vous devrez fournir une pièce d'identité valide (passeport) et parfois un justificatif de domicile. Avec Roami, ce processus est simplifié : votre identité est vérifiée lors de l'achat en ligne, et l'eSIM est activée immédiatement après validation."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most prepaid data plans have a Fair Usage Policy. After exceeding a certain threshold (e.g., 10 GB), speeds may be throttled to 128 kbps or lower. Check your plan details to avoid surprises."
+  - heading: "3. Politique d'utilisation équitable (FUP) et limites de données"
+    content: "La plupart des forfaits eSIM en Égypte incluent une politique d'utilisation équitable (FUP). Après avoir consommé un certain volume de données à haute vitesse (par exemple 1 Go par jour), le débit peut être réduit (à 128 kbps ou 256 kbps). Vérifiez les conditions de votre forfait Roami pour éviter les mauvaises surprises."
 
-  - heading: "4. Network coverage in remote areas"
-    content: "While We, Orange, and Etisalat cover major cities and tourist sites, remote desert areas (e.g., Siwa Oasis, White Desert) may have limited or no signal. Download offline maps before traveling."
+  - heading: "4. Couverture réseau : villes vs zones rurales"
+    content: "La couverture 4G/5G est excellente dans les grandes villes (Le Caire, Alexandrie, Louxor, Hurghada). En revanche, dans les zones rurales ou désertiques, le signal peut être plus faible. We offre la meilleure cohérence réseau (88,6% des échantillons ≥ 5 Mbps), ce qui en fait le choix le plus fiable pour les déplacements hors des centres urbains."
 
-  - heading: "5. eSIM compatibility and dual‑SIM usage"
-    content: "Roami eSIM works with iPhone XS and newer, Google Pixel 3 and newer, and most Android devices with eSIM support. You can keep your home SIM active for calls while using the eSIM for data."
+  - heading: "5. Itinérance et frais supplémentaires"
+    content: "Les eSIM Roami sont conçues pour éviter les frais d'itinérance. Vous achetez un forfait data local, et vous êtes connecté au réseau égyptien sans surcoût. Assurez-vous que l'itinérance des données est activée dans les paramètres de votre smartphone pour que l'eSIM fonctionne correctement."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Ägypten"
-city_guide_desc: "Find out which Ägypten eSIM is the best choice for your destination city based on network performance and coverage data from [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/egypt-speedtest-connectivity-report-h2-2024)."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Égypte"
+city_guide_desc: "Découvrez quelle eSIM Égypte est le meilleur choix pour votre ville de destination. Les performances réseau varient selon les zones urbaines et rurales. Nous nous appuyons sur les données Speedtest pour vous recommander l'opérateur le plus adapté."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
-  - city: "Luxor"
+  - city: "Louxor"
     carriers: "We"
-    reason: "Luxor recorded the fastest median mobile download speed in Egypt at 31.48 Mbps. We is the top performer, making it ideal for streaming and gaming while visiting the Valley of the Kings."
+    reason: "Louxor est la ville la plus performante d'Égypte avec un débit descendant médian de 31,48 Mbps. We, étant le réseau le plus rapide du pays, est le choix idéal pour profiter de cette vitesse de pointe, notamment pour le streaming et les téléchargements."
 
-  - city: "Cairo"
+  - city: "Le Caire"
     carriers: "Orange"
-    reason: "Cairo benefits from Orange’s strong urban coverage (26.59 Mbps median download). Perfect for navigating the bustling streets and staying connected in hotels and cafes."
+    reason: "La capitale offre une excellente couverture 4G/5G. Orange propose un très bon équilibre entre vitesse (26,59 Mbps) et fiabilité dans les zones densément peuplées. Idéal pour les déplacements professionnels et les visites touristiques."
 
-  - city: "Alexandria"
-    carriers: "Orange"
-    reason: "Alexandria has excellent Orange coverage along the coast. Enjoy reliable speeds for video calls and social media while exploring the Bibliotheca Alexandrina."
+  - city: "Alexandrie"
+    carriers: "We"
+    reason: "We domine également à Alexandrie, offrant des vitesses de téléchargement élevées et une faible latence. Parfait pour les nomades numériques qui souhaitent travailler depuis les cafés en bord de mer."
 
   - city: "Hurghada"
-    carriers: "We"
-    reason: "We’s high upload speed (9.00 Mbps) is great for sharing vacation photos and videos from the Red Sea resorts. Consistency is high at 88.6%."
-
-  - city: "Aswan"
     carriers: "Etisalat"
-    reason: "Etisalat offers a budget‑friendly option with decent speeds (22.67 Mbps) for checking emails and using maps during your Nile cruise."
+    reason: "Station balnéaire très fréquentée, Hurghada bénéficie d'une bonne couverture Etisalat. Cet opérateur est recommandé pour les zones touristiques côtières, offrant une connexion stable pour partager photos et vidéos."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Charm el-Cheikh"
+    carriers: "We"
+    reason: "We offre la meilleure expérience de streaming vidéo et de jeu mobile, ce qui est idéal pour les voyageurs qui souhaitent se détendre dans les stations balnéaires tout en restant connectés. La cohérence réseau de We (88,6%) garantit une connexion fiable."
+
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Ägypten eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Égypte selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Visit Cairo’s historic mosques and museums with We’s fast network. Stream guided tours and share updates instantly with 32.93 Mbps download speeds."
+    title: "Découvreur de villes"
+    text: "Explorez Le Caire, Louxor et Alexandrie avec une eSIM We ou Orange. Téléchargez des guides, utilisez Google Maps en temps réel et partagez vos découvertes sur les réseaux sociaux sans limite."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Explore the White Desert or Siwa Oasis. Download offline maps before you go, as remote areas may have limited coverage. Use Orange for better urban fringe connectivity."
+    title: "Amoureux de la nature"
+    text: "Partez en safari dans le désert Blanc ou visitez l'oasis de Siwa. Avec Etisalat, bénéficiez d'une couverture étendue même dans les zones reculées. Restez connecté pour la navigation et les appels d'urgence."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive from Cairo to Luxor along the Nile. We’s consistent network (88.6% reliability) ensures you stay connected for navigation and emergency calls."
+    title: "Roadtrippeur"
+    text: "Parcourez la route côtière entre Alexandrie et Marsa Matrouh, ou traversez le désert jusqu'à Louxor. We offre la meilleure cohérence réseau (88,6%), idéale pour un point d'accès Wi-Fi mobile et le partage de connexion."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on the beaches of Hurghada or Sharm El Sheikh. We’s high upload speed (9.00 Mbps) lets you share your vacation moments in real time."
+    title: "Vacancier à la plage"
+    text: "Profitez des plages de Hurghada ou de Charm el-Cheikh. Avec Orange ou We, regardez des films en streaming HD, écoutez de la musique et restez en contact avec vos proches sans souci de connexion."
 
-scene_guide_footer: "💡 The Roami Ägypten eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Égypte détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Ägypten eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Égypte"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Does the Ägypten eSIM support hotspot tethering to share data with other devices?"
-    a: "Yes, Roami’s Ägypten eSIM supports hotspot tethering. You can share your data connection with other devices like laptops or tablets. However, be mindful of your data plan limits and Fair Usage Policy, as excessive tethering may trigger throttling."
+  - q: "Dois-je activer l'itinérance des données dans les paramètres de mon smartphone pour que l'eSIM Égypte fonctionne ?"
+    a: "Oui, il est généralement nécessaire d'activer l'itinérance des données (Data Roaming) dans les paramètres de votre téléphone pour que l'eSIM puisse se connecter au réseau local égyptien. Cela ne génère pas de frais supplémentaires car vous utilisez un forfait data local. Sur iPhone, allez dans Réglages > Données cellulaires > Itinérance des données. Sur Android, allez dans Paramètres > Réseau et Internet > Itinérance. Assurez-vous également que l'eSIM est sélectionnée comme ligne de données principale."
 
-  - q: "My phone supports dual eSIM. Can I have two Ägypten eSIM profiles active at the same time?"
-    a: "Most dual‑eSIM phones allow only one eSIM profile active at a time for data. You can store multiple eSIM profiles on your device, but you must switch between them manually. Roami recommends activating only one eSIM for data to avoid conflicts."
+  - q: "Le système se connecte-t-il automatiquement au réseau local le plus puissant en Égypte sans configuration manuelle ?"
+    a: "Oui, une fois votre eSIM Roami activée, votre téléphone se connectera automatiquement au réseau partenaire le plus puissant disponible (We, Orange ou Etisalat). Vous n'avez pas besoin de sélectionner manuellement un opérateur. Cependant, si vous rencontrez des problèmes de connexion, vous pouvez forcer la sélection manuelle d'un réseau dans les paramètres de votre téléphone (Paramètres > Réseau mobile > Opérateurs)."
 
-  - q: "What average download and upload network speeds can I expect in Ägypten?"
-    a: "According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/egypt-speedtest-connectivity-report-h2-2024), the fastest operator We offers a median download speed of 32.93 Mbps and upload speed of 9.00 Mbps. Orange follows with 26.59 Mbps download, and Etisalat with 22.67 Mbps. Actual speeds may vary based on location, network congestion, and device capabilities."
+  - q: "La connexion en Égypte est-elle assez stable pour lire des vidéos HD sur des plateformes comme YouTube ou Netflix ?"
+    a: "Absolument. Selon les données Speedtest du second semestre 2024, We offre la meilleure expérience de streaming vidéo en Égypte, avec un débit descendant médian de 32,93 Mbps, largement suffisant pour la 4K. Orange (26,59 Mbps) et Etisalat (22,67 Mbps) permettent également un streaming HD sans mise en mémoire tampon. La latence de 51 ms de We garantit une expérience fluide."
 
-  - q: "When does the validity period and billing of my Ägypten eSIM data package start?"
-    a: "The validity period starts immediately upon activation (when you scan the QR code and connect to the network). Billing is based on the package you purchase. Roami offers flexible plans from 1 day to 30 days. Unused data does not roll over."
+  - q: "Est-il possible d'acheter plusieurs forfaits de données pour Égypte et de les activer l'un après l'autre ?"
+    a: "Oui, avec Roami, vous pouvez acheter plusieurs forfaits eSIM pour l'Égypte et les activer séquentiellement. Chaque forfait a une durée de validité spécifique (par exemple 7, 15 ou 30 jours). Une fois le premier forfait épuisé ou expiré, vous pouvez activer le suivant via l'application Roami ou en scannant un nouveau code QR. Cela vous permet de prolonger votre connexion sans interruption."
 
-  - q: "Does Roami offer 24/7 online customer support if I have connection issues in Ägypten?"
-    a: "Yes, Roami provides 24/7 online customer support via live chat and email. If you experience any connection issues, our team will assist you with troubleshooting, including APN settings and network selection."
+  - q: "Comment vérifier si mes destinations spécifiques en Égypte sont bien couvertes par les réseaux eSIM ?"
+    a: "Vous pouvez consulter les cartes de couverture officielles des opérateurs We, Orange et Etisalat sur leurs sites web. Roami fournit également des informations sur la couverture dans sa page produit. Pour une vérification rapide, utilisez l'outil de vérification de couverture sur le site de Roami en entrant votre destination. Les grandes villes et les sites touristiques majeurs (Pyramides, Louxor, Hurghada) sont très bien couverts par les trois opérateurs."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Ägypten eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Égypte"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "All eSIMs in Egypt have the same speed."
-    truth: "No, speeds vary significantly by operator. We leads with 32.93 Mbps median download, while Orange and Etisalat are slower. Always check the latest data from [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/egypt-speedtest-connectivity-report-h2-2024)."
+  - myth: "Tous les opérateurs égyptiens offrent la même vitesse."
+    truth: "Faux. Selon Speedtest (2H 2024), We est nettement plus rapide (32,93 Mbps) qu'Orange (26,59 Mbps) et Etisalat (22,67 Mbps). We offre également la meilleure cohérence réseau (88,6%)."
 
-  - myth: "eSIMs are only for high‑end smartphones."
-    truth: "eSIM technology is now available on many mid‑range Android phones and iPhones from XS onwards. Check your device <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing."
+  - myth: "La 5G est disponible partout en Égypte."
+    truth: "La 5G est en cours de déploiement dans les grandes villes (Le Caire, Alexandrie, Louxor), mais la couverture reste limitée. La 4G+ est encore le réseau dominant et offre des vitesses très satisfaisantes pour la plupart des usages."
 
-  - myth: "You need a local ID to activate an eSIM in Egypt."
-    truth: "Tourists can activate eSIMs with a valid passport. Roami handles the verification process, so you don’t need a local ID."
+  - myth: "Les eSIM sont moins fiables que les cartes SIM physiques."
+    truth: "Les eSIM sont tout aussi fiables, voire plus, car elles ne peuvent pas être perdues ou endommagées. L'activation est instantanée et vous pouvez basculer entre plusieurs forfaits sans changer de carte."
 
-  - myth: "5G is available everywhere in Egypt."
-    truth: "5G coverage is still limited to major cities like Cairo, Alexandria, and Luxor. In rural areas, 4G/LTE is the primary network. Check coverage maps before relying on 5G."
+  - myth: "Il est obligatoire d'acheter une carte SIM locale à l'aéroport."
+    truth: "Non. Avec Roami, vous pouvez acheter et activer une eSIM avant votre départ. Vous êtes connecté dès l'atterrissage, sans faire la queue dans les boutiques de l'aéroport."
 
-  - myth: "eSIM data plans are more expensive than physical SIMs."
-    truth: "Roami’s eSIM plans are competitively priced and often cheaper than international roaming. Plus, you save on physical SIM purchase costs and activation fees."
+  - myth: "Le réseau est très lent dans les zones touristiques comme les pyramides."
+    truth: "Au contraire, les sites touristiques majeurs bénéficient d'une excellente couverture. Louxor, par exemple, est la ville la plus rapide d'Égypte avec 31,48 Mbps. Les pyramides de Gizeh sont bien couvertes par les trois opérateurs."
 
 
 # Data sources
-data_sources_title: "Ägypten mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Égypte"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/egypt-speedtest-connectivity-report-h2-2024)"
-    description: "Ookla’s Speedtest Intelligence data for 2H 2024 provides median download/upload speeds, latency, and consistency scores for Egyptian operators We, Orange, and Etisalat."
+  - name: "Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/egypt-speedtest-connectivity-report-h2-2024)"
+    description: "Rapport Speedtest Intelligence® du second semestre 2024. We est classé comme le réseau mobile le plus rapide d'Égypte avec un Speed Score de 42,20, un débit descendant médian de 32,93 Mbps et une cohérence réseau de 88,6%."
 
   - name: "OpenSignal 2024"
-    description: "OpenSignal’s mobile network experience report for Egypt (2024) offers insights on 4G/5G availability, video experience, and coverage footprint."
+    description: "Rapport OpenSignal sur l'expérience mobile en Égypte (2024). Confirme la domination de We en termes de vitesse de téléchargement et d'expérience de streaming vidéo."
 
-  - name: "NTRA Egypt 2024"
-    description: "The National Telecom Regulatory Authority of Egypt publishes annual quality of service reports, confirming operator performance and spectrum allocations."
+  - name: "NTRA (National Telecom Regulatory Authority) 2024"
+    description: "L'autorité de régulation des télécommunications en Égypte publie des rapports trimestriels sur la qualité de service des opérateurs. Les données Speedtest sont cohérentes avec les mesures de la NTRA."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual user experience may vary."
-data_sources_note: "Network speeds and coverage can vary based on location, device, network congestion, and time of day. Always check the latest reports for real‑time conditions."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public (Speedtest Intelligence®, OpenSignal, NTRA). Les vitesses et la couverture peuvent varier en fonction de votre emplacement, de l'heure de la journée et de votre appareil."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de votre emplacement, de l'heure de la journée et de votre appareil. Les données présentées sont des médianes et ne garantissent pas une expérience individuelle."
 
 # CTA product card
-cta_title: "Secure your Ägypten eSIM today"
-cta_desc: "Get immediate access to Egypt’s fastest mobile network with Roami eSIM. Instant activation, no roaming fees, and 24/7 support."
-cta_button_text: "Buy Ägypten eSIM now"
+cta_title: "Obtenez votre eSIM Égypte dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat au réseau le plus rapide d'Égypte. Activation instantanée, pas de frais d'itinérance, et une couverture fiable dans tout le pays."
+cta_button_text: "Acheter l'eSIM Égypte maintenant"
 cta_button_link: "/egypt-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Ägypten trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Égypte gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Ägypten eSIM: Fully compatible with iPhone and Android
+# Égypte eSIM: Forfaits data flexibles de plusieurs jours
 
-> **💡 Short summary for travelers:** Worry-free global business travel: one eSIM for high‑speed networks across multiple countries. Roami’s Ägypten eSIM leverages the fastest mobile network in Egypt — We, which recorded a median download speed of 32.93 Mbps and a Speed Score of 42.20 according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/egypt-speedtest-connectivity-report-h2-2024). Whether you are in Luxor (top‑performing city with 31.48 Mbps) or Cairo, enjoy seamless connectivity with zero roaming fees. Roami eSIM is your reliable partner for instant activation and premium 5G coverage.
+> **💡 Résumé rapide pour les voyageurs :** Spécialement conçu pour les nomades numériques : solutions de données illimitées pour plusieurs pays. Selon les dernières données Speedtest (2H 2024), l'opérateur We domine le marché égyptien avec un débit descendant médian de 32,93 Mbps et un débit montant de 9,00 Mbps, offrant la meilleure expérience de jeu mobile et de streaming vidéo. Luxor est la ville la plus performante avec 31,48 Mbps en téléchargement. Avec Roami, vous bénéficiez d'une eSIM fiable qui se connecte automatiquement au meilleur réseau local (We, Orange ou Etisalat), sans frais d'itinérance et avec une activation instantanée. Idéal pour travailler, streamer ou explorer le pays en toute sérénité.
 
-## Things you need to know before buying a Ägypten eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Égypte
 
 
-### 1. Main 5G/4G frequency bands in Egypt {#1-main-5g4g-frequency-bands-in-egypt}
-Egyptian operators use the following key bands: 4G LTE: Band 3 (1800 MHz), Band 7 (2600 MHz), Band 20 (800 MHz), Band 1 (2100 MHz). 5G: n78 (3500 MHz) is the primary band. Ensure your device supports these bands for optimal performance.
+### 1. Principales bandes 4G/5G en Égypte {#1-principales-bandes-4g5g-en-égypte}
+Les opérateurs égyptiens (We, Orange, Etisalat) utilisent principalement les bandes 4G LTE suivantes : B3 (1800 MHz), B7 (2600 MHz), B20 (800 MHz) et B1 (2100 MHz). Pour la 5G, les bandes n78 (3500 MHz) et n28 (700 MHz) sont déployées. Assurez-vous que votre smartphone est compatible avec ces fréquences pour bénéficier de la meilleure couverture.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate an eSIM in Egypt, you must provide a valid passport copy and a recent photo. Some operators may require a local ID or visa. Roami simplifies this by pre‑verifying your documents during purchase.
+### 2. Exigence d'identification (KYC) pour les eSIM {#2-exigence-didentification-kyc-pour-les-esim}
+En Égypte, l'achat d'une carte SIM (y compris eSIM) est soumis à une vérification d'identité (KYC). Vous devrez fournir une pièce d'identité valide (passeport) et parfois un justificatif de domicile. Avec Roami, ce processus est simplifié : votre identité est vérifiée lors de l'achat en ligne, et l'eSIM est activée immédiatement après validation.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most prepaid data plans have a Fair Usage Policy. After exceeding a certain threshold (e.g., 10 GB), speeds may be throttled to 128 kbps or lower. Check your plan details to avoid surprises.
+### 3. Politique d'utilisation équitable (FUP) et limites de données {#3-politique-dutilisation-équitable-fup-et-limites-de-données}
+La plupart des forfaits eSIM en Égypte incluent une politique d'utilisation équitable (FUP). Après avoir consommé un certain volume de données à haute vitesse (par exemple 1 Go par jour), le débit peut être réduit (à 128 kbps ou 256 kbps). Vérifiez les conditions de votre forfait Roami pour éviter les mauvaises surprises.
 
-### 4. Network coverage in remote areas {#4-network-coverage-in-remote-areas}
-While We, Orange, and Etisalat cover major cities and tourist sites, remote desert areas (e.g., Siwa Oasis, White Desert) may have limited or no signal. Download offline maps before traveling.
+### 4. Couverture réseau : villes vs zones rurales {#4-couverture-réseau--villes-vs-zones-rurales}
+La couverture 4G/5G est excellente dans les grandes villes (Le Caire, Alexandrie, Louxor, Hurghada). En revanche, dans les zones rurales ou désertiques, le signal peut être plus faible. We offre la meilleure cohérence réseau (88,6% des échantillons ≥ 5 Mbps), ce qui en fait le choix le plus fiable pour les déplacements hors des centres urbains.
 
-### 5. eSIM compatibility and dual‑SIM usage {#5-esim-compatibility-and-dualsim-usage}
-Roami eSIM works with iPhone XS and newer, Google Pixel 3 and newer, and most Android devices with eSIM support. You can keep your home SIM active for calls while using the eSIM for data.
+### 5. Itinérance et frais supplémentaires {#5-itinérance-et-frais-supplémentaires}
+Les eSIM Roami sont conçues pour éviter les frais d'itinérance. Vous achetez un forfait data local, et vous êtes connecté au réseau égyptien sans surcoût. Assurez-vous que l'itinérance des données est activée dans les paramètres de votre smartphone pour que l'eSIM fonctionne correctement.

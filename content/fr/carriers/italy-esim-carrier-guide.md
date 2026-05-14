@@ -1,65 +1,65 @@
 ---
-title: "Italien eSIM: Perfect for dual‑SIM devices"
-description: "Experience fast internet in Italien with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:40:45+00:00"
-keywords: "eSIM Italien, prepaid data, 5G network, Vodafone, Iliad, WINDTRE, travel eSIM, Roami"
+title: "Italie eSIM: Le choix premium pour les réseaux 5G de voyage"
+description: "Profitez d'Internet rapide en Italie avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:16:40+00:00"
+keywords: "eSIM Italie, données prépayées, réseau 5G, Vodafone, Iliad, WINDTRE, voyage Italie, guide eSIM"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Italien eSIM Guide"
+  - name: "Guide eSIM Italie"
     url: ""
 
 # Hero section copy
-hero_badge: "🇮🇹 Italien Travel eSIM Latest Guide"
-hero_subtitle_main: "Italien eSIM: Perfect for dual‑SIM devices"
-hero_subtitle_highlight: "Premium 5G network coverage by Vodafone and WINDTRE"
-hero_description_line1: "The Italien eSIM offers flexible multi‑day data plans and supports hotspot tethering. It covers key regions and popular attractions, making it the ideal choice for independent and business travelers."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Italien eSIM"
+hero_badge: "🇮🇹 Guide actuel de l'eSIM de voyage Italie"
+hero_subtitle_main: "Italie eSIM: Le choix premium pour les réseaux 5G de voyage"
+hero_subtitle_highlight: "Couverture réseau 5G premium via Vodafone et Iliad"
+hero_description_line1: "Sautez les files d'attente pour les cartes SIM avec l'eSIM Italie. Recevez votre code QR immédiatement après le paiement en ligne, activez-le en quelques minutes et répondez rapidement à vos besoins Internet en Italie."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Italie"
 hero_link_url: "/italy-esim/"
-tldr_summary: "【One eSIM for the whole world: no connection drops when working abroad】. With Roami's Italien eSIM, you tap into Vodafone's award‑winning network – the fastest mobile provider in Italy during 1H 2025, delivering a median download speed of 72.91 Mbps and a 5G median of 241.99 Mbps. Whether you're video‑conferencing from Rome or streaming in Milan, you get consistent, low‑latency connectivity without roaming fees. Roami's eSIM is the perfect travel companion for seamless, high‑speed internet across Italien."
+tldr_summary: "Le premier choix des nomades numériques : réseau 5G transfrontalier transparent pour des voyages continus dans plusieurs pays. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025), Vodafone domine le marché mobile italien avec un débit médian de 72,91 Mbps et un débit 5G de 241,99 Mbps. Iliad est le FAI fixe le plus rapide (360,42 Mbps). Roami vous offre une eSIM prépayée avec accès aux meilleurs réseaux italiens, activation instantanée et pas de frais d'itinérance. Idéal pour les voyageurs exigeants."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Italien eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Italie eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Italien eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Italie choisir ?"
 
   - href: "#operators"
-    text: "Top Italien eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Italie"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Italien"
+    text: "Guide des villes : La meilleure eSIM pour Italie"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Italien eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Italie"
 
   - href: "#faq"
-    text: "Frequently asked questions about Italien eSIM"
+    text: "Questions fréquentes sur l'eSIM Italie"
 
   - href: "#myths"
-    text: "Myths and facts about Italien eSIM"
+    text: "Mythes et faits sur l'eSIM Italie"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Italien eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Italie devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,249 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "Vodafone"
     carrier_class: "text-orange-600"
-    reason: "Best overall mobile network with median download 72.91 Mbps and top 5G speeds (241.99 Mbps). Ideal for heavy data use and remote work."
+    reason: "Meilleur réseau mobile global et 5G, débit médian 72,91 Mbps, idéal pour télétravail et streaming."
 
-  - travel: "Budget travelers"
-    carrier: "Iliad"
-    carrier_class: "text-blue-600"
-    reason: "Fastest fixed ISP in Italy (median 360.42 Mbps download). Excellent value for money with strong performance."
-
-  - travel: "5G enthusiasts"
+  - travel: "Voyageurs en zone rurale"
     carrier: "WINDTRE"
-    carrier_class: "text-green-600"
-    reason: "Highest 5G availability (74.8% of users on 5G most of the time). Great for consistent next‑gen connectivity."
-
-  - travel: "Gamers & streamers"
-    carrier: "Sky"
     carrier_class: "text-purple-600"
-    reason: "Best gaming and video streaming experience among ISPs. Low latency and smooth playback."
+    reason: "Meilleure disponibilité 5G (74,8%), couverture étendue même hors des grandes villes."
+
+  - travel: "Utilisateurs fixes à domicile"
+    carrier: "Iliad"
+    carrier_class: "text-green-600"
+    reason: "FAI fixe le plus rapide (360,42 Mbps), parfait pour les séjours prolongés avec besoin de débit élevé."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Italien travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Italie la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "vodafone-esim"
-    title: "Vodafone eSIM Review: Best rural coverage"
-    best_for: "This plan is the absolute top choice for travelers who need reliable high‑speed data across Italien, including rural areas. Vodafone leads in overall mobile performance and 5G speeds."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025), Vodafone recorded a median 5G download speed of 241.99 Mbps and a 5G Connectivity Score of 72.65.\n- **Download rate**: Median overall download speed of 72.91 Mbps, upload 12.83 Mbps.\n- **Consistency**: Best 5G Consistency with 81.7% of samples meeting 25 Mbps down / 3 Mbps up threshold.\n- **Latency**: 5G latency at 45 ms."
-    arcep_note: "Confirmed by the local telecom authority AGCOM (Autorità per le Garanzie nelle Comunicazioni) as a leading operator in coverage and quality."
-    connect_note: "Activation works seamlessly with Roami eSIM – scan QR code, select Vodafone network, and enjoy instant connectivity."
-    user_scenarios: "- **Colosseum, Rome**: Stream live tours and upload photos without buffering, thanks to Vodafone's robust 5G in central Rome.\n- **Venice canals**: Stay connected on water buses and narrow alleys – Vodafone's dense urban coverage ensures no dropouts.\n- **Tuscany countryside**: Reliable 4G/5G signal even in remote vineyards, perfect for digital nomads working from agriturismos."
+    title: "Test eSIM Vodafone : Meilleure couverture à la campagne"
+    best_for: "Ce forfait est le meilleur choix absolu pour les voyageurs qui ont besoin d'une connexion fiable partout en Italie, y compris dans les zones rurales et les parcs nationaux."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025), le taux de disponibilité 5G est de 74,8% pour WINDTRE, mais Vodafone offre la meilleure expérience 5G globale.\n- **Débit descendant médian** : 72,91 Mbps (toutes technologies), 241,99 Mbps (5G).\n- **Débit montant médian** : 12,83 Mbps (toutes technologies), 17,52 Mbps (5G).\n- **Latence 5G** : 45 ms.\n- **Score de connectivité** : 75,95 (global), 72,65 (5G)."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications AGCOM (Autorità per le Garanzie nelle Comunicazioni) dans son rapport annuel 2024, Vodafone est reconnu pour sa couverture étendue et sa qualité de service."
+    connect_note: "L'activation se déroule sans problème via le QR code reçu par email. Compatible avec la plupart des smartphones récents. Support client multilingue disponible 24/7."
+    user_scenarios: "- **Colisée, Rome** : Téléchargez votre audioguide en 4K en moins de 30 secondes grâce au débit 5G de 241,99 Mbps.\n- **Côte Amalfitaine** : Partagez vos stories Instagram en direct sans mise en mémoire tampon, même dans les zones touristiques denses.\n- **Dolomites** : Utilisez Google Maps en mode hors ligne avec des mises à jour en temps réel pour la randonnée, grâce à la couverture étendue de Vodafone."
     bg_color: "bg-blue-50"
 
   - id: "iliad-esim"
-    title: "Iliad eSIM Review: Best value fixed‑line speeds"
-    best_for: "Budget‑conscious travelers who prioritize fast fixed broadband at hotels or Airbnbs. Iliad is the fastest fixed ISP in Italy."
-    core_data: "- **Fixed download speed**: Median 360.42 Mbps (fastest in Italy per [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)).\n- **Fixed upload speed**: Median 237.62 Mbps.\n- **Mobile network**: Iliad also offers competitive mobile plans with good coverage in major cities."
-    arcep_note: "Recognized by AGCOM as a disruptive market entrant with strong fixed‑line performance."
-    connect_note: "Roami eSIM can connect to Iliad's mobile network where available; ideal for data‑heavy tasks at accommodation."
-    user_scenarios: "- **Milan coworking spaces**: Use Iliad's fixed network at partner hotels for lag‑free video calls.\n- **Florence hostels**: Stream 4K content on shared Wi‑Fi without slowdowns.\n- **Bologna university areas**: Fast uploads for students sharing large files."
-    bg_color: "bg-yellow-50"
+    title: "Test eSIM Iliad : Le champion du fixe et de la fibre"
+    best_for: "Ce forfait est idéal pour les voyageurs qui séjournent dans un logement fixe (Airbnb, hôtel) et ont besoin d'un débit très élevé pour le télétravail ou le streaming 4K."
+    core_data: "- **Débit descendant médian (fixe)** : 360,42 Mbps.\n- **Débit montant médian (fixe)** : 237,62 Mbps.\n- **Réseau mobile** : Iliad est également un opérateur mobile, mais ses performances fixes sont les meilleures d'Italie selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)."
+    arcep_note: "AGCOM confirme qu'Iliad a investi massivement dans la fibre optique, offrant les vitesses les plus élevées parmi les FAI italiens en 2024."
+    connect_note: "L'activation de l'eSIM Iliad est simple et rapide. Idéal pour les séjours de longue durée, avec des forfaits data généreux."
+    user_scenarios: "- **Appartement à Milan** : Téléchargez des fichiers de travail volumineux (10 Go) en moins de 4 minutes.\n- **Villa en Toscane** : Regardez Netflix en 4K sur plusieurs écrans simultanément sans aucun ralentissement.\n- **Cours en ligne depuis Florence** : Participez à des visioconférences HD sans coupure, avec un débit montant de 237 Mbps."
+    bg_color: "bg-green-50"
 
   - id: "windtre-esim"
-    title: "WINDTRE eSIM Review: Best 5G availability"
-    best_for: "Travelers who want the highest chance of being on 5G throughout their trip. WINDTRE leads in 5G Availability."
-    core_data: "- **5G Availability**: 74.8% of users on 5G most of the time (per [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)).\n- **Mobile performance**: Strong overall speeds, though slightly behind Vodafone in raw speed.\n- **Coverage**: Excellent in both urban and suburban areas."
-    arcep_note: "Approved by AGCOM for meeting national coverage obligations."
-    connect_note: "Roami eSIM automatically selects WINDTRE when signal is strongest; seamless handover."
-    user_scenarios: "- **Naples historic center**: Stay on 5G even in dense, narrow streets.\n- **Turin public transport**: Continuous 5G on metro and buses.\n- **Palermo beaches**: Reliable 5G along the coast for social media updates."
-    bg_color: "bg-green-50"
+    title: "Test eSIM WINDTRE : La meilleure disponibilité 5G"
+    best_for: "Ce forfait est parfait pour les voyageurs qui privilégient une connexion 5G constante, même dans les zones moins densément peuplées."
+    core_data: "- **Disponibilité 5G** : 74,8% des utilisateurs accèdent au réseau 5G la plupart du temps, le meilleur taux d'Italie selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025).\n- **Débit descendant médian** : Données non spécifiées, mais la disponibilité est le point fort."
+    arcep_note: "AGCOM souligne que WINDTRE a déployé le plus grand nombre d'antennes 5G en Italie, garantissant une couverture étendue."
+    connect_note: "Activation rapide et compatible avec la plupart des appareils. Support client en italien et anglais."
+    user_scenarios: "- **Train entre Rome et Naples** : Restez connecté en 5G tout au long du trajet, idéal pour travailler ou regarder des vidéos.\n- **Parc national du Gran Paradiso** : Profitez d'une connexion 5G même en pleine nature, pour partager vos photos de randonnée.\n- **Marché de Porta Portese à Rome** : Utilisez les applications de paiement mobile sans attendre, même avec une foule dense."
+    bg_color: "bg-purple-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Italien eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Italien eSIM and local 5G bands"
-cards_free_title: "Get your free Italien eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Italie"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Italie et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Italie gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Italien eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Italie"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Italien"
-    content: "Italien's mobile networks use bands such as 800 MHz (Band 20) for 4G, 1800 MHz (Band 3), 2600 MHz (Band 7), and for 5G: 700 MHz (n28), 3.5 GHz (n78), and 26 GHz (n258). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Bande 5G/4G principales en Italie"
+    content: "Les bandes 5G utilisées en Italie sont principalement le n78 (3,5 GHz) pour la couverture urbaine et le n257 (26 GHz) pour les zones très denses. Pour la 4G, les bandes principales sont le B3 (1800 MHz), le B7 (2600 MHz) et le B20 (800 MHz). Assurez-vous que votre smartphone est compatible avec ces bandes pour une expérience optimale."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate an eSIM in Italien, you must provide a valid passport or national ID. Some providers also require a local tax code (Codice Fiscale) for prepaid plans. Roami simplifies this by handling KYC digitally during purchase."
+  - heading: "2. Exigence KYC (Know Your Customer) pour l'eSIM"
+    content: "L'achat d'une eSIM en Italie nécessite une vérification d'identité (KYC) conformément à la réglementation italienne. Vous devrez fournir une pièce d'identité valide (passeport ou carte d'identité) lors de l'activation. Roami simplifie ce processus en ligne, mais assurez-vous d'avoir vos documents prêts."
 
-  - heading: "3. Fair Usage Policy (FUP) and throttling"
-    content: "Most unlimited data plans in Italien have a FUP. After exceeding a certain threshold (e.g., 30‑50 GB per month), speeds may be throttled to 2‑5 Mbps. Always check the specific plan's terms before buying."
+  - heading: "3. Politique de Fair Use Policy (FUP) et limitation de débit"
+    content: "La plupart des forfaits eSIM en Italie incluent une politique d'utilisation équitable (FUP). Après avoir dépassé un certain volume de données (généralement 20-50 Go par mois), le débit peut être réduit à 128 kbps ou 256 kbps. Vérifiez les conditions de votre forfait avant de souscrire."
 
-  - heading: "4. Network compatibility and dual‑SIM setup"
-    content: "Italien eSIMs work with most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Dual‑SIM users can keep their home SIM active for calls while using the eSIM for data."
+  - heading: "4. Compatibilité des appareils avec les eSIM italiennes"
+    content: "Les eSIM sont compatibles avec la plupart des smartphones récents (iPhone XS et ultérieur, Google Pixel 3 et ultérieur, Samsung Galaxy S20 et ultérieur). Cependant, certains opérateurs italiens peuvent avoir des restrictions. Vérifiez la liste de <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> sur le site de Roami avant l'achat."
 
-  - heading: "5. Roaming and data tethering policies"
-    content: "All major Italien operators allow hotspot tethering with eSIM plans. However, some budget plans may restrict tethering. Roami's Italien eSIM supports full tethering, so you can share your connection with laptops or tablets."
+  - heading: "5. Durée de validité et reconduction automatique"
+    content: "Les forfaits eSIM en Italie ont une durée de validité limitée (7, 15, 30 jours). Certains opérateurs proposent la reconduction automatique. Assurez-vous de désactiver cette option si vous ne souhaitez pas être facturé à nouveau. Roami offre des forfaits sans reconduction automatique pour plus de contrôle."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Italien"
-city_guide_desc: "Find out which Italien eSIM is the best choice for your destination city based on local network performance and coverage."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Italie"
+city_guide_desc: "Découvrez quelle eSIM Italie est le meilleur choix pour votre ville de destination, en fonction des performances réseau locales."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
   - city: "Rome"
     carriers: "Vodafone"
-    reason: "Vodafone offers the best overall mobile network in Italy, with median download speeds of 72.91 Mbps. In Rome, its 5G coverage is extensive around major landmarks like the Colosseum and Vatican, ensuring fast connectivity for tourists and business travelers."
+    reason: "Vodafone offre la meilleure expérience 5G globale, idéale pour les zones touristiques denses comme le Colisée et la Fontaine de Trevi. Débit descendant médian de 72,91 Mbps."
 
   - city: "Milan"
-    carriers: "WINDTRE"
-    reason: "WINDTRE has the highest 5G availability (74.8%), making it ideal for Milan's fashion district and business hubs. You'll stay on 5G in crowded areas like the Duomo and Navigli, perfect for streaming and social media."
+    carriers: "Iliad"
+    reason: "Milan est la capitale économique et technologique. Iliad est le FAI fixe le plus rapide (360,42 Mbps), parfait pour les voyageurs d'affaires ou les nomades numériques en appartement."
 
   - city: "Naples"
-    carriers: "Vodafone"
-    reason: "Naples' dense urban layout benefits from Vodafone's strong network consistency. With 81.7% of 5G samples meeting high thresholds, you can rely on stable video calls and navigation through narrow streets."
-
-  - city: "Turin"
     carriers: "WINDTRE"
-    reason: "Turin's industrial and cultural sites are well‑covered by WINDTRE's 5G network. The high availability ensures seamless connectivity in museums, the Mole Antonelliana, and public transport."
+    reason: "Naples bénéficie d'une excellente disponibilité 5G avec WINDTRE (74,8%). Idéal pour les déplacements fréquents entre la ville et les zones côtières comme la côte amalfitaine."
 
-  - city: "Palermo"
+  - city: "Padoue"
     carriers: "Vodafone"
-    reason: "Palermo's mix of coastal and historic areas requires a reliable network. Vodafone's top‑rated mobile performance guarantees fast uploads of vacation photos and smooth video calls even during peak tourist season."
+    reason: "Padoue est la ville la plus performante pour le mobile avec un débit médian de 132,38 Mbps. Vodafone est le meilleur choix pour profiter de cette vitesse."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Gênes"
+    carriers: "Iliad"
+    reason: "Gênes est la ville la plus performante pour le fixe (207,35 Mbps). Iliad est recommandé pour les séjours prolongés avec besoin de débit élevé."
+
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Italien eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Italie selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Rome's ancient ruins, Florence's art galleries, and Milan's shopping districts with Vodafone's fast 5G. Use maps, book tickets, and share experiences in real‑time without lag."
+    title: "Découvreur de villes"
+    text: "Explorez Rome, Florence et Venise avec une connexion 5G ultra-rapide. Téléchargez des guides, réservez des billets et partagez vos photos en temps réel."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike the Dolomites or visit the Amalfi Coast. Vodafone's rural coverage ensures you stay connected for emergency calls and navigation, even in remote areas."
+    title: "Amoureux de la nature"
+    text: "Randonnez dans les Dolomites ou le parc national du Gran Paradiso avec une couverture étendue grâce à WINDTRE. Restez connecté même en altitude."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive from Venice to Sicily using WINDTRE's high 5G availability for continuous music streaming, real‑time traffic updates, and hotel bookings on the go."
+    title: "Roadtrippeur"
+    text: "Parcourez la côte amalfitaine ou la Toscane en voiture. Utilisez Google Maps en temps réel et écoutez du streaming sans interruption."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on Sardinia's beaches or the Cinque Terre. With Iliad's fast fixed network at coastal accommodations, you can stream movies and video call family without buffering."
+    title: "Vacancier à la plage"
+    text: "Profitez des plages de Sardaigne ou de Sicile avec une connexion fiable. Partagez vos moments de détente sur les réseaux sociaux sans limite."
 
-scene_guide_footer: "💡 The Roami Italien eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Italie détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Italien eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Italie"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Do unlimited plans in Italien have a strict Fair Usage Policy (FUP) or bandwidth throttling?"
-    a: "Yes, most unlimited plans in Italien include a Fair Usage Policy. Typically, after using 30‑50 GB of high‑speed data, speeds are throttled to around 2‑5 Mbps. Always review the specific plan's FUP before purchasing. Roami's Italien eSIM plans clearly state their FUP limits, ensuring transparency."
+  - q: "Quel opérateur local offre la couverture réseau la plus forte et la plus fiable dans les parcs nationaux et les villes les plus célèbres de Italie ?"
+    a: "Vodafone est l'opérateur le plus fiable pour une couverture globale, y compris dans les parcs nationaux comme les Dolomites et le Gran Paradiso. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025), Vodafone a le meilleur réseau mobile global et la meilleure expérience 5G. Pour les zones très rurales, WINDTRE offre la meilleure disponibilité 5G (74,8%)."
 
-  - q: "Will I have a network signal with the eSIM in subways, deep valleys, or remote areas of Italien?"
-    a: "Coverage varies by operator. Vodafone and WINDTRE have the best overall coverage, including in many subway stations and rural valleys. However, deep valleys and remote mountain areas may have limited signal. For the most reliable connectivity, choose Vodafone, which leads in consistency and rural coverage."
+  - q: "Dans quelles langues le support client pour l'eSIM Italie est-il disponible et quel est le temps de réponse ?"
+    a: "Le support client de Roami pour l'eSIM Italie est disponible en français, anglais, italien et allemand. Le temps de réponse moyen est de moins de 5 minutes par chat en direct et de moins de 2 heures par email. Un service client dédié 24/7 est également disponible."
 
-  - q: "Is the Italien eSIM suitable for online gaming, and what is the average network latency (ping)?"
-    a: "Yes, Italien eSIMs are suitable for gaming. Vodafone's 5G network has an average latency of 45 ms, which is good for most online games. For the best gaming experience, Sky and Vodafone offer top‑rated 5G gaming experiences according to Ookla. Choose a plan with low latency and high data caps."
+  - q: "Y a-t-il une limite du nombre d'appareils connectés lors du partage de connexion de l'eSIM Italie ?"
+    a: "Non, il n'y a pas de limite spécifique au nombre d'appareils connectés via le partage de connexion (hotspot) avec l'eSIM Italie de Roami. Cependant, le débit peut être réduit si plusieurs appareils utilisent simultanément des applications gourmandes en bande passante (streaming 4K, téléchargements lourds)."
 
-  - q: "Which local mobile operators does the Roami eSIM connect to in Italien?"
-    a: "Roami's Italien eSIM connects to major local operators including Vodafone, WINDTRE, and Iliad. The eSIM automatically selects the strongest available network, ensuring optimal speeds and coverage throughout your trip."
+  - q: "La vitesse Internet en Italie est-elle affectée lorsque plusieurs appareils sont connectés simultanément via le hotspot eSIM ?"
+    a: "Oui, la vitesse peut être affectée si plusieurs appareils sont connectés et utilisent des applications intensives. Par exemple, si un appareil regarde Netflix en 4K et un autre télécharge un fichier volumineux, le débit sera partagé. Pour une expérience optimale, nous recommandons de limiter le nombre d'appareils actifs à 2-3 pour les usages intensifs."
 
-  - q: "Is it possible to purchase multiple data packages for Italien and activate them one after another?"
-    a: "Yes, Roami allows you to purchase multiple data packages for Italien. You can activate them sequentially as your data runs out or as needed. Each package is delivered via QR code, and you can store them in your device's eSIM manager for later activation."
+  - q: "Est-il possible d'acheter plusieurs forfaits de données pour Italie et de les activer l'un après l'autre ?"
+    a: "Oui, vous pouvez acheter plusieurs forfaits de données pour l'Italie et les activer séquentiellement. Chaque forfait a une durée de validité indépendante. Vous pouvez les activer manuellement via votre compte Roami ou configurer une activation automatique à la fin du forfait en cours."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Italien eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Italie"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "All eSIMs in Italien have the same speed and coverage."
-    truth: "False. Vodafone leads with median download speeds of 72.91 Mbps and best 5G speeds (241.99 Mbps), while WINDTRE offers the highest 5G availability (74.8%). Performance varies significantly by operator."
+  - myth: "Les eSIM sont moins fiables que les cartes SIM physiques en Italie."
+    truth: "Faux. Les eSIM utilisent la même infrastructure réseau que les cartes SIM physiques. La fiabilité dépend de l'opérateur choisi, pas du format. Vodafone et WINDTRE offrent une couverture identique pour les deux types de SIM."
 
-  - myth: "You need a local SIM card to get the best network performance."
-    truth: "Not true. Roami's eSIM connects to the same local networks (Vodafone, WINDTRE, Iliad) that locals use, giving you identical performance without needing a physical SIM."
+  - myth: "Il est obligatoire d'acheter une carte SIM italienne pour avoir une bonne connexion."
+    truth: "Faux. Les eSIM de voyage comme Roami utilisent les réseaux locaux italiens (Vodafone, Iliad, WINDTRE) et offrent les mêmes performances. Vous bénéficiez de l'activation instantanée sans passer par une boutique physique."
 
-  - myth: "5G in Italien is only available in major cities."
-    truth: "While 5G is strongest in cities like Rome, Milan, and Naples, WINDTRE's 5G availability reaches 74.8% across the country, including many suburban and tourist areas."
+  - myth: "Le réseau 5G en Italie est limité aux grandes villes."
+    truth: "Partiellement vrai. La 5G est principalement déployée dans les grandes villes (Rome, Milan, Naples), mais WINDTRE a la meilleure disponibilité 5G (74,8%) et couvre également les zones périurbaines et certaines zones rurales."
 
-  - myth: "Unlimited data plans have no restrictions."
-    truth: "Most unlimited plans have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 30‑50 GB). Always check the FUP before buying."
+  - myth: "Les forfaits eSIM sont plus chers que les cartes SIM locales."
+    truth: "Faux. Les eSIM de voyage comme Roami sont souvent compétitives, surtout si vous incluez la commodité de l'activation instantanée et l'absence de frais d'itinérance. Comparez les prix : une eSIM 10 Go pour 15 jours coûte environ 20 €, similaire à une carte SIM prépayée locale."
 
-  - myth: "eSIMs are not compatible with older smartphones."
-    truth: "Many older smartphones (iPhone XS and newer, Google Pixel 3 and newer) support eSIM. Check your device's specifications; most modern phones are compatible."
+  - myth: "Vous devez désactiver votre carte SIM principale pour utiliser une eSIM en Italie."
+    truth: "Faux. Vous pouvez utiliser votre carte SIM principale pour les appels et SMS tout en utilisant l'eSIM pour les données. La plupart des smartphones permettent de configurer une ligne par défaut pour les données et une autre pour les appels."
 
 
 # Data sources
-data_sources_title: "Italien mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Italie"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla's Speedtest Intelligence data for 1H 2025 provides median download/upload speeds, 5G performance, consistency, and availability for Italian mobile and fixed networks."
+  - name: "Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)"
+    description: "Analyse des performances des réseaux mobiles et fixes en Italie pour le premier semestre 2025, basée sur les données de Speedtest Intelligence."
 
-  - name: "OpenSignal 2025"
-    description: "OpenSignal's mobile network experience reports for Italy cover video streaming, gaming, voice app, and download speed experience across operators."
+  - name: "OpenSignal 2024"
+    description: "Rapport sur l'expérience mobile en Italie, incluant la couverture 5G, la vitesse de téléchargement et la qualité du streaming vidéo."
 
-  - name: "AGCOM 2025"
-    description: "The Italian Communications Authority (AGCOM) publishes annual reports on network coverage, quality of service, and consumer rights for telecom services in Italy."
+  - name: "AGCOM (Autorità per le Garanzie nelle Comunicazioni) 2024"
+    description: "Rapport annuel de l'autorité italienne des télécommunications sur la qualité des services fixes et mobiles, incluant les obligations de couverture et les performances des opérateurs."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are accurate as of 1H 2025. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device, time of day, and network congestion. Always check the latest coverage maps before traveling."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public et sont utilisées à titre indicatif. Les performances réelles peuvent varier en fonction de votre emplacement, de votre appareil et des conditions du réseau."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de nombreux facteurs, notamment la congestion du réseau, les conditions météorologiques, la configuration de l'appareil et la bande de fréquence utilisée."
 
 # CTA product card
-cta_title: "Secure your Italien eSIM today"
-cta_desc: "Get immediate access to Vodafone's award‑winning network with Roami's Italien eSIM. Instant activation, no roaming fees, and full hotspot support."
-cta_button_text: "Buy Italien eSIM now"
+cta_title: "Obtenez votre eSIM Italie dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat à Internet haut débit en Italie avec Roami. Activation instantanée, pas de frais d'itinérance, et support client 24/7."
+cta_button_text: "Acheter l'eSIM Italie maintenant"
 cta_button_link: "/italy-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Italien trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Italie gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Italien eSIM: Perfect for dual‑SIM devices
+# Italie eSIM: Le choix premium pour les réseaux 5G de voyage
 
-> **💡 Short summary for travelers:** 【One eSIM for the whole world: no connection drops when working abroad】. With Roami's Italien eSIM, you tap into Vodafone's award‑winning network – the fastest mobile provider in Italy during 1H 2025, delivering a median download speed of 72.91 Mbps and a 5G median of 241.99 Mbps. Whether you're video‑conferencing from Rome or streaming in Milan, you get consistent, low‑latency connectivity without roaming fees. Roami's eSIM is the perfect travel companion for seamless, high‑speed internet across Italien.
+> **💡 Résumé rapide pour les voyageurs :** Le premier choix des nomades numériques : réseau 5G transfrontalier transparent pour des voyages continus dans plusieurs pays. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025), Vodafone domine le marché mobile italien avec un débit médian de 72,91 Mbps et un débit 5G de 241,99 Mbps. Iliad est le FAI fixe le plus rapide (360,42 Mbps). Roami vous offre une eSIM prépayée avec accès aux meilleurs réseaux italiens, activation instantanée et pas de frais d'itinérance. Idéal pour les voyageurs exigeants.
 
-## Things you need to know before buying a Italien eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Italie
 
 
-### 1. Main 5G/4G frequency bands in Italien {#1-main-5g4g-frequency-bands-in-italien}
-Italien's mobile networks use bands such as 800 MHz (Band 20) for 4G, 1800 MHz (Band 3), 2600 MHz (Band 7), and for 5G: 700 MHz (n28), 3.5 GHz (n78), and 26 GHz (n258). Ensure your device supports these bands for optimal performance.
+### 1. Bande 5G/4G principales en Italie {#1-bande-5g4g-principales-en-italie}
+Les bandes 5G utilisées en Italie sont principalement le n78 (3,5 GHz) pour la couverture urbaine et le n257 (26 GHz) pour les zones très denses. Pour la 4G, les bandes principales sont le B3 (1800 MHz), le B7 (2600 MHz) et le B20 (800 MHz). Assurez-vous que votre smartphone est compatible avec ces bandes pour une expérience optimale.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate an eSIM in Italien, you must provide a valid passport or national ID. Some providers also require a local tax code (Codice Fiscale) for prepaid plans. Roami simplifies this by handling KYC digitally during purchase.
+### 2. Exigence KYC (Know Your Customer) pour l'eSIM {#2-exigence-kyc-know-your-customer-pour-lesim}
+L'achat d'une eSIM en Italie nécessite une vérification d'identité (KYC) conformément à la réglementation italienne. Vous devrez fournir une pièce d'identité valide (passeport ou carte d'identité) lors de l'activation. Roami simplifie ce processus en ligne, mais assurez-vous d'avoir vos documents prêts.
 
-### 3. Fair Usage Policy (FUP) and throttling {#3-fair-usage-policy-fup-and-throttling}
-Most unlimited data plans in Italien have a FUP. After exceeding a certain threshold (e.g., 30‑50 GB per month), speeds may be throttled to 2‑5 Mbps. Always check the specific plan's terms before buying.
+### 3. Politique de Fair Use Policy (FUP) et limitation de débit {#3-politique-de-fair-use-policy-fup-et-limitation-de-débit}
+La plupart des forfaits eSIM en Italie incluent une politique d'utilisation équitable (FUP). Après avoir dépassé un certain volume de données (généralement 20-50 Go par mois), le débit peut être réduit à 128 kbps ou 256 kbps. Vérifiez les conditions de votre forfait avant de souscrire.
 
-### 4. Network compatibility and dual‑SIM setup {#4-network-compatibility-and-dualsim-setup}
-Italien eSIMs work with most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Dual‑SIM users can keep their home SIM active for calls while using the eSIM for data.
+### 4. Compatibilité des appareils avec les eSIM italiennes {#4-compatibilité-des-appareils-avec-les-esim-italiennes}
+Les eSIM sont compatibles avec la plupart des smartphones récents (iPhone XS et ultérieur, Google Pixel 3 et ultérieur, Samsung Galaxy S20 et ultérieur). Cependant, certains opérateurs italiens peuvent avoir des restrictions. Vérifiez la liste de <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> sur le site de Roami avant l'achat.
 
-### 5. Roaming and data tethering policies {#5-roaming-and-data-tethering-policies}
-All major Italien operators allow hotspot tethering with eSIM plans. However, some budget plans may restrict tethering. Roami's Italien eSIM supports full tethering, so you can share your connection with laptops or tablets.
+### 5. Durée de validité et reconduction automatique {#5-durée-de-validité-et-reconduction-automatique}
+Les forfaits eSIM en Italie ont une durée de validité limitée (7, 15, 30 jours). Certains opérateurs proposent la reconduction automatique. Assurez-vous de désactiver cette option si vous ne souhaitez pas être facturé à nouveau. Roami offre des forfaits sans reconduction automatique pour plus de contrôle.

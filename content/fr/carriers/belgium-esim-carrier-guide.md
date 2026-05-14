@@ -1,65 +1,65 @@
 ---
-title: "Belgien eSIM: Perfect for dual‑SIM devices"
-description: "Experience fast internet in Belgien with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:38:45+00:00"
-keywords: "eSIM Belgien, prepaid data, 5G network, Proximus, Orange, Telenet, BASE, Roami eSIM"
+title: "Belgique eSIM: Le choix premium pour les réseaux 5G de voyage"
+description: "Profitez d'Internet rapide en Belgique avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:15:05+00:00"
+keywords: "eSIM Belgique, données prépayées, réseau 5G, Proximus, Orange, Telenet, BASE, Speedtest, voyage Belgique"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Belgien eSIM Guide"
+  - name: "Guide eSIM Belgique"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Belgien Travel eSIM Latest Guide"
-hero_subtitle_main: "Belgien eSIM: Perfect for dual‑SIM devices"
-hero_subtitle_highlight: "Premium 5G network coverage by Proximus, Orange, and Telenet/BASE"
-hero_description_line1: "The Belgien eSIM provides reliable data services for business travelers, ensuring smooth video conferencing, navigation, and social apps, boosting your travel efficiency."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Belgien eSIM"
+hero_badge: "🇧🇪 Guide actuel de l'eSIM de voyage Belgique"
+hero_subtitle_main: "Belgique eSIM: Le choix premium pour les réseaux 5G de voyage"
+hero_subtitle_highlight: "Couverture réseau 5G premium via Proximus, Orange et Telenet/BASE"
+hero_description_line1: "Avec une large gamme de forfaits, l'eSIM Belgique est parfaite pour les visiteurs de courte durée, les étudiants et les voyageurs d'affaires, permettant un accès facile aux données haut débit dans toute la Belgique."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Belgique"
 hero_link_url: "/belgium-esim/"
-tldr_summary: "Unlimited 5G data is more efficient when shared across multiple devices. With Roami's Belgien eSIM, you can connect your phone, tablet, and laptop simultaneously without worrying about data caps. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025), Proximus leads with a median download speed of 93.33 Mbps, while Orange offers the best 5G video experience. Roami's eSIM leverages these top networks to deliver seamless connectivity for travelers. Conclusion: Roami's Belgien eSIM is the smart choice for unlimited, high-speed data across all your devices."
+tldr_summary: "Changement de réseau transparent dans plusieurs pays : la nouvelle norme pour les nomades numériques en voyage. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025), Proximus est l'opérateur mobile le plus rapide en Belgique avec un débit médian de téléchargement de 93,33 Mbps, tandis qu'Orange domine la 5G avec 156,37 Mbps. Avec Roami et une eSIM Belgique, vous bénéficiez d'une connectivité premium sur ces réseaux, sans frais d'itinérance, idéal pour les voyageurs exigeants."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Belgien eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Belgique eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Belgien eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Belgique choisir ?"
 
   - href: "#operators"
-    text: "Top Belgien eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Belgique"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Belgien"
+    text: "Guide des villes : La meilleure eSIM pour Belgique"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Belgien eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Belgique"
 
   - href: "#faq"
-    text: "Frequently asked questions about Belgien eSIM"
+    text: "Questions fréquentes sur l'eSIM Belgique"
 
   - href: "#myths"
-    text: "Myths and facts about Belgien eSIM"
+    text: "Mythes et faits sur l'eSIM Belgique"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Belgien eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Belgique devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "Proximus"
-    carrier_class: "text-orange-600"
-    reason: "Fastest overall mobile network with median download 93.33 Mbps and upload 12.38 Mbps. Best for heavy data users and video conferencing."
+    carrier_class: "text-blue-600"
+    reason: "Proximus offre le meilleur débit mobile global (93,33 Mbps en téléchargement) et la meilleure expérience de jeu 5G, idéal pour le travail à distance et les appels vidéo."
 
-  - travel: "Streaming enthusiasts"
+  - travel: "Streaming vidéo"
     carrier: "Orange"
     carrier_class: "text-orange-600"
-    reason: "Best 5G video experience (score 91.84) and fastest 5G download speed (156.37 Mbps). Ideal for streaming and gaming on the go."
+    reason: "Orange est le champion de la 5G (156,37 Mbps) et offre la meilleure expérience de streaming vidéo 5G (score 91,84), parfait pour Netflix et YouTube en déplacement."
 
-  - travel: "Budget travelers"
+  - travel: "Voyageurs fréquents"
     carrier: "Telenet/BASE"
-    carrier_class: "text-orange-600"
-    reason: "Highest 5G availability (19.6% of users on 5G most of the time) and competitive speeds (median download 80.54 Mbps). Good value for everyday use."
+    carrier_class: "text-green-600"
+    reason: "Telenet/BASE affiche la meilleure disponibilité 5G (19,6% du temps), garantissant une connexion stable dans les zones urbaines et périurbaines."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Belgien travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Belgique la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "proximus-esim"
-    title: "Proximus eSIM Review: Fastest overall network"
-    best_for: "This plan is the absolute top choice for users who need the fastest mobile internet across all technologies. Proximus leads with a median download speed of 93.33 Mbps and upload speed of 12.38 Mbps, making it perfect for video calls, large file transfers, and seamless browsing."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025), Proximus recorded a median 5G download speed of 135.78 Mbps.\n- **Download rate**: Median download speed of 93.33 Mbps (all technologies).\n- **Upload rate**: Median upload speed of 12.38 Mbps.\n- **Latency**: Lowest latency at 38 ms.\n- **5G Consistency**: Best 5G consistency with 79.9% of samples meeting 25 Mbps download and 3 Mbps upload threshold."
-    arcep_note: "Confirmed by the local telecom authority (BIPT) as a leading operator in speed and reliability."
-    connect_note: "Activation works seamlessly with Roami eSIM; simply scan the QR code and select Proximus network for optimal performance."
-    user_scenarios: "- **Antwerp Central Station**: With Proximus's low latency (38 ms), you can navigate real-time train schedules and stream maps without lag.\n- **Brussels Atomium**: Upload photos and videos instantly thanks to 12.38 Mbps upload speed.\n- **Ghent Gravensteen Castle**: Enjoy buffer-free video calls with friends and family using the fastest overall network."
+    title: "Test eSIM Proximus : Meilleure performance globale"
+    best_for: "Ce forfait est le meilleur choix absolu pour les utilisateurs exigeants qui ont besoin de débits élevés constants, que ce soit pour le travail, les jeux en ligne ou le streaming en 4K."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025), Proximus n'a pas remporté la meilleure disponibilité 5G, mais il offre la meilleure cohérence 5G avec 79,9% des échantillons atteignant au moins 25 Mbps en téléchargement et 3 Mbps en upload.\n- **Débit descendant médian** : 93,33 Mbps (toutes technologies confondues), 135,78 Mbps (5G).\n- **Débit montant médian** : 12,38 Mbps (toutes technologies), 14,44 Mbps (5G).\n- **Latence** : 38 ms (toutes technologies), 39 ms (5G)."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (IBPT) et les données Speedtest Intelligence® pour le premier semestre 2025."
+    connect_note: "L'activation se déroule sans problème via un QR code. La configuration APN est automatique sur la plupart des smartphones récents."
+    user_scenarios: "- **Gare de Bruxelles-Midi** : Téléchargez vos billets de train en quelques secondes, même aux heures de pointe, grâce au débit élevé de Proximus.\n- **Campus universitaire de Louvain** : Participez à des cours en visioconférence sans lag, avec une latence de seulement 38 ms.\n- **Parc du Cinquantenaire** : Partagez vos photos et vidéos en direct sur les réseaux sociaux sans mise en mémoire tampon."
     bg_color: "bg-blue-50"
 
   - id: "orange-esim"
-    title: "Orange eSIM Review: Best 5G video and gaming experience"
-    best_for: "This plan is the absolute top choice for users who prioritize 5G performance, especially for video streaming and gaming. Orange offers the best 5G video experience (score 91.84) and fastest 5G download speed (156.37 Mbps)."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025), Orange led 5G with a Speed Score of 48.39.\n- **Download rate**: Median 5G download speed of 156.37 Mbps.\n- **Upload rate**: Median 5G upload speed of 14.44 Mbps.\n- **Latency**: 5G latency of 39 ms.\n- **5G Video Experience**: Best 5G video streaming score of 91.84."
-    arcep_note: "Confirmed by the local telecom authority (BIPT) as a top performer in 5G video and gaming."
-    connect_note: "Activation works seamlessly with Roami eSIM; choose Orange network for the best 5G streaming and gaming experience."
-    user_scenarios: "- **Antwerp Zoo**: Stream live animal cams in 4K without buffering using Orange's 156.37 Mbps 5G download.\n- **Brussels Grand Place**: Share high-resolution videos of the architecture instantly with 14.44 Mbps upload.\n- **Liège Guillemins Station**: Play online games with low latency (39 ms) while waiting for your train."
+    title: "Test eSIM Orange : Roi de la 5G et du streaming"
+    best_for: "Ce forfait est le meilleur choix pour les amateurs de streaming vidéo et de jeux mobiles, grâce à ses performances 5G inégalées."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025), Orange est le fournisseur 5G le plus rapide avec un Speed Score de 48,39.\n- **Débit descendant médian** : 91,24 Mbps (toutes technologies), 156,37 Mbps (5G).\n- **Débit montant médian** : 14,44 Mbps (5G).\n- **Latence** : 39 ms (5G).\n- **Meilleure expérience de streaming vidéo 5G** : Score de 91,84."
+    arcep_note: "Données issues du rapport Speedtest Intelligence® d'Ookla pour le premier semestre 2025, confirmant la domination d'Orange sur la 5G."
+    connect_note: "L'activation est instantanée. Le réseau 5G d'Orange est particulièrement performant dans les grandes villes comme Bruxelles, Anvers et Liège."
+    user_scenarios: "- **Centre-ville d'Anvers** : Regardez des vidéos en streaming 4K sur le chemin du travail, sans aucune interruption.\n- **Stade Roi Baudouin** : Partagez des stories Instagram et des vidéos en direct pendant les matchs, avec un débit 5G ultra-rapide.\n- **Aéroport de Bruxelles-Zaventem** : Téléchargez des films et séries pour le vol en quelques secondes."
     bg_color: "bg-orange-50"
 
   - id: "telenet-base-esim"
-    title: "Telenet/BASE eSIM Review: Best 5G availability"
-    best_for: "This plan is the absolute top choice for users who want the most consistent 5G connection. Telenet/BASE has the highest 5G availability (19.6% of users on 5G most of the time), ensuring you stay connected in more places."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025), Telenet/BASE recorded the highest 5G availability at 19.6%.\n- **Download rate**: Median download speed of 80.54 Mbps (all technologies).\n- **Upload rate**: Median 5G upload speed of 14.44 Mbps.\n- **Latency**: 5G latency of 39 ms.\n- **Consistency**: No statistical difference in overall consistency, but strong 5G coverage."
-    arcep_note: "Confirmed by the local telecom authority (BIPT) as a reliable operator with extensive 5G coverage."
-    connect_note: "Activation works seamlessly with Roami eSIM; select Telenet/BASE for the best chance of staying on 5G throughout your trip."
-    user_scenarios: "- **Anderlecht City Center**: With the highest 5G availability, you can rely on fast data even in less central areas.\n- **Brussels Airport**: Stay connected on 5G while moving through terminals and boarding gates.\n- **Antwerp Port Area**: Enjoy consistent connectivity in industrial zones where other networks may drop to 4G."
+    title: "Test eSIM Telenet/BASE : Meilleure disponibilité 5G"
+    best_for: "Ce forfait est idéal pour les voyageurs qui privilégient une connexion 5G stable et disponible partout, plutôt que des vitesses de pointe."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025), Telenet/BASE enregistre la meilleure disponibilité 5G avec 19,6% de ses utilisateurs accédant au réseau 5G la plupart du temps.\n- **Débit descendant médian** : 80,54 Mbps (toutes technologies), 125,23 Mbps (5G).\n- **Débit montant médian** : Données non spécifiées, mais performances solides.\n- **Latence** : Compétitive, adaptée à une utilisation quotidienne."
+    arcep_note: "Rapport Speedtest Intelligence® d'Ookla pour le premier semestre 2025. Telenet/BASE excelle dans la couverture 5G étendue."
+    connect_note: "L'activation est simple et rapide. Le réseau Telenet/BASE est particulièrement fiable dans les zones périurbaines et le long des axes routiers."
+    user_scenarios: "- **Trajet en train entre Bruxelles et Gand** : Bénéficiez d'une connexion 5G stable tout au long du trajet, idéal pour travailler ou se divertir.\n- **Marché de Noël de Bruxelles** : Restez connecté même dans les zones très fréquentées, grâce à la large couverture 5G.\n- **Région des Ardennes** : Profitez d'une connexion fiable lors de vos escapades nature, là où d'autres opérateurs peinent."
     bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Belgien eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Belgien eSIM and local 5G bands"
-cards_free_title: "Get your free Belgien eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Belgique"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Belgique et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Belgique gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Belgien eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Belgique"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Belgien"
-    content: "Belgien's mobile networks use the following key bands: 4G LTE: Band 3 (1800 MHz), Band 7 (2600 MHz), Band 20 (800 MHz). 5G NR: n78 (3500 MHz) is the primary band for high-speed 5G, with n1 (2100 MHz) and n28 (700 MHz) for wider coverage. Ensure your device supports these bands for optimal performance."
+  - heading: "1. Bandes 5G/4G principales en Belgique"
+    content: "Les opérateurs belges utilisent principalement les bandes 5G suivantes : n78 (3,5 GHz) pour la 5G à haute vitesse, n1 (2100 MHz) et n3 (1800 MHz) pour la couverture étendue. Pour la 4G, les bandes principales sont le B20 (800 MHz) pour la couverture rurale, le B3 (1800 MHz) et le B7 (2600 MHz) pour les débits élevés. Assurez-vous que votre smartphone est compatible avec ces fréquences pour une expérience optimale."
 
-  - heading: "2. KYC requirements for eSIM purchase"
-    content: "To purchase and activate a Belgien eSIM, you typically need to provide a valid passport or national ID for identity verification (KYC). Some providers may also require a selfie or proof of address. Roami eSIM simplifies this process with quick online verification."
+  - heading: "2. Exigence d'identification (KYC) pour l'eSIM"
+    content: "En Belgique, l'achat d'une eSIM prépayée nécessite une vérification d'identité (KYC) conformément à la réglementation locale. Vous devrez fournir une pièce d'identité valide (passeport ou carte d'identité) et une preuve d'adresse pour les forfaits de plus de 30 jours. Les voyageurs de courte durée peuvent généralement activer une eSIM avec une simple vérification par email."
 
-  - heading: "3. Fair Usage Policy (FUP) for unlimited data plans"
-    content: "Most unlimited data plans in Belgien have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 20-50 GB per month). Check the specific plan details to avoid unexpected slowdowns. Roami eSIM offers transparent FUP limits."
+  - heading: "3. Politique d'utilisation équitable (FUP) et limitation de débit"
+    content: "La plupart des forfaits eSIM en Belgique incluent une politique d'utilisation équitable (FUP). Après avoir dépassé un certain volume de données (généralement entre 20 et 50 Go par mois), le débit peut être réduit à 128 kbps ou 256 kbps. Vérifiez les conditions de votre forfait pour éviter les mauvaises surprises, surtout si vous prévoyez un usage intensif."
 
-  - heading: "4. Network compatibility and dual-SIM setup"
-    content: "Belgien eSIMs work with most modern smartphones (iPhone XS and later, Google Pixel 3 and later, Samsung Galaxy S20 and later). For dual-SIM users, you can keep your home SIM active for calls while using the eSIM for data. Ensure your device is unlocked."
+  - heading: "4. Couverture réseau : villes vs zones rurales"
+    content: "Les réseaux 5G sont principalement déployés dans les grandes villes comme Bruxelles, Anvers, Gand, Liège et Charleroi. Dans les zones rurales (Ardennes, Luxembourg), la couverture 5G peut être limitée et vous basculerez automatiquement sur la 4G. Proximus offre la meilleure couverture rurale grâce à ses bandes basses fréquences (800 MHz)."
 
-  - heading: "5. Roaming and data speeds within Belgien"
-    content: "Local eSIMs provide native network access without roaming fees. Speeds vary by operator: Proximus offers the fastest overall (93.33 Mbps download), Orange leads in 5G (156.37 Mbps download), and Telenet/BASE has the best 5G availability (19.6%). Choose based on your priority."
+  - heading: "5. Itinérance et utilisation transfrontalière"
+    content: "Les eSIM belges permettent généralement une utilisation dans les pays de l'UE/EEE sans frais supplémentaires, conformément à la réglementation 'Roam Like at Home'. Cependant, les débits peuvent être réduits après une certaine période d'utilisation à l'étranger. Pour les voyages hors UE, vérifiez les options d'itinérance incluses dans votre forfait."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Belgien"
-city_guide_desc: "Find out which Belgien eSIM is the best choice for your destination city based on local network performance and coverage."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Belgique"
+city_guide_desc: "Découvrez quelle eSIM Belgique est le meilleur choix pour votre ville de destination, en fonction des performances réseau locales."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
-  - city: "Antwerp"
+  - city: "Anvers"
     carriers: "Proximus"
-    reason: "Antwerp recorded the fastest median mobile download speed in Belgien at 161.8 Mbps. Proximus's overall network leadership ensures you get the best speeds in this bustling port city."
+    reason: "Anvers est la ville la plus performante pour la 5G mobile avec un débit médian de 161,8 Mbps. Proximus y offre la meilleure expérience globale, idéal pour les professionnels et les créateurs de contenu."
 
   - city: "Anderlecht"
     carriers: "Orange"
-    reason: "Anderlecht has the fastest median fixed download speed (163.16 Mbps) and Orange offers the best 5G video experience. Ideal for streaming and high-speed data in this Brussels suburb."
+    reason: "Anderlecht enregistre le meilleur débit fixe médian (163,16 Mbps). Pour une eSIM mobile, Orange est recommandé pour sa couverture 5G étendue et ses performances de streaming vidéo."
 
-  - city: "Brussels"
+  - city: "Bruxelles"
     carriers: "Telenet/BASE"
-    reason: "Brussels is a major hub with high data demand. Telenet/BASE's highest 5G availability (19.6%) ensures you stay on 5G in crowded areas like the Grand Place and EU district."
+    reason: "Bruxelles bénéficie d'une excellente disponibilité 5G avec Telenet/BASE (19,6% de disponibilité). Idéal pour les voyageurs qui se déplacent fréquemment dans la capitale et ses environs."
 
-  - city: "Ghent"
+  - city: "Gand"
     carriers: "Proximus"
-    reason: "Ghent's historic center attracts many tourists. Proximus's low latency (38 ms) and fast upload speeds (12.38 Mbps) are perfect for sharing photos and navigating cobblestone streets."
+    reason: "Gand est un hub étudiant et technologique. Proximus offre la meilleure latence (38 ms) et des débits constants, parfaits pour le télétravail et les jeux en ligne."
 
   - city: "Liège"
     carriers: "Orange"
-    reason: "Liège is a key transport hub. Orange's 5G download speed of 156.37 Mbps ensures fast connectivity at Liège-Guillemins station and throughout the city."
+    reason: "Liège est une ville dynamique avec une forte demande de streaming. Orange, avec son score de streaming vidéo 5G de 91,84, est le choix idéal pour les amateurs de divertissement."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Belgien eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Belgique selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Brussels, Antwerp, and Ghent with confidence. Use Proximus's fast network for real-time navigation, museum apps, and instant photo uploads. Orange's 5G video experience enhances virtual tours and live streams."
+    title: "Découvreur de villes"
+    text: "Explorez Bruxelles, Anvers et Gand avec une eSIM Orange. Profitez de la 5G ultra-rapide pour naviguer, réserver des visites et partager vos découvertes en temps réel."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Visit the Ardennes or Hoge Kempen National Park. Telenet/BASE's high 5G availability keeps you connected in rural areas. Use offline maps and streaming for hiking trails and wildlife spotting."
+    title: "Amoureux de la nature"
+    text: "Partez en randonnée dans les Ardennes avec une eSIM Proximus. Bénéficiez de la meilleure couverture rurale et d'une latence faible pour utiliser les applications de navigation hors ligne."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive across Belgien from coast to border. Proximus's consistent speeds and low latency support GPS, music streaming, and hands-free calls. Orange's 5G ensures fast downloads for route updates."
+    title: "Roadtrippeur"
+    text: "Parcourez la Belgique en voiture avec une eSIM Telenet/BASE. Sa disponibilité 5G étendue vous garantit une connexion stable sur les autoroutes et dans les petites villes."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax at Ostend or Knokke-Heist beaches. Orange's best 5G video experience lets you stream movies and share beach moments instantly. Telenet/BASE's 5G availability ensures coverage even near the shore."
+    title: "Vacancier à la plage"
+    text: "Profitez des plages de la Côte belge (Ostende, Knokke) avec une eSIM Orange. La 5G vous permet de streamer de la musique et de partager vos moments de détente sans interruption."
 
-scene_guide_footer: "💡 The Roami Belgien eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Belgique détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Belgien eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Belgique"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Does the Belgien eSIM support dialing local numbers or receiving SMS messages?"
-    a: "Most Belgien eSIMs are data-only and do not support voice calls or SMS. However, you can use VoIP apps like WhatsApp, Skype, or FaceTime for calls and messages. Some providers offer plans with a local number, but these are less common for prepaid eSIMs. Roami eSIM focuses on high-speed data, perfect for app-based communication."
+  - q: "Comment vérifier si mes destinations spécifiques en Belgique sont bien couvertes par les réseaux eSIM ?"
+    a: "Pour vérifier la couverture, consultez les cartes de couverture officielles des opérateurs (Proximus, Orange, Telenet/BASE) disponibles sur leurs sites web. Vous pouvez également utiliser l'application Speedtest d'Ookla pour tester la qualité du réseau à votre arrivée. Les zones urbaines comme Bruxelles, Anvers et Gand bénéficient d'une excellente couverture 5G, tandis que les zones rurales peuvent être limitées à la 4G."
 
-  - q: "Is it possible to purchase multiple data packages for Belgien and activate them one after another?"
-    a: "Yes, many eSIM providers allow you to purchase multiple data packages and activate them sequentially. For example, you can buy a 7-day plan first, then add a 30-day plan later. Roami eSIM supports top-ups and multi-package management through its app, ensuring you never run out of data during extended stays."
+  - q: "L'eSIM bascule-t-elle automatiquement vers le meilleur réseau lors d'un voyage transfrontalier ou n'est-elle valable que pour Belgique ?"
+    a: "Les eSIM belges sont généralement valables dans toute l'Union européenne grâce à la réglementation 'Roam Like at Home'. Votre eSIM basculera automatiquement vers les réseaux partenaires locaux lorsque vous traverserez une frontière. Par exemple, en France, vous serez connecté à Orange France ou SFR, et aux Pays-Bas à KPN ou Vodafone. Vérifiez les conditions de votre forfait pour connaître les limites éventuelles."
 
-  - q: "Can I manually select a different local network operator in Belgien if the current signal is weak?"
-    a: "Yes, most eSIMs allow manual network selection. On your device, go to Settings > Cellular > Network Selection and turn off 'Automatic'. Then choose from available networks like Proximus, Orange, or Telenet/BASE. This is useful in areas where one operator has better coverage. Roami eSIM supports this feature for optimal connectivity."
+  - q: "Y a-t-il une limite du nombre d'appareils connectés lors du partage de connexion de l'eSIM Belgique ?"
+    a: "La plupart des forfaits eSIM Belgique autorisent le partage de connexion (hotspot) sans limite stricte du nombre d'appareils, mais des limitations de débit peuvent s'appliquer après un certain volume de données partagées. En pratique, vous pouvez connecter votre ordinateur portable, tablette et autres appareils simultanément. Pour un usage intensif, privilégiez un forfait avec une grande enveloppe de données."
 
-  - q: "Is identity verification (KYC) or passport registration required to purchase and use the Belgien eSIM?"
-    a: "Yes, due to local regulations, most Belgien eSIM providers require KYC verification. You will need to upload a clear photo of your passport or national ID, and sometimes a selfie. This process is usually quick and secure. Roami eSIM streamlines KYC with automated verification, so you can activate your eSIM within minutes."
+  - q: "Combien de temps après le paiement réussi faut-il pour recevoir le code QR de l'eSIM Belgique ?"
+    a: "Le code QR de votre eSIM Belgique est généralement envoyé instantanément après confirmation du paiement, sous 1 à 5 minutes. Dans de rares cas, cela peut prendre jusqu'à 30 minutes. Assurez-vous de fournir une adresse email valide et de vérifier vos spams. Si vous ne recevez pas le code dans l'heure, contactez le support client de Roami."
 
-  - q: "Is the Belgien eSIM suitable for online gaming, and what is the average network latency (ping)?"
-    a: "Yes, Belgien eSIMs are suitable for online gaming, especially on 5G networks. Proximus offers the lowest latency at 38 ms, while Orange's 5G latency is 39 ms. These values are excellent for real-time games like Fortnite, Call of Duty Mobile, and PUBG. For the best experience, choose a plan that prioritizes low latency, such as Proximus."
+  - q: "Que dois-je faire si mon eSIM Belgique ne trouve pas de réseau après une installation réussie ?"
+    a: "Si votre eSIM ne trouve pas de réseau, suivez ces étapes : 1) Vérifiez que les données mobiles et l'itinérance des données sont activées dans les paramètres. 2) Redémarrez votre téléphone. 3) Sélectionnez manuellement le réseau : Paramètres > Réseau mobile > Opérateurs > choisissez 'Proximus', 'Orange' ou 'Telenet/BASE'. 4) Vérifiez que votre téléphone est déverrouillé et compatible avec les bandes belges. 5) Contactez le support Roami pour une réinitialisation de l'eSIM."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Belgien eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Belgique"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "All eSIMs in Belgien offer the same speed and coverage."
-    truth: "Network performance varies significantly. Proximus leads with 93.33 Mbps median download, Orange excels in 5G video (score 91.84), and Telenet/BASE has the highest 5G availability (19.6%). Choose based on your needs."
+  - myth: "Tous les opérateurs belges offrent la même qualité de réseau 5G."
+    truth: "Faux. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025), Orange est le leader de la 5G avec un débit médian de 156,37 Mbps, tandis que Proximus est le plus rapide toutes technologies confondues (93,33 Mbps). Telenet/BASE se distingue par la meilleure disponibilité 5G (19,6%)."
 
-  - myth: "5G is available everywhere in Belgien."
-    truth: "5G coverage is still expanding. Telenet/BASE has the highest 5G availability at 19.6%, meaning most users are on 4G a majority of the time. Check coverage maps before relying solely on 5G."
+  - myth: "La 5G est disponible partout en Belgique."
+    truth: "Faux. La 5G est principalement déployée dans les grandes villes et le long des axes routiers. Dans les zones rurales comme les Ardennes, la couverture 5G est limitée et vous utiliserez principalement la 4G."
 
-  - myth: "Unlimited data plans have no restrictions."
-    truth: "Most unlimited plans have a Fair Usage Policy (FUP) that throttles speeds after a certain threshold (e.g., 20-50 GB). Always read the fine print to avoid surprises."
+  - myth: "Les eSIM sont moins fiables que les cartes SIM physiques."
+    truth: "Faux. Les eSIM sont tout aussi fiables, voire plus, car elles ne peuvent pas être perdues ou endommagées. Elles offrent une activation instantanée et la possibilité de changer de forfait sans changer de carte SIM."
 
-  - myth: "eSIMs are only for high-end smartphones."
-    truth: "eSIMs are supported on many mid-range and older devices, including iPhone XS, Google Pixel 3, and Samsung Galaxy S20. Check your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing."
+  - myth: "Il est obligatoire d'avoir un numéro de téléphone belge pour utiliser une eSIM en Belgique."
+    truth: "Faux. Les eSIM de voyage comme Roami sont conçues pour les données uniquement et ne nécessitent pas de numéro de téléphone local. Vous pouvez utiliser votre numéro habituel pour les appels via WhatsApp ou Skype."
 
-  - myth: "You need a local address to buy a Belgien eSIM."
-    truth: "No, eSIMs are available to international travelers without a local address. KYC verification requires a passport, not proof of residence. Roami eSIM is designed for tourists and business visitors."
+  - myth: "Les forfaits eSIM sont plus chers que les forfaits locaux."
+    truth: "Faux. Les eSIM de voyage offrent souvent des tarifs compétitifs, surtout pour les courts séjours. Elles évitent les frais d'itinérance élevés et les engagements à long terme, ce qui les rend plus économiques pour les voyageurs."
 
 
 # Data sources
-data_sources_title: "Belgien mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Belgique"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla's Speedtest Intelligence data for 1H 2025 provides median download/upload speeds, 5G performance, and consistency metrics for Proximus, Orange, and Telenet/BASE in Belgien."
+  - name: "Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025)"
+    description: "Analyse des performances des réseaux mobiles et fixes en Belgique pour le premier semestre 2025, basée sur Speedtest Intelligence®."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's mobile network experience report for Belgien covers video streaming, gaming, and voice app performance across major operators."
+    description: "Rapport sur l'expérience utilisateur des réseaux mobiles en Belgique, incluant la couverture, la vitesse et la fiabilité."
 
-  - name: "BIPT (Belgian Institute for Postal Services and Telecommunications) 2025"
-    description: "The national telecom regulator publishes annual reports on network coverage, spectrum allocation, and operator compliance in Belgien."
+  - name: "IBPT (Institut Belge des Services Postaux et des Télécommunications) 2025"
+    description: "Données réglementaires sur la couverture réseau, les fréquences attribuées et les obligations des opérateurs en Belgique."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports, including Ookla Speedtest Intelligence (1H 2025), OpenSignal, and BIPT. These sources provide reliable benchmarks for comparing operator performance."
-data_sources_note: "Network speeds and coverage can vary based on location, time of day, device capabilities, and network congestion. Always check the latest coverage maps and user reviews for real-world performance."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public, notamment Speedtest Intelligence® d'Ookla pour le premier semestre 2025."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de votre emplacement, de l'heure de la journée, de votre appareil et des conditions du réseau."
 
 # CTA product card
-cta_title: "Secure your Belgien eSIM today"
-cta_desc: "Get immediate access to high-speed 5G data on Belgien's top networks. No roaming fees, instant activation, and 24/7 support."
-cta_button_text: "Buy Belgien eSIM now"
+cta_title: "Obtenez votre eSIM Belgique dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat aux meilleurs réseaux belges (Proximus, Orange, Telenet/BASE) avec une eSIM Roami. Activation en 5 minutes, pas de frais d'itinérance, et des forfaits adaptés à tous les voyageurs."
+cta_button_text: "Acheter l'eSIM Belgique maintenant"
 cta_button_link: "/belgium-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Belgien trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Belgique gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Belgien eSIM: Perfect for dual‑SIM devices
+# Belgique eSIM: Le choix premium pour les réseaux 5G de voyage
 
-> **💡 Short summary for travelers:** Unlimited 5G data is more efficient when shared across multiple devices. With Roami's Belgien eSIM, you can connect your phone, tablet, and laptop simultaneously without worrying about data caps. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025), Proximus leads with a median download speed of 93.33 Mbps, while Orange offers the best 5G video experience. Roami's eSIM leverages these top networks to deliver seamless connectivity for travelers. Conclusion: Roami's Belgien eSIM is the smart choice for unlimited, high-speed data across all your devices.
+> **💡 Résumé rapide pour les voyageurs :** Changement de réseau transparent dans plusieurs pays : la nouvelle norme pour les nomades numériques en voyage. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025), Proximus est l'opérateur mobile le plus rapide en Belgique avec un débit médian de téléchargement de 93,33 Mbps, tandis qu'Orange domine la 5G avec 156,37 Mbps. Avec Roami et une eSIM Belgique, vous bénéficiez d'une connectivité premium sur ces réseaux, sans frais d'itinérance, idéal pour les voyageurs exigeants.
 
-## Things you need to know before buying a Belgien eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Belgique
 
 
-### 1. Main 5G/4G frequency bands in Belgien {#1-main-5g4g-frequency-bands-in-belgien}
-Belgien's mobile networks use the following key bands: 4G LTE: Band 3 (1800 MHz), Band 7 (2600 MHz), Band 20 (800 MHz). 5G NR: n78 (3500 MHz) is the primary band for high-speed 5G, with n1 (2100 MHz) and n28 (700 MHz) for wider coverage. Ensure your device supports these bands for optimal performance.
+### 1. Bandes 5G/4G principales en Belgique {#1-bandes-5g4g-principales-en-belgique}
+Les opérateurs belges utilisent principalement les bandes 5G suivantes : n78 (3,5 GHz) pour la 5G à haute vitesse, n1 (2100 MHz) et n3 (1800 MHz) pour la couverture étendue. Pour la 4G, les bandes principales sont le B20 (800 MHz) pour la couverture rurale, le B3 (1800 MHz) et le B7 (2600 MHz) pour les débits élevés. Assurez-vous que votre smartphone est compatible avec ces fréquences pour une expérience optimale.
 
-### 2. KYC requirements for eSIM purchase {#2-kyc-requirements-for-esim-purchase}
-To purchase and activate a Belgien eSIM, you typically need to provide a valid passport or national ID for identity verification (KYC). Some providers may also require a selfie or proof of address. Roami eSIM simplifies this process with quick online verification.
+### 2. Exigence d'identification (KYC) pour l'eSIM {#2-exigence-didentification-kyc-pour-lesim}
+En Belgique, l'achat d'une eSIM prépayée nécessite une vérification d'identité (KYC) conformément à la réglementation locale. Vous devrez fournir une pièce d'identité valide (passeport ou carte d'identité) et une preuve d'adresse pour les forfaits de plus de 30 jours. Les voyageurs de courte durée peuvent généralement activer une eSIM avec une simple vérification par email.
 
-### 3. Fair Usage Policy (FUP) for unlimited data plans {#3-fair-usage-policy-fup-for-unlimited-data-plans}
-Most unlimited data plans in Belgien have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 20-50 GB per month). Check the specific plan details to avoid unexpected slowdowns. Roami eSIM offers transparent FUP limits.
+### 3. Politique d'utilisation équitable (FUP) et limitation de débit {#3-politique-dutilisation-équitable-fup-et-limitation-de-débit}
+La plupart des forfaits eSIM en Belgique incluent une politique d'utilisation équitable (FUP). Après avoir dépassé un certain volume de données (généralement entre 20 et 50 Go par mois), le débit peut être réduit à 128 kbps ou 256 kbps. Vérifiez les conditions de votre forfait pour éviter les mauvaises surprises, surtout si vous prévoyez un usage intensif.
 
-### 4. Network compatibility and dual-SIM setup {#4-network-compatibility-and-dual-sim-setup}
-Belgien eSIMs work with most modern smartphones (iPhone XS and later, Google Pixel 3 and later, Samsung Galaxy S20 and later). For dual-SIM users, you can keep your home SIM active for calls while using the eSIM for data. Ensure your device is unlocked.
+### 4. Couverture réseau : villes vs zones rurales {#4-couverture-réseau--villes-vs-zones-rurales}
+Les réseaux 5G sont principalement déployés dans les grandes villes comme Bruxelles, Anvers, Gand, Liège et Charleroi. Dans les zones rurales (Ardennes, Luxembourg), la couverture 5G peut être limitée et vous basculerez automatiquement sur la 4G. Proximus offre la meilleure couverture rurale grâce à ses bandes basses fréquences (800 MHz).
 
-### 5. Roaming and data speeds within Belgien {#5-roaming-and-data-speeds-within-belgien}
-Local eSIMs provide native network access without roaming fees. Speeds vary by operator: Proximus offers the fastest overall (93.33 Mbps download), Orange leads in 5G (156.37 Mbps download), and Telenet/BASE has the best 5G availability (19.6%). Choose based on your priority.
+### 5. Itinérance et utilisation transfrontalière {#5-itinérance-et-utilisation-transfrontalière}
+Les eSIM belges permettent généralement une utilisation dans les pays de l'UE/EEE sans frais supplémentaires, conformément à la réglementation 'Roam Like at Home'. Cependant, les débits peuvent être réduits après une certaine période d'utilisation à l'étranger. Pour les voyages hors UE, vérifiez les options d'itinérance incluses dans votre forfait.

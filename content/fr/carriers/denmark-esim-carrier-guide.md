@@ -1,65 +1,65 @@
 ---
-title: "Dänemark eSIM: Solve your roaming problems effortlessly"
-description: "Experience fast internet in Dänemark with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:39:27+00:00"
-keywords: "eSIM Dänemark, prepaid data, 5G network, Telia, YouSee, Hiper, mobile internet Denmark"
+title: "Danemark eSIM: Entièrement compatible avec iPhone et Android"
+description: "Profitez d'Internet rapide au Danemark avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:15:30+00:00"
+keywords: "eSIM Danemark, données prépayées, réseau 5G, Telia, YouSee, Hiper, voyage d'affaires, itinérance"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Dänemark eSIM Guide"
+  - name: "Guide eSIM Danemark"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Dänemark Travel eSIM Latest Guide"
-hero_subtitle_main: "Dänemark eSIM: Solve your roaming problems effortlessly"
-hero_subtitle_highlight: "Premium 5G network coverage by Telia and YouSee"
-hero_description_line1: "The Dänemark eSIM provides reliable data services for business travelers, ensuring smooth video conferencing, navigation, and social apps, boosting your travel efficiency."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Dänemark eSIM"
+hero_badge: "🇩🇰 Guide actuel de l'eSIM de voyage Danemark"
+hero_subtitle_main: "Danemark eSIM: Entièrement compatible avec iPhone et Android"
+hero_subtitle_highlight: "Couverture réseau 5G premium via Telia, YouSee et Fibia"
+hero_description_line1: "Avec une large gamme de forfaits, l'eSIM Danemark est parfaite pour les visiteurs de courte durée, les étudiants et les voyageurs d'affaires, permettant un accès facile aux données haut débit dans toute la Danemark."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Danemark"
 hero_link_url: "/denmark-esim/"
-tldr_summary: "Worry-free global business travel: one eSIM for high-speed networks across multiple countries. Roami's Dänemark eSIM leverages Telia's leading 5G network, which achieved a median download speed of 286.6 Mbps in 1H 2025, ensuring seamless connectivity for professionals on the go. Whether you're in Copenhagen or Roskilde, enjoy reliable data without roaming fees."
+tldr_summary: "Voyages d'affaires mondiaux sans souci : une eSIM pour les réseaux haut débit dans plusieurs pays. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/denmark-speedtest-connectivity-report-h1-2025), Telia domine le marché mobile danois avec une vitesse de téléchargement 5G médiane de 286,6 Mbps, tandis que Hiper est le FAI fixe le plus rapide avec 341,1 Mbps. Roami vous offre une eSIM Danemark prépayée, activée instantanément, pour profiter de ces performances sans frais d'itinérance. Que vous soyez à Copenhague, Frederiksberg ou Roskilde, restez connecté en toute fiabilité."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Dänemark eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Danemark eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Dänemark eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Danemark choisir ?"
 
   - href: "#operators"
-    text: "Top Dänemark eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Danemark"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Dänemark"
+    text: "Guide des villes : La meilleure eSIM pour Danemark"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Dänemark eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Danemark"
 
   - href: "#faq"
-    text: "Frequently asked questions about Dänemark eSIM"
+    text: "Questions fréquentes sur l'eSIM Danemark"
 
   - href: "#myths"
-    text: "Myths and facts about Dänemark eSIM"
+    text: "Mythes et faits sur l'eSIM Danemark"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Dänemark eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Danemark devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/denmark-speedtest-connectivity-report-h1-2025)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/denmark-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "Telia"
     carrier_class: "text-orange-600"
-    reason: "Telia is the fastest mobile provider in Denmark with a median 5G download speed of 286.6 Mbps, ideal for heavy data users and remote work."
+    reason: "Telia est le réseau mobile le plus rapide au Danemark avec une vitesse 5G médiane de 286,6 Mbps en téléchargement et 29,93 Mbps en upload. Idéal pour le télétravail et les visioconférences."
 
-  - travel: "Gamers"
+  - travel: "Gamers mobiles"
     carrier: "YouSee"
     carrier_class: "text-blue-600"
-    reason: "YouSee offers the best mobile gaming experience in Denmark, ensuring low latency and smooth gameplay."
+    reason: "YouSee offre la meilleure expérience de jeu mobile au Danemark, avec une latence faible et une stabilité optimale pour les jeux en ligne."
 
-  - travel: "Fixed internet users"
-    carrier: "Hiper"
+  - travel: "Voyageurs en déplacement"
+    carrier: "Fibia"
     carrier_class: "text-green-600"
-    reason: "Hiper is the fastest fixed ISP with a median download speed of 341.1 Mbps, perfect for home or office use."
+    reason: "Fibia est le meilleur FAI pour l'expérience de jeu fixe, parfait pour les voyageurs qui ont besoin d'une connexion résidentielle fiable."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Dänemark travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Danemark la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "telia-esim"
-    title: "Telia eSIM Review: Best 5G speeds"
-    best_for: "This plan is the absolute top choice for users who need the fastest mobile internet, especially for streaming, video calls, and large file transfers."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/denmark-speedtest-connectivity-report-h1-2025), Telia recorded a median 5G download speed of 286.6 Mbps and upload speed of 29.93 Mbps in 1H 2025.\n- **Download rate**: Median mobile download speed across all technologies was the highest among providers.\n- **Consistency**: No statistical difference in consistency between providers."
-    arcep_note: "Confirmed by the local telecom authority, Telia leads in speed metrics."
-    connect_note: "Activation works seamlessly via QR code; compatible with most eSIM devices."
-    user_scenarios: "- **Copenhagen Business District**: Attend virtual meetings with crystal-clear video.\n- **Roskilde Festival**: Stream live performances without buffering.\n- **Frederiksberg**: Enjoy the fastest mobile download speeds in the city (294.29 Mbps)."
+    title: "Test eSIM Telia : Meilleure couverture 5G au Danemark"
+    best_for: "Ce forfait est le meilleur choix absolu pour les voyageurs d'affaires et les nomades numériques exigeant des vitesses 5G ultra-rapides."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/denmark-speedtest-connectivity-report-h1-2025), Telia est le fournisseur mobile le plus rapide au Danemark, avec une vitesse de téléchargement 5G médiane de 286,6 Mbps.\n- **Débit descendant médian** : 286,6 Mbps (5G)\n- **Débit montant médian** : 29,93 Mbps (5G)\n- **Expérience de jeu** : YouSee est le meilleur pour le jeu mobile, mais Telia offre une excellente stabilité globale."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (Danish Energy Agency) : Telia détient des licences 5G sur les bandes 700 MHz, 3,5 GHz et 26 GHz."
+    connect_note: "L'activation se déroule sans problème via un QR code. Compatible avec tous les smartphones récents (iPhone XS et plus, Samsung Galaxy S20 et plus)."
+    user_scenarios: "- **Copenhague (Gare centrale)** : Téléchargez des fichiers volumineux en moins de 30 secondes grâce à la 5G Telia.\n- **Aéroport de Copenhague** : Streaming vidéo 4K sans aucune mise en mémoire tampon.\n- **Roskilde Festival** : Partagez vos moments en direct avec une latence minimale."
     bg_color: "bg-blue-50"
 
   - id: "yousee-esim"
-    title: "YouSee eSIM Review: Best gaming experience"
-    best_for: "This plan is ideal for mobile gamers and those who prioritize low latency and stable connections."
-    core_data: "- **Gaming experience**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/denmark-speedtest-connectivity-report-h1-2025), YouSee offered the best mobile gaming experience in Denmark during 1H 2025.\n- **Video streaming**: High video streaming scores ensure smooth playback.\n- **Coverage**: Strong urban and suburban coverage."
-    arcep_note: "Confirmed by the local telecom authority, YouSee excels in gaming metrics."
-    connect_note: "Activation works seamlessly via QR code; supports dual SIM functionality."
-    user_scenarios: "- **Aarhus University**: Play online games with friends on campus.\n- **Odense**: Stream movies during long train rides.\n- **Copenhagen Airport**: Stay entertained during layovers."
-    bg_color: "bg-green-50"
+    title: "Test eSIM YouSee : Meilleure expérience de jeu mobile"
+    best_for: "Ce forfait est le meilleur choix absolu pour les joueurs mobiles et les amateurs de streaming vidéo."
+    core_data: "- **Expérience de jeu mobile** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/denmark-speedtest-connectivity-report-h1-2025), YouSee offre la meilleure expérience de jeu mobile au Danemark.\n- **Score de streaming vidéo 5G** : 91,02 (excellent pour Netflix, YouTube, etc.)\n- **Débit descendant médian** : Non spécifié, mais performance de jeu supérieure."
+    arcep_note: "YouSee est un opérateur majeur au Danemark, régulé par l'Agence danoise de l'énergie. Il utilise les bandes 4G/5G standards."
+    connect_note: "Installation simple : scannez le QR code et activez les données mobiles. Aucune configuration manuelle requise."
+    user_scenarios: "- **Copenhague (Strøget)** : Jouez à des jeux en ligne sans décalage pendant vos achats.\n- **Odense (Centre-ville)** : Regardez des streams en direct avec une qualité HD constante.\n- **Aarhus (Université)** : Participez à des cours en ligne sans interruption."
+    bg_color: "bg-purple-50"
 
   - id: "hiper-esim"
-    title: "Hiper eSIM Review: Fastest fixed internet"
-    best_for: "This plan is perfect for users who need ultra-fast fixed broadband for home or office, with median download speeds of 341.1 Mbps."
-    core_data: "- **Download speed**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/denmark-speedtest-connectivity-report-h1-2025), Hiper recorded a median download speed of 341.1 Mbps and upload speed of 217.72 Mbps in 1H 2025.\n- **Gaming**: Fibia (Hiper's parent) recorded the best gaming experience among ISPs.\n- **Reliability**: Consistent performance across peak hours."
-    arcep_note: "Confirmed by the local telecom authority, Hiper leads fixed broadband speeds."
-    connect_note: "Activation works seamlessly via QR code; requires a compatible router for fixed use."
-    user_scenarios: "- **Roskilde**: Enjoy the fastest fixed download speeds in the city (301.07 Mbps).\n- **Copenhagen Home Office**: Work from home with zero lag.\n- **Aalborg**: Stream 4K content without interruptions."
-    bg_color: "bg-yellow-50"
+    title: "Test eSIM Hiper : FAI fixe le plus rapide"
+    best_for: "Ce forfait est le meilleur choix absolu pour les voyageurs ayant besoin d'une connexion fixe ultra-rapide (via box 4G/5G)."
+    core_data: "- **Débit descendant médian** : 341,1 Mbps (fixe)\n- **Débit montant médian** : 217,72 Mbps (fixe)\n- **Expérience de jeu FAI** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/denmark-speedtest-connectivity-report-h1-2025), Fibia est le meilleur FAI pour le jeu, mais Hiper est le plus rapide en débit."
+    arcep_note: "Hiper est un fournisseur d'accès Internet fixe, utilisant principalement la fibre optique. Il est régulé par l'Agence danoise de l'énergie."
+    connect_note: "Pour une eSIM mobile, Hiper n'est pas directement pertinent. Cependant, les voyageurs peuvent utiliser une box 4G/5G avec une carte SIM Hiper pour une connexion fixe temporaire."
+    user_scenarios: "- **Roskilde** : Téléchargez des fichiers de travail de plusieurs Go en quelques secondes.\n- **Frederiksberg** : Streaming 8K sans aucune latence.\n- **Aalborg** : Visioconférence professionnelle avec une qualité cristalline."
+    bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Dänemark eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Dänemark eSIM and local 5G bands"
-cards_free_title: "Get your free Dänemark eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Danemark"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Danemark et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Danemark gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Dänemark eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Danemark"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Denmark"
-    content: "Denmark's mobile networks operate on bands such as 800 MHz (4G), 1800 MHz (4G), 2600 MHz (4G/5G), and 3500 MHz (5G). Ensure your device supports these bands for optimal connectivity."
+  - heading: "1. Bandes 5G/4G principales au Danemark"
+    content: "Les opérateurs danois utilisent principalement les bandes 700 MHz (n28), 3,5 GHz (n78) et 26 GHz (n258) pour la 5G. Pour la 4G, les bandes 800 MHz (B20), 1800 MHz (B3) et 2600 MHz (B7) sont courantes. Assurez-vous que votre smartphone est compatible avec ces fréquences."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate an eSIM in Denmark, you typically need to provide a valid passport or national ID. Some providers may require a local address or proof of residence."
+  - heading: "2. Exigence d'identification (KYC) pour l'eSIM"
+    content: "Au Danemark, l'achat d'une eSIM prépayée nécessite une vérification d'identité (KYC). Vous devrez fournir une pièce d'identité valide (passeport ou carte d'identité) lors de l'activation. Roami simplifie ce processus en ligne."
 
-  - heading: "3. Fair Usage Policy (FUP) for data plans"
-    content: "Most prepaid eSIM plans have a Fair Usage Policy that limits high-speed data after a certain threshold (e.g., 20-50 GB per month). Exceeding this may result in throttled speeds."
+  - heading: "3. Politique de limitation de débit (FUP)"
+    content: "La plupart des forfaits eSIM au Danemark incluent une politique d'utilisation équitable (FUP). Après avoir dépassé un certain volume de données (ex: 2 Go par jour), la vitesse peut être réduite à 128 kbps ou 256 kbps. Vérifiez les conditions de votre forfait."
 
-  - heading: "4. Network coverage in rural areas"
-    content: "While urban areas have excellent 5G coverage, rural regions may rely on 4G. Telia and YouSee offer the best rural coverage based on Speedtest data."
+  - heading: "4. Couverture dans les zones rurales et les parcs nationaux"
+    content: "La couverture 5G est excellente dans les grandes villes (Copenhague, Aarhus, Odense). Dans les zones rurales et les parcs nationaux (ex: Parc national de Mols Bjerge), la 4G est prédominante. Telia et YouSee offrent la meilleure couverture rurale."
 
-  - heading: "5. eSIM compatibility with devices"
-    content: "Most modern smartphones (iPhone XS and later, Google Pixel 3 and later, Samsung Galaxy S20 and later) support eSIM. Check your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing."
+  - heading: "5. Itinérance et appels vocaux"
+    content: "Les eSIM de voyage Roami sont principalement destinées aux données. Les appels vocaux ne sont pas inclus. Utilisez des applications VoIP (WhatsApp, Skype) pour passer des appels. L'itinérance est automatiquement activée sur le réseau local."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Dänemark"
-city_guide_desc: "Find out which Dänemark eSIM is the best choice for your destination city based on real speed test data."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Danemark"
+city_guide_desc: "Découvrez quelle eSIM Danemark est le meilleur choix pour votre ville de destination, basé sur les performances réseau locales."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
-  - city: "Copenhagen"
+  - city: "Copenhague"
     carriers: "Telia"
-    reason: "Copenhagen benefits from Telia's fastest 5G network, with median download speeds of 286.6 Mbps. Ideal for business travelers and tourists."
-
-  - city: "Frederiksberg"
-    carriers: "Telia"
-    reason: "Frederiksberg recorded the fastest median mobile download speed of 294.29 Mbps among populous cities. Telia is the top choice for speed."
-
-  - city: "Roskilde"
-    carriers: "Hiper"
-    reason: "Roskilde has the fastest fixed download speed of 301.07 Mbps. Hiper is recommended for home or office use."
+    reason: "Capitale dynamique avec une couverture 5G dense. Telia offre les vitesses les plus élevées (286,6 Mbps en 5G), idéal pour les affaires et le tourisme."
 
   - city: "Aarhus"
     carriers: "YouSee"
-    reason: "Aarhus is a university city where YouSee's best gaming experience and stable connectivity are perfect for students and gamers."
+    reason: "Deuxième plus grande ville, YouSee excelle pour le jeu mobile et le streaming. Parfait pour les étudiants et les jeunes actifs."
 
   - city: "Odense"
-    carriers: "YouSee"
-    reason: "Odense offers strong YouSee coverage, ensuring smooth streaming and gaming for residents and visitors."
+    carriers: "Telia"
+    reason: "Ville natale de Hans Christian Andersen, Telia assure une connexion stable pour les visites touristiques et le télétravail."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Aalborg"
+    carriers: "Fibia"
+    reason: "Fibia est le meilleur FAI pour le jeu fixe, mais pour une eSIM mobile, Telia ou YouSee sont recommandés pour une couverture équilibrée."
+
+  - city: "Roskilde"
+    carriers: "Hiper"
+    reason: "Roskilde est la ville la plus rapide pour le fixe (301,07 Mbps). Pour mobile, Telia est le meilleur choix pour les festivaliers et les visiteurs."
+
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Dänemark eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Danemark selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Copenhagen's historic sites with reliable 5G from Telia. Navigate with Google Maps, share photos instantly, and stay connected."
+    title: "Découvreur de villes"
+    text: "Explorez Copenhague, Aarhus et Odense avec une eSIM Telia. Téléchargez des cartes, réservez des visites et partagez vos photos en temps réel avec des vitesses 5G allant jusqu'à 286 Mbps."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Visit the Danish countryside with YouSee's consistent coverage. Stream nature documentaries or share your hiking adventures without interruption."
+    title: "Amoureux de la nature"
+    text: "Randonnez dans les parcs nationaux danois (Mols Bjerge, Thy) avec une eSIM YouSee. La couverture 4G est fiable même dans les zones reculées, idéale pour le streaming et la navigation."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive from Roskilde to Aarhus with Hiper's fast fixed internet at your accommodation. Use mobile data from Telia for navigation and music streaming."
+    title: "Roadtrippeur"
+    text: "Parcourez le Danemark en voiture avec une eSIM Telia. Profitez d'une connexion ininterrompue sur les autoroutes et dans les petites villes, parfaite pour les GPS et les appels VoIP."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on the beaches of Skagen with Telia's 5G. Upload vacation photos, video call family, and enjoy seamless connectivity."
+    title: "Vacancier à la plage"
+    text: "Détendez-vous sur les plages de Skagen ou de Bornholm avec une eSIM Fibia. Streaming vidéo 4K sans mise en mémoire tampon, même en bord de mer."
 
-scene_guide_footer: "💡 The Roami Dänemark eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Danemark détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Dänemark eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Danemark"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "What steps should I take if the activation QR code for my Dänemark eSIM does not arrive by email?"
-    a: "First, check your spam or junk folder. If not found, contact Roami customer support via live chat or email. They will resend the QR code within minutes. Ensure you provided the correct email address during purchase."
+  - q: "Comment transférer mon profil eSIM Danemark actif vers un nouveau smartphone si je change de téléphone ?"
+    a: "Le transfert d'une eSIM active vers un nouveau smartphone n'est généralement pas possible directement. Vous devez désactiver le profil eSIM sur l'ancien téléphone (via les paramètres > données mobiles > supprimer le plan), puis scanner à nouveau le QR code fourni par Roami sur le nouveau téléphone. Si vous avez perdu le QR code, contactez le support Roami pour obtenir un nouveau code. Assurez-vous que votre nouveau téléphone est déverrouillé et compatible eSIM."
 
-  - q: "Do I need to enable data roaming in my smartphone settings for the Dänemark eSIM to work?"
-    a: "Yes, you must enable data roaming in your device settings for the eSIM to connect to local networks. Go to Settings > Cellular > Cellular Data Options and toggle on Data Roaming."
+  - q: "Quel opérateur local offre la couverture réseau la plus forte et la plus fiable dans les parcs nationaux et les villes les plus célèbres de Danemark ?"
+    a: "Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/denmark-speedtest-connectivity-report-h1-2025), Telia est le réseau mobile le plus rapide au Danemark, avec une excellente couverture 5G dans les grandes villes comme Copenhague, Aarhus et Odense. Pour les parcs nationaux (Mols Bjerge, Thy), YouSee offre une couverture 4G fiable. En zone rurale, Telia et YouSee sont les plus recommandés. Fibia est le meilleur FAI fixe, mais pour une eSIM mobile, privilégiez Telia pour une expérience globale optimale."
 
-  - q: "In which languages is customer service for the Dänemark eSIM available, and what is the response time?"
-    a: "Roami customer service is available in English, German, and Danish. Response time is typically under 5 minutes via live chat and within 1 hour via email."
+  - q: "Que dois-je faire si mon eSIM Danemark ne trouve pas de réseau après une installation réussie ?"
+    a: "1. Vérifiez que les données mobiles sont activées dans les paramètres. 2. Activez l'itinérance des données (même au Danemark, certains téléphones nécessitent cette option). 3. Redémarrez votre téléphone. 4. Sélectionnez manuellement le réseau : allez dans Paramètres > Réseau mobile > Opérateur > désactivez 'Sélection automatique' et choisissez 'Telia DK' ou 'YouSee DK'. 5. Si le problème persiste, contactez le support Roami pour vérifier que votre eSIM est bien activée."
 
-  - q: "Are there significant speed differences between the various regions and cities in Dänemark?"
-    a: "Yes, based on Speedtest data, Frederiksberg has the fastest mobile download speeds (294.29 Mbps), while Roskilde leads in fixed broadband (301.07 Mbps). Rural areas may experience slower speeds, but Telia and YouSee offer consistent coverage."
+  - q: "Dois-je activer l'itinérance des données dans les paramètres de mon smartphone pour que l'eSIM Danemark fonctionne ?"
+    a: "Oui, il est fortement recommandé d'activer l'itinérance des données pour votre eSIM Roami, même si vous êtes au Danemark. Cela permet à votre téléphone de se connecter aux réseaux partenaires locaux (Telia, YouSee, etc.) sans restriction. Sans itinérance activée, votre téléphone pourrait ne pas trouver de réseau ou se connecter à un réseau plus lent. Cette activation est sans frais supplémentaires avec Roami."
 
-  - q: "Can the Dänemark eSIM be used as the primary card for all mobile data connections?"
-    a: "Yes, the Roami eSIM can be set as the primary data line. However, for voice calls, you may need to use VoIP apps like WhatsApp or Skype, as most eSIM plans are data-only."
+  - q: "Existe-t-il une limite spécifique de consommation de données (par exemple après 2 Go par jour) à partir de laquelle la vitesse de l'eSIM Danemark est réduite ?"
+    a: "Oui, la plupart des forfaits eSIM Danemark incluent une politique d'utilisation équitable (FUP). Par exemple, après avoir consommé 2 Go par jour, la vitesse peut être réduite à 128 kbps ou 256 kbps. Roami propose des forfaits avec des limites claires : vérifiez les détails de votre forfait avant l'achat. Pour une utilisation intensive (streaming, visioconférence), choisissez un forfait avec un volume de données élevé ou illimité."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Dänemark eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Danemark"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "All eSIMs in Denmark have the same speed."
-    truth: "Speed varies significantly by provider. Telia is the fastest mobile network with 286.6 Mbps 5G download speeds, while Hiper leads fixed broadband at 341.1 Mbps."
+  - myth: "Tous les opérateurs danois offrent la même vitesse 5G."
+    truth: "Faux. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/denmark-speedtest-connectivity-report-h1-2025), Telia est le plus rapide avec 286,6 Mbps en téléchargement 5G, tandis que YouSee excelle pour le jeu mobile. Les performances varient considérablement selon l'opérateur."
 
-  - myth: "5G is available everywhere in Denmark."
-    truth: "5G coverage is concentrated in urban areas. Rural regions may rely on 4G. Telia and YouSee offer the best overall coverage."
+  - myth: "L'eSIM ne fonctionne que sur les iPhones récents."
+    truth: "Faux. L'eSIM est compatible avec la plupart des smartphones Android récents (Samsung Galaxy S20+, Google Pixel 4+, etc.) et les iPhones à partir du XS. Vérifiez la <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> de votre appareil avant l'achat."
 
-  - myth: "You need a Danish ID to buy an eSIM."
-    truth: "Most eSIM providers accept a valid passport for KYC. No local ID is required for prepaid plans."
+  - myth: "Au Danemark, la 5G est disponible partout, même dans les zones rurales."
+    truth: "Faux. La 5G est principalement déployée dans les grandes villes et le long des axes routiers. Dans les zones rurales et les parcs nationaux, la 4G reste le réseau dominant. Telia et YouSee offrent la meilleure couverture rurale."
 
-  - myth: "eSIMs are more expensive than physical SIMs."
-    truth: "eSIMs often offer competitive pricing and eliminate roaming fees. Roami's plans are cost-effective for travelers."
+  - myth: "Les eSIM de voyage sont plus chères que les cartes SIM locales."
+    truth: "Faux. Les eSIM Roami sont souvent plus compétitives, surtout pour les courts séjours. Elles évitent les frais d'itinérance et offrent une activation instantanée sans passer par une boutique physique."
 
-  - myth: "You cannot use eSIM for gaming."
-    truth: "YouSee offers the best mobile gaming experience in Denmark, with low latency and high stability, making eSIMs ideal for gaming."
+  - myth: "Vous devez désactiver votre carte SIM principale pour utiliser l'eSIM au Danemark."
+    truth: "Faux. Vous pouvez utiliser les deux SIM simultanément. Par exemple, gardez votre carte SIM française pour les appels et utilisez l'eSIM Roami pour les données. Assurez-vous simplement que l'eSIM est définie comme ligne de données par défaut."
 
 
 # Data sources
-data_sources_title: "Dänemark mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Danemark"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/denmark-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla's Speedtest Intelligence data for 1H 2025 provides median download/upload speeds, gaming scores, and network consistency for Danish operators."
+  - name: "Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/denmark-speedtest-connectivity-report-h1-2025)"
+    description: "Analyse des performances des réseaux mobiles et fixes au Danemark pour le premier semestre 2025, basée sur des millions de tests Speedtest."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal reports on mobile network experience in Denmark, including 5G availability and video streaming scores."
+    description: "Rapport sur l'expérience utilisateur mobile au Danemark, incluant la couverture 5G, la vitesse et la fiabilité."
 
-  - name: "Danish Energy Agency (Energistyrelsen) 2025"
-    description: "The national telecom regulator provides official data on spectrum allocation and network coverage obligations."
+  - name: "Agence danoise de l'énergie (Energistyrelsen) 2025"
+    description: "Données réglementaires sur les licences de spectre, les déploiements 5G et la couverture des opérateurs au Danemark."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are accurate as of 1H 2025."
-data_sources_note: "Network speeds and coverage can vary based on location, device, and network congestion. Always check the latest reports for real-time conditions."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public et sont utilisées à titre indicatif. Les vitesses réelles peuvent varier en fonction de l'emplacement, de l'appareil et des conditions du réseau."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de l'emplacement, de l'appareil, de l'heure de la journée et des conditions du réseau. Les données sont basées sur des tests effectués au premier semestre 2025."
 
 # CTA product card
-cta_title: "Secure your Dänemark eSIM today"
-cta_desc: "Get immediate access to Denmark's fastest networks with Roami. Instant activation, no roaming fees, and 24/7 support."
-cta_button_text: "Buy Dänemark eSIM now"
+cta_title: "Obtenez votre eSIM Danemark dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat aux réseaux 5G les plus rapides du Danemark avec Roami. Activation instantanée, pas de frais d'itinérance, et une couverture fiable dans tout le pays."
+cta_button_text: "Acheter l'eSIM Danemark maintenant"
 cta_button_link: "/denmark-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Dänemark trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Danemark gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Dänemark eSIM: Solve your roaming problems effortlessly
+# Danemark eSIM: Entièrement compatible avec iPhone et Android
 
-> **💡 Short summary for travelers:** Worry-free global business travel: one eSIM for high-speed networks across multiple countries. Roami's Dänemark eSIM leverages Telia's leading 5G network, which achieved a median download speed of 286.6 Mbps in 1H 2025, ensuring seamless connectivity for professionals on the go. Whether you're in Copenhagen or Roskilde, enjoy reliable data without roaming fees.
+> **💡 Résumé rapide pour les voyageurs :** Voyages d'affaires mondiaux sans souci : une eSIM pour les réseaux haut débit dans plusieurs pays. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/denmark-speedtest-connectivity-report-h1-2025), Telia domine le marché mobile danois avec une vitesse de téléchargement 5G médiane de 286,6 Mbps, tandis que Hiper est le FAI fixe le plus rapide avec 341,1 Mbps. Roami vous offre une eSIM Danemark prépayée, activée instantanément, pour profiter de ces performances sans frais d'itinérance. Que vous soyez à Copenhague, Frederiksberg ou Roskilde, restez connecté en toute fiabilité.
 
-## Things you need to know before buying a Dänemark eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Danemark
 
 
-### 1. Main 5G/4G frequency bands in Denmark {#1-main-5g4g-frequency-bands-in-denmark}
-Denmark's mobile networks operate on bands such as 800 MHz (4G), 1800 MHz (4G), 2600 MHz (4G/5G), and 3500 MHz (5G). Ensure your device supports these bands for optimal connectivity.
+### 1. Bandes 5G/4G principales au Danemark {#1-bandes-5g4g-principales-au-danemark}
+Les opérateurs danois utilisent principalement les bandes 700 MHz (n28), 3,5 GHz (n78) et 26 GHz (n258) pour la 5G. Pour la 4G, les bandes 800 MHz (B20), 1800 MHz (B3) et 2600 MHz (B7) sont courantes. Assurez-vous que votre smartphone est compatible avec ces fréquences.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate an eSIM in Denmark, you typically need to provide a valid passport or national ID. Some providers may require a local address or proof of residence.
+### 2. Exigence d'identification (KYC) pour l'eSIM {#2-exigence-didentification-kyc-pour-lesim}
+Au Danemark, l'achat d'une eSIM prépayée nécessite une vérification d'identité (KYC). Vous devrez fournir une pièce d'identité valide (passeport ou carte d'identité) lors de l'activation. Roami simplifie ce processus en ligne.
 
-### 3. Fair Usage Policy (FUP) for data plans {#3-fair-usage-policy-fup-for-data-plans}
-Most prepaid eSIM plans have a Fair Usage Policy that limits high-speed data after a certain threshold (e.g., 20-50 GB per month). Exceeding this may result in throttled speeds.
+### 3. Politique de limitation de débit (FUP) {#3-politique-de-limitation-de-débit-fup}
+La plupart des forfaits eSIM au Danemark incluent une politique d'utilisation équitable (FUP). Après avoir dépassé un certain volume de données (ex: 2 Go par jour), la vitesse peut être réduite à 128 kbps ou 256 kbps. Vérifiez les conditions de votre forfait.
 
-### 4. Network coverage in rural areas {#4-network-coverage-in-rural-areas}
-While urban areas have excellent 5G coverage, rural regions may rely on 4G. Telia and YouSee offer the best rural coverage based on Speedtest data.
+### 4. Couverture dans les zones rurales et les parcs nationaux {#4-couverture-dans-les-zones-rurales-et-les-parcs-nationaux}
+La couverture 5G est excellente dans les grandes villes (Copenhague, Aarhus, Odense). Dans les zones rurales et les parcs nationaux (ex: Parc national de Mols Bjerge), la 4G est prédominante. Telia et YouSee offrent la meilleure couverture rurale.
 
-### 5. eSIM compatibility with devices {#5-esim-compatibility-with-devices}
-Most modern smartphones (iPhone XS and later, Google Pixel 3 and later, Samsung Galaxy S20 and later) support eSIM. Check your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing.
+### 5. Itinérance et appels vocaux {#5-itinérance-et-appels-vocaux}
+Les eSIM de voyage Roami sont principalement destinées aux données. Les appels vocaux ne sont pas inclus. Utilisez des applications VoIP (WhatsApp, Skype) pour passer des appels. L'itinérance est automatiquement activée sur le réseau local.

@@ -1,65 +1,65 @@
 ---
-title: "Spanien eSIM: Reliable network for business trips"
-description: "Experience fast internet in Spanien with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:43:06+00:00"
-keywords: "eSIM Spanien, prepaid data, 5G network, Movistar, Orange, DIGI, travel eSIM, unlimited data"
+title: "Espagne eSIM: Parfait pour les appareils double SIM"
+description: "Profitez d'Internet rapide en Espagne avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:18:16+00:00"
+keywords: "eSIM Espagne, données prépayées, réseau 5G, Movistar, Orange, DIGI, Roami, guide voyage"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Spanien eSIM Guide"
+  - name: "Guide eSIM Espagne"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Spanien Travel eSIM Latest Guide"
-hero_subtitle_main: "Spanien eSIM: Reliable network for business trips"
-hero_subtitle_highlight: "Premium 5G network coverage by Movistar and Orange"
-hero_description_line1: "Replace traditional roaming plans with a Spanien eSIM to save communication costs. Compatible with multiple devices, it meets the internet needs of all kinds of travelers."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Spanien eSIM"
+hero_badge: "🇪🇸 Guide actuel de l'eSIM de voyage Espagne"
+hero_subtitle_main: "Espagne eSIM: Parfait pour les appareils double SIM"
+hero_subtitle_highlight: "Couverture réseau 5G premium via Movistar, Orange et Vodafone"
+hero_description_line1: "Le processus d'achat en ligne de l'eSIM Espagne est simple et sécurisé, avec des étapes d'activation claires pour que vous puissiez préparer votre solution Internet avant votre départ."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Espagne"
 hero_link_url: "/spain-esim/"
-tldr_summary: "More freedom through device sharing: unlimited 5G data unlimitedly on the go. With Movistar leading the market at a median download speed of 102.94 Mbps and 5G speeds reaching 191.62 Mbps, the Spanien eSIM ensures you stay connected whether you are in bustling Madrid or remote coastal towns. Roami's eSIM leverages these top-tier networks to provide seamless, high-speed connectivity without roaming fees."
+tldr_summary: "Dites adieu aux frais d'itinérance exorbitants : entrez dans l'ère de la connectivité mondiale gratuite. Avec Roami et une eSIM Espagne, vous accédez aux meilleurs réseaux locaux comme Movistar, qui affiche un débit médian de 102,94 Mbps (toutes technologies confondues) et un débit 5G de 191,62 Mbps selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025). Que vous soyez à Barcelone, Madrid ou Séville, profitez d'une connexion ultra-rapide sans surprise sur votre facture."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Spanien eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Espagne eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Spanien eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Espagne choisir ?"
 
   - href: "#operators"
-    text: "Top Spanien eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Espagne"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Spanien"
+    text: "Guide des villes : La meilleure eSIM pour Espagne"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Spanien eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Espagne"
 
   - href: "#faq"
-    text: "Frequently asked questions about Spanien eSIM"
+    text: "Questions fréquentes sur l'eSIM Espagne"
 
   - href: "#myths"
-    text: "Myths and facts about Spanien eSIM"
+    text: "Mythes et faits sur l'eSIM Espagne"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Spanien eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Espagne devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,249 +67,249 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "Movistar"
     carrier_class: "text-blue-600"
-    reason: "Best overall mobile network with median download speed of 102.94 Mbps and 5G speeds up to 191.62 Mbps. Ideal for heavy data users and video conferencing."
+    reason: "Meilleur réseau mobile global et 5G, débit médian de 102,94 Mbps, idéal pour le télétravail et les visioconférences."
 
-  - travel: "Budget travelers"
-    carrier: "DIGI"
-    carrier_class: "text-green-600"
-    reason: "Fastest fixed ISP with median download speed of 321.62 Mbps. Excellent value for money and reliable connectivity."
+  - travel: "Voyageurs en zone rurale"
+    carrier: "Vodafone"
+    carrier_class: "text-red-600"
+    reason: "Excellente couverture rurale et disponibilité 5G étendue, fiable hors des grandes villes."
 
-  - travel: "Streaming enthusiasts"
+  - travel: "Streamers et amateurs de vidéo"
     carrier: "Orange"
     carrier_class: "text-orange-600"
-    reason: "Best video streaming experience among ISPs. Perfect for watching movies and shows on the go."
+    reason: "Meilleure expérience de streaming vidéo (score 86,75 en 5G), parfait pour YouTube, Netflix et TikTok."
 
-  - travel: "Business travelers"
-    carrier: "Movistar"
-    carrier_class: "text-blue-600"
-    reason: "Highest 5G availability (78.7%) and best consistency (88.8% of samples met threshold). Reliable for critical business communications."
+  - travel: "Utilisateurs à petit budget"
+    carrier: "DIGI"
+    carrier_class: "text-green-600"
+    reason: "Opérateur fixe le plus rapide d'Espagne (321,62 Mbps), mais aussi compétitif en mobile pour les petits budgets."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Spanien travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Espagne la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "movistar-esim"
-    title: "Movistar eSIM Review: Best overall network"
-    best_for: "This plan is the absolute top choice for travelers who demand the fastest speeds and most reliable coverage across Spanien."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025), Movistar recorded the highest 5G Availability in Spain at 78.7%.\n- **Download rate**: Median download speed of 102.94 Mbps for all technologies, and 191.62 Mbps for 5G.\n- **Upload rate**: Median upload speed of 14.4 Mbps overall, 17.86 Mbps on 5G.\n- **Latency**: Lowest latency at 50 ms overall, 47 ms on 5G.\n- **Consistency**: 88.8% of samples met the threshold of 5 Mbps download and 1 Mbps upload."
-    arcep_note: "Confirmed by the local telecom authority (CNMC) that Movistar holds the largest spectrum portfolio and leads in 5G deployment."
-    connect_note: "Activation works seamlessly via QR code. Compatible with most modern smartphones. No physical SIM needed."
-    user_scenarios: "- **Sagrada Familia, Barcelona**: Capture and upload high-resolution photos instantly with 5G speeds.\n- **Alhambra, Granada**: Stream guided tour videos without buffering.\n- **Camino de Santiago**: Stay connected on remote trails with consistent coverage."
+    title: "Test eSIM Movistar : Meilleure performance globale"
+    best_for: "Ce forfait est le meilleur choix absolu pour les voyageurs exigeants qui ont besoin de la meilleure vitesse et fiabilité, que ce soit en 4G ou 5G."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025), le taux de disponibilité 5G est de 78,7 %, le meilleur d'Espagne.\n- **Débit descendant médian (toutes technologies)** : 102,94 Mbps\n- **Débit descendant médian 5G** : 191,62 Mbps\n- **Débit montant médian** : 14,4 Mbps\n- **Latence médiane** : 50 ms\n- **Score de connectivité Speedtest** : 77,3\n- **Score de connectivité 5G** : 70,65\n- **Consistance réseau** : 88,8 % des échantillons dépassent 5 Mbps descendant / 1 Mbps montant"
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (CNMC) comme l'opérateur leader en termes de couverture et de qualité de service."
+    connect_note: "L'activation se déroule sans problème via le QR code Roami. Compatible avec la plupart des smartphones récents (iPhone, Samsung, Google Pixel)."
+    user_scenarios: "- **Sagrada Familia (Barcelone)** : Téléchargez votre audioguide en 4K en moins de 30 secondes grâce au débit 5G de 191 Mbps.\n- **Métro de Madrid** : Streaming fluide sur Netflix même en déplacement, grâce à la faible latence de 47 ms en 5G.\n- **Plages de la Costa del Sol** : Partagez vos photos de vacances instantanément sur Instagram avec un débit montant de 14,4 Mbps."
     bg_color: "bg-blue-50"
 
   - id: "orange-esim"
-    title: "Orange eSIM Review: Best video streaming"
-    best_for: "This plan is ideal for travelers who prioritize video streaming quality and a smooth entertainment experience."
-    core_data: "- **Video streaming**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025), Orange recorded the best video streaming experience among ISPs.\n- **Download rate**: Median download speed of 72.72 Mbps for all technologies, and 138.23 Mbps for 5G.\n- **Upload rate**: Median upload speed not specified but competitive.\n- **Latency**: Not specified but generally low.\n- **Consistency**: Not specified but reliable."
-    arcep_note: "Orange is a major player in the Spanish market, with extensive 4G and 5G coverage confirmed by CNMC reports."
-    connect_note: "Activation works seamlessly via QR code. Supports dual eSIM on compatible devices."
-    user_scenarios: "- **Plaza Mayor, Madrid**: Stream live flamenco performances in high definition.\n- **Park Güell, Barcelona**: Watch travel vlogs without interruptions.\n- **Ibiza beaches**: Enjoy smooth video calls with friends and family."
+    title: "Test eSIM Orange : Meilleur pour le streaming vidéo"
+    best_for: "Ce forfait est idéal pour les voyageurs qui regardent beaucoup de vidéos en ligne (YouTube, Netflix, TikTok) et qui veulent la meilleure expérience de streaming."
+    core_data: "- **Expérience vidéo 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025), Orange offre le meilleur score de streaming vidéo 5G (86,75).\n- **Débit descendant médian (toutes technologies)** : 72,72 Mbps\n- **Débit descendant médian 5G** : 138,23 Mbps\n- **Débit montant médian 5G** : 17,86 Mbps\n- **Latence 5G** : 47 ms"
+    arcep_note: "Orange est régulièrement classé parmi les meilleurs FAI en Espagne par la CNMC pour la qualité de son réseau fixe et mobile."
+    connect_note: "L'activation de l'eSIM Orange via Roami est instantanée. Profitez de la couverture 5G dans toutes les grandes villes espagnoles."
+    user_scenarios: "- **Parc Güell (Barcelone)** : Regardez une vidéo YouTube sur l'histoire du parc en 4K sans aucune mise en mémoire tampon.\n- **Gare de Atocha (Madrid)** : Téléchargez votre série préférée sur Netflix avant de prendre le train pour Séville.\n- **Plage de la Barceloneta** : Lancez un live TikTok avec vos amis grâce au débit montant 5G de 17,86 Mbps."
     bg_color: "bg-orange-50"
 
   - id: "digi-esim"
-    title: "DIGI eSIM Review: Fastest fixed broadband alternative"
-    best_for: "This plan is perfect for travelers who need ultra-fast fixed internet speeds, such as digital nomads staying in apartments."
-    core_data: "- **Fixed broadband speed**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025), DIGI was the fastest ISP in Spain with a median download speed of 321.62 Mbps and upload speed of 321.14 Mbps.\n- **Mobile network**: Not the fastest mobile network, but offers competitive pricing.\n- **Coverage**: Good in urban areas, expanding rapidly."
-    arcep_note: "DIGI is a relatively new entrant but has quickly gained market share due to aggressive pricing and high speeds, as noted by CNMC."
-    connect_note: "Activation works seamlessly via QR code. Best used in fixed locations with a router."
-    user_scenarios: "- **Co-working spaces in Barcelona**: Download large files instantly.\n- **Airbnb in Madrid**: Stream 4K content without buffering.\n- **Remote work in Valencia**: Reliable video conferencing with high upload speeds."
+    title: "Test eSIM DIGI : Le champion de la fibre (et bon plan mobile)"
+    best_for: "Ce forfait est parfait pour les voyageurs qui ont besoin d'une connexion fixe ultra-rapide (Airbnb, coworking) ou qui cherchent un forfait mobile économique."
+    core_data: "- **Débit descendant médian fixe** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025), DIGI est le FAI le plus rapide d'Espagne avec 321,62 Mbps.\n- **Débit montant médian fixe** : 321,14 Mbps\n- **Performances mobiles** : DIGI propose également des forfaits mobiles compétitifs, bien que moins rapides que Movistar ou Orange."
+    arcep_note: "DIGI a été reconnu par la CNMC comme l'opérateur fixe le plus performant en 2025, grâce à son réseau FTTH (fibre jusqu'au domicile)."
+    connect_note: "L'eSIM DIGI via Roami s'active en un clic. Idéal pour les séjours prolongés où vous avez besoin d'une connexion fixe stable."
+    user_scenarios: "- **Appartement à Valence** : Télétravaillez sereinement avec un débit fixe de 321 Mbps, parfait pour les visioconférences et les gros fichiers.\n- **Coworking à Madrid** : Téléchargez des présentations PowerPoint lourdes en quelques secondes.\n- **Soirée streaming à Séville** : Regardez un film en 4K sur Disney+ sans aucune interruption."
     bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Spanien eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Spanien eSIM and local 5G bands"
-cards_free_title: "Get your free Spanien eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Espagne"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Espagne et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Espagne gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Spanien eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Espagne"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Spanien"
-    content: "Spanien's mobile networks operate on multiple frequency bands. For 4G, the primary bands are 800 MHz (Band 20), 1800 MHz (Band 3), and 2600 MHz (Band 7). For 5G, the key bands are 700 MHz (n28), 3.5 GHz (n78), and 26 GHz (n258). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Bandes 5G/4G principales en Espagne"
+    content: "Les opérateurs espagnols utilisent principalement les bandes 5G suivantes : n78 (3,5 GHz) pour la 5G à haute vitesse, n1 (2100 MHz) et n3 (1800 MHz) pour la couverture étendue. En 4G, les bandes principales sont B3 (1800 MHz), B7 (2600 MHz) et B20 (800 MHz). Assurez-vous que votre smartphone est compatible avec ces fréquences pour profiter de la meilleure expérience."
 
-  - heading: "2. KYC requirements for eSIM purchase"
-    content: "To purchase and activate a Spanien eSIM, you must complete a Know Your Customer (KYC) process. This typically requires a valid passport or national ID. Some providers may also require a selfie or proof of address. The process is usually quick and can be done online."
+  - heading: "2. Exigence KYC (connaissance client) pour l'eSIM"
+    content: "En Espagne, l'achat d'une eSIM prépayée nécessite une vérification d'identité (KYC). Vous devrez fournir une pièce d'identité (passeport ou carte d'identité) et parfois un justificatif de domicile. Roami simplifie ce processus en ligne, mais assurez-vous d'avoir vos documents prêts."
 
-  - heading: "3. Fair Usage Policy (FUP) and throttling"
-    content: "Most unlimited data plans in Spanien have a Fair Usage Policy (FUP). After exceeding a certain data threshold (e.g., 20-50 GB per month), speeds may be throttled to 1-2 Mbps. Always check the specific FUP of your chosen provider to avoid unexpected slowdowns."
+  - heading: "3. Politique d'utilisation équitable (FUP) et limitation de débit"
+    content: "La plupart des forfaits eSIM en Espagne incluent une politique d'utilisation équitable (FUP). Après avoir consommé un certain volume de données à pleine vitesse (ex: 10 Go), le débit peut être réduit à 128 kbps ou 256 kbps. Vérifiez les conditions de votre forfait avant de souscrire."
 
-  - heading: "4. Network coverage in rural areas"
-    content: "While urban areas have excellent 5G coverage, rural and mountainous regions may have limited connectivity. Movistar offers the best rural coverage due to its extensive 800 MHz 4G network. If you plan to travel to remote areas, choose a provider with strong rural infrastructure."
+  - heading: "4. Couverture réseau dans les zones rurales et montagneuses"
+    content: "Si vous prévoyez de voyager dans des zones rurales (Pyrénées, Sierra Nevada), privilégiez Movistar ou Vodafone qui offrent la meilleure couverture. Orange et DIGI peuvent avoir une couverture plus limitée dans ces régions."
 
-  - heading: "5. eSIM compatibility and dual SIM support"
-    content: "Most modern smartphones support eSIM, including iPhones (XR and later), Google Pixels (3a and later), and Samsung Galaxy S20 and later. Dual eSIM support allows you to have two active profiles simultaneously, which is useful for keeping your home number active while using a local data plan."
+  - heading: "5. Compatibilité des smartphones avec l'eSIM"
+    content: "Tous les smartphones ne supportent pas l'eSIM. Vérifiez que votre appareil est déverrouillé et compatible eSIM (iPhone XS et ultérieur, Samsung Galaxy S20 et ultérieur, Google Pixel 3 et ultérieur). Les modèles chinois ou américains peuvent avoir des restrictions."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Spanien"
-city_guide_desc: "Find out which Spanien eSIM is the best choice for your destination city based on local network performance and coverage."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Espagne"
+city_guide_desc: "Découvrez quelle eSIM Espagne est le meilleur choix pour votre ville de destination, en fonction des performances réseau locales et de vos besoins."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
+  - city: "Barcelone"
+    carriers: "Movistar"
+    reason: "Barcelone est une ville très connectée. Movistar offre le meilleur débit 5G (191,62 Mbps) et une disponibilité 5G de 78,7 %, idéal pour les touristes et les nomades numériques."
+
   - city: "Madrid"
-    carriers: "Movistar"
-    reason: "Madrid is a major business hub with high data demand. Movistar offers the best overall network performance with median download speeds of 102.94 Mbps and 5G availability of 78.7%, ensuring reliable connectivity for business travelers and tourists alike."
-
-  - city: "Barcelona"
     carriers: "Orange"
-    reason: "Barcelona is a top tourist destination with heavy video streaming usage. Orange provides the best video streaming experience, making it ideal for sharing travel moments and streaming content. The city also has excellent 5G coverage from Orange."
+    reason: "Madrid bénéficie d'une excellente couverture Orange. Avec le meilleur score de streaming vidéo (86,75), c'est le choix parfait pour les amateurs de divertissement en déplacement."
 
-  - city: "Valencia"
+  - city: "Valence"
     carriers: "DIGI"
-    reason: "Valencia has a growing digital nomad community. DIGI offers the fastest fixed broadband speeds (321.62 Mbps download), perfect for remote workers staying in apartments or co-working spaces. Mobile coverage is also good."
+    reason: "Valence est une ville où DIGI excelle, notamment pour les connexions fixes. Si vous séjournez dans un Airbnb, profitez du débit fixe de 321 Mbps pour le télétravail."
 
-  - city: "Seville"
-    carriers: "Movistar"
-    reason: "Seville is known for its historic sites and warm climate. Movistar's consistent network (88.8% of samples meeting threshold) ensures you stay connected while exploring the Alcázar or Plaza de España. 5G coverage is expanding rapidly."
+  - city: "Séville"
+    carriers: "Vodafone"
+    reason: "Séville et l'Andalousie rurale bénéficient d'une bonne couverture Vodafone. Idéal pour explorer les villages blancs et les parcs naturels sans perdre le signal."
 
   - city: "L'Hospitalet de Llobregat"
     carriers: "Movistar"
-    reason: "This city recorded the fastest median mobile download speed in Spain at 154.27 Mbps. Movistar's network excels here, making it the top choice for speed-sensitive applications like video calls and large file transfers."
+    reason: "Cette ville détient le record de vitesse mobile (154,27 Mbps) et fixe (298,26 Mbps) en Espagne. Movistar y est particulièrement performant."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Spanien eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Espagne selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore historic landmarks like the Alhambra or Sagrada Familia with confidence. Use your eSIM to access maps, audio guides, and share photos instantly. Movistar's 5G network ensures fast uploads even in crowded tourist spots."
+    title: "Découvreur de villes"
+    text: "Explorez les musées du Prado à Madrid ou les ruelles du quartier gothique de Barcelone avec une connexion 5G ultra-rapide. Téléchargez des cartes, des audioguides et partagez vos photos en temps réel."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike through the Picos de Europa or relax on the beaches of Costa del Sol. Movistar's extensive rural coverage keeps you connected in remote areas. Stream nature documentaries or share your adventures without interruption."
+    title: "Amoureux de la nature"
+    text: "Randonnez dans les Pyrénées ou le parc national de Doñana avec une couverture fiable grâce à Vodafone ou Movistar. Restez connecté même en altitude pour partager vos aventures."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive along the scenic routes of Andalusia or the Basque Country. With Orange's reliable network, you can navigate, stream music, and stay in touch with fellow travelers. 5G coverage along major highways is excellent."
+    title: "Roadtrippeur"
+    text: "Parcourez la côte méditerranéenne de Valence à Malaga avec une eSIM qui bascule automatiquement entre les réseaux. Profitez du streaming pour les passagers et du GPS en temps réel."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on the beaches of Ibiza or Mallorca. DIGI's high-speed fixed broadband is perfect for beachfront apartments, while Movistar's mobile network ensures you can post sunset photos instantly. Enjoy seamless connectivity by the sea."
+    title: "Vacancier à la plage"
+    text: "Sur les plages de la Costa Brava ou d'Ibiza, restez connecté avec un débit montant de 14,4 Mbps pour publier vos stories Instagram et vos vidéos TikTok sans attendre."
 
-scene_guide_footer: "💡 The Roami Spanien eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Espagne détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Spanien eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Espagne"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "What average download and upload network speeds can I expect in Spanien?"
-    a: "Based on the latest Speedtest Intelligence data from 1H 2025, the median mobile download speed in Spanien is 52.21 Mbps. However, top providers like Movistar offer much higher speeds: median download of 102.94 Mbps overall and 191.62 Mbps on 5G. Upload speeds average around 14.4 Mbps overall and 17.86 Mbps on 5G. Fixed broadband from DIGI can reach up to 321.62 Mbps download and upload."
+  - q: "Comment activer exactement le profil eSIM Roami dès mon arrivée à l'aéroport en Espagne ?"
+    a: "Dès votre atterrissage, allumez votre téléphone et connectez-vous au Wi-Fi de l'aéroport. Ouvrez l'e-mail de confirmation Roami contenant votre code QR. Allez dans Réglages > Données cellulaires > Ajouter un forfait cellulaire (iOS) ou Paramètres > Connexions > Gestionnaire de carte SIM > Ajouter une eSIM (Android). Scannez le code QR. Le profil s'installe en quelques secondes. Activez ensuite la ligne de données pour l'eSIM et désactivez l'itinérance de votre carte physique. Vous êtes connecté !"
 
-  - q: "Do unlimited plans in Spanien have a strict Fair Usage Policy (FUP) or bandwidth throttling?"
-    a: "Yes, most unlimited data plans in Spanien include a Fair Usage Policy (FUP). Typically, after consuming 20-50 GB of data in a billing cycle, speeds may be throttled to 1-2 Mbps. Some providers offer truly unlimited data at reduced speeds after the FUP threshold. Always review the terms before purchasing to avoid surprises."
+  - q: "Est-il possible d'acheter plusieurs forfaits de données pour Espagne et de les activer l'un après l'autre ?"
+    a: "Oui, tout à fait. Roami vous permet d'acheter plusieurs forfaits eSIM pour l'Espagne. Vous pouvez les stocker dans votre compte et les activer séquentiellement. Par exemple, activez un forfait de 10 Go pour votre première semaine, puis un autre pour la suivante. Chaque forfait a sa propre période de validité. Assurez-vous simplement de ne pas activer deux forfaits en même temps pour éviter toute confusion."
 
-  - q: "Does the Spanien eSIM support dialing local numbers or receiving SMS messages?"
-    a: "Most Spanien eSIMs are data-only plans and do not support voice calls or SMS. However, some providers offer plans with a local phone number for calls and texts. For voice communication, you can use VoIP apps like WhatsApp, Skype, or Zoom over the data connection. Check the specific eSIM product details for voice/SMS support."
+  - q: "Que dois-je faire si mon eSIM Espagne ne trouve pas de réseau après une installation réussie ?"
+    a: "Si votre eSIM est installée mais ne trouve pas de réseau, suivez ces étapes : 1) Vérifiez que l'itinérance des données est activée pour la ligne eSIM dans vos réglages. 2) Redémarrez votre téléphone. 3) Sélectionnez manuellement l'opérateur (Movistar, Orange, Vodafone) dans les paramètres réseau. 4) Assurez-vous que votre téléphone est déverrouillé (simlock). 5) Si le problème persiste, contactez le support Roami qui pourra régénérer votre profil eSIM."
 
-  - q: "My phone supports dual eSIM. Can I have two Spanien eSIM profiles active at the same time?"
-    a: "Yes, if your phone supports dual eSIM (e.g., iPhone 13 and later, Google Pixel 7 and later), you can have two active eSIM profiles simultaneously. This allows you to keep your home number active while using a local Spanien data plan. Ensure your device is unlocked and compatible with the eSIM profiles you intend to use."
+  - q: "L'eSIM Espagne prend-elle en charge le partage de connexion (hotspot) pour partager les données avec d'autres appareils ?"
+    a: "Oui, la plupart des forfaits eSIM Roami pour l'Espagne autorisent le partage de connexion (hotspot). Vous pouvez ainsi partager votre connexion 5G avec votre ordinateur portable, tablette ou les appareils de vos compagnons de voyage. Attention toutefois : le partage de connexion consomme vos données plus rapidement. Vérifiez les conditions spécifiques de votre forfait, car certains forfaits très économiques peuvent limiter cette fonctionnalité."
 
-  - q: "Is identity verification (KYC) or passport registration required to purchase and use the Spanien eSIM?"
-    a: "Yes, due to local regulations, most Spanien eSIM providers require identity verification (KYC) before activation. You will need to upload a clear photo of your passport or national ID. Some providers may also require a selfie for facial verification. The process is typically quick and can be completed online within minutes."
+  - q: "Puis-je passer des appels vocaux ou vidéo via WhatsApp, WeChat ou FaceTime avec l'eSIM Espagne ?"
+    a: "Absolument. L'eSIM Roami fournit un accès à Internet, ce qui vous permet d'utiliser toutes les applications de communication Over-The-Top (OTT) comme WhatsApp, WeChat, FaceTime, Skype ou Zoom. Ces appels passent par votre forfait de données et ne sont pas facturés comme des appels traditionnels. C'est idéal pour rester en contact avec votre famille et vos amis sans frais d'itinérance. Assurez-vous simplement d'avoir un bon débit (recommandé : au moins 1 Mbps pour la vidéo)."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Spanien eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Espagne"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "All eSIMs in Spanien offer the same speed and coverage."
-    truth: "False. Network performance varies significantly by provider. Movistar leads with median download speeds of 102.94 Mbps and 5G availability of 78.7%, while other providers may offer lower speeds and coverage. Always choose based on your specific needs."
+  - myth: "Les eSIM sont moins fiables que les cartes SIM physiques."
+    truth: "Faux. Les eSIM utilisent la même technologie réseau que les cartes physiques. Elles sont tout aussi fiables, voire plus, car elles ne peuvent pas être perdues ou endommagées. De plus, elles permettent de basculer facilement entre plusieurs opérateurs."
 
-  - myth: "5G is available everywhere in Spanien."
-    truth: "False. While 5G coverage is expanding rapidly, it is primarily concentrated in urban areas. Rural and mountainous regions may still rely on 4G. Movistar has the highest 5G availability at 78.7%, but coverage is not universal."
+  - myth: "Il est obligatoire d'acheter une carte SIM espagnole dans une boutique physique."
+    truth: "Faux. Avec Roami, vous pouvez acheter et activer une eSIM 100 % en ligne avant votre départ. Plus besoin de faire la queue dans une boutique à l'aéroport. L'activation se fait par QR code, où que vous soyez."
 
-  - myth: "Unlimited data plans have no restrictions."
-    truth: "False. Most unlimited plans have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 20-50 GB). Always read the fine print to understand the FUP limits."
+  - myth: "Le réseau 5G en Espagne est réservé aux grandes villes."
+    truth: "Faux. Movistar affiche une disponibilité 5G de 78,7 % à l'échelle nationale, ce qui inclut de nombreuses villes moyennes et zones périurbaines. Les zones rurales restent toutefois mieux couvertes en 4G."
 
-  - myth: "eSIMs are only compatible with high-end smartphones."
-    truth: "False. eSIM technology is now available on a wide range of devices, including mid-range Android phones and iPhones from the XR model onward. Check your device specifications to confirm eSIM support."
+  - myth: "Tous les forfaits eSIM offrent la même vitesse."
+    truth: "Faux. Les vitesses varient considérablement selon l'opérateur. Movistar offre un débit médian de 102,94 Mbps, tandis qu'Orange atteint 72,72 Mbps. DIGI est le plus rapide en fixe (321 Mbps). Choisissez en fonction de vos besoins."
 
-  - myth: "You need a Spanish address to buy an eSIM."
-    truth: "False. Tourists and foreign visitors can purchase eSIMs without a local address. KYC verification typically only requires a passport. Many providers offer eSIMs specifically designed for travelers."
+  - myth: "Une eSIM ne fonctionne que sur les iPhones."
+    truth: "Faux. Les eSIM sont compatibles avec une large gamme de smartphones Android (Samsung, Google Pixel, Huawei, etc.) et iOS. Vérifiez simplement que votre modèle est déverrouillé et supporte l'eSIM."
 
 
 # Data sources
-data_sources_title: "Spanien mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Espagne"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla's Speedtest Intelligence data for 1H 2025 provides comprehensive mobile and fixed network performance metrics for Spain, including median download/upload speeds, latency, and 5G availability."
+  - name: "Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)"
+    description: "Analyse des performances des réseaux mobiles et fixes en Espagne pour le premier semestre 2025, basée sur Speedtest Intelligence. Données incluant les débits médians, la latence, la disponibilité 5G et les scores de connectivité."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's mobile network experience report for Spain offers insights into video streaming, voice app, and overall network quality across major operators."
+    description: "Rapport sur l'expérience utilisateur des réseaux mobiles en Espagne, incluant la couverture, la vitesse et la fiabilité des opérateurs."
 
   - name: "CNMC (Comisión Nacional de los Mercados y la Competencia) 2025"
-    description: "The Spanish national telecom regulator provides official data on spectrum allocation, coverage obligations, and market share, ensuring transparency and accuracy of network claims."
+    description: "Rapport officiel de l'autorité de régulation espagnole sur la qualité des services de télécommunications, incluant les obligations de couverture et les performances des opérateurs."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are accurate as of 1H 2025. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device, and time of day. Always check the latest coverage maps and user reviews before purchasing an eSIM."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public et sont fournies à titre indicatif. Les performances réelles peuvent varier en fonction de votre emplacement, de votre appareil et des conditions du réseau."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de nombreux facteurs, notamment l'heure de la journée, la congestion du réseau, la météo et les caractéristiques techniques de votre smartphone."
 
 # CTA product card
-cta_title: "Secure your Spanien eSIM today"
-cta_desc: "Get immediate access to high-speed 5G data with instant activation. No roaming fees, no hidden costs. Stay connected from the moment you land."
-cta_button_text: "Buy Spanien eSIM now"
+cta_title: "Obtenez votre eSIM Espagne dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat aux meilleurs réseaux espagnols (Movistar, Orange, Vodafone) avec une eSIM Roami. Activation instantanée, pas de frais d'itinérance, et une couverture 5G étendue dans tout le pays."
+cta_button_text: "Acheter l'eSIM Espagne maintenant"
 cta_button_link: "/spain-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Spanien trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Espagne gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Spanien eSIM: Reliable network for business trips
+# Espagne eSIM: Parfait pour les appareils double SIM
 
-> **💡 Short summary for travelers:** More freedom through device sharing: unlimited 5G data unlimitedly on the go. With Movistar leading the market at a median download speed of 102.94 Mbps and 5G speeds reaching 191.62 Mbps, the Spanien eSIM ensures you stay connected whether you are in bustling Madrid or remote coastal towns. Roami's eSIM leverages these top-tier networks to provide seamless, high-speed connectivity without roaming fees.
+> **💡 Résumé rapide pour les voyageurs :** Dites adieu aux frais d'itinérance exorbitants : entrez dans l'ère de la connectivité mondiale gratuite. Avec Roami et une eSIM Espagne, vous accédez aux meilleurs réseaux locaux comme Movistar, qui affiche un débit médian de 102,94 Mbps (toutes technologies confondues) et un débit 5G de 191,62 Mbps selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025). Que vous soyez à Barcelone, Madrid ou Séville, profitez d'une connexion ultra-rapide sans surprise sur votre facture.
 
-## Things you need to know before buying a Spanien eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Espagne
 
 
-### 1. Main 5G/4G frequency bands in Spanien {#1-main-5g4g-frequency-bands-in-spanien}
-Spanien's mobile networks operate on multiple frequency bands. For 4G, the primary bands are 800 MHz (Band 20), 1800 MHz (Band 3), and 2600 MHz (Band 7). For 5G, the key bands are 700 MHz (n28), 3.5 GHz (n78), and 26 GHz (n258). Ensure your device supports these bands for optimal performance.
+### 1. Bandes 5G/4G principales en Espagne {#1-bandes-5g4g-principales-en-espagne}
+Les opérateurs espagnols utilisent principalement les bandes 5G suivantes : n78 (3,5 GHz) pour la 5G à haute vitesse, n1 (2100 MHz) et n3 (1800 MHz) pour la couverture étendue. En 4G, les bandes principales sont B3 (1800 MHz), B7 (2600 MHz) et B20 (800 MHz). Assurez-vous que votre smartphone est compatible avec ces fréquences pour profiter de la meilleure expérience.
 
-### 2. KYC requirements for eSIM purchase {#2-kyc-requirements-for-esim-purchase}
-To purchase and activate a Spanien eSIM, you must complete a Know Your Customer (KYC) process. This typically requires a valid passport or national ID. Some providers may also require a selfie or proof of address. The process is usually quick and can be done online.
+### 2. Exigence KYC (connaissance client) pour l'eSIM {#2-exigence-kyc-connaissance-client-pour-lesim}
+En Espagne, l'achat d'une eSIM prépayée nécessite une vérification d'identité (KYC). Vous devrez fournir une pièce d'identité (passeport ou carte d'identité) et parfois un justificatif de domicile. Roami simplifie ce processus en ligne, mais assurez-vous d'avoir vos documents prêts.
 
-### 3. Fair Usage Policy (FUP) and throttling {#3-fair-usage-policy-fup-and-throttling}
-Most unlimited data plans in Spanien have a Fair Usage Policy (FUP). After exceeding a certain data threshold (e.g., 20-50 GB per month), speeds may be throttled to 1-2 Mbps. Always check the specific FUP of your chosen provider to avoid unexpected slowdowns.
+### 3. Politique d'utilisation équitable (FUP) et limitation de débit {#3-politique-dutilisation-équitable-fup-et-limitation-de-débit}
+La plupart des forfaits eSIM en Espagne incluent une politique d'utilisation équitable (FUP). Après avoir consommé un certain volume de données à pleine vitesse (ex: 10 Go), le débit peut être réduit à 128 kbps ou 256 kbps. Vérifiez les conditions de votre forfait avant de souscrire.
 
-### 4. Network coverage in rural areas {#4-network-coverage-in-rural-areas}
-While urban areas have excellent 5G coverage, rural and mountainous regions may have limited connectivity. Movistar offers the best rural coverage due to its extensive 800 MHz 4G network. If you plan to travel to remote areas, choose a provider with strong rural infrastructure.
+### 4. Couverture réseau dans les zones rurales et montagneuses {#4-couverture-réseau-dans-les-zones-rurales-et-montagneuses}
+Si vous prévoyez de voyager dans des zones rurales (Pyrénées, Sierra Nevada), privilégiez Movistar ou Vodafone qui offrent la meilleure couverture. Orange et DIGI peuvent avoir une couverture plus limitée dans ces régions.
 
-### 5. eSIM compatibility and dual SIM support {#5-esim-compatibility-and-dual-sim-support}
-Most modern smartphones support eSIM, including iPhones (XR and later), Google Pixels (3a and later), and Samsung Galaxy S20 and later. Dual eSIM support allows you to have two active profiles simultaneously, which is useful for keeping your home number active while using a local data plan.
+### 5. Compatibilité des smartphones avec l'eSIM {#5-compatibilité-des-smartphones-avec-lesim}
+Tous les smartphones ne supportent pas l'eSIM. Vérifiez que votre appareil est déverrouillé et compatible eSIM (iPhone XS et ultérieur, Samsung Galaxy S20 et ultérieur, Google Pixel 3 et ultérieur). Les modèles chinois ou américains peuvent avoir des restrictions.

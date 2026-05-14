@@ -42,7 +42,7 @@ banner:
   alt: Лучшая eSIM для ОАЭ
   title: Лучшая eSIM для ОАЭ
 hero:
-  flag_image: img/flags/971.svg
+  flag_image: img/flags/ae.svg
   flag_alt: Флаг ОАЭ
   title: Тариф eSIM для ОАЭ
   subtitle: Необходимый для путешествий | Скидка 20% на ограниченное время | Не требует

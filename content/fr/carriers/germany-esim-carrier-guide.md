@@ -1,65 +1,65 @@
 ---
-title: "Deutschland eSIM: Perfect for dual‑SIM devices"
-description: "Experience fast internet in Deutschland with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:39:41+00:00"
-keywords: "eSIM Deutschland, prepaid data, 5G network, Telekom, Vodafone, O2, travel eSIM, Germany eSIM"
+title: "Allemagne eSIM: Internet de voyage plug-and-play instantané"
+description: "Profitez d'Internet rapide en Allemagne avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:15:58+00:00"
+keywords: "eSIM Allemagne, données prépayées, réseau 5G, Telekom, Vodafone, O2, voyage Allemagne, internet mobile Allemagne"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Deutschland eSIM Guide"
+  - name: "Guide eSIM Allemagne"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Deutschland Travel eSIM Latest Guide"
-hero_subtitle_main: "Deutschland eSIM: Perfect for dual‑SIM devices"
-hero_subtitle_highlight: "Premium 5G network coverage by Telekom, Vodafone and O2"
-hero_description_line1: "Receive activation details immediately after purchasing the Deutschland eSIM. No waiting for physical card delivery, helping you save time and improve travel efficiency."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Deutschland eSIM"
+hero_badge: "🇩🇪 Guide actuel de l'eSIM de voyage Allemagne"
+hero_subtitle_main: "Allemagne eSIM: Internet de voyage plug-and-play instantané"
+hero_subtitle_highlight: "Couverture réseau 5G premium via Telekom, Vodafone et O2"
+hero_description_line1: "Recevez les détails d'activation immédiatement après l'achat de l'eSIM Allemagne. Pas d'attente pour la livraison d'une carte physique, ce qui vous aide à gagner du temps et à améliorer l'efficacité de votre voyage."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Allemagne"
 hero_link_url: "/germany-esim/"
-tldr_summary: "No connection drops on business trips: cost‑effective eSIM plans for global mobility. Roami's Deutschland eSIM leverages Telekom's top‑tier network, which recorded a median download speed of 99.01 Mbps and a 5G median of 159.46 Mbps in 1H 2025. Whether you're in Düsseldorf (fastest mobile city at 148.6 Mbps) or Munich (fastest fixed city at 108.1 Mbps), you get reliable, high‑speed connectivity without roaming fees. Choose Roami for instant activation and seamless dual‑SIM use."
+tldr_summary: "Dites adieu aux frais d'itinérance élevés : données 5G illimitées pour plusieurs appareils. Avec Roami eSIM Allemagne, vous accédez aux réseaux premium Telekom, Vodafone et O2. Selon les données Speedtest du 1er semestre 2025, Telekom offre un débit descendant médian de 99,01 Mbps (toutes technologies) et 159,46 Mbps en 5G, tandis que Düsseldorf atteint 148,6 Mbps en mobile. Profitez d'une connexion ultra-rapide et fiable pour le travail, le streaming et les appels, sans surprise de facture."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Deutschland eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Allemagne eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Deutschland eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Allemagne choisir ?"
 
   - href: "#operators"
-    text: "Top Deutschland eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Allemagne"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Deutschland"
+    text: "Guide des villes : La meilleure eSIM pour Allemagne"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Deutschland eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Allemagne"
 
   - href: "#faq"
-    text: "Frequently asked questions about Deutschland eSIM"
+    text: "Questions fréquentes sur l'eSIM Allemagne"
 
   - href: "#myths"
-    text: "Myths and facts about Deutschland eSIM"
+    text: "Mythes et faits sur l'eSIM Allemagne"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Deutschland eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Allemagne devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "Telekom"
-    carrier_class: "text-magenta-600"
-    reason: "Best overall mobile network with median download 99.01 Mbps and 5G median 159.46 Mbps. Ideal for heavy data users and video calls."
+    carrier_class: "text-orange-600"
+    reason: "Meilleur réseau mobile global et 5G selon Speedtest 1H 2025 : débit descendant médian 99,01 Mbps, 5G à 159,46 Mbps. Idéal pour le télétravail et le streaming HD."
 
-  - travel: "Budget travelers"
-    carrier: "O2"
-    carrier_class: "text-blue-600"
-    reason: "Highest 5G availability at 72.4% and affordable plans. Good enough for social media and messaging."
-
-  - travel: "Rural explorers"
+  - travel: "Voyageurs en zone rurale"
     carrier: "Vodafone"
     carrier_class: "text-red-600"
-    reason: "Strong rural coverage and consistent performance. Median download 69.87 Mbps, second fastest overall."
+    reason: "Deuxième meilleur débit (69,87 Mbps) et excellente couverture nationale. Bon équilibre entre performance et disponibilité."
+
+  - travel: "Utilisateurs intensifs de données"
+    carrier: "O2"
+    carrier_class: "text-blue-600"
+    reason: "Meilleure disponibilité 5G (72,4% du temps). Parfait pour rester connecté en continu, même si les débits sont légèrement inférieurs (50,16 Mbps)."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Deutschland travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Allemagne la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "telekom-esim"
-    title: "Telekom eSIM Review: Best overall performance"
-    best_for: "This plan is the absolute top choice for users who demand the fastest speeds and best 5G experience. Telekom leads in download speed, upload speed, latency, and consistency."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025), Telekom's 5G availability is high, though O2 leads at 72.4%.\n- **Median download speed**: 99.01 Mbps (all technologies), 159.46 Mbps (5G).\n- **Median upload speed**: 18.29 Mbps (all), 24.84 Mbps (5G).\n- **Latency**: 35 ms (all), 33 ms (5G).\n- **Consistency**: 93.5% of samples met 5 Mbps down / 1 Mbps up threshold.\n- **Connectivity Score**: 78.87 overall, 71.93 for 5G."
-    arcep_note: "Confirmed by the local telecom authority (Bundesnetzagentur) as a leading provider in spectrum holdings and network quality."
-    connect_note: "Activation works seamlessly with Roami eSIM. Instant QR code delivery, no physical SIM needed."
-    user_scenarios: "- **Berlin Hauptbahnhof**: Telekom's low latency (35 ms) ensures smooth video calls and navigation in one of Europe's busiest train stations.\n- **Neuschwanstein Castle**: Even in remote Bavaria, Telekom's consistent network (93.5% threshold pass) keeps you connected for sharing photos.\n- **Autobahn A9**: Stream music and use real‑time traffic apps without buffering thanks to 99.01 Mbps median download."
-    bg_color: "bg-magenta-50"
+    title: "Test eSIM Telekom : Meilleure performance globale"
+    best_for: "Ce forfait est le meilleur choix absolu pour les voyageurs exigeant la vitesse la plus élevée et la meilleure expérience de streaming et de jeux en 5G."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025), Telekom n'a pas la meilleure disponibilité 5G (O2 est leader avec 72,4%), mais offre la meilleure expérience 5G.\n- **Débit descendant médian** : 99,01 Mbps (toutes technologies), 159,46 Mbps (5G).\n- **Débit montant médian** : 18,29 Mbps (toutes technologies), 24,84 Mbps (5G).\n- **Latence** : 35 ms (toutes technologies), 33 ms (5G).\n- **Score de connectivité Speedtest** : 78,87 (global), 71,93 (5G).\n- **Consistance** : 93,5% des échantillons ≥ 5 Mbps descendant / 1 Mbps montant."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (Bundesnetzagentur) : Telekom détient des licences 5G étendues et respecte les obligations de couverture."
+    connect_note: "L'activation se déroule sans problème via le QR code Roami. Compatible avec la plupart des smartphones récents. Aucune configuration manuelle requise."
+    user_scenarios: "- **Porte de Brandebourg, Berlin** : Téléchargez votre audioguide en 4K en quelques secondes. Streaming fluide même en pleine foule.\n- **Château de Neuschwanstein** : Partagez vos photos en direct sur les réseaux sociaux sans mise en cache. Appels vidéo cristallins.\n- **Autoroute A9 (Munich-Berlin)** : Navigation GPS en temps réel, musique en streaming et appels professionnels sans coupure, même à 200 km/h."
+    bg_color: "bg-orange-50"
 
   - id: "vodafone-esim"
-    title: "Vodafone eSIM Review: Best rural coverage"
-    best_for: "This plan is the absolute top choice for travelers heading to the countryside or smaller towns. Vodafone offers strong rural coverage and competitive speeds."
-    core_data: "- **Median download speed**: 69.87 Mbps (all technologies), 103.08 Mbps (5G).\n- **Median upload speed**: Not specified in raw data, but competitive.\n- **Latency**: Not specified, but generally low.\n- **Consistency**: Second best after Telekom.\n- **5G availability**: Good, but lower than O2's 72.4%."
-    arcep_note: "Confirmed by the local telecom authority (Bundesnetzagentur) as a key spectrum holder with extensive rural infrastructure."
-    connect_note: "Activation works seamlessly with Roami eSIM. Instant QR code delivery, no physical SIM needed."
-    user_scenarios: "- **Black Forest hiking trails**: Vodafone's rural coverage ensures you can use maps and emergency services even in dense forests.\n- **Rhine Valley vineyards**: Stay connected while wine tasting in remote villages.\n- **Baltic Sea beaches**: Reliable speeds for streaming and social media along the coast."
+    title: "Test eSIM Vodafone : Meilleure couverture à la campagne"
+    best_for: "Ce forfait est le meilleur choix absolu pour les voyageurs qui explorent les zones rurales et les petites villes, où la couverture étendue est primordiale."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025), Vodafone est deuxième en termes de débit 5G (103,08 Mbps) et offre une bonne couverture nationale.\n- **Débit descendant médian** : 69,87 Mbps (toutes technologies), 103,08 Mbps (5G).\n- **Débit montant médian** : Données non spécifiées dans le rapport, mais généralement bonnes.\n- **Latence** : Non spécifiée, mais compétitive.\n- **Consistance** : Bonne, mais légèrement inférieure à Telekom.\n- **Couverture** : Excellent déploiement rural grâce à des partenariats avec les collectivités locales."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (Bundesnetzagentur) : Vodafone respecte les obligations de couverture 5G et investit dans les zones blanches."
+    connect_note: "L'activation se déroule sans problème via le QR code Roami. Profitez d'une connexion stable dès l'arrivée."
+    user_scenarios: "- **Forêt-Noire (Schwarzwald)** : Randonnez avec une carte interactive toujours à jour. Envoyez des messages et des photos depuis les sommets.\n- **Route Romantique (Romantische Straße)** : Streaming de musique et navigation GPS sans interruption entre les villages médiévaux.\n- **Île de Rügen** : Télétravail depuis votre location de vacances avec une connexion fiable pour les visioconférences."
     bg_color: "bg-red-50"
 
   - id: "o2-esim"
-    title: "O2 eSIM Review: Best 5G availability"
-    best_for: "This plan is the absolute top choice for users who prioritize 5G access above all else. O2 leads with 72.4% 5G availability, meaning you'll be on 5G most of the time."
-    core_data: "- **5G availability**: 72.4% of users on 5G most of the time (highest in Germany).\n- **Median download speed**: 50.16 Mbps (all technologies), 67.03 Mbps (5G).\n- **Median upload speed**: Not specified, but adequate.\n- **Latency**: Not specified, but generally acceptable.\n- **Consistency**: Lower than Telekom and Vodafone."
-    arcep_note: "Confirmed by the local telecom authority (Bundesnetzagentur) as a major 5G spectrum holder with aggressive rollout."
-    connect_note: "Activation works seamlessly with Roami eSIM. Instant QR code delivery, no physical SIM needed."
-    user_scenarios: "- **Munich Oktoberfest**: With 72.4% 5G availability, you'll enjoy fast uploads of videos and photos even in crowded festival grounds.\n- **Hamburg Speicherstadt**: 5G connectivity for quick navigation and streaming in this historic warehouse district.\n- **Cologne Cathedral**: Stay on 5G while exploring the city center and sharing your experience in real time."
+    title: "Test eSIM O2 : Meilleure disponibilité 5G"
+    best_for: "Ce forfait est le meilleur choix absolu pour les utilisateurs qui veulent être connectés en 5G le plus souvent possible, même si les débits de pointe sont légèrement inférieurs."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025), O2 a la meilleure disponibilité 5G avec 72,4% de ses utilisateurs accédant au réseau 5G la plupart du temps.\n- **Débit descendant médian** : 50,16 Mbps (toutes technologies), 67,03 Mbps (5G).\n- **Débit montant médian** : Données non spécifiées, mais suffisantes pour les usages courants.\n- **Latence** : Non spécifiée, mais correcte.\n- **Consistance** : Bonne, mais inférieure à Telekom et Vodafone.\n- **Couverture** : Très bonne dans les grandes villes et en amélioration constante dans les zones péri-urbaines."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (Bundesnetzagentur) : O2 a investi massivement dans la densification de son réseau 5G."
+    connect_note: "L'activation se déroule sans problème via le QR code Roami. Idéal pour une utilisation quotidienne sans souci."
+    user_scenarios: "- **Oktoberfest, Munich** : Restez connecté avec vos amis dans la foule. Téléchargez l'application de la fête et partagez vos stories sans latence.\n- **Gare centrale de Francfort (Frankfurt Hauptbahnhof)** : Profitez d'une connexion 5G stable pour le travail en déplacement, même dans les zones très fréquentées.\n- **Carnaval de Cologne (Kölner Karneval)** : Diffusez en direct les défilés et les festivités sans interruption."
     bg_color: "bg-blue-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Deutschland eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Deutschland eSIM and local 5G bands"
-cards_free_title: "Get your free Deutschland eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Allemagne"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Allemagne et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Allemagne gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Deutschland eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Allemagne"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Deutschland"
-    content: "German operators use a mix of bands: 4G (LTE) on 800 MHz (Band 20), 1800 MHz (Band 3), 2600 MHz (Band 7); 5G on 3.6 GHz (n78), 700 MHz (n28), and 2100 MHz (n1). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Principales bandes 5G/4G en Allemagne"
+    content: "Les opérateurs allemands utilisent principalement les bandes 5G suivantes : n1 (2100 MHz), n3 (1800 MHz), n28 (700 MHz - couverture étendue), n78 (3500 MHz - haute capacité) et n258 (26 GHz - mmWave, limité). Pour la 4G/LTE, les bandes principales sont B1 (2100 MHz), B3 (1800 MHz), B7 (2600 MHz), B8 (900 MHz) et B20 (800 MHz). Assurez-vous que votre smartphone est compatible avec ces bandes pour une expérience optimale."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "In Germany, eSIM providers typically require identity verification (KYC). You may need to upload a passport or ID card. Roami simplifies this with instant activation after purchase, but some local providers may ask for additional documents."
+  - heading: "2. Exigence d'identification (KYC) pour les eSIM"
+    content: "En Allemagne, la réglementation KYC (Know Your Customer) est obligatoire pour toute carte SIM, y compris les eSIM. Vous devrez fournir une pièce d'identité valide (passeport ou carte d'identité) lors de l'activation. Roami simplifie ce processus en ligne : téléchargez simplement une photo de votre document et une photo de vous-même. L'activation est généralement instantanée après vérification."
 
-  - heading: "3. Fair Usage Policy (FUP) and throttling"
-    content: "Many unlimited data plans in Germany have a Fair Usage Policy. After a certain threshold (e.g., 10-50 GB per month), speeds may be throttled to 1-10 Mbps. Always check the FUP before buying to avoid surprises."
+  - heading: "3. Politiques de limitation de débit (FUP) et données illimitées"
+    content: "Les forfaits dits 'illimités' en Allemagne sont souvent soumis à une politique d'utilisation équitable (FUP). Après un certain volume de données (généralement entre 10 et 50 Go par jour ou par mois), le débit peut être réduit à 1 Mbps ou moins. Vérifiez les conditions de votre forfait Roami : certains offrent une véritable data illimitée sans réduction, d'autres appliquent un FUP après un seuil élevé."
 
-  - heading: "4. eSIM compatibility and dual-SIM setup"
-    content: "Most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer) support eSIM. You can keep your home SIM active for calls while using the Deutschland eSIM for data."
+  - heading: "4. Couverture réseau : villes vs zones rurales"
+    content: "Les grandes villes comme Berlin, Munich, Hambourg, Francfort et Düsseldorf bénéficient d'une excellente couverture 5G de tous les opérateurs. En zone rurale, Telekom et Vodafone offrent la meilleure couverture, tandis qu'O2 peut être moins performant. Si vous prévoyez de voyager dans des régions comme la Forêt-Noire, la Bavière ou le Mecklembourg-Poméranie-Occidentale, privilégiez un opérateur avec une forte présence rurale."
 
-  - heading: "5. Network coverage in rural vs urban areas"
-    content: "Telekom and Vodafone offer the best rural coverage. O2 has excellent 5G availability in cities but may be weaker in remote areas. Check coverage maps before traveling to the countryside."
+  - heading: "5. Compatibilité des smartphones avec les eSIM allemandes"
+    content: "La plupart des smartphones récents (iPhone XS et ultérieurs, Google Pixel 3 et ultérieurs, Samsung Galaxy S20 et ultérieurs, etc.) sont compatibles avec les eSIM. Cependant, certains modèles achetés aux États-Unis ou en Chine peuvent être verrouillés ou ne pas prendre en charge les eSIM. Vérifiez les paramètres de votre téléphone avant de partir. Roami fournit une liste de <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> sur son site."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Deutschland"
-city_guide_desc: "Find out which Deutschland eSIM is the best choice for your destination city based on real performance data from 1H 2025."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Allemagne"
+city_guide_desc: "Découvrez quelle eSIM Allemagne est le meilleur choix pour votre ville de destination. Les performances varient selon l'opérateur et la densité urbaine."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
   - city: "Berlin"
     carriers: "Telekom"
-    reason: "As the capital with dense population, Telekom's 99.01 Mbps median download ensures fast connectivity in busy areas like Alexanderplatz and Brandenburg Gate."
+    reason: "Capitale dynamique avec une forte demande de données. Telekom offre les meilleurs débits (99,01 Mbps médian) et la meilleure expérience de streaming et de jeux, idéal pour les nomades numériques et les touristes connectés."
 
   - city: "Munich"
     carriers: "Telekom"
-    reason: "Munich recorded the fastest fixed download speed (108.1 Mbps) and benefits from Telekom's top mobile network. Ideal for business travelers and Oktoberfest visitors."
+    reason: "Munich est la ville la plus rapide pour le fixe (108,1 Mbps) et excellente en mobile. Telekom garantit une connexion premium pour le travail et les loisirs, notamment lors de l'Oktoberfest ou dans les parcs technologiques."
 
   - city: "Düsseldorf"
     carriers: "Telekom"
-    reason: "Düsseldorf is the fastest mobile city with 148.6 Mbps median download. Telekom's network excels here, perfect for digital nomads and conference attendees."
+    reason: "Düsseldorf détient le record de la vitesse mobile médiane la plus rapide d'Allemagne (148,6 Mbps). Telekom est le choix évident pour profiter de cette performance exceptionnelle, parfait pour les voyageurs d'affaires."
 
-  - city: "Hamburg"
-    carriers: "O2"
-    reason: "O2's 72.4% 5G availability is great for Hamburg's port and modern districts. You'll stay on 5G most of the time for streaming and navigation."
-
-  - city: "Cologne"
+  - city: "Francfort"
     carriers: "Vodafone"
-    reason: "Vodafone's strong rural coverage extends to Cologne's outskirts and the Rhine valley. Reliable speeds for exploring the cathedral and surrounding areas."
+    reason: "Hub financier et aéroportuaire majeur. Vodafone offre un excellent équilibre entre vitesse (69,87 Mbps) et couverture, idéal pour les déplacements professionnels et les correspondances."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+  - city: "Hambourg"
+    carriers: "O2"
+    reason: "Grand port et ville culturelle. O2 offre la meilleure disponibilité 5G (72,4%), ce qui est parfait pour rester connecté dans les zones très fréquentées comme la Speicherstadt et le port."
+
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Deutschland eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Allemagne selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Visit museums, landmarks, and busy squares. Telekom's low latency (35 ms) ensures quick map loading and smooth video streaming while you navigate cities like Berlin or Munich."
+    title: "Découvreur de villes"
+    text: "Explorez Berlin, Munich et Cologne avec une connexion 5G ultra-rapide. Téléchargez des guides, réservez des billets et partagez vos expériences en temps réel. Telekom est recommandé pour les meilleurs débits."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike in the Black Forest or along the Rhine. Vodafone's rural coverage keeps you connected for GPS and emergency calls even in remote areas."
+    title: "Amoureux de la nature"
+    text: "Randonnez dans la Forêt-Noire ou le parc national de la Suisse saxonne. Vodafone offre une couverture rurale étendue pour la navigation GPS et les appels d'urgence. O2 peut être moins fiable dans ces zones."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the Autobahn or scenic routes. Telekom's 99.01 Mbps median download allows uninterrupted music streaming and real-time traffic updates."
+    title: "Roadtrippeur"
+    text: "Parcourez la Route Romantique ou la Route des Alpes allemandes. Telekom et Vodafone assurent une connexion stable sur les autoroutes et dans les petites villes. Streaming et navigation sans interruption."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on Baltic or North Sea beaches. O2's high 5G availability (72.4%) means fast uploads of vacation photos and videos."
+    title: "Vacancier à la plage"
+    text: "Profitez des plages de la mer du Nord et de la Baltique (îles de Sylt, Rügen). O2 offre une bonne disponibilité 5G dans les stations balnéaires, tandis que Telekom garantit les meilleurs débits pour le streaming de films et de musique."
 
-scene_guide_footer: "💡 The Roami Deutschland eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Allemagne détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Deutschland eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Allemagne"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Is identity verification (KYC) or passport registration required to purchase and use the Deutschland eSIM?"
-    a: "Yes, German regulations require identity verification for prepaid SIMs. Roami's eSIM may require a passport upload during activation. Some providers offer simplified KYC, but always be prepared to provide ID."
+  - q: "À quels opérateurs mobiles locaux l'eSIM Roami se connecte-t-elle en Allemagne ?"
+    a: "L'eSIM Roami se connecte automatiquement aux trois principaux opérateurs allemands : Telekom, Vodafone et O2. Selon les données Speedtest du 1er semestre 2025, Telekom est le meilleur réseau global avec un débit descendant médian de 99,01 Mbps et une expérience 5G exceptionnelle. Vodafone offre un bon équilibre (69,87 Mbps) et O2 se distingue par la meilleure disponibilité 5G (72,4% du temps). Roami sélectionne intelligemment le réseau le plus performant en fonction de votre position et de la qualité du signal."
 
-  - q: "Does the Deutschland eSIM support dialing local numbers or receiving SMS messages?"
-    a: "Most travel eSIMs, including Roami's, are data-only. They do not support voice calls or SMS. You can use VoIP apps like WhatsApp or Skype for calls. Check the product details before purchasing."
+  - q: "La vitesse Internet en Allemagne est-elle affectée lorsque plusieurs appareils sont connectés simultanément via le hotspot eSIM ?"
+    a: "Oui, le partage de connexion (hotspot) divise la bande passante entre les appareils connectés. Si vous utilisez un forfait avec un plafond de données, le débit peut être réduit après avoir atteint le seuil FUP. Pour une expérience optimale avec plusieurs appareils, nous recommandons un forfait haut débit (comme celui basé sur Telekom) et de limiter le nombre d'appareils connectés à 2 ou 3. Les débits médians de Telekom (99,01 Mbps) permettent une utilisation confortable pour la navigation et le streaming même en partage."
 
-  - q: "Is there a specific data usage threshold (e.g., after 2 GB per day) after which the speed of the Deutschland eSIM is reduced?"
-    a: "Some plans have a daily fair usage cap (e.g., 2 GB per day at full speed, then throttled to 128 kbps). Roami's unlimited plans may have a total data cap before throttling. Always read the terms to avoid speed reductions."
+  - q: "Y a-t-il des différences de vitesse notables entre les différentes régions et villes de Allemagne ?"
+    a: "Absolument. Selon Speedtest, Düsseldorf est la ville la plus rapide pour le mobile avec un débit médian de 148,6 Mbps, suivie de Munich (excellente pour le fixe). Les grandes villes comme Berlin, Hambourg et Francfort offrent généralement des vitesses élevées, surtout avec Telekom. En revanche, les zones rurales (Forêt-Noire, Bavière) peuvent avoir des vitesses plus faibles, surtout avec O2. Vodafone et Telekom offrent la meilleure couverture rurale. Les débits médians nationaux sont de 99,01 Mbps (Telekom), 69,87 Mbps (Vodafone) et 50,16 Mbps (O2)."
 
-  - q: "Does Roami offer refunds if the Deutschland eSIM does not work, and what are the conditions?"
-    a: "Roami typically offers a refund if the eSIM fails to activate or does not work on your device, provided you contact support within a specified period (e.g., 30 days). Check Roami's refund policy for exact conditions."
+  - q: "Aurai-je un signal réseau avec l'eSIM même dans les métros, les vallées profondes ou les zones reculées en Allemagne ?"
+    a: "Dans les métros des grandes villes (Berlin, Munich, Hambourg), la couverture est généralement bonne grâce à des répéteurs et à la 5G. Cependant, dans les tunnels profonds ou les vallées reculées (comme certaines parties de la Forêt-Noire ou des Alpes bavaroises), le signal peut être faible ou inexistant. Telekom et Vodafone offrent la meilleure couverture dans ces zones difficiles. O2 peut être moins fiable. Pour les zones très reculées, nous recommandons de télécharger des cartes hors ligne à l'avance."
 
-  - q: "Do unlimited plans in Deutschland have a strict Fair Usage Policy (FUP) or bandwidth throttling?"
-    a: "Yes, most unlimited plans in Germany have a FUP. After a certain data volume (e.g., 10-50 GB), speeds may be throttled to 1-10 Mbps. Telekom, Vodafone, and O2 all enforce FUPs. Always verify the policy before buying."
+  - q: "Puis-je installer l'eSIM de voyage Allemagne à l'avance depuis chez moi avant mon départ ?"
+    a: "Oui, absolument. Roami vous permet d'acheter et d'installer votre eSIM Allemagne avant votre départ. Vous recevrez un QR code par email que vous pourrez scanner depuis chez vous. L'activation se fait automatiquement dès que vous arrivez en Allemagne et que vous vous connectez à un réseau local. Cela vous évite toute manipulation à l'étranger et vous garantit une connexion immédiate à l'atterrissage."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Deutschland eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Allemagne"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "All German networks have the same coverage."
-    truth: "False. Telekom leads in speed and consistency, Vodafone excels in rural areas, and O2 has the best 5G availability. Coverage varies significantly by operator and location."
+  - myth: "Tous les opérateurs offrent la même vitesse 5G en Allemagne."
+    truth: "Faux. Telekom est clairement en tête avec un débit descendant médian 5G de 159,46 Mbps, contre 103,08 Mbps pour Vodafone et 67,03 Mbps pour O2. Les différences sont significatives, surtout pour le streaming et les téléchargements lourds."
 
-  - myth: "5G is available everywhere in Germany."
-    truth: "Not yet. While O2 has 72.4% 5G availability, rural areas may still rely on 4G. Check coverage maps for your specific destinations."
+  - myth: "La 5G est disponible partout en Allemagne."
+    truth: "Non. Bien que la couverture 5G s'étende rapidement, elle reste concentrée dans les grandes villes et les axes principaux. O2 a la meilleure disponibilité (72,4% du temps), mais Telekom et Vodafone offrent une meilleure couverture rurale. Dans les zones très reculées, vous pouvez basculer en 4G."
 
-  - myth: "eSIM activation is instant without any verification."
-    truth: "German law requires KYC for prepaid SIMs. You may need to upload a passport or ID. Roami simplifies this, but verification is still mandatory."
+  - myth: "Les forfaits eSIM sont plus chers que les cartes SIM physiques."
+    truth: "Pas nécessairement. Les eSIM de voyage comme Roami offrent des tarifs compétitifs, souvent sans frais d'itinérance. De plus, vous économisez sur les frais de livraison et vous pouvez changer de forfait instantanément. Comparez les offres : certaines eSIM sont moins chères que les forfaits prépayés locaux."
 
-  - myth: "Unlimited data plans have no speed limits."
-    truth: "Most unlimited plans have a Fair Usage Policy. After a threshold, speeds are throttled. Always read the fine print."
+  - myth: "Vous devez être un expert en technologie pour installer une eSIM."
+    truth: "Faux. L'installation est très simple : achetez le forfait, scannez le QR code reçu par email, et suivez les instructions à l'écran. La plupart des smartphones récents gèrent les eSIM nativement. Roami fournit un guide étape par étape en français."
 
-  - myth: "You can use a Deutschland eSIM for voice calls."
-    truth: "Travel eSIMs are usually data-only. For voice calls, use VoIP apps. Some local providers offer voice-enabled eSIMs, but they require additional KYC."
+  - myth: "Les eSIM ne fonctionnent pas avec les hotspots Wi-Fi."
+    truth: "Faux. La plupart des eSIM, y compris celles de Roami, permettent le partage de connexion (hotspot). Vous pouvez connecter votre ordinateur, votre tablette ou d'autres appareils. Attention toutefois à la limitation FUP qui peut réduire le débit après un certain volume de données partagées."
 
 
 # Data sources
-data_sources_title: "Deutschland mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Allemagne"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla's Speedtest Intelligence data for 1H 2025 provides median download/upload speeds, latency, consistency, and 5G availability for Telekom, Vodafone, and O2 in Germany."
+  - name: "Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025)"
+    description: "Analyse des performances des réseaux mobiles et fixes en Allemagne pour le 1er semestre 2025. Données issues de millions de tests réalisés par les utilisateurs de Speedtest."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's mobile network experience reports for Germany, including 5G availability, video streaming, and gaming scores."
+    description: "Rapport sur l'expérience mobile en Allemagne, incluant la disponibilité 5G, les vitesses de téléchargement et la qualité du streaming vidéo."
 
   - name: "Bundesnetzagentur 2025"
-    description: "The German Federal Network Agency (Bundesnetzagentur) publishes spectrum holdings, coverage obligations, and network quality benchmarks for all operators."
+    description: "Rapport officiel de l'agence fédérale des réseaux allemande sur la couverture mobile, les obligations des opérateurs et les fréquences attribuées."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are used for informational purposes. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your location, device, time of day, and network congestion. Always check the latest coverage maps before traveling."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public (Ookla, OpenSignal, Bundesnetzagentur) et sont valables pour le 1er semestre 2025. Les performances réelles peuvent varier en fonction de votre emplacement, de votre appareil et des conditions du réseau."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de nombreux facteurs, notamment la météo, l'heure de la journée, le nombre d'utilisateurs connectés et les caractéristiques techniques de votre smartphone. Les données présentées sont des médianes et ne garantissent pas une expérience individuelle."
 
 # CTA product card
-cta_title: "Secure your Deutschland eSIM today"
-cta_desc: "Get immediate access to Telekom, Vodafone, or O2 networks with instant activation. No roaming fees, no physical SIM. Perfect for your next trip to Germany."
-cta_button_text: "Buy Deutschland eSIM now"
+cta_title: "Obtenez votre eSIM Allemagne dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat à Internet 5G haut débit en Allemagne. Pas de frais d'itinérance, activation instantanée par QR code, et couverture sur les meilleurs réseaux (Telekom, Vodafone, O2). Profitez de données illimitées pour tous vos appareils."
+cta_button_text: "Acheter l'eSIM Allemagne maintenant"
 cta_button_link: "/germany-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Deutschland trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Allemagne gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Deutschland eSIM: Perfect for dual‑SIM devices
+# Allemagne eSIM: Internet de voyage plug-and-play instantané
 
-> **💡 Short summary for travelers:** No connection drops on business trips: cost‑effective eSIM plans for global mobility. Roami's Deutschland eSIM leverages Telekom's top‑tier network, which recorded a median download speed of 99.01 Mbps and a 5G median of 159.46 Mbps in 1H 2025. Whether you're in Düsseldorf (fastest mobile city at 148.6 Mbps) or Munich (fastest fixed city at 108.1 Mbps), you get reliable, high‑speed connectivity without roaming fees. Choose Roami for instant activation and seamless dual‑SIM use.
+> **💡 Résumé rapide pour les voyageurs :** Dites adieu aux frais d'itinérance élevés : données 5G illimitées pour plusieurs appareils. Avec Roami eSIM Allemagne, vous accédez aux réseaux premium Telekom, Vodafone et O2. Selon les données Speedtest du 1er semestre 2025, Telekom offre un débit descendant médian de 99,01 Mbps (toutes technologies) et 159,46 Mbps en 5G, tandis que Düsseldorf atteint 148,6 Mbps en mobile. Profitez d'une connexion ultra-rapide et fiable pour le travail, le streaming et les appels, sans surprise de facture.
 
-## Things you need to know before buying a Deutschland eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Allemagne
 
 
-### 1. Main 5G/4G frequency bands in Deutschland {#1-main-5g4g-frequency-bands-in-deutschland}
-German operators use a mix of bands: 4G (LTE) on 800 MHz (Band 20), 1800 MHz (Band 3), 2600 MHz (Band 7); 5G on 3.6 GHz (n78), 700 MHz (n28), and 2100 MHz (n1). Ensure your device supports these bands for optimal performance.
+### 1. Principales bandes 5G/4G en Allemagne {#1-principales-bandes-5g4g-en-allemagne}
+Les opérateurs allemands utilisent principalement les bandes 5G suivantes : n1 (2100 MHz), n3 (1800 MHz), n28 (700 MHz - couverture étendue), n78 (3500 MHz - haute capacité) et n258 (26 GHz - mmWave, limité). Pour la 4G/LTE, les bandes principales sont B1 (2100 MHz), B3 (1800 MHz), B7 (2600 MHz), B8 (900 MHz) et B20 (800 MHz). Assurez-vous que votre smartphone est compatible avec ces bandes pour une expérience optimale.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-In Germany, eSIM providers typically require identity verification (KYC). You may need to upload a passport or ID card. Roami simplifies this with instant activation after purchase, but some local providers may ask for additional documents.
+### 2. Exigence d'identification (KYC) pour les eSIM {#2-exigence-didentification-kyc-pour-les-esim}
+En Allemagne, la réglementation KYC (Know Your Customer) est obligatoire pour toute carte SIM, y compris les eSIM. Vous devrez fournir une pièce d'identité valide (passeport ou carte d'identité) lors de l'activation. Roami simplifie ce processus en ligne : téléchargez simplement une photo de votre document et une photo de vous-même. L'activation est généralement instantanée après vérification.
 
-### 3. Fair Usage Policy (FUP) and throttling {#3-fair-usage-policy-fup-and-throttling}
-Many unlimited data plans in Germany have a Fair Usage Policy. After a certain threshold (e.g., 10-50 GB per month), speeds may be throttled to 1-10 Mbps. Always check the FUP before buying to avoid surprises.
+### 3. Politiques de limitation de débit (FUP) et données illimitées {#3-politiques-de-limitation-de-débit-fup-et-données-illimitées}
+Les forfaits dits 'illimités' en Allemagne sont souvent soumis à une politique d'utilisation équitable (FUP). Après un certain volume de données (généralement entre 10 et 50 Go par jour ou par mois), le débit peut être réduit à 1 Mbps ou moins. Vérifiez les conditions de votre forfait Roami : certains offrent une véritable data illimitée sans réduction, d'autres appliquent un FUP après un seuil élevé.
 
-### 4. eSIM compatibility and dual-SIM setup {#4-esim-compatibility-and-dual-sim-setup}
-Most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer) support eSIM. You can keep your home SIM active for calls while using the Deutschland eSIM for data.
+### 4. Couverture réseau : villes vs zones rurales {#4-couverture-réseau--villes-vs-zones-rurales}
+Les grandes villes comme Berlin, Munich, Hambourg, Francfort et Düsseldorf bénéficient d'une excellente couverture 5G de tous les opérateurs. En zone rurale, Telekom et Vodafone offrent la meilleure couverture, tandis qu'O2 peut être moins performant. Si vous prévoyez de voyager dans des régions comme la Forêt-Noire, la Bavière ou le Mecklembourg-Poméranie-Occidentale, privilégiez un opérateur avec une forte présence rurale.
 
-### 5. Network coverage in rural vs urban areas {#5-network-coverage-in-rural-vs-urban-areas}
-Telekom and Vodafone offer the best rural coverage. O2 has excellent 5G availability in cities but may be weaker in remote areas. Check coverage maps before traveling to the countryside.
+### 5. Compatibilité des smartphones avec les eSIM allemandes {#5-compatibilité-des-smartphones-avec-les-esim-allemandes}
+La plupart des smartphones récents (iPhone XS et ultérieurs, Google Pixel 3 et ultérieurs, Samsung Galaxy S20 et ultérieurs, etc.) sont compatibles avec les eSIM. Cependant, certains modèles achetés aux États-Unis ou en Chine peuvent être verrouillés ou ne pas prendre en charge les eSIM. Vérifiez les paramètres de votre téléphone avant de partir. Roami fournit une liste de <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> sur son site.

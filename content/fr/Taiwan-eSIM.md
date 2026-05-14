@@ -1,102 +1,98 @@
 ---
-title: Taiwan eSIM Data Plan | Best 2026 Travel eSIM | Roami
+title: Forfait eSIM Taïwan | Meilleur eSIM voyage 2026 | Roami
 date: '2026-03-29T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Taiwan eSIM
-  scenario_keywords: Taipei sightseeing, night market exploring, high-speed rail travel,
-    hot springs relaxation
+  core_keyword: eSIM Taïwan
+  scenario_keywords: Visite de Taipei, exploration des marchés de nuit, voyage en train à grande vitesse, détente dans les sources chaudes
   operators: Chunghwa Telecom, FarEasTone, Taiwan Mobile
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Taipei, New Taipei City, Taichung, Kaohsiung, Tainan
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_cities: Taipei, Nouveau Taipei, Taichung, Kaohsiung, Tainan
+  main_packages: 3/7/15/30 Jours, Données illimitées
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: Service mis à jour !
+  btn_text: Continuer
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
 seo:
-  title: Taiwan eSIM | 20% OFF| Native 5G for Business Trips | Roami
-  description: Planning a trip to Taiwan? Experience 24/7 Data and seamless Native
-    5G from Chunghwa Telecom. Enjoy Zero Contracts and Seamless Coverage, tailored
-    for Business Trips.
-  keywords: Taiwan eSIM, prepaid eSIM Taiwan, unlimited data Taiwan, cheap eSIM Taiwan,
-    travel internet Taiwan
+  title: eSIM Taïwan | 20% DE RÉDUCTION | 5G native pour voyages d'affaires | Roami
+  description: Vous planifiez un voyage à Taïwan ? Profitez d'une connexion data 24/7 et d'une 5G native transparente de Chunghwa Telecom. Sans engagement et couverture complète, adapté aux voyages d'affaires.
+  keywords: eSIM Taïwan, eSIM prépayée Taïwan, données illimitées Taïwan, eSIM pas cher Taïwan, internet voyage Taïwan
   low_price: 1.99
   high_price: 39.9
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: Forfait sélectionné
+  label_data: Données incluses
+  label_validity: Validité
+  label_daily: Moyenne journalière
+  label_total: Prix total
+  btn_primary: Obtenir 20% de réduction
+  btn_secondary: 'Code : web20'
 breadcrumbs:
-- label: Home
+- label: Accueil
   url: /
-- label: Taiwan eSIM
+- label: eSIM Taïwan
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Taiwan
-  title: Best eSIM for Taiwan
+  alt: Meilleur eSIM pour Taïwan
+  title: Meilleur eSIM pour Taïwan
 hero:
   flag_image: img/flags/tw.svg
-  flag_alt: Taiwan Flag
-  title: Taiwan eSIM data plan
-  subtitle: Worry-free internet | Bestseller | Top rated
+  flag_alt: Drapeau de Taïwan
+  title: Forfait eSIM Taïwan
+  subtitle: Internet sans souci | Meilleure vente | Très bien noté
 features:
-  title: Why Travelers Choose Roami
+  title: Pourquoi les voyageurs choisissent Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: Code QR instantané
+    desc: Livré en 5 min
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: Support 24/7
+    desc: Toujours là pour vous aider
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: Non disponible
+    desc: Protection remboursement
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: Point d'accès supporté
+    desc: Partagez avec d'autres appareils
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: Sans engagement
+    desc: Annulez à tout moment, librement
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: Commutation automatique
+    desc: Connectez-vous aux meilleurs opérateurs
+plans_title: Choisissez votre forfait
 plans_data:
   7 Days:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour votre voyage
     price: '13.99'
     oldPrice: '20.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.00'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour les courts voyages d'affaires
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.28'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour les visites touristiques
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -104,24 +100,24 @@ plans_data:
     daily: '0.57'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour un voyage approfondi
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour un voyage approfondi
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '1.57'
   - spec: Unlimited traffic
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Haut débit illimité
+    desc: Utilisation des données sans souci
     price: '20.99'
     oldPrice: '31.48'
     tag: Premium
@@ -129,16 +125,16 @@ plans_data:
     daily: '3.00'
   30 Days:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour votre voyage
     price: '22.99'
     oldPrice: '34.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.77'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour les visites touristiques
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -146,40 +142,40 @@ plans_data:
     daily: '0.20'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour un voyage approfondi
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '0.27'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour un voyage approfondi
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '0.43'
   - spec: Unlimited traffic
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Haut débit illimité
+    desc: Utilisation des données sans souci
     price: '69.99'
     oldPrice: '104.98'
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.33'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour votre voyage
     price: '31.99'
     oldPrice: '47.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.07'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour votre voyage
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
@@ -187,8 +183,8 @@ plans_data:
     daily: '1.00'
   15 Days:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour les visites touristiques
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -196,40 +192,40 @@ plans_data:
     daily: '0.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour un voyage approfondi
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '0.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour un voyage approfondi
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '0.87'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Haut débit illimité
+    desc: Utilisation des données sans souci
     price: '42.99'
     oldPrice: '64.48'
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.87'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour votre voyage
     price: '20.99'
     oldPrice: '31.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.40'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour votre voyage
     price: '25.99'
     oldPrice: '38.98'
     tag: ''
@@ -237,16 +233,16 @@ plans_data:
     daily: '1.73'
   3 Days:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour les courts voyages d'affaires
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour les visites touristiques
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -254,559 +250,440 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour un voyage approfondi
     price: '5.99'
     oldPrice: '8.98'
-    tag: Great Value
+    tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '2.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour un voyage approfondi
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '3.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: Haut débit illimité
+    desc: Utilisation des données sans souci
     price: '9.99'
     oldPrice: '14.98'
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.33'
 discount_banner:
-  title: Special Discount!
+  title: Réduction spéciale !
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    Utilisez le code promo <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> lors du paiement pour obtenir <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% DE RÉDUCTION</span> sur votre commande !
+  btn_text: Profiter de la réduction
+  validity: 'Validité : 3 jours'
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: Détails de la couverture réseau
+  supports_text: 'Supporte :'
   service_details:
-    title: Service Details
+    title: Détails du service
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Taiwan, including major cities
-        like Taipei, Taichung, Kaohsiung. Our Taiwan eSIM seamlessly connects to the
-        robust networks of Chunghwa Telecom, FarEasTone, Taiwan Mobile, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: Couverture
+      desc: Profitez d'une couverture réseau complète à Taïwan, y compris les grandes villes comme Taipei, Taichung, Kaohsiung. Notre eSIM Taïwan se connecte de manière transparente aux réseaux robustes de Chunghwa Telecom, FarEasTone, Taiwan Mobile, garantissant un signal stable dans les centres urbains, les lieux touristiques et le long des principaux axes de transport.
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: Délai de livraison
+      desc: Livraison immédiate après l'achat.
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: Point d'accès
+      desc: Aucune limite ou restriction de partage de connexion.
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: Réseaux partenaires
+    badge: Partenaire officiel
     items:
     - name: Chunghwa Telecom
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: Faible latence
+      network: Réseau 5G/4G/LTE
     - name: FarEasTone
-      coverage: Reliability
-      network: 5G/4G/LTE Network
+      coverage: Fiabilité
+      network: Réseau 5G/4G/LTE
     - name: Taiwan Mobile
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: IP native
+      network: Réseau 5G/4G/LTE
 reminders:
-  title: Important Reminders
+  title: Rappels importants
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      Assurez-vous que votre téléphone est <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatible eSIM</a> avant l'achat.
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Taiwan.
+    html: Nous recommandons d'activer la ligne après votre arrivée à Taïwan.
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: La validité commence à la connexion à un réseau pris en charge.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Le code QR sera envoyé à votre adresse e-mail.
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: Vous pouvez installer plusieurs eSIM simultanément.
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: Vérification rapide de compatibilité
+    desc: 'Vous ne savez pas si votre téléphone prend en charge l''eSIM ? Vous pouvez le vérifier facilement vous-même dès maintenant :'
+    instruction: 'Composez ceci sur le clavier de votre téléphone :'
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> apparaît à l'écran, votre appareil est compatible !
 activation_steps:
-  title: Activation Steps
+  title: Étapes d'activation
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 'Étape 1 : Recevoir le code QR'
+    desc: Après paiement, un code QR et un guide d'activation vous seront envoyés par e-mail dans les 5 minutes. Veuillez vérifier votre dossier spam si vous ne le voyez pas.
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 'Étape 2 : Ajouter l''eSIM au téléphone'
     is_list: true
     list_items:
     - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+      Allez dans Paramètres > Cellulaire (ou Données mobiles)
+    - Appuyez sur 'Ajouter un forfait cellulaire' ou 'Ajouter eSIM'
+    - Scannez le code QR avec votre appareil photo
+    - Suivez les instructions pour terminer la configuration
   - num: '3'
-    title: 'Step 3: Activate in Taiwan'
-    desc: Upon arriving in Taiwan, enable your Taiwan eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 'Étape 3 : Activer à Taïwan'
+    desc: À votre arrivée à Taïwan, activez votre eSIM Taïwan dans les paramètres pour commencer à utiliser les données. Nous vous recommandons de vous connecter au Wi-Fi lors de l'activation initiale.
     is_list: false
 faq_section:
-  title: Taiwan eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Taiwan eSIM across different
-    travel scenarios.
+  title: FAQ eSIM Taïwan et guide de voyage
+  desc: Tout ce que vous devez savoir sur l'utilisation de votre eSIM Taïwan selon différents scénarios de voyage.
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: Général
+    title: 1. Questions générales
     questions:
-    - q: Does my phone support the Taiwan eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Taiwan eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Taiwan eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Taiwan and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Taiwan eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Taiwan eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Taiwan that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Taiwan eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Taiwan eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Taiwan eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Taiwan eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Taiwan,
-        such as Chunghwa Telecom, FarEasTone, Taiwan Mobile, to ensure premium speeds
-        at a fraction of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, Nomad eSIM,
-        esim io, Holafly?
-      a: While great companies like Airalo, Nomad eSIM, esim io, Holafly offer reliable
-        services, we focus on providing the most cost-effective Taiwan eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: Mon téléphone est-il compatible avec l'eSIM Taïwan ? Comment l'installer ?
+      a: La plupart des smartphones modernes à partir de l'iPhone XS/XR, du Samsung Galaxy S20+ et du Google Pixel 3+ prennent en charge l'eSIM. Vous pouvez installer votre eSIM Taïwan simplement en scannant le code QR que nous vous envoyons par e-mail dans les paramètres Cellulaire/Données mobiles de votre téléphone.
+    - q: Comment acheter et activer l'eSIM Taïwan ? Est-elle active immédiatement ?
+      a: Vous pouvez l'acheter directement sur notre site web. Elle n'est pas active immédiatement après l'achat ; la période de validité ne commence que lorsque vous arrivez à Taïwan et que votre téléphone se connecte au réseau local.
+    - q: Qu'est-ce qu'un code QR d'activation ? Expire-t-il ? Peut-il être réutilisé ?
+      a: Le code QR est votre profil SIM numérique pour l'eSIM Taïwan. Il doit généralement être installé dans les 30 jours suivant l'achat. Une fois installé, il ne peut pas être scanné à nouveau ni transféré vers un autre appareil.
+    - q: Puis-je obtenir un remboursement si l'eSIM Taïwan ne fonctionne pas ou a un mauvais signal ?
+      a: Oui, nous offrons une garantie de remboursement. Si vous rencontrez des problèmes de réseau persistants à Taïwan que notre équipe de support ne peut pas résoudre, vous avez droit à un remboursement.
+    - q: Proposez-vous une assistance client 24/7 ? Comment puis-vous contacter ?
+      a: Oui, notre équipe de support technique est disponible 24h/24 et 7j/7. Vous pouvez nous joindre via le chat en direct sur notre site web ou en répondant à votre e-mail de confirmation de commande.
+    - q: Existe-t-il des codes de réduction ? Comment utiliser le code promo 'web20' ?
+      a: Oui ! Vous pouvez saisir le code promo 'web20' sur la page de paiement pour bénéficier instantanément d'une réduction de 20 % sur votre commande d'eSIM Taïwan.
+    - q: Votre forfait « Données illimitées » est-il vraiment illimité ? Existe-t-il une politique d'utilisation équitable (FUP) ?
+      a: Nos forfaits Illimités fournissent des données continues. Cependant, comme tous les opérateurs mondiaux, une politique d'utilisation équitable (FUP) s'applique pour prévenir les abus de réseau. Si vous consommez une quantité exceptionnellement élevée de données sur une courte période, la vitesse peut être temporairement réduite. Même ainsi, cela n'affectera pas votre navigation web, l'utilisation des réseaux sociaux, le visionnage de vidéos, etc.
+    - q: Puis-je partager les données de mon eSIM Taïwan (point d'accès) avec d'autres appareils ?
+      a: Absolument. Tous nos forfaits eSIM Taïwan prennent en charge le partage de connexion et le modem, vous permettant de partager vos données avec votre ordinateur portable, votre tablette ou vos compagnons de voyage.
+    - q: Quels sont les avantages de votre eSIM Taïwan par rapport aux cartes SIM locales ou à d'autres fournisseurs ?
+      a: Contrairement aux cartes SIM physiques, vous n'avez pas besoin de faire la queue à l'aéroport ni d'échanger de petites cartes en plastique. Nous collaborons directement avec les meilleurs réseaux locaux à Taïwan, tels que Chunghwa Telecom, FarEasTone, Taiwan Mobile, pour garantir des vitesses premium à une fraction des coûts d'itinérance.
+    - q: Comment vous comparez-vous aux fournisseurs d'eSIM bien connus comme Airalo, Nomad eSIM, esim io, Holafly ?
+      a: Bien que d'excellentes entreprises comme Airalo, Nomad eSIM, esim io, Holafly offrent des services fiables, nous nous concentrons sur la fourniture de l'eSIM Taïwan la plus rentable, garantissant une latence plus faible et de meilleurs prix grâce à notre système d'alignement automatique des prix.
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: Aéroports
+    title: 2. Réseau à l'aéroport
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Taiwan eSIM before your flight. Once you land at Taoyuan International
-        Airport (TPE), Taipei Songshan Airport (TSA), Kaohsiung International Airport
-        (KHH), simply turn off Airplane Mode and enable your eSIM line. It will connect
-        to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Taiwan eSIM activated upon landing, you can immediately open Uber,
-        Taiwan High Speed Rail App, YouBike to book a ride or use WhatsApp to message
-        your pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Taiwan eSIM data allows you to open Google Maps right at
-        the baggage claim in Taoyuan International Airport (TPE), Taipei Songshan
-        Airport (TSA), Kaohsiung International Airport (KHH) to check real-time train
-        schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Taiwan eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Taiwan eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Taiwan eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: Comment obtenir un réseau fiable immédiatement après la descente de l'avion ?
+      a: Installez l'eSIM Taïwan avant votre vol. Dès que vous atterrissez à l'aéroport international Taoyuan (TPE), à l'aéroport de Taipei Songshan (TSA), à l'aéroport international de Kaohsiung (KHH), il vous suffit de désactiver le mode Avion et d'activer votre ligne eSIM. Elle se connectera au réseau local 4G/5G en quelques secondes.
+    - q: Comment contacter mon chauffeur pour la prise en charge à l'aéroport ou utiliser Uber/Grab ?
+      a: Avec votre eSIM Taïwan activée dès l'atterrissage, vous pouvez immédiatement ouvrir Uber, l'application Taiwan High Speed Rail, YouBike pour réserver un trajet ou utiliser WhatsApp pour envoyer un message à votre chauffeur pré-réservé, sans dépendre du Wi-Fi capricieux de l'aéroport.
+    - q: Comment utiliser Google Maps/Apple Maps pour trouver les transports ?
+      a: Vos données haut débit de l'eSIM Taïwan vous permettent d'ouvrir Google Maps dès la récupération des bagages à l'aéroport international Taoyuan (TPE), à l'aéroport de Taipei Songshan (TSA), à l'aéroport international de Kaohsiung (KHH) pour vérifier les horaires des trains en temps réel, les itinéraires de bus ou les directions vers la station de taxi.
+    - q: Comment éviter d'acheter des cartes SIM temporaires chères à l'aéroport ?
+      a: En achetant notre eSIM Taïwan en ligne à l'avance, vous contournez complètement les kiosques SIM pièges à touristes dans la salle des arrivées, économisant ainsi du temps et de l'argent.
+    - q: Comment recevoir les SMS de confirmation de l'hôtel/de la location de voiture sans numéro local ?
+      a: Notre eSIM Taïwan fournit uniquement des données. Pour recevoir des SMS, gardez votre carte SIM principale de votre pays d'origine active pour les textos (la réception de SMS est généralement gratuite en itinérance) et utilisez l'eSIM pour tout le trafic de données.
+    - q: Comment contacter immédiatement ma famille pour signaler mon arrivée en toute sécurité et planifier l'itinéraire ?
+      a: Dès que vous touchez le sol, vous pouvez utiliser iMessage, WhatsApp ou FaceTime via les données cellulaires rapides de notre eSIM Taïwan pour informer votre famille que vous êtes bien arrivé.
   - id: faq-transport
     icon: car
     tab_title: Transport
-    title: 3. Transport & Travel
+    title: 3. Transport et voyage
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Taiwan eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Taiwan, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Taiwan High Speed Rail App, YouBike use VoIP (internet calling)
-        and in-app messaging. Since you have active Taiwan eSIM data, drivers can
-        call or message you directly through the app without needing a local phone
-        number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Taiwan eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Taiwan eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Taiwan.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Taiwan eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Taiwan eSIM's data network while on
-        the train or in the car.
+    - q: Comment utiliser Google Maps/Apple Maps pour planifier des itinéraires ?
+      a: La connexion stable de notre eSIM Taïwan garantit que Google Maps peut télécharger les données de trafic en temps réel et les horaires de transport en commun partout à Taïwan, rendant la navigation fluide.
+    - q: Comment permettre aux chauffeurs Uber/Grab de vous contacter via l'application ?
+      a: Les applications comme Uber, l'application Taiwan High Speed Rail, YouBike utilisent la VoIP (appels internet) et la messagerie intégrée. Comme vous disposez de données eSIM Taïwan actives, les chauffeurs peuvent vous appeler ou vous envoyer un message directement via l'application sans avoir besoin d'un numéro de téléphone local.
+    - q: Comment acheter des abonnements de train/métro en ligne ?
+      a: Vous pouvez utiliser vos données eSIM Taïwan pour accéder aux applications de transport locales ou aux sites web afin d'acheter des billets numériques avec code QR en déplacement, évitant ainsi les longues files d'attente aux distributeurs.
+    - q: Comment utiliser Google Maps pour la navigation en temps réel après avoir loué une voiture ?
+      a: Il vous suffit de monter votre téléphone et d'utiliser vos données eSIM Taïwan. Un forfait de 5 Go ou 10 Go fournit plus que suffisamment de données pour une navigation GPS intensive lors d'un road trip à Taïwan.
+    - q: Comment scanner et déverrouiller des trottinettes électriques partagées comme Lime/Bird ?
+      a: Le déverrouillage des trottinettes électriques nécessite une connexion Internet rapide pour traiter le code QR et le paiement. Notre eSIM Taïwan offre la couverture urbaine fiable nécessaire pour cela.
+    - q: Comment assurer le bon fonctionnement des applications de VTC à travers plusieurs pays ?
+      a: Si vous voyagez dans la région, votre compte d'application de VTC reste le même. Assurez-vous simplement d'avoir une connexion Internet active (via notre eSIM locale ou régionale) pour réserver des trajets.
+    - q: Comment fournir un point d'accès personnel stable pour les appareils de la famille ?
+      a: Allez dans les paramètres de votre téléphone, activez « Point d'accès personnel », et votre famille pourra connecter ses téléphones ou iPads au réseau de données de votre eSIM Taïwan dans le train ou la voiture.
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: Hôtels
+    title: 4. Hôtels et hébergement
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Taiwan eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Taiwan eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at W Taipei, Grand Hyatt Taipei, The Okura Prestige
-        Taipei or a local guesthouse, you can input the address into Google Maps and
-        get turn-by-turn walking or transit directions using your Taiwan eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Taiwan eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Taiwan eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Foodpanda, Uber Eats, Oddle and use
-        your Taiwan eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Taiwan eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: Comment effectuer l'auto-enregistrement après une réservation sur Booking.com/Agoda ?
+      a: De nombreuses locations modernes exigent que vous accédiez à un portail en ligne ou que vous consultiez votre e-mail pour un code de serrure connectée. Votre eSIM Taïwan vous permet de récupérer ces détails sur le pas de la porte.
+    - q: Comment contacter immédiatement l'hôte Airbnb pour les consignes à l'arrivée ?
+      a: Vous pouvez utiliser la fonction de messagerie de l'application Airbnb ou WhatsApp pour coordonner votre heure d'arrivée avec votre hôte en utilisant les données mobiles de votre eSIM Taïwan.
+    - q: Comment utiliser Google Maps pour naviguer vers l'hôtel ?
+      a: Que vous séjourniez au W Taipei, au Grand Hyatt Taipei, à l'Okura Prestige Taipei ou dans une maison d'hôtes locale, vous pouvez saisir l'adresse dans Google Maps et obtenir des instructions pas à pas pour la marche ou les transports en commun en utilisant votre eSIM Taïwan.
+    - q: Comment recevoir des codes de vérification par SMS en utilisant le Wi-Fi de l'hôtel et l'eSIM ?
+      a: Gardez votre carte SIM domestique principale active pour les SMS et utilisez le Wi-Fi de l'hôtel ou les données de votre eSIM Taïwan pour déclencher le code de vérification de votre banque ou application.
+    - q: Comment contacter rapidement le service client de Booking/l'hôtel pour modifier des commandes ?
+      a: Vous pouvez utiliser des applications VoIP comme Skype ou les fonctionnalités de chat du service client dans l'application Booking.com en utilisant les données haut débit de votre eSIM Taïwan.
+    - q: Comment commander de la nourriture à l'hôtel via les applications de livraison locales ?
+      a: Si vous arrivez tard, vous pouvez télécharger Foodpanda, Uber Eats, Oddle et utiliser vos données eSIM Taïwan pour commander un repas chaud directement dans le hall de votre hôtel ou dans votre chambre.
+    - q: Comment maintenir la connexion réseau pour communiquer avec l'hôtel après le départ ?
+      a: Dès que vous quittez la zone Wi-Fi de l'hôtel, votre eSIM Taïwan prend automatiquement le relais, vous permettant d'envoyer un message à l'hôtel si vous avez oublié des bagages ou si vous devez organiser un ramassage ultérieur.
   - id: faq-attractions
     icon: landmark
     tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    title: 5. Attractions et loisirs
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Taipei 101, Taroko Gorge, Sun Moon Lake spontaneously,
-        you can use your Taiwan eSIM data to buy skip-the-line tickets online and
-        present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Taiwan eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Taiwan.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Taiwan eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Taiwan eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Taiwan eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Taiwan eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
+    - q: Comment acheter des billets électroniques via GetYourGuide/Viator ?
+      a: Si vous décidez de visiter Taipei 101, les gorges de Taroko, le lac Soleil et Lune de manière spontanée, vous pouvez utiliser vos données eSIM Taïwan pour acheter des billets coupe-file en ligne et présenter le code-barres sur votre écran.
+    - q: Comment réserver immédiatement des expériences sur Tripadvisor ?
+      a: Avec une 4G/5G fiable de votre eSIM Taïwan, vous pouvez lire les avis et réserver des visites ou expériences locales sur Tripadvisor tout en prenant un café dans un café à proximité.
+    - q: Comment utiliser Google/Wikipédia pour rechercher des informations pendant la visite ?
+      a: Améliorez votre expérience culturelle en recherchant instantanément des faits historiques ou en traduisant des plaques de musée tout en explorant Taïwan.
+    - q: Comment utiliser Google Maps pour naviguer vers la prochaine attraction ?
+      a: Tapez simplement votre prochaine destination dans Google Maps ; la forte couverture urbaine de votre eSIM Taïwan vous guidera via l'itinéraire de marche ou de transport en commun le plus rapide.
+    - q: Comment vérifier les temps d'attente en temps réel dans les parcs à thème comme Disney ?
+      a: Les applications des parcs à thème nécessitent un accès Internet constant pour afficher les temps d'attente en direct et réserver des fast passes. Votre eSIM Taïwan vous gardera connecté dans tout le parc.
+    - q: Comment accéder à Ticketmaster pour réserver des billets de spectacle ?
+      a: Vous pouvez parcourir et acheter en toute sécurité des billets de théâtre ou de concert de dernière minute via les applications de billetterie en utilisant les données cellulaires de votre eSIM Taïwan.
+    - q: Comment partager instantanément des photos/vidéos sur Instagram/Facebook ?
+      a: Les vitesses de téléchargement rapides de notre eSIM Taïwan vous permettent de publier des stories, reels et photos de haute qualité de votre voyage en temps réel sans attendre le Wi-Fi de l'hôtel.
   - id: faq-dining
     icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
+    tab_title: Restauration
+    title: 6. Restauration et restaurants
     questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Taiwan eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Taiwan eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Taiwan eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Taiwan eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Foodpanda, Uber Eats, Oddle, register using
-        your email or social accounts, and order food seamlessly using your Taiwan
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Line
-        Pay, JKO Pay, EasyCard require a brief internet handshake, which your Taiwan
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Taiwan eSIM to find hidden culinary gems in the city.
+    - q: Comment trouver des restaurants en utilisant Google Maps/Tripadvisor ?
+      a: Utilisez vos données eSIM Taïwan pour rechercher « restaurants près de moi » sur Google Maps afin de vérifier les notes, horaires d'ouverture et photos du menu avant d'entrer.
+    - q: Comment réserver des tables via OpenTable ou les sites web des restaurants ?
+      a: Vous pouvez facilement obtenir une réservation pour le dîner en accédant aux plateformes de réservation en ligne avec votre eSIM Taïwan pendant que vous visitez la ville.
+    - q: Comment scanner les codes QR des restaurants pour voir les menus électroniques ?
+      a: De nombreux restaurants utilisent désormais des menus numériques. Votre eSIM Taïwan vous permet de scanner le code QR sur la table et de charger le menu instantanément.
+    - q: Comment utiliser l'appareil photo de Google Translate pour traduire les menus ?
+      a: Ouvrez l'application Google Traduction, sélectionnez la fonction appareil photo et pointez-la vers le menu local. Cela nécessite une connexion Internet via votre eSIM Taïwan pour traiter les traductions en direct avec précision.
+    - q: Comment s'inscrire et utiliser les versions internationales d'Uber Eats/DoorDash ?
+      a: Vous pouvez télécharger des applications locales comme Foodpanda, Uber Eats, Oddle, vous inscrire avec votre e-mail ou vos comptes sociaux et commander de la nourriture de manière transparente en utilisant les données mobiles de votre eSIM Taïwan.
+    - q: Comment effectuer un paiement réussi avec Apple Pay/Google Pay ?
+      a: Les paiements sans contact via Apple Pay, Google Pay, ou des méthodes locales comme Line Pay, JKO Pay, EasyCard nécessitent une brève liaison Internet, que votre eSIM Taïwan gère parfaitement.
+    - q: Comment trouver des restaurants recommandés par Yelp/les blogueurs culinaires ?
+      a: Vous pouvez diffuser des vlogs culinaires YouTube ou parcourir les avis Yelp en déplacement en utilisant votre eSIM Taïwan pour trouver des pépites culinaires cachées dans la ville.
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: Réseaux sociaux
+    title: 7. Réseaux sociaux et communication
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Taiwan eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Taiwan eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Taiwan eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Taiwan
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Taiwan eSIM data allowance to check their own social
-        media.
+    - q: Comment utiliser stablement WhatsApp/Telegram à l'étranger ?
+      a: Vos comptes WhatsApp et Telegram sont liés à votre numéro domestique. Avec notre eSIM Taïwan fournissant l'Internet, vous pouvez discuter et appeler exactement comme à la maison.
+    - q: Comment publier du contenu sur Instagram/TikTok sans me connecter au Wi-Fi public ?
+      a: Le Wi-Fi public peut être lent et peu sûr. Notre eSIM Taïwan 4G/5G vous donne la bande passante nécessaire pour télécharger en toute sécurité des fichiers vidéo lourds sur TikTok ou Instagram.
+    - q: Comment passer des appels vidéo FaceTime/WhatsApp avec la famille ?
+      a: Nos partenariats réseau à faible latence garantissent que vos appels FaceTime et vidéo via l'eSIM Taïwan sont clairs et sans décalage, où que vous soyez dans le pays.
+    - q: Est-il sûr de se connecter à des comptes sociaux en se connectant au Wi-Fi public ?
+      a: Les réseaux Wi-Fi publics sont vulnérables au piratage. L'utilisation de vos données cellulaires personnelles de l'eSIM Taïwan est chiffrée et beaucoup plus sûre pour vous connecter à vos comptes.
+    - q: Comment partager le réseau comme point d'accès personnel avec mes compagnons de voyage ?
+      a: Activez la fonction point d'accès de votre téléphone. Vos amis peuvent se connecter à votre réseau Wi-Fi et utiliser votre forfait de données eSIM Taïwan pour consulter leurs propres réseaux sociaux.
   - id: faq-crossborder
     icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
+    tab_title: Voyages transfrontaliers
+    title: 8. Voyages transfrontaliers
     questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Taiwan eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Taiwan eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: Dois-je acheter une carte SIM différente pour chaque pays lorsque je voyage à travers plusieurs pays européens ?
+      a: Si vous achetez une eSIM Taïwan pour un seul pays, elle ne fonctionne que là-bas. Pour les voyages multi-pays, nous recommandons vivement notre eSIM régionale (par exemple, eSIM Europe), qui couvre plusieurs pays avec un seul profil.
+    - q: Comment éviter les frais d'itinérance élevés en traversant les frontières en train ?
+      a: Désactivez l'itinérance des données sur votre carte SIM domestique. Assurez-vous que votre eSIM Taïwan est définie comme ligne de données principale afin de ne jamais encourir de frais inattendus de la part de votre opérateur domestique.
+    - q: Comment obtenir un réseau à court terme lors d'une escale à Singapour/Dubaï ?
+      a: Vous pouvez acheter une eSIM low-cost de 1 Go spécifiquement pour votre pays de transit afin de rester connecté pendant votre escale.
+    - q: Comment obtenir un réseau local économique pour les excursions à terre des croisières ?
+      a: Au lieu de payer pour le Wi-Fi cher du navire, activez une eSIM locale pour les pays où vous accostez. Elle se connectera dès que vous serez près du rivage.
+    - q: Comment garantir que Google Maps reste en ligne tout au long des road trips transfrontaliers ?
+      a: Avec une eSIM régionale, votre téléphone basculera automatiquement vers le réseau du nouveau pays lorsque vous traverserez la frontière en voiture, gardant votre GPS actif.
+    - q: Comment gérer l'utilisation des données multi-pays avec une seule application ?
+      a: Vous pouvez suivre votre utilisation des données pour toutes vos eSIM actives directement via le tableau de bord utilisateur de notre site web.
+    - q: Comment maintenir des méthodes de contact stables lors de voyages multi-pays ?
+      a: Étant donné que votre WhatsApp/iMessage repose sur les données, l'utilisation d'une eSIM régionale garantit que vos amis et votre famille peuvent toujours vous joindre sur le même numéro sans interruption.
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: Urgences
+    title: 9. Urgences
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Taiwan, you can dial local emergency numbers like 110 (police), 119 (fire/ambulance),
-        112 (emergency) directly from your phone's dialer regardless of your active
-        SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Taiwan eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Taiwan eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Taiwan eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Taiwan eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Taiwan eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
+    - q: Comment composer les numéros d'urgence locaux dans un pays inconnu ?
+      a: À Taïwan, vous pouvez composer les numéros d'urgence locaux comme le 110 (police), 119 (incendie/ambulance), 112 (urgence) directement depuis le clavier de votre téléphone, quel que soit votre SIM actif, à condition que votre téléphone capte un signal cellulaire.
+    - q: Comment trouver l'hôpital/la pharmacie le plus proche en cas de maladie soudaine ?
+      a: Les données de votre eSIM Taïwan vous permettent de rechercher immédiatement « pharmacie près de chez moi » ou « hôpital » sur Google Maps et d'obtenir l'itinéraire le plus rapide.
+    - q: Comment trouver les coordonnées de l'ambassade/du consulat après avoir perdu son passeport ?
+      a: Vous pouvez rapidement naviguer sur Internet en utilisant votre eSIM Taïwan pour trouver l'adresse exacte, l'e-mail d'urgence et les heures d'ouverture de l'ambassade de votre pays.
+    - q: Comment contacter la ligne d'assistance de secours de la compagnie d'assurance voyage en cas d'accident ?
+      a: Utilisez des applications VoIP comme Skype ou Viber via vos données eSIM Taïwan pour appeler les numéros gratuits internationaux de votre compagnie d'assurance.
+    - q: Comment partager ma position en temps réel dans des zones dangereuses ?
+      a: Vous pouvez utiliser la fonction « Partager la position en direct » de WhatsApp ou la fonction « Localiser » d'Apple pour diffuser en continu vos coordonnées GPS à des amis de confiance en utilisant les données mobiles de votre eSIM Taïwan.
+    - q: Comment télécharger des cartes hors ligne / emplacements clés avant de partir dans des zones reculées ?
+      a: Pendant que vous bénéficiez encore d'une bonne couverture urbaine avec votre eSIM Taïwan, utilisez vos données pour télécharger des zones hors ligne dans Google Maps au cas où vous vous aventuriez dans des montagnes ou des zones rurales profondes où le signal faiblit.
   - id: faq-business
     icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
+    tab_title: Affaires & Travail
+    title: 10. Affaires et travail
     questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Taiwan eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Taiwan eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Taiwan eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Taiwan eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Taiwan eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Taiwan eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Taiwan eSIM to update them on flight delays or schedule
-        changes.
+    - q: Comment garantir des réunions vidéo stables sur Zoom/Microsoft Teams ?
+      a: Notre eSIM Taïwan se connecte aux réseaux locaux premium, fournissant la bande passante élevée et la faible latence nécessaires pour des vidéoconférences professionnelles fluides.
+    - q: Comment me connecter de manière sécurisée au VPN de l'entreprise pour accéder aux systèmes internes lors de voyages d'affaires ?
+      a: Nos données cellulaires ne restreignent pas les protocoles VPN. Vous pouvez lancer en toute sécurité votre application VPN d'entreprise via le réseau eSIM Taïwan pour accéder aux serveurs internes.
+    - q: Comment fournir un réseau pour les ordinateurs portables en utilisant des points d'accès mobiles dans les aéroports/cafés ?
+      a: Activez simplement le point d'accès personnel de votre téléphone. Partager votre eSIM Taïwan est nettement plus rapide et beaucoup plus sécurisé contre les cybermenaces que d'utiliser des réseaux Wi-Fi publics ouverts.
+    - q: Comment garantir la réception des codes de vérification par SMS des banques/e-mails de l'entreprise ?
+      a: Gardez votre carte SIM domestique active pour recevoir des SMS et utilisez les données de votre eSIM Taïwan pour recevoir les codes 2FA par e-mail ou les notifications push des applications d'authentification.
+    - q: Comment télécharger rapidement de gros fichiers vers des drives cloud sur les sites clients/expositions ?
+      a: Avec les vitesses 5G/4G LTE de votre eSIM Taïwan, vous pouvez rapidement télécharger des présentations ou de gros documents vers Google Drive ou Dropbox directement depuis le salon d'exposition.
+    - q: Comment utiliser de manière transparente Slack/Gmail/Google Drive pour la collaboration ?
+      a: Votre eSIM Taïwan fournit une connectivité constante, garantissant que vous recevez les notifications Slack et les e-mails importants instantanément, vous gardant synchronisé avec votre équipe.
+    - q: Comment mettre à jour les itinéraires de voyage en ligne à tout moment pour communiquer avec l'entreprise ?
+      a: Vous pouvez accéder aux portails de voyage de votre entreprise ou envoyer un e-mail à votre service RH en déplacement en utilisant votre eSIM Taïwan pour les informer des retards de vol ou des changements d'horaire.
 related_products:
-  title: Related eSIM Plans
+  title: Forfaits eSIM similaires
   items:
-  - name: united states eSIM
+  - name: eSIM États-Unis
     flag: img/flags/us.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: United-Kingdom
+    slug: united-states-esim
+  - name: eSIM Royaume-Uni
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Europe eSIM
+    slug: united-kingdom-esim
+  - name: eSIM Europe
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: true
-  - name: Canada eSIM
+    slug: europe-esim
+  - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Turkey eSIM
+    slug: canada-esim
+  - name: eSIM Turquie
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: China eSIM
+    slug: turkey-esim
+  - name: eSIM Chine
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Japan eSIM
+    slug: china-esim
+  - name: eSIM Japon
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
+    slug: japan-esim
+  - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: France eSIM
+    slug: hong-kong-esim
+  - name: eSIM France
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Spain eSIM
+    slug: france-esim
+  - name: eSIM Espagne
     flag: img/flags/es.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Germany eSIM
+    slug: spain-esim
+  - name: eSIM Allemagne
     flag: img/flags/de.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: germany-esim
+  - name: eSIM Australie
     flag: img/flags/au.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
+    slug: australia-esim
 
 # =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Taiwan eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared"
-  subtitle: "Taiwan Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: "eSIM Taïwan vs SIM prépayée : comparaison des vitesses, couverture et prix"
+  subtitle: "Cartes SIM prépayées locales taïwanaises vs solutions eSIM (référence 2024/2025)"
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Taiwan) + Local Operator Sites"
+    text: "Source des données : Prepaid Data SIM Card Wiki (Taïwan) + Sites des opérateurs locaux"
     url: "https://prepaid-data-sim-card.fandom.com/wiki/Taiwan"
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Taiwan eSIM"
+    - "Matrice de comparaison"
+    - "SIM prépayée locale (données de marché)"
+    - "Roami eSIM Taïwan"
   table_rows:
     - icon: "store"
       title: "Acquisition &<br>Activation"
       prepaid_title: ""
-      prepaid_desc: "Airport tourist SIMs from Chunghwa Telecom, Taiwan Mobile, and FarEasTone require in-person purchase at airport kiosks or city stores; passport check takes 10-15 minutes."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport kiosk queues and city store visits. Activate your Roami eSIM online within 1 minute after landing in Taiwan, avoiding the 10-15 minute passport check process."
+      prepaid_desc: "Les SIM touristiques d'aéroport de Chunghwa Telecom, Taiwan Mobile et FarEasTone nécessitent un achat en personne aux kiosques d'aéroport ou en magasin en ville ; la vérification du passeport prend 10 à 15 minutes."
+      esim_title: "Livraison numérique instantanée"
+      esim_desc: "Évitez les files d'attente aux kiosques d'aéroport et les visites en magasin. Activez votre eSIM Roami en ligne en 1 minute après votre arrivée à Taïwan, évitant ainsi le processus de vérification du passeport de 10 à 15 minutes."
     - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
+      title: "KYC & enregistrement<br>par pièce d'identité"
       prepaid_title: ""
-      prepaid_desc: "All Taiwanese prepaid SIMs require passport registration; city stores may require a second ID (e.g., driver's license) and a form, with limited English proficiency among staff."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Chunghwa Telecom, Taiwan Mobile, and FarEasTone which require passport registration (and sometimes a second ID), Roami eSIM needs no personal identification—just download and connect."
+      prepaid_desc: "Toutes les SIM prépayées taïwanaises exigent un enregistrement avec passeport ; les magasins en ville peuvent exiger une deuxième pièce d'identité (ex. permis de conduire) et un formulaire, avec un niveau d'anglais limité parmi le personnel."
+      esim_title: "Aucun passeport requis"
+      esim_desc: "Contrairement à Chunghwa Telecom, Taiwan Mobile et FarEasTone qui exigent un enregistrement avec passeport (et parfois une deuxième pièce d'identité), l'eSIM Roami ne nécessite aucune identification personnelle — il suffit de télécharger et de se connecter."
     - icon: "globe"
-      title: "International<br>Roaming"
+      title: "Itinérance<br>internationale"
       prepaid_title: ""
-      prepaid_desc: "Taiwan Mobile is the only operator offering prepaid international roaming, but requires purchasing a dedicated roaming pack (e.g., 5-day China pack NT$199 for 3GB high-speed, then unlimited 128kbps) and activation before departure."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "Taiwan Mobile's prepaid roaming requires pre-purchasing a dedicated pack (e.g., 5-day China pack NT$199 for 3GB high-speed) and activation before departure. Roami eSIM offers seamless roaming in over 100 countries with no extra steps."
+      prepaid_desc: "Taiwan Mobile est le seul opérateur proposant une itinérance internationale prépayée, mais nécessite l'achat d'un forfait d'itinérance dédié (par ex. forfait 5 jours Chine NT$199 pour 3Go haut débit, puis illimité à 128kbps) et une activation avant le départ."
+      esim_title: "Prêt pour l'itinérance mondiale"
+      esim_desc: "L'itinérance prépayée de Taiwan Mobile nécessite l'achat préalable d'un forfait dédié (ex. forfait 5 jours Chine NT$199 pour 3Go haut débit) et une activation avant le départ. L'eSIM Roami offre une itinérance transparente dans plus de 100 pays sans étapes supplémentaires."
     - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
+      title: "Cycle de facturation &<br>coût irrécupérable"
       prepaid_title: ""
-      prepaid_desc: "Chunghwa Telecom's airport tourist SIMs are valid for 3, 5, 7, 10, 15, or 30 days (e.g., 7-day NT$500); city standard packs use 30/60/120/180-day cycles (e.g., 1.2GB/30 days NT$300). Airport SIMs cannot be recharged or extended."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Unlike Chunghwa Telecom's 30-day cycle (NT$1000 for unlimited data) which wastes 77% of value on a 7-day trip, Roami offers 7-day plans starting from $1.99/GB, saving you money."
+      prepaid_desc: "Les SIM touristiques d'aéroport de Chunghwa Telecom sont valables 3, 5, 7, 10, 15 ou 30 jours (ex. 7 jours NT$500) ; les forfaits standards en ville utilisent des cycles de 30/60/120/180 jours (ex. 1,2Go/30 jours NT$300). Les SIM d'aéroport ne peuvent pas être rechargées ni prolongées."
+      esim_title: "Forfaits courts flexibles"
+      esim_desc: "Contrairement au cycle de 30 jours de Chunghwa Telecom (NT$1000 pour données illimitées) qui gaspille 77% de la valeur pour un voyage de 7 jours, Roami propose des forfaits 7 jours à partir de 1,99$/Go, vous faisant économiser de l'argent."
     - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
+      title: "Politiques de point d'accès<br>et de vitesse"
       prepaid_title: ""
-      prepaid_desc: "Chunghwa Telecom's 5G airport SIMs explicitly limit hotspot data to 3GB/5GB/7GB for 3/5/7-day plans; 4G airport SIMs allow unlimited tethering."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Chunghwa Telecom's 5G airport SIMs limit hotspot to 3GB-7GB; Roami eSIM allows unlimited tethering at full speed, perfect for sharing with laptops or tablets."
+      prepaid_desc: "Les SIM d'aéroport 5G de Chunghwa Telecom limitent explicitement les données en partage de connexion à 3Go/5Go/7Go pour les forfaits 3/5/7 jours ; les SIM d'aéroport 4G permettent un partage illimité."
+      esim_title: "Partage de connexion sans restriction"
+      esim_desc: "Les SIM d'aéroport 5G de Chunghwa Telecom limitent le partage à 3-7Go ; l'eSIM Roami permet un partage illimité à pleine vitesse, parfait pour partager avec des ordinateurs portables ou des tablettes."
     - icon: "credit-card"
-      title: "Top-up Payments"
+      title: "Paiements de recharge"
       prepaid_title: ""
-      prepaid_desc: "Online top-up requires visiting a Chinese-language website (idealcard.com.tw) or using convenience store kiosks (iBon/FamiPort) with Chinese menus; foreign cards often rejected."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Avoid Chinese-language convenience store kiosks and online portals that reject foreign cards. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
+      prepaid_desc: "La recharge en ligne nécessite de visiter un site web en chinois (idealcard.com.tw) ou d'utiliser les bornes de supérette (iBon/FamiPort) avec des menus en chinois ; les cartes étrangères sont souvent refusées."
+      esim_title: "Paiements mondiaux acceptés"
+      esim_desc: "Évitez les bornes de supérette en chinois et les portails en ligne qui refusent les cartes étrangères. Roami accepte Visa, Mastercard, AMEX, Apple Pay, Google Pay et PayPal."
     - icon: "headset"
-      title: "Customer Support"
+      title: "Support client"
       prepaid_title: ""
-      prepaid_desc: "Customer support is primarily in Chinese; English support is limited and available only during business hours."
-      esim_title: "24/7 English Support"
-      esim_desc: "Taiwanese operators offer limited English support during business hours. Roami provides 24/7 customer service in English via live chat and email."
+      prepaid_desc: "Le support client est principalement en chinois ; le support en anglais est limité et disponible uniquement pendant les heures ouvrables."
+      esim_title: "Support anglais 24/7"
+      esim_desc: "Les opérateurs taïwanais offrent un support en anglais limité pendant les heures ouvrables. Roami fournit un service client 24/7 en anglais via chat en direct et e-mail."
 
   # =============== 100% 完整还原：专家结论模块 ===============
   expert_verdict:
-    title: "Taiwan eSIM vs Prepaid SIM: Which Offers Better Value?"
+    title: "eSIM Taïwan vs SIM prépayée : quelle offre la meilleure valeur ?"
     cards:
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
-        title: "Simplify Top-Up with Global Payments"
-        desc: "Topping up Taiwanese prepaid SIMs requires navigating Chinese-language convenience store kiosks (iBon/FamiPort) or websites (idealcard.com.tw), often rejecting foreign cards. Roami accepts <b>Visa</b>, <b>Mastercard</b>, <b>AMEX</b>, <b>Apple Pay</b>, <b>Google Pay</b>, and <b>PayPal</b>."
+        title: "Simplifiez la recharge avec des paiements mondiaux"
+        desc: "Recharger les SIM prépayées taïwanaises nécessite de naviguer sur les bornes de supérette en chinois (iBon/FamiPort) ou sur des sites web (idealcard.com.tw), refusant souvent les cartes étrangères. Roami accepte <b>Visa</b>, <b>Mastercard</b>, <b>AMEX</b>, <b>Apple Pay</b>, <b>Google Pay</b> et <b>PayPal</b>."
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
-        title: "Avoid Limited International Roaming"
-        desc: "<b>Taiwan Mobile</b> is the only operator with prepaid roaming, but requires pre-purchasing a dedicated pack (e.g., 5-day China pack <b>NT$199</b> for <b>3GB</b> high-speed, then unlimited <b>128kbps</b>) and activation before departure. Roami eSIM offers global roaming in over 100 countries with no extra steps."
+        title: "Évitez l'itinérance internationale limitée"
+        desc: "<b>Taiwan Mobile</b> est le seul opérateur avec itinérance prépayée, mais nécessite l'achat préalable d'un forfait dédié (ex. forfait 5 jours Chine <b>NT$199</b> pour <b>3Go</b> haut débit, puis illimité <b>128kbps</b>) et une activation avant le départ. L'eSIM Roami offre une itinérance mondiale dans plus de 100 pays sans étapes supplémentaires."
       - icon: "globe"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
-        title: "Instant Activation Without Store Visits"
-        desc: "Acquiring a local SIM requires visiting an airport kiosk or city store, with passport checks taking <b>10-15 minutes</b>. Roami eSIM activates online within <b>1 minute</b> after landing, saving time and hassle."
+        title: "Activation instantanée sans visite en magasin"
+        desc: "L'acquisition d'une SIM locale nécessite de se rendre dans un kiosque d'aéroport ou un magasin en ville, avec des vérifications de passeport prenant <b>10 à 15 minutes</b>. L'eSIM Roami s'active en ligne en <b>1 minute</b> après l'atterrissage, économisant temps et tracas."
       - icon: "clock"
         icon_bg: "bg-indigo-100"
         icon_color: "text-indigo-600"
-        title: "24/7 English Customer Support"
-        desc: "Taiwanese operators offer customer support primarily in Chinese, with limited English availability during business hours. Roami provides <b>24/7</b> English support via live chat and email."
----
+        title: "Support client anglais 24/7"
+        desc: "Les opérateurs taïwanais offrent un support client principalement en chinois, avec une disponibilité en anglais limitée pendant les heures ouvrables. Roami fournit un support en anglais <b>24h/24 et 7j/7</b> via chat en direct et e-mail."
+---		

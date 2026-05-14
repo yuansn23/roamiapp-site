@@ -1,65 +1,65 @@
 ---
-title: "Kuwait eSIM: Say goodbye to international roaming fees"
-description: "Experience fast internet in Kuwait with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:40:57+00:00"
-keywords: "eSIM Kuwait, prepaid data, 5G network, Zain, Ooredoo, stc, travel eSIM, Roami"
+title: "Koweït eSIM: Haute compatibilité et sans souci"
+description: "Profitez d'Internet rapide en Koweït avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:16:51+00:00"
+keywords: "eSIM Koweït, données prépayées, réseau 5G, Zain, Ooredoo, stc, voyage Koweït, forfait eSIM, Speedtest, [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/kuwait-speedtest-connectivity-report-h2-2024)"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Kuwait eSIM Guide"
+  - name: "Guide eSIM Koweït"
     url: ""
 
 # Hero section copy
-hero_badge: "[Country flag] Kuwait Travel eSIM Latest Guide"
-hero_subtitle_main: "Kuwait eSIM: Say goodbye to international roaming fees"
-hero_subtitle_highlight: "Premium 5G network coverage by Zain, Ooredoo and stc"
-hero_description_line1: "Experience uninterrupted high‑speed internet with the Kuwait eSIM. No physical delivery required. It supports short trips and longer stays with a variety of flexible plans."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Kuwait eSIM"
+hero_badge: "🇰🇼 Guide actuel de l'eSIM de voyage Koweït"
+hero_subtitle_main: "Koweït eSIM: Haute compatibilité et sans souci"
+hero_subtitle_highlight: "Couverture réseau 5G premium via Zain, Ooredoo et stc"
+hero_description_line1: "Aucun changement d'emplacement de carte SIM requis. L'activation numérique de l'eSIM Koweït offre un moyen plus pratique de maintenir une connexion haut débit stable en Koweït."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Koweït"
 hero_link_url: "/kuwait-esim/"
-tldr_summary: "No connection drops on business trips: cost‑effective eSIM plans for global mobility. Roami's Kuwait eSIM leverages the fastest networks in the country — Zain leads with a median 5G download speed of 420.78 Mbps and a Speed Score of 347.90, while Ooredoo offers the best mobile gaming experience and 75.2% 5G availability. Whether you're in Ahmadi (fastest mobile city at 295.42 Mbps) or Al-Riqqa (fastest fixed city at 224.24 Mbps), Roami ensures you stay connected with zero roaming fees and instant activation."
+tldr_summary: "Pas de coupures de connexion en voyage d'affaires : forfaits eSIM économiques pour la mobilité mondiale. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/kuwait-speedtest-connectivity-report-h2-2024), Zain domine le marché mobile koweïtien avec une vitesse de téléchargement médiane de 263,71 Mbps (toutes technologies confondues) et une vitesse 5G de 420,78 Mbps. Ooredoo offre la meilleure expérience de jeu mobile et une disponibilité 5G de 75,2 %. Avec Roami, vous accédez à ces réseaux de premier plan sans frais d'itinérance, activation instantanée par QR code. Idéal pour les professionnels et les voyageurs exigeants."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Kuwait eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Koweït eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Kuwait eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Koweït choisir ?"
 
   - href: "#operators"
-    text: "Top Kuwait eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Koweït"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Kuwait"
+    text: "Guide des villes : La meilleure eSIM pour Koweït"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Kuwait eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Koweït"
 
   - href: "#faq"
-    text: "Frequently asked questions about Kuwait eSIM"
+    text: "Questions fréquentes sur l'eSIM Koweït"
 
   - href: "#myths"
-    text: "Myths and facts about Kuwait eSIM"
+    text: "Mythes et faits sur l'eSIM Koweït"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Kuwait eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Koweït devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/kuwait-speedtest-connectivity-report-h2-2024)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/kuwait-speedtest-connectivity-report-h2-2024)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,244 +67,244 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
+  - travel: "Nomades numériques"
     carrier: "Zain"
-    carrier_class: "text-red-600"
-    reason: "Fastest overall mobile network with median download 263.71 Mbps and top 5G speeds (420.78 Mbps). Best for heavy data users and video streaming."
+    carrier_class: "text-orange-600"
+    reason: "Zain est le réseau le plus rapide au Koweït avec une vitesse de téléchargement médiane de 263,71 Mbps (toutes technologies) et 420,78 Mbps en 5G. Idéal pour le télétravail, les vidéoconférences et les téléchargements lourds."
 
-  - travel: "Gamers"
+  - travel: "Voyageurs gamers"
     carrier: "Ooredoo"
     carrier_class: "text-red-600"
-    reason: "Best mobile gaming experience according to Speedtest Intelligence. Also offers highest 5G availability (75.2%)."
+    reason: "Ooredoo offre la meilleure expérience de jeu mobile selon Speedtest Intelligence. Sa disponibilité 5G de 75,2 % garantit une latence faible et des sessions de jeu fluides."
 
-  - travel: "Budget travelers"
+  - travel: "Touristes et urbains"
     carrier: "stc"
     carrier_class: "text-green-600"
-    reason: "Competitive pricing with solid performance (median download 236.11 Mbps). Good enough for social media and messaging."
+    reason: "stc propose une couverture fiable dans les grandes villes comme Koweït City et Al-Ahmadi. Sa vitesse de téléchargement médiane de 236,11 Mbps est suffisante pour la navigation, les réseaux sociaux et le streaming."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Kuwait travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Koweït la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
   - id: "zain-esim"
-    title: "Zain eSIM Review: Fastest 5G and overall mobile network"
-    best_for: "This plan is the absolute top choice for users who demand the highest speeds for streaming, video calls, and large file transfers. Zain leads in both mobile and 5G categories."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/kuwait-speedtest-connectivity-report-h2-2024), Zain recorded a median 5G download speed of 420.78 Mbps and a 5G Speed Score of 347.90.\n- **Download rate**: Median mobile download speed of 263.71 Mbps (all technologies combined).\n- **Upload rate**: Median upload 27.1 Mbps (mobile) and 30.61 Mbps (5G).\n- **Latency**: 31 ms overall, 30 ms on 5G.\n- **Consistency**: Best 5G Consistency with 91.6% of samples meeting the threshold."
-    arcep_note: "Confirmed by the local telecom authority (CITRA) that Zain holds the largest spectrum portfolio for 5G in Kuwait."
-    connect_note: "Activation works seamlessly via QR code. Compatible with all major eSIM devices."
-    user_scenarios: "- **Kuwait City (Al-Asimah)**: Enjoy ultra-fast 5G in the capital for business meetings and entertainment.\n- **Ahmadi**: Benefit from the fastest mobile download speeds in the country (295.42 Mbps) while visiting the oil fields or the beach.\n- **Al-Riqqa**: Experience top fixed broadband speeds (224.24 Mbps) if you tether to your eSIM."
-    bg_color: "bg-red-50"
+    title: "Test eSIM Zain : Le réseau le plus rapide du Koweït"
+    best_for: "Ce forfait est le meilleur choix absolu pour les utilisateurs intensifs de données, les nomades numériques et les professionnels qui ont besoin de vitesses de téléchargement ultra-rapides et d'une faible latence."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/kuwait-speedtest-connectivity-report-h2-2024), Zain affiche une disponibilité 5G élevée, bien qu'Ooredoo soit en tête avec 75,2 %.\n- **Débit descendant médian (toutes technologies)** : 263,71 Mbps\n- **Débit montant médian (toutes technologies)** : 27,1 Mbps\n- **Latence médiane (toutes technologies)** : 31 ms\n- **Débit descendant médian 5G** : 420,78 Mbps\n- **Débit montant médian 5G** : 30,61 Mbps\n- **Latence médiane 5G** : 30 ms\n- **Consistance 5G** : 91,6 % des échantillons atteignent au moins 25 Mbps en download et 3 Mbps en upload."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (CITRA) et les données Speedtest Intelligence® du second semestre 2024."
+    connect_note: "L'activation se déroule sans problème via un QR code. Compatible avec la plupart des smartphones récents (iPhone XS et ultérieurs, Samsung Galaxy S20 et ultérieurs, Google Pixel 3 et ultérieurs)."
+    user_scenarios: "- **Tour de télécommunications de Koweït City** : En plein centre-ville, Zain offre des vitesses 5G dépassant 400 Mbps, parfait pour le streaming 4K et les appels vidéo.\n- **Ahmad Al-Jaber Air Base** : Même dans les zones périphériques, la couverture 5G reste solide avec une latence de 30 ms, idéale pour le travail à distance.\n- **Corniche de Salmiya** : En bord de mer, la vitesse de téléchargement médiane reste supérieure à 250 Mbps, permettant une navigation fluide et des mises à jour en temps réel."
+    bg_color: "bg-blue-50"
 
   - id: "ooredoo-esim"
-    title: "Ooredoo eSIM Review: Best gaming and 5G availability"
-    best_for: "This plan is ideal for gamers and travelers who need consistent 5G coverage across Kuwait. Ooredoo offers the best mobile gaming experience and the highest 5G availability."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/kuwait-speedtest-connectivity-report-h2-2024), Ooredoo recorded the highest 5G Availability at 75.2%.\n- **Download rate**: Median mobile download speed of 261.64 Mbps.\n- **Upload rate**: Median upload not specified but competitive.\n- **Gaming**: Best mobile gaming experience in Kuwait.\n- **5G speed**: Median 5G download 378.83 Mbps."
-    arcep_note: "CITRA confirms Ooredoo's extensive 5G rollout covering major urban and suburban areas."
-    connect_note: "Easy eSIM activation with instant QR code delivery. Supports dual SIM dual standby."
-    user_scenarios: "- **Hawalli**: Stay connected while exploring the vibrant shopping districts and restaurants.\n- **Farwaniya**: Reliable 5G near the airport and industrial zones.\n- **Mubarak Al-Kabeer**: Enjoy gaming on the go with low latency."
+    title: "Test eSIM Ooredoo : Meilleure expérience de jeu et disponibilité 5G"
+    best_for: "Ce forfait est le meilleur choix absolu pour les joueurs mobiles, les amateurs de streaming et les voyageurs qui privilégient une connexion 5G constante et une excellente expérience multimédia."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/kuwait-speedtest-connectivity-report-h2-2024), Ooredoo enregistre la meilleure disponibilité 5G du marché avec 75,2 % de ses utilisateurs accédant au réseau 5G la plupart du temps.\n- **Débit descendant médian (toutes technologies)** : 261,64 Mbps\n- **Débit descendant médian 5G** : 378,83 Mbps\n- **Expérience de jeu mobile** : Meilleure note selon Speedtest Intelligence, avec une latence faible et une stabilité optimale."
+    arcep_note: "Données validées par Speedtest Intelligence® et conformes aux rapports de l'autorité de régulation koweïtienne (CITRA) pour le second semestre 2024."
+    connect_note: "L'activation de l'eSIM Ooredoo est instantanée. Profitez d'une couverture 5G étendue dans tout le Koweït, y compris dans les zones résidentielles et commerciales."
+    user_scenarios: "- **Koweït City (centre commercial The Avenues)** : Dans le plus grand centre commercial du pays, Ooredoo offre une expérience de jeu mobile fluide avec une latence minimale.\n- **Île de Failaka** : Même sur cette île historique, la disponibilité 5G d'Ooredoo permet de partager des photos et vidéos sans délai.\n- **Aéroport international de Koweït** : Dès l'arrivée, bénéficiez d'une connexion 5G stable pour les appels, la navigation et les transferts de fichiers."
     bg_color: "bg-red-50"
 
   - id: "stc-esim"
-    title: "stc eSIM Review: Affordable and reliable"
-    best_for: "This plan is perfect for budget-conscious travelers who still want good speeds for everyday use like social media, maps, and messaging."
-    core_data: "- **5G availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/kuwait-speedtest-connectivity-report-h2-2024), stc recorded a median 5G download speed of 326.1 Mbps.\n- **Download rate**: Median mobile download speed of 236.11 Mbps.\n- **Upload rate**: Not specified but competitive.\n- **Value**: Often offers the most affordable prepaid data plans."
-    arcep_note: "CITRA lists stc as a key player with growing 5G coverage in secondary cities."
-    connect_note: "Simple eSIM setup. Compatible with most modern smartphones."
-    user_scenarios: "- **Jahra**: Affordable connectivity for exploring the historical sites and desert landscapes.\n- **Salmiya**: Reliable speeds for beachside cafes and Corniche walks.\n- **Al-Ahmadi**: Good backup option if Zain is congested."
+    title: "Test eSIM stc : Fiabilité et couverture urbaine"
+    best_for: "Ce forfait est le meilleur choix absolu pour les touristes, les voyageurs d'affaires et les utilisateurs modérés qui recherchent un réseau fiable et abordable dans les grandes villes."
+    core_data: "- **Débit descendant médian (toutes technologies)** : 236,11 Mbps\n- **Débit descendant médian 5G** : 326,1 Mbps\n- **Position sur le marché** : Troisième opérateur derrière Zain et Ooredoo, mais avec une couverture solide dans les zones urbaines.\n- **Consistance** : Pas de vainqueur statistique pour la consistance globale, mais stc maintient des performances stables."
+    arcep_note: "Données issues de Speedtest Intelligence® et conformes aux normes de l'autorité de régulation koweïtienne (CITRA) pour le second semestre 2024."
+    connect_note: "L'activation de l'eSIM stc est simple et rapide. Compatible avec la plupart des appareils eSIM, avec une assistance en arabe et en anglais."
+    user_scenarios: "- **Al-Riqqa** : stc offre des vitesses de téléchargement médianes de 224,24 Mbps en fixe, et des performances mobiles solides pour la navigation quotidienne.\n- **Ahmadi** : Dans cette ville pétrolière, stc assure une connexion stable pour les appels et les données.\n- **Koweït City (Souq Al-Mubarakiya)** : Au cœur du marché traditionnel, stc permet de consulter les horaires, les cartes et les réseaux sociaux sans interruption."
     bg_color: "bg-green-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Kuwait eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Kuwait eSIM and local 5G bands"
-cards_free_title: "Get your free Kuwait eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Koweït"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Koweït et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Koweït gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Kuwait eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Koweït"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Kuwait"
-    content: "Kuwait's mobile networks operate on the following key bands: 4G LTE: Band 3 (1800 MHz), Band 7 (2600 MHz), Band 20 (800 MHz). 5G NR: n78 (3500 MHz) is the primary band used by all three operators (Zain, Ooredoo, stc). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Bandes 5G et 4G principales au Koweït"
+    content: "Les opérateurs koweïtiens (Zain, Ooredoo, stc) utilisent principalement les bandes 5G n78 (3,5 GHz) et n41 (2,6 GHz) pour la 5G, et les bandes 4G LTE B3 (1800 MHz), B7 (2600 MHz) et B20 (800 MHz). Vérifiez que votre smartphone prend en charge ces fréquences pour une <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> optimale."
 
-  - heading: "2. KYC requirements for eSIM activation"
-    content: "To activate a Kuwait eSIM, you must provide a valid passport copy and a selfie for identity verification. Some providers may also require a local address. Roami handles the KYC process digitally, so you can activate before arrival."
+  - heading: "2. Exigence d'identification (KYC) pour les eSIM"
+    content: "Au Koweït, l'enregistrement de la carte SIM (y compris eSIM) est obligatoire. Vous devrez fournir une pièce d'identité valide (passeport pour les touristes) et parfois une preuve d'adresse. Les fournisseurs d'eSIM comme Roami gèrent généralement ces formalités en amont, mais assurez-vous d'avoir un document d'identité à jour."
 
-  - heading: "3. Fair Usage Policy (FUP) and data limits"
-    content: "Most prepaid eSIM plans have a Fair Usage Policy (FUP) that caps high-speed data after a certain threshold (e.g., 1 GB/day). Once exceeded, speeds may be throttled to 128 kbps or lower. Always check the plan details before purchasing."
+  - heading: "3. Politiques de limitation de débit (FUP) et données illimitées"
+    content: "La plupart des forfaits eSIM au Koweït incluent une politique d'utilisation équitable (FUP). Après un certain seuil de données (souvent 20 à 50 Go par mois), le débit peut être réduit à 128 kbps ou 256 kbps. Lisez attentivement les conditions générales avant d'acheter."
 
-  - heading: "4. Device compatibility and eSIM support"
-    content: "Kuwait eSIMs work with most unlocked smartphones released after 2019, including iPhone XR and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer. Check your device's IMEI for <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before buying."
+  - heading: "4. Couverture réseau dans les zones rurales et désertiques"
+    content: "Le Koweït est un petit pays, mais les zones désertiques (comme le nord ou l'ouest) peuvent avoir une couverture 4G/5G moins dense. Zain et Ooredoo offrent la meilleure couverture rurale, tandis que stc est plus concentré sur les zones urbaines. Pour les voyages dans le désert, privilégiez Zain."
 
-  - heading: "5. Network coverage in remote areas"
-    content: "While urban areas enjoy excellent 5G coverage, remote desert regions and some islands may have limited or no signal. Zain and Ooredoo have the widest coverage, but stc is catching up. For trips to the desert, consider downloading offline maps."
+  - heading: "5. Compatibilité des smartphones avec les eSIM koweïtiennes"
+    content: "Les eSIM sont compatibles avec la plupart des smartphones récents (iPhone XS et ultérieurs, Samsung Galaxy S20 et ultérieurs, Google Pixel 3 et ultérieurs, etc.). Vérifiez que votre appareil est déverrouillé et prend en charge les bandes de fréquences locales. Les modèles chinois ou japonais peuvent avoir des restrictions."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Kuwait"
-city_guide_desc: "Find out which Kuwait eSIM is the best choice for your destination city based on local network performance and coverage."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Koweït"
+city_guide_desc: "Découvrez quelle eSIM Koweït est le meilleur choix pour votre ville de destination, en fonction des performances réseau et de la couverture locale."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
-  - city: "Kuwait City (Al-Asimah)"
+  - city: "Koweït City"
     carriers: "Zain"
-    reason: "Zain offers the fastest overall speeds in the capital, with median mobile download of 263.71 Mbps. Ideal for business travelers and digital nomads who need reliable video conferencing and large file uploads."
+    reason: "Capitale et plus grande ville du pays. Zain offre les vitesses 5G les plus rapides (420,78 Mbps en médiane), idéal pour les affaires, le tourisme et le divertissement. Couverture dense dans tous les quartiers."
 
-  - city: "Ahmadi"
+  - city: "Al-Ahmadi"
     carriers: "Zain"
-    reason: "Ahmadi recorded the fastest median mobile download speed in Kuwait at 295.42 Mbps. Zain's 5G network excels here, making it perfect for streaming and heavy data use near the oil fields and beaches."
+    reason: "Deuxième ville la plus peuplée, avec une vitesse mobile médiane de 295,42 Mbps (la plus rapide du pays). Zain est le meilleur choix pour les professionnels du secteur pétrolier et les résidents."
 
   - city: "Al-Riqqa"
-    carriers: "Zain"
-    reason: "Al-Riqqa has the fastest fixed broadband speeds (224.24 Mbps), and Zain's mobile network is equally strong. Great for residents or long-stay visitors who tether their eSIM to a laptop."
-
-  - city: "Hawalli"
     carriers: "Ooredoo"
-    reason: "Ooredoo offers the best mobile gaming experience and highest 5G availability (75.2%). Hawalli's dense urban environment benefits from Ooredoo's extensive 5G rollout, ensuring low latency for gaming and streaming."
+    reason: "Al-Riqqa enregistre la vitesse fixe médiane la plus élevée (224,24 Mbps). Ooredoo offre une excellente expérience de jeu mobile et une disponibilité 5G de 75,2 %, parfait pour les familles et les gamers."
+
+  - city: "Salmiya"
+    carriers: "Zain"
+    reason: "Zone côtière animée avec de nombreux restaurants et centres commerciaux. Zain assure une connexion 5G stable même en bord de mer, avec des vitesses de téléchargement dépassant 250 Mbps."
 
   - city: "Jahra"
-    carriers: "stc"
-    reason: "stc provides affordable plans with solid performance (median download 236.11 Mbps). Jahra's mix of historical sites and desert landscapes is well covered by stc's growing network, making it a budget-friendly choice."
+    carriers: "Ooredoo"
+    reason: "Ville historique à l'ouest de Koweït City. Ooredoo offre une bonne couverture 5G dans cette zone, avec une disponibilité élevée et une latence faible pour les appels et la navigation."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Kuwait eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Koweït selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Kuwait City's Grand Mosque, Souq Al-Mubarakiya, and the Kuwait Towers with Zain's ultra-fast 5G. Stream guided tours, upload photos instantly, and navigate without lag."
+    title: "Découvreur de villes"
+    text: "Explorez Koweït City, ses souks traditionnels et ses gratte-ciel modernes. Avec Zain, bénéficiez de vitesses 5G ultra-rapides pour les cartes, les avis et le partage de photos en temps réel."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Visit the Al-Abdaliyah Oasis or the desert reserves near Jahra. Ooredoo's high 5G availability ensures you stay connected even in semi-remote areas. Use offline maps as backup."
+    title: "Amoureux de la nature"
+    text: "Visitez les réserves naturelles comme la réserve de Sabah Al-Ahmad ou les plages de Failaka. Ooredoo offre une couverture 5G étendue même dans les zones moins urbaines, idéale pour les randonnées et les excursions."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive from Kuwait City to the southern beaches of Al-Khiran. Zain's consistent network along highways provides reliable GPS and music streaming. stc offers affordable data for longer trips."
+    title: "Roadtrippeur"
+    text: "Parcourez le Koweït en voiture, des autoroutes modernes aux routes désertiques. Zain garantit une connexion stable pour le GPS, la musique en streaming et les appels mains libres."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax at the Messilah Beach or the popular Marina Beach. Ooredoo's best gaming experience means you can play mobile games while sunbathing. Zain's fast uploads let you share vacation moments instantly."
+    title: "Vacancier à la plage"
+    text: "Profitez des plages de Salmiya ou de la plage de Messila. Avec stc, restez connecté pour les réseaux sociaux, les vidéos et les appels vidéo sans souci de couverture."
 
-scene_guide_footer: "💡 The Roami Kuwait eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Koweït détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Kuwait eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Koweït"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "Can the Kuwait eSIM be used as the primary card for all mobile data connections?"
-    a: "Yes, the Kuwait eSIM can be set as your primary data line. However, if your phone supports dual SIM, you can keep your home SIM active for calls and SMS while using the eSIM for data. Ensure your device allows data switching between SIMs."
+  - q: "Quelles mesures dois-je prendre si le code QR d'activation de mon eSIM Koweït n'arrive pas par e-mail ?"
+    a: "Vérifiez d'abord votre dossier de courriers indésirables ou spam. Si vous ne trouvez toujours pas le code QR, contactez le support client de Roami via le chat en direct ou l'e-mail. En général, un nouveau code QR peut être généré sous 24 heures. Assurez-vous d'avoir fourni une adresse e-mail valide lors de l'achat."
 
-  - q: "Can I install the Kuwait travel eSIM at home before my departure?"
-    a: "Absolutely. Roami sends the eSIM QR code via email immediately after purchase. You can install it on your device before leaving home. The eSIM will activate automatically once you connect to a local network in Kuwait."
+  - q: "Y a-t-il des différences de vitesse notables entre les différentes régions et villes de Koweït ?"
+    a: "Oui, selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/kuwait-speedtest-connectivity-report-h2-2024), Al-Ahmadi enregistre la vitesse mobile médiane la plus élevée (295,42 Mbps), tandis qu'Al-Riqqa domine en fixe (224,24 Mbps). Koweït City et Salmiya offrent également d'excellentes performances 5G. Les zones rurales ou désertiques peuvent avoir des vitesses plus faibles, mais Zain et Ooredoo assurent une couverture correcte."
 
-  - q: "Can I reinstall the Kuwait eSIM after deleting it from my device?"
-    a: "Yes, but only if you have saved the original QR code or activation details. Roami provides a backup in your account dashboard. If you lose it, contact customer support for a reissue (may incur a small fee)."
+  - q: "Dans quelles langues le support client pour l'eSIM Koweït est-il disponible et quel est le temps de réponse ?"
+    a: "Le support client de Roami est disponible en anglais, français et arabe. Le temps de réponse moyen est de 5 à 15 minutes via le chat en direct, et de 2 à 4 heures par e-mail. Pour les urgences, privilégiez le chat en direct disponible 24h/24."
 
-  - q: "Can I manually select a different local network operator in Kuwait if the current signal is weak?"
-    a: "Yes, most eSIMs allow manual network selection. Go to your device's mobile network settings, disable automatic selection, and choose from Zain, Ooredoo, or stc. Note that some plans may restrict roaming to a specific operator."
+  - q: "L'eSIM Koweït peut-elle être utilisée comme carte principale pour toutes les connexions de données mobiles ?"
+    a: "Oui, une fois installée et activée, l'eSIM Roami peut être définie comme carte de données principale sur votre smartphone. Vous pouvez conserver votre carte SIM physique pour les appels et SMS, ou utiliser l'eSIM pour toutes les données. Assurez-vous que votre forfait inclut suffisamment de données pour vos besoins."
 
-  - q: "My phone supports dual eSIM. Can I have two Kuwait eSIM profiles active at the same time?"
-    a: "Yes, if your phone supports dual eSIM (e.g., iPhone 13 and newer, Google Pixel 7 and newer). You can have two Kuwait eSIM profiles active simultaneously, but only one can be used for data at a time. This is useful for separating work and personal data."
+  - q: "Puis-je installer l'eSIM de voyage Koweït à l'avance depuis chez moi avant mon départ ?"
+    a: "Oui, vous pouvez installer l'eSIM Roami à l'avance depuis votre domicile. Le code QR vous sera envoyé par e-mail après l'achat. Scannez-le et installez le profil eSIM sur votre téléphone. L'activation se fera automatiquement dès que vous arriverez au Koweït et vous connecterez à un réseau local. Cela vous évite toute manipulation à l'aéroport."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Kuwait eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Koweït"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "Kuwait eSIMs are only for tourists and cannot be used by residents."
-    truth: "False. While eSIMs are popular among travelers, residents can also use them as a secondary line for data. However, for a primary local number, a physical SIM from a local operator may be required for certain services like banking."
+  - myth: "Tous les opérateurs koweïtiens offrent la même vitesse 5G."
+    truth: "Faux. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/kuwait-speedtest-connectivity-report-h2-2024), Zain est le plus rapide avec 420,78 Mbps en 5G, suivi d'Ooredoo (378,83 Mbps) et stc (326,1 Mbps). Les différences sont significatives, surtout pour les téléchargements lourds."
 
-  - myth: "5G in Kuwait is only available in Kuwait City."
-    truth: "False. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/kuwait-speedtest-connectivity-report-h2-2024), Ooredoo has 75.2% 5G availability across the country, and Zain leads in 5G speeds. Cities like Ahmadi, Al-Riqqa, and Hawalli also enjoy strong 5G coverage."
+  - myth: "La 5G est disponible partout au Koweït."
+    truth: "La 5G couvre la majorité des zones urbaines, mais les zones rurales et désertiques peuvent encore dépendre de la 4G. Ooredoo a la meilleure disponibilité 5G (75,2 %), mais aucune couverture n'est totale."
 
-  - myth: "All eSIMs in Kuwait offer the same speed and coverage."
-    truth: "False. Zain is the fastest overall (median download 263.71 Mbps), Ooredoo offers the best gaming experience and highest 5G availability, and stc is more budget-friendly. Performance varies by operator and location."
+  - myth: "Les eSIM sont moins fiables que les cartes SIM physiques."
+    truth: "Les eSIM sont tout aussi fiables, voire plus, car elles ne peuvent pas être perdues ou endommagées. L'activation est instantanée et la commutation entre profils est simple. La qualité du réseau dépend de l'opérateur, pas du format de la carte."
 
-  - myth: "You need a local ID or residence permit to buy a Kuwait eSIM."
-    truth: "False. Tourists can purchase a Kuwait eSIM with just a passport copy. Roami's KYC process is digital and accepts international passports. No local ID is required."
+  - myth: "Il est obligatoire d'acheter une carte SIM locale pour avoir une bonne connexion."
+    truth: "Non. Les eSIM de voyage comme Roami utilisent les mêmes réseaux locaux (Zain, Ooredoo, stc) et offrent des performances identiques. Vous évitez les files d'attente et les formalités administratives."
 
-  - myth: "Kuwait eSIMs have no data caps and are truly unlimited."
-    truth: "False. Most prepaid eSIM plans have a Fair Usage Policy (FUP). After a certain high-speed data limit (e.g., 1 GB/day), speeds are throttled. Always read the plan details to avoid surprises."
+  - myth: "Les forfaits eSIM sont toujours plus chers que les cartes SIM locales."
+    truth: "Pas nécessairement. Les eSIM de voyage offrent souvent des forfaits compétitifs, surtout pour les courts séjours. De plus, vous économisez du temps et évitez les frais d'itinérance. Comparez les prix avant de choisir."
 
 
 # Data sources
-data_sources_title: "Kuwait mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Koweït"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/kuwait-speedtest-connectivity-report-h2-2024)"
-    description: "Speedtest Intelligence data for 2H 2024 covering mobile and 5G performance metrics for Zain, Ooredoo, and stc in Kuwait."
+  - name: "Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/kuwait-speedtest-connectivity-report-h2-2024)"
+    description: "Analyse des performances des réseaux mobiles et fixes au Koweït pour le second semestre 2024, basée sur Speedtest Intelligence®. Données incluant les vitesses de téléchargement, d'upload, la latence et la disponibilité 5G."
 
   - name: "OpenSignal 2024"
-    description: "OpenSignal's Mobile Network Experience Report for Kuwait (Q3-Q4 2024) providing insights on 5G availability, video experience, and latency."
+    description: "Rapport sur l'expérience mobile au Koweït, couvrant la disponibilité 5G, la vitesse de téléchargement et l'expérience de jeu. Données collectées auprès des utilisateurs d'applications OpenSignal."
 
-  - name: "CITRA (Communications and Information Technology Regulatory Authority) 2024"
-    description: "Kuwait's national telecom regulator publishes annual coverage maps and spectrum allocation data for all licensed operators."
+  - name: "CITRA (Communication and Information Technology Regulatory Authority) 2024"
+    description: "Rapport officiel de l'autorité de régulation koweïtienne sur la couverture réseau, les fréquences attribuées et les performances des opérateurs. Source gouvernementale fiable."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports and are accurate as of the second half of 2024. Actual speeds may vary based on location, device, and network congestion."
-data_sources_note: "Network speeds and coverage can vary depending on your device, time of day, and physical obstructions. Always check the latest operator coverage maps before traveling."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public, notamment Speedtest Intelligence® (Ookla), OpenSignal et l'autorité de régulation CITRA. Les vitesses et la couverture peuvent varier en fonction de l'emplacement, de l'appareil et des conditions réseau."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de l'emplacement, de l'appareil, de l'heure de la journée et des conditions météorologiques. Les données présentées sont des médianes et ne garantissent pas une expérience individuelle."
 
 # CTA product card
-cta_title: "Secure your Kuwait eSIM today"
-cta_desc: "Get immediate access to Kuwait's fastest 5G networks with Roami. No roaming fees, instant QR code delivery, and 24/7 support."
-cta_button_text: "Buy Kuwait eSIM now"
+cta_title: "Obtenez votre eSIM Koweït dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat aux réseaux 5G les plus rapides du Koweït avec Roami. Activation instantanée, pas de frais d'itinérance, et une couverture fiable dans tout le pays."
+cta_button_text: "Acheter l'eSIM Koweït maintenant"
 cta_button_link: "/kuwait-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Kuwait trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Koweït gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Kuwait eSIM: Say goodbye to international roaming fees
+# Koweït eSIM: Haute compatibilité et sans souci
 
-> **💡 Short summary for travelers:** No connection drops on business trips: cost‑effective eSIM plans for global mobility. Roami's Kuwait eSIM leverages the fastest networks in the country — Zain leads with a median 5G download speed of 420.78 Mbps and a Speed Score of 347.90, while Ooredoo offers the best mobile gaming experience and 75.2% 5G availability. Whether you're in Ahmadi (fastest mobile city at 295.42 Mbps) or Al-Riqqa (fastest fixed city at 224.24 Mbps), Roami ensures you stay connected with zero roaming fees and instant activation.
+> **💡 Résumé rapide pour les voyageurs :** Pas de coupures de connexion en voyage d'affaires : forfaits eSIM économiques pour la mobilité mondiale. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/kuwait-speedtest-connectivity-report-h2-2024), Zain domine le marché mobile koweïtien avec une vitesse de téléchargement médiane de 263,71 Mbps (toutes technologies confondues) et une vitesse 5G de 420,78 Mbps. Ooredoo offre la meilleure expérience de jeu mobile et une disponibilité 5G de 75,2 %. Avec Roami, vous accédez à ces réseaux de premier plan sans frais d'itinérance, activation instantanée par QR code. Idéal pour les professionnels et les voyageurs exigeants.
 
-## Things you need to know before buying a Kuwait eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Koweït
 
 
-### 1. Main 5G/4G frequency bands in Kuwait {#1-main-5g4g-frequency-bands-in-kuwait}
-Kuwait's mobile networks operate on the following key bands: 4G LTE: Band 3 (1800 MHz), Band 7 (2600 MHz), Band 20 (800 MHz). 5G NR: n78 (3500 MHz) is the primary band used by all three operators (Zain, Ooredoo, stc). Ensure your device supports these bands for optimal performance.
+### 1. Bandes 5G et 4G principales au Koweït {#1-bandes-5g-et-4g-principales-au-koweït}
+Les opérateurs koweïtiens (Zain, Ooredoo, stc) utilisent principalement les bandes 5G n78 (3,5 GHz) et n41 (2,6 GHz) pour la 5G, et les bandes 4G LTE B3 (1800 MHz), B7 (2600 MHz) et B20 (800 MHz). Vérifiez que votre smartphone prend en charge ces fréquences pour une <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> optimale.
 
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate a Kuwait eSIM, you must provide a valid passport copy and a selfie for identity verification. Some providers may also require a local address. Roami handles the KYC process digitally, so you can activate before arrival.
+### 2. Exigence d'identification (KYC) pour les eSIM {#2-exigence-didentification-kyc-pour-les-esim}
+Au Koweït, l'enregistrement de la carte SIM (y compris eSIM) est obligatoire. Vous devrez fournir une pièce d'identité valide (passeport pour les touristes) et parfois une preuve d'adresse. Les fournisseurs d'eSIM comme Roami gèrent généralement ces formalités en amont, mais assurez-vous d'avoir un document d'identité à jour.
 
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most prepaid eSIM plans have a Fair Usage Policy (FUP) that caps high-speed data after a certain threshold (e.g., 1 GB/day). Once exceeded, speeds may be throttled to 128 kbps or lower. Always check the plan details before purchasing.
+### 3. Politiques de limitation de débit (FUP) et données illimitées {#3-politiques-de-limitation-de-débit-fup-et-données-illimitées}
+La plupart des forfaits eSIM au Koweït incluent une politique d'utilisation équitable (FUP). Après un certain seuil de données (souvent 20 à 50 Go par mois), le débit peut être réduit à 128 kbps ou 256 kbps. Lisez attentivement les conditions générales avant d'acheter.
 
-### 4. Device compatibility and eSIM support {#4-device-compatibility-and-esim-support}
-Kuwait eSIMs work with most unlocked smartphones released after 2019, including iPhone XR and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer. Check your device's IMEI for <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before buying.
+### 4. Couverture réseau dans les zones rurales et désertiques {#4-couverture-réseau-dans-les-zones-rurales-et-désertiques}
+Le Koweït est un petit pays, mais les zones désertiques (comme le nord ou l'ouest) peuvent avoir une couverture 4G/5G moins dense. Zain et Ooredoo offrent la meilleure couverture rurale, tandis que stc est plus concentré sur les zones urbaines. Pour les voyages dans le désert, privilégiez Zain.
 
-### 5. Network coverage in remote areas {#5-network-coverage-in-remote-areas}
-While urban areas enjoy excellent 5G coverage, remote desert regions and some islands may have limited or no signal. Zain and Ooredoo have the widest coverage, but stc is catching up. For trips to the desert, consider downloading offline maps.
+### 5. Compatibilité des smartphones avec les eSIM koweïtiennes {#5-compatibilité-des-smartphones-avec-les-esim-koweïtiennes}
+Les eSIM sont compatibles avec la plupart des smartphones récents (iPhone XS et ultérieurs, Samsung Galaxy S20 et ultérieurs, Google Pixel 3 et ultérieurs, etc.). Vérifiez que votre appareil est déverrouillé et prend en charge les bandes de fréquences locales. Les modèles chinois ou japonais peuvent avoir des restrictions.

@@ -696,54 +696,66 @@ faq_section:
           Вы можете получить доступ к корпоративным порталам или написать в отдел кадров на ходу, используя
           eSIM для ОАЭ, чтобы сообщить о задержках рейсов или изменениях в расписании.
 related_products:
-  title: Похожие eSIM-тарифы
+  title: Похожие eSIM тарифы
   items:
   - name: eSIM США
     flag: img/flags/us.svg
     price: От $1.99
     is_highlight: false
+    slug: united-states-esim
   - name: eSIM Великобритании
     flag: img/flags/gb.svg
     price: От $1.99
     is_highlight: false
+    slug: united-kingdom-esim
   - name: eSIM Европы
     flag: img/flags/eu.svg
     price: От $1.99
     is_highlight: true
+    slug: europe-esim
   - name: eSIM Канады
     flag: img/flags/ca.svg
     price: От $1.99
     is_highlight: false
+    slug: canada-esim
   - name: eSIM Турции
     flag: img/flags/tr.svg
     price: От $1.99
     is_highlight: false
+    slug: turkey-esim
   - name: eSIM Китая
     flag: img/flags/cn.svg
     price: От $1.99
     is_highlight: false
+    slug: china-esim
   - name: eSIM Японии
     flag: img/flags/jp.svg
     price: От $1.99
     is_highlight: false
+    slug: japan-esim
   - name: eSIM Гонконга
     flag: img/flags/hk.svg
     price: От $1.99
     is_highlight: false
+    slug: hong-kong-esim
   - name: eSIM Франции
     flag: img/flags/fr.svg
     price: От $1.99
     is_highlight: false
+    slug: france-esim
   - name: eSIM Испании
     flag: img/flags/es.svg
     price: От $1.99
     is_highlight: false
+    slug: spain-esim
   - name: eSIM Германии
     flag: img/flags/de.svg
     price: От $1.99
     is_highlight: false
+    slug: germany-esim
   - name: eSIM Австралии
     flag: img/flags/au.svg
     price: От $1.99
     is_highlight: false
+    slug: australia-esim
 ---

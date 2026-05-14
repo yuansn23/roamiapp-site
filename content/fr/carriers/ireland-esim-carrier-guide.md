@@ -1,65 +1,65 @@
 ---
-title: "Irland eSIM: 24/7 high‑speed data service"
-description: "Experience fast internet in Irland with the best prepaid eSIM. No roaming fees, instant activation via QR code."
-date: "2026-05-09T09:40:47+00:00"
-keywords: "eSIM Irland, prepaid data, 5G network, 3 Ireland, Vodafone, Eir, travel eSIM, digital nomad"
+title: "Irlande eSIM: Résolvez vos problèmes d'itinérance sans effort"
+description: "Profitez d'Internet rapide en Irlande avec la meilleure eSIM prépayée. Pas de frais d'itinérance, activation instantanée par code QR."
+date: "2026-05-14T03:16:45+00:00"
+keywords: "eSIM Irlande, données prépayées, réseau 5G, 3 Ireland, Vodafone, Eir, Virgin Media, guide voyage, données illimitées"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Irland eSIM Guide"
+  - name: "Guide eSIM Irlande"
     url: ""
 
 # Hero section copy
-hero_badge: "🇮🇪 Irland Travel eSIM Latest Guide"
-hero_subtitle_main: "Irland eSIM: 24/7 high‑speed data service"
-hero_subtitle_highlight: "Premium 5G network coverage by 3, Vodafone and Eir"
-hero_description_line1: "The Irland eSIM supports online purchase and instant activation without swapping physical SIM cards. It covers major cities, helps you say goodbye to expensive roaming fees, and lets you travel Irland worry‑free."
-hero_description_line2: "Connect in seconds and enjoy unlimited surfing."
-hero_link_text: "Irland eSIM"
+hero_badge: "🇮🇪 Guide actuel de l'eSIM de voyage Irlande"
+hero_subtitle_main: "Irlande eSIM: Résolvez vos problèmes d'itinérance sans effort"
+hero_subtitle_highlight: "Couverture réseau 5G premium via 3 Ireland, Vodafone et Eir"
+hero_description_line1: "Le processus d'achat en ligne de l'eSIM Irlande est simple et sécurisé, avec des étapes d'activation claires pour que vous puissiez préparer votre solution Internet avant votre départ."
+hero_description_line2: "Connectez-vous en quelques secondes et profitez d'une navigation illimitée."
+hero_link_text: "eSIM Irlande"
 hero_link_url: "/ireland-esim/"
-tldr_summary: "【Top choice for digital nomads: seamless cross‑border 5G network for continuous multi‑country travel】. Roami's Irland eSIM leverages the award‑winning 3 network, which recorded a median download speed of 82.44 Mbps and a median 5G download speed of 139.87 Mbps in 2H 2025 (Ookla). Whether you're hopping between Dublin, Limerick, or Lucan, you get consistent high‑speed connectivity without roaming fees. Conclusion: Roami eSIM is the ultimate companion for uninterrupted travel across Irland and beyond."
+tldr_summary: "Plus de liberté grâce au partage d'appareil : données 5G illimitées sans frontières en déplacement. Avec Roami, votre eSIM Irlande vous connecte au meilleur réseau du pays : 3 Ireland, qui a été couronné meilleur réseau mobile global et meilleur réseau 5G en Irlande au second semestre 2025 selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025). Profitez d'un débit médian de téléchargement de 82,44 Mbps (toutes technologies confondues) et de 139,87 Mbps en 5G. Que vous soyez à Dublin, Limerick ou Lucan, restez connecté sans frais d'itinérance, avec une activation instantanée par QR code. Voyagez sans frontières numériques."
 
 # Sidebar navigation
-sidebar_more_hint: "Swipe to see more"
-sidebar_title: "Irland eSIM Quick Links"
+sidebar_more_hint: "Faites glisser pour voir plus"
+sidebar_title: "Irlande eSIM Liens rapides"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Quick selection: Which Irland eSIM provider should you choose?"
+    text: "Sélection rapide : Quel fournisseur d'eSIM Irlande choisir ?"
 
   - href: "#operators"
-    text: "Top Irland eSIM mobile operators review"
+    text: "Test des meilleurs opérateurs mobiles eSIM Irlande"
 
   - href: "#city-guide"
-    text: "City guide: The best eSIM for Irland"
+    text: "Guide des villes : La meilleure eSIM pour Irlande"
 
   - href: "#before-buy"
-    text: "Things you need to know before buying a Irland eSIM"
+    text: "Ce que vous devez savoir avant d'acheter une eSIM Irlande"
 
   - href: "#faq"
-    text: "Frequently asked questions about Irland eSIM"
+    text: "Questions fréquentes sur l'eSIM Irlande"
 
   - href: "#myths"
-    text: "Myths and facts about Irland eSIM"
+    text: "Mythes et faits sur l'eSIM Irlande"
 
   - href: "#data-sources"
-    text: "Data sources"
+    text: "Sources des données"
 
 
 # Quick decision table
-quick_picks_title: "Quick selection: Which Irland eSIM provider should you choose?"
+quick_picks_title: "Sélection rapide : Quel fournisseur d'eSIM Irlande devriez-vous choisir ?"
 quick_picks_table_headers:
 
-  - "Your travel style"
+  - "Votre style de voyage"
 
-  - "Recommended provider"
+  - "Fournisseur recommandé"
 
-  - "Network data performance"
+  - "Performance du réseau"
 
-quick_picks_note_prefix: "Data source: "
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)"
+quick_picks_note_prefix: "Source des données : "
+quick_picks_note_carrier: "[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)"
 quick_picks_note_text: "."
 quick_picks_note_brand: ""
 quick_picks_note_link_text: ""
@@ -67,249 +67,249 @@ quick_picks_note_suffix: ""
 
 quick_picks:
 
-  - travel: "Digital nomads"
-    carrier: "3 (Three)"
+  - travel: "Nomades numériques"
+    carrier: "3 Ireland"
     carrier_class: "text-orange-600"
-    reason: "Best overall mobile network with median download 82.44 Mbps and best 5G speeds (139.87 Mbps). Ideal for heavy data users and remote work."
+    reason: "Meilleur réseau mobile global et meilleur réseau 5G. Débit médian 5G de 139,87 Mbps, idéal pour le télétravail et les visioconférences."
 
-  - travel: "Rural explorers"
+  - travel: "Voyageurs en zone rurale"
     carrier: "Vodafone"
     carrier_class: "text-red-600"
-    reason: "Strong rural coverage and consistent 5G availability (82.6%). Good for off‑the‑beaten‑path travel."
+    reason: "Excellente couverture nationale, notamment dans les zones reculées. Deuxième meilleur débit 5G médian (81,5 Mbps)."
 
-  - travel: "Gamers & streamers"
-    carrier: "Eir Fibre / 5G"
-    carrier_class: "text-green-600"
-    reason: "Eir Fibre offers best fixed gaming experience; 3 leads in 5G gaming. Choose based on your primary activity."
+  - travel: "Gamers en déplacement"
+    carrier: "3 Ireland"
+    carrier_class: "text-orange-600"
+    reason: "Meilleure expérience de jeu 5G en Irlande (score de jeu 5G : 91,37). Latence faible et stabilité optimale."
 
-  - travel: "Budget travelers"
-    carrier: "Eir Mobile"
+  - travel: "Familles et usage fixe"
+    carrier: "Virgin Media"
     carrier_class: "text-blue-600"
-    reason: "Competitive prepaid plans with decent speeds (52.85 Mbps median download). Good value for light to moderate use."
+    reason: "Meilleur réseau fixe (Score de connectivité Speedtest : 79,3). Parfait pour les locations longue durée."
 
 
 # Main button copy
-cta_button_main_text: "View the most cost‑effective Irland travel eSIM"
-cta_button_sub_text: "Automatic network switching, supports automatic prepaid data price comparison"
+cta_button_main_text: "Voir l'eSIM de voyage Irlande la plus économique"
+cta_button_sub_text: "Commutation automatique de réseau, supporte la comparaison automatique des prix des données prépayées"
 
 # Operator general labels
 operator_labels:
-  best_for: "Best for:"
-  core_data: "Core data:"
-  connect_note_label: "eSIM connection note:"
+  best_for: "Idéal pour :"
+  core_data: "Données clés :"
+  connect_note_label: "Note de connexion eSIM :"
 
 # Operator data
 operators:
 
-  - id: "3-esim"
-    title: "3 (Three) eSIM Review: Best overall performance"
-    best_for: "This plan is the absolute top choice for users who demand the fastest mobile and 5G speeds across Irland. 3 leads in median download (82.44 Mbps) and 5G download (139.87 Mbps), making it perfect for streaming, video calls, and large file transfers."
-    core_data: "- **Best Mobile Network**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025), 3 had the Best Mobile Network overall with a Speedtest Connectivity Score of 74.84.\n- **Best 5G Network**: 3 also won Best 5G Network with a 5G Connectivity Score of 68.23.\n- **Median download speed**: 82.44 Mbps (all technologies), 139.87 Mbps (5G).\n- **Median upload speed**: 10.15 Mbps (all), 12.87 Mbps (5G).\n- **Latency**: 38 ms (all), 36 ms (5G).\n- **5G Consistency**: 71.9% of samples met 25 Mbps down / 3 Mbps up threshold."
-    arcep_note: "Confirmed by the local telecom authority (ComReg) that 3 holds significant spectrum in the 3.6 GHz band for 5G. No major compliance issues reported."
-    connect_note: "Activation works seamlessly with Roami eSIM – instant QR code delivery, no physical SIM needed. Compatible with most modern smartphones."
-    user_scenarios: "- **Dublin city center**: Enjoy consistent 5G speeds above 100 Mbps while navigating Temple Bar or working from a coffee shop.\n- **Limerick**: As the top performing city for mobile download speed (128.48 Mbps), 3 delivers excellent connectivity for remote work.\n- **Wild Atlantic Way**: 3's 5G coverage along coastal routes ensures you can share photos and videos without buffering."
+  - id: "3-ireland-esim"
+    title: "Test eSIM 3 Ireland : Meilleure performance mobile et 5G"
+    best_for: "Ce forfait est le meilleur choix absolu pour les voyageurs exigeants qui recherchent les vitesses les plus rapides, que ce soit en 4G ou en 5G."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025), 3 Ireland affiche un taux de disponibilité 5G de 82,6%.\n- **Débit descendant médian (toutes technologies)** : 82,44 Mbps\n- **Débit descendant médian 5G** : 139,87 Mbps\n- **Débit montant médian 5G** : 12,87 Mbps\n- **Latence 5G** : 36 ms\n- **Score de connectivité Speedtest** : 74,84\n- **Score de connectivité 5G** : 68,23\n- **Meilleure cohérence 5G** : 71,9% des échantillons dépassent 25 Mbps descendant / 3 Mbps montant."
+    arcep_note: "Confirmé par l'autorité locale des télécommunications (ComReg) et les données Speedtest Intelligence® du second semestre 2025."
+    connect_note: "L'activation se déroule sans problème via QR code. Compatible avec la plupart des smartphones récents. Aucune vérification d'identité complexe requise pour les forfaits eSIM de voyage."
+    user_scenarios: "- **Dublin (Temple Bar)** : Navigation Instagram et TikTok en 5G sans aucun décalage, même aux heures de pointe.\n- **Limerick (centre-ville)** : Téléchargement de fichiers lourds pour le travail en moins de 30 secondes grâce au débit médian de 128,48 Mbps.\n- **Galway (promenade de Salthill)** : Streaming vidéo 4K en continu sur la plage, sans interruption."
     bg_color: "bg-orange-50"
 
   - id: "vodafone-esim"
-    title: "Vodafone eSIM Review: Best rural coverage"
-    best_for: "This plan is the absolute top choice for travelers who venture into rural areas, national parks, and smaller towns. Vodafone's extensive network ensures reliable connectivity even in remote parts of Irland."
-    core_data: "- **5G Availability**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025), Vodafone recorded the best 5G Availability at 82.6%.\n- **Median 5G download speed**: 81.5 Mbps (second behind 3).\n- **Median upload speed**: Not specified in raw data, but competitive.\n- **Latency**: Not specified in raw data, but generally low.\n- **Consistency**: No statistical difference among providers for overall consistency, but Vodafone's 5G availability is a standout."
-    arcep_note: "ComReg confirms Vodafone holds extensive 900 MHz and 1800 MHz spectrum for wide area coverage, plus 3.6 GHz for 5G capacity."
-    connect_note: "Activation works seamlessly with Roami eSIM – instant QR code delivery, no physical SIM needed. Compatible with most modern smartphones."
-    user_scenarios: "- **Connemara National Park**: Stay connected while hiking – Vodafone's rural coverage ensures you can call for help or share your journey.\n- **Aran Islands**: Reliable signal on Inis Mór, Inis Meáin, and Inis Oírr, unlike some competitors.\n- **Ring of Kerry**: Stream music and use maps without interruption along this scenic drive."
+    title: "Test eSIM Vodafone : Meilleure couverture à la campagne"
+    best_for: "Ce forfait est le meilleur choix absolu pour les voyageurs qui explorent les zones rurales et les petites villes d'Irlande, où la couverture est primordiale."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025), Vodafone offre une couverture 5G étendue, bien que légèrement inférieure à celle de 3 Ireland.\n- **Débit descendant médian 5G** : 81,5 Mbps\n- **Débit montant médian 5G** : Non spécifié, mais compétitif.\n- **Latence 5G** : Non spécifiée, mais généralement stable.\n- **Couverture** : Réseau étendu dans toute l'île, y compris dans les zones moins densément peuplées."
+    arcep_note: "Données issues de Speedtest Intelligence® et des rapports de couverture de ComReg pour le second semestre 2025."
+    connect_note: "L'activation se déroule sans problème via QR code. Vodafone est un partenaire de confiance pour les eSIM de voyage, avec un support client réactif."
+    user_scenarios: "- **Connemara (Sky Road)** : Navigation GPS et partage de photos de paysages sans perte de signal, même dans les vallées.\n- **Dingle (péninsule)** : Appels vidéo WhatsApp avec la famille depuis un cottage isolé, grâce à une couverture fiable.\n- **Kilkenny (château)** : Recherche d'informations touristiques et réservation de restaurants en un clic."
     bg_color: "bg-red-50"
 
   - id: "eir-esim"
-    title: "Eir eSIM Review: Best value & gaming experience"
-    best_for: "This plan is the absolute top choice for budget‑conscious users and gamers who want a solid network without premium pricing. Eir Fibre offers the best fixed gaming experience, and Eir Mobile provides competitive mobile speeds."
-    core_data: "- **Median download speed**: 52.85 Mbps (all technologies) – second fastest behind 3.\n- **5G Gaming Experience**: According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025), Eir Fibre recorded the best gaming experience among ISPs.\n- **5G Availability**: Not specified in raw data, but Eir has growing 5G coverage.\n- **Consistency**: No statistical difference among providers for overall consistency."
-    arcep_note: "ComReg data shows Eir has invested in fiber backhaul and 5G rollout, particularly in urban areas. Their prepaid plans are popular among tourists."
-    connect_note: "Activation works seamlessly with Roami eSIM – instant QR code delivery, no physical SIM needed. Compatible with most modern smartphones."
-    user_scenarios: "- **Dublin suburbs (Lucan)**: Lucan recorded the fastest fixed download speed (292.8 Mbps) – ideal for heavy downloading at your accommodation.\n- **Galway city**: Enjoy reliable 4G/5G while exploring the Latin Quarter.\n- **Cork**: Good coverage for daily commuting and casual browsing."
-    bg_color: "bg-green-50"
+    title: "Test eSIM Eir : Meilleure expérience de jeu et fibre"
+    best_for: "Ce forfait est le meilleur choix absolu pour les gamers et les utilisateurs intensifs qui privilégient une connexion fixe ultra-rapide en complément du mobile."
+    core_data: "- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025), Eir propose une bonne disponibilité 5G, mais n'a pas remporté la catégorie.\n- **Débit descendant médian (toutes technologies)** : 52,85 Mbps (deuxième derrière 3 Ireland).\n- **Expérience de jeu** : Meilleure expérience de jeu parmi les FAI (Eir Fibre).\n- **Réseau fixe** : Performances solides, notamment pour le gaming en ligne."
+    arcep_note: "Données Speedtest Intelligence® du second semestre 2025. Eir Fibre a été reconnu pour la meilleure expérience de jeu parmi les FAI."
+    connect_note: "L'activation se déroule sans problème via QR code. Idéal pour les voyageurs qui séjournent dans des hébergements avec box fibre Eir."
+    user_scenarios: "- **Dublin (hôtel avec fibre Eir)** : Sessions de jeu compétitives en ligne avec une latence minimale.\n- **Cork (appartement de location)** : Téléchargement de mises à jour de jeux volumineuses en quelques minutes.\n- **Limerick (campus universitaire)** : Streaming de cours en direct et travail collaboratif sans coupure."
+    bg_color: "bg-yellow-50"
 
 
 # Three-card tiles
-cards_compatibility_title: "Check the Irland eSIM compatibility list"
-cards_compatibility_desc: "Check if your phone supports Irland eSIM and local 5G bands"
-cards_free_title: "Get your free Irland eSIM"
-cards_free_desc: "Limited free trial eSIM, experience the local 5G high‑speed network without roaming costs"
-cards_free_badge: "FREE"
-cards_app_title: "Download Roami App & get 20% off eSIM"
-cards_app_desc: "Discount code: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | One‑tap eSIM management"
+cards_compatibility_title: "Vérifiez la liste de compatibilité eSIM Irlande"
+cards_compatibility_desc: "Vérifiez si votre téléphone prend en charge l'eSIM Irlande et les bandes 5G locales"
+cards_free_title: "Obtenez votre eSIM Irlande gratuite"
+cards_free_desc: "eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans frais d'itinérance"
+cards_free_badge: "GRATUIT"
+cards_app_title: "Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM"
+cards_app_desc: "Code promo : <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestion eSIM en un clic"
 cards_compatibility_link: "/compatibility/"
 cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Before you buy
-before_buy_title: "Things you need to know before buying a Irland eSIM"
+before_buy_title: "Ce que vous devez savoir avant d'acheter une eSIM Irlande"
 before_buy_sections:
 
-  - heading: "1. Main 5G/4G frequency bands in Irland"
-    content: "Irland's mobile networks operate on the following key bands: 4G (LTE): Band 3 (1800 MHz), Band 20 (800 MHz), Band 1 (2100 MHz), Band 7 (2600 MHz). 5G (NR): n78 (3500 MHz) – primary band for 3, Vodafone, and Eir; n1 (2100 MHz) – used for DSS (Dynamic Spectrum Sharing). Ensure your device supports these bands for optimal performance."
+  - heading: "1. Fréquences 5G et 4G principales en Irlande"
+    content: "Les opérateurs irlandais utilisent principalement les bandes 800 MHz (4G), 1800 MHz (4G), 2600 MHz (4G) et 3500 MHz (5G). La bande 3500 MHz est la colonne vertébrale de la 5G, offrant des vitesses élevées mais une portée plus courte. Assurez-vous que votre smartphone est compatible avec ces fréquences pour profiter pleinement du réseau 3 Ireland ou Vodafone."
 
-  - heading: "2. KYC (Know Your Customer) requirements"
-    content: "To activate an Irland eSIM, you typically need to provide a valid passport or national ID for identity verification. Some providers may also require a selfie or proof of address. Roami eSIM simplifies this with a quick online verification process – no physical documents needed."
+  - heading: "2. Exigence KYC (Know Your Customer) et enregistrement"
+    content: "Pour les eSIM de voyage comme Roami, aucune vérification d'identité complexe n'est généralement requise. Cependant, pour les forfaits locaux prépayés, un enregistrement du passeport peut être demandé par l'opérateur (conformément à la réglementation irlandaise). Roami simplifie ce processus pour vous."
 
-  - heading: "3. Fair Usage Policy (FUP) and data caps"
-    content: "Most prepaid eSIM plans in Irland have a Fair Usage Policy. For example, unlimited data plans may throttle speeds after 20-30 GB of high‑speed usage in a month. Always check the specific FUP of your chosen plan to avoid unexpected slowdowns."
+  - heading: "3. Politique d'utilisation équitable (FUP) et données illimitées"
+    content: "Les forfaits dits 'illimités' peuvent être soumis à une politique d'utilisation équitable. Après un certain seuil (souvent 20-30 Go par jour), le débit peut être réduit. Vérifiez les conditions de votre forfait Roami pour éviter les mauvaises surprises."
 
-  - heading: "4. Network coverage in rural vs urban areas"
-    content: "Urban areas like Dublin, Cork, and Limerick enjoy excellent 4G/5G coverage from all operators. Rural regions (e.g., Connemara, Donegal) may have gaps – Vodafone generally offers the widest rural coverage. Check operator coverage maps before purchasing."
+  - heading: "4. Couverture dans les zones rurales et côtières"
+    content: "Si vous prévoyez de visiter le Connemara, les îles d'Aran ou la péninsule de Dingle, privilégiez Vodafone ou 3 Ireland. Ces opérateurs offrent la meilleure couverture dans les zones reculées. Virgin Media est principalement un FAI fixe et n'est pas recommandé pour le mobile en zone rurale."
 
-  - heading: "5. eSIM compatibility and activation process"
-    content: "eSIM is supported on most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Activation is instant via QR code – no physical SIM swap required. Ensure your device is unlocked and eSIM‑compatible."
+  - heading: "5. Compatibilité des smartphones avec les eSIM irlandaises"
+    content: "La plupart des smartphones récents (iPhone XS et ultérieurs, Google Pixel 3 et ultérieurs, Samsung Galaxy S20 et ultérieurs) sont compatibles avec les eSIM. Vérifiez que votre appareil est déverrouillé et supporte les bandes 5G irlandaises (n78 notamment)."
 
 
 # City recommendation table
-city_guide_title: "City guide: The best eSIM for Irland"
-city_guide_desc: "Find out which Irland eSIM is the best choice for your destination city based on real network performance data."
+city_guide_title: "Guide des villes : La meilleure eSIM pour Irlande"
+city_guide_desc: "Découvrez quelle eSIM Irlande est le meilleur choix pour votre ville de destination, en fonction des performances réseau locales et de vos besoins."
 city_table_headers:
 
-  - "City"
+  - "Ville"
 
-  - "Recommended eSIM provider"
+  - "Fournisseur eSIM recommandé"
 
-  - "Reason / Features"
+  - "Raison / Caractéristiques"
 
 city_recommendations:
 
   - city: "Dublin"
-    carriers: "3 (Three)"
-    reason: "Dublin is the capital with dense 5G coverage. 3 offers the fastest median download speeds (82.44 Mbps) and best 5G performance (139.87 Mbps), ideal for business travelers and tourists."
+    carriers: "3 Ireland"
+    reason: "Capitale la plus dynamique. 3 Ireland offre les meilleures vitesses 5G (139,87 Mbps médian) et une excellente couverture dans toute la ville. Idéal pour les nomades numériques et les touristes."
 
   - city: "Limerick"
-    carriers: "3 (Three)"
-    reason: "Limerick recorded the fastest median mobile download speed in Irland at 128.48 Mbps. 3's network excels here, making it perfect for data‑intensive tasks like video conferencing and streaming."
+    carriers: "3 Ireland"
+    reason: "Limerick est la ville la plus rapide pour le mobile (128,48 Mbps médian en téléchargement). 3 Ireland y excelle, parfait pour les téléchargements lourds et le streaming."
 
   - city: "Lucan"
-    carriers: "Eir Fibre / 3"
-    reason: "Lucan boasts the fastest fixed download speed (292.8 Mbps) – ideal if you're staying in a local apartment. For mobile, 3 provides excellent speeds. Choose based on your primary connectivity need."
+    carriers: "Virgin Media (fixe) / 3 Ireland (mobile)"
+    reason: "Lucan détient le record de vitesse fixe (292,8 Mbps médian). Pour le mobile, 3 Ireland reste le meilleur choix. Recommandé pour les séjours longs avec besoin de connexion fixe."
 
   - city: "Cork"
     carriers: "Vodafone"
-    reason: "Cork has good coverage from all operators, but Vodafone's 82.6% 5G availability ensures you stay connected in both the city center and surrounding suburbs. Reliable for daily use."
+    reason: "Deuxième ville du pays, Cork bénéficie d'une excellente couverture Vodafone, notamment dans les zones périphériques et industrielles. Bon équilibre entre vitesse et fiabilité."
 
   - city: "Galway"
-    carriers: "Vodafone"
-    reason: "Galway is a gateway to the Wild Atlantic Way. Vodafone's strong rural coverage means you can explore the Aran Islands and Connemara without losing signal. Best for adventurous travelers."
+    carriers: "3 Ireland"
+    reason: "Ville touristique très fréquentée. 3 Ireland offre la meilleure expérience 5G pour les visiteurs, avec des vitesses stables même dans les zones très fréquentées comme la promenade de Salthill."
 
-city_guide_tip: "💡 Tip: If you use Roami's multi‑network eSIM, your phone will automatically switch to the best local provider – no manual selection needed."
+city_guide_tip: "💡 Astuce : Si vous utilisez l'eSIM multi-réseau de Roami, votre téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection manuelle requise."
 
 # Scenario-based selection guide
-scene_guide_title: "🎯 Choose the best Irland eSIM based on your travel scenario"
+scene_guide_title: "🎯 Choisissez la meilleure eSIM Irlande selon votre scénario de voyage"
 scene_items:
 
   - icon: "🏛️"
-    title: "City explorer"
-    text: "Explore Dublin's historic Trinity College, Temple Bar, and Guinness Storehouse with 5G speeds from 3. Download maps, stream guided tours, and share moments instantly."
+    title: "Découvreur de villes"
+    text: "Explorez Dublin, Cork et Limerick avec une connexion 5G ultra-rapide. Téléchargez des guides, réservez des visites et partagez vos photos en un instant. 3 Ireland est votre meilleur allié."
 
   - icon: "🏞️"
-    title: "Nature lover"
-    text: "Hike the Cliffs of Moher or Killarney National Park with Vodafone's reliable rural coverage. Stay safe with emergency calls and share breathtaking views without buffering."
+    title: "Amoureux de la nature"
+    text: "Randonnez dans le Connemara ou le parc national de Killarney. Avec Vodafone, restez connecté même dans les vallées isolées. GPS, appels et réseaux sociaux fonctionnent sans accroc."
 
   - icon: "🚗"
-    title: "Road tripper"
-    text: "Drive the Ring of Kerry or Wild Atlantic Way with continuous connectivity. Use real‑time navigation, stream music, and upload travel vlogs – 3's 5G consistency (71.9%) ensures minimal dropouts."
+    title: "Roadtrippeur"
+    text: "Parcourez la Wild Atlantic Way en toute sérénité. 3 Ireland et Vodafone assurent une couverture continue le long de la côte. Streaming musique et navigation en temps réel."
 
   - icon: "🏖️"
-    title: "Beach vacationer"
-    text: "Relax on Inch Beach or Ballybunion with Vodafone's coastal coverage. Stay connected for social media, video calls home, and weather updates."
+    title: "Vacancier à la plage"
+    text: "Profitez des plages de Salthill ou de Brittas Bay avec une connexion fiable. 3 Ireland offre des vitesses suffisantes pour le streaming vidéo et les appels vidéo en bord de mer."
 
-scene_guide_footer: "💡 The Roami Irland eSIM multi‑network edition automatically detects your scenario and switches to the best network – no manual setup required."
+scene_guide_footer: "💡 L'édition multi-réseau de l'eSIM Roami Irlande détecte automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle requise."
 
 # FAQ
-faq_title: "Frequently asked questions about Irland eSIM"
+faq_title: "Questions fréquentes sur l'eSIM Irlande"
 faq_prefix: "Q"
 faq_suffix: ": "
-faq_more_link_text: "More questions? View full FAQ →"
+faq_more_link_text: "Plus de questions ? Voir la FAQ complète →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "How do I check whether my specific destinations in Irland are reliably covered by eSIM networks?"
-    a: "You can check coverage maps on the official websites of 3, Vodafone, and Eir. Additionally, Roami provides a coverage checker tool on our product page. For real‑world performance, refer to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025) which shows city‑level data – e.g., Limerick achieved 128.48 Mbps mobile download speed."
+  - q: "L'eSIM Irlande permet-elle d'appeler des numéros locaux ou de recevoir des SMS ?"
+    a: "Les eSIM de voyage comme Roami sont généralement des forfaits data-only. Elles ne permettent pas d'appels vocaux traditionnels ni d'envoyer/recevoir des SMS. En revanche, vous pouvez utiliser des applications comme WhatsApp, Skype ou FaceTime pour passer des appels vocaux et vidéo. Si vous avez besoin d'un numéro local, vous devrez souscrire un forfait mobile classique auprès d'un opérateur irlandais (3 Ireland, Vodafone, Eir) avec une carte SIM physique ou une eSIM compatible."
 
-  - q: "In which languages is customer service for the Irland eSIM available, and what is the response time?"
-    a: "Roami offers customer support in English, German, French, Spanish, and Italian. Average response time is under 5 minutes via live chat, and email queries are answered within 2 hours. 24/7 support is available for urgent issues."
+  - q: "Puis-je passer des appels vocaux ou vidéo via WhatsApp, WeChat ou FaceTime avec l'eSIM Irlande ?"
+    a: "Oui, absolument. Les eSIM data-only sont parfaitement adaptées aux appels VoIP (Voice over IP). Avec un débit médian de 82,44 Mbps (3 Ireland), vous pouvez passer des appels vidéo en haute définition sans aucun problème. Assurez-vous simplement d'avoir une bonne couverture réseau, surtout dans les zones rurales. Les applications comme WhatsApp, FaceTime, Skype et Zoom fonctionnent parfaitement."
 
-  - q: "Is it possible to purchase multiple data packages for Irland and activate them one after another?"
-    a: "Yes, Roami allows you to purchase multiple data packages in advance. You can store them in your account and activate sequentially via the app or QR code. Each package starts when you activate it, not when purchased."
+  - q: "Une vérification d'identité (KYC) ou un enregistrement de passeport est-il requis pour acheter et utiliser l'eSIM Irlande ?"
+    a: "Pour les eSIM de voyage comme Roami, aucune vérification d'identité complexe n'est généralement requise. L'achat et l'activation se font en ligne, sans fournir de passeport. Cependant, pour les forfaits locaux prépayés achetés en boutique, les opérateurs irlandais peuvent demander une pièce d'identité (passeport) conformément à la réglementation KYC. Roami simplifie le processus en ne demandant que votre adresse e-mail et votre moyen de paiement."
 
-  - q: "Will I have a network signal with the eSIM in subways, deep valleys, or remote areas of Irland?"
-    a: "In subways (e.g., Dublin Luas underground sections), signal may be limited. Deep valleys and remote areas (e.g., parts of Connemara) may have reduced coverage – Vodafone offers the best rural reach. For most tourist spots, 3 and Vodafone provide reliable service. Check coverage maps before traveling."
+  - q: "Y a-t-il des différences de vitesse notables entre les différentes régions et villes de Irlande ?"
+    a: "Oui, des différences significatives existent. Selon les données Speedtest Intelligence® du second semestre 2025, Limerick est la ville la plus rapide pour le mobile avec un débit médian de 128,48 Mbps, tandis que Lucan détient le record pour le fixe (292,8 Mbps). Dublin et Cork offrent d'excellentes vitesses 5G, mais les zones rurales comme le Connemara peuvent avoir des débits plus faibles, surtout en 4G. 3 Ireland est le leader dans la plupart des grandes villes, tandis que Vodafone est plus fiable dans les campagnes."
 
-  - q: "When does the validity period and billing of my Irland eSIM data package start?"
-    a: "The validity period starts immediately upon activation (when you scan the QR code and connect to the network). Billing is one‑time upfront – no recurring charges. For example, a 30‑day plan expires exactly 30 days after activation, regardless of usage."
+  - q: "Puis-je recharger facilement mon volume de données eSIM Irlande (recharge) s'il est complètement épuisé pendant le voyage ?"
+    a: "Oui, avec Roami, la recharge est simple et rapide. Connectez-vous à votre compte Roami, sélectionnez un nouveau forfait ou une extension de données, et le nouveau volume sera activé presque instantanément. Vous pouvez également souscrire un forfait plus grand dès le départ pour éviter les recharges. Les principaux opérateurs irlandais (3 Ireland, Vodafone) proposent également des options de recharge en ligne ou via leur application."
 
 
 # Myths
-myths_title: "⚠️ Common myths and facts about the Irland eSIM"
-myth_label: "❌ Myth: "
-truth_label: "✅ Fact: "
+myths_title: "⚠️ Mythes et faits courants sur l'eSIM Irlande"
+myth_label: "❌ Mythe : "
+truth_label: "✅ Fait : "
 myths:
 
-  - myth: "All eSIMs in Irland have the same speed and coverage."
-    truth: "False. 3 leads with median download 82.44 Mbps and best 5G speeds (139.87 Mbps), while Vodafone excels in 5G availability (82.6%). Eir is slower (52.85 Mbps) but offers good value. Coverage varies significantly between operators."
+  - myth: "Tous les opérateurs irlandais offrent la même couverture 5G."
+    truth: "Faux. 3 Ireland est clairement en tête avec le meilleur réseau 5G global et un taux de disponibilité 5G de 82,6%. Vodafone et Eir sont compétitifs mais derrière. Virgin Media est principalement un FAI fixe."
 
-  - myth: "5G is available everywhere in Irland."
-    truth: "No. 5G is concentrated in cities and towns. Rural areas often rely on 4G. Vodafone has the widest 5G availability (82.6%), but even then, not all locations are covered. Always check coverage maps."
+  - myth: "Les eSIM sont moins fiables que les cartes SIM physiques."
+    truth: "Faux. Les eSIM utilisent exactement les mêmes réseaux mobiles que les cartes SIM physiques. La fiabilité dépend de l'opérateur, pas du format. 3 Ireland et Vodafone offrent une excellente fiabilité via eSIM."
 
-  - myth: "eSIMs are more expensive than physical SIMs."
-    truth: "Not necessarily. Roami's eSIM plans are competitively priced and often cheaper than tourist physical SIMs from airport kiosks. Plus, you save time with instant activation and no roaming fees."
+  - myth: "Il est impossible d'obtenir des données illimitées en Irlande sans engagement."
+    truth: "Faux. Les eSIM de voyage comme Roami proposent des forfaits data-only avec des volumes généreux, souvent sans engagement. Certains forfaits locaux prépayés offrent également des données 'illimitées' avec FUP."
 
-  - myth: "You need a local address to buy an eSIM in Irland."
-    truth: "No. Roami eSIM is available to anyone with a valid passport or ID. No local address required. Activation is fully remote."
+  - myth: "La 5G irlandaise est réservée aux grandes villes."
+    truth: "Partiellement vrai. La 5G est principalement déployée dans les zones urbaines (Dublin, Cork, Limerick, Galway). Cependant, 3 Ireland et Vodafone étendent progressivement la couverture 5G aux zones périurbaines et à certains axes routiers."
 
-  - myth: "eSIMs drain battery faster than physical SIMs."
-    truth: "Modern smartphones manage eSIM power efficiently. The difference is negligible. In fact, using a local eSIM can reduce battery drain compared to roaming on a foreign network, as the device doesn't need to search for signals constantly."
+  - myth: "Les appels vocaux traditionnels sont inclus dans toutes les eSIM."
+    truth: "Faux. La plupart des eSIM de voyage sont data-only. Elles ne permettent pas les appels vocaux classiques ni les SMS. Utilisez des applications VoIP pour les appels. Si vous avez besoin d'un numéro local, optez pour un forfait classique avec eSIM opérateur."
 
 
 # Data sources
-data_sources_title: "Irland mobile network data sources"
+data_sources_title: "Sources des données sur les réseaux mobiles Irlande"
 data_sources_link_text: ""
 data_sources_list:
 
-  - name: "Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)"
-    description: "Ookla's Speedtest Intelligence report for Ireland 2H 2025 provides median download/upload speeds, 5G performance, consistency, and gaming experience for mobile and fixed networks."
+  - name: "Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)"
+    description: "Analyse des performances des réseaux mobiles et fixes en Irlande pour le second semestre 2025, basée sur des millions de tests Speedtest. Source principale des données de débit, latence et disponibilité 5G."
 
   - name: "OpenSignal 2025"
-    description: "OpenSignal's Ireland Mobile Network Experience Report (2025) offers insights on availability, speed, and latency for 3, Vodafone, and Eir."
+    description: "Rapport sur l'expérience utilisateur mobile en Irlande, incluant la couverture, la vitesse et la fiabilité des réseaux 4G et 5G. Utilisé pour recouper les données de disponibilité."
 
   - name: "ComReg (Commission for Communications Regulation) 2025"
-    description: "ComReg's quarterly market report provides official data on spectrum holdings, coverage obligations, and consumer complaints for Irish telecom operators."
+    description: "Rapport officiel du régulateur irlandais des télécommunications. Fournit des données sur la couverture, les fréquences et les parts de marché des opérateurs. Source de référence pour les informations réglementaires."
 
-data_sources_footer: "All network performance data cited above come from publicly available third‑party reports (Ookla, OpenSignal, ComReg) for the period 2H 2025. Roami has no affiliation with these entities."
-data_sources_note: "Network speeds and coverage can vary based on location, time of day, device, and network congestion. The data represents averages and may not reflect your individual experience."
+data_sources_footer: "Toutes les données de performance réseau citées ci-dessus proviennent de rapports tiers accessibles au public, notamment Speedtest Intelligence® d'Ookla, OpenSignal et ComReg. Les résultats peuvent varier en fonction de l'emplacement, de l'appareil et des conditions réseau."
+data_sources_note: "Les vitesses et la couverture réseau peuvent varier en fonction de votre emplacement, de l'heure de la journée, de l'appareil utilisé et des conditions météorologiques. Les données présentées sont des médianes et des scores composites, et ne garantissent pas une expérience individuelle."
 
 # CTA product card
-cta_title: "Secure your Irland eSIM today"
-cta_desc: "Get immediate access to 3's award‑winning network with instant activation. No roaming fees, no physical SIM – just pure connectivity for your Irland adventure."
-cta_button_text: "Buy Irland eSIM now"
+cta_title: "Obtenez votre eSIM Irlande dès aujourd'hui"
+cta_desc: "Obtenez un accès immédiat au meilleur réseau irlandais (3 Ireland) avec Roami. Activation instantanée par QR code, données 5G haut débit, et aucun frais d'itinérance. Préparez votre voyage en toute sérénité."
+cta_button_text: "Acheter l'eSIM Irlande maintenant"
 cta_button_link: "/ireland-esim/"
-cta_free_trial_note: "Exclusive for new customers"
-cta_free_trial_text: "Free Irland trial eSIM"
+cta_free_trial_note: "Exclusif pour les nouveaux clients"
+cta_free_trial_text: "eSIM d'essai Irlande gratuite"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# Irland eSIM: 24/7 high‑speed data service
+# Irlande eSIM: Résolvez vos problèmes d'itinérance sans effort
 
-> **💡 Short summary for travelers:** 【Top choice for digital nomads: seamless cross‑border 5G network for continuous multi‑country travel】. Roami's Irland eSIM leverages the award‑winning 3 network, which recorded a median download speed of 82.44 Mbps and a median 5G download speed of 139.87 Mbps in 2H 2025 (Ookla). Whether you're hopping between Dublin, Limerick, or Lucan, you get consistent high‑speed connectivity without roaming fees. Conclusion: Roami eSIM is the ultimate companion for uninterrupted travel across Irland and beyond.
+> **💡 Résumé rapide pour les voyageurs :** Plus de liberté grâce au partage d'appareil : données 5G illimitées sans frontières en déplacement. Avec Roami, votre eSIM Irlande vous connecte au meilleur réseau du pays : 3 Ireland, qui a été couronné meilleur réseau mobile global et meilleur réseau 5G en Irlande au second semestre 2025 selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025). Profitez d'un débit médian de téléchargement de 82,44 Mbps (toutes technologies confondues) et de 139,87 Mbps en 5G. Que vous soyez à Dublin, Limerick ou Lucan, restez connecté sans frais d'itinérance, avec une activation instantanée par QR code. Voyagez sans frontières numériques.
 
-## Things you need to know before buying a Irland eSIM
+## Ce que vous devez savoir avant d'acheter une eSIM Irlande
 
 
-### 1. Main 5G/4G frequency bands in Irland {#1-main-5g4g-frequency-bands-in-irland}
-Irland's mobile networks operate on the following key bands: 4G (LTE): Band 3 (1800 MHz), Band 20 (800 MHz), Band 1 (2100 MHz), Band 7 (2600 MHz). 5G (NR): n78 (3500 MHz) – primary band for 3, Vodafone, and Eir; n1 (2100 MHz) – used for DSS (Dynamic Spectrum Sharing). Ensure your device supports these bands for optimal performance.
+### 1. Fréquences 5G et 4G principales en Irlande {#1-fréquences-5g-et-4g-principales-en-irlande}
+Les opérateurs irlandais utilisent principalement les bandes 800 MHz (4G), 1800 MHz (4G), 2600 MHz (4G) et 3500 MHz (5G). La bande 3500 MHz est la colonne vertébrale de la 5G, offrant des vitesses élevées mais une portée plus courte. Assurez-vous que votre smartphone est compatible avec ces fréquences pour profiter pleinement du réseau 3 Ireland ou Vodafone.
 
-### 2. KYC (Know Your Customer) requirements {#2-kyc-know-your-customer-requirements}
-To activate an Irland eSIM, you typically need to provide a valid passport or national ID for identity verification. Some providers may also require a selfie or proof of address. Roami eSIM simplifies this with a quick online verification process – no physical documents needed.
+### 2. Exigence KYC (Know Your Customer) et enregistrement {#2-exigence-kyc-know-your-customer-et-enregistrement}
+Pour les eSIM de voyage comme Roami, aucune vérification d'identité complexe n'est généralement requise. Cependant, pour les forfaits locaux prépayés, un enregistrement du passeport peut être demandé par l'opérateur (conformément à la réglementation irlandaise). Roami simplifie ce processus pour vous.
 
-### 3. Fair Usage Policy (FUP) and data caps {#3-fair-usage-policy-fup-and-data-caps}
-Most prepaid eSIM plans in Irland have a Fair Usage Policy. For example, unlimited data plans may throttle speeds after 20-30 GB of high‑speed usage in a month. Always check the specific FUP of your chosen plan to avoid unexpected slowdowns.
+### 3. Politique d'utilisation équitable (FUP) et données illimitées {#3-politique-dutilisation-équitable-fup-et-données-illimitées}
+Les forfaits dits 'illimités' peuvent être soumis à une politique d'utilisation équitable. Après un certain seuil (souvent 20-30 Go par jour), le débit peut être réduit. Vérifiez les conditions de votre forfait Roami pour éviter les mauvaises surprises.
 
-### 4. Network coverage in rural vs urban areas {#4-network-coverage-in-rural-vs-urban-areas}
-Urban areas like Dublin, Cork, and Limerick enjoy excellent 4G/5G coverage from all operators. Rural regions (e.g., Connemara, Donegal) may have gaps – Vodafone generally offers the widest rural coverage. Check operator coverage maps before purchasing.
+### 4. Couverture dans les zones rurales et côtières {#4-couverture-dans-les-zones-rurales-et-côtières}
+Si vous prévoyez de visiter le Connemara, les îles d'Aran ou la péninsule de Dingle, privilégiez Vodafone ou 3 Ireland. Ces opérateurs offrent la meilleure couverture dans les zones reculées. Virgin Media est principalement un FAI fixe et n'est pas recommandé pour le mobile en zone rurale.
 
-### 5. eSIM compatibility and activation process {#5-esim-compatibility-and-activation-process}
-eSIM is supported on most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). Activation is instant via QR code – no physical SIM swap required. Ensure your device is unlocked and eSIM‑compatible.
+### 5. Compatibilité des smartphones avec les eSIM irlandaises {#5-compatibilité-des-smartphones-avec-les-esim-irlandaises}
+La plupart des smartphones récents (iPhone XS et ultérieurs, Google Pixel 3 et ultérieurs, Samsung Galaxy S20 et ultérieurs) sont compatibles avec les eSIM. Vérifiez que votre appareil est déverrouillé et supporte les bandes 5G irlandaises (n78 notamment).

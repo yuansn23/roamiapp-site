@@ -509,52 +509,64 @@ faq_section:
 related_products:
   title: Ähnliche eSIM-Tarife
   items:
-  - name: USA eSIM
+  - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
     price: Ab 1,99 $
     is_highlight: false
-  - name: Großbritannien eSIM
+    slug: united-states-esim
+  - name: Vereinigtes Königreich eSIM
     flag: img/flags/gb.svg
     price: Ab 1,99 $
     is_highlight: false
+    slug: united-kingdom-esim
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Ab 1,99 $
     is_highlight: true
+    slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
     price: Ab 1,99 $
     is_highlight: false
+    slug: canada-esim
   - name: Türkei eSIM
     flag: img/flags/tr.svg
     price: Ab 1,99 $
     is_highlight: false
+    slug: turkey-esim
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Ab 1,99 $
     is_highlight: false
+    slug: china-esim
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: Ab 1,99 $
     is_highlight: false
+    slug: japan-esim
   - name: Hongkong eSIM
     flag: img/flags/hk.svg
     price: Ab 1,99 $
     is_highlight: false
+    slug: hong-kong-esim
   - name: Frankreich eSIM
     flag: img/flags/fr.svg
     price: Ab 1,99 $
     is_highlight: false
+    slug: france-esim
   - name: Spanien eSIM
     flag: img/flags/es.svg
     price: Ab 1,99 $
     is_highlight: false
+    slug: spain-esim
   - name: Deutschland eSIM
     flag: img/flags/de.svg
     price: Ab 1,99 $
     is_highlight: false
+    slug: germany-esim
   - name: Australien eSIM
     flag: img/flags/au.svg
     price: Ab 1,99 $
     is_highlight: false
+    slug: australia-esim
 ---

@@ -463,54 +463,66 @@ faq_section:
     - q: Как в любое время обновлять маршруты поездок онлайн, чтобы информировать компанию?
       a: Вы можете получить доступ к корпоративным туристическим порталам или написать в отдел кадров на ходу, используя вашу eSIM для Северной Америки, чтобы сообщить им о задержках рейсов или изменениях в расписании.
 related_products:
-  title: Похожие eSIM-планы
+  title: Похожие eSIM тарифы
   items:
-  - name: eSIM для США
+  - name: eSIM США
     flag: img/flags/us.svg
     price: От $1.99
     is_highlight: false
-  - name: eSIM для Великобритании
+    slug: united-states-esim
+  - name: eSIM Великобритании
     flag: img/flags/gb.svg
     price: От $1.99
     is_highlight: false
-  - name: eSIM для Европы
+    slug: united-kingdom-esim
+  - name: eSIM Европы
     flag: img/flags/eu.svg
     price: От $1.99
     is_highlight: true
-  - name: eSIM для Канады
+    slug: europe-esim
+  - name: eSIM Канады
     flag: img/flags/ca.svg
     price: От $1.99
     is_highlight: false
-  - name: eSIM для Турции
+    slug: canada-esim
+  - name: eSIM Турции
     flag: img/flags/tr.svg
     price: От $1.99
     is_highlight: false
-  - name: eSIM для Китая
+    slug: turkey-esim
+  - name: eSIM Китая
     flag: img/flags/cn.svg
     price: От $1.99
     is_highlight: false
-  - name: eSIM для Японии
+    slug: china-esim
+  - name: eSIM Японии
     flag: img/flags/jp.svg
     price: От $1.99
     is_highlight: false
-  - name: eSIM для Гонконга
+    slug: japan-esim
+  - name: eSIM Гонконга
     flag: img/flags/hk.svg
     price: От $1.99
     is_highlight: false
-  - name: eSIM для Франции
+    slug: hong-kong-esim
+  - name: eSIM Франции
     flag: img/flags/fr.svg
     price: От $1.99
     is_highlight: false
-  - name: eSIM для Испании
+    slug: france-esim
+  - name: eSIM Испании
     flag: img/flags/es.svg
     price: От $1.99
     is_highlight: false
-  - name: eSIM для Германии
+    slug: spain-esim
+  - name: eSIM Германии
     flag: img/flags/de.svg
     price: От $1.99
     is_highlight: false
-  - name: eSIM для Австралии
+    slug: germany-esim
+  - name: eSIM Австралии
     flag: img/flags/au.svg
     price: От $1.99
     is_highlight: false
+    slug: australia-esim
 ---
