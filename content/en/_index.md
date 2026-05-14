@@ -1,6 +1,6 @@
 ---
-title: "Instant Global eSIM: Stay Connected in 200+ Countries"
-description: "Reliable high-speed internet in 200+ destinations. No physical SIM needed. Flexible prepaid plans starting at just $4.50. Download Roami APP now."
+title: "Instant Global eSIM:High-Speed 5G"
+description: "Roami offers high-speed 5G prepaid eSIM in 200+ countries and regions – no physical SIM card needed, plans starting at just $1.99. Use promo code web20 to get an extra 20% off. Download the Roami App now."
 
 button:
   default: "Get 20% Discount"

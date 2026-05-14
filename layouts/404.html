@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<!-- 动态获取当前语言代码 -->
+<html lang="{{ .Site.Language.Lang }}" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{ partial "head.html" . }}
+    
+    <!-- 动态标题和描述 -->
+    <title>404 - Page Not Found | Roami eSIM</title>
+    <meta name="description" content="The page you are looking for does not exist. Return to Roami homepage to continue your journey.">
+    <meta name="robots" content="noindex, follow">
+
+    <!-- 规范化链接 -->
+    <link rel="canonical" href="{{ .Permalink }}" />
+
+    <!-- 多语言 hreflang 标签（404 页面支持多语言） -->
+    {{ if .IsTranslated }}
+        {{ range .AllTranslations }}
+        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+        {{ end }}
+        <link rel="alternate" hreflang="x-default" href="{{ .Site.Home.Permalink }}">
+    {{ else }}
+        <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
+        <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+    {{ end }}
+
+    <!-- Open Graph 社交分享标签 -->
+    <meta property="og:title" content="404 - Page Not Found | Roami eSIM">
+    <meta property="og:description" content="The page you are looking for does not exist. Return to Roami homepage to continue your journey.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+
+    <!-- Twitter Card 标签 -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="404 - Page Not Found | Roami eSIM">
+    <meta name="twitter:description" content="The page you are looking for does not exist. Return to Roami homepage to continue your journey."> 
+
+    <link href="/css/tailwind-compiled.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: { extend: { fontFamily: { 'sans': ['Inter','system-ui','sans-serif'] } } }
+        }
+    </script>
+    <style>
+        body { font-family: 'Inter', system-ui, sans-serif; }
+        .prose h2 { font-size: 1.5rem; font-weight: 700; color: #0f172a; margin-top: 2rem; margin-bottom: 1rem; }
+        .prose p { margin-bottom: 1rem; line-height: 1.75; color: #475569; }
+        .prose ul { list-style-type: disc; padding-left: 1.5rem; margin-bottom: 1rem; color: #475569; }
+        .prose li { margin-bottom: 0.5rem; }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-900 antialiased">
+
+<!-- 页头（与全站一致） -->
+{{ partial "header.html" . }}
+
+<!-- 404 主要区域：采用类似 terms 页面的居中布局，但内容替换为 404 错误提示 -->
+<header class="bg-white border-b border-slate-200 py-16 lg:py-24">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <h1 class="text-3xl md:text-5xl font-extrabold text-slate-900 mb-4">404</h1>
+        <p class="text-slate-500 text-lg">{{ i18n "404_page_not_found" | default "Page Not Found" }}</p>
+    </div>
+</header>
+
+<section class="py-16">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="bg-white p-8 md:p-12 rounded-2xl shadow-sm border border-slate-200 prose text-center">
+            <p class="text-lg text-slate-600 mb-6">
+                {{ i18n "404_message" | default "Oops! The page you are looking for doesn't exist or has been moved." }}
+            </p>
+            <a href="{{ "/" | relLangURL }}" class="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded-xl transition-all shadow-md">
+                ← {{ i18n "404_back_home" | default "Back to Homepage" }}
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- 页脚（与全站一致） -->
+{{ partial "footer.html" . }}
+
+<script>
+    // 如果有图标库（如 lucide）可在此初始化，但通常 header 中已包含
+    if (typeof lucide !== 'undefined' && lucide.createIcons) {
+        lucide.createIcons();
+    }
+    const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+    if (mobileMenuBtn) {
+        mobileMenuBtn.addEventListener('click', function () {
+            const mobileMenu = document.getElementById('mobile-menu');
+            if (mobileMenu) mobileMenu.classList.toggle('hidden');
+        });
+    }
+</script>
+</body>
+</html>

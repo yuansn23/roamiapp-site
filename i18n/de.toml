@@ -158,3 +158,12 @@ other = "⚡ 5G bereit"
 
 [fifa_button]
 other = "eSIM für die WM holen"
+
+[404_page_not_found]
+other = "404 – Seite nicht gefunden"
+
+[404_message]
+other = "Wir konnten die gesuchte Seite nicht finden. Sie wurde möglicherweise verschoben oder existiert nicht mehr. Keine Sorge — wir bringen Sie zurück zu Ihrer Reise."
+
+[404_back_home]
+other = "Zurück zur Startseite"

@@ -1,6 +1,6 @@
 ---
-title: "Sofortige globale eSIM: Bleiben Sie in über 200 Ländern verbunden"
-description: "Zuverlässiges Highspeed-Internet an über 200 Zielen. Keine physische SIM erforderlich. Flexible Prepaid-Tarife ab nur 1,99 $. Jetzt Roami App herunterladen."
+title: "Sofortige Global-eSIM:Hochgeschwindigkeits-5G"
+description: "Roami bietet Hochgeschwindigkeits-5G-Prepaid-eSIM in über 200 Ländern und Regionen an – keine physische SIM-Karte erforderlich, Tarife ab nur 1,99 $. Mit dem Aktionscode web20 erhalten Sie zusätzlich 20 % Rabatt"
 
 button:
   default: "20 % Rabatt erhalten"

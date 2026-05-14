@@ -1,6 +1,6 @@
 ---
-title: "eSIM mondiale instantanée : restez connecté dans plus de 200 pays"
-description: "Internet haut débit fiable dans plus de 200 destinations. Pas de SIM physique nécessaire. Forfaits prépayés flexibles à partir de seulement 4,50 €. Téléchargez l'application Roami dès maintenant."
+title: "eSIM mondiale instantanée:5G haut débit"
+description: "Roami propose des eSIM prépayées 5G haut débit dans plus de 200 pays et régions – sans carte SIM physique nécessaire, les forfaits commencent à seulement 1,99 $. Utilisez le code promo web20 pour bénéficier de 20 % de réduction supplémentaire."
 
 button:
   default: "Obtenez 20% de réduction"
