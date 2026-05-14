@@ -135,20 +135,20 @@
     
     <!-- 公司信息 Organization -->
     {{- $orgDesc := i18n "structured_data_org_description" | default "Professional Global eSIM Service Provider offering high-speed data roaming in 200+ countries." -}}
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "name": "Roami",
-      "url": "{{ .Site.BaseURL }}",
-      "logo": "{{ "logo.png" | absURL }}",
-      "description": {{ $orgDesc | jsonify }},
-      "sameAs": [
-        "https://apps.apple.com/app/id6747127122",
-        "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
-      ]
-    }
-    </script>
+ <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Roami",
+    "url": "{{ .Site.BaseURL }}",
+   "logo": "{{ "img/logo.png" | absURL }}"
+    "description": {{ $orgDesc | jsonify }},
+    "sameAs": [
+      "https://apps.apple.com/app/id6747127122",
+      "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+    ]
+  }
+</script>
 
     <!-- App 软件信息 SoftwareApplication （无文本，无需翻译） -->
     <script type="application/ld+json">
