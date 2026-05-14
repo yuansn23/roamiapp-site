@@ -2,8 +2,8 @@
 title: "Dual-eSIM funktioniert nicht? 12 Lösungen für das iPhone (CDMA, T-ADS, Kein Netz)"
 description: "Die zweite eSIM zeigt „Kein Netz“? Anrufe gehen direkt auf die Mailbox? Dieser Leitfaden behandelt CDMA-Fallback-Probleme, T-ADS-Cache-Fehler, Lösungen für Akkuverbrauch und Carrier-Lock-Prüfungen. Gültig für iPhone 17, 16 und iOS 26."
 keywords: ["eSIM Fehlerbehebung", "eSIM Aktivierung fehlgeschlagen", "eSIM kein Netz", "eSIM Übertragungsfehler", "Apple eSIM", "iOS 26 eSIM", "iPad eSIM funktioniert nicht", "eSIM APN Einstellungen", "eSIM Bestätigungscode", "eSIM Profil abgelaufen", "eSIM an anderes Gerät gebunden", "Dual eSIM Signalproblem", "eSIM DFU Fehler 53", "eSIM Carrier Lock", "eSIM plattformübergreifende Übertragung"]
-date: 2026-04-28T10:00:00Z
-lastmod: 2026-04-28T10:00:00Z
+date: 2026-05-08T10:00:00Z
+lastmod: 2026-05-08T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Fehlerbehebung", "Reise-Setup"]
 toc: true
 

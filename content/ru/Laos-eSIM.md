@@ -1,6 +1,6 @@
 ---
 title: Лаос eSIM тариф | Лучшая туристическая eSIM 2026 | Roami
-date: '2026-05-12T08:04:13+00:00'
+date: '2026-05-13T08:04:13+00:00'
 draft: false
 type: esim
 country_meta:

@@ -2,7 +2,7 @@
 title: "Roami Datenschutzrichtlinie | Wie wir die Sicherheit Ihrer Reisedaten schützen"
 description: "Lesen Sie die Datenschutzrichtlinie, um zu verstehen, wie Roami Ihre Daten sammelt, verwendet und schützt."
 last_updated: "März 2026"
-date: '2026-04-24T00:00:00+00:00'
+date: '2026-05-08T00:00:00+00:00'
 type: "page"
 layout: "privacy"  
 ---

@@ -2,6 +2,7 @@
 title: "À propos de Roami | L'expert eSIM connectant les voyageurs du monde entier"
 description: "En savoir plus sur Roami, votre solution réseau unique pour les voyageurs du monde entier. Basée aux États-Unis avec des bureaux dans le monde entier, proposant des forfaits eSIM économiques."
 layout: "about"
+date: '2026-05-14T03:13:34+00:00'
 type: "page"
 
 # Bannière supérieure (Hero)

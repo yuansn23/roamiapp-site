@@ -1,6 +1,6 @@
 ---
 title: Тариф eSIM для Юго-Восточной Азии | Лучшая туристическая eSIM 2026 | Roami
-date: '2026-05-08T14:41:24+00:00'
+date: '2026-05-13T14:41:24+00:00'
 draft: false
 type: esim
 country_meta:

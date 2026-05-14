@@ -2,7 +2,7 @@
 title: "Conditions d'utilisation de Roami | Contrat d'utilisation de votre eSIM mondial"
 description: "Lisez les conditions d'utilisation des solutions de connectivité eSIM mondiales de Roami."
 last_updated: "Mars 2026"
-date: '2026-04-24T00:00:00+00:00'
+date: '2026-05-14T03:13:34+00:00'
 layout: "terms"
 type: "page"
 ---

@@ -2,8 +2,8 @@
 title: "Was ist eine eSIM? Ein Leitfaden für Einsteiger zu integrierten SIM-Karten"
 description: "Neu bei eSIM? Dieser einsteigerfreundliche Leitfaden erklärt, was eine integrierte SIM ist, wie sie auf iPhone & iPad funktioniert, die Sicherheitsvorteile gegenüber physischen SIMs, Kompatibilitätslisten und einfache Einrichtungsschritte. Basierend auf offiziellen Apple-Dokumenten."
 keywords: ["was ist eSIM", "eSIM Definition", "wie funktioniert eSIM", "eSIM vs physische SIM", "Apple eSIM Unterstützung", "Vorteile eSIM", "integrierte SIM-Karte", "eSIM Leitfaden für Anfänger"]
-date: 2026-04-28T10:00:00Z
-lastmod: 2026-04-28T10:00:00Z
+date: 2026-05-08T10:00:00Z
+lastmod: 2026-05-08T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Fehlerbehebung", "Reise-Setup", "iPhone 17"]
 toc: true
 

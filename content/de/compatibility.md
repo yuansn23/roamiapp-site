@@ -3,7 +3,7 @@ title: "Liste eSIM-kompatibler Smartphones 2026"
 description: "Ist Ihr Smartphone eSIM-kompatibel? Prüfen Sie unsere vollständige, aktualisierte Liste der von eSIM unterstützten Geräte für 2026, einschließlich iPhone, Samsung Galaxy, Google Pixel und mehr."
 keywords: "eSIM-kompatible Smartphones, Handys die eSIM unterstützen, ist mein Handy eSIM-kompatibel, iPhone eSIM-Kompatibilität, Samsung eSIM-Handys, eSIM-unterstützte Geräte 2026, eSIM-Kompatibilität prüfen"
 layout: "compatibility"
-date: '2026-04-24T00:00:00+00:00'
+date: '2026-05-08T00:00:00+00:00'
 type: "page"
 
 # 🌟 SEO-Optimierung: FAQ Strukturierte Daten

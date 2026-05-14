@@ -2,7 +2,7 @@
 title: "Download Roami App: Best eSIM Price Comparison|Roami"
 description: "Get the best travel eSIM app. Auto-price comparison, 30% cheaper rates, local 5G networks, and a 100% refund guarantee. Use promo code WEB20 for 20% off."
 type: "page"
-date: '2026-04-25T00:00:00+00:00'
+date: '2026-05-14T03:13:34+00:00'
 layout: "app"
 
 # ================= 全局 UI 与无障碍标签配置 (UI & Accessibility Settings) =================

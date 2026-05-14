@@ -2,8 +2,8 @@
 title: "Как активировать eSIM на iPhone"
 description: "Узнайте, как легко активировать eSIM на устройствах iPhone и Android. Следуйте нашему пошаговому руководству, чтобы отсканировать QR-код и исправить распространенные ошибки активации."
 keywords: ["активация eSIM", "как активировать eSIM", "настройка eSIM на iPhone", "eSIM на Android", "QR-код eSIM", "туристическая eSIM", "устранение неполадок eSIM"]
-date: 2026-04-02T10:00:00Z
-lastmod: 2026-04-02T10:00:00Z
+date: 2026-05-12T10:00:00Z
+lastmod: 2026-05-12T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Устранение неполадок", "Настройка для путешествий"]
 toc: true
 image: "/images/esim-activation-guide.jpg"

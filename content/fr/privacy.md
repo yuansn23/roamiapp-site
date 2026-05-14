@@ -2,7 +2,7 @@
 title: "Politique de confidentialité de Roami | Comment nous protégeons la sécurité de vos données de voyage"
 description: "Lisez la politique de confidentialité pour comprendre comment Roami collecte, utilise et protège vos données."
 last_updated: "Mars 2026"
-date: '2026-04-24T00:00:00+00:00'
+date: '2026-05-14T03:13:34+00:00'
 type: "page"
 layout: "privacy"  
 ---

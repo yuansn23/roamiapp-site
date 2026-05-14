@@ -2,6 +2,7 @@
 title: "Über Roami | Der eSIM-Experte für Reisende weltweit"
 description: "Erfahren Sie mehr über Roami, Ihre Komplettlösung für globale Konnektivität. Hauptsitz in den USA mit Niederlassungen weltweit, bieten wir kostengünstige eSIM-Tarife."
 layout: "about"
+date: '2026-05-08T00:00:00+00:00'
 type: "page"
 
 # 顶部横幅区域 (Hero)

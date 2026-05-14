@@ -1,5 +1,6 @@
 ---
 title: "Centre d'aide"
+date: 2026-05-14T10:00:00Z
 description: "Trouvez des réponses à vos questions sur la configuration, l'utilisation des eSIM et les essais gratuits d'eSIM pour les réseaux américains, britanniques, japonais et mondiaux."
 outputs:
   - HTML

@@ -1,5 +1,6 @@
 ---
 title: "Guide mondial des opérateurs eSIM | Couverture réseau & vitesse"
+date: "2026-05-14T03:14:59+00:00"
 description: "Trouvez le meilleur réseau mobile pour vos destinations. Nous avons compilé les détails des opérateurs eSIM pour plus de 50 pays, y compris des analyses approfondies de la couverture 4G/5G."
 
 # Section Hero & Fil d'Ariane

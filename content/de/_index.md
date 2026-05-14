@@ -1,5 +1,6 @@
 ---
 title: "Sofortige Global-eSIM:Hochgeschwindigkeits-5G"
+date: '2026-05-08T00:00:00+00:00'
 description: "Roami bietet Hochgeschwindigkeits-5G-Prepaid-eSIM in über 200 Ländern und Regionen an – keine physische SIM-Karte erforderlich, Tarife ab nur 1,99 $. Mit dem Aktionscode web20 erhalten Sie zusätzlich 20 % Rabatt"
 
 button:

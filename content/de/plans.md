@@ -2,6 +2,7 @@
 title: "Plans"
 layout: "plans"
 type: "page"
+date: '2026-05-11T00:00:00+00:00'
 
 # 1. SEO 核心优化文案
 seo:

@@ -1,5 +1,6 @@
 ---
 title: "Hilfezentrum"
+date: '2026-05-08T00:00:00+00:00'
 description: "Finden Sie Antworten auf Ihre Fragen zur eSIM-Einrichtung, Nutzung und fordern Sie kostenlose eSIM-Tests für die USA, Großbritannien, Japan und weltweite Netze an."
 outputs:
   - HTML

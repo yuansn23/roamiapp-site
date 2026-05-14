@@ -1,6 +1,6 @@
 ---
 title: VAE eSIM Datentarif | Bester 2026 Reise-eSIM | Roami
-date: '2026-04-20T00:00:00+00:00'
+date: '2026-05-08T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
