@@ -1,18 +1,14 @@
 <!DOCTYPE html>
-<!-- 🌟 SEO 优化 1：动态读取当前语言，不能写死 "en" -->
 <html lang="{{ .Site.Language.Lang }}" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{ partial "head.html" . }}
-    <!-- 🌟 SEO 优化 2：动态标题和描述 (增加兜底逻辑) -->
-    <title>{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - Roami eSIM{{ end }}</title>
-    <meta name="description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}">
-    
-    <!-- 🌟 SEO 优化 3：Canonical 规范链接，防止谷歌认为你有重复内容 -->
-    <link rel="canonical" href="{{ .Permalink }}">
-    
-    <!-- 🌟 SEO 优化 4：多语言 hreflang 标签 (极其重要！告诉 Google 你的多语言版本对应关系) -->
+    <title>{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - Roami{{ end }}</title>
+    <meta name="description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="{{ .Permalink }}" />
+
     {{ if .IsTranslated }}
         {{ range .AllTranslations }}
         <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
@@ -20,115 +16,179 @@
         <link rel="alternate" hreflang="x-default" href="{{ .Site.Home.Permalink }}">
     {{ else }}
         <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
-        <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+        <link rel="alternate" hreflang="x-default" href="{{ .Site.Home.Permalink }}">
     {{ end }}
 
-    <!-- 🌟 SEO 优化 5：完整的 Open Graph 和 Twitter 标签 (分享到社媒时显示好看的卡片) -->
-    <meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - Roami eSIM{{ end }}">
-    <meta property="og:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}">
-    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+    <meta property="og:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
     <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:site_name" content="{{ .Site.Title }}">
     {{ with .Params.seo.image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
-    
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - Roami eSIM{{ end }}">
-    <meta name="twitter:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}">
+    <meta name="twitter:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+    <meta name="twitter:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
     {{ with .Params.seo.image }}<meta name="twitter:image" content="{{ . | absURL }}">{{ end }}
 
-    <!-- 🌟 SEO 优化 6：联系页面的 JSON-LD 结构化数据 (帮助谷歌理解这是联系方式) -->
+    <!-- JSON-LD Schema -->
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "ContactPage",
-      "name": "{{ .Title }}",
-      "description": "{{ .Description }}",
-      "url": "{{ .Permalink }}"
-    }
+    {{ .Params.schema | safeHTML }}
     </script>
 
-   
- 
-<link href="/css/tailwind-compiled.css" rel="stylesheet">
-
+    <link href="/css/tailwind-compiled.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-    <script>
-        tailwind.config = {
-            theme: { extend: { fontFamily: { 'sans': ['Inter','system-ui','sans-serif'] } } }
-        }
-    </script>
     <style>
         body { font-family: 'Inter', system-ui, sans-serif; }
+        .contact-card { transition: all 0.2s ease; }
+        .contact-card:hover { transform: translateY(-3px); box-shadow: 0 10px 25px -8px rgba(0,0,0,0.1); }
+        .policy-link { transition: all 0.2s ease; }
+        .policy-link:hover { transform: translateX(3px); }
     </style>
 </head>
-<body class="bg-slate-50 text-slate-900 antialiased flex flex-col min-h-screen">
+<body class="bg-white text-slate-900 antialiased">
 
-<!-- ═══════════ NAV ═══════════ -->
 {{ partial "header.html" . }}
 
-<!-- 🌟 SEO 优化：使用 <main> 标签告诉谷歌这是页面的核心内容 -->
-<main class="flex-grow">
-    <!-- ═══════════ PAGE HEADER ═══════════ -->
-    <header class="bg-white border-b border-slate-200 py-16 lg:py-24">
-        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <!-- 🌟 SEO 优化：确保页面只有一个 <h1> 标签 -->
-            <h1 class="text-3xl md:text-5xl font-extrabold text-slate-900 mb-4">{{ .Params.header_title }}</h1>
-            <p class="text-slate-500 text-lg max-w-2xl mx-auto">{{ .Params.header_subtitle }}</p>
+<!-- ========== HERO 区域 ========== -->
+<section class="relative pt-20 pb-16 lg:pt-28 lg:pb-20 overflow-hidden bg-gradient-to-br from-blue-50 to-indigo-100">
+    <div class="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div class="inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm rounded-full px-3 py-1 mb-4 shadow-sm">
+            <span class="text-amber-600 text-xs">📞</span>
+            <span class="text-slate-600 text-[11px] font-medium uppercase tracking-wider">{{ .Params.hero.badge }}</span>
         </div>
-    </header>
+        <h1 class="text-3xl md:text-4xl lg:text-5xl font-extrabold text-slate-900 leading-tight mb-4">
+            {{ .Params.hero.title }}
+        </h1>
+        <p class="text-base md:text-lg text-slate-700 leading-relaxed max-w-2xl mx-auto">
+            {{ .Params.hero.description }}
+        </p>
+    </div>
+</section>
 
-    <!-- ═══════════ CONTACT CONTENT ═══════════ -->
-    <section class="py-16">
-        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <!-- 🌟 SEO 优化：使用 <h2> 作为次级标题 -->
-            <h2 class="text-2xl font-bold text-slate-900 mb-8 text-center">{{ .Params.section_title }}</h2>
-            
-            <div class="space-y-6">
-                <!-- 🌟 核心魔法：使用 range 循环遍历 Markdown 里的联系卡片 -->
-                {{ range .Params.contact_cards }}
-                <div class="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-slate-200 flex flex-col sm:flex-row gap-6 items-start sm:items-center hover:shadow-md transition-shadow">
-                    
-                    <!-- 动态颜色和图标 -->
-                    <div class="flex-shrink-0 w-14 h-14 {{ .bg_color }} rounded-xl flex items-center justify-center {{ .text_color }}">
-                        <i data-lucide="{{ .icon }}" class="w-7 h-7"></i>
-                    </div>
-                    
-                    <div class="flex-grow">
-                        <!-- 🌟 SEO 优化：卡片标题使用 <h3> -->
-                        <h3 class="text-xl font-semibold text-slate-900 mb-2">{{ .title }}</h3>
-                        <p class="text-slate-600 leading-relaxed {{ if .email }}mb-3{{ end }}">{{ .description }}</p>
-                        
-                        <!-- 如果这个卡片配置了邮箱，就显示邮箱链接 -->
-                        {{ if .email }}
-                        <a href="mailto:{{ .email }}" class="inline-flex items-center text-blue-600 font-semibold hover:text-blue-700 transition-colors text-lg">
-                            {{ .email }}
-                            <i data-lucide="arrow-right" class="w-5 h-5 ml-2"></i>
-                        </a>
-                        {{ end }}
-                    </div>
+<!-- ========== 公司信息卡片 ========== -->
+<section class="py-6 bg-white border-b border-slate-200">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="bg-slate-50 rounded-xl p-4 border border-slate-200 flex flex-wrap justify-between items-center gap-3">
+            <div class="flex items-center gap-3">
+                <div class="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
                 </div>
-                {{ end }}
-                <!-- 循环结束 -->
-
+                <div>
+                    <div class="text-xs font-bold text-slate-800">{{ .Params.company.name }}</div>
+                    <div class="text-[10px] text-slate-500">Reg No: {{ .Params.company.reg_no }}</div>
+                </div>
+            </div>
+            <div class="flex items-center gap-3">
+                <div class="w-8 h-8 bg-emerald-100 rounded-full flex items-center justify-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+                </div>
+                <div>
+                    <div class="text-xs font-bold text-slate-800">Email</div>
+                    <div class="text-[10px] text-slate-500">{{ .Params.company.email }}</div>
+                </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
+
+<!-- ========== 主要内容区域 ========== -->
+<main class="py-10 bg-white">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <!-- 支持承诺 -->
+        <section class="mb-10">
+            <div class="bg-gradient-to-r from-blue-600 to-indigo-600 rounded-2xl p-6 text-center text-white">
+                <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#facc15" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mx-auto mb-3"><path d="M3 3h5l2 6L7 10a8 8 0 0 0 7 7l3-3 6 2v5H3z"/></svg>
+                <h2 class="text-xl md:text-2xl font-bold mb-2">{{ .Params.support.title }}</h2>
+                <p class="text-white/80 text-sm">{{ .Params.support.description }}</p>
+            </div>
+        </section>
+
+        <!-- 联系方式和地址 -->
+        <div class="grid md:grid-cols-2 gap-6 mb-10">
+            
+            <!-- 联系卡片 -->
+            <div class="contact-card bg-slate-50 rounded-xl p-5 border border-slate-200">
+                <div class="flex items-center gap-3 mb-4 pb-3 border-b border-slate-200">
+                    <div class="w-9 h-9 bg-blue-100 rounded-full flex items-center justify-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.362 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.574 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                    </div>
+                    <h3 class="font-bold text-slate-800">{{ .Params.contact.methods_title }}</h3>
+                </div>
+                <div class="space-y-3">
+                    <div class="flex items-center gap-3 text-sm">
+                        <span class="text-slate-400 w-16">Email:</span>
+                        <a href="mailto:{{ .Params.company.email }}" class="text-blue-600 hover:underline">{{ .Params.company.email }}</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 地址卡片 -->
+            <div class="contact-card bg-slate-50 rounded-xl p-5 border border-slate-200">
+                <div class="flex items-center gap-3 mb-4 pb-3 border-b border-slate-200">
+                    <div class="w-9 h-9 bg-emerald-100 rounded-full flex items-center justify-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+                    </div>
+                    <h3 class="font-bold text-slate-800">{{ .Params.contact.address_title }}</h3>
+                </div>
+                <div>
+                    <p class="text-sm text-slate-600 leading-relaxed">{{ .Params.company.address }}</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- 政策链接区域 -->
+        <section class="bg-slate-50 rounded-xl p-6 border border-slate-200 mb-10">
+            <div class="flex items-center gap-2 mb-4 pb-3 border-b border-slate-200">
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+                <h3 class="font-bold text-slate-800">{{ .Params.policies.title }}</h3>
+            </div>
+            <div class="flex flex-wrap gap-4">
+                {{ range .Params.policies.items }}
+                <a href="{{ .link | relLangURL }}" class="policy-link inline-flex items-center gap-1.5 text-sm text-slate-600 hover:text-blue-600 transition">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+                    {{ .label }}
+                </a>
+                {{ end }}
+            </div>
+        </section>
+
+        <!-- 支持团队声明 -->
+        <section class="text-center py-6">
+            <div class="inline-flex items-center gap-2 bg-blue-50 rounded-full px-4 py-2">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
+                <span class="text-sm font-medium text-slate-700">{{ .Params.support.team_message }}</span>
+            </div>
+        </section>
+
+    </div>
 </main>
 
-<!-- ═══════════ FOOTER ═══════════ -->
-<!-- 引入你之前做好的 footer 模板 -->
+<!-- ========== 底部 CTA ========== -->
+<section class="py-8" style="background: linear-gradient(135deg, #0A2F44 0%, #06212E 100%);">
+    <div class="max-w-4xl mx-auto text-center px-4">
+        <h2 class="text-xl md:text-2xl font-extrabold mb-2" style="color: #FFD966;">{{ .Params.cta.title }}</h2>
+        <p class="text-white text-sm md:text-base font-medium mb-4">{{ .Params.cta.subtitle }}</p>
+        <div class="flex flex-col sm:flex-row justify-center gap-3">
+            <a href="{{ .Params.cta.ios_link }}" class="inline-flex items-center gap-2 bg-black text-white px-5 py-2 rounded-lg text-sm font-semibold hover:scale-105 transition border border-yellow-400/30">
+                 
+                <span>{{ .Params.cta.ios_text }}</span>
+            </a>
+            <a href="{{ .Params.cta.android_link }}" class="inline-flex items-center gap-2 bg-black text-white px-5 py-2 rounded-lg text-sm font-semibold hover:scale-105 transition border border-yellow-400/30">
+                 
+                <span>{{ .Params.cta.android_text }}</span>
+            </a>
+        </div>
+    </div>
+</section>
+
 {{ partial "footer.html" . }}
 
 <script>
-    lucide.createIcons();
-    // 确保 mobile-menu-btn 存在于 header.html 中
-    const mobileBtn = document.getElementById('mobile-menu-btn');
-    if(mobileBtn) {
-        mobileBtn.addEventListener('click', function () {
-            const menu = document.getElementById('mobile-menu');
-            if(menu) menu.classList.toggle('hidden');
-        });
-    }
+    // Mobile navigation
+    document.getElementById('mobile-menu-btn')?.addEventListener('click', function () {
+        document.getElementById('mobile-menu')?.classList.toggle('hidden');
+    });
 </script>
 </body>
 </html>

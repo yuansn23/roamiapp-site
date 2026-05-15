@@ -1,43 +1,136 @@
 ---
-title: "Roami Nutzungsbedingungen | Ihre Vereinbarung zur globalen eSIM-Nutzung"
-description: "Lesen Sie die Nutzungsbedingungen für die Verwendung der globalen eSIM-Konnektivitätslösungen von Roami."
-last_updated: "März 2026"
-date: '2026-05-08T00:00:00+00:00'
+title: "Roami Nutzungsbedingungen | Ihre globalen eSIM-Nutzungsvereinbarung"
+description: "Lesen Sie die Nutzungsbedingungen für die Nutzung der globalen eSIM-Konnektivitätslösungen von Roami."
+last_updated: "Mai 2026"
+date: '2026-05-15T00:00:00+00:00'
 layout: "terms"
 type: "page"
 ---
 
-Willkommen bei Roami. Diese Nutzungsbedingungen („Bedingungen“) regeln Ihren Zugriff auf und Ihre Nutzung der Roami-Website, der mobilen Anwendungen und der eSIM-Dienste (zusammen die „Dienste“). Durch den Zugriff auf oder die Nutzung unserer Dienste erklären Sie sich mit diesen Bedingungen einverstanden.
+# Roami Nutzungsbedingungen
 
-## 1. Annahme der Bedingungen
-Durch das Erstellen eines Kontos, den Kauf einer eSIM oder die sonstige Nutzung der von Roami bereitgestellten Dienste erklären Sie sich damit einverstanden, diese Bedingungen einzuhalten und an sie gebunden zu sein. Wenn Sie diesen Bedingungen nicht zustimmen, dürfen Sie unsere Dienste nicht aufrufen oder nutzen.
+📅 **Letzte Aktualisierung: 10. Mai 2026**
 
-## 2. Beschreibung des Dienstes
-Roami bietet Weltreisenden digitale eSIM-Profile an, die es Nutzern ermöglichen, sich mit lokalen Mobilfunknetzen in über 200 Ländern und Regionen zu verbinden. Unsere Dienstleistungen umfassen den Verkauf von Prepaid-Datentarifen, die digital über unsere mobile Anwendung oder Website bereitgestellt werden.
+---
 
-## 3. Verantwortlichkeiten des Nutzers
-Bei der Nutzung der Roami-Dienste erklären Sie sich mit Folgendem einverstanden:
-* **Gerätekompatibilität:** Sie sind allein dafür verantwortlich, vor dem Kauf eines Tarifs sicherzustellen, dass Ihr Gerät eSIM-kompatibel und von Ihrem Mobilfunkanbieter entsperrt ist.
-* **Rechtmäßige Nutzung:** Sie erklären sich damit einverstanden, die Dienste nicht für rechtswidrige, missbräuchliche oder betrügerische Zwecke zu nutzen.
-* **Kontosicherheit:** Sie sind für die Wahrung der Vertraulichkeit Ihrer Zugangsdaten und für alle Aktivitäten verantwortlich, die unter Ihrem Konto stattfinden.
+## Unternehmensinformationen
 
-## 4. Käufe und Zahlungen
-Alle Preise für eSIM-Datentarife können ohne vorherige Ankündigung geändert werden. Die Zahlung muss zum Zeitpunkt des Kaufs in voller Höhe geleistet werden. Wir akzeptieren gängige Kreditkarten und andere Zahlungsmethoden, wie auf unserer Plattform angegeben. Sie erklären sich damit einverstanden, aktuelle, vollständige und genaue Kauf- und Kontoinformationen für alle getätigten Käufe anzugeben.
+| Punkt | Details |
+|-------|---------|
+| **Betreiber** | Hong Kong LinZe Co., Limited |
+| **Unternehmensadresse** | FLAT/RM A 12/F ZJ 300 300 LOCKHART RD WAN CHAI HONG KONG |
+| **Kontakt-E-Mail** | roamiesim@roamiapp.com |
 
-## 5. Rückerstattungen und Stornierungen
-Aufgrund der digitalen Natur von eSIM-Profilen werden Rückerstattungen im Allgemeinen nur unter den folgenden Umständen gewährt:
-* Die eSIM kann aufgrund eines technischen Fehlers seitens Roami nicht installiert oder aktiviert werden.
-* Das Datenvolumen wurde nicht verbraucht und die Anfrage erfolgt innerhalb von 30 Tagen nach dem Kauf.
+---
 
-Rückerstattungen werden nicht gewährt, wenn Ihr Gerät nicht eSIM-kompatibel ist oder von Ihrem Mobilfunkanbieter gesperrt wurde.
+**Bitte lesen Sie diese Allgemeinen Geschäftsbedingungen sorgfältig durch, bevor Sie unsere Dienste nutzen.**
 
-## 6. Haftungsbeschränkung
-Soweit gesetzlich zulässig, haften Roami und seine verbundenen Unternehmen nicht für indirekte, zufällige, besondere, Folgeschäden oder Strafschadensersatz, einschließlich, aber nicht beschränkt auf entgangenen Gewinn, Datenverlust, Nutzungsausfall, Goodwill oder andere immaterielle Verluste, die sich aus Ihrem Zugriff auf oder Ihrer Nutzung der Dienste oder der Unfähigkeit dazu ergeben.
+---
 
-## 7. Verfügbarkeit des Dienstes
-Obwohl wir uns bemühen, einen ununterbrochenen Dienst anzubieten, garantiert Roami nicht, dass die Dienste immer verfügbar oder fehlerfrei sind. Die Netzabdeckung, Geschwindigkeit und Qualität können je nach lokalem Anbieter, Netzüberlastung und geografischem Standort variieren.
+## 1. Gültigkeit der Allgemeinen Geschäftsbedingungen
 
-## 8. Kontaktieren Sie uns
-Wenn Sie Fragen, Bedenken oder Streitigkeiten bezüglich dieser Nutzungsbedingungen haben, wenden Sie sich bitte an unser Support-Team. Wir sind hier, um zu helfen.
+Die folgenden Allgemeinen Geschäftsbedingungen gelten für alle Dienstleistungen im Zusammenhang mit dem Weiterverkauf von prepaid Roami eSIM-Karten, die von der Hong Kong LinZe Co., Limited (im Folgenden „Roami“ oder „das Unternehmen“ genannt) angeboten werden. Diese Allgemeinen Geschäftsbedingungen sind in der Roami-Anwendung festgelegt. Roami akzeptiert Änderungen der Bedingungen nur, wenn eine ausdrückliche schriftliche Vereinbarung das Gegenteil vorsieht.
 
-E-Mail: <a href="mailto:qwerty2015009@gmail.com" class="text-blue-600 hover:text-blue-800 underline">qwerty2015009@gmail.com</a>
+---
+
+## 2. Leistungsbeschreibung
+
+### 2.1 Roami eSIM-Weiterverkauf
+
+Roami verkauft prepaid Roami eSIM-Karten weiter. Kunden registrieren sich und kaufen eSIM-Karten über die Roami-App. Unsere Zahlungsmethoden umfassen Apple Pay und andere gängige Zahlungsoptionen.
+
+### 2.2 Registrierung für Roami-Datendienste
+
+Kunden müssen die Allgemeinen Geschäftsbedingungen akzeptieren, um die Roami-Datendienste nutzen zu können. Kunden stellen die folgenden Informationen direkt oder über den Vermittler des Diensteanbieters zur Verfügung: Spitzname, Adresse (Rechnungsadresse), E-Mail-Adresse.
+
+### 2.3 Roami-Datendienst-Zusicherung
+
+Roami wird angemessene Bemühungen unternehmen, um Kunden qualitativ hochwertige Dienste zu bieten. Roami garantiert jedoch nicht, dass die Dienste ununterbrochen, rechtzeitig, sicher oder fehlerfrei sind. Risiken im Zusammenhang mit normaler Abnutzung werden von Roami getragen, und Roami wird Schäden, die die Gerätefunktion erheblich beeinträchtigen, umgehend reparieren und/oder das Gerät ersetzen.
+
+### 2.4 Kundenverhalten
+
+Bei der Nutzung der Geräte oder Dienste von Roami ist es Kunden untersagt, Folgendes zu tun: missbräuchliches, illegales oder betrügerisches Verhalten; Verhalten, das Netzwerkschäden oder -zerstörung verursacht; und wenn Kunden ihre Verpflichtungen aus diesen Bedingungen verletzen, ist Roami berechtigt, die Nutzung der Dienste durch den Kunden auszusetzen. Roami wird die Kunden so schnell wie möglich über die Aussetzung informieren. Während des Aussetzungszeitraums sind die Kunden verpflichtet, alle fälligen Beträge gemäß dieser Vereinbarung im Zusammenhang mit den ausgesetzten Diensten weiterhin zu zahlen.
+
+---
+
+## 3. Beginn, Dauer und Beendigung des Vertrags
+
+Der Dienstvertrag zwischen Roami und dem Kunden wird mit dem Datum wirksam, an dem der Kunde eine Bestellung über die Roami-App aufgibt. Der Vertrag endet mit dem Erhalt der gekauften Roami eSIM durch den Kunden. Die Aktivierung der Roami eSIM liegt in der alleinigen Verantwortung des Kunden.
+
+---
+
+## 4. Gebühren und Zahlung
+
+### 4.1 Zahlungsbedingungen
+
+Die Zahlung für Roami-Dienste wird über Apple Pay und andere gängige Zahlungsmethoden abgewickelt. Die Zahlungswährung ist US-Dollar ($). Kreditkartentransaktionen werden verarbeitet.
+
+### 4.2 Nutzungsgebühren
+
+1. Sofern nicht anders angegeben, enthalten alle von Roami aufgeführten Gebühren die Mehrwertsteuer.
+2. Wenn ein Kunde eine Rechnung oder einen Teil davon vernünftigerweise und in gutem Glauben bestreitet, muss der Kunde Roami innerhalb von 12 Tagen nach Erhalt der Rechnung benachrichtigen und die Gründe für die angebliche Unrichtigkeit sowie (falls möglich) den Betrag angeben, den der Kunde für zahlbar hält.
+3. Sofern die Forderung des Kunden nicht unbestritten ist oder durch ein rechtskräftiges Gerichtsurteil bestätigt wurde, ist der Kunde nicht berechtigt, seine Forderungen gegen Forderungen von Roami aufzurechnen. Kunden können gekaufte Roami eSIMs sofort unter der Registerkarte „Mein Roami“ auf der Website oder in der Anwendung einsehen.
+
+---
+
+## 5. Rückerstattungs-/Stornierungs-/Änderungsrichtlinie
+
+Wenn eine Roami eSIM aufgrund technischer Probleme seitens Roami nicht aktiviert werden kann, ist der Kunde berechtigt, eine Rückerstattung oder einen Ersatz zu verlangen. Roami-Kontoguthaben sind nicht erstattungsfähig, können nicht gegen Bargeld eingetauscht oder zum Ausgleich von Rabattgutscheinen verwendet werden.
+
+---
+
+## 6. Datenschutz
+
+Alle Daten, die Kunden während der Nutzung der Roami-Geräte bereitstellen, werden gemäß den einschlägigen Datenschutzbestimmungen geschützt. Alle von Roami gespeicherten, vom Kunden bereitgestellten Daten werden ausdrücklich zur Vertragserfüllung und zur Information der Kunden über Produkte verwendet, die mit ihrer vertraglichen Vereinbarung zusammenhängen. In diesem Zusammenhang stimmen die Kunden ausdrücklich zu, solche Informationen, auch zu Marketingzwecken, in elektronischer Form (z. B. per E-Mail) zu erhalten. Kunden können diese Einwilligung jederzeit widerrufen, müssen dies jedoch schriftlich an Roami unter Angabe der betroffenen E-Mail-Adresse tun.
+
+---
+
+## 7. Haftungsausschluss
+
+Roami übernimmt keine Haftung für Schäden oder Vertragsverletzungen, wenn Sie die Roami-Datenverbindung nicht nutzen können oder die Datenverbindung nicht den Erwartungen entspricht. Diese Umstände umfassen unter anderem:
+
+- Unterbrechung der Datenübertragung aufgrund von Ausfällen in den Betriebsräumen von Telekommunikationsbetreibern oder Kommunikationsnetzen;
+- Paketunterbrechung aufgrund von höherer Gewalt wie Taifunen, Erdbeben, Stromausfällen, Überschwemmungen, Kriegen oder Terroranschlägen;
+- Systemunterbrechung aufgrund von Hackerangriffen;
+- Fehlfunktion Ihres Endgeräts;
+- Abgelegene Gebiete ohne Signal oder bestimmte Gebiete und Umgebungen, in denen die Signalabdeckung des lokalen Betreibers unzureichend ist;
+- Gebiete ohne Netzabdeckung, wie U-Bahnen, Tunnel, Keller, Berge und Ozeane.
+
+---
+
+## 8. Diensteverwaltung und -kontrolle
+
+Wenn Missbrauch, übermäßige Nutzung, Erschöpfung, Verschwendung oder andere unsachgemäße Datennutzung die Netzwerkerfahrung anderer Benutzer beeinträchtigt, kann der Betreiber auf der Grundlage des Fair-Use-Prinzips bei Bedarf Kontrollmaßnahmen ergreifen oder Dienste für verstoßende Benutzer aussetzen, um sicherzustellen, dass alle Benutzer die Datentarifpakete normal nutzen können. Neben der ausdrücklichen Annahme dieser Bedingungen und der Einhaltung geltender Gesetze und Vorschriften verpflichten Sie sich auch, Roami-Dienste nicht zu vermieten, zu lizenzieren, zu verpfänden, zu übersetzen, anzupassen, zu ändern, zu modifizieren oder mit anderen Produkten oder Paketen zu verschmelzen; Sie dürfen auch keine Dekompilierung, Rückentwicklung oder Erstellung abgeleiteter Werke von Roami-Diensten oder Teilen davon durchführen. Bei böswilliger Veruntreuung von Roami-Guthaben und möglicher betrügerischer Zahlungseinziehung behalten wir uns das Recht vor, Benutzerguthaben zu löschen oder Konten zu deaktivieren.
+
+---
+
+## 9. Haftung und Gewährleistung
+
+Roami haftet nicht für Verluste, die durch Nichtverfügbarkeit oder Instabilität der Dienste entstehen. Roami garantiert nicht die kontinuierliche Verfügbarkeit der Netzwerkdienste. Wenn Sie Fragen haben, senden Sie bitte eine E-Mail an roamiesim@roamiapp.com.
+
+---
+
+## 10. Rechtswirkung
+
+Die Gültigkeit, Auslegung, Änderung, Durchführung und Streitbeilegung dieser Vereinbarung unterliegen dem Recht der Sonderverwaltungsregion Hongkong. Wenn Streitigkeiten oder Meinungsverschiedenheiten nicht durch Verhandlung, Mediation, Schiedsverfahren oder andere Mittel gelöst werden können, kann jede Partei Klage beim Hongkonger Internationalen Schiedszentrum einreichen.
+
+---
+
+## Kontaktieren Sie uns
+
+Wenn Sie Fragen zu diesen Allgemeinen Geschäftsbedingungen haben, können Sie uns auf folgendem Wege kontaktieren:
+
+- 📧 **E-Mail**: roamiesim@roamiapp.com
+- 📍 **Unternehmensadresse**: FLAT/RM A 12/F ZJ 300 300 LOCKHART RD WAN CHAI HONG KONG
+
+---
+
+## Markenhinweis
+
+© 2026 Hong Kong LinZe Co., Limited. Alle Rechte vorbehalten.
+
+Das Roami-Logo und die Produktnamen sind Marken der Hong Kong LinZe Co., Limited.
+
+---
+
+*Diese Vereinbarung wurde zuletzt am 10. Mai 2026 aktualisiert.*

@@ -79,6 +79,8 @@ disableKinds = ["taxonomy", "term"]
     footer_col3_links = [
       {name="About Us", url="/about-us/"}, 
 	  {name="Free eSIM", url="/free-esim/"}, 
+	  {name="Refund Policy", url="/refund/"}, 
+	  {name="Contact Us", url="/contact/"}, 
       {name="Privacy Policy", url="/privacy/"}, 
       {name="Terms of Service", url="/terms/"}
     ]
@@ -136,6 +138,8 @@ disableKinds = ["taxonomy", "term"]
   footer_col3_links = [
     {name="Über uns", url="/about-us/"}, 
     {name="Kostenlose eSIM", url="/free-esim/"}, 
+    {name="Rückerstattung", url="/refund/"},
+    {name="Kontakt", url="/contact/"},
     {name="Datenschutzrichtlinie", url="/privacy/"}, 
     {name="Nutzungsbedingungen", url="/terms/"}
   ]
@@ -196,6 +200,8 @@ disableKinds = ["taxonomy", "term"]
     footer_col3_links = [
       {name="О нас", url="/about-us/"}, 
 	  {name="Бесплатная eSIM", url="/free-esim/"}, 
+	  {name="Возврат средств", url="/refund/"},
+      {name="Связь с нами", url="/contact/"},
       {name="Политика конфиденциальности", url="/privacy/"}, 
       {name="Условия использования", url="/terms/"}
     ]
@@ -246,6 +252,8 @@ footer_col3_title = "Informations"
 footer_col3_links = [
   { name = "À propos", url = "/about-us/" },
   { name = "eSIM gratuite", url = "/free-esim/" },
+  {name="Remboursement", url="/refund/"},
+  {name="Nous contacter", url="/contact/"},
   { name = "Confidentialité", url = "/privacy/" },
   { name = "Conditions d'utilisation", url = "/terms/" }
 ]
@@ -255,3 +263,64 @@ footer_slogan = "Fournisseur professionnel de services eSIM mondiaux | Expert en
 modal_title = "Avis important"
 modal_cancel = "Annuler"
 modal_confirm = "Aller maintenant"
+
+# 西班牙语配置
+[languages.es]
+languageName = "Español"
+disabled = true
+contentDir = "content/es"  # 告诉 Hugo 西班牙语内容在这个文件夹
+weight = 2
+
+[languages.es.params]
+    # 导航栏文案
+    nav_links = [
+      { name = "Inicio", url = "/" },
+      { name = "Planes", url = "/plans/" },
+      { name = "Compatibilidad", url = "/compatibility/" },
+      { name = "eSIM Gratis", url = "/free-esim/" },
+      { name = "App Roami", url = "/app/" },
+      { name = "Operadores", url = "/carriers/" },
+      { name = "FAQ", url = "/faq/" }
+    ]
+
+    # 页脚文案
+    footer_desc = "Ofrecemos servicios eSIM premium en más de 200 países y regiones, manteniéndote conectado dondequiera que viajes."
+
+    footer_col1_title = "Destinos Principales"
+    # 优化：将纯文本改为带链接的对象，并使用绝对路径
+    footer_col1_links = [
+      { name = "eSIM Estados Unidos", url = "/united-states-esim/" },
+      { name = "eSIM Europa", url = "/europe-esim/" },
+      { name = "eSIM Japón", url = "/japan-esim/" },
+      { name = "eSIM Alemania", url = "/germany-esim/" },
+      { name = "eSIM Turquía", url = "/turkey-esim/" },
+      { name = "eSIM Canadá", url = "/canada-esim/" }
+    ]
+
+    footer_col2_title = "Soporte al Cliente"
+    # 优化：前面加 "/"，并建议去掉 .html 使用 Clean URL
+    footer_col2_links = [
+      { name = "FAQ", url = "/faq/" },
+      { name = "Compatibilidad eSIM", url = "/compatibility/" },
+      { name = "Operadores", url = "/carriers/" },
+      { name = "Descargar Roami", url = "/app/" }
+    ]
+
+    footer_col3_title = "Información de la Empresa"
+    # 优化：前面加 "/"，确保从任何页面点击都跳回根目录
+    footer_col3_links = [
+      { name = "Sobre Nosotros", url = "/about-us/" },
+      { name = "eSIM Gratis", url = "/free-esim/" },
+	  {name="Reembolso", url="/refund/"},
+      {name="Contacto", url="/contact/"},
+      { name = "Política de Privacidad", url = "/privacy/" },
+      { name = "Términos de Servicio", url = "/terms/" }
+    ]
+
+    footer_copyright = "© 2026 Roami. Todos los derechos reservados."
+    footer_slogan = "Proveedor Profesional de Servicios eSIM Global | Experto en Roaming de Datos eSIM Global"
+
+    # 弹窗文案
+    modal_title = "Aviso"
+    modal_cancel = "Cancelar"
+    modal_confirm = "Ir ahora"

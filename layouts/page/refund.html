@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{ partial "head.html" . }}
+    <title>{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - Roami{{ end }}</title>
+    <meta name="description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="{{ .Permalink }}" />
+
+    {{ if .IsTranslated }}
+        {{ range .AllTranslations }}
+        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+        {{ end }}
+        <link rel="alternate" hreflang="x-default" href="{{ .Site.Home.Permalink }}">
+    {{ else }}
+        <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
+        <link rel="alternate" hreflang="x-default" href="{{ .Site.Home.Permalink }}">
+    {{ end }}
+
+    <meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+    <meta property="og:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    {{ with .Params.seo.image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+    <meta name="twitter:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
+    {{ with .Params.seo.image }}<meta name="twitter:image" content="{{ . | absURL }}">{{ end }}
+
+    <!-- JSON-LD Schema -->
+    <script type="application/ld+json">
+    {{ .Params.schema | safeHTML }}
+    </script>
+
+    <link href="/css/tailwind-compiled.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', system-ui, sans-serif; }
+        .refund-card { transition: all 0.2s ease; }
+        .refund-card:hover { transform: translateY(-2px); box-shadow: 0 8px 20px -8px rgba(0,0,0,0.1); }
+        .policy-section { scroll-margin-top: 70px; }
+        .compact-table td, .compact-table th { padding: 8px 16px; }
+    </style>
+</head>
+<body class="bg-white text-slate-900 antialiased">
+
+{{ partial "header.html" . }}
+
+<!-- ========== HERO 区域（深色字体版 - 紧凑） ========== -->
+<section class="relative pt-20 pb-12 lg:pt-24 lg:pb-16 overflow-hidden bg-gradient-to-br from-blue-50 to-indigo-100">
+    <div class="absolute inset-0 z-0">
+        <div class="absolute inset-0 bg-white/30"></div>
+    </div>
+    <div class="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div class="inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm rounded-full px-3 py-1 mb-4 shadow-sm">
+            <span class="text-amber-600 text-xs">📋</span>
+            <span class="text-slate-600 text-[11px] font-medium uppercase tracking-wider">{{ .Params.hero.badge }}</span>
+        </div>
+        <h1 class="text-3xl md:text-4xl lg:text-5xl font-extrabold text-slate-900 leading-tight mb-3">
+            {{ .Params.hero.title }}
+        </h1>
+        <p class="text-base md:text-lg text-slate-700 leading-relaxed max-w-2xl mx-auto">
+            {{ .Params.hero.description }}
+        </p>
+        <div class="flex flex-wrap justify-center gap-2 mt-5">
+            <span class="text-xs text-slate-500 bg-white/80 backdrop-blur-sm px-3 py-1 rounded-full shadow-sm border border-slate-200">
+                📅 {{ .Params.hero.last_updated }}
+            </span>
+        </div>
+    </div>
+</section>
+
+<!-- ========== 公司信息卡片（紧凑） ========== -->
+<section class="py-3 bg-white border-b border-slate-200">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="bg-slate-50 rounded-xl p-3 border border-slate-200 flex flex-wrap justify-between items-center gap-2 text-sm">
+            <div class="flex items-center gap-2">
+                <div class="w-7 h-7 bg-blue-100 rounded-full flex items-center justify-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+                </div>
+                <div>
+                    <div class="text-xs font-bold text-slate-800">{{ .Params.company.name }}</div>
+                    <div class="text-[10px] text-slate-500">{{ .Params.company.address }}</div>
+                </div>
+            </div>
+            <div class="flex items-center gap-2">
+                <div class="w-7 h-7 bg-emerald-100 rounded-full flex items-center justify-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+                </div>
+                <div>
+                    <div class="text-xs font-bold text-slate-800">Email</div>
+                    <div class="text-[10px] text-slate-500">{{ .Params.company.email }}</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ========== 页面内导航（紧凑） ========== -->
+<section class="py-2 bg-white border-b border-slate-100 sticky top-0 z-20 bg-white/95 backdrop-blur-sm">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex flex-wrap justify-center gap-1 md:gap-2">
+            {{ range .Params.nav_items }}
+            <a href="#{{ .anchor }}" class="text-[11px] md:text-xs font-medium text-slate-500 hover:text-blue-600 transition px-2 py-1 rounded-full hover:bg-slate-50">
+                {{ .label }}
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- ========== 主要内容区域（紧凑） ========== -->
+<main class="py-6 bg-white">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <!-- 我们的承诺 -->
+        <section id="commitment" class="policy-section mb-6">
+            <div class="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl p-5 border border-blue-100">
+                <div class="flex items-center gap-2 mb-2">
+                    <div class="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/></svg>
+                    </div>
+                    <h2 class="text-xl md:text-2xl font-bold text-slate-800">{{ .Params.commitment.title }}</h2>
+                </div>
+                <p class="text-slate-700 text-sm leading-relaxed">{{ .Params.commitment.text }}</p>
+                <div class="mt-3 p-2 bg-white/60 rounded-lg">
+                    <p class="text-xs text-slate-600">{{ .Params.commitment.note }}</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- 适用范围 -->
+        <section id="scope" class="policy-section mb-6">
+            <div class="border-b border-slate-200 pb-2 mb-3">
+                <h2 class="text-lg font-bold text-slate-800 flex items-center gap-2">
+                    <span class="w-6 h-6 bg-slate-200 rounded-full flex items-center justify-center text-xs">1</span>
+                    {{ .Params.scope.title }}
+                </h2>
+            </div>
+            <div class="prose prose-slate max-w-none">
+                <p class="text-slate-600 text-sm leading-relaxed">{{ .Params.scope.content | safeHTML }}</p>
+            </div>
+        </section>
+
+        <!-- 可退款情况 -->
+        <section id="refundable" class="policy-section mb-6">
+            <div class="border-b border-slate-200 pb-2 mb-3">
+                <h2 class="text-lg font-bold text-slate-800 flex items-center gap-2">
+                    <span class="w-6 h-6 bg-slate-200 rounded-full flex items-center justify-center text-xs">2</span>
+                    {{ .Params.refundable.title }}
+                </h2>
+            </div>
+            <div class="space-y-4">
+                {{ range .Params.refundable.cases }}
+                <div class="refund-card bg-white border border-slate-200 rounded-lg p-4 shadow-sm">
+                    <h3 class="text-base font-bold text-slate-800 mb-2 flex items-center gap-2">
+                        <span class="w-5 h-5 rounded-full {{ .icon_bg }} flex items-center justify-center text-[10px]">{{ .icon }}</span>
+                        {{ .case_title }}
+                    </h3>
+                    <p class="text-slate-600 text-xs mb-2">{{ .description }}</p>
+                    <ul class="space-y-0.5 text-xs text-slate-500 list-disc pl-4">
+                        {{ range .conditions }}
+                        <li>{{ . | safeHTML }}</li>
+                        {{ end }}
+                    </ul>
+                    {{ if .note }}
+                    <p class="text-[11px] text-amber-600 mt-2 bg-amber-50 p-1.5 rounded-lg">{{ .note | safeHTML }}</p>
+                    {{ end }}
+                </div>
+                {{ end }}
+            </div>
+        </section>
+
+        <!-- 不可退款情况 -->
+        <section id="non-refundable" class="policy-section mb-6">
+            <div class="border-b border-slate-200 pb-2 mb-3">
+                <h2 class="text-lg font-bold text-slate-800 flex items-center gap-2">
+                    <span class="w-6 h-6 bg-slate-200 rounded-full flex items-center justify-center text-xs">3</span>
+                    {{ .Params.nonRefundable.title }}
+                </h2>
+            </div>
+            <div class="bg-red-50 border border-red-200 rounded-lg overflow-hidden">
+                <table class="w-full text-xs compact-table">
+                    <thead class="bg-red-100">
+                        <tr>
+                            <th class="px-3 py-2 text-left text-red-800 font-semibold w-1/3">{{ .Params.nonRefundable.table_header_1 }}</th>
+                            <th class="px-3 py-2 text-left text-red-800 font-semibold">{{ .Params.nonRefundable.table_header_2 }}</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-red-100">
+                        {{ range .Params.nonRefundable.items }}
+                        <tr>
+                            <td class="px-3 py-2 font-medium text-slate-700">{{ .situation }}</td>
+                            <td class="px-3 py-2 text-slate-600">{{ .reason }}</td>
+                        </tr>
+                        {{ end }}
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- 如何申请退款 -->
+        <section id="how-to-apply" class="policy-section mb-6">
+            <div class="border-b border-slate-200 pb-2 mb-3">
+                <h2 class="text-lg font-bold text-slate-800 flex items-center gap-2">
+                    <span class="w-6 h-6 bg-slate-200 rounded-full flex items-center justify-center text-xs">4</span>
+                    {{ .Params.howToApply.title }}
+                </h2>
+            </div>
+            <div class="bg-slate-50 rounded-lg p-4">
+                <ol class="space-y-2">
+                    {{ range .Params.howToApply.steps }}
+                    <li class="flex gap-2">
+                        <span class="w-5 h-5 bg-blue-600 text-white rounded-full flex items-center justify-center text-[10px] font-bold flex-shrink-0">{{ .number }}</span>
+                        <span class="text-slate-700 text-xs">{{ .text | safeHTML }}</span>
+                    </li>
+                    {{ end }}
+                </ol>
+            </div>
+        </section>
+
+        <!-- 退款流程 -->
+        <section id="process" class="policy-section mb-6">
+            <div class="border-b border-slate-200 pb-2 mb-3">
+                <h2 class="text-lg font-bold text-slate-800 flex items-center gap-2">
+                    <span class="w-6 h-6 bg-slate-200 rounded-full flex items-center justify-center text-xs">5</span>
+                    {{ .Params.process.title }}
+                </h2>
+            </div>
+            <div class="grid grid-cols-2 md:grid-cols-3 gap-3">
+                {{ range .Params.process.items }}
+                <div class="bg-slate-50 rounded-lg p-3 text-center">
+                    <div class="w-8 h-8 {{ .bg_color }} rounded-full flex items-center justify-center mx-auto mb-2">
+                        {{ if eq .icon "credit-card" }}
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="{{ .icon_color }}"><rect width="20" height="14" x="2" y="5" rx="2"/><line x1="2" x2="22" y1="10" y2="10"/></svg>
+                        {{ else if eq .icon "gift" }}
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="{{ .icon_color }}"><rect x="3" y="8" width="18" height="4" rx="1"/><path d="M12 8v13"/><path d="M19 12v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-7"/><path d="M7.5 8a2.5 2.5 0 0 1 0-5A4.8 8 0 0 1 12 8a4.8 8 0 0 1 4.5-5 2.5 2.5 0 0 1 0 5"/></svg>
+                        {{ else if eq .icon "clock" }}
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="{{ .icon_color }}"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                        {{ end }}
+                    </div>
+                    <h3 class="font-bold text-slate-800 text-xs mb-0.5">{{ .title }}</h3>
+                    <p class="text-[10px] text-slate-500">{{ .description }}</p>
+                </div>
+                {{ end }}
+            </div>
+            <div class="mt-3 text-center">
+                <p class="text-[11px] text-slate-500">{{ .Params.process.note }}</p>
+            </div>
+        </section>
+
+        <!-- 无取消费用声明 -->
+        <section id="no-fee" class="policy-section mb-6">
+            <div class="bg-emerald-50 border border-emerald-200 rounded-lg p-3 text-center">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mx-auto mb-1"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+                <h3 class="text-base font-bold text-emerald-800">{{ .Params.noFee.title }}</h3>
+                <p class="text-emerald-600 text-xs mt-0.5">{{ .Params.noFee.text }}</p>
+            </div>
+        </section>
+
+        <!-- 联系我们 -->
+        <section id="contact" class="policy-section">
+            <div class="bg-slate-900 rounded-xl p-5 text-center text-white">
+                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#facc15" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mx-auto mb-2"><path d="M3 3h5l2 6L7 10a8 8 0 0 0 7 7l3-3 6 2v5H3z"/></svg>
+                <h3 class="text-lg font-bold mb-1">{{ .Params.contact.title }}</h3>
+                <p class="text-white/70 text-xs mb-4">{{ .Params.contact.subtitle }}</p>
+              <div class="flex flex-col sm:flex-row justify-center gap-3">
+    <a href="mailto:{{ .Params.company.email }}" class="inline-flex items-center justify-center gap-2 bg-white text-slate-800 px-4 py-2 rounded-lg text-sm font-semibold hover:bg-slate-100 transition border border-slate-200 shadow-sm">
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+        {{ .Params.company.email }}
+    </a>
+</div>
+            </div>
+        </section>
+
+    </div>
+</main>
+
+<!-- ========== 底部 CTA（紧凑） ========== -->
+<section class="py-8" style="background: linear-gradient(135deg, #0A2F44 0%, #06212E 100%);">
+    <div class="max-w-4xl mx-auto text-center px-4">
+        <h2 class="text-xl md:text-2xl font-extrabold mb-2" style="color: #FFD966;">{{ .Params.cta.title }}</h2>
+       <p class="text-white text-sm md:text-base font-medium mb-4">{{ .Params.cta.subtitle }}</p>
+        <div class="flex flex-col sm:flex-row justify-center gap-3">
+            <a href="{{ .Params.cta.ios_link }}" class="inline-flex items-center gap-2 bg-black text-white px-5 py-2 rounded-lg text-sm font-semibold hover:scale-105 transition border border-yellow-400/30">
+                 
+                <span>{{ .Params.cta.ios_text }}</span>
+            </a>
+            <a href="{{ .Params.cta.android_link }}" class="inline-flex items-center gap-2 bg-black text-white px-5 py-2 rounded-lg text-sm font-semibold hover:scale-105 transition border border-yellow-400/30">
+                
+                <span>{{ .Params.cta.android_text }}</span>
+            </a>
+        </div>
+    </div>
+</section>
+
+{{ partial "footer.html" . }}
+
+<script>
+    // Mobile navigation
+    document.getElementById('mobile-menu-btn')?.addEventListener('click', function () {
+        document.getElementById('mobile-menu')?.classList.toggle('hidden');
+    });
+    
+    // Smooth scroll for anchor links
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function (e) {
+            e.preventDefault();
+            const target = document.querySelector(this.getAttribute('href'));
+            if (target) {
+                target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+        });
+    });
+    
+    // Platform detection for download buttons
+    (function detectPlatform() {
+        var ua = navigator.userAgent.toLowerCase();
+        var isAndroid = /android/i.test(ua);
+        if (isAndroid) {
+            document.querySelectorAll('.ios-download')?.forEach(el => el.classList.add('hidden'));
+            document.querySelectorAll('.android-download')?.forEach(el => el.classList.remove('hidden'));
+        }
+    })();
+</script>
+</body>
+</html>
