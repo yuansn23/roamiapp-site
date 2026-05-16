@@ -1,6 +1,6 @@
 ---
 title: Тариф eSIM для Китая | Лучшая туристическая eSIM 2026 | Roami
-date: '2026-05-12T09:33:26+00:00'
+date: '2026-05-16T09:33:26+00:00'
 draft: false
 type: esim
 country_meta:
