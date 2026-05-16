@@ -11,20 +11,16 @@ seo:
   description: "Узнайте об условиях возврата eSIM Roami, процессе подачи заявки и часто задаваемых вопросах. Мы стремимся обеспечить ваше удовлетворение услугами."
   image: "/img/og-refund.jpg"
 
-# JSON-LD Schema
-schema: |-
-  {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Roami Refund Policy",
-    "description": "Refund and return policy for Roami eSIM purchases",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Hong Kong LinZe Co., Limited",
-      "email": "roamiesim@roamiapp.com"
-    }
-  }
-
+# JSON-LD Schema (YAML对象，非字符串)
+schema:
+  "@context": "https://schema.org"
+  "@type": "WebPage"
+  name: "Политика возврата Roami"
+  description: "Политика возврата и обмена для покупок eSIM Roami"
+  publisher:
+    "@type": "Organization"
+    name: "Hong Kong LinZe Co., Limited"
+    email: "roamiesim@roamiapp.com"
 # Hero область
 hero:
   badge: "Политика возврата"

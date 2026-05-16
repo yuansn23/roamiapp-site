@@ -11,19 +11,16 @@ seo:
   description: "Learn about Roami eSIM refund conditions, application process, and FAQs. We are committed to providing you with a satisfactory experience."
   image: "/img/og-refund.jpg"
 
-# JSON-LD Schema
-schema: |-
-  {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Roami Refund Policy",
-    "description": "Refund and return policy for Roami eSIM purchases",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Hong Kong LinZe Co., Limited",
-      "email": "roamiesim@roamiapp.com"
-    }
-  }
+# JSON-LD Schema（注意：这是 YAML 对象，不是多行字符串）
+schema:
+  "@context": "https://schema.org"
+  "@type": "WebPage"
+  name: "Roami Refund Policy"
+  description: "Refund and return policy for Roami eSIM purchases"
+  publisher:
+    "@type": "Organization"
+    name: "Hong Kong LinZe Co., Limited"
+    email: "roamiesim@roamiapp.com"
 
 # Hero section
 hero:

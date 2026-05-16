@@ -12,19 +12,25 @@ seo:
   image: "/img/og-contact.jpg"
 
 # JSON-LD Schema
-schema: |-
-  {
-    "@context": "https://schema.org",
-    "@type": "ContactPage",
-    "name": "Связаться со службой поддержки Roami",
-    "description": "Свяжитесь с командой поддержки клиентов Roami для получения помощи по eSIM",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Hong Kong LinZe Co., Limited",
-      "email": "roamiesim@roamiapp.com"
-    }
-  }
-
+schema:
+  "@context": "https://schema.org"
+  "@type": "WebPage"
+  name: "Связаться со службой поддержки Roami"
+  description: "Свяжитесь с командой поддержки Roami для получения помощи по eSIM"
+  mainEntity:
+    "@type": "Organization"
+    name: "Hong Kong LinZe Co., Limited"
+    email: "roamiesim@roamiapp.com"
+    address:
+      "@type": "PostalAddress"
+      streetAddress: "FLAT/RM A 12/F ZJ 300 300 LOCKHART RD"
+      addressLocality: "WAN CHAI"
+      addressCountry: "HK"
+    contactPoint:
+      "@type": "ContactPoint"
+      contactType: "поддержка клиентов"
+      email: "roamiesim@roamiapp.com"
+      availableLanguage: ["Английский", "Китайский", "Немецкий", "Французский", "Испанский", "Турецкий", "Итальянский"]
 # Hero область
 hero:
   badge: "Свяжитесь с нами"

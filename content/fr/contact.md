@@ -12,18 +12,25 @@ seo:
   image: "/img/og-contact.jpg"
 
 # JSON-LD Schema
-schema: |-
-  {
-    "@context": "https://schema.org",
-    "@type": "ContactPage",
-    "name": "Contact Roami Support",
-    "description": "Contact Roami customer support team for eSIM assistance",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Hong Kong LinZe Co., Limited",
-      "email": "roamiesim@roamiapp.com"
-    }
-  }
+schema:
+  "@context": "https://schema.org"
+  "@type": "WebPage"
+  name: "Contacter le support Roami"
+  description: "Contactez l'équipe d'assistance Roami pour toute question sur les eSIM"
+  mainEntity:
+    "@type": "Organization"
+    name: "Hong Kong LinZe Co., Limited"
+    email: "roamiesim@roamiapp.com"
+    address:
+      "@type": "PostalAddress"
+      streetAddress: "FLAT/RM A 12/F ZJ 300 300 LOCKHART RD"
+      addressLocality: "WAN CHAI"
+      addressCountry: "HK"
+    contactPoint:
+      "@type": "ContactPoint"
+      contactType: "support client"
+      email: "roamiesim@roamiapp.com"
+      availableLanguage: ["Anglais", "Chinois", "Allemand", "Français", "Espagnol", "Turc", "Italien"]
 
 # Section Hero
 hero:

@@ -11,19 +11,26 @@ seo:
   description: "Need help? Contact Roami support team. We offer 24/7 customer support to answer any of your eSIM questions."
   image: "/img/og-contact.jpg"
 
-# JSON-LD Schema
-schema: |-
-  {
-    "@context": "https://schema.org",
-    "@type": "ContactPage",
-    "name": "Contact Roami Support",
-    "description": "Contact Roami customer support team for eSIM assistance",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Hong Kong LinZe Co., Limited",
-      "email": "roamiesim@roamiapp.com"
-    }
-  }
+# JSON-LD Schema (YAML object – 输出时将自动转为合法 JSON，不再被引号包裹)
+schema:
+  "@context": "https://schema.org"
+  "@type": "WebPage"
+  name: "Contact Roami Support"
+  description: "Contact Roami customer support team for eSIM assistance"
+  mainEntity:                         # 注意大小写
+    "@type": "Organization"
+    name: "Hong Kong LinZe Co., Limited"
+    email: "roamiesim@roamiapp.com"
+    address:
+      "@type": "PostalAddress"
+      streetAddress: "FLAT/RM A 12/F ZJ 300 300 LOCKHART RD"
+      addressLocality: "WAN CHAI"
+      addressCountry: "HK"
+    contactPoint:
+      "@type": "ContactPoint"
+      contactType: "customer support"
+      email: "roamiesim@roamiapp.com"
+      availableLanguage: ["English", "Chinese", "German", "French", "Spanish", "Turkish", "Italian"]
 
 # Hero section
 hero:

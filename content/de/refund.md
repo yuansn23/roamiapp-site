@@ -11,19 +11,16 @@ seo:
   description: "Informieren Sie sich über die Rückerstattungsbedingungen, den Antragsprozess und häufige Fragen zu Roami eSIM. Wir sind bestrebt, Ihnen ein zufriedenstellendes Nutzungserlebnis zu bieten."
   image: "/img/og-refund.jpg"
 
-# JSON-LD Schema
-schema: |-
-  {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Roami Rückerstattungsrichtlinie",
-    "description": "Rückerstattungs- und Rückgaberichtlinie für Roami eSIM-Käufe",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Hong Kong LinZe Co., Limited",
-      "email": "roamiesim@roamiapp.com"
-    }
-  }
+# JSON-LD Schema (YAML对象，非字符串)
+schema:
+  "@context": "https://schema.org"
+  "@type": "WebPage"
+  name: "Roami Rückerstattungsrichtlinie"
+  description: "Rückerstattungs- und Rückgaberichtlinie für Roami eSIM-Käufe"
+  publisher:
+    "@type": "Organization"
+    name: "Hong Kong LinZe Co., Limited"
+    email: "roamiesim@roamiapp.com"
 
 # Hero Bereich
 hero:
