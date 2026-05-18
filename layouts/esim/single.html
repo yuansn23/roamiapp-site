@@ -302,7 +302,7 @@
     
     <div class="relative z-10">
         <h2 class="text-2xl md:text-3xl font-extrabold mb-6 md:mb-8 flex items-center gap-3">
-            <i data-lucide="award" class="w-8 h-8 text-brand-400"></i> {{ .Params.features.title }} for {{ .Params.hero.title }}
+            <i data-lucide="award" class="w-8 h-8 text-brand-400"></i> {{ .Params.features.title }}  
         </h2>
         
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-5">
@@ -392,50 +392,87 @@
                 {{ end }}
             </section>
             {{ end }}
+			<section class="bg-white rounded-3xl p-8 border border-slate-200 shadow-sm">
+    <div class="flex items-center gap-3 mb-6">
+        <div class="w-12 h-12 rounded-full bg-amber-100 flex items-center justify-center">
+            <i data-lucide="circle-alert" class="w-6 h-6 text-amber-600"></i>
+        </div>
+        <h2 class="text-2xl font-bold text-slate-900">{{ .Params.reminders.title }}</h2>
+    </div>
+
+    {{ $currentLang := .Language.Lang }}
+    {{ $langPrefix := cond (eq $currentLang "en") "/" (printf "/%s/" $currentLang) }}
+
+    <!-- 第一行：两列布局（左侧提醒列表 + 右侧兼容性卡片） -->
+    <div class="grid md:grid-cols-2 gap-8">
+        <!-- 左侧：提醒列表（内边距对齐右侧） -->
+        <div class="p-6 pt-0">
+            <ul class="space-y-4 text-slate-700 font-medium list-none p-0 m-0">
+                {{ range .Params.reminders.items }}
+                <li class="flex items-start gap-3">
+                    <span class="text-2xl leading-none">{{ .icon }}</span>
+                    <span>
+                        {{ $processedHtml := replace .html "href=\"/" (printf "href=\"%s" $langPrefix) }}
+                        {{ $processedHtml | safeHTML }}
+                    </span>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+
+        <!-- 右侧：兼容性检查卡片 -->
+        <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl p-6 border border-blue-100 shadow-inner">
+            <div class="flex items-center gap-2 mb-3">
+                <i data-lucide="lightbulb" class="w-6 h-6 text-amber-500 fill-amber-500"></i>
+                <h3 class="font-bold text-slate-900 text-lg">{{ .Params.reminders.compatibility_check.title }}</h3>
+            </div>
+            <p class="text-slate-700 text-sm mb-4 leading-relaxed">{{ .Params.reminders.compatibility_check.desc }}</p>
+            <div class="bg-white rounded-xl p-4 border border-blue-100 shadow-sm text-center">
+                <p class="text-sm text-slate-600 mb-2">{{ .Params.reminders.compatibility_check.instruction }}</p>
+                <div class="text-3xl font-black text-brand-600 tracking-wider font-mono mb-2">{{ .Params.reminders.compatibility_check.code }}</div>
+                <div class="text-sm font-medium text-slate-800">
+                    {{ $processedResult := replace .Params.reminders.compatibility_check.result_html "href=\"/" (printf "href=\"%s" $langPrefix) }}
+                    {{ $processedResult | safeHTML }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 第二行：有用链接模块（独占一行，宽度100%，内部链接新标签页打开） -->
+    {{ with .Params.reminders.compatibility_check.useful_links }}
+        {{/* 先为所有 <a> 标签添加 target="_blank" 和 rel="noopener noreferrer" */}}
+        {{ $linksWithTarget := replace . "href=\"" "target=\"_blank\" rel=\"noopener noreferrer\" href=\"" }}
+        {{/* 再处理多语言链接前缀 */}}
+        {{ $processedLinks := replace $linksWithTarget "href=\"/" (printf "href=\"%s" $langPrefix) }}
+        <div class="useful-links-grid bg-white rounded-xl p-6 border border-slate-200 shadow-sm mt-8">
+            {{ $processedLinks | safeHTML }}
+        </div>
+        <style>
+            .useful-links-grid ul {
+                display: grid;
+                grid-template-columns: 1fr;
+                gap: 0.75rem;
+                list-style: none;
+                padding-left: 0;
+                margin: 0;
+            }
+            @media (min-width: 768px) {
+                .useful-links-grid ul {
+                    grid-template-columns: repeat(3, minmax(0, 1fr));
+                    gap: 0.75rem;
+                }
+            }
+            .useful-links-grid li a {
+                display: block;
+                word-break: break-word;
+            }
+        </style>
+    {{ end }}
+</section>
 			
-	<section class="bg-white rounded-3xl p-8 border border-slate-200 shadow-sm">
-                <div class="flex items-center gap-3 mb-6">
-                    <div class="w-12 h-12 rounded-full bg-amber-100 flex items-center justify-center"><i data-lucide="circle-alert" class="w-6 h-6 text-amber-600"></i></div>
-                    <h2 class="text-2xl font-bold text-slate-900">{{ .Params.reminders.title }}</h2>
-                </div>
-                <div class="grid md:grid-cols-2 gap-8">
-                    <ul class="space-y-4 text-slate-700 font-medium">
-                        {{ $currentLang := .Language.Lang }}
-                        {{ $langPrefix := cond (eq $currentLang "en") "/" (printf "/%s/" $currentLang) }}
-
-                        {{ range .Params.reminders.items }}
-                        <li class="flex items-start gap-3">
-                            <span class="text-2xl leading-none">{{ .icon }}</span>
-                            <span>
-                                {{ $processedHtml := replace .html "href=\"/" (printf "href=\"%s" $langPrefix) }}
-                                {{ $processedHtml | safeHTML }}
-                            </span>
-                        </li>
-                        {{ end }}
-                    </ul>
-                    <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl p-6 border border-blue-100 shadow-inner flex flex-col justify-center relative overflow-hidden">
-                        <div class="relative z-10">
-                            <div class="flex items-center gap-2 mb-3">
-                                <i data-lucide="lightbulb" class="w-6 h-6 text-amber-500 fill-amber-500"></i>
-                                <h3 class="font-bold text-slate-900 text-lg">{{ .Params.reminders.compatibility_check.title }}</h3>
-                            </div>
-                            <p class="text-slate-700 text-sm mb-4 leading-relaxed">{{ .Params.reminders.compatibility_check.desc }}</p>
-                            <div class="bg-white rounded-xl p-4 border border-blue-100 shadow-sm text-center">
-                                <p class="text-sm text-slate-600 mb-2">{{ .Params.reminders.compatibility_check.instruction }}</p>
-                                <div class="text-3xl font-black text-brand-600 tracking-wider font-mono mb-2">{{ .Params.reminders.compatibility_check.code }}</div>
-                                <div class="text-sm font-medium text-slate-800">
-                                    {{ $processedResult := replace .Params.reminders.compatibility_check.result_html "href=\"/" (printf "href=\"%s" $langPrefix) }}
-                                    {{ $processedResult | safeHTML }}
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>   
-
      <section class="bg-white rounded-3xl p-8 border border-slate-200 shadow-sm">
   <h2 class="text-2xl font-bold text-slate-900 mb-8">
-    {{ .Params.hero.title }} {{ .Params.activation_steps.title | markdownify }}
+     {{ .Params.activation_steps.title | markdownify }}
   </h2>
   <ol class="relative list-none p-0 m-0">
     {{ range .Params.activation_steps.steps }}
@@ -514,7 +551,7 @@
 <section class="mt-12 pt-10 border-t border-slate-200">
     <div class="flex items-center gap-3 mb-6"><h2 class="text-2xl font-bold text-slate-900">{{ .Params.related_products.title }}</h2></div>
     <ul class="grid grid-cols-2 md:grid-cols-4 gap-4 list-none p-0 m-0">
-        {{ range .Params.related_products.items }}
+        {{ range first 8 (shuffle .Params.related_products.items) }}
             {{- /* 1. 确定基础 slug */ -}}
             {{ $slugBase := .slug | default (.name | urlize) }}
             {{- /* 2. 强制追加 -esim 后缀（如果尚未包含） */ -}}

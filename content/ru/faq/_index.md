@@ -24,47 +24,58 @@ breadcrumbs:
     url: "/faq/"
 
 # Матрица бесплатных eSIM для 8 основных стран
+# Матрица бесплатных eSIM для 10 основных стран
 free_esims:
-  - country: "Соединенные Штаты"
-    code: "usa"
-    emoji: "🇺🇸"
-    url: "/free-esim/"
-    desc: "Бесплатная пробная eSIM для путешествий в США"
   - country: "Китай"
     code: "cn"
     emoji: "🇨🇳"
     url: "/free-esim/"
     desc: "Бесплатное тестирование сети eSIM в Китае"
-  - country: "Великобритания"
-    code: "uk"
-    emoji: "🇬🇧"
-    url: "/free-esim/"
-    desc: "Бесплатная eSIM для туристов в Великобритании"
   - country: "Турция"
     code: "tr"
     emoji: "🇹🇷"
     url: "/free-esim/"
     desc: "Бесплатная пробная eSIM для путешествий в Турцию"
-  - country: "Германия"
-    code: "de"
-    emoji: "🇩🇪"
+  - country: "Египет"
+    code: "eg"
+    emoji: "🇪🇬"
     url: "/free-esim/"
-    desc: "Бесплатные данные eSIM для Германии"
-  - country: "Австралия"
-    code: "au"
-    emoji: "🇦🇺"
+    desc: "Бесплатная eSIM для туристов в Египте"
+  - country: "Беларусь"
+    code: "by"
+    emoji: "🇧🇾"
     url: "/free-esim/"
-    desc: "Бесплатное подключение eSIM в Австралии"
-  - country: "Канада"
-    code: "ca"
-    emoji: "🇨🇦"
+    desc: "Бесплатные данные eSIM для Беларуси"
+  - country: "Черногория"
+    code: "me"
+    emoji: "🇲🇪"
     url: "/free-esim/"
-    desc: "Бесплатная eSIM для посетителей Канады"
+    desc: "Бесплатное подключение eSIM в Черногории"
+  - country: "Италия"
+    code: "it"
+    emoji: "🇮🇹"
+    url: "/free-esim/"
+    desc: "Бесплатная eSIM для посетителей Италии"
   - country: "Япония"
     code: "jp"
     emoji: "🇯🇵"
     url: "/free-esim/"
     desc: "Бесплатное тестирование eSIM для путешествий в Японию"
+  - country: "Армения"
+    code: "am"
+    emoji: "🇦🇲"
+    url: "/free-esim/"
+    desc: "Бесплатная пробная eSIM для путешествий в Армению"
+  - country: "Узбекистан"
+    code: "uz"
+    emoji: "🇺🇿"
+    url: "/free-esim/"
+    desc: "Бесплатная пробная eSIM для Узбекистана"
+  - country: "Казахстан"
+    code: "kz"
+    emoji: "🇰🇿"
+    url: "/free-esim/"
+    desc: "Бесплатное подключение eSIM в Казахстане"
 
 # Глобальная конфигурация UI текста (все скрытые в HTML тексты доступности, префиксы и суффиксы извлечены сюда)
 ui:
@@ -112,64 +123,64 @@ related_products:
   title: "Связанные тарифы eSIM"
   subtitle: "Оставайтесь на связи, где бы вы ни находились. Выберите наши самые популярные местные и региональные тарифы eSIM с мгновенной доставкой и нулевыми роуминговыми сборами."
   items:
-  - name: eSIM США
-    slug: united-states-esim
-    flag: /img/flags/us.svg
-    price: От $1.99
-    is_highlight: false
-  - name: eSIM Великобритания
-    slug: united-kingdom-esim
-    flag: /img/flags/gb.svg
-    price: От $1.99
-    is_highlight: true
-  - name: eSIM Европа
-    slug: europe-esim
-    flag: /img/flags/eu.svg
-    price: От $1.99
-    is_highlight: true
-  - name: eSIM Канада
-    slug: canada-esim
-    flag: /img/flags/ca.svg
+  - name: eSIM Китай
+    slug: china-esim
+    flag: /img/flags/cn.svg
     price: От $1.99
     is_highlight: false
   - name: eSIM Турция
     slug: turkey-esim
     flag: /img/flags/tr.svg
     price: От $1.99
+    is_highlight: true
+  - name: eSIM Египет
+    slug: egypt-esim
+    flag: /img/flags/eg.svg
+    price: От $1.99
     is_highlight: false
-  - name: eSIM Китай
-    slug: china-esim
-    flag: /img/flags/cn.svg
+  - name: eSIM Беларусь
+    slug: belarus-esim
+    flag: /img/flags/by.svg
+    price: От $1.99
+    is_highlight: false
+  - name: eSIM Черногория
+    slug: montenegro-esim
+    flag: /img/flags/me.svg
+    price: От $1.99
+    is_highlight: false
+  - name: eSIM Грузия
+    slug: georgia-esim
+    flag: /img/flags/ge.svg
     price: От $1.99
     is_highlight: false
   - name: eSIM Япония
     slug: japan-esim
     flag: /img/flags/jp.svg
     price: От $1.99
-    is_highlight: false
-  - name: eSIM Гонконг
-    slug: hong-kong-esim
-    flag: /img/flags/hk.svg
+    is_highlight: true
+  - name: eSIM Армения
+    slug: armenia-esim
+    flag: /img/flags/am.svg
     price: От $1.99
     is_highlight: false
-  - name: eSIM Франция
-    slug: france-esim
-    flag: /img/flags/fr.svg
+  - name: eSIM Узбекистан
+    slug: uzbekistan-esim
+    flag: /img/flags/uz.svg
     price: От $1.99
     is_highlight: false
-  - name: eSIM Испания
-    slug: spain-esim
-    flag: /img/flags/es.svg
+  - name: eSIM Казахстан
+    slug: kazakhstan-esim
+    flag: /img/flags/kz.svg
     price: От $1.99
     is_highlight: false
-  - name: eSIM Германия
-    slug: germany-esim
-    flag: /img/flags/de.svg
+  - name: eSIM Индия
+    slug: india-esim
+    flag: /img/flags/in.svg
     price: От $1.99
     is_highlight: false
-  - name: eSIM Австралия
-    slug: australia-esim
-    flag: /img/flags/au.svg
+  - name: eSIM Индонезия
+    slug: indonesia-esim
+    flag: /img/flags/id.svg
     price: От $1.99
     is_highlight: false
 categories:

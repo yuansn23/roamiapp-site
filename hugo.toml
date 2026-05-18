@@ -178,12 +178,12 @@ disableKinds = ["taxonomy", "term"]
     footer_col1_title = "Популярные направления"
     # Оптимизация: простой текст заменён на объекты со ссылками, используются абсолютные пути
     footer_col1_links = [
-{name="eSIM США", url="/united-states-esim/"}, 
-{name="eSIM Европа", url="/europe-esim/"}, 
-{name="eSIM Япония", url="/japan-esim/"}, 
-{name="eSIM Германия", url="/germany-esim/"}, 
-{name="eSIM Турция", url="/turkey-esim/"}, 
-{name="eSIM Канада", url="/canada-esim/"}
+{name="eSIM Китай", url="/china-esim/"},
+{name="eSIM Турция", url="/turkey-esim/"},
+{name="eSIM Египет", url="/egypt-esim/"},
+{name="eSIM Беларусь", url="/belarus-esim/"},
+{name="eSIM Узбекистан", url="/uzbekistan-esim/"},
+{name="eSIM Казахстан", url="/kazakhstan-esim/"}
     ]
     
     footer_col2_title = "Поддержка клиентов"

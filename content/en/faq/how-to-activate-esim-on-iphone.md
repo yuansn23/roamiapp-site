@@ -31,13 +31,13 @@ breadcrumbs:
 # 右侧：热门 eSIM 配置
 sidebar_popular:
   title: "Popular eSIMs"
-  item_suffix: "eSIM"       # 用于 HTML 的 title="{{ .name }} eSIM"
+  item_suffix: "eSIM"
   items:
     - name: "United States"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
-      badge: "5G"           # 提取出的角标配置
+      badge: "5G"
     - name: "Germany"
       flag: "/img/flags/de.svg"
       price: "$1.99"

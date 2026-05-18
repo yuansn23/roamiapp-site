@@ -30,58 +30,63 @@ destinations:
       name: "Европа"
       desc: "Лучшие предложения eSIM в Европе, поддерживается автоматическое сравнение цен."
       cards:
-        - flag: "fr.svg"
-          name: "eSIM Франция"
-          slug: "france-esim"
-          price: "От $1.99"
-          tags: ["5G Высокая скорость", "Безлимитный интернет"]
-        - flag: "es.svg"
-          name: "eSIM Испания"
-          slug: "spain-esim"
-          price: "От $1.99"
-          tags: ["5G Высокая скорость", "Безлимитный интернет"]
         - flag: "eu.svg"
           name: "eSIM Европа"
           slug: "europe-esim"
           price: "От $1.99"
           badge: "Горячо"
           tags: ["Мульти-страна", "Безлимитный интернет"]
+        - flag: "tr.svg"
+          name: "eSIM Турция"
+          slug: "turkey-esim"
+          price: "От $1.99"
+          badge: "Рекомендуем"
+          tags: ["5G Высокая скорость", "Безлимитный интернет"]
+        - flag: "fr.svg"
+          name: "eSIM Франция"
+          slug: "france-esim"
+          price: "От $1.99"
+          tags: ["5G Высокая скорость", "Безлимитный интернет"]
         - flag: "it.svg"
           name: "eSIM Италия"
           slug: "italy-esim"
           price: "От $1.99"
           tags: ["5G Высокая скорость", "Безлимитный интернет"]
-        - flag: "gb.svg"
-          name: "eSIM Великобритания"
-          slug: "united-kingdom-esim"
-          price: "От $1.99"
-          badge: "Горячо"
-          tags: ["5G Высокая скорость", "Безлимитный интернет"]
-        - flag: "de.svg"
-          name: "eSIM Германия"
-          slug: "germany-esim"
-          price: "От $1.99"
-          tags: ["5G сеть"]
-        - flag: "ru.svg"
-          name: "eSIM Россия"
-          slug: "russia-esim"
-          price: "От $1.99"
-          tags: ["Высокая скорость"]
-        - flag: "pt.svg"
-          name: "eSIM Португалия"
-          slug: "portugal-esim"
-          price: "От $1.99"
-          tags: ["Раздача интернета"]
         - flag: "gr.svg"
           name: "eSIM Греция"
           slug: "greece-esim"
           price: "От $1.99"
           tags: ["Покрытие островов"]
-        - flag: "ch.svg"
-          name: "eSIM Швейцария"
-          slug: "switzerland-esim"
+        - flag: "me.svg"
+          name: "eSIM Черногория"
+          slug: "montenegro-esim"
           price: "От $1.99"
-          tags: ["5G Высокая скорость"]
+          tags: ["Высокая скорость"]
+        - flag: "by.svg"
+          name: "eSIM Беларусь"
+          slug: "belarus-esim"
+          price: "От $1.99"
+          tags: ["Высокая скорость"]
+        - flag: "am.svg"
+          name: "eSIM Армения"
+          slug: "armenia-esim"
+          price: "От $1.99"
+          tags: ["Стабильное соединение"]
+        - flag: "bg.svg"
+          name: "eSIM Болгария"
+          slug: "bulgaria-esim"
+          price: "От $1.99"
+          tags: ["Высокая скорость"]
+        - flag: "ge.svg"
+          name: "eSIM Грузия"
+          slug: "georgia-esim"
+          price: "От $1.99"
+          tags: ["Стабильное соединение"]
+        - flag: "pl.svg"
+          name: "eSIM Польша"
+          slug: "poland-esim"
+          price: "От $1.99"
+          tags: ["5G Высокая скорость", "Безлимитный интернет"]
       btn: "Смотреть все тарифы Европы"
     - id: "asia"
       name: "Азия"
@@ -93,30 +98,9 @@ destinations:
           price: "От $1.99"
           badge: "Горячо"
           tags: ["5G Высокая скорость", "Безлимитный интернет"]
-        - flag: "tr.svg"
-          name: "eSIM Турция"
-          slug: "turkey-esim"
-          price: "От $1.99"
-          badge: "Рекомендуем"
-          tags: ["Безлимитный интернет"]
         - flag: "jp.svg"
           name: "eSIM Япония"
           slug: "japan-esim"
-          price: "От $1.99"
-          tags: ["5G Высокая скорость", "Безлимитный интернет"]
-        - flag: "th.svg"
-          name: "eSIM Таиланд"
-          slug: "thailand-esim"
-          price: "От $1.99"
-          tags: ["Безлимитный интернет"]
-        - flag: "my.svg"
-          name: "eSIM Малайзия"
-          slug: "malaysia-esim"
-          price: "От $1.99"
-          tags: ["Раздача интернета"]
-        - flag: "in.svg"
-          name: "eSIM Индия"
-          slug: "india-esim"
           price: "От $1.99"
           tags: ["5G Высокая скорость", "Безлимитный интернет"]
         - flag: "kr.svg"
@@ -125,122 +109,51 @@ destinations:
           price: "От $1.99"
           badge: "Рекомендуем"
           tags: ["Безлимитный интернет"]
+        - flag: "kz.svg"
+          name: "eSIM Казахстан"
+          slug: "kazakhstan-esim"
+          price: "От $1.99"
+          tags: ["Высокая скорость"]
+        - flag: "uz.svg"
+          name: "eSIM Узбекистан"
+          slug: "uzbekistan-esim"
+          price: "От $1.99"
+          tags: ["Стабильное соединение"]
+        - flag: "il.svg"
+          name: "eSIM Израиль"
+          slug: "israel-esim"
+          price: "От $1.99"
+          tags: ["5G Высокая скорость", "Безлимитный интернет"]
+        - flag: "in.svg"
+          name: "eSIM Индия"
+          slug: "india-esim"
+          price: "От $1.99"
+          tags: ["5G Высокая скорость", "Безлимитный интернет"]
         - flag: "id.svg"
           name: "eSIM Индонезия"
           slug: "indonesia-esim"
           price: "От $1.99"
           tags: ["5G Высокая скорость", "Безлимитный интернет"]
-        - flag: "vn.svg"
-          name: "eSIM Вьетнам"
-          slug: "vietnam-esim"
+        - flag: "az.svg"
+          name: "eSIM Азербайджан"
+          slug: "azerbaijan-esim"
           price: "От $1.99"
-          tags: ["Безлимитный интернет"]
-        - flag: "sg.svg"
-          name: "eSIM Сингапур"
-          slug: "singapore-esim"
+          tags: ["Высокая скорость"]
+        - flag: "om.svg"
+          name: "eSIM Оман"
+          slug: "oman-esim"
           price: "От $1.99"
-          tags: ["Раздача интернета"]
+          tags: ["Стабильное соединение"]
       btn: "Смотреть все тарифы Азии"
-    - id: "north-america"
-      name: "Северная Америка"
-      desc: "Лучшие предложения eSIM в Северной Америке, поддерживается автоматическое сравнение цен."
-      cards:
-        - flag: "us.svg"
-          name: "eSIM США"
-          slug: "united-states-esim"
-          price: "От $1.99"
-          badge: "Горячо"
-          tags: ["5G Высокая скорость", "Безлимитный интернет"]
-        - flag: "mx.svg"
-          name: "eSIM Мексика"
-          slug: "mexico-esim"
-          price: "От $1.99"
-          tags: ["Раздача интернета"]
-        - flag: "ca.svg"
-          name: "eSIM Канада"
-          slug: "canada-esim"
-          price: "От $1.99"
-          tags: ["5G сеть"]
-      btn: "Смотреть все тарифы Северной Америки"
-    - id: "oceania"
-      name: "Океания"
-      desc: "Тарифы eSIM для Океании, поддерживается автоматическое сравнение цен."
-      cards:
-        - flag: "au.svg"
-          name: "eSIM Австралия"
-          slug: "australia-esim"
-          price: "От $1.99"
-          tags: ["5G Высокая скорость"]
-        - flag: "nz.svg"
-          name: "eSIM Новая Зеландия"
-          slug: "new-zealand-esim"
-          price: "От $1.99"
-          tags: ["Безлимитный интернет"]
-        - flag: "fj.svg"
-          name: "eSIM Фиджи"
-          slug: "fiji-esim"
-          price: "От $1.99"
-          tags: ["Покрытие островов"]
-      btn: "Смотреть все тарифы Океании"
-    - id: "south-america"
-      name: "Южная Америка"
-      desc: "Тарифы eSIM для Южной Америки, поддерживается автоматическое сравнение цен."
-      cards:
-        - flag: "ar.svg"
-          name: "eSIM Аргентина"
-          slug: "argentina-esim"
-          price: "От $1.99"
-          tags: ["Высокая скорость"]
-        - flag: "br.svg"
-          name: "eSIM Бразилия"
-          slug: "brazil-esim"
-          price: "От $1.99"
-          tags: ["Раздача интернета"]
-        - flag: "cl.svg"
-          name: "eSIM Чили"
-          slug: "chile-esim"
-          price: "От $1.99"
-          tags: ["Безлимитный интернет"]
-        - flag: "pe.svg"
-          name: "eSIM Перу"
-          slug: "peru-esim"
-          price: "От $1.99"
-          tags: ["Высокая скорость"]
-        - flag: "co.svg"
-          name: "eSIM Колумбия"
-          slug: "colombia-esim"
-          price: "От $1.99"
-          tags: ["Раздача интернета"]
-        - flag: "pa.svg"
-          name: "eSIM Панама"
-          slug: "panama-esim"
-          price: "От $1.99"
-          tags: ["Высокая скорость"]
-        - flag: "ec.svg"
-          name: "eSIM Эквадор"
-          slug: "ecuador-esim"
-          price: "От $1.99"
-          tags: ["Безлимитный интернет"]
-        - flag: "uy.svg"
-          name: "eSIM Уругвай"
-          slug: "uruguay-esim"
-          price: "От $1.99"
-          tags: ["Высокая скорость"]
-        - flag: "bo.svg"
-          name: "eSIM Боливия"
-          slug: "bolivia-esim"
-          price: "От $1.99"
-          tags: ["Раздача интернета"]
-        - flag: "py.svg"
-          name: "eSIM Парагвай"
-          slug: "paraguay-esim"
-          price: "От $1.99"
-          tags: ["Высокая скорость"]
-      btn: "Смотреть все тарифы Южной Америки"
     - id: "africa"
       name: "Африка"
       desc: "Тарифы eSIM для Африки, поддерживается автоматическое сравнение цен."
       cards:
+        - flag: "eg.svg"
+          name: "eSIM Египет"
+          slug: "egypt-esim"
+          price: "От $1.99"
+          tags: ["Безлимитный интернет"]
         - flag: "ma.svg"
           name: "eSIM Марокко"
           slug: "morocco-esim"
@@ -251,46 +164,26 @@ destinations:
           slug: "south-africa-esim"
           price: "От $1.99"
           tags: ["Раздача интернета"]
-        - flag: "eg.svg"
-          name: "eSIM Египет"
-          slug: "egypt-esim"
+        - flag: "mu.svg"
+          name: "eSIM Маврикий"
+          slug: "mauritius-esim"
           price: "От $1.99"
-          tags: ["Безлимитный интернет"]
+          tags: ["Покрытие островов"]
+        - flag: "na.svg"
+          name: "eSIM Намибия"
+          slug: "namibia-esim"
+          price: "От $1.99"
+          tags: ["Стабильное соединение"]
         - flag: "tn.svg"
           name: "eSIM Тунис"
           slug: "tunisia-esim"
           price: "От $1.99"
           tags: ["Высокая скорость"]
-        - flag: "ci.svg"
-          name: "eSIM Кот-д’Ивуар"
-          slug: "ivory-coast-esim"
+        - flag: "sc.svg"
+          name: "eSIM Сейшелы"
+          slug: "seychelles-esim"
           price: "От $1.99"
-          tags: ["Высокая скорость"]
-        - flag: "dz.svg"
-          name: "eSIM Алжир"
-          slug: "algeria-esim"
-          price: "От $1.99"
-          tags: ["Высокая скорость"]
-        - flag: "et.svg"
-          name: "eSIM Эфиопия"
-          slug: "ethiopia-esim"
-          price: "От $1.99"
-          tags: ["Безлимитный интернет"]
-        - flag: "ke.svg"
-          name: "eSIM Кения"
-          slug: "kenya-esim"
-          price: "От $1.99"
-          tags: ["Высокая скорость"]
-        - flag: "tz.svg"
-          name: "eSIM Танзания"
-          slug: "tanzania-esim"
-          price: "От $1.99"
-          tags: ["Высокая скорость"]
-        - flag: "gh.svg"
-          name: "eSIM Гана"
-          slug: "ghana-esim"
-          price: "От $1.99"
-          tags: ["Высокая скорость"]
+          tags: ["Покрытие островов"]
       btn: "Смотреть все тарифы Африки"
   promo_text1: "Скидка для новых пользователей"
   promo_code: "web20"
