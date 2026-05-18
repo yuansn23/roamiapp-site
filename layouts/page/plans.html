@@ -210,19 +210,22 @@
             <div class="absolute top-0 right-0 -mt-10 -mr-10 text-blue-500 opacity-5 pointer-events-none" aria-hidden="true">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-64 h-64"><path d="M22 12A10 10 0 1 1 12 2a10 10 0 0 1 10 10z"></path><path d="M2 12h20"></path><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
             </div>
-            <div class="relative z-10 flex flex-col md:flex-row md:items-end justify-between mb-10 gap-4">
-                <div>
-                    <div class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-blue-100/80 text-blue-700 text-xs font-bold tracking-wide uppercase mb-4 shadow-sm">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 h-3.5" aria-hidden="true"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"></path></svg> {{ .Params.ui.premium_coverage | default "Premium Coverage" }}
-                    </div>
-                    <h2 class="text-3xl md:text-4xl font-extrabold text-slate-900 tracking-tight">
-                        {{ .Params.ui.regional_plans_title | default "Regional & Global Plans" }}
-                    </h2>
-                    <p class="text-slate-500 mt-3 text-base max-w-xl leading-relaxed">
-                        {{ .Params.ui.regional_subtitle | default "Travel across multiple countries with a single eSIM. Perfect for multi-destination trips and digital nomads." }}
-                    </p>
-                </div>
-            </div>
+        <div class="relative z-10 flex flex-col md:flex-row md:items-end justify-between mb-10 gap-4">
+    <div>
+        <div class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-blue-100/80 text-blue-700 text-xs font-bold tracking-wide uppercase mb-4 shadow-sm">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 h-3.5" aria-hidden="true">
+                <path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"></path>
+            </svg>
+            {{ i18n "premium_coverage" }}
+        </div>
+        <h2 class="text-3xl md:text-4xl font-extrabold text-slate-900 tracking-tight">
+            {{ i18n "regional_plans_title" }}
+        </h2>
+        <p class="text-slate-500 mt-3 text-base max-w-xl leading-relaxed">
+            {{ i18n "regional_subtitle" }}
+        </p>
+    </div>
+</div>
             
             <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative z-10 list-none p-0 m-0" id="regionalPlansGrid">
                 {{ range .Params.regional_plans }}

@@ -1,12 +1,12 @@
 ---
 title: "Список телефонов, совместимых с eSIM (2026)"
 description: "Ваш телефон совместим с eSIM? Проверьте по нашему полному обновлённому списку устройств с поддержкой eSIM на 2026 год, включая iPhone, Samsung Galaxy, Google Pixel и другие."
-keywords: "телефоны совместимые с eSIM, телефоны поддерживающие eSIM, мой телефон совместим с eSIM, совместимость iPhone с eSIM, телефоны Samsung с eSIM, устройства с поддержкой eSIM 2026, проверить совместимость eSIM"
+keywords: "телефоны совместимые с eSIM, телефоны поддерживающие eSIM, мой телефон совместим с eSIM, совместимость iPhone с eSIM, телефоны Samsung с eSIM, устройства с поддержкой eSIM 2026, проверить совместимость eSIM, iphone 17 esim, samsung s25 esim, сколько esim, как подключить esim на айфон"
 layout: "compatibility"
-date: '2026-05-13T00:00:00+00:00'
+date: '2026-05-18T00:00:00+00:00'
 type: "page"
 
-# 🌟 Оптимизация SEO: структурированные данные FAQ
+# Структурированные данные FAQ для SEO
 faq_schema:
   - question: "Как проверить, совместим ли ваш телефон с eSIM?"
     answer: "Перед покупкой туристического тарифа убедитесь, что ваше устройство разблокировано и поддерживает eSIM. Откройте приложение телефона, наберите *#06# и нажмите вызов. Если ваше устройство совместимо, на экране появится 32-значный номер EID."
@@ -19,9 +19,9 @@ faq_schema:
 header:
   title: "Список телефонов, совместимых с eSIM (2026)"
   subtitle: "Узнайте, какие смартфоны, включая новейшие модели iPhone, Samsung и Google Pixel, поддерживают глобальное eSIM-соединение Roami. Оставайтесь на связи в более чем 200 странах."
-  search_placeholder: "Поиск модели телефона..."
+  search_placeholder: "Например: iPhone 17, Samsung S25 Ultra, Xiaomi 15T Pro, Google Pixel 10"
 
-# 🚀 Баннер бесплатной eSIM для первого экрана (включая SEO-ключевые слова)
+# Баннер бесплатной eSIM для первого экрана
 free_esim_banner:
   title: "Получите бесплатный пробный eSIM"
   description: "Не уверены, поддерживается ли ваше устройство? Лучший способ проверить совместимость — <strong>бесплатный пробный eSIM</strong>. Нужен ли вам <strong>бесплатный eSIM для Китая</strong> для поездки в Азию, <strong>бесплатный eSIM для Турции</strong> или <strong>бесплатный тариф eSIM для Египта</strong>, выберите один ниже и подключитесь мгновенно."
@@ -57,16 +57,16 @@ free_esim_banner:
       title: "Бесплатный пробный eSIM для Индии"
       url: "/free-esim/"
 
-# 🔍 Конфигурация преобразования при отсутствии результатов поиска
+# Конфигурация при отсутствии результатов поиска
 no_results:
   title: "Устройство не найдено"
-  description: "Мы не нашли эту точную модель в нашем списке, но большинство современных смартфонов поддерживают eSIM."
+  description: "Попробуйте поискать по более общему названию бренда (Apple, Samsung) или проверьте одну из популярных моделей: iPhone 17, Galaxy S25, Pixel 10 Pro. Большинство современных телефонов поддерживают eSIM."
   box_title: "Лучший способ проверить?"
   box_desc: "Самый простой способ подтвердить совместимость — попробовать установить бесплатный eSIM. Если установка прошла успешно, ваше устройство готово к работе!"
   button_text: "Получить бесплатный пробный eSIM"
   button_url: "/free-esim/"
 
-# ℹ️ Текст раздела «Как проверить»
+# Текст раздела «Как проверить»
 how_to_check:
   title: "Как проверить, совместим ли ваш телефон с eSIM?"
   description: "Перед покупкой туристического тарифа крайне важно убедиться, что ваше устройство разблокировано и поддерживает технологию eSIM. Самый быстрый способ — поискать номер EID."
@@ -78,19 +78,67 @@ how_to_check:
     title: "Большинство современных телефонов поддерживают eSIM"
     desc: "Большинство iPhone, выпущенных после 2018 года, и премиальные устройства Android полностью совместимы с Roami."
 
-# 🎁 Карточка конвертации в боковой панели внизу
+# Карточка в боковой панели
 sidebar_promo:
   title: "Подходит ли ваш телефон для eSIM?"
   description: "Оцените бесшовное подключение! Получите свой первый eSIM бесплатно и наслаждайтесь высокоскоростным интернетом за границей."
   button_text: "Получить бесплатный eSIM сейчас"
   button_url: "/free-esim/"
 
+related_products:
+  title: "Популярные направления eSIM:"
+  items:
+    - name: "eSIM для Китая"
+      flag: "img/flags/cn.svg"
+      price: "От 1,99 $"
+      slug: "china-esim"
+    - name: "eSIM для Турции"
+      flag: "img/flags/tr.svg"
+      price: "От 1,99 $"
+      slug: "turkey-esim"
+    - name: "eSIM для Египта"
+      flag: "img/flags/eg.svg"
+      price: "От 1,99 $"
+      slug: "egypt-esim"
+    - name: "eSIM для Беларуси"
+      flag: "img/flags/by.svg"
+      price: "От 1,99 $"
+      slug: "belarus-esim"
+    - name: "eSIM для Черногории"
+      flag: "img/flags/me.svg"
+      price: "От 1,99 $"
+      slug: "montenegro-esim"
+    - name: "eSIM для Греции"
+      flag: "img/flags/gr.svg"
+      price: "От 1,99 $"
+      slug: "greece-esim"
+    - name: "eSIM для Италии"
+      flag: "img/flags/it.svg"
+      price: "От 1,99 $"
+      slug: "italy-esim"
+    - name: "eSIM для Франции"
+      flag: "img/flags/fr.svg"
+      price: "От 1,99 $"
+      slug: "france-esim"
+    - name: "eSIM для Японии"
+      flag: "img/flags/jp.svg"
+      price: "От 1,99 $"
+      slug: "japan-esim"
+    - name: "eSIM для Армении"
+      flag: "img/flags/am.svg"
+      price: "От 1,99 $"
+      slug: "armenia-esim"
+    - name: "eSIM для Узбекистана"
+      flag: "img/flags/uz.svg"
+      price: "От 1,99 $"
+      slug: "uzbekistan-esim"
 # Список совместимости
 compatibility_list_title: "Поддерживаемые устройства по брендам"
 brands:
   - name: "Apple iPhone"
     icon: "apple"
     bg_color: "bg-slate-900"
+    description: "Все модели iPhone от <strong>iPhone XS/XR</strong> до <strong>iPhone 17 Pro Max</strong> поддерживают eSIM. <a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-blue-600\">Настроить eSIM на iPhone</a> можно через QR-код или приложение оператора."
     note: "<strong>Примечание:</strong> iPhone, проданные в материковом Китае, не поддерживают eSIM. iPhone, проданные в Гонконге и Макао, имеют лишь частичную поддержку eSIM. Пожалуйста, проверьте вашу конкретную модель."
     note_class: "bg-amber-50 border-amber-100 text-amber-800"
     groups:
@@ -132,6 +180,7 @@ brands:
   - name: "Samsung"
     icon: "smartphone"
     bg_color: "bg-blue-600"
+    description: "Флагманы <strong>Samsung Galaxy S25/S24/S23</strong> и складные <strong>Z Fold/Z Flip</strong> полностью совместимы с eSIM.  — инструкция."
     note: "*Некоторые региональные версии могут быть несовместимы с eSIM. Пожалуйста, проверьте руководство к вашему устройству."
     note_class: "text-slate-500 bg-transparent border-transparent"
     groups:
@@ -195,6 +244,7 @@ brands:
   - name: "Google Pixel"
     icon: "smartphone"
     bg_color: "bg-red-500"
+    description: "Все <strong>Google Pixel 3 и новее</strong> (кроме японских версий) поддерживают eSIM."
     note: "*Некоторые региональные версии могут быть несовместимы с eSIM. Пожалуйста, проверьте руководство к вашему устройству."
     note_class: "text-slate-500 bg-transparent border-transparent"
     groups:
@@ -233,6 +283,7 @@ brands:
   - name: "Motorola"
     icon: "smartphone"
     bg_color: "bg-indigo-600"
+    description: "Проверьте вашу модель в списке ниже. Большинство современных смартфонов Motorola имеют eSIM."
     groups:
       - devices:
         - "Motorola Razr (2025)"
@@ -295,6 +346,7 @@ brands:
   - name: "Xiaomi и Huawei"
     icon: "smartphone"
     bg_color: "bg-orange-500"
+    description: "Ограниченная поддержка eSIM: <strong>Xiaomi 15T Pro, 14T Pro, 13T Pro, Redmi Note 11 Pro 5G</strong>; <strong>Huawei Pura 70, Mate 40 Pro, P40 Pro</strong>."
     groups:
       - sub_title: "Xiaomi"
         devices:
@@ -334,6 +386,7 @@ brands:
   - name: "Oppo и Vivo"
     icon: "smartphone"
     bg_color: "bg-emerald-500"
+    description: "Проверьте вашу модель в списке ниже. Большинство современных смартфонов Oppo и Vivo имеют eSIM."
     groups:
       - sub_title: "Oppo"
         devices:
@@ -378,6 +431,7 @@ brands:
   - name: "Honor и Sony"
     icon: "smartphone"
     bg_color: "bg-purple-600"
+    description: "Проверьте вашу модель в списке ниже. Большинство современных смартфонов Honor и Sony имеют eSIM."
     groups:
       - sub_title: "Honor"
         devices:
@@ -417,6 +471,7 @@ brands:
   - name: "Sharp и TCL"
     icon: "smartphone"
     bg_color: "bg-teal-600"
+    description: "Проверьте вашу модель в списке ниже. Большинство современных смартфонов Sharp и TCL имеют eSIM."
     groups:
       - sub_title: "Sharp"
         devices:
@@ -455,6 +510,7 @@ brands:
   - name: "Другие бренды"
     icon: "more-horizontal"
     bg_color: "bg-slate-700"
+    description: "Проверьте вашу модель в списке ниже. Некоторые из этих брендов также поддерживают eSIM."
     groups:
       - devices:
         - "<strong>Nokia:</strong> Nokia G60 5G, Nokia X30, Nokia XR21"
@@ -466,4 +522,44 @@ brands:
         - "<strong>Surface:</strong> Surface Duo"
         - "<strong>OnePlus:</strong> Совместимые модели"
         - "<strong>Others:</strong> Gemini PDA 4G+Wi-Fi, Nothing Phone (3a) Pro, Realme 14 Pro+, ASUS Zenfone 12 Ultra, ZTE nubia Flip2, Alcatel V3 Ultra"
+
+# ==================== Дополнительные SEO-поля ====================
+
+ 
+
+# Боковая панель: быстрые вопросы (управляется из данных) 
+quick_questions:
+  title: "Частые вопросы о совместимости"
+  questions:
+    - text: "📱 Сколько eSIM можно установить?"
+      anchor: "faq-esim-count"
+    - text: "🤔 Какие Xiaomi поддерживают eSIM?"
+      anchor: "faq-xiaomi"
+    - text: "🇨🇳 Почему iPhone из Китая не имеет eSIM?"
+      anchor: "faq-iphone-china"
+    - text: "🔁 Можно ли две eSIM одновременно?"
+      anchor: "faq-dual-esim"
+    - text: "🔢 Как узнать EID (код eSIM) на телефоне?"
+      anchor: "faq-check-eid"
+
+# Расширенные FAQ для покрытия длиннохвостых запросов
+extended_faq:
+  - question: "Сколько eSIM можно установить на один телефон?"
+    answer: "Большинство современных телефонов (iPhone, Samsung, Pixel) позволяют хранить до 10-20 eSIM-профилей, но одновременно активными могут быть 1-2 (зависит от модели). Например, iPhone 17 поддерживает до 8 eSIM и 2 активных одновременно."
+    anchor: "faq-esim-count"
+  - question: "Как узнать, поддерживает ли мой Xiaomi eSIM?"
+    answer: "Только некоторые модели Xiaomi имеют eSIM: Xiaomi 15T Pro, 14T Pro, 13T Pro, 12T Pro, Redmi Note 11 Pro 5G (индийская версия). Для проверки наберите *#06# – если появится EID, значит eSIM есть."
+    anchor: "faq-xiaomi"
+  - question: "Поддерживает ли Samsung Galaxy A серию eSIM?"
+    answer: "Да, начиная с Galaxy A54 5G, A55 5G, A35 5G и более новых моделей. Бюджетные A1x/A2x обычно не поддерживают. Смотрите список выше."
+    anchor: "faq-samsung-a"  
+  - question: "Какие iPhone не поддерживают eSIM?"
+    answer: "iPhone, проданные в материковом Китае, а также iPhone 8 и старше, iPhone X (не XS) не имеют eSIM. Все модели от iPhone XS/XR и новее (кроме Китая) поддерживают."
+    anchor: "faq-iphone-china"
+  - question: "Можно ли использовать две eSIM одновременно?"
+    answer: "Да, на iPhone 13 и новее, Samsung Galaxy S21+/Ultra и новее, Google Pixel 7+ можно активировать две eSIM одновременно. На старых моделях обычно одна eSIM + одна физическая SIM."
+    anchor: "faq-dual-esim"
+  - question: "Что делать, если моего телефона нет в списке?"
+    answer: "Попробуйте набрать *#06# – если видите EID, телефон поддерживает eSIM. Или установите наш бесплатный пробный eSIM – он сам проверит совместимость."
+    anchor: "faq-check-eid"
 ---

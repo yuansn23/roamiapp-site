@@ -182,3 +182,12 @@ other = "Claim Your Discount"
 
 [404_promo_note]
 other = "No registration required. Valid for new users."
+
+[premium_coverage]
+other = "Premium Coverage"
+
+[regional_plans_title]
+other = "Regional & Global Plans"
+
+[regional_subtitle]
+other = "Travel across multiple countries with a single eSIM. Perfect for multi-destination trips and digital nomads."

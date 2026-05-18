@@ -542,6 +542,38 @@
     </div>
 </section>
 
+
+{{ if .Params.faq }}
+<section id="faq" class="py-24 bg-white">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-12">
+            <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">{{ i18n "faq_title" | default "Frequently Asked Questions" }}</h2>
+            <p class="text-lg text-slate-500">{{ i18n "faq_desc" | default "Everything you need to know about our global eSIM service." }}</p>
+        </div>
+        <div class="space-y-4" itemscope itemtype="https://schema.org/FAQPage">
+            {{ range .Params.faq.items }}
+            <!-- 使用 details 標籤，不加 open 屬性就是默認折疊 -->
+            <details class="group bg-slate-50 rounded-2xl border border-slate-200 [&_summary::-webkit-details-marker]:hidden" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                <!-- summary 作為點擊控制條，內部放入問題 -->
+                <summary class="flex items-center justify-between p-6 font-bold text-lg text-slate-900 cursor-pointer list-none focus:outline-none select-none">
+                    <span itemprop="name">{{ .q }}</span>
+                    <!-- 右側的小箭頭，展開時會自動旋轉 180 度 -->
+                    <span class="ml-4 flex-shrink-0 transition duration-300 group-open:-rotate-180 text-slate-400">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                        </svg>
+                    </span>
+                </summary>
+                <!-- 折疊隱藏的答案區塊 -->
+                <div class="px-6 pb-6 border-t border-slate-100 pt-4" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <p class="text-slate-600 leading-relaxed text-sm" itemprop="text">{{ .a }}</p>
+                </div>
+            </details>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
 <!-- ========== ABOUT 区域 ========== -->
 <section id="about" class="py-24 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

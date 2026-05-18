@@ -85,6 +85,18 @@
                 <div>
                     <h1 class="text-2xl md:text-3xl font-extrabold text-slate-900">{{ .Params.header.title }}</h1>
                     <p class="text-slate-500 text-sm mt-1">{{ .Params.header.subtitle }}</p>
+                    
+                    <!-- 2.1 热门设备快速跳转 (popular_devices) -->
+                    {{ with .Params.popular_devices }}
+                    <div class="mt-4 flex flex-wrap gap-2 items-center">
+                        <span class="text-xs font-semibold text-slate-500 uppercase tracking-wide mr-1">⚡ Популярные устройства:</span>
+                        {{ range .devices }}
+                        <a href="{{ .url | relLangURL }}" class="text-xs bg-slate-100 hover:bg-slate-200 text-slate-700 px-3 py-1.5 rounded-full transition-colors" title="{{ .name }} eSIM support">
+                            {{ .name }}
+                        </a>
+                        {{ end }}
+                    </div>
+                    {{ end }}
                 </div>
                 
                 <form role="search" onsubmit="event.preventDefault();" class="w-full md:w-96 relative shrink-0">
@@ -123,16 +135,50 @@
                 </section>
                 {{ end }}
 
+                <!-- 2.2 热门设备推荐卡片区 (popular_devices) -->
+                {{ with .Params.popular_devices }}
+                <section class="mb-8 bg-white rounded-xl border border-slate-200 shadow-sm overflow-hidden">
+                    <div class="bg-gradient-to-r from-blue-600 to-indigo-600 px-5 py-3">
+                        <h2 class="text-lg font-bold text-white flex items-center gap-2">
+                            <i data-lucide="flame" class="w-5 h-5"></i> {{ .title }}
+                        </h2>
+                    </div>
+                    <div class="p-5 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                        {{ range .devices }}
+                        <div class="flex flex-col bg-slate-50 rounded-lg p-3 border border-slate-100">
+                            <h3 class="font-bold text-slate-800 text-sm">{{ .name }}</h3>
+                            <p class="text-xs text-slate-500 mt-1 mb-2">{{ .description }}</p>
+                            <a href="{{ .url | relLangURL }}" class="text-xs font-medium text-blue-600 hover:text-blue-800 inline-flex items-center gap-1 mt-auto">
+                                {{ .link_text }} <i data-lucide="arrow-right" class="w-3 h-3"></i>
+                            </a>
+                        </div>
+                        {{ end }}
+                    </div>
+                </section>
+                {{ end }}
+                
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6" id="brands-container" aria-label="Supported Devices by Brand">
                     {{ range .Params.brands }}
-                    <article class="brand-card bg-white rounded-xl p-5 border border-slate-200 shadow-sm flex flex-col h-full" aria-labelledby="brand-{{ .name | urlize }}">
+                    {{ $brandSlug := .name | urlize }}
+                    {{/* 🔧 关键修正：使用不带前导斜杠的相对路径，relLangURL 会自动添加语言前缀 */}}
+                    {{ $brandURL := printf "brands/%s/" $brandSlug | relLangURL }}
+                    <article class="brand-card bg-white rounded-xl p-5 border border-slate-200 shadow-sm flex flex-col h-full" aria-labelledby="brand-{{ $brandSlug }}">
                         <div class="flex items-center gap-3 mb-4 border-b border-slate-100 pb-3">
                             <div class="{{ .bg_color }} text-white p-1.5 rounded-md" aria-hidden="true">
                                 <i data-lucide="{{ .icon }}" class="w-5 h-5"></i>
                             </div>
-                            <h3 id="brand-{{ .name | urlize }}" class="text-lg font-bold text-slate-900">{{ .name }}</h3>
+                            <h3 id="brand-{{ $brandSlug }}" class="text-lg font-bold text-slate-900">{{ .name }}</h3>
                         </div>
                         
+                       {{ with .description }}
+{{ $fixedDesc := . }}
+{{/* 如果当前语言不是默认语言（假设默认是英文，根路径），则自动为 href="/..." 添加语言前缀 */}}
+{{ if ne $.Site.Language.Lang "en" }}
+    {{ $fixedDesc = replaceRE `href="/` (printf `href="/%s/` $.Site.Language.Lang) $fixedDesc }}
+{{ end }}
+<p class="text-xs text-slate-500 mb-3 leading-relaxed">{{ $fixedDesc | safeHTML }}</p>
+{{ end }}
+
                         <div class="flex-grow overflow-hidden">
                             {{ range .groups }}
                                 {{ if .sub_title }}
@@ -149,6 +195,8 @@
                             {{ end }}
                         </div>
 
+                    
+
                         {{ if .note }}
                         <div class="mt-3 p-2.5 rounded-lg bg-slate-50 border border-slate-100 text-xs text-slate-500 {{ .note_class }}">
                             {{ .note | safeHTML }}
@@ -160,7 +208,6 @@
                 
                 {{ with .Params.no_results }}
                 <div id="no-results" aria-live="polite" class="hidden text-center py-12 sm:py-16 bg-white rounded-xl border border-slate-200 mt-6 shadow-sm">
-                  
                     <h3 class="text-xl font-bold text-slate-900">{{ .title }}</h3>
                     <p class="text-slate-500 mt-2 mb-6 max-w-md mx-auto px-4">{{ .description }}</p>
                     
@@ -201,6 +248,20 @@
                         <p class="text-xs text-slate-500 mt-2 leading-relaxed">{{ .Params.how_to_check.side_box.desc }}</p>
                     </div>
 
+                    <!-- 2.4 快速问题列表 -->
+                    {{ with .Params.quick_questions }}
+                    <div class="bg-white p-5 rounded-xl shadow-sm border border-slate-200">
+                        <h3 class="font-bold text-slate-900 text-sm flex items-center gap-2 mb-3">
+                            <i data-lucide="help-circle" class="w-4 h-4 text-blue-500"></i> {{ .title }}
+                        </h3>
+                        <ul class="space-y-2 text-xs text-slate-600">
+                            {{ range .questions }}
+                            <li><a href="#{{ .anchor }}" class="hover:text-blue-600 transition-colors">{{ .text }}</a></li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                    {{ end }}
+
                     {{ with .Params.sidebar_promo }}
                     <div class="bg-gradient-to-br from-slate-900 to-slate-800 rounded-xl p-6 text-white shadow-lg border border-slate-700" aria-label="Special Promotion">
                         <div class="flex items-center gap-2 mb-3">
@@ -221,6 +282,60 @@
 
         </div>
     </div>
+
+    <!-- 2.7 底部相关产品卡片网格 -->
+    {{ with .Params.related_products }}
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 pt-10 border-t border-slate-200">
+        <div class="flex items-center gap-3 mb-6">
+            <h2 class="text-2xl font-bold text-slate-900">{{ .title }}</h2>
+        </div>
+        <ul class="grid grid-cols-2 lg:grid-cols-5 gap-4 list-none p-0 m-0">
+            {{ range first 10 (shuffle .items) }}
+                {{ $slugBase := .slug | default (.name | urlize) }}
+                {{ $slugWithSuffix := $slugBase }}
+                {{ if not (hasSuffix $slugBase "-esim") }}
+                    {{ $slugWithSuffix = printf "%s-esim" $slugBase }}
+                {{ end }}
+                {{/* 🔧 关键修正：使用不带前导斜杠的相对路径，由 relLangURL 自动添加语言前缀 */}}
+                {{ $targetUrl := printf "%s/" $slugWithSuffix | relLangURL }}
+                <li class="h-full">
+                    <a href="{{ $targetUrl }}" class="{{ if .is_highlight }}bg-brand-50 border-brand-200{{ else }}bg-white border-slate-200{{ end }} border rounded-2xl p-4 hover:border-brand-50 hover:shadow-md transition-all group h-full flex flex-col justify-center">
+                        {{ $imgPath := or .image .icon .img .flag "" }}
+                        {{ if $imgPath }}
+                            <img src="/{{ trim $imgPath "/" }}" loading="lazy" class="w-12 h-8 object-cover rounded-md shadow-sm mb-3" alt="{{ .name }}">
+                        {{ else }}
+                            <div class="w-12 h-8 rounded-md shadow-sm mb-3 bg-slate-100 flex items-center justify-center text-slate-400">
+                                <i data-lucide="globe" class="w-5 h-5"></i>
+                            </div>
+                        {{ end }}
+                        <h3 class="font-bold {{ if .is_highlight }}text-brand-700{{ else }}text-slate-900{{ end }} mb-1">{{ .name }}</h3>
+                        <p class="text-sm {{ if .is_highlight }}text-brand-600 font-medium{{ else }}text-slate-500{{ end }}">{{ .price }}</p>
+                    </a>
+                </li>
+            {{ end }}
+        </ul>
+    </section>
+    {{ end }}
+
+    <!-- 2.5 扩展FAQ区块 -->
+    {{ with .Params.extended_faq }}
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 border-t border-slate-200 mt-8">
+        <div class="bg-white rounded-xl border border-slate-200 p-6">
+            <h2 class="text-xl font-bold text-slate-900 mb-4 flex items-center gap-2">
+                <i data-lucide="message-circle-question" class="w-5 h-5 text-blue-600"></i> Часто задаваемые вопросы о eSIM-совместимости
+            </h2>
+            <div class="divide-y divide-slate-100">
+                {{ range . }}
+                <div id="{{ .anchor }}" class="py-4 first:pt-0 scroll-mt-24">
+                    <h3 class="font-semibold text-slate-800 text-base">{{ .question }}</h3>
+                    <p class="text-slate-600 text-sm mt-1 leading-relaxed">{{ .answer | safeHTML }}</p>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+    {{ end }}
+
 </main>
 
 {{ partial "footer.html" . }}

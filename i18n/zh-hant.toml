@@ -1,0 +1,184 @@
+# 通用按钮与标签
+[download_on_the]
+other = "在以下平台下載"
+
+[app_store]
+other = "App Store"
+
+[get_it_on]
+other = "在以下平台取得"
+
+[google_play]
+other = "Google Play"
+
+[visit_our]
+other = "造訪我們的"
+
+[official_website]
+other = "官方網站"
+
+[view_plans]
+other = "查看方案"
+
+[web]
+other = "網頁版"
+
+[android]
+other = "Android"
+
+# 弹窗相关
+[friendly_reminder]
+other = "服務已更新"
+
+[modal_upgrade_desc]
+other = "我們的服務已升級。請前往我們的官方網站或 APP 領取您的優惠碼。"
+
+[cancel]
+other = "取消"
+
+[proceed]
+other = "繼續"
+
+# 悬浮按钮文本
+[get_esim_discount]
+other = "獲取 8 折 eSIM 優惠"
+
+# FAQ 标题和描述
+[faq_title]
+other = "常見問題"
+
+[faq_desc]
+other = "關於我們全球 eSIM 服務您需要知道的所有資訊。"
+
+# 以下是您原有但可能未使用的，保留不影响（可选）
+[modal_title_ios]
+other = "服務已更新"
+
+[modal_text_ios]
+other = "您將被重新導向至官方 App 以領取優惠碼。"
+
+[tldr_summary_title]
+other = "旅客快速摘要"
+
+[modal_cancel]
+other = "取消"
+
+[modal_continue]
+other = "繼續"
+
+[global_connectivity_expert]
+other = "全球網路連線專家"
+
+[structured_data_org_description]
+other = "專業的全球 eSIM 服務供應商，在 200 個國家提供高速數據漫遊。"
+
+[structured_data_product_description]
+other = "支援 200+ 個國家的預付旅遊 eSIM 方案，即時啟用並享受 5G/4G 高速網路。"
+
+[structured_data_faq1_question]
+other = "如何購買美國 eSIM？"
+
+[structured_data_faq1_answer]
+other = "要購買美國 eSIM，只需下載 Roami 應用程式，選擇美國作為目的地，挑選符合您需求的數據方案，然後完成購買即可。啟用是即時的。"
+
+[structured_data_faq2_question]
+other = "如何線上購買日本 eSIM？"
+
+[structured_data_faq2_answer]
+other = "在 Roami 購買日本 eSIM 非常簡單。在我們的應用程式中搜尋日本，選擇您喜歡的 5G/4G 數據套餐，並在旅行前透過 QR Code 或一鍵啟用進行安裝。"
+
+[structured_data_faq3_question]
+other = "如何取得歐洲、英國或法國的 eSIM？"
+
+[structured_data_faq3_answer]
+other = "Roami 提供歐洲區域型 eSIM 以及英國、法國、義大利、德國和西班牙的單國方案。只需在應用程式中選擇您的目的地，即可立即連線並免除漫遊費用。"
+
+[structured_data_faq4_question]
+other = "為什麼選擇 Roami 而不是 Airalo、Nomad、Holafly 或 Ubigi？"
+
+[structured_data_faq4_answer]
+other = "雖然 Airalo、Nomad eSIM、Holafly、Saily eSIM、Yesim、MobiMatter 和 GigSky 都是選擇，但 Roami 提供極具競爭力的價格（最低 $1.99 起）、24/7 專人客服支援，以及覆蓋 200+ 個國家的無憂退款政策。"
+
+[software_description]
+other = "提供高速旅遊連線的全球 eSIM 供應商。"
+
+[last_updated]
+other = "最後更新"
+
+[select_language]
+other = "選擇語言"
+
+[language]
+other = "語言"
+
+[close]
+other = "關閉"
+
+[fifa_title_line1]
+other = "無縫連線"
+
+[fifa_title_line2]
+other = "2026 FIFA 世界盃™"
+
+[fifa_desc]
+other = "全球旅遊 eSIM 為您橫跨所有主辦城市的旅程賦能。保持連線，分享每一個精彩瞬間。"
+
+[fifa_guide_text]
+other = "✈️ 跨越國界旅行 — 立即獲取您的 eSIM"
+
+[fifa_card1_title]
+other = "免漫遊費"
+
+[fifa_card1_desc]
+other = "支付當地費率"
+
+[fifa_card2_title]
+other = "一張 SIM 卡，暢遊三國"
+
+[fifa_card2_desc]
+other = "美國 · 加拿大 · 墨西哥"
+
+[fifa_card3_title]
+other = "即時啟用"
+
+[fifa_card3_desc]
+other = "起飛前準備就緒"
+
+[fifa_country_canada]
+other = "🇨🇦 加拿大"
+
+[fifa_country_mexico]
+other = "🇲🇽 墨西哥"
+
+[fifa_country_usa]
+other = "🇺🇸 美國"
+
+[fifa_5g]
+other = "⚡ 支援 5G"
+
+[fifa_button]
+other = "獲取世界盃 eSIM"
+
+[404_page_not_found]
+other = "404 – 找不到頁面"
+
+[404_message]
+other = "我們找不到您正在尋找的頁面。它可能已被移動或不再存在。不用擔心 — 讓我們帶您回到您的旅行旅程。"
+
+[404_back_home]
+other = "帶我回首頁"
+
+[404_promo_title]
+other = "為您準備的專屬優惠"
+
+[404_promo_desc]
+other = "首筆 eSIM 訂單享 8 折優惠"
+
+[404_promo_code]
+other = "web20"
+
+[404_promo_cta]
+other = "領取您的優惠"
+
+[404_promo_note]
+other = "免註冊。新用戶有效。"
