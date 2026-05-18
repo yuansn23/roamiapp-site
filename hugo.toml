@@ -264,63 +264,60 @@ modal_title = "Avis important"
 modal_cancel = "Annuler"
 modal_confirm = "Aller maintenant"
 
-# 西班牙语配置
-[languages.es]
-languageName = "Español"
-disabled = true
-contentDir = "content/es"  # 告诉 Hugo 西班牙语内容在这个文件夹
+# 繁体中文配置（使用 zh-Hant）
+[languages.zh-hant]
+languageName = "繁體中文"
+disabled=true
+contentDir = "content/zh-hant"   # 告诉 Hugo 繁体中文内容在这个文件夹
 weight = 2
 
-[languages.es.params]
-    # 导航栏文案
+[languages.zh-hant.params]
+    # 導覽列文案
     nav_links = [
-      { name = "Inicio", url = "/" },
-      { name = "Planes", url = "/plans/" },
-      { name = "Compatibilidad", url = "/compatibility/" },
-      { name = "eSIM Gratis", url = "/free-esim/" },
-      { name = "App Roami", url = "/app/" },
-      { name = "Operadores", url = "/carriers/" },
-      { name = "FAQ", url = "/faq/" }
+      { name = "首頁", url = "/" },
+      { name = "方案", url = "/plans/" },
+      { name = "eSIM 相容性", url = "/compatibility/" },
+      { name = "免費 eSIM", url = "/free-esim/" },
+      { name = "Roami App", url = "/app/" },
+      { name = "合作電信商", url = "/carriers/" },
+      { name = "常見問題", url = "/faq/" }
     ]
 
-    # 页脚文案
-    footer_desc = "Ofrecemos servicios eSIM premium en más de 200 países y regiones, manteniéndote conectado dondequiera que viajes."
+    # 頁尾文案
+    footer_desc = "我們在 200+ 個國家與地區提供優質 eSIM 服務，讓您無論旅行到何處都能保持連線。"
 
-    footer_col1_title = "Destinos Principales"
-    # 优化：将纯文本改为带链接的对象，并使用绝对路径
+    footer_col1_title = "熱門目的地"
     footer_col1_links = [
-      { name = "eSIM Estados Unidos", url = "/united-states-esim/" },
-      { name = "eSIM Europa", url = "/europe-esim/" },
-      { name = "eSIM Japón", url = "/japan-esim/" },
-      { name = "eSIM Alemania", url = "/germany-esim/" },
-      { name = "eSIM Turquía", url = "/turkey-esim/" },
-      { name = "eSIM Canadá", url = "/canada-esim/" }
+      { name = "美國 eSIM", url = "/united-states-esim/" },
+      { name = "歐洲 eSIM", url = "/europe-esim/" },
+      { name = "日本 eSIM", url = "/japan-esim/" },
+      { name = "德國 eSIM", url = "/germany-esim/" },
+      { name = "土耳其 eSIM", url = "/turkey-esim/" },
+      { name = "加拿大 eSIM", url = "/canada-esim/" }
     ]
 
-    footer_col2_title = "Soporte al Cliente"
-    # 优化：前面加 "/"，并建议去掉 .html 使用 Clean URL
+    footer_col2_title = "客戶支援"
     footer_col2_links = [
-      { name = "FAQ", url = "/faq/" },
-      { name = "Compatibilidad eSIM", url = "/compatibility/" },
-      { name = "Operadores", url = "/carriers/" },
-      { name = "Descargar Roami", url = "/app/" }
+      { name = "常見問題", url = "/faq/" },
+      { name = "eSIM 相容性", url = "/compatibility/" },
+      { name = "合作電信商", url = "/carriers/" },
+      { name = "下載 Roami App", url = "/app/" }
     ]
 
-    footer_col3_title = "Información de la Empresa"
-    # 优化：前面加 "/"，确保从任何页面点击都跳回根目录
+    footer_col3_title = "公司資訊"
     footer_col3_links = [
-      { name = "Sobre Nosotros", url = "/about-us/" },
-      { name = "eSIM Gratis", url = "/free-esim/" },
-	  {name="Reembolso", url="/refund/"},
-      {name="Contacto", url="/contact/"},
-      { name = "Política de Privacidad", url = "/privacy/" },
-      { name = "Términos de Servicio", url = "/terms/" }
+      { name = "關於我們", url = "/about-us/" },
+      { name = "免費 eSIM", url = "/free-esim/" },
+      { name = "退款政策", url = "/refund/" },
+      { name = "聯絡我們", url = "/contact/" },
+      { name = "隱私權政策", url = "/privacy/" },
+      { name = "服務條款", url = "/terms/" }
     ]
 
-    footer_copyright = "© 2026 Roami. Todos los derechos reservados."
-    footer_slogan = "Proveedor Profesional de Servicios eSIM Global | Experto en Roaming de Datos eSIM Global"
+    footer_copyright = "© 2026 Roami 保留所有權利。"
+    footer_slogan = "專業全球 eSIM 服務供應商 | 全球 eSIM 數據漫遊專家"
 
-    # 弹窗文案
-    modal_title = "Aviso"
-    modal_cancel = "Cancelar"
-    modal_confirm = "Ir ahora"
+    # 彈窗文案
+    modal_title = "通知"
+    modal_cancel = "取消"
+    modal_confirm = "立即前往"

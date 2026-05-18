@@ -30,15 +30,17 @@ destinations:
       name: "Europa"
       desc: "Preiswerte eSIMs für Europa, inklusive automatischem Preisvergleich."
       cards:
-        - flag: "fr.svg"
-          name: "Frankreich eSIM"
-          slug: "france-esim"
-          price: "Ab 1,99 $"
-          tags: ["5G Highspeed", "Unbegrenzte Daten"]
         - flag: "es.svg"
           name: "Spanien eSIM"
           slug: "spain-esim"
           price: "Ab 1,99 $"
+          badge: "Beliebt"
+          tags: ["5G Highspeed", "Unbegrenzte Daten"]
+        - flag: "it.svg"
+          name: "Italien eSIM"
+          slug: "italy-esim"
+          price: "Ab 1,99 $"
+          badge: "Empfohlen"
           tags: ["5G Highspeed", "Unbegrenzte Daten"]
         - flag: "eu.svg"
           name: "Europa eSIM"
@@ -46,37 +48,36 @@ destinations:
           price: "Ab 1,99 $"
           badge: "Beliebt"
           tags: ["Mehrländer-Abdeckung", "Unbegrenzte Daten"]
-        - flag: "it.svg"
-          name: "Italien eSIM"
-          slug: "italy-esim"
+        - flag: "at.svg"
+          name: "Österreich eSIM"
+          slug: "austria-esim"
           price: "Ab 1,99 $"
           tags: ["5G Highspeed", "Unbegrenzte Daten"]
-        - flag: "gb.svg"
-          name: "Großbritannien eSIM"
-          slug: "united-kingdom-esim"
+        - flag: "gr.svg"
+          name: "Griechenland eSIM"
+          slug: "greece-esim"
           price: "Ab 1,99 $"
-          badge: "Beliebt"
+          tags: ["Insel-Abdeckung", "Highspeed"]
+        - flag: "fr.svg"
+          name: "Frankreich eSIM"
+          slug: "france-esim"
+          price: "Ab 1,99 $"
           tags: ["5G Highspeed", "Unbegrenzte Daten"]
-        - flag: "de.svg"
-          name: "Deutschland eSIM"
-          slug: "germany-esim"
+        - flag: "hr.svg"
+          name: "Kroatien eSIM"
+          slug: "croatia-esim"
+          price: "Ab 1,99 $"
+          tags: ["Küsten-Abdeckung", "Hotspot unterstützt"]
+        - flag: "nl.svg"
+          name: "Niederlande eSIM"
+          slug: "netherlands-esim"
           price: "Ab 1,99 $"
           tags: ["5G Netzwerk"]
-        - flag: "ru.svg"
-          name: "Russland eSIM"
-          slug: "russia-esim"
-          price: "Ab 1,99 $"
-          tags: ["Highspeed"]
         - flag: "pt.svg"
           name: "Portugal eSIM"
           slug: "portugal-esim"
           price: "Ab 1,99 $"
           tags: ["Hotspot unterstützt"]
-        - flag: "gr.svg"
-          name: "Griechenland eSIM"
-          slug: "greece-esim"
-          price: "Ab 1,99 $"
-          tags: ["Insel-Abdeckung"]
         - flag: "ch.svg"
           name: "Schweiz eSIM"
           slug: "switzerland-esim"
@@ -87,41 +88,15 @@ destinations:
       name: "Asien"
       desc: "Beste eSIM-Angebote für Asien mit Echtzeit-Preisanpassung."
       cards:
-        - flag: "cn.svg"
-          name: "China eSIM"
-          slug: "china-esim"
-          price: "Ab 1,99 $"
-          badge: "Beliebt"
-          tags: ["5G Highspeed", "Unbegrenzte Daten"]
-        - flag: "tr.svg"
-          name: "Türkei eSIM"
-          slug: "turkey-esim"
-          price: "Ab 1,99 $"
-          badge: "Empfohlen"
-          tags: ["Unbegrenzte Daten"]
-        - flag: "jp.svg"
-          name: "Japan eSIM"
-          slug: "japan-esim"
-          price: "Ab 1,99 $"
-          tags: ["5G Highspeed", "Unbegrenzte Daten"]
         - flag: "th.svg"
           name: "Thailand eSIM"
           slug: "thailand-esim"
           price: "Ab 1,99 $"
+          badge: "Beliebt"
           tags: ["Unbegrenzte Daten"]
-        - flag: "my.svg"
-          name: "Malaysia eSIM"
-          slug: "malaysia-esim"
-          price: "Ab 1,99 $"
-          tags: ["Hotspot unterstützt"]
-        - flag: "in.svg"
-          name: "Indien eSIM"
-          slug: "india-esim"
-          price: "Ab 1,99 $"
-          tags: ["5G Highspeed", "Unbegrenzte Daten"]
-        - flag: "kr.svg"
-          name: "Südkorea eSIM"
-          slug: "south-korea-esim"
+        - flag: "tr.svg"
+          name: "Türkei eSIM"
+          slug: "turkey-esim"
           price: "Ab 1,99 $"
           badge: "Empfohlen"
           tags: ["Unbegrenzte Daten"]
@@ -130,16 +105,41 @@ destinations:
           slug: "indonesia-esim"
           price: "Ab 1,99 $"
           tags: ["5G Highspeed", "Unbegrenzte Daten"]
+        - flag: "ae.svg"
+          name: "VAE eSIM"
+          slug: "uae-esim"
+          price: "Ab 1,99 $"
+          tags: ["5G Highspeed", "Hotspot unterstützt"]
+        - flag: "jp.svg"
+          name: "Japan eSIM"
+          slug: "japan-esim"
+          price: "Ab 1,99 $"
+          tags: ["5G Highspeed", "Unbegrenzte Daten"]
         - flag: "vn.svg"
           name: "Vietnam eSIM"
           slug: "vietnam-esim"
           price: "Ab 1,99 $"
           tags: ["Unbegrenzte Daten"]
+        - flag: "mv.svg"
+          name: "Malediven eSIM"
+          slug: "maldives-esim"
+          price: "Ab 1,99 $"
+          tags: ["Insel-Abdeckung"]
+        - flag: "lk.svg"
+          name: "Sri Lanka eSIM"
+          slug: "sri-lanka-esim"
+          price: "Ab 1,99 $"
+          tags: ["Highspeed"]
         - flag: "sg.svg"
           name: "Singapur eSIM"
           slug: "singapore-esim"
           price: "Ab 1,99 $"
           tags: ["Hotspot unterstützt"]
+        - flag: "kr.svg"
+          name: "Südkorea eSIM"
+          slug: "south-korea-esim"
+          price: "Ab 1,99 $"
+          tags: ["5G Highspeed", "Unbegrenzte Daten"]
       btn: "Alle Asien-Tarife anzeigen"
     - id: "north-america"
       name: "Nordamerika"
@@ -151,16 +151,16 @@ destinations:
           price: "Ab 1,99 $"
           badge: "Beliebt"
           tags: ["5G Highspeed", "Unbegrenzte Daten"]
-        - flag: "mx.svg"
-          name: "Mexiko eSIM"
-          slug: "mexico-esim"
-          price: "Ab 1,99 $"
-          tags: ["Hotspot unterstützt"]
         - flag: "ca.svg"
           name: "Kanada eSIM"
           slug: "canada-esim"
           price: "Ab 1,99 $"
           tags: ["5G Netzwerk"]
+        - flag: "mx.svg"
+          name: "Mexiko eSIM"
+          slug: "mexico-esim"
+          price: "Ab 1,99 $"
+          tags: ["Hotspot unterstützt"]
       btn: "Alle Nordamerika-Tarife anzeigen"
     - id: "oceania"
       name: "Ozeanien"
@@ -183,12 +183,23 @@ destinations:
           tags: ["Insel-Abdeckung"]
       btn: "Alle Ozeanien-Tarife anzeigen"
     - id: "south-america"
-      name: "Südamerika"
-      desc: "Südamerika eSIM-Tarife mit zuverlässiger Konnektivität."
+      name: "Süd- & Zentralamerika"
+      desc: "Süd- & Zentralamerika eSIM-Tarife mit zuverlässiger Konnektivität."
       cards:
-        - flag: "ar.svg"
-          name: "Argentinien eSIM"
-          slug: "argentina-esim"
+        - flag: "do.svg"
+          name: "Dom. Republik eSIM"
+          slug: "dominican-republic-esim"
+          price: "Ab 1,99 $"
+          badge: "Beliebt"
+          tags: ["Highspeed"]
+        - flag: "cu.svg"
+          name: "Kuba eSIM"
+          slug: "cuba-esim"
+          price: "Ab 1,99 $"
+          tags: ["Hotspot unterstützt"]
+        - flag: "cr.svg"
+          name: "Costa Rica eSIM"
+          slug: "costa-rica-esim"
           price: "Ab 1,99 $"
           tags: ["Highspeed"]
         - flag: "br.svg"
@@ -196,86 +207,63 @@ destinations:
           slug: "brazil-esim"
           price: "Ab 1,99 $"
           tags: ["Hotspot unterstützt"]
-        - flag: "cl.svg"
-          name: "Chile eSIM"
-          slug: "chile-esim"
+        - flag: "ar.svg"
+          name: "Argentinien eSIM"
+          slug: "argentina-esim"
           price: "Ab 1,99 $"
-          tags: ["Unbegrenzte Daten"]
+          tags: ["Highspeed"]
         - flag: "pe.svg"
           name: "Peru eSIM"
           slug: "peru-esim"
           price: "Ab 1,99 $"
           tags: ["Highspeed"]
+        - flag: "cl.svg"
+          name: "Chile eSIM"
+          slug: "chile-esim"
+          price: "Ab 1,99 $"
+          tags: ["Unbegrenzte Daten"]
         - flag: "co.svg"
           name: "Kolumbien eSIM"
           slug: "colombia-esim"
           price: "Ab 1,99 $"
           tags: ["Hotspot unterstützt"]
-        - flag: "pa.svg"
-          name: "Panama eSIM"
-          slug: "panama-esim"
-          price: "Ab 1,99 $"
-          tags: ["Highspeed"]
         - flag: "ec.svg"
           name: "Ecuador eSIM"
           slug: "ecuador-esim"
           price: "Ab 1,99 $"
           tags: ["Unbegrenzte Daten"]
-        - flag: "uy.svg"
-          name: "Uruguay eSIM"
-          slug: "uruguay-esim"
-          price: "Ab 1,99 $"
-          tags: ["Highspeed"]
         - flag: "bo.svg"
           name: "Bolivien eSIM"
           slug: "bolivia-esim"
           price: "Ab 1,99 $"
           tags: ["Hotspot unterstützt"]
-        - flag: "py.svg"
-          name: "Paraguay eSIM"
-          slug: "paraguay-esim"
-          price: "Ab 1,99 $"
-          tags: ["Highspeed"]
       btn: "Alle Südamerika-Tarife anzeigen"
     - id: "africa"
       name: "Afrika"
       desc: "Zuverlässige eSIM-Abdeckung für Ihre Reise durch Afrika."
       cards:
+        - flag: "eg.svg"
+          name: "Ägypten eSIM"
+          slug: "egypt-esim"
+          price: "Ab 1,99 $"
+          badge: "Beliebt"
+          tags: ["Unbegrenzte Daten"]
+        - flag: "za.svg"
+          name: "Südafrika eSIM"
+          slug: "south-africa-esim"
+          price: "Ab 1,99 $"
+          badge: "Empfohlen"
+          tags: ["Hotspot unterstützt"]
+        - flag: "na.svg"
+          name: "Namibia eSIM"
+          slug: "namibia-esim"
+          price: "Ab 1,99 $"
+          tags: ["Highspeed"]
         - flag: "ma.svg"
           name: "Marokko eSIM"
           slug: "morocco-esim"
           price: "Ab 1,99 $"
           tags: ["Highspeed"]
-        - flag: "za.svg"
-          name: "Südafrika eSIM"
-          slug: "south-africa-esim"
-          price: "Ab 1,99 $"
-          tags: ["Hotspot unterstützt"]
-        - flag: "eg.svg"
-          name: "Ägypten eSIM"
-          slug: "egypt-esim"
-          price: "Ab 1,99 $"
-          tags: ["Unbegrenzte Daten"]
-        - flag: "tn.svg"
-          name: "Tunesien eSIM"
-          slug: "tunisia-esim"
-          price: "Ab 1,99 $"
-          tags: ["Highspeed"]
-        - flag: "ci.svg"
-          name: "Elfenbeinküste eSIM"
-          slug: "ivory-coast-esim"
-          price: "Ab 1,99 $"
-          tags: ["Highspeed"]
-        - flag: "dz.svg"
-          name: "Algerien eSIM"
-          slug: "algeria-esim"
-          price: "Ab 1,99 $"
-          tags: ["Highspeed"]
-        - flag: "et.svg"
-          name: "Äthiopien eSIM"
-          slug: "ethiopia-esim"
-          price: "Ab 1,99 $"
-          tags: ["Unbegrenzte Daten"]
         - flag: "ke.svg"
           name: "Kenia eSIM"
           slug: "kenya-esim"
@@ -286,11 +274,26 @@ destinations:
           slug: "tanzania-esim"
           price: "Ab 1,99 $"
           tags: ["Highspeed"]
-        - flag: "gh.svg"
-          name: "Ghana eSIM"
-          slug: "ghana-esim"
+        - flag: "tn.svg"
+          name: "Tunesien eSIM"
+          slug: "tunisia-esim"
           price: "Ab 1,99 $"
           tags: ["Highspeed"]
+        - flag: "mu.svg"
+          name: "Mauritius eSIM"
+          slug: "mauritius-esim"
+          price: "Ab 1,99 $"
+          tags: ["Insel-Abdeckung"]
+        - flag: "sc.svg"
+          name: "Seychellen eSIM"
+          slug: "seychelles-esim"
+          price: "Ab 1,99 $"
+          tags: ["Insel-Abdeckung"]
+        - flag: "cv.svg"
+          name: "Kap Verde eSIM"
+          slug: "cape-verde-esim"
+          price: "Ab 1,99 $"
+          tags: ["Hotspot unterstützt"]
       btn: "Alle Afrika-Tarife anzeigen"
   promo_text1: "Rabatt für neue Nutzer"
   promo_code: "web20"
