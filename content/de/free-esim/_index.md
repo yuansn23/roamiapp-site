@@ -1,6 +1,6 @@
 ---
 title: "Kostenlose eSIM sichern | Globale Reisedaten-Testversion"
-date: '2026-05-11T08:51:42+00:00'
+date: '2026-05-18T08:51:42+00:00'
 layout: "free-esim-list"
 
 seo:

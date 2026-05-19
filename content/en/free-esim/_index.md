@@ -1,6 +1,6 @@
 ---
 title: "Claim Free eSIM | Global Travel Data Trial"
-layout: "free-esim-list"
+date: '2026-05-18T00:00:00+00:00'
 
 seo:
   title: "Free eSIM | No Credit Card Required|Zero Roaming Fees|Roami"

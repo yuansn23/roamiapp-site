@@ -1,10 +1,15 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {{- range .Site.RegularPages }}
+  {{- /* 遍历所有页面（包括 section, page 等） */ -}}
+  {{- range .Site.Pages }}
+    {{- /* 排除被标记为 sitemap_exclude 的页面 */ -}}
     {{- if ne .Params.sitemap_exclude true }}
+      {{- /* 只包含 page 和 section 两种 kind（可根据需要添加其他 kind） */ -}}
+      {{- if or (eq .Kind "page") (eq .Kind "section") }}
+        {{- /* 可选：排除首页（通常首页已单独处理，但保留也不影响） */ -}}
+        {{- if ne .Kind "home" }}
     <url>
       <loc>{{ .Permalink }}</loc>
-      {{- /* 统一使用页面的 .Lastmod，若为零值则回退到 .Date，若仍无则留空不输出 */ -}}
       {{- $lastmodTime := .Lastmod }}
       {{- if $lastmodTime.IsZero }}
         {{- $lastmodTime = .Date }}
@@ -13,6 +18,8 @@
       <lastmod>{{ $lastmodTime.Format "2006-01-02" | safeHTML }}</lastmod>
       {{- end }}
     </url>
+        {{- end }}
+      {{- end }}
     {{- end }}
   {{- end }}
 </urlset>
