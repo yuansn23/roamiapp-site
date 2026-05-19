@@ -3,7 +3,7 @@ title: "Roami 退款政策 | eSIM 購買保障"
 description: "了解 Roami eSIM 的退款與退貨政策。我們致力於為您提供滿意的體驗。"
 layout: "refund"
 type: "page"
-date: '2026-05-15T00:00:00+00:00'
+date: '2026-05-19T00:00:00+00:00'
 
 # SEO
 seo:

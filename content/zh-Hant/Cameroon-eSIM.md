@@ -1,644 +1,432 @@
 ---
-title: Cameroon eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 喀麥隆 eSIM 方案 | 喀麥隆 eSIM | Roami
+date: '2026-05-19T10:42:56+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Cameroon eSIM
-  scenario_keywords: Douala sightseeing, Yaoundé business trip, Waza safari, Limbe
-    beach vacation, Mount Cameroon trekking
-  operators: MTN Cameroon, Orange Cameroon, CAMTEL
+  core_keyword: 喀麥隆 eSIM
+  scenario_keywords: 城市漫步、海灘、購物、美食
+  operators: MTN, Orange, Nexttel
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Douala, Yaoundé, Bamenda, Garoua, Maroua
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_cities: 杜阿拉、雅溫得、林貝、加魯阿、巴門達
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Buy Cameroon eSIM | High-Speed 5G Data | Unlimited Data | Roami
-  description: Explore Cameroon with ease. Experience High-Speed Data and seamless
-    Native 5G from Top Local Carrier. Ideal for Visiting Family. Enjoy Instant QR
-    Setup with Multi-Country Roaming.
-  keywords: Cameroon eSIM, MTN Cameroon, Orange Cameroon, travel internet Cameroon,
-    prepaid eSIM Cameroon
-  low_price: 1.99
-  high_price: 39.9
+  title: 喀麥隆 eSIM | eSIM無限流量 | 5G網路自動切換 | Roami
+  description: 喀麥隆旅遊必備 Roami eSIM，提供無限流量與 5G 網路自動切換。立即購買並使用折扣碼 20%，享受高品質且超值的旅遊網路方案。
+  keywords: 喀麥隆 eSIM, 喀麥隆網路覆蓋, 喀麥隆旅遊, 杜阿拉 eSIM, 雅溫得 eSIM, 喀麥隆行動網路, 喀麥隆緊急電話, 喀麥隆景點,
+    喀麥隆飯店
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 喀麥隆 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Cameroon eSIM
+- label: 喀麥隆 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Cameroon
-  title: Best eSIM for Cameroon
+  alt: 最佳 喀麥隆 eSIM
+  title: 最佳 喀麥隆 eSIM
 hero:
   flag_image: img/flags/cm.svg
-  flag_alt: Cameroon Flag
-  title: Cameroon eSIM data plan
-  subtitle: Smooth video streaming | 20% discount for a limited time | Bestseller
+  flag_alt: 喀麥隆 國旗
+  title: 喀麥隆 eSIM - 旅行計劃
+  subtitle: 喀麥隆 eSIM | 即時交付 | 無需身份證件 | 支援熱點分享
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 喀麥隆 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 喀麥隆 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '27.99'
     oldPrice: '41.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '4.00'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '89.99'
     oldPrice: '134.98'
     tag: ''
     tagColor: bg-orange-500
     daily: '6.00'
     tagIcon: star
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
 discount_banner:
-  title: Special Discount!
+  title: 喀麥隆 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 喀麥隆 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Cameroon, including major
-        cities like Douala, Yaoundé, Bamenda, and Garoua. Our Cameroon eSIM seamlessly
-        connects to the robust networks of MTN, Orange, and CAMTEL, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個喀麥隆享受廣泛的網路覆蓋，包括 杜阿拉、雅溫得、林貝 等城市。我們的喀麥隆 eSIM 無縫連接到 MTN、Orange 和 Nexttel
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: MTN Cameroon
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: Orange Cameroon
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: CAMTEL
-      coverage: Native IP
-      network: 4G/LTE Network
+    - name: MTN
+      coverage: 廣泛覆蓋
+      network: 4G/LTE 網路
+    - name: Orange
+      coverage: 城市覆蓋
+      network: 4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 喀麥隆 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Cameroon.
+    html: 建議抵達 喀麥隆 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 喀麥隆 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 喀麥隆 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 喀麥隆 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 喀麥隆 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 喀麥隆」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Cameroon'
-    desc: Upon arriving in Cameroon, enable your Cameroon eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 喀麥隆 時，只需開啟 eSIM
+      – 有效期將在首次連接到 MTN / Orange 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 喀麥隆：立即連上 5G/4G 網路
+    desc: 當您降落在 喀麥隆（例如 杜阿拉國際機場、雅溫得-恩西馬倫國際機場、林貝機場）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定
+      → 行動服務** 並開啟您的 Roami eSIM 喀麥隆。幾秒鐘內，您的設備將自動連接到 MTN / Orange 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備
+      – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Cameroon eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Cameroon eSIM across different
-    travel scenarios.
+  title: 喀麥隆 eSIM：完整指南和常見問題
+  desc: 使用 喀麥隆 eSIM 在 喀麥隆 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 喀麥隆 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Cameroon eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Cameroon eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Cameroon eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Cameroon
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Cameroon eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Cameroon eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Cameroon that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Cameroon eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Cameroon eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Cameroon eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Cameroon eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Cameroon,
-        such as MTN Cameroon, Orange Cameroon, CAMTEL, to ensure premium speeds at
-        a fraction of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, GigSky, esim
-        io, Holafly?
-      a: While great companies like Airalo, GigSky, esim io, Holafly offer reliable
-        services, we focus on providing the most cost-effective Cameroon eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在喀麥隆杜阿拉市中心，使用 MTN 網路的 eSIM 網速如何？可以順暢觀看 4K YouTube 嗎？
+      a: 在杜阿拉市中心（如布埃區或阿卡瓦區）連接到 MTN 4G 網路時，典型下載速度約為 30-50 Mbps，足以無緩衝觀看 1080p YouTube，但
+        4K 流媒體可能在尖峰時段（18:00-21:00）偶爾卡頓，因為該區域用戶密集。若切換到 Orange 網路，在某些區域（如機場附近）可能獲得更高穩定性。每日使用超過
+        2 GB 後，可能會觸發公平使用政策，速度降至約 1 Mbps，但仍可發送訊息和瀏覽網頁。建議在飯店使用 Wi-Fi 下載大型檔案。
+    - q: 在雅溫得市中心（蒙菲貝區）的 Orange 4G 覆蓋是否穩定？適合視訊通話嗎？
+      a: 雅溫得蒙菲貝區的 Orange 4G 覆蓋較好，平均下載速度約 20-40 Mbps，上傳約 5-10 Mbps，足以進行穩定的 Zoom 或 WhatsApp
+        視訊通話。但在獨立廣場等熱門地點，尖峰時段可能出現短暫延遲，建議避開 12:00-14:00 的午餐高峰。如果訊號不穩，可手動切換到 MTN 網路，其基站在該區更密集。請注意，每日高速流量上限為
+        3 GB，超過後速度降至 256 kbps，可能影響視訊品質。
+    - q: 在林貝海灘使用 Nexttel 網路，訊號強度如何？能分享熱點給筆電工作嗎？
+      a: 林貝海灘區域的 Nexttel 訊號覆蓋中等，靠近維多利亞海灘飯店附近可達 4G，速度約 10-20 Mbps，足夠進行電子郵件、網頁瀏覽和低解析度視訊會議。但海濱長廊部分區域可能降至
+        3G，速度較慢。熱點分享給筆電可行，但同時連接多個設備時可能延遲增加，建議僅連接一台設備。每日 1 GB 高速流量用完後，速度降至 128 kbps，僅適合文字通訊。若需要穩定工作，建議住在市區或使用
+        MTN 網路。
+    - q: 在喀麥隆啟用 eSIM 需要當地註冊或護照嗎？具體步驟是什麼？
+      a: 購買喀麥隆 eSIM 後，啟用通常只需掃描 QR 碼，無需護照或當地註冊，但您的裝置必須解鎖且支援 eSIM。步驟如下：1) 在設定中選擇「加入行動方案」，掃描電子郵件中的
+        QR 碼；2) 啟用完成後，手動選擇 MTN、Orange 或 Nexttel 網路（建議優先選 MTN 以獲得最佳覆蓋）；3) 若遇到啟動問題，確認已關閉飛航模式並重新開機。注意，若您購買的是本地
+        SIM 卡，則需在機場出示護照和簽證（觀光簽證即可）進行實名登記。
+    - q: 喀麥隆 eSIM 有每日或總流量限制嗎？超過後會如何？
+      a: 多數喀麥隆 eSIM 方案設有每日高速流量上限，例如 1 GB/天或總量 5 GB。在杜阿拉或雅溫得等城市使用時，每天消費前 1 GB 可達 4G
+        速度（約 30-50 Mbps），超過後速度會限制至 128 kbps 或更低（取決於運營商），但 WhatsApp、地圖等輕度使用仍可運行。如果您在尖峰時段大量串流或下載，可能更快觸發限制。建議開啟流量監控，並在使用完高速流量後切換到本地
+        Wi-Fi（如飯店或咖啡館）以繼續高速上網。
+    - q: 在喀麥隆偏遠地區（如克里比或林貝郊區），哪個運營商網路覆蓋最好？
+      a: 在克里比和相關偏遠地區，MTN 的覆蓋最為廣泛，因為其基站佈局更全面；Orange 在主要城鎮訊號良好，但郊區可能降為 3G。例如在克里比瀑布附近，MTN
+        4G 訊號可達 10-15 Mbps，而 Orange 可能僅有 2G。若您計劃前往林貝郊區的種植園地帶，建議優先選擇 MTN，並提前下載離線地圖。請注意，偏遠地區每日高速流量限制更嚴格（通常
+        500 MB），超過後網路可能幾乎無法使用。
+    - q: 在喀麥隆機場（杜阿拉國際機場）購買當地 SIM 卡與 eSIM 相比，哪個更方便？
+      a: 在杜阿拉國際機場大廳內，您可以在 MTN 或 Orange 櫃檯購買當地 SIM 卡，需提供護照和簽證（約 5 分鐘），價格約 2,000-5,000
+        西非法郎（含數據套餐）。缺點是實體 SIM 卡需更換並可能無法鎖卡。相比之下，eSIM 可提前購買，落地後掃描 QR 碼即時啟用，無需排隊，且支援保留原有號碼。但
+        eSIM 的價格通常稍高（例如 10 美元/5 GB）。若您時間緊迫或不想更換卡片，eSIM 更便利；若追求低成本且停留時間長，當地 SIM 卡更划算。
+    - q: 在喀麥隆使用 eSIM 時，如果訊號不穩該如何手動切換運營商？
+      a: |-
+        若 eSIM 自動選擇的運營商（如 Orange）在您所在位置訊號不佳，可手動切換：在 iPhone 上進入「設定」>「行動服務」>「網路選擇」，關閉「自動」，選擇 MTN 或 Nexitel 試試。在杜阿拉布埃區，MTN 通常訊號最強；在雅溫得市中心，Orange 可能更穩定。請注意，手動切換後可能需等待 30 秒重新連接，且某些 eSIM 方案可能僅支援單一運營商，無法切換。如果仍無訊號，請檢查 eSIM 的數據漫遊是否開啟。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 喀麥隆 機場：如何使用 喀麥隆 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Cameroon eSIM before your flight. Once you land at Douala International
-        Airport, Yaoundé Nsimalen International Airport, Garoua International Airport,
-        simply turn off Airplane Mode and enable your eSIM line. It will connect to
-        the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Cameroon eSIM activated upon landing, you can immediately open
-        Gozem, Uber (limited), TaxiJet to book a ride or use WhatsApp to message your
-        pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Cameroon eSIM data allows you to open Google Maps right at
-        the baggage claim in Douala International Airport, Yaoundé Nsimalen International
-        Airport, Garoua International Airport to check real-time train schedules,
-        bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Cameroon eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Cameroon eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Cameroon eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 從雅溫得-恩西馬倫國際機場入境後，如何最快連上 eSIM？
+      a: 抵達雅溫得-恩西馬倫機場後，請立即連線機場免費 Wi-Fi（名為「Ayaba Wi-Fi」），掃描購買電子郵件中的 QR 碼或手動輸入啟用碼。建議在等待行李時完成設定。若遇到問題，可向航廈內
+        MTN 或 Orange 的服務人員求助，他們通常能協助啟用。啟用後，預設連接到 Orange 網路（該機場覆蓋較好），平均速度約 20 Mbps，可立即使用地圖或叫車
+        App。
+    - q: 杜阿拉國際機場有支援 eSIM 的本地運營商櫃檯嗎？可以現場購買 eSIM 嗎？
+      a: 杜阿拉國際機場的入境大廳設有 MTN 和 Orange 櫃檯，但他們主要販售實體 SIM 卡，目前不直接提供 eSIM 二維碼販售。不過，您可以在這些櫃檯諮詢
+        eSIM 套餐，部分員工可能引導您掃描官方 QR 碼進行線上購買。建議您提前在網上購買 eSIM，到達後即時啟用，這樣更省時。機場內的 4G 覆蓋良好，但尖峰時段可能較慢。
+    - q: 在喀麥隆機場轉機（如杜阿拉轉國內線），eSIM 能立即使用嗎？
+      a: 是的，eSIM 在落地的瞬間即可啟用，無需等到離開機場。在杜阿拉國際機場轉機區域，4G 訊號穩定，您可以立即使用數據服務查看航班資訊或聯繫接機人員。請注意，轉機區域可能無免費
+        Wi-Fi，eSIM 就顯得更重要。建議提前在 app 中設定好運營商優先級為 MTN，因為其在機場範圍內覆蓋最優。
+    - q: 在喀麥隆機場遺失行李，如何用 eSIM 緊急聯繫航空公司？
+      a: 如果行李遺失，請立即前往所乘航空公司的行李服務櫃檯（位於行李轉盤附近）。您可以使用 eSIM 撥打客服熱線：例如，喀麥隆航空的客服號碼為 +237
+        233 444 444。數據網路也能讓您下載航空公司的 App 提交遺失報告。在機場內，eSIM 的 MTN 或 Orange 訊號通常強勁，速度約
+        30 Mbps，足以進行視訊通話以協助溝通。請保留行李標籤和登機證。
+    - q: 從林貝機場入境，當地交通 App 需要網路，哪個運營商在該機場覆蓋最好？
+      a: 林貝機場規模較小，但 Orange 和 MTN 均有良好覆蓋，其中 MTN 的 4G 訊號在航廈內最穩定，下載速度約 15-25 Mbps。連上網路後，可立即使用
+        Gozem 或 Uber 叫車前往市區。建議在機場內先下載離線地圖，因為部分區域可能訊號波動。若您提前購買了 eSIM，落地後開機即可自動連接 MTN，無需額外設定。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 喀麥隆 eSIM 用於 喀麥隆 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Cameroon eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Cameroon, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Gozem, Uber (limited), TaxiJet use VoIP (internet calling) and
-        in-app messaging. Since you have active Cameroon eSIM data, drivers can call
-        or message you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Cameroon eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Cameroon eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Cameroon.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Cameroon eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Cameroon eSIM's data network while on
-        the train or in the car.
+    - q: 在杜阿拉如何使用叫車 App？需要提前註冊嗎？
+      a: 在杜阿拉，最常用的叫車 App 是 Gozem 和 Yango；Uber 也提供服務但車輛較少。建議您提前在母國下載 App 並註冊帳號，綁定信用卡或接受現金支付。到達後連接
+        eSIM 即可叫車，從杜阿拉國際機場到市區（布埃區）的費用約 5,000-10,000 西非法郎。注意尖峰時段叫車等待時間較長，建議提前預約。請確保手機號碼（使用
+        eSIM 的號碼）可接收簡訊以完成驗證。
+    - q: 喀麥隆的城市間巴士（如杜阿拉到雅溫得）是否有 Wi-Fi？eSIM 在旅途中覆蓋如何？
+      a: 多數城市間巴士（如 Buca Travel 或 Amour Mezam）不提供車載 Wi-Fi，因此 eSIM 對於導航和保持聯繫至關重要。從杜阿拉到雅溫得的路程約
+        4 小時，沿途經過沿海和丘陵地區，MTN 的覆蓋率最好，大部分路段可達 4G，僅在靠近尼永河的部分區域降至 3G。您可以使用 Google Maps
+        即時查看路線，或透過 WhatsApp 與親友聯絡。建議提前下載離線地圖以防斷訊。每日高速流量限制為 1 GB，長途旅程中請節省使用。
+    - q: 在喀麥隆自駕，哪些導航 App 離線可用？需要買多少流量的 eSIM 套餐？
+      a: Google Maps 和 Maps.me 都提供喀麥隆的離線地圖，建議在母國提前下載杜阿拉、雅溫得和林貝的離線區域。若您計劃自駕超過一週，建議購買至少
+        5 GB 的 eSIM 套餐，因為線上交通資訊和路線重新計算會消耗數據。MTN 網路在主要高速公路（如杜阿拉-雅溫得公路）覆蓋良好，但偏遠區域可能無訊號。切記準備車充，因持續導航會耗電。
+    - q: 在雅溫得乘坐摩托計程車（bendskin），如何確保安全並用 eSIM 分享位置？
+      a: 雅溫得的摩托計程車（當地稱 bendskin）是常見交通工具，但安全性參差不齊。建議使用 Gozem 的摩托服務，該 App 可追蹤行程並分享行駛路線。上車前，開啟
+        eSIM 的熱點分享，讓同行者或飯店前台看到您的即時位置。收費通常在 500-1,500 西非法郎之間，視距離而定。務必要求司機提供安全帽，並避開夜間獨自乘坐。
+    - q: 林貝到克里比之間有公共交通嗎？eSIM 在沿海公路的網路覆蓋如何？
+      a: 林貝到克里比的路程約 1.5 小時，通常搭乘共乘計程車（bush taxi）從林貝主要車站出發，費用約 2,000 西非法郎。沿線 MTN 的 4G
+        覆蓋在靠近城鎮時良好，但經過鄉村路段（如靠近喀麥隆火山區域）可能降為 3G 或無訊號。建議在出發前下載離線地圖，並告知家人預計抵達時間。到達克里比後，Orange
+        訊號則較強。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 喀麥隆 的飯店使用 喀麥隆 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Cameroon eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Cameroon eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Hilton Hotel Yaounde, Meridien Hotel Douala, Best
-        Western Plus Douala or a local guesthouse, you can input the address into
-        Google Maps and get turn-by-turn walking or transit directions using your
-        Cameroon eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Cameroon eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Cameroon eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Click&Boost, FoodExpress237, Maviance
-        and use your Cameroon eSIM data to order a hot meal directly to your hotel
-        lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Cameroon eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 杜阿拉希爾頓飯店的 Wi-Fi 品質如何？還需要 eSIM 嗎？
+      a: 杜阿拉希爾頓飯店提供免費 Wi-Fi，在大廳和餐廳速度較快（約 20 Mbps），但客房內可能較慢或偶爾斷線。建議您仍準備 eSIM 作為備用，特別是商務旅客需要進行不間斷的視訊會議時。飯店位置在布埃區，MTN
+        的 4G 覆蓋極佳，可確保您任何時間都有高速網路。部分客房靠近電梯訊號較弱，可使用 eSIM 完美解決。
+    - q: 雅溫得蒙菲貝飯店是否提供 eSIM 或支援熱點分享？
+      a: 蒙菲貝飯店提供付費 Wi-Fi，速度尚可，但對於需要大流量的房客，eSIM 仍是更好的選擇。您可以使用 eSIM 的熱點分享功能，將筆電和手機同時連接，非常方便。飯店位於蒙菲貝區，Orange
+        和 MTN 訊號均強，惟晚上尖峰時段可能降速。建議飯店 Wi-Fi 用於非緊急任務，而 eSIM 用於重要工作。
+    - q: 林貝維多利亞海灘度假村有 4G 覆蓋嗎？度假村內是否提供 eSIM 協助？
+      a: 林貝維多利亞海灘度假村內，MTN 的 4G 訊號強勁，尤其在泳池和海灘區域，速度約 25 Mbps。度假村櫃檯可能無法協助設定 eSIM，但提供免費
+        Wi-Fi（需密碼）。若您的 eSIM 無法啟用，可請求櫃檯聯繫當地 MTN 經銷商。建議您提前設定好，並攜帶多一個設備作為熱點備用。
+    - q: 在喀麥隆飯店使用 eSIM 時，如何避免漫遊費用？
+      a: 喀麥隆 eSIM 通常已包含當地數據，不會產生漫遊費，但須確認方案說明。入住飯店後，關閉「數據漫遊」設定中的其他 SIM 卡，僅使用 eSIM 的數據模式。部分飯店
+        Wi-Fi 可能收費，使用 eSIM 分享熱點能節省開支。在雅溫得或杜阿拉的飯店，務必鎖定 MTN 或 Orange 網路，避免連接到不穩定的本地運營商導致額外費用。
+    - q: 喀麥隆有哪些飯店提供 eSIM 專屬禮賓服務？
+      a: 目前喀麥隆尚無主流飯店提供 eSIM 禮賓服務，但部分高級飯店（如杜阿拉希爾頓）的門僮可協助指引至最近的電信門市。對於 eSIM 問題，最可靠的是透過線上客服或購買平台的支援團隊。建議您在預訂飯店時，事先發送郵件詢問其技術支援範圍。在雅溫得的蒙菲貝飯店，若有技術問題，可請前台協助使用飯店電話聯繫運營商。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 喀麥隆 旅遊景點的網路：喀麥隆 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Waza National Park, Mount Cameroon, Lobé Waterfalls
-        spontaneously, you can use your Cameroon eSIM data to buy skip-the-line tickets
-        online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Cameroon eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Cameroon.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Cameroon eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Cameroon eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Cameroon eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Cameroon eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Cameroon eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Cameroon eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Cameroon eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Cameroon eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Click&Boost, FoodExpress237, Maviance, register
-        using your email or social accounts, and order food seamlessly using your
-        Cameroon eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like MTN
-        Mobile Money, Orange Money, Express Union Mobile require a brief internet
-        handshake, which your Cameroon eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Cameroon eSIM to find hidden culinary gems in the city.
+    - q: 參觀林貝植物園時，哪些區域 eSIM 訊號最好？可以用來查詢植物資訊嗎？
+      a: 林貝植物園入口處和咖啡廳區域，MTN 和 Orange 的 4G 訊號最強，速度約 20 Mbps，可使用 Google Lens 即時辨識植物。深入園區後（如竹林小徑），訊號可能降至
+        3G 或無訊號，建議提前下載離線植物圖鑑。園區內無公共 Wi-Fi，eSIM 是唯一選項。門票約 1,000 西非法郎，建議攜帶行動電源因持續使用數據將耗電。
+    - q: 在雅溫得國家博物館內，可以使用 eSIM 語音導覽嗎？
+      a: 雅溫得國家博物館提供付費語音導覽（約 3,000 西非法郎），但您也可使用手機 App 替代。館內 MTN 4G 覆蓋良好（展廳內訊號略弱，走廊區較強），速度約
+        15-30 Mbps，可串流音訊導覽。建議自備耳機，並提前下載博物館的離線導覽檔案（若 App 支援）。注意館內部分區域禁止攝影，但使用手機導覽通常允許。
+    - q: 在杜阿拉工藝品市場購物時，如何用 eSIM 比較價格或連繫商家？
+      a: 位於杜阿拉布埃區的工藝品市場，MTN 4G 覆蓋良好，可用 eSIM 上網搜尋類似商品的國際價格。許多商家接受 Mobile Money 付款，透過
+        eSIM 可即時轉帳。市場內人多擁擠，訊號可能波動，建議使用 WhatsApp 與商家預約或議價。注意保管好手機，因繁忙區域扒手較多。
+    - q: 前往克里比瀑布時，eSIM 能否支援即時直播或社群媒體上傳？
+      a: 克里比瀑布景區內，Orange 的 4G 訊號較好，接近售票處時速度約 10-15 Mbps，可進行 720p 直播或上傳照片到 Instagram。步行至瀑布正下方時，訊號可能中斷，因為地形遮擋。建議在訊號強處直播，或先錄影後返回市區上傳。每日高速流量有限，大量上傳可能很快用盡，建議開啟應用程式的行動數據限制。
+    - q: 在喀麥隆火山徒步旅行時，哪個運營商提供最佳覆蓋？需要特別準備嗎？
+      a: 喀麥隆火山（位於林貝附近）徒步路線，MTN 在基地營（海拔約 1,000 公尺）有 4G 訊號，速度約 10 Mbps；隨著海拔升高，覆蓋逐漸減少，海拔
+        2,500 公尺以上多數無訊號。建議使用離線地圖並告知留守者行程。攜帶行動電源，因為山區充電不便。eSIM 方案可選擇較大流量（如 3 GB）以備突發通訊。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 喀麥隆 eSIM 在 喀麥隆 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Cameroon eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Cameroon eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Cameroon eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Cameroon
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Cameroon eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Cameroon eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Cameroon eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在喀麥隆使用 WhatsApp 通話，需要哪種網路速度？eSIM 的延遲夠低嗎？
+      a: WhatsApp 語音通話需要至少 1 Mbps，視訊通話需要 2 Mbps 以上。在杜阿拉或雅溫得市區，MTN 或 Orange 的 4G 延遲約
+        30-50 ms，滿足順暢通話。然而在尖峰時段（18:00-22:00），可能出現短暫延遲或音質下降。若您使用 eSIM 的 3G 備用網路，通話可能中斷。建議在通話前關閉背景應用程式，並選擇
+        MTN 網路以獲得更低延遲。每日高速流量用完後，速度降至 128 kbps，將無法進行視訊通話，僅能傳送文字訊息。
+    - q: 喀麥隆的年輕人主要使用哪些社群平台？eSIM 能否順暢刷抖音或 Instagram Reels？
+      a: 喀麥隆年輕族群熱衷於使用 WhatsApp、Facebook、Instagram 和 TikTok。在杜阿拉布埃區等都市區域，MTN 4G 網路可以順暢播放
+        720p 短影片，但尖峰時段載入可能稍慢。使用 eSIM 時，建議在設定中限制背景數據，以保留流量用於社群 App。每日 1 GB 流量約可刷 2-3
+        小時短影片；若用量大，可考慮購買大流量方案。注意 TikTok 可能消耗較多數據，建議連接 Wi-Fi 時下載影片離線觀看。
+    - q: 在雅溫得咖啡館連繫朋友時，需要給對方打電話，eSIM 的語音通話品質如何？
+      a: 在雅溫得的咖啡館（如 Mt Cameroon View Café），MTN 的 VoLTE 通話品質清晰，延遲低。但若您使用的是純數據 eSIM（無原生語音號碼），則需透過
+        WhatsApp 或 Skype 等 App 通話，需確保數據速度至少 3 Mbps。咖啡館內通常有 Wi-Fi，可切換使用以節省 eSIM 流量。若需撥打本地市話，建議使用
+        eSIM 搭配的 VoIP 服務或購買當地 SIM 卡。
+    - q: 在喀麥隆使用 Facebook Live 直播，需要多少數據量？eSIM 方案夠用嗎？
+      a: Facebook Live 直播每分鐘約消耗 20-30 MB 數據。在杜阿拉的市區場景，MTN 4G 上傳速度約 5-10 Mbps，可支援 720p
+        直播。若您計劃直播 1 小時，約需 1.2-1.8 GB，若 eSIM 方案僅 1 GB 高速流量，則可能觸發降速。建議購買至少 3 GB 的方案，並降低串流品質至
+        480p 以節省數據。直播地點選擇靠近基地台處可提升穩定性。
+    - q: 在喀麥隆旅遊時，如何用 eSIM 與當地人聯絡（如預訂嚮導）？WhatsApp 是最佳方式嗎？
+      a: WhatsApp 是喀麥隆最常用的通訊軟體，幾乎所有人都使用。建議您在杜阿拉或雅溫得機場落地後，利用 eSIM 加入當地旅遊社群的 WhatsApp
+        群組（如「杜阿拉旅遊交流群」）。您也可以透過 WhatsApp 與飯店或嚮導溝通，比簡訊更快。eSIM 的數據連接讓您隨時在線，但在偏遠地區可能延遲回覆。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 喀麥隆 使用 喀麥隆 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Cameroon, you can dial local emergency numbers like 112, 117 (police),
-        118 (fire), 119 (medical) directly from your phone's dialer regardless of
-        your active SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Cameroon eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Cameroon eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Cameroon eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Cameroon eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Cameroon eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Cameroon eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Cameroon eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Cameroon eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Cameroon eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Cameroon eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Cameroon eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Cameroon eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在喀麥隆撥打緊急電話 117（警察）需要 SIM 卡嗎？eSIM 能否直接撥打？
+      a: 在喀麥隆，任何手機（即使無 SIM 卡）都能撥打緊急號碼 117 和 118。但使用 eSIM 時，若您的 eSIM 僅提供數據而無語音功能，則無法直接撥打電話。建議您確保手機內有備用
+        SIM 卡或使用當地 SIM 卡撥打。若僅有 eSIM，可嘗試透過 WhatsApp 或 Signal 等 App 聯繫當地的朋友或使館，由他們代為求助。
+    - q: 若在杜阿拉遇到護照遺失，如何用 eSIM 聯繫大使館？
+      a: 在杜阿拉遺失護照，請立即前往附近警察局報案，並使用 eSIM 上網查詢中國駐喀麥隆使館的聯繫方式（雅溫得使館電話：+237 222 21 66 33；杜阿拉領事館：+237
+        233 42 58 00）。eSIM 的數據服務能讓您使用 Google Maps 導航至使館。務必在丟失後一小時內報案，以獲得遺失證明。使館通常要求提供護照影本和照片，準備好電子檔可加速處理。
+    - q: 在林貝海灘發生溺水或受傷，第一時間該做什麼？eSIM 能幫助定位嗎？
+      a: 若發生溺水或受傷，立即呼叫附近的救生員或撥打 119（救護車）。eSIM 的 GPS 和數據可用於精確定位您的位置（如「維多利亞海灘東端」），分享給救援人員。在等待救援時，用
+        eSIM 撥打飯店或旅行社電話請求協助。請注意，偏遠海灘區域可能訊號弱，建議提前記下附近顯著地標。
+    - q: 在喀麥隆遭遇車禍，如何用 eSIM 撥打救援並通知保險公司？
+      a: 車禍發生後，首先確保安全，然後撥打 117（警察）和 118（消防）。使用 eSIM 的數據連接，拍攝現場照片並上傳雲端，同時開啟位置共享。聯繫您的租車公司或保險公司（如
+        AXA 喀麥隆熱線：+237 671 88 88 88），使用 WhatsApp 傳送資料。eSIM 的穩定數據能確保您傳送資訊不中斷。若您語言不通，可使用翻譯
+        App 溝通。
+    - q: 若在雅溫得突然生病需要急救，該怎麼使用 eSIM 找到最近的醫院？
+      a: 立即撥打 119 呼叫救護車，同時打開 Google Maps 搜尋附近醫院，例如雅溫得中央醫院或醫學中心。eSIM 的數據讓你看到即時路線和營業時間。確認醫院後，可致電確認急診是否開放。若救護車延遲，可叫計程車（避開摩托車）前往。建議在手機存檔個人醫療資訊（如血型、過敏史）方便醫生參考。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 喀麥隆 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Cameroon eSIM vs SIM Card Plans: Which One Fits Your Needs?"
-  subtitle: "Cameroon Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Cameroon) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Cameroon"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Cameroon eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Acquisition requires visiting official MTN, Orange, or Nexttel stores for passport registration; street vendors risk forced disconnection within 24 hours."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip MTN, Orange, or Nexttel store queues and passport checks. Activate your eSIM online within 1 minute before landing in Douala or Yaoundé."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All prepaid SIMs require mandatory real-name registration at official stores since 2015; street-purchased SIMs face high risk of disconnection."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid Cameroon's mandatory SIM registration. Roami eSIM requires no ID, eliminating the risk of street-purchased SIM disconnection that can take up to 24 hours to resolve."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge: MTN, Orange, and Nexttel prepaid plans do not include free roaming outside Cameroon; roaming add-ons cost approximately 500 CFA/100MB per day."
-      esim_title: "Seamless Multi-Country Roaming"
-      esim_desc: "Unlike MTN and Orange plans that stop working at the border, Roami eSIM provides coverage across Cameroon and neighboring countries, avoiding repeated store visits for new SIMs."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "MTN's 30-day plans start at 850 CFA/250MB; Orange's 1.2GB plan costs 2000 CFA for 30 days; Nexttel's 1.5GB plan costs 4000 CFA for 30 days. A 7-day tourist buying a 30-day plan wastes over 75% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike MTN's 30-day plan (850 CFA/250MB) or Orange's 30-day plan (2000 CFA/1.2GB), Roami offers 7-day plans starting from $1.99/GB, saving over 75% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge: MTN and Orange allow tethering but throttle speeds after daily data cap (e.g., 1GB/day on 30GB plans); Nexttel's social bundles exclude VoIP and may restrict hotspot."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike MTN and Orange which throttle after 1GB/day on 30GB plans, and Nexttel which restricts VoIP on social bundles."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up payments can be made via scratch cards or mobile money; online top-up with foreign cards is often rejected. Common payment methods include Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local scratch cards or mobile money that often reject foreign cards."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is available in French and English via phone and in-store; hours are typically Mon-Fri 8am-5pm; no dedicated live chat for prepaid customers."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock support in English and French via live chat, unlike MTN and Orange's limited phone support (Mon-Fri 8am-5pm)."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Cameroon eSIM or SIM Card: What’s the Best Option in 2026?"
-    cards:
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot & Full Speed"
-        desc: "MTN and Orange's 30GB/30-day plans are capped at 1GB/day, throttling after exceeding. Nexttel's social bundles exclude VoIP and may block tethering. Roami eSIM allows unlimited hotspot at full speed."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Cameroon's Strict SIM Passport Requirements"
-        desc: "Cameroon's 2015 law mandates passport registration for all prepaid SIMs at official stores. Street-purchased SIMs from MTN, Orange, or Nexttel risk disconnection within 24 hours. Roami eSIM requires no ID, activating instantly."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, PayPal"
-        desc: "Local top-up often rejects foreign cards; users must buy scratch cards or use mobile money. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal globally."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate 75% Waste on 30-Day Plans"
-        desc: "MTN's smallest 30-day plan costs 850 CFA/250MB; Orange's 1.2GB plan costs 2000 CFA for 30 days. A 7-day tourist wastes over 75% of the plan's value. Roami's 7-day plans start from $1.99/GB, matching your exact trip length."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

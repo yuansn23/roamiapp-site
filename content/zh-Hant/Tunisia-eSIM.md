@@ -1,86 +1,80 @@
 ---
-title: Tunisia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 突尼西亞 eSIM 方案 | 突尼西亞 eSIM | Roami
+date: '2026-05-19T10:32:14+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Tunisia eSIM
-  scenario_keywords: Tunisia sightseeing, Carthage tour, Sousse beach, Sahara desert
-    trip, Tunis medina exploration
-  operators: Tunisie Telecom, Orange Tunisie, Ooredoo Tunisie
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Tunis, Sfax, Sousse, Kairouan, Bizerte
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 突尼西亞 eSIM
+  scenario_keywords: 城市漫步, 海灘度假, 購物, 美食探索, 歷史文化
+  operators: Ooredoo, Tunisie Telecom, Orange
+  competitors: Airalo, Holafly, Nomad, MTX Connect, Maya Mobile
+  main_cities: 突尼斯市, 蘇斯, 斯法克斯, 哈馬馬特, 傑爾巴
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Tunisia eSIM Plan | Top Local Carrier Native 5G | 20% OFF| Roami
-  description: Planning a trip to Tunisia? Roami offers High-Speed Data on the reliable
-    Top Local Carrier Native 5G. With Nationwide Coverage and No Hidden Charges, it's
-    perfect for Digital Nomads.
-  keywords: Tunisia eSIM, prepaid eSIM Tunisia, travel internet Tunisia, cheap eSIM
-    Tunisia, instant delivery eSIM, no roaming charges
-  low_price: 1.99
-  high_price: 39.9
+  title: 突尼西亞 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
+  description: 突尼西亞旅遊必備 Roami eSIM，暢享最佳 5G 高速網路。現在選購並輸入折扣碼 20%，讓您的旅程擁有穩定高品質的連線服務。
+  keywords: 突尼西亞 eSIM, 突尼西亞網路覆蓋, 突尼西亞旅遊, 迦太基, 蘇斯, 哈馬馬特, 突尼西亞上網
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 突尼西亞 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Tunisia eSIM
+- label: 突尼西亞 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Tunisia
-  title: Best eSIM for Tunisia
+  alt: 最佳 突尼西亞 eSIM
+  title: 最佳 突尼西亞 eSIM
 hero:
   flag_image: img/flags/tn.svg
-  flag_alt: Tunisia Flag
-  title: Tunisia eSIM data plan
-  subtitle: Travel with ease | Smart choice | No more roaming fees
+  flag_alt: 突尼西亞 國旗
+  title: 突尼西亞 eSIM - 旅行計劃
+  subtitle: 突尼西亞 eSIM | 100%退款保證 | 高速5G網路 | 無隱藏費用
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 突尼西亞 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 突尼西亞 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -88,49 +82,49 @@ plans_data:
     daily: '1.00'
     tagIcon: star
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.57'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.43'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '15.99'
     oldPrice: '23.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.28'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '30.99'
     oldPrice: '46.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '4.43'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '4.14'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
@@ -138,73 +132,73 @@ plans_data:
     daily: '0.53'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.73'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '16.99'
     oldPrice: '25.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.13'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '31.99'
     oldPrice: '47.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.13'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '66.99'
     oldPrice: '100.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '4.47'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '43.99'
     oldPrice: '65.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.93'
-  30 Days:
+  30 天:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.40'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '17.99'
     oldPrice: '26.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.60'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '33.99'
     oldPrice: '50.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.13'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '8.99'
     oldPrice: '13.48'
     tag: ''
@@ -212,33 +206,33 @@ plans_data:
     daily: '0.30'
     tagIcon: star
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '44.99'
     oldPrice: '67.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.50'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
-  3 Days:
+  3 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '15.99'
     oldPrice: '23.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '5.33'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -246,554 +240,338 @@ plans_data:
     daily: '2.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '4.66'
 discount_banner:
-  title: Special Discount!
+  title: 突尼西亞 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 突尼西亞 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Tunisia, including major cities
-        like Tunis, Sfax, Sousse, and Carthage. Our Tunisia eSIM seamlessly connects
-        to the robust networks of Tunisie Telecom, Orange Tunisie, and Ooredoo, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個突尼西亞享受廣泛的網路覆蓋，包括突尼斯市、蘇斯、斯法克斯、哈馬馬特等城市。我們的突尼西亞 eSIM 無縫連接到 Ooredoo、Tunisie
+        Telecom、Orange 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
+    - name: Ooredoo
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Tunisie Telecom
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: Orange Tunisie
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Ooredoo Tunisie
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 突尼西亞 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Tunisia.
+    html: 建議抵達 突尼西亞 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 突尼西亞 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 突尼西亞 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 突尼西亞 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 突尼西亞 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 突尼西亞」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Tunisia'
-    desc: Upon arriving in Tunisia, enable your Tunisia eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 突尼西亞 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Ooredoo / Tunisie Telecom 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 突尼西亞：立即連上 5G/4G 網路
+    desc: 當您降落在 突尼西亞（例如 突尼斯-迦太基國際機場 (TUN), 莫納斯提爾哈比卜·布爾吉巴機場 (MIR), 傑爾巴-扎爾齊斯機場 (DJE)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 突尼西亞。幾秒鐘內，您的設備將自動連接到 Ooredoo / Tunisie
+      Telecom 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Tunisia eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Tunisia eSIM across different
-    travel scenarios.
+  title: 突尼西亞 eSIM：完整指南和常見問題
+  desc: 使用 突尼西亞 eSIM 在 突尼西亞 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 突尼西亞 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Tunisia eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Tunisia eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Tunisia eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Tunisia
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Tunisia eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Tunisia eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Tunisia that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Tunisia eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Tunisia eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Tunisia eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Tunisia eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Tunisia,
-        such as Tunisie Telecom, Orange Tunisie, Ooredoo Tunisie, to ensure premium
-        speeds at a fraction of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, Nomad eSIM,
-        Yesim, Holafly?
-      a: While great companies like Airalo, Nomad eSIM, Yesim, Holafly offer reliable
-        services, we focus on providing the most cost-effective Tunisia eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在突尼斯市使用 eSIM 上網，連接到哪個運營商網速較好？
+      a: 在突尼斯市中心，如哈比卜·布爾吉巴大街附近，Ooredoo 的 4G+ 網路通常提供 30-50 Mbps 的下載速度，觀看 YouTube 1080p
+        無壓力。Tunisie Telecom 在迦太基區域覆蓋更穩定，但尖峰時段（18:00-21:00）速度可能降至 10-15 Mbps。建議在遊客密集區如麥地那市場手動切換到
+        Orange，因為其基站分佈更均勻，視訊通話延遲較低。
+    - q: 在蘇斯海灘度假時，eSIM 的熱點分享功能能否穩定支援多人使用？
+      a: 在蘇斯的康大維港和布賈法爾海灘，Ooredoo 的網路速率通常維持在 20-30 Mbps，足以讓 2-3 人同時進行社交媒體瀏覽和視訊通話。但若在海灘深處或遠離基站的地點，訊號可能降至
+        5 Mbps，建議靠近主要飯店區域使用。熱點分享無限制，但每日超過 5 GB 後可能被降速至 2 Mbps，適合基本傳訊和網頁瀏覽。
+    - q: 在哈馬馬特的麥地那區域，eSIM 的訊號穿透力如何？
+      a: 哈馬馬特的麥地那（舊城區）巷弄狹窄，部分石牆建築可能導致訊號衰減。Tunisie Telecom 在該區域的 4G 覆蓋較佳，下載速度約 15-25
+        Mbps，而 Ooredoo 在露天市場入口處可達 30 Mbps，但深入小巷時可能降至 5 Mbps。建議使用支援 VoLTE 的手機以保持通話清晰，並避免在尖峰時段（週末下午）大量使用串流服務。
+    - q: 在斯法克斯工業區，eSIM 是否會出現斷訊問題？
+      a: 斯法克斯市中心和工業區周邊，Orange 的網路穩定性較好，平均速度 20-35 Mbps，但靠近港口區域可能因金屬結構干擾而波動。Ooredoo
+        在主要道路如 Habib Bourguiba 大道提供連續覆蓋，但在偏遠倉庫區可能短暫斷線。建議在移動時開啟自動網路選擇，以確保連線不中斷。
+    - q: 在傑爾巴島使用 eSIM，是否有特殊註冊要求？
+      a: 傑爾巴島作為旅遊勝地，eSIM 註冊無需當地身份證，只需護照和電子郵件即可於購買後即時啟用。連線至 Ooredoo 或 Tunisie Telecom
+        網路時，系統會自動分配本地 IP，無需手動設定 APN。若在島上偏遠海灘如 Sidi Mahrez Beach，建議提前下載離線地圖，因為部分地區
+        4G 訊號較弱。
+    - q: 在凱魯萬的寺廟區，eSIM 是否支援高速影音串流？
+      a: 凱魯萬是宗教聖地，網路基礎設施較為普通，但 Ooredoo 在大清真寺周邊提供約 10-20 Mbps 的 4G 速度，足以播放 720p 影片。Tunisie
+        Telecom 在舊城區的覆蓋較差，下載速度可能低於 5 Mbps。建議避免在祈禱時間（週五中午）大量使用數據，因網路擁塞會導致延遲增加。
+    - q: 在突尼西亞使用 eSIM 時，如何確認數據使用量以避免超額？
+      a: 你可以透過手機設定中的行動數據統計追蹤用量，或下載運營商 App 如「My Ooredoo」查看即時消耗。大部分 eSIM 方案提供每日或總量限制，超過後會降速而非斷網。建議在突尼斯市區使用時，關閉後台應用程式更新，並在飯店或咖啡廳連接
+        Wi-Fi 以下載大型檔案。
+    - q: 在突尼西亞，eSIM 是否支援 5G 網路？
+      a: 目前突尼西亞的 5G 網路僅在突尼斯市主要商業區（如 Lac 1、Lac 2）有限覆蓋，由 Ooredoo 和 Orange 提供。下載速度可達
+        200 Mbps 以上，但現階段 eSIM 主要連接 4G/LTE 網路。建議在購買前確認方案是否支援 5G，若不支援，4G 仍然能滿足串流和通訊需求。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 突尼西亞 機場：如何使用 突尼西亞 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Tunisia eSIM before your flight. Once you land at Tunis-Carthage
-        International Airport, Monastir Habib Bourguiba International Airport, Djerba-Zarzis
-        International Airport, simply turn off Airplane Mode and enable your eSIM
-        line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Tunisia eSIM activated upon landing, you can immediately open Bolt,
-        Yassir, Careem to book a ride or use WhatsApp to message your pre-booked driver
-        without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Tunisia eSIM data allows you to open Google Maps right at
-        the baggage claim in Tunis-Carthage International Airport, Monastir Habib
-        Bourguiba International Airport, Djerba-Zarzis International Airport to check
-        real-time train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Tunisia eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Tunisia eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Tunisia eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 在突尼斯-迦太基國際機場入境後，如何立即啟用 eSIM？
+      a: |-
+        抵達突尼斯-迦太基機場 (TUN) 後，你只需關閉飛航模式並開啟行動數據，eSIM 將自動連接到 Ooredoo 或 Tunisie Telecom 網路。若無訊號，請手動選擇運營商：進入設定 > 行動網路 > 網路選擇，選取「Ooredoo TN」。建議在行李轉盤處先測試連線，若無法連線，可至機場大廳的「Tunisie Telecom」櫃檯尋求協助。啟用後，你即可使用 Google Maps 導航至市區或使用 Uber 叫車。
+    - q: 在莫納斯提爾機場，eSIM 的覆蓋範圍是否包含整個航廈？
+      a: 莫納斯提爾哈比卜·布爾吉巴機場 (MIR) 的國際航廈內，Ooredoo 和 Orange 的 4G 訊號良好，下載速度約 20-30 Mbps，足以在入境大廳進行視訊通話。但在地下室或電梯間可能短暫斷訊，建議走到大廳中央使用。國內航廈的覆蓋稍弱，但仍可維持
+        10 Mbps 以上。若你需要即時聯繫飯店接機，建議在出口處連線，那裡的訊號最強。
+    - q: 從傑爾巴機場到市區的途中，eSIM 是否會斷線？
+      a: 從傑爾巴-扎爾齊斯機場 (DJE) 到 Houmt Souk 市區的車程約 20 分鐘，沿途 Tunisie Telecom 的 4G 訊號持續穩定，平均速率
+        15-25 Mbps。經過農業區時可能短暫降速至 5 Mbps，但不影響導航應用。若你坐在靠窗位置，連線更穩定。建議提前在機場下載離線地圖作為備用。
+    - q: 在恩菲達-哈馬馬特機場，eSIM 是否需要手動設定 APN？
+      a: 恩菲達-哈馬馬特機場 (NBE) 的 eSIM 通常自動配置 APN，無需手動操作。若無法上網，請檢查 APN 設定是否為「ooredoo.tn」或「internet.tn」（依運營商而定）。你可以在機場到達大廳的免費
+        Wi-Fi 區域（名稱「Tunisie Telecom Wifi」）連線，然後根據 eSIM 提供商的指示進行手動設定。大多數情況下，啟用後 1-2
+        分鐘內即可正常使用。
+    - q: 在突尼西亞機場購買當地 SIM 卡和 eSIM 哪個更划算？
+      a: 以短期旅遊（7 天）為例，機場的 Orange 預付卡約 15 第納爾（含 5 GB 數據），而 eSIM 方案起價約 10 美元（約 30 第納爾）提供
+        5 GB。eSIM 無需排隊更換卡片，且可即時啟用，適合轉機時間短的旅客。但若你停留超過 10 天，當地 SIM 卡可能更經濟，因為可加值當地數據包。建議根據旅行長短和對即時連線的需求選擇。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 突尼西亞 eSIM 用於 突尼西亞 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Tunisia eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Tunisia, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Bolt, Yassir, Careem use VoIP (internet calling) and in-app messaging.
-        Since you have active Tunisia eSIM data, drivers can call or message you directly
-        through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Tunisia eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Tunisia eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Tunisia.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Tunisia eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Tunisia eSIM's data network while on
-        the train or in the car.
+    - q: 在突尼斯市使用 Bolt 叫車時，eSIM 的定位準確度如何？
+      a: 在突尼斯市中心如哈比卜·布爾吉巴大道，使用 Ooredoo 網路時 GPS 定位誤差通常在 10 公尺內，Bolt App 能準確顯示車輛位置。但在麥地那狹窄巷弄內，定位可能偏移至相鄰街道，建議在寬闊處上車。若搭配
+        Google Maps 輔助，可減少溝通誤差。尖峰時段（8:00-10:00、17:00-19:00）可能因網路壅塞導致延遲增加，但下單仍順暢。
+    - q: 在蘇斯搭乘 louage（共乘小巴）時，eSIM 能提供穩定的網路嗎？
+      a: 蘇斯的 louage 車站（位於市中心）周邊，Orange 的 4G 訊號覆蓋良好，下載速度 20-30 Mbps，但在行駛至郊區如 Port El
+        Kantaoui 時，可能因基站切換而短暫中斷 5-10 秒。建議在乘車前先下載離線地圖，並利用車內充電埠（部分車輛提供）保持裝置電量。若你使用 Tunisie
+        Telecom，郊區覆蓋稍差，但市區內無明顯差異。
+    - q: 在突尼斯市搭乘輕軌（TGM）時，eSIM 的網速足夠觀看串流影音嗎？
+      a: TGM 輕軌從突尼斯市到拉馬薩海灘的沿線，Ooredoo 的 4G 平均速度約 25-40 Mbps，可流暢播放 1080p 影片。但經過隧道區（如迦太基站附近）時會短暫斷訊
+        20-30 秒，建議預先快取內容。尖峰時段（7:30-9:00）車廂內人潮擁擠，可能因多人使用導致速度降至 10 Mbps，但仍可進行音樂串流。
+    - q: 在哈馬馬特租車自駕，使用 eSIM 導航是否可靠？
+      a: 哈馬馬特的主要道路如 RR32 和 N1 公路，Tunisie Telecom 的 4G 訊號覆蓋良好，Google Maps 導航延遲低於 200
+        毫秒。但在老城區（麥地那）的單行道系統中，語音提示可能略有延遲，建議搭配視覺路線參考。若前往偏僻海灘如 Yasmine Beach，部分路段訊號微弱，但導航仍可離線運作。
+    - q: 在斯法克斯搭乘計程車時，eSIM 是否支援即時支付（如 D17）？
+      a: 斯法克斯的計程車主要接受現金，但部分司機支援 D17（突尼西亞行動支付）。使用 Ooredoo 網路時，D17 App 的支付請求可在 5 秒內完成，但需確保手機
+        NFC 功能正常。若網路不穩，建議備妥零錢。eSIM 的低延遲特性（約 40-60 ms）有利於支付驗證，避免交易超時。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 突尼西亞 的飯店使用 突尼西亞 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Tunisia eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Tunisia eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at La Badira – Adult Only, Hasdrubal Thalassa & Spa,
-        The Residence Tunis or a local guesthouse, you can input the address into
-        Google Maps and get turn-by-turn walking or transit directions using your
-        Tunisia eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Tunisia eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Tunisia eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Jumia Food, Yassir Food, Glovo and use
-        your Tunisia eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Tunisia eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 在突尼斯市的 Laico Tunis Hotel，eSIM 的網路速度足夠進行視訊會議嗎？
+      a: Laico Tunis Hotel 位於突尼斯市中心的 Avenue Mohamed V，其建築結構可能削弱部分訊號。在房間內，連接 Ooredoo
+        網路時下載速度約 20-35 Mbps，延遲低於 50 ms，適合 Zoom 或 Teams 視訊會議。但若會議室位於地下樓層，建議使用飯店 Wi-Fi
+        作為備用。尖峰時段（19:00-22:00）可能因大量住客使用而降至 10 Mbps。
+    - q: 在哈馬馬特的 Hasdrubal Thalassa & Spa 飯店，海景房的 eSIM 訊號表現如何？
+      a: 該飯店的海景房靠近海岸線，使用 Tunisie Telecom 時下載速度約 15-25 Mbps，訊號穩定。但若房間位於建築深處或靠近電梯井，可能降至
+        5-10 Mbps。建議選擇高樓層房間以獲得最佳訊號。你可以在陽台使用 eSIM 進行串流，同時欣賞地中海美景。
+    - q: 在傑爾巴的 Movenpick Resort，eSIM 是否支援飯店內的語音通話？
+      a: Movenpick Resort 位於傑爾巴島北端，Ooredoo 的 VoLTE 通話清晰，無明顯回音。但度假村內部分區域（如 SPA 中心）可能因牆體厚而訊號弱，導致通話中斷。建議在公共區域或花園使用
+        eSIM 通話。若需要高品質通話，可連接飯店 Wi-Fi 使用 WhatsApp 語音。
+    - q: 在蘇斯的城市飯店，eSIM 能否同時連接多個裝置？
+      a: 可以，eSIM 支援熱點分享，在蘇斯市中心的飯店如 Sousse Palace，連接 Orange 網路時可同時讓筆電和平板使用。但分享給 3 個以上裝置時，速度可能從
+        30 Mbps 降至 10-15 Mbps，適合瀏覽網頁和收發郵件。觀看 HD 影片時建議限縮至 2 台裝置。
+    - q: 在突尼西亞的精品民宿（Dar），eSIM 的訊號通常如何？
+      a: 許多精品民宿位於舊城區的傳統建築內，如突尼斯市麥地那的 Dar El Medina，石牆可能阻擋訊號。使用 Ooredoo 時，下載速度約 10-20
+        Mbps，但房間深處可能降至 2 Mbps。建議在庭院或屋頂露台使用網路。部分民宿提供免費 Wi-Fi 作為補充，你可根據需求切換。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 突尼西亞 旅遊景點的網路：突尼西亞 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Carthage Ruins, Bardo National Museum, Medina of Tunis
-        spontaneously, you can use your Tunisia eSIM data to buy skip-the-line tickets
-        online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Tunisia eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Tunisia.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Tunisia eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Tunisia eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Tunisia eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Tunisia eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Tunisia eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Tunisia eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Tunisia eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Tunisia eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Jumia Food, Yassir Food, Glovo, register
-        using your email or social accounts, and order food seamlessly using your
-        Tunisia eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Poste
-        eDINAR, Tunisie Mobile Money, Cash require a brief internet handshake, which
-        your Tunisia eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Tunisia eSIM to find hidden culinary gems in the city.
+    - q: 在迦太基遺址參觀時，eSIM 能否支援 AR 導覽應用？
+      a: 迦太基遺址範圍廣闊，包括安東尼浴場和畢爾薩山，使用 Ooredoo 網路時 AR 應用（如 Carthage AR）可在主要景點順暢運行，下載速度
+        20-30 Mbps。但在遺址南側的考古區訊號較弱，可能出現延遲。建議提前下載遺址地圖至手機，並在入口處測試連線。
+    - q: 在西迪布賽義德藍白小鎮，使用 eSIM 打卡 Instagram 會有延遲嗎？
+      a: 西迪布賽義德是熱門拍照點，如 Cafe des Nattes 和觀景平台，Tunisie Telecom 的 4G 速度約 15-25 Mbps，上傳照片至
+        Instagram 約需 5-10 秒。但週末遊客眾多時，可能因網路壅塞延長至上傳 20 秒。建議在上午 9 點前或下午 4 點後使用，避開人潮高峰。
+    - q: 在埃爾傑姆競技場，eSIM 的網路能否即時分享影片？
+      a: 埃爾傑姆競技場位於小鎮中心，Orange 的 4G 訊號覆蓋全面，下載速度 25-40 Mbps，足以直播 1080p 影片至 Facebook
+        或 YouTube。但競技場內部石造結構可能導致降速至 10 Mbps，建議在開闊的競技場中央進行串流。結束後可透過 eSIM 快速上傳，無需等待飯店
+        Wi-Fi。
+    - q: 在突尼斯市的巴爾多博物館，eSIM 是否支援語音導覽下載？
+      a: 巴爾多博物館內提供免費 Wi-Fi，但 eSIM 在館內大部分區域（如馬賽克展廳）的 Ooredoo 訊號強度足夠下載語音導覽 App，速度約 15-20
+        Mbps。部分地下展廳可能無訊號，建議在入口處先下載內容。eSIM 的低延遲特性使應用內音頻觸發即時無延遲。
+    - q: 在傑爾巴島的霍姆索克（Houmt Souk）市場，eSIM 能否用於行動支付？
+      a: 霍姆索克市場內許多攤位仍主要接受現金，但部分商店支援 D17 或信用卡。使用 Ooredoo 網路時，D17 支付回應時間約 3-5 秒，但市場內人流密集可能導致網路波動。建議攜帶足夠現金（突尼西亞第納爾），並在交易時確認網路連線。eSIM
+        的穩定性足以應付偶爾支付。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 突尼西亞 eSIM 在 突尼西亞 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Tunisia eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Tunisia eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Tunisia eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Tunisia
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Tunisia eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Tunisia eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Tunisia eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在突尼西亞使用 TikTok 時，eSIM 的上傳速度足夠發布短影音嗎？
+      a: 連接到 Orange 網路時，在突尼斯市的上傳速度約 10-20 Mbps，發布 15 秒 TikTok 影片約需 5-10 秒。但在蘇斯海灘區域，上傳速度可能降至
+        5 Mbps，建議壓縮影片至 720p 以加快上傳。夜間時段（22:00-6:00）網路較空閒，上傳速度可達 25 Mbps。
+    - q: 在突尼西亞使用 Facebook 直播，eSIM 的延遲會影響互動嗎？
+      a: 在哈馬馬特的飯店區域，使用 Ooredoo 的 4G 進行 Facebook 直播，延遲約 200-400 ms，可與觀眾即時互動。但在移動中（如搭車時）可能導致畫面卡頓。建議選擇固定位置直播，例如飯店陽台或海灘，並關閉背景應用以釋放頻寬。
+    - q: 在突尼西亞與家人視訊通話（如 WhatsApp），eSIM 的表現如何？
+      a: 在突尼斯市使用 Tunisie Telecom 進行 WhatsApp 視訊，音畫同步良好，延遲低於 100 ms。但在斯法克斯的郊區可能出現輕微延遲，但不影響對話。建議避免在尖峰時段（19:00-21:00）通話，以免因網路壅塞導致畫質下降至
+        360p。
+    - q: 在突尼西亞使用 Snapchat，eSIM 能否快速傳送照片？
+      a: 在傑爾巴島的飯店區域，連線 Ooredoo 時，傳送一張 Snapchat 照片約需 2-4 秒。但在舊城區的巷弄內，因訊號衰減可能延長至 10
+        秒。建議在開闊處使用，並關閉自動下載故事功能以節省數據。
+    - q: 在突尼西亞使用 Twitter 時，eSIM 是否支援即時推文？
+      a: 在蘇斯市中心，Orange 的網路延遲約 30-50 ms，推文發布幾乎即時。在凱魯萬等宗教城市，推文可能因網路速度較慢而延遲 1-2 秒，但不影響閱讀。建議在文字推文時附加圖片，上傳約需
+        5 秒。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 突尼西亞 使用 突尼西亞 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Tunisia, you can dial local emergency numbers like 911, 112, 197, 190
-        directly from your phone's dialer regardless of your active SIM, as long as
-        your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Tunisia eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Tunisia eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Tunisia eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Tunisia eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Tunisia eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Tunisia eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Tunisia eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Tunisia eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Tunisia eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Tunisia eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Tunisia eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Tunisia eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在突尼西亞遇到緊急狀況，如何使用 eSIM 撥打求助電話？
+      a: 即使 eSIM 沒有餘額或數據，你仍可撥打緊急號碼：警察 197、救護車 190、消防 198。在突尼斯市，撥打後平均接通時間為 5-10 秒。若需要中文協助，可聯繫中國大使館（+216
+        71 980 250），但建議使用當地語言或法語報警。
+    - q: 在突尼西亞山區（如杜加遺址）迷路，eSIM 訊號是否可靠？
+      a: 杜加遺址位於偏遠山區，Tunisie Telecom 的覆蓋有限，僅在主要觀景點有 2G/3G 訊號，速度低於 1 Mbps。建議提前下載離線地圖，並告知飯店你的行程。若無訊號，可嘗試步行至較高處尋找訊號。
+    - q: 在突尼西亞遺失錢包和手機，如何透過 eSIM 尋求協助？
+      a: 若手機遺失，eSIM 無法直接遠端鎖定，但你可聯繫 eSIM 提供商凍結帳戶。使用備用裝置登入 iCloud 或 Google 帳戶尋找手機。同時前往當地警察局（如突尼斯市
+        Rue de Grèce 分局）報案，並聯繫大使館補辦證件。建議事先備份重要資訊。
+    - q: 在突尼西亞海灘發生溺水事件，eSIM 能否快速呼叫救護車？
+      a: 在海灘區域，如蘇斯的 Boujaffar 海灘，Ooredoo 的訊號通常良好，撥打 190 後約 10-15 分鐘救護車抵達。但部分偏遠海灘（如傑爾巴的
+        Sidi Mahrez）訊號較弱，建議由他人跑至附近商店求助。eSIM 的通話功能與傳統 SIM 相同。
+    - q: 在突尼西亞遇到恐怖攻擊或緊急撤離，eSIM 是否仍可運作？
+      a: 突尼西亞政府在緊急事件發生時，會維持行動網路運作以利通訊。在突尼斯市，2020 年後類似事件中，網路仍保持連線。但可能限制數據速度以確保語音優先。建議跟隨官方指示，並使用
+        eSIM 接收新聞更新。將大使館電話（+216 71 980 250）儲存於手機。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 突尼西亞 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Tunisia eSIM vs Local SIM Card: Which One Saves You More?"
-  subtitle: "Tunisia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Tunisia) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Tunisia"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Tunisia eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Must visit operator store or kiosk, show passport, queue for photocopying; airport kiosks may charge 10% service fee on top-ups."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Tunisie Telecom or Ooredoo store queues. Activate online within 1 minute after landing at Tunis-Carthage Airport, no passport needed."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All operators require passport for SIM purchase; passport check is mandatory."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid mandatory passport registration at all Tunisian operators. Roami eSIM activates instantly without ID, saving 30+ minutes at kiosks."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Local prepaid plans are single-country only; no EU or North Africa roaming FUP mentioned; likely no roaming included."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "Unlike local SIMs locked to Tunisia, Roami eSIM offers multi-country plans covering Morocco and Algeria, avoiding the 'no signal' trap at borders."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Ooredoo 7-day 1.25GB costs 5 DT; 30-day plans start at 10.5 DT; Tunisie Telecom 30-day 1.1GB costs 4.5 DT; short-term tourists forced to buy longer plans."
-      esim_title: "Flexible Plans, Zero Waste"
-      esim_desc: "Unlike Ooredoo's 7-day (5 DT/1.25GB) or 30-day (10.5 DT/3.5GB) cycles, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Lycamobile Tunisia explicitly blocks tethering; other operators may allow but no specific data."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Lycamobile Tunisia blocks hotspot; Roami eSIM allows full tethering, share data with laptop or friends without extra fees."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up at kiosks incurs 10% service fee; Lycamobile supports international credit card online top-up, but not common for others."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. Avoid the 10% service fee charged by Tunisian kiosks for cash top-ups."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Roami provides 24/7 live chat support in English, French, and Arabic, unlike local operators with limited hours and language barriers."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Tunisia eSIM vs Physical SIM: Travel, Cost, and Setup Compared"
-    cards:
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Single-Network Lock-In"
-        desc: "Local SIMs lock you to one network (e.g., Ooredoo). Roami eSIM automatically switches to the best available network among <b>Orange Tunisie, Ooredoo, and Tunisie Telecom</b>, ensuring strong signal from Tunis to Sfax."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Tunisia's Strict SIM Passport Requirements"
-        desc: "All Tunisian operators (Tunisie Telecom, Ooredoo, Orange) <b>require passport</b> for SIM purchase. Roami eSIM activates instantly <b>without any ID</b>, saving you from queuing at kiosks."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation vs. In-Person Queue"
-        desc: "Buying a local SIM requires visiting a store, queuing, and passport registration (30+ min). Roami eSIM activates <b>within 1 minute</b> after purchase, ready upon landing."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost of Fixed Billing Cycles"
-        desc: "Ooredoo's cheapest 7-day plan costs <b>5 DT for 1.25GB</b>; 30-day plans start at <b>10.5 DT</b>. A 3-day tourist wastes over 50% of the plan. Roami offers <b>7-day plans from $1.99/GB</b>, paying only for what you use."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

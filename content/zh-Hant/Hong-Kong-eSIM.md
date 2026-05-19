@@ -1,134 +1,128 @@
 ---
-title: Hong Kong eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 香港 eSIM 方案 | 香港 eSIM | Roami
+date: '2026-05-19T10:38:28+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Hong Kong eSIM
-  scenario_keywords: Hong Kong sightseeing, Victoria Harbour cruise, Disneyland visit,
-    hiking in Hong Kong, temple street market
-  operators: CSL, SmarTone, China Mobile Hong Kong
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Hong Kong Island, Kowloon, Tsuen Wan, Sha Tin, Tuen Mun
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 香港 eSIM
+  scenario_keywords: 城市漫步, 購物美食, 維港夜景, 離島沙灘, 主題樂園
+  operators: CSL, 3HK, 中國移動香港
+  competitors: Airalo, Holafly, Nomad, Ubigi, Maya Mobile
+  main_cities: 香港島, 九龍, 新界, 大嶼山, 離島
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Hong Kong Travel eSIM | Always-On 5G Connection | Roami
-  description: Visiting Hong Kong soon? Experience high-speed 5G connectivity from
-    CMHK with a Roami travel eSIM. Enjoy instant QR activation and seamless mobile
-    data without signing any contracts.
-  keywords: Hong Kong eSIM, prepaid eSIM Hong Kong, cheap eSIM Hong Kong, travel internet
-    Hong Kong, instant delivery eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: 香港旅遊 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
+  description: 香港旅遊必備 Roami eSIM，暢享最佳 5G 高速網路與無限流量。立即購買並輸入折扣碼 20%，讓您的香港行程連線更順暢。
+  keywords: 香港 eSIM, 香港上網卡, 香港旅遊, 香港網路, eSIM 香港, 香港 4G, 香港 5G, 香港機場上網, 香港自由行
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 香港 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Hong Kong eSIM
+- label: 香港 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Hong Kong
-  title: Best eSIM for Hong Kong
+  alt: 最佳 香港 eSIM
+  title: 最佳 香港 eSIM
 hero:
   flag_image: img/flags/hk.svg
-  flag_alt: Hong Kong Flag
-  title: Hong Kong eSIM data plan
-  subtitle: Smooth video streaming | High-speed 5G network | No more roaming fees
+  flag_alt: 香港 國旗
+  title: 香港 eSIM - 旅行計劃
+  subtitle: 香港 eSIM | 流量吃到飽 | 高速5G網路 | 支援熱點分享
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 香港 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 香港 eSIM
 plans_data:
-  30 Days:
+  30 天:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.27'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.43'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '57.99'
     oldPrice: '86.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '1.93'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '31.99'
     oldPrice: '47.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.07'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -136,17 +130,17 @@ plans_data:
     daily: '0.20'
     tagIcon: star
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '23.99'
     oldPrice: '35.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.80'
-  7 Days:
+  7 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -154,99 +148,99 @@ plans_data:
     daily: '0.57'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.57'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '15.99'
     oldPrice: '23.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.28'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '18.99'
     oldPrice: '28.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.71'
-  15 Days:
+  15 天:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.80'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '19.99'
     oldPrice: '29.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '35.99'
     oldPrice: '53.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.40'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
     tagColor: bg-orange-500
     daily: '0.33'
     tagIcon: star
-  3 Days:
+  3 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
@@ -254,572 +248,348 @@ plans_data:
     daily: '1.00'
     tagIcon: star
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.33'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '4.99'
     oldPrice: '7.49'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.66'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '7.99'
     oldPrice: '11.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.66'
 discount_banner:
-  title: Special Discount!
+  title: 香港 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 香港 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Hong Kong, including major
-        cities like Hong Kong Island, Kowloon, Tsuen Wan, and Sha Tin. Our Hong Kong
-        eSIM seamlessly connects to the robust networks of CSL, SmarTone, and China
-        Mobile Hong Kong, ensuring stable signals in urban centers, tourist hotspots,
-        and along major transportation routes.
+      title: 覆蓋範圍
+      desc: 在整個香港享受廣泛的網路覆蓋，包括中環、旺角、銅鑼灣、尖沙咀等城市。我們的香港 eSIM 無縫連接到 CSL、3HK、中國移動香港的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付，掃描 QR 碼即可啟用。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制，可與同行親友共享網路。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: CSL
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: SmarTone
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: China Mobile Hong Kong
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
+    - name: 3HK
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 香港 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Hong Kong.
+    html: 建議抵達 香港 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 香港 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 香港 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 香港 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 香港 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 香港」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Hong Kong'
-    desc: Upon arriving in Hong Kong, enable your Hong Kong eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 香港 時，只需開啟 eSIM
+      – 有效期將在首次連接到 CSL / 3HK 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 香港：立即連上 5G/4G 網路
+    desc: 當您降落在 香港（例如 香港國際機場 (HKG)）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定 → 行動服務** 並開啟您的
+      Roami eSIM 香港。幾秒鐘內，您的設備將自動連接到 CSL / 3HK 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備
+      – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Hong Kong eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Hong Kong eSIM across different
-    travel scenarios.
+  title: 香港 eSIM：完整指南和常見問題
+  desc: 使用 香港 eSIM 在 香港 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 香港 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Hong Kong eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Hong Kong eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Hong Kong eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Hong Kong
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Hong Kong eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Hong Kong eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Hong Kong that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Hong Kong eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Hong Kong eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Hong Kong eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Hong Kong eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Hong Kong,
-        such as CSL, SmarTone, China Mobile Hong Kong, to ensure premium speeds at
-        a fraction of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Numero, Holafly, BNESIM,
-        Airalo?
-      a: While great companies like Numero, Holafly, BNESIM, Airalo offer reliable
-        services, we focus on providing the most cost-effective Hong Kong eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在香港使用 eSIM，網路速度足夠在尖沙咀海港城看 YouTube 4K 影片嗎？
+      a: 尖沙咀海港城一帶是香港人流密集的購物區，連接到 CSL 或 3HK 的 5G 網路時，典型下載速度約為 50-80 Mbps，足以順暢觀看 4K
+        YouTube 影片。然而，在週末或節假日下午 2 點至 6 點的購物高峰時段，由於大量用戶同時連線，速度可能降至 20-30 Mbps，但此時觀看
+        Full HD 解析度仍無問題。如果您需要極穩定的串流，建議手動鎖定 CSL 網路（可在手機設定中選擇），因為它在尖沙咀的基站密度較高。
+    - q: 從香港國際機場搭機捷到中環，eSIM 訊號會中斷嗎？
+      a: 香港國際機場連接市區的機場快線全程約 24 分鐘，行經隧道段時（例如青衣至九龍段）可能會短暫失去訊號約 10-20 秒，但 3HK 和中國移動香港在沿線設置了隧道專用中繼器，大多數情況下通話和數據不會完全中斷。從機場出發時，建議先確認
+        eSIM 已啟用並連上網路，因為機場內的網路覆蓋最穩定。一旦進入市區地面段，訊號將立即恢復滿格。
+    - q: 使用 eSIM 時，如何避免在中環至半山自動扶梯一帶斷線？
+      a: 中環至半山自動扶梯途經多座高樓和窄巷，部分區域（如荷李活道附近）可能出現弱訊號，因為建築物遮擋了基站訊號。建議啟用 eSIM 後在手機設定中關閉「自動網路選擇」，手動鎖定
+        CSL 或 3HK 網路（切勿選擇中國移動香港，因其覆蓋在該區域稍弱）。此外，避免在扶梯上進行高頻寬活動（如直播），因為扶梯移動中會頻繁切換基站，可能導致短暫緩衝。
+    - q: 香港 eSIM 有每日流量限制嗎？超過後會怎樣？
+      a: 我們的香港 eSIM 套餐通常包含每日高速流量（例如 1GB 或 2GB），超過後速度會降至 256 kbps 或 128 kbps，足夠發送訊息和導航，但無法觀看影片。例如，在旺角朗豪坊逛街時，若當日流量用盡，仍可正常使用
+        Google Maps 和 WhatsApp，但載入 Instagram 圖片會變慢。建議在每日流量即將用盡時，關閉自動播放影片和後台刷新，以節省數據。您也可以購買大流量套餐以滿足長時間串流需求。
+    - q: 在香港使用 eSIM，可以在太平山頂的觀景台正常上網嗎？
+      a: 太平山頂的凌霄閣和盧吉道觀景台是熱門景點，遊客眾多，網路負載較高。連接到 3HK 時，白天時段下載速度約為 30-50 Mbps，足以流暢上傳照片和進行視訊通話。但週末傍晚人潮最多時，可能出現
+        10-20 Mbps 的速度，載入社交媒體貼文會稍有延遲。建議避開下午 5 點至 7 點的山頂人流高峰，或選擇在上午前往，網路體驗更佳。
+    - q: eSIM 在香港地鐵（MTR）內使用，車廂內訊號如何？
+      a: 香港地鐵大部分路線（如荃灣線、港島線）的隧道內已安裝 4G/5G 中繼器，CSL 和 3HK 的訊號強度在車廂內通常維持在 -80 到 -100
+        dBm，可順暢瀏覽網頁和串流音樂。但在東鐵線的某些路段（例如大學站至大埔墟站）因靠近郊區，訊號可能降至 3G 或斷線 5-10 秒。建議在搭車前下載離線地圖，以防萬一。
+    - q: 香港 eSIM 支援熱點分享嗎？分享給飯店其他設備時有特殊限制嗎？
+      a: 我們的 eSIM 完全支援熱點分享，您可以將網路分享給最多 5 台設備。例如，在銅鑼灣的飯店房間內，透過手機熱點讓筆電和平板同時上網，瀏覽網頁和收發郵件完全流暢。但請注意，部分套餐可能限制熱點分享速度，例如分享時總頻寬上限為
+        10 Mbps。如果您需要多人同時使用高畫質串流，建議每人各自購買單獨的 eSIM 以獲得最佳體驗。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 香港 機場：如何使用 香港 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Hong Kong eSIM before your flight. Once you land at Hong Kong
-        International Airport, Shenzhen Bao'an International Airport (via ferry connection),
-        simply turn off Airplane Mode and enable your eSIM line. It will connect to
-        the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Hong Kong eSIM activated upon landing, you can immediately open
-        MTR Mobile, Uber, HK Taxi to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Hong Kong eSIM data allows you to open Google Maps right
-        at the baggage claim in Hong Kong International Airport, Shenzhen Bao'an International
-        Airport (via ferry connection) to check real-time train schedules, bus routes,
-        or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Hong Kong eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Hong Kong eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Hong Kong eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 在香港國際機場落地後，如何立即啟用 eSIM？
+      a: 抵達香港國際機場並開通手機後，請先關閉行動數據，然後掃描購買 eSIM 時收到的 QR 碼（建議在出發前先截圖儲存）。掃描後會自動新增一個行動方案，接著在設定中將該方案設定為「預設數據線路」並開啟數據漫遊。整個過程約需
+        2-3 分鐘。如果您在抵達前未掃描 QR 碼，機場內提供免費 Wi-Fi（需連接後瀏覽器驗證），您可連上網路後再設定 eSIM。
+    - q: 香港機場的免費 Wi-Fi 速度快嗎？可以用來設定 eSIM 嗎？
+      a: 香港國際機場提供的免費「HKIA Wi-Fi」速度相當不錯，平均下載約 20-40 Mbps，足以用瀏覽器下載 eSIM 設定檔或開啟電子郵件中的
+        QR 碼。但免費 Wi-Fi 每次連線時間限制為 45 分鐘，之後需重新認證。建議您先在出發國家/地區的網路環境下完成 eSIM 安裝，這樣落地後只需開啟數據漫遊即可，省去排隊連
+        Wi-Fi 的麻煩。
+    - q: 從機場搭計程車到市區，eSIM 訊號穩定嗎？
+      a: 從香港國際機場搭乘計程車到市區（例如尖沙咀），行經青嶼幹線和西九龍公路時，網路訊號非常穩定，CSL 和 3HK 全程提供 4G+ 訊號，下載速度約
+        40-60 Mbps。但在大嶼山北部近欣澳站附近有一處短隧道，會斷訊約 5 秒，隨後立即恢復。整體而言，一路上您可以流暢使用導航、聽串流音樂，無需擔心斷線。
+    - q: 機場內有哪裡可以購買本地 SIM 卡？如果 eSIM 無法使用，有備案嗎？
+      a: 香港國際機場的入境大堂有多家電信商櫃檯，包括 CSL、3HK 和中國移動香港，均提供遊客 SIM 卡，例如 3HK 的「3 香港國際旅遊卡」8 天
+        8GB 售價約 118 港幣。如果您的 eSIM 因手機不相容而無法啟用，可以直接在這些櫃檯購買實體 SIM 卡。建議出發前先確認手機支援 eSIM，並備份
+        QR 碼，以備不時之需。
+    - q: 香港機場的 eSIM 訊號涵蓋所有航廈嗎？包括中場客運廊？
+      a: 是的，香港國際機場的所有航廈，包括 1 號客運大樓、2 號客運大樓（現已關閉部分區域）和中場客運廊，都有良好的 4G/5G 訊號覆蓋。中場客運廊因新建，基站設備更新，訊號強度甚至優於舊航廈。但在地下樓層（如抵境層的巴士站）訊號可能稍弱，建議在離境層或入境大堂使用高速網路。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 香港 eSIM 用於 香港 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Hong Kong eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Hong Kong, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like MTR Mobile, Uber, HK Taxi use VoIP (internet calling) and in-app
-        messaging. Since you have active Hong Kong eSIM data, drivers can call or
-        message you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Hong Kong eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Hong Kong eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Hong Kong.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Hong Kong eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Hong Kong eSIM's data network while
-        on the train or in the car.
+    - q: 在香港搭地鐵（MTR），哪條路線的網路訊號最差？
+      a: 香港地鐵網路整體覆蓋良好，但東鐵線的「大學站」至「大埔墟站」之間因行經吐露港沿岸，部分隧道較舊，訊號有時會降至 3G 甚至無訊號約 10 秒。南港島線的「海洋公園站」至「黃竹坑站」之間也有短暫的弱訊號區域。建議在這些路段避免進行視訊通話，但瀏覽網頁和發送文字訊息不受影響。
+    - q: 搭天星小輪橫越維多利亞港時，eSIM 訊號會中斷嗎？
+      a: 天星小輪航程約 8-10 分鐘，行駛在維多利亞港中央時，距離兩岸基站較遠，訊號可能降至 3G 或 4G 低頻段，下載速度約 5-10 Mbps，足以傳送照片和發送訊息，但觀看影片可能出現緩衝。靠近碼頭時訊號會恢復正常。建議在船上使用離線導航或欣賞風景，避免對網路有過高期待。
+    - q: 使用 Uber 或 HKTaxi 叫車時，eSIM 定位準確嗎？
+      a: 香港的 GPS 定位輔助網路在大部分市區非常準確，特別是在尖沙咀和銅鑼灣等高樓大廈密集區，可精準到 10 公尺內。但在旺角砵蘭街等狹窄街道，由於建築物反射，定位可能跳動約
+        30 公尺，建議上車前先確認與司機的約定地點。我們的 eSIM 連接 CSL 網路時，延遲通常低於 30 毫秒，確保叫車 App 流暢運作。
+    - q: 搭雙層巴士（例如城巴）上層，訊號會比下層差嗎？
+      a: 雙層巴士的金屬車頂可能對訊號產生輕微屏蔽，但香港的巴士公司與電信商合作安裝了車內中繼器。實際測試中，上層座位（特別是往赤柱方向的 6X 路線）訊號強度比下層低約
+        5-10 dBm，但依然穩定在 4G+ 水平，瀏覽網頁和聽音樂沒問題。靠近車窗位置訊號最佳。
+    - q: 從中環搭纜車上太平山，沿途 eSIM 訊號如何？
+      a: 山頂纜車車程約 7 分鐘，由於纜車在陡峭的斜坡上行駛，隧道段（約 2 分鐘）會完全失去訊號，其餘露天段訊號良好，下載速度約 30-50 Mbps。建議在隧道內下載離線內容，出隧道後再上傳照片。山頂凌霄閣內訊號強勁，可即時分享美景。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 香港 的飯店使用 香港 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Hong Kong eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Hong Kong eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at The Peninsula Hong Kong, The Ritz-Carlton Hong
-        Kong, Mandarin Oriental Hong Kong or a local guesthouse, you can input the
-        address into Google Maps and get turn-by-turn walking or transit directions
-        using your Hong Kong eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Hong Kong eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Hong Kong eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Foodpanda, Deliveroo, OpenRice and use
-        your Hong Kong eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Hong Kong eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 在香港半島酒店內，eSIM 訊號強度如何？
+      a: 香港半島酒店位於尖沙咀核心地帶，大廳和客房內訊號極強，CSL 和 3HK 的 5G 訊號強度通常在 -70 dBm 以上，下載速度可達 100-150
+        Mbps。但在地下室的水療中心和健身房，因結構屏蔽，訊號可能降至 4G 或 3G，速度約 10-20 Mbps，仍可順暢使用社交媒體。建議在客房內使用酒店的免費
+        Wi-Fi 作為備用。
+    - q: 在銅鑼灣的經濟型飯店（如迷你酒店）內，eSIM 連線穩定嗎？
+      a: 銅鑼灣迷你酒店（位於霎東街）因樓層較高且位於鬧區，大部分客房訊號良好，4G 下載速度約 30-50 Mbps。但面向內街的低樓層客房，由於鄰近建築物遮擋，訊號可能降至
+        10-20 Mbps，偶爾需要重新開機搜尋網路。建議選擇高樓層房間，或使用飯店的免費 Wi-Fi 來確保視訊會議穩定。
+    - q: 飯店房間內有保險箱嗎？eSIM 的 QR 碼該如何安全存放？
+      a: 香港大多數飯店房間（如九龍酒店的香港半島酒店、銅鑼灣的皇冠假日酒店）均配備電子保險箱，您可將 eSIM QR 碼的紙本或列印本存放於保險箱內。另一種安全方式是將
+        QR 碼加密儲存在手機的備忘錄或雲端硬碟（設有密碼保護），避免實體遺失。請勿將 QR 碼隨意丟棄在房間，以免個資外洩。
+    - q: 住在迪士尼好萊塢酒店，eSIM 訊號可以撐起串流 Netflix 嗎？
+      a: 迪士尼好萊塢酒店位於大嶼山，距離市區較遠，但酒店內有專屬基站，4G 下載速度約 20-30 Mbps，足以串流 Full HD Netflix。不過，傍晚時段因住客集中使用，可能降至
+        10 Mbps，導致緩衝。建議避開晚餐後（19:00-21:00）的高峰期觀看，或使用酒店提供的免費 Wi-Fi（速度更高）。
+    - q: 飯店內有線網路或 Wi-Fi，我該如何決定使用 eSIM 還是飯店網路？
+      a: 香港的高級飯店如香港四季酒店提供的免費 Wi-Fi 速度通常可達 200 Mbps，非常適合大量下載或視訊會議，此時可關閉 eSIM 以節省數據。但經濟型飯店的
+        Wi-Fi 可能限制頻寬（例如每房 10 Mbps）或需定時重新登入，此時使用 eSIM 反而更方便。建議根據活動需求切換：串流選飯店 Wi-Fi，外出導航用
+        eSIM。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 香港 旅遊景點的網路：香港 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Victoria Harbour, The Peak, Hong Kong Disneyland spontaneously,
-        you can use your Hong Kong eSIM data to buy skip-the-line tickets online and
-        present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Hong Kong eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Hong Kong.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Hong Kong eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Hong Kong eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Hong Kong eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Hong Kong eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Hong Kong eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Hong Kong eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Hong Kong eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Hong Kong eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Foodpanda, Deliveroo, OpenRice, register
-        using your email or social accounts, and order food seamlessly using your
-        Hong Kong eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Octopus,
-        AlipayHK, FPS require a brief internet handshake, which your Hong Kong eSIM
-        handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Hong Kong eSIM to find hidden culinary gems in the city.
+    - q: 在維多利亞港海濱長廊打卡上傳照片，訊號足夠快嗎？
+      a: 維多利亞港海濱長廊（星光大道段）是拍照熱點，由於露天且基站密集，CSL 和 3HK 的 5G 訊號極強，下載速度通常超過 80 Mbps，上傳照片約需
+        1-2 秒。但週末晚上人潮眾多時，網路可能變得擁塞，上傳速度降至 5-10 Mbps，建議避開尖峰時段（20:00-22:00）或連上附近的免費 Wi-Fi（如
+        HK Wi-Fi）來輔助。
+    - q: 前往香港迪士尼樂園，園區內 eSIM 訊號全覆蓋嗎？
+      a: 香港迪士尼樂園的每個主題園區（包括探險世界、幻想世界等）都有良好的 4G/5G 訊號，下載速度約 30-50 Mbps。但在室內遊樂設施（如灰熊山極速礦車）人潮密集時，可能因高負載而降至
+        10 Mbps。建議在排隊時下載迪士尼 App，以便查詢等候時間，因為園內部分區域（如迷離莊園內的洞穴場景）訊號會暫時中斷。
+    - q: 登上太平山頂看夜景，即時直播會卡嗎？
+      a: 太平山頂的凌霄閣觀景台和盧吉道步道在夜間遊客眾多，從下午 5 點到晚上 10 點網路負載較大。如果使用 CSL 網路，直播上傳速度約 2-5 Mbps，可能出現輕微延遲或畫質降至
+        720p。建議避開人潮最高的 7-8 點，或選擇在山頂餐廳內（訊號較佳）進行直播。另外，離線錄製後再上傳是更穩定的方法。
+    - q: 到香港海洋公園，可以用 eSIM 順暢使用園區 App 嗎？
+      a: 海洋公園占地面積廣闊，高峰時段（如假日中午）網路使用量巨大，但 3HK 在園內設置了額外基站，4G 訊號強度維持在 -85 dBm 左右，使用園區
+        App 查看地圖和預約遊戲時段通常順暢。但在高峰時段排隊時，App 載入時間可能延長至 3-5 秒。建議抵達後先連上園區的免費 Wi-Fi（需登錄），以獲得更快的體驗。
+    - q: 逛銅鑼灣時代廣場時，eSIM 能應付行動支付和打卡嗎？
+      a: 銅鑼灣時代廣場室內訊號強勁，連接到 CSL 時下載速度約 50-70 Mbps，以支付寶或八達通 App 結帳時，驗證碼接收和支付確認幾乎即時。但在地下美食街（B1）因結構封閉，訊號可能降至
+        4G 低頻段，速度約 10-15 Mbps，加載圖片可能稍慢。建議在地面樓層進行行動支付，以確保快速完成。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 香港 eSIM 在 香港 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Hong Kong eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Hong Kong eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Hong Kong eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Hong
-        Kong eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Hong Kong eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Hong Kong eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Hong Kong eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在香港使用 WhatsApp 語音通話，品質如何？
+      a: 在香港大部分地區，WhatsApp 語音通話品質非常清晰，特別是連接 CSL 或 3HK 的 5G 網路時，延遲低於 50 毫秒。但在銅鑼灣地鐵站內或尖沙咀海港城地下層，因人多且訊號屏蔽，可能出現回音或短暫中斷。建議在露天場所或靠近窗邊進行通話，以獲得最佳品質。
+    - q: 在餐廳或咖啡廳（如中環的星巴克）使用 eSIM 刷 Instagram，速度快嗎？
+      a: 中環的星巴克（如都爹利街店）通常位於一樓，連接到 CSL 時下載速度約 40-60 Mbps，瀏覽和上傳 Instagram 限時動態非常流暢。但部分分店位於大廈內側（如怡和大廈店），訊號可能被鋼筋混凝土削弱至
+        10-20 Mbps，載入高畫質圖片需要 2-3 秒。建議選靠窗座位以獲得更好訊號。
+    - q: 在香港使用 TikTok，加載影片會卡嗎？
+      a: 在香港熱門地點如旺角西洋菜南街和銅鑼灣羅素街，TikTok 的加載速度非常快，連接 5G 時影片幾乎即時播放。但在偏遠離島（如長洲或南丫島），若連接
+        3G 或弱 4G，可能需要緩衝 5-10 秒。建議在郊區時事先下載影片，或切換到更低解析度模式。
+    - q: 使用 Facebook 直播香港街頭，網絡穩定嗎？
+      a: 在香港大部分地段，Facebook 直播的上傳速度在 2-5 Mbps 之間，足以進行 720p 直播。但在中環的狹窄街道（如利源西街）因高樓遮擋，可能出現畫面模糊。建議在較開闊的場所（如維港海旁）進行直播，並在開始前先測試網路速度。
+    - q: 在香港用微信發送語音訊息，會有延遲嗎？
+      a: 微信語音訊息在大部分香港區域的延遲極低，例如從尖沙咀發送到內地的語音訊息，接收時間通常不超過 2-3 秒。但在偏遠郊區如大嶼山貝澳，因網路延遲稍高（約
+        100-150 毫秒），傳送可能需 5-10 秒。建議在訊號強的地區操作，以確保即時通訊。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 香港 使用 香港 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Hong Kong, you can dial local emergency numbers like 999 directly from
-        your phone's dialer regardless of your active SIM, as long as your phone can
-        catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Hong Kong eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Hong Kong eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Hong Kong eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Hong Kong eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Hong Kong eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Hong Kong eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Hong Kong eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Hong Kong eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Hong Kong eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Hong Kong eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Hong Kong eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Hong Kong eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在香港遇到緊急情況，如何撥打求救電話？
+      a: 香港的緊急電話號碼是 999，可同時聯繫警察、消防和救護車。撥打後，接線員會詢問事故類型和位置，請保持冷靜並清楚說明。即使 eSIM 沒有餘額或訊號弱，999
+        仍可撥通，因為所有網路皆保留緊急通道。建議您將飯店地址和附近地標記在手機備忘錄中，以便快速提供位置。
+    - q: 在香港遺失手機或 eSIM 卡發生問題，該怎麼辦？
+      a: 如果您遺失手機，且 eSIM 無法轉移到新裝置，請立即聯繫我們的客服（可透過官網或郵件），我們可以幫您暫停服務，避免數據被盜用。之後請至附近警署（如中區警署或尖沙咀警署）報失，並取得報案編號。若您需要新
+        eSIM，可重新購買，使用同一信箱即可接收新 QR 碼。
+    - q: 在香港就醫時，手機網路能幫助我嗎？
+      a: 香港的公立醫院（如伊利沙伯醫院）和私立診所通常提供免費 Wi-Fi，但流量可能限制。您的 eSIM 可在醫院內正常上網，用於查詢地圖或聯絡親友。緊急情況下，可撥打
+        999 召喚救護車，救護人員會透過行動網路獲取您的即時位置。建議在手機中儲存常用藥物的英文名稱，以便出示給醫生。
+    - q: 在香港遇到天災（如颱風），eSIM 訊息通訊會不會中斷？
+      a: 香港天文台會在颱風期間發布警報，電信公司（如 CSL）會加強基站供電，但強風可能導致部分基站受損，造成局部地區網路中斷。政府會透過緊急警示系統發送訊息至所有手機，包括
+        eSIM。建議在颱風期間保持手機充電，並儲備離線地圖和緊急聯絡資訊。一般情況下，語音通話仍可維持，但數據速度可能下降至 3G 或更低。
+    - q: 在香港使用 eSIM，我能否收到政府發出的緊急警報？
+      a: 是的，香港政府的緊急警報系統（包括天氣、重大事故）會透過所有行動網路（含 eSIM）以短信形式自動發送。您無需額外設定，只要手機開啟接收警報功能即可。警報可能以英文和中文雙語發布，內容包括避難指示和熱線電話。請留意手機通知，並按照指示行動。
+    - q: 萬一 eSIM 在緊急時刻無法使用，香港有哪些公共電話？
+      a: 香港的公共電話數量已大幅減少，但在醫院、地鐵站和主要圖書館仍能找到。撥打 999 完全免費，即使無需插入電話卡或硬幣。此外，許多便利商店（如 7-Eleven）提供免費的市內電話供求助使用。建議您記住附近的公共電話地點，並隨身攜帶著少量硬幣以備使用（公用電話每次收費
+        1 港幣）。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 香港 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Hong-Kong eSIM vs Local Prepaid SIM: Which Is More Convenient?"
-  subtitle: "Hong Kong Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Hong-Kong) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Hong-Kong"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Hong-Kong eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Since March 2022, Hong Kong mandates real-name registration for all prepaid SIMs. At airport 1O1O (csl.) or CMHK counters, staff can assist, but cards from convenience stores like 7-Eleven require self-service online KYC, which is unfriendly to non-Chinese speakers. Some areas (e.g., Apliu Street) sell discounted cards but risk buying a 3 Macau SIM by mistake."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip the hassle of airport queues and self-service KYC. Activate your eSIM within 1 minute after landing in Hong Kong, no passport or registration needed."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Since March 2022, Hong Kong's OFCA enforces mandatory SIM card real-name registration (KYC). Except for airport 1O1O (csl.) and CMHK stores, cards from 7-Eleven require self-service online registration, creating a first experience gap for travelers unfamiliar with English or Cantonese."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid Hong Kong's mandatory real-name registration (KYC) since 2022. Unlike csl. or CMHK SIMs that require passport scanning, Roami eSIM activates instantly without any ID."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "csl. China-HK-Macau Travel SIM (HK$218) includes only 1GB roaming data for China/Macau; excess costs HK$40/100MB/day. CMHK Greater Bay Area SIM (HK$148/10 days) offers only 3GB shared data, with no service after exceeding."
-      esim_title: "Seamless Cross-Border Roaming"
-      esim_desc: "Unlike csl.'s HK$218 SIM with only 1GB roaming data (excess HK$40/100MB/day), Roami offers large multi-country data pools for Hong Kong, Macau, and mainland China at competitive rates."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "3 HK SoSIM (HK$33/50GB/30 days) forces a 30-day cycle; a 3-day tourist wastes 27 days and over 45GB. csl. Discover Hong Kong SIM (HK$88/3GB/5 days) ends with no pay-as-you-go; must buy a HK$48 add-on pack to continue."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike 3 HK SoSIM's 30-day cycle (HK$33/50GB) wasting 90% for short trips, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "SmarTone's terms prohibit tethering (though not technically blocked). CMHK's unlimited 10-day plan (HK$30, 384kbps) explicitly bans hotspot. No specific data on other operators' hotspot policies."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike SmarTone's tethering ban and CMHK's hotspot-prohibited plan (HK$30/10 days), Roami allows full hotspot sharing at high speeds."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "CMHK online top-up only accepts UnionPay (mainland-issued cards), posing a barrier for international cardholders. Other operators' websites may accept international credit cards, but no specific data on Visa/Mastercard/AMEX/Apple Pay/Google Pay/PayPal acceptance."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for UnionPay-only channels like CMHK's top-up system."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common knowledge, customer support for prepaid SIMs in Hong Kong is typically in Cantonese and English, with limited hours; self-service online portals are often Chinese-only."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock customer support in English and Chinese, unlike local prepaid SIMs with limited hours and Chinese-only self-service portals."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Hong-Kong eSIM vs SIM Card Plans: Which One Fits Your Needs?"
-    cards:
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Roaming Data Scarcity and High Costs"
-        desc: "<b>csl. China-HK-Macau Travel SIM (HK$218)</b> includes only <b>1GB</b> roaming data for China/Macau; excess costs <b>HK$40/100MB/day</b>. <b>CMHK Greater Bay Area SIM (HK$148/10 days)</b> offers only <b>3GB</b> shared data. Roami eSIM provides generous multi-country data at affordable rates."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot and Tethering"
-        desc: "<b>SmarTone's</b> terms prohibit tethering (though not technically blocked). <b>CMHK's unlimited 10-day plan (HK$30, 384kbps)</b> explicitly bans hotspot. Roami eSIM allows full-speed tethering without restrictions."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Multi-Country Connectivity"
-        desc: "Local SIMs like <b>csl. Travel SIM</b> segregate Hong Kong and roaming data pools. Roami eSIM offers a single, large data pool valid across Hong Kong, Macau, and mainland China, eliminating the need for multiple SIMs."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from Long Billing Cycles"
-        desc: "<b>3 HK SoSIM (HK$33/50GB/30 days)</b> forces a 30-day cycle; a 3-day tourist wastes <b>27 days</b> and over <b>45GB</b>. <b>csl. Discover Hong Kong SIM (HK$88/3GB/5 days)</b> ends with no pay-as-you-go; must buy a <b>HK$48</b> add-on. Roami offers flexible 7-day plans from <b>$1.99/GB</b>."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

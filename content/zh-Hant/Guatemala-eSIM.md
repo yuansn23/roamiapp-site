@@ -1,105 +1,99 @@
 ---
-title: Guatemala eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 瓜地馬拉 eSIM 方案 | 瓜地馬拉 eSIM | Roami
+date: '2026-05-19T09:59:49+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Guatemala eSIM
-  scenario_keywords: Guatemala City sightseeing, Antigua colonial walk, Tikal jungle
-    trek, Lake Atitlán kayaking
+  core_keyword: 瓜地馬拉 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食
   operators: Tigo, Claro, Movistar
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Guatemala City, Antigua, Quetzaltenango, Flores, Mixco
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  competitors: Airalo, Holafly, Nomad, Maya Mobile, Ubigi
+  main_cities: 瓜地馬拉市, 安地瓜, 佛羅雷斯, 克薩爾特南戈, 里奧杜爾塞
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Guatemala eSIM |Reliable 5G for Business Trips | Roami
-  description: Explore Guatemala with ease. Experience High-Speed Data and seamless
-    Fast 5G from Top Local Carrier. With Best Local Network and Auto-Connect, it's
-    perfect for Visiting Family.
-  keywords: Guatemala eSIM, eSIM Guatemala, travel internet Guatemala, Tigo eSIM,
-    Claro eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: 瓜地馬拉 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
+  description: 瓜地馬拉旅遊必備 Roami eSIM，提供最佳 5G 高速網路與無限流量。現在購買並使用折扣碼 20%，讓您的網路連線更超值。
+  keywords: 瓜地馬拉 eSIM, 瓜地馬拉 網路, 瓜地馬拉 旅遊, 安地瓜 eSIM, 瓜地馬拉市 eSIM, 提卡爾 網路
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 瓜地馬拉 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Guatemala eSIM
+- label: 瓜地馬拉 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Guatemala
-  title: Best eSIM for Guatemala
+  alt: 最佳 瓜地馬拉 eSIM
+  title: 最佳 瓜地馬拉 eSIM
 hero:
   flag_image: img/flags/gt.svg
-  flag_alt: Guatemala Flag
-  title: Guatemala eSIM data plan
-  subtitle: Prioritized 5G access | Top rated | Instant delivery
+  flag_alt: 瓜地馬拉 國旗
+  title: 瓜地馬拉 eSIM - 旅行計劃
+  subtitle: 瓜地馬拉 eSIM | 流量吃到飽 | 無需身份證件 | 支援熱點分享
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 瓜地馬拉 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 瓜地馬拉 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '11.99'
     oldPrice: '17.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.71'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '15.99'
     oldPrice: '23.98'
     tag: ''
     tagColor: bg-orange-500
     daily: '1.07'
     tagIcon: star
-  30 Days:
+  30 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '22.99'
     oldPrice: '34.48'
     tag: ''
@@ -107,563 +101,317 @@ plans_data:
     daily: '0.77'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '35.99'
     oldPrice: '53.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.20'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '48.99'
     oldPrice: '73.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.63'
 discount_banner:
-  title: Special Discount!
+  title: 瓜地馬拉 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 瓜地馬拉 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Guatemala, including major
-        cities like Guatemala City, Antigua, Quetzaltenango, and Flores. Our Guatemala
-        eSIM seamlessly connects to the robust networks of Tigo, Claro, and Movistar,
-        ensuring stable signals in urban centers, tourist hotspots, and along major
-        transportation routes.
+      title: 覆蓋範圍
+      desc: 在整個 瓜地馬拉 享受廣泛的網路覆蓋，包括 瓜地馬拉市、安地瓜、佛羅雷斯、克薩爾特南戈 等城市。我們的 瓜地馬拉 eSIM 無縫連接到 Tigo、Claro、Movistar
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Tigo
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Claro
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Movistar
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 瓜地馬拉 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Guatemala.
+    html: 建議抵達 瓜地馬拉 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 瓜地馬拉 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 瓜地馬拉 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 瓜地馬拉 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 瓜地馬拉 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 瓜地馬拉」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Guatemala'
-    desc: Upon arriving in Guatemala, enable your Guatemala eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 瓜地馬拉 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Tigo / Claro 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 瓜地馬拉：立即連上 5G/4G 網路
+    desc: 當您降落在 瓜地馬拉（例如 拉奧羅拉國際機場 (瓜地馬拉市), 馬雅世界國際機場 (佛羅雷斯), 克薩爾特南戈機場）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 瓜地馬拉。幾秒鐘內，您的設備將自動連接到 Tigo / Claro 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Guatemala eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Guatemala eSIM across different
-    travel scenarios.
+  title: 瓜地馬拉 eSIM：完整指南和常見問題
+  desc: 使用 瓜地馬拉 eSIM 在 瓜地馬拉 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 瓜地馬拉 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Guatemala eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Guatemala eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Guatemala eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Guatemala
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Guatemala eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Guatemala eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Guatemala that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Guatemala eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Guatemala eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Guatemala eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Guatemala eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Guatemala,
-        such as Tigo, Claro, Movistar, to ensure premium speeds at a fraction of roaming
-        costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, Airalo, Roamless,
-        Eskimo?
-      a: While great companies like Holafly, Airalo, Roamless, Eskimo offer reliable
-        services, we focus on providing the most cost-effective Guatemala eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在瓜地馬拉市使用eSIM時，接上Claro網路的訊號穩定嗎？我有時在Zone 10附近會斷線。
+      a: 在瓜地馬拉市的Zone 10（例如Zona Viva區）使用Claro網路時，訊號通常是穩定的，下載速度約30-50 Mbps。然而，在尖峰時段（如週末晚上）或靠近購物中心（如米蘭世界購物中心）附近，可能因用戶過多而暫時降速至5-10
+        Mbps。如果您在Zone 10的辦公大樓內，建議靠窗使用以獲得最佳訊號。若持續斷線，可嘗試手動切換至Tigo網路，因為Tigo在市中心覆蓋更均勻。
+    - q: 在安地瓜的石板路小巷中，Tigo的4G訊號穿透力如何？我擔心在餐廳內無法上網。
+      a: 安地瓜的歷史中心有許多狹窄石板路，建築多為殖民風格厚牆。Tigo的4G訊號在主要街道（如第五大道）及露天餐廳表現良好，下載速度約20-40 Mbps。但在一些深處的咖啡館或飯店房間內（例如聖多明各飯店），訊號可能降至1-2格，速度約5
+        Mbps，仍可傳送訊息和瀏覽網頁，但視訊通話可能延遲。建議在連接Wi-Fi或使用Claro網路輔助，Claro在安地瓜郊區的覆蓋較佳。
+    - q: 在提卡爾國家公園內，是否有任何行動網路覆蓋？我想在馬雅遺跡前直播。
+      a: 提卡爾國家公園雖然是叢林環境，但主要廣場（如大廣場與一號神廟附近）有Tigo和Claro的4G訊號，但較微弱，下載速度約5-15 Mbps。直播時可能遇到緩衝，建議使用低解析度。在步道深處或靠近二號神廟時，訊號可能消失。最佳直播點是靠近博物館的入口處，那裡的訊號較強。請注意，園區內部分區域完全沒有網路，建議提前下載離線地圖。
+    - q: 使用eSIM在瓜地馬拉會需要實名認證嗎？我購買後可以直接啟用嗎？
+      a: 瓜地馬拉對於預付卡eSIM沒有強制要求實名認證，因此您購買我們的eSIM後可以直接啟用，無需提供護照或身分證。不過，部分本地運營商（如Tigo）的實體SIM卡需要註冊，但透過我們合作的eSIM網路，您只需掃描QR碼即可。建議在抵達瓜地馬拉市機場後再啟用，以避開漫遊設定問題。啟用後約1-2分鐘即可連網，若失敗可嘗試手動選擇運營商。
+    - q: 在克薩爾特南戈（Xela）的郊區，Movistar的覆蓋範圍怎麼樣？我計劃參加當地節慶。
+      a: 克薩爾特南戈市中心（中央公園附近）的Movistar網路覆蓋良好，下載速度約25-40 Mbps。但在郊區（如Zona 3或靠近Cerro Quemado）時，訊號可能變弱，僅有3G或邊緣網路，速度低於5
+        Mbps。如果您參加戶外節慶（如Feria de la Independencia），現場人群密集可能導致網路壅塞，建議提前連線或使用Tigo作為備用。總體而言，Movistar在城鎮區域可靠，但離開主要道路後建議離線使用。
+    - q: 我的eSIM在瓜地馬拉使用時，每天有流量上限嗎？超過後會停用嗎？
+      a: 我們提供的瓜地馬拉eSIM採用公平使用原則，每日高速流量通常為3-5 GB，超過後速度會限制為128 kbps或256 kbps，但不會停用。限制速度仍可傳送訊息與使用地圖，但視訊串流可能卡頓。例如在安地瓜用Google地圖導航，低速時仍能運作。若您需要大量數據，建議選購高流量方案或分段使用。請注意，高流量使用場景（如備份照片）最好在Wi-Fi環境下進行。
+    - q: 在阿蒂特蘭湖周圍村莊（如San Pedro），Tigo的4G訊號如何？我用來上社交媒體足夠嗎？
+      a: 阿蒂特蘭湖周圍的村莊，如San Pedro La Laguna和Panajachel，Tigo的4G訊號覆蓋良好，下載速度約15-30 Mbps，足以順暢瀏覽Instagram和Facebook。但在湖邊的偏遠住宿（如Santa
+        Cruz）訊號可能僅有3G，速度約5 Mbps，仍可傳送文字訊息。建議在Panajachel的碼頭附近使用，那裡的訊號最強。若您住在San Pedro的湖濱飯店，靠近教堂區域通常有穩定訊號。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 瓜地馬拉 機場：如何使用 瓜地馬拉 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Guatemala eSIM before your flight. Once you land at La Aurora
-        International Airport, Mundo Maya International Airport, Quetzaltenango Airport,
-        simply turn off Airplane Mode and enable your eSIM line. It will connect to
-        the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Guatemala eSIM activated upon landing, you can immediately open
-        Uber, Cabify, InDriver to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Guatemala eSIM data allows you to open Google Maps right
-        at the baggage claim in La Aurora International Airport, Mundo Maya International
-        Airport, Quetzaltenango Airport to check real-time train schedules, bus routes,
-        or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Guatemala eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Guatemala eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Guatemala eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 我在拉奧羅拉國際機場（瓜地馬拉市）抵達後，何處可以找到Wi-Fi？
+      a: 拉奧羅拉國際機場的入境大廳與出境大廳均提供免費Wi-Fi，名為「Aeropuerto La Aurora」，連線後需接受條款即可使用，速度約10-20
+        Mbps。但連接人數過多時可能變慢。建議您直接使用eSIM，因為機場內Tigo和Claro的4G訊號很強，下載速度可達50 Mbps。購買eSIM後，您可以在等待行李時立即啟用，非常方便。
+    - q: 從拉奧羅拉機場到安地瓜，Uber可以搭乘嗎？費用大概多少？
+      a: Uber在瓜地馬拉市及安地瓜之間是合法的，從拉奧羅拉機場到安地瓜的車程約1小時，費用約250-350格查爾（約30-45美元），視交通狀況而定。機場外有指定Uber載客區，但建議注意安全，選擇評分高的司機。另外，機場也有計程車（官方Taxi
+        Amarillo），費用固定約400格查爾。使用Uber的好處是價格透明且可刷卡，但需確保eSIM有網路以叫車。
+    - q: 在馬雅世界國際機場（佛羅雷斯）能買到本地SIM卡嗎？有哪些運營商？
+      a: 佛羅雷斯的馬雅世界國際機場很小，到達大廳有Tigo和Claro的官方攤位，可以購買預付卡。Tigo提供7天1 GB的方案約50格查爾，Claro則有類似方案。但如果您已經有eSIM，則不需要排隊購買，因為eSIM在機場內訊號良好。建議提前購買eSIM，省去語言溝通與排隊時間。機場內也有Wi-Fi，但速度較慢。
+    - q: 拉奧羅拉機場有貨幣兌換處嗎？匯率如何？
+      a: 拉奧羅拉機場的入境大廳有多家貨幣兌換處，如Banco Industrial和Banco de Guatemala，匯率通常略差於市區，例如1美元約可換7.6格查爾（市區約7.8）。建議只換少量現金用於計程車或小費，其餘可在市區銀行或ATM換取，ATM手續費較低。機場也有ATM，支援國際卡，但需注意手續費。使用eSIM的好處是可以隨時查詢即時匯率。
+    - q: 從拉奧羅拉機場到市區有地鐵或公車嗎？交通選項有哪些？
+      a: 瓜地馬拉市沒有地鐵，但拉奧羅拉機場到市區有多種交通選項：公車（Transmetro）路線經過機場附近，但需步行一段距離且不建議攜帶大行李；較方便的選擇是計程車或Uber，車程約15-30分鐘（視目的地），費用約50-100格查爾。機場也有共乘接駁（Shuttle）服務，如Guatemala
+        Shuttle，可預訂至主要飯店。建議使用Uber，因為價格固定且安全。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 瓜地馬拉 eSIM 用於 瓜地馬拉 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Guatemala eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Guatemala, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Cabify, InDriver use VoIP (internet calling) and in-app messaging.
-        Since you have active Guatemala eSIM data, drivers can call or message you
-        directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Guatemala eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Guatemala eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Guatemala.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Guatemala eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Guatemala eSIM's data network while
-        on the train or in the car.
+    - q: 在瓜地馬拉市搭乘Uber安全嗎？有哪些區域應避免？
+      a: Uber在瓜地馬拉市整體安全，但建議在Zone 10（Zona Viva）、Zone 9及Zone 14等旅遊區使用，這些區域治安較好。避免在深夜前往Zone
+        1、Zone 3或Zone 18等較貧窮區域。上車前核對車牌與司機資料，並開啟行程分享功能。Uber司機通常友善且不要求小費，但若服務良好可給5-10格查爾。使用eSIM確保網路順暢，以利叫車與導航。
+    - q: 在安地瓜搭乘當地的「Chicken Bus」要注意什麼？費用多少？
+      a: Chicken Bus是瓜地馬拉常見的舊校車改裝公車，色彩鮮豔。在安地瓜，這些公車主要連接周邊村莊，費用極低（約5-10格查爾），但擁擠且無空調。注意保管貴重物品，避免在車上睡覺。建議只在白天乘坐，並選擇前排座位。如果您不熟悉路線，可先詢問司機目的地，或使用Moovit應用程式查詢。使用eSIM可以隨時查詢路線與下車點。
+    - q: 從瓜地馬拉市到安地瓜有直達接駁車嗎？哪裡可以預訂？
+      a: 有許多接駁服務從瓜地馬拉市直達安地瓜，例如Guatemala Shuttle、Atitrans等。上車點通常在Zone 10的飯店或機場，車程約1.5小時，費用約100-150格查爾。可通過網路預訂或請飯店協助。接駁車通常是小巴，有空調且安全。建議提前一天預訂，並確保留有司機聯絡方式。使用eSIM便於接收確認訊息或更改時間。
+    - q: 在佛羅雷斯如何前往提卡爾國家公園？有公車嗎？
+      a: 從佛羅雷斯到提卡爾國家公園約60公里，有多種方式：公車（從佛羅雷斯巴士站出發）費用約25格查爾，車程1-1.5小時，但班次較少（約每小時一班）。更常見的是參加旅館或旅行社的拼團（Shuttle），費用約100-150格查爾，包含飯店接送。也可租車自駕，路況良好。建議清晨出發以避開炎熱與人群。eSIM可用於導航和查詢回程班次。
+    - q: 在瓜地馬拉使用計程車時，需要先議價嗎？如何避免被坑？
+      a: 瓜地馬拉的計程車通常沒有里程表，因此上車前需與司機議價。在瓜地馬拉市，短程（如Zone 10到Zone 4）約30-50格查爾，市區到機場約80-100格查爾。建議請飯店或商家協助叫車，並確認價格。避免在街頭隨意攔車，尤其是夜間。使用Uber可避免議價，且價格透明。eSIM讓您即時比較價格或叫車。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 瓜地馬拉 的飯店使用 瓜地馬拉 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Guatemala eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Guatemala eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Hotel Casa Santo Domingo, Barceló Guatemala City,
-        Westin Camino Real Guatemala or a local guesthouse, you can input the address
-        into Google Maps and get turn-by-turn walking or transit directions using
-        your Guatemala eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Guatemala eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Guatemala eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Uber Eats, Hugo, PedidosYa and use your
-        Guatemala eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Guatemala eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 在安地瓜的殖民風格飯店裡，Wi-Fi訊號通常好嗎？例如卡薩聖多明各飯店。
+      a: 安地瓜的殖民風格飯店如卡薩聖多明各飯店，由於建築結構厚實，Wi-Fi在公共區域（如中庭、餐廳）訊號良好，速度約20-30 Mbps。但在房間內可能較弱，尤其在高樓層或內側房間。建議使用eSIM作為備用，因為當地4G訊號在飯店內通常穩定。若需視訊會議，可要求安排靠近路由器或公共空間。
+    - q: 瓜地馬拉市的希爾頓飯店是否提供免費Wi-Fi？速度足夠串流嗎？
+      a: 瓜地馬拉市的希爾頓飯店（如希爾頓花園旅館）提供免費Wi-Fi，速度約15-25 Mbps，足以串流Netflix HD。但在晚間高峰期（20:00-22:00）可能降速。進階會員或付費方案可獲得優先頻寬。若搭配eSIM，雙網路可確保穩定連線，尤其適合遠距工作者。建議在入住時詢問密碼與頻寬資訊。
+    - q: 在佛羅雷斯的大提卡爾飯店，網路評價如何？可以進行視訊通話嗎？
+      a: 大提卡爾飯店的Wi-Fi普遍評價良好，公共區域速度約20-30 Mbps，房間內約10-20 Mbps，足以進行Zoom視訊通話（需關閉影片）。但由於環境沿湖，部分湖景房的訊號可能受干擾。建議自備eSIM作為備援，因為Claro在佛羅雷斯的4G訊號覆蓋全島。備份方案：若視訊重要，可選擇靠近櫃檯的房間。
+    - q: 在阿蒂特蘭湖邊的民宿，通常提供Wi-Fi嗎？速度如何？
+      a: 阿蒂特蘭湖周邊的民宿大多提供免費Wi-Fi，但速度參差不齊。在Panajachel鎮上，民宿Wi-Fi速度約10-20 Mbps；但在較偏遠的村莊如San
+        Marcos，可能僅有5 Mbps或僅限簡訊。建議預訂前透過評論確認網路狀況。使用eSIM是更好的選擇，因為Tigo和Claro在主要村莊有4G訊號，但湖邊可能弱。
+    - q: 在瓜地馬拉入住飯店時，需要支付旅遊稅嗎？可以刷卡嗎？
+      a: 瓜地馬拉的飯店通常會收取10%的旅遊稅（IVA）加上10%的服務費，總計約22%附加費，通常已含在報價中。高檔飯店可刷卡，但小飯店或民宿可能只收現金。建議入住時確認付款方式。使用eSIM便於查詢銀行匯率或與信用卡公司通話。飯店普遍接受Visa和Mastercard，但American
+        Express較少。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 瓜地馬拉 旅遊景點的網路：瓜地馬拉 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Tikal National Park, Antigua Guatemala, Lake Atitlán
-        spontaneously, you can use your Guatemala eSIM data to buy skip-the-line tickets
-        online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Guatemala eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Guatemala.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Guatemala eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Guatemala eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Guatemala eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Guatemala eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Guatemala eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Guatemala eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Guatemala eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Guatemala eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Uber Eats, Hugo, PedidosYa, register using
-        your email or social accounts, and order food seamlessly using your Guatemala
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Bancolombia,
-        Tigo Money, PayPal require a brief internet handshake, which your Guatemala
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Guatemala eSIM to find hidden culinary gems in the city.
+    - q: 參觀提卡爾國家公園需要多久時間？建議參加導覽團嗎？
+      a: 提卡爾國家公園建議安排一整天的時間（約6-8小時），從佛羅雷斯出發。建議清晨入園（6:00開園）以避開人潮與炎熱，並有機會看到野生動物。導覽團（約300-500格查爾）值得參加，因為導遊會解說馬雅歷史與生態，提升體驗。若自行探索，可依路線標示，但不能錯過一號神廟與四號神廟。使用eSIM可下載離線地圖或查詢資料。
+    - q: 安地瓜的Arco de Santa Catalina是否需要門票？附近還有哪些景點？
+      a: 安地瓜的Santa Catalina拱門是免費開放的，位於第五大道上，是熱門拍照點。附近步行可達的景點包括中央公園（Parque Central）、安地瓜大教堂（已修復）、聖方濟各教堂等。推薦步行一日遊，感受殖民風情。拱門旁有許多手工藝品店與咖啡館，適合悠閒逛。使用eSIM搜尋餐廳評價，品嚐當地美食如Pepián。
+    - q: 阿蒂特蘭湖最推薦的活動是什麼？如何前往San Pedro村莊？
+      a: 阿蒂特蘭湖最推薦的活動包括乘船遊湖（從Panajachel到San Pedro約30格查爾）、徒步聖佩德羅火山（需導遊）或參觀馬雅村莊。前往San
+        Pedro村莊可在Panajachel碼頭乘船，每30分鐘一班，船程約30分鐘。村莊內有工藝品市集與湖濱餐廳，適合半天遊。使用eSIM查詢船班時間與天氣，注意午後可能風浪較大。
+    - q: 瓜地馬拉市的國家景點有哪些？建議花一天逛逛嗎？
+      a: 瓜地馬拉市的國家景點包括國家宮（Palacio Nacional）與憲法廣場（Plaza de la Constitución），兩者比鄰，適合上午參觀。下午可前往拉奧羅拉動物園（門票約30格查爾）或瓜地馬拉現代藝術博物館（Museo
+        de Arte Moderno）。建議安排一日遊，但注意Zone 1治安，貴重物品不露白。使用eSIM導航至這些景點，並避開危險街區。
+    - q: 如何從安地瓜前往阿蒂特蘭湖？有直達交通嗎？
+      a: 從安地瓜前往阿蒂特蘭湖（Panajachel）有多種方式：最常見的是參加拼團接駁（Shuttle），車程約2-3小時，費用約150格查爾。也可搭公車（從安地瓜巴士站到Los
+        Encuentros轉車），費用更低但耗時更長。直接驅車前往約需2小時，路況多彎道，暈車者請備藥。使用eSIM可預訂接駁車並查看路況。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 瓜地馬拉 eSIM 在 瓜地馬拉 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Guatemala eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Guatemala eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Guatemala eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Guatemala
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Guatemala eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Guatemala eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Guatemala eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在瓜地馬拉使用TikTok或Instagram時，哪個運營商速度最快？
+      a: 根據用戶反饋，Tigo在瓜地馬拉市與安地瓜的4G網路對社交媒體優化良好，上傳影片至Instagram約需5-10秒。Claro在佛羅雷斯與阿蒂特蘭湖區表現穩定，但上傳速度略慢（約10-15秒）。若您需要直播，建議使用Tigo，因為其低延遲特性。Movistar在郊區稍差，但市區足夠使用。使用eSIM時，可在設定中手動選擇運營商。
+    - q: 在瓜地馬拉使用WhatsApp通話，需要特別設定APN嗎？
+      a: 一般不需要，我們的eSIM會自動配置APN。但若遇到通話品質差，可手動設定APN為「internet.tigo.gt」（使用Tigo時）。在安地瓜等城市，WhatsApp通話清晰，僅在偏遠地區可能有延遲。建議在設定中啟用VoLTE以獲得更好品質。若仍無法通話，可切換至Claro網路試試。
+    - q: 在瓜地馬拉使用Snapchat或Facebook有地區限制嗎？
+      a: 瓜地馬拉對Snapchat和Facebook沒有地區限制，可正常使用。但在提卡爾公園等偏遠區域，由於訊號弱，圖片加載可能慢。在瓜地馬拉市，這些應用運行流暢。使用eSIM時，注意不要超過每日流量限制，以免降速影響上傳。建議在Wi-Fi環境下發送大型檔案。
+    - q: 在瓜地馬拉使用LINE或WeChat時，通話品質如何？
+      a: LINE與WeChat在瓜地馬拉通話品質良好，尤其在城市區域。在安地瓜的咖啡館中，延遲低於100毫秒，適合視訊。但在阿蒂特蘭湖的湖邊，可能因網路不穩而中斷。建議使用時關閉影片以確保清晰。若經常通話，可選用Tigo網路，因其低延遲表現。使用eSIM可同時保留本地卡與社交軟體。
+    - q: 在瓜地馬拉使用Tinder或交友軟體，需要VPN嗎？
+      a: 瓜地馬拉對Tinder等交友軟體沒有封鎖，可直接使用，無需VPN。在瓜地馬拉市與安地瓜，GPS定位準確，配對順利。但在佛羅雷斯等小鎮，用戶數量較少。使用eSIM時，社交軟體數據消耗低，不必擔心流量。建議在公共場所見面時注意安全。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 瓜地馬拉 使用 瓜地馬拉 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Guatemala, you can dial local emergency numbers like 110, 120, 911 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Guatemala eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Guatemala eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Guatemala eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Guatemala eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Guatemala eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Guatemala eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Guatemala eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Guatemala eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Guatemala eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Guatemala eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Guatemala eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Guatemala eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在瓜地馬拉遇到緊急情況，如何撥打警察或救護車？
+      a: 瓜地馬拉的緊急電話號碼是：警察110、消防122、救護車128。撥打後需保持線路暢通，盡量提供詳細位置。建議使用eSIM撥打，因為本地運營商的訊號優先度高。若不通，可嘗試撥打911（有時會轉接）。在偏遠地區，可尋求當地人協助。記住隨身攜帶飯店名片或地址卡。
+    - q: 在安地瓜遺失錢包或護照，應該去哪個警察局報案？
+      a: 應前往安地瓜的國家民事警察局（PNC）報案，地址在Calle del Manzano附近或中央公園旁。遺失護照需向警察申請報告（Denuncia），然後前往瓜地馬拉市的外交部或大使館補辦。使用eSIM可查詢最近的警察局與大使館位置。建議護照影本或電子檔存在手機中。
+    - q: 在瓜地馬拉市旅行，哪些區域夜間應避免前往？
+      a: 瓜地馬拉市的Zone 1（尤其是市場區）、Zone 3、Zone 18與Zone 19在夜間較危險，建議避免單獨步行。旅遊區如Zone 10（Zona
+        Viva）、Zone 14與Zone 9相對安全，但仍需警惕。使用Uber而非計程車或步行。若需要緊急離開，可撥打110或聯繫飯店保全。eSIM可用於導航至安全區域。
+    - q: 在阿蒂特蘭湖區感染腹瀉，最近的醫院是哪家？
+      a: 阿蒂特蘭湖區的主要醫療點是Panajachel的公立診所（Centro de Salud），但設備有限。較好的選擇是前往瓜地馬拉市或安地瓜的私人醫院，如安地瓜的Hospital
+        Pardo或瓜地馬拉市的Hospital Centro Médico。建議隨身攜帶藥品，如止瀉藥與電解質補充包。使用eSIM可查詢醫院位置並叫救護車（128）。
+    - q: 在提卡爾國家公園內，若有健康緊急狀況，園區有醫療站嗎？
+      a: 提卡爾國家公園內有基本的醫療站，位於入口附近，但僅能處理輕微傷病。嚴重情況需送往佛羅雷斯的醫院，車程約1小時。建議自備急救包與常用藥。園區內無手機訊號的地方，可向工作人員或遊客求助。使用eSIM在訊號區可對外聯絡，但需有備用計畫。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 瓜地馬拉 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Guatemala eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared"
-  subtitle: "Guatemala Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Guatemala) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Guatemala"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Guatemala eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Tigo SIM card costs Q50 at official stores (includes Q25 balance and 200 MB). Airport kiosks may charge extra."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Tigo store queues and passport checks. Activate your eSIM online within 2 minutes before landing in Guatemala City."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Guatemala law requires passport registration for all SIM cards; unregistered users risk line suspension."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid Guatemala's mandatory passport registration for SIM cards. Roami eSIM activates without any ID, saving you from data privacy risks."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Movistar's 'sin fronteras' offers domestic rates in Central America but charges Q40/day for USA/Canada; Tigo and Claro lack multi-country roaming."
-      esim_title: "Seamless Multi-Country Roaming"
-      esim_desc: "Unlike Movistar's Q40/day surcharge for USA/Canada, Roami eSIM covers multiple countries in one plan with no extra daily fees."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Tigo's 30-day plan costs Q99 for 2GB; Claro's 30-day plan costs Q100 for 3GB; Movistar's 30-day plan costs Q100 for 3+3GB. Short-term plans exist but are limited."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Tigo's 30-day cycle (Q99/2GB), Roami offers 7-day plans starting from $1.99/GB, saving over 70% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, most prepaid SIMs allow tethering but may throttle speeds after a certain limit."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike some local SIMs that throttle tethering after 3GB/day."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up requires physical vouchers at kiosks; online top-up often rejects foreign cards. Minimum top-up Q5."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for physical vouchers or cash at kiosks."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is primarily in Spanish; no live chat for prepaid customers."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get English-speaking customer support via live chat or email, unlike local SIMs with only Spanish phone support during business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Guatemala eSIM vs Physical SIM Card: What’s the Real Difference?"
-    cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Guatemala's Strict SIM Passport Requirements"
-        desc: "Guatemala law mandates passport registration for all prepaid SIMs. Over 2 million users faced line suspension for non-compliance. Roami eSIM activates instantly with zero ID."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, Apple Pay"
-        desc: "Local SIM top-ups require physical vouchers at kiosks (minimum Q5). Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal globally."
-      - icon: "wifi"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Unrestricted Hotspot Sharing"
-        desc: "Some local SIMs throttle tethering after 3GB/day. Roami eSIM allows full-speed hotspot for all your devices, no caps."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Tigo's Band 5 LTE Incompatibility"
-        desc: "Tigo's 4G uses only Band 5 (850 MHz), causing many international phones to fall back to 3G. Roami eSIM auto-connects to Claro's Band 2 (1900 MHz) or Movistar's network for better speeds."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

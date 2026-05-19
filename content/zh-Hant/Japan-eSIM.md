@@ -1,84 +1,81 @@
 ---
-title: Japan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 日本 eSIM 方案 | 日本 eSIM | Roami
+date: '2026-05-19T09:57:48+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Japan eSIM
-  scenario_keywords: Tokyo sightseeing, Shinkansen travel, Osaka food tour, Kyoto
-    temple visit, Hokkaido skiing
-  operators: NTT Docomo, SoftBank, KDDI
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Tokyo, Osaka, Kyoto, Yokohama, Sapporo
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 日本 eSIM
+  scenario_keywords: 城市漫步、溫泉、購物、美食、寺廟參訪
+  operators: Docomo, SoftBank, AU
+  competitors: Airalo, Holafly, Nomad, Ubigi, eSIM.net
+  main_cities: 東京, 大阪, 京都, 札幌, 福岡
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Japan eSIM |20% OFF| High-Speed 5G for Visiting Family | Roami
-  description: Traveling to Japan? Stay connected via au Full-Speed 5G with 24/7 Data.
-    Ideal for Business Trips. Enjoy Unlimited Data with Auto Network Switch.
-  keywords: Japan eSIM, eSIM Japan, travel internet Japan, prepaid eSIM Japan
-  low_price: 1.99
-  high_price: 39.9
+  title: 日本 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
+  description: 日本旅遊首選 Roami eSIM，提供最佳 5G 高速網路與無限流量。現在下單並輸入折扣碼 20%，讓您的日本之旅連線更輕鬆方便。
+  keywords: 日本 eSIM, 日本上網卡, 日本旅遊 eSIM, Docomo eSIM, SoftBank eSIM, 日本 4G 上網, 日本 5G
+    eSIM
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 日本 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Japan eSIM
+- label: 日本 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Japan
-  title: Best eSIM for Japan
+  alt: 最佳 日本 eSIM
+  title: 最佳 日本 eSIM
 hero:
   flag_image: img/flags/jp.svg
-  flag_alt: Japan Flag
-  title: Japan eSIM data plan
-  subtitle: Travel essential | 20% discount for a limited time | Instant delivery
+  flag_alt: 日本 國旗
+  title: 日本 eSIM - 旅行計劃
+  subtitle: 日本 eSIM | 無需身份證件 | 支援熱點分享 | 流量吃到飽
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 日本 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 日本 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -86,49 +83,49 @@ plans_data:
     daily: '0.57'
     tagIcon: star
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.28'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '5.99'
     oldPrice: '8.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.86'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.43'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '16.99'
     oldPrice: '25.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.43'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '18.99'
     oldPrice: '28.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.71'
-  3 Days:
+  3 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
@@ -136,49 +133,49 @@ plans_data:
     daily: '1.00'
     tagIcon: star
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '5.99'
     oldPrice: '8.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '9.99'
     oldPrice: '14.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.33'
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '20.99'
     oldPrice: '31.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.70'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -186,57 +183,57 @@ plans_data:
     daily: '0.20'
     tagIcon: star
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '25.99'
     oldPrice: '38.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.87'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.27'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.40'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '37.99'
     oldPrice: '56.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.27'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '71.99'
     oldPrice: '107.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.40'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -244,571 +241,386 @@ plans_data:
     daily: '0.33'
     tagIcon: star
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '25.99'
     oldPrice: '38.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.73'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.47'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.73'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '17.99'
     oldPrice: '26.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.20'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '42.99'
     oldPrice: '64.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.87'
 discount_banner:
-  title: Special Discount!
+  title: 日本 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 日本 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Japan, including major cities
-        like Tokyo, Osaka, Kyoto, and Yokohama. Our Japan eSIM seamlessly connects
-        to the robust networks of NTT Docomo, SoftBank, and KDDI, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個日本享受廣泛的網路覆蓋，包括東京、大阪、京都、札幌、福岡等城市。我們的日本 eSIM 無縫連接到 Docomo、SoftBank、AU
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: NTT Docomo
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+    - name: Docomo
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: SoftBank
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: KDDI
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 日本 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Japan.
+    html: 建議抵達 日本 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 日本 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 日本 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 日本 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 日本 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 日本」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Japan'
-    desc: Upon arriving in Japan, enable your Japan eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 日本 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Docomo / SoftBank 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 日本：立即連上 5G/4G 網路
+    desc: 當您降落在 日本（例如 東京成田國際機場、東京羽田機場、大阪關西國際機場）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定
+      → 行動服務** 並開啟您的 Roami eSIM 日本。幾秒鐘內，您的設備將自動連接到 Docomo / SoftBank 提供的最快可用 5G/4G
+      網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Japan eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Japan eSIM across different travel
-    scenarios.
+  title: 日本 eSIM：完整指南和常見問題
+  desc: 使用 日本 eSIM 在 日本 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 日本 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Japan eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Japan eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Japan eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Japan and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Japan eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Japan eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Japan that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Japan eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Japan eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Japan eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Japan eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Japan,
-        such as NTT Docomo, SoftBank, KDDI, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like mobimatter, Airalo,
-        aloSIM, Holafly?
-      a: While great companies like mobimatter, Airalo, aloSIM, Holafly offer reliable
-        services, we focus on providing the most cost-effective Japan eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在東京使用 eSIM 連上 Docomo 網路，速度夠快嗎？看 YouTube 或視訊通話會卡嗎？
+      a: 在東京市區（例如澀谷十字路口或新宿車站附近）連線 Docomo 網路，典型下載速度約 30-50 Mbps，上傳約 10-20 Mbps，足以流暢觀看
+        1080p YouTube 影片或進行 Zoom 視訊會議。然而在地下鐵月台（如山手線新宿站月台）或尖峰時段（18:00-20:00），速度可能降至
+        5-10 Mbps，但仍能應付一般社交媒體。若連續使用超過 3GB 每日流量，可能會觸發公平使用政策，速度降至 1 Mbps 左右，但仍可傳送文字訊息和瀏覽網頁。
+    - q: 在大阪環球影城園區內，SoftBank 網路的收訊穩定嗎？可以即時上傳影片嗎？
+      a: 大阪環球影城（USJ）園區內，SoftBank 訊號覆蓋良好，尤其在主要遊行路線和哈利波特魔法世界區域，下載速度約 20-40 Mbps，可以即時上傳
+        1080p 影片到 Instagram 或 TikTok。但在室內遊樂設施排隊區（例如好萊塢美夢雲霄飛車的建築內），訊號可能減弱至 10 Mbps
+        左右，上傳會有幾秒延遲。園區內遊客眾多時（如假日午後），網路可能擁塞，建議避開尖峰時段使用大量數據。
+    - q: 在京都祇園區使用 Docomo 和 SoftBank 哪個網路比較好？晚上拍照上傳順暢嗎？
+      a: 在京都祇園區，Docomo 和 SoftBank 兩家訊號都相當良好，但 Docomo 在花見小路等窄巷內略佔優勢，下載速度約 25-35 Mbps，SoftBank
+        則在主要街道（四條通）表現相似。晚上拍攝夜楓或藝妓表演後上傳照片，使用 Docomo 通常 5-10 秒內完成一張 5MB 的照片上傳。不過在節分祭等活動期間，人流暴增可能導致速度下降至
+        5 Mbps，建議提早備份或使用離線編輯。
+    - q: 在北海道富良野滑雪場，eSIM 訊號會中斷嗎？可以使用地圖導航嗎？
+      a: 富良野滑雪場纜車站和主要滑雪道起點附近，連線 AU 網路（部分方案）或 Docomo，訊號強度約 2-3 格，下載速度 10-20 Mbps，足以使用
+        Google Maps 導航至雪場餐廳或接送點。但在偏遠樹林雪道（如北之峰區樹林）或山谷底部，訊號可能中斷 10-15 分鐘，建議提前下載離線地圖。滑雪場內，熱點分享給同伴觀看滑雪影片可能流暢，但尖峰時段（12:00-13:00）速度較慢。
+    - q: 使用日本 eSIM 時，每天數據超過 1GB 後會發生什麼？還有辦法看 Netflix 嗎？
+      a: 部分 eSIM 方案（例如每日 1GB 公平使用政策）在超過每日 1GB 後，速度會限制到 128 kbps 或 256 kbps，此時 Netflix
+        僅能播放最低畫質（144p），且可能頻繁緩衝。但若您購買的是無每日限制的方案（如 total 10GB/30天），則只有在總用量超過後降速。為避免降速，建議在飯店使用
+        WiFi 下載影片，或選擇包含高速流量的方案。在東京市區，降速後仍可使用 LINE 傳文字訊息和瀏覽文字網頁，但開啟圖片較慢。
+    - q: 從成田機場到東京市區的路上，eSIM 訊號穩定嗎？可以看地圖和查乘車資訊嗎？
+      a: 成田機場到東京市區的 Narita Express 或京成電鐵沿線，Docomo 和 SoftBank 訊號覆蓋良好，隧道內（如成田隧道）也幾乎全線覆蓋，下載速度約
+        20-30 Mbps。您可以使用 Google Maps 即時查詢換乘資訊，或開啟交通應用程式查看列車延誤情況。但在部分郊區段（如成田到印西間），速度可能降至
+        5-10 Mbps，不過查詢資訊仍順暢。建議在機場內先測試連線，若訊號弱，可手動選擇 Docomo 網路。
+    - q: 在沖繩那霸市國際通商店街，使用 SoftBank 網路打卡和上傳限動順暢嗎？
+      a: 那霸國際通商店街是沖繩最繁忙的地區，SoftBank 網路在此提供穩定的 4G 連線，下載速度約 15-30 Mbps，上傳速度約 5-10 Mbps，足以流暢上傳
+        Instagram 限時動態或打卡。但在週末晚上或旅遊旺季，人潮眾多時可能發生降速，上傳照片需要 10-15 秒。如果您在商店街深處的食堂內，訊號可能減弱，建議靠近門口使用。使用
+        Docomo 網路在該區域表現相近，無明顯差異。
+    - q: 在東京迪士尼海洋園區內，eSIM 可以使用手機支付或電子門票嗎？
+      a: 東京迪士尼海洋內，連線 Docomo 或 SoftBank 網路皆可順暢使用手機支付（如 Apple Pay 綁 Suica）和開啟電子門票 QR
+        code。在入園閘口和主要餐廳，4G 訊號強度足夠，下載速度約 20-40 Mbps。但在部分遊樂設施室內排隊區（如地心探險之旅），訊號可能降至 5
+        Mbps，掃碼可能延遲 1-2 秒。建議提前載入電子門票截圖，以防尖峰時段網路擁塞。園區內有免費 WiFi，但需登入且穩定性不如行動數據。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 日本 機場：如何使用 日本 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Japan eSIM before your flight. Once you land at Narita International
-        Airport, Kansai International Airport, Haneda Airport, simply turn off Airplane
-        Mode and enable your eSIM line. It will connect to the local 4G/5G network
-        within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Japan eSIM activated upon landing, you can immediately open Japan
-        Taxi, DiDi Japan, Navitime to book a ride or use WhatsApp to message your
-        pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Japan eSIM data allows you to open Google Maps right at the
-        baggage claim in Narita International Airport, Kansai International Airport,
-        Haneda Airport to check real-time train schedules, bus routes, or walking
-        directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Japan eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Japan eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Japan eSIM cellular data to let your family know you've arrived safely.
+    - q: 在東京成田機場如何購買 eSIM？有哪些推薦方式？
+      a: 成田機場第一航廈和第二航廈的入境大廳內，有自動販賣機和電信櫃檯（如 SoftBank 櫃檯）銷售實體 SIM 卡，但 eSIM 通常需線上購買後透過電子郵件或
+        QR code 啟用。建議您在出發前上網購買支援日本網路的 eSIM，例如透過本公司平台，付款後立即獲得 QR code。到達成田機場後，連接機場免費
+        WiFi（Narita Free Wi-Fi）掃描 QR code 安裝設定檔，即可啟用。若遇到問題，可至機場的 SIM 卡服務中心尋求協助。
+    - q: 從關西國際機場入境後，如何快速啟用 eSIM？可以使用機場 WiFi 嗎？
+      a: 關西國際機場（KIX）提供免費 WiFi（KIX Free Wi-Fi），連線後打開電子郵件或掃描 QR code 即可安裝 eSIM 設定檔。建議在等候行李時就完成安裝，這樣一入境就能使用。若您使用的是
+        iPhone，請確保已移除舊的 eSIM 設定檔（如果有的話），並在「行動服務」中啟用新方案。若遇到無法下載描述檔的情況，可到機場的旅遊資訊中心或電信櫃檯（如
+        SoftBank 服務台）要求協助掃描 QR code。
+    - q: 在羽田機場，eSIM 訊號好嗎？可以使用叫車 App 嗎？
+      a: 羽田機場第三航廈及第一航廈的公共區域，Docomo 和 SoftBank 訊號覆蓋良好，下載速度約 30-50 Mbps，足以使用 Uber 或
+        Japan Taxi 叫車。但在停車場或部分免稅店角落，訊號可能降至 10 Mbps，叫車 App 仍可運作但定位稍慢。建議在入境大廳先叫車，等待期間網路順暢。若需使用熱點分享，請注意機場人潮較多時，速度可能略有下降。
+    - q: 在成田機場過夜轉機，eSIM 會自動漫遊嗎？費用如何計算？
+      a: eSIM 通常會自動連接到日本當地網路（如 Docomo），只要您在購買時選擇了包含日本數據的方案，即使在機場過夜也不會產生額外漫遊費用。請注意，eSIM
+        方案通常按天或總流量計費，過夜使用只消耗流量，不會因停留時間長短而加收。建議選擇有足夠流量的方案，例如每日 1-2GB 或總量 10GB 以上，以應付查詢資訊和社交媒體使用。若您有通話需求，可選購含本地號碼的
+        eSIM 方案。
+    - q: 在關西機場，能否在免稅店用手機支付？eSIM 連線夠快嗎？
+      a: 關西機場第二航廈免稅店支援 Alipay、Apple Pay 及信用卡感應支付，連線 Docomo 或 SoftBank 的 4G 網路，下載速度約
+        20-40 Mbps，足以順暢完成支付。若支付時發生延遲，可能是因為免稅店內人潮較多導致網路擁塞，建議稍等一下再嘗試。您也可以使用機場免費 WiFi
+        作為備用連線。支付完成後，收據通常會透過電子郵件發送，連線順暢即可即時收取。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 日本 eSIM 用於 日本 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Japan eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Japan, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Japan Taxi, DiDi Japan, Navitime use VoIP (internet calling) and
-        in-app messaging. Since you have active Japan eSIM data, drivers can call
-        or message you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Japan eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Japan eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Japan.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Japan eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Japan eSIM's data network while on the
-        train or in the car.
+    - q: 在東京地鐵車廂內，eSIM 網速如何？可以使用 TikTok 嗎？
+      a: 東京地鐵（例如丸之內線、日比谷線）車廂內，連線 Docomo 網路的下載速度約 10-20 Mbps，上傳約 5 Mbps，可以順暢觀看 TikTok
+        短影片或滑 Instagram。但在隧道區間（如銀座線澀谷到表參道間）或尖峰時段（8:00-9:00），速度可能降至 3-5 Mbps，TikTok
+        可能會有短暫緩衝。建議預先下載影片離線觀看，或避開尖峰時間使用大量數據。JR 山手線地上路段訊號較好，速度可達 30-50 Mbps。
+    - q: 從新宿站乘搭巴士前往富士山，eSIM 會斷訊嗎？如何導航？
+      a: 新宿高速巴士總站（Busta Shinjuku）出發往富士山的巴士途中，經過中央自動車道時，Docomo 和 SoftBank 訊號大致穩定，但進入山區隧道（例如笹子隧道）時會中斷
+        1-2 分鐘。使用 Google Maps 離線導航功能更可靠：出發前在 WiFi 環境下載富士山區域的離線地圖，即使斷訊仍可查看路線。到達富士山五合目時，訊號恢復，速度約
+        10-20 Mbps，可用於打卡。
+    - q: 搭乘新幹線從東京到京都，eSIM 速度夠看 Netflix 嗎？
+      a: 東海道新幹線東京到京都段，列車行駛時速約 270 公里，連線 Docomo 網路的下載速度平均 15-30 Mbps，穩定時可觀看 720p Netflix
+        而不卡頓。但經過隧道（如丹那隧道）或山區時，速度可能降至 2-5 Mbps，導致影片緩衝。建議下載影片或選擇離線內容以確保不間斷觀看。SoftBank
+        在部分路段（名古屋附近）訊號較弱，可手動切換至 Docomo 取得更佳體驗。
+    - q: 在京都搭乘市巴士，eSIM 能否查詢下一班車時間？
+      a: 京都的市巴士大多有 RFID 定位系統，您可以使用 Google Maps 或「バスロケーション」App（市巴士官方 App）查詢即時到站時間。連線
+        Docomo 網路時，載入 App 約 1-2 秒，資訊準確。但在市區熱門路線（如 100 號巴士前往清水寺）的尖峰時段，App 可能因伺服器負載而延遲。建議同時使用
+        Google Maps 作為備份，並確保 eSIM 數據足夠查詢。
+    - q: 在大阪搭乘地鐵，可以使用 eSIM 分享熱點給旅伴嗎？
+      a: 大阪地鐵（御堂筋線、中央線等）車廂內，使用 eSIM 進行熱點分享是可行的，但速度會因多人共享而減半。例如當主要裝置下載 20 Mbps，分享後每個裝置約
+        10 Mbps，可應付網頁瀏覽和 LINE 訊息，但看影片可能卡頓。在車站月台（如梅田站）訊號較強，分享較順暢。請注意，部分 eSIM 方案禁止熱點功能，購買前請確認條款。本公司方案支援熱點分享無限制。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 日本 的飯店使用 日本 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Japan eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Japan eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Park Hyatt Tokyo, The Ritz-Carlton Osaka, Aman
-        Tokyo or a local guesthouse, you can input the address into Google Maps and
-        get turn-by-turn walking or transit directions using your Japan eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Japan eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Japan eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Uber Eats Japan, Demae-can, Foodie and
-        use your Japan eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Japan eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 入住東京新宿的京王廣場飯店，飯店 WiFi 和 eSIM 哪個更快？
+      a: 京王廣場飯店提供免費 WiFi，但速度可能因入住人數而波動。平日晚上約 10-20 Mbps，週末可能降至 5 Mbps。相比之下，Docomo
+        eSIM 在客房內下載速度約 30-50 Mbps，更穩定快速，尤其適合視訊會議或串流。建議在飯店大廳或房間測試兩者，若 WiFi 速度不足，則切換至
+        eSIM。注意：eSIM 每日用量有限，建議飯店 WiFi 用於下載大型檔案，eSIM 用於行動外出時。
+    - q: 在京都傳統旅館（如俵屋旅館）使用 eSIM，訊號好嗎？
+      a: 京都傳統旅館多為木造建築，牆壁可能影響訊號強度。在俵屋旅館的客房內，Docomo 訊號約 2-3 格，下載速度 10-20 Mbps，足夠查詢地圖和使用社交媒體。但在榻榻米房間角落或靠近內庭處，訊號可能降至
+        1 格，速度 2-5 Mbps。建議將手機靠近窗邊使用，或利用旅館提供的免費 WiFi（若有），但傳統旅館 WiFi 可能較慢。總體來說，eSIM
+        仍可正常使用，但無法保證滿格。
+    - q: 入住大阪難波 Holiday Inn，eSIM 能觀看 YouTube 4K 嗎？
+      a: 難波 Holiday Inn 靠近鬧區，連線 SoftBank 網路在客房內通常可達 40-60 Mbps，理論上能觀看 4K YouTube，但由於畫面編碼與網路穩定度，建議使用
+        1080p 以避免緩衝。晚上尖峰時段（20:00-22:00）網速可能降至 15-25 Mbps，此時 4K 可能不穩定。若您需觀看 4K，建議使用飯店
+        WiFi 作為輔助。注意：部分 eSIM 方案有每日高速流量限制，超過後降速至 128 kbps，則無法觀看任何影片。
+    - q: 在北海道星野度假村（Tomamu），eSIM 訊號如何？可以分享熱點給筆電工作嗎？
+      a: 星野 Tomamu 度假村位於山區，連線 Docomo 網路在主要建築（如塔娃酒店）內約 20-30 Mbps，足以分享熱點給筆電進行郵件處理或瀏覽網頁。但在滑雪場纜車站或森林餐廳等地，訊號可能降至
+        5-10 Mbps，熱點分享後筆電上網速度約 2-5 Mbps，可用但無法執行大檔案上傳。建議在飯店大廳或房間使用飯店 WiFi 處理重度工作，eSIM
+        則用於移動中。
+    - q: 在東京迪士尼度假區官方飯店（如東京迪士尼海洋觀海景大飯店），eSIM 能順暢玩手遊嗎？
+      a: 飯店內連線 SoftBank 網路，下載速度約 20-40 Mbps，遊玩手機遊戲（如原神、荒野亂鬥）延遲約 30-50ms，體驗順暢。但在晚間入住高峰或假日，可能因用戶增加而降速至
+        10 Mbps，手遊仍可進行但延遲略升。飯店提供免費 WiFi，但連接後遊玩手遊可能因網路共享而延遲不穩。建議使用 eSIM 進行遊戲並關閉其他裝置數據用量。此外，遊樂園區內的網路可能較慢，建議在飯店內完成大型更新。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 日本 旅遊景點的網路：日本 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Mount Fuji, Fushimi Inari Shrine, Shibuya Crossing
-        spontaneously, you can use your Japan eSIM data to buy skip-the-line tickets
-        online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Japan eSIM, you can read reviews and book local
-        tours or experiences on Tripadvisor while having coffee at a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Japan.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Japan eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Japan eSIM will keep you connected throughout the
-        park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Japan eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Japan eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Japan eSIM data to search 'restaurants near me' on Google Maps to
-        check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Japan eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Japan eSIM ensures you can scan
-        the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Japan eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Uber Eats Japan, Demae-can, Foodie, register
-        using your email or social accounts, and order food seamlessly using your
-        Japan eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Suica,
-        PayPay, Rakuten Pay require a brief internet handshake, which your Japan eSIM
-        handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Japan eSIM to find hidden culinary gems in the city.
+    - q: 在東京淺草寺周邊，eSIM 可以即時上傳照片到社交媒體嗎？
+      a: 淺草寺雷門及仲見世通商店街人潮眾多，Docomo 網路下載速度約 20-35 Mbps，上傳約 5-10 Mbps，拍完照片後上傳至 Instagram
+        或 Facebook 約需 5-10 秒。但節日或週末時，速度可能降至 10 Mbps，上傳延遲至 15-20 秒。建議避開正午尖峰或使用壓縮圖片以加速上傳。寺廟內本堂區域訊號覆蓋良好，可在參拜後即時打卡。
+    - q: 參觀大阪城天守閣時，eSIM 能否使用擴增實境（AR）App？
+      a: 大阪城公園內天守閣廣場，連線 SoftBank 網路的下載速度約 15-25 Mbps，足以使用大阪城官方 AR App 觀看歷史重現。但在天守閣內部（尤其頂樓展望台）因建築結構，訊號可能降至
+        5-10 Mbps，AR 應用可能讀取較慢。建議在廣場先載入 AR 內容，再進入建築內使用。若發生延遲，可關閉 App 重新啟動或使用公園免費 WiFi（Osaka
+        Free Wi-Fi）作為輔助。
+    - q: 在京都伏見稻荷大社千本鳥居步道內，eSIM 訊號穩定嗎？可以直播嗎？
+      a: 千本鳥居步道人潮眾多，Docomo 訊號在入口處約 20-30 Mbps，但深入步道後（約中段）訊號減弱至 5-10 Mbps，直播可能不順暢，會有延遲或中斷。建議在入口附近直播，或使用離線預錄影片後上傳。步道後段接近山頂處，訊號可能中斷
+        5-10 分鐘，無法直播。若需即時分享，可先拍照後至訊號較好的區域上傳。
+    - q: 在東京澀谷十字路口，eSIM 能順暢使用地圖導航和周邊推薦嗎？
+      a: 澀谷十字路口是網路流量極高的區域，Docomo 網路下載速度約 15-25 Mbps，足夠使用 Google Maps 導航至附近店家或車站。但尖峰時段（如晚上
+        8 點後）速度可能降至 5-10 Mbps，地圖載入較慢但仍有反應。建議使用離線地圖預先載入澀谷商圈，或開啟導航後等待幾秒。周邊推薦 App（如食べログ）載入餐廳資訊約需
+        3-5 秒，仍可接受。
+    - q: 在北海道札幌大通公園，eSIM 可以上傳滑雪影片到雲端嗎？
+      a: 大通公園區域連線 SoftBank 網路，下載速度約 20-30 Mbps，上傳速度約 5-10 Mbps。一段 200MB 的滑雪影片上傳至 Google
+        Drive 或 iCloud 約需 3-5 分鐘。若在冬季雪祭期間，人潮眾多可能導致上傳速度降至 2-3 Mbps，時間加倍。建議使用壓縮格式（如
+        1080p 而非 4K）或晚上非尖峰時段上傳。公園內有札幌市免費 WiFi（Sapporo City Wi-Fi），但穩定性不如 eSIM。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 日本 eSIM 在 日本 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Japan eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Japan eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Japan eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Japan
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Japan eSIM data allowance to check their own social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Japan eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Japan eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在日本使用 eSIM，能否順暢使用 LINE 打電話和傳貼圖？
+      a: LINE 在日本極為普及，Docomo 或 SoftBank 網路下，LINE 語音通話延遲約 100-200ms，通話清晰；傳送貼圖和文字訊息則即時無延遲。但在郊區（如箱根山區）或網路擁塞時，語音可能出現回音或斷續。建議在
+        4G 訊號至少 2 格的環境下通話。LINE 視訊通話需要 5 Mbps 以上下載速度，在東京市區可順暢使用。注意：LINE 通話消耗數據，每分鐘約
+        1-2MB，請注意流量。
+    - q: 在京都嵐山竹林小徑上傳 Instagram 限時動態，eSIM 速度夠嗎？
+      a: 嵐山竹林小徑人潮眾多，Docomo 網路下載速度約 10-20 Mbps，上傳速度約 3-5 Mbps，拍攝一段 15 秒的限時動態影片上傳約需
+        10-20 秒。在竹林深處或靠近天龍寺處，速度可能降至 5 Mbps，上傳時間加倍。建議在竹林入口處先上傳，或使用壓縮設定。若遇尖峰時刻，可稍等離開人群後上傳。
+    - q: 在日本使用 Facebook 直播，eSIM 連線穩定嗎？適合在哪裡直播？
+      a: 進行 Facebook 直播需要穩定上傳速度至少 3-5 Mbps。在東京市區（如新宿御苑）上傳速度約 10-15 Mbps，直播順暢；但在擁擠的祭典或地鐵內，可能降速導致直播中斷。建議選擇空曠區域（如公園、廣場）進行直播，並關閉其他背景應用程式。觀看者若反應延遲，可調整直播畫質至
+        720p。注意：直播消耗流量大，每分鐘約 10-20MB，請確保數據充足。
+    - q: 在日本使用 TikTok 上傳影片，eSIM 速度快嗎？會有審查問題嗎？
+      a: TikTok 在日本可正常使用，上傳影片時 Docomo 網路以上傳速度 5-10 Mbps 傳送一段 1 分鐘 1080p 影片約需 30-60
+        秒。但若內容涉及敏感話題（如政治抗議），可能被平台審查下架，但與 eSIM 無關。建議連接 WiFi 上傳較大檔案以節省數據。TikTok 內建的濾鏡和音樂不影響網路表現，但下載特效可能需要額外流量。
+    - q: 在日本，eSIM 能使用微信通話和支付嗎？
+      a: 微信在中國大陸被封鎖的服務（如 WeChat Pay）在日本可使用部分功能，但語音通話可能會因為防火牆（GFW）而延遲約 200-300ms，或偶爾斷線。WeChat
+        Pay 在支援的商店（如部分藥妝店）使用 eSIM 連線支付流暢，掃碼後 2-3 秒完成。建議使用 LINE 或 WhatsApp 作為通話備用，避免重要通話中斷。微信的社交功能（朋友圈、訊息）則運作正常。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 日本 使用 日本 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Japan, you can dial local emergency numbers like 110 (police), 119 (fire/ambulance)
-        directly from your phone's dialer regardless of your active SIM, as long as
-        your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Japan eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Japan eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Japan eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Japan eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Japan eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Japan eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Japan eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Japan eSIM is significantly
-        faster and much more secure against cyber threats than using open public Wi-Fi
-        networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Japan eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Japan eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Japan eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Japan eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在日本遇到緊急情況，如何使用 eSIM 撥打 110 或 119？需要解鎖手機嗎？
+      a: 在日本，即使手機沒有 SIM 卡或處於飛航模式，也可以撥打緊急電話 110（警察）或 119（消防救護）。使用 eSIM 時，只要手機開機且有電，直接撥打即可，無須解鎖或輸入密碼。但請注意，部分手機可能要求先解除
+        SIM 卡鎖定（若設定 PIN 碼），因此建議事先關閉 SIM 鎖定。通話時，接線員可能使用日語，建議學幾句簡單日語或使用翻譯 App。若您無法說話，可撥打
+        110 後按「1」鍵表示非日語受害者，系統會轉接英文。
+    - q: 在日本，eSIM 數據用完無法上網時，如何連線尋找緊急協助？
+      a: 若 eSIM 數據用完且無法充值，您可以使用公共電話（灰色話機，投入 10 日元或使用電話卡）撥打 110/119 免費。也可以尋找附近便利商店（如
+        7-11、全家）的免費 WiFi（如 7SPOT），連線後使用 LINE 或 WhatsApp 聯絡親友。部分地鐵站和機場提供免費 WiFi（Narita
+        Free Wi-Fi、Osaka Free Wi-Fi）。建議在出發前下載離線地圖和急救 App（如 Safety tips），以備無網路時使用。若情況緊急，直接前往任何警察崗亭（交番），警察會協助。
+    - q: 在日本遺失錢包或護照，如何利用 eSIM 聯絡台灣駐日代表處？
+      a: 若遺失證件，請立即撥打台灣駐日代表處的緊急電話：東京代表處（+81-3-3280-7811）或大阪分處（+81-6-6226-1111）。使用 eSIM
+        撥打國際電話，建議先確認方案是否含語音通話（多數僅數據），若無，可透過 LINE 或 WhatsApp 撥打網路電話（加官方帳號「台北駐日經濟文化代表處」），或使用
+        Skype 加值後撥打。前往最近的警察局報案取得遺失證明，補辦護照需要照片和申請表，也可在代表處網站下載。記得將重要文件掃描存在手機中，以便緊急使用。
+    - q: 在日本遭遇地震，eSIM 網路會中斷嗎？如何傳送平安訊息？
+      a: 大地震發生時，行動網路基地台可能因電力中斷或損壞而暫停服務，但通常地震後幾小時內會恢復。Docomo 和 SoftBank 設有優先通信措施，eSIM
+        用戶可能無法立即使用高速數據，但文字訊息（SMS）或 110/119 通話較可能通。您可以利用 LINE「災害用伝言板」發送平安訊息，或使用 Google
+        Person Finder。建議事先安裝日本氣象廳的 App 接收地震警報。若網路中斷，可使用公共電話或到避難所尋求協助。
+    - q: 在日本生病需要看醫生，如何用 eSIM 查找附近醫院？需要翻譯嗎？
+      a: 使用 Google Maps 搜尋「病院」或「クリニック」，搭配 eSIM 連線即可找到附近醫療機構。許多大醫院提供英文服務，如東京醫科大學醫院、大阪紅十字醫院。若需語言協助，可使用
+        Google 翻譯 App 進行對話翻譯。撥打 119 叫救護車時，接線員會詢問地址和症狀，若不懂日語，可嘗試說「English please」或提供座標。建議事先查詢醫療日語基礎用語（如「痛い」、「熱がある」）。eSIM
+        數據足夠查詢資訊，但請確認含有足夠餘額。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 日本 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Japan eSIM or SIM Card for Tourists: Which Should You Choose?"
-  subtitle: "Japan Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Japan) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Japan"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Japan eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "SoftBank requires passport photo upload for activation, only available 9:00-21:00 JST; MINEO SIM requires a Japanese phone number to call for activation, creating a deadlock for tourists."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip SoftBank's 9:00-21:00 activation window and passport upload. Roami eSIM activates within 1 minute after landing in Japan, no queues or paperwork."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "SoftBank requires uploading passport photo or scan for activation; NTT docomo prepaid SIMs can be purchased without ID registration."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike SoftBank which demands passport photo upload, Roami eSIM requires zero ID verification. Purchase and activate instantly without sharing personal documents."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge: Japanese prepaid SIMs generally do not support international roaming; service is limited to Japan only."
-      esim_title: "Multi-Country Roaming"
-      esim_desc: "Japanese prepaid SIMs like b-mobile and IIJmio are locked to Japan only. Roami eSIM offers regional plans covering Japan, South Korea, and Southeast Asia, avoiding the need to buy new SIMs per country."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "b-mobile physical SIM validity starts from the shipping date, not activation; IIJmio top-up validity extends 3 months from last top-up, causing waste for short-term tourists."
-      esim_title: "Flexible Billing Cycles"
-      esim_desc: "b-mobile's 30-day plan starts from shipping date, wasting 20-40% of validity. Roami offers 7-day plans starting from $1.99/GB, matching your exact trip length and saving up to 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge: Most Japanese prepaid SIMs allow tethering but may throttle video streaming or VoIP."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "While b-mobile may throttle VoIP and video streaming, Roami eSIM supports full-speed tethering with no restrictions, allowing you to share data across devices seamlessly."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "povo 2.0 is only sold at Lawson convenience stores and accepts cash only; SoftBank top-up online via credit card only."
-      esim_title: "Global Payment Methods"
-      esim_desc: "povo 2.0 requires cash at Lawson stores. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal, making purchase easy from anywhere."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge: Customer support is primarily in Japanese, with limited English support hours."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Japanese prepaid support is mostly Japanese-only. Roami offers 24/7 English support via live chat and email, ensuring help whenever you need it."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Japan eSIM vs Prepaid SIM Card: Key Differences Explained"
-    cards:
-      - icon: "globe"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "International Roaming Without Extra Fees"
-        desc: "Japanese prepaid SIMs <b>do not support roaming</b> outside Japan. For multi-country trips (e.g., Japan-Korea), Roami eSIM offers <b>regional plans</b> covering multiple countries, avoiding the need to buy new SIMs."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payment Methods Accepted"
-        desc: "povo 2.0 requires <b>cash only</b> at Lawson stores. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal</b>, making purchase easy from anywhere."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation Anytime"
-        desc: "SoftBank activation is limited to <b>9:00-21:00 JST</b>. Roami eSIM activates <b>24/7</b> within minutes, perfect for late-night arrivals."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Multi-Network Coverage vs. Single Network Risk"
-        desc: "Japanese prepaid SIMs like b-mobile and IIJmio are locked to <b>NTT docomo</b>, risking dead zones in rural areas. Roami eSIM connects to <b>au (KDDI) and SoftBank</b> as backup, ensuring better coverage."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

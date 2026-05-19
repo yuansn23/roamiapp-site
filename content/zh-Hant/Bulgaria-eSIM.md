@@ -1,118 +1,113 @@
 ---
-title: Bulgaria eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 保加利亞 eSIM 方案 | 保加利亞 eSIM | Roami
+date: '2026-05-19T09:57:18+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Bulgaria eSIM
-  scenario_keywords: Sofia sightseeing, Black Sea beach holiday, Rila Monastery day
-    trip, Plovdiv Old Town walking tour
-  operators: A1 Bulgaria, Telenor, Vivacom
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Sofia, Plovdiv, Varna, Burgas
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 保加利亞 eSIM
+  scenario_keywords: 城市漫步, 黑海海灘, 購物中心, 傳統美食
+  operators: A1, Telenor, Vivacom
+  competitors: Airalo, Holafly, Nomad, Maya Mobile, BNESIM
+  main_cities: 索菲亞, 普羅夫迪夫, 瓦爾納, 布爾加斯, 大特爾諾沃
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Top Bulgaria eSIM |20% OFF| Top Local Carrier Seamless 5G | Roami
-  description: Planning a trip to Bulgaria? Get Roami's Full-Speed 5G on Top Local
-    Carrier with Unlimited Data. Perfect for Light Travel, offering Unlimited Data
-    and Seamless Coverage.
-  keywords: Bulgaria eSIM, prepaid eSIM Bulgaria, cheap eSIM Bulgaria, unlimited data
-    Bulgaria, travel internet Bulgaria
-  low_price: 1.99
-  high_price: 39.9
+  title: 保加利亞 eSIM | 流量吃到飽 | 最佳5G高速網路 | Roami
+  description: 保加利亞旅遊首選 Roami eSIM，流量吃到飽與最佳 5G 高速網路。別忘了使用折扣碼 20%，讓您的歐洲旅程連線更超值！
+  keywords: 保加利亞 eSIM, 保加利亞網路覆蓋, 保加利亞旅遊, 索菲亞 eSIM, 普羅夫迪夫網路, 瓦爾納海灘, 保加利亞運營商, A1, Telenor,
+    Vivacom
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 保加利亞 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Bulgaria eSIM
+- label: 保加利亞 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Bulgaria
-  title: Best eSIM for Bulgaria
+  alt: 最佳 保加利亞 eSIM
+  title: 最佳 保加利亞 eSIM
 hero:
   flag_image: img/flags/bg.svg
-  flag_alt: Bulgaria Flag
-  title: Bulgaria eSIM data plan
-  subtitle: 1-minute activation | Automatic network selection | Smooth video streaming
+  flag_alt: 保加利亞 國旗
+  title: 保加利亞 eSIM - 旅行計劃
+  subtitle: 保加利亞 eSIM | 流量吃到飽 | 高速5G網路 | 無隱藏費用
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 保加利亞 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 保加利亞 eSIM
 plans_data:
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 100GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.83'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -120,41 +115,41 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.50'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '22.99'
     oldPrice: '34.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.77'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '77.99'
     oldPrice: '116.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.60'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -162,57 +157,57 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.60'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.93'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.47'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.93'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '40.99'
     oldPrice: '61.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.73'
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -220,49 +215,49 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.14'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.86'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '20.99'
     oldPrice: '31.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '20.99'
     oldPrice: '31.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.00'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -270,560 +265,317 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '4.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '9.99'
     oldPrice: '14.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.33'
 discount_banner:
-  title: Special Discount!
+  title: 保加利亞 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 保加利亞 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Bulgaria, including major
-        cities like Sofia, Plovdiv, Varna, and Burgas. Our Bulgaria eSIM seamlessly
-        connects to the robust networks of A1 Bulgaria, Telenor, and Vivacom, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個保加利亞享受廣泛的網路覆蓋，包括索菲亞、普羅夫迪夫、瓦爾納等城市。我們的保加利亞 eSIM 無縫連接到 A1、Telenor、Vivacom
+        等網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: A1 Bulgaria
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+    - name: A1
+      coverage: 廣域覆蓋
+      network: 5G/4G/LTE 網路
     - name: Telenor
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Vivacom
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 城市高速
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 保加利亞 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Bulgaria.
+    html: 建議抵達 保加利亞 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 保加利亞 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 保加利亞 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 保加利亞 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 保加利亞 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 保加利亞」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Bulgaria'
-    desc: Upon arriving in Bulgaria, enable your Bulgaria eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 保加利亞 時，只需開啟 eSIM
+      – 有效期將在首次連接到 A1 / Telenor 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 保加利亞：立即連上 5G/4G 網路
+    desc: 當您降落在 保加利亞（例如 索菲亞機場 (SOF)、瓦爾納機場 (VAR)、布爾加斯機場 (BOJ)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 保加利亞。幾秒鐘內，您的設備將自動連接到 A1 / Telenor 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Bulgaria eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Bulgaria eSIM across different
-    travel scenarios.
+  title: 保加利亞 eSIM：完整指南和常見問題
+  desc: 使用 保加利亞 eSIM 在 保加利亞 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 保加利亞 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Bulgaria eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Bulgaria eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Bulgaria eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Bulgaria
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Bulgaria eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Bulgaria eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Bulgaria that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Bulgaria eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Bulgaria eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Bulgaria eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Bulgaria eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Bulgaria,
-        such as A1 Bulgaria, Telenor, Vivacom, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, Ubigi, esim
-        io, Holafly?
-      a: While great companies like Airalo, Ubigi, esim io, Holafly offer reliable
-        services, we focus on providing the most cost-effective Bulgaria eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在索菲亞市中心使用A1網路，觀看YouTube或進行視訊通話的體驗如何？
+      a: 在索菲亞市中心如維托莎大道或國家文化宮附近，連接到A1網路時，典型下載速度約為30-50 Mbps，足以無緩衝觀看Full HD的YouTube影片，並提供穩定的視訊通話。人流密集的時段（如週末下午），速度可能降至15-20
+        Mbps，但一般使用仍順暢。若每天使用超過3GB，可能觸發公平使用政策，導致速度降至2 Mbps以下，但瀏覽網頁和社群媒體仍無問題。建議在旅遊旺季時，可手動切換到Telenor網路以獲得稍穩定的連線。
+    - q: 從瓦爾納機場入境後，如何快速啟用eSIM並使用Telenor網路？
+      a: 瓦爾納機場的入境大廳有免費WiFi，您可先連接並掃描eSIM QR Code。安裝後，在手機設定中啟用此eSIM線路，並確保數據漫遊開啟。系統會自動連接Telenor網路，通常需2-3分鐘註冊。若未自動連線，可手動選取Telenor。建議在出發前完成eSIM購買，這樣落地後即可啟用。Telenor在瓦爾納市中心及海灘區域提供良好的4G覆蓋，但在機場周邊較偏遠地區可能訊號較弱，進城後會改善。
+    - q: 在黑海度假勝地陽光海灘，Vivacom的網路品質如何？
+      a: 陽光海灘是保加利亞著名的度假區，Vivacom在此區域提供穩定的4G覆蓋，典型速度約20-40 Mbps，適合瀏覽社群媒體和分享照片。旅遊旺季時，大量遊客同時使用可能導致速度下降至10
+        Mbps左右，但收發訊息和導航仍順暢。飯店區域通常訊號優於海灘沙灘區域。若從瓦爾納方向開車前往，沿途山區可能出現短暫訊號中斷。建議下載離線地圖以備不時之需。
+    - q: 在保加利亞使用eSIM時，如何避免超出每日數據限制而被降速？
+      a: 保加利亞的eSIM方案常設有每日高速數據上限（例如1GB或2GB），超出後會降至128kbps或更低。為了避免降速，您可監控使用量（手機設定可查），並在需要大量下載或觀看影片時，利用飯店或咖啡廳的WiFi。開啟數據節省模式、關閉背景應用更新也會有幫助。如果計畫頻繁使用社交媒體與導航，建議選擇每日高速上限較高的方案，例如5GB方案。降速後即使僅用於發送文字訊息也可能延遲，因此提前規劃很重要。
+    - q: 前往里拉七湖登山時，哪個運營商的網路訊號最好？
+      a: 里拉七湖位於里拉國家公園內，海拔較高且地形複雜。根據當地經驗，Telenor在山腳遊客中心附近有4G訊號，但登山步道沿線尤其在高海拔湖區，訊號可能中斷或僅有微弱2G。A1和Vivacom的覆蓋類似，都無法保證全線覆蓋。建議出發前下載離線地圖與登山路徑，並確保eSIM在有訊號區域能導航。抵達索菲亞後，可先檢查運營商訊號強度，但登山時仍以有備無患為原則。
+    - q: 在普羅夫迪夫老城區（Kapana區）使用eSIM，是否有訊號死角？
+      a: 普羅夫迪夫老城區以石頭街道和密集建築聞名，可能導致訊號衰減。在Kapana創意區，A1和Telenor的4G訊號通常良好，但某些窄巷或古老建築內部可能降到3G或微弱4G。靠近城市花園或主要廣場時，連線品質最佳。若發現連線不穩，可嘗試移動到窗邊或室外。整體而言，白天遊客眾多時，網路擁塞可能使速度降低，但基本社交媒體與地圖查詢仍可應付。
+    - q: 保加利亞的eSIM方案是否支援5G？我在哪些城市可以使用5G？
+      a: 是的，保加利亞的主要運營商A1、Telenor和Vivacom已在主要城市部署5G網路，例如索菲亞、普羅夫迪夫和瓦爾納市中心部分區域。使用5G需要手機支援且eSIM方案標註5G服務。實際覆蓋範圍仍在擴展，離開市中心後經常降至4G。在索菲亞的維托莎大道或地鐵站附近，5G速度可達200
+        Mbps以上。建議到達後檢查手機訊號圖標，若顯示5G即可享受高速體驗。
+    - q: 若我的eSIM在保加利亞無法連線，應如何手動選擇運營商？
+      a: 當eSIM無法自動連線時，請前往手機設定→行動網路→網路選擇，關閉自動選擇，然後手動選取「A1」或「Telenor」或「Vivacom」。建議先試A1，因為它在全國的覆蓋較廣。通常切換後30秒內會註冊成功。若仍無法連線，確保eSIM已啟用且數據漫遊開啟。如果身處偏遠山區（如里拉山脈），可能暫時無訊號，需移動到較開闊處。若持續失敗，請聯繫客服確認eSIM是否有效。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 保加利亞 機場：如何使用 保加利亞 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Bulgaria eSIM before your flight. Once you land at Sofia Airport,
-        Burgas Airport, Varna Airport, simply turn off Airplane Mode and enable your
-        eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Bulgaria eSIM activated upon landing, you can immediately open
-        TaxiMe, BG TAXI, Skip to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Bulgaria eSIM data allows you to open Google Maps right at
-        the baggage claim in Sofia Airport, Burgas Airport, Varna Airport to check
-        real-time train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Bulgaria eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Bulgaria eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Bulgaria eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 從索菲亞機場（SOF）入境後，如何最快取得eSIM並連上網路？
+      a: 索菲亞機場的入境大廳設有免費WiFi，速度約10 Mbps，可用於下載或啟用eSIM。建議在抵達前先購買eSIM並收到QR Code，落地後開飛航模式再關閉以強制連網，然後掃描安裝。若需要當地實體SIM卡，機場內有A1、Telenor等門市，但需出示護照。eSIM則無需實體店，更便利。安裝完成後，手機會自動連線至A1網路，通常5分鐘內可上網。
+    - q: 在瓦爾納機場（VAR）是否可以使用eSIM？訊號強度如何？
+      a: 瓦爾納機場支援eSIM，且多數現代手機均可使用。機場內的網路訊號以4G為主，連線至Telenor時速度約20-30 Mbps，足以應付導航、叫車或分享照片。若從停機坪步行至航廈，短暫切換可能中斷，但進入大廳後恢復穩定。海關檢查區訊號可能減弱，建議通過後再啟用。此機場規模較小，但網路覆蓋已足夠一般使用。
+    - q: 在布爾加斯機場（BOJ）使用eSIM，哪個運營商訊號最好？
+      a: 布爾加斯機場是前往陽光海灘等度假區的主要門戶。根據當地測試，A1在此機場的4G訊號最強，下載速度可達40 Mbps。Vivacom和Telenor也提供良好覆蓋，但在尖峰時段（多班航班同時抵達）可能擁塞。機場大廳內訊號穩定，但停車場外圍可能減弱。建議使用自動網路選擇，系統通常選取最強訊號的站台。
+    - q: 從索菲亞機場搭計程車進市區時，eSIM網路是否穩定？
+      a: 從索菲亞機場沿Tsarigradsko Shose大道駛向市中心時，網路訊號非常穩定，覆蓋4G+，速度約30-50 Mbps。沿途經過地鐵站與商業區，無明顯死角。全程約20分鐘車程，導航與音樂串流順暢。唯獨靠近機場附近的隧道內訊號會短暫中斷約10秒，隨後恢復。整體而言，這段路程的網路體驗良好。
+    - q: 保加利亞機場是否有eSIM自助購買機？如何使用？
+      a: 目前保加利亞各大機場（索菲亞、瓦爾納、布爾加斯）尚未普遍設置eSIM自助販賣機。旅客通常需要在線上事先購買，或前往運營商專櫃。如果您需要立即上網，機場內的A1和Telenor旗艦店有販售實體SIM卡，但無法購買eSIM。建議最晚在出發前一天於線上平台完成eSIM購買，並將QR
+        Code截圖保存，以備離線時使用。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 保加利亞 eSIM 用於 保加利亞 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Bulgaria eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Bulgaria, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like TaxiMe, BG TAXI, Skip use VoIP (internet calling) and in-app messaging.
-        Since you have active Bulgaria eSIM data, drivers can call or message you
-        directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Bulgaria eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Bulgaria eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Bulgaria.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Bulgaria eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Bulgaria eSIM's data network while on
-        the train or in the car.
+    - q: 在索菲亞搭乘地鐵時，eSIM網路連線品質如何？
+      a: 索菲亞地鐵目前有兩條線路，車站內均覆蓋4G訊號，主要運營商A1、Telenor和Vivacom均有服務。地下車站月台區訊號強度約15-25 Mbps，足以發送訊息和瀏覽網頁。列車行駛隧道時，連線可能中斷或降至3G，這是正常現象。建議在站內完成需要網路的操作（如查詢路線）。整體而言，地鐵網路體驗在歐洲屬於中上水準。
+    - q: 從索菲亞到普羅夫迪夫的火車上，eSIM訊號是否連續？
+      a: 從索菲亞中央車站到普羅夫迪夫的火車約2.5小時，途經山區與平原。沿途大約70%的路段有4G訊號，但經過隧道或山坳時可能中斷數分鐘。在普羅夫迪夫接近市區時訊號恢復穩定。若是搭乘高速列車，速度較快可能影響訊號切換。建議在出發前下載地圖，並準備音樂或離線內容以防斷訊。
+    - q: 在瓦爾納市區搭乘公車時，使用eSIM導航會否延遲？
+      a: 瓦爾納的公車路線覆蓋主要街道，例如從海上花園到中央車站路段，4G訊號穩定，延遲約30-50ms，即時導航順暢。在較偏遠的住宅區（如Asparuhovo），訊號可能會降至3G，導致地圖載入稍慢，但仍可持續更新位置。建議出發前預載Google離線地圖，可避免數據延遲的困擾。
+    - q: 在保加利亞使用Bolt叫車，eSIM數據用量大嗎？
+      a: Bolt是保加利亞常見的叫車App，每次使用約消耗3-5MB數據，包括定位、顯示車輛位置與付款頁面。一天叫車5次約使用25MB，相當節省。eSIM方案通常提供足夠流量。然而，定位在密集建築區（如索菲亞市中心）可能略不精準，建議站在開闊處等候。若數據已降速，Bolt仍可運作但地圖更新較慢。
+    - q: 從索菲亞到里拉七湖自駕，eSIM在山區訊號如何？
+      a: 自駕前往里拉七湖的路線先經高速公路（A1覆蓋良好），但進入山區後，離開主幹道（如通往Rila Monastery路段）訊號逐漸減弱，僅有間歇2G/3G。在停車場與遊客中心，A1提供4G訊號。登山步道多處無覆蓋。建議在出發前下載離線地圖，並將eSIM備用於緊急通訊。即使訊號弱，Google地圖離線模式仍可持續導航。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 保加利亞 的飯店使用 保加利亞 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Bulgaria eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Bulgaria eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at InterContinental Sofia, Hilton Sofia, Hotel Marriott
-        Sofia or a local guesthouse, you can input the address into Google Maps and
-        get turn-by-turn walking or transit directions using your Bulgaria eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Bulgaria eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Bulgaria eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Glovo, Takeaway.com, Foodpanda and use
-        your Bulgaria eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Bulgaria eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 在索菲亞希爾頓酒店內使用eSIM，WiFi和行動網路哪個更快？
+      a: 希爾頓索菲亞酒店提供免費WiFi，速度約50-80 Mbps，相當可靠。但若您選擇使用eSIM，連接A1網路時，速度約30-50 Mbps，仍足夠串流影片。酒店位於市中心，行動網路訊號良好。若入住高層房間，4G訊號不受影響。建議數據用量大時使用飯店WiFi，外出時則用eSIM。
+    - q: 普羅夫迪夫萬豪酒店的房間內，eSIM訊號是否穩定？
+      a: 萬豪酒店位於普羅夫迪夫市中心，客房內連接到Telenor網路的下載速度約25-40 Mbps，訊號穩定。靠近窗戶或陽台時速度更佳。酒店建築使用大量石牆，可能輕微屏蔽訊號，但整體影響不大。若多人同時連線，晚間可能稍慢，但基本瀏覽與視訊通話可順暢進行。
+    - q: 瓦爾納格蘭德酒店（Grand Hotel Varna）的私人海灘區域，eSIM網路速度如何？
+      a: 瓦爾納格蘭德酒店擁有私人海灘，位於海濱，距離市中心約1公里。在此區域，Vivacom提供4G訊號，下載速度約20-30 Mbps。由於開放空間，訊號傳播良好，但度假旺季時眾多遊客同時使用可能使速度降至10
+        Mbps。建議在非尖峰時段（上午）上傳照片，可獲得較快體驗。
+    - q: 在保加利亞的Airbnb住宿，eSIM是否比WiFi更可靠？
+      a: 保加利亞的Airbnb多數提供WiFi，但速度與穩定性不一。部分老建築的WiFi可能很慢（如普羅夫迪夫老城區的公寓）。eSIM則提供一致的行動網路，在都市區域通常下行速度在20-50
+        Mbps。若您需要穩定連線進行視訊會議或串流，eSIM是更好的備援。建議先測試民宿WiFi，若不夠用則切換至eSIM。
+    - q: 入住保加利亞山區小屋（如里拉國家公園內），有eSIM訊號嗎？
+      a: 里拉國家公園內的山區小屋（如Moussala Hut）通常位於海拔高處，僅有微弱或無行動網路訊號。部分小屋提供衛星電話等設施。eSIM在此類區域幾乎無法使用，因為運營商基地台距離遙遠。建議在進入山區前下載所有必要資訊，並告知留守人員行程。離開公園範圍後，訊號將逐步恢復。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 保加利亞 旅遊景點的網路：保加利亞 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Rila Monastery, Alexander Nevsky Cathedral, Old Nessebar
-        spontaneously, you can use your Bulgaria eSIM data to buy skip-the-line tickets
-        online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Bulgaria eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Bulgaria.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Bulgaria eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Bulgaria eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Bulgaria eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Bulgaria eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Bulgaria eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Bulgaria eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Bulgaria eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Bulgaria eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Glovo, Takeaway.com, Foodpanda, register
-        using your email or social accounts, and order food seamlessly using your
-        Bulgaria eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Revolut,
-        epay.bg, PayPal require a brief internet handshake, which your Bulgaria eSIM
-        handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Bulgaria eSIM to find hidden culinary gems in the city.
+    - q: 參觀里拉七湖時，使用eSIM分享照片到社群媒體方便嗎？
+      a: 里拉七湖是保加利亞著名的自然景點，但在湖區大部分區域（尤其是高海拔）網路訊號微弱或無訊號。只有在纜車上站的遊客中心及山腳停車場，A1或Telenor提供4G訊號，速度約15-25
+        Mbps，足以即時上傳照片。建議在抵達高處湖區前，先在訊號好的地方上傳。若想直播，需確保穩定用WiFi，否則可能斷線。
+    - q: 在普羅夫迪夫老城區漫步時，Google Maps導航是否順暢？
+      a: 普羅夫迪夫老城區的街道狹窄蜿蜒，但網路覆蓋良好。使用eSIM時，Telenor訊號可提供即時導航，定位誤差約5-10米。在古羅馬劇場附近，路徑更新順暢。然而，某些小巷可能因建築陰影導致定位漂移，建議配合街景判斷。數據用量不大，每小時約10-15MB。
+    - q: 前往內塞巴爾古城時，eSIM訊號能支援社群媒體直播嗎？
+      a: 內塞巴爾古城位於黑海沿岸，網速通常穩定。使用A1網路時，下載速度約30-50 Mbps，上傳約10-15 Mbps，可進行720p直播。古城內海旁步道與教堂附近訊號最佳。但建築密集區可能略降速。直播時建議避免移動太快，以維持穩定串流。晚間遊客較少時，直播品質更佳。
+    - q: 在索菲亞國家文化宮（NDK）附近，使用eSIM打卡會很慢嗎？
+      a: NDK是索菲亞的地標，周圍廣場與公園有極佳的4G覆蓋。連線Vivacom時，速度可達40-60 Mbps，即時上傳打卡照片與影片毫無壓力。即使參加大型活動（如音樂節），網路仍保持可用，但可能降速至10-20
+        Mbps。建議在此使用即時通訊軟體分享位置給朋友。
+    - q: 騎行遊覽博亞納教堂（Boyana Church）時，eSIM導航是否可靠？
+      a: 博亞納教堂位於索菲亞郊區維托沙山腳，沿途網路訊號良好。從市中心騎行至教堂約8公里，使用Google Maps時，全程語音導航順暢，僅在森林路段偶有延遲。教堂區域訊號強度約20
+        Mbps。建議騎行前確保eSIM數據充足，並預先下載離線地圖以防萬一。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 保加利亞 eSIM 在 保加利亞 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Bulgaria eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Bulgaria eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Bulgaria eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Bulgaria
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Bulgaria eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Bulgaria eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Bulgaria eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在保加利亞使用Instagram限時動態，哪個運營商上傳速度最快？
+      a: 根據多數使用者回饋，Telenor在索菲亞和瓦爾納的上傳速度約15-25 Mbps，適合上傳限時動態。A1在城市區域稍快，但差異不大。建議在訊號條滿格時拍攝與上傳。若上傳失敗，可關閉數據再重開，或切換到Vivacom嘗試。上傳1080p影片通常耗時10-20秒。
+    - q: 在保加利亞與家人視訊通話（如WhatsApp或FaceTime），eSIM延遲高嗎？
+      a: 在主要城市（索菲亞、普羅夫迪夫）使用eSIM進行視訊通話，網路延遲約50-80ms，通話品質清晰。在瓦爾納海灘區域，若使用A1，偶爾出現輕微停頓，但整體可接受。建議避免在人潮擁擠的熱點（如購物中心）進行視訊，以減少延遲。若需高品質通話，連接飯店WiFi更佳。
+    - q: 在保加利亞使用TikTok觀看短影音，會消耗大量數據嗎？
+      a: TikTok短期觀看每分鐘約使用15-30MB，取決於畫質。eSIM方案若每日上限1GB，約可觀看30-45分鐘。為了避免超出限制，建議在有WiFi時預先快取影片，或關閉行動數據自動播放。在4G網路下，TikTok影片載入迅速，無明顯緩衝。晚上熱門時段可能因網路負載導致載入稍慢。
+    - q: 在保加利亞偏遠地區（如大特爾諾沃）使用Facebook Messenger，訊息傳送會延遲嗎？
+      a: 大特爾諾沃是歷史古城，市區網路覆蓋良好，使用A1傳送Messenger文字訊息幾乎即時發送。但在山丘上的城堡區，訊號可能降至3G，訊息稍需數秒傳送。圖片發送可能需要10-15秒。建議在穩定區域發送較大檔案。整體而言，Messenger在保加利亞的可靠性高。
+    - q: 在保加利亞使用Skype通話，eSIM是否支援語音與影像？
+      a: Skype通話在保加利亞的4G網路下表現出色，語音清晰，影像流暢。使用Telenor網路時，通話品質穩定，輕微封包遺失不會影響對話。若切換至3G，影像可能模糊。建議在信號良好的地方通話。Skype對頻寬要求不高，256kbps即可語音通話，因此即使降速後仍勉強可用。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 保加利亞 使用 保加利亞 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Bulgaria, you can dial local emergency numbers like 112, 150, 160, 166
-        directly from your phone's dialer regardless of your active SIM, as long as
-        your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Bulgaria eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Bulgaria eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Bulgaria eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Bulgaria eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Bulgaria eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Bulgaria eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Bulgaria eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Bulgaria eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Bulgaria eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Bulgaria eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Bulgaria eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Bulgaria eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在保加利亞遇到緊急情況，如何撥打112？即使無SIM卡或無餘額也能撥通嗎？
+      a: 在保加利亞，緊急電話112是通用的歐盟緊急號碼，即使手機沒有SIM卡或無餘額，只要手機有電且在有任何運營商訊號（即使非註冊網路）的區域，都可撥打112。請確保手機未鎖定緊急呼叫。撥通後會連接至當地的警察、消防或醫療服務。建議牢記此號碼，並在抵達時確認手機可正常撥打112。
+    - q: 在保加利亞山區健行時，若發生意外且無手機訊號，該如何求救？
+      a: 保加利亞山區（如里拉、皮林山脈）部分區域無行動網路覆蓋。若遇到緊急情況，建議先嘗試移動至高處或開闊地以獲得訊號。此外，可使用衛星求救裝置（如SPOT或Garmin
+        inReach）傳送求救訊號。出發前務必將行程告知飯店或友人，並下載離線地圖。若無衛星設備，應沿主要步道返回至有訊號的區域再撥打112。
+    - q: 在索菲亞市區手機被偷，應如何處理？
+      a: 首先立即撥打112報案，警察會需要您的護照資訊與手機IMEI碼（可在手機盒上找到）。同時，聯絡eSIM客服停用eSIM以防止盜用。若曾開啟尋找我的手機功能，可嘗試遠端定位或鎖定。建議前往最近警局（如索菲亞中央警察局，位於Serdika地鐵站附近）做筆錄，以獲得報案證明用於保險理賠。
+    - q: 在保加利亞海灘（如瓦爾納）溺水或受傷時，如何取得緊急醫療協助？
+      a: 在瓦爾納海灘，海灘救生員通常配備急救設備，應先向他們求助。若情況嚴重，立即撥打112，救護車會從瓦爾納的醫院（如St. Marina University
+        Hospital）出車。提供準確的位置描述，如靠近哪間飯店或地標。非旺季時海灘救生員較少，建議直接撥打112。請確保手機電量充足，並知道所在沙灘的名稱。
+    - q: 若在保加利亞遇到地震，如何使用eSIM獲取即時資訊？
+      a: 保加利亞位於地震帶，地震發生時，可透過eSIM連線至保加利亞國家地震中心網站（如www.seismology.bg）或歐盟緊急警報系統。4G網路通常在地震後維持服務，但可能因基地台受損而中斷。建議在安全處所使用社群媒體（如Twitter搜尋#земетресение）獲取更新。若訊號擁擠，簡訊可能比數據更易傳送。
+    - q: 在保加利亞自駕途中車輛故障，如何聯絡道路救援？
+      a: 若車輛故障，首先停至安全路肩並開啟雙黃燈。可撥打112或聯繫租車公司提供的道路救援電話。保加利亞主要運營商A1和Telenor的4G網路在主要公路（如Trakia高速公路）覆蓋良好。也可使用手機App（如Uber或Bolt叫車）但較不適合。建議事先儲存租車公司緊急聯絡號碼。若無法通話，可嘗試發簡訊至112，說明位置與情況。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 保加利亞 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Bulgaria eSIM vs SIM Card Plans: Which One Fits Your Needs?"
-  subtitle: "Bulgaria Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Bulgaria) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Bulgaria"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Bulgaria eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Must purchase at A1, Yettel, or Vivacom stores or airport kiosks; passport required for KYC registration; A1 Vacation Plus costs €3.07 for 1.5GB."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip A1, Yettel, or Vivacom store queues and passport checks. Activate your Roami eSIM online within 1 minute after landing in Sofia."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All operators require valid passport or ID for mandatory registration; A1 and Vivacom limit SIM cards to 10 per person."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid mandatory passport registration required by all Bulgarian operators. Roami eSIM needs no ID verification, saving 30+ minutes at the airport."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Yettel Data-only SIM blocks international roaming entirely; A1 Max includes 15GB with EU roaming but FUP applies; Vivacom Data2Go 80GB plan offers only 19.7GB in EU (75% reduction)."
-      esim_title: "Seamless EU Roaming"
-      esim_desc: "Unlike Yettel's Data-only SIM which blocks roaming entirely, Roami eSIM works across Bulgaria, Greece, and Romania with no FUP caps or extra charges."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "A1 Max valid for 19 days (€5.11/15GB); Vivacom Data2Go valid for 28 days (€12.89/80GB); most plans have 30-day cycles; a 5-day trip wastes over 80% of plan value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike A1's 19-day cycle (€5.11/15GB) or Vivacom's 28-day cycle (€12.89/80GB), Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed but may be restricted on some plans."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike some Bulgarian prepaid plans that may restrict tethering. Share data across all your devices."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "In-store cash payment accepted; online top-up via credit card may fail due to 3D Secure; Vivacom MixL+ auto-renews every 21 days requiring 'STOP' SMS to cancel."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. Avoid Bulgarian online top-up failures due to 3D Secure or auto-renewal traps like Vivacom MixL+."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is typically in Bulgarian with limited English availability."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock English support via live chat or email, unlike Bulgarian operators' limited Bulgarian-only phone support during business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Bulgaria eSIM vs Prepaid SIM: Cost and Convenience Compared"
-    cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Bulgaria's Strict SIM Passport Requirements"
-        desc: "All Bulgarian operators (A1, Yettel, Vivacom) require <b>valid passport or ID</b> for mandatory KYC registration. Roami eSIM needs no ID, saving you from airport queues and potential system delays."
-      - icon: "globe"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "No EU Roaming Data Caps Like Vivacom"
-        desc: "Vivacom's 80GB Data2Go plan offers only <b>19.7GB</b> in the EU (75% reduction). Roami eSIM provides full data allowance across Europe with no throttling."
-      - icon: "wifi"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Unrestricted Hotspot Sharing"
-        desc: "Some Bulgarian prepaid plans restrict tethering or throttle after a limit. Roami eSIM allows <b>full-speed hotspot</b> on all devices, perfect for sharing with travel companions."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation vs. 30-Min Store Visits"
-        desc: "Buying a local SIM requires finding a store, queuing, and passport registration (up to 30 minutes). Roami eSIM activates <b>within 1 minute</b> after purchase."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

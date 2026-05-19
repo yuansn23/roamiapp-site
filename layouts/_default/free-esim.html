@@ -387,10 +387,7 @@
 
                         <div class="px-6 py-6 h-[60vh] sm:h-auto overflow-y-auto">
                             {{ $randNum := add 322 (mod (mul (len .name) 43) 970) }}
-                            <div class="flex items-center gap-2 mb-4 bg-orange-50 text-orange-800 px-4 py-2.5 rounded-lg border border-orange-100 shadow-sm">
-                                <span class="text-lg animate-pulse" aria-hidden="true">🔥</span>
-                                <span class="text-sm font-medium"><strong class="text-orange-600 text-base">{{ $randNum }}</strong> {{ $.Params.ui.modal.claimed_text_part1 | default "travelers have claimed their free" }} {{ .name }} {{ $.Params.ui.modal.claimed_text_part2 | default "eSIM this week." }}</span>
-                            </div>
+                            
 
                             <div class="bg-gradient-to-r from-blue-600 to-blue-800 rounded-xl p-6 text-white mb-6 shadow-lg relative overflow-hidden">
                                 <svg class="absolute right-0 top-0 h-full w-32 text-white/10 transform translate-x-8" fill="currentColor" viewBox="0 0 100 100" aria-hidden="true"><path d="M50 0L100 50L50 100L0 50Z"/></svg>
@@ -438,19 +435,7 @@
                                 </div>
                             </div>
 
-                            <div class="mb-6">
-                                <h3 class="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
-                                    <span class="bg-blue-100 text-blue-600 p-1.5 rounded-md" aria-hidden="true">⚙️</span> 
-                                    {{ $.Params.ui.modal.how_to_title | default "How to activate your free" }} {{ .name }} {{ $.Params.ui.modal.how_to_suffix | default "eSIM" }}
-                                </h3>
-                                <div class="bg-white p-5 rounded-xl border border-slate-200 shadow-sm">
-                                    <ol class="list-decimal list-inside text-sm text-slate-600 space-y-3 marker:text-blue-600 marker:font-bold">
-                                        <li><strong>{{ $.Params.ui.modal.step1_title | default "Claim your trial:" }}</strong> {{ $.Params.ui.modal.step1_desc | default "Tap the claim button below to get your unique QR code." }}</li>
-                                        <li><strong>{{ $.Params.ui.modal.step2_title | default "Scan & Install:" }}</strong> {{ $.Params.ui.modal.step2_desc | default "Go to your phone's settings and scan the QR code before you travel to" }} {{ .name }}.</li>
-                                        <li><strong>{{ $.Params.ui.modal.step3_title | default "Connect automatically:" }}</strong> {{ $.Params.ui.modal.step3_desc | default "Once you arrive in" }} {{ .name }}, {{ $.Params.ui.modal.step3_desc_2 | default "turn on the eSIM and enjoy instant local data." }}</li>
-                                    </ol>
-                                </div>
-                            </div>
+                          
 
                             {{ if and .details .details.tips }}
                             <div class="mb-6">

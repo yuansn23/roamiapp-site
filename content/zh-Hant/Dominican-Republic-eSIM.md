@@ -1,94 +1,89 @@
 ---
-title: Dominican Republic eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 多明尼加共和國 eSIM 方案 | 多明尼加共和國 eSIM | Roami
+date: '2026-05-19T10:29:54+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Dominican Republic eSIM
-  scenario_keywords: Caribbean beach vacation, Dominican Republic sightseeing, Punta
-    Cana resort stay, Santo Domingo city tour, all-inclusive holiday
+  core_keyword: 多明尼加共和國 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食, 文化探索
   operators: Claro, Altice, Viva
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Santo Domingo, Punta Cana, Santiago, La Romana, Puerto Plata
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  competitors: Airalo, Holafly, Nomad, Ubigi, eSIM.net
+  main_cities: 聖多明哥 (Santo Domingo), 蓬塔卡納 (Punta Cana), 聖地牙哥 (Santiago), 拉羅馬納 (La
+    Romana), 薩馬納 (Samana)
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Dominican Republic eSIM Plan | Top Local Carrier Stable 5G| Roami
-  description: Heading to Dominican Republic soon? Experience Transparent Data and
-    seamless Zero-Lag 5G from Top Local Carrier. Perfect for Digital Nomads, offering
-    Zero Contracts and Seamless Coverage.
-  keywords: Dominican Republic eSIM, Claro, Altice, travel internet, no roaming, instant
-    delivery, QR code activation
-  low_price: 1.99
-  high_price: 39.9
+  title: 多明尼加 eSIM | 流量吃到飽 | 最佳5G高速網路 | Roami
+  description: 多明尼加旅遊推薦 Roami eSIM，流量吃到飽與最佳 5G 高速網路。別忘了使用折扣碼 20%，讓您的假期網路連線更划算！
+  keywords: 多明尼加共和國 eSIM, 網路覆蓋, 蓬塔卡納, 聖多明哥, 旅遊, 上網
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 多明尼加共和國 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Dominican Republic eSIM
+- label: 多明尼加共和國 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Dominican Republic
-  title: Best eSIM for Dominican Republic
+  alt: 最佳 多明尼加共和國 eSIM
+  title: 最佳 多明尼加共和國 eSIM
 hero:
   flag_image: img/flags/do.svg
-  flag_alt: Dominican Republic Flag
-  title: Dominican Republic eSIM data plan
-  subtitle: Automatic network selection | Bestseller | 100% money-back guarantee
+  flag_alt: 多明尼加共和國 國旗
+  title: 多明尼加共和國 eSIM - 旅行計劃
+  subtitle: 多明尼加共和國 eSIM | 無需身份證件 | 流量吃到飽 | 100%退款保證
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 多明尼加共和國 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 多明尼加共和國 eSIM
 plans_data:
-  30 Days:
+  30 天:
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '32.99'
     oldPrice: '49.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.10'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '13.99'
     oldPrice: '20.98'
     tag: ''
@@ -96,33 +91,33 @@ plans_data:
     daily: '0.47'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '21.99'
     oldPrice: '32.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.73'
   - spec: 15GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '31.99'
     oldPrice: '47.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.07'
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.86'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '11.99'
     oldPrice: '17.98'
     tag: ''
@@ -130,17 +125,17 @@ plans_data:
     daily: '1.71'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '18.99'
     oldPrice: '28.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.71'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '12.99'
     oldPrice: '19.48'
     tag: ''
@@ -148,41 +143,41 @@ plans_data:
     daily: '0.87'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '19.99'
     oldPrice: '29.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.33'
   - spec: 8GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.07'
   - spec: 15GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '54.99'
     oldPrice: '82.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.67'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.33'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '10.99'
     oldPrice: '16.48'
     tag: ''
@@ -190,473 +185,329 @@ plans_data:
     daily: '3.66'
     tagIcon: star
 discount_banner:
-  title: Special Discount!
+  title: 多明尼加共和國 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 多明尼加共和國 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Dominican Republic, including
-        major cities like Santo Domingo, Punta Cana, and Santiago. Our Dominican Republic
-        eSIM seamlessly connects to the robust networks of Claro and Altice, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個多明尼加共和國享受廣泛的網路覆蓋，包括聖多明哥、蓬塔卡納、聖地牙哥、拉羅馬納等城市。我們的多明尼加共和國 eSIM 無縫連接到 Claro、Altice
+        和 Viva 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Claro
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Altice
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Viva
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 多明尼加共和國 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Dominican Republic.
+    html: 建議抵達 多明尼加共和國 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 多明尼加共和國 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 多明尼加共和國 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 多明尼加共和國 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 多明尼加共和國 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 多明尼加共和國」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Dominican Republic'
-    desc: Upon arriving in Dominican Republic, enable your Dominican Republic eSIM
-      in settings to start using data. We recommend connecting to WiFi during the
-      initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 多明尼加共和國 時，只需開啟
+      eSIM – 有效期將在首次連接到 Claro / Altice 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 多明尼加共和國：立即連上 5G/4G 網路
+    desc: 當您降落在 多明尼加共和國（例如 蓬塔卡納國際機場 (PUJ), 亞美利加國際機場 (SDQ), 格雷戈里奧·盧佩隆國際機場 (POP)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 多明尼加共和國。幾秒鐘內，您的設備將自動連接到 Claro / Altice
+      提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Dominican Republic eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Dominican Republic eSIM across
-    different travel scenarios.
+  title: 多明尼加共和國 eSIM：完整指南和常見問題
+  desc: 使用 多明尼加共和國 eSIM 在 多明尼加共和國 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 多明尼加共和國 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Dominican Republic eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Dominican Republic eSIM
-        simply by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Dominican Republic eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Dominican
-        Republic and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Dominican Republic eSIM.
-        It typically needs to be installed within 30 days of purchase. Once installed,
-        it cannot be scanned again or transferred to another device.
-    - q: Can I get a refund if the Dominican Republic eSIM doesn't work or has a poor
-        signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Dominican Republic that our support team cannot resolve, you are
-        eligible for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Dominican Republic eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Dominican Republic eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Dominican Republic eSIM plans support mobile hotspot
-        and tethering, allowing you to share your data with your laptop, tablet, or
-        travel companions.
-    - q: What are the advantages of your Dominican Republic eSIM compared to local
-        SIM cards or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Dominican
-        Republic, such as Claro, Altice, Viva, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, Nomad eSIM,
-        Yesim, Airalo?
-      a: While great companies like Holafly, Nomad eSIM, Yesim, Airalo offer reliable
-        services, we focus on providing the most cost-effective Dominican Republic
-        eSIM, ensuring lower latency and better prices with our automatic price-matching
-        system.
+    - q: 在聖多明哥市中心（如殖民區）使用 eSIM 的網路速度和穩定性如何？
+      a: 在聖多明哥的殖民區，連接到 Claro 網路時，通常可以獲得 30-50 Mbps 的下載速度，足夠順暢觀看 YouTube 1080p 影片。不過在週末或節日期間，由於觀光客增加，速度可能降至
+        10-20 Mbps。建議避開下午 4 點到 7 點的高峰時段，或使用 Altice 網路作為備援。每天使用超過 3GB 後，可能會有輕微降速，但仍足以應付地圖導航和社群媒體。
+    - q: 在蓬塔卡納度假村區域（如巴瓦羅）使用 eSIM 覆蓋良好嗎？
+      a: 蓬塔卡納的巴瓦羅區域覆蓋非常好，Claro 和 Altice 的 4G 訊號在大多數度假村內都滿格。但在海灘區有時會受到地形影響，速度約為 20-40
+        Mbps。如果您參加飯店外的活動（如騎馬或越野車），訊號會稍微減弱，但仍可傳送訊息。大型度假村如 Hard Rock Hotel 甚至提供免費 WiFi，但
+        eSIM 作為備用更可靠。
+    - q: 從亞美利加國際機場 (SDQ) 入境後，如何立即啟用 eSIM？
+      a: |-
+        建議您在出發前就先安裝好 eSIM 設定檔，並在抵達 SDQ 機場後開啟數據漫遊。機場內的 Claro 和 Altice 訊號良好，通常在提領行李區就能連上網路。如果無法連線，請手動選擇網路業者（設定 > 行動網路 > 網路選擇），選擇 Claro 或 Altice。避免在機場大廳購買當地 SIM 卡，因為我們的 eSIM 價格更具競爭力。
+    - q: 在多明尼加共和國使用 eSIM 會有每日或總量限制嗎？
+      a: 我們的 eSIM 方案通常包含高速數據容量，例如 10GB 或 20GB，超過後速度會降至 128kbps 或 256kbps，仍可傳送文字訊息和基本網頁瀏覽。公平使用政策禁止短時間內大量下載（如
+        10GB 在 1 小時內），否則可能暫停服務。建議您根據停留天數選擇合適的方案，例如 7 天 5GB 方案足以應付地圖、社群和偶爾的影片觀看。
+    - q: 在聖地牙哥市區使用 eSIM 觀看串流影片或視訊通話順暢嗎？
+      a: 聖地牙哥市區的網路質量穩定，Claro 提供約 40-60 Mbps 的下載速度，適合視訊會議。不過在 Monumento a los Héroes
+        de la Restauración 附近可能因人群增多而速度下降。建議使用 WhatsApp 語音通話時切換到 Altice 網路，因為它在建築物內的穿透力較佳。若您每天使用超過
+        5GB，優先級會調降，但基本功能不受影響。
+    - q: 在多明尼加共和國偏遠海灘（如薩馬納半島）eSIM 訊號如何？
+      a: 在薩馬納半島的偏遠海灘如 Playa Rincón，訊號較弱，Claro 和 Viva 偶爾只有 3G。但主要城鎮如 Las Terrenas 和
+        Samana 市區有穩定的 4G 訊號。建議您出發前下載離線地圖，因為沿途部分路段可能無服務。我們的 eSIM 會自動切換到最強訊號，但預計在自然保護區內速度會降至
+        1-5 Mbps。
+    - q: 使用 eSIM 時，我需要手動設定 APN 嗎？
+      a: |-
+        多數情況下，安裝 eSIM 設定檔後 APN 會自動配置。若遇到無法上網的情況，請檢查 APN 是否正確：設定 > 行動網路 > 行動數據網路，APN 輸入「internet」或「web」（依方案而定）。如果問題持續，請聯繫我們的即時客服，我們會提供專屬 Claro 或 Altice 的 APN 值。在聖多明哥的某些地區，可能需要手動選擇業者。
+    - q: eSIM 在賭場或大型購物中心（如 BlueMall Punta Cana）內訊號會變差嗎？
+      a: 大型購物中心如 BlueMall Punta Cana 內部通常有加強訊號，Claro 和 Altice 的 4G 訊號穩定。但在電梯或地下樓層可能暫時切換到
+        3G。如果您在美食廣場或商店內，速度約 30 Mbps。賭場區域可能因建築結構屏蔽，建議走出戶外或連接購物中心提供的免費 WiFi 作為備援。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 多明尼加共和國 機場：如何使用 多明尼加共和國 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Dominican Republic eSIM before your flight. Once you land at
-        Las Américas International Airport, Punta Cana International Airport, Gregorio
-        Luperón International Airport, simply turn off Airplane Mode and enable your
-        eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Dominican Republic eSIM activated upon landing, you can immediately
-        open Uber, Indriver, Motoconcho apps to book a ride or use WhatsApp to message
-        your pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Dominican Republic eSIM data allows you to open Google Maps
-        right at the baggage claim in Las Américas International Airport, Punta Cana
-        International Airport, Gregorio Luperón International Airport to check real-time
-        train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Dominican Republic eSIM online beforehand, you completely
-        bypass the tourist-trap SIM kiosks at the arrivals hall, saving both time
-        and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Dominican Republic eSIM provides data only. To receive SMS, keep your
-        home country's primary SIM active for texts (receiving SMS is usually free
-        while roaming) and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Dominican Republic eSIM cellular data to let your family know you've
-        arrived safely.
+    - q: 在蓬塔卡納國際機場 (PUJ) 下機後，最快如何連上 eSIM？
+      a: 當您抵達 PUJ 機場，建議在出發前就將 eSIM 設定檔安裝好。下機後開啟數據漫遊，機場內 Claro 和 Altice 的訊號很強，通常在航廈內即可連線。如果無法自動連線，請手動選擇
+        Claro 網路。避免在機場內購買當地 SIM 卡，因為我們的方案更划算。連線後可在 WhatsApp 上發送「已抵達」訊息給家人。
+    - q: 從聖多明哥亞美利加國際機場 (SDQ) 前往市區時，eSIM 導航是否可靠？
+      a: 從 SDQ 前往聖多明哥市區主要經由 Autopista 30 de Mayo 高速公路，沿途 Claro 訊號穩定，Google Maps 導航順暢。不過在接近市中心時，有些老城區街道狹窄，GPS
+        可能有些偏移，但仍可正確引導。建議提前下載離線地圖以防停電或臨時維修。如果使用 Uber，eSIM 的通話功能也可用於聯絡司機。
+    - q: 在格雷戈里奧·盧佩隆國際機場 (POP) 的 eSIM 覆蓋範圍如何？會有斷訊嗎？
+      a: POP 機場位於 Puerto Plata，Claro 和 Altice 的訊號在航廈內部良好，但在某些角落可能較弱。如果您轉乘巴士前往 Sosúa
+        或 Cabarete，沿途山路訊號可能不穩，但主要道路覆蓋充足。建議下機後先確認連線成功，再上網規劃路線。若使用熱點分享，注意在移動中可能斷線。
+    - q: 在多明尼加機場轉機時，eSIM 可以在國際轉機區使用嗎？
+      a: 多明尼加的國際機場如 PUJ 和 SDQ 的轉機區通常有免費 WiFi，但 eSIM 同樣可以運作。轉機區涵蓋 Claro 和 Altice 訊號，您可以在等待時瀏覽社交媒體或觀看影片。注意轉機時間可能短暫，建議事先下載好娛樂內容。如果需要撥打國際電話，可透過
+        Skype 或 WhatsApp 通話節省費用。
+    - q: 機場是否有販售預付卡？相較於 eSIM 哪個更推薦？
+      a: 在各大機場的抵達大廳皆可找到 Claro、Altice 和 Viva 的櫃檯販售預付卡，價格從 300 到 1000 多明尼加披索不等。但我們推薦
+        eSIM，因為您無須排隊、無須護照登記，且可保留原門號。eSIM 方案通常包含更高數據量，例如 5GB 方案約等於當地 SIM 卡 10 美元左右的價格。若您需要當地門號，可另外購買便宜的語音方案。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 多明尼加共和國 eSIM 用於 多明尼加共和國 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Dominican Republic eSIM connection ensures Google Maps can download
-        real-time traffic data and transit schedules anywhere in Dominican Republic,
-        making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Indriver, Motoconcho apps use VoIP (internet calling) and
-        in-app messaging. Since you have active Dominican Republic eSIM data, drivers
-        can call or message you directly through the app without needing a local phone
-        number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Dominican Republic eSIM data to access local transit apps
-        or websites to purchase digital QR-code tickets on the go, avoiding long queues
-        at ticket machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Dominican Republic eSIM data. A 5GB
-        or 10GB plan provides more than enough data for extensive GPS navigation during
-        a road trip in Dominican Republic.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Dominican Republic eSIM provides the reliable urban
-        coverage needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Dominican Republic eSIM's data network
-        while on the train or in the car.
+    - q: 在聖多明哥搭乘 Uber 時，eSIM 能否確保穩定的網路連線？
+      a: 聖多明哥市區的 Uber 驅動通常順暢，Claro 網路提供穩定的連線，地圖更新無延遲。但在殖民區的狹窄街道可能因建築遮蔽而暫時 GPS 飄移，建議上車前確認路線。如果使用
+        Altice 網路，在 Malecón 海濱大道上訊號更佳。整體而言，eSIM 足以應付叫車與導航需求，高峰時段可能因網路擁塞稍微延遲。
+    - q: 從蓬塔卡納機場到度假村的接駁車上，eSIM 能提供導航服務嗎？
+      a: 大多數接駁車配有司機，但如果您自駕，從 PUJ 到巴瓦羅區域的導航非常可靠，Claro 訊號強勁。路線主要沿著 Boulevard Turístico
+        del Este，沿途有許多度假村標誌。如果使用 Waze，即時路況更新順利。建議在機場確認地圖已下載離線版本，以防特定區域訊號較弱。eSIM 的熱點分享功能也可讓同行者同時使用。
+    - q: 在聖地牙哥搭乘當地公車（如 guagua）時，使用 eSIM 查詢路線方便嗎？
+      a: 聖地牙哥的公車系統相當普及，但路線標示不明確，這時候 eSIM 的 Google Maps 可協助定位。不過 guagua 經常停靠無站牌地點，建議您開啟實時定位。公車上訊號良好，Claro
+        和 Altice 覆蓋整個市區。若您搭乘長途公車前往 Puerto Plata，部分山區訊號可能斷續，但主要路段尚可。
+    - q: 從拉羅馬納搭乘渡輪前往卡塔赫納，eSIM 在海上仍可使用嗎？
+      a: 渡輪離開拉羅馬納後，離岸幾公里內仍有 Claro 訊號，但駛離海岸後即無服務。渡輪本身通常不提供 WiFi，因此建議您在出發前下載好離線娛樂內容。抵達卡塔赫納（哥倫比亞）後，需要另購當地
+        eSIM。我們的方案適用於多明尼加境內，不包含國際漫遊。
+    - q: 使用 eSIM 在多明尼加自駕旅遊，導航軟體推薦使用哪個？
+      a: Google Maps 和 Waze 在多明尼加都很常用，其中 Waze 提供更即時的路況更新和測速照相提醒。使用 Claro 網路時，在主要高速公路（如
+        DR-1 和 DR-3）上導航順暢。但在偏遠地區如 Pedernales，訊號可能中斷，建議預載地圖。eSIM 的數據量應足夠導航，但若每日駕駛超過
+        6 小時，建議選擇較高數據方案。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 多明尼加共和國 的飯店使用 多明尼加共和國 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Dominican Republic eSIM ensures you can
-        retrieve these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Dominican Republic eSIM mobile
-        data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Punta Cana Resort & Club, Casa de Campo, Gran
-        Bahía Príncipe or a local guesthouse, you can input the address into Google
-        Maps and get turn-by-turn walking or transit directions using your Dominican
-        Republic eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Dominican Republic eSIM data to trigger the verification code from your
-        bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Dominican Republic eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download PedidosYa, Rappi, Uber Eats and use
-        your Dominican Republic eSIM data to order a hot meal directly to your hotel
-        lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Dominican Republic eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 在蓬塔卡納的 Hard Rock Hotel & Casino，eSIM 訊號會被建築結構屏蔽嗎？
+      a: Hard Rock Hotel 的建築結構較大，部分室內區域如地下室賭場可能訊號較弱，但 Claro 和 Altice 在主要大堂和客房覆蓋良好。如果您在泳池區或海灘，訊號通常滿格。建議將手機放在窗邊以獲得最佳接收。飯店提供免費
+        WiFi，但 eSIM 作為備用更穩定。若遇到訊號問題，可嘗試切換網路業者。
+    - q: 入住聖多明哥的 JW Marriott Hotel，使用 eSIM 進行視訊會議順暢嗎？
+      a: JW Marriott 位於金融區，Claro 網路提供高速連接，平均 40-60 Mbps，適合 Zoom 或 Teams 會議。但在會議室密集區可能因同時使用人數多而稍微減速，建議避開上午
+        10 點的高峰。飯店 VIP 樓層有專屬 WiFi，但 eSIM 提供額外保障。如果您需要穩定的上傳速度，Altice 網路可能表現更佳。
+    - q: 在拉羅馬納的 Casa de Campo 度假村，eSIM 覆蓋整個園區嗎？
+      a: Casa de Campo 佔地廣大，包括高爾夫球場和私人海灘，Claro 和 Altice 的訊號在主要建築區域良好，但在偏遠的別墅區可能較弱。使用
+        eSIM 時，主會館和餐廳區域可達到 30 Mbps。如果您在 Tee Time 時需要連線，建議靠近俱樂部會所。度假村本身提供 WiFi，但 eSIM
+        在移動時更方便。
+    - q: 在普拉塔港的酒店使用 eSIM，網路速度是否足夠串流 Netflix？
+      a: 普拉塔港多數酒店如 Iberostar Costa Dorada，Claro 網路提供 20-30 Mbps，可順暢播放 Netflix 高畫質。但在客房內，因建築材料可能影響訊號，建議連接飯店
+        WiFi 作為備用。如果您在池畔或海灘，訊號會更強。eSIM 的數據方案若包含足夠容量，每天觀看 2 小時影片約消耗 3GB。
+    - q: 在聖多明哥殖民區的精品酒店（如 Casas del XVI）使用 eSIM 上網穩定嗎？
+      a: 殖民區的古老建築厚牆可能阻擋訊號，在 Casas del XVI 這類改建的殖民風格酒店內，Claro 和 Altice 的 4G 訊號可能減弱，特別是在內庭院房間。建議您選擇面向街道的房間，或到
+        lobby 使用 WiFi。使用 eSIM 時，在陽台或屋頂訊號較佳。若需要穩定網路，可考慮連接飯店提供的免費 WiFi。
+    - q: 多明尼加飯店通常提供免費 WiFi，是否還需要額外購買 eSIM？
+      a: 飯店 WiFi 是很好的補充，但實際使用上，許多度假村的 WiFi 在高峰時段（晚間 7-10 點）可能速度下降，或需要登入頁面。eSIM 提供全天候獨立連線，不受飯店限制，適合
+        VPN 使用或需要穩定連線的商務旅客。此外，離開飯店外出用餐或觀光時，eSIM 確保導航和通訊不中斷。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 多明尼加共和國 旅遊景點的網路：多明尼加共和國 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit El Malecon, Los Haitises National Park, Saona Island
-        spontaneously, you can use your Dominican Republic eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Dominican Republic eSIM, you can read reviews
-        and book local tours or experiences on Tripadvisor while having coffee at
-        a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Dominican Republic.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Dominican Republic eSIM will guide you via the fastest walking or
-        transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Dominican Republic eSIM will keep you connected
-        throughout the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Dominican Republic eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Dominican Republic eSIM upload speeds mean you can post high-quality
-        stories, reels, and photos of your trip in real-time without waiting for hotel
-        Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Dominican Republic eSIM data to search 'restaurants near me' on
-        Google Maps to check ratings, opening hours, and photos of the menu before
-        walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Dominican Republic eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Dominican Republic eSIM ensures
-        you can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Dominican Republic
-        eSIM to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like PedidosYa, Rappi, Uber Eats, register using
-        your email or social accounts, and order food seamlessly using your Dominican
-        Republic eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Efectivo
-        (cash), Tarjeta de crédito/débito, Transferencias bancarias require a brief
-        internet handshake, which your Dominican Republic eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Dominican Republic eSIM to find hidden culinary gems in the city.
+    - q: 在聖多明哥的殖民區（Zona Colonial）參觀時，使用 eSIM 查詢歷史建築資訊方便嗎？
+      a: 殖民區內有許多歷史建築如 Alcázar de Colón 和 Catedral Primada de América，Claro 訊號覆蓋良好，您可以使用
+        Google 查找景點介紹或語音導覽。在主教街（Calle El Conde）上，網路速度約 30 Mbps，隨時可上傳照片。建議下載離線導覽以避免在博物館內訊號微弱，不過多數景點也提供
+        WiFi。
+    - q: 在蓬塔卡納的巴瓦羅海灘（Bávaro Beach）使用 eSIM 上傳照片到社群媒體速度快嗎？
+      a: 巴瓦羅海灘是蓬塔卡納最熱門的海灘之一，Claro 和 Altice 的 4G+ 訊號在沙灘椅上位置良好，上傳照片到 Instagram 或 Facebook
+        約需 10-20 秒。但越靠近海岸線靠水區域，訊號可能減弱，建議在沙灘酒吧附近使用。週末人群較多時，速度可能降至 10 Mbps，但仍可應付即時分享。
+    - q: 參觀洛斯卡蒂奧斯國家公園（Los Haitises National Park）時，eSIM 訊號如何？
+      a: 公園內覆蓋有限，主要觀光路線（如 Manglar 區域）僅有 Viva 的微弱 3G 訊號，Claro 和 Altice 幾乎無服務。建議出發前在公園入口處的
+        Sabana de la Mar 小鎮下載好地圖和資訊。我們的 eSIM 在公園外圍才有較強訊號，若需要緊急聯絡，可向導遊借用衛星電話。
+    - q: 在聖多明哥的 Faro a Colón 附近使用 eSIM 導航步行至其他景點可靠嗎？
+      a: Faro a Colón 位於 Malecón 旁，Claro 網路訊號良好，步行至附近的 Los Tres Ojos 或 Mercado Modelo
+        非常順暢，GPS 定位精確。建議使用 Google Maps 搭配語音提示，途經 Avenida España 時可能因車流喧鬧而聽不清。eSIM
+        保證您即使在沒有 WiFi 的區域也不會迷路。
+    - q: 在拉羅馬納的 Altos de Chavón 藝術村使用 eSIM，是否足夠直播或分享影片？
+      a: Altos de Chavón 是一個地中海風格村莊，Claro 和 Altice 的 4G 在觀景台和餐廳區域可達 25 Mbps，適合 Facebook
+        直播。但在石頭小巷內，訊號可能被建築遮擋。建議在 Amphitheater 附近進行連線，那裡的訊號較強。如果您想分享高畫質影片，可先連線再慢慢上傳，避免直播中斷。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 多明尼加共和國 eSIM 在 多明尼加共和國 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Dominican Republic eSIM providing the internet, you can chat and call exactly
-        as you do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Dominican Republic eSIM
-        gives you the bandwidth needed to upload heavy video files to TikTok or Instagram
-        securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Dominican Republic eSIM are clear and lag-free, no matter where you
-        are in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Dominican
-        Republic eSIM cellular data is encrypted and vastly safer for logging into
-        accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Dominican Republic eSIM data allowance to check their
-        own social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Dominican Republic eSIM, it only works there.
-        For multi-country trips, we highly recommend our Regional eSIM (e.g., Europe
-        eSIM), which covers multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Dominican Republic
-        eSIM is set as the primary data line so you never incur unexpected charges
-        from your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在多明尼加使用 eSIM 時，WhatsApp 通話是否穩定？有哪些注意事項？
+      a: WhatsApp 語音通話在 Claro 和 Altice 網路上表現良好，延遲約 100-200 毫秒，適合日常通話。但在高速移動（如公車上）或網路擁擠時，可能發生短暫斷續。建議在通話前關閉其他數據消耗高的應用。若需要視頻通話，選擇靜止地點如咖啡廳，可獲得更好體驗。
+    - q: 在聖多明哥殖民區的咖啡廳使用 eSIM 連 Instagram 直播，效果如何？
+      a: 殖民區的咖啡廳如 Café Filicori 通常提供 WiFi，但 eSIM 作為備用更穩定。使用 Claro 網路直播時，上行速度約 10 Mbps，可應付
+        720p 直播。不過在人潮擁擠的主廣場（Parque Colón），可能因共用基地台而變慢。建議避開下午尖峰時段，並關閉其他後台應用以保持流暢。
+    - q: 使用 eSIM 時，能不能順暢地觀看 TikTok 和 YouTube Shorts？
+      a: 在蓬塔卡納或聖多明哥等主要城市，Claro 網路載入 TikTok 影片只需 1-2 秒，觀看 1080p 內容無緩衝。但在較偏遠地區如 Barahona，可能偶爾緩衝。使用
+        Altice 網路時，即使下載速度稍慢，但由於低延遲，短片體驗依然良好。建議在設定中降低影片畫質以節省流量。
+    - q: 在多明尼加使用 eSIM 可以順暢玩手機遊戲（如 PUBG、原神）嗎？
+      a: 在聖多明哥和蓬塔卡納，Claro 的 4G 延遲約 30-50 毫秒，適合 PUBG 等射擊遊戲。但在偏遠地區延遲可能升至 80 毫秒，輕微影響反應速度。建議選擇
+        Altice 網路，其遊戲穩定性口碑更好。避免在移動的車輛中遊玩，因為基地台切換可能導致瞬間斷線。
+    - q: 我可以在多明尼加使用 eSIM 的熱點分享功能，讓朋友一同上網嗎？
+      a: eSIM 方案通常支援熱點分享，但會消耗實體 SIM 的數據流量。例如，在度假村中，您可以將手機變為 WiFi 路由，供 2-3 個裝置同時使用。但注意過多裝置可能導致速度下降，且總數據用量會快速累積。建議分享時限制在瀏覽網頁或傳送訊息，避免大量下載。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 多明尼加共和國 使用 多明尼加共和國 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Dominican Republic, you can dial local emergency numbers like 911, 112
-        directly from your phone's dialer regardless of your active SIM, as long as
-        your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Dominican Republic eSIM data allows you to immediately search Google
-        Maps for 'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Dominican Republic eSIM to
-        find the exact address, emergency contact email, and opening hours of your
-        country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Dominican Republic eSIM data
-        to call your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Dominican Republic eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Dominican Republic eSIM,
-        use your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Dominican Republic eSIM connects to premium local networks, providing
-        the high bandwidth and low latency required for smooth, professional video
-        conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Dominican Republic eSIM network to access
-        internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Dominican Republic
-        eSIM is significantly faster and much more secure against cyber threats than
-        using open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Dominican Republic
-        eSIM data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Dominican Republic eSIM, you can rapidly
-        upload presentations or large documents to Google Drive or Dropbox directly
-        from the exhibition floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Dominican Republic eSIM provides constant connectivity, ensuring you
-        receive Slack notifications and important emails instantly, keeping you synced
-        with your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Dominican Republic eSIM to update them on flight delays
-        or schedule changes.
+    - q: 在多明尼加旅遊時，若遇到緊急情況如何撥打當地的緊急電話？
+      a: 多明尼加的緊急號碼為 911，可聯絡警察、消防和救護車。使用 eSIM 時，即使沒有餘額也能撥打緊急電話。撥打後，接線員通常使用西班牙語，但部分能說英語。建議事先學習簡單的西語求救詞，例如「Necesito
+        ayuda」（我需要幫助）。手機位置會自動同步，但仍需清楚描述所在地點，例如靠近 landmark。
+    - q: 在聖多明哥殖民區如果手機遺失或被搶，該如何處理？
+      a: 首先使用朋友的電話撥打您的號碼，確認是否遺失。若無法接通，立即致電 911 報案，並要求警局出具 reporte（報案紀錄）。接著透過 eSIM
+        供應商凍結服務，避免資料外洩。殖民區附近有警局，位於 Calle Las Damas 附近。建議在旅遊期間備份重要資料，並啟用手機遠端定位功能。
+    - q: 若在偏遠海灘（如 Playa Rincón）發生意外，eSIM 能確保求救電話暢通嗎？
+      a: 偏遠海灘如 Playa Rincón 訊號微弱，Viva 可能偶爾有 3G，但 Claro 和 Altice 訊號不穩定。建議您在出發前告知飯店行程，並在沙灘上找尋高處（如小山丘）嘗試撥打
+        911。當地也可能有 lifeguard 配備無線電。我們的 eSIM 在這些區域無法保證暢通，因此強烈建議攜帶衛星通訊器或租用當地 guide。
+    - q: 在多明尼加使用 eSIM 時，醫療急救電話是否也需要撥打 911？
+      a: 是的，醫療緊急情況撥打 911，調度中心會派遣救護車。在聖多明哥，AMB（Ambulancia）平均到達時間約 10-15 分鐘。但蓬塔卡納的度假區可能有私人救護服務，可透過飯店聯絡。使用
+        eSIM 時，請確保手機電量充足，並開啟定位服務。有些醫院如 Hospital Metropolitano de Santiago 接受國際保險，建議提前確認保險條款。
+    - q: 如果 eSIM 在緊急時刻突然無法運作，該如何立即獲得幫助？
+      a: 大多數多明尼加城市有公共電話或飯店大廳的電話可供使用。您可以向路人借用電話，並支付少量費用。在旅遊區域，警察巡邏密度高，可直接攔截警車求助。建議預先列印緊急聯絡卡，包含飯店地址和
+        911 號碼。您的 eSIM 供應商通常提供 24/7 客服，可透過其他方式聯繫（如電子郵件）。
+    - q: 在蓬塔卡納度假村內，若兒童走失，該如何聯繫園區保安？
+      a: 多數大型度假村如 Hard Rock Hotel 設有內部保安人員，可透過飯店電話或前台專線聯繫。使用 eSIM 撥打飯店總機，轉接 security。度假村內通常有明確的
+        lost child 服務流程，請第一時間通知工作人員。建議為兒童攜帶手環，寫上飯店名稱與聯絡電話。我們的 eSIM 可確保您在外出搜索時仍能與飯店保持聯繫。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 多明尼加共和國 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

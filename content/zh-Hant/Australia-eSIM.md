@@ -1,102 +1,96 @@
 ---
-title: Australia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 澳洲 eSIM 方案 | 澳洲 eSIM | Roami
+date: '2026-05-19T10:04:00+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Australia eSIM
-  scenario_keywords: Sydney sightseeing, Outback adventure, Great Ocean Road road
-    trip, Gold Coast beaches, Melbourne cultural tour
-  operators: Telstra, Optus, TPG Telecom
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Sydney, Melbourne, Brisbane, Perth, Adelaide
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 澳洲 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食, 自然探索
+  operators: Telstra, Optus, Vodafone
+  competitors: Airalo, Holafly, Nomad, Ubigi, Flexiroam
+  main_cities: 雪梨, 墨爾本, 布里斯本, 伯斯, 黃金海岸
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Buy Australia eSIM | High-Speed 5G Tourist Data | Roami
-  description: Heading Down Under? A Roami travel eSIM gives you unlimited mobile
-    internet on the reliable Optus 5G network. Experience nationwide digital connectivity
-    without signing any contracts.
-  keywords: Australia eSIM, cheap Australia eSIM, Australia travel internet, eSIM
-    Australia, Roami eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: 澳洲 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
+  description: 澳洲旅遊首選 Roami eSIM，具備 5G 網路自動切換功能。高品質連線讓您的旅程更便利，現在就使用折扣碼 20% 獲取您的優惠方案。
+  keywords: 澳洲 eSIM, 澳洲旅遊, 澳洲網路, 雪梨, 墨爾本, 澳洲行動網路
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 澳洲 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Australia eSIM
+- label: 澳洲 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Australia
-  title: Best eSIM for Australia
+  alt: 最佳 澳洲 eSIM
+  title: 最佳 澳洲 eSIM
 hero:
   flag_image: img/flags/au.svg
-  flag_alt: Australia Flag
-  title: Australia eSIM data plan
-  subtitle: 20% discount for a limited time | Instant delivery | Worry-free internet
+  flag_alt: 澳洲 國旗
+  title: 澳洲 eSIM - 旅行計劃
+  subtitle: 澳洲 eSIM | 流量吃到飽 | 高速5G網路 | 無隱藏費用
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 澳洲 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 澳洲 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '18.99'
     oldPrice: '28.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.71'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.28'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -104,33 +98,33 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.71'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '23.99'
     oldPrice: '35.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.43'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -138,81 +132,81 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '21.99'
     oldPrice: '32.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.47'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '26.99'
     oldPrice: '40.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.80'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.87'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '19.99'
     oldPrice: '29.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '40.99'
     oldPrice: '61.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.73'
-  30 Days:
+  30 天:
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.47'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.30'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -220,57 +214,57 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '32.99'
     oldPrice: '49.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.10'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '71.99'
     oldPrice: '107.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.40'
-  3 Days:
+  3 天:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '4.99'
     oldPrice: '7.49'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.66'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.33'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -278,554 +272,327 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '9.99'
     oldPrice: '14.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.33'
 discount_banner:
-  title: Special Discount!
+  title: 澳洲 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 澳洲 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Australia, including major
-        cities like Sydney, Melbourne, Brisbane. Our Australia eSIM seamlessly connects
-        to the robust networks of Telstra, Optus, and TPG Telecom, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個 澳洲 享受廣泛的網路覆蓋，包括雪梨、墨爾本、布里斯本、伯斯等城市。我們的 澳洲 eSIM 無縫連接到 Telstra、Optus、Vodafone
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Telstra
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Optus
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: TPG Telecom
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 澳洲 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Australia.
+    html: 建議抵達 澳洲 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 澳洲 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 澳洲 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 澳洲 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 澳洲 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 澳洲」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Australia'
-    desc: Upon arriving in Australia, enable your Australia eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 澳洲 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Telstra / Optus 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 澳洲：立即連上 5G/4G 網路
+    desc: 當您降落在 澳洲（例如 雪梨金斯福德·史密斯機場, 墨爾本機場, 布里斯本機場）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定
+      → 行動服務** 並開啟您的 Roami eSIM 澳洲。幾秒鐘內，您的設備將自動連接到 Telstra / Optus 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備
+      – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Australia eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Australia eSIM across different
-    travel scenarios.
+  title: 澳洲 eSIM：完整指南和常見問題
+  desc: 使用 澳洲 eSIM 在 澳洲 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 澳洲 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Australia eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Australia eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Australia eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Australia
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Australia eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Australia eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Australia that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Australia eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Australia eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Australia eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Australia eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Australia,
-        such as Telstra, Optus, TPG Telecom, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Nomad eSIM, Airalo,
-        Holafly, Eskimo?
-      a: While great companies like Nomad eSIM, Airalo, Holafly, Eskimo offer reliable
-        services, we focus on providing the most cost-effective Australia eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在雪梨市中心使用 Telstra 網路觀看 YouTube 4K 影片順暢嗎？
+      a: 在雪梨市中心如喬治街或達令港附近，連接到 Telstra 網路時，平均下載速度通常在 50-70 Mbps 之間，足以無緩衝觀看 4K 影片。但在高峰時段（週末下午或大型活動期間），靠近雪梨塔或環形碼頭區域可能出現暫時減速，降至約
+        20-30 Mbps，此時 Full HD 仍可正常播放。建議避開大型集會時間（如新年煙火），並確保每日用量不超過 5 GB 以避免優先級降低。
+    - q: 在墨爾本聯邦廣場使用 eSIM 時，社交媒體 App 的體驗如何？
+      a: 墨爾本聯邦廣場周邊覆蓋 Optus 網路，通常提供 30-50 Mbps 下載速度，Instagram、TikTok 和 Facebook 的瀏覽與上傳都很流暢。然而，在週末市集或體育賽事時，人潮聚集可能導致速度降至
+        10-15 Mbps，但足以發送圖片和短影片。若需穩定直播，建議切換至 Telstra 網路（需手動設定），其在此區域表現更佳。
+    - q: 在黃金海岸衝浪者天堂海灘附近，Vodafone 網路訊號強嗎？
+      a: 衝浪者天堂海灘區域 Vodafone 訊號覆蓋良好，沙灘上通常可達 4G+ 訊號，下載速度約 20-40 Mbps，足以串流音樂或使用導航。但進入海灘北端或靠近腹地時，訊號可能減弱至
+        3G，速度降至 5-10 Mbps。建議在室內咖啡館（如 Surfers Paradise 步行街）使用，以獲得更穩定的連線。
+    - q: 在布里斯本南岸公園用手機進行視訊通話，哪家運營商最穩定？
+      a: 布里斯本南岸公園內 Telstra 網路提供最低延遲（約 20-30ms），視訊通話如 Zoom 或 Skype 非常清晰。Optus 在該區域表現也不錯，但偶爾在文化中心建築物內會出現短暫斷線。Vodafone
+        在南岸附近速度較慢，約 15-25 Mbps，可能影響高清視訊。建議使用 Telstra eSIM 以獲得最佳體驗。
+    - q: 從雪梨機場搭乘火車到市中心時，eSIM 的網路訊號會中斷嗎？
+      a: 在雪梨機場線 (T8) 行駛過程中，Telstra 和 Optus 在大部分隧道內都有覆蓋，僅在少數深層區段（如靠近 Wolli Creek 站）可能失去訊號約
+        10-15 秒。整體而言，觀看預先緩衝的影片或使用離線地圖是較安心的選擇。抵達中央車站後訊號立即恢復，速度可達 40-60 Mbps。
+    - q: 在澳洲使用 eSIM 時，每日流量超過 5 GB 會發生什麼？
+      a: 我們的 eSIM 套餐通常包含每日 5 GB 高速流量，超過後速度會降至約 2 Mbps，但仍可瀏覽網頁和收發訊息。降速後觀看 YouTube 標清或使用
+        LINE 通話仍可正常運作，但上傳照片會明顯變慢。若需持續高速，建議購買 10 GB 以上套餐，或利用午夜後的時段進行大量下載（部分套餐不計量）。
+    - q: 在伯斯國王公園內導航 App (如 Google Maps) 的反應速度如何？
+      a: 伯斯國王公園覆蓋 Optus 和 Telstra 訊號，導航載入通常需要 3-5 秒，步行路線定位精準。但在公園深處（如 DNA Tower 附近）樹木密集處，GPS
+        可能稍微延遲，但仍可提供方向。建議提前下載離線地圖以防萬一。公園內大部分區域速度在 20-40 Mbps，足以即時更新路況。
+    - q: 在坎培拉澳洲國立大學校園內，哪家運營商的室內覆蓋最好？
+      a: 澳洲國立大學位於坎培拉市中心，Telstra 在校園建築內提供最佳覆蓋，圖書館和教室內平均速度 30-50 Mbps。Optus 在部分老舊建築（如藝術學院）訊號較弱，可能跌至
+        10 Mbps 以下。Vodafone 在校園周邊覆蓋一般，建議在室內優先使用 Telstra 以確保穩定性。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 澳洲 機場：如何使用 澳洲 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Australia eSIM before your flight. Once you land at Sydney Airport,
-        Melbourne Airport, Brisbane Airport, simply turn off Airplane Mode and enable
-        your eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Australia eSIM activated upon landing, you can immediately open
-        Uber, DiDi, Ola to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Australia eSIM data allows you to open Google Maps right
-        at the baggage claim in Sydney Airport, Melbourne Airport, Brisbane Airport
-        to check real-time train schedules, bus routes, or walking directions to the
-        taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Australia eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Australia eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Australia eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 抵達雪梨金斯福德·史密斯機場後，如何立即啟用 eSIM？
+      a: 抵達雪梨機場後，請先連接機場免費 Wi-Fi（如 Sydney Airport Free WiFi）或使用預先下載的 eSIM 設定檔。打開手機設定，進入「行動服務」並啟用您的
+        eSIM。若為自動啟用，通常幾分鐘後會自動連接至 Telstra 或 Optus 網路。若無訊號，請手動選擇網路業者（如 Telstra 3G/4G）。建議在出發前完成設定以確保順利。
+    - q: 墨爾本機場 (Tullamarine) 的 Wi-Fi 穩定嗎？購買 eSIM 前是否需要用？
+      a: 墨爾本機場提供免費 Wi-Fi，速度約 10-20 Mbps，但連線可能不穩定，尤其在入境大廳擁擠時。建議在下機後立即啟用 eSIM，以便使用個人網路進行導航或聯繫接機。若需傳送重要訊息，機場
+        Wi-Fi 足夠，但影片串流可能會延遲。
+    - q: 在布里斯本機場，eSIM 會自動連接到最快的網路嗎？
+      a: 布里斯本機場的 eSIM 通常會自動選擇訊號最強的可用網路，多為 Telstra 或 Optus。但偶爾會鎖定在較弱的基地台，導致速度僅 5-10
+        Mbps。若感到速度慢，可手動切換至 Telstra 5G（如果手機支援）。通常出發大廳訊號最佳，可達 50-80 Mbps。
+    - q: 從澳洲鄉村小鎮返回雪梨機場時，eSIM 網路過渡流暢嗎？
+      a: 從鄉村地區返回雪梨機場途中，網路會逐漸從 3G 切換至 4G/5G，過程少有中斷。但在獵人谷或藍山等偏遠路段，可能暫時無訊號（約 5-10 分鐘）。接近雪梨郊區時（如
+        Liverpool），訊號恢復穩定，抵達機場後可達全速。建議在偏遠路段提前下載必要地圖。
+    - q: 黃金海岸機場有支援 eSIM 快速註冊的電信商嗎？
+      a: 黃金海岸機場內 Telstra 和 Optus 訊號覆蓋良好，eSIM 通常在抵達後 2-3 分鐘內自動啟用。若無反應，請重啟手機或手動搜尋網路。機場內有自助
+        kiosk 提供 Wi-Fi，但建議使用個人網路以避免排隊。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 澳洲 eSIM 用於 澳洲 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Australia eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Australia, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, DiDi, Ola use VoIP (internet calling) and in-app messaging.
-        Since you have active Australia eSIM data, drivers can call or message you
-        directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Australia eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Australia eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Australia.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Australia eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Australia eSIM's data network while
-        on the train or in the car.
+    - q: 雪梨的公共運輸（火車、渡輪）上網路訊號如何？
+      a: 雪梨火車（CityRail）在地面路段訊號良好，Telstra 用戶可達 40-60 Mbps，但行經隧道（如從中央車站到紅坊站）時可能中斷約 30
+        秒。渡輪上（如 Circular Quay 至 Manly）訊號穩定，可進行視訊通話，但海上偶有波動。建議使用離線音樂或播客。
+    - q: 在墨爾本搭乘 Tram 時，使用 eSIM 打網路電話會斷線嗎？
+      a: 墨爾本 Tram 路線經過市中心時，Optus 網路提供穩定連線，網路電話（如 WhatsApp）通話清晰。但當电车行駛至 St Kilda 或
+        Brunswick 郊區時，可能因建築物阻擋導致短暫斷音。建議在 Free Tram Zone 內使用，訊號最佳。
+    - q: 在布里斯本搭乘 CityCat 渡輪時，社交媒體上傳速度如何？
+      a: 布里斯本 CityCat 渡輪沿布里斯本河行駛，大部分河段 Telstra 和 Optus 覆蓋良好，上傳照片至 Instagram 約需 5-10
+        秒。但在靠近城市植物園或袋鼠角時，訊號可能稍弱，上傳時間延長至 15-20 秒。建議在出發前先更新動態。
+    - q: 從雪梨自駕到藍山，eSIM 網路是否全程可用？
+      a: 從雪梨到藍山的 M4 高速公路大部分區域有 4G 覆蓋，Telstra 訊號最穩定。但進入藍山國家公園後（如三姐妹峰附近），部分深谷無訊號，導航應提前下載離線地圖。建議使用
+        Telstra 以獲得最大覆蓋，Optus 在 Glenbrook 之後訊號較弱。
+    - q: 在澳洲使用 Uber 時，eSIM 能否確保準確定位與接單？
+      a: 在雪梨 CBD 或墨爾本市區，Telstra 網路定位精準，Uber 叫車只需 3-5 秒。但在高樓密集區（如雪梨馬丁廣場），GPS 可能偏移，建議站在開闊處確保司機找到您。偏遠地區可能需稍等定位更新，但整體使用流暢。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 澳洲 的飯店使用 澳洲 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Australia eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Australia eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Crown Sydney, The Langham Melbourne, Palazzo Versace
-        Gold Coast or a local guesthouse, you can input the address into Google Maps
-        and get turn-by-turn walking or transit directions using your Australia eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Australia eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Australia eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Uber Eats, Menulog, Deliveroo and use
-        your Australia eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Australia eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 雪梨朗廷酒店的免費 Wi-Fi 速度如何？與 eSIM 相比哪個好？
+      a: 雪梨朗廷酒店提供免費 Wi-Fi，但速度約 10-20 Mbps，僅適合瀏覽網頁和收發郵件。相比之下，eSIM 的 5G 網路（如 Telstra）在房間內可達
+        60-80 Mbps，適合串流 4K 影片或視訊會議。建議在酒店內主要使用 eSIM，但可切換至 Wi-Fi 以節省流量。
+    - q: 墨爾本皇冠大都會飯店地下停車場的 eSIM 訊號如何？
+      a: 墨爾本皇冠大都會飯店地下停車場（B1-B3）Telstra 訊號微弱，僅靠入口處有 1-2 格 4G，無法正常使用。但乘坐電梯至大堂後訊號恢復正常（30-50
+        Mbps）。建議在地下層使用離線導航，或連接飯店提供的免費停車場 Wi-Fi。
+    - q: 黃金海岸喜來登度假飯店的沙灘區域，eSIM 連線穩定嗎？
+      a: 喜來登飯店前的沙灘區域 Optus 網路訊號良好，下載速度約 20-30 Mbps，足以播放音樂或使用社群媒體。但靠近海邊時風浪可能影響手機天線，速度略降。建議在沙灘躺椅上使用，避免直接暴露在強風中。
+    - q: 在澳洲偏遠地區（如大堡礁附近）的度假村，eSIM 是否可用？
+      a: 大堡礁區域的度假村（如翡翠島或哈密頓島）通常有微弱的 4G 訊號，Telstra 覆蓋最佳，速度約 5-15 Mbps，足以發送照片和文字訊息。但深海活動時無訊號。建議使用衛星電話或提前下載娛樂內容。
+    - q: 入住雪梨青年旅館時，多人共用網路哪個方案最佳？
+      a: 雪梨青年旅館（如 The Rocks 的 YHA）的免費 Wi-Fi 通常速度較慢（5-10 Mbps），且多人使用時可能卡頓。eSIM 搭配熱點分享功能可提供更穩定的個人熱點，建議使用
+        Telstra 網路，速度可達 40 Mbps，足夠支援 3-4 台設備輕度使用。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 澳洲 旅遊景點的網路：澳洲 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Great Barrier Reef, Sydney Opera House, Uluru-Kata
-        Tjuta National Park spontaneously, you can use your Australia eSIM data to
-        buy skip-the-line tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Australia eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Australia.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Australia eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Australia eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Australia eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Australia eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Australia eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Australia eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Australia eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Australia eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Uber Eats, Menulog, Deliveroo, register
-        using your email or social accounts, and order food seamlessly using your
-        Australia eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like PayPal,
-        Apple Pay, Google Pay require a brief internet handshake, which your Australia
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Australia eSIM to find hidden culinary gems in the city.
+    - q: 在雪梨歌劇院參觀時，eSIM 能否順暢直播？
+      a: 雪梨歌劇院廣場及其內部 Telstra 和 Optus 訊號強勁，下載速度約 40-60 Mbps，適合使用 Facebook Live 或 Instagram
+        直播。但表演進行時，劇院內設有信號屏蔽器，直播可能中斷。建議在廣場或港邊進行直播，效果最佳。
+    - q: 在大堡礁浮潛時，可以帶著手機使用 eSIM 嗎？
+      a: 大堡礁的遊船上通常有 4G 訊號（Telstra 覆蓋），但下船浮潛時手機需放入防水袋，且水下無訊號。您可以在船艙內使用社交媒體或上傳照片，速度約
+        10-20 Mbps。建議使用防水手機殼並避免長時間浸水。
+    - q: 在烏魯魯-卡塔丘塔國家公園內，eSIM 導航是否足夠？
+      a: 烏魯魯國家公園內 Telstra 提供 3G/4G 訊號，下載速度約 5-15 Mbps，足以載入地圖和景點資訊。但部分步道（如風之谷）深處無訊號，建議提前從遊客中心下載離線地圖。日出日落時段訊號較佳，因為使用人數較少。
+    - q: 在雪梨達令港散步時，可以使用 eSIM 即時分享照片嗎？
+      a: 雪梨達令港區域 Telstra 和 Optus 網速普遍在 30-50 Mbps，上傳照片至社交平台僅需 5-8 秒。週末晚間煙火表演時，人潮眾多可能導致速度降至
+        10 Mbps，但上傳仍可接受。建議避開擁擠的中心廣場，稍微往水族館方向尋找較快網路。
+    - q: 在墨爾本維多利亞女王市場逛街時，eSIM 用於移動支付流暢嗎？
+      a: 維多利亞女王市場內部 Optus 網路訊號良好，移動支付（如 Apple Pay）通常在 3 秒內完成。但週末上午（10-12 點）人潮高峰時，掃碼付款可能稍有延遲（5-8
+        秒）。建議使用實體信用卡備用。市場內多數攤販支援非接觸式支付。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 澳洲 eSIM 在 澳洲 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Australia eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Australia eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Australia eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Australia
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Australia eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Australia eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Australia eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在澳洲使用 Instagram 時，上傳 1 分鐘影片需要多久？
+      a: 在雪梨或墨爾本市中心，Telstra 網路下上傳 1 分鐘 1080p 影片約需 15-25 秒。Optus 則需 20-30 秒。鄉村地區（如烏魯魯）可能延長至
+        2-3 分鐘。避開晚間 8-10 點的使用高峰可加快速度。
+    - q: 在雪梨邦迪海灘打卡點，TikTok 上傳是否容易？
+      a: 邦迪海灘周邊 Telstra 網路速度約 30-50 Mbps，上傳 15 秒 TikTok 影片約 10 秒內完成。但沙灘北端靠近懸崖處訊號稍弱，可能需
+        20 秒。建議在救生員俱樂部附近使用，訊號最佳。
+    - q: 在澳洲使用 LINE 通話的品質如何？會延遲嗎？
+      a: 在都會區（雪梨、墨爾本）使用 LINE 通話，Telstra 網路延遲低於 50ms，通話清晰。但在偏遠地區（如凱恩斯郊區），Optus 可能出現
+        200ms 以上延遲，導致對話斷斷續續。建議在強訊號區域通話，或切換至 WhatsApp。
+    - q: 在澳洲使用 Facebook Messenger 傳送照片，是否壓縮嚴重？
+      a: 透過 Telstra 網路傳送原圖尺寸照片，速度約 5-10 秒，Facebook 會自動壓縮至約 1MB。若需保持高畫質，建議使用雲端硬碟並分享連結。高峰時段（如週末）傳送可能稍慢，但仍在可接受範圍。
+    - q: 在澳洲進行語音社群媒體（如 Clubhouse）的聽眾體驗如何？
+      a: 在雪梨市中心使用 Optus 5G 參與 Clubhouse 語音房，幾乎無遲滯，音質清晰。但在伯斯郊區使用 4G 時，可能因網路波動導致聲音斷續。建議在穩定網路環境下使用，並關閉其他後台應用以節省頻寬。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 澳洲 使用 澳洲 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Australia, you can dial local emergency numbers like 000 (Police, Fire,
-        Ambulance) directly from your phone's dialer regardless of your active SIM,
-        as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Australia eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Australia eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Australia eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Australia eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Australia eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Australia eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Australia eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Australia eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Australia eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Australia eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Australia eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Australia eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在澳洲撥打 000 需要手機有訊號嗎？即使無 SIM 卡能否撥通？
+      a: 撥打 000 需要手機連接到任一可用網路（即使非您的運營商），且無需 SIM 卡即可撥通。但若所在區域完全無覆蓋（如深山），則無法接通。建議在手機設定中啟用「緊急
+        SOS」功能，並確保了解最近電話位置。
+    - q: 在澳洲海灘遇險時，除了 000 還有其他緊急聯絡方式嗎？
+      a: 除了 000，您還可撥打 112（國際通用緊急號碼）或 106（聽障人士專用文字電話）。海灘上通常設有緊急呼叫箱，可直接聯繫救生員。部分偏遠海灘無手機訊號，建議隨身攜帶哨子或個人定位信標。
+    - q: 如果在澳洲山區迷路，eSIM 能否發送衛星求救訊號？
+      a: 標準 eSIM 不支援衛星通訊，無法發送求救訊號。但在有微弱手機訊號的山脊（藍山部分區域），可嘗試撥打 000。建議購買衛星通訊器（如 Garmin
+        inReach）或使用 iPhone 14 以上機型的衛星 SOS 功能（需在設定中啟用）。
+    - q: 在澳洲遇到車禍時，如何在手機上快速使用 eSIM 撥打電話？
+      a: 確保手機解鎖後直接撥打 000，或使用手機的緊急快捷鍵（如連按電源鍵 5 次）。eSIM 無需 PIN 碼即可在緊急狀態下使用。若地處偏遠，可先發送簡訊至
+        000（向運營商查詢該服務），因為簡訊較能穿越弱訊號區。
+    - q: 在澳洲被毒蛇咬傷時，eSIM 能否確保與醫療團隊穩定通話？
+      a: 在偏遠地區被蛇咬傷，應先撥打 000，然後盡量保持冷靜。eSIM 在弱訊號區可能斷線，建議使用簡訊 000 或開啟定位分享。救護人員會盡快抵達，但請描述詳細位置（如標誌性地點）。在雪梨近郊，救護車通常
+        10-15 分鐘內到達。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 澳洲 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Australia eSIM vs Physical SIM Card: What’s the Real Difference?"
-  subtitle: "Australia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Australia) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Australia"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Australia eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "ALDI mobile requires online activation with international credit card micro-payment verification; non-Australian residents have only 3 attempts before manual passport review via email."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip ALDI mobile's complex online activation requiring international credit card micro-payment verification and limited attempts. Roami eSIM activates within 1 minute after landing in Sydney."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Optus prepaid activation requires an Australian local address (tourists often use hotel address) and website approval."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid Optus's requirement for an Australian local address and website approval. Roami eSIM requires no KYC or real-name registration."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Most Australian prepaid plans lack affordable roaming for New Zealand or South Pacific; Optus offers $20/10GB roaming only to specific countries like UK, US, Hong Kong for 5 days."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "Unlike Optus's $20/10GB roaming limited to 5 days in select countries, Roami eSIM offers affordable multi-country plans covering New Zealand and South Pacific."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Telstra, Optus, and Lycamobile use 28-day billing cycles; ALDI uses 30-day cycles. A 7-day tourist buying Telstra's $35/60GB plan wastes at least 70% of the plan's value."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Unlike Telstra's 28-day cycle ($35/60GB) where a 7-day tourist wastes 70% of value, Roami offers 7-day plans starting from $1.99/GB, saving at least 70% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Lycamobile actively blocks tethering; Telstra imposes a hard 150Mbps speed cap on all prepaid plans since 2022."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Bypass Lycamobile's active tethering block and Telstra's 150Mbps speed cap. Roami eSIM allows full-speed hotspot sharing."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "ALDI mobile activation requires a Visa/Mastercard for micro-payment verification; UnionPay, WeChat Pay, Alipay are not accepted."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Avoid ALDI mobile's Visa/Mastercard-only micro-payment verification. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "24/7 Customer Support"
-      esim_desc: "Unlike local prepaid carriers with limited support, Roami provides 24/7 English-speaking support via chat and email."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Australia eSIM Compared to Prepaid SIM Cards: What You Need to Know"
-    cards:
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate 28-Day Sunk Cost"
-        desc: "Telstra, Optus, and Lycamobile use 28-day cycles. A 7-day tourist buying Telstra's $35/60GB plan wastes 70% of value. Roami offers 7-day plans from $1.99/GB, matching trip duration."
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "Keep Your Home SIM Active"
-        desc: "Physical SIMs require removing your home SIM, risking loss. Roami eSIM works alongside your home SIM, keeping your number reachable."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Australia's Strict SIM Passport Requirements"
-        desc: "Optus prepaid requires an Australian local address for activation. ALDI mobile demands international credit card micro-payment verification with only 3 attempts. Roami eSIM needs no passport or address."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Device Incompatibility Nightmare"
-        desc: "Telstra and Optus block non-Australian phones due to VoLTE white lists, causing 'no service' for tourists. Roami eSIM works on any unlocked eSIM-compatible device, bypassing IMEI screening."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

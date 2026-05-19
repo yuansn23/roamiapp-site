@@ -1,100 +1,96 @@
 ---
-title: France eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 法國 eSIM 方案 | 法國 eSIM | Roami
+date: '2026-05-19T10:22:39+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: France eSIM
-  scenario_keywords: Paris sightseeing, Provence lavender tour, Nice beach vacation,
-    French Riviera road trip, Champagne region visit
+  core_keyword: 法國 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食
   operators: Orange, SFR, Bouygues Telecom
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Paris, Marseille, Lyon, Toulouse, Nice
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  competitors: Airalo, Holafly, Nomad, GigSky, Ubigi
+  main_cities: 巴黎, 馬賽, 里昂, 尼斯, 圖盧茲
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Best France eSIM |20% OFF | No Contract Data & Always-On 5G | Roami
-  description: Traveling to France? Stay connected via Bouygues Fast 5G with High-Speed
-    Data. Perfect for Digital Nomads, offering Auto-Connect and Seamless Coverage.
-  keywords: ''
-  low_price: 1.99
-  high_price: 39.9
+  title: 法國 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
+  description: 法國旅遊推薦 Roami eSIM，提供最佳 5G 高速網路與無限流量。立即購買並輸入折扣碼 20%，讓您的法國之旅連線更優質。
+  keywords: 法國 eSIM, 法國旅遊, 法國網路覆蓋, 巴黎景點, 法國行動網路, 法國機場, 法國飯店, 法國交通
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 法國 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: France eSIM
+- label: 法國 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for France
-  title: Best eSIM for France
+  alt: 最佳 法國 eSIM
+  title: 最佳 法國 eSIM
 hero:
   flag_image: img/flags/fr.svg
-  flag_alt: France Flag
-  title: France eSIM data plan
-  subtitle: 100% money-back guarantee | 24/7 customer support | Prioritized 5G access
+  flag_alt: 法國 國旗
+  title: 法國 eSIM - 旅行計劃
+  subtitle: 法國 eSIM | 高速5G網路 | 流量吃到飽 | 無隱藏費用
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 法國 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 法國 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '19.99'
     oldPrice: '29.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.86'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -102,57 +98,57 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.14'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.71'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '20.99'
     oldPrice: '31.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.00'
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 100GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.83'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -160,65 +156,65 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.50'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '22.99'
     oldPrice: '34.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.77'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '31.99'
     oldPrice: '47.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.07'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '70.99'
     oldPrice: '106.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.37'
-  15 Days:
+  15 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '36.99'
     oldPrice: '55.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.47'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -226,49 +222,49 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.87'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.47'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.93'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -276,558 +272,316 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.66'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '9.99'
     oldPrice: '14.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.33'
 discount_banner:
-  title: Special Discount!
+  title: 法國 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 法國 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across France, including major cities
-        like Paris, Lyon, Marseille, Toulouse. Our France eSIM seamlessly connects
-        to the robust networks of Orange, SFR, Bouygues Telecom, ensuring stable signals
-        in urban centers, tourist hotspots, and along major transportation routes.
+      title: 覆蓋範圍
+      desc: 在整個 法國 享受廣泛的網路覆蓋，包括 巴黎、馬賽、里昂、尼斯 等城市。我們的 法國 eSIM 無縫連接到 Orange、SFR、Bouygues
+        Telecom 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Orange
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: SFR
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Bouygues Telecom
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 法國 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in France.
+    html: 建議抵達 法國 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 法國 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 法國 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 法國 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 法國 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 法國」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in France'
-    desc: Upon arriving in France, enable your France eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 法國 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Orange / SFR 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 法國：立即連上 5G/4G 網路
+    desc: 當您降落在 法國（例如 巴黎戴高樂機場 (CDG), 巴黎奧利機場 (ORY), 尼斯蔚藍海岸機場 (NCE)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 法國。幾秒鐘內，您的設備將自動連接到 Orange / SFR 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: France eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your France eSIM across different
-    travel scenarios.
+  title: 法國 eSIM：完整指南和常見問題
+  desc: 使用 法國 eSIM 在 法國 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 法國 eSIM 的常見問題
     questions:
-    - q: Does my phone support the France eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your France eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the France eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in France and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the France eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the France eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in France that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your France eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my France eSIM data (hotspot) with other devices?
-      a: Absolutely. All our France eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your France eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in France,
-        such as Orange, SFR, Bouygues Telecom, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, Yesim, Numero,
-        Holafly?
-      a: While great companies like Airalo, Yesim, Numero, Holafly offer reliable
-        services, we focus on providing the most cost-effective France eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在巴黎市中心使用Orange網路時，觀看4K YouTube影片的體驗如何？
+      a: 在巴黎市中心，例如香榭麗舍大道或羅浮宮附近，透過Orange的5G網路，通常可以獲得50-70 Mbps的下載速度。這意味著您可以無緩衝觀看4K
+        YouTube影片，即使在尖峰時段（下午3點到6點）效果也很好。不過，如果靠近地鐵站入口（例如夏特雷站），由於人群密集，速度可能下降至20-30 Mbps，但仍足以順暢播放Full
+        HD影片。建議在觀看前先確認手機已連接到Orange的5G頻段，以獲得最佳體驗。
+    - q: 在馬賽舊港使用SFR網路進行視訊通話時，語音品質穩定嗎？
+      a: 在馬賽舊港一帶，SFR的4G網路通常提供穩定的語音通話品質，延遲約20-30毫秒。不過，當您靠近港口的餐廳區或週末市集時，由於用戶密集，可能會偶爾出現短暫的語音斷續。建議使用WhatsApp或FaceTime時，選擇較低解析度的視訊設定，以確保通話不中斷。整體而言，SFR在馬賽的覆蓋良好，但若您需要極高穩定性，可切換到Orange網路。
+    - q: 在乘坐巴黎地鐵時，我的eSIM網路訊號如何？是否會中斷？
+      a: 巴黎地鐵網路（RATP）在地下隧道中已廣泛佈建4G/5G基站，尤其是1號、4號和14號線。使用我們的eSIM連接到Orange或SFR時，在大部分地鐵站內（例如里昂車站、蒙帕納斯站）訊號良好，可正常瀏覽網頁或使用社群媒體。但行駛在某些老舊線路（如2號線部分區段）時，訊號可能短暫中斷約10-20秒。建議下載Offline地圖作為備份，並避免在行駛中進行高頻寬活動。
+    - q: 在尼斯天使灣海灘使用Bouygues Telecom網路時，上傳照片到Instagram的速度快嗎？
+      a: 在尼斯天使灣海灘，Bouygues Telecom提供穩定的4G+網路，上傳速度通常在10-20 Mbps之間，這意味著上傳一張10MB的照片只需約3-5秒。不過，由於海灘區域遊客眾多，特別是在夏季下午，網路可能變得擁擠，上傳時間可能延長至8-10秒。建議選擇早上或傍晚時段上傳，以獲得較佳速度。整體而言，Bouygues
+        Telecom在尼斯的海濱區域表現良好。
+    - q: 我在里昂的Part-Dieu購物中心購物時，使用eSIM會不會有流量優先級降低的問題？
+      a: 在里昂Part-Dieu購物中心，我們的eSIM預設連接Orange網路。通常情況下，每日使用超過3GB後，流量優先級可能降低，但速度仍保持在5
+        Mbps以上，足以進行微信訊息、導航或瀏覽購物資訊。不過，在週末下午購物尖峰時段，部分用戶可能會感受到輕微的速度下降。建議使用自動切換網路功能，若感覺變慢，可手動選擇SFR網路。
+    - q: 在台灣購買法國eSIM後，到巴黎戴高樂機場該如何啟用？需要先註冊嗎？
+      a: 購買後，您會收到一封包含QR碼的電子郵件。在出發前往法國前，請先將QR碼掃描並安裝eSIM到手機中（在台灣即可完成安裝，但還不要啟用數據漫遊）。抵達巴黎戴高樂機場後，當飛機落地並連接到Orange或SFR網路時，請開啟「數據漫遊」功能，約30秒內就會自動啟用。無須在當地機場進行額外註冊或提供護照。請注意，請勿在台灣提前開啟數據漫遊，以免產生不必要的費用。
+    - q: 在法國偏遠地區，例如普羅旺斯的薰衣草田，網路覆蓋是否可靠？
+      a: 在普羅旺斯地區的薰衣草田（如瓦朗索勒高原），主要道路和景點附近通常有穩定的4G訊號，來自Orange或SFR的基站。但深入田野小徑時，可能出現訊號減弱的情況，例如下載速度降至5-10
+        Mbps。建議在離開主要城鎮前先下載離線地圖，並使用GPS導航。我們的eSIM會自動選擇最強訊號的網路，但在偏遠地區仍可能遇到短暫無服務的區域。
+    - q: 我在巴黎使用eSIM玩《原神》這類手遊，延遲表現如何？
+      a: 在巴黎市中心，連接到Orange的5G網路時，《原神》的延遲通常在30-50毫秒之間，非常適合即時戰鬥。但在地鐵站或盧森堡公園等人多的地方，延遲可能升高至60-80毫秒，仍可接受。然而，在每天晚間8-10點的尖峰時段，部分區域可能出現輕微的lag。建議在連線較穩定的咖啡廳（例如花神咖啡館）遊玩，或使用SFR的網路，其自有IP技術對遊戲連線有幫助。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 法國 機場：如何使用 法國 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the France eSIM before your flight. Once you land at Paris Charles
-        de Gaulle Airport, Paris Orly Airport, Nice Côte d'Azur Airport, simply turn
-        off Airplane Mode and enable your eSIM line. It will connect to the local
-        4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your France eSIM activated upon landing, you can immediately open Uber,
-        BlaBlaCar, SNCF Connect to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed France eSIM data allows you to open Google Maps right at
-        the baggage claim in Paris Charles de Gaulle Airport, Paris Orly Airport,
-        Nice Côte d'Azur Airport to check real-time train schedules, bus routes, or
-        walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our France eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our France eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast France eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 從巴黎戴高樂機場入境後，如何快速將eSIM連接到Orange網路？
+      a: |-
+        抵達戴高樂機場後，請先在手機設定中開啟「數據漫遊」並關閉WiFi。由於機場內Orange基地台訊號強勁，通常幾秒內就會自動連接到Orange。若沒有自動連接，請手動選擇網路（設定 > 行動網路 > 網路選擇 > 選擇Orange）。建議在提取行李前完成設定，以便即時使用導航。
+    - q: 在尼斯蔚藍海岸機場，我的eSIM能使用哪個網路？速度如何？
+      a: 尼斯蔚藍海岸機場支援所有主要法國運營商，包括Orange、SFR和Bouygues Telecom。我們的eSIM在該機場預設連接Orange，提供約40-60
+        Mbps的下載速度。如果您在航廈內較深的區域（如停車場），訊號可能略微下降，但仍足以串流音樂。
+    - q: 馬賽普羅旺斯機場有免費WiFi嗎？我還需要使用eSIM嗎？
+      a: 機場提供30分鐘免費WiFi，但連接需通過SMS驗證，對於沒有法國手機門號的遊客較不方便。eSIM則提供更穩定的網路，尤其在下機後需要立即叫車或導航時。建議使用eSIM以避免WiFi的連線限制。
+    - q: 在巴黎奧利機場，eSIM的啟用過程會很久嗎？
+      a: 在奧利機場，啟用過程通常非常迅速。只要您事先安裝好eSIM，落地後開啟數據漫遊，約30秒內就會成功連接。若遇到延遲，可嘗試重新開機或手動選擇SFR網路。機場內訊號良好，不影響啟用。
+    - q: 從機場到市區的交通中，eSIM的網路連續性如何？
+      a: 搭乘RER B線從戴高樂機場到巴黎市區時，地鐵經過的大部分區域都有4G訊號，包括隧道區段。但在部分中途站（如Aulnay-sous-Bois）可能會有短暫的訊號不穩，約5-10秒。全程上網體驗大致流暢，可正常使用導航或社群媒體。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 法國 eSIM 用於 法國 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable France eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in France, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, BlaBlaCar, SNCF Connect use VoIP (internet calling) and in-app
-        messaging. Since you have active France eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your France eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your France eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in France.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our France eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your France eSIM's data network while on
-        the train or in the car.
+    - q: 在巴黎乘坐Uber時，使用eSIM能穩定連接到司機嗎？
+      a: 在巴黎，Uber應用程式需要穩定的網路來配對司機。使用我們的eSIM連接Orange網路時，通常延遲低於30毫秒，定位準確。即使在繁忙的交通路段（如環城大道），訊號依然可靠。建議在叫車前先確保網路已啟用，並允許應用程式的背景數據。
+    - q: 在法國國鐵（SNCF）的TGV高鐵上，eSIM的訊號強度如何？
+      a: 在TGV高鐵行駛時，列車時速高達300公里，訊號可能因快速移動而波動。通常靠近車窗的位置訊號較好，連接到Orange時平均速度約20 Mbps。但在穿越偏遠鄉村時（例如普羅旺斯地區），可能暫時降為3G。建議準備離線娛樂。
+    - q: 我在里昂使用Bolt叫車，eSIM的定位精準嗎？
+      a: 在里昂市區，Bolt的定位服務非常準確，因為eSIM支援GPS輔助定位。即使在使用Bouygues Telecom的網路時，定位誤差也小於5公尺。但在老城區的狹窄街道中，可能會出現輕微漂移，但整體不影響叫車。
+    - q: 搭乘巴黎地鐵時，eSIM能用來查詢路線嗎？
+      a: 巴黎地鐵大部分站點都有4G訊號，使用eSIM開啟Google Maps或Citymapper時，路線查詢非常流暢。但在地鐵行駛途中，部分隧道區段（如2號線）可能短暫斷線，建議提前下載離線地圖。車站內和換乘站通常訊號穩定。
+    - q: 使用eSIM在法國開車導航時，會消耗大量流量嗎？
+      a: 導航應用程式（如Waze或Google Maps）每小時約消耗5-10MB流量，並不會大量消耗您的數據額度。我們的eSIM提供大容量方案，因此不用擔心流量不足。建議在出發前下載法國的離線地圖，以備不時之需。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 法國 的飯店使用 法國 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your France eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your France eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Hôtel Ritz Paris, Four Seasons Hotel George V
-        Paris, Hôtel de Crillon or a local guesthouse, you can input the address into
-        Google Maps and get turn-by-turn walking or transit directions using your
-        France eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your France eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed France eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Uber Eats, Deliveroo, Just Eat and use
-        your France eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your France eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 入住巴黎半島酒店時，可以使用eSIM代替飯店WiFi嗎？
+      a: 當然可以，巴黎半島酒店提供免費WiFi，但速度可能因入住人數而波動。我們的eSIM提供更穩定的個人網路，尤其是在會議室或游泳池區域。建議在飯店公共區域使用eSIM，以獲得更私密和安全的上網體驗。
+    - q: 馬賽洲際酒店的房間內，eSIM的訊號好嗎？
+      a: 馬賽洲際酒店位於老港區，建築結構較老舊，部分客房訊號可能稍弱。但使用eSIM連接Orange網路時，一般房間內訊號良好，速度約30 Mbps。若位於飯店低樓層或陽台區域，訊號可能更佳。
+    - q: 在里昂卡爾頓酒店，eSIM能用於串流Netflix嗎？
+      a: 里昂卡爾頓酒店的房間內，連接到SFR網路時，速度可達25 Mbps，足以串流Netflix的高畫質影片。但若同時使用多個設備，建議使用eSIM的熱點分享功能。飯店WiFi通常有設備數量限制，eSIM則無此問題。
+    - q: 在尼斯的海灘飯店，eSIM的網路速度在晚上會變慢嗎？
+      a: 尼斯海灘飯店位於濱海區，晚上遊客較多，但Orange的基站容量充足，速度仍可維持在20-40 Mbps。若您入住的是高樓層，訊號可能更穩定。建議避開晚上9-10點的上網尖峰時段。
+    - q: 我住在巴黎的民宿（Airbnb），eSIM的網路比民宿WiFi更快嗎？
+      a: 民宿WiFi的品質不一，有些老舊公寓的WiFi速度僅有5 Mbps。使用eSIM通常能獲得超過30 Mbps的速度，且更穩定。建議在入住時先測試兩者速度，選擇較快者使用。
+    - q: 在波爾多的葡萄酒莊園住宿時，eSIM有訊號嗎？
+      a: 波爾多大部分葡萄酒莊園位於鄉村，Orange的4G訊號可覆蓋大部分區域。但距離基站較遠的酒窖或偏遠客房，訊號可能較弱。建議選擇連接Bouygues
+        Telecom的網路，其在鄉村地區覆蓋較廣。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 法國 旅遊景點的網路：法國 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Eiffel Tower, Louvre Museum, Palace of Versailles
-        spontaneously, you can use your France eSIM data to buy skip-the-line tickets
-        online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your France eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring France.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your France eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your France eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your France eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast France eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your France eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your France eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your France eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your France eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Uber Eats, Deliveroo, Just Eat, register
-        using your email or social accounts, and order food seamlessly using your
-        France eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Carte
-        Bancaire (CB), Apple Pay, PayPal require a brief internet handshake, which
-        your France eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your France eSIM to find hidden culinary gems in the city.
+    - q: 在艾菲爾鐵塔附近使用eSIM，上傳照片到社群媒體的速度快嗎？
+      a: 艾菲爾鐵塔區域遊客眾多，但Orange在這裡部署了小型基地台，因此上傳速度不錯。使用我們的eSIM時，上傳一張5MB的照片約需2-3秒。然而，在週末下午人群擁擠時，速度可能下降一半，但仍可接受。
+    - q: 參觀羅浮宮時，eSIM能否用於語音導覽或AR應用？
+      a: 羅浮宮提供官方語音導覽應用程式，使用eSIM的網路可流暢下載音頻和AR內容。館內各展廳均有4G訊號，但金字塔下方的入口處可能較弱。建議在入口先載入主要展品資料，以避免輕微的緩衝。
+    - q: 在尼斯天使灣海灘，eSIM的網路能支援視訊直播嗎？
+      a: 天使灣海灘的網路覆蓋良好，使用Orange或SFR時，上傳速度約15-25 Mbps，適合進行720p的視訊直播。但在夏季尖峰時段，可能因多人使用而出現短暫卡頓。建議切換到SFR的網路以獲得更穩定的上傳。
+    - q: 在馬賽守護聖母聖殿使用eSIM，能順利導航到其他景點嗎？
+      a: 守護聖母聖殿位於山頂，訊號清晰，使用我們的eSIM可快速載入地圖並規劃路線。建議從聖殿出發前往舊港時，先下載離線地圖，因為下山途中部分路段訊號可能暫時遮蔽。
+    - q: 在里昂富維耶聖母院使用eSIM，能串流音樂嗎？
+      a: 富維耶聖母院區域的網路速度約20-30 Mbps，足以串流Spotify的高品質音樂。但參觀時，請考慮使用耳機以免打擾他人。訊號在聖院內部較強，外部平台則略弱。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 法國 eSIM 在 法國 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        France eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G France eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the France eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal France
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your France eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country France eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your France eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在巴黎使用eSIM能正常瀏覽Instagram和Facebook嗎？
+      a: 在巴黎，Instagram和Facebook的載入速度非常快，連接到Orange時幾乎即時更新。即使在香榭麗舍大道等人流量大的地方，圖片和影片也能在3秒內載入。不過，使用Facebook直播時，建議選擇4G以上網路以確保穩定性。
+    - q: 在尼斯使用eSIM傳送WhatsApp訊息和照片流暢嗎？
+      a: 在尼斯，WhatsApp訊息傳送即時，照片發送約需1-3秒。我們的eSIM使用SFR網路時，即使在海灘區域，通話品質也清晰。但發送較大的影片檔案時，建議在WiFi環境下進行，以免消耗過多流量。
+    - q: 使用eSIM在法國能順暢使用微信嗎？語音通話品質如何？
+      a: 微信在法國的使用體驗良好，語音通話延遲約100毫秒，接近本地通話。在巴黎地鐵內，由於訊號可能短暫中斷，通話可能中斷，但在地表區域非常穩定。建議在地鐵內使用文字訊息。
+    - q: 在里昂貼文到TikTok，影片上傳速度快嗎？
+      a: 在里昂市區，上傳一段30秒的TikTok影片（約15MB）通常需要5-8秒。使用Orange的5G網路時，速度更快。若在週末的貝勒庫爾廣場舉辦活動時，上傳速度可能變慢，但仍在可接受範圍。
+    - q: 使用eSIM登入Snapchat，在馬賽打卡時位置分享準確嗎？
+      a: Snapchat的位置分享非常準確，即使在馬賽舊港的狹窄街道，定位誤差也小於10公尺。我們的eSIM支援A-GPS，輔助定位迅速。建議啟用精確位置權限以獲得最佳體驗。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 法國 使用 法國 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In France, you can dial local emergency numbers like 112 (European emergency),
-        15 (medical), 17 (police), 18 (fire) directly from your phone's dialer regardless
-        of your active SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your France eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your France eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your France eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        France eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your France eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our France eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the France eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your France eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your France eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your France eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your France eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your France eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在法國使用eSIM手機撥打緊急電話112，需要解鎖手機嗎？
+      a: 不需要。即使您的手機沒有SIM卡或處於鎖定狀態，撥打112是免費且強制開放的。在法國任何網路（包括Orange、SFR）下，eSIM手機都能直接撥通緊急服務。但請確保手機有電量且處於有訊號的區域。
+    - q: 在巴黎遇到緊急醫療狀況時，eSIM能幫助快速定位嗎？
+      a: 是的，eSIM的定位功能可協助救護人員快速找到您。撥打15（醫療急救）後，請清楚說明位置，同時手機的GPS訊號會傳送給調度中心。建議事先下載法國的緊急應用程式如「SAIP」，以備不時之需。
+    - q: 在法國山區（如霞慕尼）發生意外時，eSIM的網路用途為何？
+      a: 在山區，Orange的網路覆蓋較廣，但偏遠健行路線可能無訊號。eSIM可讓您撥打112並發送簡訊求助。建議使用離線地圖並攜帶額外電源，因為山區可能沒有充電設施。
+    - q: 在法國若手機被偷，該如何用eSIM保護個人資料？
+      a: 首先，請立即透過朋友的裝置登入您的雲端帳戶，遠端清除手機資料。然後撥打17（警察）報案，並請求警方提供報案證明。最後，聯絡我們的客服停用eSIM，以阻止他人使用您的數據。建議平時啟用雙重驗證。
+    - q: 在法國海灘游泳時，eSIM手機進水怎麼辦？
+      a: 若手機進水，請立即關機並取出SIM卡托盤（但eSIM無需取出）。然後將手機放入乾燥米中或使用矽膠乾燥劑。在手機完全乾燥前，切勿開機。建議購買防水手機殼以保護設備。
+    - q: 在法國高速公路上發生車禍，如何使用eSIM求救？
+      a: 首先確保安全：打開雙黃燈，放置警示標誌。然後撥打112，告訴接線員您的位置（可參考高速公路里程標誌）。我們的eSIM在高速公路上訊號通常良好，但隧道內可能較弱。建議事先告知親友您的行程。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 法國 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "France eSIM vs Prepaid SIM: Cost and Convenience Compared"
-  subtitle: "France Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (France) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/France"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami France eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "In Orange stores, purchasing a SIM card may require waiting for an hour or more, and a passport is required. Bouygues' travel SIM must be activated within 30 days via online ID verification, otherwise the SIM is deactivated."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Orange store queues (up to 1 hour wait). Activate your Roami eSIM online within 1 minute after landing in Paris."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All major French operators require passport or ID for purchase. Orange in-store activation may take over an hour. Bouygues requires online ID verification within 30 days."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid Bouygues' 30-day online ID verification requirement. Roami eSIM activates instantly without any KYC."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "SFR's 80GB local plan offers only 32GB in the EU (60% reduction). Bouygues My European SIM's roaming is limited to the initial plan and further top-ups are not possible; subsequent top-ups work only in France."
-      esim_title: "True Global Roaming"
-      esim_desc: "Unlike SFR's 80GB plan that shrinks to 32GB in the EU (60% reduction), Roami eSIM offers full data allowance across Europe with no FUP restrictions."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Orange Holiday starts at €8.99/4GB/31 days; a 10-day trip wastes over 20 days of validity. Bouygues offers €19.90/15GB/15 days and €39.90/120GB/30 days, forcing a choice between insufficient data or paying for unused days."
-      esim_title: "Flexible Plans, No Waste"
-      esim_desc: "Unlike Orange's 31-day cycle (€8.99/4GB) or Bouygues' 15-day minimum (€19.90), Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Orange Mobicarte allows hotspot sharing, but data-only cards (Pochette prêt à surfer) are prohibited in phones. SFR and Bouygues do not explicitly ban tethering."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike Orange's data-only card restrictions. No hidden bans on VoIP or P2P."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "SFR online top-up requires a chip-enabled European credit card. Free Mobile's vending machines accept non-French credit cards but it's a rolling contract that auto-debits monthly."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for a European chip-enabled card like SFR requires."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is typically in French, with limited English availability."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get instant help in English via live chat, unlike French operators that primarily offer support in French during business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "France eSIM vs Local Prepaid SIM: Which Is More Convenient?"
-    cards:
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid EU Roaming Data Shrinkage"
-        desc: "SFR's 80GB local plan offers only <b>32GB</b> in the EU (60% reduction). Bouygues' roaming is limited to the initial plan only. Roami eSIM provides full data allowance across Europe with no FUP."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Multi-Country Travel"
-        desc: "Bouygues My European SIM's roaming is locked to the initial plan; further top-ups work only in France. Roami eSIM works across Europe with consistent data, no need to switch SIMs."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payment Methods Accepted"
-        desc: "SFR online top-up requires a chip-enabled European credit card. Free Mobile's vending machines accept foreign cards but it's a rolling contract. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
-      - icon: "clock"
-        icon_bg: "bg-yellow-100"
-        icon_color: "text-yellow-600"
-        title: "Instant Activation, No Queues"
-        desc: "Orange store activation can take over an hour. Bouygues requires online ID verification within 30 days. Roami eSIM activates in under 1 minute, ready to use upon arrival in France."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

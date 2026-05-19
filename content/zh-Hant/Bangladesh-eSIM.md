@@ -1,94 +1,88 @@
 ---
-title: Bangladesh eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 孟加拉 eSIM 方案 | 孟加拉 eSIM | Roami
+date: '2026-05-19T10:27:16+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Bangladesh eSIM
-  scenario_keywords: Sundarbans tour, Cox's Bazar beach vacation, Dhaka city exploration,
-    Sylhet tea garden visit, historical site hopping
+  core_keyword: 孟加拉 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食, 歷史遺跡
   operators: Grameenphone, Robi, Banglalink
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Dhaka, Chittagong, Sylhet, Rajshahi, Khulna
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  competitors: Airalo, Holafly, Nomad, Ubigi, MTX Connect
+  main_cities: 達卡, 吉大港, 庫爾納, 錫爾赫特, 科克斯巴扎爾
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Buy Bangladesh eSIM | Unlimited 5G Data | No Hidden Charges | Roami
-  description: Need internet in Bangladesh? Stay connected via Top Local Carrier Zero-Lag
-    5G with No Roaming Shock. Ideal for Family Vacations. Enjoy 24/7 Support with
-    Auto Network Switch.
-  keywords: Bangladesh eSIM, prepaid eSIM Bangladesh, cheap eSIM Bangladesh, unlimited
-    data Bangladesh, travel internet Bangladesh
-  low_price: 1.99
-  high_price: 39.9
+  title: 孟加拉 eSIM | 流量吃到飽 | 最佳5G高速網路 | Roami
+  description: 孟加拉旅遊首選 Roami eSIM，提供流量吃到飽與最佳 5G 高速網路。現在購買並使用折扣碼 20%，享受您的旅遊連線優惠方案。
+  keywords: 孟加拉 eSIM, 孟加拉上網卡, 孟加拉網路覆蓋, 達卡 eSIM, 吉大港 eSIM, Grameenphone, Robi, Banglalink
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 孟加拉 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Bangladesh eSIM
+- label: 孟加拉 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Bangladesh
-  title: Best eSIM for Bangladesh
+  alt: 最佳 孟加拉 eSIM
+  title: 最佳 孟加拉 eSIM
 hero:
   flag_image: img/flags/bd.svg
-  flag_alt: Bangladesh Flag
-  title: Bangladesh eSIM data plan
-  subtitle: High-speed 5G network | Comfortable | Prioritized 5G access
+  flag_alt: 孟加拉 國旗
+  title: 孟加拉 eSIM - 旅行計劃
+  subtitle: 孟加拉 eSIM | 高速5G網路 | 流量吃到飽 | 100%退款保證
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 孟加拉 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 孟加拉 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.86'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '13.99'
     oldPrice: '20.98'
     tag: ''
@@ -96,25 +90,25 @@ plans_data:
     daily: '2.00'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '22.99'
     oldPrice: '34.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.28'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '28.99'
     oldPrice: '43.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '4.14'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '15.99'
     oldPrice: '23.98'
     tag: ''
@@ -122,41 +116,41 @@ plans_data:
     daily: '1.07'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '24.99'
     oldPrice: '37.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.67'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '39.99'
     oldPrice: '59.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.67'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '60.99'
     oldPrice: '91.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '4.07'
-  30 Days:
+  30 天:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '25.99'
     oldPrice: '38.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.87'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '16.99'
     oldPrice: '25.48'
     tag: ''
@@ -164,575 +158,352 @@ plans_data:
     daily: '0.57'
     tagIcon: star
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '40.99'
     oldPrice: '61.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.37'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '64.99'
     oldPrice: '97.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.17'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
-  3 Days:
+  3 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '14.99'
     oldPrice: '22.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '5.00'
 discount_banner:
-  title: Special Discount!
+  title: 孟加拉 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 孟加拉 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Bangladesh, including major
-        cities like Dhaka, Chittagong, Sylhet, and Rajshahi. Our Bangladesh eSIM seamlessly
-        connects to the robust networks of Grameenphone, Robi, and Banglalink, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個孟加拉享受廣泛的網路覆蓋，包括達卡、吉大港、庫爾納、錫爾赫特等城市。我們的孟加拉 eSIM 無縫連接到 Grameenphone、Robi、Banglalink
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Grameenphone
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Robi
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Banglalink
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 孟加拉 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Bangladesh.
+    html: 建議抵達 孟加拉 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 孟加拉 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 孟加拉 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 孟加拉 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 孟加拉 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 孟加拉」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Bangladesh'
-    desc: Upon arriving in Bangladesh, enable your Bangladesh eSIM in settings to
-      start using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 孟加拉 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Grameenphone / Robi 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 孟加拉：立即連上 5G/4G 網路
+    desc: 當您降落在 孟加拉（例如 沙阿賈拉勒國際機場（達卡）、沙阿阿馬納國際機場（吉大港）、奧斯馬尼國際機場（錫爾赫特））時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 孟加拉。幾秒鐘內，您的設備將自動連接到 Grameenphone / Robi
+      提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Bangladesh eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Bangladesh eSIM across different
-    travel scenarios.
+  title: 孟加拉 eSIM：完整指南和常見問題
+  desc: 使用 孟加拉 eSIM 在 孟加拉 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 孟加拉 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Bangladesh eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Bangladesh eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Bangladesh eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Bangladesh
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Bangladesh eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Bangladesh eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Bangladesh that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Bangladesh eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Bangladesh eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Bangladesh eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Bangladesh eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Bangladesh,
-        such as Grameenphone, Robi, Banglalink, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like GigSky, Instabridge,
-        Airalo, Holafly?
-      a: While great companies like GigSky, Instabridge, Airalo, Holafly offer reliable
-        services, we focus on providing the most cost-effective Bangladesh eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在達卡市中心，使用 Grameenphone 網路的網速如何？可以順暢觀看 YouTube 影片嗎？
+      a: 在達卡市中心，例如 Gulshan 或 Banani 區域，使用 Grameenphone 的 4G LTE 網路時，平均下載速度約為 20-40
+        Mbps，足以流暢觀看 1080p 的 YouTube 影片。不過在尖峰時段（晚上 7-10 點）於 Motijheel 商業區，速度可能降至 5-10
+        Mbps，但依然能順利播放 720p 內容。若設定為自動品質，通常不會遇到明顯緩衝。
+    - q: 從達卡沙阿賈拉勒國際機場抵達後，如何立即啟用 eSIM？需要去櫃檯註冊嗎？
+      a: 無需前往任何櫃檯。購買後您會收到一封包含二維碼的電子郵件，連接到機場免費 Wi-Fi 後掃描即可安裝設定檔。抵達大廳出口處有 Grameenphone
+        和 Robi 的招牌作為參考。安裝完成後手動選擇網路為 Grameenphone 或 Robi，約 1-2 分鐘內即可上網。
+    - q: 在科克斯巴扎爾海灘區域，Banglalink 的訊號穩定嗎？適合視訊通話嗎？
+      a: 科克斯巴扎爾海灘沿線，尤其是靠近 Himchari 國家公園的路段，Banglalink 的 4G 訊號相當穩定，下載速度約 15-25 Mbps。在
+        Kolatoli 廣場附近進行 WhatsApp 視訊通話時延遲較低，但若深入內陸偏遠村落，訊號可能降至 3G。推薦使用 Grameenphone
+        以獲得最廣的覆蓋。
+    - q: 我的手機支援 eSIM，但購買後沒有收到啟用郵件怎麼辦？
+      a: 若在 10 分鐘內未收到郵件，請先檢查垃圾郵件夾。如果仍未找到，請聯繫客服提供訂單號碼，我們會手動重新發送。您也可以透過官網的聊天功能即時獲取二維碼。常見原因可能是郵箱地址輸入錯誤，建議使用
+        Gmail 或 Outlook。
+    - q: eSIM 可以在孟加拉鄉村地區使用嗎？例如博格拉或朗布爾？
+      a: 可以，但覆蓋品質因運營商而異。Grameenphone 在博格拉市區提供穩定的 4G 訊號，速度約 10-20 Mbps，而在朗布爾縣城則以 3G
+        為主。若計畫深入鄉村，建議啟用數據漫遊時鎖定 Grameenphone，因為其基站密度最高。偏遠地區可能偶爾斷訊，但主要城鎮均能正常使用。
+    - q: 使用 eSIM 時，每天超過多少流量後會被限速？
+      a: 我們提供公平使用政策（FUP），大多數方案在每日使用 500MB 或 1GB 高速流量後，速度會降至 128kbps 至 256kbps，足以收發訊息和瀏覽網頁，但無法觀看影片。例如基礎
+        3 天 1GB 方案，用完即斷，而無限方案則會在 FUP 後降速。建議提前評估用量，必要時購買更高容量方案。
+    - q: 我可以將 eSIM 的數據分享給同行旅伴嗎？
+      a: 可以，eSIM 支援熱點分享，無任何限制。您可以將手機作為 Wi-Fi 熱點，最多連接 5 台裝置。要注意的是，熱點分享會更快消耗總流量，且若超過
+        FUP 額度，所有連接的裝置都會降速。在達卡機場、飯店等場景分享非常方便，無需購買多張 SIM 卡。
+    - q: 為什麼我在吉大港山區（如蘭加馬蒂）訊號較弱？有解決方案嗎？
+      a: 吉大港山區地形起伏，基站覆蓋有限，尤其蘭加馬蒂湖區周圍，Grameenphone 的 4G 訊號可能降至 1-2 格，速度約 2-5 Mbps。建議在進入山區前下載離線地圖。若需保持連線，可嘗試手動選擇
+        Robi 網路，有時在該區域表現更佳。最有效的方法是使用 BTRC 核准的訊號增強器，但一般遊客較難取得。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 孟加拉 機場：如何使用 孟加拉 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Bangladesh eSIM before your flight. Once you land at Hazrat Shahjalal
-        International Airport (DAC), Shah Amanat International Airport (CGP), Osmani
-        International Airport (ZYL), simply turn off Airplane Mode and enable your
-        eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Bangladesh eSIM activated upon landing, you can immediately open
-        Uber, Pathao, Shohoz to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Bangladesh eSIM data allows you to open Google Maps right
-        at the baggage claim in Hazrat Shahjalal International Airport (DAC), Shah
-        Amanat International Airport (CGP), Osmani International Airport (ZYL) to
-        check real-time train schedules, bus routes, or walking directions to the
-        taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Bangladesh eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Bangladesh eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Bangladesh eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 達卡沙阿賈拉勒國際機場有免費 Wi-Fi 嗎？訊號強度如何？
+      a: 達卡機場提供免費 Wi-Fi，連線名稱為「HSIA Airport Free WiFi」。在國際航廈出發大廳和抵達大廳訊號良好，速度約 5-10
+        Mbps，足以收發郵件和訊息。不過連線需透過手機驗證簡訊（本地 SIM 卡），使用 eSIM 的旅客可能無法收到驗證碼，建議預先截圖二維碼或於出發前安裝
+        eSIM。
+    - q: 從達卡機場入境後，如何更換 eSIM 設定？需要手動選擇運營商嗎？
+      a: 入境後開啟手機設定中的行動數據，關閉原 SIM 卡，啟用 eSIM 線路。多數手機會自動掃描並連接到最強訊號的網路，通常為 Grameenphone。若沒有自動連線，請手動搜尋網路並選擇「Grameenphone」或「Robi」。整個過程約需
+        2-3 分鐘。
+    - q: 吉大港機場有 eSIM 購買櫃檯嗎？現場買會比較貴嗎？
+      a: 吉大港機場內沒有專門的 eSIM 櫃檯，但出境大廳有 Grameenphone 和 Robi 的官方店鋪，販售實體 SIM 卡。現場購買 SIM
+        卡通常需支付 200-500 塔卡（約 2-5 美元），而 eSIM 在官網預訂更便宜且方便。建議在出發前於線上購買 eSIM，抵達後即開通。
+    - q: 在錫爾赫特的奧斯馬尼國際機場，eSIM 訊號穩定嗎？
+      a: 奧斯馬尼機場規模較小，但其 4G 覆蓋良好。使用 Grameenphone 在航廈內下載速度約 20 Mbps，訊號穩定。機場附近偏離市區，但通往市中心的路上覆蓋連貫。如果選擇
+        Robi，偶爾在停機坪附近會切換至 3G，但整體通話和上網體驗順暢。
+    - q: 轉機時在達卡機場停留 5 小時，eSIM 能立刻啟用嗎？有時間限制嗎？
+      a: eSIM 在購買後立即生效，無論您是否在機場內。達卡機場設有休息區和免費 Wi-Fi，但若您打算使用 eSIM 數據，只需確保手機已安裝設定檔。唯一的時間限制是方案效期（例如
+        7 天方案從連線那一刻起算），轉機期間的少量使用不會浪費太多天數，非常划算。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 孟加拉 eSIM 用於 孟加拉 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Bangladesh eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Bangladesh, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Pathao, Shohoz use VoIP (internet calling) and in-app messaging.
-        Since you have active Bangladesh eSIM data, drivers can call or message you
-        directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Bangladesh eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Bangladesh eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in Bangladesh.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Bangladesh eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Bangladesh eSIM's data network while
-        on the train or in the car.
+    - q: 達卡市區叫車常用的 App 有哪些？支援外國信用卡嗎？
+      a: Uber 和 Pathao 是達卡最受歡迎的叫車 App，Uber 可綁定國際信用卡，Pathao 主要支援本地 bKash 或現金支付。然而許多司機偏好現金，建議備妥小額塔卡。使用
+        eSIM 的旅客可直接透過 App 叫車，不需本地 SIM 卡，因為 App 可透過數據連線註冊。
+    - q: 從達卡機場搭乘計程車到 Gulshan 區大約多少錢？會被敲竹槓嗎？
+      a: 從機場到 Gulshan 的計程車費用約為 800-1200 塔卡（約 7-10 美元），若使用 Uber 或 Pathao 則價格透明約 500-700
+        塔卡。機場外攬客的司機可能開價 2000 塔卡，建議堅持使用叫車 App。eSIM 可確保您隨時查看路線，避免被繞路。
+    - q: 吉大港到科克斯巴扎爾的巴士有 Wi-Fi 嗎？車程多久？
+      a: 部分豪華巴士如「Green Line」或「Shohagh」提供車內 Wi-Fi，但速度較慢，僅供傳訊息。車程約 4-5 小時，沿途經過鄉村景觀。自備
+        eSIM 更可靠，因為巴士 Wi-Fi 在偏遠路段會中斷。建議提前下載影音內容以防萬一。
+    - q: 孟加拉的火車票可以線上預訂嗎？需要手機驗證嗎？
+      a: 孟加拉鐵路官網（railway.gov.bd）提供線上訂票，但註冊時需要本地手機號碼接收簡訊驗證碼。外國旅客若無 SIM 卡，可委託飯店代訂或至車站售票窗口購買。使用
+        eSIM 的旅客可嘗試接收 SMS，但部分 eSIM 不支援語音簡訊，建議備用方案。
+    - q: 在錫爾赫特市區，搭人力三輪車如何議價？需要先談好價格嗎？
+      a: 人力三輪車是短程主要交通工具，起價約 20-50 塔卡，視距離而定。上車前務必談好價格並確認是否包含行李費。許多車夫不會說英語，可用 Google
+        翻譯輔助。eSIM 的網路連線在此場景非常實用，可即時查詢地圖確認路線是否被繞遠。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 孟加拉 的飯店使用 孟加拉 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Bangladesh eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Bangladesh eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Pan Pacific Sonargaon Dhaka, The Westin Dhaka,
-        Radisson Blu Dhaka Water Garden or a local guesthouse, you can input the address
-        into Google Maps and get turn-by-turn walking or transit directions using
-        your Bangladesh eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Bangladesh eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Bangladesh eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Foodpanda, HungryNaki, Shohoz Food and
-        use your Bangladesh eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Bangladesh eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 達卡的洲際酒店提供免費 Wi-Fi 嗎？網速夠用嗎？
+      a: 洲際達卡提供免費 Wi-Fi，公共區域速度約 10-15 Mbps，客房內偶爾降至 5 Mbps。不過由於牆壁厚，建議在靠近走廊處使用。如果需要高速上傳工作文件，可搭配
+        eSIM 作為備用。酒店大廳有充電插座，方便旅客同時使用多個裝置。
+    - q: 吉大港的海灘度假村有 eSIM 訊號嗎？晚上會斷網嗎？
+      a: 吉大港的度假村如「Cox's Bazar Beach Resort」通常有良好覆蓋，Grameenphone 訊號強。但深夜時段（凌晨 1-5 點）基站可能進行維護，造成短暫中斷約
+        15 分鐘。若飯店提供 Wi-Fi，可作為備援。建議睡前下載好隔天的離線地圖。
+    - q: 入住庫爾納的經濟型旅館，可以自己安裝路由器嗎？
+      a: 多數經濟旅館不允許自設路由器，但可請求櫃檯提供 Wi-Fi 密碼。若房間訊號弱，使用 eSIM 的熱點分享會更方便。庫爾納市區的 4G 覆蓋良好，速度約
+        15 Mbps，足以應付一般上網需求。
+    - q: 飯店內的電壓和插座類型是什麼？我需要帶轉接頭嗎？
+      a: 孟加拉使用 220V 電壓，插座為印標（三圓腳）或歐標（兩圓腳）。許多飯店提供萬用插座，但建議自備轉接頭。eSIM 的安裝不依賴電源，但為手機充電仍是必要，尤其是使用熱點分享時耗電較快。
+    - q: 在達卡飯店叫客房服務時，如何用外送 App 點餐？推薦哪個？
+      a: 可使用 Foodpanda 或 HungryNaki，載入後輸入飯店地址即可。大部分餐廳接受現金或 bKash，Foodpanda 也支援信用卡。eSIM
+        確保您在人潮擁擠時仍能順利下單。記得在備註欄寫明房間號碼，避免送到櫃檯延誤。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 孟加拉 旅遊景點的網路：孟加拉 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Sundarbans National Park, Cox's Bazar Beach, Lalbagh
-        Fort spontaneously, you can use your Bangladesh eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Bangladesh eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Bangladesh.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Bangladesh eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Bangladesh eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Bangladesh eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Bangladesh eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Bangladesh eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Bangladesh eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Bangladesh eSIM ensures you
-        can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Bangladesh eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Foodpanda, HungryNaki, Shohoz Food, register
-        using your email or social accounts, and order food seamlessly using your
-        Bangladesh eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like bKash,
-        Nagad, Rocket require a brief internet handshake, which your Bangladesh eSIM
-        handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Bangladesh eSIM to find hidden culinary gems in the city.
+    - q: 達卡的拉爾巴格堡需要預約門票嗎？遊覽時間建議多久？
+      a: 拉爾巴格堡不需預約，現場購買門票即可（外國人約 500 塔卡）。遊覽時長約 1.5-2 小時，建議清晨前往避開人潮。堡內有博物館，禁止使用閃光燈拍照。使用
+        eSIM 可查閱語音導覽資訊，了解紅堡的歷史背景。
+    - q: 科克斯巴扎爾海灘有分區嗎？哪一段最適合游泳？
+      a: 科克斯巴扎爾海灘綿延 120 公里，主要分為 Kolatoli 和 Laboni 海灘。Kolatoli 區有救生員且相對安全，適合游泳；Laboni
+        海灘則船隻較多，適合散步。eSIM 可即時查看潮汐時間及天氣預報，確保安全。
+    - q: 貝格拉的六十穹頂清真寺附近有餐廳嗎？推薦什麼食物？
+      a: 清真寺旁有幾家小餐館，提供孟加拉傳統咖哩飯（Kacchi Biryani）和扁豆湯。建議品嚝當地的希爾莎魚（Hilsha），但需注意衛生，選擇現煮攤位。使用
+        eSIM 可搜尋 Tripadvisor 評價，避免踩雷。
+    - q: 從達卡市區到國家議會大廈（Jatiyo Sangsad Bhaban）怎麼去？需要門票嗎？
+      a: 可從達卡市中心搭乘 Uber 或 rickshaw，費用約 100-200 塔卡。外國人需預約導覽（免費，但需出示護照），通常下午開放參觀。建築由路易斯·康設計，非常壯觀。eSIM
+        可即時查詢開放時間，因為節假日可能關閉。
+    - q: 錫爾赫特的比火羅湖（Bisnakandi）適合一日遊嗎？需要導遊嗎？
+      a: 從錫爾赫特市區出發約 1.5 小時車程，適合一日遊。當地有許多導遊提供船遊，費用約 1000-1500 塔卡，可以帶你深入岩石區域。雨季時水勢洶湧，需注意安全。eSIM
+        可讓你在偏遠地區與家人保持聯繫。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 孟加拉 eSIM 在 孟加拉 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Bangladesh eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Bangladesh eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Bangladesh eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Bangladesh
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Bangladesh eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Bangladesh eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Bangladesh eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在孟加拉使用 Facebook 和 Instagram 會被限制嗎？需要 VPN 嗎？
+      a: 孟加拉沒有全面封鎖社群媒體，Facebook、Instagram、WhatsApp 均可正常使用。不過偶爾因政治敏感時期會暫時限制部分功能。通常不需要
+        VPN，但若遇到連線不穩，可嘗試切換 Robi 網路。全程無需額外設定。
+    - q: 在達卡拍攝當地人物時，有什麼禮儀需要注意？
+      a: 拍攝前應微笑並徵求同意，多數人會友善配合。女性或宗教人士可能不願被拍，敏感場合（如寺廟內）禁止攝影。使用 eSIM 的翻譯功能可以簡單說「我會給您看照片嗎？」來溝通。
+    - q: 孟加拉人使用哪些即時通訊 App？和外國人溝通方便嗎？
+      a: WhatsApp 是最普遍的，幾乎每個有智慧型手機的人都用。Facebook Messenger 也常用於商業聯繫。部分年輕人使用 Imo 或 Telegram。外國人可自由使用這些
+        App，eSIM 的數據方案完全支援，通話品質良好。
+    - q: 在孟加拉可以隨意使用 Google Maps 導航嗎？準確度如何？
+      a: Google Maps 在主要城市如達卡和吉大港相當準確，會顯示即時路況和行車時間。但在老城區小巷中偶有偏差，建議結合在地圖示。eSIM 確保導航不中斷，離線地圖也需預先下載備用。
+    - q: 使用交友 App（如 Tinder）在孟加拉常見嗎？需要遵守什麼規範？
+      a: Tinder 在孟加拉大城市有一定用戶，但相對保守。個人資料避免暴露照片，對話內容應尊重當地文化。eSIM 讓你能隨時匹配，但注意公共場所使用勿引起側目。整體而言，更推薦透過共同興趣社團認識朋友。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 孟加拉 使用 孟加拉 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Bangladesh, you can dial local emergency numbers like 999 (National Emergency),
-        112 (Fire), 110 (Police) directly from your phone's dialer regardless of your
-        active SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Bangladesh eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Bangladesh eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Bangladesh eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Bangladesh eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Bangladesh eSIM, use
-        your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Bangladesh eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Bangladesh eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Bangladesh eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Bangladesh eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Bangladesh eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Bangladesh eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Bangladesh eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在孟加拉如果錢包被偷，第一時間應該做什麼？
+      a: 首先立即撥打 999 報警，並要求出具報案記錄（General Diary），這對後續保險理賠至關重要。如果信用卡同時遺失，請馬上通知發卡銀行掛失。eSIM
+        可讓你無需 SIM 卡也能撥打緊急電話，且在偏遠地區保持聯繫。
+    - q: 達卡醫院的急診室會說英語嗎？需要帶翻譯嗎？
+      a: 大型醫院如達卡醫學院醫院的急診室有英語流利的醫生，但掛號人員可能只會孟加拉語。建議下載翻譯 App，或使用 eSIM 的即時翻譯功能。主要問題是溝通病徵，可事先寫下關鍵詞如「腹痛」等。
+    - q: 在孟加拉旅遊時，需要打哪些疫苗？出發前多久接種？
+      a: 建議接種 A 型肝炎、傷寒、破傷風疫苗，以及瘧疾預防藥物。最好在出發前 4-6 週諮詢旅遊醫學門診。黃熱病疫苗並非強制，但若從疫區入境需出示證明。eSIM
+        可協助查找當地診所資訊，但優先接種完再出發。
+    - q: 孟加拉的天氣預報 App 哪個最準？遇到颶風警報怎麼辦？
+      a: AccuWeather 和 Weather.com 針對孟加拉灣的預報相當準確，可提前 3 天預測氣旋。若發布颶風警報，應立即前往官方避難所，常見於學校或清真寺。eSIM
+        讓你能持續接收警報訊息，即使當地電信中斷也可靠數據網路獲取資訊。
+    - q: 如果在孟加拉食物中毒，有哪些醫院可以處理？
+      a: 達卡的阿波羅醫院（Apollo Hospital）和 IKDRC 醫院的腸胃科設備齊全。症狀輕微可先服用口服脫水補充液（藥房即可購得），若嚴重則需靜脈輸液。eSIM
+        可協助你導航至最近的醫院，並與領事館聯繫。
+    - q: 在孟加拉遇到交通意外且受傷，應該撥打哪個號碼？
+      a: 撥打 999（警察與救護車統合）或 112（手機直撥）。救護車可能延遲 15-30 分鐘，因此建議順便攔計程車或三輪車送往最近醫院。若是輕傷，可自行前往地區醫院。eSIM
+        可開啟緊急位置共享功能，讓救援隊快速發現你。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 孟加拉 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Bangladesh eSIM or SIM Card for Tourists: Which Should You Choose?"
-  subtitle: "Bangladesh Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Bangladesh) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Bangladesh"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Bangladesh eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Acquisition requires visiting a Teletalk customer center or GP airport counter with passport and visa copies; GP airport counter is open until 3 AM but process takes time."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip GP airport queues and Teletalk center visits. Activate online within 1 minute after landing in Dhaka."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All operators require 1-2 passport-size photos, passport and Bangladesh visa copies for registration."
-      esim_title: "No Passport Registration"
-      esim_desc: "Avoid submitting 1-2 passport photos and visa copies to Teletalk or GP. eSIM activates without any KYC."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, local SIMs do not include international roaming; separate add-ons are needed."
-      esim_title: "Multi-Network Roaming"
-      esim_desc: "Unlike GP's single network, eSIM automatically switches between Robi, Banglalink, and Teletalk, ensuring coverage even in Sundarbans where GP has no signal."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Due to regulation, all operators offer minimum 7-day plans; e.g., GP 1GB/7 days costs 77 taka, causing waste for short stays."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Avoid GP's 7-day minimum waste (e.g., 1GB/77 taka). Roami offers 7-day plans starting from $1.99/GB, matching your exact stay."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed but may be restricted on some plans."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike some local plans that may block hotspot, eSIM allows full-speed tethering on all devices."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up can be done via iTopUp for Banglalink; foreign credit cards may fail; physical vouchers are common."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local vouchers or iTopUp."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is available in Bengali and English, but hours may be limited; no live chat for prepaid."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock support in English, unlike limited local prepaid support hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Bangladesh eSIM vs Local Prepaid SIM: Which Is More Convenient?"
-    cards:
-      - icon: "clock"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "1-Minute Activation vs. 30-Minute Queue"
-        desc: "GP airport counter may be open until 3 AM but requires filling forms and waiting. eSIM activates <b>within 1 minute</b> after online purchase, no queues."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate 7-Day Minimum Waste"
-        desc: "Regulation forces all operators to offer <b>minimum 7-day plans</b>. A 3-day tourist buying GP's 1GB/77 taka plan wastes over <b>57%</b> of data and validity. eSIM offers plans as short as 1 day."
-      - icon: "wifi"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Unrestricted Hotspot Tethering"
-        desc: "Some local plans restrict tethering or throttle after a limit. eSIM allows <b>full-speed hotspot</b> on all devices, perfect for sharing with travel companions."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Bangladesh's Strict SIM Passport Requirements"
-        desc: "All local operators (Teletalk, GP, Banglalink, Robi) require <b>1-2 passport photos</b>, passport and visa copies for registration. eSIM activates instantly with zero paperwork."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

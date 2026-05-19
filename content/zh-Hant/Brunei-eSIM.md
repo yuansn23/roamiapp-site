@@ -1,122 +1,115 @@
 ---
-title: Brunei eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 汶萊 eSIM 方案 | 汶萊 eSIM | Roami
+date: '2026-05-19T10:34:40+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Brunei eSIM
-  scenario_keywords: Bandar Seri Begawan sightseeing, rainforest trekking, water village
-    tour, royal heritage, mosque visits
-  operators: DST, Progresif, imagine
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Bandar Seri Begawan, Kuala Belait, Seria, Tutong, Bangar
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 汶萊 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食, 水上活動
+  operators: DST, Progresif, TelBru
+  competitors: Airalo, Holafly, Nomad, SimLocal, BNESim
+  main_cities: 斯里巴加灣市, 馬來奕, 詩里亞, 都東
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Brunei Travel eSIM | Instant QR Setup | Native 5G | Roami
-  description: Need internet in Brunei? Experience 24/7 Data and seamless True 5G
-    from Top Local Carrier. Features Best Local Network and Auto-Connect, great for
-    Visiting Family.
-  keywords: Brunei eSIM, prepaid eSIM Brunei, cheap eSIM Brunei, unlimited data Brunei,
-    travel eSIM Brunei
-  low_price: 1.99
-  high_price: 39.9
+  title: 汶萊旅遊 eSIM | eSIM無限流量 | 5G網路自動切換 | Roami
+  description: 汶萊旅遊推薦 Roami eSIM 無限流量方案。強大的 5G 網路自動切換功能讓您旅途不斷網，輸入折扣碼 20% 獲取專屬優惠折扣。
+  keywords: 汶萊 eSIM, 汶萊上網, 汶萊網路覆蓋, DST, Progresif, 汶萊旅遊, 斯里巴加灣市
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 汶萊 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Brunei eSIM
+- label: 汶萊 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Brunei
-  title: Best eSIM for Brunei
+  alt: 最佳 汶萊 eSIM
+  title: 最佳 汶萊 eSIM
 hero:
   flag_image: img/flags/bn.svg
-  flag_alt: Brunei Flag
-  title: Brunei eSIM data plan
-  subtitle: 100% money-back guarantee | Automatic network selection | 24/7 customer
-    support
+  flag_alt: 汶萊 國旗
+  title: 汶萊 eSIM - 旅行計劃
+  subtitle: 汶萊 eSIM | 高速5G網路 | 流量吃到飽 | 支援熱點分享
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 汶萊 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 汶萊 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.43'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '22.99'
     oldPrice: '34.48'
     tag: ''
     tagColor: bg-orange-500
     daily: '1.53'
     tagIcon: star
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '99.99'
     oldPrice: '149.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.33'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '30.99'
     oldPrice: '46.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.03'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '26.99'
     oldPrice: '40.48'
     tag: ''
@@ -124,533 +117,318 @@ plans_data:
     daily: '0.90'
     tagIcon: star
 discount_banner:
-  title: Special Discount!
+  title: 汶萊 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 汶萊 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Brunei, including major cities
-        like Bandar Seri Begawan, Kuala Belait, and Seria. Our Brunei eSIM seamlessly
-        connects to the robust networks of DST, Progresif, and imagine, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個 汶萊 享受廣泛的網路覆蓋，包括 斯里巴加灣市、馬來奕、詩里亞 等城市。我們的 汶萊 eSIM 無縫連接到 DST、Progresif
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: DST
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Progresif
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: imagine
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 汶萊 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Brunei.
+    html: 建議抵達 汶萊 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 汶萊 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 汶萊 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 汶萊 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 汶萊 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 汶萊」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Brunei'
-    desc: Upon arriving in Brunei, enable your Brunei eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 汶萊 時，只需開啟 eSIM
+      – 有效期將在首次連接到 DST / Progresif 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 汶萊：立即連上 5G/4G 網路
+    desc: 當您降落在 汶萊（例如 汶萊國際機場 (BWN)）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定 → 行動服務** 並開啟您的
+      Roami eSIM 汶萊。幾秒鐘內，您的設備將自動連接到 DST / Progresif 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備
+      – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Brunei eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Brunei eSIM across different
-    travel scenarios.
+  title: 汶萊 eSIM：完整指南和常見問題
+  desc: 使用 汶萊 eSIM 在 汶萊 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 汶萊 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Brunei eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Brunei eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Brunei eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Brunei and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Brunei eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Brunei eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Brunei that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Brunei eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Brunei eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Brunei eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Brunei eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Brunei,
-        such as DST, Progresif, imagine, to ensure premium speeds at a fraction of
-        roaming costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, Airalo, Yesim,
-        Flexiroam?
-      a: While great companies like Holafly, Airalo, Yesim, Flexiroam offer reliable
-        services, we focus on providing the most cost-effective Brunei eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在汶萊斯里巴加灣市中心的網速如何？可以流暢觀看 YouTube 嗎？
+      a: 在斯里巴加灣市中心，例如蘇丹奧馬爾·阿里·賽義夫丁清真寺或 Yayasan 購物中心附近，連接到 DST 或 Progresif 網路時，下載速度通常在
+        30-50 Mbps 之間，足夠流暢觀看 1080p 影片。不過在尖峰時段（晚間7-10點），尤其是 Gadong 夜市周邊，速度可能降至 10-20
+        Mbps，但 YouTube 仍可正常播放。若使用 Progresif，在 Kiulap 商業區的體驗可能因數據優先級而有所波動。建議避免在超過每日高速流量後觀看
+        4K 內容，以免觸發降速。
+    - q: 在汶萊機場入境後，如何立即設定 eSIM 上網？
+      a: |-
+        汶萊國際機場 (BWN) 入境大廳有免費 Wi-Fi，可先連接後購買 eSIM。購買後，eSIM 會自動安裝，您只需在手機設定中啟用該數據方案即可。若使用 iPhone，可至「設定」>「行動服務」>「加入行動方案」掃描 QR 碼；Android 則在「設定」>「網路與網際網路」>「行動網路」新增。啟用後通常1-2分鐘內即可連網，無需插拔實體 SIM。若遇到問題，可至機場內的 DST 或 Progresif 服務台尋求協助，他們提供免費的設定指導。
+    - q: 在汶萊使用 eSIM 時，每天高速流量用完後會怎樣？
+      a: 汶萊的 eSIM 方案通常有每日高速流量上限（例如 1GB 或 2GB），超過後速度會降為 128kbps 或 256kbps，足以傳送文字訊息與使用地圖，但無法流暢觀看影片。降速後，WhatsApp、微信等聊天軟體仍可正常使用，但傳送照片可能較慢。為避免降速，建議在旅館使用
+        Wi-Fi 下載大型檔案，並關閉背景應用程式的數據更新。若需更多高速流量，可選購無降速的無限方案。
+    - q: 在汶萊馬來奕的油田地區，Progresif 的訊號是否比 DST 穩定？
+      a: 馬來奕是汶萊的石油重鎮，當地網路基礎設施良好。實測顯示，在馬來奕市區，DST 的 4G 訊號覆蓋較廣，速度約 25-40 Mbps；Progresif
+        在詩里亞油田區域的工業區有專屬基地台，訊號更穩定，速度可達 35-50 Mbps。對於一般遊客，若主要活動在馬來奕市區，DST 足夠使用；若需深入油田參觀，建議選擇
+        Progresif 以獲得最佳體驗。在前往詩里亞的油田路上，部分路段可能出現短暫訊號死角，但整體覆蓋良好。
+    - q: 汶萊的 eSIM 是否支援熱點分享給筆電使用？
+      a: 汶萊的 eSIM 方案通常支援熱點分享，讓您可以將手機的網路分享給筆電或其他設備。使用時請注意，分享的數據流量會計入方案的高速限制內，若分享較多，可能更快觸發降速。建議僅在必要時開啟熱點，例如需要筆電處理緊急工作。部分方案可能限制分享速度，但一般瀏覽網頁、收發郵件無問題。若需大量分享，可購買專用數據包。
+    - q: 在汶萊摩拉海灘使用 eSIM 看社群媒體，訊號好嗎？
+      a: 摩拉海灘是汶萊的熱門景點，訊號覆蓋良好。在沙灘區大部分範圍，DST 和 Progresif 的 4G 訊號強度為 3-4 格，速度約 20-35
+        Mbps，可順暢滑 Instagram、Facebook 及 TikTok。靠近海水處可能因基地台距離變遠而降至 2 格，但基本社群使用不受影響。若前往海灘深處或樹林遮蔽區，訊號可能稍弱，但整體體驗令人滿意。
+    - q: 在汶萊使用 eSIM 時，WhatsApp 語音通話品質如何？
+      a: 在汶萊主要城市，包括斯里巴加灣、馬來奕和都東，使用 DST 或 Progresif 進行 WhatsApp 語音通話，通話品質清晰，延遲低。即使在行駛的車輛中，如從機場到市區的道路上，通話仍然穩定。但在人潮密集的
+        Gadong 夜市，因網路使用量大，可能偶有短暫雜音。若進行國際通話（例如打回台灣），建議連接到 DST 網路，因其國際路由延遲更低，語音更自然。總體而言，汶萊的網路足以支援高品質的
+        VoIP 通話。
+    - q: 在汶萊的購物中心如 The Mall，使用 eSIM 上網順暢嗎？
+      a: The Mall 是斯里巴加灣最大的購物中心之一，內部有 DST 和 Progresif 的室內分佈天線，因此訊號極佳。在地下美食街，速度約 30-50
+        Mbps；在三樓電子區，甚至可達 60 Mbps。使用 eSIM 瀏覽網頁、看短片、使用支付 App 都非常流暢。不過在節假日或促銷期間，人多時可能出現短暫降速，但基本不影響使用。建議下載離線地圖以備不時之需。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 汶萊 機場：如何使用 汶萊 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Brunei eSIM before your flight. Once you land at Brunei International
-        Airport, Royal Brunei Air Force Base, simply turn off Airplane Mode and enable
-        your eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Brunei eSIM activated upon landing, you can immediately open Dart
-        (ride-hailing), BruWay to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Brunei eSIM data allows you to open Google Maps right at
-        the baggage claim in Brunei International Airport, Royal Brunei Air Force
-        Base to check real-time train schedules, bus routes, or walking directions
-        to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Brunei eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Brunei eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Brunei eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 汶萊國際機場 (BWN) 有免費 Wi-Fi 嗎？如何連接？
+      a: 汶萊國際機場提供免費 Wi-Fi，名為「BWN Free Wi-Fi」。連接後需在瀏覽器認證頁面輸入手機號碼（可輸入任一號碼，無需實際驗證）或使用社交媒體帳號登入。連線速度可達
+        10 Mbps，足夠收發訊息、查詢資料，但影片可能較慢。建議在等待行李時先連接 Wi-Fi，啟用 eSIM 後再切換至行動數據。機場內餐廳和貴賓室也提供專屬
+        Wi-Fi，但訊號覆蓋有限。
+    - q: 在汶萊國際機場購買當地 SIM 卡，與 eSIM 相比哪個更划算？
+      a: 汶萊國際機場入境大廳有 DST 和 Progresif 的門市，提供預付卡。以 7 天方案為例，當地實體 SIM 卡約 5-10 汶萊元，包含 2-5GB
+        數據；而 eSIM 方案通常價格相近，但無需更換 SIM 卡，且可提前購買。對於短期遊客，eSIM 更方便，因為抵達即可連網；實體卡則需排隊、填寫資料。若停留超過一週，實體卡可能提供更優惠的長期方案。整體而言，eSIM
+        在便利性上勝出，而成本差異不大。
+    - q: 從汶萊國際機場到市區，eSIM 的導航會延遲嗎？
+      a: 從機場到斯里巴加灣市區約 10 公里，車程 15-20 分鐘。使用 DST 或 Progresif 的 4G 網路，Google Maps 或 Waze
+        的導航延遲低於 1 秒，路線更新即時。沿途經過的 Muara 高速公路訊號穩定，無明顯中斷。若使用環島或立交橋路段，導航反應靈敏。唯一可能延遲的是在機場地下停車場，但離開後立即恢復。整體體驗順暢，無需擔心迷路。
+    - q: 汶萊國際機場有 eSIM 專屬服務櫃檯嗎？
+      a: 汶萊國際機場的 DST 和 Progresif 門市均提供 eSIM 服務，但並非專屬 eSIM 櫃檯。遊客可至兩家門市詢問，店員會協助掃描 QR
+        碼安裝。DST 門市位於入境大廳左側，Progresif 在右側。營業時間為每日 8:00-21:00，深夜抵達則無法現場購買。建議提前在線購買 eSIM，抵達後立即啟用，避免排隊等候。部分線上平台提供
+        24 小時客服，可即時解決設定問題。
+    - q: 在汶萊國際機場等候時，eSIM 能順暢觀看 Netflix 嗎？
+      a: 在機場連接到 DST 或 Progresif 網路時，訊號強度通常為 4 格，速度約 25-40 Mbps，足以流暢播放 1080p 的 Netflix
+        影片。不過，候機大廳人多時，速度可能降至 10-15 Mbps，但仍可播放 720p 畫質。若使用 Progresif，在靠近登機門區域可能因金屬結構導致訊號衰減，但整體體驗佳。建議提前下載影片離線觀看，以避免流量消耗。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 汶萊 eSIM 用於 汶萊 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Brunei eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Brunei, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Dart (ride-hailing), BruWay use VoIP (internet calling) and in-app
-        messaging. Since you have active Brunei eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Brunei eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Brunei eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Brunei.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Brunei eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Brunei eSIM's data network while on
-        the train or in the car.
+    - q: 在汶萊使用 Dart 叫車時，eSIM 的網路穩定嗎？
+      a: Dart 是汶萊主要的叫車應用程式，類似 Grab。在斯里巴加灣市區，使用 DST 或 Progresif 的 4G 網路，叫車請求通常在 10
+        秒內匹配成功，定位精準。若在郊區如都東，訊號較弱，但仍可正常叫車，只是等待時間可能略長。司機與乘客的溝通透過 App 內訊息或電話，語音通話清晰。建議在叫車前確認所在地點有良好訊號，以避免取消訂單。
+    - q: 在汶萊搭乘水上計程車時，eSIM 能正常使用嗎？
+      a: 水上計程車是汶萊水上村莊的主要交通方式。行駛在汶萊河上時，河面開闊，距離岸邊基地台不遠，因此 DST 和 Progresif 的訊號強度約 3-4
+        格，速度 15-30 Mbps。但當船經過橋下或靠近叢林河岸時，訊號可能暫時中斷 10-20 秒，然後迅速恢復。使用地圖 App 導航功能正常，但建議離線下載河岸區域地圖以備不時之需。整體來說，短程航行中網路可用。
+    - q: 在汶萊的公共巴士上，eSIM 訊號如何？
+      a: 汶萊的公共巴士主要行駛於市區路線，例如斯里巴加灣到馬來奕。巴士行進中，DST 網路提供穩定的 4G 訊號，速度約 20-40 Mbps，可瀏覽網頁和傳送訊息。但部分老舊巴士車體金屬屏蔽較強，可能導致訊號減弱。當巴士經過郊區或偏遠區域時，偶爾會進入
+        3G 區域，速度降至 3-5 Mbps，但基本應用不受影響。建議使用 Progresif，其在移動中的訊號切換較為平滑。
+    - q: 在汶萊的租車自駕時，使用 eSIM 導航需要注意什麼？
+      a: 自駕是探索汶蘭的絕佳方式，租車公司常提供 GPS，但使用 eSIM 手機導航更即時。汶萊主要道路如斯里巴加灣至馬來奕的公路訊號穩定，但前往淡武廊縣的叢林路段可能出現訊號死角。建議下載
+        Google 離線地圖或 MAPS.ME 離線地圖。另外，汶萊加油站較少，導航時可預先標記沿途加油站。使用 eSIM 導航不會產生漫遊費，但注意高速流量限制，以免降速影響導航。
+    - q: 在汶萊夜間搭乘 Grab 時，eSIM 與司機的聯絡順暢嗎？
+      a: Grab 在汶萊已整合 Dart 服務，夜間叫車時，eSIM 的語音通話品質良好。在斯里巴加灣市區，延遲低，司機可清楚聽到您的位置描述。若在 Gadong
+        夜市等熱鬧區域，背景噪音較大，但通話仍清晰。萬一遇到司機迷路，可透過 App 內的即時訊息傳送精確定位，訊息發送即時。整體而言，夜間用車溝通無障礙。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 汶萊 的飯店使用 汶萊 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Brunei eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Brunei eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at The Empire Brunei, Radisson Hotel Brunei Darussalam,
-        Badi'ah Hotel or a local guesthouse, you can input the address into Google
-        Maps and get turn-by-turn walking or transit directions using your Brunei
-        eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Brunei eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Brunei eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download BruFood, Foodpanda Brunei and use your
-        Brunei eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Brunei eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 在帝國酒店使用 eSIM，網速是否能滿足商務需求？
+      a: 帝國酒店是汶萊最豪華的酒店，擁有專屬基地台，DST 和 Progresif 的覆蓋極佳。大堂和客房內速度通常達 50-80 Mbps，可支援視訊會議、大檔案上傳。但宴會廳舉辦大型活動時，速度可能因擁擠降至
+        15 Mbps，仍可應付一般商務需求。酒店公共區域提供 Wi-Fi，但 eSIM 數據方案更隱私。若需穩定連線，建議選擇 DST 網路。
+    - q: 在瑞池斯達斯里巴加灣酒店，eSIM 訊號會受到建築結構影響嗎？
+      a: 瑞池斯達位於市中心，建築為現代混凝土結構。在低樓層房間，訊號強度約 3 格，速度 25-40 Mbps；高樓層房間因無遮蔽，速度可達 50 Mbps。電梯內短暫訊號中斷，但離開後立即恢復。泳池區訊號優良，可順暢播放音樂。整體而言，建築對訊號的影響輕微，
+        eSIM 使用無障礙。
+    - q: 在汶萊的民宿使用 eSIM 時，晚上尖峰時段網速會變慢嗎？
+      a: 汶萊的民宿多分布在斯里巴加灣住宅區，晚上 8-10 點是用網高峰，此時住宅區 DST 的速度可能從白天的 30 Mbps 降至 10-15 Mbps。Progresif
+        因用戶較少，下降幅度較小。若民宿使用共用網路，建議避開此段時間進行大型下載。使用 eSIM 可視訊通話，但畫質可能降至 720p。整體仍可接受。
+    - q: 在詩里亞的飯店使用 eSIM，網路延遲高嗎？
+      a: 詩里亞是油田城鎮，飯店多為商務型。DST 和 Progresif 均部署了低延遲網路，ping 值約 30-50ms，適合線上遊戲和即時通訊。在
+        Oil Town Hotel 等住宿點，速度可達 20-35 Mbps。油田區的工業干擾較少，網路穩定。若需大量上傳工作檔案，詩里亞的飯店網路勝過市區。
+    - q: 在都東的度假村使用 eSIM，社群媒體上傳照片快嗎？
+      a: 都東的度假村靠近海邊，Progresif 的訊號較佳，上傳照片到 Instagram 或 Facebook 約需 3-5 秒（每張 5MB）。DST
+        在度假村大堂訊號強，但房間內可能稍弱。若要上傳多張照片，建議在公共區域或使用飯店 Wi-Fi eSIM 作為備援。整體速度足夠日常分享。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 汶萊 旅遊景點的網路：汶萊 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Omar Ali Saifuddien Mosque, Kampong Ayer, Ulu Temburong
-        National Park spontaneously, you can use your Brunei eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Brunei eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Brunei.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Brunei eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Brunei eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Brunei eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Brunei eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Brunei eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Brunei eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Brunei eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Brunei eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like BruFood, Foodpanda Brunei, register using
-        your email or social accounts, and order food seamlessly using your Brunei
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like BIBD
-        QuickPay, Progresif Pay require a brief internet handshake, which your Brunei
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Brunei eSIM to find hidden culinary gems in the city.
+    - q: 參觀傑米·阿斯里·哈桑尼·博爾基亞清真寺時， eSIM 訊號強嗎？
+      a: 該清真寺位於斯里巴加灣，是最大的清真寺。園區內 DST 和 Progresif 訊號強度 4-5 格，速度 40-60 Mbps，可即時上傳照片或直播。禮拜大廳內可能因金屬裝飾略有衰減，但依然可連線。戶外庭園訊號極佳。建議避開週五禮拜時間（12:00-14:00）以避免人潮影響速度。
+    - q: 在水上村莊（甘榜亞逸）漫步時， eSIM 能順暢使用地圖嗎？
+      a: 水上村莊由木棧道連接，大部分區域 DST 訊號 3-4 格，速度 15-30 Mbps。Google Maps 可正常顯示位置，但部分小巷標示不清，建議配合離線地圖。在村內學校或清真寺附近訊號最強。由於木屋結構不遮蔽訊號，整體導航體驗順暢。若迷路，可隨時打電話給民宿主人。
+    - q: 在汶萊博物館參觀時， eSIM 下載語音導覽快嗎？
+      a: 汶萊博物館位於斯里巴加灣，展示歷史文物。館內提供免費 Wi-Fi，但 eSIM 速度約 20-35 Mbps，下載語音導覽 App 僅需 1-2
+        分鐘。地下室展廳訊號稍弱，但主展廳良好。建議提前下載導覽內容以避免等待。
+    - q: 前往烏魯淡武廊國家公園途中， eSIM 訊號會中斷嗎？
+      a: 烏魯淡武廊國家公園位於汶萊東部，從斯里巴加灣出發需乘車轉船。前半段公路（至淡武廊鎮）有 DST 訊號，但進入叢林後，訊號逐漸減弱至無服務。公園內部完全無網路，需離線規劃。建議在出發前下載地圖、預訂導遊。公園管理處有衛星電話，但遊客無法使用。eSIM
+        在叢林無法運作，請做好斷網準備。
+    - q: 在加東夜市品嚐美食時， eSIM 上傳食物照片速度快嗎？
+      a: 加東夜市是斯里巴加灣最大的夜市，人潮眾多。晚間尖峰時段，DST 速度約 5-15 Mbps，Progresif 約 10-20 Mbps，上傳食物照片至
+        Instagram 約需 5-10 秒。若使用 Progresif，上傳速度稍快。建議使用壓縮照片或降低解析度以節省時間。夜市攤販區提供免費 Wi-Fi，但密碼需詢問。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 汶萊 eSIM 在 汶萊 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Brunei eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Brunei eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Brunei eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Brunei
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Brunei eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Brunei eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Brunei eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在汶萊使用 TikTok 觀看影片，eSIM 需要大量緩衝時間嗎？
+      a: 在斯里巴加灣市區，使用 DST 網路觀看 TikTok，影片通常 1-2 秒內開始播放，緩衝時間短。在 Gadong 區域，尖峰時段可能需等待 3-5
+        秒，但一旦開始即流暢。Progresif 在郊區的緩衝時間較長，但整體體驗良好。建議避免在降速後觀看，以免頻繁緩衝。
+    - q: 在汶萊使用 FaceTime 視訊通話， eSIM 的連線穩定嗎？
+      a: 汶萊對 FaceTime 無封鎖，在 DST 或 Progresif 網路下，視訊通話清晰。在斯里巴加灣室內環境，通話無中斷；在移動車中，因基地台切換，可能偶爾產生
+        1-2 秒馬賽克。在淡武廊縣邊境地區，通話品質下降。整體而言，Wi-Fi 輔助下效果更佳。
+    - q: 在汶萊用 WhatsApp 傳送語音訊息，eSIM 上傳速度快嗎？
+      a: 在主要城市，語音訊息上傳通常 1-3 秒完成，檔案約 100KB。即使在郊區，上傳時間也不超過 5 秒。DST 網路的上傳速度約 10-15 Mbps，Progresif
+        稍慢。建議在降速前傳送大檔案。
+    - q: 在汶萊使用 LINE 通話， eSIM 會產生額外費用嗎？
+      a: LINE 通話使用數據流量，eSIM 方案包含在內，無額外費用。通話品質在汶萊主要地區良好，延遲低。若在跨國通話時需注意時區。
+    - q: 在汶萊直播 FB 影片， eSIM 的表現如何？
+      a: 在斯里巴加灣景點直播，DST 網路提供 25-40 Mbps 上傳， 720p 直播流暢。在 Gadong 夜市，因人多可能降至 10 Mbps，建議降低畫質。Progresif
+        在直播時較穩定，但覆蓋範圍略小。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 汶萊 使用 汶萊 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Brunei, you can dial local emergency numbers like 993, 991, 995 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Brunei eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Brunei eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Brunei eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Brunei eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Brunei eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Brunei eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Brunei eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Brunei eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Brunei eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Brunei eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Brunei eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Brunei eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在汶萊發生車禍如何求救？應該用 eSIM 撥打哪個號碼？
+      a: 汶萊緊急號碼：警察 993，救護車 991，消防 995。撥打後接線員可協助。eSIM 撥打無障礙，但請提供地點描述。建議先開啟手機定位分享。汶萊主要醫院：斯里巴加灣的
+        RIPAS 醫院提供急診服務。
+    - q: 在汶萊遺失護照，如何快速聯絡當地警察局？
+      a: 撥打 993 聯絡警察，或直接前往斯里巴加灣中央警察局（Jalan Stoney）。警察局有中文翻譯服務。同時聯絡台北駐汶萊代表處。eSIM 可用於查詢地圖和撥打電話。
+    - q: 在汶萊發生嚴重過敏， eSIM 能否幫助找到最近的藥房？
+      a: 使用 Google Maps 搜尋「藥房」或「Pharmacy」，斯里巴加灣有 Guardian、Watsons 等連鎖店。eSIM 數據可導航至
+        24 小時藥房如 Gadong 的 Alpro Pharmacy。若情況緊急，直接撥打 991。
+    - q: 在汶萊遇到地震或自然災害， eSIM 網路會中斷嗎？
+      a: 汶萊少有強震，但若發生， eSIM 可能因基站損壞或電源中斷而受影響。災害時優先使用衛星電話。一般情況下，DST 網路會優先保障緊急通訊。
+    - q: 在汶萊夜間獨自旅行時，如何利用 eSIM 確保安全？
+      a: 夜間避免偏僻地區，使用 eSIM 開啟即時位置分享給親友。可下載 SafeTrek 等安全 App。若遇危險，長按手機電源鍵快速撥打 993。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 汶萊 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Brunei eSIM vs Prepaid SIM: Cost and Convenience Compared"
-  subtitle: "Brunei Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Brunei) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Brunei"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Brunei eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "DST airport store hours are 10 AM to 5 PM and closed on Friday noon for prayers; Easi card activation requires dialing 159 and listening to a welcome prompt."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip DST airport queues (open 10 AM-5 PM, closed Friday noon). Activate your eSIM online within 1 minute after landing in Brunei."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Every SIM card requires passport registration at the point of purchase; unregistered SIMs stop working after 7 days."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid handing over your passport at DST stores. Roami eSIM activates instantly without KYC, eliminating the 7-day SIM deactivation risk."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "All DST and Progresif data packs are strictly locked for use within Brunei; no roaming to Malaysia is provided."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "Unlike DST/Progresif packs locked to Brunei, Roami eSIM works across Malaysia and beyond, with multi-network access to DST's 4G LTE."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "DST data packs have a minimum validity of 3 days (200 MB for 3 B$) or 30 days (1 GB for 10 B$); Progresif Traveller Plans have a fixed 28-day validity, wasting over 80% for a 5-day trip."
-      esim_title: "Flexible Daily Plans"
-      esim_desc: "Unlike DST's 3-day minimum (200 MB for 3 B$) or Progresif's 28-day fixed plan (10 B$ for 1 GB), Roami offers 7-day plans starting from $1.99/GB, saving over 80% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market practice, DST and Progresif likely allow tethering but may throttle after a certain limit."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike DST/Progresif which may throttle after a few GB. Stay connected on all your devices."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up requires physical vouchers or cash at kiosks; online payment with foreign cards is not supported."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for physical vouchers or cash at kiosks like DST requires."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is available only in local hours; no 24/7 live chat for prepaid users."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock live chat support in English, unlike DST/Progresif's limited local-hour phone support."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Brunei eSIM vs Local Prepaid SIM: Which Is More Convenient?"
-    cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, PayPal"
-        desc: "DST and Progresif require physical vouchers or cash top-ups. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal</b> for instant online payment."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation, No Store Queues"
-        desc: "DST airport store is open <b>10 AM-5 PM</b> and closed Friday noon. Roami eSIM activates in <b>1 minute</b> online, anytime, anywhere."
-      - icon: "headset"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "24/7 English Support"
-        desc: "DST and Progresif offer limited local-hour phone support. Roami provides <b>24/7 live chat</b> in English for instant assistance."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Cross-Border Roaming"
-        desc: "DST and Progresif data packs are locked to Brunei. Roami eSIM works in <b>Malaysia</b> and other countries, eliminating the need for multiple SIMs."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

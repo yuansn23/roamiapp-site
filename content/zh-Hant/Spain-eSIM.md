@@ -1,94 +1,88 @@
 ---
-title: Spain eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 西班牙 eSIM 方案 | 西班牙 eSIM | Roami
+date: '2026-05-19T10:29:32+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Spain eSIM
-  scenario_keywords: Barcelona sightseeing, Madrid travel, Andorra day trip, Costa
-    del Sol beach, Camino de Santiago
-  operators: Movistar, Orange, Vodafone
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Madrid, Barcelona, Valencia, Seville, Bilbao
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 西班牙 eSIM
+  scenario_keywords: 城市漫步、海灘、購物、美食、文化探索
+  operators: Movistar, Vodafone, Orange
+  competitors: Airalo, Holafly, Nomad, Ubigi, Jetpac
+  main_cities: 馬德里, 巴塞隆納, 瓦倫西亞, 塞維利亞, 格拉納達
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Buy Spain eSIM | Prepaid 5G Travel Data | 20% OFF | Roami
-  description: Need internet in Spain? Roami offers seamless digital SIM connectivity
-    on the reliable Vodafone 5G network. Enjoy transparent, high-speed travel internet
-    with nationwide coverage for your vacation.
-  keywords: Spain eSIM, tourist eSIM Spain, cheap data Spain, travel internet Spain,
-    Movistar eSIM, Orange eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: 西班牙 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
+  description: 西班牙旅遊必備 Roami eSIM，暢享最佳 5G 高速網路。立即選購並輸入折扣碼 20%，讓您的連線服務更超值，旅途更順暢。
+  keywords: 西班牙 eSIM, 西班牙網路覆蓋, 西班牙旅遊, 馬德里 eSIM, 巴塞隆納 eSIM, 西班牙上網卡
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 西班牙 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Spain eSIM
+- label: 西班牙 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Spain
-  title: Best eSIM for Spain
+  alt: 最佳 西班牙 eSIM
+  title: 最佳 西班牙 eSIM
 hero:
   flag_image: img/flags/es.svg
-  flag_alt: Spain Flag
-  title: Spain eSIM data plan
-  subtitle: 24/7 customer support | Instant delivery | Travel essential
+  flag_alt: 西班牙 國旗
+  title: 西班牙 eSIM - 旅行計劃
+  subtitle: 西班牙 eSIM | 支援熱點分享 | 無隱藏費用 | 100%退款保證
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 西班牙 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 西班牙 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -96,49 +90,49 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.57'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '17.99'
     oldPrice: '26.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.57'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '21.99'
     oldPrice: '32.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.14'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -146,65 +140,65 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.33'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '9.99'
     oldPrice: '14.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.33'
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 100GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.83'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -212,57 +206,57 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.30'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.47'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '19.99'
     oldPrice: '29.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.67'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '32.99'
     oldPrice: '49.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.10'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '69.99'
     oldPrice: '104.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.33'
-  15 Days:
+  15 天:
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.93'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -270,562 +264,328 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.87'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '18.99'
     oldPrice: '28.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.27'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '43.99'
     oldPrice: '65.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.93'
 discount_banner:
-  title: Special Discount!
+  title: 西班牙 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 西班牙 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Spain, including major cities
-        like Madrid, Barcelona, and Valencia. Our Spain eSIM seamlessly connects to
-        the robust networks of Movistar, Orange, and Vodafone, ensuring stable signals
-        in urban centers, tourist hotspots, and along major transportation routes.
+      title: 覆蓋範圍
+      desc: 在整個西班牙享受廣泛的網路覆蓋，包括馬德里、巴塞隆納、瓦倫西亞等城市。我們的西班牙 eSIM 無縫連接到 Movistar、Vodafone
+        和 Orange 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Movistar
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: Orange
-      coverage: Reliability
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Vodafone
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 西班牙 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Spain.
+    html: 建議抵達 西班牙 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 西班牙 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 西班牙 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 西班牙 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 西班牙 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 西班牙」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Spain'
-    desc: Upon arriving in Spain, enable your Spain eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 西班牙 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Movistar / Vodafone 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 西班牙：立即連上 5G/4G 網路
+    desc: 當您降落在 西班牙（例如 馬德里-巴拉哈斯機場 (MAD), 巴塞隆納-埃爾普拉特機場 (BCN), 阿利坎特機場 (ALC)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 西班牙。幾秒鐘內，您的設備將自動連接到 Movistar / Vodafone
+      提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Spain eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Spain eSIM across different travel
-    scenarios.
+  title: 西班牙 eSIM：完整指南和常見問題
+  desc: 使用 西班牙 eSIM 在 西班牙 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 西班牙 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Spain eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Spain eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Spain eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Spain and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Spain eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Spain eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Spain that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Spain eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Spain eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Spain eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Spain eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Spain,
-        such as Movistar, Orange, Vodafone, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Redtea Mobile, Numero,
-        Holafly, Airalo?
-      a: While great companies like Redtea Mobile, Numero, Holafly, Airalo offer reliable
-        services, we focus on providing the most cost-effective Spain eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在馬德里市中心使用eSIM時，連接到Movistar網路的平均速度如何？
+      a: 在馬德里市中心，例如太陽門廣場或格蘭維亞大道附近，連接到Movistar網路時，通常可以獲得30-50 Mbps的下載速度，足以流暢觀看1080p影片。然而，在尖峰時段（例如週末下午），靠近馬德里皇宮的擁擠區域，速度可能會降至10-15
+        Mbps。建議避免在大型活動期間（如聖誕節）過度依賴高速串流，因為網路可能會暫時變慢。
+    - q: 在巴塞隆納的加泰隆尼亞廣場使用eSIM可以正常使用Google Maps嗎？
+      a: 在巴塞隆納的加泰隆尼亞廣場，透過Vodafone網路，您可以使用Google Maps進行即時導航，延遲通常低於30毫秒。然而，在地鐵站內（如L1線的加泰隆尼亞站），由於建築物阻擋，信號可能不穩定，建議提前下載離線地圖。整體而言，戶外環境下的定位準確，但步行至蘭布拉大道時，人群密集可能導致輕微延遲。
+    - q: 在瓦倫西亞科學藝術城附近使用eSIM，影片通話的表現如何？
+      a: 在瓦倫西亞科學藝術城附近，連接到Orange網路時，WhatsApp影片通話非常流暢，平均延遲約50毫秒。但在週末或節假日，由於遊客眾多，網路可能出現暫時擁堵，導致畫面偶爾模糊。建議避開下午2-4點的高峰時段進行重要通話，此時本地居民和遊客同時使用網路。
+    - q: 在塞維利亞的西班牙廣場使用eSIM，數據流量消耗快嗎？
+      a: 在塞維利亞的西班牙廣場，使用Movistar網路時，若僅進行社交媒體瀏覽和即時通訊，每小時約消耗100-150 MB。若開啟Instagram或TikTok自動播放影片，消耗會增至300
+        MB左右。由於該區域覆蓋良好，您無需擔心信號問題，但建議在長時間遊覽時啟用數據節省模式，因為廣場周邊的咖啡館提供免費Wi-Fi。
+    - q: 在格拉納達的阿爾拜辛區使用eSIM，信號穩定嗎？
+      a: 在格拉納達的阿爾拜辛區，由於街道狹窄且地勢起伏，連接到Vodafone網路時可能出現信號波動。靠近聖尼古拉斯瞭望台時，信號較強，可以正常使用導航，但在深入小巷後，下載速度可能降至5-10
+        Mbps。建議使用離線地圖作為備用，並避免在日落時分大量串流影片，因為此時遊客密集，網路負載較高。
+    - q: 我的eSIM在西班牙使用時，每天超過1GB後會被限速嗎？
+      a: 我們的eSIM方案遵循公平使用政策，通常每天超過1GB後，速度可能從30-50 Mbps降至2-5 Mbps，但仍足以進行基本通訊如WhatsApp和郵件。在巴塞隆納市中心，降速後的體驗仍可接受，但觀看高畫質影片可能出現緩衝。建議在購買前確認具體方案條款，部分無限制方案則不會降速，但數量有限。
+    - q: 在馬德里巴拉哈斯機場抵達後，如何快速啟用eSIM並連接網路？
+      a: 抵達馬德里巴拉哈斯機場T4航廈後，連接機場免費Wi-Fi，掃描QR碼安裝eSIM設定檔。啟用後自動連接到Movistar網路，通常5分鐘內即可使用。若無法自動連接，請手動選擇網路運營商為「Movistar
+        ES」。建議在出發前先安裝好設定檔，以節省時間。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 西班牙 機場：如何使用 西班牙 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Spain eSIM before your flight. Once you land at Adolfo Suárez
-        Madrid-Barajas Airport, Barcelona-El Prat Airport, Palma de Mallorca Airport,
-        simply turn off Airplane Mode and enable your eSIM line. It will connect to
-        the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Spain eSIM activated upon landing, you can immediately open Cabify,
-        Uber Spain, Moovit to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Spain eSIM data allows you to open Google Maps right at the
-        baggage claim in Adolfo Suárez Madrid-Barajas Airport, Barcelona-El Prat Airport,
-        Palma de Mallorca Airport to check real-time train schedules, bus routes,
-        or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Spain eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Spain eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Spain eSIM cellular data to let your family know you've arrived safely.
+    - q: 在馬德里巴拉哈斯機場哪個航廈有免費Wi-Fi？
+      a: 馬德里巴拉哈斯機場所有航廈（T1、T2、T3、T4）都提供免費Wi-Fi，名稱為「AENA WiFi」。連接後需同意使用條款，並可免費使用30分鐘，之後可重新連接繼續使用。T4航廈的連線速度較快，約為10
+        Mbps，適合輕度上網。建議您在等待行李時先連接Wi-Fi，以便即時啟用eSIM。
+    - q: 在巴塞隆納埃爾普拉特機場購買eSIM後，如何設定？
+      a: 在巴塞隆納埃爾普拉特機場購買eSIM後，您會收到一封包含QR碼的郵件。請連接機場Wi-Fi（名稱為「BCN WiFi」），在手機設定中加入行動數據方案，掃描QR碼即可。安裝過程約需2分鐘，完成後選擇Vodafone作為運營商，即可開始使用。若遇到問題，機場的電信商店（如Orange）可提供協助。
+    - q: 從馬德里機場到市區的交通方式有哪些？
+      a: 從馬德里巴拉哈斯機場到市區可選擇地鐵、巴士或計程車。地鐵8號線直達市區的新部委站（Nuevos Ministerios），車程約30分鐘，票價約5歐元。機場巴士（Express
+        Bus）每15分鐘一班，前往太陽門廣場，票價約5歐元。計程車前往市中心固定價格約30歐元。建議使用地鐵以避免交通擁堵。
+    - q: 在巴塞隆納機場如何更換當地SIM卡？
+      a: 巴塞隆納埃爾普拉特機場的1號和2號航廈都有電信商店，如Orange、Vodafone和Movistar。您只需攜帶護照即可購買預付卡，價格從10歐元起，包含5GB數據。商店員工會協助您更換SIM卡並啟用服務。建議購買前確認卡片是否支援您的裝置，並保留好PIN碼。
+    - q: 馬德里機場有行李寄存服務嗎？
+      a: 馬德里巴拉哈斯機場的T1、T2和T4航廈提供行李寄存服務，名稱為「Equipaje」或「Left Luggage」。費用依行李大小而定，小型行李每天約5歐元，大型行李約8歐元。服務時間為每日6:00至22:00。如果您想輕裝探索市區，這是方便的選擇。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 西班牙 eSIM 用於 西班牙 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Spain eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Spain, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Cabify, Uber Spain, Moovit use VoIP (internet calling) and in-app
-        messaging. Since you have active Spain eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Spain eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Spain eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Spain.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Spain eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Spain eSIM's data network while on the
-        train or in the car.
+    - q: 在馬德里如何購買地鐵票？
+      a: 馬德里地鐵票可在地鐵站的自動售票機購買，支援現金和信用卡。單程票價格約2歐元，另有10次票（Metrobús）約12歐元，可搭乘地鐵和市內巴士。推薦購買遊客票（Turístico），分為1至7天，無限次搭乘，價格從8歐元起。地鐵營運時間為6:00至1:30。建議使用遊客票以節省費用。
+    - q: 在巴塞隆納如何叫車？
+      a: 在巴塞隆納可使用Uber或Cabify叫車，這兩款App支援英文介面並接受信用卡付款。價格比計程車略高，但叫車方便。此外，也可在街邊攔計程車，車身為黑黃色，起步價約3歐元。從擴展區（Eixample）到機場約30歐元。建議避開晚間高峰（20:00-22:00）以減少等待時間。
+    - q: 在瓦倫西亞租自行車方便嗎？
+      a: 瓦倫西亞有公共自行車系統Valenbisi，全市有250多個站點。租用需先在站點註冊並購買遊客卡（如Valenbisi Tourist Card），可在官方網站或遊客中心購買。24小時費用約10歐元，包含無限次30分鐘免費騎行。適合遊覽科學藝術城和圖里亞公園。建議使用後在30分鐘內歸還以避免額外費用。
+    - q: 在塞維利亞如何從機場到市中心？
+      a: 塞維利亞機場（SVQ）到市中心可搭乘機場巴士（EA線），每30分鐘一班，車程約30分鐘，票價4歐元。巴士停靠聖胡斯塔火車站（Estación de
+        Santa Justa）和武器廣場（Plaza de Armas）。計程車費用約25歐元，夜間加價。建議白天使用巴士，晚上則選擇計程車以確保安全。
+    - q: 在格拉納達需要租車嗎？
+      a: 在格拉納達，市中心景點如阿爾罕布拉宮和阿爾拜辛區距離較近，步行即可遊覽。遊客可選擇搭乘公車或輕軌，單程票價1.4歐元。若前往周邊城鎮如內華達山脈，則建議租車。租車費用每天約30歐元，但老城區停車困難，建議選擇有停車場的飯店。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 西班牙 的飯店使用 西班牙 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Spain eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Spain eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Ritz Madrid, W Barcelona, Four Seasons Madrid
-        or a local guesthouse, you can input the address into Google Maps and get
-        turn-by-turn walking or transit directions using your Spain eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Spain eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Spain eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Glovo, Just Eat Spain, Deliveroo Spain
-        and use your Spain eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Spain eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 在馬德里市中心有哪些推薦的飯店？
+      a: 馬德里市中心的維多利亞女王飯店（Hotel Victoria）位於太陽門廣場附近，位置優越，步行可至皇宮和馬約爾廣場。房價每晚約100歐元起，提供免費Wi-Fi。另一家是格蘭維亞大街的拉帕公寓（Apartos
+        La Latina），適合家庭入住，附設小廚房。建議提前預訂以獲得折扣，並確認是否含早餐。
+    - q: 在巴塞隆納的擴展區有哪些平價住宿？
+      a: 巴塞隆納擴展區的聖家堂旅館（Hostal Sant Jordi）距離聖家堂步行5分鐘，每晚約60歐元起，包含免費Wi-Fi和公用廚房。另一家是格拉西亞大道的阿爾巴旅館（Hostal
+        Alba），價格約50歐元起，但房間較小。這些住宿都靠近地鐵站，方便前往海灘和蘭布拉大道。建議避開夏季旺季以獲得更好價格。
+    - q: 在瓦倫西亞海灘附近有推薦的飯店嗎？
+      a: 瓦倫西亞海灘附近的拉斯阿雷納斯飯店（Hotel Las Arenas）位處海濱，擁有泳池和海景房，每晚約120歐元起。附近還有平價的努埃瓦飯店（Hotel
+        Nuevo），距離海灘步行5分鐘，每晚約70歐元。這些飯店均提供免費Wi-Fi，適合享受陽光沙灘的遊客。建議提前預訂以確保海景房。
+    - q: 在塞維利亞老城區住宿安全嗎？
+      a: 塞維利亞老城區治安良好，街道雖然狹窄但照明充足。推薦老城區的科隆飯店（Hotel Colón）或聖克魯斯區的公寓（Apartamentos Santa
+        Cruz），價格每晚約80歐元起。請注意保管貴重物品，夜間避免單獨走在偏僻小巷。飯店通常提供保險箱，建議使用。
+    - q: 在格拉納達的阿爾罕布拉宮附近有住宿嗎？
+      a: 阿爾罕布拉宮附近的帕拉多爾飯店（Parador de Granada）本身就是歷史建築，擁有花園和游泳池，每晚約200歐元起。較平價的選擇是阿爾罕布拉民宿（Hostal
+        Alhambra），距離宮殿步行10分鐘，每晚約60歐元。這些住宿皆提供美景，但需提前數月預訂，特別是在旅遊旺季。
+    - q: 在西班牙住宿需要支付城市稅嗎？
+      a: 是的，西班牙大多數城市會徵收城市稅，每人每晚約1-3歐元，依飯店星級而異。例如，在巴塞隆納的城市稅最高，約2歐元。稅費通常需在入住時以現金支付。請在預訂時確認是否已包含在房價中，以免額外支出。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 西班牙 旅遊景點的網路：西班牙 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Sagrada Familia, Alhambra, Prado Museum spontaneously,
-        you can use your Spain eSIM data to buy skip-the-line tickets online and present
-        the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Spain eSIM, you can read reviews and book local
-        tours or experiences on Tripadvisor while having coffee at a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Spain.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Spain eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Spain eSIM will keep you connected throughout the
-        park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Spain eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Spain eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Spain eSIM data to search 'restaurants near me' on Google Maps to
-        check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Spain eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Spain eSIM ensures you can scan
-        the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Spain eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Glovo, Just Eat Spain, Deliveroo Spain,
-        register using your email or social accounts, and order food seamlessly using
-        your Spain eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Bizum,
-        PayPal, Visa/Mastercard require a brief internet handshake, which your Spain
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Spain eSIM to find hidden culinary gems in the city.
+    - q: 參觀巴塞隆納聖家堂需要提前購票嗎？
+      a: 強烈建議提前在官網購票，以避免現場排隊。門票類型包括基本票（約26歐元）和含登塔的門票（約36歐元）。建議選擇上午9點左右的時段，光線透過彩色玻璃效果最佳。參觀時請遵守服裝規定，不得穿露肩或短褲。聖家堂地鐵站L2和L5線直達，交通方便。
+    - q: 在馬德里普拉多博物館參觀需要多少時間？
+      a: 普拉多博物館收藏眾多西方藝術品，建議至少預留3小時參觀。館內分為三層，重點展品包括哥雅和委拉斯開茲的作品。若時間有限，可購買語音導覽（約5歐元）聚焦於必看名畫。博物館門票約15歐元，下午時段更優惠。地鐵站位於Atocha，步行5分鐘即達。
+    - q: 塞維利亞王宮值得參觀嗎？
+      a: 塞維利亞王宮是《權力遊戲》的取景地，以其穆德哈爾風格建築和花園聞名。門票約13歐元，建議提前線上購買，避免排隊。參觀約需2小時，重點包括少女庭院和使節廳。王宮位於塞維利亞大教堂旁，可一併遊覽。建議早上去以避開人潮。
+    - q: 在格拉納達的阿爾罕布拉宮需要預約嗎？
+      a: 阿爾罕布拉宮是西班牙最熱門的景點之一，必須提前預約門票，尤其是納斯里宮殿（Nasrid Palaces）部分，每日限額有限。門票約14歐元，建議提前兩個月在官網購買。參觀時需按照指定時間進入宮殿，錯過則無法入內。從市區可步行或搭公車上山，車程約10分鐘。
+    - q: 瓦倫西亞科學藝術城適合親子遊嗎？
+      a: 瓦倫西亞科學藝術城非常適合家庭，園區內有互動科學博物館、水族館和IMAX影院。科學博物館門票約8歐元，水族館門票約25歐元。建議安排一整天遊玩，園區內有餐廳和休息區。從市中心搭地鐵5號線到Àgora站步行10分鐘即可。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 西班牙 eSIM 在 西班牙 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Spain eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Spain eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Spain eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Spain
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Spain eSIM data allowance to check their own social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Spain eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Spain eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在西班牙餐廳用餐需要給小費嗎？
+      a: 在西班牙，小費並非強制，但許多當地人會留下5-10%的小費，尤其是服務良好時。在巴塞隆納的蘭布拉大道餐廳，結帳時可留下硬幣或紙幣。若使用信用卡，可告知服務員刷卡金額包含小費。注意，部分高檔餐廳會自動收取服務費，請確認帳單。
+    - q: 在西班牙如何禮貌地用西語打招呼？
+      a: 最常見的問候是「Hola」（你好）或「Buenos días」（早上好）、「Buenas tardes」（下午好）、「Buenas noches」（晚上好）。在商店進門時，說一句「Hola」即可。與陌生人交談時，可用「Perdón」（打擾了）。西班牙人通常會握手或親臉頰，但初次見面建議握手。
+    - q: 在西班牙酒吧點飲料有什麼習慣？
+      a: 在西班牙酒吧，通常站著享用飲料更便宜，入座則需付更多費用。點啤酒可說「Una caña」或「Una cerveza」。調酒如桑格利亞（Sangría）常見於旅遊區。在馬德里的太陽門廣場附近酒吧，點飲料通常附贈免費小食（tapas）。結帳時直接到吧台付款。
+    - q: 西班牙的商店營業時間是怎樣的？
+      a: 西班牙商店通常在上午10點開門，下午2點到5點午休，晚上8點左右關門。但大城市如馬德里和巴塞隆納的購物中心和連鎖店可能全天營業。週日許多商店休息，但旅遊區除外。例如，巴塞隆納的博蓋利亞市場週日休息，建議避開。大型超市如家樂福營業時間較長。
+    - q: 在西班牙如何搭乘公共廁所？
+      a: 西班牙的公共廁所較少，建議利用百貨公司、咖啡館或博物館的設施。在馬德里，英格列斯百貨的廁所免費使用。咖啡館通常只對顧客開放，但若消費一杯咖啡（約1.5歐元）即可使用。街頭收費廁所約0.5歐元，但數量有限。隨身攜帶零錢以備不時之需。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 西班牙 使用 西班牙 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Spain, you can dial local emergency numbers like 112 directly from your
-        phone's dialer regardless of your active SIM, as long as your phone can catch
-        any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Spain eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Spain eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Spain eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Spain eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Spain eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Spain eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Spain eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Spain eSIM is significantly
-        faster and much more secure against cyber threats than using open public Wi-Fi
-        networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Spain eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Spain eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Spain eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Spain eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在西班牙遇到緊急情況應該撥打哪個號碼？
+      a: 西班牙的通用緊急電話是112，可聯繫警察、消防和醫療服務。撥打通話免費，且支援多國語言。在馬德里或巴塞隆納，也可撥打091（國家警察）或092（地方警察）。建議在手機中存儲112，並告知旅館地址以便求助。
+    - q: 在馬德里如果護照遺失怎麼辦？
+      a: 若護照遺失，請立即前往當地警察局報案，取得報案證明。馬德里的警察局位於格蘭維亞大街附近。之後前往中國駐西班牙大使館（地址：C/ Jorge Juan,
+        58）申請補發臨時旅行證。需要提供照片和報案證明。建議備份護照影本和電子檔。
+    - q: 在巴塞隆納遇到扒手怎麼辦？
+      a: 首先保持冷靜，立即前往附近警察局報案。巴塞隆納擴展區的警察局（如位於Gran Via de les Corts Catalanes）可受理。若信用卡被盜，立刻掛失凍結帳戶。建議隨身攜帶少許現金，並將貴重物品寄存在旅館保險箱。避免在蘭布拉大道等人多處使用手機。
+    - q: 在西班牙生病了去哪裡看醫生？
+      a: 輕微症狀可去藥局（Farmacia），詢問藥劑師建議。藥局標誌為綠色十字，藥劑師多會英文。若需就診，可前往公立醫院急診室（如馬德里的Hospital
+        Universitario La Paz），但等待時間較長。私人診所（如Ruber Clinic）提供快速服務，費用約50-100歐元。建議購買旅遊保險以覆蓋醫療費用。
+    - q: 在西班牙如何報警處理交通事故？
+      a: 若發生交通事故，首先確保安全，然後撥打112報警。並交換保險資訊。在馬德里，警察會到場處理並開立事故報告。若有租車，請同時聯繫租車公司。建議隨時攜帶駕照、護照和租車合約件。
+    - q: 在西班牙遇到緊急醫療狀況如何求助？
+      a: 撥打112請求救護車，告知對方您的位置和症狀。在馬德里，緊急醫療服務（SAMUR）反應迅速。等待期間，可請路人協助，多數人會英語。若需翻譯，可使用手機翻譯App。建議隨身攜帶個人藥物和保險卡。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 西班牙 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Spain eSIM vs Local Prepaid SIM: Which Is More Convenient?"
-  subtitle: "Spain Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Spain) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Spain"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Spain eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Airport SIM kiosks are very overpriced; official advice is to buy at city center stores, which takes hours including travel and queuing."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport overpriced kiosks and city store queues. Activate online within 1 minute after landing in Spain."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Vodafone since 2024 only accepts passports or Spanish ID, explicitly rejecting foreign ID cards; Digi mobil requires passport for registration."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid Vodafone's strict passport-only policy (since 2024) and Digi's mandatory passport registration. Roami eSIM activates without any ID."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Vodafone Prepago S (50GB) offers only 6GB in the EU (88% reduction); Orange Mundo 15 (20GB) offers only 10GB in the EU; Movistar Prepago Total (35GB) offers only 11GB in the EU."
-      esim_title: "True Global Roaming"
-      esim_desc: "Unlike Vodafone's 50GB plan that shrinks to 6GB in the EU (88% reduction), Roami eSIM offers consistent data across countries with no FUP caps."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Major prepaid plans from Orange, Vodafone, and Movistar are all 28-day cycles (e.g., Vodafone €10/50GB, Orange €15/20GB). A 7-day tourist buying Vodafone's €10 plan wastes 75% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike 28-day cycles (e.g., Vodafone €10/50GB, Orange €15/20GB) that waste 75% for a 7-day trip, Roami offers 7-day plans starting from $1.99/GB."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Orange explicitly disallows VoIP; no specific hotspot data for other operators, but many MVNOs like Lebara may restrict tethering."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Orange bans VoIP; many MVNOs restrict hotspot. Roami eSIM allows full tethering and VoIP without any throttling."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Orange, Movistar, and Simyo online top-up systems reject non-Spanish credit cards; users must buy physical scratch cards at Carrefour or newsstands."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Orange, Movistar, and Simyo reject non-Spanish cards. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is typically in Spanish only, with limited English and no 24/7 live chat for prepaid."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Local prepaid support is often Spanish-only with limited hours. Roami provides 24/7 English support via live chat."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Spain eSIM vs Physical SIM: Which Is Smarter for Travel?"
-    cards:
-      - icon: "globe"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation vs Airport Overpricing"
-        desc: "Airport SIM kiosks are <b>very overpriced</b>; city stores take hours. Roami activates <b>within 1 minute</b> after landing."
-      - icon: "wifi"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Unrestricted Hotspot & VoIP"
-        desc: "Orange <b>explicitly disallows VoIP</b>. Many MVNOs restrict tethering. Roami eSIM allows <b>full hotspot and VoIP</b> without throttling."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Spain's Strict SIM Passport Requirements"
-        desc: "Vodafone since 2024 <b>only accepts passports or Spanish ID</b>, rejecting foreign ID cards. Digi mobil also requires passport. Roami eSIM activates with <b>zero ID</b>."
-      - icon: "clock"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "No Hidden Inactivity Fees"
-        desc: "Vodafone charges <b>€0.50/month</b> after 3-4 months of no outgoing calls. Roami has <b>no hidden fees</b>."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

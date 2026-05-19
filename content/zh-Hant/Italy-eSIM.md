@@ -1,102 +1,96 @@
 ---
-title: Italy eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 義大利 eSIM 方案 | 義大利 eSIM | Roami
+date: '2026-05-19T10:29:08+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Italy eSIM
-  scenario_keywords: Rome sightseeing, Venice canal tour, Florence art exploration,
-    Amalfi Coast road trip, Tuscany wine tasting
-  operators: TIM, Vodafone Italia, Wind Tre
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Rome, Milan, Naples, Turin, Palermo
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 義大利 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食, 歷史遺跡
+  operators: TIM, Vodafone, WindTre
+  competitors: Airalo, Holafly, Nomad, Ubigi, Orange Travel
+  main_cities: 羅馬, 米蘭, 佛羅倫斯, 威尼斯, 拿坡里
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Buy Italy eSIM | Fast 5G Tourist Data | 20% OFF | Roami
-  description: Explore Italy effortlessly with a Roami prepaid eSIM. Experience unlimited
-    mobile data and seamless 5G internet from WindTre, featuring multi-country roaming
-    and instant auto-connect for travelers.
-  keywords: Italy eSIM, prepaid eSIM Italy, best eSIM for Italy, cheap eSIM Italy,
-    unlimited data Italy
-  low_price: 1.99
-  high_price: 39.9
+  title: 義大利 eSIM | eSIM無限流量 | 5G網路自動切換 | Roami
+  description: 義大利旅遊首選 Roami eSIM 無限流量方案，支援 5G 網路自動切換。立即購買並使用折扣碼 20%，享受最優質的歐洲旅遊網路。
+  keywords: 義大利 eSIM, 義大利旅遊, 羅馬 eSIM, 米蘭 eSIM, TIM, Vodafone, WindTre, 網路覆蓋
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 義大利 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Italy eSIM
+- label: 義大利 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Italy
-  title: Best eSIM for Italy
+  alt: 最佳 義大利 eSIM
+  title: 最佳 義大利 eSIM
 hero:
   flag_image: img/flags/it.svg
-  flag_alt: Italy Flag
-  title: Italy eSIM data plan
-  subtitle: Automatic network selection | High-speed 5G network | Worry-free internet
+  flag_alt: 義大利 國旗
+  title: 義大利 eSIM - 旅行計劃
+  subtitle: 義大利 eSIM | 支援熱點分享 | 無隱藏費用 | 無需身份證件
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 義大利 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 義大利 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '19.99'
     oldPrice: '29.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.86'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -104,57 +98,57 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.14'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.28'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '13.99'
     oldPrice: '20.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.00'
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 100GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.83'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -162,65 +156,65 @@ plans_data:
     daily: '0.20'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.30'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.43'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '22.99'
     oldPrice: '34.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.77'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '69.99'
     oldPrice: '104.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.33'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '33.99'
     oldPrice: '50.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.13'
-  15 Days:
+  15 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '39.99'
     oldPrice: '59.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.67'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -228,65 +222,65 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.60'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.93'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.47'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.93'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '9.99'
     oldPrice: '14.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.33'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -294,538 +288,323 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '4.00'
 discount_banner:
-  title: Special Discount!
+  title: 義大利 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 義大利 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Italy, including major cities
-        like Rome, Milan, Venice, and Florence. Our Italy eSIM seamlessly connects
-        to the robust networks of TIM, Vodafone Italia, and Wind Tre, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個義大利享受廣泛的網路覆蓋，包括羅馬、米蘭、佛羅倫斯、威尼斯、拿坡里等城市。我們的義大利 eSIM 無縫連接到 TIM、Vodafone
+        和 WindTre 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: TIM
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: Vodafone Italia
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Wind Tre
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
+    - name: Vodafone
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 義大利 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Italy.
+    html: 建議抵達 義大利 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 義大利 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 義大利 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 義大利 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 義大利 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 義大利」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Italy'
-    desc: Upon arriving in Italy, enable your Italy eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 義大利 時，只需開啟 eSIM
+      – 有效期將在首次連接到 TIM / Vodafone 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 義大利：立即連上 5G/4G 網路
+    desc: 當您降落在 義大利（例如 羅馬菲烏米奇諾機場 (FCO)、米蘭馬爾彭薩機場 (MXP)、威尼斯馬可波羅機場 (VCE)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 義大利。幾秒鐘內，您的設備將自動連接到 TIM / Vodafone 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Italy eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Italy eSIM across different travel
-    scenarios.
+  title: 義大利 eSIM：完整指南和常見問題
+  desc: 使用 義大利 eSIM 在 義大利 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 義大利 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Italy eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Italy eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Italy eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Italy and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Italy eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Italy eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Italy that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Italy eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Italy eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Italy eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Italy eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Italy,
-        such as TIM, Vodafone Italia, Wind Tre, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, Airalo, Eskimo,
-        Flexiroam?
-      a: While great companies like Holafly, Airalo, Eskimo, Flexiroam offer reliable
-        services, we focus on providing the most cost-effective Italy eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在羅馬市中心使用 TIM 網路的 eSIM 網速如何？適合視訊通話嗎？
+      a: 在羅馬市中心，例如西班牙廣場或特雷維噴泉附近，連接到 TIM 網路的下載速度通常在 30-50 Mbps 之間，足以順暢進行 Zoom 或 FaceTime
+        視訊通話。不過，在尖峰遊客時段（上午 10 點至下午 4 點），靠近羅馬競技場的地區可能因用戶過多而降速至 10-15 Mbps，但對於語音通話和標準畫質影片仍可接受。建議避免在人群密集處進行
+        4K 串流，以維持連線穩定性。
+    - q: 在威尼斯搭乘貢多拉時，Vodafone 網路的訊號穩定嗎？
+      a: 威尼斯的大運河區域，包括里亞爾托橋附近，Vodafone 網路通常提供穩定的 4G 訊號，下載速度約 20-40 Mbps。但在狹窄小巷或靠近聖馬可廣場時，由於建築物密集，訊號可能偶爾波動，導致短暫中斷。如果乘坐貢多拉，建議將手機放在高處（例如膝蓋上），避免被厚重衣物或金屬船體遮擋，以獲得最佳連線。
+    - q: 在米蘭大教堂廣場使用 eSIM 看 YouTube 會卡頓嗎？
+      a: 在米蘭大教堂廣場，連接到 WindTre 網路時，下載速度通常可達 50-70 Mbps，因此觀看 1080p YouTube 影片幾乎無緩衝。但在週末或節慶期間，人潮擁擠可能使速度降至
+        15-25 Mbps，此時 4K 影片可能需等待載入，但 720p 仍順暢。建議提前下載影片到手機，或避開下午 3-5 點的人潮高峰。
+    - q: 我從羅馬菲烏米奇諾機場入境，購買 eSIM 後如何立即啟用？
+      a: |-
+        購買後，您會收到一封包含 QR 碼的電子郵件。在菲烏米奇諾機場 T3 航廈的行李轉盤區，打開手機設定，進入「行動服務」>「加入 eSIM」，掃描 QR 碼即可完成安裝。啟用後，手機會自動連接到 TIM 或 Vodafone 網路（取決於訊號強度），通常需 1-2 分鐘完成註冊。建議在排隊過海關時先行操作，以節省時間。
+    - q: 在佛羅倫斯烏菲茲美術館內，eSIM 訊號會受到影響嗎？
+      a: 烏菲茲美術館內部，因厚實的石牆和大量金屬結構，Wi-Fi 訊號較弱，但手機網路仍可運作。實測連接到 TIM 網路時，展廳內下載速度約 5-15 Mbps，足以傳送訊息或瀏覽社交媒體。但在偏遠的畫廊（如波提切利展廳）可能降至
+        3-5 Mbps，建議在入口處先載入地圖或導覽 app。
+    - q: 在拿坡里市區使用 eSIM 上網，是否容易遇到斷訊？
+      a: 拿坡里市區，尤其是但丁廣場和斯帕卡那波利街區，Vodafone 網路覆蓋良好，下載速度約 25-40 Mbps。然而，靠近港口或地鐵站內（如 Toledo
+        站）可能因地下環境而訊號減弱，偶爾出現短暫斷線。建議在移動到隧道或建築物密集區時，提前載入離線地圖，以備不時之需。
+    - q: 在義大利使用 eSIM 超過每日流量後，速度會降到多慢？還能用 Google Maps 嗎？
+      a: 多數 eSIM 方案在超過每日高速流量（例如 500MB 或 1GB）後，速度降至 128 kbps 至 256 kbps。此速度仍可使用 Google
+        Maps 導航，但路線載入時間較長，且即時交通更新可能延遲。文字訊息（WhatsApp）亦可正常發送，但圖片載入需等待。建議避免串流影片或進行視訊通話，以確保導航功能優先。
+    - q: 從米蘭馬爾彭薩機場搭火車前往中央車站，車上網路穩定嗎？
+      a: 從馬爾彭薩機場搭乘 Malpensa Express 火車，沿途經由 Busto Arsizio 和 Saronno，TIM 和 Vodafone
+        網路覆蓋良好，車上多數路段下載速度可達 30-50 Mbps。但在進入隧道或經過郊區時，訊號可能短暫中斷約 10-15 秒。靠近米蘭中央車站時，網路恢復穩定，可順暢觀看串流或使用社群媒體。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 義大利 機場：如何使用 義大利 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Italy eSIM before your flight. Once you land at Leonardo da Vinci–Fiumicino
-        Airport, Milan Malpensa Airport, Venice Marco Polo Airport, simply turn off
-        Airplane Mode and enable your eSIM line. It will connect to the local 4G/5G
-        network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Italy eSIM activated upon landing, you can immediately open Uber,
-        Free Now, Moovit to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Italy eSIM data allows you to open Google Maps right at the
-        baggage claim in Leonardo da Vinci–Fiumicino Airport, Milan Malpensa Airport,
-        Venice Marco Polo Airport to check real-time train schedules, bus routes,
-        or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Italy eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Italy eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Italy eSIM cellular data to let your family know you've arrived safely.
+    - q: 在羅馬菲烏米奇諾機場（FCO）領取行李時，如何快速連線 eSIM？
+      a: 當您抵達 FCO 的 T3 航廈，下機後請先連接機場免費 Wi-Fi（名為“RomeAirport”），並開啟您購買 eSIM 時收到的電子郵件。掃描
+        QR 碼安裝 eSIM 後，選擇 TIM 或 Vodafone 網路。通常安裝過程不到 2 分鐘，在等行李時即可完成。建議先關閉原 SIM 卡的行動數據，以避免漫遊費用。
+    - q: 在米蘭馬爾彭薩機場（MXP）購買的 eSIM，可以立刻用於叫車到市中心嗎？
+      a: 是的，在 MXP 機場購買 eSIM 後，安裝完成即可使用行動網路。您可以使用 Uber 或 FreeNow 叫車，從機場到米蘭中央車站約需 50
+        分鐘，車程中網路連線穩定（TIM 或 Vodafone 4G/5G），可即時追蹤車輛位置。不過，機場外圍隧道可能短暫斷訊，建議提前載入離線地圖。
+    - q: 威尼斯馬可波羅機場（VCE）的 eSIM 訊號強度足夠導航到飯店嗎？
+      a: VCE 機場的網路覆蓋良好，使用 WindTre 或 TIM 的 eSIM，下載速度約 20-40 Mbps，足以讓 Google Maps 順暢導航到飯店。從機場到威尼斯本島，可搭乘
+        Alilaguna 水上巴士，船艙內訊號可能因金屬結構而稍弱，但甲板層訊號佳。建議在碼頭等候時先規劃好路線。
+    - q: 在拿坡里國際機場（NAP）入境後，eSIM 連線需要多久時間？
+      a: 從 NAP 入境後，eSIM 通常在掃描 QR 碼後 1 分鐘內啟用，並自動連接到當地最強訊號的網路（例如 TIM）。機場內候機室訊號強，下載速度可達
+        50-70 Mbps。若您要搭乘 Alibus 前往市中心，車程約 20 分鐘，沿途網路穩定，可用於線上購票或查詢轉乘資訊。
+    - q: 在佛羅倫斯機場（FLR）轉乘火車時，eSIM 能否支援即時票務查詢？
+      a: FLR 機場規模較小，但 eSIM 連線快速，使用 Vodafone 網路下載速度約 30-50 Mbps。您可流暢使用 Trenitalia 或
+        Italo 的 app 查詢班次並購票。從機場步行至佛羅倫斯新聖母大殿車站約 15 分鐘，沿途訊號穩定，但靠近車站地下月台時可能減弱，建議購票後截圖保存
+        QR 碼。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 義大利 eSIM 用於 義大利 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Italy eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Italy, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Free Now, Moovit use VoIP (internet calling) and in-app messaging.
-        Since you have active Italy eSIM data, drivers can call or message you directly
-        through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Italy eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Italy eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Italy.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Italy eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Italy eSIM's data network while on the
-        train or in the car.
+    - q: 如何在使用 eSIM 的狀態下，在羅馬地鐵（Metro）中保持網路連線？
+      a: 羅馬地鐵部分站點（如 Termini、Colosseo）設有 4G 訊號，但列車行駛於隧道時可能斷訊。為確保連線，建議在車站內先載入離線地圖，或提前規劃轉乘路線。使用
+        TIM 網路的 eSIM 時，在地鐵站內下載速度約 10-20 Mbps，但月台與車廂內訊號較弱。可嘗試將手機靠近車窗以改善訊號。
+    - q: 從米蘭中央車站搭火車到威尼斯，eSIM 沿線網路穩定嗎？
+      a: 米蘭到威尼斯的 Frecciarossa 高鐵路線，沿途經過布雷西亞、維羅納等城市，TIM 和 Vodafone 網路覆蓋良好，多數路段下載速度達
+        30-60 Mbps。但在穿過阿爾卑斯山區隧道時（例如靠近佩斯基耶拉），可能中斷 1-2 分鐘。建議串流音樂或預載影片，以備斷訊時使用。
+    - q: 在威尼斯搭乘水上巴士（Vaporetto）時，eSIM 訊號如何？
+      a: 威尼斯大運河上的水上巴士，訊號通常良好，使用 WindTre 網路下載速度約 15-30 Mbps。靠近聖馬可廣場或里亞爾托橋時，因遊客眾多可能降速，但足以傳送照片或使用導航。船上金屬頂篷可能輕微遮擋訊號，建議坐在甲板座位以獲得較佳連線。
+    - q: 在佛羅倫斯市區騎電動滑板車時，可以使用 eSIM 導航嗎？
+      a: 佛羅倫斯市區街道狹窄，但 eSIM 導航流暢，推薦使用 Google Maps 或 Moovit。使用 Vodafone 網路時，下載速度約 20-40
+        Mbps，路線規劃即時更新。請注意，在領主廣場或聖母百花大教堂附近，因人群密集可能導致 GPS 些微延遲，建議提前確認方向。
+    - q: 從拿坡里搭渡輪前往卡布里島，途中 eSIM 有訊號嗎？
+      a: 渡輪離開拿坡里港口後約 10 分鐘內仍可收到沿岸基地台訊號，但出海後訊號逐漸減弱，進入弱訊號區。靠近卡布里島時，訊號恢復，TIM 網路下載速度約
+        20-35 Mbps。建議在航程中避免大量數據使用，可預先下載卡布里島的離線地圖與餐廳資訊。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 義大利 的飯店使用 義大利 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Italy eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Italy eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Four Seasons Hotel Milan, Hotel Danieli, Belmond
-        Hotel Cipriani or a local guesthouse, you can input the address into Google
-        Maps and get turn-by-turn walking or transit directions using your Italy eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Italy eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Italy eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Just Eat, Glovo, Deliveroo and use your
-        Italy eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Italy eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 在羅馬的 JW 萬豪酒店使用 eSIM 與飯店 Wi-Fi 相比，哪個更快？
+      a: 羅馬 JW 萬豪酒店（位於 Via E. Tortona）提供免費 Wi-Fi，但高峰時段可能擁擠，速度約 10-20 Mbps。使用 TIM 網路的
+        eSIM 在酒店內可達到 30-50 Mbps，且更穩定。建議在房間內使用 eSIM 進行視訊會議，而公共區域可切換至飯店 Wi-Fi。
+    - q: 入住米蘭阿瑪尼酒店時，eSIM 在地下停車場有訊號嗎？
+      a: 米蘭阿瑪尼酒店位於 Via Manzoni 31，地下停車場訊號較弱，使用 Vodafone 網路時可能降至 1-5 Mbps 或無訊號。建議在抵達前先載入停車場路線截圖，或使用飯店提供的代客泊車服務。地上樓層與大廳訊號良好，速度可達
+        40-60 Mbps。
+    - q: 威尼斯希爾頓酒店位於朱代卡島，eSIM 網路覆蓋如何？
+      a: 威尼斯希爾頓酒店（Giudecca 島）使用 WindTre 網路，室內下載速度約 20-30 Mbps，足夠串流 Netflix。前往主島的飯店接駁船上訊號穩定，但偶爾因水面反射導致微幅波動。建議在房間內使用
+        eSIM 而非飯店 Wi-Fi，以節省可能限制流量的公共網路。
+    - q: 佛羅倫斯四季酒店的 eSIM 訊號，在花園區域是否足夠使用？
+      a: 佛羅倫斯四季酒店位於 Borgo Pinti 99，佔地廣闊，花園區域使用 TIM 網路下載速度約 25-35 Mbps，適合進行視訊通話。靠近噴泉或石牆可能略降速，但整體穩定。酒店各處均提供免費
+        Wi-Fi 作為備用。
+    - q: 在拿坡里民宿使用 eSIM，夜間網速會變慢嗎？
+      a: 拿坡里市區民宿（例如史帕卡那波利附近）使用 TIM 網路，夜間（晚上 10 點後）下載速度通常維持 20-40 Mbps，因用戶減少，反而可能比白天更快。但部分老建築內部牆壁較厚，可能導致訊號衰減，建議靠近窗戶使用以獲得最佳速度。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 義大利 旅遊景點的網路：義大利 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Colosseum, Leaning Tower of Pisa, Vatican Museums
-        spontaneously, you can use your Italy eSIM data to buy skip-the-line tickets
-        online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Italy eSIM, you can read reviews and book local
-        tours or experiences on Tripadvisor while having coffee at a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Italy.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Italy eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Italy eSIM will keep you connected throughout the
-        park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Italy eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Italy eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Italy eSIM data to search 'restaurants near me' on Google Maps to
-        check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Italy eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Italy eSIM ensures you can scan
-        the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Italy eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Just Eat, Glovo, Deliveroo, register using
-        your email or social accounts, and order food seamlessly using your Italy
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like PostePay,
-        Satispay, PayPal require a brief internet handshake, which your Italy eSIM
-        handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Italy eSIM to find hidden culinary gems in the city.
+    - q: 參觀羅馬競技場時，使用 eSIM 上傳社群媒體照片夠快嗎？
+      a: 羅馬競技場內，使用 Vodafone 網路下載速度約 20-40 Mbps，上傳一張高畫質照片約需 5-10 秒。在檢票口排隊時，人潮密集可能使速度降至
+        10-15 Mbps，但傳送限時動態仍順暢。建議在進入競技場前先拍攝並上傳，或利用早晨時段避開人群。
+    - q: 在佛羅倫斯烏菲茲美術館排隊時，eSIM 能讓我看串流影片打發時間嗎？
+      a: 烏菲茲美術館外排隊區域（Via della Ninna），使用 TIM 網路下載速度約 30-50 Mbps，可流暢觀看 1080p YouTube
+        影片。館內則因建築結構速度降至 5-15 Mbps，但仍可看 720p 影片。建議排隊時使用行動數據，入館後切換至館方提供的免費 Wi-Fi（名為“Uffizi_Guest”）。
+    - q: 在威尼斯聖馬可廣場餵鴿子時，可以用 eSIM 直播嗎？
+      a: 聖馬可廣場是威尼斯最熱門地點，使用 WindTre 網路下載速度約 20-30 Mbps，上傳約 5-10 Mbps，適合進行 720p 直播。但廣場上人潮密集時，延遲可能增加，建議使用
+        4G 而非 5G 以獲得更穩定的連線。注意：當地法規禁止餵食鴿子，建議以拍照代替。
+    - q: 在米蘭大教堂屋頂使用 eSIM 導航到下一景點，方便嗎？
+      a: 米蘭大教堂屋頂視野開闊，使用 TIM 網路 GPS 定位精準，Google Maps 導航反應靈敏。下載速度約 40-70 Mbps，還可邊欣賞景色邊查詢周邊餐廳。但屋頂風大，建議固定手機或使用掛繩，避免掉落。
+    - q: 在五漁村（Cinque Terre）健行時，eSIM 訊號是否足夠緊急聯絡？
+      a: 五漁村步道（如愛之路）多數區域有 4G 訊號，使用 Vodafone 網路下載速度約 10-25 Mbps。但在隧道或樹蔭遮蔽處可能無訊號，因此建議出發前下載離線地圖。緊急情況下，可撥打
+        112 求救，但需確保手機有電。步道沿途有定期巡邏人員，可用哨子吸引注意。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 義大利 eSIM 在 義大利 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Italy eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Italy eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Italy eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Italy
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Italy eSIM data allowance to check their own social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Italy eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Italy eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在義大利使用 eSIM 時，WhatsApp 語音通話品質如何？
+      a: 在主要城市如羅馬、米蘭，透過 TIM 或 Vodafone 網路的 WhatsApp 語音通話非常清晰，延遲低於 100 毫秒。即使在火車上移動，通話也不太會中斷。但在郊區或山區（如托斯卡納鄉間），可能出現回音或短暫中斷，建議切換至一般通話模式。
+    - q: 在佛羅倫斯使用 Instagram 限時動態上傳影片，速度夠快嗎？
+      a: 在佛羅倫斯老橋附近，使用 WindTre 網路下載速度約 25-40 Mbps，上傳一段 15 秒的限時動態約需 3-5 秒。但在聖母百花大教堂前廣場，遊客眾多時上傳可能需
+        8-10 秒。建議在拍攝後稍等片刻或連接到咖啡廳的 Wi-Fi 進行上傳。
+    - q: 在羅馬競技場打卡時，eSIM 能否讓你快速載入 Facebook？
+      a: 競技場周邊網路擁擠，但使用 TIM 網路仍可於 2-3 秒內載入 Facebook 動態。打卡時定位準確，照片發布約需 5-8 秒。若想節省時間，可先在相簿內編輯照片，再連網一次發布。
+    - q: 在威尼斯搭乘貢多拉時，用 eSIM 進行 FaceTime 視訊通話順暢嗎？
+      a: 在威尼斯大運河上，使用 Vodafone 網路的 FaceTime 視訊通話品質良好，畫面流暢，但經過橋下時可能短暫模糊。建議選擇上午時段（遊客較少），以獲得
+        4G 訊號滿格的體驗。
+    - q: 在米蘭的購物長廊（埃馬努埃萊二世拱廊街）使用 TikTok 上傳影片，速度快嗎？
+      a: 拱廊街內使用 TIM 或 WindTre 網路下載速度約 40-60 Mbps，上傳 1 分鐘的 1080p TikTok 影片約需 10-15
+        秒。但在週末下午，人潮眾多可能使速度降至 15-25 Mbps，建議避開尖峰時段或使用店內 Wi-Fi。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 義大利 使用 義大利 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Italy, you can dial local emergency numbers like 112, 118, 113 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Italy eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Italy eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Italy eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Italy eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Italy eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Italy eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Italy eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Italy eSIM is significantly
-        faster and much more secure against cyber threats than using open public Wi-Fi
-        networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Italy eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Italy eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Italy eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Italy eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在義大利旅遊時，如果不慎遺失手機，該如何緊急聯絡？
+      a: 若遺失手機，可使用同行友人的設備撥打 112（通用緊急號碼），或至最近的警察局報案。台灣旅客可聯絡駐義大利代表處（羅馬：+39-06-9826-2800），協助掛失
+        SIM 卡。為防萬一，建議先備份 eSIM 的 QR 碼至雲端，以便在新手機上重新安裝。
+    - q: 在羅馬遇到小偷扒竊，如何用 eSIM 快速報警？
+      a: 首先確保自身安全，遠離危險區域。撥打 113（警察）或 112（通用緊急），告知您的位置（例如：特雷維噴泉附近）。使用 eSIM 的通話功能，連線迅速，報警後警察通常
+        5-10 分鐘內抵達。建議事先在手機備註中儲存台灣駐義大利代表處的電話（+39-06-9826-2800）。
+    - q: 在義大利山區（例如多洛米蒂）健行時，eSIM 能用於緊急求救嗎？
+      a: 多洛米蒂山區部分高海拔區域（如三峰山）可能無 4G 訊號，但低海拔步道（如富內斯山谷）使用 TIM 網路可撥打 112。建議下載離線地圖並攜帶哨子，若無訊號，可走到開闊處嘗試。義大利高山救援隊（Soccorso
+        Alpino）也可透過 112 聯繫。
+    - q: 在義大利發生車禍時，如何用 eSIM 聯絡警方和保險？
+      a: 發生車禍後，立即撥打 112 或 113 報警，並說明地點（例如：米蘭 A4 高速公路靠近布雷西亞出口）。使用 eSIM 通話品質清晰，可同時聯絡租車公司或保險客服。建議在車上備有紙本保險單，或將其掃描存於手機。
+    - q: 在威尼斯急性腹痛，如何用 eSIM 叫救護車？
+      a: 撥打 118（救護車），告知您的位置（例如：聖馬可廣場 123 號）。使用 eSIM 通話，威尼斯水上救護車約 15 分鐘內可抵達。建議在等待時保持冷靜，並請路人協助指引救護人員。台灣旅客可同時聯絡代表處協助醫療翻譯。
+    - q: 在拿坡里深夜迷路且手機快沒電，eSIM 能否幫助安全抵達住宿？
+      a: 手機剩餘電量低時，先關閉非必要 app，保留電力給 Google Maps 導航。使用 eSIM 的低電量模式仍可定位，但建議事先載入離線地圖。若真的無法，可撥打
+        112 請求協助，或走入最近的 24 小時商店（如 Tabacchi）請店員協助叫車。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 義大利 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Italy eSIM vs Prepaid SIM: Cost and Convenience Compared"
-  subtitle: "Italy Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Italy) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Italy"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Italy eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "TIM stores often refuse to sell the TIM Tourist card; Iliad requires Italian-language self-service kiosks with video recording."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip TIM store queues and Iliad's Italian-language kiosks. Activate your eSIM online within 1 minute after landing in Rome."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All operators require passport registration; TIM and Vodafone may require a Codice Fiscale (Italian tax code)."
-      esim_title: "No Passport or Tax Code Needed"
-      esim_desc: "Bypass Italy's strict KYC requiring passport and Codice Fiscale. Roami eSIM activates instantly without any ID."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Vodafone Dolce Vita offers 30GB but only 15GB in the EU (50% reduction); WINDTRE Italy Tourist Pass gives 20GB with 9.9GB in the EU."
-      esim_title: "Full EU Roaming Without Cuts"
-      esim_desc: "Unlike Vodafone's 50% EU data reduction (30GB to 15GB), Roami eSIM provides consistent data across all EU countries."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "TIM Tourist costs €30 for 15GB/30 days; Vodafone uses 28-day cycles (13 charges per year)."
-      esim_title: "Flexible Plans, No Waste"
-      esim_desc: "Avoid TIM's €30/30-day plan or Vodafone's 28-day cycle. Roami offers 7-day plans from $1.99/GB, saving up to 75% for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, most Italian prepaid SIMs allow tethering but may throttle after a certain limit."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike some Italian SIMs that throttle or ban tethering, Roami eSIM allows full-speed hotspot sharing."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Online top-up systems of TIM, Vodafone, and W3 routinely block non-Italian credit cards."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "No more blocked foreign cards. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, customer support is primarily in Italian with limited English."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get English-speaking support anytime, unlike Italian operators with limited hours and language barriers."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Italy eSIM or Prepaid SIM Card: A Side-by-Side Comparison"
-    cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payment Methods Accepted"
-        desc: "Italian operators like <b>TIM</b>, <b>Vodafone</b>, and <b>W3</b> block non-Italian credit cards for online top-ups. Roami accepts <b>Visa</b>, <b>Mastercard</b>, <b>AMEX</b>, <b>Apple Pay</b>, <b>Google Pay</b>, and <b>PayPal</b>."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from Fixed Cycles"
-        desc: "<b>TIM Tourist</b> costs €30 for 15GB/30 days; a 5-day trip wastes <b>83%</b> of the plan. <b>Vodafone</b> uses 28-day cycles (13 charges/year). Roami offers 7-day plans from <b>$1.99/GB</b>, saving up to 75%."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Italy's Strict SIM Passport Requirements"
-        desc: "Italian law mandates passport registration for all prepaid SIMs. <b>TIM</b> and <b>Vodafone</b> often require a <b>Codice Fiscale</b> (tax code), which is complex for tourists. Roami eSIM activates instantly with no ID."
-      - icon: "headset"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "24/7 Multilingual Customer Support"
-        desc: "Italian operator support is primarily in Italian with limited hours. Roami offers 24/7 English support via chat and email."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

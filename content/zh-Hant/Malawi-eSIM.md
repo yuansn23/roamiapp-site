@@ -1,94 +1,88 @@
 ---
-title: Malawi eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 馬拉威 eSIM 方案 | 馬拉威 eSIM | Roami
+date: '2026-05-19T10:23:17+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Malawi eSIM
-  scenario_keywords: Lake Malawi sightseeing, Mulanje trekking, wildlife safari in
-    Nyika, Lilongwe city tour, Blantyre business trip
-  operators: Airtel Malawi, TNM (Telekom Networks Malawi), Malawi Telecom
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
+  core_keyword: 馬拉威 eSIM
+  scenario_keywords: 城市漫步、海灘、購物、美食、野生動物
+  operators: TNM, Airtel, Malawi Telecommunications Limited (MTL)
+  competitors: Airalo, Holafly, Nomad eSIM, Ubigi, eSIM.net
   main_cities: Lilongwe, Blantyre, Mzuzu, Zomba, Mangochi
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Best Malawi eSIM | No Contract Data & Stable 5G | Roami
-  description: Traveling to Malawi? Stay connected via Top Local Carrier True 5G with
-    No Contract Data. Ideal for Visiting Family. Enjoy Unlimited Data with Best Local
-    Network.
-  keywords: Malawi eSIM, travel internet Malawi, instant eSIM, no roaming charges,
-    Airtel Malawi, TNM eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: 馬拉威 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
+  description: 馬拉威旅遊推薦 Roami eSIM，提供最佳 5G 高速網路與無限流量。立即選購並使用折扣碼 20%，讓您的網路體驗更優質划算。
+  keywords: 馬拉威 eSIM, 馬拉威網路覆蓋, 馬拉威旅遊, Lilongwe eSIM, Blantyre 景點, 馬拉威飯店, 馬拉威交通, 馬拉威緊急電話
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 馬拉威 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Malawi eSIM
+- label: 馬拉威 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Malawi
-  title: Best eSIM for Malawi
+  alt: 最佳 馬拉威 eSIM
+  title: 最佳 馬拉威 eSIM
 hero:
   flag_image: img/flags/mw.svg
-  flag_alt: Malawi Flag
-  title: Malawi eSIM data plan
-  subtitle: 1-minute activation | High-speed 5G network | Hotspot supported
+  flag_alt: 馬拉威 國旗
+  title: 馬拉威 eSIM - 旅行計劃
+  subtitle: 馬拉威 eSIM | 高速5G網路 | 流量吃到飽 | 100%退款保證
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 馬拉威 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 馬拉威 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '14.99'
     oldPrice: '22.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.14'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '23.99'
     oldPrice: '35.98'
     tag: ''
@@ -96,17 +90,17 @@ plans_data:
     daily: '3.43'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '34.99'
     oldPrice: '52.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '5.00'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '25.99'
     oldPrice: '38.98'
     tag: ''
@@ -114,25 +108,25 @@ plans_data:
     daily: '1.73'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '37.99'
     oldPrice: '56.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '64.99'
     oldPrice: '97.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '4.33'
-  30 Days:
+  30 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '26.99'
     oldPrice: '40.48'
     tag: ''
@@ -140,569 +134,358 @@ plans_data:
     daily: '0.90'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '39.99'
     oldPrice: '59.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '74.99'
     oldPrice: '112.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.50'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '99.99'
     oldPrice: '149.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.33'
-  3 Days:
+  3 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '52.99'
     oldPrice: '79.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '17.66'
 discount_banner:
-  title: Special Discount!
+  title: 馬拉威 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 馬拉威 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Malawi, including major cities
-        like Lilongwe, Blantyre, Mzuzu, and Zomba. Our Malawi eSIM seamlessly connects
-        to the robust networks of Airtel Malawi, TNM, and Malawi Telecom, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個馬拉威享受廣泛的網路覆蓋，包括 Lilongwe、Blantyre、Mzuzu 等城市。我們的馬拉威 eSIM 無縫連接到 TNM 和
+        Airtel 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: Airtel Malawi
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: TNM (Telekom Networks Malawi)
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Malawi Telecom
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+    - name: TNM
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
+    - name: Airtel
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 馬拉威 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Malawi.
+    html: 建議抵達 馬拉威 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 馬拉威 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 馬拉威 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 馬拉威 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 馬拉威 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 馬拉威」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Malawi'
-    desc: Upon arriving in Malawi, enable your Malawi eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 馬拉威 時，只需開啟 eSIM
+      – 有效期將在首次連接到 TNM / Airtel 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 馬拉威：立即連上 5G/4G 網路
+    desc: 當您降落在 馬拉威（例如 Kamuzu 國際機場 (Lilongwe)、Chileka 國際機場 (Blantyre)、Mzuzu 機場）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 馬拉威。幾秒鐘內，您的設備將自動連接到 TNM / Airtel 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Malawi eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Malawi eSIM across different
-    travel scenarios.
+  title: 馬拉威 eSIM：完整指南和常見問題
+  desc: 使用 馬拉威 eSIM 在 馬拉威 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 馬拉威 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Malawi eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Malawi eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Malawi eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Malawi and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Malawi eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Malawi eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Malawi that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Malawi eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Malawi eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Malawi eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Malawi eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Malawi,
-        such as Airtel Malawi, TNM (Telekom Networks Malawi), Malawi Telecom, to ensure
-        premium speeds at a fraction of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, Holafly, Flexiroam,
-        Roamless?
-      a: While great companies like Airalo, Holafly, Flexiroam, Roamless offer reliable
-        services, we focus on providing the most cost-effective Malawi eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在 Lilongwe 市中心，連接到 TNM 網路的 eSIM 速度如何？可以用來視訊通話嗎？
+      a: 在 Lilongwe 市中心，特別是 Kamuzu 國際機場附近和 Capital Hill 區域，連接到 TNM 網路時下載速度通常可達 30-50
+        Mbps，足以進行高品質的 Zoom 或 WhatsApp 視訊通話。不過在尖峰時段（18:00-20:00），速度可能降至 10-15 Mbps，但語音通話仍保持流暢。如果您在
+        Likuni 或 Area 25 等郊區，4G 訊號較弱，速度可能降到 5 Mbps 以下，但基本訊息傳送仍可靠。建議在重要會議前先測試連線，並考慮使用
+        Airtel 網路作為備用。
+    - q: 在 Blantyre 的 Chichiri 購物中心附近，Airtel 網路的穩定度如何？每天使用 5GB 會被降速嗎？
+      a: Blantyre 的 Chichiri 購物中心區域 Airtel 4G 訊號強且穩定，下載速度通常維持在 20-30 Mbps，適合串流音樂和社交媒體。Airtel
+        的公平使用政策為每日 2GB 高速流量後降速至 1 Mbps，但實際體驗在達到 3GB 後才明顯減速。如果每天使用 5GB，您會在高速用完後感覺網頁載入變慢，但
+        WhatsApp 文字訊息仍可正常傳送。建議開啟 eSIM 的流量監控功能，並在需要高速時切換到 TNM 網路。
+    - q: 在 Mzuzu 市區，eSIM 的訊號覆蓋是否良好？可以使用 Google Maps 導航嗎？
+      a: Mzuzu 市區的 TNM 和 Airtel 4G 覆蓋良好，尤其在主街道如 Mzimba Road 和 airport road 訊號穩定。使用
+        Google Maps 導航時，路線加載時間約 5 秒，即時定位更新流暢。在前往 Nkhata Bay 或 Rumphi 的途中，部分路段可能出現
+        3G 覆蓋，導航仍可離線緩存。建議在出發前下載離線地圖，以備不時之需。整體而言，Mzuzu 市區的網路足以應付日常導航需求。
+    - q: 從 Kamuzu 國際機場入境後，如何立即啟用 eSIM？需要先註冊嗎？
+      a: 從 Kamuzu 國際機場入境後，連接機場免費 Wi-Fi 即可啟用 eSIM。啟用步驟：打開手機設定，選擇「行動數據」，點選「加入 eSIM」，掃描郵件中的
+        QR 碼或輸入確認碼。啟用後約 1 分鐘內會自動連接到 TNM 或 Airtel 網路。馬拉威對短期旅遊 eSIM 無需實名註冊，但若購買當地 SIM
+        卡則需提供護照影本。建議在機場先確保 eSIM 正常運作，再離開大廳。
+    - q: 在 Zomba 高原徒步時，eSIM 的網路覆蓋範圍如何？能否發送緊急訊息？
+      a: Zomba 高原海拔較高，部分區域如 Plateau Stables 附近有 TNM 4G 訊號，速度約 10-20 Mbps，可發送 WhatsApp
+        訊息。但在深入徒步路線如 Mulunguzi 瀑布時，訊號可能中斷。建議使用 eSIM 的離線模式預載地圖，並隨身攜帶衛星通訊器以備緊急。雖然無法串流影片，但文字訊息間歇可用。總體而言，高原的覆蓋有限，但仍比偏遠的北部地區好。
+    - q: 在 Mangochi 的 Lake Malawi 沿岸，Airtel 網路的延遲高嗎？適合玩線上遊戲嗎？
+      a: Mangochi 沿岸如 Nkopola Lodge 區域，Airtel 4G 延遲約 50-80 ms，對休閒遊戲如棋類尚可接受，但對射擊遊戲或即時策略遊戲可能卡頓。實際測試中，下載速度約
+        15-25 Mbps，但上傳較慢（5-10 Mbps）。如果需要更低延遲，可嘗試 TNM 網路，通常延遲低 10-20 ms。建議選擇非尖峰時段遊玩，並使用有線網路備援。
+    - q: 在 Blantyre 的 Chileka 國際機場附近，eSIM 訊號是否穩定？適合直播嗎？
+      a: Chileka 國際機場周圍 TNM 和 Airtel 訊號強，4G 平均速度 25-40 Mbps，可進行 720p 直播。但直播時若同時上傳大量數據，可能會出現間歇性延遲。建議選擇
+        Airtel 網路，因其上行速度較 TNM 穩定。機場航廈內部分角落（如行李轉盤區）訊號稍弱，但大廳與停車場覆蓋良好。直播前先測試頻寬，並關閉背景應用。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 馬拉威 機場：如何使用 馬拉威 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Malawi eSIM before your flight. Once you land at Lilongwe International
-        Airport (LLW), Chileka International Airport (BLZ), Mzuzu Airport (ZZU), simply
-        turn off Airplane Mode and enable your eSIM line. It will connect to the local
-        4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Malawi eSIM activated upon landing, you can immediately open Uber
-        Malawi, Bolt Malawi, Moto Taxi to book a ride or use WhatsApp to message your
-        pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Malawi eSIM data allows you to open Google Maps right at
-        the baggage claim in Lilongwe International Airport (LLW), Chileka International
-        Airport (BLZ), Mzuzu Airport (ZZU) to check real-time train schedules, bus
-        routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Malawi eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Malawi eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Malawi eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: Kamuzu 國際機場 (Lilongwe) 的入境流程耗時多久？有付費貴賓室嗎？
+      a: Kamuzu 國際機場的入境流程通常需 30-60 分鐘，尖峰時段（國際航班抵達密集時）可能長達 1.5 小時。需要填寫入境卡並出示護照和簽證。機場內有一間付費貴賓室（Malawi
+        VIP Lounge），位於出境大廳二樓，費用約 30 美元，可使用 2 小時。該貴賓室提供免費 Wi-Fi、飲料和小食，但沒有淋浴設施。
+    - q: 從 Chileka 國際機場 (Blantyre) 到市區有哪些交通方式？費用大約多少？
+      a: 從 Chileka 國際機場到 Blantyre 市中心約 20 公里，計程車費用在 25-35 馬拉威 kwacha（約 30-40 美元），車程約
+        30 分鐘。也有共乘 minibus，每人約 5 kwacha，但需等待滿員才出發。機場沒有直達公車，建議提前透過飯店預訂接送。若使用 eSIM 叫車，目前沒有
+        Uber 服務，但可電話聯絡當地計程車合作社。
+    - q: Mzuzu 機場有租車服務嗎？自駕需要國際駕照嗎？
+      a: Mzuzu 機場很小，沒有正式租車櫃檯，但可透過飯店或當地旅行社租車。自駕需備有國際駕照和本國駕照正本。道路狀況多變，部分路段為土路，建議租四驅車輛。例如
+        Avis 在 Lilongwe 有據點，可要求送車到 Mzuzu 機場。租車日費約 80-120 美元，含基本保險。
+    - q: Kamuzu 國際機場有換匯服務嗎？手續費如何？
+      a: Kamuzu 國際機場入境大廳有銀行櫃檯如 Standard Bank 提供換匯服務，匯率較市區略差（約差 2-3%），但方便。兌換美元或歐元最常見，不收手續費，但會以匯率差獲利。建議少量兌換足夠市區交通費，其餘到
+        Lilongwe 市區的銀行或外匯兌換所辦理。機場內也有 ATM 但常故障，建議自備現金。
+    - q: 在 Chileka 國際機場遺失行李該怎麼辦？機場電話是多少？
+      a: Chileka 國際機場的行李遺失申告處位於行李轉盤區旁的辦公室。需要填寫申報單，提供行李照片和航班資訊。機場地勤電話 01-822-222，服務時間
+        06:00-22:00。通常航空公司（如 Ethiopian Airlines）會協助追蹤，但效率較慢。建議購買旅遊保險，並在行李上標註聯絡方式。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 馬拉威 eSIM 用於 馬拉威 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Malawi eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Malawi, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber Malawi, Bolt Malawi, Moto Taxi use VoIP (internet calling)
-        and in-app messaging. Since you have active Malawi eSIM data, drivers can
-        call or message you directly through the app without needing a local phone
-        number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Malawi eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Malawi eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Malawi.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Malawi eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Malawi eSIM's data network while on
-        the train or in the car.
+    - q: 從 Lilongwe 到 Blantyre 最便利的交通方式是什麼？車程多久？
+      a: 從 Lilongwe 到 Blantyre 最便利的方式是搭乘國內航班（約 1 小時），由 Malawi Airlines 執飛，每日 2-3 班。也可自駕走
+        M1 公路，車程約 4-5 小時，路況良好但偶有警察臨檢。長途巴士如 AXA Coach 也是選項，車程 5-6 小時，票價約 15 美元。建議提前預訂，節省時間。
+    - q: 在 Blantyre 市區叫計程車方便嗎？是否有共乘服務？
+      a: Blantyre 市區沒有 Uber 或 Lyft，但可透過電話叫計程車（如 Taxi Blantyre：09-966-1000），或是飯店代叫。價格需先議價，市區內短程約
+        10-15 美元。共乘 minibus（當地稱 ox cart）非常普遍，路線固定，每人約 0.5 美元，但擁擠且無空調。建議使用 eSIM 的導航功能確認路線，避免被繞路。
+    - q: 馬拉威的長途巴士安全嗎？有推薦的公司嗎？
+      a: 馬拉威的長途巴士整體安全，但部分車輛老舊。推薦 AXA Coach、Komboni Coach 和 MCP Coach，它們維護較好並有安全帶。夜間行車較危險，建議選擇白天班次。從
+        Lilongwe 到 Mzuzu 約 6 小時車程，巴士中途會停靠休息站上廁所。建議隨身攜帶貴重物品，並鎖好大行李。
+    - q: 從 Mzuzu 到 Nkhata Bay 有適合的交通方式嗎？
+      a: 從 Mzuzu 到 Nkhata Bay（約 40 公里）可搭乘 minibus，車程 1-1.5 小時，費用約 2-3 美元。也可以在 Mzuzu
+        的巴士站拼車，或者自行駕車。道路景色優美，但部分彎道狹窄。Minibus 通常載超載，建議選坐前排並繫安全帶。到達後可步行至湖邊飯店。
+    - q: 在 Lilongwe 租自行車或摩托車方便嗎？需要駕照嗎？
+      a: Lilongwe 有一些背包客棧或旅行社提供自行車出租，日費約 10-15 美元，不需駕照。摩托車租賃需機車駕照（國際機車駕照），且因車禍風險高，建議謹慎選擇。市區路況尚可，但避開尖峰時段。騎行時務必戴安全帽，並注意動物穿越道路。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 馬拉威 的飯店使用 馬拉威 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Malawi eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Malawi eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Sunbird Hotels & Resorts, Kumbali Country Lodge,
-        Robin's Park Lodge or a local guesthouse, you can input the address into Google
-        Maps and get turn-by-turn walking or transit directions using your Malawi
-        eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Malawi eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Malawi eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Yummy Malawi, FoodPanda Malawi, M-Pawa
-        Food and use your Malawi eSIM data to order a hot meal directly to your hotel
-        lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Malawi eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: Kumbali Country Lodge (Lilongwe) 提供哪些設施？適合家庭入住嗎？
+      a: Kumbali Country Lodge 位於 Lilongwe 郊區，佔地廣闊，提供游泳池、餐廳、酒吧和兒童遊樂區。客房寬敞，並有花園景觀。適合家庭入住，可安排保姆服務和特殊兒童餐點。附近有
+        Kumbali 野生動物保護區，可預約獨木舟或騎馬活動。價格每晚約 200-300 美元，含早餐。
+    - q: Sunbird Nkopola Lodge (Mangochi) 的湖景房如何？有水上活動嗎？
+      a: Sunbird Nkopola Lodge 位於馬拉威湖畔，湖景房陽台可直視湖面，日落時分美不勝收。飯店提供免費獨木舟、立槳和浮潛設備，也付費導覽遊湖船。沙灘鬆軟，適合散步。房價每晚
+        150-250 美元，自助晚餐約 25 美元。注意：湖中蚊蟲較多，建議自備防蚊液。
+    - q: Protea Hotel Ryalls (Blantyre) 離市中心和機場多遠？有接駁車嗎？
+      a: Protea Hotel Ryalls 位於 Blantyre 商業區，距離 Chileka 國際機場約 20 公里，車程 30 分鐘。飯店提供付費機場接駁，單程
+        30 美元。步行可至 Chichiri 購物中心和市政廳。設施包含健身房、泳池和會議室。每晚約 120-180 美元。
+    - q: 在 Lilongwe 有哪些經濟實惠的住宿選擇？推薦青年旅館嗎？
+      a: Lilongwe 有許多經濟住宿，如 Mabuya Lodge（背包客房約 15 美元/床）或 Lilongwe Hotel（雙人房約 50 美元）。Mabuya
+        Lodge 提供免費 Wi-Fi、早餐和共用廚房，氣氛熱鬧。青年旅館如 Kiboko Camp，位於 Area 43，可參加團體行程。建議提前在 Booking.com
+        預訂，並確認空調可用。
+    - q: Mzuzu 有推薦的度假飯店嗎？適合情侶入住？
+      a: Mzuzu 的 Mzoogoo Guest Lodge 是情侶熱門選擇，提供獨立小木屋和花園環境。每晚約 80-120 美元，含早餐。另一間 Mzuzu
+        Hotel 位於市中心，房價較低（40-60 美元），但較吵雜。建議選擇 Mzoogoo，隱私性好，可預訂燭光晚餐。
+    - q: 馬拉威的飯店是否普遍提供免費 Wi-Fi？速度如何？
+      a: 馬拉威較高級的飯店如 Kumbali 和 Sunbird 提供免費 Wi-Fi，速度約 10-20 Mbps，足以上社群媒體和電子郵件。經濟旅館的
+        Wi-Fi 可能不穩定或僅在公共區域提供。若需要高速網路，建議使用 eSIM 作為備用。部分飯店會收取額外網路費，預訂時應確認。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 馬拉威 旅遊景點的網路：馬拉威 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Lake Malawi National Park, Mulanje Mountain Forest
-        Reserve, Nyika National Park spontaneously, you can use your Malawi eSIM data
-        to buy skip-the-line tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Malawi eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Malawi.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Malawi eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Malawi eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Malawi eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Malawi eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Malawi eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Malawi eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Malawi eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Malawi eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Yummy Malawi, FoodPanda Malawi, M-Pawa Food,
-        register using your email or social accounts, and order food seamlessly using
-        your Malawi eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Airtel
-        Money, TNM Mpamba, National Bank of Malawi (NBM) Mobile require a brief internet
-        handshake, which your Malawi eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Malawi eSIM to find hidden culinary gems in the city.
+    - q: Lake Malawi 國家公園有哪些必看景點？如何抵達？
+      a: Lake Malawi 國家公園位於 Mangochi 附近，以清澈湖水、沙灘和多樣熱帶魚聞名。必看景點包括 Cape Maclear 村莊、Otter
+        Point 浮潛區和 Mwenya Hill 觀景點。從 Lilongwe 自駕約 3 小時，或搭乘巴士至 Monkey Bay 再轉當地小船。公園門票約
+        10 美元，建議安排 2-3 天停留。
+    - q: Zomba 高原適合一日遊嗎？有哪些熱門徒步路線？
+      a: Zomba 高原距離 Zomba 市區僅 20 分鐘車程，適合一日遊。熱門徒步路線包括前往 Mulunguzi 瀑布（單程 1.5 小時）和穿越高原草甸至
+        Emperor's View（2 小時）。沿途可見到狒狒和鳥類。建議清晨出發，午後常有雷陣雨。攜帶足夠飲水和防曬用品，夏季涼爽約 20°C。
+    - q: Majete 野生動物保護區的 safari 如何預約？可以看到哪些動物？
+      a: Majete 野生動物保護區位於 Chikwawa，可透過官方網站或飯店預約 safari。提供吉普車遊獵，每人約 50 美元（半日）。保護區內有大象、犀牛、獅子、水牛和斑馬等，是馬拉威少數可看到「非洲五霸」的地方。建議預約清晨團，動物較活躍。也有步行遊獵選項（需嚮導陪同）。
+    - q: 在 Lilongwe 市區有哪些免費或便宜的景點可以逛？
+      a: Lilongwe 市區的免費景點包括 Lilongwe 自然保護區（步行小徑）、Kamuzu 陵墓和 Lilongwe 市場。市區的 Civic
+        Centre 附近有藝術畫廊，可免費參觀。另外，Area 43 的 Mabuya Lodge 每週五有現場音樂表演。消費約 5-10 美元可享用飲料。建議步行或搭乘
+        minibus 移動。
+    - q: Blantyre 的 Mandala 社區有哪些文化活動？適合拍照嗎？
+      a: Mandala 社區以殖民時期建築和咖啡館聞名，街頭壁畫和市場色彩豐富，適合街拍。Mandala House 藝廊展出當地藝術家作品，免費入場。週末有時舉辦手工市集，可購買紀念品。建議早上去光線較好，下午常有驟雨。可向當地居民詢問拍攝許可，避免爭議。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 馬拉威 eSIM 在 馬拉威 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Malawi eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Malawi eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Malawi eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Malawi
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Malawi eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Malawi eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Malawi eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 馬拉威人常用哪些社交媒體？用 eSIM 上網的延遲如何？
+      a: 馬拉威人普遍使用 Facebook、WhatsApp 和 Instagram，尤其 WhatsApp 是主要通訊工具。使用 eSIM 連接 TNM
+        或 Airtel 時，Facebook 照片載入約 2-3 秒，影片流暢。延遲約 30-60 ms，適合發送訊息。抖音在年輕人間流行，但影片上傳需時較長。
+    - q: 在 Lilongwe 的咖啡館或餐廳，可以免費使用 Wi-Fi 嗎？需要觀光多久？
+      a: Lilongwe 的現代咖啡館如 Zakeys 和 Maya 提供免費 Wi-Fi，但需消費飲料（約 3-5 美元）。連線速度約 5-10 Mbps，適合上網和工作。多數餐廳不限制使用時間，但尖峰時段可能限制流量。建議自備
+        eSIM 作為備用。
+    - q: 在 Blantyre 如何認識當地朋友或參加社交活動？
+      a: Blantyre 的社交活動較少，可透過 Facebook 社團「Blantyre Expats」或 Meetup 參加聚會。常有週末的 live
+        music 演出（如 La Caverna 餐廳），或體育賽事。加入當地健身房或語言交換課程也是方式。使用 eSIM 連線時，活動資訊更新及時。
+    - q: 馬拉威的網路審查嚴重嗎？可以自由瀏覽所有網站嗎？
+      a: 馬拉威網路審查輕微，通常可自由瀏覽多數網站如 YouTube、Twitter（X）、Google。但賭博和色情網站有時被封鎖。新聞網站如 Nyasa
+        Times 暢通無阻。使用 eSIM 時，VPN 服務也可正常連接，不受干擾。
+    - q: 在 Mzuzu 大學校園內，行動網路速度如何？適合遠距上課嗎？
+      a: Mzuzu 大學校園內 TNM 和 Airtel 4G 速度約 15-25 Mbps，夠上傳作業和參加低解析度視訊會議。但宿舍區晚間可能壅塞，速度降至
+        5 Mbps。建議使用 eSIM 的雙卡功能，若其中一家網路慢則手動切換。學校也提供校園 Wi-Fi，但需申請帳號。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 馬拉威 使用 馬拉威 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Malawi, you can dial local emergency numbers like 112 (Police), 110 (Fire),
-        111 (Ambulance), 997 (MALAWI Police) directly from your phone's dialer regardless
-        of your active SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Malawi eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Malawi eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Malawi eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Malawi eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Malawi eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Malawi eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Malawi eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Malawi eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Malawi eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Malawi eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Malawi eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Malawi eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在馬拉威遇到車禍時該怎麼辦？如何報警？
+      a: 遇到車禍時，先確保自身安全並移到路邊。撥打警察 997，簡述地點和傷亡情況。若有人受傷，同時叫救護車 999。馬拉威警方處理事效率不高，建議拍照存證並找目擊證人。事後聯繫保險公司（若租車）及大使館。避免私下和解，以免後續問題。
+    - q: 在 Lilongwe 夜間行走安全嗎？有哪些區域需避開？
+      a: Lilongwe 夜間部分區域較危險，如 Area 25 和近郊的貧民區，建議避免獨行。市中心和 Area 43 相對安全，但仍需注意隨身物品。若遇搶劫，保持冷靜交出財物，切勿反抗。使用
+        eSIM 可快速撥打報警電話，但警方反應較慢。建議夜間搭乘計程車而非步行。
+    - q: 在 Lake Malawi 游泳時被水母螫傷或遇到安全問題，該如何處理？
+      a: 湖中水母毒性弱，螫傷可用醋或海水清洗，並冰敷止痛。若出現過敏反應，立即就醫。湖邊大型商店如 Cape Maclear 有急救站。注意鱷魚和河馬，切勿夜間游水。建議在飯店專屬沙灘游泳，並留意警告標誌。緊急時可請飯店協助叫救護車。
+    - q: 馬拉威的緊急醫療服務品質如何？外國人需要提供哪些證件？
+      a: 馬拉威的緊急醫療設施有限，主城市外的醫院可能缺乏設備。優質醫院如 Lilongwe 的 Kamuzu Central Hospital 和 Blantyre
+        的 Queen Elizabeth Central Hospital。外國人需出示護照和旅遊保險卡，通常要求先付款。建議購買含醫療運送的保險，並隨身攜帶藥品。
+    - q: 在 Zomba 高原徒步時迷路或受傷，如何求救？
+      a: Zomba 高原部分區域無手機訊號，建議攜帶衛星定位器或下載離線地圖。若受傷無法移動，嘗試撥打 999，但可能無法接通。當地有嚮導協會，請在出發前登記路程。建議付費僱用官方嚮導，費用約
+        20 美元。也可購買保險提供搜救服務。
+    - q: 外國人在馬拉威遇到護照遺失該怎麼處理？
+      a: 護照遺失後，先到最近的警察局報案並取得遺失證明，然後前往您的國家大使館（如美國大使館在 Lilongwe）申請臨時旅行文件。需要提供照片和報案單。建議備份護照資料頁並使用
+        eSIM 聯絡大使館。期間避免搭機，直到獲得旅行文件。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 馬拉威 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Malawi eSIM vs Prepaid SIM Card: Everything You Should Consider"
-  subtitle: "Malawi Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Malawi) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Malawi"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Malawi eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Tourists buying Airtel or TNM SIM cards must queue in-store, present passport for photocopying and registration, and the standard SIM card may need to be cut to fit the phone."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip the queue at Airtel or TNM stores. Activate your eSIM online within 1 minute after landing in Lilongwe, avoiding passport photocopying and SIM cutting hassles."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Since 2017, all SIM card purchases require passport registration; over 1 million unregistered SIMs were deactivated in 2018."
-      esim_title: "No Passport Required"
-      esim_desc: "Bypass Malawi's mandatory SIM registration (since 2017) that requires passport photocopying. eSIM activates without sharing personal ID, protecting your privacy."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, Airtel and TNM do not offer affordable roaming packages for neighboring countries; cross-network calls within Malawi are expensive."
-      esim_title: "Seamless Cross-Border Roaming"
-      esim_desc: "Unlike Airtel and TNM which lack affordable roaming for neighboring countries, eSIM automatically connects to local networks in Zambia, Tanzania, etc., without SIM swapping."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "TNM offers a 4GB plan at K8,000 valid for 31 days; Airtel's monthly plans are 30-day cycles. A 5-day tourist buying a monthly plan wastes over 80% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Avoid wasting 80% of a 30-day plan (e.g., Airtel K12,000 for 25GB). Roami offers 7-day plans starting from $1.99/GB, perfectly matching your trip duration."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed but speeds may be throttled after data cap."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Tethering is allowed with no extra fees. Share your data with laptops or tablets, unlike some local SIMs that may throttle or block hotspot after a few GB."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up relies on purchasing physical scratch cards; online top-up with foreign cards is often not supported."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to hunt for physical scratch cards or deal with rejected foreign cards."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is limited to local phone numbers and business hours."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock customer support via live chat or email, unlike local operators that offer only local phone support during business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Malawi eSIM vs Prepaid SIM Card: Is It Worth Switching?"
-    cards:
-      - icon: "shield"
-        icon_bg: "bg-yellow-100"
-        icon_color: "text-yellow-600"
-        title: "Keep Your Home SIM Active"
-        desc: "Inserting a local SIM forces you to remove your home SIM, risking lost bank OTPs. eSIM works alongside your primary SIM, keeping your home number active for calls and SMS."
-      - icon: "globe"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Seamless Multi-Country Roaming"
-        desc: "Airtel and TNM lack affordable roaming for neighboring countries (Zambia, Tanzania). eSIM automatically switches networks across borders, avoiding SIM swapping and high cross-network call fees."
-      - icon: "wifi"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Unrestricted Hotspot & Tethering"
-        desc: "Local SIMs may throttle or block tethering after data cap. eSIM allows unlimited hotspot sharing, perfect for connecting laptops or multiple devices during your Malawi trip."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payment Without Scratch Cards"
-        desc: "Top-up for Airtel/TNM requires physical scratch cards (K100 minimum). eSIM accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>, making payment instant and hassle-free."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

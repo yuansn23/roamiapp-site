@@ -2,7 +2,7 @@
 title: "關於 Roami | 連接全球旅客的 eSIM 專家"
 description: "了解更多關於 Roami，您全球旅客的一站式網路解決方案。總部位於美國，在全球設有辦事處，提供高性價比的 eSIM 方案。"
 layout: "about"
-date: '2026-05-15T00:00:00+00:00'
+date: '2026-05-19T00:00:00+00:00'
 type: "page"
 
 # SEO

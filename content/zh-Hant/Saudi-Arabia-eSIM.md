@@ -1,110 +1,105 @@
 ---
-title: Saudi Arabia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 沙烏地阿拉伯 eSIM 方案 | 沙烏地阿拉伯 eSIM | Roami
+date: '2026-05-19T09:51:54+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Saudi Arabia eSIM
-  scenario_keywords: Umrah travel, business trip to Riyadh, sightseeing in Jeddah,
-    desert safari, Red Sea diving
+  core_keyword: 沙烏地阿拉伯 eSIM
+  scenario_keywords: 城市探索, 紅海度假, 沙漠探險, 宗教聖地, 購物美食
   operators: STC, Mobily, Zain
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Riyadh, Jeddah, Mecca, Medina, Dammam
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  competitors: Airalo, Holafly, Nomad, eSIM.net, Ubigi
+  main_cities: 利雅德, 吉達, 麥加, 麥地那, 達曼
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Top Saudi Arabia eSIM | Unlimited Data | Mobily Native 5G | Roami
-  description: Planning a trip to Saudi Arabia? Enjoy Mobily Always-On 5G and No Hidden
-    Fees with Roami. Ideal for Light Travel. Enjoy No Hidden Charges with Nationwide
-    Coverage.
-  keywords: Saudi Arabia eSIM, cheap Saudi eSIM, travel internet Saudi, instant eSIM
-    Saudi, no roaming charges, QR code activation eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: 沙烏地阿拉伯 eSIM | eSIM無限流量 | 5G網路自動切換 | Roami
+  description: 沙烏地阿拉伯旅遊推薦 Roami eSIM 無限流量方案，支援 5G 網路自動切換。現在下單並使用折扣碼 20%，開啟您的專屬旅遊優惠。
+  keywords: 沙烏地阿拉伯 eSIM, 沙烏地阿拉伯網路覆蓋, 沙國旅遊, 利雅德, 吉達, 麥加, 麥地那, 達曼, STC, Mobily, Zain,
+    阿拉伯旅遊
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 沙烏地阿拉伯 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Saudi Arabia eSIM
+- label: 沙烏地阿拉伯 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Saudi Arabia
-  title: Best eSIM for Saudi Arabia
+  alt: 最佳 沙烏地阿拉伯 eSIM
+  title: 最佳 沙烏地阿拉伯 eSIM
 hero:
   flag_image: img/flags/sa.svg
-  flag_alt: Saudi Arabia Flag
-  title: Saudi Arabia eSIM data plan
-  subtitle: Travel essential | Hotspot supported | Smooth video streaming
+  flag_alt: 沙烏地阿拉伯 國旗
+  title: 沙烏地阿拉伯 eSIM - 旅行計劃
+  subtitle: 沙烏地阿拉伯 eSIM | 高速5G網路 | 100%退款保證 | 即時交付
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 沙烏地阿拉伯 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 沙烏地阿拉伯 eSIM
 plans_data:
-  3 Days:
+  3 天:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '5.00'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -112,41 +107,41 @@ plans_data:
     daily: '2.00'
     tagIcon: star
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '18.99'
     oldPrice: '28.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '6.33'
-  7 Days:
+  7 天:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.57'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '17.99'
     oldPrice: '26.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.57'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '34.99'
     oldPrice: '52.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '5.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -154,49 +149,49 @@ plans_data:
     daily: '1.00'
     tagIcon: star
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.57'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '46.99'
     oldPrice: '70.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '6.71'
-  15 Days:
+  15 天:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.80'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '20.99'
     oldPrice: '31.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.40'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '37.99'
     oldPrice: '56.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.53'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
@@ -204,49 +199,49 @@ plans_data:
     daily: '0.53'
     tagIcon: star
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '96.99'
     oldPrice: '145.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '6.47'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.67'
-  30 Days:
+  30 天:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.43'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '21.99'
     oldPrice: '32.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.73'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '38.99'
     oldPrice: '58.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.30'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '8.99'
     oldPrice: '13.48'
     tag: ''
@@ -254,560 +249,332 @@ plans_data:
     daily: '0.30'
     tagIcon: star
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '56.99'
     oldPrice: '85.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.90'
 discount_banner:
-  title: Special Discount!
+  title: 沙烏地阿拉伯 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 沙烏地阿拉伯 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Saudi Arabia, including major
-        cities like Riyadh, Jeddah, Mecca, and Dammam. Our Saudi Arabia eSIM seamlessly
-        connects to the robust networks of STC, Mobily, and Zain, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個沙烏地阿拉伯享受廣泛的網路覆蓋，包括利雅德、吉達、麥加、麥地那和達曼等城市。我們的沙烏地阿拉伯 eSIM 無縫連接到 STC、Mobily
+        和 Zain 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: STC
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Mobily
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Zain
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 廣覆蓋
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 沙烏地阿拉伯 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Saudi Arabia.
+    html: 建議抵達 沙烏地阿拉伯 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 沙烏地阿拉伯 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 沙烏地阿拉伯 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 沙烏地阿拉伯 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 沙烏地阿拉伯 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 沙烏地阿拉伯」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Saudi Arabia'
-    desc: Upon arriving in Saudi Arabia, enable your Saudi Arabia eSIM in settings
-      to start using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 沙烏地阿拉伯 時，只需開啟
+      eSIM – 有效期將在首次連接到 STC / Mobily 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 沙烏地阿拉伯：立即連上 5G/4G 網路
+    desc: 當您降落在 沙烏地阿拉伯（例如 哈立德國王國際機場 (RUH), 阿卜杜勒-阿齊茲國王國際機場 (JED), 穆罕默德·本·阿卜杜勒-阿齊茲親王機場
+      (MED)）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 沙烏地阿拉伯。幾秒鐘內，您的設備將自動連接到
+      STC / Mobily 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Saudi Arabia eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Saudi Arabia eSIM across different
-    travel scenarios.
+  title: 沙烏地阿拉伯 eSIM：完整指南和常見問題
+  desc: 使用 沙烏地阿拉伯 eSIM 在 沙烏地阿拉伯 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 沙烏地阿拉伯 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Saudi Arabia eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Saudi Arabia eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Saudi Arabia eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Saudi Arabia
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Saudi Arabia eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Saudi Arabia eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Saudi Arabia that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Saudi Arabia eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Saudi Arabia eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Saudi Arabia eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Saudi Arabia eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Saudi
-        Arabia, such as STC, Mobily, Zain, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Ubigi, Holafly, Airalo,
-        Instabridge?
-      a: While great companies like Ubigi, Holafly, Airalo, Instabridge offer reliable
-        services, we focus on providing the most cost-effective Saudi Arabia eSIM,
-        ensuring lower latency and better prices with our automatic price-matching
-        system.
+    - q: 在利雅德市中心使用 STC 網路觀看 YouTube 4K 影片流暢嗎？
+      a: 在利雅德的阿卜杜拉國王金融區（KAFD）或塔利亞街一帶，STC 的 5G 網路下載速度通常可達 150-250 Mbps，輕鬆滿足 4K 串流需求。然而，在高峰時段（晚上
+        8-11 點）或大型購物中心（如利雅德公園）內，速度可能降至 30-50 Mbps，但仍足以順暢播放 1080p 影片。若每日流量超過 3GB，可能觸發公平使用政策而略微降速，但實測仍保持在
+        5 Mbps 以上，不影響一般使用。建議您在飯店或咖啡廳連接 Wi-Fi 以備不時之需。
+    - q: 從吉達阿卜杜勒-阿齊茲國王國際機場入境後如何立即啟用 eSIM？
+      a: 抵達吉達機場後，請先連上機場免費 Wi-Fi（名稱為 JED-Airport-Free）。接著打開手機設定，掃描我們郵寄給您的 QR Code 安裝
+        eSIM 描述檔。安裝完成後，選取 STC 或 Mobily 作為數據網路，並開啟數據漫遊。通常在 2-3 分鐘內即可連上 4G/5G 網路。若無法啟用，可至機場內的
+        STC 或 Mobily 櫃檯尋求協助，他們提供英文服務。
+    - q: 在麥加和麥地那的網路速度是否因朝覲期間而大幅下降？
+      a: 每年齋戒月和朝覲期間，麥加禁寺周圍及麥地那先知清真寺區域的網路負載極高，STC 和 Zain 的 4G 速度可能從平常的 30-50 Mbps 降至
+        5-10 Mbps。即便如此，傳送文字訊息、使用地圖導航或瀏覽社交媒體仍屬順暢。建議避開祈禱時間前後半小時的上網高峰，或使用飯店提供的 Wi-Fi。如果您需要穩定連線進行視訊通話，考慮連接
+        Zain 網路，其在老城區有較多小型基地台分擔流量。
+    - q: Mobily 在達曼的網路覆蓋如何？適合遠距工作嗎？
+      a: Mobily 在達曼市中心及海濱地區（如半月灣）覆蓋良好，4G+ 和 5G 訊號穩定，下載速度約 40-80 Mbps。在達曼法赫德國王國際機場附近，速度略有下降但仍可維持
+        15 Mbps 以上。如果您需要進行 Zoom 或 Teams 視訊會議，建議避開工業區或郊區（如阿卜杜勒-阿齊茲港），那裡可能降級為 3G。整體而言，在達曼主要商業區和住宅區，Mobily
+        足以支援遠距工作。
+    - q: 在沙烏地阿拉伯使用 eSIM 是否需要實名登記？如何完成註冊？
+      a: 沙烏地阿拉伯要求所有預付卡門號（包括 eSIM）進行實名登記（iD 註冊）。您需持護照和簽證至運營商門市或透過其官方 App（如 STC My Account）掃描護照資訊頁進行認證。部分
+        eSIM 供應商已內建預先註冊流程，您只需在購買時上傳護照照片即可。若未完成註冊，門號可能在 24 小時後被限制通話，但數據通常仍可使用。建議您在抵達後
+        48 小時內完成註冊，以避免不便。
+    - q: 在沙烏地紅海沿岸城市（如吉達）使用 eSIM 的延遲表現如何？可以玩線上遊戲嗎？
+      a: 吉達市區連上 STC 5G 網路時，ping 值約 20-40 ms，足以流暢遊玩《傳說對決》或《PUBG Mobile》等遊戲。但在海濱度假區如阿卜杜勒-阿齊茲國王大學附近，若切換至
+        Mobily 4G，ping 可能升至 60-80 ms，仍可接受。晚上尖峰時段，吉達的網路優先級較低，連線可能出現輕微波動，但不會中斷。若您對延遲極度敏感，建議避開
+        al-Balad 歷史區的密集建築物。
+    - q: 偏遠沙漠地區（如 AlUla 或空曠地帶）的網路覆蓋如何？eSIM 會斷訊嗎？
+      a: 在 AlUla 旅遊區（如瑪甸沙勒遺址）和主要公路上，STC 和 Mobily 提供 4G 覆蓋，訊號強度約為 2-3 格，可瀏覽網頁和傳送訊息。一旦深入沙漠腹地（如魯布哈利沙漠），覆蓋率急劇下降，可能長時間無服務。建議在偏遠地區提前下載離線地圖和娛樂內容。一旦回到公路或城鎮，eSIM
+        會自動重新連線。若您計畫深度探索沙漠，建議攜帶衛星電話。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 沙烏地阿拉伯 機場：如何使用 沙烏地阿拉伯 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Saudi Arabia eSIM before your flight. Once you land at King Khalid
-        International Airport (RUH), King Abdulaziz International Airport (JED), King
-        Fahd International Airport (DMM), simply turn off Airplane Mode and enable
-        your eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Saudi Arabia eSIM activated upon landing, you can immediately open
-        Uber, Careem, Jeeny to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Saudi Arabia eSIM data allows you to open Google Maps right
-        at the baggage claim in King Khalid International Airport (RUH), King Abdulaziz
-        International Airport (JED), King Fahd International Airport (DMM) to check
-        real-time train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Saudi Arabia eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Saudi Arabia eSIM provides data only. To receive SMS, keep your home
-        country's primary SIM active for texts (receiving SMS is usually free while
-        roaming) and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Saudi Arabia eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 在哈立德國王國際機場（RUH）轉機時，如何購買 eSIM 方案？
+      a: 如果您在利雅德機場轉機，可先連接機場免費 Wi-Fi（名為 RUH Free WiFi），然後線上購買 eSIM。購買後掃描 QR Code 即可啟用，過程約
+        5 分鐘。若您偏好實體 SIM，機場入境大廳有 STC 和 Mobily 的臨時櫃檯，但轉機旅客通常無法進入入境層，因此 eSIM 是更便利的選擇。
+    - q: 吉達機場的 eSIM 安裝指引有中文說明嗎？
+      a: 吉達阿卜杜勒-阿齊茲國王國際機場的官方 Wi-Fi 頁面支援英文和阿拉伯文，但部分 eSIM 供應商提供繁體中文安裝指南。建議您在出發前先下載 eSIM
+        的安裝說明 PDF 或截圖，以避免在機場因語言障礙無法操作。機場內的旅客服務中心有會英文的工作人員可協助。
+    - q: 從麥地那機場入境後，最快連上網路的方法是什麼？
+      a: 穆罕默德·本·阿卜杜勒-阿齊茲親王機場（MED）提供免費 Wi-Fi，但需用手機號碼接收簡訊驗證；由於您尚未有本地門號，可請附近旅客代收或使用機場內的付費
+        Wi-Fi 熱點。最佳方法是出發前在台灣啟用 eSIM，抵達後關閉飛航模式並手動選擇 Zain 網路（麥地那機場 Zain 覆蓋較佳），通常 1 分鐘內即可連線。
+    - q: 達曼法赫德國王國際機場（DMM）有 eSIM 實體販賣機嗎？
+      a: DMM 機場的入境大廳設有 STC 和 Mobily 的電子產品販賣機，部分機型可購買 eSIM 刮刮卡。但更穩定的方式是透過線上平台購買，因為販賣機可能只支援特定護照類型。使用販賣機時，請準備阿拉伯文或英文操作，並選擇「eSIM
+        預付卡」選項。
+    - q: 在沙烏地機場使用 eSIM 撥打本地電話是否順暢？
+      a: eSIM 方案通常只包含數據，不提供語音通話功能。若您需要撥打本地電話（如聯絡飯店），建議使用 LINE、WhatsApp 等網路電話，或在機場購買含有通話分鐘數的預付
+        SIM（如 STC 的「Sawa」方案）。機場內的 STC 櫃檯可協助開通語音服務。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 沙烏地阿拉伯 eSIM 用於 沙烏地阿拉伯 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Saudi Arabia eSIM connection ensures Google Maps can download
-        real-time traffic data and transit schedules anywhere in Saudi Arabia, making
-        navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Careem, Jeeny use VoIP (internet calling) and in-app messaging.
-        Since you have active Saudi Arabia eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Saudi Arabia eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Saudi Arabia eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in Saudi Arabia.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Saudi Arabia eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Saudi Arabia eSIM's data network while
-        on the train or in the car.
+    - q: 在利雅德使用 Uber 或 Careem 叫車時，eSIM 的定位精準度如何？
+      a: 在利雅德市中心（如外交部區），STC 和 Mobily 的 GPS 定位誤差通常在 5-10 公尺，司機能準確找到您。但在高樓密集的商務區（如銀行區），訊號反射可能導致定位偏移，建議站在空曠處等候。若您使用
+        Careem，該 App 支援即時共享位置，有助於司機與您會合。
+    - q: 從麥加到吉達的高速公路（Al-Haramain 高速）上網路訊號穩定嗎？
+      a: Al-Haramain 高速全線覆蓋 STC 和 Mobily 的 4G 訊號，平均速度 20-40 Mbps。通過隧道（如穆爾薩爾隧道）時可能短暫中斷
+        1-2 分鐘，但出隧道後自動恢復。部分路段有 Zain 的 5G 覆蓋，下載速度可達 100 Mbps。建議提前下載離線地圖，以防萬一。
+    - q: 在吉達使用 Uber 從機場到市中心需要多久？eSIM 能否導航？
+      a: 從吉達機場到市中心巴拉德區約 20 公里，非尖峰時段車程 25-30 分鐘，尖峰可能需 60 分鐘。使用 eSIM 搭配 Google Maps
+        或 Waze 可獲得即時路況，建議避開下午 5-7 點的擁堵時段。Waze 在本地使用率較高，能提供更準確的交通事故報告。
+    - q: 在麥地那如何搭乘公車前往先知清真寺？eSIM 可否查詢時刻表？
+      a: 麥地那的公共巴士系統（SAPTCO）有專線前往先知清真寺，但班次較少（每 30 分鐘一班）。使用 eSIM 可透過「SAPTCO」App 或 Google
+        Maps 查詢即時到站資訊，但建議同時安裝「Madinah Bus」本地 App，提供更準確的阿拉伯文資訊。清真寺周邊道路祈禱時間常封閉，導航時需留意。
+    - q: 在達曼租車自駕，eSIM 能否支援地圖導航和音樂串流？
+      a: 達曼主要道路（如法赫德國王公路）網路良好，Mobily 的 4G 下載速度約 30-50 Mbps，Google Maps 導航反應迅速，Spotify
+        串流無緩衝。但在沙烏地阿拉伯駕車需注意，部分地區（如工業城）可能因建設導致路線封閉，即時導航會自動重新規劃。建議使用 Waze 以獲取警察測速通報。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 沙烏地阿拉伯 的飯店使用 沙烏地阿拉伯 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Saudi Arabia eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Saudi Arabia eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Ritz-Carlton Riyadh, Four Seasons Hotel Riyadh,
-        Fairmont Makkah Clock Royal Tower or a local guesthouse, you can input the
-        address into Google Maps and get turn-by-turn walking or transit directions
-        using your Saudi Arabia eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Saudi Arabia eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Saudi Arabia eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download HungerStation, Jahez, Mrsool and use
-        your Saudi Arabia eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Saudi Arabia eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 入住利雅德麗思卡爾頓酒店，eSIM 與飯店 Wi-Fi 哪個更快？
+      a: 麗思卡爾頓酒店提供免費 Wi-Fi，但高峰時段（晚間 7-10 點）可能因多人使用而變慢。使用 STC eSIM 在飯店房間內下載速度約 80-120
+        Mbps（5G），比 Wi-Fi 的 20-40 Mbps 更快且穩定。建議商務旅客優先使用 eSIM 進行視訊會議，將飯店 Wi-Fi 備用。
+    - q: 麥加希爾頓酒店（靠近禁寺）的室內網路訊號如何？
+      a: 麥加希爾頓酒店靠近禁寺，建築內部因鋼筋結構可能阻擋部分訊號，Zain 的 4G 訊號較佳（約 2-3 格），STC 有時僅 1 格。將手機置於窗邊可改善接收。酒店提供付費高速
+        Wi-Fi，若您需要穩定連線進行遠距工作，建議同時使用 eSIM 和飯店 Wi-Fi 分流。
+    - q: 吉達海濱度假村（如 Assila Hotel）的 eSIM 連接品質好嗎？
+      a: 吉達濱海區的 Assila Hotel 周圍有 Mobily 5G 微型基地台，陽台和公共區域下載速度可達 150 Mbps，但客房內可能降至 20-30
+        Mbps。飯店提供免費 Wi-Fi，但速度受限。建議您將 eSIM 設為主要網路，尤其在海灘或泳池邊使用時，訊號強度優於室內。
+    - q: 麥地那 Dar Al Taqwa 酒店附近有網路限制嗎？
+      a: Dar Al Taqwa 酒店位於先知清真寺南側，該區域因宗教活動管制，祈禱時間前後可能出現網路擁塞。使用 STC 或 Zain 的 eSIM，非祈禱時段速度約
+        30-50 Mbps，祈禱時間可能降至 5-10 Mbps。飯店大廳提供 Wi-Fi，但需登入門號驗證，強烈建議您自行準備 eSIM。
+    - q: 在沙烏地酒店內使用 eSIM 分享給其他設備，是否違反規定？
+      a: eSIM 方案通常支援個人熱點，技術上可分享給筆電或平板。然而，每日共享超過特定流量（例如 5GB）可能觸發運營商的公平使用政策，導致降速。建議僅臨時共用，並利用飯店
+        Wi-Fi 進行大檔案下載。目前尚無法律禁止分享，但請勿用於大量 P2P 下載。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 沙烏地阿拉伯 旅遊景點的網路：沙烏地阿拉伯 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Al-Masjid al-Haram, Mada'in Saleh, Edge of the World
-        (Jebel Fihrayn) spontaneously, you can use your Saudi Arabia eSIM data to
-        buy skip-the-line tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Saudi Arabia eSIM, you can read reviews and
-        book local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Saudi Arabia.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Saudi Arabia eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Saudi Arabia eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Saudi Arabia eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Saudi Arabia eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Saudi Arabia eSIM data to search 'restaurants near me' on Google
-        Maps to check ratings, opening hours, and photos of the menu before walking
-        in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Saudi Arabia eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Saudi Arabia eSIM ensures you
-        can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Saudi Arabia eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like HungerStation, Jahez, Mrsool, register using
-        your email or social accounts, and order food seamlessly using your Saudi
-        Arabia eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Mada,
-        STC Pay, Apple Pay require a brief internet handshake, which your Saudi Arabia
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Saudi Arabia eSIM to find hidden culinary gems in the city.
+    - q: 在利雅德參觀阿卜杜拉國王金融區（KAFD）時，能否用手機拍攝建築並即時上傳社交媒體？
+      a: KAFD 建築群有 STC 5G 覆蓋，上傳照片或 1080p 影片到 Instagram 或 TikTok 約需 2-5 秒。若拍攝 4K 影片，建議壓縮後再上傳以避免卡頓。該區域晚上燈光秀時遊客眾多，上傳速度可能變慢，可稍等
+        30 分鐘後再分享。
+    - q: 在吉達巴拉德老城區（Al-Balad）探索時，網路能否支援即時翻譯 App？
+      a: Al-Balad 街道狹窄，建築密集，Mobily 的 4G 訊號穿透力較強，使用 Google 翻譯即時對話基本可行，但偶有延遲。建議下載離線翻譯包以備不時之需。部分老屋內（如
+        Nassif House）訊號較弱，走到露天中庭即可改善。
+    - q: 前往瑪甸沙勒（Madain Saleh）遺跡區，eSIM 能否查閱歷史資料？
+      a: 瑪甸沙勒有 STC 4G 覆蓋，但速度較慢（約 5-10 Mbps），可瀏覽文字網頁和維基百科。若要載入含大量圖片的頁面，可能需要耐心等候。建議出發前先下載相關離線導覽
+        App 或 PDF，以免現場網路不穩。
+    - q: 在紅海海岸（如吉達海濱路）騎自行車時，eSIM 導航準確嗎？
+      a: 吉達海濱路（Corniche）沿線有專用自行車道，Mobily 的 5G 覆蓋良好，導航定位誤差小於 5 公尺。騎行時手機放在口袋可能遮蔽訊號，建議使用車架固定手機。注意部分路段靠近海面，5G
+        訊號可能轉換為 4G，但導航仍穩定。
+    - q: 在麥加參觀阿布拉吉·阿爾-貝特塔（Abraj Al-Bait）時，如何快速分享照片？
+      a: Abraj Al-Bait 購物中心內 STC 訊號強勁，但禁寺廣場因建築阻擋，上傳速度可能降至 1-5 Mbps。建議在購物中心內或飯店房間上傳，避免在祈禱時間與朝覲者搶頻寬。可使用社交軟體的壓縮模式上傳。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 沙烏地阿拉伯 eSIM 在 沙烏地阿拉伯 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Saudi Arabia eSIM providing the internet, you can chat and call exactly as
-        you do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Saudi Arabia eSIM gives
-        you the bandwidth needed to upload heavy video files to TikTok or Instagram
-        securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Saudi Arabia eSIM are clear and lag-free, no matter where you are
-        in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Saudi
-        Arabia eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Saudi Arabia eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Saudi Arabia eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Saudi Arabia eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在沙烏地阿拉伯使用 WhatsApp 語音通話穩定嗎？
+      a: 在利雅德、吉達等大城市，WhatsApp 通話延遲低，聲音清晰；但在偏遠地區或建築物內可能出現回音。建議使用 5G 網路以獲得最佳體驗。請注意，沙烏地阿拉伯過去曾封鎖語音通話功能，但目前已全面開放，無須
+        VPN。
+    - q: 在麥加能否用 TikTok 觀看直播？
+      a: 在麥加禁寺區域外的飯店或商店，使用 STC 4G 觀看直播基本流暢，但有時會因網絡擁塞導致緩衝。建議避開祈禱前後時段。TikTok 在沙烏地阿拉伯非常流行，但請尊重當地文化，避免拍攝宗教儀式時的敏感畫面。
+    - q: 在沙烏地阿拉伯使用 Facebook 或 Instagram 會被監控嗎？
+      a: 沙烏地阿拉伯政府依法監控網路內容，但一般遊客使用社交媒體通常不受干擾。避免發布政治敏感或違反公共道德的內容，否則可能觸發審查。eSIM 提供的 IP
+        為本地動態，與一般用戶無異，但若使用 VPN 可能有被阻斷的風險。
+    - q: 在利雅德咖啡廳使用 eSIM 觀看 Netflix 電影，速度足夠嗎？
+      a: 在利雅德的星巴克或本地咖啡廳，STC 5G 下載速度約 80-150 Mbps，串流 4K 電影無壓力。但部分咖啡廳可能阻擋串流服務的 P2P 連接，此時改用
+        Mobily 網路可避開限制。建議提前下載影集以免浪費流量。
+    - q: 在吉達使用 LINE 或微信的語音消息是否順暢？
+      a: LINE 和微信在吉達的表現良好，語音消息發送延遲低於 1 秒。但在多人群組同步傳遞時，可能因伺服器位置（多在日本或中國）而稍有延遲。使用 Zain
+        網路有時能獲得較低延遲，因其國際路由較穩定。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 沙烏地阿拉伯 使用 沙烏地阿拉伯 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Saudi Arabia, you can dial local emergency numbers like Police 999, Ambulance
-        997, Fire 998 directly from your phone's dialer regardless of your active
-        SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Saudi Arabia eSIM data allows you to immediately search Google Maps
-        for 'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Saudi Arabia eSIM to find
-        the exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Saudi Arabia eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Saudi Arabia eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Saudi Arabia eSIM, use
-        your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Saudi Arabia eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Saudi Arabia eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Saudi Arabia eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Saudi Arabia eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Saudi Arabia eSIM, you can rapidly upload
-        presentations or large documents to Google Drive or Dropbox directly from
-        the exhibition floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Saudi Arabia eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Saudi Arabia eSIM to update them on flight delays or
-        schedule changes.
+    - q: 在沙烏地阿拉伯撥打緊急電話（如 997）需要 eSIM 有餘額嗎？
+      a: 緊急電話 997（救護車）可免費撥打，即使 eSIM 無餘額或僅有數據方案也能接通。但請確保手機有訊號，且未鎖定 SIM 卡。若您使用 iPhone
+        的 eSIM，可設定緊急連絡人，在鎖定畫面仍可撥打。
+    - q: 在偏遠沙漠地區發生事故如何求助？eSIM 可否定位？
+      a: 沙漠區域（如空曠沙漠）通常無手機訊號，eSIM 無法使用。建議攜帶衛星電話或個人定位信標（PLB）。即使在 AlUla 等旅遊區，也可能只在公路上有訊號。萬一受困，應留在車輛附近節省體力，並發出信號。
+    - q: 在利雅德街頭遇到證件遺失，如何透過 eSIM 聯絡台北辦事處？
+      a: 您可使用 eSIM 數據撥打 Skype 或 WhatsApp 網絡電話至駐沙烏地阿拉伯代表處的緊急電話（+966-11-488-4477）。代表處提供護照遺失補發協助，但需預約辦理。建議事先在手機內存辦事處地址和電話，以免網路不穩時無法查找。
+    - q: 緊急情況下，eSIM 用戶能否優先獲得網路資源？
+      a: 沙烏地阿拉伯的運營商沒有針對 eSIM 用戶的緊急優先級制度，所有用戶一視同仁。公共安全事件發生時，政府可能封鎖部分社群媒體以管制訊息，但一般數據仍可使用。建議保持手機電量充足，以便接收緊急警報。
+    - q: 在吉達遭遇醫療緊急情況，叫救護車時能否用英文溝通？
+      a: 撥打 997 後，接線生以阿拉伯語為主，但部分人員可說簡單英文。建議準備好所在地點的阿拉伯語名稱，可用 Google 翻譯顯示給對方看。使用 eSIM
+        的數據連接，您也可以下載「沙烏地紅新月會」App，該 App 支援英文定位求助。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 沙烏地阿拉伯 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Saudi-Arabia eSIM vs SIM Card Plans: Which One Fits Your Needs?"
-  subtitle: "Saudi Arabia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Saudi-Arabia) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Saudi-Arabia"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Saudi-Arabia eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Must visit operator store (e.g., STC store locator) with passport and visa, and provide fingerprints for KYC; airport kiosks have long queues and higher prices."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip STC store queues and fingerprint registration. Activate online within 1 minute after landing in Riyadh."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All operators require photo ID, visa, and fingerprint registration; street SIMs registered on someone else's name are illegal and may be shut down."
-      esim_title: "No Passport or Fingerprints"
-      esim_desc: "Avoid Saudi Arabia's strict KYC requiring passport, visa, and fingerprints. Roami eSIM activates without any personal ID."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Zain offers GCC roaming packs: 3-day unlimited data for 179 SAR; Mobily offers 2GB/3 days for 99 SAR and 7GB/7 days for 199 SAR; local plan data cannot be used abroad."
-      esim_title: "Seamless Multi-Country Roaming"
-      esim_desc: "Unlike Zain's GCC roaming pack (179 SAR for 3 days unlimited), Roami offers multi-country plans at $1.99/GB, usable across GCC without extra fees."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Most prepaid plans have 28-day or 30-day cycles; e.g., STC 'Like' 65 SAR for 28 days, Zain 'Visitor 55' 55 SAR for 28 days; a 5-day trip wastes 23 days (82% of plan value)."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike STC's 28-day cycle (65 SAR for 2GB), Roami offers 7-day plans starting from $1.99/GB, saving up to 82% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed but may be restricted on social media data packages."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike local SIMs that restrict social media data to specific apps, Roami allows full-speed hotspot on all data."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-ups require 5% VAT since 2018; online top-up may reject foreign cards; physical vouchers available at kiosks."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local currency or 5% VAT."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Phone support in Arabic and English, but limited hours; no live chat for prepaid customers."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock support in English and Arabic via live chat, unlike local operators with limited phone hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Saudi-Arabia eSIM vs Local Prepaid SIM: Which Is More Convenient?"
-    cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Saudi Arabia's Strict SIM Passport Requirements"
-        desc: "All local operators (STC, Mobily, Zain) require passport, visa, and <b>fingerprint registration</b>. Roami eSIM activates instantly without any ID."
-      - icon: "clock"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Instant Activation, No Queues"
-        desc: "Buying a local SIM requires visiting a store (e.g., STC) and waiting for fingerprint registration. Roami activates online in <b>1 minute</b>."
-      - icon: "headset"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "24/7 Multilingual Customer Support"
-        desc: "Local operators have limited phone hours. Roami offers <b>24/7 live chat</b> in English and Arabic."
-      - icon: "shield"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Avoid Illegal Street SIM Risks"
-        desc: "Street SIMs registered on someone else's name are illegal and may be shut down. Roami is a legitimate digital SIM with no compliance risks."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

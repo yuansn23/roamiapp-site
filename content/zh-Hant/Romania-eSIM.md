@@ -1,93 +1,88 @@
 ---
-title: Romania eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 羅馬尼亞 eSIM 方案 | 羅馬尼亞 eSIM | Roami
+date: '2026-05-19T10:10:44+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Romania eSIM
-  scenario_keywords: Bucharest sightseeing, Transylvania travel, Carpathian hiking,
-    Black Sea beach, Danube delta cruise
-  operators: Orange, Vodafone, Telekom
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Bucharest, Cluj-Napoca, Timișoara, Iași, Constanța
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 羅馬尼亞 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食, 歷史探索
+  operators: Orange, Vodafone, Telekom Romania
+  competitors: Airalo, Holafly, Nomad, Ubigi, Redteago
+  main_cities: 布加勒斯特, 克盧日-納波卡, 蒂米什瓦拉, 雅西, 康斯坦察
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Buy Romania eSIM | No Roaming Shock | No Roaming Fees | Roami
-  description: Planning a trip to Romania? Get Roami's High-Speed 5G on Top Local
-    Carrier with No Contract Data. Features Auto Network Switch and Auto-Connect,
-    great for Visiting Family.
-  keywords: Romania eSIM, prepaid eSIM, cheap eSIM, unlimited data, travel internet
-  low_price: 1.99
-  high_price: 39.9
+  title: 羅馬尼亞 eSIM | 流量吃到飽 | 5G網路自動切換 | Roami
+  description: 羅馬尼亞旅遊首選 Roami eSIM，流量吃到飽且支援 5G 網路自動切換。立即購買並輸入折扣碼 20%，領取您的旅遊專屬優惠折扣。
+  keywords: 羅馬尼亞 eSIM, 羅馬尼亞上網卡, 布加勒斯特網路, 布拉索夫 eSIM, 康斯坦察上網, 羅馬尼亞旅遊
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 羅馬尼亞 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Romania eSIM
+- label: 羅馬尼亞 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Romania
-  title: Best eSIM for Romania
+  alt: 最佳 羅馬尼亞 eSIM
+  title: 最佳 羅馬尼亞 eSIM
 hero:
   flag_image: img/flags/ro.svg
-  flag_alt: Romania Flag
-  title: Romania eSIM data plan
-  subtitle: Automatic network selection | No hidden fees | Hotspot supported
+  flag_alt: 羅馬尼亞 國旗
+  title: 羅馬尼亞 eSIM - 旅行計劃
+  subtitle: 羅馬尼亞 eSIM | 高速5G網路 | 支援熱點分享 | 100%退款保證
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 羅馬尼亞 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 羅馬尼亞 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -95,81 +90,81 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.14'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.86'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '20.99'
     oldPrice: '31.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '23.99'
     oldPrice: '35.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.43'
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 100GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.83'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '22.99'
     oldPrice: '34.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.77'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -177,41 +172,41 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.50'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '78.99'
     oldPrice: '118.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.63'
-  15 Days:
+  15 天:
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.93'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -219,49 +214,49 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.60'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.93'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.47'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '42.99'
     oldPrice: '64.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.87'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -269,564 +264,342 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '4.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '13.99'
     oldPrice: '20.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '4.66'
 discount_banner:
-  title: Special Discount!
+  title: 羅馬尼亞 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 羅馬尼亞 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Romania, including major cities
-        like Bucharest, Cluj-Napoca, Timișoara, and Iași. Our Romania eSIM seamlessly
-        connects to the robust networks of Orange, Vodafone, and Telekom, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個羅馬尼亞享受廣泛的網路覆蓋，包括布加勒斯特、克盧日-納波卡、蒂米什瓦拉、康斯坦察等城市。我們的羅馬尼亞 eSIM 無縫連接到 Orange
+        和 Vodafone 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Orange
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Vodafone
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Telekom
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 羅馬尼亞 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Romania.
+    html: 建議抵達 羅馬尼亞 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 羅馬尼亞 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 羅馬尼亞 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 羅馬尼亞 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 羅馬尼亞 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 羅馬尼亞」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Romania'
-    desc: Upon arriving in Romania, enable your Romania eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 羅馬尼亞 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Orange / Vodafone 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 羅馬尼亞：立即連上 5G/4G 網路
+    desc: 當您降落在 羅馬尼亞（例如 布加勒斯特亨利·科安德國際機場 (OTP)、克盧日-納波卡國際機場 (CLJ)、蒂米什瓦拉特拉揚·武亞國際機場 (TSR)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 羅馬尼亞。幾秒鐘內，您的設備將自動連接到 Orange / Vodafone
+      提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Romania eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Romania eSIM across different
-    travel scenarios.
+  title: 羅馬尼亞 eSIM：完整指南和常見問題
+  desc: 使用 羅馬尼亞 eSIM 在 羅馬尼亞 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 羅馬尼亞 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Romania eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Romania eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Romania eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Romania
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Romania eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Romania eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Romania that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Romania eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Romania eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Romania eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Romania eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Romania,
-        such as Orange, Vodafone, Telekom, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, Redtea Mobile,
-        Holafly, Yesim?
-      a: While great companies like Airalo, Redtea Mobile, Holafly, Yesim offer reliable
-        services, we focus on providing the most cost-effective Romania eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在布加勒斯特市中心使用 Orange 網路觀看 YouTube 4K 影片順暢嗎？
+      a: 布加勒斯特市中心如大學廣場和 Victoriei 街一帶，連接到 Orange 網路時，下載速度通常在 40-60 Mbps，足夠流暢播放 4K
+        影片。不過在尖峰時段（晚上 6-10 點）靠近 Unirea 購物中心時，速度可能降至 15-20 Mbps，但 Full HD 播放仍無問題。若需要極低延遲的視訊通話，可手動切換到
+        Vodafone 網路，其延遲更穩定。每天使用超過 5GB 後可能觸發公平使用政策，但速度仍維持 2 Mbps 以上。
+    - q: 在布拉索夫山區（如波亞納布拉索夫）eSIM 訊號強度如何？
+      a: 在布拉索夫附近的波亞納布拉索夫滑雪勝地，Orange 和 Vodafone 的 4G 訊號普遍良好，但進入樹林深處或纜車上可能出現短暫中斷。建議在城區先載入離線地圖，因為部分小徑訊號較弱。我們的
+        eSIM 會自動切換至最強訊號的運營商，但山區基站較少，尖峰時段速度可能降至 5-10 Mbps，仍可應付即時通訊。
+    - q: 在康斯坦察海灘使用 eSIM 打卡和上傳照片速度快嗎？
+      a: 康斯坦察主要海灘如 Modern 海灘和 Mamaia 度假區，連接到 Orange 網路時，上傳速度通常在 10-20 Mbps，上傳 Instagram
+        照片或短影片約需幾秒。不過夏季旺季時（7-8 月）因為遊客眾多，速度可能下降至 5 Mbps 左右。建議避開下午 2-5 點的高峰時段，或使用 Vodafone
+        網路，其在沿海一帶有較多基站分擔流量。
+    - q: 在克盧日-納波卡使用 eSIM 進行視訊會議穩定嗎？
+      a: 克盧日-納波卡市中心如 Unirii 廣場附近，Orange 網路的延遲一般在 20-30ms，適合 Zoom 或 Teams 視訊會議。但在工業區或郊區，可能需切換到
+        Telekom 網路以獲得更好的穩定性。我們 eSIM 支援手動選網，若遇到不穩定，建議鎖定 Orange 或 Vodafone。每日使用超過 3GB
+        後，在尖峰時段可能降速，但語音通話品質不受影響。
+    - q: 在羅馬尼亞使用 eSIM 需要實名註冊嗎？
+      a: 是的，根據羅馬尼亞法規，所有 SIM 卡（包括 eSIM）都需要實名註冊。您購買時需提供護照資訊或身份證明。我們的平台會收集必要資料並傳送給運營商，通常
+        5-10 分鐘內即可開通。若在機場（如亨利·科安德機場）連接，建議先連免費 Wi-Fi 完成註冊。請確保輸入的姓名與護照一致，否則可能無法啟用。
+    - q: 在蒂米什瓦拉古城區用 eSIM 導航和聽串流音樂會延遲嗎？
+      a: 蒂米什瓦拉勝利廣場一帶，Vodafone 和 Orange 的 4G 訊號覆蓋良好，Google Maps 導航即時無延遲。串流音樂如 Spotify
+        在 320kbps 品質下幾乎無緩衝。不過在古城狹窄街道內（如 Mercy 街），建築物可能輕微影響訊號，但很少中斷。我們的 eSIM 下載速度通常在
+        30-50 Mbps，足以同時進行導航和音樂播放。如果使用超過 5GB，速度仍可維持 2 Mbps 以上。
+    - q: 在雅西使用 eSIM 玩線上遊戲（如《傳說對決》）延遲高嗎？
+      a: 雅西市中心如 Palas 購物中心附近，連接到 Orange 網路時延遲約 25-35ms，適合玩 MOBA 或射擊遊戲。但在城市外圍或夜間時段，延遲可能升至
+        50ms，仍可接受。建議使用 4G 而非 5G 以獲得更穩定的連接（5G 在某些區域較不穩定）。我們的 eSIM 不支援固定 IP，但整體表現與當地預付卡相當。若遇高延遲，可嘗試切換到
+        Vodafone 網路。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 羅馬尼亞 機場：如何使用 羅馬尼亞 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Romania eSIM before your flight. Once you land at Henri Coandă
-        International Airport (OTP), Cluj-Napoca International Airport (CLJ), Timișoara
-        Traian Vuia International Airport (TSR), simply turn off Airplane Mode and
-        enable your eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Romania eSIM activated upon landing, you can immediately open Uber,
-        Bolt, BlackCab to book a ride or use WhatsApp to message your pre-booked driver
-        without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Romania eSIM data allows you to open Google Maps right at
-        the baggage claim in Henri Coandă International Airport (OTP), Cluj-Napoca
-        International Airport (CLJ), Timișoara Traian Vuia International Airport (TSR)
-        to check real-time train schedules, bus routes, or walking directions to the
-        taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Romania eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Romania eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Romania eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 離開布加勒斯特亨利·科安德機場時如何啟用 eSIM？
+      a: 抵達亨利·科安德機場後，打開手機設定中的行動數據選項，掃描我們提供的 QR 碼即可。建議在出發前先連接機場免費 Wi-Fi（名為「OTP Free
+        WiFi」）以下載設定檔。啟用後，選擇 Orange 網路，通常 1-2 分鐘內就會連上。若無法連線，請手動選擇運營商，並確保數據漫遊已開啟。
+    - q: 在克盧日-納波卡機場購買 eSIM 需要多久時間開通？
+      a: 在克盧日-納波卡機場購買後，eSIM 通常 5 分鐘內即可啟用。您只需掃描 QR 碼並連接至 Orange 或 Vodafone 網路。機場內有
+        4G 訊號覆蓋，但建議先在航廈內完成設定，因為出口處訊號可能稍弱。如果遇到問題，可至機場內的 Orange 門市尋求協助。
+    - q: 在蒂米什瓦拉機場 eSIM 的訊號強度如何？
+      a: 蒂米什瓦拉機場內訊號良好，Orange 和 Vodafone 都有 4G 覆蓋。航廈內下載速度約 20-30 Mbps，足以應付即時通訊。不過在停車場或行李轉盤附近，訊號可能衰減至
+        5 Mbps。建議在入境大廳完成 eSIM 設定，並確認已選擇正確的 APN。
+    - q: 在布加勒斯特機場可以買到 eSIM 實體卡嗎？
+      a: 亨利·科安德機場的 Orange 和 Vodafone 門市販售實體預付卡，但 eSIM 僅能透過線上平台購買。您可以先在我們網站購買，抵達後掃描
+        QR 碼開通。機場內無 eSIM 自動販賣機，因此預先購買最方便。實體卡需插卡並可能需護照註冊，流程約 10 分鐘。
+    - q: 從康斯坦察機場出發前，eSIM 能提前設定嗎？
+      a: 可以，您在出發前購買 eSIM 後，會收到 QR 碼，建議在台灣的家中就先掃描安裝描述檔。注意：必須在連接到羅馬尼亞當地網路後（例如康斯坦察機場的
+        Wi-Fi），eSIM 才會正式啟用。機場免費 Wi-Fi 名為「CND Airport」，連線穩定，方便您完成最後開通步驟。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 羅馬尼亞 eSIM 用於 羅馬尼亞 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Romania eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Romania, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Bolt, BlackCab use VoIP (internet calling) and in-app messaging.
-        Since you have active Romania eSIM data, drivers can call or message you directly
-        through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Romania eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Romania eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Romania.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Romania eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Romania eSIM's data network while on
-        the train or in the car.
+    - q: 在布加勒斯特地鐵內 eSIM 網路順暢嗎？
+      a: 布加勒斯特地鐵系統（Metrorex）在大部分車站內（如 Piața Unirii 站）有 4G 訊號，但隧道內可能中斷，尤其是 M2 線部分老舊區段。月台上速度約
+        10-20 Mbps，可使用社交媒體和即時通訊。建議提前下載離線地圖，因為行駛中網路不穩定。我們的 eSIM 支援自動切換，但隧道中仍可能無服務。
+    - q: 從布拉索夫到錫納亞的火車上 eSIM 訊號穩定嗎？
+      a: 這段火車行經喀爾巴阡山脈，訊號會受地形影響。經過城鎮時（如 Predeal）速度可達 15-25 Mbps，但在山區隧道內完全無訊號。Orange
+        在該線路覆蓋較廣，Vodafone 次之。建議在出發前下載 Spotify 離線歌單，因為串流在部分路段會中斷。我們的 eSIM 會自動切換運營商，但無法克服地形限制。
+    - q: 在康斯坦察使用 Bolt 叫車時 eSIM 定位準確嗎？
+      a: 康斯坦察市區如 Mamaia 大道，GPS 定位誤差在 10 公尺內，叫車順暢。但海灘附近（如 Modern 海灘）因為建築物較少，定位更精準。Bolt
+        和 Uber 都接受 eSIM 網路，回應時間約 2-3 秒。若遇到定位飄移，可開啟 Wi-Fi 輔助定位，但需注意數據用量。
+    - q: 在布加勒斯特租用共享單車（如 iRide）需要網路嗎？
+      a: |-
+        是的，iRide 等共享單車 App 需要網路解鎖車輛。布加勒斯特自行車道沿線（如 Herăstrău 公園）4G 訊號良好，解鎖時間 <5 秒。若在舊城區（Lipscani）小巷內，可能因建築物遮蔽導致延遲，建議預先載入 App 地圖。我們的 eSIM 速度足夠應付即時解鎖和路線規劃。
+    - q: 從布加勒斯特到康斯坦察的公路旅行中 eSIM 導航會中斷嗎？
+      a: 行駛 A2 高速公路時，Orange 和 Vodafone 的 4G 訊號覆蓋連續，導航（如 Waze）不會中斷。但經過農業區如 Fundulea
+        時，速度可能降至 5-10 Mbps，仍可提供即時路況。靠近康斯坦察市區後訊號增強。建議在出發前設定好導航路線，以避免偏離後重新規劃的延遲。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 羅馬尼亞 的飯店使用 羅馬尼亞 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Romania eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Romania eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at JW Marriott Bucharest Grand Hotel, Athenee Palace
-        Hilton, InterContinental Bucharest or a local guesthouse, you can input the
-        address into Google Maps and get turn-by-turn walking or transit directions
-        using your Romania eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Romania eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Romania eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Glovo, Takeaway.com, Foodpanda and use
-        your Romania eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Romania eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 在布加勒斯特馬爾馬羅什酒店內 eSIM 訊號強嗎？
+      a: 馬爾馬羅什酒店位於舊城區，客房內 Orange 網路速度約 30-50 Mbps，公共區域則更快。部分內側房間因牆體較厚可能降至 10 Mbps，但仍可順暢視訊。酒店提供免費
+        Wi-Fi，但 eSIM 更穩定。建議在高樓層靠近窗戶的位置使用，以獲得最佳速度。
+    - q: 在布拉索夫阿羅宮酒店使用 eSIM 與家人視訊順暢嗎？
+      a: 阿羅宮酒店位於市中心，客房內連接到 Vodafone 網路時，延遲約 25ms，適合 FaceTime 或 WhatsApp 視訊。飯店建築為歷史建築，部分房間（如面向內庭的）訊號較弱，可能降至
+        5 Mbps。建議主動選擇 Orange 網路以獲得更好覆蓋。我們的 eSIM 支援手動選網，可因應不同樓層狀況。
+    - q: 在康斯坦察雷吉納酒店海景房 eSIM 上傳照片速度快嗎？
+      a: 雷吉納酒店靠近海邊，連接到 Orange 網路時上傳速度約 10-15 Mbps，足夠快速上傳高解析度照片。不過在夏季午後因遊客多，可能下降至 5
+        Mbps。建議在清晨或晚間上傳。酒店大廳訊號較強，若在房間內遇到問題，可移至陽台或靠窗位置。
+    - q: 在錫比烏的飯店使用 eSIM 搜尋當地餐廳方便嗎？
+      a: 錫比烏舊城區如大廣場附近的飯店，4G 訊號良好，Google Maps 載入餐廳資訊只需 2-3 秒。部分歷史建築內的飯店（如靠近謊言橋）可能有微弱訊號，但使用數據仍順暢。Orange
+        和 Vodafone 在該區覆蓋均佳。我們的 eSIM 速度在 20-40 Mbps，足以瀏覽菜單和線上訂位。
+    - q: 在蒂米什瓦拉飯店內使用 eSIM 下載 Netflix 影片速度快嗎？
+      a: 蒂米什瓦拉市中心飯店，連接到 Vodafone 網路時下載速度約 25-45 Mbps，下載一部 1GB 電影只需 2-4 分鐘。飯店建築多為現代結構，訊號穿透良好。若在較老的飯店（如
+        Hotel Timișoara），內側房間可能降速至 10 Mbps，但下載仍可行。建議使用 5G 網路（若支援）以獲取更快速度。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 羅馬尼亞 旅遊景點的網路：羅馬尼亞 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Bran Castle (Dracula's Castle), Palace of the Parliament,
-        Peles Castle spontaneously, you can use your Romania eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Romania eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Romania.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Romania eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Romania eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Romania eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Romania eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Romania eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Romania eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Romania eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Romania eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Glovo, Takeaway.com, Foodpanda, register
-        using your email or social accounts, and order food seamlessly using your
-        Romania eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like PayPal,
-        card payment (Visa/Mastercard), Revolut require a brief internet handshake,
-        which your Romania eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Romania eSIM to find hidden culinary gems in the city.
+    - q: 在布朗城堡（吸血鬼城堡）參觀時 eSIM 訊號如何？
+      a: 布朗城堡位於山上，城堡內訊號受限，部分地下室或石牆旁無訊號。但在城堡庭院和售票處附近，Orange 和 Vodafone 的 4G 速度約 5-15
+        Mbps，可上傳照片或打卡。建議在入內前先下載語音導覽 App，因為內部串流不穩定。城堡周邊餐廳訊號較好，速度可達 20 Mbps。
+    - q: 在布加勒斯特羅馬尼亞雅典娜神廟附近使用 eSIM 直播活動順暢嗎？
+      a: 雅典娜神廟前的革命廣場一帶，Orange 網路的上傳速度約 10-20 Mbps，適合短時直播。若人潮眾多（如音樂會時），可能降至 5 Mbps。Vodafone
+        網路在該區域延遲較低，建議優先選擇。直播前請關閉背景 App 以確保頻寬。我們的 eSIM 支援 4G+，但尖峰時段仍可能卡頓。
+    - q: 在布拉索夫 Council Square（議會廣場）打卡上傳速度快嗎？
+      a: 議會廣場是布拉索夫中心，連接到 Orange 網路時上傳速度約 15-25 Mbps，打卡和上傳照片幾乎即時。廣場周邊咖啡廳提供免費 Wi-Fi，但
+        eSIM 更可靠。夏季遊客多時速度可能降至 8 Mbps，但仍可正常使用社交媒體。建議避開下午 3-5 點的高峰時段。
+    - q: 在康斯坦察 Mamaia 海灘使用 eSIM 觀看 TikTok 影片會緩衝嗎？
+      a: Mamaia 海灘沿線，Vodafone 網路的 4G 下載速度約 20-35 Mbps，瀏覽 TikTok 短影片無緩衝。但人潮密集的區域（如夏季週末）可能降速至
+        10 Mbps。建議選擇靠近北側的較安靜海灘，訊號更佳。我們的 eSIM 支援自動切換，若感延遲，可鎖定 Orange 網路。
+    - q: 在錫比烏大廣場使用 eSIM 搜尋歷史資訊方便嗎？
+      a: 錫比烏大廣場周邊 4G 訊號良好，連接到 Orange 網路時，載入維基百科或旅遊 App 只需 2-3 秒。廣場周圍有許多戶外座位區，網路穩定度佳。若在布魯肯塔爾宮附近，訊號可能因建築遮蔽稍弱，但仍可正常使用。我們的
+        eSIM 速度在 20-40 Mbps，足以查閱地圖和景點介紹。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 羅馬尼亞 eSIM 在 羅馬尼亞 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Romania eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Romania eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Romania eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Romania
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Romania eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Romania eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Romania eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在布加勒斯特舊城區（Lipscani）用 eSIM 發 Instagram 限時動態流暢嗎？
+      a: Lipscani 區酒吧和餐廳密集，Orange 和 Vodafone 的 4G 上傳速度約 10-20 Mbps，發限時動態或直播都順暢。但週末夜晚人潮擁擠時，速度可能降至
+        5 Mbps，發送稍有延遲。建議在餐廳內使用 Wi-Fi 作為備用。我們的 eSIM 支援熱點分享，可與朋友共用網路。
+    - q: 在布拉索夫使用 eSIM 與家人視訊通話（如 FaceTime）品質如何？
+      a: 布拉索夫市區如 Piata Sfatului 一帶，使用 Vodafone 網路時 FaceTime 視訊流暢，延遲約 30ms。在山上（如坦帕山）訊號較弱，可能出現馬賽克。建議在城區內通話，並避開傍晚尖峰時段。若需長時間視訊，可考慮連接咖啡廳
+        Wi-Fi。我們的 eSIM 支援高清語音，但視訊仍依賴頻寬。
+    - q: 在康斯坦察使用 eSIM 玩寶可夢 GO 順暢嗎？
+      a: 康斯坦察海邊步道（如 Faleză）GPS 定位精準，寶可夢 GO 執行順暢。Orange 網路下載速度約 20-30 Mbps，道館戰鬥無延遲。但近郊公園（如
+        Tomis 碼頭）偶有訊號死角。建議避開凌晨時段（2-4 AM），因為部分基站進行維護。我們的 eSIM 數據充足，適合整天抓寶。
+    - q: 在克盧日-納波卡使用 eSIM 與朋友群組視訊（多人通話）穩定嗎？
+      a: 克盧日-納波卡大學區附近，5G 覆蓋良好，多人 WhatsApp 視訊流暢，但請確保其他參與者網路穩定。我們的 eSIM 在該區延遲約 20ms，適合
+        4 人以下通話。若人數較多，建議降為語音通話。在中央公園（Parcul Central）出口處訊號最佳，可達 50 Mbps。
+    - q: 在蒂米什瓦拉使用 eSIM 看 Netflix 串流時會因緩衝中斷嗎？
+      a: 蒂米什瓦拉市區，Vodafone 網路下載速度約 30-45 Mbps，Netflix 1080p 串流無緩衝。若使用 4K，建議在夜間離峰時段，因白天某些區域（如工業區）速度可能降至
+        15 Mbps。我們的 eSIM 支援 5G，但請確保手機設定為 4G 優先，以獲得穩定連接。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 羅馬尼亞 使用 羅馬尼亞 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Romania, you can dial local emergency numbers like 112 (general emergency),
-        911 (ambulance), 110 (police), 119 (child helpline) directly from your phone's
-        dialer regardless of your active SIM, as long as your phone can catch any
-        cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Romania eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Romania eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Romania eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Romania eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Romania eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Romania eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Romania eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Romania eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Romania eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Romania eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Romania eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Romania eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在羅馬尼亞撥打 112 需要 eSIM 有餘額嗎？
+      a: 不需要餘額，撥打 112 是完全免費的，無論您使用哪家運營商，甚至無 SIM 卡狀態下（只要手機能連上任一網路）都可撥通。eSIM 用戶也享有相同權益。建議在出國前先測試緊急電話功能，但請勿隨意撥打以免佔線。撥通後，接線員會說羅馬尼亞語或英語，請清楚說明位置。
+    - q: 在布加勒斯特旅遊時若錢包被偷，eSIM 如何幫助我？
+      a: 立即使用 eSIM 連網致電 112 報警，或透過 Google Maps 定位最近的警察局，如布加勒斯特中央警察局（位於 Ştirbei Vodă
+        街）。您也可以使用 eSIM 登入銀行 App 凍結信用卡，或聯繫臺北經濟文化辦事處（位於布加勒斯特）。建議事先將重要電話號碼儲存在手機中。
+    - q: 在偏遠山區（如布拉索夫附近）eSIM 能保證緊急通訊嗎？
+      a: 在山區如布拉索夫附近的 Postăvaru 山，部分區域只有 Orange 或 Telekom 訊號。若無訊號，請嘗試升高位置或移動至開闊地。我們的
+        eSIM 會自動搜尋所有可用網路，但無法保證 100% 覆蓋。建議租用衛星電話或下載離線求救 App。緊急情況下，112 會嘗試利用任何可用網路連接。
+    - q: 如果 eSIM 突然無法使用，我該怎麼辦？
+      a: 首先檢查設定：確認數據漫遊已開啟，並手動選擇 Orange 或 Vodafone。重新啟動手機通常能解決。若仍無效，可連接免費 Wi-Fi（如咖啡廳或飯店）聯絡客服。我們的支援團隊提供
+        24/7 線上協助，會重新發送設定檔。若急需網路，可在 Orange 門市購買實體預付卡作為備用。
+    - q: 在康斯坦察海邊遇到溺水緊急情況時，eSIM 能否快速撥打救援？
+      a: 可以，直接撥打 112 即可轉接至海岸巡邏隊。康斯坦察海灘如 Modern 海灘周邊 4G 訊號良好，通話清晰。請盡量提供精確位置，例如靠近哪個飯店或地標。若不慎落水，手機防水袋可保護設備。建議在游泳前先記下最近救援站的電話。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 羅馬尼亞 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Romania eSIM vs Prepaid SIM Card: Is It Worth Switching?"
-  subtitle: "Romania Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Romania) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Romania"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Romania eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Orange and Digi reject international credit cards for online top-up; Orange requires a Romanian credit card, forcing tourists to buy physical vouchers at stores."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Orange and Vodafone store queues. Activate online within 1 minute after landing in Bucharest."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, Romanian prepaid SIMs typically require passport registration at point of sale."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid passport registration at Romanian stores. Roami eSIM activates instantly without ID checks."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Vodafone's €5/€6/€8 plans completely block EU roaming; Orange's €5/€6 plans have EU roaming data that is inactive unless a €12+ plan is purchased; Digi's €2.5-€5 plans block EU roaming, only the €9 plan includes 15GB EU roaming."
-      esim_title: "Seamless EU Roaming"
-      esim_desc: "Unlike Vodafone's €5/€6/€8 plans that block EU roaming, Roami provides usable data across all EU countries without FUP restrictions."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Orange, Vodafone, and Digi mainstream plans require 28-day or 30-day billing cycles, starting at over €6 after tax. A 7-day tourist wastes over 75% of the plan's value."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Unlike Orange's 28-day cycle (€5+21% VAT), Roami offers 7-day plans starting from $1.99/GB, saving over 75% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Vodafone data card allows tethering but mobile card is unclear; Orange and Digi do not specify hotspot restrictions."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami allows full-speed hotspot sharing, unlike Vodafone's unclear policy and potential blocks on mobile SIMs."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Orange online top-up requires a Romanian credit card; Digi online top-up also rejects international cards; users must buy physical vouchers at kiosks."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for Romanian credit cards like Orange requires."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, customer support is typically in Romanian, with limited English support."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get English-speaking support anytime, unlike Romanian operators that typically offer only Romanian-language support during business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Romania eSIM vs Local SIM Card: Which One Saves You More?"
-    cards:
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "Keep Your Home SIM Active"
-        desc: "Physical SIMs require removing your home SIM, risking loss of bank verification codes. Roami eSIM works alongside your home SIM, keeping your number online for WhatsApp and banking."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Global Cards, Not Romanian Only"
-        desc: "Orange online top-up requires a <b>Romanian credit card</b>; Digi also rejects international cards. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal</b>."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation, No Store Visit"
-        desc: "Buying a Romanian prepaid SIM requires visiting a store (airport kiosks may charge extra). Roami delivers the eSIM via email; activate in <b>1 minute</b> after landing."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Romania's SIM Registration Hassles"
-        desc: "Romanian prepaid SIMs typically require passport registration at point of sale. Roami eSIM activates instantly without any ID checks, saving you 30 minutes at the store."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

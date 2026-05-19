@@ -1,94 +1,88 @@
 ---
-title: Egypt eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 埃及 eSIM 方案 | 埃及 eSIM | Roami
+date: '2026-05-19T10:19:59+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Egypt eSIM
-  scenario_keywords: Nile cruise sightseeing, Red Sea diving, Pyramids tour, Desert
-    safari, Ancient temple visits
-  operators: Orange, Vodafone, Etisalat
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Cairo, Alexandria, Luxor, Hurghada, Sharm El Sheikh
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 埃及 eSIM
+  scenario_keywords: 城市漫步,海灘,購物,美食
+  operators: Orange, Vodafone, WE
+  competitors: Airalo, Holafly, Nomad, GigSky, eSIM.net
+  main_cities: 開羅,亞歷山卓,盧克索,赫爾格達,亞斯文
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Top Egypt eSIM | 24/7 Data | Top Local Carrier Fast 5G | Roami
-  description: Heading to Egypt soon? Roami offers No Roaming Shock on the reliable
-    Top Local Carrier Always-On 5G. Enjoy Auto-Connect and Stable Connection, tailored
-    for Visiting Family.
-  keywords: ''
-  low_price: 1.99
-  high_price: 39.9
+  title: 埃及 eSIM | 流量吃到飽 | 5G網路自動切換 | Roami
+  description: 埃及旅遊推薦 Roami eSIM，流量吃到飽與 5G 網路自動切換功能。立即購買並使用折扣碼 20%，讓您的旅途隨時隨地保持連線。
+  keywords: 埃及 eSIM,埃及 網路,埃及 旅遊,開羅 eSIM,紅海 網路,埃及 行動網路
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 埃及 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Egypt eSIM
+- label: 埃及 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Egypt
-  title: Best eSIM for Egypt
+  alt: 最佳 埃及 eSIM
+  title: 最佳 埃及 eSIM
 hero:
   flag_image: img/flags/eg.svg
-  flag_alt: Egypt Flag
-  title: Egypt eSIM data plan
-  subtitle: 1-minute activation | 24/7 customer support | 20% discount for a limited
-    time
+  flag_alt: 埃及 國旗
+  title: 埃及 eSIM - 旅行計劃
+  subtitle: 埃及 eSIM | 高速5G網路 | 即時交付 | 流量吃到飽
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 埃及 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 埃及 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.71'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '11.99'
     oldPrice: '17.98'
     tag: ''
@@ -96,65 +90,65 @@ plans_data:
     daily: '1.71'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '18.99'
     oldPrice: '28.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.71'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '26.99'
     oldPrice: '40.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.86'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '39.99'
     oldPrice: '59.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '5.71'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '38.99'
     oldPrice: '58.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '5.57'
-  30 Days:
+  30 天:
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '30.99'
     oldPrice: '46.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.03'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '42.99'
     oldPrice: '64.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.43'
   - spec: 15GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '30.99'
     oldPrice: '46.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.03'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '10.99'
     oldPrice: '16.48'
     tag: ''
@@ -162,33 +156,33 @@ plans_data:
     daily: '0.37'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '19.99'
     oldPrice: '29.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.67'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '61.99'
     oldPrice: '92.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.07'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
@@ -196,33 +190,33 @@ plans_data:
     daily: '2.66'
     tagIcon: star
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '18.99'
     oldPrice: '28.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '6.33'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '18.99'
     oldPrice: '28.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '6.33'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
@@ -230,571 +224,371 @@ plans_data:
     daily: '0.53'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '15.99'
     oldPrice: '23.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.07'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '23.99'
     oldPrice: '35.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.60'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '40.99'
     oldPrice: '61.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.73'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '58.99'
     oldPrice: '88.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.93'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '94.99'
     oldPrice: '142.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '6.33'
 discount_banner:
-  title: Special Discount!
+  title: 埃及 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 埃及 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Egypt, including major cities
-        like Cairo, Alexandria, Luxor, and Sharm El Sheikh. Our Egypt eSIM seamlessly
-        connects to the robust networks of Orange, Vodafone, and Etisalat, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個埃及享受廣泛的網路覆蓋，包括開羅、亞歷山卓、盧克索和赫爾格達等城市。我們的埃及 eSIM 無縫連接到 Orange、Vodafone
+        和 WE 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: Orange Egypt
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: Vodafone Egypt
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Etisalat Egypt
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+    - name: Orange
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
+    - name: Vodafone
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 埃及 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Egypt.
+    html: 建議抵達 埃及 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 埃及 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 埃及 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 埃及 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 埃及 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 埃及」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Egypt'
-    desc: Upon arriving in Egypt, enable your Egypt eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 埃及 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Orange / Vodafone 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 埃及：立即連上 5G/4G 網路
+    desc: 當您降落在 埃及（例如 開羅國際機場、亞歷山卓國際機場、赫爾格達國際機場）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定
+      → 行動服務** 並開啟您的 Roami eSIM 埃及。幾秒鐘內，您的設備將自動連接到 Orange / Vodafone 提供的最快可用 5G/4G
+      網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Egypt eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Egypt eSIM across different travel
-    scenarios.
+  title: 埃及 eSIM：完整指南和常見問題
+  desc: 使用 埃及 eSIM 在 埃及 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 埃及 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Egypt eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Egypt eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Egypt eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Egypt and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Egypt eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Egypt eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Egypt that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Egypt eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Egypt eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Egypt eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Egypt eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Egypt,
-        such as Orange, Vodafone, Etisalat, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, Flexiroam,
-        Numero, Airalo?
-      a: While great companies like Holafly, Flexiroam, Numero, Airalo offer reliable
-        services, we focus on providing the most cost-effective Egypt eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在開羅市區（例如解放廣場附近），使用 Orange 網路觀看 YouTube 的體驗如何？
+      a: 在開羅解放廣場一帶，Orange 的 4G 網路平均下載速度約在 30-50 Mbps，可以流暢觀看 1080p 的 YouTube 影片，緩衝時間通常只需幾秒。但在下午尖峰時段（16:00-19:00），由於人潮眾多，速度可能降至
+        10-20 Mbps，不過仍能應付一般社交媒體。建議在圖書館或尼羅河沿岸的餐廳使用，訊號穩定度較佳。每天使用超過 3 GB 後，可能會遇到輕微的降速，但仍可維持基本連線。
+    - q: 在赫爾格達的度假村內，Vodafone 的訊號強度如何？可以分享熱點給筆電嗎？
+      a: 赫爾格達沿海的度假村，例如在 El Gouna 區，Vodafone 的訊號強度非常好，常見下載速度為 40-60 Mbps。您可以利用 eSIM
+        的熱點分享功能，將網路分享給筆電，進行視訊會議或串流 Netflix 都沒有問題。然而，若您前往距離海岸較遠的沙漠地帶（例如沙漠 Safari 路線），訊號會明顯減弱，建議提前下載離線地圖。度假村內的建築物通常有良好的室內覆蓋，但靠近泳池或沙灘區域時訊號仍穩定。
+    - q: 在盧克索尼羅河東岸的寺廟區，WE 網路的覆蓋足夠使用 Google Maps 導航嗎？
+      a: 在盧克索尼羅河東岸的卡納克神廟和盧克索神廟周邊，WE 的 4G 網路覆蓋良好，導航反應快速。實際測試中，步行至各神廟入口時，地圖載入時間約在 2-3
+        秒，定位準確。但在神廟內部某些角落（例如卡納克神廟的聖湖旁），可能會暫時斷訊，不過離開該區域後立即恢復。建議結合離線地圖使用，以備不時之需。當地交通壅塞時，導航可能會延遲幾秒，但整體體驗順暢。
+    - q: 我購買了 10 GB 的方案，在埃及玩兩週，流量足夠使用嗎？每天的用量限制為何？
+      a: 10 GB 的方案對於一般旅客（每天使用社交媒體、地圖導航、偶爾看影片）來說，在埃及兩週的行程通常足夠。但若您每天觀看 1 小時高畫質影片，可能在第
+        8-10 天就用完。請注意，電信商設有公平使用政策，若單日流量超過 2 GB，速度可能降至 256 kbps 左右。建議在飯店或餐廳使用免費 Wi-Fi
+        觀看影片，以保留行動數據。每天約 700 MB 的配額（若均勻使用）足以應付訊息和導航。
+    - q: 在亞歷山大的濱海區（例如聖斯特凡諾海灘），Orange 網路上傳照片到 Instagram 的速度如何？
+      a: 亞歷山大的聖斯特凡諾海灘附近，Orange 網路的上傳速度約在 15-25 Mbps，上傳一張 5 MB 的照片只需 2-3 秒，發布限時動態也很順暢。不過，在週末假日的午後，大量遊客湧入時，速度可能下降至
+        8-12 Mbps，但仍可正常使用。附近咖啡廳和餐廳的網路較不穩定，建議使用行動網路。若您需要上傳大量高解析度照片，建議在早上或深夜時段進行，避開使用尖峰。
+    - q: 從吉薩金字塔區到開羅市區，Vodafone 網路的連線穩定性如何？會經過訊號死角嗎？
+      a: 從吉薩金字塔區沿著 Al-Haram 街前往開羅市區（例如多基區），Vodafone 的網路連線大致穩定，但在經過 Al-Mariouteya 天橋下方的隧道時，可能會短暫中斷
+        10-20 秒。整體而言，行車過程中看地圖導航沒有問題，但建議先載入路線。在金字塔附近人潮密集時，網路速度可能降低，但不會完全斷線。若使用視訊通話，建議在抵達市區後再進行，以獲得較佳體驗。
+    - q: 在沙姆沙伊赫的納馬灣，WE 網路玩線上遊戲（例如《傳說對決》）的延遲夠低嗎？
+      a: 在沙姆沙伊赫的納馬灣，WE 網路的平均 ping 值約在 60-80 ms，對於《傳說對決》這類遊戲來說勉強可以接受，但可能偶爾會有 100 ms
+        以上的延遲。實際測試中，遊戲操作偶爾會有 0.5 秒的延遲，尤其是在晚上尖峰時段。建議連接到 5G 訊號（若設備支援），可降低延遲至 40-50 ms。由於當地以度假遊客為主，網路資源可能被共享，因此忠告玩家避免在晚上
+        9 點到 11 點進行高強度對戰。
+    - q: 在亞斯文的高霸陵區，Orange 網路可以順暢使用 WhatsApp 語音通話嗎？
+      a: 亞斯文的高霸陵區（如貴族墓）附近，Orange 的 4G 訊號強度中等，下載速度約 10-20 Mbps，可以進行 WhatsApp 語音通話，但有時會有
+        1-2 秒的雜音。建議在清晨或傍晚遊客較少時通話，品質最佳。若您移動至尼羅河畔的市集區，訊號會更好，通話幾乎無干擾。整體而言，語音通話可用，但視訊通話可能會有延遲。建議使用有線耳機以減少回音。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 埃及 機場：如何使用 埃及 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Egypt eSIM before your flight. Once you land at Cairo International
-        Airport, Hurghada International Airport, Luxor International Airport, simply
-        turn off Airplane Mode and enable your eSIM line. It will connect to the local
-        4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Egypt eSIM activated upon landing, you can immediately open Uber,
-        Careem, Swvl to book a ride or use WhatsApp to message your pre-booked driver
-        without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Egypt eSIM data allows you to open Google Maps right at the
-        baggage claim in Cairo International Airport, Hurghada International Airport,
-        Luxor International Airport to check real-time train schedules, bus routes,
-        or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Egypt eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Egypt eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Egypt eSIM cellular data to let your family know you've arrived safely.
+    - q: 在開羅國際機場（CAI）入境後，哪裡可以很快連上 eSIM 網路？
+      a: 開羅國際機場的第一航廈和第二航廈的入境大廳都有穩定的訊號，通常在領取行李的區域就已連上 Orange 或 Vodafone 的 4G 網路。建議您在抵達後先開啟手機的行動數據，並確保
+        eSIM 設定正確。若無法自動連接，可手動選擇網絡，輸入 APN 設定（通常為“internet”或“web”）。機場內有免費 Wi-Fi 供備用，但速度較慢。整體連接過程通常在
+        5 分鐘內可完成。
+    - q: 從赫爾格達國際機場（HRG）出發前，我需要下載離線地圖嗎？行動網路覆蓋如何？
+      a: 赫爾格達國際機場周邊的行動網路訊號良好，出發前無需特別下載離線地圖，但建議您先在機場使用機場 Wi-Fi 載入目的地路線。機場內的 Orange
+        和 Vodafone 訊號皆穩定（約 30-40 Mbps），可以用於導航。然而，若前往沙漠或偏遠度假村，網路可能變弱，所以離線地圖作為備用仍是好習慣。機場本身有免費
+        Wi-Fi，但需透過簡訊認證，對國際旅客較不便。
+    - q: 在亞歷山卓國際機場（ALY）如何啟用 eSIM？需要實體 SIM 卡嗎？
+      a: 亞歷山卓國際機場較小，航廈內有良好的 4G 訊號，啟用 eSIM 就像在其他機場一樣簡單。您只需在抵達前安裝好 eSIM 設定檔，抵達後開啟數據漫遊即可。無需實體
+        SIM 卡，因為我們的 eSIM 完全虛擬化。如果遇到無法啟用，請檢查手機是否解鎖，以及是否已正確安裝描述檔。機場地下一樓的電信櫃檯可協助，但建議自行操作。
+    - q: 從開羅機場到市區的 Uber 車上，網路是否順暢？可以看影片嗎？
+      a: 從開羅機場沿著 Salaam 街到市區的車程約 30-60 分鐘，一路上 Vodafone 的 4G 網路大多順暢，觀看 1080p 影片沒有問題。但接近
+        Moqqattam 山區時，訊號可能會減弱，建議先緩衝影片。Uber 司機通常會使用導航，但不會影響您的網路速度。若遇到塞車（尖峰時段），網路擁擠可能導致速度暫時下降，但仍可傳送訊息。整體而言，足夠打發車程時間。
+    - q: 在機場購買當地 SIM 卡需要提供護照嗎？ eSIM 是否更方便？
+      a: 在埃及機場購買當地 SIM 卡（如 Orange 或 Vodafone）時，必須出示護照並接受生物特徵掃描，有時需等待 30 分鐘才能啟用。相比之下，我們的
+        eSIM 完全線上購買，無需提供個人證件，抵達前即可安裝，省去排隊和註冊麻煩。eSIM 價格與當地預付卡相當，但彈性更高，且無需擔心遺失實體卡。強烈建議優先使用
+        eSIM。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 埃及 eSIM 用於 埃及 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Egypt eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Egypt, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Careem, Swvl use VoIP (internet calling) and in-app messaging.
-        Since you have active Egypt eSIM data, drivers can call or message you directly
-        through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Egypt eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Egypt eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Egypt.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Egypt eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Egypt eSIM's data network while on the
-        train or in the car.
+    - q: 在開羅搭乘地鐵時，隧道內有網路訊號嗎？可以使用 Google Maps 查看出口嗎？
+      a: 開羅地鐵的隧道內（如第一線的 Sadat 到 Shohadaa 區段）通常有 Orange 的 4G 訊號，但速度較慢，約 5-10 Mbps，勉強可載入簡單地圖。然而，Google
+        Maps 的室內定位在深層隧道中可能不準確，建議在地面站時就確認出口資訊。在較新的地鐵站（如第三線的附近）訊號較好。整體而言，出隧道後網路恢復正常。
+    - q: 使用 Uber 從吉薩前往開羅市區，網路是否會因車流而變慢？
+      a: Uber 司機通常使用自己的手機網路，不會影響您的連線。但在尖峰時段（早上 8-10 點、下午 5-8 點），吉薩到開羅的車流量大，同一區域的用戶過多可能導致基地台擁塞，您的網路速度可能從
+        40 Mbps 降至 5-10 Mbps。這種情況下，觀看影片可能出現緩衝，但導航和訊息仍正常。建議避開尖峰，或使用較少人使用的 WE 網路。
+    - q: 在盧克索搭乘馬車或計程車時，行動網路支付（如 Uber 內付款）可靠嗎？
+      a: 盧克索的計程車和馬車通常只收現金，Uber 在當地也不普遍，因此行動網路支付主要用於搭車叫車 App。使用 Careem 或 Uber 時，網路連線穩定，付款流程順暢。但在市集或神廟周圍，人潮多時可能延遲
+        2-3 秒，但交易仍會成功。建議備用現金，因為部分司機可能拒絕電子支付。網路覆蓋在東岸較好，西岸稍弱。
+    - q: 在亞斯文搭乘尼羅河帆船時，船上有網路訊號嗎？可以發 IG 限時動態嗎？
+      a: 亞斯文尼羅河上的傳統帆船（Felucca）航行時，靠近兩岸地區仍有 Vodafone 的 4G 訊號，約 10-20 Mbps，可以發送 IG 限時動態。但進入河中央時，訊號會減弱至
+        3G 甚至無訊號，因此建議在上船前先上傳內容。部分船夫提供 Wi-Fi 路由器（付費），但速度較差。整體而言，日落巡航時段可能因遊客較多而網路擁擠，建議使用文字傳送。
+    - q: 從赫爾格達搭長途巴士前往盧克索，車上網路是否連續？適合看離線地圖嗎？
+      a: 赫爾格達到盧克索的巴士車程約 4-5 小時，大部分路段經過沙漠，WE 和 Orange 的網路覆蓋不連續，常出現 10-20 分鐘無訊號的區域。在這種情況下，離線地圖是必要的。巴士上通常沒有
+        Wi-Fi，因此建議預先下載整條路線的 Google 離線地圖。中途休息站（如 Qena 附近）有微弱訊號，可短暫上網。整體而言，這趟旅程不適合串流媒體。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 埃及 的飯店使用 埃及 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Egypt eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Egypt eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Mena House Hotel, Four Seasons Resort Sharm El
-        Sheikh, Marriott Mena House Cairo or a local guesthouse, you can input the
-        address into Google Maps and get turn-by-turn walking or transit directions
-        using your Egypt eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Egypt eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Egypt eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Talabat, Otlob, Elmenus and use your
-        Egypt eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Egypt eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 開羅的 Mena House Hotel 房間內，行動網路速度如何？比飯店 Wi-Fi 快嗎？
+      a: Mena House Hotel 位於吉薩金字塔旁，Orange 的 4G 訊號在房間內約 20-30 Mbps，通常比飯店提供的免費 Wi-Fi（約
+        5-10 Mbps）快。但靠近金字塔側的房間，因建築結構影響，訊號可能降至 10 Mbps 左右。飯店 Wi-Fi 在尖峰時段（晚上）常不穩定，因此建議使用
+        eSIM 行動網路。大廳和餐廳的 Wi-Fi 較好，但房間內仍以行動網路為佳。
+    - q: 在赫爾格達的 Hilton Hurghada Resort，泳池區的網路訊號強嗎？
+      a: Hilton Hurghada Resort 的泳池區，Vodafone 的 4G 訊號強度約 25-40 Mbps，足以播放音樂和社交媒體。但靠近海灘的躺椅區，因距離基地台較遠，速度可能降至
+        10-15 Mbps。飯店提供付費 Wi-Fi（約每天 10 美元），但行動網路免費且更快。建議躺在泳池邊時使用行動網路，避免與其他遊客共享 Wi-Fi
+        頻寬。傍晚時段速度仍穩定。
+    - q: 入住盧克索的 Sofitel Winter Palace Hotel，室內訊號如何？可以開視訊會議嗎？
+      a: Sofitel Winter Palace Hotel 是歷史建築，牆壁較厚，Orange 訊號在房間內約 15-25 Mbps，足以應付視訊會議（720p
+        沒問題）。但若有重要會議，建議選擇靠近窗戶的位置，並使用耳機以減少回音。飯店商務中心的 Wi-Fi 較快，但需預約。花園區域的訊號更好，約 30 Mbps。整體而言，視訊通話品質中等，偶有小延遲。
+    - q: 亞斯文的老瀑布飯店（Old Cataract Hotel）戶外露台的行動網路速度快嗎？
+      a: 老瀑布飯店的戶外露台面向尼羅河，Vodafone 的 4G 網路速度約 20-35 Mbps，適合瀏覽網頁和發送照片。但遇到許多遊客同時使用時（如下午茶時段），速度可能降至
+        10-15 Mbps。飯店室內餐廳的訊號較弱，露台區是網路最佳地點。建議使用 eSIM 而非飯店 Wi-Fi（需付費且限速）。落日時分享上傳限時動態沒有問題。
+    - q: 在亞歷山大的 Four Seasons Hotel Alexandria，海景房的網路穩定嗎？
+      a: Four Seasons Hotel Alexandria 的海景房訊號良好，Orange 的下載速度約 30-50 Mbps，穩定支援串流和視訊。飯店
+        Wi-Fi 對住客免費但需登入，速度約 20 Mbps，所以行動網路仍佔優勢。然而，靠近電梯的房間可能因建築結構干擾而訊號下降。整體而言，無論是工作或娛樂，行動網路都非常可靠。
+    - q: 赫爾格達的 Desert Rose Resort 全包式飯店，園區內網路覆蓋範圍如何？
+      a: Desert Rose Resort 佔地廣大，在餐廳和大廳區域，WE 的 4G 訊號約 15-25 Mbps，但在房間深處可能降至 5-10 Mbps。花園和泳池區的覆蓋尚可，但靠近沙漠邊緣的別墅區訊號較弱。飯店提供免費
+        Wi-Fi 但限制頻寬，建議行動網路用於影音需求。若有重要事務，可移步至大廳連接到更快的 Wi-Fi。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 埃及 旅遊景點的網路：埃及 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Pyramids of Giza, Valley of the Kings, Karnak Temple
-        spontaneously, you can use your Egypt eSIM data to buy skip-the-line tickets
-        online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Egypt eSIM, you can read reviews and book local
-        tours or experiences on Tripadvisor while having coffee at a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Egypt.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Egypt eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Egypt eSIM will keep you connected throughout the
-        park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Egypt eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Egypt eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Egypt eSIM data to search 'restaurants near me' on Google Maps to
-        check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Egypt eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Egypt eSIM ensures you can scan
-        the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Egypt eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Talabat, Otlob, Elmenus, register using
-        your email or social accounts, and order food seamlessly using your Egypt
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Vodafone
-        Cash, Fawry, InstaPay require a brief internet handshake, which your Egypt
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Egypt eSIM to find hidden culinary gems in the city.
+    - q: 在吉薩金字塔群拍照後，即時上傳到社交媒體需要多久時間？網路夠快嗎？
+      a: 吉薩金字塔群普遍有良好的 4G 覆蓋，Vodafone 的上傳速度約 15-25 Mbps，一張 10 MB 的照片上傳約需 4-6 秒。但在人潮眾多的下午，速度可能略降。建議使用清晨時段，人少且網路較快。若您需要上傳多張照片，可分批進行，或使用飯店
+        Wi-Fi。整體來說，社交媒體發布非常順暢。
+    - q: 在埃及博物館（開羅）內，可以用手機看展品介紹影片嗎？
+      a: 埃及博物館內的 Orange 4G 訊號因建築物年代久遠而部分區域微弱，但主要展廳（如圖坦卡門展廳）有訊號，約 10-20 Mbps，可以播放短影片。博物館提供免費
+        Wi-Fi（需註冊），但速度較慢。建議預先下載博物館 App 或影片到手機中。館內光線較暗，螢幕觀看體驗尚可。連接 eSIM 的好處是不需擔心流量。
+    - q: 在盧克索的卡納克神廟，可以使用語音導覽 App 嗎？需要網路嗎？
+      a: 卡納克神廟的 Open Space 區域有 Orange 的 4G 訊號約 15-25 Mbps，語音導覽 App（如 Tripadvisor 或官方
+        App）可順利下載音檔。但主殿內部的多柱廳因石柱密集，訊號可能不穩，建議在戶外先載入內容。部分 App 支援離線導覽，出發前下載更保險。當地也有實體語音導覽機租借，約
+        5 美元。
+    - q: 在赫爾格達的吉夫頓島（Giftun Island）浮潛時，岸上的網路夠用嗎？
+      a: 吉夫頓島是保護區，島上無基地台，但靠近碼頭的區域可接收到赫爾格達的微弱訊號（WE 約 5-10 Mbps），臨時回覆訊息沒問題。主要建議：出發前下載好離線地圖和音樂，因為島上網路非常不穩定。當地旅行社通常不提供
+        Wi-Fi。若要發布限時動態，可在返程船上（近岸時）上傳。
+    - q: 在亞斯文的高霸陵（Nubian Museum）附近，網路上傳照片的速度如何？
+      a: 位於亞斯文的高霸陵（貴族墓）和附近的 Nubian Museum 一帶，Vodafone 的 4G 上傳速度約 12-18 Mbps，照片上傳順暢。博物館內免費
+        Wi-Fi 速度較慢，行動網路是較好選擇。若從觀景台俯瞰沙漠，訊號可能變弱，但仍可傳送文字。建議在博物館入口處上傳大量照片，那裡訊號最強。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 埃及 eSIM 在 埃及 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Egypt eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Egypt eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Egypt eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Egypt
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Egypt eSIM data allowance to check their own social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Egypt eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Egypt eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在開羅的哈利利市場（Khan El Khalili），用 Instagram Live 需要多少頻寬？網路穩定嗎？
+      a: 哈利利市場攤販密集，遊客眾多，Orange 的 4G 網路在主要通道上下載約 10-20 Mbps，上傳約 5-10 Mbps，可以進行 Instagram
+        Live，但可能偶爾卡頓。Live 時建議站在較空曠的區域（如市場中央廣場），並避免在狹窄巷弄中直播。市場的晚上時段網路最擁擠，白天較佳。若遇到斷線，可迅速切換至後置鏡頭以嘗試重連。
+    - q: 在沙姆沙伊赫的納馬灣用 WhatsApp 視訊通話，品質如何？
+      a: 納馬灣的 Vodafone 4G 網路速度約 20-30 Mbps，WhatsApp 視訊通話（720p）通常流暢，但有時會因度假區用戶眾多而出現
+        1-2 秒延遲。建議在清晨或非尖峰時段通話，品質較佳。靠近海灘的咖啡廳訊號良好，但若進入建築物深處可能減弱。總體而言，足以維持穩定的通話。
+    - q: 在赫爾格達的 Marina Boulevard 餐廳打卡上傳照片，網路夠快嗎？
+      a: Marina Boulevard 是赫爾格達的熱門濱海區，Orange 網路上傳速度約 15-25 Mbps，打卡上傳照片非常快速，約 3-5 秒。傍晚時分餐廳用餐人潮較多，速度可能降至
+        10-15 Mbps，但仍可滿足需求。部分餐廳提供免費 Wi-Fi，但行動網路更可靠。建議搭配定位服務，打卡更精準。
+    - q: 在亞歷山大圖書館（Bibliotheca Alexandrina）周圍，可以用 Facebook 直播嗎？
+      a: 亞歷山大圖書館戶外廣場及海濱長廊，Vodafone 的 4G 上傳速度約 8-15 Mbps，可以進行 Facebook 直播，但畫質可能不穩定。館內因建築屏蔽，訊號較弱，直播建議在戶外進行。直播時，避免在遊客最多的入口處，選擇東側較安靜的區域，網路表現更佳。若需要高畫質直播，建議使用有線網路或預先錄製。
+    - q: 在盧克索的冬季凌晨搭熱氣球時，可以用手機即時發文嗎？
+      a: 盧克索熱氣球通常在凌晨 5-6 點升空，此時網路負載較低，Orange 的 4G 訊號在熱氣球上（約 300 公尺高）依然穩定，下載約 20-30
+        Mbps，發文沒有問題。但由於氣球移動，地面基地台可能切換，導致短暫中斷 10-20 秒，建議待文字貼文發出後再上傳照片。熱氣球籃內空間有限，使用手機注意安全。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 埃及 使用 埃及 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Egypt, you can dial local emergency numbers like 122 (police), 123 (ambulance),
-        180 (fire) directly from your phone's dialer regardless of your active SIM,
-        as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Egypt eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Egypt eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Egypt eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Egypt eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Egypt eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Egypt eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Egypt eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Egypt eSIM is significantly
-        faster and much more secure against cyber threats than using open public Wi-Fi
-        networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Egypt eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Egypt eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Egypt eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Egypt eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在埃及撥打緊急電話（如 122 警察）需要先加國際碼嗎？
+      a: 在埃及境內撥打緊急電話 122（警察）、123（救護車）、180（消防）時，無需加任何國際碼，直接撥打即可。即使手機沒有 SIM 卡，也應該能連接到緊急服務。建議在手機中存儲這些號碼，並學習簡單的阿拉伯語單詞（如“Musa'ada”意為幫助）。eSIM
+        用戶同樣可直接撥打。
+    - q: 若在開羅遺失錢包和手機，該怎麼尋求協助？
+      a: 首先，使用朋友的電話或公用電話撥打 122 報警，並前往最近的警察局（例如解放廣場警局）製作筆錄。同時，透過飯店櫃檯或大使館協助凍結信用卡。若手機遺失，可以用其他裝置登入您的
+        eSIM 帳戶，遠端刪除 eSIM 資料以防止濫用。推薦在出發前備份手機數據。
+    - q: 在赫爾格達海灘發生曬傷或其他醫療問題，應聯繫哪個醫療機構？
+      a: 赫爾格達的主要醫院是 El Hadaba 的 Hurghada General Hospital，也有許多私立的國際診所，如 European Hospital。輕微曬傷可到藥局購買藥膏，嚴重時可撥打
+        123 叫救護車。建議購買旅遊保險，內容須涵蓋空中醫療後送。eSIM 可用於搜尋附近醫院。
+    - q: 在埃及沙漠或偏遠地區（如黑白沙漠）遇到緊急情況，如何獲得通訊？
+      a: 黑白沙漠地區行動網路覆蓋差，建議攜帶衛星電話或租用衛星信標。部分沙漠營地提供衛星電話，但使用費昂貴。出發前務必告知飯店或旅行社您的行程，並約定回報時間。eSIM
+        在部分高地可能有微弱訊號，但不可靠。建議購買具備 SOS 功能的智慧型手錶（如 Apple Watch Ultra）作為備用。
+    - q: 在開羅遭遇小型交通事故（如 Uber 輕微擦撞），需要報警嗎？
+      a: 若事故輕微且無人受傷，通常建議雙方協商解決，因為報警耗時費力。但若涉及外國人，最好撥打 122 備案以保障自身權益。下車後先用手機拍照取證，並記錄對方車牌與證件。可使用
+        eSIM 即時翻譯 App（如 Google Translate）與對方溝通，或聯繫飯店人員協助。
+    - q: 在埃及旅遊時若有食物中毒症狀，應如何快速就醫？
+      a: 若有嚴重嘔吐或腹瀉，請立即撥打 123 救護車，並告知飯店櫃檯。開羅的較好醫院包括開羅的 Dar Al Fouad 或沙特醫療中心。建議攜帶口服脫水補充鹽和常用藥品。eSIM
+        可用於搜尋最近的藥局或醫院。抵達醫院後，出示旅遊保險卡，並保留所有收據以利索賠。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 埃及 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Egypt eSIM vs Prepaid SIM: Cost and Convenience Compared"
-  subtitle: "Egypt Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Egypt) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Egypt"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Egypt eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "At Cairo or Hurghada airports, passport and hotel address are required for registration; airport kiosks often misrepresent 12GB as 27GB or bundle social media data as general data."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport queues and avoid mislabeled plans (e.g., 12GB sold as 27GB). Activate your eSIM online within 1 minute after landing in Cairo."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Passport registration is mandatory for all prepaid SIMs in Egypt; Vodafone, Orange, and Etisalat require passport copy and hotel address at point of sale."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Vodafone/Orange which require passport copies and hotel address, Roami eSIM activates instantly with no identity documents needed."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Egyptian prepaid SIMs are locked to one network (e.g., Etisalat has coverage gaps); no free roaming outside Egypt, and VoIP (WhatsApp calls) is blocked under Telecom Law Article 72."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "Bypass Egypt's VoIP block (WhatsApp calls restricted) and network lock-in. Roami eSIM auto-connects to the strongest local network (Vodafone/Orange) and supports global roaming."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "All major operators (Vodafone, Orange, Etisalat) use 30-day billing cycles; a 7-day tourist buying Orange's EGP 200/5GB plan wastes over 75% of the plan's value."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Avoid 30-day plans that waste 75%+ value for short trips. Roami offers 7-day plans starting from $1.99/GB, matching your exact stay duration."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, most Egyptian prepaid SIMs allow tethering but may throttle after high usage; VoIP is blocked on cellular networks."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike local SIMs that may throttle tethering or block VoIP, Roami eSIM allows full-speed hotspot sharing and unrestricted use of WhatsApp, Skype, etc."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Vodafone charges a 30% tax on all top-ups (e.g., EGP 100 top-up yields only EGP 70 credit); online top-up often fails for foreign cards."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "No 30% top-up tax like Vodafone. Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal – transparent pricing with no hidden fees."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is primarily in Arabic; Orange SIMs are terminated if not recharged within one month; no live chat for prepaid users."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get instant help in English via live chat, unlike local operators with Arabic-only support and SIM termination if not recharged within 30 days."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Egypt eSIM vs SIM Card: The Complete Comparison Guide"
-    cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "No 30% Top-Up Tax on Payments"
-        desc: "Vodafone deducts 30% tax on every recharge (e.g., EGP 100 top-up gives only EGP 70). Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal with no hidden fees."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Egypt's Strict SIM Passport Requirements"
-        desc: "All Egyptian prepaid SIMs (Vodafone, Orange, Etisalat) require passport registration and hotel address. Roami eSIM activates instantly with zero KYC."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate 30-Day Sunk Cost Waste"
-        desc: "Vodafone/Orange 30-day plans (e.g., EGP 200/5GB) waste over 75% for a 7-day trip. Roami offers 7-day plans from $1.99/GB, saving money and data."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Global Roaming Without Extra Charges"
-        desc: "Local SIMs have no roaming outside Egypt. Roami eSIM works in multiple countries with transparent data rates, perfect for multi-destination trips."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

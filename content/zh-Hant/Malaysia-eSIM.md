@@ -1,102 +1,97 @@
 ---
-title: Malaysia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 馬來西亞 eSIM 方案 | 馬來西亞 eSIM | Roami
+date: '2026-05-19T09:50:06+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Malaysia eSIM
-  scenario_keywords: Kuala Lumpur sightseeing, Langkawi beach vacation, Penang food
-    trail, Cameron Highlands trekking, Borneo wildlife tour
-  operators: Maxis, Celcom, Digi
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Kuala Lumpur, Penang, Johor Bahru, Kota Kinabalu, Kuching
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 馬來西亞 eSIM
+  scenario_keywords: 城市漫步, 海灘度假, 購物天堂, 美食探索
+  operators: Maxis, CelcomDigi, U Mobile
+  competitors: Airalo, Holafly, Nomad, eSIM.net, BNESIM
+  main_cities: 吉隆坡, 檳城, 蘭卡威, 亞庇, 新山
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Malaysia eSIM Plan | Top Local Carrier Full-Speed 5G |20% OFF|Roami
-  description: Explore Malaysia with ease. Get Roami's Seamless 5G on Top Local Carrier
-    with Fair Use Data. With Best Local Network and Auto-Connect, it's perfect for
-    Business Trips.
-  keywords: Malaysia eSIM, Malaysia travel internet, best eSIM Malaysia, prepaid eSIM
-    Malaysia
-  low_price: 1.99
-  high_price: 39.9
+  title: 馬來西亞 eSIM | 流量吃到飽 | 5G網路自動切換 | Roami
+  description: 馬來西亞旅遊首選 Roami eSIM，流量吃到飽與 5G 網路自動切換。現在下單並輸入折扣碼 20%，讓您的旅程連線更順暢且超值。
+  keywords: 馬來西亞 eSIM, 馬來西亞網路覆蓋, 馬來西亞旅遊, 吉隆坡 eSIM, 檳城 eSIM, 馬來西亞行動網路, 當地運營商, eSIM
+    推薦
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 馬來西亞 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Malaysia eSIM
+- label: 馬來西亞 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Malaysia
-  title: Best eSIM for Malaysia
+  alt: 最佳 馬來西亞 eSIM
+  title: 最佳 馬來西亞 eSIM
 hero:
   flag_image: img/flags/my.svg
-  flag_alt: Malaysia Flag
-  title: Malaysia eSIM data plan
-  subtitle: 1-minute activation | No ID required | 20% discount for a limited time
+  flag_alt: 馬來西亞 國旗
+  title: 馬來西亞 eSIM - 旅行計劃
+  subtitle: 馬來西亞 eSIM | 即時交付 | 流量吃到飽 | 高速5G網路
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 馬來西亞 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 馬來西亞 eSIM
 plans_data:
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '9.99'
     oldPrice: '14.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.33'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
@@ -104,33 +99,33 @@ plans_data:
     daily: '1.00'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '4.99'
     oldPrice: '7.49'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.66'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.66'
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -138,41 +133,41 @@ plans_data:
     daily: '0.57'
     tagIcon: star
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '19.99'
     oldPrice: '29.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.86'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '5.99'
     oldPrice: '8.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.86'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.28'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '16.99'
     oldPrice: '25.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.43'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -180,49 +175,49 @@ plans_data:
     daily: '0.33'
     tagIcon: star
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '26.99'
     oldPrice: '40.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.80'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '35.99'
     oldPrice: '53.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.40'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.47'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.73'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '16.99'
     oldPrice: '25.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.13'
-  30 Days:
+  30 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -230,595 +225,367 @@ plans_data:
     daily: '0.20'
     tagIcon: star
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.27'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '65.99'
     oldPrice: '98.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.20'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '33.99'
     oldPrice: '50.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.13'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.40'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '18.99'
     oldPrice: '28.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.63'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '27.99'
     oldPrice: '41.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.93'
 discount_banner:
-  title: Special Discount!
+  title: 馬來西亞 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 馬來西亞 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Malaysia, including major
-        cities like Kuala Lumpur, Penang, Johor Bahru, and Kota Kinabalu. Our Malaysia
-        eSIM seamlessly connects to the robust networks of Maxis, Celcom, and Digi,
-        ensuring stable signals in urban centers, tourist hotspots, and along major
-        transportation routes.
+      title: 覆蓋範圍
+      desc: 在整個馬來西亞享受廣泛的網路覆蓋，包括吉隆坡、檳城、蘭卡威和亞庇等城市。我們的馬來西亞 eSIM 無縫連接到 Maxis、CelcomDigi
+        和 U Mobile 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: Maxis
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: Celcom
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Digi
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+    - name: Maxis（明訊）
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
+    - name: CelcomDigi（天地通）
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 馬來西亞 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Malaysia.
+    html: 建議抵達 馬來西亞 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 馬來西亞 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 馬來西亞 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 馬來西亞 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 馬來西亞 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 馬來西亞」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Malaysia'
-    desc: Upon arriving in Malaysia, enable your Malaysia eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 馬來西亞 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Maxis / CelcomDigi 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 馬來西亞：立即連上 5G/4G 網路
+    desc: 當您降落在 馬來西亞（例如 吉隆坡國際機場 (KUL), 檳城國際機場 (PEN), 亞庇國際機場 (BKI)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 馬來西亞。幾秒鐘內，您的設備將自動連接到 Maxis / CelcomDigi
+      提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Malaysia eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Malaysia eSIM across different
-    travel scenarios.
+  title: 馬來西亞 eSIM：完整指南和常見問題
+  desc: 使用 馬來西亞 eSIM 在 馬來西亞 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 馬來西亞 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Malaysia eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Malaysia eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Malaysia eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Malaysia
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Malaysia eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Malaysia eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Malaysia that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Malaysia eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Malaysia eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Malaysia eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Malaysia eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Malaysia,
-        such as Maxis, Celcom, Digi, to ensure premium speeds at a fraction of roaming
-        costs.
-    - q: How do you compare with well-known eSIM providers like eSIM GO, Airalo, Holafly,
-        Yesim?
-      a: While great companies like eSIM GO, Airalo, Holafly, Yesim offer reliable
-        services, we focus on providing the most cost-effective Malaysia eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在吉隆坡使用 eSIM 連接到 Maxis 網路時，雙峰塔附近的速度如何？
+      a: 在吉隆坡雙峰塔（KLCC）區域，連接到 Maxis 網路時，下載速度通常在 50-80 Mbps 之間，足以流暢觀看 4K 影片或進行視訊會議。然而，在週末或公共假期，KLCC
+        公園和陽光廣場人潮眾多，尖峰時段（下午 2-5 點）速度可能下降至 20-30 Mbps。如果您需要穩定連接，建議避開人潮或切換到 CelcomDigi
+        網路（可在 eSIM 設定中手動選擇）。Maxis 提供每日 1GB 高速流量，之後限速至 128 kbps，但足以收發訊息和導航。
+    - q: 在檳城喬治市使用 CelcomDigi 網路時，壁畫街附近的網路穩定嗎？
+      a: 在檳城喬治市的壁畫街一帶，CelcomDigi 的 4G 訊號覆蓋良好，平均下載速度約 20-40 Mbps。由於該區域為觀光熱點，遊客較多，偶爾會出現短暫的網路擁堵，但整體仍能滿足社群媒體上傳和地圖導航的需求。如果您要上傳高畫質影片，建議在清晨或傍晚時段使用。CelcomDigi
+        在馬來半島的覆蓋率極高，即使在喬治市的狹窄巷道也能保持訊號，每日 500MB 高速流量後速度降至 256 kbps。
+    - q: 在蘭卡威的珍南海灘使用 U Mobile 網路，訊號強度如何？
+      a: U Mobile 在蘭卡威珍南海灘的 4G 訊號表現良好，速度約在 15-30 Mbps，適合瀏覽網頁和觀看 YouTube HD 影片。但在海灘上距離餐廳區較遠時，訊號可能降至
+        3G，速度約 5 Mbps。建議您在沙灘上靠近主街道處使用，以獲得最佳體驗。U Mobile 提供每日 2GB 高速流量，之後限速至 64 kbps，僅能用於基本通訊。
+    - q: 馬來西亞 eSIM 是否需要實名註冊？如何在機場完成？
+      a: 根據馬來西亞通訊及多媒體委員會（MCMC）規定，所有預付費 SIM 卡（包括 eSIM）都需要進行實名註冊。購買 eSIM 後，您需要使用護照進行線上驗證，通常在
+        5 分鐘內完成。如果您在吉隆坡國際機場（KLIA）落地後購買，可以連接機場免費 WiFi 完成註冊，或於機場內的 Maxis 專櫃尋求協助。註冊後，eSIM
+        配置檔案會直接下載到手機，無需實體卡片。請確保護照資訊與填寫一致，否則可能導致啟用失敗。
+    - q: 使用 eSIM 在馬來西亞進行視訊通話（如 Zoom）會順暢嗎？
+      a: 在馬來西亞主要城市如吉隆坡、檳城和亞庇，使用 Maxis 或 CelcomDigi 網路時，視訊通話表現穩定。延遲通常在 50-100ms 之間，1080p
+        畫質下幾乎無卡頓。但在雲頂高原或金馬倫高原等山區，訊號可能較弱，建議使用 CelcomDigi（覆蓋較廣）。每日高速流量用完後，限速可能影響通話品質，因此建議優先使用高速流量。
+    - q: 馬來西亞的 eSIM 是否支援 5G？哪些地區有 5G 覆蓋？
+      a: 目前馬來西亞的 5G 網路已逐步商用，主要覆蓋吉隆坡市中心、賽城、布城、檳城喬治市部分區域以及新山部分地段。Maxis 和 CelcomDigi
+        均提供 5G 服務，但需確認您的 eSIM 方案包含 5G 存取。在吉隆坡金三角（武吉免登）地區，5G 下載速度可達 200-400 Mbps。不過，5G
+        訊號在建築物內穿透力較差，建議在戶外使用以獲得最佳體驗。
+    - q: 從新加坡經由新山進入馬來西亞，eSIM 會自動切換網路嗎？
+      a: 從新加坡跨境到馬來西亞新山時，支援的 eSIM 會自動切換到當地網路（如 Maxis 或 CelcomDigi），無需手動設定。通常在柔佛海峽附近會出現短暫的無訊號或漫遊狀態，約
+        1-2 分鐘後恢復。建議您在通關前確認手機已開啟數據漫遊。在新山市區，CelcomDigi 的 4G 訊號穩定，速度約 30-50 Mbps，適合導航至樂高樂園或
+        Johor Bahru City Square 等地。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 馬來西亞 機場：如何使用 馬來西亞 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Malaysia eSIM before your flight. Once you land at Kuala Lumpur
-        International Airport (KUL), Penang International Airport (PEN), Kota Kinabalu
-        International Airport (BKI), simply turn off Airplane Mode and enable your
-        eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Malaysia eSIM activated upon landing, you can immediately open
-        Grab, MyCar, AirAsia Ride to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Malaysia eSIM data allows you to open Google Maps right at
-        the baggage claim in Kuala Lumpur International Airport (KUL), Penang International
-        Airport (PEN), Kota Kinabalu International Airport (BKI) to check real-time
-        train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Malaysia eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Malaysia eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Malaysia eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 在吉隆坡國際機場 (KLIA) 落地後，如何快速啟用 eSIM？
+      a: '抵達吉隆坡國際機場後，首先連線機場免費 WiFi（SSID: ''KLIA Free WiFi''），然後掃描 eSIM 郵件中的 QR 碼或手動輸入啟用碼。啟用過程約需
+        2-3 分鐘，之後您的手機會自動註冊到網路。建議在入境大廳完成設定，這裡訊號最佳。如果遇到問題，可前往大廳的 Maxis 或 CelcomDigi
+        專櫃，工作人員會協助您。'
+    - q: 吉隆坡國際機場內哪些地方有免費 WiFi？網速如何？
+      a: KLIA 和 KLIA2 航廈均提供免費 WiFi，覆蓋範圍包括抵達大廳、出發大廳、美食廣場和候機室。連線時需透過手機號碼或電子郵件驗證，下載速度約
+        5-10 Mbps，足以收發訊息和瀏覽網頁，但觀看影片可能卡頓。建議僅用於緊急通訊或啟用 eSIM。
+    - q: 從檳城國際機場 (PEN) 到市區，eSIM 網路是否穩定？
+      a: 檳城機場到市區的車程約 20-30 分鐘，沿途 Maxis 和 CelcomDigi 的 4G 訊號穩定，速度約 30-50 Mbps，可順暢使用
+        Grab 叫車或 Google Maps 導航。建議在機場內就完成 eSIM 啟用，確保上車後立即有網路。
+    - q: 亞庇國際機場 (BKI) 的 eSIM 訊號強度如何？
+      a: 亞庇國際機場內 Maxis 和 CelcomDigi 的 4G 訊號強勁，下載速度約 40-60 Mbps。由於沙巴地區部分偏遠景點訊號較弱，建議在下載離線地圖後再出發。機場內也設有電信商櫃檯，但開櫃時間可能與航班時間不一致。
+    - q: 馬來西亞機場是否可以購買實體 SIM 卡作為備用？
+      a: 吉隆坡國際機場、檳城機場和亞庇機場的抵達大廳都有電信商專櫃（如 Maxis、CelcomDigi 和 U Mobile），可購買預付卡。一般 30
+        天 10GB 方案約 20-30 馬幣。如果您擔心 eSIM 啟用問題，可以同時購買實體卡備用，但多數旅客僅使用 eSIM 即可順利通訊。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 馬來西亞 eSIM 用於 馬來西亞 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Malaysia eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Malaysia, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Grab, MyCar, AirAsia Ride use VoIP (internet calling) and in-app
-        messaging. Since you have active Malaysia eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Malaysia eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Malaysia eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Malaysia.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Malaysia eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Malaysia eSIM's data network while on
-        the train or in the car.
+    - q: 在吉隆坡使用 Grab 叫車時，eSIM 網路延遲會影響叫車速度嗎？
+      a: 在吉隆坡市中心，Grab 叫車非常順暢，eSIM 網路延遲約 50ms，司機通常在 1-3 分鐘內接單。但在高峰時段（上午 8-9 點、下午 5-7
+        點）或雨天，可能需等待較久。建議在武吉免登或 KLCC 區域叫車時，使用 Maxis 網路以獲得較低延遲。
+    - q: 從吉隆坡乘坐火車到檳城（北海），沿途 eSIM 訊號如何？
+      a: 從吉隆坡中央車站（KL Sentral）搭乘 KTM 電車到北海站，車程約 4 小時。沿途經過怡保、太平等地，Maxis 和 CelcomDigi
+        的 4G 訊號覆蓋約 80% 路段，隧道內可能短暫中斷。建議預先下載離線音樂或影片。抵達北海站後，可轉搭渡輪到檳城喬治市。
+    - q: 在蘭卡威租車自駕，使用 eSIM 導航是否可靠？
+      a: 蘭卡威全島 4G 訊號良好，Maxis 和 CelcomDigi 覆蓋主要道路和景點，如珍南海灘和瓜鎮。使用 Waze 或 Google Maps
+        導航非常可靠，但前往偏遠海灘（如 Tanjung Rhu）時訊號可能減弱。建議預先下載離線地圖。
+    - q: 從吉隆坡機場到市區的機場快線（KLIA Ekspres）上，網路速度如何？
+      a: KLIA Ekspres 車程約 28 分鐘，行駛期間 Maxis 和 CelcomDigi 的 4G 訊號穩定，速度約 30-60 Mbps。您可以順暢觀看影片或進行視訊通話。列車抵達吉隆坡中央車站後，可立即轉乘其他交通工具。
+    - q: 在檳城使用公共巴士時，eSIM 能否幫助查詢巴士到站時間？
+      a: 檳城 Rapid Penang 巴士系統支援 Google Maps 即時查詢到站時間，透過 eSIM 網路可獲取準確資訊。建議在喬治市使用，有些偏遠路線更新可能延遲。CelcomDigi
+        網路在巴士上行駛時表現穩定。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 馬來西亞 的飯店使用 馬來西亞 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Malaysia eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Malaysia eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at The Ritz-Carlton, Kuala Lumpur; Four Seasons Resort
-        Langkawi; The Datai Langkawi or a local guesthouse, you can input the address
-        into Google Maps and get turn-by-turn walking or transit directions using
-        your Malaysia eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Malaysia eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Malaysia eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download GrabFood, Foodpanda, Dahmakan and use
-        your Malaysia eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Malaysia eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 在吉隆坡雙子塔附近的五星級飯店，eSIM 訊號會受建築結構影響嗎？
+      a: 吉隆坡的豪華飯店如希爾頓酒店或君悅酒店，建築物內部訊號良好，但某些高層房間或角落位置可能訊號較弱。建議使用 Maxis 或 CelcomDigi，其室內覆蓋最佳。若在電梯內，訊號可能短暫中斷。
+    - q: 檳城沙洋度假酒店（Shangri-La Rasa Sayang）提供免費 WiFi，還需要 eSIM 嗎？
+      a: 檳城香格里拉沙洋度假酒店的免費 WiFi 速度約 10-20 Mbps，足夠日常使用，但在尖峰時段（如晚上）可能變慢。如果您需要穩定連線進行視訊會議或上傳照片，eSIM
+        的 4G 網路會是更好的選擇，尤其在海灘區域。
+    - q: 在蘭卡威的度假村使用 eSIM，晚上網路擁堵嗎？
+      a: 蘭卡威的度假村如丹絨魯度假村，晚上 8-10 點是用戶高峰，eSIM 速度可能從 20 Mbps 降至 10 Mbps。建議提前下載電影或影片，或使用飯店
+        WiFi 分擔流量。
+    - q: 亞庇的飯店 eSIM 訊號在沙巴地區是否足夠？
+      a: 亞庇市區飯店如希爾頓亞庇，eSIM 訊號良好（Maxis 和 CelcomDigi），但前往神山或美人魚島時訊號會減弱。在飯店內，建議使用 WiFi
+        以節省流量。
+    - q: 精品民宿（如檳城老城區）的牆壁較厚，eSIM 訊號會受影響嗎？
+      a: 檳城喬治市的老建築多為磚牆或石牆，可能導致訊號衰減。建議將手機靠近窗戶或使用 CelcomDigi 網路（低頻段穿透力較佳）。如果房間內訊號不佳，可利用民宿提供的免費
+        WiFi。
+    - q: 在雲頂高原的飯店，eSIM 訊號穩定嗎？
+      a: 雲頂高原地區海拔較高，部分飯店（如雲頂世界）室內訊號穩定，但連接纜車或戶外停車場時可能降為 3G。建議使用 Maxis 網路，其覆蓋率最佳。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 馬來西亞 旅遊景點的網路：馬來西亞 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Petronas Twin Towers, Batu Caves, Langkawi Sky Bridge
-        spontaneously, you can use your Malaysia eSIM data to buy skip-the-line tickets
-        online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Malaysia eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Malaysia.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Malaysia eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Malaysia eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Malaysia eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Malaysia eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Malaysia eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Malaysia eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Malaysia eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Malaysia eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like GrabFood, Foodpanda, Dahmakan, register
-        using your email or social accounts, and order food seamlessly using your
-        Malaysia eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Touch
-        'n Go eWallet, GrabPay, Maybank2u require a brief internet handshake, which
-        your Malaysia eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Malaysia eSIM to find hidden culinary gems in the city.
+    - q: 在吉隆坡雙峰塔（KLCC）參觀時，可以用 eSIM 直播嗎？
+      a: 雙峰塔觀景台和 KLCC 公園區域的 Maxis 4G 速度約 50-70 Mbps，適合直播 1080p 影片。但尖峰時段（週末下午）人潮眾多，速度可能降至
+        15-25 Mbps。建議使用 CelcomDigi 網路以獲得更穩定的上傳速度。
+    - q: 在檳城喬治市的壁畫街拍照後，上傳社群需要很久嗎？
+      a: 壁畫街附近 CelcomDigi 網路的上傳速度約 10-20 Mbps，上傳一張 5MB 照片約需 2-4 秒，但多人同時上傳時可能變慢。建議在非尖峰時段（上午
+        9 點前）前往。
+    - q: 蘭卡威天空之橋觀景時，eSIM 訊號是否足夠分享即時位置？
+      a: 天空之橋位於海拔 660 公尺，Maxis 和 CelcomDigi 的 4G 訊號穩定，速度約 20-40 Mbps。您可以順暢使用 Google
+        Maps 打卡或傳送位置。
+    - q: 參觀黑風洞時，洞穴內有 eSIM 訊號嗎？
+      a: 黑風洞主洞穴內（階梯處）Maxis 訊號中等，但深入洞穴深處可能無訊號。建議在入口處提前下載導覽資訊。
+    - q: 在亞庇的丹絨亞路海灘看夕陽，eSIM 網路速度如何？
+      a: 丹絨亞路海灘的 CelcomDigi 4G 速度約 30-50 Mbps，適合直播夕陽景色。但週末人潮眾多時，速度可能下降至 15 Mbps。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 馬來西亞 eSIM 在 馬來西亞 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Malaysia eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Malaysia eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Malaysia eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Malaysia
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Malaysia eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Malaysia eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Malaysia eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在吉隆坡使用 TikTok 觀看影片，eSIM 網路是否流暢？
+      a: 在吉隆坡使用 Maxis 網路觀看 TikTok，1080p 影片幾乎無緩衝，卡頓極少。但在 LRT 地鐵行駛時可能出現短暫加載，建議提前下載內容。
+    - q: 在檳城使用 Instagram 限時動態，上傳速度夠快嗎？
+      a: 檳城喬治市的 CelcomDigi 上傳速度約 10-20 Mbps，每則限時動態（15 秒影片）約 3-5 秒完成上傳。但夜間在美食街（如新關仔角）上傳速度可能略降。
+    - q: 在蘭卡威的沙灘上使用 Facebook 直播，網路穩定嗎？
+      a: 珍南海灘的 U Mobile 4G 直播 720p 穩定，但連接碼頭渡輪時訊號波動較大。建議靠近餐廳或商店區域直播。
+    - q: 在亞庇使用 WhatsApp 視訊通話，eSIM 夠用嗎？
+      a: 亞庇市區的 Maxis 網路視訊通話順暢，延遲約 50ms。但前往海島（如沙比島）時，訊號可能不穩定，建議使用語音通話。
+    - q: 在馬六甲古城使用微信（WeChat）發送照片，速度快嗎？
+      a: 馬六甲荷蘭廣場附近 CelcomDigi 上傳速度約 15-30 Mbps，發送多張照片迅速，但在週末人潮多時可能稍有延遲。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 馬來西亞 使用 馬來西亞 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Malaysia, you can dial local emergency numbers like 999, 112, 991 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Malaysia eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Malaysia eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Malaysia eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Malaysia eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Malaysia eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Malaysia eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Malaysia eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Malaysia eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Malaysia eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Malaysia eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Malaysia eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Malaysia eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在馬來西亞遇到緊急情況，如何撥打求救電話？
+      a: 馬來西亞緊急電話報警和救護車皆為 999，消防局為 994。撥打後可通國語或英語。使用 eSIM 無需額外開通漫遊，直接撥打即可。建議記下您所在位置的地標或街道名稱。
+    - q: 在吉隆坡市中心手機遺失，如何回報並凍結 eSIM？
+      a: 立即聯繫您的 eSIM 供應商（如透過電子郵件或線上客服）凍結帳號，同時至附近警局報案並取得報案單。您也可以致電您的銀行或支付 App 凍結相關帳戶。建議事先備份
+        eSIM 二維碼。
+    - q: 在檳城需要緊急醫療協助，哪些醫院有國際門診？
+      a: 檳城國際醫院（Island Hospital）和檳城鷹閣醫院（Gleneagles Penang）提供國際門診，地址可透過 eSIM 網路查詢。撥打
+        999 後可叫救護車，或直接前往急診室。建議手機預存醫院電話。
+    - q: 在蘭卡威發生車禍，如何聯繫警方和保險？
+      a: 發生車禍後，撥打 999 報警，並在確保安全下拍攝現場照片。您的 eSIM 網路可用於聯繫租車公司和保險公司。建議保單隨身攜帶。
+    - q: 在亞庇的離島（如美人魚島）發生意外，如何求救？
+      a: 離島上 eSIM 訊號可能微弱，建議攜帶衛星電話或向導遊求助。若仍有訊號，撥打 999 並告知大約位置。碼頭通常有公共電話。
+    - q: 吉隆坡哪些區域夜間較不安全？eSIM 可用於緊急照明嗎？
+      a: 吉隆坡部分區域如印度清真寺街、茨廠街深夜人潮較少，應避免獨行。eSIM 網路可用於開啟手機手電筒或導航至安全路線。建議下載 Grab App 以備叫車。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 馬來西亞 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Malaysia eSIM vs SIM Card: The Complete Comparison Guide"
-  subtitle: "Malaysia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Malaysia) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Malaysia"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Malaysia eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Digi tourist SIM must be purchased at designated airport stores with passport; Maxis Hotlink RED requires app registration and activation."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport queues and passport checks. Roami eSIM activates within 1 minute via email, no physical store visit required."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All Malaysian prepaid SIMs require passport registration; Digi tourist SIM requires passport at airport stores; Hotlink RED requires app-based KYC."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Digi's tourist SIM (passport at airport) or Hotlink RED (app KYC), Roami eSIM requires zero personal ID upload."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Celcom XPAX roaming in Asia automatically activates a daily RM 7.99/1GB pack; U Mobile's 'unlimited' roaming has only 500MB/day high-speed data."
-      esim_title: "Global Roaming Included"
-      esim_desc: "Avoid Celcom's auto-charge RM7.99/day roaming or U Mobile's 500MB FUP. Roami eSIM offers multi-country plans with no daily caps."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Digi tourist SIM starts at 7 days RM20; Celcom and Maxis monthly plans are 30-day cycles; a 5-day trip wastes 2 days of a 7-day plan."
-      esim_title: "Flexible Daily Plans"
-      esim_desc: "Unlike Digi's 7-day RM20 tourist SIM (wasting 2 days for a 5-day trip), Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Celcom 'unlimited' plans have hotspot caps: 7-day RM12 plan only 1GB hotspot; U Mobile 'unlimited' plans strictly limit hotspot data."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Celcom's 'unlimited' plan caps hotspot at 1GB for 7 days. Roami eSIM allows full-speed tethering with no data limits."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up requires local bank or e-wallet; international credit cards may be rejected; physical vouchers at kiosks are common."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local bank accounts or physical vouchers."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is primarily in Malay and English; no 24/7 live chat for prepaid; phone support limited to business hours."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Unlike local prepaid support limited to business hours, Roami offers 24/7 live chat and email support in English."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Malaysia eSIM vs Local SIM Card: Which One Saves You More?"
-    cards:
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from Fixed Billing Cycles"
-        desc: "Digi tourist SIM starts at 7 days RM20; Celcom/Maxis monthly plans are 30-day cycles. A 5-day trip wastes 2 days of a 7-day plan. Roami eSIM offers flexible daily plans from $1.99/GB."
-      - icon: "headset"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "24/7 Customer Support in English"
-        desc: "Local prepaid support is limited to business hours and Malay/English. Roami eSIM provides 24/7 live chat and email support in multiple languages."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot Sharing"
-        desc: "Celcom's 'unlimited' 7-day RM12 plan caps hotspot at 1GB; U Mobile's GX12 limits hotspot to 1GB. Roami eSIM allows full-speed tethering with no restrictions."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Roaming Data Caps and Auto-Charges"
-        desc: "Celcom XPAX auto-activates RM7.99/day roaming with only 1GB; U Mobile's 'unlimited' roaming has 500MB/day FUP. Roami eSIM offers transparent multi-country plans with no daily limits."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

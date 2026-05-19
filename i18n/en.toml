@@ -190,4 +190,7 @@ other = "Premium Coverage"
 other = "Regional & Global Plans"
 
 [regional_subtitle]
-other = "Travel across multiple countries with a single eSIM. Perfect for multi-destination trips and digital nomads."
+other = "Travel across multiple countries with one eSIM — no SIM swap, instant activation, and save 30% compared to roaming."
+
+[faq_title2]
+other = "Frequently Asked Questions about eSIM Compatibility"

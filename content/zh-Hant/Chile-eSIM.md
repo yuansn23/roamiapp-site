@@ -1,94 +1,89 @@
 ---
-title: Chile eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 智利 eSIM 方案 | 智利 eSIM | Roami
+date: '2026-05-19T10:18:15+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Chile eSIM
-  scenario_keywords: Santiago sightseeing, Atacama desert tour, Patagonia trekking,
-    Easter Island exploration, Chilean wine tour
-  operators: Entel, Movistar, Claro
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Santiago, Valparaíso, Concepción, Antofagasta, Viña del Mar
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 智利 eSIM
+  scenario_keywords: 城市漫步，海灘，購物，美食，葡萄酒之旅
+  operators: Movistar, Entel, Claro
+  competitors: Airalo, Holafly, Nomad, Ubigi, Flexiroam
+  main_cities: 聖地牙哥, 瓦爾帕萊索, 康塞普西翁, 安托法加斯塔, 拉塞雷納
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Chile Travel eSIM | Full-Speed 5G Mobile Internet | Roami
-  description: Planning an adventure in Chile? Experience seamless true 5G digital
-    connectivity from trusted local carriers with Roami. Enjoy prepaid travel data
-    and nationwide coverage completely free of roaming fees.
-  keywords: Chile eSIM, prepaid eSIM Chile, cheap eSIM Chile, unlimited data Chile,
-    travel internet Chile
-  low_price: 1.99
-  high_price: 39.9
+  title: 智利旅遊 eSIM | 流量吃到飽 | 5G網路自動切換 | Roami
+  description: 智利旅遊首選 Roami eSIM，享受流量吃到飽與 5G 網路自動切換。立即購買並輸入折扣碼 20%，以最超值的優惠享受順暢網路。
+  keywords: 智利 eSIM, 智利上網卡, 智利行動網路, 智利旅遊, 智利機場eSIM, Movistar智利, Claro智利, Entel智利,
+    智利4G, 智利5G
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 智利 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Chile eSIM
+- label: 智利 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Chile
-  title: Best eSIM for Chile
+  alt: 最佳 智利 eSIM
+  title: 最佳 智利 eSIM
 hero:
   flag_image: img/flags/cl.svg
-  flag_alt: Chile Flag
-  title: Chile eSIM data plan
-  subtitle: 1-minute activation | Smart choice | Instant delivery
+  flag_alt: 智利 國旗
+  title: 智利 eSIM - 旅行計劃
+  subtitle: 智利 eSIM | 支援熱點分享 | 流量吃到飽 | 即時交付
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 智利 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 智利 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.71'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
@@ -96,57 +91,57 @@ plans_data:
     daily: '1.43'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.14'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '66.99'
     oldPrice: '100.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '9.57'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '24.99'
     oldPrice: '37.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.57'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '51.99'
     oldPrice: '77.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '7.43'
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '26.99'
     oldPrice: '40.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.90'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '13.99'
     oldPrice: '20.98'
     tag: ''
@@ -154,33 +149,33 @@ plans_data:
     daily: '0.47'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '19.99'
     oldPrice: '29.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.67'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '56.99'
     oldPrice: '85.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.90'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '86.99'
     oldPrice: '130.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.90'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '10.99'
     oldPrice: '16.48'
     tag: ''
@@ -188,57 +183,57 @@ plans_data:
     daily: '0.73'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '16.99'
     oldPrice: '25.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.13'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '25.99'
     oldPrice: '38.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.73'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '58.99'
     oldPrice: '88.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.93'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '82.99'
     oldPrice: '124.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '5.53'
-  3 Days:
+  3 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '30.99'
     oldPrice: '46.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '10.33'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
@@ -246,546 +241,335 @@ plans_data:
     daily: '3.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '5.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '21.99'
     oldPrice: '32.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '7.33'
 discount_banner:
-  title: Special Discount!
+  title: 智利 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 智利 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Chile, including major cities
-        like Santiago, Valparaíso, Concepción, and Antofagasta. Our Chile eSIM seamlessly
-        connects to the robust networks of Entel, Movistar, and Claro, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個 智利 享受廣泛的網路覆蓋，包括 聖地牙哥、瓦爾帕萊索、康塞普西翁、安托法加斯塔 等城市。我們的 智利 eSIM 無縫連接到 Movistar、Entel、Claro
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: Entel
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
     - name: Movistar
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Claro
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
+    - name: Entel
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 智利 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Chile.
+    html: 建議抵達 智利 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 智利 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 智利 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 智利 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 智利 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 智利」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Chile'
-    desc: Upon arriving in Chile, enable your Chile eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 智利 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Movistar / Entel 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 智利：立即連上 5G/4G 網路
+    desc: 當您降落在 智利（例如 聖地牙哥國際機場 (SCL)、瓦爾帕萊索機場 (VAP)、康塞普西翁國際機場 (CCP)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 智利。幾秒鐘內，您的設備將自動連接到 Movistar / Entel
+      提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Chile eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Chile eSIM across different travel
-    scenarios.
+  title: 智利 eSIM：完整指南和常見問題
+  desc: 使用 智利 eSIM 在 智利 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 智利 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Chile eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Chile eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Chile eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Chile and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Chile eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Chile eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Chile that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Chile eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Chile eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Chile eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Chile eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Chile,
-        such as Entel, Movistar, Claro, to ensure premium speeds at a fraction of
-        roaming costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, Numero, DENT,
-        Holafly?
-      a: While great companies like Airalo, Numero, DENT, Holafly offer reliable services,
-        we focus on providing the most cost-effective Chile eSIM, ensuring lower latency
-        and better prices with our automatic price-matching system.
+    - q: 在智利聖地牙哥市中心使用 Movistar 網路看 YouTube 4K 影片會卡嗎？
+      a: 在智利聖地牙哥市中心，例如武器廣場或 Providencia 大道一帶，使用 Movistar 網路的下載速度通常可達 30-50 Mbps，足以流暢觀看
+        4K 影片。不過在尖峰時段（19:00-22:00）靠近 Costanera Center 購物中心時，速度可能下降至 10-15 Mbps，但仍能順暢播放
+        Full HD 畫質。若遇到壅塞，可手動切換至 Entel 網路（在手機設定中選擇），其延遲更穩定。每日使用超過 5GB 後可能觸發公平使用原則，速度會降至約
+        2 Mbps，但依然足夠進行社交媒體和導航。
+    - q: 從聖地牙哥國際機場入境後，如何立即啟用 eSIM？
+      a: 抵達聖地牙哥國際機場（SCL）後，您的手機將自動連接到當地網路。首先確保手機已開啟行動數據並啟用數據漫遊。然後掃描我們提供的 QR code 安裝
+        eSIM，或手動輸入啟動碼。啟動過程僅需 2-3 分鐘，且無需連接 Wi-Fi。若遇到問題，可到機場內的 Entel 或 Movistar 櫃檯尋求協助，他們熟悉
+        eSIM 設定。
+    - q: 在智利偏遠地區，例如百內國家公園，Entel 的訊號如何？
+      a: 百內國家公園內的 Entel 訊號較弱，主要覆蓋在公園入口、遊客中心及部分健行路線起點。例如在 Laguna Amarga 入口和 Grey 旅館附近，可穩定使用
+        3G/4G 網路，但進入深山區域（如 French Valley）可能無訊號。建議事先下載離線地圖，並告知旅伴您的行程。若需通訊，公園內的旅館提供付費衛星電話。
+    - q: 在智利使用 eSIM 打電話划算嗎？主要用來上網該選哪個方案？
+      a: 智利 eSIM 主要設計為數據方案，不包含語音通話分鐘。若您主要使用網路（社交媒體、導航、視訊通話），建議選擇純數據方案。需電話聯絡時，可使用 WhatsApp、Telegram
+        等網路通話軟體，或另外購買當地預付卡補充通話費。當地運營商如 Claro 提供混合方案，但 eSIM 的數據速度更穩定。
+    - q: 在瓦爾帕萊索山上，Claro 的訊號比 Movistar 好嗎？
+      a: 根據使用者回饋，在瓦爾帕萊索的 Cerro Alegre 和 Cerro Concepción 山區，Claro 的訊號穩定度略優於 Movistar，尤其在狹窄街道和建築密集區。不過兩者在觀景台（如
+        Paseo Yugoslavo）都能提供 4G 訊號，下載速度約 20-30 Mbps。建議您進入山城後，若發現訊號不佳，可手動切換至 Claro
+        網絡。
+    - q: 智利 eSIM 的 5G 覆蓋範圍廣嗎？需要特別設定嗎？
+      a: 智利的 5G 網路主要集中在聖地牙哥市中心、Las Condes 商業區及 Vitacura 高級住宅區。在聖地牙哥地鐵站（如 Escuela Militar、Tobalaba）附近可體驗
+        5G 速度。當地運營商 Movistar 和 Entel 皆提供 5G 服務，但需手機支援且啟用 5G 頻段。購買 eSIM 後，通常會自動連接到
+        5G，否則可於手機設定中選擇「5G 優先」。郊區及山區則以 4G 為主。
+    - q: 長時間使用 eSIM 會過熱或耗電嗎？有何建議？
+      a: 在智利夏季（12 月至 2 月）戶外溫度可達 30°C，連續使用 eSIM 進行視訊通話或導航可能導致手機輕微發熱，但屬正常現象。建議避免陽光直射手機，並關閉背景應用程式。若使用熱點分享，建議連接充電器。電池續航方面，一天中度使用（導航、社交媒體、地圖）約消耗
+        60-70% 電量，攜帶行動電源更安心。
+    - q: 在智利使用 eSIM 時，如何避免超量降速？
+      a: 多數 eSIM 方案設有每日高速流量上限（例如 2GB/天），超過後速度降至 2 Mbps。為避免降速，建議在連線 Wi-Fi 時（如飯店）預先下載離線地圖和串流內容。關閉自動更新和背景雲端備份。若仍需大量數據，可選購無限流量方案，但請注意公平使用條款。在聖地牙哥大都會公園這類戶外地點，降速後仍可傳送文字訊息。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 智利 機場：如何使用 智利 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Chile eSIM before your flight. Once you land at Arturo Merino
-        Benítez International Airport (SCL), Comodoro Arturo Merino Benítez International
-        Airport, El Loa Airport (CJC), simply turn off Airplane Mode and enable your
-        eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Chile eSIM activated upon landing, you can immediately open Uber,
-        Cabify, Didi to book a ride or use WhatsApp to message your pre-booked driver
-        without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Chile eSIM data allows you to open Google Maps right at the
-        baggage claim in Arturo Merino Benítez International Airport (SCL), Comodoro
-        Arturo Merino Benítez International Airport, El Loa Airport (CJC) to check
-        real-time train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Chile eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Chile eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Chile eSIM cellular data to let your family know you've arrived safely.
+    - q: 從聖地牙哥國際機場 (SCL) 入境後，哪裡可以拿到免費 Wi-Fi 並安裝 eSIM？
+      a: 聖地牙哥機場的免費 Wi-Fi 連線名為「SCL Free Wi-Fi」，位於所有航廈的公共區域，訊號穩定但需通過簡訊驗證。您可使用手機接收驗證碼，若無
+        SIM 卡，機場內的咖啡廳和免稅店也提供 Wi-Fi。建議在出發前先下載好 eSIM 安裝說明，或使用機場大廳的公共電腦。
+    - q: 從瓦爾帕萊索機場 (VAP) 可以快速買到當地 SIM 卡嗎？
+      a: 瓦爾帕萊索機場規模較小，但行李提領區設有 Movistar 和 Entel 的櫃檯，營業時間配合航班。櫃檯人員通常提供預付卡，售價約 3,000-10,000
+        CLP（約 3-10 美元）。購買時需出示護照，且可當場開通。若想在抵達前準備，建議使用 eSIM，避免排隊等待。
+    - q: 在聖地牙哥機場轉機半天，有哪些能快速到達的景點？網路夠用嗎？
+      a: 從聖地牙哥機場搭 Uber 或計程車，約 20 分鐘可抵達市中心武器廣場，或前往聖地牙哥大都會公園（可自駕至山頂）。機場周邊的 4G/5G 訊號良好，使用
+        eSIM 可流暢導航。建議規劃 4-5 小時，並預留時間安檢。午餐可試試機場內的「Cocina de la Abuela」餐廳。
+    - q: 聖地牙哥機場有 eSIM 自動販賣機嗎？
+      a: 目前聖地牙哥機場尚未設置 eSIM 自動販賣機，但您可於線上購買後，抵達時掃描 QR code 啟用。若偏好實體卡，行李提領區的電信業者櫃檯提供
+        NFC SIM 卡。建議使用我們提供的 eSIM，可省去排隊購買 SIM 卡的時間。
+    - q: 在機場使用 eSIM 需要先註冊或認證嗎？
+      a: 本 eSIM 無需複雜註冊，購買時只需提供電子郵件即可。抵達智利後，掃描 QR code 即完成安裝。智利法規未要求外國遊客進行實名認證，因此您可立即啟用。若使用當地
+        SIM 卡，則需出示護照並填寫表單。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 智利 eSIM 用於 智利 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Chile eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Chile, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Cabify, Didi use VoIP (internet calling) and in-app messaging.
-        Since you have active Chile eSIM data, drivers can call or message you directly
-        through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Chile eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Chile eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Chile.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Chile eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Chile eSIM's data network while on the
-        train or in the car.
+    - q: 在聖地牙哥搭地鐵如何買票？eSIM 能幫我即時查詢路線嗎？
+      a: 聖地牙哥地鐵單程票約 650-730 CLP，可使用「Bip!」卡（類似悠遊卡）於自動售票機購買。eSIM 讓您隨時用 Google Maps 或
+        Moovit 查詢地鐵路線與到站時間，訊號在地鐵站內（如 Universidad de Chile 站）穩定。地鐵營運時間為 06:00-23:00，離峰時段班距較長。
+    - q: 從聖地牙哥到瓦爾帕萊索，除了巴士還有其他選擇嗎？網路如何？
+      a: 除巴士（約 1.5 小時，3,000 CLP）外，也可開車經 Ruta 68 高速公路（約 1 小時）。巴士公司如 Pullman Bus 提供免費
+        Wi-Fi，但自備 eSIM 更穩定。沿途通過聖地牙哥郊區時，Entel 訊號良好，可串流音樂。抵達瓦爾帕萊索後，可步行或搭 trolley 巴士遊覽山城。
+    - q: 在智利叫 Uber 方便嗎？eSIM 能幫助溝通嗎？
+      a: Uber 在聖地牙哥、瓦爾帕萊索等城市普及，價格約 2,000-8,000 CLP 一趟。使用 eSIM 可隨時叫車並與司機傳訊息，但智利司機多使用西班牙語，建議預先下載翻譯
+        App。付款以信用卡為主，現金亦接受。尖峰時段或雨天價格會調漲。
+    - q: 智利的長途巴士上有插座和 Wi-Fi 嗎？需要自備什麼？
+      a: 智利長途巴士（如 Tur Bus、Pullman Bus）通常配備 USB 充電座和免費 Wi-Fi，但 Wi-Fi 速度較慢（約 2-5 Mbps），僅能傳文字。自備
+        eSIM 可確保連線品質，並使用個人熱點。建議攜帶行動電源，部分老舊巴士插座可能故障。從聖地牙哥到蒙特港的車程約 12 小時，夜車較舒適。
+    - q: 在智利租車自駕，導航需要大量網路流量，eSIM 夠用嗎？
+      a: 租車自駕時，使用 Google Maps 每小時約消耗 5-10 MB 流量，因此即使每日 2GB 方案也足夠。智利主要道路（如 5 號公路）訊號良好，但阿塔卡馬沙漠或巴塔哥尼亞偏遠路段可能無訊號。建議下載離線地圖（如
+        Maps.me），並攜帶車充。租車公司如 Hertz、Europcar 提供 GPS 租借，但手機導航更即時。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 智利 的飯店使用 智利 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Chile eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Chile eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at W Santiago, Hotel Plaza San Francisco, The Ritz-Carlton
-        Santiago or a local guesthouse, you can input the address into Google Maps
-        and get turn-by-turn walking or transit directions using your Chile eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Chile eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Chile eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download PedidosYa, Uber Eats, Rappi and use
-        your Chile eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Chile eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 智利飯店的免費 Wi-Fi 速度快嗎？需要額外買 eSIM 嗎？
+      a: 聖地牙哥的高級飯店（如 W 飯店、希爾頓）提供免費 Wi-Fi，速度約 10-20 Mbps，可滿足基本瀏覽。但較平價的旅館網速可能低於 5 Mbps，且部分飯店限制串流。為確保穩定連線，建議備用
+        eSIM，尤其在郊區旅館。eSIM 還可在離開飯店後繼續使用。
+    - q: 在瓦爾帕萊索的民宿，網路訊號強嗎？
+      a: 瓦爾帕萊索山城內民宿多為老建築，牆壁較厚，可能影響手機訊號。位於走 Cerro Alegre 頂部的民宿，Movistar 訊號約 50-70 dBm，尚可視訊通話，但室內死角較多。建議選擇提供獨立
+        Wi-Fi 的民宿，或使用 eSIM 並將手機靠窗。
+    - q: 聖地牙哥萬豪飯店有提供 eSIM 相關服務嗎？
+      a: 萬豪飯店商務中心提供網路設定協助，但不直接販售 eSIM。飯店全區覆蓋免費 Wi-Fi，速度可達 50 Mbps。若使用 eSIM 遇到問題，可請櫃檯人員聯繫電信業客服。推薦飯店內的「Awa」餐廳，使用
+        eSIM 打卡分享照片相當方便。
+    - q: 在智利住飯店時，如何同時使用 eSIM 和飯店 Wi-Fi 最佳化體驗？
+      a: 建議將手機設定為「行動數據優先於 Wi-Fi」，或使用雙 SIM 卡模式。以 eSIM 為主要網路，飯店 Wi-Fi 作為備用，因為公共 Wi-Fi
+        不一定安全。若您需要大量下載，可切換至飯店 Wi-Fi 以節省 eSIM 流量。部分飯店需登入入口頁面，使用 Safari 或 Chrome 即可完成。
+    - q: 在聖地牙哥的飯店裡使用 eSIM 進行視訊會議，穩定嗎？
+      a: 在聖地牙哥 Las Condes 區的飯店（如 Marriott），eSIM 連接到 Entel 網路的延遲約 30-50 ms，足以進行 Zoom
+        或 Teams 會議。建議避開假日時段（飯店內同時使用網路的人較多）。若會議重要，可選擇有線網路接筆記型電腦，或確認飯店 Wi-Fi 品質。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 智利 旅遊景點的網路：智利 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Easter Island, Atacama Desert, Torres del Paine National
-        Park spontaneously, you can use your Chile eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Chile eSIM, you can read reviews and book local
-        tours or experiences on Tripadvisor while having coffee at a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Chile.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Chile eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Chile eSIM will keep you connected throughout the
-        park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Chile eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Chile eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Chile eSIM data to search 'restaurants near me' on Google Maps to
-        check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Chile eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Chile eSIM ensures you can scan
-        the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Chile eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like PedidosYa, Uber Eats, Rappi, register using
-        your email or social accounts, and order food seamlessly using your Chile
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Webpay,
-        Khipu, Redcompra require a brief internet handshake, which your Chile eSIM
-        handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Chile eSIM to find hidden culinary gems in the city.
+    - q: 參觀聖地牙哥大都會公園時，網路訊號如何？能用 eSIM 分享照片嗎？
+      a: 大都會公園內的纜車站、動物園及山頂廣場均有 4G 訊號，Movistar 和 Entel 下載速度約 15-30 Mbps。您可即時上傳照片至社群媒體，但纜車行進間會中斷訊號。建議在山頂觀景台（Cerro
+        San Cristóbal）停留時使用。公園免費入場，週末人潮眾多。
+    - q: 在瓦爾帕萊索的彩色山城拍照打卡，eSIM 上傳速度快嗎？
+      a: 在 Cerro Concepción 的著名階梯及壁畫區，Claro 的網路速度約 10-20 Mbps，上傳 Facebook 或 Instagram
+        照片每張約 2-3 秒。建議避開週末下午尖峰時段，人潮較少且網速較快。部分巷弄訊號死角可走到大街上恢復連線。
+    - q: 到莫雷諾冰川健行時，需要事先下載離線地圖嗎？
+      a: 莫雷諾冰川位於偏遠的 Patagonia 地區，雖然停車場及觀景台有 Entel 的 3G/4G 訊號，但健行步道內（如沿冰川邊緣）訊號微弱。強烈建議事先下載
+        Google Maps 離線地圖，或使用「Maps.me」的詳細步道圖。公園入口處可租用對講機，但 eSIM 的數據仍可在營地使用。
+    - q: 在聖地牙哥的 Costanera Center 購物中心內，網路順暢嗎？
+      a: Costanera Center 購物中心（四層樓含美食街）內，Movistar 和 Entel 的 4G 訊號覆蓋良好，下載速度約 20-40
+        Mbps。電梯和停車場區域訊號稍弱，但可正常使用。使用 eSIM 掃碼支付或查詢店家資訊無延遲。購物中心提供免費 Wi-Fi，但需透過入口頁面登入。
+    - q: 在智利阿塔卡馬沙漠的月亮谷，eSIM 能正常使用嗎？
+      a: 阿塔卡馬沙漠的月亮谷（Valle de la Luna）距離聖佩德羅阿塔卡馬約 20 分鐘車程，景區內有 Entel 的 3G 訊號，可發送文字訊息，但圖載速度僅約
+        1-2 Mbps。建議進入景區前下載好地圖，日落時分訊號可能更弱。eSIM 在鎮上連線良好，可於飯店或餐廳提前準備。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 智利 eSIM 在 智利 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Chile eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Chile eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Chile eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Chile
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Chile eSIM data allowance to check their own social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Chile eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Chile eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在智利用 TikTok 上傳影片，eSIM 的網速夠快嗎？
+      a: 使用 eSIM 連接到 Movistar 的 4G 網路，上傳 60 秒的 1080p 影片約需 30-40 秒，在聖地牙哥或維尼亞德爾馬地區訊號穩定。若需
+        4K 影片，建議連線飯店 Wi-Fi 以節省流量。TikTok 串流耗流量，每小時約 600 MB，請注意每日高速流量上限。
+    - q: 在智利用 WhatsApp 傳照片和語音，eSIM 方案夠用嗎？
+      a: WhatsApp 是智利最普及的通訊軟體，傳送照片（壓縮後）每張約 100-200 KB，語音訊息每分鐘約 200 KB。因此即使每日 1GB 方案，也能傳送大量訊息。在中央車站等交通樞紐，訊號良好。若開啟自動下載，可能消耗較多流量，建議關閉該功能。
+    - q: 在智利使用 Facebook 直播，需要多快的網路？
+      a: 在聖地牙哥市區（如 Bellavista 區），Facebook 直播 720p 需要至少 2-3 Mbps 上傳速度。使用 eSIM 的 Entel
+        網路，上傳速度約 5-10 Mbps，足以進行流暢直播。但當你移動至地鐵內或郊區時，可能會偶爾斷線。建議在固定位置（如咖啡廳）直播，並關閉其他應用程式。
+    - q: 在智利用 Instagram 限時動態，eSIM 會有縮圖延遲嗎？
+      a: 使用 Instagram 時，限時動態的縮圖載入依賴下載速度。在聖地牙哥 Providencia 區，eSIM 的下載速度約 20-40 Mbps，瀏覽限動幾乎無延遲。若在偏遠海灘（如
+        Viña del Mar），可能需等 1-2 秒載入。建議清除 Instagram 快取以維持最佳效能。
+    - q: 在智利使用 eSIM 時，能用 VPN 連接中國的社交媒體（如微信、微博）嗎？
+      a: 智利並未封鎖任何社交媒體平台，包含微信、微博，因此無需 VPN 即可正常使用。若需要翻牆回中國，eSIM 支援 WireGuard 等 VPN 協議，但可能因加密導致速度下降
+        10-20%。建議使用信譽良好的 VPN 服務，並在出發前測試連線。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 智利 使用 智利 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Chile, you can dial local emergency numbers like 131 (Ambulance), 132
-        (Fire), 133 (Police) directly from your phone's dialer regardless of your
-        active SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Chile eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Chile eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Chile eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Chile eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Chile eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Chile eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Chile eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Chile eSIM is significantly
-        faster and much more secure against cyber threats than using open public Wi-Fi
-        networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Chile eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Chile eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Chile eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Chile eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在智利遇到緊急狀況，如何用手機快速求助？
+      a: 在智利，緊急電話為：警察 133、救護車 131、消防 132。使用 eSIM 可直接撥打，無需當地 SIM 卡。若無法通話，可傳簡訊至 131（需事先註冊
+        SMS 定位服務）。建議在手機通訊錄中儲存這些號碼，並下載「SOS Emergencias Chile」App，該軟體可透過 GPS 傳送位置。
+    - q: 在聖地牙哥發生車禍時，eSIM 能幫助聯繫保險公司嗎？
+      a: 可以，eSIM 可撥打國際電話至您的保險公司或租車公司。建議事先將保險單號碼儲存在手機內。在車禍現場，保持冷靜，遵循當地警方指示（警局電話 133）。使用
+        eSIM 的網路，可即時查詢附近的修車廠（如聖地牙哥國內機場附近的「Car Service」）。
+    - q: 在智利山區迷路時，eSIM 的 GPS 效能如何？
+      a: 在智利百內國家公園等山區，GPS 定位依賴於衛星，與 eSIM 網路無關，因此即使無網路也可定位（但需預先下載離線地圖）。eSIM 的網路可幫助您發送求救訊息，若無訊號，請前往高處或使用衛星電話。建議攜帶備用電源及實體地圖。
+    - q: 在智利被搶劫時，除了報警，還需要做什麼？
+      a: 首先確保自身安全，再致電 133 報警。警方通常會要求您前往最近的警局製作筆錄，並提供備案證明。使用 eSIM 可立即連繫大使館或領事館（台灣駐智利代表處電話：+56-2-2362-9211）。建議出國前備份重要文件至雲端，並關閉手機銀行
+        App 的離線權限。
+    - q: 智利的地震警報 App 需要網路嗎？eSIM 能接收嗎？
+      a: 智利常用地震預警 App 如「Sismos Chile」和「GeoFon」，需要網路接收即時警報。eSIM 可確保您在戶外也能收到警報，但建議同時開啟手機的緊急廣播功能（無需網路）。地震發生時，請遠離玻璃窗，並尋找堅固桌子。部分飯店會透過廣播通知。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 智利 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Chile eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared"
-  subtitle: "Chile Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Chile) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Chile"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Chile eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Entel and Movistar stores refuse to sell prepaid SIMs since 2014; tourists must buy from supermarkets or kiosks. Movistar activation may take up to 24 hours for confirmation SMS."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip the hassle of finding a kiosk or waiting 24 hours for Movistar activation. Roami eSIM activates online in under 1 minute before you land in Santiago."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Virgin Mobile is the only operator offering an 'Extranjero sin Rut' option accepting passport numbers, but still requires passport submission for registration."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Virgin Mobile which requires passport submission, Roami eSIM needs no ID verification. Stay connected instantly without sharing personal documents."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "All local prepaid plans are domestic only; Claro's 7-day unlimited plan has a 10GB FUP cap then throttled to 128 Kbps; Movistar throttles to 512 Kbps for excessive use."
-      esim_title: "Global Roaming Included"
-      esim_desc: "Avoid Claro's 10GB FUP cap (128 Kbps throttle) and Movistar's 512 Kbps throttle. Roami eSIM offers transparent data with no hidden throttling, and works seamlessly across Chile and Argentina."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Entel's 30-day 20GB plan costs $8,000 CLP; a 5-day trip uses only 16.7% of the validity, wasting 83% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Entel's 30-day plan ($8,000 CLP for 20GB) where a 5-day trip wastes 83% of value, Roami offers 7-day plans starting from $1.99/GB, aligning perfectly with your trip length."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, most Chilean prepaid SIMs allow tethering but may throttle after a certain limit."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing without any throttling, unlike some local SIMs that may restrict tethering after a data limit."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, top-up can be done via credit/debit cards (Visa, Mastercard) or cash at kiosks."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local cash or Chilean RUT number for top-ups."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is typically in Spanish, with limited English assistance."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock customer support in English and Spanish via live chat or email, unlike local operators with limited Spanish-only phone support."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Chile eSIM vs SIM Card Plans: Which One Fits Your Needs?"
-    cards:
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Hidden Throttling on 'Unlimited' Plans"
-        desc: "Claro's 7-day unlimited plan ($3,500 CLP) has a <b>10GB FUP</b> cap, then throttles to <b>128 Kbps</b>. Movistar's unlimited plan throttles to <b>512 Kbps</b> for 'excessive use'. Roami eSIM offers transparent data with no throttling."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot and Tethering"
-        desc: "While local SIMs may restrict tethering or throttle after a limit, Roami eSIM allows full-speed hotspot sharing on all plans, perfect for sharing with travel companions."
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "No IMEI Registration Risk"
-        desc: "Using a local SIM for over 30 days requires complex IMEI registration with passport and photo. Roami eSIM avoids this entirely, keeping your device safe."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from Long Billing Cycles"
-        desc: "Entel's 30-day 20GB plan ($8,000 CLP) wastes <b>83%</b> of value for a 5-day trip. Roami eSIM offers 7-day plans from <b>$1.99/GB</b>, matching your exact stay."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

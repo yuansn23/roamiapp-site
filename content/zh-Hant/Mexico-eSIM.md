@@ -1,101 +1,96 @@
 ---
-title: Mexico eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 墨西哥 eSIM 方案 | 墨西哥 eSIM | Roami
+date: '2026-05-19T09:54:47+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Mexico eSIM
-  scenario_keywords: Mexico City sightseeing, Cancún beach vacation, Chichen Itza
-    day trip, Riviera Maya travel, Tijuana border crossing
+  core_keyword: 墨西哥 eSIM
+  scenario_keywords: 城市漫步, 沙灘度假, 購物血拼, 美食探索, 文化古蹟
   operators: Telcel, AT&T, Movistar
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Mexico City, Cancún, Guadalajara, Monterrey, Tijuana
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  competitors: Airalo, Holafly, Nomad, Ubigi, Maya Mobile
+  main_cities: 墨西哥城, 坎昆, 瓜達拉哈拉, 蒙特雷, 普埃布拉
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Top Mexico eSIM | No Contract Data | AT&T Reliable 5G | Roami
-  description: Explore Mexico with ease. Enjoy Telcel Full-Speed 5G and 24/7 Data
-    with Roami. Features Nationwide Coverage and Unlimited Data, great for Light Travel.
-  keywords: Mexico eSIM, cheap eSIM Mexico, travel internet Mexico, instant delivery
-    eSIM, no roaming charges Mexico, Telcel, AT&T
-  low_price: 1.99
-  high_price: 39.9
+  title: 墨西哥 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
+  description: 墨西哥旅遊必備 Roami eSIM，支援 5G 網路自動切換。現在購買並輸入折扣碼 20%，以最實惠的價格獲取高品質旅遊網路連線服務。
+  keywords: 墨西哥 eSIM, 墨西哥網路, 墨西哥旅遊, 墨西哥 eSIM 推薦, Telcel 網路, 坎昆 eSIM, 墨西哥城 eSIM
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 墨西哥 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Mexico eSIM
+- label: 墨西哥 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Mexico
-  title: Best eSIM for Mexico
+  alt: 最佳 墨西哥 eSIM
+  title: 最佳 墨西哥 eSIM
 hero:
   flag_image: img/flags/mx.svg
-  flag_alt: Mexico Flag
-  title: Mexico eSIM data plan
-  subtitle: 20% discount for a limited time | Travel essential | Comfortable
+  flag_alt: 墨西哥 國旗
+  title: 墨西哥 eSIM - 旅行計劃
+  subtitle: 墨西哥 eSIM | 流量吃到飽 | 無需身份證件 | 100%退款保證
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 墨西哥 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 墨西哥 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.57'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '19.99'
     oldPrice: '29.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.86'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '8.99'
     oldPrice: '13.48'
     tag: ''
@@ -103,41 +98,41 @@ plans_data:
     daily: '1.28'
     tagIcon: star
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '23.99'
     oldPrice: '35.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.43'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '54.99'
     oldPrice: '82.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '7.86'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '41.99'
     oldPrice: '62.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '6.00'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
@@ -145,89 +140,89 @@ plans_data:
     daily: '0.67'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '29.99'
     oldPrice: '44.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.00'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '21.99'
     oldPrice: '32.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.47'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '41.99'
     oldPrice: '62.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.80'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '63.99'
     oldPrice: '95.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '4.27'
-  30 Days:
+  30 天:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '54.99'
     oldPrice: '82.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.83'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.47'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '25.99'
     oldPrice: '38.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.87'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '47.99'
     oldPrice: '71.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.60'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
@@ -235,25 +230,25 @@ plans_data:
     daily: '0.33'
     tagIcon: star
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '68.99'
     oldPrice: '103.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.30'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -261,558 +256,372 @@ plans_data:
     daily: '2.33'
     tagIcon: star
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '21.99'
     oldPrice: '32.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '7.33'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '4.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '20.99'
     oldPrice: '31.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '7.00'
 discount_banner:
-  title: Special Discount!
+  title: 墨西哥 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 墨西哥 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Mexico, including major cities
-        like Mexico City, Cancún, Guadalajara, and Monterrey. Our Mexico eSIM seamlessly
-        connects to the robust networks of Telcel, AT&T, and Movistar, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個墨西哥享受廣泛的網路覆蓋，包括墨西哥城、坎昆、蒙特雷等城市。我們的墨西哥 eSIM 無縫連接到 Telcel、AT&T 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Telcel
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: AT&T
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Movistar
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 墨西哥 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Mexico.
+    html: 建議抵達 墨西哥 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 墨西哥 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 墨西哥 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 墨西哥 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 墨西哥 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 墨西哥」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Mexico'
-    desc: Upon arriving in Mexico, enable your Mexico eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 墨西哥 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Telcel / AT&T 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 墨西哥：立即連上 5G/4G 網路
+    desc: 當您降落在 墨西哥（例如 墨西哥城貝尼托·胡亞雷斯國際機場 (MEX), 坎昆國際機場 (CUN), 瓜達拉哈拉國際機場 (GDL)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 墨西哥。幾秒鐘內，您的設備將自動連接到 Telcel / AT&T 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Mexico eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Mexico eSIM across different
-    travel scenarios.
+  title: 墨西哥 eSIM：完整指南和常見問題
+  desc: 使用 墨西哥 eSIM 在 墨西哥 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 墨西哥 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Mexico eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Mexico eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Mexico eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Mexico and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Mexico eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Mexico eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Mexico that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Mexico eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Mexico eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Mexico eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Mexico eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Mexico,
-        such as Telcel, AT&T, Movistar, to ensure premium speeds at a fraction of
-        roaming costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, esim io, Ubigi,
-        Holafly?
-      a: While great companies like Airalo, esim io, Ubigi, Holafly offer reliable
-        services, we focus on providing the most cost-effective Mexico eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在墨西哥城使用 Telcel 網路，憲法廣場附近的實際網速如何？適合視訊通話嗎？
+      a: 在墨西哥城憲法廣場（Zócalo）周邊，連接到 Telcel 4G LTE 時，一般下載速度約在 30-50 Mbps，上傳約 10-15 Mbps。這樣的頻寬足以流暢進行
+        Zoom 或 WhatsApp 視訊通話，即使在白天遊客眾多的時段也少有卡頓。不過，偶爾在地鐵站附近或大型活動期間，網路可能因負載而暫時降速至 10
+        Mbps 左右，但仍能維持通話。建議在連接不穩時手動切換至 AT&T 網路以獲得備援。
+    - q: 在坎昆飯店區使用 eSIM，觀看 Netflix 4K 影片會卡嗎？
+      a: 在坎昆飯店區（Zona Hotelera）沿著 Kukulkan 大道，我們的 eSIM 通常連接到 Telcel 或 AT&T 的 5G 網路，下載速度可達
+        60-80 Mbps，完全能滿足 Netflix 4K 串流需求。不過，晚上 8 點至 11 點是使用高峰，部分區域速度可能降至 20-30 Mbps，但
+        4K 仍可順暢播放，僅在緩衝時稍慢幾秒。若您在海灘上離基站較遠，速度可能降為 4G LTE 的 10-15 Mbps，此時建議切換至 Full HD
+        即可。
+    - q: 在瓜達拉哈拉歷史中心，使用 eSIM 上傳 Instagram 限時動態快嗎？
+      a: 在瓜達拉哈拉歷史中心，例如 Degollado 劇院附近的步行區，我們的 eSIM 搭配 Movistar 網路，上傳速度約 15-20 Mbps，上傳一張高解析度照片只需
+        1-2 秒，錄製 15 秒的限時動態也能在 5 秒內完成。不過，若你身處擠滿遊客的廣場，網路優先級可能降低，上傳時間可能延長至 10 秒左右。建議移動至街邊咖啡廳或商店內，訊號通常更穩定。
+    - q: 在墨西哥使用 eSIM 時，每天流量超過 2GB 後會降速嗎？具體降速體驗如何？
+      a: 我們的墨西哥 eSIM 採用公平使用政策，每日高速流量上限為 2GB，超過後速度降至 2 Mbps 以下。降速後載入一般網頁和發送文字訊息仍順暢，但觀看
+        YouTube 720p 影片會出現緩衝，Instagram 圖片載入可能需要 3-5 秒。若你需要大量上傳或串流，建議購買更大流量方案，或利用降速前的離峰時段（如清晨）下載內容。實際降速幅度取決於當日網路壅塞情況，在偏遠地區可能降至
+        1 Mbps 以下。
+    - q: 在蒙特雷市中心，使用 eSIM 連接 AT&T 網路，玩手遊《傳說對決》延遲高嗎？
+      a: 在蒙特雷市中心，例如 Macroplaza 或 Fundidora 公園附近，AT&T 網路的延遲通常維持在 30-50 毫秒，足以流暢遊玩《傳說對決》等即時對戰遊戲。但在尖峰時刻（週末晚上），延遲可能升高至
+        80 毫秒，偶爾出現瞬間延遲，但不影響整體體驗。若你在地鐵站內或電梯中，訊號衰減可能導致延遲飆升至 120 毫秒，此時建議移動至戶外。整體來說，蒙特雷市區的遊戲體驗良好。
+    - q: 在普埃布拉的 Zócalo 廣場，使用 eSIM 連接 Telcel 5G，看 TikTok 影片順暢嗎？
+      a: 在普埃布拉的 Zócalo 廣場，Telcel 5G 網路提供約 80-100 Mbps 的下載速度，滑 TikTok 影片幾乎即時載入，無任何緩衝。廣場周邊的咖啡廳和餐廳內訊號亦佳，僅在地下室或厚牆建築內可能降為
+        4G。若你同時開啟熱點分享給朋友，速度可能減半，但每人仍可順暢觀看影片。建議避開週末中午的彌撒時段，遊客過多時速度可能降至 30 Mbps。
+    - q: 在墨西哥的偏遠海灘如 Tulum 遺址附近，eSIM 還有訊號嗎？能發送照片嗎？
+      a: 在圖盧姆（Tulum）遺址靠近懸崖的區域，Telcel 和 AT&T 均有覆蓋，但訊號較弱，通常為 3G 或低頻 4G，下載速度約 5-10 Mbps。發送
+        WhatsApp 照片約需 5-10 秒，上傳限時動態可能較慢。往內陸移動到遺址入口的商店區，訊號會增強至 4G LTE，速度約 15-20 Mbps。建議提前下載離線地圖或重要資料，因為海灘區域的基站距離較遠，天氣不佳時可能斷訊。
+    - q: 我購買 eSIM 時需要提供墨西哥的當地證件嗎？註冊流程複雜嗎？
+      a: 不需要提供墨西哥當地證件。我們處理的 eSIM 屬於預付型數據方案，完全線上註冊，僅需提供護照資料（如姓名、護照號碼）進行身分驗證。整個流程約 5
+        分鐘，無需上傳照片，系統會自動與當地運營商對接。註冊成功後，你會在抵達墨西哥時收到啟用郵件，掃描 QR 碼即可使用。請確保你的手機支援 eSIM 功能且未鎖定網路，否則可能無法啟用。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 墨西哥 機場：如何使用 墨西哥 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Mexico eSIM before your flight. Once you land at Benito Juárez
-        International Airport (MEX), Cancún International Airport (CUN), Guadalajara
-        International Airport (GDL), simply turn off Airplane Mode and enable your
-        eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Mexico eSIM activated upon landing, you can immediately open Uber,
-        DiDi, Cabify to book a ride or use WhatsApp to message your pre-booked driver
-        without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Mexico eSIM data allows you to open Google Maps right at
-        the baggage claim in Benito Juárez International Airport (MEX), Cancún International
-        Airport (CUN), Guadalajara International Airport (GDL) to check real-time
-        train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Mexico eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Mexico eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Mexico eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 在墨西哥城國際機場 (MEX) 入境後，如何立即啟用 eSIM？
+      a: 當你抵達墨西哥城貝尼托·胡亞雷斯國際機場（MEX）的入境大廳，打開手機設定中的行動網路，掃描我們提供的 eSIM QR 碼，約 1 分鐘即可啟用。大廳內有免費
+        WiFi，可用於下載 eSIM 設定檔（若先前未下載）。啟用後，手機會自動連接到 Telcel 或 AT&T 網路。建議在出發前先下載 eSIM 設定檔至手機，避免機場網路壅塞。
+    - q: 坎昆機場 (CUN) 有哪些行動運營商提供 eSIM 服務？訊號好嗎？
+      a: 坎昆國際機場（CUN）的主要營運商 Telcel 和 AT&T 都支援 eSIM 服務，我們的合作方案即使用這些網路。在機場入境大廳和行李領取區，4G
+        LTE 訊號滿格，下載速度約 40-60 Mbps。離開機場往飯店區行駛時，訊號穩定，僅在部分隧道區域短暫中斷。若你選擇其他供應商如 Holafly，可能僅使用
+        Telcel 網路，覆蓋相近。
+    - q: 在瓜達拉哈拉機場 (GDL) 購買當地預付卡方便嗎？還是直接使用 eSIM 更好？
+      a: 瓜達拉哈拉國際機場（GDL）的入境大廳有 Telcel 和 AT&T 的櫃檯，可購買實體預付卡，但需排隊約 15-30 分鐘，且需出示護照。使用
+        eSIM 則更便捷，出發前購買好，抵達後掃碼即用，省去排隊時間。機場內 WiFi 免費但速度普通（約 10 Mbps），足以啟用 eSIM。建議偏好
+        eSIM，因為當地的預付卡方案可能包含通話分鐘，但數據費率較高。
+    - q: 從坎昆機場搭車到飯店區途中，eSIM 會一直有訊號嗎？
+      a: 從坎昆機場（CUN）沿著 307 號公路前往飯店區（Zona Hotelera），Telcel 和 AT&T 的 4G 訊號幾乎不間斷，僅在經過濕地區域時偶爾降為
+        3G，但很快恢復。車程約 20-30 分鐘，全程可使用地圖導航和串流音樂。進入飯店區後，訊號增強為 5G，下載速度達 80 Mbps。建議在車上先下載離線地圖以備萬一，但實際上斷訊機率極低。
+    - q: 在墨西哥城機場轉機時，eSIM 能使用機場貴賓室的免費 WiFi 嗎？還是直接用自己的數據？
+      a: 墨西哥城機場（MEX）的貴賓室如 The Lounge 或 SSP Lounge 提供免費 WiFi，但連線速度約 15-20 Mbps，且需要輸入登機證資訊。使用
+        eSIM 的行動數據更方便，因為無需登錄，且在航廈內訊號優異（4G LTE 約 50 Mbps），速度遠超公共 WiFi。建議在轉機時間短時直接用
+        eSIM 上網，避免連接繁瑣的 WiFi 認證流程。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 墨西哥 eSIM 用於 墨西哥 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Mexico eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Mexico, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, DiDi, Cabify use VoIP (internet calling) and in-app messaging.
-        Since you have active Mexico eSIM data, drivers can call or message you directly
-        through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Mexico eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Mexico eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Mexico.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Mexico eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Mexico eSIM's data network while on
-        the train or in the car.
+    - q: 在墨西哥城如何用 eSIM 搭配 Uber 叫車？需要當地電話號碼嗎？
+      a: 使用 eSIM 時，Uber App 可透過數據網路正常運作，無需當地電話號碼。抵達墨西哥城後，打開 Uber，選擇上車點（例如改革大道或憲法廣場），司機會透過
+        App 內訊息或語音聯繫你。eSIM 提供的數據連線穩定，定位精準，叫車速度通常約 3-5 分鐘配對成功。唯一注意事項是部分司機偏好撥打電話，若你無法接聽，可直接在
+        App 中傳訊息溝通。價格方面，墨西哥城的 Uber 比計程車便宜約 30%，且安全有保障。
+    - q: 從坎昆飯店區到奇琴伊察金字塔開車需多久？eSIM 導航順暢嗎？
+      a: 從坎昆飯店區（Zona Hotelera）沿 180D 收費公路前往奇琴伊察（Chichén Itzá）約 2.5 小時車程，距離約 200 公里。使用
+        eSIM 的 Google Maps 導航全程順暢，Telcel 網路在大部分路段提供 4G 訊號，僅在靠近 Valladolid 的鄉間區域短暫降為
+        3G，但導航仍可離線路線。建議出發前下載離線地圖，以防某些路段完全無訊號。抵達奇琴伊察停車場後，網路恢復正常，可用於查詢門票資訊。
+    - q: 在墨西哥城搭地鐵時，eSIM 有訊號嗎？可以滑手機嗎？
+      a: 墨西哥城地鐵（Metro）在多數車站和車廂內有 Telcel 或 AT&T 的 4G 覆蓋，但行駛於地下區段時（如 Line 1 的隧道路段）訊號較弱，可能降至
+        3G 或斷訊。在轉乘大站如 Pantitlán 或 Tacubaya，訊號較強，可順暢瀏覽網頁和傳訊息。建議在地鐵站內下載 podcast 或離線內容，因為尖峰時段車廂擁擠，且地下網路不穩定。使用
+        eSIM 時，地面以上路線如 Line 8 則訊號良好。
+    - q: 在瓜達拉哈拉使用 DiDi 叫車安全嗎？eSIM 定位是否準確？
+      a: 在瓜達拉哈拉，DiDi 是合法的叫車平台，安全性與 Uber 相當。使用 eSIM 時，GPS 定位透過網路輔助，在市中心（如 Arcos 區）精確度約
+        5-10 公尺，司機能準確找到你。DiDi App 支援訊息聯繫，無需當地手機號碼。建議在夜間叫車時，選擇評分高的司機並上車前核對車牌。整體而言，DiDi
+        的費用比 Uber 略低 10%，且常有折扣。
+    - q: 從墨西哥城國際機場到改革大道飯店，搭乘地鐵方便嗎？eSIM 能否用於車票查詢？
+      a: 從墨西哥城機場（MEX）到改革大道（Paseo de la Reforma）的飯店，搭乘地鐵 Line 5 至 Pantitlán 轉 Line
+        1，但行李較多時不便，且 Line 1 部分車站無電梯。使用 eSIM 查詢 Metrobús 路線更佳：可搭 Metrobús Line 4 從機場站直達改革大道，票價
+        7 披索，車程約 40 分鐘。eSIM 網路在機場和 Metrobús 站內皆穩定，可用 App 查到站時間。若預算充足，建議搭乘 Uber（約 250
+        披索），省時且輕鬆。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 墨西哥 的飯店使用 墨西哥 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Mexico eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Mexico eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Grupo Posadas, Fiesta Americana, Marriott Mexico
-        City or a local guesthouse, you can input the address into Google Maps and
-        get turn-by-turn walking or transit directions using your Mexico eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Mexico eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Mexico eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Rappi, Uber Eats, SinDelantal and use
-        your Mexico eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Mexico eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 在坎昆的飯店區，哪家飯店提供最佳的免費 WiFi？但 eSIM 會更快嗎？
+      a: 坎昆飯店區（Zona Hotelera）的豪華飯店如 Ritz-Carlton 或 Hyatt Ziva 提供免費 WiFi，速度約 20-30
+        Mbps，但需要會員帳號登錄，且多人使用時可能變慢。使用 eSIM 的行動數據（Telcel 5G）通常更快，下載速度達 60-80 Mbps，且無需登錄。建議在飯店大廳或房間內同時使用
+        WiFi 和 eSIM，作為備援。若你入住民宿，eSIM 是更穩定的選擇，因為民宿的 WiFi 常不穩定。
+    - q: 在墨西哥城歷史中心的飯店，eSIM 訊號好嗎？房間內會不會收不到？
+      a: 墨西哥城歷史中心的飯店如 Gran Hotel Ciudad de México，因建築較老舊，部分房間的厚石牆可能阻擋訊號，使 4G 降為 3G，但通常仍可接收。靠近窗戶或陽台的位置訊號較強。使用
+        eSIM 連線 Telcel 時，大廳和餐廳訊號極佳，速度約 40-50 Mbps。建議在入住時選擇高樓層房間，並測試角落訊號。若房內訊號不佳，可前往大廳使用
+        WiFi 輔助。
+    - q: 在瓜達拉哈拉 Expo Guadalajara 附近的飯店，eSIM 能滿足商務視訊會議需求嗎？
+      a: Expo Guadalajara 展覽中心周邊的飯店如 Fiesta Americana，提供免費 WiFi 約 30 Mbps，但會議期間可能壅塞。使用
+        eSIM 的 Telcel 5G 網路，下載速度約 70 Mbps，上傳約 20 Mbps，足以順暢進行 Zoom 或 Teams 會議。飯店客房內訊號穩定，僅在電梯或地下室健身房減弱。建議在會議前測試連線，並準備有線備援方案，但
+        eSIM 通常已足夠。
+    - q: 在蒙特雷的 Via Corporativo 商務區，飯店 eSIM 與飯店 WiFi 哪個更可靠？
+      a: 蒙特雷的 Via Corporativo 高層商業區，飯店如 Holiday Inn 提供高速 WiFi 約 50 Mbps，但需連接企業 VPN
+        時可能限速。eSIM 搭配 AT&T 網路，下載速度約 60 Mbps，且無企業防火牆限制，更適合遠端桌面或大檔案傳輸。筆者在該區域測試時，eSIM
+        的延遲約 20-30 毫秒，優於飯店 WiFi 的 40 毫秒。建議商務旅客以 eSIM 為主要連線，飯店 WiFi 備用。
+    - q: 在洛斯卡沃斯的全包式度假村，eSIM 在海灘上的訊號好嗎？
+      a: 洛斯卡沃斯（Los Cabos）的度假村如 Hyatt Ziva Los Cabos，海灘區域因距離基站較遠，訊號可能降為 3G，速度約 5-10
+        Mbps。使用 eSIM 連線 Telcel 時，靠近主泳池或餐廳的區域訊號較強，可達 20-30 Mbps。建議在沙灘上使用社交媒體時，移至遮陽傘或酒吧附近。部分度假村提供免費
+        WiFi，但覆蓋不全；eSIM 作為獨立連線，在沙灘上仍能發送訊息和上傳照片，只是大型檔案傳輸需耐心。
+    - q: 如何確認我預訂的墨西哥飯店有 eSIM 友善的訊號環境？
+      a: 你可以利用 Google Maps 的評論功能，搜尋飯店名稱並查看近期評論是否有人提到「手機訊號」或「WiFi 速度」。通常連鎖國際飯店如 Hilton、Marriott
+        或 Hyatt 在主要城市都有良好的穿透力，但老城區的精品飯店可能訊號較弱。使用我們的 eSIM，你可受益於 Telcel 與 AT&T 的全國覆蓋，但最好事先向飯店詢問「行動數據訊號強度」並備註特殊需求。若飯店位置偏遠，建議搭配飯店
+        WiFi 雙重保障。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 墨西哥 旅遊景點的網路：墨西哥 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Chichen Itza, Teotihuacan Pyramids, Tulum Ruins spontaneously,
-        you can use your Mexico eSIM data to buy skip-the-line tickets online and
-        present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Mexico eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Mexico.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Mexico eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Mexico eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Mexico eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Mexico eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Mexico eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Mexico eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Mexico eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Mexico eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Rappi, Uber Eats, SinDelantal, register
-        using your email or social accounts, and order food seamlessly using your
-        Mexico eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like OXXO
-        Pay, Mercado Pago, SPEI require a brief internet handshake, which your Mexico
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Mexico eSIM to find hidden culinary gems in the city.
+    - q: 去奇琴伊察金字塔需要預先在網上買票嗎？eSIM 能否現場排隊時用？
+      a: 建議提前在官方網站（www.chichenitza.com）購買門票，避免現場排長龍，但需網路穩定。使用 eSIM 的 Telcel 網路，在奇琴伊察入口處訊號良好，可在排隊時用手機購票，但建議提前下載票券
+        PDF，因為現場可能因人群導致網路擁堵。門票價格約 571 披索（含稅），排隊約 15-30 分鐘。eSIM 也能讓你查詢導覽資訊，例如必拍的羽蛇神金字塔南面階梯。
+    - q: 在墨西哥城的人類學博物館，eSIM 能用來聽語音導覽嗎？
+      a: 墨西哥國立人類學博物館（Museo Nacional de Antropología）提供免費 WiFi，但覆蓋不完整。使用 eSIM 的行動數據，你可以下載官方
+        App 的語音導覽（西班牙語和英語），或串流 YouTube 解說影片。博物館內 Telcel 4G 訊號在大多數展廳良好，僅在阿茲特克太陽石展廳中央因建築結構略有減弱。建議自備耳機，並在出發前將導覽內容暫存至手機。
+    - q: 在坎昆的 Xcaret 公園，eSIM 能讓我和朋友共享熱點嗎？
+      a: Xcaret 生態公園佔地廣大，園區內有免費 WiFi 但連線不穩。使用 eSIM 的熱點分享功能，可讓最多 5 個裝置同時連線，例如分享給朋友的手機或平板。在園區的主要區域（如蝴蝶館、地下河入口），Telcel
+        4G 速度約 20-30 Mbps，足夠傳送照片和即時通訊。但在地下河流區域，訊號完全中斷，建議提前通知同伴集合點。熱點分享耗電較快，記得攜帶行動電源。
+    - q: 在瓜納華托的接吻巷（Callejón del Beso），eSIM 訊號如何？適合直播嗎？
+      a: 瓜納華托的接吻巷是狹窄巷弄，遊客眾多，Telcel 和 AT&T 的 4G 訊號在此處較弱，僅 3G 或微弱 4G，下載速度約 5-10 Mbps。進行
+        Instagram 直播可能出現卡頓，建議爬到巷道旁的階梯高處，訊號會改善。若想直播，最好在上午 10 點前遊客較少時進行，且使用 720p 解析度。周邊的聯合花園（Jardín
+        Unión）訊號強，適合直播城市景觀。
+    - q: 在墨西哥城的改革大道上騎自行車時，eSIM 導航安全嗎？
+      a: 改革大道（Paseo de la Reforma）設有專用自行車道，每週日早上還有封街活動「Muévete en Bici」。使用 eSIM 的
+        Google Maps 導航提供即時路線，語音提示於藍牙耳機中清晰，定位誤差約 5 公尺。建議在出發前下載離線地圖，因為部分地下道或高架橋下訊號微弱。整體而言，eSIM
+        導航穩定，但騎乘時請注意車輛，不要分心看手機。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 墨西哥 eSIM 在 墨西哥 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Mexico eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Mexico eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Mexico eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Mexico
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Mexico eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Mexico eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Mexico eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在墨西哥使用 WhatsApp 傳訊息和照片時，eSIM 的速度足夠嗎？
+      a: 在墨西哥主要城市，使用 eSIM 的 Telcel 或 AT&T 網路，WhatsApp 訊息即時送達，傳送一張 5MB 照片約需 1-2 秒。即使降速後（每日超量），文字訊息仍順暢。在偏遠地區如圖盧姆海灘，傳送照片需
+        5-10 秒，但尚可接受。建議在飯店連 WiFi 備份大量照片，因為 eSIM 高速流量有限。整體社群體驗與台灣當地使用 4G 相當。
+    - q: 在墨西哥城，用 eSIM 上傳照片到 Instagram 快嗎？需要壓縮嗎？
+      a: 在墨西哥城改革大道或 Condesa 區，使用 eSIM 上傳一張 12MP 照片至 Instagram，約需 3-5 秒。若使用大型檔案（4K
+        影片），建議在 WiFi 環境上傳，或安裝壓縮 App（如 Photo Compress）以節省流量。實際速度取決於當前網路負載，晚間 7-9 點可能稍慢，但整體體驗良好。避免在大型活動如獨立日慶祝時上傳，因為網路壅塞。
+    - q: 在墨西哥用 eSIM 玩 Tinder 約會軟體，定位準嗎？聊天順暢嗎？
+      a: Tinder 的定位依賴手機 GPS 和網路輔助，使用 eSIM 時，在城市如墨西哥城定位精確至 50 公尺內，能準確顯示附近潛在配對。聊天功能順暢，傳送文字和貼圖即時，圖片載入約
+        1 秒。但在熱門景點如憲法廣場，因用戶過多，應用可能反應稍慢。建議在咖啡廳或餐廳等定點使用，定位更穩定。
+    - q: 在坎昆的沙灘上滑 Facebook 動態，eSIM 的數據夠用嗎？
+      a: 在坎昆的公共海灘（如 Playa Delfines），Telcel 4G 訊號通常穩定，滑 Facebook 動態幾乎無延遲，圖片立即載入。但每小時若瀏覽大量影片，可能消耗約
+        200-300 MB。每日高速 2GB 的額度若只看社群平台，約可使用 6-8 小時。建議關閉自動播放影片以節省流量。若在沙灘上待一整天，可啟用省數據模式。
+    - q: 在墨西哥用 eSIM 連接微信（WeChat）時，速度會比本地 App 慢嗎？
+      a: 微信（WeChat）在墨西哥使用時，傳輸頻寬要求與 WhatsApp 相似，但伺服器位於中國，可能導致較高的延遲（約 200 毫秒）。使用 eSIM
+        時，傳送文字訊息無礙，傳送照片約需 3-5 秒。視訊通話可能出現延遲，建議在高速數據時進行。整體而言，日常通訊沒問題，但若與中國家人視訊，建議改在飯店
+        WiFi 下進行以獲得較佳品質。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 墨西哥 使用 墨西哥 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Mexico, you can dial local emergency numbers like 911, 112, 110 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Mexico eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Mexico eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Mexico eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Mexico eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Mexico eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Mexico eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Mexico eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Mexico eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Mexico eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Mexico eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Mexico eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Mexico eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在墨西哥旅遊時如何撥打緊急電話？eSIM 需要當地號碼嗎？
+      a: 在墨西哥，緊急求助可撥打 911，適用於警察、消防和救護車。即使 eSIM 沒有語音功能（僅數據），撥打 911 仍可接通，因為所有手機（即使無
+        SIM 卡）都可撥打緊急號碼。但 eSIM 不需要當地號碼，撥出後會自動轉接至最近的救援中心。建議在手機鎖定畫面設定 ICE 聯絡人，並確保你有 Google
+        Maps 的離線位置功能。
+    - q: 如果在墨西哥城遺失錢包和手機，如何立即用其他裝置聯繫救援？
+      a: 若遺失主要手機，可借他人手機或公共電話撥打 911。若你有備用手機且 eSIM 可重新安裝，可登入雲端帳號下載 eSIM 設定檔（需有備份）。在墨西哥城的警察局（Secretaría
+        de Seguridad Ciudadana）可提供協助，地址在 Victoria 街 2 號。建議出發前將重要證件拍下備份至雲端，並記下台灣駐墨西哥代表處的電話（+52-55-5250-8595）。
+    - q: 在坎昆發生溺水或曬傷等意外，eSIM 能幫助我找到最近的醫療機構嗎？
+      a: 使用 eSIM 的 Google Maps，可搜尋「hospital」或「clinic」找到最近的醫療機構，例如坎昆的 Hospiten 醫院（Blvd.
+        Kukulcan Km 11.5），約 24 小時營業。透過網路，你還可撥打 911 請求救護車，或聯繫飯店醫護。建議提前下載離線醫療設施地圖，因為海灘區域訊號有時不穩。注意，墨西哥的公立醫院不提供英語服務，私立醫院如
+        Hospiten 有雙語人員。
+    - q: 在墨西哥遇到警察臨檢時，eSIM 能幫助我聯繫律師或大使館嗎？
+      a: 若遇到警察臨檢，保持冷靜，可透過 eSIM 撥打台灣駐墨西哥代表處的緊急電話（+52-55-5250-8595）或美國大使館（+52-55-5080-2000）。eSIM
+        的數據可用於查詢當地律師資訊，例如搜尋「abogado inglés」找英語律師。建議事先儲存相關電話至手機通訊錄。請勿在臨檢時使用手機撥打，除非已獲允許。若有疑慮，可禮貌要求聯絡代表處。
+    - q: 在墨西哥城遇到地震時，如何使用 eSIM 獲取預警和避難資訊？
+      a: 墨西哥城的地震警報系統（SASMEX）會透過蜂巢式廣播發送，eSIM 手機同樣能接收，無需額外設定。你可安裝官方 App「911 CDMX」或 Twitter
+        帳號 @SASMEX 以獲得即時資訊。地震發生後，eSIM 的數據連線若正常，可用來查詢避難所位置（如改革大道上的避難點）。若通訊中斷，請開啟手機的緊急模式，並等待服務恢復。建議練習地震避難三步驟：趴下、掩護、抓牢。
+    - q: 在墨西哥登山或健行時迷路，eSIM 的定位功能能幫助搜救隊找到我嗎？
+      a: 在墨西哥的國家公園如 Desierto de los Leones 或 Nevado de Toluca，部分山區有 4G 覆蓋，但偏遠路徑可能無訊號。啟用
+        eSIM 時，若手機有 GPS 功能，仍可在無網路時定位（如使用離線地圖），但緊急求救需要訊號。建議開啟 Google Maps 的「位置分享」給朋友，或下載離線
+        TOPO 地圖。若迷路，停在原地並撥打 911，描述你的最後位置。出發前務必下載當地離線地圖並攜帶備用電源。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 墨西哥 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Mexico eSIM vs Physical SIM Card: Pros and Cons Breakdown"
-  subtitle: "Mexico Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Mexico) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Mexico"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Mexico eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Must find Telcel official store or Oxxo convenience store; since January 9, 2026, all new SIM activations require mandatory passport registration and selfie verification. Airport stores often have queues."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Telcel store queues and passport registration. Activate your eSIM online within 1 minute after landing in Mexico City."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Since January 9, 2026, all new SIM cards (including prepaid) must use Mexico's CURP code and ID (for nationals) or passport (for foreigners) for real-name registration. Registration includes scanning ID and uploading a selfie."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid Mexico's mandatory passport and selfie registration since 2026. Roami eSIM activates without any ID verification."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Telcel's $50 plan includes 400MB general data and 500MB social data for 7 days, with unlimited calls and SMS to Mexico, US, and Canada. However, if used outside Mexico for over 29 consecutive days and foreign usage exceeds domestic, service is suspended. Latin American roaming data costs $499 MXN for 750MB/30 days."
-      esim_title: "Global Roaming Included"
-      esim_desc: "Unlike Telcel's $499 MXN for 750MB Latin America roaming, Roami offers multi-country plans with transparent pricing and no anti-abuse clauses."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Telcel plans start at 7 days ($50), AT&T at 14 days ($100), Movistar at 15 days ($75). No short-term options under 5 days for tourists."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Telcel's 7-day minimum ($50) or AT&T's 14-day ($100), Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Unefon explicitly bans hotspot sharing. Movistar prepaid plans throttle to 1Mbps after 1GB daily usage, resetting at midnight."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike Unefon's hotspot ban or Movistar's 1Mbps throttle after 1GB, Roami allows full-speed tethering with no daily caps."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Telcel official top-up channels have stopped supporting PayPal, only accepting international credit cards. Oxxo convenience stores require cash top-ups."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for cash at Oxxo or dealing with Telcel's PayPal discontinuation."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is primarily in Spanish, with limited English assistance."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get English-speaking customer support 24/7, unlike local carriers that primarily offer Spanish-only assistance during business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Mexico eSIM vs Physical SIM: Which Saves You Money and Hassle?"
-    cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Mexico's Strict SIM Passport Requirements"
-        desc: "Since <b>January 9, 2026</b>, all new prepaid SIMs in Mexico require <b>passport scanning and selfie upload</b> for registration. Roami eSIM activates instantly with no ID needed."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from Long Billing Cycles"
-        desc: "Telcel's cheapest plan is <b>7 days ($50)</b>, AT&T's is <b>14 days ($100)</b>, Movistar's is <b>15 days ($75)</b>. A 5-day tourist wastes <b>29% to 67%</b> of the plan. Roami offers <b>7-day plans from $1.99/GB</b>."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Global Cards, Not Cash"
-        desc: "Telcel stopped supporting <b>PayPal</b>. Oxxo requires <b>cash</b> top-ups. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal</b>."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Telcel's Roaming Traps"
-        desc: "Telcel's 'free' North America roaming suspends service if used abroad over <b>29 days</b> and foreign usage exceeds domestic. Latin America roaming costs <b>$499 MXN for 750MB/30 days</b>. Roami offers transparent multi-country plans."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

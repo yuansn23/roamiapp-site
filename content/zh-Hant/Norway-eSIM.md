@@ -1,95 +1,88 @@
 ---
-title: Norway eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 挪威 eSIM 方案 | 挪威 eSIM | Roami
+date: '2026-05-19T09:58:08+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Norway eSIM
-  scenario_keywords: Oslo sightseeing, Bergen fjord cruise, Northern Lights hunting,
-    Tromsø winter adventure, Lofoten island hopping
+  core_keyword: 挪威 eSIM
+  scenario_keywords: 城市漫步, 峽灣遊船, 極光觀賞, 滑雪, 鮭魚美食
   operators: Telenor, Telia, Ice
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Oslo, Bergen, Trondheim, Stavanger, Tromsø
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  competitors: Airalo, Holafly, Nomad, Ubigi, Flexiroam
+  main_cities: 奧斯陸, 卑爾根, 特羅姆瑟, 斯塔萬格, 特隆赫姆
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Norway eSIM | 5G High-Speed Data on Local Networks |Roami
-  description: Traveling to Norway? Roami offers high-speed 5G data on Norway’s top
-    local carriers. Enjoy a stable connection with no physical SIM—perfect for exploring
-    the fjords and Northern Lights.
-  keywords: Norway eSIM, Norway travel eSIM, instant eSIM Norway, no roaming charges
-    Norway, eSIM with QR code activation, Norway mobile data, Telenor eSIM, Telia
-    eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: 挪威旅遊 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
+  description: 挪威旅遊必備 Roami eSIM，支援 5G 網路自動切換。立即選購並輸入折扣碼 20%，以最超值的優惠獲取高品質旅遊連線服務。
+  keywords: 挪威 eSIM, 挪威上網卡, 挪威旅遊, 奧斯陸, 卑爾根, 特羅姆瑟, 挪威網路覆蓋
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 挪威 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Norway eSIM
+- label: 挪威 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Norway
-  title: Best eSIM for Norway
+  alt: 最佳 挪威 eSIM
+  title: 最佳 挪威 eSIM
 hero:
   flag_image: img/flags/no.svg
-  flag_alt: Norway Flag
-  title: Norway eSIM data plan
-  subtitle: Bestseller | Prioritized 5G access | Automatic network selection
+  flag_alt: 挪威 國旗
+  title: 挪威 eSIM - 旅行計劃
+  subtitle: 挪威 eSIM | 流量吃到飽 | 支援熱點分享 | 即時交付
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 挪威 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 挪威 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -97,65 +90,65 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '20.99'
     oldPrice: '31.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.86'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.14'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '22.99'
     oldPrice: '34.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.28'
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 100GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.83'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -163,49 +156,49 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.50'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '22.99'
     oldPrice: '34.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.77'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '79.99'
     oldPrice: '119.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.67'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -213,57 +206,57 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.60'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.93'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.47'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.93'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '42.99'
     oldPrice: '64.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.87'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -271,557 +264,319 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '4.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '13.99'
     oldPrice: '20.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '4.66'
 discount_banner:
-  title: Special Discount!
+  title: 挪威 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 挪威 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Norway, including major cities
-        like Oslo, Bergen, Trondheim, and Stavanger. Our Norway eSIM seamlessly connects
-        to the robust networks of Telenor, Telia, and Ice, ensuring stable signals
-        in urban centers, tourist hotspots, and along major transportation routes.
+      title: 覆蓋範圍
+      desc: 在整個挪威享受廣泛的網路覆蓋，包括奧斯陸、卑爾根、特羅姆瑟、斯塔萬格等城市。我們的挪威eSIM無縫連接到Telenor、Telia和Ice的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Telenor
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Telia
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Ice
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 挪威 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Norway.
+    html: 建議抵達 挪威 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 挪威 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 挪威 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 挪威 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 挪威 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 挪威」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Norway'
-    desc: Upon arriving in Norway, enable your Norway eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 挪威 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Telenor / Telia 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 挪威：立即連上 5G/4G 網路
+    desc: 當您降落在 挪威（例如 奧斯陸加勒穆恩機場 (OSL), 卑爾根弗萊斯蘭機場 (BGO), 斯塔萬格機場 (SVG)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 挪威。幾秒鐘內，您的設備將自動連接到 Telenor / Telia 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Norway eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Norway eSIM across different
-    travel scenarios.
+  title: 挪威 eSIM：完整指南和常見問題
+  desc: 使用 挪威 eSIM 在 挪威 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 挪威 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Norway eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Norway eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Norway eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Norway and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Norway eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Norway eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Norway that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Norway eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Norway eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Norway eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Norway eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Norway,
-        such as Telenor, Telia, Ice, to ensure premium speeds at a fraction of roaming
-        costs.
-    - q: How do you compare with well-known eSIM providers like Ubigi, Airalo, Redtea
-        Mobile, Holafly?
-      a: While great companies like Ubigi, Airalo, Redtea Mobile, Holafly offer reliable
-        services, we focus on providing the most cost-effective Norway eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在奧斯陸市中心使用Telenor eSIM，觀看YouTube影片的體驗如何？
+      a: 在奧斯陸市中心，特別是卡爾·約翰斯門大街和皇宮附近，連接到Telenor的5G網路時，下載速度通常維持在50-80 Mbps，可以流暢觀看4K YouTube影片。然而在高峰時段（下午5點到7點），靠近中央車站和Aker
+        Brygge碼頭區域，速度可能降至15-30 Mbps，但Full HD畫質仍無問題。如果連續使用超過3GB，系統可能啟動公平使用政策，但速度仍維持在5
+        Mbps以上，足以應付社交媒體和地圖導航。建議在飯店或咖啡廳利用Wi-Fi進行大型檔案下載，以保留行動數據額度。
+    - q: 在卑爾根的挪威縮影路線沿途，Telia的訊號穩定嗎？
+      a: 沿著名的挪威縮影路線從卑爾根到弗洛姆，Telia的覆蓋在山區和隧道內相對可靠，但部分峽灣深處（如納柔依峽灣）可能出現短暫訊號中斷。在弗洛姆小鎮和米達爾車站附近，4G訊號強勁，可以上傳照片或使用地圖。建議在峽灣遊船時提前下載離線地圖，因為某些區域僅有2G或無訊號，但整體而言，Telia在主要城鎮和交通樞紐的表現令人滿意。
+    - q: 在特羅姆瑟觀看極光時，Ice的網路速度足夠直播嗎？
+      a: 在特羅姆瑟郊區（如Ersfjordbotn或Kvaløya），Ice的5G覆蓋有限，但4G訊號普遍穩定，下載速度約20-40 Mbps，足以進行720p的直播。市區如Storgata購物街或港口附近，速度可達30-50
+        Mbps，適合高畫質直播。然而偏遠極光營地可能僅有3G訊號，建議提前下載影片並關閉後台應用以節省數據。值得注意的是，使用Ice進行長時間直播可能觸發每日10GB的公平使用限制，之後速度降至1
+        Mbps，因此建議搭配當地Wi-Fi熱點。
+    - q: 在斯塔萬格爬奇蹟石時，Telenor的訊號如何？
+      a: 從斯塔萬格市中心出發到奇蹟石（Kjeragbolten）的健行路線中，Telenor的覆蓋在起點和終點區域較好，但山徑中段（尤其是森林覆蓋區）可能訊號微弱。在山頂附近，4G訊號可達10-20
+        Mbps，足以分享照片或緊急通話。建議在出發前下載離線地圖，因為部分步道是手機訊號死角。Telenor在呂瑟峽灣沿岸的城鎮如Lysebotn提供穩定訊號，但整體而言，健行時請勿過度依賴手機導航。
+    - q: 在挪威使用eSIM時，如何手動切換運營商以獲得最佳訊號？
+      a: |-
+        當您抵達挪威，eSIM將自動連接至Telenor，但您可手動切換至Telia或Ice以改善訊號。在iPhone上，前往「設定」>「行動服務」>「行動數據網路」>「網路選擇」，關閉「自動」，然後從列表中選擇運營商。在偏遠峽灣或山區，Telia通常提供較廣的5G覆蓋，而Ice在奧斯陸和卑爾根市中心表現出色。建議在抵達機場時測試各運營商的訊號強度，並記住：切換後可能需要重啟網路設定。
+    - q: 使用eSIM在挪威上網，每天的公平使用政策具體是什麼？
+      a: 我們的挪威eSIM採用公平使用政策，通常每日用量超過3-5GB後，速度會從4G/5G降為256kbps到1Mbps，具體取決於方案。例如，若您購買10GB/30天方案，前10GB高速用完後即降至128kbps。該政策是為了防止濫用，對一般傳訊息、瀏覽網頁影響不大，但觀看影片可能卡頓。建議利用飯店或咖啡廳Wi-Fi進行大流量活動，並留意：降速後無法恢復速度，直到下個週期或購買附加包。
+    - q: 在奧斯陸使用Uber時，eSIM的延遲夠低嗎？
+      a: 在奧斯陸市中心，連接到Telenor網路時，典型延遲為20-30毫秒，足以讓Uber地圖即時更新和司機定位。Grünerløkka和Majorstuen等區域延遲穩定，但在高峰時段，中央車站附近可能因網路擁塞導致延遲升至50毫秒，但呼叫車輛仍順暢。若您前往郊區如Bærum，延遲可能略增至40毫秒，但導航功能完全正常。建議在乘車前關閉其他後台下載，以確保網路優先級。
+    - q: 在挪威偏遠地區如羅弗敦群島，eSIM的網路覆蓋足夠拍攝和分享照片嗎？
+      a: 在羅弗敦群島（Lofoten），主要城鎮如雷訥和斯沃爾韋爾，Telenor提供4G訊號，速度約15-30 Mbps，可順利上傳高解析度照片。但前往Haukland海灘或Å鎮的徒步小徑時，訊號可能降至3G或微弱4G，上傳一張5MB照片需時30秒至1分鐘。建議在飯店或遊客中心先上傳，並避免在偏遠地點串流影片。整體而言，羅弗敦的網路穩定性比峽灣地區更好，但對於重度使用仍感不足。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 挪威 機場：如何使用 挪威 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Norway eSIM before your flight. Once you land at Oslo Airport
-        Gardermoen (OSL), Bergen Airport Flesland (BGO), Trondheim Airport Værnes
-        (TRD), simply turn off Airplane Mode and enable your eSIM line. It will connect
-        to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Norway eSIM activated upon landing, you can immediately open Ruter,
-        Vy, Uber to book a ride or use WhatsApp to message your pre-booked driver
-        without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Norway eSIM data allows you to open Google Maps right at
-        the baggage claim in Oslo Airport Gardermoen (OSL), Bergen Airport Flesland
-        (BGO), Trondheim Airport Værnes (TRD) to check real-time train schedules,
-        bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Norway eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Norway eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Norway eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 在奧斯陸加勒穆恩機場下機後，如何立即啟用eSIM？
+      a: 抵達奧斯陸加勒穆恩機場後，打開手機設定，進入「行動服務」並掃描eSIM安裝QR碼。通常連接到Telenor網路僅需1-2分鐘，機場內訊號強勁（4G/5G）。若遇到啟用問題，可前往機場的Telenor服務櫃檯（位於抵達大廳），工作人員會協助設定。建議在台灣就先下載eSIM設定檔並備份QR碼截圖，避免機場無網路時的尷尬。
+    - q: 從卑爾根機場到市區，eSIM能用來導航嗎？
+      a: 卑爾根弗萊斯蘭機場的4G覆蓋良好，使用Telia網路時，Google地圖導航即時且流暢。從機場搭乘輕軌（Bybanen）前往市區時，沿途訊號穩定，僅在隧道內短暫中斷。抵達布呂根區時，速度可達40-60
+        Mbps，全程導航無虞。建議預先下載卑爾根離線地圖，以防萬一隧道內失去訊號。整體來說，eSIM非常適合一落地就開始自駕或搭車的旅客。
+    - q: 在斯塔萬格機場，哪些運營商的訊號最強？
+      a: 在斯塔萬格機場，Telenor和Telia的4G訊號覆蓋完整，測速約50-70 Mbps。Ice的訊號稍弱，但仍有20-30 Mbps。機場內提供免費Wi-Fi，但需要註冊。建議優先使用Telenor，因為它在機場周邊的呂瑟峽灣地區覆蓋最佳。若您轉機時間長，可用機場Wi-Fi，但連線速度僅10
+        Mbps左右。我們eSIM自動首選Telenor，因此落地後即可獲得最佳體驗。
+    - q: 在特羅姆瑟機場，eSIM的5G覆蓋情況如何？
+      a: 特羅姆瑟機場（Langnes）擁有5G覆蓋，主要來自Telenor和Telia。在候機廳和行李轉盤區域，5G速度可達200 Mbps以上，但在停機坪附近可能降為4G。由於機場位處市區，訊號整體穩定，適合下載大型地圖或更新應用程式。建議在機場內完成所有需要高速網路的任務，因為前往市區後訊號仍佳，但極光區域可能較弱。
+    - q: 在挪威機場購買當地SIM卡，與eSIM相比哪個更划算？
+      a: 在奧斯陸機場的Telenor櫃檯，預付卡30天10GB約需300挪威克朗（約900台幣），而我們的eSIM同方案僅500台幣，且免去排隊和語言障礙。當地SIM卡仍需實名認證（護照），但eSIM掃碼即用。此外，eSIM支援熱點分享，而部分當地預付卡限制分享。因此，從價格和便利性考量，eSIM是更優選擇，尤其是短期旅遊。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 挪威 eSIM 用於 挪威 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Norway eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Norway, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Ruter, Vy, Uber use VoIP (internet calling) and in-app messaging.
-        Since you have active Norway eSIM data, drivers can call or message you directly
-        through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Norway eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Norway eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Norway.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Norway eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Norway eSIM's data network while on
-        the train or in the car.
+    - q: 在奧斯陸搭乘地鐵時，eSIM的連線會中斷嗎？
+      a: 奧斯陸地鐵（T-bane）行駛時，隧道內訊號偶有中斷，尤其是穿越市中心的地下路段。但在車站內和地上段，Telenor的4G訊號穩定。例如從中央車站到Grünerløkka的5號線，隧道內中斷約30秒，但整體體驗順暢。建議在車站預先載入音樂或離線地圖，以備不時之需。
+    - q: 在卑爾根搭乘輕軌Bybanen時，可以用eSIM觀看串流影片嗎？
+      a: 卑爾根輕軌（Bybanen）從機場到市區的沿途，連線至Telia的4G網路，速度約30-50 Mbps，足以串流1080p影片。不過在經過隧道如Lagunen
+        Storsenter附近時，可能短暫緩衝。全程約40分鐘，觀看影片整體流暢，僅零星中斷。建議選擇下載內容以確保不間斷觀看。
+    - q: 在挪威自駕前往峽灣時，eSIM能用來導航嗎？
+      a: 自駕從卑爾根到松恩峽灣（如弗洛姆），使用Google地圖導航時，Telenor的覆蓋在E16公路沿線良好，僅在隧道內遺失訊號。導航會自動緩衝路線，因此出隧道後可快速恢復。建議提前下載離線地圖，因為部分山區如Stegastein觀景台可能無訊號。整體上，eSIM適合自駕，但請勿完全依賴線上地圖。
+    - q: 從奧斯陸到卑爾根的火車上，網速如何？
+      a: 挪威國鐵（Vy）從奧斯陸到卑爾根的卑爾根線，行經哈當厄爾高原時，Telenor的4G訊號在海拔高處較弱，速度約5-15 Mbps，但可傳訊息。接近米達爾車站時，速度回升至30
+        Mbps。全程約7小時，串流影片可能不穩定，建議下載影片或使用音頻。靠近城市段則無問題。
+    - q: 在特羅姆瑟使用eSIM叫計程車，連線穩定嗎？
+      a: 在特羅姆瑟市中心叫Uber或當地計程車，連上Telia網路時，延遲約25毫秒，地圖定位精準。但當您前往郊區如Tromsøbadet或北極大教堂時，訊號強度略降，但叫車仍成功。若在偏遠飯店（如Malangen
+        Resort），可能需步行至主要道路。總體而言，市區叫車無憂，郊區則略有限制。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 挪威 的飯店使用 挪威 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Norway eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Norway eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Grand Hotel Oslo, The Thief, Hotel Union Øye or
-        a local guesthouse, you can input the address into Google Maps and get turn-by-turn
-        walking or transit directions using your Norway eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Norway eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Norway eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Wolt, Foodora, Too Good To Go and use
-        your Norway eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Norway eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 在奧斯陸的Grand Hotel，eSIM和飯店Wi-Fi哪個更快？
+      a: 奧斯陸的Grand Hotel提供免費Wi-Fi，但公共區域最高速度僅20 Mbps，而eSIM在房間內（高層）可達50-70 Mbps。飯店Wi-Fi在晚間尖峰時段會變慢，eSIM則不受影響。建議在房間使用eSIM處理重要工作，並將飯店Wi-Fi作為備用。另外，飯店Wi-Fi需每日重新登入，eSIM則始終保持連線。
+    - q: 在卑爾根的Clarion Collection Hotel Havnekontoret，手機訊號好嗎？
+      a: 該飯店位於布呂根附近，連線Telia的4G訊號在房間內約40 Mbps，但舊建築的厚牆可能使速度降至15 Mbps。飯店提供免費Wi-Fi，但需要輸入房間號，速度約30
+        Mbps。建議優先使用eSIM，因為Wi-Fi偶爾斷線需重連。此外，飯店附近有Telenor的5G基地台，若需高速可手動切換。
+    - q: 在特羅姆瑟的Scandic Ishavshotel，eSIM可以流暢視訊通話嗎？
+      a: 這家飯店位於港口，連上Ice的4G網路時，視訊通話（如Zoom）穩定，延遲約30毫秒。不過在極光旺季（9-3月），客房內訊號可能因遊客增多而略降，但仍維持10-20
+        Mbps。飯店Wi-Fi速度約25 Mbps，但eSIM更具可靠性。建議使用eSIM進行重要會議，並測試飯店Wi-Fi作為備援。
+    - q: 在挪威鄉村飯店（如鬆恩峽灣地區），eSIM訊號是否足夠？
+      a: 例如在峽灣區域的歷史飯店Hotel Union Øye，Telenor的4G訊號可能僅有1-2格，速度約5-10 Mbps，但可傳訊息和瀏覽網頁。飯店Wi-Fi通常更弱，因此eSIM成為主要網路。建議提前下載娛樂內容，因為串流可能卡頓。如果您需要穩定連線，可步行至附近小鎮，那裡的訊號會更強。
+    - q: 在挪威露營地使用eSIM，數據用量是否足夠？
+      a: 露營地如Geirangerfjord露營區，Telia訊號約10-15 Mbps，可用於社交媒體。若每日上傳照片和導航，10GB方案約夠一週。但若多人分享熱點，可能兩天就用完。建議購買30GB方案，並關閉自動更新；露營地通常無Wi-Fi，eSIM是唯一選擇。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 挪威 旅遊景點的網路：挪威 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Geirangerfjord, Northern Lights in Tromsø, Bryggen
-        Wharf in Bergen spontaneously, you can use your Norway eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Norway eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Norway.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Norway eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Norway eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Norway eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Norway eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Norway eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Norway eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Norway eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Norway eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Wolt, Foodora, Too Good To Go, register
-        using your email or social accounts, and order food seamlessly using your
-        Norway eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Vipps,
-        MobilePay, BankAxept require a brief internet handshake, which your Norway
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Norway eSIM to find hidden culinary gems in the city.
+    - q: 在奧斯陸維格蘭雕塑公園內，eSIM能直播嗎？
+      a: 公園內連線Telenor的4G訊號，速度約30-50 Mbps，直播1080p順暢。但週末遊客眾多時，可能降至15 Mbps，但仍可直播。建議避開下午2-4點的尖峰時段，並使用穩定器減少畫面晃動。園內有多個長凳區可稍作休息，直播時避開大樹濃蔭。
+    - q: 在卑爾根布呂根木屋群拍照後，上傳社群需要多久？
+      a: 布呂根區域的Telia 5G網路速度約80-100 Mbps，上傳一張10MB照片約1-2秒。但在週末下午，港區人潮湧入時，速度可能降至30 Mbps，上傳時間延長至5秒。建議使用eSIM的熱點分享給同伴，因為免費公共Wi-Fi速度更慢（約10
+        Mbps）。整體而言，即時分享無壓力。
+    - q: 在特羅姆瑟北極大教堂，可以用eSIM查詢開放時間嗎？
+      a: 教堂內訊號良好，Telenor 4G約20-30 Mbps，可快速瀏覽官網和購票。教堂地下層有免費Wi-Fi，但限時30分鐘。eSIM則無此限制，且在教堂外廣場可拍夜景上傳，速度約40
+        Mbps。建議提前下載教堂導覽App，節省數據並避免室內訊號波動。
+    - q: 在斯塔萬格的石油博物館，eSIM能使用多媒體導覽嗎？
+      a: 博物館內提供免費Wi-Fi，但多人使用時速度緩慢。eSIM連線Ice網路，在展廳內速度約25 Mbps，足以載入AR互動內容。若您使用手機下載導覽App，eSIM確保即時更新。建議將Wi-Fi作為備用，因為展廳深處可能訊號較弱，但整體無礙。
+    - q: 在奧斯陸阿肯修弗斯城堡，使用eSIM規劃路線方便嗎？
+      a: 城堡位於高地，Telia的4G訊號強勁，速度約40-60 Mbps，可用Google地圖導航至各景點。但城堡內部石牆厚，某些房間可能僅2格訊號，但走出戶外立即恢復。建議先在城門口載入園區地圖，進入後依指示牌遊覽。eSIM讓您隨時查看歷史資訊，非常適合自由行。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 挪威 eSIM 在 挪威 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Norway eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Norway eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Norway eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Norway
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Norway eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Norway eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Norway eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在挪威使用Instagram和Facebook時，eSIM上傳照片快嗎？
+      a: 在奧斯陸和卑爾根等城市，使用Telenor的4G網路，上傳一張照片約2-3秒，瀏覽動態流暢。但在偏遠峽灣，速度稍降，上傳可能需10秒。建議在早餐或晚餐離峰時段上傳，並關閉自動播放影片以節省數據。整體體驗與台灣4G相當。
+    - q: 在挪威用eSIM玩手遊（如傳說對決）延遲高嗎？
+      a: 在奧斯陸中央車站附近，Telia網路的延遲約25-35毫秒，適合即時對戰。但離開城市到郊區，延遲可能升至60毫秒，仍可遊玩但略有延遲。由於挪威歐洲伺服器較遠，建議選擇亞洲服時確認延遲。eSIM的穩定連線足以應付休閒遊戲，專業玩家可考慮飯店Wi-Fi。
+    - q: 在挪威使用Tinder滑卡片，eSIM的反應夠快嗎？
+      a: 在卑爾根市區，連上Ice的4G網路，滑卡片載入約1秒，照片顯示迅速。即使在地鐵中，只要非隧道段，體驗流暢。但極光區域或山區，載入時間可能延長至3秒。整體無礙，建議在電量充足時使用，因為螢幕常亮耗電快。
+    - q: 在挪威用手機App叫外送，eSIM能順利完成支付嗎？
+      a: 在奧斯陸使用Wolt或Foodora時，eSIM連線穩定，支付流程（Apple Pay或信用卡）約5秒完成。但在偏遠飯店如羅弗敦，App可能因定位延遲而無法載入餐廳列表。建議提前確認飯店周邊餐廳，並確保訊號強度。市區則無問題。
+    - q: 在挪威用eSIM分享熱點給筆電工作，視訊會議順暢嗎？
+      a: 在奧斯陸飯店房間內，分享熱點給筆電，連線Zoom視訊會議時，畫面清晰無延遲。但若多人連接，可能影響速度，建議僅連接一台裝置。在特羅姆瑟市區，視訊通話也順暢，但需注意每日高速流量限制（如5GB後降速）。一般會議約1小時耗費1-2GB，請留意用量。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 挪威 使用 挪威 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Norway, you can dial local emergency numbers like 112 (Police), 110 (Fire),
-        113 (Ambulance) directly from your phone's dialer regardless of your active
-        SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Norway eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Norway eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Norway eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Norway eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Norway eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Norway eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Norway eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Norway eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Norway eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Norway eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Norway eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Norway eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在挪威遇到緊急情況，如何用手機撥打112？
+      a: 即使沒有SIM卡，挪威所有手機（包括無鎖機）皆可撥打112在緊急情況下。我們的eSIM用戶可直接撥打112，運營商會優先接通。撥通後告知您的確切位置（最好用Google地圖定位），並描述情況。建議在出發前記下飯店地址和附近地標，以加速救援。注意，112適用於警察、消防、救護車。
+    - q: 在挪威山區健行時，eSIM能否用於發送緊急簡訊？
+      a: 在偏遠山區如Jotunheimen國家公園，Telenor的訊號可能僅為2G或無訊號，但發送簡訊（SMS）有時比語音更易成功。建議開啟手機的「僅限2G」模式嘗試，並將訊息發送至113（救護車）。部分國家公園設有緊急電話柱，eSIM可作為輔助。提前下載離線地圖和緊急聯絡資訊至關重要。
+    - q: 我的eSIM在挪威突然無法連線，該怎麼辦？
+      a: |-
+        首先嘗試切換飛行模式再關閉，強制重新連接網路。若無效，前往「設定」>「行動服務」>「網路選擇」，手動選取Telenor、Telia或Ice。若仍無法連線，可能手機APN設定錯誤，請檢查eSIM包裝上的APN資訊（通常為「internet」）。若問題持續，請利用公共Wi-Fi聯絡客服，我們24小時支援。
+    - q: 在挪威遺失手機，如何透過eSIM保護個人資訊？
+      a: 立即使用他人手機或電腦登入您的Apple ID或Google帳戶，啟動「尋找我的iPhone」或「尋找裝置」功能。若無法遠端清除，請聯絡電信商（Telenor等）掛失SIM卡，但eSIM無法掛失，因此建議事先啟用裝置鎖定。同時撥打112報案，並通知保險公司。為了降低風險，旅行期間建議開啟螢幕鎖和雙重認證。
+    - q: 在挪威遇到自然災害（如暴風雪），eSIM的網路可用嗎？
+      a: 在暴風雪期間，基地台可能因斷電損壞，導致部分地區無服務。但Telenor和Telia通常有備用電源，主要城鎮訊號仍可能維持。若網路癱瘓，可使用衛星電話（部分偏遠飯店提供）或前往公共避難所。eSIM在正常天氣下仍是最佳選擇，但極端情況建議備有離線應變方案。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 挪威 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Norway eSIM Compared to Prepaid SIM Cards: What You Need to Know"
-  subtitle: "Norway Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Norway) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Norway"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Norway eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Telenor requires passport registration in stores, and many convenience store staff refuse or cannot handle the registration, forcing tourists to find dedicated telecom stores. MyCall requires in-person activation at its only physical store in Oslo for those without a Norwegian ID."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Telenor store queues and passport checks. Activate your Roami eSIM online within 1 minute after landing in Oslo, avoiding the hassle of finding a dedicated telecom store."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Telenor requires passport registration in stores. Telia requires foreigners to present a passport or EU ID card for in-store verification."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Telenor and Telia which require in-store passport registration, Roami eSIM requires no KYC. Activate instantly without showing ID."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Lyca Mobile's 50GB plan has an EU roaming cap of 32GB, and the 30GB plan caps at 25.5GB. Lyca Mobile also blocks tethering and limits speed to 16 Mbit/s."
-      esim_title: "Full EU Roaming Included"
-      esim_desc: "Unlike Lyca Mobile's 50GB plan which caps EU roaming at 32GB (36% reduction), Roami eSIM offers full data allowance across Europe with no FUP limits."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Telia's minimum billing cycle is 31 days (e.g., 3GB for 269 NOK). Telenor has a monthly 1GB high-speed cap, after which speed drops to 128 Kbps."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Telia's 31-day cycle (e.g., 3GB for 269 NOK) or Telenor's monthly 1GB cap, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Lyca Mobile explicitly blocks tethering (hotspot sharing)."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike Lyca Mobile which explicitly blocks hotspot sharing, Roami eSIM allows full tethering at high speeds, perfect for connecting laptops or tablets."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Telenor and Telia online top-up systems mainly accept Nordic credit/debit cards, rejecting international cards. Users must buy physical 'Ladekode' vouchers at 7-Eleven, with no English menu for top-up calls."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Unlike Telenor and Telia which only accept Nordic credit cards, Roami eSIM accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Telia's entire system (written and online) and top-up voice prompts are only in Norwegian."
-      esim_title: "24/7 English Support"
-      esim_desc: "Unlike Telia's Norwegian-only system, Roami eSIM provides 24/7 customer support in English via live chat and email."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Norway eSIM vs SIM Card: The Complete Comparison Guide"
-    cards:
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation at Arrival"
-        desc: "Telenor requires finding a dedicated store; MyCall requires visiting Oslo's only store. Roami activates online in <b>1 minute</b> after landing."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Multi-Network Coverage"
-        desc: "Telenor has no signal on Trollstigen mountain road, while Telia does. Roami eSIM can connect to multiple networks, ensuring coverage in remote areas."
-      - icon: "headset"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "24/7 English Customer Support"
-        desc: "Telia's entire system is only in Norwegian. Roami provides 24/7 English support via live chat and email."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Full EU Roaming Without FUP Caps"
-        desc: "Lyca Mobile's 50GB plan caps EU roaming at <b>32GB</b> (36% reduction). Roami eSIM offers full data allowance across Europe with no fair usage policy limits."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

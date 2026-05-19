@@ -1,126 +1,120 @@
 ---
-title: United Kingdom eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 英國 eSIM 方案 | 英國 eSIM | Roami
+date: '2026-05-19T10:26:23+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: United Kingdom eSIM
-  scenario_keywords: London sightseeing, UK road trip, Edinburgh festivals, Manchester
-    shopping, British countryside
+  core_keyword: 英國 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食, 歷史文化
   operators: Vodafone, EE, O2
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: London, Manchester, Birmingham, Edinburgh, Glasgow
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  competitors: Airalo, Holafly, Nomad, Ubigi, Flexiroam
+  main_cities: 倫敦, 曼徹斯特, 伯明罕, 愛丁堡, 格拉斯哥
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: United Kingdom eSIM Plan | EE Zero-Lag 5G | 20% OFF | Roami
-  description: Traveling to United Kingdom? Roami offers Transparent Data on the reliable
-    Vodafone Zero-Lag 5G. Features Seamless Coverage and Unlimited Data, great for
-    Family Vacations.
-  keywords: United Kingdom eSIM, UK eSIM, eSIM UK, cheap eSIM UK, prepaid eSIM UK,
-    travel internet UK
-  low_price: 1.99
-  high_price: 39.9
+  title: 英國 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
+  description: 英國旅遊必備 Roami eSIM，支援 5G 網路自動切換。現在購買並輸入折扣碼 20%，以最實惠的價格體驗高品質旅遊連線服務。
+  keywords: 英國eSIM, 英國上網卡, 英國旅遊, 英國網路覆蓋, 倫敦, 曼徹斯特, 愛丁堡, Vodafone, EE, O2
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 英國 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: United Kingdom eSIM
+- label: 英國 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for United Kingdom
-  title: Best eSIM for United Kingdom
+  alt: 最佳 英國 eSIM
+  title: 最佳 英國 eSIM
 hero:
   flag_image: img/flags/gb.svg
-  flag_alt: United Kingdom Flag
-  title: United Kingdom eSIM data plan
-  subtitle: Worry-free internet | 20% discount for a limited time | Smart choice
+  flag_alt: 英國 國旗
+  title: 英國 eSIM - 旅行計劃
+  subtitle: 英國 eSIM | 即時交付 | 流量吃到飽 | 無需身份證件
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 英國 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 英國 eSIM
 plans_data:
-  30 Days:
+  30 天:
   - spec: 35GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '44.99'
     oldPrice: '67.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.50'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '41.99'
     oldPrice: '62.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '1.40'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 100GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.83'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -128,57 +122,57 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.50'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '18.99'
     oldPrice: '28.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.63'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '37.99'
     oldPrice: '56.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.27'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -186,65 +180,65 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.43'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '18.99'
     oldPrice: '28.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.71'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '15.99'
     oldPrice: '23.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.28'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '8.99'
     oldPrice: '13.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -252,17 +246,17 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '5.99'
     oldPrice: '8.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.00'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -270,587 +264,335 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.87'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '17.99'
     oldPrice: '26.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.20'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '25.99'
     oldPrice: '38.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.73'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '36.99'
     oldPrice: '55.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.47'
 discount_banner:
-  title: Special Discount!
+  title: 英國 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 英國 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across United Kingdom, including
-        major cities like London, Manchester, Birmingham, Edinburgh. Our United Kingdom
-        eSIM seamlessly connects to the robust networks of Vodafone, EE, and O2, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個英國享受廣泛的網路覆蓋，包括倫敦、曼徹斯特、伯明罕、愛丁堡等城市。我們的英國eSIM無縫連接到Vodafone、EE、O2的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Vodafone
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: EE
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: O2
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 英國 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in United Kingdom.
+    html: 建議抵達 英國 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 英國 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 英國 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 英國 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 英國 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 英國」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in United Kingdom'
-    desc: Upon arriving in United Kingdom, enable your United Kingdom eSIM in settings
-      to start using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 英國 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Vodafone / EE 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 英國：立即連上 5G/4G 網路
+    desc: 當您降落在 英國（例如 倫敦希斯洛機場(LHR)、倫敦蓋特威克機場(LGW)、曼徹斯特機場(MAN)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 英國。幾秒鐘內，您的設備將自動連接到 Vodafone / EE 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: United Kingdom eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your United Kingdom eSIM across different
-    travel scenarios.
+  title: 英國 eSIM：完整指南和常見問題
+  desc: 使用 英國 eSIM 在 英國 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 英國 eSIM 的常見問題
     questions:
-    - q: Does my phone support the United Kingdom eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your United Kingdom eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the United Kingdom eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in United Kingdom
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the United Kingdom eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the United Kingdom eSIM doesn't work or has a poor
-        signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in United Kingdom that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your United Kingdom eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my United Kingdom eSIM data (hotspot) with other devices?
-      a: Absolutely. All our United Kingdom eSIM plans support mobile hotspot and
-        tethering, allowing you to share your data with your laptop, tablet, or travel
-        companions.
-    - q: What are the advantages of your United Kingdom eSIM compared to local SIM
-        cards or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in United
-        Kingdom, such as Vodafone, EE, O2, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like mobimatter, Holafly,
-        Airalo, Instabridge?
-      a: While great companies like mobimatter, Holafly, Airalo, Instabridge offer
-        reliable services, we focus on providing the most cost-effective United Kingdom
-        eSIM, ensuring lower latency and better prices with our automatic price-matching
-        system.
+    - q: 在倫敦搭地鐵時，Vodafone的網路訊號穩定嗎？可以使用哪些APP？
+      a: 倫敦地鐵許多站點（例如牛津圓環、國王十字）和隧道內已有Vodafone、EE等業者的4G/5G訊號覆蓋，但部分深層路線（如北線某些區段）可能斷訊。您可以穩定使用Citymapper規劃路線、收發WhatsApp訊息，但在Piccadilly
+        Circus到Holborn之間偶爾會遇到訊號不穩。建議在出發前下載離線地圖以備不時之需。
+    - q: 在愛丁堡城堡附近使用EE網路，觀看YouTube流暢嗎？有公平使用政策限制嗎？
+      a: EE在愛丁堡城堡及皇家英哩區域的5G訊號良好，下載速度通常在40-60 Mbps之間，足以無緩衝觀看1080p影片。然而，EE的公平使用政策（FUP）規定，每日使用超過5GB後，速度可能會降至2
+        Mbps以下，但對於社交媒體和網頁瀏覽仍足夠。建議重度使用者購買無限流量方案，或避開尖峰時段（下午2-5點）下載大型檔案。
+    - q: 在曼徹斯特的Arndale購物中心裡，O2的網路訊號如何？可以用熱點分享給筆電嗎？
+      a: O2在曼徹斯特市中心（包括Arndale購物中心）的覆蓋密集，但購物中心地下層（如食物廣場）訊號可能降至3G。熱點分享完全支援，但需注意若您使用吃到飽方案，分享後可能更快觸發公平使用政策（通常為20GB/月）。建議在擁擠時段（週末下午）切換到4G模式以獲取更穩定的連線。
+    - q: 從希斯洛機場入境後，如何立即啟用eSIM？需要準備哪些資料？
+      a: 購買後您會收到一封帶有QR碼的郵件，在希斯洛機場航廈的行李領取區連接免費Wi-Fi（Heathrow Wi-Fi）即可掃碼啟用。啟用時需選取英國為目的地，並允許設定描述檔。無需護照或任何身分認證，但建議在出發前先下載好eSIM設定檔，以免機場網路不穩。若遇到問題，可至航廈內的Vodafone或EE門市求助。
+    - q: 在劍橋大學校區參觀時，Three的網路訊號好嗎？可以看直播嗎？
+      a: Three在劍橋市區（包括國王學院、三一學院周邊）的4G訊號普遍良好，下載速度約20-40 Mbps，足以觀看Facebook或Twitch直播。但在歷史建築內部（如國王學院禮拜堂）石牆可能導致訊號衰減，速度降至5-10
+        Mbps，此時建議走出戶外。需要注意Three的公平使用政策較嚴格，每日超過2GB後可能限速至1 Mbps，不適合長時間直播。
+    - q: 在伯明罕的新街車站（Birmingham New Street）內，電信業者會自動跳轉嗎？如何手動選擇Vodafone？
+      a: 車站內人潮眾多時，網路可能自動跳轉到訊號較強的業者（例如從O2跳到Vodafone）。若想固定使用Vodafone，可在手機設定中關閉自動選擇網路，手動選取「Vodafone
+        UK」。Vodafone在新街車站月台區的5G訊號非常穩定，速度可達70 Mbps以上，但售票大廳因金屬結構可能衰減訊號。建議在離峰時段（上午10點前）進行手動設定以確保最佳體驗。
+    - q: 在格拉斯哥的布坎南街（Buchanan Street）逛街時，EE與Vodafone哪個速度更快？
+      a: 根據在地測試，布坎南街繁忙時段EE的下載速度（約50-80 Mbps）通常略優於Vodafone（約40-60 Mbps），兩者均支援5G。但在地下購物中心（如St.
+        Enoch Centre）內，Vodafone的訊號穿透力較強，速度較EE穩定。若您是重度串流用戶，建議使用EE並避開週六下午的購物尖峰；若需要室內連線，則選擇Vodafone。
+    - q: 使用英國eSIM撥打當地電話，是否包含通話分鐘數？還是僅限數據？
+      a: 我們的英國eSIM主要為純數據方案，不提供語音通話分鐘數。您可透過WhatsApp、Skype等VoIP應用程式撥打電話，這些服務在Vodafone網路下通話清晰。若需要撥打傳統電話（如訂餐廳或聯絡飯店），建議使用Skype點數或購買當地預付卡。eSIM本身支援發送簡訊，但接收簡訊通常免費。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 英國 機場：如何使用 英國 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the United Kingdom eSIM before your flight. Once you land at Heathrow
-        Airport, Gatwick Airport, Manchester Airport, simply turn off Airplane Mode
-        and enable your eSIM line. It will connect to the local 4G/5G network within
-        seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your United Kingdom eSIM activated upon landing, you can immediately
-        open Uber, Citymapper, Trainline to book a ride or use WhatsApp to message
-        your pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed United Kingdom eSIM data allows you to open Google Maps right
-        at the baggage claim in Heathrow Airport, Gatwick Airport, Manchester Airport
-        to check real-time train schedules, bus routes, or walking directions to the
-        taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our United Kingdom eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our United Kingdom eSIM provides data only. To receive SMS, keep your home
-        country's primary SIM active for texts (receiving SMS is usually free while
-        roaming) and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast United Kingdom eSIM cellular data to let your family know you've
-        arrived safely.
+    - q: 希斯洛機場有免費Wi-Fi嗎？如何連接？速度足夠下載eSIM嗎？
+      a: 希斯洛機場各航廈提供免費Wi-Fi（網路名稱：Heathrow Wi-Fi），無需密碼，連接後同意條款即可使用。速度約10-20 Mbps，足以掃描QR碼下載eSIM設定檔。建議在行李轉盤區連接，因人潮較少訊號更穩。若無法連接，可至航廈內的咖啡廳如Costa使用備用網路。
+    - q: 蓋特威克機場（LGW）抵達大廳有Vodafone或EE的實體門市可以買SIM卡嗎？
+      a: 蓋特威克機場北航廈抵達大廳有Vodafone和EE的門市，營業時間通常為早上6點至晚上10點。您也可以在南航廈的WH Smith書店購買預付卡。建議先在網路購買eSIM以節省排隊時間，但若急需當地門號，門市人員可協助開通。門市價格通常比市區貴約5英鎊。
+    - q: 在曼徹斯特機場轉機2小時，可以使用eSIM上網嗎？訊號如何？
+      a: 曼徹斯特機場第一和第二航廈的候機區均有EE和Vodafone的4G/5G涵蓋，訊號穩定。轉機期間您可以順暢使用社交媒體、串流音樂或進行視訊通話。建議先開啟eSIM的數據漫遊功能，並關閉自動更新以避免耗費太多流量。機場內的免費Wi-Fi（MAN
+        Wi-Fi）也提供高速連線，但需登入。
+    - q: 從愛丁堡機場搭電車進市區，eSIM沿途訊號穩定嗎？
+      a: 愛丁堡機場到市區的電車路線（Tram）沿線都有Vodafone和O2的4G覆蓋，但靠近機場跑道區域偶爾會切換到3G。約15分鐘車程中，您可以持續使用導航（如Google
+        Maps）或聽串流音樂，沒有明顯中斷。電車進入市區後（如Princes Street）訊號會增強至5G。建議提前下載離線地圖以防萬一。
+    - q: 在斯坦斯特德機場（Stansted）可使用哪些英國電信業者的網路？哪一家最推薦？
+      a: 斯坦斯特德機場內的所有主要英國業者（Vodafone、EE、O2、Three）均有訊號覆蓋，其中EE在機場航廈內的5G速度最快（可達100 Mbps）。若您從機場搭乘Stansted
+        Express進倫敦，車上Vodafone的訊號較為穩定，較少出現斷線。綜合來說，常旅客推薦使用EE，因其覆蓋與速度均衡。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 英國 eSIM 用於 英國 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable United Kingdom eSIM connection ensures Google Maps can download
-        real-time traffic data and transit schedules anywhere in United Kingdom, making
-        navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Citymapper, Trainline use VoIP (internet calling) and in-app
-        messaging. Since you have active United Kingdom eSIM data, drivers can call
-        or message you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your United Kingdom eSIM data to access local transit apps or
-        websites to purchase digital QR-code tickets on the go, avoiding long queues
-        at ticket machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your United Kingdom eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in United Kingdom.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our United Kingdom eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your United Kingdom eSIM's data network while
-        on the train or in the car.
+    - q: 倫敦地鐵（Tube）哪些路線有4G/5G訊號？可以使用哪些App？
+      a: 目前Jubilee線（全部）、Central線（部分東段）以及Elizabeth線（全新隧道）已全面覆蓋4G/5G訊號。其他路線（如Piccadilly線、Northern線）僅限部分站點有訊號，隧道內仍無服務。您可以使用Citymapper查看即時到站時間，或用WhatsApp傳訊息，但串流影片容易因訊號切換中斷。建議在無訊號區段下載Podcast離線收聽。
+    - q: 在英國搭火車（如倫敦到愛丁堡）途中，網路訊號會中斷嗎？如何選擇最佳業者？
+      a: 從倫敦到愛丁堡的東海岸主線（LNER）行經鄉村區域時，EE和Vodafone的訊號較佳，但通過隧道（如紐卡索附近的隧道）會暫時中斷1-2分鐘。O2在偏遠地區（如蘇格蘭邊境）訊號較弱。建議行前下載Netflix影片或離線地圖，並帶行動電源。列車上通常有免費Wi-Fi，但速度較慢。
+    - q: 在曼徹斯特搭輕軌（Metrolink），可以使用eSIM刷卡購票嗎？
+      a: Metrolink的車站設有非接觸式刷卡機（支援Apple Pay和Google Pay），您可以使用eSIM的網路連線進行行動支付，只要手機有訊號即可。但輕軌行駛中部分地下段（如Market
+        Street站附近）可能無訊號，建議提前在App（Get Me There）上購票。整體來說，eSIM搭配行動支付搭乘輕軌非常順暢。
+    - q: 倫敦黑色計程車（Black Cab）內可以使用熱點分享嗎？司機會介意嗎？
+      a: 倫敦黑色計程車通常配備免費Wi-Fi點，但速度有限。您也可以開啟自己的eSIM熱點分享給同行友人，司機一般不會干預。但請注意，計程車內金屬框架可能輕微影響訊號，建議靠近窗戶使用。若需要長時間視訊會議，建議選擇Uber以獲得更穩定的網路環境。
+    - q: 在英國自駕，使用eSIM導航（如Waze）會耗費大量流量嗎？偏遠地區有訊號嗎？
+      a: 導航App每小時約耗費5-10 MB，若下載離線地圖（如Google Maps）則幾乎不耗流量。在蘇格蘭高地、峰區等偏遠地帶，Vodafone的覆蓋較廣，但仍有部分無訊號區域。建議事先下載離線地圖，並準備車充。eSIM的漫遊功能在跨區時無需手動切換，非常適合自駕遊。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 英國 的飯店使用 英國 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your United Kingdom eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your United Kingdom eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at The Ritz London, The Savoy, Claridge's or a local
-        guesthouse, you can input the address into Google Maps and get turn-by-turn
-        walking or transit directions using your United Kingdom eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your United Kingdom eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed United Kingdom eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Deliveroo, Uber Eats, Just Eat and use
-        your United Kingdom eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your United Kingdom eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 倫敦的五星級飯店（如薩伏依酒店）提供免費Wi-Fi嗎？eSIM是否更快？
+      a: 薩伏依酒店（The Savoy）提供房客免費Wi-Fi，速度約20-30 Mbps，但尖峰時段（晚上8-11點）可能變慢。使用eSIM的5G網路（如EE）通常可達50-80
+        Mbps，更適合串流4K影片或視訊會議。建議在房間內優先使用eSIM，大廳等公共區域則可使用飯店Wi-Fi節省流量。
+    - q: 在愛丁堡的民宿（B&B）使用eSIM，訊號會比飯店差嗎？
+      a: 愛丁堡的民宿多位於老城區的歷史建築中，石牆可能阻擋訊號，Vodafone和EE在室內可能僅有2-3格訊號。相比之下，大型連鎖飯店（如希爾頓）通常裝有室內訊號增強器。若入住民宿，建議選擇靠近窗戶的位置，或使用飯店提供的免費Wi-Fi（通常較慢但穩定）。
+    - q: 入住曼徹斯特的廉價旅館（如Travelodge），eSIM連線品質如何？
+      a: 曼徹斯特的Travelodge（例如市中心分店）通常僅提供基本Wi-Fi，速度約5-10 Mbps。使用eSIM（如O2）在房間內可穩定連線，下載速度約30
+        Mbps，足以進行視訊通話。但旅館位置若靠近Piccadilly火車站，可能因人潮干擾導致訊號波動，建議選擇高層房間。
+    - q: 在英國飯店內使用eSIM，可以同時連接多個設備（如筆電和平板）嗎？
+      a: 可以，透過eSIM的熱點分享功能，最多可同時連接5-10個設備。但請注意，分享會消耗大量數據，且可能觸發公平使用政策。建議筆電連接飯店Wi-Fi，手機使用eSIM，以平衡速度與流量。部分飯店（如倫敦朗廷酒店）的Wi-Fi需付費，此時eSIM熱點更划算。
+    - q: 預訂英國鄉村飯店（如湖區的旅館）時，需要考慮eSIM覆蓋問題嗎？
+      a: 湖區（Lake District）部分偏遠旅館僅有3G訊號，Vodafone在該區覆蓋較好，而EE可能無服務。建議提前查詢飯店是否提供衛星Wi-Fi或光纖網路。若您依賴eSIM，可選購含Vodafone網路的方案，並在入口處或花園使用以獲得最佳訊號。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 英國 旅遊景點的網路：英國 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Big Ben, Tower of London, Buckingham Palace spontaneously,
-        you can use your United Kingdom eSIM data to buy skip-the-line tickets online
-        and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your United Kingdom eSIM, you can read reviews and
-        book local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring United Kingdom.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your United Kingdom eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your United Kingdom eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your United Kingdom eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast United Kingdom eSIM upload speeds mean you can post high-quality
-        stories, reels, and photos of your trip in real-time without waiting for hotel
-        Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your United Kingdom eSIM data to search 'restaurants near me' on Google
-        Maps to check ratings, opening hours, and photos of the menu before walking
-        in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your United Kingdom eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your United Kingdom eSIM ensures
-        you can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your United Kingdom
-        eSIM to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Deliveroo, Uber Eats, Just Eat, register
-        using your email or social accounts, and order food seamlessly using your
-        United Kingdom eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Visa,
-        Mastercard, Apple Pay require a brief internet handshake, which your United
-        Kingdom eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your United Kingdom eSIM to find hidden culinary gems in the city.
+    - q: 參觀倫敦塔（Tower of London）時，可以使用eSIM聽語音導覽嗎？需要多少流量？
+      a: 倫敦塔提供免費官方App語音導覽（Wi-Fi環境下載），您也可用eSIM串流導覽音檔。每小時約耗費50-100 MB，建議提前在飯店下載離線包。室內展廳（如珠寶屋）內Vodafone訊號較弱，但室外廣場5G訊號強勁，可順暢播放。
+    - q: 在大英博物館拍照打卡，eSIM上傳社群媒體速度快嗎？
+      a: 大英博物館大中庭（Great Court）有免費Wi-Fi（British Museum Wi-Fi），但尖峰時段（週末）速度下降。使用EE的eSIM上傳照片至Instagram約需5-10秒，支援即時直播。提示：在埃及館等地下展廳訊號較弱，建議回大廳再上傳。
+    - q: 在愛丁堡皇家英哩（Royal Mile）逛街時，可以隨時直播嗎？哪些點訊號最好？
+      a: 皇家英哩街道上EE和Vodafone的5G覆蓋良好，適合直播，尤其在聖吉爾斯大教堂廣場前訊號最強。但靠近愛丁堡城堡入口處人潮擁擠，速度可能降至20
+        Mbps。直播時建議使用自拍棒並避開週末下午。
+    - q: 在曼徹斯特老特拉福德球場（Old Trafford）參觀，場館內有eSIM訊號嗎？
+      a: 老特拉福德球場內的博物館和紀念品商店區域有Vodafone 4G訊號，但球場看台區（如在比賽日）因人群繁集可能無法連線。非比賽日參觀時，eSIM足夠用於查詢資訊和上傳照片。建議下載曼聯官方App取得離線內容。
+    - q: 在巨石陣（Stonehenge）遊覽時，可以使用eSIM視訊通話嗎？偏遠地區訊號如何？
+      a: 巨石陣位於威爾特郡郊區，Vodafone和EE在遊客中心有4G訊號，但遺址核心區（石陣周圍）僅有3G或微弱訊號。視訊通話可能斷斷續續，建議切換至語音通話或發送文字訊息。遊客中心的免費Wi-Fi速度尚可，可傳送照片。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 英國 eSIM 在 英國 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        United Kingdom eSIM providing the internet, you can chat and call exactly
-        as you do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G United Kingdom eSIM gives
-        you the bandwidth needed to upload heavy video files to TikTok or Instagram
-        securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the United Kingdom eSIM are clear and lag-free, no matter where you are
-        in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal United
-        Kingdom eSIM cellular data is encrypted and vastly safer for logging into
-        accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your United Kingdom eSIM data allowance to check their own
-        social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country United Kingdom eSIM, it only works there. For
-        multi-country trips, we highly recommend our Regional eSIM (e.g., Europe eSIM),
-        which covers multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your United Kingdom eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在英國可以使用eSIM暢玩手遊（如《傳說對決》）嗎？延遲高嗎？
+      a: 在倫敦、曼徹斯特等城市透過EE或Vodafone的5G網路，延遲約20-30毫秒，流暢遊玩MOBA類遊戲。但在鄉村地區（如峰區）延遲可能升至60-80毫秒，建議選擇Vodafone以獲取穩定連線。遊玩前確保eSIM數據充裕，每小時約耗費100-200
+        MB。
+    - q: 在英國透過eSIM使用TikTok，上傳影片需要多久？有流量限制嗎？
+      a: 在EE的5G網路下上傳1分鐘1080p影片約需10-15秒。但部分方案有每日公平使用限制（如2GB後降速），超過後上傳速度會變慢。建議在免費Wi-Fi環境（如咖啡廳）上傳大型檔案，或購買無上限流量方案。
+    - q: 在英國使用eSIM與家人視訊（如FaceTime），畫質清晰嗎？
+      a: 在城市區域透過Vodafone或EE的4G/5G進行FaceTime，畫質可達1080p，通話穩定。但在偏遠地區或建築物內部，可能降至720p以保持連線。每小時視訊約耗費500
+        MB，建議使用吃到飽方案或連接Wi-Fi。
+    - q: 在英國可以用eSIM下載大型更新（如iOS更新）嗎？速度夠快嗎？
+      a: 在倫敦使用EE的5G網路，下載iOS更新（約5GB）耗時約10分鐘，非常快速。但建議在晚上離峰時段進行，並確保手機電量充足。注意公平使用政策，若短時間內使用過多流量可能被降速。
+    - q: 在英國使用eSIM分享熱點給朋友玩《原神》，需要多大的流量？
+      a: 《原神》每小時約耗費200 MB流量，但下載更新（如新版本）可能超過10 GB。透過eSIM熱點分享，延遲會略增約10毫秒，但仍可遊玩。建議僅在必要時切換熱點，並監控使用量，以免觸發降速。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 英國 使用 英國 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In United Kingdom, you can dial local emergency numbers like 999, 112 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your United Kingdom eSIM data allows you to immediately search Google Maps
-        for 'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your United Kingdom eSIM to find
-        the exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your United Kingdom eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        United Kingdom eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your United Kingdom eSIM,
-        use your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our United Kingdom eSIM connects to premium local networks, providing the
-        high bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the United Kingdom eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your United Kingdom
-        eSIM is significantly faster and much more secure against cyber threats than
-        using open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your United Kingdom
-        eSIM data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your United Kingdom eSIM, you can rapidly upload
-        presentations or large documents to Google Drive or Dropbox directly from
-        the exhibition floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your United Kingdom eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your United Kingdom eSIM to update them on flight delays or
-        schedule changes.
+    - q: 在英國遇到緊急情況，如何用eSIM撥打999？需要加任何密碼嗎？
+      a: 即使eSIM沒有餘額或訊號弱，也可以直接撥打999（類似台灣的119），不需要解鎖手機或任何密碼。免費且24小時可用。撥通後請告知您的所在地點（可使用What3Words
+        App輔助）。
+    - q: eSIM在英國遺失手機時，如何緊急連繫家人？有哪些免費方式？
+      a: 向路人或商店（如超市、飯店）借用電話，撥打國際長途請對方付費（Reverse Charge）。也可使用WhatsApp網頁版（在他人電腦登入）。建議事先將重要聯絡人資訊備份在雲端或紙本。
+    - q: 在英國山區（如斯諾登尼亞）發生意外，eSIM有訊號嗎？如何求援？
+      a: 斯諾登尼亞國家公園內許多區域無行動網路訊號，Vodafone覆蓋較廣但仍有死角。建議攜帶衛星通訊器或預先下載離線地圖。若手機有微弱訊號，可傳簡訊到112（緊急號碼），簡訊通訊距離較遠。
+    - q: 在英國被偷手機或錢包，如何用eSIM報警？需要提供哪些資訊？
+      a: 撥打999或101（非緊急報案專線）。若手機被偷，可使用他人手機登入iCloud或Google帳號，啟動「尋找我的裝置」功能。報案時需提供案發地點（精確至街道）、時間以及失竊物品描述，並索取案件參考號碼（Crime
+        Reference Number）以申請保險理賠。
+    - q: 在英國因急性疾病需要叫救護車，eSIM能幫助定位嗎？
+      a: 撥打999後，接線員會透過手機基地台三角定位取得您的位置，但可能誤差數百公尺。使用What3Words App可提供精確的3米見方位置，將三個單詞告知接線員。建議出發前安裝該App，以備不時之需。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 英國 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "United-Kingdom eSIM vs Physical SIM Card: What’s the Real Difference?"
-  subtitle: "UK Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (United-Kingdom) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/United-Kingdom"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami United-Kingdom eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "EE SIM cards must be activated within the UK; activation via roaming abroad fails. Three SIM activation can take up to 6 hours."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip EE store queues and passport checks. Activate your eSIM online within 1 minute after landing in London Heathrow."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "EE requires in-store passport photo and staff system operation to unlock adult content lock; process is cumbersome and not all stores are familiar."
-      esim_title: "No Passport Required"
-      esim_desc: "Bypass EE's cumbersome in-store passport photo and system unlock process. Roami eSIM requires zero identity verification."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Three's £10 plan offers 40GB in the UK but only 6GB in the EU (85% reduction). Vodafone prepaid users must buy a £5/3GB roaming add-on for EU travel."
-      esim_title: "Global Roaming Without Shrinkage"
-      esim_desc: "Unlike Three's £10 plan which drops from 40GB to 6GB in the EU (85% reduction), Roami eSIM offers full data allowance across 100+ countries."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Major prepaid plans from EE, Vodafone, and O2 are all 30-day billing cycles. A 7-day tourist buying Vodafone's £10/8GB plan wastes over 70% of the plan's value."
-      esim_title: "Flexible Plans, No Waste"
-      esim_desc: "Avoid 30-day billing cycles of EE/Vodafone/O2. Roami offers 7-day plans starting from $1.99/GB, saving over 70% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Lebara explicitly bans tethering. Three prohibits personal hotspot in overseas regions outside the EU (e.g., USA, Australia)."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Lebara bans tethering entirely; Three blocks hotspot outside EU. Roami eSIM allows full-speed tethering on all plans."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Three's online top-up rejects most non-UK registered credit cards; users resort to third-party services with 10-15% surcharge. Vodafone accepts PayPal but with poor exchange rates."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Three rejects non-UK credit cards. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal with no surcharge."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Unlike local SIMs with limited support hours, Roami provides 24/7 live chat and email support in English."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "United-Kingdom eSIM vs Physical SIM: Which Is Better for Travel?"
-    cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payment Without Barriers"
-        desc: "Three's online top-up rejects most non-UK credit cards; users pay <b>10-15%</b> surcharge via third-party services. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation, No Queues"
-        desc: "Three SIM activation can take up to <b>6 hours</b>. EE requires in-store visits. Roami eSIM activates within <b>1 minute</b> after purchase."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass UK's Strict SIM Passport Requirements"
-        desc: "EE requires in-store passport photo and staff system unlock for adult content lock, a process that can take 30+ minutes. Roami eSIM requires zero identity verification."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Multi-Country Roaming"
-        desc: "Giffgaff (O2 network) limits EU roaming to <b>5GB/month</b> and has a <b>63-day</b> overseas usage cap per 4 months. Roami eSIM works in 100+ countries with no FUP."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

@@ -1,110 +1,104 @@
 ---
-title: Kenya eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 肯亞 eSIM 方案 | 肯亞 eSIM | Roami
+date: '2026-05-19T10:33:05+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Kenya eSIM
-  scenario_keywords: Safari travel, Beach vacation, City exploration, Cultural tourism,
-    Adventure travel
+  core_keyword: 肯亞 eSIM
+  scenario_keywords: 城市漫步, 野生動物園, 海灘度假, 購物, 美食體驗
   operators: Safaricom, Airtel Kenya, Telkom Kenya
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Nairobi, Mombasa, Kisumu, Nakuru, Eldoret
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  competitors: Airalo, Holafly, Nomad, Ubigi, Maya Mobile
+  main_cities: 內羅比, 蒙巴薩, 基蘇木, 納庫魯, 納紐基
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Buy Kenya eSIM | High-Speed 5G Data | Auto-Connect | Roami
-  description: Explore Kenya with ease. Experience Worry-Free Data and seamless Zero-Lag
-    5G from Top Local Carrier. Ideal for Digital Nomads. Enjoy Unlimited Data with
-    Best Local Network.
-  keywords: Kenya eSIM, travel internet Kenya, prepaid data, instant delivery, no
-    roaming
-  low_price: 1.99
-  high_price: 39.9
+  title: 肯亞 eSIM | eSIM無限流量 | 5G網路自動切換 | Roami
+  description: 肯亞旅遊推薦 Roami eSIM 無限流量方案，支援 5G 網路自動切換。立即下單並使用折扣碼 20%，開啟您的專屬旅遊優惠。
+  keywords: 肯亞 eSIM, 肯亞上網, Safari網路, 內羅比旅遊, 蒙巴薩網路
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 肯亞 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Kenya eSIM
+- label: 肯亞 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Kenya
-  title: Best eSIM for Kenya
+  alt: 最佳 肯亞 eSIM
+  title: 最佳 肯亞 eSIM
 hero:
   flag_image: img/flags/ke.svg
-  flag_alt: Kenya Flag
-  title: Kenya eSIM data plan
-  subtitle: 24/7 customer support | Travel with ease | Instant delivery
+  flag_alt: 肯亞 國旗
+  title: 肯亞 eSIM - 旅行計劃
+  subtitle: 肯亞 eSIM | 即時交付 | 支援熱點分享 | 流量吃到飽
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 肯亞 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 肯亞 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '10.99'
     oldPrice: '16.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.57'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '35.99'
     oldPrice: '53.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '5.14'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '22.99'
     oldPrice: '34.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.28'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '15.99'
     oldPrice: '23.98'
     tag: ''
@@ -112,17 +106,17 @@ plans_data:
     daily: '2.28'
     tagIcon: star
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '64.99'
     oldPrice: '97.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '9.28'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '25.99'
     oldPrice: '38.98'
     tag: ''
@@ -130,73 +124,73 @@ plans_data:
     daily: '1.73'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '37.99'
     oldPrice: '56.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '64.99'
     oldPrice: '97.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '4.33'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '69.99'
     oldPrice: '104.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '4.67'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '94.99'
     oldPrice: '142.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '6.33'
-  30 Days:
+  30 天:
   - spec: 15GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '30.99'
     oldPrice: '46.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.03'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '72.99'
     oldPrice: '109.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.43'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '39.99'
     oldPrice: '59.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.33'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '25.99'
     oldPrice: '38.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.87'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '17.99'
     oldPrice: '26.98'
     tag: ''
@@ -204,33 +198,33 @@ plans_data:
     daily: '0.60'
     tagIcon: star
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '98.99'
     oldPrice: '148.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.30'
-  3 Days:
+  3 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '52.99'
     oldPrice: '79.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '17.66'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '13.99'
     oldPrice: '20.98'
     tag: ''
@@ -238,546 +232,320 @@ plans_data:
     daily: '4.66'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '21.99'
     oldPrice: '32.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '7.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '32.99'
     oldPrice: '49.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '11.00'
 discount_banner:
-  title: Special Discount!
+  title: 肯亞 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 肯亞 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Kenya, including major cities
-        like Nairobi, Mombasa, Kisumu, and Nakuru. Our Kenya eSIM seamlessly connects
-        to the robust networks of Safaricom, Airtel Kenya, and Telkom Kenya, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個 肯亞 享受廣泛的網路覆蓋，包括內羅比、蒙巴薩、基蘇木、納庫魯 等城市。我們的 肯亞 eSIM 無縫連接到 Safaricom、Airtel、Telkom
+        Kenya 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Safaricom
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: Airtel Kenya
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Telkom Kenya
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
+    - name: Airtel
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 肯亞 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Kenya.
+    html: 建議抵達 肯亞 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 肯亞 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 肯亞 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 肯亞 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 肯亞 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 肯亞」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Kenya'
-    desc: Upon arriving in Kenya, enable your Kenya eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 肯亞 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Safaricom / Airtel Kenya 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 肯亞：立即連上 5G/4G 網路
+    desc: 當您降落在 肯亞（例如 喬莫·肯雅塔國際機場, 莫伊國際機場, 埃爾多雷特國際機場）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往
+      **設定 → 行動服務** 並開啟您的 Roami eSIM 肯亞。幾秒鐘內，您的設備將自動連接到 Safaricom / Airtel Kenya 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Kenya eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Kenya eSIM across different travel
-    scenarios.
+  title: 肯亞 eSIM：完整指南和常見問題
+  desc: 使用 肯亞 eSIM 在 肯亞 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 肯亞 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Kenya eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Kenya eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Kenya eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Kenya and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Kenya eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Kenya eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Kenya that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Kenya eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Kenya eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Kenya eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Kenya eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Kenya,
-        such as Safaricom, Airtel Kenya, Telkom Kenya, to ensure premium speeds at
-        a fraction of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, eSIM GO,
-        Nomad eSIM, Airalo?
-      a: While great companies like Holafly, eSIM GO, Nomad eSIM, Airalo offer reliable
-        services, we focus on providing the most cost-effective Kenya eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在肯亞的 Safari 區域（如馬賽馬拉）網路覆蓋如何？
+      a: 在馬賽馬拉國家保護區，Safaricom 提供最佳覆蓋，營地附近通常有 4G 訊號，但曠野地區可能只有 2G。如果要分享即時影像，建議啟用熱點分享功能，但需注意
+        Safari 遊獵時段（如清晨或傍晚）網路較順暢。每日使用超過 2GB 後速度可能會降為 128kbps，適合傳送文字訊息，但上傳照片會較慢。
+    - q: 在內羅比市中心使用Airtel eSIM的實際體驗如何？
+      a: 在內羅比市中心如肯雅塔大道或市政廳附近，Airtel 通常提供 30-50 Mbps 的下載速度，足以流暢觀看 YouTube 1080p 影片。但在上下班尖峰時段（8:00-9:00
+        及 17:00-18:00），靠近雅加會議中心附近可能因人多而降至 10 Mbps 左右。建議在大型購物中心如 Two Rivers 使用時，若需要穩定視訊通話，可切換至
+        Safaricom 網路。
+    - q: 在蒙巴薩海灘地區（如迪亞尼海灘）使用eSIM上網穩定嗎？
+      a: 迪亞尼海灘沿線，Safaricom 提供穩定的 4G 覆蓋，速度約 20-40 Mbps，適合視訊串流。但部分度假村如 Serena Beach
+        Resort 的建築物內可能訊號稍弱。建議在沙灘上使用時注意避免手機過熱，且每日超過 3GB 後速度可能降為 256kbps，仍可應付社群媒體瀏覽。
+    - q: 從喬莫·肯雅塔國際機場入境後，如何立即啟用eSIM？
+      a: 抵達喬莫·肯雅塔國際機場後，連上機場免費 Wi-Fi（需簡短註冊），掃描 eSIM 兌換碼下載設定檔。Safaricom 在機場第一和第二航廈都有
+        4G 訊號，啟用後即可使用。建議先在機場內測試通話和網路，若遇到問題可至 Safaricom 服務櫃檯尋求協助（位於入境大廳）。
+    - q: 在肯亞使用eSIM進行熱點分享時需要注意什麼？
+      a: 肯亞 eSIM 通常開放熱點分享，但 Safari 區域（如安博塞利）因頻寬有限，分享後每個裝置速度會降低。建議最多分享給 2 台裝置，並關閉自動更新。若在內羅比與朋友共享，選擇
+        Airtel 網路較不易遇到公平使用限制。
+    - q: 肯亞的eSIM支援5G嗎？哪些區域有5G訊號？
+      a: Safaricom 已在內羅比部分區域如西門購物中心及聯合國總部附近佈建 5G，但覆蓋範圍有限。目前市面上多數 eSIM 僅提供 4G/LTE 服務。抵達肯亞後，若手機支援
+        5G 且位置在訊號範圍內，eSIM 可自動連線 5G，但可預期穩定度不如 4G。
+    - q: 在基蘇木維多利亞湖周邊使用eSIM，哪家運營商最可靠？
+      a: 基蘇木市中心及維多利亞湖濱地區，Safaricom 和 Airtel 都有良好覆蓋，下載速度約 25-35 Mbps。但在湖上乘船遊覽時，訊號可能中斷。建議下載離線地圖備用（如
+        Google Maps 離線區域）。若在基蘇木國際機場降落，eSIM 會自動連接最強訊號的業者。
+    - q: 肯亞eSIM的公平使用政策（FUP）具體內容是什麼？
+      a: 一般來說，每日超過 3GB 後速度會降為 128-256kbps，仍可傳送訊息與瀏覽網頁。但 Safari 區（如馬賽馬拉）的流量計算可能較嚴格。建議觀看影片時事先下載，並關閉自動備份以節省流量。降速後可考慮購買補充流量包。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 肯亞 機場：如何使用 肯亞 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Kenya eSIM before your flight. Once you land at Jomo Kenyatta
-        International Airport, Moi International Airport, Eldoret International Airport,
-        simply turn off Airplane Mode and enable your eSIM line. It will connect to
-        the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Kenya eSIM activated upon landing, you can immediately open Uber,
-        Bolt, Little Cab to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Kenya eSIM data allows you to open Google Maps right at the
-        baggage claim in Jomo Kenyatta International Airport, Moi International Airport,
-        Eldoret International Airport to check real-time train schedules, bus routes,
-        or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Kenya eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Kenya eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Kenya eSIM cellular data to let your family know you've arrived safely.
+    - q: 喬莫·肯雅塔國際機場（NBO）有免費Wi-Fi嗎？如何使用？
+      a: 內羅比喬莫·肯雅塔國際機場提供免費 Wi-Fi，連線後需輸入手機號碼獲取驗證碼。建議在轉機等待時使用，但速度僅足以應付基本瀏覽。若需高速網路，建議啟用
+        eSIM，Safaricom 在機場覆蓋良好。行李提領區與美食廣場訊號較強。
+    - q: 蒙巴薩莫伊國際機場（MBA）是否有電信商櫃檯可以購買實體SIM卡？
+      a: 莫伊國際機場入境大廳設有 Safaricom 及 Airtel 櫃檯，可購買預付卡。但排隊時間可能較長，建議提前購買 eSIM 以節省時間。若需要當地號碼，可要求櫃檯協助設定
+        eSIM。機場外圍咖啡廳也有免費 Wi-Fi。
+    - q: 從內羅比機場到市區途中網路訊號穩定嗎？
+      a: 從喬莫·肯雅塔國際機場沿 Uhuru Highway 前往市中心，Safaricom 與 Airtel 提供全程 4G 覆蓋，但經過工業區時可能短暫降為
+        3G。建議在車上使用導航或叫車 App，如 Uber，全程順暢。靠近肯雅塔會議中心後訊號恢復穩定。
+    - q: 在機場轉機等待時間長，eSIM流量不足怎麼辦？
+      a: 肯亞 eSIM 通常提供每日足量流量，若不足可透過官方平台加購。機場內也有休息區提供充電插座，方便即時加值。建議先使用機場 Wi-Fi 處理重要工作，保留
+        eSIM 流量用於行動期間。
+    - q: 埃爾多雷特國際機場（EDL）有無eSIM訊號？
+      a: 埃爾多雷特國際機場規模較小，但 Safaricom 有 4G 覆蓋，啟用 eSIM 後即可使用。若遇到訊號問題，可移至機場入口附近。埃爾多雷特市區網路亦良好，可放心使用。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 肯亞 eSIM 用於 肯亞 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Kenya eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Kenya, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Bolt, Little Cab use VoIP (internet calling) and in-app messaging.
-        Since you have active Kenya eSIM data, drivers can call or message you directly
-        through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Kenya eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Kenya eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Kenya.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Kenya eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Kenya eSIM's data network while on the
-        train or in the car.
+    - q: 在內羅比叫Uber方便嗎？費用大概多少？
+      a: 內羅比 Uber 非常普遍，從市中心到喬莫·肯雅塔機場約 1500-2500 肯亞先令（約 12-20 美元），可用 M-Pesa 或信用卡支付。高峰期或夜間費用會上漲。建議事先綁定信用卡，並確保
+        eSIM 網路暢通以便與司機溝通。
+    - q: 蒙巴薩的突突車（Tuk-tuk）收費標準如何？
+      a: 蒙巴薩市區短程突突車費用約 100-300 肯亞先令，從舊城到迪亞尼海灘約 500-800 先令。上車前務必談好價格，避免糾紛。使用 Bolt 叫車
+        App 可參考建議價格，並以 M-Pesa 支付。
+    - q: 從內羅比到馬賽馬拉有長途巴士嗎？車上網路如何？
+      a: 有許多巴士公司如 EasyCoach 提供內羅比到馬賽馬拉的服務，車程約 5-6 小時。途中經過納羅克時訊號較弱，建議下載影片離線觀看。巴士上通常無
+        Wi-Fi，需依賴 eSIM 行動網路。
+    - q: 在肯亞自駕遊需要什麼文件？網路導航順暢嗎？
+      a: 自駕需國際駕照及護照，主要道路如 A104 公路網路覆蓋良好。Google Maps 在內羅比及蒙巴薩導航準確，但偏遠保護區內可能無訊號，建議先下載離線地圖。Safaricom
+        在主要城鎮間的覆蓋較優。
+    - q: 奈瓦沙湖區附近可以租腳踏車嗎？適合用網路查路線嗎？
+      a: 奈瓦沙湖附近有腳踏車出租，費用約 500 肯亞先令/天。湖區周遭網路訊號穩定，可使用地圖導航。但部分湖畔小徑較偏僻，建議提前規劃路線。注意野生動物，避免騎行時靠近水牛區。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 肯亞 的飯店使用 肯亞 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Kenya eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Kenya eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Sarova Hotels, Fairmont The Norfolk, Villa Rosa
-        Kempinski or a local guesthouse, you can input the address into Google Maps
-        and get turn-by-turn walking or transit directions using your Kenya eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Kenya eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Kenya eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Uber Eats, Jumia Food, Glovo and use
-        your Kenya eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Kenya eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 內羅比塞雷娜酒店提供免費Wi-Fi嗎？速度如何？
+      a: 內羅比塞雷娜酒店提供免費 Wi-Fi，公共區域速度約 10-20 Mbps，客房內可能稍慢。若需穩定網路處理工作，建議使用 eSIM 搭配熱點分享。酒店位於市中心，Safaricom
+        訊號極佳。
+    - q: 蒙巴薩塞雷娜海灘度假村支援 eSIM 嗎？訊號強度如何？
+      a: 度假村位於迪亞尼海灘，Safaricom 覆蓋良好，eSIM 可使用 4G 網路。海灘區域訊號強度約 20-30 Mbps，但靠近水上活動區域時可能干擾。建議在房間內使用熱點分享，避免金屬屋頂遮蔽。
+    - q: 馬賽馬拉的帳篷營地有網路嗎？
+      a: 高級營地如 Mara Serena Safari Lodge 設有衛星 Wi-Fi，但頻寬有限，主要用於緊急通訊。主流營地通常提供公共區域的免費
+        Wi-Fi，但速度慢。建議使用 eSIM 搭配 Safaricom 網路，營地帳篷外訊號較佳。
+    - q: 安博塞利國家公園內的旅館網路如何？
+      a: 安博塞利國家公園內的 Amboseli Serena Safari Lodge 提供付費 Wi-Fi，但速度僅足夠發送文字訊息。若需上傳照片，使用
+        eSIM 接上 Safaricom 4G 網路效果較好，旅館大廳附近訊號最強。
+    - q: 內羅比自助公寓的網路穩定嗎？可以遠距工作嗎？
+      a: 市區如 Westlands 區的自助公寓通常提供光纖 Wi-Fi，下載速度可達 50 Mbps。但若大樓老舊可能訊號不佳，建議自備 eSIM 備用。遠距工作時可關閉視訊背景，節省頻寬。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 肯亞 旅遊景點的網路：肯亞 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Maasai Mara National Reserve, Amboseli National Park,
-        Diani Beach spontaneously, you can use your Kenya eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Kenya eSIM, you can read reviews and book local
-        tours or experiences on Tripadvisor while having coffee at a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Kenya.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Kenya eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Kenya eSIM will keep you connected throughout the
-        park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Kenya eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Kenya eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Kenya eSIM data to search 'restaurants near me' on Google Maps to
-        check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Kenya eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Kenya eSIM ensures you can scan
-        the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Kenya eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Uber Eats, Jumia Food, Glovo, register using
-        your email or social accounts, and order food seamlessly using your Kenya
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like M-Pesa,
-        Airtel Money, T-Kash require a brief internet handshake, which your Kenya
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Kenya eSIM to find hidden culinary gems in the city.
+    - q: 馬賽馬拉國家保護區的網路訊號在旺季會變差嗎？
+      a: 旺季時大量遊客使用網路，Safaricom 基地台可能壅塞，白天觀賞動物時段訊號較慢。建議清晨或傍晚使用網路，避開尖峰。保護區內特定觀景點如馬拉河訊號較佳。
+    - q: 參觀長頸鹿中心時，可以使用 eSIM 分享照片到社群媒體嗎？
+      a: 長頸鹿中心位於內羅比郊區，Safaricom 與 Airtel 皆有 4G 覆蓋，上傳照片順暢。中心內有免費 Wi-Fi，但連接人數多時速度慢。建議使用
+        eSIM 直接上傳，可即時分享與長頸鹿互動的照片。
+    - q: 在安博塞利國家公園觀賞大象時，網路夠穩定來進行視訊通話嗎？
+      a: 安博塞利國家公園內 Safaricom 網路可支援語音通話，但視訊可能因頻寬不足而延遲。建議在觀賞點如觀景山使用，但避免長時間視訊，以免消耗過多流量。可傳送語音訊息替代。
+    - q: 內羅比國家博物館有免費導覽 App 嗎？需要網路嗎？
+      a: 博物館提供免費 Wi-Fi，可下載官方導覽 App，但使用時需連網。館內部分展區訊號較弱，建議在入口處預先載入內容。eSIM 在館內可使用，但建築物厚牆可能影響訊號。
+    - q: 蒙巴薩耶穌堡附近適合用手機打卡嗎？網速如何？
+      a: 耶穌堡位於蒙巴薩舊城區，Safaricom 提供穩定 4G 訊號，打卡上傳照片沒問題。但舊城區巷道狹窄，靠近港區時可能訊號稍弱。建議在堡壘高處使用網路，視野開闊訊號佳。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 肯亞 eSIM 在 肯亞 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Kenya eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Kenya eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Kenya eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Kenya
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Kenya eSIM data allowance to check their own social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Kenya eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Kenya eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在肯亞使用 WhatsApp 通話或視訊需要額外付費嗎？
+      a: eSIM 流量方案可正常使用 WhatsApp 通話，視訊每分鐘約消耗 5-10 MB。在 Safari 區建議使用語音通話以節省流量。M-Pesa
+        也支援 WhatsApp 查詢餘額，相當方便。
+    - q: 在內羅比可以使用哪些社群媒體 App？有封鎖嗎？
+      a: Facebook、Instagram、Twitter、TikTok 皆可正常使用，無特殊封鎖。但在政府大樓附近可能訊號較弱。建議使用 eSIM 搭配
+        VPN 以保護隱私，尤其是使用公共 Wi-Fi 時。
+    - q: 在蒙巴薩舊城區使用 Instagram 直播順暢嗎？
+      a: 蒙巴薩舊城區 Safaricom 4G 覆蓋良好，但巷弄內訊號可能不穩。直播時建議站在空曠處如舊城廣場，並關閉其他背景應用程式。若直播中斷，可改用語音連線。
+    - q: 在肯亞可以使用微信嗎？功能是否受限制？
+      a: 微信在肯亞可正常使用，傳送文字、圖片及語音皆無問題。但支付功能需綁定當地銀行卡，較少人使用。飛書等中國 App 亦可運作。
+    - q: 在 Safari 期間分享即時動態到 Instagram 會消耗很多流量嗎？
+      a: 每段 15 秒的影片約 10-20 MB，照片約 2-5 MB。若每日頻繁發布，建議控制流量，或利用營地 Wi-Fi 晚間上傳。Safari 時段專注觀賞野生動物，可減少手機使用。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 肯亞 使用 肯亞 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Kenya, you can dial local emergency numbers like 112, 999, 911 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Kenya eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Kenya eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Kenya eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Kenya eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Kenya eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Kenya eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Kenya eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Kenya eSIM is significantly
-        faster and much more secure against cyber threats than using open public Wi-Fi
-        networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Kenya eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Kenya eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Kenya eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Kenya eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在肯亞遇到緊急情況如何撥打求救電話？
+      a: 通用緊急號碼為 999 或 112，可接通警察、救護車與消防。若手機無訊號，可嘗試撥打 911（轉接當地）。建議將緊急聯絡人設為手機快速撥號，並告知旅館櫃檯。
+    - q: 內羅比最好的醫院是哪家？如何用網路查詢？
+      a: 內羅比醫院（Nairobi Hospital）是主要醫療機構，位於市中心，提供 24 小時急診。可透過 Google Maps 查詢路線，並使用
+        eSIM 網路即時回報病情。建議購買旅遊保險以涵蓋醫療費用。
+    - q: 在馬賽馬拉倘若有醫療緊急狀況該怎麼辦？
+      a: 馬賽馬拉保護區內有基本醫療站，但重大狀況需送至納羅克醫院（Narok County Referral Hospital）。營地通常備有衛星電話，但使用
+        eSIM 可更快聯繫救援。建議隨身攜帶急救包。
+    - q: 在肯亞遺失護照應如何處理？可以網路報案嗎？
+      a: 立即前往最近警察局報案，取得報案單，並聯繫所屬國使館補辦。內羅比警察局總局位於市中心，可透過 Google Maps 導航。eSIM 可協助查詢使館位置及聯絡方式。
+    - q: 遇到道路搶劫時如何使用手機求援？
+      a: 保持冷靜，若情況允許，撥打 999 或 112。避免在歹徒面前使用手機。建議事先下載離線地圖，並開啟手機緊急定位功能。夜晚避免單獨行走在偏僻街道。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 肯亞 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Kenya eSIM vs Physical SIM Card: Pros and Cons Breakdown"
-  subtitle: "Kenya Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Kenya) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Kenya"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Kenya eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Safaricom official registration requires passport copy and verification via *232#; street vendors may sell unregistered SIMs risking 6 months imprisonment or KES 10,000 fine."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Safaricom store queues and passport checks. Activate your eSIM online within 1 minute after landing in Nairobi."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Kenyan Communications Authority mandates all prepaid SIMs be registered with national ID or passport since 2018; unregistered SIMs are forcibly disconnected."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Safaricom's mandatory KYC (passport copy and *232# verification), eSIM requires no ID registration, avoiding the risk of SIM disconnection."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Safaricom and Airtel monthly plans do not include East African roaming; cross-border usage triggers high fees of approximately KES 4 per MB."
-      esim_title: "Seamless East Africa Roaming"
-      esim_desc: "Avoid Safaricom's KES 4/MB roaming fees in Tanzania or Uganda. eSIM offers affordable regional data plans starting from $1.99/GB."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Safaricom offers 1-day (KES 99/500MB) and 7-day (KES 250/1GB) plans; a 5-day tourist wastes KES 100-250 on unused days."
-      esim_title: "Flexible Plans, No Waste"
-      esim_desc: "Unlike Safaricom's 7-day plan (KES 250/1GB) that forces you to pay for unused days, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed but may be throttled after certain limits."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "eSIM allows full-speed hotspot sharing without throttling, unlike some local SIMs that may limit tethering after a certain data cap."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up can be done via M-Pesa, scratch cards, or online; foreign cards may face rejection."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for M-Pesa or scratch cards."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is available via phone and retail stores; hours vary by operator."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock customer support in English, unlike local operators with limited phone hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Kenya eSIM vs SIM Card Plans: Which One Fits Your Needs?"
-    cards:
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid High Roaming Fees in East Africa"
-        desc: "Safaricom and Airtel charge <b>KES 4/MB</b> for cross-border roaming in Tanzania/Uganda. eSIM offers regional plans from <b>$1.99/GB</b>."
-      - icon: "shield"
-        icon_bg: "bg-yellow-100"
-        icon_color: "text-yellow-600"
-        title: "Keep Your Home SIM Active"
-        desc: "With eSIM, you don't need to remove your home SIM. Keep receiving <b>bank SMS</b> and <b>verification codes</b> while using data."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot Sharing"
-        desc: "Local SIMs may throttle tethering after a data cap. eSIM allows <b>full-speed hotspot</b> for all your devices."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "No Sunk Cost on Unused Days"
-        desc: "Safaricom's 7-day plan (KES 250/1GB) forces tourists to pay for unused days. eSIM provides <b>7-day plans from $1.99/GB</b>, saving up to <b>75%</b>."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

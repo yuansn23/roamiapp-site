@@ -1,94 +1,90 @@
 ---
-title: North America eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 北美 eSIM 數據方案 | 2026 最佳旅遊 eSIM | Roami
+date: '2026-05-19T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: North America eSIM
-  scenario_keywords: New York sightseeing, Los Angeles road trip, Toronto city break,
-    Mexico City exploration, Niagara Falls visit
+  core_keyword: 北美 eSIM
+  scenario_keywords: 紐約觀光, 洛杉磯公路旅行, 多倫多城市度假, 墨西哥城探索, 尼加拉瀑布遊覽
   operators: AT&T, T-Mobile, Rogers
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: New York, Los Angeles, Toronto, Mexico City, Chicago
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_cities: 紐約, 洛杉磯, 多倫多, 墨西哥城, 芝加哥
+  main_packages: 3/7/15/30 天, 無限流量
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務升級！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級為 <strong>PhoneSIMGo</strong>。<br>新客戶享 20% 折扣，優惠碼：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級為 <strong>PhoneSIM</strong>。<br>新客戶享 20% 折扣，優惠碼：web20
 seo:
-  title: Top North America eSIM  Top Local Carrier High-Speed 5G | Roami
-  description: Heading to North America soon? Enjoy Top Local Carrier Fast 5G and
-    Fair Use Data with Roami. Enjoy No Roaming Fees and Nationwide Coverage, tailored
-    for Light Travel.
-  keywords: North America eSIM, prepaid eSIM, cheap eSIM, unlimited data, travel internet,
-    no roaming charges, instant delivery
+  title: 頂級北美 eSIM | 頂級當地電信商高速 5G | Roami
+  description: 即將前往北美？透過 Roami 享受頂級當地電信商的快速 5G 與公平使用數據。享受免漫遊費與全國覆蓋，專為輕旅行設計。
+  keywords: 北美 eSIM, 預付 eSIM, 便宜 eSIM, 無限流量, 旅行上網, 免漫遊費, 即時發送
   low_price: 1.99
   high_price: 39.9
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 已選方案
+  label_data: 包含數據
+  label_validity: 有效期限
+  label_daily: 每日平均
+  label_total: 總價
+  btn_primary: 領取 20% 折扣
+  btn_secondary: '優惠碼：web20'
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: North America eSIM
+- label: 北美 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for North America
-  title: Best eSIM for North America
+  alt: 北美最佳 eSIM
+  title: 北美最佳 eSIM
 hero:
   flag_image: img/flags/ya.webp
-  flag_alt: North America Flag
-  title: North America eSIM data plan
-  subtitle: Travel with ease | Smooth video streaming | Travel essential
+  flag_alt: 北美旗幟
+  title: 北美 eSIM 數據方案
+  subtitle: 輕鬆旅行 | 流暢影片串流 | 旅行必備
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼旅人選擇 Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: QR Code 即時發送
+    desc: 5 分鐘內送達
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 客服
+    desc: 隨時為您服務
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 不滿意退款
+    desc: 資金保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 支援熱點分享
+    desc: 可分享給其他裝置
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約綁定
+    desc: 隨時取消，自由自在
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動切換
+    desc: 連接頂級電信商
+plans_title: 選擇您的方案
 plans_data:
   15 Days:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 最適合深度旅行
     price: '29.99'
     oldPrice: '44.98'
-    tag: Great Value
+    tag: 超值推薦
     tagColor: bg-emerald-500
     daily: '2.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 最適合觀光行程
     price: '10.99'
     oldPrice: '16.48'
     tag: ''
@@ -96,24 +92,24 @@ plans_data:
     daily: '0.73'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 最適合深度旅行
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: 超值推薦
     tagColor: bg-emerald-500
     daily: '0.93'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 最適合深度旅行
     price: '24.99'
     oldPrice: '37.48'
-    tag: Great Value
+    tag: 超值推薦
     tagColor: bg-emerald-500
     daily: '1.67'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 最適合您的旅程
     price: '44.99'
     oldPrice: '67.48'
     tag: ''
@@ -121,16 +117,16 @@ plans_data:
     daily: '3.00'
   30 Days:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 最適合深度旅行
     price: '54.99'
     oldPrice: '82.48'
-    tag: Great Value
+    tag: 超值推薦
     tagColor: bg-emerald-500
     daily: '1.83'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 最適合觀光行程
     price: '11.99'
     oldPrice: '17.98'
     tag: ''
@@ -138,24 +134,24 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 最適合深度旅行
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: 超值推薦
     tagColor: bg-emerald-500
     daily: '0.50'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 最適合深度旅行
     price: '25.99'
     oldPrice: '38.98'
-    tag: Great Value
+    tag: 超值推薦
     tagColor: bg-emerald-500
     daily: '0.87'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 最適合您的旅程
     price: '46.99'
     oldPrice: '70.48'
     tag: ''
@@ -163,16 +159,16 @@ plans_data:
     daily: '1.57'
   7 Days:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 最適合短期商務差旅
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.86'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 最適合觀光行程
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
@@ -180,480 +176,340 @@ plans_data:
     daily: '1.43'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 最適合深度旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 超值推薦
     tagColor: bg-emerald-500
     daily: '1.86'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 最適合深度旅行
     price: '23.99'
     oldPrice: '35.98'
-    tag: Great Value
+    tag: 超值推薦
     tagColor: bg-emerald-500
     daily: '3.43'
 discount_banner:
-  title: Special Discount!
+  title: 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時輸入優惠碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span>，即可享 <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 領取折扣
+  validity: '有效期限：3 天'
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳細資訊
+  supports_text: '支援：'
   service_details:
-    title: Service Details
+    title: 服務細節
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across North America, including major
-        cities like New York, Los Angeles, Toronto, and Mexico City. Our North America
-        eSIM seamlessly connects to the robust networks of AT&T, T-Mobile, and Rogers,
-        ensuring stable signals in urban centers, tourist hotspots, and along major
-        transportation routes.
+      title: 覆蓋範圍
+      desc: 享受北美全境（包括紐約、洛杉磯、多倫多、墨西哥城等主要城市）的全面網路覆蓋。我們的北美 eSIM 可無縫連接 AT&T、T-Mobile 和 Rogers 的穩健網路，確保在市中心、熱門景點及主要交通幹道沿線都有穩定的訊號。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 發送時間
+      desc: 購買後立即發送。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 無熱點分享限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 電信商網路
+    badge: 官方合作夥伴
     items:
     - name: AT&T
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: T-Mobile
-      coverage: Reliability
-      network: 5G/4G/LTE Network
+      coverage: 高可靠性
+      network: 5G/4G/LTE 網路
     - name: Rogers
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 原生 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請確認您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">支援 eSIM</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in North America.
+    html: 建議您抵達北美後再開啟此線路。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期限從連接到支援的網路時開始計算。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR Code 將會發送到您的電子郵件信箱。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: '不確定您的手機是否支援 eSIM？現在就可以輕鬆自行檢查：'
+    instruction: '在手機撥號鍵盤上撥打：'
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果螢幕上出現 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，表示您的裝置支援！
 activation_steps:
-  title: Activation Steps
+  title: 啟用步驟
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: '步驟 1：接收 QR Code'
+    desc: 付款完成後，QR Code 和啟用指南將在 5 分鐘內發送到您的電子郵件信箱。若未收到，請檢查垃圾郵件匣。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: '步驟 2：將 eSIM 加入手機'
     is_list: true
     list_items:
     - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+      前往 設定 > 行動服務 (或行動數據)
+    - 點擊「加入行動方案」或「加入 eSIM」
+    - 使用相機掃描 QR Code
+    - 依照提示完成設定
   - num: '3'
-    title: 'Step 3: Activate in North America'
-    desc: Upon arriving in North America, enable your North America eSIM in settings
-      to start using data. We recommend connecting to WiFi during the initial activation.
+    title: '步驟 3：在北美啟用'
+    desc: 抵達北美後，在設定中啟用您的北美 eSIM 即可開始使用數據。我們建議在初次啟用時連接 Wi-Fi。
     is_list: false
 faq_section:
-  title: North America eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your North America eSIM across different
-    travel scenarios.
+  title: 北美 eSIM 常見問答與旅遊指南
+  desc: 您需要了解的有關在不同旅遊場景下使用北美 eSIM 的一切資訊。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 一般問題
+    title: 1. 一般問題
     questions:
-    - q: Does my phone support the North America eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your North America eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the North America eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in North America
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the North America eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the North America eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in North America that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your North America eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my North America eSIM data (hotspot) with other devices?
-      a: Absolutely. All our North America eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your North America eSIM compared to local SIM
-        cards or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in North
-        America, such as AT&T, T-Mobile, Rogers, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, Holafly, Yesim,
-        Ubigi?
-      a: While great companies like Airalo, Holafly, Yesim, Ubigi offer reliable services,
-        we focus on providing the most cost-effective North America eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 我的手機支援北美 eSIM 嗎？要如何安裝？
+      a: 大多數從 iPhone XS/XR 之後、Samsung Galaxy S20+ 之後以及 Google Pixel 3+ 之後的現代智慧型手機都支援 eSIM。您只需在手機的「行動服務」設定中掃描我們發送到您電子郵件的 QR Code，即可輕鬆安裝您的北美 eSIM。
+    - q: 如何購買和啟用北美 eSIM？購買後會立即生效嗎？
+      a: 您可以直接在我們的網站上購買。它不會在購買後立即生效；有效期只有當您抵達北美且手機連接到當地網路時才開始計算。
+    - q: 什麼是啟用 QR Code？它會過期嗎？可以重複使用嗎？
+      a: QR Code 是您北美 eSIM 的數位 SIM 卡設定檔。通常需要在購買後 30 天內安裝。一旦安裝完成，就無法再次掃描或轉移到其他裝置。
+    - q: 如果北美 eSIM 無法使用或訊號不佳，我可以退款嗎？
+      a: 可以，我們提供退款保證。如果您遇到我們客服團隊無法解決的持續性網路問題，您將有資格獲得退款。
+    - q: 你們提供 24/7 客戶支援嗎？我該如何聯繫你們？
+      a: 是的，我們的技術支援團隊全年無休。您可以透過我們網站上的即時通訊小工具或回覆訂單確認郵件來聯繫我們。
+    - q: 有折扣碼嗎？如何使用 'web20' 優惠碼？
+      a: 有的！您可以在結帳頁面輸入優惠碼 'web20'，即可立即獲得北美 eSIM 訂單 20% 的折扣。
+    - q: 你們的「無限流量」方案是真的無限嗎？有公平使用政策（FUP）嗎？
+      a: 我們的無限方案提供不間斷的數據流量。但是，與所有全球電信商一樣，為了防止網路濫用，會有一套公平使用政策。如果您在短時間內消耗異常大量的數據，速度可能會暫時降低。即便如此，也不會影響您的網頁瀏覽、社交媒體使用、觀看影片等。
+    - q: 我可以將我的北美 eSIM 數據（熱點）分享給其他裝置嗎？
+      a: 當然可以。我們所有的北美 eSIM 方案都支援行動熱點和網路共享，讓您可以將數據分享給您的筆記型電腦、平板電腦或旅伴。
+    - q: 與當地 SIM 卡或其他供應商相比，你們的北美 eSIM 有什麼優勢？
+      a: 與實體 SIM 卡不同，您不需要在機場排隊或更換小塑膠卡。我們直接與北美頂級當地網路（如 AT&T、T-Mobile、Rogers）合作，以遠低於漫遊費的價格提供優質的網路速度。
+    - q: 與 Airalo、Holafly、Yesim、Ubigi 等知名 eSIM 供應商相比如何？
+      a: 雖然 Airalo、Holafly、Yesim、Ubigi 等優秀公司提供可靠的服務，但我們專注於提供最具成本效益的北美 eSIM，透過我們的自動價格比對系統，確保更低的延遲和更優惠的價格。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場網路
+    title: 2. 機場網路
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the North America eSIM before your flight. Once you land at Los Angeles
-        International Airport (LAX), Toronto Pearson International Airport (YYZ),
-        Mexico City International Airport (MEX), simply turn off Airplane Mode and
-        enable your eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your North America eSIM activated upon landing, you can immediately
-        open Uber, Lyft, Moovit to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed North America eSIM data allows you to open Google Maps right
-        at the baggage claim in Los Angeles International Airport (LAX), Toronto Pearson
-        International Airport (YYZ), Mexico City International Airport (MEX) to check
-        real-time train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our North America eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our North America eSIM provides data only. To receive SMS, keep your home
-        country's primary SIM active for texts (receiving SMS is usually free while
-        roaming) and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast North America eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 下飛機後如何立即獲得可靠的網路？
+      a: 在飛行前安裝好北美 eSIM。當您降落在洛杉磯國際機場（LAX）、多倫多皮爾遜國際機場（YYZ）、墨西哥城國際機場（MEX）時，只需關閉飛航模式並啟用您的 eSIM 線路。它會在幾秒鐘內連接到當地的 4G/5G 網路。
+    - q: 如何聯繫機場接送的司機或使用 Uber/Lyft？
+      a: 當您降落時啟用您的北美 eSIM，您可以立即打開 Uber、Lyft、Moovit 預訂車輛，或使用 WhatsApp 發訊息給您預訂的司機，而無需依賴不穩定的機場 Wi-Fi。
+    - q: 如何使用 Google Maps/Apple Maps 尋找交通工具？
+      a: 您的高速北美 eSIM 數據讓您在洛杉磯國際機場（LAX）、多倫多皮爾遜國際機場（YYZ）、墨西哥城國際機場（MEX）的行李轉盤處就可以打開 Google Maps，查看即時火車時刻表、公車路線或前往計程車站的行人步行方向。
+    - q: 如何避免在機場購買昂貴的臨時 SIM 卡？
+      a: 透過事先在線上購買我們的北美 eSIM，您完全避開了入境大廳那些專門坑遊客的 SIM 卡攤位，既省時又省錢。
+    - q: 沒有當地門號，如何接收飯店/租車公司的簡訊？
+      a: 我們的北美 eSIM 僅提供數據。要接收簡訊，請保持您家鄉的主要 SIM 卡開啟以接收文字（漫遊時接收簡訊通常是免費的），並將 eSIM 用於所有數據流量。
+    - q: 如何立即聯繫家人報平安並規劃行程？
+      a: 當您踏上陸地的那一刻，您就可以透過我們快速北美 eSIM 的行動數據使用 iMessage、WhatsApp 或 FaceTime 讓家人知道您已安全抵達。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通運輸
+    title: 3. 交通與旅行
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable North America eSIM connection ensures Google Maps can download
-        real-time traffic data and transit schedules anywhere in North America, making
-        navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Lyft, Moovit use VoIP (internet calling) and in-app messaging.
-        Since you have active North America eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your North America eSIM data to access local transit apps or
-        websites to purchase digital QR-code tickets on the go, avoiding long queues
-        at ticket machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your North America eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in North America.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our North America eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your North America eSIM's data network while
-        on the train or in the car.
+    - q: 如何使用 Google Maps/Apple Maps 規劃路線？
+      a: 我們穩定的北美 eSIM 連線確保 Google Maps 可以在北美任何地方下載即時交通數據和大眾運輸時刻表，讓導航變得輕鬆。
+    - q: 如何讓 Uber/Lyft 司機透過應用程式聯繫我？
+      a: 像 Uber、Lyft、Moovit 這類應用程式使用網路電話（VoIP）和應用程式內訊息。由於您有活躍的北美 eSIM 數據，司機可以直接透過應用程式打電話或發訊息給您，不需要本地電話號碼。
+    - q: 如何在線上購買火車/地鐵票？
+      a: 您可以使用北美 eSIM 數據存取當地交通應用程式或網站，隨時購買數位 QR Code 車票，避開售票機前的長長人龍。
+    - q: 租車後如何使用 Google Maps 進行即時導航？
+      a: 只需將手機安裝好，使用您的北美 eSIM 數據即可。5GB 或 10GB 的方案為您在北美公路旅行期間的大量 GPS 導航提供了充足的數據。
+    - q: 如何掃描解鎖 Lime/Bird 等共享電動滑板車？
+      a: 解鎖電動滑板車需要快速的網路連線來處理 QR Code 和付款。我們的北美 eSIM 提供了所需可靠的都會區覆蓋。
+    - q: 如何確保叫車應用程式在多個國家正常運作？
+      a: 如果您正在跨區域旅行，您的叫車應用程式帳戶保持不變。只需確保您有活躍的網路連線（透過我們的本地或區域 eSIM）即可叫車。
+    - q: 如何為家人裝置提供穩定的個人熱點？
+      a: 前往手機設定，啟用「個人熱點」，您的家人就可以在火車或汽車上將他們的手機或 iPad 連接到您北美 eSIM 的數據網路。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 飯店住宿
+    title: 4. 飯店與住宿
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your North America eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your North America eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Marriott, Hilton, Four Seasons or a local guesthouse,
-        you can input the address into Google Maps and get turn-by-turn walking or
-        transit directions using your North America eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your North America eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed North America eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download DoorDash, Uber Eats, Grubhub and use
-        your North America eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your North America eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 在 Booking.com/Agoda 預訂後如何進行自助入住？
+      a: 許多現代出租住宿要求您存取線上入口網站或檢查電子郵件以取得智慧鎖密碼。您的北美 eSIM 確保您可以在門口立即取得這些資訊。
+    - q: 抵達後如何立即聯繫 Airbnb 房東了解入住須知？
+      a: 您可以使用 Airbnb 應用程式的訊息功能或 WhatsApp，透過您的北美 eSIM 行動數據與房東協調您的抵達時間。
+    - q: 如何使用 Google Maps 導航到飯店？
+      a: 無論您是入住萬豪、希爾頓、四季酒店還是當地民宿，您都可以將地址輸入 Google Maps，並使用您的北美 eSIM 取得步行或大眾運輸的逐向導航。
+    - q: 如何使用飯店 Wi-Fi 和 eSIM 接收簡訊驗證碼？
+      a: 保持您的主要家鄉 SIM 卡開啟以接收簡訊，並使用飯店 Wi-Fi 或您的北美 eSIM 數據來觸發銀行或應用程式的驗證碼。
+    - q: 如何快速聯繫 Booking/飯店客服更改訂單？
+      a: 您可以使用 Skype 等網路電話應用程式，或使用高速北美 eSIM 數據在 Booking.com 應用程式內使用客服聊天功能。
+    - q: 如何使用當地外送應用程式將餐點送到飯店？
+      a: 如果您抵達時間較晚，您可以下載 DoorDash、Uber Eats、Grubhub，並使用您的北美 eSIM 數據直接將熱食送到飯店大廳或房間。
+    - q: 退房後如何保持網路連線以與飯店溝通？
+      a: 一旦您離開飯店的 Wi-Fi 範圍，您的北美 eSIM 會自動接手，讓您可以在忘記行李或需要安排稍後取件時發訊息給飯店。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點娛樂
+    title: 5. 景點與娛樂
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Grand Canyon, Niagara Falls, Statue of Liberty spontaneously,
-        you can use your North America eSIM data to buy skip-the-line tickets online
-        and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your North America eSIM, you can read reviews and
-        book local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring North America.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your North America eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your North America eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your North America eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast North America eSIM upload speeds mean you can post high-quality
-        stories, reels, and photos of your trip in real-time without waiting for hotel
-        Wi-Fi.
+    - q: 如何透過 GetYourGuide/Viator 購買電子票券？
+      a: 如果您臨時決定前往大峽谷、尼加拉瀑布、自由女神像，您可以使用北美 eSIM 數據在線上購買免排隊門票，並在螢幕上顯示條碼。
+    - q: 如何在 Tripadvisor 上立即預訂體驗？
+      a: 憑藉北美 eSIM 可靠的 4G/5G 訊號，您可以在附近的咖啡廳喝咖啡的同時，閱讀評論並預訂當地旅遊或體驗。
+    - q: 參觀期間如何使用 Google/維基百科查詢資訊？
+      a: 在探索北美時，即時搜尋歷史事實或翻譯博物館解說牌，提升您的文化體驗。
+    - q: 如何使用 Google Maps 導航到下一個景點？
+      a: 只需在 Google Maps 中輸入您的下一個目的地；您的北美 eSIM 強大的都會區覆蓋將透過最快的步行或大眾運輸路線為您導航。
+    - q: 如何在迪士尼等主題樂園查看即時排隊時間？
+      a: 主題樂園應用程式需要持續的網路存取才能顯示即時等待時間和預訂快速通行證。您的北美 eSIM 將讓您在整個園區內保持連線。
+    - q: 如何存取 Ticketmaster 預訂表演門票？
+      a: 您可以使用北美 eSIM 行動數據，透過票務應用程式安全地瀏覽並購買最後一刻的劇院或演唱會門票。
+    - q: 如何即時分享照片/影片到 Instagram/Facebook？
+      a: 我們快速的北美 eSIM 上傳速度意味著您可以即時發布高品質的旅遊故事、Reels 和照片，無需等待飯店 Wi-Fi。
   - id: faq-dining
     icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
+    tab_title: 餐飲美食
+    title: 6. 餐飲與餐廳
     questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your North America eSIM data to search 'restaurants near me' on Google
-        Maps to check ratings, opening hours, and photos of the menu before walking
-        in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your North America eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your North America eSIM ensures you
-        can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your North America
-        eSIM to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like DoorDash, Uber Eats, Grubhub, register using
-        your email or social accounts, and order food seamlessly using your North
-        America eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Visa,
-        Mastercard, Apple Pay require a brief internet handshake, which your North
-        America eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your North America eSIM to find hidden culinary gems in the city.
+    - q: 如何使用 Google Maps/Tripadvisor 尋找餐廳？
+      a: 使用您的北美 eSIM 數據在 Google Maps 上搜尋「我附近的餐廳」，在走進去之前查看評分、營業時間和菜單照片。
+    - q: 如何透過 OpenTable 或餐廳網站訂位？
+      a: 當您在外面觀光時，可以使用北美 eSIM 存取訂位平台，輕鬆確保晚餐訂位。
+    - q: 如何掃描餐廳 QR Code 查看電子菜單？
+      a: 現在許多餐廳使用數位菜單。您的北美 eSIM 確保您可以掃描桌上的 QR Code 並立即載入菜單。
+    - q: 如何使用 Google Translate 相機功能翻譯菜單？
+      a: 打開 Google Translate 應用程式，選擇相機功能，並將其對準當地菜單。它需要透過您的北美 eSIM 連線才能準確處理即時翻譯。
+    - q: 如何註冊並使用國際版的 Uber Eats/DoorDash？
+      a: 您可以下載當地應用程式如 DoorDash、Uber Eats、Grubhub，使用您的電子郵件或社群帳戶註冊，並透過北美 eSIM 行動數據無縫點餐。
+    - q: 如何使用 Apple Pay/Google Pay 順利結帳？
+      a: 透過 Apple Pay、Google Pay 或 Visa、Mastercard、Apple Pay 等當地方式進行的感應式付款需要短暫的網路握手，您的北美 eSIM 可以完美處理。
+    - q: 如何尋找 Yelp/美食部落客推薦的餐廳？
+      a: 您可以使用北美 eSIM 在行動中串流 YouTube 美食影片或瀏覽 Yelp 評論，發掘城市中隱藏的美食瑰寶。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社群通訊
+    title: 7. 社群媒體與通訊
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        North America eSIM providing the internet, you can chat and call exactly as
-        you do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G North America eSIM gives
-        you the bandwidth needed to upload heavy video files to TikTok or Instagram
-        securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the North America eSIM are clear and lag-free, no matter where you are
-        in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal North
-        America eSIM cellular data is encrypted and vastly safer for logging into
-        accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your North America eSIM data allowance to check their own
-        social media.
+    - q: 如何在海外穩定使用 WhatsApp/Telegram？
+      a: 您的 WhatsApp 和 Telegram 帳戶綁定的是您家鄉的門號。有了提供網路的北美 eSIM，您可以像在國內一樣聊天和通話。
+    - q: 如何在不連接公共 Wi-Fi 的情況下上傳內容到 Instagram/TikTok？
+      a: 公共 Wi-Fi 可能緩慢且不安全。我們的 4G/5G 北美 eSIM 為您提供了安全上傳大型影片檔案到 TikTok 或 Instagram 所需的頻寬。
+    - q: 如何與家人進行 FaceTime/WhatsApp 視訊通話？
+      a: 我們的低延遲網路合作夥伴確保您透過北美 eSIM 進行的 FaceTime 和視訊通話清晰且無延遲，無論您在美國的哪個地方。
+    - q: 連接公共 Wi-Fi 登入社群帳戶安全嗎？
+      a: 公共 Wi-Fi 網路容易受到駭客攻擊。使用您個人北美 eSIM 的行動數據是加密的，對於登入帳戶而言安全得多。
+    - q: 如何以個人熱點與旅伴分享網路？
+      a: 打開您手機的熱點功能。您的朋友可以連接到您的 Wi-Fi 網路，並使用您北美 eSIM 的數據流量來查看他們自己的社群媒體。
   - id: faq-crossborder
     icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
+    tab_title: 跨國旅行
+    title: 8. 跨國旅行
     questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country North America eSIM, it only works there. For
-        multi-country trips, we highly recommend our Regional eSIM (e.g., Europe eSIM),
-        which covers multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your North America eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在歐洲多國旅行時，是否需要為每個國家購買不同的 SIM 卡？
+      a: 如果您購買的是單一國家的北美 eSIM，則僅在該國有效。對於多國旅行，我們強烈推薦我們的區域 eSIM（例如歐洲 eSIM），它可以用一個設定檔覆蓋多個國家。
+    - q: 搭乘火車跨國時如何避免高額漫遊費？
+      a: 關閉您家鄉 SIM 卡的「數據漫遊」。確保將您的北美 eSIM 設定為主要數據線路，這樣您永遠不會產生來自您家鄉電信商的意外費用。
+    - q: 在新加坡/杜拜轉機時如何獲得短期網路？
+      a: 您可以購買一個低成本的 1GB eSIM，專門用於您的轉機國家，讓您在轉機期間保持連線。
+    - q: 如何為郵輪岸上觀光獲得經濟實惠的當地網路？
+      a: 與其支付昂貴的郵輪 Wi-Fi，不如為您停靠的國家啟用當地的 eSIM。當您靠近岸邊時，它就會自動連線。
+    - q: 如何確保在跨國公路旅行中 Google Maps 保持線上？
+      a: 使用區域 eSIM，當您開車穿越邊境時，您的手機會自動切換到新國家的網路，保持您的 GPS 活躍。
+    - q: 如何使用一個應用程式管理多國的數據用量？
+      a: 您可以透過我們網站的使用者儀表板直接追蹤您所有活躍 eSIM 的數據用量。
+    - q: 在多國旅行期間如何保持穩定的聯繫方式？
+      a: 由於您的 WhatsApp/iMessage 依賴數據，使用區域 eSIM 可確保您的親朋好友始終可以透過同一個門號聯繫到您，不會中斷。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 9. 緊急情況
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In North America, you can dial local emergency numbers like 911 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your North America eSIM data allows you to immediately search Google Maps
-        for 'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your North America eSIM to find
-        the exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your North America eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        North America eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your North America eSIM, use
-        your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
+    - q: 在不熟悉的國家如何撥打當地緊急電話？
+      a: 在北美，只要您的手機能收到任何行動訊號，您可以直接從手機撥號器撥打當地緊急號碼（如 911），無論您使用哪張活躍 SIM 卡。
+    - q: 突然生病時如何找到最近的醫院/藥局？
+      a: 您的北美 eSIM 數據讓您可以立即在 Google Maps 上搜尋「我附近的藥局」或「醫院」，並取得最快路徑。
+    - q: 遺失護照後如何尋找大使館/領事館資訊？
+      a: 您可以使用北美 eSIM 快速瀏覽網際網路，找到您國家大使館的確切地址、緊急聯絡電子郵件和辦公時間。
+    - q: 發生意外時如何聯繫旅遊保險公司的救援熱線？
+      a: 使用 Skype 或 Viber 等網路電話應用程式，透過您的北美 eSIM 數據撥打保險公司的國際免付費電話。
+    - q: 在不安全區域如何即時分享位置？
+      a: 您可以使用 WhatsApp 的「分享即時位置」或 Apple 的「尋找」功能，透過您的北美 eSIM 行動數據，持續向信任的朋友廣播您的 GPS 座標。
+    - q: 前往偏遠地區前如何下載離線地圖/關鍵位置？
+      a: 當您仍擁有北美 eSIM 強大的城市覆蓋時，請使用您的數據在 Google Maps 中下載離線區域，以防您進入訊號中斷的山區或深郊區。
   - id: faq-business
     icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
+    tab_title: 商務工作
+    title: 10. 商務與工作
     questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our North America eSIM connects to premium local networks, providing the
-        high bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the North America eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your North America eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your North America eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your North America eSIM, you can rapidly upload
-        presentations or large documents to Google Drive or Dropbox directly from
-        the exhibition floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your North America eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your North America eSIM to update them on flight delays or
-        schedule changes.
+    - q: 如何確保 Zoom/Microsoft Teams 視訊會議穩定？
+      a: 我們的北美 eSIM 連接到頂級當地網路，提供流暢、專業視訊會議所需的高頻寬和低延遲。
+    - q: 商務差旅期間如何安全連接到公司 VPN 存取內部系統？
+      a: 我們的行動數據不限制 VPN 協定。您可以透過北美 eSIM 網路安全地啟動公司 VPN 應用程式，以存取內部伺服器。
+    - q: 在機場/咖啡廳如何使用行動熱點為筆記型電腦提供網路？
+      a: 只需啟用手機的「個人熱點」。分享您的北美 eSIM 比使用開放的公共 Wi-Fi 網路更快，而且對於防範網路威脅來說安全得多。
+    - q: 如何確保收到銀行/公司電子郵件驗證碼？
+      a: 保持您家鄉 SIM 卡開啟以接收簡訊，並使用您的北美 eSIM 數據來接收基於電子郵件的 2FA 驗證碼或來自驗證器應用程式的推播通知。
+    - q: 如何在客戶端/展覽會現場快速上傳大型檔案到雲端硬碟？
+      a: 憑藉北美 eSIM 的 5G/4G LTE 速度，您可以直接在展場快速將簡報或大型文件上傳到 Google Drive 或 Dropbox。
+    - q: 如何無縫使用 Slack/Gmail/Google Drive 進行協作？
+      a: 您的北美 eSIM 提供持續的連線能力，確保您即時收到 Slack 通知和重要電子郵件，讓您與團隊保持同步。
+    - q: 如何隨時線上更新行程以便與公司溝通？
+      a: 您可以使用北美 eSIM 在行動中存取公司差旅入口網站或發送電子郵件給人資部門，告知他們航班延誤或行程變更。
 related_products:
-  title: Related eSIM Plans
+  title: 相關 eSIM 方案
   items:
-  - name: united states eSIM
+  - name: 美國 eSIM
     flag: img/flags/us.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: United-Kingdom
+  - name: 英國 eSIM
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: Europe eSIM
+  - name: 歐洲 eSIM
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: true
-  - name: Canada eSIM
+  - name: 加拿大 eSIM
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: Turkey eSIM
+  - name: 土耳其 eSIM
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: China eSIM
+  - name: 中國 eSIM
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: Hong Kong eSIM
+  - name: 香港 eSIM
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: France eSIM
+  - name: 法國 eSIM
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: Spain eSIM
+  - name: 西班牙 eSIM
     flag: img/flags/es.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: Germany eSIM
+  - name: 德國 eSIM
     flag: img/flags/de.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: Australia eSIM
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
 ---

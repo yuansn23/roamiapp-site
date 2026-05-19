@@ -1,102 +1,96 @@
 ---
-title: Taiwan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 台灣 eSIM 方案 | 台灣 eSIM | Roami
+date: '2026-05-19T10:12:16+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Taiwan eSIM
-  scenario_keywords: Taipei sightseeing, night market exploring, high-speed rail travel,
-    hot springs relaxation
-  operators: Chunghwa Telecom, FarEasTone, Taiwan Mobile
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Taipei, New Taipei City, Taichung, Kaohsiung, Tainan
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 台灣 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食, 夜市
+  operators: 中華電信, 台灣大哥大, 遠傳電信
+  competitors: Airalo, Holafly, Nomad, Ubigi, 3HK
+  main_cities: 台北, 台中, 高雄, 台南, 花蓮
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Taiwan eSIM | 20% OFF| Native 5G for Business Trips | Roami
-  description: Planning a trip to Taiwan? Experience 24/7 Data and seamless Native
-    5G from Chunghwa Telecom. Enjoy Zero Contracts and Seamless Coverage, tailored
-    for Business Trips.
-  keywords: Taiwan eSIM, prepaid eSIM Taiwan, unlimited data Taiwan, cheap eSIM Taiwan,
-    travel internet Taiwan
-  low_price: 1.99
-  high_price: 39.9
+  title: 台灣 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
+  description: 台灣旅遊必備 Roami eSIM，支援 5G 網路自動切換。立即選購並輸入折扣碼 20%，以高品質網路與超值價格，讓您的旅程連線無憂。
+  keywords: 台灣旅遊, eSIM, 台灣網路覆蓋, 中華電信, 台灣大哥大, 遠傳電信, 台北101, 九份, 日月潭, 台鐵高鐵, 行動支付, 緊急電話
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 台灣 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Taiwan eSIM
+- label: 台灣 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Taiwan
-  title: Best eSIM for Taiwan
+  alt: 最佳 台灣 eSIM
+  title: 最佳 台灣 eSIM
 hero:
   flag_image: img/flags/tw.svg
-  flag_alt: Taiwan Flag
-  title: Taiwan eSIM data plan
-  subtitle: Worry-free internet | Bestseller | Top rated
+  flag_alt: 台灣 國旗
+  title: 台灣 eSIM - 旅行計劃
+  subtitle: 台灣 eSIM | 100%退款保證 | 無隱藏費用 | 即時交付
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 台灣 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 台灣 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '13.99'
     oldPrice: '20.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.00'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.28'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -104,41 +98,41 @@ plans_data:
     daily: '0.57'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.57'
   - spec: Unlimited traffic
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '20.99'
     oldPrice: '31.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.00'
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '22.99'
     oldPrice: '34.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.77'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -146,49 +140,49 @@ plans_data:
     daily: '0.20'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.27'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.43'
   - spec: Unlimited traffic
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '69.99'
     oldPrice: '104.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.33'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '31.99'
     oldPrice: '47.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.07'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -196,57 +190,57 @@ plans_data:
     daily: '0.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.87'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '42.99'
     oldPrice: '64.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.87'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '20.99'
     oldPrice: '31.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.40'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '25.99'
     oldPrice: '38.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.73'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -254,559 +248,361 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '5.99'
     oldPrice: '8.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '9.99'
     oldPrice: '14.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.33'
 discount_banner:
-  title: Special Discount!
+  title: 台灣 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 台灣 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Taiwan, including major cities
-        like Taipei, Taichung, Kaohsiung. Our Taiwan eSIM seamlessly connects to the
-        robust networks of Chunghwa Telecom, FarEasTone, Taiwan Mobile, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個台灣享受廣泛的網路覆蓋，包括台北、台中、高雄等城市。我們的台灣 eSIM 無縫連接到中華電信、台灣大哥大、遠傳電信的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制，可與旅伴共享網路。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: Chunghwa Telecom
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: FarEasTone
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Taiwan Mobile
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+    - name: 中華電信
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
+    - name: 台灣大哥大
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 台灣 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Taiwan.
+    html: 建議抵達 台灣 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 台灣 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 台灣 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 台灣 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 台灣 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 台灣」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Taiwan'
-    desc: Upon arriving in Taiwan, enable your Taiwan eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 台灣 時，只需開啟 eSIM
+      – 有效期將在首次連接到 中華電信 / 台灣大哥大 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 台灣：立即連上 5G/4G 網路
+    desc: 當您降落在 台灣（例如 台灣桃園國際機場 (TPE), 高雄國際機場 (KHH), 台北松山機場 (TSA)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 台灣。幾秒鐘內，您的設備將自動連接到 中華電信 / 台灣大哥大 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Taiwan eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Taiwan eSIM across different
-    travel scenarios.
+  title: 台灣 eSIM：完整指南和常見問題
+  desc: 使用 台灣 eSIM 在 台灣 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 台灣 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Taiwan eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Taiwan eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Taiwan eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Taiwan and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Taiwan eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Taiwan eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Taiwan that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Taiwan eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Taiwan eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Taiwan eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Taiwan eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Taiwan,
-        such as Chunghwa Telecom, FarEasTone, Taiwan Mobile, to ensure premium speeds
-        at a fraction of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, Nomad eSIM,
-        esim io, Holafly?
-      a: While great companies like Airalo, Nomad eSIM, esim io, Holafly offer reliable
-        services, we focus on providing the most cost-effective Taiwan eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在台北車站附近使用中華電信網路看 YouTube 4K 順暢嗎？
+      a: 在台北車站周邊，中華電信的 5G 網路相當穩定，平均下載速度約 50-80 Mbps，足以流暢觀看 4K YouTube 影片。不過，尖峰時段（如週末下午）人潮較多時，速度可能降至
+        20-30 Mbps，但仍可無緩衝播放 1080p。建議避開台北車站大廳正下方區域（那兒信號略有衰減），可移至捷運站出口附近使用。每日使用超過 5GB
+        後，速度可能降為 5 Mbps，但對於社群媒體和一般影片仍足夠。
+    - q: 在九份老街使用 eSIM 網路，哪家運營商訊號最好？
+      a: 九份老街位於山區，建築密集，訊號容易受影響。根據經驗，中華電信在此處表現最佳，戶外區域（如基山街）下載速度約 20-40 Mbps，室內可能降為
+        10 Mbps。台灣大哥大在某些角落（如阿柑姨芋圓附近）訊號較弱，遠傳電信則較穩定但速度稍慢。建議選用支援多運營商的 eSIM（如我們提供的），自動切換至最佳訊號。若在昇平戲院內使用，可能需移步至窗邊以獲得較佳連線。
+    - q: 在台南花園夜市使用台灣大哥大網路打卡上傳照片快嗎？
+      a: 花園夜市人潮洶湧，晚上 7-9 點為高峰，此時台灣大哥大 4G 網路下載速度約 10-20 Mbps，上傳約 5-10 Mbps，上傳照片到 Instagram
+        約需 1-2 秒，但影片可能需稍等。建議關閉 5G 以保持穩定（5G 在人潮密集處易切換頻段導致短暫中斷）。若在夜市深處（近停車場），訊號較弱，可連上公眾
+        Wi-Fi（需手機號碼驗證）。eSIM 用戶可切換至中華電信網路，通常上傳速度提升約 30%。
+    - q: 在太魯閣國家公園內，eSIM 網路收得到訊號嗎？
+      a: 太魯閣國家公園地勢險峻，峽谷區域（如燕子口、九曲洞）中華電信和遠傳電信有部分 4G 覆蓋，但速度較慢（約 5-15 Mbps），僅足夠傳送文字訊息和低解析度圖片。台灣大哥大在布洛灣、天祥等台地訊號較好（約
+        20 Mbps）。建議提前下載離線地圖，並避免在隧道內使用。eSIM 無需實體，切換運營商方便，若在砂卡礑步道深處可能完全無訊號，請以安全為優先。
+    - q: 在台中逢甲夜市使用遠傳電信網路叫 Uber 快嗎？
+      a: 逢甲夜市人潮眾多，遠傳電信網路在福星路、文華路一帶約 15-25 Mbps，叫車 App 定位和發送請求順暢，通常 5-10 秒內配對成功。但尖峰時段（週五、六晚間）可能因為網路擁擠導致地圖載入稍慢，建議提前一兩分鐘叫車。若在屋內（如餐廳內），訊號可能減弱，可移至室外使用。eSIM
+        用戶可考慮手動切換至中華電信，其基地台密度較高，叫車體驗更穩定。
+    - q: 在台灣使用 eSIM 需要實名認證嗎？會不會有鎖機風險？
+      a: 購買台灣 eSIM 通常無需提供護照或實名認證，因為 eSIM 屬於漫遊服務，由國外運營商提供。但若您購買的是本地運營商預付卡 eSIM（如中華電信預付卡），則需依
+        NCC 規定，到電信門市或透過 App 上傳護照進行認證。我們的 eSIM 無需這些步驟，購買後掃描 QR 碼即可啟用，且不會鎖定手機（請確認手機為解鎖版）。風險極低，若遇到無法上網，請檢查
+        APN 設定或聯繫客服。
+    - q: 在高雄捷運搭車時，eSIM 網路會斷斷續續嗎？
+      a: 高雄捷運紅線（如美麗島、中央公園站）隧道內中華電信和遠傳電信皆有 4G/5G 覆蓋，但行進中可能因切換基地台而短暫中斷（約 1-2 秒）。台灣大哥大在部分區段（如橋頭糖廠站附近）訊號較弱。建議開啟飛航模式後重連，或固定在
+        4G 以減少切換。在美麗島站大廳（光之穹頂）網路速度最佳，可達 40 Mbps。整體而言，eSIM 在捷運上足以使用社群軟體和聽串流音樂。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 台灣 機場：如何使用 台灣 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Taiwan eSIM before your flight. Once you land at Taoyuan International
-        Airport (TPE), Taipei Songshan Airport (TSA), Kaohsiung International Airport
-        (KHH), simply turn off Airplane Mode and enable your eSIM line. It will connect
-        to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Taiwan eSIM activated upon landing, you can immediately open Uber,
-        Taiwan High Speed Rail App, YouBike to book a ride or use WhatsApp to message
-        your pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Taiwan eSIM data allows you to open Google Maps right at
-        the baggage claim in Taoyuan International Airport (TPE), Taipei Songshan
-        Airport (TSA), Kaohsiung International Airport (KHH) to check real-time train
-        schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Taiwan eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Taiwan eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Taiwan eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 在桃園國際機場如何啟用 eSIM？應該在落地前還是落地後掃碼？
+      a: |-
+        建議您在出發前購買 eSIM 並掃描 QR 碼（需要網路連線），但實際啟用請在飛機降落台灣後再開啟。若事先掃碼，eSIM 會開始計時，浪費使用時間。桃園機場第一航廈入境大廳有免費 Wi-Fi（需使用護照號碼或手機簡訊驗證），您也可以連接後立即啟用。啟用步驟：設定 -> 行動服務 -> 加入行動方案，選擇剛安裝的 eSIM，然後開啟數據漫遊。通常 1-3 分鐘內連上網路，運營商自動選取中華電信或台灣大哥大。
+    - q: 從松山機場入境，購買 eSIM 後能立刻連上網路嗎？
+      a: 松山機場規模較小，但同樣有 Wi-Fi 可輔助啟用。您的 eSIM 在購買後會通過郵件發送 QR 碼，建議在候機時先掃碼安裝（完成安裝但關閉該線路），抵達松山機場後打開此線路並啟用數據漫遊。通常連線非常快速，約
+        10-30 秒內即可註冊到台灣大哥大或中華電信。松山機場大廳訊號良好，下載速度約 30-50 Mbps。若無法連線，請手動選擇運營商（搜尋網路後選「Chunghwa
+        Telecom」或「TWM」）。
+    - q: 在高雄國際機場，eSIM 和實體 Sim 卡哪個網路速度比較好？
+      a: 兩者在高雄國際機場的訊號表現相似，但 eSIM 無需更換卡片，可保留原號碼方便接收簡訊。中華電信在機場內平均速度約 40-60 Mbps，台灣大哥大約
+        30-50 Mbps，遠傳電信約 25-40 Mbps。若您使用實體漫遊卡，可能需手動設定 APN，而 eSIM 通常自動配置。機場內各運營商皆有室內小型基地台，因此訊號穩定。建議選擇支援多運營商的
+        eSIM，以自動切換至最強訊號。不論使用何種方案，建議在入境後立即測試，若有問題可聯繫線上客服。
+    - q: 在桃園機場第二航廈，哪些地方有免費 Wi-Fi 可以下載 eSIM 設定？
+      a: 桃園機場第二航廈全區由「CHT Wi-Fi」提供免費無線網路，連線步驟：選擇「CHT Wi-Fi」，開啟瀏覽器，輸入手機號碼（可輸入您台灣當地號碼或國外號碼）並接收簡訊驗證碼，或使用護照號碼認證（若外國人）。建議在入境大廳（1
+        樓）或出境大廳（3 樓）上網，訊號最強。如果在行李轉盤區（1 樓）連線不穩，可移步至一旁的座椅區。另外，第二航廈內的星巴克、麥當勞也提供 Wi-Fi，但需消費後取得密碼。
+    - q: 我抵達台灣時忘記安裝 eSIM，有補救辦法嗎？
+      a: 別擔心，您可以先連接機場免費 Wi-Fi（桃園機場為 CHT Wi-Fi，松山機場為 TPE-Free，高雄機場為 KHH-WiFi），然後登入您的
+        eSIM 購買平台（如官網或客服信箱）獲取 QR 碼。若您使用我們服務，QR 碼會保留在您的帳戶中，隨時可下載。請在 iPhone 或 Android
+        上進入「設定-行動服務-加入行動方案」掃描。如果沒有額外裝置掃 QR 碼，可請求機場服務台協助（需提供購買證明）。啟用後，通常 2-5 分鐘內即可連網。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 台灣 eSIM 用於 台灣 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Taiwan eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Taiwan, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Taiwan High Speed Rail App, YouBike use VoIP (internet calling)
-        and in-app messaging. Since you have active Taiwan eSIM data, drivers can
-        call or message you directly through the app without needing a local phone
-        number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Taiwan eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Taiwan eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Taiwan.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Taiwan eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Taiwan eSIM's data network while on
-        the train or in the car.
+    - q: 在台灣搭高鐵時，eSIM 的網路速度穩定嗎？能追劇嗎？
+      a: 台灣高鐵列車行駛時速約 300 公里，但車廂內有基地台覆蓋，中華電信和遠傳電信沿線提供 4G/5G 訊號，平均下載速度約 20-40 Mbps。在隧道區段（如台北至桃園間）可能短暫中斷
+        5-10 秒，但穿出後立即恢復。觀看 Netflix 或 YouTube 1080p 通常流暢，5G 用戶在台中以南偶遇降速。建議避開台北、台中、高雄三站停靠時的擁擠區段（人潮使速度略降）。eSIM
+        無需換卡，非常適合高鐵旅程中持續使用。
+    - q: 在台北捷運使用 eSIM 叫 Uber 或台灣大車隊，定位準確嗎？
+      a: 台北捷運地下路線 GPS 定位較差，但市區內（如忠孝復興站、台北車站）仍有微弱訊號輔助。建議您走出捷運站後再叫車，定位精準度較高。台灣大車隊使用基地台輔助定位，在地面區域誤差約
+        10-20 公尺。若在捷運站內使用 Uber，可手動輸入上車地點（如「台北車站東三門」）。eSIM 網路連線速度快，叫車請求發出後約 5 秒內配對成功，支付時使用
+        Apple Pay 或信用卡也很順暢。
+    - q: 從桃園機場到台北市區，使用 eSIM 的 Google Maps 導航功能正常嗎？
+      a: 桃園機場至台北的國道一號和國道二號沿線網路覆蓋良好，中華電信平均速度 30-50 Mbps，Google Maps 導航即時更新路況訊息（如壅塞、事故），語音指引流暢無延遲。但行經林口爬坡路段時，可能有短暫訊號弱化（速度降至
+        10 Mbps 以下），導航仍離線運作，路徑不會中斷。建議出發前預載台北地圖（離線地圖），以防遇到臨時斷訊。eSIM 可保持背景數據開啟，確保路況更新及時。
+    - q: 在台灣騎自行車（如 YouBike）時，用 eSIM 聽音樂會斷續嗎？
+      a: 在都會區（台北、台中、高雄）騎 YouBike 時，中華電信 4G 網路足以支援 Spotify、Apple Music 在線串流，音質在標準模式下無卡頓。但在河濱公園（如台北大佳河濱、台中柳川）可能因距離基地台較遠，偶爾緩衝
+        1-2 秒。建議將音樂下載至手機，配合離線播放使用。此外，eSIM 支援熱點分享，可讓手機當作行車記錄器，但騎行時請注意安全。速度方面，典型的 YouBike
+        路徑（如信義計畫區）下載約 20-40 Mbps，串流完全足夠。
+    - q: 從花蓮到台東的台鐵區間車上，eSIM 網路收得到嗎？使用社群軟體順暢嗎？
+      a: 花蓮至台東的台鐵沿線（花東縱谷）部分地區（如瑞穗、池上附近）網路訊號較弱，中華電信和遠傳電信在平地區域表現較佳，平均速度約 15-30 Mbps，但經過隧道（如舞鶴、山里隧道）時會中斷約
+        1-2 分鐘。台灣大哥大在山區路段可能降為 3G（約 2-5 Mbps），基本能收發 LINE 訊息和低速瀏覽。建議準備離線地圖和下載社群媒體的貼文。eSIM
+        可自動切換運營商，當中華電信訊號弱時轉至遠傳，維持基本連線。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 台灣 的飯店使用 台灣 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Taiwan eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Taiwan eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at W Taipei, Grand Hyatt Taipei, The Okura Prestige
-        Taipei or a local guesthouse, you can input the address into Google Maps and
-        get turn-by-turn walking or transit directions using your Taiwan eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Taiwan eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Taiwan eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Foodpanda, Uber Eats, Oddle and use
-        your Taiwan eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Taiwan eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 台北君悅酒店內有免費 Wi-Fi，還需要 eSIM 嗎？
+      a: 台北君悅酒店提供全區免費 Wi-Fi，但速度因使用者眾多而波動（晚上尖峰時段約 10-20 Mbps）。eSIM 可作為備用網路，尤其當您在大廳、餐廳或健身房等需要切換網路時更便利。此外，外出旅行時（如前往象山步道、夜市），eSIM
+        是主要連線來源，不必依賴不穩定的公用 Wi-Fi。建議搭配使用：酒店內用 Wi-Fi 處理大量數據（如影片下載），外出時啟用 eSIM 保持不間斷連線。
+    - q: 台中逢甲商旅房間內 eSIM 訊號如何？可以視訊會議嗎？
+      a: 逢甲商旅位於逢甲夜市核心，房間內中華電信 4G 訊號約 2-3 格，下載速度約 15-25 Mbps，足以進行 Zoom 或 Google Meet
+        視訊會議（720p 順暢）。但如遇夜市人潮時段（18-22 點），基地台負載較重，速度可能降至 8-12 Mbps，語音通話仍清晰，視訊可能出現延遲。建議靠窗位置訊號較佳，或使用
+        eSIM 的自動切換功能，若中華電信不穩會轉至台灣大哥大（在該區域表現略好）。若需穩定連線，可連接房間 Wi-Fi（需向櫃檯索取密碼）。
+    - q: 高雄漢來大飯店是否有網路限制？使用 eSIM 會更好嗎？
+      a: 漢來大飯店的免費 Wi-Fi 提供基本瀏覽，但對於串流影音或遊戲可能設有流量限制（通常每日 1-2GB 後降速）。使用 eSIM 則無此限制，可暢快觀看
+        Netflix 或玩手遊。飯店各樓層訊號：中華電信在客房內約 20-40 Mbps，高樓層（如 28-40 樓）因基地台視角問題可能略降至 15 Mbps。eSIM
+        搭配 VPN 還能解鎖部分海外內容。建議將 eSIM 作為主要數據來源，飯店 Wi-Fi 作為備用。
+    - q: 在花蓮民宿（例如迴音谷森林民宿）使用 eSIM 網路穩定嗎？
+      a: 迴音谷位於花蓮市區旁的山區，森林環繞，中華電信在戶外庭院速度約 10-20 Mbps，室內則降至 5-10 Mbps，可能無法順暢看 4K 影片，但
+        LINE 通話和網頁瀏覽沒問題。台灣大哥大在此區域訊號較弱，遠傳電信則偶爾斷線。建議選用中華電信為主的 eSIM，並於晚上使用時關閉 5G（因 5G
+        穿透力較差）。民宿多提供 Wi-Fi，但速度可能類似，eSIM 可作為可靠備援。若您需要上傳高畫質照片，建議嘗試連接民宿 Wi-Fi 同時開啟 eSIM
+        以提升頻寬。
+    - q: 使用 eSIM 在台灣飯店內分享熱點給筆電工作，會被降速嗎？
+      a: 我們的 eSIM 支援熱點分享，且無額外降速限制。不過，長時間大量使用（如連續上傳大檔案）可能觸發公平使用政策，導致一段時間速度略降（例如降至 5
+        Mbps 幾小時），這在一般飯店使用情境鮮少發生。建議筆電用於收發郵件、網頁瀏覽和文件編輯即可，串流影片則用手機直連。中華電信和遠傳電信的熱點分享體驗順暢，延遲約
+        30-50ms。若飯店 Wi-Fi 不佳，eSIM 熱點是理想的替代方案。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 台灣 旅遊景點的網路：台灣 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Taipei 101, Taroko Gorge, Sun Moon Lake spontaneously,
-        you can use your Taiwan eSIM data to buy skip-the-line tickets online and
-        present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Taiwan eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Taiwan.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Taiwan eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Taiwan eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Taiwan eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Taiwan eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Taiwan eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Taiwan eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Taiwan eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Taiwan eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Foodpanda, Uber Eats, Oddle, register using
-        your email or social accounts, and order food seamlessly using your Taiwan
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Line
-        Pay, JKO Pay, EasyCard require a brief internet handshake, which your Taiwan
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Taiwan eSIM to find hidden culinary gems in the city.
+    - q: 在台北101觀景台使用 eSIM 拍照上傳社群，速度快嗎？
+      a: 台北101觀景台位於 89 樓，中華電信和台灣大哥大基地台訊號良好，下載速度約 30-50 Mbps，上傳約 15-25 Mbps。上傳一張高解析度照片到
+        Instagram 約需 3-5 秒。但尖峰時段（如跨年或週末下午）人潮眾多，速度可能降至 10-20 Mbps。建議避開擁擠區域（近窗戶旁訊號較佳），可加入官方
+        Wi-Fi（需手機號碼驗證）輔助。eSIM 自動切換至最強運營商，確保您能即時分享美景。
+    - q: 在九份老街使用 eSIM 打卡、直播，網路夠用嗎？
+      a: 九份老街山區多、建築密集，中華電信在主要街道（基山街、豎崎路）戶外區域的 4G 速度約 10-20 Mbps，足以進行 Facebook 或 Instagram
+        非直播帖文的打卡。直播較為吃力，可能出現延遲或畫質下降，建議在固定位置（如觀景台）進行，並使用 1080p 解析度。台灣大哥大在阿妹茶樓附近訊號較好，而遠傳電信則在昇平戲院一帶表現中等。eSIM
+        可手動切換運營商以取得最佳連線。
+    - q: 在日月潭搭遊艇時，eSIM 網路連線穩定嗎？能分享即時動態？
+      a: 日月潭湖面廣闊，中華電信和遠傳電信在主要碼頭（水社、伊達邵）附近訊號良好（20-30 Mbps），但在湖中央可能因距離基地台較遠而降至 5-10
+        Mbps。分享 FB 動態或 LINE 照片沒問題，但直播僅適合短時間（建議切換至較低畫質）。若要上傳影片，建議在靠岸時進行。eSIM 的優點是無需更換卡片，即使訊號弱也可自動漫遊至其他運營商（如台灣大哥大在部分角落較強）。
+    - q: 在台中彩虹眷村參觀時，用 eSIM 搜尋地圖和排隊資訊方便嗎？
+      a: 彩虹眷村位於台中市南屯區，戶外區域中華電信 4G 速度約 25-40 Mbps，Google Maps 載入和路況更新非常流暢。村內人數眾多，但基地台承載能力足夠，排隊時使用社群軟體傳送訊息或瀏覽網頁無延遲。少數室內場館（如販賣部）可能因金屬結構導致訊號略降（約
+        15 Mbps）。eSIM 可確保您隨時查詢周邊美食和交通資訊，且不依賴景區可能不穩定的 Wi-Fi。
+    - q: 在國立故宮博物院內，eSIM 網路能讓我看導覽影片嗎？
+      a: 故宮博物院室內展廳因建築厚重，訊號較弱，中華電信和台灣大哥大平均速度約 8-15 Mbps，但可流暢播放預先下載的導覽影片。若想串流，建議在寬敞區域（如大廳、中庭）使用，速度約
+        20-30 Mbps。部分展間（如翠玉白菜旁）人潮擁擠，網路延遲增加，可能導致影片緩衝。故宮已提供免費 Wi-Fi（需手機號碼認證），但連線數限制，eSIM
+        是更穩定的選擇。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 台灣 eSIM 在 台灣 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Taiwan eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Taiwan eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Taiwan eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Taiwan
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Taiwan eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Taiwan eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Taiwan eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在台灣使用 eSIM 可以順暢使用 Instagram 和 TikTok 嗎？
+      a: 可以，台灣的網路基礎建設完善，中華電信、台灣大哥大、遠傳電信對主流社群 App 皆未封鎖。在市區（如台北西門町、高雄巨蛋）刷 TikTok 短影片幾乎無緩衝，加載速度約
+        1-2 秒。上傳 IG 限時動態（照片約 3 秒，影片約 10 秒）。但在山區或離島（如澎湖）可能因頻寬降速，建議於出發前下載部分內容。eSIM 的公平使用政策允許每日數
+        GB 後的輕微降速，但仍足以使用社群媒體。
+    - q: 在台灣使用 Tinder 或其他交友軟體，需要額外設定嗎？
+      a: 不需要，台灣的網路完全開放 Tinder、Bumble 等交友軟體。您的 eSIM 提供台灣本地 IP，可正常使用基於位置的配對。在台北信義區或台中市區，GPS
+        定位精準，配對速度無延遲。要注意的是，部分軟體會偵測 VPN，若您連接 VPN 使用，可能導致位置錯誤，建議關閉 VPN 以獲得最佳體驗。eSIM
+        的數據速度（20-50 Mbps）足以順暢傳送照片和聊天訊息。
+    - q: 在台灣用 LINE 傳送照片和電話，會不會延遲？
+      a: LINE 是台灣最主流通訊軟體，使用 eSIM 時，傳送一張 5MB 照片約需 1-3 秒，語音通話清晰無回音。即使在捷運或火車移動中，通話也幾乎無斷線。但在偏鄉（如阿里山山區）可能延遲稍高（約
+        200ms），但仍可通話。建議在人多場所（如夜市）使用文字訊息優先，因為語音可能受環境噪音干擾。eSIM 對 LINE 的最佳化良好，可放心使用。
+    - q: 在台灣使用 Facebook 直播，eSIM 能勝任嗎？
+      a: 在都市區域（如台北東區、高雄漢神巨蛋）使用中華電信 5G，直播 1080p 30fps 幾乎無延遲，緩衝次數少。但在夜市或人潮聚集區，4G 直播可能因上行頻寬不足（約
+        5-10 Mbps）而出現品質下降。建議選擇定點直播（非移動中），並調整至 720p 以換取穩定性。台灣大哥大在部分區域上行表現較佳。eSIM 可自動切換至上行最穩定的電信業者，讓您與親友即時分享台灣美食夜市。
+    - q: 在台灣使用 eSIM 玩手遊（如傳說對決、PUBG）延遲高嗎？
+      a: 在大城市（台北、台中）使用中華電信或遠傳電信玩傳說對決，延遲約 30-60ms，相當流暢；PUBG 移動中延遲略高（40-70ms）。但在高速移動（如高鐵）時，可能因基地台切換導致延遲飆升至
+        200ms，不建議進行排名賽。若在人潮眾多處（如跨年晚會），網路負載高，延遲可能超過 100ms。eSIM 的優點是可選擇延遲較低的運營商（一般為中華電信）。整體而言，適合休閒遊戲。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 台灣 使用 台灣 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Taiwan, you can dial local emergency numbers like 110 (police), 119 (fire/ambulance),
-        112 (emergency) directly from your phone's dialer regardless of your active
-        SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Taiwan eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Taiwan eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Taiwan eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Taiwan eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Taiwan eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Taiwan eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Taiwan eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Taiwan eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Taiwan eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Taiwan eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Taiwan eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Taiwan eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在台灣發生車禍或緊急事故，怎麼用手機報警？
+      a: 請直接撥打 110（報案專線）或 119（救護車/消防）。即使沒有 SIM 卡或 eSIM，所有手機皆可撥打緊急電話（但需注意，某些手機在無 SIM
+        狀態下僅能撥打 112，若您有 eSIM 仍有網路，建議直接撥 110/119）。接線員通常會說中文，但可說「I need English」請求轉接。報警時請提供所在位置（路名或地標），例如「我在台北車站東三門」。若不懂中文，可請路人協助。eSIM
+        保持網路暢通，也可使用 Google Maps 定位後提供地址。
+    - q: eSIM 無法使用時，如何緊急上網聯繫旅館或家人？
+      a: 首先請檢查設定：確認數據漫遊開啟、APN 設定正確（一般為 automatic）。若仍無法連線，請立即尋找免費 Wi-Fi。全台 7-Eleven
+        和全家便利商店提供免費 Wi-Fi（需使用手機號碼接收驗證碼，可輸入國外號碼）。大眾運輸站（如台北捷運車站）也有 iTaiwan 或 CHT Wi-Fi，可用護照號碼登入。若您沒有手機號碼接收簡訊，可至附近旅遊服務中心請人員協助。強烈建議您在抵台後先記下旅館的電話和地址，以備離線聯絡。
+    - q: 在台灣登山（如陽明山、合歡山）如果受傷，手機能求救嗎？
+      a: 陽明山國家公園大部分區域有中華電信和遠傳電信訊號（4G 約 10-20 Mbps），可撥打 119 求救。但合歡山等高海拔山區，部分路線（如奇萊山步道）無訊號。建議攜帶衛星定位器或離線地圖。手機撥打
+        112 會自動選擇任何可用網路（即使非簽約運營商）。在山上使用 eSIM 前，請下載離線地圖和急救資訊，並告知親友預計行程。若在中度登山路線（如七星山）發生事故，eSIM
+        仍有機會撥通緊急電話。
+    - q: 在台灣遺失手機，該如何掛失 eSIM 及保護個資？
+      a: 請立即致電您的 eSIM 提供商（保留客服電話）要求暫停服務，或透過官網鎖定 eSIM。同時，使用其他裝置登入 Apple/Google 帳號，啟用「尋找我的裝置」遠端清除手機。台灣的緊急報案電話
+        110 也可協助紀錄遺失事件。至於 SIM 卡被盜用風險低，但建議變更所有重要密碼。若您有購買旅遊保險，部分方案理賠手機失竊，請保留報案三聯單。eSIM
+        不像實體卡可被抽出，但手機被盜後仍可遠端清除，相對安心。
+    - q: 在台灣遇到地震或颱風，網路會中斷嗎？如何獲取即時資訊？
+      a: 台灣常見颱風與地震，當災害發生時，基地台可能因斷電或損毀而中斷。中華電信通常最快恢復，24 小時內搶修。您可下載「中央氣象局」App 或開啟手機災防告警系統（會自動收到簡訊）。颱風期間，建議使用
+        eSIM 的數據備援，並準備行動電源。若基地台過載，優先使用文字訊息（LINE）而非語音通話。eSIM 的好處是您可手動選擇其他營運商，尋找仍有訊號的網路。另外，政府會發送「國家級警報」，請勿關閉此功能。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 台灣 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Taiwan eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared"
-  subtitle: "Taiwan Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Taiwan) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Taiwan"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Taiwan eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Airport tourist SIMs from Chunghwa Telecom, Taiwan Mobile, and FarEasTone require in-person purchase at airport kiosks or city stores; passport check takes 10-15 minutes."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport kiosk queues and city store visits. Activate your Roami eSIM online within 1 minute after landing in Taiwan, avoiding the 10-15 minute passport check process."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All Taiwanese prepaid SIMs require passport registration; city stores may require a second ID (e.g., driver's license) and a form, with limited English proficiency among staff."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Chunghwa Telecom, Taiwan Mobile, and FarEasTone which require passport registration (and sometimes a second ID), Roami eSIM needs no personal identification—just download and connect."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Taiwan Mobile is the only operator offering prepaid international roaming, but requires purchasing a dedicated roaming pack (e.g., 5-day China pack NT$199 for 3GB high-speed, then unlimited 128kbps) and activation before departure."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "Taiwan Mobile's prepaid roaming requires pre-purchasing a dedicated pack (e.g., 5-day China pack NT$199 for 3GB high-speed) and activation before departure. Roami eSIM offers seamless roaming in over 100 countries with no extra steps."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Chunghwa Telecom's airport tourist SIMs are valid for 3, 5, 7, 10, 15, or 30 days (e.g., 7-day NT$500); city standard packs use 30/60/120/180-day cycles (e.g., 1.2GB/30 days NT$300). Airport SIMs cannot be recharged or extended."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Unlike Chunghwa Telecom's 30-day cycle (NT$1000 for unlimited data) which wastes 77% of value on a 7-day trip, Roami offers 7-day plans starting from $1.99/GB, saving you money."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Chunghwa Telecom's 5G airport SIMs explicitly limit hotspot data to 3GB/5GB/7GB for 3/5/7-day plans; 4G airport SIMs allow unlimited tethering."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Chunghwa Telecom's 5G airport SIMs limit hotspot to 3GB-7GB; Roami eSIM allows unlimited tethering at full speed, perfect for sharing with laptops or tablets."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Online top-up requires visiting a Chinese-language website (idealcard.com.tw) or using convenience store kiosks (iBon/FamiPort) with Chinese menus; foreign cards often rejected."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Avoid Chinese-language convenience store kiosks and online portals that reject foreign cards. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is primarily in Chinese; English support is limited and available only during business hours."
-      esim_title: "24/7 English Support"
-      esim_desc: "Taiwanese operators offer limited English support during business hours. Roami provides 24/7 customer service in English via live chat and email."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Taiwan eSIM vs Prepaid SIM: Which Offers Better Value?"
-    cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Simplify Top-Up with Global Payments"
-        desc: "Topping up Taiwanese prepaid SIMs requires navigating Chinese-language convenience store kiosks (iBon/FamiPort) or websites (idealcard.com.tw), often rejecting foreign cards. Roami accepts <b>Visa</b>, <b>Mastercard</b>, <b>AMEX</b>, <b>Apple Pay</b>, <b>Google Pay</b>, and <b>PayPal</b>."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Limited International Roaming"
-        desc: "<b>Taiwan Mobile</b> is the only operator with prepaid roaming, but requires pre-purchasing a dedicated pack (e.g., 5-day China pack <b>NT$199</b> for <b>3GB</b> high-speed, then unlimited <b>128kbps</b>) and activation before departure. Roami eSIM offers global roaming in over 100 countries with no extra steps."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Instant Activation Without Store Visits"
-        desc: "Acquiring a local SIM requires visiting an airport kiosk or city store, with passport checks taking <b>10-15 minutes</b>. Roami eSIM activates online within <b>1 minute</b> after landing, saving time and hassle."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "24/7 English Customer Support"
-        desc: "Taiwanese operators offer customer support primarily in Chinese, with limited English availability during business hours. Roami provides <b>24/7</b> English support via live chat and email."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

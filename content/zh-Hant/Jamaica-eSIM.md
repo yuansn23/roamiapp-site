@@ -1,94 +1,88 @@
 ---
-title: Jamaica eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 牙買加 eSIM 方案 | 牙買加 eSIM | Roami
+date: '2026-05-19T09:47:26+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Jamaica eSIM
-  scenario_keywords: Beach getaway, Reggae festival, Hiking in Blue Mountains, All-inclusive
-    resort, Rum tasting tour
-  operators: Digicel, Flow, Lime
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Kingston, Montego Bay, Ocho Rios, Negril, Spanish Town
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 牙買加 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食, 雷鬼音樂
+  operators: Digicel, Flow, JTL (Jamaica Telephone Limited)
+  competitors: Airalo, Holafly, Nomad, Ubigi, Truphone
+  main_cities: 金斯頓, 蒙特哥貝, 奧喬里奧斯, 尼格瑞爾, 西班牙鎮
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Best Jamaica eSIM | High-Speed 5G Travel Internet | Roami
-  description: Relax in Jamaica while staying perfectly connected. A Roami virtual
-    SIM provides always-on 5G access via reliable local networks. Enjoy fast, prepaid
-    travel data with absolutely no hidden roaming fees.
-  keywords: Jamaica eSIM, eSIM Jamaica, Jamaica travel internet, instant eSIM, no
-    roaming charges, QR code activation
-  low_price: 1.99
-  high_price: 39.9
+  title: 牙買加 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
+  description: 牙買加旅遊必備 Roami eSIM，支援 5G 網路自動切換。立即選購並輸入折扣碼 20%，讓您的連線服務更超值，旅途更順利。
+  keywords: 牙買加 eSIM, 牙買加上網卡, 牙買加旅遊, 金斯頓, 蒙特哥貝, 尼格瑞爾, 行動網路覆蓋, 旅遊景點
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 牙買加 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Jamaica eSIM
+- label: 牙買加 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Jamaica
-  title: Best eSIM for Jamaica
+  alt: 最佳 牙買加 eSIM
+  title: 最佳 牙買加 eSIM
 hero:
   flag_image: img/flags/jm.svg
-  flag_alt: Jamaica Flag
-  title: Jamaica eSIM data plan
-  subtitle: Top rated | 20% discount for a limited time | 1-minute activation
+  flag_alt: 牙買加 國旗
+  title: 牙買加 eSIM - 旅行計劃
+  subtitle: 牙買加 eSIM | 即時交付 | 高速5G網路 | 無隱藏費用
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 牙買加 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 牙買加 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '11.99'
     oldPrice: '17.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.71'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '24.99'
     oldPrice: '37.48'
     tag: ''
@@ -96,59 +90,59 @@ plans_data:
     daily: '3.57'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '35.99'
     oldPrice: '53.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '5.14'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '60.99'
     oldPrice: '91.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '8.71'
-  30 Days:
+  30 天:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '38.99'
     oldPrice: '58.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.30'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '67.99'
     oldPrice: '101.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.27'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '26.99'
     oldPrice: '40.48'
     tag: ''
     tagColor: bg-orange-500
     daily: '0.90'
     tagIcon: star
-  3 Days:
+  3 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '52.99'
     oldPrice: '79.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '17.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '23.99'
     oldPrice: '35.98'
     tag: ''
@@ -156,25 +150,25 @@ plans_data:
     daily: '8.00'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '32.99'
     oldPrice: '49.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '11.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '57.99'
     oldPrice: '86.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '19.33'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '26.99'
     oldPrice: '40.48'
     tag: ''
@@ -182,554 +176,306 @@ plans_data:
     daily: '1.80'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '39.99'
     oldPrice: '59.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.67'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '67.99'
     oldPrice: '101.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '4.53'
 discount_banner:
-  title: Special Discount!
+  title: 牙買加 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 牙買加 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Jamaica, including major cities
-        like Kingston, Montego Bay, Ocho Rios, and Negril. Our Jamaica eSIM seamlessly
-        connects to the robust networks of Digicel, Flow, and Lime, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個 牙買加 享受廣泛的網路覆蓋，包括 金斯頓、蒙特哥貝、奧喬里奧斯 等城市。我們的 牙買加 eSIM 無縫連接到 Digicel、Flow
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Digicel
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Flow
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Lime
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 牙買加 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Jamaica.
+    html: 建議抵達 牙買加 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 牙買加 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 牙買加 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 牙買加 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 牙買加 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 牙買加」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Jamaica'
-    desc: Upon arriving in Jamaica, enable your Jamaica eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 牙買加 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Digicel / Flow 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 牙買加：立即連上 5G/4G 網路
+    desc: 當您降落在 牙買加（例如 諾曼·曼利國際機場 (KIN), 桑斯特國際機場 (MBJ), 伊恩·弗萊明國際機場 (OCJ)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 牙買加。幾秒鐘內，您的設備將自動連接到 Digicel / Flow 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Jamaica eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Jamaica eSIM across different
-    travel scenarios.
+  title: 牙買加 eSIM：完整指南和常見問題
+  desc: 使用 牙買加 eSIM 在 牙買加 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 牙買加 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Jamaica eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Jamaica eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Jamaica eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Jamaica
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Jamaica eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Jamaica eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Jamaica that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Jamaica eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Jamaica eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Jamaica eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Jamaica eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Jamaica,
-        such as Digicel, Flow, Lime, to ensure premium speeds at a fraction of roaming
-        costs.
-    - q: How do you compare with well-known eSIM providers like Eskimo, Holafly, Airalo,
-        DENT?
-      a: While great companies like Eskimo, Holafly, Airalo, DENT offer reliable services,
-        we focus on providing the most cost-effective Jamaica eSIM, ensuring lower
-        latency and better prices with our automatic price-matching system.
+    - q: 在金斯頓市區使用Digicel eSIM觀看YouTube影片時，網路速度如何？
+      a: 在金斯頓市區，例如新金斯頓商業區或鮑勃·馬利博物館附近，連接到Digicel 4G網路時，下載速度通常在30-50 Mbps之間，足以流暢觀看1080p的YouTube影片。不過，在上下班尖峰時段（17:00-19:00）靠近金斯頓購物中心或十字路口地區，速度可能降至10-20
+        Mbps，但觀看720p影片仍然順暢。若要獲得最佳體驗，建議避開人潮密集的公共場所，或選擇清晨時段使用。
+    - q: 在蒙特哥貝的桑斯特國際機場剛抵達時，啟用eSIM需要哪些步驟？
+      a: 抵達蒙特哥貝桑斯特國際機場後，購買的eSIM會與本地網路Digicel自動連線。首先，確保手機已解鎖且支援eSIM功能；然後，在設定中新增行動方案，掃描購買後收到的QR碼。啟用後，通常會在幾分鐘內自動註冊至Digicel網路，無需手動設定APN。若遇到連線問題，可重新啟動手機或手動選擇Digicel網路。建議在出發前完成eSIM安裝，以節省抵達後的時間。
+    - q: 在奧喬里奧斯的手工藝市場使用Flow網路時，社交軟體如Instagram是否穩定？
+      a: 奧喬里奧斯手工藝市場區域人潮較多，但Flow網路在該區域的覆蓋良好，上傳照片或瀏覽Instagram動態通常在5-10秒內完成。不過，由於市場內有許多木造建築，偶爾會出現信號衰減，但移動至戶外空曠處即可恢復。建議在購買手工藝品時，連結商家提供的免費Wi-Fi以節省流量，但整體而言Flow
+        eSIM足以滿足社交媒體需求。
+    - q: 從尼格瑞爾的海灘返回金斯頓時，是否可以持續使用eSIM進行導航？
+      a: 沿著A1公路從尼格瑞爾開往金斯頓，Digicel eSIM的覆蓋率相當穩定，即使經過鄉村地區（如聖詹姆斯教區），4G信號也幾乎不中斷。Google地圖或Waze可以正常提供即時路況，平均延遲低於50毫秒。但在穿越山區路段（如布魯克山附近）時，速度可能短暫降至3G，導航功能仍可使用。建議提前下載離線地圖以備不時之需。
+    - q: 使用牙買加eSIM時，公平使用政策（FUP）的具體條件是什麼？
+      a: 牙買加eSIM方案（例如Digicel網域）通常設有每日高速流量限制，例如每日3GB後降速至128kbps，但並非所有方案都有。部分方案寫明總流量內皆為高速，但實際使用中，大量下載（如超過5GB/日）可能會觸發臨時降速，通常持續至次日恢復。建議在網路使用高峰時段（例如週末晚間）避免連續串流4K影片，以維持最佳網速。欲知具體限制，請參考購買方案的商品說明。
+    - q: 在金斯頓的機場（諾曼·曼利國際機場）使用eSIM註冊時，需要提供護照等資訊嗎？
+      a: 購買牙買加eSIM時，通常不需要提供護照或進行實名登記，因為這是預付費方案，直接掃描QR碼即可啟用。然而，牙買加政府規定所有手機號碼須完成身分驗證，但對於短期旅遊用的eSIM，運營商通常已預先完成註冊流程，旅客無需額外操作。若您購買的是本地SIM卡實體卡，則需在機場出示護照。因此，使用eSIM可節省排隊時間，更為便利。
+    - q: 在西班牙鎮附近，Flow和Digicel哪個網路的訊號更好？
+      a: 西班牙鎮作為工業區，Digicel的4G覆蓋略優於Flow，尤其是在A2公路沿線及鎮中心廣場附近，Digicel的下載速度通常在25-40 Mbps，而Flow約20-30
+        Mbps。但在一些室內場所如購物中心，Flow的穿透力稍強。若主要用於導航和社交軟體，兩者均足夠；若需要上傳大檔案（如照片），建議選擇Digicel。此外，雙卡雙待手機可同時插入兩張eSIM以備用。
+    - q: 在牙買加使用eSIM進行視訊通話（如Zoom）時，是否容易斷線？
+      a: 在金斯頓或蒙特哥貝的主要市區，使用Digicel網路進行Zoom視訊通話非常流暢，延遲低於100毫秒，影像清晰。但在偏遠地區如藍山或安東尼奧港，可能出現畫面模糊或偶爾斷線，建議切換至語音通話。若需穩定連線，可選擇在飯店或咖啡廳的Wi-Fi環境下使用。總體而言，牙買加的行動網路足以應付日常視訊需求，但建議避開網路尖峰時段。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 牙買加 機場：如何使用 牙買加 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Jamaica eSIM before your flight. Once you land at Norman Manley
-        International Airport, Sangster International Airport, Ian Fleming International
-        Airport, simply turn off Airplane Mode and enable your eSIM line. It will
-        connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Jamaica eSIM activated upon landing, you can immediately open Uber,
-        OnTime Taxi, Route Taxi to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Jamaica eSIM data allows you to open Google Maps right at
-        the baggage claim in Norman Manley International Airport, Sangster International
-        Airport, Ian Fleming International Airport to check real-time train schedules,
-        bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Jamaica eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Jamaica eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Jamaica eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 在金斯頓諾曼·曼利國際機場（KIN）如何購買eSIM？
+      a: 在諾曼·曼利國際機場抵達大廳，有Digicel和Flow的官方櫃檯販售eSIM QR卡，價格約15-30美元，包含3-7天數據流量。您也可以提前在線上購買eSIM，如Airalo或Holafly，抵達後掃描郵件中的QR碼立即啟用。機場內有免費Wi-Fi供掃描使用，但需先輸入手機號碼接收驗證碼，建議提前準備好。
+    - q: 蒙特哥貝桑斯特國際機場（MBJ）的eSIM啟用流程是什麼？
+      a: 桑斯特國際機場提供多國語言服務，啟用eSIM非常簡單。抵達後，打開手機設定，選擇新增行動方案，掃描購買時提供的QR碼。約一分鐘後，手機自動連接Flow或Digicel網路。若無法連線，可手動搜尋網路並選擇Digicel。注意：啟用過程無需插拔實體SIM卡，但若您使用雙卡手機，建議將eSIM設為主要數據卡。
+    - q: 牙買加機場的eSIM價格與市區有差異嗎？
+      a: 機場販售的eSIM通常比市區稍貴，例如同樣5GB數據方案，機場櫃檯可能售價25美元，而市區店家約20美元。不過機場方案包含即時開通與客服支援，對於剛抵達的旅客較為便利。若想省錢，建議先在台灣/香港等地線上購買eSIM，通常價格更低且數據量更大，如透過Klook或Trip.com購買專屬方案。
+    - q: 從機場出發前往市區時，eSIM導航是否可靠？
+      a: 從金斯頓機場出發前往市區，使用Google地圖或Waze搭配Digicel eSIM非常可靠，GPS定位精準，路況資訊更新即時。A1公路等主要路線覆蓋良好，僅在穿越山區隧道時信號稍弱，但導航功能不受影響。建議提前下載離線地圖以避免機場人潮導致網路緩慢。
+    - q: 抵達牙買加機場後，多久能啟用eSIM？
+      a: 通常抵達後幾分鐘內即可啟用，前提是您已事先安裝eSIM設定檔並收到啟用郵件。若掃描QR碼後未自動連線，手動選擇運營商（Digicel）並輸入APN設定（digicelweb）。整個過程約5分鐘，若遇到問題可聯繫線上客服，24小時內回應。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 牙買加 eSIM 用於 牙買加 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Jamaica eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Jamaica, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, OnTime Taxi, Route Taxi use VoIP (internet calling) and in-app
-        messaging. Since you have active Jamaica eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Jamaica eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Jamaica eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Jamaica.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Jamaica eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Jamaica eSIM's data network while on
-        the train or in the car.
+    - q: 在金斯頓乘坐Uber時，使用eSIM叫車是否穩定？
+      a: 金斯頓的Uber服務普遍，使用Flow或Digicel eSIM叫車成功率很高，定位誤差小於10米。但在舊金斯頓區域的狹窄街道，GPS可能延遲，導致司機難以找到上車點。建議定位在明顯地標（如Emancipation
+        Park）並保持網路暢通，行程中可即時與司機通話。
+    - q: 從蒙特哥貝前往奧喬里奧斯，沿路eSIM訊號如何？
+      a: 沿A1公路行駛，Digicel eSIM在大部分路段有穩定的4G訊號，僅在經過山區（如St. Ann地區）時短暫降為3G，但導航與音樂串流不受影響。全程約1.5小時車程，可持續使用社交軟體。建議中途在St.
+        Ann's Bay停靠休息時，可利用良好訊號上傳照片。
+    - q: 在牙買加可以租車並使用eSIM導航嗎？
+      a: 可以，租車後使用Google地圖或Waze導航非常實用，eSIM提供即時路況更新。牙買加道路狀況部分不佳（如鄉間碎石路），但主要城市間道路維護良好。注意：牙買加靠左行駛，導航語音提示清晰，建議搭配手機支架以確保行車安全。
+    - q: 當地公車（如金斯頓JUTC）是否支援使用eSIM的行動支付？
+      a: JUTC公車目前僅接受現金或專用交通卡，不支援手機行動支付。但您可使用eSIM查詢公車路線與到站時間（透過JUTC App），相當便利。建議隨身攜帶小額現金，因大部分司機不找零。
+    - q: 在尼格瑞爾海灘區，叫車軟體（如Uber）是否普遍？
+      a: 尼格瑞爾海灘區Uber數量較少，主要依賴當地計程車。使用eSIM可撥打計程車叫車專線或透過WhatsApp聯繫司機。海灘區域網路覆蓋良好，但夜間海邊訊號可能稍弱，建議提前預約車輛。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 牙買加 的飯店使用 牙買加 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Jamaica eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Jamaica eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Sandals Resort, Ritz-Carlton, Half Moon or a local
-        guesthouse, you can input the address into Google Maps and get turn-by-turn
-        walking or transit directions using your Jamaica eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Jamaica eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Jamaica eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download SkipTheDishes, Uber Eats, Digicel's
-        Mytummy and use your Jamaica eSIM data to order a hot meal directly to your
-        hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Jamaica eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 入住金士頓佩格薩斯飯店時，飯店Wi-Fi與eSIM哪個更快？
+      a: 金士頓佩格薩斯飯店的免費Wi-Fi速度約10-20 Mbps，公共區域較穩定，但房內可能較慢。相比之下，Digicel eSIM提供平均30-50
+        Mbps速度，更適合串流影片或視訊會議。建議在飯店使用Wi-Fi進行輕度瀏覽，重度需求時切換至eSIM。
+    - q: 蒙特哥貝的半月度假村是否提供eSIM友善環境？
+      a: 半月度假村全區覆蓋免費Wi-Fi，但飯店也鼓勵使用行動網路。度假村內Digicel 4G訊號良好，泳池與沙灘區域亦無死角。部分高級房型有專屬5G訊號，但需確認手機支援。建議在度假村內啟用eSIM作為備用，以確保連線不中斷。
+    - q: 尼格瑞爾的山崖飯店（Strawberry Hill）網路覆蓋如何？
+      a: 山崖飯店位於山區，Flow網路在室內訊號較弱，但戶外陽台或餐廳區域可達10-20 Mbps。建議使用Digicel eSIM，其低頻段覆蓋較佳，但整體速度仍受地形影響。若需穩定連線，可至飯店大廳使用光纖Wi-Fi。
+    - q: 在飯店內使用eSIM分享熱點給筆電，是否會降速？
+      a: 大部分牙買加eSIM方案允許熱點分享，但若每日使用超過特定流量（如5GB），可能會觸發降速。建議在飯店內優先使用Wi-Fi，僅在必要時開啟熱點。Digicel方案通常支援不限熱點，但建議購買足夠數據量的方案。
+    - q: 金斯頓哪有提供eSIM專屬優惠的飯店？
+      a: 少數高級飯店如牙買加金斯頓萬怡飯店與Digicel合作，提供住客eSIM數據包折扣（約10% off）。您可於入住時詢問櫃檯。一般飯店雖無折扣，但大多提供免費Wi-Fi，可與eSIM搭配使用。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 牙買加 旅遊景點的網路：牙買加 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Dunn's River Falls, Bob Marley Museum, Blue Hole spontaneously,
-        you can use your Jamaica eSIM data to buy skip-the-line tickets online and
-        present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Jamaica eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Jamaica.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Jamaica eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Jamaica eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Jamaica eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Jamaica eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Jamaica eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Jamaica eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Jamaica eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Jamaica eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like SkipTheDishes, Uber Eats, Digicel's Mytummy,
-        register using your email or social accounts, and order food seamlessly using
-        your Jamaica eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Cash,
-        Credit/Debit Card, Lynk (mobile payment) require a brief internet handshake,
-        which your Jamaica eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Jamaica eSIM to find hidden culinary gems in the city.
+    - q: 在達斯河瀑布景區，eSIM訊號足夠拍照上傳社群嗎？
+      a: 達斯河瀑布景區內Flow和Digicel皆有4G覆蓋，上傳照片至Instagram或Facebook約需10-15秒。但瀑布旁水霧可能影響手機，建議使用防水袋保護。景區入口處訊號最佳，若需即時直播，可選擇靠近咖啡廳的位置。
+    - q: 前往九英里（巴布·馬利故鄉）時，沿途eSIM訊號穩定嗎？
+      a: 九英里位於聖安教區的山區，從蒙特哥貝出發約1.5小時車程，途經A3公路時Digicel訊號大部分良好，但最後5公里山路可能降為3G，上傳圖片較慢。到達博物館區域後，有免費Wi-Fi可供使用。建議提前下載景點資訊離線閱讀。
+    - q: 參觀金斯頓鮑勃·馬利博物館時，是否可以利用eSIM取得導覽資訊？
+      a: 博物館內提供免費Wi-Fi，但部分展廳信號不佳；使用eSIM可隨時掃描QR碼或查閱線上資料。館內人流較多時，4G速度略有下降（約15-20 Mbps），但仍可流暢瀏覽。推薦使用Flow
+        eSIM因博物館附近有Flow基地台。
+    - q: 在奧喬里奧斯海灘使用eSIM進行視訊通話，品質如何？
+      a: 奧喬里奧斯海灘如Turtle Beach，Digicel網路覆蓋優秀，視訊通話清晰且延遲低。但午後陽光強烈時手機過熱可能影響效能。建議使用藍牙耳機並將手機置於陰涼處。沙灘區域偶有信號波動，但整體滿意度高。
+    - q: 在金斯頓的Emancipation Park，eSIM速度足以支援即時串流嗎？
+      a: Emancipation Park鄰近商業區，Digicel 4G速度可達40-50 Mbps，適合直播演唱會或活動。公園內有長椅與樹蔭，可長時間使用。但週末人潮眾多時，速度可能降至20
+        Mbps，建議避開尖峰時段。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 牙買加 eSIM 在 牙買加 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Jamaica eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Jamaica eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Jamaica eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Jamaica
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Jamaica eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Jamaica eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Jamaica eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 使用牙買加eSIM在KFC或當地餐廳打卡時，上傳速度如何？
+      a: 在金斯頓的KFC或當地餐館，如Scotchies Jerk Center，Digicel eSIM上傳照片約5-10秒。餐廳內網路穩定，但在用餐尖峰時段（12:00-14:00）可能因多人使用而稍慢。建議在點餐前後盡快上傳，或使用餐廳Wi-Fi。
+    - q: 在蒙特哥貝的Hip Strip購物時，能否順暢使用Instagram限時動態？
+      a: 蒙特哥貝的Hip Strip沿線，Flow 4G覆蓋極佳，上傳限時動態（含影片）僅需數秒。商店內訊號無阻礙，但靠近海灘時可能因建築遮擋略降。建議在公共長椅區使用，訊號最強。
+    - q: 在牙買加使用WhatsApp傳送照片或影片給家人，速度是否夠快？
+      a: Digicel eSIM傳送一張約5MB的照片約需3-5秒，30秒影片約20秒。整體而言，串流媒體不會嚴重延遲。但若在多人群組中同時傳送多張照片，建議分批傳送以避免短暫擁塞。Flow的表現類似。
+    - q: 在尼格瑞爾海灘附近的酒吧上傳Facebook直播，需要準備什麼？
+      a: 尼格瑞爾海灘酒吧如Rick's Cafe，Digicel 4G訊號足夠直播1080p影片，但需注意日落時段人潮眾多可能導致網路稍慢。建議使用手機支架固定，並連接行動電源。直播前先測試速度，若低於10
+        Mbps可改為720p。
+    - q: 在金斯頓的電影院（如Caribbean Cinemas）使用eSIM與朋友通話，聲音清晰嗎？
+      a: 電影院內因建築結構，4G訊號有時會降至3G，通話音質可能受影響。建議使用VoLTE功能（需手機支援），可提升清晰度。更推薦使用簡訊或社群軟體文字溝通。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 牙買加 使用 牙買加 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Jamaica, you can dial local emergency numbers like 119 (Police), 110 (Fire),
-        119 (Ambulance), 911 (General Emergency) directly from your phone's dialer
-        regardless of your active SIM, as long as your phone can catch any cellular
-        signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Jamaica eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Jamaica eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Jamaica eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Jamaica eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Jamaica eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Jamaica eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Jamaica eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Jamaica eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Jamaica eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Jamaica eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Jamaica eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Jamaica eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在牙買加若遇到緊急情況，如何透過eSIM撥打急救電話？
+      a: 緊急電話110（警方、救護車、消防）可透過任何訊號撥打，即使沒有SIM卡也能接通。使用eSIM時，直接撥打110即可。接通後說明所在位置（如：蒙特哥貝Hip
+        Strip），因牙買加急救中心需要詳細地址。此外，旅遊警察專線888-991-2022提供英語協助。
+    - q: 在偏遠地區如藍山，eSIM訊號中斷時如何求助？
+      a: 藍山山區部分路段無訊號，建議行前告知飯店或友人您的行程。若訊號中斷，可尋找高處或開闊地重新連線。Digicel在藍山部分區域有2G備用網路，可發送簡訊至110（文字緊急服務）。長途健行建議攜帶衛星電話。
+    - q: 旅遊時錢包被偷，如何在遺失手機的情況下使用eSIM？
+      a: 若手機遺失，緊急情況可向當地警察或飯店借用電話撥打110。iCloud或Google帳號可遠端鎖定手機，但無法恢復eSIM。購買新手機後，可聯絡eSIM供應商（如Airalo）重新發送QR碼，或購買實體預付卡。建議事先備份eSIM啟用資訊。
+    - q: 在金斯頓遇到暴風雨時，eSIM服務會中斷嗎？
+      a: 牙買加常有驟雨，但行動基地台有備用電力，一般暴風雨下4G服務仍維持。僅在颶風級別時後援中斷。金斯頓市區排水良好，但山區可能因停電而斷網。建議在飯店內使用有線網路，並保持手機電量充足。
+    - q: 若在牙買加緊急需要醫療協助，如何透過eSIM聯繫醫院？
+      a: 可直接撥打110請求救護車，或聯繫大學醫院（金斯頓：876-927-1620）。使用eSIM通話無額外費用。在蒙特哥貝可撥打876-953-6418（蒙特哥貝地區醫院）。建議在出發前將醫院電話存入通訊錄。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 牙買加 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Jamaica eSIM or SIM Card: What’s the Best Option in 2026?"
-  subtitle: "Jamaica Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Jamaica) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Jamaica"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Jamaica eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Digicel SIM costs JMD 500-700, FLOW SIM costs JMD 500, both require in-store purchase with passport."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Digicel/FLOW store queues and passport checks. Activate Roami eSIM online in 1 minute before landing in Jamaica."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Both Digicel and FLOW require passport for registration."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid handing over your passport to Digicel or FLOW staff. Roami eSIM requires zero personal ID, protecting your privacy."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Digicel roaming add-on costs JMD 5,000/1GB, overage JMD 45/MB; FLOW Travel Pass 7 days 100MB JMD 1,299, overage JMD 38/MB."
-      esim_title: "Global Roaming Included"
-      esim_desc: "Unlike Digicel's JMD 5,000/1GB roaming add-on, Roami eSIM offers affordable multi-country plans for the Caribbean, with no overage fees."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Digicel 28-day 5GB plan JMD 2,450, FLOW 28-day 4GB plan JMD 2,300; a 7-day tourist wastes 75% of the plan value."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Unlike Digicel's 28-day cycle (JMD 2,450/5GB) wasting 75% for a 7-day trip, Roami offers 7-day plans starting from $1.99/GB, saving money."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "FLOW 'unlimited' plans restrict video calls and hotspot sharing; Digicel FUP limits social media and VoIP."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "FLOW's FUP throttles to 2G and restricts hotspot; Roami eSIM allows full-speed tethering on all plans, no hidden limits."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, top-up via Digicel app or FLOW website accepts Visa/Mastercard, but foreign cards often fail."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Top-up Digicel/FLOW often fails with foreign cards. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal seamlessly."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is local hours, English only, no 24/7 live chat."
-      esim_title: "24/7 English Support"
-      esim_desc: "Digicel/FLOW support is limited to local hours. Roami provides 24/7 live chat and email support in English, ready for any issue."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Jamaica eSIM vs Physical SIM: Travel, Cost, and Setup Compared"
-    cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Jamaica's Strict SIM Passport Requirements"
-        desc: "Both Digicel and FLOW require <b>passport</b> for SIM purchase. Roami eSIM needs <b>no ID</b>, activating instantly online."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation, No Store Queues"
-        desc: "Buying Digicel/FLOW SIM requires visiting a store and queuing. Roami eSIM activates <b>within 1 minute</b> after purchase, ready upon landing."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot & Full Speed"
-        desc: "FLOW's 'unlimited' plans throttle to <b>2G</b> after FUP and restrict hotspot. Roami eSIM allows <b>full-speed tethering</b> on all plans."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Roaming Rip-offs: JMD 45/MB Overage"
-        desc: "Digicel roaming costs <b>JMD 5,000/1GB</b> and overage <b>JMD 45/MB</b>. FLOW Travel Pass 7 days 100MB is <b>JMD 1,299</b>. Roami eSIM offers affordable Caribbean plans with <b>no overage</b>."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

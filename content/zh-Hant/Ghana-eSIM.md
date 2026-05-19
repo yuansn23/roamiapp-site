@@ -1,86 +1,80 @@
 ---
-title: Ghana eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 迦納 eSIM 方案 | 迦納 eSIM | Roami
+date: '2026-05-19T09:56:48+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Ghana eSIM
-  scenario_keywords: Accra sightseeing, Cape Coast historical tour, Kumasi cultural
-    travel, Kakum canopy walk, Mole National Park safari
+  core_keyword: 迦納 eSIM
+  scenario_keywords: 城市漫步、海灘、購物、美食、歷史文化
   operators: MTN Ghana, Vodafone Ghana, AirtelTigo
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Accra, Kumasi, Sekondi-Takoradi, Tamale, Tema
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  competitors: Airalo, Holafly, Nomad, Ubigi, Maya Mobile
+  main_cities: 阿克拉, 庫馬西, 海岸角, 塔馬利, 特馬
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Best Ghana eSIM | No Contract Data & Always-On 5G | Roami
-  description: Planning a trip to Ghana? Get Roami's Full-Speed 5G on Top Local Carrier
-    with High-Speed Data. Enjoy No Roaming Fees and Stable Connection, tailored for
-    Digital Nomads.
-  keywords: Ghana eSIM, prepaid eSIM Ghana, best eSIM for Ghana, cheap eSIM Ghana,
-    unlimited data Ghana, travel internet Ghana
-  low_price: 1.99
-  high_price: 39.9
+  title: 迦納 eSIM | 流量吃到飽 | 5G網路自動切換 | Roami
+  description: 迦納旅遊首選 Roami eSIM，流量吃到飽且支援 5G 網路自動切換。現在購買並輸入折扣碼 20%，領取您的旅遊專屬優惠折扣。
+  keywords: 迦納 eSIM, 迦納網路覆蓋, 迦納旅遊 eSIM, 迦納 5G, 迦納上網, 迦納 MTN eSIM, 迦納 Vodafone eSIM
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 迦納 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Ghana eSIM
+- label: 迦納 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Ghana
-  title: Best eSIM for Ghana
+  alt: 最佳 迦納 eSIM
+  title: 最佳 迦納 eSIM
 hero:
   flag_image: img/flags/gh.svg
-  flag_alt: Ghana Flag
-  title: Ghana eSIM data plan
-  subtitle: Comfortable | 20% discount for a limited time | Prioritized 5G access
+  flag_alt: 迦納 國旗
+  title: 迦納 eSIM - 旅行計劃
+  subtitle: 迦納 eSIM | 無隱藏費用 | 流量吃到飽 | 高速5G網路
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 迦納 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 迦納 eSIM
 plans_data:
-  30 Days:
+  30 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
@@ -88,49 +82,49 @@ plans_data:
     daily: '0.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.50'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '24.99'
     oldPrice: '37.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.83'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '29.99'
     oldPrice: '44.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '44.99'
     oldPrice: '67.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.50'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '61.99'
     oldPrice: '92.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.07'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '8.99'
     oldPrice: '13.48'
     tag: ''
@@ -138,49 +132,49 @@ plans_data:
     daily: '0.60'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.93'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '23.99'
     oldPrice: '35.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.60'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '94.99'
     oldPrice: '142.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '6.33'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '41.99'
     oldPrice: '62.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.80'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '57.99'
     oldPrice: '86.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.87'
-  7 Days:
+  7 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
@@ -188,57 +182,57 @@ plans_data:
     daily: '1.14'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.86'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '22.99'
     oldPrice: '34.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.28'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.14'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '44.99'
     oldPrice: '67.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '6.43'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '38.99'
     oldPrice: '58.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '5.57'
-  3 Days:
+  3 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '22.99'
     oldPrice: '34.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '7.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
@@ -246,547 +240,333 @@ plans_data:
     daily: '2.66'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.66'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '18.99'
     oldPrice: '28.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '6.33'
 discount_banner:
-  title: Special Discount!
+  title: 迦納 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 迦納 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Ghana, including major cities
-        like Accra, Kumasi, Sekondi-Takoradi, and Tamale. Our Ghana eSIM seamlessly
-        connects to the robust networks of MTN Ghana, Vodafone Ghana, and AirtelTigo,
-        ensuring stable signals in urban centers, tourist hotspots, and along major
-        transportation routes.
+      title: 覆蓋範圍
+      desc: 在整個迦納享受廣泛的網路覆蓋，包括阿克拉、庫馬西、海岸角、塔馬利等城市。我們的迦納 eSIM 無縫連接到 MTN、Vodafone Ghana
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: MTN Ghana
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 最廣泛覆蓋
+      network: 5G/4G/LTE 網路
     - name: Vodafone Ghana
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: AirtelTigo
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 城市穩定低延遲
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 迦納 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Ghana.
+    html: 建議抵達 迦納 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 迦納 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 迦納 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 迦納 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 迦納 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 迦納」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Ghana'
-    desc: Upon arriving in Ghana, enable your Ghana eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 迦納 時，只需開啟 eSIM
+      – 有效期將在首次連接到 MTN Ghana / Vodafone Ghana 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 迦納：立即連上 5G/4G 網路
+    desc: 當您降落在 迦納（例如 科托卡國際機場 (ACC)、庫馬西機場 (KMS)、塔馬利機場 (TML)）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往
+      **設定 → 行動服務** 並開啟您的 Roami eSIM 迦納。幾秒鐘內，您的設備將自動連接到 MTN Ghana / Vodafone Ghana
+      提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Ghana eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Ghana eSIM across different travel
-    scenarios.
+  title: 迦納 eSIM：完整指南和常見問題
+  desc: 使用 迦納 eSIM 在 迦納 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 迦納 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Ghana eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Ghana eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Ghana eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Ghana and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Ghana eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Ghana eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Ghana that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Ghana eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Ghana eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Ghana eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Ghana eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Ghana,
-        such as MTN Ghana, Vodafone Ghana, AirtelTigo, to ensure premium speeds at
-        a fraction of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Instabridge, Holafly,
-        Airalo, eSIM GO?
-      a: While great companies like Instabridge, Holafly, Airalo, eSIM GO offer reliable
-        services, we focus on providing the most cost-effective Ghana eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在阿克拉市中心使用 MTN 網路連接 eSIM 時，網速如何？可以用來視訊通話嗎？
+      a: 在阿克拉市中心（如獨立廣場、牛津街附近），MTN 的 4G LTE 網速通常在 30-50 Mbps 之間，足以流暢進行 WhatsApp 視訊通話或
+        Zoom 會議。但尖峰時段（週末下午或節假日）在馬克羅拉市場等人潮密集區，速度可能降至 10 Mbps 以下，建議避開擁擠時段。此外，若每日使用量超過
+        5 GB，可能會觸發公平使用政策，速度略降但仍可應付基本通訊。
+    - q: 庫馬西地區的 Vodafone 網路覆蓋是否穩定？去亞當森山旅遊時訊號如何？
+      a: 庫馬西市區的 Vodafone 網路覆蓋良好，尤其在阿散蒂王宮和凱傑西亞購物中心附近，4G 訊號穩定。然而，前往亞當森山時，訊號會逐漸減弱，山頂附近僅有
+        3G 或偶爾無訊號。建議在山腳下載好離線地圖，並確保 eSIM 設定為優先連接 MTN 網路（MTN 在該區覆蓋更廣）。
+    - q: 迦納 eSIM 支援熱點分享嗎？最多可以分享給幾台裝置？
+      a: 是的，我們提供的迦納 eSIM 支援熱點分享，無額外限制。您可以將網路分享給筆電、平板或另一台手機，最多同時連接 5 台裝置。但需注意，分享過多裝置會消耗更多流量，若每日總用量超過
+        3 GB，可能觸發降速（降至約 2 Mbps）。建議在飯店或固定場所分享，確保主要裝置有優先頻寬。
+    - q: 在海岸角城堡附近參觀時，eSIM 連線穩定嗎？拍照上傳社群平台是否流暢？
+      a: 海岸角城堡靠近海岸，遊客較多區域的 MTN 4G 訊號相當穩定，上傳照片到 Instagram 或 Facebook 只需幾秒鐘。城堡內部某些角落（如地牢）可能訊號較弱，但一出來即可恢復。建議使用支援
+        4G+ 的手機以獲得最佳體驗，並關閉自動備份以防流量暴增。
+    - q: eSIM 在迦納的偏遠旅遊地如卡庫姆國家公園內有效嗎？
+      a: 卡庫姆國家公園內，MTN 的訊號覆蓋較好，在入口處和主要步道起點可正常使用 4G，但深入叢林後訊號會變弱或中斷。公園內的空中步道區域偶有 3G 訊號，但速度不足以串流影片。建議提前下載必要資訊，並使用離線模式導航。
+    - q: 在迦納使用 eSIM 需要實名登記嗎？如何設定？
+      a: 迦納的 eSIM 服務需要實名登記，根據當地法規，您必須提供護照資訊和入境日期。購買後，我們會引導您上傳護照照片，審核通常在 1 小時內完成。設定步驟很簡單：掃描提供的
+        QR 碼或手動輸入 APN，啟用數據漫遊即可。建議在科托卡國際機場落地後立即設定，以便立刻連網。
+    - q: 迦納 eSIM 的公平使用政策具體是什麼？我每天用 10GB 看串流會怎樣？
+      a: 迦納 eSIM 的公平使用政策設定每日高速流量上限為 5GB，之後速度降至約 2 Mbps（足以應付標清串流和社交媒體）。若每日使用 10GB 看串流，高速時段約可觀看
+        2-3 小時的 1080p 影片，降速後僅能勉強觀看 480p。建議使用 Wi-Fi 下載內容，或將影片設定為自動較低解析度。
+    - q: 從特馬港口前往阿克拉機場時，eSIM 是否會自動切換到最快網路？
+      a: 我們的 eSIM 預設自動選擇最強訊號的網路，從特馬到阿克拉機場的路段（約 25 公里）上，MTN 和 Vodafone 的 4G 交替覆蓋。在特馬工業區附近，Vodafone
+        有時訊號更強，而靠近機場時 MTN 佔優勢。為避免斷線，建議手動鎖定 MTN（在手機設定中選擇網路運營商），因為它沿著高速公路覆蓋最連續。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 迦納 機場：如何使用 迦納 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Ghana eSIM before your flight. Once you land at Kotoka International
-        Airport, Kumasi Airport, Tamale Airport, simply turn off Airplane Mode and
-        enable your eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Ghana eSIM activated upon landing, you can immediately open Uber
-        Ghana, Bolt Ghana, Yango Ghana to book a ride or use WhatsApp to message your
-        pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Ghana eSIM data allows you to open Google Maps right at the
-        baggage claim in Kotoka International Airport, Kumasi Airport, Tamale Airport
-        to check real-time train schedules, bus routes, or walking directions to the
-        taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Ghana eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Ghana eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Ghana eSIM cellular data to let your family know you've arrived safely.
+    - q: 在科托卡國際機場抵達大廳，我該如何快速啟動 eSIM？需要連機場 Wi-Fi 嗎？
+      a: 抵達科托卡國際機場後，建議您先連接機場的免費 Wi-Fi（名為 'ACC Airport Free'），然後按照郵件中的 QR 碼啟用 eSIM。如果無法連上
+        Wi-Fi，您可在出發前在家裡先掃描 QR 碼，設定描述檔，抵達後僅需開啟數據漫遊即可。最好在排隊過移民關時就先開啟，這樣一出關就能立即使用。
+    - q: 機場附近有什麼地方可以買到實體 SIM 卡？eSIM 是否更划算？
+      a: 科托卡國際機場入境大廳有 MTN 和 Vodafone 的官方櫃檯，可以購買預付卡，價格約 5-10 美元（含少量流量）。但 eSIM 更划算，因為我們提供的方案包含更多高速流量，且無需排隊，即時啟用。建議您直接購買
+        eSIM，尤其是轉機時間短或不想攜帶雙卡的旅客。
+    - q: 從庫馬西機場出發，eSIM 訊號會立即覆蓋嗎？哪個運營商在該區域最佳？
+      a: 庫馬西機場（KMS）周邊的 MTN 4G 訊號立即可用，覆蓋率高達 95% 以上。Vodafone 在機場大廳內訊號稍弱，但一出航廈即可恢復。建議您將
+        eSIM 設定為優先使用 MTN，以確保從機場到市區的導航（如 Google Maps）不中斷。
+    - q: 在塔馬利機場附近，eSIM 的連線速度是否足夠叫車？
+      a: 塔馬利機場（TML）附近的 MTN 4G 網速約 20-30 Mbps，足以快速加載叫車 App（如 Uber）。但機場區域偶有訊號波動，建議預先下載離線地圖，並準備好現金以備叫車失敗時搭乘計程車。
+    - q: 我需要在阿克拉機場轉機到鄰國，eSIM 方案是否涵蓋其他國家？
+      a: 目前提供的迦納 eSIM 僅限迦納境內使用，不包含其他國家漫遊。如果您需要轉機前往其他西非國家，建議購買區域型 eSIM（如西非多國方案），或到達目的後再購買當地
+        eSIM。在阿克拉等待轉機時，您可用我們的 eSIM 連接機場免費 Wi-Fi，節省流量。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 迦納 eSIM 用於 迦納 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Ghana eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Ghana, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber Ghana, Bolt Ghana, Yango Ghana use VoIP (internet calling)
-        and in-app messaging. Since you have active Ghana eSIM data, drivers can call
-        or message you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Ghana eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Ghana eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Ghana.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Ghana eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Ghana eSIM's data network while on the
-        train or in the car.
+    - q: 在阿克拉使用 Uber 或 Bolt 時，eSIM 是否保證穩定連線？呼叫車輛需要多久？
+      a: 在阿克拉市中心（如奧蘇區、機場區），Uber 和 Bolt 的 App 回應迅速，eSIM 的 MTN 網路延遲低於 50ms，確保即時定位和叫車。但在尖峰時段（17:30-19:00），網路可能因用戶過多而延遲，建議提前
+        5 分鐘叫車。乘客也可使用 WhatsApp 與司機溝通，無需額外費用。
+    - q: 我從庫馬西搭長途巴士前往海岸角，途中 eSIM 訊號會中斷嗎？
+      a: 庫馬西到海岸角的長途巴士路線（主要經由 N6 公路）沿途 MTN 4G 覆蓋良好，但經過森林或丘陵地帶時可能短暫降為 3G。靠近海岸角市區時訊號恢復穩定。為避免無訊號區域，建議提前下載離線音樂或地圖，並確保
+        eSIM 設定為自動切換網路以保持連線。
+    - q: 在迦納自駕遊，eSIM 導航到卡庫姆國家公園是否可靠？有迷路風險嗎？
+      a: 使用 Google Maps 導航到卡庫姆國家公園，依賴 MTN 網路，整體路線指示清晰。但在公園最後幾公里的泥土路上，訊號可能變弱，建議提前下載該區域的離線地圖。也可在
+        GPS 訊號穩定時先標記公園入口，避免因無網路而錯過轉彎。
+    - q: 從阿克拉到特馬的通勤火車上，eSIM 網路覆蓋如何？可以串流音樂嗎？
+      a: 阿克拉到特馬的通勤火車線路經過人口密集區，MTN 和 Vodafone 的 4G 覆蓋良好，全程約 90% 時間有訊號。串流 Spotify 或
+        Apple Music 完全沒問題，但在經過某些橋樑或隧道時可能短暫中斷。建議預先下載播放列表，以免中斷影響心情。
+    - q: 叫車時司機說用 Mobile Money 付款，eSIM 能否支援 M-Pesa 或 MTN Mobile Money？
+      a: 是的，eSIM 提供穩定的網路連線，可用於 MTN Mobile Money 或 Vodafone Cash 等行動支付。使用 Uber 或 Bolt
+        時，也可直接在 App 內綁定信用卡，但許多當地司機偏好現金或 Mobile Money。建議您事先開通 Mobile Money 帳戶（需護照），或準備小額現金。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 迦納 的飯店使用 迦納 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Ghana eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Ghana eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Labadi Beach Hotel, Kempinski Hotel Gold Coast
-        City, Movenpick Ambassador Hotel Accra or a local guesthouse, you can input
-        the address into Google Maps and get turn-by-turn walking or transit directions
-        using your Ghana eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Ghana eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Ghana eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Jumia Food, Bolt Food, Yummy Ghana and
-        use your Ghana eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Ghana eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 入住阿克拉金色鬱金香飯店時，eSIM 在房間內訊號強嗎？需要使用飯店 Wi-Fi 嗎？
+      a: 阿克拉金色鬱金香飯店位於機場區，房間內 MTN 4G 訊號通常滿格，網速可達 50 Mbps。飯店 Wi-Fi 有時會因用戶多而變慢，因此 eSIM
+        是更可靠的選擇。若您住在高樓層靠窗位置，訊號更佳；低樓層內側房間可能稍弱，但整體體驗優於許多當地飯店的 Wi-Fi。
+    - q: 庫馬西城堡飯店的網路如何？eSIM 是否比飯店 Wi-Fi 更適合工作？
+      a: 庫馬西城堡飯店是一家歷史悠久的飯店，其 Wi-Fi 常常因帶寬不足而僅夠瀏覽網頁。使用 eSIM（尤其是 Vodafone 網路）可獲得更穩定的連線，下載速度約
+        20 Mbps，足以進行視訊會議。建議您在工作時優先使用 eSIM，飯店 Wi-Fi 作為備用。
+    - q: 海岸角海灘度假村的偏遠位置是否影響 eSIM 訊號？能否在沙灘上使用？
+      a: 海岸角海灘度假村位於郊區，MTN 訊號覆蓋良好，沙灘上也可以正常使用 4G，上傳照片或使用社交媒體無問題。但在度假村的某些泳池邊角落訊號可能降至
+        3G，建議移向開放區域。度假村的公共區域提供免費 Wi-Fi，可作為備用。
+    - q: 在阿克拉的 Airbnb 住宿，eSIM 能否取代固網寬頻？
+      a: 如果您住的是位於市區的 Airbnb，eSIM 的 MTN 4G 網速通常足夠串流影片和視訊通話，但若多人同時使用高流量應用，可能碰到公平使用限制。建議將
+        eSIM 作為主要網路，並確認房東是否提供 Wi-Fi 作為備援。長期住宿可考慮租用本地數據機。
+    - q: 入住飯店時 eSIM 熱點分享給多人使用，如何避免降速？
+      a: 為了避免觸發降速，建議控制每人每日流量低於 1-2 GB。可設定手機流量管理，限制背景 App 更新，並關閉自動備份。若旅伴有重要會議，可輪流使用熱點，確保每人都有高速時段。飯店
+        Wi-Fi 可作為低優先級裝置的補充。
+    - q: 迦納的度假村通常提供免費 Wi-Fi，但速度慢，eSIM 是否更適合家庭出遊使用？
+      a: 家庭出遊時，每位成員若都有重度上網需求（如看影片、玩遊戲），建議每人購買一張 eSIM 或使用一台裝置分享熱點。度假村 Wi-Fi 通常僅供瀏覽，eSIM
+        的 4G 速度更能滿足多人需求。可購買大流量方案，並規劃每日使用配額。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 迦納 旅遊景點的網路：迦納 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Cape Coast Castle, Kakum National Park, Kwame Nkrumah
-        Mausoleum spontaneously, you can use your Ghana eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Ghana eSIM, you can read reviews and book local
-        tours or experiences on Tripadvisor while having coffee at a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Ghana.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Ghana eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Ghana eSIM will keep you connected throughout the
-        park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Ghana eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Ghana eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Ghana eSIM data to search 'restaurants near me' on Google Maps to
-        check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Ghana eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Ghana eSIM ensures you can scan
-        the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Ghana eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Jumia Food, Bolt Food, Yummy Ghana, register
-        using your email or social accounts, and order food seamlessly using your
-        Ghana eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like MTN
-        Mobile Money, Vodafone Cash, AirtelTigo Money require a brief internet handshake,
-        which your Ghana eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Ghana eSIM to find hidden culinary gems in the city.
+    - q: 參觀海岸角城堡時，eSIM 能否讓我上傳即時直播？需要特別注意什麼？
+      a: 海岸角城堡周圍的 4G 訊號良好，尤其是遊客中心附近，上傳直播到 Facebook 或 YouTube 延遲低。但城堡內部建築厚實，某些房間（如奴隸地牢）可能無訊號，建議在開放區域進行。直播前先測試速度，若低於
+        10 Mbps，改為錄影後上傳。
+    - q: 在阿克拉的馬克羅拉市場購物，eSIM 的訊號會不會干擾？如何邊逛邊查價格？
+      a: 馬克羅拉市場人流密集，MTN 的 4G 訊號仍然可用，但有時因用戶過多而速度下降。您可以輕鬆使用 WhatsApp 與朋友比價，或瀏覽 Amazon
+        查看商品參考價格。建議避開週末中午時段，訊號擁擠情況下加載圖片可能稍慢。
+    - q: 卡庫姆國家公園的空中步道是熱門景點，eSIM 在山頂能收到訊號嗎？
+      a: 空中步道位於公園內，MTN 的 4G 訊號可覆蓋部分區域，但步道終點（高處）訊號較弱。建議進入公園前下載地圖和資訊，並提醒同伴可能斷訊。園區入口有免費
+        Wi-Fi 熱點，可先上網獲取必要資料。
+    - q: 前往阿克拉獨立廣場和恩克魯瑪陵墓，eSIM 導覽是否順暢？
+      a: 獨立廣場和恩克魯瑪陵墓位於市中心，MTN 和 Vodafone 的 4G 訊號極佳，使用 Google Maps 語音導覽或查閱維基百科都非常順暢。廣場空曠無遮蔽，網速可達
+        50 Mbps。建議安裝離線版維基百科以節省流量。
+    - q: 在庫馬西的凱傑西亞國家文化中心，eSIM 能否幫助我了解展品？
+      a: 文化中心內 MTN 4G 訊號良好，可掃描現場 QR 碼或瀏覽官方網站獲取展品資訊。但有部分展廳可能因結構干擾訊號，建議在入口處預先載入相關頁面。這裡也提供免費
+        Wi-Fi，但網速較慢，eSIM 是更快的選擇。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 迦納 eSIM 在 迦納 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Ghana eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Ghana eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Ghana eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Ghana
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Ghana eSIM data allowance to check their own social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Ghana eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Ghana eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在迦納使用 TikTok 或 Instagram 限時動態，eSIM 的上傳速度夠快嗎？
+      a: 在阿克拉或庫馬西等大城市，MTN 4G 的上傳速度約 15-25 Mbps，可流暢發布 30 秒內的限時動態（1080p）。但在人多的地方（如音樂節）可能延遲。建議選擇低峰時段（上午
+        10 點前）上傳，並關閉多餘的背景應用以確保帶寬。
+    - q: 我想在迦納進行 Facebook 直播，推薦使用哪個運營商的 eSIM？
+      a: 若要在 Facebook 直播，推薦採用 MTN 的 eSIM 方案，因為其覆蓋最廣且上傳穩定。直播前先測試速度，確保上傳大於 5 Mbps。避免在移動的車輛上直播，建議找一個固定位置（如飯店陽台或觀景台）。
+    - q: 用 eSIM 跟家人視訊通話，哪個平台（WhatsApp、Zoom）最省流量？
+      a: WhatsApp 視訊通話每分鐘約消耗 5-10 MB，而 Zoom 則需 15-25 MB。因此 WhatsApp 較省流量，且語音通話更節省。建議使用
+        WhatsApp 進行日常通話，Zoom 用於正式會議。在訊號弱時，語音通話比視訊更可靠。
+    - q: 在迦納下載 WhatsApp 語音訊息或傳送照片，會消耗大量流量嗎？
+      a: WhatsApp 語音訊息每條約 50-100 KB，照片壓縮後約 200-500 KB，消耗不大。但若一次接收多個群組訊息或高畫質照片，累積流量可觀。建議設定
+        WhatsApp 僅在 Wi-Fi 下自動下載媒體，或用 eSIM 時手動點選播放。
+    - q: 在社交媒體上發布打卡地點會暴露行蹤，eSIM 是否有保護隱私的功能？
+      a: eSIM 本身不提供隱私功能，但您可以關閉手機的定位服務，或使用 VPN 增加安全性。迦納的網路環境相對安全，但仍建議避免在公開平台上即時分享位置，尤其是飯店房門等敏感資訊。發布打卡可延後數小時。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 迦納 使用 迦納 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Ghana, you can dial local emergency numbers like 112, 193, 110 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Ghana eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Ghana eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Ghana eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Ghana eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Ghana eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Ghana eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Ghana eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Ghana eSIM is significantly
-        faster and much more secure against cyber threats than using open public Wi-Fi
-        networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Ghana eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Ghana eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Ghana eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Ghana eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在迦納遇到緊急情況，如何用 eSIM 撥打求救電話？需要加撥區碼嗎？
+      a: 在迦納，緊急電話號碼為：警察 119，救護車 193，消防 192。使用 eSIM 撥打時直接輸入號碼即可，無需加區碼。建議您將這些號碼存入通訊錄，並確保手機有足夠電量。若訊號弱，可嘗試發送簡訊到
+        119（部分服務支援）。
+    - q: 如果在偏遠地區（如沃爾特湖區）發生車禍，eSIM 無訊號該怎麼辦？
+      a: 沃爾特湖區部分路段 MTN 訊號薄弱，若無訊號，請先移至高處或開闊地帶嘗試重新連接。可在出發前下載離線地圖並標記最近的醫院位置。建議隨身攜帶衛星電話或向當地村民求助，他們通常知道最近的通訊點。
+    - q: eSIM 在迦納無法連網時，我還能撥打緊急電話嗎？
+      a: 即使 eSIM 數據斷線，您仍然可以撥打緊急電話（119/193/192），因為緊急通話優先使用任何可用網路。但若完全無訊號（例如深山），則無法撥打。建議您提前了解所到區域的覆蓋情況，避免進入無服務區。
+    - q: 我的 eSIM 故障或設備遺失時，如何在迦納快速獲取幫助？
+      a: 若 eSIM 無法使用，請先檢查手機設定是否開啟數據漫遊並正確選擇運營商。若問題持續，可透過飯店 Wi-Fi 或機場免費 Wi-Fi 聯繫我們的客服（電子郵件或即時聊天）。設備遺失時，請立即向警方報案（119），並聯繫客服暫停
+        eSIM 服務以防盜用。
+    - q: 在阿克拉夜間遇到搶劫，如何使用 eSIM 在最短時間內報警？
+      a: 若發生搶劫，請立即撥打 119，告知準確位置（如街道名、地標）。阿克拉的警方出警速度在市中心較快，約 10-15 分鐘。同時可聯繫飯店或附近商店的工作人員協助。保持手機電量充足，並盡量記下歹徒特徵。
+    - q: 在海岸角若發生醫療緊急情況，eSIM 能否幫助我聯繫到大使館？
+      a: 若需要大使館協助，可撥打中國駐迦納大使館的緊急電話（+233 302 742 000）。這需要國際通話，eSIM 的語音功能通常包含在內（但需確認方案是否支援）。建議您提前存好大使館號碼，並確保持有備用現金支付可能的醫療費用。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 迦納 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Ghana eSIM vs Prepaid SIM Card: Everything You Should Consider"
-  subtitle: "Ghana Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Ghana) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Ghana"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Ghana eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Must visit MTN store, Vodafone store, or AirtelTigo outlet in person with passport for registration; airport kiosks may charge GHC 10 (10x market price)."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip MTN store queues and passport checks. Activate online within 1 minute after landing in Accra."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Must present original passport for manual registration at official stores; Ghana's 2019 SIM biometric registration requires passport, driver's license, or national ID."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike MTN's mandatory passport registration, Roami eSIM requires no ID. Activate instantly without biometric enrollment."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "MTN's Africa roaming is limited to specific MTN networks; default roaming rate is GHC 0.0610 per MB (≈GHC 61/GB)."
-      esim_title: "Global Roaming Included"
-      esim_desc: "Avoid MTN's GHC 61/GB roaming fees. Roami offers affordable multi-country plans with seamless network switching."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "MTN offers 24-hour, 7-day, 30-day, and 45-day plans; e.g., 30-day 4GB costs GHC 60, 45-day 10GB costs GHC 120. Vodafone 30-day 7.3GB costs GHC 60. AirtelTigo offers non-expiry plans."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Unlike Vodafone's 30-day cycle (GHC 60/7.3GB), Roami offers 7-day plans starting from $1.99/GB, saving over 70% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami allows full-speed hotspot sharing, unlike some local SIMs that may restrict tethering."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up mainly via physical scratch cards; international recharge via swiftrecharge.com using foreign cards or crypto."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local scratch cards."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get instant help via chat or email, unlike local operators with limited support hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Ghana eSIM vs Local Prepaid SIM: Which Is More Convenient?"
-    cards:
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid MTN's GHC 61/GB Roaming Trap"
-        desc: "MTN's default roaming rate is <b>GHC 0.0610 per MB</b> (≈GHC 61/GB). Roami offers affordable multi-country plans with <b>no hidden fees</b>."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, Apple Pay"
-        desc: "Local top-up requires <b>physical scratch cards</b> or complex third-party gateways. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate 70% Waste on 30-Day Plans"
-        desc: "Vodafone's <b>30-day 7.3GB plan</b> costs GHC 60. A 5-day trip wastes <b>5.3GB and 25 days</b>. Roami's <b>7-day plans from $1.99/GB</b> match your stay."
-      - icon: "shield"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "No Risk of SIM Theft or Fraud"
-        desc: "Ghana's SIM registration ties your identity to the card. Roami eSIM is <b>digital-only</b>, eliminating risk of identity theft if phone is lost."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

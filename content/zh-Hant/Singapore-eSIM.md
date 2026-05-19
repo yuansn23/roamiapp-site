@@ -1,102 +1,96 @@
 ---
-title: Singapore eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 新加坡 eSIM 方案 | 新加坡 eSIM | Roami
+date: '2026-05-19T09:48:38+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Singapore eSIM
-  scenario_keywords: Singapore sightseeing, Marina Bay visit, Sentosa beach day, Chinatown
-    exploration, Orchard Road shopping
+  core_keyword: 新加坡 eSIM
+  scenario_keywords: 城市漫步,海灘,購物,美食
   operators: Singtel, StarHub, M1
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Singapore City, Jurong East, Tampines, Woodlands, Bedok
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_cities: 新加坡市, 裕廊東, 兀蘭, 淡濱尼, 勿洛
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Singapore Travel eSIM | 20% OFF| Seamless 5G | Roami
-  description: Need internet in Singapore? Experience No Roaming Shock and seamless
-    Seamless 5G from Singtel. With Stable Connection and No Physical SIM, it's perfect
-    for Light Travel.
-  keywords: Singapore eSIM, travel eSIM Singapore, Singapore data plan, eSIM for Singapore
-    travel, instant eSIM Singapore, cheap eSIM Singapore
-  low_price: 1.99
-  high_price: 39.9
+  title: 新加坡旅遊 eSIM | 流量吃到飽 | 最佳5G高速網路 | Roami
+  description: 新加坡旅遊首選 Roami eSIM，流量吃到飽與最佳 5G 高速網路。立即購買並輸入折扣碼 20%，讓您的新加坡之行連線更加順暢。
+  keywords: 新加坡 eSIM, 新加坡上網卡, 新加坡旅遊, 新加坡網路, 樟宜機場, 星和電信, 新電信, M1, 新加坡景點, 新加坡美食
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 新加坡 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Singapore eSIM
+- label: 新加坡 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Singapore
-  title: Best eSIM for Singapore
+  alt: 最佳 新加坡 eSIM
+  title: 最佳 新加坡 eSIM
 hero:
   flag_image: img/flags/sg.svg
-  flag_alt: Singapore Flag
-  title: Singapore eSIM data plan
-  subtitle: Worry-free internet | High-speed 5G network | 24/7 customer support
+  flag_alt: 新加坡 國旗
+  title: 新加坡 eSIM - 旅行計劃
+  subtitle: 新加坡 eSIM | 無隱藏費用 | 無需身份證件 | 流量吃到飽
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 新加坡 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 新加坡 eSIM
 plans_data:
-  30 Days:
+  30 天:
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '27.99'
     oldPrice: '41.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.93'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -104,49 +98,49 @@ plans_data:
     daily: '0.20'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.27'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.40'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '18.99'
     oldPrice: '28.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.63'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '65.99'
     oldPrice: '98.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.20'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -154,57 +148,57 @@ plans_data:
     daily: '0.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.47'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.73'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '17.99'
     oldPrice: '26.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.20'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '26.99'
     oldPrice: '40.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.80'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '35.99'
     oldPrice: '53.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.40'
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.28'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -212,49 +206,49 @@ plans_data:
     daily: '0.57'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '5.99'
     oldPrice: '8.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.86'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '16.99'
     oldPrice: '25.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.43'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.43'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '24.99'
     oldPrice: '37.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.57'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
@@ -262,562 +256,338 @@ plans_data:
     daily: '1.00'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '4.99'
     oldPrice: '7.49'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.66'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '9.99'
     oldPrice: '14.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.33'
 discount_banner:
-  title: Special Discount!
+  title: 新加坡 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 新加坡 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Singapore, including major
-        cities like Singapore City, Jurong East, Tampines. Our Singapore eSIM seamlessly
-        connects to the robust networks of Singtel, StarHub, and M1, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個新加坡享受廣泛的網路覆蓋，包括市中心、樟宜機場、聖淘沙島等區域。我們的新加坡 eSIM 無縫連接到 Singtel、StarHub 和
+        M1 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Singtel
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: StarHub
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: M1
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 新加坡 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Singapore.
+    html: 建議抵達 新加坡 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 新加坡 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 新加坡 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 新加坡 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 新加坡 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 新加坡」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Singapore'
-    desc: Upon arriving in Singapore, enable your Singapore eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 新加坡 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Singtel / StarHub 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 新加坡：立即連上 5G/4G 網路
+    desc: 當您降落在 新加坡（例如 新加坡樟宜機場 (SIN), 實里達機場 (XSP)）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定
+      → 行動服務** 並開啟您的 Roami eSIM 新加坡。幾秒鐘內，您的設備將自動連接到 Singtel / StarHub 提供的最快可用 5G/4G
+      網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Singapore eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Singapore eSIM across different
-    travel scenarios.
+  title: 新加坡 eSIM：完整指南和常見問題
+  desc: 使用 新加坡 eSIM 在 新加坡 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 新加坡 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Singapore eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Singapore eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Singapore eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Singapore
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Singapore eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Singapore eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Singapore that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Singapore eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Singapore eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Singapore eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Singapore eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Singapore,
-        such as Singtel, StarHub, M1, to ensure premium speeds at a fraction of roaming
-        costs.
-    - q: How do you compare with well-known eSIM providers like GoMoWorld, Eskimo,
-        Holafly, Airalo?
-      a: While great companies like GoMoWorld, Eskimo, Holafly, Airalo offer reliable
-        services, we focus on providing the most cost-effective Singapore eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在新加坡使用 eSIM 需要實名認證嗎？
+      a: 根據新加坡資訊通信媒體發展局 (IMDA) 規定，所有預付費 SIM 卡（包括 eSIM）需要實名登記。旅客在購買 eSIM 時通常需要提供護照資訊和入境日期。像
+        Singtel 和 StarHub 等運營商會要求上傳護照照片，但部分第三方 eSIM 提供商可能簡化流程。建議在抵達樟宜機場前先完成設定，以免在連接時遇到延遲。
+    - q: 在濱海灣金沙酒店內使用 eSIM 的網速如何？
+      a: 在濱海灣金沙酒店內，連接到 Singtel 網路時，下載速度通常可達 50-70 Mbps，足以流暢觀看 YouTube 和進行視訊通話。但在會議中心和賭場等擁擠區域，速度可能下降至
+        20-30 Mbps。若您使用 StarHub 網路，在酒店高層房間可能訊號稍弱，建議手動切換到 Singtel。
+    - q: 我購買的 eSIM 是否有每日高速流量限制？
+      a: 新加坡 eSIM 方案通常有每日高速流量限制，例如 500MB 或 1GB 後降速至 128kbps 或 256kbps。使用時要注意，尤其是在觀看高畫質影片或大量上傳照片時。若您需要大量數據，建議選擇不限速的無限方案，或每天在烏節路等區域使用免費
+        WiFi 補充。
+    - q: 在新加坡地鐵上使用 eSIM 連線穩定嗎？
+      a: 新加坡地鐵（MRT）大部分路線都有良好的網路覆蓋，尤其是南北線和環線。在隧道內，Singtel 和 M1 通常提供穩定的 4G 連線，但尖峰時段可能出現短暫掉線。在轉乘站如
+        City Hall 和 Raffles Place，網速可能因高密度使用而變慢，建議提前下載離線地圖。
+    - q: eSIM 可以在多個設備之間共享嗎？
+      a: eSIM 通常綁定單一設備，無法直接在手機和平板之間共享。但您可以啟用熱點分享功能，讓其他設備透過您的手機上網。在聖淘沙島或濱海灣花園等熱點區域，熱點分享速度可能因網路負載而降低，建議使用時保持手機電量充足。
+    - q: 如何在樟宜機場到達大廳激活 eSIM？
+      a: 抵達樟宜機場後，請先連接機場免費 WiFi（Changi WiFi），然後掃描 eSIM 提供商的 QR 碼進行安裝。安裝完成後，在設定中選擇該
+        eSIM 作為行動數據來源。若遇到問題，可前往機場內的 Singtel 或 StarHub 服務櫃檯尋求協助。
+    - q: 從烏節路到聖淘沙，eSIM 訊號會中斷嗎？
+      a: 從烏節路前往聖淘沙沿途，包括進入聖淘沙捷運，Singtel 和 StarHub 的訊號都相當穩定。在聖淘沙島內，名勝世界和沙灘區域覆蓋良好，但在地下停車場或某些賭場角落可能訊號較弱。若您使用
+        M1 網路，在連接橋上可能出現短暫訊號切換。
+    - q: 使用 eSIM 時，我可以用本地電話號碼註冊 Grab 嗎？
+      a: 部分 eSIM 方案可能不包含電話號碼，僅提供數據。若您的 eSIM 沒有號碼，則無法用於註冊 Grab 等需要驗證的應用。建議您購買含本地號碼的
+        eSIM 方案，或使用國際漫遊號碼。在註冊 Grab 時，可選擇用電子郵件或 Facebook 登入來繞過電話驗證。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 新加坡 機場：如何使用 新加坡 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Singapore eSIM before your flight. Once you land at Singapore
-        Changi Airport, Seletar Airport, simply turn off Airplane Mode and enable
-        your eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Singapore eSIM activated upon landing, you can immediately open
-        Grab, Gojek, ComfortDelGro Taxi to book a ride or use WhatsApp to message
-        your pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Singapore eSIM data allows you to open Google Maps right
-        at the baggage claim in Singapore Changi Airport, Seletar Airport to check
-        real-time train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Singapore eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Singapore eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Singapore eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 樟宜機場有免費 WiFi 嗎？連線速度快嗎？
+      a: 樟宜機場提供全區免費 WiFi，名為“Changi WiFi”，速度可達 50 Mbps 以上，足以進行串流和視訊通話。您只需連接並進行簡單的網頁驗證即可使用。eSIM
+        未安裝前，請優先使用此 WiFi 完成設定。
+    - q: 從樟宜機場到市區的最佳交通方式是什麼？
+      a: 從樟宜機場可搭乘地鐵（MRT）綠線直達市中心，如 City Hall 或 Raffles Place，車程約 30-40 分鐘，票價約 2 新元。另外，機場巴士
+        36 號線也行經主要飯店，車資約 1 新元。若攜帶大量行李，計程車費用約 20-35 新元。
+    - q: 樟宜機場哪裡可以買到本地 SIM 卡或 eSIM？
+      a: 樟宜機場的各航廈抵達大廳均有 Singtel、StarHub 和 M1 的服務櫃檯，營業時間通常為 08:00-23:00。您也可以透過自動販賣機購買實體
+        SIM 卡。若偏好 eSIM，建議在出發前網路購買，抵達後直接掃描 QR 碼啟用。
+    - q: 在樟宜機場轉機時間長，有哪些免費設施？
+      a: 樟宜機場提供免費電影院、游泳池（僅限轉機旅客）、蝴蝶園和睡眠區。各航廈間有 Skytrain 連接，T3 的蝴蝶園非常受歡迎。所有轉機區均有免費
+        WiFi 和充電站，適合打發時間。
+    - q: 從實里達機場到市區方便嗎？
+      a: 實里達機場主要服務商務航班和廉價航空，交通相對不便。您可以搭乘 39 號巴士到宏茂橋地鐵站（約 20 分鐘），再轉乘地鐵。計程車到市中心約 25-30
+        新元，車程約 30 分鐘。建議預先安排接送服務。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 新加坡 eSIM 用於 新加坡 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Singapore eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Singapore, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Grab, Gojek, ComfortDelGro Taxi use VoIP (internet calling) and
-        in-app messaging. Since you have active Singapore eSIM data, drivers can call
-        or message you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Singapore eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Singapore eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Singapore.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Singapore eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Singapore eSIM's data network while
-        on the train or in the car.
+    - q: 新加坡地鐵的營運時間是幾點到幾點？
+      a: 新加坡地鐵（MRT）通常從早上 5:30 營運到午夜 0:00，具體時間依路線略有不同。最後一班車約在 23:30 從終點站發車。節假日可能延長營運時間，建議使用
+        Google Maps 或 MyTransport.SG 應用程式查詢即時資訊。
+    - q: 在新加坡使用 Grab 叫車方便嗎？費用如何？
+      a: Grab 在新加坡非常普及，下載應用後可用信用卡或現金付款。市區內短途車資約 8-15 新元，從機場到市區約 20-35 新元。尖峰時段可能有動態加價，建議提前預約。Gojek
+        也是不錯的選擇，時常有折扣。
+    - q: 新加坡的公共巴士如何支付？
+      a: 新加坡巴士接受易通卡（EZ-Link）、新加坡旅遊卡（Singapore Tourist Pass）或使用 Visa/Mastercard 感應支付。上車和下車時都要刷卡。乘客也可使用手機支付如
+        Apple Pay，但須確保設備支援。現金不常用於巴士。
+    - q: 從濱海灣到聖淘沙島有哪些交通方式？
+      a: 從濱海灣到聖淘沙島可搭乘地鐵紫線到港灣站，再轉乘聖淘沙捷運（Sentosa Express），票價 4 新元。另外，直接搭乘計程車約 15 分鐘，車資約
+        10-15 新元。還有纜車可從花柏山出發，欣賞風景。
+    - q: 新加坡的計程車起跳價和收費標準是什麼？
+      a: 新加坡計程車起跳價為 3.9 新元（普通計程車），之後每 400 公尺加收 0.22 新元。尖峰時段（07:00-09:30 和 18:00-20:00）有附加費約
+        25%，市中心區域可能有額外費用。建議使用 Grab 或 ComfortDelGro 應用程式確認價格。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 新加坡 的飯店使用 新加坡 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Singapore eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Singapore eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Marina Bay Sands, Raffles Hotel Singapore, The
-        Fullerton Hotel Singapore or a local guesthouse, you can input the address
-        into Google Maps and get turn-by-turn walking or transit directions using
-        your Singapore eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Singapore eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Singapore eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download GrabFood, Foodpanda, Deliveroo and use
-        your Singapore eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Singapore eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 濱海灣金沙酒店值得入住嗎？有什麼亮點？
+      a: 濱海灣金沙酒店以其無邊際泳池和奢華設施聞名。入住旅客可免費使用頂樓泳池，俯瞰濱海灣景觀。酒店內有賭場、購物中心和多家高級餐廳。價格較高，標準房約
+        400 新元起，建議提前預訂。
+    - q: 新加坡有哪些平價但品質好的連鎖酒店？
+      a: 新加坡有許多平價連鎖酒店，如 Hotel Boss（武吉士）、Village Hotel Bugis 和 Ibis Styles 系列。這些酒店房間雖小但整潔，附基本設施，價格約
+        100-150 新元。建議選擇地鐵站附近，方便出行。
+    - q: 烏節路附近有哪些推薦的中檔酒店？
+      a: 烏節路附近的中檔酒店包括 Orchard Hotel Singapore、Goodwood Park Hotel 和 York Hotel。這些酒店接近購物區，房間舒適，價格約
+        150-250 新元。Goodwood Park 的歷史建築和下午茶深受遊客喜愛。
+    - q: 入住新加坡酒店需要注意哪些事項？
+      a: 新加坡酒店通常不提供牙膏牙刷，建議自備。部分酒店可能收取旅遊稅和服務費。入住時間多為下午 3 點後，退房時間為上午 11 點。提前溝通行李寄存服務。
+    - q: 聖淘沙島上有哪些度假村適合家庭？
+      a: 聖淘沙島上的家庭度假村包括 Equarius Hotel（環球影城旁）、Festive Hotel 和 Siloso Beach Resort。這些酒店提供多種兒童活動和臨近沙灘。價格約
+        200-350 新元，建議提前預訂週末房間。
+    - q: 怎麼預訂新加坡酒店最划算？
+      a: 建議使用 Agoda、Booking.com 或 Hotels.com 比價，並關注各平台會員折扣。提前 1-2 個月預訂可獲得較低價格。部分信用卡提供訂房回饋，如
+        Citi 或 DBS 卡。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 新加坡 旅遊景點的網路：新加坡 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Gardens by the Bay, Sentosa Island, Marina Bay Sands
-        SkyPark spontaneously, you can use your Singapore eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Singapore eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Singapore.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Singapore eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Singapore eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Singapore eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Singapore eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Singapore eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Singapore eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Singapore eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Singapore eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like GrabFood, Foodpanda, Deliveroo, register
-        using your email or social accounts, and order food seamlessly using your
-        Singapore eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like PayNow,
-        GrabPay, NETS require a brief internet handshake, which your Singapore eSIM
-        handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Singapore eSIM to find hidden culinary gems in the city.
+    - q: 濱海灣花園的門票價格和開放時間？
+      a: 濱海灣花園的戶外花園免費開放，但雲霧林和花穹兩個溫室需購票，成人票價約 50 新元。開放時間為 09:00-21:00，最後入場時間 20:00。建議傍晚前往，可欣賞超級樹燈光秀（19:45
+        和 20:45）。
+    - q: 魚尾獅公園有什麼特色？如何前往？
+      a: 魚尾獅公園位於濱海灣，以獅頭魚身雕像為標誌，是新加坡經典拍照點。可從地鐵 Raffles Place 站步行約 10 分鐘。公園免費參觀，周邊有許多餐飲和購物選擇。建議早晨前往避開人潮。
+    - q: 聖淘沙島必玩的景點有哪些？
+      a: 聖淘沙島包含環球影城、S.E.A. 海洋館和沙灘。環球影城門票約 80 新元，海洋館約 40 新元。島上還有纜車和杜莎夫人蠟像館。建議購買一日通行證，價格
+        58 新元，可無限次搭乘島內交通。
+    - q: 烏節路購物區有什麼推薦的百貨公司？
+      a: 烏節路的百貨公司包括 ION Orchard、義安城和百利宮。ION Orchard 有高階品牌和餐廳，義安城則有電影院和多樣商店。這些百貨公司均營業至晚上
+        10 點，方便夜間購物。
+    - q: 夜間動物園值得去嗎？如何規劃行程？
+      a: 夜間動物園是新加坡獨特體驗，遊客可乘坐遊覽車或步行觀察夜行動物。門票約 55 新元，建議在官網預約。開放時間為 19:15-00:00。可從地鐵
+        Khatib 站轉乘接駁車。節目包括精靈動物表演。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 新加坡 eSIM 在 新加坡 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Singapore eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Singapore eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Singapore eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Singapore
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Singapore eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Singapore eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Singapore eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 新加坡有哪些受歡迎的社群媒體平台？
+      a: 新加坡人普遍使用 Facebook、Instagram 和 WhatsApp。此外，Telegram 在年輕人中流行，用於群組聊天。TikTok
+        也相當活躍，許多美食帳號分享餐廳資訊。
+    - q: 在新加坡使用 WhatsApp 需要電話號碼嗎？
+      a: WhatsApp 需要電話號碼進行驗證。如果您購買的是僅數據 eSIM（無號碼），則無法使用。建議購買含本地號碼的 eSIM，或使用國際號碼搭配
+        WiFi。
+    - q: 新加坡社群媒體上有哪些熱門的旅遊 hashtag？
+      a: '常見 hashtag 包括 #Singapore、#VisitSingapore、#SingaporeFood、#MarinaBay。美食旅遊類則有
+        #SingaporeEats 和 #SGigFood。這些標籤有助於發現本地景點和餐廳。'
+    - q: 遊客可以在新加坡使用 Discord 或 Telegram 嗎？
+      a: 可以，新加坡沒有封鎖這些平台。Discord 和 Telegram 均可用於語音和文字通訊。注意使用時需消耗數據，建議在 WiFi 環境下下載文件。
+    - q: 在新加坡直播或上傳影片到 YouTube 需要注意什麼？
+      a: 新加坡網路快速穩定，適合直播。但需注意數據用量，若使用有限流量 eSIM，直播可能快速耗盡。公共場所直播需尊重他人隱私，某些景點如賭場禁止拍攝。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 新加坡 使用 新加坡 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Singapore, you can dial local emergency numbers like 995, 999, 1777 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Singapore eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Singapore eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Singapore eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Singapore eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Singapore eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Singapore eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Singapore eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Singapore eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Singapore eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Singapore eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Singapore eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Singapore eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在新加坡遇到緊急情況該撥打什麼號碼？
+      a: 緊急情況可撥打警察 999，救護車或消防 995。如需非緊急援助，可撥打警察熱線 1800-255-0000。所有電話號碼均可免費撥打。
+    - q: 新加坡有哪些主要醫院提供 24 小時急診服務？
+      a: 公立醫院如新加坡中央醫院（SGH）、樟宜綜合醫院（CGH）和國立大學醫院（NUH）均提供 24 小時急診。私立醫院如伊麗莎白醫院（Mount Elizabeth）也提供服務。建議攜帶醫療保險。
+    - q: 若遺失護照該怎麼辦？
+      a: 立即撥打 999 報案並獲取報案紀錄，然後前往您國家的駐新加坡大使館或領事館申請臨時旅行證。新加坡警察總局位於歐南園（Outram Park）附近。同時聯繫航空公司變更行程。
+    - q: 新加坡的毒品法律嚴格嗎？
+      a: 新加坡對毒品零容忍，持有或販運毒品可被判處死刑或長期監禁。攜帶藥品需有醫生處方，某些藥物如安非他命嚴禁。請勿接受陌生人給予的物品。
+    - q: 緊急情況下如何聯繫醫院或叫救護車？
+      a: 撥打 995 即可獲得救護車服務，並告知正確位置。若無法通話，可簡訊至 71999（特定電信商）。救護車將送往最近醫院。建議事先下載 SGH 或
+        NUH 的應用程式以獲取指引。
+    - q: 新加坡的緊急避難所在哪裡？
+      a: 新加坡設有地下防空避難所，通常標示於組屋或公共建築內。自然災害如地震少見，但季風期間有洪水預警。可關注政府 SMS 警報。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 新加坡 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Singapore eSIM vs SIM Card Plans: Which One Fits Your Needs?"
-  subtitle: "Singapore Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Singapore) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Singapore"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Singapore eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Singtel hi!Tourist eSIM requires arrival in Singapore to activate; airport kiosks force purchase of S$38 or S$50 high-price packages."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport queues and forced high-price packages (S$38-S$50). Activate Roami eSIM online within 1 minute before landing in Singapore."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All prepaid SIMs require passport registration; Singtel and StarHub scan passports in-store."
-      esim_title: "No Passport Required"
-      esim_desc: "Bypass Singapore's strict passport registration for prepaid SIMs. Roami eSIM activates instantly without ID verification."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Singtel S$12 plan includes only 3GB roaming; StarHub's 'unlimited' roaming has FUP of 100GB."
-      esim_title: "Global Roaming Included"
-      esim_desc: "Unlike Singtel's 3GB roaming cap, Roami offers full-speed data across Singapore, Malaysia, and Thailand with no FUP throttling."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Singtel S$20 plan has only 7-day validity; a 5-day stay wastes 28% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Avoid Singtel's 7-day S$20 plan waste. Roami offers 7-day plans from $1.99/GB, saving up to 75% for short stays."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "StarHub Travel eSIM is data-only, no voice or SMS; tethering allowed but throttled after FUP."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike StarHub's data-only eSIM, Roami supports full hotspot and voice/SMS, keeping your phone number active."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "StarHub at Changi Airport UOB counter accepts cash only, no credit cards."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No cash-only counters like StarHub at Changi."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Phone support in English, Mon-Fri 9-6; no live chat for prepaid customers."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get instant help via live chat or email, unlike local prepaid support limited to business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Singapore eSIM vs Prepaid SIM: Cost and Convenience Compared"
-    cards:
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Escape Short Validity and Sunk Costs"
-        desc: "Singtel's S$20 plan has only <b>7-day validity</b>; a 5-day stay wastes <b>28%</b>. Roami offers flexible 7-day plans from <b>$1.99/GB</b>."
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "Keep Your Home SIM for Bank OTPs"
-        desc: "Using a local SIM requires removing your home SIM, risking missed bank OTPs. Roami eSIM works alongside your primary SIM."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Singapore's Strict SIM Passport Requirements"
-        desc: "All Singapore prepaid SIMs require passport registration. Singtel and StarHub scan passports in-store. Roami eSIM activates instantly without ID."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Multi-Country Roaming Without Add-ons"
-        desc: "Singtel's roaming add-ons are limited to <b>3-5GB</b>. Roami provides seamless data across Singapore, Malaysia, and Thailand."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

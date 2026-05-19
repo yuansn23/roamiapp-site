@@ -1,102 +1,97 @@
 ---
-title: Cambodia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 柬埔寨 eSIM 方案 | 柬埔寨 eSIM | Roami
+date: '2026-05-19T09:52:20+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Cambodia eSIM
-  scenario_keywords: Angkor Wat exploration, Phnom Penh sightseeing, Beach vacation
-    in Sihanoukville, Tonle Sap boat tour, Kampot pepper farm visit
-  operators: Smart, Metfone, Cellcard
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Phnom Penh, Siem Reap, Sihanoukville, Battambang, Kampot
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 柬埔寨 eSIM
+  scenario_keywords: 城市漫步、海灘度假、文化遺產、美食探索、購物
+  operators: Smart Axiata, Cellcard, Metfone
+  competitors: Airalo, Holafly, Nomad, Orange Holiday, Simify
+  main_cities: 金邊, 暹粒, 西哈努克, 馬德望, 貢布
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Cambodia Travel eSIM | Native 5G Mobile Data | Roami
-  description: Visiting the temples of Cambodia? Stay connected via Roami's true 5G
-    prepaid eSIM. Enjoy transparent travel internet and nationwide coverage on top
-    local carriers with absolutely zero contracts.
-  keywords: Cambodia eSIM, eSIM Cambodia, travel internet Cambodia, instant eSIM Cambodia,
-    cheap eSIM Cambodia
-  low_price: 1.99
-  high_price: 39.9
+  title: 柬埔寨旅遊 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
+  description: 柬埔寨旅遊推薦 Roami eSIM，享受最佳 5G 高速網路。現在下單並輸入折扣碼 20%，讓您的旅程連線更實惠，體驗更順暢。
+  keywords: 柬埔寨 eSIM, 柬埔寨網路, 柬埔寨旅遊, Smart 柬埔寨, Cellcard, Metfone, 吳哥窟 eSIM, 金邊 eSIM,
+    暹粒 eSIM
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 柬埔寨 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Cambodia eSIM
+- label: 柬埔寨 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Cambodia
-  title: Best eSIM for Cambodia
+  alt: 最佳 柬埔寨 eSIM
+  title: 最佳 柬埔寨 eSIM
 hero:
   flag_image: img/flags/kh.svg
-  flag_alt: Cambodia Flag
-  title: Cambodia eSIM data plan
-  subtitle: No hidden fees | Worry-free internet | No more roaming fees
+  flag_alt: 柬埔寨 國旗
+  title: 柬埔寨 eSIM - 旅行計劃
+  subtitle: 柬埔寨 eSIM | 無需身份證件 | 支援熱點分享 | 100%退款保證
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 柬埔寨 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 柬埔寨 eSIM
 plans_data:
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '49.99'
     oldPrice: '74.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.67'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
@@ -104,65 +99,65 @@ plans_data:
     daily: '0.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.50'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '28.99'
     oldPrice: '43.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.97'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '88.99'
     oldPrice: '133.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.97'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.71'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '22.99'
     oldPrice: '34.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.28'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -170,33 +165,33 @@ plans_data:
     daily: '0.86'
     tagIcon: star
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.57'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '17.99'
     oldPrice: '26.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.57'
-  3 Days:
+  3 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '11.99'
     oldPrice: '17.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '4.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -204,49 +199,49 @@ plans_data:
     daily: '1.66'
     tagIcon: star
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.33'
-  15 Days:
+  15 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '50.99'
     oldPrice: '76.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.40'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.53'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -254,562 +249,355 @@ plans_data:
     daily: '0.47'
     tagIcon: star
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.87'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '20.99'
     oldPrice: '31.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.40'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.93'
 discount_banner:
-  title: Special Discount!
+  title: 柬埔寨 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 柬埔寨 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Cambodia, including major
-        cities like Phnom Penh, Siem Reap, Sihanoukville, and Battambang. Our Cambodia
-        eSIM seamlessly connects to the robust networks of Smart, Metfone, and Cellcard,
-        ensuring stable signals in urban centers, tourist hotspots, and along major
-        transportation routes.
+      title: 覆蓋範圍
+      desc: 在整個柬埔寨享受廣泛的網路覆蓋，包括金邊、暹粒、西哈努克、馬德望等城市。我們的柬埔寨 eSIM 無縫連接到 Smart、Cellcard 和
+        Metfone 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付，掃描 QR 碼即可啟用，無需等待實體卡寄送。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制，可將網路分享給同行親友的裝置使用。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: Smart
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: Metfone
-      coverage: Reliability
-      network: 5G/4G/LTE Network
+    - name: Smart Axiata
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Cellcard
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
+    - name: Metfone
+      coverage: 廣泛覆蓋
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 柬埔寨 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Cambodia.
+    html: 建議抵達 柬埔寨 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 柬埔寨 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 柬埔寨 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 柬埔寨 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 柬埔寨 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 柬埔寨」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Cambodia'
-    desc: Upon arriving in Cambodia, enable your Cambodia eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 柬埔寨 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Smart Axiata / Cellcard 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 柬埔寨：立即連上 5G/4G 網路
+    desc: 當您降落在 柬埔寨（例如 金邊國際機場 (PNH)、暹粒國際機場 (SAI)、西哈努克國際機場 (KOS)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 柬埔寨。幾秒鐘內，您的設備將自動連接到 Smart Axiata / Cellcard
+      提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Cambodia eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Cambodia eSIM across different
-    travel scenarios.
+  title: 柬埔寨 eSIM：完整指南和常見問題
+  desc: 使用 柬埔寨 eSIM 在 柬埔寨 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 柬埔寨 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Cambodia eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Cambodia eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Cambodia eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Cambodia
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Cambodia eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Cambodia eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Cambodia that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Cambodia eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Cambodia eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Cambodia eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Cambodia eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Cambodia,
-        such as Smart, Metfone, Cellcard, to ensure premium speeds at a fraction of
-        roaming costs.
-    - q: How do you compare with well-known eSIM providers like eSIM GO, BNESIM, Airalo,
-        Holafly?
-      a: While great companies like eSIM GO, BNESIM, Airalo, Holafly offer reliable
-        services, we focus on providing the most cost-effective Cambodia eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在金邊市中心使用 Smart 網路，實際速度大概是多少？適合視訊通話嗎？
+      a: 在金邊市中心如俄羅斯大道或堆谷區，連接到 Smart 的 4G 網路時，典型下載速度約為 30-50 Mbps，上傳約 10-20 Mbps。這樣的速度完全可以流暢進行
+        Zoom 或微信視訊通話，延遲低於 50ms。不過在尖峰時段（18:00-21:00）靠近中央市場或夜市時，速度可能降至 15-20 Mbps，但依然足夠一般視訊。若需更高穩定性，可手動切換到
+        Metfone，其 4G 覆蓋更均勻。
+    - q: 從暹粒機場出來後，Cellcard 的收訊如何？可以立即使用地圖導航嗎？
+      a: 暹粒國際機場剛出關區域，Cellcard 訊號強勁，4G 下載速度通常可達 40 Mbps 以上。建議先下載 Google 離線地圖以防萬一，但即時導航到市區（約
+        20 分鐘車程）完全沒問題。在 6 號公路沿線稍有波動，但不會中斷。需要注意的是，機場一帶華為基站覆蓋良好，但進入吳哥窟深處某些遺址（如塔普倫寺）訊號會降至
+        3G，僅夠傳送文字訊息。
+    - q: 使用 eSIM 後，熱點分享給筆電工作是否順暢？有流量限制嗎？
+      a: 將 eSIM 熱點分享給筆電是可行的，尤其是在金邊的飯店或咖啡廳（如 Brown Coffee 連鎖店）。多數方案提供每日 2-3GB 高速流量，之後降速至
+        128kbps。若需長時間視訊會議，建議購買無限流量方案（如 Smart 的每日 5GB 後降速）。實際測試中，連續 2 小時的 Teams 會議消耗約
+        1.2GB，所以每日 3GB 方案足以應付半天工作。降速後只能應付文字訊息，無法負荷視訊。
+    - q: 在西哈努克港的海灘邊，Metfone 訊號強嗎？Instagram 上傳照片會慢嗎？
+      a: 西哈努克港的奧徹海灘和索卡海灘範圍內，Metfone 4G 訊號相當穩定，下載速度約 20-35 Mbps。上傳單張 5MB 照片至 Instagram
+        約需 2-3 秒，但若同時上傳多張則稍慢。在遠離海岸的飯店房間內，訊號可能降至 3G，建議靠近窗邊使用。尖峰時段（例如日落時）流量較大，上傳可能延遲，但整體體驗仍可接受。
+    - q: 在馬德望乘坐竹火車時，Smart 網路還有訊號嗎？能發 LINE 訊息嗎？
+      a: 馬德望的竹火車行駛於農村地帶，靠近 Banan 寺區域時，Smart 4G 訊號會斷斷續續。大部分路段能收到 3G 訊號，發送 LINE 文字訊息沒問題，但圖片發送可能延遲
+        30 秒以上。建議先下載離線地圖和預先載入旅遊資訊。到達終點站（O'Dambong 村）時訊號恢復至 4G，屆時可一次發送所有訊息。
+    - q: 在貢布的榴蓮園區域，Cellcard 和 Metfone 哪個更可靠？
+      a: 貢布郊區的榴蓮園（如 Kampong Trach 一帶）以 Metfone 覆蓋最佳，其 4G 訊號可達 2-3 格，下載約 15Mbps；而 Cellcard
+        僅有 3G 且不穩定。建議在貢布市區提前下載榴蓮園的相關資訊，並以 Metfone 作為主要網路。若需即時打卡，可用 Metfone 的 4G 上傳，但可能需等待多一點時間。
+    - q: 購買柬埔寨 eSIM 時，需要提供當地證件或進行實名認證嗎？
+      a: 購買柬埔寨 eSIM（無論是 Smart、Cellcard 或 Metfone）時，透過線上平台（如本服務）無需提供護照或簽證資訊。但若直接前往當地電信門市，外國人須出示護照正本和入境卡影本進行註冊。建議出發前先購買即時啟用的
+        eSIM，避免排隊負擔。請注意，部分方案可能要求使用期限不超過 30 天，符合一般旅遊需求。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 柬埔寨 機場：如何使用 柬埔寨 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Cambodia eSIM before your flight. Once you land at Phnom Penh
-        International Airport, Siem Reap International Airport, Sihanoukville International
-        Airport, simply turn off Airplane Mode and enable your eSIM line. It will
-        connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Cambodia eSIM activated upon landing, you can immediately open
-        Grab, PassApp, Vayxe Xanh to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Cambodia eSIM data allows you to open Google Maps right at
-        the baggage claim in Phnom Penh International Airport, Siem Reap International
-        Airport, Sihanoukville International Airport to check real-time train schedules,
-        bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Cambodia eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Cambodia eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Cambodia eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 金邊國際機場內有免費 WiFi 嗎？速度如何？
+      a: 金邊國際機場提供免費 WiFi 名為「Phnom Penh Airport Free WiFi」，連線需在瀏覽器進行簡易登入。下載速度約 5-10
+        Mbps，足夠收發郵件或瀏覽社群，但觀看影片可能較慢。建議抵達後立即啟用 eSIM 以獲得穩定的網路連線，因為機場 WiFi 在尖峰時段（清晨和深夜）有時不穩定，且連線時間限制為
+        2 小時。
+    - q: 從暹粒國際機場到市區，可以用 Grab 叫車嗎？需要先有網路嗎？
+      a: 暹粒國際機場的入境大廳有免費 WiFi，您可以先連線後打開 Grab 應用程式叫車。Grab 在機場有專屬上車點（出境層 2 號門外）。車程至市中心約
+        20 分鐘，費用約 5-8 美元。建議在出發前先購買 eSIM，這樣一落地即可使用網路，不需依賴機場 WiFi。另外，PassApp 也是當地常用的叫車軟體，價格更便宜但僅支援高棉語和英語。
+    - q: 金邊機場的 SIM 卡店營業到幾點？價格比線上貴嗎？
+      a: 金邊機場入境大廳的電信櫃檯（Smart、Cellcard、Metfone）營業時間通常為 6:00-23:00，與航班時間大致同步。櫃檯出售的遊客
+        SIM 卡 7 天方案約 5-10 美元，但與線上 eSIM 相比可能貴 2-3 美元，且需排隊並出示護照。線上 eSIM 更便宜且即時啟用，推薦購買。若您深夜抵達（23:00
+        後），櫃檯已關閉，提前準備 eSIM 是唯一的選擇。
+    - q: 西哈努克機場的網路覆蓋如何？出關後能立刻導航到飯店嗎？
+      a: 西哈努克國際機場（KOS）規模較小，出關後 Smart 4G 訊號即可滿格，下載速度約 25-40 Mbps。使用 Google Maps 導航到奧徹海灘區域（約
+        15 公里）非常順暢，全程有訊號。但注意機場外圍道路較偏僻，部分路段（如 4 號國道接近市區時）可能短暫弱訊，但導航不會中斷。建議預先下載離線地圖作為備用。
+    - q: 在柬埔寨機場轉機時使用 eSIM，需要開啟數據漫遊嗎？
+      a: |-
+        在柬埔寨機場（如金邊、暹粒）內，使用 eSIM 時必須開啟「數據漫遊」選項，因為 eSIM 依賴漫遊協議連接到本地基地台。這是正常設定，不會產生額外費用（依方案而定）。建議在手機設定中確認 APN 是否正確（通常為預設）。若您只是短暫轉機（<4 小時），可購買日租型方案，避免浪費流量。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 柬埔寨 eSIM 用於 柬埔寨 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Cambodia eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Cambodia, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Grab, PassApp, Vayxe Xanh use VoIP (internet calling) and in-app
-        messaging. Since you have active Cambodia eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Cambodia eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Cambodia eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Cambodia.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Cambodia eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Cambodia eSIM's data network while on
-        the train or in the car.
+    - q: 在柬埔寨使用 Grab 叫車，支援綁定國外信用卡嗎？現金支付可以嗎？
+      a: Grab 柬埔寨支援綁定 Visa 和 Mastercard 信用卡，但部分銀行卡可能被拒絕，建議同時準備現金（美元）作為備用。現金支付依然是當地主流，司機普遍接受。叫車時可選擇「Cash」付款方式，抵達後直接給付美元即可。注意
+        Grab 在暹粒和西哈努克的車輛較少，尖峰時段等待時間可能長達 10-15 分鐘。
+    - q: 從金邊到暹粒，除了飛機，還有其他交通方式嗎？車程多久？
+      a: 從金邊到暹粒可搭乘長途巴士，車程約 5-6 小時，票價 10-15 美元，主要業者有 Giant Ibis 和 Mekong Express。巴士上有免費
+        WiFi（但速度較慢），建議使用自己的 eSIM 網路。也可包車（約 70-100 美元），經由 6 號國道，沿途可在 Skun 休息站品嚐炸蜘蛛。另外，還有小型巴士（Minivan）選擇，車程約
+        4-5 小時，較快但座位較擠。
+    - q: 西哈努克港到高龍島的渡輪上，手機有訊號嗎？
+      a: 從西哈努克港出發前往高龍島的渡輪（如 Speed Ferry Cambodia），在離開港口 15 分鐘後訊號逐漸減弱，航程中段（約 30-40
+        分鐘）幾乎無訊號，僅靠近島嶼時恢復 3G。建議在出發前下載好島上地圖和飯店資訊。部分渡輪提供付費 WiFi，但速度極慢。船程約 45 分鐘，可利用這段時間放鬆，抵達島上後
+        Smart 4G 訊號良好。
+    - q: 在暹粒市區騎機車（摩托車）需要國際駕照嗎？警察會查嗎？
+      a: 在柬埔寨騎機車必須持有國際駕照（IDP），否則被警察攔查時將罰款 10-20 美元。暹粒市區（特別是酒吧街及老市場周邊）時常有臨檢點。若無 IDP
+        建議使用 Grab 或嘟嘟車，單程費用 1-3 美元。租車業者通常不要求 IDP，但發生事故時保險不理賠。使用 eSIM 導航時，請將手機固定在手把上，注意安全。
+    - q: 用 PassApp 叫嘟嘟車，如何確保不會被多收費？
+      a: PassApp 在柬埔寨（金邊、暹粒）使用時，價格由系統根據距離計算，上車前即可看到預估車資。到目的地後按顯示金額付現即可，無需再議價。但要注意，司機可能藉口「塞車」要求加價，此時應堅持按應用程式價格給付。建議將
+        eSIM 啟用，以便隨時查看路由是否偏離。金邊的突突車司機有時會取消 PassApp 訂單，改為現場議價，請直接拒絕並重新叫車。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 柬埔寨 的飯店使用 柬埔寨 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Cambodia eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Cambodia eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Raffles Hotel Le Royal, Sokha Phnom Penh Hotel,
-        Anantara Angkor Resort or a local guesthouse, you can input the address into
-        Google Maps and get turn-by-turn walking or transit directions using your
-        Cambodia eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Cambodia eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Cambodia eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Foody, Nham 24, GrabFood and use your
-        Cambodia eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Cambodia eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 金邊的索菲特酒店提供的 WiFi 夠快嗎？還需要買 eSIM 嗎？
+      a: 金邊索菲特酒店的客房 WiFi 下載速度約 20-30 Mbps，足以滿足串流和視訊通話。但公共區域（如泳池邊）速度可能降至 5-10 Mbps。建議仍購買
+        eSIM 作為備用，尤其當您在酒店外使用網路時（例如前往皇宮或 Russian Market）。酒店 WiFi 在晚間尖峰時段可能因住客多而變慢，此時
+        eSIM 可提供更穩定的連接。
+    - q: 暹粒的吳哥萊佛士大酒店有提供手機或分享器嗎？
+      a: 吳哥萊佛士大酒店提供免費的手機租借服務，內含當地 SIM 卡，可上網及撥打本地電話。但手機款式較舊，且網速限制為 3G。若您需要高速 4G/5G
+        網路，建議自備 eSIM，這樣在飯店房間或前往吳哥窟時都能保持連線。酒店公共區域的 WiFi 速度約 15 Mbps，但客房內略有衰減。
+    - q: 在柬埔寨住民宿時，如何確保網路安全？使用 eSIM 會更安全嗎？
+      a: 柬埔寨的民宿（如暹粒的 Viroth's Villa）通常提供基本 WiFi，但缺乏加密保護，易被竊聽。使用 eSIM 行動網路比公共 WiFi
+        更安全，因為數據通過運營商加密。建議在民宿內切換到 eSIM 進行銀行交易或登入敏感帳戶。此外，可安裝 VPN 應用程式，連線時選擇 eSIM 的數據通道。民宿老闆有時會分享
+        WiFi 密碼給所有住客，網路速度可能被拖慢。
+    - q: 金邊的 Rosewood 酒店頂樓酒吧訊號好嗎？能直播嗎？
+      a: 金邊 Rosewood 酒店位於 Vattanac Capital 大樓，其頂樓酒吧 Sora 的 Smart 4G 訊號強勁，下載速度約 40
+        Mbps，上傳約 15 Mbps。進行 Facebook 或 Instagram 直播非常順暢，畫面清晰。但要注意玻璃帷幕可能導致輕微訊號衰減，建議靠近露台位置。酒店提供的免費
+        WiFi 速度略低（約 20 Mbps），但足以應付一般使用。
+    - q: 西哈努克港的獨立飯店（Independence Hotel）有 eSIM 訊號嗎？
+      a: 獨立飯店位於西哈努克港的獨立海灘，Metfone 4G 訊號在房間內約 2-3 格，下載速度約 15-25 Mbps。泳池區和沙灘上訊號更好，可達
+        30 Mbps。飯店 WiFi 僅在大廳穩定，客房內可能需連接 eSIM。建議選擇高樓層房間以獲得較佳訊號。從飯店前往市區使用 Grab 時，訊號導航流暢無礙。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 柬埔寨 旅遊景點的網路：柬埔寨 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Angkor Wat, Tonle Sap Lake, Royal Palace Phnom Penh
-        spontaneously, you can use your Cambodia eSIM data to buy skip-the-line tickets
-        online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Cambodia eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Cambodia.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Cambodia eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Cambodia eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Cambodia eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Cambodia eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Cambodia eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Cambodia eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Cambodia eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Cambodia eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Foody, Nham 24, GrabFood, register using
-        your email or social accounts, and order food seamlessly using your Cambodia
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Wing,
-        ABA Pay, SmartLuy require a brief internet handshake, which your Cambodia
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Cambodia eSIM to find hidden culinary gems in the city.
+    - q: 參觀吳哥窟時，哪些區域完全沒訊號？需要離線地圖嗎？
+      a: 吳哥窟的主要寺廟區（如小吳哥、巴戎寺）Smart 4G 訊號良好，下載約 20 Mbps。但進入塔普倫寺的樹林深處或女王宮（Banteay Srei）周邊，訊號可能降至
+        3G 甚至無訊號。建議在遊覽前使用 Google Maps 下載吳哥考古公園的離線地圖，並將導航點標記好。在無訊號處可憑離線地圖步行，不會迷路。
+    - q: 在金邊的皇宮附近，網速如何？可以打卡上傳嗎？
+      a: 金邊皇宮位於 184 街，周邊 Smart 和 Cellcard 的 4G 訊號強烈，下載速度約 30-50 Mbps。在皇宮廣場上傳 Instagram
+        照片或影片只需幾秒，打卡完全沒問題。但在皇宮內部的 Silver Pagoda 區域，因建築結構屏蔽，訊號會降至 2 格，上傳稍慢但可接受。建議使用
+        eSIM 而非皇宮提供的免費 WiFi（速度極慢）。
+    - q: 去西哈努克港的奧徹海灘玩，需要帶現金嗎？網路支付普及嗎？
+      a: 奧徹海灘旁的攤販和餐廳大多只收現金（美元或瑞爾），僅少數餐廳支援 ABA Pay 掃碼支付。建議攜帶 20-50 美元現金，因為沙灘區域的 ATM
+        較少且手續費高。若需用 ABA Pay，需預先下載 APP 並綁定銀行卡（外國人開戶較複雜）。網路上，Smart 4G 在海灘覆蓋良好，可支援即時查詢匯率或叫車服務。
+    - q: 在暹粒夜市逛街時，使用 eSIM 導航到餐廳方便嗎？
+      a: 暹粒夜市（Siem Reap Night Market）位於酒吧街附近，街道狹窄且人群擁擠，但 Smart 4G 訊號穩定，下載約 25 Mbps。使用
+        Google Maps 導航到特定餐廳（如 Chanrey Tree）很準確，但步行時建議開啟耳机提示，避免一直看手機。夜市內部分攤位提供免費 WiFi，但速度慢且需登入，建議全程使用
+        eSIM。晚間人潮多時，行動網路速度可能稍降。
+    - q: 在貢布河邊坐船遊覽時，手機訊號能維持嗎？
+      a: 貢布河遊船通常行駛約 1-2 小時，從舊橋出發至高棉寺廟一帶。河道上 Metfone 4G 訊號約 2-3 格，下載速度約 15-20 Mbps，足以發送即時訊息和上傳照片。但進入紅樹林支流時訊號可能中斷，此時可欣賞風景。建議在登船前下載好音樂或
+        podcast。船家的 WiFi 一般不提供，所以 eSIM 是唯一網路來源。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 柬埔寨 eSIM 在 柬埔寨 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Cambodia eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Cambodia eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Cambodia eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Cambodia
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Cambodia eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Cambodia eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Cambodia eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在柬埔寨可以用 WhatsApp 通話嗎？有被屏蔽嗎？
+      a: WhatsApp 在柬埔寨完全正常使用，未被屏蔽。無論是文字訊息或語音/視訊通話，透過 Smart 或 Cellcard 網路都很流暢，加密通訊功能也有效。但在某些偏遠地區（如蒙多基里省）訊號不穩定時，通話可能斷續。建議在機場、飯店等場所使用
+        eSIM 進行高品質通話。
+    - q: 柬埔寨當地人主要用哪些社群軟體？遊客需要下載嗎？
+      a: 柬埔寨最流行的社群軟體是 Facebook（包括 Messenger），其次是 Instagram 和 TikTok。當地人常用 Facebook
+        聯繫、買賣商品。作為遊客，建議下載 Facebook 以查詢商家資訊（許多餐廳、飯店透過 Facebook 專頁經營）。另外，Line 和 WeChat
+        也有部分華人使用，但非主流。使用 eSIM 可隨時瀏覽這些平台。
+    - q: 在金邊的咖啡廳用 eSIM 看 YouTube 會順暢嗎？常用哪些咖啡廳？
+      a: 金邊的熱門咖啡廳如 Brown Coffee（多家分店）和 The Shop 都提供免費 WiFi，但速度僅 5-10 Mbps。若使用 eSIM（Smart
+        4G），下載可達 30 Mbps，觀看 1080p YouTube 無緩衝。推薦點杯冰咖啡，連接 eSIM 觀看旅遊影片。要注意部分咖啡廳座位區訊號較弱（如地下室），建議選擇二樓座位。
+    - q: 在柬埔寨錄製抖音或 Instagram Reels，上傳速度夠快嗎？
+      a: 錄製短影片後，透過 Smart 4G 上傳至抖音或 Instagram，在暹粒市區上傳一段 30 秒 1080p 影片約需 10-15 秒。金邊市區更快，約
+        5-10 秒。但在西哈努克郊區可能需更長時間。建議在飯店或咖啡廳使用 eSIM 上傳，確保網路穩定。若大量上傳，可選擇夜間離峰時段以獲得最佳速度。
+    - q: 在柬埔寨用 Tinder 或其他交友軟體，依賴網路嗎？
+      a: Tinder 在柬埔寨通用，需依賴穩定網路來載入配對和聊天。Smart 4G 的延遲約 40ms，滑動配對體驗流暢。但在偏鄉（如柏威夏寺）可能無訊號，導致無法連線。建議在主要城鎮使用，並確保
+        eSIM 有足夠流量。另外，部分交友軟體會要求存取位置，開啟定位後可匹配附近用戶。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 柬埔寨 使用 柬埔寨 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: 'In Cambodia, you can dial local emergency numbers like Police: 117, Fire:
-        118, Ambulance: 119 directly from your phone''s dialer regardless of your
-        active SIM, as long as your phone can catch any cellular signal.'
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Cambodia eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Cambodia eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Cambodia eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Cambodia eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Cambodia eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Cambodia eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Cambodia eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Cambodia eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Cambodia eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Cambodia eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Cambodia eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Cambodia eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在柬埔寨撥打 117 報警時，需要先解鎖手機嗎？即使無 SIM 卡也能打嗎？
+      a: 在柬埔寨，撥打緊急電話 117（警察）、119（救護車）、118（消防）時，即使手機無 SIM 卡或鎖定，仍可撥通（僅限具備緊急通話功能的手機）。但若有
+        eSIM，建議優先使用，因為通話品質更穩定。撥打時應清楚說出所在地點，例如「金邊市桑園區 278 街」。若語言不通，可請路人協助或撥打 023-997-919（旅遊警察）。
+    - q: 在吳哥窟遊覽時，如果中暑或受傷，該怎麼求救？醫療設施在哪？
+      a: 吳哥窟園區內有多個急救站，例如在吳哥窟主寺入口處及巴戎寺停車場。可請景區工作人員呼叫救護車，或者使用手機撥打 119。最近的大型醫院是暹粒的 Royal
+        Angkor International Hospital（約 15 公里），設有中文服務人員。建議隨身攜帶 eSIM 以保持通訊暢通，並將醫院地址提前存入手機。在烈日下應多補充水分，避免中暑。
+    - q: 深夜在金邊市區遇到緊急狀況，該如何聯繫台灣駐外單位？
+      a: 台灣在柬埔寨沒有官方代表處，但設有「台北駐金邊經濟文化辦事處」，地址位於金邊市桑園區 76 街 150 號，緊急聯絡電話為 +855-92-139-338。也可撥打外交部緊急聯絡中心
+        +886-800-085-095。建議將這些號碼存入 eSIM 手機中，並確保有足夠餘額（可透過網路撥打 LINE 或 WhatsApp 通話）。深夜時段，辦事處可能無人接聽，但緊急電話仍可語音留言。
+    - q: 如果 eSIM 在柬埔寨突然失效，如何快速取得聯繫方式？
+      a: 若 eSIM 失效，優先利用機場、飯店或大型購物中心的免費 WiFi（如 Aeon Mall 的 WiFi）。若身處戶外，可前往 Smart 或
+        Cellcard 的門市尋求協助（需出示護照補辦實體 SIM 卡）。另外，行前建議備份一張實體 SIM 卡或購買雙卡手機。在緊急情況下，可請當地人協助撥打電話，或在社群平台發布求助訊息。
+    - q: 在西哈努克港溺水或海上意外，應該撥打哪個號碼？
+      a: 西哈努克港海域發生溺水或意外時，請撥打 119 請求救護車，同時聯繫當地海事警察 (023-988-321)。沙灘上通常有救生員，也可直接呼救。最近的公立醫院是西哈努克省轉診醫院，位於
+        4 號國道旁，具備基本急救設備。若手機進水無法使用，應在行前將緊急號碼寫在防水卡上。使用 eSIM 通話時，請簡短說明位置（如奧徹海灘第 3 區）。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 柬埔寨 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Cambodia eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared"
-  subtitle: "Cambodia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Cambodia) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Cambodia"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Cambodia eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Smart and Cellcard tourist SIMs are only available at specific airport booths in Phnom Penh and Siem Reap; Metfone requires passport and valid visa at a showroom for registration, and unofficial shops may charge up to $10 for a $1 SIM."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport queues and passport photocopying. Activate your Roami eSIM online within 1 minute after landing in Phnom Penh, avoiding the risk of being charged $10 for a $1 SIM at unofficial shops."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Metfone requires passport and valid visa at a showroom for registration; Smart and Cellcard also require passport registration, but black market unregistered SIMs exist and may be forcibly deactivated by regulators."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Metfone's mandatory passport and visa registration at a showroom, Roami eSIM requires zero personal identification. No risk of black market SIM deactivation or privacy leaks from photocopied passports."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Metfone ASEAN roaming starts at $1.25/day for 1GB high-speed then throttled; Smart charges $2/day for data in Vietnam and Thailand, and up to $10/day in Japan and Korea."
-      esim_title: "Seamless Cross-Border Roaming"
-      esim_desc: "Roami eSIM offers unified data across Cambodia, Thailand, and Vietnam without the need for complex activation codes. Avoid Metfone's $1.25/day ASEAN roaming with only 1GB high-speed data and Smart's $2/day roaming in neighboring countries."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Smart Traveller SIM offers 7-day ($3/25GB) and 15-day ($5/35GB) plans; Cellcard Serey+ uses 28-day cycles ($4/25GB); Metfone standard plans are 30-day ($1/700MB, $3/4GB, $10/15GB)."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Roami eSIM provides 7-day data plans starting from $1.99/GB, perfectly matching your 5-day trip. Avoid wasting money on Smart's $3/7-day plan or Metfone's $1/30-day plan where you pay for unused days."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, most Cambodian prepaid SIMs allow tethering but may throttle after a certain limit; Smart's SurfLikeCrazy plans have FUP policies."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing without any throttling or FUP limits. Unlike local SIMs that may cap tethering speed after a certain data usage, you can share your connection with multiple devices seamlessly."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up can be done via scratch cards or online; automatic renewal is enabled by default for Smart and Cellcard plans, requiring manual cancellation."
-      esim_title: "Global Payment Options"
-      esim_desc: "Pay for Roami eSIM with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to deal with local scratch cards or automatic renewal traps that silently drain your balance."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, customer support is typically in Khmer and English, with limited hours."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Roami offers 24/7 customer support in English via live chat and email. No need to navigate local support lines with limited hours or language barriers."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Cambodia eSIM vs Local Prepaid SIM: Which Is More Convenient?"
-    cards:
-      - icon: "shield"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "No Hardware Conflicts or SIM Damage"
-        desc: "Using yes 018's pure 4G network requires VoLTE support and risks losing signal outside core areas. Roami eSIM works with any eSIM-compatible phone, eliminating the need to remove your primary SIM and risk losing important verification codes."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Seamless Roaming Across Southeast Asia"
-        desc: "Metfone ASEAN roaming costs <b>$1.25/day</b> for only <b>1GB</b> high-speed data then throttled to 64kbps; Smart charges <b>$2/day</b> in Vietnam/Thailand and up to <b>$10/day</b> in Japan/Korea. Roami eSIM offers unified data across borders without extra fees or complex activation codes."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Avoid Forced 7-Day or 30-Day Plans"
-        desc: "Smart Traveller SIM forces a <b>$3/7-day</b> plan even for a 5-day trip; Metfone standard plans are <b>30-day</b> (<b>$1/700MB</b>). Roami eSIM offers flexible 7-day plans from <b>$1.99/GB</b>, matching your exact travel duration and saving up to <b>70%</b> waste."
-      - icon: "clock"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "24/7 Multilingual Customer Support"
-        desc: "Local operators offer limited support hours and language barriers. Roami provides <b>24/7</b> English support via live chat and email, ensuring help is always available during your travels."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

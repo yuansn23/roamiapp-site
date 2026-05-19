@@ -1,645 +1,394 @@
 ---
-title: Botswana eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 波札那 eSIM 方案 | 波札那 eSIM | Roami
+date: '2026-05-19T10:14:53+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Botswana eSIM
-  scenario_keywords: Botswana safari travel, Okavango Delta exploration, Chobe National
-    Park visit, Maun adventure
-  operators: Mascom, Orange, BTC
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Gaborone, Francistown, Maun, Kasane, Serowe
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 波札那 eSIM
+  scenario_keywords: 動物園探險, 城市漫步, 傳統市場, 美食體驗, 沙漠探險
+  operators: Mascom, BTC, Orange
+  competitors: Airalo, Holafly, Nomad, BNESIM, Ubigi
+  main_cities: 哈博羅內, 馬翁, 卡薩內, 弗朗西斯敦, 莫萊波洛萊
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Botswana eSIM Plan | Top Local Carrier Full-Speed 5G | Roami
-  description: Traveling to Botswana? Stay connected via Top Local Carrier True 5G
-    with Worry-Free Data. Enjoy No Roaming Fees and Auto Network Switch, tailored
-    for Business Trips.
-  keywords: Botswana eSIM, prepaid eSIM Botswana, cheap eSIM Botswana, unlimited data
-    Botswana, travel internet Botswana
-  low_price: 1.99
-  high_price: 39.9
+  title: 波札那 eSIM | 流量吃到飽 | 5G網路自動切換 | Roami
+  description: 波札那旅遊首選 Roami eSIM，流量吃到飽且支援 5G 網路自動切換。立即購買並輸入折扣碼 20%，享受最優質的網路連線體驗。
+  keywords: 波札那 eSIM, 波札那上網卡, 波札那旅遊, 波札那網路覆蓋, Mascom eSIM, Orange 波札那
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 波札那 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Botswana eSIM
+- label: 波札那 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Botswana
-  title: Best eSIM for Botswana
+  alt: 最佳 波札那 eSIM
+  title: 最佳 波札那 eSIM
 hero:
   flag_image: img/flags/bw.svg
-  flag_alt: Botswana Flag
-  title: Botswana eSIM data plan
-  subtitle: Travel essential | Bestseller | No ID required
+  flag_alt: 波札那 國旗
+  title: 波札那 eSIM - 旅行計劃
+  subtitle: 波札那 eSIM | 高速5G網路 | 即時交付 | 流量吃到飽
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 波札那 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 波札那 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '14.99'
     oldPrice: '22.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.14'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '35.99'
     oldPrice: '53.98'
     tag: ''
     tagColor: bg-orange-500
     daily: '2.40'
     tagIcon: star
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
 discount_banner:
-  title: Special Discount!
+  title: 波札那 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 波札那 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Botswana, including major
-        cities like Gaborone, Francistown, Maun, and Kasane. Our Botswana eSIM seamlessly
-        connects to the robust networks of Mascom, Orange, and BTC, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個波札那享受廣泛的網路覆蓋，包括哈博羅內、馬翁、卡薩內和弗朗西斯敦等城市。我們的波札那 eSIM 無縫連接到 Mascom、BTC 和
+        Orange 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Mascom
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Orange
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: BTC
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 波札那 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Botswana.
+    html: 建議抵達 波札那 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 波札那 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 波札那 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 波札那 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 波札那 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 波札那」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Botswana'
-    desc: Upon arriving in Botswana, enable your Botswana eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 波札那 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Mascom / BTC 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 波札那：立即連上 5G/4G 網路
+    desc: 當您降落在 波札那（例如 塞雷茨·卡馬爵士國際機場 (哈博羅內), 馬翁機場, 卡薩內機場）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往
+      **設定 → 行動服務** 並開啟您的 Roami eSIM 波札那。幾秒鐘內，您的設備將自動連接到 Mascom / BTC 提供的最快可用 5G/4G
+      網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Botswana eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Botswana eSIM across different
-    travel scenarios.
+  title: 波札那 eSIM：完整指南和常見問題
+  desc: 使用 波札那 eSIM 在 波札那 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 波札那 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Botswana eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Botswana eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Botswana eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Botswana
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Botswana eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Botswana eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Botswana that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Botswana eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Botswana eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Botswana eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Botswana eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Botswana,
-        such as Mascom, Orange, BTC, to ensure premium speeds at a fraction of roaming
-        costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, Nomad eSIM,
-        Airalo, Redtea Mobile?
-      a: While great companies like Holafly, Nomad eSIM, Airalo, Redtea Mobile offer
-        reliable services, we focus on providing the most cost-effective Botswana
-        eSIM, ensuring lower latency and better prices with our automatic price-matching
-        system.
+    - q: 在哈博羅內市中心，使用 Mascom 網路觀看 YouTube 的體驗如何？
+      a: 在哈博羅內市中心，例如獨立大道或河邊散步區，連接到 Mascom 網路時，下載速度通常在 30-50 Mbps，可以流暢觀看 1080p 的 YouTube
+        影片，甚至偶爾能看 4K。然而，在晚上尖峰時段（18:00-21:00），靠近 Game City 購物中心或火車站附近，速度可能下降至 10-15
+        Mbps，但對於串流音樂或社群媒體瀏覽仍然足夠。如果進行視訊通話，建議避開下班時間，並確保你在訊號較強的區域。
+    - q: 在奧卡萬戈三角洲，Orange 網路的覆蓋情況如何？
+      a: 在奧卡萬戈三角洲的主要營地，例如莫雷米野生動物保護區附近的營地，Orange 網路通常提供穩定的 4G 連接，下載速度約 10-20 Mbps，足以發送照片或進行語音通話。但當你深入三角洲內部進行獨木舟遊覽時，訊號可能變弱甚至中斷，尤其是在蘆葦叢中。建議遊客提前下載離線地圖，並在有訊號的營地上傳重要檔案。
+    - q: 在波札那使用 eSIM 需要註冊嗎？是否需要護照？
+      a: 購買我們的 eSIM 後，您無需提供護照或進行實名註冊，即可在連接到 Mascom 或 Orange 網路時使用。這是因為我們的 eSIM 是預先配置的，並且遵守波札那的電信法規。不過，請確保您的手機支援
+        eSIM 功能，並在購買前檢查相容性。如果您計劃在波札那長期停留，可能需要當地實體 SIM 卡，但 eSIM 對於短期旅行非常方便。
+    - q: 在馬翁機場，連接到 BTC 網路的速度如何？
+      a: 在馬翁機場，BTC 網路提供穩定的 4G/LTE 連接，下載速度約 20-30 Mbps，這使得您可以快速下載地圖或與家人報平安。機場室內訊號良好，但在停車場或室外區域可能略有波動。如果您需要傳輸大檔案，建議在航廈內完成，因為機場附近沒有明顯的訊號死角。
+    - q: 在喬貝國家公園內，BT C 和 Mascom 哪個網路更好？
+      a: 在喬貝國家公園的主要區域，例如薩武特通道附近，Mascom 通常提供更穩定的 4G 訊號，下載速度約 15-25 Mbps，適合分享 Safari
+        照片。然而，在公園深處的叢林小徑上，BTC 的覆蓋範圍更廣，但速度較慢，約 5-10 Mbps。建議遊客同時對比兩者，並在需要時手動切換，但我們的
+        eSIM 會自動選擇最佳網路。
+    - q: 在波札那使用 eSIM 有流量限制嗎？超出後會怎樣？
+      a: 我們的波札那 eSIM 方案提供每日固定流量（例如每天 1GB），超出後速度會降低至約 256 kbps，但仍可用於傳送 WhatsApp 訊息或查看電子郵件。這個公平使用政策適用於所有運營商，但
+        Mascom 在超過後通常保持較穩定的低速，而 Orange 可能會在尖峰時段進一步降速。建議您根據使用習慣選擇足夠的流量方案，或利用飯店的免費 Wi-Fi
+        補充。
+    - q: 在弗朗西斯敦使用 Orange 網路玩手遊的延遲如何？
+      a: 在弗朗西斯敦市中心，例如靠近藍松樹購物中心的區域，Orange 網路的延遲通常在 40-60 毫秒，適合玩《王者榮耀》或《絕地求生》等即時遊戲。但在遠離市區的郊區，例如恩特洛亞尼，延遲可能上升到
+        80-100 毫秒，偶爾出現卡頓。如果您是重度手遊玩家，建議在連接到 Mascom 網路時玩，因為其在該城市的 5G 覆蓋更佳，延遲更低。
+    - q: 在波札那的野生動物保護區內，如何確保 eSIM 有訊號？
+      a: 在波札那的保護區，例如莫雷米保護區，訊號僅在主要營地或觀景點附近穩定，偏遠地區可能無服務。建議您提前下載 Google 離線地圖，並將手機切換到僅
+        4G 模式以省電。我們的 eSIM 會優先連接 Mascom ，因為其在保護區的覆蓋率較高。另外，攜帶一個行動電源，因為持續搜尋訊號會快速耗電。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 波札那 機場：如何使用 波札那 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Botswana eSIM before your flight. Once you land at Sir Seretse
-        Khama International Airport (GBE), Maun Airport (MUB), Kasane Airport (BBK),
-        simply turn off Airplane Mode and enable your eSIM line. It will connect to
-        the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Botswana eSIM activated upon landing, you can immediately open
-        Bolts (Bolt), Taxify (Bolt), Gaborone City Taxi to book a ride or use WhatsApp
-        to message your pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Botswana eSIM data allows you to open Google Maps right at
-        the baggage claim in Sir Seretse Khama International Airport (GBE), Maun Airport
-        (MUB), Kasane Airport (BBK) to check real-time train schedules, bus routes,
-        or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Botswana eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Botswana eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Botswana eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 在塞雷茨·卡馬爵士國際機場如何購買 eSIM？
+      a: 您可以在抵達前線上購買我們的 eSIM，立即透過電子郵件接收啟動碼。機場內有免費 Wi-Fi，可用於掃描 QR 碼。如果遇到問題，機場的電信櫃檯（如
+        Mascom）也可提供協助，但購買當地 SIM 卡需要護照。建議您提前在家安裝 eSIM，這樣一下飛機即可連接。
+    - q: 馬翁機場有免費 Wi-Fi 嗎？速度如何？
+      a: 馬翁機場提供免費 Wi-Fi，但速度較慢，約 1-2 Mbps，僅用於傳送文字訊息或瀏覽網頁。因此，建議您使用 eSIM 以獲得更快的連接。機場內的咖啡廳區域訊號較好，但尖峰時段可能擁擠。
+    - q: 哈博羅內機場附近有什麼推薦的飯店？
+      a: 機場附近有哈博羅內太陽度假村及賭場，距離約 5 公里，提供接駁車服務。另一家是 Gaborone International Hotel，步行即可到達。兩家飯店都提供免費
+        Wi-Fi，但速度有限。
+    - q: 從卡薩內機場到喬貝國家公園需要多久？
+      a: 卡薩內機場距離喬貝國家公園的入口僅約 5 公里，開車約 10 分鐘。許多飯店提供接駁服務。建議您在抵達前啟動 eSIM，以便在機場聯絡接駁司機。
+    - q: 在波札那機場可以買到當地 SIM 卡嗎？
+      a: 是的，在塞雷茨·卡馬爵士國際機場、馬翁機場和卡薩內機場都有 Mascom 和 Orange 的櫃檯，您可以用護照購買預付卡。但與我們的 eSIM
+        相比，當地 SIM 卡需要排隊並且設定較複雜。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 波札那 eSIM 用於 波札那 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Botswana eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Botswana, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Bolts (Bolt), Taxify (Bolt), Gaborone City Taxi use VoIP (internet
-        calling) and in-app messaging. Since you have active Botswana eSIM data, drivers
-        can call or message you directly through the app without needing a local phone
-        number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Botswana eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Botswana eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Botswana.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Botswana eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Botswana eSIM's data network while on
-        the train or in the car.
+    - q: 在哈博羅內使用 Gophie 叫車方便嗎？
+      a: Gophie 是哈博羅內的主要叫車 App，類似 Uber，在市中心和購物區（如 Riverwalk）覆蓋良好。費用約每公里 8-12 普拉，可用現金或信用卡支付。但在偏遠地區可能等待時間較長。
+    - q: 從馬翁到奧卡萬戈三角洲有公共巴士嗎？
+      a: 從馬翁巴士站有前往莫雷米保護區入口的迷你巴士，車程約 1-2 小時，費用約 30 普拉。但巴士班次不固定，建議使用計程車或參加旅行團。
+    - q: 波札那的計程車如何計費？需要提前談價錢嗎？
+      a: 波札那的計程車通常不按表計費，需要上車前與司機談好價格。市區短途約 30-50 普拉，機場接送約 100-150 普拉。建議使用叫車 App 以避免議價。
+    - q: 在卡薩內租車自駕需要注意什麼？
+      a: 卡薩內有許多租車公司，如 Avis 和 Budget，但左駕行駛，道路偏泥濘。建議購買全險，並確保汽車有衛星導航。前往喬貝國家公園的遊客最好租用四輪傳動車。
+    - q: 波札那的長途巴士可靠嗎？從哈博羅內到馬翁需要多久？
+      a: 長途巴士（如 Union Express）從哈博羅內到馬翁約需 6-8 小時，票價約 150 普拉。巴士有冷氣，但路況部分路段較差。建議提早預訂座位，並準備零食。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 波札那 的飯店使用 波札那 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Botswana eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Botswana eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Belmond Safaris, Wilderness Safaris, The Grand
-        Palm Hotel or a local guesthouse, you can input the address into Google Maps
-        and get turn-by-turn walking or transit directions using your Botswana eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Botswana eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Botswana eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download HelloFresh Botswana, EatOut Botswana,
-        FoodNet Botswana and use your Botswana eSIM data to order a hot meal directly
-        to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Botswana eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 在馬翁有什麼推薦的經濟型住宿？
+      a: 馬翁避風港旅館提供乾淨的雙人房，每晚約 300 普拉，附早餐。位於市中心，靠近機場。另一家是 Audi Camp，提供露營和背包客房。
+    - q: 在喬貝國家公園附近的高級飯店有哪些？
+      a: Belmond Safaris 的 Chobe Game Lodge 提供豪華住宿，每晚約 2000 普拉起，包含導覽遊。還有一家 Chobe Marina
+        Lodge，擁有私人碼頭。
+    - q: 哈博羅內太陽度假村及賭場的網路速度快嗎？
+      a: 飯店提供免費 Wi-Fi，但速度一般，約 5-10 Mbps。建議使用 eSIM 以獲得更穩定的連接，尤其在高需求時段。
+    - q: 波札那的飯店通常提供哪些設施？
+      a: 城市飯店通常有泳池、餐廳和停車場，但偏遠地區的營地可能只有基本設施。部分飯店提供 Safari 套裝行程。
+    - q: 在卡薩內有適合家庭入住的飯店嗎？
+      a: 卡薩內的 The Waterfront Lodge 提供家庭客房和兒童活動，距離喬貝河僅步行距離。另一家是 Cresta Mowana Safari
+        Lodge，適合家庭。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 波札那 旅遊景點的網路：波札那 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Okavango Delta, Chobe National Park, Moremi Game Reserve
-        spontaneously, you can use your Botswana eSIM data to buy skip-the-line tickets
-        online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Botswana eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Botswana.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Botswana eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Botswana eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Botswana eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Botswana eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Botswana eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Botswana eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Botswana eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Botswana eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like HelloFresh Botswana, EatOut Botswana, FoodNet
-        Botswana, register using your email or social accounts, and order food seamlessly
-        using your Botswana eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Bank
-        Gaborone, First National Bank Botswana, Orange Money require a brief internet
-        handshake, which your Botswana eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Botswana eSIM to find hidden culinary gems in the city.
+    - q: 喬貝國家公園最方便的遊覽方式是什麼？
+      a: 參加從卡薩內出發的半天或全天 Safari 車遊，費用約 400-600 普拉/人。公園內有大量大象和獅子，道路良好，適合一般車輛。
+    - q: 奧卡萬戈三角洲的獨木舟遊覽適合初學者嗎？
+      a: 在莫雷米保護區的導覽獨木舟（Mokoro）非常適合初學者，當地導遊會控制平衡。行程約 2-3 小時，費用約 200 普拉。記得穿救生衣。
+    - q: 卡拉哈里沙漠值得參觀嗎？如何到達？
+      a: 卡拉哈里沙漠的中央卡拉哈里保護區以野生動物和星空聞名。從哈博羅內駕車約 5 小時，建議參加旅行團。最好帶足水和補給。
+    - q: 在哈博羅內有推薦的博物館嗎？
+      a: 波札那國家博物館位於市中心，展示傳統文化和考古發現，門票免費。還有三酋長雕像紀念碑，適合拍照。
+    - q: 卡薩內除了國家公園還有什麼好玩的？
+      a: 卡薩內的喬貝河遊船可以看到河馬和鱷魚，費用約 300 普拉。還有傳統市場販售手工藝品。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 波札那 eSIM 在 波札那 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Botswana eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Botswana eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Botswana eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Botswana
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Botswana eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Botswana eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Botswana eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在波札那用 WhatsApp 打電話順暢嗎？
+      a: 一般而言，使用 WiFi 或 eSIM 的 4G 網路時，WhatsApp 通話在哈博羅內和馬翁非常流暢，但在偏遠保護區可能斷續。建議使用 Mascom
+        網路。
+    - q: 波札那的 Facebook 和 Instagram 有沒有被封鎖？
+      a: 所有主流社群平台（Facebook、Instagram、Twitter、TikTok）在波札那都可正常使用，沒有審查。您可以使用 eSIM 順暢瀏覽。
+    - q: 在 Safari 期間如何保持社群媒體更新？
+      a: 在 Safari 營地通常有 WiFi，但速度慢。建議使用 eSIM 分享照片，並在離開保護區後批量發文。
+    - q: 波札那的當地人常用哪些社交媒體？
+      a: Facebook 和 WhatsApp 最受歡迎，其次為 Instagram。許多商家使用 Facebook 頁面宣傳。
+    - q: 在偏遠地區，視訊通話（如 Zoom）可行嗎？
+      a: 在馬翁或卡薩內的飯店，4G 網路可以支援低品質視訊通話，但在保護區內可能不可行。建議使用語音通話代替。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 波札那 使用 波札那 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Botswana, you can dial local emergency numbers like 997 (Police), 998
-        (Ambulance), 999 (Fire) directly from your phone's dialer regardless of your
-        active SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Botswana eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Botswana eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Botswana eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Botswana eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Botswana eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Botswana eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Botswana eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Botswana eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Botswana eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Botswana eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Botswana eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Botswana eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在波札那遇到緊急情況應該打哪個電話？
+      a: 全國通用緊急號碼是 911，可聯絡警察、救護車和消防。另外，醫療緊急可打 997。這些服務在主要城市反應較快。
+    - q: 波札那的主要醫院有哪幾家？
+      a: 哈博羅內公主瑪麗醫院是最大的公立醫院，還有私立醫院如 Gaborone Private Hospital。馬翁有馬翁醫院。
+    - q: 我在 Safari 途中受傷怎麼辦？
+      a: 立即聯繫導遊或營地管理員，他們會安排交通工具送您到最近的診所。偏遠地區有小型醫護站。
+    - q: 波札那的大使館在哪裡？如何聯繫？
+      a: 大多數大使館位於哈博羅內，例如美國大使館在獨立大道。建議提前儲存聯絡方式。
+    - q: 在波札那遺失護照怎麼辦？
+      a: 立即聯繫當地警察局報案，並前往所屬大使館辦理臨時旅行證件。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 波札那 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Botswana eSIM vs SIM Card Plans: Which One Fits Your Needs?"
-  subtitle: "Botswana Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Botswana) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Botswana"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Botswana eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Since 2017, local law requires in-person purchase at Mascom, Orange, or BTC stores with passport; airport kiosks may not be available after hours."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Mascom store queues and passport checks. Activate online within 1 minute before landing in Gaborone."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All prepaid SIMs require mandatory registration at the operator's store with a passport; Orange explicitly states that without registration, you cannot use data or make calls."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Orange's mandatory in-store passport registration (since 2017), Roami eSIM requires zero ID verification."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Mascom's social bundle blocks VoIP and has a daily 200MB FUP; leaving Botswana renders the SIM useless in neighboring countries like Namibia or Zimbabwe."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "While Mascom's social bundle blocks VoIP and caps at 200MB/day, Roami offers unrestricted data across 190+ countries with no FUP."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Mascom's 1GB/30-day plan costs 129 pula; BTC's 1GB/30-day plan costs 125 pula; Orange's 1GB/14-day plan costs 79 pula. A 5-day tourist buying a 30-day plan wastes 83% of the plan's value."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Unlike Mascom's 30-day cycle (1GB/129 pula) wasting 83% for a 5-day trip, Roami offers 7-day plans starting from $1.99/GB, saving 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Mascom's social bundle explicitly blocks VoIP and has a daily 200MB FUP; Orange's social bundle also has a strict daily 200MB FUP."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Mascom's social bundle blocks VoIP and limits hotspot to 200MB/day; Roami allows full-speed tethering with no caps."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up vouchers (e.g., P10, P20) have only 14-day validity for Orange; online top-up may reject foreign cards."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local vouchers with 14-day expiry."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is available only during business hours at physical stores; no 24/7 live chat for prepaid users."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Unlike Orange's limited store hours, Roami offers 24/7 live chat and email support in English."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Botswana eSIM vs Prepaid SIM Card: Is It Worth Switching?"
-    cards:
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Roaming Restrictions and VoIP Blocks"
-        desc: "Mascom's social bundle explicitly blocks VoIP and enforces a daily 200MB FUP. Orange's social bundle also has a 200MB/day cap. Roami provides full-speed data with no app restrictions or FUP."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Multi-Network Coverage"
-        desc: "Local SIMs lock to one network (e.g., Mascom). If signal drops in the Kalahari, you cannot switch. Roami automatically connects to the strongest available network (Mascom, Orange, or BTC)."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payment Methods Accepted"
-        desc: "Orange top-up vouchers have only 14-day validity. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal, with no expiry on credit."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from Long Billing Cycles"
-        desc: "Mascom's 1GB/30-day plan costs 129 pula; BTC's 1GB/30-day plan costs 125 pula. A 5-day tourist wastes over 80% of the plan. Roami offers 7-day plans from $1.99/GB, saving money."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

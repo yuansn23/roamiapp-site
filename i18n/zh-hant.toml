@@ -181,4 +181,16 @@ other = "web20"
 other = "領取您的優惠"
 
 [404_promo_note]
-other = "免註冊。新用戶有效。"
+other = "免註冊,新用戶有效。"
+
+[premium_coverage]
+other = "高級覆蓋範圍"
+
+[regional_plans_title]
+other = "區域及全球方案"
+
+[regional_subtitle]
+other = "使用一張 eSIM 暢遊多個國家，免換卡、隨時開通，比漫遊省30%"
+
+[faq_title2]
+other = "eSIM 相容性常見問題"

@@ -1,228 +1,227 @@
 ---
-title: "How to activate eSIM on iPhone "
-description: "Learn how to easily activate an eSIM on iPhone and Android devices. Follow our step-by-step guide to scan your QR code and fix common activation errors."
-keywords: ["eSIM activation", "how to activate eSIM", "iPhone eSIM setup", "Android eSIM", "eSIM QR code", "travel eSIM", "eSIM troubleshooting"]
-date: 2026-04-02T10:00:00Z
-lastmod: 2026-04-02T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
+title: "如何在 iPhone 上啟用 eSIM"
+description: "透過我們的逐步指南，了解如何在 iPhone 和 Android 裝置上輕鬆啟用 eSIM。掃描 QR 碼並修正常見的啟用錯誤。"
+keywords: ["啟用 eSIM", "如何啟用 eSIM", "在 iPhone 上設定 eSIM", "Android 上的 eSIM", "eSIM QR 碼", "旅遊 eSIM", "eSIM 故障排除"]
+date: 2026-05-19T10:00:00Z
+lastmod: 2026-05-19T10:00:00Z
+tags: ["eSIM", "iOS", "Android", "故障排除", "旅遊設定"]
 toc: true
 image: "/images/esim-activation-guide.jpg"
 
-# 站点 & SEO 基础硬编码配置
+# 網站基本設定與 SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# UI 文字 / 翻譯（多語系支援）
 ui_text:
-  updated_on: "Updated on"
-  min_read: "min read"
-  toc: "Table of Contents"
+  updated_on: "更新於"
+  min_read: "分鐘閱讀"
+  toc: "目錄"
 
-# 面包屑导航
+# 導覽路徑
 breadcrumbs:
   home:
-    text: "Home"
+    text: "首頁"
     url: "/"
   parent:
-    text: "Help Center"
+    text: "幫助中心"
     url: "/faq/"
 
-# 右侧：热门 eSIM 配置
+# 右側：熱門 eSIM
 sidebar_popular:
-  title: "Popular eSIMs"
+  title: "熱門 eSIM"
   item_suffix: "eSIM"
   items:
-    - name: "United States"
-      flag: "/img/flags/us.svg"
-      price: "$1.99"
-      url: "/united-states-esim/"
-      badge: "5G"
-    - name: "Germany"
-      flag: "/img/flags/de.svg"
-      price: "$1.99"
-      url: "/germany-esim/"
-      badge: "5G"
-    - name: "Europe"
-      flag: "/img/flags/eu.svg"
-      price: "$1.99"
-      url: "/europe-esim/"
-      badge: "5G"
-    - name: "Turkey"
-      flag: "/img/flags/tr.svg"
-      price: "$1.99"
-      url: "/turkey-esim/"
-      badge: "5G"
-    - name: "Japan"
+    - name: "日本"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "China"
+    - name: "韓國"
+      flag: "/img/flags/kr.svg"
+      price: "$1.99"
+      url: "/south-korea-esim/"
+      badge: "5G"
+    - name: "泰國"
+      flag: "/img/flags/th.svg"
+      price: "$1.99"
+      url: "/thailand-esim/"
+      badge: "5G"
+    - name: "越南"
+      flag: "/img/flags/vn.svg"
+      price: "$1.99"
+      url: "/vietnam-esim/"
+      badge: "5G"
+    - name: "美國"
+      flag: "/img/flags/us.svg"
+      price: "$1.99"
+      url: "/united-states-esim/"
+      badge: "5G"
+    - name: "中國"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置
+# 右側：免費 eSIM
 sidebar_free:
-  title: "Claim Free eSIM"
+  title: "取得免費 eSIM"
   icon: "🎁"
-  item_suffix: "Free eSIM"     # 用于 HTML 的 title="{{ .name }} Free eSIM"
-  item_subtitle: "Free eSIM"   # 提取出的硬编码副标题 span
+  item_suffix: "免費 eSIM"
+  item_subtitle: "免費 eSIM"
   items:
-    - name: "United Kingdom"
-      flag: "/img/flags/gb.svg"
+    - name: "日本"
+      flag: "/img/flags/jp.svg"
       url: "/free-esim/"
-    - name: "Germany"
-      flag: "/img/flags/de.svg"
-      url: "/free-esim/"
-    - name: "Thailand"
+    - name: "泰國"
       flag: "/img/flags/th.svg"
       url: "/free-esim/"
-    - name: "Hong Kong"
-      flag: "/img/flags/hk.svg"
+    - name: "新加坡"
+      flag: "/img/flags/sg.svg"
       url: "/free-esim/"
-
-# 右侧：热门问题配置
+    - name: "澳洲"
+      flag: "/img/flags/au.svg"
+      url: "/free-esim/"
+# 右側：熱門問題
 sidebar_questions:
-  title: "Popular Questions"
+  title: "熱門問題"
   items:
-    - question: "What is eSIM activation and how does it work?"
+    - question: "什麼是 eSIM 啟用，它是如何運作的？"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "How to activate an eSIM?"
+    - question: "如何啟用 eSIM？"
       url: "/faq/how-to-activate-an-esim//"
-    - question: "How to activate eSIM on iPhone (All Models)?"
+    - question: "如何在 iPhone（所有型號）上啟用 eSIM？"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Latest eSIM Compatibility List"
+    - question: "最新的 eSIM 相容性清單"
       url: "/compatibility/"
 ---
 
-**The Short Answer:**
-eSIM activation is the process of securely downloading a digital carrier profile from your network provider directly to your phone's embedded microchip via the internet. Instead of inserting a physical card, you simply scan a QR code or use a carrier app to connect to a mobile network instantly.
+**簡短回答：**
+啟用 eSIM 是一個安全的流程，可將電信業者的數位設定檔直接從您的服務供應商，透過網際網路下載到您手機內建的微型晶片中。您無需插入實體 SIM 卡，只需掃描 QR 碼或使用電信業者的 App，即可立即連接到行動網路。
 
 ---
 
-## How to Activate an eSIM on Your iPhone: Step-by-Step Guide (All Models)
+## 如何在 iPhone 上啟用 eSIM：逐步指南（所有型號）
 
-Gone are the days of fumbling with tiny paperclips and microscopic plastic SIM cards. Whether you are switching to a new local carrier or buying a travel data plan for your next international trip, using an eSIM is the most convenient way to stay connected. 
+那些需要用小迴紋針和微型塑膠 SIM 卡的時代已經過去了。無論您是轉換到新的本地電信業者，還是為下一次出國旅行購買旅遊方案，使用 eSIM 都是保持連線最方便的方式。
 
-However, if it’s your first time doing an **iPhone eSIM setup**, the process might seem a bit daunting. Don't worry! In this comprehensive guide, we will show you exactly **how to activate an eSIM on your iPhone** using a QR code, manual entry, or a carrier app. This guide covers all compatible models, including the eSIM-only iPhone 14 and iPhone 15 series.
-
----
-
-## 1. Prerequisites: What You Need Before Starting
-
-Before we dive into the setup process, let's make sure your device is ready. You need to check three quick things to ensure a smooth installation.
-
-### Check iPhone Compatibility
-First, ensure your iPhone supports eSIM technology. Apple introduced eSIMs starting with the iPhone XS. Compatible models include:
-* iPhone XS, XS Max, and XR
-* iPhone 11, 12, 13, 14, and 15 series
-* iPhone SE (2nd and 3rd generation)
-
-*💡 Pro Tip: If you purchased an iPhone 14 or iPhone 15 in the United States, your phone is eSIM-only and does not have a physical SIM card tray.*
-
-### Ensure Your iPhone is Carrier-Unlocked
-If you are trying to install a travel eSIM, your phone must be unlocked. 
-1. Go to **Settings** > **General** > **About**.
-2. Scroll down to find **Carrier Lock** (or Network Provider Lock).
-3. If it says **"No SIM restrictions"**, your iPhone is unlocked and ready for a new eSIM!
-
-### Connect to a Stable Wi-Fi Network
-You **must** have a stable internet connection (Wi-Fi is highly recommended) to download the eSIM profile to your phone. 
+然而，如果您是第一次**在 iPhone 上設定 eSIM**，這個過程可能看起來有點嚇人。別擔心！在這份詳細指南中，我們將向您展示**如何在您的 iPhone 上啟用 eSIM**，包括使用 QR 碼、手動輸入或電信業者的 App。本指南涵蓋所有相容型號，包括僅支援 eSIM 的 iPhone 14 和 iPhone 15 系列。
 
 ---
 
-## 2. How to Install & Activate eSIM on iPhone (3 Main Methods)
+## 1. 事前準備：開始前需要什麼
 
-Depending on your carrier or eSIM provider, there are three primary ways to **activate an eSIM on an iPhone**. 
+在開始設定流程之前，讓我們確認您的裝置已準備就緒。您需要快速檢查三件事，以確保安裝過程順利無虞。
 
-### Method A: Using a QR Code (Most Common)
-This is the standard method for most travel eSIMs. Your provider will usually email you a QR code after purchase.
+### 檢查 iPhone 相容性
+首先，請確認您的 iPhone 支援 eSIM 技術。Apple 從 iPhone XS 開始引入 eSIM。相容型號包括：
+* iPhone XS、XS Max 和 XR
+* iPhone 11、12、13、14 和 15 系列
+* iPhone SE（第 2 代和第 3 代）
 
-1. Go to **Settings** > **Cellular** (or Mobile Data).
-2. Tap **Add eSIM** (or Add Cellular Plan).
-3. Select **Use QR Code**.
-4. Point your camera at the QR code to scan it. 
-5. Tap **Continue** when you see the "A Cellular Plan is Ready to be Added" notification.
-6. Follow the on-screen prompts to label your new plan (e.g., name it "Travel" or "Europe").
+*💡 專業小提示：如果您在美國購買 iPhone 14 或 iPhone 15，您的手機僅支援 eSIM，沒有實體 SIM 卡槽。*
 
-*[Image Placeholder: Screenshot showing Settings > Cellular > Add eSIM]*
+### 確保您的 iPhone 是解鎖版（無電信業者鎖定）
+如果您嘗試安裝旅遊 eSIM，您的手機必須是解鎖版。
+1. 前往**設定** > **一般** > **關於本機**。
+2. 向下捲動找到**電信業者鎖定**（或網路業者鎖定）。
+3. 如果顯示**「沒有 SIM 卡限制」**，則表示您的 iPhone 已解鎖，可以準備使用新的 eSIM！
 
-### Method B: Manual Entry (If you can't scan the QR code)
-What if you bought the eSIM on your phone and can't scan the QR code from your own screen? You can enter the details manually.
-
-1. Go to **Settings** > **Cellular** > **Add eSIM** > **Use QR Code**.
-2. Tap **Enter Details Manually** at the bottom of the camera screen.
-3. Input the **SM-DP+ Address** and **Activation Code** (these are provided in your confirmation email).
-4. Tap **Next** and follow the prompts to finish the installation.
-
-### Method C: Direct Installation via Carrier App
-Many modern eSIM providers offer an app that allows you to install the eSIM with a single tap.
-1. Download your provider’s app from the App Store.
-2. Log in and locate your purchased eSIM plan.
-3. Tap the **Install / Activate eSIM** button.
-4. Allow the app permission to add the cellular plan to your iPhone settings.
+### 連接到穩定的 Wi-Fi 網路
+您**必須**要有穩定的網際網路連線（強烈建議使用 Wi-Fi），才能將 eSIM 設定檔下載到您的手機。
 
 ---
 
-## 3. How to Configure Your eSIM Settings for Travel
+## 2. 如何在 iPhone 上安裝並啟用 eSIM（3 種主要方法）
 
-Installing the eSIM is only half the battle. If you are traveling abroad, you need to configure your settings correctly to **prevent expensive roaming charges** on your primary home SIM.
+根據您的電信業者或 eSIM 供應商的不同，**在 iPhone 上啟用 eSIM** 主要有三種方式。
 
-### Set Your Default Voice & SMS Line
-During setup, your iPhone will ask you to choose a default line. 
-* **Default Line:** Choose your Primary (Home) SIM if you still want to receive iMessages and calls on your regular number.
-* **iMessage & FaceTime:** Select your Primary SIM.
+### 方法 A：使用 QR 碼（最常見）
+這是大多數旅遊 eSIM 的標準方法。購買後，供應商通常會透過電子郵件將 QR 碼發送給您。
 
-### Set Up Cellular Data & Prevent Roaming Charges
-This is the most crucial step for travelers:
-1. Go to **Settings** > **Cellular** > **Cellular Data**.
-2. Select your new **Travel eSIM** for cellular data.
-3. **Turn OFF "Allow Cellular Data Switching"**. This ensures your phone doesn't sneakily switch back to your home SIM for data.
-4. Go back to the Cellular menu, tap your Primary (Home) SIM, and ensure **Data Roaming is turned OFF**.
-5. Tap your Travel eSIM, and ensure **Data Roaming is turned ON** (most travel eSIMs require roaming to connect to local networks).
+1. 前往**設定** > **行動服務**（或行動數據）。
+2. 點擊**加入 eSIM**（或加入方案）。
+3. 選擇**使用 QR 碼**。
+4. 將相機對準 QR 碼進行掃描。
+5. 當出現「方案可供加入」的提示時，點擊**繼續**。
+6. 依照螢幕上的指示完成新方案的設定（例如，命名為「旅遊」或「歐洲」）。
 
----
+*[圖片佔位符：設定 > 行動服務 > 加入 eSIM 的螢幕截圖]*
 
-## 4. iOS 16/17 Special Features: eSIM Quick Transfer
+### 方法 B：手動輸入（如果您無法掃描 QR 碼）
+如果您是在手機上購買 eSIM，而無法從自己的螢幕上掃描 QR 碼，該怎麼辦？您可以手動輸入資料。
 
-If you are upgrading to a new iPhone, Apple has made it incredibly easy to transfer your eSIM. With iOS 16 and later, you can use **eSIM Quick Transfer** via Bluetooth.
+1. 前往**設定** > **行動服務** > **加入 eSIM** > **使用 QR 碼**。
+2. 在相機螢幕底部點擊**手動輸入詳細資訊**。
+3. 輸入**SM-DP+ 位址**和**啟用碼**（這些資訊在您的確認電子郵件中）。
+4. 點擊**下一步**，然後依照指示完成安裝。
 
-Simply place your old iPhone near your new one, go to **Settings > Cellular > Add eSIM** on the new phone, and select **Transfer from Nearby iPhone**. Follow the prompts, and your number will seamlessly move to the new device without needing a new QR code.
-
----
-
-## 5. Troubleshooting Common eSIM Activation Errors
-
-Running into issues? Here are the most common errors and how to fix them:
-
-* **"Cellular Plan Cannot Be Added"**: This usually means your iPhone is carrier-locked, or the QR code has already been scanned and used. Contact your provider.
-* **Stuck on "Activating..."**: Sometimes the network handshake takes a few minutes. If it’s stuck for over 15 minutes, restart your iPhone or turn Airplane Mode on and off.
-* **No Service After Activation**: Double-check that you have turned on the eSIM line and enabled **Data Roaming** for that specific plan. Also, note that travel eSIMs will only show service once you physically arrive in the destination country.
+### 方法 C：透過電信業者的 App 直接安裝
+許多現代的 eSIM 供應商提供 App，讓您一鍵安裝 eSIM。
+1. 從 App Store 下載您供應商的 App。
+2. 登入並找到您購買的 eSIM 方案。
+3. 點擊**安裝 / 啟用 eSIM** 按鈕。
+4. 允許該 App 將方案加入您 iPhone 的設定中。
 
 ---
 
-## 6. Frequently Asked Questions (FAQs)
+## 3. 如何為旅行設定 eSIM 參數
 
-**How many eSIMs can I have on my iPhone?**
-You can store 8 or more eSIM profiles on an iPhone. However, depending on your model (iPhone 13 and newer), you can only have two eSIMs actively working at the same time (Dual eSIM).
+安裝 eSIM 只是成功的一半。如果您要出國旅行，則需要正確設定參數，以**防止您的主要家庭 SIM 卡產生昂貴的漫遊費用**。
 
-**Can I use my physical SIM and eSIM at the same time?**
-Yes! iPhones support Dual SIM functionality, meaning you can keep your physical home SIM active for calls and texts while using a travel eSIM for data.
+### 設定預設語音與簡訊線路
+在設定過程中，您的 iPhone 會詢問您要選擇哪一條線路作為預設。
+* **預設線路：** 如果您仍希望透過原門號接收 iMessage 和來電，請選擇您的主要（家庭）SIM 卡。
+* **iMessage 與 FaceTime：** 選擇您的主要 SIM 卡。
 
-**Can I delete my eSIM after my trip?**
-Yes. Once your trip is over and the plan has expired, you can go to Settings > Cellular, tap the eSIM, and select **Delete eSIM**. 
-> ⚠️ **WARNING:** NEVER delete your eSIM while you are still traveling or if you lose connection temporarily. Most eSIM QR codes can only be scanned once. If you delete it, you will lose the plan and have to buy a new one!
-
-**Does using an eSIM drain my iPhone battery faster?**
-Using an eSIM consumes the same amount of battery as a physical SIM. However, running two active lines (Dual SIM) in an area with poor signal can cause slight battery drain as your phone searches for networks.
+### 設定行動數據並防止漫遊費用
+對於旅行者來說，這是最重要的一步：
+1. 前往**設定** > **行動服務** > **行動數據**。
+2. 選擇您新的**旅遊 eSIM** 作為行動數據。
+3. **關閉「允許切換行動數據」**。這可確保您的手機不會偷偷切換回家庭 SIM 卡使用數據。
+4. 返回「行動服務」選單，點擊您的主要（家庭）SIM 卡，並確認**數據漫遊已關閉**。
+5. 點擊您的旅遊 eSIM，並確認**數據漫遊已開啟**（大多數旅遊 eSIM 需要開啟漫遊才能連接到當地網路）。
 
 ---
 
-## Ready for Your Next Adventure?
+## 4. iOS 16/17 特色：快速轉移 eSIM
 
-Learning **how to use an eSIM on an iPhone** unlocks a world of hassle-free connectivity. No more waiting in line at airport kiosks or paying exorbitant roaming fees. 
+如果您要更換到新的 iPhone，Apple 讓轉移 eSIM 變得極其簡單。從 iOS 16 開始，您可以透過藍牙使用**快速轉移 eSIM**。
 
-*Ready for your next trip? Browse our global eSIM plans and stay connected anywhere in the world with instant delivery and easy setup!*
+只要將舊 iPhone 放在新 iPhone 旁邊，在新手機上前往**設定 > 行動服務 > 加入 eSIM**，然後選擇**從附近 iPhone 轉移**。依照指示操作，您的門號就會無縫轉移到新裝置上，無需新的 QR 碼。
+
+---
+
+## 5. 排除常見的 eSIM 啟用錯誤
+
+遇到問題了嗎？以下是最常見的錯誤以及解決方法：
+
+* **「無法加入方案」**：這通常表示您的 iPhone 被電信業者鎖定，或者 QR 碼已經被掃描使用過。請聯繫您的供應商。
+* **卡在「啟用中…」**：有時候與網路的「握手」過程需要幾分鐘。如果卡住超過 15 分鐘，請重新啟動 iPhone 或開關飛航模式。
+* **啟用後沒有服務**：請再次確認您已開啟 eSIM 線路，並針對該方案**啟用了數據漫遊**。另外請注意，旅遊 eSIM 只有在您實際抵達目的地國家時才會顯示服務。
+
+---
+
+## 6. 常見問答（FAQ）
+
+**我的 iPhone 可以存放多少個 eSIM？**
+您可以在 iPhone 上儲存 8 個或更多的 eSIM 設定檔。但根據您的型號（iPhone 13 及更新機型），一次只能有兩張 eSIM 同時啟用（雙 eSIM）。
+
+**我可以同時使用實體 SIM 卡和 eSIM 嗎？**
+可以！iPhone 支援雙 SIM 卡功能，這表示您可以保留實體家庭 SIM 卡用於通話和簡訊，同時使用旅遊 eSIM 來上網。
+
+**旅行結束後我可以刪除 eSIM 嗎？**
+可以。旅行結束且方案到期後，您可以前往設定 > 行動服務，點擊該 eSIM 並選擇**刪除 eSIM**。
+> ⚠️ **警告：** 當您還在旅行中或暫時失去連線時，絕對不要刪除 eSIM。大多數 eSIM 的 QR 碼只能掃描一次。如果您刪除了 eSIM，您將失去該方案，必須購買新的！
+
+**使用 eSIM 會更快耗盡 iPhone 的電量嗎？**
+使用 eSIM 的耗電量與實體 SIM 卡相同。然而，在訊號不佳的區域同時啟用兩條線路（雙 SIM 卡）可能會稍微增加耗電量，因為手機會不斷搜尋網路。
+
+---
+
+## 準備好您的下一次冒險了嗎？
+
+學習**如何在 iPhone 上使用 eSIM** 將開啟一個無縫連線的世界。不再需要在機場櫃檯排隊，也不用擔心鉅額漫遊費。
+
+*準備好下一次旅行了嗎？瀏覽我們的全球 eSIM 方案，在世界各地保持連線，享受即時交付與簡單設定！*

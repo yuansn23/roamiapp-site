@@ -1,95 +1,98 @@
 ---
-title: Ivory Coast eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 象牙海岸 eSIM 方案 | 象牙海岸 eSIM | Roami
+date: '2026-05-19T10:22:41+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Ivory Coast eSIM
-  scenario_keywords: Abidjan sightseeing, Yamoussoukro tour, Comoe safari, Grand-Bassam
-    beach trip, Taï National Park exploration
-  operators: Orange, MTN, Moov
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Abidjan, Yamoussoukro, Bouaké, Daloa, San-Pédro
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 象牙海岸 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食
+  operators: MTN, Moov Africa, Orange
+  competitors: Airalo, Holafly, Nomad, Ubigi, GigSky
+  main_cities: 阿比讓, 亞穆蘇克羅, 布瓦凱, 聖佩德羅, 科霍戈
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Ivory Coast eSIM | 20% OFF| Seamless 5G for Digital Nomads|Roami
-  description: Traveling to Ivory Coast? Roami offers Transparent Data on the reliable
-    Top Local Carrier High-Speed 5G. Features Auto Network Switch and Unlimited Data,
-    great for Light Travel.
-  keywords: Ivory Coast eSIM, prepaid eSIM Ivory Coast, travel eSIM Ivory Coast, best
-    eSIM for Ivory Coast, cheap eSIM Ivory Coast
-  low_price: 1.99
-  high_price: 39.9
+  title: 象牙海岸 eSIM | 流量吃到飽 | 最佳5G高速網路 | Roami
+  description: 象牙海岸旅遊推薦 Roami eSIM，流量吃到飽與最佳 5G 高速網路。別忘了使用折扣碼 20%，領取您的旅遊專屬優惠折扣。
+  keywords:
+  - 象牙海岸 eSIM
+  - 科特迪瓦上網卡
+  - Ivory Coast eSIM
+  - 阿比讓上網
+  - MTN 象牙海岸
+  - Moov Africa
+  - Orange 科特迪瓦
+  - 旅行 eSIM
+  - 非洲 eSIM
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 象牙海岸 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Ivory Coast eSIM
+- label: 象牙海岸 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Ivory Coast
-  title: Best eSIM for Ivory Coast
+  alt: 最佳 象牙海岸 eSIM
+  title: 最佳 象牙海岸 eSIM
 hero:
   flag_image: img/flags/ci.svg
-  flag_alt: Ivory Coast Flag
-  title: Ivory Coast eSIM data plan
-  subtitle: 100% money-back guarantee | 20% discount for a limited time | Top rated
+  flag_alt: 象牙海岸 國旗
+  title: 象牙海岸 eSIM - 旅行計劃
+  subtitle: 象牙海岸 eSIM | 無隱藏費用 | 流量吃到飽 | 支援熱點分享
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 象牙海岸 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 象牙海岸 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.43'
-  30 Days:
+  30 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '20.99'
     oldPrice: '31.48'
     tag: ''
@@ -97,471 +100,321 @@ plans_data:
     daily: '0.70'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '31.99'
     oldPrice: '47.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.07'
 discount_banner:
-  title: Special Discount!
+  title: 象牙海岸 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 象牙海岸 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Ivory Coast, including major
-        cities like Abidjan, Yamoussoukro, Bouaké. Our Ivory Coast eSIM seamlessly
-        connects to the robust networks of Orange, MTN, Moov, ensuring stable signals
-        in urban centers, tourist hotspots, and along major transportation routes.
+      title: 覆蓋範圍
+      desc: 在整個象牙海岸享受廣泛的網路覆蓋，包括阿比讓、亞穆蘇克羅、布瓦凱和聖佩德羅等城市。我們的象牙海岸 eSIM 無縫連接到 MTN、Moov Africa
+        和 Orange 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: Orange
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
     - name: MTN
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Moov
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
+    - name: Moov Africa
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
+    - name: Orange
+      coverage: 廣泛覆蓋
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 象牙海岸 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Ivory Coast.
+    html: 建議抵達 象牙海岸 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 象牙海岸 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 象牙海岸 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 象牙海岸 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 象牙海岸 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 象牙海岸」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Ivory Coast'
-    desc: Upon arriving in Ivory Coast, enable your Ivory Coast eSIM in settings to
-      start using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 象牙海岸 時，只需開啟 eSIM
+      – 有效期將在首次連接到 MTN / Moov Africa 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 象牙海岸：立即連上 5G/4G 網路
+    desc: 當您降落在 象牙海岸（例如 費利克斯·烏弗埃-博瓦尼國際機場（阿比讓）、布瓦凱機場、亞穆蘇克羅機場）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往
+      **設定 → 行動服務** 並開啟您的 Roami eSIM 象牙海岸。幾秒鐘內，您的設備將自動連接到 MTN / Moov Africa 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Ivory Coast eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Ivory Coast eSIM across different
-    travel scenarios.
+  title: 象牙海岸 eSIM：完整指南和常見問題
+  desc: 使用 象牙海岸 eSIM 在 象牙海岸 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 象牙海岸 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Ivory Coast eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Ivory Coast eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Ivory Coast eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Ivory Coast
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Ivory Coast eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Ivory Coast eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Ivory Coast that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Ivory Coast eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Ivory Coast eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Ivory Coast eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Ivory Coast eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Ivory
-        Coast, such as Orange, MTN, Moov, to ensure premium speeds at a fraction of
-        roaming costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, DENT, Airalo,
-        Flexiroam?
-      a: While great companies like Holafly, DENT, Airalo, Flexiroam offer reliable
-        services, we focus on providing the most cost-effective Ivory Coast eSIM,
-        ensuring lower latency and better prices with our automatic price-matching
-        system.
+    - q: 在阿比讓的 Plateau 商業區，使用 eSIM 連接到 MTN 網路時，上網速度如何？可以順暢進行視訊會議或看串流影片嗎？
+      a: 在阿比讓的 Plateau 區，連接到 MTN 的 4G 網路時，下載速度通常可以達到 30-50 Mbps，足以進行流暢的視訊會議和觀看 1080p
+        串流影片。不過，在尖峰時段（例如中午 12 點到下午 2 點），由於商業區人潮眾多，速度可能下降至 10-15 Mbps，但仍能應付一般社交媒體瀏覽。若您需要更高穩定性，建議避開
+        Rue du Commerce 和 Avenue de la République 等主要街道的繁忙時段。
+    - q: 在亞穆蘇克羅的和平大殿（Basilica）附近，Orange 網路的覆蓋和速度如何？適合使用 Google Maps 導航和上傳照片嗎？
+      a: Orange 在亞穆蘇克羅，尤其是和平大殿周邊，提供穩定的 4G 覆蓋，下載速度通常在 20-40 Mbps 之間。使用 Google Maps
+        導航完全沒問題，上傳照片到社群媒體也很快，一張 5MB 的照片約需 2-3 秒。不過，若遇到大型宗教活動或節日，基地台可能因負載而導致速度稍微下降，但整體仍屬可靠。
+    - q: 在布瓦凱的市集（Grand Marché）使用 Moov Africa 的 eSIM，網路訊號穩定嗎？可以用來行動支付嗎？
+      a: Moov Africa 在布瓦凱 Grand Marché 的 4G 訊號強度中等偏上，下載速度約 15-25 Mbps，足以進行行動支付（如 Orange
+        Money 或 MTN Mobile Money）的交易。不過，由於市場內金屬結構較多，部分攤位密集區域可能出現訊號衰減，導致支付頁面載入稍慢。建議在市場入口或空地完成較大額的交易，以確保網路穩定。
+    - q: 象牙海岸的 eSIM 是否需要實名登記？遊客購買後如何啟用？
+      a: 根據象牙國家的監管規定，所有 SIM 卡（包括 eSIM）都必須進行實名登記。遊客在購買後，需提供護照影本並填寫啟用表單，部分運營商如 Orange
+        和 MTN 也支援線上傳送護照資訊。啟用過程通常需 1-2 小時，完成後即可連網。建議在機場的運營商櫃檯（如阿比讓機場的 MTN 或 Orange
+        門市）直接辦理，或透過合作的 eSIM 平台提前上傳文件。
+    - q: 從阿比讓搭乘計程車前往聖佩德羅（San Pedro）途中，會經過網路覆蓋較差的地區嗎？
+      a: 沿著 A3 公路從阿比讓到聖佩德羅，大部分路段有 3G/4G 覆蓋，但在經過 Dabou 和 Grand-Lahou 之間的森林區域時，訊號可能減弱至
+        2G 或短暫無服務。這段路程約 30-40 分鐘，建議提前下載離線地圖。進入聖佩德羅市區後，網路恢復正常，MTN 和 Orange 的 4G 訊號穩定。
+    - q: 我的手機支援 eSIM，但在象牙海岸使用時，可以手動切換運營商嗎？哪家運營商在市區和郊區表現最好？
+      a: 是的，您可以透過手機的設定手動選擇運營商。在阿比讓市區，MTN 和 Orange 的速度相近，下載約 30-50 Mbps；而在郊區如 Bingerville，Moov
+        Africa 的覆蓋略廣。若前往北部科霍戈（Korhogo），Orange 的基站密度最高，訊號最可靠。建議到達後先測試各運營商訊號，切換至最適合當前位置的網路。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 象牙海岸 機場：如何使用 象牙海岸 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Ivory Coast eSIM before your flight. Once you land at Félix-Houphouët-Boigny
-        International Airport (Abidjan), Bouaké Airport, Yamoussoukro Airport, simply
-        turn off Airplane Mode and enable your eSIM line. It will connect to the local
-        4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Ivory Coast eSIM activated upon landing, you can immediately open
-        Yango, Heetch, Uber to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Ivory Coast eSIM data allows you to open Google Maps right
-        at the baggage claim in Félix-Houphouët-Boigny International Airport (Abidjan),
-        Bouaké Airport, Yamoussoukro Airport to check real-time train schedules, bus
-        routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Ivory Coast eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Ivory Coast eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Ivory Coast eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 從阿比讓費利克斯·烏弗埃-博瓦尼國際機場（ABJ）入境後，哪裡可以領取實體 SIM 卡或啟用 eSIM？
+      a: 在 ABJ 機場的入境大廳，您會看到 MTN、Moov Africa 和 Orange 的官方櫃檯，營業時間通常至晚間 10 點。您可以攜帶護照購買預付卡。若您已購買
+        eSIM，建議在出發前於 app 內完成啟用，抵達後掃描 QR code 並連接當地網路。機場內的免費 Wi-Fi 速度有限，可用於緊急通訊。
+    - q: 阿比讓機場的免稅店和餐廳是否支援信用卡？我需要立即換匯嗎？
+      a: 機場內的主要免稅店和餐廳多數接受國際信用卡（Visa、Mastercard），但部分小型攤位只收現金。建議在機場的銀行櫃檯或 ATM 小額換匯，因為市區匯率通常更好。注意，使用信用卡可能產生
+        2-3% 的手續費，小額交易用現金較划算。
+    - q: 從亞穆蘇克羅機場到市中心，有哪些交通方式？大約花多少錢？
+      a: 亞穆蘇克羅機場規模較小，沒有大型公共交通。最常見的是機場外的計程車，到市中心（如和平大殿附近）車資約 3,000-5,000 西非法郎（約 5-8
+        美元），車程約 15 分鐘。您也可以透過叫車 app Yango 預訂，價格可能更透明。建議先確認價格再上車。
+    - q: 布瓦凱機場（BYK）有提供付費休息室嗎？轉機時如何打發時間？
+      a: 布瓦凱機場目前沒有專屬的付費休息室，但候機室有座椅和少量咖啡店。轉機時間較長的話，建議前往機場附近的飯店（如 Hôtel le Félix）購買日間休息方案。機場內有免費
+        Wi-Fi，但速度較慢，建議使用自己的 eSIM 上網。
+    - q: 聖佩德羅機場（SPY）的入境流程大概需要多久？有 SIM 卡販售櫃檯嗎？
+      a: 聖佩德羅機場的國際航班不多，入境審查通常只需 10-15 分鐘。大廳內有 MTN 的臨時櫃檯，但營業時間不固定。建議事先在線上購買 eSIM 或抵達阿比讓時先準備好
+        SIM 卡。機場到市區計程車費用約 2,000-3,000 西非法郎。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 象牙海岸 eSIM 用於 象牙海岸 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Ivory Coast eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Ivory Coast, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Yango, Heetch, Uber use VoIP (internet calling) and in-app messaging.
-        Since you have active Ivory Coast eSIM data, drivers can call or message you
-        directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Ivory Coast eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Ivory Coast eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in Ivory Coast.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Ivory Coast eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Ivory Coast eSIM's data network while
-        on the train or in the car.
+    - q: 使用 Yango 叫車在阿比讓市區移動方便嗎？大約費用是多少？
+      a: Yango 是阿比讓最受歡迎的叫車 app，類似 Uber，支援現金和行動支付。從 Plateaux 到 Cocody 的典型行程（約 5 公里）費用約
+        1,500-2,500 西非法郎（約 2.5-4 美元）。尖峰時段可能加價 1.5 倍，但整體比路邊攔計程車便宜且安全。
+    - q: 在象牙海岸的大城市如何搭乘共乘摩托車（Moto-Taxi）？安全嗎？
+      a: Moto-Taxi 是短距離移動的經濟選擇，透過 app 如 MotoGo 或 Heetch 叫車可預先知道價格。建議務必要求司機提供安全帽，且不要攜帶大型行李。在阿比讓市中心，摩托車穿梭於車陣中較快，但事故風險較高。夜間女性旅客建議避免單獨搭乘。
+    - q: 從阿比讓到亞穆蘇克羅的長途巴士有哪些公司？車程多久？
+      a: 主要巴士公司包括 Rakéta、Sotra 和 STIF，從阿比讓的 Gare de Yopougon 出發，車程約 2.5-3 小時，票價約 3,000-5,000
+        西非法郎。巴士有空調，但可能滿載。建議提前購票，並選擇早班車避開午後高溫。
+    - q: 在布瓦凱市區，使用 Heetch 叫車是否普遍？價格與計程車相比如何？
+      a: Heetch 在布瓦凱的覆蓋率中等，主要市區叫車成功率較高，郊區則可能無車。價格約比路邊計程車貴 10-20%，但不用議價。若遇尖峰時段，建議同時使用
+        Yango 或直接攔車，並先談好價格（市區內短程約 1,000-2,000 西非法郎）。
+    - q: 聖佩德羅的公共交通如何前往 Grand-Béréby 海灘？
+      a: 從聖佩德羅巴士站可搭共乘小巴（Gbaka）前往 Grand-Béréby，車程約 1 小時，票價 500-1,000 西非法郎。小巴通常人滿才發車。另一選擇是包計程車，單程約
+        10,000 西非法郎。建議與司機約定來回接送時間，因回程車輛較少。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 象牙海岸 的飯店使用 象牙海岸 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Ivory Coast eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Ivory Coast eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Hotel Sofitel Abidjan Ivoire, Radisson Blu Abidjan,
-        Noom Hotel Abidjan or a local guesthouse, you can input the address into Google
-        Maps and get turn-by-turn walking or transit directions using your Ivory Coast
-        eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Ivory Coast eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Ivory Coast eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Jumia Food, Glovo, Yummy and use your
-        Ivory Coast eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Ivory Coast eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 在阿比讓的 Hotel Du Golfe 住宿，其網路狀況如何？適合商務辦公嗎？
+      a: Hotel Du Golfe 提供免費 Wi-Fi，但速度可能因入住率而波動。商務辦公建議使用 eSIM 作為備用網路，因為飯店網路在晚間尖峰時段可能降至
+        5 Mbps 以下。飯店位於 Cocody 區，周邊有咖啡廳如 Café de la Paix 提供穩定 Wi-Fi，適合視訊會議。
+    - q: 亞穆蘇克羅的 La Maison de l'Indépendance 飯店是否提供機場接送？附近有什麼餐廳？
+      a: 此飯店提供付費機場接送（約 5,000 西非法郎），須提前預約。飯店內的餐廳提供當地菜餚，步行 5 分鐘也有幾家小餐館，如 Chez Christine
+        供應烤魚。飯店 Wi-Fi 穩定，但覆蓋僅限大廳；房間內建議使用 eSIM。
+    - q: 布瓦凱的 Hôtel le Félix 有健身房或游泳池嗎？周邊安全嗎？
+      a: Hôtel le Félix 設有小型游泳池和健身房，適合商務旅客。飯店位於較安全的商業區，夜間出入建議搭計程車。周邊有 ATM 和便利商店，但晚間
+        9 點後人潮較少，注意保管財物。
+    - q: 聖佩德羅有適合家庭的海邊度假村嗎？是否提供兒童活動？
+      a: 聖佩德羅的 La Baie des Sirènes 是受歡迎的家庭度假村，提供兒童泳池和沙灘玩具。房間有空調，餐廳提供兒童餐。度假村有自己的發電機，停電時仍能維持基本服務。建議提前預訂，旺季時價格可能翻倍。
+    - q: 在科霍戈（Korhogo）有哪些推薦的住宿？網路訊號好嗎？
+      a: 科霍戈的 Hôtel de la Paix 和 Chez Tante Marie 是常見選擇，價格約 20,000-40,000 西非法郎/晚。飯店
+        Wi-Fi 速度一般，建議使用 Orange 或 MTN 的 eSIM，因為該城鎮的 4G 覆蓋良好。部分民宿位於郊區，訊號可能較弱。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 象牙海岸 旅遊景點的網路：象牙海岸 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Basilica of Our Lady of Peace of Yamoussoukro, Comoe
-        National Park, St. Paul's Cathedral (Abidjan) spontaneously, you can use your
-        Ivory Coast eSIM data to buy skip-the-line tickets online and present the
-        barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Ivory Coast eSIM, you can read reviews and
-        book local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Ivory Coast.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Ivory Coast eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Ivory Coast eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Ivory Coast eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Ivory Coast eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Ivory Coast eSIM data to search 'restaurants near me' on Google
-        Maps to check ratings, opening hours, and photos of the menu before walking
-        in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Ivory Coast eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Ivory Coast eSIM ensures you
-        can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Ivory Coast eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Jumia Food, Glovo, Yummy, register using
-        your email or social accounts, and order food seamlessly using your Ivory
-        Coast eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Orange
-        Money, MTN Mobile Money, Moov Money require a brief internet handshake, which
-        your Ivory Coast eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Ivory Coast eSIM to find hidden culinary gems in the city.
+    - q: 參觀亞穆蘇克羅的和平大殿（Basilique Notre-Dame de la Paix）時，可以使用 eSIM 拍照打卡嗎？
+      a: 和平大殿是熱門景點，遊客可以自由拍照並上傳社群媒體。大殿前的廣場有良好的 MTN 和 Orange 4G 訊號，上傳照片速度流暢。進入大殿內部時，部分區域訊號可能較弱，但外部的花園和台階區域訊號強勁。建議早上
+        9 點前抵達，避開人潮，並使用手機的廣角鏡頭拍攝全景。
+    - q: 阿比讓的聖保羅大教堂（Cathédrale Saint-Paul）附近有什麼推薦的餐廳？可以使用行動支付嗎？
+      a: 大教堂附近的 Plateau 區有許多餐廳，如 Le Bistrot Parisien 和 Maquis du Plateau，多數接受 Orange
+        Money 或信用卡。行動支付在阿比讓相當普及，但建議攜帶少量現金以備不時之需。餐廳消費約 5,000-15,000 西非法郎，可用行動支付 app
+        快速結帳。
+    - q: 前往科莫埃國家公園（Comoe National Park）需要申請許可嗎？園區內有網路訊號嗎？
+      a: 進入科莫埃國家公園需在入口處購買門票（約 5,000 西非法郎），並建議聘請當地導遊。園區內大部分區域沒有手機訊號，因此建議提前下載離線地圖和導航。遊客中心有微弱
+        2G 訊號，可用於緊急通訊。
+    - q: 在阿比讓的 Banco National Park 可以進行哪些活動？適合兒童嗎？
+      a: Banco National Park 距離市中心約 20 分鐘車程，有規劃好的步道，適合家庭健行。公園內有小型動物園和野餐區，兒童可以接觸大自然。入口附近有
+        4G 訊號，但深入叢林後訊號減弱。建議穿著長褲和運動鞋，並攜帶防蚊液。
+    - q: 聖佩德羅附近的海灘（如 Grand-Béréby）有哪些值得推薦的活動？需要自備裝備嗎？
+      a: Grand-Béréby 海灘以金色沙灘和椰子樹聞名，適合游泳、沙灘排球和日光浴。當地有商家出租遮陽傘和沙灘椅（約 2,000 西非法郎/天），但浮潛裝備建議自備。海灘旁的小餐廳提供新鮮海鮮，可用現金支付。注意海流強勁，游泳時請留意安全。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 象牙海岸 eSIM 在 象牙海岸 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Ivory Coast eSIM providing the internet, you can chat and call exactly as
-        you do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Ivory Coast eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Ivory Coast eSIM are clear and lag-free, no matter where you are
-        in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Ivory
-        Coast eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Ivory Coast eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Ivory Coast eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Ivory Coast eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在象牙海岸可以使用 Instagram、Facebook 或 TikTok 嗎？有無封鎖？
+      a: 象牙海岸的網路環境開放，所有主流社群平台如 Instagram、Facebook、TikTok 均可正常使用。連線速度足以瀏覽動態和上傳短影片。不過，政府有時會在大選期間（如
+        2025 年）暫時限制社群媒體，以維護秩序。屆時建議使用 VPN 保持連線。
+    - q: 在阿比讓的咖啡廳使用 eSIM 觀看 Netflix 或 YouTube 會消耗大量流量嗎？有流量限制？
+      a: 觀看 1080p 影片每小時約消耗 1-2 GB 流量，若 eSIM 方案有每日高速流量限制（例如 2GB），超出後速度會降至 2 Mbps。阿比讓的咖啡廳如
+        Café de la Paix 也提供免費 Wi-Fi，可作為輔助。建議下載影片至手機，或購買大流量方案以滿足觀看需求。
+    - q: 在象牙海岸使用 WhatsApp 通話的品質如何？會受到時間段影響嗎？
+      a: 使用 MTN 或 Orange 的 4G 網路時，WhatsApp 語音通話清晰，延遲低於 200ms。視訊通話在白天順暢，但晚間 7-10 點因使用者增多，可能出現輕微延遲。若通話品質不穩，可切換至另一家運營商，或移至靠近窗戶等訊號較佳的位置。
+    - q: 在象牙海岸可以上傳大型檔案（如影片）到 Google Drive 或 iCloud 嗎？需要多久？
+      a: 可以的，但上傳速度通常低於下載。以平均上傳 10 Mbps 計算，一個 100 MB 的影片約需 1.5 分鐘。建議在凌晨時段（2-6 AM）進行，此時網路較為清閒。若檔案大於
+        1 GB，可考慮使用飯店的 Wi-Fi 或前往商業區的網路中心。
+    - q: 在偏遠地區如馬恩（Man）或達洛亞（Daloa），社交媒體的載入速度會很慢嗎？
+      a: 馬恩和達洛亞等內陸城鎮，4G 覆蓋範圍較小，主要依靠 3G 網路。載入 Instagram 照片可能需 5-10 秒，上傳貼文則更慢。建議使用 Moov
+        Africa 的網路，該公司在西部地區基站較多。亦可使用離線模式瀏覽先前載入的內容。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 象牙海岸 使用 象牙海岸 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Ivory Coast, you can dial local emergency numbers like 110 (police), 115
-        (fire), 185 (ambulance) directly from your phone's dialer regardless of your
-        active SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Ivory Coast eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Ivory Coast eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Ivory Coast eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Ivory Coast eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Ivory Coast eSIM, use
-        your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Ivory Coast eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Ivory Coast eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Ivory Coast eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Ivory Coast eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Ivory Coast eSIM, you can rapidly upload
-        presentations or large documents to Google Drive or Dropbox directly from
-        the exhibition floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Ivory Coast eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Ivory Coast eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在阿比讓遇到緊急醫療情況，應該撥打哪個號碼？如何描述位置？
+      a: 急救電話是 185（救護車）或 18（消防）。撥通後，請用英語或法語說明「Medical emergency」及位置。建議提前在手機 Google
+        Maps 上確認街道名稱和地標（如 Hôpital de Cocody 附近）。若語言不通，可請當地路人協助。
+    - q: 我的行李在阿比讓機場遺失了，該如何處理？
+      a: 立即前往機場行李服務櫃檯（位於入境大廳），填寫遺失報告（PIR）。同時聯繫您的保險公司。機場人員通常能在 24 小時內提供後續。若時間緊迫，可先撥打機場服務專線（+225
+        27 21 27 77 00）查詢。
+    - q: 在象牙海岸若遭遇搶劫或偷竊，該怎麼報警？警方效率如何？
+      a: 發生案件後，應立即撥打 17（警察）或前往最近的警察局（通常在主要街道上）。警察局會要求您提供書面陳述。注意，警方反應速度因地區而異；在阿比讓市區通常
+        20-30 分鐘內抵達，郊區則可能需更長時間。建議隨身攜帶護照影本，並將貴重物品鎖在飯店保險箱。
+    - q: 我的 eSIM 在象牙海岸突然無法連線，如何緊急解決？
+      a: |-
+        首先檢查手機是否開啟數據漫遊，並手動選擇運營商（設定 > 行動網路 > 網路業者）。若仍無訊號，重新開機或刪除 eSIM 後重新掃描 QR code。若問題持續，請聯繫 eSIM 提供商的客服（透過電子郵件或 WhatsApp），他們通常能遠端排除。建議備用一張實體 SIM 卡以防萬一。
+    - q: 在阿比讓發生交通事故，該如何處理？是否需要報警？
+      a: 若事故無人受傷，建議雙方拍照存證並移至路邊協商，避免阻礙交通。若有人受傷或爭議，立即撥打 17 報警，並通知保險公司。警方會到場製作筆錄。注意，不要擅自移動傷者，以免加重傷勢。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 象牙海岸 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

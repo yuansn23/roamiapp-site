@@ -1,94 +1,88 @@
 ---
-title: Bahamas eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 巴哈馬 eSIM 方案 | 巴哈馬 eSIM | Roami
+date: '2026-05-19T09:58:53+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Bahamas eSIM
-  scenario_keywords: Nassau sightseeing, Exuma island hopping, Freeport beach relaxation,
-    Andros diving, Bahamas cruise stopover
-  operators: BTC, Aliv, Cable Bahamas
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Nassau, Freeport, Marsh Harbour, George Town, West End
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 巴哈馬 eSIM
+  scenario_keywords: 城市漫步、海灘、購物、美食、潛水
+  operators: BTC, Aliv, Smart Communications
+  competitors: Airalo, Holafly, Nomad, Sim Corner, BNESIM
+  main_cities: 拿索, 弗里波特, 馬什港, 哈勃島, 天堂島
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Buy Bahamas eSIM | Worry-Free 5G Data | No Hidden Charges | Roami
-  description: Traveling to Bahamas? Enjoy Top Local Carrier Seamless 5G and Worry-Free
-    Data with Roami. Perfect for Family Vacations, offering No Roaming Fees and Stable
-    Connection.
-  keywords: Bahamas eSIM, travel eSIM Bahamas, Bahamas 5G, Bahamas prepaid eSIM, instant
-    eSIM Bahamas
-  low_price: 1.99
-  high_price: 39.9
+  title: 巴哈馬 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
+  description: 巴哈馬度假必備 Roami eSIM，讓您享有最佳 5G 高速網路。別忘了使用折扣碼 20%，以更划算的價格購買優質 eSIM 數據服務。
+  keywords: 巴哈馬 eSIM, 巴哈馬網路, 拿索市 eSIM, 巴哈馬旅遊, 巴哈馬上網
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 巴哈馬 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Bahamas eSIM
+- label: 巴哈馬 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Bahamas
-  title: Best eSIM for Bahamas
+  alt: 最佳 巴哈馬 eSIM
+  title: 最佳 巴哈馬 eSIM
 hero:
   flag_image: img/flags/bs.svg
-  flag_alt: Bahamas Flag
-  title: Bahamas eSIM data plan
-  subtitle: No hidden fees | No more roaming fees | Prioritized 5G access
+  flag_alt: 巴哈馬 國旗
+  title: 巴哈馬 eSIM - 旅行計劃
+  subtitle: 巴哈馬 eSIM | 即時交付 | 流量吃到飽 | 100%退款保證
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 巴哈馬 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 巴哈馬 eSIM
 plans_data:
-  30 Days:
+  30 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '43.99'
     oldPrice: '65.98'
     tag: ''
@@ -96,565 +90,325 @@ plans_data:
     daily: '1.47'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '67.99'
     oldPrice: '101.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.27'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '41.99'
     oldPrice: '62.98'
     tag: ''
     tagColor: bg-orange-500
     daily: '2.80'
     tagIcon: star
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '16.99'
     oldPrice: '25.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.43'
 discount_banner:
-  title: Special Discount!
+  title: 巴哈馬 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 巴哈馬 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Bahamas, including major cities
-        like Nassau, Freeport, Marsh Harbour, and George Town. Our Bahamas eSIM seamlessly
-        connects to the robust networks of BTC, Aliv, and Cable Bahamas, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個巴哈馬享受廣泛的網路覆蓋，包括拿索、弗里波特、馬什港等城市。我們的巴哈馬eSIM無縫連接到BTC、Aliv、Smart Communications的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: BTC
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+    - name: BTC (巴哈馬電信公司)
+      coverage: 低延遲
+      network: 5G/4G/LTE網路
     - name: Aliv
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Cable Bahamas
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有IP
+      network: 5G/4G/LTE網路
 reminders:
-  title: Important Reminders
+  title: 巴哈馬 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Bahamas.
+    html: 建議抵達 巴哈馬 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 巴哈馬 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 巴哈馬 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 巴哈馬 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 巴哈馬 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 巴哈馬」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Bahamas'
-    desc: Upon arriving in Bahamas, enable your Bahamas eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 巴哈馬 時，只需開啟 eSIM
+      – 有效期將在首次連接到 BTC / Aliv 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 巴哈馬：立即連上 5G/4G 網路
+    desc: 當您降落在 巴哈馬（例如 林登·平德林國際機場 (NAS), 大巴哈馬國際機場 (FPO), 埃克蘇馬國際機場 (GGT)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 巴哈馬。幾秒鐘內，您的設備將自動連接到 BTC / Aliv 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Bahamas eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Bahamas eSIM across different
-    travel scenarios.
+  title: 巴哈馬 eSIM：完整指南和常見問題
+  desc: 使用 巴哈馬 eSIM 在 巴哈馬 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 巴哈馬 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Bahamas eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Bahamas eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Bahamas eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Bahamas
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Bahamas eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Bahamas eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Bahamas that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Bahamas eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Bahamas eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Bahamas eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Bahamas eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Bahamas,
-        such as BTC, Aliv, Cable Bahamas, to ensure premium speeds at a fraction of
-        roaming costs.
-    - q: How do you compare with well-known eSIM providers like Instabridge, Holafly,
-        Airalo, eSIM GO?
-      a: While great companies like Instabridge, Holafly, Airalo, eSIM GO offer reliable
-        services, we focus on providing the most cost-effective Bahamas eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在拿索市中心使用BTC網路體驗如何？速度夠快嗎？
+      a: 在拿索市中心的灣街和喬治王子碼頭附近，連接到BTC網路時，典型的下載速度約為30-50 Mbps，足以流暢觀看YouTube和進行視訊通話。不過在遊客較多的天堂島橋區域，晚間尖峰時段可能降至10-20
+        Mbps，但仍可滿足一般社交媒體使用。如果超過每日5GB流量，優先級會降低，但速度仍保持在2 Mbps以上。建議在市區使用BTC，因為其低延遲特性適合導航和即時通訊。
+    - q: 在大巴哈馬島的弗里波特機場附近，eSIM覆蓋如何？
+      a: 弗里波特的大巴哈馬國際機場 (FPO) 周邊完全被Aliv和BTC的4G LTE訊號覆蓋，走出航廈即可連接。Aliv在機場區域提供自有IP，對於需要穩定IP的應用如銀行APP較友好。下載速度通常在20-40
+        Mbps，但在週末下午航班密集時可能下降。建議提前下載離線地圖，因為從機場前往市區的10分鐘車程中，部分路段訊號會暫時減弱。
+    - q: 在哈勃島的粉紅沙灘上使用eSIM看社群媒體順暢嗎？
+      a: 粉紅沙灘是巴哈馬熱門景點，當地主要覆蓋Aliv網路，速度約15-25 Mbps，可以正常瀏覽Instagram和Facebook圖片，但上傳高畫質影片可能稍微延遲。沙灘後方的餐廳和商店附近訊號較強，靠近碼頭時可能切換至3G。建議避免在清晨8點前使用，此時網路維護可能導致短暫中斷。如果計劃長時間使用，建議攜帶行動電源，因為部分區域沒有電源插座。
+    - q: 巴哈馬eSIM支援熱點分享嗎？我可以用在多個裝置嗎？
+      a: 我們的巴哈馬eSIM完全支援熱點分享，無任何限制，您可以將手機作為Wi-Fi熱點給平板或筆電使用。例如在拿索的機場貴賓室，您可以同時連接手機和筆電工作。但請注意，當總流量超過每日5GB後，熱點分享的速度可能會被限制在128
+        kbps，僅適合文字通訊。建議在機場、飯店大廳等公共場所謹慎使用，避免因過度分享導致降速。
+    - q: 在巴哈馬使用eSIM需要提前實名認證嗎？註冊流程複雜嗎？
+      a: 巴哈馬對短期旅遊eSIM不要求實名認證，您購買後掃描QR Code即可啟用，無需提供護照或當地地址。但如果您購買的是當地營運商的長期方案（例如超過30天），可能需要到門市提供護照。我們的eSIM即買即用，非常適合短期旅行。請確保您的手機在購買前已解鎖，並支援eSIM功能，建議在台灣或香港家中先掃碼設定，避免在機場找不到網路。
+    - q: 從拿索前往埃克蘇馬群島的船程中，eSIM訊號穩定嗎？
+      a: 從拿索到埃克蘇馬群島的渡輪航程約2小時，途中約有30分鐘的航段會離開陸地基站覆蓋範圍，訊號會中斷。靠近島嶼時，以BTC的訊號為主，速度約10-15
+        Mbps。建議您在船上的空檔時間事先下載 Podcast 或離線地圖，因為海上的網路中斷屬正常現象。抵達埃克蘇馬的喬治鎮後，訊號恢復穩定，但島嶼內部樹林區域可能僅有Edge網路。
+    - q: 巴哈馬eSIM有公平使用政策嗎？每天多少流量後會降速？
+      a: 我們的巴哈馬eSIM採用公平使用政策，每日使用超過5GB後，連線優先級會降低，但不會斷網。降速後的速度約128 kbps，仍可傳送文字訊息和使用輕量應用如WhatsApp。針對重度用戶，建議搭配飯店Wi-Fi分流大檔案下載。例如在亞特蘭蒂斯度假村，公共區域提供免費Wi-Fi，可作為補充。請避免在短時間內連續串流4K影片，否則易觸發降速。
+    - q: 在巴哈馬的偏僻小島如長島，eSIM能收到訊號嗎？
+      a: 長島這類外島的網路覆蓋主要由Aliv提供，主要城鎮如斯特拉馬里斯附近有4G LTE訊號，速度約10-15 Mbps。但島嶼東南部的小型海灘區域可能僅有2G/3G訊號，僅適合通話。建議您提前在拿索或弗里波特的城市地區下載離線地圖和娛樂內容。若計劃前往偏遠地點，可考慮購買當地預付卡作為備用，但eSIM本身已足夠涵蓋多數旅遊景點。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 巴哈馬 機場：如何使用 巴哈馬 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Bahamas eSIM before your flight. Once you land at Lynden Pindling
-        International Airport (NAS), Grand Bahama International Airport (FPO), Exuma
-        International Airport (GGT), simply turn off Airplane Mode and enable your
-        eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Bahamas eSIM activated upon landing, you can immediately open Bahamas
-        Ride, Island Taxi, BWSC Ferry to book a ride or use WhatsApp to message your
-        pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Bahamas eSIM data allows you to open Google Maps right at
-        the baggage claim in Lynden Pindling International Airport (NAS), Grand Bahama
-        International Airport (FPO), Exuma International Airport (GGT) to check real-time
-        train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Bahamas eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Bahamas eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Bahamas eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 在林登·平德林國際機場 (NAS) 落地後，如何啟用eSIM？有網路嗎？
+      a: 抵達拿索的林登·平德林國際機場後，您可以在行李提領區或出境大廳連接免費Wi-Fi（名為「NAS Free WiFi」，需接受條款），然後掃描我們在訂單確認信中提供的QR
+        Code來啟用eSIM。啟用過程約需1-2分鐘，之後會自動連接到BTC或Aliv網路。如果遇到問題，機場內有電信業者服務櫃檯，可尋求協助。建議在台灣出發前先將QR
+        Code截圖儲存在手機，以免機場Wi-Fi不穩。
+    - q: 從大巴哈馬國際機場 (FPO) 入境，購買eSIM後需要立即開通嗎？
+      a: |-
+        不需要立即開通，您可以選擇在抵達機場時掃碼啟用，或者等到前往弗里波特市區再啟用。機場出境大廳就有免費Wi-Fi（「FPO Free Zone」），連線後一樣可以掃QR Code。建議在機場啟用，因為從機場到市區計程車約15分鐘車程，途中需要導航。啟用後若無訊號，可手動選擇Aliv網路（設定 > 行動數據 > 網路選擇）。
+    - q: 在巴哈馬機場可以購買當地SIM卡嗎？價格如何？
+      a: 林登·平德林國際機場和大巴哈馬國際機場的抵達大廳都有BTC和Aliv的官方門市，可以購買預付SIM卡。價格約10-20美元，包含1-3GB流量。對於短期旅遊，我們的eSIM通常更划算，因為費用更低且無需更換卡片。例如eSIM
+        3GB方案約9美元，而當地SIM同容量可能貴50%。不過當地SIM卡有通話分鐘數，適合需要打電話的旅客。
+    - q: 在埃克蘇馬國際機場 (GGT) 能否買到eSIM？
+      a: 埃克蘇馬國際機場規模較小，機場內沒有電信門市，僅設有販賣機和遊客中心，但提供免費Wi-Fi（「GGT Guest」）。建議您透過我們在台灣先購買eSIM，或透過其他線上平台如Airalo、Holafly購買。機場Wi-Fi訊號穩定，可用於掃描QR
+        Code。注意，離島機場的網路速度較慢，約10 Mbps，但足夠啟用eSIM。
+    - q: 從巴哈馬機場搭計程車到市區，使用eSIM導航會不會斷訊？
+      a: 從NAS機場到拿索市區的路程約15分鐘，全程有BTC的4G覆蓋，導航Google Maps或Waze非常順暢。從FPO機場到弗里波特市區的路程同樣穩定，但經過大片樹林時可能短暫降速至3G，訊號會在1分鐘內恢復。建議預先下載離線地圖，以應對極少數無訊號路段。總體而言，使用eSIM導航相當可靠。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 巴哈馬 eSIM 用於 巴哈馬 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Bahamas eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Bahamas, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Bahamas Ride, Island Taxi, BWSC Ferry use VoIP (internet calling)
-        and in-app messaging. Since you have active Bahamas eSIM data, drivers can
-        call or message you directly through the app without needing a local phone
-        number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Bahamas eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Bahamas eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Bahamas.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Bahamas eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Bahamas eSIM's data network while on
-        the train or in the car.
+    - q: 在拿索搭乘計程車，如何用eSIM叫車？有哪些APP可用？
+      a: 拿索主要使用Uber和當地APP「Bahamas Taxi」，Uber在市區和天堂島區域車輛較多，而Bahamas Taxi提供固定價格更適合長途。您可以在機場啟用eSIM後立即叫車，Uber等待時間約5-10分鐘。支付時可綁定信用卡，建議在APP內預估車資，避免繞路。使用Bahamas
+        Taxi時，部分司機偏好現金，因此建議備妥小額美元。
+    - q: 從拿索到天堂島的渡輪航線，eSIM訊號如何？
+      a: 拿索市中心到天堂島的渡輪航程僅15分鐘，全程在訊號範圍內，連線穩定。靠近日落時段，遊客較多可能造成輕微降速，但一般上網和通話不受影響。船上可使用熱點分享給同行友人。建議使用Google地圖導航天堂島的景點，例如亞特蘭蒂斯度假村，因為道路上無明顯路標。
+    - q: 在弗里波特租自行車或機車遊覽，eSIM導航是否可靠？
+      a: 弗里波特市區和主要道路如Midshipman Road覆蓋良好，自行車騎行時eSIM導航順暢。但前往東側的Lucayan國家公園時，部分步道會進入3G區域，導航可能延遲約5秒。建議提前將公園路線下載至離線Google地圖。機車騎行者應注意，部分鄉間道路無路燈，夜間導航請降低車速。網速在中午尖峰時段可能下降至15
+        Mbps，但仍可用。
+    - q: 在巴哈馬島嶼間飛行的國內航班上，eSIM可以使用嗎？
+      a: 根據巴哈馬民航規定，國內航班起飛後須開啟飛航模式，eSIM無法使用數據。但部分航空公司如巴哈馬航空提供機上Wi-Fi（收費），或可在起飛前傳送訊息。建議在候機時完成所有需要網路的任務，例如下載電影。國內航班通常短於1小時，網路中斷影響有限。
+    - q: 在巴哈馬使用Uber從飯店到機場，價格和等候時間如何？
+      a: 以拿索為例，從亞特蘭蒂斯度假村到NAS機場的Uber車資約25-35美元，視路況波動。尖峰時段（週五下午）等候時間可能長達15分鐘，而離峰時段約5分鐘。建議提前15分鐘叫車，並備妥現金以備司機要求額外費用。使用eSIM可即時查看司機位置和路線，確保安全。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 巴哈馬 的飯店使用 巴哈馬 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Bahamas eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Bahamas eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Atlantis Paradise Island, Baha Mar, Sandals Royal
-        Bahamian or a local guesthouse, you can input the address into Google Maps
-        and get turn-by-turn walking or transit directions using your Bahamas eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Bahamas eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Bahamas eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Bahama Bites, Foodies Bahamas, Grubhub
-        Bahamas and use your Bahamas eSIM data to order a hot meal directly to your
-        hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Bahamas eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 在亞特蘭蒂斯天堂島度假村內，eSIM的訊號強度如何？
+      a: 亞特蘭蒂斯度假村內大部分區域（大堂、餐廳、泳池區）訊號良好，連接到Aliv的4G LTE，下載速度約20-30 Mbps。但在水族館隧道和水上樂園最深處可能降到10
+        Mbps以下。度假村提供免費Wi-Fi，但需輸入房間號碼登入，速度約15 Mbps。如果您的eSIM數據充裕，建議使用行動數據，因為Wi-Fi在晚間繁忙時段可能不穩。
+    - q: 在巴哈馬君悅酒店的客房內，eSIM收得到訊號嗎？
+      a: 拿索的巴哈馬君悅酒店位於市區，客房內訊號飽滿，無論是面海還是面城市的方向，均能穩定連線。高樓層客房可能因建築結構輕微衰減，但速度仍有20 Mbps以上。酒店公共區域提供免費Wi-Fi，但連線人數多時速度較慢。建議使用eSIM進行視訊通話，品質更佳。
+    - q: 住在桑德斯海灘度假村，週邊有網路死角嗎？
+      a: 桑德斯海灘度假村位於拿索西部海灘，我該區域訊號覆蓋良好，但在海灘盡頭的礁石區可能出現短暫的3G訊號。度假村房間內建議靠近窗戶以獲得較佳訊號。使用eSIM時，避開傍晚6-8點遊客回房尖峰時段，屆時網路可能輕微降速。飯店提供付費Wi-Fi，但不如eSIM便利。
+    - q: 在弗里波特的輕旅宿（如Hostel），eSIM連線穩定嗎？
+      a: 弗里波特的青年旅舍多集中在市區，訊號穩定，Aliv和BTC皆覆蓋。但部分老舊建築的內部（如地下室或厚牆房間）訊號可能僅為3G，建議入住時測試。如果房間訊號不佳，可移至交誼廳或戶外陽台。旅舍通常提供免費Wi-Fi，但速度可能共享而較慢。
+    - q: 在哈勃島的民宿過夜，eSIM會不會沒訊號？
+      a: 哈勃島的民宿大部分靠近港口或沿海，訊號以Aliv為主，晚間（22:00後）網路較少人使用，速度約15-20 Mbps。但島嶼內陸的少數民宿可能僅有3G訊號，且微弱。建議選擇靠近碼頭的住宿，確保導航和通訊順暢。如果民宿提供Wi-Fi，可作為備用。
+    - q: 在巴哈馬的飯店大廳用eSIM看串流影片會卡嗎？
+      a: 在拿索的五星飯店大廳，例如君悅酒店，使用eSIM播放Netflix 1080p通常順暢，但晚間尖峰時段（週末20:00）可能出現緩衝，建議使用飯店Wi-Fi分流。整體而言，eSIM在室內公共區域的表現穩定，但若遇上大量旅客同時使用，速度可能波動。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 巴哈馬 旅遊景點的網路：巴哈馬 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Pig Beach (Exuma), Blue Hole (Dean's Blue Hole), Atlantis
-        Water Park spontaneously, you can use your Bahamas eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Bahamas eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Bahamas.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Bahamas eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Bahamas eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Bahamas eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Bahamas eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Bahamas eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Bahamas eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Bahamas eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Bahamas eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Bahama Bites, Foodies Bahamas, Grubhub Bahamas,
-        register using your email or social accounts, and order food seamlessly using
-        your Bahamas eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Bahamian
-        Dollar (cash), Credit/Debit Cards, Samsung Pay require a brief internet handshake,
-        which your Bahamas eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Bahamas eSIM to find hidden culinary gems in the city.
+    - q: 參觀拿索歷史博物館時，可以使用eSIM查閱資料嗎？
+      a: 拿索歷史博物館位於市區，室內有Aliv訊號，但部分展廳（如地下室）可能無數據服務。建議先在大廳下載博物館APP或語音導覽。館內提供免費Wi-Fi（「NAS
+        Museum」），但需要登記郵箱。使用eSIM在館內查詢Google資訊完全沒問題，上傳照片稍慢但可行。
+    - q: 在天堂島亞特蘭蒂斯水族館拍照上傳社群，網路速度如何？
+      a: 亞特蘭蒂斯水族館「The Dig」區域訊號良好，上傳照片到Instagram約需5-10秒，但在水下隧道深處（模擬遺跡）可能因建築遮蔽降至3G。建議在開放式展區如潟湖完成上傳。水族館也提供免費Wi-Fi（「Atlantis
+        Guest」），但需要房間號碼，非住客可考慮使用eSIM。
+    - q: 前往哈勃島粉紅沙灘，eSIM沿路訊號穩定嗎？
+      a: 從拿索乘船到哈勃島約1小時，途中約20分鐘無訊號。抵達哈勃島後，粉紅沙灘沿線皆有Aliv 4G訊號，但沙灘遠端（步行20分鐘處）可能降至3G。沙灘上沒有公共Wi-Fi，因此eSIM是唯一網路來源。建議上午使用，此時遊客少，網速較快。
+    - q: 在弗里波特的Lucayan國家公園內，eSIM能用來導航嗎？
+      a: Lucayan國家公園內主要步道（如Gold Rock Creek）均有訊號，但深處的原始森林區域可能僅有3G，導航延遲約5-10秒。建議提前下載公園離線地圖。公園遊客中心提供免費Wi-Fi，但範圍有限。使用eSIM時，注意步道盡頭的洞穴區完全無訊號，請勿在該處依賴網路。
+    - q: 在拿索的約翰·瓦特林釀酒廠參觀，eSIM可用嗎？
+      a: 釀酒廠位於拿索市區Buccaneer Street，室內訊號全滿，可以流暢使用社群媒體。導覽過程中，您可即時查詢蘭姆酒歷史，或分享照片。釀酒廠提供免費Wi-Fi（密碼於櫃檯），但使用eSIM更便利。注意部分酒窖內部（儲藏室）訊號可能減弱。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 巴哈馬 eSIM 在 巴哈馬 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Bahamas eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Bahamas eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Bahamas eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Bahamas
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Bahamas eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Bahamas eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Bahamas eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在拿索用eSIM上Instagram和TikTok，影片加載速度快嗎？
+      a: 拿索市區（如灣街）連線BTC，TikTok影片預載約1-2秒，上傳短影片約需10秒。晚間時段（19-22點）可能因用戶多而降速，但依然順暢。使用Aliv網路時，影片加載稍快，尤其適合直播。建議在高峰時段切換到Aliv（手動選網）以獲得更佳體驗。
+    - q: 在弗里波特使用eSIM進行Facetime視訊通話，品質如何？
+      a: 弗里波特市中心連線穩定，Facetime通話畫質清晰，但移動中（如走路時）可能偶爾模糊。在咖啡廳使用時，背景有少量雜音但可接受。建議避免在遊客密集的港口進行通話，因共享頻寬可能導致延遲。總體來說，滿足與家人短暫通話的需求。
+    - q: 在巴哈馬偏遠島嶼如Cat Island，能用eSIM發送微信訊息嗎？
+      a: Cat Island的城鎮（如Arthur's Town）有Aliv訊號，微信文字傳送即時，但圖片發送可能需要10-20秒。島嶼南部無訊號區無法使用。建議在主要道路旁的餐廳或民宿使用，並關閉自動下載圖片以節省流量。整體可滿足基本社交需求。
+    - q: 在拿索的酒吧或夜店使用eSIM打卡，上傳速度如何？
+      a: 拿索熱門酒吧如Aura Nightclub，室內訊號良好，打卡上傳照片約5秒。但若人潮擁擠（週末23點後），網路可能壅塞，建議使用數據優先的APP如Instagram或使用Wi-Fi。部分酒吧提供免費Wi-Fi，但密碼需詢問服務生。
+    - q: 在巴哈馬使用eSIM玩手機遊戲（如《傳說對決》），延遲高嗎？
+      a: 在拿索市區連線BTC，遊戲延遲約40-60ms，適合休閒遊玩，但團戰時可能出現卡頓。在弗里波特延遲稍高約70ms，偏遠島嶼則可能超過100ms。建議不在移動中（如船上）玩遊戲，因網路切換會造成跳ping。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 巴哈馬 使用 巴哈馬 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Bahamas, you can dial local emergency numbers like 911, 919 (Police),
-        911 (Ambulance/Fire) directly from your phone's dialer regardless of your
-        active SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Bahamas eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Bahamas eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Bahamas eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Bahamas eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Bahamas eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Bahamas eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Bahamas eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Bahamas eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Bahamas eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Bahamas eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Bahamas eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Bahamas eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在巴哈馬若發生緊急情況，如何使用eSIM撥打911？
+      a: 即使沒有eSIM餘額，您的手機仍應能撥打911。但為了確保連線，建議儲存少許流量以備網路通話。如果身在拿索市區，直接撥打911即可，接線員會英文。若在海島訊號弱處，嘗試走到高處或海邊。使用eSIM的數據也可透過Skype撥打緊急電話。
+    - q: 在拿索遺失護照，能使用eSIM聯絡大使館嗎？
+      a: 您可以使用eSIM連上Google搜尋中國駐巴哈馬大使館資訊，並致電或發郵件。大使館位於拿索West Bay Street，電話為+1-242-393-1415。建議先用eSIM導航前往，並攜帶護照影本。使館辦公時間為週一至週五9:00-12:00、14:00-17:00。
+    - q: 在巴哈馬海邊游泳時手機進水，eSIM卡片會損壞嗎？
+      a: eSIM為虛擬卡，手機進水後SIM卡資料不受損，但手機本身可能故障。若手機進水，立即關機並擦乾，待完全乾燥後開機，eSIM應可正常使用。建議將手機放入防水袋，避免海水腐蝕。如果手機無法開機，需至電信門市補辦eSIM。
+    - q: 在巴哈馬遇到颶風天氣，eSIM網路會中斷嗎？
+      a: 巴哈馬颶風季（6-11月）期間，強風可能導致基地台受損，網路可能中斷數小時至數天。eSIM依賴當地電信，沒有額外保障。建議在颶風警報發布前提早下載離線資源，並準備衛星電話或緊急通訊方式。風災過後，Aliv和BTC會優先修復市區基地台。
+    - q: 在巴哈馬偏遠島嶼發生車禍，如何用eSIM求助？
+      a: 即使在偏遠島嶼，eSIM仍可撥打911，但可能需要移動到有訊號的路段。例如在埃克蘇馬群島，可前往主要公路或碼頭。撥通後清楚告知位置和傷勢。建議使用手機GPS記錄座標，或打開地圖截圖。若無訊號，可揮手攔車請司機幫忙。
+    - q: 在巴哈馬若被蚊蟲叮咬過敏，能用eSIM查詢附近藥局嗎？
+      a: 可以使用eSIM開啟Google Maps搜尋「pharmacy near me」，拿索市區有多家24小時藥局如「Pharmacy at Harbour
+        Bay」。若身在弗里波特，可用同樣方式找到最近的藥局。建議提前下載離線藥局清單，以防無網路時需要。導航時注意營業時間，部分藥局週日休息。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 巴哈馬 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Bahamas eSIM Compared to Prepaid SIM Cards: What You Need to Know"
-  subtitle: "Bahamas Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Bahamas) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Bahamas"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Bahamas eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "SIM card costs $15, requires passport for registration, and must be purchased at BTC or aliv stores (e.g., airport queues), taking 15-30 minutes."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip BTC and aliv store queues. Activate online within 1 minute after landing in Nassau, no passport needed."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All prepaid SIMs require passport as proof of identity during purchase."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid handing over your passport for KYC. Roami eSIM activates instantly without identity checks."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "aliv's international roaming add-on costs $26.85 for 500MB/7 days; BTC offers no specific roaming data. aliv has no coverage outside six main islands and no roaming agreement with BTC."
-      esim_title: "Seamless Multi-Island Coverage"
-      esim_desc: "Unlike aliv (no coverage outside six main islands), Roami connects to the best local network across all 700 islands, avoiding dead zones."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "BTC 7-day plan costs $9.99 for 2GB (plus 12% VAT); aliv 7-day plans start at $5 for 500MB. aliv 30-day plans start at $30 for 3GB. Short trips waste up to 80% of plan value."
-      esim_title: "Flexible Plans, Zero Waste"
-      esim_desc: "Unlike aliv's 7-day ($5/500MB) or 30-day ($30/3GB) cycles, Roami offers 7-day plans starting from $1.99/GB, saving up to 80% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, both BTC and aliv allow tethering but may throttle after high usage."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami allows full-speed hotspot sharing, unlike some local plans that throttle after 3GB/day."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up can be done online or at kiosks; foreign cards may be rejected. BTC and aliv accept Visa and Mastercard in stores."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local cash or vouchers."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is available via phone and in-store; no 24/7 live chat for prepaid."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock support via live chat, unlike BTC and aliv's limited phone hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Bahamas eSIM vs Prepaid SIM: Cost and Convenience Compared"
-    cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Bahamas' Strict SIM Passport Requirements"
-        desc: "Both BTC and aliv require passport registration at purchase. Roami eSIM activates instantly with no KYC, saving 15-30 minutes at the airport."
-      - icon: "wifi"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Unrestricted Hotspot Sharing"
-        desc: "BTC and aliv may throttle tethering after high usage. Roami allows full-speed hotspot for all your devices, no restrictions."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, or Apple Pay"
-        desc: "Local top-up often rejects foreign cards. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal globally."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "24/7 Support vs Limited Local Hours"
-        desc: "BTC and aliv offer phone support only during business hours. Roami provides 24/7 live chat assistance in multiple languages."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

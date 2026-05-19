@@ -1,374 +1,391 @@
 ---
-title: "Switching from Android to iPhone? Transfer Your eSIM in 60 Seconds (2026 Guide)"
-description: "Switching phones? Learn how to transfer your eSIM between iPhone (iOS 26) and Android (Android 16) in under 60 seconds. Step-by-step instructions, supported carriers (AT&T, T-Mobile, Verizon, EE, Orange), QR code scanning, and fixes for “transfer failed” errors. No need to call your carrier."
-keywords: ["eSIM troubleshooting", "eSIM activation failed", "eSIM no service", "eSIM transfer error", "Apple eSIM", "iOS 26 eSIM", "iPad eSIM not working", "eSIM APN settings", "eSIM confirmation code", "eSIM profile expired", "eSIM bound to another device", "dual eSIM signal issue", "eSIM DFU error 53", "eSIM carrier lock", "eSIM cross-platform transfer"]
-date: 2026-04-28T10:00:00Z
-lastmod: 2026-04-28T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
+title: "在 60 秒內將 eSIM 從 Android 轉移到 iPhone (2026)"
+description: "了解如何在 60 秒內將 eSIM 從 Android 轉移到 iPhone 或反向轉移。iOS 26 和 Android 16 的逐步說明、支援的電信業者（AT&T、T-Mobile、Verizon、EE、Orange）、轉移錯誤排除。同時說明：可以安裝多少 eSIM、如何使用雙重 eSIM、哪裡購買旅遊 eSIM（土耳其、埃及、中國）。"
+keywords: ["轉移 eSIM", "如何轉移 eSIM", "跨平台 eSIM 轉移", "eSIM 到另一支手機", "iPhone 17 eSIM", "Android 16 eSIM", "eSIM 故障排除", "啟用 eSIM", "eSIM 無訊號", "eSIM 轉移錯誤", "多少 eSIM", "兩張 eSIM", "購買 eSIM", "旅遊 eSIM", "mts esim", "beeline esim", "tele2 esim", "yota esim", "土耳其 esim", "埃及 esim", "中國 esim", "支援 eSIM 的手機"]
+date: 2026-05-18T10:00:00Z
+lastmod: 2026-05-18T10:00:00Z
+tags: ["eSIM", "iOS", "Android", "故障排除", "轉移"]
 toc: true
 
-# 站点 & SEO 基础硬编码配置
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
 ui_text:
-  updated_on: "Updated on"
-  min_read: "min read"
-  toc: "Table of Contents"
+  updated_on: "更新於"
+  min_read: "分鐘閱讀"
+  toc: "目錄"
 
 breadcrumbs:
   home:
-    text: "Home"
+    text: "首頁"
     url: "/"
   parent:
-    text: "Help Center"
+    text: "幫助中心"
     url: "/faq/"
-    
-# 右侧：热门 eSIM 配置 (6个国家，1.99美金) - 严格保留原始配置
+
 sidebar_popular:
-  title: "Popular eSIMs"
+  title: "熱門 eSIM"
   item_suffix: "eSIM"
   items:
-    - name: "United States"
-      flag: "/img/flags/us.svg"
-      price: "$1.99"
-      url: "/united-states-esim/"
-      badge: "5G"
-    - name: "Germany"
-      flag: "/img/flags/de.svg"
-      price: "$1.99"
-      url: "/germany-esim/"
-      badge: "5G"
-    - name: "Europe"
-      flag: "/img/flags/eu.svg"
-      price: "$1.99"
-      url: "/europe-esim/"
-      badge: "5G"
-    - name: "Turkey"
-      flag: "/img/flags/tr.svg"
-      price: "$1.99"
-      url: "/turkey-esim/"
-      badge: "5G"
-    - name: "Japan"
+    - name: "日本"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "China"
+    - name: "韓國"
+      flag: "/img/flags/kr.svg"
+      price: "$1.99"
+      url: "/south-korea-esim/"
+      badge: "5G"
+    - name: "泰國"
+      flag: "/img/flags/th.svg"
+      price: "$1.99"
+      url: "/thailand-esim/"
+      badge: "5G"
+    - name: "越南"
+      flag: "/img/flags/vn.svg"
+      price: "$1.99"
+      url: "/vietnam-esim/"
+      badge: "5G"
+    - name: "美國"
+      flag: "/img/flags/us.svg"
+      price: "$1.99"
+      url: "/united-states-esim/"
+      badge: "5G"
+    - name: "中國"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置 (4个国家) - 严格保留原始配置
 sidebar_free:
-  title: "Claim Free eSIM"
+  title: "取得免費 eSIM"
   icon: "🎁"
-  item_suffix: "Free eSIM"
-  item_subtitle: "Free eSIM"
+  item_suffix: "免費 eSIM"
+  item_subtitle: "免費 eSIM"
   items:
-    - name: "United Kingdom"
-      flag: "/img/flags/gb.svg"
+    - name: "日本"
+      flag: "/img/flags/jp.svg"
       url: "/free-esim/"
-    - name: "Germany"
-      flag: "/img/flags/de.svg"
-      url: "/free-esim/"
-    - name: "Thailand"
+    - name: "泰國"
       flag: "/img/flags/th.svg"
       url: "/free-esim/"
-    - name: "Hong Kong"
-      flag: "/img/flags/hk.svg"
+    - name: "新加坡"
+      flag: "/img/flags/sg.svg"
       url: "/free-esim/"
-
-# 右侧：热门问题配置 (5个问题) - 严格保留原始配置
+    - name: "澳洲"
+      flag: "/img/flags/au.svg"
+      url: "/free-esim/"
 sidebar_questions:
-  title: "Popular Questions"
+  title: "熱門問題"
   items:
-    - question: "What is eSIM activation and how does it work?"
+    - question: "什麼是 eSIM 啟用，它是如何運作的？"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "How to activate an eSIM?"
+    - question: "如何啟用 eSIM？"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "How to activate eSIM on iPhone (All Models)?"
+    - question: "如何在 iPhone（所有型號）上啟用 eSIM？"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Latest eSIM Compatibility List"
+    - question: "最新的 eSIM 相容性清單"
       url: "/compatibility/"
 ---
 
 
-> For years, eSIM transfers were locked inside the same ecosystem – you could move from iPhone to iPhone, or between some Android phones, but crossing the iOS‑Android divide required a trip to your carrier. **iOS 26 and Android 16 change that completely.** This guide walks you through every supported method, carrier requirement, and troubleshooting step to transfer your eSIM seamlessly. For general activation help, see our **[iPhone 17 eSIM Complete Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**.
+> 多年來，**eSIM 轉移**一直被限制在單一生態系內 – 您可以在 iPhone 之間或某些 Android 手機之間轉移 eSIM，但要跨越 iOS 和 Android 之間的鴻溝，就得去找電信業者。**iOS 26 和 Android 16 徹底改變了這一點。** 本指南逐步介紹所有支援的方法、電信業者要求以及在裝置之間無縫 **轉移 eSIM** 的故障排除步驟。如果您正在尋找 **哪裡購買旅遊 eSIM**（，請參考我們的 Roami 資費方案 – 幾秒內啟用，適用於 190+ 個國家。如需一般的啟用協助，請參閱我們的 **[iPhone 17 eSIM 完整指南](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**。
 
 ---
 
-## 📌 Quick Summary 
+## 📌 快速摘要
 
-| From | To | Minimum OS | Method |
-|------|-----|------------|--------|
-| iPhone (iOS 26) | Android (16+) | iOS 26.3 / Android 16 | QR code + manual pairing |
-| Android (16+) | iPhone (iOS 26) | iOS 26 / Android 16 | QR code scan (iPhone generates) |
-| iPhone (iOS 18–25) | Any | – | Not directly supported – use carrier QR code |
-| Android (15 or older) | Any | – | Not supported – upgrade OS or contact carrier |
+| 從 | 到 | 最低作業系統版本 | 方法 |
+|--------|------|----------------------|-------|
+| iPhone (iOS 26) | Android (16+) | iOS 26.3 / Android 16 | QR 碼 + 手動配對 |
+| Android (16+) | iPhone (iOS 26) | iOS 26 / Android 16 | 掃描 QR 碼（由 iPhone 產生） |
+| iPhone (iOS 18–25) | 任何 | – | 不直接支援 – 使用電信業者的 QR 碼 |
+| Android (15 或更舊) | 任何 | – | 不支援 – 請更新作業系統或聯絡電信業者 |
 
-**Supported carriers** (as of April 2026):  
-🇺🇸 AT&T, T‑Mobile, Verizon, FirstNet  
-🇨🇦 Bell, Koodo, Lucky Mobile, Telus  
-🇫🇷 Orange, SFR  
+> 💡 **轉移前** 請確認您的 **手機支援 eSIM**（撥打 `*#06#` – 出現 EID 即確認相容）。目前 **支援 eSIM 的手機清單** 包括 **iPhone 17**、**iPhone 17 Pro**、**Samsung Galaxy S25**、**Google Pixel 10**、**Xiaomi 15T Pro** 等許多機型。
+
+**支援的電信業者**（截至 2026 年 4 月）：  
+🇺🇸 AT&T、T‑Mobile、Verizon、FirstNet  
+🇨🇦 Bell、Koodo、Lucky Mobile、Telus  
+🇫🇷 Orange、SFR  
 🇩🇪 Telekom  
-🇯🇵 au, UQ  
+🇯🇵 au、UQ  
 🇲🇽 AT&T  
 🇨🇭 Swisscom  
 🇬🇧 EE  
 
-*If your carrier is not listed, the transfer will fail. Use the QR code method provided by your carrier instead.*
+
 
 ---
 
-## 1. Why This Changes Everything
+## 1. 為何這改變了一切
 
-Before iOS 26, moving an eSIM from an Android phone to an iPhone meant:
-- Calling your carrier (often waiting on hold)
-- Providing the new device’s EID and IMEI
-- Waiting minutes or hours for a new QR code
+在 iOS 26 之前，**將 eSIM 從 Android 轉移到 iPhone** 意味著：
+- 打電話給電信業者（通常需要等待）
+- 提供新裝置的 EID 和 IMEI
+- 等待幾分鐘或幾小時才能取得新的 QR 碼
 
-Now, with **native cross‑platform eSIM transfer**, the process is fully self‑service and takes less than 60 seconds.
+現在，得益於 **內建的跨平台 eSIM 轉移**，整個過程完全自助，且少於 60 秒。如果您想 **將 eSIM 轉移到另一支手機** 而無需麻煩，這尤其方便。
 
-### What makes it possible?
-- **iOS 26** introduced the `Transfer from Android` feature inside Settings.
-- **Android 16** added a reciprocal `Pair with iPhone or iPad` menu under Google Services.
-- Both OS versions implement the GSMA’s **consumer eSIM transfer specification (SGP.22 v2.5+)**, allowing secure peer‑to‑peer profile migration.
+### 是什麼讓這成為可能？
+- **iOS 26** 在設定中引入了 `從 Android 轉移` 功能。
+- **Android 16** 在 Google 服務中增加了對應的 `與 iPhone 或 iPad 配對` 選單。
+- 兩個作業系統版本都實作了 **GSMA 消費者 eSIM 轉移規範 (SGP.22 v2.5+)**，允許安全的點對點設定檔遷移。
 
-> 🔒 Security note: The transfer is encrypted end‑to‑end and requires both devices to be in close proximity with Bluetooth enabled. The old eSIM is automatically deactivated the moment the new device activates it. If you later need to fix any dual‑SIM quirks after transfer, our **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** is a helpful resource.
-
----
-
-## 2. What You Need Before You Start
-
-**For both directions:**
-- Both devices must be **unlocked** (no carrier lock). To check on iPhone: `Settings > General > About` → `Carrier Lock` must say “No SIM restrictions”.
-- Both devices have **Bluetooth turned on**.
-- Both devices are connected to **Wi‑Fi** (or at least one has a working cellular data connection).
-- The eSIM you want to transfer is **active** on the source device (not already deleted).
-- Your carrier **supports cross‑platform transfer** (see list above). If not, skip to Section 6 – fallback methods.
-
-**For Android → iPhone:**
-- iPhone must be on **iOS 26 or later**.
-- Android must be on **Android 16 or later** (check under `Settings > About phone > Software information`).
-
-**For iPhone → Android:**
-- iPhone must be on **iOS 26.3 or later** (the Android‑directed transfer feature arrived in 26.3).
-- Android must be on **Android 16 or later**.
-
-> 🚨 If your device is on an older OS, the menu option will simply not appear. Update first.
+> 🔒 安全注意事項：轉移過程採用端對端加密，且需要兩個裝置在近距離內且藍牙開啟。舊的 eSIM 會在新裝置上啟用的那一刻自動停用。如果您之後需要修復轉移後雙 SIM 的任何問題，我們的指南 **[「雙重 eSIM 無法使用？12 個 iPhone 解決方案」](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** 將是有用的資源。
 
 ---
 
-## 3. Method A: Transfer eSIM from Android to iPhone (iOS 26)
+## 2. 開始前需要什麼
 
-This is the most common scenario – switching from a Samsung, Pixel, or other Android to a new iPhone 17.
+**兩個方向都適用：**
+- 兩個裝置都必須是 **解鎖版**（無電信業者鎖定）。在 iPhone 上檢查：`設定 > 一般 > 關於本機` → `電信業者鎖定` 應顯示「沒有 SIM 卡限制」。
+- 兩個裝置的 **藍牙** 皆已開啟。
+- 兩個裝置都連接到 **Wi‑Fi**（或至少有一個具有可用的行動網路連線）。
+- 您要轉移的 eSIM 在來源裝置上 **處於活躍狀態**（尚未刪除）。
+- 您的電信業者 **支援跨平台轉移**（請參閱上方清單）。如果不支援，請跳至第 6 節 – 替代方法。
 
-### Step‑by‑step
+**適用於 Android → iPhone：**
+- iPhone 必須是 **iOS 26 或更新版本**。
+- Android 必須是 **Android 16 或更新版本**（檢查 `設定 > 關於手機 > 軟體資訊`）。
 
-**On your Android (source device):**
-1. Unlock the phone and enable Bluetooth.
-2. Keep it next to the iPhone (within 10 cm).
+**適用於 iPhone → Android：**
+- iPhone 必須是 **iOS 26.3 或更新版本**（向 Android 轉移的功能在 26.3 中引入）。
+- Android 必須是 **Android 16 或更新版本**。
 
-**On your iPhone (target):**
-1. Go to `Settings` → `Cellular` → `Add eSIM`.
-2. Tap `Transfer from Android`. A QR code will appear on the iPhone screen.
-   - *If you don’t see this option, update to iOS 26.*
-3. On your Android phone, open the **camera** app.
-4. Scan the QR code shown on the iPhone.
-5. A notification will appear: “eSIM transfer detected”. Tap it.
-6. Select the phone number (eSIM profile) you want to transfer.
-7. Tap `Transfer`. The Android will show “Preparing transfer…”
-8. On the iPhone, a confirmation popup appears – tap `Continue`.
-9. Wait 10–30 seconds. The iPhone will say “Activation complete”.
-10. The Android will show “eSIM removed” – this is normal.
-
-✅ **Done.** Your number is now active on the iPhone. The Android’s eSIM is automatically deactivated and cannot be used again.
-
-### What if the camera scan doesn’t work?
-Use the **manual pairing fallback**:
-
-- On the iPhone, after tapping `Transfer from Android`, choose `Other options` below the QR code.
-- The iPhone shows a **session ID** and a **6‑digit pairing code**.
-- On the Android: `Settings` → `Google services` → `All services` → `Pair with iPhone or iPad` → `Transfer eSIM`.
-- Enter the session ID and pairing code manually.
-- Proceed with the transfer.
+> 🚨 如果您的裝置作業系統版本過舊，選單項目根本不會出現。請先更新。
 
 ---
 
-## 4. Method B: Transfer eSIM from iPhone to Android (iOS 26.3+)
+## 3. 方法 A：將 eSIM 從 Android 轉移到 iPhone（iOS 26）
 
-Apple added this capability in **iOS 26.3** (released early 2026). The process is similar but initiated from the iPhone.
+這是最常見的場景 – 從 Samsung、Pixel 或其他 Android 轉移到新的 **iPhone 17 eSIM**。
 
-### Pre‑requisites
-- iPhone on **iOS 26.3 or later**
-- Android on **Android 16 or later**
-- Both devices on same Wi‑Fi or Bluetooth on
+### 逐步說明
 
-### Steps
+**在 Android（來源裝置）上：**
+1. 解鎖手機並開啟藍牙。
+2. 將它靠近 iPhone（距離 10 公分以內）。
 
-**On your iPhone (source):**
-1. Go to `Settings` → `Cellular`.
-2. Tap the eSIM you want to transfer.
-3. Scroll down and tap `Transfer to Android` (or `Transfer eSIM` under a new “Transfer to Android” section – exact wording varies by carrier).
-   - *If you don’t see this, either your carrier doesn’t support it or you need iOS 26.3.*
-4. A QR code appears. Keep this screen on.
+**在 iPhone（目標裝置）上：**
+1. 前往 `設定` → `行動服務` → `加入 eSIM`。
+2. 點擊 `從 Android 轉移`。iPhone 螢幕上會出現 QR 碼。
+   - *如果您沒有看到此選項，請更新至 iOS 26。*
+3. 在 Android 手機上打開 **相機** 應用程式。
+4. 掃描 iPhone 上顯示的 QR 碼。
+5. 會出現一則通知：「偵測到 eSIM 轉移」。點擊它。
+6. 選擇您要轉移的電話號碼（eSIM 設定檔）。
+7. 點擊 `轉移`。Android 會顯示「正在準備轉移…」
+8. iPhone 上會出現確認彈窗 – 點擊 `繼續`。
+9. 等待 10–30 秒。iPhone 會顯示「啟用完成」。
+10. Android 會顯示「eSIM 已刪除」 – 這是正常的。
 
-**On your Android (target):**
-1. Go to `Settings` → `Google services` → `All services` → `Pair with iPhone or iPad`.
-2. Tap `Transfer eSIM`.
-3. Scan the QR code displayed on the iPhone.
-4. Select the number (if multiple eSIMs are present on the iPhone).
-5. Tap `Transfer`.
-6. On the iPhone, double‑click the side button to confirm the transfer (biometric authentication required).
-7. Wait for activation on Android. The iPhone will show “eSIM removed” after completion.
+✅ **完成。** 您的門號現在在 iPhone 上活躍。Android 上的 eSIM 已自動停用，無法再次使用。
 
-✅ Done. Your number now lives on the Android phone.
+### 如果相機掃描無法使用怎麼辦？
+使用 **手動配對的備用方案**：
 
-> ⚠️ **Important**: Once the transfer completes, the eSIM is **permanently removed** from the iPhone. You cannot revert without your carrier. Make sure you have another active line or Wi‑Fi before transferring.
-
----
-
-## 5. Supported Carriers (Detailed Table – April 2026)
-
-| Country | Carriers Confirmed |
-|---------|--------------------|
-| USA | AT&T, FirstNet, T‑Mobile, Verizon |
-| Canada | Bell, Koodo, Lucky Mobile, Telus |
-| France | Orange, SFR |
-| Germany | Deutsche Telekom (Telekom) |
-| Japan | au, UQ (UQ Mobile) |
-| Mexico | AT&T |
-| Switzerland | Swisscom |
-| United Kingdom | EE |
-
-**Not supported (as of April 2026):**
-- Vodafone (any country) – they use a proprietary transfer system
-- Three (UK and other markets)
-- Google Fi (requires re‑issuing QR code)
-- Most prepaid / MVNO eSIMs (e.g., Airalo, Holafly, Nomad) – these are data‑only and cannot be transferred; you’ll need to buy a new plan on the new device.
-
-👉 **How to check if your carrier supports it on iPhone?**  
-Try the steps in Section 3 or 4. If the “Transfer from Android” or “Transfer to Android” option is missing, your carrier does not support it.
+- 在 iPhone 上點擊 `從 Android 轉移` 後，選擇 QR 碼下方的 `其他選項`。
+- iPhone 會顯示 **會話識別碼** 和 **6 位數配對碼**。
+- 在 Android 上：`設定` → `Google 服務` → `所有服務` → `與 iPhone 或 iPad 配對` → `轉移 eSIM`。
+- 手動輸入會話識別碼和配對碼。
+- 繼續轉移。
 
 ---
 
-## 6. Fallback Methods (When Cross‑Platform Transfer Is Not Supported)
+## 4. 方法 B：將 eSIM 從 iPhone 轉移到 Android（iOS 26.3+）
 
-If your carrier is not on the list, or you see an error, use one of these alternatives:
+Apple 在 **iOS 26.3**（2026 年初發布）中增加了此功能。過程類似，但由 iPhone 發起。
 
-### Option 1: Carrier‑issued QR code (works always)
-1. Call or chat with your carrier.
-2. Tell them: “I’m switching from Android to iPhone (or vice versa). Please re‑issue my eSIM as a new QR code.”
-3. They will email you a QR code or an activation link.
-4. On the new device, go to `Settings` → `Cellular` → `Add eSIM` → `Use QR code` and scan.
-5. Old device’s eSIM will stop working after the new one activates.
+### 事前要求
+- iPhone 為 **iOS 26.3 或更新版本**
+- Android 為 **Android 16 或更新版本**
+- 兩個裝置在同一 Wi‑Fi 網路中或藍牙已開啟
 
-**Tip**: Some carriers charge a small fee (e.g., $2–$5) for re‑issuing an eSIM.
+### 步驟
 
-### Option 2: Carrier app transfer
-- **T‑Mobile (US)**: Use the T‑Mobile app → “Manage eSIM” → “Transfer to new device”. Works cross‑platform even without iOS 26.
-- **Verizon**: “My Verizon” app → “Activate or switch device” → follow prompts. Works for Android ↔ iPhone.
-- **EE UK**: EE app → “Plan” → “eSIM transfer” – supports cross‑OS but only for postpaid plans.
+**在 iPhone（來源裝置）上：**
+1. 前往 `設定` → `行動服務`。
+2. 點擊您要轉移的 eSIM。
+3. 向下捲動並點擊 `轉移到 Android`（或 `轉移 eSIM` 在「轉移到 Android」的新區塊中 – 確切用詞取決於電信業者）。
+   - *如果您沒有看到此選項，可能是您的電信業者不支援此功能，或者您需要 iOS 26.3。*
+4. 會出現一個 QR 碼。請保持此螢幕開啟。
 
-### Option 3: Manual SM‑DP+ entry (advanced)
-If your carrier gives you an **activation code** and **SM‑DP+ address**, you can manually add the eSIM on the new device:
-1. `Settings` → `Cellular` → `Add eSIM` → `Enter Details Manually`.
-2. Paste the SM‑DP+ address and activation code. Leave confirmation code blank unless provided.
-3. Tap `Next`. This works on both iPhone and Android (for Android, go to `Settings` → `Network & internet` → `SIMs` → `Add eSIM` → `Enter manually`).
+**在 Android（目標裝置）上：**
+1. 前往 `設定` → `Google 服務` → `所有服務` → `與 iPhone 或 iPad 配對`。
+2. 點擊 `轉移 eSIM`。
+3. 掃描 iPhone 上顯示的 QR 碼。
+4. 選擇門號（如果 iPhone 上有多個 eSIM）。
+5. 點擊 `轉移`。
+6. 在 iPhone 上按兩下側邊按鈕以確認轉移（需要生物辨識驗證）。
+7. 等待 Android 上啟用完成。完成後 iPhone 上會顯示「eSIM 已刪除」。
 
----
+✅ 完成。您的門號現在在 Android 手機上。
 
-## 7. Troubleshooting: Why Did My Transfer Fail?
-
-Based on real user cases and Apple’s internal documentation, here are the most common failure reasons and fixes:
-
-| Error / Symptom | Most Likely Cause | Fix |
-|----------------|-------------------|-----|
-| “Transfer not available – carrier not supported” | Your carrier doesn’t support cross‑platform transfer. | Use fallback methods (Section 6). |
-| QR code scans but then says “session expired” | You took too long (>3 minutes) after generating the QR. | Repeat the process and scan immediately. |
-| Android says “Pairing failed” | Bluetooth or local network permissions blocked. | On iPhone: `Settings > Privacy & Security > Local Network` – ensure `Settings` is toggled ON. On Android: turn off “Wi‑Fi security scan” (usually under Wi‑Fi advanced settings). |
-| Transfer starts but stops at 50% | Weak Wi‑Fi or cellular signal. | Move both phones closer to the router. Turn off VPN on both devices. |
-| “eSIM already bound to another device” | The profile was not properly released from the old device. | On the old device, go to `Settings > Cellular` and manually `Delete eSIM` (if still visible). Then wait 5 minutes and try again. If still fails, contact carrier for a profile release. For more such edge cases, check our **[eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/)**. |
-| iPhone asks for confirmation code after scanning | The eSIM profile has a mandatory confirmation code (rare). | Look for the code in the carrier email (often 4–8 digits). If not found, ask carrier. |
-| Double‑click side button does nothing (iPhone → Android) | Biometric authentication not set up or disabled. | Set up Face ID / Touch ID, or temporarily disable “Require Attention” for Face ID. |
-
-### Still stuck?
-Collect these before calling support:
-- Source device IMEI and EID
-- Target device IMEI and EID
-- The exact error message (take a screenshot)
+> ⚠️ **重要**：轉移完成後，eSIM 會 **完全刪除** 自 iPhone。沒有電信業者的協助，您無法撤銷此操作。在轉移前，請確保您有另一條活躍的線路或 Wi‑Fi。
 
 ---
 
-## 8. What Happens to the Old eSIM After Transfer?
+## 5. 支援的電信業者（詳細表格 – 2026 年 4 月）
 
-**It is immediately deactivated.**  
+| 國家 | 已確認的電信業者 |
+|--------|--------------------------|
+| 美國 | AT&T、FirstNet、T‑Mobile、Verizon |
+| 加拿大 | Bell、Koodo、Lucky Mobile、Telus |
+| 法國 | Orange、SFR |
+| 德國 | Deutsche Telekom (Telekom) |
+| 日本 | au、UQ (UQ Mobile) |
+| 墨西哥 | AT&T |
+| 瑞士 | Swisscom |
+| 英國 | EE |
 
-The old device will show “No Service” for that line. The eSIM profile remains visible on the old device for 24–48 hours (as a “ghost” entry). You can manually delete it:  
-`Settings > Cellular > tap the old eSIM > Delete eSIM`.
+**不支援（截至 2026 年 4 月）：**
+- Vodafone（任何國家）– 使用自己的轉移系統
+- Three（英國及其他市場）
+- Google Fi – 需要重新發出 QR 碼
+- 大多數預付 / MVNO eSIM（例如 Airalo、Holafly、Nomad）– 它們僅提供數據且不可轉移；您需要在新裝置上購買新方案。
 
-> 💰 **Billing**: Your carrier will continue charging you for the plan. Transferring does not cancel the plan – it just moves the SIM. To cancel, you must contact the carrier separately.
 
----
-
-## 9. Best Practices to Avoid Transfer Headaches
-
-✅ **Before transferring:**
-- Check carrier support (try the menu – if it’s there, it’s supported).
-- Update both phones to the latest OS (iOS 26 / Android 16).
-- Charge both phones above 30%.
-- Disable VPN and ad‑blockers temporarily.
-
-✅ **During transfer:**
-- Keep phones within 10 cm (4 inches) of each other.
-- Do not switch apps or lock the screen.
-- Do not turn off Bluetooth or Wi‑Fi.
-
-✅ **After transfer:**
-- Test calls and data on the new device.
-- Delete the old eSIM from the source device to avoid confusion.
-- Keep the old device’s Wi‑Fi on for at least an hour – some carriers need a final handshake.
+👉 **如何檢查您的電信業者是否支援轉移到 iPhone？**  
+嘗試執行第 3 或第 4 節中的步驟。如果「從 Android 轉移」或「轉移到 Android」選項不存在，則您的電信業者不支援此功能。
 
 ---
 
-## 10. FAQ – Cross‑Platform eSIM Transfer
+## 6. 替代方法（當跨平台轉移不支援時）
 
-**Q1: Can I transfer a data‑only eSIM (like a travel eSIM)?**  
-A: No. Most travel eSIMs (Airalo, Holafly, Roami data plans, etc.) do not support cross‑platform transfer. They are designed to be installed once per device. You’ll need to buy a new plan on your new phone.
+如果您的電信業者不在清單中，或者您看到錯誤，請使用以下替代方案之一：
 
-**Q2: Does the transfer work between iPhone 11 and a Samsung S24?**  
-A: Yes – as long as both meet the OS requirements. iPhone 11 supports iOS 26 (it runs up to iOS 26). Samsung S24 supports Android 16. Hardware generation does not matter; only OS version matters. For a deep dive into device‑specific eSIM behavior, see our **[iPhone 17 eSIM Complete Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** (also applicable to many older models).
+### 選項 1：電信業者提供的 QR 碼（始終有效）
+1. 打電話或線上聊天聯繫您的電信業者。
+2. 說明：「我正從 Android 轉換到 iPhone（或反過來）。請將我的 eSIM 重新核發為新的 QR 碼。」
+3. 他們會透過電子郵件向您發送 **eSIM QR 碼** 或啟用連結。
+4. 在新裝置上，前往 `設定` → `行動服務` → `加入 eSIM` → `使用 QR 碼` 並掃描。
+5. 新啟用後，舊裝置上的 eSIM 將停止運作。
 
-**Q3: I tried the steps but my Android doesn’t have “Pair with iPhone or iPad”. What gives?**  
-A: That menu is part of Google Services and only appears on Android 16+ with Google Play Services updated. Go to `Settings > About phone > Android version`. If it’s 15 or older, upgrade your phone or use the fallback method (carrier QR code).
+**提示**：某些電信業者會收取少量費用（例如 $2–$5）來重新核發 eSIM。
 
-**Q4: Will my WhatsApp / iMessage / 2FA codes still work after transfer?**  
-A: WhatsApp uses your phone number – it will detect the SIM change and may ask to re‑verify (usually automatic). iMessage on iPhone uses the eSIM number and should reactivate within a minute. For 2FA, services that send SMS to your number will work normally – the number hasn’t changed.
+### 選項 2：透過電信業者的 App 轉移
+- **T‑Mobile（美國）**：使用 T‑Mobile App → “Manage eSIM” → “Transfer to new device”。即使沒有 iOS 26 也能跨平台運作。
+- **Verizon**：App “My Verizon” → “Activate or switch device” → 按照指示操作。適用於 Android ↔ iPhone。
+- **EE UK**：App EE → “Plan” → “eSIM transfer” – 支援跨平台轉移，但僅限月租型方案。
 
-**Q5: Can I transfer the same eSIM back and forth multiple times?**  
-A: Yes, but each transfer requires the same process. Some carriers limit transfers to 3–5 times per year to prevent abuse. If you hit the limit, they will ask you to come to a store or call support.
-
-**Q6: What about eSIM + physical SIM dual‑SIM setups?**  
-A: The transfer only moves the eSIM. The physical SIM stays in the source device. If you want to move both, you’ll need to transfer the eSIM (using this guide) and physically move the nano‑SIM card to the new device. For optimizing dual‑SIM experiences after transfer, check out our **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
-
----
-
-## 11. Final Takeaway
-
-The ability to transfer eSIMs between iPhone and Android without carrier intervention is a **2026 game‑changer**. It removes the last major friction point for switching ecosystems. As long as your carrier is on the supported list and both phones are updated, you can move your number in under a minute.
-
-**Remember**: If your carrier isn’t supported, the QR code fallback still works – it just takes a phone call. And for travel eSIMs, treat them as single‑use; buy fresh on each device.
-
-> 📎 **Related resources on this site:**
-> - [eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [iPhone 17 eSIM Complete Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
-> - [eSIM Cross‑Platform Transfer 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-> - [Dual eSIM Not Working? 12 Fixes for iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+### 選項 3：手動輸入 SM‑DP+（進階使用者）
+如果電信業者提供 **啟用碼** 和 **SM‑DP+ 位址**，您可以在新裝置上手動加入 eSIM：
+1. `設定` → `行動服務` → `加入 eSIM` → `手動輸入詳細資訊`。
+2. 貼上 SM‑DP+ 位址和啟用碼。如果未提供，確認碼欄位請留空。
+3. 點擊 `下一步`。這在 iPhone 和 Android 上都適用（在 Android 上：`設定` → `網路和網際網路` → `SIM 卡` → `加入 eSIM` → `手動輸入`）。
 
 ---
 
-*Information based on Apple iOS 26 & Android 16 official documentation, carrier testing as of April 2026. Features and carrier support are subject to change.*
+## 7. 故障排除：為什麼我的轉移失敗了？
+
+根據真實使用者案例和 Apple 內部文件，以下是最常見的失敗原因及其修復方法。
+
+| 錯誤 / 症狀 | 最可能的原因 | 修復方法 |
+|------------------|---------------------------|-------------|
+| **eSIM 無法啟用**（QR 碼無法辨識或卡在「啟用中…」） | Wi‑Fi 不穩定、QR 碼過期、電信業者伺服器問題。 | 確保網路穩定。重新啟動手機。向電信業者要求新的 QR 碼。 |
+| **eSIM 轉移錯誤**（過程中斷，「Transfer failed」） | 不支援的作業系統版本、藍牙未開啟、電信業者端故障。 | 檢查版本是否符合（iOS 26 / Android 16）。開啟藍牙。重試。如果無效，請使用第 6 節的替代方法。 |
+| 「Transfer not available – carrier not supported」 | 您的電信業者不支援跨平台轉移。 | 使用替代方法（第 6 節）。 |
+| QR 碼掃描後顯示「session expired」 | 產生 QR 碼後等待時間過長（>3 分鐘）。 | 重複流程並立即掃描。 |
+| Android 顯示「Pairing failed」 | 藍牙或本地網路權限被封鎖。 | 在 iPhone 上：`設定 > 隱私權與安全性 > 本地網路` – 確保 `設定` 的開關已開啟。在 Android 上：關閉「Wi‑Fi 掃描」（通常在 Wi‑Fi 進階設定中）。 |
+| 轉移開始但卡在 50% | Wi‑Fi 或行動訊號微弱。 | 將兩支手機靠近路由器。在兩個裝置上關閉 VPN。 |
+| **eSIM 已綁定其他裝置**（eSIM already bound） | 設定檔未從舊裝置正確釋放。 | 在舊裝置上手動刪除 eSIM（`設定 > 行動服務 > 刪除 eSIM`）。等待 10 分鐘後重試轉移。如果無效，請聯絡電信業者。 |
+| iPhone 掃描後要求 **eSIM 確認碼** | eSIM 設定檔具有強制確認碼（罕見）。 | 在電信業者的郵件中尋找該代碼（通常是 4–8 位數字）。如果找不到，請詢問電信業者。 |
+| 按兩下側邊按鈕無反應（iPhone → Android） | 未設定生物辨識驗證或已關閉。 | 設定 Face ID / Touch ID，或暫時關閉 Face ID 的「需要注視螢幕」。 |
+| **轉移後 eSIM 顯示「無訊號」** | 手機未向新電信業者網路註冊，或 APN 有問題。 | 在 eSIM 設定中開啟 **數據漫遊**。手動選擇網路：`設定 > 行動服務 > 網路選擇`。同時檢查 **eSIM APN 設定**（見下文）。 |
+| **雙重 eSIM 訊號問題**（兩張 eSIM 中有一張收不到訊號） | 網路註冊衝突、T-ADS 快取。 | 關閉有問題的 eSIM，開啟飛航模式 30 秒，然後再次開啟 eSIM。如果無效，為每條線路手動選擇電信業者。 |
+| **DFU 53 eSIM 錯誤** 在還原 iPhone 時 | 轉移失敗後遺留了損壞的 eSIM 設定檔。 | 在進行 DFU 還原之前，請在設定中刪除所有 eSIM。如果裝置已無法開機，請使用 Apple Configurator 的「忽略 eSIM 鎖定」選項（需要 iOS 26）。 |
+| **電信業者鎖定 eSIM**（Carrier Lock） | 手機被綁定到特定電信業者，不接受其他網路的 eSIM。 | 檢查：`設定 > 一般 > 關於本機` →「電信業者鎖定」。如果不是「沒有 SIM 卡限制」，請聯絡電信業者解鎖。 |
+| **eSIM 設定檔已過期**（QR 碼無效） | QR 碼有效期有限（通常 24–72 小時）。 | 向電信業者要求新的 QR 碼，並在收到後一小時內啟用 eSIM。 |
+| **eSIM APN 設定**（有訊號但沒有網路） | 缺少或不正確的存取點名稱（APN）設定。 | 在 iPhone 上：`設定 > 行動服務 > [您的 eSIM] > 行動數據網路` → 輸入電信業者郵件中的 APN（例如 `internet`、`roami.com`）。在 Android 上：`設定 > 網路和網際網路 > SIM 卡 > [eSIM] > 存取點名稱 (APN)`。儲存後重新啟動裝置。 |
+
+### 仍然無法運作？
+在聯繫支援前請收集以下資料：
+- 來源裝置的 IMEI 和 EID
+- 目標裝置的 IMEI 和 EID
+- 錯誤訊息的確切文字（請截圖）
+
+---
+
+## 8. 轉移後舊的 eSIM 會怎樣？
+
+**它會立即停用。**  
+
+舊裝置上的該線路將顯示「無訊號」。eSIM 設定檔會在舊裝置上保留 24–48 小時（作為「幽靈」記錄）。您可以手動刪除它：  
+`設定 > 行動服務 > 點擊舊 eSIM > 刪除 eSIM`。
+
+> 💰 **付款**：您的電信業者將繼續收取方案費用。轉移並不會取消方案 – 它只是移動 SIM 卡。取消方案需要另外聯絡電信業者。
+
+**如果您想同時使用兩張 eSIM**（例如，一張用於通話，另一張用於數據），請確認您的裝置支援 **兩張活躍 eSIM**（iPhone 13 及更新機型、Samsung Galaxy S21+、Google Pixel 7+）。**手機可以安裝多少 eSIM？** 通常最多 10–20 個設定檔，但同時活躍的數量為 1–2 個。
+
+---
+
+## 9. 避免轉移麻煩的最佳實踐
+
+✅ **轉移前：**
+- 檢查電信業者的支援情況（嘗試選單 – 如果有選項，則表示支援）。
+- 將兩支手機更新到最新的作業系統版本（iOS 26 / Android 16）。
+- 確保兩支手機電量至少 30%。
+- 暫時關閉 VPN 和廣告阻擋器。
+- 確認您的 **手機支援 eSIM**（存在 EID）。
+
+✅ **轉移期間：**
+- 將手機保持在相距 10 公分以內。
+- 不要切換應用程式或鎖定螢幕。
+- 不要關閉藍牙和 Wi‑Fi。
+
+✅ **轉移後：**
+- 在新裝置上測試通話和數據。
+- 從來源裝置刪除舊的 eSIM，以免混淆。
+- 在舊裝置上保持 Wi‑Fi 開啟至少一個小時 – 某些電信業者需要最終的「握手」確認。
+
+---
+
+## 10. 常見問答 – 跨平台 eSIM 轉移
+
+**Q1: 我可以轉移僅數據的 eSIM（例如旅遊 eSIM）嗎？**  
+A: 不行。大多數 **旅遊 eSIM**（Airalo、Holafly、Roami 方案等）不支援跨平台轉移。它們設計為一次性安裝在一個裝置上。您需要在新的手機上 **購買 eSIM** 新方案。Roami 為 **日本**、**韓國**、**中國**、**泰國**、**美國** 等國家提供實惠的 **旅遊 eSIM**。
+
+**Q2: 轉移功能在 iPhone 11 和 Samsung S24 之間有效嗎？**  
+A: 可以 – 只要兩者都符合作業系統版本要求。iPhone 11 支援 iOS 26（可一路更新到 iOS 26）。Samsung S24 支援 Android 16。硬體世代不重要；唯一重要的是作業系統版本。如需深入瞭解特定裝置的 eSIM 行為，請參閱我們的 **[iPhone 17 eSIM 完整指南](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**（也適用於許多舊款機型）。
+
+**Q3: 我嘗試了步驟，但我的 Android 上沒有「與 iPhone 或 iPad 配對」。怎麼了？**  
+A: 此選單是 Google 服務的一部分，僅在 Android 16+ 且 Google Play 服務更新後才會出現。請前往 `設定 > 關於手機 > Android 版本`。如果版本是 15 或更舊，請更新您的手機，或使用替代方法（電信業者 QR 碼）。
+
+**Q4: 轉移後 WhatsApp / iMessage / 雙因素驗證碼還能繼續使用嗎？**  
+A: WhatsApp 使用您的電話號碼 – 它會偵測到 SIM 卡變更並可能要求重新驗證（通常是自動的）。iPhone 上的 iMessage 使用 eSIM 的門號，應該在一分鐘內重新啟用。對於發送簡訊到您門號的 2FA 服務，它們將正常運作 – 門號沒有改變。
+
+**Q5: 我可以多次將同一個 eSIM 來回轉移嗎？**  
+A: 可以，但每次轉移都需要相同的流程。某些電信業者每年限制轉移次數為 3–5 次，以防止濫用。如果您達到限制，他們會要求您到門市或打電話給客服。
+
+**Q6: 那雙 SIM 配置（eSIM + 實體 SIM）呢？**  
+A: 轉移僅影響 eSIM。實體 SIM 仍留在來源裝置中。如果您想同時轉移兩者，您需要轉移 eSIM（使用本指南）並將 nano‑SIM 卡實際移動到新裝置。為了在轉移後優化雙 SIM 的運作，請參閱我們的指南 **[「雙重 eSIM 無法使用？12 個 iPhone 解決方案」](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**。
+
+**Q7: 手機可以安裝多少 eSIM？**  
+A: 大多數現代智慧型手機（iPhone 13 及更新機型、Samsung Galaxy S21+、Google Pixel 6+）允許儲存多達 10–20 個 eSIM 設定檔。**可以同時使用多少 eSIM**？通常為 1–2 個活躍設定檔。例如，**iPhone 17 Pro Max** 支援同時最多 2 張活躍 eSIM。
+
+**Q8: 為什麼轉移後 eSIM 會失去訊號（雙重 eSIM 問題）？如何正確設定 APN？**  
+A: **雙重 eSIM 訊號問題** 通常是由於手機無法同時向兩個網路註冊所致。解決方法：在行動服務設定中，選擇優先使用數據的線路，語音則保持自動選擇。如果其中一張 eSIM 顯示「無訊號」，請重新啟動手機或在 `網路選擇` 中手動選擇電信業者。  
+關於 **eSIM APN 設定**：如果有訊號但應用程式無法運作（或無法上網），很可能是 APN 不正確。在 iPhone 上：`設定 > 行動服務 > [您的 eSIM] > 行動數據網路` → 輸入電信業者郵件中的 APN（例如 `internet`、`roami.com`）。在 Android 上：`設定 > 網路和網際網路 > SIM 卡 > [eSIM] > 存取點名稱 (APN)`。儲存後重新啟動裝置。
+
+---
+
+## 11. 結論
+
+能夠 **在 iPhone 和 Android 之間轉移 eSIM** 而無需電信業者介入，是 **2026 年的重大突破**。它消除了更換生態系的最後一個主要障礙。只要您的電信業者在支援清單中且兩支手機都已更新，您就可以在一分鐘內移動您的門號。
+
+**請記住**：如果您的電信業者不受支援，QR 碼備用方案仍然有效 – 只是需要打一通電話。而對於 **旅遊 eSIM**，請將它們視為一次性使用；請在每個裝置上 **購買 eSIM** 新方案。Roami 為 **日本**、**韓國**、**中國**、**泰國**、**越南** 以及超過 200 個國家提供實惠的方案 – 幾秒內啟用，享受無漫遊的網路。
+
+> 📎 **本站相關資源：**
+> - [eSIM 完整故障排除指南（16 個真實案例）](/faq/esim-deep-troubleshooting-guide-2026/)
+> - [iPhone 17 eSIM 完整指南](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
+> - [2026 年跨平台 eSIM 轉移指南](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
+> - [雙重 eSIM 無法使用？12 個 iPhone 解決方案](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+> - [ESIM 運作原理](/faq/what-is-esim-activation-and-how-does-it-work/)
+> - [購買日本、韓國、泰國、越南等國的 eSIM](/plans/)
+
+---
+
+*本文資訊基於 Apple iOS 26 和 Android 16 的官方文件，以及截至 2026 年 4 月的電信業者測試。功能和電信業者支援可能會有變更。*

@@ -1,94 +1,88 @@
 ---
-title: Costa Rica eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 哥斯大黎加 eSIM 方案 | 哥斯大黎加 eSIM | Roami
+date: '2026-05-19T10:12:55+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Costa Rica eSIM
-  scenario_keywords: Beach vacation, rainforest exploration, volcano sightseeing,
-    zip-lining adventure, coffee tour
-  operators: Liberty, Claro, ICE
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: San José, Alajuela, Heredia, Cartago, Liberia
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 哥斯大黎加 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食, 自然探索
+  operators: Kölbi, Movistar, Claro
+  competitors: Airalo, Holafly, Nomad, Ubigi, AirSIM
+  main_cities: 聖荷西, 利蒙, 阿拉胡埃拉, 卡塔戈, 潘塔雷納斯
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Costa Rica eSIM | 20% OFF | Seamless 5G Travel Data | Roami
-  description: Vacationing in Costa Rica? Experience high-speed mobile internet with
-    a Roami travel eSIM. Connect instantly to always-on 5G local networks for reliable,
-    unlimited digital data during your trip.
-  keywords: Costa Rica eSIM, travel internet, no roaming charges, instant delivery,
-    QR code activation, 5G Costa Rica
-  low_price: 1.99
-  high_price: 39.9
+  title: 哥斯大黎加 eSIM | 流量吃到飽 | 5G網路自動切換 | Roami
+  description: 哥斯大黎加旅遊推薦 Roami eSIM，提供流量吃到飽與 5G 網路自動切換。現在下單並使用折扣碼 20%，享受最優質的旅遊網路。
+  keywords: 哥斯大黎加 eSIM, 哥斯大黎加旅遊, 哥斯大黎加上網, 聖荷西 eSIM, 利蒙網路
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 哥斯大黎加 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Costa Rica eSIM
+- label: 哥斯大黎加 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Costa Rica
-  title: Best eSIM for Costa Rica
+  alt: 最佳 哥斯大黎加 eSIM
+  title: 最佳 哥斯大黎加 eSIM
 hero:
   flag_image: img/flags/cr.svg
-  flag_alt: Costa Rica Flag
-  title: Costa Rica eSIM data plan
-  subtitle: Worry-free internet | Smart choice | High-speed 5G network
+  flag_alt: 哥斯大黎加 國旗
+  title: 哥斯大黎加 eSIM - 旅行計劃
+  subtitle: 哥斯大黎加 eSIM | 100%退款保證 | 支援熱點分享 | 流量吃到飽
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 哥斯大黎加 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 哥斯大黎加 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.43'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '17.99'
     oldPrice: '26.98'
     tag: ''
@@ -96,41 +90,41 @@ plans_data:
     daily: '2.57'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '23.99'
     oldPrice: '35.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.43'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '84.99'
     oldPrice: '127.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '12.14'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '38.99'
     oldPrice: '58.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '5.57'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '72.99'
     oldPrice: '109.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '10.43'
-  30 Days:
+  30 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '19.99'
     oldPrice: '29.98'
     tag: ''
@@ -138,41 +132,41 @@ plans_data:
     daily: '0.67'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '25.99'
     oldPrice: '38.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.87'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '42.99'
     oldPrice: '64.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.43'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '69.99'
     oldPrice: '104.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.33'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '18.99'
     oldPrice: '28.48'
     tag: ''
@@ -180,41 +174,41 @@ plans_data:
     daily: '1.27'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '24.99'
     oldPrice: '37.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.67'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '41.99'
     oldPrice: '62.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.80'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '78.99'
     oldPrice: '118.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '5.27'
-  3 Days:
+  3 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '38.99'
     oldPrice: '58.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '13.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '13.99'
     oldPrice: '20.98'
     tag: ''
@@ -222,557 +216,315 @@ plans_data:
     daily: '4.66'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '20.99'
     oldPrice: '31.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '7.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '34.99'
     oldPrice: '52.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '11.66'
 discount_banner:
-  title: Special Discount!
+  title: 哥斯大黎加 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 哥斯大黎加 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Costa Rica, including major
-        cities like San José, Alajuela, and Heredia. Our Costa Rica eSIM seamlessly
-        connects to the robust networks of Liberty, Claro, and ICE, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個哥斯大黎加享受廣泛的網路覆蓋，包括聖荷西、利蒙、阿拉胡埃拉和潘塔雷納斯等城市。我們的哥斯大黎加 eSIM 無縫連接到 Kölbi、Movistar
+        和 Claro 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: Liberty
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: Claro
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: ICE
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+    - name: Kölbi
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
+    - name: Movistar
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 哥斯大黎加 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Costa Rica.
+    html: 建議抵達 哥斯大黎加 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 哥斯大黎加 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 哥斯大黎加 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 哥斯大黎加 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 哥斯大黎加 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 哥斯大黎加」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Costa Rica'
-    desc: Upon arriving in Costa Rica, enable your Costa Rica eSIM in settings to
-      start using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 哥斯大黎加 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Kölbi / Movistar 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 哥斯大黎加：立即連上 5G/4G 網路
+    desc: 當您降落在 哥斯大黎加（例如 胡安·聖瑪麗亞國際機場（SJO）、丹尼爾·奧杜維爾國際機場（LIR）、托比亞斯·博拉尼奧斯國際機場（SYQ））時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 哥斯大黎加。幾秒鐘內，您的設備將自動連接到 Kölbi / Movistar
+      提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Costa Rica eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Costa Rica eSIM across different
-    travel scenarios.
+  title: 哥斯大黎加 eSIM：完整指南和常見問題
+  desc: 使用 哥斯大黎加 eSIM 在 哥斯大黎加 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 哥斯大黎加 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Costa Rica eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Costa Rica eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Costa Rica eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Costa Rica
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Costa Rica eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Costa Rica eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Costa Rica that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Costa Rica eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Costa Rica eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Costa Rica eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Costa Rica eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Costa
-        Rica, such as Liberty, Claro, ICE, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Numero, Holafly, Airalo,
-        Yesim?
-      a: While great companies like Numero, Holafly, Airalo, Yesim offer reliable
-        services, we focus on providing the most cost-effective Costa Rica eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在聖荷西市中心，使用Kölbi網路時，平均網速如何？可以觀看4K YouTube影片嗎？
+      a: 在聖荷西市中心，例如國家劇院或中央公園附近，連接到Kölbi 4G LTE網路時，平均下載速度約為30-50 Mbps，足以流暢觀看4K YouTube影片。然而，在尖峰時段（如週末下午），靠近Multiplaza
+        Escazú購物中心的地區速度可能降至10-15 Mbps，但Full HD串流仍無問題。若您需要穩定視訊通話，建議手動切換至Movistar網路，其延遲更均勻。每日使用超過3GB後，可能觸發公平使用政策，速度降至約2
+        Mbps，但仍可應付社交媒體和即時通訊。
+    - q: 從胡安·聖瑪麗亞國際機場入境後，如何立即啟動eSIM上網？需要註冊什麼資料？
+      a: 從胡安·聖瑪麗亞國際機場（SJO）入境後，您只需在飛機上或機場連接到Wi-Fi，掃描eSIM QR碼即可啟用。哥斯大黎加法規要求所有預付卡（包括eSIM）需於購買時提供護照資料進行實名登記，但我們的合作夥伴已在後台完成註冊，您無需手動輸入。啟用後，手機會自動連接到Kölbi或Movistar網路，您可在機場大廳立即使用Google地圖或叫車App。建議在出發前先安裝好eSIM設定檔，以節省時間。
+    - q: 在蒙特維德雲霧森林區，Claro網路的覆蓋與速度如何？適合導航和分享照片嗎？
+      a: 在蒙特維德雲霧森林保護區內，Claro網路在遊客中心和主要步道起點有良好的4G訊號，下載速度約15-25 Mbps，足以使用Google地圖導航和上傳高解析度照片。但在深入森林後，訊號可能減弱至3G，速度降至2-5
+        Mbps，此時傳送照片會較慢，但仍可進行基本文字通訊。建議在上山前下載離線地圖，以備不時之需。整體而言，對於一般社交分享和導航，Claro表現可靠。
+    - q: 在利蒙市區，Movistar網路在高峰時段會變慢嗎？有哪些替代方案？
+      a: 在利蒙市區（靠近中央市場或海濱大道），Movistar網路平日白天速度約20-35 Mbps，但在晚間高峰（18:00-21:00）可能降至5-10
+        Mbps，影響視訊通話品質。若遇到明顯降速，您可手動切換至Kölbi網路（支援手動選擇），其頻譜資源較多，在利蒙速度較穩定。另外，利用eSIM的熱點分享功能，可將另一裝置作為備用連線，但請注意每日高速流量限制。
+    - q: 在阿拉胡埃拉的Juan Santamaría機場附近，哪家運營商訊號最強？適合即時視訊通話嗎？
+      a: 在阿拉胡埃拉的胡安·聖瑪麗亞國際機場周邊，Kölbi的4G+網路訊號最強，下載速度可達40-60 Mbps，非常適合進行Zoom或FaceTime即時視訊通話。Claro和Movistar也能提供穩定連線，但在機場停車場或周邊道路時，Kölbi的覆蓋更均勻。若您需要長時間視訊會議，建議優先選擇Kölbi，並避免在航班抵達高峰（上午10-11點）使用，以免因基地台負載過高造成短暫延遲。
+    - q: 在卡塔戈的Ruinas遺址附近，使用eSIM時是否容易斷訊？如何排除故障？
+      a: |-
+        在卡塔戈的Ruinas de Ujarrás遺址（靠近市區）附近，Kölbi和Movistar的4G訊號穩定，通常不會斷訊，下載速度約20-35 Mbps。若遇到連線不穩，首先嘗試開啟飛航模式10秒再關閉，以重新註冊網路。若問題持續，請手動選擇網路營運商（設定>行動網路>選擇營運商），改選Claro作為備案。另外，於旅遊旺季時，遺址附近人潮眾多，基地台可能過載，建議避開週末下午使用高頻寬應用。
+    - q: 哥斯大黎加的eSIM公平使用政策具體為何？每日流量超過多少可能降速？
+      a: 哥斯大黎加的主要運營商（Kölbi、Movistar、Claro）對預付eSIM通常實施每日高速流量上限，例如3GB後速度降至2 Mbps，5GB後進一步降至128
+        Kbps。這項政策是為了確保所有用戶公平使用網路資源。具體門檻依方案而異，例如我們的「中量方案」每日高速流量為3GB，超過後仍然可以瀏覽網頁和使用即時通訊，但觀看影片或視訊通話可能出現緩衝。建議您根據行程長度選擇適當方案，並善用熱點分享給多裝置時注意流量分配。
+    - q: 在潘塔雷納斯海灘度假時，使用eSIM分享熱點給筆電工作，速度夠用嗎？
+      a: 在潘塔雷納斯（如Playa Puntarenas）的主要度假村區域，Kölbi網路提供穩定的4G連線，下載速度約25-40 Mbps，足以支援熱點分享給筆電進行檔案上傳、視訊會議等工作任務。但若您在海灘較偏遠的位置（如Montezuma海岸），訊號可能降至3G，速度約5-10
+        Mbps，此時視訊會議可能偶爾卡頓。建議在度假村內使用，並避開晚間網路尖峰時段（19:00-22:00）。若需要高效能，可考慮使用USB數據機搭配有線連接，但eSIM的便利性已足夠應付一般辦公需求。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 哥斯大黎加 機場：如何使用 哥斯大黎加 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Costa Rica eSIM before your flight. Once you land at Juan Santamaría
-        International Airport, Daniel Oduber Quirós International Airport, Tobías
-        Bolaños International Airport, simply turn off Airplane Mode and enable your
-        eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Costa Rica eSIM activated upon landing, you can immediately open
-        Uber, Didi, Moovit to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Costa Rica eSIM data allows you to open Google Maps right
-        at the baggage claim in Juan Santamaría International Airport, Daniel Oduber
-        Quirós International Airport, Tobías Bolaños International Airport to check
-        real-time train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Costa Rica eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Costa Rica eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Costa Rica eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 胡安·聖瑪麗亞國際機場（SJO）有免費Wi-Fi嗎？速度如何？
+      a: 胡安·聖瑪麗亞國際機場（SJO）提供免費Wi-Fi，速度約5-10 Mbps，足以收發訊息、瀏覽網頁和觀看低畫質影片。連線需通過網頁認證，輸入電子郵件即可使用，無時間限制。然而，在高峰期（如午間抵達時段），Wi-Fi可能變慢。建議在機場抵達後立即掃描eSIM
+        QR碼啟用行動網路，以確保穩定的連線，特別是叫車或聯繫住宿。
+    - q: 從SJO機場出發，如何利用eSIM叫車到聖荷西市區？推薦哪個叫車App？
+      a: eSIM啟用後，建議使用Uber或DiDi叫車，因為它們在機場有專屬上車區域，價格透明。從SJO到聖荷西市中心（如San José中央大道）車程約20-30分鐘，費用約10-15美元。請注意，機場計程車可能價格較高，而Uber通常在App內顯示固定價格。首次使用時，請確保App已設定好付款方式。另外，機場大廳內訊號良好，Kölbi或Movistar的4G網路能順暢載入地圖。
+    - q: 丹尼爾·奧杜維爾國際機場（LIR）的eSIM信號覆蓋如何？入境後能立即使用嗎？
+      a: 在利韋利亞的丹尼爾·奧杜維爾國際機場（LIR），Kölbi和Claro的4G訊號覆蓋良好，下載速度約20-30 Mbps，入境後掃描QR碼即可啟用。機場大廳及行李轉盤區域均能穩定連線。由於機場較小，無需擔心訊號死角。啟用後建議先測試Google地圖，規劃前往瓜納卡斯特海灘的路線。若遇到啟用問題，可求助機場旅客服務中心，但通常eSIM即開即用。
+    - q: SJO機場內有業者販售本地SIM卡嗎？eSIM比實體卡好在哪？
+      a: SJO機場內有Kölbi、Claro和Movistar的門市，販售預付實體SIM卡，需提供護照登記。eSIM的優勢在於無需插卡，到達前可事先安裝設定檔，抵達後立即啟用，節省排隊時間。此外，eSIM可保留原門號使用，方便接收簡訊或撥打電話。若您行程緊湊或有多裝置需求，eSIM的熱點分享功能也更靈活。
+    - q: 從SJO機場轉機到國內航線，eSIM在機場內使用順暢嗎？
+      a: 從SJO國際航班轉國內航班（如飛往利蒙或坦博爾），您需在國內航廈候機。該區域4G訊號穩定，Kölbi網路下載速度約30-50 Mbps，可使用串流影音或視訊通話。注意國內航廈與國際航廈間步行約5分鐘，沿途訊號不中斷。建議在候機時先下載離線地圖，因為國內航班目的小機場可能網路較弱。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 哥斯大黎加 eSIM 用於 哥斯大黎加 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Costa Rica eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Costa Rica, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Didi, Moovit use VoIP (internet calling) and in-app messaging.
-        Since you have active Costa Rica eSIM data, drivers can call or message you
-        directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Costa Rica eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Costa Rica eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in Costa Rica.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Costa Rica eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Costa Rica eSIM's data network while
-        on the train or in the car.
+    - q: 在聖荷西搭乘Uber時，eSIM的穩定性如何？會遇到GPS定位問題嗎？
+      a: 在聖荷西使用Uber時，連接到Kölbi或Movistar網路的eSIM定位精準，誤差通常在10公尺內。然而，在舊城區狹窄街道（如Avenida
+        Central）建築物密集處，GPS可能延遲幾秒。建議確保手機開啟高精度定位模式。整體而言，叫車過程順暢，接單時間約2-5分鐘。避免在晚間22:00後使用，部分地區司機較少。
+    - q: 如何從聖荷西市區搭公車到阿雷納火山？需要提前買票嗎？eSIM能否查詢時刻表？
+      a: 從聖荷西的Coca-Cola公車站（Terminal Coca-Cola）有直達拉福爾圖納（La Fortuna）的公車，車程約3.5小時，票價約5美元，上車購票即可。eSIM可讓您即時查詢Transpacaribe等公司的時刻表，建議使用Moovit
+        App規劃路線。公車班次每天約5-6班，最早6:00出發。到達拉福爾圖納後，再轉乘當地接駁至阿雷納火山國家公園入口。
+    - q: 哥斯大黎加主要城市間長途巴士的車上Wi-Fi好嗎？eSIM是否更可靠？
+      a: 長途巴士（如Tracopa或Pulmitan）部分提供車上Wi-Fi，但速度較慢（約2-5 Mbps），且訊號在山區路段可能中斷。eSIM使用行動網路，整趟旅程（如聖荷西到利蒙）約4小時車程中，沿途覆蓋率達80%，但經過山區時可能降為3G。建議下載電影或音樂至手機作為備案。整體而言，eSIM比車上Wi-Fi穩定許多。
+    - q: 在利蒙市區使用DiDi叫車，eSIM的網路延遲高嗎？
+      a: 在利蒙市區（靠近濱海區），Movistar網路的延遲約20-30毫秒，使用DiDi叫車時，App反應靈敏，從發送請求到司機接單通常不到10秒。然而，在週末傍晚，利蒙中央市場附近人潮較多，延遲可能升至50毫秒，但不影響叫車功能。建議使用DiDi時確認上車點明確，避免司機找不到位置。
+    - q: 從聖荷西機場（SJO）到曼努埃爾安東尼奧國家公園，開車自駕需多久？eSIM導航會有訊號嗎？
+      a: 自駕從SJO到曼努埃爾安東尼奧國家公園約需3小時，沿34號公路行駛。沿途大部分區域有4G訊號，Kölbi和Claro覆蓋良好，Google地圖導航流暢。但在經過Cespedes附近山區時，可能短暫無訊號（約5分鐘），建議提前下載離線地圖。抵達公園附近時，網路恢復穩定，可搜尋停車場和餐廳資訊。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 哥斯大黎加 的飯店使用 哥斯大黎加 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Costa Rica eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Costa Rica eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Four Seasons Resort Costa Rica, Andaz Costa Rica
-        Resort at Peninsula Papagayo, Tabacón Thermal Resort & Spa or a local guesthouse,
-        you can input the address into Google Maps and get turn-by-turn walking or
-        transit directions using your Costa Rica eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Costa Rica eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Costa Rica eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Uber Eats, PedidosYa, Rappi and use
-        your Costa Rica eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Costa Rica eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 聖荷西的希爾頓飯店提供免費Wi-Fi嗎？如果訊號不好，eSIM能替代嗎？
+      a: 聖荷西希爾頓飯店提供免費Wi-Fi，速度約10-20 Mbps，適合一般上網。但晚餐時段客房內可能變慢。eSIM可作為備用網路，在飯店房間內使用Kölbi的4G網路，速度約30-50
+        Mbps，觀看串流影片更順暢。建議在入住時先測試飯店Wi-Fi，若不滿意則切換至eSIM。部分飯店公共區域Wi-Fi較強，可善加利用。
+    - q: 在蒙特維德雲霧森林區的度假村，eSIM訊號強嗎？能否在房間內視訊會議？
+      a: 蒙特維德雲霧森林區的度假村（如Belmar Hotel）位於山區，房間內Kölbi訊號強度約3-4格，下載速度15-25 Mbps，足以進行單人視訊會議。但若同時多人連接，可能出現延遲。建議會議時靠近窗戶或使用飯店公共區域的Wi-Fi。相較於飯店Wi-Fi（可能因建築材料受限），eSIM提供了獨立且穩定的連線。
+    - q: 利蒙的漢普頓飯店及套房的網路評價如何？eSIM有助於提升體驗嗎？
+      a: 利蒙漢普頓飯店及套房的免費Wi-Fi在TripAdvisor上平均評分3.5/5，住客反映大廳訊號較強，但高樓層房間速度波動。eSIM透過Claro網路提供約20-30
+        Mbps的穩定速度，可輕鬆上傳照片、使用串流。建議入住時將手機連上飯店Wi-Fi的同時，保留eSIM作為備援，確保無縫上網體驗。
+    - q: 在潘塔雷納斯海灘度假村，使用eSIM分享熱點給多個裝置會超過限制嗎？
+      a: 潘塔雷納斯海灘度假村（如Fiesta Resort）區域的eSIM每日高速流量通常為3GB，若您將熱點分享給筆電、平板和兩支手機，觀看影片或視訊會議可能很快就超過限制。超過後速度降至2
+        Mbps，仍可瀏覽網頁及收發郵件。建議分配不同裝置的用途，例如僅讓筆電使用高速串流，其他裝置連飯店Wi-Fi，以節省流量。
+    - q: 卡塔戈的精品飯店有提供客房內Wi-Fi嗎？eSIM是否比飯店Wi-Fi更安全？
+      a: 卡塔戈的精品飯店（如Hotel Boutique Casa Navila）通常提供免費Wi-Fi，速度約5-10 Mbps。公共Wi-Fi存在安全風險，如個人資料被竊取。eSIM使用加密的行動網路，比開放式飯店Wi-Fi更安全，尤其適合進行網路銀行或輸入敏感資訊。建議涉及隱私的操作優先使用eSIM，一般瀏覽可用飯店Wi-Fi來節省流量。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 哥斯大黎加 旅遊景點的網路：哥斯大黎加 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Arenal Volcano, Monteverde Cloud Forest Reserve, Manuel
-        Antonio National Park spontaneously, you can use your Costa Rica eSIM data
-        to buy skip-the-line tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Costa Rica eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Costa Rica.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Costa Rica eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Costa Rica eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Costa Rica eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Costa Rica eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Costa Rica eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Costa Rica eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Costa Rica eSIM ensures you
-        can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Costa Rica eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Uber Eats, PedidosYa, Rappi, register using
-        your email or social accounts, and order food seamlessly using your Costa
-        Rica eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Sinpe
-        Móvil, BAC Credomatic, PayPal require a brief internet handshake, which your
-        Costa Rica eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Costa Rica eSIM to find hidden culinary gems in the city.
+    - q: 參觀阿雷納火山國家公園時，網路訊號如何？能否打卡分享照片？
+      a: 阿雷納火山國家公園的訪客中心和觀景台有良好的4G訊號（Kölbi或Claro），下載速度約20-30 Mbps，可即時上傳照片或打卡。但沿著主要步道深入時，部分區域訊號減弱至3G，上傳速度變慢。建議在山腳下先完成高畫質影片分享，步道中則可享受自然景觀。整體而言，公園內網路足以滿足基本社交需求。
+    - q: 在蒙特維德雲霧森林的樹冠吊橋上，eSIM收得到訊號嗎？
+      a: 蒙特維德雲霧森林的樹冠吊橋區域（例如在Sky Adventures園區），因周圍樹木遮蔽，訊號可能降至1-2格，但4G連線仍可用於傳送文字訊息，照片上傳則較慢。吊橋中央高度約50公尺，訊號反而比地面稍好。建議在吊橋起點或休息區使用網路，以獲得較佳體驗。若需即時分享，可考慮拍攝後離開吊橋再上傳。
+    - q: 曼努埃爾安東尼奧國家公園的海灘區，有4G訊號嗎？可以視訊通話嗎？
+      a: 曼努埃爾安東尼奧國家公園的主要海灘（如Espadilla Sur）訊號良好，Claro和Kölbi提供15-25 Mbps的下載速度，足以進行FaceTime或WhatsApp視訊通話。但在公園深處的雨林步道中，訊號可能中斷約10-15分鐘。建議在沙灘區域使用視訊，背景為海景效果極佳。注意旺季時大量遊客使用網路，速度可能下降至10
+        Mbps以下。
+    - q: 在聖荷西的國家博物館內，使用eSIM查閱資料順暢嗎？
+      a: 國家博物館位於聖荷西歷史建築內，牆壁較厚，但靠近窗戶和大廳區域，Kölbi的4G訊號強度約3格，下載速度25-40 Mbps，可流暢瀏覽文物說明網頁或Google地圖。部分展廳深處可能降為3G，但影響不大。建議隨身攜帶行動電源，因長時間使用eSIM查閱資料可能耗電。
+    - q: 從曼努埃爾安東尼奧的Quepos鎮出發，如何用eSIM導航到公園入口？
+      a: 從克波斯（Quepos）鎮中心的公車站，Google地圖導航到曼努埃爾安東尼奧國家公園入口約10分鐘車程。沿途Kölbi網路訊號穩定，導航語音提示即時。注意公園入口附近有幾個岔路，eSIM的GPS定位可準確指引。建議提前下載離線地圖，以防山區短暫無訊號。進入公園後，可繼續使用eSIM查詢步道資訊。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 哥斯大黎加 eSIM 在 哥斯大黎加 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Costa Rica eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Costa Rica eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Costa Rica eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Costa
-        Rica eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Costa Rica eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Costa Rica eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Costa Rica eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在聖荷西使用Instagram限時動態，eSIM的上傳速度快嗎？
+      a: 在聖荷西主要景點（如中央公園或國家劇院），連接Kölbi網路時，上傳速度約15-25 Mbps，上傳一張照片限時動態約2-3秒，影片（15秒）約5-10秒。在尖峰時段（午餐時間），速度可能降至8-12
+        Mbps，但仍可接受。建議在人多區域避免上傳高畫質影片，以免等待。
+    - q: 在利蒙的海灘酒吧打卡標記，eSIM的定位準確嗎？
+      a: 利蒙的Playa Bonita海灘酒吧區域，Kölbi的GPS定位精度在5公尺內，打卡標記通常無誤。但在酒吧內角落，訊號可能受金屬裝飾影響，定位偏移約20公尺。此時可走到露天座位區重新整理位置。eSIM的網路反應迅速，打卡分享照片約需3-5秒。
+    - q: 使用TikTok在蒙特維德上傳影片，會因為網路不穩而中斷嗎？
+      a: 在蒙特維德鎮中心（靠近咖啡館區），Claro網路提供穩定的上傳速度約10-15 Mbps，上傳1分鐘TikTok影片約需30-40秒，通常不會中斷。但在雲霧森林深處，速度降至5
+        Mbps以下，可能導致上傳失敗。建議在鎮中心完成上傳，避免在景點內使用高流量應用。
+    - q: 在卡塔戈的Ruinas遺址直播，eSIM的延遲低嗎？
+      a: 在Ruinas de Ujarrás遺址開闊區域，Movistar網路的延遲約30-40毫秒，適合進行Facebook直播。畫面穩定，音質清晰，但背景可能有輕微回音。若直播時間超過30分鐘，建議使用行動電源，並注意每日高速流量限制（如3GB後降速）。直播前可先測試速度，確保上傳頻寬足夠。
+    - q: 在潘塔雷納斯碼頭邊，使用WhatsApp傳送影片需要多久？
+      a: 潘塔雷納斯碼頭靠近遊客中心，Kölbi網路下載速度約30-50 Mbps，上傳速度約10-20 Mbps。傳送一段100MB的影片約需40-80秒。若在碼頭末端，訊號略弱，傳送時間可能加倍。建議在碼頭入口處上傳，並使用壓縮功能以節省流量。WhatsApp影片通話也順暢，但建議避免在移動中進行。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 哥斯大黎加 使用 哥斯大黎加 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Costa Rica, you can dial local emergency numbers like 911, 112, 119 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Costa Rica eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Costa Rica eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Costa Rica eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Costa Rica eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Costa Rica eSIM, use
-        your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Costa Rica eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Costa Rica eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Costa Rica eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Costa Rica eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Costa Rica eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Costa Rica eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Costa Rica eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在哥斯大黎加遇到緊急情況時，如何撥打911？eSIM是否能正常連線？
+      a: 在哥斯大黎加，即使沒有SIM卡也能撥打911緊急電話（需手機有訊號）。eSIM用戶只需確保手機開啟，在鎖定畫面即可撥號。Klobi、Movistar和Claro網路均支援緊急通話，服務免費。撥通後說明所在地點，接線人員可使用英語或西班牙語。建議事先將飯店地址或GPS座標寫下，以加速救援。
+    - q: 在偏遠地區（如蒙特維德或奧薩半島）發生意外，eSIM能否對外聯絡？
+      a: 在蒙特維德鎮中心以外或奧薩半島內部，部分區域僅有3G或無訊號。eSIM在這些地區可能無法通話，但可嘗試傳送簡訊至112（歐洲通用緊急號碼，哥斯大黎加也支援）。如果訊號極弱，走到高處或開闊處有助於改善接收。建議出發前下載離線地圖，並告知住宿業者行程。另外，可租用衛星電話作為備用。
+    - q: 車輛在34號公路拋錨時，如何用eSIM尋求道路救援？
+      a: 34號公路（Coastal Highway）大部分區域有Kölbi的4G訊號，可用手機撥打*911或聯絡道路救援服務（如Grupo Asesores
+        de Seguros，電話2519-9999）。使用eSIM時，請確保提供精確位置（可用Google地圖分享定位）。若在公路偏遠段（如Palmar
+        Sur附近）訊號較弱，嘗試往高處移動幾公尺。建議隨身攜帶救援電話清單。
+    - q: 在聖荷西夜晚遇到犯罪時，eSIM能否快速聯繫飯店或警方？
+      a: 在聖荷西市區（如Calle Blancos地區），eSIM網路穩定，可迅速撥打911或聯絡飯店櫃檯。建議事先儲存飯店電話號碼，並開啟手機的緊急定位功能。若您感到危險，保持冷靜，撥打911後告知「Ayuda,
+        necesito la policía」，接線員可轉接中文翻譯服務。eSIM的低延遲特性有助於即時通話，確保安全。
+    - q: 在利蒙海邊戲水時，eSIM手機進水了該怎麼辦？
+      a: 若手機進水，首先立即關機，取出eSIM卡（雖然是eSIM，但手機仍需處理）。用乾布擦乾，放入米袋或乾燥劑中24小時。復機後插入實體SIM卡測試，但eSIM設定檔通常存於手機記憶體，只要手機未損壞即可重新下載。建議購買防水手機殼，並將緊急聯絡號碼寫在防水紙條上，以備不時之需。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 哥斯大黎加 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Costa-Rica eSIM vs SIM Card Plans: Which One Fits Your Needs?"
-  subtitle: "Costa Rica Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Costa-Rica) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Costa-Rica"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Costa-Rica eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "SIM cards cost 1,000-2,500 colones at official stores; Liberty requires foreign passport holders to activate via SMS or call 1693, and its app is only available on Costa Rica's App Store."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Liberty's app download block (Costa Rica App Store only) and avoid Sutel registration delays. Roami eSIM activates in 1 minute after purchase, no physical store visit needed."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Since 2014, SIM cards must be registered with national regulator Sutel, requiring a photo ID or passport; if the store fails to register, users must complete the process on a Spanish-only website, with activation possibly taking hours."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike kölbi, Liberty, and Claro which require Sutel registration with passport and Spanish website, Roami eSIM needs no ID verification. Activation is instant and hassle-free."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Liberty offers a daily $5 roaming package for the US, but excess data costs $1/MB; other operators have no specific roaming data for non-Central American countries."
-      esim_title: "Global Roaming Without Hidden Fees"
-      esim_desc: "Avoid Liberty's $1/MB excess roaming charge in the US. Roami eSIM offers transparent multi-country plans with no surprise bills, covering Costa Rica and neighboring regions."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "kölbi's longest plan is 30 days/2GB for 4,000 colones; Claro's data-only plan is 30 days/10GB for 17,500 colones; a 5-day trip buying Claro's 30-day plan wastes about 12,016 colones (70% of cost)."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike kölbi's 30-day/2GB plan (4,000 colones) or Claro's 30-day/10GB plan (17,500 colones), Roami offers 7-day plans starting from $1.99/GB, saving up to 70% waste on a 5-day trip."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. However, based on common practice, tethering is generally allowed but may be restricted on some plans; for example, Claro's data-only SIMs are limited to 2Mbps on 3G."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "While Claro's data-only SIMs are throttled to 2Mbps on 3G, Roami eSIM allows full-speed hotspot sharing with no speed caps or restrictions."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up is done via physical vouchers at kiosks (minimum 1,000 colones) or online; foreign credit cards often face rejection; no specific payment methods mentioned."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local kiosk vouchers or dealing with foreign card rejections common with local SIM top-ups."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is primarily in Spanish; Liberty requires calling 1693 for activation; online support is limited; no 24/7 English support."
-      esim_title: "24/7 English Support"
-      esim_desc: "Unlike Liberty's Spanish-only phone support (call 1693) and limited hours, Roami offers 24/7 live chat and email support in English, ready to assist anytime."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Costa-Rica eSIM vs Physical SIM Card: Activation and Setup Compared"
-    cards:
-      - icon: "clock"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Instant Activation, No Queues"
-        desc: "<b>Liberty</b> requires app download from Costa Rica App Store (impossible before arrival) and manual activation via SMS. Roami eSIM activates in <b>1 minute</b> after purchase, no store visit."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate 30-Day Plan Waste"
-        desc: "<b>kölbi</b>'s largest plan is 30 days/2GB (4,000 colones); <b>Claro</b>'s data SIM is 30 days/10GB (17,500 colones). A 7-day trip wastes ~70% of cost. Roami offers 7-day plans from <b>$1.99/GB</b>, paying only for what you use."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Costa Rica's Strict SIM Registration"
-        desc: "Since 2014, all local SIMs require Sutel registration with passport and a Spanish-only website. <b>kölbi</b>, <b>Liberty</b>, and <b>Claro</b> all enforce this. Roami eSIM needs no ID, activating instantly."
-      - icon: "shield"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "No Auto-Renewal Traps"
-        desc: "<b>kölbi</b>, <b>Liberty</b>, and <b>Claro</b> all auto-renew plans, requiring Spanish SMS to cancel (e.g., 'BAJAPREPLAN' to 606). Roami eSIM has no auto-renewal, giving you full control."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

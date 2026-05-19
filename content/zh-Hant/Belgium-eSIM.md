@@ -1,126 +1,120 @@
 ---
-title: Belgium eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 比利時 eSIM 方案 | 比利時 eSIM | Roami
+date: '2026-05-19T10:03:25+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Belgium eSIM
-  scenario_keywords: Brussels sightseeing, train travel across Belgium, Antwerp shopping,
-    Bruges day trip, Ghent exploration
-  operators: Proximus, Orange Belgium, Telenet
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Brussels, Antwerp, Ghent, Charleroi, Liège
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 比利時 eSIM
+  scenario_keywords: 城市漫步、古蹟參觀、購物、美食、啤酒品嚐
+  operators: Proximus, Orange, Telenet
+  competitors: Airalo, Holafly, Nomad, UPeSIM, RedTea Mobile
+  main_cities: 布魯塞爾, 安特衛普, 根特, 布魯日, 列日
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Belgium eSIM Plan | Top Local Carrier Fast 5G | Unlimited Data | Roami
-  description: Need internet in Belgium? Enjoy Top Local Carrier Stable 5G and High-Speed
-    Data with Roami. With Auto Network Switch and 24/7 Support, it's perfect for Light
-    Travel.
-  keywords: Belgium eSIM, cheap Belgium eSIM, Proximus eSIM, Orange Belgium eSIM,
-    travel internet Belgium, eSIM with instant delivery
-  low_price: 1.99
-  high_price: 39.9
+  title: 比利時 eSIM | 流量吃到飽 | 5G網路自動切換 | Roami
+  description: 比利時旅遊推薦 Roami eSIM，享受流量吃到飽服務。強大的 5G 網路自動切換功能讓您暢行無阻，別忘使用折扣碼 20% 享有優惠。
+  keywords: 比利時 eSIM, 比利時網路覆蓋, 比利時行動網路, 比利時旅遊, 比利時景點, 比利時美食
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 比利時 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Belgium eSIM
+- label: 比利時 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Belgium
-  title: Best eSIM for Belgium
+  alt: 最佳 比利時 eSIM
+  title: 最佳 比利時 eSIM
 hero:
   flag_image: img/flags/be.svg
-  flag_alt: Belgium Flag
-  title: Belgium eSIM data plan
-  subtitle: No ID required | Travel essential | Smart choice
+  flag_alt: 比利時 國旗
+  title: 比利時 eSIM - 旅行計劃
+  subtitle: 比利時 eSIM | 流量吃到飽 | 即時交付 | 無需身份證件
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 比利時 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 比利時 eSIM
 plans_data:
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 100GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.83'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '18.99'
     oldPrice: '28.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.63'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -128,49 +122,49 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.27'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.43'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '71.99'
     oldPrice: '107.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.40'
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -178,57 +172,57 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.43'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '20.99'
     oldPrice: '31.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '18.99'
     oldPrice: '28.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.71'
-  15 Days:
+  15 天:
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.93'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.47'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -236,41 +230,41 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.47'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.73'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '38.99'
     oldPrice: '58.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.60'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -278,561 +272,345 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '4.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '8.99'
     oldPrice: '13.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.00'
 discount_banner:
-  title: Special Discount!
+  title: 比利時 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 比利時 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Belgium, including major cities
-        like Brussels, Antwerp, Ghent, and Bruges. Our Belgium eSIM seamlessly connects
-        to the robust networks of Proximus, Orange Belgium, and Telenet, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個比利時享受廣泛的網路覆蓋，包括布魯塞爾、安特衛普、根特、布魯日等城市。我們的比利時 eSIM 無縫連接到 Proximus、Orange
+        和 Telenet 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Proximus
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: Orange Belgium
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Telenet
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
+    - name: Orange
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 比利時 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Belgium.
+    html: 建議抵達 比利時 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 比利時 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 比利時 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 比利時 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 比利時 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 比利時」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Belgium'
-    desc: Upon arriving in Belgium, enable your Belgium eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 比利時 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Proximus / Orange 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 比利時：立即連上 5G/4G 網路
+    desc: 當您降落在 比利時（例如 布魯塞爾機場 (BRU)、布魯塞爾沙勒羅瓦機場 (CRL)、安特衛普國際機場 (ANR)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 比利時。幾秒鐘內，您的設備將自動連接到 Proximus / Orange
+      提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Belgium eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Belgium eSIM across different
-    travel scenarios.
+  title: 比利時 eSIM：完整指南和常見問題
+  desc: 使用 比利時 eSIM 在 比利時 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 比利時 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Belgium eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Belgium eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Belgium eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Belgium
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Belgium eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Belgium eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Belgium that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Belgium eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Belgium eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Belgium eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Belgium eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Belgium,
-        such as Proximus, Orange Belgium, Telenet, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, DENT, Holafly,
-        Eskimo?
-      a: While great companies like Airalo, DENT, Holafly, Eskimo offer reliable services,
-        we focus on providing the most cost-effective Belgium eSIM, ensuring lower
-        latency and better prices with our automatic price-matching system.
+    - q: 在布魯塞爾市中心使用 eSIM 時，連接到 Proximus 網路的表現如何？
+      a: 在布魯塞爾市中心，如大廣場或路易斯大道，連接到 Proximus 網路時通常提供穩定的 4G/5G 訊號，平均下載速度約 30-50 Mbps，足以流暢觀看串流影片。然而，在尖峰時段如週末傍晚，靠近購物區或地鐵站時可能速度下降至
+        10 Mbps，但瀏覽社交媒體或使用地圖仍很順暢。若在日常流量使用超過 2GB 後，可能會觸發公平使用政策，速度會調整至約 2 Mbps，但對於通訊軟體和導航仍足夠。
+    - q: 在安特衛普中央車站附近，Orange 網路的覆蓋與速度如何？
+      a: 安特衛普中央車站一帶屬於 Orange 網路的強覆蓋區，車站內部及周邊鑽石區的 4G 訊號滿格，下載速度通常可達 40 Mbps。不過，在車站地下層或某些老舊建築內（如鄰近的動物園區域），訊號可能偶爾降至
+        3G，但依然能順利使用地圖或即時訊息。由於車站人流密集，尖峰時段網路可能稍微擁擠，但一般使用不受影響。建議在搭乘火車前，先下載離線地圖以備不時之需。
+    - q: 在布魯日歷史中心，使用 eSIM 上傳照片到社交媒體會很慢嗎？
+      a: 布魯日歷史中心，尤其是馬克特廣場和運河區，普遍有良好的 Proximus 或 Orange 覆蓋，上傳速度約在 10-20 Mbps，上傳幾張高解析度照片約需
+        10-20 秒。但在節假日或旅遊旺季（如復活節假期），廣場上遊客眾多時，上傳速度可能降至 5 Mbps 左右，不過仍可應付。為了更穩定，可稍微遠離人群，例如在貝居安會院附近，那裡的網路負載較輕。
+    - q: 在使用 eSIM 時，我可以在比利時各城市之間移動時自動切換運營商嗎？
+      a: 是的，您的 eSIM 設定為自動選取最佳可用網絡，通常會優先連接 Proximus，因為其全國覆蓋最廣。但在切換城市時，例如從布魯塞爾到根特，手機可能會短暫搜尋訊號，不過幾秒內即可重新連線。如果在某些郊區（如那慕爾附近）遇到訊號微弱，手動選擇
+        Orange 或 Telenet 可能改善連線品質，但一般情況下自動模式已足夠。建議在移動前確保數據漫遊開啟，並注意切換時可能引發的短暫中斷。
+    - q: 在比利時使用 eSIM 觀看 YouTube 或 Netflix，是否需要擔心流量限制？
+      a: 比利時 eSIM 方案通常提供每日一定流量（例如 1GB/天），超出後速度降至 2 Mbps，但仍可觀看 480p 的串流影片。在布魯塞爾或安特衛普的飯店內，若使用
+        WiFi 則不受限制。若預計大量使用串流媒體，建議選擇高流量方案，或利用飯店、咖啡廳的免費 WiFi 作為補充。流量降速後，視訊通話可能較模糊，但聽音樂或導航依然順暢。
+    - q: 在根特市的旅遊景點使用 eSIM 進行視訊通話是否穩定？
+      a: 根特市的聖巴夫主教座堂和伯爵城堡等景點，Orange 和 Proximus 的 4G 覆蓋良好，進行視訊通話（如 WhatsApp）通常穩定，延遲低於
+        50ms。但在格拉文斯坦城堡內部（石牆較厚）或運河遊船時，訊號可能減弱至 3G，導致畫面偶爾停頓。建議在通話前移動到開放區域，如聖米歇爾橋附近，以獲得更佳連線。使用藍牙耳機也有助於避免因手持姿勢影響訊號。
+    - q: 在比利時註冊 eSIM 是否需要提供當地身份證件？
+      a: 不需要，購買比利時 eSIM 通常只需提供電子郵件並選擇方案，無須上傳護照或身份證件。這與某些要求實名制的國家不同，比利時對短期旅遊 eSIM 較為寬鬆。但請確保使用有效的電子郵件接收
+        QR code 和安裝指南。若遇到需要驗證的情況（極少數），可聯繫客服提供護照掃描，但一般情況下可直接啟用。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 比利時 機場：如何使用 比利時 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Belgium eSIM before your flight. Once you land at Brussels Airport,
-        Brussels South Charleroi Airport, Antwerp International Airport, simply turn
-        off Airplane Mode and enable your eSIM line. It will connect to the local
-        4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Belgium eSIM activated upon landing, you can immediately open SNCB/NMBS,
-        De Lijn, Uber to book a ride or use WhatsApp to message your pre-booked driver
-        without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Belgium eSIM data allows you to open Google Maps right at
-        the baggage claim in Brussels Airport, Brussels South Charleroi Airport, Antwerp
-        International Airport to check real-time train schedules, bus routes, or walking
-        directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Belgium eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Belgium eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Belgium eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 在布魯塞爾機場抵達後，如何快速安裝 eSIM 並連上網路？
+      a: 布魯塞爾機場 (BRU) 提供免費 WiFi，您可在行李提領區或抵達大廳先連接 WiFi，接著掃描電子郵件中的 QR code 安裝 eSIM 設定檔。安裝完成後，啟用數據漫遊，手機即會自動連上
+        Proximus 或 Orange 網路，整個過程約需 2-3 分鐘。若遇到問題，機場內有行動通訊商店（如 Proximus 門市），可請求協助。建議在出發前先將
+        QR code 截圖，以備機場無網路時使用。
+    - q: 布魯塞爾沙勒羅瓦機場 (CRL) 的網路覆蓋如何？eSIM 在那裡能正常使用嗎？
+      a: 沙勒羅瓦機場規模較小，但 Orange 和 Proximus 的 4G 訊號在航廈內涵蓋良好，eSIM 可正常連接。然而，由於機場位於郊區，尖峰時段（如週一清晨）連線速度可能略低於市區，約
+        20-30 Mbps。若您轉乘 Flibco 巴士前往布魯塞爾，途中經過鄉村區域時，網路仍保持穩定，不會中斷。建議下載離線地圖作為備案，但實際使用體驗順暢。
+    - q: 在布魯塞爾機場轉機時，eSIM 能否快速自動連接到當地網路？
+      a: 可以，eSIM 在飛機落地後會自動搜尋並連線，通常 1-2 分鐘內即可註冊到 Proximus 網路。轉機等待區（如 B 區）的 4G 訊號強勁，您可即時查詢航班資訊。不過，某些機場角落（如靠近免稅店後方）可能因建築結構而有短暫訊號衰減，但移動幾步即可恢復。若轉機時間短暫，建議提前關閉數據以節省流量。
+    - q: 從安特衛普國際機場 (ANR) 出發前，如何確保 eSIM 可正常使用？
+      a: 安特衛普國際機場主要服務商務旅客，網路覆蓋可靠，但規模較小。建議在出發前於機場內測試連線，可連接免費 WiFi 後確認 eSIM 狀態。若無法自動註冊，可手動選擇
+        Orange 網路，通常能解決。機場距離市中心僅 15 分鐘車程，出發時連線穩定，但若您搭乘早班機，凌晨時段網路頻寬可能較低，但仍可應付基本通訊。
+    - q: 在比利時機場遺失手機或 eSIM 無法使用時，該怎麼辦？
+      a: 若手機遺失，請立即聯繫機場失物招領處（布魯塞爾機場 +32 2 753 41 11），並變更電子郵件密碼以防個資外洩。若 eSIM 無法啟用，可前往機場的電信商店（Proximus
+        在 BRU 抵達大廳有服務櫃檯）尋求協助，或透過電子郵件聯繫 eSIM 供應商客服獲取新的 QR code。建議您提前備份 eSIM 設定檔截圖，並將備用方案（如實體
+        SIM 卡）放在隨身行李中，以備不時之需。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 比利時 eSIM 用於 比利時 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Belgium eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Belgium, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like SNCB/NMBS, De Lijn, Uber use VoIP (internet calling) and in-app
-        messaging. Since you have active Belgium eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Belgium eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Belgium eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Belgium.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Belgium eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Belgium eSIM's data network while on
-        the train or in the car.
+    - q: 搭乘比利時國鐵 (SNCB) 時，車廂內的 4G/5G 網路覆蓋情況如何？
+      a: SNCB 列車在主要路線（如布魯塞爾至安特衛普）上，車廂內普遍有 4G 訊號，連線到 Proximus 時速度約 20-40 Mbps。但通過隧道（如布魯塞爾中央車站附近）或偏遠鄉村路段（如阿登地區）時，訊號可能中斷或降至
+        3G，但恢復迅速。建議提前下載音樂或影片，在行經訊號較弱區域時切換到離線模式。此外，列車上的充電插座數量有限，可自備行動電源。
+    - q: 在布魯塞爾地鐵中，eSIM 的連線品質如何？
+      a: 布魯塞爾地鐵（如 1 號線與 5 號線）的車站內（如 Rogier、Arts-Loi）通常有 4G 覆蓋，但行車隧道中訊號較弱，尤其較舊的段落（如
+        2 號線部分區間）可能無服務。不過，地鐵停留時間短暫，進站後即可恢復連線。建議在乘車前先使用離線地圖規劃路線，並避免即時串流。地鐵站的免費 WiFi
+        則較不普遍，主要依賴行動網路。
+    - q: 使用 De Lijn 公車在根特市內移動時，網路是否穩定？
+      a: 根特市的 De Lijn 公車在主要路線（如 1 路電車）上，4G 訊號保持穩定，連線到 Orange 時可順暢使用地圖和即時通訊。但在經過聖彼得廣場附近的隧道或密集建築區時，可能有短暫降速，但基本服務不受影響。公車上無免費
+        WiFi，因此 eSIM 是主要連線方式。建議避開尖峰通勤時段（8:00-9:00、17:00-18:00），以避免擁擠網路影響速度。
+    - q: 從布魯塞爾搭乘 FlixBus 前往布魯日時，車上網路體驗如何？
+      a: FlixBus 本身提供車內 WiFi，但連線不穩定，eSIM 是更可靠的選擇。行駛 E40 高速公路時，Proximus 網路覆蓋良好，速度約
+        30-50 Mbps，可流暢觀看影片。但接近布魯日郊區時，部分路段（如經過 Sint-Michiels）可能因樹木遮蔽而降速，但回到市區後恢復快速。此外，長途巴士設有
+        USB 充電孔，但數量有限，建議自備行動電源以維持手機電量。
+    - q: 在比利時使用 Uber 或計程車時，eSIM 的導航功能可靠嗎？
+      a: Uber 與當地計程車普遍使用 Google Maps 或 Waze 導航，eSIM 提供的 4G 網路足以支援即時路況更新。在布魯塞爾街道（如環城公路）上，導航反應靈敏，路線重新計算快速。不過，在歷史街區（如布魯日中心）的狹窄石板路上，GPS
+        訊號可能偶爾偏移，但導航軟體會自動校正。建議使用 Uber 時提前確認上車點，因某些單行道可能導致司機無法停靠。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 比利時 的飯店使用 比利時 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Belgium eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Belgium eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Hotel Amigo, Sofitel Brussels Europe, The Hotel
-        Brussels or a local guesthouse, you can input the address into Google Maps
-        and get turn-by-turn walking or transit directions using your Belgium eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Belgium eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Belgium eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Deliveroo, Uber Eats, Takeaway.com and
-        use your Belgium eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Belgium eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 布魯塞爾希爾頓飯店的房間內，使用 eSIM 是否比飯店 WiFi 更快？
+      a: 布魯塞爾希爾頓飯店（位於路易斯大道）提供免費 WiFi，速度約 10-20 Mbps，但尖峰時段可能變慢。eSIM 連線到 Proximus 網路則通常穩定在
+        30-50 Mbps，尤其適合視訊會議或上傳大檔案。注意飯店 WiFi 可能需要額外登入步驟，而 eSIM 則一啟用即可使用。若入住高樓層房間，行動訊號可能略弱，但連接
+        WiFi 互補即可。
+    - q: 在布魯日公爵宮飯店，eSIM 的室內收訊如何？
+      a: 布魯日公爵宮飯店位於歷史建築內，部分房間（尤其是內部中庭的房間）的石牆可能阻擋訊號，導致 4G 降至 3G，但連線依然可用。大廳和餐廳區則訊號強勁。飯店提供免費
+        WiFi，但速度普通（約 15 Mbps）。建議在訂房時選擇面向街道的房型，並於入住時測試 eSIM 訊號，若不理想則轉用 WiFi。
+    - q: 安特衛普林德納飯店是否提供免費 WiFi？與 eSIM 相比何者較佳？
+      a: 安特衛普林德納飯店（位於市中心）提供免費 WiFi，覆蓋全館，速度約 20-30 Mbps，足以滿足一般需求。eSIM 在該區域連線到 Orange
+        網路則可達 40 Mbps，且無需登入頁面，更為便捷。若您需要同時連接多個設備（如筆電、平板），WiFi 更省流量；但對於注重隱私或穩定性的旅客，eSIM
+        是良好備案。建議兩者並用，根據場景切換。
+    - q: 在布魯塞爾的民宿中使用 eSIM，會不會有網路不穩定的情況？
+      a: 布魯塞爾市區的民宿通常位於老建築內，若房間在較深處或地下室，行動訊號可能衰弱，但一樓區域通常正常。民宿提供的 WiFi 品質參差不齊，有些可能僅提供
+        5 Mbps。在這種情況下，eSIM 可作為主要網路來源，且不受其他房客分享影響。建議入住時先測試 eSIM 在各區域的強度，必要時可移動到窗邊使用。
+    - q: 飯店內使用 eSIM 時，需要關閉 WiFi 以避免干擾嗎？
+      a: 不需要，現代手機支援同時開啟 WiFi 和行動數據，通常會優先選擇 WiFi。若您希望強制使用 eSIM 數據，可關閉 WiFi；或者將 WiFi
+        視為備用方案。在飯店訊號弱時，開啟 WiFi 並啟用「智慧型切換」功能，有助於保持連線。建議在偏好設定中選擇「較穩定連線」，以自動切換至較佳網路。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 比利時 旅遊景點的網路：比利時 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Atomium, Grand Place, Manneken Pis spontaneously,
-        you can use your Belgium eSIM data to buy skip-the-line tickets online and
-        present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Belgium eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Belgium.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Belgium eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Belgium eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Belgium eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Belgium eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Belgium eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Belgium eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Belgium eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Belgium eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Deliveroo, Uber Eats, Takeaway.com, register
-        using your email or social accounts, and order food seamlessly using your
-        Belgium eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Bancontact,
-        Payconiq, Mastercard require a brief internet handshake, which your Belgium
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Belgium eSIM to find hidden culinary gems in the city.
+    - q: 在布魯塞爾大廣場使用 eSIM 拍照打卡，上傳速度如何？
+      a: 布魯塞爾大廣場是熱門景點，Orange 和 Proximus 的 4G 訊號覆蓋良好，上傳照片到 Instagram 只需幾秒，速度約 15-25
+        Mbps。但在週末或節慶時，遊客眾多可能導致網路擁擠，上傳延遲至 30 秒內。建議避開中午人潮，選擇早晨或傍晚前往，不僅網路更快，光線也更適合拍照。此外，廣場周邊的餐廳提供免費
+        WiFi，可作為補充。
+    - q: 參觀根特伯爵城堡時，eSIM 能否支援使用擴增實境導覽？
+      a: 伯爵城堡內提供 AR 導覽應用程式，需穩定網路下載內容。在城堡的大部分區域，尤其露天平台，連線到 Proximus 時速度約 20-30 Mbps，足以支援
+        AR 功能。但在城堡內部石室或螺旋樓梯處，訊號可能減弱至 3G，導致 AR 載入較慢。建議先在城堡入口處（訊號強）下載整個導覽內容，之後採離線使用，可避免中斷。
+    - q: 在布魯日運河遊船時，使用 eSIM 直播是否可行？
+      a: 布魯日運河遊船途經歷史橋樑與建築，多數區域有 4G 訊號（主要來自 Orange），可進行短暫直播，但船行經較窄運河或橋下時，訊號可能暫時中斷。為確保直播流暢，建議站在船頭或船尾等開放位置，並降低直播畫質至
+        720p。若想長時間直播，可考慮分次進行，或選擇在碼頭（如玫瑰碼頭）先測試訊號。
+    - q: 在布魯塞爾原子球塔附近使用 eSIM 觀看影片，體驗如何？
+      a: 原子球塔所在的 Heysel 公園區域，Proximus 網路覆蓋良好，速度約 30-50 Mbps，觀看 1080p 影片無緩衝。但塔內參觀時，由於金屬結構可能屏蔽部分訊號，尤其在高層觀景台，但離窗邊近處仍有訊號。建議在園區戶外區域保持高畫質串流，進入塔內前可先下載影片。公園內也有免費
+        WiFi 熱點（如 Brussels Expo 區域），可作為備用。
+    - q: 在安特衛普中央車站建築內拍照，上傳社群平台順暢嗎？
+      a: 安特衛普中央車站建築本身是熱門打卡點，車站大廳和月台層的 4G 訊號強勁（連線到 Orange），上傳照片約 5-10 秒即可完成。不過，地下層（如通往隧道商店處）訊號略弱，建議在大廳或車站前廣場進行上傳。車站提供免費
+        WiFi（連線需簡短註冊），但速度僅約 10 Mbps，因此使用 eSIM 更有效率。尖峰時段需快門捕捉人潮稍空時機。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 比利時 eSIM 在 比利時 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Belgium eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Belgium eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Belgium eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Belgium
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Belgium eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Belgium eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Belgium eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在布魯塞爾的咖啡館使用 eSIM 連接社交軟體，需要另外連 WiFi 嗎？
+      a: 布魯塞爾許多咖啡館提供免費 WiFi，但部分需消費密碼或限制時間。eSIM 則讓您隨時隨地使用 Instagram、Facebook 等應用，無需尋求密碼。在城市中心的咖啡館（如薩布隆區），eSIM
+        訊號穩定，貼文與限時動態上傳迅速。若您長時間待在同一咖啡館，使用 WiFi 可節省流量，但 eSIM 提供了免打擾的便利。
+    - q: 在布魯日市場使用 eSIM 打卡時，網速能否支援上傳影片？
+      a: 布魯日市場（Markt）在平日遊客較少時，連線 Proximus 網路可達 20-30 Mbps，上傳 30 秒影片約需 20 秒。但週末人潮眾多時，速度可能降至
+        5-10 Mbps，但仍可完成上傳。建議在市場角落（如鐘樓後方）進行操作，避開主要人潮。如果想分享即時動態，可先將影片壓縮至較低解析度以加快上傳。
+    - q: 在安特衛普的流行餐廳打卡，eSIM 能否穩定使用社交媒體？
+      a: 安特衛普的熱門餐廳（如 The Jane）通常有良好的行動網路覆蓋，eSIM 連線 Orange 網路時，瀏覽貼文與上傳動態順暢。但用餐尖峰時間（12:00-13:00、19:00-20:00），餐廳內許多顧客同時上網，可能導致略慢，但仍可接受。部分高級餐廳位於老建築內，訊號可能因牆壁略受影響，此時可請服務人員提供
+        WiFi 密碼。
+    - q: 使用 eSIM 時，能否同時開啟社交媒體通知與即時通訊？
+      a: 當然可以，eSIM 支援多工同時進行，例如同時接收 WhatsApp 訊息和 Facebook 通知，不會互相影響。在比利時使用時，即便在背景運作應用程式，電信網路（Proximus
+        或 Orange）也能維持低延遲連線。唯一需要注意的是，若大量應用同時同步（如照片備份），可能短期內消耗較多流量，但一般社交使用無虞。
+    - q: 在前往布魯日的火車上，如何使用 eSIM 更新社群動態？
+      a: 從布魯塞爾到布魯日的火車上，多數路段有 4G 訊號，可穩定上傳照片或發布貼文。但在經過 Sint-Niklaas 郊區時，網路可能短暫中斷，但恢復迅速。建議在火車進入郊區前先編輯好內容，待訊號恢復後一鍵發布。火車上無
+        WiFi，因此 eSIM 是主要連線方式，長途旅行也可搭配離線備份。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 比利時 使用 比利時 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Belgium, you can dial local emergency numbers like 112, 101 (police),
-        100 (fire/ambulance) directly from your phone's dialer regardless of your
-        active SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Belgium eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Belgium eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Belgium eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Belgium eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Belgium eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Belgium eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Belgium eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Belgium eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Belgium eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Belgium eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Belgium eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Belgium eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在比利時旅遊時，若遇緊急狀況，如何用 eSIM 撥打求救電話？
+      a: 在比利時，無論使用哪家電信網路，均可直接撥打 112（通用緊急號碼）免費求助，且即使無 SIM 卡或餘額，112 仍可接通。請確保手機有電並在撥打前向接線員說明所在地點。eSIM
+        不影響此功能，只需手機能註冊到任何網路（包括漫遊）。建議將 112 設定為緊急聯絡人，並預先學習簡單法語或荷語單字（如「aide」、「hulp」）以便溝通。
+    - q: 在布魯塞爾市中心遺失錢包，該如何利用 eSIM 報案與處理？
+      a: 立即撥打 101 聯繫當地警察局，並前往最近的分局（如布魯塞爾中央警局，位於大廣場附近）報案取得報案證明。使用 eSIM 可上網查詢補辦旅行文件流程（如至台灣駐歐盟代表處，位於布魯塞爾）。同時，利用手機銀行
+        App 凍結信用卡，並通知飯店前台。建議事先備份重要證件掃描檔於雲端，以便透過 eSIM 即時下載。
+    - q: 在根特旅途中若 eSIM 無法連線，而需要緊急聯絡住宿該怎麼辦？
+      a: 首先嘗試重新啟動手機，或手動選擇網路運營商（如 Proximus）。若仍無法連線，可尋找附近的免費 WiFi 熱點，如圖書館（根特市圖書館提供免費
+        WiFi）或咖啡廳。您也可前往電信商店（如根特市中心的 Orange 門市）求助。建議出發前下載離線地圖並保存住宿地址與電話，以備無網路時使用。
+    - q: 若在布魯日發生醫療緊急情況，eSIM 能否協助聯繫醫院？
+      a: 撥打 100 即可聯繫救護車，並由調度中心指引至最近醫院。布魯日的主要醫院是 AZ Sint-Jan，地址在 Ruddershove 10。使用
+        eSIM 可即時查詢醫院位置和路線，但救護車調度不需網路。若需翻譯，可利用手機翻譯 App 與醫護溝通。建議隨身攜帶健保卡和旅遊保險資訊，以利緊急就醫。
+    - q: 在比利時遇到恐怖攻擊或大型災難時，eSIM 的網路會癱瘓嗎？
+      a: 在緊急情況下，電信網路可能因超載或政府管控而變得緩慢，但 eSIM 仍可能透過漫遊連線其他網路（如 Orange 與 Proximus 互相備援）。2016
+        年布魯塞爾爆炸案後，語音通話曾優先保留，數據速度下降但未完全中斷。建議平時將重要聯絡人設為離線可存取，並在事故發生時以簡訊代替數據傳輸，因簡訊承載量較低更易送達。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 比利時 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Belgium eSIM vs Prepaid SIM: Cost and Convenience Compared"
-  subtitle: "Belgium Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Belgium) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Belgium"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Belgium eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Orange and Proximus require in-store passport registration; Proximus activation can take up to 5 days."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Orange and Proximus store queues and passport checks. Activate your eSIM online within 1 minute after landing in Brussels."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Orange requires passport registration at its stores; Proximus SIM activation may take up to 5 days due to KYC."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid Proximus's up-to-5-day KYC delay. Roami eSIM requires no ID verification, ready to use immediately."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Base charges €3/MB in Switzerland; Lyca EU roaming data is capped (e.g., 30GB plan only 27.55GB roaming)."
-      esim_title: "Global Roaming Included"
-      esim_desc: "Unlike Base's €3/MB in Switzerland, Roami offers affordable multi-country plans covering Belgium, Netherlands, and France at a flat rate."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Orange and Proximus plans have a 31-day validity; Base plans are 30 days. A 3-day trip wastes over 90% of the plan."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Unlike Orange's 31-day €10/1GB plan (90% waste for a 3-day trip), Roami offers 7-day plans starting from $1.99/GB, saving over 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Lyca Mobile explicitly prohibits and blocks tethering; Base may restrict hotspot on some MVNOs."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike Lyca Mobile which blocks hotspot, Roami allows full-speed tethering on all plans."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Orange website rejects all non-Belgian credit/debit cards; Base online top-up requires a Belgian bank card."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Avoid Orange's foreign card rejection and Base's Belgian card requirement. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get instant help via live chat or email, unlike local operators with limited hours and German-only support."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Belgium eSIM vs Physical SIM Card: Activation and Setup Compared"
-    cards:
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate 90% Waste on 31-Day Plans"
-        desc: "Orange and Proximus plans last <b>31 days</b>. A 3-day trip wastes over <b>90%</b> of the plan. Roami offers 7-day plans from <b>$1.99/GB</b>, saving money."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unlock Hotspot Blocked by Lyca Mobile"
-        desc: "Lyca Mobile explicitly <b>prohibits and blocks tethering</b>. Roami allows full-speed hotspot on all plans, perfect for sharing with laptops."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Base's €3/MB Swiss Roaming Trap"
-        desc: "Base charges <b>€3/MB</b> in Switzerland. A 10MB usage costs <b>€30</b>. Roami offers flat-rate multi-country plans covering Belgium, Netherlands, and France."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Get Full EU Roaming Data, Not Capped"
-        desc: "Lyca's 30GB plan only offers <b>27.55GB</b> in EU roaming. Roami provides full data allowance across EU countries without FUP caps."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

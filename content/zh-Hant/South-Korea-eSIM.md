@@ -1,102 +1,96 @@
 ---
-title: South Korea eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 韓國 eSIM 方案 | 韓國 eSIM | Roami
+date: '2026-05-19T10:18:03+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: South Korea eSIM
-  scenario_keywords: Seoul sightseeing, K-culture tour, business trip, Hallyu travel,
-    temple stay
-  operators: SK Telecom, KT, LG U+
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Seoul, Busan, Incheon, Daegu, Daejeon
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 韓國 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食
+  operators: SK Telecom, KT, LGU+
+  competitors: Airalo, Holafly, Nomad, Ubigi, Flexiroam
+  main_cities: 首爾, 釜山, 濟州, 大邱, 仁川
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: South Korea Travel eSIM | 20% OFF| Always-On 5G | Roami
-  description: Planning a trip to South Korea? Stay connected via KT Always-On 5G
-    with Fair Use Data. Features Seamless Coverage and Auto-Connect, great for Family
-    Vacations.
-  keywords: South Korea eSIM, travel internet, roaming free, instant delivery, QR
-    code activation
-  low_price: 1.99
-  high_price: 39.9
+  title: 韓國旅遊 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
+  description: 韓國旅遊推薦 Roami eSIM，提供最佳 5G 高速網路與無限流量。立即選購並使用折扣碼 20%，讓您的韓國之旅連線更優質。
+  keywords: 韓國 eSIM, 韓國上網, SK Telecom, KT, LGU+, 首爾, 釜山, 濟州島
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 韓國 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: South Korea eSIM
+- label: 韓國 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for South Korea
-  title: Best eSIM for South Korea
+  alt: 最佳 韓國 eSIM
+  title: 最佳 韓國 eSIM
 hero:
   flag_image: img/flags/kr.svg
-  flag_alt: South Korea Flag
-  title: South Korea eSIM data plan
-  subtitle: Top rated | No more roaming fees | No hidden fees
+  flag_alt: 韓國 國旗
+  title: 韓國 eSIM - 旅行計劃
+  subtitle: 韓國 eSIM | 流量吃到飽 | 即時交付 | 支援熱點分享
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 韓國 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 韓國 eSIM
 plans_data:
-  3 Days:
+  3 天:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '4.99'
     oldPrice: '7.49'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.66'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
@@ -104,41 +98,41 @@ plans_data:
     daily: '1.00'
     tagIcon: star
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '8.99'
     oldPrice: '13.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.00'
-  7 Days:
+  7 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '10.99'
     oldPrice: '16.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.57'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -146,73 +140,73 @@ plans_data:
     daily: '0.57'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '4.99'
     oldPrice: '7.49'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.71'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '24.99'
     oldPrice: '37.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.57'
-  30 Days:
+  30 天:
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '37.99'
     oldPrice: '56.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.27'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '61.99'
     oldPrice: '92.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.07'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.23'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.37'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '22.99'
     oldPrice: '34.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.77'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -220,33 +214,33 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '25.99'
     oldPrice: '38.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.87'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
-  15 Days:
+  15 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '31.99'
     oldPrice: '47.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.13'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -254,575 +248,333 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '5.99'
     oldPrice: '8.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.40'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.53'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '13.99'
     oldPrice: '20.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.93'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '19.99'
     oldPrice: '29.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
 discount_banner:
-  title: Special Discount!
+  title: 韓國 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 韓國 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across South Korea, including major
-        cities like Seoul, Busan, Incheon, and Daegu. Our South Korea eSIM seamlessly
-        connects to the robust networks of SK Telecom, KT, and LG U+, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個 韓國 享受廣泛的網路覆蓋，包括首爾、釜山、濟州、大邱等城市。我們的 韓國 eSIM 無縫連接到 SK Telecom、KT、LGU+
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: SK Telecom
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: KT
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: LG U+
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 韓國 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in South Korea.
+    html: 建議抵達 韓國 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 韓國 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 韓國 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 韓國 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 韓國 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 韓國」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in South Korea'
-    desc: Upon arriving in South Korea, enable your South Korea eSIM in settings to
-      start using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 韓國 時，只需開啟 eSIM
+      – 有效期將在首次連接到 SK Telecom / KT 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 韓國：立即連上 5G/4G 網路
+    desc: 當您降落在 韓國（例如 仁川國際機場 (ICN), 金浦國際機場 (GMP), 釜山金海國際機場 (PUS)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 韓國。幾秒鐘內，您的設備將自動連接到 SK Telecom / KT 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: South Korea eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your South Korea eSIM across different
-    travel scenarios.
+  title: 韓國 eSIM：完整指南和常見問題
+  desc: 使用 韓國 eSIM 在 韓國 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 韓國 eSIM 的常見問題
     questions:
-    - q: Does my phone support the South Korea eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your South Korea eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the South Korea eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in South Korea
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the South Korea eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the South Korea eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in South Korea that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your South Korea eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my South Korea eSIM data (hotspot) with other devices?
-      a: Absolutely. All our South Korea eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your South Korea eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in South
-        Korea, such as SK Telecom, KT, LG U+, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like mobimatter, Holafly,
-        eSIM GO, Airalo?
-      a: While great companies like mobimatter, Holafly, eSIM GO, Airalo offer reliable
-        services, we focus on providing the most cost-effective South Korea eSIM,
-        ensuring lower latency and better prices with our automatic price-matching
-        system.
+    - q: 在首爾地鐵站內，SK Telecom的訊號穩定嗎？可以順暢看影片嗎？
+      a: 在首爾地鐵站內，SK Telecom的5G訊號非常穩定，即使在尖峰時段（如上午8-9點）在江南站或弘大入口站，下載速度通常維持在30-50 Mbps，足以無緩衝觀看1080p影片。不過，部分老舊站點（如1號線鍾閣站）的4G
+        LTE速度可能降至10-15 Mbps，但對於社交媒體和通訊軟體仍然順暢。建議使用KT的網路，因為KT在地鐵隧道內的覆蓋更均勻，且延遲更低。
+    - q: 在釜山廣安里海水浴場，使用LGU+的網路看直播會卡嗎？
+      a: 在釜山廣安里海水浴場，LGU+的5G網路表現出色，尤其是靠近廣安大橋的區域，下載速度可達40-60 Mbps，直播延遲極低。但在夏季週末人潮眾多時，由於用戶密集，速度可能下降至15-20
+        Mbps，仍可順暢觀看720p直播。建議避開下午2-4點的最高峰，或切換到SK Telecom，其頻寬分配更穩定。
+    - q: 在韓國使用eSIM時，每天1GB的流量夠用嗎？主要用Google Maps和KakaoTalk。
+      a: 每天1GB流量對於使用Google Maps導航和KakaoTalk文字訊息相當足夠。以首爾市區使用為例，導航1小時約消耗50-80 MB，而KakaoTalk語音通話每分鐘約1-2
+        MB，因此若僅用這些功能，1GB足以應付整天。但若頻繁使用Instagram或YouTube短片，建議每日至少2-3GB。另外，部分eSIM方案有公平使用政策，超過1GB後速度可能降至2
+        Mbps，但仍可正常使用通訊軟體。
+    - q: 在濟州島漢拿山登山時，哪家電信業者訊號最好？
+      a: 在濟州島漢拿山的登山步道，KT的覆蓋最佳，尤其從城板岳路線攀登時，幾乎全線都有穩定4G訊號。而SK Telecom在海拔較高的區域（如白鹿潭附近）可能出現微弱斷訊，但大部分步道仍可正常使用。LGU+在濟州市區表現良好，但在山區覆蓋較差，建議登山前下載離線地圖。此外，清晨或傍晚登山時訊號較穩定，中午尖峰時段因登山客眾多可能略降速。
+    - q: 在大邱東城路商圈，使用eSIM玩手機遊戲延遲高嗎？
+      a: 在大邱東城路商圈，連接到SK Telecom網路時，玩《英雄聯盟》或《原神》的延遲通常在20-40毫秒，符合多數線上遊戲需求。不過，在週末晚上7-9點人潮壅擠時，延遲可能升至50-70毫秒，但仍可接受。KT的網路在遊戲穩定性上更勝一籌，因其自有IP和優化路由，推薦給競技遊戲玩家。建議搭配5G手機以獲得最佳體驗。
+    - q: 在仁川國際機場轉機時，能自由切換eSIM的運營商嗎？怎麼設定？
+      a: 大多數eSIM方案支援手動切換運營商，例如在iPhone的「行動服務」設定中選擇網路，可從SK Telecom切換到KT或LGU+。在仁川機場第一航廈，SK
+        Telecom和KT的訊號強度相當，下載速度均約50-70 Mbps。若要切換，請進入設定→行動服務→選擇eSIM→網路選取→關閉自動，再手動選擇。注意部分方案可能限制僅使用指定運營商，購買前請確認。
+    - q: 在光州無等山附近，LGU+的5G覆蓋範圍如何？適合遠距工作嗎？
+      a: 在光州無等山附近，LGU+的5G覆蓋主要集中在山腳和纜車站周邊，山頂區域則回落到4G LTE，平均速度約20-30 Mbps。對於Zoom視訊會議，4G網路即可順暢進行，但上傳速度可能不穩定（約5-10
+        Mbps）。建議在纜車站或休息區使用，避開樹林密集處。若需穩定連線，KT在該區域的4G覆蓋更全面，且延遲較低。
+    - q: 在首爾蠶室樂天世界塔，使用eSIM上傳影片到社交媒體快嗎？
+      a: 在首爾蠶室樂天世界塔，SK Telecom的5G上行速度約20-30 Mbps，上傳一段1分鐘的1080p影片（約100 MB）只需約4-5秒。在週末人潮較多時，速度可能降至10-15
+        Mbps，但仍比4G快。建議在該區域的觀景台或購物中心內使用，因建築結構可能微幅影響訊號。KT的上傳表現略優於SK Telecom，尤其在高層區域。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 韓國 機場：如何使用 韓國 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the South Korea eSIM before your flight. Once you land at Incheon
-        International Airport, Gimpo International Airport, Jeju International Airport,
-        simply turn off Airplane Mode and enable your eSIM line. It will connect to
-        the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your South Korea eSIM activated upon landing, you can immediately open
-        Kakao T, Naver Map, T-money to book a ride or use WhatsApp to message your
-        pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed South Korea eSIM data allows you to open Google Maps right
-        at the baggage claim in Incheon International Airport, Gimpo International
-        Airport, Jeju International Airport to check real-time train schedules, bus
-        routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our South Korea eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our South Korea eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast South Korea eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 從仁川國際機場抵達後，如何快速啟用eSIM？需要連接機場WiFi嗎？
+      a: 抵達仁川國際機場後，請先開啟手機的WiFi連接到機場免費網路（如「Seoul WiFi」或「Airport Free WiFi」），然後掃描eSIM的QR碼進行安裝。安裝完成後，在設定中啟用eSIM，通常會在1-2分鐘內自動連接至SK
+        Telecom或KT。若無法連接，可手動選擇網路。建議在入境大廳完成設定，因機場內訊號涵蓋良好。
+    - q: 在金浦國際機場（GMP）可以買到實體SIM卡嗎？還是直接使用eSIM更方便？
+      a: 金浦國際機場的入境大廳設有SK Telecom和KT的服務櫃檯，可購買實體預付卡，但價格通常比eSIM高，且需排隊辦理。eSIM則可事先購買，抵達後立即啟用，省時省力。金浦機場的免費WiFi穩定，現可連線後下載eSIM設定檔。推薦使用eSIM，特別是轉機或短暫停留的旅客。
+    - q: 在釜山金海國際機場（PUS），eSIM的連線速度如何？可以用來叫Kakao T計程車嗎？
+      a: 在釜山金海國際機場，連接到LGU+網路的eSIM下載速度約40-60 Mbps，足以順暢使用Kakao T叫車。機場的停車場和國內線航廈訊號較強，國際線航廈部分角落可能降為4G，但速度仍有20+
+        Mbps。建議在領取行李處先確認網路連線，若叫車反應慢，可切換到SK Telecom。
+    - q: 從仁川機場到首爾市區，eSIM導航穩定嗎？會經過訊號不好的隧道嗎？
+      a: 仁川機場到首爾市區的公路（如機場高速公路）沿途訊號良好，SK Telecom的5G覆蓋幾乎不中斷。但在經過漢江隧道或部分地下路段時，可能短暫降為4G，導航仍持續更新。搭乘AREX機場快線時，地鐵內全程有4G/5G訊號，僅在部分區間（如進入首爾站前）有輕微延遲。整體體驗穩定，可放心使用Google
+        Maps或Naver Map。
+    - q: 在仁川機場轉機時間較長，可以用eSIM觀看串流影片嗎？有流量限制嗎？
+      a: 仁川機場航廈內提供免費WiFi，但使用eSIM觀看串流影片更為穩定。多數eSIM方案無每日高速流量限制，但超過1-2 GB後可能降速至2 Mbps，仍可觀看480p影片。機場內免稅店區域和休息室訊號最強，KT網路在該地區的下載速度可達60
+        Mbps以上。建議購買無限量或高流量方案以獲得最佳體驗。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 韓國 eSIM 用於 韓國 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable South Korea eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in South Korea, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Kakao T, Naver Map, T-money use VoIP (internet calling) and in-app
-        messaging. Since you have active South Korea eSIM data, drivers can call or
-        message you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your South Korea eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your South Korea eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in South Korea.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our South Korea eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your South Korea eSIM's data network while
-        on the train or in the car.
+    - q: 在首爾地鐵上使用eSIM，哪些路線訊號較弱？如何改善？
+      a: 首爾地鐵中，1號線（尤其是鐘閣至新設洞段）因年代較久，部分隧道內4G訊號偏弱，下載速度可能低於5 Mbps。2號線（如江南至三成段）則5G覆蓋良好。改善方法：手動切換到KT網路，因其在地鐵系統內的布建較密集；或靠近車門旁使用，因車廂兩端訊號較強。
+    - q: 使用Kakao T叫車時，eSIM的定位精準嗎？容易出現定位漂移嗎？
+      a: 連接到SK Telecom的eSIM在首爾市區的定位精準度通常在5-10米內，Kakao T能正確識別上車地點。但在高樓密集的江南區，GPS可能受干擾而出現10-20米的偏移，導致司機找不到乘客。建議使用前開啟WiFi輔助定位，並在App內手動拖動地圖修正上車點。KT的網路在定位穩定性上表現略好。
+    - q: 在釜山搭乘地鐵時，eSIM的延遲是否影響使用T-money卡線上充值？
+      a: 釜山地鐵（1號線、2號線）內，eSIM的網路延遲通常在30-50毫秒，連接至T-money充值App（如Cashbee）時，充值動作約需2-3秒完成。但在尖峰時段的西面站或海雲台站，延遲可能升至80毫秒，但仍屬順暢。建議提前在站外充值，避免因車廂內人多影響網路。
+    - q: 從首爾搭KTX到釜山，eSIM在高速移動中網路會中斷嗎？
+      a: 在KTX上使用eSIM，SK Telecom的5G訊號在列車時速300公里下仍能維持穩定，下載速度約20-40 Mbps。經過隧道時（如嶺南地區的長隧道），可能短暫降為4G甚至斷線1-2秒，但恢復快速。全程導航和通訊軟體均不受影響，觀看串流影片可能偶爾緩衝。建議在經過大田或大邱站附近時下載離線內容，以備不時之需。
+    - q: 在仁川機場搭機場巴士時，可以使用eSIM的熱點分享給同行親友嗎？
+      a: 大部分eSIM方案都支援熱點分享，在仁川機場巴士（如6001路）上，分享給2-3人使用時，每人仍可維持15-25 Mbps的速度，足以瀏覽網頁和傳送訊息。由於巴士行經高速公路，訊號穩定。請注意，部分方案可能限制熱點流量，或超過每日用量後降速，建議在熱點設定中限制背景數據。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 韓國 的飯店使用 韓國 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your South Korea eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your South Korea eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at The Shilla Seoul, Lotte Hotel Seoul, Grand Hyatt
-        Seoul or a local guesthouse, you can input the address into Google Maps and
-        get turn-by-turn walking or transit directions using your South Korea eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your South Korea eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed South Korea eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Baedaltong, Yogiyo, Coupang Eats and
-        use your South Korea eSIM data to order a hot meal directly to your hotel
-        lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your South Korea eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 在首爾樂天酒店（明洞），eSIM的訊號比飯店WiFi快嗎？哪種更適合視訊會議？
+      a: 首爾樂天酒店提供免費WiFi，但尖峰時段（如早餐時間）可能擁擠。eSIM連接SK Telecom的5G網路，在客房內下載速度約60-80 Mbps，優於飯店WiFi的30-50
+        Mbps。對於Zoom視訊會議，eSIM的低延遲（約15毫秒）確保流暢通話，且不受其他房客影響。建議使用eSIM進行重要會議，飯店WiFi則用於備用。
+    - q: 入住釜山威斯汀朝鮮酒店時，房間內哪家電信業者訊號最強？
+      a: 釜山威斯汀朝鮮酒店（海雲台）內，KT的5G訊號最強，客房內下載速度可達70-90 Mbps。SK Telecom在大廳和餐廳區域表現良好，但部分海景房因建築朝向，訊號略弱（40-50
+        Mbps）。LGU+在地下樓層（如停車場）可能不穩定。建議選擇KT為主的eSIM方案，以確保房間內流暢體驗。
+    - q: 在濟州新羅酒店，使用eSIM上傳遊記照片到社交平台速度如何？
+      a: 濟州新羅酒店位於西歸浦市，eSIM連接KT網路時，上傳速度約15-20 Mbps，每張5 MB的照片約2秒完成。休假旺季時，大量遊客使用網路可能使上傳速度降至10
+        Mbps，但仍可接受。建議在清晨或深夜上傳，避開白天泳池區人潮。SK Telecom在此區域的表現類似，未見明顯差異。
+    - q: 明洞附近民宿使用eSIM時，晚上尖峰時段速度會變慢嗎？
+      a: 明洞區域晚上8-10點是觀光客和居民使用網路的高峰，SK Telecom的5G速度可能從白天的50-70 Mbps降至20-30 Mbps。若居住民宿位於巷弄內，建築遮蔽可能進一步減弱訊號。建議選擇支援網路品質最佳化（如自動切換運營商）的eSIM方案，並考慮使用飯店WiFi分擔流量。
+    - q: 在仁川松島國際商務區飯店，使用eSIM進行線上考試或串流課程穩定嗎？
+      a: 仁川松島國際商務區飯店（如松島假日酒店）的網路基礎建設新穎，eSIM連接LGU+的5G網路時，下載速度約80-100 Mbps，且延遲低於20毫秒，適合線上考試（如托福）或視訊課程。惟上午9-11點的辦公高峰期可能略有波動，但整體穩定。建議提前測試連線，並備有飯店WiFi作為備援。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 韓國 旅遊景點的網路：韓國 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Gyeongbokgung Palace, N Seoul Tower, Jeju Island spontaneously,
-        you can use your South Korea eSIM data to buy skip-the-line tickets online
-        and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your South Korea eSIM, you can read reviews and
-        book local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring South Korea.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your South Korea eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your South Korea eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your South Korea eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast South Korea eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your South Korea eSIM data to search 'restaurants near me' on Google
-        Maps to check ratings, opening hours, and photos of the menu before walking
-        in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your South Korea eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your South Korea eSIM ensures you
-        can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your South Korea eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Baedaltong, Yogiyo, Coupang Eats, register
-        using your email or social accounts, and order food seamlessly using your
-        South Korea eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like KakaoPay,
-        Naver Pay, Samsung Pay require a brief internet handshake, which your South
-        Korea eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your South Korea eSIM to find hidden culinary gems in the city.
+    - q: 在景福宮參觀時，使用eSIM能順暢查詢中文導覽資訊嗎？
+      a: 景福宮區域（包括光化門廣場）SK Telecom和KT的5G訊號均強，下載速度約40-60 Mbps，開啟中文導覽App（如Visit Seoul）或網頁秒開。在勤政殿等建築內，因石牆遮蔽，速度可能降至20-30
+        Mbps，仍可流暢讀取文字和圖片。建議先在廣場下載景點離線介紹，以防室內訊號波動。
+    - q: 在釜山海東龍宮寺的海岸步道，eSIM訊號足夠打卡上傳嗎？
+      a: 海東龍宮寺的海岸步道連線KT網路，4G LTE速度約15-25 Mbps，足以快速上傳照片。節假日遊客眾多時，訊號可能不穩定，例如在寺廟主殿附近會暫時降速。建議在入口處或步道開闊段拍照上傳，避開人潮密集區。SK
+        Telecom在此範圍表現類似，但KT略勝。
+    - q: 前往濟州城山日出峰觀賞日出時，eSIM能在凌晨時段用於直播嗎？
+      a: 城山日出峰凌晨4-6點時，遊客較少，eSIM連接SK Telecom的4G網路，上傳速度約10-15 Mbps，可進行720p直播。但山頂風大且氣溫低，手機可能因過熱或電量快速下降，建議攜帶行動電源。由於清晨時段少人使用網路，訊號較為穩定。KT的網路延遲更低，適合直播。
+    - q: 在首爾N首爾塔的觀景台上，eSIM訊號如何？可以視訊通話嗎？
+      a: N首爾塔觀景台位於南山頂，KT的5G訊號極強，下載速度約60-80 Mbps，視訊通話（如FaceTime）畫質清晰，無延遲。但塔頂的旋轉餐廳和地層室內區域可能訊號稍弱（30-40
+        Mbps）。建議在觀景台戶外區域通話，以獲得最佳品質。SK Telecom的訊號同樣優秀。
+    - q: 在首爾明洞購物時，使用eSIM用Naver Map找餐廳會耗費很多流量嗎？
+      a: 明洞地區連線至SK Telecom的5G網路，Naver Map使用30分鐘約消耗50-80 MB流量，若加上瀏覽餐廳照片和評論，總計約150 MB。由於明洞人潮密集，地圖載入速度不受影響，約1-2秒即更新路線。建議預先下載首爾市區離線地圖，以節省流量。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 韓國 eSIM 在 韓國 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        South Korea eSIM providing the internet, you can chat and call exactly as
-        you do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G South Korea eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the South Korea eSIM are clear and lag-free, no matter where you are
-        in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal South
-        Korea eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your South Korea eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country South Korea eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your South Korea eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在首爾弘大商圈，用eSIM上傳抖音影片到中國版的速度如何？
+      a: 弘大商圈夜間人潮較多，eSIM連接KT的5G網路，上傳抖音短影片（1分鐘，50 MB）約需3-5秒。中國版抖音透過VPN可能略增延遲，但整體影響不大。建議避開週末晚上8-10點尖峰時段，若使用Skype或微信上傳，速度相似。
+    - q: 在釜山甘川文化村，使用eSIM在Instagram直播會卡嗎？
+      a: 甘川文化村因地勢起伏，KT的5G訊號在主要觀景點（如小王子和狐狸雕塑）覆蓋良好，直播1080p影片延遲約1-2秒。但在狹窄小巷內，訊號可能降為4G，直播畫質自動降至720p，仍流暢。建議在開闊區域直播，並關閉背景App以提升穩定性。
+    - q: 在濟州島漢拿山國立公園，用eSIM傳送WhatsApp語音訊息容易嗎？
+      a: 漢拿山國立公園入山口一帶KT訊號優良，WhatsApp語音訊息即發即送。但在登山步道中段（如螞蟻牧場），4G LTE速度約10-20 Mbps，語音訊息傳送約需1-2秒。若使用圖片，加壓縮後傳送更快。建議隨拍隨傳，避免累積大量檔案。
+    - q: 在大邱東城路商圈，eSIM的Facebook和Instagram加載速度怎麼樣？
+      a: 東城路商圈SK Telecom的5G網路，Facebook和Instagram圖片加載幾乎即時，影片預覽在1秒內開始播放。週末下午人潮較多時，速度可能略降，但滾動動態仍順暢。KT的延遲更低，適合頻繁切換App的用戶。
+    - q: 在光州錦南路，使用eSIM在Snapchat傳送圖片會慢嗎？
+      a: 光州錦南路一帶LGU+的4G LTE速度約20-30 Mbps，Snapchat圖片上傳約2秒。若使用5G（僅限部分區域），速度可達50 Mbps。由於該區域餐廳和商店密集，室內訊號可能因建築材料而衰減，建議在室外操作。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 韓國 使用 韓國 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In South Korea, you can dial local emergency numbers like 112 (police), 119
-        (fire/ambulance), 110 (general emergency) directly from your phone's dialer
-        regardless of your active SIM, as long as your phone can catch any cellular
-        signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your South Korea eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your South Korea eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your South Korea eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        South Korea eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your South Korea eSIM, use
-        your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our South Korea eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the South Korea eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your South Korea eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your South Korea eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your South Korea eSIM, you can rapidly upload
-        presentations or large documents to Google Drive or Dropbox directly from
-        the exhibition floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your South Korea eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your South Korea eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在首爾遇到搶劫時，撥打112後會自動定位嗎？eSIM能確保通話暢通嗎？
+      a: 撥打112（警察）時，系統會自動定位到GSM網路，eSIM的語音通話功能正常，且優先級最高，即使網路滿載也能接通。在明洞或江南區，連線至SK Telecom的網路，通話品質清晰。若身處地鐵站內，定位可能略有誤差，需告知確切地點。建議事先下載韓國112
+        App，以備傳送精準位置。
+    - q: 在釜山廣安里海灘發生溺水，如何用eSIM撥打119求救？
+      a: 撥打119（消防/急救）時，eSIM自動切換至可用的通信網路，即使無SIM卡也能撥通。廣安里海灘區域KT訊號涵蓋完整，通話穩定。建議撥打後告知「廣安里海水浴場」，並描述具體位置（如靠近廣安大橋端）。若水面上訊號弱，可往岸邊移動。
+    - q: 在濟州島登山時迷路，手機沒訊號怎麼辦？eSIM有辦法緊急連絡嗎？
+      a: 漢拿山部分區域（如白鹿潭附近）可能無訊號，eSIM無法通話。此時應使用手機的衛星SOS功能（如iPhone 14以上）或事先下載離線地圖。建議避免獨自攀登，並攜帶衛星定位設備。山腳管理站提供有線電話，可請求協助。
+    - q: 在仁川機場遺失護照，如何透過eSIM聯繫駐韓使館？
+      a: 仁川機場內有免費WiFi，但eSIM可直接撥打國際電話。聯繫駐韓大使館（台灣駐韓代表處：+82-2-399-2780）時，SK Telecom的網路通話音質清晰。建議先使用機場內緊急電話，或請服務台協助。若使用eSIM，請確認餘額充足（若為純數據方案，需另備通話App）。
+    - q: 在首爾遇到地震時，eSIM能用來接收災難警報嗎？
+      a: 韓國災難警報（如地震、空氣污染）會透過CBS廣播系統傳送至所有手機，eSIM可正常接收，無需網路。警報訊息為韓文，但會附英文摘要。若身處地下空間（如地鐵），eSIM仍可接收警報，建議立即依指示避難。SK
+        Telecom和KT的無線電優先級確保警報即時送達。
+    - q: 在大邱深夜身體不適，如何用eSIM呼叫救護車？通話費會很貴嗎？
+      a: 撥打119救護車完全免費，無論eSIM方案為何，均不需額外付費。在大邱市中心，LGU+網路在深夜時段通話品質穩定，救護車可透過定位快速到達。建議保持手機電力，清楚說明症狀和地址（如「壽城區東大邱站附近」）。119接線員可提供中文翻譯服務。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 韓國 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "South-Korea eSIM vs Prepaid SIM Card: Key Differences Explained"
-  subtitle: "North Korea Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (South-Korea) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/South-Korea"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami South-Korea eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Purchase only at Pyongyang International Airport (open only during flight arrivals) or Pothonggang Hotel; activation can take up to 48 hours."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip the Koryolink airport counter with limited hours. Activate your eSIM online before arrival, avoiding up to 48-hour activation delays."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Passport and visa required for registration; all electronic devices must be declared and inspected upon entry."
-      esim_title: "No Passport Registration"
-      esim_desc: "Avoid strict device inspections and passport checks. Roami eSIM requires no personal ID, preserving your privacy."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Koryolink has no international roaming agreements; the SIM becomes useless immediately upon leaving North Korea."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "Unlike Koryolink's zero roaming capability, Roami eSIM works in 190+ countries with seamless network switching."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Registration fee of $200 for a data SIM includes only 50MB; validity is tied to visa duration; no fixed-cycle data packs."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Koryolink's $200/50MB sunk cost, Roami offers 7-day plans starting from $1.99/GB, saving over 99% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, tethering is likely blocked or heavily restricted due to network controls."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows hotspot sharing without extra fees, while Koryolink likely blocks tethering due to network restrictions."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Only cash or local Narae prepaid card accepted; international credit card online payment is essentially unavailable."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for cash or local prepaid cards."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is minimal and only available in Korean."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get instant help in English via live chat or email, unlike Koryolink's limited Korean-only support."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "South-Korea eSIM Compared to Prepaid SIM Cards: What You Need to Know"
-    cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payment Methods Accepted"
-        desc: "Koryolink only accepts cash or local Narae card. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass North Korea's Strict SIM Passport Requirements"
-        desc: "Koryolink requires passport registration and device inspection. Roami eSIM needs no ID, avoiding privacy risks."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Coverage Beyond Pyongyang"
-        desc: "Koryolink covers only <b>14% of territory</b> (Pyongyang + 15km). Roami eSIM connects to local networks globally."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate $200 Sunk Cost"
-        desc: "Koryolink charges <b>$200 registration</b> for only <b>50MB</b>. Roami offers 7-day plans from <b>$1.99/GB</b>, saving over 99%."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

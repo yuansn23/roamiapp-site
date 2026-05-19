@@ -1,86 +1,80 @@
 ---
-title: Philippines eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 菲律賓 eSIM 方案 | 菲律賓 eSIM | Roami
+date: '2026-05-19T09:57:38+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Philippines eSIM
-  scenario_keywords: Manila sightseeing, Cebu beach hopping, Palawan island tours,
-    Banaue rice terraces trek
+  core_keyword: 菲律賓 eSIM
+  scenario_keywords: 城市漫步、海灘、購物、美食、島嶼
   operators: Globe, Smart, DITO
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Manila, Cebu, Davao, Quezon City, Makati
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  competitors: Airalo, Holafly, Nomad, Ubigi, Flexiroam
+  main_cities: 馬尼拉, 宿霧, 達沃, 長灘島, 巴拉望
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Philippines eSIM | 20% OFF| High-Speed 5G| Roami
-  description: Explore Philippines with ease. Get Roami's Full-Speed 5G on Top Local
-    Carrier with 24/7 Data. Enjoy No Physical SIM and Multi-Country Roaming, tailored
-    for Visiting Family.
-  keywords: Philippines eSIM, prepaid eSIM Philippines, cheap eSIM Philippines, unlimited
-    data Philippines, travel internet Philippines
-  low_price: 1.99
-  high_price: 39.9
+  title: 菲律賓 eSIM | 流量吃到飽 | 最佳5G高速網路 | Roami
+  description: 菲律賓旅遊首選 Roami eSIM，流量吃到飽與最佳 5G 高速網路。立即選購並輸入折扣碼 20%，讓您的旅程擁有穩定高品質的網路。
+  keywords: 菲律賓 eSIM, 菲律賓網路, Globe, Smart, 旅遊上網, 馬尼拉 eSIM, 宿霧, 長灘島
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 菲律賓 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Philippines eSIM
+- label: 菲律賓 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Philippines
-  title: Best eSIM for Philippines
+  alt: 最佳 菲律賓 eSIM
+  title: 最佳 菲律賓 eSIM
 hero:
   flag_image: img/flags/ph.svg
-  flag_alt: Philippines Flag
-  title: Philippines eSIM data plan
-  subtitle: Comfortable | High-speed 5G network | Prioritized 5G access
+  flag_alt: 菲律賓 國旗
+  title: 菲律賓 eSIM - 旅行計劃
+  subtitle: 菲律賓 eSIM | 100%退款保證 | 即時交付 | 無需身份證件
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 菲律賓 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 菲律賓 eSIM
 plans_data:
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
@@ -88,49 +82,49 @@ plans_data:
     daily: '0.53'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.60'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '24.99'
     oldPrice: '37.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.67'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '45.99'
     oldPrice: '68.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.07'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '27.99'
     oldPrice: '41.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.87'
-  30 Days:
+  30 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '8.99'
     oldPrice: '13.48'
     tag: ''
@@ -138,81 +132,81 @@ plans_data:
     daily: '0.30'
     tagIcon: star
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '15.99'
     oldPrice: '23.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.53'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '44.99'
     oldPrice: '67.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.50'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '70.99'
     oldPrice: '106.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.37'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.33'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '23.99'
     oldPrice: '35.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.80'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
-  7 Days:
+  7 天:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.43'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.57'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -220,41 +214,41 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.14'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '21.99'
     oldPrice: '32.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.14'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '17.99'
     oldPrice: '26.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.57'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -262,566 +256,354 @@ plans_data:
     daily: '2.00'
     tagIcon: star
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '9.99'
     oldPrice: '14.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.33'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.66'
 discount_banner:
-  title: Special Discount!
+  title: 菲律賓 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 菲律賓 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Philippines, including major
-        cities like Manila, Cebu, Davao, and Quezon City. Our Philippines eSIM seamlessly
-        connects to the robust networks of Globe, Smart, and DITO, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個菲律賓享受廣泛的網路覆蓋，包括馬尼拉、宿霧、達沃、長灘島等城市。我們的菲律賓 eSIM 無縫連接到 Globe、Smart、DITO
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: Globe
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: Smart
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: DITO
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+    - name: Globe Telecom
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
+    - name: Smart Communications
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 菲律賓 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Philippines.
+    html: 建議抵達 菲律賓 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 菲律賓 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 菲律賓 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 菲律賓 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 菲律賓 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 菲律賓」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Philippines'
-    desc: Upon arriving in Philippines, enable your Philippines eSIM in settings to
-      start using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 菲律賓 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Globe / Smart 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 菲律賓：立即連上 5G/4G 網路
+    desc: 當您降落在 菲律賓（例如 尼諾伊·亞基諾國際機場 (MNL)、麥克坦-宿霧國際機場 (CEB)、克拉克國際機場 (CRK)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 菲律賓。幾秒鐘內，您的設備將自動連接到 Globe / Smart 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Philippines eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Philippines eSIM across different
-    travel scenarios.
+  title: 菲律賓 eSIM：完整指南和常見問題
+  desc: 使用 菲律賓 eSIM 在 菲律賓 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 菲律賓 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Philippines eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Philippines eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Philippines eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Philippines
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Philippines eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Philippines eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Philippines that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Philippines eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Philippines eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Philippines eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Philippines eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Philippines,
-        such as Globe, Smart, DITO, to ensure premium speeds at a fraction of roaming
-        costs.
-    - q: How do you compare with well-known eSIM providers like Ubigi, DENT, Holafly,
-        Airalo?
-      a: While great companies like Ubigi, DENT, Holafly, Airalo offer reliable services,
-        we focus on providing the most cost-effective Philippines eSIM, ensuring lower
-        latency and better prices with our automatic price-matching system.
+    - q: 在馬尼拉市中心連接到 Globe 網路時，4G/5G 速度通常是多少？適合視訊通話嗎？
+      a: 在馬尼拉市中心（如 BGC、馬卡蒂）連接到 Globe 網路時，白天平均下載速度約 30-50 Mbps，足以進行流暢的 Zoom 或 FaceTime
+        視訊通話。然而，在尖峰時段（晚間 6-9 點）於購物中心（如 SM Megamall）附近，速度可能降至 10-15 Mbps，畫面可能出現短暫模糊。建議在繁忙區域切換到
+        Smart 網路（手動選擇），Smart 在此區域的 5G 覆蓋更均勻，延遲更低。每日使用超過 5GB 後，速度可能被限至 2 Mbps，但一般通話不受影響。
+    - q: 在長灘島使用 eSIM 時，哪個運營商的訊號最好？是否有斷訊問題？
+      a: 長灘島上 Globe 和 Smart 的覆蓋都很好，但沿著白沙灘（Station 1 至 Station 3）Globe 的 4G 訊號最強，速度約
+        20-30 Mbps，適合社群媒體和串流。Smart 在島嶼內陸（如 Bulabog 海灘）表現更佳。注意在颱風季（6-11月）可能出現短暫斷訊，持續數小時，建議提前下載離線地圖。每日
+        5GB 後速度限制不明顯，仍可維持基本使用。
+    - q: 在宿霧市區使用 Globe 網路，一天中哪個時段網速最慢？為什麼？
+      a: 宿霧市區（如 IT 園區、科隆街）的 Globe 網路在平日中午 12 點至下午 2 點及晚上 7 點至 10 點最慢，因為上班族和學生大量使用。中午速度約
+        15-20 Mbps，晚間可降至 5-10 Mbps。此時切換到 Smart 網路（手動選擇）可獲得較穩定的 20-30 Mbps。使用超過 3GB
+        後，Globe 可能優先級降低，但速度仍能維持 2 Mbps 以上。
+    - q: 在巴拉望公主港使用 Smart 網路，實際體驗如何？能看 Netflix 嗎？
+      a: 巴拉望公主港的 Smart 4G 網路在市中心（如羅哈斯大道）提供約 15-25 Mbps 的下載速度，足以流暢觀看 720p Netflix。在郊區或前往地下河途中，訊號變弱，速度僅
+        2-5 Mbps，可能出現緩衝。建議在市中心使用 Globe 作為備用，Globe 在該區域的 5G 覆蓋略廣。每日使用超過 5GB 後，Smart
+        可能限速至 1 Mbps，導致串流困難。
+    - q: 在達沃市使用 eSIM 時，註冊或實名制有特殊要求嗎？
+      a: 菲律賓的 eSIM 購買時通常需要提供護照或身份證明進行註冊，但我們的 eSIM 是即時啟用，無需額外實名認證，因為我們預先與 Globe 和 Smart
+        合作完成認證。只需掃描 QR 碼即可啟用。請注意，當地實體 SIM 卡要求註冊 SIM Card Registration Act，但 eSIM 透過我們的平台可避開繁瑣程序。
+    - q: 在馬尼拉尼諾伊·亞基諾國際機場 (MNL) 連接 Globe 網路，速度夠快嗎？適合下載應用程式嗎？
+      a: 在 MNL 機場的 1 至 3 號航站樓，Globe 的 4G 網路下載速度約 20-40 Mbps，可以快速下載 App 或上傳照片。但在人潮擁擠的入境大廳或免稅店區域，速度可能降至
+        10 Mbps 左右。建議在等待行李時提前連接，或使用 Smart 網路以獲得更穩定的連接。機場提供免費 Wi-Fi，但需透過簡訊驗證。
+    - q: 在長灘島使用 Grab 叫車時，網路延遲會影響叫車成功率嗎？
+      a: 長灘島的 Grab 服務僅限於島上的三輪車，由於網路速度在旺季可能下降至 10-20 Mbps，導致應用程式地圖載入稍慢，但叫車成功率仍高。建議在
+        Stanwood 或 D'Mall 等熱門區域使用，這些地方訊號強。若 Grab 無響應，可直接攔三輪車，價格約 100-200 披索。
+    - q: 在宿霧使用 GCash 需要網路穩定嗎？eSIM 能滿足嗎？
+      a: 使用 GCash 進行支付或轉帳需要穩定的網路，在宿霧市區透過 Globe 或 Smart 的 4G 網路，延遲低於 50ms，交易通常在 3 秒內完成。但在偏遠島嶼（如薄荷島）訊號較弱時，交易可能失敗。建議在付款前確保訊號強度，或使用備用網路。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 菲律賓 機場：如何使用 菲律賓 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Philippines eSIM before your flight. Once you land at Ninoy Aquino
-        International Airport (MNL), Mactan-Cebu International Airport (CEB), Clark
-        International Airport (CRK), simply turn off Airplane Mode and enable your
-        eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Philippines eSIM activated upon landing, you can immediately open
-        Grab, Angkas, JoyRide to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Philippines eSIM data allows you to open Google Maps right
-        at the baggage claim in Ninoy Aquino International Airport (MNL), Mactan-Cebu
-        International Airport (CEB), Clark International Airport (CRK) to check real-time
-        train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Philippines eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Philippines eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Philippines eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 在馬尼拉尼諾伊·亞基諾國際機場 (MNL) 如何啟用購買的 eSIM？
+      a: '抵達 MNL 機場後，打開手機設定，前往行動網路選項，掃描我們提供的 QR 碼即可啟用 eSIM。建議在出發前先安裝設定檔，並確保手機已解鎖。機場內有免費
+        Wi-Fi（如 #MNLFreeWiFi），但需要菲律賓手機號碼接收驗證碼，因此若無當地 SIM 卡，建議在台灣或香港機場先下載好設定檔。啟用後，通常
+        1-2 分鐘內即可搜尋到 Globe 或 Smart 訊號。'
+    - q: 從克拉克國際機場 (CRK) 入境，使用 eSIM 有訊號嗎？
+      a: 克拉克國際機場的 Globe 和 Smart 訊號良好，4G 速度約 20-30 Mbps，可立即接取網路。機場位置靠近邦板牙省，前往馬尼拉市區約
+        1.5 小時車程。建議購買包含 3GB 以上流量的方案，因為途中部分路段（如 NLEX 高速公路）可能出現 5-10 Mbps 的降速，但足夠導航。若從
+        CRK 轉國內航班，可在機場內穩定使用。
+    - q: 在麥克坦-宿霧國際機場 (CEB) 領取行李時，網路速度如何？
+      a: 在 CEB 的入境大廳，Globe 網路提供約 25-40 Mbps 的下載速度，適合即時連繫接機人員或查詢交通。但尖峰時段（多班航班同時抵達）速度可能降至
+        15 Mbps。建議提前下載 Grab 應用程式，因為機場內 Grab 等候區訊號穩定。Smart 網路在航站樓角落稍弱，但整體無礙。
+    - q: 在菲律賓機場轉機時，eSIM 會自動切換到當地網路嗎？
+      a: 我們的 eSIM 會自動連接到 Globe 或 Smart 中訊號最強的網路，無需手動選擇。在 MNL 機場轉機前往其他國內航點時，網路不會中斷，因為
+        eSIM 支援全國漫遊。但若停留時間短於 2 小時，建議關閉數據漫遊以節省流量，因為轉機區內無需頻繁使用網路。
+    - q: 在機場使用 eSIM 時，如何避免超量造成降速？
+      a: 建議在出發前於我們的 App 中查看剩餘流量。若方案每日有限額（如 1GB/天），可關閉背景應用程式更新。在機場連線時，避免串流高畫質影片，僅用於通訊和地圖。部分方案在流量用完後自動降速至
+        128 kbps，僅供訊息使用，可加購流量包。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 菲律賓 eSIM 用於 菲律賓 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Philippines eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Philippines, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Grab, Angkas, JoyRide use VoIP (internet calling) and in-app messaging.
-        Since you have active Philippines eSIM data, drivers can call or message you
-        directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Philippines eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Philippines eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in Philippines.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Philippines eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Philippines eSIM's data network while
-        on the train or in the car.
+    - q: 在馬尼拉搭乘 Grab 時，如何確保網路穩定以順利叫車？
+      a: 馬尼拉 Grab 叫車成功率取決於訊號強度；在 Makati 或 BGC 等商業區，Globe 網路穩定，叫車匹配時間約 30 秒。但在老城區（如王城區）建築密集處，訊號可能降至
+        10 Mbps，導致地圖延遲。建議站在開闊處叫車，並在車流量大時預留 10 分鐘等待時間。若 Grab 無回應，可嘗試使用 Angkas 機車服務。
+    - q: 在宿霧搭乘 Jeepney 時，使用 eSIM 查詢路線方便嗎？
+      a: Jeepney 路線複雜，建議透過 Google Maps 或 Sakay.ph 導航，這些 app 在宿霧市區使用 Globe 網路時載入順暢，速度約
+        20 Mbps。但 Jeepney 行駛中可能經過訊號較弱的區域（如山區），建議提前截圖路線。Globe 在主要幹道（Colon Street）覆蓋良好，但支線可能斷續。
+    - q: 從馬尼拉機場前往市區，使用 eSIM 導航的哪種方式最可靠？
+      a: 推薦使用 Waze，因為馬尼拉交通擁堵，Waze 提供即時路況。在 MNL 機場至 Makati 的 Skyway 路段，Globe 網路延遲低，導航準確。但尖峰時段（7-9
+        AM）網路可能因人口密集而降速，建議同時下載離線地圖（如 Google 離線地圖）。機場快捷（P2P 巴士）亦是選項。
+    - q: 在長灘島乘坐三輪車時，如何確認網路可用以支付車資？
+      a: 長灘島多數三輪車司機接受現金，但部分接受 GCash 支付。若使用 GCash，需確保 eSIM 訊號穩定，在白沙灘沿線 Globe 訊號強。付款時可能需開啟行動數據，交易時間約
+        2 秒。建議攜帶小額現金作為備用，因為偏遠路線訊號弱。
+    - q: 在菲律賓使用 eSIM 時，Grab 和 Angkas 哪個叫車成功率更高？
+      a: 在馬尼拉，Grab 普及率最高，但尖峰時段叫車難；Angkas 機車在短距離或擁堵路段更快，但需要安全帽。使用 Globe 網路時，兩者 app
+        反應速度類似。建議在機場或購物中心優先使用 Grab，因為 Angkas 司機可能無法進入特定區域。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 菲律賓 的飯店使用 菲律賓 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Philippines eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Philippines eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at The Peninsula Manila, Shangri-La at the Fort,
-        Marco Polo Ortigas Manila or a local guesthouse, you can input the address
-        into Google Maps and get turn-by-turn walking or transit directions using
-        your Philippines eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Philippines eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Philippines eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download GrabFood, Foodpanda, Honestbee and use
-        your Philippines eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Philippines eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 在馬尼拉半島酒店等五星級飯店，使用 eSIM 會比飯店 Wi-Fi 快嗎？
+      a: 馬尼拉半島酒店的免費 Wi-Fi 速度約 10-20 Mbps，但同一時間多人使用時可能降至 5 Mbps。我們的 eSIM 連接到 Globe
+        或 Smart 的 4G/5G 網路，在 Makati 區域速度可達 30-50 Mbps，且不受飯店頻寬限制，因此更穩定，適合視訊會議或串流。建議在房間內選擇靠近窗戶的位置以獲得最佳訊號。
+    - q: 在長灘島的度假村使用 eSIM，訊號是否會受天氣影響？
+      a: 長灘島的度假村如探索海岸，其建築多為開放式，Globe 訊號通常良好。但颱風季時，暴雨可能導致訊號短暫中斷數小時。Smart 在惡劣天氣下稍顯穩定。建議在房間內使用飯店
+        Wi-Fi 作為備用，我們的 eSIM 在晴天時速度約 20-30 Mbps，足夠分享社群媒體。
+    - q: 在宿霧的飯店內使用 eSIM 進行視訊通話，建議使用哪個運營商？
+      a: 在宿霧市區飯店（如瑞享酒店），Globe 和 Smart 表現接近，但 Smart 在建築深處（如電梯旁）訊號稍強。若進行 Zoom 會議，建議手動選擇
+        Smart 以降低延遲。一般情況下，下載速度約 25 Mbps，上傳 10 Mbps，足以進行 720p 視訊通話。
+    - q: 在巴拉望的度假村使用 eSIM，網路速度是否足夠觀看串流影片？
+      a: 巴拉望的度假村如阿曼普洛，由於位置偏遠，網速可能僅 5-10 Mbps，可觀看 360p 影片。Globe 在公主港較強，但離島訊號弱。建議預先下載影片。我們的
+        eSIM 在覆蓋區內提供基本連接，但高畫質串流可能需緩衝。
+    - q: 在馬尼拉飯店裡，如何避免 eSIM 訊號被飯店 Wi-Fi 干擾？
+      a: 若同時開啟 Wi-Fi 和行動數據，手機可能優先連接 Wi-Fi。建議在飯店內關閉 Wi-Fi，僅使用 eSIM。在馬卡蒂的飯店，Globe 的
+        5G 訊號穿透力強，不會受室內結構影響。每日使用超過 5GB 後可能降速，但速度仍高於一般飯店 Wi-Fi。
+    - q: 在長灘島的度假村，使用 eSIM 時是否容易遇到訊號死角？
+      a: 長灘島部分度假村（如香格里拉）位於山坡，客房可能出現訊號死角，尤其是建築物深處。Globe 在開放區域（如泳池旁）表現最佳。建議提前向飯店確認訊號覆蓋，或在度假村公共區域使用。若需穩定網路，可多利用飯店提供的
+        Wi-Fi。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 菲律賓 旅遊景點的網路：菲律賓 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Chocolate Hills, Puerto Princesa Subterranean River
-        National Park, El Nido spontaneously, you can use your Philippines eSIM data
-        to buy skip-the-line tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Philippines eSIM, you can read reviews and
-        book local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Philippines.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Philippines eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Philippines eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Philippines eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Philippines eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Philippines eSIM data to search 'restaurants near me' on Google
-        Maps to check ratings, opening hours, and photos of the menu before walking
-        in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Philippines eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Philippines eSIM ensures you
-        can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Philippines eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like GrabFood, Foodpanda, Honestbee, register
-        using your email or social accounts, and order food seamlessly using your
-        Philippines eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like GCash,
-        PayMaya, BDO Online Banking require a brief internet handshake, which your
-        Philippines eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Philippines eSIM to find hidden culinary gems in the city.
+    - q: 在馬尼拉王城區參觀時，使用 eSIM 查詢歷史資訊方便嗎？
+      a: 王城區是歷史遺址，石牆建築可能阻擋訊號，但在主要街道（如聖地亞哥堡附近）Globe 網路速度約 15-25 Mbps，足以載入網頁瀏覽介紹。建議使用
+        Google Lens 翻譯西班牙時期標誌，約需 10 Mbps。靠近城牆角落訊號會降至 5 Mbps，但文字載入無問題。
+    - q: 在長灘島白沙灘拍照上傳社群媒體，eSIM 速度足夠嗎？
+      a: 白沙灘沿線的 Globe 和 Smart 訊號強勁，上傳一張照片約 2-5 秒，速度約 20 Mbps。下午時段遊客增多，速度稍降至 15 Mbps，但上傳
+        Instagram 限時動態仍流暢。建議避開人潮密集的 Station 2 區域，Station 1 的訊號更穩定。若方案包含每日高速流量，可無壓迫使用。
+    - q: 在宿霧麥哲倫十字架景點，使用 eSIM 導航到附近餐廳容易嗎？
+      a: 麥哲倫十字架位於宿霧市區，附近有 Colon Street，Globe 網路下載速度約 20-30 Mbps，Google Maps 載入餐廳列表僅需
+        3 秒。建議搜尋「Cebu Lechon」餐廳，距離步行 10 分鐘。該區域人潮多，但訊號穩定。若使用 Waze，路線規劃準確。
+    - q: 在巴拉望地下河國家公園，使用 eSIM 有訊號嗎？可以打卡嗎？
+      a: 地下河國家公園位於森林內，訊號微弱，Globe 或 Smart 在園區入口處可能有 2-3 Mbps，僅夠傳送文字訊息。進入洞穴後完全無訊號，打卡需在入口處提前進行。建議在返回公主港後再上傳照片。我們的
+        eSIM 在公園內基本無法串流，只能發送簡短訊息。
+    - q: 在馬尼拉 SM 亞洲購物中心購物時，使用 eSIM 查詢商品價格流暢嗎？
+      a: SM 亞洲購物中心面積廣大，室內訊號良好，Globe 4G 速度約 25-40 Mbps，載入購物比價網站或使用 GCash 支付都很順暢。但美食街內人潮眾多時，速度可能降至
+        10-15 Mbps，仍足夠使用。建議避開週末下午尖峰時段以獲得更佳體驗。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 菲律賓 eSIM 在 菲律賓 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Philippines eSIM providing the internet, you can chat and call exactly as
-        you do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Philippines eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Philippines eSIM are clear and lag-free, no matter where you are
-        in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Philippines
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Philippines eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Philippines eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Philippines eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在馬尼拉使用 Instagram 限時動態，Globe 網路的上傳速度穩定嗎？
+      a: 在馬尼拉 BGC，Globe 上傳速度平均 10-15 Mbps，上傳 10 秒限動約需 5 秒。但晚上 7 點後，人潮聚集在酒吧區時，上傳速度可能降至
+        5 Mbps，導致緩衝。建議使用 Smart 網路作為備選，Smart 的上傳延遲更低。每日流量超過 5GB 後，上傳可能變慢，但訊息仍可發送。
+    - q: 在長灘島使用 TikTok 看影片，Smart 網路串流體驗如何？
+      a: 在長灘島白沙灘，Smart 的 4G 網路下載速度約 20-25 Mbps，觀看 1080p TikTok 影片非常流暢，幾乎無緩衝。但在島嶼北側（如
+        Puka Shell Beach）訊號較弱，速度約 10 Mbps，可能出現短暫加載。建議在人群較少的 Station 3 區域使用。傍晚時段網路負載較高，但
+        TikTok 仍可正常觀看。
+    - q: 在宿霧使用 Facebook Live 直播，哪個運營商的延遲最低？
+      a: 宿霧市區進行 Facebook Live 時，Smart 的延遲約 100-150 ms，較 Globe 的 200 ms 略低。在 IT 園區內，Smart
+        的上傳速度約 8-12 Mbps，足以進行 720p 直播。若直播地點在體育館（如宿霧體育中心），建議使用 Globe 的原生 IP，避免被限制。直播前可先測試速度。
+    - q: 在馬尼拉使用 Messenger 視訊通話，eSIM 的穩定性如何？
+      a: 在馬尼拉 Makati 使用 Globe 進行 Messenger 視訊通話，畫質穩定在 720p，偶爾因網路繁忙而短暫模糊。通話延遲約 200
+        ms，可接受。建議在室內靠近窗戶以獲得最佳訊號。若通話中斷，可手動切換到 Smart。每日超過 5GB 後，通話品質可能降為語音優先。
+    - q: 在長灘島使用 Line 傳送照片，eSIM 速度快嗎？
+      a: 在長灘島白沙灘，Globe 網路傳送一張 5MB 照片約需 3-5 秒，速度約 15-20 Mbps。但在島嶼東側（如 Bulabog 海灘）訊號稍弱，傳送時間延長至
+        10 秒。建議在訊號強的地方傳送高畫質照片。Line 圖片壓縮後更快速，適合日常分享。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 菲律賓 使用 菲律賓 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Philippines, you can dial local emergency numbers like 911 (Emergency),
-        112 (Mobile Emergency), 117 (Police) directly from your phone's dialer regardless
-        of your active SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Philippines eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Philippines eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Philippines eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Philippines eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Philippines eSIM, use
-        your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Philippines eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Philippines eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Philippines eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Philippines eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Philippines eSIM, you can rapidly upload
-        presentations or large documents to Google Drive or Dropbox directly from
-        the exhibition floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Philippines eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Philippines eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在菲律賓遇到緊急情況，如何使用 eSIM 撥打緊急電話？
+      a: 即使 eSIM 無餘額或訊號微弱，仍可撥打緊急號碼 911 或 117，因為菲律賓法律規定所有手機必須支援緊急呼叫。但需確保手機未設定飛航模式。在馬尼拉，撥打
+        911 後約 10 秒內接通。建議也儲存當地警察局或飯店電話作為備用。
+    - q: 在長灘島若發生事故，用 eSIM 聯繫救援的網路穩定性如何？
+      a: 長灘島的救援單位（如海岸巡防隊）主要透過無線電，但透過 eSIM 撥打 911 仍可轉接。白沙灘區域訊號強，通話清晰。在島嶼偏遠處（如丁尼文海灘）訊號可能中斷，建議在地圖上標記最近的救護站。我們的
+        eSIM 基本通話優先級較高，即使在擁堵時段也可接通。
+    - q: 在馬尼拉遺失護照時，使用 eSIM 上網查詢處理流程方便嗎？
+      a: 護照遺失後應立即前往移民局（BI）或臺北經濟文化辦事處（TECO）求助。在馬尼拉，利用 eSIM 搜尋 BI 地址（如馬尼拉市王城區）需約 2-3
+        MB 流量，載入網頁順暢。建議備份護照電子檔，以便透過 eSIM 傳送至郵箱。Globe 網路在此區域速度約 20 Mbps，足夠操作。
+    - q: 在宿霧遇到颱風警報時，eSIM 是否仍能接收天氣更新？
+      a: 颱風期間，基地台可能受損導致斷訊，但通常在風暴來臨前，Globe 或 Smart 會發送警報簡訊。我們的 eSIM 支援接收簡訊和低速數據，速度可能降至
+        1-2 Mbps，但文字資訊仍可傳送。建議在手機中開啟天氣 App 的通知，並下載離線天氣雷達圖。
+    - q: 在菲律賓山區健行時迷路，用 eSIM 的 GPS 定位準確嗎？
+      a: GPS 功能依賴衛星，與 eSIM 網路無關，因此即使無訊號也能定位。但若要傳送位置，需有網路。在菲律賓山區（如大雅台），Globe 訊號可能間歇，建議提前下載離線地圖。若迷路，可嘗試走到高處獲取訊號，再撥打
+        911。
+    - q: 在馬尼拉遭遇扒竊時，如何用 eSIM 快速報警？
+      a: 發現財物被扒後，保持冷靜，立即撥打 911 或前往最近的警察局。在馬尼拉王城區或馬卡蒂，警察局密集。使用 eSIM 通話時，請描述你的位置（如「靠近
+        Greenbelt 1」）。警察通常 10 分鐘內到達。也建議聯繫飯店禮賓部協助。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 菲律賓 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Philippines eSIM vs Prepaid SIM Card: Is It Worth Switching?"
-  subtitle: "Philippines Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Philippines) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Philippines"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Philippines eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Tourist SIMs are sold only at major international airports (e.g., Manila) and cannot be purchased or renewed via the official app; in-store purchase requires finding a kiosk and waiting 1-2 hours for activation."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport kiosk queues and 1-2 hour activation waits. Roami eSIM activates online within 1 minute after landing in Manila, no physical purchase needed."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Under the SIM Registration Act (RA 11934), activation requires online submission of passport (with entry stamp), return flight ticket, proof of address in the Philippines (e.g., hotel booking), and a live selfie with a camera device."
-      esim_title: "No Passport Required"
-      esim_desc: "Bypass the SIM Registration Act's mandatory passport, visa, and hotel proof upload. Roami eSIM requires zero personal identification, unlike Smart and Globe's strict KYC."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Smart's roaming pack (Smart Roam Surf) charges ₱999 for 1GB; Globe uses transparent proxy that recompresses images and may block certain VoIP protocols like SIP."
-      esim_title: "Global Roaming Freedom"
-      esim_desc: "Avoid Smart's ₱999/1GB roaming packs and Globe's transparent proxy that recompresses images. Roami eSIM offers multi-country plans with no traffic interception."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Smart and Globe's high-value plans (e.g., All Data 299 with 24GB, All Data 499 with 48GB) are locked to 30-day cycles; airport tourist SIMs start at ₱1,050 for 30 days, meaning a 5-7 day trip wastes at least 70% of the plan's lifecycle."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Smart's 30-day lock-in (₱299/24GB) wasting 70% for a 7-day trip, Roami offers 7-day plans starting from $1.99/GB, saving you from forced 30-day cycles."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Smart Bro Unlidata 599 restricts device type to phones or pocket WiFi and may throttle if hotspot abuse is detected; Globe's transparent proxy can intercept and compress tethered traffic."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Smart Bro Unlidata 599 restricts hotspot to phones only; Globe's proxy may compress tethered data. Roami eSIM allows full-speed hotspot on any device with no throttling."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up via app accepts international credit cards, but the SIM card is automatically deactivated if the tourist visa expires without extension, and all remaining balance is forfeited."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to risk forfeiting balance due to visa expiration, as with local SIMs."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support for prepaid users is typically available via phone or social media, but may be limited to local languages and business hours."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock English support via live chat or email. No need to navigate local-language phone lines or limited business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Philippines eSIM vs Physical SIM Card: Pros and Cons Breakdown"
-    cards:
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Multi-Network Coverage"
-        desc: "In Boracay, Smart dominates; in Baguio, Globe is stronger. Roami eSIM with multi-IMSI can switch between Smart and Globe networks, avoiding single-operator dead zones."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Globe's Transparent Proxy & Smart's Roaming Fees"
-        desc: "Globe's transparent proxy recompresses images and may block SIP VoIP; Smart's roaming pack costs ₱999/1GB. Roami eSIM provides uncensored, direct connectivity with no traffic manipulation."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Philippines' Strict SIM Passport Requirements"
-        desc: "Under RA 11934, Smart and Globe require passport, entry stamp, return flight, hotel booking, and a live selfie for activation. Roami eSIM activates instantly with zero ID upload."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Escape 30-Day Sunk Cost Traps"
-        desc: "Smart's All Data 299 (₱299/24GB) and Globe's GoSURF299 (₱299/2GB) are locked to 30-day cycles. A 7-day tourist wastes over 70% of the plan. Roami offers 7-day plans from $1.99/GB."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

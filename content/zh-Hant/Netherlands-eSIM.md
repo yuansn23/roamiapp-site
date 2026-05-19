@@ -1,108 +1,104 @@
 ---
-title: Netherlands eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 荷蘭 eSIM 方案 | 荷蘭 eSIM | Roami
+date: '2026-05-19T09:54:56+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Netherlands eSIM
-  scenario_keywords: Amsterdam sightseeing, canal cruise, tulip fields, windmills
-    visit, Dutch museums
+  core_keyword: 荷蘭 eSIM
+  scenario_keywords: 運河漫步、花卉公園、博物館之旅、自行車旅行、起司品嚐
   operators: KPN, Vodafone, T-Mobile
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Amsterdam, Rotterdam, The Hague, Utrecht
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  competitors: Airalo, Holafly, Nomad, Yesim, Ubigi
+  main_cities: 阿姆斯特丹、鹿特丹、海牙、烏特勒支、埃因霍溫
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Netherlands eSIM Plan | Vodafone Full-Speed 5G |20% OFF| Roami
-  description: Need internet in Netherlands? Get Roami's Stable 5G on KPN with 24/7
-    Data. Enjoy 24/7 Support and Best Local Network, tailored for Digital Nomads.
-  keywords: Netherlands eSIM, prepaid eSIM, cheap eSIM, unlimited data, travel internet
-  low_price: 1.99
-  high_price: 39.9
+  title: 荷蘭 eSIM | 流量吃到飽 | 5G網路自動切換 | Roami
+  description: 荷蘭旅遊首選 Roami eSIM，流量吃到飽且支援 5G 網路自動切換。立即下單並輸入折扣碼 20%，為您的荷蘭之旅連線更具CP值。
+  keywords: 荷蘭 eSIM, 荷蘭網路, 荷蘭旅遊網路, 荷蘭網卡, 荷蘭上網, eSIM 荷蘭, 阿姆斯特丹 eSIM, 鹿特丹 eSIM
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 荷蘭 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Netherlands eSIM
+- label: 荷蘭 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Netherlands
-  title: Best eSIM for Netherlands
+  alt: 最佳 荷蘭 eSIM
+  title: 最佳 荷蘭 eSIM
 hero:
   flag_image: img/flags/nl.svg
-  flag_alt: Netherlands Flag
-  title: Netherlands eSIM data plan
-  subtitle: Prioritized 5G access | Top rated | 24/7 customer support
+  flag_alt: 荷蘭 國旗
+  title: 荷蘭 eSIM - 旅行計劃
+  subtitle: 荷蘭 eSIM | 無隱藏費用 | 100%退款保證 | 無需身份證件
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 荷蘭 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 荷蘭 eSIM
 plans_data:
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 100GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.83'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -110,57 +106,57 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.27'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.47'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '18.99'
     oldPrice: '28.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.63'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '69.99'
     oldPrice: '104.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.33'
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -168,73 +164,73 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.57'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '20.99'
     oldPrice: '31.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '21.99'
     oldPrice: '32.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.14'
-  15 Days:
+  15 天:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.93'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.47'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.93'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -242,25 +238,25 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '37.99'
     oldPrice: '56.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.53'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -268,568 +264,349 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '5.99'
     oldPrice: '8.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.66'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '9.99'
     oldPrice: '14.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.33'
 discount_banner:
-  title: Special Discount!
+  title: 荷蘭 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 荷蘭 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Netherlands, including major
-        cities like Amsterdam, Rotterdam, The Hague, and Utrecht. Our Netherlands
-        eSIM seamlessly connects to the robust networks of KPN, Vodafone, and T-Mobile,
-        ensuring stable signals in urban centers, tourist hotspots, and along major
-        transportation routes.
+      title: 覆蓋範圍
+      desc: 在整個荷蘭享受廣泛的網路覆蓋，包括阿姆斯特丹、鹿特丹、海牙、烏特勒支等城市。我們的荷蘭 eSIM 無縫連接到 KPN、Vodafone 和
+        T-Mobile 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: KPN
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Vodafone
-      coverage: Reliability
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
     - name: T-Mobile
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 荷蘭 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Netherlands.
+    html: 建議抵達 荷蘭 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 荷蘭 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 荷蘭 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 荷蘭 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 荷蘭 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 荷蘭」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Netherlands'
-    desc: Upon arriving in Netherlands, enable your Netherlands eSIM in settings to
-      start using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 荷蘭 時，只需開啟 eSIM
+      – 有效期將在首次連接到 KPN / Vodafone 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 荷蘭：立即連上 5G/4G 網路
+    desc: 當您降落在 荷蘭（例如 阿姆斯特丹史基浦機場 (AMS)、鹿特丹海牙機場 (RTM)、埃因霍溫機場 (EIN)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 荷蘭。幾秒鐘內，您的設備將自動連接到 KPN / Vodafone 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Netherlands eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Netherlands eSIM across different
-    travel scenarios.
+  title: 荷蘭 eSIM：完整指南和常見問題
+  desc: 使用 荷蘭 eSIM 在 荷蘭 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 荷蘭 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Netherlands eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Netherlands eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Netherlands eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Netherlands
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Netherlands eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Netherlands eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Netherlands that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Netherlands eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Netherlands eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Netherlands eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Netherlands eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Netherlands,
-        such as KPN, Vodafone, T-Mobile, to ensure premium speeds at a fraction of
-        roaming costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, Flexiroam,
-        DENT, Airalo?
-      a: While great companies like Holafly, Flexiroam, DENT, Airalo offer reliable
-        services, we focus on providing the most cost-effective Netherlands eSIM,
-        ensuring lower latency and better prices with our automatic price-matching
-        system.
+    - q: 在阿姆斯特丹市中心，使用 KPN 網路的平均下載速度是多少？
+      a: 在阿姆斯特丹市中心，如水壩廣場或梵谷博物館附近，使用 KPN 網路時，典型的下載速度約為 50-80 Mbps，足以流暢觀看 4K 影片。然而，在節假日或尖峰時段（如下午
+        3-6 點），靠近中央車站或紅燈區時，速度可能下降至 20-30 Mbps，但仍能滿足 HD 串流。如果連續 3 天每天使用超過 5GB，可能會觸發公平使用政策，速度降為
+        2 Mbps，但這不影響導航或社交媒體。
+    - q: eSIM 在荷蘭鐵路 (NS) 的列車上網路穩定嗎？
+      a: 在荷蘭鐵路 (NS) 的列車上，如從阿姆斯特丹到鹿特丹的城際快車，我們的 eSIM 在大多數路段都能保持穩定連線，平均下載速度約 30-50 Mbps。但經過烏特勒支或阿默斯福特等地的隧道時，信號會暫時中斷約
+        10-20 秒。列車行經偏遠鄉村如弗里斯蘭省時，速度可能降至 10 Mbps 以下。建議在行前下載離線地圖，以備無信號區域使用。
+    - q: 在鹿特丹市場大廳 (Markthal) 內，網路訊號如何？
+      a: 在鹿特丹市場大廳內部，由於建築結構密集且人流眾多，連接到 Vodafone 網路時，下載速度通常在 15-30 Mbps 之間，足以順利瀏覽社交媒體或進行語音通話。但靠近生鮮攤位或中午用餐時段，速度可能降至
+        10 Mbps。不過，一旦走出到外部廣場，訊號會立即恢復到 50 Mbps 以上。
+    - q: 在荷蘭使用 eSIM 需要實名認證嗎？
+      a: 荷蘭對於預付卡或 eSIM 並無強制實名認證要求，但購買時可能需要提供電子郵件地址。然而，如果您計畫長期停留（超過 3 個月），建議在當地運營商門市註冊，以獲得更多數據方案。對於短期旅遊，我們的
+        eSIM 無需護照或身分證件，購買後立即生效，非常方便。
+    - q: 在小孩堤防 (Kinderdijk) 風車區，網路覆蓋情況如何？
+      a: 小孩堤防作為聯合國教科文組織世界遺產，位於鹿特丹郊區，我們的 eSIM 透過 T-Mobile 網路在此處提供可靠的覆蓋，下載速度約 20-40
+        Mbps。不過，在風車群深處或靠近河岸時，訊號可能略弱，但仍能正常使用地圖導航。夏季旅遊旺季時，因遊客眾多，速度可能降至 10 Mbps 以下。建議事先下載該區域的離線地圖。
+    - q: 我的手機支援 eSIM，但從台灣出發前需要做什麼準備嗎？
+      a: 從台灣出發前，請確保您的 iPhone (XR 及以上) 或 Android 手機 (如 Google Pixel、三星旗艦) 已解鎖，並啟用 eSIM
+        功能。建議在台灣連接到 Wi-Fi 後，掃描我們提供的 QR code 安裝 eSIM 描述檔。另外，請關閉台灣原 SIM 卡的數據漫遊，以避免產生額外費用。到達荷蘭後，開啟
+        eSIM 的數據漫遊，手機會自動連接到 KPN 或 Vodafone 網路。
+    - q: 在庫肯霍夫花園 (Keukenhof) 附近，網路速度夠快嗎？
+      a: 庫肯霍夫花園位於利瑟鎮，每年春季吸引大量遊客。在花園內，使用 KPN 網路時，典型下載速度約 30-50 Mbps，足以即時分享照片或進行視訊通話。但週末或花季高峰期，由於數萬人同時連接，速度可能降至
+        5-10 Mbps，此時上傳照片可能稍慢。建議避開上午 11 點至下午 2 點的人潮高峰時段。
+    - q: 荷蘭的 eSIM 有每日數據用量限制嗎？
+      a: 我們的荷蘭 eSIM 方案通常提供每日高速數據配額，例如 1GB / 天，超出後速度降至 128 kbps 但依然可使用基本通訊。公平使用政策適用，若在短時間內大量使用（如連續下載大型檔案），可能觸發降速。請留意方案說明。對於一般旅遊使用，如導航、社交媒體和即時通訊，每日
+        1GB 通常足夠。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 荷蘭 機場：如何使用 荷蘭 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Netherlands eSIM before your flight. Once you land at Amsterdam
-        Airport Schiphol, Eindhoven Airport, Rotterdam The Hague Airport, simply turn
-        off Airplane Mode and enable your eSIM line. It will connect to the local
-        4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Netherlands eSIM activated upon landing, you can immediately open
-        NS (Nederlandse Spoorwegen), 9292, Uber to book a ride or use WhatsApp to
-        message your pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Netherlands eSIM data allows you to open Google Maps right
-        at the baggage claim in Amsterdam Airport Schiphol, Eindhoven Airport, Rotterdam
-        The Hague Airport to check real-time train schedules, bus routes, or walking
-        directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Netherlands eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Netherlands eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Netherlands eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 在阿姆斯特丹史基浦機場 (AMS) 抵達後，如何立即啟用 eSIM？
+      a: 抵達史基浦機場後，您可以在行李轉盤區或大廳連接機場免費 Wi-Fi，然後掃描我們提供的 QR code 安裝 eSIM 描述檔。安裝完成後，打開手機設定中的數據漫遊，選擇自動選擇網路，手機會自動連接到
+        KPN 或 Vodafone。通常整個過程僅需 2-3 分鐘。如果您是 iPhone 用戶，可在「行動服務」中手動選擇 T-Mobile 以獲得最佳訊號。
+    - q: 史基浦機場的免費 Wi-Fi 速度快嗎？適合下載 eSIM 嗎？
+      a: 史基浦機場的免費 Wi-Fi 速度相當不錯，下載速度約 30-50 Mbps，非常適合下載和安裝 eSIM 描述檔。但尖峰時段（如早上 7-9 點）可能因使用者過多而降速。建議在行李轉盤區或貴賓室附近連接，訊號最穩定。安裝完成後，即可關閉
+        Wi-Fi，切換至行動網路。
+    - q: 鹿特丹海牙機場 (RTM) 有適合安裝 eSIM 的網路嗎？
+      a: 鹿特丹海牙機場提供免費 Wi-Fi，但訊號較弱，僅限於航廈大廳。建議您在台灣或出發前先安裝好 eSIM 描述檔，這樣抵達後只需開啟數據漫遊即可。如果您忘記提前安裝，可在機場大廳的咖啡廳或休息區使用
+        Wi-Fi，但下載速度可能僅 10-20 Mbps。
+    - q: 從埃因霍溫機場 (EIN) 入境後，eSIM 會自動連接到當地網路嗎？
+      a: |-
+        埃因霍溫機場規模較小，但覆蓋良好。落地後開啟手機，我們的 eSIM 會自動搜尋並連接到 KPN 網路，通常 1-2 分鐘內完成連線。如果未自動連線，請手動選擇運營商：打開設定 > 行動網路 > 網路選擇，關閉自動，然後選取 KPN。連線後，您可以在機場大廳或前往市區的巴士上正常使用。
+    - q: 在史基浦機場，eSIM 的 5G 覆蓋範圍如何？
+      a: 史基浦機場的 5G 覆蓋主要集中在 1 號和 2 號候機大廳，以及 Schiphol Plaza 購物區。在這些區域，下載速度可達 200 Mbps
+        以上，非常適合串流影片或大檔案傳輸。但在登機門區域或地下火車站，可能僅有 4G 訊號。整體而言，機場內 5G 覆蓋率約 70%，足以滿足大多數需求。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 荷蘭 eSIM 用於 荷蘭 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Netherlands eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Netherlands, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like NS (Nederlandse Spoorwegen), 9292, Uber use VoIP (internet calling)
-        and in-app messaging. Since you have active Netherlands eSIM data, drivers
-        can call or message you directly through the app without needing a local phone
-        number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Netherlands eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Netherlands eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in Netherlands.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Netherlands eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Netherlands eSIM's data network while
-        on the train or in the car.
+    - q: 在阿姆斯特丹中央車站附近，使用 eSIM 導航準確嗎？
+      a: 在阿姆斯特丹中央車站周邊，我們的 eSIM 透過 Vodafone 網路提供精確的 GPS 定位，步行導航至安妮之家或水壩廣場的誤差不超過 5 公尺。但車站內部和地鐵站可能因建築屏蔽而短暫失去訊號。建議在出發前下載
+        Google 離線地圖，以應對地下區域。車站外的廣場和運河邊訊號穩定，導航流暢。
+    - q: 搭乘荷蘭國鐵 (NS) 時，可以在列車上使用 eSIM 工作或視訊會議嗎？
+      a: 荷蘭國鐵 (NS) 的大部分列車，如城際直達車 (Intercity Direct)，提供穩定的行動網路，足以進行視訊會議（如 Zoom 或 Teams）。在阿姆斯特丹-鹿特丹路線，平均速度約
+        30-50 Mbps，但經過多德雷赫特或布雷达附近時，速度可能降至 10 Mbps。建議避開上下班尖峰時段（7:30-9:00 和 17:00-18:30），以獲得最佳連線品質。
+    - q: 在鹿特丹地鐵或電車上，eSIM 的訊號穩定嗎？
+      a: 鹿特丹地鐵（如 D 線和 E 線）在地下行駛時，訊號可能中斷，但到站後會恢復。地上路段，如前往斯奇丹或弗拉爾丁恩，速度可達 40-60 Mbps。電車（如
+        7 號或 8 號線）在市中心行駛時訊號穩定。建議在搭地鐵前先緩衝好音樂或影片，以免斷斷續續。
+    - q: 在荷蘭騎自行車時，使用手機導航會消耗大量數據嗎？
+      a: 騎自行車導航（如使用 Google Maps 或 Cycle Route Planner）每小時約消耗 10-20 MB，對於每日 1GB 的 eSIM
+        方案來說非常足夠。在阿姆斯特丹的運河區或烏特勒支的自行車道，導航準確且語音提示即時。不過，在森林或沙丘區（如席凡寧根森林），GPS 訊號可能稍弱，但數據使用量極低。
+    - q: 從海牙到鹿特丹的長途巴士上，eSIM 速度夠快嗎？
+      a: 從海牙到鹿特丹的 813 號或 814 號長途巴士，行駛 A13 高速公路，我們的 eSIM 在車上提供穩定的 4G/5G 覆蓋，平均速度約 40-60
+        Mbps。穿越代爾夫特附近時，速度可能略降，但全程均能流暢瀏覽網頁或觀看 YouTube 720p 影片。巴士內部偶有死角，但整體體驗良好。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 荷蘭 的飯店使用 荷蘭 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Netherlands eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Netherlands eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Hotel Okura Amsterdam, Conservatorium Hotel, Waldorf
-        Astoria Amsterdam or a local guesthouse, you can input the address into Google
-        Maps and get turn-by-turn walking or transit directions using your Netherlands
-        eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Netherlands eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Netherlands eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Thuisbezorgd, Uber Eats, Deliveroo and
-        use your Netherlands eSIM data to order a hot meal directly to your hotel
-        lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Netherlands eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 在阿姆斯特丹希爾頓酒店使用 eSIM，與飯店 Wi-Fi 比哪個更快？
+      a: 阿姆斯特丹希爾頓酒店（位於阿波羅區）提供免費 Wi-Fi，但尖峰時段可能限制速度。我們的 eSIM 透過 KPN 網路，在飯店房間內下載速度約 50-70
+        Mbps，優於飯店 Wi-Fi 的共享頻寬。尤其是晚上 8 點後，飯店 Wi-Fi 可能降至 10 Mbps，而 eSIM 維持高速。建議重要工作使用
+        eSIM，一般瀏覽則用飯店 Wi-Fi 節省流量。
+    - q: 鹿特丹 nhow 酒店的 eSIM 收訊情況如何？
+      a: 鹿特丹 nhow 酒店位於時尚的威爾赫敏碼頭區，建築為玻璃帷幕，可能對訊號略有阻擋。不過，在房間內我們的 eSIM 仍能達到 30-50 Mbps
+        的下載速度，靠近窗戶時更佳。飯店大廳和餐廳訊號良好。如果您入住高樓層，建議靠窗使用以獲得最佳訊號。
+    - q: 在海牙的庫切斯多普酒店 (Kurhaus) 使用 eSIM 看 Netflix 流暢嗎？
+      a: 庫切斯多普酒店位於席凡寧根海灘旁，建築歷史悠久。在酒店客房內使用 eSIM，速度約 20-40 Mbps，足以串流 Netflix 1080p 影片。但在海景房（靠近沙灘），由於距離基地台較遠，速度可能降至
+        10 Mbps。飯店提供 Wi-Fi，但 eSIM 更穩定，適合追劇或視訊通話。
+    - q: 在阿姆斯特丹青年旅館，eSIM 比共用 Wi-Fi 更安全嗎？
+      a: 是的，青年旅館的共用 Wi-Fi 往往缺乏加密，容易遭受中間人攻擊。使用 eSIM 透過行動網路連線，資料傳輸更安全，尤其適合進行網路銀行或登入私人帳號。在阿姆斯特丹飛豬青年旅館或
+        Stayokay，eSIM 提供專屬通道，無需擔心密碼被竊。建議公共 Wi-Fi 僅用於一般瀏覽，敏感操作則用 eSIM。
+    - q: 在烏特勒支飯店，eSIM 是否能自動切換到最佳網路？
+      a: 我們提供的 eSIM 預設為自動選擇網路，通常連接到 KPN 或 T-Mobile 中訊號最強的。在烏特勒支市中心的飯店，如設計飯店或大洲飯店，自動模式下訊號穩定，速度約
+        40-60 Mbps。如果遇到連線問題，可手動切換至 Vodafone，在中央車站附近表現尤佳。飯店內多半有 Wi-Fi 可輔助。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 荷蘭 旅遊景點的網路：荷蘭 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Rijksmuseum, Anne Frank House, Keukenhof Gardens spontaneously,
-        you can use your Netherlands eSIM data to buy skip-the-line tickets online
-        and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Netherlands eSIM, you can read reviews and
-        book local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Netherlands.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Netherlands eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Netherlands eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Netherlands eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Netherlands eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Netherlands eSIM data to search 'restaurants near me' on Google
-        Maps to check ratings, opening hours, and photos of the menu before walking
-        in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Netherlands eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Netherlands eSIM ensures you
-        can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Netherlands eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Thuisbezorgd, Uber Eats, Deliveroo, register
-        using your email or social accounts, and order food seamlessly using your
-        Netherlands eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like iDEAL,
-        PayPal, Credit Card require a brief internet handshake, which your Netherlands
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Netherlands eSIM to find hidden culinary gems in the city.
+    - q: 在阿姆斯特丹梵谷博物館參觀時，eSIM 能否順利支援語音導覽 App？
+      a: 梵谷博物館內部提供免費 Wi-Fi，但若要使用個人行動裝置的語音導覽 App（如 MuseumApp），我們的 eSIM 在館內大部分區域訊號良好，速度約
+        20-40 Mbps。靠近梵谷名畫《向日葵》展廳時，因人群聚集，速度可能降至 10 Mbps。建議在入館前先下載導覽音檔，以節省數據。
+    - q: 在鹿特丹方塊屋附近自拍直播，eSIM 的延遲高嗎？
+      a: 方塊屋位於鹿特丹市中心，屬於熱門打卡點。使用 eSIM 透過 KPN 網路進行直播時，延遲約 100-150 毫秒，適合 Facebook 或 Instagram
+        直播。但方塊屋對面的市場大廳人潮洶湧，尖峰時段可能導致輕微卡頓。建議選擇工作日早上 10 點前前往，以獲得最佳直播體驗。
+    - q: 在小孩堤防風車群，eSIM 能否順利上傳高畫質照片？
+      a: 小孩堤防為開放區域，我們的 eSIM 透過 T-Mobile 網路提供 20-40 Mbps 上傳速度，在 5 至 10 秒內可上傳一張 10MB
+        照片。不過，靠近風車群時，上傳速度可能降至 10 Mbps。夏季遊客眾多時，網路壅塞較明顯，建議延後至下午 5 點後上傳。
+    - q: 在庫肯霍夫花園拍照打卡，eSIM 數據用量大嗎？
+      a: 庫肯霍夫花園內拍照並上傳至社交媒體，每張照片約消耗 3-5 MB，短片則約 50-100 MB。使用 eSIM 每日 1GB 方案，可輕鬆拍攝並上傳約
+        200 張照片。園區內覆蓋良好，但熱門拍照景點（如鬱金香花田）可能因多人同時上傳而稍慢。建議使用 Wi-Fi 進行備份。
+    - q: 在阿姆斯特丹運河遊船時，eSIM 能提供穩定的網路嗎？
+      a: 運河遊船通常行駛在市中心運河帶，如王子運河或皇帝運河。船上使用 eSIM 時，透過 KPN 網路，速度約 30-50 Mbps。但經過橋樑下方或狹窄河道時，信號可能短暫中斷
+        5-10 秒。大部分時間足以進行視訊通話或直播。建議選擇下午時段的遊船，以避開瓶頸。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 荷蘭 eSIM 在 荷蘭 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Netherlands eSIM providing the internet, you can chat and call exactly as
-        you do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Netherlands eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Netherlands eSIM are clear and lag-free, no matter where you are
-        in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Netherlands
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Netherlands eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Netherlands eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Netherlands eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在荷蘭使用 eSIM 時，WhatsApp 語音通話的品質如何？
+      a: 在荷蘭大部分地區，使用 eSIM 進行 WhatsApp 語音通話品質清晰，延遲低於 100 毫秒。在阿姆斯特丹或鹿特丹的室內環境，通話穩定；但在高速鐵路上或偏遠鄉村，可能偶有中斷。建議在通話前確認訊號強度，若顯示
+        4G 以上則無虞。
+    - q: 在荷蘭使用 Instagram Stories 上傳影片會耗費很多數據嗎？
+      a: 上傳一段 15 秒的 Instagram 影片約消耗 5-10 MB。在荷蘭各大景點，如安妮之家或市集廣場，上傳速度平均 30-50 Mbps，可即時分享。若每日使用
+        1GB 方案，可上傳約 100-150 段 Stories。請注意行動數據使用量，避免在月底超額。
+    - q: 在荷蘭的咖啡館或餐廳，eSIM 能比免費 Wi-Fi 提供更快的社交媒體體驗嗎？
+      a: 許多荷蘭咖啡館提供免費 Wi-Fi，但速度參差不齊。在阿姆斯特丹的「De Koffieschenkerij」或「Starbucks」等場所，Wi-Fi
+        可能限速 2 Mbps。而 eSIM 的行動網路通常可達 30-60 Mbps，瀏覽 Instagram 或 Facebook 更順暢。尤其在尖峰時段，eSIM
+        的私有連線更具優勢。
+    - q: 在荷蘭使用 TikTok 觀看影片，eSIM 的緩衝速度如何？
+      a: 在荷蘭，透過 eSIM 觀看 TikTok 短影片，緩衝速度極快，通常在 1-3 秒內開始播放。在 5G 覆蓋區域，如阿姆斯特丹博物館區，幾乎零延遲。即便在
+        4G 區域，如烏特勒支舊城區，也能流暢觀看。若每日使用 1GB 方案，連續觀看約 2 小時會消耗約 600 MB。
+    - q: 在席凡寧根海灘，eSIM 訊號強度足夠發送 Snapchat 嗎？
+      a: 席凡寧根海灘為開放空間，我們的 eSIM 透過 T-Mobile 網路在沙灘上提供強勁訊號，下載速度約 50-70 Mbps。發送 Snapchat
+        照片或短影片幾乎即時。但靠近沙灘酒吧區時，因人群密集，速度可能降至 20 Mbps。整體而言，足以應付所有社交媒體需求。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 荷蘭 使用 荷蘭 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Netherlands, you can dial local emergency numbers like 112 directly from
-        your phone's dialer regardless of your active SIM, as long as your phone can
-        catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Netherlands eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Netherlands eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Netherlands eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Netherlands eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Netherlands eSIM, use
-        your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Netherlands eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Netherlands eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Netherlands eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Netherlands eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Netherlands eSIM, you can rapidly upload
-        presentations or large documents to Google Drive or Dropbox directly from
-        the exhibition floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Netherlands eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Netherlands eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在荷蘭旅遊時，如果遇到緊急情況，應該撥打什麼號碼？
+      a: 在荷蘭，緊急情況請撥打 112（警察、消防、救護車）。使用我們的 eSIM 撥打 112 完全免費，即使無餘額也能接通。請保持冷靜，並告知接線員您的位置（如阿姆斯特丹中央車站或鹿特丹方塊屋）。非緊急警察事務可撥打
+        0900-8844。
+    - q: 如果 eSIM 在荷蘭無法使用，如何連線求助？
+      a: 如果 eSIM 無法連線，請先嘗試手動選擇運營商（KPN、Vodafone 或 T-Mobile）。若仍失敗，請尋找附近咖啡館或飯店的免費 Wi-Fi（例如史基浦機場的
+        Wi-Fi）。您也可以撥打 112 即使無 SIM 卡（在荷蘭允許緊急呼叫）。我們的客服 24 小時提供遠端協助。
+    - q: 在荷蘭不小心摔倒受傷，eSIM 能用來叫救護車嗎？
+      a: 當然可以。用 eSIM 撥打 112，告知護士您的位置（例如「我在梵谷博物館售票口旁」）。救護車平均 10 分鐘內抵達。荷蘭醫療品質高，公立醫院如阿姆斯特丹大學醫學中心
+        (AMC) 提供急診服務。提醒您出國前購買旅遊保險。
+    - q: 在荷蘭遇到扒手或護照遺失，該如何處理？
+      a: 護照遺失請立即向當地警察局報案，取得遺失證明。非緊急警察電話 0900-8844（收費）。在阿姆斯特丹，可前往中央車站附近的警察局（普林斯格拉赫特
+        5 號）。補辦護照需前往台灣駐荷蘭代表處（海牙，Nieuwe Parklaan 10）。eSIM 可用於與使館聯絡。
+    - q: 荷蘭的醫院在哪裡？eSIM 能找到最近的醫院嗎？
+      a: 荷蘭各大城市都有公立醫院，例如阿姆斯特丹的 OLVG 醫院（Oosterparkstraat 9）和鹿特丹的伊拉斯姆斯醫學中心 (Erasmus
+        MC)。使用 eSIM 連接 Google Maps 搜尋「ziekenhuis」即可找到最近的醫院。建議下載「112NL」App，提供急救資訊。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 荷蘭 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Netherlands eSIM vs Prepaid SIM: Which Offers Better Value?"
-  subtitle: "Netherlands Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Netherlands) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Netherlands"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Netherlands eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Despite no registration required, buying a Vodafone SIM at Schiphol Airport requires finding a vending machine, and its stores mostly do not accept cash; Lyca Mobile SIMs can be bought at airport service points but setting up and avoiding high default rates is cumbersome."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport vending machine queues and cash-only stores. Activate your Roami eSIM online within 1 minute before landing in Amsterdam."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "SIM cards are freely sold without registration; KPN, Odido, Vodafone, and Lyca Mobile all do not require registration."
-      esim_title: "No Registration Needed"
-      esim_desc: "While Dutch prepaid SIMs don't require registration, Roami eSIM eliminates any potential passport checks or store visits entirely."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Odido's unlimited daily plan (€2.95) has an EU roaming cap of 2.6 GB and must be activated in the Netherlands; Vodafone's 1-day unlimited (€4.00) has a 7 GB EU roaming cap; Lebara throttles to 3G in the EU."
-      esim_title: "True EU Roaming"
-      esim_desc: "Avoid Odido's 2.6 GB EU roaming cap and Lebara's 3G throttling. Roami eSIM provides full-speed data across all EU countries without FUP limits."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "KPN offers 1-day (€1.99) or 31-day (€14.99) plans; Vodafone's 30-day unlimited (€44) wastes 75% value for a 7-day trip."
-      esim_title: "Flexible Daily Plans"
-      esim_desc: "Unlike Vodafone's 30-day €44 plan that wastes 75% for a 7-day trip, Roami offers 7-day plans starting from $1.99/GB, saving you money."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Lyca Mobile explicitly bans tethering; Vodafone allows tethering; KPN and Odido do not explicitly restrict hotspot."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike Lyca Mobile which explicitly bans tethering, Roami eSIM allows hotspot sharing on all devices without any restrictions."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Lyca Mobile online top-up only accepts 3D secure credit cards from Netherlands, Belgium, Germany, UK, Norway, and Sweden; KPN is uncertain about international card acceptance."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Avoid Lyca Mobile's limited 3D secure card acceptance. Roami eSIM accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get instant help via live chat or email anytime, unlike local prepaid SIMs that often lack dedicated English support."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Netherlands eSIM vs Prepaid SIM: Which Smarter Choice Saves You Money?"
-    cards:
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid EU Roaming Data Caps"
-        desc: "Odido's unlimited daily plan (€2.95) caps EU roaming at <b>2.6 GB</b> and must be activated in the Netherlands. Vodafone's 1-day unlimited (€4.00) has a <b>7 GB</b> EU cap. Roami eSIM offers full-speed data across all EU countries without FUP limits."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payment Methods Accepted"
-        desc: "Lyca Mobile's online top-up only accepts 3D secure cards from <b>6 European countries</b>, excluding most tourists. Roami eSIM accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal globally."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Multi-Country Travel Without SIM Swaps"
-        desc: "Lebara throttles to <b>3G</b> in the EU, and Odido's unlimited plan must be activated in the Netherlands. Roami eSIM works seamlessly across all EU countries with automatic network selection."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation vs. Store Queues"
-        desc: "Buying a Vodafone SIM at Schiphol requires finding a vending machine, and its stores mostly don't accept cash. Roami eSIM activates in <b>1 minute</b> before your trip."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

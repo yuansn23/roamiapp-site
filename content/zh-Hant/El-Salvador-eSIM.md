@@ -1,95 +1,89 @@
 ---
-title: El Salvador eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 薩爾瓦多 eSIM 方案 | 薩爾瓦多 eSIM | Roami
+date: '2026-05-19T10:11:08+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: El Salvador eSIM
-  scenario_keywords: Surfing at El Tunco, Exploring Mayan ruins, Hiking Santa Ana
-    Volcano, City sightseeing in San Salvador, Beach relaxation
+  core_keyword: 薩爾瓦多 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食
   operators: Tigo, Claro, Movistar
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: San Salvador, Santa Ana, San Miguel, Usulután, Sonsonate
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  competitors: Airalo, Holafly, Nomad, GigSky, WorldSIM
+  main_cities: 聖薩爾瓦多, 聖米格爾, 聖安娜, 拉利伯塔德, 松索納特
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Best El Salvador eSIM | Worry-Free Data & Stable 5G | Roami
-  description: Explore El Salvador with ease. Stay connected via Top Local Carrier
-    Fast 5G with No Roaming Shock. Enjoy Instant QR Setup and Multi-Country Roaming,
-    tailored for Family Vacations.
-  keywords: El Salvador eSIM, travel internet, instant delivery, no roaming charges,
-    QR code activation
-  low_price: 1.99
-  high_price: 39.9
+  title: 薩爾瓦多 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
+  description: 薩爾瓦多旅遊必備 Roami eSIM，暢享最佳 5G 高速網路。立即選購並輸入折扣碼 20%，獲取您的旅遊網卡優惠，連線品質更有保障。
+  keywords: 薩爾瓦多 eSIM, 薩爾瓦多網路覆蓋, 薩爾瓦多旅遊, 聖薩爾瓦多, 聖米格爾, Tigo, Claro, Movistar, 薩爾瓦多景點
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 薩爾瓦多 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: El Salvador eSIM
+- label: 薩爾瓦多 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for El Salvador
-  title: Best eSIM for El Salvador
+  alt: 最佳 薩爾瓦多 eSIM
+  title: 最佳 薩爾瓦多 eSIM
 hero:
   flag_image: img/flags/sv.svg
-  flag_alt: El Salvador Flag
-  title: El Salvador eSIM data plan
-  subtitle: Automatic network selection | Instant delivery | 24/7 customer support
+  flag_alt: 薩爾瓦多 國旗
+  title: 薩爾瓦多 eSIM - 旅行計劃
+  subtitle: 薩爾瓦多 eSIM | 支援熱點分享 | 無隱藏費用 | 高速5G網路
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 薩爾瓦多 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 薩爾瓦多 eSIM
 plans_data:
-  3 Days:
+  3 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '49.99'
     oldPrice: '74.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '16.66'
-  7 Days:
+  7 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '23.99'
     oldPrice: '35.98'
     tag: ''
@@ -97,25 +91,25 @@ plans_data:
     daily: '3.43'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '34.99'
     oldPrice: '52.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '5.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '84.99'
     oldPrice: '127.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '12.14'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '25.99'
     oldPrice: '38.98'
     tag: ''
@@ -123,25 +117,25 @@ plans_data:
     daily: '1.73'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '37.99'
     oldPrice: '56.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '64.99'
     oldPrice: '97.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '4.33'
-  30 Days:
+  30 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '26.99'
     oldPrice: '40.48'
     tag: ''
@@ -149,585 +143,387 @@ plans_data:
     daily: '0.90'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '39.99'
     oldPrice: '59.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '74.99'
     oldPrice: '112.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.50'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '124.99'
     oldPrice: '187.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '4.17'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '165.99'
     oldPrice: '248.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '5.53'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
 discount_banner:
-  title: Special Discount!
+  title: 薩爾瓦多 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 薩爾瓦多 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across El Salvador, including major
-        cities like San Salvador, Santa Ana, and San Miguel. Our El Salvador eSIM
-        seamlessly connects to the robust networks of Tigo, Claro, and Movistar, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個薩爾瓦多享受廣泛的網路覆蓋，包括聖薩爾瓦多、聖米格爾、聖安娜、拉利伯塔德等城市。我們的薩爾瓦多 eSIM 無縫連接到 Tigo、Claro
+        和 Movistar 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Tigo
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Claro
-      coverage: Reliability
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
     - name: Movistar
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 廣泛覆蓋
+      network: 4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 薩爾瓦多 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in El Salvador.
+    html: 建議抵達 薩爾瓦多 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 薩爾瓦多 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 薩爾瓦多 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 薩爾瓦多 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 薩爾瓦多 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 薩爾瓦多」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in El Salvador'
-    desc: Upon arriving in El Salvador, enable your El Salvador eSIM in settings to
-      start using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 薩爾瓦多 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Tigo / Claro 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 薩爾瓦多：立即連上 5G/4G 網路
+    desc: 當您降落在 薩爾瓦多（例如 聖薩爾瓦多國際機場 (SAL), 聖米格爾機場 (未啟用商用), 科隆機場 (小型)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 薩爾瓦多。幾秒鐘內，您的設備將自動連接到 Tigo / Claro 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: El Salvador eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your El Salvador eSIM across different
-    travel scenarios.
+  title: 薩爾瓦多 eSIM：完整指南和常見問題
+  desc: 使用 薩爾瓦多 eSIM 在 薩爾瓦多 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 薩爾瓦多 eSIM 的常見問題
     questions:
-    - q: Does my phone support the El Salvador eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your El Salvador eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the El Salvador eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in El Salvador
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the El Salvador eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the El Salvador eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in El Salvador that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your El Salvador eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my El Salvador eSIM data (hotspot) with other devices?
-      a: Absolutely. All our El Salvador eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your El Salvador eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in El Salvador,
-        such as Tigo, Claro, Movistar, to ensure premium speeds at a fraction of roaming
-        costs.
-    - q: How do you compare with well-known eSIM providers like Yesim, Airalo, GigSky,
-        Holafly?
-      a: While great companies like Yesim, Airalo, GigSky, Holafly offer reliable
-        services, we focus on providing the most cost-effective El Salvador eSIM,
-        ensuring lower latency and better prices with our automatic price-matching
-        system.
+    - q: 在聖薩爾瓦多市中心連接 Tigo 網路的實際速度如何？可以順暢觀看 4K 影片嗎？
+      a: 在聖薩爾瓦多市中心（如格蘭大道周邊或國家宮附近）連接 Tigo 網路時，一般可觀察到下載速度在 30-50 Mbps 之間，足以無緩衝觀看 4K
+        YouTube 影片。但尖峰時段（12:00-14:00 或 18:00-20:00）在 Metrocentro 購物中心附近由於用戶密集，速度可能降至
+        10-20 Mbps，此時 4K 可能稍有延遲，建議切換至 1080p 以獲得流暢體驗。若每日數據使用超過 3 GB，可能觸發公平使用政策，速度會降至約
+        2 Mbps，但仍可滿足通訊和社群媒體瀏覽。在室內場所如咖啡廳或飯店大廳，訊號強度通常維持在 3-4 格，影響不大。
+    - q: 在聖米格爾使用 Claro 網路，是否有覆蓋死角？前往埃爾卡門海灘時訊號穩定嗎？
+      a: 聖米格爾市區的 Claro 網路覆蓋相當完善，主要街道和廣場（如中央公園）都能穩定連線。但前往偏遠海灘如埃爾卡門（El Carmen）時，靠近海岸線的區域可能出現訊號微弱或間歇性斷線的情況，尤其是在樹林或低窪處。建議提前下載離線地圖，並隨身攜帶當地支援的備用方案（如
+        Tigo SIM 卡）。從聖米格爾市區出發，沿 CA-12 公路行駛時，前半段覆蓋良好，但進入未鋪裝路段後訊號會減弱。
+    - q: 從聖安娜國際機場（實際上無此機場，指鄰近）抵達後，如何快速啟用 eSIM？需要當地註冊嗎？
+      a: 薩爾瓦多並無名為「聖安娜國際機場」的機場，常見入境點為聖薩爾瓦多國際機場（SAL）。抵達後，購買的 eSIM 即自動啟用，無需額外註冊。但若使用支援實名制規定的當地電信方案（例如長期預付卡），可能需要出示護照進行身分登記，而旅遊
+        eSIM 一般免除此步驟。開通後，手機會自動搜尋 Tigo 或 Claro 網路，若未顯示連線，請手動選擇運營商。建議在抵達前安裝好 eSIM 設定檔，並確保手機已解鎖。
+    - q: 在拉利伯塔德（La Libertad）衝浪勝地，Movistar 網路夠用來直播嗎？
+      a: 拉利伯塔德的海灘區（如 El Tunco 和 El Sunzal）是熱門衝浪點，連接到 Movistar 網路時，平均下載速度約 15-25 Mbps，上傳速度約
+        5-10 Mbps，足以進行 720p 的 Facebook 或 Instagram 直播。但尖峰週末時段，由於大量遊客湧入，網路壅塞可能導致直播延遲或中斷，建議避開下午
+        15:00-18:00 人潮最多的時間。若需要穩定直播，可考慮早上時段或靠近鎮上的咖啡店（訊號較強）。海灘直接連線有時會因基地台距離較遠而波動，使用強化天線裝置可改善。
+    - q: 在松索納特（Sonsonate）市區使用中華民國漫遊或當地 eSIM，哪個比較划算？
+      a: 松索納特市區的網路覆蓋以 Tigo 和 Claro 為主，中華民國漫遊通常以每日固定費用計算（例如 NT$199/天），但若停留超過三天，購買當地
+        eSIM（如 5GB/30天方案約 10 美元）更為經濟。漫遊會受到原電信業者的限制，可能無法使用 5G 網路，而當地 eSIM 可直接連接 Tigo
+        的 5G（覆蓋市中心）。此外，eSIM 支援熱點分享，可與同行者共用；漫遊則可能限制分享功能。在松索納特的 Mercado 區，兩種服務均穩定，但
+        eSIM 的延遲略低於漫遊。
+    - q: 在聖薩爾瓦多歷史中心使用 eSIM 時，遇到網路斷線該如何排除？
+      a: 聖薩爾瓦多歷史中心（如國家皇宮附近）建築密集，偶有訊號死角。若遇斷線，首先檢查手機飛航模式是否開啟或關閉再開啟以重新搜尋網路。若問題持續，手動選擇運營商（Tigo
+        通常訊號最穩）或切換至 Claro。部分老舊建築（如大教堂內部）可能會阻擋訊號，建議移動至戶外廣場。如果軟重啟無效，可嘗試重置網路設定，但請注意此舉會清除
+        WiFi 密碼。若仍無法連線，可能是 eSIM 設定檔未正確安裝，建議聯絡客服提供 QR Code 重裝。
+    - q: 使用 eSIM 撥打當地電話是否方便？還是應購買傳統 SIM 卡？
+      a: eSIM 方案通常僅限數據服務，不支援語音通話或簡訊。若需撥打當地電話（如預訂餐廳或聯絡旅館），建議使用網路電話 App（如 Skype、WhatsApp
+        通話）搭配 eSIM 數據。若頻繁需要當地門號，可考慮購買實體預付卡（例如 Tigo 的 5 美元方案含通話分鐘），並搭配 eSIM 作為主要上網來源。實體卡可在機場或
+        Metrocentro 的電信門市取得，需出示護照登記。多數情況下，透過即時通訊軟體即可滿足溝通需求，因此純數據 eSIM 對短期旅客已足夠。
+    - q: 在查爾特南戈（Chalatenango）山區，哪家運營商的覆蓋最好？eSIM 能使用嗎？
+      a: 查爾特南戈省山區地勢較高，運營商覆蓋以 Tigo 為最佳，尤其城鎮中心如一區（Caserío El Limón）附近訊號穩定，4G 下載速度約 15-20
+        Mbps。Claro 在部分山谷地帶可能收不到訊號，而 Movistar 覆蓋較差。eSIM 可正常連接 Tigo 網路，建議使用支援 4G B4/B7
+        頻段的手機以獲得較佳收訊。偏遠徒步路線如塞羅埃爾皮塔爾（Cerro El Pital）附近可能完全無訊號，請提前下載離線地圖。若計畫在山區停留多日，可備妥實體
+        Tigo SIM 卡作為備援。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 薩爾瓦多 機場：如何使用 薩爾瓦多 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the El Salvador eSIM before your flight. Once you land at Monseñor
-        Óscar Arnulfo Romero y Galdámez International Airport, Ilopango International
-        Airport, El Salvador International Airport, simply turn off Airplane Mode
-        and enable your eSIM line. It will connect to the local 4G/5G network within
-        seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your El Salvador eSIM activated upon landing, you can immediately open
-        Uber, InDriver, Beat to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed El Salvador eSIM data allows you to open Google Maps right
-        at the baggage claim in Monseñor Óscar Arnulfo Romero y Galdámez International
-        Airport, Ilopango International Airport, El Salvador International Airport
-        to check real-time train schedules, bus routes, or walking directions to the
-        taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our El Salvador eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our El Salvador eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast El Salvador eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 從聖薩爾瓦多國際機場 (SAL) 入境後，哪裡可以快速購買實體 SIM 卡？營業時間為何？
+      a: 抵達大廳出關後，右手邊即可看到 Tigo、Claro 和 Movistar 的官方門市，標示明顯。營業時間通常為每日 06:00 至 22:00，與航班時間配合。門市人員會協助開通方案，需要出示護照進行登記。5
+        美元的預付卡包含 2GB 數據及少量通話分鐘，適合短期旅客。若抵達時間較晚，機場內的便利商店也有販售儲值卡，但需自行至 App 啟用。強烈建議在機場內完成購買，因為市區門市可能較難找。
+    - q: 機場有免費 WiFi 嗎？連線品質如何？
+      a: 聖薩爾瓦多國際機場提供免費 WiFi，名為「Aeropuerto_SAL_Free」，無需密碼即可連線。下載速度約 5-10 Mbps，足以收發訊息和查看地圖，但觀看影片可能會有緩衝。連線穩定度中等，尖峰時段在行李轉盤區可能較慢。建議先使用
+        WiFi 完成叫車 App 的確認，但盡快購買當地網路以確保全天候連線。某些區域（如登機門候機室）訊號較佳。
+    - q: 在機場轉機或過夜，是否有電信商提供短時數方案？
+      a: 薩爾瓦多機場的電信門市主要針對入境旅客，較少提供短時數方案（如 2 小時）。但 Tigo 和 Claro 均有日拋式方案（1 天 1GB，約 3
+        美元），非常適合過夜轉機旅客。這些方案在購買後立即生效，24 小時內有效。若只是短暫停留，也可使用機場免費 WiFi。需注意，部分預付卡需啟用後才計時，購買時可詢問店員。機場內無須註冊即可購買
+        eSIM，但實體卡仍需護照。
+    - q: 從機場到市區的交通 App（如 Uber）是否可使用機場網路叫車？
+      a: 機場免費 WiFi 可以讓您下載並使用 Uber 或 InDriver，但建議叫車後確認司機位置時，若網路不穩可能錯過訊息。因此，最佳做法是先在機場購買
+        eSIM 或實體卡，確保即時通訊。Uber 在機場有專屬上車區，位於出境大廳外的停車場，跟著指示牌步行約 3 分鐘即可。請注意，司機可能會加收機場服務費，約
+        1-2 美元。建議備妥零錢，或使用信用卡支付。
+    - q: 機場內是否有手機充電站？可以適用 eSIM 啟用後的設定嗎？
+      a: 聖薩爾瓦多國際機場的候機區和餐飲區設有付費充電站（如 GOF Charger），提供 USB 和傳統插座，使用信用卡付款。免費插座在部分座位旁，但數量有限。eSIM
+        啟用設定（如掃描 QR Code）可在機場內進行，建議使用免費 WiFi 下載設定檔後即完成安裝。若手機電量不足，可優先使用充電站或自備行動電源。啟用過程通常只需
+        2-3 分鐘。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 薩爾瓦多 eSIM 用於 薩爾瓦多 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable El Salvador eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in El Salvador, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, InDriver, Beat use VoIP (internet calling) and in-app messaging.
-        Since you have active El Salvador eSIM data, drivers can call or message you
-        directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your El Salvador eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your El Salvador eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in El Salvador.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our El Salvador eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your El Salvador eSIM's data network while
-        on the train or in the car.
+    - q: Uber 在聖薩爾瓦多合法嗎？叫車後通常需要等待多久？
+      a: Uber 在薩爾瓦多合法營運，廣泛使用於聖薩爾瓦多及主要城市。尖峰時刻（上下班時段）在 Metrocentro 或市區等候時間約 5-10 分鐘，平日離峰時段則約
+        3-5 分鐘。費用相對低廉，例如從機場到市區約 25-35 美元（含機場附加費）。司機普遍友善，車況良好。建議確認車牌後上車，並開啟 App 內的行程分享以確保安全。部分司機接受比特幣或現金。
+    - q: 從聖米格爾到聖薩爾瓦多有哪些大眾運輸選擇？車程多久？
+      a: 最常見的方式是搭乘長途巴士，從聖米格爾的「東部巴士總站」（Terminal de Oriente）出發，直達聖薩爾瓦多的「西部巴士總站」（Terminal
+        de Occidente），車程約 2.5 至 3 小時，票價約 5-7 美元。巴士公司包括 TUPESA 和 COSAM，有空調，班次密集（每 15-30
+        分鐘一班）。也可選擇共乘計程車或 InDriver 跨城，費用約 40-60 美元，時間縮短至 2 小時。另有多個共享巴士服務（如 Pollo Campero
+        路線），但需提前預訂。
+    - q: 在聖薩爾瓦多市區，Moovit App 是否能準確提供公車路線資訊？
+      a: Moovit 在聖薩爾瓦多整合了主要公車路線（如 R1、R2 路線），但即時到站資訊可能不完整，因為公車沒有 GPS 定位。建議結合 Google
+        Maps 綜合使用。公車票價固定為 0.35 美元（可用現金或交通卡），但路線複雜且無詳細站牌，因此對外國旅客較具挑戰性。較推薦使用 Uber 或計程車，尤其夜間。若想體驗本地生活，可詢問當地人或使用
+        Moovit 規劃大致方向。
+    - q: 從太陽海岸海灘到聖薩爾瓦多市區，最便利的交通方式為何？
+      a: 太陽海岸（Costa del Sol）距離聖薩爾瓦多約 1 小時車程，最便利的方式是自駕或叫 Uber（費用約 30-40 美元）。也可在聖薩爾瓦多的「南部巴士站」搭乘直達海灘的巴士，班次較少（每
+        2 小時一班），票價約 3 美元。Uber 司機不一定願意前往偏遠海灘，建議先確認司機是否接單。返回時，海灘區域可能 Ube r稀少，可請飯店協助叫車。如果時間充裕，合乘
+        InDriver 也是經濟選擇。
+    - q: 聖薩爾瓦多地鐵（SITRAMSS）對遊客好用嗎？如何購票？
+      a: SITRAMSS 是聖薩爾瓦多的快速公車系統（BRT），路線涵蓋主要幹道（如 Alameda Roosevelt），但路線數量有限，對遊客較不直達觀光景點。單程票價
+        0.35 美元，需購買儲值卡（TUC卡），可在車站服務窗口購買並加值。車廂有空調且安全，但尖峰時段擁擠。建議僅作為補充工具，主要還是依賴 Uber。車站設有保安，相對安全。請注意，部分路線僅營運至晚間
+        9 點。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 薩爾瓦多 的飯店使用 薩爾瓦多 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your El Salvador eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your El Salvador eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Hilton San Salvador, InterContinental San Salvador,
-        Real InterContinental San Salvador or a local guesthouse, you can input the
-        address into Google Maps and get turn-by-turn walking or transit directions
-        using your El Salvador eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your El Salvador eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed El Salvador eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download PedidosYa, Hugo, Rappi and use your
-        El Salvador eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your El Salvador eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 在聖薩爾瓦多希爾頓飯店，房間內 WiFi 速度如何？是否需要使用 eSIM 作為備援？
+      a: 聖薩爾瓦多希爾頓飯店提供免費 WiFi，測速約 10-20 Mbps，足以進行視訊會議或串流影片，但尖峰時間可能變慢。建議攜帶 eSIM 作為備援，尤其在大廳或泳池區訊號較弱時。飯店位置優越，位於商業區，周邊餐廳和購物中心步行可達。若需穩定工作連線，可考慮升級至商務樓層，網路優先權較高。備用插座充裕，適合多設備充電。
+    - q: 入住聖米格爾凱悅酒店時，附近有哪些推薦的用餐地點？步行範圍內有超市嗎？
+      a: 聖米格爾凱悅酒店位於市中心，步行 5 分鐘即可抵達 Metrocentro 購物中心，內有多間餐廳（如 Pollo Campero、Pizza Hut）及超市（Super
+        Selectos）。傳統美食可至街角的「La Poderosa」品嚐 pupusas，價格實惠。飯店本身有自助餐廳，但價格較高。附近晚間治安尚可，建議結伴出行。另有多個咖啡店（如
+        Barista）適合輕食。
+    - q: 在拉利伯塔德的度假村，網路訊號是否足夠支援遠端工作？
+      a: 拉利伯塔德的多數度假村（如 El Tesoro Beach Hotel）提供 WiFi，但連線品質取決於入住率。離峰期間速度約 10 Mbps，週末可能降至
+        3-5 Mbps，建議自備 eSIM 作為主要網路。使用 Tigo 4G 訊號，在飯店房間內通常穩定。若需進行視訊會議，可選擇早晨時段，避開下午遊客使用高峰。部分度假村設有商務中心，有線網路較可靠。最好提前與飯店確認網路規格。
+    - q: 在聖薩爾瓦多市區，有哪些平價但網路穩定的青年旅館或民宿？
+      a: 聖薩爾瓦多的「Hostal Cielo」和「Pupuseria y Hostal」提供約 15-20 美元/晚的床位，免費 WiFi 速度約 5-10
+        Mbps，足以瀏覽網頁。較推薦使用 eSIM 以確保穩定性。青年旅館通常位於殖民區（如 San Jacinto），步行可至景點。預訂前可查看近期評論關於網路的描述。背包客棧多設有交誼廳，適合結識旅伴。若需安靜工作，可尋找附咖啡廳的旅館。
+    - q: 在聖安娜的飯店，是否容易購買到電信儲值卡或延長 eSIM 數據？
+      a: 聖安娜市區的電信門市（如 Tigo 和 Claro）分布於主要街道，步行 10 分鐘內可到達。儲值卡可在 Super Selectos 超市或便利商店購買，但需注意啟用方法。eSIM
+        可透過 App 立即加值，無需實體卡片。飯店櫃檯有時可協助購買 Tigo 儲值卡，但可能加收服務費。建議在市區一次購買較多數據，避免頻繁補貨。
+    - q: 入住飯店時，櫃檯是否提供手機備用網路（如分享器）？費用如何？
+      a: 部分高階飯店（如聖薩爾瓦多希爾頓）可租借行動分享器，每日約 10-15 美元，但普及度不高。多數飯店僅提供 WiFi，建議自備 eSIM 或實體分享器。機場也有租賃服務（如
+        Huawei WiFi），但價格較高（每日 8 美元）。最經濟的做法是購買大流量 eSIM 方案並開啟熱點分享，供多台設備使用。飯店商務中心通常有電腦可免費使用網路。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 薩爾瓦多 旅遊景點的網路：薩爾瓦多 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Joya de Cerén, Tazumal, El Boquerón National Park
-        spontaneously, you can use your El Salvador eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your El Salvador eSIM, you can read reviews and
-        book local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring El Salvador.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your El Salvador eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your El Salvador eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your El Salvador eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast El Salvador eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your El Salvador eSIM data to search 'restaurants near me' on Google
-        Maps to check ratings, opening hours, and photos of the menu before walking
-        in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your El Salvador eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your El Salvador eSIM ensures you
-        can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your El Salvador eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like PedidosYa, Hugo, Rappi, register using your
-        email or social accounts, and order food seamlessly using your El Salvador
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Bitcoin,
-        Tigo Money, Nequi require a brief internet handshake, which your El Salvador
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your El Salvador eSIM to find hidden culinary gems in the city.
+    - q: 參觀聖薩爾瓦多大教堂時，附近有推薦的咖啡店或休息點嗎？
+      a: 聖薩爾瓦多大教堂位於中央廣場（Plaza Gerardo Barrios），周邊有多家咖啡店，如「Cafe La Reina」提供傳統薩爾瓦多咖啡，步行僅
+        2 分鐘。廣場上有石凳可供休息，但午間陽光強烈，建議攜帶帽子。大教堂內禁止飲食，可先在外用餐。附近也有小販售賣椰子水和街頭小吃，價格親民。教堂內部免費參觀，但攝影需徵求同意。
+    - q: 國家皇宮（Palacio Nacional）的導覽需要事先預約嗎？門票費用多少？
+      a: 國家皇宮位於聖薩爾瓦多歷史中心，提供免費導覽，但建議提前在官方網站或現場預約時段，尤其假日。門票約 3 美元，包含英語或西班牙語解說。建築內部的壁畫和歷史陳列值得細看，導覽約
+        45 分鐘。可拍照但禁用閃光燈。開放時間為週二至週日 09:00-17:00，週一休館。附近有咖啡店「Museo de la Palabra」可歇腳。
+    - q: 太陽海岸（Costa del Sol）海灘適合進行哪些水上活動？有租借設備的店家嗎？
+      a: 太陽海岸是薩爾瓦多熱門海灘，適合游泳、沙灘排球和划獨木舟。衝浪條件中等，初學者可在岸邊練習。海灘沿線有多家小店出租沙灘椅、遮陽傘和獨木舟，價格約
+        5-15 美元/小時。附近餐廳可代訂帆船體驗，費用約 30 美元/人。請注意離岸流，並在指定區域游泳。週末人潮較多，建議平日前往。停車場收費約 3
+        美元。
+    - q: 在聖米格爾的中央公園（Parque Central）周邊，有哪些必訪的歷史建築？
+      a: 聖米格爾中央公園周邊有聖米格爾大教堂（Catedral de San Miguel），建於 18 世紀，外觀宏偉；公園內有涼亭和銅像，適合散步。步行
+        5 分鐘可達「Casa de la Cultura」，展示當地藝術與歷史，入場免費。附近市場（Mercado Central）可購買手工藝品和紀念品，但需注意扒手。建議清晨或傍晚造訪，避開正午高溫。
+    - q: 從聖薩爾瓦多出發，如何安排一日遊造訪霍亞德塞倫（Joya de Cerén）考古遺址？
+      a: 霍亞德塞倫（瑪雅遺址）位於聖薩爾瓦多西北約 40 公里，最方便的自駕方式經 CA-1 公路，車程約 50 分鐘。也可搭乘前往 Opico 的巴士，再轉乘計程車，共約
+        2 小時。門票 10 美元，包含導覽。建議早上出發避開人潮，並攜帶飲水。遺址內有遮陽棚，但整體曝曬度高。回程可在聖胡安奧皮科（San Juan Opico）品嚐當地午餐。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 薩爾瓦多 eSIM 在 薩爾瓦多 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        El Salvador eSIM providing the internet, you can chat and call exactly as
-        you do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G El Salvador eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the El Salvador eSIM are clear and lag-free, no matter where you are
-        in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal El Salvador
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your El Salvador eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country El Salvador eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your El Salvador eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在薩爾瓦多使用 WhatsApp 是否普遍？商店和餐廳常用嗎？
+      a: WhatsApp 在薩爾瓦多是主要的即時通訊工具，幾乎所有商店、餐廳和旅館都用它來確認訂單或提供客服。導入 eSIM 後可隨時保持連線，無需當地門號。許多店家會張貼
+        WhatsApp 號碼供顧客聯繫。建議提前下載並設定好，常用於預訂計程車或外送食物。語音通話品質依賴網路，使用 4G 通常清晰。
+    - q: 在聖薩爾瓦多，哪裡可以找到免費的公共 WiFi 熱點？能否信任安全性？
+      a: 聖薩爾瓦多市政府在中央廣場、國家皇宮前和 Metrocentro 購物中心提供免費 WiFi，名為「SanSalvador_Gratis」。但公共
+        WiFi 不安全，建議避免進行銀行交易或輸入密碼。使用 VPN 可提升安全性。飯店和咖啡店的 WiFi 相對可靠，但仍建議預設連線為開放網路。盡量使用
+        eSIM 的私人網路處理敏感資訊。
+    - q: 我可以使用 eSIM 數據觀看薩爾瓦多當地的 Netflix 內容嗎？有版權限制嗎？
+      a: 可以，透過 eSIM 連接當地網路後，Netflix 會根據 IP 判斷地理位置，可能顯示薩爾瓦多本地內容庫。部分區域限制（如特定劇集）可能因授權而無法觀看，但多數原創內容可暢看。建議事先下載內容再旅行，避免串流消耗過多數據。4G
+        下觀看 HD 每小時約用 1GB 數據，請留意方案流量。
+    - q: 在薩爾瓦多用手機拍照後，想立即備份到雲端，哪個 App 較受歡迎？
+      a: Google 相簿（Google Photos）在薩爾瓦多廣泛使用，提供 15GB 免費空間，且自動備份功能便利。iCloud 和 Dropbox
+        也有用戶，但 Google 相簿因整合度高較受歡迎。建議在有 WiFi 環境下備份，或使用 eSIM 大流量方案。請注意，上傳大量照片可能耗盡數據，建議壓縮畫質或僅備份重要照片。
+    - q: 當地年輕人常用的社群媒體 App 是什麼？除了 Facebook 還有哪些？
+      a: Facebook 仍是薩爾瓦多最主流的社群平台，但 Instagram 和 TikTok 在年輕族群中急速增長。許多商家透過 Instagram
+        推廣，而 TikTok 則用於娛樂。WhatsApp 也常被用來分享動態。若想融入當地文化，可追蹤本地網紅（如「Salvadoran Traveler」）。這些
+        App 在 eSIM 網路下都能順暢使用。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 薩爾瓦多 使用 薩爾瓦多 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In El Salvador, you can dial local emergency numbers like 911, 112, 119 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your El Salvador eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your El Salvador eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your El Salvador eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        El Salvador eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your El Salvador eSIM, use
-        your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our El Salvador eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the El Salvador eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your El Salvador eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your El Salvador eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your El Salvador eSIM, you can rapidly upload
-        presentations or large documents to Google Drive or Dropbox directly from
-        the exhibition floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your El Salvador eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your El Salvador eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在薩爾瓦多遇到緊急情況時，如何撥打 911？是否需要額外收費？
+      a: 撥打 911 完全免費，無論是使用漫遊、eSIM 還是當地 SIM 卡，可直接撥號。接通後會轉接至警察、救護車或消防單位。接線員多數會說西班牙語，部分可能說英語。建議事先學習簡單西班牙語求助詞彙（如「Ayuda」）。撥打時請保持冷靜並提供所在位置（可參考附近商店招牌）。
+    - q: 在聖薩爾瓦多市區遺失錢包或護照，應如何處理？
+      a: 首先撥打 911 報警並索取報案證明（很重要），然後前往所在轄區的警察局（如「Delegación de la PNC」）補辦。若是遺失護照，需至所在國大使館或領事館（例如中華民國駐薩爾瓦多大使館）申請臨時旅行證件，建議事先備份護照影本。熱門地區（如
+        Zona Rosa）遊客較多，但依賴當地網路指南。信用卡遺失則立即聯繫發卡銀行掛失。
+    - q: eSIM 在訊號不佳時無法連網，應如何聯絡救援或親友？
+      a: 若 eSIM 斷線，可嘗試尋找公共 WiFi（如咖啡店或旅館），或請路人協助。可在手機離線狀態下撥打 112（國際緊急號碼），即使無 SIM 卡也能接通。事先儲存親友及駐地使館的離線聯絡資訊。另外，可購買備用實體預付卡（如
+        Tigo 的 10 美元方案），以備不時之需。
+    - q: 在拉利伯塔德海灘發生溺水事件，應聯繫哪個單位？電話號碼為何？
+      a: 立即撥打 911 請求救護車，同時通知海灘的專業救護站（如有）。拉利伯塔德海灘常設有紅十字會據點，也可撥打 132（紅十字會）。若不諳水性，請留在淺水區。救護車到達時間約
+        15-30 分鐘，視位置而定。海灘區域有部分海警巡邏，可大聲呼救。
+    - q: 在聖薩爾瓦多遇到地震時，手機網路是否還能使用？應如何避難？
+      a: 地震發生時，基地台可能因損毀或大量用戶湧入而癱瘓，但多數情況下通話比數據優先可行。可嘗試傳送簡訊或使用 WhatsApp 降低頻寬需求，避免佔線。避難時應躲至堅固桌下或內牆邊，遠離窗戶。預先下載離線地震警報
+        App（如 Earthquake Alert）。若撤離至指定避難所（如學校體育館），注意收聽廣播或手機資訊。
+    - q: 若在聖薩爾瓦多需要醫療協助，除了 911 還有哪些醫院可以聯繫？
+      a: 可聯繫私立醫院如「Hospital de la Mujer」和「Hospital Multimedica」（均位在 Escalón 區），提供 24
+        小時急診，收費約 50-100 美元初診費。公立醫院（如 Hospital Nacional Saldaña）免費但候診時間長。建議購買旅遊保險，並備妥保單號碼。叫車可用
+        Uber 前往，但緊急情況仍優先叫救護車（911）。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 薩爾瓦多 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "El-Salvador eSIM vs Prepaid SIM: Cost and Convenience Compared"
-  subtitle: "El Salvador Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (El-Salvador) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/El-Salvador"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami El-Salvador eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "All physical SIMs require visiting a store, presenting a passport, and waiting for activation; airport kiosks may charge higher prices."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Claro or Tigo store queues. Activate online within 1 minute after landing in San Salvador."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All physical SIMs require presenting a passport (Bring your passport) and waiting for store activation."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid presenting your passport and waiting for store activation. Roami eSIM activates instantly without ID checks."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Movistar offers a US/Canada roaming option but charges an extra $5/day, with speeds throttled to 128kbps after 300MB daily."
-      esim_title: "Global Roaming Without Extra Fees"
-      esim_desc: "Unlike Movistar's $5/day roaming with 300MB cap, Roami offers seamless coverage across Central America at flat rates."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Tigo's plans auto-renew; a $10/5GB/30-day plan forces a 7-day tourist to waste over 70% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Tigo's 30-day auto-renew plans ($10/5GB), Roami offers 7-day plans starting from $1.99/GB, saving over 70% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Tigo's free WhatsApp is text-only and explicitly blocks VoIP calls; hotspot policies are not clearly stated but likely restricted."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike Tigo which blocks VoIP on free WhatsApp, Roami allows full hotspot and VoIP usage without restrictions."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Claro's online recharge portal requires a local bank card; foreign cards are often rejected."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local bank cards like Claro requires."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get instant help via chat or email, unlike local operators with limited hours and Spanish-only support."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "El-Salvador eSIM vs Prepaid SIM: Which One Is Right for You?"
-    cards:
-      - icon: "shield"
-        icon_bg: "bg-yellow-100"
-        icon_color: "text-yellow-600"
-        title: "No Hidden Taxes or Fees"
-        desc: "Local SIM prices exclude <b>5% telecom tax (CESC)</b>. Roami prices are all-inclusive with no surprises."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Movistar's $5/Day Roaming Trap"
-        desc: "Movistar's 'Sin Fronteras' roaming charges <b>$5/day</b> in US/Canada and throttles to <b>128kbps after 300MB</b>. Roami offers flat-rate regional plans without daily fees."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Multi-Country Coverage"
-        desc: "Local SIMs are single-country; Movistar's roaming is costly. Roami provides coverage across Central America without switching SIMs."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass El Salvador's Strict SIM Passport Requirements"
-        desc: "All local SIMs (Claro, Tigo, Movistar, Digicel) require <b>presenting your passport</b> in-store and waiting for activation. Roami eSIM activates instantly online with no ID needed."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

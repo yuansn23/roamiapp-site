@@ -42,7 +42,7 @@ disableKinds = ["taxonomy", "term"]
     # 导航栏文案
     nav_links = [
       { name = "Home", url = "/" },
-      { name = "Plans", url = "/plans/" },
+      { name = "Buy eSIM", url = "/plans/" },
       { name = "eSIM Compatibility", url = "/compatibility/" },
      { name = "Free eSIM", url = "/free-esim/" },
       { name = "Roami APP", url = "/app/" },
@@ -105,7 +105,7 @@ disableKinds = ["taxonomy", "term"]
   # 导航栏文案
   nav_links = [
     { name = "Startseite", url = "/" },
-    { name = "Tarife", url = "/plans/" },
+    { name = "eSIM kaufen", url = "/plans/" },
     { name = "eSIM-Kompatibilität", url = "/compatibility/" },
     { name = "Kostenlose eSIM", url = "/free-esim/" },
     { name = "Roami APP", url = "/app/" },
@@ -156,13 +156,13 @@ disableKinds = ["taxonomy", "term"]
     [languages.ru]
     languageName = "Русский"
     contentDir = "content/ru"  #  сообщаем Hugo, что русский контент в этой папке
-    weight = 1
+    weight = 3
     
  [languages.ru.params]
     # Текст навигационной панели
     nav_links = [
       { name = "Главная", url = "/" },
-      { name = "Тарифы", url = "/plans/" },
+      { name = "Купить eSIM", url = "/plans/" },
       { name = "совместимость", url = "/compatibility/" },
      { name = "Бесплатная", url = "/free-esim/" },
       { name = "Приложение", url = "/app/" },
@@ -217,12 +217,12 @@ disableKinds = ["taxonomy", "term"]
 [languages.fr]
 languageName = "Français"
 contentDir = "content/fr" 
-weight = 2
+weight = 4
 
 [languages.fr.params]
 nav_links = [
   { name = "Accueil", url = "/" },
-  { name = "Forfaits", url = "/plans/" },
+  { name = "Acheter eSIM", url = "/plans/" },
   { name = "Compatibilité eSIM", url = "/compatibility/" },
   { name = "eSIM gratuite", url = "/free-esim/" },
   { name = "App Roami", url = "/app/" },
@@ -262,3 +262,59 @@ modal_title = "Avis important"
 modal_cancel = "Annuler"
 modal_confirm = "Aller maintenant"
 
+# 繁体中文配置（使用 zh-Hant）
+[languages.zh-hant]
+languageName = "繁體中文" 
+contentDir = "content/zh-hant"
+weight = 5
+
+[languages.zh-hant.params]
+    # 導覽列文案
+    nav_links = [
+      { name = "首頁", url = "/" },
+      { name = "購買eSIM", url = "/plans/" },
+      { name = "eSIM 相容性", url = "/compatibility/" },
+      { name = "免費 eSIM", url = "/free-esim/" },
+      { name = "Roami App", url = "/app/" },
+      { name = "常見問題", url = "/faq/" }
+    ]
+
+    # 頁尾文案
+    footer_desc = "我們在 200+ 個國家與地區提供優質 eSIM 服務，讓您無論旅行到何處都能保持連線。"
+
+    footer_col1_title = "熱門目的地"
+    footer_col1_links = [
+	  { name = "日本 eSIM", url = "/japan-esim/" },
+      { name = "韓國 eSIM", url = "/south-korea-esim/" },
+      { name = "泰國 eSIM", url = "/thailand-esim/" },
+      { name = "越南 eSIM", url = "/vietnam-esim/" },
+      { name = "歐洲 eSIM", url = "/europe-esim/" },
+      { name = "美國 eSIM", url = "/united-states-esim/" },
+      { name = "中國 eSIM", url = "/china-esim/" },
+      { name = "香港 eSIM", url = "/hong-kong-esim/" }
+    ]
+
+    footer_col2_title = "客戶支援"
+    footer_col2_links = [
+      { name = "常見問題", url = "/faq/" },
+      { name = "eSIM 相容性", url = "/compatibility/" },
+      { name = "下載 Roami App", url = "/app/" }
+    ]
+
+    footer_col3_title = "公司資訊"
+    footer_col3_links = [
+      { name = "關於我們", url = "/about-us/" },
+      { name = "免費 eSIM", url = "/free-esim/" },
+      { name = "退款政策", url = "/refund/" },
+      { name = "聯絡我們", url = "/contact/" },
+      { name = "隱私權政策", url = "/privacy/" },
+      { name = "服務條款", url = "/terms/" }
+    ]
+
+    footer_copyright = "© 2026 Roami 保留所有權利。"
+    footer_slogan = "專業全球 eSIM 服務供應商 | 全球 eSIM 數據漫遊專家"
+
+    # 彈窗文案
+    modal_title = "通知"
+    modal_cancel = "取消"
+    modal_confirm = "立即前往"

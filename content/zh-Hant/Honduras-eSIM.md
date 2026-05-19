@@ -1,113 +1,107 @@
 ---
-title: Honduras eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 宏都拉斯 eSIM 方案 | 宏都拉斯 eSIM | Roami
+date: '2026-05-19T10:19:39+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Honduras eSIM
-  scenario_keywords: Copán Ruins sightseeing, Roatán beach hopping, Tegucigalpa business
-    travel, San Pedro Sula shopping, national park hiking
+  core_keyword: 宏都拉斯 eSIM
+  scenario_keywords: 城市漫步、海灘、購物、美食、自然探索
   operators: Tigo, Claro, Hondutel
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Tegucigalpa, San Pedro Sula, La Ceiba, Comayagua, Choloma
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  competitors: Airalo, Holafly, Nomad, Ubigi, Truphone
+  main_cities: Tegucigalpa, San Pedro Sula, La Ceiba, Comayagua, Copán Ruinas
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Honduras Travel eSIM | Unlimited 5G Mobile Data | Roami
-  description: Heading to Honduras? Stay securely connected using Roami's digital
-    SIM. Benefit from auto-connecting fast 5G speeds on the best local network, providing
-    hassle-free travel internet for your entire trip.
-  keywords: Honduras eSIM, cheap eSIM Honduras, travel internet Honduras, no roaming
-    charges, instant delivery eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: 宏都拉斯旅遊 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
+  description: 宏都拉斯旅遊首選 Roami eSIM，支援 5G 網路自動切換。現在下單並輸入折扣碼 20%，領取您的旅遊網卡專屬優惠折扣。
+  keywords: 宏都拉斯 eSIM, 宏都拉斯網路, 宏都拉斯旅遊, 宏都拉斯機場, 宏都拉斯景點, Tigo 宏都拉斯, Claro 宏都拉斯, Hondutel
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 宏都拉斯 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Honduras eSIM
+- label: 宏都拉斯 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Honduras
-  title: Best eSIM for Honduras
+  alt: 最佳 宏都拉斯 eSIM
+  title: 最佳 宏都拉斯 eSIM
 hero:
   flag_image: img/flags/hn.svg
-  flag_alt: Honduras Flag
-  title: Honduras eSIM data plan
-  subtitle: Bestseller | Smooth video streaming | Hotspot supported
+  flag_alt: 宏都拉斯 國旗
+  title: 宏都拉斯 eSIM - 旅行計劃
+  subtitle: 宏都拉斯 eSIM | 高速5G網路 | 無需身份證件 | 即時交付
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 宏都拉斯 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 宏都拉斯 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-orange-500
     daily: '1.47'
     tagIcon: star
-  30 Days:
+  30 天:
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '49.99'
     oldPrice: '74.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.67'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '22.99'
     oldPrice: '34.48'
     tag: ''
@@ -115,555 +109,343 @@ plans_data:
     daily: '0.77'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '35.99'
     oldPrice: '53.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.20'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
 discount_banner:
-  title: Special Discount!
+  title: 宏都拉斯 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 宏都拉斯 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Honduras, including major
-        cities like Tegucigalpa, San Pedro Sula, La Ceiba, and Comayagua. Our Honduras
-        eSIM seamlessly connects to the robust networks of Tigo, Claro, and Hondutel,
-        ensuring stable signals in urban centers, tourist hotspots, and along major
-        transportation routes.
+      title: 覆蓋範圍
+      desc: 在整個宏都拉斯享受廣泛的網路覆蓋，包括 Tegucigalpa、San Pedro Sula、La Ceiba、Comayagua 等城市。我們的宏都拉斯
+        eSIM 無縫連接到 Tigo、Claro 與 Hondutel 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Tigo
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Claro
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Hondutel
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 宏都拉斯 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Honduras.
+    html: 建議抵達 宏都拉斯 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 宏都拉斯 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 宏都拉斯 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 宏都拉斯 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 宏都拉斯 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 宏都拉斯」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Honduras'
-    desc: Upon arriving in Honduras, enable your Honduras eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 宏都拉斯 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Tigo / Claro 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 宏都拉斯：立即連上 5G/4G 網路
+    desc: 當您降落在 宏都拉斯（例如 Toncontín International Airport (Tegucigalpa), Ramón Villeda
+      Morales International Airport (San Pedro Sula), Golosón International Airport
+      (La Ceiba)）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 宏都拉斯。幾秒鐘內，您的設備將自動連接到
+      Tigo / Claro 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Honduras eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Honduras eSIM across different
-    travel scenarios.
+  title: 宏都拉斯 eSIM：完整指南和常見問題
+  desc: 使用 宏都拉斯 eSIM 在 宏都拉斯 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 宏都拉斯 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Honduras eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Honduras eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Honduras eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Honduras
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Honduras eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Honduras eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Honduras that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Honduras eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Honduras eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Honduras eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Honduras eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Honduras,
-        such as Tigo, Claro, Hondutel, to ensure premium speeds at a fraction of roaming
-        costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, Holafly, Roamless,
-        aloSIM?
-      a: While great companies like Airalo, Holafly, Roamless, aloSIM offer reliable
-        services, we focus on providing the most cost-effective Honduras eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在宏都拉斯 Tegucigalpa 市中心使用 Tigo 網路看 YouTube 流暢嗎？
+      a: 在 Tegucigalpa 市中心（如 Parque Central 或 Boulevard Morazán 附近），使用 Tigo 網路的平均下載速度約為
+        30-50 Mbps，足以流暢觀看 1080p 的 YouTube 影片。但在尖峰時段（18:00-21:00）靠近 Multiplaza 購物中心時，速度可能降至
+        10-15 Mbps，此時 4K 內容可能出現緩衝。若您需要穩定連線，建議手動切換到 Claro 網路（可在手機設定中選擇），其延遲更均勻。注意每日超過
+        3 GB 後可能優先級降低，但速度仍保持 2 Mbps 以上，可滿足社交媒體與基本串流。
+    - q: 從 San Pedro Sula 機場抵達後，如何立即啟用 eSIM 連接到 Hondutel 網路？
+      a: 購買 eSIM 後，在 San Pedro Sula 的 Ramón Villeda Morales 機場落地，飛機滑行時即可掃描 QR 碼安裝
+        eSIM。建議提前在出發前安裝好，抵達後開啟行動數據並選擇 Hondutel 作為網路運營商。若自動連線失敗，可在設定中手動搜尋網路並選擇 Hondutel。機場內訊號強勁，出大廳後即可上網。若遇到無法連線，請確保數據漫遊已開啟，並重啟手機。此流程約需
+        2 分鐘。
+    - q: 在 La Ceiba 海灘區，Claro 的 4G 覆蓋表現如何？適合視訊通話嗎？
+      a: 在 La Ceiba 的熱門海灘如 Playa de Ceiba 附近，Claro 的 4G 訊號良好，下載速度約 20-40 Mbps，足以進行穩定的
+        WhatsApp 視訊通話。但在偏遠海灘如 Playa de Trapiche，訊號可能降至 3G，速度約 5-10 Mbps，視訊通話時可能出現延遲或畫質下降。建議在主要海灘區域使用
+        Claro，若前往偏僻處，可事先下載離線地圖。每日使用超過 4 GB 後，速度可能受公平使用政策影響降速至 1 Mbps，但仍可傳文字訊息。
+    - q: 在 Copán Ruinas 小鎮，使用 eSIM 連接到 Tigo 網路時，能夠穩定使用 Google Maps 導航嗎？
+      a: 在 Copán Ruinas 小鎮的馬雅遺址區域，Tigo 的 4G 覆蓋良好，Google Maps 導航非常流暢，下載速度約 15-25 Mbps。但在小鎮外圍的山區或遺址深處，訊號可能不穩，偶爾降為
+        3G，導航仍可運作但路線更新稍慢。建議在主要街道（如 Avenida Centroamérica）使用導航，並預先下載離線地圖以備不時之需。熱點分享時，其他裝置連線同樣穩定。注意下午時段遊客較多時，可能因網路擁擠導致速度略降。
+    - q: 在 Comayagua 歷史中心，Claro 與 Tigo 哪個網路的訊號更佳？
+      a: 在 Comayagua 的歷史中心（如中央廣場與大教堂周邊），Claro 的 4G 訊號普遍比 Tigo 強，下載速度約 30-50 Mbps，而
+        Tigo 約 20-35 Mbps。Claro 的延遲更低，適合即時通訊與影片串流。但靠近 Comayagua 市的郊區（如產業園區），Tigo 的覆蓋略優。建議在市區優先使用
+        Claro，若需高速上傳照片，Claro 也是較好選擇。兩家運營商在節日期間（如聖週）可能出現網路慢速，但 Claro 的穩定性稍佳。
+    - q: 使用 eSIM 在宏都拉斯旅遊時，每日流量超過多少會降速？降速後還能做什麼？
+      a: 大部分宏都拉斯 eSIM 方案有公平使用政策，通常每日超過 3-5 GB 後會調整優先級，但不一定立即降速。降速後的速度約為 2-3 Mbps，仍可順暢使用
+        WhatsApp、LINE 傳文字與圖片、Google Maps 導航，以及瀏覽網頁。但視訊通話與高畫質串流可能卡頓，建議降速時關閉自動播放影片。為了避免降速，可選擇大流量方案或分日使用。若在
+        Tegucigalpa 或 San Pedro Sula 使用，降速後連線較為穩定，偏遠地區則可能降至 1 Mbps 以下。
+    - q: 在宏都拉斯 Roatán 島（Bay Islands）使用 eSIM 訊號穩定嗎？適合拍照打卡上傳嗎？
+      a: 在 Roatán 島的主要城鎮如 Coxen Hole 與 West End，Tigo 與 Claro 的 4G 覆蓋良好，下載速度約 15-30
+        Mbps，上傳社群媒體照片與限時動態非常順暢。但在島嶼東部（如 Camp Bay）或較偏僻的海灘，訊號可能降為 3G，上傳速度較慢（約 2-5 Mbps），照片仍可上傳但需等待。建議在
+        West End 的海灘酒吧或度假村區域使用網路，這些地點通常訊號強。注意部分方案可能不包含離島，購買前請確認涵蓋 Bay Islands。
+    - q: 在宏都拉斯 Tegucigalpa 的 Toncontín 機場，eSIM 啟用後能立即上網嗎？需要做什麼設定？
+      a: 在 Toncontín 機場降落後，開啟手機並確保 eSIM 已安裝，通常會自動連接到 Tigo 或 Claro 網路。若無連線，請手動搜尋網路並選擇任一運營商。同時務必開啟數據漫遊（在設定中），因為國際
+        eSIM 需漫遊啟用。機場內訊號穩定，出關後即可使用。建議先在機場測試瀏覽器或一個應用程式，確認連線成功。若遇到無法連線，請重啟手機，因機場地形可能造成短暫訊號延遲。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 宏都拉斯 機場：如何使用 宏都拉斯 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Honduras eSIM before your flight. Once you land at Toncontín
-        International Airport, Ramón Villeda Morales International Airport, Juan Manuel
-        Gálvez International Airport, simply turn off Airplane Mode and enable your
-        eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Honduras eSIM activated upon landing, you can immediately open
-        Uber, InDriver, Cabify to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Honduras eSIM data allows you to open Google Maps right at
-        the baggage claim in Toncontín International Airport, Ramón Villeda Morales
-        International Airport, Juan Manuel Gálvez International Airport to check real-time
-        train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Honduras eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Honduras eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Honduras eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 宏都拉斯 Toncontín 國際機場有免費 Wi-Fi 嗎？如何連線？
+      a: Toncontín 機場提供免費 Wi-Fi，名為「Aeropuerto Toncontín Gratuito」，連線後需透過瀏覽器接受條款並輸入電子郵件即可使用。速度約
+        10-20 Mbps，足夠瀏覽網頁與傳訊息，但串流影片可能不穩。建議旅客抵達前先安裝 eSIM，以確保落地後立即有網路。機場的免費 Wi-Fi 在尖峰時段（如上午與傍晚）可能變慢。
+    - q: San Pedro Sula 的 Ramón Villeda Morales 國際機場有那些購物與餐飲選擇？
+      a: 該機場國內線與國際線航廈有多間商店，包括免稅店（販售酒類、香水、手工藝品）與便利商店。餐飲方面有咖啡店如 Café del Café、速食餐廳如
+        Burger King，以及當地小吃攤。國際線航廈二樓有更多座位區。建議旅客預留至少 30 分鐘享用簡餐。
+    - q: 從 Toncontín 機場到 Tegucigalpa 市中心最經濟的交通方式是什麼？
+      a: 最經濟的方式是搭乘共乘小巴（colectivo），票價約 15-20 Lempira（約 0.6-0.8 美元），車程約 20-30 分鐘，從機場出口步行
+        5 分鐘即可到達乘車點。也可使用 Uber 或 InDriver，費用約 100-150 Lempira（4-6 美元）。計程車費用較高，約 300
+        Lempira（12 美元）。建議白天使用小巴，夜間則選擇 Uber 以策安全。
+    - q: 宏都拉斯 Golosón 機場（La Ceiba）是否有直飛美國的航班？
+      a: Golosón 機場主要營運國內航線與少量國際包機，目前有直飛美國的航班，如達美航空（Delta）季節性飛往亞特蘭大，以及美國航空（American
+        Airlines）營運飛往邁阿密的航班。此外也有連接到羅阿坦島（Roatán）的短程航班。建議旅客提前確認航班時刻表，因季節性調整。
+    - q: 在宏都拉斯機場轉機時，eSIM 能自動切換到當地網路嗎？需要手動選擇嗎？
+      a: eSIM 會自動搜尋並連接可用網路，但若自動連線失敗，您可手動選擇運營商（如 Tigo 或 Claro）。轉機時若停留時間短，建議保持自動模式。部分機場（如
+        Toncontín）內部訊號強，但在偏僻角落可能不穩定。手動選擇時，請進入設定關閉自動網路選擇，再點選營運商名稱即可。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 宏都拉斯 eSIM 用於 宏都拉斯 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Honduras eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Honduras, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, InDriver, Cabify use VoIP (internet calling) and in-app messaging.
-        Since you have active Honduras eSIM data, drivers can call or message you
-        directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Honduras eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Honduras eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Honduras.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Honduras eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Honduras eSIM's data network while on
-        the train or in the car.
+    - q: 在宏都拉斯 Tegucigalpa 叫 Uber 方便嗎？費用大概多少？
+      a: Uber 在 Tegucigalpa 主要區域如 Boulevard Morazán 與 Mall Multiplaza 周邊非常方便，等待時間約
+        5-10 分鐘。市區內短程（3-5 公里）費用約 60-100 Lempira（2.5-4 美元）。但偏遠地區或夜間車輛較少。建議使用 InDriver
+        作為備案，可議價。司機通常接受現金或信用卡（App 綁定）。
+    - q: 從 San Pedro Sula 到 La Ceiba 有長途巴士嗎？票價與時間？
+      a: 有長途巴士服務，主要公司為 Hedman Alas 與 Citul，從 San Pedro Sula 巴士總站出發，車程約 4-5 小時，票價約
+        250-350 Lempira（10-14 美元）。巴士有空調與洗手間，中途停靠 El Progreso 等地。建議提前購票，尤其在旺季。也可乘坐共享小巴，但較擁擠。
+    - q: 宏都拉斯有哪些受歡迎的叫車 App？使用時需要注意什麼？
+      a: 除了 Uber，當地受歡迎的 App 包括 InDriver（可協商價格）與 Taxi Express（傳統計程車）。使用 Uber 與 InDriver
+        時，建議確認車輛型號與車牌，夜間避免單獨搭乘。Taxi Express 可預約但價格較高。部分區域如 Comayagua 可能沒有 Uber，因此
+        InDriver 較普遍。
+    - q: 在宏都拉斯租車自駕需要注意哪些交通規則？
+      a: 宏都拉斯靠右行駛，需攜帶國際駕照。主要公路（如 CA-5）路況良好，但偏遠山路可能狹窄且無路燈。城市內常見測速照相與警察臨檢。建議購買全險，且避免夜間駕駛（因動物與路坑）。停車時選擇有管理員的停車場，以保安全。
+    - q: 宏都拉斯國內航班從 Tegucigalpa 到 Roatán 島的飛行時間與價格？
+      a: 主要航空公司如 CM Airlines 與 Aerolíneas Sosa 營運此航線，飛行時間約 1 小時。單程票價約 150-250 美元（依季節浮動）。建議提前在官網訂票，機場報到時需出示護照。小型飛機限制行李重量（通常
+        15 公斤），超重需付費。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 宏都拉斯 的飯店使用 宏都拉斯 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Honduras eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Honduras eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at InterContinental Tegucigalpa, Hilton San Pedro
-        Sula, Copantl Hotel & Convention Center or a local guesthouse, you can input
-        the address into Google Maps and get turn-by-turn walking or transit directions
-        using your Honduras eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Honduras eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Honduras eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Hugo Restaurante, PedidosYa, Rappi and
-        use your Honduras eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Honduras eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: Tegucigalpa 的 InterContinental 飯店有提供機場接送嗎？費用如何？
+      a: InterContinental Tegucigalpa 提供付費機場接送，單程約 20-30 美元，可透過飯店前台預約。飯店距離 Toncontín
+        機場約 15 分鐘車程，也可搭乘 Uber 約 5 美元。建議提前一天聯繫飯店確認車輛與時間。飯店內的餐廳與健身房也對住客開放。
+    - q: San Pedro Sula 的 Hilton 飯店靠近觀光景點嗎？適合商務旅客嗎？
+      a: Hilton San Pedro Sula 位於金融區，步行可達多家餐廳與購物中心（如 City Mall）。距離舊城區景點（如聖彼得大教堂）約
+        10 分鐘車程。飯店設有會議室與商務中心，適合商務旅客。無線網路速度約 30 Mbps，足以進行視訊會議。
+    - q: 在 Copán Ruinas 有哪些推薦的住宿地點接近馬雅遺址？
+      a: 推薦 Hotel Plaza Copán（位於遺址入口旁）、Hotel Marina Copán（花園風格，步行 5 分鐘到遺址）以及 Hotel
+        Los Jarrones（經濟型，距離遺址 10 分鐘路程）。這些飯店提供導覽服務與免費早餐。旺季建議提前一個月預訂。
+    - q: 拉塞瓦（La Ceiba）的海灘度假村是否有 Wi-Fi 且訊號良好？
+      a: 多數度假村如 Hotel Quinta Real 與 Park Royal 提供免費 Wi-Fi，但速度因房數而異，約 10-20 Mbps，適合上網與收發郵件。偏遠小旅館可能只有
+        3G 訊號。建議使用 eSIM 作為備用網路。部分度假村公共區域訊號較強。
+    - q: 宏都拉斯飯店常見的支付方式有哪些？接受信用卡嗎？
+      a: 高階飯店（如 InterContinental、Hilton）接受 Visa、Mastercard 與 American Express，有時會收取
+        5% 手續費。中低階飯店可能只收現金（Lempira 或美元）。建議先確認，並攜帶足夠現金。部分飯店也接受 Tigo Money 電子支付。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 宏都拉斯 旅遊景點的網路：宏都拉斯 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Copán Ruins, Roatán Island, Pico Bonito National Park
-        spontaneously, you can use your Honduras eSIM data to buy skip-the-line tickets
-        online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Honduras eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Honduras.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Honduras eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Honduras eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Honduras eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Honduras eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Honduras eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Honduras eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Honduras eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Honduras eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Hugo Restaurante, PedidosYa, Rappi, register
-        using your email or social accounts, and order food seamlessly using your
-        Honduras eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Bac
-        Credomatic, Ficohsa, Tigo Money require a brief internet handshake, which
-        your Honduras eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Honduras eSIM to find hidden culinary gems in the city.
+    - q: 如何從 San Pedro Sula 前往 Copán 馬雅遺址？需要多長時間？
+      a: 從 San Pedro Sula 出發，可搭乘 Hedman Alas 巴士直達 Copán Ruinas 小鎮，車程約 4 小時，票價約 250
+        Lempira。小鎮距離遺址僅步行 5 分鐘。也可自駕或參加一日遊團（含導遊，費用約 80 美元）。建議清晨出發，避開午後雷陣雨。
+    - q: Pico Bonito 國家公園適合一日遊嗎？有哪些必看景點？
+      a: Pico Bonito 國家公園非常適合一日遊，可從 La Ceiba 出發（車程約 30 分鐘）。必看景點包括瀑布（如 El Bejuco）、叢林步道與觀鳥點。12月至4月乾季最適合。跟著導遊可以看到吼猴與巨嘴鳥。門票約
+        150 Lempira，需穿防蚊液與登山鞋。
+    - q: Lake Yojoa 周圍有哪些推薦的餐廳與活動？
+      a: Lake Yojoa 是宏都拉斯最大的湖泊，周圍有餐廳如 El Lago 提供新鮮魚料理（約 100 Lempira）。活動包括乘船遊湖（300
+        Lempira/小時）、參觀 Pulhapanzak 瀑布（入場費 50 Lempira）以及咖啡農場導覽。週末較多本地遊客，建議平日前往。
+    - q: Tegucigalpa 有哪些容易到達的歷史景點？
+      a: 市中心必訪 Parque Central（中央公園）與宏都拉斯大教堂（Catedral de Tegucigalpa）。附近還有國家博物館（Museo
+        Nacional de la República）與總統府，皆步行可達。入場費約 50-100 Lempira。推薦參加週末免費徒步導覽（提供英語服務）。
+    - q: Roatán 島最受歡迎的海灘是哪幾個？如何抵達？
+      a: 最受歡迎的是 West Bay Beach（白沙灘、適合游泳）與 West End Beach（適合潛水與酒吧）。從 Roatán 機場（RTB）可搭計程車或叫
+        Uber 前往，West Bay 車程約 15 分鐘，費用約 15 美元。海灘上有躺椅出租（約 5 美元）。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 宏都拉斯 eSIM 在 宏都拉斯 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Honduras eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Honduras eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Honduras eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Honduras
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Honduras eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Honduras eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Honduras eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 宏都拉斯年輕人最常用的社群平台有哪些？
+      a: Facebook 仍是最主流平台，其次為 WhatsApp 與 Instagram。TikTok 在 18-25 歲群體中快速成長。部分用戶也使用
+        Snapchat。使用 eSIM 連線時，這些平台均可順暢瀏覽，但 TikTok 可能因影片串流耗流量較快（每分鐘約 10-15 MB）。建議使用公共
+        Wi-Fi 下載內容。
+    - q: 在宏都拉斯用手機打卡上傳照片到 Instagram 通常需要多少流量？
+      a: 一張原始照片約 3-5 MB，上傳時壓縮後約 500 KB-1 MB，加上位置標籤與濾鏡，每張約 1-2 MB。若上傳限時動態（影片），每秒約 5-10
+        MB。在熱門景點如 Copán 遺址，使用 Tigo 4G 上傳一張照片約 2 秒。建議開啟高品質上傳模式。使用 eSIM 的每日 1 GB 流量約可上傳
+        500 張照片。
+    - q: 宏都拉斯有哪些當地流行的交友 App？旅行者可以使用嗎？
+      a: Tinder 與 Bumble 在宏都拉斯城市（如 Tegucigalpa、San Pedro Sula）相當流行。本地 App 如 Citas
+        也有使用者。旅行者可以使用這些 App，但建議在公共場合見面，並告知飯店或友人行程。使用 eSIM 時，這些 App 均可正常運作。
+    - q: 在宏都拉斯使用 WhatsApp 打電話到其他國家品質好嗎？
+      a: 在 Tegucigalpa 或 San Pedro Sula 等城市，透過 Tigo 或 Claro 的 4G 網路撥打 WhatsApp 語音通話品質良好，延遲約
+        100-200ms。視訊通話則需 2 Mbps 以上速度，偏遠地區可能降質。因國際通話費率影響不大，建議優先使用 WhatsApp 而非傳統電話。
+    - q: 宏都拉斯人常用哪些即時通訊軟體？除了 WhatsApp 以外？
+      a: 除了 WhatsApp，Facebook Messenger 也很普遍，用於與品牌客服聯繫。部分商務人士使用 Telegram 與 Signal。年輕人較少使用
+        LINE。使用 eSIM 時，這些應用的文字訊息幾乎不耗流量（每 1000 條約 1 MB）。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 宏都拉斯 使用 宏都拉斯 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Honduras, you can dial local emergency numbers like 911, 112 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Honduras eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Honduras eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Honduras eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Honduras eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Honduras eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Honduras eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Honduras eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Honduras eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Honduras eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Honduras eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Honduras eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Honduras eSIM to update them on flight delays or schedule
-        changes.
+    - q: 宏都拉斯的緊急電話號碼是多少？有中文服務嗎？
+      a: 全國緊急號碼為 911，可聯繫警察、消防與醫療救護。但中文服務很少，建議事先準備西班牙語關鍵句或使用翻譯 App。除 911 外，國家警察專線為
+        122，紅十字會（Cruz Roja）為 143。非緊急情況可撥打旅遊警察熱線（如 Tegucigalpa 旅遊警察：+504 2230-1111）。
+    - q: 在宏都拉斯旅行時，東西被偷或護照遺失該怎麼辦？
+      a: 立即撥打 911 報案，取得報案證明（Denuncia），然後前往最近的大使館或領事館補辦旅行證件。宏都拉斯常見扒竊地點包括市場與巴士總站。報案時若語言不通，可使用
+        Google 翻譯。建議事先備份護照與簽證影本於雲端。
+    - q: 宏都拉斯有哪些主要醫院提供英語服務？國際旅客如何就醫？
+      a: 主要私立醫院如 Hospital San Jorge（Tegucigalpa）與 Hospital CEMESA（San Pedro Sula）的部分醫師會說英語。急診室通常有翻譯服務，但建議購買旅遊醫療保險。就醫時需出示護照，並可能要求預付費用（現金或信用卡）。
+    - q: 在宏都拉斯遇到自然災害（如地震或颶風）時，該如何避難與通訊？
+      a: 宏都拉斯常有颶風與地震，建議下載 Red Cross 的 App 或關注官方警報。避難所（如學校、體育館）懸掛旗幟標示。通訊方面，eSIM 可維持網路，但基地台可能受損。建議備妥行動電源與現金。當地電信公司（Tigo、Claro）時有免費簡訊服務。
+    - q: 在宏都拉斯開車時發生交通事故，第一時間該做什麼？
+      a: 先確保安全，撥打 911 或 130（交通警察）。留在現場，不要移動車輛，等待警察到場。交換保險資料（若適用）。若語言不通，請路邊民眾協助。建議租車時購買全險，並隨身攜帶駕照正本與租車合約。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 宏都拉斯 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Honduras eSIM or Prepaid SIM Card: A Side-by-Side Comparison"
-  subtitle: "Honduras Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Honduras) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Honduras"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Honduras eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Tigo and Claro require passport registration at stores; purchase and activation involve dialing *111# (Tigo) or *777# (Claro)."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Tigo and Claro store queues and passport checks. Activate your Roami eSIM online within minutes before landing in Honduras."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "In-store purchase of prepaid SIM cards requires passport registration for both Tigo and Claro."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Tigo and Claro which mandate passport registration, Roami eSIM requires zero ID verification. Get connected instantly without sharing personal documents."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, both Tigo and Claro plans are domestic only; no international roaming included."
-      esim_title: "Seamless Multi-Country Roaming"
-      esim_desc: "Tigo and Claro plans are domestic-only; crossing borders means buying new SIMs. Roami eSIM offers regional plans covering Central America, eliminating repeated purchases."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Tigo offers 24-hour (40 HNL/100MB), 7-day (105 HNL/500MB), and 30-day (565 HNL/5.5GB) plans. Claro offers 1-day (30 HNL/100MB), 7-day (100 HNL/1GB), and 30-day (380 HNL/2GB) plans. A typical 8-day trip forces purchase of a 15-day or 30-day plan, wasting nearly half the cost."
-      esim_title: "Flexible Plans, No Waste"
-      esim_desc: "Unlike Tigo's 30-day plan (565 HNL/5.5GB) or Claro's 15-day plan (450 HNL/5GB) that waste over 50% for a 7-day trip, Roami offers 7-day plans starting from $1.99/GB, saving you money."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed but may be subject to fair use policies."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "While local SIMs may restrict hotspot usage, Roami eSIM allows full tethering at high speeds, letting you share data with all your devices."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Tigo's triple saldo promotion requires specific phone number endings and specific weekdays; top-up cards have validity from 5 days (5 HNL) to 30 days (150 HNL). Claro plans auto-renew unless user sends SMS 'CANCELAR' to 5050."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Avoid Tigo's complex triple saldo rules and Claro's auto-renewal traps. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal for easy top-ups."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is primarily in Spanish, with limited English support."
-      esim_title: "24/7 English Support"
-      esim_desc: "Unlike local operators with Spanish-only support, Roami provides round-the-clock customer service in English via chat and email."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Honduras eSIM vs Local SIM Card: Which One Saves You More?"
-    cards:
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation, No Store Queues"
-        desc: "Tigo and Claro require in-store purchase and passport registration. Roami eSIM activates <b>within minutes online</b>, ready before you land."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Simple Global Payments, No Hidden Traps"
-        desc: "Avoid Tigo's <b>complex triple saldo rules</b> and Claro's <b>auto-renewal (send 'CANCELAR' to 5050)</b>. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>."
-      - icon: "shield"
-        icon_bg: "bg-sky-100"
-        icon_color: "text-sky-600"
-        title: "Keep Your Home SIM Active for Security"
-        desc: "Local SIMs require removing your home SIM, risking missed bank OTPs. Roami eSIM works <b>alongside your home SIM</b>, ensuring continuous access to verification codes."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Honduras's Strict SIM Passport Requirements"
-        desc: "Both Tigo and Claro require <b>passport registration</b> in-store. Roami eSIM eliminates this step, activating instantly without ID checks."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

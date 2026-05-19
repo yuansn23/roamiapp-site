@@ -1,110 +1,104 @@
 ---
-title: Laos eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 寮國 eSIM 方案 | 寮國 eSIM | Roami
+date: '2026-05-19T10:36:26+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Laos eSIM
-  scenario_keywords: Vientiane sightseeing, Luang Prabang temple tours, Mekong River
-    cruises, Bolaven Plateau trekking
-  operators: Lao Telecom, Unitel, ETL
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Vientiane, Luang Prabang, Pakse, Savannakhet
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 寮國 eSIM
+  scenario_keywords: 城市漫步, 寺廟之旅, 購物, 美食探索, 自然景觀
+  operators: Unitel, Lao Telecom, ETL
+  competitors: Airalo, Holafly, Nomad, eSIM.net, Ubigi
+  main_cities: 永珍, 龍坡邦, 旺陽, 巴色, 沙灣拿吉
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Best Laos eSIM | High-Speed Data & Reliable 5G | Roami
-  description: Traveling to Laos? Experience 24/7 Data and seamless Native 5G from
-    Top Local Carrier. With Auto Network Switch and No Roaming Fees, it's perfect
-    for Digital Nomads.
-  keywords: Laos eSIM, prepaid eSIM Laos, cheap eSIM Laos, unlimited data Laos, travel
-    internet Laos, eSIM for Laos
-  low_price: 1.99
-  high_price: 39.9
+  title: 寮國 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
+  description: 寮國旅遊必備 Roami eSIM，提供最佳 5G 高速網路。現在下單並使用折扣碼 20%，讓您的連線體驗更佳，費用更具性價比。
+  keywords: 寮國 eSIM, 寮國上網, 寮國網路覆蓋, Unitel, Lao Telecom, 寮國旅遊, 永珍, 龍坡邦
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 寮國 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Laos eSIM
+- label: 寮國 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Laos
-  title: Best eSIM for Laos
+  alt: 最佳 寮國 eSIM
+  title: 最佳 寮國 eSIM
 hero:
   flag_image: img/flags/la.svg
-  flag_alt: Laos Flag
-  title: Laos eSIM data plan
-  subtitle: 24/7 customer support | No hidden fees | No ID required
+  flag_alt: 寮國 國旗
+  title: 寮國 eSIM - 旅行計劃
+  subtitle: 寮國 eSIM | 高速5G網路 | 流量吃到飽 | 支援熱點分享
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 寮國 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 寮國 eSIM
 plans_data:
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.40'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '57.99'
     oldPrice: '86.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.93'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '8.99'
     oldPrice: '13.48'
     tag: ''
@@ -112,41 +106,41 @@ plans_data:
     daily: '0.30'
     tagIcon: star
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '40.99'
     oldPrice: '61.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.37'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '23.99'
     oldPrice: '35.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.80'
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.71'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '46.99'
     oldPrice: '70.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '6.71'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
@@ -154,50 +148,50 @@ plans_data:
     daily: '1.14'
     tagIcon: star
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '19.99'
     oldPrice: '29.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.86'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.71'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '36.99'
     oldPrice: '55.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '5.28'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '34.99'
     oldPrice: '52.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '5.00'
-  10 Days:
+  10 天:
   - spec: 15GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.10'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '12.99'
     oldPrice: '19.48'
     tag: ''
@@ -205,57 +199,57 @@ plans_data:
     daily: '0.87'
     tagIcon: star
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '98.99'
     oldPrice: '148.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '6.60'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '21.99'
     oldPrice: '32.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.47'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '37.99'
     oldPrice: '56.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.53'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.87'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '53.99'
     oldPrice: '80.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.60'
-  3 Days:
+  3 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '20.99'
     oldPrice: '31.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '7.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -263,547 +257,306 @@ plans_data:
     daily: '2.00'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.66'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '18.99'
     oldPrice: '28.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '6.33'
 discount_banner:
-  title: Special Discount!
+  title: 寮國 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 寮國 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Laos, including major cities
-        like Vientiane, Luang Prabang, Pakse, and Savannakhet. Our Laos eSIM seamlessly
-        connects to the robust networks of Lao Telecom, Unitel, and ETL, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個寮國享受廣泛的網路覆蓋，包括永珍、龍坡邦、旺陽、巴色等城市。我們的寮國eSIM無縫連接到Unitel、Lao Telecom、ETL的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: Lao Telecom
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
     - name: Unitel
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: ETL
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE網路
+    - name: Lao Telecom
+      coverage: 自有IP
+      network: 5G/4G/LTE網路
 reminders:
-  title: Important Reminders
+  title: 寮國 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Laos.
+    html: 建議抵達 寮國 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 寮國 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 寮國 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 寮國 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 寮國 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 寮國」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Laos'
-    desc: Upon arriving in Laos, enable your Laos eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 寮國 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Unitel / Lao Telecom 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 寮國：立即連上 5G/4G 網路
+    desc: 當您降落在 寮國（例如 永珍瓦岱國際機場、龍坡邦國際機場、巴色國際機場）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定 →
+      行動服務** 並開啟您的 Roami eSIM 寮國。幾秒鐘內，您的設備將自動連接到 Unitel / Lao Telecom 提供的最快可用 5G/4G
+      網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Laos eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Laos eSIM across different travel
-    scenarios.
+  title: 寮國 eSIM：完整指南和常見問題
+  desc: 使用 寮國 eSIM 在 寮國 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 寮國 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Laos eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Laos eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Laos eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Laos and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Laos eSIM. It typically needs
-        to be installed within 30 days of purchase. Once installed, it cannot be scanned
-        again or transferred to another device.
-    - q: Can I get a refund if the Laos eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Laos that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Laos eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Laos eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Laos eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Laos eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Laos,
-        such as Lao Telecom, Unitel, ETL, to ensure premium speeds at a fraction of
-        roaming costs.
-    - q: How do you compare with well-known eSIM providers like Roamless, Airalo,
-        Holafly, Yesim?
-      a: While great companies like Roamless, Airalo, Holafly, Yesim offer reliable
-        services, we focus on providing the most cost-effective Laos eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在永珍市區使用Unitel網路時，觀看YouTube影片的速度如何？在湄公河沿岸或凱旋門附近會有差異嗎？
+      a: 在永珍市中心，連接到Unitel的4G網路時，下載速度通常在30-50 Mbps之間，足以流暢觀看1080p甚至4K影片。不過，在湄公河沿岸的夜市區域，由於人潮擁擠，尖峰時段（晚上6-9點）速度可能降至10-20
+        Mbps，但仍可應付高清串流。凱旋門附近因遊客較少，速度相對穩定。建議避開晚間熱門時段下載大檔案，以免遭遇節流。每天使用超過3GB後，速度可能降至約2
+        Mbps，適合基本網頁瀏覽但不利於高畫質影片。
+    - q: 在龍坡邦的民宿區使用Lao Telecom的eSIM，連線穩定嗎？特別是在香通寺附近。
+      a: 龍坡邦的民宿區，尤其是靠近香通寺和夜市一帶，Lao Telecom的4G訊號相當穩定，速度約在20-40 Mbps之間。但在老城區內一些小巷弄中，因建築物密集，偶爾會出現短暫降速至5
+        Mbps的情況，不過仍可正常使用地圖和社群媒體。寺廟周圍因為遊客密集，白天可能會有輕微擁塞，建議使用支援自動切換的eSIM，當Lao Telecom訊號弱時可手動切換到Unitel備用。整體來說，對於瀏覽網頁和傳送照片綽綽有餘。
+    - q: 從永珍瓦岱國際機場入境後，如何快速啟用買好的eSIM？需要到特定地點嗎？
+      a: 抵達永珍瓦岱國際機場的入境大廳後，首先確認手機已連接至當地網路（通常自動跳選Unitel或Lao Telecom）。開啟eSIM購買時收到的QR碼郵件，按照指示安裝描述檔。整個過程約2-3分鐘，不需到任何櫃檯或特定地點。若在機場內因訊號暫時不穩，可移至行李提領區或出境大廳外，訊號會更強烈。啟用後建議先測試通話或傳送訊息，確保數據正常。請注意：安裝eSIM時需有穩定的Wi-Fi或初始數據連線，若無，可先連接機場免費Wi-Fi。
+    - q: 在旺陽進行漂流或探洞活動時，Unitel的網路訊號是否足夠維持Google Maps導航？
+      a: 旺陽的主要旅遊區和南松河沿岸，Unitel的4G訊號覆蓋良好，使用Google Maps導航至漂流起點或藍色潟湖等地點時，定位和路線規劃都很即時。但進入洞穴內部或遠離河岸的山區時，訊號可能完全中斷，建議先離線下載旺陽周邊地圖。實際使用中，在漂流河段的大部分區域都有訊號，不過偶爾會降至3G以確保基本連線。為安全起見，請勿僅依賴即時導航，並攜帶紙本地圖備用。
+    - q: 使用Lao Telecom的eSIM在巴色市區和波羅芬高原的網路速度差異大嗎？
+      a: 巴色市區的Lao Telecom網路速度相當不錯，約在30-50 Mbps，可以順暢觀看串流影片。然而，當前往波羅芬高原的咖啡種植園或瀑布景點時，訊號會明顯減弱，速度降至5-10
+        Mbps，甚至在某些偏遠路段只剩3G。這主要是因為高原地形遮蔽較多，基地台密度較低。建議在巴色市區先下載好離線地圖和旅遊資訊，以備上山時使用。整體而言，市區體驗良好，但郊區需有降速的心理準備。
+    - q: 在沙灣拿吉的商業區使用ETL網路玩線上遊戲或進行視訊通話，延遲會很高嗎？
+      a: 沙灣拿吉的商業區（如湄公河路一帶）ETL網路的延遲大約在50-80毫秒，對於一般的線上遊戲（如《傳說對決》）或WhatsApp視訊通話而言，體驗尚可接受，但可能無法滿足即時反應要求極高的遊戲。在尖峰時段（晚上7-10點），延遲可能上升至100-120毫秒，通話偶爾會出現輕微延遲。建議使用Unitel作為主要網路時，獲得更穩定的延遲表現（通常低於50毫秒）。若僅是社群媒體或瀏覽網頁，ETL已足夠。
+    - q: 在寮國使用eSIM時，如果一天內用了超過5GB數據，會被限速嗎？具體如何運作？
+      a: 多數寮國eSIM方案（如透過我們購買的）採用公平使用原則，通常每日高速數據上限為3-5GB。超過後，速度會逐步降低至約2 Mbps，足以應付文字訊息、網頁瀏覽和標準畫質影片，但無法觀看高畫質串流。具體限速門檻因方案而異，建議在購買前確認條款。例如Unitel網路下的方案，每日超過3GB後可能降速，但降速後的2
+        Mbps依然流暢使用地圖導航。如果需要大量數據，可考慮購買多天方案或額外數據包。一般觀光客每日使用量約1-2GB，不易觸發限速。
+    - q: 寮國eSIM的啟用步驟中，是否需要輸入當地身分證或護照資訊進行實名認證？
+      a: 透過我們購買的寮國eSIM不需要進行額外的實名認證，只需在到達寮國後掃描QR碼並安裝描述檔即可啟用。然而，部分當地實體SIM卡（例如從電信商門市購買）根據寮國法規可能需要出示護影本，但eSIM作為線上旅卡產品通常無此要求。安裝時請確保手機連接網路（可用機場Wi-Fi），並在設定中開啟數據漫遊。若遇到啟用問題，可聯繫客服提供協助。整體而言，過程簡便，無需擔心繁瑣的註冊程序。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 寮國 機場：如何使用 寮國 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Laos eSIM before your flight. Once you land at Wattay International
-        Airport, Luang Prabang International Airport, Pakse International Airport,
-        simply turn off Airplane Mode and enable your eSIM line. It will connect to
-        the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Laos eSIM activated upon landing, you can immediately open Grab,
-        Loca, Sabaidee Taxi to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Laos eSIM data allows you to open Google Maps right at the
-        baggage claim in Wattay International Airport, Luang Prabang International
-        Airport, Pakse International Airport to check real-time train schedules, bus
-        routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Laos eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Laos eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Laos eSIM cellular data to let your family know you've arrived safely.
+    - q: 永珍瓦岱國際機場提供免費Wi-Fi嗎？速度如何？
+      a: 瓦岱機場提供免費Wi-Fi，連線名稱為「Vientiane Airport Free WiFi」，不需要密碼，但需要透過瀏覽器接受使用條款。速度約在5-10
+        Mbps，足夠收發Email、使用社群軟體，但不適合觀看高畫質影片。機場大廳和候機室的訊號較穩定，但在行李提領區可能略慢。建議抵達前先安裝好eSIM，以確保入境後即有高速網路可用。
+    - q: 從龍坡邦國際機場到市區有哪些交通方式？需要多久時間？
+      a: 龍坡邦機場距離市中心約4公里，計程車是最方便的方式，車程約10-15分鐘，費用約50,000-70,000基普（約5-7美元）。也可以乘坐嘟嘟車，價格稍低約40,000基普，但需議價。機場外有明顯的計程車排班處，建議先談好價格再上車。如果想省錢，也可步行20-30分鐘到市區，但拖行李較不方便。
+    - q: 巴色國際機場有換匯或提款機嗎？匯率如何？
+      a: 巴色機場內設有外幣兌換櫃檯和ATM提款機，兌換櫃檯接受美元、泰銖等主要貨幣，匯率略低於市區銀行。ATM提款機支援Visa和Mastercard，但手續費較高（約50,000基普一筆）。建議在機場先換少量基普作為交通費，再到市區的BCEL銀行換匯或使用ATM取款，匯率較佳。注意機場換匯櫃檯營業時間通常配合航班，晚上抵達可能關閉。
+    - q: 在永珍瓦岱機場購買當地SIM卡方便嗎？有哪些電信商可選？
+      a: 瓦岱機場的入境大廳有多家電信商櫃檯，包括Unitel、Lao Telecom和ETL，購買預付卡很方便。一般7天數據方案約50,000基普（含1-2GB流量），需出示護照登記。櫃檯人員會協助開通和設定。不過對於已購買eSIM的旅客來說，直接啟用eSIM更省時，無需排隊。若想節省時間，建議行前先買好eSIM。
+    - q: 龍坡邦機場的行李寄放服務如何？收費標準是什麼？
+      a: 龍坡邦機場提供付費行李寄放服務，位置在出境大廳附近。收費約為每件行李每天20,000-30,000基普（約2-3美元），可寄放過夜。服務時間通常從早上6點到晚上10點，與航班時間一致。建議將貴重物品隨身攜帶，寄放時會提供收據，領取時需出示。如果住宿在市區，許多飯店也提供免費寄放，機場寄放較適合轉機旅客。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 寮國 eSIM 用於 寮國 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Laos eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Laos, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Grab, Loca, Sabaidee Taxi use VoIP (internet calling) and in-app
-        messaging. Since you have active Laos eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Laos eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Laos eSIM data. A 5GB or 10GB plan provides
-        more than enough data for extensive GPS navigation during a road trip in Laos.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Laos eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Laos eSIM's data network while on the
-        train or in the car.
+    - q: 在永珍市區搭Grab叫車方便嗎？費用大概多少？
+      a: Grab在永珍非常普及，叫車後通常5-10分鐘內到達，支援現金和信用卡支付。市區內短程（例如從凱旋門到湄公河夜市）費用約15,000-25,000基普（1.5-2.5美元），長程如從機場到市中心約50,000基普。尖峰時段（早上7-9點、下午5-7點）可能較難叫車且價格會動態調漲。也可選擇LOCA
+        App，價格更便宜但車輛較少。
+    - q: 從永珍到龍坡邦的長途巴士有夜車嗎？車程多久？
+      a: 永珍到龍坡邦的長途巴士有白天和夜間班次，北部巴士總站出發，車程約10-12小時。夜車通常晚上7-8點發車，隔天早上6-7點抵達，適合節省住宿時間。票價約180,000-250,000基普（18-25美元），視巴士等級而異（VIP或普通）。建議選擇VIP巴士，有空調和毛毯，座位可傾斜。路上會有多個休息站停留，但整體車程較長，建議備好零食和水。
+    - q: 旺陽鎮內的主要交通工具是什麼？租摩托車方便嗎？
+      a: 旺陽鎮內主要靠步行或租腳踏車、摩托車探索。鎮上有很多摩托車出租店，租一天約120,000-150,000基普（12-15美元），不需國際駕照但建議攜帶機車駕照正本。道路狀況大致良好，但碎石路段較多，騎車需注意安全。也可搭乘嘟嘟車，鎮內短程約10,000-20,000基普。租摩托車是前往藍色潟湖、坦江溶洞等景點最靈活的方式。
+    - q: 寮國的嘟嘟車通常如何收費？需要議價嗎？
+      a: 嘟嘟車是寮國常見的短途交通工具，沒有跳錶，一律先議價。市區內短程（2-3公里）收費約20,000-40,000基普，夜間或旺季可能更高。建議出發前先使用Grab查詢參考價格，再和司機談判，通常可殺價10-20%。永珍和龍坡邦的嘟嘟車司機英語較好，但在鄉下地區溝通較困難。對於長途，可考慮包車半天約300,000基普。
+    - q: 永珍市區有公共巴士嗎？路線適合觀光客嗎？
+      a: 永珍有公共巴士系統，但路線較不發達且無英文標示，對觀光客來說較難使用。主要路線連接早市、凱旋門和佛像公園等景點，票價約5,000-10,000基普。但班次間隔長（30分鐘至1小時），且沒有固定站牌，乘客需招手攔車，下車按鈴。多數觀光客會選擇嘟嘟車或Grab，時間更可控。如果對當地交通熟悉，公車是省錢的選擇。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 寮國 的飯店使用 寮國 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Laos eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Laos eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Crowne Plaza Vientiane, Pullman Luang Prabang,
-        Sofitel Luang Prabang or a local guesthouse, you can input the address into
-        Google Maps and get turn-by-turn walking or transit directions using your
-        Laos eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Laos eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Laos eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Foodpanda, GrabFood, Lao Delivery and
-        use your Laos eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Laos eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 永珍湄公河畔地標飯店的地理位置如何？適合散步到夜市嗎？
+      a: 這間飯店位於永珍市中心，步行至湄公河夜市僅需10分鐘，位置非常優越。飯店靠近凱旋門和玉佛寺等主要景點，周邊有多家餐廳和按摩店。房間寬敞，設有游泳池和健身房，早餐提供寮式和西式選項。房價約每晚80-150美元，適合追求舒適與便利的旅客。缺點是部分面向街道的房間可能較吵，建議選擇高樓層。
+    - q: 龍坡邦維也納精品度假村有機場接駁服務嗎？如何預訂？
+      a: 度假村提供付費機場接駁，單程約80,000基普（8美元），需提前至少24小時透過電話或電郵預訂。接駁車為空調廂型車，車程約15分鐘。度假村本身位於老城區，步行即可達香通寺和夜市，環境寧靜。擁有游泳池和Spa設施，每晚價格約100-200美元。若未預訂接駁，也可以輕鬆從機場搭嘟嘟車直接抵達。
+    - q: 旺陽河邊旅館提供哪些設施？適合背包客嗎？
+      a: 這間河邊旅館深受背包客喜愛，提供宿舍床位（約50,000基普/晚）和私人房間（約150,000基普/晚）。設施包括免費Wi-Fi、公共廚房、自行車租借和旅遊諮詢台。位於南松河畔，可欣賞山景，距離漂流活動碼頭很近。雖然設備較簡單，但環境乾淨，員工友善。缺點是隔音較差，適合預算有限且希望結識其他旅行的旅客。
+    - q: 永珍有哪些提供河景房的高級飯店？價格範圍？
+      a: 永珍的河景高級飯店包括湄公河畔的「Eastin Hotel Vientiane」和「Mercure Vientiane」，房價約80-150美元/晚。這些飯店擁有游泳池、健身中心和河景餐廳，部分房間可直視湄公河。位於市中心，交通便利，步行可到主要景點。另一選擇「Ansara
+        Hotel」提供精品住宿，價格約100-200美元，風格優雅。建議提前預訂，旺季可能漲價。
+    - q: 在龍坡邦住宿時，選擇老城區還是河對岸的度假村哪個更方便？
+      a: 老城區內有許多民宿和精品飯店，步行即可到達香通寺、夜市和餐廳，生活機能佳，但夜間較為熱鬧。河對岸的度假村（如「The Grand Luang Prabang」）環境清幽，享有河景，但進入市區需搭嘟嘟車（約10分鐘），費用約30,000基普。若偏好寧靜且不介意短程通勤，河對岸是不錯的選擇。老城區則適合喜歡步行探索和夜生活的旅客。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 寮國 旅遊景點的網路：寮國 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Kuang Si Waterfall, Plain of Jars, Mekong Riverside
-        spontaneously, you can use your Laos eSIM data to buy skip-the-line tickets
-        online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Laos eSIM, you can read reviews and book local
-        tours or experiences on Tripadvisor while having coffee at a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Laos.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Laos eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Laos eSIM will keep you connected throughout the
-        park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Laos eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Laos eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Laos eSIM data to search 'restaurants near me' on Google Maps to
-        check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Laos eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Laos eSIM ensures you can scan
-        the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Laos eSIM to process
-        live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Foodpanda, GrabFood, Lao Delivery, register
-        using your email or social accounts, and order food seamlessly using your
-        Laos eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like BCEL
-        One, Unitel Money, TrueMoney Wallet require a brief internet handshake, which
-        your Laos eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Laos eSIM to find hidden culinary gems in the city.
+    - q: 從龍坡邦市區如何前往光西瀑布？門票多少？
+      a: 光西瀑布位於龍坡邦以南約30公里，可從市區租摩托車（車程約40分鐘）或參加當地團（含接送約200,000基普）。嘟嘟車單程約250,000基普，可停靠部分景點。門票為25,000基普（約2.5美元）。園區內有多層瀑布和藍綠色水池，可游泳，建議攜帶泳衣和防蚊液。瀑布周邊步道好走，適合各年齡層。
+    - q: 永珍的凱旋門需要門票嗎？開放時間為何？
+      a: 凱旋門位於永珍市中心，登上頂樓需門票5,000基普（約0.5美元），開放時間為每日上午8點至下午5點。一樓和廣場免費參觀。建築風格類似巴黎凱旋門但融合寮國元素，頂樓可俯瞰市景。建議清晨或傍晚前往，避開正午高溫。周邊的凱旋門公園適合散步，有噴泉和花園。
+    - q: 旺陽的藍色潟湖有哪些？哪一個最適合初學者？
+      a: 旺陽最著名的藍色潟湖有1號（藍色潟湖）和2號、3號。1號潟湖靠近坦江溶洞，設有跳水台和繩索，水較深，適合有經驗的游泳者。2號潟湖較淺且人潮較少，適合初學游泳者或家庭，環境自然。3號潟湖則更偏遠安靜。門票約10,000-15,000基普，部分需要另付停車費。建議從1號開始體驗，但若怕深水可選2號。
+    - q: 在龍坡邦參觀香通寺時，有什麼服裝規定？
+      a: 香通寺是寮國最重要的寺廟之一，服裝要求嚴格。進入寺廟需遮蓋肩膀和膝蓋，不可穿無袖上衣、短褲或短裙。入口處提供免費圍裙，但仍建議自備。進入大殿需脫鞋，寺內禁止喧嘩。門票約20,000基普（約2美元），包含主殿及周邊壁畫區域。建議安排1-2小時參觀，避開中午炎熱時段。
+    - q: 巴色附近的瓦普廟怎麼去？需要纜車或爬山嗎？
+      a: 瓦普廟位於巴色以南約40公里，可從巴色巴士站搭乘巴士（約1小時，15,000基普）或包嘟嘟車（約200,000基普來回）。廟區建於山坡上，需爬一段約400階的石梯，但沿途有樹蔭，體力負擔中等。門票30,000基普（約3美元），可參觀主神殿和廢墟。建議清晨前往以避暑氣，並穿舒適的步行鞋。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 寮國 eSIM 在 寮國 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Laos eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Laos eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Laos eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Laos
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Laos eSIM data allowance to check their own social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Laos eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Laos eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 寮國最常用的社群媒體應用是什麼？使用4G順暢嗎？
+      a: Facebook和Facebook Messenger在寮國最受歡迎，幾乎人人使用，其次為Instagram和LINE。TikTok也在年輕族群中流行。使用Unitel或Lao
+        Telecom的4G網路時，這些應用載入速度流暢，發文和觀看影片無延遲。但對於高畫質直播，建議在Wi-Fi環境下進行，以免消耗過多流量。每日使用社群媒體約耗費500MB-1GB，適合購買含3GB以上數據的方案。
+    - q: 在寮國可以使用Tinder或其他約會App嗎？需要VPN嗎？
+      a: Tinder在寮國可正常使用，不需VPN。覆蓋範圍集中在永珍、龍坡邦等大城市，用戶數較少，但仍有活躍使用者。Bumble和Hinge在寮國較不普遍。使用時請注意網路延遲可能影響照片加載速度，但整體體驗與其他東南亞國家類似。建議在公共場所交換訊息時使用加密通訊軟體以保護隱私。當地文化相對保守，約會時建議尊重習俗。
+    - q: 寮國民眾常用哪些即時通訊軟體？WhatsApp還是LINE多？
+      a: 寮國民眾主要使用Facebook Messenger和LINE，WhatsApp的使用率較低。LINE因在泰國普及，邊境地區（如永珍）也常用。許多商家也使用LINE官方帳號提供服務。WhatsApp則較多用於國際通訊。建議遊客安裝Facebook
+        Messenger以方便與飯店、旅行社溝通，也下載LINE以備不時之需。所有通訊軟體在當地4G網路下運行順暢。
+    - q: 在寮國網路可以使用微信或支付寶嗎？是否需要翻牆？
+      a: 微信和支付寶在寮國可以正常使用，無需翻牆。微信多用於與中國遊客或商家溝通，支付寶在永珍和龍坡邦的不少商店、餐廳接受，尤其是華人經營的店面。但大型連鎖和夜市仍以現金為主。使用前請確保綁定國際信用卡或電子錢包。由於不涉及審查，這些應用在當地4G網路下連線穩定。
+    - q: 寮國的本地社群平台或論壇有哪些？如何加入討論？
+      a: 寮國人常用Facebook社團作為本地論壇，例如「Vientiane Social」或「Luang Prabang Community」等群組，提供二手交易、租屋、活動資訊。加入需有Facebook帳號，申請後通常即時核准。另外也有「Lao
+        Web」等本地入口網站，但使用率較低。參與討論時建議使用英語或基礎寮語，發言尊重當地文化。這些平台也是獲取旅遊即時資訊的好管道。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 寮國 使用 寮國 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Laos, you can dial local emergency numbers like 1191 (Police), 1195 (Ambulance),
-        1190 (Fire) directly from your phone's dialer regardless of your active SIM,
-        as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Laos eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Laos eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Laos eSIM data to call your insurance
-        company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Laos eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Laos eSIM, use your data
-        to download offline areas in Google Maps just in case you venture into mountains
-        or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Laos eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Laos eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Laos eSIM is significantly
-        faster and much more secure against cyber threats than using open public Wi-Fi
-        networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Laos eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Laos eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Laos eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Laos eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在寮國發生車禍或需要救護車時，應撥打哪個號碼？
+      a: 寮國救護車服務可撥打1195，警察撥打1191，消防撥打1190。1195提供基本急救和轉送服務，但反應時間較長（在永珍約15-30分鐘，偏遠地區可能更久）。建議同時聯繫飯店或當地導遊協助，因為部分接線員只說寮語。醫療設施在永珍較完善（如Mittaphab醫院），在偏鄉則有限，建議購買含醫療送返的旅遊保險。
+    - q: 在永珍或龍坡邦遇到警察臨檢或需要報案時，應如何處理？
+      a: 在永珍和龍坡邦，警察臨檢常見於夜間和主要道路。遇到時請保持冷靜，出示護照影本（最好攜帶正本）。若需報案，請前往最近的警局，永珍的主要警局位於湄公河路附近，龍坡邦的警局在郵局旁。報案時盡量攜帶懂英語或寮語的人，並取得報案記錄以申請保險理賠。緊急情況下可撥打1191請求協助，但英語溝通可能有限。
+    - q: 在寮國遺失護照時，應到哪個機構補辦？需要準備什麼？
+      a: 如遺失護照，應首先前往最近警局報案並取得遺失證明，然後聯繫所屬國的大使館或領事館。大多數國家在永珍設有使館，例如中國大使館位於永珍市區。補辦旅行證件通常需要兩張照片、警局報案單、身分證明影本及申請費用。作業時間約3-5個工作天。建議事先備份護照資料頁，並存放在雲端。
+    - q: 永珍的主要醫院有哪些？夜間急診服務如何？
+      a: 永珍的主要醫院包括Mittaphab醫院（公立）、Setthathirath醫院（私立）和Mahosot醫院（教學醫院）。私立醫院如Setthathirath提供較好的夜間急診服務，英語溝通較順暢，但費用較高。公立醫院急診24小時開放，但醫療資源有限，重大傷病建議轉至泰國邊境的醫院（如廊開）。建議隨身攜帶常用藥品和急救包。
+    - q: 寮國旅遊時遇到詐騙或糾紛，可用哪個號碼申訴？
+      a: 寮國的旅遊警察專線為1191（可轉接旅遊警察），但僅在永珍和龍坡邦有專門單位。也可撥打外交部領事事務局提供的緊急聯絡電話（如所在國使館）。若與商家發生糾紛，建議先與店家協商，必要時請求飯店或當地導遊協助調解。在夜市購物時，先確認價格並索取收據。若涉及金額較大，可向當地警局報案。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 寮國 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Laos eSIM vs Prepaid SIM: Which One Is Right for You?"
-  subtitle: "Laos Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Laos) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Laos"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Laos eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Unitel SIM card costs 10,000 LAK (including 5,000 LAK balance and 200MB). Purchasing high-performance plans from Unitel and Lao Telecom requires visiting a specific store and submitting passport registration, facing English communication difficulties in Vientiane and provincial offices."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Unitel store queues and passport checks. Activate your eSIM online within 1 minute after landing in Vientiane, avoiding the 30-minute in-person process."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Unitel offers a compulsory KYC reward: after successful real-name registration, you get 1GB (7 days valid) and an extra 10,000 LAK credit. Passport registration is required to obtain bonus data and access 4G."
-      esim_title: "No Passport Required"
-      esim_desc: "Bypass Unitel's compulsory KYC that demands passport registration for 1GB bonus and 4G access. Roami eSIM activates without any ID, saving time and privacy."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Unitel provides roaming packs to Vietnam (Viettel) and Cambodia (Metfone), e.g., Cambodia 7 days 100,000 LAK unlimited. However, if you fail to select the correct network in Vietnam, roaming fees skyrocket to over 11,000 LAK/MB. TPlus global roaming can be as high as 200,000 LAK/MB."
-      esim_title: "Global Roaming Without Risk"
-      esim_desc: "Avoid Unitel's 11,000 LAK/MB roaming fees in Vietnam or TPlus's 200,000 LAK/MB global rates. Roami eSIM offers affordable multi-country plans with automatic network selection."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Unitel's Net SIM uses calendar-month billing: if activated on the 15th, you pay half but the plan expires at midnight on the last day of the month. A 7-day tourist buying a 30-day plan wastes over 70% of the plan's value."
-      esim_title: "Flexible Daily Plans"
-      esim_desc: "Unlike Unitel's calendar-month billing that wastes 70% of a 30-day plan for a 7-day trip, Roami offers 7-day data plans starting from $1.99/GB, paying only for what you use."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. However, based on common market practice, most Lao prepaid SIMs allow tethering but may throttle speeds after a certain data cap."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike some local SIMs that may throttle after a data cap. Stay connected on all your devices."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up can be done via ATM but may require a local debit card. International travelers may face difficulties purchasing scratch cards at roadside shops."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to find scratch cards or use local debit cards that often reject foreign transactions."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Lao Telecom's provincial offices have difficulty serving non-Lao speakers. ETL publishes promotions on Facebook, making it opaque. Customer support is primarily in Lao."
-      esim_title: "24/7 English Support"
-      esim_desc: "Get instant help in English via live chat or email, unlike Lao Telecom's provincial offices that struggle with non-Lao speakers or ETL's opaque Facebook-based support."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Laos eSIM vs Physical SIM: Which Is Better for Travel?"
-    cards:
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Escape the Calendar-Month Billing Trap"
-        desc: "Unitel's Net SIM uses calendar-month billing: a 7-day tourist buying a 30-day plan wastes over <b>70%</b> of the plan's value. Roami offers 7-day plans starting from <b>$1.99/GB</b>, paying only for what you use."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Sky-High Roaming Fees in Neighboring Countries"
-        desc: "Unitel charges over <b>11,000 LAK/MB</b> if you select the wrong network in Vietnam. TPlus global roaming can reach <b>200,000 LAK/MB</b>. Roami eSIM offers affordable multi-country plans with automatic network selection."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Laos' Strict SIM Passport Requirements"
-        desc: "Unitel requires passport registration to get 1GB bonus and access 4G. Roami eSIM activates instantly without any ID, saving you from visiting a store and waiting 30 minutes."
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "24/7 English Customer Support"
-        desc: "Get instant help in English via live chat or email. Unlike Lao Telecom's provincial offices that struggle with non-Lao speakers or ETL's opaque Facebook-based support."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

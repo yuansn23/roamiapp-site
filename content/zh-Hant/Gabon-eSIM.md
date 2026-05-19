@@ -1,94 +1,88 @@
 ---
-title: Gabon eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 加彭 eSIM 方案 | 加彭 eSIM | Roami
+date: '2026-05-19T09:50:35+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Gabon eSIM
-  scenario_keywords: Gabon safari, Libreville sightseeing, beach relaxation, wildlife
-    photography, business travel
-  operators: Airtel, Moov Africa, Gabon Telecom
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Libreville, Port-Gentil, Franceville, Oyem, Moanda
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 加彭 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食, 國家公園
+  operators: Airtel Gabon, Moov Africa Gabon, Azur
+  competitors: Airalo, Holafly, Nomad, Ubigi, GigSky
+  main_cities: 利伯維爾, 讓蒂爾港, 弗朗斯維爾, 奧耶姆, 蘭巴雷內
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Gabon eSIM |Unlimited Data| Stable 5G for Light Travel | Roami
-  description: Explore Gabon with ease. Experience No Roaming Shock and seamless Reliable
-    5G from Top Local Carrier. Perfect for Visiting Family, offering 24/7 Support
-    and Seamless Coverage.
-  keywords: Gabon eSIM, travel internet, instant delivery, no roaming charges, QR
-    code activation, local networks, cheap eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: 加彭 eSIM | eSIM無限流量 | 5G網路自動切換 | Roami
+  description: 加彭旅遊必備 Roami eSIM，提供無限流量與 5G 網路自動切換。現在購買並使用折扣碼 20%，讓您的旅遊連線更輕鬆方便。
+  keywords: 加彭 eSIM, 加彭上網, 加彭旅遊, 加彭行動網路, 加彭國際機場, 加彭景點
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 加彭 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Gabon eSIM
+- label: 加彭 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Gabon
-  title: Best eSIM for Gabon
+  alt: 最佳 加彭 eSIM
+  title: 最佳 加彭 eSIM
 hero:
   flag_image: img/flags/ga.svg
-  flag_alt: Gabon Flag
-  title: Gabon eSIM data plan
-  subtitle: No hidden fees | 20% discount for a limited time | Automatic network selection
+  flag_alt: 加彭 國旗
+  title: 加彭 eSIM - 旅行計劃
+  subtitle: 加彭 eSIM | 高速5G網路 | 100%退款保證 | 無需身份證件
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 加彭 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 加彭 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '14.99'
     oldPrice: '22.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.14'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '23.99'
     oldPrice: '35.98'
     tag: ''
@@ -96,17 +90,17 @@ plans_data:
     daily: '3.43'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '34.99'
     oldPrice: '52.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '5.00'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '25.99'
     oldPrice: '38.98'
     tag: ''
@@ -114,25 +108,25 @@ plans_data:
     daily: '1.73'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '37.99'
     oldPrice: '56.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '64.99'
     oldPrice: '97.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '4.33'
-  30 Days:
+  30 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '26.99'
     oldPrice: '40.48'
     tag: ''
@@ -140,574 +134,334 @@ plans_data:
     daily: '0.90'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '39.99'
     oldPrice: '59.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '74.99'
     oldPrice: '112.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.50'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '99.99'
     oldPrice: '149.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.33'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
-  3 Days:
+  3 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '52.99'
     oldPrice: '79.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '17.66'
 discount_banner:
-  title: Special Discount!
+  title: 加彭 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 加彭 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Gabon, including major cities
-        like Libreville, Port-Gentil, Franceville, and Oyem. Our Gabon eSIM seamlessly
-        connects to the robust networks of Airtel, Moov Africa, and Gabon Telecom,
-        ensuring stable signals in urban centers, tourist hotspots, and along major
-        transportation routes.
+      title: 覆蓋範圍
+      desc: 在整個 加彭 享受廣泛的網路覆蓋，包括 利伯維爾、讓蒂爾港、弗朗斯維爾、奧耶姆 等城市。我們的 加彭 eSIM 無縫連接到 Airtel Gabon、Moov
+        Africa Gabon、Azur 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: Airtel
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: Moov Africa
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Gabon Telecom
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+    - name: Airtel Gabon
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
+    - name: Moov Africa Gabon
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 加彭 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Gabon.
+    html: 建議抵達 加彭 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 加彭 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 加彭 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 加彭 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 加彭 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 加彭」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Gabon'
-    desc: Upon arriving in Gabon, enable your Gabon eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 加彭 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Airtel Gabon / Moov Africa Gabon 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 加彭：立即連上 5G/4G 網路
+    desc: 當您降落在 加彭（例如 利伯維爾國際機場 (LBV), 讓蒂爾港國際機場 (POG), 弗朗斯維爾國際機場 (MVB)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 加彭。幾秒鐘內，您的設備將自動連接到 Airtel Gabon / Moov
+      Africa Gabon 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Gabon eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Gabon eSIM across different travel
-    scenarios.
+  title: 加彭 eSIM：完整指南和常見問題
+  desc: 使用 加彭 eSIM 在 加彭 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 加彭 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Gabon eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Gabon eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Gabon eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Gabon and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Gabon eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Gabon eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Gabon that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Gabon eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Gabon eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Gabon eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Gabon eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Gabon,
-        such as Airtel, Moov Africa, Gabon Telecom, to ensure premium speeds at a
-        fraction of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, Numero, mobimatter,
-        Airalo?
-      a: While great companies like Holafly, Numero, mobimatter, Airalo offer reliable
-        services, we focus on providing the most cost-effective Gabon eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在利伯維爾市中心使用eSIM時，哪家運營商的網速最快？
+      a: 在利伯維爾市中心，例如獨立大道和總統府周邊，Airtel Gabon通常提供最快的網速，平均下載速度約30-50 Mbps，適合串流和視訊通話。Moov
+        Africa Gabon在靠近海濱區域也有良好覆蓋，但有時在高峰時段（18:00-21:00）速度會降至10-15 Mbps。建議在抵達利伯維爾國際機場後，手動選擇Airtel網路以獲得最佳體驗。如果前往較偏遠的郊區如奧文多，Moov的信號可能更穩定。
+    - q: 在讓蒂爾港使用eSIM時，是否需要手動選擇運營商？
+      a: 通常eSIM會自動連接到最佳可用網路，但在讓蒂爾港，由於其為石油城市，網路基礎設施良好，但有時自動選擇可能會連接到較慢的Azur網路。建議在設定中手動鎖定Airtel
+        Gabon或Moov Africa Gabon，特別是在商業區如Place de l'Indépendance附近。如果您主要待在油區，Airtel提供更穩定的4G+服務。手動選擇只需進入行動網路設定，關閉自動選擇，然後從列表中選擇Airtel即可。
+    - q: 在弗朗斯維爾旅遊時，eSIM的覆蓋範圍如何？
+      a: 弗朗斯維爾是加彭東部的主要城市，eSIM在市中心和機場周邊覆蓋良好，連接到Moov Africa Gabon時速度約20-40 Mbps。但在前往附近的巴泰凱高原國家公園時，信號會變得斷斷續續，特別是離開主幹道後。建議在進入國家公園前下載離線地圖。在市區內，主要街道如Avenue
+        de la Paix上覆蓋穩定，可正常使用社交媒體和導航。
+    - q: 在奧耶姆靠近喀麥隆邊境，eSIM的信號穩定嗎？
+      a: 奧耶姆是加彭北部的邊境城市，eSIM主要依賴Airtel Gabon的網路，在市中心如市場附近信號較強，但靠近邊境區域有時會切換到喀麥隆的漫遊網路。這可能導致數據速度下降至5-10
+        Mbps，並產生額外費用。建議在設定中關閉數據漫遊，並手動鎖定Airtel。前往市郊的農村地區時，信號可能中斷，建議使用離線地圖。
+    - q: 在蘭巴雷內（Lambaréné）使用eSIM，可以用於視訊通話嗎？
+      a: 蘭巴雷內以施韋策醫院聞名，eSIM在該鎮的主要區域如醫院周邊和奧果韋河沿岸的飯店提供足夠的速度。連接到Moov Africa Gabon時，下載速度約15-25
+        Mbps，足以進行WhatsApp視訊通話，但在傍晚時段可能出現延遲。建議選擇Airtel獲得更穩定的連接。如果前往河對岸的村莊，信號可能減弱，建議提前下載資料。
+    - q: 在加彭使用eSIM時，數據量是否有公平使用限制？
+      a: 我們的eSIM方案在加彭通常包含高速數據，但公平使用政策（FUP）適用於每日超過5 GB的使用量。例如，如果您一天內觀看大量串流影片，速度可能會從30
+        Mbps降至2 Mbps，但仍足以收發訊息和瀏覽網頁。在利伯維爾等城市，降速後仍可使用Google Maps和導航。建議在飯店使用Wi-Fi下載大型檔案，節省行動數據。
+    - q: 在加彭偏遠地區如馬科庫（Makokou），eSIM能否正常運作？
+      a: 馬科庫位於加彭東北部，靠近伊溫多國家公園，eSIM在該鎮周邊有零星的4G覆蓋，主要來自Airtel Gabon。在鎮中心如市場附近，速度可達10-15
+        Mbps，但進入森林保護區後信號會消失。建議在進入偏遠地區前下載離線地圖和娛樂內容。我們的eSIM在主要城鎮之間的主要道路上有一定覆蓋，但不要依賴導航。
+    - q: 在加彭長期使用eSIM，如何避免意外扣費？
+      a: 我們的eSIM方案為預付費，無隱藏費用。但為避免自動續費，建議在不需要時從帳戶管理頁面取消自動充值。在加彭，留意不要意外啟用數據漫遊，特別是靠近邊境時。例如，在奧耶姆靠近喀麥隆，或法國維爾靠近剛果共和國，關閉漫遊可防止連接到鄰國網路。另外，定期檢查用量，確保不超過公平使用上限。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 加彭 機場：如何使用 加彭 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Gabon eSIM before your flight. Once you land at Libreville Leon
-        Mba International Airport, Port-Gentil International Airport, Franceville
-        Mvengue Airport, simply turn off Airplane Mode and enable your eSIM line.
-        It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Gabon eSIM activated upon landing, you can immediately open Gozem,
-        Moov, TaxiYa to book a ride or use WhatsApp to message your pre-booked driver
-        without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Gabon eSIM data allows you to open Google Maps right at the
-        baggage claim in Libreville Leon Mba International Airport, Port-Gentil International
-        Airport, Franceville Mvengue Airport to check real-time train schedules, bus
-        routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Gabon eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Gabon eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Gabon eSIM cellular data to let your family know you've arrived safely.
+    - q: 抵達利伯維爾國際機場後，如何立即啟用eSIM？
+      a: 建議您在出發前安裝eSIM並掃描QR碼，這樣抵達利伯維爾國際機場（LBV）後，只需關閉飛航模式並啟用數據漫遊即可。機場入境大廳附近Airtel和Moov的信號良好，通常在一分鐘內自動連線。如果遇到問題，可以連接機場免費Wi-Fi（限30分鐘）或請教資訊櫃檯人員。啟用後，建議先測試Google
+        Maps導航到飯店。
+    - q: 在讓蒂爾港國際機場，eSIM的連線速度如何？
+      a: 讓蒂爾港國際機場（POG）的eSIM連線速度良好，連接到Moov Africa Gabon時約20-30 Mbps，足以快速上傳照片或使用社交媒體。機場大廳內覆蓋完整，但在拿行李區域可能稍有延遲。由於讓蒂爾港是石油城市，機場網路基礎設施先進。建議在抵達後手動選擇Airtel以獲得更快的速度，特別是需要下載地圖或叫Uber時。
+    - q: 在弗朗斯維爾機場，eSIM需要手動設定APN嗎？
+      a: 通常我們的eSIM會自動設定APN，但在弗朗斯維爾機場（MVB）如果無法連線，可以手動輸入APN："internet"。機場航廈較小，但Airtel和Moov的信號覆蓋良好。建議在等待行李時檢查連線，若無訊號可重啟手機。機場內有免費Wi-Fi，可用於設定APN。
+    - q: 從利伯維爾機場搭計程車到市區，eSIM導航穩定嗎？
+      a: 從利伯維爾機場到市區約20分鐘車程，eSIM沿著主要道路如Boulevard de l'Indépendance提供穩定的4G信號，導航應用如Google
+        Maps可正常使用。但在通往市區的橋樑附近，信號可能短暫下降，但不會影響路線。建議使用離線地圖備用，因為部分計程車司機可能不熟悉道路。
+    - q: 在利伯維爾機場可以購買當地SIM卡備用嗎？
+      a: 利伯維爾國際機場入境大廳有Airtel和Moov的櫃檯，可以購買預付SIM卡，價格約1000-5000 XAF（約2-8美元）。但若您已購買我們的eSIM，通常無需額外購買，因為eSIM覆蓋範圍更廣且無需換卡。如果擔心備用，可以購買一張當地SIM卡，但注意需要護照註冊。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 加彭 eSIM 用於 加彭 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Gabon eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Gabon, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Gozem, Moov, TaxiYa use VoIP (internet calling) and in-app messaging.
-        Since you have active Gabon eSIM data, drivers can call or message you directly
-        through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Gabon eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Gabon eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Gabon.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Gabon eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Gabon eSIM's data network while on the
-        train or in the car.
+    - q: 在利伯維爾使用Uber時，eSIM的數據是否足夠？
+      a: Uber在利伯維爾主要區域如Mbataville和Glass運作良好，eSIM提供的速度足以即時更新車輛位置和接收通知。然而，在高峰時段（7:00-9:00和17:00-19:00），市中心可能出現網路擁堵，導致Uber地圖載入稍慢。建議出發前在飯店Wi-Fi下載離線地圖，並確保eSIM有足夠數據。
+    - q: 從利伯維爾到讓蒂爾港搭乘國內航班，eSIM在機場連線如何？
+      a: 利伯維爾機場和讓蒂爾港機場的4G覆蓋良好，eSIM可無縫使用。在利伯維爾機場候機時，可以觀看影片或工作。抵達讓蒂爾港後，eSIM自動連線。國內航班通常不提供Wi-Fi，因此eSIM是保持連線的最佳方式。
+    - q: 在弗朗斯維爾叫計程車，eSIM能否用於支付？
+      a: 弗朗斯維爾的計程車普遍接受現金，但部分司機支援Airtel Money或Moov Money。eSIM可確保您使用網路銀行或行動支付應用。建議在出發前設定好帳戶。由於網路覆蓋良好，可以順利進行轉帳。
+    - q: 在奧耶姆搭乘共乘小巴（Taxi-brousse），eSIM導航可靠嗎？
+      a: 奧耶姆的共乘小巴主要往返市場和邊境，eSIM在市中心區域提供穩定導航，但前往偏遠村莊時信號可能中斷。建議使用離線Maps.me並提前告訴司機目的地。在車上，連線可能斷斷續續，但主要道路上有Airtel的覆蓋。
+    - q: 在利伯維爾租車自駕，eSIM用於導航的數據需求大嗎？
+      a: 利伯維爾自駕是探索城市的好方式，eSIM用於Google Maps導航每小時約消耗5-10 MB數據。建議下載加彭離線地圖以節省流量。主要道路如Boulevard
+        de l'Indépendance上信號穩定，但在部分郊區如Nkembo可能出現短暫延遲。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 加彭 的飯店使用 加彭 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Gabon eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Gabon eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Radisson Blu Okoume Palace Hotel, Le Meridien
-        Re-Ndama, Hotel Tropicana or a local guesthouse, you can input the address
-        into Google Maps and get turn-by-turn walking or transit directions using
-        your Gabon eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Gabon eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Gabon eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Jumia Food, Glovo, Uber Eats (limited)
-        and use your Gabon eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Gabon eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 在利伯維爾Radisson Blu Okoume Palace Hotel使用eSIM，網速夠快嗎？
+      a: Radisson Blu Okoume Palace Hotel位於利伯維爾市中心，靠近總統府，eSIM連接到Airtel時下載速度約40-60
+        Mbps，非常適合串流和視訊會議。飯店本身提供高速Wi-Fi，但eSIM可作為備用。在泳池或花園區域，信號依然強勁。
+    - q: 在讓蒂爾港Hotel Tropicana使用eSIM，能否觀看Netflix？
+      a: Hotel Tropicana位於讓蒂爾港海濱，eSIM連接到Moov Africa時速度約25-35 Mbps，可以流暢觀看Netflix高清影片。但晚上尖峰時段可能降至10-15
+        Mbps，建議使用飯店Wi-Fi備用。如果偏愛隱私，eSIM是穩定的選擇。
+    - q: 在弗朗斯維爾的飯店裡，eSIM信號強嗎？
+      a: 弗朗斯維爾的飯店如Hotel Vénus，eSIM在房間內信號良好，連接到Airtel時約20-30 Mbps。但在內側房間可能信號稍弱。前台通常提供Wi-Fi，但速度不如4G。建議選擇靠近窗戶的位置以獲得最佳信號。
+    - q: 利伯維爾的飯店是否提供免費Wi-Fi，與eSIM相比如何？
+      a: 利伯維爾多數中高檔飯店如Le Meridien Re-Ndama提供免費Wi-Fi，但速度可能受限，尤其在入住率高時。eSIM提供更穩定的個人連線，且無需登入。建議在飯店大廳使用Wi-Fi下載內容，晚上使用eSIM進行串流。
+    - q: 在奧耶姆的住宿點，eSIM是否比Wi-Fi更可靠？
+      a: 奧耶姆的住宿如Hotel M'Passa，Wi-Fi可能不穩定或速度慢，此時eSIM是更好選擇。當地Airtel網路提供約10-20 Mbps速度，足以瀏覽網頁和通訊。部分郊區住宿可能沒有Wi-Fi，eSIM成為主要連線方式。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 加彭 旅遊景點的網路：加彭 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Lopé National Park, Pointe Denis Beach, Pongara National
-        Park spontaneously, you can use your Gabon eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Gabon eSIM, you can read reviews and book local
-        tours or experiences on Tripadvisor while having coffee at a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Gabon.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Gabon eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Gabon eSIM will keep you connected throughout the
-        park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Gabon eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Gabon eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Gabon eSIM data to search 'restaurants near me' on Google Maps to
-        check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Gabon eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Gabon eSIM ensures you can scan
-        the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Gabon eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Jumia Food, Glovo, Uber Eats (limited),
-        register using your email or social accounts, and order food seamlessly using
-        your Gabon eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Airtel
-        Money, Moov Money, Orange Money require a brief internet handshake, which
-        your Gabon eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Gabon eSIM to find hidden culinary gems in the city.
+    - q: 參觀洛佩國家公園時，eSIM可以用於導航嗎？
+      a: 洛佩國家公園位於加彭中部，eSIM在公園入口處有信號，但深入叢林後覆蓋有限。建議在出發前下載離線地圖和公園路線。園內主要營地如Mikongo有微弱信號，可發送簡訊但視頻通話不穩定。
+    - q: 在波因特-德尼海灘，eSIM速度如何？可以分享熱點嗎？
+      a: 波因特-德尼海灘靠近利伯維爾，eSIM連接到Moov時速度約15-25 Mbps，足以分享熱點給同行者。但沙灘區域可能因距離基地台較遠而速度下降。建議靠近海灘餐廳區域獲得較佳信號。
+    - q: 在利伯維爾國家博物館參觀時，eSIM用於語音導覽是否夠用？
+      a: 國家博物館位於利伯維爾市中心，eSIM信號強勁，可流暢載入語音導覽應用。博物館內可能屏蔽部分信號，但主要展廳連線良好。建議提前下載內容，不過串流也可行。
+    - q: 前往伊溫多國家公園，eSIM在哪些區域有用？
+      a: 伊溫多國家公園位於東北部，eSIM在公園入口城鎮馬科庫有信號，但進入公園後大部分沒有覆蓋。建議在馬科庫下載所有必要資訊。我們的eSIM在主要道路上提供基本連線，不要依賴導航。
+    - q: 在利伯維爾的Mont-Bouët市場，eSIM可以行動支付嗎？
+      a: Mont-Bouët市場是利伯維爾最大的露天市場，eSIM在市場內速度約10-20 Mbps，可用於行動支付如Airtel Money。但人群擁擠時速度可能下降。建議使用現金為主要支付方式，eSIM作為備用查詢。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 加彭 eSIM 在 加彭 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Gabon eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Gabon eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Gabon eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Gabon
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Gabon eSIM data allowance to check their own social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Gabon eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Gabon eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在利伯維爾使用eSIM上傳Instagram圖片，速度快嗎？
+      a: 在利伯維爾市中心，eSIM連接到Airtel時上傳速度約10-15 Mbps，上傳一張高解析度圖片約需2-3秒。在獨立大道或海濱等熱門打卡點，速度穩定。晚上在餐廳聚集區如Mbataville，上傳速度可能稍慢但可接受。
+    - q: 在讓蒂爾港用eSIM進行Facebook直播，流暢嗎？
+      a: 讓蒂爾港的4G覆蓋良好，eSIM進行Facebook直播時，以720p解析度很流暢，延遲約2-3秒。建議在商業區如Place de l'Indépendance直播以獲最佳效果。離島或海灘區域信號較弱，可能出現卡頓。
+    - q: 在弗朗斯維爾使用eSIM玩線上遊戲，延遲高嗎？
+      a: 弗朗斯維爾的eSIM連接到Moov時，遊戲延遲約50-80毫秒，適合玩《傳說對決》等MOBA遊戲。但在晚上時段可能升至120毫秒。建議選擇Airtel網路以獲得更低延遲。
+    - q: 在利伯維爾使用eSIM下載TikTok影片，速度快嗎？
+      a: 利伯維爾的eSIM下載速度約30-50 Mbps，下載一個15秒TikTok影片約需1秒。在咖啡廳如Café de la Paix，速度穩定。若使用數據分享給多人，速度可能下降，但個別使用綽綽有餘。
+    - q: 在奧耶姆用eSIM與家人視訊通話，品質如何？
+      a: 奧耶姆的eSIM支援WhatsApp視訊通話，品質良好但偶爾有延遲。在市中心如市場附近，通話清晰。靠近邊境時可能切換網路導致中斷。建議在穩定信號區域通話。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 加彭 使用 加彭 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Gabon, you can dial local emergency numbers like 112 (general emergency),
-        117 (police), 118 (fire), 130 (ambulance) directly from your phone's dialer
-        regardless of your active SIM, as long as your phone can catch any cellular
-        signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Gabon eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Gabon eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Gabon eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Gabon eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Gabon eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Gabon eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Gabon eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Gabon eSIM is significantly
-        faster and much more secure against cyber threats than using open public Wi-Fi
-        networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Gabon eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Gabon eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Gabon eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Gabon eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在加彭遇到緊急情況，如何撥打當地求救電話？
+      a: 在加彭，警察可撥打1730，救護車1300，消防18。使用eSIM時，這些號碼可直接撥打，無需加國碼。建議將這些號碼存入手機。如果無法接通，可聯繫飯店前台或大使館。
+    - q: 在利伯維爾發生車禍，eSIM能否協助聯繫保險？
+      a: eSIM可讓您立即撥打保險公司電話或使用應用程式。利伯維爾機場及主要道路覆蓋良好，可順利通話。建議預先儲存保險公司緊急號碼。如果語言不通，可請求路人協助。
+    - q: 在讓蒂爾港遇到醫療緊急情況，eSIM能用於視訊問診嗎？
+      a: 讓蒂爾港有良好4G覆蓋，eSIM支援視訊通話，可用於遠距醫療諮詢。但部分醫院如Centre Hospitalier de Port-Gentil提供線上服務。建議先撥打1300叫救護車，eSIM保持通話穩定。
+    - q: 在弗朗斯維爾遭遇搶劫，eSIM報警是否及時？
+      a: 弗朗斯維爾警察局可撥打1730，eSIM信號良好可快速接通。但建議確保手機電量充足，並將位置分享給警方。市中心警察局位於Avenue de la
+        Paix附近。
+    - q: 在奧耶姆邊境地區護照遺失，eSIM如何聯繫大使館？
+      a: 奧耶姆靠近喀麥隆邊境，eSIM可撥打中國大使館在加彭的24小時領事保護電話：+241 07 50 96 96。或聯繫法國大使館等。建議先前往當地警察局報案。eSIM在邊境城鎮覆蓋良好。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 加彭 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Gabon eSIM vs Local Prepaid SIM: Which Is More Convenient?"
-  subtitle: "Gabon Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Gabon) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Gabon"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Gabon eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "SIM card costs 500-1000 CFA; tourists must provide two copies of passport and visa, and find a copy shop."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip searching for Gabon Telecom or Airtel stores and copy shops. Activate online within 1 minute before or after landing, avoiding the hassle of passport copies."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Both Gabon Telecom and Airtel require passport and visa copies for registration; Gabon Telecom demands two copies."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Gabon Telecom and Airtel which demand passport and visa copies, Roami eSIM requires no KYC, preserving your privacy and saving time."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, local SIMs typically offer no roaming or expensive roaming; eSIM provides multi-country plans."
-      esim_title: "Multi-Country Roaming"
-      esim_desc: "Avoid Gabon Telecom's lock-in: eSIM offers plans covering multiple African countries, so you stay connected when traveling to Cameroon or Equatorial Guinea without buying a new SIM."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Gabon Telecom offers 2GB/7 days for 4500 CFA; Airtel offers 2GB/7 days for 5000 CFA. Short-term packs exist but are fragmented."
-      esim_title: "Flexible Daily Plans"
-      esim_desc: "Unlike Gabon Telecom's 2GB/7 days at 4500 CFA or Airtel's 2GB/7 days at 5000 CFA, Roami offers 7-day plans starting from $1.99/GB, eliminating waste from mismatched trip lengths."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed but may be restricted on some plans."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows tethering on all plans, unlike some local SIMs that may block or throttle hotspot usage. Share your connection freely."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up via scratch cards; Airtel warns double/triple credit promotions apply only to voice/SMS, not data."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to find scratch cards or risk Airtel's misleading double-credit promotions."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, support is typically in French, limited hours."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock support in English and French via chat or email, unlike local SIM support which is often limited to French business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Gabon eSIM or Prepaid SIM Card: A Side-by-Side Comparison"
-    cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Transparent Pricing with Global Payments"
-        desc: "Avoid Airtel's misleading <b>double/triple credit</b> promotions that apply only to voice/SMS. Pay with <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal</b> for pure data."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Gabon's Strict SIM Passport Requirements"
-        desc: "Gabon Telecom and Airtel both require <b>passport and visa copies</b> for registration. Gabon Telecom even demands <b>two copies</b>. Roami eSIM activates instantly with zero KYC."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Single-Network Coverage Dead Zones"
-        desc: "Gabon Telecom covers ~60% of the market but has rural blind spots; Airtel's coverage is weaker. eSIM aggregates multiple networks, automatically switching to the strongest signal."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation, No Store Queues"
-        desc: "Skip searching for a copy shop to print <b>two passport copies</b> and waiting in line at Gabon Telecom or Airtel stores. Activate online in <b>1 minute</b>."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

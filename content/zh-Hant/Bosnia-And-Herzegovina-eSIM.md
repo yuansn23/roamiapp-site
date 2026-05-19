@@ -1,558 +1,369 @@
 ---
-title: Bosnia And Herzegovina eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 波士尼亞與赫塞哥維納 eSIM 方案 | 波士尼亞與赫塞哥維納 eSIM | Roami
+date: '2026-05-19T10:39:50+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Bosnia And Herzegovina eSIM
-  scenario_keywords: Sarajevo sightseeing, Mostar day trip, Kravica waterfall visit,
-    Banja Luka travel, Bosnia road trip
-  operators: BH Telecom, HT Mostar, m:tel
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Sarajevo, Mostar, Banja Luka, Tuzla, Zenica
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 波士尼亞與赫塞哥維納 eSIM
+  scenario_keywords: 城市漫步, 河畔漫步, 購物體驗, 當地美食
+  operators: BH Telecom, m:tel, HT Eronet
+  competitors: Airalo, Holafly, Nomad, Ubigi, Airhub
+  main_cities: 塞拉耶佛, 莫斯塔爾, 巴尼亞盧卡, 特雷比涅, 比哈奇
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Bosnia And Herzegovina eSIM Plan | Top Local Carrier Reliable 5G | Roami
-  description: Traveling to Bosnia And Herzegovina? Enjoy Top Local Carrier Always-On
-    5G and No Contract Data with Roami. With Nationwide Coverage and Unlimited Data,
-    it's perfect for Family Vacations.
-  keywords: Bosnia eSIM, Bosnia eSIM data plan, cheap eSIM Bosnia, travel eSIM Bosnia,
-    instant eSIM Bosnia, prepaid eSIM Bosnia
-  low_price: 1.99
-  high_price: 39.9
+  title: 波士尼亞與赫塞哥維納 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
+  description: 前往波士尼亞與赫塞哥維納，就用 Roami eSIM！提供最佳 5G 高速網路與無限流量。現在下單並使用折扣碼 20% 領取您的優惠。
+  keywords: 波士尼亞與赫塞哥維納 eSIM, 波士尼亞網路覆蓋, 波士尼亞旅遊, 塞拉耶佛 eSIM, 莫斯塔爾景點
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 波士尼亞與赫塞哥維納 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Bosnia And Herzegovina eSIM
+- label: 波士尼亞與赫塞哥維納 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Bosnia And Herzegovina
-  title: Best eSIM for Bosnia And Herzegovina
+  alt: 最佳 波士尼亞與赫塞哥維納 eSIM
+  title: 最佳 波士尼亞與赫塞哥維納 eSIM
 hero:
   flag_image: img/flags/ba.svg
-  flag_alt: Bosnia And Herzegovina Flag
-  title: Bosnia And Herzegovina eSIM data plan
-  subtitle: Instant delivery | 20% discount for a limited time | Hotspot supported
+  flag_alt: 波士尼亞與赫塞哥維納 國旗
+  title: 波士尼亞與赫塞哥維納 eSIM - 旅行計劃
+  subtitle: 波士尼亞與赫塞哥維納 eSIM | 100%退款保證 | 高速5G網路 | 即時交付
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 波士尼亞與赫塞哥維納 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 波士尼亞與赫塞哥維納 eSIM
 plans_data:
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
 discount_banner:
-  title: Special Discount!
+  title: 波士尼亞與赫塞哥維納 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 波士尼亞與赫塞哥維納 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Bosnia And Herzegovina, including
-        major cities like Sarajevo, Mostar, Banja Luka, and Tuzla. Our Bosnia And
-        Herzegovina eSIM seamlessly connects to the robust networks of BH Telecom,
-        HT Mostar, and m:tel, ensuring stable signals in urban centers, tourist hotspots,
-        and along major transportation routes.
+      title: 覆蓋範圍
+      desc: 在整個波士尼亞與赫塞哥維納享受廣泛的網路覆蓋，包括塞拉耶佛、莫斯塔爾、巴尼亞盧卡等城市。我們的波士尼亞與赫塞哥維納 eSIM 無縫連接到 BH
+        Telecom、m:tel 和 HT Eronet 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: BH Telecom
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: HT Mostar
-      coverage: Reliability
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: m:tel
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 波士尼亞與赫塞哥維納 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Bosnia And Herzegovina.
+    html: 建議抵達 波士尼亞與赫塞哥維納 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 波士尼亞與赫塞哥維納 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 波士尼亞與赫塞哥維納 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 波士尼亞與赫塞哥維納 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 波士尼亞與赫塞哥維納 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 波士尼亞與赫塞哥維納」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Bosnia And Herzegovina'
-    desc: Upon arriving in Bosnia And Herzegovina, enable your Bosnia And Herzegovina
-      eSIM in settings to start using data. We recommend connecting to WiFi during
-      the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 波士尼亞與赫塞哥維納 時，只需開啟
+      eSIM – 有效期將在首次連接到 BH Telecom / m:tel 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 波士尼亞與赫塞哥維納：立即連上 5G/4G 網路
+    desc: 當您降落在 波士尼亞與赫塞哥維納（例如 塞拉耶佛國際機場, 莫斯塔爾國際機場, 巴尼亞盧卡國際機場）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往
+      **設定 → 行動服務** 並開啟您的 Roami eSIM 波士尼亞與赫塞哥維納。幾秒鐘內，您的設備將自動連接到 BH Telecom / m:tel
+      提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Bosnia And Herzegovina eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Bosnia And Herzegovina eSIM across
-    different travel scenarios.
+  title: 波士尼亞與赫塞哥維納 eSIM：完整指南和常見問題
+  desc: 使用 波士尼亞與赫塞哥維納 eSIM 在 波士尼亞與赫塞哥維納 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 波士尼亞與赫塞哥維納 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Bosnia And Herzegovina eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Bosnia And Herzegovina
-        eSIM simply by scanning the QR code we send to your email in your phone's
-        Cellular/Mobile Data settings.
-    - q: How to buy and activate the Bosnia And Herzegovina eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Bosnia And
-        Herzegovina and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Bosnia And Herzegovina eSIM.
-        It typically needs to be installed within 30 days of purchase. Once installed,
-        it cannot be scanned again or transferred to another device.
-    - q: Can I get a refund if the Bosnia And Herzegovina eSIM doesn't work or has
-        a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Bosnia And Herzegovina that our support team cannot resolve, you
-        are eligible for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Bosnia And Herzegovina eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Bosnia And Herzegovina eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Bosnia And Herzegovina eSIM plans support mobile hotspot
-        and tethering, allowing you to share your data with your laptop, tablet, or
-        travel companions.
-    - q: What are the advantages of your Bosnia And Herzegovina eSIM compared to local
-        SIM cards or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Bosnia
-        And Herzegovina, such as BH Telecom, HT Mostar, m:tel, to ensure premium speeds
-        at a fraction of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Eskimo, eSIM GO, Airalo,
-        Holafly?
-      a: While great companies like Eskimo, eSIM GO, Airalo, Holafly offer reliable
-        services, we focus on providing the most cost-effective Bosnia And Herzegovina
-        eSIM, ensuring lower latency and better prices with our automatic price-matching
-        system.
+    - q: 在塞拉耶佛老城區（Baščaršija）使用eSIM時，網路速度如何？
+      a: 在塞拉耶佛老城區（例如Baščaršija廣場和Gazi Husrev-beg清真寺附近），連接到BH Telecom網路時，典型的下載速度約為30-50
+        Mbps，足以順暢瀏覽社群媒體和進行視訊通話。然而，在週末或節慶期間，由於人群密集，速度可能降至10-15 Mbps，但仍可應付一般使用。建議避開人潮高峰時段（如中午12點至下午3點），以獲得最佳體驗。
+    - q: 從塞拉耶佛國際機場入境後，如何立即啟用eSIM？
+      a: 抵達塞拉耶佛國際機場後，您可先連接機場免費Wi-Fi（通常名為“Sarajevo Airport Free WiFi”）掃描QR碼啟用eSIM。若無法連接，機場大廳有售預付SIM卡的商店（如BH
+        Telecom和m:tel櫃檯），但使用我們eSIM則無需實體卡片。建議出發前先安裝eSIM設定檔，並確保手機已解鎖；抵達後開啟數據漫遊，約1-2分鐘內即可連接到網路。
+    - q: 在莫斯塔爾老橋（Stari Most）附近，m:tel網路的覆蓋品質如何？
+      a: 在莫斯塔爾老橋及周邊老城區，m:tel提供穩定的4G覆蓋，平均速度約20-40 Mbps，適合上傳照片和影片。但在狹窄石頭街道或靠近內雷特瓦河岸邊，訊號可能略有衰減，導致速度降至10
+        Mbps左右。若進行直播，建議移至橋邊的廣場或咖啡廳區域，以獲得更穩定的連線。
+    - q: 在巴尼亞盧卡市中心，使用HT Eronet網路觀看1080p YouTube會卡頓嗎？
+      a: 在巴尼亞盧卡的主要街道（如Gospodska ulica）和共和國廣場附近，HT Eronet提供充足頻寬，通常可支援1080p影片無緩衝播放。但在尖峰時段（下午5-8點），靠近購物中心（如Delta
+        Planet）時，速度可能降至15-25 Mbps，導致短暫緩衝。若遇到卡頓，可暫停影片30秒讓緩衝區加載，或切換至720p以獲得流暢體驗。
+    - q: 使用eSIM在波士尼亞山區（如蘇捷斯卡國家公園）有訊號嗎？
+      a: 在蘇捷斯卡國家公園內，覆蓋範圍有限，尤其山谷和森林深處可能完全無訊號。但主要觀景台（如Tjentište紀念碑附近）有間歇性4G訊號，通常來自BH
+        Telecom。建議行前下載離線地圖，並將手機設定為僅用3G以延長電池續航。園區內僅有少數餐廳提供免費Wi-Fi，因此eSIM主要用於緊急通訊。
+    - q: 在特雷比涅（Trebinje）使用eSIM時，每天5GB流量夠用嗎？
+      a: 對於一般旅客，每天5GB流量在特雷比涅非常充裕，可滿足導航、社群媒體和偶爾觀看短片的需求。不過若打算用熱點分享給筆記型電腦工作，或長時間觀看高畫質影片，5GB可能在下午就用完。特雷比涅的飯店和咖啡廳提供免費Wi-Fi，建議在室內使用Wi-Fi以節省行動數據。
+    - q: eSIM在比哈奇（Bihać）的烏納河國家公園內運作如何？
+      a: 在烏納國家公園入口區域和主要步道起點，m:tel提供不穩定的4G訊號，速度約5-15 Mbps，足以發送文字訊息和查看路線。但在峽谷深處或瀑布附近（如Štrbački
+        Buk），訊號可能完全中斷。建議在抵達前下載國家公園地圖和離線翻譯，並將手機保持在飛航模式（僅開啟GPS）以節省電力。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 波士尼亞與赫塞哥維納 機場：如何使用 波士尼亞與赫塞哥維納 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Bosnia And Herzegovina eSIM before your flight. Once you land
-        at Sarajevo International Airport, Mostar International Airport, Banja Luka
-        International Airport, simply turn off Airplane Mode and enable your eSIM
-        line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Bosnia And Herzegovina eSIM activated upon landing, you can immediately
-        open Moovit, Taxi.ba, Uber to book a ride or use WhatsApp to message your
-        pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Bosnia And Herzegovina eSIM data allows you to open Google
-        Maps right at the baggage claim in Sarajevo International Airport, Mostar
-        International Airport, Banja Luka International Airport to check real-time
-        train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Bosnia And Herzegovina eSIM online beforehand, you completely
-        bypass the tourist-trap SIM kiosks at the arrivals hall, saving both time
-        and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Bosnia And Herzegovina eSIM provides data only. To receive SMS, keep
-        your home country's primary SIM active for texts (receiving SMS is usually
-        free while roaming) and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Bosnia And Herzegovina eSIM cellular data to let your family know
-        you've arrived safely.
+    - q: 塞拉耶佛國際機場（SJJ）有哪些運營商提供預付SIM卡？
+      a: 塞拉耶佛國際機場的入境大廳有BH Telecom和m:tel的官方櫃檯，營業時間通常配合航班（早上6點至晚上10點）。您可以在那裡購買預付SIM卡，價格約10-20歐元（含5-10GB數據）。但若想省時，建議出國前先購買eSIM，即可直接啟用，無需排隊。機場內也有免費Wi-Fi，但速度較慢且連線時間有限。
+    - q: 從莫斯塔爾機場（OMO）如何前往市中心，以及eSIM在計程車上訊號穩定嗎？
+      a: 莫斯塔爾機場距離市中心約6公里，可搭乘計程車（費用約15-20歐元）或接駁巴士（每小時一班，車票約3歐元）。計程車行駛路線（M17公路）上，BH
+        Telecom和m:tel的4G訊號穩定，導航應用（如Google Maps）可正常使用。但進入老城區狹窄道路時，訊號可能稍微減弱，但不會中斷。建議司機使用當地貨幣（馬克）支付車資。
+    - q: 巴尼亞盧卡機場（BNX）有自動販賣機賣eSIM嗎？
+      a: 巴尼亞盧卡機場目前沒有eSIM自動販賣機，但機場大廳的報攤和HT Eronet櫃檯出售實體預付卡。若您已購買eSIM，建議在出發前完成eSIM設定，因為機場Wi-Fi連線不穩定，且可能要求手機號碼驗證。機場到市區的計程車月台旁有免費Wi-Fi熱點，但僅限30分鐘。
+    - q: 在塞拉耶佛機場轉機時，可以使用eSIM打本地電話嗎？
+      a: 我們的eSIM主要針對數據服務設計，不包含語音通話功能。若您需要撥打本地電話（例如聯絡飯店），建議使用VoIP應用（如Skype或WhatsApp），透過數據網路進行。機場內設有公用電話和資訊櫃檯，可協助聯繫接駁服務。或者，您也可以購買一張包含少量通話分鐘數的預付SIM卡作為備用。
+    - q: 塞拉耶佛機場的免費Wi-Fi連線步驟是什麼？容易使用嗎？
+      a: 塞拉耶佛機場提供“Sarajevo Airport Free WiFi”，連線步驟如下：先選擇該網路，瀏覽器會自動跳出登入頁面，輸入您的電子郵件並接受條款後即可使用。但注意連線時間限制為1小時，之後需要重新連線。此外，尖峰時段（如下午航班抵達時）網路可能擁堵，建議備妥eSIM以免等待。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 波士尼亞與赫塞哥維納 eSIM 用於 波士尼亞與赫塞哥維納 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Bosnia And Herzegovina eSIM connection ensures Google Maps can
-        download real-time traffic data and transit schedules anywhere in Bosnia And
-        Herzegovina, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Moovit, Taxi.ba, Uber use VoIP (internet calling) and in-app messaging.
-        Since you have active Bosnia And Herzegovina eSIM data, drivers can call or
-        message you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Bosnia And Herzegovina eSIM data to access local transit
-        apps or websites to purchase digital QR-code tickets on the go, avoiding long
-        queues at ticket machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Bosnia And Herzegovina eSIM data. A
-        5GB or 10GB plan provides more than enough data for extensive GPS navigation
-        during a road trip in Bosnia And Herzegovina.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Bosnia And Herzegovina eSIM provides the reliable urban
-        coverage needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Bosnia And Herzegovina eSIM's data network
-        while on the train or in the car.
+    - q: 在塞拉耶佛叫Uber或Bolt方便嗎？價格如何？
+      a: 塞拉耶佛有Uber和Bolt服務，但Bolt較為普及。從機場到老城區的車資約15-20公里（約10-13歐元），市區內短程約3-5歐元。eSIM可確保您在叫車時不中斷網路，以便即時查看路線。建議選擇Bolt以獲得更快配對和更實惠的價格。
+    - q: 塞拉耶佛的電車路線適合觀光客嗎？如何購票？
+      a: 塞拉耶佛的電車系統覆蓋老城區和新城區，票價為1馬克（約0.5歐元），每趟限時90分鐘。您可在車站旁的報攤購買紙本車票，或直接向司機購買（需準備零錢）。電車經過主要景點如拉丁橋和國家博物館，但尖峰時段非常擁擠。eSIM可幫助您導航到最近車站並查詢時刻表。
+    - q: 從莫斯塔爾到塞拉耶佛的巴士班次多嗎？eSIM在車上訊號如何？
+      a: 莫斯塔爾到塞拉耶佛的巴士每天約有10-15班，車程約2.5小時，票價約15歐元。行駛路線（M17高速公路）上，BH Telecom和m:tel的4G訊號覆蓋良好，但部分山區路段可能短暫無訊號（約5-10分鐘）。建議下載影片或音樂以備離線時娛樂，並在巴士上使用行動數據。
+    - q: 在巴尼亞盧卡租車自駕，需要準備哪些文件？eSIM導航夠用嗎？
+      a: 租車時需要國際駕照和護照，並建議購買全險。eSIM的數據網路可用於Google Maps或Waze導航，但部分山區或偏遠地帶可能無訊號，建議先下載離線地圖。此外，高速公路（如A1）有收費站，可用現金或信用卡支付，導航會提示路線。
+    - q: 特雷比涅的公共運輸發達嗎？如何前往周邊景點？
+      a: 特雷比涅市區規模較小，靠步行即可，但前往周邊酒莊或赫爾采戈瓦地區需搭計程車或參加一日遊。計程車起步價約1.5歐元，市內短程約5歐元。eSIM可用於查詢巴士時刻表或聯繫當地旅行社，但鄉村道路訊號可能不佳，建議提前規劃。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 波士尼亞與赫塞哥維納 的飯店使用 波士尼亞與赫塞哥維納 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Bosnia And Herzegovina eSIM ensures you
-        can retrieve these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Bosnia And Herzegovina eSIM mobile
-        data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Hotel Europe Sarajevo, Hotel President Sarajevo,
-        Hotel Mostar or a local guesthouse, you can input the address into Google
-        Maps and get turn-by-turn walking or transit directions using your Bosnia
-        And Herzegovina eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Bosnia And Herzegovina eSIM data to trigger the verification code from
-        your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Bosnia And Herzegovina eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Glovo, Korpa, Wolt and use your Bosnia
-        And Herzegovina eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Bosnia And Herzegovina eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 塞拉耶佛Hotel Europe提供哪些設施？周邊安全嗎？
+      a: Hotel Europe位於塞拉耶佛老城區中心，步行即可到達Baščaršija和拉丁橋。飯店提供免費Wi-Fi、健身房和自助早餐，價格約100-150歐元/晚。周邊地區治安良好，晚上有遊客和警察巡邏，但仍需注意扒手。飯店員工多會說英語，可協助安排機場接送。
+    - q: 莫斯塔爾Hotel Mepas的房間有冰箱和保險箱嗎？網路快嗎？
+      a: Hotel Mepas的所有客房均配備冰箱、迷你吧和電子保險箱。免費Wi-Fi速度約20-30 Mbps，適合串流影音。飯店距離老橋約15分鐘步行路程，頂樓餐廳可欣賞內雷特瓦河景。建議提前預訂，旺季時每晚約120歐元起。
+    - q: 巴尼亞盧卡有哪些住宿適合長期停留？有廚房嗎？
+      a: 巴尼亞盧卡的Studio Apartmani 22提供附設小廚房和洗衣機的公寓，月租約400-600歐元。另一選擇是Hotel Cezar，價格實惠（每晚約50歐元），但無廚房。長期住宿可考慮Airbnb，許多房源位於市中心共和國廣場附近，生活機能便利。eSIM可幫助您與房東溝通並導航至超市採購食材。
+    - q: 特雷比涅的民宿是否提供免費停車和Wi-Fi？
+      a: 特雷比涅的多數民宿（如Guesthouse Stari Grad）提供免費停車和Wi-Fi，但Wi-Fi速度可能較慢（約10 Mbps）。建議自備eSIM以確保穩定網路，尤其在下載地圖時。民宿業者通常親切，可推薦當地餐廳，但旺季時需提前一週預訂。
+    - q: 比哈奇烏納國家公園附近有推薦的飯店嗎？網路覆蓋如何？
+      a: 比哈奇的Hotel Emporium距離烏納國家公園入口僅5分鐘車程，提供免費Wi-Fi，速度約15 Mbps，適合基本使用。園區內住宿較少，建議住在比哈奇市中心，方便補給。eSIM在飯店和周邊城鎮訊號穩定，但在國家公園內可能中斷。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 波士尼亞與赫塞哥維納 旅遊景點的網路：波士尼亞與赫塞哥維納 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Stari Most (Old Bridge), Baščaršija, Kravica Waterfall
-        spontaneously, you can use your Bosnia And Herzegovina eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Bosnia And Herzegovina eSIM, you can read reviews
-        and book local tours or experiences on Tripadvisor while having coffee at
-        a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Bosnia And Herzegovina.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Bosnia And Herzegovina eSIM will guide you via the fastest walking
-        or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Bosnia And Herzegovina eSIM will keep you connected
-        throughout the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Bosnia And Herzegovina eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Bosnia And Herzegovina eSIM upload speeds mean you can post high-quality
-        stories, reels, and photos of your trip in real-time without waiting for hotel
-        Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Bosnia And Herzegovina eSIM data to search 'restaurants near me'
-        on Google Maps to check ratings, opening hours, and photos of the menu before
-        walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Bosnia And Herzegovina eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Bosnia And Herzegovina eSIM
-        ensures you can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Bosnia And Herzegovina
-        eSIM to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Glovo, Korpa, Wolt, register using your
-        email or social accounts, and order food seamlessly using your Bosnia And
-        Herzegovina eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Credit/debit
-        cards, PayPal, Cash require a brief internet handshake, which your Bosnia
-        And Herzegovina eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Bosnia And Herzegovina eSIM to find hidden culinary gems in the city.
+    - q: 塞拉耶佛老城區有哪些必看的歷史遺跡？如何規劃半日遊？
+      a: 塞拉耶佛老城區的重點包括Baščaršija市場、Sebilj噴泉、Gazi Husrev-beg清真寺和拉丁橋。建議從Sebilj出發，沿鐵匠街步行至莫斯塔爾老橋的縮小版工藝品店。半日遊可涵蓋這些景點，並在當地的Ćevabdžinica
+        Željo品嚐烤肉。eSIM可協助查詢開放時間和歷史背景。
+    - q: 莫斯塔爾老橋的門票多少錢？適合帶長輩參觀嗎？
+      a: 莫斯塔爾老橋免費參觀，但旁邊的橋樑博物館（Stari Most Museum）門票約5歐元。老橋路面由鵝卵石鋪成，較滑且不平，長輩需扶欄杆慢行。橋兩側有階梯，無電梯，建議穿舒適鞋。老城區內有許多階梯，但可搭計程車至較高處的觀景台。
+    - q: 蘇捷斯卡國家公園有適合一日遊的健行路線嗎？
+      a: 蘇捷斯卡國家公園內有著名的佩魯奇察森林（Perućica），是歐洲最後的原始森林之一，適合有經驗的健行者。一日遊可選擇Tjentište紀念碑附近的短程步道（約2小時），沿途可見瀑布和野生動物。需穿著登山鞋和攜帶充足飲水，公園內無補給站。eSIM在入口處有訊號，但深山無訊號。
+    - q: 特雷比涅的Hercegovačka Gračanica修道院值得參觀嗎？
+      a: 這座塞爾維亞正教修道院位於山坡上，可俯瞰特雷比涅全景，建築風格典雅。參觀免費，但需注意衣著（不可短褲或裸露肩膀）。從市中心步行約30分鐘，或搭計程車（約5歐元）。建議清晨前往以避開人群，並在修道院附近的咖啡廳休息。
+    - q: 比哈奇的烏納國家公園可以划獨木舟嗎？需要預約嗎？
+      a: 烏納國家公園提供獨木舟和漂流活動，夏季（6-9月）最熱門。活動需預約，可透過公園官網或當地旅行社（如Una Adventure）安排，費用約30-50歐元/人。裝備由業者提供，但建議自備防水袋保護手機。eSIM用於聯絡業者和導航至集合點，園區內部分河段無訊號。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 波士尼亞與赫塞哥維納 eSIM 在 波士尼亞與赫塞哥維納 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Bosnia And Herzegovina eSIM providing the internet, you can chat and call
-        exactly as you do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Bosnia And Herzegovina eSIM
-        gives you the bandwidth needed to upload heavy video files to TikTok or Instagram
-        securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Bosnia And Herzegovina eSIM are clear and lag-free, no matter where
-        you are in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Bosnia
-        And Herzegovina eSIM cellular data is encrypted and vastly safer for logging
-        into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Bosnia And Herzegovina eSIM data allowance to check their
-        own social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Bosnia And Herzegovina eSIM, it only works there.
-        For multi-country trips, we highly recommend our Regional eSIM (e.g., Europe
-        eSIM), which covers multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Bosnia And Herzegovina
-        eSIM is set as the primary data line so you never incur unexpected charges
-        from your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在塞拉耶佛哪些咖啡廳適合使用筆記型電腦工作？有充電插座嗎？
+      a: 塞拉耶佛的Caffe Bar Monet和DIVAN Coffee提供免費Wi-Fi和插座，環境安靜且適合工作。Monet位於Ferhadija步行街，咖啡約2歐元，營業至晚上10點。DIVAN靠近Sebilj噴泉，有室內和露天座位，但週末人潮較多。建議自備延長線以備插座不夠使用。
+    - q: 莫斯塔爾有哪些夜生活場所適合年輕人？當地人推薦哪間？
+      a: 莫斯塔爾的夜生活集中在老橋附近的酒吧，如Club Music和Retro Caffe。當地年輕人推薦Retro Caffe，有現場音樂和啤酒（約2歐元），氣氛活躍。週末營業至凌晨2點，但深夜需注意安全，建議結伴同行。eSIM可查詢活動訊息並與朋友保持聯繫。
+    - q: 在巴尼亞盧卡，有哪些社交活動可以認識當地人？
+      a: 巴尼亞盧卡的Republic Square經常有免費音樂會和市集，適合與當地人互動。此外，加入Facebook社團“Expats in Banja
+        Luka”可找到語言交換或聚餐活動。當地人也會上調味（Tinder）認識朋友，但使用網路需小心個人資訊安全。eSIM讓您隨時瀏覽社團動態。
+    - q: 特雷比涅有哪些適合獨旅者社交的場所？
+      a: 特雷比涅的Stari Grad區域有許多小酒館，如Vinoteka Herceg，品酒之餘可與其他旅客聊天。Hostel Garden提供共同空間和定期的晚餐聚會，適合獨旅者。前台可協助安排一日遊，讓您結識同行者。注意，特雷比涅晚上較安靜，建議參加班級活動。
+    - q: 在塞拉耶佛使用約會應用（如Tinder）時，需要注意哪些文化禮儀？
+      a: 波士尼亞人在第一次約會時通常較保守，建議選擇公共場所如咖啡廳，避免在夜晚漫步偏遠區域。多數年輕人能說簡單英語，但嘗試幾句當地語言（如“Zdravo”問候）會更受歡迎。約會應用上的詐騙不少，需避免過早透露個人資訊。eSIM用於視訊通話確認對象身份，增加安全性。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 波士尼亞與赫塞哥維納 使用 波士尼亞與赫塞哥維納 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Bosnia And Herzegovina, you can dial local emergency numbers like 112,
-        122, 123, 124 directly from your phone's dialer regardless of your active
-        SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Bosnia And Herzegovina eSIM data allows you to immediately search Google
-        Maps for 'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Bosnia And Herzegovina eSIM
-        to find the exact address, emergency contact email, and opening hours of your
-        country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Bosnia And Herzegovina eSIM data
-        to call your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Bosnia And Herzegovina eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Bosnia And Herzegovina
-        eSIM, use your data to download offline areas in Google Maps just in case
-        you venture into mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Bosnia And Herzegovina eSIM connects to premium local networks, providing
-        the high bandwidth and low latency required for smooth, professional video
-        conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Bosnia And Herzegovina eSIM network to access
-        internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Bosnia And Herzegovina
-        eSIM is significantly faster and much more secure against cyber threats than
-        using open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Bosnia And Herzegovina
-        eSIM data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Bosnia And Herzegovina eSIM, you can rapidly
-        upload presentations or large documents to Google Drive or Dropbox directly
-        from the exhibition floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Bosnia And Herzegovina eSIM provides constant connectivity, ensuring
-        you receive Slack notifications and important emails instantly, keeping you
-        synced with your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Bosnia And Herzegovina eSIM to update them on flight
-        delays or schedule changes.
+    - q: 在塞拉耶佛遇到緊急醫療狀況，該撥打哪個號碼？
+      a: 緊急醫療請撥打123（救護車），或通用緊急號碼112。塞拉耶佛的主要醫院是University Clinical Center Sarajevo，地址為Bolnička
+        25。建議手機儲存飯店地址和醫療保險資訊，以便向醫護人員出示。eSIM可確保您在撥打急救電話時有足夠網路傳送位置。
+    - q: 在莫斯塔爾老橋附近遺失錢包，應如何處理？
+      a: 首先聯絡當地警察局（電話122），位於老橋附近的Turistička街。同時通知您的信用卡公司和飯店。莫斯塔爾有失物招領中心，可至市政廳查詢。建議將護照影本分存在eSIM手機雲端，以便補辦證件。老城區監視器較少，尋回機會有限，故請小心財物。
+    - q: 巴尼亞盧卡有24小時營業的藥局嗎？如何找到開門的藥局？
+      a: 巴尼亞盧卡的“Apoteka Janković”位於Kralja Petra I街，部分分店24小時營業。您可使用Google Maps搜尋“24h
+        apoteka”，或撥打124詢問消防隊協助。常見藥品如止痛藥不需處方，但抗生素需醫師處方。eSIM可即時查詢藥局營業狀態。
+    - q: 在特雷比涅遇到自然災害（如洪水）時，如何獲取避難資訊？
+      a: 特雷比涅位於內雷特瓦河畔，暴雨易引發洪水。緊急避難所通常設在學校或體育館，可透過當地廣播或Civil Protection Agency（電話122）獲取資訊。建議關注氣象應用通知，並隨身攜帶緊急包（手電筒、水、乾糧）。eSIM在斷電時可保留部分網路功能。
+    - q: 比哈奇國家公園內受傷，手機無訊號怎麼辦？
+      a: 若在烏納國家公園內受傷且無訊號，請嘗試往較高處移動，或尋找園區標示的緊急求救點（通常設有無線電）。若無法移動，待在原地等待其他遊客。建議徒步時攜帶哨子和反光鏡，並告知飯店您的路線。公園管理處的救援電話為124。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 波士尼亞與赫塞哥維納 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

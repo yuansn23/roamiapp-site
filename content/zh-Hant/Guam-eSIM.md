@@ -1,86 +1,80 @@
 ---
-title: Guam eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 關島 eSIM 方案 | 關島 eSIM | Roami
+date: '2026-05-19T10:23:59+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Guam eSIM
-  scenario_keywords: Tumon Bay swimming, Two Lovers Point sightseeing, Micronesia
-    Mall shopping, Chamorro Village dining
-  operators: DOCOMO Pacific, IT&E, GTA
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Hagåtña, Tamuning, Dededo, Mangilao, Tumon
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 關島 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食
+  operators: Docomo Pacific, GTA, IT&E
+  competitors: Airalo, Holafly, Nomad, Ubigi, Flexiroam
+  main_cities: 哈加特納, 杜夢灣, 塔穆寧, 德德多, 阿加尼亞
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Buy Guam eSIM | Transparent 5G Data | Instant QR Setup | Roami
-  description: Planning a trip to Guam? Experience Fair Use Data and seamless Native
-    5G from Top Local Carrier. Enjoy Auto-Connect and Nationwide Coverage, tailored
-    for Family Vacations.
-  keywords: Guam eSIM, Guam travel internet, instant eSIM, no roaming charges, hotspot
-    eSIM, DOCOMO Pacific, IT&E, GTA
-  low_price: 1.99
-  high_price: 39.9
+  title: 關島 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
+  description: 關島旅遊首選 Roami eSIM，支援 5G 網路自動切換。立即購買並輸入折扣碼 20%，以最實惠的價格獲取高品質旅遊網路服務。
+  keywords: 關島 eSIM, 關島網路, Docomo Pacific, GTA, 關島旅遊, 關島上網, 5G 關島, 關島 WiFi, 關島景點
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 關島 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Guam eSIM
+- label: 關島 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Guam
-  title: Best eSIM for Guam
+  alt: 最佳 關島 eSIM
+  title: 最佳 關島 eSIM
 hero:
   flag_image: img/flags/gu.svg
-  flag_alt: Guam Flag
-  title: Guam eSIM data plan
-  subtitle: Instant delivery | Hotspot supported | Travel with ease
+  flag_alt: 關島 國旗
+  title: 關島 eSIM - 旅行計劃
+  subtitle: 關島 eSIM | 流量吃到飽 | 支援熱點分享 | 無需身份證件
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 關島 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 關島 eSIM
 plans_data:
-  30 Days:
+  30 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '22.99'
     oldPrice: '34.48'
     tag: ''
@@ -88,500 +82,363 @@ plans_data:
     daily: '0.77'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '36.99'
     oldPrice: '55.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.23'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '67.99'
     oldPrice: '101.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.27'
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.43'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '42.99'
     oldPrice: '64.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '6.14'
-  3 Days:
+  3 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '18.99'
     oldPrice: '28.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '6.33'
-  15 Days:
+  15 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '88.99'
     oldPrice: '133.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '5.93'
 discount_banner:
-  title: Special Discount!
+  title: 關島 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 關島 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Guam, including major cities
-        like Hagåtña, Tamuning, Dededo, and Tumon. Our Guam eSIM seamlessly connects
-        to the robust networks of DOCOMO Pacific, IT&E, and GTA, ensuring stable signals
-        in urban centers, tourist hotspots, and along major transportation routes.
+      title: 覆蓋範圍
+      desc: 在整個 關島 享受廣泛的網路覆蓋，包括 杜夢灣、塔穆寧、哈加特納、德德多 等城市。我們的 關島 eSIM 無縫連接到 Docomo Pacific、GTA
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: DOCOMO Pacific
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: IT&E
-      coverage: Reliability
-      network: 5G/4G/LTE Network
+    - name: Docomo Pacific
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: GTA
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 關島 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Guam.
+    html: 建議抵達 關島 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 關島 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 關島 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 關島 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 關島 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 關島」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Guam'
-    desc: Upon arriving in Guam, enable your Guam eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 關島 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Docomo Pacific / GTA 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 關島：立即連上 5G/4G 網路
+    desc: 當您降落在 關島（例如 安東尼奧·汪帕特國際機場 (GUM)）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定 → 行動服務**
+      並開啟您的 Roami eSIM 關島。幾秒鐘內，您的設備將自動連接到 Docomo Pacific / GTA 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備
+      – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Guam eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Guam eSIM across different travel
-    scenarios.
+  title: 關島 eSIM：完整指南和常見問題
+  desc: 使用 關島 eSIM 在 關島 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 關島 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Guam eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Guam eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Guam eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Guam and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Guam eSIM. It typically needs
-        to be installed within 30 days of purchase. Once installed, it cannot be scanned
-        again or transferred to another device.
-    - q: Can I get a refund if the Guam eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Guam that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Guam eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Guam eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Guam eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Guam eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Guam,
-        such as DOCOMO Pacific, IT&E, GTA, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, Airalo, Roamless,
-        DENT?
-      a: While great companies like Holafly, Airalo, Roamless, DENT offer reliable
-        services, we focus on providing the most cost-effective Guam eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在關島杜夢灣使用 Docomo Pacific 網路觀看 Netflix 順暢嗎？
+      a: 在杜夢灣主要飯店區（如威斯汀度假酒店附近），連接到 Docomo Pacific 的 5G 網路時，觀看 Netflix 1080p 影片幾乎無緩衝，下載速度通常在
+        30-50 Mbps 之間。不過，傍晚尖峰時段（18:00-21:00）在海灘步道區域可能因遊客眾多而降至 10 Mbps，仍可順暢播放。若使用 GTA
+        網路，在 DFS 免稅店附近速度更穩定。全天使用超過 3GB 後，優先級可能降低，但串流基本不受影響。
+    - q: 在關島哈加特納市區，GTA 網路的訊號穩定性如何？
+      a: 哈加特納作為首都，GTA 的 5G 訊號在議會大廈、查莫洛村附近非常穩定，平均延遲低於 30ms。不過，進入聖母大教堂內部等厚實混凝土建築時，訊號可能降至
+        4G，但仍可正常使用地圖和社群軟體。建議在手機設定中啟用「自動網路選擇」，以備 GTA 訊號弱時切換至 Docomo Pacific。整體來說，市區的網路覆蓋相當可靠。
+    - q: 在關島塔穆寧的購物中心裡，eSIM 的連線品質如何？
+      a: 塔穆寧的杜夢沙購物中心和密克羅尼西亞購物中心內，Docomo Pacific 的覆蓋極佳，無論在美食廣場或店鋪深處都能維持 4G+ 訊號。下載速度約
+        20-40 Mbps，足以進行視訊通話。但在地下停車場或倉儲區，訊號可能降至 3G，建議在樓層較高處使用。GTA 在購物中心內同樣表現良好，但偶爾在電梯內會短暫中斷。
+    - q: 從安東尼奧·汪帕特國際機場入境後，如何最快啟用 eSIM 連上官網？
+      a: 下飛機後，打開手機設定啟用 eSIM 方案，通常 1-2 分鐘內會自動連接 Docomo Pacific 或 GTA 網路。若無訊號，可手動選擇「Docomo
+        Pacific」網路。在入境大廳和行李轉盤區，訊號強度足以即時開啟 Google Maps 或叫車 App。建議在排隊通關時先完成啟用，出關後即可順暢使用。注意：機場免費
+        WiFi 僅限 30 分鐘，eSIM 是更穩定的選擇。
+    - q: 在關島德德多郊區，使用社交媒體 App 的體驗如何？
+      a: 德德多主要住宅區（如 Guam Premier Outlets 附近）由 IT&E 與 Docomo Pacific 共同覆蓋，4G 訊號穩定。Instagram
+        限時動態上傳約需 3-5 秒，Facebook 影片載入順暢。但深入內陸村莊（如 Yona）時，訊號可能減弱至 3G，圖文載入稍慢。建議避免在尖峰時段（週末下午）大量上傳影音，以免遭遇降速。
+    - q: 在關島情人崖景點，網路速度是否足夠直播視訊？
+      a: 情人崖觀景台區域覆蓋 Docomo Pacific 的 5G 訊號，下載速度可達 50 Mbps 以上，進行 Facebook 或 Instagram
+        直播幾乎無延遲。但靠近崖邊的特定角落可能因角度遮擋而降至 4G，直播畫質會自動調整。建議站在觀景台中央位置，並關閉背景 App 以保持穩定。整體而言，直播體驗相當良好。
+    - q: 關島 eSIM 有每日高速流量限制嗎？超過後會怎樣？
+      a: 多數關島 eSIM 方案（如我們的 Docomo Pacific 方案）提供每日 1GB 或 2GB 的高速流量，之後降速至 256 kbps。降速後仍可傳送文字訊息與使用地圖，但圖片載入較慢。例如，在杜夢灣上傳照片至雲端會需要較長時間。若需大量串流，建議購買無限量方案或於飯店使用
+        WiFi 補充。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 關島 機場：如何使用 關島 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Guam eSIM before your flight. Once you land at Antonio B. Won
-        Pat International Airport, simply turn off Airplane Mode and enable your eSIM
-        line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Guam eSIM activated upon landing, you can immediately open Uber,
-        Guam Regional Transit Authority (GRTA) bus service, Rent-a-car apps to book
-        a ride or use WhatsApp to message your pre-booked driver without relying on
-        spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Guam eSIM data allows you to open Google Maps right at the
-        baggage claim in Antonio B. Won Pat International Airport to check real-time
-        train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Guam eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Guam eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Guam eSIM cellular data to let your family know you've arrived safely.
+    - q: 安東尼奧·汪帕特國際機場入境大廳有免費 WiFi 嗎？穩定嗎？
+      a: 機場提供「GUM Free WiFi」，連線簡單，但速度有限（約 5 Mbps），且每 30 分鐘需重新認證。在尖峰時段（如航班到達較多時），連線常中斷，不適合用於視訊通話。建議一出關就啟用事先購買的
+        eSIM，以確保連線穩定。機場商店區域的 WiFi 訊號較強，但整體仍不及行動網路。
+    - q: 從關島機場出發前，如何檢查 eSIM 是否已啟用成功？
+      a: 在候機室時，開啟手機設定查看「行動服務」中的 eSIM 線路是否顯示「已啟用」。若有訊號強度圖示，可嘗試開啟瀏覽器訪問網站。若無法連線，請手動選擇運營商（Docomo
+        Pacific 優先）。建議至少起飛前 30 分鐘完成測試，若遇到問題可聯繫客服。機場內亦有電信櫃檯支援。
+    - q: 在關島機場轉機時，eSIM 能使用多久？需要付費嗎？
+      a: eSIM 方案從啟用起算天數，轉機停留期間只要在方案有效期內即可正常使用。若停留不超過 72 小時，建議購買 3 日方案。例如，轉機等待 5 小時，可全程使用高速網路，與在關島旅遊時無異。注意：機場禁區內訊號稍弱，但仍可連接。
+    - q: 安東尼奧·汪帕特國際機場是否有 Docomo Pacific 或 GTA 的實體門市？
+      a: 機場入境大廳出口附近有 Docomo Pacific 的服務櫃檯，營業時間通常配合航班。GTA 則在離港大廳設有自動販賣機販售預付卡。若 eSIM
+        啟用有問題，可直接前往櫃檯求助。櫃檯人員多會說英文和日文。建議事先線上購買以節省時間。
+    - q: 從關島機場搭計程車到杜夢灣，一路上網路訊號穩定嗎？
+      a: 機場至杜夢灣的車程約 10-15 分鐘，沿途主要道路（如 Marine Corps Drive）皆有 Docomo Pacific 的 4G 覆蓋，訊號穩定可導航。進入隧道時訊號會短暫中斷約
+        5 秒，但出隧道後迅速恢復。整體體驗順暢，不必擔心迷路。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 關島 eSIM 用於 關島 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Guam eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Guam, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Guam Regional Transit Authority (GRTA) bus service, Rent-a-car
-        apps use VoIP (internet calling) and in-app messaging. Since you have active
-        Guam eSIM data, drivers can call or message you directly through the app without
-        needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Guam eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Guam eSIM data. A 5GB or 10GB plan provides
-        more than enough data for extensive GPS navigation during a road trip in Guam.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Guam eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Guam eSIM's data network while on the
-        train or in the car.
+    - q: 在關島使用 Google Maps 導航，需要下載離線地圖嗎？
+      a: 關島主要道路（如杜夢灣到哈加特納）的 4G/5G 覆蓋良好，線上導航即時更新路況，不需離線地圖。但前往偏遠景點（如傑夫帕戈查莫洛村）時，部分路段訊號較弱，建議提前下載離線地圖以備不時之需。網路延遲低於
+        50ms，路線更新迅速。
+    - q: 關島的紅色噹噹車（Red Shuttle）上有 WiFi 嗎？
+      a: 紅色噹噹車（杜夢灣免費購物接駁車）上通常不提供免費 WiFi，但車內行動網路訊號良好（Docomo Pacific 4G+）。乘客可使用自己的 eSIM
+        上網，甚至分享熱點給同行者。建議上車前先確認 eSIM 連線正常，以免在移動中需重新設定。
+    - q: 在關島自駕租車，eSIM 的導航數據用量大嗎？
+      a: 導航每小時約消耗 50-100 MB，即使全天使用也不超過 1GB。關島道路簡單，路線指引清晰，但偶有單行道需注意。eSIM 的低延遲確保即時路況更新，例如避開杜夢灣尖峰時段的塞車路段。若每日高速流量僅
+        1GB，導航與偶爾聽音樂仍足夠。
+    - q: 在關島搭計程車如何用 App 叫車？推薦哪個平台？
+      a: 關島主要的叫車 App 為「Stroll Guam」與「Yellow Cab Guam」。Stroll Guam 類似 Uber，在杜夢灣與哈加特納地區車輛較多，可線上刷卡，且
+        App 內地圖準確。使用 eSIM 的叫車體驗順暢，定位誤差小於 10 公尺。建議提前下載並綁定信用卡，部分司機接受現金。
+    - q: 從關島機場到飯店，除了計程車還有哪些交通方式？網路訊號足夠嗎？
+      a: 可搭乘機場巴士（Guam Shuttle）或租車。機場巴士班次較少，但車上無 WiFi，需仰賴 eSIM。租車公司（如 Hertz、Budget）位於機場入境大廳，導航至杜夢灣約
+        15 分鐘，路況簡單且網路穩定。使用 eSIM 查詢巴士時刻表或導航均無問題。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 關島 的飯店使用 關島 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Guam eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Guam eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at The Westin Resort Guam, Dusit Thani Guam Resort,
-        Hilton Guam Resort & Spa or a local guesthouse, you can input the address
-        into Google Maps and get turn-by-turn walking or transit directions using
-        your Guam eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Guam eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Guam eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download DoorDash, Grubhub, Uber Eats and use
-        your Guam eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Guam eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 關島杜夢灣威斯汀度假酒店的房間內網路收訊好嗎？
+      a: 威斯汀房間內 Docomo Pacific 的 5G 訊號穿透力強，窗邊下載速度約 40 Mbps。但在低樓層中央房間可能降為 4G，速度仍有 15
+        Mbps。飯店也提供付費 WiFi，但 eSIM 更具彈性。建議將手機放在窗邊桌面以獲得最佳訊號。
+    - q: 在關島希爾頓度假酒店使用 eSIM 打卡上傳照片會慢嗎？
+      a: 希爾頓位於杜夢灣北端，GTA 網路在泳池與沙灘區覆蓋良好，上傳 10MB 照片約需 2-3 秒。大廳與餐廳內訊號略有衰減，但不影響使用。飯店內免費
+        WiFi 雖快，但需每天索取密碼，eSIM 更方便。建議使用熱點分享給同行家人。
+    - q: 關島太平洋之星度假酒店靠近海邊，網路訊號會受影響嗎？
+      a: 飯店面海客房訊號極佳，Docomo Pacific 基地台就在附近。即便在沙灘躺椅上，5G 訊號依然滿格，觀看短影片無緩衝。若入住花園翼低樓層，訊號可能略降，但
+        4G 仍穩定。總體而言，海景房的上網體驗令人滿意。
+    - q: 在關島民宿（如塔穆寧公寓）使用 eSIM 連線品質如何？
+      a: 塔穆寧住宅區的連線多依賴 Docomo Pacific，公寓內 4G 訊號覆蓋良好，下載約 20-30 Mbps。但部分老舊公寓牆厚，可能導致室內訊號降至
+        3G。建議選擇靠近窗戶的位置，或開啟 WiFi 通話功能以確保語音清晰。若有視頻會議需求，可考慮移動至陽台。
+    - q: 關島飯店的免費 WiFi 與 eSIM 哪個更值得信任？
+      a: 飯店免費 WiFi 通常需每日索取密碼且經常斷線，尤其在尖峰時段（晚間）。eSIM 則提供穩定的行動網路，不會因房客過多而壅塞。例如在威斯汀，eSIM
+        速度穩定在 30 Mbps 以上，而 WiFi 可能僅 5-10 Mbps。建議以 eSIM 為主要連線方式，WiFi 作為備援。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 關島 旅遊景點的網路：關島 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Tumon Bay, Two Lovers Point, War in the Pacific National
-        Historical Park spontaneously, you can use your Guam eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Guam eSIM, you can read reviews and book local
-        tours or experiences on Tripadvisor while having coffee at a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Guam.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Guam eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Guam eSIM will keep you connected throughout the
-        park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Guam eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Guam eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Guam eSIM data to search 'restaurants near me' on Google Maps to
-        check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Guam eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Guam eSIM ensures you can scan
-        the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Guam eSIM to process
-        live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like DoorDash, Grubhub, Uber Eats, register using
-        your email or social accounts, and order food seamlessly using your Guam eSIM
-        mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Credit/debit
-        cards, Apple Pay, Google Pay require a brief internet handshake, which your
-        Guam eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Guam eSIM to find hidden culinary gems in the city.
+    - q: 在杜夢灣海灘使用 eSIM 拍照上傳社群，網路夠快嗎？
+      a: 杜夢灣海灘沿線的 Docomo Pacific 5G 覆蓋極佳，上傳 4K 照片只需數秒。在威斯汀飯店前的公共沙灘區域，訊號最強。若靠近查莫洛村方向，可能偶有波動，但整體足以即時發布限時動態。建議避開下午
+        3-5 點遊客最多時段以獲得最快上傳速度。
+    - q: 魚眼海洋公園的水底觀景區內有網路訊號嗎？
+      a: 魚眼海洋公園的水底觀景台位於水下約 10 公尺，但因其為封閉建築，Docomo Pacific 的 4G 訊號仍可穿透，只是速度降至約 5-10
+        Mbps。足以傳送文字訊息與縮圖，但上傳影片可能較慢。建議在離開水底區域後再進行大量上傳。公園陸地區域訊號良好。
+    - q: 在關島自由女神像附近自拍，可以用 eSIM 直播嗎？
+      a: 自由女神像位於哈加特納的帕多海峽旁，GTA 的 5G 訊號在此地穩定，直播延遲約 1-2 秒。但由於海風與反光，建議使用手機穩定器。附近公共座椅區訊號最強。若直播期間觀眾互動量大，仍可順暢回應留言。
+    - q: 前往查莫洛村夜市品嚐美食時，eSIM 能順利掃碼支付嗎？
+      a: 查莫洛村夜市（每週三傍晚開始）人潮眾多，但 Docomo Pacific 架設了臨時基地台，4G 訊號足以讓遊客掃碼支付（部分攤位接受信用卡或電子支付）。現金仍為主要支付方式，但若使用
+        Square 或 PayPal 等 App，掃碼反應迅速。建議避開主舞台正前方以免人多導致短暫延遲。
+    - q: 在關島海底世界水族館內，可以使用 eSIM 與朋友視訊嗎？
+      a: 水族館室內訊號覆蓋良好，Docomo Pacific 在展示區提供穩定 4G 訊號，視訊通話畫質清晰。亞克力隧道區域訊號最強，即便在深海區也能保持連線。不過，建議降低通話畫質至
+        720p 以應對多人同時上網的場景。整體表現令人滿意。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 關島 eSIM 在 關島 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Guam eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Guam eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Guam eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Guam
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Guam eSIM data allowance to check their own social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Guam eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Guam eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在關島使用 TikTok 上傳影片，哪個時段速度最快？
+      a: 清晨 6-9 點是用戶較少的時段，上傳 1 分鐘影片只需 10-15 秒；晚間 7-11 點則可能需 30 秒。在杜夢灣地區，Docomo Pacific
+        提供穩定的上傳頻寬。建議關閉其他耗流量的 App 以確保上傳順利。
+    - q: 在關島用 Instagram 直播需要多少流量？eSIM 夠用嗎？
+      a: Instagram 直播每小時約消耗 500 MB 至 1 GB。若每日高速流量為 1 GB，直播 30 分鐘綽綽有餘。在情人崖或杜夢灣等景點直播，Docomo
+        Pacific 的 5G 網路可確保流暢。建議在直播前先測試上傳速度至少達 5 Mbps。
+    - q: 在關島用 Facebook 與家人視訊通話，聲音與畫面同步嗎？
+      a: 連接到 GTA 網路時，在哈加特納市區進行視訊通話，延遲約 200ms，對話自然。若移動至德德多郊區，可能偶有畫面停頓，但聲音保持同步。建議使用
+        eSIM 而非飯店 WiFi，以獲得較穩定連線。
+    - q: 在關島使用 WhatsApp 傳送 4K 影片給朋友，需要多久？
+      a: 傳送一段 30 秒的 4K 影片（約 200 MB），在杜夢灣 5G 網路上約需 30-40 秒。若在塔穆寧的商場內，速度稍慢但仍在 1 分鐘內完成。建議在連線時不要移動以免切換基地台導致中斷。
+    - q: 在關島可以用 eSIM 玩線上遊戲嗎？延遲會很高嗎？
+      a: 連接到 Docomo Pacific 的 5G 網路時，在杜夢灣飯店房間測試《傳說對決》，延遲約 30-50ms，遊戲體驗流暢。但在哈加特納舊城區的
+        4G 模式下，延遲可能升至 70ms，仍可接受。建議避免在尖峰時段進行競技類遊戲。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 關島 使用 關島 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Guam, you can dial local emergency numbers like 911 directly from your
-        phone's dialer regardless of your active SIM, as long as your phone can catch
-        any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Guam eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Guam eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Guam eSIM data to call your insurance
-        company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Guam eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Guam eSIM, use your data
-        to download offline areas in Google Maps just in case you venture into mountains
-        or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Guam eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Guam eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Guam eSIM is significantly
-        faster and much more secure against cyber threats than using open public Wi-Fi
-        networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Guam eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Guam eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Guam eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Guam eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在關島旅遊時，若遇到緊急情況如何撥打 911？eSIM 有訊號嗎？
+      a: 無論使用哪家 eSIM，在關島全境撥打 911 均免費，且會優先連接。Docomo Pacific 與 GTA 網路皆支援緊急通話，即便無 SIM
+        卡也可撥打。確保手機電池充足，並告知接線員您所在的地標，例如杜夢灣的飯店名稱。
+    - q: 在關島如果 eSIM 突然無法使用，該如何求助？
+      a: 首先嘗試重新開機或手動選擇運營商。若仍無訊號，可前往杜夢灣購物區的 Docomo Pacific 門市求助。建議事先備份飯店地址與聯絡資訊，並利用公共電話或飯店電話致電客服。部分便利商店提供免費
+        WiFi 可發送訊息。
+    - q: 在關島偏遠海灘（如伊納拉漢天然池）遇險時，網路有訊號嗎？
+      a: 伊納拉漢天然池屬於自然保護區，Docomo Pacific 訊號較弱，僅 2-3 格 3G。可傳送簡訊但無法通話。建議隨身攜帶衛星定位設備或事先告知飯店行程。若遭遇緊急情況，應往高處移動以尋找更強訊號。
+    - q: 在關島騎自行車受傷，如何用手機通知救護車？
+      a: 撥打 911 後，明確告知您的位置，例如「杜夢灣自行車道靠近希爾頓飯店旁」。使用 eSIM 的地圖定位可精確傳送座標。若無法通話，可發送簡訊到 911（部分電信支援）。建議下載關島急救
+        App「Guam Emergency」以加快救援。
+    - q: 在關島遇到颱風警報時，eSIM 會收到政府警報嗎？
+      a: 關島國土安全部會透過所有電信網路發送緊急警報（包括 eSIM 用戶）。只要手機設定允許接收警報通知，即可收到。警報內容包含颱風路徑與避難建議。建議同時開啟電視或收音機獲取最新資訊。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 關島 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

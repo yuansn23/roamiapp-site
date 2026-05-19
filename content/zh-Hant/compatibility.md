@@ -1,97 +1,147 @@
 ---
-title: "2026 年支援 eSIM 手機完整清單"
-description: "您的手機支援 eSIM 嗎？查看我們最新整理的 2026 年 eSIM 支援設備完整清單，包含 iPhone、三星 Galaxy、Google Pixel 等型號。"
-keywords: "eSIM 相容手機, 支援 eSIM 的手機, 我的手機支援 eSIM 嗎, iPhone eSIM 相容性, 三星 eSIM 手機, eSIM 支援設備 2026, 檢查 eSIM 相容性"
+title: "支援 eSIM 的手機清單 (2026)"
+description: "您的手機支援 eSIM 嗎？請透過我們完整的 2026 年最新 eSIM 支援裝置清單進行檢查，包含 iPhone、Samsung Galaxy、Google Pixel 等。了解哪些智慧型手機支援 eSIM：從 iPhone 17 Pro Max 到 Samsung Galaxy S25 和 Xiaomi 15T Pro。"
+keywords: "支援 eSIM 的手機, eSIM 相容手機, 我的手機支援 eSIM 嗎, iPhone eSIM 相容性, Samsung eSIM 手機, 2026 eSIM 支援裝置, 檢查 eSIM 相容性, iphone 17 esim, samsung s25 esim, 可以裝多少 esim, 如何在 iPhone 啟用 esim, 哪些手機有 esim, 17 pro max esim, esim samsung, galaxy esim"
 layout: "compatibility"
-date: '2026-04-24T00:00:00+00:00'
+date: '2026-05-18T00:00:00+00:00'
 type: "page"
 
-# 🌟 SEO 优化：FAQ 结构化数据
+# SEO FAQ 結構化數據
 faq_schema:
   - question: "如何檢查您的手機是否支援 eSIM？"
-    answer: "在購買旅遊數據方案前，請確認您的設備已解鎖並支援 eSIM。打開手機的撥號介面，輸入 *#06# 並撥打。如果您的設備支援，螢幕上將顯示一組 32 位的 EID 號碼。"
-  - question: "哪些 iPhone 支援 eSIM？"
-    answer: "大多數 2018 年後發表的 iPhone 都支援 eSIM，包括 iPhone 17、16、15、14、13、12、11 系列、XS、XR 和 SE (2020/2022)。注意：中國大陸銷售的 iPhone 不支援 eSIM。"
-  - question: "三星 Galaxy 手機支援 eSIM 嗎？"
-    answer: "是的，許多三星手機都支援 eSIM，包含 Galaxy S25、S24、S23、S22、S21、S20 系列，以及 Galaxy Z Fold 和 Z Flip 系列。"
+    answer: "在購買旅遊數據方案前，請確保您的裝置已解鎖並支援 eSIM。打開電話撥號介面，輸入 *#06# 並撥號。如果您的裝置相容，螢幕上會出現 32 位元的 EID 號碼。這就是確認您手機是否支援 eSIM 的方法。"
+  - question: "哪些 iPhone 型號支援 eSIM？"
+    answer: "大多數 2018 年後發布的 iPhone 都支援 eSIM，包括 iPhone 17、16、15、14、13、12、11、XS、XR 和 SE (2020/2022) 系列。iPhone 17 Pro Max、iPhone 17 Pro、iPhone 17 Air 等型號也完全相容。注意：在中國大陸銷售的 iPhone 不支援 eSIM。"
+  - question: "Samsung Galaxy 手機支援 eSIM 嗎？"
+    answer: "是的，許多 Samsung 手機都支援 eSIM，包括 Galaxy S25、S24、S23、S22、S21、S20 系列，以及 Galaxy Z Fold 和 Z Flip 系列。例如，Samsung Galaxy S25 Ultra、Galaxy Z Fold6、Galaxy S24 FE 等皆可使用 eSIM。請在我們的清單中查看哪些 Samsung 型號支援 eSIM。"
 
-# 页面头部文案
+# 頁面標題
 header:
-  title: "eSIM 相容手機清單 (2026)"
-  subtitle: "探索哪些智慧型手機（包含最新款的 iPhone、三星和 Google Pixel）支援 Roami 的全球 eSIM 服務。在 200 多個國家保持連線。"
-  search_placeholder: "搜尋您的手機型號..."
+  title: "支援 eSIM 的手機清單 (2026)"
+  subtitle: "了解哪些智慧型手機（包括最新的 iPhone、Samsung 和 Google Pixel 型號）支援 Roami 的全球 eSIM 連線。在 200 多個國家保持連線。您可以在此找到配備 eSIM 的手機：從 iPhone 17 到 Samsung Galaxy S25 和 Google Pixel 10。"
+  search_placeholder: "例如：iPhone 17, Samsung S25 Ultra, Xiaomi 15T Pro, Google Pixel 10"
 
-# 🚀 首屏免费 eSIM 横幅配置 (融入 SEO 长尾词)
+# 第一屏免費 eSIM 橫幅
+# 第一屏免費 eSIM 橫幅
 free_esim_banner:
-  title: "領取您的免費 eSIM 試用"
-  description: "不確定您的設備是否支援？測試相容性最好的方法就是領取 <strong>免費 eSIM 試用</strong>。無論您需要用於美國之旅的 <strong>免費美國 eSIM</strong>、<strong>免費日本 eSIM</strong>，還是 <strong>免費歐洲 eSIM 數據方案</strong>，請在下方領取並立即連線。"
+  title: "領取免費試用 eSIM"
+  description: "不確定您的裝置是否支援？檢查相容性最好的方法就是使用 <strong>免費試用 eSIM</strong>。無論您是需要前往日本、韓國、泰國或其他熱門目的地，請從下方選擇一個並立即連線。您也可以購買其他目的地的 eSIM — Roami 提供的全球旅遊 eSIM。"
   links:
-    - text: "🇺🇸 免費美國 eSIM 試用"
-      title: "獲取美國旅遊的免費 eSIM 試用"
+    - text: "🇯🇵 日本免費 eSIM"
+      title: "領取日本免費 eSIM 試用"
       url: "/free-esim/"
-    - text: "🇯🇵 免費日本 eSIM"
-      title: "領取您的免費日本 eSIM 數據方案"
+    - text: "🇰🇷 韓國免費 eSIM"
+      title: "領取韓國免費 eSIM 試用"
       url: "/free-esim/"
-    - text: "🇨🇳 免費中國 eSIM"
-      title: "試用中國大陸的免費 eSIM"
+    - text: "🇹🇭 泰國免費 eSIM"
+      title: "領取泰國免費 eSIM 試用"
       url: "/free-esim/"
-    - text: "🇹🇷 免費土耳其 eSIM"
-      title: "專為遊客提供的免費土耳其 eSIM 試用"
+    - text: "🇻🇳 越南免費 eSIM"
+      title: "領取越南免費 eSIM 試用"
       url: "/free-esim/"
-    - text: "🇪🇺 免費歐洲 eSIM"
-      title: "最佳的歐洲旅遊免費 eSIM"
+    - text: "🇭🇰 香港免費 eSIM"
+      title: "領取香港免費 eSIM 試用"
       url: "/free-esim/"
-    - text: "🇬🇧 免費英國 eSIM"
-      title: "免費英國 eSIM 數據試用"
+    - text: "🇨🇳 中國免費 eSIM"
+      title: "領取中國免費 eSIM 試用"
       url: "/free-esim/"
-    - text: "🇨🇦 免費加拿大 eSIM"
-      title: "免費加拿大 eSIM 連線"
+    - text: "🇸🇬 新加坡免費 eSIM"
+      title: "領取新加坡免費 eSIM 試用"
       url: "/free-esim/"
-    - text: "🇲🇽 免費墨西哥 eSIM"
-      title: "度假專用的免費墨西哥 eSIM"
+    - text: "🇺🇸 美國免費 eSIM"
+      title: "領取美國免費 eSIM 試用"
       url: "/free-esim/"
-    - text: "🇦🇺 免費澳洲 eSIM"
-      title: "免費澳洲 eSIM 試用"
+    - text: "🇲🇾 馬來西亞免費 eSIM"
+      title: "領取馬來西亞免費 eSIM 試用"
       url: "/free-esim/"
-    - text: "🇹🇭 免費泰國 eSIM"
-      title: "免費泰國 eSIM 數據方案"
+    - text: "🇦🇺 澳洲免費 eSIM"
+      title: "領取澳洲免費 eSIM 試用"
       url: "/free-esim/"
 
-# 🔍 搜索无结果时的转化引导配置
+# 無搜索結果時的配置
 no_results:
-  title: "找不到設備"
-  description: "我們在清單中找不到此確切型號，但大多數現代智慧型手機都支援 eSIM。"
-  box_title: "最佳檢查方法？"
-  box_desc: "驗證相容性最簡單的方法是嘗試安裝一個免費 eSIM。如果安裝成功，您的手機就能使用！"
-  button_text: "獲取免費 eSIM 試用"
+  title: "找不到裝置"
+  description: "請嘗試搜尋更通用的品牌名稱（如 Apple, Samsung）或檢查熱門型號：iPhone 17, Galaxy S25, Pixel 10 Pro。大多數現代手機都支援 eSIM。如果您不知道手機是否支援 eSIM，請撥打 *#06# — 出現 EID 即可確認相容性。"
+  box_title: "最好的檢查方法？"
+  box_desc: "確認相容性最簡單的方法是嘗試安裝免費的 eSIM。如果安裝成功，說明您的裝置已準備就緒！"
+  button_text: "領取免費試用 eSIM"
   button_url: "/free-esim/"
 
-# ℹ️ 如何检查部分文案
+# 「如何檢查」章節文本
 how_to_check:
   title: "如何檢查您的手機是否支援 eSIM？"
-  description: "在購買旅遊數據方案前，確認您的設備已解鎖並支援 eSIM 技術非常重要。最快的檢查方法是尋找 EID 號碼。"
+  description: "在購買旅遊方案之前，務必確保您的裝置已解鎖且支援 eSIM 技術。最快的方法是尋找 EID 號碼。我們按品牌整理了支援 eSIM 的手機 — 從 Apple iPhone 到 Samsung Galaxy 和 Google Pixel。"
   steps:
-    - "打開手機的撥號介面。"
-    - "輸入 <strong>*#06#</strong> 並按下撥打鍵。"
-    - "如果您的設備支援，螢幕上將顯示 <strong>EID 號碼</strong>（一組 32 位的代碼）。"
+    - "開啟電話撥號應用程式。"
+    - "輸入 <strong>*#06#</strong> 並撥號。"
+    - "如果您的裝置相容，螢幕上會顯示 <strong>EID 號碼</strong>（32 位元代碼）。"
   side_box:
     title: "大多數現代手機都支援 eSIM"
-    desc: "大多數 2018 年後發表的 iPhone 以及高階 Android 設備都完全相容 Roami。"
+    desc: "大多數 2018 年後發布的 iPhone 以及 Android 旗艦裝置都與 Roami 完全相容。我們的清單涵蓋了 Samsung、Google、Motorola、Xiaomi、Huawei 等品牌的 eSIM 手機。"
 
-# 🎁 侧边栏底部转化卡片配置
+# 側邊欄推廣卡片
 sidebar_promo:
-  title: "符合 eSIM 資格？"
-  description: "體驗無縫連線！免費獲取您的第一張 eSIM，享受海外高速數據。"
+  title: "您的手機適合使用 eSIM 嗎？"
+  description: "體驗無縫連線！免費領取您的第一個 eSIM，享受國外高速網路。無論您使用的是 iPhone 還是 Android — 大多數現代智慧型手機都能配合 eSIM 使用。"
   button_text: "立即領取免費 eSIM"
   button_url: "/free-esim/"
 
-# 兼容列表部分 (保持不变)
-compatibility_list_title: "各品牌支援設備"
+related_products:
+  title: "熱門 eSIM 目的地："
+  items:
+    - name: "日本 eSIM"
+      flag: "img/flags/jp.svg"
+      price: "$1.99 起"
+      slug: "japan-esim"
+    - name: "韓國 eSIM"
+      flag: "img/flags/kr.svg"
+      price: "$1.99 起"
+      slug: "south-korea-esim"
+    - name: "泰國 eSIM"
+      flag: "img/flags/th.svg"
+      price: "$1.99 起"
+      slug: "thailand-esim"
+    - name: "越南 eSIM"
+      flag: "img/flags/vn.svg"
+      price: "$1.99 起"
+      slug: "vietnam-esim"
+    - name: "新加坡 eSIM"
+      flag: "img/flags/sg.svg"
+      price: "$1.99 起"
+      slug: "singapore-esim"
+    - name: "香港 eSIM"
+      flag: "img/flags/hk.svg"
+      price: "$1.99 起"
+      slug: "hong-kong-esim"
+    - name: "中國 eSIM"
+      flag: "img/flags/cn.svg"
+      price: "$1.99 起"
+      slug: "china-esim"
+    - name: "美國 eSIM"
+      flag: "img/flags/us.svg"
+      price: "$1.99 起"
+      slug: "united-states-esim"
+    - name: "馬來西亞 eSIM"
+      flag: "img/flags/my.svg"
+      price: "$1.99 起"
+      slug: "malaysia-esim"
+    - name: "澳洲 eSIM"
+      flag: "img/flags/au.svg"
+      price: "$1.99 起"
+      slug: "australia-esim"
+    - name: "歐洲通用 eSIM"
+      flag: "img/flags/eu.svg"
+      price: "$1.99 起"
+      slug: "europe-esim"
+
+# 相容性清單
+compatibility_list_title: "各品牌支援的裝置"
 brands:
   - name: "Apple iPhone"
     icon: "apple"
     bg_color: "bg-slate-900"
-    note: "<strong>注意：</strong>在中國大陸銷售的 iPhone 不支援 eSIM。在香港和澳門銷售的 iPhone 僅部分支援 eSIM。請檢查您的具體型號。"
+    description: "尋找 <strong>esim iphone</strong> 的相容性資訊？從早期的 <strong>iphone xs esim</strong> 與 <strong>iphone xr esim</strong> (或稱 <strong>iphone xr e sim</strong>) 開始，一直到最新的型號皆全面支援。無論您使用的是 <strong>iphone 11 esim</strong> (也常被搜尋為 <strong>esim iphone 11</strong>)、<strong>iphone 12 esim</strong>、小巧的 <strong>iphone se esim</strong> 或是高階的 <strong>iphone 14 pro esim</strong>，都能完美啟用您的 <strong>iphone e sim</strong> 方案。您可以透過 QR Code 或電信商 App 在 iPhone 上設定。請在下方表格查看完整清單。"
+    note: "<strong>注意：</strong>常有人詢問 <strong>iphone 8 esim</strong> (或 <strong>esim iphone 8</strong>) 以及 <strong>iphone x esim</strong>，請注意這兩款較舊機型並不支援。此外，在中國大陸銷售的 iPhone 不支援 eSIM，香港與澳門銷售的機型僅部分支援。"
     note_class: "bg-amber-50 border-amber-100 text-amber-800"
     groups:
       - devices:
@@ -132,7 +182,8 @@ brands:
   - name: "Samsung"
     icon: "smartphone"
     bg_color: "bg-blue-600"
-    note: "*某些地區版本可能不支援 eSIM。請查閱您的設備說明書。"
+    description: "想要啟用您的 <strong>esim samsung</strong> 嗎？現在大多數的 <strong>三星 esim</strong> 裝置都支援這項技術。從熱門的 <strong>s22 esim</strong> 到最新的 Galaxy S25/S24/S23 旗艦機與摺疊機 (Z Fold/Z Flip) 都能無縫使用 <strong>e sim samsung</strong>。若您正在尋找相容的 <strong>esim 三星</strong> 手機，甚至包含 Galaxy A 系列 (A54, A55, A35) 均支援 eSIM。請在我們的清單中了解詳情。"
+    note: "*某些地區版本可能不支援 eSIM。請檢查您的裝置手冊。"
     note_class: "text-slate-500 bg-transparent border-transparent"
     groups:
       - devices:
@@ -195,7 +246,8 @@ brands:
   - name: "Google Pixel"
     icon: "smartphone"
     bg_color: "bg-red-500"
-    note: "*某些地區版本可能不支援 eSIM。請查閱您的設備說明書。"
+    description: "所有 <strong>Google Pixel 3 及更新型號</strong>（日本版本除外）皆支援 eSIM。Google Pixel 10 Pro、Pixel 10、Pixel 9 Pro Fold、Pixel 8a 及更早型號 — 全都支援 eSIM。請透過 EID 了解您的 Pixel 是否支援 eSIM。"
+    note: "*某些地區版本可能不支援 eSIM。請檢查您的裝置手冊。"
     note_class: "text-slate-500 bg-transparent border-transparent"
     groups:
       - devices:
@@ -233,6 +285,7 @@ brands:
   - name: "Motorola"
     icon: "smartphone"
     bg_color: "bg-indigo-600"
+    description: "請在下方清單中檢查您的型號。大多數現代 Motorola 智慧型手機都具備 eSIM，包括摺疊機 Razr 和 Edge 系列。"
     groups:
       - devices:
         - "Motorola Razr (2025)"
@@ -292,9 +345,10 @@ brands:
         - "Motorola ThinkPhone 25"
         - "Motorola Signature"
 
-  - name: "Xiaomi & Huawei"
+  - name: "Xiaomi 與 Huawei"
     icon: "smartphone"
     bg_color: "bg-orange-500"
+    description: "部分型號具備 <strong>小米 esim</strong> 支援：<strong>Xiaomi 15T Pro, 14T Pro, 13T Pro, Redmi Note 11 Pro 5G</strong>；<strong>Huawei Pura 70, Mate 40 Pro, P40 Pro</strong>。請在我們的清單中查看哪些 Xiaomi 型號支援 eSIM。Huawei 的 eSIM 僅在某些地區可用。"
     groups:
       - sub_title: "Xiaomi"
         devices:
@@ -331,9 +385,10 @@ brands:
           - "Huawei Pura 70 Pro"
           - "Pura X foldable"
 
-  - name: "Oppo & Vivo"
+  - name: "Oppo 與 Vivo"
     icon: "smartphone"
     bg_color: "bg-emerald-500"
+    description: "請在下方清單中檢查您的型號。大多數現代 Oppo 和 Vivo 智慧型手機都具備 eSIM。例如，Oppo Find X9 Pro, Oppo Reno 15 Pro, Vivo X200 Pro 皆支援 eSIM。"
     groups:
       - sub_title: "Oppo"
         devices:
@@ -375,9 +430,10 @@ brands:
           - "Vivo V40 Lite*"
           - "Vivo V50"
 
-  - name: "Honor & Sony"
+  - name: "Honor 與 Sony"
     icon: "smartphone"
     bg_color: "bg-purple-600"
+    description: "請在下方清單中檢查您的型號。大多數現代 Honor 智慧型手機與支援 <strong>sony esim</strong> 的裝置皆具備數位 SIM 卡功能。例如，Honor Magic V3 和 Sony Xperia 1 VII 皆完美支援 eSIM。"
     groups:
       - sub_title: "Honor"
         devices:
@@ -414,9 +470,10 @@ brands:
           - "Sony Xperia 5 V"
           - "Sony Xperia 1 VII"
 
-  - name: "Sharp & TCL"
+  - name: "Sharp 與 TCL"
     icon: "smartphone"
     bg_color: "bg-teal-600"
+    description: "請在下方清單中檢查您的型號。大多數現代 Sharp 和 TCL 智慧型手機都具備 eSIM。"
     groups:
       - sub_title: "Sharp"
         devices:
@@ -455,6 +512,7 @@ brands:
   - name: "其他品牌"
     icon: "more-horizontal"
     bg_color: "bg-slate-700"
+    description: "正在尋找相容的 <strong>esim android</strong> 或 <strong>android esim</strong> 裝置嗎？請在下方清單中檢查您的型號。其中一些品牌也廣泛支援 eSIM，例如：OnePlus, Nothing Phone, Realme — 請透過 EID 確認相容性。"
     groups:
       - devices:
         - "<strong>Nokia:</strong> Nokia G60 5G, Nokia X30, Nokia XR21"
@@ -466,4 +524,50 @@ brands:
         - "<strong>Surface:</strong> Surface Duo"
         - "<strong>OnePlus:</strong> 相容型號"
         - "<strong>其他:</strong> Gemini PDA 4G+Wi-Fi, Nothing Phone (3a) Pro, Realme 14 Pro+, ASUS Zenfone 12 Ultra, ZTE nubia Flip2, Alcatel V3 Ultra"
+
+# ==================== 附加 SEO 欄位 ====================
+
+# 側邊欄：快速問題（由數據驅動）
+quick_questions:
+  title: "相容性常見問題"
+  questions:
+    - text: "📱 一支手機可以安裝多少個 eSIM？"
+      anchor: "faq-esim-count"
+    - text: "🤔 哪些 Xiaomi 型號支援 eSIM？"
+      anchor: "faq-xiaomi"
+    - text: "🇨🇳 為什麼部分 iPhone 沒有 eSIM？"
+      anchor: "faq-iphone-china"
+    - text: "🔁 可以同時使用兩個 eSIM 嗎？"
+      anchor: "faq-dual-esim"
+    - text: "🔢 如何查看手機的 EID（eSIM 代碼）？"
+      anchor: "faq-check-eid"
+    - text: "📱 哪些 Samsung 手機支援 eSIM？"
+      anchor: "faq-samsung-esim"
+
+# 針對長尾關鍵字的擴展 FAQ
+extended_faq:
+  - question: "一支手機可以安裝多少個 eSIM？"
+    answer: "大多數現代手機（iPhone, Samsung, Pixel）可以儲存 10-20 個 eSIM 描述檔，但同時只能啟用 1-2 個（視型號而定）。例如，iPhone 17 可儲存多達 8 個 eSIM 並同時啟用 2 個。請在規格表中確認您的手機支援多少個 eSIM。"
+    anchor: "faq-esim-count"
+  - question: "如何知道我的 Xiaomi 是否支援 eSIM？"
+    answer: "僅有部分 Xiaomi 型號配備 <strong>小米 esim</strong>：Xiaomi 15T Pro, 14T Pro, 13T Pro, 12T Pro, Redmi Note 11 Pro 5G（印度版）。檢查方法是輸入 *#06# — 如果出現 EID，則表示支援 eSIM。也可查看上方支援的 Xiaomi eSIM 清單。"
+    anchor: "faq-xiaomi"
+  - question: "Samsung Galaxy A 系列支援 eSIM 嗎？"
+    answer: "是的，從 Galaxy A54 5G, A55 5G, A35 5G 及其更新型號開始支援。入門級 A1x/A2x 通常不支援。請查看上方清單以確認哪些 Samsung Galaxy 支援 eSIM。"
+    anchor: "faq-samsung-a"
+  - question: "哪些 iPhone 不支援 eSIM？"
+    answer: "在中國大陸銷售的 iPhone 不具備 eSIM。同時，如果您正在搜尋 <strong>iphone 8 esim</strong> 或 <strong>iphone x esim</strong>，請注意 iPhone 8 及更早型號、iPhone X（非 XS）皆不支援。所有從 <strong>iphone xs esim</strong> 及其更新型號（中國版除外）皆全面支援。詳細 iPhone eSIM 清單請參閱我們的指南。"
+    anchor: "faq-iphone-china"
+  - question: "可以同時使用兩個 eSIM 嗎？"
+    answer: "可以，在 iPhone 13 及更新型號、Samsung Galaxy S21+/Ultra 及更新型號、Google Pixel 7+ 上可以同時啟用兩個 eSIM。較舊型號通常為一個 eSIM + 一張實體 SIM。雙 eSIM 功能在許多現代智慧型手機上皆可使用。"
+    anchor: "faq-dual-esim"
+  - question: "如果我的手機不在清單中該怎麼辦？"
+    answer: "請嘗試撥打 *#06# — 如果看到 EID，說明手機支援 eSIM。或者安裝我們的免費試用 eSIM — 它會自動檢查相容性。您也可以在我們的擴展 eSIM 手機清單中搜尋您的型號。"
+    anchor: "faq-check-eid"
+  - question: "哪些 Samsung 手機支援 eSIM？"
+    answer: "幾乎所有從 Galaxy S20 開始的 Samsung 旗艦機，以及摺疊機 Z Flip 和 Z Fold（從 Z Flip 5G 和 Z Fold2 開始）都支援。A 系列：A54, A55, A35 及更新型號。請在上方相容性清單中檢查您的 Samsung Galaxy。"
+    anchor: "faq-samsung-esim"
+  - question: "什麼是實體 eSIM？真的有這種東西嗎？"
+    answer: "並不存在「實體 eSIM」 — eSIM 始終是內嵌在手機裡的。有些人會將其與實體 SIM 卡混淆，但 eSIM 是焊接在主機板上的晶片。您無法觸摸它，也無法將其移至另一部手機。"
+    anchor: "faq-physical-esim"
 ---

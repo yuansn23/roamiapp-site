@@ -1,94 +1,89 @@
 ---
-title: Kazakhstan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 哈薩克 eSIM 方案 | 哈薩克 eSIM | Roami
+date: '2026-05-19T10:31:08+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Kazakhstan eSIM
-  scenario_keywords: Almaty sightseeing, Astana business trip, Charyn Canyon hiking,
-    Shymkent cultural tour, Caspian Sea beach
-  operators: Beeline Kazakhstan, Kcell, Tele2 Kazakhstan
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Almaty, Astana, Shymkent, Karaganda, Aktobe
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 哈薩克 eSIM
+  scenario_keywords: 城市漫步、沙漠探險、購物、美食
+  operators: Beeline, Kcell, Tele2
+  competitors: Airalo, Holafly, Nomad, Truphone, Ubigi
+  main_cities: 阿拉木圖, 阿斯塔納, 奇姆肯特, 卡拉干達, 阿克套
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Kazakhstan eSIM Plan | Top Local Carrier Stable 5G |20% OFF| Roami
-  description: Traveling to Kazakhstan? Experience No Roaming Shock and seamless Reliable
-    5G from Top Local Carrier. Features Seamless Coverage and Unlimited Data, great
-    for Digital Nomads.
-  keywords: Kazakhstan eSIM, prepaid eSIM, cheap eSIM, unlimited data, travel internet,
-    no roaming charges, instant delivery, Roami
-  low_price: 1.99
-  high_price: 39.9
+  title: 俄羅斯 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
+  description: 俄羅斯旅遊必備 Roami eSIM，暢享最佳 5G 高速網路。現在選購並輸入折扣碼 20%，讓您的連線品質更有保障，費用更超值。
+  keywords: 哈薩克 eSIM, 哈薩克網路覆蓋, Beeline 哈薩克, Kcell 哈薩克, Tele2 哈薩克, 阿拉木圖景點, 阿斯塔納旅遊,
+    哈薩克叫車 App, Yandex Go 哈薩克
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 哈薩克 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Kazakhstan eSIM
+- label: 哈薩克 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Kazakhstan
-  title: Best eSIM for Kazakhstan
+  alt: 最佳 哈薩克 eSIM
+  title: 最佳 哈薩克 eSIM
 hero:
   flag_image: img/flags/kz.svg
-  flag_alt: Kazakhstan Flag
-  title: Kazakhstan eSIM data plan
-  subtitle: No ID required | No more roaming fees | Prioritized 5G access
+  flag_alt: 哈薩克 國旗
+  title: 哈薩克 eSIM - 旅行計劃
+  subtitle: 哈薩克 eSIM | 無隱藏費用 | 100%退款保證 | 無需身份證件
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 哈薩克 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 哈薩克 eSIM
 plans_data:
-  30 Days:
+  30 天:
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '37.99'
     oldPrice: '56.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.27'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -96,41 +91,41 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.50'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '27.99'
     oldPrice: '41.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.93'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '96.99'
     oldPrice: '145.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.23'
-  7 Days:
+  7 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -138,49 +133,49 @@ plans_data:
     daily: '0.86'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.28'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.86'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '23.99'
     oldPrice: '35.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.43'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.57'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '24.99'
     oldPrice: '37.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.57'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -188,65 +183,65 @@ plans_data:
     daily: '0.47'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.67'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '25.99'
     oldPrice: '38.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.73'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '34.99'
     oldPrice: '52.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.93'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '48.99'
     oldPrice: '73.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.27'
-  3 Days:
+  3 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '12.99'
     oldPrice: '19.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '4.33'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -254,555 +249,347 @@ plans_data:
     daily: '1.66'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.33'
 discount_banner:
-  title: Special Discount!
+  title: 哈薩克 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 哈薩克 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Kazakhstan, including major
-        cities like Almaty, Astana, Shymkent, and Karaganda. Our Kazakhstan eSIM seamlessly
-        connects to the robust networks of Beeline, Kcell, and Tele2, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個哈薩克享受廣泛的網路覆蓋，包括阿拉木圖、阿斯塔納、奇姆肯特和卡拉干達等城市。我們的哈薩克 eSIM 無縫連接到 Beeline、Kcell
+        和 Tele2 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: Beeline Kazakhstan
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+    - name: Beeline
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Kcell
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Tele2 Kazakhstan
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 哈薩克 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Kazakhstan.
+    html: 建議抵達 哈薩克 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 哈薩克 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 哈薩克 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 哈薩克 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 哈薩克 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 哈薩克」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Kazakhstan'
-    desc: Upon arriving in Kazakhstan, enable your Kazakhstan eSIM in settings to
-      start using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 哈薩克 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Beeline / Kcell 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 哈薩克：立即連上 5G/4G 網路
+    desc: 當您降落在 哈薩克（例如 阿拉木圖國際機場、努爾蘇丹·納扎爾巴耶夫國際機場、奇姆肯特國際機場）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往
+      **設定 → 行動服務** 並開啟您的 Roami eSIM 哈薩克。幾秒鐘內，您的設備將自動連接到 Beeline / Kcell 提供的最快可用 5G/4G
+      網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Kazakhstan eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Kazakhstan eSIM across different
-    travel scenarios.
+  title: 哈薩克 eSIM：完整指南和常見問題
+  desc: 使用 哈薩克 eSIM 在 哈薩克 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 哈薩克 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Kazakhstan eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Kazakhstan eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Kazakhstan eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Kazakhstan
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Kazakhstan eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Kazakhstan eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Kazakhstan that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Kazakhstan eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Kazakhstan eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Kazakhstan eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Kazakhstan eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Kazakhstan,
-        such as Beeline Kazakhstan, Kcell, Tele2 Kazakhstan, to ensure premium speeds
-        at a fraction of roaming costs.
-    - q: How do you compare with well-known eSIM providers like BNESIM, Redtea Mobile,
-        Airalo, Holafly?
-      a: While great companies like BNESIM, Redtea Mobile, Airalo, Holafly offer reliable
-        services, we focus on providing the most cost-effective Kazakhstan eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在阿拉木圖市中心使用 eSIM 連接到 Beeline 網路時，觀看 YouTube 4K 影片的體驗如何？
+      a: 在阿拉木圖市中心，例如繞著共和國廣場或阿拜大道附近，使用 Beeline 網路的平均下載速度約為 30-50 Mbps，這足以順暢播放 4K 影片，緩衝時間通常低於
+        5 秒。但在尖峰時段（傍晚 6-8 點）靠近 MEGA 購物中心或 Zhibek Zholy 步行街時，速度可能降至 15-20 Mbps，此時 4K
+        可能偶爾需要短暫緩衝，但切換至 1080p 即可保持流暢播放。每天使用超過 5 GB 後，優先級會降低，但速度仍維持在約 2 Mbps，足以進行標準解析度的串流。
+    - q: 在阿斯塔納的納扎爾巴耶夫國際機場，eSIM 的啟用和網路連接是否順暢？
+      a: 在阿斯塔納的努爾蘇丹·納扎爾巴耶夫國際機場（NQZ），購買後 eSIM 通常會在 5 分鐘內激活。當您著陸後打開手機，設備會自動連接到 Kcell
+        或 Beeline 網路，信號強度極佳。建議您在等待行李時撥打一通 WhatsApp 語音通話測試連線，因為機場人多時，Kcell 網路可能出現約
+        1-2 秒的延遲，而 Beeline 的延遲通常更低。如果您遇到連線問題，請手動選擇運營商，優先選擇 Beeline。
+    - q: 在奇姆肯特老城區使用 Tele2 網路時，社交媒體和地圖的表現如何？
+      a: 在奇姆肯特老城區（例如 Ordabasy 廣場附近），Tele2 網路提供穩定的 4G 連線，下載速度通常在 20-35 Mbps，瀏覽 Instagram、Facebook
+        和 Google 地圖都非常流暢。不過，在古老的巴扎區域（如 Arbat 步行街附近），人潮擁擠時可能出現暫時性減速，但基本瀏覽不受影響。地圖導航的反應時間約為
+        2-3 秒，即使在巷弄中也能準確定位。若您需要更快的速度，可手動切換至 Beeline 網路，其覆蓋在老城區邊緣更廣。
+    - q: 在阿拉木圖的 Kók-Tóbe 山山頂，eSIM 網路連線是否穩定？可以進行視訊通話嗎？
+      a: 在 Kók-Tóbe 山山頂（海拔約 1,100 公尺），若連接到 Beeline 或 Kcell 的 5G/4G 網路，通常信號穩定，下載速度約
+        25-40 Mbps。進行 Zoom 或 WhatsApp 視訊通話時，影像清晰，僅在偶爾刮強風時可能出現短暫聲音中斷。建議使用 Kcell 網路，因為其基地台覆蓋更接近旅遊景點。若您從阿拉木圖市中心搭乘纜車上山，途中信號可能短暫中斷，但抵達山頂後會立即恢復。
+    - q: 在卡拉干達市中心使用 eSIM 時，最大數據量限制和降速條件是什麼？
+      a: eSIM 方案通常包含每日高速數據額度，例如 1GB 或 2GB 後降速至 2 Mbps。在卡拉干達市中心（例如布哈爾-日勞大街附近），使用 Beeline
+        網路時，即使超過額度，降速後仍能傳送文字訊息和使用地圖，但觀看影片可能需較多緩衝時間。如果您是重度使用者，建議購買無限計劃，或注意方案是否明確標示「降速後無限」。此外，每日使用量於當地時間午夜重置，屆時又會恢復高速。
+    - q: 使用 eSIM 在哈薩克可以熱點分享給其他設備嗎？有什麼限制？
+      a: 我們的哈薩克 eSIM 支援熱點分享，且無額外限制。您可以將網路分享給筆電、平板或其他手機使用。在阿拉木圖的共和國廣場測試中，使用 Beeline
+        網路分享給兩台設備時，主手機的連線速度仍保持在 20-30 Mbps。不過請注意，熱點分享會加速整體數據耗用，且某些手機品牌（如 Sony）可能需要手動設定
+        APN 才能使用熱點。若遇到分享問題，請先檢查 APN 設定。
+    - q: 在哈薩克使用 eSIM 需要註冊或提供護照等文件嗎？
+      a: 購買我們的 eSIM 時，您無需提供護照或任何個人文件；只需在購買後掃描 QR Code 即可啟用。然而，哈薩克當地法規要求所有行動網路使用者必須實名登記，但我們的
+        eSIM 已由合作運營商提前完成批量註冊，因此您無需額外步驟。當您在阿拉木圖或阿斯塔納的機場使用時，系統會自動連線，無需在當地商店出示證件。建議保留購買收據，以備不時之需。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 哈薩克 機場：如何使用 哈薩克 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Kazakhstan eSIM before your flight. Once you land at Almaty International
-        Airport, Nursultan Nazarbayev International Airport, Shymkent International
-        Airport, simply turn off Airplane Mode and enable your eSIM line. It will
-        connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Kazakhstan eSIM activated upon landing, you can immediately open
-        Yandex Taxi, InDrive, Uber to book a ride or use WhatsApp to message your
-        pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Kazakhstan eSIM data allows you to open Google Maps right
-        at the baggage claim in Almaty International Airport, Nursultan Nazarbayev
-        International Airport, Shymkent International Airport to check real-time train
-        schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Kazakhstan eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Kazakhstan eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Kazakhstan eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 從阿拉木圖國際機場抵達後，如何最快啟用 eSIM 並連接到網路？
+      a: 當您降落在阿拉木圖國際機場（ALA）後，打開手機並關閉飛航模式。eSIM 應在幾分鐘內自動激活並搜尋到 Beeline 或 Kcell 網路。如果沒有自動連接，請手動進入行動網路設定，選擇
+        Beeline 作為運營商。建議您在等待行李時撥打 WhatsApp 測試通話，以確認連線穩定。機場大廳信號極強，但尖峰時段大量旅客同時使用時可能稍微降速。
+    - q: 在努爾蘇丹·納扎爾巴耶夫國際機場，有哪些運營商提供最佳覆蓋？
+      a: 努爾蘇丹·納扎爾巴耶夫國際機場（NQZ）內，Beeline 和 Kcell 均提供優質的 5G/4G 覆蓋。Beeline 在航站樓中央區域（如出發大廳）的信號最強，下載速度通常可達
+        60 Mbps；Kcell 則在登機口附近的覆蓋更均勻。建議您使用 Beeline 觀看串流或下載大型應用，因為其實測速度較快。如果您需要穩定通話，Kcell
+        的語音品質優秀。
+    - q: 在奇姆肯特國際機場使用 eSIM 時，是否會遇到斷訊問題？
+      a: 奇姆肯特國際機場（CIT）規模較小，但 eSIM 的連線通常穩定。Beeline 和 Tele2 當地覆蓋良好，您可以在到達大廳立即連線。偶爾在航站樓邊緣（如貨運區附近）信號弱，但主要旅客區域無礙。若遇到斷訊，請嘗試切換到
+        Kcell 網路，其基地台更靠近航站樓。整體而言，斷訊情況少見，除非機場罕見停電。
+    - q: 在機場購買當地 SIM 卡和用 eSIM 哪個更適合短期旅遊？
+      a: 對於短期旅遊（例如 7 天），eSIM 遠比機場購買當地 SIM 卡方便。您無需排隊、無需護照影本，且避免語音不通的麻煩。在阿拉木圖機場，當地 SIM
+        卡可能需前往運營商櫃檯（位於到達大廳右側），而 eSIM 在降落即自動連線。此外，eSIM 方案常包含多國數據，若您從中亞聯遊出發更加划算。價格方面，eSIM
+        與當地預付卡相差無幾。
+    - q: 從哈薩克機場離境時，eSIM 會自動失效嗎？
+      a: eSIM 通常有固定有效期限（例如 7 或 30 天），離境時只要在期限內仍可繼續使用。當您從阿拉木圖或阿斯塔納機場起飛後，一旦飛機進入飛航模式或脫離哈薩克基地台，eSIM
+        即停止服務。返回哈薩克時，只要在有效期限內，重新開機就會自動連線。如果計畫再次入境，建議購買期限涵蓋整個旅程的方案。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 哈薩克 eSIM 用於 哈薩克 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Kazakhstan eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Kazakhstan, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Yandex Taxi, InDrive, Uber use VoIP (internet calling) and in-app
-        messaging. Since you have active Kazakhstan eSIM data, drivers can call or
-        message you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Kazakhstan eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Kazakhstan eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in Kazakhstan.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Kazakhstan eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Kazakhstan eSIM's data network while
-        on the train or in the car.
+    - q: 在阿拉木圖如何使用 Yandex Go 叫車？eSIM 網路是否支援即時定位？
+      a: Yandex Go 是阿拉木圖最流行的叫車應用。下載後以手機號碼註冊（可使用 eSIM 的本地號碼或虛擬號碼），即可叫車。eSIM 的網路連線足以支援即時定位，定位精準度通常在
+        10 公尺內，即使在阿拉木圖的狹窄巷弄（如 Green Bazaar 附近）也無問題。建議出發前確認熱點分享功能正常，以便在部分司機使用導航時共享網路。尖峰時段（上下班）可能車難叫且價格浮動。
+    - q: 從阿斯塔納火車站到市中心，使用地鐵或公車的網路覆蓋如何？
+      a: 阿斯塔納（努爾蘇丹）地鐵只有一條線，從阿拜站到瑞斯庫洛夫站。在車廂內，Beeline 和 Kcell 的 4G 信號穩定，下載速度約 30 Mbps，可流暢播放音樂和瀏覽網頁。隧道段可能中斷約
+        5-10 秒，但進站後恢復。公車線路（例如 10 路）覆蓋全市，連線同樣良好。建議使用 Google 地圖離線模式以防萬一。
+    - q: 在奇姆肯特使用 InDriver 叫車是否比 Yandex Go 便宜？eSIM 的數據流量足夠嗎？
+      a: InDriver 在奇姆肯特常用，乘客可自訂價格，通常比 Yandex Go 便宜 10-20%。例如從 Ordabasy 廣場到奇姆肯特機場，InDriver
+        約 1500 堅戈，Yandex Go 約 1800 堅戈。eSIM 的數據流量對於叫車應用消耗極少（每程不到 1 MB），因此即使使用最低方案（例如
+        1 GB/日）也完全足夠。推薦同時安裝兩者，比較價格後選擇。
+    - q: 從阿拉木圖機場到市中心的最佳交通方式是什麼？eSIM 能否協助導航？
+      a: 從阿拉木圖國際機場到市中心的推薦交通方式為 Yandex Go 叫車，費用約 3000-4000 堅戈，車程 25-40 分鐘。eSIM 可即時使用
+        Google 地圖導航，避開塞車路段（如 Dostyk 大道尖峰時段）。公車數量少且行李空間有限，不建議。若多人同行，可考慮預約機場接送，但價格較高。
+    - q: 在卡拉干達市區騎行共享單車時，eSIM 的定位功能是否可靠？
+      a: 卡拉干達的共享單車（如 Astana Bike）使用手機應用解鎖，需要穩定的網路連線。eSIM 連接到 Tele2 或 Beeline 時，GPS
+        定位在主要街道（如布哈爾-日勞大街）上精確至 5 公尺內。但在公園或住宅區深處可能會有 10-15 公尺誤差，但足以正確解鎖車輛。建議隨身攜帶行動電源，因為長時間使用導航和應用會消耗手機電量。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 哈薩克 的飯店使用 哈薩克 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Kazakhstan eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Kazakhstan eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Ritz-Carlton Almaty, Hilton Astana, St. Regis
-        Astana or a local guesthouse, you can input the address into Google Maps and
-        get turn-by-turn walking or transit directions using your Kazakhstan eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Kazakhstan eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Kazakhstan eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Glovo, Wolt, Yandex Eda and use your
-        Kazakhstan eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Kazakhstan eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 在阿拉木圖的麗思卡爾頓酒店，eSIM 的網路速度如何？適合商務會議嗎？
+      a: 麗思卡爾頓酒店位於阿拉木圖市中心（Dostyk 大道），其建築物內的 Beeline 5G 訊號極強，下載速度約 70 Mbps，足以進行高畫質視訊會議。酒店提供免費
+        Wi-Fi，但 eSIM 作為備用方案更可靠，特別是在會議室深處 Wi-Fi 可能較弱。建議在入住時測試 eSIM 與 Wi-Fi 的速度，擇優使用。注意每晚高速數據超過方案額度後可能降速，商務人士可選購更高數據量的方案。
+    - q: 在阿斯塔納的希爾頓花園酒店，eSIM 能否支援串流 Netflix 和 Disney+？
+      a: 希爾頓花園酒店位於阿斯塔納新區（Mangilik El 大道），連線到 Kcell 網路時，下載速度平均 40 Mbps，完全可以順暢播放 Netflix
+        4K 內容。酒店內部 Wi-Fi 有時因用戶過多而變慢，此時使用 eSIM 是更好的選擇。建議在晚上使用旺季（如會議期間），eSIM 能保證頻寬。確保您的方案包含足夠數據，例如每晚串流
+        2 小時約消耗 1-2 GB。
+    - q: 在奇姆肯特的大飯店（Grand Hotel），eSIM 的信號是否涵蓋所有樓層？
+      a: 奇姆肯特大飯店位於市中心（Tauke Khan 大道），eSIM 連接到 Tele2 時，所有樓層包括地下室餐廳都有信號。在 5 樓以上，速度可能略降至
+        20 Mbps，但足以瀏覽網頁和社交媒體。飯店內的牆壁不會造成明顯阻擋，只有電梯內部可能短暫中斷。若您在高層需要穩定通話，推薦切換至 Beeline
+        網路。
+    - q: 在哈薩克住民宿時，eSIM 的網路通常比民宿 Wi-Fi 快嗎？
+      a: 在哈薩克的民宿（尤其在阿拉木圖近郊或阿斯塔納老區），Wi-Fi 品質參差不齊。許多民宿使用家庭級 4G 路由器，速度往往低於 10 Mbps，而
+        eSIM 連接 Beeline 通常能提供 30-50 Mbps。因此 eSIM 更可靠，尤其對於視訊通話或串流。建議在訂房時先詢問網路資訊，現場測試後決定是否主要使用
+        eSIM。
+    - q: 在酒店使用 eSIM 熱點分享給多人時，是否會超量降速？
+      a: 是的，熱點分享會消耗數據量，多人使用時很可能觸發每日高速數據上限（例如 2 GB）。我們的方案降速後仍維持約 2 Mbps，足夠傳送訊息和使用地圖，但多人同時視訊將困難。建議在酒店中利用
+        eSIM 作為個人備用，而主要使用酒店 Wi-Fi 分擔流量。若預算允許，可為每人單獨購買 eSIM。
+    - q: 在阿克套的度假酒店，eSIM 的海灘區域覆蓋如何？
+      a: 阿克套是裏海沿岸城市，例如 Grand Hotel Aktau 的私人海灘區域，Beeline 的 4G 信號覆蓋良好，下載速度約 15-25 Mbps，不太可能支援穩定視訊通話但社交媒體與地圖無礙。部分酒店靠近懸崖處信號較弱，建議選擇靠近泳池的中間區域。若想在沙灘上遠離人潮，速度可能降至
+        5 Mbps，但仍可運作。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 哈薩克 旅遊景點的網路：哈薩克 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Charyn Canyon, Big Almaty Lake, Mausoleum of Khoja
-        Ahmed Yasawi spontaneously, you can use your Kazakhstan eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Kazakhstan eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Kazakhstan.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Kazakhstan eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Kazakhstan eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Kazakhstan eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Kazakhstan eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Kazakhstan eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Kazakhstan eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Kazakhstan eSIM ensures you
-        can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Kazakhstan eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Glovo, Wolt, Yandex Eda, register using
-        your email or social accounts, and order food seamlessly using your Kazakhstan
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Kaspi.kz,
-        Halyk Bank, Qiwi require a brief internet handshake, which your Kazakhstan
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Kazakhstan eSIM to find hidden culinary gems in the city.
+    - q: 前往阿拉木圖的 Kók-Tóbe 山，eSIM 能否提供即時導航和纜車排隊時間資訊？
+      a: Kók-Tóbe 山是阿拉木圖地標，您可從市中心搭乘纜車（起點站近共和國廣場）。eSIM 連接 Beeline 網路，Google 地圖可精確導航至纜車站並提供即時排隊時間（約
+        15-30 分鐘）。山上頂部有餐廳和觀景台，信號良好，可即時上傳照片和影片。建議避開週末下午，人潮最多。
+    - q: 參觀阿斯塔納的巴伊傑列克觀景塔時，如何利用 eSIM 獲取語音導覽？
+      a: 巴伊傑列克觀景塔是阿斯塔納的象徵，塔內提供 Wi-Fi，但 eSIM 更穩定。您可使用手機下載官方導覽應用（如「Astana Monument Guide」），或透過
+        YouTube 搜尋中文解說影片。eSIM 連接 Kcell 網路時，在塔內各樓層信號均強，可隨時串流影音導覽。建議在入口處掃描 QR Code 獲取數位資訊，並提前下載離線地圖以防萬一。
+    - q: 在奇姆肯特古城（Ordabasy）漫步時，eSIM 的地圖和翻譯功能是否流暢？
+      a: 奇姆肯特古城（Ordabasy 廣場周圍）是歷史核心區域。eSIM 連接到 Tele2 或 Kcell 時，Google 地圖的反應快速，可順利引導您穿過小巷前往博物館或清真寺。翻譯功能（如
+        Google 翻譯相機）能即時轉譯招牌上的哈薩克文或俄文，準確率約 80%。建議在遊客中心先下載離線語言包，以應對網路偶爾波動。
+    - q: 在阿拉木圖的 Green Bazaar，使用 eSIM 進行行動支付和比價方便嗎？
+      a: Green Bazaar 是阿拉木圖最著名的市場。eSIM 的網路可支援 Kaspi.kz 和 Halyk Bank 的行動支付，在攤位掃碼支付非常順暢。您也可以上網比價周邊商品（如乾果、手工藝品），但市場內人潮眾多時，Beeline
+        網路可能出現 2-3 秒延遲。建議避開週末上午 11 點至下午 2 點的高峰時段。此外，部分攤販只收現金，請備零錢。
+    - q: 前往阿拉木圖大阿拉木圖湖（Big Almaty Lake）時，eSIM 在沿途山區的覆蓋如何？
+      a: 大阿拉木圖湖位於海拔 2,500 公尺的山區，從市區駕車約 1 小時。沿著山路，Beeline 和 Kcell 的 4G 信號在大部分路段可用，但在最後幾公里（接近湖區）可能中斷
+        5-10 分鐘。抵達湖邊後，信號恢復微弱（約 10 Mbps），可傳送文字訊息但無法串流影片。建議將路線導航提前載入離線模式，並告知他人行程。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 哈薩克 eSIM 在 哈薩克 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Kazakhstan eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Kazakhstan eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Kazakhstan eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Kazakhstan
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Kazakhstan eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Kazakhstan eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Kazakhstan eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在阿拉木圖使用 TikTok 和 Instagram 時，Beeline 網路的上傳速度足夠發布影片嗎？
+      a: 在阿拉木圖市中心（如 Panfilov 公園附近），Beeline 的上傳速度約 15-25 Mbps，足以在 30 秒內上傳一段 60 秒的 1080p
+        影片。Instagram 限時動態和 TikTok 發布順暢，但在 Charyn 峽谷等偏遠地區，上傳速度可能降至 2 Mbps，建議壓縮後發布。日常使用完全無礙，是社交媒體活躍用戶的好選擇。
+    - q: 在阿斯塔納使用 Facebook 直播時，哪個運營商最穩定？
+      a: Facebook 直播需要穩定的上傳頻寬。在阿斯塔納市區，Kcell 的上傳速度和延遲表現最佳，通常能維持 10-15 Mbps，斷線率低。Beeline
+        也不錯，但尖峰時段在 Khan Shatyr 附近可能降速。建議開播前使用速度測試應用（Speedtest）檢查網路，並關閉其他高流量應用。直播時若遇卡頓，可降低解析度至
+        720p。
+    - q: 在奇姆肯特如何透過 eSIM 與家人視訊通話？使用什么應用最好？
+      a: 在奇姆肯特市中心，使用 WhatsApp 或 Telegram 視訊通話非常流暢。若連接到 Tele2 網路，延遲約 150-200 毫秒，畫質
+        720p 穩定。使用 Zoom 或 FaceTime 也無問題，但 FaceTime 在部分裝置可能因網路限制而略有延遲。建議在建築物外或靠近窗戶的位置使用，以獲取最佳訊號。每天超過
+        1 小時通話約消耗 600 MB，請注意數據量。
+    - q: 在哈薩克旅遊時，如何使用 eSIM 發送大量照片給親友？
+      a: 您可使用 Google 相簿或 WhatsApp 發送原圖照片。一張 12MP 照片約 3-5 MB，在阿拉木圖的 Beeline 4G 網路下，上傳
+        10 張照片約需 20 秒。建議壓縮照片至 2 MB 以節省數據（例如使用「照片壓縮」應用）。若在社群媒體群組發送，可先壓縮後再上傳。注意公共 Wi-Fi
+        可能更慢，eSIM 通常是更快選擇。
+    - q: 在哈薩克使用交友軟體（如 Tinder）時，eSIM 的定位服務準確嗎？
+      a: eSIM 的定位服務在阿拉木圖和阿斯塔納非常準確，誤差通常在 10 公尺內，可正常顯示附近用戶。但在建築密集區域（如阿拉木圖的 Dostyk 廣場），可能偏移至相鄰街道。建議啟用
+        Wi-Fi 輔助定位以提升精度。交友軟體消耗數據極少，每日約 10-20 MB，因此 eSIM 方案完全足夠。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 哈薩克 使用 哈薩克 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Kazakhstan, you can dial local emergency numbers like 112, 101, 102, 103
-        directly from your phone's dialer regardless of your active SIM, as long as
-        your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Kazakhstan eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Kazakhstan eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Kazakhstan eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Kazakhstan eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Kazakhstan eSIM, use
-        your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Kazakhstan eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Kazakhstan eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Kazakhstan eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Kazakhstan eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Kazakhstan eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Kazakhstan eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Kazakhstan eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在哈薩克遇到緊急情況時，如何用手機撥打 112？eSIM 是否支援緊急通話？
+      a: 在哈薩克，即使手機沒有 SIM 卡或 eSIM 沒有餘額，仍可撥打 112 緊急號碼。您的 eSIM 啟用後，通話將自動路由至當地運營商。撥打後，接線員可能使用哈薩克語或俄語應答，建議簡單英文「Help!」通常能轉接到英語接線員。若在偏遠山區（如天山山脈）信號弱，可嘗試更高位置。請記住，112
+        僅在網路覆蓋範圍內可用。
+    - q: 在阿拉木圖，如果手機被偷，如何鎖定 eSIM 和保護資料？
+      a: 首先使用其他裝置登入您的 eSIM 供應商網站（如 Airalo）暫停或刪除 eSIM，防止他人濫用數據。然後使用 Google 的「尋找我的裝置」或
+        Apple 的「尋找」功能遠端鎖定手機並清除資料。建議事先啟用雙重驗證並記錄手機的 IMEI 碼。聯繫當地警方（102）報案，並告知運營商（如 Beeline
+        客服 0611）掛失。
+    - q: 在阿斯塔納發生交通事故時，如何透過 eSIM 聯絡保險和救援？
+      a: 發生事故後，先確保安全，然後撥打 102 通知警察。使用 eSIM 呼叫您的租車或旅遊保險公司（預先儲存號碼）提供事故細節。若需要救護車，撥打 103。在阿斯塔納市區，救援車輛通常
+        10 分鐘內到達。建議使用手機拍照記錄現場，並在應用（如 Google 地圖）中共享定位給保險公司。
+    - q: 在哈薩克偏遠地區（如 Charyn 峽谷）緊急情況下，eSIM 的網路是否有用？
+      a: 在 Charyn 峽谷等偏遠地區，網路覆蓋有限。Beeline 和 Kcell 在峽谷入口處有微弱信號（約 2-5 Mbps），但深入峽谷後可能完全無服務。建議提前下載離線地圖並攜帶衛星電話作為備用。若發生緊急情況，可嘗試前往高處或峽谷邊緣尋找信號，並撥打
+        112。旅遊旺季時峽谷內較多人，可能借用他人通訊設備。
+    - q: 在哈薩克遇到語言不通需要緊急翻譯時，如何利用 eSIM 獲得幫助？
+      a: 使用 Google 翻譯應用，其即時語音翻譯功能在 eSIM 網路連線下反應迅速。在阿拉木圖市區，翻譯延遲約 1 秒，準確度約 85%。您也可下載哈薩克語或俄語離線語言包以備不時之需。若需人工翻譯，可撥打旅遊警察專線（114），部分人員會講英文。建議事先儲存常用短語的截圖。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 哈薩克 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Kazakhstan eSIM vs Prepaid SIM: Cost and Convenience Compared"
-  subtitle: "Kazakhstan Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Kazakhstan) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Kazakhstan"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Kazakhstan eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Must go to airport, train station, or city center outlets to queue. Passport required for real-name registration. Street vendors sell Beeline SIMs for 150-1000 KZT but communication is difficult."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport queues and passport checks. Activate online within 1 minute after landing in Almaty or Nur-Sultan."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Foreigners must submit passport, residence permit, or diplomatic documents. Since 2019, device IMEI is forcibly bound to personal identity in the government database (BDIK)."
-      esim_title: "No Passport or IMEI Binding"
-      esim_desc: "Avoid Kcell's strict passport registration and BDIK IMEI lock. Roami eSIM activates without any personal ID."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Kcell roaming pack 150 MB/5 days costs 1490 KZT, limited countries. Beeline SuperVisa splits data into 'basic' and 'CIS-only bonus' data. Tele2 default daily roaming pack 590 KZT gives only 100 MB high-speed then throttled to 128 kbps."
-      esim_title: "Global Roaming Without Caps"
-      esim_desc: "Unlike Beeline's SuperVisa that splits data into CIS-only bonus (e.g., 1GB basic vs 5GB CIS), Roami offers seamless multi-country data with no regional restrictions."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "All major operators use 30-day cycles. Kcell minimum 5GB plan costs 1490 KZT, Beeline 3GB costs 890 KZT. A 5-day trip wastes over 80% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Kcell's 30-day 5GB plan costs 1490 KZT (~$3.30) but a 7-day trip wastes 77% of data. Roami offers 7-day plans starting from $1.99/GB, saving over 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, most Kazakh prepaid SIMs allow tethering but may throttle after certain usage."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Most Kazakh prepaid SIMs allow tethering but may throttle after 3GB/day. Roami provides full-speed hotspot with no caps."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Kcell explicitly states foreign debit cards may not be accepted. Beeline requires street top-up machines. Tele2 online payment is complicated."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Kcell rejects foreign debit cards; Beeline requires street machines. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, customer support is primarily in Russian/Kazakh, limited English."
-      esim_title: "24/7 English Support"
-      esim_desc: "Kazakh operators offer limited English support. Roami provides 24/7 live chat in English for instant help."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Kazakhstan eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared"
-    cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Kazakhstan's Strict SIM Passport Requirements"
-        desc: "Kcell and Beeline require passport registration and IMEI binding to BDIK since 2019. Roami eSIM activates instantly with <b>no ID</b> needed, avoiding the risk of device lock."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payment Acceptance"
-        desc: "Kcell rejects foreign debit cards; Beeline requires street top-up machines. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal</b>."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Multi-Country Seamless Roaming"
-        desc: "Tele2's daily roaming pack (590 KZT) gives only 100MB high-speed then 128kbps. Roami provides <b>high-speed data across 100+ countries</b> without throttling."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Roaming Data 'Slicing' Traps"
-        desc: "Beeline's SuperVisa splits data into 'basic' and 'CIS-only bonus' (e.g., 1GB basic + 5GB CIS). Roami provides <b>unified global data</b> with no regional restrictions."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

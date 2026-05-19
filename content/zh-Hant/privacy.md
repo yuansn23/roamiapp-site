@@ -2,7 +2,7 @@
 title: "Roami 隱私權政策 | 我們如何保護您的旅行數據安全"
 description: "閱讀隱私權政策，了解 Roami 如何收集、使用及保護您的資料。"
 last_updated: "2026年5月"
-date: '2026-05-15T00:00:00+00:00'
+date: '2026-05-19T00:00:00+00:00'
 type: "page"
 layout: "privacy"  
 ---

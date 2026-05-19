@@ -1,118 +1,113 @@
 ---
-title: Sweden eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 瑞典 eSIM 方案 | 瑞典 eSIM | Roami
+date: '2026-05-19T10:11:34+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Sweden eSIM
-  scenario_keywords: Stockholm sightseeing, Northern Lights tours, Swedish Lapland
-    adventure, Midsummer celebration
+  core_keyword: 瑞典 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食, 自然探索
   operators: Telia, Telenor, Tele2
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Stockholm, Gothenburg, Malmö, Uppsala, Linköping
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  competitors: Airalo, Holafly, Nomad, Ubigi, Truphone
+  main_cities: 斯德哥爾摩, 哥德堡, 馬爾默, 烏普薩拉, 林雪平
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Sweden eSIM |20% OFF| Always-On 5G for Digital Nomads|Roami
-  description: Traveling to Sweden? Get Roami's Stable 5G on Top Local Carrier with
-    No Roaming Shock. Perfect for Business Trips, offering No Hidden Charges and Stable
-    Connection.
-  keywords: Sweden eSIM, cheap eSIM Sweden, prepaid data Sweden, travel internet Sweden,
-    no roaming charges
-  low_price: 1.99
-  high_price: 39.9
+  title: 瑞典 eSIM | eSIM無限流量 | 5G網路自動切換 | Roami
+  description: 瑞典旅遊推薦 Roami eSIM 無限流量方案，支援 5G 網路自動切換。現在購買並使用折扣碼 20%，開啟您的專屬旅遊優惠。
+  keywords: 瑞典 eSIM, 瑞典網路覆蓋, 瑞典旅遊, 斯德哥爾摩 eSIM, 哥德堡 eSIM, 瑞典電信, Telia, Telenor, Tele2,
+    eSIM 瑞典
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 瑞典 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Sweden eSIM
+- label: 瑞典 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Sweden
-  title: Best eSIM for Sweden
+  alt: 最佳 瑞典 eSIM
+  title: 最佳 瑞典 eSIM
 hero:
   flag_image: img/flags/se.svg
-  flag_alt: Sweden Flag
-  title: Sweden eSIM data plan
-  subtitle: Bestseller | Travel with ease | Automatic network selection
+  flag_alt: 瑞典 國旗
+  title: 瑞典 eSIM - 旅行計劃
+  subtitle: 瑞典 eSIM | 流量吃到飽 | 即時交付 | 高速5G網路
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 瑞典 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 瑞典 eSIM
 plans_data:
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 100GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.83'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -120,49 +115,49 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.30'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.40'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '19.99'
     oldPrice: '29.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.67'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '78.99'
     oldPrice: '118.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.63'
-  15 Days:
+  15 天:
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.93'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -170,91 +165,91 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.80'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '20.99'
     oldPrice: '31.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.40'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '42.99'
     oldPrice: '64.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.87'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '5.99'
     oldPrice: '8.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '12.99'
     oldPrice: '19.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '4.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.33'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-orange-500
     daily: '1.33'
     tagIcon: star
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -262,566 +257,342 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.57'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '18.99'
     oldPrice: '28.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.71'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '23.99'
     oldPrice: '35.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.43'
 discount_banner:
-  title: Special Discount!
+  title: 瑞典 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 瑞典 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Sweden, including major cities
-        like Stockholm, Gothenburg, Malmö, and Uppsala. Our Sweden eSIM seamlessly
-        connects to the robust networks of Telia, Telenor, and Tele2, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個瑞典享受廣泛的網路覆蓋，包括斯德哥爾摩、哥德堡、馬爾默、烏普薩拉等城市。我們的瑞典 eSIM 無縫連接到 Telia、Telenor、Tele2
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Telia
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Telenor
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Tele2
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 瑞典 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Sweden.
+    html: 建議抵達 瑞典 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 瑞典 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 瑞典 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 瑞典 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 瑞典 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 瑞典」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Sweden'
-    desc: Upon arriving in Sweden, enable your Sweden eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 瑞典 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Telia / Telenor 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 瑞典：立即連上 5G/4G 網路
+    desc: 當您降落在 瑞典（例如 斯德哥爾摩阿蘭達機場、哥德堡蘭德維特機場、馬爾默機場）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定
+      → 行動服務** 並開啟您的 Roami eSIM 瑞典。幾秒鐘內，您的設備將自動連接到 Telia / Telenor 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備
+      – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Sweden eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Sweden eSIM across different
-    travel scenarios.
+  title: 瑞典 eSIM：完整指南和常見問題
+  desc: 使用 瑞典 eSIM 在 瑞典 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 瑞典 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Sweden eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Sweden eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Sweden eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Sweden and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Sweden eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Sweden eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Sweden that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Sweden eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Sweden eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Sweden eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Sweden eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Sweden,
-        such as Telia, Telenor, Tele2, to ensure premium speeds at a fraction of roaming
-        costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, Ubigi, Airalo,
-        GigSky?
-      a: While great companies like Holafly, Ubigi, Airalo, GigSky offer reliable
-        services, we focus on providing the most cost-effective Sweden eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 我在斯德哥爾摩老城區使用Telia網路時，網速通常如何？可以順暢進行視訊通話嗎？
+      a: 在斯德哥爾摩老城區（Gamla Stan）的Telia網路，通常下載速度在30-50 Mbps之間，足以無縫進行高畫質視訊通話。但由於老城區建築密集，靠近皇宮或大廣場（Stortorget）時可能因用戶集中而略有降速，建議避開尖峰時段（午後至傍晚）使用。若需要更穩定的連線，可切換至Telenor網路，其覆蓋在該區域同樣良好，但延遲稍高。
+    - q: 在哥德堡的裡瑟本主題樂園附近，Tele2的訊號強度如何？可以看串流影音嗎？
+      a: 在哥德堡的裡瑟本（Liseberg）主題樂園區域，Tele2提供穩定的4G/5G覆蓋，典型下載速率為20-40 Mbps，足以觀看HD串流影音。然而，在樂園舉辦大型活動（如夏季音樂節）時，網速可能降至10
+        Mbps以下，建議提前下載內容。樂園內的餐飲區和排隊動線通常訊號較佳，但部分陰影區域如室內遊樂設施內可能會有短暫斷訊。
+    - q: 我在馬爾默火車站需要連線，但我的eSIM無法註冊到Telia網路，該如何手動選擇運營商？
+      a: |-
+        若你的eSIM在馬爾默火車站（Malmö Centralstation）無法自動註冊至Telia，可手動選擇運營商。在iPhone上，前往「設定」>「行動服務」>「網路選擇」關閉自動選擇，然後從列表中選取「Telenor SE」或「Tele2 SE」。建議優先嘗試Telenor，因為其在車站地下層的覆蓋較強。若仍無法連線，可重啟手機後等待2分鐘重新搜尋。馬爾默火車站的免費WiFi也可作為備用，但需簡訊驗證。
+    - q: 在斯德哥爾摩地鐵上網速穩定嗎？從T-Centralen到Slussen這段會斷訊嗎？
+      a: 斯德哥爾摩地鐵全線均有4G/5G覆蓋，但在T-Centralen到Slussen之間的部分隧道區段可能因彎道和深度導致短暫降速（約5-10秒）。Telia在該區段表現最佳，平均速度25-40
+        Mbps，可順暢瀏覽網頁和傳送訊息，但視訊通話可能出現瞬斷。建議使用通訊軟體的語音通話功能，並避開上午8-9點和下午5-6點的擁擠時段。前往藍線的Kungsträdgården站方向，覆蓋更穩定。
+    - q: 我在瑞典使用eSIM，每天使用量較大，Telenor的公平使用政策具體為何？會降速嗎？
+      a: Telenor的公平使用政策通常適用於大量數據用戶，一般超過20GB/天（具體以eSIM方案為準）後，速度可能從5G降至3G/4G，但不會完全斷網。在斯德哥爾摩市中心，降速後仍可維持約2-5
+        Mbps，足以使用社交媒體和導航。對於一般觀光客，每日使用量低於10GB幾乎不受影響，但若觀看大量串流影片或進行長時間視訊通話，建議選擇Telia或Tele2的方案，其政策較寬鬆。
+    - q: 我需要在瑞典與台灣之間進行長途通話，使用eSIM搭配VoIP服務（如Skype）順暢嗎？
+      a: 在瑞典使用eSIM搭配VoIP服務撥打台灣，在Telia或Telenor的5G/4G網路下通話品質良好，延遲通常低於100ms。建議在斯德哥爾摩、哥德堡等大城進行通話，並選擇WiFi輔助（如有）以確保穩定。郊區如瑞典北部的基律納（Kiruna）可能因基站距離較遠而偶有回音，可切換至Tele2網路改善。避免在移動車輛（如巴士）中通話，因基地台切換可能導致斷線。
+    - q: 我在烏普薩拉大學城，Telai的訊號在歷史建築（如大教堂）內表現如何？
+      a: 烏普薩拉大教堂（Uppsala domkyrka）內部因厚重石牆阻隔，Telia的訊號可能弱至僅1-2格，下載速度降至5-10 Mbps。但教堂外廣場和主要街道（如Dragarbrunnsgatan）訊號恢復，速度約30-50
+        Mbps。建議進入教堂前先下載離線地圖或資訊，教堂內提供免費WiFi（需註冊）。若需穩定連線，可移動至烏普薩拉大學圖書館（Carolina Rediviva）附近，該處有小型基地台，訊號滿格。
+    - q: 我預計自駕從斯德哥爾摩到哥德堡，沿E20高速公路的網路覆蓋如何？會長時間無訊號嗎？
+      a: 沿E20高速公路從斯德哥爾摩到哥德堡，網路覆蓋普遍良好，Telia、Telenor和Tele2均有連續4G覆蓋。然而，經過林雪平（Linköping）與斯卡拉（Skara）之間的部分森林區段，可能出現1-2分鐘的弱訊號（速度低於5
+        Mbps），但不至於完全斷線。建議使用Google離線地圖預防，並在停靠休息站時，如Vårgårda服務區，享受免費WiFi。全程平均速度維持在20-40
+        Mbps，適合串流音樂和導航。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 瑞典 機場：如何使用 瑞典 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Sweden eSIM before your flight. Once you land at Stockholm Arlanda
-        Airport, Gothenburg Landvetter Airport, Malmö Airport, simply turn off Airplane
-        Mode and enable your eSIM line. It will connect to the local 4G/5G network
-        within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Sweden eSIM activated upon landing, you can immediately open SL
-        (Stockholm Public Transport), Västtrafik, Uber to book a ride or use WhatsApp
-        to message your pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Sweden eSIM data allows you to open Google Maps right at
-        the baggage claim in Stockholm Arlanda Airport, Gothenburg Landvetter Airport,
-        Malmö Airport to check real-time train schedules, bus routes, or walking directions
-        to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Sweden eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Sweden eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Sweden eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 在斯德哥爾摩阿蘭達機場如何啟用我的eSIM？有推薦的設定步驟嗎？
+      a: 在斯德哥爾摩阿蘭達機場（ARN）抵達後，建議先連線機場免費WiFi（「Arlanda Airport WiFi」）。打開eSIM設定，掃描購買時收到的QR碼或手動輸入啟用碼，即可完成安裝。啟用後，選擇Telia網路以獲得最佳覆蓋，通常5分鐘內生效。若遇到問題，可至機場內的Telia商店（位於第5航廈）請求協助，或聯繫客服。
+    - q: 哥德堡蘭德維特機場的網路覆蓋好嗎？我可以在到達大廳就開始使用eSIM嗎？
+      a: 哥德堡蘭德維特機場（GOT）的網路覆蓋良好，Telenor和Tele2訊號強勁，通常在入境後30秒內自動連線。到達大廳、行李轉盤區及接機大廳均有穩定的4G/5G訊號，速度可達50
+        Mbps以上，適合即時導航或打車。機場也提供免費WiFi（「Goteborg City Airport WiFi」），但需簡訊驗證，建議優先使用eSIM。
+    - q: 我在馬爾默機場下機後，eSIM一直顯示「無服務」，該如何解決？
+      a: 若在馬爾默機場（MMX）遭遇「無服務」，首先檢查手機的行動數據漫遊是否開啟。若已開啟，嘗試手動搜尋網路，選取「Tele2 SE」或「Telenor
+        SE」，因為馬爾默機場由Tele2塔台主導覆蓋。若仍無訊號，可重啟手機並等待2分鐘，或移動至航廈二樓的咖啡廳區域，該處基地台較近。機場WiFi名為「Malmo
+        Airport」，連線後可聯繫eSIM客服。
+    - q: 從斯德哥爾摩阿蘭達機場前往市區時，網速是否足夠使用Google Maps導航？
+      a: 從阿蘭達機場搭乘Arlanda Express或巴士前往斯德哥爾摩市區期間，網路覆蓋連續，Telia 4G速度約20-30 Mbps，足以順暢使用Google
+        Maps即時導航。若搭巴士，經過Märsta區域時訊號可能短暫下降至10 Mbps，但不影響導航。建議事先下載離線地圖，以備隧道區段（如Solna）的微秒斷訊。
+    - q: 我在阿蘭達機場轉機，只有2小時，eSIM的啟動時間長嗎？會不會浪費時間？
+      a: eSIM啟動非常快速，購買後立即收到QR碼，只需1-2分鐘掃描並依照提示完成設定。在阿蘭達機場轉機，建議利用等候時間連線機場WiFi進行啟動，確保抵達瑞典境內後即可使用。若掃描後未立即生效，等待5分鐘即可，通常無需額外設定。全程最慢只需5分鐘，絕不影響轉機行程。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 瑞典 eSIM 用於 瑞典 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Sweden eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Sweden, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like SL (Stockholm Public Transport), Västtrafik, Uber use VoIP (internet
-        calling) and in-app messaging. Since you have active Sweden eSIM data, drivers
-        can call or message you directly through the app without needing a local phone
-        number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Sweden eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Sweden eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Sweden.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Sweden eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Sweden eSIM's data network while on
-        the train or in the car.
+    - q: 在斯德哥爾摩使用SL交通App需要網路連線，請問地鐵站內的訊號足以載入車票嗎？
+      a: 斯德哥爾摩地鐵站內訊號普遍良好，Telia、Telenor和Tele2均提供4G/5G覆蓋，足以載入SL App購買車票。但部分較深車站如Kungsträdgården或T-Centralen藍線月台，因隧道深度可能速度降至10-15
+        Mbps，建議提前在進站前購買或下載車票。若擔心訊號弱，可用App內的「儲存票證」功能離線使用。
+    - q: 在哥德堡搭公車前往里瑟本樂園時，使用Västtrafik App查詢班次，會因斷訊而延誤嗎？
+      a: 哥德堡公車路線沿途均有Telenor和Tele2覆蓋，Västtrafik App可順暢查詢即時到站資訊。從市中心（如Brunnsparken）到里瑟本（Liseberg）約10分鐘車程，訊號穩定在20-30
+        Mbps，不會因斷訊延誤。但在經過老城區窄巷時可能短暫降速，建議提前載入路線圖。公車內也提供免費WiFi（「Västtrafik Wifi」）備用。
+    - q: 我從斯德哥爾摩搭SJ火車到馬爾默，車上網路穩定嗎？可以使用Zoom會議嗎？
+      a: SJ火車提供車內免費WiFi（「SJ WiFi」），但速度較慢（約5 Mbps），且沿線部分如南曼蘭省（Södermanland）郊區可能斷斷續續。建議使用eSIM的Telia或Telenor網路，在東約特蘭（Östergötland）附近可達20-30
+        Mbps，足以進行語音通話，但視訊會議仍建議在斯德哥爾摩到林雪平段進行，因該區段5G覆蓋較佳。全程約5小時，避開隧道區如Hallandsås可獲得更穩定連線。
+    - q: 在瑞典自駕需要eSIM導航，請問鄉村道路網路覆蓋如何？會遇到無服務區域嗎？
+      a: 瑞典鄉村道路如E4或E6高速公路覆蓋良好，但深入斯莫蘭（Småland）森林或達拉納（Dalarna）山區時，可能間歇性出現無服務區，通常不超過10分鐘。Telia在偏遠地區覆蓋最佳，但速度可能降至10
+        Mbps以下。建議使用Google離線地圖下載區域，並避免在夜間行駛未知小路。加油站通常有免費WiFi（如Circle K）可供離線規劃。
+    - q: 我在斯德哥爾摩叫Uber，司機和我聯絡時需要網路，請問熱門叫車點如中央車站訊號穩定嗎？
+      a: 斯德哥爾摩中央車站（T-Centralen）地面層訊號穩定，Telenor 4G速度約30 Mbps，足以即時通訊和定位。但在地下計程車等候區，因建築結構可能訊號較弱（5-10
+        Mbps），建議透過App內訊息聯絡司機而非撥號。Uber應用程式在弱訊下仍可傳送文字，但地圖更新可能延遲，建議從車站北口（Vasagatan）上車以避開地下弱區。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 瑞典 的飯店使用 瑞典 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Sweden eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Sweden eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Grand Hôtel Stockholm, Elite Hotels, Scandic Hotels
-        or a local guesthouse, you can input the address into Google Maps and get
-        turn-by-turn walking or transit directions using your Sweden eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Sweden eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Sweden eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Foodora, Wolt, Uber Eats and use your
-        Sweden eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Sweden eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 斯德哥爾摩大飯店（Grand Hôtel）的免費WiFi速度如何？還需要eSIM嗎？
+      a: 斯德哥爾摩大飯店提供免費WiFi，下載速度約15-25 Mbps，但尖峰時段（晚間8-11點）可能降至10 Mbps。對於高流量活動如視訊串流，建議搭配eSIM使用，尤其Telia網路在飯店所在的水濱區（Blasieholmen）可達40-50
+        Mbps。飯店WiFi適合一般瀏覽，房間內訊號穩定，但公共區域如大廳常擁擠。
+    - q: 哥德堡斯堪迪克歐羅巴飯店的網路覆蓋好嗎？會議室內訊號如何？
+      a: 哥德堡斯堪迪克歐羅巴飯店的WiFi覆蓋全面，會議室區域專用AP確保速度20 Mbps以上。但飯店內Telenor 5G訊號強勁，穿透力佳，若需穩定連線可切換至eSIM。飯店位於中央車站旁，外部基地台充足，整體體驗良好。建議商務旅客啟用eSIM作為備用，以防WiFi中斷。
+    - q: 馬爾默埃爾蘭飯店（Elite Hotel）的房間內，Telia 4G訊號是否足夠串流Netflix？
+      a: 埃爾蘭飯店位於馬爾默市中心，房間內Telia 4G下載速度約25-35 Mbps，足以無緩衝播放1080p Netflix。部分低樓層房間可能因建築結構降速至15
+        Mbps，但HD串流仍順暢。飯店提供免費WiFi，速度相近，建議若觀看4K內容則使用eSIM以避免WiFi延遲。
+    - q: 我住在林雪平的一家民宿，老闆說WiFi不穩，請問用eSIM看YouTube順暢嗎？
+      a: 林雪平（Linköping）市區的Telia 4G速度約20-30 Mbps，足以觀看HD YouTube。但民宿若位於郊區如Gärstad，訊號可能降至10
+        Mbps，建議選擇Telenor網路以獲取更佳郊區覆蓋。避開晚間7-10點用戶尖峰，可順暢觀看。民宿通常無訊號死角，但高樓層訊號更佳。
+    - q: 我在斯德哥爾摩的飯店使用eSIM進行視訊會議，需要推薦一個網路穩定的區域名，例如哪家飯店？
+      a: 斯德哥爾摩市中心如Norrmalm區的飯店（例如Scandic Continental）網路最穩定，因基站密集，Telia 5G速度可達80-100
+        Mbps。使用eSIM時，選擇Telenor或Tele2同樣可靠。建議選擇靠近Sergels Torg廣場的住宿，該處電信塔集中。若飯店提供WiFi
+        6路由器，可優先使用，但eSIM可作為無縫備援。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 瑞典 旅遊景點的網路：瑞典 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Vasa Museum, Gamla Stan (Old Town), Ice Hotel spontaneously,
-        you can use your Sweden eSIM data to buy skip-the-line tickets online and
-        present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Sweden eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Sweden.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Sweden eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Sweden eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Sweden eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Sweden eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Sweden eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Sweden eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Sweden eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Sweden eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Foodora, Wolt, Uber Eats, register using
-        your email or social accounts, and order food seamlessly using your Sweden
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Swish,
-        Klarna, MobilePay require a brief internet handshake, which your Sweden eSIM
-        handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Sweden eSIM to find hidden culinary gems in the city.
+    - q: 在斯德哥爾摩參觀瓦薩博物館時，館內可以拍照上傳社群嗎？網路速度如何？
+      a: 瓦薩博物館（Vasa Museum）內有免費WiFi（「Vasa Museum WiFi」），但速度約5-10 Mbps，適合傳輸照片。使用eSIM的Telia網路在館內大部分區域速度約15-25
+        Mbps，可順利上傳至Instagram或Facebook。展廳深處如船尾附近因金屬結構可能訊號較弱（5 Mbps），但移動至入口大廳即可恢復。建議將照片壓縮後上傳以節省時間。
+    - q: 哥德堡的里瑟本主題樂園內，使用eSIM查詢排隊時間和地圖順暢嗎？
+      a: 里瑟本樂園的Telenor和Tele2覆蓋良好，排隊區下載速度約20-30 Mbps，可即時更新樂園App的排隊時間。但部分遊樂設施如Balder的室內區域可能降速至5-10
+        Mbps，建議提前在室外載入地圖。樂園內的免費WiFi（「Liseberg WiFi」）較慢，eSIM是更佳選擇。樂園面積不大，所有區域均有基本覆蓋。
+    - q: 前往斯德哥爾摩王宮參觀，eSIM在宮殿內的訊號夠強嗎？可以直播嗎？
+      a: 斯德哥爾摩王宮（Stockholm Palace）內部因石牆構築，Telia訊號在主要展廳（如皇家公寓）速度約10-15 Mbps，足以進行Facebook直播的低畫質設定。但建議使用外庭廣場的穩定訊號（30-50
+        Mbps）進行直播，避免室內斷續。進入地宮（Tre Kronor博物館）時訊號幾乎消失，可以離線使用導覽App。王宮的免費WiFi僅限部分區域，eSIM更具彈性。
+    - q: 我在哥德堡搭乘Paddan運河遊船，途中網路訊號穩定嗎？能即時分享照片嗎？
+      a: Paddan運河遊船路線經過哥德堡市中心，Telenor覆蓋連續，速度約15-25 Mbps，可即時上傳照片。但經過某些橋樑下方時可能短暫斷訊數秒，不影響整體使用。建議在開闊水道如運河彎道處分享影片。遊船上的語音導覽系統需自備耳機，網路輔助可查詢額外資訊。
+    - q: 前往斯德哥爾摩攝影博物館（Fotografiska），館內網路適合濾鏡編輯和上傳嗎？
+      a: Fotografiska博物館位於濱水區，Telia 4G速度約20-30 Mbps，足以使用Snapseed或Lightroom編輯並上傳。但館內部分展區如暗房展間可能因金屬裝潢導致速度降至10
+        Mbps，建議在咖啡廳區域處理照片。博物館提供免費WiFi，但需同意的情況下速度低於eSIM。整體體驗良好，沒有斷訊問題。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 瑞典 eSIM 在 瑞典 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Sweden eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Sweden eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Sweden eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Sweden
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Sweden eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Sweden eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Sweden eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在斯德哥爾摩使用TikTok上傳影片時，Telia網路的上傳速度夠快嗎？
+      a: 斯德哥爾摩市區Telia網路的上傳速度通常為10-20 Mbps，足以在30秒內上傳15秒的TikTok影片。若在上傳高峰期（晚上8-10點），速度可能降至5-10
+        Mbps，建議在咖啡廳或景點使用WiFi輔助。郊區如Djurgården島上傳較慢，但仍在可接受範圍。
+    - q: 在瑞典使用Instagram限時動態打卡，標記地點時需要網路，請問斯德哥爾摩地鐵站打卡順暢嗎？
+      a: 斯德哥爾摩地鐵站內如T-Centralen，Telenor 4G訊號足夠載入Instagram地點選單，通常3秒內顯示。但月台深處可能因基地台訊號衰減導致載入延遲，建議在進站前先輸入地點標記。打卡後上傳照片順暢，速度約15
+        Mbps，無明顯延遲。
+    - q: 我想在Facebook上直播哥德堡魚教堂（Feskekôrka）的現場，網路穩定嗎？
+      a: 哥德堡魚教堂（Feskekôrka）位於海港邊，Tele2 4G上傳速度約8-15 Mbps，適合直播720p畫質。但室內市場人群擁擠時可能干擾訊號，建議選擇室外靠運河側進行直播，可獲得穩定連線。直播過程偶有畫質降低，但不會斷線。
+    - q: 在馬爾默的Turning Torso大樓附近打卡，使用Telia網路分享照片快嗎？
+      a: 馬爾默Turning Torso大樓周圍是開放區域，Telia下載速度約30-50 Mbps，上傳10-20 Mbps，分享多張照片（每張2MB）不到1分鐘。但大樓本身鋼構可能造成干擾，建議在距離50公尺外的廣場進行。整體體驗極佳，適合即時社群更新。
+    - q: 在瑞典使用WhatsApp視訊通話與家人聯繫，請問在斯德哥爾摩動物園島（Djurgården）的網路夠穩嗎？
+      a: 斯德哥爾摩動物園島（Djurgården）的Telenor 4G速度約15-25 Mbps，視訊通話順暢，僅在經過北歐博物館（Nordiska museet）大樓時可能短暫模糊。建議在戶外如Skansen附近通話，避免博物館內部的訊號衰減。通話品質良好，無明顯延遲或斷線。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 瑞典 使用 瑞典 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Sweden, you can dial local emergency numbers like 112, 114 14 (non-emergency
-        police), 1177 (healthcare) directly from your phone's dialer regardless of
-        your active SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Sweden eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Sweden eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Sweden eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Sweden eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Sweden eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Sweden eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Sweden eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Sweden eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Sweden eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Sweden eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Sweden eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Sweden eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在瑞典遇到緊急狀況時，如何透過eSIM撥打112？需要額外設定嗎？
+      a: 瑞典的緊急號碼112可直接透過eSIM撥打，無需解鎖或額外設定，即使沒有SIM卡或餘額也能接通。撥打後，接線員會詢問你的位置，建議提供附近的明顯地標。使用eSIM時，確保手機有電並處於開機狀態，緊急服務會優先使用任何可用網路。
+    - q: 我在斯德哥爾摩郊區健行時迷路，手機僅剩微弱訊號，如何提高通話成功率？
+      a: 若在郊區（如Tyresta國家公園）訊號微弱，可嘗試移動到高處或開闊地帶，通常可增加1-2格訊號。撥打112時，先傳送簡訊至112（瑞典支援簡訊求救），文字描述位置，如「Tyresta
+        National Park, near the lake」。若通話失敗，重撥或使用SOS功能（iPhone的緊急SOS滑桿）可自動重試。
+    - q: 在瑞典租車自駕發生小事故，需要聯絡警察時，eSIM可以打非緊急電話11414嗎？
+      a: 瑞典的非緊急警察電話11414可以透過eSIM正常撥打，無需特殊設定。這支號碼用於非即時性事件，如車禍報案或遺失物品。撥打時需提供你的位置和事故描述，建議停靠安全路肩並打開雙黃燈。eSIM的語音通話品質在高速公路沿線良好，可順暢通話。
+    - q: 我在哥德堡生病需要叫救護車，但英文溝通不流利，可以發送簡訊到112嗎？
+      a: 是的，瑞典112支援簡訊求救，你可以在手機上輸入文字描述情況，例如「Need ambulance at [地點]，I am sick」。簡訊會自動附帶你的GPS位置資訊。但請注意，簡訊功能需手機支援，且回覆可能稍慢。建議同時嘗試撥號，接線員通常能轉接翻譯服務。
+    - q: 在瑞典山區（如Abisko）發生意外，eSIM收不到訊號時，還有其他求救方式嗎？
+      a: 在瑞典偏遠山區，eSIM可能無服務，此時可使用衛星求救功能，如iPhone 14以上機型的衛星SOS（需連接到Globalstar衛星）。若無此功能，可尋找最近的緊急電話柱（通常標示「112」）。在Abisko國家公園，主要步道每隔5公里設有求救箱。行前應下載離線地圖並告知他人行程。
+    - q: 我的eSIM在瑞典無法註冊到任何網路，但需要緊急連絡台灣家人，該怎麼辦？
+      a: 若eSIM完全無服務，可先嘗試手動搜尋網路並選取任何可用的瑞典運營商（如Telia、Telenor、Tele2）。若仍失敗，可使用公共電話或飯店電話撥打國際長途。瑞典公共電話一般支援信用卡，或向飯店櫃檯求助。也可前往電信商店（如Telia門市），其WiFi可提供網絡電話（如Skype）用於緊急聯絡。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 瑞典 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Sweden eSIM or SIM Card for Tourists: Which Should You Choose?"
-  subtitle: "Sweden Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Sweden) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Sweden"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Sweden eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Telia requires in-store queue for paper form submission (30+ minutes), Telenor needs passport upload and foreign home address verification. Comviq can be activated online via selfie and passport recognition."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Telia's 30-minute in-store queue and Telenor's passport upload hassle. Activate your Sweden eSIM online within 2 minutes before landing."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Comviq requires passport registration at Pressbyrån or 7-Eleven stores, or online via selfie and passport verification. Telenor requires passport upload and foreign home address. Telia's store staff often lack experience registering foreigners without Swedish personal number, requiring a call to headquarters and paper form submission (30+ minutes)."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid Comviq's passport registration at Pressbyrån or Telia's complex paper form. Roami eSIM requires zero identity verification."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Comviq's 40GB plan (295 SEK) allows only 12GB in the EU (70% reduction); its 100GB plan (345 SEK) allows only 18GB in the EU. Telia and Telenor exclude the UK from free roaming. Lyca Mobile's 40GB plan allows only 17.05GB in the EU."
-      esim_title: "Full EU Roaming Included"
-      esim_desc: "Unlike Comviq's 40GB plan that shrinks to 12GB in the EU (70% loss), Roami eSIM offers consistent data across Sweden and EU without FUP cuts."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Mainstream plans are 30 or 31-day cycles (e.g., Telenor Fastpris 149 SEK/5GB, Telia 199 SEK/3GB). A 7-day tourist buying Telenor's 149 SEK/5GB plan wastes over 75% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Telenor's 31-day cycle (149 SEK/5GB) that wastes 75% for a 7-day trip, Roami offers 7-day plans starting from $1.99/GB, saving money and avoiding auto-renewal."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Comviq's Boost 'unlimited' plans explicitly prohibit tethering. Other operators generally allow tethering but may have speed caps."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Comviq's Boost plans ban tethering entirely. Roami eSIM allows full-speed hotspot sharing on all plans."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Comviq's online top-up often blocks non-Swedish credit cards with 'Nekad av Defender' error. Users may need VPN with Swedish IP or European virtual cards (Wise, N26) to succeed."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Avoid Comviq's 'Nekad av Defender' error for non-Swedish cards. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is typically in Swedish, with limited English availability during business hours."
-      esim_title: "24/7 English Support"
-      esim_desc: "Unlike local operators with limited Swedish-only support, Roami provides 24/7 customer service in English via chat and email."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Sweden eSIM vs Prepaid SIM: Which One Is Right for You?"
-    cards:
-      - icon: "shield"
-        icon_bg: "bg-orange-100"
-        icon_color: "text-orange-600"
-        title: "Keep Your Home SIM Active"
-        desc: "Using a local SIM forces you to remove your home SIM, risking loss of bank SMS and 2FA codes. Roami eSIM works with dual SIM, keeping your home number active for security."
-      - icon: "clock"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "Instant Activation, No Queues"
-        desc: "Telia's store activation takes <b>30+ minutes</b> with paper forms. Telenor requires passport upload and waiting for verification. Roami eSIM activates in <b>2 minutes</b> online before departure."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Smooth Payment Without Defender Blocks"
-        desc: "Comviq's online top-up often blocks non-Swedish cards with <b>'Nekad av Defender'</b> error. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal globally."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from 30-Day Plans"
-        desc: "Telenor's Fastpris 149 SEK/5GB and Telia's 199 SEK/3GB are <b>31-day</b> cycles. A 7-day tourist wastes over <b>75%</b> of the plan. Roami offers 7-day plans from <b>$1.99/GB</b>, perfectly matching short trips."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

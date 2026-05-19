@@ -1,86 +1,82 @@
 ---
-title: UAE eSIM Data Plan | Best 2026 Travel eSIM | Roami
+title: 阿聯 eSIM 數據方案 | 2026 最佳旅遊 eSIM | Roami
 date: '2026-03-29T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: UAE eSIM
-  scenario_keywords: Dubai sightseeing, desert safari, Abu Dhabi cultural tour, Sharjah
-    heritage walk, Dubai shopping
-  operators: Etisalat, du, Virgin Mobile
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Dubai, Abu Dhabi, Sharjah, Ajman, Ras Al Khaimah
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 阿聯 eSIM
+  scenario_keywords: 杜拜觀光, 沙漠探險, 阿布達比文化之旅, 沙迦文化漫步, 杜拜購物
+  operators: Etisalat、du、Virgin Mobile
+  competitors: Airalo、Holafly、Nomad、Ubigi、Yesim
+  main_cities: 杜拜、阿布達比、沙迦、阿治曼、拉斯海瑪
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  title: 服務已升級！
+  btn_text: 繼續
+  text_default: |
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶可享 20% 折扣，優惠代碼：web20
+  text_android: |
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶可享 20% 折扣，優惠代碼：web20
 seo:
-  title: UAE eSIM Plan | Top Local Carrier Always-On 5G | 20% OFF|Roami
-  description: Explore UAE with ease. Get Roami's Always-On 5G on Top Local Carrier
-    with High-Speed Data. Features Auto Network Switch and Unlimited Data, great for
-    Digital Nomads.
-  keywords: UAE eSIM, cheap eSIM UAE, travel internet UAE, no roaming charges, instant
-    eSIM, UAE data plan
+  title: 阿聯 eSIM 方案 | 頂級本地電信商常駐 5G | 20% 折扣 | Roami
+  description: 輕鬆暢遊阿聯。取得 Roami 常駐 5G 高速數據，連接頂級本地電信商。具備自動網路切換與無限數據，非常適合數位遊牧者。
+  keywords: 阿聯 eSIM, 便宜阿聯 eSIM, 阿聯旅遊網路, 免漫遊費, 即時 eSIM, 阿聯數據方案
   low_price: 1.99
   high_price: 39.9
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 已選方案
+  label_data: 包含數據
+  label_validity: 有效期
+  label_daily: 每日平均
+  label_total: 總價
+  btn_primary: 領取 20% 折扣
+  btn_secondary: '代碼：web20'
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: UAE eSIM
+- label: 阿聯 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for UAE
-  title: Best eSIM for UAE
+  alt: 最佳阿聯 eSIM
+  title: 最佳阿聯 eSIM
 hero:
   flag_image: img/flags/ae.svg
-  flag_alt: UAE Flag
-  title: Uae eSIM data plan
-  subtitle: No ID required | Worry-free internet | 20% discount for a limited time
+  flag_alt: 阿聯國旗
+  title: 阿聯 eSIM 數據方案
+  subtitle: 免身分證｜網路無憂｜限時 20% 折扣
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼旅行者選擇 Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內送達
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時為您服務
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 無法使用？
+    desc: 退款保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 支援熱點
+    desc: 與其他裝置分享
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時免費取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動切換
+    desc: 連接頂級電信商
+plans_title: 選擇你的方案
 plans_data:
-  3 Days:
+  3 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -88,41 +84,41 @@ plans_data:
     daily: '2.00'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 非常適合深度旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 超值
     tagColor: bg-emerald-500
     daily: '3.66'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+  - spec: 無限
+    data: 無限高速
+    desc: 無憂使用數據
     price: '19.99'
     oldPrice: '29.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '6.66'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 非常適合深度旅行
     price: '16.99'
     oldPrice: '25.48'
-    tag: Great Value
+    tag: 超值
     tagColor: bg-emerald-500
     daily: '5.66'
-  7 Days:
+  7 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -130,49 +126,49 @@ plans_data:
     daily: '1.00'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 非常適合深度旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 超值
     tagColor: bg-emerald-500
     daily: '1.57'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 非常適合深度旅行
     price: '17.99'
     oldPrice: '26.98'
-    tag: Great Value
+    tag: 超值
     tagColor: bg-emerald-500
     daily: '2.57'
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.57'
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+  - spec: 無限
+    data: 無限高速
+    desc: 無憂使用數據
     price: '45.99'
     oldPrice: '68.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '6.57'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合你的旅行
     price: '34.99'
     oldPrice: '52.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '5.00'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
@@ -180,41 +176,41 @@ plans_data:
     daily: '0.53'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 非常適合深度旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 超值
     tagColor: bg-emerald-500
     daily: '0.73'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 非常適合深度旅行
     price: '18.99'
     oldPrice: '28.48'
-    tag: Great Value
+    tag: 超值
     tagColor: bg-emerald-500
     daily: '1.27'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合你的旅行
     price: '31.99'
     oldPrice: '47.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.13'
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+  - spec: 無限
+    data: 無限高速
+    desc: 無憂使用數據
     price: '99.99'
     oldPrice: '149.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '6.67'
-  30 Days:
+  30 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光
     price: '8.99'
     oldPrice: '13.48'
     tag: ''
@@ -222,495 +218,372 @@ plans_data:
     daily: '0.30'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 非常適合深度旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 超值
     tagColor: bg-emerald-500
     daily: '0.40'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 非常適合深度旅行
     price: '19.99'
     oldPrice: '29.98'
-    tag: Great Value
+    tag: 超值
     tagColor: bg-emerald-500
     daily: '0.67'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合你的旅行
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.97'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合你的旅行
     price: '52.99'
     oldPrice: '79.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.77'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合你的旅行
     price: '32.99'
     oldPrice: '49.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.10'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合你的旅行
     price: '75.99'
     oldPrice: '113.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.53'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+  title: 特別折扣！
+  desc_html: |
+    結帳時使用優惠代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享整筆訂單 <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 領取折扣
+  validity: '有效期：3 天'
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: '支援：'
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across UAE, including major cities
-        like Dubai, Abu Dhabi, Sharjah, and Ajman. Our UAE eSIM seamlessly connects
-        to the robust networks of Etisalat, du, and Virgin Mobile, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在阿聯全境享受全面的網路覆蓋，包括杜拜、阿布達比、沙迦、阿治曼等主要城市。我們的阿聯 eSIM 無縫連接 Etisalat、du 和 Virgin Mobile 的強大網路，確保在市中心、旅遊熱點和主要交通幹道上的穩定訊號。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 無熱點限制或約束。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 電信商網路
+    badge: 官方合作夥伴
     items:
     - name: Etisalat
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: du
-      coverage: Reliability
-      network: 5G/4G/LTE Network
+      coverage: 高可靠性
+      network: 5G/4G/LTE 網路
     - name: Virgin Mobile
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 原生 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 重要提醒
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: |
+      購買前請確認您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">相容 eSIM</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in UAE.
+    html: 建議您抵達阿聯後再開啟此線路。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到支援的網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: '不確定您的手機是否支援 eSIM？您現在就可以輕鬆自行檢查：'
+    instruction: '在手機撥號鍵盤上輸入：'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: |
+      如果螢幕上出現 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 編號，表示您的裝置支援 eSIM！
 activation_steps:
-  title: Activation Steps
+  title: 啟用步驟
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: '步驟 1：接收 QR 碼'
+    desc: 付款後，5 分鐘內會將 QR 碼和啟用指南發送到您的電子郵件。如果未收到，請檢查垃圾郵件匣。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: '步驟 2：將 eSIM 加入手機'
     is_list: true
     list_items:
     - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+      前往 設定 > 行動服務（或行動數據）
+    - 點擊「加入行動方案」或「加入 eSIM」
+    - 使用相機掃描 QR 碼
+    - 依照提示完成設定
   - num: '3'
-    title: 'Step 3: Activate in UAE'
-    desc: Upon arriving in UAE, enable your UAE eSIM in settings to start using data.
-      We recommend connecting to WiFi during the initial activation.
+    title: '步驟 3：在阿聯啟用'
+    desc: 抵達阿聯後，在設定中啟用您的阿聯 eSIM 即可開始使用數據。我們建議在初次啟用時連線 Wi-Fi。
     is_list: false
 faq_section:
-  title: UAE eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your UAE eSIM across different travel
-    scenarios.
+  title: 阿聯 eSIM 常見問題與旅遊指南
+  desc: 您需要了解的關於在不同旅行場景中使用阿聯 eSIM 的所有資訊。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 一般
+    title: 1. 一般問題
     questions:
-    - q: Does my phone support the UAE eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your UAE eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the UAE eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in UAE and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the UAE eSIM. It typically needs
-        to be installed within 30 days of purchase. Once installed, it cannot be scanned
-        again or transferred to another device.
-    - q: Can I get a refund if the UAE eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in UAE that our support team cannot resolve, you are eligible for a
-        refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your UAE eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my UAE eSIM data (hotspot) with other devices?
-      a: Absolutely. All our UAE eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your UAE eSIM compared to local SIM cards or other
-        providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in UAE, such
-        as Etisalat, du, Virgin Mobile, to ensure premium speeds at a fraction of
-        roaming costs.
-    - q: How do you compare with well-known eSIM providers like esim io, DENT, Holafly,
-        Airalo?
-      a: While great companies like esim io, DENT, Holafly, Airalo offer reliable
-        services, we focus on providing the most cost-effective UAE eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 我的手機支援阿聯 eSIM 嗎？如何安裝？
+      a: 大多數現代智慧型手機從 iPhone XS/XR 以後、Samsung Galaxy S20+ 以及 Google Pixel 3+ 都支援 eSIM。您只需在手機的「行動服務/行動數據」設定中，掃描我們發送到您電子郵件的 QR 碼，即可輕鬆安裝您的阿聯 eSIM。
+    - q: 如何購買和啟用阿聯 eSIM？購買後會立即生效嗎？
+      a: 您可以直接在我們的網站上購買。購買後不會立即生效；有效期僅在您抵達阿聯且手機連接到當地網路時才開始計算。
+    - q: 什麼是啟用 QR 碼？它會過期嗎？可以重複使用嗎？
+      a: QR 碼是您阿聯 eSIM 的數位 SIM 設定檔。通常需要在購買後 30 天內安裝。一旦安裝完成，就不能再次掃描或轉移到其他裝置。
+    - q: 如果阿聯 eSIM 無法使用或訊號不佳，可以退款嗎？
+      a: 可以，我們提供退款保證。如果您在阿聯遇到持續的網路問題且我們的支援團隊無法解決，您將有資格獲得退款。
+    - q: 你們提供 24/7 客戶支援嗎？如何聯繫你們？
+      a: 是的，我們的技術支援團隊全年無休。您可以透過我們網站上的即時聊天小工具或回覆訂單確認郵件與我們聯繫。
+    - q: 有折扣碼嗎？如何使用 'web20' 優惠碼？
+      a: 有的！您可以在結帳頁面輸入優惠碼 'web20'，即可立即獲得阿聯 eSIM 訂單 20% 的折扣。
+    - q: 你們的「無限數據」方案是真的無限嗎？有公平使用政策（FUP）嗎？
+      a: 我們的無限方案提供持續的數據流量。但是，與所有全球電信商一樣，為了防止濫用網路，有公平使用政策（FUP）。如果您在短時間內消耗極大量的數據，速度可能會暫時降低。即便如此，也不會影響您的網頁瀏覽、社群媒體使用、觀看影片等。
+    - q: 我可以分享我的阿聯 eSIM 數據（熱點）給其他裝置嗎？
+      a: 當然可以。我們所有的阿聯 eSIM 方案都支援行動熱點和網路共享，讓您可以與筆記型電腦、平板電腦或旅伴分享數據。
+    - q: 與當地 SIM 卡或其他供應商相比，你們的阿聯 eSIM 有什麼優勢？
+      a: 與實體 SIM 卡不同，您無需在機場排隊或更換小塑膠卡。我們直接與阿聯的頂級本地網路（如 Etisalat、du、Virgin Mobile）合作，以漫遊成本的一小部分提供優質速度。
+    - q: 你們與知名的 eSIM 供應商（如 esim io、DENT、Holafly、Airalo）相比如何？
+      a: 雖然 esim io、DENT、Holafly、Airalo 等優秀公司提供可靠的服務，但我們專注於提供最具成本效益的阿聯 eSIM，透過我們的自動價格匹配系統確保更低的延遲和更優的價格。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 2. 機場網路
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the UAE eSIM before your flight. Once you land at Dubai International
-        Airport, Abu Dhabi International Airport, Sharjah International Airport, simply
-        turn off Airplane Mode and enable your eSIM line. It will connect to the local
-        4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your UAE eSIM activated upon landing, you can immediately open Careem,
-        Uber, Dubai Taxi to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed UAE eSIM data allows you to open Google Maps right at the
-        baggage claim in Dubai International Airport, Abu Dhabi International Airport,
-        Sharjah International Airport to check real-time train schedules, bus routes,
-        or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our UAE eSIM online beforehand, you completely bypass the tourist-trap
-        SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our UAE eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast UAE eSIM cellular data to let your family know you've arrived safely.
+    - q: 下飛機後如何立即獲得穩定的網路？
+      a: 在飛行前安裝好阿聯 eSIM。一旦您在杜拜國際機場、阿布達比國際機場或沙迦國際機場降落，只需關閉飛航模式並啟用您的 eSIM 線路，它就會在幾秒鐘內連接到當地的 4G/5G 網路。
+    - q: 如何聯繫機場接駁司機或使用 Uber/Careem？
+      a: 抵達後啟用您的阿聯 eSIM，您可以立即打開 Careem、Uber、Dubai Taxi 叫車，或使用 WhatsApp 聯繫您預訂的司機，無需依賴不穩定的機場 Wi-Fi。
+    - q: 如何使用 Google 地圖/Apple 地圖找到交通工具？
+      a: 您的高速阿聯 eSIM 數據可讓您在杜拜國際機場、阿布達比國際機場、沙迦國際機場的行李轉盤處直接打開 Google 地圖，查看即時火車時刻表、巴士路線或前往計程車站的步行路線。
+    - q: 如何避免在機場購買昂貴的臨時 SIM 卡？
+      a: 透過事先在線購買我們的阿聯 eSIM，您完全避開了入境大廳那些專門敲詐觀光客的 SIM 卡攤位，既省時又省錢。
+    - q: 如何在不擁有當地號碼的情況下接收飯店/租車公司的簡訊？
+      a: 我們的阿聯 eSIM 僅提供數據。若要接收簡訊，請保持您本國的主要 SIM 卡啟用以接收文字（漫遊時接收簡訊通常是免費的），並將 eSIM 用於所有數據流量。
+    - q: 如何立即聯繫家人報平安並規劃行程？
+      a: 您一落地，就可以透過我們快速的阿聯 eSIM 行動數據，使用 iMessage、WhatsApp 或 FaceTime 讓家人知道您已安全抵達。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 3. 交通與旅行
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable UAE eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in UAE, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Careem, Uber, Dubai Taxi use VoIP (internet calling) and in-app
-        messaging. Since you have active UAE eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your UAE eSIM data to access local transit apps or websites to
-        purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your UAE eSIM data. A 5GB or 10GB plan provides
-        more than enough data for extensive GPS navigation during a road trip in UAE.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our UAE eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your UAE eSIM's data network while on the
-        train or in the car.
+    - q: 如何使用 Google 地圖/Apple 地圖規劃路線？
+      a: 我們穩定的阿聯 eSIM 連線確保 Google 地圖能夠在阿聯任何地方下載即時交通數據和交通時刻表，讓導航變得無縫。
+    - q: 如何讓 Uber/Careem 司機透過應用程式聯繫您？
+      a: 像 Careem、Uber、Dubai Taxi 這樣的應用程式使用 VoIP（網路電話）和應用程式內訊息。由於您有啟用的阿聯 eSIM 數據，司機可以直接透過應用程式打電話或發訊息給您，無需當地電話號碼。
+    - q: 如何線上購買火車/地鐵票？
+      a: 您可以使用您的阿聯 eSIM 數據訪問當地交通應用程式或網站，隨時購買數位 QR 碼車票，避開售票機的長隊。
+    - q: 租車後如何使用 Google 地圖進行即時導航？
+      a: 只需將手機固定好，使用您的阿聯 eSIM 數據即可。5GB 或 10GB 的方案為阿聯公路旅行中的大量 GPS 導航提供了足夠的數據。
+    - q: 如何掃描並解鎖 Lime/Bird 等共享電動滑板車？
+      a: 解鎖電動滑板車需要快速的網路連線來處理 QR 碼和付款。我們的阿聯 eSIM 為此提供了所需的可靠城市覆蓋。
+    - q: 如何確保叫車應用程式在多個國家正常運作？
+      a: 如果您正在進行區域旅行，您的叫車應用程式帳戶保持不變。只需確保您有有效的網路連線（透過我們的本地或區域 eSIM）即可叫車。
+    - q: 如何為家人的裝置提供穩定的個人熱點？
+      a: 前往手機設定，啟用「個人熱點」，您的家人就可以在火車上或汽車中將他們的手機或 iPad 連接到您阿聯 eSIM 的數據網路。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 飯店
+    title: 4. 飯店與住宿
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your UAE eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your UAE eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Burj Al Arab, Atlantis The Palm, Emirates Palace
-        or a local guesthouse, you can input the address into Google Maps and get
-        turn-by-turn walking or transit directions using your UAE eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your UAE eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed UAE eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Talabat, Zomato, Deliveroo and use your
-        UAE eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your UAE eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 在 Booking.com/Agoda 預訂後如何進行自助入住？
+      a: 許多現代出租房源需要您訪問線上入口網站或查看電子郵件以獲取智慧鎖密碼。您的阿聯 eSIM 確保您可以在門口直接獲取這些詳細資訊。
+    - q: 抵達後如何立即聯繫 Airbnb 房東以獲得指引？
+      a: 您可以使用 Airbnb 應用程式的訊息功能或 WhatsApp，透過您的阿聯 eSIM 行動數據與房東協調抵達時間。
+    - q: 如何使用 Google 地圖導航到飯店？
+      a: 無論您是入住帆船酒店、亞特蘭提斯棕櫚酒店、酋長皇宮飯店還是當地民宿，您都可以將地址輸入 Google 地圖，並使用您的阿聯 eSIM 獲得逐步的步行或公共交通導航。
+    - q: 如何使用飯店 Wi-Fi 和 eSIM 接收簡訊驗證碼？
+      a: 保持您的主要本國 SIM 卡開啟以接收簡訊，並使用飯店 Wi-Fi 或您的阿聯 eSIM 數據來觸發來自銀行或應用程式的驗證碼。
+    - q: 如何快速聯繫 Booking/飯店客服以更改訂單？
+      a: 您可以使用 Skype 等 VoIP 應用程式，或透過 Booking.com 應用程式內的客服聊天功能，使用您的高速阿聯 eSIM 數據。
+    - q: 如何使用當地外送應用程式將食物送到飯店？
+      a: 如果您抵達時間較晚，可以下載 Talabat、Zomato、Deliveroo，並使用您的阿聯 eSIM 數據直接將熱食訂到飯店大廳或房間。
+    - q: 退房後如何保持網路連線以與飯店溝通？
+      a: 一旦您離開飯店的 Wi-Fi 範圍，您的阿聯 eSIM 會自動接管，讓您可以在忘記行李或需要安排稍後取回時發送訊息給飯店。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 5. 景點與娛樂
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Burj Khalifa, Palm Jumeirah, Sheikh Zayed Grand Mosque
-        spontaneously, you can use your UAE eSIM data to buy skip-the-line tickets
-        online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your UAE eSIM, you can read reviews and book local
-        tours or experiences on Tripadvisor while having coffee at a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring UAE.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your UAE eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your UAE eSIM will keep you connected throughout the
-        park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your UAE eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast UAE eSIM upload speeds mean you can post high-quality stories, reels,
-        and photos of your trip in real-time without waiting for hotel Wi-Fi.
+    - q: 如何透過 GetYourGuide/Viator 購買電子票券？
+      a: 如果您臨時決定參觀哈里發塔、棕櫚島、謝赫扎耶德大清真寺，您可以使用阿聯 eSIM 數據線上購買免排隊門票，並在螢幕上出示條碼。
+    - q: 如何立即在 Tripadvisor 上預訂體驗？
+      a: 憑藉阿聯 eSIM 可靠的 4G/5G，您可以在附近的咖啡廳喝咖啡時，閱讀評論並預訂當地的旅遊或體驗。
+    - q: 在參觀期間如何使用 Google/維基百科查詢資訊？
+      a: 在探索阿聯時，立即使用 Google 查詢歷史事實或翻譯博物館說明牌，增強您的文化體驗。
+    - q: 如何使用 Google 地圖導航到下一個景點？
+      a: 只需在 Google 地圖中輸入您的下一個目的地；您的阿聯 eSIM 強大的城市覆蓋將透過最快的步行或公共交通路線為您導航。
+    - q: 如何查詢主題樂園（如迪士尼）的即時排隊時間？
+      a: 主題樂園應用程式需要持續的網路連線才能顯示即時等待時間並預訂快速通行證。您的阿聯 eSIM 將讓您在整個園區內保持連線。
+    - q: 如何透過 Ticketmaster 預訂表演門票？
+      a: 您可以使用您的阿聯 eSIM 行動數據，透過票務應用程式安全地瀏覽並購買最後一刻的劇院或音樂會門票。
+    - q: 如何立即將照片/影片分享到 Instagram/Facebook？
+      a: 我們快速的阿聯 eSIM 上傳速度意味著您可以即時發布您旅行的高品質限時動態、Reels 和照片，無需等待飯店 Wi-Fi。
   - id: faq-dining
     icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
+    tab_title: 餐飲
+    title: 6. 餐飲與餐廳
     questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your UAE eSIM data to search 'restaurants near me' on Google Maps to
-        check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your UAE eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your UAE eSIM ensures you can scan
-        the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your UAE eSIM to process
-        live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Talabat, Zomato, Deliveroo, register using
-        your email or social accounts, and order food seamlessly using your UAE eSIM
-        mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Apple
-        Pay, Google Pay, Nol Card require a brief internet handshake, which your UAE
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your UAE eSIM to find hidden culinary gems in the city.
+    - q: 如何使用 Google 地圖/Tripadvisor 尋找餐廳？
+      a: 使用您的阿聯 eSIM 數據在 Google 地圖上搜尋「附近的餐廳」，在進店前查看評分、營業時間和菜單照片。
+    - q: 如何透過 OpenTable 或餐廳網站訂位？
+      a: 當您在外觀光時，可以使用您的阿聯 eSIM 訪問線上訂位平台，輕鬆確保晚餐訂位。
+    - q: 如何掃描餐廳 QR 碼查看電子菜單？
+      a: 許多餐廳現在使用數位菜單。您的阿聯 eSIM 確保您可以掃描桌上的 QR 碼並立即載入菜單。
+    - q: 如何使用 Google 翻譯相機翻譯菜單？
+      a: 打開 Google 翻譯應用程式，選擇相機功能，對準當地語言的菜單。它需要透過您的阿聯 eSIM 的網路連線來準確處理即時翻譯。
+    - q: 如何註冊並使用國際版的 Uber Eats/DoorDash？
+      a: 您可以下載 Talabat、Zomato、Deliveroo 等當地應用程式，使用您的電子郵件或社交帳戶註冊，並透過您的阿聯 eSIM 行動數據無縫訂餐。
+    - q: 如何使用 Apple Pay/Google Pay 成功結帳？
+      a: 透過 Apple Pay、Google Pay 或 Apple Pay、Google Pay、Nol Card 等當地方式進行的非接觸式付款需要短暫的網路握手，您的阿聯 eSIM 能完美處理。
+    - q: 如何找到 Yelp/美食部落客推薦的餐廳？
+      a: 您可以使用您的阿聯 eSIM 在路上串流 YouTube 美食影片或瀏覽 Yelp 評論，發掘城市中隱藏的美食瑰寶。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社群
+    title: 7. 社群媒體與通訊
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        UAE eSIM providing the internet, you can chat and call exactly as you do at
-        home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G UAE eSIM gives you the bandwidth
-        needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the UAE eSIM are clear and lag-free, no matter where you are in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal UAE
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your UAE eSIM data allowance to check their own social media.
+    - q: 如何在海外穩定使用 WhatsApp/Telegram？
+      a: 您的 WhatsApp 和 Telegram 帳戶綁定的是您本國的號碼。透過我們的阿聯 eSIM 提供網路，您可以像在家一樣聊天和通話。
+    - q: 如何在不連接公共 Wi-Fi 的情況下上傳內容到 Instagram/TikTok？
+      a: 公共 Wi-Fi 可能緩慢且不安全。我們的 4G/5G 阿聯 eSIM 為您提供上傳大型影片檔案到 TikTok 或 Instagram 所需的頻寬，且安全無虞。
+    - q: 如何與家人進行 FaceTime/WhatsApp 視訊通話？
+      a: 我們的低延遲網路合作夥伴確保您透過阿聯 eSIM 進行的 FaceTime 和視訊通話清晰無延遲，無論您在阿聯的哪個地方。
+    - q: 連接公共 Wi-Fi 登入社群帳戶安全嗎？
+      a: 公共 Wi-Fi 網路容易受到駭客攻擊。使用您個人的阿聯 eSIM 行動數據是加密的，對於登入帳戶來說安全得多。
+    - q: 如何以個人熱點與旅伴分享網路？
+      a: 開啟您手機的熱點功能。您的朋友可以連接到您的 Wi-Fi 網路，並使用您的阿聯 eSIM 數據額度來查看他們自己的社群媒體。
   - id: faq-crossborder
     icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
+    tab_title: 跨境
+    title: 8. 跨境旅行
     questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country UAE eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your UAE eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在歐洲多國旅行時，是否需要為每個國家購買不同的 SIM 卡？
+      a: 如果您購買的是單一國家的阿聯 eSIM，它僅在該國有效。對於多國旅行，我們強烈推薦我們的區域 eSIM（例如歐洲 eSIM），它使用一個設定檔涵蓋多個國家。
+    - q: 搭乘火車跨境時如何避免高昂的漫遊費？
+      a: 關閉您本國 SIM 卡的「數據漫遊」。確保您的阿聯 eSIM 被設為主要的數據線路，這樣您永遠不會產生來自本國電信商的意外費用。
+    - q: 在新加坡/杜拜轉機時如何獲得短期網路？
+      a: 您可以購買專為轉機國家設計的低成本 1GB eSIM，以便在轉機期間保持連線。
+    - q: 如何為郵輪岸上觀光獲得經濟的當地網路？
+      a: 與其支付昂貴的郵輪 Wi-Fi，不如為您停靠的國家啟用當地的 eSIM。當您靠近岸邊時它就會連接。
+    - q: 如何確保 Google 地圖在跨境公路旅行中全程在線？
+      a: 使用區域 eSIM，當您開車穿越邊境時，您的手機會自動切換到新國家的網路，保持您的 GPS 活躍。
+    - q: 如何使用一個應用程式管理多國的數據使用量？
+      a: 您可以透過我們網站的用戶儀表板直接追蹤所有啟用中 eSIM 的數據使用量。
+    - q: 在多國旅行期間如何保持穩定的聯繫方式？
+      a: 由於您的 WhatsApp/iMessage 依賴數據，使用區域 eSIM 可確保您的親友始終可以透過同一個號碼聯繫到您，不間斷。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 9. 緊急情況
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In UAE, you can dial local emergency numbers like 999 (Police), 998 (Ambulance),
-        997 (Fire) directly from your phone's dialer regardless of your active SIM,
-        as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your UAE eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your UAE eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your UAE eSIM data to call your insurance
-        company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        UAE eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your UAE eSIM, use your data
-        to download offline areas in Google Maps just in case you venture into mountains
-        or deep rural zones where signals drop.
+    - q: 在不熟悉的國家如何撥打當地緊急電話？
+      a: 在阿聯，只要您的手機能接收到任何行動訊號，您可以直接從手機撥號器撥打當地緊急號碼，例如 999（警察）、998（救護車）、997（消防），無論您啟用了哪張 SIM 卡。
+    - q: 突發疾病時如何找到最近的醫院/藥局？
+      a: 您的阿聯 eSIM 數據可讓您立即在 Google 地圖上搜尋「我附近的藥局」或「醫院」，並獲得最快路線。
+    - q: 遺失護照後如何找到大使館/領事館資訊？
+      a: 您可以使用您的阿聯 eSIM 快速瀏覽網路，找到您國家大使館的確切地址、緊急聯絡信箱和辦公時間。
+    - q: 發生意外時如何聯繫旅遊保險公司的救援熱線？
+      a: 使用 Skype 或 Viber 等 VoIP 應用程式，透過您的阿聯 eSIM 數據撥打保險公司的國際免付費電話。
+    - q: 在不安全區域如何即時分享位置？
+      a: 您可以使用 WhatsApp 的「分享即時位置」或 Apple 的「尋找」功能，透過您的阿聯 eSIM 行動數據，將您的 GPS 座標持續廣播給信任的朋友。
+    - q: 前往偏遠地區前如何下載離線地圖/重要地點？
+      a: 當您還在城市中享有阿聯 eSIM 的強大覆蓋時，使用您的數據在 Google 地圖中下載離線區域，以防您前往訊號可能中斷的山區或深遠鄉村。
   - id: faq-business
     icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
+    tab_title: 商務
+    title: 10. 商務與工作
     questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our UAE eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the UAE eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your UAE eSIM is significantly
-        faster and much more secure against cyber threats than using open public Wi-Fi
-        networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your UAE eSIM data to
-        receive email-based 2FA codes or push notifications from authenticator apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your UAE eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your UAE eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your UAE eSIM to update them on flight delays or schedule
-        changes.
+    - q: 如何確保 Zoom/Microsoft Teams 視訊會議穩定？
+      a: 我們的阿聯 eSIM 連接到優質的本地網路，提供流暢、專業視訊會議所需的高頻寬和低延遲。
+    - q: 商務旅行期間如何安全連接到公司 VPN 以存取內部系統？
+      a: 我們的行動數據不限制 VPN 協定。您可以透過阿聯 eSIM 網路安全地啟動您的公司 VPN 應用程式，以存取內部伺服器。
+    - q: 在機場/咖啡廳如何使用行動熱點為筆記型電腦提供網路？
+      a: 只需啟用手機的「個人熱點」。分享您的阿聯 eSIM 比使用開放的公共 Wi-Fi 網路快得多，且在防範網路威脅方面安全得多。
+    - q: 如何確保收到銀行/公司電子郵件驗證碼？
+      a: 保持您本國的 SIM 卡啟用以接收簡訊，並使用您的阿聯 eSIM 數據接收基於電子郵件的 2FA 代碼或來自驗證器應用程式的推播通知。
+    - q: 在客戶現場/展覽會上如何快速將大型檔案上傳到雲端硬碟？
+      a: 憑藉阿聯 eSIM 的 5G/4G LTE 速度，您可以直接在展場將簡報或大型文件快速上傳到 Google 雲端硬碟或 Dropbox。
+    - q: 如何無縫使用 Slack/Gmail/Google 雲端硬碟進行協作？
+      a: 您的阿聯 eSIM 提供持續的連線，確保您即時收到 Slack 通知和重要電子郵件，讓您與團隊保持同步。
+    - q: 如何隨時線上更新旅行行程以與公司溝通？
+      a: 您可以使用阿聯 eSIM 在旅途中存取公司的旅行入口網站或發送電子郵件給人資部門，告知他們航班延誤或行程變更。
 related_products:
-  title: Related eSIM Plans
+  title: 相關 eSIM 方案
   items:
-  - name: united states eSIM
+  - name: 美國 eSIM
     flag: img/flags/us.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: United-Kingdom
+  - name: 英國 eSIM
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: Europe eSIM
+  - name: 歐洲 eSIM
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: true
-  - name: Canada eSIM
+  - name: 加拿大 eSIM
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: Turkey eSIM
+  - name: 土耳其 eSIM
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: China eSIM
+  - name: 中國 eSIM
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: Hong Kong eSIM
+  - name: 香港 eSIM
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: France eSIM
+  - name: 法國 eSIM
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: Spain eSIM
+  - name: 西班牙 eSIM
     flag: img/flags/es.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: Germany eSIM
+  - name: 德國 eSIM
     flag: img/flags/de.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
-  - name: Australia eSIM
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: 從 $1.99 起
     is_highlight: false
 ---

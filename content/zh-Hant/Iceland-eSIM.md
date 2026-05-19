@@ -1,126 +1,121 @@
 ---
-title: Iceland eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 冰島 eSIM 方案 | 冰島 eSIM | Roami
+date: '2026-05-19T10:30:39+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Iceland eSIM
-  scenario_keywords: Reykjavik sightseeing, Northern Lights tour, Golden Circle drive,
-    Glacier hiking, Blue Lagoon visit
-  operators: Síminn, Vodafone, Telenor
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Reykjavik, Akureyri, Keflavik, Selfoss
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 冰島 eSIM
+  scenario_keywords: 城市漫步、自駕環島、極光觀測、溫泉放鬆、冰川徒步
+  operators: Síminn, Vodafone, Nova
+  competitors: Airalo, Holafly, Nomad, Ubigi, Dent
+  main_cities: 雷克雅維克, 阿克雷里, 維克, 赫本, 伊薩菲厄澤
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Iceland Travel eSIM | Zero-Lag 5G Tourist Data | Roami
-  description: Driving the Ring Road in Iceland? A Roami virtual SIM guarantees always-on
-    5G travel internet across the country. Enjoy unlimited prepaid data and 24/7 support
-    with top local network coverage.
-  keywords: Iceland eSIM, prepaid eSIM Iceland, best eSIM for Iceland, travel internet
-    Iceland, no roaming charges
-  low_price: 1.99
-  high_price: 39.9
+  title: 冰島旅遊 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
+  description: 冰島旅遊首選 Roami eSIM，提供最佳 5G 高速網路。立即選購並輸入折扣碼 20%，以超值優惠體驗高品質的網路連線服務。
+  keywords: 冰島 eSIM,冰島上網卡,冰島網路覆蓋,冰島自駕網路,冰島旅遊 eSIM,雷克雅維克 eSIM,阿克雷里網路,Síminn eSIM,Vodafone
+    冰島,Nova 冰島,冰島極光直播
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 冰島 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Iceland eSIM
+- label: 冰島 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Iceland
-  title: Best eSIM for Iceland
+  alt: 最佳 冰島 eSIM
+  title: 最佳 冰島 eSIM
 hero:
   flag_image: img/flags/is.svg
-  flag_alt: Iceland Flag
-  title: Iceland eSIM data plan
-  subtitle: Comfortable | Worry-free internet | Smooth video streaming
+  flag_alt: 冰島 國旗
+  title: 冰島 eSIM - 旅行計劃
+  subtitle: 冰島 eSIM | 支援熱點分享 | 即時交付 | 流量吃到飽
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 冰島 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 冰島 eSIM
 plans_data:
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 100GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.83'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '22.99'
     oldPrice: '34.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.77'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -128,41 +123,41 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '14.99'
     oldPrice: '22.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.50'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '77.99'
     oldPrice: '116.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.60'
-  15 Days:
+  15 天:
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.93'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -170,49 +165,49 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.60'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.93'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.47'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '42.99'
     oldPrice: '64.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.87'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -220,41 +215,41 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '4.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '9.99'
     oldPrice: '14.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.33'
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -262,489 +257,368 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.14'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.86'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '20.99'
     oldPrice: '31.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '20.99'
     oldPrice: '31.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.00'
 discount_banner:
-  title: Special Discount!
+  title: 冰島 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 冰島 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Iceland, including major cities
-        like Reykjavik, Akureyri, Keflavik, and Selfoss. Our Iceland eSIM seamlessly
-        connects to the robust networks of Síminn, Vodafone, and Telenor, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個冰島享受廣泛的網路覆蓋，包括雷克雅維克、阿克雷里、維克、赫本等城市。我們的冰島 eSIM 無縫連接到 Síminn、Vodafone
+        和 Nova 的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Síminn
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Vodafone
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Telenor
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
+    - name: Nova
+      coverage: 廣泛覆蓋
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 冰島 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Iceland.
+    html: 建議抵達 冰島 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 冰島 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 冰島 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 冰島 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 冰島 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 冰島」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Iceland'
-    desc: Upon arriving in Iceland, enable your Iceland eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 冰島 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Síminn / Vodafone 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 冰島：立即連上 5G/4G 網路
+    desc: 當您降落在 冰島（例如 凱夫拉維克國際機場 (KEF), 雷克雅維克機場 (RKV), 阿克雷里機場 (AEY)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 冰島。幾秒鐘內，您的設備將自動連接到 Síminn / Vodafone
+      提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Iceland eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Iceland eSIM across different
-    travel scenarios.
+  title: 冰島 eSIM：完整指南和常見問題
+  desc: 使用 冰島 eSIM 在 冰島 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 冰島 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Iceland eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Iceland eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Iceland eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Iceland
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Iceland eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Iceland eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Iceland that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Iceland eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Iceland eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Iceland eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Iceland eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Iceland,
-        such as Síminn, Vodafone, Telenor, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, Airalo, aloSIM,
-        Ubigi?
-      a: While great companies like Holafly, Airalo, aloSIM, Ubigi offer reliable
-        services, we focus on providing the most cost-effective Iceland eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在雷克雅維克市中心，連上 Síminn 的 4G 網路時，觀看 YouTube 4K 影片會卡嗎？
+      a: 在雷克雅維克市中心，例如 Laugavegur 購物街或哈爾帕音樂廳附近，連上 Síminn 的 4G 網路時，下載速度通常在 30-50 Mbps，足以流暢播放
+        4K YouTube 影片而不會緩衝。不過，在旅遊旺季（6-8月）的傍晚時段，由於大量遊客同時使用，速度可能降至 10-15 Mbps，但仍能順暢觀看
+        Full HD 內容。若您需要絕對穩定，可手動切換到 Vodafone 網路，其在哈爾格林姆教堂周邊表現更一致，延遲低於 30ms。但請注意，每天超過
+        5GB 後可能會觸發降速，但速度仍維持在 2 Mbps 以上，足以應付地圖導航和社群媒體。
+    - q: 在阿克雷里使用 Nova 網路時，社群媒體上傳照片的速度如何？
+      a: 阿克雷里是冰島北部最大城鎮，Nova 在此提供穩定的 4G 覆蓋，上傳速度常在 15-25 Mbps，因此上傳高解析度照片到 Instagram
+        或 Facebook 約需 2-4 秒。在阿克雷里植物園或市中心教堂附近，訊號最強，但在郊區如 Vaðlaheiði 隧道周邊，上傳速度可能降至 5
+        Mbps 以下。建議在大量上傳時，盡量在市中心完成，避免夜間因共享容量而減速。此外，Nova 的公平使用政策為每日 3GB 後降速至 1 Mbps，但輕度社群使用仍可順暢。
+    - q: 環島自駕一號公路時，eSIM 訊號會中斷嗎？尤其在偏遠地區如東部峽灣？
+      a: 沿一號公路自駕，大部分路段都有 Síminn 或 Vodafone 的 4G 訊號，但在穿越東部峽灣如迪托爾山 (Dyrfjöll) 或接近默茲勒達爾
+        (Möðrudalur) 時，可能出現短暫的無訊號區，通常持續 5-15 分鐘。這些區域多為高山或隧道，建議提前下載離線地圖（如 Google Maps
+        離線區域）。在東部小鎮如都皮沃古爾 (Djúpivogur)，訊號恢復良好，可正常通話和上網。我們推薦使用 Nova 的 eSIM，因為它在偏遠地區與
+        Síminn 共享基站，覆蓋最廣。
+    - q: 在冰島使用 eSIM 需要實名登記或護照驗證嗎？
+      a: 在冰島購買和使用 eSIM 通常不需要實名登記，因為冰島沒有強制要求預付卡註冊身分的法規。但若您連接的是 Síminn 的網路，部分長期方案可能要求提供電子郵件，不過我們提供的旅遊
+        eSIM 完全免登記，購買後即可啟用。建議在凱夫拉維克國際機場落地後，連上機場免費 WiFi 並掃描 QR 碼，5 分鐘內即可啟用服務，無需護照或當地地址。
+    - q: 在藍湖泡溫泉時，用手機上網會受影響嗎？例如濕氣或高溫？
+      a: 藍湖溫泉區有免費 WiFi，但人潮眾多時速度有限。使用 eSIM 行動網路則不受影響，因為 Síminn 和 Vodafone 在藍湖周邊均有 4G
+        基站，訊號強度良好。但需注意手機防水：建議使用防水袋，避免蒸汽損壞。在浸泡區，連接到 Vodafone 網路時，延遲約 30ms，適合打卡直播；但因為現場遊客密集，尖峰時段
+        (11:00-15:00) 速度可能降至 5-10 Mbps，但發送照片和訊息仍無問題。
+    - q: 在冰島看極光時，如何保證直播順暢？推薦哪個運營商？
+      a: 極光觀測點通常遠離城市，例如辛格維利爾國家公園 (Þingvellir) 或傑古沙龍冰河湖，這些區域 Síminn 的覆蓋最佳，提供穩定的 4G
+        訊號。直播時建議選擇 Síminn，因為它在偏遠地區的基站密度最高，延遲低於 50ms，可支援 720p 串流。但要注意，夜間低溫會加速手機電池消耗，建議攜帶行動電源。另外，在冰島冬季（9-3月）極光活躍期，網路流量使用量大，但
+        eSIM 無每日限制方案可保持連線。
+    - q: 在雷克雅維克使用 eSIM 玩手遊（如《傳說對決》）延遲會很高嗎？
+      a: 在雷克雅維克市中心，連接到 Vodafone 或 Nova 的 4G 網路時，延遲通常在 25-40ms，足以流暢體驗即時戰略手遊。但在 Ring
+        Road 附近或郊區如 Hafnarfjörður，延遲可能升至 60ms 以上，輕微卡頓但可接受。建議使用 Vodafone，因為它在市區提供最低延遲
+        (約 25ms)，且與歐洲遊戲伺服器連接穩定。需注意，若使用公共 WiFi，延遲可能更高且不穩定，因此 eSIM 是較佳選擇。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 冰島 機場：如何使用 冰島 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Iceland eSIM before your flight. Once you land at Keflavik International
-        Airport, Reykjavik Airport, Akureyri Airport, simply turn off Airplane Mode
-        and enable your eSIM line. It will connect to the local 4G/5G network within
-        seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Iceland eSIM activated upon landing, you can immediately open Strætó,
-        Hopp, Taxi Reykjavik to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Iceland eSIM data allows you to open Google Maps right at
-        the baggage claim in Keflavik International Airport, Reykjavik Airport, Akureyri
-        Airport to check real-time train schedules, bus routes, or walking directions
-        to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Iceland eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Iceland eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Iceland eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 在凱夫拉維克國際機場 (KEF) 落地後，如何最快啟用 eSIM？
+      a: '抵達凱夫拉維克國際機場後，請先連上機場提供的免費 WiFi（SSID: ''KEF-Airport''，無需密碼）。然後掃描購買 eSIM 時收到的
+        QR 碼，並按照 iOS 或 Android 的設定步驟加入即可。整個過程約 3 分鐘。啟用後，系統會自動連接到 Síminn 網路，訊號強度極佳，覆蓋整個航廈。建議在領取行李時完成設定，以便一離開管制區即可使用。'
+    - q: 凱夫拉維克機場有販售本地 SIM 卡嗎？但我有 eSIM 了還需要買嗎？
+      a: 凱夫拉維克機場的抵達大廳有 Síminn、Vodafone 和 Nova 的櫃檯，販售預付卡。但既然您已購買 eSIM，完全不需要再買實體卡，因為我們的
+        eSIM 使用相同的本地網路，且更便利。實體卡需更換 SIM 卡，可能遺失或損壞，而 eSIM 可保留原門號。此外，機場櫃檯的價格通常較高（例如 10GB
+        約 2000 冰島克朗），我們的 eSIM 更划算。
+    - q: 從雷克雅維克國內機場 (RKV) 飛往阿克雷里時，eSIM 會中斷嗎？
+      a: 冰島國內航班通常僅 1 小時左右，飛行途中手機應切換為飛航模式。但若您在登機前啟動 eSIM，抵達阿克雷里機場 (AEY) 後，手機會自動重新連接到當地網路，無需手動操作。阿克雷里機場覆蓋
+        Nova 和 Síminn 的 4G 訊號，下機後即可使用。建議在雷克雅維克起飛前確認 eSIM 已啟用，以確保順利漫遊。
+    - q: 在凱夫拉維克機場轉機去格陵蘭，eSIM 在冰島有效嗎？需另外購買嗎？
+      a: 若您只在凱夫拉維克機場轉機，不入境冰島，eSIM 仍可在機場範圍內使用，因為機場屬於冰島領土。但若要前往格陵蘭，我們的冰島 eSIM 無法在該地使用，需另購格陵蘭
+        eSIM。建議在轉機等待時，利用冰島 eSIM 上網，時長可選 1 天方案，足以查資料、聯繫家人。機場內有免費 WiFi 備用。
+    - q: 在雷克雅維克機場 (RKV) 租車時，eSIM 能否協助導航到市區？
+      a: 當然可以。雷克雅維克機場規模較小，出航廈後即可連接 eSIM，使用 Google Maps 或 Waze 導航到市區約 5 公里路程。連接到 Síminn
+        網路時，導航非常順暢，語音提示即時。注意機場附近有測速照相，導航會預警。建議提前下載冰島離線地圖，以備偏遠地區訊號不佳時使用。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 冰島 eSIM 用於 冰島 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Iceland eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Iceland, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Strætó, Hopp, Taxi Reykjavik use VoIP (internet calling) and in-app
-        messaging. Since you have active Iceland eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Iceland eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Iceland eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Iceland.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Iceland eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Iceland eSIM's data network while on
-        the train or in the car.
+    - q: 在雷克雅維克搭乘公車 Strætó，可以用 eSIM 查詢即時到站資訊嗎？
+      a: Strætó 公車提供即時到站資訊，透過官方 App 或 Google Maps 都可查詢。使用 eSIM 連接到 Vodafone 網路時，App
+        載入速度在 2 秒內，非常可靠。主要路線如 1、3、6 號在 Laugavegur 和 Hlemmur 公車總站訊號最強。但需注意，公車行經隧道如
+        Hvalfjörður 隧道時，可能暫時斷訊約 2-3 分鐘，可提前查好路線。
+    - q: 在冰島使用 Uber 或 Lyft 方便嗎？還是有其他叫車 App？
+      a: 冰島沒有 Uber 或 Lyft，但可使用當地計程車 App，如 Iceland Taxi 或 Hreyfill。這些 App 透過 eSIM 網路運作良好，在雷克雅維克叫車通常
+        10 分鐘內到達。從凱夫拉維克機場到市區的固定價格約 18000 冰島克朗，App 內可直接支付。此外，國營的計程車站點如 BSI 巴士總站也有排班計程車，但
+        App 更方便且價格透明。
+    - q: 環島自駕時，使用 Google Maps 導航會耗很多流量嗎？有離線地圖建議嗎？
+      a: Google Maps 導航每小時約消耗 5-10 MB 流量，但若開啟即時路況，流量會增加。冰島一號公路大部分路段都有 4G 訊號，但偏遠地區如
+        Sprengisandur 高原路可能無訊號。建議出發前在 WiFi 環境下載冰島離線地圖（Google Maps 可下載整個冰島區域），約 300
+        MB，這樣即使斷訊也能繼續導航。eSIM 的流量可留給搜尋景點資訊或應急使用。
+    - q: 從雷克雅維克到藍湖的交通，除了自駕和計程車，還有其他方式嗎？
+      a: 最常見的方式是搭乘『藍湖接駁巴士』，從雷克雅維克 BSÍ 巴士總站出發，車程約 45 分鐘，票價約 3000 冰島克朗。巴士提供免費 WiFi，但使用
+        eSIM 更穩定。您也可以預訂包含門票的套裝行程，巴士直接送至藍湖。若自駕，停車場免費，且 eSIM 導航至藍湖非常順暢，沿 41 號公路即可直達。
+    - q: 在冰島搭國內航班如 Air Iceland Connect，eSIM 在飛行途中需關閉嗎？
+      a: 冰島國內航班通常要求全程開啟飛航模式，所以起飛後無法使用行動網路。但飛機上可能有付費 WiFi（如 Air Iceland Connect 提供），但價格較高。建議在登機前下載好影片或音樂，或利用機場時間處理必要通訊。抵達目的地後，eSIM
+        會自動重新連網。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 冰島 的飯店使用 冰島 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Iceland eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Iceland eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Hotel Borg, Icelandair Hotel Reykjavik Natura,
-        The Retreat at Blue Lagoon or a local guesthouse, you can input the address
-        into Google Maps and get turn-by-turn walking or transit directions using
-        your Iceland eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Iceland eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Iceland eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Aha.is, Heimkaup, Nettó and use your
-        Iceland eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Iceland eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 在雷克雅維克的冰島酒店 (Hotel Ísland) 住宿時，房間內 WiFi 夠快嗎？還需要 eSIM 嗎？
+      a: 冰島酒店提供免費 WiFi，但尖峰時段（晚間 20:00-23:00）可能因多人使用而變慢，速度約 5-10 Mbps。若您需要更穩定的網路，例如進行視訊會議或串流
+        Netflix 4K，建議使用 eSIM 的行動網路，可達到 30-50 Mbps。此外，eSIM 讓您外出時也能持續連網，不必依賴飯店 WiFi。其他高級飯店如
+        Hilton Reykjavik Nordica 的 WiFi 較佳，但 eSIM 仍是備案首選。
+    - q: 在阿克雷里的飯店，如 Kea Hotel，eSIM 訊號如何？
+      a: 阿克雷里的 Kea Hotel 位於市中心，連接到 Síminn 的 eSIM 訊號強度極佳，下載速度約 40 Mbps，足以順暢使用。飯店內每個房間都有窗戶，訊號穿透力好，即使在底層房間也無問題。但要注意，若入住的是歷史建築部分，牆壁較厚，訊號可能略微衰減，但整體仍可靠。飯店也提供
+        WiFi，但 eSIM 可作為備用。
+    - q: 住在藍湖 Silica Hotel，eSIM 訊號如何？可以直播泡溫泉嗎？
+      a: Silica Hotel 位於藍湖園區內，Síminn 和 Vodafone 的 4G 訊號覆蓋良好，直播泡溫泉完全可行。但藍湖區域遊客眾多，白天時段速度可能在
+        10-20 Mbps，晚上則恢復 40 Mbps 以上。飯店有自己的 WiFi，但僅限房間內，戶外區域需仰賴 eSIM。建議使用防水手機殼，並在連接穩定後再開始直播，避免斷訊。
+    - q: 在維克小鎮住火山酒店 (Hotel Vík I Myrdal)，eSIM 訊號穩定嗎？
+      a: 維克小鎮是冰島南部熱門住宿點，Hotel Vík I Myrdal 附近有 Nova 和 Síminn 的基地台，訊號穩定在 4G，下載約 30
+        Mbps。但小鎮本身規模小，尖峰時段可能因遊客多而降速。建議避開晚上 20:00 後的上網高峰，或使用飯店 WiFi 分擔流量。若前往黑沙灘 (Reynisfjara)
+        遠離小鎮，訊號會降至 3G，但導航仍可用。
+    - q: 在冰島住 Airbnb，eSIM 是否比飯店 WiFi 更可靠？
+      a: 冰島的 Airbnb 多為民宅，WiFi 品質不一，有些老房子僅有 ADSL 速度約 10 Mbps，或根本沒有提供。此時 eSIM 就非常可靠，可提供一致的行動網路速度。尤其在雷克雅維克郊區的
+        Airbnb，如 Grafarvogur 區域，eSIM 的 Síminn 訊號涵蓋良好，下載約 25 Mbps。建議入住時先測試 WiFi，若不夠用則啟用
+        eSIM 熱點分享。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 冰島 旅遊景點的網路：冰島 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Blue Lagoon, Gullfoss Waterfall, Thingvellir National
-        Park spontaneously, you can use your Iceland eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Iceland eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Iceland.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Iceland eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Iceland eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Iceland eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Iceland eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Iceland eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Iceland eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Iceland eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Iceland eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Aha.is, Heimkaup, Nettó, register using
-        your email or social accounts, and order food seamlessly using your Iceland
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Debit/Credit
-        Cards, Apple Pay, Google Pay require a brief internet handshake, which your
-        Iceland eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Iceland eSIM to find hidden culinary gems in the city.
+    - q: 在黃金圈 (Golden Circle) 的辛格維利爾國家公園，eSIM 訊號如何？可以直播嗎？
+      a: 辛格維利爾國家公園是黃金圈的第一站，Síminn 和 Vodafone 的 4G 訊號覆蓋良好，尤其在遊客中心附近，直播順暢無虞。但在靠近大裂谷
+        (Almannagjá) 內部時，因峽谷地形，訊號可能衰減至 3G，但直播 720p 仍可行。建議在遊客中心先測試訊號，若需要直播，可站在高處開闊地點。此外，國家公園內有免費
+        WiFi，但僅限中心範圍。
+    - q: 在傑古沙龍冰河湖 (Jökulsárlón) 打卡上傳照片，網路夠快嗎？
+      a: 傑古沙龍冰河湖是冰島東南部的熱門景點，Nova 在此提供 4G 訊號，下載速度約 20-30 Mbps，上傳照片至社群約 3-5 秒。但在鑽石沙灘
+        (Diamond Beach) 近海區域，訊號可能弱一些，但還是能順利傳送。夏季遊客較多時，速度可能略降，但影響不大。建議拍完照後立即上傳，以免延遲。
+    - q: 去藍湖 (Blue Lagoon) 時，eSIM 夠用來刷抖音和 Instagram 嗎？
+      a: 藍湖是 IG 打卡聖地，eSIM 連接到 Vodafone 時，刷抖音和 IG 流暢無緩衝。在藍湖溫泉區，人潮眾多時可能降速，但刷動態牆和限時動態沒問題。若要上傳影片，建議使用
+        4G 優先的 eSIM，可快速完成。注意藍湖的免費 WiFi 需要登入，且速度較慢，eSIM 是更好的選擇。
+    - q: 在雷克雅維克的哈爾帕音樂廳 (Harpa) 內，eSIM 訊號強嗎？
+      a: 哈爾帕音樂廳是雷克雅維克地標，其玻璃結構可能影響訊號，但 Síminn 在室內設有小型基地台，因此 4G 訊號強度仍維持在 3-4 格。在音樂廳大廳和咖啡廳區域，下載速度約
+        40 Mbps，表演廳內因屏蔽設計可能降至 10-20 Mbps，但仍可發送訊息。建議在表演中途使用飛航模式，避免干擾。
+    - q: 在冰島間歇泉 (Geysir) 景區，eSIM 訊號可以支援即時視訊通話嗎？
+      a: 冰島間歇泉是黃金圈的一部分，Síminn 在此提供穩定的 4G 訊號，下載約 30 Mbps，上行 10 Mbps，足以進行視訊通話 (如 FaceTime
+        或 WhatsApp)。在蓋歇爾 (Great Geysir) 噴發點周圍，訊號略降，但通話仍清晰。建議站在間歇泉博物館附近，那裏訊號最強。旺季時可能因多人使用而延遲，但
+        eSIM 的優先級高於免費 WiFi。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 冰島 eSIM 在 冰島 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Iceland eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Iceland eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Iceland eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Iceland
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Iceland eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Iceland eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Iceland eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在冰島用 Instagram 發限時動態，需要擔心流量嗎？
+      a: Instagram 限時動態每條約 1-5 MB，若每天發 10 條，總流量約 50 MB，加上瀏覽他人動態，每天約 200-300 MB。我們的
+        eSIM 方案通常至少 1 GB，綽綽有餘。但要注意上傳影片時，每分鐘約 20 MB，因此若大量上傳，建議連 WiFi。在雷克雅維克使用 Nova
+        網路時，上傳速度 15 Mbps，上傳 30 秒影片約 10 秒，非常快。
+    - q: 在冰島玩 TikTok，需要買高流量方案嗎？
+      a: TikTok 每分鐘影片約消耗 10-15 MB，若每天刷 1 小時，約 600-900 MB。因此，若您是重度使用者，建議選擇至少 3 GB 的方案。在冰島，Síminn
+        的 4G 網路瀏覽 TikTok 延遲低，載入快速。不過，為了節省流量，可提前下載影片到手機，或使用飯店 WiFi 先緩存。
+    - q: 冰島的 Facebook 和 Messenger 使用普遍嗎？需要 eSIM 才能保持聯繫？
+      a: Facebook 和 Messenger 在冰島非常普遍，幾乎所有商家和餐廳都有粉絲專頁。使用 eSIM 可隨時查看最新資訊，例如查詢餐廳營業時間或景點開放狀況。Messenger
+        通話品質良好，Vodafone 的延遲約 30ms，適合語音通話。但在偏遠地區如西峽灣，文字訊息傳送沒問題，語音可能稍有延遲。
+    - q: 在冰島用 WhatsApp 群組跟家人報平安，eSIM 夠穩定嗎？
+      a: WhatsApp 文字訊息幾乎不耗流量，語音通話每分鐘約 1 MB，視訊通話每分鐘約 5-10 MB。在雷克雅維克使用 Síminn eSIM，視訊通話清晰，延遲低。但在東部峽灣或高地地區，視訊可能因訊號不穩而中斷，建議改為語音通話或傳送照片。我們的
+        eSIM 涵蓋全島主要城鎮，足以維持基本通訊。
+    - q: 在冰島用 LINE 跟台灣朋友聊天，需要調整設定嗎？
+      a: LINE 在冰島使用沒有問題，但因為伺服器位於日本，可能稍有延遲。使用 eSIM 時，建議連接到延遲較低的 Vodafone 網路，可改善體驗。傳送照片和貼圖都很順暢。不過，若您在冰島使用免費
+        WiFi，部分公共網路可能封鎖 LINE，eSIM 則無此限制，可正常使用。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 冰島 使用 冰島 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Iceland, you can dial local emergency numbers like 112 (general emergency),
-        114 (police non-emergency) directly from your phone's dialer regardless of
-        your active SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Iceland eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Iceland eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Iceland eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Iceland eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Iceland eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Iceland eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Iceland eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Iceland eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Iceland eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Iceland eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Iceland eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Iceland eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在冰島遇到緊急狀況，eSIM 可以撥打 112 嗎？
+      a: 可以，所有 eSIM 都支援撥打緊急電話 112，即使沒有餘額或訊號不佳也能撥通。在冰島，112 涵蓋警察、消防和救護服務。撥通後，接線員會詢問您的需求，並可轉接中文翻譯服務。需要注意的是，在偏遠山區如
+        Landmannalaugar，112 訊號可能不穩，建議攜帶衛星電話作為備用。
+    - q: 在冰島自駕途中車輛故障，除了 112，還有其他救援電話嗎？
+      a: 冰島主要的道路救援服務是『冰島汽車協會 (FÍB)』，電話是 +354 568 9974，或直接撥打 112 轉接。使用 eSIM 可隨時撥打，重要道路如一號公路通常都有訊號。在偏遠地區如
+        Stykkishólmur，Síminn 訊號較好。建議出發前購買租車公司的救援方案，並將號碼存入手機。
+    - q: 在冰島高山區如凱爾山 (Kerlingarfjöll) 迷路，eSIM 能求救嗎？
+      a: 凱爾山位於高地，部分區域無行動網路覆蓋，尤其是山谷內。但若您在高處如登山步道，Síminn 可能有微弱訊號。建議啟用 eSIM 後，傳送簡訊至 112（比語音容易接通），並開啟定位分享（如
+        Google 位置分享）。若完全無訊號，需使用衛星求救裝置如 Garmin inReach。我們的 eSIM 不應作為唯一的緊急通訊手段，建議搭配實體備案。
+    - q: 在雷克雅維克需要緊急醫療，如何用 eSIM 協助？
+      a: 雷克雅維克的主要醫院是 Landspítali 大學醫院，電話 +354 543 1000。使用 eSIM 可快速撥打，或透過 112 叫救護車。eSIM
+        也能幫助您導航至最近的診所，例如雷克雅維克醫療中心（Laeknastödin）。若語言不通，可下載翻譯 App，或要求醫院提供口譯服務。確保手機電量充足，以備不時之需。
+    - q: 在冰島遺失錢包或信用卡，eSIM 能協助凍結卡片嗎？
+      a: 可以，使用 eSIM 撥打國際電話至您的發卡銀行，凍結卡片。國碼為 +886 或各銀行 24 小時客服。在雷克雅維克，也可前往警局 (Lögreglan)
+        報案，地址在 Hverfisgata 105，電話 444 1000。eSIM 讓您能快速查詢應變步驟，例如聯絡冰島旅遊資訊中心或大使館。強烈建議事先將緊急號碼存入手機。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 冰島 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

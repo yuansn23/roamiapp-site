@@ -1,119 +1,112 @@
 ---
-title: Israel eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 以色列 eSIM 方案 | 以色列 eSIM | Roami
+date: '2026-05-19T09:52:15+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Israel eSIM
-  scenario_keywords: Jerusalem pilgrimage, Tel Aviv nightlife, Dead Sea floating,
-    Masada sunrise, Eilat diving
-  operators: Cellcom, Pelephone, Partner
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Tel Aviv, Jerusalem, Haifa, Eilat, Beersheba
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 以色列 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食, 歷史探索
+  operators: Cellcom, Partner, Pelephone
+  competitors: Airalo, Holafly, Nomad, Ubigi, eSIM.net
+  main_cities: 耶路撒冷, 特拉維夫, 海法, 埃拉特, 死海地區
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Israel eSIM | 20% OFF Seamless 5G Travel Data | Roami
-  description: Planning a trip to Israel? Roami delivers high-speed digital SIM connectivity
-    on reliable local 5G networks. Benefit from instant QR setup and nationwide travel
-    internet for visiting family and touring.
-  keywords: Israel eSIM, prepaid eSIM Israel, best eSIM for Israel, cheap eSIM Israel,
-    unlimited data Israel
-  low_price: 1.99
-  high_price: 39.9
+  title: 以色列 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
+  description: 以色列旅遊必備 Roami eSIM，暢享最佳 5G 高速網路。現在購買並輸入折扣碼 20%，讓您的旅程擁有高品質且超值的連線體驗。
+  keywords: 以色列 eSIM, 以色列網路覆蓋, 以色列旅遊 eSIM, 以色列行動網路, 以色列 5G, 以色列 4G
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 以色列 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Israel eSIM
+- label: 以色列 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Israel
-  title: Best eSIM for Israel
+  alt: 最佳 以色列 eSIM
+  title: 最佳 以色列 eSIM
 hero:
   flag_image: img/flags/il.svg
-  flag_alt: Israel Flag
-  title: Israel eSIM data plan
-  subtitle: High-speed 5G network | 100% money-back guarantee | 20% discount for a
-    limited time
+  flag_alt: 以色列 國旗
+  title: 以色列 eSIM - 旅行計劃
+  subtitle: 以色列 eSIM | 即時交付 | 無需身份證件 | 無隱藏費用
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 以色列 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 以色列 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '5.99'
     oldPrice: '8.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.86'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.28'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '19.99'
     oldPrice: '29.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.86'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -121,25 +114,25 @@ plans_data:
     daily: '0.57'
     tagIcon: star
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '13.99'
     oldPrice: '20.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.00'
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -147,49 +140,49 @@ plans_data:
     daily: '0.17'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '5.99'
     oldPrice: '8.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.20'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.37'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '15.99'
     oldPrice: '23.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.53'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '31.99'
     oldPrice: '47.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.07'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '69.99'
     oldPrice: '104.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.33'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -197,65 +190,65 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.47'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '10.99'
     oldPrice: '16.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.73'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '19.99'
     oldPrice: '29.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '34.99'
     oldPrice: '52.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.33'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '31.99'
     oldPrice: '47.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.13'
-  3 Days:
+  3 天:
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '4.99'
     oldPrice: '7.49'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
@@ -263,542 +256,290 @@ plans_data:
     daily: '1.00'
     tagIcon: star
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '10.99'
     oldPrice: '16.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.66'
 discount_banner:
-  title: Special Discount!
+  title: 以色列 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 以色列 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Israel, including major cities
-        like Tel Aviv, Jerusalem, Haifa, and Eilat. Our Israel eSIM seamlessly connects
-        to the robust networks of Cellcom, Pelephone, Partner, ensuring stable signals
-        in urban centers, tourist hotspots, and along major transportation routes.
+      title: 覆蓋範圍
+      desc: 在整個以色列享受廣泛的網路覆蓋，包括耶路撒冷、特拉維夫、海法等城市。我們的以色列 eSIM 無縫連接到 Cellcom、Partner、Pelephone
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Cellcom
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: Pelephone
-      coverage: Reliability
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Partner
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 以色列 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Israel.
+    html: 建議抵達 以色列 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 以色列 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 以色列 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 以色列 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 以色列 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 以色列」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Israel'
-    desc: Upon arriving in Israel, enable your Israel eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 以色列 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Cellcom / Partner 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 以色列：立即連上 5G/4G 網路
+    desc: 當您降落在 以色列（例如 本古里安國際機場 (TLV), 拉蒙機場 (ETM), 海法機場 (HFA)）時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 以色列。幾秒鐘內，您的設備將自動連接到 Cellcom / Partner
+      提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Israel eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Israel eSIM across different
-    travel scenarios.
+  title: 以色列 eSIM：完整指南和常見問題
+  desc: 使用 以色列 eSIM 在 以色列 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 以色列 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Israel eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Israel eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Israel eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Israel and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Israel eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Israel eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Israel that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Israel eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Israel eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Israel eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Israel eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Israel,
-        such as Cellcom, Pelephone, Partner, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, Holafly, Redtea
-        Mobile, GoMoWorld?
-      a: While great companies like Airalo, Holafly, Redtea Mobile, GoMoWorld offer
-        reliable services, we focus on providing the most cost-effective Israel eSIM,
-        ensuring lower latency and better prices with our automatic price-matching
-        system.
+    - q: 在耶路撒冷舊城區使用Cellcom網路時，連線品質如何？
+      a: 在耶路撒冷舊城區的狹窄巷道中，Cellcom的4G訊號通常穩定，但靠近哭牆及聖墓教堂等遊客眾多處，尖峰時段（10:00-14:00）可能出現降速。實測下載速度約20-30
+        Mbps，足以打卡上傳照片，但串流高畫質影片可能偶爾緩衝。建議若需穩定連線，可移動至較開闊的區域如雅法門附近。
+    - q: 在特拉維夫海灘使用Partner網路，適合進行視訊通話嗎？
+      a: 特拉維夫海灘沿岸（如戈登海灘或弗里什曼海灘）的Partner網路覆蓋良好，平均延遲約30毫秒。進行Zoom或FaceTime通話時，畫面清晰，但若遇風浪較大或人群密集（週五下午），可能出現短暫卡頓。建議避開夕陽時段（18:00-19:00）以獲得更佳體驗。
+    - q: 在死海周邊地區，哪家當地運營商的訊號最強？
+      a: 死海周邊（如恩博克區）地勢低窪，Pelephone與Cellcom的訊號皆較佳，但在鄰近馬薩達山區時，Partner可能會有微弱死角。通常在死海漂浮時，手機放在岸邊仍可保持連線，但下載大檔案可能較慢。建議選擇使用Cellcom或Pelephone的eSIM以確保覆蓋。
+    - q: 從本古里安機場入境後，如何快速啟用eSIM並連上網路？
+      a: 入境後，請確保手機已安裝eSIM設定檔（掃描QR code或手動輸入）。打開行動數據，選擇自動搜尋網路，通常會自動連接到Cellcom。若無連線，請手動選擇運營商（如Partner或Pelephone）。整個過程約1-2分鐘，即可在機場大廳使用Google
+        Maps或叫車App。
+    - q: 在海法使用eSIM時，遊覽巴哈伊花園是否會影響訊號？
+      a: 巴哈伊花園依山坡而建，植被茂密，但當地基站佈局良好。使用Cellcom網路時，沿著階梯走動訊號穩定，下載速度約25 Mbps。但在花園頂部觀景台附近，因遊客集中，尖峰時段可能降至10
+        Mbps。上傳社群媒體限時動態仍順暢。
+    - q: 以色列之行中，eSIM的公平使用政策（FUP）具體為何？
+      a: 我們的以色列eSIM採用公平使用政策，每日高速數據上限約為1GB（視方案而異）。超過後仍可繼續上網，但速度降為2G/3G（約128-256 kbps），足以使用文字訊息和導航。若需要大量數據，建議購買大流量方案或避免同時觀看高畫質影片。
+    - q: 在埃拉特度假時，Pelephone的5G覆蓋範圍如何？
+      a: 埃拉特市區及海灘區域（如紅海灘）Pelephone的5G覆蓋良好，實測下載速度可達150 Mbps以上。但在北部工業區或南部邊境處，可能僅有4G訊號。對於度假村內的串流影音，速度完全足夠。若前往珊瑚灣潛水，岸邊訊號仍穩定，但水下無法使用。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 以色列 機場：如何使用 以色列 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Israel eSIM before your flight. Once you land at Ben Gurion Airport
-        (TLV), Ramon Airport (ETM), Haifa Airport (HFA), simply turn off Airplane
-        Mode and enable your eSIM line. It will connect to the local 4G/5G network
-        within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Israel eSIM activated upon landing, you can immediately open Moovit,
-        Gett, Waze to book a ride or use WhatsApp to message your pre-booked driver
-        without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Israel eSIM data allows you to open Google Maps right at
-        the baggage claim in Ben Gurion Airport (TLV), Ramon Airport (ETM), Haifa
-        Airport (HFA) to check real-time train schedules, bus routes, or walking directions
-        to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Israel eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Israel eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Israel eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 本古里安機場有免費Wi-Fi嗎？速度如何？
+      a: 本古里安機場提供免費Wi-Fi，名為“BenGurion Free Wi-Fi”，連線簡單。速度約10-20 Mbps，足以收發訊息和瀏覽網頁，但觀看影片可能較慢。連接eSIM後可更快上網，避免公共網絡的潛在安全風險。
+    - q: 從本古里安機場到耶路撒冷最方便的大眾運輸方式？
+      a: 從機場可搭乘火車直達耶路撒冷（Yitzhak Navon站），車程約20分鐘，班次頻繁。車站有清楚標示，票價約15新謝克爾（NIS）。也可選擇485號巴士，但較耗時。使用eSIM查詢即時班表非常方便。
+    - q: 在拉蒙機場（埃拉特）是否需要提前購買SIM卡？
+      a: 拉蒙機場規模較小，但設有電信公司櫃檯，可現場購買本地SIM卡。然而，預先購買eSIM可省去排隊時間，且抵達後立即連線。機場有免費Wi-Fi輔助啟用eSIM。
+    - q: 本古里安機場的海關檢查是否會影響電子設備使用？
+      a: 通關時需將手機、筆電取出檢查，建議提前關閉eSIM連線以避免干擾。檢查後可立即重新啟用。機場內有充電站，但插座類型為歐標（C型），需自備轉接頭。
+    - q: 在機場遺失行李，如何使用eSIM聯繫航空公司？
+      a: 打開eSIM連線後，直接撥打航空公司的客服電話（如以色列航空03-9771111）。也可使用機場的失物招領處電話（03-9755544）。eSIM確保您立即通話，無需購買本地SIM卡。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 以色列 eSIM 用於 以色列 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Israel eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Israel, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Moovit, Gett, Waze use VoIP (internet calling) and in-app messaging.
-        Since you have active Israel eSIM data, drivers can call or message you directly
-        through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Israel eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Israel eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Israel.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Israel eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Israel eSIM's data network while on
-        the train or in the car.
+    - q: 在特拉維夫使用Gett叫車，費用大概多少？
+      a: Gett是當地最流行的叫車App，從特拉維夫市中心到本古里安機場約100-150 NIS。相比Uber，Gett的車輛更多且司機熟悉當地路線。支援信用卡付款，eSIM可確保位置共享順暢。
+    - q: 以色列的火車是否覆蓋主要旅遊城市？如何購票？
+      a: 以色列鐵路公司（Israel Railways）連接特拉維夫、耶路撒冷、海法、阿卡等地。可於車站購票或下載“Rav Kav”官方App，綁定信用卡。使用eSIM查詢班次和線上買票非常便利。注意安息日（週五日落至週六日落）火車停駛。
+    - q: 在耶路撒冷使用輕軌需注意哪些事項？
+      a: 耶路撒冷輕軌（Jerusalem Light Rail）從赫茨爾山到Pisgat Ze'ev，途經舊城區附近。可購買Rav Kav卡或使用手機感應支付。尖峰時段擁擠，需小心扒手。eSIM可用於查詢路線和下車提醒。
+    - q: 從特拉維夫到海法，自駕或乘坐火車哪個更好？
+      a: 火車從特拉維夫Ha'Hagana站到海法Bat Galim站約1小時，票價約30 NIS，沿途可觀賞地中海風光。自駕則需約1.5小時，但高速公路（6號公路）需繳費。建議遊客選擇火車，省去停車煩惱。eSIM可導航至火車站。
+    - q: 在以色列租車，是否容易找到停車位？
+      a: 在特拉維夫和耶路撒冷市區停車位非常稀缺且昂貴（每小時10-20 NIS）。建議使用“Pango”或“Cellopark”App繳費，eSIM可確保即時支付。許多飯店提供付費停車場，預訂時可洽詢。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 以色列 的飯店使用 以色列 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Israel eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Israel eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at The David Citadel Hotel, The King David Hotel,
-        The Setai Tel Aviv or a local guesthouse, you can input the address into Google
-        Maps and get turn-by-turn walking or transit directions using your Israel
-        eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Israel eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Israel eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Wolt, 10bis, GettEats and use your Israel
-        eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Israel eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 在耶路撒冷老城區附近，有哪些推薦的高評價飯店？
+      a: 耶路撒冷華爾道夫酒店位於市中心，步行即可抵達雅法門，房間寬敞且服務一流。另外，Leonardo Plaza Hotel Jerusalem提供現代化設施，並有觀景台眺望舊城。建議提早預訂，旺季價格較高。使用eSIM查詢空房和比價相當方便。
+    - q: 特拉維夫海灘附近的飯店，是否提供免費Wi-Fi？
+      a: 大多數飯店（如特拉維夫希爾頓酒店）提供免費Wi-Fi，但速度可能不及eSIM穩定。部分廉價旅館限制每日用量。建議自備eSIM作為備案，尤其對於視訊會議需求者。
+    - q: 死海地區的飯店，是否有專屬海灘？
+      a: 死海沿岸的度假村，如Ein Bokek區的“死海因霍特爾”，擁有私人海灘及死海泥池。住客可免費使用，並提供泳池和SPA。建議早上或傍晚前往漂浮，避免烈日。
+    - q: 在以色列入住飯店，是否需要轉接插頭？
+      a: 以色列使用歐標C/H型插座，電壓220V。多數飯店可借用轉接頭，但數量有限。建議自備萬用轉接頭，並確認手機充電器支援寬電壓。eSIM無需實體SIM卡，更換方便。
+    - q: 安息日期間，飯店服務是否受到影響？
+      a: 安息日（週五日落至週六日落）期間，部分飯店櫃檯人力減少，餐廳可能關閉，但仍有基本服務。自動門和電梯正常運作。若需要額外服務，可提前溝通。eSIM可隨時聯繫飯店。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 以色列 旅遊景點的網路：以色列 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Western Wall, Masada, Dead Sea spontaneously, you
-        can use your Israel eSIM data to buy skip-the-line tickets online and present
-        the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Israel eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Israel.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Israel eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Israel eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Israel eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Israel eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Israel eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Israel eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Israel eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Israel eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Wolt, 10bis, GettEats, register using your
-        email or social accounts, and order food seamlessly using your Israel eSIM
-        mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Bit,
-        Pepper, Isracard require a brief internet handshake, which your Israel eSIM
-        handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Israel eSIM to find hidden culinary gems in the city.
+    - q: 參觀耶路撒冷舊城區，需要多少時間？
+      a: 建議至少安排一整天。四大區（猶太區、基督徒區、穆斯林區、亞美尼亞區）各有特色，哭牆、聖墓教堂、圓頂清真寺等景點距離不遠。步行是最好方式，穿著舒適鞋子。eSIM可用於語音導覽。
+    - q: 特拉維夫雅法古城（Jaffa）有哪些必看景點？
+      a: 雅法古城以古老的港口、跳蚤市場和藝術畫廊聞名。可參觀聖彼得教堂和燈塔，並在鐘樓廣場拍照。週二和週五的跳蚤市場尋寶。建議傍晚前往，欣賞夕陽。
+    - q: 死海漂浮時，如何保護手機和eSIM設備？
+      a: 死海水鹽分極高，易損壞電子設備。建議使用防水袋懸掛在脖子上，或放在岸邊保管箱。eSIM不受影響，但手機若浸水可能短路。漂浮後立即用清水沖洗身體。
+    - q: 海法巴哈伊花園的參觀規則？
+      a: 巴哈伊花園分為上下兩部分，與免費導覽團進入。禁止飲食、大聲喧嘩，並需著整齊服裝。從頂部入口（德國殖民區）出發，步行約40分鐘至底部。eSIM可協助導航至集合點。
+    - q: 馬薩達國家公園適合一日遊嗎？
+      a: 適合從耶路撒冷或死海出發，建議上午參觀以避暑。可搭乘纜車至山頂，參觀希律王宮殿遺址。務必攜帶充足飲水。eSIM可用於下載音頻導覽或查詢歷史資訊。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 以色列 eSIM 在 以色列 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Israel eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Israel eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Israel eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Israel
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Israel eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Israel eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Israel eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在以色列使用哪些社群媒體App最受歡迎？
+      a: Instagram、WhatsApp、Facebook廣泛使用，Twitter也較常見。許多商家使用WhatsApp進行聯絡。建議安裝後即時備份設定。eSIM確保順暢瀏覽動態。
+    - q: 在安息日期間，使用社群媒體是否被視為不尊重？
+      a: 在正統猶太社群聚集區（如Mea Shearim），公開使用手機可能引起不滿。但在特拉維夫等世俗城市完全正常。建議尊重當地習俗，避免在安息日於宗教區域大聲播放影音。
+    - q: 使用eSIM時，能否接收台灣的簡訊認證碼？
+      a: eSIM提供數據服務，但若要接收台灣門號的簡訊，需開啟原號漫遊（可能收費）。或使用合作電信的備用方案。建議啟用eSIM同時保留實體SIM卡轉接，以接收銀行認證。
+    - q: 以色列網路審查嚴格嗎？能否正常訪問台灣網站？
+      a: 以色列網路自由度高，通常可正常訪問所有網站。少數色情或賭博網站可能被封鎖，但一般旅遊網站無礙。eSIM連接本地網路，無阻礙。
+    - q: 在沙漠地區（如內蓋夫）露營時，可否使用eSIM打卡？
+      a: 內蓋夫沙漠部分區域（如米茨佩拉蒙附近）有Cellcom和Pelephone訊號，但偏遠地區可能無服務。建議下載離線地圖。露營時可於山頂尋找微弱訊號，上傳照片可能較慢。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 以色列 使用 以色列 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Israel, you can dial local emergency numbers like 100, 101, 102 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Israel eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Israel eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Israel eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Israel eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Israel eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Israel eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Israel eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Israel eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Israel eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Israel eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Israel eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Israel eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在以色列遇到緊急情況，應使用哪個號碼？
+      a: 警察撥100、救護車撥101、消防撥102。這些號碼免費且24小時可用。若語言不通，可說“English please”，接線生可能協助轉接。eSIM確保通話暢通。
+    - q: 在以色列遺失護照，應如何處理？
+      a: 立即撥打當地警察局電話（例如耶路撒冷中央警察局02-5391111）報案，並取得遺失證明。再前往台北經濟文化辦事處（位於特拉維夫）補辦旅行證件。辦事處地址：Tel
+        Aviv, 11th floor, Azrieli Center 1。電話：03-6074788。
+    - q: 以色列的緊急醫療服務品質如何？
+      a: 以色列擁有高水準的醫療體系，緊急救助迅速。Magen David Adom（紅大衛盾）提供救護車服務，平均到達時間約10分鐘。建議購買旅遊保險。
+    - q: 在死海或沙漠地區中暑怎麼辦？
+      a: 移至陰涼處，補充電解質飲料，用濕毛巾降溫。若昏厥，立即撥打101。死海區域多家度假村設有醫療站。eSIM可查詢最近的醫療點。
+    - q: 若在安息日遇到緊急狀況，救援服務是否正常運作？
+      a: 是的，緊急服務（警察、救護車、消防）全年無休，安息日照常運行。但非緊急業務可能延遲。無需擔心基本救援。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 以色列 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Israel eSIM or SIM Card: What’s the Best Option in 2026?"
-  subtitle: "Israel Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Israel) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Israel"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Israel eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Partner SIM cards require manual activation of 4G by dialing *454 and following voice prompts in Hebrew; airport kiosks sell 019 Mobile's 10-day 10GB plan for $29, 2-3 times the city price."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Partner's *454 activation hassle. Roami eSIM activates online within 1 minute after landing in Tel Aviv, avoiding airport price gouging (e.g., 019's $29/10GB plan)."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All prepaid SIMs are nominally anonymous, but Partner requires a manual 4G activation process that acts as a de facto KYC barrier for non-Hebrew speakers."
-      esim_title: "No Passport Required"
-      esim_desc: "Bypass Partner's manual 4G activation and Hebrew voice prompts. Roami eSIM requires no identity verification, just purchase and install."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Golan Telecom explicitly states 'no international roaming'; Pelephone charges an extra ₪30 for international calling add-on."
-      esim_title: "Seamless Multi-Country Roaming"
-      esim_desc: "Unlike Golan Telecom's 'no roaming' policy, Roami eSIM works across Israel, Jordan, and Egypt with unified pricing, no extra add-ons needed."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Partner offers only 30-day plans starting at ₪60/125GB; a 7-day tourist wastes over 75% of the plan's value. Cellcom's 7-day plan costs ₪49/3GB, while its 30-day plan is ₪59/100GB, creating a price inversion."
-      esim_title: "Flexible Daily Plans"
-      esim_desc: "Avoid Partner's 30-day lock-in (₪60/125GB, 75% waste for 7-day trips). Roami offers 7-day plans starting from $1.99/GB, matching your exact stay."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, most Israeli prepaid SIMs allow tethering but may throttle after high usage; Pelephone's 3-day plan with only 300MB effectively limits hotspot use."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike Pelephone's 3-day 300MB plan that barely covers personal use, let alone tethering."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Online top-up from abroad is extremely difficult; major payment methods like international credit cards are not accepted; only PAYEXPRESS or WebMoney are available, which are impractical for short-term tourists."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for Israeli PAYEXPRESS or WebMoney that reject foreign cards."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is primarily in Hebrew; Partner's 4G activation requires following Hebrew voice prompts; no 24/7 English support for prepaid users."
-      esim_title: "24/7 English Support"
-      esim_desc: "Get round-the-clock English support via chat or email. No more struggling with Partner's Hebrew voice prompts for 4G activation."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Israel eSIM vs Prepaid SIM Card: Everything You Should Consider"
-    cards:
-      - icon: "shield"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Keep Your Home SIM Active"
-        desc: "Physical SIM forces you to remove your home SIM, blocking bank SMS and app verifications. Roami eSIM works alongside your home SIM, keeping you connected to critical services."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Familiar Global Methods"
-        desc: "Israeli top-up rejects foreign cards; only PAYEXPRESS or WebMoney work. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Escape 30-Day Plan Waste"
-        desc: "Partner's cheapest plan is <b>₪60/125GB for 30 days</b>. A 7-day tourist wastes <b>75%</b> of the plan. Roami offers <b>7-day plans from $1.99/GB</b>, paying only for what you use."
-      - icon: "headset"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "24/7 English Customer Support"
-        desc: "Partner's 4G activation requires Hebrew voice prompts. Roami offers <b>24/7 English support</b> via chat and email, resolving issues instantly."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

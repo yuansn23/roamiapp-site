@@ -1,86 +1,80 @@
 ---
-title: Dominica eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 多米尼克 eSIM 方案 | 多米尼克 eSIM | Roami
+date: '2026-05-19T10:24:35+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Dominica eSIM
-  scenario_keywords: Roseau sightseeing, Trafalgar Falls hiking, Champagne Reef snorkeling,
-    Morne Trois Pitons trekking
-  operators: Digicel, Flow, Orange
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Roseau, Portsmouth, Marigot, Saint Joseph, Grand Bay
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 多米尼克 eSIM
+  scenario_keywords: 城市漫步、海灘、購物、美食、自然景觀
+  operators: Digicel, Flow, LTE（多米尼克政府主導的計畫）
+  competitors: Airalo, Holafly, Nomad, Ubigi, Flexiroam
+  main_cities: 羅索, 樸茨茅斯, 馬里戈特, 聖約瑟夫, 蘇弗里耶爾
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Dominica eSIM | Best Local Network | Unlimited Data| Roami
-  description: Need internet in Dominica? Stay connected via Top Local Carrier Native
-    5G with Transparent Data. With Nationwide Coverage and No Roaming Fees, it's perfect
-    for Visiting Family.
-  keywords: Dominica eSIM, travel internet, instant delivery, no roaming charges,
-    QR code activation, Digicel, Flow
-  low_price: 1.99
-  high_price: 39.9
+  title: 多米尼克 eSIM | eSIM無限流量 | 5G網路自動切換 | Roami
+  description: 多米尼克旅遊推薦 Roami eSIM 無限流量方案。支援 5G 網路自動切換，訊號穩定。現在下單並輸入折扣碼 20%，獲取專屬優惠折扣。
+  keywords: 多米尼克 eSIM, 多米尼克網路, 多米尼克旅遊, 多米尼克上網, 多米尼克景點, Digicel, Flow
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 多米尼克 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Dominica eSIM
+- label: 多米尼克 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Dominica
-  title: Best eSIM for Dominica
+  alt: 最佳 多米尼克 eSIM
+  title: 最佳 多米尼克 eSIM
 hero:
   flag_image: img/flags/dm.svg
-  flag_alt: Dominica Flag
-  title: Dominica eSIM data plan
-  subtitle: 24/7 customer support | Worry-free internet | Top rated
+  flag_alt: 多米尼克 國旗
+  title: 多米尼克 eSIM - 旅行計劃
+  subtitle: 多米尼克 eSIM | 流量吃到飽 | 100%退款保證 | 支援熱點分享
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 多米尼克 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 多米尼克 eSIM
 plans_data:
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '25.99'
     oldPrice: '38.98'
     tag: ''
@@ -88,17 +82,17 @@ plans_data:
     daily: '1.73'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '37.99'
     oldPrice: '56.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.53'
-  30 Days:
+  30 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '26.99'
     oldPrice: '40.48'
     tag: ''
@@ -106,565 +100,350 @@ plans_data:
     daily: '0.90'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '38.99'
     oldPrice: '58.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.30'
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '11.99'
     oldPrice: '17.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.71'
-  3 Days:
+  3 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '52.99'
     oldPrice: '79.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '17.66'
 discount_banner:
-  title: Special Discount!
+  title: 多米尼克 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 多米尼克 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Dominica, including major
-        cities like Roseau, Portsmouth, Marigot, and Saint Joseph. Our Dominica eSIM
-        seamlessly connects to the robust networks of Digicel, Flow, and Orange, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個 多米尼克 享受廣泛的網路覆蓋，包括 [羅索、樸茨茅斯、馬里戈特] 等城市。我們的 多米尼克 eSIM 無縫連接到 [Digicel、Flow]
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Digicel
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Flow
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Orange
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 多米尼克 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Dominica.
+    html: 建議抵達 多米尼克 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 多米尼克 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 多米尼克 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 多米尼克 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 多米尼克 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 多米尼克」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Dominica'
-    desc: Upon arriving in Dominica, enable your Dominica eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 多米尼克 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Digicel / Flow 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 多米尼克：立即連上 5G/4G 網路
+    desc: 當您降落在 多米尼克（例如 道格拉斯-查爾斯機場 (DOM)、坎菲爾德機場 (DCF)）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往
+      **設定 → 行動服務** 並開啟您的 Roami eSIM 多米尼克。幾秒鐘內，您的設備將自動連接到 Digicel / Flow 提供的最快可用 5G/4G
+      網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Dominica eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Dominica eSIM across different
-    travel scenarios.
+  title: 多米尼克 eSIM：完整指南和常見問題
+  desc: 使用 多米尼克 eSIM 在 多米尼克 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 多米尼克 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Dominica eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Dominica eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Dominica eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Dominica
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Dominica eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Dominica eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Dominica that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Dominica eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Dominica eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Dominica eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Dominica eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Dominica,
-        such as Digicel, Flow, Orange, to ensure premium speeds at a fraction of roaming
-        costs.
-    - q: How do you compare with well-known eSIM providers like Instabridge, Airalo,
-        saily, Holafly?
-      a: While great companies like Instabridge, Airalo, saily, Holafly offer reliable
-        services, we focus on providing the most cost-effective Dominica eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在羅索市中心使用 eSIM 上網速度如何？可以流暢觀看 YouTube 影片嗎？
+      a: 在羅索市中心，連接到 Digicel 網路時，下載速度通常在 30-50 Mbps 左右，足以順暢觀看 1080p 影片，4K 影片可能需要緩衝。在靠近金融區或老街（Old
+        Street）附近，訊號特別強，但尖峰時段（例如中午）可能降至 15 Mbps。如果遇到擁堵，可以手動切換到 Flow 網路，後者在市中心提供更穩定的延遲。每日使用超過
+        2 GB 後，速度可能會暫時被限制至 1 Mbps，但足以應付社交媒體和訊息。
+    - q: 在樸茨茅斯（Portsmouth）校區附近 Digicel 訊號好嗎？
+      a: 樸茨茅斯是羅薩大學（Ross University）所在地，Digicel 在該區域部署了額外基地台，訊號非常穩定。在 IC 校區和圖書館周圍，下載速度通常可達
+        40 Mbps，適合視訊通話和串流。但若前往北邊的 Douglas Bay 海灘，訊號可能減弱至 10 Mbps，建議保持在主要道路附近。Flow
+        在該區的覆蓋稍弱，但仍有 4G 訊號。
+    - q: 在多米尼克使用 eSIM 需要實名註冊嗎？
+      a: 不需要，多米尼克對 eSIM（旅遊用資料方案）不要求強制實名認證。您只需在購買後安裝設定檔即可啟用。與某些加勒比國家不同，此處無需提交護照或進行臉部辨識。但若您選擇本地實體
+        SIM 卡（如 Digicel 預付卡），部分門市可能要求出示護照登記。建議旅遊前直接購買 eSIM，抵達後立刻有網路。
+    - q: 在聖約瑟夫（St. Joseph）的偏遠村莊上網順暢嗎？
+      a: 聖約瑟夫位於西海岸，主要依賴 Digicel 的 4G 基地台，訊號在村莊中心較穩定（下載約 20 Mbps），但前往內陸的 Layou River
+        河谷時，訊號可能降至 3G 或無服務。建議在村莊內使用，避免深入叢林。Flow 在該區僅有 3G 覆蓋，不太適合影片串流。使用 eSIM 時，若自動連上較弱的網路，可手動鎖定
+        Digicel 以獲得最佳體驗。
+    - q: 購買 eSIM 後，如何確保在多米尼克使用流量時不會產生漫遊費？
+      a: 購買專為多米尼克設計的 eSIM 方案（如我們的產品）即可避免漫遊費，因為方案直接包含當地數據。抵達道格拉斯-查爾斯機場後，開啟 eSIM 並關閉主要
+        SIM 卡的數據漫遊（若保留原號碼）。在羅索使用時，建議關閉非必要 App 的背景重新整理，以節省流量。請注意，若使用國際漫遊方案（如台灣門號海外漫遊），每
+        MB 可能收取高額費用。
+    - q: 在沸騰湖（Boiling Lake）健行時，eSIM 訊號穩定嗎？
+      a: 前往沸騰湖的健行路線穿過莫爾納特魯瓦皮斯通斯國家公園，手機訊號在大部分路段極不穩定。通常只有在起點 Laudat 村莊附近有 4G 訊號（Digicel），進入叢林後很快中斷。抵達山谷底部時，幾乎無訊號。建議提前下載離線地圖，並告知他人行程。eSIM
+        在健行過程中無法提供連續網路，但回到 Laudat 後即恢復連線。
+    - q: 在多米尼克使用 eSIM 進行視訊通話（如 Zoom）延遲高嗎？
+      a: 在羅索或樸茨茅斯等城市，使用 Digicel 進行視訊通話延遲通常低於 100 毫秒，會議流暢。但在蘇弗里耶爾（Soufrière）等鄉村地區，延遲可能升至
+        200-300 毫秒，偶有斷線。建議在訊號良好的區域（例如附近的飯店大廳）進行通話。Flow 網路的語音通話品質較佳，但數據優先權略低。若需穩定通話，可於離峰時間（如清晨）使用。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 多米尼克 機場：如何使用 多米尼克 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Dominica eSIM before your flight. Once you land at Douglas-Charles
-        Airport, Canefield Airport, Melville Hall Airport, simply turn off Airplane
-        Mode and enable your eSIM line. It will connect to the local 4G/5G network
-        within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Dominica eSIM activated upon landing, you can immediately open
-        RideShare Dominica, Taxi Dominica, BusApp to book a ride or use WhatsApp to
-        message your pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Dominica eSIM data allows you to open Google Maps right at
-        the baggage claim in Douglas-Charles Airport, Canefield Airport, Melville
-        Hall Airport to check real-time train schedules, bus routes, or walking directions
-        to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Dominica eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Dominica eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Dominica eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 從道格拉斯-查爾斯機場（DOM）到羅索市中心最方便的交通方式是什麼？
+      a: 最方便的方式是搭乘計程車，機場出口即有官方計程車服務，到羅索市中心約 30 分鐘車程，費用約 40-60 東加勒比元（XCD）。如果行李較多，也可提前預約飯店接駁。巴士較少，但可步行至主要公路搭乘迷你巴士（約
+        5 XCD），但班次不固定。建議抵達後先啟用 eSIM 以便與接駁司機聯繫。
+    - q: 機場有販售當地 SIM 卡或 eSIM 的商店嗎？
+      a: 道格拉斯-查爾斯機場的抵達大廳有 Digicel 與 Flow 的櫃檯，可購買實體預付 SIM 卡（約 20 XCD 起）。但 eSIM 通常僅在線上購買，機場內無實體
+        eSIM 販賣機。建議在出發前訂購 eSIM，抵達後掃描 QR 碼即可啟用，省去排隊時間。若需緊急網路，可先購買實體卡，後續再切換至 eSIM。
+    - q: 坎菲爾德機場（DCF）主要服務哪些航線？有計程車服務嗎？
+      a: 坎菲爾德機場主要服務國內線與少數區域航班，例如來往安地卡及巴布達的包機。機場規模較小，但出口仍有計程車排班，前往樸茨茅斯市區約 15 分鐘，費用約
+        30 XCD。由於航班少，計程車有時需等待，建議提前請飯店安排接送。該機場無 SIM 卡販賣點，建議提前準備 eSIM。
+    - q: 在道格拉斯-查爾斯機場能使用 eSIM 的網路嗎？覆蓋如何？
+      a: 機場內 Digicel 和 Flow 的 4G 訊號良好，候機室與行李提領區均可流暢上網。啟用 eSIM 後，通常 1-2 分鐘內即可連線。下載速度約
+        30 Mbps，可輕鬆上傳社群媒體或查詢地圖。但若深入機場角落（如停車場邊緣），訊號可能弱一些。建議在等候行李時完成 eSIM 設定。
+    - q: 從機場到樸茨茅斯的飯店，eSIM 導航可靠嗎？
+      a: 從機場沿著 Edward Oliver Leblanc Highway 開往樸茨茅斯，整條路 Digicel 訊號穩定，Google Maps 與
+        Waze 均可順利導航。但進入山區路段時，可能短暫失去訊號（約 30 秒），但路標清晰不易迷路。建議提前下載離線地圖以防意外。若使用 Flow 網路，導航同樣可靠。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 多米尼克 eSIM 用於 多米尼克 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Dominica eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Dominica, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like RideShare Dominica, Taxi Dominica, BusApp use VoIP (internet calling)
-        and in-app messaging. Since you have active Dominica eSIM data, drivers can
-        call or message you directly through the app without needing a local phone
-        number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Dominica eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Dominica eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Dominica.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Dominica eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Dominica eSIM's data network while on
-        the train or in the car.
+    - q: 在多米尼克叫計程車方便嗎？有類似 Uber 的 App 嗎？
+      a: 多米尼克目前沒有 Uber 或 Lyft，但可使用「多米尼克計程車協會」的電話叫車服務（+1 767-275-8042）。在羅索與樸茨茅斯，主要街道旁有計程車招呼站，車身通常印有「TAXI」標誌。費用需先議價，市區短程約
+        10-20 XCD。Boulevard Taxi 是較可靠的車行，可透過飯店代叫。
+    - q: 羅索的迷你巴士路線怎麼搭乘？如何付費？
+      a: 羅索的迷你巴士沒有固定路線編號，主要集中於舊市場（Old Market）附近，車窗上會標示目的地（如 Portsmouth、Castle Bruce）。上車前詢問司機是否前往目的地，票價約
+        2-5 XCD（現金），下車時付給司機。建議準備零錢，司機不一定有零錢找。巴士滿員即發車，較擁擠。
+    - q: 從羅索到樸茨茅斯有什麼公共交通選項？
+      a: 最常見的是迷你巴士，從羅索的 Valley Road 巴士站出發，車程約 45 分鐘，票價約 5 XCD。班次約每 30 分鐘一班，但午後班次減少。也可搭乘共乘計程車（路線計程車），每人約
+        15 XCD，更快速且舒適。若多人同行，可包車約 60 XCD，直接送至飯店。
+    - q: 在多米尼克自駕需要注意什麼？路況如何？
+      a: 自駕需持有國際駕照，道路左行。主要公路如 Edward Oliver Leblanc Highway 路況良好，但內陸山路狹窄多彎，夜間照明不足。建議租用四輪驅動車，尤其前往
+        Morne Trois Pitons 國家公園時。停車在羅索市中心較困難，可使用飯店停車場。租車公司如 Budget 與 Avis 在機場設有櫃檯。
+    - q: 從坎菲爾德機場到樸茨茅斯碼頭如何接駁？
+      a: 機場至樸茨茅斯碼頭距離約 5 公里，計程車費用約 20 XCD，車程 10 分鐘。若無航班對接，可請飯店安排接駁。碼頭附近有計程車排班，但船班時間不定，建議提前預約。也可步行前往（約
+        30 分鐘），但行李多時不建議。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 多米尼克 的飯店使用 多米尼克 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Dominica eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Dominica eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Fort Young Hotel, Secret Bay, Jungle Bay Resort
-        & Spa or a local guesthouse, you can input the address into Google Maps and
-        get turn-by-turn walking or transit directions using your Dominica eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Dominica eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Dominica eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download SkipTheDishes, Foodie, QuickEats and
-        use your Dominica eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Dominica eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: Fort Young Hotel & Spa 附近有哪些餐廳？步行可達嗎？
+      a: 飯店位於羅索濱海區，步行 5 分鐘可達多間餐廳，如 The Oasis 提供加勒比海菜，La Robe Creole 供應克里奧爾料理。沿著 Bay
+        Street 還有幾家咖啡館與小吃攤。飯店本身也有餐廳，但外出用餐更能體驗當地風情。建議使用 Google Maps 搜尋評分高的店家。
+    - q: Jungle Bay Resort & Spa 提供免費機場接送嗎？
+      a: Jungle Bay 通常不提供免費機場接送，但可付費安排車子從道格拉斯-查爾斯機場接駁，費用約 80 XCD。飯店位於南部的 Soufrière，車程約
+        40 分鐘。建議提前電子郵件預約。若自行搭計程車，回程時可請飯店協助叫車。
+    - q: Secret Bay Resort 的房間提供 WiFi 嗎？速度如何？
+      a: Secret Bay 全 Villa 覆蓋免費 WiFi，使用 Digicel 光纖網路，下載速度約 50 Mbps，可順暢使用串流影片。但若使用
+        eSIM，則可作為備用網路。飯店位於西北海岸，周圍自然環境優美，但 Villa 之間距離較遠，公共區域訊號略弱。建議在 Villa 內使用 WiFi，外出時切換至
+        eSIM。
+    - q: 在羅索市區有哪些平價住宿？有青年旅館嗎？
+      a: 羅索市區平價選項包括 Roseau Hostel（約 40 XCD/床位）與 Valley View Guesthouse（約 80 XCD/間）。這些住宿通常提供基本寢具與共用衛浴，但地點便利，靠近巴士站與市場。也可透過
+        Airbnb 尋找民宿，價格約 100-150 XCD 每晚。青年旅館數量少，建議提前預訂。
+    - q: 飯店內使用 eSIM 與飯店 WiFi 哪個比較快？
+      a: 在 Fort Young、Secret Bay 等高星級飯店，專屬 WiFi 通常較 eSIM 快且穩定（下載 50-100 Mbps）。但在較小的民宿或鄉村旅館，WiFi
+        可能僅 5-10 Mbps，此時 eSIM 連 Digicel 反而更快（20-30 Mbps）。建議抵達後先測試兩者，選擇較快的連線。Roaming
+        在某些地區可能受限。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 多米尼克 旅遊景點的網路：多米尼克 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Trafalgar Falls, Morne Trois Pitons National Park,
-        Champagne Reef spontaneously, you can use your Dominica eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Dominica eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Dominica.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Dominica eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Dominica eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Dominica eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Dominica eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Dominica eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Dominica eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Dominica eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Dominica eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like SkipTheDishes, Foodie, QuickEats, register
-        using your email or social accounts, and order food seamlessly using your
-        Dominica eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Cash,
-        Credit/Debit Card, Mobile Money require a brief internet handshake, which
-        your Dominica eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Dominica eSIM to find hidden culinary gems in the city.
+    - q: 特拉法加瀑布（Trafalgar Falls）適合游泳嗎？
+      a: 瀑布底部的水潭水質清澈，但水深約 2-3 公尺，部分區域有暗流，建議在導遊指引下游泳。水量豐沛時，水溫涼爽（約 22°C），非常消暑。瀑布位於 Morne
+        Trois Pitons 國家公園內，需購買門票（約 10 XCD）。前往時建議穿防滑鞋，步道濕滑。附近有更衣室與廁所。
+    - q: 沸騰湖（Boiling Lake）健行需要嚮導嗎？難度如何？
+      a: 強烈建議聘請當地嚮導，因為步道標示不清且需穿越蒸汽區，嚮導可確保安全。健行來回約 6-8 小時，難度中高，包含陡峭上升與泥濘路段。出發點 Laudat
+        有嚮導協會，費用約 150 XCD/人（含午餐）。需攜帶足夠飲水（至少 2 公升）與防水衣物。不建議單獨前往。
+    - q: 莫爾納特魯瓦皮斯通斯國家公園（Morne Trois Pitons National Park）有哪些容易到達的步道？
+      a: 公園內最簡單的步道是 Emerald Pool 步道，全程約 15 分鐘，可達翡翠綠水池游泳。Middleham Falls 步道約 1 小時，適合中等體能。這些步道路徑清楚，無需嚮導。門票可在公園入口購買（約
+        10 XCD）。建議上午前往，避開午後陣雨。公園內無餐飲，需自備點心。
+    - q: 羅索的植物園（Botanical Gardens）值得參觀嗎？
+      a: 羅索植物園位於市中心，佔地約 40 英畝，種植多種熱帶植物與蘭花。園內有 1979 年颶風摧毀的歷史建築遺跡，適合散步與拍照。入園免費，但建議捐款
+        5 XCD支持維護。每天開放至下午 6 點。可從金融街步行 10 分鐘抵達，或搭計程車前往。
+    - q: 查詢運河（Indian River）遊船行程在哪裡預訂？
+      a: 遊船從樸茨茅斯的 Indian River 碼頭出發，有數家業者營運，如「Indian River Tours」（電話 767-245-6789）。基本行程約
+        1 小時，費用 40 XCD/人，包含導覽講解紅樹林生態。可現場購票，但旺季建議提前預約。船上會提供免費飲料，結束後可於碼頭附近餐廳用餐。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 多米尼克 eSIM 在 多米尼克 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Dominica eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Dominica eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Dominica eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Dominica
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Dominica eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Dominica eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Dominica eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在多米尼克，使用 Facebook 與 Instagram 是否需要 VPN？
+      a: 不需要，多米尼克沒有封鎖任何社交媒體平台，可直接使用 Facebook、Instagram 等。但若您來自中國，需注意微信（WeChat）可能受到部分限制，但一般使用無礙。當地人普遍使用
+        WhatsApp 溝通，建議下載以方便聯繫飯店與司機。網路審查非常少。
+    - q: 在羅索咖啡廳使用免費 WiFi 安全嗎？需要登入嗎？
+      a: 多數咖啡廳（如 Rituals Coffee House）提供免費 WiFi，但連線前需同意使用條款，通常僅需輸入電子郵件。建議避免在公用 WiFi
+        上進行銀行交易，如需使用 eSIM 的個人熱點更安全。咖啡廳營業時間多為 7:00-19:00，網路速度約 10 Mbps，適合瀏覽網頁。
+    - q: 在多米尼克可以正常使用 Tinder 等交友軟體嗎？
+      a: 可以，Tinder 與 Bumble 在多米尼克皆可正常運作，但用戶較少，主要集中於羅索與樸茨茅斯。由於人口僅約 7 萬，配對數量有限。建議使用時設定範圍較大（例如
+        50 公里），以增加機會。網路速度足以順暢左右滑動與傳訊息。
+    - q: 在多米尼克使用 YouTube Music 或 Spotify 離線下載歌曲方便嗎？
+      a: 非常方便，您可以在有 WiFi 或 eSIM 連線時，於 YouTube Music 或 Spotify 下載歌曲至手機。建議在飯店連 WiFi
+        時先下載好，因為在偏遠地區訊號不穩。eSIM 方案每日流量足夠下載數百首歌（每首約 5 MB）。請注意，離開前需將 App 設為離線模式以節省流量。
+    - q: 在社群媒體上打卡多米尼克景點時，有哪些熱門地標標籤？
+      a: '熱門地標標籤包括 #Dominica、#NatureIsland、#BoilingLake、#TrafalgarFalls。於羅索的舊市場打卡時可標記
+        #RoseauMarket。在樸茨茅斯的海灘可加上 #PortsmouthBeach。使用這些標籤有助於在社群上獲得更多曝光。另外，標記 @DiscoverDominica
+        官方帳號有機會被轉發。'
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 多米尼克 使用 多米尼克 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Dominica, you can dial local emergency numbers like 911 directly from
-        your phone's dialer regardless of your active SIM, as long as your phone can
-        catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Dominica eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Dominica eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Dominica eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Dominica eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Dominica eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Dominica eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Dominica eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Dominica eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Dominica eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Dominica eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Dominica eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Dominica eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在多米尼克遇到緊急狀況，如何撥打求救電話？
+      a: 警察與消防請撥 911，救護車請撥 999。若手機無訊號，可嘗試撥打 112（國際通用）。在羅索市區，警察局位於 King George V Street，提供
+        24 小時服務。建議將飯店地址存入手機，方便提供接線員位置。若需要台灣駐外單位協助，可聯繫駐聖克里斯多福及尼維斯大使館（+1 869-466-8388）。
+    - q: 在沸騰湖健行時受傷，最近的醫療設施在哪裡？
+      a: 最近的醫療點是 Laudat 村莊的衛生中心（每日 8:00-16:00），但僅提供基本外傷處理。嚴重傷患需送至羅薩的 Princess Margaret
+        Hospital（約 40 分鐘車程）。健行前建議購買旅遊保險，並攜帶急救包。若發生骨折或蛇咬，切勿移動，派人求援。
+    - q: 在多米尼克遺失護照該怎麼辦？
+      a: 立即向當地警察局報案，取得遺失證明。接著聯繫您國家的駐外使館或領事館（台灣遊客可聯絡駐聖克里斯多福及尼維斯大使館），申請臨時旅行證件。需準備兩張大頭照與護照影本（建議事先掃描存在雲端）。多米尼克移民局通常會配合。建議同時通知飯店與航空公司。
+    - q: 在羅索遇到颶風警報，應該如何避難？
+      a: 颶風季節（6-11月）需保持警覺。當警報發布時，立即前往飯店地下室或避難中心（羅索的避難中心包括 Roseau Primary School）。儲備飲水、乾糧、手電筒與電池。關閉瓦斯並遠離窗戶。如在外，勿滯留海邊或橋樑。eSIM
+        可接收天氣警報，但要確保手機電力充足。
+    - q: 在多米尼克食物中毒或腹瀉該怎麼辦？
+      a: 輕微腹瀉可至藥局購買口服脫水鹽（如 Pedialyte）與止瀉藥（如 Imodium）。嚴重時前往 Princess Margaret Hospital
+        急診，該院有腸胃科。建議避免生水與路邊攤，只喝瓶裝水。旅遊保險應包含醫療運送，必要時可轉移至馬丁尼克或巴貝多。
+    - q: 在偏遠地區車輛拋錨，如何求救？
+      a: '若在主要公路上，可撥打 Digicel 或 Flow 的客服（Digicel: 100, Flow: 611）請求道路救援。若無訊號，嘗試攔車求助，當地人通常樂意幫忙。建議隨車攜帶反光三角與基本工具。保險公司（如
+        AIG）提供 24 小時道路救援。在羅索可聯絡「Dominica Auto Services」。'
 related_products:
-  title: Related eSIM Plans
+  title: 類似 多米尼克 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Dominica eSIM vs Local Prepaid SIM: Which Is More Convenient?"
-  subtitle: "Dominica Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Dominica) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Dominica"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Dominica eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Flow and Digicel Dominica require in-person purchase with passport check; SIM card costs EC$25."
-      esim_title: "Instant Digital Activation"
-      esim_desc: "Skip Flow and Digicel store queues and passport checks. Activate your Roami eSIM online within 1 minute after landing in Dominica, avoiding the EC$25 SIM card fee."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Both Flow and Digicel require passport for SIM purchase."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Flow and Digicel which mandate passport registration, Roami eSIM requires zero KYC. No need to show your passport at purchase."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Digicel's 'Roam Like You're Home' costs EC$13.79/7 days but data bundles do not apply; roaming data charged at EC$1/MB."
-      esim_title: "Global Roaming Without Traps"
-      esim_desc: "Avoid Digicel's roaming trap: their 'Roam Like You're Home' charges EC$1/MB (EC$1024/GB) because data bundles don't apply. Roami eSIM offers seamless multi-country roaming with transparent pricing."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Flow offers 30-day plans like EC$69.99/3GB; Digicel offers EC$54.99/1.5GB/30 days. Auto-renewal on all plans except 1-day."
-      esim_title: "Flexible Plans, No Waste"
-      esim_desc: "Unlike Flow's 30-day plans (EC$69.99/3GB) that auto-renew and waste 75% for a 7-day trip, Roami offers 7-day plans starting from $1.99/GB. No auto-renewal, no sunk cost."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full hotspot sharing. No hidden restrictions like some local SIMs. Share your data across devices freely."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up via physical vouchers at kiosks; account balance valid for 90 days."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to find local kiosks for top-up vouchers or worry about 90-day account expiry."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Roami provides 24/7 customer support in English and other languages. No need to navigate local language phone lines or limited business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Dominica eSIM vs SIM Card: The Complete Comparison Guide"
-    cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payment Without Local Hassles"
-        desc: "Local SIMs require physical top-up vouchers from kiosks, with account balance expiring in 90 days. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
-      - icon: "globe"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "Seamless Multi-Country Roaming"
-        desc: "Digicel's local data bundles don't apply when roaming; you pay EC$1/MB. Roami eSIM works across multiple Caribbean islands without extra charges or reconfiguration."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Digicel's Roaming Data Trap"
-        desc: "Digicel's 'Roam Like You're Home' costs EC$13.79/7 days but data bundles don't apply; roaming data is charged at <b>EC$1/MB</b> (EC$1024/GB). Roami eSIM offers transparent global roaming without hidden fees."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from Long Billing Cycles"
-        desc: "Flow's 30-day plan (EC$69.99/3GB) and Digicel's 30-day plan (EC$54.99/1.5GB) waste over 70% for a 7-day trip. Roami offers 7-day plans from <b>$1.99/GB</b>, no auto-renewal."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

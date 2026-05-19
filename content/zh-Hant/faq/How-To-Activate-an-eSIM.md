@@ -1,202 +1,212 @@
 ---
-title: "How to Activate an eSIM (Complete iOS & Android Guide)"
-description: "Learn how to easily activate an eSIM on iPhone and Android devices. Follow our step-by-step guide to scan your QR code and fix common activation errors."
-keywords: ["eSIM activation", "how to activate eSIM", "iPhone eSIM setup", "Android eSIM", "eSIM QR code", "travel eSIM", "eSIM troubleshooting"]
-date: 2026-04-02T10:00:00Z
-lastmod: 2026-04-02T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
+title: "如何在 iPhone 和 Android 上啟用 eSIM"
+description: "完整的 eSIM 啟用指南：如何在 iPhone 和 Android 上連接 eSIM、掃描 QR 碼、設定旅遊用 eSIM、排除啟用錯誤。購買 eSIM 並在一分鐘內完成安裝。"
+keywords: ["eSIM 啟用", "如何啟用 eSIM", "在 iPhone 上設定 eSIM", "Android eSIM", "eSIM QR 碼", "旅遊 eSIM", "eSIM 故障排除", "如何在 iPhone 上連接 eSIM", "eSIM 設定", "購買 eSIM", "旅行用 eSIM", "支援 eSIM 的手機", "eSIM 無服務"]
+date: 2026-05-18T10:00:00Z
+lastmod: 2026-05-18T10:00:00Z
+tags: ["eSIM", "iOS", "Android", "故障排除", "旅行設定"]
 toc: true
 image: "/images/esim-activation-guide.jpg"
 
-# 站点 & SEO 基础硬编码配置
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
 ui_text:
-  updated_on: "Updated on"
-  min_read: "min read"
-  toc: "Table of Contents"
+  updated_on: "更新於"
+  min_read: "分鐘閱讀"
+  toc: "目錄"
 
 breadcrumbs:
   home:
-    text: "Home"
+    text: "首頁"
     url: "/"
   parent:
-    text: "Help Center"
+    text: "幫助中心"
     url: "/faq/"
- 
-# 右侧：热门 eSIM 配置 (6个国家，1.99美金)
+
 sidebar_popular:
-  title: "Popular eSIMs"
+  title: "熱門 eSIM"
   item_suffix: "eSIM"
   items:
-    - name: "United States"
-      flag: "/img/flags/us.svg"
-      price: "$1.99"
-      url: "/united-states-esim/"
-      badge: "5G"
-    - name: "Germany"
-      flag: "/img/flags/de.svg"
-      price: "$1.99"
-      url: "/germany-esim/"
-      badge: "5G"
-    - name: "Europe"
-      flag: "/img/flags/eu.svg"
-      price: "$1.99"
-      url: "/europe-esim/"
-      badge: "5G"
-    - name: "Turkey"
-      flag: "/img/flags/tr.svg"
-      price: "$1.99"
-      url: "/turkey-esim/"
-      badge: "5G"
-    - name: "Japan"
+    - name: "日本"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "China"
+    - name: "韓國"
+      flag: "/img/flags/kr.svg"
+      price: "$1.99"
+      url: "/south-korea-esim/"
+      badge: "5G"
+    - name: "泰國"
+      flag: "/img/flags/th.svg"
+      price: "$1.99"
+      url: "/thailand-esim/"
+      badge: "5G"
+    - name: "越南"
+      flag: "/img/flags/vn.svg"
+      price: "$1.99"
+      url: "/vietnam-esim/"
+      badge: "5G"
+    - name: "美國"
+      flag: "/img/flags/us.svg"
+      price: "$1.99"
+      url: "/united-states-esim/"
+      badge: "5G"
+    - name: "中國"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置 (4个国家)
 sidebar_free:
-  title: "Claim Free eSIM"
+  title: "取得免費 eSIM"
   icon: "🎁"
-  item_suffix: "Free eSIM"
-  item_subtitle: "Free eSIM"
+  item_suffix: "免費 eSIM"
+  item_subtitle: "免費 eSIM"
   items:
-    - name: "United Kingdom"
-      flag: "/img/flags/gb.svg"
+    - name: "日本"
+      flag: "/img/flags/jp.svg"
       url: "/free-esim/"
-    - name: "Germany"
-      flag: "/img/flags/de.svg"
-      url: "/free-esim/"
-    - name: "Thailand"
+    - name: "泰國"
       flag: "/img/flags/th.svg"
       url: "/free-esim/"
-    - name: "Hong Kong"
-      flag: "/img/flags/hk.svg"
+    - name: "新加坡"
+      flag: "/img/flags/sg.svg"
       url: "/free-esim/"
-
-# 右侧：热门问题配置 (5个问题)
+    - name: "澳洲"
+      flag: "/img/flags/au.svg"
+      url: "/free-esim/"
 sidebar_questions:
-  title: "Popular Questions"
+  title: "熱門問題"
   items:
-    - question: "What is eSIM activation and how does it work?"
+    - question: "什麼是 eSIM 啟用？它是如何運作的？"
       url: "faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "How to activate an eSIM?"
+    - question: "如何啟用 eSIM？"
       url: "/faq/how-to-activate-an-esim//"
-    - question: "How to activate eSIM on iPhone (All Models)?"
+    - question: "如何在 iPhone（所有型號）上啟用 eSIM？"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Latest eSIM Compatibility List"
+    - question: "最新的 eSIM 相容性列表"
       url: "/compatibility/"
 ---
 
 
-**The Bottom Line Up Front:**
-To activate an eSIM, you need a carrier-unlocked phone, a stable Wi-Fi connection, and an eSIM QR code from your provider. Navigate to your phone’s cellular settings, select "Add eSIM" or "Add Data Plan," scan the QR code, and wait 1-2 minutes for the digital profile to download and install. 
+**重點摘要：**
+要啟用 eSIM，你需要一支**已解鎖且支援 eSIM 的手機**（最新相容性列表請參閱我們的網站）、穩定的 Wi-Fi 連線，以及來自你電信業者的 QR 碼。**如何在 iPhone 或 Android 上連接 eSIM**：前往行動網路設定，選擇「加入 eSIM」，掃描 **eSIM QR 碼**，然後等待 1-2 分鐘。**eSIM 設定**完成 – 你就可以上網了。如果你還沒**購買 eSIM**，請參考我們的國外旅遊專用方案。
 
 ---
 
-## Crucial Checks Before You Start
+## 開始前的重要檢查
 
-Do11 not scan your QR code until you have verified these three requirements. Failing to do so is the #1 cause of activation errors.
+在掃描 QR 碼之前，請先確認滿足以下三個條件。忽略它們是 **eSIM 啟用**錯誤的主要原因。
 
-1. **Your Phone Must Be Carrier-Unlocked:** If you bought your phone through a carrier contract (like AT&T or Verizon), it might be locked to their network. 
-   * *iPhone check:* Go to **Settings > General > About**. Scroll down to **Carrier Lock**. It must say **No SIM restrictions**.
-2. **You Need a Stable Wi-Fi Connection:** An eSIM is a digital download. You cannot activate it using your regular cellular data because the phone needs an internet connection to communicate with the carrier's secure server.
-3. **Do Not Use Your Camera App:** Always scan the QR code through your phone’s Settings menu, not the standard camera app.
- 
+1. **你的手機必須已解鎖且支援 eSIM：** 如果你購買的是電信業者合約機（例如 AT&T 或 Verizon），它可能被鎖定在該業者的網路。同時，請確認你的型號在**支援 eSIM 的手機列表**中。
+   * *在 iPhone 上檢查：* 前往 **設定 > 一般 > 關於本機**。向下滑到**電信業者鎖定**。應該顯示**沒有 SIM 卡限制**。
+2. **你需要穩定的 Wi-Fi 連線：** eSIM 是數位下載。你無法透過一般的行動數據啟用它，因為手機需要網路連線才能與電信業者的安全伺服器通訊。
+3. **不要使用相機應用程式：** 請務必透過手機的設定選單掃描 QR 碼，而不是使用一般的相機應用程式。
 
-## How to Activate an eSIM on iPhone (iOS)
+## 如何在 iPhone 上啟用 eSIM（iOS）
 
-Apple has streamlined the eSIM process in recent iOS updates. Follow these exact steps to install your profile.
+Apple 在最新的 iOS 更新中簡化了 eSIM 流程。請按照以下精確步驟安裝你的設定檔。**在 iPhone 上設定 eSIM** 只需不到一分鐘。
 
-1. **Step 1:** Go to **Settings > Cellular** (or **Mobile Data** depending on your region).
-2. **Step 2:** Tap **Add eSIM** (or **Add Data Plan** on older iOS versions).
-3. **Step 3:** Tap **Use QR Code** at the bottom of the screen.
-4. **Step 4:** Position the QR code within the camera frame. 
-5. **Step 5:** Once recognized, tap **Continue** and wait for the "Cellular Setup Complete" message.
+1. **步驟 1：** 前往 **設定 > 行動服務**（部分地區稱為「行動數據」）。
+2. **步驟 2：** 點擊 **加入 eSIM**（舊版 iOS 為「加入方案」）。
+3. **步驟 3：** 點擊螢幕底部的 **使用 QR 碼**。
+4. **步驟 4：** 將 **eSIM QR 碼** 對準相機框內。
+5. **步驟 5：** 識別成功後，點擊 **繼續**，等待「行動方案設定完成」的訊息。
 
-If you cannot scan the code (e.g., the QR code is on the phone you are using), tap **Enter Details Manually** at the bottom of the scanning screen. Paste the **SM-DP+ Address** and **Activation Code** provided in your carrier's email.
- 
+如果你無法掃描條碼（例如 QR 碼在你正在使用的手機上），請點擊掃描畫面底部的 **手動輸入詳細資訊**。貼上你電信業者郵件中提供的 **SM‑DP+ 位址** 和 **啟用碼**。這樣就可以**手動啟用 eSIM**。
 
-## How to Activate an eSIM on Android 
+## 如何在 Android 上啟用 eSIM
 
-Android menus vary slightly depending on your device manufacturer. Here are the exact paths for the two most popular Android brands.
+Android 的選單會因裝置製造商而略有不同。以下是兩個最受歡迎的 Android 品牌的確切路徑。**如何在 Android 上啟用 eSIM** – 請依照你型號的說明操作。
 
-### For Samsung Galaxy Devices:
+### 適用於 Samsung Galaxy 裝置：
 
-1. **Step 1:** Go to **Settings > Connections**.
-2. **Step 2:** Tap **SIM Manager**.
-3. **Step 3:** Select **Add eSIM**.
-4. **Step 4:** Tap **Scan QR code from service provider**.
-5. **Step 5:** Scan the code and tap **Add** when prompted.
+1. **步驟 1：** 前往 **設定 > 連線**。
+2. **步驟 2：** 點擊 **SIM 卡管理員**。
+3. **步驟 3：** 選擇 **加入 eSIM**。
+4. **步驟 4：** 點擊 **掃描電信業者的 QR 碼**。
+5. **步驟 5：** 掃描條碼，並在出現提示時點擊 **加入**。
 
-### For Google Pixel Devices:
+### 適用於 Google Pixel 裝置：
 
-1. **Step 1:** Go to **Settings > Network & internet**.
-2. **Step 2:** Tap the **+ (plus icon)** next to **SIMs**.
-3. **Step 3:** Tap **Download a SIM instead?** at the bottom.
-4. **Step 4:** Tap **Next** and scan your QR code.
- 
+1. **步驟 1：** 前往 **設定 > 網路和網際網路**。
+2. **步驟 2：** 點擊 **SIM 卡** 旁邊的 **+（加號）**。
+3. **步驟 3：** 點擊底部的 **下載 SIM 卡？**。
+4. **步驟 4：** 點擊 **下一步**，然後掃描 QR 碼。
 
-## Activating via a Carrier App (The Alternative Method)
+## 透過電信業者應用程式啟用（替代方法）
 
-Many travel eSIM providers (like Airalo or Holafly) and major domestic carriers offer in-app activation. This bypasses the QR code entirely.
+許多**旅遊 eSIM** 供應商（例如 Airalo、Holafly 或 Roami）以及大型本地電信業者都提供透過應用程式啟用的方式。這完全繞過了 QR 碼。
 
-1. Download your provider's official app.
-2. Log into your account and locate your purchased plan.
-3. Tap the **Activate** or **Install eSIM** button.
-4. Your phone will prompt you for permission to allow the app to install a cellular plan. Tap **Allow** or **Continue**.
+1. 下載你電信業者的官方應用程式。
+2. 登入你的帳戶，找到已購買的方案。如果你還沒**購買 eSIM**，請在應用程式中完成購買。
+3. 點擊 **啟用** 或 **安裝 eSIM** 按鈕。
+4. 手機會要求允許安裝行動方案。點擊 **允許** 或 **繼續**。這樣你就可以在不掃描的情況下快速完成 **eSIM 設定**。
 
-## How to Confirm Your eSIM is Successfully Activated
+## 如何確認 eSIM 已成功啟用
 
-Once you have completed the steps above, here is how you can verify that your new eSIM is ready to use:
+完成上述步驟後，以下方法可以確認你的新 eSIM 已準備好使用：
 
-* **Check the Status Bar:** Look at the top right corner of your screen. If you have both your physical SIM and eSIM turned on, you should see two separate sets of cellular signal bars.
-* **Check the Settings Menu:** Go to your Cellular/Network settings. You should see both lines listed, and your newly added eSIM status should say **"On"** or **"Active"**.
-* **The Real-World Test:** Turn off your Wi-Fi, switch your primary Cellular Data to the new eSIM line, and try to load a webpage or open an app. If it connects smoothly, your activation is 100% successful!
+* **檢查狀態列：** 查看螢幕右上角。如果你同時啟用了實體 SIM 和 eSIM，你應該會看到兩組獨立的行動訊號強度指示器。
+* **檢查設定選單：** 前往行動網路設定。你應該會看到兩條線路，並且你的新 eSIM 狀態應為「開啟」或「啟用中」。
+* **實際測試：** 關閉 Wi-Fi，將主要行動數據線路切換到新的 eSIM，然後嘗試載入網頁或開啟應用程式。如果連線順暢，**eSIM 啟用**就是 100% 成功了！
 
-## How to Switch Between Multiple eSIM Plans
+## 如何在多個 eSIM 方案之間切換
 
-If you are a frequent traveler, you can store multiple eSIMs on your phone and switch between them effortlessly. 
+如果你經常旅行，可以在手機上儲存多個 eSIM，並輕鬆地在它們之間切換。**可以安裝多少個 eSIM？** 大多數現代手機支援儲存多達 10-20 個設定檔，但同時只能啟用 1-2 個。
 
-* **On iPhone:** Go to **Settings > Cellular > Cellular Data**, and simply tap the plan you want to use for internet access. *(Shortcut: Swipe down to open the Control Center, long-press the cellular data icon, and quickly switch your active data line).*
-* **On Android:** Go to **Settings > Network & internet > SIMs**. Tap the plan you want to use, and toggle on the **"Use SIM"** or **"Mobile data"** option.
+* **在 iPhone 上：** 前往 **設定 > 行動服務 > 行動數據**，然後點擊你想用於上網的方案。*（快速方法：向下滑動開啟控制中心，長按行動數據圖示，快速切換啟用的數據線路。）*
+* **在 Android 上：** 前往 **設定 > 網路和網際網路 > SIM 卡**。點擊你想使用的方案，然後開啟 **「使用 SIM 卡」** 或 **「行動數據」** 選項。
 
-> 💡 **Traveler Tip:** You can install your travel eSIM at home. Once your plane lands at your destination, simply go into your settings and switch your Cellular Data over to the local eSIM to get online instantly.
+> 💡 **給旅行者的建議：** 你可以在家先安裝好**旅遊 eSIM**。**旅遊用 eSIM** 是不支付漫遊費用的最佳解決方案。當你的飛機降落在目的地（土耳其、埃及、中國、烏茲別克、哈薩克或其他國家）時，只需前往設定，將行動數據切換到當地 eSIM，即可立即上網。
 
-## Troubleshooting Common Activation Failures
+## 常見啟用故障排除
 
-If your eSIM fails to activate or connect, do not panic. Try these technical fixes before contacting customer support.
+如果你的 eSIM 無法啟用或無法連線，請不要慌張。在聯繫客服之前，請先嘗試以下技術修正。我們將介紹典型的 **eSIM 無服務**、**eSIM 無法啟用** 等錯誤。
 
-### Error 1: "Cellular Plan Cannot Be Added"
-* **The Fix:** This usually means your phone is carrier-locked, or the QR code has already been scanned. QR codes are strictly single-use. If your phone is unlocked and you get this error, you must contact your provider to generate a fresh QR code.
+### 錯誤 1：「無法加入行動方案」
+* **修正方法：** 這通常表示你的手機被電信業者鎖定，或者 QR 碼已經被掃描過。QR 碼僅供一次性使用。如果你的手機已解鎖但仍收到此錯誤，你需要聯絡供應商產生新的 QR 碼。
 
-### Error 2: "Invalid QR Code" or Code Won't Scan
-* **The Fix:** The QR code might be expired, damaged, or your camera cannot focus. Make sure you are scanning in a well-lit area and the screen displaying the code is bright. If it still fails, tap "Enter Details Manually" and type in the **SM-DP+ Address** and **Activation Code** provided by your carrier.
+### 錯誤 2：「無效的 QR 碼」或條碼無法掃描
+* **修正方法：** QR 碼可能已過期、損壞，或者你的相機無法對焦。請確保你在光線充足的地方掃描，且條碼所在螢幕亮度夠亮。如果仍然無效，請點擊「手動輸入詳細資訊」，然後輸入電信業者提供的 **SM‑DP+ 位址** 和 **啟用碼**。
 
-### Issue 1: The eSIM is Installed, but Shows "No Service"
-* **The Fix:** The profile downloaded, but your phone hasn't registered with the local cell tower. First, ensure the eSIM line is toggled **ON** in your settings. Next, turn on **Airplane Mode** for 30 seconds, then turn it off. This forces your phone's antenna to reboot and search for a signal.
+### 問題 1：eSIM 已安裝，但顯示「沒有服務」
+* **修正方法：** 設定檔已下載，但手機尚未向當地的行動基地台註冊。首先，確認 eSIM 線路在設定中為**開啟**狀態。然後，開啟**飛航模式** 30 秒，再關閉飛航模式。這會強制手機天線重新啟動並尋找訊號。如果問題仍然存在 – 可能是你的電信業者在該國沒有漫遊協議。
 
-### Issue 2: Activated Successfully, But No Internet Connection
-* **The Fix:** If you have signal bars but pages won't load, check two things:
-  1. **Turn on Data Roaming:** Go to your eSIM settings and ensure the "Data Roaming" toggle is ON (this is mandatory for most travel eSIMs).
-  2. **Check the APN Settings:** Find the **APN (Access Point Name)** menu in your cellular settings. Ask your provider for the correct APN details and type them in manually. *(This step is especially common for Android devices).*
-  3. **Verify Data Line:** Double-check that your phone's primary "Cellular Data" is actually assigned to the new eSIM, not your home SIM.
+### 問題 2：啟用成功，但沒有網路連線
+* **修正方法：** 如果你有訊號指示器，但網頁無法載入，請檢查兩件事：
+  1. **開啟數據漫遊：** 前往 eSIM 設定，確認「數據漫遊」開關已開啟（這對大多數旅遊 eSIM 是必需的）。
+  2. **檢查 APN 設定：** 在行動網路設定中找到 **APN（存取點名稱）** 選單。向供應商詢問正確的 APN 參數，並手動輸入。*（此步驟在 Android 裝置上特別常見）。*
+  3. **檢查數據線路：** 確認你手機的主要「行動數據傳輸」確實指定給新的 eSIM，而不是你的本國 SIM 卡。
 
-> **CRITICAL WARNING:** Never tap **Delete eSIM** or **Remove Data Plan** if you are trying to fix a connection issue. Deleting the eSIM permanently destroys the digital profile, and you will have to purchase a new one.
+> **重要警告：** 如果你正在嘗試解決連線問題，**絕對不要**點擊「刪除 eSIM」或「刪除方案」。刪除 eSIM 會永久銷毀數位設定檔，你將需要購買新的。如果你需要暫時停用 eSIM，只需在設定中關閉該線路的開關即可。
 
-## Frequently Asked Questions
+## 常見問題
 
-**Is there a fee to activate an eSIM?** No, carriers do not charge an "activation fee" just to scan and install an eSIM profile. You only pay for the actual data plan or cellular package you purchased. 
+**啟用 eSIM 需要付費嗎？** 不用，電信業者不會僅因為掃描和安裝 eSIM 設定檔而收取「啟用費」。你只需支付實際的方案或購買的行動數據包。你可以在我們的網站上**購買 eSIM**，價格從 $1.99 起。
 
-**Can I activate my eSIM before I travel?** Yes, and it is highly recommended. You should install the eSIM at home while you have reliable Wi-Fi. The data plan will simply remain inactive (or "searching") until you land in your destination country and your phone connects to the local supported network.
+**我可以在旅行前啟用 eSIM 嗎？** 可以，而且強烈建議這麼做。你應該在家中有可靠 Wi-Fi 時就安裝好 eSIM。該方案只會保持未啟用狀態（或「搜尋中」），直到你降落在目的地國家，且手機連接到當地支援的網路為止。這對**旅遊 eSIM** 尤其方便。
 
-**How do I switch between my physical SIM and my eSIM?** Go to your cellular settings. You will see both lines listed. You can tap on your physical SIM to turn it off, or set your physical SIM as the default for Voice/SMS, and the eSIM as the default for Cellular Data.
+**如何在實體 SIM 卡和 eSIM 之間切換？** 前往行動網路設定。你會看到兩條線路。你可以點擊實體 SIM 將其關閉，或者將實體 SIM 設為語音/SMS 的主要線路，而將 eSIM 設為行動數據的主要線路。
+
+**可以在手機上安裝多少個 eSIM？** 大多數現代智慧型手機（iPhone、Samsung、Pixel）允許儲存多達 10-20 個 eSIM 設定檔，但同時只能啟用 1-2 個。例如，iPhone 17 支援多達 8 個 eSIM 並同時啟用 2 個。**可以同時使用兩個 eSIM 嗎？** 可以，從 iPhone 13 及更新機型開始，以及許多 Android 旗艦機都支援。
+
+**如果我的手機不支援 eSIM 怎麼辦？** 請查閱我們的[最新相容性列表](/compatibility/)。如果列表中沒有你的型號，請嘗試撥打 `*#06#` – 如果出現 32 位元的 EID，則表示支援 eSIM。否則，你需要使用實體 SIM 卡或更換裝置。
+
+**如何知道手機是否支援 eSIM？** 開啟電話應用程式，撥打 `*#06#`。如果螢幕上顯示 **EID** – 你的裝置就相容於 eSIM。你也可以在製造商官方網站上查詢型號規格。
+
+**為什麼掃描 QR 碼後 eSIM 無法啟用？** 可能的原因：QR 碼已過期（通常有效期為 24-72 小時）、Wi-Fi 連線不穩定，或者你的手機被鎖定在特定電信業者。請嘗試透過 SM‑DP+ 位址**手動設定 eSIM**。
+
+> 📎 **本網站的相關資源：**
+> - [eSIM 深度故障排除完整指南（16 個真實案例）](/faq/esim-deep-troubleshooting-guide-2026/)
+> - [2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
+> - [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+> - [最新的 eSIM 相容手機列表](/compatibility/)
+> - [購買土耳其、埃及、中國及其他國家的 eSIM](/plans/)
+> - [eSIM 啟用原理](/faq/what-is-esim-activation-and-how-does-it-work/)
+---
+
+**需要協助嗎？** 如果你已執行所有步驟，但 **eSIM 啟用**仍然失敗，請聯絡我們的客服團隊。我們將協助你**設定 eSIM**，適用於任何國家 – 土耳其、埃及、中國、烏茲別克、哈薩克及其他目的地。

@@ -1,118 +1,113 @@
 ---
-title: Portugal eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 葡萄牙 eSIM 方案 | 葡萄牙 eSIM | Roami
+date: '2026-05-19T10:34:19+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Portugal eSIM
-  scenario_keywords: Lisbon sightseeing, Porto wine tasting, Algarve beach vacation,
-    Douro Valley travel, Sintra day trip
-  operators: Vodafone Portugal, MEO, NOS
+  core_keyword: 葡萄牙 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食
+  operators: NOS, MEO, Vodafone
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Lisbon, Porto, Faro, Coimbra, Braga
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_cities: 里斯本, 波爾圖, 法魯, 科英布拉, 辛特拉
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Buy Portugal eSIM | No Contract 5G Data | 20% OFF| Roami
-  description: Need internet in Portugal? Stay connected via Top Local Carrier Zero-Lag
-    5G with High-Speed Data. Features Nationwide Coverage and Unlimited Data, great
-    for Light Travel.
-  keywords: Portugal eSIM, travel internet, no roaming, instant delivery, QR code
-    activation
-  low_price: 1.99
-  high_price: 39.9
+  title: 葡萄牙 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
+  description: 葡萄牙旅遊推薦 Roami eSIM，提供最佳 5G 高速網路與無限流量。現在下單並使用折扣碼 20%，讓您的連線服務更優惠。
+  keywords: 葡萄牙 eSIM, 葡萄牙網路覆蓋, 葡萄牙旅遊, 里斯本 eSIM, 波爾圖 eSIM, NOS, MEO, Vodafone, 葡萄牙4G,
+    葡萄牙5G
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 葡萄牙 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Portugal eSIM
+- label: 葡萄牙 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Portugal
-  title: Best eSIM for Portugal
+  alt: 最佳 葡萄牙 eSIM
+  title: 最佳 葡萄牙 eSIM
 hero:
   flag_image: img/flags/pt.svg
-  flag_alt: Portugal Flag
-  title: Portugal eSIM data plan
-  subtitle: Hotspot supported | Smooth video streaming | Smart choice
+  flag_alt: 葡萄牙 國旗
+  title: 葡萄牙 eSIM - 旅行計劃
+  subtitle: 葡萄牙 eSIM | 無隱藏費用 | 支援熱點分享 | 流量吃到飽
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 葡萄牙 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 葡萄牙 eSIM
 plans_data:
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 100GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.83'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -120,57 +115,57 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.27'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.33'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '17.99'
     oldPrice: '26.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.60'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '32.99'
     oldPrice: '49.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.10'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '71.99'
     oldPrice: '107.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.40'
-  15 Days:
+  15 天:
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.93'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -178,49 +173,49 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.47'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.60'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '16.99'
     oldPrice: '25.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.13'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '37.99'
     oldPrice: '56.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.53'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -228,41 +223,41 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '11.99'
     oldPrice: '17.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '4.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '9.99'
     oldPrice: '14.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.33'
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -270,570 +265,322 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '5.99'
     oldPrice: '8.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.86'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.28'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '20.99'
     oldPrice: '31.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.00'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '22.99'
     oldPrice: '34.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.28'
 discount_banner:
-  title: Special Discount!
+  title: 葡萄牙 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 葡萄牙 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Portugal, including major
-        cities like Lisbon, Porto, Faro, and Coimbra. Our Portugal eSIM seamlessly
-        connects to the robust networks of Vodafone, MEO, and NOS, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個葡萄牙享受廣泛的網路覆蓋，包括里斯本、波爾圖、法魯等城市。我們的葡萄牙eSIM無縫連接到NOS、MEO、Vodafone的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: Vodafone
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: MEO
-      coverage: Reliability
-      network: 5G/4G/LTE Network
     - name: NOS
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
+    - name: MEO
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 葡萄牙 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Portugal.
+    html: 建議抵達 葡萄牙 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 葡萄牙 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 葡萄牙 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 葡萄牙 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 葡萄牙 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 葡萄牙」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Portugal'
-    desc: Upon arriving in Portugal, enable your Portugal eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 葡萄牙 時，只需開啟 eSIM
+      – 有效期將在首次連接到 NOS / MEO 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 葡萄牙：立即連上 5G/4G 網路
+    desc: 當您降落在 葡萄牙（例如 里斯本波爾特拉機場（LIS）, 波爾圖法蘭西斯科·薩·卡內羅機場（OPO）, 法魯機場（FAO））時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 葡萄牙。幾秒鐘內，您的設備將自動連接到 NOS / MEO 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Portugal eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Portugal eSIM across different
-    travel scenarios.
+  title: 葡萄牙 eSIM：完整指南和常見問題
+  desc: 使用 葡萄牙 eSIM 在 葡萄牙 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 葡萄牙 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Portugal eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Portugal eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Portugal eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Portugal
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Portugal eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Portugal eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Portugal that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Portugal eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Portugal eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Portugal eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Portugal eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Portugal,
-        such as Vodafone Portugal, MEO, NOS, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like mobimatter, saily,
-        Holafly, Airalo?
-      a: While great companies like mobimatter, saily, Holafly, Airalo offer reliable
-        services, we focus on providing the most cost-effective Portugal eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在里斯本羅西烏廣場附近使用NOS網路，速度如何？適合視訊通話嗎？
+      a: 在里斯本羅西烏廣場一帶，NOS提供穩定的4G/5G覆蓋，下載速度通常可達30-50 Mbps。即使在尖峰時段，進行Zoom或WhatsApp視訊通話也很流暢。不過，若您在地下室餐廳或老城區小巷（如阿爾法瑪），訊號可能降至10
+        Mbps左右，但仍足以進行語音通話和訊息傳送。建議在重要通話前確保處於室外或靠近窗戶的位置。
+    - q: 在波爾圖的同盟廣場使用MEO網路，觀看串流媒體會卡頓嗎？
+      a: 波爾圖同盟廣場是市中心，MEO的5G覆蓋良好，實測下載速度約40-60 Mbps，觀看Netflix高畫質或YouTube 4K影片幾乎無緩衝。不過在晚間高峰（18-21點），速度可能下降至15-25
+        Mbps，但1080p串流仍穩定。如果前往杜羅河畔的加亞新城，訊號稍弱，但仍能串流音樂與導航。
+    - q: 在法魯海灘使用Vodafone網路，社交媒體上傳照片速度快嗎？
+      a: 法魯海灘區域（如法魯島）的Vodafone 4G訊號良好，上傳速度約10-20 Mbps，上傳Instagram限時動態或發送WhatsApp照片約需幾秒鐘。然而，尖峰夏季（7-8月）遊客眾多時，網速可能降低至5
+        Mbps，上傳稍慢但可接受。建議避開下午2-4點最熱門時段，或移動到靠近碼頭的位置以獲得更好訊號。
+    - q: 購買葡萄牙eSIM後，如何檢查已用流量？需要安裝額外App嗎？
+      a: 您無需安裝任何App，大部分eSIM提供商的流量查詢方式是傳送簡訊到特定號碼或訪問網址。以我們服務為例，您可傳送「DATA」至 1111，幾秒內會回覆剩餘流量。一般情況下，出廠設定每2小時自動更新一次用量。若您是重度使用者，建議啟用手機內建的流量監控功能。
+    - q: 在科英布拉大學區，網路訊號是否穩定？能支援線上課程嗎？
+      a: 科英布拉大學區（尤其圖書館周圍）覆蓋完善，NOS和MEO均提供穩定4G/5G，下載約30-50 Mbps，足以進行長達2小時的線上課程，延遲低於50ms。不過，某些古老建築的厚石牆可能導致訊號衰減，建議在室外庭院或靠近窗戶處使用。如果課程需要大量數據（如直播投影），建議提前下載材料。
+    - q: 在辛特拉佩納宮周邊，使用eSIM的GPS導航會受影響嗎？
+      a: 辛特拉佩納宮地區樹木茂密，但大部分區域有4G覆蓋。即使在山坡小徑，GPS定位仍精準，Google地圖載入約需3-5秒。但如果深入森林步道（如摩爾城堡附近），訊號可能減弱至1-2格，導航仍可離線緩存地圖使用。建議提前下載離線地圖，避免中斷。
+    - q: 在卡斯卡伊斯海邊使用eSIM，下載速度足夠拍短影片上傳嗎？
+      a: 卡斯卡伊斯的濱海長廊（如Guincho海灘）有良好的Vodafone 4G訊號，上傳速度約15-25 Mbps，拍攝並上傳1分鐘的1080p短影片約需30秒。不過，若人潮擁擠（如週末），下載速度可能下降至5-10
+        Mbps。建議在清晨或傍晚時段使用。
+    - q: 在葡萄牙使用eSIM，能否保留台灣手機門號的WhatsApp接收？
+      a: 可以，eSIM僅提供數據網路，台灣門號的實體SIM卡可保留在手機中（或利用雙卡手機），但需注意避免漫遊費用。建議在離開台灣前關閉台灣門號的數據漫遊功能，只保留語音/SMS。在葡萄牙，您可使用eSIM數據正常收發WhatsApp訊息，包括語音與影片通話。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 葡萄牙 機場：如何使用 葡萄牙 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Portugal eSIM before your flight. Once you land at Lisbon Portela
-        Airport (LIS), Porto Francisco Sá Carneiro Airport (OPO), Faro Airport (FAO),
-        simply turn off Airplane Mode and enable your eSIM line. It will connect to
-        the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Portugal eSIM activated upon landing, you can immediately open
-        Uber, Bolt, Moovit to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Portugal eSIM data allows you to open Google Maps right at
-        the baggage claim in Lisbon Portela Airport (LIS), Porto Francisco Sá Carneiro
-        Airport (OPO), Faro Airport (FAO) to check real-time train schedules, bus
-        routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Portugal eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Portugal eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Portugal eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 從里斯本機場入境後，如何立即啟用eSIM？需要連接機場WiFi嗎？
+      a: 里斯本機場提供免費WiFi「WIFI.PORTUGAL」，訊號穩定。建議您降落後先連上機場WiFi，然後掃描eSIM QR碼或手動輸入啟用碼。啟用通常需2-5分鐘，完成後手機會自動連接到本地網路。若您提前在台灣設定好，抵達後開啟行動數據即可。
+    - q: 在波爾圖機場，eSIM的連線速度快嗎？出關後多久能上網？
+      a: 波爾圖機場的NOS網路覆蓋良好，出關後約1分鐘內即可連線。首次連線時，手機可能會自動選擇最強訊號的運營商（如MEO），下載速度約20-40 Mbps。上傳照片或使用地圖均無延遲。若遇到自動連線失敗，請手動選擇運營商（設定→行動網路→網路選擇）。
+    - q: 法魯機場的eSIM訊號如何？是否支援機場接送App叫車？
+      a: 法魯機場覆蓋Vodafone 4G/5G，訊號強度約4格，下載速度在30-50 Mbps之間，使用Bolt或Uber App叫車完全沒問題。上傳位置資訊和確認訂單僅需幾秒鐘。但請注意，機場停車場內部可能訊號減弱，建議在到達大廳外使用。
+    - q: 里斯本機場等候行李時，eSIM能否順暢觀看影片？
+      a: 可以，行李區有良好的MEO 4G訊號，實測觀看YouTube 1080p影片無緩衝。下載速度約25-40 Mbps，足以應付短暫等待。但尖鋒時段（如清晨或深夜多航班抵達）網速可能降至15
+        Mbps左右，觀看高畫質影片可能需載入幾秒。
+    - q: 在葡萄牙機場內購買eSIM的遊客中心位置在哪？營業時間？
+      a: 里斯本機場的抵達大廳（1號航廈）設有遊客服務中心，提供多種eSIM選項。營業時間通常為6:00至00:00。此外，機場內的自動販賣機也有部分eSIM品牌。若您已提前網購，可直接啟用，無須排隊。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 葡萄牙 eSIM 用於 葡萄牙 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Portugal eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Portugal, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Bolt, Moovit use VoIP (internet calling) and in-app messaging.
-        Since you have active Portugal eSIM data, drivers can call or message you
-        directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Portugal eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Portugal eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Portugal.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Portugal eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Portugal eSIM's data network while on
-        the train or in the car.
+    - q: 在里斯本搭乘地鐵時，eSIM訊號穩定嗎？能否看串流？
+      a: 里斯本地鐵的紅線和藍線大部分隧道內覆蓋NOS和MEO的4G訊號，但行駛中可能短暫中斷。例如，在市中心Paraíso站到São Sebastião站之間，訊號穩定，觀看影片約10-15秒緩衝一次。綠線部分隧道（如Cais
+        do Sodré段）訊號較弱。建議預先下載音樂或離線地圖。
+    - q: 使用Bolt/Uber在波爾圖叫車，eSIM回應速度快嗎？
+      a: 波爾圖市中心（如同盟廣場）的Bolt或Uber回應速度快，eSIM延遲約20-40ms，司機通常在2分鐘內接單。不過，在杜羅河畔或加亞新城區域，偶爾會出現定位延遲，可重新整理地圖。若訊號弱，建議手動切換到Vodafone網路。
+    - q: 從里斯本到辛特拉的火車上，eSIM能穩定導航嗎？
+      a: 火車沿途經過郊區，4G覆蓋良好。全程約40分鐘，導航App（如Google地圖）幾乎誤差小於10公尺。但在某些隧道區域（如靠近辛特拉的山區），訊號可能短暫中斷1-2分鐘。建議提前下載離線地圖，避免迷路。
+    - q: 在法魯使用Uber Eats點餐，eSIM下載菜單圖片速度快嗎？
+      a: 法魯市中心區域，NOS的4G下載速度約30-50 Mbps，載入Uber Eats的高畫質菜單圖片僅需1-2秒。但在郊區（如博爾代拉海灘），速度降至10-20
+        Mbps，載入時間略長。總體而言，點餐流程順暢。
+    - q: 在葡萄牙自駕遊，eSIM用於Waze導航的數據流量消耗大嗎？
+      a: Waze導航每小時約消耗5-10 MB，流量消耗極低。但若開啟路況更新和社群報告，可能增至15 MB/小時。一般旅行7天僅需約200-500 MB導航流量。建議在出發前關閉後台App更新，以節省流量。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 葡萄牙 的飯店使用 葡萄牙 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Portugal eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Portugal eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Pestana Hotel Group, Four Seasons Ritz Lisbon,
-        The Yeatman or a local guesthouse, you can input the address into Google Maps
-        and get turn-by-turn walking or transit directions using your Portugal eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Portugal eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Portugal eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Uber Eats, Glovo, Bolt Food and use
-        your Portugal eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Portugal eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 里斯本佩斯塔納皇宮酒店房間內eSIM訊號好嗎？需要連接飯店WiFi嗎？
+      a: 該酒店位於市中心，房間內NOS訊號強度約3-4格，下載速度可達40 Mbps，足以應付商務和娛樂。若您入住高樓層或靠內側房間，訊號可能略降，但仍可進行視訊通話。飯店WiFi也很穩定，可做為備用。
+    - q: 波爾圖耶特曼酒店附近的網路擁擠嗎？eSIM與飯店WiFi哪個快？
+      a: 耶特曼酒店位於歷史區，遊客眾多時，飯店WiFi可能因大量用戶而變慢。eSIM連接到MEO網路則較穩定，下載速度約30-50 Mbps。建議白天外出時使用eSIM，晚間在飯店可切換WiFi以節省流量。
+    - q: 在法魯的阿爾加維娛樂場度假村使用eSIM，上傳海灘照片快嗎？
+      a: 度假村覆蓋Vodafone的4G+網絡，上傳照片速度約15-25 Mbps，分享Instagram限時動態約3-5秒。但若度假村週末滿房，訊號可能稍降，但仍優於公用WiFi。建議選擇使用eSIM確保穩定。
+    - q: 入住里斯本民宿，eSIM能否替代固網寬頻進行遠端辦公？
+      a: 大部分里斯本民宿所在區域的4G/5G網路足以支援遠端辦公，包括視訊會議。例如在拜薩區（Baixa），下載速度可達50 Mbps，Zoom通話無延遲。但老城區（如阿爾法瑪）的石牆可能造成訊號衰減。建議先測試eSIM速度，必要時使用民宿WiFi做備援。
+    - q: 在波爾圖的葡萄酒酒莊住宿，eSIM訊號是否足夠線上支付？
+      a: 加亞新城的多數酒莊（如泰勒酒莊）有良好覆蓋，eSIM連線穩定，使用MB Way或信用卡App支付流暢。但在酒窖深處可能無訊號，建議在室外區域完成支付。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 葡萄牙 旅遊景點的網路：葡萄牙 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Belém Tower, Pena Palace, Jerónimos Monastery spontaneously,
-        you can use your Portugal eSIM data to buy skip-the-line tickets online and
-        present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Portugal eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Portugal.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Portugal eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Portugal eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Portugal eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Portugal eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Portugal eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Portugal eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Portugal eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Portugal eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Uber Eats, Glovo, Bolt Food, register using
-        your email or social accounts, and order food seamlessly using your Portugal
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Multibanco,
-        MB Way, Visa/Mastercard require a brief internet handshake, which your Portugal
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Portugal eSIM to find hidden culinary gems in the city.
+    - q: 參觀貝倫塔時，使用eSIM即時分享照片方便嗎？
+      a: 貝倫塔周圍的NOS 5G覆蓋良好，下載速度約40-60 Mbps，上傳照片至社群媒體約2-4秒。現場人潮多時，上傳速度可能稍降，但仍可接受。建議在排隊時進行上傳，以免浪費遊玩時間。
+    - q: 在路易一世大橋上使用eSIM導航，定位準確嗎？
+      a: 波爾圖的路易一世大橋上，GPS訊號良好，Google地圖定位誤差小於5公尺。橋上風大時不建議長時間使用手機，但短暫查看路線無妨。若從橋上走向加亞新城，訊號持續穩定。
+    - q: 在佩納宮花園內，eSIM訊號能支持拍照後即時上傳嗎？
+      a: 佩納宮花園內的部分區域（如高塔下方）有MEO的4G覆蓋，上傳照片約5-8秒。但在茂密樹林處（如仙女泉附近），訊號可能降至1格。建議在開闊廣場上傳，以免中斷。
+    - q: 在里斯本商業廣場使用eSIM播放音樂串流，會卡頓嗎？
+      a: 商業廣場是露天區域，Vodafone 4G/5G訊號強勁，播放Apple Music或Spotify高品質音樂無緩衝。即使在午間高峰，下載速度仍維持30
+        Mbps以上。可放心邊逛邊聽。
+    - q: 在法魯舊城區拍照，使用eSIM上傳到雲端硬碟速度快嗎？
+      a: 法魯舊城區（如主教座堂附近）有NOS 4G訊號，上傳10MB照片約需5-8秒。若在市政廣場，速度更快。建議使用Google相簿備份，設定為僅WiFi備份，但若想即時備份，eSIM也足夠。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 葡萄牙 eSIM 在 葡萄牙 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Portugal eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Portugal eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Portugal eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Portugal
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Portugal eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Portugal eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Portugal eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在葡萄牙使用eSIM，能否順暢刷TikTok和Instagram Reels？
+      a: 可以，葡萄牙的4G/5G網路普遍流暢，中等畫質的短影片無需等待載入。在里斯本或波爾圖，播放1080p Reels完全順暢。但在山區或海邊偏遠小鎮，可能卡頓。建議預先緩存一些內容。
+    - q: 使用WhatsApp與台灣家人視訊通話，清晰度與延遲如何？
+      a: 在里斯本或波爾圖，使用NOS網路進行WhatsApp視訊通話，延遲約100-200ms，畫質1080p清晰。若在信號較弱處，可能自動降為720p。建議在穩定訊號下通話。
+    - q: 在葡萄牙使用Meta社群App（Facebook、Messenger）傳送照片快嗎？
+      a: 傳送一張5MB照片約需3-5秒，使用NOS或MEO網路皆如此。在高速公路沿線的郊區，速度可能降至10-15 Mbps，但仍可順利傳送。若發現異常緩慢，可切換運營商。
+    - q: 在葡萄牙上傳YouTube影片到頻道，eSIM的流量夠嗎？
+      a: 建議使用飯店WiFi上傳大型影片，以免耗盡流量。但若使用eSIM，上傳1080p 10分鐘影片約消耗2-3GB，確保套餐有足夠餘額。上傳速度在30
+        Mbps時約需5-10分鐘。
+    - q: 在葡萄牙用eSIM玩手機遊戲（如傳說對決），延遲高嗎？
+      a: 在里斯本市中心，連接到Vodafone的5G網路，延遲約20-40ms，遊戲順暢。但若連接到MEO或NOS（非5G），延遲可能升至50-70ms。建議選擇5G覆蓋好的區域遊玩。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 葡萄牙 使用 葡萄牙 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Portugal, you can dial local emergency numbers like 112 directly from
-        your phone's dialer regardless of your active SIM, as long as your phone can
-        catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Portugal eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Portugal eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Portugal eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Portugal eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Portugal eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Portugal eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Portugal eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Portugal eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Portugal eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Portugal eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Portugal eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Portugal eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在葡萄牙撥打112會優先使用哪個網路？需要額外付費嗎？
+      a: 在葡萄牙，即使您沒有SIM卡或餘額，所有手機都可撥打112。使用eSIM時，手機仍會強制連接到任何可用網路（即使不是您的電信商）進行緊急通話，完全免費。請放心，無需擔心餘額。
+    - q: 如果eSIM突然無法使用，如何在里斯本找到WiFi求救？
+      a: 里斯本許多公共場所提供免費WiFi，如Câmara Municipal de Lisboa的「LISBOA ABERTA」，或者星巴克、麥當勞。您也可以就近進入地鐵站，部分車站有公共WiFi。若在深夜，可尋找有開放WiFi的旅館大廳。
+    - q: 在波爾圖遇到扒手後手機被盜，如何透過eSIM服務商緊急掛失？
+      a: 立即撥打您eSIM服務商的客服電話，或在另一裝置登入帳戶（使用電腦或朋友的WiFi）暫停服務。同時，您可撥打112報案。請記下SIM卡的ICCID（通常在啟用郵件中），以利服務商封鎖。
+    - q: 在法魯海灘受傷，撥打112後如何確保救護車找到精確位置？
+      a: 使用eSIM的GPS提供精準經緯度，您可直接告知接線員。法魯海灘有多個救生員站（編號1-10），告知您附近的編號可加速救援。請保持手機電量充足，至少剩餘20%以上。
+    - q: 在葡萄牙山區健行時eSIM無訊號，有哪些應急通訊方式？
+      a: 山區（如辛特拉或佩內達）可能無覆蓋，建議攜帶衛星電話或下載離線地圖。若無訊號，可嘗試登高找到開闊處，或尋找當地民宅借用電話。也可使用手機的SOS功能（若支援衛星）。
+    - q: eSIM啟用失敗，無法上網也無法撥打緊急電話時該怎麼辦？
+      a: 首先確認手機是否已安裝描述檔並開啟數據漫遊。若仍失敗，可連機場或飯店WiFi聯絡客服重新發送QR碼。若無法連任何WiFi，可詢問當地人協助撥打服務商電話。建議出國前備份eSIM啟用碼。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 葡萄牙 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Portugal eSIM vs Local SIM Card: Which One Saves You More?"
-  subtitle: "Portugal Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Portugal) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Portugal"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Portugal eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "MEO's Connected Holidays tourist SIM is only sold in a few stores; Vodafone stores require in-person purchase."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip MEO's limited store availability and Vodafone queues. Activate your Roami eSIM online within 1 minute after landing in Lisbon."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, Portugal does not require passport registration for prepaid SIMs."
-      esim_title: "No Passport Required"
-      esim_desc: "Portugal prepaid SIMs don't require registration, but eSIMs offer even more privacy. No need to show ID or fill forms."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Vodafone prepaid EU roaming is subject to FUP; Lyca Mobile's 30GB plan offers only 21GB in the EU (30% reduction). Vodafone Go and NOS Kanguru data cards explicitly prohibit international roaming."
-      esim_title: "Full EU Roaming Included"
-      esim_desc: "Unlike Vodafone Go and NOS Kanguru which block roaming, or Lyca Mobile which reduces 30GB to 21GB in the EU, Roami eSIM provides full-speed data across Portugal and the EU without FUP restrictions."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "MEO's weekly plan costs €3.50 for 1GB (7 days); Vodafone's 28-day plan costs €20 for 5GB. A 5-day tourist buying Vodafone's €20/28-day plan wastes over 80% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Avoid MEO's €14.99/15-day rigid plan or Vodafone's €20/28-day plan that wastes over 80% for a 5-day trip. Roami offers 7-day plans starting from $1.99/GB, saving you money."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Lyca Mobile explicitly bans tethering/hotspot sharing."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike Lyca Mobile which bans hotspot sharing, Roami eSIM allows tethering on all devices, perfect for sharing with laptops or tablets."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "MEO and NOS do not accept international credit cards or PayPal for top-ups. Vodafone only allows international credit cards after 3 months of card issuance. NOS charges €0.50 fee per top-up at Payshop."
-      esim_title: "Global Payment Methods"
-      esim_desc: "No need to find Payshop or deal with MEO's card restrictions. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal for instant top-up."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is primarily in Portuguese, with limited English availability."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get help in English anytime via live chat or email, unlike local operators which primarily offer Portuguese support."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Portugal eSIM vs SIM Card: The Complete Comparison Guide"
-    cards:
-      - icon: "globe"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Full EU Roaming Without FUP Cuts"
-        desc: "Vodafone Go and NOS Kanguru data cards <b>prohibit international roaming</b>. Lyca Mobile's 30GB plan offers only <b>21GB in the EU (30% reduction)</b>. Roami eSIM provides full-speed data across Portugal and the EU."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "No Passport or Registration Needed"
-        desc: "Portugal prepaid SIMs don't require registration, but eSIMs offer even more convenience. No need to show ID or fill forms."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payments, No Local Hassles"
-        desc: "MEO and NOS <b>do not accept international credit cards</b> or PayPal. Vodafone only allows cards held for <b>3+ months</b>. NOS charges <b>€0.50 fee</b> per Payshop top-up. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
-      - icon: "signal-cellular-alt"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Best Network Coverage"
-        desc: "MEO has <b>40% market share</b> and best coverage; Vodafone has fastest speeds. Roami eSIM connects to the strongest local network automatically, ensuring reliable connectivity across Portugal."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

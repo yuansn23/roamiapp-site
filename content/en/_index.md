@@ -1,6 +1,8 @@
 ---
-title: "Instant Global eSIM:High-Speed 5G"
+title: "Global Travel eSIM: High-Speed 5G"
+date: '2026-05-18T14:41:24+00:00'
 description: "Roami offers high-speed 5G prepaid eSIM in 200+ countries and regions – no physical SIM card needed, plans starting at just $1.99. Use promo code web20 to get an extra 20% off. Download the Roami App now."
+
 
 button:
   default: "Get 20% Discount"

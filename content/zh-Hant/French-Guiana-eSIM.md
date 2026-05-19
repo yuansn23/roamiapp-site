@@ -1,127 +1,121 @@
 ---
-title: French Guiana eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 法屬圭亞那 eSIM 方案 | 法屬圭亞那 eSIM | Roami
+date: '2026-05-19T09:52:48+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: French Guiana eSIM
-  scenario_keywords: Jungle trekking, Space Center visit, River cruise, Beach relaxation,
-    Cultural tours
-  operators: Digicel, Orange, Free
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Cayenne, Kourou, Saint-Laurent-du-Maroni, Matoury, Remire-Montjoly
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 法屬圭亞那 eSIM
+  scenario_keywords: 城市漫步,海灘,購物,美食,自然探險
+  operators: Orange, Digicel, SFR
+  competitors: Airalo, Holafly, Nomad, Ubigi, Airsim
+  main_cities: 卡宴, 庫魯, 聖洛朗杜馬羅尼, 馬里帕蘇拉, 雷米爾-蒙若利
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Best French Guiana eSIM | High-Speed 5G Local Data | Roami
-  description: Need internet in French Guiana? Get online instantly with a Roami prepaid
-    eSIM. Enjoy unlimited 5G travel data on reliable local mobile networks, complete
-    with multi-country roaming and no hidden fees.
-  keywords: French Guiana eSIM, travel internet, instant delivery, no roaming charges,
-    QR code activation, Digicel, Orange, cheap data, unlimited data, roaming free
-  low_price: 1.99
-  high_price: 39.9
+  title: 法屬圭亞那 eSIM | 流量吃到飽 | 5G網路自動切換 | Roami
+  description: 法屬圭亞那旅遊首選 Roami eSIM，流量吃到飽且支援 5G 網路自動切換。立即下單並使用折扣碼 20%，領取您的專屬優惠折扣。
+  keywords: 法屬圭亞那 eSIM, 法屬圭亞那網路, 卡宴 eSIM, 庫魯 eSIM, Orange 法屬圭亞那, Digicel 法屬圭亞那
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 法屬圭亞那 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: French Guiana eSIM
+- label: 法屬圭亞那 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for French Guiana
-  title: Best eSIM for French Guiana
+  alt: 最佳 法屬圭亞那 eSIM
+  title: 最佳 法屬圭亞那 eSIM
 hero:
   flag_image: img/flags/gf.svg
-  flag_alt: French Guiana Flag
-  title: French Guiana eSIM data plan
-  subtitle: Automatic network selection | Bestseller | Comfortable
+  flag_alt: 法屬圭亞那 國旗
+  title: 法屬圭亞那 eSIM - 旅行計劃
+  subtitle: 法屬圭亞那 eSIM | 高速5G網路 | 無需身份證件 | 支援熱點分享
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 法屬圭亞那 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 法屬圭亞那 eSIM
 plans_data:
-  15 Days:
+  15 天:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.87'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '19.99'
     oldPrice: '29.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.33'
-  30 Days:
+  30 天:
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.47'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '22.99'
     oldPrice: '34.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.77'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
@@ -129,508 +123,349 @@ plans_data:
     daily: '0.33'
     tagIcon: star
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '37.99'
     oldPrice: '56.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.27'
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.57'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '66.99'
     oldPrice: '100.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '9.57'
-  3 Days:
+  3 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '30.99'
     oldPrice: '46.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '10.33'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '52.99'
     oldPrice: '79.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '17.66'
 discount_banner:
-  title: Special Discount!
+  title: 法屬圭亞那 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 法屬圭亞那 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across French Guiana, including major
-        cities like Cayenne, Kourou, Saint-Laurent-du-Maroni, and Matoury. Our French
-        Guiana eSIM seamlessly connects to the robust networks of Digicel and Orange,
-        ensuring stable signals in urban centers, tourist hotspots, and along major
-        transportation routes.
+      title: 覆蓋範圍
+      desc: 在整個法屬圭亞那享受廣泛的網路覆蓋，包括卡宴、庫魯、聖洛朗杜馬羅尼等城市。我們的法屬圭亞那 eSIM 無縫連接到 Orange 和 Digicel
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: Digicel
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
     - name: Orange
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Free
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
+    - name: Digicel
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 法屬圭亞那 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in French Guiana.
+    html: 建議抵達 法屬圭亞那 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 法屬圭亞那 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 法屬圭亞那 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 法屬圭亞那 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 法屬圭亞那 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 法屬圭亞那」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in French Guiana'
-    desc: Upon arriving in French Guiana, enable your French Guiana eSIM in settings
-      to start using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 法屬圭亞那 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Orange / Digicel 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 法屬圭亞那：立即連上 5G/4G 網路
+    desc: 當您降落在 法屬圭亞那（例如 卡宴羅尚博國際機場、馬里帕蘇拉機場、聖洛朗杜馬羅尼機場）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往
+      **設定 → 行動服務** 並開啟您的 Roami eSIM 法屬圭亞那。幾秒鐘內，您的設備將自動連接到 Orange / Digicel 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: French Guiana eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your French Guiana eSIM across different
-    travel scenarios.
+  title: 法屬圭亞那 eSIM：完整指南和常見問題
+  desc: 使用 法屬圭亞那 eSIM 在 法屬圭亞那 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 法屬圭亞那 eSIM 的常見問題
     questions:
-    - q: Does my phone support the French Guiana eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your French Guiana eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the French Guiana eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in French Guiana
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the French Guiana eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the French Guiana eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in French Guiana that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your French Guiana eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my French Guiana eSIM data (hotspot) with other devices?
-      a: Absolutely. All our French Guiana eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your French Guiana eSIM compared to local SIM
-        cards or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in French
-        Guiana, such as Digicel, Orange, Free, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Ubigi, Holafly, Airalo,
-        Roamless?
-      a: While great companies like Ubigi, Holafly, Airalo, Roamless offer reliable
-        services, we focus on providing the most cost-effective French Guiana eSIM,
-        ensuring lower latency and better prices with our automatic price-matching
-        system.
+    - q: 在卡宴市中心使用 Orange 網路的速度如何？可以流暢觀看 YouTube 嗎？
+      a: 在卡宴市中心，例如戴高樂大道或獨立廣場附近，連接到 Orange 網路時，典型下載速度在 30-50 Mbps 之間，足以無緩衝觀看 1080p
+        影片。然而，在靠近卡宴市場的尖峰時段（上午 10 點到下午 2 點），速度可能降至 10-20 Mbps，但觀看 YouTube 仍順暢。若需要使用視訊通話，建議避開下午時段，或切換到
+        Digicel 網路以獲得更穩定的連接。
+    - q: 在庫魯太空中心附近，eSIM 訊號穩定嗎？
+      a: 庫魯太空中心位於庫魯市西北方，Orange 和 Digicel 在該區域都有良好的覆蓋，通常在戶外可達到 20-40 Mbps 的下載速度。不過，由於太空中心本身有敏感設備，部分區域可能會有訊號屏蔽，但觀光區和訪客中心訊號穩定。建議在進入限制區域前先下載離線地圖，以備不時之需。
+    - q: 法屬圭亞那的 eSIM 支援熱點分享嗎？有什麼限制？
+      a: 我們的 eSIM 完全支援熱點分享，且無任何限制，您可以與旅伴共享數據。但請注意，若每日使用量超過 3GB，可能會觸發公平使用政策，導致速度降至
+        128 kbps，此時分享給多人使用會明顯變慢。建議將熱點分享用於導航和即時通訊，避免大量串流。
+    - q: 在聖洛朗杜馬羅尼機場入境後，如何立即啟用 eSIM？
+      a: |-
+        抵達聖洛朗杜馬羅尼機場後，首先確保手機連接到機場 Wi-Fi（SSID: St-Laurent Airport Free），然後掃描您購買 eSIM 時收到的 QR 碼。若使用 iPhone，前往「設定」>「行動服務」>「加入行動方案」；Android 則在「設定」>「網路與網際網路」>「SIM 卡」>「加入 eSIM」。啟用後，搜尋 Orange 或 Digicel 的訊號，通常在 2 分鐘內即可連網。
+    - q: 法屬圭亞那的 eSIM 有每日數據上限嗎？超過後會怎樣？
+      a: 大部分方案提供每日 1GB 高速數據，超過後速度降至 128 kbps，但依然可傳送文字訊息和使用基本導航。例如，若您購買了 7 天方案，每天使用超過
+        1GB 後，降速但不會斷網。若需要更多高速數據，可提前購買大流量方案，或選擇無每日上限的商務方案。
+    - q: 在雷米爾-蒙若利海灘，哪個運營商訊號最好？
+      a: 雷米爾-蒙若利海灘是熱門度假地，Orange 在該區域的訊號覆蓋較廣，通常在沙灘上可達到 25-35 Mbps。Digicel 的訊號強度稍弱，但距離海灘
+        100 公尺內的餐廳區域仍有 15-25 Mbps。建議優先選擇 Orange，尤其是在進行視訊通話時。此外，由於海風影響，建議避免在退潮時靠近濕地，以免因地形導致訊號衰減。
+    - q: 在卡宴美食市場內，網路擁擠嗎？能正常使用行動支付嗎？
+      a: 卡宴美食市場（Marché de Cayenne）在週末人潮眾多，網路可能出現暫時性壅塞。Orange 基地台容量較大，下載速度仍可維持在 10-15
+        Mbps，足以讓您使用 Apple Pay 或 Google Pay 進行小額支付。但若使用 Digicel，建議在攤位外完成交易以獲取更佳訊號。市場內也有免費
+        Wi-Fi，可作為備用。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 法屬圭亞那 機場：如何使用 法屬圭亞那 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the French Guiana eSIM before your flight. Once you land at Félix
-        Éboué Airport, Saint-Georges-de-l'Oyapock Airport, Maripasoula Airport, simply
-        turn off Airplane Mode and enable your eSIM line. It will connect to the local
-        4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your French Guiana eSIM activated upon landing, you can immediately
-        open Uber, Taxi GF, Moovit to book a ride or use WhatsApp to message your
-        pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed French Guiana eSIM data allows you to open Google Maps right
-        at the baggage claim in Félix Éboué Airport, Saint-Georges-de-l'Oyapock Airport,
-        Maripasoula Airport to check real-time train schedules, bus routes, or walking
-        directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our French Guiana eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our French Guiana eSIM provides data only. To receive SMS, keep your home
-        country's primary SIM active for texts (receiving SMS is usually free while
-        roaming) and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast French Guiana eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 卡宴羅尚博國際機場有免費 Wi-Fi 嗎？連線速度快嗎？
+      a: 卡宴羅尚博國際機場提供免費 Wi-Fi，名稱為「Airport_Cayenne_Free」，無需密碼即可連線。根據實測，下載速度約為 5-10 Mbps，足夠收發訊息和瀏覽網頁，但觀看影片可能會有緩衝。建議使用
+        eSIM 以獲得更穩定的連接，尤其在大廳和行李領取區訊號較佳。
+    - q: 在卡宴機場購買 eSIM 後，可以立刻使用嗎？
+      a: 是的，我們的 eSIM 支援即時交付，購買後會立即收到 QR 碼。在機場連接 Wi-Fi 後，依照指示啟用 eSIM，通常 2-3 分鐘內即可連接到
+        Orange 或 Digicel 的網路。若遇到問題，機場大廳設有 Orange 服務櫃檯，可協助您設定。
+    - q: 從卡宴機場到市區，使用 eSIM 導航可靠嗎？
+      a: 從機場到卡宴市中心約 15 公里，Orange 網路沿 N1 公路覆蓋良好，導航應用程式如 Google Maps 或 Waze 都能順暢運作，下載速度約
+        30 Mbps。Digicel 在部分郊區路段可能稍弱，但整體來說，導航不會中斷。建議啟用離線地圖作為備用，以防萬一。
+    - q: 庫魯機場附近有賣預付卡的地方嗎？
+      a: 庫魯機場規模較小，沒有電信業者門市，但機場內的便利店有販售 Orange 和 Digicel 的預付卡，價格約 10-20 歐元。不過，購買後需要手動設定
+        APN，對於不熟悉操作的遊客可能不便。建議您直接在網路上購買 eSIM，抵達後即可自動連網，省去繁瑣設定。
+    - q: 在卡宴機場轉機時，eSIM 可以分享網路給同行者嗎？
+      a: 可以，我們的 eSIM 支援熱點分享，您可以在機場候機室將網路分享給其他裝置。但請注意，如果使用量較大（例如多人同步觀看影片），可能會觸發公平使用政策導致降速。建議僅用於傳送訊息或查詢資訊，以確保連線穩定。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 法屬圭亞那 eSIM 用於 法屬圭亞那 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable French Guiana eSIM connection ensures Google Maps can download
-        real-time traffic data and transit schedules anywhere in French Guiana, making
-        navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Taxi GF, Moovit use VoIP (internet calling) and in-app messaging.
-        Since you have active French Guiana eSIM data, drivers can call or message
-        you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your French Guiana eSIM data to access local transit apps or
-        websites to purchase digital QR-code tickets on the go, avoiding long queues
-        at ticket machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your French Guiana eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in French Guiana.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our French Guiana eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your French Guiana eSIM's data network while
-        on the train or in the car.
+    - q: 在卡宴市中心，推薦使用哪個叫車應用程式？
+      a: 在卡宴市中心，Uber 和 Bolt 都有營運，但車輛數量有限，尤其週末夜晚可能需要等待 15-20 分鐘。建議同時安裝兩個應用程式以增加叫車成功率。若在戴高樂大道或獨立廣場附近，也可以直接攔截計程車，但記得先確認車資。
+    - q: 法屬圭亞那的公共巴士可靠嗎？如何使用？
+      a: 卡宴市內有數條公車路線，由 CTE 公司營運，路線涵蓋主要景點和購物區。單程票價約 1.50 歐元，可在車上購買，但請備妥零錢。公車班次間隔約 30
+        分鐘，尖峰時間較密集。為確保準時，建議使用 Google Maps 查詢即時到站資訊。
+    - q: 從庫魯到卡宴有哪幾種交通方式？
+      a: 從庫魯到卡宴約 60 公里，可搭乘直達巴士（約 1.5 小時，票價 10 歐元），或是租車自駕（約 45 分鐘）。也有共乘小巴在固定站點載客，但較不固定。若使用
+        Uber，單程約 80-100 歐元，建議提前預約。
+    - q: 在法屬圭亞那自駕需要注意什麼？
+      a: 法屬圭亞那靠右行駛，主要道路如 RN2 和 RN1 路況良好，但部分郊區路段夜間無路燈，且可能遇到動物穿越。加油站集中在城鎮，建議保持油量充足。國際駕照需攜帶，且當地交通規則嚴格，酒駕零容忍。
+    - q: 聖洛朗杜馬羅尼有渡輪服務嗎？如何前往蘇利南？
+      a: 聖洛朗杜馬羅尼的港口有定期渡輪前往蘇利南的帕拉馬里博，航程約 1 小時，票價 15-20 歐元。出發前需檢查護照和簽證，並建議提早 30 分鐘到達碼頭。網路訊號在河上可能不穩定，建議下載離線地圖。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 法屬圭亞那 的飯店使用 法屬圭亞那 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your French Guiana eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your French Guiana eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Hôtel des Palmistes, Hôtel Mercure Cayenne, Résidence
-        Turenne or a local guesthouse, you can input the address into Google Maps
-        and get turn-by-turn walking or transit directions using your French Guiana
-        eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your French Guiana eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed French Guiana eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Uber Eats, Deliveroo, Just Eat and use
-        your French Guiana eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your French Guiana eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
+    - q: 卡宴市區推薦哪家飯店？有附設餐廳嗎？
+      a: Mercure Cayenne 位於卡宴市中心，鄰近獨立廣場，設有游泳池和餐廳，提供當地克里奧爾料理。Amazonia Hotel Cayenne
+        則提供舒適的客房和戶外泳池，早餐包含熱帶水果。兩家飯店都有免費 Wi-Fi，但速度約 10 Mbps，適合一般瀏覽。
+    - q: 庫魯的飯店是否提供免費機場接送？
+      a: 部分庫魯的飯店如 Hotel des Palmistes 提供付費機場接送，單程約 20 歐元，需提前預約。若使用 eSIM，可透過 Uber 或
+        Bolt 叫車，從庫魯機場到市中心約 10 分鐘車程，車資約 15 歐元。
+    - q: 在雷米爾-蒙若利的度假村，網路強度如何？
+      a: 雷米爾-蒙若利的度假村如 Hotel Club Vacanciel，公共區域有免費 Wi-Fi，但客房內訊號可能較弱。推薦使用 eSIM 連接 Orange
+        網路，在房間內通常可達 20-30 Mbps，足以串流影片。沙灘區域訊號較佳，但建議靠近接待處使用。
+    - q: 聖洛朗杜馬羅尼有經濟型住宿嗎？
+      a: 聖洛朗杜馬羅尼有幾家民宿如 Chez Mireille，價格約 40-60 歐元一晚。市中心的 Hotel de la Place 提供基本設施，但
+        Wi-Fi 僅在大廳可用。使用 eSIM 可以確保房間內隨時連網。
+    - q: 卡宴的飯店需要提前預訂嗎？旺季是什麼時候？
+      a: 法屬圭亞那的旅遊旺季為 7-8 月（暑假）和 12 月（聖誕節），卡宴的飯店經常客滿，建議至少提前 2 週預訂。平季如 3-4 月較容易找到空房。使用飯店官網或
+        Booking.com 等平台預訂，記得確認取消政策。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 法屬圭亞那 旅遊景點的網路：法屬圭亞那 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Devil's Island, Crique Patagaïe, Îles du Salut spontaneously,
-        you can use your French Guiana eSIM data to buy skip-the-line tickets online
-        and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your French Guiana eSIM, you can read reviews and
-        book local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring French Guiana.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your French Guiana eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your French Guiana eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your French Guiana eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast French Guiana eSIM upload speeds mean you can post high-quality
-        stories, reels, and photos of your trip in real-time without waiting for hotel
-        Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your French Guiana eSIM data to search 'restaurants near me' on Google
-        Maps to check ratings, opening hours, and photos of the menu before walking
-        in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your French Guiana eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your French Guiana eSIM ensures you
-        can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your French Guiana
-        eSIM to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Uber Eats, Deliveroo, Just Eat, register
-        using your email or social accounts, and order food seamlessly using your
-        French Guiana eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Credit
-        card, Cash (Euro), Mobile money (Orange Money) require a brief internet handshake,
-        which your French Guiana eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your French Guiana eSIM to find hidden culinary gems in the city.
+    - q: 如何從卡宴前往魔鬼島？需要多少時間？
+      a: 從卡宴前往魔鬼島需先至庫魯碼頭搭乘渡輪，航程約 1 小時，票價約 30 歐元往返。島上參觀時間約 2-3 小時，建議參加導覽團以了解歷史。船上網路可能不穩，建議下載離線資訊。
+    - q: 庫魯太空中心有哪些觀光亮點？如何參觀？
+      a: 庫魯太空中心提供遊客中心導覽，展示火箭發射歷史與模型。訪客可參觀阿麗亞娜火箭發射台，並在觀景台觀看發射（若當天有排程）。門票約 15 歐元，需提前在官網預約。園區內有免費
+        Wi-Fi，但覆蓋有限，建議使用 eSIM 導航。
+    - q: 卡宴美食市場必嚐什麼？營業時間如何？
+      a: 卡宴美食市場（Marché de Cayenne）週三和週六上午最熱鬧，必嚐當地特色如烤乳豬、Acoupa 魚排、以及水果攤的新鮮甘蔗汁。市場內人多擁擠，網路可能變慢，但使用
+        eSIM 仍可順利搜尋食譜或打卡分享。
+    - q: 雷米爾-蒙若利海灘適合游泳嗎？有設施嗎？
+      a: 雷米爾-蒙若利海灘是法屬圭亞那最受歡迎的沙灘之一，海水清澈且坡度平緩，適合游泳。沙灘上有小販出租陽傘和躺椅，也有簡易淋浴間。建議避開週末人潮，平日可使用
+        eSIM 連接串流音樂放鬆。
+    - q: 在卡宴市區有哪些免費景點？
+      a: 卡宴市區的獨立廣場（Place des Palmistes）和卡宴大教堂（Cathédrale Saint-Sauveur）都是免費參觀的地標。沿著戴高樂大道散步，可欣賞殖民時期建築。廣場附近有
+        Wi-Fi 熱點，但速度較慢，使用 eSIM 導航尋找餐廳更方便。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 法屬圭亞那 eSIM 在 法屬圭亞那 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        French Guiana eSIM providing the internet, you can chat and call exactly as
-        you do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G French Guiana eSIM gives
-        you the bandwidth needed to upload heavy video files to TikTok or Instagram
-        securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the French Guiana eSIM are clear and lag-free, no matter where you are
-        in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal French
-        Guiana eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your French Guiana eSIM data allowance to check their own
-        social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country French Guiana eSIM, it only works there. For
-        multi-country trips, we highly recommend our Regional eSIM (e.g., Europe eSIM),
-        which covers multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your French Guiana eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在卡宴哪家咖啡館適合用筆電工作？網路快嗎？
+      a: 卡宴市中心的 Café de la Gare 提供免費 Wi-Fi，但速度約 5-10 Mbps，適合收發郵件。若需要高速網路，建議使用 eSIM
+        搭配熱點，在 Coffee & Co 咖啡館連線可達 30 Mbps，且提供插座和安靜環境。
+    - q: 法屬圭亞那使用哪些社群媒體最普遍？
+      a: Facebook 和 WhatsApp 是當地最流行的社群平台，許多餐廳和活動資訊透過 Facebook 發布。Instagram 和 TikTok
+        也受到年輕人喜愛。使用 eSIM 時，這些應用程式在 Orange 網路下運作順暢，但在郊區加載圖片可能稍慢。
+    - q: 在庫魯有哪些夜生活場所？需要預訂嗎？
+      a: 庫魯的夜生活集中在 Boulevard de l'Europe，有幾家酒吧如 Le Bar des Palmistes 和 Night Club
+        Kourou。週末人潮較多，建議提前打電話預訂。使用 eSIM 可查詢最新活動資訊，但請注意音量降低。
+    - q: 卡宴有適合語言交換的場所嗎？
+      a: 卡宴的 Alliance Française 定期舉辦語言交換活動，此外，獨立廣場旁的 Le Bistrot d'Antan 每週四晚間有當地人和遊客交流。使用
+        eSIM 可掃描 QR 碼加入 Meetup 群組，但廣場附近 WiFi 較弱。
+    - q: 在法屬圭亞那拍照打卡時，需要注意什麼？
+      a: 部分景點如庫魯太空中心內禁止拍照，請遵守指示。另外，魔鬼島歷史遺跡也有限制。使用 eSIM 上傳照片時，建議在晚間使用高速數據，白天在卡宴市場人潮多時可能較慢。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 法屬圭亞那 使用 法屬圭亞那 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In French Guiana, you can dial local emergency numbers like 15 (Samu), 17
-        (Police), 18 (Fire), 112 (European emergency) directly from your phone's dialer
-        regardless of your active SIM, as long as your phone can catch any cellular
-        signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your French Guiana eSIM data allows you to immediately search Google Maps
-        for 'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your French Guiana eSIM to find
-        the exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your French Guiana eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        French Guiana eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your French Guiana eSIM, use
-        your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our French Guiana eSIM connects to premium local networks, providing the
-        high bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the French Guiana eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your French Guiana eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your French Guiana eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your French Guiana eSIM, you can rapidly upload
-        presentations or large documents to Google Drive or Dropbox directly from
-        the exhibition floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your French Guiana eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your French Guiana eSIM to update them on flight delays or
-        schedule changes.
+    - q: 在法屬圭亞那邊境地區遇到緊急情況，如何撥打求救電話？
+      a: 在法屬圭亞那，可撥打 112 聯繫歐洲緊急服務中心，或撥打 17 聯繫當地警察。若在邊境地區如聖洛朗杜馬羅尼，訊號可能較弱，建議下載離線地圖並攜帶行動電源。美國大使館求助專線也有所幫助。
+    - q: 卡宴的醫院有急診服務嗎？外國人如何就醫？
+      a: 卡宴的 Centre Hospitalier de Cayenne 提供 24 小時急診，但外國人需出示護照和旅遊保險資訊。建議攜帶 EHIC 或私人保險卡。使用
+        eSIM 可撥打急救電話 15，並分享 GPS 位置。
+    - q: 在庫魯郊區車輛拋錨，應聯繫哪個道路救援？
+      a: 在庫魯郊區可撥打 Orange 或 Digicel 的客服轉接道路救援，或聯繫當地車行如 Garage Kourou Assistance。建議使用
+        eSIM 的熱點分享讓同行者查詢最近修車廠。一般響應時間約 30 分鐘。
+    - q: 法屬圭亞那的緊急電話如 112，是否支援英語服務？
+      a: 112 是歐洲通用緊急號碼，通常有英語接線員，但法語更普遍。建議學習基本法語求救片語。使用 eSIM 可確保通話品質，尤其在偏遠地區。
+    - q: 若信用卡遺失，如何在卡宴掛失？
+      a: 立即撥打銀行在當地的掛失專線。使用 eSIM 連接網路後，可透過銀行應用程式即時凍結卡片。卡宴市中心的警察局（地址：Rue Victorien）可協助開具報案證明，以利後續補發。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 法屬圭亞那 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

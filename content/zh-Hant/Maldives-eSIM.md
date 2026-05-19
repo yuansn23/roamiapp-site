@@ -1,105 +1,99 @@
 ---
-title: Maldives eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 馬爾地夫 eSIM 方案 | 馬爾地夫 eSIM | Roami
+date: '2026-05-19T10:41:13+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Maldives eSIM
-  scenario_keywords: Island hopping, snorkeling excursions, resort relaxation, diving
-    trips, Maldives sightseeing
-  operators: Dhiraagu, Ooredoo, Focus Infocom
+  core_keyword: 馬爾地夫 eSIM
+  scenario_keywords: 城市漫步, 海灘, 購物, 美食, 潛水
+  operators: Dhiraagu, Ooredoo, (無第三大運營商，但可提及 Wataniya，已與 Ooredoo 合併)
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Malé, Addu City, Fuvahmulah, Hithadhoo, Kulhudhuffushi
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_cities: 馬累, 阿杜市, 富瓦穆拉, 庫魯杜富士島, 維靈吉利
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Maldives eSIM | 20% OFF| Native 5G for Visiting Family|Roami
-  description: Explore Maldives with ease. Experience Unlimited Data and seamless
-    Full-Speed 5G from Top Local Carrier. Enjoy No Physical SIM and Multi-Country
-    Roaming, tailored for Business Trips.
-  keywords: Maldives eSIM, travel internet Maldives, eSIM Maldives, cheap eSIM, no
-    roaming charges, instant delivery, QR code activation
-  low_price: 1.99
-  high_price: 39.9
+  title: 馬爾地夫 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
+  description: 馬爾地夫度假必備 Roami eSIM，暢享最佳 5G 高速網路。現在購買並輸入折扣碼 20%，以最超值的優惠享受高品質的旅遊連線服務。
+  keywords: 馬爾地夫 eSIM, 馬爾地夫上網, 馬爾代夫旅遊, 馬爾地夫網路覆蓋, 馬爾地夫機場, 馬爾地夫度假村, 馬累, 馬爾地夫景點
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 馬爾地夫 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Maldives eSIM
+- label: 馬爾地夫 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Maldives
-  title: Best eSIM for Maldives
+  alt: 最佳 馬爾地夫 eSIM
+  title: 最佳 馬爾地夫 eSIM
 hero:
   flag_image: img/flags/mv.svg
-  flag_alt: Maldives Flag
-  title: Maldives eSIM data plan
-  subtitle: High-speed 5G network | Hotspot supported | No hidden fees
+  flag_alt: 馬爾地夫 國旗
+  title: 馬爾地夫 eSIM - 旅行計劃
+  subtitle: 馬爾地夫 eSIM | 100%退款保證 | 高速5G網路 | 支援熱點分享
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 馬爾地夫 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 馬爾地夫 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '14.99'
     oldPrice: '22.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.14'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '37.99'
     oldPrice: '56.98'
     tag: ''
     tagColor: bg-orange-500
     daily: '2.53'
     tagIcon: star
-  30 Days:
+  30 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
@@ -107,573 +101,370 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '64.99'
     oldPrice: '97.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.17'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '99.99'
     oldPrice: '149.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.33'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '165.99'
     oldPrice: '248.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '5.53'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '87.99'
     oldPrice: '131.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.93'
 discount_banner:
-  title: Special Discount!
+  title: 馬爾地夫 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 馬爾地夫 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Maldives, including major
-        cities like Malé, Addu City, Fuvahmulah, and Hithadhoo. Our Maldives eSIM
-        seamlessly connects to the robust networks of Dhiraagu and Ooredoo, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個 馬爾地夫 享受廣泛的網路覆蓋，包括 馬累、阿杜市、富瓦穆拉 等城市。我們的 馬爾地夫 eSIM 無縫連接到 Dhiraagu、Ooredoo
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
     - name: Dhiraagu
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Ooredoo
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Focus Infocom
-      coverage: Native IP
-      network: 4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 馬爾地夫 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Maldives.
+    html: 建議抵達 馬爾地夫 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 馬爾地夫 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 馬爾地夫 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 馬爾地夫 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 馬爾地夫 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 馬爾地夫」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Maldives'
-    desc: Upon arriving in Maldives, enable your Maldives eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 馬爾地夫 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Dhiraagu / Ooredoo 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 馬爾地夫：立即連上 5G/4G 網路
+    desc: 當您降落在 馬爾地夫（例如 維拉納國際機場（MLE）、甘島國際機場（GAN）、哈霓瑪阿都機場（HAQ））時，關閉飛航模式（或保持在飛航模式僅啟用
+      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 馬爾地夫。幾秒鐘內，您的設備將自動連接到 Dhiraagu / Ooredoo
+      提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Maldives eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Maldives eSIM across different
-    travel scenarios.
+  title: 馬爾地夫 eSIM：完整指南和常見問題
+  desc: 使用 馬爾地夫 eSIM 在 馬爾地夫 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 馬爾地夫 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Maldives eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Maldives eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Maldives eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Maldives
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Maldives eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Maldives eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Maldives that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Maldives eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Maldives eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Maldives eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Maldives eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Maldives,
-        such as Dhiraagu, Ooredoo, Focus Infocom, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, eSIM GO,
-        Airalo, Redtea Mobile?
-      a: While great companies like Holafly, eSIM GO, Airalo, Redtea Mobile offer
-        reliable services, we focus on providing the most cost-effective Maldives
-        eSIM, ensuring lower latency and better prices with our automatic price-matching
-        system.
+    - q: 在馬累市中心使用 Dhiraagu 網路上網速度如何？可以看 Netflix 影片嗎？
+      a: 在馬累市中心，例如 Majeedhee Magu 和 Boduthakurufaanu Magu 一帶，使用 Dhiraagu 的 4G/LTE
+        網路通常可以提供約 30-50 Mbps 的下載速度，足以流暢觀看 Netflix 的 Full HD 內容。不過在尖峰時段（晚上 7 點至 10
+        點），靠近 STO Trade Centre 等人流密集區域，速度可能降至 10-15 Mbps，但對於串流影片仍屬穩定。若使用 Ooredoo 網路，在馬累的覆蓋同樣良好，但
+        Dhiraagu 在偏遠環礁（如南阿里環礁）的覆蓋更為可靠。請注意，每日使用超過 2GB 後，部分預付方案可能會有速度限制，但維持在 2-5 Mbps
+        仍可滿足基本社群媒體使用。
+    - q: 在馬爾地夫度假島（如芙花芬島）上網路訊號強嗎？是否會斷線？
+      a: 在芙花芬島或倫格里島這樣的度假島上，網路訊號通常非常強，因為度假村自身會安裝訊號增強器，並與 Dhiraagu 或 Ooredoo 合作提供戶外全覆蓋。然而，在島嶼邊緣的沙灘或水屋區域，偶爾可能出現微弱訊號，特別是朝向印度洋的方向。建議手動切換到
+        Dhiraagu 的 4G 網路（設定中選擇），因為 Dhiraagu 在度假島擁有更多基地台。如果遇到訊號弱，可以移動到度假村的大廳或餐廳區域，通常訊號最強。整體來說，斷線情況罕見，但強烈風暴時可能短暫中斷。
+    - q: 在馬爾地夫出機場後如何立即連上網路？維拉納國際機場有免費 Wi-Fi 嗎？
+      a: 從維拉納國際機場（MLE）入境後，你可以在行李提領區或出口附近購買 Dhiraagu 或 Ooredoo 的實體 SIM 卡，但我們的 eSIM
+        更方便，購買後抵達即可自動連接。機場內提供免費 Wi-Fi（名為 'MLE Free Wi-Fi'），但速度有限（約 2-5 Mbps），且需要手機驗證碼（使用你的漫遊號碼或機場臨時號碼）。若希望落地即上網，建議事先安裝
+        eSIM，這樣一打開手機就能搜尋到 Dhiraagu 網路，無須排隊。請注意，機場區域的網路擁擠，尖峰時刻（如國際航班抵達時）可能較慢。
+    - q: 在馬爾地夫使用 eSIM 時，每日流量超過多少後會降速？公平使用政策的具體條件是什麼？
+      a: 我們的 馬爾地夫 eSIM 通常提供每日高速流量配額，常見為 1GB、2GB 或 5GB（取決於方案），超過後速度降至 128 kbps 至 256
+        kbps，足以發送文字訊息和低畫質圖片，但不適合觀看影片。公平使用政策允許你在 24 小時內使用高速流量，若用量超過配額，延遲較高的服務（如視訊通話）可能受到影響。由於
+        Dhiraagu 和 Ooredoo 在本地市場都實施類似的流量管理，建議在度假村等有 Wi-Fi 的地方盡量使用 Wi-Fi 節省配額。如果計畫大量串流，可選購更大的流量包。
+    - q: 在馬爾地夫偏遠的居民島（例如 Maafushi）上網速穩定嗎？可以進行視訊通話嗎？
+      a: 在 Maafushi 這類居民島，Dhiraagu 和 Ooredoo 都有基地台，白天網速通常穩定在 10-20 Mbps，足夠進行 WhatsApp
+        或 Zoom 視訊通話。不過在晚上 7 點至 9 點的高峰時段，當居民和遊客同時使用時，速度可能降至 3-5 Mbps，視訊通話仍可進行但可能出現輕微延遲。建議手動選擇信號較強的運營商（在設定中搜索網路並鎖定
+        Dhiraagu），因為 Dhiraagu 在居民島的投資較多。若身處島嶼邊緣（靠近海灘），訊號可能較弱，此時視訊通話建議暫停或移動至島中心。
+    - q: 在馬爾地夫使用 Ooredoo 網路玩《部落衝突》等線上遊戲，延遲高嗎？
+      a: 在馬累或度假島上使用 Ooredoo 的 4G 網路玩《部落衝突》，延遲通常在 30-60 毫秒，體驗順暢。然而，在較遠的環礁（如 Haa Alif
+        環礁）或使用 Ooredoo 的 3G 時，延遲可能上升到 100-150 毫秒，輕微卡頓但尚可接受。Dhiraagu 在遊戲連接穩定性上通常略勝一籌，因為其核心網路架構更低延遲。若你是重度遊戲玩家，建議在馬累或阿杜市等城市區域進行遊戲，並避免在尖峰時段（晚上
+        8-11 點）玩即時對戰遊戲。值得一提的是，馬爾地夫沒有本地遊戲伺服器，連線至新加坡或孟買的伺服器平均延遲約 60-90 毫秒。
+    - q: 在馬爾地夫群島之間移動時（例如搭乘快艇或水上飛機），網路會中斷嗎？
+      a: 搭乘快艇在島嶼之間移動時，通常仍可接收到 Dhiraagu 或 Ooredoo 的信號，因為許多航線沿線有離岸基地台，但速度會波動，可能降至 5-10
+        Mbps。在水上飛機飛行期間，起飛和降落時訊號穩定，但飛行高度超過 300 公尺後，基地台訊號會中斷，此時無法上網。建議在下載離線地圖後再搭機，並將手機切換至飛航模式以節省電量。若要接聽重要電話，可以告知司機或機長停靠島嶼時通知你。
+    - q: 在馬爾地夫註冊 eSIM 需要提供護照或當地稅號嗎？有沒有特別規定？
+      a: 在馬爾地夫，所有 eSIM 和預付卡都遵循運營商的身份驗證要求，通常需要提供護照掃描件或照片，但我們的 eSIM 提供線上註冊，你僅需在購買時上傳護照影像即可，無須當地稅號。根據馬爾地夫電信監管局規定，外國遊客可註冊使用
+        eSIM，效期與旅遊簽證一致（最長 30 天）。若通過本地運營商直接購買，他們可能要求你現場出示護照並填寫表格。請注意，一個護照號碼最多可註冊兩個門號。完成註冊後，eSIM
+        會立即啟動。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 馬爾地夫 機場：如何使用 馬爾地夫 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Maldives eSIM before your flight. Once you land at Velana International
-        Airport (MLE), Gan International Airport (GAN), Hanimaadhoo International
-        Airport (HAQ), simply turn off Airplane Mode and enable your eSIM line. It
-        will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Maldives eSIM activated upon landing, you can immediately open
-        Avas Ride, Maldives Transport, Ferry Maldives to book a ride or use WhatsApp
-        to message your pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Maldives eSIM data allows you to open Google Maps right at
-        the baggage claim in Velana International Airport (MLE), Gan International
-        Airport (GAN), Hanimaadhoo International Airport (HAQ) to check real-time
-        train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Maldives eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Maldives eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Maldives eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 從維拉納國際機場抵達後，如何快速換取當地貨幣 Rufiyaa？機場內有換錢所嗎？
+      a: 維拉納國際機場（MLE）的入境大廳有多家銀行和換錢櫃檯，例如 Bank of Maldives (BML) 和 State Bank of India，營業時間通常配合航班起降。建議比較匯率，機場匯率通常優於度假村但略遜於馬累市區。你也可以在機場的
+        ATM 使用國際提款卡直接提取 Rufiyaa，但需注意部分 ATM 可能收取手續費。若僅需小額現金支付交通費，換 50-100 美元等值 Rufiyaa
+        即足夠，因多數度假村和商店接受信用卡。
+    - q: 維拉納國際機場有 eSIM 專櫃嗎？還是必須在網上購買？
+      a: 目前維拉納國際機場內沒有專門的 eSIM 專櫃，但 Dhiraagu 和 Ooredoo 的實體店面在入境大廳提供實體 SIM 卡，他們可能協助設定
+        eSIM（若庫存有）。不過，為確保落地即用，建議在出發前在網上購買 eSIM，例如我們的產品。機場的電信櫃檯排隊時間約 15-30 分鐘，若你轉乘時間緊湊，預先購買
+        eSIM 更省時。此外，機場也有 SIM 卡自動販賣機，但僅販售實體卡。
+    - q: 從維拉納國際機場到馬累市區有哪些交通方式？費用大約多少？
+      a: 從維拉納國際機場到馬累市區主要有兩種方式：公共渡輪和快艇。公共渡輪是經濟選擇，每人約 10 Rufiyaa（約 0.65 美元），航程 15 分鐘，但班次間隔
+        30 分鐘，且運營時間為清晨 6 點至晚上 10 點。快艇則由私人營運，價格約 150-300 Rufiyaa（約 10-20 美元），可 24 小時服務，航程
+        10 分鐘。機場計程車到碼頭費用約 50 Rufiyaa，但多數人直接步行至渡輪碼頭。若攜帶大量行李，建議預訂快艇。
+    - q: 維拉納國際機場內有休息室嗎？可以使用龍騰卡或 Priority Pass 嗎？
+      a: 維拉納國際機場有兩個主要休息室：「Moonimaa Lounge」在國際航廈出發區，以及「Plaza Premium Lounge」在出境後區域。Moonimaa
+        Lounge 接受龍騰卡和 Priority Pass，提供簡單餐飲、淋浴設施，但空間不大。Plaza Premium Lounge 環境較好，提供熱食，同樣接受龍騰卡和
+        Priority Pass。兩者營業時間均配合航班，但午夜可能關閉。建議出發前確認 APP 顯示的開放時間。
+    - q: 維拉納國際機場有寄放行李的地方嗎？如果轉機時間長，可以出機場逛逛嗎？
+      a: 維拉納國際機場的國際入境大廳有付費行李寄存服務（Left Luggage），每件每天約 5-10 美元，可容納大型行李箱。由於機場位於單獨的島嶼（Hulhulé），出機場後需搭渡輪或快艇前往馬累市區，來回時間加上安檢排隊，建議轉機時間至少
+        4-5 小時才足夠。若時間充裕，可到馬累市區逛逛獨立廣場和當地市場。請注意，返回機場時需預留充足時間通過安檢，因為有時人潮較多。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 馬爾地夫 eSIM 用於 馬爾地夫 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Maldives eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Maldives, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Avas Ride, Maldives Transport, Ferry Maldives use VoIP (internet
-        calling) and in-app messaging. Since you have active Maldives eSIM data, drivers
-        can call or message you directly through the app without needing a local phone
-        number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Maldives eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Maldives eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Maldives.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Maldives eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Maldives eSIM's data network while on
-        the train or in the car.
+    - q: 在馬累市區，計程車起跳價多少？從 Boduthakurufaanu Magu 到人工沙灘大約多少錢？
+      a: 馬累的計程車起跳價為 20 Rufiyaa（約 1.3 美元），但通常司機直接喊價，短程（如 2 公里）約 30-50 Rufiyaa。從 Boduthakurufaanu
+        Magu（主要道路）到人工沙灘（Artificial Beach）距離約 1.5 公里，費用約 30-40 Rufiyaa。建議上車前確認價格，並使用手機
+        GPS 確保路線正確。若透過叫車 App（如 Avas Ride），價格透明且可用信用卡支付，避免議價困擾。
+    - q: 馬爾地夫居民島之間有公共渡輪嗎？如何查詢時刻表？
+      a: 是的，馬爾地夫有公共渡輪（MTCC）連接居民島，例如馬累機場島到 Maafushi、Dhiffushi 等。時刻表不固定，通常每天 1-2 班，可在
+        MTCC 官網或碼頭公告查詢。馬累的 Villingili 渡輪碼頭是主要出發點，前往 Maafushi 的船程約 1.5 小時，費用約 50 Rufiyaa。但公共渡輪班次少且易受天氣影響，若行程緊湊，建議預訂快艇（speedboat），費用較高但便捷。
+    - q: 在馬爾地夫租用機車或自行車遊覽居民島方便嗎？需要國際駕照嗎？
+      a: 在居民島如 Maafushi 或 Thulusdhoo，租用自行車（每天約 5-10 美元）或機車（每天約 15-25 美元）是探索島嶼的熱門方式，但島上道路狹窄，需注意行人。騎機車需要有效的國際駕照或當地許可，部分租車店可能接受護照複印件，但仍建議攜帶國際駕照以符合規定。馬累市區交通擁擠，不建議騎機車，可乘計程車。
+    - q: 從馬累到其他環礁（如阿里環礁）如何前往？可以搭飛機嗎？
+      a: 從馬累前往阿里環礁（South Ari Atoll）可搭乘水上飛機（約 25-30 分鐘，費用約 300-500 美元）或國內航班先到 Maamigili
+        機場（約 20 分鐘，約 150 美元），再轉快艇。多數度假村提供接送安排，費用通常包含在套裝行程中。水上飛機是體驗景觀的絕佳方式，但受天氣影響較大。若預算有限，可選公共渡輪但耗時（約
+        6-8 小時）。
+    - q: 在馬爾地夫使用 Avas Ride 叫車 App 安全嗎？可以提前預約嗎？
+      a: Avas Ride 是馬爾地夫主要的叫車 App，類似 Uber，在馬累和 Hulhumalé 地區服務良好，司機受過基本背景審查，車內有 GPS
+        追蹤，相對安全。App 允許即時叫車，也可預約 1 小時後的行程，但無法提前數天預約。建議使用信用卡支付以避免現金找零問題。在居民島，Avas Ride
+        可能無法使用，需依賴當地嘟嘟車或步行。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 馬爾地夫 的飯店使用 馬爾地夫 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Maldives eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Maldives eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Soneva Fushi, Conrad Maldives Rangali Island,
-        Four Seasons Resort Maldives at Landaa Giraavaru or a local guesthouse, you
-        can input the address into Google Maps and get turn-by-turn walking or transit
-        directions using your Maldives eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Maldives eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Maldives eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Cookly, Chefloka, MenuMaldives and use
-        your Maldives eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Maldives eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 入住馬爾地夫倫格里島康萊德酒店時，房間內提供免費 Wi-Fi 嗎？速度如何？
+      a: 康萊德酒店在倫格里島提供免費 Wi-Fi，覆蓋所有客房和公共區域，但速度取決於入住人數。客房內下載速度通常在 10-20 Mbps，足夠串流影音；水屋區域信號偶不穩定，建議靠近客廳窗戶。度假村提供有線網路轉接頭，用於連接筆電。為確保穩定，建議同時使用
+        eSIM 作為備份，因為度假村 Wi-Fi 在尖峰時段（晚間）可能擁堵。
+    - q: 在馬累市區的飯店（如馬爾地夫酒店）是否有免費 eSIM 或 SIM 卡提供？
+      a: 馬累市區的飯店（如馬爾地夫酒店或 Jen 酒店）通常不提供免費 eSIM，但前台可能協助購買 Dhiraagu 或 Ooredoo 的實體 SIM
+        卡。部分高級飯店提供備用手機，內含本地號碼，但需支付押金。建議自備 eSIM，因為飯店的 Wi-Fi 在晚上可能限速。此外，飯店大廳區域通常有免費
+        Wi-Fi，但房間內可能信號弱。
+    - q: 馬爾地夫度假村通常接受哪些支付方式？可以用 AliPay 或 WeChat Pay 嗎？
+      a: 多數馬爾地夫度假村接受 Visa、Mastercard 和 American Express 信用卡，以及現金（美元或 Rufiyaa）。中國支付方式如
+        AliPay 和 WeChat Pay 僅在少數度假村（如 Soneva Fushi）或馬累的商店接受，普及率低。建議攜帶國際信用卡並開通境外支付功能。在出發前通知銀行，避免卡片被鎖。若使用
+        eSIM，確保綁定信用卡以支付線上服務。
+    - q: 在馬爾地夫居民島（如 Maafushi）住宿時，房間內有插座嗎？電壓和插頭規格為何？
+      a: Maafushi 的民宿和賓館房間通常提供多個插座，電壓為 230V，50Hz，使用英標三孔插頭（Type G）。部分房間也提供萬用插座。若你的設備使用歐標或美標插頭，建議自備轉接頭。此外，有些較新的住宿提供
+        USB 充電孔。由於老舊建築偶爾停電，建議攜帶行動電源確保手機隨時有電。
+    - q: 在馬爾地夫度假村是否可以要求提供額外的枕頭或被子？需要付費嗎？
+      a: 幾乎所有馬爾地夫度假村都提供免費的額外枕頭、被子或毛巾，只需致電房務部門即可，通常在 15 分鐘內送達。部分高端度假村（如庫魯杜富士島的度假村）甚至提供枕頭選單，例如記憶枕或乳膠枕，無需額外付費。但在經濟型賓館（如居民島的
+        Guest House），可能需要小額付費（約 5 美元）或押金。建議 check-in 時即刻告知需求。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 馬爾地夫 旅遊景點的網路：馬爾地夫 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Maldives Underwater Restaurant (Ithaa), Banana Reef,
-        Male Fish Market spontaneously, you can use your Maldives eSIM data to buy
-        skip-the-line tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Maldives eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Maldives.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Maldives eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Maldives eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Maldives eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Maldives eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Maldives eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Maldives eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Maldives eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Maldives eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Cookly, Chefloka, MenuMaldives, register
-        using your email or social accounts, and order food seamlessly using your
-        Maldives eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like BML
-        Mobile+, Ooredoo Pay, Dhiraagu m-Faisa require a brief internet handshake,
-        which your Maldives eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Maldives eSIM to find hidden culinary gems in the city.
+    - q: 如何安排馬累市區半日遊？必去的景點有哪些？
+      a: 從馬累碼頭出發，步行即可抵達獨立廣場（Jumhooree Maidhaan），附近有蘇丹公園和星期五清真寺（Hukuru Miskiy），這些景點距離約
+        1 公里。隨後可前往馬爾地夫國家博物館（門票約 3 美元），了解當地歷史。最後到人工沙灘（Artificial Beach）放鬆，或到 Majeedhee
+        Magu 購物街買紀念品。全程約 3 小時，建議清晨或傍晚出發避開烈日。使用 eSIM 導航，確保不會迷路。
+    - q: 香蕉礁（Banana Reef）適合新手浮潛嗎？需要提前預訂嗎？
+      a: 香蕉礁位於北馬累環礁，是馬爾地夫最知名的浮潛和潛水點之一，水流溫和，水深 3-15 公尺，適合新手浮潛。建議透過度假村或當地潛水中心（如 Manta
+        Divers）預訂行程，費用約 50-80 美元（含裝備和午餐）。浮潛時可觀賞珊瑚和熱帶魚，但務必穿著救生衣並注意海流。最佳季節為 11 月至 4
+        月，能見度可達 30 公尺。
+    - q: 參觀馬爾地夫國家博物館要注意什麼？開放時間為何？
+      a: 博物館位於馬累的蘇丹公園內，開放時間為週日至週四 9:00-16:00，週五閉館，週六開放到15:00。門票費約 3 美元，可拍照但禁止使用閃光燈。館內展示了伊斯蘭時期的古物和蘇丹王座，但無空調，建議攜帶小風扇。博物館附近有咖啡館，可稍作休息。由於是政府機構，安檢較嚴格，背包需寄存。
+    - q: 在馬累的人工沙灘（Artificial Beach）附近有餐廳或小吃攤嗎？適合晚上去嗎？
+      a: 人工沙灘位於馬累東海岸，周圍有數家餐廳和咖啡館，例如 The Sea House 和 Shell Beans，供應本地菜餚和海鮮，價格約 10-20
+        美元。晚上沙灘有燈光，適合散步，但週末人較多。沙灘旁有小販售賣椰子水和冰淇淋，但沒有夜市攤位。建議下午 5 點後前往，享受日落景色。使用 eSIM
+        查詢即時營業狀態，避免撲空。
+    - q: 從馬累出發，當天來回可以造訪哪個居民島？交通方便嗎？
+      a: Maafushi 島是最受歡迎的一日遊島嶼，從馬累公共渡輪碼頭搭船約 1.5 小時，票價約 50 Rufiyaa；或搭快艇約 30 分鐘，費用約
+        250-400 Rufiyaa。島上有沙灘、紀念品店和潛水活動，適合半日或一日遊。出發時間建議早上 7:30 的公共渡輪，回程下午 3:30，可充分遊覽。記得攜帶防曬和水。若錯過公共渡輪，可搭快艇返回，但須提前預訂。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 馬爾地夫 eSIM 在 馬爾地夫 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Maldives eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Maldives eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Maldives eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Maldives
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Maldives eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Maldives eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Maldives eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在馬爾地夫使用 Facebook 和 Instagram 等社群媒體是否受到審查或封鎖？
+      a: 馬爾地夫並未正式封鎖 Facebook、Instagram 或 Twitter，但政府有時會要求電信商限制特定內容（例如反伊斯蘭的帖文）。正常使用不會遇到問題，但若發布攻擊政府或宗教的言論可能被舉報。使用
+        Dhiraagu 或 Ooredoo 網路連結這些平台速度流暢。建議用戶尊重當地文化，避免在社群媒體上討論敏感政治話題。
+    - q: 在馬爾地夫如何使用 WhatsApp 進行語音通話？需要加國際碼嗎？
+      a: WhatsApp 語音通話在馬爾地夫完全可用，且透過 eSIM 連接當地網路時，無需額外設定。無論是打給本地號碼（+960）或國際號碼，只要雙方都有網路即可。不過，若對方是固定電話，則需使用傳統電話應用或
+        Skype。建議在度假村內使用 Wi-Fi 進行 WhatsApp 通話以節省 eSIM 流量。若通話品質不佳，可切換至 4G 網路。
+    - q: 在馬爾地夫使用 TikTok 觀看影片會消耗大量流量嗎？是否有流量限制？
+      a: TikTok 影片每分鐘約消耗 10-30 MB，若每天觀看 1 小時，約需 600-1800 MB。我們的 eSIM 高速流量配額（如 2GB）可能不足以支持長時間觀看，建議在
+        Wi-Fi 環境下使用。Dhiraagu 和 Ooredoo 均未針對 TikTok 實施流量限制，但超過公平使用配額後會降速，屆時影片加載變慢。可在應用內設定「數據節省模式」降低消耗。
+    - q: 在馬爾地夫可以使用 Tinder 或其他交友軟體嗎？當地人的使用習慣如何？
+      a: Tinder 在馬爾地夫可正常下載和使用，但馬爾地夫是伊斯蘭國家，公開場合的親密行為不被鼓勵。Tinder 上的用戶多為外籍工作者或遊客，本地人較少使用。使用
+        eSIM 時，定位功能正常，但部分使用者可能使用虛擬定位。建議在度假島或居民島的旅遊區使用，並遵守當地禮儀。此外，部分交友軟體（如 Bumble）也可用。
+    - q: 在馬爾地夫觀看 YouTube 影片時，能否選擇 4K 解析度？需要很快的網速嗎？
+      a: 在馬累或度假島的 Dhiraagu 4G 網路上，若訊號良好（顯示為 LTE+），下載速度可達 40-60 Mbps，足以串流 4K 影片。但偏遠居民島或尖峰時段速度可能低於
+        20 Mbps，此時建議選擇 1080p。YouTube 會自動調整解析度，但手動鎖定 4K 可能導致緩衝。使用 Ooredoo 網路時，4K 體驗稍弱，建議連接
+        Wi-Fi。請注意，若每日流量超過配額，降速後無法觀看 4K。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 馬爾地夫 使用 馬爾地夫 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Maldives, you can dial local emergency numbers like 119 (Police), 102
-        (Ambulance), 118 (Fire) directly from your phone's dialer regardless of your
-        active SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Maldives eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Maldives eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Maldives eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Maldives eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Maldives eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Maldives eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Maldives eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Maldives eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Maldives eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Maldives eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Maldives eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Maldives eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在馬爾地夫遇到緊急狀況（如生病或意外），如何撥打救護車？接通後該說什麼？
+      a: 救護車號碼是 102，直接撥打即可接通緊急調度中心。接通後冷靜說明您的位置（例如度假島名稱、房間號碼或沙灘區），並描述病患狀況（如胸痛、溺水）。若在居民島，救護車可能
+        15-30 分鐘到達，但度假島通常有駐島醫生。建議同時聯繫度假村前台，他們能更快協調。在馬累市區，救護車反應較快，約 5-10 分鐘。
+    - q: 在馬爾地夫護照遺失或遭竊，該到哪裡報案？需要準備什麼文件？
+      a: 立即向最近的警察局報案，馬累主要警察局位於 Boduthakurufaanu Magu，24 小時開放。你需要攜帶護照複印件（若有）、身份證件（如駕照）以及
+        eSIM 購買證明（證明你的身份）。警方會開立遺失報告（Police Report），這是補辦旅行證件的必要文件。隨後聯繫所屬國的大使館或領事館（例如美國大使館在馬累），預約補發。記得保存
+        eSIM 以便與大使館溝通。
+    - q: 在馬爾地夫潛水時發生減壓病，最近的減壓艙在哪裡？如何求助？
+      a: 馬爾地夫主要的減壓艙位於馬累的 Indira Gandhi Memorial Hospital（IGMH）和庫魯杜富士島的 Hyperbaric
+        Chamber。潛水中心通常有應急電話，可直接聯繫醫院。若出現減壓病症狀（關節痛、頭暈），立即停止潛水並呼叫救護車（102）或潛水中心安排緊急運輸。度假村一般備有氧氣瓶和基本急救設備。建議購買包含潛水醫療運送的旅遊保險，並在潛水前確認最近減壓艙的位置。
+    - q: 在馬爾地夫遇到海嘯預警或惡劣天氣，應該如何應對？
+      a: 馬爾地夫有海嘯預警系統，度假村和居民島會透過揚聲器或簡訊發布警報。聽到警報後，立即往高處移動（例如飯店高層或島嶼最高點），並遠離海灘。低窪島嶼（如馬累）的避難所標示清楚。颶風或強風季節（5-11
+        月）應避免水上活動，並留意天氣預報。我們的 eSIM 可接收天氣推送，確保你獲得即時更新。請勿在警報解除前返回海灘。
+    - q: 在馬爾地夫緊急需要聯繫大使館，但手機快沒電，該怎麼辦？
+      a: 許多度假村和飯店提供緊急充電服務，可在前台借用充電器或請工作人員協助。馬累市區的咖啡館（如 The Coffee Club）提供插座。若無法充電，使用公共電話（需投幣或電話卡）撥打大使館號碼，或請路人幫忙撥打。建議隨身攜帶行動電源，並確保
+        eSIM 手機在低電量時關閉非必要應用以延長續航。大使館網站通常提供備用聯繫方式（如衛星電話）。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 馬爾地夫 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Maldives eSIM vs Prepaid SIM: Which Offers Better Value?"
-  subtitle: "Maldives Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Maldives) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Maldives"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Maldives eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Airport stores are closed from 23:00 to 07:00 and on Fridays from 11:00 to 14:00 for prayers; purchase requires filling a form and showing passport. Dhiraagu's tourist eSIM requires 48 hours advance application."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Dhiraagu airport store queues and avoid 23:00-07:00 closures. Activate online within 1 minute before landing, no passport or form needed."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Purchase requires filling a form and showing passport."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Dhiraagu and Ooredoo which require passport and form filling, Roami eSIM activates with just an email, saving 30 minutes of paperwork."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Physical SIMs are single-country local networks; they become invalid immediately upon leaving Maldives. No automatic roaming between the two networks."
-      esim_title: "Multi-Country Roaming"
-      esim_desc: "Physical SIMs die outside Maldives. Roami eSIM works in Sri Lanka, Dubai, and other transit countries, with plans starting at $3.99 for 7 days 300MB."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Dhiraagu tourist plans lock into 30 days (from $40); short-term options like 7 days 1GB cost MVR 75+ tax. All prices subject to at least 6% GST (up to 12% in tourist areas). Ooredoo 30-day 2GB is MVR 199+ tax."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Dhiraagu's 30-day tourist plan ($40) wastes 83% for a 5-day trip. Roami offers 7-day plans from $1.99/GB, saving up to 75% compared to MVR 75+ tax for 1GB."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market practice, both Dhiraagu and Ooredoo allow tethering but may throttle speeds after data cap."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike Ooredoo which may throttle after data cap. Share with up to 5 devices at 4G speeds."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Online top-up does not accept international credit cards; only local recharge vouchers are accepted, with higher tax in tourist areas."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local recharge vouchers that reject international cards."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market practice, customer support is available in local language and limited hours."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get instant help via live chat or email in English, unlike Dhiraagu's limited-hour local support. Average response time under 5 minutes."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Maldives eSIM vs Physical SIM: Travel, Cost, and Setup Compared"
-    cards:
-      - icon: "clock"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Avoid Airport Store Closures"
-        desc: "Dhiraagu airport store is closed <b>23:00-07:00</b> and <b>Fridays 11:00-14:00</b>. Roami eSIM is available 24/7 online, ready before you land."
-      - icon: "globe"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Multi-Country Roaming Without Extra Cost"
-        desc: "Physical SIMs are <b>single-country only</b>. Roami eSIM covers Maldives plus transit countries like Sri Lanka and Dubai, with plans from <b>$3.99/7 days</b>."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Better Coverage with Dual Network Access"
-        desc: "Physical SIMs lock to one network (Dhiraagu or Ooredoo). Roami eSIM can <b>auto-switch</b> to the strongest signal, covering <b>75-80% population</b> vs single operator's <b>60%</b>."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, PayPal"
-        desc: "Dhiraagu online top-up <b>rejects international credit cards</b>. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b> globally."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

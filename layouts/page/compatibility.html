@@ -321,9 +321,12 @@
     {{ with .Params.extended_faq }}
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 border-t border-slate-200 mt-8">
         <div class="bg-white rounded-xl border border-slate-200 p-6">
-            <h2 class="text-xl font-bold text-slate-900 mb-4 flex items-center gap-2">
-                <i data-lucide="message-circle-question" class="w-5 h-5 text-blue-600"></i> Часто задаваемые вопросы о eSIM-совместимости
-            </h2>
+         
+		 <h2 class="text-xl font-bold text-slate-900 mb-4 flex items-center gap-2">
+    <i data-lucide="message-circle-question" class="w-5 h-5 text-blue-600"></i> 
+    {{ i18n "faq_title2" }}
+</h2>
+
             <div class="divide-y divide-slate-100">
                 {{ range . }}
                 <div id="{{ .anchor }}" class="py-4 first:pt-0 scroll-mt-24">

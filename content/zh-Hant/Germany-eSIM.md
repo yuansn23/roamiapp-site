@@ -1,102 +1,96 @@
 ---
-title: Germany eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 德國 eSIM 方案 | 德國 eSIM | Roami
+date: '2026-05-19T10:32:04+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Germany eSIM
-  scenario_keywords: Berlin sightseeing, Bavarian Alps hiking, Rhine Valley cruise,
-    Oktoberfest Munich, Christmas market tour
-  operators: Deutsche Telekom, Vodafone, O2
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Berlin, Munich, Hamburg, Frankfurt, Cologne
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 德國 eSIM
+  scenario_keywords: 城市漫步、城堡之旅、河畔遊覽、購物、啤酒文化
+  operators: Telekom, Vodafone, O2
+  competitors: Airalo, Holafly, Nomad, BNESIM, Ubigi
+  main_cities: 柏林, 慕尼黑, 法蘭克福, 漢堡, 科隆
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Top Germany eSIM | 20% OFF | O2 Zero-Lag 5G | Roami
-  description: Heading to Germany soon? Stay connected via Telekom Zero-Lag 5G with
-    No Hidden Fees. Enjoy 24/7 Support and Seamless Coverage, tailored for Family
-    Vacations.
-  keywords: Germany eSIM, prepaid eSIM Germany, best eSIM for Germany, cheap eSIM
-    Germany, unlimited data Germany, travel eSIM Germany
-  low_price: 1.99
-  high_price: 39.9
+  title: 德國 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
+  description: 德國旅遊推薦 Roami eSIM，提供最佳 5G 高速網路與無限流量。立即選購並使用折扣碼 20%，開啟您的德國連線之旅。
+  keywords: 德國 eSIM,德國上網卡,德國網路覆蓋,柏林eSIM,慕尼黑eSIM,法蘭克福eSIM,德國行動網路
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 德國 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Germany eSIM
+- label: 德國 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Germany
-  title: Best eSIM for Germany
+  alt: 最佳 德國 eSIM
+  title: 最佳 德國 eSIM
 hero:
   flag_image: img/flags/de.svg
-  flag_alt: Germany Flag
-  title: Germany eSIM data plan
-  subtitle: Bestseller | Automatic network selection | No hidden fees
+  flag_alt: 德國 國旗
+  title: 德國 eSIM - 旅行計劃
+  subtitle: 德國 eSIM | 流量吃到飽 | 100%退款保證 | 無隱藏費用
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 德國 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 德國 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '2.99'
     oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.43'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '21.99'
     oldPrice: '32.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.14'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -104,57 +98,57 @@ plans_data:
     daily: '0.71'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '6.99'
     oldPrice: '10.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.43'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '17.99'
     oldPrice: '26.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.57'
-  30 Days:
+  30 天:
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '21.99'
     oldPrice: '32.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.73'
   - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '39.99'
     oldPrice: '59.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.33'
   - spec: 100GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.83'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '6.99'
     oldPrice: '10.48'
     tag: ''
@@ -162,57 +156,57 @@ plans_data:
     daily: '0.23'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '8.99'
     oldPrice: '13.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.30'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '13.99'
     oldPrice: '20.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.47'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '19.99'
     oldPrice: '29.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.67'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '70.99'
     oldPrice: '106.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.37'
-  15 Days:
+  15 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '42.99'
     oldPrice: '64.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '2.87'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '5.99'
     oldPrice: '8.98'
     tag: ''
@@ -220,49 +214,49 @@ plans_data:
     daily: '0.40'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '7.99'
     oldPrice: '11.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '12.99'
     oldPrice: '19.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.87'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '18.99'
     oldPrice: '28.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.27'
   - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '28.99'
     oldPrice: '43.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.93'
-  3 Days:
+  3 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '1.99'
     oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -270,561 +264,352 @@ plans_data:
     daily: '1.33'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '5.99'
     oldPrice: '8.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '9.99'
     oldPrice: '14.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.33'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '9.99'
     oldPrice: '14.98'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '3.33'
 discount_banner:
-  title: Special Discount!
+  title: 德國 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 德國 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Germany, including major cities
-        like Berlin, Munich, Hamburg, and Frankfurt. Our Germany eSIM seamlessly connects
-        to the robust networks of Deutsche Telekom, Vodafone, and O2, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個德國享受廣泛的網路覆蓋，包括柏林、慕尼黑、法蘭克福、漢堡等城市。我們的德國eSIM無縫連接到 Telekom、Vodafone、O2
+        的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付，安裝即可使用。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制，可與其他設備共享網路。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: Deutsche Telekom
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
+    - name: Telekom
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
     - name: Vodafone
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: O2
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 德國 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Germany.
+    html: 建議抵達 德國 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 德國 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 德國 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 德國 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 德國 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 德國」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Germany'
-    desc: Upon arriving in Germany, enable your Germany eSIM in settings to start
-      using data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 德國 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Telekom / Vodafone 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 德國：立即連上 5G/4G 網路
+    desc: 當您降落在 德國（例如 法蘭克福機場（FRA）、慕尼黑機場（MUC）、柏林勃蘭登堡機場（BER））時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往
+      **設定 → 行動服務** 並開啟您的 Roami eSIM 德國。幾秒鐘內，您的設備將自動連接到 Telekom / Vodafone 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Germany eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Germany eSIM across different
-    travel scenarios.
+  title: 德國 eSIM：完整指南和常見問題
+  desc: 使用 德國 eSIM 在 德國 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 德國 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Germany eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Germany eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Germany eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Germany
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Germany eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Germany eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Germany that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Germany eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Germany eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Germany eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Germany eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Germany,
-        such as Deutsche Telekom, Vodafone, O2, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, esim io,
-        Airalo, Roamless?
-      a: While great companies like Holafly, esim io, Airalo, Roamless offer reliable
-        services, we focus on providing the most cost-effective Germany eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在柏林市中心使用 Telekom 網路的 eSIM，實際下載速度大約是多少？
+      a: 在柏林市中心區域，例如勃蘭登堡門或亞歷山大廣場附近，連接到 Telekom 網路時，典型的下載速度約為 30-50 Mbps。這足以流暢觀看 1080p
+        影片和進行視訊通話。尖峰時段（如下午 6 點後）在熱門購物區庫達姆大街，速度可能降至 15-20 Mbps，但仍可正常使用社交媒體和導航。值得注意的是，Telekom
+        在德國擁有最廣泛的 5G 覆蓋，不過實際體驗可能因手機支援和所在建築物結構而略有差異。
+    - q: 使用 O2 網路在慕尼黑啤酒節會場上網順暢嗎？
+      a: 在慕尼黑啤酒節（Theresienwiese 場地）期間，大量用戶同時連接可能導致網路擁塞。連接到 O2 網路時，白天相對空閒時段速度約為 20-30
+        Mbps，但週末晚上人潮眾多時可能降至 5-10 Mbps，Instagram 動態加載較慢，發送照片可能需要幾秒鐘。建議避開高峰時段或提前下載離線地圖。如果必須實時分享內容，可考慮切換到
+        Vodafone 網路（手動選擇運營商），其在大型活動中的容量通常更穩定。
+    - q: 在法蘭克福機場使用 Vodafone 的 eSIM，落地後多久能連上網路？
+      a: 在法蘭克福機場（FRA）降落後，飛航模式關閉，手機通常會在 1-2 分鐘內自動註冊到 Vodafone 網路（若 eSIM 配置為預設）。如果沒有自動連接，可手動搜尋網路並選擇“Vodafone.de”。機場內的
+        4G/LTE 信號強勁，下載速度約為 40-60 Mbps，足以快速加載地圖或打車軟體。需要注意的是，若你從非歐盟國家抵達，手機可能需要額外漫遊設定，但
+        eSIM 已預先配置，只需確保數據漫遊已開啟。
+    - q: 在德國使用 eSIM 時，每天使用超過多少 GB 後會被降速？
+      a: 我們提供的德國 eSIM 通常包含每日高速流量配額，例如 1GB、2GB 或 5GB 後觸發降速。降速後速度通常限制為 256 Kbps 或 1
+        Mbps，足以收發文字訊息和瀏覽輕量網頁，但無法觀看影片。建議在高速流量用盡前關閉後台應用程式更新，或養成連接旅館 Wi-Fi 的習慣。例如，在柏林的咖啡廳，許多店家提供免費
+        Wi-Fi，可作為備用方案。請留意訂購時的條款，每日配額在歐洲時間 00:00 重置。
+    - q: 在德國新天鵝堡偏遠地區，eSIM 還能收到信號嗎？
+      a: 新天鵝堡位於巴伐利亞山區，周圍有森林和山谷，信號可能不如城市穩定。通常連接到 Telekom 或 Vodafone 網路時，在城堡附近區域（如馬車停靠點）可以收到
+        3G/4G 信號，下載速度約 5-15 Mbps。但進入城堡內部或徒步路線深處，信號可能中斷。建議提前離線下載慕尼黑至富森區域的 Google 地圖，並攜帶充電寶，因為搜尋信號會加速耗電。若發生緊急情況，112
+        通常即使在微弱信號下也能優先接通。
+    - q: 在德國可以將 eSIM 安裝在 iPhone 14 上並同時使用實體 SIM 卡嗎？
+      a: 是的，德國 eSIM 支援大部分現代手機，包括 iPhone 14 系列，您可以同時使用 eSIM（數據）和實體 SIM（通話/短信）。在 iPhone
+        的「行動服務」設定中，可將 eSIM 設為主要數據線路，而實體 SIM 用於語音。需注意，某些地區如與其他歐盟國家的組合可能涉及漫遊，但德國本地的雙卡使用無限制。建議在柏林泰格爾機場（TXL）更換後先測試網路，避免雙卡衝突導致無數據。
+    - q: 在德國使用 eSIM 進行視訊通話時，哪個運營商最穩定？
+      a: 根據用戶回饋，Telekom 在德國的延遲表現最優，平均 Ping 約 20-30 毫秒，非常適合 Zoom 或 FaceTime 視訊通話。Vodafone
+        在城市地區同樣穩定，但在郊區偶爾會有波動。如果在慕尼黑市中心或漢堡的辦公區進行通話，建議鎖定 Telekom 網路以獲得最佳體驗。若使用 O2，在連線繁忙時段可能出現音畫不同步，手動切換至
+        Telekom 可改善。此外，確保通話時遠離地下室或厚牆，並在設定中開啟“Wi-Fi 通話”備用。
+    - q: 在德國旅行期間，eSIM 如何與飯店 Wi-Fi 配合使用？
+      a: 為了節省高速流量，建議在飯店連接免費 Wi-Fi，並將手機設定為“Wi-Fi 優先”。例如，在慕尼黑的 Bayerischer Hof 飯店，其
+        Wi-Fi 覆蓋全樓且速度達 50 Mbps，此時 eSIM 數據會自動暫停。但注意，飯店 Wi-Fi 可能要求門戶認證（如輸入房間號），eSIM
+        仍可在後台保持待命，提供無縫切換。若離開飯店區域，記得關閉 Wi-Fi 以自動恢復 eSIM 數據。部分高級飯店如柏林的麗思卡爾頓提供免費高速 Wi-Fi，使用
+        VPN 時也相對流暢。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 德國 機場：如何使用 德國 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Germany eSIM before your flight. Once you land at Frankfurt Airport
-        (FRA), Munich Airport (MUC), Berlin Brandenburg Airport (BER), simply turn
-        off Airplane Mode and enable your eSIM line. It will connect to the local
-        4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Germany eSIM activated upon landing, you can immediately open DB
-        Navigator, Moovit, Free Now to book a ride or use WhatsApp to message your
-        pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Germany eSIM data allows you to open Google Maps right at
-        the baggage claim in Frankfurt Airport (FRA), Munich Airport (MUC), Berlin
-        Brandenburg Airport (BER) to check real-time train schedules, bus routes,
-        or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Germany eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Germany eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Germany eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 在法蘭克福機場（FRA）從抵達到連接網路，最快的方式是什麼？
+      a: 最佳方式是提前安裝 eSIM，落地後開啟數據漫遊，通常 1-2 分鐘內自動連接到網路。若未自動連接，可手動選擇“Telekom.de”或“Vodafone.de”。機場的
+        4G 信號覆蓋極佳，在 1 號航站樓抵達大廳，速度可達 60 Mbps。強烈建議在出發前下載好離線地圖和交通應用，以應對偶爾的網路延遲。
+    - q: 慕尼黑機場（MUC）提供免費 Wi-Fi 嗎？eSIM 用戶是否還需要它？
+      a: 是的，慕尼黑機場提供 30 分鐘免費 Wi-Fi，可通過電子郵件或簡訊驗證。不過，eSIM 用戶通常不需要，因為數據流量充足。但若需大量上傳或下載，免費
+        Wi-Fi（速度約 20 Mbps）可作為備用。注意，免費時段用完後需付費，而 eSIM 的數據套餐價格更優惠，因此建議以 eSIM 為主。
+    - q: 在柏林勃蘭登堡機場（BER）如何設定 eSIM 以獲取最佳覆蓋？
+      a: 抵達 BER 後，確保手機的數據漫遊已開啟，並在行動網路設定中優先選擇“Telekom.de”。該運營商在 BER 的 5G 覆蓋廣泛，在機場快軌車站附近下載速度可達
+        100 Mbps。如果遇到註冊問題，可重新啟動手機或手動搜尋運營商。建議將 eSIM 作為主要數據線路，並關閉實體 SIM 的數據功能，以避免衝突。
+    - q: 從法蘭克福機場（FRA）轉機到慕尼黑，eSIM 在不同城市間是否會自動切換？
+      a: 是的，eSIM 會自動跟隨您移動，無需手動設定。在法蘭克福到慕尼黑的 ICE 高鐵上，沿線覆蓋良好，大部分路段可保持 4G 連接。當列車經過鄉村地帶時，信號可能短暫中斷，但進入城市後會迅速恢復。建議在列車上預先下載需要離線觀看的內容，以備不時之需。
+    - q: 在德國機場購買當地 SIM 卡與使用 eSIM 相比，哪個更推薦？
+      a: 強烈推薦使用 eSIM。機場購買實體 SIM 卡（如 Telekom 或 Vodafone）需要排隊、出示護照，且套餐價格較高。eSIM 可在出發前購買，不僅價格更優，還能即時啟用。例如，在法蘭克福機場，排隊購買
+        SIM 卡可能耗時 30 分鐘以上，而 eSIM 在飛機降落時即可使用。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 德國 eSIM 用於 德國 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Germany eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Germany, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like DB Navigator, Moovit, Free Now use VoIP (internet calling) and
-        in-app messaging. Since you have active Germany eSIM data, drivers can call
-        or message you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Germany eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Germany eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Germany.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Germany eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Germany eSIM's data network while on
-        the train or in the car.
+    - q: 在柏林如何用 eSIM 搭配 Uber 叫車？信號是否穩定？
+      a: 柏林的 Uber 服務廣泛，特別是在市中心（如米特區）。使用 eSIM 時，Uber 應用加載迅速，通常連接到 Telekom 網路，響應時間在
+        1 秒內。但若前往較偏遠的區域（如潘科夫區），信號可能降至 3G，但仍可完成叫車。建議提前在熱點地區（如亞歷山大廣場）預約車輛，以確保網路順暢。
+    - q: 使用 DB Navigator 應用程式在德國火車上是否需要有穩定的網路？
+      a: 是的，DB Navigator 需要實時數據來查詢班次、月台變更和延遲信息。在 ICE 高鐵上，eSIM 沿線覆蓋良好，但經過隧道（如漢堡至柏林間的隧道）時會短暫中斷。建議在出發前下載離線時刻表，同時開啟應用的實時通知。在柏林中央車站等大型樞紐，網路速度可達
+        50 Mbps，應用反應極快。
+    - q: 在慕尼黑地鐵（U-Bahn）中 eSIM 的信號如何？能正常使用導航嗎？
+      a: 慕尼黑地鐵的 U1-U6 路線中，大部分地下車站（如瑪利亞廣場站）已覆蓋 4G 信號，但行駛在隧道中時可能中斷。使用 Telekom 或 Vodafone
+        的 eSIM，在車站月台可達到 20-30 Mbps，但列車行進時網頁加載較慢。對於導航，建議提前下載離線地圖，並在車站內更新路線信息。
+    - q: 在漢堡使用 Free Now 叫車時，eSIM 的定位準確嗎？
+      a: 漢堡的 Free Now 服務在市中心（市政廳廣場一帶）定位極快，eSIM 的 GPS 輔助數據（A-GPS）可將定位精度提升至 5 米內。但在易北河隧道或老城區的狹窄街道，信號可能受建築遮擋，導致定位延遲約
+        2-3 秒。建議在寬闊地點（如港口新城）叫車，避免因為定位不準而導致溝通困難。
+    - q: 在科隆使用 eSIM 搭乘電車（KVB）時，可以流暢觀看串流影片嗎？
+      a: 科隆的電車路線大多在地面行駛，沿線 4G 覆蓋良好。在早上通勤時段（8-9 點），使用 Telekom eSIM 可達到 30-40 Mbps，足以無緩衝觀看
+        1080p 影片。但經過來茵河大橋或進入某些地下段（如科隆中央車站的地下月台）時，信號會短暫下降。總體而言，應付日常社交媒體和影片瀏覽沒有問題。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 德國 的飯店使用 德國 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Germany eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Germany eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Hotel Adlon Kempinski, The Ritz-Carlton Berlin,
-        Bayerischer Hof Munich or a local guesthouse, you can input the address into
-        Google Maps and get turn-by-turn walking or transit directions using your
-        Germany eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Germany eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Germany eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Lieferando, Wolt, Flink and use your
-        Germany eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Germany eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 在柏林麗思卡爾頓飯店，eSIM 與飯店 Wi-Fi 相比哪個網路更快？
+      a: 柏林麗思卡爾頓飯店提供免費 Wi-Fi，速度約 50 Mbps，但 eSIM 連接到 Telekom 或 Vodafone 時，速度通常更高（60-80
+        Mbps）。此外，eSIM 沒有設備數量限制，更適合多設備用戶。不過，飯店 Wi-Fi 在房間內信號可能不穩定，而 eSIM 始終可靠。建議在飯店大堂使用
+        Wi-Fi，房間內則使用 eSIM 避免中斷。
+    - q: 在慕尼黑 Bayerischer Hof 飯店，eSIM 信號是否在所有房間都良好？
+      a: 這家豪華飯店位於市中心，eSIM 信號強勁，尤其是連接到 Telekom 的 5G 網路時。但部分老建築側的房間（如背向街道的房間）可能因牆壁較厚導致信號略降，速度仍維持在
+        20-30 Mbps。如果遇到問題，可開啟飯店 Wi-Fi 備用，或者移動到窗邊獲得更好信號。
+    - q: 在法蘭克福市中心的經濟型飯店，eSIM 能否滿足工作的需要？
+      a: 法蘭克福市中心（火車站附近）的經濟型飯店，如 Ibis，其區域網路擁擠，但 eSIM 連接到 Vodafone 網路時，速度通常在 15-25 Mbps。對於收發郵件、視訊會議（720p）足夠，但大量文件下載可能較慢。建議避開晚間上網高峰，或利用飯店營業大廳的
+        Wi-Fi。
+    - q: 在漢堡港口新城（HafenCity）的飯店，eSIM 網路穩定嗎？
+      a: 漢堡港口新城是現代化社區，擁有強勁的 Telekom 5G 覆蓋。在該區域的 The George Hotel，eSIM 下載速度可達 70-100
+        Mbps。無論是觀看 4K 串流還是雲端備份照片，都很流暢。不過，部分靠近港口的低層房間信號可能稍弱，但總體表現優良。
+    - q: 在德國特色民宿（Ferienwohnung）中，eSIM 通常比民宿 Wi-Fi 更快嗎？
+      a: 鄉村民宿的 Wi-Fi 速度不穩定，有時僅 5-10 Mbps，而 eSIM 連接到德國主要運營商時，即使偏遠地區也能保持 10-20 Mbps。例如在巴伐利亞的民宿，eSIM
+        通常更可靠，適合串流音樂或瀏覽網頁。建議將 eSIM 作為主要網路，民宿 Wi-Fi 可作為後備。
+    - q: 在科隆大教堂附近的飯店，使用 eSIM 上傳照片到社交媒體快嗎？
+      a: 科隆大教堂附近的飯店（如 Dom Hotel）位於市中心，eSIM 連接到 Vodafone 網路時，上傳速度可達 20-30 Mbps，上傳一張
+        10MB 照片約需 3 秒。若在週末旅客較多時段，可能略慢，但仍可接受。建議連接飯店 Wi-Fi 進行大量上傳，以節省 eSIM 的流量配額。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 德國 旅遊景點的網路：德國 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Brandenburg Gate, Neuschwanstein Castle, Cologne Cathedral
-        spontaneously, you can use your Germany eSIM data to buy skip-the-line tickets
-        online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Germany eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Germany.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Germany eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Germany eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Germany eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Germany eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Germany eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Germany eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Germany eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Germany eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Lieferando, Wolt, Flink, register using
-        your email or social accounts, and order food seamlessly using your Germany
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like PayPal,
-        Klarna, Giropay require a brief internet handshake, which your Germany eSIM
-        handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Germany eSIM to find hidden culinary gems in the city.
+    - q: 在柏林圍牆紀念館參觀時，使用 eSIM 查詢歷史資訊方便嗎？
+      a: 柏林圍牆紀念館位於貝爾瑙爾大街，該區域有良好的 4G 覆蓋。使用 eSIM 時，加載官方導覽應用和維基百科頁面非常迅速。不過，部分室外展區（如東側畫廊）信號較強，而室內文獻中心可能因建築結構導致速度下降至
+        10-15 Mbps。建議下載離線版本的紀念館介紹，以備不時之需。
+    - q: 在新天鵝堡附近用手機導航和拍照，eSIM 能應付嗎？
+      a: 新天鵝堡周邊地區（如停車場和馬車站）有 4G 信號，eSIM 導航準確，速度約 10-20 Mbps。拍照後上傳雲端可能需要等待，建議連接山上一些商店的免費
+        Wi-Fi 進行備份。如果徒步前往瑪麗恩橋，信號可能不穩定，因此離線地圖至關重要。
+    - q: 參觀科隆大教堂時，使用 eSIM 進行直播的效果如何？
+      a: 科隆大教堂廣場區域有強大的 Telekom 5G 信號，直播 1080p 影片無壓力，延遲約 1-2 秒。但進入教堂內部時，厚重的石牆會屏蔽部分信號，可能出現卡頓。建議在戶外廣場進行直播，或者利用教堂廣場上的免費
+        Wi-Fi（由科隆市提供）。
+    - q: 在慕尼黑瑪利亞廣場購物時，使用 eSIM 查詢價格和翻譯方便嗎？
+      a: 瑪利亞廣場是慕尼黑的心臟地帶，四周遍布百貨公司和商店。eSIM 網路速度極佳（40-60 Mbps），可以流暢使用翻譯應用或在 Google Maps
+        上搜尋餐廳。即使在地下室的購物中心（如市政廳地下）也有 4G 信號，但可能稍慢。建議避開週六下午的人潮，此時網路擁擠，回應時間可能延長。
+    - q: 在漢堡微縮景觀世界（Miniatur Wunderland）內，eSIM 的信號如何？
+      a: 這個大型室內景點位於倉庫城，雖然建築物較厚，但內部有加強信號設備。使用 eSIM 時，大部分區域可保持 3-4 格信號，下載速度約 15-25 Mbps，可以順利分享照片或查詢展品信息。在深海展區等角落信號稍弱，但整體上網體驗順暢。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 德國 eSIM 在 德國 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Germany eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Germany eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Germany eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Germany
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Germany eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Germany eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Germany eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在柏林使用 eSIM 刷 TikTok 和 Instagram，流量消耗快嗎？
+      a: TikTok 和 Instagram 是流量消耗大戶，每小時可達 500MB 至 1GB。在柏林，eSIM 的速度足以流暢播放高清影片，但建議在飯店連
+        Wi-Fi 時下載內容。如果在路上觀看，可調整應用程式設定為低數據模式。此外，德國有許多免費 Wi-Fi 熱點（如麥當勞、星巴克），可輔助節省流量。
+    - q: 在慕尼黑使用 WhatsApp 通話和傳送照片，eSIM 的時延高嗎？
+      a: 在慕尼黑市區（如英國花園附近），使用 Vodafone eSIM 進行 WhatsApp 通話時，延遲約 50-80 毫秒，通話清晰。傳送照片（約
+        5MB）通常只需 2-3 秒。但在尖峰時段的地鐵站內，傳送可能稍慢，建議避開擁擠情況。
+    - q: 在法蘭克福金融區使用 Facebook Messenger 和視訊通話，體驗如何？
+      a: 法蘭克福金融區（如銀行區）網路基礎設施頂級，eSIM 連接到 Telekom 5G 時，延遲極低（約 30 毫秒），視訊通話非常流暢。使用 Messenger
+        的文字和照片功能更是即時。唯一的問題是高樓層的電梯和地下室可能有死角，但大多數公共區域覆蓋良好。
+    - q: 在科隆使用 eSIM 時，是否可以順暢使用 Google Maps 和 Uber Eats？
+      a: 是的，科隆市中心（如大教堂周邊）的 eSIM 網路非常適合於此類應用。Google Maps 的導航反應迅速，Uber Eats 的訂單更新即時。但在科隆狂歡節期間，由於人群密集，網路可能暫時減速，影響應用加載時間。建議避開慶祝活動的中心區域，或在非高峰時段下單。
+    - q: 在漢堡使用 eSIM 觀看 YouTube 影片，緩衝情況如何？
+      a: 漢堡的網路覆蓋良好，特別是在阿爾斯特湖周邊，使用 Telekom eSIM 觀看 1080p 影片幾乎無緩衝。若觀看 4K 內容，偶爾會有短暫加載，但整體體驗流暢。晚上
+        8-10 點的黃金時段，速度可能略有下降，但不影響使用。建議在影片播放前讓其緩衝 10-20 秒以獲得最佳體驗。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 德國 使用 德國 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Germany, you can dial local emergency numbers like 112, 110 directly from
-        your phone's dialer regardless of your active SIM, as long as your phone can
-        catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Germany eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Germany eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Germany eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Germany eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Germany eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Germany eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Germany eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Germany eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Germany eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Germany eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Germany eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Germany eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在德國旅行時，如何透過 eSIM 撥打緊急電話？
+      a: 在德國，緊急電話號碼 112（通用）、110（警察）無需解鎖手機，即使沒有 SIM 卡或處於無信號狀態下，只要手機有任何運營商信號都可撥打。但 eSIM
+        能確保你在有網路時使用數據輔助定位，讓接線員更快得知你的位置。建議事先在當地儲存常用緊急聯繫方式，並了解所在位置附近的醫院或警局。
+    - q: 如果在德國（如黑森林區域）遭遇緊急情況，eSIM 信號能保證接通 112 嗎？
+      a: 在黑森林或巴伐利亞山區等偏遠地帶，即使沒有常規手機信號，112 仍可通過任何可用網路（包括其他國家的漫遊網路）接通。但 eSIM 可能無法提供數據服務，因此通話優先於數據。建議攜帶衛星求救設備作為備用。在徒步前，務必告知旅館預計路線，並下載離線急救資訊。
+    - q: 在德國遺失手機後，應如何利用 eSIM 相關帳戶保護個人隱私？
+      a: 立即通過電腦或其他設備登錄 eSIM 提供商的管理平台，暫停或刪除 eSIM 配置。同時，使用手機追蹤功能（如 Find My iPhone 或
+        Google 裝置管理員）嘗試定位。如果無法找回，應立即聯繫行動運營商（如 Telekom 的客服 0800 330 1000）鎖定號碼。建議將重要數據定期雲端備份，並設置螢幕鎖密碼。
+    - q: 在德國遇到車禍時，使用 eSIM 呼叫救護車的最快方式是什麼？
+      a: 直接撥打 112，這是歐盟統一的緊急號碼。接線員會問你地點、發生的狀況和人數。eSIM 的數據功能可以幫助你使用 Google Maps 確定精確位置，並在通話中傳送。如果不會德語，可說“English
+        please”，接線員會轉接英文服務。保持冷靜，按照指示操作。
+    - q: 在德國旅行期間，若發生護照遺失，如何使用 eSIM 聯繫大使館？
+      a: 首先撥打 110 報警備案。然後用 eSIM 上網查詢中國駐德國大使館的電話和地址（例如柏林大使館：+49-30-27590）。eSIM 的數據服務可以讓你瀏覽大使館網站獲取補辦旅行證件步驟。建議提前備份護照掃描件在雲端，以加速補辦流程。
+    - q: 在德國因健康問題需要非緊急醫療（如牙痛），應如何使用 eSIM 找到合適的診所？
+      a: 撥打 116117（非緊急醫療專線）可獲得服務，接線員會提供附近值班醫生的資訊。你也可以使用 Google Maps 搜尋“Zahnarzt in
+        der Nähe”（牙醫在附近），eSIM 可快速載入結果和評價。德國的多數診所接受預約，建議先電話確認。如果你有醫療保險，提前了解保險覆蓋的診所名單。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 德國 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Germany eSIM vs Prepaid SIM: Which One Is Right for You?"
-  subtitle: "Germany Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Germany) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Germany"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Germany eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Supermarket SIM cards are empty cards; you must carry a passport to a Deutsche Post branch for PostIdent during limited hours, or risk VideoIdent failure due to German instructions and passport glare. The whole process takes hours to 24 hours."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Deutsche Post queues and VideoIdent failures. Activate online within 1 minute after landing in Berlin."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All German prepaid SIMs require mandatory real-name registration. Telekom Shop can process on-site, but other channels require PostIdent or video verification. Non-EU passports often fail VideoIdent due to glare."
-      esim_title: "No Passport Registration"
-      esim_desc: "Bypass Germany's mandatory real-name registration. Unlike Telekom's in-store passport scan, Roami eSIM requires no ID verification."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Vodafone and O2 charge €4/MB for data in Switzerland; Lidl Connect excludes Switzerland entirely; Aldi Talk requires a €4.99/500MB/7-day add-on. Lyca Mobile's 160GB plan is reduced to 46GB outside EU (over 70% reduction)."
-      esim_title: "Global Roaming Included"
-      esim_desc: "Avoid Vodafone's €4/MB Switzerland charges. Roami eSIM offers multi-country plans covering all Europe without extra fees."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "German prepaid plans are universally 28-day cycles. For example, Telekom MagentaMobil M costs €9.95 for 10GB/28 days; a 7-day trip wastes about 75% of the plan's value."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Unlike O2's 28-day cycle (€15/5GB), Roami offers 7-day plans starting from $1.99/GB, saving 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge: most German prepaid SIMs allow tethering but may throttle after fair usage; some discount brands like Aldi Talk may restrict hotspot speeds."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike some German discount brands that limit hotspot speeds, Roami eSIM allows full-speed tethering on all devices."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Online top-up often rejects international credit cards; users need physical vouchers at kiosks (minimum €15). Vodafone stores may charge opaque activation fees."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for German cash or vouchers."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Phone support is often only in German; management apps are German-only and may not be available in non-German app stores."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get help in English anytime, unlike German-only phone support from Telekom or Vodafone."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Germany eSIM vs Prepaid SIM: Which Offers Better Value for Travelers?"
-    cards:
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Multi-Country Coverage Without FUP"
-        desc: "Lyca Mobile's 160GB plan shrinks to <b>46GB</b> outside EU (70% reduction). Roami eSIM offers true multi-country plans with no fair usage policy cuts."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Germany's Strict SIM Passport Requirements"
-        desc: "German law mandates real-name registration for all prepaid SIMs. Telekom and Vodafone require in-store passport scans or PostIdent, which can take hours. Roami eSIM activates instantly with no ID."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot Tethering"
-        desc: "Many German discount brands like Lidl Connect and Aldi Talk may throttle or restrict tethering. Roami eSIM allows full-speed hotspot sharing on all devices."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Switzerland Roaming Traps"
-        desc: "Vodafone and O2 charge <b>€4/MB</b> in Switzerland; Aldi Talk requires a <b>€4.99/500MB/7-day</b> add-on. Roami eSIM includes Switzerland in European plans at no extra cost."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---

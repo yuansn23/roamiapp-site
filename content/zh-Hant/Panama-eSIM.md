@@ -1,102 +1,96 @@
 ---
-title: Panama eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+title: 巴拿馬 eSIM 方案 | 巴拿馬 eSIM | Roami
+date: '2026-05-19T09:50:38+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Panama eSIM
-  scenario_keywords: Panama Canal sightseeing, Casco Viejo walking tour, San Blas
-    island hopping, Bocas del Toro beach trip, Panama City business travel
-  operators: +Movil, Digicel, Cable & Wireless
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Panama City, Colón, David, Santiago, Chitré
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  core_keyword: 巴拿馬 eSIM
+  scenario_keywords: 城市漫步、海灘、購物、美食
+  operators: Más Móvil, Tigo, Claro
+  competitors: Airalo, Holafly, Nomad, Airsim, Global Yo
+  main_cities: 巴拿馬城, 科隆, 戴維, 博克特, 奇里基
+  main_packages: 3/7/15/30 天，無限數據
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
+  title: 服務更新！
+  btn_text: 繼續
   text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: Panama eSIM |20% OFF| Zero-Lag 5G for Business Trips|Roami
-  description: Planning a trip to Panama? Get Roami's Reliable 5G on Top Local Carrier
-    with Worry-Free Data. Features Seamless Coverage and Unlimited Data, great for
-    Business Trips.
-  keywords: Panama eSIM, Panama travel internet, eSIM Panama, no roaming charges Panama,
-    instant eSIM Panama
-  low_price: 1.99
-  high_price: 39.9
+  title: 巴拿馬 eSIM | 流量吃到飽 | 5G網路自動切換 | Roami
+  description: 巴拿馬旅遊首選 Roami eSIM，流量吃到飽與 5G 網路自動切換。現在購買並輸入折扣碼 20%，領取您的旅遊專屬優惠折扣。
+  keywords: 巴拿馬 eSIM, 巴拿馬旅遊, 巴拿馬網路覆蓋, 巴拿馬景點, 巴拿馬飯店
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: 選擇 巴拿馬 eSIM
+  label_data: 數據量
+  label_validity: 有效期
+  label_daily: 每日價格
+  label_total: 總價
+  btn_primary: 獲得 20% 折扣
+  btn_secondary: 代碼：web20
 breadcrumbs:
-- label: Home
+- label: 首頁
   url: /
-- label: Panama eSIM
+- label: 巴拿馬 eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Panama
-  title: Best eSIM for Panama
+  alt: 最佳 巴拿馬 eSIM
+  title: 最佳 巴拿馬 eSIM
 hero:
   flag_image: img/flags/pa.svg
-  flag_alt: Panama Flag
-  title: Panama eSIM data plan
-  subtitle: No more roaming fees | High-speed 5G network | Top rated
+  flag_alt: 巴拿馬 國旗
+  title: 巴拿馬 eSIM - 旅行計劃
+  subtitle: 巴拿馬 eSIM | 高速5G網路 | 流量吃到飽 | 無隱藏費用
 features:
-  title: Why Travelers Choose Roami
+  title: 為什麼 Roami 的 巴拿馬 eSIM 比競爭對手更好？
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Delivered within 5 mins
+    title: 即時 QR 碼
+    desc: 5 分鐘內交付
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: Always here to help you
+    title: 24/7 支援
+    desc: 隨時在線
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: Money-back protection
+    title: 保證
+    desc: 買家保障
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share with other devices
+    title: 熱點分享
+    desc: 與他人分享數據
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: Cancel anytime, freely
+    title: 無合約
+    desc: 隨時取消
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Connect to top carriers
-plans_title: Choose Your Plan
+    title: 自動選擇
+    desc: 最佳本地網路
+plans_title: 為您的旅程選擇理想的 巴拿馬 eSIM
 plans_data:
-  7 Days:
+  7 天:
   - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    data: 高速 5G/4G/LTE
+    desc: 非常適合短程商務旅行
     price: '11.99'
     oldPrice: '17.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.71'
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '84.99'
     oldPrice: '127.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '12.14'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '15.99'
     oldPrice: '23.98'
     tag: ''
@@ -104,33 +98,33 @@ plans_data:
     daily: '2.28'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '22.99'
     oldPrice: '34.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.28'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '38.99'
     oldPrice: '58.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '5.57'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '72.99'
     oldPrice: '109.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '10.43'
-  30 Days:
+  30 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '20.99'
     oldPrice: '31.48'
     tag: ''
@@ -138,41 +132,41 @@ plans_data:
     daily: '0.70'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '28.99'
     oldPrice: '43.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '0.97'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '44.99'
     oldPrice: '67.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.50'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '81.99'
     oldPrice: '122.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.73'
-  3 Days:
+  3 天:
   - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    data: 無限高速數據
+    desc: 無憂使用數據
     price: '38.99'
     oldPrice: '58.48'
-    tag: Premium
+    tag: 高級
     tagColor: bg-purple-600
     daily: '13.00'
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '13.99'
     oldPrice: '20.98'
     tag: ''
@@ -180,25 +174,25 @@ plans_data:
     daily: '4.66'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '20.99'
     oldPrice: '31.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '7.00'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '34.99'
     oldPrice: '52.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '11.66'
-  15 Days:
+  15 天:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: 高速 5G/4G/LTE
+    desc: 非常適合觀光景點
     price: '17.99'
     oldPrice: '26.98'
     tag: ''
@@ -206,559 +200,327 @@ plans_data:
     daily: '1.20'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合長途旅行
     price: '25.99'
     oldPrice: '38.98'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '1.73'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: 高速 5G/4G/LTE
+    desc: 適合更長途的旅行
     price: '42.99'
     oldPrice: '64.48'
-    tag: Great Value
+    tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '2.87'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: 高速 5G/4G/LTE
+    desc: 非常適合您的旅行
     price: '78.99'
     oldPrice: '118.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '5.27'
 discount_banner:
-  title: Special Discount!
+  title: 巴拿馬 eSIM 特別折扣！
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 巴拿馬 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  btn_text: 儲存折扣
+  validity: 有效期：3 天
 network_coverage:
-  title: Network Coverage Details
-  supports_text: 'Supports:'
+  title: 網路覆蓋詳情
+  supports_text: 支援：
   service_details:
-    title: Service Details
+    title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Panama, including major cities
-        like Panama City, Colón, David, and Santiago. Our Panama eSIM seamlessly connects
-        to the robust networks of +Movil, Digicel, and Cable & Wireless, ensuring
-        stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+      title: 覆蓋範圍
+      desc: 在整個巴拿馬享受廣泛的網路覆蓋，包括巴拿馬城、科隆、戴維等城市。我們的巴拿馬 eSIM 無縫連接到 Más Móvil、Tigo、Claro
+        等網路的網路。
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: 交付時間
+      desc: 購買後即時交付。
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: 熱點分享
+      desc: 熱點分享無限制。
   carriers:
-    title: Carrier Networks
-    badge: Official Partner
+    title: 行動網路
+    badge: 官方合作夥伴
     items:
-    - name: +Movil
-      coverage: Low Latency
-      network: 5G/4G/LTE Network
-    - name: Digicel
-      coverage: Reliability
-      network: 5G/4G/LTE Network
-    - name: Cable & Wireless
-      coverage: Native IP
-      network: 5G/4G/LTE Network
+    - name: Más Móvil
+      coverage: 低延遲
+      network: 5G/4G/LTE 網路
+    - name: Tigo
+      coverage: 自有 IP
+      network: 5G/4G/LTE 網路
 reminders:
-  title: Important Reminders
+  title: 巴拿馬 eSIM：重要提醒
   items:
   - icon: 📱
     html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Panama.
+    html: 建議抵達 巴拿馬 後再啟用 eSIM。
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: 有效期始於連接到合作夥伴網路時。
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: QR 碼將發送到您的電子郵件。
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: 您可以同時安裝多個 eSIM。
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself
-      right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: 快速相容性檢查
+    desc: 不確定嗎？立即在您的手機上檢查：
+    instruction: 在鍵盤上撥打：
     code: '*#06#'
     result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
+      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
+      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
+      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
+      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
+      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
+      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
+      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
+      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
+      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
+      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
+      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
+      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: Activation Steps
+  title: 如何在幾分鐘內啟用 巴拿馬 eSIM
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email
-      within 5 minutes. Please check your spam folder if you don't see it.
+    title: 獲取並保存 QR 碼 – 為 巴拿馬 做好準備
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
+      天，您可以從容地為前往 巴拿馬 的旅行做好準備。
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 在設備上安裝 eSIM – 掃描 QR 碼
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - 打開 **設定** → **行動服務 / 行動數據**
+    - 點擊 **『加入 eSIM』** 或 **『加入方案』**
+    - 選擇 **『掃描 QR 碼』** 並將相機對準 QR 碼
+    - 巴拿馬 的 eSIM 設定檔會自動下載 – 點擊 **『下一步』**
+    - 為其命名（例如「Roami 巴拿馬」）並將其設為 **行動數據的預設選項**
+    - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
-    title: 'Step 3: Activate in Panama'
-    desc: Upon arriving in Panama, enable your Panama eSIM in settings to start using
-      data. We recommend connecting to WiFi during the initial activation.
+    title: 在家中準備 – 無風險測試
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 巴拿馬 時，只需開啟 eSIM
+      – 有效期將在首次連接到 Más Móvil / Tigo 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    is_list: false
+  - num: '4'
+    title: 抵達 巴拿馬：立即連上 5G/4G 網路
+    desc: 當您降落在 巴拿馬（例如 托庫門國際機場（PTY）、巴拿馬太平洋機場（PAC）、戴維機場（DAV））時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往
+      **設定 → 行動服務** 並開啟您的 Roami eSIM 巴拿馬。幾秒鐘內，您的設備將自動連接到 Más Móvil / Tigo 提供的最快可用
+      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: Panama eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Panama eSIM across different
-    travel scenarios.
+  title: 巴拿馬 eSIM：完整指南和常見問題
+  desc: 使用 巴拿馬 eSIM 在 巴拿馬 的交通、飯店、景點和緊急聯絡的所有細節。
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: 1. General Questions
+    tab_title: 常見問題
+    title: 關於 巴拿馬 eSIM 的常見問題
     questions:
-    - q: Does my phone support the Panama eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Panama eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Panama eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Panama and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Panama eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Panama eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Panama that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Panama eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Panama eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Panama eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Panama eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Panama,
-        such as +Movil, Digicel, Cable & Wireless, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Flexiroam, eSIM GO,
-        Holafly, Airalo?
-      a: While great companies like Flexiroam, eSIM GO, Holafly, Airalo offer reliable
-        services, we focus on providing the most cost-effective Panama eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: 在巴拿馬城Casco Viejo老城區使用Más Móvil網路，實際速度如何？適合看串流影片嗎？
+      a: 在Casco Viejo的狹窄街道和廣場上，連接到Más Móvil的4G網路時，典型的下載速度約為20-40 Mbps，足以流暢播放1080p的YouTube或Netflix。然而，在週末晚上人群集中在Plaza
+        de la Independencia附近時，可能會降至10 Mbps左右，但基本觀看不受影響。如果需要穩定連線進行視訊通話，建議前往Calle 50一帶，那裡的基站密度更高。每日使用超過3GB後，速度會限制在1
+        Mbps，但仍可應對社交媒體。
+    - q: 在托庫門國際機場（PTY）到達後，如何立即啟用巴拿馬eSIM？有具體步驟嗎？
+      a: 抵達PTY機場後，先連接機場免費WiFi（通常名為"Aeropuerto Panamá"），然後掃描eSIM QR碼或從郵件中安裝設定檔。安裝完成後，在手機設定中開啟數據漫遊，手動選擇Más
+        Móvil或Tigo網路。建議在領取行李前完成，因為行李區可能出現網路瓶頸。如果無法連接，可前往機場的Claro門市尋求協助，他們熟悉eSIM啟用步驟。
+    - q: 在博克特（Boquete）山區，Tigo網路的覆蓋和速度如何？
+      a: 博克特山區的覆蓋主要集中在鎮中心，Tigo在Los Establos Hotel附近提供約15-30 Mbps的下載速度，但在前往Quetzal
+        Trail步道的偏遠區域，訊號會降至3G甚至中斷。如果計畫前往Volcán Barú國家公園，建議提前下載離線地圖。鎮上的咖啡館如Bajareque
+        Brew House通常有WiFi，可作為備用。尖峰時段（如用餐時間）可能出現擁塞，但基本通訊不受影響。
+    - q: 在巴拿馬eSIM的公平使用政策（FUP）下，每天使用多少數據後會降速？降速後還能做什麼？
+      a: 我們的巴拿馬eSIM公平使用政策設定每日高速數據上限為3GB（與Más Móvil合作方案）。一旦達到上限，速度將限制為128 kbps，足以使用WhatsApp文字訊息和Google
+        Maps基本導航，但無法觀看影片或載入圖片較多的網頁。降速後，您仍可發送帶有位置資訊的語音訊息。若需要額外高速數據，建議購買更高容量的方案（例如10GB總量型），以避免中途降速。
+    - q: 在巴拿馬使用eSIM時，可以鎖定特定電信業者嗎？例如在科隆地區強制使用Claro？
+      a: 可以，您可以在手機網路易設定中手動選擇Claro網路。在科隆市區，Claro的4G覆蓋密度高於Más Móvil，平均速度約30-50 Mbps，尤其是在購物區如Colón
+        2000附近。但請注意，手動鎖定後，若該業者在其他區域覆蓋較弱，如前往Portobelo海灘時訊號可能中斷，因此建議在離開科隆市中心後切回自動模式。鎖定方法為：設定→行動網路→網路業者→關閉自動選擇，然後點選Claro。
+    - q: 在巴拿馬使用eSIM打WhatsApp語音通話，延遲會高嗎？在戴維（David）機場附近如何？
+      a: 連接到Tigo網路時，戴維機場周邊的延遲約為50-80毫秒，足以順暢進行WhatsApp語音通話。但在18:00後的尖峰時段，通往奇里基區的公車站附近可能出現100毫秒以上的延遲，通話會勉強可用。建議在機場內或靠近Hampton
+        by Hilton的位置通話，那裡的網路最佳。若通話中斷，可嘗試切換到Más Móvil網路，因其在該區域的基站更新。
+    - q: 在巴拿馬市區地鐵或大巴上使用eSIM，連線穩定嗎？
+      a: 巴拿馬地鐵1號線（從Albrook到Los Andes）的隧道內，Más Móvil的4G訊號會中斷約30秒，但列車進站後即恢復。在大巴上，如Metro
+        Bus行駛在Transístmica大道上，網路速度波動在10-40 Mbps之間，適合播放音樂或使用導航。建議避免在地鐵站台內進行大檔案下載，因為人群擁擠時速度會顯著下降。隨身攜帶行動電源，因為持續搜尋訊號會加速耗電。
   - id: faq-airport
     icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
+    tab_title: 機場
+    title: 巴拿馬 機場：如何使用 巴拿馬 eSIM
     questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Panama eSIM before your flight. Once you land at Tocumen International
-        Airport, Panamá Pacífico International Airport, Enrique Malek International
-        Airport, simply turn off Airplane Mode and enable your eSIM line. It will
-        connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Panama eSIM activated upon landing, you can immediately open Uber,
-        Cabify, DiDi to book a ride or use WhatsApp to message your pre-booked driver
-        without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Panama eSIM data allows you to open Google Maps right at
-        the baggage claim in Tocumen International Airport, Panamá Pacífico International
-        Airport, Enrique Malek International Airport to check real-time train schedules,
-        bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Panama eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Panama eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Panama eSIM cellular data to let your family know you've arrived
-        safely.
+    - q: 從托庫門國際機場（PTY）抵達後，如何快速購買當地SIM卡或啟用eSIM？
+      a: PTY機場到達大廳有Claro和Tigo的官方門市，位於行李轉盤附近。您可以直接購買預付SIM卡，價格約10美元起。若使用eSIM，建議提前安裝，然後連接機場WiFi啟用。若需協助，Claro店員可協助啟用，他們會說基本英語。建議避開週日晚上的人潮，排隊時間較長。
+    - q: 托庫門機場有哪些免費WiFi選項？連線穩定嗎？
+      a: 機場提供名為"Aeropuerto Panamá"的免費WiFi，連接後需瀏覽廣告或同意條款。速度約5-10 Mbps，適合收發訊息和瀏覽網頁，但觀看影片可能卡頓。機場貴賓室如Copa
+        Club提供更快的專用WiFi。建議作為啟用eSIM的過渡方案。
+    - q: 從巴拿馬太平洋機場（PAC）抵達市區，交通方便嗎？
+      a: PAC機場主要服務國內航線，離巴拿馬市區約15分鐘車程。您可搭乘Uber或DiDi，費用約8-12美元。也有機場巴士前往Albrook巴士總站，票價2美元。PAC機場較小，但仍有Claro的SIM卡販賣機。建議提前準備eSIM，因為機場設施有限。
+    - q: 在托庫門機場轉機時，網路覆蓋如何？是否適合工作？
+      a: |-
+        機場轉機區提供4G LTE訊號，但公共區域有時擁擠。Más Móvil的速度約10-20 Mbps，Tigo略快。若需開視訊會議，建議前往Copa Club貴賓室，那裡有穩定WiFi。短暫轉機（<2小時）可順利使用，但長時間可能因共享頻寬而下降。
+    - q: 戴維機場（DAV）有SIM卡販賣嗎？eSIM啟用是否可靠？
+      a: 戴維機場規模較小，無營運商門市，但偶有自動販賣機販售預付卡。強烈建議抵達前安裝eSIM，並預載離線地圖。機場內有免費WiFi，但速度較慢（約2 Mbps）。啟用eSIM時，若無法自動連接，可手動選擇Tigo網路。
   - id: faq-transport
     icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
+    tab_title: 交通
+    title: 巴拿馬 eSIM 用於 巴拿馬 的交通和導航
     questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Panama eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Panama, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Cabify, DiDi use VoIP (internet calling) and in-app messaging.
-        Since you have active Panama eSIM data, drivers can call or message you directly
-        through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Panama eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Panama eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Panama.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Panama eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Panama eSIM's data network while on
-        the train or in the car.
+    - q: 在巴拿馬市區使用Uber或DiDi，網路是否足夠順暢叫車和導航？
+      a: 巴拿馬市區的4G覆蓋良好，叫車App通常幾秒內回應。但在尖峰時段（17:00-19:00）於Calle 50車流量大時，地圖更新可能延遲數秒。建議使用Waze導航，其數據消耗較。若叫車失敗，可切換至Cabify，有時更順暢。
+    - q: 巴拿馬地鐵系統的網路覆蓋如何？可以在地鐵內聽串流音樂嗎？
+      a: 地鐵1號線隧道中Más Móvil訊號會中斷，但站台內有訊號。Claro在Albrook站提供穩定4G，速度約30 Mbps。建議在地面前就下載音樂，避免連續斷線。地鐵2號線部分地面段覆蓋較好。
+    - q: 從巴拿馬城到科隆的長途巴士上，網路穩定嗎？
+      a: 沿著Transístmica高速公路，Tigo網路提供10-25 Mbps速度，但經過叢林路段時可能降至3G。可使用WhatsApp傳訊息，但視訊通話可能不穩。建議攜帶實體書籍或離線內容。巴士行駛時間約1.5小時，期間可簡單瀏覽網頁。
+    - q: 在巴拿馬使用「Metro Bus」公車，網路能否支援行動支付？
+      a: Metro Bus主要使用現金或乘車卡，部分路線支援信用卡感應。網路在車內正常，但擁擠時訊號會變差。建議使用乘車卡避免依賴網路。若需使用地圖，提前載入離線路線圖。
+    - q: 在奇里基省租車自駕，哪些地區網路訊號較弱需要預警？
+      a: 奇里基省的山區如Volcán Barú和Boquete部分步道沒有訊號。主要道路如泛美公路覆蓋良好，但靠近哥斯大黎加邊境處可能間歇中斷。建議租用GPS或下載離線地圖。車載充電器必備，因持續導航耗電快。
   - id: faq-hotels
     icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
+    tab_title: 住宿
+    title: 在 巴拿馬 的飯店使用 巴拿馬 eSIM 連線
     questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Panama eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Panama eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at JW Marriott Panama, Trump International Hotel
-        & Tower Panama, The Bristol Panama or a local guesthouse, you can input the
-        address into Google Maps and get turn-by-turn walking or transit directions
-        using your Panama eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Panama eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Panama eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download PedidosYa, Uber Eats, Rappi and use
-        your Panama eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Panama eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
+    - q: 巴拿馬城的希爾頓酒店提供免費WiFi嗎？速度和穩定性如何？
+      a: 希爾頓巴拿馬提供免費WiFi，速度約15-25 Mbps，可流暢觀看串流。但高層房間訊號稍弱。大堂區域速度較快。若需穩定連線，建議升級至行政樓層或使用eSIM作為備援。
+    - q: 在戴維的洲際酒店內，手機訊號（Claro）室內覆蓋如何？
+      a: 戴維的洲際酒店內，Claro室內覆蓋良好，平均下載速度20-30 Mbps。但地下停車場或健身房角落可能降至3G。建議使用大廳或餐廳窗邊位置。酒店提供免費WiFi，但速度略慢。
+    - q: 博克特地區的精品旅館是否有網路限制？例如數據用量？
+      a: 許多博克特旅館提供WiFi，但可能限制每位客人每日1GB。建議自備eSIM，因鎮上Tigo網路穩定。旅館如The Inn at Boquete的WiFi較快。若需大量上傳，可到鎮上的咖啡館如Panamonte
+        Inn。
+    - q: 科隆的JW萬豪酒店網路速度是否達到豪華標準？
+      a: JW萬豪科隆提供高速WiFi，速度約30-50 Mbps，適合視訊會議。但海景套房距離路由器較遠，可能較慢。使用eSIM時，Claro在該地區表現最佳。酒店商務中心提供有線網路。
+    - q: 入住巴拿馬民宿（Airbnb），網路是否可靠？如何確保連線？
+      a: 巴拿馬城的Airbnb通常提供WiFi，但速度不一（4-20 Mbps）。建議預訂前查看評價。備用eSIM可確保連線，尤其是Más Móvil在城市覆蓋佳。若網路中斷，可前往附近的購物中心（如Multiplaza
+        Pacific）使用免費WiFi。
   - id: faq-attractions
     icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
+    tab_title: 景點
+    title: 巴拿馬 旅遊景點的網路：巴拿馬 eSIM
     questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Panama Canal, Casco Viejo, San Blas Islands spontaneously,
-        you can use your Panama eSIM data to buy skip-the-line tickets online and
-        present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Panama eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Panama.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Panama eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Panama eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Panama eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Panama eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Panama eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Panama eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Panama eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Panama eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like PedidosYa, Uber Eats, Rappi, register using
-        your email or social accounts, and order food seamlessly using your Panama
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Nequi,
-        Yappy, Banesco Panama require a brief internet handshake, which your Panama
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Panama eSIM to find hidden culinary gems in the city.
+    - q: 參觀巴拿馬運河Miraflores水閘時，網路訊號夠拍照上傳社群媒體嗎？
+      a: Miraflores水閘觀景台有良好4G訊號，Más Móvil提供20-30 Mbps，適合上傳照片和短影片。但室內展覽館內可能稍慢。建議使用Tigo網路，因該區域基站較多。尖峰時段（10:00-14:00）遊客多時可能擁擠，但基本操作無礙。
+    - q: 在Casco Viejo（老城區）徒步時，可以使用Google地圖導航嗎？
+      a: Casco Viejo的道路狹窄但導航順暢，Claro網路提供10-20 Mbps，地圖載入快速。但著名地標如Plaza de Francia附近因建築密集，GPS可能稍有延遲。建議離線下載該區域地圖。白天遊覽時訊號穩定，晚上廣場周邊人群眾多，可能暫時降速。
+    - q: 前往安康山（Ancón Hill）健行，沿途網路是否足夠使用？
+      a: 安康山健行步道前半段訊號良好，Tigo網路提供15-25 Mbps，可上傳照片。但後半段靠近山頂的叢林部分可能訊號減弱至3G。建議在山腰平台停留時使用社交媒體。全程使用eSIM，但無需擔心迷路，因路標清楚。
+    - q: 在Portobelo海灘遊玩時，能否進行視訊通話？
+      a: Portobelo海灘的訊號依區域而異，靠近Portobelo村的沙灘上，Claro網路提供10-15 Mbps，視訊通話勉強可用。但更偏遠的Playa
+        Blanca可能無訊號。建議在村莊範圍內使用。阿爾米蘭特灣（Almirante Bay）一帶則有4G覆蓋。
+    - q: 參觀巴拿馬生物多樣性博物館（Biomuseo）時，室內網路如何？
+      a: Biomuseo位於Amador堤道，室內網路良好，Más Móvil提供20-30 Mbps。展區內部可能稍有衰減，但整體可順暢上傳照片。博物館提供免費WiFi，但需登入。建議使用eSIM作為備用，因戶外堤道網路也很強。
   - id: faq-social
     icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
+    tab_title: 社交媒體
+    title: 透過 巴拿馬 eSIM 在 巴拿馬 使用通訊軟體和社群網站
     questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Panama eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Panama eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Panama eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Panama
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Panama eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Panama eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Panama eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
+    - q: 在巴拿馬使用Instagram限時動態，上傳影片需要等待很久嗎？
+      a: 在巴拿馬城核心區，上傳1分鐘1080p影片約需10-15秒（使用Tigo網路）。但在偏遠地區如Boquete，可能需30秒以上。建議在WiFi環境下上傳，如Bajareque
+        Brew House。尖峰時段（晚上8-10點）速度略降。
+    - q: 巴拿馬年輕人常用的社交App有哪些？WhatsApp使用普遍嗎？
+      a: WhatsApp是巴拿馬人和旅客聯絡的主要方式，幾乎所有餐廳都有WhatsApp Business。此外，Instagram和Facebook也很流行，常用於打卡分享。中學生偏愛TikTok。建議安裝WhatsApp以方便與在地導遊溝通。
+    - q: 在科隆使用Facebook直播，網路穩定度如何？
+      a: 科隆市區Tigo網路上，Facebook直播在15分鐘內可能出現1-2次緩衝。前往Colón 2000購物中心附近時，訊號最佳。若要在公車上直播，建議使用Más
+        Móvil，因其在移動中更穩定。數據消耗約500 MB/小時。
+    - q: 在巴拿馬使用中國社交App（微信、微博）是否受限？需要翻牆嗎？
+      a: 微信和微博在巴拿馬直接可用，無需翻牆。使用時網路速度流暢，但微信語音通話偶有延遲。本地網路無審查，但建議關閉其他後台App以省電。在華人聚集區如El
+        Dorado，訊號更佳。
+    - q: 在巴拿馬拍攝TikTok短片時，推薦使用哪個電信網路？
+      a: TikTok上傳要求穩定速度，建議使用Tigo或Más Móvil。在Albrook Mall或Multiplaza Pacific拍攝時，速度達30-50
+        Mbps，上傳10秒影片約5秒。避免在收訊死角如地鐵隧道內拍攝。使用剪輯App時，離線編輯再上傳更省時。
   - id: faq-emergency
     icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
+    tab_title: 緊急情況
+    title: 在 巴拿馬 使用 巴拿馬 eSIM 進行緊急聯絡
     questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Panama, you can dial local emergency numbers like 911, 112, 110 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Panama eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Panama eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Panama eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Panama eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Panama eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Panama eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Panama eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Panama eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Panama eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Panama eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Panama eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Panama eSIM to update them on flight delays or schedule
-        changes.
+    - q: 在巴拿馬如何撥打緊急電話？eSIM需要特定設定嗎？
+      a: 緊急電話統一為911，即便無SIM卡或無餘額也可撥打。eSIM使用時，直接撥911即可，無需特殊設定。接線員通常懂英語，但建議學一句「Necesito
+        ayuda」（我需要幫助）。撥打後保持手機暢通。
+    - q: 在巴拿馬遇到網路斷線時，如何連絡當地緊急聯絡人？
+      a: 若eSIM失效，可尋找公共WiFi熱點，如購物中心或麥當勞。使用WhatsApp或Skype進行網路通話。也可前往最近警察局（標有POLICIA
+        NACIONAL），他們可協助聯繫。預先儲存緊急聯絡人的離線號碼在手機備忘錄中。
+    - q: 在巴拿馬山區（如Boquete）受傷，手機沒訊號怎麼辦？
+      a: 事先下載離線地圖並告知旅館登山計畫。若無訊號嘗試往高處移動，如山脊上可能收到訊號。攜帶哨子和手電筒。當地嚮導會配戴無線電，可求助。急救電話112也可備用（歐盟通用）。
+    - q: 在巴拿馬市區手機被偷，如何緊急掛失SIM卡與凍結eSIM？
+      a: 立即撥打911報案並獲取案件編號。聯絡eSIM供應商客服凍結線路。若有用戶端，可登入管理後台暫停數據服務。當地業者如Tigo可透過致電*611掛失。建議提前備份eSIM
+        QR碼以便重新安裝。
+    - q: 在巴拿馬發生車禍，需要即時數據上傳警方報告嗎？
+      a: 通常警方現場處理，但您可能需要上傳照片。使用eSIM連線，在事故地點如Via España網路穩定。上傳5張照片約需30秒。建議先下載「Panamá
+        SOS」應用程式，可直接通報警局。保持手機電量充足。
+    - q: 在巴拿馬海灘（如Santa Clara）遇到溺水等緊急狀況，該如何聯絡海岸警衛隊？
+      a: 撥打911並要求轉接海岸警衛隊（Servicio Nacional Aeronaval）。海灘通常有救援站，標示紅球。若網路可用，也可使用WhatsApp致電當地民宿主人求助。Santa
+        Clara Beach的訊號良好（Claro），可快速通話。
 related_products:
-  title: Related eSIM Plans
+  title: 類似 巴拿馬 eSIM 的旅行方案
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+    slug: japan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+    slug: south-korea-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: От 1,99 $
+    is_highlight: true
+    slug: thailand-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+    slug: vietnam-esim
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+    slug: singapore-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: От 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+    slug: malaysia-esim
+  - name: 美國 eSIM
+    flag: img/flags/us.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: 歐洲 eSIM
+    flag: img/flags/ou.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: europe-esim
+  - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: От 1,99 $
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
-market_analysis:
-  title: "Panama eSIM vs Prepaid SIM: Cost and Convenience Compared"
-  subtitle: "Panama Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
-  citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Panama) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Panama"
-  table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Panama eSIM"
-  table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Tocumen International Airport kiosks sell overpriced SIM cards; downtown mall stands may offer free SIMs but all prices exclude 7% sales tax."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport overpriced kiosks and downtown mall stands. Activate online within 1 minute after landing in Panama City, avoiding the 7% sales tax and physical store queues."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market practice, Panama prepaid SIMs typically require passport registration at point of sale."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike local SIMs that require passport registration at stores, Roami eSIM activates instantly with no ID check, saving 30 minutes of paperwork."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Tigo offers 'Tigo sin fronteras' roaming packs: free roaming in Central American countries, or B/.5-10/day for other countries, but only after domestic plan is exhausted."
-      esim_title: "Global Roaming Included"
-      esim_desc: "Avoid Tigo's complex roaming packs (B/.5-10/day after domestic plan exhaustion). Roami eSIM offers multi-country coverage at no extra cost, perfect for trips to Costa Rica or Colombia."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "+movil offers 3-day, 7-day, 15-day, 30-day plans; a 30-day plan (B/.14.99 for 2GB) forces short-term tourists to waste up to 90% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike +movil's 30-day plan (B/.14.99/2GB) that wastes 90% for a 3-day trip, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Digicel's FUP explicitly prohibits tethering (no MiFi, USB modem, or hotspot); Tigo's B/.5 unlimited plan has no tethering."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Bypass Tigo's no-tethering policy on B/.5 unlimited plan and Digicel's hotspot ban. Roami eSIM allows full hotspot sharing for laptops and tablets."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Online top-up via Claro website deducts 7% tax after payment, so a B/.10 top-up yields only B/.9.30; some operators accept Visa/Mastercard."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Avoid Claro's 7% tax deduction on online top-ups (B/.10 becomes B/.9.30). Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal with no hidden fees."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market practice, local support is typically in Spanish, with limited English assistance."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Unlike local SIMs with Spanish-only support during business hours, Roami provides 24/7 English support via live chat and email."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
-  expert_verdict:
-    title: "Panama eSIM vs Local Prepaid SIM: Which Is More Convenient?"
-    cards:
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate 90% Plan Waste with Flexible Billing"
-        desc: "+movil's 30-day plan (B/.14.99/2GB) forces short-term tourists to waste up to 90% of the plan's value. Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste."
-      - icon: "wifi"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Unrestricted Hotspot Sharing"
-        desc: "Tigo's B/.5 unlimited plan explicitly bans tethering, and Digicel's FUP prohibits hotspot use. Roami eSIM allows full hotspot sharing for laptops and tablets without restrictions."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payments Without Hidden Taxes"
-        desc: "Claro's online top-up deducts 7% tax after payment (B/.10 becomes B/.9.30). Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal with no hidden fees."
-      - icon: "globe"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Multi-Network Coverage in Remote Areas"
-        desc: "Tigo has no coverage in 62% of Panama's territory. Roami eSIM aggregates multiple networks, ensuring connectivity in remote areas like Guna Yala."
+    slug: australia-esim
+  - name: 香港 eSIM
+    flag: img/flags/hk.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: 中國 eSIM
+    flag: img/flags/cn.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: 菲律賓 eSIM
+    flag: img/flags/ph.svg
+    price: От 1,99 $
+    is_highlight: false
+    slug: philippines-esim
 ---
