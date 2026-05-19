@@ -31,7 +31,7 @@ other = "Android"
 other = "服務已更新"
 
 [modal_upgrade_desc]
-other = "我們的服務已升級。請前往我們的官方網站或 APP 領取您的優惠碼。"
+other = "我們的服務已升級。請在我們的官方網站或應用程式中獲取您的優惠碼：web20"
 
 [cancel]
 other = "取消"

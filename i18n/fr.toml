@@ -32,7 +32,7 @@ other = "Android"
 other = "Service mis à jour"
 
 [modal_upgrade_desc]
-other = "Nos services ont été améliorés. Veuillez visiter notre site officiel ou notre application pour obtenir votre code promo."
+other = "Nos services ont été mis à niveau. Obtenez votre code promo : web20 sur notre site Web officiel ou dans l’application"
 
 [cancel]
 other = "Annuler"
