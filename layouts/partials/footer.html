@@ -9,15 +9,19 @@
         position: fixed; 
         bottom: 0; 
         left: 0; 
-        right: 0; 
-        z-index: 9999; 
+        width: 100%; /* 确保填满屏幕宽度 */
+        z-index: 99999; /* 提高层级，防止被覆盖 */
         background-color: rgba(255, 255, 255, 0.95); 
         backdrop-filter: blur(10px); 
         -webkit-backdrop-filter: blur(10px); 
         border-top: 1px solid #e2e8f0; 
         padding: 12px 16px; 
-        padding-bottom: calc(12px + env(safe-area-inset-bottom)); 
+        /* 添加安全区默认值 0px 防错 */
+        padding-bottom: calc(12px + env(safe-area-inset-bottom, 0px)); 
         box-shadow: 0 -10px 15px -3px rgba(0, 0, 0, 0.05); 
+        /* 🌟核心修复：强制开启 GPU 硬件加速，解决手机上不滑动不显示的 Bug */
+        transform: translate3d(0, 0, 0);
+        -webkit-transform: translate3d(0, 0, 0);
     }
     
     /* 悬浮按钮样式：渐变蓝、圆角、阴影 */
@@ -86,12 +90,11 @@
     </div>
 </footer>
 
-<!-- CUSTOM MODAL -->
+<!-- CUSTOM MODAL (原有的，未改动) -->
 <div id="custom-modal" class="fixed inset-0 z-[100] hidden flex items-center justify-center bg-slate-900/60 backdrop-blur-sm transition-opacity">
     <div class="bg-white rounded-2xl p-8 max-w-md w-full mx-4 shadow-2xl transform scale-95 transition-transform duration-300" id="modal-content">
         <div class="text-center">
             <div class="w-16 h-16 bg-blue-50 rounded-full flex items-center justify-center mx-auto mb-5">
-                <!-- 替换为内联 SVG (bell-ring) -->
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-8 h-8 text-blue-600">
                     <path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/>
                     <path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/>
@@ -108,20 +111,21 @@
         </div>
     </div>
 </div>
+
 <!-- ========== 移动端底部悬浮按钮 ========== -->
  
-
 <!-- 弹窗 (Modal) HTML 结构 -->
 <!-- 弹窗 (Modal) HTML 结构 -->
-<div id="redirect-modal" class="fixed inset-0 z-50 hidden items-center justify-center bg-slate-900/60 backdrop-blur-sm transition-opacity" aria-modal="true" role="dialog">
-    <div class="bg-white rounded-2xl p-6 md:p-8 max-w-sm w-full mx-4 shadow-2xl">
+<!-- 🌟修复点：把 z-index: 999999 直接写进 style 属性里，确保绝对置顶，再也不会被遮挡 -->
+<div id="redirect-modal" style="height: 100dvh; z-index: 999999;" class="fixed top-0 left-0 w-full hidden items-center justify-center bg-slate-900/60 backdrop-blur-sm px-4" aria-modal="true" role="dialog">
+    <div class="bg-white rounded-2xl p-6 md:p-8 w-full max-w-sm shadow-2xl relative">
          
         <!-- 标题和内容会由下面的 JS 动态注入 -->
         <h3 id="modal-dynamic-title" class="text-xl font-bold text-slate-900 text-center mb-2"></h3>
         <p id="modal-dynamic-content" class="text-slate-600 text-center mb-8 text-sm leading-relaxed"></p>
         
         <div class="flex gap-3">
-            <button onclick="closeModal()" class="flex-1 py-3 px-4 bg-slate-100 hover:bg-slate-200 text-slate-700 text-sm font-semibold rounded-xl transition-colors">
+            <button onclick="closeRedirectModal()" class="flex-1 py-3 px-4 bg-slate-100 hover:bg-slate-200 text-slate-700 text-sm font-semibold rounded-xl transition-colors">
                 <!-- 调用多语言配置：Cancel -->
                 {{ i18n "cancel" | default "Cancel" }}
             </button>
@@ -165,26 +169,34 @@
     function closeModal() {
         const modal = document.getElementById('custom-modal');
         const content = document.getElementById('modal-content');
-        content.classList.remove('scale-100');
-        content.classList.add('scale-95');
-        setTimeout(() => {
-            modal.classList.add('hidden');
-        }, 300);
+        if (content) {
+            content.classList.remove('scale-100');
+            content.classList.add('scale-95');
+        }
+        if (modal) {
+            setTimeout(() => {
+                modal.classList.add('hidden');
+            }, 300);
+        }
     }
 
     // Modal Handlers
     function handleAndroidClick() {
-        showModal('Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code: <strong class="text-blue-600 text-base ml-1">ESIM20</strong>', k3);
+        showModal('Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code: <strong class="text-blue-600 text-base ml-1">ESIM20</strong>', typeof k3 !== 'undefined' ? k3 : function(){});
     }
 
     function handleWebClick() {
-        showModal('Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code: <strong class="text-blue-600 text-base ml-1">ESIM20</strong>', k4);
+        showModal('Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code: <strong class="text-blue-600 text-base ml-1">ESIM20</strong>', typeof k4 !== 'undefined' ? k4 : function(){});
     }
 
     // Mobile Navigation
-    document.getElementById('mobile-menu-btn').addEventListener('click', function () {
-        document.getElementById('mobile-menu').classList.toggle('hidden');
-    });
+    const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+    if (mobileMenuBtn) {
+        mobileMenuBtn.addEventListener('click', function () {
+            const mobileMenu = document.getElementById('mobile-menu');
+            if (mobileMenu) mobileMenu.classList.toggle('hidden');
+        });
+    }
 
     // Smooth Scrolling
     document.querySelectorAll('a[href^="#"]').forEach(function (a) {
@@ -195,7 +207,8 @@
             var target = document.querySelector(href);
             if (target) {
                 target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-                document.getElementById('mobile-menu').classList.add('hidden');
+                const mobileMenu = document.getElementById('mobile-menu');
+                if (mobileMenu) mobileMenu.classList.add('hidden');
             }
         });
     });
@@ -231,8 +244,10 @@
                 c.classList.remove('active');
             });
             const target = document.getElementById(btn.getAttribute('data-target'));
-            target.classList.remove('hidden');
-            target.classList.add('active');
+            if (target) {
+                target.classList.remove('hidden');
+                target.classList.add('active');
+            }
         });
     });
 
@@ -251,11 +266,14 @@
                 c.classList.remove('active');
             });
             const target = document.getElementById(btn.getAttribute('data-target'));
-            target.classList.remove('hidden');
-            target.classList.add('active');
+            if (target) {
+                target.classList.remove('hidden');
+                target.classList.add('active');
+            }
         });
     });
 </script>
+
 <script>
     function handleBuyNow() {
         const userAgent = navigator.userAgent || navigator.vendor || window.opera, 
@@ -263,7 +281,7 @@
               isAndroid = /android/i.test(userAgent);
               
         let targetUrl = 'https://www.phonesimgo.com', 
-            // 🌟 重点：直接使用 i18n 调用多语言文件中的文案！
+            // 调用多语言文件中的文案
             modalTitle = `{{ i18n "friendly_reminder" | default "Service Updated" }}`,
             modalText = `{{ i18n "modal_upgrade_desc" | default "Our services have been upgraded. Please visit our official website or APP to get your promo code." }}`;
             
@@ -281,13 +299,15 @@
         if (titleEl) titleEl.innerHTML = modalTitle;
         if (contentEl) contentEl.innerHTML = modalText;
         
-        // 防错处理：确保弹窗 HTML 存在才触发弹窗，否则直接跳转
+        // 防错处理：确保弹窗 HTML 存在才触发弹窗
         if (modal) {
-            modal.classList.replace('hidden', 'flex'); 
+            modal.classList.remove('hidden'); 
+            modal.classList.add('flex'); 
+            
             if(continueBtn) {
                 continueBtn.onclick = () => { 
                     window.open(targetUrl, '_blank'); 
-                    closeModal(); 
+                    closeRedirectModal(); 
                 };
             }
         } else {
@@ -295,8 +315,11 @@
         }
     }
 
-    function closeModal() { 
+    function closeRedirectModal() { 
         const modal = document.getElementById('redirect-modal');
-        if(modal) modal.classList.replace('flex', 'hidden'); 
+        if (modal) {
+            modal.classList.remove('flex'); 
+            modal.classList.add('hidden'); 
+        }
     }
 </script>
