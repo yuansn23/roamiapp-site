@@ -1,6 +1,6 @@
 ---
 title: Bangladesh eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Buy Bangladesh eSIM | Unlimited 5G Data | No Hidden Charges | Roami
   description: Need internet in Bangladesh? Stay connected via Top Local Carrier Zero-Lag
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/bd.svg
   flag_alt: Bangladesh Flag
   title: Bangladesh eSIM data plan
-  subtitle: High-speed 5G network | Comfortable | Prioritized 5G access
+  subtitle: High-speed 5G network | Comfortable | Prioritized 5G access – The best
+    prepaid eSIM for Bangladesh travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Bangladesh eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -197,9 +198,11 @@ plans_data:
     tagColor: bg-purple-600
     daily: '5.00'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Bangladesh eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Bangladesh for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -238,11 +241,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Bangladesh eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Bangladesh.
   - icon: ⏰
@@ -257,8 +261,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -271,8 +276,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -605,7 +609,7 @@ faq_section:
         on the go using your Bangladesh eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Bangladesh eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -655,84 +659,103 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Bangladesh eSIM or SIM Card for Tourists: Which Should You Choose?"
-  subtitle: "Bangladesh Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Bangladesh eSIM or SIM Card for Tourists: Which Should You Choose?'
+  subtitle: Bangladesh Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Bangladesh) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Bangladesh"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Bangladesh) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Bangladesh
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Bangladesh eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Bangladesh eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Acquisition requires visiting a Teletalk customer center or GP airport counter with passport and visa copies; GP airport counter is open until 3 AM but process takes time."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip GP airport queues and Teletalk center visits. Activate online within 1 minute after landing in Dhaka."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All operators require 1-2 passport-size photos, passport and Bangladesh visa copies for registration."
-      esim_title: "No Passport Registration"
-      esim_desc: "Avoid submitting 1-2 passport photos and visa copies to Teletalk or GP. eSIM activates without any KYC."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, local SIMs do not include international roaming; separate add-ons are needed."
-      esim_title: "Multi-Network Roaming"
-      esim_desc: "Unlike GP's single network, eSIM automatically switches between Robi, Banglalink, and Teletalk, ensuring coverage even in Sundarbans where GP has no signal."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Due to regulation, all operators offer minimum 7-day plans; e.g., GP 1GB/7 days costs 77 taka, causing waste for short stays."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Avoid GP's 7-day minimum waste (e.g., 1GB/77 taka). Roami offers 7-day plans starting from $1.99/GB, matching your exact stay."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed but may be restricted on some plans."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike some local plans that may block hotspot, eSIM allows full-speed tethering on all devices."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up can be done via iTopUp for Banglalink; foreign credit cards may fail; physical vouchers are common."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local vouchers or iTopUp."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is available in Bengali and English, but hours may be limited; no live chat for prepaid."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock support in English, unlike limited local prepaid support hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Acquisition requires visiting a Teletalk customer center or GP airport
+      counter with passport and visa copies; GP airport counter is open until 3 AM
+      but process takes time.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip GP airport queues and Teletalk center visits. Activate online
+      within 1 minute after landing in Dhaka.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: All operators require 1-2 passport-size photos, passport and Bangladesh
+      visa copies for registration.
+    esim_title: No Passport Registration
+    esim_desc: Avoid submitting 1-2 passport photos and visa copies to Teletalk or
+      GP. eSIM activates without any KYC.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      local SIMs do not include international roaming; separate add-ons are needed.
+    esim_title: Multi-Network Roaming
+    esim_desc: Unlike GP's single network, eSIM automatically switches between Robi,
+      Banglalink, and Teletalk, ensuring coverage even in Sundarbans where GP has
+      no signal.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Due to regulation, all operators offer minimum 7-day plans; e.g.,
+      GP 1GB/7 days costs 77 taka, causing waste for short stays.
+    esim_title: Flexible Short Plans
+    esim_desc: Avoid GP's 7-day minimum waste (e.g., 1GB/77 taka). Roami offers 7-day
+      plans starting from $1.99/GB, matching your exact stay.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      tethering is generally allowed but may be restricted on some plans.
+    esim_title: Unrestricted Tethering
+    esim_desc: Unlike some local plans that may block hotspot, eSIM allows full-speed
+      tethering on all devices.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up can be done via iTopUp for Banglalink; foreign credit cards
+      may fail; physical vouchers are common.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for local vouchers or iTopUp.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is available in Bengali and English, but hours
+      may be limited; no live chat for prepaid.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock support in English, unlike limited local prepaid
+      support hours.
   expert_verdict:
-    title: "Bangladesh eSIM vs Local Prepaid SIM: Which Is More Convenient?"
+    title: 'Bangladesh eSIM vs Local Prepaid SIM: Which Is More Convenient?'
     cards:
-      - icon: "clock"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "1-Minute Activation vs. 30-Minute Queue"
-        desc: "GP airport counter may be open until 3 AM but requires filling forms and waiting. eSIM activates <b>within 1 minute</b> after online purchase, no queues."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate 7-Day Minimum Waste"
-        desc: "Regulation forces all operators to offer <b>minimum 7-day plans</b>. A 3-day tourist buying GP's 1GB/77 taka plan wastes over <b>57%</b> of data and validity. eSIM offers plans as short as 1 day."
-      - icon: "wifi"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Unrestricted Hotspot Tethering"
-        desc: "Some local plans restrict tethering or throttle after a limit. eSIM allows <b>full-speed hotspot</b> on all devices, perfect for sharing with travel companions."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Bangladesh's Strict SIM Passport Requirements"
-        desc: "All local operators (Teletalk, GP, Banglalink, Robi) require <b>1-2 passport photos</b>, passport and visa copies for registration. eSIM activates instantly with zero paperwork."
+    - icon: clock
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: 1-Minute Activation vs. 30-Minute Queue
+      desc: GP airport counter may be open until 3 AM but requires filling forms and
+        waiting. eSIM activates <b>within 1 minute</b> after online purchase, no queues.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate 7-Day Minimum Waste
+      desc: Regulation forces all operators to offer <b>minimum 7-day plans</b>. A
+        3-day tourist buying GP's 1GB/77 taka plan wastes over <b>57%</b> of data
+        and validity. eSIM offers plans as short as 1 day.
+    - icon: wifi
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Unrestricted Hotspot Tethering
+      desc: Some local plans restrict tethering or throttle after a limit. eSIM allows
+        <b>full-speed hotspot</b> on all devices, perfect for sharing with travel
+        companions.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Bangladesh's Strict SIM Passport Requirements
+      desc: All local operators (Teletalk, GP, Banglalink, Robi) require <b>1-2 passport
+        photos</b>, passport and visa copies for registration. eSIM activates instantly
+        with zero paperwork.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Colombia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Top Colombia eSIM |Unlimited Data|Top Local Carrier High-Speed 5G | Roami
   description: Heading to Colombia soon? Stay connected via Top Local Carrier Seamless
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/co.svg
   flag_alt: Colombia Flag
   title: Colombia eSIM data plan
-  subtitle: Instant delivery | Hotspot supported | No ID required
+  subtitle: Instant delivery | Hotspot supported | No ID required – The best prepaid
+    eSIM for Colombia travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Colombia eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -254,9 +255,11 @@ plans_data:
     tagColor: bg-slate-800
     daily: '5.40'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Colombia eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Colombia for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -295,11 +298,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Colombia eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Colombia.
   - icon: ⏰
@@ -314,8 +318,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -328,8 +333,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -661,7 +665,7 @@ faq_section:
         on the go using your Colombia eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Colombia eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -711,84 +715,103 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Colombia eSIM or SIM Card: What’s the Best Option in 2026?"
-  subtitle: "Colombia Local Prepaid SIMs vs. eSIM Solutions (2025/2026 Benchmark)"
+  title: 'Colombia eSIM or SIM Card: What’s the Best Option in 2026?'
+  subtitle: Colombia Local Prepaid SIMs vs. eSIM Solutions (2025/2026 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Colombia) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Colombia"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Colombia) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Colombia
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Colombia eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Colombia eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Claro SIM cards at Bogota airport cost more than city stores; purchase requires ID and hotel address proof."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport queues and avoid Claro's higher airport prices. Activate your Roami eSIM online within 1 minute after landing in Bogota."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All Colombian prepaid SIMs require IMEI registration within 30 days; Claro requires passport and address proof at purchase."
-      esim_title: "No Passport or IMEI Registration"
-      esim_desc: "Bypass Colombia's mandatory IMEI registration (required by Claro, Movistar, Tigo within 30 days) and passport checks. Roami eSIM activates instantly without personal ID."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "CAN roaming (Bolivia, Colombia, Ecuador, Peru) is postpaid-only; prepaid cards incur high international roaming charges."
-      esim_title: "Seamless Multi-Country Roaming"
-      esim_desc: "Unlike Colombian prepaid SIMs (CAN roaming only for postpaid), Roami eSIM works across Colombia, Ecuador, Peru, and Bolivia with a single plan, no extra charges."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Claro 7-day plan (5GB, COP 11,000) and Movistar 7-day plan (1.4GB, COP 13,900) are typical; a 5-day trip wastes 2 days of value."
-      esim_title: "Flexible Daily Plans"
-      esim_desc: "Avoid Claro's 7-day fixed cycle (COP 11,000/5GB) that wastes 2 days for a 5-day trip. Roami offers 7-day plans starting from $1.99/GB, paying only for what you use."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, most Colombian prepaid plans allow tethering but may throttle after a certain limit."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike some local plans that may throttle after a limit (e.g., Tigo Une caps at 10 Mbps)."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up is available via physical vouchers at kiosks or online; foreign cards may be rejected."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local cash or vouchers that often reject foreign cards."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is primarily in Spanish; Claro's IMEI registration requires Spanish-speaking客服 or Mi Claro portal."
-      esim_title: "24/7 English Support"
-      esim_desc: "Get round-the-clock support in English, avoiding the language barrier of Claro's Spanish-only客服 and IMEI registration portals."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Claro SIM cards at Bogota airport cost more than city stores; purchase
+      requires ID and hotel address proof.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip airport queues and avoid Claro's higher airport prices. Activate
+      your Roami eSIM online within 1 minute after landing in Bogota.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: All Colombian prepaid SIMs require IMEI registration within 30 days;
+      Claro requires passport and address proof at purchase.
+    esim_title: No Passport or IMEI Registration
+    esim_desc: Bypass Colombia's mandatory IMEI registration (required by Claro, Movistar,
+      Tigo within 30 days) and passport checks. Roami eSIM activates instantly without
+      personal ID.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: CAN roaming (Bolivia, Colombia, Ecuador, Peru) is postpaid-only;
+      prepaid cards incur high international roaming charges.
+    esim_title: Seamless Multi-Country Roaming
+    esim_desc: Unlike Colombian prepaid SIMs (CAN roaming only for postpaid), Roami
+      eSIM works across Colombia, Ecuador, Peru, and Bolivia with a single plan, no
+      extra charges.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Claro 7-day plan (5GB, COP 11,000) and Movistar 7-day plan (1.4GB,
+      COP 13,900) are typical; a 5-day trip wastes 2 days of value.
+    esim_title: Flexible Daily Plans
+    esim_desc: Avoid Claro's 7-day fixed cycle (COP 11,000/5GB) that wastes 2 days
+      for a 5-day trip. Roami offers 7-day plans starting from $1.99/GB, paying only
+      for what you use.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      most Colombian prepaid plans allow tethering but may throttle after a certain
+      limit.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike some local plans
+      that may throttle after a limit (e.g., Tigo Une caps at 10 Mbps).
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up is available via physical vouchers at kiosks or online; foreign
+      cards may be rejected.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for local cash or vouchers that often reject foreign cards.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is primarily in Spanish; Claro's IMEI registration
+      requires Spanish-speaking客服 or Mi Claro portal.
+    esim_title: 24/7 English Support
+    esim_desc: Get round-the-clock support in English, avoiding the language barrier
+      of Claro's Spanish-only客服 and IMEI registration portals.
   expert_verdict:
-    title: "Colombia eSIM vs SIM Card: The Complete Comparison Guide"
+    title: 'Colombia eSIM vs SIM Card: The Complete Comparison Guide'
     cards:
-      - icon: "wifi"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Unrestricted Hotspot Sharing"
-        desc: "While local plans may throttle tethering (e.g., Tigo Une caps at 10 Mbps), Roami eSIM allows <b>full-speed hotspot</b> for all your devices."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Network Dead Zones"
-        desc: "In remote areas like Cabo de la Vela, only Claro has coverage. Movistar and Tigo users face no service. Roami eSIM connects to <b>multiple local networks</b> (Claro, Movistar) for best coverage."
-      - icon: "headset"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "24/7 English Customer Support"
-        desc: "Claro's IMEI registration and客服 are <b>Spanish-only</b>. Roami provides round-the-clock support in English, eliminating language barriers."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Global Cards, No Cash Needed"
-        desc: "Local top-up often rejects foreign cards; you need physical vouchers. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>."
+    - icon: wifi
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Unrestricted Hotspot Sharing
+      desc: While local plans may throttle tethering (e.g., Tigo Une caps at 10 Mbps),
+        Roami eSIM allows <b>full-speed hotspot</b> for all your devices.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Network Dead Zones
+      desc: In remote areas like Cabo de la Vela, only Claro has coverage. Movistar
+        and Tigo users face no service. Roami eSIM connects to <b>multiple local networks</b>
+        (Claro, Movistar) for best coverage.
+    - icon: headset
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: 24/7 English Customer Support
+      desc: Claro's IMEI registration and客服 are <b>Spanish-only</b>. Roami provides
+        round-the-clock support in English, eliminating language barriers.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Global Cards, No Cash Needed
+      desc: Local top-up often rejects foreign cards; you need physical vouchers.
+        Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>.
 ---

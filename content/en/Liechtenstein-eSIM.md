@@ -1,6 +1,6 @@
 ---
 title: Liechtenstein eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Liechtenstein eSIM | High-Speed 5G for Family Vacations | Roami
   description: Traveling to Liechtenstein? Enjoy Top Local Carrier Always-On 5G and
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/li.svg
   flag_alt: Liechtenstein Flag
   title: Liechtenstein eSIM data plan
-  subtitle: Travel essential | 24/7 customer support | Hotspot supported
+  subtitle: Travel essential | 24/7 customer support | Hotspot supported – The best
+    prepaid eSIM for Liechtenstein travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Liechtenstein eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -294,9 +295,11 @@ plans_data:
     tagColor: bg-purple-600
     daily: '3.33'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Liechtenstein eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Liechtenstein for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -335,11 +338,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Liechtenstein eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Liechtenstein.
   - icon: ⏰
@@ -354,8 +358,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -368,8 +373,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -705,7 +709,7 @@ faq_section:
         on the go using your Liechtenstein eSIM to update them on flight delays or
         schedule changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Liechtenstein eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -755,84 +759,111 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Liechtenstein eSIM vs Prepaid SIM Card: Key Differences Explained"
-  subtitle: "Liechtenstein Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Liechtenstein eSIM vs Prepaid SIM Card: Key Differences Explained'
+  subtitle: Liechtenstein Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Liechtenstein) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Liechtenstein"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Liechtenstein) + Local Operator
+      Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Liechtenstein
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Liechtenstein eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Liechtenstein eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "To purchase a prepaid SIM card, users must visit a Swisscom or 7acht (Salt) store in Liechtenstein or cross into Switzerland; no specific pricing is listed, implying high information asymmetry and risk of overpaying."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip the hassle of finding a Swisscom or 7acht store in Liechtenstein or crossing into Switzerland. Activate your eSIM online within 1 minute after landing."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common practice, Swiss and Liechtenstein prepaid SIMs typically require passport registration at point of sale."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid passport registration at stores. Roami eSIM activates instantly without any identity verification, unlike local prepaid SIMs that require in-person ID checks."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "All prepaid SIMs sold in Liechtenstein are treated as Swiss (non-EEA) SIMs, meaning all EEA roaming incurs additional charges; Sunrise and its MVNOs charge high international roaming fees and cap data under FUP when roaming in Liechtenstein."
-      esim_title: "Seamless EEA Roaming"
-      esim_desc: "Unlike local prepaid SIMs that are treated as Swiss (non-EEA) and incur extra charges in Austria or other EEA countries, Roami eSIM offers transparent regional plans with no hidden roaming fees."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Prepaid SIMs from Swisscom and 7acht follow a standard 30-day billing cycle; a tourist staying 1-3 days would waste over 90% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Avoid the 30-day billing cycle of Swisscom/7acht (wasting over 90% for a 1-3 day trip). Roami offers 7-day plans starting from $1.99/GB, perfectly matching your stay duration."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common practice, Swiss prepaid SIMs generally allow tethering but may throttle after a certain data cap."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing without any throttling or caps, unlike some local prepaid SIMs that may restrict tethering after a certain data limit."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common practice, top-up can be done via credit card (Visa, Mastercard) or cash at kiosks."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local cash or vouchers; top-up online instantly."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common practice, customer support is typically in German, with limited English availability."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock customer support in English, unlike local prepaid SIMs that typically offer support only in German during business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: To purchase a prepaid SIM card, users must visit a Swisscom or 7acht
+      (Salt) store in Liechtenstein or cross into Switzerland; no specific pricing
+      is listed, implying high information asymmetry and risk of overpaying.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip the hassle of finding a Swisscom or 7acht store in Liechtenstein
+      or crossing into Switzerland. Activate your eSIM online within 1 minute after
+      landing.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common practice,
+      Swiss and Liechtenstein prepaid SIMs typically require passport registration
+      at point of sale.
+    esim_title: No Passport Required
+    esim_desc: Avoid passport registration at stores. Roami eSIM activates instantly
+      without any identity verification, unlike local prepaid SIMs that require in-person
+      ID checks.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: All prepaid SIMs sold in Liechtenstein are treated as Swiss (non-EEA)
+      SIMs, meaning all EEA roaming incurs additional charges; Sunrise and its MVNOs
+      charge high international roaming fees and cap data under FUP when roaming in
+      Liechtenstein.
+    esim_title: Seamless EEA Roaming
+    esim_desc: Unlike local prepaid SIMs that are treated as Swiss (non-EEA) and incur
+      extra charges in Austria or other EEA countries, Roami eSIM offers transparent
+      regional plans with no hidden roaming fees.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Prepaid SIMs from Swisscom and 7acht follow a standard 30-day billing
+      cycle; a tourist staying 1-3 days would waste over 90% of the plan's value.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Avoid the 30-day billing cycle of Swisscom/7acht (wasting over 90%
+      for a 1-3 day trip). Roami offers 7-day plans starting from $1.99/GB, perfectly
+      matching your stay duration.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common practice,
+      Swiss prepaid SIMs generally allow tethering but may throttle after a certain
+      data cap.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami eSIM allows full-speed hotspot sharing without any throttling
+      or caps, unlike some local prepaid SIMs that may restrict tethering after a
+      certain data limit.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common practice,
+      top-up can be done via credit card (Visa, Mastercard) or cash at kiosks.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for local cash or vouchers; top-up online instantly.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common practice,
+      customer support is typically in German, with limited English availability.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock customer support in English, unlike local prepaid
+      SIMs that typically offer support only in German during business hours.
   expert_verdict:
-    title: "Liechtenstein eSIM or SIM Card for Tourists: Which Should You Choose?"
+    title: 'Liechtenstein eSIM or SIM Card for Tourists: Which Should You Choose?'
     cards:
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "24/7 Multilingual Support"
-        desc: "Local prepaid SIMs typically offer support only in German during business hours. Roami provides <b>24/7 customer support in English</b>, ready to assist anytime."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation, No Store Visit"
-        desc: "Skip the need to find a Swisscom or 7acht store in Liechtenstein or cross into Switzerland. Roami eSIM activates in <b>under 1 minute</b> after purchase."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate 30-Day Sunk Cost"
-        desc: "Swisscom and 7acht prepaid plans use a <b>30-day billing cycle</b>. For a 1-3 day trip, you waste over 90% of the plan's value. Roami offers 7-day plans from <b>$1.99/GB</b>, perfectly matching your stay."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Liechtenstein's SIM Passport Requirements"
-        desc: "Local prepaid SIMs from Swisscom and 7acht require in-store passport registration. Roami eSIM activates instantly with zero ID checks, saving you time and hassle."
+    - icon: shield
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: 24/7 Multilingual Support
+      desc: Local prepaid SIMs typically offer support only in German during business
+        hours. Roami provides <b>24/7 customer support in English</b>, ready to assist
+        anytime.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation, No Store Visit
+      desc: Skip the need to find a Swisscom or 7acht store in Liechtenstein or cross
+        into Switzerland. Roami eSIM activates in <b>under 1 minute</b> after purchase.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate 30-Day Sunk Cost
+      desc: Swisscom and 7acht prepaid plans use a <b>30-day billing cycle</b>. For
+        a 1-3 day trip, you waste over 90% of the plan's value. Roami offers 7-day
+        plans from <b>$1.99/GB</b>, perfectly matching your stay.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Liechtenstein's SIM Passport Requirements
+      desc: Local prepaid SIMs from Swisscom and 7acht require in-store passport registration.
+        Roami eSIM activates instantly with zero ID checks, saving you time and hassle.
 ---

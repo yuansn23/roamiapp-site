@@ -1,6 +1,6 @@
 ---
 title: Paraguay eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Top Paraguay eSIM | Fast 5G Travel Internet | Roami
   description: Heading to Paraguay? Ensure you have stable digital connectivity with
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/py.svg
   flag_alt: Paraguay Flag
   title: Paraguay eSIM data plan
-  subtitle: Instant delivery | Smart choice | Worry-free internet
+  subtitle: Instant delivery | Smart choice | Worry-free internet – The best prepaid
+    eSIM for Paraguay travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Paraguay eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -115,9 +116,11 @@ plans_data:
     tagColor: bg-purple-600
     daily: '17.66'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Paraguay eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Paraguay for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -156,11 +159,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Paraguay eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Paraguay.
   - icon: ⏰
@@ -175,8 +179,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -189,8 +194,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -519,7 +523,7 @@ faq_section:
         on the go using your Paraguay eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Paraguay eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -569,84 +573,108 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Paraguay eSIM vs Prepaid SIM Card: Everything You Should Consider"
-  subtitle: "Paraguay Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Paraguay eSIM vs Prepaid SIM Card: Everything You Should Consider'
+  subtitle: Paraguay Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Paraguay) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Paraguay"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Paraguay) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Paraguay
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Paraguay eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Paraguay eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "In Paraguay, purchasing a prepaid SIM requires presenting a passport or ID, filling out a Conatel form, and providing fingerprints at operator stores like Tigo or Personal; airport kiosks may charge higher prices."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Tigo or Personal store queues and fingerprint registration. Activate your Roami eSIM online within 1 minute before landing in Asunción."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Since 2017, all Paraguayan operators (Tigo, Personal, Claro, VOX) must collect fingerprints and passport details for SIM registration; unregistered lines are deactivated."
-      esim_title: "No Passport or Fingerprint Needed"
-      esim_desc: "Avoid Paraguay's mandatory fingerprint and passport registration (required by law since 2017). Roami eSIM requires zero personal identification."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "The Mercosur 'Roam Like at Home' agreement explicitly excludes prepaid users; Tigo and Claro prepaid SIMs have no free roaming in neighboring countries like Brazil or Argentina."
-      esim_title: "Seamless Cross-Border Roaming"
-      esim_desc: "Unlike Tigo prepaid which is excluded from Mercosur roaming, Roami eSIM works in Brazil and Argentina without extra fees or SIM swaps."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Tigo offers plans up to 5 days (e.g., 2GB/5 days for PYG 15,000); Personal SIM cards have a forced 7-day validity for included balance; a 8-day tourist may waste up to PYG 30,000 on unused data."
-      esim_title: "Flexible Plans, No Waste"
-      esim_desc: "Unlike Personal's 7-day forced validity or Tigo's 5-day max plan, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. However, based on common practice, Paraguayan operators generally allow tethering but may throttle speeds after a certain limit (e.g., Claro data-only SIM throttles to 128 kbps after 500MB/day)."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike Claro's data-only SIM which throttles to 128 kbps after 500MB/day."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up can be done via physical vouchers or operator apps; foreign credit cards (Visa, Mastercard) are often rejected for online top-ups due to lack of local tax ID."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local tax ID or physical vouchers."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is typically in Spanish, available via phone or in-store; no dedicated English support for prepaid users."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get English-speaking support via live chat or email, unlike Paraguayan operators which offer only Spanish phone support during business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: In Paraguay, purchasing a prepaid SIM requires presenting a passport
+      or ID, filling out a Conatel form, and providing fingerprints at operator stores
+      like Tigo or Personal; airport kiosks may charge higher prices.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Tigo or Personal store queues and fingerprint registration. Activate
+      your Roami eSIM online within 1 minute before landing in Asunción.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Since 2017, all Paraguayan operators (Tigo, Personal, Claro, VOX)
+      must collect fingerprints and passport details for SIM registration; unregistered
+      lines are deactivated.
+    esim_title: No Passport or Fingerprint Needed
+    esim_desc: Avoid Paraguay's mandatory fingerprint and passport registration (required
+      by law since 2017). Roami eSIM requires zero personal identification.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: The Mercosur 'Roam Like at Home' agreement explicitly excludes prepaid
+      users; Tigo and Claro prepaid SIMs have no free roaming in neighboring countries
+      like Brazil or Argentina.
+    esim_title: Seamless Cross-Border Roaming
+    esim_desc: Unlike Tigo prepaid which is excluded from Mercosur roaming, Roami
+      eSIM works in Brazil and Argentina without extra fees or SIM swaps.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Tigo offers plans up to 5 days (e.g., 2GB/5 days for PYG 15,000);
+      Personal SIM cards have a forced 7-day validity for included balance; a 8-day
+      tourist may waste up to PYG 30,000 on unused data.
+    esim_title: Flexible Plans, No Waste
+    esim_desc: Unlike Personal's 7-day forced validity or Tigo's 5-day max plan, Roami
+      offers 7-day plans starting from $1.99/GB, saving up to 75% waste for short
+      trips.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. However, based on
+      common practice, Paraguayan operators generally allow tethering but may throttle
+      speeds after a certain limit (e.g., Claro data-only SIM throttles to 128 kbps
+      after 500MB/day).
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike Claro's data-only
+      SIM which throttles to 128 kbps after 500MB/day.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up can be done via physical vouchers or operator apps; foreign
+      credit cards (Visa, Mastercard) are often rejected for online top-ups due to
+      lack of local tax ID.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for local tax ID or physical vouchers.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is typically in Spanish, available via phone or
+      in-store; no dedicated English support for prepaid users.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get English-speaking support via live chat or email, unlike Paraguayan
+      operators which offer only Spanish phone support during business hours.
   expert_verdict:
-    title: "Paraguay eSIM vs Physical SIM: Travel, Cost, and Setup Compared"
+    title: 'Paraguay eSIM vs Physical SIM: Travel, Cost, and Setup Compared'
     cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Paraguay's Strict SIM Registration"
-        desc: "Paraguay requires <b>fingerprint and passport</b> for all prepaid SIMs (Tigo, Personal, Claro, VOX) since 2017. Roami eSIM needs <b>zero personal data</b>."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Mercosur Roaming Exclusion"
-        desc: "Mercosur 'Roam Like at Home' <b>excludes prepaid users</b>. Tigo and Claro SIMs have no free roaming in Brazil/Argentina. Roami eSIM works seamlessly across borders."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Global Cards, No Local Tax ID"
-        desc: "Paraguayan top-up often rejects foreign cards (Visa, Mastercard). Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>."
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "24/7 English Support vs Local Spanish Only"
-        desc: "Paraguayan operators offer <b>Spanish-only phone support</b> during business hours. Roami provides <b>24/7 multilingual live chat</b>."
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Paraguay's Strict SIM Registration
+      desc: Paraguay requires <b>fingerprint and passport</b> for all prepaid SIMs
+        (Tigo, Personal, Claro, VOX) since 2017. Roami eSIM needs <b>zero personal
+        data</b>.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Mercosur Roaming Exclusion
+      desc: Mercosur 'Roam Like at Home' <b>excludes prepaid users</b>. Tigo and Claro
+        SIMs have no free roaming in Brazil/Argentina. Roami eSIM works seamlessly
+        across borders.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Global Cards, No Local Tax ID
+      desc: Paraguayan top-up often rejects foreign cards (Visa, Mastercard). Roami
+        accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>.
+    - icon: shield
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: 24/7 English Support vs Local Spanish Only
+      desc: Paraguayan operators offer <b>Spanish-only phone support</b> during business
+        hours. Roami provides <b>24/7 multilingual live chat</b>.
 ---

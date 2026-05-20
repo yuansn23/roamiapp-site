@@ -1,6 +1,6 @@
 ---
 title: Mali eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Top Mali eSIM | 20% OFF| Top Local Carrier Always-On 5G | Roami
   description: Need internet in Mali? Stay connected via Top Local Carrier Fast 5G
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/ml.svg
   flag_alt: Mali Flag
   title: Mali eSIM data plan
-  subtitle: Bestseller | Comfortable | High-speed 5G network
+  subtitle: Bestseller | Comfortable | High-speed 5G network – The best prepaid eSIM
+    for Mali travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Mali eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -106,9 +107,11 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.03'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Mali eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Mali for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -147,11 +150,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Mali eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Mali.
   - icon: ⏰
@@ -166,8 +170,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -180,8 +185,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -501,7 +505,7 @@ faq_section:
         on the go using your Mali eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Mali eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -551,84 +555,98 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Mali eSIM or SIM Card: What’s the Best Option in 2026?"
-  subtitle: "Mali Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Mali eSIM or SIM Card: What’s the Best Option in 2026?'
+  subtitle: Mali Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Mali) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Mali"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Mali) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Mali
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Mali eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Mali eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "SIM cards are sold at Orange and Malitel stores in Bamako; airport kiosks are limited, requiring a trip to official 'Agences'."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Orange and Malitel store queues. Activate online within 1 minute after landing in Bamako."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Both Orange and Malitel require passport presentation at the point of purchase for identity verification."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid handing over your passport at Orange or Malitel stores. Roami eSIM requires no ID verification."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Orange and Malitel local data plans have no roaming benefits outside Mali; a new SIM is needed when crossing borders."
-      esim_title: "Seamless Cross-Border Roaming"
-      esim_desc: "Unlike Orange's Mali-only plan, Roami eSIM works across West Africa without buying a new SIM."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Orange data packs are one-time purchase with a fixed 30-day validity; e.g., 1GB costs 7500 CFA."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Orange's 30-day cycle (1GB/7500 CFA), Roami offers 7-day plans starting from $1.99/GB, saving 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common practice, tethering is generally allowed but may be restricted on some plans."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike some local plans that may restrict tethering."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up is mainly via cash at street vendors; online top-up (e.g., swiftrecharge.com) accepts international cards but with extra fees."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for cash or local vouchers."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is available at Orange and Malitel stores in Bamako, but phone support may be limited to French or local languages."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock support in English and French, unlike Orange's limited store hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: SIM cards are sold at Orange and Malitel stores in Bamako; airport
+      kiosks are limited, requiring a trip to official 'Agences'.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Orange and Malitel store queues. Activate online within 1 minute
+      after landing in Bamako.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Both Orange and Malitel require passport presentation at the point
+      of purchase for identity verification.
+    esim_title: No Passport Required
+    esim_desc: Avoid handing over your passport at Orange or Malitel stores. Roami
+      eSIM requires no ID verification.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Orange and Malitel local data plans have no roaming benefits outside
+      Mali; a new SIM is needed when crossing borders.
+    esim_title: Seamless Cross-Border Roaming
+    esim_desc: Unlike Orange's Mali-only plan, Roami eSIM works across West Africa
+      without buying a new SIM.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Orange data packs are one-time purchase with a fixed 30-day validity;
+      e.g., 1GB costs 7500 CFA.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike Orange's 30-day cycle (1GB/7500 CFA), Roami offers 7-day plans
+      starting from $1.99/GB, saving 75% waste.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common practice,
+      tethering is generally allowed but may be restricted on some plans.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike some local plans
+      that may restrict tethering.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up is mainly via cash at street vendors; online top-up (e.g.,
+      swiftrecharge.com) accepts international cards but with extra fees.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for cash or local vouchers.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is available at Orange and Malitel stores in Bamako,
+      but phone support may be limited to French or local languages.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock support in English and French, unlike Orange's
+      limited store hours.
   expert_verdict:
-    title: "Mali eSIM vs Prepaid SIM: Which Offers Better Value?"
+    title: 'Mali eSIM vs Prepaid SIM: Which Offers Better Value?'
     cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Mali's Strict SIM Passport Requirements"
-        desc: "Both <b>Orange Mali</b> and <b>Malitel</b> require you to present your passport at the store. Roami eSIM activates instantly with zero ID checks."
-      - icon: "wifi"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Unrestricted Hotspot Tethering"
-        desc: "While local SIMs may restrict tethering, Roami eSIM allows full-speed hotspot sharing for all your devices."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payment Methods Accepted"
-        desc: "Pay with <b>Visa</b>, <b>Mastercard</b>, <b>AMEX</b>, <b>Apple Pay</b>, <b>Google Pay</b>, or <b>PayPal</b>. No need for cash or local vouchers."
-      - icon: "clock"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Instant Activation, No Store Visit"
-        desc: "Orange and Malitel require a trip to their stores in Bamako. Roami eSIM activates in <b>1 minute</b> after purchase."
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Mali's Strict SIM Passport Requirements
+      desc: Both <b>Orange Mali</b> and <b>Malitel</b> require you to present your
+        passport at the store. Roami eSIM activates instantly with zero ID checks.
+    - icon: wifi
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Unrestricted Hotspot Tethering
+      desc: While local SIMs may restrict tethering, Roami eSIM allows full-speed
+        hotspot sharing for all your devices.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Global Payment Methods Accepted
+      desc: Pay with <b>Visa</b>, <b>Mastercard</b>, <b>AMEX</b>, <b>Apple Pay</b>,
+        <b>Google Pay</b>, or <b>PayPal</b>. No need for cash or local vouchers.
+    - icon: clock
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Instant Activation, No Store Visit
+      desc: Orange and Malitel require a trip to their stores in Bamako. Roami eSIM
+        activates in <b>1 minute</b> after purchase.
 ---

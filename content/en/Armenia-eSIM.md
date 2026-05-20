@@ -1,6 +1,6 @@
 ---
 title: Armenia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Armenia eSIM | 20% OFF | High-Speed 5G Travel Data | Roami
   description: Need a reliable connection in Armenia? Roami offers a zero-roaming-shock
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/am.svg
   flag_alt: Armenia Flag
   title: Armenia eSIM data plan
-  subtitle: 100% money-back guarantee | 24/7 customer support | Instant delivery
+  subtitle: 100% money-back guarantee | 24/7 customer support | Instant delivery –
+    The best prepaid eSIM for Armenia travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Armenia eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -238,9 +239,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '3.33'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Armenia eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Armenia for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -279,11 +282,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Armenia eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Armenia.
   - icon: ⏰
@@ -298,8 +302,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -312,8 +317,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -643,7 +647,7 @@ faq_section:
         on the go using your Armenia eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Armenia eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -693,84 +697,98 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Armenia eSIM vs Physical SIM Card: Pros and Cons Breakdown"
-  subtitle: "Armenia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Armenia eSIM vs Physical SIM Card: Pros and Cons Breakdown'
+  subtitle: Armenia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Armenia) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Armenia"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Armenia) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Armenia
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Armenia eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Armenia eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Viva-MTS requires passport purchase at official stores or border kiosks; Ucom requires calling 111 for activation."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Viva-MTS store queues and passport checks. Activate online within 1 minute after landing in Yerevan."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All three operators enforce mandatory SIM card real-name registration: passport must be presented at purchase."
-      esim_title: "No Passport Required"
-      esim_desc: "Bypass Armenia's mandatory SIM registration. Unlike Viva-MTS or Team, Roami eSIM requires zero ID verification."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Team Telecom Armenia charges AMD 2625 (≈€6.5) for 500MB in Europe outside Russia; Viva-MTS roaming add-ons are expensive."
-      esim_title: "Global Roaming Included"
-      esim_desc: "Avoid Team's €6.5/500MB roaming rip-off. Roami offers affordable multi-country plans with no FUP throttling."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "All major prepaid plans (e.g., Viva-MTS AMD 2500/4GB, Team AMD 1500/3GB) use 30-day cycles; a 3-day trip wastes ~90% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Viva-MTS's 30-day cycle (AMD 2500/4GB), Roami offers 7-day plans starting from $1.99/GB, saving up to 90% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common practice, tethering is generally allowed but may be throttled after fair usage."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami allows full-speed hotspot sharing, unlike some local SIMs that may throttle or block tethering after a few GB."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up via physical vouchers with short validity (e.g., Viva-MTS AMD 500 valid 12 days); online top-up may reject foreign cards."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to buy short-lived physical vouchers."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is primarily in Armenian/Russian; Ucom activation requires calling 111 with voice prompts."
-      esim_title: "24/7 English Support"
-      esim_desc: "Get instant help via live chat or email, unlike Ucom's Armenian-only 111 hotline."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Viva-MTS requires passport purchase at official stores or border
+      kiosks; Ucom requires calling 111 for activation.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Viva-MTS store queues and passport checks. Activate online within
+      1 minute after landing in Yerevan.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: 'All three operators enforce mandatory SIM card real-name registration:
+      passport must be presented at purchase.'
+    esim_title: No Passport Required
+    esim_desc: Bypass Armenia's mandatory SIM registration. Unlike Viva-MTS or Team,
+      Roami eSIM requires zero ID verification.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Team Telecom Armenia charges AMD 2625 (≈€6.5) for 500MB in Europe
+      outside Russia; Viva-MTS roaming add-ons are expensive.
+    esim_title: Global Roaming Included
+    esim_desc: Avoid Team's €6.5/500MB roaming rip-off. Roami offers affordable multi-country
+      plans with no FUP throttling.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: All major prepaid plans (e.g., Viva-MTS AMD 2500/4GB, Team AMD 1500/3GB)
+      use 30-day cycles; a 3-day trip wastes ~90% of the plan's value.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike Viva-MTS's 30-day cycle (AMD 2500/4GB), Roami offers 7-day plans
+      starting from $1.99/GB, saving up to 90% waste for short trips.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common practice,
+      tethering is generally allowed but may be throttled after fair usage.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami allows full-speed hotspot sharing, unlike some local SIMs that
+      may throttle or block tethering after a few GB.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up via physical vouchers with short validity (e.g., Viva-MTS
+      AMD 500 valid 12 days); online top-up may reject foreign cards.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need to buy short-lived physical vouchers.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is primarily in Armenian/Russian; Ucom activation
+      requires calling 111 with voice prompts.
+    esim_title: 24/7 English Support
+    esim_desc: Get instant help via live chat or email, unlike Ucom's Armenian-only
+      111 hotline.
   expert_verdict:
-    title: "Armenia eSIM vs Physical SIM Card: Activation and Setup Compared"
+    title: 'Armenia eSIM vs Physical SIM Card: Activation and Setup Compared'
     cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay Globally, Skip Short-Lived Vouchers"
-        desc: "Viva-MTS vouchers expire in 12-48 days. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
-      - icon: "shield"
-        icon_bg: "bg-orange-100"
-        icon_color: "text-orange-600"
-        title: "Keep Your Home SIM Active"
-        desc: "No need to remove your physical SIM. Roami eSIM allows dual-SIM use, so you never miss bank SMS or calls."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate 90% Sunk Cost on 30-Day Plans"
-        desc: "Viva-MTS's cheapest plan (AMD 2500/4GB) is 30-day locked. A 3-day trip wastes ~90% of the value. Roami's 7-day plans start at $1.99/GB."
-      - icon: "clock"
-        icon_bg: "bg-cyan-100"
-        icon_color: "text-cyan-600"
-        title: "Instant Activation, No Queue"
-        desc: "Skip Viva-MTS border kiosks and Ucom's 111 call activation. Roami delivers eSIM via email, ready in 1 minute."
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay Globally, Skip Short-Lived Vouchers
+      desc: Viva-MTS vouchers expire in 12-48 days. Roami accepts Visa, Mastercard,
+        AMEX, Apple Pay, Google Pay, and PayPal.
+    - icon: shield
+      icon_bg: bg-orange-100
+      icon_color: text-orange-600
+      title: Keep Your Home SIM Active
+      desc: No need to remove your physical SIM. Roami eSIM allows dual-SIM use, so
+        you never miss bank SMS or calls.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate 90% Sunk Cost on 30-Day Plans
+      desc: Viva-MTS's cheapest plan (AMD 2500/4GB) is 30-day locked. A 3-day trip
+        wastes ~90% of the value. Roami's 7-day plans start at $1.99/GB.
+    - icon: clock
+      icon_bg: bg-cyan-100
+      icon_color: text-cyan-600
+      title: Instant Activation, No Queue
+      desc: Skip Viva-MTS border kiosks and Ucom's 111 call activation. Roami delivers
+        eSIM via email, ready in 1 minute.
 ---

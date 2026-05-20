@@ -1,6 +1,6 @@
 ---
 title: Botswana eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Botswana eSIM Plan | Top Local Carrier Full-Speed 5G | Roami
   description: Traveling to Botswana? Stay connected via Top Local Carrier True 5G
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/bw.svg
   flag_alt: Botswana Flag
   title: Botswana eSIM data plan
-  subtitle: Travel essential | Bestseller | No ID required
+  subtitle: Travel essential | Bestseller | No ID required – The best prepaid eSIM
+    for Botswana travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Botswana eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -106,9 +107,11 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.03'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Botswana eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Botswana for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -147,11 +150,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Botswana eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Botswana.
   - icon: ⏰
@@ -166,8 +170,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -180,8 +185,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -512,7 +516,7 @@ faq_section:
         on the go using your Botswana eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Botswana eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -562,84 +566,103 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Botswana eSIM vs SIM Card Plans: Which One Fits Your Needs?"
-  subtitle: "Botswana Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Botswana eSIM vs SIM Card Plans: Which One Fits Your Needs?'
+  subtitle: Botswana Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Botswana) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Botswana"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Botswana) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Botswana
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Botswana eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Botswana eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Since 2017, local law requires in-person purchase at Mascom, Orange, or BTC stores with passport; airport kiosks may not be available after hours."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Mascom store queues and passport checks. Activate online within 1 minute before landing in Gaborone."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All prepaid SIMs require mandatory registration at the operator's store with a passport; Orange explicitly states that without registration, you cannot use data or make calls."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Orange's mandatory in-store passport registration (since 2017), Roami eSIM requires zero ID verification."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Mascom's social bundle blocks VoIP and has a daily 200MB FUP; leaving Botswana renders the SIM useless in neighboring countries like Namibia or Zimbabwe."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "While Mascom's social bundle blocks VoIP and caps at 200MB/day, Roami offers unrestricted data across 190+ countries with no FUP."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Mascom's 1GB/30-day plan costs 129 pula; BTC's 1GB/30-day plan costs 125 pula; Orange's 1GB/14-day plan costs 79 pula. A 5-day tourist buying a 30-day plan wastes 83% of the plan's value."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Unlike Mascom's 30-day cycle (1GB/129 pula) wasting 83% for a 5-day trip, Roami offers 7-day plans starting from $1.99/GB, saving 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Mascom's social bundle explicitly blocks VoIP and has a daily 200MB FUP; Orange's social bundle also has a strict daily 200MB FUP."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Mascom's social bundle blocks VoIP and limits hotspot to 200MB/day; Roami allows full-speed tethering with no caps."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up vouchers (e.g., P10, P20) have only 14-day validity for Orange; online top-up may reject foreign cards."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local vouchers with 14-day expiry."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is available only during business hours at physical stores; no 24/7 live chat for prepaid users."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Unlike Orange's limited store hours, Roami offers 24/7 live chat and email support in English."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Since 2017, local law requires in-person purchase at Mascom, Orange,
+      or BTC stores with passport; airport kiosks may not be available after hours.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Mascom store queues and passport checks. Activate online within
+      1 minute before landing in Gaborone.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: All prepaid SIMs require mandatory registration at the operator's
+      store with a passport; Orange explicitly states that without registration, you
+      cannot use data or make calls.
+    esim_title: No Passport Required
+    esim_desc: Unlike Orange's mandatory in-store passport registration (since 2017),
+      Roami eSIM requires zero ID verification.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Mascom's social bundle blocks VoIP and has a daily 200MB FUP; leaving
+      Botswana renders the SIM useless in neighboring countries like Namibia or Zimbabwe.
+    esim_title: Global Roaming Ready
+    esim_desc: While Mascom's social bundle blocks VoIP and caps at 200MB/day, Roami
+      offers unrestricted data across 190+ countries with no FUP.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Mascom's 1GB/30-day plan costs 129 pula; BTC's 1GB/30-day plan costs
+      125 pula; Orange's 1GB/14-day plan costs 79 pula. A 5-day tourist buying a 30-day
+      plan wastes 83% of the plan's value.
+    esim_title: Flexible Short Plans
+    esim_desc: Unlike Mascom's 30-day cycle (1GB/129 pula) wasting 83% for a 5-day
+      trip, Roami offers 7-day plans starting from $1.99/GB, saving 75% waste.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: Mascom's social bundle explicitly blocks VoIP and has a daily 200MB
+      FUP; Orange's social bundle also has a strict daily 200MB FUP.
+    esim_title: Unrestricted Tethering
+    esim_desc: Mascom's social bundle blocks VoIP and limits hotspot to 200MB/day;
+      Roami allows full-speed tethering with no caps.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up vouchers (e.g., P10, P20) have only 14-day validity for Orange;
+      online top-up may reject foreign cards.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for local vouchers with 14-day expiry.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is available only during business hours at physical
+      stores; no 24/7 live chat for prepaid users.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Unlike Orange's limited store hours, Roami offers 24/7 live chat and
+      email support in English.
   expert_verdict:
-    title: "Botswana eSIM vs Prepaid SIM Card: Is It Worth Switching?"
+    title: 'Botswana eSIM vs Prepaid SIM Card: Is It Worth Switching?'
     cards:
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Roaming Restrictions and VoIP Blocks"
-        desc: "Mascom's social bundle explicitly blocks VoIP and enforces a daily 200MB FUP. Orange's social bundle also has a 200MB/day cap. Roami provides full-speed data with no app restrictions or FUP."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Multi-Network Coverage"
-        desc: "Local SIMs lock to one network (e.g., Mascom). If signal drops in the Kalahari, you cannot switch. Roami automatically connects to the strongest available network (Mascom, Orange, or BTC)."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payment Methods Accepted"
-        desc: "Orange top-up vouchers have only 14-day validity. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal, with no expiry on credit."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from Long Billing Cycles"
-        desc: "Mascom's 1GB/30-day plan costs 129 pula; BTC's 1GB/30-day plan costs 125 pula. A 5-day tourist wastes over 80% of the plan. Roami offers 7-day plans from $1.99/GB, saving money."
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Roaming Restrictions and VoIP Blocks
+      desc: Mascom's social bundle explicitly blocks VoIP and enforces a daily 200MB
+        FUP. Orange's social bundle also has a 200MB/day cap. Roami provides full-speed
+        data with no app restrictions or FUP.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Seamless Multi-Network Coverage
+      desc: Local SIMs lock to one network (e.g., Mascom). If signal drops in the
+        Kalahari, you cannot switch. Roami automatically connects to the strongest
+        available network (Mascom, Orange, or BTC).
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Global Payment Methods Accepted
+      desc: Orange top-up vouchers have only 14-day validity. Roami accepts Visa,
+        Mastercard, AMEX, Apple Pay, Google Pay, and PayPal, with no expiry on credit.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate Sunk Cost from Long Billing Cycles
+      desc: Mascom's 1GB/30-day plan costs 129 pula; BTC's 1GB/30-day plan costs 125
+        pula. A 5-day tourist wastes over 80% of the plan. Roami offers 7-day plans
+        from $1.99/GB, saving money.
 ---

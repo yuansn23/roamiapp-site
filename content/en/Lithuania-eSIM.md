@@ -1,6 +1,6 @@
 ---
 title: Lithuania eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Best Lithuania eSIM | Full-Speed 5G Tourist Data | Roami
   description: Navigating Lithuania is simple with a Roami travel eSIM. Get worry-free,
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/lt.svg
   flag_alt: Lithuania Flag
   title: Lithuania eSIM data plan
-  subtitle: Bestseller | 1-minute activation | Top rated
+  subtitle: Bestseller | 1-minute activation | Top rated – The best prepaid eSIM for
+    Lithuania travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Lithuania eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -294,9 +295,11 @@ plans_data:
     tagColor: bg-purple-600
     daily: '3.00'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Lithuania eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Lithuania for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -335,11 +338,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Lithuania eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Lithuania.
   - icon: ⏰
@@ -354,8 +358,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -368,8 +373,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -699,7 +703,7 @@ faq_section:
         on the go using your Lithuania eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Lithuania eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -749,84 +753,103 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Lithuania eSIM vs SIM Card Plans: Which One Fits Your Needs?"
-  subtitle: "Lithuania Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Lithuania eSIM vs SIM Card Plans: Which One Fits Your Needs?'
+  subtitle: Lithuania Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Lithuania) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Lithuania"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Lithuania) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Lithuania
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Lithuania eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Lithuania eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Purchase requires in-person visit to stores like Maxima supermarkets or gas stations; since January 1, 2025, passport copy and real-name registration are mandatory."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip the in-person store queues and passport registration. Activate your eSIM online within 1 minute after landing in Vilnius."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Since January 1, 2025, Lithuanian law mandates registration for all new prepaid SIM purchases; passport copy and real-name registration are required."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid the mandatory passport registration since January 2025. Roami eSIM requires no ID, protecting your privacy."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Pildyk domestic plans are completely unusable in the EU; separate roaming packages must be purchased (e.g., 1GB EU data for €4.99/7 days). Ežys unlimited plans have strict FUP caps in the EU (e.g., 7-day unlimited plan only 5.1GB in EU)."
-      esim_title: "Seamless EU Roaming"
-      esim_desc: "Unlike Pildyk's domestic plans that are blocked outside Lithuania, Roami eSIM works across the EU without extra roaming add-ons."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Most plans are 30-day or 7-day fixed cycles with auto-renewal; a 5-day tourist buying a 30-day plan wastes 83% of the contract period."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Ežys' 30-day cycle (€12.99/16.6GB), Roami offers 7-day plans starting from $1.99/GB, saving up to 83% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "No hidden hotspot bans. Share your connection freely with all your devices."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Pildyk does not support direct international credit card top-up; users must use third-party sites like Ding or Recharge.com with extra fees."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for third-party top-up services."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Labas website and management system are entirely in Lithuanian with no English support; checking balance costs €0.33."
-      esim_title: "24/7 English Support"
-      esim_desc: "Get round-the-clock support in English, unlike Labas which only offers Lithuanian-language service."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Purchase requires in-person visit to stores like Maxima supermarkets
+      or gas stations; since January 1, 2025, passport copy and real-name registration
+      are mandatory.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip the in-person store queues and passport registration. Activate
+      your eSIM online within 1 minute after landing in Vilnius.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Since January 1, 2025, Lithuanian law mandates registration for
+      all new prepaid SIM purchases; passport copy and real-name registration are
+      required.
+    esim_title: No Passport Required
+    esim_desc: Avoid the mandatory passport registration since January 2025. Roami
+      eSIM requires no ID, protecting your privacy.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Pildyk domestic plans are completely unusable in the EU; separate
+      roaming packages must be purchased (e.g., 1GB EU data for €4.99/7 days). Ežys
+      unlimited plans have strict FUP caps in the EU (e.g., 7-day unlimited plan only
+      5.1GB in EU).
+    esim_title: Seamless EU Roaming
+    esim_desc: Unlike Pildyk's domestic plans that are blocked outside Lithuania,
+      Roami eSIM works across the EU without extra roaming add-ons.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Most plans are 30-day or 7-day fixed cycles with auto-renewal; a
+      5-day tourist buying a 30-day plan wastes 83% of the contract period.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike Ežys' 30-day cycle (€12.99/16.6GB), Roami offers 7-day plans
+      starting from $1.99/GB, saving up to 83% waste for short trips.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension.
+    esim_title: Unrestricted Tethering
+    esim_desc: No hidden hotspot bans. Share your connection freely with all your
+      devices.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Pildyk does not support direct international credit card top-up;
+      users must use third-party sites like Ding or Recharge.com with extra fees.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for third-party top-up services.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Labas website and management system are entirely in Lithuanian with
+      no English support; checking balance costs €0.33.
+    esim_title: 24/7 English Support
+    esim_desc: Get round-the-clock support in English, unlike Labas which only offers
+      Lithuanian-language service.
   expert_verdict:
-    title: "Lithuania eSIM vs Physical SIM Card: Pros and Cons Breakdown"
+    title: 'Lithuania eSIM vs Physical SIM Card: Pros and Cons Breakdown'
     cards:
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation, No Store Visit"
-        desc: "Buying a local SIM requires visiting a store (Maxima, gas station) and completing passport registration. Roami eSIM activates <b>within 1 minute</b> online."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Lithuania's Strict SIM Passport Requirements"
-        desc: "Since <b>January 1, 2025</b>, all prepaid SIMs require passport registration. Roami eSIM activates instantly with <b>no ID</b> needed."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Multi-Country Travel Without Switching SIMs"
-        desc: "Lithuanian SIMs often restrict roaming in neighboring Latvia/Estonia. Roami eSIM works seamlessly across the Baltics and beyond."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from Long Cycles"
-        desc: "Ežys' <b>30-day</b> plan (€12.99/16.6GB) wastes <b>83%</b> for a 5-day trip. Roami's <b>7-day</b> plans start at <b>$1.99/GB</b>, matching your exact stay."
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation, No Store Visit
+      desc: Buying a local SIM requires visiting a store (Maxima, gas station) and
+        completing passport registration. Roami eSIM activates <b>within 1 minute</b>
+        online.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Lithuania's Strict SIM Passport Requirements
+      desc: Since <b>January 1, 2025</b>, all prepaid SIMs require passport registration.
+        Roami eSIM activates instantly with <b>no ID</b> needed.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Multi-Country Travel Without Switching SIMs
+      desc: Lithuanian SIMs often restrict roaming in neighboring Latvia/Estonia.
+        Roami eSIM works seamlessly across the Baltics and beyond.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate Sunk Cost from Long Cycles
+      desc: Ežys' <b>30-day</b> plan (€12.99/16.6GB) wastes <b>83%</b> for a 5-day
+        trip. Roami's <b>7-day</b> plans start at <b>$1.99/GB</b>, matching your exact
+        stay.
 ---

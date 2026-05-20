@@ -1,6 +1,6 @@
 ---
 title: Azerbaijan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Azerbaijan Travel eSIM | No Hidden Charges | Reliable 5G | Roami
   description: Need internet in Azerbaijan? Enjoy Top Local Carrier True 5G and Fair
@@ -48,8 +48,9 @@ hero:
   flag_alt: Azerbaijan Flag
   title: Azerbaijan eSIM data plan
   subtitle: High-speed 5G network | 20% discount for a limited time | Travel essential
+    – The best prepaid eSIM for Azerbaijan travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Azerbaijan eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -238,9 +239,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '6.00'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Azerbaijan eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Azerbaijan for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -279,11 +282,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Azerbaijan eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Azerbaijan.
   - icon: ⏰
@@ -298,8 +302,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -312,8 +317,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -646,7 +650,7 @@ faq_section:
         on the go using your Azerbaijan eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Azerbaijan eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -696,84 +700,110 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Azerbaijan eSIM vs Physical SIM Card: What’s the Real Difference?"
-  subtitle: "Azerbaijan Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Azerbaijan eSIM vs Physical SIM Card: What’s the Real Difference?'
+  subtitle: Azerbaijan Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Azerbaijan) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Azerbaijan"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Azerbaijan) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Azerbaijan
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Azerbaijan eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Azerbaijan eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Foreign tourists can legally purchase SIM cards from Azercell, Bakcell, or Nar at physical stores or airport kiosks, with a SIM card fee of AZN 5."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip the queue at Azercell or Bakcell stores. Activate your eSIM online within 1 minute after landing in Baku, avoiding the AZN 5 SIM card fee and passport registration hassle."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Purchase requires passport registration at the point of sale; all three operators enforce mandatory real-name registration."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Azercell, Bakcell, and Nar which require passport registration at the point of sale, Roami eSIM requires no personal ID, ensuring privacy and saving 30 minutes of paperwork."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Azercell, Bakcell, and Nar SIM cards are locked to Azerbaijan's network; they do not provide roaming in the Nagorno-Karabakh region, where Karabakh Telecom operates independently."
-      esim_title: "Seamless Cross-Border Roaming"
-      esim_desc: "While local SIMs from Azercell and Bakcell have no coverage in Nagorno-Karabakh and no roaming agreements, Roami eSIM provides multi-country connectivity, automatically connecting to the best local network."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "All major prepaid plans (e.g., Azercell Sərbəst 10 at AZN 10/30 days, Bakcell DaimOnline 10 at AZN 10/30 days, Nar Full 9 at AZN 9/30 days) have a fixed 30-day validity, causing significant waste for short-term visitors."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Avoid the 30-day lock-in of Azercell's AZN 10/2GB plan or Nar's AZN 9/1.5GB plan. Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste for a 5-day trip."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Bakcell's 1-hour unlimited plan explicitly bans tethering and limits speed to 4 Mbit/s; other plans may allow tethering but with restrictions."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike Bakcell's 1-hour unlimited plan which bans tethering and throttles to 4 Mbit/s, Roami eSIM allows full-speed hotspot sharing on all devices without restrictions."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up can be done via physical vouchers at kiosks or online; foreign credit cards may be rejected, requiring local payment methods."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Top up with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to find physical vouchers or deal with rejected foreign cards common with local operators."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is primarily in Azerbaijani and Russian; English support is limited and available only during business hours."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock support in English, unlike Azercell and Bakcell which offer limited Azerbaijani/Russian support during business hours only."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Foreign tourists can legally purchase SIM cards from Azercell, Bakcell,
+      or Nar at physical stores or airport kiosks, with a SIM card fee of AZN 5.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip the queue at Azercell or Bakcell stores. Activate your eSIM online
+      within 1 minute after landing in Baku, avoiding the AZN 5 SIM card fee and passport
+      registration hassle.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Purchase requires passport registration at the point of sale; all
+      three operators enforce mandatory real-name registration.
+    esim_title: No Passport Required
+    esim_desc: Unlike Azercell, Bakcell, and Nar which require passport registration
+      at the point of sale, Roami eSIM requires no personal ID, ensuring privacy and
+      saving 30 minutes of paperwork.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Azercell, Bakcell, and Nar SIM cards are locked to Azerbaijan's
+      network; they do not provide roaming in the Nagorno-Karabakh region, where Karabakh
+      Telecom operates independently.
+    esim_title: Seamless Cross-Border Roaming
+    esim_desc: While local SIMs from Azercell and Bakcell have no coverage in Nagorno-Karabakh
+      and no roaming agreements, Roami eSIM provides multi-country connectivity, automatically
+      connecting to the best local network.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: All major prepaid plans (e.g., Azercell Sərbəst 10 at AZN 10/30
+      days, Bakcell DaimOnline 10 at AZN 10/30 days, Nar Full 9 at AZN 9/30 days)
+      have a fixed 30-day validity, causing significant waste for short-term visitors.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Avoid the 30-day lock-in of Azercell's AZN 10/2GB plan or Nar's AZN
+      9/1.5GB plan. Roami offers 7-day plans starting from $1.99/GB, saving up to
+      75% waste for a 5-day trip.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: Bakcell's 1-hour unlimited plan explicitly bans tethering and limits
+      speed to 4 Mbit/s; other plans may allow tethering but with restrictions.
+    esim_title: Unrestricted Tethering
+    esim_desc: Unlike Bakcell's 1-hour unlimited plan which bans tethering and throttles
+      to 4 Mbit/s, Roami eSIM allows full-speed hotspot sharing on all devices without
+      restrictions.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up can be done via physical vouchers at kiosks or online; foreign
+      credit cards may be rejected, requiring local payment methods.
+    esim_title: Global Payment Methods
+    esim_desc: Top up with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need to find physical vouchers or deal with rejected foreign cards common
+      with local operators.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is primarily in Azerbaijani and Russian; English
+      support is limited and available only during business hours.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock support in English, unlike Azercell and Bakcell
+      which offer limited Azerbaijani/Russian support during business hours only.
   expert_verdict:
-    title: "Azerbaijan eSIM or SIM Card for Tourists: Which Should You Choose?"
+    title: 'Azerbaijan eSIM or SIM Card for Tourists: Which Should You Choose?'
     cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, Apple Pay & More"
-        desc: "Local top-up often rejects foreign cards; users must buy physical vouchers at kiosks (minimum AZN 5). Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal for instant top-up."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation vs. In-Store Queues"
-        desc: "Buying a local SIM requires finding an Azercell or Bakcell store, queuing, and completing passport registration. Roami eSIM activates in under 1 minute via email, ready upon landing in Baku."
-      - icon: "shield"
-        icon_bg: "bg-yellow-100"
-        icon_color: "text-yellow-600"
-        title: "Bypass IMEI Registration Tax for Stays Over 30 Days"
-        desc: "Azerbaijan requires devices used with local SIMs for over 30 days to be registered in the IMEI database, costing AZN 15-100. Roami eSIM uses international roaming, completely avoiding this mandatory tax and device blocking risk."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Nagorno-Karabakh Coverage Blackout"
-        desc: "Local SIMs from Azercell, Bakcell, and Nar have no infrastructure or roaming in Nagorno-Karabakh. Roami eSIM provides seamless connectivity across the region, avoiding the need for a separate Karabakh Telecom SIM (1,200 AMD)."
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Visa, Mastercard, Apple Pay & More
+      desc: Local top-up often rejects foreign cards; users must buy physical vouchers
+        at kiosks (minimum AZN 5). Roami accepts Visa, Mastercard, AMEX, Apple Pay,
+        Google Pay, and PayPal for instant top-up.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation vs. In-Store Queues
+      desc: Buying a local SIM requires finding an Azercell or Bakcell store, queuing,
+        and completing passport registration. Roami eSIM activates in under 1 minute
+        via email, ready upon landing in Baku.
+    - icon: shield
+      icon_bg: bg-yellow-100
+      icon_color: text-yellow-600
+      title: Bypass IMEI Registration Tax for Stays Over 30 Days
+      desc: Azerbaijan requires devices used with local SIMs for over 30 days to be
+        registered in the IMEI database, costing AZN 15-100. Roami eSIM uses international
+        roaming, completely avoiding this mandatory tax and device blocking risk.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Nagorno-Karabakh Coverage Blackout
+      desc: Local SIMs from Azercell, Bakcell, and Nar have no infrastructure or roaming
+        in Nagorno-Karabakh. Roami eSIM provides seamless connectivity across the
+        region, avoiding the need for a separate Karabakh Telecom SIM (1,200 AMD).
 ---

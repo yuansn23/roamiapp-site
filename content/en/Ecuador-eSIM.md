@@ -1,6 +1,6 @@
 ---
 title: Ecuador eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Ecuador eSIM | Native 5G for Family Vacations | Roami
   description: Traveling to Ecuador? Get Roami's Zero-Lag 5G on Top Local Carrier
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/ec.svg
   flag_alt: Ecuador Flag
   title: Ecuador eSIM data plan
-  subtitle: Instant delivery | 1-minute activation | No ID required
+  subtitle: Instant delivery | 1-minute activation | No ID required – The best prepaid
+    eSIM for Ecuador travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Ecuador eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -246,9 +247,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '11.00'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Ecuador eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Ecuador for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -286,11 +289,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Ecuador eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Ecuador.
   - icon: ⏰
@@ -305,8 +309,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -319,8 +324,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -650,7 +654,7 @@ faq_section:
         on the go using your Ecuador eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Ecuador eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -700,84 +704,110 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Ecuador eSIM or SIM Card: What’s the Best Option in 2026?"
-  subtitle: "Ecuador Local Prepaid SIMs vs. eSIM Solutions (2025/2026 Benchmark)"
+  title: 'Ecuador eSIM or SIM Card: What’s the Best Option in 2026?'
+  subtitle: Ecuador Local Prepaid SIMs vs. eSIM Solutions (2025/2026 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Ecuador) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Ecuador"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Ecuador) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Ecuador
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Ecuador eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Ecuador eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "SIM cards can be purchased at official stores, kiosks, and airports; Claro and Movistar offer starter packs from $4.48 and $5 respectively. Tourists can buy Movistar's special card only at Quito and Guayaquil airports for $60/30 days/17GB."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Claro and Movistar store queues. Activate your eSIM online within 1 minute after landing in Quito, avoiding airport kiosk surcharges."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "By law, SIM buyers must be Ecuadorian citizens; in practice, stores require passport and may activate under a local's name. CNT's Chip Turista is available only to foreigners with a passport."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike CNT's Chip Turista ($22.40 for only 500MB) requiring passport registration, Roami eSIM needs no ID verification."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Andean Community (CAN) 'roam like at home' benefits apply only to postpaid users; all prepaid cards cannot enjoy cross-border roaming rate reductions."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "Ecuadorian prepaid SIMs have no roaming benefits in CAN countries. Roami eSIM offers seamless connectivity in over 100 countries at local rates."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Claro offers plans from 1 day ($1/200MB) to 30 days ($15/15GB). Movistar's $10/30 days plan gives 8GB. CNT's $5/30 days plan gives 5GB. All plans have fixed validity; a 7-day tourist buying a 30-day plan wastes over 70% of the cost."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Claro's 30-day cycle ($15/15GB) wasting 70% for a 7-day trip, Roami offers 7-day plans starting from $1.99/GB, saving money and data."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common practice, most Ecuadorian prepaid SIMs allow tethering but may throttle after a certain limit; Claro's terms do not explicitly block hotspot."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "While local SIMs may throttle or block hotspot after a limit, Roami eSIM allows full-speed tethering on all plans."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up amounts range from $3 to $30; payment methods include cash at kiosks and online via credit/debit cards (Visa, Mastercard). Foreign cards may be rejected online."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Top-up with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for cash or local credit cards."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is available via phone (e.g., *123# for Claro) and social media (Tuenti). Hours are typically Mon-Fri 9-5, with limited English support."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Unlike Claro's limited phone support (Mon-Fri 9-5, Spanish only), Roami offers 24/7 live chat in English and Spanish."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: SIM cards can be purchased at official stores, kiosks, and airports;
+      Claro and Movistar offer starter packs from $4.48 and $5 respectively. Tourists
+      can buy Movistar's special card only at Quito and Guayaquil airports for $60/30
+      days/17GB.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Claro and Movistar store queues. Activate your eSIM online within
+      1 minute after landing in Quito, avoiding airport kiosk surcharges.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: By law, SIM buyers must be Ecuadorian citizens; in practice, stores
+      require passport and may activate under a local's name. CNT's Chip Turista is
+      available only to foreigners with a passport.
+    esim_title: No Passport Required
+    esim_desc: Unlike CNT's Chip Turista ($22.40 for only 500MB) requiring passport
+      registration, Roami eSIM needs no ID verification.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Andean Community (CAN) 'roam like at home' benefits apply only to
+      postpaid users; all prepaid cards cannot enjoy cross-border roaming rate reductions.
+    esim_title: Global Roaming Ready
+    esim_desc: Ecuadorian prepaid SIMs have no roaming benefits in CAN countries.
+      Roami eSIM offers seamless connectivity in over 100 countries at local rates.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Claro offers plans from 1 day ($1/200MB) to 30 days ($15/15GB).
+      Movistar's $10/30 days plan gives 8GB. CNT's $5/30 days plan gives 5GB. All
+      plans have fixed validity; a 7-day tourist buying a 30-day plan wastes over
+      70% of the cost.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike Claro's 30-day cycle ($15/15GB) wasting 70% for a 7-day trip,
+      Roami offers 7-day plans starting from $1.99/GB, saving money and data.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common practice,
+      most Ecuadorian prepaid SIMs allow tethering but may throttle after a certain
+      limit; Claro's terms do not explicitly block hotspot.
+    esim_title: Unrestricted Tethering
+    esim_desc: While local SIMs may throttle or block hotspot after a limit, Roami
+      eSIM allows full-speed tethering on all plans.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up amounts range from $3 to $30; payment methods include cash
+      at kiosks and online via credit/debit cards (Visa, Mastercard). Foreign cards
+      may be rejected online.
+    esim_title: Global Payment Accepted
+    esim_desc: Top-up with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for cash or local credit cards.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is available via phone (e.g., *123# for Claro)
+      and social media (Tuenti). Hours are typically Mon-Fri 9-5, with limited English
+      support.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Unlike Claro's limited phone support (Mon-Fri 9-5, Spanish only), Roami
+      offers 24/7 live chat in English and Spanish.
   expert_verdict:
-    title: "Ecuador eSIM vs SIM Card: The Complete Comparison Guide"
+    title: 'Ecuador eSIM vs SIM Card: The Complete Comparison Guide'
     cards:
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from Long Validity Plans"
-        desc: "Claro's $15/30-day plan (15GB) wastes <b>70%</b> for a 7-day trip. Movistar's $10/30-day plan (8GB) similarly inefficient. Roami's 7-day plans start at <b>$1.99/GB</b>, matching your exact trip length."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Roaming Restrictions in CAN Countries"
-        desc: "Andean Community 'roam like at home' benefits apply only to postpaid users; <b>all prepaid SIMs</b> (Claro, Movistar, CNT) have <b>no roaming</b> in Colombia, Peru, etc. Roami eSIM offers affordable roaming in over 100 countries."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Global Cards, No Cash Needed"
-        desc: "Top-up for local SIMs often requires cash at kiosks or local credit cards; foreign cards may be rejected. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Flexible Plans for Any Trip Duration"
-        desc: "Local plans are rigid: Claro offers 1-day ($1/200MB) to 30-day ($15/15GB). Roami offers <b>7-day, 15-day, 30-day</b> plans with data from 1GB to unlimited, tailored to your stay."
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate Sunk Cost from Long Validity Plans
+      desc: Claro's $15/30-day plan (15GB) wastes <b>70%</b> for a 7-day trip. Movistar's
+        $10/30-day plan (8GB) similarly inefficient. Roami's 7-day plans start at
+        <b>$1.99/GB</b>, matching your exact trip length.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Roaming Restrictions in CAN Countries
+      desc: Andean Community 'roam like at home' benefits apply only to postpaid users;
+        <b>all prepaid SIMs</b> (Claro, Movistar, CNT) have <b>no roaming</b> in Colombia,
+        Peru, etc. Roami eSIM offers affordable roaming in over 100 countries.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Global Cards, No Cash Needed
+      desc: Top-up for local SIMs often requires cash at kiosks or local credit cards;
+        foreign cards may be rejected. Roami accepts <b>Visa, Mastercard, AMEX, Apple
+        Pay, Google Pay, PayPal</b>.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Flexible Plans for Any Trip Duration
+      desc: 'Local plans are rigid: Claro offers 1-day ($1/200MB) to 30-day ($15/15GB).
+        Roami offers <b>7-day, 15-day, 30-day</b> plans with data from 1GB to unlimited,
+        tailored to your stay.'
 ---

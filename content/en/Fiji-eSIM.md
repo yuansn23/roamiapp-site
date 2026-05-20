@@ -1,6 +1,6 @@
 ---
 title: Fiji eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Best Fiji eSIM | 24/7 Data & High-Speed 5G | 20% OFF | Roami
   description: Heading to Fiji soon? Enjoy Top Local Carrier Full-Speed 5G and Worry-Free
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/fj.svg
   flag_alt: Fiji Flag
   title: Fiji eSIM data plan
-  subtitle: High-speed 5G network | Bestseller | 1-minute activation
+  subtitle: High-speed 5G network | Bestseller | 1-minute activation – The best prepaid
+    eSIM for Fiji travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Fiji eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -254,9 +255,11 @@ plans_data:
     tagColor: bg-slate-800
     daily: '2.07'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Fiji eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Fiji for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -295,11 +298,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Fiji eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Fiji.
   - icon: ⏰
@@ -314,8 +318,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -328,8 +333,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -653,7 +657,7 @@ faq_section:
         on the go using your Fiji eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Fiji eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -703,84 +707,106 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Fiji eSIM vs Prepaid SIM: Which One Is Right for You?"
-  subtitle: "Fiji Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Fiji eSIM vs Prepaid SIM: Which One Is Right for You?'
+  subtitle: Fiji Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Fiji) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Fiji"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Fiji) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Fiji
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Fiji eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Fiji eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Vodafone airport kiosks sell tourist starter packs from FJ$35 to FJ$100 with only 35-90 MB data, valid for 15 days; local SIM cards cost FJ$4.70 but require leaving the airport to find a retail store."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Vodafone airport queues and avoid expensive tourist packs (FJ$35 for 35 MB). Activate your Roami eSIM online within 1 minute before landing in Nadi."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Registration of a SIM card purchased locally is mandatory; all local SIM cards require compulsory registration."
-      esim_title: "No Passport Required"
-      esim_desc: "Bypass Fiji's mandatory SIM registration. Unlike Vodafone and Digicel which require passport checks in-store, Roami eSIM activates instantly with zero KYC."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Digicel warns of weaker coverage outside main cities; Vodafone has broader coverage but users are locked to a single network with potential blind spots on remote islands."
-      esim_title: "Dual Network Roaming"
-      esim_desc: "Unlike Digicel's weak coverage outside cities and Vodafone's single-network lock, Roami eSIM automatically connects to both Vodafone and Digicel networks for optimal signal on remote islands."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Vodafone and Digicel offer fixed cycles of 24 hours, 3 days, 7 days, 15 days, and 30 days; a 5-day trip buying Digicel's 7-day FJ$7 plan wastes 2 days of validity."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Avoid wasting 2 days on Digicel's 7-day FJ$7 plan for a 5-day trip. Roami offers 7-day data plans starting from $1.99/GB, matching your exact travel duration."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full hotspot sharing with no throttling, unlike local prepaid plans that often limit tethering or quickly deplete small data caps."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "Global Payment Options"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to worry about local currency or rejected foreign cards at Fijian kiosks."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock assistance in English via live chat or email. No need to navigate Fijian store hours or language barriers."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Vodafone airport kiosks sell tourist starter packs from FJ$35 to
+      FJ$100 with only 35-90 MB data, valid for 15 days; local SIM cards cost FJ$4.70
+      but require leaving the airport to find a retail store.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Vodafone airport queues and avoid expensive tourist packs (FJ$35
+      for 35 MB). Activate your Roami eSIM online within 1 minute before landing in
+      Nadi.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Registration of a SIM card purchased locally is mandatory; all local
+      SIM cards require compulsory registration.
+    esim_title: No Passport Required
+    esim_desc: Bypass Fiji's mandatory SIM registration. Unlike Vodafone and Digicel
+      which require passport checks in-store, Roami eSIM activates instantly with
+      zero KYC.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Digicel warns of weaker coverage outside main cities; Vodafone has
+      broader coverage but users are locked to a single network with potential blind
+      spots on remote islands.
+    esim_title: Dual Network Roaming
+    esim_desc: Unlike Digicel's weak coverage outside cities and Vodafone's single-network
+      lock, Roami eSIM automatically connects to both Vodafone and Digicel networks
+      for optimal signal on remote islands.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Vodafone and Digicel offer fixed cycles of 24 hours, 3 days, 7 days,
+      15 days, and 30 days; a 5-day trip buying Digicel's 7-day FJ$7 plan wastes 2
+      days of validity.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Avoid wasting 2 days on Digicel's 7-day FJ$7 plan for a 5-day trip.
+      Roami offers 7-day data plans starting from $1.99/GB, matching your exact travel
+      duration.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami eSIM allows full hotspot sharing with no throttling, unlike local
+      prepaid plans that often limit tethering or quickly deplete small data caps.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension.
+    esim_title: Global Payment Options
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need to worry about local currency or rejected foreign cards at Fijian kiosks.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock assistance in English via live chat or email. No
+      need to navigate Fijian store hours or language barriers.
   expert_verdict:
-    title: "Fiji eSIM vs Local SIM Card: Which One Saves You More?"
+    title: 'Fiji eSIM vs Local SIM Card: Which One Saves You More?'
     cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, or PayPal"
-        desc: "Avoid cash-only kiosks and foreign card rejections. Roami accepts <b>Visa</b>, <b>Mastercard</b>, <b>AMEX</b>, <b>Apple Pay</b>, <b>Google Pay</b>, and <b>PayPal</b> for seamless online purchase."
-      - icon: "headset"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "24/7 English Support"
-        desc: "Local carriers have limited support hours and language barriers. Roami provides round-the-clock multilingual support via live chat and email, ready to help anytime."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Dual Network Coverage on Remote Islands"
-        desc: "Digicel's coverage is weak outside cities like Suva and Nadi. Roami eSIM connects to both <b>Vodafone</b> and <b>Digicel</b> networks, ensuring signal on remote islands where single-network SIMs fail."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Instant Activation Before Landing"
-        desc: "Vodafone airport packs cost up to <b>FJ$100</b> for only <b>90 MB</b>. Roami eSIM activates in 1 minute online, so you have data as soon as you land in Nadi."
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Visa, Mastercard, or PayPal
+      desc: Avoid cash-only kiosks and foreign card rejections. Roami accepts <b>Visa</b>,
+        <b>Mastercard</b>, <b>AMEX</b>, <b>Apple Pay</b>, <b>Google Pay</b>, and <b>PayPal</b>
+        for seamless online purchase.
+    - icon: headset
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: 24/7 English Support
+      desc: Local carriers have limited support hours and language barriers. Roami
+        provides round-the-clock multilingual support via live chat and email, ready
+        to help anytime.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Dual Network Coverage on Remote Islands
+      desc: Digicel's coverage is weak outside cities like Suva and Nadi. Roami eSIM
+        connects to both <b>Vodafone</b> and <b>Digicel</b> networks, ensuring signal
+        on remote islands where single-network SIMs fail.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Instant Activation Before Landing
+      desc: Vodafone airport packs cost up to <b>FJ$100</b> for only <b>90 MB</b>.
+        Roami eSIM activates in 1 minute online, so you have data as soon as you land
+        in Nadi.
 ---

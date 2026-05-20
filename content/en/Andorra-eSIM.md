@@ -1,6 +1,6 @@
 ---
 title: Andorra eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -15,10 +15,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Best Andorra eSIM | No Hidden Fees & Seamless 5G | Roami
   description: Planning a trip to Andorra? Get Roami's Fast 5G on Top Local Carrier
@@ -48,9 +48,10 @@ hero:
   flag_image: img/flags/ad.svg
   flag_alt: Andorra Flag
   title: Andorra eSIM data plan
-  subtitle: Top rated | Instant delivery | High-speed 5G network
+  subtitle: Top rated | Instant delivery | High-speed 5G network – The best prepaid
+    eSIM for Andorra travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Andorra eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -206,9 +207,11 @@ plans_data:
     tagColor: bg-purple-600
     daily: '7.66'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Andorra eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Andorra for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -240,11 +243,12 @@ network_coverage:
       coverage: Low Latency
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Andorra eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Andorra.
   - icon: ⏰
@@ -259,8 +263,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -273,8 +278,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -603,7 +607,7 @@ faq_section:
         on the go using your Andorra eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Andorra eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -653,84 +657,110 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Andorra eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared"
-  subtitle: "Andorra Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Andorra eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared'
+  subtitle: Andorra Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Andorra) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Andorra"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Andorra) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Andorra
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Andorra eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Andorra eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "For physical SIM, you must visit an Andorra Telecom store in Andorra la Vella with your passport; for eSIM, you need to upload passport photo and selfie online and wait for manual approval."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Andorra Telecom store queues and avoid uploading passport photos. Activate your eSIM online within 1 minute after landing in Andorra la Vella."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Andorra Telecom requires passport or national ID for in-store purchase; for eSIM activation, you must upload passport photo and selfie and wait for a confirmation email."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Andorra Telecom's mandatory KYC (passport photo + selfie upload), Roami eSIM requires no identity verification. Stay connected immediately without privacy concerns."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Andorra is not in the EU; roaming in Europe (including Spain, France, USA, Canada, Turkey) costs €3 for 1GB per day, valid only until midnight."
-      esim_title: "Seamless Cross-Border Roaming"
-      esim_desc: "Avoid Andorra Telecom's €3/1GB daily roaming pack (valid only until midnight). Roami eSIM offers multi-country plans covering Andorra, Spain, and France at no extra cost."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Andorra Telecom prepaid plans have a strict 30-day cycle: Tarifa S costs €10 for 3GB, Tarifa M costs €20 for 12GB. A 2-day tourist buying Tarifa S wastes over 90% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Andorra Telecom's 30-day cycle (€10 for 3GB, wasting 90% for short trips), Roami offers 7-day plans starting from $1.99/GB. Pay only for what you use."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common practice, Andorra Telecom allows tethering but data is hard-capped; once the data limit is reached, internet is cut off completely."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Andorra Telecom cuts data completely when the limit is reached. Roami eSIM allows tethering with no hard cap, and speeds remain stable throughout your trip."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up can be done online with credit card (€5-€60) or with physical vouchers of €15, €30, or €60."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Top up your Roami eSIM with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local vouchers or credit card restrictions."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common practice, customer support is available in Catalan and Spanish, likely limited hours."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Andorra Telecom support is limited to Catalan/Spanish business hours. Roami offers 24/7 live chat in English, ensuring help whenever you need it."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: For physical SIM, you must visit an Andorra Telecom store in Andorra
+      la Vella with your passport; for eSIM, you need to upload passport photo and
+      selfie online and wait for manual approval.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Andorra Telecom store queues and avoid uploading passport photos.
+      Activate your eSIM online within 1 minute after landing in Andorra la Vella.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Andorra Telecom requires passport or national ID for in-store purchase;
+      for eSIM activation, you must upload passport photo and selfie and wait for
+      a confirmation email.
+    esim_title: No Passport Required
+    esim_desc: Unlike Andorra Telecom's mandatory KYC (passport photo + selfie upload),
+      Roami eSIM requires no identity verification. Stay connected immediately without
+      privacy concerns.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Andorra is not in the EU; roaming in Europe (including Spain, France,
+      USA, Canada, Turkey) costs €3 for 1GB per day, valid only until midnight.
+    esim_title: Seamless Cross-Border Roaming
+    esim_desc: Avoid Andorra Telecom's €3/1GB daily roaming pack (valid only until
+      midnight). Roami eSIM offers multi-country plans covering Andorra, Spain, and
+      France at no extra cost.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: 'Andorra Telecom prepaid plans have a strict 30-day cycle: Tarifa
+      S costs €10 for 3GB, Tarifa M costs €20 for 12GB. A 2-day tourist buying Tarifa
+      S wastes over 90% of the plan''s value.'
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike Andorra Telecom's 30-day cycle (€10 for 3GB, wasting 90% for
+      short trips), Roami offers 7-day plans starting from $1.99/GB. Pay only for
+      what you use.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common practice,
+      Andorra Telecom allows tethering but data is hard-capped; once the data limit
+      is reached, internet is cut off completely.
+    esim_title: Unrestricted Tethering
+    esim_desc: Andorra Telecom cuts data completely when the limit is reached. Roami
+      eSIM allows tethering with no hard cap, and speeds remain stable throughout
+      your trip.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up can be done online with credit card (€5-€60) or with physical
+      vouchers of €15, €30, or €60.
+    esim_title: Global Payment Methods
+    esim_desc: Top up your Roami eSIM with Visa, Mastercard, AMEX, Apple Pay, Google
+      Pay, or PayPal. No need for local vouchers or credit card restrictions.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common practice,
+      customer support is available in Catalan and Spanish, likely limited hours.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Andorra Telecom support is limited to Catalan/Spanish business hours.
+      Roami offers 24/7 live chat in English, ensuring help whenever you need it.
   expert_verdict:
-    title: "Andorra eSIM vs Physical SIM: Travel, Cost, and Setup Compared"
+    title: 'Andorra eSIM vs Physical SIM: Travel, Cost, and Setup Compared'
     cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, Apple Pay & More"
-        desc: "Andorra Telecom top-up requires local vouchers (€15/€30/€60) or credit cards with minimum amounts. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal</b> for any amount."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate 90% Waste on 30-Day Plans"
-        desc: "Andorra Telecom's <b>Tarifa S (€10/3GB)</b> is a 30-day plan. A 2-day tourist wastes over <b>90%</b> of the cost and data. Roami offers <b>7-day plans from $1.99/GB</b>, matching your exact trip length."
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "Keep Your Home SIM Active for Security"
-        desc: "Using Andorra Telecom physical SIM means removing your home SIM, risking missed calls and bank OTPs. Roami eSIM works alongside your physical SIM, so you never lose access to important messages."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation vs. Manual Approval Wait"
-        desc: "Andorra Telecom eSIM requires uploading passport photo and selfie, then waiting for a confirmation email. Roami eSIM activates <b>within 1 minute</b> after purchase, no manual review needed."
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Visa, Mastercard, Apple Pay & More
+      desc: Andorra Telecom top-up requires local vouchers (€15/€30/€60) or credit
+        cards with minimum amounts. Roami accepts <b>Visa, Mastercard, AMEX, Apple
+        Pay, Google Pay, and PayPal</b> for any amount.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate 90% Waste on 30-Day Plans
+      desc: Andorra Telecom's <b>Tarifa S (€10/3GB)</b> is a 30-day plan. A 2-day
+        tourist wastes over <b>90%</b> of the cost and data. Roami offers <b>7-day
+        plans from $1.99/GB</b>, matching your exact trip length.
+    - icon: shield
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: Keep Your Home SIM Active for Security
+      desc: Using Andorra Telecom physical SIM means removing your home SIM, risking
+        missed calls and bank OTPs. Roami eSIM works alongside your physical SIM,
+        so you never lose access to important messages.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation vs. Manual Approval Wait
+      desc: Andorra Telecom eSIM requires uploading passport photo and selfie, then
+        waiting for a confirmation email. Roami eSIM activates <b>within 1 minute</b>
+        after purchase, no manual review needed.
 ---

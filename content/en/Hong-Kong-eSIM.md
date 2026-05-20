@@ -1,6 +1,6 @@
 ---
 title: Hong Kong eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,12 +14,12 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Hong Kong Travel eSIM | Always-On 5G Connection | Roami
+  title: Hong Kong eSIM | Unlimited 5G Data Plans | Roami
   description: Visiting Hong Kong soon? Experience high-speed 5G connectivity from
     CMHK with a Roami travel eSIM. Enjoy instant QR activation and seamless mobile
     data without signing any contracts.
@@ -48,8 +48,9 @@ hero:
   flag_alt: Hong Kong Flag
   title: Hong Kong eSIM data plan
   subtitle: Smooth video streaming | High-speed 5G network | No more roaming fees
+    – The best prepaid eSIM for Hong Kong travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Hong Kong eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -286,9 +287,11 @@ plans_data:
     tagColor: bg-purple-600
     daily: '2.66'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Hong Kong eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Hong Kong for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -327,11 +330,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Hong Kong eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Hong Kong.
   - icon: ⏰
@@ -346,8 +350,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -360,8 +365,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -371,328 +375,156 @@ activation_steps:
       using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: Hong Kong eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Hong Kong eSIM across different
-    travel scenarios.
+  title: "The Ultimate Guide to eSIM Data Plans for hongkong"
+  desc: "Navigate Hong Kong with ease using our guide to eSIM data plans, covering everything from airport arrivals to city transport. We compare options from local operators like Smartone and Three to help you choose the best eSIM for your trip."
   categories:
-  - id: faq-general
-    icon: help-circle
-    tab_title: General
-    title: 1. General Questions
-    questions:
-    - q: Does my phone support the Hong Kong eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Hong Kong eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Hong Kong eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Hong Kong
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Hong Kong eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Hong Kong eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Hong Kong that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Hong Kong eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Hong Kong eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Hong Kong eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Hong Kong eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Hong Kong,
-        such as CSL, SmarTone, China Mobile Hong Kong, to ensure premium speeds at
-        a fraction of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Numero, Holafly, BNESIM,
-        Airalo?
-      a: While great companies like Numero, Holafly, BNESIM, Airalo offer reliable
-        services, we focus on providing the most cost-effective Hong Kong eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
-    questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Hong Kong eSIM before your flight. Once you land at Hong Kong
-        International Airport, Shenzhen Bao'an International Airport (via ferry connection),
-        simply turn off Airplane Mode and enable your eSIM line. It will connect to
-        the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Hong Kong eSIM activated upon landing, you can immediately open
-        MTR Mobile, Uber, HK Taxi to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Hong Kong eSIM data allows you to open Google Maps right
-        at the baggage claim in Hong Kong International Airport, Shenzhen Bao'an International
-        Airport (via ferry connection) to check real-time train schedules, bus routes,
-        or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Hong Kong eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Hong Kong eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Hong Kong eSIM cellular data to let your family know you've arrived
-        safely.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
-    questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Hong Kong eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Hong Kong, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like MTR Mobile, Uber, HK Taxi use VoIP (internet calling) and in-app
-        messaging. Since you have active Hong Kong eSIM data, drivers can call or
-        message you directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Hong Kong eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Hong Kong eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Hong Kong.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Hong Kong eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Hong Kong eSIM's data network while
-        on the train or in the car.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
-    questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Hong Kong eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Hong Kong eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at The Peninsula Hong Kong, The Ritz-Carlton Hong
-        Kong, Mandarin Oriental Hong Kong or a local guesthouse, you can input the
-        address into Google Maps and get turn-by-turn walking or transit directions
-        using your Hong Kong eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Hong Kong eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Hong Kong eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Foodpanda, Deliveroo, OpenRice and use
-        your Hong Kong eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Hong Kong eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
-    questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Victoria Harbour, The Peak, Hong Kong Disneyland spontaneously,
-        you can use your Hong Kong eSIM data to buy skip-the-line tickets online and
-        present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Hong Kong eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Hong Kong.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Hong Kong eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Hong Kong eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Hong Kong eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Hong Kong eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Hong Kong eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Hong Kong eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Hong Kong eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Hong Kong eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Foodpanda, Deliveroo, OpenRice, register
-        using your email or social accounts, and order food seamlessly using your
-        Hong Kong eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Octopus,
-        AlipayHK, FPS require a brief internet handshake, which your Hong Kong eSIM
-        handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Hong Kong eSIM to find hidden culinary gems in the city.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
-    questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Hong Kong eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Hong Kong eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Hong Kong eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Hong
-        Kong eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Hong Kong eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Hong Kong eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Hong Kong eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
-    questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Hong Kong, you can dial local emergency numbers like 999 directly from
-        your phone's dialer regardless of your active SIM, as long as your phone can
-        catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Hong Kong eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Hong Kong eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Hong Kong eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Hong Kong eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Hong Kong eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Hong Kong eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Hong Kong eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Hong Kong eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Hong Kong eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Hong Kong eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Hong Kong eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Hong Kong eSIM to update them on flight delays or schedule
-        changes.
+    - id: faq-general
+      icon: help-circle
+      tab_title: General
+      title: "1. General Questions About hongkong eSIM"
+      questions:
+        - q: "Can I activate my eSIM immediately after landing at Hong Kong International Airport?"
+          a: "Yes, you can activate your eSIM right after landing, but it's wise to connect to the airport's free Wi-Fi for the initial setup process. Your eSIM for Hong Kong will activate within minutes, providing instant data access. This seamless activation means you can start navigating the city without any delay. Always ensure your device is unlocked to use a Hong Kong eSIM prepaid plan."
+        - q: "How do I choose the best eSIM for Hong Kong for a 10-day trip?"
+          a: "For a 10-day trip, a 15-day plan offers excellent flexibility and often better value than stacking shorter plans. A 10GB plan at $11.99 is perfect for moderate use, including maps and social media. If you are a heavy user, consider the 20GB plan at $19.99 to ensure you never run out of data. These options provide a robust solution for any traveler looking for the best eSIM Hong Kong has to offer."
+        - q: "What is the difference between a Hong Kong eSIM and a physical SIM card for travel?"
+          a: "A Hong Kong eSIM is a digital SIM that you install on your device, allowing you to keep your physical SIM for calls and texts. This eliminates the need to find a physical eSIM card Hong Kong store, saving you time at the airport. You can manage your eSIM Hong Kong prepaid plan directly from your phone settings. It is a more convenient option for modern travelers who want instant connectivity."
+        - q: "Will a Hong Kong eSIM work with my iPhone 14 or iPhone 15?"
+          a: "Yes, all iPhone models from the iPhone XS onward, including the iPhone 14 and iPhone 15, support eSIM technology. For users asking 'esim hong kong iphone', these devices can store multiple eSIM profiles. This allows you to have a Hong Kong esim with phone number alongside your primary line. Simply scan the QR code provided by your eSIM provider to get started."
+        - q: "Can I get a Hong Kong eSIM with a local phone number for calls?"
+          a: "Yes, some providers offer a Hong Kong esim with phone number, which is useful for local calls and services. However, many travel eSIMs are data-only, which is perfect for using apps like WhatsApp and WeChat. If you need a number for local verification, look for a plan that explicitly includes a voice line. This ensures you can make reservations or contact local businesses seamlessly."
+        - q: "How does the network coverage of an eSIM for Hong Kong compare to local carriers like Smartone and Three?"
+          a: "Most travel eSIMs, including those from Roami, utilize the robust infrastructure of local carriers like Smartone Hong Kong and Three Hong Kong. This means you get the same reliable 5G/4G/LTE coverage as a local prepaid SIM. The key difference is the convenience of purchasing and installing the esim card hong kong online before your trip. You can expect excellent coverage across the city, from the MTR to outlying islands."
+        - q: "Is it cheaper to use a Hong Kong eSIM prepaid plan compared to international roaming from my home provider?"
+          a: "Absolutely, a Hong Kong prepaid eSIM is significantly cheaper than standard international roaming rates. For instance, a 5GB plan for 7 days is only $6.99, which is a fraction of what most carriers charge. You avoid unexpected roaming fees by purchasing a dedicated eSIM for Hong Kong. This makes it a cost-effective solution for staying connected while traveling."
+        - q: "What should I do if my eSIM doesn't activate after scanning the QR code?"
+          a: "First, ensure you have a stable internet connection, such as airport Wi-Fi, to download the eSIM profile. If it fails, restart your device and go to your cellular settings to manually add the plan. Most providers offer 24/7 customer support to assist with activation issues. As a backup, keep your physical SIM card handy or purchase a secondary esim hong kong card from another provider."
+        - q: "Can I use a Hong Kong eSIM if my phone is locked to a specific carrier?"
+          a: "No, eSIMs from third-party providers like Roami require an unlocked phone to function. A locked phone is restricted to the original carrier's network. You would need to unlock your device from your home carrier before you can use an esim hong kong prepaid plan. Check with your carrier to see if they can provide an unlock code."
+        - q: "How do I check my remaining data on my Hong Kong eSIM plan?"
+          a: "You can usually check your remaining data through your phone's cellular settings, where the eSIM profile is listed. Many eSIM providers also have a dedicated app or a USSD code you can dial to check your balance. For example, after installing an e sim card hong kong, you might dial *111# to see your usage. This helps you monitor your consumption and avoid running out of data unexpectedly."
+    - id: faq-airport
+      icon: airplane
+      tab_title: Airports
+      title: "2. hongkong eSIM at Airports"
+      questions:
+        - q: "Can I get a Hong Kong eSIM at Hong Kong International Airport (HKG)?"
+          a: "Yes, you can purchase a physical SIM at the airport, but a Hong Kong eSIM is more convenient as you can buy and install it before you leave. This saves you from queuing at kiosks after a long flight. You simply activate your eSIM for Hong Kong as soon as you land using the free Wi-Fi. This is the fastest way to get connected at HKG."
+        - q: "Is the airport Wi-Fi at HKG reliable enough to activate my eSIM?"
+          a: "Yes, Hong Kong International Airport offers free, high-speed Wi-Fi throughout all terminals. This is perfect for downloading and activating your eSIM immediately upon arrival. The connection is stable and fast enough to handle the initial profile download. This ensures you can start using your best esim for Hong Kong without any hassle."
+        - q: "What is the best eSIM for Hong Kong airport pickup and immediate use?"
+          a: "The best eSIM for Hong Kong is one you purchase online before your trip, as it eliminates the need for any physical pickup. You receive the QR code via email, and you can install it at home or while waiting for your flight. Once you land at HKG, you just turn on the line and you are connected. This makes Roami a top choice for travelers who value speed and efficiency."
+        - q: "Are there any duty-free shops at HKG that sell eSIMs?"
+          a: "No, eSIMs are digital products and are not sold in physical stores like duty-free shops. You must purchase them online from providers like Roami, Airalo, or Holafly. The best time to buy your esim hong kong is before your trip to ensure a smooth arrival. This digital approach is more secure and prevents you from losing a physical card."
+        - q: "If my flight is delayed, will my eSIM activation be affected?"
+          a: "No, your eSIM activation is not tied to your flight time. You can activate it at any time, whether you are still at your home airport or have landed in Hong Kong. Most plans, like a 7-day plan, start counting down from the moment you activate it. This flexibility is a major advantage of using an eSIM for Hong Kong travel."
+    - id: faq-transport
+      icon: train
+      tab_title: Transport
+      title: "3. hongkong eSIM for Transport"
+      questions:
+        - q: "Do I need an eSIM to use the MTR and public transport apps in Hong Kong?"
+          a: "Yes, a reliable data connection is essential for using apps like MTR Mobile and Citymapper to navigate the city. Your eSIM for Hong Kong will provide the data needed to check train schedules and maps. You can also use it to top up your Octopus card online. A 3GB plan at $2.99 is often sufficient for a short trip focused on transport navigation."
+        - q: "Can I use my Hong Kong eSIM to book taxis and ride-sharing services?"
+          a: "Absolutely, a Hong Kong eSIM is perfect for using ride-hailing apps like Uber and HK Taxi. You will need data to request a ride and communicate with your driver. With a stable connection, you can also track your ride in real-time. A 5GB plan at $4.99 ensures you have plenty of data for these services throughout your stay."
+        - q: "Will my eSIM work on the high-speed train from Hong Kong to Mainland China?"
+          a: "A standard Hong Kong eSIM will not work in Mainland China due to different network regulations. You would need a cross-border eSIM that includes coverage for both regions. If you are taking the Express Rail Link, ensure you have a plan that covers your entire journey. This prevents loss of connectivity as you cross the border."
+        - q: "Is the data speed good enough for streaming music and podcasts on the MTR?"
+          a: "Yes, the 5G/4G/LTE network in Hong Kong is excellent, and your eSIM will provide fast speeds even in the MTR tunnels. You can stream music, podcasts, and even short videos without buffering. For heavy streaming, consider a plan like the 10GB offering at $9.99 for 3 days. This ensures you are entertained during your commute."
+        - q: "Can I share my eSIM data connection with my travel companions on public transport?"
+          a: "Yes, most smartphones allow you to use your eSIM data connection as a personal hotspot. This is a great way to share your plan with friends or family. However, be mindful that this will consume data faster. If you plan to hotspot often, a 20GB plan at $15.99 for 7 days is a wise choice."
+    - id: faq-hotels
+      icon: building
+      tab_title: Hotels
+      title: "4. hongkong eSIM for Hotels"
+      questions:
+        - q: "Do I still need an eSIM if my hotel offers free Wi-Fi?"
+          a: "Hotel Wi-Fi can be slow, unreliable, or require a login page that is inconvenient. Having your own eSIM for Hong Kong ensures you have a private, fast, and secure connection at all times. You can use your data to work, stream, or browse without relying on the hotel network. This independence is invaluable for both business and leisure travelers."
+        - q: "Can I use my eSIM to check into my hotel and access my digital room key?"
+          a: "Yes, many modern hotels allow you to check in via an app and use a digital key on your phone. This process requires a stable internet connection, which your eSIM provides. You will not need to wait for the hotel Wi-Fi to access your reservation details. A reliable esim hong kong makes the entire hotel experience smoother."
+        - q: "What is the best data plan for a business traveler staying in a Hong Kong hotel?"
+          a: "For a business traveler, a plan with ample data for video calls and file sharing is essential. A 20GB 30-day plan at $23.99 offers great value and high-speed data for a longer stay. If you are on a shorter trip, a 10GB 7-day plan at $10.99 is a solid choice. These plans ensure you can maintain productivity from your hotel room."
+        - q: "Will my eSIM work in hotel areas with thick walls or basements?"
+          a: "The network quality depends on the local carrier's coverage, which is generally excellent in Hong Kong. Most hotels have good signal penetration, but some basements or interior rooms might have weaker reception. Your eSIM, using networks like Smartone or Three, should perform similarly to a local SIM. For best results, choose a provider with a strong reputation for network reliability."
+        - q: "Can I use my eSIM to cast movies from my phone to the hotel TV?"
+          a: "Yes, you can use your eSIM data to stream content and cast it to the hotel TV if it supports the feature. This is a great way to enjoy your own entertainment in the evenings. Be aware that casting can use a significant amount of data. An unlimited 7-day plan at $18.99 is perfect for this kind of heavy usage."
+    - id: faq-attractions
+      icon: landmark
+      tab_title: Attractions
+      title: "5. hongkong eSIM for Attractions"
+      questions:
+        - q: "Do I need an eSIM to buy tickets online for attractions like Disneyland or Ocean Park?"
+          a: "Yes, having data is crucial for purchasing e-tickets and accessing mobile boarding passes. Your eSIM for Hong Kong allows you to buy tickets on the go without needing to find a printing shop. You can also use it to check real-time queue times and show schedules. A 3GB plan at $4.99 for 15 days is perfect for this purpose."
+        - q: "Will my eSIM work on The Peak Tram and other popular tourist spots?"
+          a: "Yes, the network coverage at major attractions like Victoria Peak, Ngong Ping 360, and Tsim Sha Tsui is excellent. You will have no problem using your eSIM for social media, maps, and sharing your experience. The high-speed data ensures you can upload photos and videos instantly. This connectivity enhances your entire sightseeing experience."
+        - q: "Can I use a Hong Kong eSIM to navigate hiking trails like Dragon's Back?"
+          a: "Absolutely, a reliable eSIM is essential for navigating remote trails where Wi-Fi is unavailable. The network coverage on Hong Kong's hiking trails is surprisingly good, but it can vary. Downloading offline maps as a backup is always a smart idea. A plan with a large data allowance, like the 5GB 30-day plan at $7.99, provides peace of mind for outdoor adventures."
+        - q: "How much data do I need for a day of sightseeing and using maps?"
+          a: "For a typical day of sightseeing, using Google Maps, checking reviews, and uploading a few photos, you will use about 500MB to 1GB of data. A 5GB plan can easily last you a week under normal usage. If you plan to stream videos or use video calls, you will need more. A 10GB plan at $11.99 for 15 days offers a comfortable buffer for most travelers."
+        - q: "Can I use my eSIM to get real-time museum exhibit information and audio guides?"
+          a: "Yes, many museums in Hong Kong offer digital guides that you access via your phone. Your eSIM data connection will allow you to scan QR codes for information and listen to audio commentary. This enriches your visit by providing context and details about the exhibits. A reliable eSIM Hong Kong plan turns your phone into a personal tour guide."
+    - id: faq-social
+      icon: message-circle
+      tab_title: Social & Messaging
+      title: "6. hongkong eSIM for Social Media"
+      questions:
+        - q: "Are there any social media apps that are blocked in Hong Kong?"
+          a: "No, Hong Kong has an open internet, and apps like WhatsApp, Facebook, Instagram, and Twitter are all fully accessible. You can use your eSIM for Hong Kong to stay connected with friends and family without any restrictions. This makes it easy to share your travel experiences in real-time. The open internet is a major advantage for travelers."
+        - q: "Will my eSIM work for video calls on WhatsApp and FaceTime?"
+          a: "Yes, the high-speed data connection provided by your eSIM supports smooth video calls on all major platforms. You can have clear conversations with loved ones back home without relying on spotty hotel Wi-Fi. For heavy video calling, consider an unlimited plan like the 7-day option at $18.99. This ensures you never have to worry about data limits during important calls."
+        - q: "Is a Hong Kong eSIM good for streaming TikTok and YouTube on the go?"
+          a: "Absolutely, the 5G/4G/LTE network is fast enough for streaming high-definition video without buffering. You can watch TikTok, YouTube, and Netflix while riding the MTR or waiting in line. A 10GB plan at $9.99 for 3 days is ideal for a short trip focused on entertainment. This keeps you connected to your favorite content wherever you are."
+        - q: "Can I use my eSIM to post high-resolution photos and videos to Instagram?"
+          a: "Yes, you can instantly upload high-resolution content to Instagram or any other social media platform. Your eSIM for Hong Kong provides the speed needed to share your travel memories without delay. This is perfect for influencers or anyone who wants to document their trip in real-time. A plan with a generous data cap, like the 20GB plan, is recommended for heavy uploaders."
+        - q: "How does an eSIM from Roami compare to Airalo for social media use in Hong Kong?"
+          a: "Both Roami and Airalo provide reliable data for social media, but Roami often offers more competitive daily rates. For example, a 5GB 7-day plan is $6.99, which is a great value for social media browsing. Roami also provides 24/7 customer support, ensuring any connectivity issues are resolved quickly. Ultimately, both are solid options, but Roami's pricing can be more attractive for budget-conscious users."
+    - id: faq-crossborder
+      icon: globe
+      tab_title: Cross-border
+      title: "7. hongkong eSIM for Cross-Border Travel"
+      questions:
+        - q: "Can I use my Hong Kong eSIM in Macau or Shenzhen?"
+          a: "No, a standard eSIM for Hong Kong is limited to the Hong Kong network. To use data in Macau or Mainland China, you need a specific cross-border Asia eSIM plan. These plans include coverage for multiple destinations, ensuring seamless connectivity. Always check the coverage map of your eSIM before traveling to avoid unexpected loss of service."
+        - q: "What should I look for in an eSIM for a trip covering Hong Kong and Macau?"
+          a: "You should look for a regional eSIM plan that explicitly lists both Hong Kong and Macau as covered regions. A multi-country plan saves you the hassle of buying separate eSIMs for each destination. These plans often offer a single data pool for your entire trip. This is the most convenient solution for travelers visiting multiple locations."
+        - q: "Will my eSIM automatically connect to a local network when I cross into Mainland China?"
+          a: "No, it will not automatically connect if your plan is only for Hong Kong. You would need to manually switch to a different eSIM profile or purchase a new plan. For a seamless experience, buy a cross-border eSIM before your trip. This ensures you stay connected without any manual intervention when crossing the border."
+        - q: "Is it better to buy a single Asia eSIM or separate ones for Hong Kong and Mainland China?"
+          a: "A single Asia eSIM is generally more convenient as you only have to manage one profile and one payment. It also prevents the risk of using data on the wrong plan. Roami offers multi-country plans that are ideal for regional travel. This is often the best esim for Hong Kong if you plan to explore beyond the city."
+        - q: "Do cross-border eSIMs work on high-speed ferries to Macau?"
+          a: "Yes, most cross-border eSIMs will provide coverage on the ferries, though the connection might be intermittent. The network will seamlessly switch from Hong Kong to Macau networks as you approach your destination. This allows you to stay connected for the entire journey. A plan with a strong daily allowance, like 3GB, is perfect for this type of travel."
+    - id: faq-emergency
+      icon: alert-triangle
+      tab_title: Emergencies
+      title: "8. hongkong eSIM for Emergencies"
+      questions:
+        - q: "Can I use my Hong Kong eSIM to call emergency services like 999?"
+          a: "Yes, in Hong Kong, you can dial 999 for police, fire, or ambulance services even without a SIM card or credit. However, having an active eSIM ensures you can be easily reached by emergency services. It also allows you to look up information or use mapping apps to find the nearest hospital. This connectivity is a critical safety net for any traveler."
+        - q: "Will my eSIM work if I lose my physical SIM card?"
+          a: "Yes, your eSIM is a digital profile embedded in your phone, so losing your physical SIM does not affect it. You can continue to use your eSIM for Hong Kong for data and calls if you have a voice plan. This makes it a secure backup in case your physical card is lost or stolen. Your digital connectivity remains intact."
+        - q: "How can I use my eSIM to share my location with family in an emergency?"
+          a: "You can use messaging apps like WhatsApp or dedicated location-sharing apps to send your GPS coordinates. Your eSIM data connection is essential for this to work in real-time. This allows your family or friends to know exactly where you are if you need help. A reliable eSIM is a crucial tool for personal safety."
+        - q: "What is the best eSIM for Hong Kong for a solo traveler concerned about safety?"
+          a: "For a solo traveler, a plan with a large data allowance is best, such as the 30GB 30-day plan at $31.99. This ensures you can always access maps, stay in touch with contacts, and look up emergency information. The peace of mind that comes with unlimited connectivity is invaluable. A robust data plan is a key part of any solo traveler's safety kit."
+        - q: "If my phone is stolen, can I remotely disable my eSIM?"
+          a: "You cannot remotely disable the eSIM itself, but you can use your provider's app or website to suspend the service. This prevents anyone from using your data. You should also use your phone's 'Find My' feature to remotely wipe the device. Taking these steps quickly can protect your personal information and data plan."
+    - id: faq-business
+      icon: briefcase
+      tab_title: Business
+      title: "9. hongkong eSIM for Business Travelers"
+      questions:
+        - q: "What is the best eSIM for Hong Kong for a business trip to attend a conference?"
+          a: "For a business conference, a high-data plan is essential for networking, video calls, and accessing cloud documents. The 20GB 7-day plan at $15.99 offers a perfect balance of speed and data volume. If you need unlimited data for constant connectivity, the 7-day unlimited plan at $18.99 is ideal. These options ensure you stay productive throughout your meetings."
+        - q: "Can I use a Hong Kong eSIM to maintain a local presence with a Hong Kong phone number?"
+          a: "Yes, some eSIM providers offer plans with a local Hong Kong number, which is useful for business. This allows clients and colleagues to call you without incurring international charges. You can also use it for local verification services and ride-hailing apps. Having a Hong Kong esim with phone number adds a layer of professionalism to your trip."
+        - q: "How does the speed of an eSIM compare to dedicated business broadband in Hong Kong?"
+          a: "While not as fast as dedicated fiber broadband, a 5G eSIM provides extremely fast and reliable speeds for mobile work. You can easily handle video conferencing, large file transfers, and cloud-based applications. The latency is low, making it suitable for real-time collaboration. For a business traveler, this level of performance is more than adequate."
+        - q: "Can I use my eSIM for tethering to provide internet for my laptop?"
+          a: "Yes, you can use your phone as a mobile hotspot to connect your laptop to the internet. This is a common and effective way to work from cafes or co-working spaces. Be aware that tethering consumes data quickly, so choose a plan with a generous allowance. A 30GB plan at $31.99 is a great choice for a business traveler who needs to tether regularly."
+        - q: "What is the best eSIM for Hong Kong for a short, last-minute business trip?"
+          a: "For a last-minute trip, a 3-day plan is the most convenient, and you can install it instantly upon purchase. The 10GB 3-day plan at $9.99 provides ample data for a few days of intensive work. If your needs are lighter, the 5GB 3-day plan at $4.99 is a cost-effective alternative. These plans offer instant activation for the busy professional."
 related_products:
-  title: Related eSIM Plans
+  title: Related Hong Kong eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -742,84 +574,118 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Hong-Kong eSIM vs Local Prepaid SIM: Which Is More Convenient?"
-  subtitle: "Hong Kong Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Hong-Kong eSIM vs Local Prepaid SIM: Which Is More Convenient?'
+  subtitle: Hong Kong Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Hong-Kong) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Hong-Kong"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Hong-Kong) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Hong-Kong
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Hong-Kong eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Hong-Kong eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Since March 2022, Hong Kong mandates real-name registration for all prepaid SIMs. At airport 1O1O (csl.) or CMHK counters, staff can assist, but cards from convenience stores like 7-Eleven require self-service online KYC, which is unfriendly to non-Chinese speakers. Some areas (e.g., Apliu Street) sell discounted cards but risk buying a 3 Macau SIM by mistake."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip the hassle of airport queues and self-service KYC. Activate your eSIM within 1 minute after landing in Hong Kong, no passport or registration needed."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Since March 2022, Hong Kong's OFCA enforces mandatory SIM card real-name registration (KYC). Except for airport 1O1O (csl.) and CMHK stores, cards from 7-Eleven require self-service online registration, creating a first experience gap for travelers unfamiliar with English or Cantonese."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid Hong Kong's mandatory real-name registration (KYC) since 2022. Unlike csl. or CMHK SIMs that require passport scanning, Roami eSIM activates instantly without any ID."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "csl. China-HK-Macau Travel SIM (HK$218) includes only 1GB roaming data for China/Macau; excess costs HK$40/100MB/day. CMHK Greater Bay Area SIM (HK$148/10 days) offers only 3GB shared data, with no service after exceeding."
-      esim_title: "Seamless Cross-Border Roaming"
-      esim_desc: "Unlike csl.'s HK$218 SIM with only 1GB roaming data (excess HK$40/100MB/day), Roami offers large multi-country data pools for Hong Kong, Macau, and mainland China at competitive rates."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "3 HK SoSIM (HK$33/50GB/30 days) forces a 30-day cycle; a 3-day tourist wastes 27 days and over 45GB. csl. Discover Hong Kong SIM (HK$88/3GB/5 days) ends with no pay-as-you-go; must buy a HK$48 add-on pack to continue."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike 3 HK SoSIM's 30-day cycle (HK$33/50GB) wasting 90% for short trips, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "SmarTone's terms prohibit tethering (though not technically blocked). CMHK's unlimited 10-day plan (HK$30, 384kbps) explicitly bans hotspot. No specific data on other operators' hotspot policies."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike SmarTone's tethering ban and CMHK's hotspot-prohibited plan (HK$30/10 days), Roami allows full hotspot sharing at high speeds."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "CMHK online top-up only accepts UnionPay (mainland-issued cards), posing a barrier for international cardholders. Other operators' websites may accept international credit cards, but no specific data on Visa/Mastercard/AMEX/Apple Pay/Google Pay/PayPal acceptance."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for UnionPay-only channels like CMHK's top-up system."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common knowledge, customer support for prepaid SIMs in Hong Kong is typically in Cantonese and English, with limited hours; self-service online portals are often Chinese-only."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock customer support in English and Chinese, unlike local prepaid SIMs with limited hours and Chinese-only self-service portals."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Since March 2022, Hong Kong mandates real-name registration for
+      all prepaid SIMs. At airport 1O1O (csl.) or CMHK counters, staff can assist,
+      but cards from convenience stores like 7-Eleven require self-service online
+      KYC, which is unfriendly to non-Chinese speakers. Some areas (e.g., Apliu Street)
+      sell discounted cards but risk buying a 3 Macau SIM by mistake.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip the hassle of airport queues and self-service KYC. Activate your
+      eSIM within 1 minute after landing in Hong Kong, no passport or registration
+      needed.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Since March 2022, Hong Kong's OFCA enforces mandatory SIM card real-name
+      registration (KYC). Except for airport 1O1O (csl.) and CMHK stores, cards from
+      7-Eleven require self-service online registration, creating a first experience
+      gap for travelers unfamiliar with English or Cantonese.
+    esim_title: No Passport Required
+    esim_desc: Avoid Hong Kong's mandatory real-name registration (KYC) since 2022.
+      Unlike csl. or CMHK SIMs that require passport scanning, Roami eSIM activates
+      instantly without any ID.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: csl. China-HK-Macau Travel SIM (HK$218) includes only 1GB roaming
+      data for China/Macau; excess costs HK$40/100MB/day. CMHK Greater Bay Area SIM
+      (HK$148/10 days) offers only 3GB shared data, with no service after exceeding.
+    esim_title: Seamless Cross-Border Roaming
+    esim_desc: Unlike csl.'s HK$218 SIM with only 1GB roaming data (excess HK$40/100MB/day),
+      Roami offers large multi-country data pools for Hong Kong, Macau, and mainland
+      China at competitive rates.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: 3 HK SoSIM (HK$33/50GB/30 days) forces a 30-day cycle; a 3-day tourist
+      wastes 27 days and over 45GB. csl. Discover Hong Kong SIM (HK$88/3GB/5 days)
+      ends with no pay-as-you-go; must buy a HK$48 add-on pack to continue.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike 3 HK SoSIM's 30-day cycle (HK$33/50GB) wasting 90% for short
+      trips, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: SmarTone's terms prohibit tethering (though not technically blocked).
+      CMHK's unlimited 10-day plan (HK$30, 384kbps) explicitly bans hotspot. No specific
+      data on other operators' hotspot policies.
+    esim_title: Unrestricted Tethering
+    esim_desc: Unlike SmarTone's tethering ban and CMHK's hotspot-prohibited plan
+      (HK$30/10 days), Roami allows full hotspot sharing at high speeds.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: CMHK online top-up only accepts UnionPay (mainland-issued cards),
+      posing a barrier for international cardholders. Other operators' websites may
+      accept international credit cards, but no specific data on Visa/Mastercard/AMEX/Apple
+      Pay/Google Pay/PayPal acceptance.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for UnionPay-only channels like CMHK's top-up system.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common knowledge,
+      customer support for prepaid SIMs in Hong Kong is typically in Cantonese and
+      English, with limited hours; self-service online portals are often Chinese-only.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock customer support in English and Chinese, unlike
+      local prepaid SIMs with limited hours and Chinese-only self-service portals.
   expert_verdict:
-    title: "Hong-Kong eSIM vs SIM Card Plans: Which One Fits Your Needs?"
+    title: 'Hong-Kong eSIM vs SIM Card Plans: Which One Fits Your Needs?'
     cards:
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Roaming Data Scarcity and High Costs"
-        desc: "<b>csl. China-HK-Macau Travel SIM (HK$218)</b> includes only <b>1GB</b> roaming data for China/Macau; excess costs <b>HK$40/100MB/day</b>. <b>CMHK Greater Bay Area SIM (HK$148/10 days)</b> offers only <b>3GB</b> shared data. Roami eSIM provides generous multi-country data at affordable rates."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot and Tethering"
-        desc: "<b>SmarTone's</b> terms prohibit tethering (though not technically blocked). <b>CMHK's unlimited 10-day plan (HK$30, 384kbps)</b> explicitly bans hotspot. Roami eSIM allows full-speed tethering without restrictions."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Multi-Country Connectivity"
-        desc: "Local SIMs like <b>csl. Travel SIM</b> segregate Hong Kong and roaming data pools. Roami eSIM offers a single, large data pool valid across Hong Kong, Macau, and mainland China, eliminating the need for multiple SIMs."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from Long Billing Cycles"
-        desc: "<b>3 HK SoSIM (HK$33/50GB/30 days)</b> forces a 30-day cycle; a 3-day tourist wastes <b>27 days</b> and over <b>45GB</b>. <b>csl. Discover Hong Kong SIM (HK$88/3GB/5 days)</b> ends with no pay-as-you-go; must buy a <b>HK$48</b> add-on. Roami offers flexible 7-day plans from <b>$1.99/GB</b>."
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Roaming Data Scarcity and High Costs
+      desc: <b>csl. China-HK-Macau Travel SIM (HK$218)</b> includes only <b>1GB</b>
+        roaming data for China/Macau; excess costs <b>HK$40/100MB/day</b>. <b>CMHK
+        Greater Bay Area SIM (HK$148/10 days)</b> offers only <b>3GB</b> shared data.
+        Roami eSIM provides generous multi-country data at affordable rates.
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Unrestricted Hotspot and Tethering
+      desc: <b>SmarTone's</b> terms prohibit tethering (though not technically blocked).
+        <b>CMHK's unlimited 10-day plan (HK$30, 384kbps)</b> explicitly bans hotspot.
+        Roami eSIM allows full-speed tethering without restrictions.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Seamless Multi-Country Connectivity
+      desc: Local SIMs like <b>csl. Travel SIM</b> segregate Hong Kong and roaming
+        data pools. Roami eSIM offers a single, large data pool valid across Hong
+        Kong, Macau, and mainland China, eliminating the need for multiple SIMs.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate Sunk Cost from Long Billing Cycles
+      desc: <b>3 HK SoSIM (HK$33/50GB/30 days)</b> forces a 30-day cycle; a 3-day
+        tourist wastes <b>27 days</b> and over <b>45GB</b>. <b>csl. Discover Hong
+        Kong SIM (HK$88/3GB/5 days)</b> ends with no pay-as-you-go; must buy a <b>HK$48</b>
+        add-on. Roami offers flexible 7-day plans from <b>$1.99/GB</b>.
 ---

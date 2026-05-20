@@ -1,6 +1,6 @@
 ---
 title: Nigeria eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Buy Nigeria eSIM | 24/7 5G Data | 20% OFF | Roami
   description: Traveling to Nigeria? Stay connected via Top Local Carrier Always-On
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/ng.svg
   flag_alt: Nigeria Flag
   title: Nigeria eSIM data plan
-  subtitle: No hidden fees | Instant delivery | Travel essential
+  subtitle: No hidden fees | Instant delivery | Travel essential – The best prepaid
+    eSIM for Nigeria travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Nigeria eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -294,9 +295,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '11.00'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Nigeria eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Nigeria for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -334,11 +337,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Nigeria eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Nigeria.
   - icon: ⏰
@@ -353,8 +357,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -367,8 +372,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -697,7 +701,7 @@ faq_section:
         on the go using your Nigeria eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Nigeria eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -747,84 +751,108 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Nigeria eSIM vs Physical SIM Card: Pros and Cons Breakdown"
-  subtitle: "Nigeria Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Nigeria eSIM vs Physical SIM Card: Pros and Cons Breakdown'
+  subtitle: Nigeria Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Nigeria) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Nigeria"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Nigeria) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Nigeria
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Nigeria eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Nigeria eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Must visit offline stores (e.g., MTN Registration Center, Airtel store) with original passport for real-name registration; airport kiosks are not readily available, and long queues and language barriers may occur."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip MTN or Airtel store queues. Activate online within 1 minute after landing in Lagos, no passport needed."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Since 2012, Nigeria has mandated SIM card purchase with real-name registration; each visitor must present their passport at an operator's official store (e.g., MTN SIM Card Registration Center) to complete registration."
-      esim_title: "No Passport Registration"
-      esim_desc: "Bypass Nigeria's mandatory SIM registration (since 2012). Roami eSIM activates instantly without presenting your passport at a physical store."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "No regional roaming offers; crossing into Benin or Cameroon results in expensive international roaming or no service; single-operator SIM may have signal blind spots in northern areas due to Boko Haram."
-      esim_title: "Seamless Multi-Country Roaming"
-      esim_desc: "Unlike MTN or Glo cards that lose service across borders, Roami eSIM provides continuous data in Benin, Cameroon, and beyond without changing SIMs."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Major plans are 30-day cycles (e.g., Glo 1.6GB for ₦1000/30 days, MTN 1GB for ₦1000/30 days); a 7-day tourist wastes over 75% of the plan's value."
-      esim_title: "Flexible Daily Plans"
-      esim_desc: "Unlike Glo's 30-day ₦1000/1.6GB plan (75% waste for a 7-day trip), Roami offers 7-day plans starting from $1.99/GB, saving money and data."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, most Nigerian prepaid SIMs allow tethering but may throttle speeds after certain usage; no explicit bans found."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike some Nigerian plans that throttle after a certain limit or restrict nighttime data."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "International credit card top-up on MTN's official website incurs a surcharge; Glo offers 15% bonus via electronic channels but international card convenience is unclear; physical scratch cards are common."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No surcharges like MTN's international credit card fee."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is typically available via phone or in-store, but English support is common; hours may be limited."
-      esim_title: "24/7 English Support"
-      esim_desc: "Get round-the-clock customer support in English via chat or email, unlike limited in-store hours of Nigerian operators."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Must visit offline stores (e.g., MTN Registration Center, Airtel
+      store) with original passport for real-name registration; airport kiosks are
+      not readily available, and long queues and language barriers may occur.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip MTN or Airtel store queues. Activate online within 1 minute after
+      landing in Lagos, no passport needed.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Since 2012, Nigeria has mandated SIM card purchase with real-name
+      registration; each visitor must present their passport at an operator's official
+      store (e.g., MTN SIM Card Registration Center) to complete registration.
+    esim_title: No Passport Registration
+    esim_desc: Bypass Nigeria's mandatory SIM registration (since 2012). Roami eSIM
+      activates instantly without presenting your passport at a physical store.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: No regional roaming offers; crossing into Benin or Cameroon results
+      in expensive international roaming or no service; single-operator SIM may have
+      signal blind spots in northern areas due to Boko Haram.
+    esim_title: Seamless Multi-Country Roaming
+    esim_desc: Unlike MTN or Glo cards that lose service across borders, Roami eSIM
+      provides continuous data in Benin, Cameroon, and beyond without changing SIMs.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Major plans are 30-day cycles (e.g., Glo 1.6GB for ₦1000/30 days,
+      MTN 1GB for ₦1000/30 days); a 7-day tourist wastes over 75% of the plan's value.
+    esim_title: Flexible Daily Plans
+    esim_desc: Unlike Glo's 30-day ₦1000/1.6GB plan (75% waste for a 7-day trip),
+      Roami offers 7-day plans starting from $1.99/GB, saving money and data.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      most Nigerian prepaid SIMs allow tethering but may throttle speeds after certain
+      usage; no explicit bans found.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike some Nigerian
+      plans that throttle after a certain limit or restrict nighttime data.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: International credit card top-up on MTN's official website incurs
+      a surcharge; Glo offers 15% bonus via electronic channels but international
+      card convenience is unclear; physical scratch cards are common.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No surcharges like MTN's international credit card fee.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      customer support is typically available via phone or in-store, but English support
+      is common; hours may be limited.
+    esim_title: 24/7 English Support
+    esim_desc: Get round-the-clock customer support in English via chat or email,
+      unlike limited in-store hours of Nigerian operators.
   expert_verdict:
-    title: "Nigeria eSIM vs Physical SIM: Travel, Cost, and Setup Compared"
+    title: 'Nigeria eSIM vs Physical SIM: Travel, Cost, and Setup Compared'
     cards:
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Single-Network Blind Spots"
-        desc: "Nigeria's northern regions suffer from Boko Haram-related coverage gaps. While a single MTN or Airtel SIM may lose signal, Roami eSIM can switch between MTN, Glo, and Airtel networks automatically."
-      - icon: "wifi"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Unrestricted Hotspot & Full Speed"
-        desc: "Some Nigerian plans restrict nighttime data (e.g., MTN's bonus data only 1am-7am) or throttle tethering. Roami eSIM offers full-speed hotspot with no time restrictions."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Stop Wasting 75% of Your Data Plan"
-        desc: "Glo's 1.6GB plan costs ₦1000 for 30 days. A 7-day tourist uses only ~25% of the data, wasting ₦750. Roami's 7-day plan from $1.99/GB matches your exact stay."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Nigeria's Strict SIM Passport Requirements"
-        desc: "Since 2012, all Nigerian prepaid SIMs (MTN, Glo, Airtel, 9mobile) require in-person passport registration at official stores. Roami eSIM activates instantly without any ID check."
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Single-Network Blind Spots
+      desc: Nigeria's northern regions suffer from Boko Haram-related coverage gaps.
+        While a single MTN or Airtel SIM may lose signal, Roami eSIM can switch between
+        MTN, Glo, and Airtel networks automatically.
+    - icon: wifi
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Unrestricted Hotspot & Full Speed
+      desc: Some Nigerian plans restrict nighttime data (e.g., MTN's bonus data only
+        1am-7am) or throttle tethering. Roami eSIM offers full-speed hotspot with
+        no time restrictions.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Stop Wasting 75% of Your Data Plan
+      desc: Glo's 1.6GB plan costs ₦1000 for 30 days. A 7-day tourist uses only ~25%
+        of the data, wasting ₦750. Roami's 7-day plan from $1.99/GB matches your exact
+        stay.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Nigeria's Strict SIM Passport Requirements
+      desc: Since 2012, all Nigerian prepaid SIMs (MTN, Glo, Airtel, 9mobile) require
+        in-person passport registration at official stores. Roami eSIM activates instantly
+        without any ID check.
 ---

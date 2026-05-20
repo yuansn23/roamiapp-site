@@ -1,6 +1,6 @@
 ---
 title: Belarus eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Best Belarus eSIM | High-Speed Data & True 5G | Roami
   description: Planning a trip to Belarus? Get Roami's Fast 5G on Top Local Carrier
@@ -48,9 +48,9 @@ hero:
   flag_alt: Belarus Flag
   title: Belarus eSIM data plan
   subtitle: 1-minute activation | 20% discount for a limited time | 100% money-back
-    guarantee
+    guarantee – The best prepaid eSIM for Belarus travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Belarus eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -271,9 +271,11 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.73'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Belarus eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Belarus for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -311,11 +313,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Belarus eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Belarus.
   - icon: ⏰
@@ -330,8 +333,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -344,8 +348,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -675,7 +678,7 @@ faq_section:
         on the go using your Belarus eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Belarus eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -725,84 +728,106 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Belarus eSIM vs Physical SIM: Travel, Cost, and Setup Compared"
-  subtitle: "Belarus Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Belarus eSIM vs Physical SIM: Travel, Cost, and Setup Compared'
+  subtitle: Belarus Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Belarus) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Belarus"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Belarus) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Belarus
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Belarus eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Belarus eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "All operators require passport presentation; MTS and A1 tourist plans exempt from official registration but still require passport. Some local stores do not know how to handle foreign passports."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip MTS or A1 store queues and passport checks. Activate your Roami eSIM online in under 1 minute after landing in Minsk."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "MTS and A1 tourist plans do not require registration with authorities but still require passport; life:) requires full registration."
-      esim_title: "No Passport Required"
-      esim_desc: "Bypass Belarus's mandatory passport presentation for SIM purchase. Roami eSIM requires zero ID verification, unlike MTS and A1 which demand passport even for tourist plans."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "MTS tourist SIM explicitly prohibits international roaming; life:) has limited coverage; no free roaming in EU."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "Unlike MTS tourist SIM which bans international roaming, Roami eSIM works seamlessly across borders. Travel from Belarus to Poland without changing SIM."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "MTS Bezlimitishe costs 26.75 BYN/month; A1 Drive Tourist costs 35 BYN/30 days; a 5-day trip wastes over 83% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Avoid 30-day plans like MTS's 26.75 BYN/month or A1's 35 BYN/30 days. Roami offers 7-day plans starting from $1.99/GB, saving over 83% waste for a 5-day trip."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "MTS Bezlimitishe limits hotspot to 100 MB per day in modem mode; life:) default plans cap speed at 2 Mbit/s."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "MTS Bezlimitishe limits hotspot to 100 MB/day; Roami eSIM allows full-speed tethering with no daily caps."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, top-up is possible via scratch cards or online with local cards; foreign cards may be rejected."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local scratch cards or dealing with foreign card rejections."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, support is primarily in Russian/Belarusian; no 24/7 English support."
-      esim_title: "24/7 English Support"
-      esim_desc: "Get round-the-clock customer support in English via live chat or email, unlike local operators which primarily offer support in Russian/Belarusian."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: All operators require passport presentation; MTS and A1 tourist
+      plans exempt from official registration but still require passport. Some local
+      stores do not know how to handle foreign passports.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip MTS or A1 store queues and passport checks. Activate your Roami
+      eSIM online in under 1 minute after landing in Minsk.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: MTS and A1 tourist plans do not require registration with authorities
+      but still require passport; life:) requires full registration.
+    esim_title: No Passport Required
+    esim_desc: Bypass Belarus's mandatory passport presentation for SIM purchase.
+      Roami eSIM requires zero ID verification, unlike MTS and A1 which demand passport
+      even for tourist plans.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: MTS tourist SIM explicitly prohibits international roaming; life:)
+      has limited coverage; no free roaming in EU.
+    esim_title: Global Roaming Ready
+    esim_desc: Unlike MTS tourist SIM which bans international roaming, Roami eSIM
+      works seamlessly across borders. Travel from Belarus to Poland without changing
+      SIM.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: MTS Bezlimitishe costs 26.75 BYN/month; A1 Drive Tourist costs 35
+      BYN/30 days; a 5-day trip wastes over 83% of the plan's value.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Avoid 30-day plans like MTS's 26.75 BYN/month or A1's 35 BYN/30 days.
+      Roami offers 7-day plans starting from $1.99/GB, saving over 83% waste for a
+      5-day trip.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: MTS Bezlimitishe limits hotspot to 100 MB per day in modem mode;
+      life:) default plans cap speed at 2 Mbit/s.
+    esim_title: Unrestricted Tethering
+    esim_desc: MTS Bezlimitishe limits hotspot to 100 MB/day; Roami eSIM allows full-speed
+      tethering with no daily caps.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      top-up is possible via scratch cards or online with local cards; foreign cards
+      may be rejected.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for local scratch cards or dealing with foreign card rejections.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      support is primarily in Russian/Belarusian; no 24/7 English support.
+    esim_title: 24/7 English Support
+    esim_desc: Get round-the-clock customer support in English via live chat or email,
+      unlike local operators which primarily offer support in Russian/Belarusian.
   expert_verdict:
-    title: "Belarus eSIM vs Physical SIM: Save Money and Avoid Hassle"
+    title: 'Belarus eSIM vs Physical SIM: Save Money and Avoid Hassle'
     cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, PayPal"
-        desc: "Local SIM top-up often requires scratch cards or local payment methods. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal</b> for hassle-free global payment."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation in 1 Minute"
-        desc: "Buying a local SIM requires finding a store, queuing, and presenting passport. Roami eSIM activates online in under 1 minute after landing in Minsk."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Belarus's Strict SIM Passport Requirements"
-        desc: "All Belarus operators (MTS, A1, life:) require passport presentation for SIM purchase. MTS and A1 tourist plans exempt from registration but still demand passport. Roami eSIM requires zero ID verification."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unlimited Hotspot vs 100 MB Daily Cap"
-        desc: "MTS Bezlimitishe limits hotspot to <b>100 MB per day</b> in modem mode. Roami eSIM allows full-speed tethering with no daily caps, perfect for sharing data across devices."
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Visa, Mastercard, PayPal
+      desc: Local SIM top-up often requires scratch cards or local payment methods.
+        Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal</b>
+        for hassle-free global payment.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation in 1 Minute
+      desc: Buying a local SIM requires finding a store, queuing, and presenting passport.
+        Roami eSIM activates online in under 1 minute after landing in Minsk.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Belarus's Strict SIM Passport Requirements
+      desc: All Belarus operators (MTS, A1, life:) require passport presentation for
+        SIM purchase. MTS and A1 tourist plans exempt from registration but still
+        demand passport. Roami eSIM requires zero ID verification.
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Unlimited Hotspot vs 100 MB Daily Cap
+      desc: MTS Bezlimitishe limits hotspot to <b>100 MB per day</b> in modem mode.
+        Roami eSIM allows full-speed tethering with no daily caps, perfect for sharing
+        data across devices.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bahrain eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Bahrain Travel eSIM | Zero Contracts | Full-Speed 5G | Roami
   description: Heading to Bahrain soon? Stay connected via Top Local Carrier Reliable
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/bh.svg
   flag_alt: Bahrain Flag
   title: Bahrain eSIM data plan
-  subtitle: High-speed 5G network | No more roaming fees | Top rated
+  subtitle: High-speed 5G network | No more roaming fees | Top rated – The best prepaid
+    eSIM for Bahrain travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Bahrain eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -222,9 +223,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '6.00'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Bahrain eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Bahrain for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -262,11 +265,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Bahrain eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Bahrain.
   - icon: ⏰
@@ -281,8 +285,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -295,8 +300,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -626,7 +630,7 @@ faq_section:
         on the go using your Bahrain eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Bahrain eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -676,84 +680,117 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Bahrain eSIM or SIM Card for Tourists: Which Should You Choose?"
-  subtitle: "Bahrain Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Bahrain eSIM or SIM Card for Tourists: Which Should You Choose?'
+  subtitle: Bahrain Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Bahrain) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Bahrain"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Bahrain) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Bahrain
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Bahrain eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Bahrain eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Even at airport arrival halls, users must present their passport and undergo fingerprint scanning. Queuing for registration is time-consuming, and there is a risk of biometric privacy leakage to the local telecom system."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Batelco store queues and fingerprint scanning. Activate your eSIM online within 1 minute after landing in Bahrain, avoiding the 30-minute in-person registration process."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Since 2017, strict real-name registration has been enforced; users must register in person and submit biometric data such as fingerprints. All anonymous SIM cards before July 2017 require re-authentication."
-      esim_title: "No Passport or Biometrics"
-      esim_desc: "Unlike Batelco, Zain, and STC which require mandatory fingerprint registration since 2017, Roami eSIM requires zero personal data submission. No passport copy or biometric scan needed."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge: Batelco, Zain, and STC prepaid SIMs are local-only; international roaming requires additional add-ons or is not available on basic plans."
-      esim_title: "Global Roaming Without FUP"
-      esim_desc: "Avoid Zain and STC's FUP throttling to 256 kbps after 10GB. Roami eSIM provides consistent high-speed data across multiple countries, with no fair usage caps."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Weekly plans have a fixed validity of 7 days; monthly plans have a fixed validity of 30 days. For a 3-day stay, a Batelco weekly plan costs 3 BHD (about $7.9), wasting 4 days of validity."
-      esim_title: "Flexible Plans, No Waste"
-      esim_desc: "Unlike Batelco's 7-day plan (3 BHD for 1GB) where a 3-day trip wastes 57% of validity, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% on unused data."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Zain and STC pure data plans are subject to FUP (Fair Usage Policy); after reaching the FUP threshold (e.g., 10GB/30 days), speeds are throttled to 256 kbps, effectively blocking high-speed video streaming and large file transfers."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "While Zain and STC throttle hotspot speeds to 256 kbps after FUP limits, Roami eSIM allows full-speed tethering with no throttling, perfect for video calls and streaming."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up mainly relies on local authorized dealer electronic recharge cards (denominations like 500 fils, 1 BHD). International credit cards may fail due to gateway restrictions, leading to offline recharge failures."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to find local recharge cards or risk international card failures at Bahrain kiosks."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge: Customer support is typically available in Arabic and English via phone or in-store, but may have limited hours for prepaid users."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Unlike local operators with limited phone support hours, Roami offers 24/7 live chat and email support in English, ensuring help whenever you need it."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Even at airport arrival halls, users must present their passport
+      and undergo fingerprint scanning. Queuing for registration is time-consuming,
+      and there is a risk of biometric privacy leakage to the local telecom system.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Batelco store queues and fingerprint scanning. Activate your eSIM
+      online within 1 minute after landing in Bahrain, avoiding the 30-minute in-person
+      registration process.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Since 2017, strict real-name registration has been enforced; users
+      must register in person and submit biometric data such as fingerprints. All
+      anonymous SIM cards before July 2017 require re-authentication.
+    esim_title: No Passport or Biometrics
+    esim_desc: Unlike Batelco, Zain, and STC which require mandatory fingerprint registration
+      since 2017, Roami eSIM requires zero personal data submission. No passport copy
+      or biometric scan needed.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: 'No specific data in source for this dimension. Based on common
+      market knowledge: Batelco, Zain, and STC prepaid SIMs are local-only; international
+      roaming requires additional add-ons or is not available on basic plans.'
+    esim_title: Global Roaming Without FUP
+    esim_desc: Avoid Zain and STC's FUP throttling to 256 kbps after 10GB. Roami eSIM
+      provides consistent high-speed data across multiple countries, with no fair
+      usage caps.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Weekly plans have a fixed validity of 7 days; monthly plans have
+      a fixed validity of 30 days. For a 3-day stay, a Batelco weekly plan costs 3
+      BHD (about $7.9), wasting 4 days of validity.
+    esim_title: Flexible Plans, No Waste
+    esim_desc: Unlike Batelco's 7-day plan (3 BHD for 1GB) where a 3-day trip wastes
+      57% of validity, Roami offers 7-day plans starting from $1.99/GB, saving up
+      to 75% on unused data.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: Zain and STC pure data plans are subject to FUP (Fair Usage Policy);
+      after reaching the FUP threshold (e.g., 10GB/30 days), speeds are throttled
+      to 256 kbps, effectively blocking high-speed video streaming and large file
+      transfers.
+    esim_title: Unrestricted Tethering
+    esim_desc: While Zain and STC throttle hotspot speeds to 256 kbps after FUP limits,
+      Roami eSIM allows full-speed tethering with no throttling, perfect for video
+      calls and streaming.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up mainly relies on local authorized dealer electronic recharge
+      cards (denominations like 500 fils, 1 BHD). International credit cards may fail
+      due to gateway restrictions, leading to offline recharge failures.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need to find local recharge cards or risk international card failures at
+      Bahrain kiosks.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: 'No specific data in source for this dimension. Based on common
+      market knowledge: Customer support is typically available in Arabic and English
+      via phone or in-store, but may have limited hours for prepaid users.'
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Unlike local operators with limited phone support hours, Roami offers
+      24/7 live chat and email support in English, ensuring help whenever you need
+      it.
   expert_verdict:
-    title: "Bahrain eSIM vs Prepaid SIM: Which Offers Better Value?"
+    title: 'Bahrain eSIM vs Prepaid SIM: Which Offers Better Value?'
     cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, or PayPal"
-        desc: "Bahrain prepaid top-ups rely on local recharge cards (500 fils, 1 BHD) and often reject international credit cards. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal</b>."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid FUP Throttling on Zain and STC"
-        desc: "Zain's e-GO and STC's Prepaid Broadband plans throttle to <b>256 kbps</b> after FUP limits (e.g., 10GB/30 days). Roami eSIM provides consistent high-speed data with no throttling."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from 7-Day Plans"
-        desc: "Batelco's 7-day plan costs <b>3 BHD ($7.9)</b> for 1GB, but a 3-day trip wastes 57% of validity. Roami offers flexible 7-day plans from <b>$1.99/GB</b>, saving up to 75%."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation, No Queues"
-        desc: "Buying a local SIM at Bahrain airport requires queuing for passport check and fingerprint scan (up to 30 minutes). Roami eSIM activates online in <b>1 minute</b> after purchase."
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Visa, Mastercard, or PayPal
+      desc: Bahrain prepaid top-ups rely on local recharge cards (500 fils, 1 BHD)
+        and often reject international credit cards. Roami accepts <b>Visa, Mastercard,
+        AMEX, Apple Pay, Google Pay, and PayPal</b>.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid FUP Throttling on Zain and STC
+      desc: Zain's e-GO and STC's Prepaid Broadband plans throttle to <b>256 kbps</b>
+        after FUP limits (e.g., 10GB/30 days). Roami eSIM provides consistent high-speed
+        data with no throttling.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate Sunk Cost from 7-Day Plans
+      desc: Batelco's 7-day plan costs <b>3 BHD ($7.9)</b> for 1GB, but a 3-day trip
+        wastes 57% of validity. Roami offers flexible 7-day plans from <b>$1.99/GB</b>,
+        saving up to 75%.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation, No Queues
+      desc: Buying a local SIM at Bahrain airport requires queuing for passport check
+        and fingerprint scan (up to 30 minutes). Roami eSIM activates online in <b>1
+        minute</b> after purchase.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Jamaica eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Best Jamaica eSIM | High-Speed 5G Travel Internet | Roami
   description: Relax in Jamaica while staying perfectly connected. A Roami virtual
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/jm.svg
   flag_alt: Jamaica Flag
   title: Jamaica eSIM data plan
-  subtitle: Top rated | 20% discount for a limited time | 1-minute activation
+  subtitle: Top rated | 20% discount for a limited time | 1-minute activation – The
+    best prepaid eSIM for Jamaica travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Jamaica eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -198,9 +199,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '4.53'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Jamaica eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Jamaica for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -239,11 +242,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Jamaica eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Jamaica.
   - icon: ⏰
@@ -258,8 +262,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -272,8 +277,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -602,7 +606,7 @@ faq_section:
         on the go using your Jamaica eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Jamaica eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -652,84 +656,99 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Jamaica eSIM or SIM Card: What’s the Best Option in 2026?"
-  subtitle: "Jamaica Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Jamaica eSIM or SIM Card: What’s the Best Option in 2026?'
+  subtitle: Jamaica Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Jamaica) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Jamaica"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Jamaica) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Jamaica
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Jamaica eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Jamaica eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Digicel SIM costs JMD 500-700, FLOW SIM costs JMD 500, both require in-store purchase with passport."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Digicel/FLOW store queues and passport checks. Activate Roami eSIM online in 1 minute before landing in Jamaica."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Both Digicel and FLOW require passport for registration."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid handing over your passport to Digicel or FLOW staff. Roami eSIM requires zero personal ID, protecting your privacy."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Digicel roaming add-on costs JMD 5,000/1GB, overage JMD 45/MB; FLOW Travel Pass 7 days 100MB JMD 1,299, overage JMD 38/MB."
-      esim_title: "Global Roaming Included"
-      esim_desc: "Unlike Digicel's JMD 5,000/1GB roaming add-on, Roami eSIM offers affordable multi-country plans for the Caribbean, with no overage fees."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Digicel 28-day 5GB plan JMD 2,450, FLOW 28-day 4GB plan JMD 2,300; a 7-day tourist wastes 75% of the plan value."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Unlike Digicel's 28-day cycle (JMD 2,450/5GB) wasting 75% for a 7-day trip, Roami offers 7-day plans starting from $1.99/GB, saving money."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "FLOW 'unlimited' plans restrict video calls and hotspot sharing; Digicel FUP limits social media and VoIP."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "FLOW's FUP throttles to 2G and restricts hotspot; Roami eSIM allows full-speed tethering on all plans, no hidden limits."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, top-up via Digicel app or FLOW website accepts Visa/Mastercard, but foreign cards often fail."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Top-up Digicel/FLOW often fails with foreign cards. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal seamlessly."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is local hours, English only, no 24/7 live chat."
-      esim_title: "24/7 English Support"
-      esim_desc: "Digicel/FLOW support is limited to local hours. Roami provides 24/7 live chat and email support in English, ready for any issue."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Digicel SIM costs JMD 500-700, FLOW SIM costs JMD 500, both require
+      in-store purchase with passport.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Digicel/FLOW store queues and passport checks. Activate Roami
+      eSIM online in 1 minute before landing in Jamaica.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Both Digicel and FLOW require passport for registration.
+    esim_title: No Passport Required
+    esim_desc: Avoid handing over your passport to Digicel or FLOW staff. Roami eSIM
+      requires zero personal ID, protecting your privacy.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Digicel roaming add-on costs JMD 5,000/1GB, overage JMD 45/MB; FLOW
+      Travel Pass 7 days 100MB JMD 1,299, overage JMD 38/MB.
+    esim_title: Global Roaming Included
+    esim_desc: Unlike Digicel's JMD 5,000/1GB roaming add-on, Roami eSIM offers affordable
+      multi-country plans for the Caribbean, with no overage fees.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Digicel 28-day 5GB plan JMD 2,450, FLOW 28-day 4GB plan JMD 2,300;
+      a 7-day tourist wastes 75% of the plan value.
+    esim_title: Flexible Short Plans
+    esim_desc: Unlike Digicel's 28-day cycle (JMD 2,450/5GB) wasting 75% for a 7-day
+      trip, Roami offers 7-day plans starting from $1.99/GB, saving money.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: FLOW 'unlimited' plans restrict video calls and hotspot sharing;
+      Digicel FUP limits social media and VoIP.
+    esim_title: Unrestricted Tethering
+    esim_desc: FLOW's FUP throttles to 2G and restricts hotspot; Roami eSIM allows
+      full-speed tethering on all plans, no hidden limits.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      top-up via Digicel app or FLOW website accepts Visa/Mastercard, but foreign
+      cards often fail.
+    esim_title: Global Payment Methods
+    esim_desc: Top-up Digicel/FLOW often fails with foreign cards. Roami accepts Visa,
+      Mastercard, AMEX, Apple Pay, Google Pay, and PayPal seamlessly.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      customer support is local hours, English only, no 24/7 live chat.
+    esim_title: 24/7 English Support
+    esim_desc: Digicel/FLOW support is limited to local hours. Roami provides 24/7
+      live chat and email support in English, ready for any issue.
   expert_verdict:
-    title: "Jamaica eSIM vs Physical SIM: Travel, Cost, and Setup Compared"
+    title: 'Jamaica eSIM vs Physical SIM: Travel, Cost, and Setup Compared'
     cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Jamaica's Strict SIM Passport Requirements"
-        desc: "Both Digicel and FLOW require <b>passport</b> for SIM purchase. Roami eSIM needs <b>no ID</b>, activating instantly online."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation, No Store Queues"
-        desc: "Buying Digicel/FLOW SIM requires visiting a store and queuing. Roami eSIM activates <b>within 1 minute</b> after purchase, ready upon landing."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot & Full Speed"
-        desc: "FLOW's 'unlimited' plans throttle to <b>2G</b> after FUP and restrict hotspot. Roami eSIM allows <b>full-speed tethering</b> on all plans."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Roaming Rip-offs: JMD 45/MB Overage"
-        desc: "Digicel roaming costs <b>JMD 5,000/1GB</b> and overage <b>JMD 45/MB</b>. FLOW Travel Pass 7 days 100MB is <b>JMD 1,299</b>. Roami eSIM offers affordable Caribbean plans with <b>no overage</b>."
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Jamaica's Strict SIM Passport Requirements
+      desc: Both Digicel and FLOW require <b>passport</b> for SIM purchase. Roami
+        eSIM needs <b>no ID</b>, activating instantly online.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation, No Store Queues
+      desc: Buying Digicel/FLOW SIM requires visiting a store and queuing. Roami eSIM
+        activates <b>within 1 minute</b> after purchase, ready upon landing.
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Unrestricted Hotspot & Full Speed
+      desc: FLOW's 'unlimited' plans throttle to <b>2G</b> after FUP and restrict
+        hotspot. Roami eSIM allows <b>full-speed tethering</b> on all plans.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: 'Avoid Roaming Rip-offs: JMD 45/MB Overage'
+      desc: Digicel roaming costs <b>JMD 5,000/1GB</b> and overage <b>JMD 45/MB</b>.
+        FLOW Travel Pass 7 days 100MB is <b>JMD 1,299</b>. Roami eSIM offers affordable
+        Caribbean plans with <b>no overage</b>.
 ---

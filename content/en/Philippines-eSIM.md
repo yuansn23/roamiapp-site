@@ -1,6 +1,6 @@
 ---
 title: Philippines eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Philippines eSIM | 20% OFF| High-Speed 5G| Roami
   description: Explore Philippines with ease. Get Roami's Full-Speed 5G on Top Local
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/ph.svg
   flag_alt: Philippines Flag
   title: Philippines eSIM data plan
-  subtitle: Comfortable | High-speed 5G network | Prioritized 5G access
+  subtitle: Comfortable | High-speed 5G network | Prioritized 5G access – The best
+    prepaid eSIM for Philippines travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Philippines eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -286,9 +287,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '2.66'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Philippines eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Philippines for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -327,11 +330,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Philippines eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Philippines.
   - icon: ⏰
@@ -346,8 +350,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -360,8 +365,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -371,330 +375,156 @@ activation_steps:
       start using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: Philippines eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Philippines eSIM across different
-    travel scenarios.
+  title: "The Ultimate Guide to eSIM Data Plans for Philippines"
+  desc: "Navigate the Philippines with a seamless digital connection using an eSIM that connects you to local operators like Globe, Smart, and DITO. Whether you are island-hopping, working remotely, or visiting family, this guide covers everything from airport arrival to emergency connectivity."
   categories:
-  - id: faq-general
-    icon: help-circle
-    tab_title: General
-    title: 1. General Questions
-    questions:
-    - q: Does my phone support the Philippines eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Philippines eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Philippines eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Philippines
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Philippines eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Philippines eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Philippines that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Philippines eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Philippines eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Philippines eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Philippines eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Philippines,
-        such as Globe, Smart, DITO, to ensure premium speeds at a fraction of roaming
-        costs.
-    - q: How do you compare with well-known eSIM providers like Ubigi, DENT, Holafly,
-        Airalo?
-      a: While great companies like Ubigi, DENT, Holafly, Airalo offer reliable services,
-        we focus on providing the most cost-effective Philippines eSIM, ensuring lower
-        latency and better prices with our automatic price-matching system.
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
-    questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Philippines eSIM before your flight. Once you land at Ninoy Aquino
-        International Airport (MNL), Mactan-Cebu International Airport (CEB), Clark
-        International Airport (CRK), simply turn off Airplane Mode and enable your
-        eSIM line. It will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Philippines eSIM activated upon landing, you can immediately open
-        Grab, Angkas, JoyRide to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Philippines eSIM data allows you to open Google Maps right
-        at the baggage claim in Ninoy Aquino International Airport (MNL), Mactan-Cebu
-        International Airport (CEB), Clark International Airport (CRK) to check real-time
-        train schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Philippines eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Philippines eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Philippines eSIM cellular data to let your family know you've arrived
-        safely.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
-    questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Philippines eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Philippines, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Grab, Angkas, JoyRide use VoIP (internet calling) and in-app messaging.
-        Since you have active Philippines eSIM data, drivers can call or message you
-        directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Philippines eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Philippines eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in Philippines.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Philippines eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Philippines eSIM's data network while
-        on the train or in the car.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
-    questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Philippines eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Philippines eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at The Peninsula Manila, Shangri-La at the Fort,
-        Marco Polo Ortigas Manila or a local guesthouse, you can input the address
-        into Google Maps and get turn-by-turn walking or transit directions using
-        your Philippines eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Philippines eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Philippines eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download GrabFood, Foodpanda, Honestbee and use
-        your Philippines eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Philippines eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
-    questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Chocolate Hills, Puerto Princesa Subterranean River
-        National Park, El Nido spontaneously, you can use your Philippines eSIM data
-        to buy skip-the-line tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Philippines eSIM, you can read reviews and
-        book local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Philippines.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Philippines eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Philippines eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Philippines eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Philippines eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Philippines eSIM data to search 'restaurants near me' on Google
-        Maps to check ratings, opening hours, and photos of the menu before walking
-        in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Philippines eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Philippines eSIM ensures you
-        can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Philippines eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like GrabFood, Foodpanda, Honestbee, register
-        using your email or social accounts, and order food seamlessly using your
-        Philippines eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like GCash,
-        PayMaya, BDO Online Banking require a brief internet handshake, which your
-        Philippines eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Philippines eSIM to find hidden culinary gems in the city.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
-    questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Philippines eSIM providing the internet, you can chat and call exactly as
-        you do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Philippines eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Philippines eSIM are clear and lag-free, no matter where you are
-        in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Philippines
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Philippines eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Philippines eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Philippines eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
-    questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Philippines, you can dial local emergency numbers like 911 (Emergency),
-        112 (Mobile Emergency), 117 (Police) directly from your phone's dialer regardless
-        of your active SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Philippines eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Philippines eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Philippines eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Philippines eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Philippines eSIM, use
-        your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Philippines eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Philippines eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Philippines eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Philippines eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Philippines eSIM, you can rapidly upload
-        presentations or large documents to Google Drive or Dropbox directly from
-        the exhibition floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Philippines eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Philippines eSIM to update them on flight delays or schedule
-        changes.
+    - id: faq-general
+      icon: help-circle
+      tab_title: General
+      title: "1. General Questions About Philippines eSIM"
+      questions:
+        - q: "How do I choose between Globe, Smart, and DITO for my eSIM in the Philippines?"
+          a: "Your choice depends on your travel route. Globe is often recommended for strong coverage in Metro Manila and tourist spots like Palawan, while Smart excels in remote areas and the Visayas region. DITO is a newer network with competitive pricing but may have less coverage in rural areas. For the best experience, a travel esim philippines from a provider like Roami offers multi-network access, automatically connecting you to the strongest signal."
+        - q: "Can I use an eSIM on my iPhone or Android phone in the Philippines?"
+          a: "Yes, most modern smartphones support eSIM technology. For iPhone, eSIM is available on iPhone XS and newer models, including the iPhone 14 and 15 series sold in the US. Android users should check if their device supports eSIM, with popular models from Samsung, Google Pixel, and Huawei being compatible. Always ensure your phone is unlocked before purchasing an esim for philippines travel."
+        - q: "How do I activate my eSIM for the Philippines before my flight?"
+          a: "Activation is typically done by scanning a QR code provided by your eSIM provider. You can install the eSIM at home or at the airport, but only activate the data plan when you arrive in the Philippines. Providers like Roami offer instant email delivery of the QR code. It is wise to connect to Wi-Fi during the initial setup to ensure a smooth process."
+        - q: "What happens if I run out of data on my Philippine eSIM?"
+          a: "You can easily top up your eSIM through the provider's app or website, often with instant activation. Many services, including Roami and Airalo, allow you to purchase additional data packages without needing a new eSIM. For example, you might add a small 1GB plan for short business trips. Always check your provider's top-up options before traveling."
+        - q: "Is it better to buy a physical SIM at the airport or get an eSIM before my trip?"
+          a: "An eSIM is generally more convenient as you can purchase and install it before landing, avoiding long queues at the airport. Physical SIMs from providers like Globe or Smart are available at NAIA terminals but require a passport for registration. An esim philippines prepaid plan offers instant connectivity without the hassle of swapping cards. For travelers with multiple devices, an eSIM also allows you to keep your home SIM active for calls and texts."
+        - q: "How does an eSIM from Roami compare to other options like Holafly or Airalo for the Philippines?"
+          a: "Roami provides a local number option and multi-network access, which is a key differentiator. Holafly is known for its unlimited data plans, while Airalo offers budget-friendly regional packages. For the Philippines, Roami's plans often include competitive pricing, such as a 7-day 5GB plan for $9.99, and direct support. Each provider has strengths, but Roami is particularly strong for business travelers needing a local presence."
+        - q: "Can I keep my existing WhatsApp or iMessage number when using a Philippine eSIM?"
+          a: "Yes, you can continue using your regular number for messaging apps like WhatsApp and iMessage as long as you have an internet connection. Your eSIM provides the data, while your physical SIM or home eSIM remains active for iMessage activation. This setup is perfect for staying in touch without incurring international roaming charges. Just ensure your phone allows for dual SIM functionality."
+        - q: "What is the process for getting a refund if my eSIM doesn't work in the Philippines?"
+          a: "Most reputable eSIM providers, including Roami, offer a satisfaction guarantee or a refund policy if the service cannot be activated. You typically need to contact customer support within a specific timeframe, such as 24 hours of purchase, and provide proof of the issue. It is crucial to check the provider's terms before buying, as some budget esims may not offer refunds. Always test your connection immediately after activation."
+        - q: "Are there any hidden fees or taxes when buying an eSIM for the Philippines?"
+          a: "The price you see is generally the final price, with no hidden taxes or activation fees. For example, a 15-day 10GB plan is listed at $14.99, and you pay exactly that. However, some providers may add a small service fee for top-ups. Always read the product description carefully. Roami and other leading providers are transparent about their pricing."
+        - q: "Can I use a Philippine eSIM for voice calls to local numbers?"
+          a: "Most travel eSIMs are data-only, meaning they do not support traditional voice calls. To make calls to local numbers, you would need a plan that includes a local phone number, which Roami offers. Alternatively, you can use VoIP apps like Skype or Viber to call landlines and mobiles. For business travelers needing to call clients, an eSIM with a local number is highly recommended."
+    - id: faq-airport
+      icon: airplane
+      tab_title: Airports
+      title: "2. Philippines eSIM at Airports"
+      questions:
+        - q: "Where can I buy an eSIM at Ninoy Aquino International Airport (NAIA) in Manila?"
+          a: "While you can purchase an eSIM online before your trip, NAIA terminals have kiosks for Globe and Smart physical SIMs. For an eSIM, it is best to buy and install it before you arrive, as airport Wi-Fi is available for activation. Some providers like Klook also offer digital eSIMs that can be purchased on the spot. This saves time and ensures you have data immediately upon exiting the terminal."
+        - q: "Will my eSIM work immediately after I land at NAIA?"
+          a: "Yes, if you have installed the eSIM profile before your flight, it will activate as soon as you connect to a local network. Most providers use automated activation upon detecting a Philippine network. This means you can use ride-hailing apps like Grab right away. For a stress-free arrival, choose a provider like Roami that offers instant activation."
+        - q: "What is the best eSIM for a quick layover at Manila Airport?"
+          a: "For a short layover, a low-data plan like a 1GB 3-day plan for $2.99 is sufficient for maps and messaging. You can also opt for a 1GB 7-day plan for short business trips, priced at $3.99, which covers a few days of connectivity. These plans are perfect for checking emails and navigating the airport. Since you are not leaving the airport, a larger plan is unnecessary."
+        - q: "Can I use an eSIM from a provider like Airalo or Holafly at the Mactan-Cebu International Airport?"
+          a: "Yes, eSIMs from major providers work at all Philippine airports, including Mactan-Cebu. The esim philippines globe and smart networks cover these areas well. You can purchase a plan from any provider, such as the 15-day 5GB plan for $8.99, and it will function seamlessly. Just ensure the plan you choose includes coverage in the Visayas region."
+        - q: "Is there free Wi-Fi at NAIA terminals to set up my eSIM?"
+          a: "Yes, NAIA offers free Wi-Fi, though the connection can be slow and unreliable during peak hours. It is generally sufficient for scanning a QR code and completing your eSIM installation. For a faster experience, consider buying a small eSIM plan before your flight to use as a backup. This ensures you are not dependent on airport connectivity."
+    - id: faq-transport
+      icon: train
+      tab_title: Transport
+      title: "3. Philippines eSIM for Transport"
+      questions:
+        - q: "How does an eSIM help with using Grab and other ride-hailing apps in the Philippines?"
+          a: "An eSIM provides the necessary data to book rides with Grab, which is the most popular ride-hailing app in the country. With a 3GB 15-day plan for $7.99, you can navigate city streets and track your driver without interruption. The eSIM ensures you have a stable connection to communicate with your driver via the app's chat feature. This is especially useful in busy areas like Makati or Bonifacio Global City."
+        - q: "Can I use my eSIM for navigation when driving in the Philippines?"
+          a: "Absolutely, eSIMs are ideal for using Google Maps or Waze for driving directions. The high-speed 5G/4G/LTE connections provide real-time traffic updates, which are crucial in congested cities like Manila. A 5GB 15-day plan for $8.99 is more than enough for a week of navigation. This eliminates the need for downloading offline maps and gives you live route suggestions."
+        - q: "What eSIM plan is best for commuting on the MRT or LRT in Metro Manila?"
+          a: "For short commutes on the MRT or LRT, a small data plan like the 1GB 3-day plan for $2.99 is perfect for checking train schedules and maps. You can also use it to listen to music or podcasts during the ride. The connection is reliable on elevated tracks. This is a cost-effective solution for daily commuters who are visiting for a business trip."
+        - q: "Will my eSIM work on ferries and boats, like those going to Boracay or Palawan?"
+          a: "Yes, eSIMs work on ferries, but the connection can be spotty once you leave the shore. Providers like Globe and Smart have coastal coverage, so you may have data for the first few kilometers. For the journey, a 10GB 15-day plan for $14.99 ensures you have enough data for the entire trip. Once you arrive, the connection will be strong again in tourist areas."
+        - q: "How do I get an eSIM for long-distance bus travel from Manila to Baguio?"
+          a: "You can purchase any esim philippines prepaid plan before your trip, as long-distance buses often pass through areas with good coverage. A 5GB 7-day plan for $9.99 is great for entertainment and navigation on the 6-hour journey. The eSIM will connect to networks along the route, such as Smart or Globe. This allows you to stream music or work during the trip."
+    - id: faq-hotels
+      icon: building
+      tab_title: Hotels
+      title: "4. Philippines eSIM for Hotels"
+      questions:
+        - q: "Can I use my eSIM as a backup if the hotel Wi-Fi is slow?"
+          a: "Yes, an eSIM is an excellent backup for slow or unreliable hotel Wi-Fi. Many hotels in the Philippines offer free Wi-Fi, but it can be congested in the evenings. With a 3GB 7-day plan for $4.99, you can have a personal hotspot for work or streaming. This ensures you are always connected, even if the hotel network fails."
+        - q: "Will my eSIM work in my hotel room in a remote area like El Nido or Siargao?"
+          a: "Coverage in remote areas like El Nido and Siargao depends on the network. Globe and Smart have improved coverage in these tourist spots, but it can be inconsistent. An eSIM that uses multiple networks, like Roami, will automatically connect to the strongest signal. For these areas, a 10GB 15-day plan for $14.99 provides ample data for browsing and sharing photos."
+        - q: "How can I use an eSIM to stream movies in my hotel at night?"
+          a: "For streaming, you need a plan with a larger data allowance. An unlimited 7-day plan for $21.99 is perfect for watching Netflix or YouTube without worrying about data limits. The high-speed connection supports HD streaming. This is a great option for relaxing after a day of sightseeing."
+        - q: "Do I need to register my eSIM with the hotel for security reasons?"
+          a: "No, your eSIM is a personal SIM, and you do not need to register it with the hotel. It provides a private and secure internet connection, separate from the hotel's network. This is beneficial for accessing sensitive information like banking apps. You can simply use it as you would a home SIM."
+        - q: "What is the best eSIM for a family staying in a hotel in Manila?"
+          a: "For a family, a larger plan like the 20GB 15-day plan for $24.99 can be shared via a personal hotspot. This allows multiple devices to connect simultaneously. Alternatively, each family member can have their own small plan, like the 3GB 15-day for $7.99. This is cost-effective and ensures everyone has their own connection."
+    - id: faq-attractions
+      icon: landmark
+      tab_title: Attractions
+      title: "5. Philippines eSIM for Attractions"
+      questions:
+        - q: "How can I use an eSIM to book tickets for tourist attractions like the Chocolate Hills?"
+          a: "An eSIM allows you to book tickets online for attractions like the Chocolate Hills or the Puerto Princesa Subterranean River. You can use the data to access ticketing websites or apps. A 5GB 30-day plan for $9.99 is ideal for a longer stay covering multiple attractions. This saves you time by avoiding on-site queues."
+        - q: "Will my eSIM work at the Banaue Rice Terraces for taking and sharing photos?"
+          a: "Yes, coverage at the Banaue Rice Terraces is generally good, especially from Smart and Globe. You can use your eSIM to instantly share photos and videos on social media. A 10GB 30-day plan for $15.99 is perfect for documenting your trip. The high-speed connection ensures quick uploads even in this mountainous region."
+        - q: "What eSIM plan is best for a day trip to Intramuros, Manila?"
+          a: "For a day trip to Intramuros, a small plan like the 1GB 3-day plan for $2.99 is sufficient for maps, historical information, and photos. The area has excellent coverage from all major networks. You can use the data to look up facts about the walled city. This is a very affordable option for a short visit."
+        - q: "Can I use my eSIM to watch live streams of events at the Mall of Asia Arena?"
+          a: "Yes, you can use your eSIM to watch live streams or check scores at the Mall of Asia Arena. An unlimited 3-day plan for $9.99 ensures you have enough data for a day of events. The connection in the area is strong due to the high foot traffic. This is perfect for sports fans or concert-goers."
+        - q: "How does an eSIM help with navigating the Underground River in Palawan?"
+          a: "While inside the cave, there is no signal, but an eSIM is useful for the surrounding area. You can use it to book your tour, check the weather, and navigate to the site. A 3GB 7-day plan for $4.99 is ideal for a short trip to Palawan. This ensures you have data for the journey and the town."
+    - id: faq-social
+      icon: message-circle
+      tab_title: Social & Messaging
+      title: "6. Philippines eSIM for Social Media"
+      questions:
+        - q: "Can I use an eSIM for unlimited Instagram and TikTok browsing in the Philippines?"
+          a: "Yes, many eSIM plans offer high-speed data perfect for social media. For heavy use, an unlimited 30-day plan for $70.99 provides worry-free data for scrolling and posting. However, even a 10GB plan for $15.99 per 30 days is often enough for regular social media activity. The speed is sufficient for uploading high-quality videos."
+        - q: "Will my eSIM work for video calls on WhatsApp or FaceTime?"
+          a: "Yes, eSIMs support video calls seamlessly. A 5GB 15-day plan for $8.99 allows for several hours of video calling. The high-speed 5G/4G/LTE connection ensures clear audio and video. This is great for staying in touch with family back home."
+        - q: "What is the best eSIM for a digital nomad who needs constant social media updates?"
+          a: "For constant updates, a plan with a large data cap is best, such as the 50GB 30-day plan for $44.99. This allows for daily posting, live streaming, and engagement with followers. The unlimited 30-day plan for $70.99 is another premium option. Both ensure you never run out of data for your content."
+        - q: "Can I use my eSIM to access Facebook, Twitter, and other apps that are sometimes restricted in other countries?"
+          a: "All social media apps are fully accessible in the Philippines. Your eSIM will allow you to use Facebook, Twitter, Instagram, and any other app without restriction. The connection is open and free. This is perfect for travelers from countries with internet censorship."
+        - q: "How do I set up my eSIM to ensure I don't use too much data on social media?"
+          a: "Most smartphones have data usage settings that allow you to set limits for background data. You can also use the app's own settings to restrict video auto-play. Choosing a plan with a specific data cap, like the 3GB 7-day plan for $4.99, helps you manage usage. Checking your data balance regularly through the provider's app is also recommended."
+    - id: faq-crossborder
+      icon: globe
+      tab_title: Cross-border
+      title: "7. Philippines eSIM for Cross-Border Travel"
+      questions:
+        - q: "Can I use my Philippine eSIM when I travel to other countries like Thailand or Singapore?"
+          a: "Most Philippine eSIMs are local and only work within the country. For cross-border travel, you need a regional or global eSIM plan. Roami offers multi-country plans that cover Southeast Asia. Alternatively, you can purchase a new eSIM for each country. This prevents you from losing connectivity when crossing borders."
+        - q: "Will my eSIM from a provider like Airalo work in both the Philippines and Hong Kong?"
+          a: "Yes, Airalo offers regional eSIMs for Asia that cover multiple countries, including the Philippines and Hong Kong. These plans are convenient for multi-destination trips. For example, a 10GB plan covering the region is a good choice. This saves you the hassle of buying separate eSIMs for each stop."
+        - q: "How do I switch between networks when traveling from the Philippines to Japan?"
+          a: "If you have a regional eSIM, it will automatically connect to the local network in each country upon arrival. You may need to manually select a network in your phone's settings. For instance, when landing in Japan, your phone will search for Japanese carriers. This process is usually quick and seamless."
+        - q: "What is the best eSIM for a backpacker traveling through the Philippines, Vietnam, and Cambodia?"
+          a: "A regional Southeast Asia eSIM is the best option for multi-country backpacking. Plans often start at $7.99 for a few gigabytes of data. This provides consistent connectivity across borders without needing to register new SIMs. It is a cost-effective and convenient solution for long-term travel."
+        - q: "Can I reinstall my Philippine eSIM if I delete it after returning home?"
+          a: "No, once an eSIM profile is deleted, it cannot be reinstalled. You would need to purchase a new eSIM for your next trip. It is wise to keep the QR code or confirmation email saved in a secure place. Provider apps often allow you to download the profile again if you have an active plan."
+    - id: faq-emergency
+      icon: alert-triangle
+      tab_title: Emergencies
+      title: "8. Philippines eSIM for Emergencies"
+      questions:
+        - q: "Can I use my eSIM to call emergency numbers like 911 in the Philippines?"
+          a: "Yes, you can call 911 using any mobile network, including your eSIM, even if you have no credit or data. This is a standard safety feature. The call will be routed through the strongest available network. Always ensure your phone is charged and has signal for emergencies."
+        - q: "What happens if I lose my phone with my eSIM in the Philippines?"
+          a: "You should immediately contact your eSIM provider to deactivate the eSIM to prevent unauthorized use. Most providers can remotely disable the profile. You can then purchase a new eSIM for a replacement phone. It is crucial to keep a record of your eSIM purchase details separately."
+        - q: "How reliable is an eSIM for receiving weather alerts for typhoons in the Philippines?"
+          a: "eSIMs are very reliable for receiving emergency alerts from local authorities. During typhoons, networks like Globe and Smart broadcast warnings. Your eSIM will receive these alerts as long as you have a connection. This is a critical feature for staying safe during extreme weather."
+        - q: "Can I use my eSIM to contact my embassy in an emergency?"
+          a: "Yes, you can use your eSIM to call or email your embassy. The data connection allows you to use apps like WhatsApp or Skype to make international calls. This is often more affordable than traditional roaming. Having a stable connection is vital in such situations."
+        - q: "What should I do if my eSIM stops working in a remote area during an emergency?"
+          a: "First, try restarting your phone or toggling airplane mode to force a network reconnection. If that fails, try manually selecting a different network provider in your settings. If you have no signal, move to a higher location or a populated area. Always have a backup plan, such as a physical SIM, for critical situations."
+    - id: faq-business
+      icon: briefcase
+      tab_title: Business
+      title: "9. Philippines eSIM for Business Travelers"
+      questions:
+        - q: "How can an eSIM help me stay productive during business meetings in the Philippines?"
+          a: "An eSIM provides a dedicated data connection for work, separate from hotel or office Wi-Fi. With a 5GB 30-day plan for $9.99, you can access emails, cloud files, and video conferences reliably. The high-speed connection ensures you can join Zoom or Teams calls without interruption. This is essential for maintaining professionalism."
+        - q: "Can I get a local phone number with my eSIM for business calls?"
+          a: "Yes, Roami offers eSIMs with a local Philippine number, which is ideal for business travelers. This allows you to receive calls from local clients without international charges. Other providers like Airalo and Holafly are data-only. Having a local number builds trust with local partners."
+        - q: "What is the best eSIM for a week-long business trip to Makati City?"
+          a: "For a week-long trip, a 5GB 7-day plan for $9.99 is a perfect balance of data and cost. This covers daily use for emails, navigation, and light browsing. For heavier usage, the 10GB 7-day plan for $14.99 is also a great value. Both ensure you are connected for all business needs."
+        - q: "How do I manage multiple eSIMs for my work and personal lines while traveling?"
+          a: "Most modern smartphones support dual SIMs, allowing you to have your home eSIM for personal use and a Philippine eSIM for work. You can label them in your phone's settings for clarity. This setup lets you receive calls on both lines seamlessly. It is a very efficient way to manage two numbers."
+        - q: "Can I use an eSIM to access a VPN for secure business transactions in the Philippines?"
+          a: "Yes, you can use a VPN with your eSIM to encrypt your data for secure transactions. The eSIM provides the internet connection, and the VPN adds a layer of security. This is recommended for accessing company networks or handling sensitive information. The high-speed data ensures the VPN runs smoothly."
 related_products:
-  title: Related eSIM Plans
+  title: Related Philippines eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -744,84 +574,116 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Philippines eSIM vs Prepaid SIM Card: Is It Worth Switching?"
-  subtitle: "Philippines Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Philippines eSIM vs Prepaid SIM Card: Is It Worth Switching?'
+  subtitle: Philippines Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Philippines) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Philippines"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Philippines) + Local Operator
+      Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Philippines
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Philippines eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Philippines eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Tourist SIMs are sold only at major international airports (e.g., Manila) and cannot be purchased or renewed via the official app; in-store purchase requires finding a kiosk and waiting 1-2 hours for activation."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport kiosk queues and 1-2 hour activation waits. Roami eSIM activates online within 1 minute after landing in Manila, no physical purchase needed."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Under the SIM Registration Act (RA 11934), activation requires online submission of passport (with entry stamp), return flight ticket, proof of address in the Philippines (e.g., hotel booking), and a live selfie with a camera device."
-      esim_title: "No Passport Required"
-      esim_desc: "Bypass the SIM Registration Act's mandatory passport, visa, and hotel proof upload. Roami eSIM requires zero personal identification, unlike Smart and Globe's strict KYC."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Smart's roaming pack (Smart Roam Surf) charges ₱999 for 1GB; Globe uses transparent proxy that recompresses images and may block certain VoIP protocols like SIP."
-      esim_title: "Global Roaming Freedom"
-      esim_desc: "Avoid Smart's ₱999/1GB roaming packs and Globe's transparent proxy that recompresses images. Roami eSIM offers multi-country plans with no traffic interception."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Smart and Globe's high-value plans (e.g., All Data 299 with 24GB, All Data 499 with 48GB) are locked to 30-day cycles; airport tourist SIMs start at ₱1,050 for 30 days, meaning a 5-7 day trip wastes at least 70% of the plan's lifecycle."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Smart's 30-day lock-in (₱299/24GB) wasting 70% for a 7-day trip, Roami offers 7-day plans starting from $1.99/GB, saving you from forced 30-day cycles."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Smart Bro Unlidata 599 restricts device type to phones or pocket WiFi and may throttle if hotspot abuse is detected; Globe's transparent proxy can intercept and compress tethered traffic."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Smart Bro Unlidata 599 restricts hotspot to phones only; Globe's proxy may compress tethered data. Roami eSIM allows full-speed hotspot on any device with no throttling."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up via app accepts international credit cards, but the SIM card is automatically deactivated if the tourist visa expires without extension, and all remaining balance is forfeited."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to risk forfeiting balance due to visa expiration, as with local SIMs."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support for prepaid users is typically available via phone or social media, but may be limited to local languages and business hours."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock English support via live chat or email. No need to navigate local-language phone lines or limited business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Tourist SIMs are sold only at major international airports (e.g.,
+      Manila) and cannot be purchased or renewed via the official app; in-store purchase
+      requires finding a kiosk and waiting 1-2 hours for activation.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip airport kiosk queues and 1-2 hour activation waits. Roami eSIM
+      activates online within 1 minute after landing in Manila, no physical purchase
+      needed.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Under the SIM Registration Act (RA 11934), activation requires online
+      submission of passport (with entry stamp), return flight ticket, proof of address
+      in the Philippines (e.g., hotel booking), and a live selfie with a camera device.
+    esim_title: No Passport Required
+    esim_desc: Bypass the SIM Registration Act's mandatory passport, visa, and hotel
+      proof upload. Roami eSIM requires zero personal identification, unlike Smart
+      and Globe's strict KYC.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Smart's roaming pack (Smart Roam Surf) charges ₱999 for 1GB; Globe
+      uses transparent proxy that recompresses images and may block certain VoIP protocols
+      like SIP.
+    esim_title: Global Roaming Freedom
+    esim_desc: Avoid Smart's ₱999/1GB roaming packs and Globe's transparent proxy
+      that recompresses images. Roami eSIM offers multi-country plans with no traffic
+      interception.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Smart and Globe's high-value plans (e.g., All Data 299 with 24GB,
+      All Data 499 with 48GB) are locked to 30-day cycles; airport tourist SIMs start
+      at ₱1,050 for 30 days, meaning a 5-7 day trip wastes at least 70% of the plan's
+      lifecycle.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike Smart's 30-day lock-in (₱299/24GB) wasting 70% for a 7-day trip,
+      Roami offers 7-day plans starting from $1.99/GB, saving you from forced 30-day
+      cycles.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: Smart Bro Unlidata 599 restricts device type to phones or pocket
+      WiFi and may throttle if hotspot abuse is detected; Globe's transparent proxy
+      can intercept and compress tethered traffic.
+    esim_title: Unrestricted Tethering
+    esim_desc: Smart Bro Unlidata 599 restricts hotspot to phones only; Globe's proxy
+      may compress tethered data. Roami eSIM allows full-speed hotspot on any device
+      with no throttling.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up via app accepts international credit cards, but the SIM card
+      is automatically deactivated if the tourist visa expires without extension,
+      and all remaining balance is forfeited.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need to risk forfeiting balance due to visa expiration, as with local SIMs.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      customer support for prepaid users is typically available via phone or social
+      media, but may be limited to local languages and business hours.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock English support via live chat or email. No need
+      to navigate local-language phone lines or limited business hours.
   expert_verdict:
-    title: "Philippines eSIM vs Physical SIM Card: Pros and Cons Breakdown"
+    title: 'Philippines eSIM vs Physical SIM Card: Pros and Cons Breakdown'
     cards:
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Multi-Network Coverage"
-        desc: "In Boracay, Smart dominates; in Baguio, Globe is stronger. Roami eSIM with multi-IMSI can switch between Smart and Globe networks, avoiding single-operator dead zones."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Globe's Transparent Proxy & Smart's Roaming Fees"
-        desc: "Globe's transparent proxy recompresses images and may block SIP VoIP; Smart's roaming pack costs ₱999/1GB. Roami eSIM provides uncensored, direct connectivity with no traffic manipulation."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Philippines' Strict SIM Passport Requirements"
-        desc: "Under RA 11934, Smart and Globe require passport, entry stamp, return flight, hotel booking, and a live selfie for activation. Roami eSIM activates instantly with zero ID upload."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Escape 30-Day Sunk Cost Traps"
-        desc: "Smart's All Data 299 (₱299/24GB) and Globe's GoSURF299 (₱299/2GB) are locked to 30-day cycles. A 7-day tourist wastes over 70% of the plan. Roami offers 7-day plans from $1.99/GB."
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Seamless Multi-Network Coverage
+      desc: In Boracay, Smart dominates; in Baguio, Globe is stronger. Roami eSIM
+        with multi-IMSI can switch between Smart and Globe networks, avoiding single-operator
+        dead zones.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Globe's Transparent Proxy & Smart's Roaming Fees
+      desc: Globe's transparent proxy recompresses images and may block SIP VoIP;
+        Smart's roaming pack costs ₱999/1GB. Roami eSIM provides uncensored, direct
+        connectivity with no traffic manipulation.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Philippines' Strict SIM Passport Requirements
+      desc: Under RA 11934, Smart and Globe require passport, entry stamp, return
+        flight, hotel booking, and a live selfie for activation. Roami eSIM activates
+        instantly with zero ID upload.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Escape 30-Day Sunk Cost Traps
+      desc: Smart's All Data 299 (₱299/24GB) and Globe's GoSURF299 (₱299/2GB) are
+        locked to 30-day cycles. A 7-day tourist wastes over 70% of the plan. Roami
+        offers 7-day plans from $1.99/GB.
 ---

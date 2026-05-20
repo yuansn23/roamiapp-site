@@ -1,6 +1,6 @@
 ---
 title: Peru eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Best Peru eSIM | No Roaming Shock & High-Speed 5G | Roami
   description: Traveling to Peru? Experience Fair Use Data and seamless Stable 5G
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/pe.svg
   flag_alt: Peru Flag
   title: Peru eSIM data plan
-  subtitle: No ID required | 1-minute activation | No more roaming fees
+  subtitle: No ID required | 1-minute activation | No more roaming fees – The best
+    prepaid eSIM for Peru travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Peru eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -254,9 +255,11 @@ plans_data:
     tagColor: bg-slate-800
     daily: '5.47'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Peru eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Peru for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -294,11 +297,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Peru eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Peru.
   - icon: ⏰
@@ -313,8 +317,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -327,8 +332,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -650,7 +654,7 @@ faq_section:
         on the go using your Peru eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Peru eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -700,84 +704,103 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Peru eSIM vs Physical SIM Card: Activation and Setup Compared"
-  subtitle: "Peru Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Peru eSIM vs Physical SIM Card: Activation and Setup Compared'
+  subtitle: Peru Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Peru) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Peru"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Peru) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Peru
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Peru eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Peru eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Movistar store activation requires filling forms for about 30 minutes and may take up to 24 hours to connect. Claro requires passport copy and queue at counter, about 15 minutes."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Movistar's 30-minute form filling and 24-hour activation wait. Roami eSIM activates within minutes after landing in Lima."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Movistar requires filling forms for about 30 minutes; Entel collects fingerprints for biometric KYC."
-      esim_title: "No Passport or Fingerprint"
-      esim_desc: "Avoid Movistar's passport registration and Entel's fingerprint collection. Roami eSIM requires no personal ID."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Claro offers 'Sin Fronteras' free roaming in 16 Latin American countries but explicitly excludes promotional or bonus plans, meaning cheap local data packs may not work abroad."
-      esim_title: "Reliable Multi-Country Roaming"
-      esim_desc: "Unlike Claro's roaming that excludes promotional plans, Roami eSIM provides consistent coverage across Latin America without hidden restrictions."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Movistar offers 1GB/7 days for S/7, 4GB/20 days for S/20, 7GB/30 days for S/30. Entel's Plan Turista costs S/67 for 7 days/5GB, while its regular 10-day/3GB plan costs only S/10."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Movistar's 7-day minimum (S/7/1GB) or Entel's overpriced Plan Turista (S/67/7 days), Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market practice, tethering is generally allowed but may be restricted in some plans."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike some local plans that may restrict tethering."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Claro and Entel official online top-up often rejects international credit cards; third-party sites may offer poor exchange rates."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Avoid Claro and Entel's international card rejection. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market practice, support is typically in Spanish, with limited English assistance."
-      esim_title: "24/7 English Support"
-      esim_desc: "Get round-the-clock support in English, unlike local operators that primarily offer Spanish-only assistance."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Movistar store activation requires filling forms for about 30 minutes
+      and may take up to 24 hours to connect. Claro requires passport copy and queue
+      at counter, about 15 minutes.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Movistar's 30-minute form filling and 24-hour activation wait.
+      Roami eSIM activates within minutes after landing in Lima.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Movistar requires filling forms for about 30 minutes; Entel collects
+      fingerprints for biometric KYC.
+    esim_title: No Passport or Fingerprint
+    esim_desc: Avoid Movistar's passport registration and Entel's fingerprint collection.
+      Roami eSIM requires no personal ID.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Claro offers 'Sin Fronteras' free roaming in 16 Latin American countries
+      but explicitly excludes promotional or bonus plans, meaning cheap local data
+      packs may not work abroad.
+    esim_title: Reliable Multi-Country Roaming
+    esim_desc: Unlike Claro's roaming that excludes promotional plans, Roami eSIM
+      provides consistent coverage across Latin America without hidden restrictions.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Movistar offers 1GB/7 days for S/7, 4GB/20 days for S/20, 7GB/30
+      days for S/30. Entel's Plan Turista costs S/67 for 7 days/5GB, while its regular
+      10-day/3GB plan costs only S/10.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike Movistar's 7-day minimum (S/7/1GB) or Entel's overpriced Plan
+      Turista (S/67/7 days), Roami offers 7-day plans starting from $1.99/GB, saving
+      up to 75% waste for short trips.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      practice, tethering is generally allowed but may be restricted in some plans.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike some local plans
+      that may restrict tethering.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Claro and Entel official online top-up often rejects international
+      credit cards; third-party sites may offer poor exchange rates.
+    esim_title: Global Payment Accepted
+    esim_desc: Avoid Claro and Entel's international card rejection. Roami accepts
+      Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      practice, support is typically in Spanish, with limited English assistance.
+    esim_title: 24/7 English Support
+    esim_desc: Get round-the-clock support in English, unlike local operators that
+      primarily offer Spanish-only assistance.
   expert_verdict:
-    title: "Peru eSIM vs Local SIM Card: Which One Saves You More?"
+    title: 'Peru eSIM vs Local SIM Card: Which One Saves You More?'
     cards:
-      - icon: "clock"
-        icon_bg: "bg-orange-100"
-        icon_color: "text-orange-600"
-        title: "Flexible Billing for Any Trip Length"
-        desc: "Local plans force minimum durations (e.g., Movistar <b>7 days</b>). Roami offers plans from <b>1 day</b>, avoiding waste for short stays."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from Rigid Plans"
-        desc: "Movistar's <b>7-day/1GB</b> plan costs S/7 but wastes days for short trips. Entel's Plan Turista charges <b>S/67 for 7 days/5GB</b> vs regular S/10 for 10 days/3GB. Roami offers flexible daily plans."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Skip International Card Rejection"
-        desc: "Claro and Entel often reject international credit cards for top-up. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>."
-      - icon: "globe"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "Instant Activation Without Queues"
-        desc: "Movistar requires <b>30 minutes</b> in-store and Claro needs passport copy. Roami eSIM activates online in <b>1 minute</b> before landing."
+    - icon: clock
+      icon_bg: bg-orange-100
+      icon_color: text-orange-600
+      title: Flexible Billing for Any Trip Length
+      desc: Local plans force minimum durations (e.g., Movistar <b>7 days</b>). Roami
+        offers plans from <b>1 day</b>, avoiding waste for short stays.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate Sunk Cost from Rigid Plans
+      desc: Movistar's <b>7-day/1GB</b> plan costs S/7 but wastes days for short trips.
+        Entel's Plan Turista charges <b>S/67 for 7 days/5GB</b> vs regular S/10 for
+        10 days/3GB. Roami offers flexible daily plans.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Skip International Card Rejection
+      desc: Claro and Entel often reject international credit cards for top-up. Roami
+        accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>.
+    - icon: globe
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: Instant Activation Without Queues
+      desc: Movistar requires <b>30 minutes</b> in-store and Claro needs passport
+        copy. Roami eSIM activates online in <b>1 minute</b> before landing.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Algeria eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Best Algeria eSIM | Fast 5G Tourist Data | Roami
   description: Visiting Algeria soon? Stay online effortlessly with a Roami digital
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/dz.svg
   flag_alt: Algeria Flag
   title: Algeria eSIM data plan
-  subtitle: Instant delivery | No hidden fees | No ID required
+  subtitle: Instant delivery | No hidden fees | No ID required – The best prepaid
+    eSIM for Algeria travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Algeria eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -262,9 +263,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '6.33'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Algeria eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Algeria for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -302,11 +305,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Algeria eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Algeria.
   - icon: ⏰
@@ -321,8 +325,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -335,8 +340,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -665,7 +669,7 @@ faq_section:
         on the go using your Algeria eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Algeria eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -715,84 +719,102 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Algeria eSIM vs Physical SIM Card: What’s the Real Difference?"
-  subtitle: "Algeria Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Algeria eSIM vs Physical SIM Card: What’s the Real Difference?'
+  subtitle: Algeria Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Algeria) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Algeria"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Algeria) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Algeria
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Algeria eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Algeria eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Djezzy SIM cards can be purchased at airport stores with just a passport copy, but other channels require a local address."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Djezzy airport queues and passport checks. Roami eSIM activates online within 1 minute after landing in Algiers."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All SIM cards require real-name registration with passport original, copy, and Algeria address (e.g., hotel address)."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid Djezzy's strict KYC (passport + local address). Roami eSIM requires zero personal ID—just purchase and activate."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, Djezzy prepaid does not include free international roaming; roaming add-ons may be available at extra cost."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "Unlike Djezzy prepaid with no free roaming, Roami eSIM offers global data packages starting at $1.99/GB, usable in over 100 countries."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Plans offer 24-hour, 7-day, and 30-day cycles; once purchased, the plan auto-counts down with no pause or rollover."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Djezzy's 30-day plans (e.g., 20GB/1000 DA) waste 75% for a 7-day trip. Roami offers 7-day plans from $1.99/GB, saving money and data."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, Djezzy allows tethering but may throttle after fair usage."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Djezzy may throttle tethering after fair usage. Roami eSIM allows full-speed hotspot sharing with no caps."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, top-up can be done via scratch cards or online with local cards; foreign cards may be rejected."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Djezzy top-up often rejects foreign cards. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is available in French/Arabic, limited English, and no 24/7 live chat for prepaid."
-      esim_title: "24/7 English Support"
-      esim_desc: "Djezzy support is limited to French/Arabic hours. Roami provides 24/7 live chat and email support in English."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Djezzy SIM cards can be purchased at airport stores with just a
+      passport copy, but other channels require a local address.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Djezzy airport queues and passport checks. Roami eSIM activates
+      online within 1 minute after landing in Algiers.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: All SIM cards require real-name registration with passport original,
+      copy, and Algeria address (e.g., hotel address).
+    esim_title: No Passport Required
+    esim_desc: Avoid Djezzy's strict KYC (passport + local address). Roami eSIM requires
+      zero personal ID—just purchase and activate.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      Djezzy prepaid does not include free international roaming; roaming add-ons
+      may be available at extra cost.
+    esim_title: Global Roaming Ready
+    esim_desc: Unlike Djezzy prepaid with no free roaming, Roami eSIM offers global
+      data packages starting at $1.99/GB, usable in over 100 countries.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Plans offer 24-hour, 7-day, and 30-day cycles; once purchased, the
+      plan auto-counts down with no pause or rollover.
+    esim_title: Flexible Short Plans
+    esim_desc: Djezzy's 30-day plans (e.g., 20GB/1000 DA) waste 75% for a 7-day trip.
+      Roami offers 7-day plans from $1.99/GB, saving money and data.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      Djezzy allows tethering but may throttle after fair usage.
+    esim_title: Unrestricted Tethering
+    esim_desc: Djezzy may throttle tethering after fair usage. Roami eSIM allows full-speed
+      hotspot sharing with no caps.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      top-up can be done via scratch cards or online with local cards; foreign cards
+      may be rejected.
+    esim_title: Global Payment Methods
+    esim_desc: Djezzy top-up often rejects foreign cards. Roami accepts Visa, Mastercard,
+      AMEX, Apple Pay, Google Pay, and PayPal.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      customer support is available in French/Arabic, limited English, and no 24/7
+      live chat for prepaid.
+    esim_title: 24/7 English Support
+    esim_desc: Djezzy support is limited to French/Arabic hours. Roami provides 24/7
+      live chat and email support in English.
   expert_verdict:
-    title: "Algeria eSIM vs Prepaid SIM Card: Everything You Should Consider"
+    title: 'Algeria eSIM vs Prepaid SIM Card: Everything You Should Consider'
     cards:
-      - icon: "globe"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Global Roaming Without Add-ons"
-        desc: "Djezzy prepaid has no free roaming; roaming add-ons cost extra. Roami eSIM provides global data packages starting at $1.99/GB, usable in 100+ countries."
-      - icon: "wifi"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Unlimited Hotspot Sharing"
-        desc: "Djezzy may throttle tethering after fair usage. Roami eSIM allows full-speed hotspot with no restrictions."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "No Sunk Cost on Long Plans"
-        desc: "Djezzy's 30-day plan (e.g., 20GB/1000 DA) auto-counts down; a 7-day tourist wastes 75%. Roami offers 7-day plans from $1.99/GB, paying only for what you use."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Algeria's Strict SIM Passport Requirements"
-        desc: "Djezzy requires passport original, copy, and local address for activation. Roami eSIM needs zero ID—just purchase and activate instantly."
+    - icon: globe
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Global Roaming Without Add-ons
+      desc: Djezzy prepaid has no free roaming; roaming add-ons cost extra. Roami
+        eSIM provides global data packages starting at $1.99/GB, usable in 100+ countries.
+    - icon: wifi
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Unlimited Hotspot Sharing
+      desc: Djezzy may throttle tethering after fair usage. Roami eSIM allows full-speed
+        hotspot with no restrictions.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: No Sunk Cost on Long Plans
+      desc: Djezzy's 30-day plan (e.g., 20GB/1000 DA) auto-counts down; a 7-day tourist
+        wastes 75%. Roami offers 7-day plans from $1.99/GB, paying only for what you
+        use.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Algeria's Strict SIM Passport Requirements
+      desc: Djezzy requires passport original, copy, and local address for activation.
+        Roami eSIM needs zero ID—just purchase and activate instantly.
 ---

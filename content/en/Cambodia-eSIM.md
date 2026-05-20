@@ -1,6 +1,6 @@
 ---
 title: Cambodia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Cambodia Travel eSIM | Native 5G Mobile Data | Roami
   description: Visiting the temples of Cambodia? Stay connected via Roami's true 5G
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/kh.svg
   flag_alt: Cambodia Flag
   title: Cambodia eSIM data plan
-  subtitle: No hidden fees | Worry-free internet | No more roaming fees
+  subtitle: No hidden fees | Worry-free internet | No more roaming fees – The best
+    prepaid eSIM for Cambodia travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Cambodia eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -278,9 +279,11 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.93'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Cambodia eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Cambodia for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -319,11 +322,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Cambodia eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Cambodia.
   - icon: ⏰
@@ -338,8 +342,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -352,8 +357,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -682,7 +686,7 @@ faq_section:
         on the go using your Cambodia eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Cambodia eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -732,84 +736,119 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Cambodia eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared"
-  subtitle: "Cambodia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Cambodia eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared'
+  subtitle: Cambodia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Cambodia) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Cambodia"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Cambodia) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Cambodia
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Cambodia eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Cambodia eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Smart and Cellcard tourist SIMs are only available at specific airport booths in Phnom Penh and Siem Reap; Metfone requires passport and valid visa at a showroom for registration, and unofficial shops may charge up to $10 for a $1 SIM."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport queues and passport photocopying. Activate your Roami eSIM online within 1 minute after landing in Phnom Penh, avoiding the risk of being charged $10 for a $1 SIM at unofficial shops."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Metfone requires passport and valid visa at a showroom for registration; Smart and Cellcard also require passport registration, but black market unregistered SIMs exist and may be forcibly deactivated by regulators."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Metfone's mandatory passport and visa registration at a showroom, Roami eSIM requires zero personal identification. No risk of black market SIM deactivation or privacy leaks from photocopied passports."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Metfone ASEAN roaming starts at $1.25/day for 1GB high-speed then throttled; Smart charges $2/day for data in Vietnam and Thailand, and up to $10/day in Japan and Korea."
-      esim_title: "Seamless Cross-Border Roaming"
-      esim_desc: "Roami eSIM offers unified data across Cambodia, Thailand, and Vietnam without the need for complex activation codes. Avoid Metfone's $1.25/day ASEAN roaming with only 1GB high-speed data and Smart's $2/day roaming in neighboring countries."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Smart Traveller SIM offers 7-day ($3/25GB) and 15-day ($5/35GB) plans; Cellcard Serey+ uses 28-day cycles ($4/25GB); Metfone standard plans are 30-day ($1/700MB, $3/4GB, $10/15GB)."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Roami eSIM provides 7-day data plans starting from $1.99/GB, perfectly matching your 5-day trip. Avoid wasting money on Smart's $3/7-day plan or Metfone's $1/30-day plan where you pay for unused days."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, most Cambodian prepaid SIMs allow tethering but may throttle after a certain limit; Smart's SurfLikeCrazy plans have FUP policies."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing without any throttling or FUP limits. Unlike local SIMs that may cap tethering speed after a certain data usage, you can share your connection with multiple devices seamlessly."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up can be done via scratch cards or online; automatic renewal is enabled by default for Smart and Cellcard plans, requiring manual cancellation."
-      esim_title: "Global Payment Options"
-      esim_desc: "Pay for Roami eSIM with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to deal with local scratch cards or automatic renewal traps that silently drain your balance."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, customer support is typically in Khmer and English, with limited hours."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Roami offers 24/7 customer support in English via live chat and email. No need to navigate local support lines with limited hours or language barriers."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Smart and Cellcard tourist SIMs are only available at specific airport
+      booths in Phnom Penh and Siem Reap; Metfone requires passport and valid visa
+      at a showroom for registration, and unofficial shops may charge up to $10 for
+      a $1 SIM.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip airport queues and passport photocopying. Activate your Roami
+      eSIM online within 1 minute after landing in Phnom Penh, avoiding the risk of
+      being charged $10 for a $1 SIM at unofficial shops.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Metfone requires passport and valid visa at a showroom for registration;
+      Smart and Cellcard also require passport registration, but black market unregistered
+      SIMs exist and may be forcibly deactivated by regulators.
+    esim_title: No Passport Required
+    esim_desc: Unlike Metfone's mandatory passport and visa registration at a showroom,
+      Roami eSIM requires zero personal identification. No risk of black market SIM
+      deactivation or privacy leaks from photocopied passports.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Metfone ASEAN roaming starts at $1.25/day for 1GB high-speed then
+      throttled; Smart charges $2/day for data in Vietnam and Thailand, and up to
+      $10/day in Japan and Korea.
+    esim_title: Seamless Cross-Border Roaming
+    esim_desc: Roami eSIM offers unified data across Cambodia, Thailand, and Vietnam
+      without the need for complex activation codes. Avoid Metfone's $1.25/day ASEAN
+      roaming with only 1GB high-speed data and Smart's $2/day roaming in neighboring
+      countries.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Smart Traveller SIM offers 7-day ($3/25GB) and 15-day ($5/35GB)
+      plans; Cellcard Serey+ uses 28-day cycles ($4/25GB); Metfone standard plans
+      are 30-day ($1/700MB, $3/4GB, $10/15GB).
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Roami eSIM provides 7-day data plans starting from $1.99/GB, perfectly
+      matching your 5-day trip. Avoid wasting money on Smart's $3/7-day plan or Metfone's
+      $1/30-day plan where you pay for unused days.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      knowledge, most Cambodian prepaid SIMs allow tethering but may throttle after
+      a certain limit; Smart's SurfLikeCrazy plans have FUP policies.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami eSIM allows full-speed hotspot sharing without any throttling
+      or FUP limits. Unlike local SIMs that may cap tethering speed after a certain
+      data usage, you can share your connection with multiple devices seamlessly.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up can be done via scratch cards or online; automatic renewal
+      is enabled by default for Smart and Cellcard plans, requiring manual cancellation.
+    esim_title: Global Payment Options
+    esim_desc: Pay for Roami eSIM with Visa, Mastercard, AMEX, Apple Pay, Google Pay,
+      or PayPal. No need to deal with local scratch cards or automatic renewal traps
+      that silently drain your balance.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      knowledge, customer support is typically in Khmer and English, with limited
+      hours.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Roami offers 24/7 customer support in English via live chat and email.
+      No need to navigate local support lines with limited hours or language barriers.
   expert_verdict:
-    title: "Cambodia eSIM vs Local Prepaid SIM: Which Is More Convenient?"
+    title: 'Cambodia eSIM vs Local Prepaid SIM: Which Is More Convenient?'
     cards:
-      - icon: "shield"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "No Hardware Conflicts or SIM Damage"
-        desc: "Using yes 018's pure 4G network requires VoLTE support and risks losing signal outside core areas. Roami eSIM works with any eSIM-compatible phone, eliminating the need to remove your primary SIM and risk losing important verification codes."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Seamless Roaming Across Southeast Asia"
-        desc: "Metfone ASEAN roaming costs <b>$1.25/day</b> for only <b>1GB</b> high-speed data then throttled to 64kbps; Smart charges <b>$2/day</b> in Vietnam/Thailand and up to <b>$10/day</b> in Japan/Korea. Roami eSIM offers unified data across borders without extra fees or complex activation codes."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Avoid Forced 7-Day or 30-Day Plans"
-        desc: "Smart Traveller SIM forces a <b>$3/7-day</b> plan even for a 5-day trip; Metfone standard plans are <b>30-day</b> (<b>$1/700MB</b>). Roami eSIM offers flexible 7-day plans from <b>$1.99/GB</b>, matching your exact travel duration and saving up to <b>70%</b> waste."
-      - icon: "clock"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "24/7 Multilingual Customer Support"
-        desc: "Local operators offer limited support hours and language barriers. Roami provides <b>24/7</b> English support via live chat and email, ensuring help is always available during your travels."
+    - icon: shield
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: No Hardware Conflicts or SIM Damage
+      desc: Using yes 018's pure 4G network requires VoLTE support and risks losing
+        signal outside core areas. Roami eSIM works with any eSIM-compatible phone,
+        eliminating the need to remove your primary SIM and risk losing important
+        verification codes.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Seamless Roaming Across Southeast Asia
+      desc: Metfone ASEAN roaming costs <b>$1.25/day</b> for only <b>1GB</b> high-speed
+        data then throttled to 64kbps; Smart charges <b>$2/day</b> in Vietnam/Thailand
+        and up to <b>$10/day</b> in Japan/Korea. Roami eSIM offers unified data across
+        borders without extra fees or complex activation codes.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Avoid Forced 7-Day or 30-Day Plans
+      desc: Smart Traveller SIM forces a <b>$3/7-day</b> plan even for a 5-day trip;
+        Metfone standard plans are <b>30-day</b> (<b>$1/700MB</b>). Roami eSIM offers
+        flexible 7-day plans from <b>$1.99/GB</b>, matching your exact travel duration
+        and saving up to <b>70%</b> waste.
+    - icon: clock
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: 24/7 Multilingual Customer Support
+      desc: Local operators offer limited support hours and language barriers. Roami
+        provides <b>24/7</b> English support via live chat and email, ensuring help
+        is always available during your travels.
 ---

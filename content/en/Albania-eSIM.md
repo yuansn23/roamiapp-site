@@ -1,6 +1,6 @@
 ---
 title: Albania eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Albania Travel eSIM | Full-Speed 5G Mobile Data | Roami
   description: Heading to Albania? Roami provides high-speed 5G travel data on the
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/al.svg
   flag_alt: Albania Flag
   title: Albania eSIM data plan
-  subtitle: No hidden fees | Bestseller | 1-minute activation
+  subtitle: No hidden fees | Bestseller | 1-minute activation – The best prepaid eSIM
+    for Albania travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Albania eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -270,9 +271,11 @@ plans_data:
     tagColor: bg-purple-600
     daily: '2.87'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Albania eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Albania for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -311,11 +314,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Albania eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Albania.
   - icon: ⏰
@@ -330,8 +334,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -344,8 +349,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -674,7 +678,7 @@ faq_section:
         on the go using your Albania eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Albania eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -724,84 +728,99 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Albania eSIM vs Prepaid SIM Card: Is It Worth Switching?"
-  subtitle: "Albania Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Albania eSIM vs Prepaid SIM Card: Is It Worth Switching?'
+  subtitle: Albania Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Albania) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Albania"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Albania) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Albania
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Albania eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Albania eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Must visit Vodafone/One store in person; airport kiosks may charge 500-800 Lekë for a SIM with only 300 Lekë credit."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Vodafone/One store queues and passport checks. Activate your Roami eSIM online in under 1 minute after landing in Tirana."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Purchase requires passport or photo ID and a local address in Albania."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid handing over your passport and local address. Roami eSIM activates instantly without KYC, unlike Vodafone's mandatory in-store registration."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Albania is not in EU; local SIM roaming in EU is expensive. One's short-term plans (Ditore, Javore, All inclusive) completely prohibit roaming. Even high-end plans have roaming caps: e.g., One Unlimited XL 33GB only 3.43GB in Western Balkans (90% reduction)."
-      esim_title: "Global Roaming Without Caps"
-      esim_desc: "Unlike One's 90% roaming reduction (33GB to 3.43GB in Western Balkans), Roami eSIM provides full-speed data across Albania, Kosovo, Montenegro, and beyond with no FUP limits."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "One's tourist plans have a fixed 21-day validity (e.g., Tourist Pro 2600 Lekë). A 5-day trip wastes over 70% of the plan's value."
-      esim_title: "Flexible Plans, No Waste"
-      esim_desc: "Unlike One's 21-day fixed plans (Tourist Pro 2600 Lekë), Roami offers 7-day plans starting from $1.99/GB, saving you over 70% on a short trip."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market practice, tethering is generally allowed but may be restricted on some plans."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike some local plans that may block or throttle tethering after a certain limit."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Online top-up supports credit cards but may reject foreign cards; physical vouchers available at kiosks."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No risk of foreign card rejection like on One's website."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support likely in Albanian only; no specific hours mentioned."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock customer support in English, unlike local operators that may only offer Albanian-language service during business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Must visit Vodafone/One store in person; airport kiosks may charge
+      500-800 Lekë for a SIM with only 300 Lekë credit.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Vodafone/One store queues and passport checks. Activate your Roami
+      eSIM online in under 1 minute after landing in Tirana.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Purchase requires passport or photo ID and a local address in Albania.
+    esim_title: No Passport Required
+    esim_desc: Avoid handing over your passport and local address. Roami eSIM activates
+      instantly without KYC, unlike Vodafone's mandatory in-store registration.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: 'Albania is not in EU; local SIM roaming in EU is expensive. One''s
+      short-term plans (Ditore, Javore, All inclusive) completely prohibit roaming.
+      Even high-end plans have roaming caps: e.g., One Unlimited XL 33GB only 3.43GB
+      in Western Balkans (90% reduction).'
+    esim_title: Global Roaming Without Caps
+    esim_desc: Unlike One's 90% roaming reduction (33GB to 3.43GB in Western Balkans),
+      Roami eSIM provides full-speed data across Albania, Kosovo, Montenegro, and
+      beyond with no FUP limits.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: One's tourist plans have a fixed 21-day validity (e.g., Tourist
+      Pro 2600 Lekë). A 5-day trip wastes over 70% of the plan's value.
+    esim_title: Flexible Plans, No Waste
+    esim_desc: Unlike One's 21-day fixed plans (Tourist Pro 2600 Lekë), Roami offers
+      7-day plans starting from $1.99/GB, saving you over 70% on a short trip.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      practice, tethering is generally allowed but may be restricted on some plans.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike some local plans
+      that may block or throttle tethering after a certain limit.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Online top-up supports credit cards but may reject foreign cards;
+      physical vouchers available at kiosks.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No risk of foreign card rejection like on One's website.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support likely in Albanian only; no specific hours mentioned.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock customer support in English, unlike local operators
+      that may only offer Albanian-language service during business hours.
   expert_verdict:
-    title: "Albania eSIM vs Physical SIM Card: Pros and Cons Breakdown"
+    title: 'Albania eSIM vs Physical SIM Card: Pros and Cons Breakdown'
     cards:
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot Sharing"
-        desc: "Some local plans may block tethering or throttle after a limit. Roami eSIM allows full-speed hotspot sharing for all your devices."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payment Methods Accepted"
-        desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No risk of foreign card rejection like on One's website."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Multi-Country Roaming"
-        desc: "Albania is not in EU; local SIMs charge high roaming in Greece. Roami eSIM works across Europe with a single data pool, no extra fees."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation, No Airport Queues"
-        desc: "Airport SIM kiosks may charge <b>500-800 Lekë</b> for a SIM with only 300 Lekë credit. Roami eSIM activates online in 1 minute."
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Unrestricted Hotspot Sharing
+      desc: Some local plans may block tethering or throttle after a limit. Roami
+        eSIM allows full-speed hotspot sharing for all your devices.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Global Payment Methods Accepted
+      desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No
+        risk of foreign card rejection like on One's website.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Seamless Multi-Country Roaming
+      desc: Albania is not in EU; local SIMs charge high roaming in Greece. Roami
+        eSIM works across Europe with a single data pool, no extra fees.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation, No Airport Queues
+      desc: Airport SIM kiosks may charge <b>500-800 Lekë</b> for a SIM with only
+        300 Lekë credit. Roami eSIM activates online in 1 minute.
 ---

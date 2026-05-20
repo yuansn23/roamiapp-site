@@ -1,6 +1,6 @@
 ---
 title: South Africa eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,12 +14,12 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Top South Africa eSIM | Top Local Carrier Always-On 5G | Roami
+  title: Top South Africa eSIM | Unlimited 5G Data Plans| Roami
   description: Heading to South Africa soon? Experience 24/7 Data and seamless High-Speed
     5G from Top Local Carrier. Perfect for Family Vacations, offering No Roaming Fees
     and Best Local Network.
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/za.svg
   flag_alt: South Africa Flag
   title: South Africa eSIM data plan
-  subtitle: No hidden fees | Travel essential | Travel with ease
+  subtitle: No hidden fees | Travel essential | Travel with ease – The best prepaid
+    eSIM for South Africa travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for South Africa eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -270,9 +271,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '6.00'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on South Africa eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan South Africa for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -311,11 +314,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using South Africa eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in South Africa.
   - icon: ⏰
@@ -330,8 +334,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -344,8 +349,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -355,333 +359,156 @@ activation_steps:
       to start using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: South Africa eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your South Africa eSIM across different
-    travel scenarios.
+  title: "The Ultimate Guide to eSIM Data Plans for South Africa"
+  desc: "This guide covers everything you need to know about using an eSIM for travel across South Africa, from the Kruger National Park to the Cape Town waterfront. Whether you are connecting on MTN, Vodacom, or Telkom networks, you can find the perfect data plan for your journey."
   categories:
-  - id: faq-general
-    icon: help-circle
-    tab_title: General
-    title: 1. General Questions
-    questions:
-    - q: Does my phone support the South Africa eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your South Africa eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the South Africa eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in South Africa
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the South Africa eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the South Africa eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in South Africa that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your South Africa eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my South Africa eSIM data (hotspot) with other devices?
-      a: Absolutely. All our South Africa eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your South Africa eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in South
-        Africa, such as Vodacom, MTN, Cell C, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Airalo, GigSky, Nomad
-        eSIM, Holafly?
-      a: While great companies like Airalo, GigSky, Nomad eSIM, Holafly offer reliable
-        services, we focus on providing the most cost-effective South Africa eSIM,
-        ensuring lower latency and better prices with our automatic price-matching
-        system.
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
-    questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the South Africa eSIM before your flight. Once you land at O.R. Tambo
-        International Airport, Cape Town International Airport, King Shaka International
-        Airport, simply turn off Airplane Mode and enable your eSIM line. It will
-        connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your South Africa eSIM activated upon landing, you can immediately open
-        Uber, Bolt, Metered Taxi (via app) to book a ride or use WhatsApp to message
-        your pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed South Africa eSIM data allows you to open Google Maps right
-        at the baggage claim in O.R. Tambo International Airport, Cape Town International
-        Airport, King Shaka International Airport to check real-time train schedules,
-        bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our South Africa eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our South Africa eSIM provides data only. To receive SMS, keep your home
-        country's primary SIM active for texts (receiving SMS is usually free while
-        roaming) and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast South Africa eSIM cellular data to let your family know you've arrived
-        safely.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
-    questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable South Africa eSIM connection ensures Google Maps can download
-        real-time traffic data and transit schedules anywhere in South Africa, making
-        navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Bolt, Metered Taxi (via app) use VoIP (internet calling)
-        and in-app messaging. Since you have active South Africa eSIM data, drivers
-        can call or message you directly through the app without needing a local phone
-        number.
-    - q: How to buy train/subway passes online?
-      a: You can use your South Africa eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your South Africa eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in South Africa.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our South Africa eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your South Africa eSIM's data network while
-        on the train or in the car.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
-    questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your South Africa eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your South Africa eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at The Silo Hotel, Table Bay Hotel, Twelve Apostles
-        Hotel and Spa or a local guesthouse, you can input the address into Google
-        Maps and get turn-by-turn walking or transit directions using your South Africa
-        eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your South Africa eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed South Africa eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Mr D Food, Uber Eats, Yumify and use
-        your South Africa eSIM data to order a hot meal directly to your hotel lobby
-        or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your South Africa eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
-    questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Table Mountain, Kruger National Park, Robben Island
-        spontaneously, you can use your South Africa eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your South Africa eSIM, you can read reviews and
-        book local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring South Africa.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your South Africa eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your South Africa eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your South Africa eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast South Africa eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your South Africa eSIM data to search 'restaurants near me' on Google
-        Maps to check ratings, opening hours, and photos of the menu before walking
-        in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your South Africa eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your South Africa eSIM ensures you
-        can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your South Africa eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Mr D Food, Uber Eats, Yumify, register using
-        your email or social accounts, and order food seamlessly using your South
-        Africa eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like SnapScan,
-        Zapper, Yoco require a brief internet handshake, which your South Africa eSIM
-        handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your South Africa eSIM to find hidden culinary gems in the city.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
-    questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        South Africa eSIM providing the internet, you can chat and call exactly as
-        you do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G South Africa eSIM gives
-        you the bandwidth needed to upload heavy video files to TikTok or Instagram
-        securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the South Africa eSIM are clear and lag-free, no matter where you are
-        in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal South
-        Africa eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your South Africa eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country South Africa eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your South Africa eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
-    questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In South Africa, you can dial local emergency numbers like 10111 (police),
-        10177 (ambulance), 082 911 (private) directly from your phone's dialer regardless
-        of your active SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your South Africa eSIM data allows you to immediately search Google Maps
-        for 'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your South Africa eSIM to find
-        the exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your South Africa eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        South Africa eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your South Africa eSIM, use
-        your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our South Africa eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the South Africa eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your South Africa eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your South Africa eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your South Africa eSIM, you can rapidly upload
-        presentations or large documents to Google Drive or Dropbox directly from
-        the exhibition floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your South Africa eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your South Africa eSIM to update them on flight delays or
-        schedule changes.
+    - id: faq-general
+      icon: help-circle
+      tab_title: General
+      title: "1. General Questions About South Africa eSIM"
+      questions:
+        - q: "How does an eSIM work in South Africa?"
+          a: "An eSIM is a digital SIM card that you install on your device without needing a physical plastic card. You purchase a plan online, download the profile, and activate it when you arrive. It connects to local operators like MTN and Vodacom to provide high-speed 5G/4G/LTE data. This makes getting a virtual SIM card in South Africa incredibly convenient for travelers."
+        - q: "Which devices support an eSIM for South Africa?"
+          a: "Most modern smartphones, including the iPhone XS and newer, Google Pixel models, and Samsung Galaxy S20 and later, support eSIM technology. It is also compatible with many iPads and smartwatches. Before you buy an eSIM online for South Africa, check your device's IMEI to confirm compatibility. This ensures you can activate your eSIM card in South Africa without any issues."
+        - q: "Can I keep my existing WhatsApp number with an eSIM?"
+          a: "Yes, you can keep your existing WhatsApp number when using an eSIM for South Africa. The app typically verifies via SMS or a phone call, which you can handle on your physical SIM. Once verified, WhatsApp uses your eSIM data for messaging and calls. This allows you to stay in touch with family back home using your regular contacts."
+        - q: "Is the 5G network widely available on eSIMs in South Africa?"
+          a: "Yes, our eSIM plans provide access to high-speed 5G/4G/LTE networks where available. Major cities like Johannesburg, Cape Town, and Durban have robust 5G coverage from operators like MTN and Vodacom. By using a South Africa eSIM data plan, you can enjoy fast download speeds for streaming and navigation. This makes it one of the best eSIM for South Africa options for performance."
+        - q: "How do I install an eSIM on my iPhone for travel to South Africa?"
+          a: "Installing an eSIM on your iPhone is straightforward. After purchasing your plan, you will receive a QR code or a manual activation code. Go to Settings, tap Cellular, then 'Add Cellular Plan', and scan the QR code. This process is the same for any eSIM iPhone South Africa plan you choose."
+        - q: "What happens if I run out of data on my South Africa eSIM plan?"
+          a: "If you deplete your data, you can easily top up your eSIM through our online portal. You do not need to buy a new SIM card or visit a store. Simply select a new South Africa eSIM prepaid plan or add-on that suits your remaining travel time. This flexibility is a key advantage of digital SIM cards for South Africa."
+        - q: "Can I use a South African eSIM if I have a locked phone?"
+          a: "An eSIM for South Africa will not work on a phone that is carrier-locked to a different network. You need an unlocked device to activate an eSIM profile from a third-party provider. Check with your home carrier to ensure your phone is unlocked before your trip. If it is unlocked, you can use a prepaid eSIM South Africa service without problems."
+        - q: "How long does it take to activate a South Africa eSIM?"
+          a: "Activation is almost instant after you install the eSIM profile on your device. For the best experience, we recommend connecting to a Wi-Fi network while you install it. Once installed, the eSIM will automatically connect to a local network like MTN or Vodacom. This process takes only a few minutes, making it a very efficient travel eSIM for South Africa."
+        - q: "What are the main benefits of using a travel eSIM South Africa over a physical SIM?"
+          a: "A travel eSIM for South Africa allows you to keep your physical SIM card active for calls and texts. You can manage your data plan entirely online without visiting a local shop or swapping cards. Plans like a 3GB 15-day option for $12.99 offer great value for sightseeing. This convenience makes it the best eSIM for South Africa for many modern travelers."
+        - q: "Do eSIM providers in South Africa offer customer support?"
+          a: "Yes, reputable eSIM providers for South Africa offer customer support via email or live chat. They can assist with installation issues, network problems, or top-up questions. This is essential if you encounter any difficulties while using an eSIM in South Africa. Always check the provider's support hours before you travel."
+    - id: faq-airport
+      icon: airplane
+      tab_title: Airports
+      title: "2. South Africa eSIM at Airports"
+      questions:
+        - q: "Can I activate my eSIM at OR Tambo International Airport in Johannesburg?"
+          a: "Yes, you can activate your eSIM as soon as you land at OR Tambo International Airport. The airport provides free Wi-Fi that you can use to install your eSIM profile. Once activated, you will have immediate access to South Africa eSIM data. This is perfect for booking an Uber or checking directions to your hotel."
+        - q: "Is there good eSIM coverage at Cape Town International Airport?"
+          a: "Cape Town International Airport has excellent coverage from local networks like Vodacom and MTN. Your eSIM for South Africa will connect to these networks without any issues. You can start using your data for navigation or messaging right after you clear customs. This makes arriving in Cape Town smooth and stress-free."
+        - q: "What is the best eSIM for South Africa for a quick layover at King Shaka International Airport?"
+          a: "For a short layover, a 1GB plan for $3.99 is often sufficient to check messages and browse the web. This plan is valid for 7 days, which is perfect even if your layover is only a few hours. It gives you high-speed 5G/4G/LTE connectivity at a very low cost. This makes it a practical choice for a virtual SIM card in South Africa during a stopover."
+        - q: "Do I need to visit a store at the airport to buy a South Africa eSIM?"
+          a: "No, you do not need to visit any store at the airport. You can buy an eSIM online for South Africa before you even leave home. The digital profile is delivered to your email, so you can install it at the airport using Wi-Fi. This saves you the hassle of finding a local SIM card vendor."
+        - q: "Will my eSIM work immediately after my flight lands in South Africa?"
+          a: "Yes, your eSIM will start working as soon as you activate it and your phone connects to a local tower. It is best to install the eSIM profile while you are still in the air or on airport Wi-Fi. Once installed, your phone will automatically register on the network. You will then have a fully functional eSIM card for South Africa."
+    - id: faq-transport
+      icon: train
+      tab_title: Transport
+      title: "3. South Africa eSIM for Transport"
+      questions:
+        - q: "Can I use an eSIM for ride-hailing apps like Uber in South Africa?"
+          a: "Absolutely, a reliable data connection is essential for using Uber or Bolt in South Africa. An eSIM for South Africa provides the high-speed data needed to request rides and track your driver. This is especially useful in cities like Cape Town and Johannesburg. You can rely on your eSIM data to get around safely and efficiently."
+        - q: "Will my eSIM work on the Gautrain for navigation?"
+          a: "Yes, the Gautrain has mobile network coverage in its stations and tunnels, so your eSIM will work well. You can use it to check train schedules, navigate to your platform, or browse the web. A 5GB plan for $11.99 is a great choice for a week of travel. This ensures you have enough data for both navigation and other activities."
+        - q: "How can an eSIM help me navigate between cities like Cape Town and Stellenbosch?"
+          a: "An eSIM provides continuous connectivity as you travel between cities. You can use Google Maps or Waze for real-time navigation without worrying about dead zones. Major highways between Cape Town and Stellenbosch have good coverage from MTN and Vodacom. This makes a South Africa eSIM data plan an essential travel companion."
+        - q: "Is it possible to use my eSIM on a safari vehicle in Kruger National Park?"
+          a: "Yes, you can use your eSIM in Kruger National Park, though coverage may be limited in remote areas. Many camps and rest stops offer reliable 4G/LTE connectivity. You can use your data to share photos and videos from your safari. For heavy usage, consider a larger plan like 20GB for $30.99."
+        - q: "What data plan is best for using public transport apps in Johannesburg?"
+          a: "For using public transport apps and navigating the city, a 3GB plan for $10.99 is a good minimum. This amount is sufficient for map usage and looking up bus or taxi routes for a 15-day trip. If you plan to stream music or videos, a 10GB plan for $21.99 would be a better fit. These prepaid eSIM South Africa options offer great flexibility."
+    - id: faq-hotels
+      icon: building
+      tab_title: Hotels
+      title: "4. South Africa eSIM for Hotels"
+      questions:
+        - q: "Do I need an eSIM if my hotel offers free Wi-Fi?"
+          a: "Hotel Wi-Fi can be slow or unreliable, especially during peak hours. An eSIM for South Africa provides a private and fast connection that you can use anywhere. You can stream movies, work, or video call without depending on the hotel's network. This is a key reason why many travelers get a travel eSIM for South Africa."
+        - q: "Can I use my eSIM to stream Netflix in my hotel room in Cape Town?"
+          a: "Yes, with a high-speed eSIM plan, you can easily stream Netflix and other services. A 10GB plan for $18.99 is usually sufficient for several evenings of streaming. This ensures you can relax in your hotel room after a day of exploring. It is much more reliable than shared hotel Wi-Fi."
+        - q: "How can I check into my hotel using only my eSIM data?"
+          a: "Most hotels now offer digital check-in via an app or a link sent to your email. With your eSIM data, you can access these services as soon as you land. You can show your booking confirmation or digital key directly from your phone. This makes the check-in process seamless and paperless."
+        - q: "What if the hotel in Johannesburg has poor Wi-Fi in my room?"
+          a: "If the hotel Wi-Fi is weak, your eSIM becomes your primary internet source. You can use it to work, browse, or stream without interruption. An unlimited plan for $43.99 for 7 days would provide worry-free data usage. This is a great backup for any hotel situation."
+        - q: "Can I use my eSIM to book a hotel while on the move in South Africa?"
+          a: "Yes, you can use your eSIM data to browse and book hotels on platforms like Booking.com. This is very useful if you are traveling spontaneously and need a room for the night. Your eSIM gives you the freedom to search for the best deals wherever you are. This flexibility is one of the best features of a digital SIM card for South Africa."
+    - id: faq-attractions
+      icon: landmark
+      tab_title: Attractions
+      title: "5. South Africa eSIM for Attractions"
+      questions:
+        - q: "Can I use an eSIM to buy tickets for Table Mountain Aerial Cableway?"
+          a: "Yes, you can use your eSIM to purchase tickets online for the Table Mountain Aerial Cableway. This helps you avoid long queues at the ticket office. You can also use your data to check the weather and live webcams. A reliable eSIM for South Africa makes visiting popular attractions much easier."
+        - q: "Will my eSIM work for scanning QR codes at historical sites like Robben Island?"
+          a: "Absolutely, eSIM data is perfect for scanning QR codes and accessing audio guides at museums and historical sites. At Robben Island, you can use your phone to access digital tour information. A small 1GB plan for $4.99 is more than enough for a day of sightseeing. This ensures you get the full educational experience."
+        - q: "How can an eSIM enhance a visit to the V&A Waterfront in Cape Town?"
+          a: "The V&A Waterfront has excellent mobile coverage, making it ideal for using an eSIM. You can find restaurants, check reviews, and navigate the large complex with ease. You can also share photos of the harbor and mountains instantly. A prepaid eSIM South Africa plan is perfect for such a connected experience."
+        - q: "What is the best eSIM plan for a day at the Kruger National Park?"
+          a: "For a day of sharing safari photos and using a map, a 3GB plan for $7.99 is a great choice. This gives you enough data for the day without overpaying. You will be able to post updates and navigate the park's roads. This is a very cost-effective travel eSIM for South Africa."
+        - q: "Can I use my eSIM to get augmented reality tours at the Apartheid Museum?"
+          a: "Yes, many modern museums like the Apartheid Museum offer augmented reality experiences via mobile apps. Your eSIM for South Africa provides the data needed to download and use these apps. This can make your visit much more interactive and informative. It is a fantastic way to use a South Africa eSIM card."
+    - id: faq-social
+      icon: message-circle
+      tab_title: Social & Messaging
+      title: "6. South Africa eSIM for Social Media"
+      questions:
+        - q: "Can I use an eSIM to post on Instagram and TikTok in South Africa?"
+          a: "Yes, you can post photos and videos on Instagram and TikTok using your eSIM data. Our plans offer high-speed 5G/4G/LTE, perfect for uploading content quickly. A 5GB plan for $12.99 for 15 days is excellent for regular social media use. You can share your travel experiences with friends and family in real time."
+        - q: "Will video calls on FaceTime or WhatsApp work with a South Africa eSIM?"
+          a: "Absolutely, video calling apps like FaceTime and WhatsApp work perfectly on eSIM data. The high-speed connection ensures clear video and audio quality. You can call home from your hotel or a scenic viewpoint. For heavy calling, a 10GB plan for $21.99 is a good option."
+        - q: "Is it easy to use messaging apps like Telegram and Signal with an eSIM?"
+          a: "Yes, all messaging apps work seamlessly with an eSIM for South Africa. They use data instead of SMS, so you can send texts, photos, and files without limits. This is a great way to stay in touch with your travel group. It is one of the main reasons people choose a virtual SIM card in South Africa."
+        - q: "How much data do I need for a week of heavy social media use?"
+          a: "For heavy social media use including scrolling, posting, and watching videos, a 5GB plan for $11.99 works well. If you plan to stream a lot of video, a 10GB plan for $18.99 would be more comfortable. These South Africa eSIM data plans offer great value for digital natives. You will never have to worry about running out of data."
+        - q: "Can I use my eSIM to go live on Facebook or YouTube while on safari?"
+          a: "Yes, you can go live on Facebook or YouTube from areas with good network coverage. Many safari lodges and camps have strong 4G signals. A 20GB plan for $30.99 ensures you have enough data for multiple live streams. This is a fantastic way to share your adventure with followers."
+    - id: faq-crossborder
+      icon: globe
+      tab_title: Cross-border
+      title: "7. South Africa eSIM for Cross-Border Travel"
+      questions:
+        - q: "Does my South Africa eSIM work in neighboring countries like Namibia or Botswana?"
+          a: "Standard South Africa eSIM plans are designed for use within South Africa only. For travel to Namibia or Botswana, you would need a separate regional or global eSIM plan. Check with your provider for cross-border options before your trip. This ensures you stay connected across borders without interruption."
+        - q: "Can I use my eSIM in Zimbabwe to visit Victoria Falls?"
+          a: "A local South Africa eSIM will not work in Zimbabwe. You would need to purchase a new eSIM for Zimbabwe or a multi-country Africa plan. This is a common requirement for travelers visiting multiple countries in the region. Planning ahead with a travel eSIM for South Africa and its neighbors is wise."
+        - q: "What is the best way to stay connected when traveling from South Africa to Mozambique?"
+          a: "The best way is to buy an eSIM that covers both countries or to purchase a new plan upon arrival in Mozambique. Some providers offer regional plans for Southern Africa. This avoids the need to swap physical SIM cards at the border. Using a virtual SIM card in South Africa and beyond simplifies your travel."
+        - q: "Will my eSIM automatically switch to a roaming network when I cross a border?"
+          a: "No, a standard South Africa eSIM will not automatically switch networks in another country. It is locked to the South African network. You must manually activate a new eSIM profile for the country you are entering. This is why it is important to purchase the correct eSIM for each destination."
+        - q: "Can I buy a single eSIM for a trip covering South Africa and Lesotho?"
+          a: "Some providers offer regional eSIMs that include South Africa and Lesotho. You should search for a 'Southern Africa' or 'multi-country' eSIM plan. This is more convenient than buying separate SIM cards for each country. It allows you to use a single digital SIM card for South Africa and Lesotho."
+    - id: faq-emergency
+      icon: alert-triangle
+      tab_title: Emergencies
+      title: "8. South Africa eSIM for Emergencies"
+      questions:
+        - q: "Can I call emergency services using an eSIM in South Africa?"
+          a: "Yes, you can call emergency numbers like 112 from your phone even if you have no credit or a different SIM active. Your phone will use any available network to make the call. An eSIM does not prevent this capability. It is a critical safety feature for any traveler."
+        - q: "Will my eSIM provide location data for emergency services if I am in a remote area?"
+          a: "Yes, your phone will share your location with emergency services when you call, provided you have a data or GPS signal. An eSIM for South Africa helps ensure you have a data connection for this purpose. This is especially important in remote areas like the Drakensberg mountains. It adds a layer of safety to your trip."
+        - q: "How can I use my eSIM to get help if my rental car breaks down?"
+          a: "You can use your eSIM data to call your rental company or roadside assistance. You can also search for the nearest garage or tow truck online. A reliable eSIM connection is invaluable in such situations. It turns your phone into a lifeline when you are stranded."
+        - q: "Is an eSIM a good backup if I lose my physical SIM card in South Africa?"
+          a: "Yes, if your phone supports dual SIMs, an eSIM is an excellent backup. If you lose your physical SIM, you still have data connectivity. You can use apps to contact your bank or embassy. This makes a virtual SIM card in South Africa a crucial safety net."
+        - q: "Can I use my eSIM to access medical information or find a hospital quickly?"
+          a: "Absolutely, you can use your eSIM data to search for hospitals, clinics, or pharmacies nearby. You can also access translation apps or medical guides if needed. This is a vital use case for a travel eSIM for South Africa. It provides peace of mind knowing you can get help fast."
+    - id: faq-business
+      icon: briefcase
+      tab_title: Business
+      title: "9. South Africa eSIM for Business Travelers"
+      questions:
+        - q: "Can I use my eSIM for video conferencing with clients in South Africa?"
+          a: "Yes, our high-speed eSIM plans are perfect for Zoom, Microsoft Teams, and Google Meet. You can conduct business from your hotel, a co-working space, or even a coffee shop. A 20GB plan for $30.99 ensures you have enough data for multiple meetings. This makes you a productive business traveler."
+        - q: "Is an eSIM reliable for accessing my company's VPN while in South Africa?"
+          a: "Yes, an eSIM provides a stable internet connection that works well with corporate VPNs. You can securely access your company's internal systems and emails. This is a major advantage for professionals using a travel eSIM for South Africa. It allows you to work remotely without security concerns."
+        - q: "What is the best eSIM plan for a short business trip to Johannesburg?"
+          a: "For a short business trip of 3 days, a 3GB plan for $7.99 is an excellent choice. This gives you enough data for emails, navigation, and light browsing. If you have heavy video call requirements, a 5GB plan for $10.99 is a better option. These prepaid eSIM South Africa plans are tailored for business needs."
+        - q: "Can I have both my work and personal numbers on the same phone with an eSIM?"
+          a: "Yes, you can use your physical SIM for your home number and the eSIM for your South African data. This allows you to keep both lines active without carrying two phones. It is a very efficient setup for business travelers. An eSIM for South Africa is perfect for this dual-SIM functionality."
+        - q: "How do I manage my eSIM account for billing and reporting?"
+          a: "You can manage your eSIM account through an online portal or app. Here you can view your data usage, top up, and download invoices. This makes expense reporting for business trips very straightforward. Using a digital SIM card for South Africa simplifies corporate travel management."
 related_products:
-  title: Related eSIM Plans
+  title: Related South Africa eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -731,84 +558,107 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "South-Africa eSIM vs Prepaid SIM: Which Offers Better Value?"
-  subtitle: "South Africa Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'South-Africa eSIM vs Prepaid SIM: Which Offers Better Value?'
+  subtitle: South Africa Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (South-Africa) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/South-Africa"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (South-Africa) + Local Operator
+      Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/South-Africa
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami South-Africa eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami South-Africa eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "At Johannesburg OR Tambo International Airport, Vodacom SIM cards can cost up to R100, while MTN sells a SIM plus mandatory R60 top-up for R63.50."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Vodacom's airport queues and avoid the R100 SIM markup. Activate your eSIM online within 1 minute after landing in Johannesburg."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All prepaid SIMs require RICA registration with passport and proof of accommodation address; Telkom agents often demand written proof of address, making it unfriendly for tourists."
-      esim_title: "No Passport Registration Needed"
-      esim_desc: "Bypass South Africa's strict RICA registration. No need to provide passport or accommodation proof, unlike Vodacom, MTN, or Telkom which require it."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "MTN prepaid users cannot enjoy domestic roaming rates in Eswatini like postpaid users; Cell C users are on MTN's virtual network with lower priority."
-      esim_title: "Global Roaming Included"
-      esim_desc: "Unlike MTN prepaid which lacks roaming in Eswatini, Roami eSIM offers seamless connectivity across multiple countries with no extra fees."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Vodacom's 30-day 1GB plan costs R99; MTN's 30-day 1.5GB+1.5GB plan costs R169. A 7-day tourist buying MTN's R169 plan wastes about 77% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Avoid wasting 77% of MTN's R169 30-day plan. Roami offers 7-day plans starting from $1.99/GB, perfectly matching your trip duration."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, most South African prepaid SIMs allow tethering but may throttle after a certain limit."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike some local SIMs that throttle hotspot speeds, Roami eSIM allows full-speed tethering on all plans, no hidden caps."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Online top-up via myairtime.co.za may not accept all international credit cards; physical vouchers are commonly used."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to find physical vouchers or worry about card acceptance."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, customer support is typically in English and Afrikaans, with limited hours for prepaid users."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock customer support in English, unlike local prepaid SIMs which may have limited hours and only English/Afrikaans support."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: At Johannesburg OR Tambo International Airport, Vodacom SIM cards
+      can cost up to R100, while MTN sells a SIM plus mandatory R60 top-up for R63.50.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Vodacom's airport queues and avoid the R100 SIM markup. Activate
+      your eSIM online within 1 minute after landing in Johannesburg.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: All prepaid SIMs require RICA registration with passport and proof
+      of accommodation address; Telkom agents often demand written proof of address,
+      making it unfriendly for tourists.
+    esim_title: No Passport Registration Needed
+    esim_desc: Bypass South Africa's strict RICA registration. No need to provide
+      passport or accommodation proof, unlike Vodacom, MTN, or Telkom which require
+      it.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: MTN prepaid users cannot enjoy domestic roaming rates in Eswatini
+      like postpaid users; Cell C users are on MTN's virtual network with lower priority.
+    esim_title: Global Roaming Included
+    esim_desc: Unlike MTN prepaid which lacks roaming in Eswatini, Roami eSIM offers
+      seamless connectivity across multiple countries with no extra fees.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Vodacom's 30-day 1GB plan costs R99; MTN's 30-day 1.5GB+1.5GB plan
+      costs R169. A 7-day tourist buying MTN's R169 plan wastes about 77% of the plan's
+      value.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Avoid wasting 77% of MTN's R169 30-day plan. Roami offers 7-day plans
+      starting from $1.99/GB, perfectly matching your trip duration.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      knowledge, most South African prepaid SIMs allow tethering but may throttle
+      after a certain limit.
+    esim_title: Unrestricted Tethering
+    esim_desc: Unlike some local SIMs that throttle hotspot speeds, Roami eSIM allows
+      full-speed tethering on all plans, no hidden caps.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Online top-up via myairtime.co.za may not accept all international
+      credit cards; physical vouchers are commonly used.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need to find physical vouchers or worry about card acceptance.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      knowledge, customer support is typically in English and Afrikaans, with limited
+      hours for prepaid users.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock customer support in English, unlike local prepaid
+      SIMs which may have limited hours and only English/Afrikaans support.
   expert_verdict:
-    title: "South-Africa eSIM vs Prepaid SIM Card: Key Differences Explained"
+    title: 'South-Africa eSIM vs Prepaid SIM Card: Key Differences Explained'
     cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payment Methods Accepted"
-        desc: "Local top-up via myairtime.co.za may reject international cards. eSIM accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal, ensuring hassle-free payment."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation vs. Airport Queues"
-        desc: "At Johannesburg airport, Vodacom SIMs cost up to R100 and require RICA registration. eSIM activates in 1 minute online, no queues, no paperwork."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from Rigid Billing Cycles"
-        desc: "Vodacom's 30-day 1GB plan costs R99; MTN's 30-day 1.5GB+1.5GB plan costs R169. A 7-day tourist wastes ~77% of the plan's value. eSIM offers 7-day plans from $1.99/GB, no waste."
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "Keep Your Home SIM Active"
-        desc: "With local SIM, you must remove your home SIM, risking missed bank SMS or calls. eSIM works alongside your home SIM, ensuring dual connectivity and security."
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Global Payment Methods Accepted
+      desc: Local top-up via myairtime.co.za may reject international cards. eSIM
+        accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal, ensuring
+        hassle-free payment.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation vs. Airport Queues
+      desc: At Johannesburg airport, Vodacom SIMs cost up to R100 and require RICA
+        registration. eSIM activates in 1 minute online, no queues, no paperwork.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate Sunk Cost from Rigid Billing Cycles
+      desc: Vodacom's 30-day 1GB plan costs R99; MTN's 30-day 1.5GB+1.5GB plan costs
+        R169. A 7-day tourist wastes ~77% of the plan's value. eSIM offers 7-day plans
+        from $1.99/GB, no waste.
+    - icon: shield
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: Keep Your Home SIM Active
+      desc: With local SIM, you must remove your home SIM, risking missed bank SMS
+        or calls. eSIM works alongside your home SIM, ensuring dual connectivity and
+        security.
 ---

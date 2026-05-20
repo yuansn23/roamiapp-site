@@ -1,6 +1,6 @@
 ---
 title: Luxembourg eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Luxembourg Travel eSIM | 20% OFF | Reliable 5G | Roami
   description: Heading to Luxembourg soon? Roami offers Unlimited Data on the reliable
@@ -48,8 +48,9 @@ hero:
   flag_alt: Luxembourg Flag
   title: Luxembourg eSIM data plan
   subtitle: 20% discount for a limited time | Hotspot supported | Travel essential
+    – The best prepaid eSIM for Luxembourg travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Luxembourg eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -294,9 +295,11 @@ plans_data:
     tagColor: bg-purple-600
     daily: '3.33'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Luxembourg eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Luxembourg for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -335,11 +338,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Luxembourg eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Luxembourg.
   - icon: ⏰
@@ -354,8 +358,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -368,8 +373,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -702,7 +706,7 @@ faq_section:
         on the go using your Luxembourg eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Luxembourg eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -752,84 +756,100 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Luxembourg eSIM vs Prepaid SIM Card: Is It Worth Switching?"
-  subtitle: "Luxembourg Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Luxembourg eSIM vs Prepaid SIM Card: Is It Worth Switching?'
+  subtitle: Luxembourg Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Luxembourg) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Luxembourg"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Luxembourg) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Luxembourg
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Luxembourg eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Luxembourg eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Post, Tango, and Orange SIM cards must be purchased in person at official stores or post offices, requiring passport presentation and at least 30 minutes for registration."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Post office queues and passport checks. Activate your Luxembourg eSIM online within 1 minute after landing."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Since 2015, Luxembourg has banned anonymous prepaid SIMs; all purchases require a passport or ID card at Post, Tango, or Orange stores."
-      esim_title: "No Passport Required"
-      esim_desc: "Bypass Luxembourg's mandatory ID registration for prepaid SIMs. Roami eSIM requires zero personal documentation."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Post and Tango offer EU roaming with fair usage policy (FUP) limits; Orange's 50GB Internet Everywhere Pack explicitly prohibits international roaming."
-      esim_title: "Global Roaming Without FUP"
-      esim_desc: "Unlike Orange's 50GB pack locked to Luxembourg, Roami eSIM works across Europe with no fair usage throttling."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Post's cheapest plan is €10 for 2GB with a 30-day cycle; Tango's Go M plan costs €10 for 1GB with 30-day validity; Orange offers a 24-hour 250MB pack for €1."
-      esim_title: "Flexible Daily Plans"
-      esim_desc: "Avoid Post's 30-day €10/2GB waste. Roami offers 7-day plans starting from $1.99/GB, saving up to 75% on unused data."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common practice, tethering is generally allowed but may be throttled under FUP."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike Tango's potential FUP limits, Roami eSIM allows full-speed hotspot sharing for all your devices."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up can be done via credit cards (Visa, Mastercard) at stores or online, but foreign cards may be rejected; physical vouchers are also available."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local vouchers or cash."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is available in French, German, and Luxembourgish; phone lines are open Mon-Fri 9-5; no live chat for prepaid."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock English support via live chat, unlike Post's limited phone hours (Mon-Fri 9-5)."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Post, Tango, and Orange SIM cards must be purchased in person at
+      official stores or post offices, requiring passport presentation and at least
+      30 minutes for registration.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Post office queues and passport checks. Activate your Luxembourg
+      eSIM online within 1 minute after landing.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Since 2015, Luxembourg has banned anonymous prepaid SIMs; all purchases
+      require a passport or ID card at Post, Tango, or Orange stores.
+    esim_title: No Passport Required
+    esim_desc: Bypass Luxembourg's mandatory ID registration for prepaid SIMs. Roami
+      eSIM requires zero personal documentation.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Post and Tango offer EU roaming with fair usage policy (FUP) limits;
+      Orange's 50GB Internet Everywhere Pack explicitly prohibits international roaming.
+    esim_title: Global Roaming Without FUP
+    esim_desc: Unlike Orange's 50GB pack locked to Luxembourg, Roami eSIM works across
+      Europe with no fair usage throttling.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Post's cheapest plan is €10 for 2GB with a 30-day cycle; Tango's
+      Go M plan costs €10 for 1GB with 30-day validity; Orange offers a 24-hour 250MB
+      pack for €1.
+    esim_title: Flexible Daily Plans
+    esim_desc: Avoid Post's 30-day €10/2GB waste. Roami offers 7-day plans starting
+      from $1.99/GB, saving up to 75% on unused data.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common practice,
+      tethering is generally allowed but may be throttled under FUP.
+    esim_title: Unrestricted Tethering
+    esim_desc: Unlike Tango's potential FUP limits, Roami eSIM allows full-speed hotspot
+      sharing for all your devices.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up can be done via credit cards (Visa, Mastercard) at stores
+      or online, but foreign cards may be rejected; physical vouchers are also available.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for local vouchers or cash.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is available in French, German, and Luxembourgish;
+      phone lines are open Mon-Fri 9-5; no live chat for prepaid.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock English support via live chat, unlike Post's limited
+      phone hours (Mon-Fri 9-5).
   expert_verdict:
-    title: "Luxembourg eSIM vs Prepaid SIM: Which Smarter Choice Saves You Money?"
+    title: 'Luxembourg eSIM vs Prepaid SIM: Which Smarter Choice Saves You Money?'
     cards:
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "EU Roaming Without FUP Anxiety"
-        desc: "Post and Tango EU roaming is subject to fair usage policy (FUP) speed cuts. Roami eSIM provides consistent speeds across Europe with no throttling."
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "Keep Your Home SIM Active"
-        desc: "Using a local SIM forces you to remove your home SIM, risking missed bank OTPs. Roami eSIM works alongside your primary SIM for seamless dual connectivity."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation vs. 30-Min Queues"
-        desc: "Buying a Post SIM requires visiting a post office and queuing for passport checks (30+ min). Roami eSIM activates in <b>1 minute</b> after purchase."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot Sharing"
-        desc: "Tango's FUP may throttle tethering after heavy use. Roami eSIM allows full-speed hotspot for all devices with no hidden caps."
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: EU Roaming Without FUP Anxiety
+      desc: Post and Tango EU roaming is subject to fair usage policy (FUP) speed
+        cuts. Roami eSIM provides consistent speeds across Europe with no throttling.
+    - icon: shield
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: Keep Your Home SIM Active
+      desc: Using a local SIM forces you to remove your home SIM, risking missed bank
+        OTPs. Roami eSIM works alongside your primary SIM for seamless dual connectivity.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation vs. 30-Min Queues
+      desc: Buying a Post SIM requires visiting a post office and queuing for passport
+        checks (30+ min). Roami eSIM activates in <b>1 minute</b> after purchase.
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Unrestricted Hotspot Sharing
+      desc: Tango's FUP may throttle tethering after heavy use. Roami eSIM allows
+        full-speed hotspot for all devices with no hidden caps.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brunei eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Brunei Travel eSIM | Instant QR Setup | Native 5G | Roami
   description: Need internet in Brunei? Experience 24/7 Data and seamless True 5G
@@ -48,9 +48,9 @@ hero:
   flag_alt: Brunei Flag
   title: Brunei eSIM data plan
   subtitle: 100% money-back guarantee | Automatic network selection | 24/7 customer
-    support
+    support – The best prepaid eSIM for Brunei travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Brunei eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -124,9 +124,11 @@ plans_data:
     daily: '0.90'
     tagIcon: star
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Brunei eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Brunei for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -165,11 +167,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Brunei eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Brunei.
   - icon: ⏰
@@ -184,8 +187,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -198,8 +202,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -523,7 +526,7 @@ faq_section:
         on the go using your Brunei eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Brunei eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -573,84 +576,103 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Brunei eSIM vs Prepaid SIM: Cost and Convenience Compared"
-  subtitle: "Brunei Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Brunei eSIM vs Prepaid SIM: Cost and Convenience Compared'
+  subtitle: Brunei Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Brunei) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Brunei"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Brunei) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Brunei
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Brunei eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Brunei eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "DST airport store hours are 10 AM to 5 PM and closed on Friday noon for prayers; Easi card activation requires dialing 159 and listening to a welcome prompt."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip DST airport queues (open 10 AM-5 PM, closed Friday noon). Activate your eSIM online within 1 minute after landing in Brunei."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Every SIM card requires passport registration at the point of purchase; unregistered SIMs stop working after 7 days."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid handing over your passport at DST stores. Roami eSIM activates instantly without KYC, eliminating the 7-day SIM deactivation risk."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "All DST and Progresif data packs are strictly locked for use within Brunei; no roaming to Malaysia is provided."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "Unlike DST/Progresif packs locked to Brunei, Roami eSIM works across Malaysia and beyond, with multi-network access to DST's 4G LTE."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "DST data packs have a minimum validity of 3 days (200 MB for 3 B$) or 30 days (1 GB for 10 B$); Progresif Traveller Plans have a fixed 28-day validity, wasting over 80% for a 5-day trip."
-      esim_title: "Flexible Daily Plans"
-      esim_desc: "Unlike DST's 3-day minimum (200 MB for 3 B$) or Progresif's 28-day fixed plan (10 B$ for 1 GB), Roami offers 7-day plans starting from $1.99/GB, saving over 80% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market practice, DST and Progresif likely allow tethering but may throttle after a certain limit."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike DST/Progresif which may throttle after a few GB. Stay connected on all your devices."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up requires physical vouchers or cash at kiosks; online payment with foreign cards is not supported."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for physical vouchers or cash at kiosks like DST requires."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is available only in local hours; no 24/7 live chat for prepaid users."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock live chat support in English, unlike DST/Progresif's limited local-hour phone support."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: DST airport store hours are 10 AM to 5 PM and closed on Friday noon
+      for prayers; Easi card activation requires dialing 159 and listening to a welcome
+      prompt.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip DST airport queues (open 10 AM-5 PM, closed Friday noon). Activate
+      your eSIM online within 1 minute after landing in Brunei.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Every SIM card requires passport registration at the point of purchase;
+      unregistered SIMs stop working after 7 days.
+    esim_title: No Passport Required
+    esim_desc: Avoid handing over your passport at DST stores. Roami eSIM activates
+      instantly without KYC, eliminating the 7-day SIM deactivation risk.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: All DST and Progresif data packs are strictly locked for use within
+      Brunei; no roaming to Malaysia is provided.
+    esim_title: Global Roaming Ready
+    esim_desc: Unlike DST/Progresif packs locked to Brunei, Roami eSIM works across
+      Malaysia and beyond, with multi-network access to DST's 4G LTE.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: DST data packs have a minimum validity of 3 days (200 MB for 3 B$)
+      or 30 days (1 GB for 10 B$); Progresif Traveller Plans have a fixed 28-day validity,
+      wasting over 80% for a 5-day trip.
+    esim_title: Flexible Daily Plans
+    esim_desc: Unlike DST's 3-day minimum (200 MB for 3 B$) or Progresif's 28-day
+      fixed plan (10 B$ for 1 GB), Roami offers 7-day plans starting from $1.99/GB,
+      saving over 80% waste for short trips.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      practice, DST and Progresif likely allow tethering but may throttle after a
+      certain limit.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike DST/Progresif
+      which may throttle after a few GB. Stay connected on all your devices.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up requires physical vouchers or cash at kiosks; online payment
+      with foreign cards is not supported.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for physical vouchers or cash at kiosks like DST requires.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is available only in local hours; no 24/7 live
+      chat for prepaid users.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock live chat support in English, unlike DST/Progresif's
+      limited local-hour phone support.
   expert_verdict:
-    title: "Brunei eSIM vs Local Prepaid SIM: Which Is More Convenient?"
+    title: 'Brunei eSIM vs Local Prepaid SIM: Which Is More Convenient?'
     cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, PayPal"
-        desc: "DST and Progresif require physical vouchers or cash top-ups. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal</b> for instant online payment."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation, No Store Queues"
-        desc: "DST airport store is open <b>10 AM-5 PM</b> and closed Friday noon. Roami eSIM activates in <b>1 minute</b> online, anytime, anywhere."
-      - icon: "headset"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "24/7 English Support"
-        desc: "DST and Progresif offer limited local-hour phone support. Roami provides <b>24/7 live chat</b> in English for instant assistance."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Cross-Border Roaming"
-        desc: "DST and Progresif data packs are locked to Brunei. Roami eSIM works in <b>Malaysia</b> and other countries, eliminating the need for multiple SIMs."
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Visa, Mastercard, PayPal
+      desc: DST and Progresif require physical vouchers or cash top-ups. Roami accepts
+        <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal</b> for instant
+        online payment.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation, No Store Queues
+      desc: DST airport store is open <b>10 AM-5 PM</b> and closed Friday noon. Roami
+        eSIM activates in <b>1 minute</b> online, anytime, anywhere.
+    - icon: headset
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: 24/7 English Support
+      desc: DST and Progresif offer limited local-hour phone support. Roami provides
+        <b>24/7 live chat</b> in English for instant assistance.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Seamless Cross-Border Roaming
+      desc: DST and Progresif data packs are locked to Brunei. Roami eSIM works in
+        <b>Malaysia</b> and other countries, eliminating the need for multiple SIMs.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kenya eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,12 +14,12 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Buy Kenya eSIM | High-Speed 5G Data | Auto-Connect | Roami
+  title: Kenya eSIM | High-Speed 5G Data | 20% OFF| Roami
   description: Explore Kenya with ease. Experience Worry-Free Data and seamless Zero-Lag
     5G from Top Local Carrier. Ideal for Digital Nomads. Enjoy Unlimited Data with
     Best Local Network.
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/ke.svg
   flag_alt: Kenya Flag
   title: Kenya eSIM data plan
-  subtitle: 24/7 customer support | Travel with ease | Instant delivery
+  subtitle: 24/7 customer support | Travel with ease | Instant delivery – The best
+    prepaid eSIM for Kenya travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Kenya eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -254,9 +255,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '11.00'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Kenya eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Kenya for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -295,11 +298,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Kenya eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Kenya.
   - icon: ⏰
@@ -314,8 +318,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -328,8 +333,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -339,318 +343,156 @@ activation_steps:
       data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: Kenya eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Kenya eSIM across different travel
-    scenarios.
+  title: "The Ultimate Guide to eSIM Data Plans for Kenya"
+  desc: "Navigate Kenya's vibrant landscapes with a seamless eSIM connection. Whether you are on a safari or business trip, stay connected on local networks like Safaricom and Airtel."
   categories:
-  - id: faq-general
-    icon: help-circle
-    tab_title: General
-    title: 1. General Questions
-    questions:
-    - q: Does my phone support the Kenya eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Kenya eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Kenya eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Kenya and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Kenya eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Kenya eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Kenya that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Kenya eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Kenya eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Kenya eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Kenya eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Kenya,
-        such as Safaricom, Airtel Kenya, Telkom Kenya, to ensure premium speeds at
-        a fraction of roaming costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, eSIM GO,
-        Nomad eSIM, Airalo?
-      a: While great companies like Holafly, eSIM GO, Nomad eSIM, Airalo offer reliable
-        services, we focus on providing the most cost-effective Kenya eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
-    questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Kenya eSIM before your flight. Once you land at Jomo Kenyatta
-        International Airport, Moi International Airport, Eldoret International Airport,
-        simply turn off Airplane Mode and enable your eSIM line. It will connect to
-        the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Kenya eSIM activated upon landing, you can immediately open Uber,
-        Bolt, Little Cab to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Kenya eSIM data allows you to open Google Maps right at the
-        baggage claim in Jomo Kenyatta International Airport, Moi International Airport,
-        Eldoret International Airport to check real-time train schedules, bus routes,
-        or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Kenya eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Kenya eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Kenya eSIM cellular data to let your family know you've arrived safely.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
-    questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Kenya eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Kenya, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Bolt, Little Cab use VoIP (internet calling) and in-app messaging.
-        Since you have active Kenya eSIM data, drivers can call or message you directly
-        through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Kenya eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Kenya eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Kenya.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Kenya eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Kenya eSIM's data network while on the
-        train or in the car.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
-    questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Kenya eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Kenya eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Sarova Hotels, Fairmont The Norfolk, Villa Rosa
-        Kempinski or a local guesthouse, you can input the address into Google Maps
-        and get turn-by-turn walking or transit directions using your Kenya eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Kenya eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Kenya eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Uber Eats, Jumia Food, Glovo and use
-        your Kenya eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Kenya eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
-    questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Maasai Mara National Reserve, Amboseli National Park,
-        Diani Beach spontaneously, you can use your Kenya eSIM data to buy skip-the-line
-        tickets online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Kenya eSIM, you can read reviews and book local
-        tours or experiences on Tripadvisor while having coffee at a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Kenya.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Kenya eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Kenya eSIM will keep you connected throughout the
-        park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Kenya eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Kenya eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Kenya eSIM data to search 'restaurants near me' on Google Maps to
-        check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Kenya eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Kenya eSIM ensures you can scan
-        the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Kenya eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Uber Eats, Jumia Food, Glovo, register using
-        your email or social accounts, and order food seamlessly using your Kenya
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like M-Pesa,
-        Airtel Money, T-Kash require a brief internet handshake, which your Kenya
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Kenya eSIM to find hidden culinary gems in the city.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
-    questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Kenya eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Kenya eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Kenya eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Kenya
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Kenya eSIM data allowance to check their own social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Kenya eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Kenya eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
-    questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Kenya, you can dial local emergency numbers like 112, 999, 911 directly
-        from your phone's dialer regardless of your active SIM, as long as your phone
-        can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Kenya eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Kenya eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Kenya eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Kenya eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Kenya eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Kenya eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Kenya eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Kenya eSIM is significantly
-        faster and much more secure against cyber threats than using open public Wi-Fi
-        networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Kenya eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Kenya eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Kenya eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Kenya eSIM to update them on flight delays or schedule
-        changes.
+    - id: faq-general
+      icon: help-circle
+      tab_title: General
+      title: "1. General Questions About Kenya eSIM"
+      questions:
+        - q: "Can I activate my eSIM immediately after landing in Kenya?"
+          a: "Yes, you can activate your eSIM right after you land. The activation process is quick and typically completes within minutes. For the best experience, connect to the airport's Wi-Fi network to download the necessary profile. This ensures you have mobile data the moment you step out of the terminal."
+        - q: "How do I check my remaining eSIM data balance while in Kenya?"
+          a: "Most eSIM providers offer a simple way to check your data balance through a dedicated app or by dialing a specific code. For example, you might find a balance check option in your account dashboard. This allows you to monitor your usage and avoid unexpected data depletion. It is a straightforward process that helps you manage your plan effectively."
+        - q: "Will an eSIM work with Safaricom and Airtel networks in Kenya?"
+          a: "Absolutely, our eSIM is designed to connect to major Kenyan networks like Safaricom and Airtel. This provides you with reliable coverage across the country, from urban centers to remote safari locations. You will automatically connect to the strongest available network. This seamless connectivity ensures you are never out of touch."
+        - q: "Can I keep my existing phone number and use an eSIM for data?"
+          a: "Yes, you can use an eSIM for data while keeping your physical SIM card active for calls and texts. This dual-SIM functionality is perfect for travelers who want to stay reachable on their home number. You simply set the eSIM as your primary data source in your phone settings. This way, you avoid expensive international roaming charges on your primary line."
+        - q: "Is it easy to install an eSIM on my smartphone for traveling to Kenya?"
+          a: "Installing an eSIM is a very straightforward process that only takes a few minutes. You will receive a QR code via email after purchase, which you scan with your phone's camera. Your device will then guide you through the steps to add the cellular plan. Most modern smartphones, including recent iPhones and Android models, support this feature."
+        - q: "What are the benefits of using an eSIM instead of a physical SIM card in Kenya?"
+          a: "eSIMs offer a great deal of convenience, as you do not need to find a local store or handle a tiny physical card. You can purchase and install your plan before you even leave home, ensuring instant connectivity upon arrival. This digital solution also allows you to switch between different carriers or plans easily. It eliminates the risk of losing a SIM card while traveling."
+        - q: "Can I get a Kenyan phone number with a data-only eSIM plan?"
+          a: "Most eSIM plans designed for travel are data-only, meaning they do not provide a local phone number. This is perfectly fine for using messaging apps like WhatsApp, Facebook Messenger, and for general internet browsing. You can still make voice and video calls using these apps over your data connection. For those who need a local number, a traditional physical SIM might be a better option."
+        - q: "How much data do I typically need for a one-week trip to Kenya?"
+          a: "For a one-week trip, a 3GB plan is often sufficient for light use like navigation, social media, and messaging. However, if you plan to stream videos or work remotely, a 5GB or 10GB plan would be more suitable. For a short business trip, a 1GB plan can be a cost-effective choice at $10.99. Consider your personal usage habits to select the best plan for your needs."
+        - q: "What should I do if my eSIM is not working after installation?"
+          a: "First, ensure that your device's eSIM profile is activated in the cellular settings. If it is still not working, try toggling your mobile data and data roaming on and off. Restarting your phone can also resolve many temporary network issues. If the problem persists, our customer support is available 24/7 to help you troubleshoot."
+        - q: "Is it possible to top up my eSIM data plan while I am already in Kenya?"
+          a: "Yes, you can easily top up your eSIM data plan from anywhere, including while you are in Kenya. Most providers allow you to purchase an additional data package through their website or mobile app. This process is instant, and your new data will be added to your existing plan without any interruption. This flexibility is ideal for extending your connectivity on the go."
+    - id: faq-airport
+      icon: airplane
+      tab_title: Airports
+      title: "2. Kenya eSIM at Airports"
+      questions:
+        - q: "Where can I find reliable Wi-Fi at Jomo Kenyatta International Airport to activate my eSIM?"
+          a: "Jomo Kenyatta International Airport (NBO) offers free Wi-Fi in the arrival and departure lounges. You can connect to the network to download your eSIM profile if you have not done so before your trip. The connection is generally stable for completing the quick activation process. This allows you to have data immediately upon leaving the airport."
+        - q: "Will my eSIM work immediately after I pass through customs at the airport?"
+          a: "Yes, your eSIM will activate and connect to the network as soon as your phone detects the local towers. The process is automatic after the profile is installed. You will have data coverage in the arrival hall and beyond. This provides a seamless transition from your flight to your Kenyan adventure."
+        - q: "Are there eSIM kiosks or stores at Moi International Airport in Mombasa?"
+          a: "While physical SIM kiosks are available at Moi International Airport, our eSIM is a digital product you purchase online. This saves you the time of queuing at a store after a long flight. You can buy and install your plan before you leave home. This convenience is a key advantage of choosing an eSIM for your travel."
+        - q: "Can I use my eSIM to book an Uber or Bolt ride from the airport?"
+          a: "Absolutely, having an eSIM active at the airport allows you to instantly book a ride-hailing service. You can use your data to open the app and request a car to your hotel. This is much more efficient than negotiating with taxi drivers at the terminal. It provides a safe and hassle-free way to begin your journey in Kenya."
+        - q: "What is the best way to stay connected while waiting for a connecting flight at JKIA?"
+          a: "With an eSIM, you can stay connected for the entire duration of your layover. You can use your data to browse the internet, stream music, or video call family. This makes the wait more enjoyable and productive. A small 1GB plan at $10.99 would be more than enough for a few hours of browsing."
+    - id: faq-transport
+      icon: train
+      tab_title: Transport
+      title: "3. Kenya eSIM for Transport"
+      questions:
+        - q: "Will my eSIM provide reliable data for Google Maps while driving in Nairobi?"
+          a: "Yes, eSIMs connect to local networks like Airtel and Safaricom, which offer strong coverage in Nairobi. This ensures that Google Maps works smoothly for turn-by-turn navigation. You can easily find the best routes to avoid traffic jams. Reliable data is essential for navigating the bustling city streets."
+        - q: "Can I use my eSIM on the Standard Gauge Railway (SGR) train from Nairobi to Mombasa?"
+          a: "The SGR train route passes through areas with varying network coverage. However, major networks provide service for most of the journey, allowing you to stream or work. You can enjoy the scenic views while staying connected to the internet. An eSIM is a great travel companion for this scenic route."
+        - q: "Is it possible to book a matatu (public minibus) ride using an app with my eSIM?"
+          a: "While matatus are typically hailed on the street, some digital payment platforms can be used for public transport. Your eSIM data will allow you to use mobile money services like M-Pesa for fare payments. This is a very common and convenient way to pay for various services in Kenya. Having data makes using these digital tools effortless."
+        - q: "How do I use my eSIM for ride-sharing apps like Uber or Bolt in Kenya?"
+          a: "Using ride-sharing apps is very straightforward with an eSIM data plan. Simply open the app, and your data connection will allow you to request a ride and track its arrival. The app will use your location to find nearby drivers. This is often the safest and most convenient way to get around Kenyan cities."
+        - q: "Will my eSIM work for navigation in remote areas like the Maasai Mara?"
+          a: "Coverage in remote areas can be less consistent than in urban centers. However, Safaricom, one of the networks our eSIM connects to, has the widest coverage in the country. You will likely have enough signal for essential navigation and messaging. It is always a good idea to download offline maps as a backup before heading to very remote locations."
+    - id: faq-hotels
+      icon: building
+      tab_title: Hotels
+      title: "4. Kenya eSIM for Hotels"
+      questions:
+        - q: "Can I use my eSIM to stream Netflix on my laptop in my hotel room?"
+          a: "Yes, you can use your eSIM data to create a personal hotspot for your laptop. This allows you to stream movies or work from the comfort of your hotel room. A plan with a larger data allowance, such as 10GB, would be ideal for this purpose. This is particularly useful if the hotel Wi-Fi is slow or unreliable."
+        - q: "Is it better to use hotel Wi-Fi or my eSIM for video calls back home?"
+          a: "While hotel Wi-Fi is often free, it can be slow and insecure. Using your eSIM provides a more private and stable connection for important video calls. A 5GB plan at $22.99 ensures you have enough data for several calls. This gives you peace of mind knowing your communication is secure."
+        - q: "How can I share my eSIM internet connection with my travel companions at the hotel?"
+          a: "Most smartphones allow you to turn your eSIM data connection into a mobile hotspot. You can share this connection with your friends or family members staying in the same room. This is a great way to pool your data and save on individual plan costs. It is a simple feature to enable in your phone's settings."
+        - q: "Will my eSIM work for checking in online to my hotel before I arrive?"
+          a: "Yes, as soon as you land and activate your eSIM, you can use it to check in online or contact the hotel. This allows you to confirm your arrival time or request an early check-in. Having data immediately upon arrival streamlines the entire process. It makes your travel experience much more efficient."
+        - q: "Can I use my eSIM to order food delivery to my hotel room?"
+          a: "Absolutely, you can use food delivery apps like Uber Eats or Jumia Food with your eSIM data. You can browse menus and place an order directly to your hotel. This is a convenient way to enjoy local cuisine without leaving your room. It is a popular service among travelers in Nairobi and Mombasa."
+    - id: faq-attractions
+      icon: landmark
+      tab_title: Attractions
+      title: "5. Kenya eSIM for Attractions"
+      questions:
+        - q: "Can I use my eSIM to share my safari photos on social media in real-time?"
+          a: "Yes, with a reliable eSIM connection, you can upload photos and videos instantly. This allows you to share your amazing safari experiences with friends and family as they happen. Networks like Safaricom provide good coverage in many national parks. This makes live posting from the wild a reality."
+        - q: "Will my eSIM work for downloading audio guides at the Nairobi National Museum?"
+          a: "Yes, you can use your eSIM data to download museum apps or audio guides directly to your phone. This enhances your visit by providing detailed information about the exhibits. You can also look up additional facts online during your tour. This turns your smartphone into a powerful educational tool."
+        - q: "How do I use my eSIM to book tickets for attractions like the Giraffe Centre?"
+          a: "You can use your eSIM data to visit the official website of the attraction and book tickets online. This saves you time and ensures you have a spot, especially during peak season. The process is quick and can be done while you are on the way. It is a very convenient way to plan your day."
+        - q: "Can I use my eSIM for navigation while hiking on Mount Kenya?"
+          a: "While coverage on Mount Kenya is not guaranteed at higher altitudes, it is available in the lower regions. You can use your eSIM to download offline maps for the trek before you start. This ensures you have navigation even without a signal. It is an essential tool for any hiking adventure."
+        - q: "Is my eSIM data sufficient for a full day of exploring at a place like Hell's Gate National Park?"
+          a: "For a day of moderate use, including navigation, taking photos, and messaging, a 3GB plan is often adequate. If you plan to stream or share many videos, a larger plan would be better. You can monitor your data usage in your phone's settings. This helps you manage your consumption throughout the day."
+    - id: faq-social
+      icon: message-circle
+      tab_title: Social & Messaging
+      title: "6. Kenya eSIM for Social Media"
+      questions:
+        - q: "Can I use WhatsApp for free calls and texts with my eSIM in Kenya?"
+          a: "Yes, since WhatsApp uses an internet connection, you can make voice and video calls for free. This is an excellent way to stay in touch with family and friends without incurring high costs. It works perfectly over your eSIM data plan. This is a primary reason many travelers choose a data-only plan."
+        - q: "Will my eSIM be fast enough for live streaming on Instagram or TikTok?"
+          a: "Yes, the high-speed 5G/4G/LTE connection provided by our eSIM is suitable for live streaming. You can share your experiences in real-time with your followers. A plan with a higher data allowance is recommended for this activity. This allows you to broadcast from anywhere with good network coverage."
+        - q: "How much data does scrolling through Facebook and Instagram use per hour?"
+          a: "Scrolling through social media feeds typically uses around 150-300 MB per hour. This means a 5GB plan can provide many hours of social media browsing. It is an efficient way to keep up with news and friends back home. A plan like the 5GB for $22.99 is a great balance of cost and usage."
+        - q: "Can I use my eSIM to access Snapchat and send snaps to friends?"
+          a: "Absolutely, Snapchat works perfectly on an eSIM data plan. You can send and receive snaps, use filters, and view stories without any issues. The data usage for Snapchat is similar to other social media platforms. This keeps you connected with your social circle throughout your trip."
+        - q: "Is it possible to use video calling apps like FaceTime or Zoom with an eSIM?"
+          a: "Yes, video calling apps work very well on a high-speed eSIM connection. You can have clear video calls with family or colleagues as if you were at home. A 1GB plan at $10.99 is suitable for a few short calls. For longer conversations, a plan with more data is advisable."
+    - id: faq-crossborder
+      icon: globe
+      tab_title: Cross-border
+      title: "7. Kenya eSIM for Cross-Border Travel"
+      questions:
+        - q: "Can I use my Kenya eSIM when I travel to Tanzania for a safari?"
+          a: "Most eSIM plans are country-specific and will not work across borders. You would need a separate plan for Tanzania or a regional Africa eSIM. It is important to check the coverage area of your plan before traveling. This ensures you are not left without connectivity in a new country."
+        - q: "What should I do if my eSIM plan does not include coverage in Uganda?"
+          a: "If your plan is only for Kenya, you will need to purchase a new eSIM for Uganda. Many providers make it easy to buy a new plan for a different country on the same platform. This allows you to switch your connectivity as you cross the border. It is a simple process that can be done in minutes."
+        - q: "Will my eSIM automatically roam onto networks in neighboring countries?"
+          a: "No, a standard Kenya eSIM will not automatically roam. It is restricted to networks within Kenya's borders. To use data in other East African countries, you must purchase a plan that includes those destinations. This prevents unexpected charges and ensures you have a dedicated data allowance for each country."
+        - q: "Is there a regional eSIM plan that covers Kenya, Rwanda, and Ethiopia?"
+          a: "Yes, some providers offer regional eSIM plans for Africa that include multiple countries. These are very convenient for travelers planning a multi-country trip. You can stay connected across borders without needing to change SIMs. This simplifies your travel logistics significantly."
+        - q: "Can I top up my data while in a different country if my Kenya plan runs out?"
+          a: "You can top up your account, but a new top-up will only add data for the original country's plan. To get data in a different country, you will need to purchase a new plan for that specific location. This is easy to do from your account dashboard. Always check your plan's geographic scope before traveling."
+    - id: faq-emergency
+      icon: alert-triangle
+      tab_title: Emergencies
+      title: "8. Kenya eSIM for Emergencies"
+      questions:
+        - q: "Can I make emergency calls with a data-only eSIM in Kenya?"
+          a: "A data-only eSIM does not provide a traditional phone number for voice calls. However, you can use apps like Skype or WhatsApp to call emergency services if they support it. In a real emergency, your phone can often make calls to 112 or 999 even without a SIM card. It is vital to know the local emergency numbers and have a backup plan."
+        - q: "Will my eSIM work for accessing emergency information and maps during a power outage?"
+          a: "Yes, as long as your phone has battery and the mobile network is operational, your eSIM will work. You can use it to access maps for finding the nearest hospital or police station. It also allows you to check for emergency alerts or news updates. This connectivity can be crucial in an unexpected situation."
+        - q: "How can I use my eSIM to contact my country's embassy in Nairobi during an emergency?"
+          a: "You can use your eSIM data to look up the embassy's contact number and address online. You can then call them using a VoIP app or send an email. This ensures you can reach your diplomatic mission for assistance. Having reliable internet access is the first step in getting help."
+        - q: "Is it possible to share my location with a friend or family member using my eSIM in an emergency?"
+          a: "Yes, you can easily share your real-time location through messaging apps like WhatsApp or Google Maps. This allows someone to know exactly where you are if you need help. This feature is very useful for personal safety, especially when traveling in unfamiliar areas. It provides an extra layer of security."
+        - q: "What is the best eSIM plan for a short emergency trip to Kenya?"
+          a: "For a short, unexpected trip, a 3-day plan is often the most practical. A 1GB plan at $7.99 provides enough data for essential communication and navigation. It is a low-cost way to ensure you are connected from the moment you arrive. This allows you to focus on the purpose of your visit without worrying about connectivity."
+    - id: faq-business
+      icon: briefcase
+      tab_title: Business
+      title: "9. Kenya eSIM for Business Travelers"
+      questions:
+        - q: "Can I use my eSIM to access my company's VPN securely from Kenya?"
+          a: "Yes, a high-speed eSIM connection is perfect for establishing a secure VPN connection. This allows you to access your company's internal network and files safely. The 5G/4G/LTE speeds are sufficient for most business applications. This ensures you can work remotely with the same security as in the office."
+        - q: "What data plan is recommended for a week-long business conference in Nairobi?"
+          a: "For a week of heavy usage, including emails, video conferencing, and presentations, a 10GB plan is a solid choice. This provides ample data for a busy work schedule. A 15-day plan at $64.99 would cover your needs without running out. This keeps you productive and connected throughout the event."
+        - q: "Can I use my eSIM for international conference calls without interruptions?"
+          a: "Yes, the stable connection provided by local networks like Airtel ensures clear and uninterrupted calls. You can use VoIP services for international calls, saving on roaming charges. A plan with sufficient data is essential for this purpose. This makes managing international business seamless from Kenya."
+        - q: "How do I keep my business and personal data separate while using an eSIM in Kenya?"
+          a: "You can use the dual-SIM feature of your phone to achieve this. Keep your business line on your physical SIM and your data on the eSIM, or vice versa. Many phones also have a work profile that can help separate apps and data. This is a very effective way to maintain a healthy work-life balance while traveling."
+        - q: "Is it easy to manage multiple eSIM plans for different business trips to Kenya?"
+          a: "Yes, eSIMs are very easy to manage, as you can store multiple profiles on your phone. You can keep a plan for your current trip and install another for a future one. You simply switch between them in your phone's settings as needed. This digital management is far more efficient than keeping track of physical SIM cards."
 related_products:
-  title: Related eSIM Plans
+  title: Related Kenya eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -700,84 +542,100 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Kenya eSIM vs Physical SIM Card: Pros and Cons Breakdown"
-  subtitle: "Kenya Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Kenya eSIM vs Physical SIM Card: Pros and Cons Breakdown'
+  subtitle: Kenya Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Kenya) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Kenya"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Kenya) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Kenya
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Kenya eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Kenya eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Safaricom official registration requires passport copy and verification via *232#; street vendors may sell unregistered SIMs risking 6 months imprisonment or KES 10,000 fine."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Safaricom store queues and passport checks. Activate your eSIM online within 1 minute after landing in Nairobi."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Kenyan Communications Authority mandates all prepaid SIMs be registered with national ID or passport since 2018; unregistered SIMs are forcibly disconnected."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Safaricom's mandatory KYC (passport copy and *232# verification), eSIM requires no ID registration, avoiding the risk of SIM disconnection."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Safaricom and Airtel monthly plans do not include East African roaming; cross-border usage triggers high fees of approximately KES 4 per MB."
-      esim_title: "Seamless East Africa Roaming"
-      esim_desc: "Avoid Safaricom's KES 4/MB roaming fees in Tanzania or Uganda. eSIM offers affordable regional data plans starting from $1.99/GB."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Safaricom offers 1-day (KES 99/500MB) and 7-day (KES 250/1GB) plans; a 5-day tourist wastes KES 100-250 on unused days."
-      esim_title: "Flexible Plans, No Waste"
-      esim_desc: "Unlike Safaricom's 7-day plan (KES 250/1GB) that forces you to pay for unused days, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed but may be throttled after certain limits."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "eSIM allows full-speed hotspot sharing without throttling, unlike some local SIMs that may limit tethering after a certain data cap."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up can be done via M-Pesa, scratch cards, or online; foreign cards may face rejection."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for M-Pesa or scratch cards."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is available via phone and retail stores; hours vary by operator."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock customer support in English, unlike local operators with limited phone hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Safaricom official registration requires passport copy and verification
+      via *232#; street vendors may sell unregistered SIMs risking 6 months imprisonment
+      or KES 10,000 fine.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Safaricom store queues and passport checks. Activate your eSIM
+      online within 1 minute after landing in Nairobi.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Kenyan Communications Authority mandates all prepaid SIMs be registered
+      with national ID or passport since 2018; unregistered SIMs are forcibly disconnected.
+    esim_title: No Passport Required
+    esim_desc: Unlike Safaricom's mandatory KYC (passport copy and *232# verification),
+      eSIM requires no ID registration, avoiding the risk of SIM disconnection.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Safaricom and Airtel monthly plans do not include East African roaming;
+      cross-border usage triggers high fees of approximately KES 4 per MB.
+    esim_title: Seamless East Africa Roaming
+    esim_desc: Avoid Safaricom's KES 4/MB roaming fees in Tanzania or Uganda. eSIM
+      offers affordable regional data plans starting from $1.99/GB.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Safaricom offers 1-day (KES 99/500MB) and 7-day (KES 250/1GB) plans;
+      a 5-day tourist wastes KES 100-250 on unused days.
+    esim_title: Flexible Plans, No Waste
+    esim_desc: Unlike Safaricom's 7-day plan (KES 250/1GB) that forces you to pay
+      for unused days, Roami offers 7-day plans starting from $1.99/GB, saving up
+      to 75% waste.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      tethering is generally allowed but may be throttled after certain limits.
+    esim_title: Unrestricted Tethering
+    esim_desc: eSIM allows full-speed hotspot sharing without throttling, unlike some
+      local SIMs that may limit tethering after a certain data cap.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up can be done via M-Pesa, scratch cards, or online; foreign
+      cards may face rejection.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for M-Pesa or scratch cards.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is available via phone and retail stores; hours
+      vary by operator.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock customer support in English, unlike local operators
+      with limited phone hours.
   expert_verdict:
-    title: "Kenya eSIM vs SIM Card Plans: Which One Fits Your Needs?"
+    title: 'Kenya eSIM vs SIM Card Plans: Which One Fits Your Needs?'
     cards:
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid High Roaming Fees in East Africa"
-        desc: "Safaricom and Airtel charge <b>KES 4/MB</b> for cross-border roaming in Tanzania/Uganda. eSIM offers regional plans from <b>$1.99/GB</b>."
-      - icon: "shield"
-        icon_bg: "bg-yellow-100"
-        icon_color: "text-yellow-600"
-        title: "Keep Your Home SIM Active"
-        desc: "With eSIM, you don't need to remove your home SIM. Keep receiving <b>bank SMS</b> and <b>verification codes</b> while using data."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot Sharing"
-        desc: "Local SIMs may throttle tethering after a data cap. eSIM allows <b>full-speed hotspot</b> for all your devices."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "No Sunk Cost on Unused Days"
-        desc: "Safaricom's 7-day plan (KES 250/1GB) forces tourists to pay for unused days. eSIM provides <b>7-day plans from $1.99/GB</b>, saving up to <b>75%</b>."
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid High Roaming Fees in East Africa
+      desc: Safaricom and Airtel charge <b>KES 4/MB</b> for cross-border roaming in
+        Tanzania/Uganda. eSIM offers regional plans from <b>$1.99/GB</b>.
+    - icon: shield
+      icon_bg: bg-yellow-100
+      icon_color: text-yellow-600
+      title: Keep Your Home SIM Active
+      desc: With eSIM, you don't need to remove your home SIM. Keep receiving <b>bank
+        SMS</b> and <b>verification codes</b> while using data.
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Unrestricted Hotspot Sharing
+      desc: Local SIMs may throttle tethering after a data cap. eSIM allows <b>full-speed
+        hotspot</b> for all your devices.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: No Sunk Cost on Unused Days
+      desc: Safaricom's 7-day plan (KES 250/1GB) forces tourists to pay for unused
+        days. eSIM provides <b>7-day plans from $1.99/GB</b>, saving up to <b>75%</b>.
 ---

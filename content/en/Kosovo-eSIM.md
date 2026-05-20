@@ -1,6 +1,6 @@
 ---
 title: Kosovo eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Top Kosovo eSIM | 20% OFF| Top Local Carrier Reliable 5G | Roami
   description: Planning a trip to Kosovo? Stay connected via Top Local Carrier Always-On
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/xk.svg
   flag_alt: Kosovo Flag
   title: Kosovo eSIM data plan
-  subtitle: Top rated | Smooth video streaming | 1-minute activation
+  subtitle: Top rated | Smooth video streaming | 1-minute activation – The best prepaid
+    eSIM for Kosovo travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Kosovo eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -138,9 +139,11 @@ plans_data:
     tagColor: bg-purple-600
     daily: '6.33'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Kosovo eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Kosovo for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -179,11 +182,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Kosovo eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Kosovo.
   - icon: ⏰
@@ -198,8 +202,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -212,8 +217,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -539,7 +543,7 @@ faq_section:
         on the go using your Kosovo eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Kosovo eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -589,84 +593,106 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Kosovo eSIM vs Prepaid SIM Card: Everything You Should Consider"
-  subtitle: "Kosovo Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Kosovo eSIM vs Prepaid SIM Card: Everything You Should Consider'
+  subtitle: Kosovo Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Kosovo) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Kosovo"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Kosovo) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Kosovo
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Kosovo eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Kosovo eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Vala and IPKO SIM cards cost €3 and require purchase at their points of sale; no online activation mentioned."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Vala or IPKO store queues. Activate online within 1 minute after landing in Pristina, avoiding the €3 physical SIM cost and language barriers."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, Kosovo prepaid SIMs may require passport registration at point of sale."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Vala's potential in-store passport check, Roami eSIM requires no ID registration. Activate instantly without sharing personal documents."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Vala's data packages only work in Kosovo, not in the Western Balkans; roaming packages cost €17 for 1GB/30 days. IPKO's local plans are only valid in Kosovo; RLAH roaming 1GB/7 days costs €7, compared to €1.99 for local 1GB/7 days."
-      esim_title: "Seamless Balkan Roaming"
-      esim_desc: "Avoid Vala's €17/1GB roaming rip-off. Roami eSIM covers all Western Balkans at one low rate, no FUP restrictions or price hikes across borders."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Vala offers 15-day prepaid SIM with 10GB for €3; IPKO's 7-day 1GB plan costs €1.99 and auto-renews. A 5-day trip wastes unused data on 7-day plans."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike IPKO's auto-renewing 7-day plan (€1.99/1GB) that wastes data on a 5-day trip, Roami offers 7-day plans starting from $1.99/GB, saving 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, hotspot is generally allowed but may be throttled after fair use."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike potential throttling on Vala/IPKO after fair use. Connect multiple devices seamlessly."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, top-up is possible via scratch cards or online with local payment methods; foreign cards may be rejected."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to find local scratch cards or deal with IPKO's €0.21/100KB default rate."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is likely in Albanian/Serbian, with limited English."
-      esim_title: "24/7 English Support"
-      esim_desc: "Get round-the-clock customer support in English via live chat or email, unlike Vala/IPKO's limited local-language phone support."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Vala and IPKO SIM cards cost €3 and require purchase at their points
+      of sale; no online activation mentioned.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Vala or IPKO store queues. Activate online within 1 minute after
+      landing in Pristina, avoiding the €3 physical SIM cost and language barriers.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      Kosovo prepaid SIMs may require passport registration at point of sale.
+    esim_title: No Passport Required
+    esim_desc: Unlike Vala's potential in-store passport check, Roami eSIM requires
+      no ID registration. Activate instantly without sharing personal documents.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Vala's data packages only work in Kosovo, not in the Western Balkans;
+      roaming packages cost €17 for 1GB/30 days. IPKO's local plans are only valid
+      in Kosovo; RLAH roaming 1GB/7 days costs €7, compared to €1.99 for local 1GB/7
+      days.
+    esim_title: Seamless Balkan Roaming
+    esim_desc: Avoid Vala's €17/1GB roaming rip-off. Roami eSIM covers all Western
+      Balkans at one low rate, no FUP restrictions or price hikes across borders.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Vala offers 15-day prepaid SIM with 10GB for €3; IPKO's 7-day 1GB
+      plan costs €1.99 and auto-renews. A 5-day trip wastes unused data on 7-day plans.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike IPKO's auto-renewing 7-day plan (€1.99/1GB) that wastes data
+      on a 5-day trip, Roami offers 7-day plans starting from $1.99/GB, saving 75%
+      waste.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      hotspot is generally allowed but may be throttled after fair use.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike potential throttling
+      on Vala/IPKO after fair use. Connect multiple devices seamlessly.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      top-up is possible via scratch cards or online with local payment methods; foreign
+      cards may be rejected.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need to find local scratch cards or deal with IPKO's €0.21/100KB default
+      rate.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      customer support is likely in Albanian/Serbian, with limited English.
+    esim_title: 24/7 English Support
+    esim_desc: Get round-the-clock customer support in English via live chat or email,
+      unlike Vala/IPKO's limited local-language phone support.
   expert_verdict:
-    title: "Kosovo eSIM or SIM Card for Tourists: Which Should You Choose?"
+    title: 'Kosovo eSIM or SIM Card for Tourists: Which Should You Choose?'
     cards:
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation vs. Store Queues"
-        desc: "Vala and IPKO SIMs cost €3 and require visiting a physical store. Roami eSIM activates online in <b>under 1 minute</b> after landing, eliminating search time and language barriers."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot Sharing"
-        desc: "Vala and IPKO may throttle hotspot after fair use. Roami eSIM allows full-speed tethering, perfect for sharing data with travel companions or using a laptop."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Multi-Country Coverage"
-        desc: "IPKO's local 5GB/30 days costs €5.99 but is Kosovo-only. Its Balkan roaming 2GB costs <b>€25</b>. Roami eSIM covers all Western Balkans without FUP restrictions or price jumps."
-      - icon: "shield"
-        icon_bg: "bg-sky-100"
-        icon_color: "text-sky-600"
-        title: "Keep Your Home SIM Active"
-        desc: "Using a physical SIM from Vala or IPKO forces you to remove your home SIM, blocking bank verification codes. Roami eSIM works alongside your home SIM, ensuring secure 2FA and calls."
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation vs. Store Queues
+      desc: Vala and IPKO SIMs cost €3 and require visiting a physical store. Roami
+        eSIM activates online in <b>under 1 minute</b> after landing, eliminating
+        search time and language barriers.
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Unrestricted Hotspot Sharing
+      desc: Vala and IPKO may throttle hotspot after fair use. Roami eSIM allows full-speed
+        tethering, perfect for sharing data with travel companions or using a laptop.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Seamless Multi-Country Coverage
+      desc: IPKO's local 5GB/30 days costs €5.99 but is Kosovo-only. Its Balkan roaming
+        2GB costs <b>€25</b>. Roami eSIM covers all Western Balkans without FUP restrictions
+        or price jumps.
+    - icon: shield
+      icon_bg: bg-sky-100
+      icon_color: text-sky-600
+      title: Keep Your Home SIM Active
+      desc: Using a physical SIM from Vala or IPKO forces you to remove your home
+        SIM, blocking bank verification codes. Roami eSIM works alongside your home
+        SIM, ensuring secure 2FA and calls.
 ---

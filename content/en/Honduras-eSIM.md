@@ -1,6 +1,6 @@
 ---
 title: Honduras eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Honduras Travel eSIM | Unlimited 5G Mobile Data | Roami
   description: Heading to Honduras? Stay securely connected using Roami's digital
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/hn.svg
   flag_alt: Honduras Flag
   title: Honduras eSIM data plan
-  subtitle: Bestseller | Smooth video streaming | Hotspot supported
+  subtitle: Bestseller | Smooth video streaming | Hotspot supported – The best prepaid
+    eSIM for Honduras travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Honduras eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -131,9 +132,11 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.03'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Honduras eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Honduras for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -172,11 +175,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Honduras eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Honduras.
   - icon: ⏰
@@ -191,8 +195,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -205,8 +210,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -536,7 +540,7 @@ faq_section:
         on the go using your Honduras eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Honduras eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -586,84 +590,107 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Honduras eSIM or Prepaid SIM Card: A Side-by-Side Comparison"
-  subtitle: "Honduras Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Honduras eSIM or Prepaid SIM Card: A Side-by-Side Comparison'
+  subtitle: Honduras Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Honduras) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Honduras"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Honduras) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Honduras
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Honduras eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Honduras eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Tigo and Claro require passport registration at stores; purchase and activation involve dialing *111# (Tigo) or *777# (Claro)."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Tigo and Claro store queues and passport checks. Activate your Roami eSIM online within minutes before landing in Honduras."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "In-store purchase of prepaid SIM cards requires passport registration for both Tigo and Claro."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Tigo and Claro which mandate passport registration, Roami eSIM requires zero ID verification. Get connected instantly without sharing personal documents."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, both Tigo and Claro plans are domestic only; no international roaming included."
-      esim_title: "Seamless Multi-Country Roaming"
-      esim_desc: "Tigo and Claro plans are domestic-only; crossing borders means buying new SIMs. Roami eSIM offers regional plans covering Central America, eliminating repeated purchases."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Tigo offers 24-hour (40 HNL/100MB), 7-day (105 HNL/500MB), and 30-day (565 HNL/5.5GB) plans. Claro offers 1-day (30 HNL/100MB), 7-day (100 HNL/1GB), and 30-day (380 HNL/2GB) plans. A typical 8-day trip forces purchase of a 15-day or 30-day plan, wasting nearly half the cost."
-      esim_title: "Flexible Plans, No Waste"
-      esim_desc: "Unlike Tigo's 30-day plan (565 HNL/5.5GB) or Claro's 15-day plan (450 HNL/5GB) that waste over 50% for a 7-day trip, Roami offers 7-day plans starting from $1.99/GB, saving you money."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed but may be subject to fair use policies."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "While local SIMs may restrict hotspot usage, Roami eSIM allows full tethering at high speeds, letting you share data with all your devices."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Tigo's triple saldo promotion requires specific phone number endings and specific weekdays; top-up cards have validity from 5 days (5 HNL) to 30 days (150 HNL). Claro plans auto-renew unless user sends SMS 'CANCELAR' to 5050."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Avoid Tigo's complex triple saldo rules and Claro's auto-renewal traps. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal for easy top-ups."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is primarily in Spanish, with limited English support."
-      esim_title: "24/7 English Support"
-      esim_desc: "Unlike local operators with Spanish-only support, Roami provides round-the-clock customer service in English via chat and email."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Tigo and Claro require passport registration at stores; purchase
+      and activation involve dialing *111# (Tigo) or *777# (Claro).
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Tigo and Claro store queues and passport checks. Activate your
+      Roami eSIM online within minutes before landing in Honduras.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: In-store purchase of prepaid SIM cards requires passport registration
+      for both Tigo and Claro.
+    esim_title: No Passport Required
+    esim_desc: Unlike Tigo and Claro which mandate passport registration, Roami eSIM
+      requires zero ID verification. Get connected instantly without sharing personal
+      documents.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      both Tigo and Claro plans are domestic only; no international roaming included.
+    esim_title: Seamless Multi-Country Roaming
+    esim_desc: Tigo and Claro plans are domestic-only; crossing borders means buying
+      new SIMs. Roami eSIM offers regional plans covering Central America, eliminating
+      repeated purchases.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Tigo offers 24-hour (40 HNL/100MB), 7-day (105 HNL/500MB), and 30-day
+      (565 HNL/5.5GB) plans. Claro offers 1-day (30 HNL/100MB), 7-day (100 HNL/1GB),
+      and 30-day (380 HNL/2GB) plans. A typical 8-day trip forces purchase of a 15-day
+      or 30-day plan, wasting nearly half the cost.
+    esim_title: Flexible Plans, No Waste
+    esim_desc: Unlike Tigo's 30-day plan (565 HNL/5.5GB) or Claro's 15-day plan (450
+      HNL/5GB) that waste over 50% for a 7-day trip, Roami offers 7-day plans starting
+      from $1.99/GB, saving you money.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      tethering is generally allowed but may be subject to fair use policies.
+    esim_title: Unrestricted Tethering
+    esim_desc: While local SIMs may restrict hotspot usage, Roami eSIM allows full
+      tethering at high speeds, letting you share data with all your devices.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Tigo's triple saldo promotion requires specific phone number endings
+      and specific weekdays; top-up cards have validity from 5 days (5 HNL) to 30
+      days (150 HNL). Claro plans auto-renew unless user sends SMS 'CANCELAR' to 5050.
+    esim_title: Global Payment Methods
+    esim_desc: Avoid Tigo's complex triple saldo rules and Claro's auto-renewal traps.
+      Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal for
+      easy top-ups.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      customer support is primarily in Spanish, with limited English support.
+    esim_title: 24/7 English Support
+    esim_desc: Unlike local operators with Spanish-only support, Roami provides round-the-clock
+      customer service in English via chat and email.
   expert_verdict:
-    title: "Honduras eSIM vs Local SIM Card: Which One Saves You More?"
+    title: 'Honduras eSIM vs Local SIM Card: Which One Saves You More?'
     cards:
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation, No Store Queues"
-        desc: "Tigo and Claro require in-store purchase and passport registration. Roami eSIM activates <b>within minutes online</b>, ready before you land."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Simple Global Payments, No Hidden Traps"
-        desc: "Avoid Tigo's <b>complex triple saldo rules</b> and Claro's <b>auto-renewal (send 'CANCELAR' to 5050)</b>. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>."
-      - icon: "shield"
-        icon_bg: "bg-sky-100"
-        icon_color: "text-sky-600"
-        title: "Keep Your Home SIM Active for Security"
-        desc: "Local SIMs require removing your home SIM, risking missed bank OTPs. Roami eSIM works <b>alongside your home SIM</b>, ensuring continuous access to verification codes."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Honduras's Strict SIM Passport Requirements"
-        desc: "Both Tigo and Claro require <b>passport registration</b> in-store. Roami eSIM eliminates this step, activating instantly without ID checks."
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation, No Store Queues
+      desc: Tigo and Claro require in-store purchase and passport registration. Roami
+        eSIM activates <b>within minutes online</b>, ready before you land.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Simple Global Payments, No Hidden Traps
+      desc: Avoid Tigo's <b>complex triple saldo rules</b> and Claro's <b>auto-renewal
+        (send 'CANCELAR' to 5050)</b>. Roami accepts <b>Visa, Mastercard, AMEX, Apple
+        Pay, Google Pay, PayPal</b>.
+    - icon: shield
+      icon_bg: bg-sky-100
+      icon_color: text-sky-600
+      title: Keep Your Home SIM Active for Security
+      desc: Local SIMs require removing your home SIM, risking missed bank OTPs. Roami
+        eSIM works <b>alongside your home SIM</b>, ensuring continuous access to verification
+        codes.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Honduras's Strict SIM Passport Requirements
+      desc: Both Tigo and Claro require <b>passport registration</b> in-store. Roami
+        eSIM eliminates this step, activating instantly without ID checks.
 ---

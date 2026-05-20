@@ -1,6 +1,6 @@
 ---
 title: Uruguay eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Top Uruguay eSIM |20% OFF| Top Local Carrier Fast 5G | Roami
   description: Need internet in Uruguay? Get Roami's Fast 5G on Top Local Carrier
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/uy.svg
   flag_alt: Uruguay Flag
   title: Uruguay eSIM data plan
-  subtitle: No hidden fees | Bestseller | Hotspot supported
+  subtitle: No hidden fees | Bestseller | Hotspot supported – The best prepaid eSIM
+    for Uruguay travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Uruguay eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -246,9 +247,11 @@ plans_data:
     tagColor: bg-slate-800
     daily: '6.60'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Uruguay eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Uruguay for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -287,11 +290,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Uruguay eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Uruguay.
   - icon: ⏰
@@ -306,8 +310,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -320,8 +325,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -650,7 +654,7 @@ faq_section:
         on the go using your Uruguay eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Uruguay eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -700,84 +704,102 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Uruguay eSIM vs Local Prepaid SIM: Which Is More Convenient?"
-  subtitle: "Uruguay Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Uruguay eSIM vs Local Prepaid SIM: Which Is More Convenient?'
+  subtitle: Uruguay Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Uruguay) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Uruguay"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Uruguay) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Uruguay
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Uruguay eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Uruguay eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Antel prepaid SIM (Chip Prepago) costs 65 UYU, available at Antel stores including Montevideo airport customs exit; Movistar prepaid SIM costs 60 UYU, available at branded stores or online but requires delivery to a Uruguayan address."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Antel or Movistar store queues. Activate your Roami eSIM online within 1 minute after landing in Montevideo."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All three operators require original passport for SIM purchase; photocopies are not accepted."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid mandatory passport KYC at Antel stores. Roami eSIM activates instantly with no ID verification."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Mercosur roaming like home policy does not apply to prepaid users, meaning data roaming in Argentina, Brazil etc. incurs high costs."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "Unlike Antel prepaid which excludes prepaid users from Mercosur roaming, Roami eSIM offers affordable data in Argentina, Brazil, and beyond."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Antel offers plans from 3 days (120 UYU/30GB) to 120 days (500 UYU/2.3GB); a 7-day tourist buying a 30-day plan (165 UYU/760MB) wastes over 75% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Antel's 30-day cycle (165 UYU/760MB) that wastes 75% for a 7-day trip, Roami offers 7-day plans starting from $1.99/GB."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, most Uruguayan prepaid plans allow tethering but may throttle after a certain limit."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike some local plans that may throttle or block tethering."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up available at Antel points, Redpagos, Abitab, HoyJuega with cash; no support for international credit cards online."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for cash top-ups at Redpagos or Abitab."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, customer support is typically in Spanish, with limited English assistance."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get English-speaking support anytime, unlike local operators' Spanish-only phone lines."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Antel prepaid SIM (Chip Prepago) costs 65 UYU, available at Antel
+      stores including Montevideo airport customs exit; Movistar prepaid SIM costs
+      60 UYU, available at branded stores or online but requires delivery to a Uruguayan
+      address.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Antel or Movistar store queues. Activate your Roami eSIM online
+      within 1 minute after landing in Montevideo.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: All three operators require original passport for SIM purchase;
+      photocopies are not accepted.
+    esim_title: No Passport Required
+    esim_desc: Avoid mandatory passport KYC at Antel stores. Roami eSIM activates
+      instantly with no ID verification.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Mercosur roaming like home policy does not apply to prepaid users,
+      meaning data roaming in Argentina, Brazil etc. incurs high costs.
+    esim_title: Global Roaming Ready
+    esim_desc: Unlike Antel prepaid which excludes prepaid users from Mercosur roaming,
+      Roami eSIM offers affordable data in Argentina, Brazil, and beyond.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Antel offers plans from 3 days (120 UYU/30GB) to 120 days (500 UYU/2.3GB);
+      a 7-day tourist buying a 30-day plan (165 UYU/760MB) wastes over 75% of the
+      plan's value.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike Antel's 30-day cycle (165 UYU/760MB) that wastes 75% for a 7-day
+      trip, Roami offers 7-day plans starting from $1.99/GB.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      knowledge, most Uruguayan prepaid plans allow tethering but may throttle after
+      a certain limit.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike some local plans
+      that may throttle or block tethering.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up available at Antel points, Redpagos, Abitab, HoyJuega with
+      cash; no support for international credit cards online.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for cash top-ups at Redpagos or Abitab.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      knowledge, customer support is typically in Spanish, with limited English assistance.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get English-speaking support anytime, unlike local operators' Spanish-only
+      phone lines.
   expert_verdict:
-    title: "Uruguay eSIM or Prepaid SIM Card: A Side-by-Side Comparison"
+    title: 'Uruguay eSIM or Prepaid SIM Card: A Side-by-Side Comparison'
     cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payment Methods Accepted"
-        desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for cash top-ups at Redpagos or Abitab."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation, No Store Visit"
-        desc: "Activate Roami eSIM online in 1 minute. Avoid Antel store queues at Montevideo airport or city centers."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Uruguay's Strict SIM Passport Requirements"
-        desc: "All three operators (Antel, Movistar, Claro) require original passport for SIM purchase. Roami eSIM activates instantly with no ID check."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot & Tethering"
-        desc: "Roami eSIM allows full-speed tethering without throttling, unlike some local plans that may limit hotspot usage."
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Global Payment Methods Accepted
+      desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No
+        need for cash top-ups at Redpagos or Abitab.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation, No Store Visit
+      desc: Activate Roami eSIM online in 1 minute. Avoid Antel store queues at Montevideo
+        airport or city centers.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Uruguay's Strict SIM Passport Requirements
+      desc: All three operators (Antel, Movistar, Claro) require original passport
+        for SIM purchase. Roami eSIM activates instantly with no ID check.
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Unrestricted Hotspot & Tethering
+      desc: Roami eSIM allows full-speed tethering without throttling, unlike some
+        local plans that may limit hotspot usage.
 ---

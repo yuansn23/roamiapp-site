@@ -1,6 +1,6 @@
 ---
 title: Switzerland eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,12 +14,12 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Top Switzerland eSIM |20% OFF| Swisscom High-Speed 5G | Roami
+  title: Switzerland eSIM |20% OFF| Unlimited 5G Data Plans| Roami
   description: Planning a trip to Switzerland? Enjoy Sunrise Reliable 5G and Transparent
     Data with Roami. Features Multi-Country Roaming and Unlimited Data, great for
     Digital Nomads.
@@ -48,9 +48,10 @@ hero:
   flag_image: img/flags/ch.svg
   flag_alt: Switzerland Flag
   title: Switzerland eSIM data plan
-  subtitle: 20% discount for a limited time | Top rated | Smart choice
+  subtitle: 20% discount for a limited time | Top rated | Smart choice – The best
+    prepaid eSIM for Switzerland travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Switzerland eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -295,9 +296,11 @@ plans_data:
     tagColor: bg-purple-600
     daily: '4.33'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Switzerland eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Switzerland for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -336,11 +339,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Switzerland eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Switzerland.
   - icon: ⏰
@@ -355,8 +359,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -369,8 +374,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -380,333 +384,156 @@ activation_steps:
       start using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: Switzerland eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Switzerland eSIM across different
-    travel scenarios.
+  title: "The Ultimate Guide to eSIM Data Plans for Switzerland"
+  desc: "This guide answers all your questions about using an eSIM in Switzerland, covering everything from airport arrivals to mountain-top sightseeing. Whether you need a prepaid plan for a short city break or a high-data option for a business trip, we have you covered."
   categories:
-  - id: faq-general
-    icon: help-circle
-    tab_title: General
-    title: 1. General Questions
-    questions:
-    - q: Does my phone support the Switzerland eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Switzerland eSIM simply
-        by scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Switzerland eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Switzerland
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Switzerland eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Switzerland eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Switzerland that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Switzerland eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Switzerland eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Switzerland eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Switzerland eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Switzerland,
-        such as Swisscom, Sunrise, Salt, to ensure premium speeds at a fraction of
-        roaming costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, DENT, Airalo,
-        Roamless?
-      a: While great companies like Holafly, DENT, Airalo, Roamless offer reliable
-        services, we focus on providing the most cost-effective Switzerland eSIM,
-        ensuring lower latency and better prices with our automatic price-matching
-        system.
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
-    questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Switzerland eSIM before your flight. Once you land at Zurich
-        Airport, Geneva Airport, EuroAirport Basel-Mulhouse-Freiburg, simply turn
-        off Airplane Mode and enable your eSIM line. It will connect to the local
-        4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Switzerland eSIM activated upon landing, you can immediately open
-        SBB Mobile, Uber, Swiss Transfer to book a ride or use WhatsApp to message
-        your pre-booked driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Switzerland eSIM data allows you to open Google Maps right
-        at the baggage claim in Zurich Airport, Geneva Airport, EuroAirport Basel-Mulhouse-Freiburg
-        to check real-time train schedules, bus routes, or walking directions to the
-        taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Switzerland eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Switzerland eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Switzerland eSIM cellular data to let your family know you've arrived
-        safely.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
-    questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Switzerland eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Switzerland, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like SBB Mobile, Uber, Swiss Transfer use VoIP (internet calling) and
-        in-app messaging. Since you have active Switzerland eSIM data, drivers can
-        call or message you directly through the app without needing a local phone
-        number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Switzerland eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Switzerland eSIM data. A 5GB or 10GB
-        plan provides more than enough data for extensive GPS navigation during a
-        road trip in Switzerland.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Switzerland eSIM provides the reliable urban coverage
-        needed for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Switzerland eSIM's data network while
-        on the train or in the car.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
-    questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Switzerland eSIM ensures you can retrieve
-        these details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Switzerland eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at The Dolder Grand, Badrutt's Palace Hotel, Fairmont
-        Le Montreux Palace or a local guesthouse, you can input the address into Google
-        Maps and get turn-by-turn walking or transit directions using your Switzerland
-        eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Switzerland eSIM data to trigger the verification code from your bank
-        or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Switzerland eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Eat.ch, Uber Eats, Too Good To Go and
-        use your Switzerland eSIM data to order a hot meal directly to your hotel
-        lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Switzerland eSIM automatically
-        takes over, allowing you to message the hotel if you forgot luggage or need
-        to arrange a later pickup.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
-    questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Jungfraujoch, The Matterhorn, Chillon Castle spontaneously,
-        you can use your Switzerland eSIM data to buy skip-the-line tickets online
-        and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Switzerland eSIM, you can read reviews and
-        book local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Switzerland.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Switzerland eSIM will guide you via the fastest walking or transit
-        route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Switzerland eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Switzerland eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Switzerland eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Switzerland eSIM data to search 'restaurants near me' on Google
-        Maps to check ratings, opening hours, and photos of the menu before walking
-        in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Switzerland eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Switzerland eSIM ensures you
-        can scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Switzerland eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Eat.ch, Uber Eats, Too Good To Go, register
-        using your email or social accounts, and order food seamlessly using your
-        Switzerland eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Twint,
-        PostFinance Card, Visa/Mastercard require a brief internet handshake, which
-        your Switzerland eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Switzerland eSIM to find hidden culinary gems in the city.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
-    questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Switzerland eSIM providing the internet, you can chat and call exactly as
-        you do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Switzerland eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Switzerland eSIM are clear and lag-free, no matter where you are
-        in the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Switzerland
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Switzerland eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Switzerland eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Switzerland eSIM
-        is set as the primary data line so you never incur unexpected charges from
-        your home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
-    questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Switzerland, you can dial local emergency numbers like 112 (general emergency),
-        117 (police), 118 (fire), 144 (ambulance) directly from your phone's dialer
-        regardless of your active SIM, as long as your phone can catch any cellular
-        signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Switzerland eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Switzerland eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Switzerland eSIM data to call
-        your insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Switzerland eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Switzerland eSIM, use
-        your data to download offline areas in Google Maps just in case you venture
-        into mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Switzerland eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Switzerland eSIM network to access internal
-        servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Switzerland eSIM
-        is significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Switzerland eSIM
-        data to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Switzerland eSIM, you can rapidly upload
-        presentations or large documents to Google Drive or Dropbox directly from
-        the exhibition floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Switzerland eSIM provides constant connectivity, ensuring you receive
-        Slack notifications and important emails instantly, keeping you synced with
-        your team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Switzerland eSIM to update them on flight delays or schedule
-        changes.
+    - id: faq-general
+      icon: help-circle
+      tab_title: General
+      title: "1. General Questions About Switzerland eSIM"
+      questions:
+        - q: "Can I activate my eSIM immediately after landing?"
+          a: "Yes, you can activate your eSIM as soon as your plane lands. The setup process is quick and typically takes just a few minutes to complete. We recommend connecting to the airport's free Wi-Fi for the initial installation to ensure a stable connection. This allows you to have data access the moment you step into the Arrivals hall."
+        - q: "How does an eSIM for Switzerland compare to a local SIM card?"
+          a: "An eSIM is a digital SIM that eliminates the need for a physical plastic card, which is a major convenience. You can purchase and install a plan from providers like Roami from home, avoiding queues at kiosks for a Swisscom or Salt card. This is often the best eSIM for Switzerland for tourists seeking instant connectivity without visiting a store."
+        - q: "Will my eSIM work in the Swiss Alps and remote villages?"
+          a: "Yes, our eSIM connects to the strongest available local network, such as Swisscom, which offers excellent coverage across the entire country. This means you can stay connected even in remote mountain villages and during train journeys through the Alps. For peace of mind, this makes it a great swiss esim prepaid option for hikers and skiers. You can rely on it for navigation and communication wherever your travels take you."
+        - q: "Can I keep my home number active while using my eSIM in Switzerland?"
+          a: "Absolutely, you can use your eSIM for data and keep your physical SIM card for your home number. This dual-SIM setup is ideal for receiving calls or texts from your bank or family without paying roaming fees. Your eSIM switzerland esim data plan will handle all your internet needs seamlessly. It is a perfect way to stay in touch without incurring international charges on your primary line."
+        - q: "What should I do if my eSIM doesn't activate after installation?"
+          a: "If your eSIM doesn't activate, first ensure that cellular data and data roaming are enabled in your phone's settings. Restarting your phone is a simple but effective next step to force the network connection. If the issue persists, our customer support is available to help you troubleshoot and get connected. Problems are rare, but we are ready to assist."
+        - q: "Is it possible to top up my eSIM plan while traveling in Switzerland?"
+          a: "Yes, you can easily top up your plan through the Roami app or website whenever you need more data. This is particularly useful if you are on a long trip and have used up your initial allowance. For example, a short 3-day plan can be extended if your stay unexpectedly gets longer. This flexibility makes it a convenient choice for any itinerary."
+        - q: "What are the advantages of buying a switzerland esim prepaid plan before my trip?"
+          a: "Buying your esim for switzerland before you travel is the most hassle-free way to prepare. You can install the eSIM at home on Wi-Fi, so it is ready to go the moment you land. This removes the stress of finding a local store or relying on airport kiosks for a physical SIM. It ensures you have immediate access to maps and ride-sharing apps upon arrival."
+        - q: "Can I use a swiss esim on any smartphone?"
+          a: "Most modern smartphones from the last few years, including recent iPhones and high-end Android devices like Samsungs and Pixels, support eSIM technology. Before purchasing, you should check your phone's compatibility list to confirm it supports eSIM. If your phone is unlocked and compatible, you can use our switzerland esim service. It's a very simple process to get started."
+        - q: "Is there a difference between 'eSIM' and 'e Sim' Switzerland plans?"
+          a: "There is no difference in the technology; they are the same digital SIM card. 'eSIM' is the standard term, while 'e Sim' is often a common misspelling or typo made by users. When searching for 'e sim switzerland' or 'e sim card switzerland', you will find the same products. Just look for a reputable provider like Roami for a reliable connection."
+        - q: "How does Roami's pricing compare to other providers like Holafly or Airalo?"
+          a: "Roami offers competitive pricing with a focus on high-speed data and excellent value. For instance, a 7-day plan with 5GB costs $6.99, which is a great price for in-depth travel. While providers like Holafly and Airalo also offer esim switzerland tourist plans, Roami's pricing and data allowances are designed to be straightforward and affordable. We aim to provide the best esim for switzerland without hidden fees."
+    - id: faq-airport
+      icon: airplane
+      tab_title: Airports
+      title: "2. Switzerland eSIM at Airports"
+      questions:
+        - q: "Do I need to connect to airport Wi-Fi to set up my eSIM?"
+          a: "While you can install the eSIM profile at home, you will need an internet connection (like airport Wi-Fi) to activate the plan for the first time. Zurich and Geneva airports offer free, reliable Wi-Fi that is perfect for this initial setup. Once the eSIM is activated, it will connect to the local network automatically. This ensures you have data before you even leave the terminal."
+        - q: "What is the best eSIM for Switzerland for arriving at Zurich Airport?"
+          a: "For a tourist arriving at Zurich Airport, a 7-day plan with 3GB or 5GB is often the best choice to start. A 3GB plan costs $4.99, providing plenty of data for the first week of navigation and social media. This allows you to immediately call an Uber or use Google Maps to reach your hotel in the city center. It's a seamless way to begin your Swiss adventure."
+        - q: "Can I buy a physical SIM card at the airport instead of an eSIM?"
+          a: "You can buy prepaid SIM cards from Swisscom, Sunrise, or Salt at vending machines and kiosks in Zurich and Geneva airports. However, an eSIM is far more convenient as you can purchase and install it before you travel. A physical SIM requires you to find a machine, wait in line, and handle a tiny card. For most travelers, an esim switzerland tourist option is simpler."
+        - q: "What if my flight lands late at night and the airport shops are closed?"
+          a: "If you arrive late, the duty-free shops and mobile kiosks will be closed, leaving you without a way to get a physical SIM. An eSIM is the perfect solution as it is ready to use immediately, regardless of the time. You can activate it using the airport's 24/7 free Wi-Fi. This gives you peace of mind and connectivity from the moment you step off the plane."
+        - q: "Is the eSIM data plan active from the moment I activate it?"
+          a: "Yes, your plan starts as soon as you activate it, not when you purchase it. This is a major benefit, as you can buy your plan weeks in advance and only activate it upon arrival in Switzerland. The countdown for your data allowance (e.g., 3GB for 7 days) begins at activation. This ensures you get the full value of your plan for your exact travel dates."
+    - id: faq-transport
+      icon: train
+      tab_title: Transport
+      title: "3. Switzerland eSIM for Transport"
+      questions:
+        - q: "Will my eSIM work on the Swiss Travel System trains, like the Glacier Express?"
+          a: "Yes, your eSIM will provide a strong data connection on most Swiss trains, including scenic routes like the Glacier Express and Bernina Express. The network coverage along these railway lines is excellent, allowing you to stream music or use maps. You can research the landmarks you are passing in real-time. This makes a swiss esim perfect for a scenic rail journey."
+        - q: "Can I use my eSIM to book tickets for Swiss public transport?"
+          a: "Absolutely, having a data connection is essential for using apps like SBB Mobile to buy train, tram, and bus tickets. You can check schedules, purchase tickets, and even validate them directly from your phone. This saves you from having to find a ticket machine or queue at a counter. An esim data switzerland plan makes navigating cities like Zurich and Geneva effortless."
+        - q: "Is data coverage good in the Swiss train tunnels?"
+          a: "Data coverage in Swiss train tunnels is generally good, though it can be intermittent in longer tunnels. The major operators have invested heavily in ensuring connectivity for passengers. You will likely lose the signal for a few minutes in the longest alpine tunnels, but it will reconnect quickly upon exit. For most of your journey, you can rely on a stable connection."
+        - q: "Can I use my eSIM for ride-sharing apps like Uber in Switzerland?"
+          a: "Yes, you can use your eSIM to access ride-sharing apps or local taxi services throughout Switzerland. This is especially useful in cities like Zurich, Basel, and Geneva for getting around quickly. Your data plan allows you to call a car, track its arrival, and navigate to your destination. It is a convenient alternative to public transport late at night."
+        - q: "What is the best data plan for using public transport maps and apps?"
+          a: "For relying on public transport, a 15-day plan with 5GB for $7.99 is a great value option for moderate use. If you are a heavy user who needs constant access to maps and timetables, a 30-day plan with 20GB for $21.99 is more suitable. Both provide enough data for daily navigation and ticket purchases without worry. This ensures you never miss a connection."
+    - id: faq-hotels
+      icon: building
+      tab_title: Hotels
+      title: "4. Switzerland eSIM for Hotels"
+      questions:
+        - q: "Can I use my eSIM as a backup if the hotel Wi-Fi is slow?"
+          a: "Yes, your eSIM is an excellent backup for unreliable or slow hotel Wi-Fi. Many hotels in Switzerland offer free Wi-Fi, but it can be congested in the evenings. Having your own mobile data connection ensures you can always stream movies or video call family. It gives you a private and secure connection regardless of the hotel's network quality."
+        - q: "Will my eSIM work in hotel basements or rooms far from the lobby?"
+          a: "In most modern Swiss hotels, the mobile signal is strong enough to reach basements and all guest rooms. However, in older or more remote hotels, the signal might be weaker in interior rooms. If you have trouble, moving closer to a window usually solves the problem. For general use in your room, an eSIM for Switzerland is very reliable."
+        - q: "Can I share my eSIM's internet connection with my laptop or tablet in my hotel room?"
+          a: "Yes, most smartphones allow you to enable a personal hotspot to share your eSIM's data with other devices. This is a great feature if you need to work on a laptop or let your kids use their tablets. Keep in mind that hotspot usage will consume your data allowance faster. It is a convenient way to get all your devices online."
+        - q: "What should I do if my hotel charges for Wi-Fi?"
+          a: "If your hotel charges a daily fee for Wi-Fi, your eSIM becomes an even more valuable tool. Instead of paying for separate Wi-Fi for each device, you can use your personal hotspot. This is often a cheaper and more flexible solution, especially for short stays. You bypass the hotel's fee and have a connection that works everywhere."
+        - q: "Is it safe to use hotel Wi-Fi for online banking with my eSIM?"
+          a: "It is generally safer to use your own mobile data (eSIM) for sensitive transactions like online banking. Public Wi-Fi networks, including those in hotels, can be vulnerable to security risks. By using your private cellular connection, you reduce the chance of your data being intercepted. For peace of mind, always use your eSIM for financial activities."
+    - id: faq-attractions
+      icon: landmark
+      tab_title: Attractions
+      title: "5. Switzerland eSIM for Attractions"
+      questions:
+        - q: "How much data do I need for a day of sightseeing in the Swiss Alps?"
+          a: "A day of sightseeing typically uses 1-2GB of data for navigation, taking photos, and posting to social media. For a week-long trip covering cities and mountains, a 7-day plan with 5GB is a great value at $6.99. This allows you to upload stunning photos from the Jungfraujoch or Matterhorn without worry. It provides a comfortable cushion for a tourist's typical data needs."
+        - q: "Can I use my eSIM to buy tickets for popular attractions online?"
+          a: "Yes, you can use your eSIM to access attraction websites and apps to buy tickets in advance. This is very useful for popular spots like the Château de Chillon or the Rhine Falls, where queues can be long. You can purchase your ticket while in line or on the bus to save time. This makes your sightseeing experience much smoother and more efficient."
+        - q: "Will my eSIM work at the top of Mount Titlis or Jungfraujoch?"
+          a: "Yes, the mobile networks in Switzerland have installed antennas at the highest peaks to ensure connectivity. You can typically get a strong signal at the top of Mount Titlis, Jungfraujoch, and other famous viewpoints. This allows you to share your experience live on social media from the top of Europe. It is a reliable companion for any high-altitude adventure."
+        - q: "Can I stream a live video tour guide while walking through Old Town Bern?"
+          a: "Yes, with a high-speed data plan like the 10GB plan, you can stream audio or video guides without buffering. The 5G/4G/LTE connection is fast enough to handle these real-time applications. This allows you to follow a virtual tour guide while exploring the cobblestone streets. It's a fantastic way to enrich your travel experience."
+        - q: "Is the data fast enough to upload 4K videos from my trip?"
+          a: "Yes, our high-speed data plans are perfectly capable of uploading large 4K video files. However, uploading a long 4K video can consume a significant amount of data. We recommend using a plan with a larger allowance, such as 10GB or more, if you plan to upload many videos. This ensures you won't run out of data mid-upload."
+    - id: faq-social
+      icon: message-circle
+      tab_title: Social & Messaging
+      title: "6. Switzerland eSIM for Social Media"
+      questions:
+        - q: "Can I use WhatsApp to call home without using my home number's minutes?"
+          a: "Yes, your eSIM provides a data connection which allows you to use WhatsApp, FaceTime, and Skype for free calls. These calls use your data plan instead of traditional voice minutes. This is a fantastic way to stay in touch with family and friends without incurring international calling charges. It's one of the main reasons travelers choose an eSIM."
+        - q: "How much data does a typical social media session use?"
+          a: "Scrolling through Instagram or Facebook for an hour uses about 200-300MB of data. Streaming a video on TikTok can use more, around 500MB per hour. For a heavy social media user on a 2-week trip, a 10GB plan for $12.99 is a very safe choice. This allows you to stay active on all your platforms without worrying about your allowance."
+        - q: "Will my eSIM allow me to post live stories on Instagram?"
+          a: "Yes, you can post live stories and upload photos to Instagram without any issues. The high-speed connection ensures your posts upload quickly, even in crowded areas like train stations. This is perfect for sharing your travel experiences in real-time with your followers. Your switzerland esim will handle all your social media needs."
+        - q: "Is my social media activity secure when using a public eSIM network?"
+          a: "Your eSIM uses the secure infrastructure of the local cellular network, which is much safer than public Wi-Fi. While the mobile network is encrypted, it is always a good idea to use strong passwords for your accounts. For an added layer of security, you can use a VPN app on your phone. This ensures your social media logins are protected."
+        - q: "Can I use messaging apps like WeChat and Line with my eSIM?"
+          a: "Yes, you can use any messaging app that relies on an internet connection, including WeChat, Line, and Telegram. These apps will work perfectly with your eSIM's data plan, allowing you to send texts, photos, and make calls. This is particularly useful for travelers from Asia who rely heavily on these platforms. Your eSIM ensures you stay connected with your preferred app."
+    - id: faq-crossborder
+      icon: globe
+      tab_title: Cross-border
+      title: "7. Switzerland eSIM for Cross-Border Travel"
+      questions:
+        - q: "Will my Switzerland eSIM work in neighboring countries like France or Italy?"
+          a: "Standard esim for switzerland plans are typically limited to Switzerland's national borders. If you are planning a day trip to Chamonix in France or Como in Italy, you will need a regional or global eSIM plan. Roami offers specific plans that cover multiple countries for seamless cross-border travel. Always check the plan's coverage area before purchasing if you plan to leave Switzerland."
+        - q: "What is the best eSIM for a trip covering Switzerland and other European countries?"
+          a: "For a multi-country trip, you should look for a European or global eSIM plan that includes Switzerland. Roami offers regional plans that provide coverage across Europe, allowing you to stay connected in Paris, Rome, and Berlin as well. This is much more convenient than buying a separate eSIM for each country. It ensures you have one consistent data connection for your entire journey."
+        - q: "Do I need to do anything to activate data when crossing the border from Switzerland to Germany?"
+          a: "With a regional eSIM plan, your phone will automatically switch to the local network when you cross the border. You do not need to do anything, though it might take a minute for the handoff to complete. This seamless transition is a major advantage of using a single eSIM for a multi-country trip. It allows you to travel without interruption."
+        - q: "Can I use my swiss esim in Liechtenstein?"
+          a: "Many Switzerland-specific eSIM plans also include coverage for Liechtenstein due to its close ties with Switzerland. However, you should always verify the specific coverage list of your plan before your trip. If it is not included, you may lose connectivity in the principality. A quick check of the plan details will save you from any surprises."
+        - q: "What happens to my eSIM data if I travel outside of the covered region?"
+          a: "If you travel outside of your eSIM's designated coverage area, you will lose data connectivity. The plan will not work and you will not be able to use the internet until you return to a covered country. To avoid this, you can purchase a global plan that covers your entire itinerary. This ensures you are never without a connection."
+    - id: faq-emergency
+      icon: alert-triangle
+      tab_title: Emergencies
+      title: "8. Switzerland eSIM for Emergencies"
+      questions:
+        - q: "Can I dial the Swiss emergency number 112 with my eSIM?"
+          a: "Yes, you can always dial 112, the European emergency number, even if you have no credit or data left on your eSIM. This is a standard feature on all mobile phones, which must be able to reach emergency services. Your eSIM will allow you to connect to any available network to make this call. It is a critical safety feature for any traveler."
+        - q: "Will my eSIM work if my physical SIM card is lost or stolen?"
+          a: "Yes, your eSIM is a separate digital profile on your phone and will continue to work even if your physical SIM card is removed. This is a huge safety net, as you will still have internet access to call for help or find your way. You can use apps to freeze your bank cards or contact your embassy. It provides a critical lifeline in a stressful situation."
+        - q: "Can I use my eSIM to look up the address of the nearest hospital or pharmacy?"
+          a: "Absolutely, your data connection is perfect for searching for nearby medical facilities. You can use Google Maps to find the nearest hospital, pharmacy, or dentist. This is much faster than asking strangers or looking for a phone book. An esim switzerland tourist plan ensures you can find help quickly in a non-life-threatening emergency."
+        - q: "What if I need to contact my embassy from Switzerland?"
+          a: "Your eSIM provides the data needed to visit embassy websites or send them an email. You can also use messaging apps like WhatsApp to contact them if they offer that service. This is very helpful if you lose your passport or need other consular assistance. Having data gives you direct access to official help channels."
+        - q: "How can I call a local taxi or ambulance in an emergency if I have no signal?"
+          a: "If you have no mobile signal, you are in a location without any network coverage, such as a very deep valley. In this case, you should look for a landline at a nearby hotel, restaurant, or phone booth. Your eSIM cannot help if there is no cellular network to connect to. Always have a backup plan for remote areas."
+    - id: faq-business
+      icon: briefcase
+      tab_title: Business
+      title: "9. Switzerland eSIM for Business Travelers"
+      questions:
+        - q: "Is the eSIM data plan reliable for video conferencing like Zoom or Teams?"
+          a: "Yes, our high-speed 5G/4G/LTE network provides a stable and fast connection ideal for video calls. A plan with at least 10GB is recommended for a week of professional use, costing $10.99. This ensures you can attend meetings with clear video and audio without buffering. It is a reliable tool for a professional on the go."
+        - q: "Can I use a local number for business calls with an eSIM?"
+          a: "Most data-only eSIM plans, like ours, do not come with a local phone number. For business calls, you can use your home number via Wi-Fi calling or a VoIP app. If a local number is essential, you might need a physical SIM from a local carrier. For most business travelers, a data-only plan is sufficient for email and messaging."
+        - q: "What is the best esim for switzerland for a two-week business trip?"
+          a: "For a two-week business trip, a 15-day plan with 10GB for $12.99 is an excellent balance of cost and data. This provides enough data for daily emails, cloud access, and occasional video calls. If you anticipate heavy usage, a 20GB plan for $19.99 gives you more breathing room. Both are perfect for a productive working trip."
+        - q: "Can I use my eSIM to access my company's VPN securely?"
+          a: "Yes, you can use your eSIM's data connection to connect to your company's VPN, just like you would with a regular connection. This ensures your business communications are encrypted and secure. The high-speed network supports a stable VPN connection for accessing internal servers and files. It allows you to work remotely with the same security as in the office."
+        - q: "How do I manage my business expenses for the eSIM purchase?"
+          a: "Roami provides email receipts for all purchases, which you can easily submit for expense reports. You can purchase the plan with a company credit card and have the receipt forwarded to your finance department. This makes tracking and reimbursing your connectivity costs simple and straightforward. It is a hassle-free solution for business expense management."
 related_products:
-  title: Related eSIM Plans
+  title: Related Switzerland eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -756,84 +583,110 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Switzerland eSIM or SIM Card for Tourists: Which Should You Choose?"
-  subtitle: "Switzerland Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Switzerland eSIM or SIM Card for Tourists: Which Should You Choose?'
+  subtitle: Switzerland Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Switzerland) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Switzerland"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Switzerland) + Local Operator
+      Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Switzerland
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Switzerland eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Switzerland eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Swisscom SIM card costs 19.90 CHF (including 20 CHF credit), requires passport, activation may take hours. Aldi Suisse and Lidl Connect activation can take up to 72 hours."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Swisscom store queues and passport checks. Activate your eSIM online within 1 minute after landing in Zurich, avoiding the 72-hour activation wait of Aldi Suisse."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Swisscom, Sunrise, and Aldi Suisse require passport or ID registration; activation may take hours to 72 hours."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Swisscom and Sunrise which require passport registration and hours of activation, Roami eSIM needs no ID verification. Get connected instantly without sharing personal documents."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Switzerland is not in the EU; Swisscom charges 6.90 CHF for 500MB EU roaming, 59.90 CHF for 10GB. Sunrise charges 1 CHF/MB in Liechtenstein."
-      esim_title: "Seamless Cross-Border Roaming"
-      esim_desc: "Avoid Swisscom's 59.90 CHF for 10GB EU roaming. Roami eSIM offers affordable multi-country plans covering Switzerland, Liechtenstein, and neighboring EU countries at local rates, no 1 CHF/MB surprise fees."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Swisscom Prepaid Flat 7 costs 20 CHF for 7 days; Prepaid Flat 30 costs 65 CHF for 30 days. Lyca Mobile Surf UL costs 19 CHF for 28 days."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Swisscom's 7-day minimum (20 CHF) or Lyca's 28-day cycle (19 CHF), Roami offers 7-day plans starting from $1.99/GB. For a 3-day trip, pay only for what you use, saving up to 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Lyca Mobile Surf UL strictly prohibits tethering unless phone is jailbroken."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Lyca Mobile bans tethering on its Surf UL plan. Roami eSIM allows full hotspot sharing, so you can connect your laptop or tablet without any restrictions."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Salt Mobile requires purchasing data packs via its cost control page, accessible only on Salt mobile network, not via WiFi."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to visit a Salt Mobile cost control page that only works on mobile network. Simple and secure online checkout."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock customer support in English, unlike local prepaid providers that may only offer German support during business hours. Instant help via chat or email."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Swisscom SIM card costs 19.90 CHF (including 20 CHF credit), requires
+      passport, activation may take hours. Aldi Suisse and Lidl Connect activation
+      can take up to 72 hours.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Swisscom store queues and passport checks. Activate your eSIM
+      online within 1 minute after landing in Zurich, avoiding the 72-hour activation
+      wait of Aldi Suisse.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Swisscom, Sunrise, and Aldi Suisse require passport or ID registration;
+      activation may take hours to 72 hours.
+    esim_title: No Passport Required
+    esim_desc: Unlike Swisscom and Sunrise which require passport registration and
+      hours of activation, Roami eSIM needs no ID verification. Get connected instantly
+      without sharing personal documents.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Switzerland is not in the EU; Swisscom charges 6.90 CHF for 500MB
+      EU roaming, 59.90 CHF for 10GB. Sunrise charges 1 CHF/MB in Liechtenstein.
+    esim_title: Seamless Cross-Border Roaming
+    esim_desc: Avoid Swisscom's 59.90 CHF for 10GB EU roaming. Roami eSIM offers affordable
+      multi-country plans covering Switzerland, Liechtenstein, and neighboring EU
+      countries at local rates, no 1 CHF/MB surprise fees.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Swisscom Prepaid Flat 7 costs 20 CHF for 7 days; Prepaid Flat 30
+      costs 65 CHF for 30 days. Lyca Mobile Surf UL costs 19 CHF for 28 days.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike Swisscom's 7-day minimum (20 CHF) or Lyca's 28-day cycle (19
+      CHF), Roami offers 7-day plans starting from $1.99/GB. For a 3-day trip, pay
+      only for what you use, saving up to 75% waste.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: Lyca Mobile Surf UL strictly prohibits tethering unless phone is
+      jailbroken.
+    esim_title: Unrestricted Tethering
+    esim_desc: Lyca Mobile bans tethering on its Surf UL plan. Roami eSIM allows full
+      hotspot sharing, so you can connect your laptop or tablet without any restrictions.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Salt Mobile requires purchasing data packs via its cost control
+      page, accessible only on Salt mobile network, not via WiFi.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need to visit a Salt Mobile cost control page that only works on mobile network.
+      Simple and secure online checkout.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock customer support in English, unlike local prepaid
+      providers that may only offer German support during business hours. Instant
+      help via chat or email.
   expert_verdict:
-    title: "Switzerland eSIM vs Prepaid SIM Card: A Side-by-Side Comparison"
+    title: 'Switzerland eSIM vs Prepaid SIM Card: A Side-by-Side Comparison'
     cards:
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Swisscom's Expensive EU Roaming"
-        desc: "Switzerland is not in the EU. Swisscom charges <b>6.90 CHF for 500MB</b> and <b>59.90 CHF for 10GB</b> EU roaming. Roami eSIM offers affordable multi-country plans covering Switzerland and EU at local rates."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Coverage in Liechtenstein"
-        desc: "Sunrise has <b>no network in Liechtenstein</b>, charging <b>1 CHF/MB</b> roaming. Roami eSIM includes Liechtenstein in its Swiss coverage, avoiding surprise fees."
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "Keep Your Home SIM Active"
-        desc: "Physical SIM requires removing your home SIM, risking missed bank verification codes. Roami eSIM works alongside your home SIM, keeping your number active for calls and SMS."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from Weekly Plans"
-        desc: "Swisscom's Prepaid Flat 7 costs <b>20 CHF for 7 days</b>; Lyca Mobile's Surf UL is <b>19 CHF for 28 days</b>. For a 3-day trip, you waste over 50% of the plan. Roami offers 7-day plans from <b>$1.99/GB</b>, paying only for what you use."
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Swisscom's Expensive EU Roaming
+      desc: Switzerland is not in the EU. Swisscom charges <b>6.90 CHF for 500MB</b>
+        and <b>59.90 CHF for 10GB</b> EU roaming. Roami eSIM offers affordable multi-country
+        plans covering Switzerland and EU at local rates.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Seamless Coverage in Liechtenstein
+      desc: Sunrise has <b>no network in Liechtenstein</b>, charging <b>1 CHF/MB</b>
+        roaming. Roami eSIM includes Liechtenstein in its Swiss coverage, avoiding
+        surprise fees.
+    - icon: shield
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: Keep Your Home SIM Active
+      desc: Physical SIM requires removing your home SIM, risking missed bank verification
+        codes. Roami eSIM works alongside your home SIM, keeping your number active
+        for calls and SMS.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate Sunk Cost from Weekly Plans
+      desc: Swisscom's Prepaid Flat 7 costs <b>20 CHF for 7 days</b>; Lyca Mobile's
+        Surf UL is <b>19 CHF for 28 days</b>. For a 3-day trip, you waste over 50%
+        of the plan. Roami offers 7-day plans from <b>$1.99/GB</b>, paying only for
+        what you use.
 ---

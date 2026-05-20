@@ -1,6 +1,6 @@
 ---
 title: Laos eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Best Laos eSIM | High-Speed Data & Reliable 5G | Roami
   description: Traveling to Laos? Experience 24/7 Data and seamless Native 5G from
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/la.svg
   flag_alt: Laos Flag
   title: Laos eSIM data plan
-  subtitle: 24/7 customer support | No hidden fees | No ID required
+  subtitle: 24/7 customer support | No hidden fees | No ID required – The best prepaid
+    eSIM for Laos travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Laos eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -279,9 +280,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '6.33'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Laos eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Laos for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -320,11 +323,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Laos eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Laos.
   - icon: ⏰
@@ -339,8 +343,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -353,8 +358,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -676,7 +680,7 @@ faq_section:
         on the go using your Laos eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Laos eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -726,84 +730,116 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Laos eSIM vs Prepaid SIM: Which One Is Right for You?"
-  subtitle: "Laos Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Laos eSIM vs Prepaid SIM: Which One Is Right for You?'
+  subtitle: Laos Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Laos) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Laos"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Laos) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Laos
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Laos eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Laos eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Unitel SIM card costs 10,000 LAK (including 5,000 LAK balance and 200MB). Purchasing high-performance plans from Unitel and Lao Telecom requires visiting a specific store and submitting passport registration, facing English communication difficulties in Vientiane and provincial offices."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Unitel store queues and passport checks. Activate your eSIM online within 1 minute after landing in Vientiane, avoiding the 30-minute in-person process."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Unitel offers a compulsory KYC reward: after successful real-name registration, you get 1GB (7 days valid) and an extra 10,000 LAK credit. Passport registration is required to obtain bonus data and access 4G."
-      esim_title: "No Passport Required"
-      esim_desc: "Bypass Unitel's compulsory KYC that demands passport registration for 1GB bonus and 4G access. Roami eSIM activates without any ID, saving time and privacy."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Unitel provides roaming packs to Vietnam (Viettel) and Cambodia (Metfone), e.g., Cambodia 7 days 100,000 LAK unlimited. However, if you fail to select the correct network in Vietnam, roaming fees skyrocket to over 11,000 LAK/MB. TPlus global roaming can be as high as 200,000 LAK/MB."
-      esim_title: "Global Roaming Without Risk"
-      esim_desc: "Avoid Unitel's 11,000 LAK/MB roaming fees in Vietnam or TPlus's 200,000 LAK/MB global rates. Roami eSIM offers affordable multi-country plans with automatic network selection."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Unitel's Net SIM uses calendar-month billing: if activated on the 15th, you pay half but the plan expires at midnight on the last day of the month. A 7-day tourist buying a 30-day plan wastes over 70% of the plan's value."
-      esim_title: "Flexible Daily Plans"
-      esim_desc: "Unlike Unitel's calendar-month billing that wastes 70% of a 30-day plan for a 7-day trip, Roami offers 7-day data plans starting from $1.99/GB, paying only for what you use."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. However, based on common market practice, most Lao prepaid SIMs allow tethering but may throttle speeds after a certain data cap."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike some local SIMs that may throttle after a data cap. Stay connected on all your devices."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up can be done via ATM but may require a local debit card. International travelers may face difficulties purchasing scratch cards at roadside shops."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to find scratch cards or use local debit cards that often reject foreign transactions."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Lao Telecom's provincial offices have difficulty serving non-Lao speakers. ETL publishes promotions on Facebook, making it opaque. Customer support is primarily in Lao."
-      esim_title: "24/7 English Support"
-      esim_desc: "Get instant help in English via live chat or email, unlike Lao Telecom's provincial offices that struggle with non-Lao speakers or ETL's opaque Facebook-based support."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Unitel SIM card costs 10,000 LAK (including 5,000 LAK balance and
+      200MB). Purchasing high-performance plans from Unitel and Lao Telecom requires
+      visiting a specific store and submitting passport registration, facing English
+      communication difficulties in Vientiane and provincial offices.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Unitel store queues and passport checks. Activate your eSIM online
+      within 1 minute after landing in Vientiane, avoiding the 30-minute in-person
+      process.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: 'Unitel offers a compulsory KYC reward: after successful real-name
+      registration, you get 1GB (7 days valid) and an extra 10,000 LAK credit. Passport
+      registration is required to obtain bonus data and access 4G.'
+    esim_title: No Passport Required
+    esim_desc: Bypass Unitel's compulsory KYC that demands passport registration for
+      1GB bonus and 4G access. Roami eSIM activates without any ID, saving time and
+      privacy.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Unitel provides roaming packs to Vietnam (Viettel) and Cambodia
+      (Metfone), e.g., Cambodia 7 days 100,000 LAK unlimited. However, if you fail
+      to select the correct network in Vietnam, roaming fees skyrocket to over 11,000
+      LAK/MB. TPlus global roaming can be as high as 200,000 LAK/MB.
+    esim_title: Global Roaming Without Risk
+    esim_desc: Avoid Unitel's 11,000 LAK/MB roaming fees in Vietnam or TPlus's 200,000
+      LAK/MB global rates. Roami eSIM offers affordable multi-country plans with automatic
+      network selection.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: 'Unitel''s Net SIM uses calendar-month billing: if activated on
+      the 15th, you pay half but the plan expires at midnight on the last day of the
+      month. A 7-day tourist buying a 30-day plan wastes over 70% of the plan''s value.'
+    esim_title: Flexible Daily Plans
+    esim_desc: Unlike Unitel's calendar-month billing that wastes 70% of a 30-day
+      plan for a 7-day trip, Roami offers 7-day data plans starting from $1.99/GB,
+      paying only for what you use.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. However, based on
+      common market practice, most Lao prepaid SIMs allow tethering but may throttle
+      speeds after a certain data cap.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike some local SIMs
+      that may throttle after a data cap. Stay connected on all your devices.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up can be done via ATM but may require a local debit card. International
+      travelers may face difficulties purchasing scratch cards at roadside shops.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need to find scratch cards or use local debit cards that often reject foreign
+      transactions.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Lao Telecom's provincial offices have difficulty serving non-Lao
+      speakers. ETL publishes promotions on Facebook, making it opaque. Customer support
+      is primarily in Lao.
+    esim_title: 24/7 English Support
+    esim_desc: Get instant help in English via live chat or email, unlike Lao Telecom's
+      provincial offices that struggle with non-Lao speakers or ETL's opaque Facebook-based
+      support.
   expert_verdict:
-    title: "Laos eSIM vs Physical SIM: Which Is Better for Travel?"
+    title: 'Laos eSIM vs Physical SIM: Which Is Better for Travel?'
     cards:
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Escape the Calendar-Month Billing Trap"
-        desc: "Unitel's Net SIM uses calendar-month billing: a 7-day tourist buying a 30-day plan wastes over <b>70%</b> of the plan's value. Roami offers 7-day plans starting from <b>$1.99/GB</b>, paying only for what you use."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Sky-High Roaming Fees in Neighboring Countries"
-        desc: "Unitel charges over <b>11,000 LAK/MB</b> if you select the wrong network in Vietnam. TPlus global roaming can reach <b>200,000 LAK/MB</b>. Roami eSIM offers affordable multi-country plans with automatic network selection."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Laos' Strict SIM Passport Requirements"
-        desc: "Unitel requires passport registration to get 1GB bonus and access 4G. Roami eSIM activates instantly without any ID, saving you from visiting a store and waiting 30 minutes."
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "24/7 English Customer Support"
-        desc: "Get instant help in English via live chat or email. Unlike Lao Telecom's provincial offices that struggle with non-Lao speakers or ETL's opaque Facebook-based support."
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Escape the Calendar-Month Billing Trap
+      desc: 'Unitel''s Net SIM uses calendar-month billing: a 7-day tourist buying
+        a 30-day plan wastes over <b>70%</b> of the plan''s value. Roami offers 7-day
+        plans starting from <b>$1.99/GB</b>, paying only for what you use.'
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Sky-High Roaming Fees in Neighboring Countries
+      desc: Unitel charges over <b>11,000 LAK/MB</b> if you select the wrong network
+        in Vietnam. TPlus global roaming can reach <b>200,000 LAK/MB</b>. Roami eSIM
+        offers affordable multi-country plans with automatic network selection.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Laos' Strict SIM Passport Requirements
+      desc: Unitel requires passport registration to get 1GB bonus and access 4G.
+        Roami eSIM activates instantly without any ID, saving you from visiting a
+        store and waiting 30 minutes.
+    - icon: shield
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: 24/7 English Customer Support
+      desc: Get instant help in English via live chat or email. Unlike Lao Telecom's
+        provincial offices that struggle with non-Lao speakers or ETL's opaque Facebook-based
+        support.
 ---

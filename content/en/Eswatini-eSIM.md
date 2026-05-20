@@ -1,6 +1,6 @@
 ---
 title: Eswatini eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Eswatini eSIM | High-Speed 5G for Tourist Data | Roami
   description: Exploring Eswatini? Roami provides high-speed 5G mobile data on the
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/sz.svg
   flag_alt: Eswatini Flag
   title: Eswatini eSIM data plan
-  subtitle: High-speed 5G network | 24/7 customer support | Top rated
+  subtitle: High-speed 5G network | 24/7 customer support | Top rated – The best prepaid
+    eSIM for Eswatini travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Eswatini eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -106,9 +107,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '3.87'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Eswatini eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Eswatini for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -147,11 +150,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Eswatini eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Eswatini.
   - icon: ⏰
@@ -166,8 +170,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -180,8 +185,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -511,7 +515,7 @@ faq_section:
         on the go using your Eswatini eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Eswatini eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -561,84 +565,99 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Eswatini eSIM vs Physical SIM Card: What’s the Real Difference?"
-  subtitle: "Eswatini Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Eswatini eSIM vs Physical SIM Card: What’s the Real Difference?'
+  subtitle: Eswatini Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Eswatini) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Eswatini"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Eswatini) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Eswatini
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Eswatini eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Eswatini eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "SIM cards cost SZL 10 (MTN) or SZL 50 (Eswatini Mobile) and require in-store purchase with passport registration."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip MTN or Eswatini Mobile store queues and passport checks. Activate your eSIM online within 1 minute after landing in Mbabane."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "From 2018 on all SIM cards need to be registered by law; users face de-activation if they fail to register by April 1, 2019."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid handing over your passport to local retailers. Unlike Eswatini's mandatory SIM registration since 2018, eSIM requires zero personal ID."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Very few operators actually offer international roaming in Eswatini; not even all South African providers offer roaming there."
-      esim_title: "Seamless Cross-Border Roaming"
-      esim_desc: "MTN and Eswatini Mobile offer almost no international roaming. With eSIM, you automatically connect to networks in South Africa and Mozambique without changing SIM."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "All major data plans from MTN and Eswatini Mobile are strictly 30-day cycles; e.g., MTN 1GB costs SZL 150 for 30 days."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike MTN's 30-day cycle (SZL 150 for 1GB), Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market common sense, tethering is generally allowed but may be restricted on some plans."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "No hidden hotspot bans. Use your eSIM data freely on laptops and tablets, unlike some local plans that may restrict tethering."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up relies on scratch cards or till slips with PIN codes via *141*<PIN>#; no online payment with foreign cards mentioned."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Top up instantly with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to buy scratch cards or dial *141*<PIN>#."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market common sense, support is typically in local language during business hours."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get help anytime in English via live chat or email. No need to visit a store or call during limited local business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: SIM cards cost SZL 10 (MTN) or SZL 50 (Eswatini Mobile) and require
+      in-store purchase with passport registration.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip MTN or Eswatini Mobile store queues and passport checks. Activate
+      your eSIM online within 1 minute after landing in Mbabane.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: From 2018 on all SIM cards need to be registered by law; users face
+      de-activation if they fail to register by April 1, 2019.
+    esim_title: No Passport Required
+    esim_desc: Avoid handing over your passport to local retailers. Unlike Eswatini's
+      mandatory SIM registration since 2018, eSIM requires zero personal ID.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Very few operators actually offer international roaming in Eswatini;
+      not even all South African providers offer roaming there.
+    esim_title: Seamless Cross-Border Roaming
+    esim_desc: MTN and Eswatini Mobile offer almost no international roaming. With
+      eSIM, you automatically connect to networks in South Africa and Mozambique without
+      changing SIM.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: All major data plans from MTN and Eswatini Mobile are strictly 30-day
+      cycles; e.g., MTN 1GB costs SZL 150 for 30 days.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike MTN's 30-day cycle (SZL 150 for 1GB), Roami offers 7-day plans
+      starting from $1.99/GB, saving up to 75% waste for short trips.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market common
+      sense, tethering is generally allowed but may be restricted on some plans.
+    esim_title: Unrestricted Tethering
+    esim_desc: No hidden hotspot bans. Use your eSIM data freely on laptops and tablets,
+      unlike some local plans that may restrict tethering.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up relies on scratch cards or till slips with PIN codes via
+      *141*<PIN>#; no online payment with foreign cards mentioned.
+    esim_title: Global Payment Methods
+    esim_desc: Top up instantly with Visa, Mastercard, AMEX, Apple Pay, Google Pay,
+      or PayPal. No need to buy scratch cards or dial *141*<PIN>#.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market common
+      sense, support is typically in local language during business hours.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get help anytime in English via live chat or email. No need to visit
+      a store or call during limited local business hours.
   expert_verdict:
-    title: "Eswatini eSIM vs Prepaid SIM: Cost and Convenience Compared"
+    title: 'Eswatini eSIM vs Prepaid SIM: Cost and Convenience Compared'
     cards:
-      - icon: "wifi"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Unrestricted Hotspot Sharing"
-        desc: "No hidden tethering bans. Use your eSIM data on multiple devices, unlike some local plans that may restrict hotspot usage."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Roaming Blackout in Neighboring Countries"
-        desc: "MTN and Eswatini Mobile offer almost no international roaming. eSIM automatically connects to networks in South Africa and Mozambique."
-      - icon: "shield"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Keep Your Home SIM Active"
-        desc: "No need to remove your primary SIM. eSIM works alongside it, ensuring you never miss bank SMS or WhatsApp verification codes."
-      - icon: "globe"
-        icon_bg: "bg-cyan-100"
-        icon_color: "text-cyan-600"
-        title: "Instant Activation Without Store Visit"
-        desc: "No need to queue at MTN or Eswatini Mobile stores. Activate your eSIM online in 1 minute after landing in Mbabane."
+    - icon: wifi
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Unrestricted Hotspot Sharing
+      desc: No hidden tethering bans. Use your eSIM data on multiple devices, unlike
+        some local plans that may restrict hotspot usage.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Roaming Blackout in Neighboring Countries
+      desc: MTN and Eswatini Mobile offer almost no international roaming. eSIM automatically
+        connects to networks in South Africa and Mozambique.
+    - icon: shield
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Keep Your Home SIM Active
+      desc: No need to remove your primary SIM. eSIM works alongside it, ensuring
+        you never miss bank SMS or WhatsApp verification codes.
+    - icon: globe
+      icon_bg: bg-cyan-100
+      icon_color: text-cyan-600
+      title: Instant Activation Without Store Visit
+      desc: No need to queue at MTN or Eswatini Mobile stores. Activate your eSIM
+        online in 1 minute after landing in Mbabane.
 ---

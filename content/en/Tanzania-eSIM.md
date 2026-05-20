@@ -1,6 +1,6 @@
 ---
 title: Tanzania eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Tanzania eSIM |20% OFF| Reliable 5G for Family Vacations |Roami
   description: Heading to Tanzania soon? Get Roami's Zero-Lag 5G on Top Local Carrier
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/tz.svg
   flag_alt: Tanzania Flag
   title: Tanzania eSIM data plan
-  subtitle: Bestseller | Hotspot supported | 20% discount for a limited time
+  subtitle: Bestseller | Hotspot supported | 20% discount for a limited time – The
+    best prepaid eSIM for Tanzania travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Tanzania eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -246,9 +247,11 @@ plans_data:
     tagColor: bg-slate-800
     daily: '6.40'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Tanzania eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Tanzania for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -287,11 +290,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Tanzania eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Tanzania.
   - icon: ⏰
@@ -306,8 +310,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -320,8 +325,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -651,7 +655,7 @@ faq_section:
         on the go using your Tanzania eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Tanzania eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -701,84 +705,108 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Tanzania eSIM vs Prepaid SIM: Which One Is Right for You?"
-  subtitle: "Tanzania Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Tanzania eSIM vs Prepaid SIM: Which One Is Right for You?'
+  subtitle: Tanzania Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Tanzania) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Tanzania"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Tanzania) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Tanzania
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Tanzania eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Tanzania eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Tanzania SIM cards can be purchased at airports or street vendors, but must comply with biometric registration laws requiring fingerprints and passport; Zantel SIM cards are available at Zanzibar Airport but still require registration."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport queues and biometric registration. Activate your eSIM online within 1 minute before landing in Tanzania."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Since 2019, Tanzania has enforced biometric SIM registration requiring fingerprints and passport; each person is limited to one SIM per operator unless specially approved by TCRA."
-      esim_title: "No Passport or Fingerprints"
-      esim_desc: "Avoid Tanzania's mandatory biometric SIM registration (fingerprints + passport). Roami eSIM requires zero personal ID."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Local prepaid plans from Vodacom, Tigo, and Airtel are designed for domestic use and do not include international roaming; travelers crossing into Kenya or Uganda need to buy a new SIM."
-      esim_title: "Seamless Cross-Border Roaming"
-      esim_desc: "Unlike local SIMs that die at the border, Roami eSIM works in Kenya, Uganda, and 100+ countries without changing SIM."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Major plans are 30-day cycles (e.g., Vodacom 10GB/TSH 35000, Airtel 10GB/TSH 20000); short-term plans (1-7 days) exist but have poor value (e.g., Vodacom 1GB/TSH 2000 for 1 day)."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Vodacom's 30-day cycle (10GB/TSH 35000), Roami offers 7-day plans starting from $1.99/GB, saving up to 80% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed but may be restricted on some plans; out-of-bundle rates are high (TSH 282/MB)."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Tether freely without extra fees. No risk of out-of-bundle charges (TSH 282/MB) common on local SIMs."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up is available at numerous street vendors, but foreign tourists may face inflated prices; Tigo 4G SIM card costs TSH 5000 at service centers vs TSH 1000 for regular SIM, creating price opacity."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No cash or local currency needed."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is typically in Swahili and English, with limited hours; no dedicated live chat for prepaid."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get help in English anytime via live chat or email. No language barriers or limited hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Tanzania SIM cards can be purchased at airports or street vendors,
+      but must comply with biometric registration laws requiring fingerprints and
+      passport; Zantel SIM cards are available at Zanzibar Airport but still require
+      registration.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip airport queues and biometric registration. Activate your eSIM
+      online within 1 minute before landing in Tanzania.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Since 2019, Tanzania has enforced biometric SIM registration requiring
+      fingerprints and passport; each person is limited to one SIM per operator unless
+      specially approved by TCRA.
+    esim_title: No Passport or Fingerprints
+    esim_desc: Avoid Tanzania's mandatory biometric SIM registration (fingerprints
+      + passport). Roami eSIM requires zero personal ID.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Local prepaid plans from Vodacom, Tigo, and Airtel are designed
+      for domestic use and do not include international roaming; travelers crossing
+      into Kenya or Uganda need to buy a new SIM.
+    esim_title: Seamless Cross-Border Roaming
+    esim_desc: Unlike local SIMs that die at the border, Roami eSIM works in Kenya,
+      Uganda, and 100+ countries without changing SIM.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Major plans are 30-day cycles (e.g., Vodacom 10GB/TSH 35000, Airtel
+      10GB/TSH 20000); short-term plans (1-7 days) exist but have poor value (e.g.,
+      Vodacom 1GB/TSH 2000 for 1 day).
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike Vodacom's 30-day cycle (10GB/TSH 35000), Roami offers 7-day
+      plans starting from $1.99/GB, saving up to 80% waste for short trips.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      tethering is generally allowed but may be restricted on some plans; out-of-bundle
+      rates are high (TSH 282/MB).
+    esim_title: Unrestricted Tethering
+    esim_desc: Tether freely without extra fees. No risk of out-of-bundle charges
+      (TSH 282/MB) common on local SIMs.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up is available at numerous street vendors, but foreign tourists
+      may face inflated prices; Tigo 4G SIM card costs TSH 5000 at service centers
+      vs TSH 1000 for regular SIM, creating price opacity.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No cash or local currency needed.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      customer support is typically in Swahili and English, with limited hours; no
+      dedicated live chat for prepaid.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get help in English anytime via live chat or email. No language barriers
+      or limited hours.
   expert_verdict:
-    title: "Tanzania eSIM or SIM Card for Tourists: Which Should You Choose?"
+    title: 'Tanzania eSIM or SIM Card for Tourists: Which Should You Choose?'
     cards:
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, Apple Pay"
-        desc: "Street vendors may overcharge tourists (e.g., Tigo 4G SIM costs TSH 5000 vs TSH 1000). Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot & Tethering"
-        desc: "Local SIMs charge TSH 282/MB out-of-bundle. Roami eSIM allows tethering at full speed with no extra fees."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation Before Landing"
-        desc: "No need to find a Vodacom or Tigo shop at the airport. Install Roami eSIM at home and activate upon arrival in Tanzania."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Tanzania's Biometric SIM Registration"
-        desc: "Since 2019, all Tanzanian prepaid SIMs require fingerprints and passport registration. Roami eSIM needs zero personal ID, saving 30+ minutes at the airport."
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Visa, Mastercard, Apple Pay
+      desc: Street vendors may overcharge tourists (e.g., Tigo 4G SIM costs TSH 5000
+        vs TSH 1000). Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay,
+        PayPal.
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Unrestricted Hotspot & Tethering
+      desc: Local SIMs charge TSH 282/MB out-of-bundle. Roami eSIM allows tethering
+        at full speed with no extra fees.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation Before Landing
+      desc: No need to find a Vodacom or Tigo shop at the airport. Install Roami eSIM
+        at home and activate upon arrival in Tanzania.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Tanzania's Biometric SIM Registration
+      desc: Since 2019, all Tanzanian prepaid SIMs require fingerprints and passport
+        registration. Roami eSIM needs zero personal ID, saving 30+ minutes at the
+        airport.
 ---

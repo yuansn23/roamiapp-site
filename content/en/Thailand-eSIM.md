@@ -1,6 +1,6 @@
 ---
 title: Thailand eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,12 +14,12 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Thailand eSIM Plan | AIS Zero-Lag 5G | Unlimited Data | Roami
+  title: Thailand eSIM Plan | 20% OFF| Unlimited Data | Roami
   description: Heading to Thailand soon? Get Roami's Full-Speed 5G on True with Worry-Free
     Data. Enjoy Unlimited Data and Seamless Coverage, tailored for Visiting Family.
   keywords: Thailand eSIM, cheap data, AIS, TrueMove, travel internet, no roaming,
@@ -46,9 +46,10 @@ hero:
   flag_image: img/flags/th.svg
   flag_alt: Thailand Flag
   title: Thailand eSIM data plan
-  subtitle: No hidden fees | Worry-free internet | 24/7 customer support
+  subtitle: No hidden fees | Worry-free internet | 24/7 customer support – The best
+    prepaid eSIM for Thailand travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Thailand eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -285,9 +286,11 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.67'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Thailand eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Thailand for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -326,11 +329,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Thailand eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Thailand.
   - icon: ⏰
@@ -345,8 +349,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -359,8 +364,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -370,327 +374,156 @@ activation_steps:
       using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: Thailand eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Thailand eSIM across different
-    travel scenarios.
+  title: "The Ultimate Guide to eSIM Data Plans for thailand"
+  desc: "From the bustling streets of Bangkok to the serene beaches of Phuket, an eSIM keeps you connected on local networks like AIS, DTAC, and TrueMove. Whether you are a tourist exploring temples or a business traveler needing reliable data, our guide covers everything you need to know about eSIMs in Thailand."
   categories:
-  - id: faq-general
-    icon: help-circle
-    tab_title: General
-    title: 1. General Questions
-    questions:
-    - q: Does my phone support the Thailand eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Thailand eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Thailand eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Thailand
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Thailand eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Thailand eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Thailand that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Thailand eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Thailand eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Thailand eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Thailand eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Thailand,
-        such as AIS, TrueMove, dtac, to ensure premium speeds at a fraction of roaming
-        costs.
-    - q: How do you compare with well-known eSIM providers like Nomad eSIM, Airalo,
-        esim io, Holafly?
-      a: While great companies like Nomad eSIM, Airalo, esim io, Holafly offer reliable
-        services, we focus on providing the most cost-effective Thailand eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
-    questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Thailand eSIM before your flight. Once you land at Suvarnabhumi
-        Airport, Don Mueang International Airport, Phuket International Airport, simply
-        turn off Airplane Mode and enable your eSIM line. It will connect to the local
-        4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Thailand eSIM activated upon landing, you can immediately open
-        Grab, Bolt, Line Man to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Thailand eSIM data allows you to open Google Maps right at
-        the baggage claim in Suvarnabhumi Airport, Don Mueang International Airport,
-        Phuket International Airport to check real-time train schedules, bus routes,
-        or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Thailand eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Thailand eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Thailand eSIM cellular data to let your family know you've arrived
-        safely.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
-    questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Thailand eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Thailand, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Grab, Bolt, Line Man use VoIP (internet calling) and in-app messaging.
-        Since you have active Thailand eSIM data, drivers can call or message you
-        directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Thailand eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Thailand eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Thailand.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Thailand eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Thailand eSIM's data network while on
-        the train or in the car.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
-    questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Thailand eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Thailand eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Mandarin Oriental Bangkok, The Siam Hotel, Anantara
-        Chiang Mai Resort or a local guesthouse, you can input the address into Google
-        Maps and get turn-by-turn walking or transit directions using your Thailand
-        eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Thailand eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Thailand eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download GrabFood, Foodpanda, Lineman and use
-        your Thailand eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Thailand eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
-    questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Grand Palace, Wat Phra Kaew, Wat Arun spontaneously,
-        you can use your Thailand eSIM data to buy skip-the-line tickets online and
-        present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Thailand eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Thailand.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Thailand eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Thailand eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Thailand eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Thailand eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Thailand eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Thailand eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Thailand eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Thailand eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like GrabFood, Foodpanda, Lineman, register using
-        your email or social accounts, and order food seamlessly using your Thailand
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like PromptPay,
-        TrueMoney Wallet, Rabbit LINE Pay require a brief internet handshake, which
-        your Thailand eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Thailand eSIM to find hidden culinary gems in the city.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
-    questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Thailand eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Thailand eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Thailand eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Thailand
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Thailand eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Thailand eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Thailand eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
-    questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Thailand, you can dial local emergency numbers like 191 (police), 1669
-        (ambulance), 1155 (tourist police) directly from your phone's dialer regardless
-        of your active SIM, as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Thailand eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Thailand eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Thailand eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Thailand eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Thailand eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Thailand eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Thailand eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Thailand eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Thailand eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Thailand eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Thailand eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Thailand eSIM to update them on flight delays or schedule
-        changes.
+    - id: faq-general
+      icon: help-circle
+      tab_title: General
+      title: "1. General Questions About thailand eSIM"
+      questions:
+        - q: "What makes an eSIM the best choice for traveling to Thailand?"
+          a: "An eSIM for Thailand offers instant activation without needing a physical SIM card, which is ideal for tourists arriving at airports. You can purchase and set it up online before your trip, ensuring data connectivity from the moment you land. Plans from providers like Roami connect to AIS or DTAC networks, offering stable 5G/4G speeds. This convenience makes it the best eSIM for Thailand for hassle-free travel."
+        - q: "How do I choose an esim thailand plan for my trip duration?"
+          a: "Thailand eSIM plans come in various durations to match your travel length, such as 3, 7, 15, or 30 days. For a short weekend trip, a 3-day plan with 3GB for $2.99 is perfect for sightseeing and navigation. For longer stays, a 30-day plan like 10GB for $11.99 provides ample data for in-depth exploration without worrying about running out. Consider your daily usage to select the best esim for Thailand that balances cost and data needs."
+        - q: "Can I use an esim thailand iphone or Android device?"
+          a: "Yes, eSIM technology is supported on most modern smartphones, including iPhones from the XS model onwards and many Android devices. When you buy eSIM Thailand, you will receive a QR code to scan for installation, which works seamlessly on both platforms. Ensure your phone is unlocked to use a Thai eSIM, as carrier-locked devices may not accept foreign profiles. This compatibility makes an eSIM card Thailand a versatile option for all travelers."
+        - q: "Is a thailand esim unlimited data plan worth it for heavy users?"
+          a: "For travelers who stream videos, use social media heavily, or work online, an unlimited data eSIM Thailand plan can be a great value. The 7-day unlimited plan is priced at $18.99, offering worry-free usage without monitoring data caps. However, if your usage is moderate, a 30-day 50GB plan for $36.99 provides high-speed data at a lower daily cost of $1.23. Compare your needs against these options to find the best eSIM for Thailand for your lifestyle."
+        - q: "What are the main local operators for an esim in thailand?"
+          a: "The primary mobile networks in Thailand are AIS, DTAC, and TrueMove, which offer extensive coverage across the country. An eSIM Thailand typically connects to one of these operators, providing reliable 4G and 5G speeds. For instance, Roami uses AIS and DTAC networks, ensuring strong signals in both urban and rural areas. This partnership allows you to enjoy the best eSIM in Thailand with consistent performance."
+        - q: "How does a thai esim compare to a physical SIM from the airport?"
+          a: "A Thai eSIM is more convenient than a physical SIM because you can purchase and activate it before your trip, avoiding queues at airport kiosks. Physical SIMs from providers like AIS or DTAC require you to find a store and install the card, while an eSIM is set up in minutes via a QR code. Additionally, eSIM plans often offer competitive pricing, such as a 15-day 10GB plan for $9.99, which is comparable to in-store deals. This digital option is a top choice for the best eSIM for Thailand."
+        - q: "Can I keep my home number while using an esim thailand tourist plan?"
+          a: "Yes, you can maintain your home number for calls and texts by using your physical SIM slot for it, while your eSIM Thailand tourist plan handles data. Most smartphones support dual SIM functionality, allowing you to switch between networks easily. This setup lets you use apps like WhatsApp for messaging over your Thai data connection, ensuring you stay reachable. It is a seamless way to use an eSIM for Thailand without losing your regular number."
+        - q: "What is the process to buy esim thailand online?"
+          a: "To buy eSIM Thailand online, simply visit a provider's website, select your desired plan based on data and duration, and complete the purchase. You will receive a QR code via email, which you scan in your phone's settings to install the eSIM profile. The activation happens instantly, often within minutes, so you can set it up before your flight. This process makes purchasing a thailand eSIM online quick and straightforward for any traveler."
+        - q: "Are there any restrictions on using a thailand esim for tourist activities?"
+          a: "Thailand eSIM tourist plans are designed for typical travel activities like navigation, social media, and streaming without restrictions. However, some plans may have fair usage policies for unlimited data, which could slow speeds after heavy use. Always check the plan details to ensure it meets your needs, such as a 30-day 50GB plan for $36.99 that offers high-speed data throughout. This flexibility makes the best eSIM in Thailand suitable for all tourist activities."
+        - q: "How do I check my data balance on an esim thailand ais or dtac network?"
+          a: "You can monitor your data balance through your phone's settings under the mobile data section for the eSIM profile. Some providers also offer a companion app or a USSD code to check usage, though this varies by carrier. For a thailand eSIM AIS or DTAC network, it is recommended to use the provider's app for accurate tracking. Keeping an eye on your balance helps you avoid unexpected data depletion during your trip."
+    - id: faq-airport
+      icon: airplane
+      tab_title: Airports
+      title: "2. thailand eSIM at Airports"
+      questions:
+        - q: "Can I activate my esim bangkok immediately after landing at Suvarnabhumi?"
+          a: "Yes, you can activate your eSIM Bangkok plan as soon as you land by using the airport's free Wi-Fi for initial setup. The activation process takes just a few minutes, providing instant data connectivity. This allows you to book a taxi or contact your hotel without delay. Having a Thailand eSIM ready ensures a smooth start to your trip."
+        - q: "Is it cheaper to buy an esim thailand before arriving at the airport?"
+          a: "Buying an eSIM Thailand online before your trip is often more affordable than purchasing a physical SIM at airport kiosks. For example, a 7-day 5GB plan costs $5.99 online, while airport stores may charge higher prices for similar data. Additionally, you avoid long queues and save time, making it a cost-effective choice. This pre-purchase strategy is ideal for finding the best eSIM for Thailand deals."
+        - q: "What if I have trouble setting up my esim in thailand at the airport?"
+          a: "If you encounter issues, most airports in Thailand, including those in Bangkok and Phuket, have reliable free Wi-Fi to troubleshoot the setup. You can contact your eSIM provider's customer support via chat or email for assistance. The QR code installation is straightforward, but having a backup plan like a portable hotspot can be helpful. This ensures you stay connected even during initial configuration."
+        - q: "Which esim phuket plan is best for arriving at Phuket International Airport?"
+          a: "For a trip starting at Phuket International Airport, a 15-day 10GB plan for $9.99 is a great balance of data and value. This plan provides enough high-speed data for navigation, social media, and exploring the island's attractions. You can activate it using the airport's Wi-Fi, ensuring you are connected from the moment you step out. This makes it a top choice for a Phuket eSIM."
+        - q: "Are there any eSIM kiosks at Thai airports for instant purchase?"
+          a: "While physical SIM kiosks from AIS and DTAC are common, eSIM purchases are primarily done online before your trip. Some providers may offer QR codes at airport stores, but it is more convenient to buy a Thailand eSIM in advance. This ensures you get the best rates and avoid airport crowds. For immediate needs, you can purchase online and activate using airport Wi-Fi."
+    - id: faq-transport
+      icon: train
+      tab_title: Transport
+      title: "3. thailand eSIM for Transport"
+      questions:
+        - q: "Can I use a thailand esim for ride-hailing apps like Grab?"
+          a: "Yes, a Thailand eSIM works perfectly with ride-hailing apps like Grab, which require a stable data connection to book rides. With a 3GB 3-day plan for $2.99, you can easily navigate Bangkok's traffic and communicate with your driver. The high-speed 4G/5G network ensures real-time tracking and reliable service. This makes an eSIM essential for transport in Thailand."
+        - q: "How much data do I need for navigation during a trip to Thailand?"
+          a: "For navigation apps like Google Maps, a 5GB 7-day plan for $5.99 provides ample data for driving and walking directions across the country. This amount covers daily use for finding routes to attractions, restaurants, and hotels without significant data consumption. If you travel extensively, a 10GB plan for $8.99 over 15 days offers extra security. These plans are ideal for the best eSIM for Thailand transport needs."
+        - q: "Will my esim thailand work on trains between Bangkok and Chiang Mai?"
+          a: "Yes, an eSIM Thailand that connects to AIS or DTAC networks provides coverage along major rail routes like Bangkok to Chiang Mai. While speeds may vary in remote areas, you can expect reliable data for entertainment and updates during the journey. A 30-day 50GB plan for $36.99 is perfect for long train rides with streaming capabilities. This ensures you stay connected throughout your travel."
+        - q: "Can I use a thailand esim for motorcycle rentals in Phuket?"
+          a: "Absolutely, a Phuket eSIM allows you to use GPS navigation for exploring the island on a motorcycle. A 15-day 5GB plan for $6.99 is sufficient for daily routes, finding gas stations, and checking local traffic. The high-speed connection helps you avoid getting lost and enhances your travel experience. This makes an eSIM a valuable tool for independent transport."
+        - q: "Is there a reliable esim bangkok for using the BTS Skytrain app?"
+          a: "Yes, an eSIM Bangkok provides a stable connection for the BTS Skytrain app, which requires data for route planning and ticket purchases. A 7-day 3GB plan for $3.99 is enough for navigating the city's public transit system efficiently. The app runs smoothly on 4G/5G, ensuring you catch your train on time. This connectivity is key for urban transport in Bangkok."
+    - id: faq-hotels
+      icon: building
+      tab_title: Hotels
+      title: "4. thailand eSIM for Hotels"
+      questions:
+        - q: "Do I need an esim thailand if my hotel offers free Wi-Fi?"
+          a: "Hotel Wi-Fi can be convenient, but it often requires login pages or has slow speeds during peak hours. An eSIM Thailand ensures you have a private, fast connection wherever you go, not just within the hotel. For $5.99 for a 30-day 3GB plan, you can browse, stream, and work without relying on hotel networks. This independence is why many travelers choose the best eSIM for Thailand."
+        - q: "Can I use a thailand esim to stream movies in my hotel room?"
+          a: "Yes, with an unlimited data eSIM Thailand plan for 7 days at $18.99, you can stream movies in high definition without worrying about data limits. This plan provides worry-free usage, perfect for relaxing after a day of sightseeing. The high-speed connection supports platforms like Netflix and YouTube seamlessly. It is an excellent choice for hotel entertainment."
+        - q: "How do I set up my esim in thailand when staying at a resort in Phuket?"
+          a: "Setting up your eSIM Thailand at a Phuket resort is easy; just connect to the resort's Wi-Fi to scan the QR code from your purchase email. The activation takes minutes, and you will have data for resort activities and local exploration. A 15-day 10GB plan for $9.99 is ideal for balancing resort relaxation with off-site adventures. This ensures you stay connected throughout your stay."
+        - q: "Is a thailand esim better than hotel Wi-Fi for business calls?"
+          a: "Yes, an eSIM Thailand offers more stable and secure connections for business calls compared to hotel Wi-Fi, which can be unreliable. With a 30-day 20GB plan for $19.99, you can conduct video conferences and send large files without interruptions. The dedicated data line ensures privacy and consistent speeds. This makes an eSIM the best eSIM for Thailand for business travelers."
+        - q: "Can I share my thailand esim data with friends at the hotel?"
+          a: "Most eSIM plans allow you to enable a personal hotspot, so you can share your data with friends or family at the hotel. For example, a 30-day 50GB plan for $36.99 provides enough data for multiple devices. This feature is useful for group travel where only one person has an eSIM. Check your plan's terms to ensure hotspot support is included."
+    - id: faq-attractions
+      icon: landmark
+      tab_title: Attractions
+      title: "5. thailand eSIM for Attractions"
+      questions:
+        - q: "Can I use a thailand esim to buy tickets online for the Grand Palace?"
+          a: "Yes, an eSIM Thailand allows you to browse and purchase tickets for attractions like the Grand Palace using mobile data. A 3GB 3-day plan for $2.99 is sufficient for checking schedules and completing transactions on the go. The fast connection ensures pages load quickly, even in crowded areas. This convenience makes an eSIM ideal for exploring Thailand's top sights."
+        - q: "What esim thailand plan is best for visiting multiple temples in a day?"
+          a: "For a day of temple hopping in Bangkok or Chiang Mai, a 5GB 7-day plan for $5.99 provides enough data for navigation, history apps, and sharing photos. This plan covers moderate usage like looking up temple information and posting on social media. The high-speed data helps you make the most of your cultural visits. It is a practical choice for the best eSIM for Thailand attractions."
+        - q: "Will I have data coverage at popular attractions like the Phi Phi Islands?"
+          a: "Major attractions like the Phi Phi Islands have good coverage on AIS and DTAC networks, which are used by most eSIM Thailand providers. While speeds may be slower in remote spots, you can still access maps and messaging. A 30-day 10GB plan for $11.99 ensures you have data for the entire trip, including island visits. This reliability is key for enjoying Thailand's natural wonders."
+        - q: "Can I use a thailand esim for live-streaming at festivals like Songkran?"
+          a: "Yes, an unlimited data eSIM Thailand plan for 7 days at $18.99 is perfect for live-streaming Songkran or other festivals without data concerns. The high-speed connection supports real-time video sharing on platforms like Instagram and Facebook. This allows you to share your experiences with friends and family instantly. It is a top choice for immersive event coverage."
+        - q: "How does an esim in thailand help with finding local food markets?"
+          a: "An eSIM in Thailand enables you to use apps like Google Maps or food review sites to discover local markets and street food stalls. With a 15-day 3GB plan for $4.99, you can search for top-rated spots and navigate there efficiently. The data connection also allows you to translate menus and read reviews. This enhances your culinary adventures across Thailand."
+    - id: faq-social
+      icon: message-circle
+      tab_title: Social & Messaging
+      title: "6. thailand eSIM for Social Media"
+      questions:
+        - q: "Can I use a thailand esim to post on Instagram and TikTok?"
+          a: "Yes, an eSIM Thailand provides the data speed needed to upload photos and videos to Instagram and TikTok seamlessly. A 5GB 7-day plan for $5.99 supports daily posting and browsing without buffering. The 4G/5G network ensures high-quality uploads, even in busy tourist spots. This makes it easy to share your travel moments in real-time."
+        - q: "What is the best esim thailand for staying in touch with family via WhatsApp?"
+          a: "For staying connected via WhatsApp calls and messages, a 30-day 3GB plan for $5.99 is a budget-friendly option. This amount covers daily communication, including voice and video calls, without consuming too much data. The stable connection ensures clear calls, even in areas with moderate signal. It is one of the best eSIM in Thailand for messaging."
+        - q: "Can I use a thailand esim for video calls on FaceTime or Zoom?"
+          a: "Yes, an eSIM Thailand supports video calls on FaceTime and Zoom, but higher data plans are recommended for smooth performance. A 30-day 20GB plan for $19.99 provides ample data for multiple video calls during your trip. The high-speed connection minimizes lag and ensures clear video quality. This is ideal for travelers who need to stay in touch professionally or personally."
+        - q: "Is there a thailand esim plan that works well for browsing Reddit and Twitter?"
+          a: "A 7-day 3GB plan for $3.99 is more than sufficient for browsing social media platforms like Reddit and Twitter throughout your trip. This plan offers a good balance of data and cost, allowing you to stay updated without overspending. The fast network ensures quick loading of threads and tweets. It is a practical choice for casual social media use."
+        - q: "Can I use a thailand esim to access Facebook and Messenger?"
+          a: "Absolutely, an eSIM Thailand provides reliable access to Facebook and Messenger for sharing updates and chatting with friends. A 15-day 5GB plan for $6.99 covers moderate usage like posting photos and sending messages. The connection is stable across Thailand, from cities to rural areas. This keeps you socially connected throughout your journey."
+    - id: faq-crossborder
+      icon: globe
+      tab_title: Cross-border
+      title: "7. thailand eSIM for Cross-Border Travel"
+      questions:
+        - q: "Can I use my thailand esim in neighboring countries like Cambodia?"
+          a: "Most Thailand eSIM plans are designed for use within Thailand only and may not work across borders. If you plan to visit Cambodia or Laos, consider a regional eSIM that covers multiple countries. Some providers offer cross-border plans, so check before you buy. For seamless travel, look for a plan that includes Thailand and its neighbors."
+        - q: "What happens to my esim thailand data when I fly to another country?"
+          a: "When you leave Thailand, your eSIM Thailand data will stop working unless you have a regional or global plan. You will need to purchase a new eSIM for the next country or choose a multi-country plan in advance. Roaming charges may apply if you continue using the Thai eSIM, so it is best to switch profiles. Planning ahead ensures you stay connected across borders."
+        - q: "Is there a thailand esim that works in both Thailand and Malaysia?"
+          a: "Yes, some providers offer regional eSIMs that cover Thailand, Malaysia, and other Southeast Asian countries. These plans allow you to use the same profile across borders without changing SIMs. For example, a 30-day 10GB plan might be available for multiple countries at a similar price to $11.99. This is convenient for travelers exploring the region."
+        - q: "Can I add data to my esim in thailand while traveling in another country?"
+          a: "Adding data to a Thailand eSIM while abroad is possible if you have an internet connection, but the plan may not activate until you return to Thailand. It is recommended to purchase a new eSIM for each country to avoid complications. Some providers allow top-ups online, but coverage is limited to the original country. Check with your provider for specific policies."
+        - q: "What is the best esim for thailand for a multi-country trip?"
+          a: "For a multi-country trip, a regional eSIM covering Thailand, Vietnam, and Cambodia is the best choice to avoid multiple purchases. These plans offer flexible data amounts, such as 10GB for 30 days, at competitive prices. They connect to local networks in each country, ensuring reliable service. This simplifies connectivity for travelers exploring Southeast Asia."
+    - id: faq-emergency
+      icon: alert-triangle
+      tab_title: Emergencies
+      title: "8. thailand eSIM for Emergencies"
+      questions:
+        - q: "Can I use a thailand esim to call emergency services like 191?"
+          a: "Yes, even with an eSIM Thailand, you can dial emergency numbers like 191 for police or 1669 for ambulance services. Emergency calls do not require an active data plan, as they are routed through any available network. However, having data allows you to share your location via apps. This feature provides peace of mind during your travels."
+        - q: "Will my esim in thailand work if my phone battery dies?"
+          a: "No, your eSIM in Thailand requires a charged phone to function, so carrying a power bank is essential for emergencies. You can stay connected by using portable chargers or finding charging points in public areas. The eSIM itself remains active, but device power is necessary to access it. Always plan for battery life to ensure connectivity."
+        - q: "How can a thailand esim help in a medical emergency?"
+          a: "An eSIM Thailand allows you to quickly search for nearby hospitals or clinics using maps and contact them via messaging apps. With a reliable data connection, you can also call for an ambulance or inform your travel insurance provider. A 30-day 10GB plan for $11.99 ensures you have data throughout your trip for such situations. This connectivity is vital for handling unexpected health issues."
+        - q: "Is it possible to share my location with family using a thailand esim during an emergency?"
+          a: "Yes, you can share your real-time location with family via apps like Google Maps or WhatsApp using your eSIM Thailand data. A 5GB 7-day plan for $5.99 provides enough data for this purpose, even in stressful situations. The high-speed connection ensures accurate location sharing, helping loved ones track you. This feature enhances safety during your travels."
+        - q: "What should I do if I lose my phone with my esim thailand installed?"
+          a: "If you lose your phone, contact your eSIM provider immediately to suspend the service and prevent misuse. You can also use a friend's device to log into your account and deactivate the eSIM profile. Having a backup of your QR code stored securely online allows you to reinstall it on a new device. This process helps protect your data and connectivity."
+    - id: faq-business
+      icon: briefcase
+      tab_title: Business
+      title: "9. thailand eSIM for Business Travelers"
+      questions:
+        - q: "Can I use a thailand esim for work emails and cloud access?"
+          a: "Yes, an eSIM Thailand provides the stable data connection needed for accessing work emails and cloud services like Google Drive or Dropbox. A 30-day 20GB plan for $19.99 offers ample data for daily business tasks, including file uploads and downloads. The high-speed 4G/5G network ensures efficient productivity. This makes it a reliable tool for business travelers."
+        - q: "Is a thailand esim suitable for video conferencing with clients?"
+          a: "Absolutely, an eSIM Thailand supports video conferencing platforms like Zoom and Microsoft Teams with smooth performance. An unlimited data 7-day plan for $18.99 allows for multiple meetings without worrying about data caps. The connection quality is sufficient for professional calls, even in co-working spaces or hotels. This is ideal for maintaining client relationships on the go."
+        - q: "Can I use a thailand esim for a dedicated business number?"
+          a: "An eSIM Thailand can be used for a separate data line, but voice calls typically require VoIP apps like Skype or Google Voice. You can set up a virtual number through these apps to manage business calls separately. This approach keeps your personal and professional communications distinct while traveling. It is a flexible solution for business travelers."
+        - q: "What is the best esim thailand for a short business trip?"
+          a: "For a short business trip of 3 days, a 3GB plan for $2.99 provides sufficient data for emails, navigation, and light browsing. This plan is cost-effective and covers essential tasks without excess data. The high-speed connection ensures you stay productive during brief visits. It is a top choice for the best eSIM for Thailand for business."
+        - q: "Can I use a thailand esim for secure VPN connections?"
+          a: "Yes, an eSIM Thailand supports VPN connections, allowing you to access company networks securely while abroad. A 30-day 10GB plan for $11.99 is adequate for VPN usage, provided you manage data wisely. The stable network ensures minimal interruptions during secure sessions. This is crucial for handling sensitive business information while traveling."
 related_products:
-  title: Related eSIM Plans
+  title: Related Thailand eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -740,84 +573,111 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Thailand eSIM vs Physical SIM: Which Is Better for Travel?"
-  subtitle: "Thailand Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Thailand eSIM vs Physical SIM: Which Is Better for Travel?'
+  subtitle: Thailand Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Thailand) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Thailand"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Thailand) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Thailand
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Thailand eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Thailand eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "At BKK airport arrival halls, AIS, dtac, and TrueMove H counters require queuing; activation involves passport copy, facial scan or fingerprint, and KYC registration, taking 30-45 minutes. Late-night arrivals cannot activate at convenience stores due to closed registration systems."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport queues and biometric registration. Activate Roami eSIM online within 1 minute after landing in Bangkok, avoiding 30-45 minute waits at AIS, dtac, or TrueMove counters."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Since 2017, mandatory biometric KYC requires facial scanning or fingerprint collection for all SIM purchases; foreigners' facial information is matched against passport databases."
-      esim_title: "No Passport or Biometrics"
-      esim_desc: "Unlike mandatory facial scanning and fingerprinting required by Thai law since 2017, Roami eSIM requires no identity verification. No passport copy or biometric data needed."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "AIS SIM2Fly and dtac Go Inter offer 6GB/10 days for 399 THB for Asia roaming, but are separate SIMs; regular local plans throttle to 384 kbps after data exhaustion."
-      esim_title: "Global Roaming Without Throttling"
-      esim_desc: "Avoid AIS SIM2Fly's 6GB/10-day cap (399 THB) and 384 kbps throttle. Roami offers multi-country plans with full-speed data across Asia, no separate roaming SIM required."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "AIS Lucky SIM 8-day plan costs 299 THB for 15GB; dtac Happy Tourist SIM 8-day plan costs 299 THB for 15GB. A 5-day trip wastes nearly 3 days of service."
-      esim_title: "Flexible Plans, No Waste"
-      esim_desc: "Unlike fixed 8-day plans (AIS 299 THB/15GB) that waste 3 days on a 5-day trip, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% of sunk cost."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "TrueMove H explicitly bans tethering on unlimited data plans; DNS detection blocks hotspot and may disconnect the device."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "TrueMove H bans hotspot on unlimited plans via DNS blocking. Roami allows full-speed tethering on all plans, no restrictions."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "AIS official website states international credit cards 'many of them do not work'; 7-Eleven does not sell AIS top-ups anymore."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Avoid AIS's unreliable international credit card top-up. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal for seamless purchase."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Unlike limited local support, Roami provides 24/7 English chat and email support, ensuring help anytime during your Thailand trip."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: At BKK airport arrival halls, AIS, dtac, and TrueMove H counters
+      require queuing; activation involves passport copy, facial scan or fingerprint,
+      and KYC registration, taking 30-45 minutes. Late-night arrivals cannot activate
+      at convenience stores due to closed registration systems.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip airport queues and biometric registration. Activate Roami eSIM
+      online within 1 minute after landing in Bangkok, avoiding 30-45 minute waits
+      at AIS, dtac, or TrueMove counters.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Since 2017, mandatory biometric KYC requires facial scanning or
+      fingerprint collection for all SIM purchases; foreigners' facial information
+      is matched against passport databases.
+    esim_title: No Passport or Biometrics
+    esim_desc: Unlike mandatory facial scanning and fingerprinting required by Thai
+      law since 2017, Roami eSIM requires no identity verification. No passport copy
+      or biometric data needed.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: AIS SIM2Fly and dtac Go Inter offer 6GB/10 days for 399 THB for
+      Asia roaming, but are separate SIMs; regular local plans throttle to 384 kbps
+      after data exhaustion.
+    esim_title: Global Roaming Without Throttling
+    esim_desc: Avoid AIS SIM2Fly's 6GB/10-day cap (399 THB) and 384 kbps throttle.
+      Roami offers multi-country plans with full-speed data across Asia, no separate
+      roaming SIM required.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: AIS Lucky SIM 8-day plan costs 299 THB for 15GB; dtac Happy Tourist
+      SIM 8-day plan costs 299 THB for 15GB. A 5-day trip wastes nearly 3 days of
+      service.
+    esim_title: Flexible Plans, No Waste
+    esim_desc: Unlike fixed 8-day plans (AIS 299 THB/15GB) that waste 3 days on a
+      5-day trip, Roami offers 7-day plans starting from $1.99/GB, saving up to 75%
+      of sunk cost.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: TrueMove H explicitly bans tethering on unlimited data plans; DNS
+      detection blocks hotspot and may disconnect the device.
+    esim_title: Unrestricted Tethering
+    esim_desc: TrueMove H bans hotspot on unlimited plans via DNS blocking. Roami
+      allows full-speed tethering on all plans, no restrictions.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: AIS official website states international credit cards 'many of
+      them do not work'; 7-Eleven does not sell AIS top-ups anymore.
+    esim_title: Global Payment Methods
+    esim_desc: Avoid AIS's unreliable international credit card top-up. Roami accepts
+      Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal for seamless purchase.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Unlike limited local support, Roami provides 24/7 English chat and
+      email support, ensuring help anytime during your Thailand trip.
   expert_verdict:
-    title: "Thailand eSIM vs Prepaid SIM: Cost and Convenience Compared"
+    title: 'Thailand eSIM vs Prepaid SIM: Cost and Convenience Compared'
     cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Thailand's Strict Biometric KYC"
-        desc: "Thai law mandates <b>facial scanning or fingerprinting</b> for all SIM purchases since 2017. AIS, dtac, and TrueMove require passport matching. Roami eSIM needs <b>no identity verification</b>, saving 30-45 minutes at airport counters."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Hassle-Free Global Payments"
-        desc: "AIS warns international credit cards <b>'many do not work'</b>; 7-Eleven no longer sells AIS top-ups. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b> for instant purchase."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot Sharing"
-        desc: "TrueMove H <b>bans tethering</b> on unlimited plans via DNS detection, risking disconnection. Roami allows <b>full-speed hotspot</b> on all plans, perfect for sharing with travel companions."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Roaming Throttle Traps"
-        desc: "AIS SIM2Fly offers only <b>6GB/10 days</b> for Asia roaming (399 THB) and throttles to <b>384 kbps</b> after exhaustion. Roami provides full-speed multi-country plans with <b>no throttling</b> and no separate roaming SIM."
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Thailand's Strict Biometric KYC
+      desc: Thai law mandates <b>facial scanning or fingerprinting</b> for all SIM
+        purchases since 2017. AIS, dtac, and TrueMove require passport matching. Roami
+        eSIM needs <b>no identity verification</b>, saving 30-45 minutes at airport
+        counters.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Hassle-Free Global Payments
+      desc: AIS warns international credit cards <b>'many do not work'</b>; 7-Eleven
+        no longer sells AIS top-ups. Roami accepts <b>Visa, Mastercard, AMEX, Apple
+        Pay, Google Pay, PayPal</b> for instant purchase.
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Unrestricted Hotspot Sharing
+      desc: TrueMove H <b>bans tethering</b> on unlimited plans via DNS detection,
+        risking disconnection. Roami allows <b>full-speed hotspot</b> on all plans,
+        perfect for sharing with travel companions.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Roaming Throttle Traps
+      desc: AIS SIM2Fly offers only <b>6GB/10 days</b> for Asia roaming (399 THB)
+        and throttles to <b>384 kbps</b> after exhaustion. Roami provides full-speed
+        multi-country plans with <b>no throttling</b> and no separate roaming SIM.
 ---

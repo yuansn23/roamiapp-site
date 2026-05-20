@@ -1,6 +1,6 @@
 ---
 title: India eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,12 +14,12 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
-  title: India Travel eSIM | 20% OFF | Always-On 5G | Roami
+  title: India eSIM | 20% OFF | Unlimited 5G Data Plans | Roami
   description: Traveling to India? Get Roami's Stable 5G on Jio with High-Speed Data.
     Ideal for Light Travel. Enjoy No Roaming Fees with Best Local Network.
   keywords: ''
@@ -45,9 +45,10 @@ hero:
   flag_image: img/flags/in.svg
   flag_alt: India Flag
   title: India eSIM data plan
-  subtitle: Comfortable | 1-minute activation | Top rated
+  subtitle: Comfortable | 1-minute activation | Top rated – The best prepaid eSIM
+    for India travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for India eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -268,9 +269,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '6.33'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on India eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan India for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -308,11 +311,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using India eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in India.
   - icon: ⏰
@@ -327,8 +331,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -341,8 +346,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -352,320 +356,156 @@ activation_steps:
       data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: India eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your India eSIM across different travel
-    scenarios.
+  title: "The Ultimate Guide to eSIM Data Plans for India"
+  desc: "This guide covers everything you need to know about using an eSIM for India, from finding the best eSIM for India travel to staying connected with local operators like Jio and Vodafone. Whether you are a tourist or a business traveler, we provide detailed answers about airport connectivity, transportation, and common scenarios."
   categories:
-  - id: faq-general
-    icon: help-circle
-    tab_title: General
-    title: 1. General Questions
-    questions:
-    - q: Does my phone support the India eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your India eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the India eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in India and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the India eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the India eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in India that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your India eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my India eSIM data (hotspot) with other devices?
-      a: Absolutely. All our India eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your India eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in India,
-        such as Airtel, Jio, Vi, to ensure premium speeds at a fraction of roaming
-        costs.
-    - q: How do you compare with well-known eSIM providers like Ubigi, esim io, Airalo,
-        Holafly?
-      a: While great companies like Ubigi, esim io, Airalo, Holafly offer reliable
-        services, we focus on providing the most cost-effective India eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
-    questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the India eSIM before your flight. Once you land at Indira Gandhi
-        International Airport (Delhi), Chhatrapati Shivaji Maharaj International Airport
-        (Mumbai), Kempegowda International Airport (Bangalore), simply turn off Airplane
-        Mode and enable your eSIM line. It will connect to the local 4G/5G network
-        within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your India eSIM activated upon landing, you can immediately open Uber,
-        Ola, Rapido to book a ride or use WhatsApp to message your pre-booked driver
-        without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed India eSIM data allows you to open Google Maps right at the
-        baggage claim in Indira Gandhi International Airport (Delhi), Chhatrapati
-        Shivaji Maharaj International Airport (Mumbai), Kempegowda International Airport
-        (Bangalore) to check real-time train schedules, bus routes, or walking directions
-        to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our India eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our India eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast India eSIM cellular data to let your family know you've arrived safely.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
-    questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable India eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in India, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Ola, Rapido use VoIP (internet calling) and in-app messaging.
-        Since you have active India eSIM data, drivers can call or message you directly
-        through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your India eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your India eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in India.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our India eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your India eSIM's data network while on the
-        train or in the car.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
-    questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your India eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your India eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Taj Hotels, The Oberoi, ITC Hotels or a local
-        guesthouse, you can input the address into Google Maps and get turn-by-turn
-        walking or transit directions using your India eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your India eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed India eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Zomato, Swiggy, Uber Eats and use your
-        India eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your India eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
-    questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Taj Mahal, Red Fort, Qutub Minar spontaneously, you
-        can use your India eSIM data to buy skip-the-line tickets online and present
-        the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your India eSIM, you can read reviews and book local
-        tours or experiences on Tripadvisor while having coffee at a nearby cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring India.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your India eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your India eSIM will keep you connected throughout the
-        park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your India eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast India eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your India eSIM data to search 'restaurants near me' on Google Maps to
-        check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your India eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your India eSIM ensures you can scan
-        the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your India eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Zomato, Swiggy, Uber Eats, register using
-        your email or social accounts, and order food seamlessly using your India
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Paytm,
-        Google Pay, PhonePe require a brief internet handshake, which your India eSIM
-        handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your India eSIM to find hidden culinary gems in the city.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
-    questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        India eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G India eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the India eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal India
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your India eSIM data allowance to check their own social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country India eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your India eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
-    questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In India, you can dial local emergency numbers like 112 directly from your
-        phone's dialer regardless of your active SIM, as long as your phone can catch
-        any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your India eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your India eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your India eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        India eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your India eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our India eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the India eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your India eSIM is significantly
-        faster and much more secure against cyber threats than using open public Wi-Fi
-        networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your India eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your India eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your India eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your India eSIM to update them on flight delays or schedule
-        changes.
+    - id: faq-general
+      icon: help-circle
+      tab_title: General
+      title: "1. General Questions About India eSIM"
+      questions:
+        - q: "What is the best eSIM for India travel and how do I choose one?"
+          a: "The best eSIM for India travel depends on your data needs and trip duration. For a short 3-day trip, a $6.99 plan with 3GB of high-speed 5G/4G/LTE data is perfect for sightseeing. For longer stays, a 30-day plan with 10GB is available for $19.99, which is a great value. Providers like Holafly India and Airalo offer competitive options, but we recommend comparing data allowances and daily costs."
+        - q: "Can I activate my eSIM India prepaid plan immediately after landing?"
+          a: "Yes, you can activate your eSIM India prepaid plan right away after landing. Our eSIM activates within minutes, and you just need to connect to airport Wi-Fi for the initial setup. This ensures you have data as soon as you arrive, allowing you to use navigation apps or message your hotel. It is a seamless process designed for hassle-free travel."
+        - q: "How does an eSIM for India work with local operators like Jio and Vodafone?"
+          a: "An eSIM for India allows you to connect to local networks such as Jio and Vodafone without needing a physical SIM card. You simply purchase an eSIM India online, receive a QR code, and scan it to install the profile on your device. This gives you access to high-speed 5G/4G/LTE data on these networks. It is a convenient way to avoid roaming charges and stay connected like a local."
+        - q: "Is an eSIM card India compatible with all smartphones, including iPhone 14?"
+          a: "Most modern smartphones, including the iPhone 14, support eSIM card India technology. The India eSIM iPhone compatibility is excellent, as Apple has adopted eSIM-only models in some regions. However, you should check your device's IMEI to ensure it is unlocked and eSIM-compatible. Most providers list supported devices on their websites for easy verification."
+        - q: "What are the advantages of buying an eSIM for India over a physical SIM card?"
+          a: "Buying an eSIM for India offers several advantages, including instant activation and no need to visit a store. You can buy eSIM India online before your trip, ensuring you have connectivity from the moment you land. Physical SIM cards can be lost or damaged, while an eSIM is embedded in your phone. Additionally, eSIM plans often offer competitive pricing, such as a 7-day plan with 5GB for $10.99."
+        - q: "How do I buy eSIM India online and what do I need?"
+          a: "To buy eSIM India online, you simply choose a plan on our website, make a payment, and receive a QR code via email. You need an eSIM-compatible, unlocked smartphone and a stable internet connection for the initial download. The process takes just a few minutes, and you can install the eSIM before your trip. This ensures you have data ready as soon as you arrive in India."
+        - q: "Can I use an eSIM for India travel with multiple networks like Jio and Vodafone?"
+          a: "Yes, many eSIM for India travel plans provide access to multiple local networks, including Jio and Vodafone. This ensures you have the best coverage, especially when traveling between cities. The eSIM automatically connects to the strongest available network, so you do not need to manually switch. This feature is particularly useful for tourists exploring diverse regions of India."
+        - q: "What is the difference between a prepaid eSIM India and a postpaid plan?"
+          a: "A prepaid eSIM India is a pay-as-you-go option where you pay upfront for a set amount of data, like a 15-day plan with 3GB for $9.99. Postpaid plans are billed after usage and are less common for tourists. Prepaid eSIMs are ideal for travel because they have no long-term contracts and can be easily topped up online. They offer flexibility and control over your spending."
+        - q: "How does the India eSIM data speed compare to local SIM cards?"
+          a: "The India eSIM data speed is comparable to local SIM cards, as it uses the same 5G/4G/LTE infrastructure from operators like Jio and Vodafone. You can expect high-speed connectivity for streaming, video calls, and browsing. The only potential difference is during peak times, but overall performance is reliable. For example, a 30-day plan with 5GB at $12.99 provides excellent speeds for daily use."
+        - q: "Can I keep my regular SIM active while using an eSIM for India?"
+          a: "Yes, you can keep your regular SIM active while using an eSIM for India by using Dual SIM functionality on your phone. This allows you to receive calls and messages on your home number while using the eSIM for data. It is a convenient setup for staying in touch with family and friends back home. Just ensure your phone supports Dual SIM with one eSIM."
+    - id: faq-airport
+      icon: airplane
+      tab_title: Airports
+      title: "2. India eSIM at Airports"
+      questions:
+        - q: "Can I use an India eSIM at major airports like Delhi and Mumbai upon arrival?"
+          a: "Yes, you can use an India eSIM at major airports like Delhi and Mumbai as soon as you land. The eSIM activates quickly, so you can access Wi-Fi for setup or use mobile data immediately. This is essential for booking cabs, checking hotel directions, or messaging family. It eliminates the need to queue at local SIM card counters."
+        - q: "What should I do if my eSIM for India does not activate at the airport?"
+          a: "If your eSIM for India does not activate at the airport, first ensure you have a stable Wi-Fi connection to complete the installation. You can use the airport's free Wi-Fi to scan the QR code again or contact our support team. Most activations happen within minutes, but network congestion can cause delays. Having a backup plan, like a screenshot of your QR code, is always wise."
+        - q: "Are there any special eSIM India plans for layovers at Indian airports?"
+          a: "Yes, there are short-term eSIM India plans suitable for layovers, such as a 3-day plan with 1GB for $3.99. This is perfect for a brief stopover where you need data for maps or social media. These plans offer high-speed 5G/4G/LTE connectivity without committing to a longer duration. You can easily purchase and activate them online before your layover."
+        - q: "How do I find the best eSIM for India travel at the airport versus buying online?"
+          a: "Buying the best eSIM for India travel online before your trip is generally cheaper and more convenient than at the airport. Airport kiosks may have limited plan options and higher prices. Online, you can choose from a range of plans, like a 7-day 10GB plan for $19.99. This ensures you are ready to go upon arrival without any last-minute hassle."
+        - q: "Can I use an eSIM India at smaller airports like Goa or Jaipur?"
+          a: "Yes, an eSIM India works at smaller airports like Goa or Jaipur, as it relies on the same national networks. The coverage at these airports is generally good, with 5G/4G/LTE availability. You can activate your eSIM before landing or use the airport Wi-Fi for setup. This ensures you are connected regardless of the airport size."
+    - id: faq-transport
+      icon: train
+      tab_title: Transport
+      title: "3. India eSIM for Transport"
+      questions:
+        - q: "How can an India eSIM help with booking trains and buses in India?"
+          a: "An India eSIM allows you to book trains and buses through apps like IRCTC and RedBus while on the go. You can compare schedules, make payments, and receive e-tickets directly on your phone. With high-speed data from a plan like a 15-day 5GB for $11.99, you can manage your travel itinerary smoothly. This eliminates the need for physical tickets and reduces paperwork."
+        - q: "Is an eSIM India reliable for navigation on local transport like rickshaws?"
+          a: "Yes, an eSIM India is very reliable for navigation on local transport like rickshaws and taxis. Apps like Google Maps and Ola require a stable data connection, which our high-speed 5G/4G/LTE plans provide. A 30-day plan with 10GB for $19.99 ensures you have enough data for turn-by-turn directions. This helps you avoid getting lost and negotiate fares more effectively."
+        - q: "Can I use an eSIM for India on metro systems like the Delhi Metro?"
+          a: "Yes, you can use an eSIM for India on metro systems like the Delhi Metro, as they have underground network coverage. The eSIM connects to local operators such as Jio and Vodafone, ensuring seamless data access. You can use it to check metro maps, purchase digital tokens, or listen to music during your commute. It is a convenient tool for urban travel."
+        - q: "What data plan is recommended for long-distance bus or train journeys in India?"
+          a: "For long-distance bus or train journeys in India, a plan with generous data is recommended, such as a 15-day plan with 10GB for $20.99. This allows you to stream movies, browse social media, and stay in touch during the trip. High-speed connectivity ensures you can work or entertain yourself without interruptions. It is a wise choice for extended travel across states."
+        - q: "How does an eSIM India help with ride-sharing apps like Uber and Ola?"
+          a: "An eSIM India provides the data needed to book and track rides on Uber and Ola instantly. You can compare prices, share your trip status with friends, and make cashless payments. With a plan like a 7-day 3GB for $7.99, you have enough data for multiple rides. This makes getting around cities like Bangalore and Mumbai much easier."
+    - id: faq-hotels
+      icon: building
+      tab_title: Hotels
+      title: "4. India eSIM for Hotels"
+      questions:
+        - q: "Can I use my eSIM India to stream content on hotel Wi-Fi?"
+          a: "While hotel Wi-Fi can be slow, your eSIM India provides a reliable backup for streaming content. You can use your mobile data to stream movies or music without buffering. A plan like a 30-day 20GB for $30.99 ensures you have enough data for entertainment. This is especially useful in hotels with poor or paid Wi-Fi."
+        - q: "How do I check hotel reviews and make bookings using an eSIM for India?"
+          a: "With an eSIM for India, you can easily check hotel reviews on platforms like TripAdvisor and make bookings on apps like Booking.com. The high-speed data allows you to load photos, compare prices, and read feedback quickly. This is crucial for making informed decisions while traveling. A 3-day plan with 3GB for $6.99 is sufficient for a short stay."
+        - q: "Is it better to use hotel Wi-Fi or my eSIM India data for work?"
+          a: "It is often better to use your eSIM India data for work, as it is more secure and reliable than hotel Wi-Fi. Hotel networks can be slow or have security risks, while your eSIM offers a private connection. A plan like a 15-day 20GB for $33.99 provides ample data for video calls and file uploads. This ensures your work remains uninterrupted."
+        - q: "Can I use an eSIM India to call a hotel front desk or order room service?"
+          a: "You can use an eSIM India to call a hotel front desk or order room service through voice over IP (VoIP) apps. The high-speed data supports clear voice calls on apps like WhatsApp or Skype. This is useful if you prefer not to use the hotel phone. A 7-day plan with 5GB for $10.99 is ideal for such communications."
+        - q: "How does an eSIM India help with finding nearby restaurants and attractions from my hotel?"
+          a: "An eSIM India allows you to use maps and review apps to find nearby restaurants and attractions from your hotel. You can search for places, check ratings, and get directions all on your phone. With a plan like a 30-day 5GB for $12.99, you have data for multiple outings. This enhances your travel experience by making exploration easier."
+    - id: faq-attractions
+      icon: landmark
+      tab_title: Attractions
+      title: "5. India eSIM for Attractions"
+      questions:
+        - q: "How can an eSIM for India enhance visits to tourist attractions like the Taj Mahal?"
+          a: "An eSIM for India enhances visits to attractions like the Taj Mahal by providing data for audio guides, maps, and photo sharing. You can download information about the site's history or post updates to social media in real-time. High-speed 5G/4G/LTE connectivity ensures a smooth experience. A 3-day plan with 5GB for $10.99 is perfect for such outings."
+        - q: "Do I need a lot of data for visiting multiple attractions in cities like Jaipur or Delhi?"
+          a: "Yes, visiting multiple attractions in cities like Jaipur or Delhi can require a fair amount of data for navigation and information. A plan like a 7-day 10GB for $19.99 is recommended to cover entry ticket bookings and travel between sites. This ensures you do not run out of data during your sightseeing tours. It is a worthwhile investment for a hassle-free experience."
+        - q: "Can I use an eSIM India to buy tickets for attractions online?"
+          a: "Yes, you can use an eSIM India to buy tickets for attractions online through official websites or apps. This saves time by avoiding long queues at entry points. With a stable data connection, you can complete transactions securely. A 15-day plan with 3GB for $9.99 is sufficient for booking tickets and managing your itinerary."
+        - q: "How does an eSIM India help with sharing photos of attractions on social media?"
+          a: "An eSIM India allows you to instantly share photos of attractions on social media platforms like Instagram and Facebook. The high-speed data ensures quick uploads without compression. A plan like a 30-day 20GB for $35.99 gives you plenty of data for sharing your travel memories. This keeps your followers updated on your adventures in real-time."
+        - q: "What eSIM plan is best for a day trip to a national park like Ranthambore?"
+          a: "For a day trip to a national park like Ranthambore, a short-term eSIM plan like a 3-day unlimited plan for $17.99 is ideal. This provides worry-free data usage for navigation, wildlife information, and sharing experiences. The high-speed connectivity ensures you can stay connected even in remote areas. It is a practical choice for nature enthusiasts."
+    - id: faq-social
+      icon: message-circle
+      tab_title: Social & Messaging
+      title: "6. India eSIM for Social Media"
+      questions:
+        - q: "Can I use an eSIM India to access all social media apps without restrictions?"
+          a: "Yes, you can use an eSIM India to access all social media apps like WhatsApp, Instagram, and Facebook without any restrictions. The high-speed data allows for seamless browsing, posting, and messaging. A plan like a 7-day 5GB for $10.99 is perfect for staying active on social media. There are no blocks or throttling on these platforms."
+        - q: "How much data do I need for video calls with family using an eSIM for India?"
+          a: "Video calls with family using apps like WhatsApp or Zoom consume about 1GB per hour. For a 7-day trip, a plan with 5GB for $10.99 is sufficient for daily video calls and browsing. This ensures you can stay connected with loved ones without worrying about data limits. It is a reliable way to share your travel experiences."
+        - q: "Is an eSIM India good for live streaming events or festivals?"
+          a: "Yes, an eSIM India is excellent for live streaming events or festivals, as it provides high-speed 5G/4G/LTE connectivity. You can broadcast in real-time on platforms like Instagram Live or YouTube. A plan like a 15-day unlimited plan for $94.99 offers worry-free data for extensive streaming. This allows you to share the vibrant culture of India with your audience."
+        - q: "Can I use messaging apps like WhatsApp with an eSIM for India without a local number?"
+          a: "Yes, you can use messaging apps like WhatsApp with an eSIM for India without a local number. The eSIM provides data, and you can verify your account using your existing number through a call or SMS. This allows you to chat, share media, and make voice calls seamlessly. It is a convenient way to communicate with fellow travelers and locals."
+        - q: "How does an eSIM India affect social media engagement for influencers?"
+          a: "An eSIM India enhances social media engagement for influencers by providing reliable data for posting and interacting with followers. You can upload high-quality photos and videos quickly, respond to comments, and run live sessions. A plan like a 30-day 30GB for $59.99 ensures you have ample data for consistent content creation. This helps maintain your online presence while traveling."
+    - id: faq-crossborder
+      icon: globe
+      tab_title: Cross-border
+      title: "7. India eSIM for Cross-Border Travel"
+      questions:
+        - q: "Can I use my India eSIM in neighboring countries like Nepal or Sri Lanka?"
+          a: "No, an India eSIM is typically designed for use only within India's borders. If you plan to travel to neighboring countries like Nepal or Sri Lanka, you will need a separate eSIM for each destination. Some providers offer regional plans, but it is best to check coverage maps. This ensures you have data connectivity without incurring roaming charges."
+        - q: "How does an eSIM for India handle cross-border travel between India and Pakistan?"
+          a: "An eSIM for India does not work in Pakistan, as it is restricted to Indian networks. You would need to purchase a local eSIM for Pakistan if you are traveling there. It is important to deactivate your India eSIM to avoid any accidental usage. Always plan your connectivity needs based on your entire itinerary."
+        - q: "What should I do if I have a layover in a third country before reaching India?"
+          a: "If you have a layover in a third country before reaching India, you can purchase a separate eSIM for that country or use airport Wi-Fi. Your India eSIM will only activate once you are within India's network coverage. It is recommended to buy a global eSIM that covers multiple countries if you have frequent layovers. This ensures seamless connectivity throughout your journey."
+        - q: "Can I use an eSIM India for travel to remote border regions like Ladakh?"
+          a: "Yes, you can use an eSIM India for travel to remote border regions like Ladakh, as it connects to local networks like Jio and Vodafone. However, coverage may be limited in very remote areas. A plan with high-speed data ensures you have connectivity in towns and along main routes. It is still advisable to carry offline maps as a backup."
+        - q: "How does data roaming work with an eSIM for India when crossing into Bhutan?"
+          a: "Data roaming with an eSIM for India does not extend to Bhutan, as it is a separate country. You would need to purchase a Bhutan eSIM before crossing the border. Some providers offer regional South Asia plans, but they are not standard. Always verify your eSIM's coverage area to avoid unexpected charges."
+    - id: faq-emergency
+      icon: alert-triangle
+      tab_title: Emergencies
+      title: "8. India eSIM for Emergencies"
+      questions:
+        - q: "Can I use an eSIM India to call emergency services like 112 or 100?"
+          a: "Yes, you can use an eSIM India to call emergency services like 112 (general emergency) or 100 (police). The eSIM provides a data connection, but emergency calls are typically routed through the network. You do not need a local phone number to make these calls, as they are prioritized. This ensures you can seek help in urgent situations."
+        - q: "How reliable is an eSIM for India in rural or remote areas during emergencies?"
+          a: "An eSIM for India is generally reliable in rural areas, as it uses networks like Jio and Vodafone with extensive coverage. However, in very remote locations, signal strength may vary. It is recommended to have a plan with high-speed data and to download offline maps. For critical emergencies, you may need to move to a higher area for better reception."
+        - q: "What data plan should I have for emergency communication during a natural disaster?"
+          a: "For emergency communication during a natural disaster, an unlimited data plan like a 7-day unlimited plan for $37.99 is ideal. This ensures you can stay connected without worrying about data caps. You can use it to send updates, contact authorities, or access news. Having a backup power bank is also recommended to keep your phone charged."
+        - q: "Can I use an eSIM India to access health or travel insurance apps in an emergency?"
+          a: "Yes, you can use an eSIM India to access health or travel insurance apps in an emergency. The high-speed data allows you to file claims, contact support, or find nearby hospitals quickly. A plan like a 15-day 10GB for $20.99 provides enough data for such tasks. This ensures you have the necessary resources during a medical crisis."
+        - q: "How do I share my location with family during an emergency using an eSIM for India?"
+          a: "You can share your location with family during an emergency using apps like Google Maps or WhatsApp on your eSIM for India. The real-time tracking feature works with high-speed data, allowing your family to see your whereabouts. This is crucial for ensuring your safety. A 3-day plan with 1GB for $3.99 is sufficient for basic location sharing."
+    - id: faq-business
+      icon: briefcase
+      tab_title: Business
+      title: "9. India eSIM for Business Travelers"
+      questions:
+        - q: "What is the best eSIM for India for business trips requiring video conferencing?"
+          a: "The best eSIM for India for business trips requiring video conferencing is a plan with high-speed data and ample allowance. A 30-day plan with 20GB for $30.99 is ideal for daily video calls on Zoom or Teams. This ensures smooth, uninterrupted communication with colleagues and clients. It is a cost-effective solution for professional needs."
+        - q: "Can I use an eSIM India for corporate email and cloud services?"
+          a: "Yes, you can use an eSIM India for corporate email and cloud services like Microsoft 365 or Google Workspace. The high-speed 5G/4G/LTE connection allows for quick syncing and file uploads. A plan like a 15-day 30GB for $58.99 provides enough data for heavy usage. This keeps you productive while traveling in India."
+        - q: "How does an eSIM for India handle multiple devices like a laptop and phone?"
+          a: "An eSIM for India primarily works on your phone, but you can use it as a hotspot to connect your laptop and other devices. This allows you to work from anywhere, such as co-working spaces or cafes. A plan like a 7-day 20GB for $35.99 ensures you have enough data for both devices. It is a flexible solution for business travelers."
+        - q: "Is an eSIM India suitable for attending conferences in cities like Bangalore or Hyderabad?"
+          a: "Yes, an eSIM India is very suitable for attending conferences in cities like Bangalore or Hyderabad. You can use it to network, access event apps, and share presentations in real-time. A plan like a 3-day 10GB for $18.99 provides ample data for a conference duration. This ensures you stay connected with other attendees and organizers."
+        - q: "Can I use an eSIM India to manage international business calls via VoIP?"
+          a: "Yes, you can use an eSIM India to manage international business calls via VoIP apps like Skype or Slack. The high-speed data ensures clear voice quality and minimal latency. A plan like a 30-day 10GB for $19.99 is perfect for regular international communications. This saves on roaming costs and keeps you connected with global teams."
 related_products:
-  title: Related eSIM Plans
+  title: Related India eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -715,84 +555,102 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "India eSIM vs Prepaid SIM Card: Is It Worth Switching?"
-  subtitle: "India Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'India eSIM vs Prepaid SIM Card: Is It Worth Switching?'
+  subtitle: India Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (India) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/India"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (India) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/India
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami India eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami India eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Airport SIM cards cost ₹500-1000, including ₹100-500 vendor premium; activation takes 1-24 hours."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport queues and ₹100-500 vendor premium. Activate online within 1 minute after landing in Delhi or Mumbai."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Mandatory KYC requires passport original and copy, visa copy, passport photo, hotel proof, and a local reference number for OTP."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid handing over passport copies and hotel proof. Roami eSIM activates without KYC, unlike Airtel's 1-24 hour verification."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Jio SIMs cannot fall back to 2G/3G; Vi and Airtel SMS limited to 100/day FUP; SIMs from Ladakh and J&K have no signal outside those regions."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "Stay connected across India and beyond. Unlike Jio's 64 kbps throttle after FUP, Roami offers high-speed data with no daily caps."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Mainstream plans are 28-day cycles (e.g., Vi ₹549 for 3.5GB/day, Airtel ₹349 for 3GB/day, Jio ₹149 for 1.5GB/day); a 5-7 day trip wastes over 75% of the plan's value."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Avoid 28-day waste. Roami offers 7-day plans from $1.99/GB, saving over 75% compared to Vi's ₹549/28-day plan for a 5-day trip."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, most Indian prepaid SIMs allow tethering but throttle to 64 kbps after daily FUP limit (e.g., Jio)."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Share data freely. Unlike Jio's 64 kbps throttle after daily FUP, Roami allows full-speed hotspot without limits."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up requires local channels or platforms like SwiftRecharge.com; foreign cards often face higher surcharges."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local recharge platforms like SwiftRecharge."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is primarily in Hindi/English via phone or store, with limited 24/7 availability."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get help in English anytime. Unlike local SIM support limited to Hindi/English store hours, Roami offers 24/7 live chat."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Airport SIM cards cost ₹500-1000, including ₹100-500 vendor premium;
+      activation takes 1-24 hours.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip airport queues and ₹100-500 vendor premium. Activate online within
+      1 minute after landing in Delhi or Mumbai.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Mandatory KYC requires passport original and copy, visa copy, passport
+      photo, hotel proof, and a local reference number for OTP.
+    esim_title: No Passport Required
+    esim_desc: Avoid handing over passport copies and hotel proof. Roami eSIM activates
+      without KYC, unlike Airtel's 1-24 hour verification.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Jio SIMs cannot fall back to 2G/3G; Vi and Airtel SMS limited to
+      100/day FUP; SIMs from Ladakh and J&K have no signal outside those regions.
+    esim_title: Global Roaming Ready
+    esim_desc: Stay connected across India and beyond. Unlike Jio's 64 kbps throttle
+      after FUP, Roami offers high-speed data with no daily caps.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Mainstream plans are 28-day cycles (e.g., Vi ₹549 for 3.5GB/day,
+      Airtel ₹349 for 3GB/day, Jio ₹149 for 1.5GB/day); a 5-7 day trip wastes over
+      75% of the plan's value.
+    esim_title: Flexible Short Plans
+    esim_desc: Avoid 28-day waste. Roami offers 7-day plans from $1.99/GB, saving
+      over 75% compared to Vi's ₹549/28-day plan for a 5-day trip.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      most Indian prepaid SIMs allow tethering but throttle to 64 kbps after daily
+      FUP limit (e.g., Jio).
+    esim_title: Unrestricted Tethering
+    esim_desc: Share data freely. Unlike Jio's 64 kbps throttle after daily FUP, Roami
+      allows full-speed hotspot without limits.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up requires local channels or platforms like SwiftRecharge.com;
+      foreign cards often face higher surcharges.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for local recharge platforms like SwiftRecharge.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      customer support is primarily in Hindi/English via phone or store, with limited
+      24/7 availability.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get help in English anytime. Unlike local SIM support limited to Hindi/English
+      store hours, Roami offers 24/7 live chat.
   expert_verdict:
-    title: "India eSIM vs Physical SIM: Travel, Cost, and Setup Compared"
+    title: 'India eSIM vs Physical SIM: Travel, Cost, and Setup Compared'
     cards:
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Stay Connected Across India and Beyond"
-        desc: "SIMs from Ladakh and J&K have <b>no signal outside those regions</b>. Roami works nationwide and offers global roaming without regional restrictions."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot for All Your Devices"
-        desc: "Indian SIMs often throttle hotspot speed after daily FUP (e.g., Jio to <b>64 kbps</b>). Roami allows full-speed tethering with no restrictions."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Escape 28-Day Billing Cycles That Waste 75% of Your Money"
-        desc: "Mainstream plans like Vi <b>₹549/28-day</b> or Airtel <b>₹349/28-day</b> force you to pay for 3+ weeks you don't use. Roami's <b>7-day plans from $1.99/GB</b> match your trip length."
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "Keep Your Home SIM Safe – No Physical Swap Needed"
-        desc: "Frequent SIM swapping risks losing your home SIM. Roami eSIM works alongside your physical SIM, so you never miss OTPs from your bank or apps."
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Stay Connected Across India and Beyond
+      desc: SIMs from Ladakh and J&K have <b>no signal outside those regions</b>.
+        Roami works nationwide and offers global roaming without regional restrictions.
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Unrestricted Hotspot for All Your Devices
+      desc: Indian SIMs often throttle hotspot speed after daily FUP (e.g., Jio to
+        <b>64 kbps</b>). Roami allows full-speed tethering with no restrictions.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Escape 28-Day Billing Cycles That Waste 75% of Your Money
+      desc: Mainstream plans like Vi <b>₹549/28-day</b> or Airtel <b>₹349/28-day</b>
+        force you to pay for 3+ weeks you don't use. Roami's <b>7-day plans from $1.99/GB</b>
+        match your trip length.
+    - icon: shield
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: Keep Your Home SIM Safe – No Physical Swap Needed
+      desc: Frequent SIM swapping risks losing your home SIM. Roami eSIM works alongside
+        your physical SIM, so you never miss OTPs from your bank or apps.
 ---

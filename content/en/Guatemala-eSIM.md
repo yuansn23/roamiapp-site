@@ -1,6 +1,6 @@
 ---
 title: Guatemala eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Guatemala eSIM |Reliable 5G for Business Trips | Roami
   description: Explore Guatemala with ease. Experience High-Speed Data and seamless
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/gt.svg
   flag_alt: Guatemala Flag
   title: Guatemala eSIM data plan
-  subtitle: Prioritized 5G access | Top rated | Instant delivery
+  subtitle: Prioritized 5G access | Top rated | Instant delivery – The best prepaid
+    eSIM for Guatemala travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Guatemala eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -131,9 +132,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '1.63'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Guatemala eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Guatemala for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -172,11 +175,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Guatemala eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Guatemala.
   - icon: ⏰
@@ -191,8 +195,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -205,8 +210,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -536,7 +540,7 @@ faq_section:
         on the go using your Guatemala eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Guatemala eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -586,84 +590,101 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Guatemala eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared"
-  subtitle: "Guatemala Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Guatemala eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared'
+  subtitle: Guatemala Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Guatemala) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Guatemala"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Guatemala) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Guatemala
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Guatemala eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Guatemala eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Tigo SIM card costs Q50 at official stores (includes Q25 balance and 200 MB). Airport kiosks may charge extra."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Tigo store queues and passport checks. Activate your eSIM online within 2 minutes before landing in Guatemala City."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Guatemala law requires passport registration for all SIM cards; unregistered users risk line suspension."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid Guatemala's mandatory passport registration for SIM cards. Roami eSIM activates without any ID, saving you from data privacy risks."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Movistar's 'sin fronteras' offers domestic rates in Central America but charges Q40/day for USA/Canada; Tigo and Claro lack multi-country roaming."
-      esim_title: "Seamless Multi-Country Roaming"
-      esim_desc: "Unlike Movistar's Q40/day surcharge for USA/Canada, Roami eSIM covers multiple countries in one plan with no extra daily fees."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Tigo's 30-day plan costs Q99 for 2GB; Claro's 30-day plan costs Q100 for 3GB; Movistar's 30-day plan costs Q100 for 3+3GB. Short-term plans exist but are limited."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Tigo's 30-day cycle (Q99/2GB), Roami offers 7-day plans starting from $1.99/GB, saving over 70% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, most prepaid SIMs allow tethering but may throttle speeds after a certain limit."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike some local SIMs that throttle tethering after 3GB/day."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up requires physical vouchers at kiosks; online top-up often rejects foreign cards. Minimum top-up Q5."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for physical vouchers or cash at kiosks."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is primarily in Spanish; no live chat for prepaid customers."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get English-speaking customer support via live chat or email, unlike local SIMs with only Spanish phone support during business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Tigo SIM card costs Q50 at official stores (includes Q25 balance
+      and 200 MB). Airport kiosks may charge extra.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Tigo store queues and passport checks. Activate your eSIM online
+      within 2 minutes before landing in Guatemala City.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Guatemala law requires passport registration for all SIM cards;
+      unregistered users risk line suspension.
+    esim_title: No Passport Required
+    esim_desc: Avoid Guatemala's mandatory passport registration for SIM cards. Roami
+      eSIM activates without any ID, saving you from data privacy risks.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Movistar's 'sin fronteras' offers domestic rates in Central America
+      but charges Q40/day for USA/Canada; Tigo and Claro lack multi-country roaming.
+    esim_title: Seamless Multi-Country Roaming
+    esim_desc: Unlike Movistar's Q40/day surcharge for USA/Canada, Roami eSIM covers
+      multiple countries in one plan with no extra daily fees.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Tigo's 30-day plan costs Q99 for 2GB; Claro's 30-day plan costs
+      Q100 for 3GB; Movistar's 30-day plan costs Q100 for 3+3GB. Short-term plans
+      exist but are limited.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike Tigo's 30-day cycle (Q99/2GB), Roami offers 7-day plans starting
+      from $1.99/GB, saving over 70% waste for short trips.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      most prepaid SIMs allow tethering but may throttle speeds after a certain limit.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike some local SIMs
+      that throttle tethering after 3GB/day.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up requires physical vouchers at kiosks; online top-up often
+      rejects foreign cards. Minimum top-up Q5.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for physical vouchers or cash at kiosks.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is primarily in Spanish; no live chat for prepaid
+      customers.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get English-speaking customer support via live chat or email, unlike
+      local SIMs with only Spanish phone support during business hours.
   expert_verdict:
-    title: "Guatemala eSIM vs Physical SIM Card: What’s the Real Difference?"
+    title: 'Guatemala eSIM vs Physical SIM Card: What’s the Real Difference?'
     cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Guatemala's Strict SIM Passport Requirements"
-        desc: "Guatemala law mandates passport registration for all prepaid SIMs. Over 2 million users faced line suspension for non-compliance. Roami eSIM activates instantly with zero ID."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, Apple Pay"
-        desc: "Local SIM top-ups require physical vouchers at kiosks (minimum Q5). Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal globally."
-      - icon: "wifi"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Unrestricted Hotspot Sharing"
-        desc: "Some local SIMs throttle tethering after 3GB/day. Roami eSIM allows full-speed hotspot for all your devices, no caps."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Tigo's Band 5 LTE Incompatibility"
-        desc: "Tigo's 4G uses only Band 5 (850 MHz), causing many international phones to fall back to 3G. Roami eSIM auto-connects to Claro's Band 2 (1900 MHz) or Movistar's network for better speeds."
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Guatemala's Strict SIM Passport Requirements
+      desc: Guatemala law mandates passport registration for all prepaid SIMs. Over
+        2 million users faced line suspension for non-compliance. Roami eSIM activates
+        instantly with zero ID.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Visa, Mastercard, Apple Pay
+      desc: Local SIM top-ups require physical vouchers at kiosks (minimum Q5). Roami
+        accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal globally.
+    - icon: wifi
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Unrestricted Hotspot Sharing
+      desc: Some local SIMs throttle tethering after 3GB/day. Roami eSIM allows full-speed
+        hotspot for all your devices, no caps.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Tigo's Band 5 LTE Incompatibility
+      desc: Tigo's 4G uses only Band 5 (850 MHz), causing many international phones
+        to fall back to 3G. Roami eSIM auto-connects to Claro's Band 2 (1900 MHz)
+        or Movistar's network for better speeds.
 ---

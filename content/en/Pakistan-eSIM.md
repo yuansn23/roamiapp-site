@@ -1,6 +1,6 @@
 ---
 title: Pakistan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Top Pakistan eSIM | Unlimited Data | Top Local Carrier Fast 5G | Roami
   description: Explore Pakistan with ease. Experience Transparent Data and seamless
@@ -48,8 +48,9 @@ hero:
   flag_alt: Pakistan Flag
   title: Pakistan eSIM data plan
   subtitle: Smooth video streaming | 100% money-back guarantee | Instant delivery
+    – The best prepaid eSIM for Pakistan travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Pakistan eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -278,9 +279,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '3.33'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Pakistan eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Pakistan for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -319,11 +322,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Pakistan eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Pakistan.
   - icon: ⏰
@@ -338,8 +342,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -352,8 +357,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -682,7 +686,7 @@ faq_section:
         on the go using your Pakistan eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Pakistan eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -732,84 +736,105 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Pakistan eSIM vs Prepaid SIM: Cost and Convenience Compared"
-  subtitle: "Pakistan Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Pakistan eSIM vs Prepaid SIM: Cost and Convenience Compared'
+  subtitle: Pakistan Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Pakistan) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Pakistan"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Pakistan) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Pakistan
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Pakistan eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Pakistan eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Jazz and Telenor require in-person purchase at operator stores with passport, visa, fingerprint biometrics, and photo collection; activation may take several hours."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Jazz and Telenor store queues and biometric registration. Activate online within 1 minute after landing in Islamabad or Karachi."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All operators enforce mandatory biometric registration (fingerprint, photo) and passport/visa verification; SIM is deactivated after 180 days of inactivity."
-      esim_title: "No Passport or Biometrics"
-      esim_desc: "Avoid Pakistan's mandatory fingerprint and passport registration. Roami eSIM requires no KYC, saving hours of paperwork."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, Pakistani prepaid SIMs generally do not include international roaming; separate add-ons may be required."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "Unlike local SIMs with no roaming, Roami eSIM works in over 100 countries. Use your plan in India, UAE, or UK without extra fees."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Jazz's 30-day plan (15GB for 869 PKR) forces a 30-day cycle; a 5-day tourist wastes 27 days of validity and most data. Telenor and Zong monthly plans have similar sunk costs."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Jazz's 30-day cycle (15GB for 869 PKR, wasting 90% for a 3-day trip), Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed on Pakistani prepaid SIMs but may be restricted on certain plans."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing. No restrictions like some local plans that limit tethering to specific apps."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up payments are typically made via physical vouchers or local bank transfers; foreign credit cards are often rejected by Pakistani top-up systems."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local vouchers or dealing with rejected foreign cards."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is available in Urdu and English via phone and in-store, but hours may be limited; no 24/7 live chat for prepaid customers."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock support in English and Urdu via live chat. No limited phone hours like local operators."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Jazz and Telenor require in-person purchase at operator stores with
+      passport, visa, fingerprint biometrics, and photo collection; activation may
+      take several hours.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Jazz and Telenor store queues and biometric registration. Activate
+      online within 1 minute after landing in Islamabad or Karachi.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: All operators enforce mandatory biometric registration (fingerprint,
+      photo) and passport/visa verification; SIM is deactivated after 180 days of
+      inactivity.
+    esim_title: No Passport or Biometrics
+    esim_desc: Avoid Pakistan's mandatory fingerprint and passport registration. Roami
+      eSIM requires no KYC, saving hours of paperwork.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      Pakistani prepaid SIMs generally do not include international roaming; separate
+      add-ons may be required.
+    esim_title: Global Roaming Ready
+    esim_desc: Unlike local SIMs with no roaming, Roami eSIM works in over 100 countries.
+      Use your plan in India, UAE, or UK without extra fees.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Jazz's 30-day plan (15GB for 869 PKR) forces a 30-day cycle; a 5-day
+      tourist wastes 27 days of validity and most data. Telenor and Zong monthly plans
+      have similar sunk costs.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike Jazz's 30-day cycle (15GB for 869 PKR, wasting 90% for a 3-day
+      trip), Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      tethering is generally allowed on Pakistani prepaid SIMs but may be restricted
+      on certain plans.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami eSIM allows full-speed hotspot sharing. No restrictions like
+      some local plans that limit tethering to specific apps.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up payments are typically made via physical vouchers or local
+      bank transfers; foreign credit cards are often rejected by Pakistani top-up
+      systems.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for local vouchers or dealing with rejected foreign cards.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is available in Urdu and English via phone and
+      in-store, but hours may be limited; no 24/7 live chat for prepaid customers.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock support in English and Urdu via live chat. No limited
+      phone hours like local operators.
   expert_verdict:
-    title: "Pakistan eSIM vs Physical SIM Card: What’s the Real Difference?"
+    title: 'Pakistan eSIM vs Physical SIM Card: What’s the Real Difference?'
     cards:
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Multi-Country Roaming"
-        desc: "Local SIMs lack roaming. Roami eSIM works in 100+ countries – use the same plan in India, UAE, or UK without buying a new SIM."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate 30-Day Sunk Costs"
-        desc: "Jazz's 15GB/30-day plan (869 PKR) forces a full month cycle. A 5-day tourist wastes 27 days of validity. Roami offers 7-day plans from <b>$1.99/GB</b>, matching your exact trip length."
-      - icon: "wifi"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "Unlimited Hotspot & Tethering"
-        desc: "Some local plans restrict tethering. Roami allows full-speed hotspot sharing on all devices – no app-specific limits like Zong's YouTube-only data."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, PayPal"
-        desc: "Local top-up often rejects foreign cards. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal – no physical vouchers needed."
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Seamless Multi-Country Roaming
+      desc: Local SIMs lack roaming. Roami eSIM works in 100+ countries – use the
+        same plan in India, UAE, or UK without buying a new SIM.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate 30-Day Sunk Costs
+      desc: Jazz's 15GB/30-day plan (869 PKR) forces a full month cycle. A 5-day tourist
+        wastes 27 days of validity. Roami offers 7-day plans from <b>$1.99/GB</b>,
+        matching your exact trip length.
+    - icon: wifi
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: Unlimited Hotspot & Tethering
+      desc: Some local plans restrict tethering. Roami allows full-speed hotspot sharing
+        on all devices – no app-specific limits like Zong's YouTube-only data.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Visa, Mastercard, PayPal
+      desc: Local top-up often rejects foreign cards. Roami accepts Visa, Mastercard,
+        AMEX, Apple Pay, Google Pay, and PayPal – no physical vouchers needed.
 ---

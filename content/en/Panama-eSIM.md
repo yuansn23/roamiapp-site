@@ -1,6 +1,6 @@
 ---
 title: Panama eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Panama eSIM |20% OFF| Zero-Lag 5G for Business Trips|Roami
   description: Planning a trip to Panama? Get Roami's Reliable 5G on Top Local Carrier
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/pa.svg
   flag_alt: Panama Flag
   title: Panama eSIM data plan
-  subtitle: No more roaming fees | High-speed 5G network | Top rated
+  subtitle: No more roaming fees | High-speed 5G network | Top rated – The best prepaid
+    eSIM for Panama travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Panama eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -230,9 +231,11 @@ plans_data:
     tagColor: bg-slate-800
     daily: '5.27'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Panama eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Panama for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -271,11 +274,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Panama eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Panama.
   - icon: ⏰
@@ -290,8 +294,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -304,8 +309,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -631,7 +635,7 @@ faq_section:
         on the go using your Panama eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Panama eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -681,84 +685,107 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Panama eSIM vs Prepaid SIM: Cost and Convenience Compared"
-  subtitle: "Panama Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Panama eSIM vs Prepaid SIM: Cost and Convenience Compared'
+  subtitle: Panama Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Panama) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Panama"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Panama) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Panama
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Panama eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Panama eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Tocumen International Airport kiosks sell overpriced SIM cards; downtown mall stands may offer free SIMs but all prices exclude 7% sales tax."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport overpriced kiosks and downtown mall stands. Activate online within 1 minute after landing in Panama City, avoiding the 7% sales tax and physical store queues."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market practice, Panama prepaid SIMs typically require passport registration at point of sale."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike local SIMs that require passport registration at stores, Roami eSIM activates instantly with no ID check, saving 30 minutes of paperwork."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Tigo offers 'Tigo sin fronteras' roaming packs: free roaming in Central American countries, or B/.5-10/day for other countries, but only after domestic plan is exhausted."
-      esim_title: "Global Roaming Included"
-      esim_desc: "Avoid Tigo's complex roaming packs (B/.5-10/day after domestic plan exhaustion). Roami eSIM offers multi-country coverage at no extra cost, perfect for trips to Costa Rica or Colombia."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "+movil offers 3-day, 7-day, 15-day, 30-day plans; a 30-day plan (B/.14.99 for 2GB) forces short-term tourists to waste up to 90% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike +movil's 30-day plan (B/.14.99/2GB) that wastes 90% for a 3-day trip, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Digicel's FUP explicitly prohibits tethering (no MiFi, USB modem, or hotspot); Tigo's B/.5 unlimited plan has no tethering."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Bypass Tigo's no-tethering policy on B/.5 unlimited plan and Digicel's hotspot ban. Roami eSIM allows full hotspot sharing for laptops and tablets."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Online top-up via Claro website deducts 7% tax after payment, so a B/.10 top-up yields only B/.9.30; some operators accept Visa/Mastercard."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Avoid Claro's 7% tax deduction on online top-ups (B/.10 becomes B/.9.30). Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal with no hidden fees."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market practice, local support is typically in Spanish, with limited English assistance."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Unlike local SIMs with Spanish-only support during business hours, Roami provides 24/7 English support via live chat and email."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Tocumen International Airport kiosks sell overpriced SIM cards;
+      downtown mall stands may offer free SIMs but all prices exclude 7% sales tax.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip airport overpriced kiosks and downtown mall stands. Activate online
+      within 1 minute after landing in Panama City, avoiding the 7% sales tax and
+      physical store queues.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      practice, Panama prepaid SIMs typically require passport registration at point
+      of sale.
+    esim_title: No Passport Required
+    esim_desc: Unlike local SIMs that require passport registration at stores, Roami
+      eSIM activates instantly with no ID check, saving 30 minutes of paperwork.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: 'Tigo offers ''Tigo sin fronteras'' roaming packs: free roaming
+      in Central American countries, or B/.5-10/day for other countries, but only
+      after domestic plan is exhausted.'
+    esim_title: Global Roaming Included
+    esim_desc: Avoid Tigo's complex roaming packs (B/.5-10/day after domestic plan
+      exhaustion). Roami eSIM offers multi-country coverage at no extra cost, perfect
+      for trips to Costa Rica or Colombia.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: +movil offers 3-day, 7-day, 15-day, 30-day plans; a 30-day plan
+      (B/.14.99 for 2GB) forces short-term tourists to waste up to 90% of the plan's
+      value.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike +movil's 30-day plan (B/.14.99/2GB) that wastes 90% for a 3-day
+      trip, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: Digicel's FUP explicitly prohibits tethering (no MiFi, USB modem,
+      or hotspot); Tigo's B/.5 unlimited plan has no tethering.
+    esim_title: Unrestricted Tethering
+    esim_desc: Bypass Tigo's no-tethering policy on B/.5 unlimited plan and Digicel's
+      hotspot ban. Roami eSIM allows full hotspot sharing for laptops and tablets.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Online top-up via Claro website deducts 7% tax after payment, so
+      a B/.10 top-up yields only B/.9.30; some operators accept Visa/Mastercard.
+    esim_title: Global Payment Methods
+    esim_desc: Avoid Claro's 7% tax deduction on online top-ups (B/.10 becomes B/.9.30).
+      Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal with
+      no hidden fees.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      practice, local support is typically in Spanish, with limited English assistance.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Unlike local SIMs with Spanish-only support during business hours,
+      Roami provides 24/7 English support via live chat and email.
   expert_verdict:
-    title: "Panama eSIM vs Local Prepaid SIM: Which Is More Convenient?"
+    title: 'Panama eSIM vs Local Prepaid SIM: Which Is More Convenient?'
     cards:
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate 90% Plan Waste with Flexible Billing"
-        desc: "+movil's 30-day plan (B/.14.99/2GB) forces short-term tourists to waste up to 90% of the plan's value. Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste."
-      - icon: "wifi"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Unrestricted Hotspot Sharing"
-        desc: "Tigo's B/.5 unlimited plan explicitly bans tethering, and Digicel's FUP prohibits hotspot use. Roami eSIM allows full hotspot sharing for laptops and tablets without restrictions."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payments Without Hidden Taxes"
-        desc: "Claro's online top-up deducts 7% tax after payment (B/.10 becomes B/.9.30). Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal with no hidden fees."
-      - icon: "globe"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Multi-Network Coverage in Remote Areas"
-        desc: "Tigo has no coverage in 62% of Panama's territory. Roami eSIM aggregates multiple networks, ensuring connectivity in remote areas like Guna Yala."
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate 90% Plan Waste with Flexible Billing
+      desc: +movil's 30-day plan (B/.14.99/2GB) forces short-term tourists to waste
+        up to 90% of the plan's value. Roami offers 7-day plans starting from $1.99/GB,
+        saving up to 75% waste.
+    - icon: wifi
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Unrestricted Hotspot Sharing
+      desc: Tigo's B/.5 unlimited plan explicitly bans tethering, and Digicel's FUP
+        prohibits hotspot use. Roami eSIM allows full hotspot sharing for laptops
+        and tablets without restrictions.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Global Payments Without Hidden Taxes
+      desc: Claro's online top-up deducts 7% tax after payment (B/.10 becomes B/.9.30).
+        Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal with
+        no hidden fees.
+    - icon: globe
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Multi-Network Coverage in Remote Areas
+      desc: Tigo has no coverage in 62% of Panama's territory. Roami eSIM aggregates
+        multiple networks, ensuring connectivity in remote areas like Guna Yala.
 ---

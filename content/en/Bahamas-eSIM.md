@@ -1,6 +1,6 @@
 ---
 title: Bahamas eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Buy Bahamas eSIM | Worry-Free 5G Data | No Hidden Charges | Roami
   description: Traveling to Bahamas? Enjoy Top Local Carrier Seamless 5G and Worry-Free
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/bs.svg
   flag_alt: Bahamas Flag
   title: Bahamas eSIM data plan
-  subtitle: No hidden fees | No more roaming fees | Prioritized 5G access
+  subtitle: No hidden fees | No more roaming fees | Prioritized 5G access – The best
+    prepaid eSIM for Bahamas travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Bahamas eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -123,9 +124,11 @@ plans_data:
     tagColor: bg-slate-800
     daily: '2.43'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Bahamas eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Bahamas for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -164,11 +167,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Bahamas eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Bahamas.
   - icon: ⏰
@@ -183,8 +187,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -197,8 +202,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -527,7 +531,7 @@ faq_section:
         on the go using your Bahamas eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Bahamas eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -577,84 +581,99 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Bahamas eSIM Compared to Prepaid SIM Cards: What You Need to Know"
-  subtitle: "Bahamas Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Bahamas eSIM Compared to Prepaid SIM Cards: What You Need to Know'
+  subtitle: Bahamas Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Bahamas) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Bahamas"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Bahamas) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Bahamas
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Bahamas eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Bahamas eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "SIM card costs $15, requires passport for registration, and must be purchased at BTC or aliv stores (e.g., airport queues), taking 15-30 minutes."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip BTC and aliv store queues. Activate online within 1 minute after landing in Nassau, no passport needed."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All prepaid SIMs require passport as proof of identity during purchase."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid handing over your passport for KYC. Roami eSIM activates instantly without identity checks."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "aliv's international roaming add-on costs $26.85 for 500MB/7 days; BTC offers no specific roaming data. aliv has no coverage outside six main islands and no roaming agreement with BTC."
-      esim_title: "Seamless Multi-Island Coverage"
-      esim_desc: "Unlike aliv (no coverage outside six main islands), Roami connects to the best local network across all 700 islands, avoiding dead zones."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "BTC 7-day plan costs $9.99 for 2GB (plus 12% VAT); aliv 7-day plans start at $5 for 500MB. aliv 30-day plans start at $30 for 3GB. Short trips waste up to 80% of plan value."
-      esim_title: "Flexible Plans, Zero Waste"
-      esim_desc: "Unlike aliv's 7-day ($5/500MB) or 30-day ($30/3GB) cycles, Roami offers 7-day plans starting from $1.99/GB, saving up to 80% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, both BTC and aliv allow tethering but may throttle after high usage."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami allows full-speed hotspot sharing, unlike some local plans that throttle after 3GB/day."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up can be done online or at kiosks; foreign cards may be rejected. BTC and aliv accept Visa and Mastercard in stores."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local cash or vouchers."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is available via phone and in-store; no 24/7 live chat for prepaid."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock support via live chat, unlike BTC and aliv's limited phone hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: SIM card costs $15, requires passport for registration, and must
+      be purchased at BTC or aliv stores (e.g., airport queues), taking 15-30 minutes.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip BTC and aliv store queues. Activate online within 1 minute after
+      landing in Nassau, no passport needed.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: All prepaid SIMs require passport as proof of identity during purchase.
+    esim_title: No Passport Required
+    esim_desc: Avoid handing over your passport for KYC. Roami eSIM activates instantly
+      without identity checks.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: aliv's international roaming add-on costs $26.85 for 500MB/7 days;
+      BTC offers no specific roaming data. aliv has no coverage outside six main islands
+      and no roaming agreement with BTC.
+    esim_title: Seamless Multi-Island Coverage
+    esim_desc: Unlike aliv (no coverage outside six main islands), Roami connects
+      to the best local network across all 700 islands, avoiding dead zones.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: BTC 7-day plan costs $9.99 for 2GB (plus 12% VAT); aliv 7-day plans
+      start at $5 for 500MB. aliv 30-day plans start at $30 for 3GB. Short trips waste
+      up to 80% of plan value.
+    esim_title: Flexible Plans, Zero Waste
+    esim_desc: Unlike aliv's 7-day ($5/500MB) or 30-day ($30/3GB) cycles, Roami offers
+      7-day plans starting from $1.99/GB, saving up to 80% waste for short trips.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      knowledge, both BTC and aliv allow tethering but may throttle after high usage.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami allows full-speed hotspot sharing, unlike some local plans that
+      throttle after 3GB/day.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up can be done online or at kiosks; foreign cards may be rejected.
+      BTC and aliv accept Visa and Mastercard in stores.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for local cash or vouchers.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is available via phone and in-store; no 24/7 live
+      chat for prepaid.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock support via live chat, unlike BTC and aliv's limited
+      phone hours.
   expert_verdict:
-    title: "Bahamas eSIM vs Prepaid SIM: Cost and Convenience Compared"
+    title: 'Bahamas eSIM vs Prepaid SIM: Cost and Convenience Compared'
     cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Bahamas' Strict SIM Passport Requirements"
-        desc: "Both BTC and aliv require passport registration at purchase. Roami eSIM activates instantly with no KYC, saving 15-30 minutes at the airport."
-      - icon: "wifi"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Unrestricted Hotspot Sharing"
-        desc: "BTC and aliv may throttle tethering after high usage. Roami allows full-speed hotspot for all your devices, no restrictions."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, or Apple Pay"
-        desc: "Local top-up often rejects foreign cards. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal globally."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "24/7 Support vs Limited Local Hours"
-        desc: "BTC and aliv offer phone support only during business hours. Roami provides 24/7 live chat assistance in multiple languages."
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Bahamas' Strict SIM Passport Requirements
+      desc: Both BTC and aliv require passport registration at purchase. Roami eSIM
+        activates instantly with no KYC, saving 15-30 minutes at the airport.
+    - icon: wifi
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Unrestricted Hotspot Sharing
+      desc: BTC and aliv may throttle tethering after high usage. Roami allows full-speed
+        hotspot for all your devices, no restrictions.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Visa, Mastercard, or Apple Pay
+      desc: Local top-up often rejects foreign cards. Roami accepts Visa, Mastercard,
+        AMEX, Apple Pay, Google Pay, and PayPal globally.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: 24/7 Support vs Limited Local Hours
+      desc: BTC and aliv offer phone support only during business hours. Roami provides
+        24/7 live chat assistance in multiple languages.
 ---

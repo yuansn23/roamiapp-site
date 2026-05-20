@@ -19,10 +19,9 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Japan eSIM |20% OFF| High-Speed 5G for Visiting Family | Roami
-  description: Traveling to Japan? Stay connected via au Full-Speed 5G with 24/7 Data.
-    Ideal for Business Trips. Enjoy Unlimited Data with Auto Network Switch.
-  keywords: Japan eSIM, eSIM Japan, travel internet Japan, prepaid eSIM Japan
+  title: Best Japan eSIM | 20% OFF | Unlimited 5G Data Plans | Roami
+  description: Looking for the best Japan eSIM for travel? Roami offers prepaid eSIM Japan with high-speed 5G on NTT Docomo, SoftBank & KDDI. Buy eSIM online Japan – cheap unlimited data plans for tourists.
+  keywords: japan esim, esim japan, best esim for japan, e sim japan, prepaid esim japan, unlimited data esim japan, cheap esim japan, esim for japan travel, temporary esim japan, buy esim online japan, esim japan tourist, japan travel esim, best prepaid esim japan, esim tokyo, esim japan unlimited data, japan esim card
   low_price: 1.99
   high_price: 39.9
 order_summary:
@@ -45,9 +44,9 @@ hero:
   flag_image: img/flags/jp.svg
   flag_alt: Japan Flag
   title: Japan eSIM data plan
-  subtitle: Travel essential | 20% discount for a limited time | Instant delivery
+  subtitle: Travel essential | 20% discount for a limited time | Instant delivery – The best prepaid eSIM for Japan travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Japan eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -284,13 +283,13 @@ plans_data:
     tagColor: bg-purple-600
     daily: '2.87'
 discount_banner:
-  title: Special Discount!
+  title: Special Discount on Japan eSIM Plans
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order! Get the cheapest eSIM plan Japan for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: Network Coverage Details
+  title: Japan eSIM Network Coverage Details
   supports_text: 'Supports:'
   service_details:
     title: Service Details
@@ -302,7 +301,7 @@ network_coverage:
         like Tokyo, Osaka, Kyoto, and Yokohama. Our Japan eSIM seamlessly connects
         to the robust networks of NTT Docomo, SoftBank, and KDDI, ensuring stable
         signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+        routes. It's the cheapest eSIM plan Japan travelers can rely on without sacrificing quality.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -347,7 +346,7 @@ reminders:
     result_html: |-
       If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: Activation Steps
+  title: How to Activate Your Japan eSIM
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
@@ -417,11 +416,8 @@ faq_section:
         small plastic cards. We partner directly with top local networks in Japan,
         such as NTT Docomo, SoftBank, KDDI, to ensure premium speeds at a fraction
         of roaming costs.
-    - q: How do you compare with well-known eSIM providers like mobimatter, Airalo,
-        aloSIM, Holafly?
-      a: While great companies like mobimatter, Airalo, aloSIM, Holafly offer reliable
-        services, we focus on providing the most cost-effective Japan eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
+    - q: How do you compare with well-known eSIM providers like Ubigi, Holafly, Airalo, Klook, Saily, and Gigsky?
+      a: Roami focuses on providing the most cost-effective Japan eSIM for travelers, with flexible short-term plans starting from $1.99/GB – ideal for tourists on 3–15 day trips. Unlike some competitors that use fixed monthly cycles or require cash top-ups at convenience stores (e.g., povo 2.0), Roami offers true day‑based plans, saving you up to 75% on unused data. We accept global payment methods (Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal) with no hidden fees, and provide 24/7 English‑speaking customer support. While great providers like Ubigi, Holafly, Airalo, Klook, Saily, and Gigsky offer reliable services, Roami’s automatic price‑matching and direct partnerships with NTT Docomo, SoftBank, and KDDI ensure you get the best value without compromising on quality or coverage.
   - id: faq-airport
     icon: plane
     tab_title: Airports
@@ -681,7 +677,7 @@ faq_section:
         on the go using your Japan eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Japan eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -734,7 +730,7 @@ related_products:
 
 # =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Japan eSIM or SIM Card for Tourists: Which Should You Choose?"
+  title: "Japan eSIM vs Prepaid SIM Card: Key Differences Explained – Best eSIM for Japan Travelers"
   subtitle: "Japan Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
   citation:
     text: "Data Source: Prepaid Data SIM Card Wiki (Japan) + Local Operator Sites"
@@ -795,7 +791,7 @@ market_analysis:
         icon_bg: "bg-green-100"
         icon_color: "text-green-600"
         title: "International Roaming Without Extra Fees"
-        desc: "Japanese prepaid SIMs <b>do not support roaming</b> outside Japan. For multi-country trips (e.g., Japan-Korea), Roami eSIM offers <b>regional plans</b> covering multiple countries, avoiding the need to buy new SIMs."
+        desc: "Japanese prepaid SIMs <b>do not support roaming</b> outside Japan. For multi-country trips (e.g., Japan-Korea), Roami eSIM offers <b>regional plans</b> covering multiple countries – the best eSIM for Japan travelers who also visit nearby destinations."
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"

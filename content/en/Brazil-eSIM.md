@@ -1,6 +1,6 @@
 ---
 title: Brazil eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,12 +14,12 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Top Brazil eSIM | No Hidden Fees | Unlimited data | Roami
+  title: Brazil eSIM | No Hidden Fees | Unlimited data | Roami
   description: Traveling to Brazil? Get Roami's Stable 5G on TIM with No Roaming Shock.
     Perfect for Family Vacations, offering Zero Contracts and Best Local Network.
   keywords: Brazil eSIM, Brazil travel internet, instant eSIM Brazil, Claro eSIM,
@@ -46,9 +46,10 @@ hero:
   flag_image: img/flags/br.svg
   flag_alt: Brazil Flag
   title: Brazil eSIM data plan
-  subtitle: No hidden fees | No more roaming fees | Travel essential
+  subtitle: No hidden fees | No more roaming fees | Travel essential – The best prepaid
+    eSIM for Brazil travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Brazil eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -261,9 +262,11 @@ plans_data:
     tagColor: bg-purple-600
     daily: '9.57'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Brazil eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Brazil for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -301,11 +304,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Brazil eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Brazil.
   - icon: ⏰
@@ -320,8 +324,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -334,8 +339,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -345,321 +349,156 @@ activation_steps:
       data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: Brazil eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Brazil eSIM across different
-    travel scenarios.
+  title: "The Ultimate Guide to eSIM Data Plans for Brazil"
+  desc: "This guide covers everything you need to know about using an eSIM in Brazil, from staying connected at airports to navigating transport and attractions. Local operators like Vivo and Claro provide robust networks, making eSIMs a seamless choice for tourists and business travelers alike."
   categories:
-  - id: faq-general
-    icon: help-circle
-    tab_title: General
-    title: 1. General Questions
-    questions:
-    - q: Does my phone support the Brazil eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Brazil eSIM simply by scanning
-        the QR code we send to your email in your phone's Cellular/Mobile Data settings.
-    - q: How to buy and activate the Brazil eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Brazil and
-        your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Brazil eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Brazil eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Brazil that our support team cannot resolve, you are eligible for
-        a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Brazil eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Brazil eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Brazil eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Brazil eSIM compared to local SIM cards or
-        other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Brazil,
-        such as Claro, Vivo, TIM, to ensure premium speeds at a fraction of roaming
-        costs.
-    - q: How do you compare with well-known eSIM providers like Holafly, Ubigi, Airalo,
-        saily?
-      a: While great companies like Holafly, Ubigi, Airalo, saily offer reliable services,
-        we focus on providing the most cost-effective Brazil eSIM, ensuring lower
-        latency and better prices with our automatic price-matching system.
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
-    questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Brazil eSIM before your flight. Once you land at Guarulhos International
-        Airport (GRU), Galeão International Airport (GIG), Brasília International
-        Airport (BSB), simply turn off Airplane Mode and enable your eSIM line. It
-        will connect to the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Brazil eSIM activated upon landing, you can immediately open Uber,
-        99, Moovit to book a ride or use WhatsApp to message your pre-booked driver
-        without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Brazil eSIM data allows you to open Google Maps right at
-        the baggage claim in Guarulhos International Airport (GRU), Galeão International
-        Airport (GIG), Brasília International Airport (BSB) to check real-time train
-        schedules, bus routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Brazil eSIM online beforehand, you completely bypass the
-        tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Brazil eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Brazil eSIM cellular data to let your family know you've arrived
-        safely.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
-    questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Brazil eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Brazil, making navigation seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, 99, Moovit use VoIP (internet calling) and in-app messaging.
-        Since you have active Brazil eSIM data, drivers can call or message you directly
-        through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Brazil eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Brazil eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Brazil.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Brazil eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Brazil eSIM's data network while on
-        the train or in the car.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
-    questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Brazil eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Brazil eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Belmond Copacabana Palace, Hotel Unique, Fasano
-        São Paulo or a local guesthouse, you can input the address into Google Maps
-        and get turn-by-turn walking or transit directions using your Brazil eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Brazil eSIM data to trigger the verification code from your bank or app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Brazil eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download iFood, Rappi, Uber Eats and use your
-        Brazil eSIM data to order a hot meal directly to your hotel lobby or room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Brazil eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
-    questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Christ the Redeemer, Sugarloaf Mountain, Iguazu Falls
-        spontaneously, you can use your Brazil eSIM data to buy skip-the-line tickets
-        online and present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Brazil eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Brazil.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Brazil eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Brazil eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Brazil eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Brazil eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Brazil eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Brazil eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Brazil eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Brazil eSIM to
-        process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like iFood, Rappi, Uber Eats, register using
-        your email or social accounts, and order food seamlessly using your Brazil
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Pix,
-        Boleto Bancário, Mercado Pago require a brief internet handshake, which your
-        Brazil eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Brazil eSIM to find hidden culinary gems in the city.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
-    questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Brazil eSIM providing the internet, you can chat and call exactly as you do
-        at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Brazil eSIM gives you the
-        bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Brazil eSIM are clear and lag-free, no matter where you are in the
-        country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Brazil
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Brazil eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Brazil eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Brazil eSIM is set
-        as the primary data line so you never incur unexpected charges from your home
-        carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
-    questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Brazil, you can dial local emergency numbers like 190 (police), 192 (ambulance),
-        193 (fire) directly from your phone's dialer regardless of your active SIM,
-        as long as your phone can catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Brazil eSIM data allows you to immediately search Google Maps for 'pharmacy
-        near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Brazil eSIM to find the exact
-        address, emergency contact email, and opening hours of your country's embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Brazil eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Brazil eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Brazil eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Brazil eSIM connects to premium local networks, providing the high bandwidth
-        and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Brazil eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Brazil eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Brazil eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Brazil eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Brazil eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Brazil eSIM to update them on flight delays or schedule
-        changes.
+    - id: faq-general
+      icon: help-circle
+      tab_title: General
+      title: "1. General Questions About Brazil eSIM"
+      questions:
+        - q: "Can I activate my eSIM immediately after landing?"
+          a: "Yes, you can activate your eSIM as soon as you arrive at a Brazilian airport. The setup process typically takes just a few minutes after connecting to local Wi-Fi. This allows you to have data for navigation and communication right away. For instance, a 3GB 30-day plan is priced at $14.99, perfect for light use."
+        - q: "How do I choose the best eSIM for my trip to Brazil?"
+          a: "The best eSIM for Brazil depends on your data needs and trip length. For a short 3-day visit, a 1GB plan at $4.99 is ideal for basic tasks. For longer stays, consider a 5GB 30-day plan at $19.99 or a 20GB option at $30.99 for extensive browsing."
+        - q: "Does the eSIM work with both Vivo and Claro networks in Brazil?"
+          a: "Yes, many eSIM providers automatically connect to strong local networks like Vivo and Claro. This ensures reliable coverage across major cities and rural areas. Your device will switch to the best available signal without any manual intervention. This seamless connectivity is a key advantage of using an eSIM in Brazil."
+        - q: "Can I keep my home SIM card while using a Brazil eSIM?"
+          a: "Absolutely, you can use both your home SIM and a Brazil eSIM simultaneously. This dual-SIM feature allows you to receive calls on your home number while using the eSIM for data. It is a convenient way to stay reachable without incurring roaming charges. Most modern smartphones support this setup effortlessly."
+        - q: "What happens if I run out of data on my Brazil eSIM?"
+          a: "If you deplete your data, you can easily purchase a top-up from your provider's app or website. Additional data bundles are often available, such as a 10GB plan for $29.99 for 30 days. This flexibility ensures you never get disconnected during your travels. It is a straightforward process that takes only a few minutes."
+        - q: "Is an eSIM better than a physical SIM card for Brazil?"
+          a: "An eSIM offers greater convenience as it eliminates the need to find a store for a physical SIM. You can purchase and install it from anywhere, even before your trip. It also allows for easy switching between plans or providers without juggling plastic cards. This makes it a superior choice for modern travelers."
+        - q: "Do I need to declare my eSIM at customs in Brazil?"
+          a: "No, you do not need to declare an eSIM at customs, as it is a digital service. There are no physical components to present or register. This makes entering Brazil hassle-free, allowing you to focus on your journey. Simply have the activation instructions ready on your phone."
+        - q: "Can I use a Brazil eSIM on an iPhone or Android device?"
+          a: "Yes, eSIMs are compatible with most modern iPhones and Android smartphones. For iPhones, models from the XR onward support eSIM technology. On Android, devices like Google Pixel and Samsung Galaxy series offer full compatibility. Always check your device settings to confirm eSIM support before purchasing."
+        - q: "How does Roami compare to other eSIM providers like Airalo or Holafly in Brazil?"
+          a: "Roami offers competitive pricing and high-speed data on reliable networks like Vivo. While Airalo and Holafly are popular choices, Roami focuses on providing straightforward plans without hidden fees. For example, a 7-day 3GB plan with Roami is $9.99, which is comparable to other providers. The key is to compare data allowances and daily rates for your specific needs."
+        - q: "What is the daily cost of using an eSIM in Brazil?"
+          a: "The daily cost varies by plan, with options starting as low as $0.50 per day for a 30-day 3GB plan. For more data, a 30-day 20GB plan at $30.99 breaks down to about $1.03 per day. This pricing makes eSIMs a cost-effective alternative to traditional roaming. You can select a plan that matches your usage pattern exactly."
+    - id: faq-airport
+      icon: airplane
+      tab_title: Airports
+      title: "2. Brazil eSIM at Airports"
+      questions:
+        - q: "Can I activate my eSIM at Guarulhos International Airport in São Paulo?"
+          a: "Yes, you can activate your eSIM right after landing at Guarulhos Airport. The airport offers free Wi-Fi, which you can use for the initial setup. Once activated, you will have immediate data for ride-hailing apps and maps. This ensures a smooth transition from your flight to the city."
+        - q: "Is there eSIM coverage at Galeão International Airport in Rio de Janeiro?"
+          a: "Absolutely, Galeão Airport has excellent coverage from Brazilian networks like Vivo and Claro. Your eSIM will connect automatically within minutes of arrival. This allows you to book taxis or check hotel directions without delay. The strong signal ensures you stay online even in busy terminal areas."
+        - q: "Do I need a physical SIM to use data at Brazilian airports?"
+          a: "No, you do not need a physical SIM card, as eSIMs provide instant data access. You can purchase and install an eSIM before your trip, so it is ready upon landing. This eliminates the need to search for SIM kiosks in the airport. It is a hassle-free solution for staying connected."
+        - q: "What should I do if my eSIM doesn't activate at the airport?"
+          a: "First, connect to the airport's free Wi-Fi to ensure you have internet access for setup. Then, follow the provider's instructions to scan the QR code or enter the activation details. If issues persist, contact customer support via chat or email. Most problems are resolved within minutes with basic troubleshooting."
+        - q: "Can I buy a Brazil eSIM at the airport upon arrival?"
+          a: "While you can buy eSIMs online from anywhere, some providers offer airport-specific QR codes. It is more convenient to purchase and install your eSIM before traveling to Brazil. This way, you avoid the rush and potential connectivity gaps at the airport. Pre-planning ensures you have data the moment you step off the plane."
+    - id: faq-transport
+      icon: train
+      tab_title: Transport
+      title: "3. Brazil eSIM for Transport"
+      questions:
+        - q: "Can I use my eSIM for ride-hailing apps like Uber in Brazil?"
+          a: "Yes, your eSIM provides reliable data for apps like Uber and 99 in major cities. This allows you to request rides, track the driver, and make payments seamlessly. With a 7-day 5GB plan at $14.99, you can comfortably use navigation and ride services. The high-speed connection ensures real-time updates without buffering."
+        - q: "Will my eSIM work on São Paulo's metro system?"
+          a: "Yes, the São Paulo metro has good cellular coverage, including for eSIM users. You can access maps, check schedules, and listen to music while underground. A 3GB 30-day plan at $14.99 is sufficient for occasional metro use. This keeps you connected even during your commute."
+        - q: "Can I use my eSIM for GPS navigation while driving in Brazil?"
+          a: "Absolutely, your eSIM supports GPS apps like Google Maps or Waze for turn-by-turn directions. With a 30-day 10GB plan at $29.99, you can navigate extensively across cities and highways. The high-speed data ensures quick route recalculations and traffic updates. This is essential for avoiding road closures and delays."
+        - q: "Is eSIM coverage reliable on long-distance buses in Brazil?"
+          a: "Coverage on long-distance buses can vary, but major routes near cities are well-supported. Networks like Vivo provide consistent signals on highways between Rio and São Paulo. For extended journeys, consider a 20GB plan at $30.99 for 30 days. This ensures you have data for entertainment and communication during the trip."
+        - q: "How much data do I need for transport apps during a week in Brazil?"
+          a: "For a week of moderate use, a 3GB plan at $9.99 is usually sufficient for navigation and ride-hailing. If you plan to stream music or use maps frequently, a 5GB plan at $14.99 offers more buffer. This covers daily commutes and occasional detours. Always check your usage to avoid running out."
+    - id: faq-hotels
+      icon: building
+      tab_title: Hotels
+      title: "4. Brazil eSIM for Hotels"
+      questions:
+        - q: "Can I use my eSIM for hotel Wi-Fi backup in Brazil?"
+          a: "Yes, your eSIM serves as an excellent backup if hotel Wi-Fi is slow or unreliable. You can stream movies, join video calls, or browse without interruptions. A 7-day 10GB plan at $22.99 provides ample data for such needs. This ensures you stay productive and entertained during your stay."
+        - q: "How do I check in to my hotel using only my eSIM?"
+          a: "Your eSIM allows you to access your booking confirmation and emails instantly. You can show the digital confirmation at the front desk without needing printed documents. This is especially helpful if you arrive late and need quick access. The data connection ensures you have all necessary information at your fingertips."
+        - q: "Will my eSIM work in hotel rooms with thick walls in Brazil?"
+          a: "Most hotels in urban areas have strong network coverage that penetrates well. Networks like Claro ensure reliable signals in standard rooms. If you experience weak signals, moving near a window often helps. A high-speed plan ensures you stay connected even in less ideal conditions."
+        - q: "Can I share my eSIM data with other devices in my hotel room?"
+          a: "Yes, you can enable a personal hotspot on your phone to share data with a laptop or tablet. This is useful for working or streaming on larger screens. A 30-day 20GB plan at $47.99 offers enough data for multiple devices. Just monitor your usage to avoid exceeding the limit."
+        - q: "What is the best eSIM plan for a hotel stay of several days in Brazil?"
+          a: "For a week-long hotel stay, a 7-day 5GB plan at $14.99 is a great balance of cost and data. If you need more for streaming or work, consider the 10GB plan at $22.99. These plans provide high-speed connectivity for all your hotel needs. You can choose based on your expected daily usage."
+    - id: faq-attractions
+      icon: landmark
+      tab_title: Attractions
+      title: "5. Brazil eSIM for Attractions"
+      questions:
+        - q: "Can I use my eSIM to buy tickets for Christ the Redeemer online?"
+          a: "Yes, your eSIM allows you to purchase tickets for Christ the Redeemer and other attractions via mobile apps. You can avoid long queues by booking in advance. A 3GB 15-day plan at $13.99 is sufficient for such transactions. This ensures you have a smooth and efficient experience."
+        - q: "Will my eSIM work at Iguazu Falls for sharing photos?"
+          a: "Yes, Iguazu Falls has decent network coverage from local providers like Vivo. You can upload photos and videos to social media without issues. A 7-day 10GB plan at $22.99 provides enough data for extensive sharing. This allows you to document your visit in real-time."
+        - q: "Can I stream a guided tour audio on my eSIM at historical sites?"
+          a: "Absolutely, your eSIM supports streaming audio guides from apps like Google Arts & Culture. This enhances your experience at sites like the São Paulo Museum of Art. A 3GB 30-day plan at $14.99 is ideal for such moderate streaming. The high-speed connection ensures clear, uninterrupted audio."
+        - q: "Is eSIM coverage available at Copacabana Beach in Rio de Janeiro?"
+          a: "Yes, Copacabana Beach has excellent coverage from Claro and Vivo networks. You can use your eSIM to listen to music, check maps, or post stories. A 5GB 15-day plan at $16.99 is perfect for a beach day with light usage. This keeps you connected while enjoying the sun."
+        - q: "How much data do I need for a day at a Brazilian theme park?"
+          a: "For a full day at a theme park like Beto Carrero World, a 3GB plan at $9.99 for 7 days is adequate. You can use it for maps, ride wait times, and sharing photos. If you plan to stream or video call, consider a 5GB plan at $14.99. This covers all your entertainment needs."
+    - id: faq-social
+      icon: message-circle
+      tab_title: Social & Messaging
+      title: "6. Brazil eSIM for Social Media"
+      questions:
+        - q: "Can I use my eSIM for WhatsApp calls and messages in Brazil?"
+          a: "Yes, your eSIM supports WhatsApp for voice calls, video calls, and text messages seamlessly. This is a cost-effective way to stay in touch with family and friends. A 3GB 7-day plan at $9.99 covers extensive WhatsApp usage. The high-speed data ensures clear call quality."
+        - q: "Will my eSIM work for Instagram Stories and TikTok uploads in Brazil?"
+          a: "Absolutely, your eSIM provides fast upload speeds for Instagram Stories and TikTok videos. You can share your travel experiences instantly without buffering. A 5GB 15-day plan at $16.99 is ideal for frequent social media posting. This keeps your followers updated throughout your trip."
+        - q: "Can I use my eSIM for video calls on Zoom or FaceTime in Brazil?"
+          a: "Yes, your eSIM supports high-quality video calls on Zoom, FaceTime, or Google Meet. A 10GB 30-day plan at $29.99 offers enough data for several hours of calls. This is useful for both personal and professional communication. The reliable network ensures minimal lag or interruptions."
+        - q: "Is there enough data in basic plans for social media browsing in Brazil?"
+          a: "Yes, basic plans like a 3GB 30-day option at $14.99 are sufficient for social media browsing. You can scroll through feeds, like posts, and send messages without issues. For heavier use like streaming videos, consider a 5GB plan. This ensures you stay within your data limits."
+        - q: "How do I avoid data overage while using social media on my eSIM in Brazil?"
+          a: "Monitor your data usage through your phone's settings or the provider's app. Avoid streaming high-resolution videos on cellular data to conserve bandwidth. Using a 5GB plan at $14.99 for 7 days provides a clear limit. This helps you manage your consumption effectively."
+    - id: faq-crossborder
+      icon: globe
+      tab_title: Cross-border
+      title: "7. Brazil eSIM for Cross-Border Travel"
+      questions:
+        - q: "Can I use my Brazil eSIM in neighboring countries like Argentina?"
+          a: "Most Brazil-specific eSIMs are limited to Brazil's borders and may not work in Argentina. You should check your provider's coverage map before traveling. Some providers offer regional plans that include multiple South American countries. For cross-border trips, consider a dedicated plan for each destination."
+        - q: "Will my eSIM work if I take a day trip to Foz do Iguaçu from Brazil?"
+          a: "Yes, Foz do Iguaçu is in Brazil, so your eSIM will work perfectly there. However, if you cross into Argentina to see the falls from the other side, coverage may stop. It is important to have a separate plan for Argentina if needed. This ensures you stay connected without interruptions."
+        - q: "Can I use my eSIM on a cruise that stops in Brazilian ports?"
+          a: "Your eSIM will work when you are within range of Brazilian cellular networks on land. On the ship, you may need to use the ship's Wi-Fi or purchase a separate maritime plan. This is because cruise ships often have their own networks. Plan accordingly to avoid roaming charges at sea."
+        - q: "What happens to my eSIM when I fly from Brazil to another country?"
+          a: "When you leave Brazil, your eSIM will stop working as it is tied to the Brazilian network. You will need to purchase a new eSIM for your next destination. Some providers offer global or regional plans for seamless transitions. This ensures you have data wherever you go."
+        - q: "Are there eSIM plans that cover Brazil and other South American countries?"
+          a: "Yes, some providers offer regional plans that include Brazil along with countries like Chile or Peru. These plans are convenient for multi-country trips. For example, you might find a plan covering several areas, but check the specific data allowances. This avoids the need to switch eSIMs at each border."
+    - id: faq-emergency
+      icon: alert-triangle
+      tab_title: Emergencies
+      title: "8. Brazil eSIM for Emergencies"
+      questions:
+        - q: "Can I use my eSIM to call emergency services in Brazil?"
+          a: "Yes, even without a Brazilian phone number, you can dial 190 for police or 192 for ambulances. Your eSIM provides data for location sharing with emergency responders. This is crucial in situations where you need immediate assistance. Ensure your phone has battery and signal for such calls."
+        - q: "Will my eSIM work if there is a natural disaster in Brazil?"
+          a: "During natural disasters, network congestion may occur, but your eSIM will likely still function. Local networks like Vivo and Claro have backup systems to maintain connectivity. You can use data to send messages or access emergency apps. It is wise to have offline maps downloaded as a precaution."
+        - q: "Can I use my eSIM to find the nearest hospital or pharmacy in Brazil?"
+          a: "Absolutely, your eSIM allows you to search for nearby hospitals and pharmacies using Google Maps. You can get directions and contact information quickly. A 3GB 30-day plan at $14.99 provides enough data for such searches. This is essential for addressing health concerns during your trip."
+        - q: "How do I contact my embassy using my eSIM in Brazil?"
+          a: "You can use your eSIM to call or email your embassy via their website or contact numbers. Data allows you to access embassy pages for guidance and support. This is especially helpful in cases of lost passports or legal issues. The reliable connection ensures you get help promptly."
+        - q: "Is it possible to share my location with family using my eSIM during an emergency?"
+          a: "Yes, you can share your real-time location via apps like WhatsApp or Google Maps. Your eSIM provides the data needed to send these updates to family or friends. This is a critical feature for ensuring safety during emergencies. It allows loved ones to track your whereabouts easily."
+    - id: faq-business
+      icon: briefcase
+      tab_title: Business
+      title: "9. Brazil eSIM for Business Travelers"
+      questions:
+        - q: "Can I use my eSIM for corporate email and video conferencing in Brazil?"
+          a: "Yes, your eSIM supports corporate email sync and video conferencing on platforms like Microsoft Teams. A 10GB 30-day plan at $29.99 is ideal for moderate business use. This ensures you stay productive during meetings and while checking emails. The high-speed connection minimizes lag in video calls."
+        - q: "Is a 1GB eSIM plan sufficient for a short business trip to Brazil?"
+          a: "For a very short business trip of 3 days, a 1GB plan at $4.99 is sufficient for essentials. You can check emails, use messaging apps, and access cloud documents. However, if you need to attend video calls, consider a 3GB plan at $8.99. This provides a comfortable buffer for work tasks."
+        - q: "Can I use my eSIM to access cloud services like Dropbox or Google Drive in Brazil?"
+          a: "Absolutely, your eSIM allows you to upload, download, and sync files on cloud services. A 20GB 30-day plan at $30.99 is great for handling larger files. This is beneficial for business travelers who need to share documents on the go. The speed ensures quick transfers without delays."
+        - q: "Will my eSIM work in business districts like Paulista Avenue in São Paulo?"
+          a: "Yes, Paulista Avenue has excellent coverage from networks like Vivo and Claro. You can rely on your eSIM for seamless connectivity in offices and co-working spaces. A 7-day 10GB plan at $22.99 provides enough data for a week of work. This ensures you stay connected in one of Brazil's busiest areas."
+        - q: "How do I manage multiple eSIM profiles for business and personal use in Brazil?"
+          a: "You can store multiple eSIM profiles on your phone and switch between them as needed. For example, use one for work data and another for personal browsing. This separation helps manage costs and data usage effectively. Most smartphones allow you to label each profile for easy identification."
 related_products:
-  title: Related eSIM Plans
+  title: Related Brazil eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -709,84 +548,109 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Brazil eSIM or SIM Card for Tourists: Which Should You Choose?"
-  subtitle: "Brazil Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Brazil eSIM or SIM Card for Tourists: Which Should You Choose?'
+  subtitle: Brazil Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Brazil) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Brazil"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Brazil) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Brazil
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Brazil eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Brazil eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Vivo stores in Rio de Janeiro refused to sell SIM cards to foreigners without CPF in January 2024; TIM requires calling a hotline (*144, press 3 then 3 for English) to activate with passport and address."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Vivo store queues and TIM's phone activation. Roami eSIM activates online within 1 minute after landing in Brazil, no passport or CPF needed."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "TIM's app 'Meu TIM' mandates CPF input, rejecting passport numbers; Vivo's app is non-functional without CPF."
-      esim_title: "No Passport or CPF Required"
-      esim_desc: "Unlike Vivo and TIM which demand CPF or passport registration, Roami eSIM requires zero personal ID – just purchase and activate instantly."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Brazilian operators (Vivo, TIM, Claro) do not offer Mercosur roaming or 'Roam Like at Home' for prepaid users; leaving Brazil results in immediate loss of signal."
-      esim_title: "Seamless South America Roaming"
-      esim_desc: "While Vivo/TIM/Claro prepaid SIMs lose signal outside Brazil, Roami eSIM offers regional plans covering Mercosur countries, ensuring connectivity across borders."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "TIM's cheapest plan costs R$15 for only 1.42GB with a 9-day validity; Vivo's R$17 plan offers 4GB for 15 days; a 7-day trip wastes up to 50% of the plan's value."
-      esim_title: "Flexible Daily Plans"
-      esim_desc: "Avoid TIM's 9-day minimum (R$15) waste. Roami offers 7-day plans starting from $1.99/GB, saving up to 50% on unused days compared to local SIMs."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, Brazilian prepaid SIMs generally allow tethering but may throttle speeds after a daily limit (e.g., Claro's daily 250MB cap)."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike Claro's daily 250MB cap that throttles hotspot, Roami eSIM allows full-speed tethering with no daily limits, perfect for sharing data across devices."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Online top-up for Vivo requires receiving a verification SMS, which is impossible when the account is suspended; international credit cards often incur fees and fraud risks on third-party platforms."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local CPF or risky third-party top-up platforms."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "TIM's customer support for activation requires calling *144 and navigating to English-speaking agents; Vivo's app is unusable without CPF, limiting self-service options."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Forget TIM's complex *144 hotline. Roami provides 24/7 live chat and email support in English, with no CPF or phone tree navigation."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Vivo stores in Rio de Janeiro refused to sell SIM cards to foreigners
+      without CPF in January 2024; TIM requires calling a hotline (*144, press 3 then
+      3 for English) to activate with passport and address.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Vivo store queues and TIM's phone activation. Roami eSIM activates
+      online within 1 minute after landing in Brazil, no passport or CPF needed.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: TIM's app 'Meu TIM' mandates CPF input, rejecting passport numbers;
+      Vivo's app is non-functional without CPF.
+    esim_title: No Passport or CPF Required
+    esim_desc: Unlike Vivo and TIM which demand CPF or passport registration, Roami
+      eSIM requires zero personal ID – just purchase and activate instantly.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Brazilian operators (Vivo, TIM, Claro) do not offer Mercosur roaming
+      or 'Roam Like at Home' for prepaid users; leaving Brazil results in immediate
+      loss of signal.
+    esim_title: Seamless South America Roaming
+    esim_desc: While Vivo/TIM/Claro prepaid SIMs lose signal outside Brazil, Roami
+      eSIM offers regional plans covering Mercosur countries, ensuring connectivity
+      across borders.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: TIM's cheapest plan costs R$15 for only 1.42GB with a 9-day validity;
+      Vivo's R$17 plan offers 4GB for 15 days; a 7-day trip wastes up to 50% of the
+      plan's value.
+    esim_title: Flexible Daily Plans
+    esim_desc: Avoid TIM's 9-day minimum (R$15) waste. Roami offers 7-day plans starting
+      from $1.99/GB, saving up to 50% on unused days compared to local SIMs.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      Brazilian prepaid SIMs generally allow tethering but may throttle speeds after
+      a daily limit (e.g., Claro's daily 250MB cap).
+    esim_title: Unrestricted Tethering
+    esim_desc: Unlike Claro's daily 250MB cap that throttles hotspot, Roami eSIM allows
+      full-speed tethering with no daily limits, perfect for sharing data across devices.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Online top-up for Vivo requires receiving a verification SMS, which
+      is impossible when the account is suspended; international credit cards often
+      incur fees and fraud risks on third-party platforms.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for local CPF or risky third-party top-up platforms.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: TIM's customer support for activation requires calling *144 and
+      navigating to English-speaking agents; Vivo's app is unusable without CPF, limiting
+      self-service options.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Forget TIM's complex *144 hotline. Roami provides 24/7 live chat and
+      email support in English, with no CPF or phone tree navigation.
   expert_verdict:
-    title: "Brazil eSIM vs Physical SIM: Which Is Better for Travel?"
+    title: 'Brazil eSIM vs Physical SIM: Which Is Better for Travel?'
     cards:
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from Short Validity"
-        desc: "TIM's cheapest plan costs R$15 for only 1.42GB with a 9-day validity. A 7-day tourist wastes 2 days (22% of plan). Roami offers 7-day plans from $1.99/GB, matching your exact trip length."
-      - icon: "headset"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "24/7 Support in English"
-        desc: "TIM's support hotline *144 is complex and only offers English after multiple menu selections. Roami provides 24/7 live chat and email support in English, with quick response times."
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "Keep Your Home SIM Active"
-        desc: "Using a local SIM requires removing your home SIM, risking loss and missing bank OTPs. Roami eSIM works alongside your home SIM, ensuring you never lose connectivity to your primary number."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Roaming Blackout Outside Brazil"
-        desc: "Vivo, TIM, and Claro prepaid SIMs do not support Mercosur roaming. Leaving Brazil means instant disconnection. Roami eSIM offers regional plans covering Argentina, Chile, and more, keeping you connected across borders."
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate Sunk Cost from Short Validity
+      desc: TIM's cheapest plan costs R$15 for only 1.42GB with a 9-day validity.
+        A 7-day tourist wastes 2 days (22% of plan). Roami offers 7-day plans from
+        $1.99/GB, matching your exact trip length.
+    - icon: headset
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: 24/7 Support in English
+      desc: TIM's support hotline *144 is complex and only offers English after multiple
+        menu selections. Roami provides 24/7 live chat and email support in English,
+        with quick response times.
+    - icon: shield
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: Keep Your Home SIM Active
+      desc: Using a local SIM requires removing your home SIM, risking loss and missing
+        bank OTPs. Roami eSIM works alongside your home SIM, ensuring you never lose
+        connectivity to your primary number.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Roaming Blackout Outside Brazil
+      desc: Vivo, TIM, and Claro prepaid SIMs do not support Mercosur roaming. Leaving
+        Brazil means instant disconnection. Roami eSIM offers regional plans covering
+        Argentina, Chile, and more, keeping you connected across borders.
 ---

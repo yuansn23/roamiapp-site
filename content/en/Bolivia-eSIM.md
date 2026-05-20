@@ -1,6 +1,6 @@
 ---
 title: Bolivia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Bolivia Travel eSIM | Unlimited data | True 5G | Roami
   description: Heading to Bolivia soon? Experience Fair Use Data and seamless Reliable
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/bo.svg
   flag_alt: Bolivia Flag
   title: Bolivia eSIM data plan
-  subtitle: 24/7 customer support | Top rated | Smooth video streaming
+  subtitle: 24/7 customer support | Top rated | Smooth video streaming – The best
+    prepaid eSIM for Bolivia travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Bolivia eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -139,9 +140,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '2.33'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Bolivia eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Bolivia for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -180,11 +183,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Bolivia eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Bolivia.
   - icon: ⏰
@@ -199,8 +203,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -213,8 +218,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -541,7 +545,7 @@ faq_section:
         on the go using your Bolivia eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Bolivia eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -591,84 +595,104 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Bolivia eSIM vs Local Prepaid SIM: Which Is More Convenient?"
-  subtitle: "Bolivia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Bolivia eSIM vs Local Prepaid SIM: Which Is More Convenient?'
+  subtitle: Bolivia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Bolivia) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Bolivia"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Bolivia) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Bolivia
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Bolivia eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Bolivia eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Must visit a store with passport for initial purchase and registration; Tigo requires registration within 5 days via *108# (Spanish instructions)."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Entel or Tigo store queues and passport checks. Activate Roami eSIM online within 1 minute before landing in La Paz."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Mandatory SIM registration with passport; Tigo requires registration within 5 days via *108# or online, otherwise service suspension."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid Tigo's mandatory registration within 5 days via Spanish *108# code. Roami eSIM activates instantly with zero KYC."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "CAN roaming agreement exists with Colombia, Peru, Ecuador but fair use policy (FUP) is unclear, posing risk of throttling; outside CAN, international roaming rates are expensive."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "Unlike Entel's CAN roaming with unclear FUP limits, Roami offers transparent data plans in over 100 countries without throttling risks."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Entel offers 30-day plans (e.g., 1GB for Bs 40) and daily plans; Tigo offers 7-day (1.2GB for Bs 35) and 30-day plans; Viva auto-renews plans unless cancelled."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Tigo's 30-day plan (1GB for Bs 55) or Viva's auto-renewing 7-day plan, Roami offers 7-day plans starting from $1.99/GB, eliminating sunk cost."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed but may be restricted on some plans."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami allows full-speed hotspot sharing, unlike some local plans that may restrict tethering. Use your data on any device."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up via Pago Express (minimum Bs 5) or scratch cards (minimum Bs 10); online payment with international credit cards may be rejected."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to find Pago Express kiosks or deal with rejected international cards."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, support is primarily in Spanish, with limited English assistance."
-      esim_title: "24/7 English Support"
-      esim_desc: "Get round-the-clock support in English, unlike local operators that primarily offer Spanish-only assistance during business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Must visit a store with passport for initial purchase and registration;
+      Tigo requires registration within 5 days via *108# (Spanish instructions).
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Entel or Tigo store queues and passport checks. Activate Roami
+      eSIM online within 1 minute before landing in La Paz.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Mandatory SIM registration with passport; Tigo requires registration
+      within 5 days via *108# or online, otherwise service suspension.
+    esim_title: No Passport Required
+    esim_desc: Avoid Tigo's mandatory registration within 5 days via Spanish *108#
+      code. Roami eSIM activates instantly with zero KYC.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: CAN roaming agreement exists with Colombia, Peru, Ecuador but fair
+      use policy (FUP) is unclear, posing risk of throttling; outside CAN, international
+      roaming rates are expensive.
+    esim_title: Global Roaming Ready
+    esim_desc: Unlike Entel's CAN roaming with unclear FUP limits, Roami offers transparent
+      data plans in over 100 countries without throttling risks.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Entel offers 30-day plans (e.g., 1GB for Bs 40) and daily plans;
+      Tigo offers 7-day (1.2GB for Bs 35) and 30-day plans; Viva auto-renews plans
+      unless cancelled.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike Tigo's 30-day plan (1GB for Bs 55) or Viva's auto-renewing 7-day
+      plan, Roami offers 7-day plans starting from $1.99/GB, eliminating sunk cost.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      tethering is generally allowed but may be restricted on some plans.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami allows full-speed hotspot sharing, unlike some local plans that
+      may restrict tethering. Use your data on any device.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up via Pago Express (minimum Bs 5) or scratch cards (minimum
+      Bs 10); online payment with international credit cards may be rejected.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need to find Pago Express kiosks or deal with rejected international cards.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      support is primarily in Spanish, with limited English assistance.
+    esim_title: 24/7 English Support
+    esim_desc: Get round-the-clock support in English, unlike local operators that
+      primarily offer Spanish-only assistance during business hours.
   expert_verdict:
-    title: "Bolivia eSIM vs Prepaid SIM: Which One Saves You Money and Hassle?"
+    title: 'Bolivia eSIM vs Prepaid SIM: Which One Saves You Money and Hassle?'
     cards:
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid CAN Roaming Throttling Risks"
-        desc: "Entel's CAN roaming (Colombia, Peru, Ecuador) has unclear FUP limits, risking throttling after a few GB. Roami offers <b>transparent data</b> with no hidden caps."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Global Cards, No Local Hassles"
-        desc: "Local top-up via Pago Express or scratch cards (min Bs 10) often rejects foreign credit cards. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Bolivia's Strict SIM Passport Requirements"
-        desc: "Entel and Tigo require passport registration in-store or via Spanish codes. Roami eSIM activates instantly with <b>no KYC</b>, saving 15-30 minutes of paperwork."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost from 30-Day Plans"
-        desc: "Tigo's 30-day 1GB plan costs Bs 55, but a 7-day tourist wastes 77% of the plan. Roami's 7-day plan from <b>$1.99/GB</b> matches your trip length exactly."
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid CAN Roaming Throttling Risks
+      desc: Entel's CAN roaming (Colombia, Peru, Ecuador) has unclear FUP limits,
+        risking throttling after a few GB. Roami offers <b>transparent data</b> with
+        no hidden caps.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Global Cards, No Local Hassles
+      desc: Local top-up via Pago Express or scratch cards (min Bs 10) often rejects
+        foreign credit cards. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay,
+        Google Pay, PayPal</b>.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Bolivia's Strict SIM Passport Requirements
+      desc: Entel and Tigo require passport registration in-store or via Spanish codes.
+        Roami eSIM activates instantly with <b>no KYC</b>, saving 15-30 minutes of
+        paperwork.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate Sunk Cost from 30-Day Plans
+      desc: Tigo's 30-day 1GB plan costs Bs 55, but a 7-day tourist wastes 77% of
+        the plan. Roami's 7-day plan from <b>$1.99/GB</b> matches your trip length
+        exactly.
 ---

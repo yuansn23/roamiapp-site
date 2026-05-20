@@ -1,6 +1,6 @@
 ---
 title: Russia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Buy Russia eSIM | Fair Use 5G Data |20% OFF| Roami
   description: Need internet in Russia? Stay connected via Beeline True 5G with Unlimited
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/ru.svg
   flag_alt: Russia Flag
   title: Russia eSIM data plan
-  subtitle: Travel essential | Hotspot supported | Bestseller
+  subtitle: Travel essential | Hotspot supported | Bestseller – The best prepaid eSIM
+    for Russia travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Russia eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -270,9 +271,11 @@ plans_data:
     daily: '0.30'
     tagIcon: star
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Russia eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Russia for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -310,11 +313,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Russia eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Russia.
   - icon: ⏰
@@ -329,8 +333,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -343,8 +348,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -671,7 +675,7 @@ faq_section:
         on the go using your Russia eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Russia eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -721,84 +725,117 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Russia eSIM vs Prepaid SIM: Cost and Convenience Compared"
-  subtitle: "Russia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Russia eSIM vs Prepaid SIM: Cost and Convenience Compared'
+  subtitle: Russia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Russia) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Russia"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Russia) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Russia
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Russia eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Russia eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Since January 1, 2025, Russia has implemented strict biometric registration laws requiring foreigners to complete fingerprint, 3D facial photo, and voice sample capture before obtaining a SIM card. The entire process can take half a day or more."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip the half-day biometric registration at MFC. Activate online within 1 minute after landing in Moscow, avoiding the 2025 biometric law requiring fingerprint, 3D face, and voice capture."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Since 2025, foreigners must submit a notarized passport translation, SNILS number, and complete biometric registration on Gosuslugi (fingerprint, 3D face, voice)."
-      esim_title: "No Passport Registration"
-      esim_desc: "No need for notarized passport translation, SNILS, or Gosuslugi biometrics. Unlike MegaFon and MTS which require in-person KYC with passport and visa, eSIM activates instantly without identity checks."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "MegaFon's 'Roam at home' costs 399 rubles/day with a 1GB data cap. Beeline's roaming in over 100 countries costs 350 rubles/day for only 100MB, requiring an additional 99 rubles for 1GB."
-      esim_title: "Global Roaming Included"
-      esim_desc: "Avoid MegaFon's 399 rubles/day roaming with only 1GB. Roami eSIM offers multi-country plans starting from $1.99/GB, with seamless network switching when traveling from Russia to Europe."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "MegaFon's 'Warm Welcome' plan costs 600 rubles/month for 30GB but uses a half-month billing cycle: first half fee for first 15 days, second half on day 16. MTS has a fixed 30-day cycle. A 7-day trip wastes over 50% of the plan's value."
-      esim_title: "Flexible Daily Plans"
-      esim_desc: "Unlike MegaFon's 14-day plan (700 rubles for 30GB) that wastes over 50% for a 7-day trip, Roami offers 7-day plans starting from $1.99/GB, saving you money and eliminating sunk costs."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Yota restricts hotspot speed to 128 Kbps unless you pay an extra 190 rubles for 24 hours. Beeline officially prohibits tethering during international roaming."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "No 128 Kbps hotspot throttle like Yota, and no prohibition like Beeline's roaming tethering ban. Roami allows full-speed hotspot sharing across all devices."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "MTS official website rejects many international credit cards (error code 70108), forcing tourists to use third-party top-up services with high commissions."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to deal with MTS's error code 70108 or third-party top-up services with high commissions."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is primarily in Russian, with limited English availability."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock support in English, unlike Russian operators that primarily offer support in Russian with limited hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Since January 1, 2025, Russia has implemented strict biometric registration
+      laws requiring foreigners to complete fingerprint, 3D facial photo, and voice
+      sample capture before obtaining a SIM card. The entire process can take half
+      a day or more.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip the half-day biometric registration at MFC. Activate online within
+      1 minute after landing in Moscow, avoiding the 2025 biometric law requiring
+      fingerprint, 3D face, and voice capture.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Since 2025, foreigners must submit a notarized passport translation,
+      SNILS number, and complete biometric registration on Gosuslugi (fingerprint,
+      3D face, voice).
+    esim_title: No Passport Registration
+    esim_desc: No need for notarized passport translation, SNILS, or Gosuslugi biometrics.
+      Unlike MegaFon and MTS which require in-person KYC with passport and visa, eSIM
+      activates instantly without identity checks.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: MegaFon's 'Roam at home' costs 399 rubles/day with a 1GB data cap.
+      Beeline's roaming in over 100 countries costs 350 rubles/day for only 100MB,
+      requiring an additional 99 rubles for 1GB.
+    esim_title: Global Roaming Included
+    esim_desc: Avoid MegaFon's 399 rubles/day roaming with only 1GB. Roami eSIM offers
+      multi-country plans starting from $1.99/GB, with seamless network switching
+      when traveling from Russia to Europe.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: 'MegaFon''s ''Warm Welcome'' plan costs 600 rubles/month for 30GB
+      but uses a half-month billing cycle: first half fee for first 15 days, second
+      half on day 16. MTS has a fixed 30-day cycle. A 7-day trip wastes over 50% of
+      the plan''s value.'
+    esim_title: Flexible Daily Plans
+    esim_desc: Unlike MegaFon's 14-day plan (700 rubles for 30GB) that wastes over
+      50% for a 7-day trip, Roami offers 7-day plans starting from $1.99/GB, saving
+      you money and eliminating sunk costs.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: Yota restricts hotspot speed to 128 Kbps unless you pay an extra
+      190 rubles for 24 hours. Beeline officially prohibits tethering during international
+      roaming.
+    esim_title: Unrestricted Tethering
+    esim_desc: No 128 Kbps hotspot throttle like Yota, and no prohibition like Beeline's
+      roaming tethering ban. Roami allows full-speed hotspot sharing across all devices.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: MTS official website rejects many international credit cards (error
+      code 70108), forcing tourists to use third-party top-up services with high commissions.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need to deal with MTS's error code 70108 or third-party top-up services with
+      high commissions.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      customer support is primarily in Russian, with limited English availability.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock support in English, unlike Russian operators that
+      primarily offer support in Russian with limited hours.
   expert_verdict:
-    title: "Russia eSIM vs Physical SIM: Travel, Cost, and Setup Compared"
+    title: 'Russia eSIM vs Physical SIM: Travel, Cost, and Setup Compared'
     cards:
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Costs from 14-Day Plans"
-        desc: "MegaFon's #Hello plan costs <b>700 rubles</b> for <b>14 days</b> (30GB). A <b>7-day</b> tourist wastes over <b>50%</b> of the plan. MTS's 30-day cycle (e.g., Smart <b>420 rubles</b> for 5GB) wastes even more. Roami offers flexible daily plans matching your trip length."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Expensive Roaming with MegaFon and Beeline"
-        desc: "MegaFon's 'Roam at home' costs <b>399 rubles/day</b> with only <b>1GB</b> cap. Beeline charges <b>350 rubles/day</b> for just <b>100MB</b>, plus <b>99 rubles</b> for extra 1GB. Roami eSIM offers global plans from <b>$1.99/GB</b> with no daily caps."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Multi-Country Connectivity"
-        desc: "Russian SIMs like MegaFon charge <b>399 rubles/day</b> for roaming with <b>1GB</b>. t2 offers complex daily packs (e.g., <b>350 rubles</b> for <b>400MB</b> in some countries). Roami eSIM automatically switches to local networks when crossing borders."
-      - icon: "shield"
-        icon_bg: "bg-orange-100"
-        icon_color: "text-orange-600"
-        title: "Avoid Illegal Black Market SIMs"
-        desc: "To bypass KYC, some tourists buy illegal SIMs costing up to <b>$99</b> (up from <b>100 rubles</b>). These risk being deactivated without recourse. Roami eSIM is legal, secure, and fully compliant."
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate Sunk Costs from 14-Day Plans
+      desc: 'MegaFon''s #Hello plan costs <b>700 rubles</b> for <b>14 days</b> (30GB).
+        A <b>7-day</b> tourist wastes over <b>50%</b> of the plan. MTS''s 30-day cycle
+        (e.g., Smart <b>420 rubles</b> for 5GB) wastes even more. Roami offers flexible
+        daily plans matching your trip length.'
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Expensive Roaming with MegaFon and Beeline
+      desc: MegaFon's 'Roam at home' costs <b>399 rubles/day</b> with only <b>1GB</b>
+        cap. Beeline charges <b>350 rubles/day</b> for just <b>100MB</b>, plus <b>99
+        rubles</b> for extra 1GB. Roami eSIM offers global plans from <b>$1.99/GB</b>
+        with no daily caps.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Seamless Multi-Country Connectivity
+      desc: Russian SIMs like MegaFon charge <b>399 rubles/day</b> for roaming with
+        <b>1GB</b>. t2 offers complex daily packs (e.g., <b>350 rubles</b> for <b>400MB</b>
+        in some countries). Roami eSIM automatically switches to local networks when
+        crossing borders.
+    - icon: shield
+      icon_bg: bg-orange-100
+      icon_color: text-orange-600
+      title: Avoid Illegal Black Market SIMs
+      desc: To bypass KYC, some tourists buy illegal SIMs costing up to <b>$99</b>
+        (up from <b>100 rubles</b>). These risk being deactivated without recourse.
+        Roami eSIM is legal, secure, and fully compliant.
 ---

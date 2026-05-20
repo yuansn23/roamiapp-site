@@ -1,6 +1,6 @@
 ---
 title: Costa Rica eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Costa Rica eSIM | 20% OFF | Seamless 5G Travel Data | Roami
   description: Vacationing in Costa Rica? Experience high-speed mobile internet with
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/cr.svg
   flag_alt: Costa Rica Flag
   title: Costa Rica eSIM data plan
-  subtitle: Worry-free internet | Smart choice | High-speed 5G network
+  subtitle: Worry-free internet | Smart choice | High-speed 5G network – The best
+    prepaid eSIM for Costa Rica travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Costa Rica eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -238,9 +239,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '11.66'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Costa Rica eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Costa Rica for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -279,11 +282,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Costa Rica eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Costa Rica.
   - icon: ⏰
@@ -298,8 +302,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -312,8 +317,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -645,7 +649,7 @@ faq_section:
         on the go using your Costa Rica eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Costa Rica eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -695,84 +699,115 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Costa-Rica eSIM vs SIM Card Plans: Which One Fits Your Needs?"
-  subtitle: "Costa Rica Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Costa-Rica eSIM vs SIM Card Plans: Which One Fits Your Needs?'
+  subtitle: Costa Rica Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Costa-Rica) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Costa-Rica"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Costa-Rica) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Costa-Rica
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Costa-Rica eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Costa-Rica eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "SIM cards cost 1,000-2,500 colones at official stores; Liberty requires foreign passport holders to activate via SMS or call 1693, and its app is only available on Costa Rica's App Store."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Liberty's app download block (Costa Rica App Store only) and avoid Sutel registration delays. Roami eSIM activates in 1 minute after purchase, no physical store visit needed."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Since 2014, SIM cards must be registered with national regulator Sutel, requiring a photo ID or passport; if the store fails to register, users must complete the process on a Spanish-only website, with activation possibly taking hours."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike kölbi, Liberty, and Claro which require Sutel registration with passport and Spanish website, Roami eSIM needs no ID verification. Activation is instant and hassle-free."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Liberty offers a daily $5 roaming package for the US, but excess data costs $1/MB; other operators have no specific roaming data for non-Central American countries."
-      esim_title: "Global Roaming Without Hidden Fees"
-      esim_desc: "Avoid Liberty's $1/MB excess roaming charge in the US. Roami eSIM offers transparent multi-country plans with no surprise bills, covering Costa Rica and neighboring regions."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "kölbi's longest plan is 30 days/2GB for 4,000 colones; Claro's data-only plan is 30 days/10GB for 17,500 colones; a 5-day trip buying Claro's 30-day plan wastes about 12,016 colones (70% of cost)."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike kölbi's 30-day/2GB plan (4,000 colones) or Claro's 30-day/10GB plan (17,500 colones), Roami offers 7-day plans starting from $1.99/GB, saving up to 70% waste on a 5-day trip."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. However, based on common practice, tethering is generally allowed but may be restricted on some plans; for example, Claro's data-only SIMs are limited to 2Mbps on 3G."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "While Claro's data-only SIMs are throttled to 2Mbps on 3G, Roami eSIM allows full-speed hotspot sharing with no speed caps or restrictions."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up is done via physical vouchers at kiosks (minimum 1,000 colones) or online; foreign credit cards often face rejection; no specific payment methods mentioned."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local kiosk vouchers or dealing with foreign card rejections common with local SIM top-ups."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is primarily in Spanish; Liberty requires calling 1693 for activation; online support is limited; no 24/7 English support."
-      esim_title: "24/7 English Support"
-      esim_desc: "Unlike Liberty's Spanish-only phone support (call 1693) and limited hours, Roami offers 24/7 live chat and email support in English, ready to assist anytime."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: SIM cards cost 1,000-2,500 colones at official stores; Liberty requires
+      foreign passport holders to activate via SMS or call 1693, and its app is only
+      available on Costa Rica's App Store.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Liberty's app download block (Costa Rica App Store only) and avoid
+      Sutel registration delays. Roami eSIM activates in 1 minute after purchase,
+      no physical store visit needed.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Since 2014, SIM cards must be registered with national regulator
+      Sutel, requiring a photo ID or passport; if the store fails to register, users
+      must complete the process on a Spanish-only website, with activation possibly
+      taking hours.
+    esim_title: No Passport Required
+    esim_desc: Unlike kölbi, Liberty, and Claro which require Sutel registration with
+      passport and Spanish website, Roami eSIM needs no ID verification. Activation
+      is instant and hassle-free.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Liberty offers a daily $5 roaming package for the US, but excess
+      data costs $1/MB; other operators have no specific roaming data for non-Central
+      American countries.
+    esim_title: Global Roaming Without Hidden Fees
+    esim_desc: Avoid Liberty's $1/MB excess roaming charge in the US. Roami eSIM offers
+      transparent multi-country plans with no surprise bills, covering Costa Rica
+      and neighboring regions.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: kölbi's longest plan is 30 days/2GB for 4,000 colones; Claro's data-only
+      plan is 30 days/10GB for 17,500 colones; a 5-day trip buying Claro's 30-day
+      plan wastes about 12,016 colones (70% of cost).
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike kölbi's 30-day/2GB plan (4,000 colones) or Claro's 30-day/10GB
+      plan (17,500 colones), Roami offers 7-day plans starting from $1.99/GB, saving
+      up to 70% waste on a 5-day trip.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. However, based on
+      common practice, tethering is generally allowed but may be restricted on some
+      plans; for example, Claro's data-only SIMs are limited to 2Mbps on 3G.
+    esim_title: Unrestricted Tethering
+    esim_desc: While Claro's data-only SIMs are throttled to 2Mbps on 3G, Roami eSIM
+      allows full-speed hotspot sharing with no speed caps or restrictions.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up is done via physical vouchers at kiosks (minimum 1,000 colones)
+      or online; foreign credit cards often face rejection; no specific payment methods
+      mentioned.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for local kiosk vouchers or dealing with foreign card rejections common
+      with local SIM top-ups.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is primarily in Spanish; Liberty requires calling
+      1693 for activation; online support is limited; no 24/7 English support.
+    esim_title: 24/7 English Support
+    esim_desc: Unlike Liberty's Spanish-only phone support (call 1693) and limited
+      hours, Roami offers 24/7 live chat and email support in English, ready to assist
+      anytime.
   expert_verdict:
-    title: "Costa-Rica eSIM vs Physical SIM Card: Activation and Setup Compared"
+    title: 'Costa-Rica eSIM vs Physical SIM Card: Activation and Setup Compared'
     cards:
-      - icon: "clock"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Instant Activation, No Queues"
-        desc: "<b>Liberty</b> requires app download from Costa Rica App Store (impossible before arrival) and manual activation via SMS. Roami eSIM activates in <b>1 minute</b> after purchase, no store visit."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate 30-Day Plan Waste"
-        desc: "<b>kölbi</b>'s largest plan is 30 days/2GB (4,000 colones); <b>Claro</b>'s data SIM is 30 days/10GB (17,500 colones). A 7-day trip wastes ~70% of cost. Roami offers 7-day plans from <b>$1.99/GB</b>, paying only for what you use."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Costa Rica's Strict SIM Registration"
-        desc: "Since 2014, all local SIMs require Sutel registration with passport and a Spanish-only website. <b>kölbi</b>, <b>Liberty</b>, and <b>Claro</b> all enforce this. Roami eSIM needs no ID, activating instantly."
-      - icon: "shield"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "No Auto-Renewal Traps"
-        desc: "<b>kölbi</b>, <b>Liberty</b>, and <b>Claro</b> all auto-renew plans, requiring Spanish SMS to cancel (e.g., 'BAJAPREPLAN' to 606). Roami eSIM has no auto-renewal, giving you full control."
+    - icon: clock
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Instant Activation, No Queues
+      desc: <b>Liberty</b> requires app download from Costa Rica App Store (impossible
+        before arrival) and manual activation via SMS. Roami eSIM activates in <b>1
+        minute</b> after purchase, no store visit.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate 30-Day Plan Waste
+      desc: <b>kölbi</b>'s largest plan is 30 days/2GB (4,000 colones); <b>Claro</b>'s
+        data SIM is 30 days/10GB (17,500 colones). A 7-day trip wastes ~70% of cost.
+        Roami offers 7-day plans from <b>$1.99/GB</b>, paying only for what you use.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Costa Rica's Strict SIM Registration
+      desc: Since 2014, all local SIMs require Sutel registration with passport and
+        a Spanish-only website. <b>kölbi</b>, <b>Liberty</b>, and <b>Claro</b> all
+        enforce this. Roami eSIM needs no ID, activating instantly.
+    - icon: shield
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: No Auto-Renewal Traps
+      desc: <b>kölbi</b>, <b>Liberty</b>, and <b>Claro</b> all auto-renew plans, requiring
+        Spanish SMS to cancel (e.g., 'BAJAPREPLAN' to 606). Roami eSIM has no auto-renewal,
+        giving you full control.
 ---

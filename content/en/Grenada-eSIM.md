@@ -1,6 +1,6 @@
 ---
 title: Grenada eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Best Grenada eSIM | Worry-Free Data & Native 5G | Roami
   description: Heading to Grenada soon? Roami offers Unlimited Data on the reliable
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/gd.svg
   flag_alt: Grenada Flag
   title: Grenada eSIM data plan
-  subtitle: No more roaming fees | Smart choice | Worry-free internet
+  subtitle: No more roaming fees | Smart choice | Worry-free internet – The best prepaid
+    eSIM for Grenada travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Grenada eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -122,9 +123,11 @@ plans_data:
     tagColor: bg-purple-600
     daily: '17.66'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Grenada eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Grenada for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -163,11 +166,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Grenada eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Grenada.
   - icon: ⏰
@@ -182,8 +186,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -196,8 +201,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -526,7 +530,7 @@ faq_section:
         on the go using your Grenada eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Grenada eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -576,84 +580,109 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Grenada eSIM or SIM Card: What’s the Best Option in 2026?"
-  subtitle: "Grenada Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Grenada eSIM or SIM Card: What’s the Best Option in 2026?'
+  subtitle: Grenada Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Grenada) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Grenada"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Grenada) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Grenada
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Grenada eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Grenada eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Purchase requires visiting a Digicel or Flow store in person, presenting a passport for KYC, and activating via short codes like *140# or *146*1007#."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Digicel and Flow store queues. Activate online within 1 minute before landing in Grenada, avoiding passport checks and short code setups."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Both Digicel and Flow require passport presentation at the time of SIM purchase, described as 'very swift' but still an offline verification step."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Digicel and Flow which require passport presentation, Roami eSIM needs no ID verification. Purchase and activate instantly without sharing personal documents."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Digicel's 'Roam Like You're Home' plan (7 days/EC$27) allows roaming in the US, Canada, and other Caribbean Digicel networks, but local data bundles do not apply; roaming data costs EC$0.30/MB."
-      esim_title: "Global Roaming Included"
-      esim_desc: "Avoid Digicel's roaming trap: local data bundles expire abroad, costing EC$0.30/MB. Roami eSIM offers regional plans covering multiple Caribbean islands with no hidden fees."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Digicel offers 1-day, 3-day, 7-day, and 30-day plans; Flow offers 1-day, 3-day, 7-day, and 30-day plans. A 5-day trip buying Flow's 7-day 1GB plan (EC$24.99) wastes at least 40% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Flow's 7-day 1GB plan (EC$24.99) which wastes 40% value on a 5-day trip, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed on prepaid plans in Grenada, but speeds may be throttled after a certain data cap."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "While local SIMs may throttle hotspot speeds after a data cap, Roami eSIM allows full-speed tethering on all plans, perfect for sharing with laptops or tablets."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Flow supports credit card online top-up, but all plans auto-renew by default; balance expires after 90 days. Digicel top-up methods not specified, but likely cash or local payment."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Avoid Flow's auto-renewal trap and 90-day balance expiry. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal with no hidden charges."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is typically available via phone or in-store, but may be limited to local business hours."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Unlike local SIM support limited to business hours, Roami offers 24/7 live chat and email support in English, ensuring help whenever you need it."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Purchase requires visiting a Digicel or Flow store in person, presenting
+      a passport for KYC, and activating via short codes like *140# or *146*1007#.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Digicel and Flow store queues. Activate online within 1 minute
+      before landing in Grenada, avoiding passport checks and short code setups.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Both Digicel and Flow require passport presentation at the time
+      of SIM purchase, described as 'very swift' but still an offline verification
+      step.
+    esim_title: No Passport Required
+    esim_desc: Unlike Digicel and Flow which require passport presentation, Roami
+      eSIM needs no ID verification. Purchase and activate instantly without sharing
+      personal documents.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Digicel's 'Roam Like You're Home' plan (7 days/EC$27) allows roaming
+      in the US, Canada, and other Caribbean Digicel networks, but local data bundles
+      do not apply; roaming data costs EC$0.30/MB.
+    esim_title: Global Roaming Included
+    esim_desc: 'Avoid Digicel''s roaming trap: local data bundles expire abroad, costing
+      EC$0.30/MB. Roami eSIM offers regional plans covering multiple Caribbean islands
+      with no hidden fees.'
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Digicel offers 1-day, 3-day, 7-day, and 30-day plans; Flow offers
+      1-day, 3-day, 7-day, and 30-day plans. A 5-day trip buying Flow's 7-day 1GB
+      plan (EC$24.99) wastes at least 40% of the plan's value.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike Flow's 7-day 1GB plan (EC$24.99) which wastes 40% value on a
+      5-day trip, Roami offers 7-day plans starting from $1.99/GB, saving up to 75%
+      waste.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      tethering is generally allowed on prepaid plans in Grenada, but speeds may be
+      throttled after a certain data cap.
+    esim_title: Unrestricted Tethering
+    esim_desc: While local SIMs may throttle hotspot speeds after a data cap, Roami
+      eSIM allows full-speed tethering on all plans, perfect for sharing with laptops
+      or tablets.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Flow supports credit card online top-up, but all plans auto-renew
+      by default; balance expires after 90 days. Digicel top-up methods not specified,
+      but likely cash or local payment.
+    esim_title: Global Payment Methods
+    esim_desc: Avoid Flow's auto-renewal trap and 90-day balance expiry. Roami accepts
+      Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal with no hidden charges.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      customer support is typically available via phone or in-store, but may be limited
+      to local business hours.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Unlike local SIM support limited to business hours, Roami offers 24/7
+      live chat and email support in English, ensuring help whenever you need it.
   expert_verdict:
-    title: "Grenada eSIM vs Physical SIM Card: Activation and Setup Compared"
+    title: 'Grenada eSIM vs Physical SIM Card: Activation and Setup Compared'
     cards:
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot Sharing"
-        desc: "Local SIMs may throttle tethering after a data cap. Roami eSIM allows full-speed hotspot on all plans, ideal for sharing with multiple devices."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Multi-Country Roaming Without Penalty"
-        desc: "Digicel's data bundles don't work abroad; roaming costs <b>EC$0.30/MB</b>. Roami eSIM offers regional plans covering multiple Caribbean islands seamlessly."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Grenada's Strict SIM Passport Requirements"
-        desc: "Both <b>Digicel</b> and <b>Flow</b> require passport presentation at purchase. Roami eSIM needs no ID, activating instantly online."
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "Keep Your Home SIM Active"
-        desc: "Physical SIMs require removing your home SIM, risking loss and missing verification codes. Roami eSIM works alongside your home SIM, keeping you connected."
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Unrestricted Hotspot Sharing
+      desc: Local SIMs may throttle tethering after a data cap. Roami eSIM allows
+        full-speed hotspot on all plans, ideal for sharing with multiple devices.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Multi-Country Roaming Without Penalty
+      desc: Digicel's data bundles don't work abroad; roaming costs <b>EC$0.30/MB</b>.
+        Roami eSIM offers regional plans covering multiple Caribbean islands seamlessly.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Grenada's Strict SIM Passport Requirements
+      desc: Both <b>Digicel</b> and <b>Flow</b> require passport presentation at purchase.
+        Roami eSIM needs no ID, activating instantly online.
+    - icon: shield
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: Keep Your Home SIM Active
+      desc: Physical SIMs require removing your home SIM, risking loss and missing
+        verification codes. Roami eSIM works alongside your home SIM, keeping you
+        connected.
 ---

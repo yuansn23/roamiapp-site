@@ -1,6 +1,6 @@
 ---
 title: Portugal eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Buy Portugal eSIM | No Contract 5G Data | 20% OFF| Roami
   description: Need internet in Portugal? Stay connected via Top Local Carrier Zero-Lag
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/pt.svg
   flag_alt: Portugal Flag
   title: Portugal eSIM data plan
-  subtitle: Hotspot supported | Smooth video streaming | Smart choice
+  subtitle: Hotspot supported | Smooth video streaming | Smart choice – The best prepaid
+    eSIM for Portugal travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Portugal eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -302,9 +303,11 @@ plans_data:
     tagColor: bg-purple-600
     daily: '3.28'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Portugal eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Portugal for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -343,11 +346,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Portugal eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Portugal.
   - icon: ⏰
@@ -362,8 +366,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -376,8 +381,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -387,326 +391,156 @@ activation_steps:
       using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: Portugal eSIM FAQ & Travel Guide
-  desc: Everything you need to know about using your Portugal eSIM across different
-    travel scenarios.
+  title: "The Ultimate Guide to eSIM Data Plans for portugal"
+  desc: "This guide covers everything you need to know about using an eSIM in Portugal, from airport arrivals to exploring the countryside. Whether you connect via MEO, Vodafone, or NOS, you will find the perfect plan for your travel style."
   categories:
-  - id: faq-general
-    icon: help-circle
-    tab_title: General
-    title: 1. General Questions
-    questions:
-    - q: Does my phone support the Portugal eSIM? How do I install it?
-      a: Most modern smartphones from iPhone XS/XR onwards, Samsung Galaxy S20+, and
-        Google Pixel 3+ support eSIM. You can install your Portugal eSIM simply by
-        scanning the QR code we send to your email in your phone's Cellular/Mobile
-        Data settings.
-    - q: How to buy and activate the Portugal eSIM? Is it active immediately?
-      a: You can purchase it directly on our website. It is not active immediately
-        upon purchase; the validity period only starts when you arrive in Portugal
-        and your phone connects to the local network.
-    - q: What is an activation QR code? Does it expire? Can it be reused?
-      a: The QR code is your digital SIM profile for the Portugal eSIM. It typically
-        needs to be installed within 30 days of purchase. Once installed, it cannot
-        be scanned again or transferred to another device.
-    - q: Can I get a refund if the Portugal eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience persistent network
-        issues in Portugal that our support team cannot resolve, you are eligible
-        for a refund.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our technical support team is available 24/7. You can reach us via the
-        live chat widget on our website or by replying to your order confirmation
-        email.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Yes! You can enter the promo code 'web20' at the checkout page to instantly
-        receive a 20% discount on your Portugal eSIM order.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy
-        (FUP)?
-      a: Our Unlimited plans provide continuous data. However, like all global carriers,
-        a Fair Usage Policy (FUP) applies to prevent network abuse. If you consume
-        an exceptionally high amount of data in a short period, speeds may be temporarily
-        reduced. Even so, it will not affect your web browsing, social media usage,
-        watching videos, etc.
-    - q: Can I share my Portugal eSIM data (hotspot) with other devices?
-      a: Absolutely. All our Portugal eSIM plans support mobile hotspot and tethering,
-        allowing you to share your data with your laptop, tablet, or travel companions.
-    - q: What are the advantages of your Portugal eSIM compared to local SIM cards
-        or other providers?
-      a: Unlike physical SIM cards, you don't need to queue at the airport or swap
-        small plastic cards. We partner directly with top local networks in Portugal,
-        such as Vodafone Portugal, MEO, NOS, to ensure premium speeds at a fraction
-        of roaming costs.
-    - q: How do you compare with well-known eSIM providers like mobimatter, saily,
-        Holafly, Airalo?
-      a: While great companies like mobimatter, saily, Holafly, Airalo offer reliable
-        services, we focus on providing the most cost-effective Portugal eSIM, ensuring
-        lower latency and better prices with our automatic price-matching system.
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2. Airport Network
-    questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install the Portugal eSIM before your flight. Once you land at Lisbon Portela
-        Airport (LIS), Porto Francisco Sá Carneiro Airport (OPO), Faro Airport (FAO),
-        simply turn off Airplane Mode and enable your eSIM line. It will connect to
-        the local 4G/5G network within seconds.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Portugal eSIM activated upon landing, you can immediately open
-        Uber, Bolt, Moovit to book a ride or use WhatsApp to message your pre-booked
-        driver without relying on spotty airport Wi-Fi.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Portugal eSIM data allows you to open Google Maps right at
-        the baggage claim in Lisbon Portela Airport (LIS), Porto Francisco Sá Carneiro
-        Airport (OPO), Faro Airport (FAO) to check real-time train schedules, bus
-        routes, or walking directions to the taxi stand.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our Portugal eSIM online beforehand, you completely bypass
-        the tourist-trap SIM kiosks at the arrivals hall, saving both time and money.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Portugal eSIM provides data only. To receive SMS, keep your home country's
-        primary SIM active for texts (receiving SMS is usually free while roaming)
-        and use the eSIM for all data traffic.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: As soon as you touch down, you can use iMessage, WhatsApp, or FaceTime over
-        our fast Portugal eSIM cellular data to let your family know you've arrived
-        safely.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3. Transport & Travel
-    questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Portugal eSIM connection ensures Google Maps can download real-time
-        traffic data and transit schedules anywhere in Portugal, making navigation
-        seamless.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Uber, Bolt, Moovit use VoIP (internet calling) and in-app messaging.
-        Since you have active Portugal eSIM data, drivers can call or message you
-        directly through the app without needing a local phone number.
-    - q: How to buy train/subway passes online?
-      a: You can use your Portugal eSIM data to access local transit apps or websites
-        to purchase digital QR-code tickets on the go, avoiding long queues at ticket
-        machines.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone and use your Portugal eSIM data. A 5GB or 10GB plan
-        provides more than enough data for extensive GPS navigation during a road
-        trip in Portugal.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Unlocking e-scooters requires a fast internet connection to process the QR
-        code and payment. Our Portugal eSIM provides the reliable urban coverage needed
-        for this.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you are traveling regionally, your ride-hailing app account remains the
-        same. Just ensure you have an active internet connection (via our local or
-        regional eSIM) to book rides.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Go to your phone's settings, enable 'Personal Hotspot', and your family can
-        connect their phones or iPads to your Portugal eSIM's data network while on
-        the train or in the car.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4. Hotels & Accommodation
-    questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Many modern rentals require you to access an online portal or check your
-        email for a smart lock code. Your Portugal eSIM ensures you can retrieve these
-        details right at the doorstep.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: You can use the Airbnb app's messaging feature or WhatsApp to coordinate
-        your arrival time with your host using your Portugal eSIM mobile data.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Whether you are staying at Pestana Hotel Group, Four Seasons Ritz Lisbon,
-        The Yeatman or a local guesthouse, you can input the address into Google Maps
-        and get turn-by-turn walking or transit directions using your Portugal eSIM.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary home SIM turned on for SMS, and use the hotel Wi-Fi or
-        your Portugal eSIM data to trigger the verification code from your bank or
-        app.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: You can use VoIP apps like Skype or the customer service chat features within
-        the Booking.com app using your high-speed Portugal eSIM data.
-    - q: How to order food to the hotel using local delivery apps?
-      a: If you arrive late, you can download Uber Eats, Glovo, Bolt Food and use
-        your Portugal eSIM data to order a hot meal directly to your hotel lobby or
-        room.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: Once you leave the hotel's Wi-Fi zone, your Portugal eSIM automatically takes
-        over, allowing you to message the hotel if you forgot luggage or need to arrange
-        a later pickup.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5. Attractions & Entertainment
-    questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: If you decide to visit Belém Tower, Pena Palace, Jerónimos Monastery spontaneously,
-        you can use your Portugal eSIM data to buy skip-the-line tickets online and
-        present the barcode on your screen.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: With reliable 4G/5G from your Portugal eSIM, you can read reviews and book
-        local tours or experiences on Tripadvisor while having coffee at a nearby
-        cafe.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Enhance your cultural experience by instantly Googling historical facts or
-        translating museum plaques while exploring Portugal.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Simply type your next destination into Google Maps; the strong urban coverage
-        of your Portugal eSIM will guide you via the fastest walking or transit route.
-    - q: How to check real-time queue times at theme parks like Disney?
-      a: Theme park apps require constant internet access to display live wait times
-        and book fast passes. Your Portugal eSIM will keep you connected throughout
-        the park.
-    - q: How to access Ticketmaster to book show tickets?
-      a: You can securely browse and purchase last-minute theater or concert tickets
-        through ticketing apps using your Portugal eSIM cellular data.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Our fast Portugal eSIM upload speeds mean you can post high-quality stories,
-        reels, and photos of your trip in real-time without waiting for hotel Wi-Fi.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Dining
-    title: 6. Dining & Restaurants
-    questions:
-    - q: How to find restaurants using Google Maps/Tripadvisor?
-      a: Use your Portugal eSIM data to search 'restaurants near me' on Google Maps
-        to check ratings, opening hours, and photos of the menu before walking in.
-    - q: How to book seats via OpenTable or restaurant websites?
-      a: You can easily secure a dinner reservation by accessing booking platforms
-        online using your Portugal eSIM while you are out sightseeing.
-    - q: How to scan restaurant QR codes to view electronic menus?
-      a: Many restaurants now use digital menus. Your Portugal eSIM ensures you can
-        scan the QR code on the table and load the menu instantly.
-    - q: How to use Google Translate camera to translate menus?
-      a: Open the Google Translate app, select the camera feature, and point it at
-        the local menu. It requires an internet connection via your Portugal eSIM
-        to process live translations accurately.
-    - q: How to register and use international versions of Uber Eats/DoorDash?
-      a: You can download local apps like Uber Eats, Glovo, Bolt Food, register using
-        your email or social accounts, and order food seamlessly using your Portugal
-        eSIM mobile data.
-    - q: How to successfully checkout using Apple Pay/Google Pay?
-      a: Contactless payments via Apple Pay, Google Pay, or local methods like Multibanco,
-        MB Way, Visa/Mastercard require a brief internet handshake, which your Portugal
-        eSIM handles perfectly.
-    - q: How to find restaurants recommended by Yelp/food bloggers?
-      a: You can stream YouTube food vlogs or browse Yelp reviews on the go using
-        your Portugal eSIM to find hidden culinary gems in the city.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social
-    title: 7. Social Media & Comm
-    questions:
-    - q: How to stably use WhatsApp/Telegram overseas?
-      a: Your WhatsApp and Telegram accounts are tied to your home number. With our
-        Portugal eSIM providing the internet, you can chat and call exactly as you
-        do at home.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi-Fi can be slow and insecure. Our 4G/5G Portugal eSIM gives you
-        the bandwidth needed to upload heavy video files to TikTok or Instagram securely.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Our low-latency network partnerships ensure your FaceTime and video calls
-        over the Portugal eSIM are clear and lag-free, no matter where you are in
-        the country.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi-Fi networks are vulnerable to hacking. Using your personal Portugal
-        eSIM cellular data is encrypted and vastly safer for logging into accounts.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Turn on your phone's hotspot feature. Your friends can connect to your Wi-Fi
-        network and use your Portugal eSIM data allowance to check their own social
-        media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 8. Cross-border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across
-        multiple European countries?
-      a: If you buy a single-country Portugal eSIM, it only works there. For multi-country
-        trips, we highly recommend our Regional eSIM (e.g., Europe eSIM), which covers
-        multiple countries with one profile.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off Data Roaming on your home SIM card. Ensure your Portugal eSIM is
-        set as the primary data line so you never incur unexpected charges from your
-        home carrier.
-    - q: How to get short-term network when transiting in Singapore/Dubai?
-      a: You can purchase a low-cost, 1GB eSIM specifically for your transit country
-        to stay connected during your layover.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Instead of paying for expensive cruise Wi-Fi, activate a local eSIM for the
-        countries you dock in. It will connect as soon as you are near the shore.
-    - q: How to ensure Google Maps is online throughout cross-border road trips?
-      a: With a Regional eSIM, your phone will automatically switch to the new country's
-        network as you drive across the border, keeping your GPS active.
-    - q: How to manage multi-country data usage with one app?
-      a: You can track your data usage for all your active eSIMs directly through
-        our website's user dashboard.
-    - q: How to maintain stable contact methods during multi-country travel?
-      a: Since your WhatsApp/iMessage relies on data, using a Regional eSIM ensures
-        your friends and family can always reach you on the same number without interruption.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 9. Emergencies
-    questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Portugal, you can dial local emergency numbers like 112 directly from
-        your phone's dialer regardless of your active SIM, as long as your phone can
-        catch any cellular signal.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Your Portugal eSIM data allows you to immediately search Google Maps for
-        'pharmacy near me' or 'hospital' and get the fastest route.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: You can quickly browse the internet using your Portugal eSIM to find the
-        exact address, emergency contact email, and opening hours of your country's
-        embassy.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype or Viber over your Portugal eSIM data to call your
-        insurance company's international toll-free numbers.
-    - q: How to share location in real-time in unsafe areas?
-      a: You can use WhatsApp's 'Share Live Location' or Apple's 'Find My' feature
-        to continuously broadcast your GPS coordinates to trusted friends using your
-        Portugal eSIM mobile data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you still have strong city coverage with your Portugal eSIM, use your
-        data to download offline areas in Google Maps just in case you venture into
-        mountains or deep rural zones where signals drop.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business & Work
-    questions:
-    - q: How to ensure stable Zoom/Microsoft Teams video meetings?
-      a: Our Portugal eSIM connects to premium local networks, providing the high
-        bandwidth and low latency required for smooth, professional video conferencing.
-    - q: How to securely connect to the company VPN to access internal systems during
-        business trips?
-      a: Our cellular data does not restrict VPN protocols. You can safely launch
-        your corporate VPN app over the Portugal eSIM network to access internal servers.
-    - q: How to provide network for laptops using mobile hotspots in airports/cafes?
-      a: Simply enable your phone's Personal Hotspot. Sharing your Portugal eSIM is
-        significantly faster and much more secure against cyber threats than using
-        open public Wi-Fi networks.
-    - q: How to ensure receiving bank/company email verification codes?
-      a: Keep your home SIM active for receiving SMS, and use your Portugal eSIM data
-        to receive email-based 2FA codes or push notifications from authenticator
-        apps.
-    - q: How to quickly upload large files to cloud drives at client sites/exhibitions?
-      a: With 5G/4G LTE speeds from your Portugal eSIM, you can rapidly upload presentations
-        or large documents to Google Drive or Dropbox directly from the exhibition
-        floor.
-    - q: How to seamlessly use Slack/Gmail/Google Drive for collaboration?
-      a: Your Portugal eSIM provides constant connectivity, ensuring you receive Slack
-        notifications and important emails instantly, keeping you synced with your
-        team.
-    - q: How to update travel itineraries online at any time to communicate with the
-        company?
-      a: You can access your corporate travel portals or email your HR department
-        on the go using your Portugal eSIM to update them on flight delays or schedule
-        changes.
+    - id: faq-general
+      icon: help-circle
+      tab_title: General
+      title: "1. General Questions About portugal eSIM"
+      questions:
+        - q: "How do I check if my phone is compatible with an eSIM in Portugal?"
+          a: "Check your phone’s settings under 'Cellular' or 'Mobile Data' for an 'Add eSIM' option. Most modern smartphones from Apple, Samsung, and Google are compatible with eSIM technology. If your device supports it, you can download an eSIM profile directly. This allows you to activate a portugal esim without needing a physical SIM card."
+        - q: "Can I keep my home number while using a portugal esim?"
+          a: "Yes, you can use your home number for calls and texts while your eSIM handles data. Many travelers use a dual-SIM setup with their primary line for voice and the esim portugal for internet. This is especially useful for receiving two-factor authentication codes. Just ensure your phone supports dual SIM functionality."
+        - q: "What is the best eSIM for Portugal for a two-week trip?"
+          a: "For a 15-day stay, the 10GB plan at $8.99 offers great value for in-depth travel. If you need more data, the 20GB plan at $16.99 is a solid choice for consistent connectivity. These plans connect to local networks like MEO and Vodafone for reliable speeds. They are ideal for navigating, streaming, and sharing photos."
+        - q: "How does Roami compare to Airalo for an eSIM in Portugal?"
+          a: "Roami offers competitive pricing, with a 5GB 30-day plan at $7.99, while Airalo’s similar plan may cost slightly more. Roami also provides a 3GB 30-day plan for $6.99, which is excellent for sightseeing. Both services give you access to high-speed 5G/4G/LTE networks. The best choice depends on your specific data needs and budget."
+        - q: "Can I buy an eSIM for Portugal before I travel?"
+          a: "Absolutely, you can purchase and install an eSIM card portugal before your flight. This ensures you have data immediately upon arrival. Simply buy online, scan a QR code, and activate when you land. It removes the need to search for local SIM cards at the airport."
+        - q: "Is an eSIM better than a physical SIM for Portugal travel?"
+          a: "An eSIM is often more convenient because it eliminates the need to handle a physical card. You can buy and activate it online without visiting a store. It also allows you to switch between different data plans easily. This flexibility makes it a top choice for modern travelers."
+        - q: "How do I activate my eSIM for Portugal?"
+          a: "After purchasing, you will receive a QR code via email. Go to your phone’s settings, select 'Add Cellular Plan,' and scan the code. Follow the on-screen prompts to complete the installation. Activation usually takes just a few minutes once you have an internet connection."
+        - q: "Will my eSIM work with MEO, Vodafone, and NOS in Portugal?"
+          a: "Yes, most eSIM providers partner with major Portuguese operators like MEO, Vodafone, and NOS. This ensures broad coverage across the country, from cities to rural areas. Your device will automatically connect to the strongest available network. You do not need to manually select a carrier."
+        - q: "What if I run out of data on my esim portugal?"
+          a: "You can easily top up your plan online through your provider’s portal or app. Many services offer additional data packs for purchase at any time. For example, you could add a 5GB boost for $7.99. This ensures you never lose connectivity during your trip."
+        - q: "Can I use an eSIM for Portugal on an iPhone?"
+          a: "Yes, iPhones from the XS and newer models support eSIM technology. You can install a portugal esim card directly onto your device. This is a popular choice for travelers who want to keep their physical SIM slot free. Just ensure your iPhone is unlocked for international use."
+    - id: faq-airport
+      icon: airplane
+      tab_title: Airports
+      title: "2. portugal eSIM at Airports"
+      questions:
+        - q: "Can I activate my eSIM immediately after landing at Lisbon Airport?"
+          a: "Yes, you can activate your eSIM as soon as you land at Lisbon Portela Airport. Connect to the airport's free Wi-Fi to install your profile if you haven’t already. This gives you instant data for ride-sharing apps and maps. It is a seamless way to start your trip without delays."
+        - q: "Is there a dedicated eSIM kiosk at Porto Airport?"
+          a: "Porto Airport does not typically have eSIM kiosks, as most travelers purchase online. It is far easier to buy a virtual sim portugal before you fly. This avoids queues and ensures you have data immediately. Online providers offer instant delivery to your email."
+        - q: "What data plan is best for navigating from Faro Airport to the city?"
+          a: "A 3GB plan for $5.99 (15 days) or $6.99 (30 days) is perfect for short-term navigation needs. This allows you to use Google Maps and ride-hailing apps without worry. It provides enough data for a few days of sightseeing. You can upgrade to a larger plan if needed."
+        - q: "Will my eSIM work at all Portuguese airports, including Madeira?"
+          a: "Yes, eSIMs connect to national networks like MEO and Vodafone, covering all airports. This includes Cristiano Ronaldo Airport in Madeira and João Paulo II Airport in Ponta Delgada. You will have reliable data from the moment you step off the plane. Coverage is excellent across the entire country."
+        - q: "How do I get a local number with my eSIM at the airport?"
+          a: "Some eSIM providers offer plans with a portuguese phone number, allowing you to make local calls. While most standard esim portugal plans are data-only, you can search for options that include a number. This is useful for restaurant reservations or contacting local services. Activate it online before or after landing."
+    - id: faq-transport
+      icon: train
+      tab_title: Transport
+      title: "3. portugal eSIM for Transport"
+      questions:
+        - q: "Will my eSIM work on trains between Lisbon and Porto?"
+          a: "Yes, the high-speed Alfa Pendular trains have good network coverage along the route. Your eSIM will connect to local towers, providing data for most of the journey. You can stream music or browse social media without interruption. There may be brief dead spots in tunnels."
+        - q: "Can I use my esim for Uber and Bolt in Portugal?"
+          a: "Absolutely, a stable data connection is essential for using ride-hailing apps. With a 5GB plan for $7.99 (30 days), you can easily request rides and track your driver. This is much cheaper than roaming charges. The eSIM ensures you always have access to these services."
+        - q: "What data plan do I need for using public transport apps in Lisbon?"
+          a: "A 3GB plan for $3.99 (3 days) is sufficient for using apps like Viva Viagem or Carris. This allows you to check schedules, buy tickets, and navigate the metro system. It is a cost-effective solution for short city breaks. You can always top up if you run out."
+        - q: "Is there coverage on the metro in Lisbon and Porto?"
+          a: "Coverage on the metro systems can be spotty, especially in underground tunnels. However, most stations and above-ground sections have reliable 4G/LTE service. Your eSIM will work for checking maps between stops. For uninterrupted use, download offline maps beforehand."
+        - q: "Can I use my eSIM for ferry trips to the Azores or Madeira?"
+          a: "Yes, your esim portugal will work on ferries, but coverage may be limited at sea. Once you approach the islands, you will have full connectivity on local networks. This is great for posting updates and navigating upon arrival. Choose a plan with enough data for your entire trip."
+    - id: faq-hotels
+      icon: building
+      tab_title: Hotels
+      title: "4. portugal eSIM for Hotels"
+      questions:
+        - q: "Do I still need an eSIM if my hotel has free Wi-Fi?"
+          a: "Hotel Wi-Fi can be slow or unreliable, especially during peak hours. An eSIM provides a private, high-speed connection for streaming and work. It also allows you to stay connected when you are away from the hotel. This is essential for exploring the city without losing internet access."
+        - q: "Can I use my eSIM to work from a hotel in Lisbon?"
+          a: "Yes, with a 10GB plan for $9.99 (30 days), you can handle video calls and emails comfortably. This is a reliable backup if the hotel’s internet is weak. It also ensures secure connections for business tasks. You can choose a larger plan like 20GB for heavier usage."
+        - q: "How do I set up my eSIM in a hotel room?"
+          a: "Upon arrival, connect to the hotel’s Wi-Fi to download your eSIM profile if you haven’t already. Scan the QR code from your email and follow the installation steps. The process takes just a few minutes. Once installed, you can turn off Wi-Fi and use cellular data."
+        - q: "What if my hotel Wi-Fi requires a login page that doesn't load?"
+          a: "An eSIM solves this problem by giving you immediate data independent of hotel networks. You can activate it before your trip and have internet upon arrival. This avoids the frustration of captive portal issues. It is a seamless way to stay connected from the moment you check in."
+        - q: "Is a 1GB eSIM plan enough for a weekend hotel stay?"
+          a: "A 1GB plan for $2.99 (7 days) is suitable for light usage like checking emails and maps. If you plan to stream movies or make video calls, consider a 3GB plan for $4.99. This ensures you have enough data for entertainment during downtime. It is a budget-friendly option for short stays."
+    - id: faq-attractions
+      icon: landmark
+      tab_title: Attractions
+      title: "5. portugal eSIM for Attractions"
+      questions:
+        - q: "Will I have signal at the Pena Palace in Sintra?"
+          a: "Yes, coverage at Pena Palace and the surrounding Sintra hills is generally good. You can use your eSIM to access online guides and ticket apps. This enhances your visit with historical information and navigation. There might be weaker spots in dense forest areas."
+        - q: "Can I use my esim for tickets at the Jerónimos Monastery?"
+          a: "Absolutely, you can use your eSIM to buy and display mobile tickets at the entrance. This saves time and avoids paper tickets. With a fast connection, the QR code will load instantly. It is a convenient way to manage your visit to popular attractions."
+        - q: "What data plan is best for sharing photos from the Belém Tower?"
+          a: "A 5GB plan for $6.99 (15 days) is great for uploading photos and videos to social media. You can share your experiences in real-time without worrying about data limits. This plan offers a good balance of cost and capacity. It is perfect for capturing and sharing memories."
+        - q: "Does my eSIM work at the Douro Valley vineyards?"
+          a: "Coverage in the Douro Valley is reliable in most areas, though some remote vineyards may have weaker signals. You can use your eSIM to navigate between wineries and make reservations. It is useful for sharing photos of the stunning landscape. Choose a plan with ample data for a day trip."
+        - q: "Can I use my eSIM for audio guides at the Oceanário de Lisboa?"
+          a: "Yes, you can stream audio guides directly on your phone using your eSIM data. This replaces the need for rental devices at the aquarium. A 3GB plan is more than enough for such activities. It allows you to enjoy a self-guided tour at your own pace."
+    - id: faq-social
+      icon: message-circle
+      tab_title: Social & Messaging
+      title: "6. portugal eSIM for Social Media"
+      questions:
+        - q: "Can I use WhatsApp and iMessage with my esim portugal?"
+          a: "Yes, all messaging apps work seamlessly with your eSIM data. You can send texts, make voice calls, and share media without any issues. This is perfect for staying in touch with friends and family. Your home number will still work for other apps over Wi-Fi."
+        - q: "How much data do I need for streaming Instagram and TikTok?"
+          a: "For moderate social media use, a 5GB plan for $7.99 (30 days) is usually sufficient. This allows you to scroll through feeds, watch short videos, and post updates. If you are a heavy user, consider a 10GB plan for $9.99. This ensures you won’t run out of data during your trip."
+        - q: "Will my eSIM work for Facebook Live streams from Portugal?"
+          a: "Live streaming requires a stable connection, and a 10GB plan provides enough speed for this. However, unlimited data plans like the 30-day option at $71.99 are better for heavy streaming. This gives you peace of mind for long broadcasts. Check your signal strength before going live."
+        - q: "Can I use Snapchat and filtering apps with my eSIM?"
+          a: "Yes, Snapchat and other AR apps work well on Portuguese networks. A 3GB plan for $3.99 (3 days) is enough for occasional use. For frequent posting, a larger plan is recommended. The eSIM provides the low latency needed for real-time filters."
+        - q: "Is my eSIM data capped for video calls on FaceTime?"
+          a: "No, your eSIM data is not capped for specific apps like FaceTime. You can use any app you want, as long as you have remaining data in your plan. Video calls do use more data, so a 5GB or 10GB plan is advisable. This ensures your calls are clear and uninterrupted."
+    - id: faq-crossborder
+      icon: globe
+      tab_title: Cross-border
+      title: "7. portugal eSIM for Cross-Border Travel"
+      questions:
+        - q: "Will my esim portugal work in Spain if I take a day trip?"
+          a: "Standard Portugal-only eSIMs will not work in Spain without additional roaming. You need a regional or global eSIM plan for cross-border travel. Check your provider’s coverage map before purchasing. Some plans offer European coverage for seamless connectivity."
+        - q: "Can I use the same eSIM in Portugal and Morocco?"
+          a: "No, a Portugal-only eSIM will not work in Morocco. You would need a multi-country or global plan. These plans cover multiple regions and are ideal for multi-destination trips. Ensure you buy the correct plan for your entire itinerary."
+        - q: "What is the best eSIM for a trip covering Portugal and France?"
+          a: "Look for a Europe-wide eSIM that includes both countries. Providers like Holafly offer regional plans with generous data allowances. This allows you to use the same profile across borders. It is more convenient than buying separate eSIMs for each country."
+        - q: "Does Roami offer cross-border plans for Portugal and Italy?"
+          a: "Roami offers regional plans that can cover multiple European countries. Check their website for specific Europe packages. These plans ensure you stay connected in Portugal, Italy, and beyond. They are a cost-effective solution for multi-country trips."
+        - q: "How do I avoid roaming charges when traveling between Portugal and Spain?"
+          a: "Use a European eSIM plan that treats all EU countries as one zone. This eliminates per-country roaming fees. You simply buy one plan and use it across borders. It is the easiest way to manage data on a multi-country European vacation."
+    - id: faq-emergency
+      icon: alert-triangle
+      tab_title: Emergencies
+      title: "8. portugal eSIM for Emergencies"
+      questions:
+        - q: "Can I dial 112 (European emergency number) with my esim portugal?"
+          a: "Yes, you can always dial 112 for emergencies, even without a data plan. This call will connect to any available network. An eSIM does not affect your ability to make emergency calls. It is a reliable way to seek help if needed."
+        - q: "Will my eSIM work if I lose my physical SIM card?"
+          a: "Yes, your eSIM is stored digitally on your phone and is independent of the physical SIM. You can still use data and make calls if your eSIM is active. This provides a backup communication method in case of loss. It is a key advantage of using virtual SIM technology."
+        - q: "Can I use my eSIM to find a hospital in a foreign city?"
+          a: "Absolutely, with a data connection you can use maps to locate nearby hospitals. A 1GB plan for $2.99 (7 days) is enough for such urgent searches. This ensures you can get directions quickly. It is a vital tool for health emergencies."
+        - q: "What if my eSIM runs out of data during an emergency?"
+          a: "You can quickly purchase a top-up online as long as you have Wi-Fi access. Many providers allow instant plan upgrades. If you have no internet, try connecting to a public Wi-Fi network. It is wise to keep a small backup plan for such situations."
+        - q: "Is my esim data encrypted for secure communication in emergencies?"
+          a: "The data connection itself is not encrypted by the eSIM, but your apps may use encryption. For secure communications, use apps like Signal or WhatsApp which offer end-to-end encryption. This protects your messages and calls. Always use trusted apps for sensitive information."
+    - id: faq-business
+      icon: briefcase
+      tab_title: Business
+      title: "9. portugal eSIM for Business Travelers"
+      questions:
+        - q: "What is the best eSIM plan for a business trip to Lisbon?"
+          a: "For a short business trip, a 3-day 5GB plan for $6.99 provides ample data for emails and calls. For longer stays, a 7-day 10GB plan for $8.99 is ideal for video conferencing. These plans offer high-speed 5G/4G/LTE connectivity. They ensure you stay productive on the go."
+        - q: "Can I use my eSIM for a company VPN in Portugal?"
+          a: "Yes, eSIMs work perfectly with VPNs, allowing secure access to your company’s network. A stable data connection is all you need to establish a VPN tunnel. This is essential for remote work and accessing internal resources. Choose a plan with sufficient data for your work needs."
+        - q: "How do I get a local business number with my esim in Portugal?"
+          a: "Some eSIM providers offer plans with a Portuguese number for local calls. This can be useful for contacting clients or services. Research providers that include voice capabilities. This feature helps you maintain a local business presence."
+        - q: "Is there a 20GB plan suitable for remote work in Portugal?"
+          a: "Yes, a 20GB plan for $17.99 (30 days) is excellent for remote work, including video calls. This provides enough data for a full month of moderate use. It is a cost-effective solution for digital nomads. You can also consider the 30GB plan for $29.99 if you need more."
+        - q: "Can I use my eSIM for international conference calls from Portugal?"
+          a: "Absolutely, your eSIM provides a high-speed connection for crystal-clear conference calls. A 10GB plan for $9.99 (30 days) is sufficient for regular calls and emails. This ensures you never miss a meeting. It is a reliable alternative to hotel business centers."
 related_products:
-  title: Related eSIM Plans
+  title: Related Portugal eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -756,84 +590,107 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Portugal eSIM vs Local SIM Card: Which One Saves You More?"
-  subtitle: "Portugal Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Portugal eSIM vs Local SIM Card: Which One Saves You More?'
+  subtitle: Portugal Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Portugal) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Portugal"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Portugal) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Portugal
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Portugal eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Portugal eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "MEO's Connected Holidays tourist SIM is only sold in a few stores; Vodafone stores require in-person purchase."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip MEO's limited store availability and Vodafone queues. Activate your Roami eSIM online within 1 minute after landing in Lisbon."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, Portugal does not require passport registration for prepaid SIMs."
-      esim_title: "No Passport Required"
-      esim_desc: "Portugal prepaid SIMs don't require registration, but eSIMs offer even more privacy. No need to show ID or fill forms."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Vodafone prepaid EU roaming is subject to FUP; Lyca Mobile's 30GB plan offers only 21GB in the EU (30% reduction). Vodafone Go and NOS Kanguru data cards explicitly prohibit international roaming."
-      esim_title: "Full EU Roaming Included"
-      esim_desc: "Unlike Vodafone Go and NOS Kanguru which block roaming, or Lyca Mobile which reduces 30GB to 21GB in the EU, Roami eSIM provides full-speed data across Portugal and the EU without FUP restrictions."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "MEO's weekly plan costs €3.50 for 1GB (7 days); Vodafone's 28-day plan costs €20 for 5GB. A 5-day tourist buying Vodafone's €20/28-day plan wastes over 80% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Avoid MEO's €14.99/15-day rigid plan or Vodafone's €20/28-day plan that wastes over 80% for a 5-day trip. Roami offers 7-day plans starting from $1.99/GB, saving you money."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Lyca Mobile explicitly bans tethering/hotspot sharing."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Unlike Lyca Mobile which bans hotspot sharing, Roami eSIM allows tethering on all devices, perfect for sharing with laptops or tablets."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "MEO and NOS do not accept international credit cards or PayPal for top-ups. Vodafone only allows international credit cards after 3 months of card issuance. NOS charges €0.50 fee per top-up at Payshop."
-      esim_title: "Global Payment Methods"
-      esim_desc: "No need to find Payshop or deal with MEO's card restrictions. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal for instant top-up."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge, customer support is primarily in Portuguese, with limited English availability."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get help in English anytime via live chat or email, unlike local operators which primarily offer Portuguese support."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: MEO's Connected Holidays tourist SIM is only sold in a few stores;
+      Vodafone stores require in-person purchase.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip MEO's limited store availability and Vodafone queues. Activate
+      your Roami eSIM online within 1 minute after landing in Lisbon.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      Portugal does not require passport registration for prepaid SIMs.
+    esim_title: No Passport Required
+    esim_desc: Portugal prepaid SIMs don't require registration, but eSIMs offer even
+      more privacy. No need to show ID or fill forms.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Vodafone prepaid EU roaming is subject to FUP; Lyca Mobile's 30GB
+      plan offers only 21GB in the EU (30% reduction). Vodafone Go and NOS Kanguru
+      data cards explicitly prohibit international roaming.
+    esim_title: Full EU Roaming Included
+    esim_desc: Unlike Vodafone Go and NOS Kanguru which block roaming, or Lyca Mobile
+      which reduces 30GB to 21GB in the EU, Roami eSIM provides full-speed data across
+      Portugal and the EU without FUP restrictions.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: MEO's weekly plan costs €3.50 for 1GB (7 days); Vodafone's 28-day
+      plan costs €20 for 5GB. A 5-day tourist buying Vodafone's €20/28-day plan wastes
+      over 80% of the plan's value.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Avoid MEO's €14.99/15-day rigid plan or Vodafone's €20/28-day plan
+      that wastes over 80% for a 5-day trip. Roami offers 7-day plans starting from
+      $1.99/GB, saving you money.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: Lyca Mobile explicitly bans tethering/hotspot sharing.
+    esim_title: Unrestricted Tethering
+    esim_desc: Unlike Lyca Mobile which bans hotspot sharing, Roami eSIM allows tethering
+      on all devices, perfect for sharing with laptops or tablets.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: MEO and NOS do not accept international credit cards or PayPal for
+      top-ups. Vodafone only allows international credit cards after 3 months of card
+      issuance. NOS charges €0.50 fee per top-up at Payshop.
+    esim_title: Global Payment Methods
+    esim_desc: No need to find Payshop or deal with MEO's card restrictions. Roami
+      accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal for instant
+      top-up.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge,
+      customer support is primarily in Portuguese, with limited English availability.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get help in English anytime via live chat or email, unlike local operators
+      which primarily offer Portuguese support.
   expert_verdict:
-    title: "Portugal eSIM vs SIM Card: The Complete Comparison Guide"
+    title: 'Portugal eSIM vs SIM Card: The Complete Comparison Guide'
     cards:
-      - icon: "globe"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Full EU Roaming Without FUP Cuts"
-        desc: "Vodafone Go and NOS Kanguru data cards <b>prohibit international roaming</b>. Lyca Mobile's 30GB plan offers only <b>21GB in the EU (30% reduction)</b>. Roami eSIM provides full-speed data across Portugal and the EU."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "No Passport or Registration Needed"
-        desc: "Portugal prepaid SIMs don't require registration, but eSIMs offer even more convenience. No need to show ID or fill forms."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payments, No Local Hassles"
-        desc: "MEO and NOS <b>do not accept international credit cards</b> or PayPal. Vodafone only allows cards held for <b>3+ months</b>. NOS charges <b>€0.50 fee</b> per Payshop top-up. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
-      - icon: "signal-cellular-alt"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Best Network Coverage"
-        desc: "MEO has <b>40% market share</b> and best coverage; Vodafone has fastest speeds. Roami eSIM connects to the strongest local network automatically, ensuring reliable connectivity across Portugal."
+    - icon: globe
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Full EU Roaming Without FUP Cuts
+      desc: Vodafone Go and NOS Kanguru data cards <b>prohibit international roaming</b>.
+        Lyca Mobile's 30GB plan offers only <b>21GB in the EU (30% reduction)</b>.
+        Roami eSIM provides full-speed data across Portugal and the EU.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: No Passport or Registration Needed
+      desc: Portugal prepaid SIMs don't require registration, but eSIMs offer even
+        more convenience. No need to show ID or fill forms.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Global Payments, No Local Hassles
+      desc: MEO and NOS <b>do not accept international credit cards</b> or PayPal.
+        Vodafone only allows cards held for <b>3+ months</b>. NOS charges <b>€0.50
+        fee</b> per Payshop top-up. Roami accepts Visa, Mastercard, AMEX, Apple Pay,
+        Google Pay, and PayPal.
+    - icon: signal-cellular-alt
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Best Network Coverage
+      desc: MEO has <b>40% market share</b> and best coverage; Vodafone has fastest
+        speeds. Roami eSIM connects to the strongest local network automatically,
+        ensuring reliable connectivity across Portugal.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kazakhstan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Kazakhstan eSIM Plan | Top Local Carrier Stable 5G |20% OFF| Roami
   description: Traveling to Kazakhstan? Experience No Roaming Shock and seamless Reliable
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/kz.svg
   flag_alt: Kazakhstan Flag
   title: Kazakhstan eSIM data plan
-  subtitle: No ID required | No more roaming fees | Prioritized 5G access
+  subtitle: No ID required | No more roaming fees | Prioritized 5G access – The best
+    prepaid eSIM for Kazakhstan travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Kazakhstan eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -270,9 +271,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '3.33'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Kazakhstan eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Kazakhstan for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -311,11 +314,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Kazakhstan eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Kazakhstan.
   - icon: ⏰
@@ -330,8 +334,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -344,8 +349,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -675,7 +679,7 @@ faq_section:
         on the go using your Kazakhstan eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Kazakhstan eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -725,84 +729,109 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Kazakhstan eSIM vs Prepaid SIM: Cost and Convenience Compared"
-  subtitle: "Kazakhstan Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Kazakhstan eSIM vs Prepaid SIM: Cost and Convenience Compared'
+  subtitle: Kazakhstan Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Kazakhstan) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Kazakhstan"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Kazakhstan) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Kazakhstan
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Kazakhstan eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Kazakhstan eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Must go to airport, train station, or city center outlets to queue. Passport required for real-name registration. Street vendors sell Beeline SIMs for 150-1000 KZT but communication is difficult."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport queues and passport checks. Activate online within 1 minute after landing in Almaty or Nur-Sultan."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "Foreigners must submit passport, residence permit, or diplomatic documents. Since 2019, device IMEI is forcibly bound to personal identity in the government database (BDIK)."
-      esim_title: "No Passport or IMEI Binding"
-      esim_desc: "Avoid Kcell's strict passport registration and BDIK IMEI lock. Roami eSIM activates without any personal ID."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Kcell roaming pack 150 MB/5 days costs 1490 KZT, limited countries. Beeline SuperVisa splits data into 'basic' and 'CIS-only bonus' data. Tele2 default daily roaming pack 590 KZT gives only 100 MB high-speed then throttled to 128 kbps."
-      esim_title: "Global Roaming Without Caps"
-      esim_desc: "Unlike Beeline's SuperVisa that splits data into CIS-only bonus (e.g., 1GB basic vs 5GB CIS), Roami offers seamless multi-country data with no regional restrictions."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "All major operators use 30-day cycles. Kcell minimum 5GB plan costs 1490 KZT, Beeline 3GB costs 890 KZT. A 5-day trip wastes over 80% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Kcell's 30-day 5GB plan costs 1490 KZT (~$3.30) but a 7-day trip wastes 77% of data. Roami offers 7-day plans starting from $1.99/GB, saving over 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, most Kazakh prepaid SIMs allow tethering but may throttle after certain usage."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Most Kazakh prepaid SIMs allow tethering but may throttle after 3GB/day. Roami provides full-speed hotspot with no caps."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Kcell explicitly states foreign debit cards may not be accepted. Beeline requires street top-up machines. Tele2 online payment is complicated."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Kcell rejects foreign debit cards; Beeline requires street machines. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, customer support is primarily in Russian/Kazakh, limited English."
-      esim_title: "24/7 English Support"
-      esim_desc: "Kazakh operators offer limited English support. Roami provides 24/7 live chat in English for instant help."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Must go to airport, train station, or city center outlets to queue.
+      Passport required for real-name registration. Street vendors sell Beeline SIMs
+      for 150-1000 KZT but communication is difficult.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip airport queues and passport checks. Activate online within 1 minute
+      after landing in Almaty or Nur-Sultan.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: Foreigners must submit passport, residence permit, or diplomatic
+      documents. Since 2019, device IMEI is forcibly bound to personal identity in
+      the government database (BDIK).
+    esim_title: No Passport or IMEI Binding
+    esim_desc: Avoid Kcell's strict passport registration and BDIK IMEI lock. Roami
+      eSIM activates without any personal ID.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Kcell roaming pack 150 MB/5 days costs 1490 KZT, limited countries.
+      Beeline SuperVisa splits data into 'basic' and 'CIS-only bonus' data. Tele2
+      default daily roaming pack 590 KZT gives only 100 MB high-speed then throttled
+      to 128 kbps.
+    esim_title: Global Roaming Without Caps
+    esim_desc: Unlike Beeline's SuperVisa that splits data into CIS-only bonus (e.g.,
+      1GB basic vs 5GB CIS), Roami offers seamless multi-country data with no regional
+      restrictions.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: All major operators use 30-day cycles. Kcell minimum 5GB plan costs
+      1490 KZT, Beeline 3GB costs 890 KZT. A 5-day trip wastes over 80% of the plan's
+      value.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Kcell's 30-day 5GB plan costs 1490 KZT (~$3.30) but a 7-day trip wastes
+      77% of data. Roami offers 7-day plans starting from $1.99/GB, saving over 75%
+      waste.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      knowledge, most Kazakh prepaid SIMs allow tethering but may throttle after certain
+      usage.
+    esim_title: Unrestricted Tethering
+    esim_desc: Most Kazakh prepaid SIMs allow tethering but may throttle after 3GB/day.
+      Roami provides full-speed hotspot with no caps.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Kcell explicitly states foreign debit cards may not be accepted.
+      Beeline requires street top-up machines. Tele2 online payment is complicated.
+    esim_title: Global Payment Methods
+    esim_desc: Kcell rejects foreign debit cards; Beeline requires street machines.
+      Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      knowledge, customer support is primarily in Russian/Kazakh, limited English.
+    esim_title: 24/7 English Support
+    esim_desc: Kazakh operators offer limited English support. Roami provides 24/7
+      live chat in English for instant help.
   expert_verdict:
-    title: "Kazakhstan eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared"
+    title: 'Kazakhstan eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared'
     cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Kazakhstan's Strict SIM Passport Requirements"
-        desc: "Kcell and Beeline require passport registration and IMEI binding to BDIK since 2019. Roami eSIM activates instantly with <b>no ID</b> needed, avoiding the risk of device lock."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Global Payment Acceptance"
-        desc: "Kcell rejects foreign debit cards; Beeline requires street top-up machines. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal</b>."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Multi-Country Seamless Roaming"
-        desc: "Tele2's daily roaming pack (590 KZT) gives only 100MB high-speed then 128kbps. Roami provides <b>high-speed data across 100+ countries</b> without throttling."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Roaming Data 'Slicing' Traps"
-        desc: "Beeline's SuperVisa splits data into 'basic' and 'CIS-only bonus' (e.g., 1GB basic + 5GB CIS). Roami provides <b>unified global data</b> with no regional restrictions."
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Kazakhstan's Strict SIM Passport Requirements
+      desc: Kcell and Beeline require passport registration and IMEI binding to BDIK
+        since 2019. Roami eSIM activates instantly with <b>no ID</b> needed, avoiding
+        the risk of device lock.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Global Payment Acceptance
+      desc: Kcell rejects foreign debit cards; Beeline requires street top-up machines.
+        Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal</b>.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Multi-Country Seamless Roaming
+      desc: Tele2's daily roaming pack (590 KZT) gives only 100MB high-speed then
+        128kbps. Roami provides <b>high-speed data across 100+ countries</b> without
+        throttling.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Roaming Data 'Slicing' Traps
+      desc: Beeline's SuperVisa splits data into 'basic' and 'CIS-only bonus' (e.g.,
+        1GB basic + 5GB CIS). Roami provides <b>unified global data</b> with no regional
+        restrictions.
 ---

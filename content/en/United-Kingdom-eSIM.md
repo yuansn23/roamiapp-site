@@ -19,12 +19,9 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: United Kingdom eSIM Plan | EE Zero-Lag 5G | 20% OFF | Roami
-  description: Traveling to United Kingdom? Roami offers Transparent Data on the reliable
-    Vodafone Zero-Lag 5G. Features Seamless Coverage and Unlimited Data, great for
-    Family Vacations.
-  keywords: United Kingdom eSIM, UK eSIM, eSIM UK, cheap eSIM UK, prepaid eSIM UK,
-    travel internet UK
+  title: Best UK eSIM |20% OFF| Unlimited 5G Data Plans | Roami
+  description: Looking for the best UK eSIM for travel? Roami offers prepaid eSIM UK with high-speed 5G on Vodafone, EE & O2. Buy eSIM online UK – cheap unlimited data plans for tourists. 
+  keywords: uk esim, esim uk, best esim for uk, e sim uk, prepaid esim uk, unlimited data esim uk, cheap esim uk, esim for uk travel, temporary esim uk, buy esim online uk, esim uk tourist, uk travel esim, best prepaid esim uk, london esim, esim scotland, pay as you go esim uk
   low_price: 1.99
   high_price: 39.9
 order_summary:
@@ -47,9 +44,9 @@ hero:
   flag_image: img/flags/gb.svg
   flag_alt: United Kingdom Flag
   title: United Kingdom eSIM data plan
-  subtitle: Worry-free internet | 20% discount for a limited time | Smart choice
+  subtitle: Worry-free internet | 20% discount for a limited time | Smart choice – The best prepaid eSIM for UK travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for UK eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -310,13 +307,13 @@ plans_data:
     tagColor: bg-purple-600
     daily: '2.47'
 discount_banner:
-  title: Special Discount!
+  title: Special Discount on UK eSIM Plans
   desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order! Get the cheapest eSIM plan UK for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: Network Coverage Details
+  title: UK eSIM Network Coverage Details
   supports_text: 'Supports:'
   service_details:
     title: Service Details
@@ -328,7 +325,7 @@ network_coverage:
         major cities like London, Manchester, Birmingham, Edinburgh. Our United Kingdom
         eSIM seamlessly connects to the robust networks of Vodafone, EE, and O2, ensuring
         stable signals in urban centers, tourist hotspots, and along major transportation
-        routes.
+        routes. It's the cheapest eSIM plan UK travelers can rely on without sacrificing quality.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -373,7 +370,7 @@ reminders:
     result_html: |-
       If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: Activation Steps
+  title: How to Activate Your UK eSIM
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
@@ -446,12 +443,8 @@ faq_section:
         small plastic cards. We partner directly with top local networks in United
         Kingdom, such as Vodafone, EE, O2, to ensure premium speeds at a fraction
         of roaming costs.
-    - q: How do you compare with well-known eSIM providers like mobimatter, Holafly,
-        Airalo, Instabridge?
-      a: While great companies like mobimatter, Holafly, Airalo, Instabridge offer
-        reliable services, we focus on providing the most cost-effective United Kingdom
-        eSIM, ensuring lower latency and better prices with our automatic price-matching
-        system.
+    - q: How do you compare with well-known eSIM providers like Ubigi, Holafly, Airalo, Klook, Saily, and Gigsky?
+      a: Roami focuses on providing the most cost-effective UK eSIM for travelers, with flexible short-term plans starting from $1.99/GB – ideal for tourists on 3–15 day trips. Unlike many competitors that use 30‑day billing cycles (e.g., EE, Vodafone, O2 prepaid), Roami offers true day‑based plans, saving you up to 70% on unused data. We accept global payment methods (Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal) with no hidden fees, and provide 24/7 English‑speaking customer support. While great providers like Ubigi, Holafly, Airalo, Klook, Saily, and Gigsky offer reliable services, Roami’s automatic price‑matching and direct partnerships with Vodafone, EE, and O2 ensure you get the best value without compromising on quality or coverage.
   - id: faq-airport
     icon: plane
     tab_title: Airports
@@ -723,7 +716,7 @@ faq_section:
         on the go using your United Kingdom eSIM to update them on flight delays or
         schedule changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related UK eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -776,7 +769,7 @@ related_products:
 
 # =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "United-Kingdom eSIM vs Physical SIM Card: What’s the Real Difference?"
+  title: "United-Kingdom eSIM vs Physical SIM Card: What’s the Real Difference? – Best eSIM for UK Travelers"
   subtitle: "UK Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
   citation:
     text: "Data Source: Prepaid Data SIM Card Wiki (United-Kingdom) + Local Operator Sites"
@@ -842,7 +835,7 @@ market_analysis:
         icon_bg: "bg-indigo-100"
         icon_color: "text-indigo-600"
         title: "Instant Activation, No Queues"
-        desc: "Three SIM activation can take up to <b>6 hours</b>. EE requires in-store visits. Roami eSIM activates within <b>1 minute</b> after purchase."
+        desc: "Three SIM activation can take up to <b>6 hours</b>. EE requires in-store visits. Roami eSIM activates within <b>1 minute</b> after purchase – the best eSIM for UK travelers."
       - icon: "passport"
         icon_bg: "bg-blue-100"
         icon_color: "text-blue-600"

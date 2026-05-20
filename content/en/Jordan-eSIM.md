@@ -1,6 +1,6 @@
 ---
 title: Jordan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Top Jordan eSIM | Unlimited Data| Top Local Carrier True 5G | Roami
   description: Need internet in Jordan? Stay connected via Top Local Carrier Seamless
@@ -48,9 +48,9 @@ hero:
   flag_alt: Jordan Flag
   title: Jordan eSIM data plan
   subtitle: 20% discount for a limited time | 100% money-back guarantee | 1-minute
-    activation
+    activation – The best prepaid eSIM for Jordan travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Jordan eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -215,9 +215,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '19.33'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Jordan eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Jordan for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -255,11 +257,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Jordan eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Jordan.
   - icon: ⏰
@@ -274,8 +277,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -288,8 +292,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -616,7 +619,7 @@ faq_section:
         on the go using your Jordan eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Jordan eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -666,84 +669,100 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Jordan eSIM vs Local Prepaid SIM: Which Is More Convenient?"
-  subtitle: "Jordan Local Prepaid SIMs vs. eSIM Solutions (2025 Benchmark)"
+  title: 'Jordan eSIM vs Local Prepaid SIM: Which Is More Convenient?'
+  subtitle: Jordan Local Prepaid SIMs vs. eSIM Solutions (2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Jordan) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Jordan"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Jordan) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Jordan
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Jordan eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Jordan eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Airport kiosks of Zain and Umniah require passport check and queueing for 20-40 minutes; Orange has no airport counter."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip airport queues at Zain/Umniah counters (20-40 min wait). Activate Roami eSIM online within 1 minute after landing in Amman."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "SIM card purchase requires passport presentation; airport stores of Zain and Umniah require manual photocopying and registration."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid handing over your passport for photocopying at Zain/Umniah stores. Roami eSIM activates without KYC, protecting your privacy."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "No roaming data is included in local prepaid plans; Orange has signal blind spots even in downtown Amman."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "Unlike local SIMs with no roaming data, Roami eSIM works across borders. Switch networks between Zain and Umniah for best coverage, avoiding Orange's blind spots."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "All prepaid plans strictly follow a 30-day billing cycle; e.g., Zain's 10 JOD plan offers only 2GB for 30 days, wasting 25 days for a 5-day trip."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Avoid 30-day plans like Zain's 10 JOD/2GB (waste 25 days). Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Umniah explicitly prohibits tethering on all Smart combo plans and bans use on tablets, routers, and MiFi devices."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Umniah bans tethering on Smart plans. Roami eSIM allows full hotspot sharing for laptops and tablets, no restrictions."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up cards (e.g., 3 JOD scratch cards) are sold at kiosks; online top-up often rejects foreign cards; 16% mobile tax is added at payment."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to find scratch cards or pay 16% hidden tax."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is primarily in Arabic; no 24/7 live chat for prepaid users."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get instant help in English via live chat, unlike local Arabic-only support with limited hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Airport kiosks of Zain and Umniah require passport check and queueing
+      for 20-40 minutes; Orange has no airport counter.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip airport queues at Zain/Umniah counters (20-40 min wait). Activate
+      Roami eSIM online within 1 minute after landing in Amman.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: SIM card purchase requires passport presentation; airport stores
+      of Zain and Umniah require manual photocopying and registration.
+    esim_title: No Passport Required
+    esim_desc: Avoid handing over your passport for photocopying at Zain/Umniah stores.
+      Roami eSIM activates without KYC, protecting your privacy.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: No roaming data is included in local prepaid plans; Orange has signal
+      blind spots even in downtown Amman.
+    esim_title: Global Roaming Ready
+    esim_desc: Unlike local SIMs with no roaming data, Roami eSIM works across borders.
+      Switch networks between Zain and Umniah for best coverage, avoiding Orange's
+      blind spots.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: All prepaid plans strictly follow a 30-day billing cycle; e.g.,
+      Zain's 10 JOD plan offers only 2GB for 30 days, wasting 25 days for a 5-day
+      trip.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Avoid 30-day plans like Zain's 10 JOD/2GB (waste 25 days). Roami offers
+      7-day plans starting from $1.99/GB, saving up to 75% waste.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: Umniah explicitly prohibits tethering on all Smart combo plans and
+      bans use on tablets, routers, and MiFi devices.
+    esim_title: Unrestricted Tethering
+    esim_desc: Umniah bans tethering on Smart plans. Roami eSIM allows full hotspot
+      sharing for laptops and tablets, no restrictions.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up cards (e.g., 3 JOD scratch cards) are sold at kiosks; online
+      top-up often rejects foreign cards; 16% mobile tax is added at payment.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need to find scratch cards or pay 16% hidden tax.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is primarily in Arabic; no 24/7 live chat for prepaid
+      users.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get instant help in English via live chat, unlike local Arabic-only
+      support with limited hours.
   expert_verdict:
-    title: "Jordan eSIM vs Physical SIM Card: Pros and Cons Breakdown"
+    title: 'Jordan eSIM vs Physical SIM Card: Pros and Cons Breakdown'
     cards:
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unlock Hotspot on All Devices"
-        desc: "Umniah explicitly bans tethering on Smart plans and prohibits use on tablets/routers. Roami eSIM supports full hotspot sharing for laptops and tablets."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Seamless Multi-Country Roaming"
-        desc: "Local SIMs offer no roaming data; Orange has blind spots. Roami eSIM works across borders and switches between Zain and Umniah networks for best signal."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "No Night-Time Data Restrictions"
-        desc: "Umniah's 15 JOD plan allocates 36GB of 40GB to night hours (2am-10am). Roami gives full-speed data 24/7, no time slicing."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, Apple Pay"
-        desc: "Avoid 16% hidden tax and scratch card scams. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Unlock Hotspot on All Devices
+      desc: Umniah explicitly bans tethering on Smart plans and prohibits use on tablets/routers.
+        Roami eSIM supports full hotspot sharing for laptops and tablets.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Seamless Multi-Country Roaming
+      desc: Local SIMs offer no roaming data; Orange has blind spots. Roami eSIM works
+        across borders and switches between Zain and Umniah networks for best signal.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: No Night-Time Data Restrictions
+      desc: Umniah's 15 JOD plan allocates 36GB of 40GB to night hours (2am-10am).
+        Roami gives full-speed data 24/7, no time slicing.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Visa, Mastercard, Apple Pay
+      desc: Avoid 16% hidden tax and scratch card scams. Roami accepts Visa, Mastercard,
+        AMEX, Apple Pay, Google Pay, and PayPal.
 ---

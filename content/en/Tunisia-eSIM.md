@@ -1,6 +1,6 @@
 ---
 title: Tunisia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Tunisia eSIM Plan | Top Local Carrier Native 5G | 20% OFF| Roami
   description: Planning a trip to Tunisia? Roami offers High-Speed Data on the reliable
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/tn.svg
   flag_alt: Tunisia Flag
   title: Tunisia eSIM data plan
-  subtitle: Travel with ease | Smart choice | No more roaming fees
+  subtitle: Travel with ease | Smart choice | No more roaming fees – The best prepaid
+    eSIM for Tunisia travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Tunisia eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -262,9 +263,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '4.66'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Tunisia eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Tunisia for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -303,11 +306,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Tunisia eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Tunisia.
   - icon: ⏰
@@ -322,8 +326,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -336,8 +341,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -666,7 +670,7 @@ faq_section:
         on the go using your Tunisia eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Tunisia eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -716,84 +720,103 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Tunisia eSIM vs Local SIM Card: Which One Saves You More?"
-  subtitle: "Tunisia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Tunisia eSIM vs Local SIM Card: Which One Saves You More?'
+  subtitle: Tunisia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Tunisia) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Tunisia"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Tunisia) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Tunisia
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Tunisia eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Tunisia eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Must visit operator store or kiosk, show passport, queue for photocopying; airport kiosks may charge 10% service fee on top-ups."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Tunisie Telecom or Ooredoo store queues. Activate online within 1 minute after landing at Tunis-Carthage Airport, no passport needed."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All operators require passport for SIM purchase; passport check is mandatory."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid mandatory passport registration at all Tunisian operators. Roami eSIM activates instantly without ID, saving 30+ minutes at kiosks."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Local prepaid plans are single-country only; no EU or North Africa roaming FUP mentioned; likely no roaming included."
-      esim_title: "Global Roaming Ready"
-      esim_desc: "Unlike local SIMs locked to Tunisia, Roami eSIM offers multi-country plans covering Morocco and Algeria, avoiding the 'no signal' trap at borders."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Ooredoo 7-day 1.25GB costs 5 DT; 30-day plans start at 10.5 DT; Tunisie Telecom 30-day 1.1GB costs 4.5 DT; short-term tourists forced to buy longer plans."
-      esim_title: "Flexible Plans, Zero Waste"
-      esim_desc: "Unlike Ooredoo's 7-day (5 DT/1.25GB) or 30-day (10.5 DT/3.5GB) cycles, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Lycamobile Tunisia explicitly blocks tethering; other operators may allow but no specific data."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Lycamobile Tunisia blocks hotspot; Roami eSIM allows full tethering, share data with laptop or friends without extra fees."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up at kiosks incurs 10% service fee; Lycamobile supports international credit card online top-up, but not common for others."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. Avoid the 10% service fee charged by Tunisian kiosks for cash top-ups."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Roami provides 24/7 live chat support in English, French, and Arabic, unlike local operators with limited hours and language barriers."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Must visit operator store or kiosk, show passport, queue for photocopying;
+      airport kiosks may charge 10% service fee on top-ups.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Tunisie Telecom or Ooredoo store queues. Activate online within
+      1 minute after landing at Tunis-Carthage Airport, no passport needed.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: All operators require passport for SIM purchase; passport check
+      is mandatory.
+    esim_title: No Passport Required
+    esim_desc: Avoid mandatory passport registration at all Tunisian operators. Roami
+      eSIM activates instantly without ID, saving 30+ minutes at kiosks.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Local prepaid plans are single-country only; no EU or North Africa
+      roaming FUP mentioned; likely no roaming included.
+    esim_title: Global Roaming Ready
+    esim_desc: Unlike local SIMs locked to Tunisia, Roami eSIM offers multi-country
+      plans covering Morocco and Algeria, avoiding the 'no signal' trap at borders.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Ooredoo 7-day 1.25GB costs 5 DT; 30-day plans start at 10.5 DT;
+      Tunisie Telecom 30-day 1.1GB costs 4.5 DT; short-term tourists forced to buy
+      longer plans.
+    esim_title: Flexible Plans, Zero Waste
+    esim_desc: Unlike Ooredoo's 7-day (5 DT/1.25GB) or 30-day (10.5 DT/3.5GB) cycles,
+      Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste for
+      short trips.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: Lycamobile Tunisia explicitly blocks tethering; other operators
+      may allow but no specific data.
+    esim_title: Unrestricted Tethering
+    esim_desc: Lycamobile Tunisia blocks hotspot; Roami eSIM allows full tethering,
+      share data with laptop or friends without extra fees.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up at kiosks incurs 10% service fee; Lycamobile supports international
+      credit card online top-up, but not common for others.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      Avoid the 10% service fee charged by Tunisian kiosks for cash top-ups.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Roami provides 24/7 live chat support in English, French, and Arabic,
+      unlike local operators with limited hours and language barriers.
   expert_verdict:
-    title: "Tunisia eSIM vs Physical SIM: Travel, Cost, and Setup Compared"
+    title: 'Tunisia eSIM vs Physical SIM: Travel, Cost, and Setup Compared'
     cards:
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Single-Network Lock-In"
-        desc: "Local SIMs lock you to one network (e.g., Ooredoo). Roami eSIM automatically switches to the best available network among <b>Orange Tunisie, Ooredoo, and Tunisie Telecom</b>, ensuring strong signal from Tunis to Sfax."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Tunisia's Strict SIM Passport Requirements"
-        desc: "All Tunisian operators (Tunisie Telecom, Ooredoo, Orange) <b>require passport</b> for SIM purchase. Roami eSIM activates instantly <b>without any ID</b>, saving you from queuing at kiosks."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation vs. In-Person Queue"
-        desc: "Buying a local SIM requires visiting a store, queuing, and passport registration (30+ min). Roami eSIM activates <b>within 1 minute</b> after purchase, ready upon landing."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate Sunk Cost of Fixed Billing Cycles"
-        desc: "Ooredoo's cheapest 7-day plan costs <b>5 DT for 1.25GB</b>; 30-day plans start at <b>10.5 DT</b>. A 3-day tourist wastes over 50% of the plan. Roami offers <b>7-day plans from $1.99/GB</b>, paying only for what you use."
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Single-Network Lock-In
+      desc: Local SIMs lock you to one network (e.g., Ooredoo). Roami eSIM automatically
+        switches to the best available network among <b>Orange Tunisie, Ooredoo, and
+        Tunisie Telecom</b>, ensuring strong signal from Tunis to Sfax.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Tunisia's Strict SIM Passport Requirements
+      desc: All Tunisian operators (Tunisie Telecom, Ooredoo, Orange) <b>require passport</b>
+        for SIM purchase. Roami eSIM activates instantly <b>without any ID</b>, saving
+        you from queuing at kiosks.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation vs. In-Person Queue
+      desc: Buying a local SIM requires visiting a store, queuing, and passport registration
+        (30+ min). Roami eSIM activates <b>within 1 minute</b> after purchase, ready
+        upon landing.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate Sunk Cost of Fixed Billing Cycles
+      desc: Ooredoo's cheapest 7-day plan costs <b>5 DT for 1.25GB</b>; 30-day plans
+        start at <b>10.5 DT</b>. A 3-day tourist wastes over 50% of the plan. Roami
+        offers <b>7-day plans from $1.99/GB</b>, paying only for what you use.
 ---

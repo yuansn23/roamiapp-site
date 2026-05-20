@@ -1,6 +1,6 @@
 ---
 title: Romania eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Buy Romania eSIM | No Roaming Shock | No Roaming Fees | Roami
   description: Planning a trip to Romania? Get Roami's High-Speed 5G on Top Local
@@ -46,9 +46,10 @@ hero:
   flag_image: img/flags/ro.svg
   flag_alt: Romania Flag
   title: Romania eSIM data plan
-  subtitle: Automatic network selection | No hidden fees | Hotspot supported
+  subtitle: Automatic network selection | No hidden fees | Hotspot supported – The
+    best prepaid eSIM for Romania travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Romania eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -293,9 +294,11 @@ plans_data:
     tagColor: bg-purple-600
     daily: '4.66'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Romania eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Romania for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -334,11 +337,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Romania eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Romania.
   - icon: ⏰
@@ -353,8 +357,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -367,8 +372,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -699,7 +703,7 @@ faq_section:
         on the go using your Romania eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Romania eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -749,84 +753,107 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Romania eSIM vs Prepaid SIM Card: Is It Worth Switching?"
-  subtitle: "Romania Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Romania eSIM vs Prepaid SIM Card: Is It Worth Switching?'
+  subtitle: Romania Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Romania) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Romania"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Romania) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Romania
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Romania eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Romania eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Orange and Digi reject international credit cards for online top-up; Orange requires a Romanian credit card, forcing tourists to buy physical vouchers at stores."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip Orange and Vodafone store queues. Activate online within 1 minute after landing in Bucharest."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, Romanian prepaid SIMs typically require passport registration at point of sale."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid passport registration at Romanian stores. Roami eSIM activates instantly without ID checks."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Vodafone's €5/€6/€8 plans completely block EU roaming; Orange's €5/€6 plans have EU roaming data that is inactive unless a €12+ plan is purchased; Digi's €2.5-€5 plans block EU roaming, only the €9 plan includes 15GB EU roaming."
-      esim_title: "Seamless EU Roaming"
-      esim_desc: "Unlike Vodafone's €5/€6/€8 plans that block EU roaming, Roami provides usable data across all EU countries without FUP restrictions."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Orange, Vodafone, and Digi mainstream plans require 28-day or 30-day billing cycles, starting at over €6 after tax. A 7-day tourist wastes over 75% of the plan's value."
-      esim_title: "Flexible Short Plans"
-      esim_desc: "Unlike Orange's 28-day cycle (€5+21% VAT), Roami offers 7-day plans starting from $1.99/GB, saving over 75% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "Vodafone data card allows tethering but mobile card is unclear; Orange and Digi do not specify hotspot restrictions."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami allows full-speed hotspot sharing, unlike Vodafone's unclear policy and potential blocks on mobile SIMs."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Orange online top-up requires a Romanian credit card; Digi online top-up also rejects international cards; users must buy physical vouchers at kiosks."
-      esim_title: "Global Payment Accepted"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for Romanian credit cards like Orange requires."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, customer support is typically in Romanian, with limited English support."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get English-speaking support anytime, unlike Romanian operators that typically offer only Romanian-language support during business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Orange and Digi reject international credit cards for online top-up;
+      Orange requires a Romanian credit card, forcing tourists to buy physical vouchers
+      at stores.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Orange and Vodafone store queues. Activate online within 1 minute
+      after landing in Bucharest.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      knowledge, Romanian prepaid SIMs typically require passport registration at
+      point of sale.
+    esim_title: No Passport Required
+    esim_desc: Avoid passport registration at Romanian stores. Roami eSIM activates
+      instantly without ID checks.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Vodafone's €5/€6/€8 plans completely block EU roaming; Orange's
+      €5/€6 plans have EU roaming data that is inactive unless a €12+ plan is purchased;
+      Digi's €2.5-€5 plans block EU roaming, only the €9 plan includes 15GB EU roaming.
+    esim_title: Seamless EU Roaming
+    esim_desc: Unlike Vodafone's €5/€6/€8 plans that block EU roaming, Roami provides
+      usable data across all EU countries without FUP restrictions.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Orange, Vodafone, and Digi mainstream plans require 28-day or 30-day
+      billing cycles, starting at over €6 after tax. A 7-day tourist wastes over 75%
+      of the plan's value.
+    esim_title: Flexible Short Plans
+    esim_desc: Unlike Orange's 28-day cycle (€5+21% VAT), Roami offers 7-day plans
+      starting from $1.99/GB, saving over 75% waste for short trips.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: Vodafone data card allows tethering but mobile card is unclear;
+      Orange and Digi do not specify hotspot restrictions.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami allows full-speed hotspot sharing, unlike Vodafone's unclear
+      policy and potential blocks on mobile SIMs.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Orange online top-up requires a Romanian credit card; Digi online
+      top-up also rejects international cards; users must buy physical vouchers at
+      kiosks.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for Romanian credit cards like Orange requires.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      knowledge, customer support is typically in Romanian, with limited English support.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get English-speaking support anytime, unlike Romanian operators that
+      typically offer only Romanian-language support during business hours.
   expert_verdict:
-    title: "Romania eSIM vs Local SIM Card: Which One Saves You More?"
+    title: 'Romania eSIM vs Local SIM Card: Which One Saves You More?'
     cards:
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "Keep Your Home SIM Active"
-        desc: "Physical SIMs require removing your home SIM, risking loss of bank verification codes. Roami eSIM works alongside your home SIM, keeping your number online for WhatsApp and banking."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Global Cards, Not Romanian Only"
-        desc: "Orange online top-up requires a <b>Romanian credit card</b>; Digi also rejects international cards. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal</b>."
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation, No Store Visit"
-        desc: "Buying a Romanian prepaid SIM requires visiting a store (airport kiosks may charge extra). Roami delivers the eSIM via email; activate in <b>1 minute</b> after landing."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Romania's SIM Registration Hassles"
-        desc: "Romanian prepaid SIMs typically require passport registration at point of sale. Roami eSIM activates instantly without any ID checks, saving you 30 minutes at the store."
+    - icon: shield
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: Keep Your Home SIM Active
+      desc: Physical SIMs require removing your home SIM, risking loss of bank verification
+        codes. Roami eSIM works alongside your home SIM, keeping your number online
+        for WhatsApp and banking.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Global Cards, Not Romanian Only
+      desc: Orange online top-up requires a <b>Romanian credit card</b>; Digi also
+        rejects international cards. Roami accepts <b>Visa, Mastercard, AMEX, Apple
+        Pay, Google Pay, and PayPal</b>.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation, No Store Visit
+      desc: Buying a Romanian prepaid SIM requires visiting a store (airport kiosks
+        may charge extra). Roami delivers the eSIM via email; activate in <b>1 minute</b>
+        after landing.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Romania's SIM Registration Hassles
+      desc: Romanian prepaid SIMs typically require passport registration at point
+        of sale. Roami eSIM activates instantly without any ID checks, saving you
+        30 minutes at the store.
 ---

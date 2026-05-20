@@ -1,6 +1,6 @@
 ---
 title: Latvia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Top Latvia eSIM | No Hidden Fees|Top Local Carrier High-Speed 5G|Roami
   description: Traveling to Latvia? Experience Transparent Data and seamless Native
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/lv.svg
   flag_alt: Latvia Flag
   title: Latvia eSIM data plan
-  subtitle: Travel with ease | Bestseller | Hotspot supported
+  subtitle: Travel with ease | Bestseller | Hotspot supported – The best prepaid eSIM
+    for Latvia travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Latvia eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -294,9 +295,11 @@ plans_data:
     tagColor: bg-purple-600
     daily: '3.00'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Latvia eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Latvia for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -334,11 +337,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Latvia eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Latvia.
   - icon: ⏰
@@ -353,8 +357,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -367,8 +372,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -692,7 +696,7 @@ faq_section:
         on the go using your Latvia eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Latvia eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -742,84 +746,107 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Latvia eSIM or Prepaid SIM Card: A Side-by-Side Comparison"
-  subtitle: "Latvia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Latvia eSIM or Prepaid SIM Card: A Side-by-Side Comparison'
+  subtitle: Latvia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Latvia) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Latvia"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Latvia) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Latvia
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Latvia eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Latvia eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "LMT official website does not sell low-cost €1.5 SIM cards; physical purchase requires visiting retail stores. ZZ physical SIM prices vary from €1.49 to €3.99."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip LMT store queues and avoid hunting for €1.5 SIM cards at supermarkets. Activate your eSIM online within 1 minute after landing in Riga."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, Latvia requires passport registration for prepaid SIMs, typically done in-store."
-      esim_title: "No Passport Required"
-      esim_desc: "Unlike Latvian prepaid SIMs that require in-store passport registration, Roami eSIM activates instantly with no ID check, saving 30 minutes at the store."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "LMT's €3.50 7-day unlimited plan offers only 3.2GB EU roaming; ZZ's €2.49 unlimited weekly plan completely blocks EU roaming; Bite's only roaming plan is 'Bite Priekšapmaksa Eiropa' at €6.75/30 days with 100MB."
-      esim_title: "True EU Roaming Included"
-      esim_desc: "Avoid LMT's 3.2GB EU roaming cap on a €3.50 plan (only 26% of domestic data) or ZZ's complete roaming block. Roami eSIM offers full data allowance across all EU countries."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "LMT's cheapest €3.50 plan is locked to a 7-day cycle; automatic renewal charges the full price after one week unless user sends 'STOP' code. A 2-day trip wastes 5 days of the plan."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike LMT's 7-day cycle (€3.50) that wastes 71% of value on a 2-day trip, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, most Latvian prepaid SIMs allow tethering but may throttle after FUP limits."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "No hidden FUP throttling after 3.2GB like LMT. Roami eSIM allows full-speed hotspot sharing for all your devices."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, top-up can be done via vouchers at kiosks or online with foreign cards, but foreign cards may be rejected."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to find local kiosks for top-up vouchers or deal with foreign card rejections."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market knowledge, customer support is typically in Latvian or Russian, with limited English availability."
-      esim_title: "24/7 English Support"
-      esim_desc: "Get round-the-clock customer support in English via live chat, unlike Latvian operators that offer support only in Latvian or Russian during business hours."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: LMT official website does not sell low-cost €1.5 SIM cards; physical
+      purchase requires visiting retail stores. ZZ physical SIM prices vary from €1.49
+      to €3.99.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip LMT store queues and avoid hunting for €1.5 SIM cards at supermarkets.
+      Activate your eSIM online within 1 minute after landing in Riga.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      knowledge, Latvia requires passport registration for prepaid SIMs, typically
+      done in-store.
+    esim_title: No Passport Required
+    esim_desc: Unlike Latvian prepaid SIMs that require in-store passport registration,
+      Roami eSIM activates instantly with no ID check, saving 30 minutes at the store.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: LMT's €3.50 7-day unlimited plan offers only 3.2GB EU roaming; ZZ's
+      €2.49 unlimited weekly plan completely blocks EU roaming; Bite's only roaming
+      plan is 'Bite Priekšapmaksa Eiropa' at €6.75/30 days with 100MB.
+    esim_title: True EU Roaming Included
+    esim_desc: Avoid LMT's 3.2GB EU roaming cap on a €3.50 plan (only 26% of domestic
+      data) or ZZ's complete roaming block. Roami eSIM offers full data allowance
+      across all EU countries.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: LMT's cheapest €3.50 plan is locked to a 7-day cycle; automatic
+      renewal charges the full price after one week unless user sends 'STOP' code.
+      A 2-day trip wastes 5 days of the plan.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike LMT's 7-day cycle (€3.50) that wastes 71% of value on a 2-day
+      trip, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      knowledge, most Latvian prepaid SIMs allow tethering but may throttle after
+      FUP limits.
+    esim_title: Unrestricted Tethering
+    esim_desc: No hidden FUP throttling after 3.2GB like LMT. Roami eSIM allows full-speed
+      hotspot sharing for all your devices.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      knowledge, top-up can be done via vouchers at kiosks or online with foreign
+      cards, but foreign cards may be rejected.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need to find local kiosks for top-up vouchers or deal with foreign card rejections.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      knowledge, customer support is typically in Latvian or Russian, with limited
+      English availability.
+    esim_title: 24/7 English Support
+    esim_desc: Get round-the-clock customer support in English via live chat, unlike
+      Latvian operators that offer support only in Latvian or Russian during business
+      hours.
   expert_verdict:
-    title: "Latvia eSIM vs Prepaid SIM: Cost and Convenience Compared"
+    title: 'Latvia eSIM vs Prepaid SIM: Cost and Convenience Compared'
     cards:
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Latvia's Strict SIM Passport Requirements"
-        desc: "Latvian prepaid SIMs require in-store passport registration. Roami eSIM activates instantly with no ID check, saving you 30 minutes at the store."
-      - icon: "shield"
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        title: "No Automatic Renewal Traps"
-        desc: "LMT weekly plans auto-renew unless you send 'STOP' code. Roami eSIM is pay-as-you-go with no auto-renewal, preventing unexpected charges."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "True Multi-Country Roaming"
-        desc: "Bite's only roaming plan offers just 100MB for €6.75. Roami eSIM works seamlessly across all EU countries with the same data allowance."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Global Cards, No Local Hassle"
-        desc: "Top-up Latvian SIMs often requires local vouchers or cash. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal."
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Latvia's Strict SIM Passport Requirements
+      desc: Latvian prepaid SIMs require in-store passport registration. Roami eSIM
+        activates instantly with no ID check, saving you 30 minutes at the store.
+    - icon: shield
+      icon_bg: bg-teal-100
+      icon_color: text-teal-600
+      title: No Automatic Renewal Traps
+      desc: LMT weekly plans auto-renew unless you send 'STOP' code. Roami eSIM is
+        pay-as-you-go with no auto-renewal, preventing unexpected charges.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: True Multi-Country Roaming
+      desc: Bite's only roaming plan offers just 100MB for €6.75. Roami eSIM works
+        seamlessly across all EU countries with the same data allowance.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Global Cards, No Local Hassle
+      desc: Top-up Latvian SIMs often requires local vouchers or cash. Roami accepts
+        Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal.
 ---

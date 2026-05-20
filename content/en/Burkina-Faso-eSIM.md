@@ -1,6 +1,6 @@
 ---
 title: Burkina Faso eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Burkina Faso eSIM Plan | Top Local Carrier Zero-Lag 5G | Roami
   description: Traveling to Burkina Faso? Roami offers High-Speed Data on the reliable
@@ -47,9 +47,10 @@ hero:
   flag_image: img/flags/bf.svg
   flag_alt: Burkina Faso Flag
   title: Burkina Faso eSIM data plan
-  subtitle: Travel with ease | Prioritized 5G access | Smooth video streaming
+  subtitle: Travel with ease | Prioritized 5G access | Smooth video streaming – The
+    best prepaid eSIM for Burkina Faso travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Burkina Faso eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -113,9 +114,11 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '1.83'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Burkina Faso eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Burkina Faso for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -154,11 +157,12 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Burkina Faso eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Burkina Faso.
   - icon: ⏰
@@ -173,8 +177,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -187,8 +192,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -524,7 +528,7 @@ faq_section:
         on the go using your Burkina Faso eSIM to update them on flight delays or
         schedule changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Burkina Faso eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -574,84 +578,113 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Burkina-Faso eSIM vs Prepaid SIM Card: Key Differences Explained"
-  subtitle: "Burkina Faso Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Burkina-Faso eSIM vs Prepaid SIM Card: Key Differences Explained'
+  subtitle: Burkina Faso Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Burkina-Faso) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Burkina-Faso"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Burkina-Faso) + Local Operator
+      Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Burkina-Faso
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Burkina-Faso eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Burkina-Faso eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Burkina Faso has enforced mandatory real-name registration since 2012; purchasing an Orange or Telecel SIM requires presenting a passport at a designated store or kiosk, which involves manual verification and can be time-consuming."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip the queues at Orange or Onatel stores. Activate your Roami eSIM online within 1 minute after landing in Ouagadougou, no passport required."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All prepaid SIMs in Burkina Faso require mandatory KYC registration with a valid ID (passport) since 2012; Orange, Onatel, and Telecel all enforce this in-store."
-      esim_title: "No Passport Required"
-      esim_desc: "Bypass Burkina Faso's mandatory KYC registration (since 2012). Unlike Orange or Telecel SIMs that require passport copies, Roami eSIM activates instantly without identity verification."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "Orange's roaming data rate is 281 CFA/MB (approx. $0.47/MB); the West African multilateral agreement exempts voice roaming but explicitly excludes data, so cross-border data usage incurs high costs."
-      esim_title: "Global Roaming Included"
-      esim_desc: "Avoid Orange's 281 CFA/MB roaming fees. Roami eSIM offers multi-country plans at flat rates, e.g., $9.99 for 3GB across West Africa, no data exclusion."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "Orange's 30-day plans (e.g., 1GB/2500 CFA, 5GB/8000 CFA) dominate; Onatel's 30-day 10GB plan costs 15,000 CFA; Telecel's smallest 10MB plan forces a 30-day validity. A 5-day tourist buying a 30-day plan wastes over 80% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike Orange's 30-day cycle (1GB/2500 CFA, wasting 80% for a 5-day trip), Roami offers 7-day plans starting from $1.99/GB, saving over 75% waste."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on common market practice, most local prepaid SIMs in Burkina Faso allow tethering but may throttle after a certain limit; however, no explicit policy is documented."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike Onatel's social media plans that throttle to 128 kbps after 100MB/day. Share your connection freely."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up is typically done via physical scratch cards purchased at kiosks or stores; online top-up with foreign cards is often rejected. Common payment methods for locals are cash or mobile money; Visa/Mastercard are rarely accepted for prepaid top-ups."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local scratch cards or mobile money; top-up instantly online."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is available in French and local languages, typically via phone or in-store during business hours; no 24/7 live chat for prepaid users."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock support in English, French, and more via live chat. No more waiting for store hours or struggling with local language barriers."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Burkina Faso has enforced mandatory real-name registration since
+      2012; purchasing an Orange or Telecel SIM requires presenting a passport at
+      a designated store or kiosk, which involves manual verification and can be time-consuming.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip the queues at Orange or Onatel stores. Activate your Roami eSIM
+      online within 1 minute after landing in Ouagadougou, no passport required.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: All prepaid SIMs in Burkina Faso require mandatory KYC registration
+      with a valid ID (passport) since 2012; Orange, Onatel, and Telecel all enforce
+      this in-store.
+    esim_title: No Passport Required
+    esim_desc: Bypass Burkina Faso's mandatory KYC registration (since 2012). Unlike
+      Orange or Telecel SIMs that require passport copies, Roami eSIM activates instantly
+      without identity verification.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Orange's roaming data rate is 281 CFA/MB (approx. $0.47/MB); the
+      West African multilateral agreement exempts voice roaming but explicitly excludes
+      data, so cross-border data usage incurs high costs.
+    esim_title: Global Roaming Included
+    esim_desc: Avoid Orange's 281 CFA/MB roaming fees. Roami eSIM offers multi-country
+      plans at flat rates, e.g., $9.99 for 3GB across West Africa, no data exclusion.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: Orange's 30-day plans (e.g., 1GB/2500 CFA, 5GB/8000 CFA) dominate;
+      Onatel's 30-day 10GB plan costs 15,000 CFA; Telecel's smallest 10MB plan forces
+      a 30-day validity. A 5-day tourist buying a 30-day plan wastes over 80% of the
+      plan's value.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike Orange's 30-day cycle (1GB/2500 CFA, wasting 80% for a 5-day
+      trip), Roami offers 7-day plans starting from $1.99/GB, saving over 75% waste.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: No specific data in source for this dimension. Based on common market
+      practice, most local prepaid SIMs in Burkina Faso allow tethering but may throttle
+      after a certain limit; however, no explicit policy is documented.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike Onatel's social
+      media plans that throttle to 128 kbps after 100MB/day. Share your connection
+      freely.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up is typically done via physical scratch cards purchased at
+      kiosks or stores; online top-up with foreign cards is often rejected. Common
+      payment methods for locals are cash or mobile money; Visa/Mastercard are rarely
+      accepted for prepaid top-ups.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for local scratch cards or mobile money; top-up instantly online.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is available in French and local languages, typically
+      via phone or in-store during business hours; no 24/7 live chat for prepaid users.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock support in English, French, and more via live chat.
+      No more waiting for store hours or struggling with local language barriers.
   expert_verdict:
-    title: "Burkina-Faso eSIM or SIM Card: What’s the Best Option in 2026?"
+    title: 'Burkina-Faso eSIM or SIM Card: What’s the Best Option in 2026?'
     cards:
-      - icon: "clock"
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        title: "Instant Activation, No Store Visit"
-        desc: "Buying a local SIM requires finding a store (e.g., Orange or Onatel) and queuing. Roami eSIM activates in <b>1 minute</b> after purchase, ready upon arrival."
-      - icon: "globe"
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        title: "Smart Network Selection for Best Coverage"
-        desc: "Telecel's 3G/4G only covers <b>4 cities</b>. Roami eSIM connects to <b>Orange</b> or <b>Onatel</b>'s wider network, ensuring reliable data even outside major urban areas."
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unlimited Hotspot Without Throttling"
-        desc: "Onatel's social media plans throttle to <b>128 kbps</b> after <b>100MB/day</b>. Roami eSIM allows full-speed tethering with no FUP, perfect for sharing with laptops."
-      - icon: "tower-observation"
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        title: "Avoid Orange's 281 CFA/MB Roaming Fees"
-        desc: "Orange's cross-border data rate is <b>281 CFA/MB</b> ($0.47/MB). Roami eSIM offers regional plans from <b>$9.99/3GB</b>, eliminating the risk of bill shock when traveling to neighboring countries."
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Instant Activation, No Store Visit
+      desc: Buying a local SIM requires finding a store (e.g., Orange or Onatel) and
+        queuing. Roami eSIM activates in <b>1 minute</b> after purchase, ready upon
+        arrival.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Smart Network Selection for Best Coverage
+      desc: Telecel's 3G/4G only covers <b>4 cities</b>. Roami eSIM connects to <b>Orange</b>
+        or <b>Onatel</b>'s wider network, ensuring reliable data even outside major
+        urban areas.
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Unlimited Hotspot Without Throttling
+      desc: Onatel's social media plans throttle to <b>128 kbps</b> after <b>100MB/day</b>.
+        Roami eSIM allows full-speed tethering with no FUP, perfect for sharing with
+        laptops.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Avoid Orange's 281 CFA/MB Roaming Fees
+      desc: Orange's cross-border data rate is <b>281 CFA/MB</b> ($0.47/MB). Roami
+        eSIM offers regional plans from <b>$9.99/3GB</b>, eliminating the risk of
+        bill shock when traveling to neighboring countries.
 ---

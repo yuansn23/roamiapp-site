@@ -1,6 +1,6 @@
 ---
 title: Cameroon eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -14,10 +14,10 @@ country_meta:
 modal:
   title: Service Upgraded!
   btn_text: Continue
-  text_default: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code:web20
-  text_android: |-
-    Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
+    customers enjoy a 20% discount, promo code:web20
 seo:
   title: Buy Cameroon eSIM | High-Speed 5G Data | Unlimited Data | Roami
   description: Explore Cameroon with ease. Experience High-Speed Data and seamless
@@ -48,8 +48,9 @@ hero:
   flag_alt: Cameroon Flag
   title: Cameroon eSIM data plan
   subtitle: Smooth video streaming | 20% discount for a limited time | Bestseller
+    – The best prepaid eSIM for Cameroon travelers
 features:
-  title: Why Travelers Choose Roami
+  title: Why Travelers Choose Roami for Cameroon eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -106,9 +107,11 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.03'
 discount_banner:
-  title: Special Discount!
-  desc_html: |-
-    Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span> your order!
+  title: Special Discount on Cameroon eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
+    rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
+    underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Cameroon for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -147,11 +150,12 @@ network_coverage:
       coverage: Native IP
       network: 4G/LTE Network
 reminders:
-  title: Important Reminders
+  title: Important reminders when using Cameroon eSIM
   items:
   - icon: 📱
-    html: |-
-      Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
+      underline underline-offset-2 font-bold transition-colors">eSIM compatible</a>
+      before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Cameroon.
   - icon: ⏰
@@ -166,8 +170,9 @@ reminders:
       right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: |-
-      If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900
+      border border-slate-200 font-bold">EID</span> number appears on your screen,
+      your device is supported!
 activation_steps:
   title: Activation Steps
   steps:
@@ -180,8 +185,7 @@ activation_steps:
     title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - |-
-      Go to Settings > Cellular (or Mobile Data)
+    - Go to Settings > Cellular (or Mobile Data)
     - Tap "Add Cellular Plan" or "Add eSIM"
     - Scan the QR code with your camera
     - Follow the prompts to complete setup
@@ -511,7 +515,7 @@ faq_section:
         on the go using your Cameroon eSIM to update them on flight delays or schedule
         changes.
 related_products:
-  title: Related eSIM Plans
+  title: Related Cameroon eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg
@@ -561,84 +565,113 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "Cameroon eSIM vs SIM Card Plans: Which One Fits Your Needs?"
-  subtitle: "Cameroon Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)"
+  title: 'Cameroon eSIM vs SIM Card Plans: Which One Fits Your Needs?'
+  subtitle: Cameroon Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "Data Source: Prepaid Data SIM Card Wiki (Cameroon) + Local Operator Sites"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Cameroon"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Cameroon) + Local Operator Sites'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Cameroon
   table_headers:
-    - "Comparison Matrix"
-    - "Local Prepaid SIM (Market Data)"
-    - "Roami Cameroon eSIM"
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Cameroon eSIM
   table_rows:
-    - icon: "store"
-      title: "Acquisition &<br>Activation"
-      prepaid_title: ""
-      prepaid_desc: "Acquisition requires visiting official MTN, Orange, or Nexttel stores for passport registration; street vendors risk forced disconnection within 24 hours."
-      esim_title: "Instant Digital Delivery"
-      esim_desc: "Skip MTN, Orange, or Nexttel store queues and passport checks. Activate your eSIM online within 1 minute before landing in Douala or Yaoundé."
-    - icon: "id-card"
-      title: "KYC & Real-Name<br>Registration"
-      prepaid_title: ""
-      prepaid_desc: "All prepaid SIMs require mandatory real-name registration at official stores since 2015; street-purchased SIMs face high risk of disconnection."
-      esim_title: "No Passport Required"
-      esim_desc: "Avoid Cameroon's mandatory SIM registration. Roami eSIM requires no ID, eliminating the risk of street-purchased SIM disconnection that can take up to 24 hours to resolve."
-    - icon: "globe"
-      title: "International<br>Roaming"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge: MTN, Orange, and Nexttel prepaid plans do not include free roaming outside Cameroon; roaming add-ons cost approximately 500 CFA/100MB per day."
-      esim_title: "Seamless Multi-Country Roaming"
-      esim_desc: "Unlike MTN and Orange plans that stop working at the border, Roami eSIM provides coverage across Cameroon and neighboring countries, avoiding repeated store visits for new SIMs."
-    - icon: "calendar-xmark"
-      title: "Billing Cycle &<br>Sunk Cost"
-      prepaid_title: ""
-      prepaid_desc: "MTN's 30-day plans start at 850 CFA/250MB; Orange's 1.2GB plan costs 2000 CFA for 30 days; Nexttel's 1.5GB plan costs 4000 CFA for 30 days. A 7-day tourist buying a 30-day plan wastes over 75% of the plan's value."
-      esim_title: "Flexible Short-Term Plans"
-      esim_desc: "Unlike MTN's 30-day plan (850 CFA/250MB) or Orange's 30-day plan (2000 CFA/1.2GB), Roami offers 7-day plans starting from $1.99/GB, saving over 75% waste for short trips."
-    - icon: "wifi"
-      title: "Hotspot &<br>Speed Policies"
-      prepaid_title: ""
-      prepaid_desc: "No specific data in source for this dimension. Based on market knowledge: MTN and Orange allow tethering but throttle speeds after daily data cap (e.g., 1GB/day on 30GB plans); Nexttel's social bundles exclude VoIP and may restrict hotspot."
-      esim_title: "Unrestricted Tethering"
-      esim_desc: "Roami eSIM allows full-speed hotspot sharing, unlike MTN and Orange which throttle after 1GB/day on 30GB plans, and Nexttel which restricts VoIP on social bundles."
-    - icon: "credit-card"
-      title: "Top-up Payments"
-      prepaid_title: ""
-      prepaid_desc: "Top-up payments can be made via scratch cards or mobile money; online top-up with foreign cards is often rejected. Common payment methods include Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal."
-      esim_title: "Global Payment Methods"
-      esim_desc: "Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local scratch cards or mobile money that often reject foreign cards."
-    - icon: "headset"
-      title: "Customer Support"
-      prepaid_title: ""
-      prepaid_desc: "Customer support is available in French and English via phone and in-store; hours are typically Mon-Fri 8am-5pm; no dedicated live chat for prepaid customers."
-      esim_title: "24/7 Multilingual Support"
-      esim_desc: "Get round-the-clock support in English and French via live chat, unlike MTN and Orange's limited phone support (Mon-Fri 8am-5pm)."
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: Acquisition &<br>Activation
+    prepaid_title: ''
+    prepaid_desc: Acquisition requires visiting official MTN, Orange, or Nexttel stores
+      for passport registration; street vendors risk forced disconnection within 24
+      hours.
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip MTN, Orange, or Nexttel store queues and passport checks. Activate
+      your eSIM online within 1 minute before landing in Douala or Yaoundé.
+  - icon: id-card
+    title: KYC & Real-Name<br>Registration
+    prepaid_title: ''
+    prepaid_desc: All prepaid SIMs require mandatory real-name registration at official
+      stores since 2015; street-purchased SIMs face high risk of disconnection.
+    esim_title: No Passport Required
+    esim_desc: Avoid Cameroon's mandatory SIM registration. Roami eSIM requires no
+      ID, eliminating the risk of street-purchased SIM disconnection that can take
+      up to 24 hours to resolve.
+  - icon: globe
+    title: International<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: 'No specific data in source for this dimension. Based on market
+      knowledge: MTN, Orange, and Nexttel prepaid plans do not include free roaming
+      outside Cameroon; roaming add-ons cost approximately 500 CFA/100MB per day.'
+    esim_title: Seamless Multi-Country Roaming
+    esim_desc: Unlike MTN and Orange plans that stop working at the border, Roami
+      eSIM provides coverage across Cameroon and neighboring countries, avoiding repeated
+      store visits for new SIMs.
+  - icon: calendar-xmark
+    title: Billing Cycle &<br>Sunk Cost
+    prepaid_title: ''
+    prepaid_desc: MTN's 30-day plans start at 850 CFA/250MB; Orange's 1.2GB plan costs
+      2000 CFA for 30 days; Nexttel's 1.5GB plan costs 4000 CFA for 30 days. A 7-day
+      tourist buying a 30-day plan wastes over 75% of the plan's value.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike MTN's 30-day plan (850 CFA/250MB) or Orange's 30-day plan (2000
+      CFA/1.2GB), Roami offers 7-day plans starting from $1.99/GB, saving over 75%
+      waste for short trips.
+  - icon: wifi
+    title: Hotspot &<br>Speed Policies
+    prepaid_title: ''
+    prepaid_desc: 'No specific data in source for this dimension. Based on market
+      knowledge: MTN and Orange allow tethering but throttle speeds after daily data
+      cap (e.g., 1GB/day on 30GB plans); Nexttel''s social bundles exclude VoIP and
+      may restrict hotspot.'
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike MTN and Orange
+      which throttle after 1GB/day on 30GB plans, and Nexttel which restricts VoIP
+      on social bundles.
+  - icon: credit-card
+    title: Top-up Payments
+    prepaid_title: ''
+    prepaid_desc: Top-up payments can be made via scratch cards or mobile money; online
+      top-up with foreign cards is often rejected. Common payment methods include
+      Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal.
+    esim_title: Global Payment Methods
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal.
+      No need for local scratch cards or mobile money that often reject foreign cards.
+  - icon: headset
+    title: Customer Support
+    prepaid_title: ''
+    prepaid_desc: Customer support is available in French and English via phone and
+      in-store; hours are typically Mon-Fri 8am-5pm; no dedicated live chat for prepaid
+      customers.
+    esim_title: 24/7 Multilingual Support
+    esim_desc: Get round-the-clock support in English and French via live chat, unlike
+      MTN and Orange's limited phone support (Mon-Fri 8am-5pm).
   expert_verdict:
-    title: "Cameroon eSIM or SIM Card: What’s the Best Option in 2026?"
+    title: 'Cameroon eSIM or SIM Card: What’s the Best Option in 2026?'
     cards:
-      - icon: "wifi"
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        title: "Unrestricted Hotspot & Full Speed"
-        desc: "MTN and Orange's 30GB/30-day plans are capped at 1GB/day, throttling after exceeding. Nexttel's social bundles exclude VoIP and may block tethering. Roami eSIM allows unlimited hotspot at full speed."
-      - icon: "passport"
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        title: "Bypass Cameroon's Strict SIM Passport Requirements"
-        desc: "Cameroon's 2015 law mandates passport registration for all prepaid SIMs at official stores. Street-purchased SIMs from MTN, Orange, or Nexttel risk disconnection within 24 hours. Roami eSIM requires no ID, activating instantly."
-      - icon: "credit-card"
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        title: "Pay with Visa, Mastercard, PayPal"
-        desc: "Local top-up often rejects foreign cards; users must buy scratch cards or use mobile money. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal globally."
-      - icon: "hourglass-empty"
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        title: "Eliminate 75% Waste on 30-Day Plans"
-        desc: "MTN's smallest 30-day plan costs 850 CFA/250MB; Orange's 1.2GB plan costs 2000 CFA for 30 days. A 7-day tourist wastes over 75% of the plan's value. Roami's 7-day plans start from $1.99/GB, matching your exact trip length."
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Unrestricted Hotspot & Full Speed
+      desc: MTN and Orange's 30GB/30-day plans are capped at 1GB/day, throttling after
+        exceeding. Nexttel's social bundles exclude VoIP and may block tethering.
+        Roami eSIM allows unlimited hotspot at full speed.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Bypass Cameroon's Strict SIM Passport Requirements
+      desc: Cameroon's 2015 law mandates passport registration for all prepaid SIMs
+        at official stores. Street-purchased SIMs from MTN, Orange, or Nexttel risk
+        disconnection within 24 hours. Roami eSIM requires no ID, activating instantly.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Pay with Visa, Mastercard, PayPal
+      desc: Local top-up often rejects foreign cards; users must buy scratch cards
+        or use mobile money. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google
+        Pay, and PayPal globally.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Eliminate 75% Waste on 30-Day Plans
+      desc: MTN's smallest 30-day plan costs 850 CFA/250MB; Orange's 1.2GB plan costs
+        2000 CFA for 30 days. A 7-day tourist wastes over 75% of the plan's value.
+        Roami's 7-day plans start from $1.99/GB, matching your exact trip length.
 ---
