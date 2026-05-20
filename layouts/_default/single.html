@@ -47,15 +47,21 @@
     
     <link rel="canonical" href="{{ .Permalink }}">
 
-    {{ if .IsTranslated }}
-        {{ range .AllTranslations }}
-        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
-        {{ end }}
-        <link rel="alternate" hreflang="x-default" href="{{ .Site.Home.Permalink }}">
-    {{ else }}
-        <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
-        <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{ if .IsTranslated }}
+    {{ range .AllTranslations }}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
     {{ end }}
+    {{/* 使用 hugo.Sites 获取默认语言（按 languages 定义顺序的第一个）*/}}
+    {{ $defaultLang := (index hugo.Sites 0).Language.Lang }}
+    {{ range .AllTranslations }}
+        {{ if eq .Language.Lang $defaultLang }}
+            <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+        {{ end }}
+    {{ end }}
+{{ else }}
+    <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
+    <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{ end }}
 
     <script type="application/ld+json">
     [

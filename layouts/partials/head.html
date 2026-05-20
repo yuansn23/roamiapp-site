@@ -33,12 +33,18 @@
     {{ range .AllTranslations }}
     <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
     {{ end }}
-    <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}">
+    {{/* 使用 hugo.Sites 获取默认语言（按 languages 定义顺序的第一个）*/}}
+    {{ $defaultLang := (index hugo.Sites 0).Language.Lang }}
+    {{ range .AllTranslations }}
+        {{ if eq .Language.Lang $defaultLang }}
+            <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+        {{ end }}
+    {{ end }}
 {{ else }}
     <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
-    <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}">
+    <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
 {{ end }}
-	
+
 <!-- 🌟 当前页面的绝对路径 (极其重要) --> 
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 
