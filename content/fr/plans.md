@@ -7,7 +7,7 @@ type: "page"
 # 1. SEO 核心优化文案
 seo:
   title: "200 pays pris en charge avec un seul forfait eSIM mondial | Roami"
-  description: "Parcourez et achetez les meilleurs forfaits eSIM de voyage 5G/4G pour plus de 178 pays. Profitez d'une livraison instantanée, de données illimitées et du partage de connexion à partir de seulement 1,99 $."
+  description: "Parcourez et achetez les meilleurs forfaits eSIM de voyage 5G/4G pour plus de 200 pays. Profitez d'une livraison instantanée, de données illimitées et du partage de connexion à partir de seulement 1,99 $."
   keywords: "forfaits esim, esim voyage, esim mondial, acheter esim en ligne, esim données illimitées, esim europe, esim états-unis, esim japon, esim royaume-uni, esim turquie, forfaits esim prépayés"
   image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1200&auto=format&fit=crop"
 

@@ -7,7 +7,7 @@ date: '2026-05-11T00:00:00+00:00'
 # 1. SEO 核心优化文案
 seo:
   title: "200 Länder mit einem globalen eSIM-Tarif unterstützt | Roami"
-  description: "Entdecken und kaufen Sie die besten 5G/4G-Reise-eSIM-Tarife für über 178 Länder. Genießen Sie sofortige Lieferung, unbegrenztes Datenvolumen und Hotspot-Tethering ab nur 1,99 $."
+  description: "Entdecken und kaufen Sie die besten 5G/4G-Reise-eSIM-Tarife für über 200 Länder. Genießen Sie sofortige Lieferung, unbegrenztes Datenvolumen und Hotspot-Tethering ab nur 1,99 $."
   keywords: "esim tarife, reise esim, globale esim, esim online kaufen, unlimited daten esim, europa esim, usa esim, japan esim, uk esim, türkei esim, prepaid esim pakete"
   image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1200&auto=format&fit=crop"
 
