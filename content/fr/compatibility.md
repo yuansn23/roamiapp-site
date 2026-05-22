@@ -1,88 +1,106 @@
 ---
 title: "Liste des téléphones compatibles eSIM (2026)"
-description: "Votre téléphone est-il compatible eSIM ? Consultez notre liste complète et mise à jour des appareils prenant en charge l'eSIM pour 2026, y compris iPhone, Samsung Galaxy, Google Pixel et plus encore. Découvrez quels smartphones supportent l'eSIM : de l'iPhone 17 Pro Max au Samsung Galaxy S25 et au Xiaomi 15T Pro."
-keywords: "téléphones compatibles eSIM, téléphones supportant eSIM, mon téléphone est-il compatible eSIM, compatibilité eSIM iPhone, téléphones Samsung avec eSIM, appareils compatibles eSIM 2026, vérifier compatibilité eSIM, iphone 17 esim, samsung s25 esim, combien d'esim, comment activer esim sur iphone, quel esim, 17 pro max esim, esim samsung, galaxy esim"
+description: "Votre téléphone est-il compatible eSIM ? Consultez notre liste complète mise à jour des appareils prenant en charge l’eSIM en 2026, y compris iPhone, Samsung Galaxy, Google Pixel et plus encore. Découvrez quels smartphones supportent l’eSIM : de l’iPhone 17 Pro Max au Samsung Galaxy S25 et au Xiaomi 15T Pro. Couvre également les téléphones compatibles eSIM comme l’iPhone 11, l’iPhone XR, l’iPhone SE, le Samsung S20, le Pixel 6, le Moto G Power, et bien d’autres."
+keywords: "téléphones compatibles eSIM, téléphones supportant eSIM, mon téléphone est-il compatible eSIM, compatibilité eSIM iPhone, téléphones Samsung eSIM, appareils compatibles eSIM 2026, vérifier compatibilité eSIM, iphone 17 esim, samsung s25 esim, combien esim, comment activer esim sur iphone, quel esim, 17 pro max esim, esim samsung, galaxy esim, téléphones compatibles esim, iphone 11 esim compatible, iphone xr esim compatible, iphone se esim compatible, s20 esim compatible, google pixel 6 esim compatible, moto g power esim compatible, samsung a13 esim compatible, iphone 8 esim compatible, iphone x esim compatible, airalo téléphones compatibles, visible esim téléphones compatibles, google fi esim téléphones compatibles, verizon compatibilité esim, us mobile appareils compatibles esim"
 layout: "compatibility"
 date: '2026-05-21T00:00:00+00:00'
 type: "page"
 
-# Données structurées FAQ pour le SEO
+# Données FAQ structurées pour le SEO
 faq_schema:
   - question: "Comment vérifier si votre téléphone est compatible eSIM ?"
-    answer: "Avant d'acheter un forfait voyage, assurez-vous que votre appareil est débloqué et prend en charge l'eSIM. Ouvrez l'application téléphone, composez *#06# et appuyez sur appel. Si votre appareil est compatible, un numéro EID de 32 chiffres apparaîtra à l'écran. Vous saurez ainsi si votre téléphone supporte l'eSIM."
-  - question: "Quels iPhone supportent l'eSIM ?"
-    answer: "La plupart des iPhone sortis après 2018 supportent l'eSIM, y compris les séries iPhone 17, 16, 15, 14, 13, 12, 11, XS, XR et SE (2020/2022). Les iPhone 17 Pro Max, iPhone 17 Pro, iPhone 17 Air sont également entièrement compatibles. Remarque : les iPhone vendus en Chine continentale ne supportent pas l'eSIM."
+    answer: "Avant d’acheter un forfait de voyage, assurez-vous que votre appareil est débloqué et supporte l’eSIM. Ouvrez le clavier de votre téléphone, saisissez *#06# et appuyez sur Appeler. Si votre appareil est compatible, un numéro EID de 32 chiffres apparaîtra à l’écran. Cela vous indique si votre téléphone prend en charge l’eSIM."
+  - question: "Quels iPhone supportent l’eSIM ?"
+    answer: "La plupart des iPhone sortis après 2018 supportent l’eSIM, y compris les séries iPhone 17, 16, 15, 14, 13, 12, 11, XS, XR et SE (2020/2022). L’iPhone 17 Pro Max, l’iPhone 17 Pro et l’iPhone 17 Air sont également entièrement compatibles. Remarque : les iPhone vendus en Chine continentale ne supportent pas l’eSIM."
   - question: "Les téléphones Samsung Galaxy sont-ils compatibles eSIM ?"
-    answer: "Oui, de nombreux téléphones Samsung supportent l'eSIM, y compris les séries Galaxy S25, S24, S23, S22, S21, S20, ainsi que les séries Galaxy Z Fold et Z Flip. Par exemple, le Samsung Galaxy S25 Ultra, le Galaxy Z Fold6, le Galaxy S24 FE fonctionnent tous avec l'eSIM. Découvrez quels modèles Samsung supportent l'eSIM dans notre liste."
+    answer: "Oui, de nombreux téléphones Samsung supportent l’eSIM, y compris les séries Galaxy S25, S24, S23, S22, S21, S20, ainsi que les séries Galaxy Z Fold et Z Flip. Par exemple, le Samsung Galaxy S25 Ultra, le Galaxy Z Fold6 et le Galaxy S24 FE fonctionnent tous avec l’eSIM. Découvrez quels modèles Samsung supportent l’eSIM dans notre liste."
 
-# En-tête de la page
+# En-tête de page
 header:
   title: "Liste des téléphones compatibles eSIM (2026)"
-  subtitle: "Découvrez quels smartphones, y compris les derniers modèles d'iPhone, Samsung et Google Pixel, prennent en charge la connectivité eSIM mondiale avec Roami. Restez connecté dans plus de 200 pays. Vous trouverez ici les téléphones avec eSIM : de l'iPhone 17 au Samsung Galaxy S25 et au Google Pixel 10."
+  subtitle: "Découvrez quels smartphones, y compris les derniers modèles iPhone, Samsung et Google Pixel, supportent la connectivité eSIM mondiale avec Roami. Restez connecté dans plus de 200 pays. Vous trouverez ici les téléphones eSIM : de l’iPhone 17 au Samsung Galaxy S25 et au Google Pixel 10 – plus des réponses aux questions courantes comme « mon iPhone 11 est-il compatible eSIM ? », « Le Samsung S20 supporte-t-il l’eSIM ? » et « Quels téléphones fonctionnent avec Airalo ou Visible ? »."
   search_placeholder: "Ex. : iPhone 17, Samsung S25 Ultra, Xiaomi 15T Pro, Google Pixel 10"
 
 # Bannière eSIM gratuite (au-dessus de la ligne de flottaison)
 free_esim_banner:
-  title: "Obtenez un eSIM d'essai gratuit"
-  description: "Vous ne savez pas si votre appareil est pris en charge ? La meilleure façon de vérifier la compatibilité est un <strong>eSIM d'essai gratuit</strong>. Que vous ayez besoin d'un <strong>eSIM gratuit pour les États-Unis</strong> pour un voyage en Amérique du Nord, d'un <strong>eSIM gratuit pour le Royaume-Uni</strong> ou d'un <strong>eSIM gratuit pour le Japon</strong>, choisissez-en un ci-dessous et connectez-vous instantanément. Vous pouvez également acheter des eSIM pour d'autres destinations — les eSIM de voyage de Roami."
+  title: "Obtenez une eSIM d’essai gratuite"
+  description: "Vous n’êtes pas sûr que votre appareil soit pris en charge ? La meilleure façon de vérifier la compatibilité est une <strong>eSIM d’essai gratuite</strong>. Que vous ayez besoin d’une <strong>eSIM gratuite pour les États-Unis</strong> pour un voyage en Amérique du Nord, d’une <strong>eSIM gratuite pour le Royaume-Uni</strong> ou d’une <strong>eSIM gratuite pour le Japon</strong>, choisissez-en une ci-dessous et connectez-vous instantanément. Vous pouvez également acheter des eSIM pour d’autres destinations — les eSIM de voyage de Roami."
   links:
-    - text: "🇺🇸 eSIM gratuit pour les États-Unis"
-      title: "Essayez un eSIM gratuit pour les États-Unis"
+    - text: "🇺🇸 eSIM gratuite pour les États-Unis"
+      title: "Essayez une eSIM gratuite pour les États-Unis"
       url: "/free-esim/"
-    - text: "🇬🇧 eSIM gratuit pour le Royaume-Uni"
-      title: "eSIM d'essai gratuit pour les touristes au Royaume-Uni"
+    - text: "🇬🇧 eSIM gratuite pour le Royaume-Uni"
+      title: "eSIM d’essai gratuite pour les touristes au Royaume-Uni"
       url: "/free-esim/"
-    - text: "🇨🇳 eSIM gratuit pour la Chine"
+    - text: "🇨🇳 eSIM gratuite pour la Chine"
       title: "Obtenez un forfait eSIM gratuit pour la Chine"
       url: "/free-esim/"
-    - text: "🇹🇷 eSIM gratuit pour la Turquie"
+    - text: "🇹🇷 eSIM gratuite pour la Turquie"
       title: "Connexion eSIM gratuite en Turquie"
       url: "/free-esim/"
-    - text: "🇩🇪 eSIM gratuit pour l'Allemagne"
-      title: "Forfait eSIM d'essai gratuit pour l'Allemagne"
+    - text: "🇩🇪 eSIM gratuite pour l’Allemagne"
+      title: "Forfait eSIM d’essai gratuit pour l’Allemagne"
       url: "/free-esim/"
-    - text: "🇫🇷 eSIM gratuit pour la France"
-      title: "Le meilleur eSIM gratuit pour voyager en France"
+    - text: "🇫🇷 eSIM gratuite pour la France"
+      title: "La meilleure eSIM gratuite pour voyager en France"
       url: "/free-esim/"
-    - text: "🇹🇭 eSIM gratuit pour la Thaïlande"
+    - text: "🇹🇭 eSIM gratuite pour la Thaïlande"
       title: "Forfait eSIM gratuit pour la Thaïlande"
       url: "/free-esim/"
-    - text: "🇯🇵 eSIM gratuit pour le Japon"
-      title: "Obtenez un eSIM d'essai gratuit pour un voyage au Japon"
+    - text: "🇯🇵 eSIM gratuite pour le Japon"
+      title: "Obtenez une eSIM d’essai gratuite pour un voyage au Japon"
       url: "/free-esim/"
-    - text: "🇰🇷 eSIM gratuit pour la Corée du Sud"
-      title: "eSIM gratuit pour des vacances en Corée du Sud"
+    - text: "🇰🇷 eSIM gratuite pour la Corée du Sud"
+      title: "eSIM gratuite pour des vacances en Corée du Sud"
       url: "/free-esim/"
-    - text: "🇮🇹 eSIM gratuit pour l'Italie"
-      title: "eSIM d'essai gratuit pour l'Italie"
+    - text: "🇮🇹 eSIM gratuite pour l’Italie"
+      title: "eSIM d’essai gratuite pour l’Italie"
       url: "/free-esim/"
 
-# Configuration en l'absence de résultats de recherche
+# Guides de compatibilité rapides (ajoutés pour un meilleur maillage interne et SEO)
+quick_guides:
+  title: "Guides de compatibilité rapides par modèle de téléphone"
+  description: "Accédez directement aux informations détaillées de compatibilité eSIM pour votre téléphone spécifique :"
+  links:
+    - text: "Compatibilité eSIM iPhone 11"
+      url: "/faq/iphone-11-esim-compatible/"
+    - text: "Compatibilité eSIM iPhone XR"
+      url: "/faq/iphone-xr-esim-compatible/"
+    - text: "Compatibilité eSIM iPhone SE"
+      url: "/faq/iphone-se-esim-compatible/"
+    - text: "Compatibilité eSIM Samsung S20"
+      url: "/faq/samsung-s20-esim-compatible/"
+    - text: "Compatibilité eSIM Google Pixel 6"
+      url: "/faq/google-pixel-6-esim-compatible/"
+    - text: "Compatibilité eSIM Moto G Power"
+      url: "/faq/moto-g-power-esim-compatible/"
+
+# Configuration pour l’absence de résultats de recherche
 no_results:
   title: "Appareil non trouvé"
-  description: "Essayez de rechercher avec un nom de marque plus large (Apple, Samsung) ou vérifiez l'un des modèles populaires : iPhone 17, Galaxy S25, Pixel 10 Pro. La plupart des téléphones modernes supportent l'eSIM. Si vous ne savez pas si votre téléphone supporte l'eSIM, composez *#06# — l'apparition d'un EID confirme la compatibilité."
+  description: "Essayez de rechercher par un nom de marque plus large (Apple, Samsung) ou consultez l’un des modèles populaires : iPhone 17, Galaxy S25, Pixel 10 Pro. La plupart des téléphones modernes supportent l’eSIM. Si vous ne savez pas si votre téléphone prend en charge l’eSIM, composez *#06# — l’apparition d’un EID confirme la compatibilité."
   box_title: "La meilleure façon de vérifier ?"
-  box_desc: "Le moyen le plus simple de confirmer la compatibilité est d'essayer d'installer un eSIM gratuit. Si l'installation réussit, votre appareil est prêt !"
-  button_text: "Obtenez un eSIM d'essai gratuit"
+  box_desc: "Le moyen le plus simple de confirmer la compatibilité est d’essayer d’installer une eSIM gratuite. Si l’installation réussit, votre appareil est prêt à l’emploi !"
+  button_text: "Obtenez une eSIM d’essai gratuite"
   button_url: "/free-esim/"
 
-# Section « Comment vérifier »
+# Texte de la section « Comment vérifier »
 how_to_check:
   title: "Comment vérifier si votre téléphone est compatible eSIM ?"
-  description: "Avant d'acheter un forfait voyage, il est crucial de vous assurer que votre appareil est débloqué et prend en charge la technologie eSIM. Le moyen le plus rapide est de rechercher un numéro EID. Nous avons compilé les téléphones compatibles eSIM par marque — de l'Apple iPhone au Samsung Galaxy et au Google Pixel."
+  description: "Avant d’acheter un forfait de voyage, il est crucial de s’assurer que votre appareil est débloqué et supporte la technologie eSIM. Le moyen le plus rapide est de rechercher un numéro EID. Nous avons compilé les téléphones compatibles eSIM par marque — d’Apple iPhone à Samsung Galaxy et Google Pixel."
   steps:
-    - "Ouvrez l'application téléphone."
-    - "Composez <strong>*#06#</strong> et appuyez sur appel."
-    - "Si votre appareil est compatible, un <strong>numéro EID</strong> (code à 32 chiffres) apparaîtra à l'écran."
+    - "Ouvrez le clavier de votre téléphone."
+    - "Saisissez <strong>*#06#</strong> et appuyez sur Appeler."
+    - "Si votre appareil est compatible, un <strong>numéro EID</strong> (code à 32 chiffres) apparaîtra à l’écran."
   side_box:
-    title: "La plupart des téléphones modernes supportent l'eSIM"
-    desc: "La plupart des iPhone sortis après 2018 et les appareils Android premium sont entièrement compatibles avec Roami. Notre liste comprend des téléphones eSIM de Samsung, Google, Motorola, Xiaomi, Huawei et d'autres marques."
+    title: "La plupart des téléphones modernes supportent l’eSIM"
+    desc: "La plupart des iPhone sortis après 2018 et les appareils Android premium sont entièrement compatibles avec Roami. Notre liste comprend des téléphones eSIM de Samsung, Google, Motorola, Xiaomi, Huawei et d’autres marques."
 
-# Carte promo dans la barre latérale
+# Carte promotionnelle de la barre latérale
 sidebar_promo:
-  title: "Votre téléphone est-il prêt pour l'eSIM ?"
-  description: "Vivez une connectivité transparente ! Obtenez votre premier eSIM gratuitement et profitez d'Internet haut débit à l'étranger. Que vous ayez un iPhone ou un Android, la plupart des smartphones modernes fonctionnent avec l'eSIM."
-  button_text: "Obtenez un eSIM gratuit maintenant"
+  title: "Votre téléphone est-il prêt pour l’eSIM ?"
+  description: "Vivez une connectivité sans faille ! Obtenez votre première eSIM gratuitement et profitez d’un Internet haut débit à l’étranger. Que vous ayez un iPhone (11, XR, SE) ou un Android (Samsung S20, Pixel 6, Moto G Power), la plupart des smartphones modernes fonctionnent avec l’eSIM."
+  button_text: "Obtenez une eSIM gratuite maintenant"
   button_url: "/free-esim/"
 
 related_products:
@@ -104,7 +122,7 @@ related_products:
       flag: "img/flags/tr.svg"
       price: "À partir de 1,99 $"
       slug: "turkey-esim"
-    - name: "eSIM pour l'Allemagne"
+    - name: "eSIM pour l’Allemagne"
       flag: "img/flags/de.svg"
       price: "À partir de 1,99 $"
       slug: "germany-esim"
@@ -124,7 +142,7 @@ related_products:
       flag: "img/flags/kr.svg"
       price: "À partir de 1,99 $"
       slug: "south-korea-esim"
-    - name: "eSIM pour l'Italie"
+    - name: "eSIM pour l’Italie"
       flag: "img/flags/it.svg"
       price: "À partir de 1,99 $"
       slug: "italy-esim"
@@ -139,8 +157,8 @@ brands:
   - name: "Apple iPhone"
     icon: "apple"
     bg_color: "bg-slate-900"
-    description: "Tous les modèles d'iPhone de l'<strong>iPhone XS/XR</strong> à l'<strong>iPhone 17 Pro Max</strong> supportent l'eSIM. <a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-blue-600\">Configurez l'eSIM sur iPhone</a> via un code QR ou l'application de l'opérateur. La gamme comprend l'iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, iPhone 16, iPhone 15, iPhone 14, iPhone 13, iPhone 12, iPhone 11 et SE. Découvrez quels iPhone supportent l'eSIM dans notre tableau."
-    note: "<strong>Remarque :</strong> Les iPhone vendus en Chine continentale ne supportent pas l'eSIM. Les iPhone vendus à Hong Kong et à Macao n'ont qu'une prise en charge partielle de l'eSIM. Veuillez vérifier votre modèle spécifique."
+    description: "<strong>iPhone 11, iPhone XR, iPhone SE (2020/2022)</strong> sont tous compatibles eSIM – ainsi que les séries iPhone 12/13/14/15/16/17. Tous les modèles d’iPhone de <strong>l’iPhone XS/XR</strong> à <strong>l’iPhone 17 Pro Max</strong> supportent l’eSIM. <a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-blue-600\">Configurez l’eSIM sur iPhone</a> via code QR ou application opérateur. La gamme comprend l’iPhone 17, l’iPhone 17 Pro, l’iPhone 17 Pro Max, l’iPhone 16, l’iPhone 15, l’iPhone 14, l’iPhone 13, l’iPhone 12, l’iPhone 11 et le SE. Découvrez quels iPhone supportent l’eSIM dans notre tableau."
+    note: "<strong>Remarque :</strong> Les iPhone vendus en Chine continentale ne supportent pas l’eSIM. Les iPhone vendus à Hong Kong et à Macao n’ont qu’un support partiel de l’eSIM. Veuillez vérifier votre modèle spécifique."
     note_class: "bg-amber-50 border-amber-100 text-amber-800"
     groups:
       - devices:
@@ -181,7 +199,7 @@ brands:
   - name: "Samsung"
     icon: "smartphone"
     bg_color: "bg-blue-600"
-    description: "Les séries phares <strong>Samsung Galaxy S25/S24/S23</strong> et les séries pliables <strong>Z Fold/Z Flip</strong> sont entièrement compatibles eSIM. Le Samsung Galaxy S25 Ultra, le Galaxy S24+, le Galaxy Z Fold6, le Galaxy Z Flip6, ainsi que la série Galaxy A (A54, A55, A35) supportent l'eSIM. Découvrez quels téléphones Samsung supportent l'eSIM dans notre liste."
+    description: "Les séries <strong>Samsung Galaxy S20, S21, S22, S23, S24, S25</strong> supportent toutes l’eSIM, y compris les modèles populaires comme Galaxy S20, S22, et même certaines séries A (A13 5G, A54). Les flagships <strong>Samsung Galaxy S25/S24/S23</strong> et les séries pliables <strong>Z Fold/Z Flip</strong> sont entièrement compatibles eSIM. Le Samsung Galaxy S25 Ultra, le Galaxy S24+, le Galaxy Z Fold6, le Galaxy Z Flip6, ainsi que la série Galaxy A (A54, A55, A35) supportent l’eSIM. Découvrez quels téléphones Samsung supportent l’eSIM dans notre liste."
     note: "*Certaines versions régionales peuvent ne pas être compatibles eSIM. Veuillez consulter le manuel de votre appareil."
     note_class: "text-slate-500 bg-transparent border-transparent"
     groups:
@@ -245,7 +263,7 @@ brands:
   - name: "Google Pixel"
     icon: "smartphone"
     bg_color: "bg-red-500"
-    description: "Tous les <strong>Google Pixel 3 et plus récents</strong> (sauf les versions japonaises) supportent l'eSIM. Google Pixel 10 Pro, Pixel 10, Pixel 9 Pro Fold, Pixel 8a et les modèles plus anciens fonctionnent tous avec l'eSIM. Découvrez si votre Pixel supporte l'eSIM via l'EID."
+    description: "Tous les <strong>Google Pixel 3 et plus récents</strong> (sauf les versions japonaises) supportent l’eSIM – y compris les séries <strong>Pixel 6, Pixel 6 Pro, Pixel 6a</strong>, Pixel 7, 8, 9 et 10. Le Google Pixel 10 Pro, Pixel 10, Pixel 9 Pro Fold, Pixel 8a et les modèles plus anciens fonctionnent tous avec l’eSIM. Découvrez si votre Pixel supporte l’eSIM via l’EID."
     note: "*Certaines versions régionales peuvent ne pas être compatibles eSIM. Veuillez consulter le manuel de votre appareil."
     note_class: "text-slate-500 bg-transparent border-transparent"
     groups:
@@ -267,7 +285,7 @@ brands:
         - "Google Pixel 7"
         - "Google Pixel 7a"
         - "Google Pixel 6 Pro"
-        - "Google Pixel 6a"
+        - "Google pixel 6a"
         - "Google Pixel 6"
         - "Google Pixel 5a 5G"
         - "Google Pixel 5"
@@ -284,7 +302,7 @@ brands:
   - name: "Motorola"
     icon: "smartphone"
     bg_color: "bg-indigo-600"
-    description: "Vérifiez votre modèle dans la liste ci-dessous. La plupart des smartphones Motorola modernes disposent de l'eSIM, y compris les séries pliables Razr et Edge."
+    description: "Vérifiez votre modèle dans la liste ci-dessous. La plupart des smartphones Motorola modernes disposent de l’eSIM, y compris les séries <strong>Moto G Power, Moto G Stylus, Edge</strong> et le Razr pliable."
     groups:
       - devices:
         - "Motorola Razr (2025)"
@@ -347,7 +365,7 @@ brands:
   - name: "Xiaomi & Huawei"
     icon: "smartphone"
     bg_color: "bg-orange-500"
-    description: "Support eSIM limité : <strong>Xiaomi 15T Pro, 14T Pro, 13T Pro, Redmi Note 11 Pro 5G</strong> ; <strong>Huawei Pura 70, Mate 40 Pro, P40 Pro</strong>. Découvrez quels modèles Xiaomi supportent l'eSIM dans notre liste. Pour Huawei, l'eSIM n'est disponible que dans certaines régions."
+    description: "Support eSIM limité : <strong>Xiaomi 15T Pro, 14T Pro, 13T Pro, Redmi Note 11 Pro 5G</strong> ; <strong>Huawei Pura 70, Mate 40 Pro, P40 Pro</strong>. Découvrez quels modèles Xiaomi supportent l’eSIM dans notre liste. Pour Huawei, l’eSIM n’est disponible que dans certaines régions."
     groups:
       - sub_title: "Xiaomi"
         devices:
@@ -382,12 +400,12 @@ brands:
           - "Huawei P40"
           - "Huawei 80 Pro / Pro+ / Ultra"
           - "Huawei Pura 70 Pro"
-          - "Pura X foldable"
+          - "Pura X pliable"
 
   - name: "Oppo & Vivo"
     icon: "smartphone"
     bg_color: "bg-emerald-500"
-    description: "Vérifiez votre modèle dans la liste ci-dessous. La plupart des smartphones Oppo et Vivo modernes disposent de l'eSIM. Par exemple, Oppo Find X9 Pro, Oppo Reno 15 Pro, Vivo X200 Pro supportent tous l'eSIM."
+    description: "Vérifiez votre modèle dans la liste ci-dessous. La plupart des smartphones Oppo et Vivo modernes disposent de l’eSIM. Par exemple, l’Oppo Find X9 Pro, l’Oppo Reno 15 Pro et le Vivo X200 Pro supportent tous l’eSIM."
     groups:
       - sub_title: "Oppo"
         devices:
@@ -432,7 +450,7 @@ brands:
   - name: "Honor & Sony"
     icon: "smartphone"
     bg_color: "bg-purple-600"
-    description: "Vérifiez votre modèle dans la liste ci-dessous. La plupart des smartphones Honor et Sony modernes disposent de l'eSIM. Par exemple, le Honor Magic V3 et le Sony Xperia 1 VII supportent l'eSIM."
+    description: "Vérifiez votre modèle dans la liste ci-dessous. La plupart des smartphones Honor et Sony modernes disposent de l’eSIM. Par exemple, le Honor Magic V3 et le Sony Xperia 1 VII supportent l’eSIM."
     groups:
       - sub_title: "Honor"
         devices:
@@ -454,7 +472,7 @@ brands:
           - "Honor Magic Vs3"
           - "Honor Magic V2"
           - "Honor Magic V3"
-          - "Magic V5 foldable"
+          - "Magic V5 pliable"
       - sub_title: "Sony"
         devices:
           - "Sony Xperia 10 III Lite"
@@ -472,7 +490,7 @@ brands:
   - name: "Sharp & TCL"
     icon: "smartphone"
     bg_color: "bg-teal-600"
-    description: "Vérifiez votre modèle dans la liste ci-dessous. La plupart des smartphones Sharp et TCL modernes disposent de l'eSIM."
+    description: "Vérifiez votre modèle dans la liste ci-dessous. La plupart des smartphones Sharp et TCL modernes disposent de l’eSIM."
     groups:
       - sub_title: "Sharp"
         devices:
@@ -511,7 +529,7 @@ brands:
   - name: "Autres marques"
     icon: "more-horizontal"
     bg_color: "bg-slate-700"
-    description: "Vérifiez votre modèle dans la liste ci-dessous. Certaines de ces marques supportent également l'eSIM. Par exemple, OnePlus, Nothing Phone, Realme — vérifiez la compatibilité via l'EID."
+    description: "Vérifiez votre modèle dans la liste ci-dessous. Certaines de ces marques supportent également l’eSIM. Par exemple, OnePlus, Nothing Phone, Realme — vérifiez la compatibilité via l’EID."
     groups:
       - devices:
         - "<strong>Nokia :</strong> Nokia G60 5G, Nokia X30, Nokia XR21"
@@ -526,38 +544,24 @@ brands:
 
 # ==================== Champs SEO supplémentaires ====================
 
-# Barre latérale : questions rapides (gérées depuis les données)
-quick_questions:
-  title: "Questions fréquentes sur la compatibilité"
-  questions:
-    - text: "📱 Combien d'eSIM peut-on installer ?"
-      anchor: "faq-esim-count"
-    - text: "🤔 Quels Xiaomi supportent l'eSIM ?"
-      anchor: "faq-xiaomi"
-    - text: "🇨🇳 Pourquoi l'iPhone chinois n'a-t-il pas d'eSIM ?"
-      anchor: "faq-iphone-china"
-    - text: "🔁 Puis-je utiliser deux eSIM simultanément ?"
-      anchor: "faq-dual-esim"
-    - text: "🔢 Comment trouver l'EID (code eSIM) sur mon téléphone ?"
-      anchor: "faq-check-eid"
-    - text: "📱 Quels téléphones Samsung supportent l'eSIM ?"
-      anchor: "faq-samsung-esim"
-
-# FAQ étendues pour couvrir les requêtes longues
+# FAQ étendue pour couvrir les requêtes longue traîne
 extended_faq:
-  - question: "L'activation eSIM échoue avec 'Délai de connexion dépassé' sur un Wi-Fi stable – pourquoi ?"
-    answer: "Cela indique généralement que le point d'accès de provisionnement eSIM de votre appareil est bloqué par un pare-feu, un VPN ou un portail captif. Désactivez tout VPN ou bloqueur de contenu. Passez à un autre réseau Wi-Fi (de préférence un hotspot personnel). Si cela échoue, utilisez temporairement les données mobiles de votre SIM principale – mais désactivez la 'Commutation de données cellulaires' pour éviter les conflits. En dernier recours, réinitialisez les réglages réseau : `Réglages > Général > Transférer ou réinitialiser > Réinitialiser > Réinitialiser les réglages réseau` (cela effacera les mots de passe Wi-Fi enregistrés)."
+  - question: "L’activation eSIM échoue avec « Délai de connexion dépassé » sur un Wi‑Fi stable – pourquoi ?"
+    answer: "Cela indique généralement que le point de terminaison de provisionnement eSIM de votre appareil est bloqué par un pare‑feu, un VPN ou un portail captif. Désactivez tout VPN ou bloqueur de contenu. Passez à un autre réseau Wi‑Fi (de préférence un partage de connexion personnel). Si cela échoue, utilisez temporairement les données cellulaires de votre SIM principale – mais désactivez le « Basculement des données cellulaires » pour éviter les conflits. En dernier recours, réinitialisez les réglages réseau : `Réglages > Général > Transférer ou réinitialiser > Réinitialiser > Réinitialiser les réglages réseau` (cela effacera les mots de passe Wi‑Fi enregistrés)."
     anchor: "faq-activation-timeout"
-  - question: "Après l'installation de l'eSIM, l'iPhone affiche 'Le forfait cellulaire ne peut pas être ajouté' – que faire ?"
-    answer: "Cette erreur provient souvent de profils eSIM résiduels ou d'un stockage eUICC plein. Allez dans `Réglages > Général > Infos` et faites défiler jusqu'à 'SIM disponible' – supprimez les anciens profils ou profils inactifs. Redémarrez votre iPhone. Si l'erreur persiste, l'eSIM peut être verrouillée sur un bundle opérateur spécifique. Essayez l'installation manuelle en utilisant l'adresse SM‑DP+ de votre code QR (copiez le code et installez via `Réglages > Cellulaire > Ajouter eSIM > Utiliser code QR > Saisir les détails manuellement`). Si cela échoue encore, demandez à votre opérateur de réémettre le profil avec un format de code d'activation différent (par exemple, texte clair au lieu d'un QR)."
+  - question: "Après avoir installé une eSIM, l’iPhone dit « Impossible d’ajouter le forfait cellulaire » – que faire ?"
+    answer: "Cette erreur provient souvent de profils eSIM résiduels ou d’un stockage eUICC plein. Allez dans `Réglages > Général > Informations` et faites défiler jusqu’à « SIM disponible » – supprimez les anciens profils inactifs. Redémarrez votre iPhone. Si l’erreur persiste, l’eSIM peut être verrouillée sur un bundle opérateur spécifique. Essayez l’installation manuelle en utilisant l’adresse SM‑DP+ de votre code QR (copiez le code et installez via `Réglages > Cellulaire > Ajouter un forfait cellulaire > Utiliser un code QR > Saisir les détails manuellement`). Si cela échoue encore, demandez à votre opérateur de réémettre le profil avec un format de code d’activation différent (par exemple, texte brut au lieu de QR)."
     anchor: "faq-cellular-plan-cannot-be-added"
-  - question: "L'eSIM fonctionne pour les données mais ne peut pas recevoir de SMS ou d'appels – comment corriger ?"
-    answer: "Cela signifie généralement que le profil eSIM manque de support voix/SMS (courant pour les eSIM de voyage) ou que l'enregistrement IMS a échoué. Tout d'abord, confirmez que votre forfait inclut la voix. Si c'est le cas, activez la VoLTE : `Réglages > Cellulaire > eSIM > Voix et données` – activez VoLTE. Sélectionnez ensuite manuellement un réseau : désactivez 'Automatique' sous Sélection du réseau, choisissez l'opérateur qui correspond au réseau domestique de votre eSIM. Sur Android, vous devrez peut-être ajouter un APN IMS – contactez votre fournisseur eSIM pour les réglages exacts (nom d'utilisateur, mot de passe et type d'APN 'ims'). Basculez la ligne eSIM sur 'Désactivé' puis 'Activé' via `Réglages > Cellulaire` pour forcer une réinscription. Si rien ne fonctionne, demandez un nouveau profil avec un support IMS complet à votre fournisseur."
+  - question: "L’eSIM fonctionne pour les données mais ne peut pas recevoir de SMS ni d’appels – comment corriger ?"
+    answer: "Cela signifie généralement que le profil eSIM manque de support voix/SMS (courant pour les eSIM de voyage) ou que l’enregistrement IMS a échoué. Tout d’abord, confirmez que votre forfait inclut la voix. Si c’est le cas, activez la VoLTE : `Réglages > Cellulaire > eSIM > Voix et données` – activez VoLTE. Ensuite, sélectionnez manuellement un réseau : désactivez « Automatique » sous Sélection du réseau, choisissez l’opérateur qui correspond au réseau domestique de votre eSIM. Sur Android, vous devrez peut-être ajouter un APN IMS – contactez votre fournisseur eSIM pour les réglages exacts (nom d’utilisateur, mot de passe et type d’APN « ims »). Activez et désactivez la ligne eSIM via `Réglages > Cellulaire` pour forcer une ré‑inscription. Si rien ne fonctionne, demandez un nouveau profil à votre fournisseur avec un support IMS complet."
     anchor: "faq-esim-data-only-no-sms"
-  - question: "Le réseau eSIM tombe fréquemment lors du passage entre LTE et 5G – pourquoi et comment résoudre ?"
-    answer: "Les chutes fréquentes se produisent lorsque la préférence de bande de l'eSIM ne correspond pas à la configuration 5G NSA (Non‑Standalone) locale. Pour stabiliser, forcez la LTE uniquement : `Réglages > Cellulaire > eSIM > Voix et données` – choisissez 'LTE'. Sur iPhone, utilisez le mode Field Test (`*3001#12345#*` > 'RAT Selection' > 'LTE only'). Sur Samsung, composez `*#2263#` pour désactiver toutes les bandes 5G. Une autre cause : l'APN de l'eSIM n'a pas le drapeau 'roaming' – modifiez le type d'APN pour inclure 'default,supl,ia,hipri'. Si les chutes persistent, demandez à votre fournisseur un profil compatible 5G SA (Standalone), qui gère les transferts plus fiablement que le NSA."
+  - question: "Le réseau eSIM se coupe fréquemment lors du basculement entre LTE et 5G – pourquoi et comment résoudre ?"
+    answer: "Les coupures fréquentes se produisent lorsque la préférence de bande de l’eSIM ne correspond pas à la configuration 5G NSA (Non‑Standalone) locale. Pour stabiliser, forcez uniquement la LTE : `Réglages > Cellulaire > eSIM > Voix et données` – choisissez « LTE ». Sur iPhone, utilisez le mode Test de terrain (`*3001#12345#*` > « RAT Selection » > « LTE only »). Sur Samsung, composez `*#2263#` pour désactiver toutes les bandes 5G. Une autre cause : l’APN de l’eSIM manque le flag « roaming » – modifiez le type d’APN pour inclure « default,supl,ia,hipri ». Si les coupures persistent, demandez un profil compatible 5G SA (Standalone) à votre fournisseur, qui gère les transferts plus fiablement que le NSA."
     anchor: "faq-esim-network-drops-5g"
-  - question: "Le profil eSIM s'installe mais aucun paramètre APN n'apparaît – comment le configurer manuellement ?"
-    answer: "Certains eSIM ne poussent pas l'APN automatiquement. Sur iOS : `Réglages > Cellulaire > eSIM > Réseau de données cellulaires` (si manquant, l'opérateur a désactivé la modification manuelle – demandez-lui un profil de configuration ou utilisez Apple Configurator). Sur Android : `Réglages > Connexions > Réseaux mobiles > Noms des points d'accès` > ajoutez un nouvel APN. Champs requis : Nom (quelconque), APN (fourni par l'opérateur, ex. 'internet'), type d'APN – saisissez 'default,supl,hipri,ia' pour données + partage de connexion + MMS. Type d'authentification : généralement 'Aucun' ou 'PAP'. Définissez le protocole APN sur 'IPv4/IPv6'. Enregistrez, sélectionnez le nouvel APN, puis redémarrez. Pour vérifier, utilisez une application comme 'Network Cell Info' pour contrôler la connexion de données. Si aucune amélioration, votre eSIM utilise peut-être un bearer différent – contactez le support pour la chaîne APN exacte."
+  - question: "Le profil eSIM s’installe mais aucun paramètre APN n’apparaît – comment configurer manuellement ?"
+    answer: "Certaines eSIM ne poussent pas l’APN automatiquement. Sur iOS : `Réglages > Cellulaire > eSIM > Réseau de données cellulaires` (si absent, l’opérateur a désactivé la modification manuelle – demandez-lui un profil de configuration ou utilisez Apple Configurator). Sur Android : `Réglages > Connexions > Réseaux mobiles > Noms des points d’accès` > ajouter un nouvel APN. Champs requis : Nom (arbitraire), APN (fourni par l’opérateur, ex. « internet »), Type d’APN – saisissez « default,supl,hipri,ia » pour les données + partage de connexion + MMS. Type d’authentification : généralement « Aucune » ou « PAP ». Réglez le protocole APN sur « IPv4/IPv6 ». Enregistrez, sélectionnez le nouvel APN, puis redémarrez. Pour vérifier, utilisez une application comme « Network Cell Info » pour contrôler la connexion de données. Si aucune amélioration, votre eSIM utilise peut-être un autre bearer – contactez le support pour la chaîne APN exacte."
     anchor: "faq-manual-apn-esim"
+  - question: "Mon téléphone est-il compatible avec Airalo, Visible, Google Fi, Verizon ou US Mobile eSIM ?"
+    answer: "Oui – tout téléphone compatible eSIM (de notre liste) fonctionne avec ces fournisseurs. Les recherches courantes incluent <strong>téléphones compatibles Airalo</strong> (iPhones XR/11/SE, Samsung S20+, Pixel 6), <strong>téléphones compatibles Visible eSIM</strong> (iPhones 12+, Samsung S21+), <strong>téléphones compatibles Google Fi eSIM</strong> (Pixels, Samsung S22+), <strong>compatibilité Verizon eSIM</strong> (la plupart des iPhones et Pixels modernes), et <strong>appareils compatibles US Mobile eSIM</strong> (large gamme). Vérifiez toujours d’abord l’EID de votre appareil."
+    anchor: "faq-provider-compatibility"
 ---

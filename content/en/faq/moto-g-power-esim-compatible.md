@@ -1,5 +1,5 @@
 ---
-title: "Does Moto G Power Support eSIM? 2024+ Only – Full Guide 2026"
+title: "Does Moto G Power Support eSIM? Full Guide 2026"
 description: "Moto G Power (2024) and Moto G Stylus (2024) support eSIM. Older models (2020-2023) do NOT. Learn how to check your model, verify with *#06#, and activate on Airalo, Visible, Verizon, US Mobile, Holafly. Also covers Motorola Edge, Razr, and other eSIM-compatible Moto phones."
 keywords: ["moto g power esim compatible", "moto g stylus esim compatible", "motorola esim compatible phones", "moto g power 2024 esim", "airalo compatible phones", "visible esim compatible phones", "verizon esim compatibility", "us mobile esim compatible devices", "holafly compatible phones", "motorola edge esim", "motorola razr esim", "dual sim compatible"]
 date: 2026-05-21T10:00:00Z
