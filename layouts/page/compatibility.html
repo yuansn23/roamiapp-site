@@ -135,6 +135,28 @@
                 </section>
                 {{ end }}
 
+<!-- Quick compatibility guides (optimized layout) -->
+{{ with .Params.quick_guides }}
+<section class="mb-6 bg-white rounded-xl border border-slate-200 shadow-sm overflow-hidden transition-all hover:shadow-md">
+    <div class="bg-gradient-to-r from-amber-500 to-orange-600 px-5 py-3 flex items-center gap-2">
+        <i data-lucide="compass" class="w-5 h-5 text-white" aria-hidden="true"></i>
+        <h2 class="text-lg font-bold text-white tracking-tight">{{ .title }}</h2>
+    </div>
+    <div class="p-5">
+        <p class="text-sm text-slate-600 mb-5 leading-relaxed">{{ .description }}</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {{ range .links }}
+            <a href="{{ .url | relLangURL }}" 
+               class="group flex items-center gap-3 bg-slate-50 hover:bg-blue-50 border border-slate-100 hover:border-blue-200 rounded-xl px-4 py-3 transition-all duration-200 shadow-sm hover:shadow">
+               
+                <span class="text-sm font-medium text-slate-700 group-hover:text-blue-700">{{ .text }}</span>
+                <i data-lucide="arrow-right" class="w-4 h-4 ml-auto text-slate-400 group-hover:text-blue-500 transition-transform group-hover:translate-x-0.5"></i>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
                 <!-- 2.2 热门设备推荐卡片区 (popular_devices) -->
                 {{ with .Params.popular_devices }}
                 <section class="mb-8 bg-white rounded-xl border border-slate-200 shadow-sm overflow-hidden">

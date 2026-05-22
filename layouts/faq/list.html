@@ -293,8 +293,8 @@
                     {{ end }}
 
                     {{ range $qIndex, $question := .questions }}
-                    <li class="faq-item group border border-slate-200 rounded-2xl bg-white transition-all duration-200 hover:border-blue-300">
-                        <button class="faq-toggle w-full flex items-center justify-between p-4 text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 rounded-2xl" aria-expanded="false" aria-controls="faq-ans-{{ $index }}-{{ $qIndex }}">
+                    <li class="faq-item group border border-slate-200 rounded-2xl bg-white transition-all duration-200 hover:border-blue-300{{ if .expanded }} open{{ end }}" data-expanded="{{ .expanded }}">
+                        <button class="faq-toggle w-full flex items-center justify-between p-4 text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 rounded-2xl" aria-expanded="{{ if .expanded }}true{{ else }}false{{ end }}" aria-controls="faq-ans-{{ $index }}-{{ $qIndex }}">
                             <h3 class="text-base m-0 text-slate-700 font-medium pr-4 group-hover:text-blue-700 transition-colors">{{ .q }}</h3>
                             <svg aria-hidden="true" class="chevron-icon w-5 h-5 text-slate-400 transition-transform duration-300 flex-shrink-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
                         </button>
@@ -433,8 +433,16 @@
                         content.querySelectorAll('.faq-item').forEach(item => {
                             item.style.display = 'block';
                             const h3Title = item.querySelector('h3');
+                            // 根据 data-expanded 属性决定是否恢复 open 类
+                            const shouldBeExpanded = item.dataset.expanded === 'true';
                             if (h3Title && !h3Title.textContent.toLowerCase().includes(freeEsimKeyword)) {
-                                item.classList.remove('open');
+                                if (shouldBeExpanded) {
+                                    item.classList.add('open');
+                                    const btn = item.querySelector('.faq-toggle');
+                                    if (btn) btn.setAttribute('aria-expanded', 'true');
+                                } else {
+                                    item.classList.remove('open');
+                                }
                             } else {
                                 item.classList.add('open');
                             }

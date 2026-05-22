@@ -22,7 +22,6 @@ breadcrumbs:
     text: "Help Center"
     url: "/faq/"
 
-# 8个核心国家的免费 eSIM 矩阵
 free_esims:
   - country: "United States"
     code: "usa"
@@ -65,7 +64,6 @@ free_esims:
     url: "/free-esim/"
     desc: "Free Japan eSIM travel test"
 
-# 全局 UI 文本配置 (将所有隐藏在 HTML 中的无障碍文本、前缀后缀全部提取于此)
 ui:
   breadcrumb_home: "Home"
   breadcrumb_current: "Help Center"
@@ -90,7 +88,6 @@ ui:
   esim_flag_alt_suffix: "eSIM flag"
   free_esim_js_keyword: "free esim trial"
 
-# 侧边栏专属推广模块配置
 sidebar_promo:
   title: "Free eSIM Trials"
   desc: "Test our network with 0 cost. Available in Top destinations. No credit card required."
@@ -98,7 +95,6 @@ sidebar_promo:
   url: "/free-esim/"
   icon: "🎁"
 
-# FAQ 列表中针对 Free eSIM 的特殊注入区块配置
 free_esim_promo:
   question: "Which countries are available for the Free eSIM trial?"
   schema_answer: "We currently offer completely free eSIM trials in top destinations including USA, UK, Japan, and more. You can test our network with 0 cost, and no credit card is required. <a href=\"/free-esim/\">Claim yours here</a>."
@@ -171,12 +167,14 @@ related_products:
     flag: /img/flags/au.svg
     price: From $1.99
     is_highlight: false
+
 categories:
   - name: "Free eSIM Trials"
     description: "Learn how to claim a free eSIM to test network coverage in the USA, Japan, UK, and other top destinations before you buy."
     icon: "gift"
     questions:
       - q: "Can I get a free eSIM trial for USA travel?"
+        expanded: true
         snippet: "Yes! You can claim a free USA eSIM trial to test our 5G network coverage across the United States before purchasing a full data plan. It's completely free to try."
         url: "/free-esim"
       - q: "How to get a free eSIM for Japan, UK, or Canada?"
@@ -185,12 +183,35 @@ categories:
       - q: "Is the free eSIM truly free and how do I activate it?"
         snippet: "Absolutely. Our free eSIMs for countries like Turkey, China, and Germany come with zero hidden fees. Just claim it, scan the QR code to install, and test the local network instantly."
         url: "/free-esim"
-
+  - name: "eSIM Compatibility Guides"
+    description: "Check if your phone supports eSIM. Detailed compatibility info for iPhone, Samsung, Google Pixel, Moto G Power, and more – including regional variants and model-specific notes."
+    icon: "book-open"
+    questions:
+      - q: "Is iPhone 11 eSIM compatible?"
+        expanded: true
+        snippet: "Yes, the iPhone 11, iPhone 11 Pro, and iPhone 11 Pro Max fully support eSIM. You can store multiple eSIM profiles and use Dual SIM with one physical SIM + one eSIM. Requires iOS 13 or later."
+        url: "/faq/iphone-11-esim-compatible/"
+      - q: "Is iPhone XR eSIM compatible?"
+        snippet: "Yes, the iPhone XR supports eSIM alongside a physical nano-SIM. Dual SIM mode (nano‑SIM + eSIM) works with iOS 12.1 or later. Compatible with most carriers worldwide."
+        url: "/faq/iphone-xr-esim-compatible/"
+      - q: "Is iPhone SE eSIM compatible?"
+        snippet: "Yes, all iPhone SE models (2nd generation and later) support eSIM. You can use one physical SIM and one eSIM simultaneously. Requires iOS 13 or newer."
+        url: "/faq/iphone-se-esim-compatible/"
+      - q: "Is Samsung S20 eSIM compatible?"
+        snippet: "Yes, the Samsung Galaxy S20 series (S20, S20+, S20 Ultra) supports eSIM in most regions. Note: US models may have eSIM disabled; international/exynos variants work. Check your CSC code."
+        url: "/faq/samsung-s20-esim-compatible/"
+      - q: "Is Google Pixel 6 eSIM compatible?"
+        snippet: "Yes, all Google Pixel 6, 6 Pro, and 6a models fully support eSIM. You can use either two eSIMs or one physical SIM + one eSIM. Works on Android 12 and later."
+        url: "/faq/google-pixel-6-esim-compatible/"
+      - q: "Is Moto G Power eSIM compatible?"
+        snippet: "Only specific Moto G Power models (2023 and newer with Android 13+) support eSIM. Check your device’s software channel; most 2024 editions have eSIM enabled. Older Moto G Power (2020/2021) do NOT support eSIM."
+        url: "/faq/moto-g-power-esim-compatible/"
   - name: "General eSIM Basics"
     description: "Learn the fundamentals of eSIM technology and the universal activation process."
     icon: "book-open"
     questions:
       - q: "What is eSIM activation and how does it work?"
+        expanded: true
         snippet: "eSIM activation is the process of downloading a digital SIM profile to your phone, allowing you to connect to a cellular network without a physical SIM card."
         url: "/faq/What-is-eSIM-activation-and-how-does-it-work"
       - q: "Dual eSIM Not Working? 12 Fixes for iPhone"
@@ -214,20 +235,20 @@ categories:
       - q: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
         snippet: "As a leading expert in global connectivity, Roami has compiled the latest global iPhone 17 model distribution and usage guide for 2026."
         url: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions"
-
   - name: "Device-Specific Activation"
     description: "Step-by-step guides for activating eSIMs on Apple, Samsung, and other compatible devices."
     icon: "smartphone"
     questions:
       - q: "How to activate eSIM on iPhone (All Models)?"
+        expanded: true
         snippet: "Go to Settings > Cellular > Add eSIM. Follow the on-screen prompts to scan your QR code or transfer your physical SIM to an eSIM seamlessly."
         url: "/faq/how-to-activate-esim-on-iphone"
-
   - name: "Buying & Choosing eSIMs"
     description: "Compare prices, find the best network coverage, and learn how to buy an eSIM online instantly."
     icon: "shopping-cart"
     questions:
       - q: "The Ultimate Guide to US eSIM in 2026: How to Choose the Best Plan?"
+        expanded: true
         snippet: "Planning a trip to the US in 2026? This ultimate guide explains how to choose the best US eSIM plan for your travel, study, or business trip with top 5G coverage."
         url: "/faq/The-Ultimate-Guide-to-US-eSIM-in-2026-How-to-Choose-the-Best-Plan"
       - q: "How to Buy a UK eSIM (2026 Update)"

@@ -1,7 +1,7 @@
 ---
 title: "List of eSIM Compatible Phones (2026)"
-description: "Is your phone compatible with eSIM? Check our complete updated list of eSIM-enabled devices for 2026, including iPhone, Samsung Galaxy, Google Pixel and more. Find out which smartphones support eSIM: from iPhone 17 Pro Max to Samsung Galaxy S25 and Xiaomi 15T Pro."
-keywords: "eSIM compatible phones, phones that support eSIM, is my phone eSIM compatible, iPhone eSIM compatibility, Samsung eSIM phones, eSIM compatible devices 2026, check eSIM compatibility, iphone 17 esim, samsung s25 esim, how many esim, how to activate esim on iphone, which esim, 17 pro max esim, esim samsung, galaxy esim"
+description: "Is your phone compatible with eSIM? Check our complete updated list of eSIM-enabled devices for 2026, including iPhone, Samsung Galaxy, Google Pixel and more. Find out which smartphones support eSIM: from iPhone 17 Pro Max to Samsung Galaxy S25 and Xiaomi 15T Pro. Also covers eSIM compatible phones like iPhone 11, iPhone XR, iPhone SE, Samsung S20, Pixel 6, Moto G Power, and many more."
+keywords: "eSIM compatible phones, phones that support eSIM, is my phone eSIM compatible, iPhone eSIM compatibility, Samsung eSIM phones, eSIM compatible devices 2026, check eSIM compatibility, iphone 17 esim, samsung s25 esim, how many esim, how to activate esim on iphone, which esim, 17 pro max esim, esim samsung, galaxy esim, esim compatible phones, iphone 11 esim compatible, iphone xr esim compatible, iphone se esim compatible, s20 esim compatible, google pixel 6 esim compatible, moto g power esim compatible, samsung a13 esim compatible, iphone 8 esim compatible, iphone x esim compatible, airalo compatible phones, visible esim compatible phones, google fi esim compatible phones, verizon esim compatibility, us mobile esim compatible devices"
 layout: "compatibility"
 date: '2026-05-21T00:00:00+00:00'
 type: "page"
@@ -18,7 +18,7 @@ faq_schema:
 # Page header
 header:
   title: "List of eSIM Compatible Phones (2026)"
-  subtitle: "Find out which smartphones, including the latest iPhone, Samsung and Google Pixel models, support global eSIM connectivity with Roami. Stay connected in over 200 countries. Here you'll find eSIM phones: from iPhone 17 to Samsung Galaxy S25 and Google Pixel 10."
+  subtitle: "Find out which smartphones, including the latest iPhone, Samsung and Google Pixel models, support global eSIM connectivity with Roami. Stay connected in over 200 countries. Here you'll find eSIM phones: from iPhone 17 to Samsung Galaxy S25 and Google Pixel 10 – plus answers to common questions like \"is my iPhone 11 eSIM compatible?\", \"does Samsung S20 support eSIM?\", and \"which phones work with Airalo or Visible?\"."
   search_placeholder: "E.g.: iPhone 17, Samsung S25 Ultra, Xiaomi 15T Pro, Google Pixel 10"
 
 # Free eSIM banner (above the fold)
@@ -57,6 +57,24 @@ free_esim_banner:
       title: "Free trial eSIM for Italy"
       url: "/free-esim/"
 
+# Quick compatibility guides (added for better internal linking and SEO)
+quick_guides:
+  title: "Quick compatibility guides by phone model"
+  description: "Jump directly to detailed eSIM compatibility information for your specific phone:"
+  links:
+    - text: "iPhone 11 eSIM compatibility"
+      url: "/faq/iphone-11-esim-compatible/"
+    - text: "iPhone XR eSIM compatibility"
+      url: "/faq/iphone-xr-esim-compatible/"
+    - text: "iPhone SE eSIM compatibility"
+      url: "/faq/iphone-se-esim-compatible/"
+    - text: "Samsung S20 eSIM compatibility"
+      url: "/faq/samsung-s20-esim-compatible/"
+    - text: "Google Pixel 6 eSIM compatibility"
+      url: "/faq/google-pixel-6-esim-compatible/"
+    - text: "Moto G Power eSIM compatibility"
+      url: "/faq/moto-g-power-esim-compatible/"
+
 # No search results configuration
 no_results:
   title: "Device not found"
@@ -81,7 +99,7 @@ how_to_check:
 # Sidebar promo card
 sidebar_promo:
   title: "Is your phone eSIM ready?"
-  description: "Experience seamless connectivity! Get your first eSIM for free and enjoy high-speed internet abroad. Whether you have an iPhone or Android, most modern smartphones work with eSIM."
+  description: "Experience seamless connectivity! Get your first eSIM for free and enjoy high-speed internet abroad. Whether you have an iPhone (11, XR, SE) or Android (Samsung S20, Pixel 6, Moto G Power), most modern smartphones work with eSIM."
   button_text: "Get a free eSIM now"
   button_url: "/free-esim/"
 
@@ -139,7 +157,7 @@ brands:
   - name: "Apple iPhone"
     icon: "apple"
     bg_color: "bg-slate-900"
-    description: "All iPhone models from <strong>iPhone XS/XR</strong> to <strong>iPhone 17 Pro Max</strong> support eSIM. <a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-blue-600\">Set up eSIM on iPhone</a> via QR code or carrier app. The lineup includes iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, iPhone 16, iPhone 15, iPhone 14, iPhone 13, iPhone 12, iPhone 11 and SE. Find out which iPhones support eSIM in our table."
+    description: "<strong>iPhone 11, iPhone XR, iPhone SE (2020/2022)</strong> are all eSIM compatible – as well as iPhone 12/13/14/15/16/17 series. All iPhone models from <strong>iPhone XS/XR</strong> to <strong>iPhone 17 Pro Max</strong> support eSIM. <a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-blue-600\">Set up eSIM on iPhone</a> via QR code or carrier app. The lineup includes iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, iPhone 16, iPhone 15, iPhone 14, iPhone 13, iPhone 12, iPhone 11 and SE. Find out which iPhones support eSIM in our table."
     note: "<strong>Note:</strong> iPhones sold in mainland China do not support eSIM. iPhones sold in Hong Kong and Macau have only partial eSIM support. Please check your specific model."
     note_class: "bg-amber-50 border-amber-100 text-amber-800"
     groups:
@@ -181,7 +199,7 @@ brands:
   - name: "Samsung"
     icon: "smartphone"
     bg_color: "bg-blue-600"
-    description: "Flagship <strong>Samsung Galaxy S25/S24/S23</strong> and foldable <strong>Z Fold/Z Flip</strong> series are fully eSIM compatible. Samsung Galaxy S25 Ultra, Galaxy S24+, Galaxy Z Fold6, Galaxy Z Flip6, as well as the Galaxy A series (A54, A55, A35) support eSIM. Find out which Samsung phones support eSIM in our list."
+    description: "<strong>Samsung Galaxy S20, S21, S22, S23, S24, S25</strong> series all support eSIM, including popular models like Galaxy S20, S22, and even select A series (A13 5G, A54). Flagship <strong>Samsung Galaxy S25/S24/S23</strong> and foldable <strong>Z Fold/Z Flip</strong> series are fully eSIM compatible. Samsung Galaxy S25 Ultra, Galaxy S24+, Galaxy Z Fold6, Galaxy Z Flip6, as well as the Galaxy A series (A54, A55, A35) support eSIM. Find out which Samsung phones support eSIM in our list."
     note: "*Some regional versions may not be eSIM compatible. Please check your device manual."
     note_class: "text-slate-500 bg-transparent border-transparent"
     groups:
@@ -245,7 +263,7 @@ brands:
   - name: "Google Pixel"
     icon: "smartphone"
     bg_color: "bg-red-500"
-    description: "All <strong>Google Pixel 3 and newer</strong> (except Japanese versions) support eSIM. Google Pixel 10 Pro, Pixel 10, Pixel 9 Pro Fold, Pixel 8a and older models all work with eSIM. Find out if your Pixel supports eSIM via the EID."
+    description: "All <strong>Google Pixel 3 and newer</strong> (except Japanese versions) support eSIM – including <strong>Pixel 6, Pixel 6 Pro, Pixel 6a</strong>, Pixel 7, 8, 9, and 10 series. Google Pixel 10 Pro, Pixel 10, Pixel 9 Pro Fold, Pixel 8a and older models all work with eSIM. Find out if your Pixel supports eSIM via the EID."
     note: "*Some regional versions may not be eSIM compatible. Please check your device manual."
     note_class: "text-slate-500 bg-transparent border-transparent"
     groups:
@@ -284,7 +302,7 @@ brands:
   - name: "Motorola"
     icon: "smartphone"
     bg_color: "bg-indigo-600"
-    description: "Check your model in the list below. Most modern Motorola smartphones have eSIM, including the foldable Razr and Edge series."
+    description: "Check your model in the list below. Most modern Motorola smartphones have eSIM, including <strong>Moto G Power, Moto G Stylus, Edge series</strong>, and foldable Razr."
     groups:
       - devices:
         - "Motorola Razr (2025)"
@@ -528,7 +546,6 @@ brands:
 
 
 # Extended FAQ to cover long-tail queries
-# Extended FAQ to cover long-tail queries
 extended_faq:
   - question: "eSIM activation fails with 'Connection Timeout' on stable Wi-Fi – why?"
     answer: "This usually indicates your device's eSIM provisioning endpoint is blocked by a firewall, VPN, or a captive portal. Disable any VPN or content blockers. Switch to a different Wi‑Fi network (preferably a personal hotspot). If that fails, use your primary SIM's cellular data temporarily – but turn off 'Cellular Data Switching' to avoid conflicts. As a last resort, reset network settings: `Settings > General > Transfer or Reset > Reset > Reset Network Settings` (this will erase saved Wi‑Fi passwords)."
@@ -545,4 +562,7 @@ extended_faq:
   - question: "eSIM profile installs but no APN settings appear – how to manually configure?"
     answer: "Some eSIMs don't push APN automatically. On iOS: `Settings > Cellular > eSIM > Cellular Data Network` (if missing, the carrier disabled manual editing – ask them for a configuration profile or use Apple Configurator). On Android: `Settings > Connections > Mobile Networks > Access Point Names` > add new APN. Required fields: Name (any), APN (provided by carrier, e.g., 'internet'), APN type – enter 'default,supl,hipri,ia' for data + tethering + MMS. Authentication type: usually 'None' or 'PAP'. Set APN protocol to 'IPv4/IPv6'. Save, select the new APN, then reboot. To verify, use an app like 'Network Cell Info' to check data connection. If no improvement, your eSIM might be using a different bearer – contact support for the exact APN string."
     anchor: "faq-manual-apn-esim"
---- 
+  - question: "Is my phone compatible with Airalo, Visible, Google Fi, Verizon, or US Mobile eSIM?"
+    answer: "Yes – any eSIM‑compatible phone (from our list) works with these providers. Popular searches include <strong>Airalo compatible phones</strong> (iPhones XR/11/SE, Samsung S20+, Pixel 6), <strong>Visible eSIM compatible phones</strong> (iPhones 12+, Samsung S21+), <strong>Google Fi eSIM compatible phones</strong> (Pixels, Samsung S22+), <strong>Verizon eSIM compatibility</strong> (most modern iPhones and Pixels), and <strong>US Mobile eSIM compatible devices</strong> (wide range). Always check your device's EID first."
+    anchor: "faq-provider-compatibility"
+---
