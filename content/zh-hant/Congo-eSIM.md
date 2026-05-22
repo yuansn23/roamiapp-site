@@ -3,6 +3,8 @@ title: 剛果 eSIM 方案 | 剛果 eSIM | Roami
 date: '2026-05-19T10:32:51+00:00'
 draft: false
 type: esim
+aliases:
+  - /democratic-republic-of-the-congo-esim/
 country_meta:
   core_keyword: 剛果 eSIM
   scenario_keywords: 城市漫步, 海灘, 購物, 美食, 野生動物

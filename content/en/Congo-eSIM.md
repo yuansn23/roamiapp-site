@@ -3,6 +3,8 @@ title: Congo eSIM Data Plan | Best 2026 Travel eSIM | Roami
 date: '2026-05-20T00:00:00+00:00'
 draft: false
 type: esim
+aliases:
+  - /democratic-republic-of-the-congo-esim/
 country_meta:
   core_keyword: Congo eSIM
   scenario_keywords: Brazzaville sightseeing, Pointe-Noire beach travel, Odzala safari,
@@ -19,10 +21,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Congo eSIM | 20% OFF| High-Speed 5G for Digital Nomads|Roami
-  description: Heading to Congo soon? Experience 24/7 Data and seamless Zero-Lag 5G
-    from Top Local Carrier. With Nationwide Coverage and No Roaming Fees, it's perfect
-    for Visiting Family.
+  title: DRC eSIM | 20% OFF| High-Speed 5G|Roami
+  description: Traveling to DR Congo for business? Get reliable high-speed data via top local carriers. Instant eSIM activation, wide coverage in Kinshasa & Lubumbashi. Avoid expensive roaming charges today.
   keywords: Congo eSIM, travel internet Congo, Airtel Congo, MTN Congo, eSIM for Congo,
     instant delivery eSIM
   low_price: 1.99
@@ -42,11 +42,11 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Best eSIM for Congo
-  title: Best eSIM for Congo
+  title: Best eSIM for DRC
 hero:
   flag_image: img/flags/cg.svg
   flag_alt: Congo Flag
-  title: Congo eSIM data plan
+  title: DRC eSIM data plan
   subtitle: Bestseller | Travel with ease | Worry-free internet – The best prepaid
     eSIM for Congo travelers
 features:
