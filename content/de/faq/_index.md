@@ -1,5 +1,6 @@
 ---
 title: "Hilfe-Center"
+date: '2026-05-23T00:00:00+00:00'
 description: "Antworten auf Ihre Fragen zur eSIM-Einrichtung, -Nutzung und zur Beantragung kostenloser eSIM-Testversionen für die USA, Großbritannien, Japan und globale Netze."
 outputs:
   - HTML

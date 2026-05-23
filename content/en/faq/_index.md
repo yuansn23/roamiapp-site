@@ -1,5 +1,6 @@
 ---
 title: "Help Center"
+date: '2026-05-23T00:00:00+00:00'
 description: "Find answers to your questions about eSIM setup, usage, and claim free eSIM trials for US, UK, Japan, and global networks."
 outputs:
   - HTML
