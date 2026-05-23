@@ -1,9 +1,9 @@
 ---
 title: "Does Moto G Power Support eSIM? Full Guide 2026"
-description: "Moto G Power (2024) and Moto G Stylus (2024) support eSIM. Older models (2020-2023) do NOT. Learn how to check your model, verify with *#06#, and activate on Airalo, Visible, Verizon, US Mobile, Holafly. Also covers Motorola Edge, Razr, and other eSIM-compatible Moto phones."
+description: "Moto G Power (2024) and Moto G Stylus (2024) support eSIM. Older models (2020-2023) do not. Verify with *#06#. Also covers Edge, Razr, and other Moto eSIM phones."
 keywords: ["moto g power esim compatible", "moto g stylus esim compatible", "motorola esim compatible phones", "moto g power 2024 esim", "airalo compatible phones", "visible esim compatible phones", "verizon esim compatibility", "us mobile esim compatible devices", "holafly compatible phones", "motorola edge esim", "motorola razr esim", "dual sim compatible"]
-date: 2026-05-21T10:00:00Z
-lastmod: 2026-05-21T10:00:00Z
+date: 2026-05-23T10:00:00Z
+lastmod: 2026-05-23T10:00:00Z
 tags: ["Motorola", "eSIM", "Compatibility", "Moto G Power"]
 toc: true
 
@@ -99,7 +99,7 @@ sidebar_questions:
 
 ## Core Summary (Quick Answer)
 
-**Yes – but only for Moto G Power (2024) and newer. Older models (2020-2023) do NOT support eSIM.**
+**Yes – but only for Moto G Power (2024) and newer. Older models (2020-2023) do NOT support eSIM.** The **Moto G Power 2024 eSIM** capability is confirmed, and **Moto G Stylus 2024 eSIM** works as well.
 
 Here’s what you need to know in 10 seconds:
 
@@ -111,33 +111,33 @@ Here’s what you need to know in 10 seconds:
 2. **Verify with *#06#:** Dial this code. If a **32‑digit EID** appears, your phone supports eSIM.  
 3. **Activate if supported:** Go to **Settings > Network & Internet > Mobile Network > Add Carrier** and scan a QR code.
 
-> **Pro tip:** Other Motorola eSIM phones include the Edge series (Edge 40/50/60), Razr foldables, and some Moto G 5G models (G53, G54, G55). Always run the EID test.
+> **Pro tip:** Other **motorola esim compatible phones** include the Edge series (Edge 40/50/60), Razr foldables, and some Moto G 5G models (G53, G54, G55). Always run the EID test.
 
 ## 📱 Moto G Power & Stylus – eSIM Compatibility Table
 
 | Model | Year | eSIM Support | Notes |
 |-------|------|--------------|-------|
-| Moto G Power (2024) | 2024 | ✅ Yes | US & global versions |
+| Moto G Power (2024) | 2024 | ✅ Yes | US & global versions – **moto g power 2024 esim** confirmed |
 | Moto G Power (2023) | 2023 | ❌ No | Physical SIM only |
 | Moto G Power (2022) | 2022 | ❌ No | Physical SIM only |
 | Moto G Power (2021) | 2021 | ❌ No | Physical SIM only |
 | Moto G Power (2020) | 2020 | ❌ No | Physical SIM only |
-| Moto G Stylus (2024) | 2024 | ✅ Yes | Supports eSIM |
+| Moto G Stylus (2024) | 2024 | ✅ Yes | Supports eSIM – **moto g stylus esim** capable |
 | Moto G Stylus (2023) | 2023 | ❌ No | No eSIM |
 | Moto G Stylus (2022) | 2022 | ❌ No | No eSIM |
 
 ## 📋 Other Motorola eSIM Compatible Phones (Full List)
 
-If you searched for **“motorola esim compatible phones”**, here are all Motorola models that support eSIM (besides Moto G Power/Stylus 2024):
+If you searched for **“motorola esim compatible phones”**, here are all Motorola models that support eSIM (besides Moto G Power/Stylus 2024). For even more details, see our [full compatibility list](/compatibility/#motorola).
 
 | Motorola Model | eSIM Support | Notes |
 |----------------|--------------|-------|
-| Edge 60, Edge 60 Pro, Edge 60 Fusion | ✅ Yes | Latest Edge series |
+| Edge 60, Edge 60 Pro, Edge 60 Fusion | ✅ Yes | Latest Edge series – **motorola edge esim** works |
 | Edge 50, Edge 50 Fusion, Edge 50 Pro, Edge 50 Neo, Edge 50 Ultra | ✅ Yes | Full support |
 | Edge 40, Edge 40 Pro, Edge 40 Neo | ✅ Yes | Full support |
 | Edge 30, Edge 30 Pro, Edge 30 Fusion | ✅ Yes | Some regions |
 | Edge 2024, Edge 2023, Edge 2022 | ✅ Yes | US models work |
-| Razr 60, Razr 60 Ultra | ✅ Yes | Latest foldables |
+| Razr 60, Razr 60 Ultra | ✅ Yes | Latest foldables – **motorola razr esim** supported |
 | Razr 50, Razr 50 Ultra | ✅ Yes | |
 | Razr 40, Razr 40 Ultra | ✅ Yes | |
 | Razr 2024, Razr+ 2024 | ✅ Yes | |
@@ -190,7 +190,7 @@ Activation takes less than 2 minutes. Do it **before you fly** – you only need
 | **T-Mobile (US)** | ✅ Yes | Supports eSIM on 2024 models |
 | **Holafly** | ✅ Yes | Fully compatible – one of the top **holafly compatible phones**. |
 
-If you searched for **“moto g power esim compatible”** – the answer depends on the year. **2024 = yes, older = no**.
+If you searched for **“moto g power esim compatible”** – the answer depends on the year. **2024 = yes, older = no**. Also, the Moto G Power 2024 supports **dual sim compatible** (one physical SIM + one eSIM active).
 
 ## ❌ What If Your Moto G Power Does NOT Support eSIM?
 
@@ -243,4 +243,13 @@ Yes – Holafly eSIM works perfectly on Moto G Power 2024. Just scan the QR code
 
 #### Can I use eSIM and physical SIM at the same time on Moto G Power 2024?
 Yes – the 2024 model supports **dual SIM** with one active physical SIM and one active eSIM simultaneously.
+
+#### Quick reference: All Moto eSIM keywords answered
+- **“moto g power esim compatible”** → Yes for 2024, no for older.
+- **“moto g stylus esim compatible”** → Yes for 2024, no for older.
+- **“motorola esim compatible phones”** – Edge series, Razr series, Moto G Power/Stylus 2024, Moto G 5G (G53/G54/G55).
+- **“motorola edge esim”** – Fully supported on Edge 40/50/60/2024.
+- **“motorola razr esim”** – Fully supported on Razr 40/50/60/2024.
+- **“moto g power 2024 esim”** – Confirmed working.
+- **“dual sim compatible”** – Yes on 2024 models.
 ---

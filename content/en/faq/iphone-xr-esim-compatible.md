@@ -1,9 +1,9 @@
 ---
 title: "Does iPhone XR Support eSIM? Full Guide 2026"
-description: "Yes, iPhone XR fully supports eSIM – one of the first iPhones with eSIM. Learn how to verify with *#06#, activate on Airalo, Visible, Google Fi, Verizon, and what to do if your device is from China. Also covers iPhone 8/X and other models."
+description: "iPhone XR supports eSIM – verify with *#06#. Activate on major carriers. China models: no eSIM. Also covers iPhone 8/X and eSIM iPhones."
 keywords: ["iphone xr esim compatible", "iphone xr esim support", "airalo compatible phones", "visible esim compatible phones", "google fi esim compatible phones", "verizon esim compatibility", "dual sim compatible", "list of iphones that support esim"]
-date: 2026-05-21T10:00:00Z
-lastmod: 2026-05-21T10:00:00Z
+date: 2026-05-22T10:00:00Z
+lastmod: 2026-05-22T10:00:00Z
 tags: ["iPhone", "eSIM", "Compatibility", "iPhone XR"]
 toc: true
 
@@ -161,6 +161,7 @@ Your iPhone XR works with **every eSIM provider** worldwide. Below are answers t
 | **Verizon** | ✅ Yes | Postpaid and prepaid eSIM plans work. Activate via My Verizon app or QR code from Verizon. |
 | **US Mobile** | ✅ Yes | Works with their Warp 5G or GSM eSIM |
 | **T-Mobile (US)** | ✅ Yes | Supports eSIM activation via app or QR |
+| **Free Mobile / Orange (France)** | ✅ Yes | French operators Free and Orange support eSIM on iPhone XR. Your phone must be unlocked. For **téléphone compatible esim free** or **mobile compatible esim orange**, iPhone XR is fully compatible. |
 
 If you searched for **“airalo compatible phones”** or **“visible esim compatible phones”** – your iPhone XR is fully compatible (just update to the latest iOS). For **“verizon esim compatibility”**, iPhone XR is supported as long as it’s unlocked or a Verizon device.
 
@@ -177,7 +178,7 @@ If you searched for **“airalo compatible phones”** or **“visible esim comp
 | iPhone 15, 15 Plus, 15 Pro, 15 Pro Max | ✅ Yes | Same as 14 |
 | iPhone 16, 17 series | ✅ Yes | eSIM only in some regions |
 
-**Note:** iPhones sold in mainland China have **no eSIM** (except Hong Kong/Macau limited models). iPhone 8, 8 Plus, iPhone X (10) do **not** support eSIM – they are physical SIM only.
+**Note:** iPhones sold in mainland China have **no eSIM** (except Hong Kong/Macau limited models). iPhone 8, 8 Plus, iPhone X (10) do **not** support eSIM – they are physical SIM only. For those searching **“iphone 8 esim compatible”** or **“iphone x esim compatible”**, the answer is no. The **iPhone SE (2020/2022)** is fully eSIM compatible, while the original iPhone SE (2016) is not.
 
 ## ❌ What If Your iPhone XR Does NOT Show an EID?
 
@@ -191,7 +192,7 @@ The only scenario where an iPhone XR lacks eSIM is if it was purchased in **main
 
 ## 🔗 Related Pages
 
-- [Full list of eSIM compatible phones (2026)](/compatibility/)
+- [Full list of eSIM compatible phones (2026)](/compatibility/) – including **Samsung Galaxy S20 FE, A22, A33, A52s, Xiaomi 11T Pro, Huawei P30 Pro, Google Pixel 6**, and many more.
 - [iPhone 11 eSIM compatibility](/faq/iphone-11-esim-compatible/)
 - [iPhone SE eSIM compatibility](/faq/iphone-se-esim-compatible/)
 - [Samsung S20 eSIM compatibility](/faq/samsung-s20-esim-compatible/)
@@ -226,4 +227,13 @@ Yes – but be aware that **UK‑based local eSIMs (like EE or Vodafone) now cha
 
 #### Does iPhone 8 or 8 Plus support eSIM?
 **No.** iPhone 8 and 8 Plus (2017) are physical SIM only. They do not support eSIM. If you saw “iphone 8 esim compatible” somewhere, it’s incorrect. Only iPhone XR and newer (except China models) have eSIM.
+
+#### What about other phone brands? Is my Samsung / Xiaomi / Huawei eSIM compatible?
+Many users ask **“samsung s20 fe esim compatible”**, **“xiaomi 11t pro compatible esim”**, or **“huawei p30 pro compatible esim”**. The answer depends on the region and model. Below is a quick reference:
+
+- **Samsung** – most global Galaxy S20/S21/S22/S23/S24/S25 series support eSIM, as well as A series: A22, A33, A52s, A51, A53, and the **S20 FE**.
+- **Xiaomi** – eSIM compatible models include: 11T Pro, 13T Pro, 14T Pro, 15T Pro, and Redmi Note 11 Pro 5G.
+- **Huawei** – international versions of P30 Pro, P40 Pro, Mate 40 Pro, and Pura 70 support eSIM.
+
+For a complete list, see our [compatibility guide](/compatibility/). And remember: **dual sim compatible** phones let you use a physical SIM and an eSIM at the same time.
 ---
