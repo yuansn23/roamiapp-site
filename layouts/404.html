@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{ partial "head.html" . }}
     
-    <title>404 - Page Not Found | Roami eSIM</title>
-    <meta name="description" content="The page you are looking for does not exist. Return to Roami homepage to continue your journey.">
+    <title>{{ i18n "404_page_not_found" | default "404 - Page Not Found" }} | Roami eSIM</title>
+    <meta name="description" content="{{ i18n "404_message" | default "The page you are looking for does not exist. Return to Roami homepage to continue your journey." }}">
     <meta name="robots" content="noindex, follow">
 
     <link rel="canonical" href="{{ .Permalink }}" />
@@ -22,15 +22,15 @@
         <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
     {{ end }}
 
-    <meta property="og:title" content="404 - Page Not Found | Roami eSIM">
-    <meta property="og:description" content="The page you are looking for does not exist. Return to Roami homepage to continue your journey.">
+    <meta property="og:title" content="{{ i18n "404_page_not_found" | default "404 - Page Not Found" }} | Roami eSIM">
+    <meta property="og:description" content="{{ i18n "404_message" | default "The page you are looking for does not exist. Return to Roami homepage to continue your journey." }}">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:site_name" content="{{ .Site.Title }}">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="404 - Page Not Found | Roami eSIM">
-    <meta name="twitter:description" content="The page you are looking for does not exist. Return to Roami homepage to continue your journey.">
+    <meta name="twitter:title" content="{{ i18n "404_page_not_found" | default "404 - Page Not Found" }} | Roami eSIM">
+    <meta name="twitter:description" content="{{ i18n "404_message" | default "The page you are looking for does not exist. Return to Roami homepage to continue your journey." }}">
 
     <link href="/css/tailwind-compiled.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -47,6 +47,7 @@
         .prose li { margin-bottom: 0.5rem; }
     </style>
 </head>
+
 <body class="bg-slate-50 text-slate-900 antialiased">
 
 {{ partial "header.html" . }}
@@ -74,7 +75,6 @@
         <!-- 优惠卡片 - 紧凑版 -->
         <div class="bg-gradient-to-r from-amber-50 to-orange-50 border-2 border-dashed border-amber-300 rounded-2xl p-5 md:p-6 text-center shadow-sm">
             <div class="flex flex-col items-center gap-2">
-                 
                 <div>
                     <h3 class="text-lg font-bold text-amber-900">{{ i18n "404_promo_title" | default "Exclusive Offer for You" }}</h3>
                     <p class="text-amber-800 text-sm">{{ i18n "404_promo_desc" | default "Get 20% off your first eSIM purchase" }}</p>
@@ -82,9 +82,9 @@
                 <div class="bg-white rounded-lg px-5 py-2 border border-amber-200 shadow-sm">
                     <span class="font-mono text-xl font-black text-amber-700">{{ i18n "404_promo_code" | default "web20" }}</span>
                 </div>
-              <a href="{{ "/" | relLangURL }}" class="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded-xl transition-all shadow-md">
-    {{ i18n "404_promo_cta" | default "Claim Your Discount →" }}
-</a>
+                <a href="{{ "/" | relLangURL }}" class="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded-xl transition-all shadow-md">
+                    {{ i18n "404_promo_cta" | default "Claim Your Discount →" }}
+                </a>
                 <p class="text-xs text-amber-600/70 mt-1">{{ i18n "404_promo_note" | default "No registration required. Valid for new users." }}</p>
             </div>
         </div>
@@ -105,5 +105,39 @@
         });
     }
 </script>
+<script>
+(function() {
+    // 获取当前访问的原始路径（如 /de/faq/what-is-esim/）
+    var originalPath = window.location.pathname;
+    
+    // 从 Hugo 配置中动态获取所有支持的语言代码（无需硬编码）
+    var supportedLangs = [
+        {{- range site.Languages -}}
+            "{{ .Lang }}",
+        {{- end -}}
+    ];
+    
+    var matchedLang = null;
+
+    // 检查路径中是否包含某个语言前缀
+    for (var i = 0; i < supportedLangs.length; i++) {
+        var lang = supportedLangs[i];
+        if (originalPath.indexOf('/' + lang + '/') === 0) {
+            matchedLang = lang;
+            break;
+        }
+    }
+
+    // 如果匹配到了语言，并且当前页面不是该语言的 404 页面，则重定向
+    if (matchedLang) {
+        var target404Url = '/' + matchedLang + '/404.html';
+        // 避免无限重定向：如果已经在这个页面上就停止
+        if (originalPath !== target404Url && !originalPath.endsWith('/404.html')) {
+            window.location.replace(target404Url);
+        }
+    }
+})();
+</script>
+
 </body>
 </html>

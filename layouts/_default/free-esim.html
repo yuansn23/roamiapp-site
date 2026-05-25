@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
-   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>{{ .Params.seo.title }}</title>
     <meta name="description" content="{{ .Params.seo.description }}">
     {{ if .Params.seo.keywords }}
@@ -20,7 +20,6 @@
     {{ range .AllTranslations }}
     <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
     {{ end }}
-    {{/* 使用 hugo.Sites 获取默认语言（按 languages 定义顺序的第一个）*/}}
     {{ $defaultLang := (index hugo.Sites 0).Language.Lang }}
     {{ range .AllTranslations }}
         {{ if eq .Language.Lang $defaultLang }}
@@ -151,6 +150,7 @@
         }
     </style>
 
+    <!-- WebPage Schema (无变化) -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -161,6 +161,7 @@
     }
     </script>
 
+    <!-- 修复 ItemList：将每个条目的 url 改为对应国家的独立页面（而非锚点） -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -178,7 +179,7 @@
             "@type": "Service",
             "name": "{{ $.Params.ui.schema.item_name_prefix }}{{ $country.name }}",
             "description": "{{ $.Params.ui.schema.item_desc_prefix }}{{ $country.name }}",
-            "url": "{{ (printf "/free-esim/#%s" $country.slug) | relLangURL | absURL }}",
+            "url": "{{ (printf "/%s-esim/" $country.slug) | relLangURL | absURL }}",
             "areaServed": {
               "@type": "Country",
               "name": "{{ $country.name }}"
@@ -190,6 +191,7 @@
     }
     </script>
 
+    <!-- 修复 FAQPage：确保问题和答案中的特殊字符被正确转义 (使用 jsonify) -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -199,10 +201,10 @@
         {{ if $index }},{{ end }}
         {
           "@type": "Question",
-          "name": "{{ $item.question }}",
+          "name": {{ $item.question | jsonify }},
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "{{ $item.answer | plainify }}"
+            "text": {{ $item.answer | plainify | jsonify }}
           }
         }
         {{ end }}
@@ -374,6 +376,7 @@
     </div>
 </main>
 
+<!-- Modal 内容保持不变（未删减） -->
 <div id="esimModal" class="fixed inset-0 z-50 hidden" aria-labelledby="modal-title" role="dialog" aria-modal="true">
     <div class="fixed inset-0 bg-slate-900/60 backdrop-blur-sm transition-opacity" onclick="closeModal()"></div>
     <div class="fixed inset-0 z-10 overflow-y-auto">
@@ -509,21 +512,19 @@
 {{ partial "footer.html" . }}
 
 <script>
-// Modal control logic
+// Modal control logic (保持不变)
 function openModal(slug) {
     document.querySelectorAll('.country-modal-content').forEach(el => el.classList.add('hidden'));
     const targetContent = document.getElementById(`modal-${slug}`);
     if(targetContent) {
         targetContent.classList.remove('hidden');
         document.getElementById('esimModal').classList.remove('hidden');
-        // JavaScript 动态处理 URL Hash，不影响语言前缀
         history.pushState(null, null, `#${slug}`);
     }
 }
 
 function closeModal() {
     document.getElementById('esimModal').classList.add('hidden');
-    // 关闭时移除 hash，保留当前语言路径
     history.pushState(null, null, window.location.pathname);
 }
 

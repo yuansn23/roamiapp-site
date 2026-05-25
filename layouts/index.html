@@ -471,27 +471,7 @@
     </div>
 </section>
 
-<!-- ========== FAQ 区域 ========== -->
-{{ if .Params.faqs }}
-<section id="faq" class="py-24 bg-white">
-    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-12">
-            <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">{{ i18n "faq_title" | default "Frequently Asked Questions" }}</h2>
-            <p class="text-lg text-slate-500">{{ i18n "faq_desc" | default "Everything you need to know about our global eSIM service." }}</p>
-        </div>
-        <div class="space-y-6" itemscope itemtype="https://schema.org/FAQPage">
-            {{ range .Params.faqs }}
-            <div class="bg-slate-50 rounded-2xl p-6 border border-slate-200" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                <h3 class="text-lg font-bold text-slate-900 mb-3" itemprop="name">{{ .question }}</h3>
-                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                    <p class="text-slate-600 leading-relaxed text-sm" itemprop="text">{{ .answer }}</p>
-                </div>
-            </div>
-            {{ end }}
-        </div>
-    </div>
-</section>
-{{ end }}
+ 
 
 <!-- ========== REVIEWS 区域 ========== -->
 <section id="reviews" class="py-24 bg-slate-50">

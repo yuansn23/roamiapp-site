@@ -521,7 +521,8 @@ brands:
         - "<strong>T-Mobile:</strong> T-Mobile Revvl 7, T-Mobile Revvl 7 Pro"
         - "<strong>Nuu:</strong> Nuu X5"
         - "<strong>Surface:</strong> Surface Duo"
-        - "<strong>OnePlus:</strong> Совместимые модели"
+        - "<strong>OnePlus:</strong> OnePlus 12, OnePlus 13 (региональные версии)"
+        - "<strong>Nothing:</strong> Nothing Phone (2), Nothing Phone (2a)"
         - "<strong>Others:</strong> Gemini PDA 4G+Wi-Fi, Nothing Phone (3a) Pro, Realme 14 Pro+, ASUS Zenfone 12 Ultra, ZTE nubia Flip2, Alcatel V3 Ultra"
 
 # ==================== Дополнительные SEO-поля ====================
