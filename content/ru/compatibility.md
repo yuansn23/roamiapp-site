@@ -1,9 +1,9 @@
 ---
-title: "Список телефонов, совместимых с eSIM (2026)"
+title: "Список совместимых с eSIM устройств | 300+ телефонов (2026)"
 description: "Ваш телефон совместим с eSIM? Проверьте по нашему полному обновлённому списку устройств с поддержкой eSIM на 2026 год, включая iPhone, Samsung Galaxy, Google Pixel и другие. Узнайте, какие смартфоны поддерживают eSIM: от iPhone 17 Pro Max до Samsung Galaxy S25 и Xiaomi 15T Pro."
 keywords: "телефоны совместимые с eSIM, телефоны поддерживающие eSIM, мой телефон совместим с eSIM, совместимость iPhone с eSIM, телефоны Samsung с eSIM, устройства с поддержкой eSIM 2026, проверить совместимость eSIM, iphone 17 esim, samsung s25 esim, сколько esim, как подключить esim на айфон, esim какие, 17 pro max esim, esim samsung, galaxy esim"
 layout: "compatibility"
-date: '2026-05-18T00:00:00+00:00'
+date: '2026-05-25T00:00:00+00:00'
 type: "page"
 
 # Структурированные данные FAQ для SEO

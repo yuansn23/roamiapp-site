@@ -3,6 +3,18 @@
 <head>
     <meta charset="UTF-8"> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	    {{/* ========== URL 小写规范化脚本 ========== */}}
+    <script>
+        (function() {
+            var path = window.location.pathname;
+            if (/[A-Z]/.test(path)) {
+                var newPath = path.toLowerCase();
+                var newUrl = window.location.origin + newPath + window.location.search + window.location.hash;
+                window.location.replace(newUrl);
+            }
+        })();
+    </script>
+
     {{ $siteName := .Params.site_name | default .Site.Title | default "Roami" }}
     {{ $title := .Title | default $siteName }}
     {{ $seoTitle := $title }}
