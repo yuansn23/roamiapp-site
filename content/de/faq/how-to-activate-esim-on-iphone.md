@@ -1,9 +1,9 @@
 ---
 title: "So aktivieren Sie eine eSIM auf dem iPhone"
-description: "Erfahren Sie, wie Sie eine eSIM auf iPhone- und Android-Geräten ganz einfach aktivieren. Folgen Sie unserer Schritt-für-Schritt-Anleitung zum Scannen Ihres QR-Codes und zur Behebung gängiger Aktivierungsfehler."
+description: "Vollständige iOS- und Android-eSIM-Aktivierungsanleitung 2026. Kein Anruf beim Anbieter nötig. Befolgen Sie einfache Anweisungen für QR-Code, Einstellungen-App oder Anbieter-App. Schnell & kostenlos."
 keywords: ["eSIM-Aktivierung", "eSIM aktivieren", "iPhone eSIM Einrichtung", "Android eSIM", "eSIM QR-Code", "Reise-eSIM", "eSIM Fehlerbehebung"]
-date: 2026-05-08T10:00:00Z
-lastmod: 2026-05-08T10:00:00Z
+date: 2026-05-25T10:00:00Z
+lastmod: 2026-05-25T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Fehlerbehebung", "Reise-Setup"]
 toc: true
 image: "/images/esim-activation-guide.jpg"

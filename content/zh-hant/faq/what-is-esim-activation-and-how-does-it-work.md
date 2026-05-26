@@ -1,6 +1,6 @@
 ---
-title: "如何在 iPhone 與 Android 上設定eSIM"
-description: "了解如何在 iPhone 和 Android 上啟用 eSIM：逐步教學、eSIM 設定、QR Code、錯誤排除。購買前往日本、韓國、泰國、美國等國的旅遊 eSIM。相容 iPhone 17、Samsung Galaxy、Google Pixel。"
+title: "如何在iPhone與Android上設定eSIM(2026)"
+description: "2026 最新 iPhone 與 Android eSIM 設定教學。逐步啟用、掃描 QR Code、常見錯誤排除。適用日本、韓國、泰國、美國等旅遊 eSIM。支援 iPhone 17、Samsung Galaxy、Google Pixel。"
 keywords: ["eSIM 啟用", "如何啟用 eSIM", "iPhone eSIM 設定", "Android eSIM", "eSIM QR Code", "旅遊 eSIM", "eSIM 疑難排解", "購買 eSIM", "iPhone 17 eSIM", "如何在 iPhone 連接 eSIM", "旅遊 eSIM", "支援 eSIM 的手機", "多少張 eSIM", "雙 eSIM", "遠傳 esim", "台灣 esim", "中華電信 esim", "台灣大哥大 esim", "joytel esim", "trifa esim", "esim iphone", "iphone 11 esim", "iphone 12 esim", "esim android", "三星 esim", "s22 esim", "出國 esim", "e sim 漫遊"]
 date: 2026-05-18T10:00:00Z
 lastmod: 2026-05-18T10:00:00Z

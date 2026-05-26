@@ -1,6 +1,6 @@
 ---
-title: "Qu'est-ce que l'activation eSIM et comment ça fonctionne ? Le guide ultime"
-description: "Apprenez à activer facilement une eSIM sur les appareils iPhone et Android. Suivez notre guide étape par étape pour scanner votre code QR et résoudre les erreurs d'activation courantes."
+title: "Activation eSIM : définition et fonctionnement (2026)"
+description: "Découvrez ce qu'est l'activation eSIM et comment elle fonctionne sur iPhone et Android. Configurez votre ligne sans carte SIM physique. Guide simple, compatible avec tous les opérateurs."
 keywords: ["activation eSIM", "comment activer eSIM", "configuration eSIM iPhone", "eSIM Android", "code QR eSIM", "eSIM voyage", "dépannage eSIM"]
 date: 2026-05-14T10:00:00Z
 lastmod: 2026-05-14T10:00:00Z

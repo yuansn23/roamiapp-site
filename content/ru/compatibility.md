@@ -56,6 +56,25 @@ free_esim_banner:
     - text: "🇮🇳 Бесплатный eSIM для Индии"
       title: "Бесплатный пробный eSIM для Индии"
       url: "/free-esim/"
+# Quick compatibility guides (added for better internal linking and SEO)
+quick_guides:
+  title: "Краткие руководства по совместимости по моделям телефонов"
+  description: "Перейдите непосредственно к подробной информации о совместимости eSIM для вашего конкретного телефона:"
+  links:
+    - text: "Двойная SIM, eSIM и адаптер nano‑SIM"
+      url: "/faq/dual-sim-esim-nano-adapter-guide/"
+    - text: "Что такое eSIM?"
+      url: "/faq/what-is-esim/"
+    - text: "Совместимость iPhone с eSIM — руководство 2026"
+      url: "/faq/iphone-esim-compatibility-guide-2026/"
+    - text: "Совместимость Android с eSIM — руководство 2026"
+      url: "/faq/android-esim-compatibility-guide-2026/"
+    - text: "Поддерживает ли Samsung S25/S24/S23 eSIM?"
+      url: "/faq/samsung-s25-s24-s23-esim-support-colors-storage/"
+    - text: "Как активировать eSIM на iPhone"
+      url: "/faq/how-to-activate-esim-on-iphone/"
+    - text: "eSIM для часов, iPad, роутеров и адаптеров — 2026"
+      url: "/faq/esim-watch-ipad-router-adapter-2026/"
 
 # Конфигурация при отсутствии результатов поиска
 no_results:
