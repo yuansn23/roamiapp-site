@@ -1,6 +1,6 @@
 ---
 title: Кот-д'Ивуар eSIM тариф | Лучшая туристическая eSIM 2026 | Roami
-date: '2026-05-12T09:34:54+00:00'
+date: '2026-05-26T09:34:54+00:00'
 draft: false
 type: esim
 country_meta:

@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}" class="scroll-smooth">
+<head>
+    {{ partial "head.html" . }}
+    <link rel="canonical" href="{{ .Permalink }}">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <meta name="description" content="{{ .Description | default (.Summary | plainify | truncate 160) }}">
+    
+    <!-- Open Graph / Twitter Card -->
+    <meta property="og:title" content="{{ .Title }}">
+    <meta property="og:description" content="{{ .Description | default (.Summary | plainify | truncate 160) }}">
+    <meta property="og:image" content="{{ .Params.image | default .Site.Params.defaultImage | absURL }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:type" content="article">
+    <meta name="twitter:card" content="summary_large_image">
+    
+    <!-- JSON-LD Structured Data (Article) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": {{ .Title | jsonify }},
+        "description": {{ .Description | default (.Summary | plainify | truncate 160) | jsonify }},
+        "image": {{ .Params.image | default .Site.Params.defaultImage | absURL | jsonify }},
+        "author": {
+            "@type": "Organization",
+            "name": "Roami"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Roami",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "{{ .Site.Params.logo | absURL }}"
+            }
+        },
+        "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+        "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ .Permalink }}"
+        }
+    }
+    </script>
+    
+    <link href="/css/tailwind-compiled.css" rel="stylesheet">
+    <style>
+        /* 基础样式 – 复用列表页样式，并增加文章专属样式 */
+        .no-scrollbar::-webkit-scrollbar { display: none; }
+        .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+        .blog-content {
+            font-size: 1.125rem;
+            line-height: 1.75;
+            color: #1e293b;
+        }
+        .blog-content h2 {
+            font-size: 1.875rem;
+            font-weight: 700;
+            margin-top: 2.5rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid #e2e8f0;
+        }
+        .blog-content h3 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin-top: 2rem;
+            margin-bottom: 0.75rem;
+        }
+        .blog-content h4 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-top: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+        .blog-content p {
+            margin-bottom: 1.25rem;
+        }
+        .blog-content a {
+            color: #2563eb;
+            text-decoration: underline;
+            text-underline-offset: 2px;
+        }
+        .blog-content a:hover {
+            color: #1d4ed8;
+        }
+        .blog-content ul, .blog-content ol {
+            margin: 1.25rem 0;
+            padding-left: 1.75rem;
+        }
+        .blog-content li {
+            margin-bottom: 0.5rem;
+        }
+        .blog-content blockquote {
+            border-left: 4px solid #3b82f6;
+            background-color: #f8fafc;
+            padding: 1rem 1.5rem;
+            margin: 1.5rem 0;
+            font-style: italic;
+            border-radius: 0.5rem;
+        }
+        .blog-content img {
+            border-radius: 0.75rem;
+            margin: 1.5rem 0;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+        }
+        .blog-content pre {
+            background-color: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 0.75rem;
+            overflow-x: auto;
+            margin: 1.5rem 0;
+        }
+        .blog-content code {
+            background-color: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 0.375rem;
+            font-size: 0.875em;
+        }
+        /* 目录样式（位于正文上方） */
+        .toc-container {
+            background-color: #f8fafc;
+            border-radius: 1rem;
+            padding: 1rem 1.5rem;
+            margin-bottom: 2rem;
+            border: 1px solid #e2e8f0;
+        }
+        .toc-container details summary {
+            font-weight: 700;
+            cursor: pointer;
+            color: #0f172a;
+        }
+        .toc-container details ul {
+            margin-top: 0.75rem;
+            padding-left: 1.25rem;
+            list-style-type: none;
+        }
+        .toc-container details li {
+            margin-bottom: 0.5rem;
+        }
+        .toc-container details a {
+            color: #3b82f6;
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        .toc-container details a:hover {
+            text-decoration: underline;
+        }
+        /* 阅读进度条 */
+        .reading-progress-bar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 0%;
+            height: 4px;
+            background: linear-gradient(90deg, #3b82f6, #10b981);
+            z-index: 1000;
+            transition: width 0.1s ease;
+        }
+        /* 作者卡片 */
+        .author-card {
+            background: linear-gradient(135deg, #f8fafc 0%, #ffffff 100%);
+            border-radius: 1.5rem;
+            padding: 1.5rem;
+            border: 1px solid #e2e8f0;
+        }
+        /* 相关文章卡片 (底部推荐) */
+        .related-card {
+            transition: transform 0.2s;
+        }
+        .related-card:hover {
+            transform: translateY(-4px);
+        }
+        /* 侧边栏模块通用样式 */
+        .sidebar-card {
+            background-color: #ffffff;
+            border-radius: 1rem;
+            padding: 1.25rem;
+            border: 1px solid #e2e8f0;
+            margin-bottom: 1.5rem;
+        }
+        .sidebar-title {
+            font-size: 1.125rem;
+            font-weight: 700;
+            color: #0f172a;
+            padding-bottom: 0.5rem;
+            margin-bottom: 1rem;
+            border-bottom: 2px solid #e2e8f0;
+        }
+        .sidebar-list {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+        .sidebar-list li {
+            margin-bottom: 0.75rem;
+        }
+        .sidebar-list a {
+            color: #2563eb;
+            text-decoration: none;
+            font-size: 0.875rem;
+            display: block;
+            line-height: 1.4;
+        }
+        .sidebar-list a:hover {
+            text-decoration: underline;
+        }
+        .hot-rank {
+            display: inline-block;
+            width: 24px;
+            font-weight: 600;
+            color: #3b82f6;
+        }
+        /* 热门产品网格 */
+        .product-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 0.75rem;
+        }
+        .product-item {
+            position: relative;
+            background-color: #f8fafc;
+            border-radius: 0.75rem;
+            padding: 0.5rem 0.75rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.2s;
+            border: 1px solid #e2e8f0;
+        }
+        .product-item:hover {
+            background-color: #f1f5f9;
+            transform: translateY(-2px);
+        }
+        .product-flag {
+            font-size: 1.25rem;
+        }
+        .product-name {
+            font-size: 0.875rem;
+            font-weight: 500;
+            color: #0f172a;
+            flex: 1;
+        }
+        .product-badge {
+            position: absolute;
+            top: -0.5rem;
+            right: -0.5rem;
+            background-color: #10b981;
+            color: white;
+            font-size: 0.6rem;
+            font-weight: 700;
+            padding: 0.125rem 0.4rem;
+            border-radius: 9999px;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        /* 响应式布局：桌面端两列（正文 + 侧边栏） + Sticky侧边栏 */
+        .two-columns {
+            display: grid;
+            grid-template-columns: 1fr 320px;
+            gap: 2rem;
+            align-items: start;
+        }
+        @media (max-width: 1024px) {
+            .two-columns {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+            .sidebar {
+                position: static;
+                order: 2;
+            }
+        }
+        .sidebar {
+            position: sticky;
+            top: 2rem;
+            align-self: start;
+        }
+        .category-cloud a {
+            display: inline-block;
+            background-color: #f1f5f9;
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            margin: 0 0.25rem 0.5rem 0;
+            color: #1e293b;
+            text-decoration: none;
+        }
+        .category-cloud a:hover {
+            background-color: #2563eb;
+            color: white;
+        }
+        @media (max-width: 768px) {
+            .blog-content {
+                font-size: 1rem;
+            }
+            .blog-content h2 {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-900 antialiased selection:bg-blue-200 selection:text-blue-900 relative">
+
+<!-- 阅读进度条 -->
+<div class="reading-progress-bar" id="readingProgressBar"></div>
+
+{{ partial "header.html" . }}
+
+<!-- 面包屑导航 -->
+<nav class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 text-sm text-slate-500">
+    <ol class="flex flex-wrap items-center gap-2">
+        <li><a href="{{ .Site.LanguagePrefix }}/" class="hover:text-blue-600">Startseite</a></li>
+        <li><span class="mx-1">/</span></li>
+        <li><a href="{{ .Site.LanguagePrefix }}/blog/" class="hover:text-blue-600">Blog</a></li>
+        <li><span class="mx-1">/</span></li>
+        <li class="text-slate-800 font-medium truncate">{{ .Title }}</li>
+    </ol>
+</nav>
+
+<!-- 主内容区：两列布局（正文 + 右侧边栏） -->
+<main class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 lg:py-12">
+    <div class="two-columns">
+        <!-- 左侧：文章主体 -->
+        <article>
+            <header class="mb-6">
+                {{ with .Params.categories }}
+                <div class="flex flex-wrap gap-2 mb-4">
+                    {{ range . }}
+                    <span class="bg-blue-100 text-blue-800 text-xs font-medium px-3 py-1 rounded-full">{{ . }}</span>
+                    {{ end }}
+                </div>
+                {{ end }}
+                <h1 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-slate-900 leading-tight tracking-tight mb-4">
+                    {{ .Title }}
+                </h1>
+                <div class="flex flex-wrap items-center gap-4 text-sm text-slate-500 border-b border-slate-200 pb-6">
+                    <div class="flex items-center gap-1">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path></svg>
+                        <span>{{ .Params.author | default "Roami Team" }}</span>
+                    </div>
+                    <div class="flex items-center gap-1">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
+                        <span>{{ .Date.Format "2. January 2006" }}</span>
+                    </div>
+                    <div class="flex items-center gap-1">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                        <span>{{ .ReadingTime }} Min. Lesezeit</span>
+                    </div>
+                </div>
+            </header>
+
+            {{ if .Params.image }}
+            <figure class="mb-8">
+                <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full rounded-2xl shadow-lg object-cover max-h-[500px]">
+                {{ if .Params.imageCaption }}
+                <figcaption class="text-sm text-slate-400 text-center mt-3">{{ .Params.imageCaption }}</figcaption>
+                {{ end }}
+            </figure>
+            {{ end }}
+
+            {{ if and .TableOfContents (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") }}
+            <div class="toc-container mb-8">
+                <details open>
+                    <summary>📑 Inhaltsverzeichnis</summary>
+                    <div class="toc-content mt-3">
+                        {{ .TableOfContents }}
+                    </div>
+                </details>
+            </div>
+            {{ end }}
+
+            <div class="blog-content prose prose-slate max-w-none">
+                {{ .Content }}
+            </div>
+
+            <div class="flex flex-wrap justify-between gap-4 mt-10 pt-6 border-t border-slate-200">
+                {{ with .PrevInSection }}
+                <a href="{{ .Permalink }}" class="text-blue-600 hover:underline text-sm flex items-center gap-1">← {{ .Title | truncate 60 }}</a>
+                {{ else }}
+                <span></span>
+                {{ end }}
+                {{ with .NextInSection }}
+                <a href="{{ .Permalink }}" class="text-blue-600 hover:underline text-sm flex items-center gap-1">{{ .Title | truncate 60 }} →</a>
+                {{ else }}
+                <span></span>
+                {{ end }}
+            </div>
+
+            <div class="author-card my-10">
+                <div class="flex items-start gap-4 flex-col sm:flex-row">
+                    <div class="flex-shrink-0">
+                        <img src="{{ .Site.Params.authorAvatar | default "/images/avatar-default.png" }}" alt="Roami Team" class="w-16 h-16 rounded-full object-cover border-2 border-blue-500">
+                    </div>
+                    <div>
+                        <h4 class="text-lg font-bold text-slate-900">Geschrieben von {{ .Params.author | default "Roami Team" }}</h4>
+                        <p class="text-slate-600 text-sm mt-1">{{ .Params.authorBio | default "Wir bei Roami liefern praktische eSIM-Guides, damit du weltweit verbunden bleibst. Folg uns für mehr Reisetipps." }}</p>
+                        <div class="flex gap-3 mt-3">
+                            <a href="{{ .Site.LanguagePrefix }}/blog/" class="text-blue-600 text-sm hover:underline">Alle Artikel anzeigen →</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+
+        <!-- 右侧边栏（Sticky） -->
+        <aside class="sidebar">
+            <!-- 热门 eSIM 产品模块（新增） -->
+            <div class="sidebar-card">
+                <div class="sidebar-title">🔥 Beliebte eSIM Produkte</div>
+                <div class="product-grid">
+                    <!-- 美国 eSIM -->
+                    <div class="product-item">
+                        <span class="product-flag">🇺🇸</span>
+                        <span class="product-name">USA eSIM</span>
+                        <span class="product-badge">5G</span>
+                    </div>
+                    <!-- 中国 eSIM -->
+                    <div class="product-item">
+                        <span class="product-flag">🇨🇳</span>
+                        <span class="product-name">China eSIM</span>
+                        <span class="product-badge">5G</span>
+                    </div>
+                    <!-- 日本 eSIM -->
+                    <div class="product-item">
+                        <span class="product-flag">🇯🇵</span>
+                        <span class="product-name">Japan eSIM</span>
+                        <span class="product-badge">5G</span>
+                    </div>
+                    <!-- 泰国 eSIM -->
+                    <div class="product-item">
+                        <span class="product-flag">🇹🇭</span>
+                        <span class="product-name">Thailand eSIM</span>
+                        <span class="product-badge">5G</span>
+                    </div>
+                    <!-- 德国 eSIM -->
+                    <div class="product-item">
+                        <span class="product-flag">🇩🇪</span>
+                        <span class="product-name">Germany eSIM</span>
+                        <span class="product-badge">5G</span>
+                    </div>
+                    <!-- 澳大利亚 eSIM -->
+                    <div class="product-item">
+                        <span class="product-flag">🇦🇺</span>
+                        <span class="product-name">Australia eSIM</span>
+                        <span class="product-badge">5G</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 热门文章推荐（6篇） -->
+            {{ $hotPosts := where .Site.RegularPages "Section" "blog" }}
+            {{ $hotPosts = $hotPosts | complement (slice .) | first 6 }}
+            {{ if $hotPosts }}
+            <div class="sidebar-card">
+                <div class="sidebar-title">🔥 Beliebteste Beiträge</div>
+                <ul class="sidebar-list">
+                    {{ range $index, $post := $hotPosts }}
+                    <li>
+                        <a href="{{ $post.Permalink }}">
+                            <span class="hot-rank">{{ add $index 1 }}.</span> {{ $post.Title | truncate 70 }}
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+            {{ end }}
+
+            <!-- 分类标签云 -->
+            {{ $categories := slice }}
+            {{ range .Site.RegularPages }}
+                {{ with .Params.categories }}
+                    {{ $categories = $categories | append . }}
+                {{ end }}
+            {{ end }}
+            {{ $uniqueCats := $categories | uniq }}
+            {{ if $uniqueCats }}
+            <div class="sidebar-card">
+                <div class="sidebar-title">📂 Kategorien</div>
+                <div class="category-cloud">
+                    {{ range $uniqueCats }}
+                    <a href="{{ $.Site.LanguagePrefix }}/blog/?category={{ . | urlize }}">{{ . }}</a>
+                    {{ end }}
+                </div>
+            </div>
+            {{ end }}
+
+            <!-- 最近更新（最新5篇） -->
+            {{ $recentPosts := where .Site.RegularPages "Section" "blog" | first 5 }}
+            {{ if $recentPosts }}
+            <div class="sidebar-card">
+                <div class="sidebar-title">🆕 Neueste Beiträge</div>
+                <ul class="sidebar-list">
+                    {{ range $recentPosts }}
+                    <li>
+                        <a href="{{ .Permalink }}">{{ .Title | truncate 65 }}</a>
+                        <span class="text-xs text-slate-400 block">{{ .Date.Format "02.01.2006" }}</span>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+            {{ end }}
+        </aside>
+    </div>
+
+    <!-- 底部相关文章推荐 -->
+    {{ $related := where .Site.RegularPages "Section" "blog" }}
+    {{ $related = where $related "Params.categories" "intersect" .Params.categories }}
+    {{ $related = $related | complement (slice .) | first 3 }}
+    {{ if $related }}
+    <div class="mt-12 pt-6 border-t border-slate-200">
+        <h3 class="text-2xl font-bold text-slate-900 mb-6">🔗 Das könnte dir auch gefallen</h3>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {{ range $related }}
+            <div class="related-card bg-white rounded-xl overflow-hidden shadow-sm border border-slate-200 hover:shadow-md transition">
+                {{ if .Params.image }}
+                <a href="{{ .Permalink }}">
+                    <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full h-40 object-cover">
+                </a>
+                {{ end }}
+                <div class="p-4">
+                    <h4 class="text-lg font-bold text-slate-900 line-clamp-2"><a href="{{ .Permalink }}" class="hover:text-blue-600">{{ .Title }}</a></h4>
+                    <div class="text-xs text-slate-400 mt-2">{{ .Date.Format "2. Jan 2006" }} · {{ .ReadingTime }} min</div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
+</main>
+
+{{ partial "footer.html" . }}
+
+<!-- 回到顶部按钮 -->
+<button id="backToTopBtn" class="fixed bottom-6 right-6 bg-blue-600 text-white p-3 rounded-full shadow-lg opacity-0 pointer-events-none transition-all duration-300 hover:bg-blue-700 hover:scale-110 z-50 transform translate-y-4">
+    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18"></path></svg>
+</button>
+
+<script>
+    // 阅读进度条
+    const progressBar = document.getElementById('readingProgressBar');
+    window.addEventListener('scroll', () => {
+        const winScroll = document.documentElement.scrollTop;
+        const height = document.documentElement.scrollHeight - window.innerHeight;
+        const scrolled = (winScroll / height) * 100;
+        progressBar.style.width = scrolled + '%';
+    });
+
+    // 回到顶部
+    const backToTopBtn = document.getElementById('backToTopBtn');
+    window.addEventListener('scroll', () => {
+        if (window.scrollY > 500) {
+            backToTopBtn.classList.remove('opacity-0', 'pointer-events-none', 'translate-y-4');
+            backToTopBtn.classList.add('opacity-100', 'pointer-events-auto', 'translate-y-0');
+        } else {
+            backToTopBtn.classList.add('opacity-0', 'pointer-events-none', 'translate-y-4');
+            backToTopBtn.classList.remove('opacity-100', 'pointer-events-auto', 'translate-y-0');
+        }
+    });
+    backToTopBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+
+    // 平滑滚动到目录锚点
+    document.querySelectorAll('.toc-content a').forEach(anchor => {
+        anchor.addEventListener('click', function(e) {
+            e.preventDefault();
+            const targetId = this.getAttribute('href');
+            const target = document.querySelector(targetId);
+            if (target) {
+                target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+        });
+    });
+</script>
+
+</body>
+</html>

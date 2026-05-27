@@ -1,6 +1,6 @@
 ---
 title: Сейшелы eSIM тариф | eSIM Сейшелы | Roami
-date: '2026-05-18T03:58:17+00:00'
+date: '2026-05-26T03:58:17+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,7 +19,7 @@ modal:
   text_android: |-
     Наш eSIM-сервис обновлён до <strong>PhoneSIM</strong>.<br>Новые клиенты получают 20% скидку с кодом: web20
 seo:
-  title: Сейшелы eSIM | 5G Безлимит и раздача Wi-Fi | Roami
+  title: Сейшелы eSIM | Высокоскоростной 5G для россиян| Roami
   description: Надежная Сейшелы eSIM для отдыха. Выгоднее, чем eSIM Сейшелы trip com!
     Поддержка режима модема, 5G интернет без паспорта. Забирайте со скидкой 20%.
   keywords: eSIM Сейшелы, интернет на Сейшелах, eSIM для туристов Сейшелы, Airtel
