@@ -508,7 +508,6 @@
         {{ range first 5 $recentPosts }}
         <li>
             <a href="{{ .permalink | relLangURL }}">{{ .title | truncate 65 }}</a>
-            <span class="text-xs text-slate-400 block">{{ .date | dateFormat "02.01.2006" }}</span>
         </li>
         {{ end }}
     </ul>
@@ -518,16 +517,21 @@
     </div>
 
     <!-- 底部相关文章推荐（保持不变，仍基于全局分类推荐） -->
-    {{ $related := where .Site.RegularPages "Section" "blog" }}
-    {{ $related = where $related "Params.categories" "intersect" .Params.categories }}
-    {{ $related = $related | complement (slice .) | first 3 }}
-    {{ if $related }}
+      <!-- 底部相关文章推荐（随机4篇，排除当前文章） -->
+    {{ $allBlogPosts := where .Site.RegularPages "Section" "blog" }}
+    {{ $otherPosts := $allBlogPosts | complement (slice .) }}
+    {{ $randomPosts := slice }}
+    {{ if $otherPosts }}
+        {{ $shuffled := shuffle $otherPosts }}
+        {{ $randomPosts = first 4 $shuffled }}
+    {{ end }}
+    {{ if $randomPosts }}
     <div class="mt-12 pt-6 border-t border-slate-200">
        <h3 class="text-2xl font-bold text-slate-900 mb-6">
-  {{ i18n "you_might_also_like" }}
-</h3>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {{ range $related }}
+           {{ i18n "you_might_also_like" }}
+       </h3>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            {{ range $randomPosts }}
             <div class="related-card bg-white rounded-xl overflow-hidden shadow-sm border border-slate-200 hover:shadow-md transition">
                 {{ if .Params.image }}
                 <a href="{{ .Permalink }}">
@@ -536,7 +540,7 @@
                 {{ end }}
                 <div class="p-4">
                     <h4 class="text-lg font-bold text-slate-900 line-clamp-2"><a href="{{ .Permalink }}" class="hover:text-blue-600">{{ .Title }}</a></h4>
-                    <div class="text-xs text-slate-400 mt-2">{{ .Date.Format "2. Jan 2006" }} · {{ .ReadingTime }} min</div>
+                     
                 </div>
             </div>
             {{ end }}
