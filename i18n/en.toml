@@ -196,3 +196,20 @@ other = "Travel across multiple countries with one eSIM — no SIM swap, instant
 [faq_title2]
 other = "Frequently Asked Questions about eSIM Compatibility"
  
+[breadcrumb_home]
+other = "Home"
+
+[breadcrumb_blog]
+other = "Blog"
+
+[breadcrumb_separator]
+other = "/"
+
+[minutes_read]
+other = "min read"
+
+[table_of_contents]
+other = "📑 Table of Contents"
+
+[you_might_also_like]
+other = "🔗 You might also like"

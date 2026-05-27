@@ -194,3 +194,21 @@ other = "使用一張 eSIM 暢遊多個國家，免換卡、隨時開通，比�
 
 [faq_title2]
 other = "eSIM 相容性常見問題"
+
+[breadcrumb_home]
+other = "首頁"
+
+[breadcrumb_blog]
+other = "部落格"
+
+[breadcrumb_separator]
+other = "/"
+
+[minutes_read]
+other = "分鐘閱讀"
+
+[table_of_contents]
+other = "📑 目錄"
+
+[you_might_also_like]
+other = "🔗 您可能也喜歡"

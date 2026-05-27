@@ -195,3 +195,21 @@ other = "Voyagez dans plusieurs pays avec une seule eSIM – sans changer de car
 
 [faq_title2]
 other = "Questions fréquentes sur la compatibilité eSIM"
+
+[breadcrumb_home]
+other = "Accueil"
+
+[breadcrumb_blog]
+other = "Blog"
+
+[breadcrumb_separator]
+other = "/"
+
+[minutes_read]
+other = "min de lecture"
+
+[table_of_contents]
+other = "📑 Table des matières"
+
+[you_might_also_like]
+other = "🔗 Cela pourrait aussi te plaire"

@@ -118,6 +118,43 @@
             border-radius: 0.375rem;
             font-size: 0.875em;
         }
+        /* 表格样式优化 – 解决挤压问题，支持横向滚动 */
+        .blog-content table {
+            width: 100%;
+            display: block;
+            overflow-x: auto;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+            white-space: nowrap;
+            font-size: 0.875rem;
+        }
+        .blog-content table thead tr th,
+        .blog-content table tbody tr td {
+            border: 1px solid #e2e8f0;
+            padding: 0.75rem 1rem;
+            text-align: left;
+            white-space: normal;
+            word-break: normal;
+            vertical-align: top;
+        }
+        .blog-content table thead tr th {
+            background-color: #f8fafc;
+            font-weight: 600;
+            font-size: 0.875rem;
+        }
+        .blog-content table tbody tr:nth-child(even) {
+            background-color: #fafcff;
+        }
+        @media (max-width: 640px) {
+            .blog-content table {
+                white-space: normal;
+            }
+            .blog-content table td, 
+            .blog-content table th {
+                padding: 0.5rem 0.75rem;
+                font-size: 0.8rem;
+            }
+        }
         /* 目录样式（位于正文上方） */
         .toc-container {
             background-color: #f8fafc;
@@ -327,13 +364,13 @@
 
 {{ partial "header.html" . }}
 
-<!-- 面包屑导航 -->
+<!-- 面包屑导航（多语言） -->
 <nav class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 text-sm text-slate-500">
     <ol class="flex flex-wrap items-center gap-2">
-        <li><a href="{{ .Site.LanguagePrefix }}/" class="hover:text-blue-600">Startseite</a></li>
-        <li><span class="mx-1">/</span></li>
-        <li><a href="{{ .Site.LanguagePrefix }}/blog/" class="hover:text-blue-600">Blog</a></li>
-        <li><span class="mx-1">/</span></li>
+        <li><a href="{{ .Site.LanguagePrefix }}/" class="hover:text-blue-600">{{ i18n "breadcrumb_home" }}</a></li>
+        <li><span class="mx-1">{{ i18n "breadcrumb_separator" }}</span></li>
+        <li><a href="{{ .Site.LanguagePrefix }}/blog/" class="hover:text-blue-600">{{ i18n "breadcrumb_blog" }}</a></li>
+        <li><span class="mx-1">{{ i18n "breadcrumb_separator" }}</span></li>
         <li class="text-slate-800 font-medium truncate">{{ .Title }}</li>
     </ol>
 </nav>
@@ -361,7 +398,7 @@
                     </div>
                     <div class="flex items-center gap-1">
                         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                        <span>{{ .ReadingTime }} Min. Lesezeit</span>
+                      <span>{{ .ReadingTime }} {{ i18n "minutes_read" }}</span>
                     </div>
                 </div>
             </header>
@@ -375,7 +412,7 @@
                         <img src="{{ .Params.authorAvatar | default "/img/logo.png" }}" alt="{{ .Params.author | default "Roami Team" }}" class="w-16 h-16 rounded-full object-cover border-2 border-blue-500">
                     </div>
                     <div>
-                        <h4 class="text-lg font-bold text-slate-900">Geschrieben von {{ .Params.author | default "Roami Team" }}</h4>
+                        <h4 class="text-lg font-bold text-slate-900"> {{ .Params.author | default "Roami Team" }}</h4>
                         <p class="text-slate-600 text-sm mt-1">{{ .Params.authorBio | default "Wir bei Roami liefern praktische eSIM-Guides, damit du weltweit verbunden bleibst. Folg uns für mehr Reisetipps." }}</p>
                        
                     </div>
@@ -384,13 +421,13 @@
             {{ end }}
             {{ if and .TableOfContents (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") }}
             <div class="toc-container mb-8">
-                <details open>
-                    <summary>📑 Inhaltsverzeichnis</summary>
-                    <div class="toc-content mt-3">
-                        {{ .TableOfContents }}
-                    </div>
-                </details>
-            </div>
+    <details open>
+        <summary>{{ i18n "table_of_contents" }}</summary>
+        <div class="toc-content mt-3">
+            {{ .TableOfContents }}
+        </div>
+    </details>
+</div>
             {{ end }}
 
     {{ if .Params.image }}
@@ -424,24 +461,24 @@
                   <!-- 热门 eSIM 产品模块 -->
             {{ $products := .Params.products }}
             {{ $productsTitle := .Params.productsTitle }}
-            {{ if and $products $productsTitle }}
-            <div class="sidebar-card">
-                <div class="sidebar-title">{{ $productsTitle }}</div>
-                <div class="product-grid">
-                    {{ range first 6 $products }}
-                    {{ $productSlug := .name | urlize }}  <!-- 生成 slug，例如 "united-states-esim" -->
-                    {{ $productURL := printf "/%s/" $productSlug | relLangURL }}
-                    <a class="product-item" href="{{ $productURL }}">
-                        <img src="{{ .flag | relURL }}" alt="{{ .name }} flag" class="product-flag-img" loading="lazy">
-                        <div class="product-info">
-                            <div class="product-name">{{ .name }}</div>
-                            <div class="product-price">{{ .price }}</div>
-                        </div>
-                    </a>
-                    {{ end }}
-                </div>
+          {{ if and $products $productsTitle }}
+<div class="sidebar-card">
+    <div class="sidebar-title">{{ $productsTitle }}</div>
+    <div class="product-grid">
+        {{ range first 6 $products }}
+        {{ $slug := .slug | default (.name | urlize) }}
+        {{ $productURL := printf "/%s-esim/" $slug | relLangURL }}
+        <a class="product-item" href="{{ $productURL }}">
+            <img src="{{ .flag | relURL }}" alt="{{ .name }} flag" class="product-flag-img" loading="lazy">
+            <div class="product-info">
+                <div class="product-name">{{ .name }}</div>
+                <div class="product-price">{{ .price }}</div>
             </div>
-            {{ end }}
+        </a>
+        {{ end }}
+    </div>
+</div>
+{{ end }}
 
             <!-- 热门文章推荐 -->
             {{ $hotPosts := .Params.hotPosts }}
@@ -464,19 +501,19 @@
             <!-- 最近更新 -->
             {{ $recentPosts := .Params.recentPosts }}
             {{ $recentPostsTitle := .Params.recentPostsTitle }}
-            {{ if and $recentPosts $recentPostsTitle }}
-            <div class="sidebar-card">
-                <div class="sidebar-title">{{ $recentPostsTitle }}</div>
-                <ul class="sidebar-list">
-                    {{ range first 5 $recentPosts }}
-                    <li>
-                        <a href="{{ .permalink }}">{{ .title | truncate 65 }}</a>
-                        <span class="text-xs text-slate-400 block">{{ .date | dateFormat "02.01.2006" }}</span>
-                    </li>
-                    {{ end }}
-                </ul>
-            </div>
-            {{ end }}
+          {{ if and $recentPosts $recentPostsTitle }}
+<div class="sidebar-card">
+    <div class="sidebar-title">{{ $recentPostsTitle }}</div>
+    <ul class="sidebar-list">
+        {{ range first 5 $recentPosts }}
+        <li>
+            <a href="{{ .permalink | relLangURL }}">{{ .title | truncate 65 }}</a>
+            <span class="text-xs text-slate-400 block">{{ .date | dateFormat "02.01.2006" }}</span>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
         </aside>
     </div>
 
@@ -486,7 +523,9 @@
     {{ $related = $related | complement (slice .) | first 3 }}
     {{ if $related }}
     <div class="mt-12 pt-6 border-t border-slate-200">
-        <h3 class="text-2xl font-bold text-slate-900 mb-6">🔗 Das könnte dir auch gefallen</h3>
+       <h3 class="text-2xl font-bold text-slate-900 mb-6">
+  {{ i18n "you_might_also_like" }}
+</h3>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {{ range $related }}
             <div class="related-card bg-white rounded-xl overflow-hidden shadow-sm border border-slate-200 hover:shadow-md transition">

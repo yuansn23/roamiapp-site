@@ -194,3 +194,21 @@ other = "Mit einer eSIM durch mehrere Länder reisen – kein Kartenwechsel, sof
 
 [faq_title2]
 other = "Häufig gestellte Fragen zur eSIM-Kompatibilität"
+
+[breadcrumb_home]
+other = "Startseite"
+
+[breadcrumb_blog]
+other = "Blog"
+
+[breadcrumb_separator]
+other = "/"
+
+[minutes_read]
+other = "Min. Lesezeit"
+
+[table_of_contents]
+other = "📑 Inhaltsverzeichnis"
+
+[you_might_also_like]
+other = "🔗 Das könnte dir auch gefallen"

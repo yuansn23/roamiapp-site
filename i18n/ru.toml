@@ -194,3 +194,21 @@ other = "Путешествуйте по разным странам с одно
 
 [faq_title2]
 other = "Часто задаваемые вопросы о eSIM-совместимости"
+
+[breadcrumb_home]
+other = "Главная"
+
+[breadcrumb_blog]
+other = "Блог"
+
+[breadcrumb_separator]
+other = "/"
+
+[minutes_read]
+other = "мин. чтения"
+
+[table_of_contents]
+other = "📑 Содержание"
+
+[you_might_also_like]
+other = "🔗 Вам также может понравиться"

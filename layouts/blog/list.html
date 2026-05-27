@@ -138,8 +138,7 @@
 <section class="py-12 lg:py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <!-- 分类按钮 -->
-        <div class="mb-8">
-            <h3 class="text-sm font-bold text-slate-400 uppercase tracking-wider mb-3">Kategorien</h3>
+        <div class="mb-8"> 
             <div class="categories-scroll flex flex-nowrap gap-2 pb-2">
                 {{ range .Params.categories | default slice }}
                 <button data-country="{{ .key }}" class="category-filter {{ if eq .key "all" }}active bg-blue-600 text-white border-blue-600{{ else }}bg-white text-slate-700 border-slate-300{{ end }} px-4 py-2 rounded-full text-sm font-medium transition shadow-sm">
@@ -150,33 +149,29 @@
         </div>
 
         <!-- 博客卡片容器 -->
-    <div id="blog-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    {{ range .Params.posts | default slice }}
-    <div class="blog-card bg-white rounded-2xl border border-slate-200 overflow-hidden hover:border-blue-300 transition-all" data-country="{{ .category }}">
-        <a href="{{ .link }}">
-            {{/* 图片链接也需要同样处理 */}}
-            {{ $cleanLink := strings.TrimPrefix "/" .link }}
-            <a href="{{ .Site.LanguagePrefix }}/blog/{{ $cleanLink }}">
-                <img src="{{ .image }}" alt="{{ .title }}" class="blog-img w-full h-48 object-cover">
-            </a>
-        </a>
-        <div class="p-5">
-            <div class="flex items-center gap-3 text-xs text-slate-500 mb-3">
-                <span>📅 {{ dateFormat "2. Jan 2006" .date }}</span>
-                <span>✍️ {{ .author }}</span>
+        <div id="blog-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {{ range .Params.posts | default slice }}
+            {{/* 构建多语言链接：直接用语言前缀 + 原始链接（原始链接已包含 /blog/） */}}
+            {{ $postLink := .link | default "#" }}
+            {{ $localizedLink := printf "%s%s" $.Site.LanguagePrefix $postLink }}
+            <div class="blog-card bg-white rounded-2xl border border-slate-200 overflow-hidden hover:border-blue-300 transition-all" data-country="{{ .category }}">
+                <a href="{{ $localizedLink }}">
+                    <img src="{{ .image }}" alt="{{ .title }}" class="blog-img w-full h-48 object-cover">
+                </a>
+                <div class="p-5">
+                    <div class="flex items-center gap-3 text-xs text-slate-500 mb-3">
+                        <span>📅 {{ dateFormat "2. Jan 2006" .date }}</span>
+                        <span>✍️ {{ .author }}</span>
+                    </div>
+                    <a href="{{ $localizedLink }}" class="block mb-2 hover:text-blue-600 transition">
+                        <h3 class="text-xl font-bold text-slate-900 hover:text-blue-600 transition">{{ .title }}</h3>
+                    </a>
+                    <p class="text-slate-500 text-sm line-clamp-3">{{ .description }}</p>
+                     
+                </div>
             </div>
-            <a href="{{ .Site.LanguagePrefix }}/blog/{{ $cleanLink }}">
-                <h3 class="text-xl font-bold text-slate-900 mb-2 hover:text-blue-600 transition">{{ .title }}</h3>
-            </a>
-            <p class="text-slate-500 text-sm line-clamp-3">{{ .description }}</p>
-            <div class="mt-4 flex items-center justify-between">
-                <a href="{{ .Site.LanguagePrefix }}/blog/{{ $cleanLink }}" class="text-blue-600 font-medium text-sm hover:underline">Weiterlesen →</a>
-                <span class="text-xs text-slate-400">{{ .readTime }}</span>
-            </div>
+            {{ end }}
         </div>
-    </div>
-    {{ end }}
-</div>
         <!-- 分页控件容器（完全动态生成） -->
         <div id="pagination-container" class="flex justify-center mt-12"></div>
         <div id="pagination-stats" class="text-center text-sm text-slate-400 mt-4"></div>
