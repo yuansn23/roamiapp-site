@@ -1,9 +1,9 @@
 ---
-title: "Samsung Galaxy S20 支援 eSIM 嗎？（依地區而定）"
+title: "Samsung Galaxy 支援 eSIM 嗎？（完整解答與設定教學）"
 description: "Samsung Galaxy S20、S20+、S20 Ultra 皆支援 eSIM – 但僅限特定地區。了解如何檢查、啟用，以及哪些電信業者適用於您的 S20。同時涵蓋 S10、S9、A 系列及更多 Samsung eSIM 相容性資訊。"
 keywords: ["s20 esim 相容", "samsung s20 esim 相容", "galaxy s20 esim 相容", "samsung s20 plus esim", "s20 ultra esim", "airalo samsung s20", "visible samsung s20", "samsung s10 esim 相容", "galaxy s10 esim 相容", "samsung s9 esim 相容", "samsung a13 esim 相容", "samsung a12 esim 相容", "samsung galaxy s21 esim 相容", "samsung galaxy s22 esim 相容", "esim 相容 samsung 手機", "samsung 手機支援 esim", "verizon esim 相容性", "us mobile esim 相容裝置", "holafly 相容手機"]
-date: 2026-05-22T10:00:00Z
-lastmod: 2026-05-22T10:00:00Z
+date: 2026-05-26T10:00:00Z
+lastmod: 2026-05-26T10:00:00Z
 tags: ["Samsung", "eSIM", "相容性", "Galaxy S20"]
 toc: true
 
@@ -182,13 +182,13 @@ sidebar_questions:
 
 - **使用實體 SIM 卡** – Roami 和其他旅行供應商提供實體 SIM 卡。
 - **升級到較新的 Samsung** – Galaxy S21、S22、S23、S24、S25 在所有地區（包括美國）都支援 eSIM。請參閱我們的 [Samsung eSIM 指南](/compatibility/#samsung)。
-- **換用其他手機** – [Google Pixel 6](/faq/google-pixel-6-esim-compatible/)（完整 eSIM 支援）或 [iPhone 11](/faq/iphone-11-esim-compatible/) 是價格實惠且相容 eSIM 的選擇。
+- **換用其他手機** – [Google Pixel 6](/faq/google-pixel-6-esim-compatible/)（完整 eSIM 支援）或 [iPhone XR](/faq/iphone-xr-esim-compatible/) 是價格實惠且相容 eSIM 的選擇。
 
 ## 🔗 相關頁面
 
 - [2026 年完整 eSIM 相容手機列表](/compatibility/)
 - [Google Pixel 6 eSIM 相容性](/faq/google-pixel-6-esim-compatible/)
-- [iPhone 11 eSIM 相容性](/faq/iphone-11-esim-compatible/)
+- [iPhone XR eSIM 相容性](/faq/iphone-xr-esim-compatible/)
 - [Moto G Power eSIM 相容性](/faq/moto-g-power-esim-compatible/)
 
 ## 🆓 用免費 eSIM 測試

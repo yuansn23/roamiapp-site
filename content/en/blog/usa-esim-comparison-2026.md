@@ -3,15 +3,66 @@ title: "USA eSIM Comparison 2026: T‑Mobile vs. AT&T vs. Roami – Which Is Bes
 description: "Detailed comparison of the best eSIM providers in the USA for 2026. Tested 5G speeds in New York, LA, Chicago, and national parks. Find the perfect plan for your trip."
 date: 2026-05-12
 lastmod: 2026-05-15
-author: "Roami Team"
+author: "Roami2 Team"
 authorBio: "Roami's eSIM experts have tested over 50 providers worldwide. We focus on real‑world performance, not just specs."
-image: "/images/blog/usa-esim-comparison-2026/cover.jpg"
+image: "/img/esim/esim-travel.jpg"
 imageCaption: "5G coverage map of the United States – our top picks for 2026"
 categories: ["USA", "eSIM Comparison", "North America"]
 tags: ["USA eSIM", "5G", "travel internet", "T-Mobile", "AT&T", "Roami"]
 keywords: "USA eSIM, best eSIM for USA travel, T-Mobile vs AT&T eSIM, Roami review 2026"
 readingTime: 9
 draft: false
+authorAvatar: "/img/logo.png"          
+authorPostsLink: "/blog/" 
+# 侧边栏模块标题
+productsTitle: "Beliebte eSIM Produkte"
+hotPostsTitle: "Beliebteste Beiträge"
+recentPostsTitle: "Neueste Beiträge"
+# 右侧热门 eSIM 产品（6个）
+products:
+  - name: "United States eSIM"
+    flag: "/img/flags/us.svg"
+    price: "From $1.99"
+    is_highlight: false
+  - name: "United Kingdom eSIM"
+    flag: "/img/flags/gb.svg"
+    price: "From $1.99"
+    is_highlight: false
+  - name: "Europe eSIM"
+    flag: "/img/flags/eu.svg"
+    price: "From $1.99"
+    is_highlight: true
+  - name: "Canada eSIM"
+    flag: "/img/flags/ca.svg"
+    price: "From $1.99"
+    is_highlight: false
+  - name: "Turkey eSIM"
+    flag: "/img/flags/tr.svg"
+    price: "From $1.99"
+    is_highlight: false
+  - name: "China eSIM"
+    flag: "/img/flags/cn.svg"
+    price: "From $1.99"
+    is_highlight: false
+
+
+# 右侧最近更新（5篇）
+recentPosts:
+  - title: "Canada eSIM: Unlimited Data Plans Compared for 2026"
+    permalink: "/blog/canada-esim-unlimited"
+    date: "2026-05-14"
+  - title: "eSIM for Digital Nomads: Best Global Plans Under $50"
+    permalink: "/blog/digital-nomad-esim"
+    date: "2026-05-12"
+  - title: "South Korea eSIM: KT vs. SK Telecom vs. Roami"
+    permalink: "/blog/south-korea-esim"
+    date: "2026-05-09"
+  - title: "eSIM Activation Troubleshooting: 5 Common Fixes"
+    permalink: "/blog/esim-troubleshooting"
+    date: "2026-05-07"
+  - title: "Vietnam eSIM: Best Data Plans for Hanoi & Ho Chi Minh"
+    permalink: "/blog/vietnam-esim"
+    date: "2026-05-04"
 ---
 
 Traveling to the United States without a reliable data connection is like driving without a map. With dozens of eSIM providers claiming to offer “the best coverage”, how do you choose?  

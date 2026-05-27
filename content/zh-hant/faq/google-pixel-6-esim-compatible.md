@@ -1,9 +1,9 @@
 ---
-title: "Google Pixel 6 支援 eSIM 嗎？2026 完整指南"
-description: "Google Pixel 6、Pixel 6 Pro 和 Pixel 6a 全都支援 eSIM – 所有地區皆無例外。了解如何透過 *#06# 驗證、在 Airalo、Visible、Google Fi、Verizon、US Mobile、Holafly、Jio 上啟用以及疑難排解。同時涵蓋 Pixel 3/4/5/7/8/9/10 的相容性。"
+title: "Google Pixel 能用 eSIM 嗎？2026 完整解答與設定教學"
+description: "Google Pixel 6、6 Pro 與 6a 皆完整支援 eSIM，全球版本通用。本文介紹 *#06# 驗證方法、詳細啟用步驟（適用於各大電信業者與旅行 eSIM 服務），並涵蓋 Pixel 3 至 10 全系列的 eSIM 相容性資訊"
 keywords: ["google pixel 6 esim compatible", "google pixel 6 pro esim compatible", "pixel 6a esim compatible", "pixel 6 esim support", "airalo compatible phones", "visible esim compatible phones", "google fi esim compatible phones", "google pixel esim compatible", "pixel 4a esim compatible", "pixel 4a 5g esim compatible", "pixel 5 esim compatible", "pixel 7 esim compatible", "pixel 8 esim compatible", "pixel 3 esim compatible", "pixel 4 esim compatible", "holafly compatible phones", "jio esim compatible phones", "verizon esim compatibility", "us mobile esim compatible devices", "dual sim compatible"]
-date: 2026-05-22T10:00:00Z
-lastmod: 2026-05-22T10:00:00Z
+date: 2026-05-26T10:00:00Z
+lastmod: 2026-05-26T10:00:00Z
 tags: ["Google Pixel", "eSIM", "相容性", "Pixel 6"]
 toc: true
 
@@ -185,7 +185,7 @@ sidebar_questions:
 ## 🔗 相關頁面
 
 - [2026 年 eSIM 相容手機完整清單](/compatibility/)
-- [iPhone 11 eSIM 相容性](/faq/iphone-11-esim-compatible/)
+- [iPhone XR eSIM 相容性](/faq/iphone-xr-esim-compatible/)
 - [Samsung S20 eSIM 相容性](/faq/samsung-s20-esim-compatible/)
 - [Moto G Power eSIM 相容性](/faq/moto-g-power-esim-compatible/)
 

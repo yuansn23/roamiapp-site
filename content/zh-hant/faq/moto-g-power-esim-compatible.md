@@ -1,18 +1,18 @@
 ---
-title: "iPhone XR 支援 eSIM 嗎？2026 完整指南"
-description: "是的，iPhone XR 完全支援 eSIM – 是首批配備 eSIM 的 iPhone 之一。了解如何透過 *#06# 驗證、在 Airalo、Visible、Google Fi、Verizon、US Mobile 上啟用，以及如果您的裝置來自中國該怎麼辦。同時涵蓋 iPhone 8/X 和支援 eSIM 的 iPhone 清單。"
-keywords: ["iphone xr esim compatible", "iphone xr esim support", "airalo compatible phones", "visible esim compatible phones", "google fi esim compatible phones", "verizon esim compatibility", "us mobile esim compatible devices", "holafly compatible phones", "jio esim compatible phones", "dual sim compatible", "list of iphones that support esim", "esim capable iphones", "iphone esim compatible", "iphone 8 esim compatible", "iphone x esim compatible"]
-date: 2026-05-22T10:00:00Z
-lastmod: 2026-05-22T10:00:00Z
-tags: ["iPhone", "eSIM", "相容性", "iPhone XR"]
+title: "Moto G Power 支援 eSIM 嗎？2026 完整指南"
+description: "Moto G Power (2024) 與 Moto G Stylus (2024) 支援 eSIM，舊款型號 (2020-2023) 則不支援。本文介紹如何檢查型號、使用 *#06# 驗證，以及在各電信業者與旅行 eSIM 服務上的啟用步驟。同時涵蓋 Motorola Edge、Razr 及其他支援 eSIM 的 Moto 手機"
+keywords: ["moto g power esim 相容", "moto g stylus esim 相容", "motorola esim 相容手機", "moto g power 2024 esim", "airalo 相容手機", "visible esim 相容手機", "verizon esim 相容性", "us mobile esim 相容裝置", "holafly 相容手機", "motorola edge esim", "motorola razr esim", "雙卡雙待相容"]
+date: 2026-05-26T10:00:00Z
+lastmod: 2026-05-26T10:00:00Z
+tags: ["Motorola", "eSIM", "相容性", "Moto G Power"]
 toc: true
 
-# 網站 & SEO 基礎硬編碼配置
+# 網站與 SEO 基礎寫死設定
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻譯/硬編碼配置 (支援多語言)
+# UI 文字翻譯/寫死設定 (支援多語言)
 ui_text:
   updated_on: "更新於"
   min_read: "分鐘閱讀"
@@ -26,7 +26,7 @@ breadcrumbs:
     text: "eSIM 相容性"
     url: "/compatibility/"
 
-# 右側：熱門 eSIM 配置 (6個國家，1.99美元)
+# 右側：熱門 eSIM 設定 (6 個國家，1.99 美元)
 sidebar_popular:
   title: "熱門 eSIM"
   item_suffix: "eSIM"
@@ -62,7 +62,7 @@ sidebar_popular:
       url: "/china-esim/"
       badge: "5G"
 
-# 右側：免費 eSIM 配置 (4個國家)
+# 右側：免費 eSIM 設定 (4 個國家)
 sidebar_free:
   title: "領取免費 eSIM"
   icon: "🎁"
@@ -82,155 +82,165 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右側：熱門問題配置 (5個問題)
+# 右側：熱門問題設定 (5 個問題)
 sidebar_questions:
   title: "熱門問題"
   items:
-    - question: "什麼是 eSIM 啟用以及它是如何運作的？"
+    - question: "什麼是 eSIM 啟用以及它如何運作？"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "如何啟用 eSIM？"
       url: "/faq/how-to-activate-an-esim//"
-    - question: "如何在 iPhone（所有型號）上啟用 eSIM？"
+    - question: "如何在 iPhone 上啟用 eSIM（所有型號）？"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "最新 eSIM 相容性清單"
+    - question: "最新 eSIM 相容性列表"
       url: "/compatibility/"
 ---
 
+
 ## 核心摘要（快速解答）
 
-**是的 – iPhone XR 完全支援 eSIM。** iPhone XR 於 2018 年發布，是首批與 iPhone XS 和 XS Max 一起配備 eSIM 技術的 iPhone 之一。
+**是的 – 但僅限 Moto G Power (2024) 及更新版本。舊款型號 (2020-2023) 不支援 eSIM。**
 
-以下是您需要在 10 秒內知道的資訊：
+以下是 10 秒內需要知道的資訊：
 
-1. **檢查您的地區：** 所有全球型號皆可使用。**中國大陸**版本沒有 eSIM。香港/澳門型號有部分支援（一張實體 SIM + 一張 eSIM）。
-2. **使用 *#06# 驗證：** 撥打此代碼。如果出現 **32 位數的 EID**，表示您的手機已準備好使用 eSIM。
-3. **幾分鐘內啟用：** 在您旅行前掃描任何供應商（Roami、Airalo、Visible、Google Fi）提供的 QR 碼。抵達後開啟數據漫遊。
+1. **檢查年份：**  
+   - **Moto G Power (2024)** – ✅ 支援 eSIM。  
+   - **Moto G Power (2023、2022、2021、2020)** – ❌ 不支援 eSIM。  
+   - **Moto G Stylus (2024)** – ✅ 支援 eSIM。  
+   - **Moto G Stylus (2023 及更舊)** – ❌ 不支援 eSIM。  
+2. **用 *#06# 驗證：** 撥打此代碼。如果出現 **32 位數字的 EID**，表示您的手機支援 eSIM。  
+3. **若支援則啟用：** 前往 **設定 > 網路和網際網路 > 行動網路 > 新增電信業者**，然後掃描 QR 碼。
 
-> **專業提示：** 儘管 iPhone XR 較舊，但其 eSIM 功能與最新 iPhone 完全相同 – 沒有速度或功能上的限制。
+> **專業提示：** 其他支援 eSIM 的 Motorola 手機包括 Edge 系列 (Edge 40/50/60)、Razr 折疊機，以及部分 Moto G 5G 型號 (G53、G54、G55)。務必執行 EID 測試。
 
-## 📱 iPhone XR eSIM 相容性表格
+## 📱 Moto G Power 與 Stylus – eSIM 相容性表格
 
-| 功能 | 狀態 |
-|---------|--------|
-| eSIM 支援 | ✅ 是 |
-| 雙 SIM（實體 nano‑SIM + eSIM） | ✅ 是 |
-| 可儲存的 eSIM 設定檔數量 | 最多 8 個以上（一次僅能啟用一個） |
-| 中國大陸版本 | ❌ 無 eSIM |
-| 香港 / 澳門版本 | ⚠️ 有限制（雙 SIM 卡為兩張實體 SIM，部分型號無 eSIM） |
+| 型號 | 年份 | eSIM 支援 | 備註 |
+|-------|------|--------------|-------|
+| Moto G Power (2024) | 2024 | ✅ 是 | 美國及全球版本 |
+| Moto G Power (2023) | 2023 | ❌ 否 | 僅實體 SIM |
+| Moto G Power (2022) | 2022 | ❌ 否 | 僅實體 SIM |
+| Moto G Power (2021) | 2021 | ❌ 否 | 僅實體 SIM |
+| Moto G Power (2020) | 2020 | ❌ 否 | 僅實體 SIM |
+| Moto G Stylus (2024) | 2024 | ✅ 是 | 支援 eSIM |
+| Moto G Stylus (2023) | 2023 | ❌ 否 | 不支援 eSIM |
+| Moto G Stylus (2022) | 2022 | ❌ 否 | 不支援 eSIM |
 
-iPhone XR 在 **iOS 12.1 或更新版本**上支援 eSIM。如果您多年未更新軟體，請先前往 **設定 > 一般 > 軟體更新**。
+## 📋 其他支援 eSIM 的 Motorola 手機（完整列表）
 
-## 📋 支援 eSIM 的 iPhone 清單（完整型號列表）
+如果您搜尋 **「motorola esim 相容手機」**，以下是所有支援 eSIM 的 Motorola 型號（除了 2024 年 Moto G Power/Stylus 之外）：
 
-| iPhone 型號 | eSIM 支援 | 雙 SIM（實體 + eSIM） | 備註 |
-|--------------|--------------|----------------------------|-------|
-| iPhone XR, XS, XS Max | ✅ 是 | 是 | 首批配備 eSIM 的 iPhone |
-| iPhone 11, 11 Pro, 11 Pro Max | ✅ 是 | 是 | |
-| iPhone SE (2020, 2022) | ✅ 是 | 是 | 第 2/3 代 |
-| iPhone 12, 12 mini, 12 Pro, 12 Pro Max | ✅ 是 | 是 | |
-| iPhone 13, 13 mini, 13 Pro, 13 Pro Max | ✅ 是 | 是 | |
-| iPhone 14, 14 Plus, 14 Pro, 14 Pro Max | ✅ 是 | 美國型號：僅 eSIM；其他：實體 + eSIM | |
-| iPhone 15, 15 Plus, 15 Pro, 15 Pro Max | ✅ 是 | 同 14 | |
-| iPhone 16, 17 系列 | ✅ 是 | 部分地區僅 eSIM | |
-| **iPhone 8, 8 Plus** | ❌ 否 | 否 | 僅支援實體 SIM – 無 eSIM 硬體 |
-| **iPhone X (10)** | ❌ 否 | 否 | 僅支援實體 SIM – 無 eSIM 硬體 |
-| **iPhone 6s, 7, SE (第 1 代)** | ❌ 否 | 否 | 無 eSIM |
+| Motorola 型號 | eSIM 支援 | 備註 |
+|----------------|--------------|-------|
+| Edge 60, Edge 60 Pro, Edge 60 Fusion | ✅ 是 | 最新 Edge 系列 |
+| Edge 50, Edge 50 Fusion, Edge 50 Pro, Edge 50 Neo, Edge 50 Ultra | ✅ 是 | 完整支援 |
+| Edge 40, Edge 40 Pro, Edge 40 Neo | ✅ 是 | 完整支援 |
+| Edge 30, Edge 30 Pro, Edge 30 Fusion | ✅ 是 | 部分地區 |
+| Edge 2024, Edge 2023, Edge 2022 | ✅ 是 | 美國版本可用 |
+| Razr 60, Razr 60 Ultra | ✅ 是 | 最新折疊機 |
+| Razr 50, Razr 50 Ultra | ✅ 是 | |
+| Razr 40, Razr 40 Ultra | ✅ 是 | |
+| Razr 2024, Razr+ 2024 | ✅ 是 | |
+| Moto G 5G (2025、2024 型號如 G53、G54、G55) | ✅ 是 | 特定 5G 型號 |
+| ThinkPhone 25, ThinkPhone | ✅ 是 | 商務系列 |
 
-> 如果您搜尋 **「支援 eSIM 的 iPhone 清單」** 或 **「與 eSIM 相容的 iPhone」**，上表為您提供了完整答案。iPhone XR 完全相容。
+**注意：** 較舊的 Motorola 手機（Moto G7、G8、G9、G10、G30、G31、G41、G51 等）**不**支援 eSIM。請務必撥打 `*#06#` 確認。
 
-## 🔍 如何驗證您的 iPhone XR 支援 eSIM（3 種方法）
+其他 Motorola eSIM 手機請參閱我們的[完整相容性列表](/compatibility/#motorola)。
 
-### 方法 1：EID 代碼（最快且最可靠）
-1. 開啟您的 **電話應用程式**（撥號介面）。
-2. 輸入 `*#06#` 並按下 **撥出**。
-3. 查看螢幕：
-   - **出現 EID（32 位數字）** → ✅ 您的 iPhone XR 支援 eSIM。
-   - **只出現 IMEI 號碼** → ❌ 無 eSIM（可能是中國型號）。
+## 🔍 如何驗證您的 Moto G Power 支援 eSIM
+
+### 方法 1：EID 代碼（最可靠）
+1. 開啟**電話撥號鍵盤**。  
+2. 輸入 `*#06#` 並按**通話**。  
+3. 查看螢幕：  
+   - **出現 32 位數字的 EID** → ✅ 您的手機支援 eSIM。  
+   - **只出現 IMEI 號碼** → ❌ 不支援 eSIM（舊型號或不支援）。
 
 ### 方法 2：在設定中檢查
-前往 **設定 > 一般 > 關於本機**。向下滾動到 **「可用的 SIM」** 或 **「數位 SIM」** 部分。如果您看到 **EID** 列出，則表示您的裝置已準備好使用 eSIM。
+前往 **設定 > 網路和網際網路 > 行動網路**。如果您看到 **「下載 eSIM」** 或 **「新增電信業者」**，表示您的裝置支援 eSIM。找不到？則不支援 eSIM。
 
-### 方法 3：嘗試加入行動方案
-前往 **設定 > 行動服務 > 加入行動方案**。如果該選項是灰色或不存在，則表示您的裝置不支援 eSIM。如果您可以點選它，就表示沒問題。
+### 方法 3：檢查型號
+- **Moto G Power 2024** – 型號：XT2415、XT2415-1、XT2415-2（支援 eSIM）。  
+- **舊型號** – XT2165 (2022)、XT2117 (2021)、XT2041 (2020) – 不支援 eSIM。
 
-## 📲 如何在 iPhone XR 上啟用 eSIM（逐步教學）
+## 📲 如何在 Moto G Power 上啟用 eSIM（2024 或更新版本）
 
-啟用過程不到 2 分鐘。請在 **飛行前** 完成 – 您只需要 Wi‑Fi。
+啟用時間不到 2 分鐘。**起飛前**先做 – 只需要 Wi‑Fi。
 
-1. **購買 eSIM 方案** – 對於旅行，選擇 [Roami eSIM](/free-esim/)（提供免費試用）或任何供應商，如 Airalo、Visible 或 Google Fi。
-2. **開啟設定** → **行動服務** → **加入行動方案**。
-3. **掃描 QR 碼**，該代碼會發送到您的電子郵件。（如果您有手動啟用代碼，請點選「手動輸入詳細資訊」。）
-4. **標記您的方案** – 例如「旅行」、「工作」、「英國數據」。
-5. **選擇預設線路** – 決定哪條線路（實體 SIM 或 eSIM）將用於 **行動數據**、**語音** 和 **簡訊**。
-6. **抵達目的地後，為 eSIM 線路開啟數據漫遊**。
+1. **購買 eSIM 方案** – 旅行可選擇 [Roami eSIM](/free-esim/)（免費試用）或任何供應商如 Airalo、Holafly、Google Fi。  
+2. **前往 設定 > 網路和網際網路 > 行動網路 > 新增電信業者**。  
+3. **掃描 QR 碼**（寄到您的電子郵件）。也可以手動輸入啟用詳細資料。  
+4. **依照提示**下載並安裝 eSIM 設定檔。  
+5. **將 eSIM 設為預設**的行動數據方案，旅行時開啟**數據漫遊**。
 
-> 💡 **重要：** 落地後，請前往 **設定 > 行動服務 > eSIM** 並將 **數據漫遊** 開啟。如果沒有這樣做，您的 eSIM 將無法連線。
+> 💡 部分 Motorola 手機在設定過程中需要連接 Wi‑Fi。
 
-## 🌍 哪些電信業者適用於 iPhone XR eSIM？
+## 🌍 哪些電信業者適用於 Moto G Power eSIM？
 
-您的 iPhone XR 可與全球 **所有 eSIM 供應商** 搭配使用。以下是一些常見搜尋的答案：
+*假設您使用 2024 或更新型號且已啟用 eSIM。*
 
-| 供應商 | 相容性 | 備註 |
+| 供應商 | 相容？ | 備註 |
 |----------|-------------|-------|
-| **Airalo** | ✅ 完全相容 | 在 iPhone XR 上運作完美 |
-| **Visible** | ✅ 是 | 需要 iOS 15+（請更新您的 XR！）。可透過 Visible 應用程式啟用 eSIM。 |
-| **Google Fi** | ✅ 是 | 透過 Google Fi 應用程式啟用 |
-| **Verizon** | ✅ 是 | 支援月租型和預付型 eSIM 方案。關於 **Verizon eSIM 相容性**，iPhone XR 完全支援（必須是解鎖機或 Verizon 裝置）。 |
-| **US Mobile** | ✅ 是 | 可搭配其 Warp 5G 或 GSM eSIM 使用 – 是 **us mobile esim 相容裝置** 之一。 |
-| **T-Mobile (美國)** | ✅ 是 | 支援透過應用程式或 QR 碼啟用 eSIM |
-| **Holafly** | ✅ 是 | 完全相容 – 是頂級 **holafly 相容手機** 之一。 |
-| **Jio（印度）** | ✅ 是 | Jio eSIM 可在 iPhone XR 上使用（需要月租型 Jio 連線並在印度進行實體驗證）。 |
+| **Airalo** | ✅ 是 | 在 2024 型號上完美運作 |
+| **Visible** | ⚠️ 有限 | Visible 官方僅支援少數 Android 手機；用免費試用測試 |
+| **Google Fi** | ✅ 是 | 若 eSIM 存在則可運作 |
+| **Verizon** | ✅ 是 | Verizon 品牌的 Moto G Power (2024) 可運作。此型號支援 **Verizon eSIM 相容性**。 |
+| **US Mobile** | ✅ 是 | 在 Warp 5G 和 GSM 網路上皆可透過 eSIM 運作 – 屬於 **us mobile esim 相容裝置**之一。 |
+| **T-Mobile (美國)** | ✅ 是 | 支援 2024 型號的 eSIM |
+| **Holafly** | ✅ 是 | 完全相容 – 頂尖 **holafly 相容手機**之一。 |
 
-如果您搜尋 **「airalo 相容手機」** 或 **「visible esim 相容手機」** – 您的 iPhone XR 完全相容（只需更新到最新的 iOS）。
+如果您搜尋 **「moto g power esim 相容」** – 答案取決於年份。**2024 = 是，舊款 = 否**。
 
-## ❌ 如果您的 iPhone XR 沒有顯示 EID 怎麼辦？
+## ❌ 如果您的 Moto G Power 不支援 eSIM 怎麼辦？
 
-唯一缺少 eSIM 的 iPhone XR 情況是，如果它是在 **中國大陸** 購買的（包括部分透過中國渠道銷售的香港型號）。
+這適用於所有 2024 年以前的 Moto G Power 型號，以及 2024 年以前的 Moto G Stylus。
 
-**您可以做什麼？**
+**您能做什麼？**
 
-- **使用實體旅行 SIM 卡** – Roami 和其他供應商仍然提供可運送到世界各地的實體 SIM 卡。
-- **升級到較新的 iPhone** – [iPhone 11](/faq/iphone-11-esim-compatible/)、[iPhone SE](/faq/iphone-se-esim-compatible/) 或任何後續機型都將為您提供 eSIM。
-- **檢查您是否實際上是香港型號** – 部分香港 iPhone 支援雙 SIM（實體 + eSIM）。再次嘗試 `*#06#`。如果您看到 EID，就沒問題。
+- **使用實體旅行 SIM 卡** – Roami 提供全球寄送的實體 SIM 卡。  
+- **升級到較新的手機** – 可以考慮 [Google Pixel 6](/faq/google-pixel-6-esim-compatible/)（價格實惠、eSIM 支援佳）或 [iPhone SE](/faq/iphone-se-esim-compatible/)。  
+- **購買 Motorola Edge 系列** – Edge 2024、Edge 40/50/60 都支援 eSIM。
 
 ## 🔗 相關頁面
 
-- [2026 年 eSIM 相容手機完整清單](/compatibility/)
-- [iPhone 11 eSIM 相容性](/faq/iphone-11-esim-compatible/)
+- [2026 年完整 eSIM 相容手機列表](/compatibility/)
+- [Google Pixel 6 eSIM 相容性](/faq/google-pixel-6-esim-compatible/)
 - [iPhone SE eSIM 相容性](/faq/iphone-se-esim-compatible/)
 - [Samsung S20 eSIM 相容性](/faq/samsung-s20-esim-compatible/)
-- [Google Pixel 6 eSIM 相容性](/faq/google-pixel-6-esim-compatible/)
-- [Moto G Power eSIM 相容性](/faq/moto-g-power-esim-compatible/)
 
-## 🆓 仍然不確定？試用免費 eSIM
+## 🆓 用免費 eSIM 測試（僅限 2024 年以上型號）
 
-確認相容性的最佳方法是安裝 **免費試用 eSIM**。它無需任何費用，只需 2 分鐘，如果成功安裝，則表示您的手機 100% 準備就緒。
+如果您擁有 Moto G Power (2024) 或更新版本，請領取**免費試用 eSIM**，確保出發前一切正常。
 
-👉 [**立即獲取您的免費 eSIM**](/free-esim/) – 適用於 iPhone XR（中國型號除外）。
+👉 [**立即取得免費 eSIM**](/free-esim/)
 
-## ❓ 常見問題
+## ❓ 常見問答
 
-#### iPhone XR eSIM 是否與所有電信業者相容？
-是的 – 任何提供 eSIM 的電信業者（月租型、預付型或旅行 eSIM）都可以在 iPhone XR 上使用，只要您的裝置是解鎖的。
+#### Moto G Power 2023 支援 eSIM 嗎？
+不支援 – 只有 2024 年及更新型號支援 eSIM。2023 年型號僅支援實體 SIM。
 
-#### 我可以在 iPhone XR 上同時使用 eSIM 和實體 SIM 嗎？
-可以。您可以 **同時使用一張啟用中的 eSIM + 一張啟用中的實體 SIM** – 這是真正的 **雙 SIM 卡相容** 設定。
+#### Moto G Stylus 2024 支援 eSIM 嗎？
+是的 – 2024 年 Moto G Stylus 支援 eSIM。
 
-#### iPhone XR 支援 5G eSIM 嗎？
-不支援 – iPhone XR 僅支援 **4G LTE**。eSIM 在 LTE 上運作完美，但您無法獲得 5G 速度。
+#### Moto G Power 5G (2024) 支援 eSIM 嗎？
+是的 – Moto G Power 2024 的 5G 版本也支援 eSIM。
 
-#### 我的 iPhone XR 顯示「無法加入行動方案」 – 出了什麼問題？
-這通常發生在您儲存了太多 eSIM 設定檔時。請前往 **設定 > 行動服務** 並移除任何舊的或未使用的 eSIM。然後重新啟動手機並再次嘗試。
+#### 如何知道我的 Moto G Power 是哪一年？
+前往 **設定 > 關於手機 > 型號**，然後在網路上搜尋該型號。常見型號：XT2041 (2020)、XT2117 (2021)、XT2165 (2022)、XT2415 (2024)。
 
-#### iPhone XR eSIM 在歐洲可以使用嗎？
-可以 – 但請注意，**英國當地的 eSIM（如 EE 或 Vodafone）現在對每日歐盟漫遊收費**。對於多國旅行，請改為購買 **歐洲地區 eSIM**。
+#### 我的 Moto G Power (2024) 沒有顯示「新增電信業者」– 哪裡出錯了？
+請確認已更新到最新的 Android 版本。如果仍然沒有，某些電信業者鎖定的版本可能停用了 eSIM。請聯絡您的電信業者或嘗試恢復原廠設定。
 
-#### iPhone X（iPhone 10）支援 eSIM 嗎？
-**不支援。** iPhone X（2017 年發布）沒有 eSIM 硬體。首批配備 eSIM 的 iPhone 是 XR、XS 和 XS Max。如果您搜尋「iphone x esim compatible」– 答案是不支援。請考慮升級到 iPhone XR 或更新機型。
+#### Motorola Edge 支援 eSIM 嗎？
+是的 – 大多數 Motorola Edge 型號（Edge 40、50、60、2024）支援 eSIM。用 `*#06#` 檢查。
 
-#### iPhone 8 或 8 Plus 支援 eSIM 嗎？
-**不支援。** iPhone 8 和 8 Plus（2017 年）僅支援實體 SIM。它們不支援 eSIM。任何搜尋「iphone 8 esim compatible」都是錯誤的 – 只有 iPhone XR 及更新機型（中國型號除外）配備 eSIM。
+#### Motorola Razr 支援 eSIM 嗎？
+是的 – 所有 Motorola Razr 折疊機型號（Razr 40/50/60、Razr 2024、Razr+）都支援 eSIM。
 
-#### 那 Jio eSIM 在 iPhone XR 上呢？
-可以 – Jio（印度）為 iPhone XR 提供 eSIM。您需要一個月租型 Jio 連線並前往 Jio 門市進行驗證。之後，您可以透過簡訊或 MyJio 應用程式將您的實體 Jio SIM 卡轉換為 eSIM。
+#### Holafly 與 Moto G Power 2024 相容嗎？
+是的 – Holafly eSIM 在 Moto G Power 2024 上完美運作。只需在 **設定 > 網路和網際網路 > 新增電信業者** 中掃描 QR 碼即可。
+
+#### 我可以在 Moto G Power 2024 上同時使用 eSIM 和實體 SIM 卡嗎？
+可以 – 2024 年型號支援**雙卡雙待**，可同時使用一張活躍的實體 SIM 和一張活躍的 eSIM。
 ---

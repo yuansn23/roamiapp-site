@@ -1,9 +1,9 @@
 ---
-title: "iPhone SE 支援 eSIM 嗎？完整指南（更新）"
-description: "iPhone SE（第 2 代 2020 年）和 iPhone SE（第 3 代 2022 年）支援 eSIM。2016 年的原版 SE 則不支援。了解如何驗證、在 Airalo/Visible/Google Fi/Verizon/US Mobile/Holafly/Jio 上啟用，以及舊款機型的替代方案。"
-keywords: ["iphone se esim compatible", "iphone se 2020 esim compatible", "iphone se 2nd gen esim", "iphone se 3rd gen esim", "iphone se 2nd generation esim compatible", "airalo compatible phones", "visible esim compatible phones", "verizon esim compatibility", "us mobile esim compatible devices", "holafly compatible phones", "jio esim compatible phones", "dual sim compatible", "list of iphones that support esim", "esim capable iphones", "iphone esim compatible", "esim iphone compatibility", "iphone 6s esim compatible", "iphone 7 esim compatible", "iphone 8 esim compatible"]
-date: 2026-05-22T10:00:00Z
-lastmod: 2026-05-22T10:00:00Z
+title: "iPhone SE 支援 eSIM 嗎?（完整解答與設定教學）"
+description: "iPhone SE（第 2 代 2020 年）與 iPhone SE（第 3 代 2022 年）支援 eSIM，2016 年原版 SE 則不支援。本文介紹如何驗證 eSIM 相容性、在各大電信業者與旅行 eSIM 服務上的啟用步驟，以及舊款機型的替代方案。"
+keywords: ["iphone se esim compatible", "iphone se 2020 esim compatible", "iphone se 2nd gen esim", "iphone se 3rd gen esim", "iphone se 2nd generation esim compatible", "airalo compatible phones", "visible esim compatible phones", "verizon esim compatibility", "us mobile esim compatible devices", "holafly compatible phones", "jio esim compatible phones", "dual sim compatible", "list of iphones that support esim", "esim capable iphones", "iphone esim compatible", "esim iphone compatibility", "iphone 6s esim compatible", "iphone 7 esim", "iphone 8 esim", "iphone 9 esim"]
+date: 2026-05-26T10:00:00Z
+lastmod: 2026-05-26T10:00:00Z
 tags: ["iPhone", "eSIM", "相容性", "iPhone SE"]
 toc: true
 
@@ -132,8 +132,8 @@ sidebar_questions:
 | iPhone 14、14 Plus、14 Pro、14 Pro Max | ✅ 是 | 美國型號：僅 eSIM；其他：實體 + eSIM | |
 | iPhone 15、15 Plus、15 Pro、15 Pro Max | ✅ 是 | 同 14 | |
 | iPhone 16、17 系列 | ✅ 是 | 部分地區僅 eSIM | |
-| **iPhone 6s、6s Plus、7、7 Plus、8、8 Plus、iPhone X** | ❌ 否 | 否 | 無 eSIM 硬體 – 僅支援實體 SIM |
-| **iPhone SE（第 1 代，2016）** | ❌ 否 | 否 | 無 eSIM |
+| **iPhone 6s、6s Plus、7、7 Plus、8、8 Plus、iPhone X** | ❌ 否 | 否 | 無 eSIM 硬體 – 僅支援實體 SIM。如果您搜尋「iphone 7 esim」或「iphone 8 esim」，答案均為不支援。 |
+| **iPhone SE（第 1 代，2016）** | ❌ 否 | 否 | 無 eSIM 硬體 |
 
 > 如果您搜尋 **「支援 eSIM 的 iPhone 清單」** 或 **「具備 eSIM 能力的 iPhone」**，上表為您提供了完整答案。iPhone SE 2020/2022 完全相容。
 
@@ -187,17 +187,17 @@ sidebar_questions:
 這適用於：
 - **iPhone SE 第 1 代（2016 年）** – 無 eSIM 硬體。
 - **任何在中國大陸購買的 iPhone SE** – 因地區停用 eSIM。
+- **任何搜尋「iphone 7 esim」或「iphone 8 esim」卻來到此頁的用戶** – 請注意，iPhone 7 與 iPhone 8 系列均無 eSIM 硬體，您需要升級至 iPhone XR 或更新機型（包含 SE 2020/2022）。
 
 **您可以做什麼？**
 
 - **使用實體旅行 SIM 卡** – Roami 提供可運送到世界各地的實體 SIM 卡。
-- **升級到較新的 iPhone** – [iPhone XR](/faq/iphone-xr-esim-compatible/)、[iPhone 11](/faq/iphone-11-esim-compatible/) 或 [iPhone SE（2022）](/faq/iphone-se-esim-compatible/) 是價格實惠的 eSIM 選擇。
+- **升級到較新的 iPhone** – [iPhone XR](/faq/iphone-xr-esim-compatible/) 或 [iPhone SE（2022）](/faq/iphone-se-esim-compatible/) 是價格實惠的 eSIM 選擇。
 - **檢查您是否實際上是第 2/3 代** – 許多人將原版 SE 與 2020 年型號混淆。2020 年 SE 沒有耳機孔，螢幕較大（4.7 吋 vs 4 吋）。
 
 ## 🔗 相關頁面
 
 - [2026 年 eSIM 相容手機完整清單](/compatibility/)
-- [iPhone 11 eSIM 相容性](/faq/iphone-11-esim-compatible/)
 - [iPhone XR eSIM 相容性](/faq/iphone-xr-esim-compatible/)
 - [Samsung S20 eSIM 相容性](/faq/samsung-s20-esim-compatible/)
 - [Google Pixel 6 eSIM 相容性](/faq/google-pixel-6-esim-compatible/)
@@ -227,10 +227,11 @@ sidebar_questions:
 是的 – 2022 年 SE 在實體 SIM 和 eSIM 上都支援 5G。2020 年型號僅支援 4G LTE。
 
 #### iPhone 6s / 7 / 8 支援 eSIM 嗎？
-**不支援。** iPhone 6s、7、8、8 Plus 和 iPhone X 沒有 eSIM 硬體。如果您搜尋「iphone 6s esim compatible」或「iphone 8 esim compatible」，答案是不支援 – 您需要 iPhone XR 或更新機型（或 SE 2020/2022）。
+**不支援。** iPhone 6s、7、8、8 Plus 和 iPhone X 沒有 eSIM 硬體。如果您搜尋「iphone 6s esim compatible」、「iphone 7 esim」或「iphone 8 esim」，答案都是不支援 – 您需要 iPhone XR 或更新機型（或 SE 2020/2022）。
 
-#### 那 Jio eSIM 在 iPhone SE 上呢？
-是的 – Jio（印度）為 iPhone SE 2020/2022 提供 eSIM。您需要一個月租型 Jio 連線並前往 Jio 門市進行驗證。之後，您可以透過簡訊或 MyJio 應用程式將您的實體 Jio SIM 卡轉換為 eSIM。
+#### iPhone 9 支援 eSIM 嗎？
+**iPhone 9 並不存在。** Apple 從未推出名為 iPhone 9 的型號，因此沒有「iphone 9 esim」的問題。若您看到相關資訊，請忽略。
+
 
 #### 我的 iPhone SE 顯示「無法加入行動方案」 – 出了什麼問題？
 在 **設定 > 行動服務** 中移除舊的 eSIM 設定檔，重新啟動手機，然後再試一次。

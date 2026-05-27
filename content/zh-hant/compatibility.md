@@ -3,7 +3,7 @@ title: "eSIM 相容裝置列表 | 300+ 款手機 (2026)"
 description: "數百款裝置已收錄。您的手機和平板電腦是否相容 eSIM？查看我們 2026 年支援 eSIM 的裝置列表，包括 iPhone、Samsung Galaxy、Google Pixel 等。"
 keywords: "eSIM 相容手機, 支援 eSIM 的手機, 我的手機是否相容 eSIM, iPhone eSIM 相容性, Samsung eSIM 手機, 2026 eSIM 相容裝置, 檢查 eSIM 相容性, iphone 17 esim, samsung s25 esim, 有多少 eSIM, 如何在 iphone 上啟用 eSIM, 哪種 eSIM, 17 pro max esim, esim samsung, galaxy esim, eSIM 相容手機, iphone 11 esim 相容, iphone xr esim 相容, iphone se esim 相容, s20 esim 相容, google pixel 6 esim 相容, moto g power esim 相容, samsung a13 esim 相容, iphone 8 esim 相容, iphone x esim 相容, airalo 相容手機, visible esim 相容手機, google fi esim 相容手機, verizon esim 相容性, us mobile esim 相容裝置"
 layout: "compatibility"
-date: '2026-05-23T00:00:00+00:00'
+date: '2026-05-26T00:00:00+00:00'
 type: "page"
 
 # 用於 SEO 的結構化常見問答資料
@@ -62,10 +62,10 @@ quick_guides:
   title: "依手機型號的快速相容性指南"
   description: "直接跳轉到您特定手機的詳細 eSIM 相容性資訊："
   links:
-    - text: "iPhone 11 eSIM 相容性"
-      url: "/faq/iphone-11-esim-compatible/"
     - text: "iPhone XR eSIM 相容性"
       url: "/faq/iphone-xr-esim-compatible/"
+    - text: "2026 智慧手錶 eSIM 相容性完整列表"
+      url: "/faq/smartwatch-esim-compatibility-list-2026/"
     - text: "iPhone SE eSIM 相容性"
       url: "/faq/iphone-se-esim-compatible/"
     - text: "Samsung S20 eSIM 相容性"

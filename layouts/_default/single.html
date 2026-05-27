@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8"> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	    {{/* ========== URL 小写规范化脚本 ========== */}}
+    {{/* ========== URL 小写规范化脚本 ========== */}}
     <script>
         (function() {
             var path = window.location.pathname;
@@ -133,6 +133,22 @@
         .toc-container a {
             cursor: pointer;
         }
+
+        /* 3. 侧边栏自定义滚动条 */
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 4px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 10px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 10px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+            background: #94a3b8;
+        }
     </style>
 </head>
 <body class="bg-slate-50 text-slate-900 antialiased min-h-screen flex flex-col">
@@ -206,7 +222,8 @@
     </div>
 
     {{ if $hasSidebar }}
-    <aside class="w-full lg:w-[260px] shrink-0 space-y-6 mt-8 lg:mt-0 sticky top-24">
+    <!-- 优化后的侧边栏：最大高度一屏，超出内部滚动 -->
+    <aside class="w-full lg:w-[260px] shrink-0 space-y-6 mt-8 lg:mt-0 sticky top-24 max-h-[calc(100vh-120px)] overflow-y-auto custom-scrollbar">
         
         {{ with .Params.sidebar_popular }}
         <div class="bg-white rounded-2xl shadow-lg border border-slate-100 p-5">
@@ -228,24 +245,7 @@
         </div>
         {{ end }}
 
-        {{ with .Params.sidebar_free }}
-        <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl shadow-lg border border-blue-100 p-5">
-            <h3 class="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
-                <span class="text-lg">{{ .icon | default "🎁" }}</span> {{ .title }}
-            </h3>
-            <div class="grid grid-cols-2 gap-3">
-                {{ range .items }}
-                <a href="{{ .url | relLangURL }}" class="flex items-center gap-2.5 p-3 bg-white rounded-xl border border-blue-100 hover:border-blue-500 hover:shadow-sm transition-all group">
-                    <img src="{{ .flag }}" loading="lazy" class="w-6 h-6 object-contain group-hover:scale-110 transition-transform shrink-0">
-                    <div class="flex flex-col">
-                        <span class="text-xs font-bold text-slate-800 leading-tight">{{ .name }}</span>
-                        <span class="text-[10px] text-slate-500 font-medium">{{ $.Params.sidebar_free.item_subtitle }}</span>
-                    </div>
-                </a>
-                {{ end }}
-            </div>
-        </div>
-        {{ end }}
+      
 
         {{ with .Params.sidebar_questions }}
         <div class="bg-white rounded-2xl shadow-lg border border-slate-100 p-5">
@@ -265,6 +265,25 @@
         </div>
         {{ end }}
 
+  {{ with .Params.sidebar_free }}
+        <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl shadow-lg border border-blue-100 p-5">
+            <h3 class="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+                <span class="text-lg">{{ .icon | default "🎁" }}</span> {{ .title }}
+            </h3>
+            <div class="grid grid-cols-2 gap-3">
+                {{ range .items }}
+                <a href="{{ .url | relLangURL }}" class="flex items-center gap-2.5 p-3 bg-white rounded-xl border border-blue-100 hover:border-blue-500 hover:shadow-sm transition-all group">
+                    <img src="{{ .flag }}" loading="lazy" class="w-6 h-6 object-contain group-hover:scale-110 transition-transform shrink-0">
+                    <div class="flex flex-col">
+                        <span class="text-xs font-bold text-slate-800 leading-tight">{{ .name }}</span>
+                        <span class="text-[10px] text-slate-500 font-medium">{{ $.Params.sidebar_free.item_subtitle }}</span>
+                    </div>
+                </a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+		
     </aside>
     {{ end }}
 </section>
@@ -298,8 +317,7 @@
                             behavior: 'smooth'
                         });
 
-                        // 关键修复：更新 Hash 时保留原始路径（包含 /de/ 或 /en/）
-                        // 使用当前 window.location.pathname 保证多语言前缀不丢失
+                        // 更新 Hash 时保留原始路径（包含 /de/ 或 /en/）
                         history.pushState(null, null, window.location.pathname + href);
                     }
                 }
@@ -307,6 +325,6 @@
         });
     });
 </script>
- 
+
 </body>
 </html>

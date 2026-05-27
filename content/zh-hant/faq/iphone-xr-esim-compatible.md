@@ -1,9 +1,9 @@
 ---
-title: "iPhone XR 支援 eSIM 嗎？2026 完整指南"
-description: "是的，iPhone XR 完全支援 eSIM – 是最早配備 eSIM 的 iPhone 之一。了解如何使用 *#06# 驗證、在 Airalo、Visible、Google Fi、Verizon 上啟用，以及如果您的裝置來自中國該怎麼辦。同時涵蓋 iPhone 8/X 及其他型號。"
-keywords: ["iphone xr esim 相容", "iphone xr esim 支援", "airalo 相容手機", "visible esim 相容手機", "google fi esim 相容手機", "verizon esim 相容性", "雙卡雙待相容", "支援 esim 的 iphone 列表"]
-date: 2026-05-22T10:00:00Z
-lastmod: 2026-05-22T10:00:00Z
+title: "iPhone XR 支援 eSIM 嗎？2026設定全攻略"
+description: "iPhone XR 是最早支援 eSIM 的 iPhone 型號之一，完全相容於各大電信業者與旅行 eSIM 服務。本文提供 *#06# 驗證教學、完整啟用步驟，並說明中國版裝置的特殊處理方式。同時一併介紹 iPhone 7、iPhone 8、iPhone X 及其他型號的 eSIM 支援情況"
+keywords: ["iphone xr esim 相容", "iphone xr esim 支援", "airalo 相容手機", "visible esim 相容手機", "google fi esim 相容手機", "verizon esim 相容性", "雙卡雙待相容", "支援 esim 的 iphone 列表", "iphone 7 esim", "iphone 8 esim", "iphone 9 esim"]
+date: 2026-05-26T10:00:00Z
+lastmod: 2026-05-26T10:00:00Z
 tags: ["iPhone", "eSIM", "相容性", "iPhone XR"]
 toc: true
 
@@ -107,7 +107,7 @@ sidebar_questions:
 2. **用 *#06# 驗證：** 撥打此代碼。如果出現 **32 位數字的 EID**，表示您的手機已準備好使用 eSIM。  
 3. **幾分鐘內啟用：** 旅行前掃描任何供應商（Roami、Airalo、Visible、Google Fi）提供的 QR 碼。抵達後開啟數據漫遊。  
 
-> **專業提示：** 即使 iPhone XR 較舊，其 eSIM 運作方式與最新 iPhone 完全相同 – 沒有速度或功能限制。
+> **專業提示：** 即使 iPhone XR 較舊，其 eSIM 運作方式與最新 iPhone 完全相同 – 沒有速度或功能限制。如果您正使用 iPhone 7 或 iPhone 8，請注意這兩款機型均不支援 eSIM（詳見下方表格）。
 
 ## 📱 iPhone XR eSIM 相容性表格
 
@@ -162,7 +162,6 @@ iPhone XR 從 **iOS 12.1 或更新版本**開始支援 eSIM。如果您多年未
 | **US Mobile** | ✅ 是 | 適用於他們的 Warp 5G 或 GSM eSIM |
 | **T-Mobile (美國)** | ✅ 是 | 支援透過 App 或 QR 碼啟用 eSIM |
 
-如果您搜尋 **「airalo 相容手機」** 或 **「visible esim 相容手機」** – 您的 iPhone XR 完全相容（只需更新到最新 iOS）。至於 **「verizon esim 相容性」**，只要 iPhone XR 是解鎖機或 Verizon 裝置，就支援。
 
 ## 📋 支援 eSIM 的 iPhone 列表（完整型號列表）
 
@@ -177,7 +176,10 @@ iPhone XR 從 **iOS 12.1 或更新版本**開始支援 eSIM。如果您多年未
 | iPhone 15, 15 Plus, 15 Pro, 15 Pro Max | ✅ 是 | 同 14 |
 | iPhone 16, 17 系列 | ✅ 是 | 部分地區僅 eSIM |
 
-**注意：** 在中國大陸銷售的 iPhone **沒有 eSIM**（香港/澳門少數型號除外）。iPhone 8、8 Plus、iPhone X (10) **不**支援 eSIM – 它們僅支援實體 SIM。
+**注意：** 
+- 在中國大陸銷售的 iPhone **沒有 eSIM**（香港/澳門少數型號除外）。
+- **iPhone 7、iPhone 7 Plus、iPhone 8、iPhone 8 Plus、iPhone X** 皆 **不支援 eSIM** – 它們僅支援實體 SIM。
+- **iPhone 9 從未上市**，因此不存在「iPhone 9 eSIM」的問題。若您曾搜尋「iphone 9 esim」，請忽略此關鍵字。
 
 ## ❌ 如果您的 iPhone XR 沒有顯示 EID 怎麼辦？
 
@@ -186,13 +188,13 @@ iPhone XR 缺少 eSIM 的唯一情況是購買自**中國大陸**（包括部分
 **您能做什麼？**
 
 - **使用實體旅行 SIM 卡** – Roami 和其他供應商仍提供全球寄送的實體 SIM 卡。  
-- **升級到較新的 iPhone** – [iPhone 11](/faq/iphone-11-esim-compatible/)、[iPhone SE](/faq/iphone-se-esim-compatible/) 或任何更新的型號都會給您 eSIM。  
+- **升級到較新的 iPhone** – [iPhone XR](/faq/iphone-xr-esim-compatible/)、[iPhone SE](/faq/iphone-se-esim-compatible/) 或任何更新的型號都會給您 eSIM。  
 - **確認您是否實際上擁有香港型號** – 部分香港 iPhone 支援雙卡雙待（實體 + eSIM）。再試一次 `*#06#`。如果看到 EID，就沒問題。  
 
 ## 🔗 相關頁面
 
 - [2026 年完整 eSIM 相容手機列表](/compatibility/)
-- [iPhone 11 eSIM 相容性](/faq/iphone-11-esim-compatible/)
+- [iPhone XR eSIM 相容性](/faq/iphone-xr-esim-compatible/)
 - [iPhone SE eSIM 相容性](/faq/iphone-se-esim-compatible/)
 - [Samsung S20 eSIM 相容性](/faq/samsung-s20-esim-compatible/)
 - [Google Pixel 6 eSIM 相容性](/faq/google-pixel-6-esim-compatible/)
@@ -226,4 +228,13 @@ iPhone XR 缺少 eSIM 的唯一情況是購買自**中國大陸**（包括部分
 
 #### iPhone 8 或 8 Plus 支援 eSIM 嗎？
 **不支援。** iPhone 8 和 8 Plus（2017 年）僅支援實體 SIM。它們不支援 eSIM。如果您在某處看到「iphone 8 esim 相容」，那是錯誤的。只有 iPhone XR 及更新機型（中國型號除外）才有 eSIM。
+
+#### iPhone 7 或 7 Plus 支援 eSIM 嗎？
+**不支援。** iPhone 7 系列（2016 年）完全沒有 eSIM 硬體，僅支援實體 nano‑SIM 卡。搜尋「iphone 7 esim」的用戶請留意：您無法在 iPhone 7 上使用任何 eSIM 功能。建議升級至 iPhone XR 或更新機型。
+
+#### iPhone 9 支援 eSIM 嗎？
+**iPhone 9 並不存在。** Apple 從未推出名為「iPhone 9」的型號，在 iPhone 8 之後直接推出 iPhone X（10）與 iPhone XR。因此沒有「iPhone 9 eSIM」這回事。若您曾看到相關資訊，請忽略。
+
+#### 如果我仍在使用 iPhone 7 或 iPhone 8，有什麼替代方案？
+您可以繼續使用實體 SIM 卡，或考慮購買 **實體旅行 SIM 卡**。許多供應商（包括 Roami）仍提供全球寄送的實體 SIM 卡。若想體驗 eSIM 的便利性，建議升級至 iPhone XR、iPhone SE（第2代）或更新的機型。
 ---
