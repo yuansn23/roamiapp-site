@@ -1,6 +1,6 @@
 ---
 title: "Hilfe-Center"
-date: '2026-05-23T00:00:00+00:00'
+date: '2026-05-26T00:00:00+00:00'
 description: "Antworten auf Ihre Fragen zur eSIM-Einrichtung, -Nutzung und zur Beantragung kostenloser eSIM-Testversionen für die USA, Großbritannien, Japan und globale Netze."
 outputs:
   - HTML
@@ -12,9 +12,9 @@ seo:
   keywords: "eSIM, Reise-eSIM, kostenlose eSIM, kostenlose eSIM-Testversion, kostenlose USA eSIM, kostenlose Japan eSIM, eSIM-Einrichtung, UK eSIM-Einrichtung, Hilfe-Center, Roami, 2026 eSIM-Leitfaden"
 
 hero:
-  title: "Hallo, wie können wir helfen?"
-  subtitle: "Durchsuchen Sie über 200+ Leitfäden zur eSIM-Einrichtung, Fehlerbehebung und kostenlosen Netztests weltweit."
-
+  title: "eSIM FAQs & Einrichtungsanleitung | Kostenlose Testversion & Kompatibilitätsprüfung"
+  subtitle: "Kompatibilitätsleitfaden für Telefone und Uhren, Anleitung zur kostenlosen globalen eSIM-Testversion und Fehlerbehebung für Reise-Internet."
+  
 breadcrumbs:
   home:
     text: "Startseite"

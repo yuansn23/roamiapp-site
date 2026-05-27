@@ -1,6 +1,6 @@
 ---
 title: "Help Center"
-date: '2026-05-23T00:00:00+00:00'
+date: '2026-05-26T00:00:00+00:00'
 description: "Find answers to your questions about eSIM setup, usage, and claim free eSIM trials for US, UK, Japan, and global networks."
 outputs:
   - HTML
@@ -10,11 +10,10 @@ seo:
   title: "Roami eSIM Frequently Asked Questions | Activation, Usage Guide"
   description: "Find step-by-step answers for eSIM setup, troubleshooting, and learn how to get free eSIM trials for USA, UK, Japan, China, and more. Instant support."
   keywords: "eSIM, travel eSIM, free eSIM, free eSIM trial, free USA eSIM, free Japan eSIM, eSIM setup, UK eSIM setup, help center, Roami, 2026 eSIM guide"
-
 hero:
-  title: "Hello, how can we help?"
-  subtitle: "Search over 200+ guides on eSIM setup, troubleshooting, and free network trials across the globe."
-
+  title: "eSIM FAQs & Setup Guide | Free Trial & Compatibility Check"
+  subtitle: "Phone & Watch Compatibility Guide, How to Claim Global Free eSIM Trials, and Travel Internet Troubleshooting."
+  
 breadcrumbs:
   home:
     text: "Home"

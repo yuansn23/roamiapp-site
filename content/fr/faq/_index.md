@@ -1,6 +1,6 @@
 ---
 title: "Centre d’aide"
-date: '2026-05-23T00:00:00+00:00'
+date: '2026-05-26T00:00:00+00:00'
 description: "Trouvez des réponses à vos questions sur la configuration, l’utilisation des eSIM et obtenez des essais gratuits d’eSIM pour les États‑Unis, le Royaume‑Uni, le Japon et les réseaux mondiaux."
 outputs:
   - HTML
@@ -12,8 +12,8 @@ seo:
   keywords: "eSIM, eSIM de voyage, eSIM gratuite, essai eSIM gratuit, eSIM gratuite USA, eSIM gratuite Japon, configuration eSIM, configuration eSIM Royaume-Uni, centre d’aide, Roami, guide eSIM 2026"
 
 hero:
-  title: "Bonjour, comment pouvons‑nous vous aider ?"
-  subtitle: "Parcourez plus de 200 guides sur la configuration des eSIM, le dépannage et les essais réseau gratuits dans le monde entier."
+  title: "FAQ eSIM et Guide d'installation | Essai gratuit & Vérification de compatibilité"
+  subtitle: "Guide de compatibilité pour téléphones et montres, comment obtenir un essai eSIM gratuit dans le monde, et dépannage Internet en voyage."
 
 breadcrumbs:
   home:

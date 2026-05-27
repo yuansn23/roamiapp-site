@@ -1,6 +1,6 @@
 ---
 title: "幫助中心"
-date: '2026-05-23T00:00:00+00:00'
+date: '2026-05-26T00:00:00+00:00'
 description: "尋找關於 eSIM 設定、使用以及領取美國、英國、日本和全球網路的免費 eSIM 試用等問題的答案。"
 outputs:
   - HTML
@@ -12,8 +12,8 @@ seo:
   keywords: "eSIM, 旅行 eSIM, 免費 eSIM, 免費 eSIM 試用, 免費美國 eSIM, 免費日本 eSIM, eSIM 設定, 英國 eSIM 設定, 幫助中心, Roami, 2026 eSIM 指南"
 
 hero:
-  title: "您好，我們能為您提供什麼協助？"
-  subtitle: "搜尋超過 200 篇關於 eSIM 設定、故障排除以及全球免費網路試用的指南。"
+  title: "eSIM 常見問題與設定教學｜免費試用、相容性檢查"
+  subtitle: "手機/手錶相容性指南、全球免費 eSIM 試用領取方法，以及旅行上網故障排除。"
 
 breadcrumbs:
   home:
@@ -170,20 +170,6 @@ related_products:
     is_highlight: false
 
 categories:
-  - name: "免費 eSIM 試用"
-    description: "了解如何領取免費 eSIM，在購買前測試美國、日本、英國和其他熱門目的地的網路覆蓋。"
-    icon: "gift"
-    questions:
-      - q: "我可以獲得美國旅行的免費 eSIM 試用嗎？"
-        expanded: true
-        snippet: "可以！您可以領取免費的美國 eSIM 試用，在購買完整數據方案前，測試我們在全美各地的 5G 網路覆蓋。完全免費試用。"
-        url: "/free-esim"
-      - q: "如何取得日本、英國或加拿大的免費 eSIM？"
-        snippet: "我們為日本、英國、加拿大、澳洲、德國、土耳其和中國等熱門目的地提供免費 eSIM 數據試用。只需前往我們的免費 eSIM 頁面即可領取。"
-        url: "/free-esim"
-      - q: "免費 eSIM 是真的免費嗎？我該如何啟用它？"
-        snippet: "絕對免費。我們為土耳其、中國和德國等國家提供的免費 eSIM 完全沒有隱藏費用。只需領取、掃描 QR 碼安裝，即可立即測試當地網路。"
-        url: "/free-esim"
   - name: "eSIM 相容性指南"
     description: "檢查您的手機是否支援 eSIM。提供 iPhone、Samsung、Google Pixel、Moto G Power 等裝置的詳細相容性資訊 – 包含區域版本和型號特定注意事項。"
     icon: "book-open"
