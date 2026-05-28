@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}" class="scroll-smooth"> 
+<html lang="{{ .Site.LanguageCode }}" class="scroll-smooth">
 
 <head>
     {{ partial "head.html" . }}
@@ -9,7 +9,7 @@
     
     <link href="/css/tailwind-compiled.css" rel="stylesheet">
     <style>
-        /* 原有样式全部保留，此处省略重复内容（实际使用时请保留完整样式） */
+        /* 原有样式全部保留 */
         .no-scrollbar::-webkit-scrollbar { display: none; }
         .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
         .custom-scrollbar::-webkit-scrollbar { width: 4px; }
@@ -102,6 +102,15 @@
             padding-right: 0.5rem;
             font-size: 0.875rem;
         }
+
+        /* 新增：国家推荐模块样式 */
+        .country-card {
+            transition: all 0.2s ease;
+        }
+        .country-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+        }
     </style>
 </head>
 <body class="bg-slate-50 text-slate-900 antialiased selection:bg-blue-200 selection:text-blue-900 relative">
@@ -175,6 +184,71 @@
         <!-- 分页控件容器（完全动态生成） -->
         <div id="pagination-container" class="flex justify-center mt-12"></div>
         <div id="pagination-stats" class="text-center text-sm text-slate-400 mt-4"></div>
+
+        <!-- ========= 新增：6个国家推荐模块（修复：强制电脑端6列） ========= -->
+        {{ if .Params.featured_products }}
+        <!-- ========= 新增：6个国家推荐模块（使用内联样式保证电脑端6列） ========= -->
+{{ if .Params.featured_products }}
+<!-- ========= 新增：6个国家推荐模块（链接格式：/{slug}-esim/，支持多语言） ========= -->
+{{ if .Params.featured_products }}
+<div class="mt-16 pt-8 border-t border-slate-200">
+   <h2 class="text-xl font-bold text-slate-900 mb-6 text-center">{{ i18n "popular_destinations" }}</h2>
+    <div class="country-grid">
+        {{ range .Params.featured_products }}
+        {{ $productSlug := .slug | default (urlize .name) }}
+        {{/* 构建链接：语言前缀 + slug + "-esim/" */}}
+        {{ $esimLink := printf "%s/%s-esim/" $.Site.LanguagePrefix $productSlug }}
+        <a href="{{ $esimLink }}" class="country-card group bg-white rounded-xl border border-slate-200 p-4 text-center hover:shadow-md transition hover:border-blue-300 block">
+            {{ if .flag }}
+            <img src="{{ .flag }}" alt="{{ .name }}" class="w-14 h-10 mx-auto mb-2 object-cover border border-slate-200 shadow-sm rounded">
+            {{ else }}
+            <div class="w-14 h-10 mx-auto mb-2 rounded bg-blue-100 flex items-center justify-center text-blue-600 font-bold text-lg border border-slate-200">
+                {{ substr .name 0 1 }}
+            </div>
+            {{ end }}
+            <div class="font-medium text-slate-800 text-sm">{{ .name }}</div>
+            {{ if .price }}
+            <div class="text-xs text-slate-500 mt-0.5">{{ .price }}</div>
+            {{ end }}
+        </a>
+        {{ end }}
+    </div>
+</div>
+
+<style>
+    .country-grid {
+        display: grid;
+        grid-template-columns: repeat(6, minmax(0, 1fr));
+        gap: 1rem;
+    }
+    @media (max-width: 768px) {
+        .country-grid {
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+        }
+    }
+    @media (max-width: 640px) {
+        .country-grid {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+    }
+</style>
+{{ end }}
+
+<!-- 添加响应式覆盖的样式（如果您的项目中已经允许，也可以放在head的style标签中） -->
+<style>
+    @media (max-width: 768px) {
+        .country-grid-fallback {
+            grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+        }
+    }
+    @media (max-width: 640px) {
+        .country-grid-fallback {
+            grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+        }
+    }
+</style>
+{{ end }}
+        {{ end }}
     </div>
 </section>
 

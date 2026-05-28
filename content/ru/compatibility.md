@@ -1,9 +1,9 @@
 ---
 title: "Список совместимых с eSIM устройств | 300+ телефонов (2026)"
-description: "Ваш телефон совместим с eSIM? Проверьте по нашему полному обновлённому списку устройств с поддержкой eSIM на 2026 год, включая iPhone, Samsung Galaxy, Google Pixel и другие. Узнайте, какие смартфоны поддерживают eSIM: от iPhone 17 Pro Max до Samsung Galaxy S25 и Xiaomi 15T Pro."
+description: "Какие устройства Apple поддерживают eSIM? Полный список на 2026: iPhone 17 Pro Max, iPad, Apple Watch, Samsung Galaxy S25, Google Pixel, Xiaomi 15T Pro и другие."
 keywords: "телефоны совместимые с eSIM, телефоны поддерживающие eSIM, мой телефон совместим с eSIM, совместимость iPhone с eSIM, телефоны Samsung с eSIM, устройства с поддержкой eSIM 2026, проверить совместимость eSIM, iphone 17 esim, samsung s25 esim, сколько esim, как подключить esim на айфон, esim какие, 17 pro max esim, esim samsung, galaxy esim"
 layout: "compatibility"
-date: '2026-05-25T00:00:00+00:00'
+date: '2026-05-27T00:00:00+00:00'
 type: "page"
 
 # Структурированные данные FAQ для SEO
@@ -530,19 +530,107 @@ brands:
   - name: "Другие бренды"
     icon: "more-horizontal"
     bg_color: "bg-slate-700"
-    description: "Проверьте вашу модель в списке ниже. Некоторые из этих брендов также поддерживают eSIM. Например, OnePlus, Nothing Phone, Realme — уточняйте совместимость по EID."
+    description: "Проверьте вашу модель в списке ниже. Некоторые из этих брендов также поддерживают eSIM. Например, OnePlus, Nothing Phone, Realme, ASUS — уточняйте совместимость по EID."
     groups:
       - devices:
-        - "<strong>Nokia:</strong> Nokia G60 5G, Nokia X30, Nokia XR21"
+        - "<strong>Nokia:</strong> Nokia G60 5G, Nokia X30, Nokia XR21, Nokia 8.3 5G, Nokia 7.2 (отдельные рынки), Nokia 6.2 (отдельные рынки)"
         - "<strong>Rakuten:</strong> Rakuten Big, Rakuten Big-S, Rakuten Mini, Rakuten Hand, Rakuten Hand 5G"
         - "<strong>Fairphone:</strong> Fairphone 6, Fairphone 5, Fairphone 4"
         - "<strong>Hammer:</strong> Hammer Explorer PRO, Hammer Blade 3, Hammer Blade 5G, Hammer myPhone NOW eSIM, Hammer myPhone Hammer Construction"
         - "<strong>T-Mobile:</strong> T-Mobile Revvl 7, T-Mobile Revvl 7 Pro"
         - "<strong>Nuu:</strong> Nuu X5"
         - "<strong>Surface:</strong> Surface Duo"
-        - "<strong>OnePlus:</strong> OnePlus 12, OnePlus 13 (региональные версии)"
-        - "<strong>Nothing:</strong> Nothing Phone (2), Nothing Phone (2a)"
-        - "<strong>Others:</strong> Gemini PDA 4G+Wi-Fi, Nothing Phone (3a) Pro, Realme 14 Pro+, ASUS Zenfone 12 Ultra, ZTE nubia Flip2, Alcatel V3 Ultra"
+        - "<strong>OnePlus:</strong> OnePlus 13, OnePlus 12, OnePlus 11, OnePlus 10 Pro, OnePlus 9 Pro, OnePlus 8 (T-Mobile), OnePlus 7 Pro (T-Mobile), OnePlus 6T (T-Mobile)"
+        - "<strong>ASUS:</strong> ASUS Zenfone 12 Ultra, Zenfone 11 Ultra, Zenfone 10, Zenfone 9, Zenfone 8, Zenfone 7 Pro, Zenfone 6 (регионально)"
+        - "<strong>Nothing:</strong> Nothing Phone (3a) Pro, Nothing Phone (2), Nothing Phone (2a)"
+        - "<strong>BlackBerry:</strong> BlackBerry Key2 LE (только модель BBE100-4) — другие модели BlackBerry eSIM не поддерживают"
+        - "<strong>Others:</strong> Gemini PDA 4G+Wi-Fi, Realme 14 Pro+, Realme GT 5G (отдельные версии), ZTE nubia Flip2, Alcatel V3 Ultra"
+
+  - name: "Часы с eSIM (Smartwatches)"
+    icon: "watch"
+    bg_color: "bg-sky-600"
+    description: "Многие современные умные часы поддерживают eSIM для звонков и мобильного интернета без телефона. Проверьте вашу модель в списке ниже."
+    groups:
+      - sub_title: "Apple Watch"
+        devices:
+          - "Apple Watch Series 10 (GPS + Cellular)"
+          - "Apple Watch Ultra 2"
+          - "Apple Watch Series 9"
+          - "Apple Watch SE 2"
+          - "Apple Watch Series 8"
+          - "Apple Watch Ultra"
+          - "Apple Watch Series 7"
+          - "Apple Watch SE"
+          - "Apple Watch Series 6"
+          - "Apple Watch Series 5"
+          - "Apple Watch Series 4"
+          - "Apple Watch Series 3 (Cellular)"
+      - sub_title: "Samsung Galaxy Watch"
+        devices:
+          - "Samsung Galaxy Watch 7"
+          - "Samsung Galaxy Watch Ultra"
+          - "Samsung Galaxy Watch 6 Classic"
+          - "Samsung Galaxy Watch 6"
+          - "Samsung Galaxy Watch 5 Pro"
+          - "Samsung Galaxy Watch 5"
+          - "Samsung Galaxy Watch 4 Classic"
+          - "Samsung Galaxy Watch 4"
+          - "Samsung Galaxy Watch 3 (LTE)"
+          - "Samsung Galaxy Watch Active 2 (LTE)"
+          - "Samsung Gear S3 Frontier (LTE)"
+          - "Samsung Gear S3 Classic (LTE)"
+      - sub_title: "Другие бренды"
+        devices:
+          - "Google Pixel Watch 3"
+          - "Google Pixel Watch 2"
+          - "Google Pixel Watch"
+          - "Garmin Venu 3 (LTE)"
+          - "Garmin Forerunner 965 (LTE)"
+          - "Garmin Fenix 8 (LTE)"
+          - "Huawei Watch 4 Pro"
+          - "Huawei Watch 3 Pro"
+          - "Xiaomi Watch 2 Pro (LTE)"
+          - "Xiaomi Mi Watch (eSIM)"
+
+  - name: "Планшеты с eSIM (Tablets)"
+    icon: "tablet"
+    bg_color: "bg-indigo-500"
+    description: "iPad и некоторые Android-планшеты поддерживают eSIM для мобильного интернета в поездках."
+    groups:
+      - sub_title: "Apple iPad"
+        devices:
+          - "iPad Pro 13-inch (M4, Wi-Fi + Cellular)"
+          - "iPad Pro 11-inch (M4, Wi-Fi + Cellular)"
+          - "iPad Air 13-inch (M2, Wi-Fi + Cellular)"
+          - "iPad Air 11-inch (M2, Wi-Fi + Cellular)"
+          - "iPad (10th generation, Wi-Fi + Cellular)"
+          - "iPad (A16, 11th gen, Wi-Fi + Cellular)"
+          - "iPad Pro 12.9-inch (6th gen, Wi-Fi + Cellular)"
+          - "iPad Pro 11-inch (4th gen, Wi-Fi + Cellular)"
+          - "iPad Air (5th gen, Wi-Fi + Cellular)"
+          - "iPad mini (6th gen, Wi-Fi + Cellular)"
+          - "iPad (9th gen, Wi-Fi + Cellular)"
+          - "iPad Pro 12.9-inch (5th gen, Wi-Fi + Cellular)"
+          - "iPad Pro 11-inch (3rd gen, Wi-Fi + Cellular)"
+          - "iPad Pro 12.9-inch (4th gen, Wi-Fi + Cellular)"
+          - "iPad Pro 11-inch (2nd gen, Wi-Fi + Cellular)"
+          - "iPad Pro 12.9-inch (3rd gen, Wi-Fi + Cellular)"
+          - "iPad Pro 11-inch (1st gen, Wi-Fi + Cellular)"
+          - "iPad Pro 10.5-inch (Wi-Fi + Cellular)"
+          - "iPad Pro 12.9-inch (2nd gen, Wi-Fi + Cellular)"
+      - sub_title: "Android планшеты"
+        devices:
+          - "Samsung Galaxy Tab S10 Ultra (5G)"
+          - "Samsung Galaxy Tab S10+ (5G)"
+          - "Samsung Galaxy Tab S9 Ultra (5G)"
+          - "Samsung Galaxy Tab S9+ (5G)"
+          - "Samsung Galaxy Tab S9 (5G)"
+          - "Samsung Galaxy Tab S8 Ultra (5G)"
+          - "Samsung Galaxy Tab S8+ (5G)"
+          - "Samsung Galaxy Tab S8 (5G)"
+          - "Lenovo Tab P12 Pro (5G)"
+          - "Huawei MatePad Pro 13.2 (2025, eSIM)"
+          - "Huawei MatePad Pro 11 (2024, 5G)"
 
 # ==================== Дополнительные SEO-поля ====================
 
@@ -561,7 +649,7 @@ quick_questions:
     - text: "🔢 Как узнать EID (код eSIM) на телефоне?"
       anchor: "faq-check-eid"
     - text: "📱 Какие телефоны Samsung поддерживают eSIM?"
-      anchor: "faq-samsung-esim"   # добавлен новый вопрос
+      anchor: "faq-samsung-esim"
 
 # Расширенные FAQ для покрытия длиннохвостых запросов
 extended_faq:
@@ -583,10 +671,10 @@ extended_faq:
   - question: "Что делать, если моего телефона нет в списке?"
     answer: "Попробуйте набрать *#06# – если видите EID, телефон поддерживает eSIM. Или установите наш бесплатный пробный eSIM – он сам проверит совместимость. Также вы можете поискать модель в нашем расширенном списке телефонов с eSIM."
     anchor: "faq-check-eid"
-  - question: "Какие телефоны Samsung поддерживают eSIM?"   # новый вопрос
+  - question: "Какие телефоны Samsung поддерживают eSIM?"
     answer: "Почти все флагманы Samsung, начиная с Galaxy S20, а также складные Z Flip и Z Fold (начиная с Z Flip 5G и Z Fold2). Серия A: A54, A55, A35 и новее. Проверьте ваш Samsung Galaxy в списке совместимости выше."
     anchor: "faq-samsung-esim"
-  - question: "Что такое физическая eSIM и есть ли она?"   # новый вопрос, покрывает "физическая esim"
+  - question: "Что такое физическая eSIM и есть ли она?"
     answer: "Физической eSIM не существует — eSIM всегда встроена в телефон. Некоторые путают её с физической SIM-картой, но eSIM — это чип, впаянный в материнскую плату. Вы не можете её потрогать или переставить в другой телефон."
     anchor: "faq-physical-esim"
 ---

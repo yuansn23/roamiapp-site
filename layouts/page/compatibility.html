@@ -133,26 +133,23 @@
     </header>
 
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <!-- ========= 新增：品牌快速导航栏（Tab切换效果） ========= -->
-        {{ if .Params.brands }}
-        <div class="mb-8 bg-white rounded-xl border border-slate-200 shadow-sm overflow-hidden">
-            <div class="bg-gradient-to-r from-slate-50 to-white px-4 py-3 border-b border-slate-100">
-            
-            </div>
-            <div class="brand-tabs-container px-3 py-3 overflow-x-auto flex flex-nowrap gap-2" style="scrollbar-width: thin;">
-                <div class="flex items-center gap-2">
-   
-</div>
-                {{ range .Params.brands }}
-                {{ $brandSlug := .name | urlize }}
-                <button class="brand-tab-btn flex-shrink-0 bg-white hover:bg-blue-50 text-slate-700 border border-slate-200 px-4 py-2 rounded-full text-xs font-medium transition-all" data-brand-target="brand-{{ $brandSlug }}">
-                    {{ if .icon }}<i data-lucide="{{ .icon }}" class="inline w-3.5 h-3.5 mr-1 -mt-0.5"></i>{{ end }}
-                    {{ .name }}
-                </button>
-                {{ end }}
-            </div>
-        </div>
+      <!-- ========= 新增：品牌快速导航栏（Tab切换效果） ========= -->
+{{ if .Params.brands }}
+<div class="mb-8 bg-white rounded-xl border border-slate-200 shadow-sm overflow-hidden">
+    <div class="bg-gradient-to-r from-slate-50 to-white px-4 py-3 border-b border-slate-100">
+    </div>
+    <div class="brand-tabs-container px-3 py-3 flex flex-wrap gap-2">
+        <!-- 删除了 overflow-x-auto 和 flex-nowrap，改为 flex-wrap -->
+        {{ range .Params.brands }}
+        {{ $brandSlug := .name | urlize }}
+        <button class="brand-tab-btn flex-shrink-0 bg-white hover:bg-blue-50 text-slate-700 border border-slate-200 px-4 py-2 rounded-full text-xs font-medium transition-all" data-brand-target="brand-{{ $brandSlug }}">
+            {{ if .icon }}<i data-lucide="{{ .icon }}" class="inline w-3.5 h-3.5 mr-1 -mt-0.5"></i>{{ end }}
+            {{ .name }}
+        </button>
         {{ end }}
+    </div>
+</div>
+{{ end }}
         
         <div class="flex flex-col lg:flex-row gap-8">
             

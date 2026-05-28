@@ -1,9 +1,9 @@
 ---
-title: "eSIM на Android 2026: полный список совместимых смартфонов"
+title: "Список смартфонов с поддержкой eSIM (Android) на 2026 год"
 description: "Гид по eSIM на Android 2026: список смартфонов Xiaomi, Huawei, Pixel, OnePlus и других. Как проверить поддержку через *#06#, активировать, перенести eSIM. Бесплатный пробный eSIM внутри."
 keywords: ["android esim 2026", "xiaomi 14t pro esim", "xiaomi 15t pro esim", "redmi note 11 pro 5g esim", "realme 12 pro plus esim", "huawei p60 pro esim", "honor magic 6 pro esim", "google pixel 8 esim", "oppo find x7 pro esim", "vivo x100 pro esim", "oneplus 12 esim", "как узнать поддерживает ли телефон esim", "активация esim на андроид", "esim не работает андроид", "сколько esim можно хранить на андроид", "перенести esim на новый телефон", "лучший eSIM для путешествий андроид", "tecno esim", "infinix esim", "motorola esim", "nothing esim", "sony xperia esim", "nubia esim", "zte esim", "asus esim"]
-date: 2026-05-24T10:00:00Z
-lastmod: 2026-05-24T10:00:00Z
+date: 2026-05-27T10:00:00Z
+lastmod: 2026-05-27T10:00:00Z
 tags: ["Android", "eSIM", "Совместимость", "Xiaomi", "Realme", "Huawei", "Honor", "Google Pixel", "Oppo", "Vivo", "OnePlus", "Tecno", "Infinix", "Motorola", "Nothing", "Sony", "ZTE", "Nubia", "Asus"]
 toc: true
 
@@ -93,7 +93,7 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-## 📚 Другие полезные руководства по eSIM
+## Другие полезные руководства по eSIM
 - [Полный список всех телефонов с eSIM(2026)](/compatibility/)
 - [Dual SIM, eSIM и физические адаптеры: полное руководство](/faq/dual-sim-esim-nano-adapter-guide/)
 - [Что такое eSIM – полное объяснение для начинающих](/faq/what-is-esim/)
@@ -118,6 +118,7 @@ sidebar_questions:
 - **Oppo и Vivo** (только глобальные флагманы)
 - **OnePlus** (начиная с 11-й серии)
 - **Другие бренды:** Tecno, Infinix, Motorola, Nothing, Sony, ZTE, Nubia, Asus
+- **Отдельный раздел для старых моделей** (Samsung, Xiaomi, Pixel, Huawei, OnePlus и другие), которые часто ищут пользователи.
 
 Также вы узнаете, как активировать eSIM, что делать при ошибках, как перенести eSIM на новый телефон, сколько eSIM можно хранить, и получите **бесплатный пробный eSIM от Roami** для проверки совместимости.
 
@@ -125,7 +126,40 @@ sidebar_questions:
 
 ---
 
-## 📱 Сводная таблица: какие Android-смартфоны поддерживают eSIM в 2026 году
+## Быстрый ответ: какие телефоны поддерживают eSIM? (esim compatible phones, телефоны с esim)
+
+Если у вас нет времени читать всю статью, вот краткий ответ на самые частые запросы:
+
+**Какие телефоны поддерживают eSIM (phones with esim, esim supported devices)?**  
+Почти все флагманские Android-смартфоны 2021–2026 годов (кроме китайских версий). Самый простой способ **узнать, есть ли eSIM на телефоне** – набрать `*#06#`. Появление 32-значного EID означает, что ваше **устройство с eSIM** совместимо.
+
+**Какие смартфоны с поддержкой eSIM (smartphones with esim, android esim devices) самые популярные?**  
+- Google Pixel 3–9 (все, кроме Pixel 2 и старше)
+- Samsung Galaxy S21–S25, Note 20, Z Fold/Z Flip (начиная с 2021)
+- Xiaomi 13T/14T/15T Pro (глобальные версии)
+- Huawei P40/P50/P60 Pro, Mate 40/50/60 Pro (глобальные)
+- OnePlus 11/12/13 (глобальные)
+- Oppo Find X5/X6/X7 Pro, Vivo X80/X90/X100 Pro (глобальные)
+
+**Телефоны с поддержкой eSIM (телефоны поддерживающие esim) – каких моделей стоит избегать?**  
+- Любые китайские версии (прошивка с CN)
+- Старые Samsung S8/S9/S10/Note 9/Note 10
+- Все Xiaomi без буквы T (кроме глобальных 13/14 Pro)
+- Huawei с китайской прошивкой (HarmonyOS)
+- Бюджетные серии Redmi, Poco, Realme C, Tecno Spark, Infinix Hot
+
+**Как проверить поддержку eSIM (как узнать поддерживает ли телефон esim, как проверить есть ли esim на телефоне)?**  
+Только один надёжный способ – код `*#06#`. Если видите EID (32 символа) – телефон **поддерживает eSIM**. Если только IMEI – нет. Также можно зайти в **Настройки → Сеть и Интернет → Менеджер SIM-карт** – наличие пункта «Добавить eSIM» подтверждает поддержку.
+
+**Какие телефоны поддерживают eSIM в России (какие телефоны поддерживают esim в россии)?**  
+Те же, что и во всём мире. Российские операторы (МТС, Билайн, МегаФон, Tele2) предоставляют eSIM для всех глобальных моделей. Китайские версии не работают.
+
+**Список телефонов, поддерживающих eSIM (список телефонов поддерживающих esim), полный перечень:**  
+Ниже в статье представлены подробные таблицы по каждому бренду. Самый актуальный **esim phones list** на 2026 год включает: Google Pixel 3–9, Samsung Galaxy S21–S25, Xiaomi 13T/14T/15T Pro, OnePlus 11/12/13, Huawei P40–P60 Pro, Oppo Find X5–X7, Vivo X80–X100, Honor Magic 4–6, а также Tecno Camon 40, Infinix Note 30, Motorola razr, Nothing Phone (1–3a), Sony Xperia 1 VI/5 V, Asus ROG Phone 8/9, ZTE Axon 50/60 Ultra.
+
+---
+
+## Сводная таблица: какие Android-смартфоны поддерживают eSIM в 2026 году
 
 ### 1. Xiaomi, Redmi, Poco и Realme
 
@@ -138,14 +172,14 @@ sidebar_questions:
 | **Xiaomi 13T Pro / 13T (Global)** | ✅ Да | Надёжный выбор |
 | **Xiaomi 12T Pro (Global)** | ✅ Да | |
 | **Xiaomi 14 / 14 Pro (Global)** | ✅ Да | Только глобальная версия |
+| **Xiaomi 13 / 13 Pro (Global)** | ✅ Да | |
 | **Redmi Note 11 Pro 5G (India/Global)** | ✅ Да | Единственный Redmi с eSIM |
 | **Realme 12 Pro+ (Global)** | ✅ Да | **realme 12 pro plus esim** |
 | **Realme 14 Pro+ (Global)** | ✅ Да | Новинка 2026 |
 | **Realme GT 5G (Global, EU/IN)** | ⚠️ Ограниченно | Проверить по EID |
 | **Realme GT 2 Pro (Global)** | ⚠️ Ограниченно | |
 | **Все остальные Xiaomi, Redmi, Poco, Realme** | ❌ Нет | Redmi Note 13/14 Pro, Poco F8, Realme C-серия и т.д. |
-
-> **Ключевые запросы:** `xiaomi 13t pro esim` ✅, `xiaomi 14t pro esim` ✅, `redmi note 13 pro esim` ❌, `poco esim` ❌, `realme 11 pro esim` ❌.
+ 
 
 ### 2. Huawei и Honor (глобальные версии)
 
@@ -173,14 +207,13 @@ sidebar_questions:
 | Pixel 7 / 7a / 7 Pro | ✅ Да | Две активные eSIM |
 | Pixel 6 / 6a / 6 Pro | ✅ Да | |
 | Pixel 5 / 5a | ✅ Да | |
-| Pixel 4 / 4a / 4 XL | ✅ Да | |
-| Pixel 3a / 3a XL | ✅ Да | |
-| Pixel 3 / 3 XL | ⚠️ Ограниченно | Только США, Япония |
-| Pixel 2 и старше | ❌ Нет | |
+| Pixel 4 / 4a / 4 XL | ✅ Да | **pixel 4 esim** – работает |
+| Pixel 3a / 3a XL | ✅ Да | **google pixel 3 esim** – только версии для США/Японии |
+| Pixel 3 / 3 XL | ⚠️ Ограниченно | **google pixel 3 esim** – только США, Япония |
+| Pixel 2 и старше | ❌ Нет | **google pixel 2 esim** – не поддерживает |
+| Pixel 1 | ❌ Нет | |
 
 > **Google pixel esim** – работает с любым оператором, включая Roami.
-
-Актуальный список всех устройств на Android с eSIM вы найдёте в статье **[Какие Android-смартфоны поддерживают eSIM – список 2026](/faq/android-esim-compatibility-guide-2026/)**. Для владельцев Samsung есть отдельный гид **[Поддержка eSIM на Samsung Galaxy S25, S24, S23 – все модели](/faq/samsung-s25-s24-s23-esim-support-colors-storage/)**.
 
 ### 4. Oppo, Vivo и OnePlus – только глобальные флагманы
 
@@ -205,20 +238,49 @@ sidebar_questions:
 
 | Бренд | Модели с eSIM | Примечание |
 |-------|---------------|-------------|
-| **Tecno** | Tecno Camon 40, Camon 40 Pro, Pova 7 (избранные глобальные версии) | **tecno esim** встречается только в свежих моделях. Проверяйте: **tecno camon 40 esim** и **tecno camon 40 pro esim** обычно работают. **tecno pova esim** – только у **tecno pova 7 esim**. **tecno spark esim** – нет. |
-| **Infinix** | Infinix Note 30 (Global), Note 40 Pro (отдельные партии) | **infinix esim** поддерживается редко. Запрос **infinix note 30 esim** – да, но только глобальная версия. **infinix поддерживает esim**? – только указанные модели. |
-| **Motorola** | Motorola razr 40/50 (складные), Moto G100 (ограниченно) | **motorola esim** есть в складных **motorola razr esim**. Большинство G-серии не поддерживают. |
+| **Tecno** | Tecno Camon 40, Camon 40 Pro, Pova 7 (избранные глобальные версии) | **tecno esim** встречается только в свежих моделях. **tecno camon 40 esim** и **tecno camon 40 pro esim** обычно работают. **tecno pova 7 esim** – ограниченно. |
+| **Infinix** | Infinix Note 30 (Global), Note 40 Pro (отдельные партии) | **infinix esim** поддерживается редко. **infinix note 30 esim** – да, только глобальная версия. |
+| **Motorola** | Motorola razr 40/50 (складные), Moto G100 (ограниченно) | **motorola esim** есть в складных **motorola razr esim**. Большинство G-серии не поддерживают. **moto x4 esim** – нет. |
 | **Nothing** | Nothing Phone (3a), Nothing Phone (2), Nothing Phone (1) – только глобал | **nothing esim** работает на **nothing phone esim**. **nothing 3a esim** / **nothing phone 3a esim** – подтверждено. |
-| **Sony** | Sony Xperia 1 VI, Xperia 5 V (Global) | **sony esim** – да, начиная с Xperia 1 V. **sony xperia esim** – проверяйте регион. **sony xperia 1 esim** (VI и V) – работают. |
+| **Sony** | Sony Xperia 1 VI, Xperia 5 V (Global) | **sony esim** – да, начиная с Xperia 1 V. **sony xperia esim** – проверяйте регион. |
 | **ZTE** | ZTE Axon 50/60 Ultra (Global) | **zte esim** – крайне редко, только топ-модели. |
 | **Nubia** | Nubia Red Magic 9/10 Pro (Global) | **nubia esim** – единичные игровые модели. |
-| **Asus** | Asus ROG Phone 8/9, Zenfone 11 Ultra (Global) | **asus esim** – на флагманских ROG и Zenfone. |
-
-> **Важно:** Для всех перечисленных выше брендов китайские версии почти всегда **не имеют eSIM**. Всегда проверяйте наличие EID через `*#06#`.
+| **Asus** | Asus ROG Phone 8/9, Zenfone 11 Ultra (Global) | **asus esim** – на флагманских ROG и Zenfone. **asus zenfone 6 esim** – нет. |
 
 ---
 
-## 🔍 Как проверить, есть ли eSIM на вашем Android – 100% метод
+## Старые модели: поддержка eSIM на Samsung, Xiaomi, Pixel, Huawei, OnePlus и других (частые запросы)
+
+Многие пользователи ищут информацию о поддержке eSIM на старых и среднебюджетных моделях. Ниже приведён список наиболее популярных запросов с пояснениями. **В большинстве случаев старые телефоны не поддерживают eSIM**, исключения единичны.
+
+| Модель | eSIM | Примечание |
+|--------|------|-------------|
+| **Samsung Galaxy S20** | ⚠️ Ограниченно | **samsung galaxy s20 esim** – только глобальные версии (Exynos), некоторые регионы (США) могут не иметь. Проверить по EID. |
+| **Samsung Galaxy S10 / S10e / S10+** | ❌ Нет | **samsung s10 esim** – нет. Даже **esim samsung s10e** – не поддерживает. |
+| **Samsung Galaxy S9 / S9+** | ❌ Нет | **samsung s9 plus esim** – нет. **esim samsung s9** – нет. |
+| **Samsung Galaxy S8 / S8+** | ❌ Нет | **samsung galaxy s8 esim** – нет. **samsung s8 esim** – нет. |
+| **Samsung Galaxy Note 10 / Note 10+** | ❌ Нет | **samsung note 10 esim** – нет. |
+| **Samsung Galaxy Note 9** | ❌ Нет | **samsung galaxy note 9 esim** – нет. |
+| **Samsung Galaxy Fold (1-го поколения)** | ❌ Нет | **samsung fold esim** – нет. |
+| **Samsung Galaxy A-серия (A50, A70, A8, A7)** | ❌ Нет | **esim samsung a50**, **esim samsung a70**, **esim samsung a8**, **samsung galaxy a7 esim** – нет. |
+| **Xiaomi Mi 9 / Mi 9T / Mi 9 Lite / Mi 9T Pro** | ❌ Нет | **xiaomi mi 9 esim**, **xiaomi mi 9t esim**, **xiaomi mi 9 lite esim**, **esim xiaomi mi 9t pro** – нет. |
+| **Xiaomi Mi 8 / Mi Mix 2S** | ❌ Нет | **xiaomi mi 8 esim**, **xiaomi mi mix 2s esim** – нет. |
+| **Xiaomi Redmi Note 7 / Note 8 Pro** | ❌ Нет | **redmi note 7 поддержка esim** – нет. **redmi note 8 pro esim** – нет. |
+| **Huawei P30 Pro** | ❌ Нет | **huawei p30 pro esim** – нет. |
+| **Huawei Mate 20 Pro** | ❌ Нет | **huawei mate 20 pro esim** – нет. |
+| **OnePlus 7 Pro / 7** | ❌ Нет | **oneplus 7 pro esim** – нет. |
+| **OnePlus 6T** | ❌ Нет | **oneplus 6t esim** – нет. |
+| **Google Pixel 2 / 2 XL** | ❌ Нет | **google pixel 2 esim** – нет. |
+| **LG (любые модели)** | ❌ Нет | **lg esim** – нет, LG не выпускала телефоны с eSIM. |
+| **BlackBerry Key2** | ❌ Нет | **blackberry key2 esim** – нет. |
+
+> **Важно:** Для Samsung все современные модели (начиная с S21, Note 20, Z Fold 3) уже имеют eSIM, но они не включены в этот список старой техники. Полный список Samsung с eSIM смотрите в отдельном гиде **[Поддержка eSIM на Samsung Galaxy S25, S24, S23 – все модели](/faq/samsung-s25-s24-s23-esim-support-colors-storage/)**. Запросы **esim самсунг**, **esim телефоны xiaomi**, **смартфоны с поддержкой esim** также покрываются этим разделом.
+
+**Как узнать, поддерживает ли ваш старый телефон eSIM?** Единственный надёжный способ – набрать `*#06#`. Появление EID означает, что производитель добавил чип. Без EID – не тратьте деньги на eSIM-тарифы.
+
+---
+
+## Как проверить, есть ли eSIM на вашем Android – 100% метод
 
 **Наберите `*#06#` в приложении «Телефон».** Это стандартный код для отображения уникальных идентификаторов.
 
@@ -230,11 +292,9 @@ sidebar_questions:
 **Дополнительная проверка в настройках:**
 - **Настройки → Подключения (или Сеть и Интернет) → Менеджер SIM-карт** – ищите пункт «Добавить eSIM» или «Загрузить eSIM». Наличие этого пункта тоже подтверждает поддержку.
 
-Полный список совместимых моделей (включая цвета и объёмы памяти) представлен в специализированных гайдах для **[iPhone](/faq/iphone-esim-compatibility-guide-2026/)** и **[Samsung](/faq/samsung-s25-s24-s23-esim-support-colors-storage/)**.
-
 ---
 
-## 📲 Пошаговая активация eSIM на Android (для всех брендов)
+## Пошаговая активация eSIM на Android (для всех брендов)
 
 Процесс почти одинаков на всех телефонах. Различия только в названиях пунктов меню.
 
@@ -253,11 +313,9 @@ sidebar_questions:
 
 > 💡 **Совет:** Активацию делайте дома по Wi-Fi – так процесс проходит без ошибок.
 
-Подробная инструкция для iPhone доступна в статье **[Как активировать eSIM на iPhone – пошаговая инструкция](/faq/how-to-activate-esim-on-iphone/)** (на Android действия аналогичны).
-
 ---
 
-## 🔄 Как перенести eSIM на новый Android-телефон
+## Как перенести eSIM на новый Android-телефон
 
 Перенос – не всегда тривиален, потому что eSIM «привязана» к конкретному чипу. Есть два способа:
 
@@ -271,11 +329,9 @@ sidebar_questions:
 
 > **Важно:** Некоторые операторы позволяют активировать eSIM только один раз. Если QR-код не работает, напишите в поддержку провайдера – вам вышлют новый.
 
-Если вы используете физические адаптеры eSIM или хотите узнать о двух активных eSIM, обратитесь к руководству **[Dual SIM, eSIM и физические адаптеры: полное руководство](/faq/dual-sim-esim-nano-adapter-guide/)**.
-
 ---
 
-## ❌ Частые проблемы с eSIM на Android и их решение
+## Частые проблемы с eSIM на Android и их решение
 
 | Проблема | Почему возникает | Что делать |
 |----------|------------------|-------------|
@@ -285,11 +341,9 @@ sidebar_questions:
 | **Не приходят SMS на eSIM** | Это data-only eSIM (только интернет) | Тарифы Roami для путешествий – только данные. Для SMS нужен голосовой тариф у обычного оператора. |
 | **eSIM перестала работать после обновления** | Редкий бай прошивки | Удалите eSIM и добавьте заново (потребуется повторный QR-код). |
 
-Если у вас возникают проблемы на других устройствах (часы, планшеты, роутеры), изучите гид **[eSIM на часах, iPad, роутерах и адаптерах – гид 2026](/faq/esim-watch-ipad-router-adapter-2026/)**.
-
 ---
 
-## 📊 Сравнение: сколько eSIM можно хранить и использовать одновременно
+## Сравнение: сколько eSIM можно хранить и использовать одновременно
 
 | Бренд / Модель | Максимум хранимых eSIM | Одновременно активных |
 |----------------|------------------------|-----------------------|
@@ -302,14 +356,14 @@ sidebar_questions:
 | Huawei P60 Pro | До 5 | 1 eSIM + 1 физическая |
 | Honor Magic 6 Pro | До 5 | 1 eSIM + 1 физическая |
 | Nothing Phone (3a) | До 5 | 1 eSIM + 1 физическая |
-| Motorola razr (складные) | До 5 | 1 eSIM + 1 физическая |
+| Motorola razr | До 5 | 1 eSIM + 1 физическая |
 | Sony Xperia 1 VI | До 5 | 1 eSIM + 1 физическая |
 
 > **Большинство Android** (кроме новых Pixel и топовых Xiaomi) поддерживают **только одну активную eSIM плюс одну физическую SIM**. Для путешествий этого достаточно: физическая SIM остаётся для звонков, eSIM для интернета.
 
 ---
 
-## 🇷🇺 Работает ли eSIM на Android в России с российскими операторами?
+## Работает ли eSIM на Android в России с российскими операторами?
 
 **Да**, все российские операторы предоставляют eSIM для поддерживаемых Android-устройств. Особенности:
 
@@ -325,7 +379,7 @@ sidebar_questions:
 
 ---
 
-## ✈️ Лучшие туристические eSIM для Android – только Roami
+## Лучшие туристические eSIM для Android – только Roami
 
 Мы не упоминаем конкурентов, потому что рекомендуем **Roami** – надёжного провайдера с покрытием более 150 стран.
 
@@ -342,7 +396,7 @@ sidebar_questions:
 
 ---
 
-## ❓ Расширенный FAQ (20+ вопросов)
+## Расширенный FAQ (с учётом популярных запросов)
 
 #### 1. Можно ли использовать eSIM на Android без сканирования QR-кода?
 Да. В настройках активации выберите «Ввести данные вручную» и введите SM-DP+ адрес и код активации (обычно их присылает провайдер).
@@ -411,7 +465,7 @@ EID (eUICC ID) – уникальный идентификатор чипа eSIM
 **Tecno Camon 40** и **Tecno Camon 40 Pro** – да, при условии глобальной версии. **Tecno Pova 7** – ограниченно, только отдельные партии. Всегда проверяйте через `*#06#`.
 
 #### 22. На каких телефонах Infinix есть eSIM?
-**Infinix Note 30** (глобал) поддерживает. Более старые модели и бюджетные серии – нет. Перед покупкой уточняйте: **infinix поддерживает esim** только в топовых Note.
+**Infinix Note 30** (глобал) поддерживает. Более старые модели и бюджетные серии – нет.
 
 #### 23. Работает ли eSIM на Motorola razr?
 Да, **motorola razr esim** работает на всех глобальных версиях складных моделей razr 40, 50. Обычные Moto G – нет.
@@ -425,16 +479,28 @@ EID (eUICC ID) – уникальный идентификатор чипа eSIM
 #### 26. Asus ROG Phone 8 – eSIM есть?
 Да, **asus esim** доступна на ROG Phone 8 и 9, а также на Zenfone 11 Ultra (глобал).
 
+#### 27. Какие телефоны поддерживают eSIM из старых моделей (Samsung, Xiaomi, Huawei)?
+Практически никакие. Исключения: некоторые глобальные версии Samsung S20 (выборочно), Google Pixel 3 (только США/Япония), Xiaomi T-серия. Все остальные – нет. Смотрите таблицу в разделе «Старые модели».
+
+#### 28. Что означает `на каких телефонах работает esim`?
+Это общий запрос, ответ на который даёт вся наша статья. Кратко: на любом современном Android с EID (проверить `*#06#`). Самый простой способ – установить бесплатный пробный Roami.
+
+#### 29. Есть ли у Samsung eSIM на A-серии (A50, A70, A8)?
+Нет. **esim samsung a50**, **esim samsung a70**, **esim samsung a8** – не поддерживают.
+
+#### 30. Поддерживает ли Redmi Note 7 eSIM?
+Нет. **redmi note 7 поддержка esim** – отсутствует.
+
 ---
 
-## 📌 Итог: как выбрать Android-телефон для использования eSIM
+## Итог: как выбрать Android-телефон для использования eSIM
 
 Если вы планируете покупать новый смартфон и хотите иметь возможность использовать туристические eSIM (Roami и другие), вот краткие рекомендации:
 
 - **Лучший выбор:** **Google Pixel 8/9** или **Xiaomi 14T Pro / 15T Pro** – полная поддержка, две активные eSIM, глобальная версия.
 - **Хороший бюджетный вариант:** б/у **Google Pixel 5** или **OnePlus 11** – eSIM есть, цены ниже.
 - **Средний сегмент с eSIM:** **Nothing Phone (3a)**, **Motorola razr 40** (складной), **Tecno Camon 40 Pro**, **Sony Xperia 5 V** – проверяйте регион.
-- **Избегайте:** любых телефонов из Китая (даже флагманов), а также Redmi, Poco, Realme C-серию, Huawei с китайской прошивкой, Tecno Spark, Infinix Hot.
+- **Избегайте:** любых телефонов из Китая (даже флагманов), а также Redmi, Poco, Realme C-серию, Huawei с китайской прошивкой, Tecno Spark, Infinix Hot, **все старые модели Samsung S8/S9/S10/Note 9/10, Xiaomi Mi 8/9, Huawei P30 Pro**.
 - **Всегда проверяйте через `*#06#` перед покупкой eSIM.** EID = можно покупать.
 
 **Самый простой способ убедиться – установить бесплатный пробный eSIM от Roami.** Если активация прошла успешно – ваш телефон идеально подходит для путешествий с eSIM.
@@ -443,7 +509,7 @@ EID (eUICC ID) – уникальный идентификатор чипа eSIM
 
 ---
 
-## 📚 Другие полезные руководства по eSIM
+## Другие полезные руководства по eSIM
 - [Полный список всех телефонов с eSIM(2026)](/compatibility/)
 - [Dual SIM, eSIM и физические адаптеры: полное руководство](/faq/dual-sim-esim-nano-adapter-guide/)
 - [Что такое eSIM – полное объяснение для начинающих](/faq/what-is-esim/)
@@ -454,3 +520,5 @@ EID (eUICC ID) – уникальный идентификатор чипа eSIM
 - [eSIM на часах, iPad, роутерах и адаптерах – гид 2026](/faq/esim-watch-ipad-router-adapter-2026/)
 
 ---
+
+*Актуально на 2026 год. Совместимость может различаться в зависимости от региона и версии прошивки.*

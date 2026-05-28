@@ -507,7 +507,7 @@
     <ul class="sidebar-list">
         {{ range first 5 $recentPosts }}
         <li>
-            <a href="{{ .permalink | relLangURL }}">{{ .title | truncate 65 }}</a>
+            <a href="{{ .permalink | relLangURL }}">{{ .title }}</a>
         </li>
         {{ end }}
     </ul>

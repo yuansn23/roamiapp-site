@@ -1,6 +1,7 @@
 ---
 title: "Roami 部落格 – eSIM 旅遊指南與技巧"
 description: "最新 eSIM 技術、旅遊上網及各地 eSIM 指南文章。"
+date: 2026-05-27T10:00:00Z
 hero:
   badge: "eSIM 部落格"
   title: "為<span class=\"text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400\">全球旅行者</span>打造的 eSIM 知識"
@@ -85,6 +86,38 @@ pagination:
   showingLabel: "顯示"
   ofLabel: "/"
   totalLabel: "篇文章"
+
+featured_products:
+  - name: "中國"
+    flag: "/img/flags/cn.svg"
+    price: "從 $1.99 起"
+    is_highlight: false
+    slug: "china"
+  - name: "日本"
+    flag: "/img/flags/jp.svg"
+    price: "從 $1.99 起"
+    is_highlight: false
+    slug: "japan"
+  - name: "韓國"
+    flag: "/img/flags/kr.svg"
+    price: "從 $1.99 起"
+    is_highlight: false
+    slug: "south-korea"
+  - name: "香港"
+    flag: "/img/flags/hk.svg"
+    price: "從 $1.99 起"
+    is_highlight: false
+    slug: "hong-kong"
+  - name: "越南"
+    flag: "/img/flags/vn.svg"
+    price: "從 $1.99 起"
+    is_highlight: false
+    slug: "vietnam"
+  - name: "泰國"
+    flag: "/img/flags/th.svg"
+    price: "從 $1.99 起"
+    is_highlight: false
+    slug: "thailand"
 ---
 
 歡迎來到 Roami eSIM 部落格。瀏覽我們最新的文章，掌握旅行上網的最佳方案。

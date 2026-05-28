@@ -190,6 +190,7 @@ disableKinds = ["taxonomy", "term"]
     footer_col2_links = [
   { name = "Помощь", url = "/faq/" }, 
   { name = "Совместимость", url = "/compatibility/" },
+   { name = "блоги", url = "/blog/" },
    { name = "Операторы", url = "/carriers/" },
      { name = "Скачать Roami", url = "/app/" }
 ]
