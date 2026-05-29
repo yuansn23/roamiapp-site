@@ -6,7 +6,7 @@ date: 2026-05-28T10:00:00Z
 lastmod: 2026-05-28T10:00:00Z
 author: "Roami"
 authorBio: "Roami — эксперт в области eSIM, предлагающий глобальные решения для мобильного интернета. За более чем 500 000 путешественников помогли оставаться на связи в поездках. "
-image: "/img/esim/ru/china-esim-guide.jpg"
+image: "/img/esim/ru/turkey-esim-guide.jpg"
 categories: ["eSIM", "путешествия"]
 tags: ["eSIM Турция", "Turkcell", "Vodafone", "Türk Telekom", "роуминг"]
 readingTime: 7

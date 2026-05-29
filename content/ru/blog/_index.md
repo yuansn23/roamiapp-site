@@ -36,7 +36,7 @@ posts:
     date: "2026-05-28"
     author: "Команда Roami"
     readTime: "7 мин"
-    image: "/img/esim/ru/china-esim-guide.jpg"
+    image: "/img/esim/ru/turkey-esim-guide.jpg"
     link: "/blog/turkey-esim-guide-ru/"
     category: "russia"
   - title: "Купить eSIM для России 2026: онлайн,4G/5G за 2 мин"
