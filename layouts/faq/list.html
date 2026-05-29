@@ -76,6 +76,7 @@
     }
     </script>
 
+    <!-- 优化后的 FAQPage Schema：动态注入快速答案前缀 -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -98,12 +99,68 @@
           
           {{- range .questions -}}
             {{- if not $first -}},{{- end -}}
+            {{- $question := .q | plainify -}}
+            {{- $snippet := .snippet | default $.Params.ui.default_snippet | plainify -}}
+            {{- $url := .url | absLangURL -}}
+            
+            {{/* ----- 动态生成快速答案前缀（基于问题关键词）----- */}}
+            {{- $quickPrefix := "" -}}
+            {{- $qLower := lower $question -}}
+            
+            {{/* 免费 eSIM 相关 */}}
+            {{- if or (in $qLower "free esim trial") (in $qLower "free esim for") (in $qLower "is the free esim") (in $qLower "get a free esim") -}}
+              {{- $quickPrefix = "Get a free eSIM trial for $0 – instant QR code delivery. No credit card required. " -}}
+            
+            {{/* iPhone 兼容性（具体型号） */}}
+            {{- else if or (in $qLower "iphone 11") (in $qLower "iphone xr") (in $qLower "iphone se") -}}
+              {{- $quickPrefix = "Yes, that iPhone model supports eSIM. Activate Roami in under 2 minutes. " -}}
+            
+            {{/* 三星 S20 */}}
+            {{- else if in $qLower "samsung s20" -}}
+              {{- $quickPrefix = "Samsung S20 supports eSIM (except US models). Download Roami eSIM via QR code. " -}}
+            
+            {{/* Google Pixel 6 */}}
+            {{- else if in $qLower "google pixel 6" -}}
+              {{- $quickPrefix = "Google Pixel 6 fully supports eSIM. Use Roami eSIM with Android 12+. " -}}
+            
+            {{/* Moto G Power */}}
+            {{- else if in $qLower "moto g" -}}
+              {{- $quickPrefix = "Only Moto G Power 2023 and newer support eSIM. Check your model before purchase. " -}}
+            
+            {{/* 激活相关 */}}
+            {{- else if or (in $qLower "activate") (in $qLower "activation") -}}
+              {{- $quickPrefix = "Activate Roami eSIM in 3 steps: 1) Install via QR code, 2) Enable roaming, 3) Restart phone. Takes <2 minutes. " -}}
+            
+            {{/* 购买 / 套餐选择 */}}
+            {{- else if or (in $qLower "buy") (in $qLower "choose") (in $qLower "plan") (in $qLower "price") -}}
+              {{- $quickPrefix = "Buy a Roami eSIM starting at $1.99 for 1GB/7 days. Instant delivery to email/app. " -}}
+            
+            {{/* UK eSIM 特定 */}}
+            {{- else if in $qLower "uk eSIM" -}}
+              {{- $quickPrefix = "UK eSIM from Roami works on EE, Vodafone, O2. Plans start at $1.99. " -}}
+            
+            {{/* US eSIM 特定 */}}
+            {{- else if in $qLower "us eSIM" -}}
+              {{- $quickPrefix = "US eSIM on T‑Mobile, AT&T, Verizon 5G. Starting $1.99, activate instantly. " -}}
+            
+            {{/* 故障排除 / 不工作 */}}
+            {{- else if or (in $qLower "not working") (in $qLower "fix") (in $qLower "troubleshooting") -}}
+              {{- $quickPrefix = "Quick fix: Restart phone, check APN settings, re‑install eSIM profile. " -}}
+            
+            {{/* 通用 eSIM 基础知识 */}}
+            {{- else if or (in $qLower "what is esim") (in $qLower "esim basics") -}}
+              {{- $quickPrefix = "eSIM is a digital SIM built into your phone. No physical card needed. " -}}
+            {{- end -}}
+            
+            {{/* 最终拼接：前缀 + 原始 snippet + 阅读更多链接 */}}
+            {{- $fullAnswer := printf "%s%s <a href=\"%s\">%s</a>" $quickPrefix $snippet $url ($.Params.ui.read_more_schema | default "Read more") -}}
+            
             {
               "@type": "Question",
-              "name": "{{ .q | plainify }}",
+              "name": {{ $question | jsonify }},
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "{{ .snippet | default $.Params.ui.default_snippet | plainify }} <a href=\"{{ .url | absLangURL | lower | strings.TrimSuffix "/" }}/\">{{ $.Params.ui.read_more_schema }}</a>"
+                "text": {{ $fullAnswer | plainify | jsonify }}
               }
             }
             {{- $first = false -}}
@@ -261,7 +318,7 @@
             </div>
             {{ end }}
 
-            <!-- 博客式分类卡片列表 -->
+            <!-- 博客式分类卡片列表（页面显示不变，仍使用原始 snippet） -->
             <div id="blog-faq-container">
                 {{ $hasAnyVisibleCategory := false }}
                 {{ range $catIndex, $category := .Params.categories }}
