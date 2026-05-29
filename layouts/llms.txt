@@ -1,0 +1,39 @@
+# Roami eSIM App
+
+## Overview
+Roami provides international eSIM data plans for travelers.
+
+## Key Pages
+- Home: https://www.roamiapp.com/
+- eSIM Plans: https://www.roamiapp.com/plans/
+- FAQ: https://www.roamiapp.com/faq/
+- How It Works: https://www.roamiapp.com/how-it-works/
+- Free eSIM: https://www.roamiapp.com/free-esim/
+- How It Works: https://www.roamiapp.com/how-it-works/
+- eSIM compatibility: https://www.roamiapp.com/compatibility/
+- Transfer eSIM: https://www.roamiapp.com/faq/how-to-transfer-esim-between-iphone-and-android/
+- Activate eSIM: https://www.roamiapp.com/faq/how-to-activate-an-esim/
+- Dual eSIM: https://www.roamiapp.com/faq/dual-esim-not-working-12-fixes-for-iphone/
+
+## Popular Destinations (eSIM coverage)
+- Japan: https://www.roamiapp.com/japan-esim/
+- United States: https://www.roamiapp.com/united-states-esim/
+- France: https://www.roamiapp.com/france-esim/
+- United Kingdom: https://www.roamiapp.com/united-kingdom-esim/
+- Italy: https://www.roamiapp.com/italy-esim/
+- Spain: https://www.roamiapp.com/spain-esim/
+- Thailand: https://www.roamiapp.com/thailand-esim/
+- South Korea: https://www.roamiapp.com/south-korea-esim/
+- Germany: https://www.roamiapp.com/germany-esim/
+- Vietnam: https://www.roamiapp.com/vietnam-esim/
+- Indonesia: https://www.roamiapp.com/indonesia-esim/
+- Turkey: https://www.roamiapp.com/turkey-esim/
+- Mexico: https://www.roamiapp.com/mexico-esim/
+- China: https://www.roamiapp.com/china-esim/
+- Switzerland: https://www.roamiapp.com/switzerland-esim/
+- Australia: https://www.roamiapp.com/australia-esim/
+- Netherlands: https://www.roamiapp.com/netherlands-esim/
+- Canada: https://www.roamiapp.com/canada-esim/
+- Greece: https://www.roamiapp.com/greece-esim/
+- Portugal: https://www.roamiapp.com/portugal-esim/
+- Malaysia: https://www.roamiapp.com/malaysia-esim/

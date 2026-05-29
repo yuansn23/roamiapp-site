@@ -1,0 +1,39 @@
+{{- /* 生成 llms.txt，输出纯文本格式 */ -}}
+# {{ .Site.Title }}
+
+## Overview
+{{ .Site.Params.description | default "Roami provides international eSIM data plans for travelers." }}
+
+## Key Pages
+- Home: {{ absURL "/" }}
+- eSIM Plans: {{ absURL "/plans/" }}
+- FAQ: {{ absURL "/faq/" }}
+- How It Works: {{ absURL "/how-it-works/" }}
+- Free eSIM: {{ absURL "/free-esim/" }}
+- eSIM compatibility: {{ absURL "/compatibility/" }}
+- Transfer eSIM: {{ absURL "/faq/how-to-transfer-esim-between-iphone-and-android/" }}
+- Activate eSIM: {{ absURL "/faq/how-to-activate-an-esim/" }}
+- Dual eSIM: {{ absURL "/faq/dual-esim-not-working-12-fixes-for-iphone/" }}
+
+## Popular Destinations (eSIM coverage)
+- Japan: {{ absURL "/japan-esim/" }}
+- United States: {{ absURL "/united-states-esim/" }}
+- France: {{ absURL "/france-esim/" }}
+- United Kingdom: {{ absURL "/united-kingdom-esim/" }}
+- Italy: {{ absURL "/italy-esim/" }}
+- Spain: {{ absURL "/spain-esim/" }}
+- Thailand: {{ absURL "/thailand-esim/" }}
+- South Korea: {{ absURL "/south-korea-esim/" }}
+- Germany: {{ absURL "/germany-esim/" }}
+- Vietnam: {{ absURL "/vietnam-esim/" }}
+- Indonesia: {{ absURL "/indonesia-esim/" }}
+- Turkey: {{ absURL "/turkey-esim/" }}
+- Mexico: {{ absURL "/mexico-esim/" }}
+- China: {{ absURL "/china-esim/" }}
+- Switzerland: {{ absURL "/switzerland-esim/" }}
+- Australia: {{ absURL "/australia-esim/" }}
+- Netherlands: {{ absURL "/netherlands-esim/" }}
+- Canada: {{ absURL "/canada-esim/" }}
+- Greece: {{ absURL "/greece-esim/" }}
+- Portugal: {{ absURL "/portugal-esim/" }}
+- Malaysia: {{ absURL "/malaysia-esim/" }}

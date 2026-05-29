@@ -6,6 +6,12 @@ enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 disableKinds = ["taxonomy", "term"]
 
+
+[outputFormats.llms]
+  baseName = "llms"               # 输出的文件名（不含后缀）
+  mediaType = "text/plain"        # 输出的文件类型是纯文本
+  isPlainText = true              # 是关键，表示生成纯文本文件
+  
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -23,7 +29,7 @@ disableKinds = ["taxonomy", "term"]
 
 # 全局 outputs（控制各类页面生成的内容）
 [outputs]
-  home = ["HTML", "RSS", "Sitemap"]
+  home = ["HTML", "RSS", "Sitemap", "llms"]
   page = ["HTML"]
   section = ["HTML", "RSS"]
 
