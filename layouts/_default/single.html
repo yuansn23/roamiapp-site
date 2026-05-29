@@ -75,13 +75,24 @@
     <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
 {{ end }}
 
+    {{/* ----- 动态生成 JSON-LD（Article + FAQPage） ----- */}}
+    {{ $faqItems := slice }}
+    {{ if .Params.faq }}
+        {{ $faqItems = .Params.faq }}
+    {{ else if .Params.sidebar_questions }}
+        {{/* 备选：从 sidebar_questions 转换（如果 faq 未定义） */}}
+        {{ range .Params.sidebar_questions.items }}
+            {{ $faqItems = $faqItems | append (dict "question" .question "answer" (printf "See our guide: %s" .url)) }}
+        {{ end }}
+    {{ end }}
+
     <script type="application/ld+json">
     [
       {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "{{ $seoTitle }}",
-        "image": "{{ $seoImage }}",
+        "headline": {{ $seoTitle | safeJS }},
+        "image": {{ $seoImage | safeJS }},
         "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
         "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
         "author": {
@@ -96,10 +107,28 @@
             "url": "{{ .Params.publisher_logo | absURL }}"
           }
         },
-        "description": "{{ $seoDescription }}"
-      }
+        "description": {{ $seoDescription | safeJS }}
+      }{{ if $faqItems }},
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {{ range $index, $item := $faqItems }}
+          {{ if $index }},{{ end }}
+          {
+            "@type": "Question",
+            "name": {{ $item.question | safeJS }},
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": {{ $item.answer | safeJS }}
+            }
+          }
+          {{ end }}
+        ]
+      }{{ end }}
     ]
     </script>
+
     <link href="{{ "css/tailwind-faq.css?v=2d" | absURL }}" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
  
@@ -222,7 +251,6 @@
     </div>
 
     {{ if $hasSidebar }}
-    <!-- 优化后的侧边栏：最大高度一屏，超出内部滚动 -->
     <aside class="w-full lg:w-[260px] shrink-0 space-y-6 mt-8 lg:mt-0 sticky top-24 max-h-[calc(100vh-120px)] overflow-y-auto custom-scrollbar">
         
         {{ with .Params.sidebar_popular }}
@@ -245,8 +273,6 @@
         </div>
         {{ end }}
 
-      
-
         {{ with .Params.sidebar_questions }}
         <div class="bg-white rounded-2xl shadow-lg border border-slate-100 p-5">
             <h3 class="text-base font-bold text-slate-900 mb-4 flex items-center">
@@ -265,7 +291,7 @@
         </div>
         {{ end }}
 
-  {{ with .Params.sidebar_free }}
+        {{ with .Params.sidebar_free }}
         <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl shadow-lg border border-blue-100 p-5">
             <h3 class="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <span class="text-lg">{{ .icon | default "🎁" }}</span> {{ .title }}
@@ -283,7 +309,7 @@
             </div>
         </div>
         {{ end }}
-		
+        
     </aside>
     {{ end }}
 </section>
