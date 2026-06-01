@@ -86,48 +86,48 @@
         {{ end }}
     {{ end }}
 
-    <script type="application/ld+json">
-    [
+   <script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": {{ $seoTitle | jsonify }},
+    "image": {{ $seoImage | jsonify }},
+    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+    "author": {
+      "@type": "Organization",
+      "name": {{ .Params.author | default $siteName | jsonify }}
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": {{ .Params.author | default $siteName | jsonify }},
+      "logo": {
+        "@type": "ImageObject",
+        "url": {{ .Params.publisher_logo | absURL | jsonify }}
+      }
+    },
+    "description": {{ $seoDescription | jsonify }}
+  }{{ if $faqItems }},
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {{ range $index, $item := $faqItems }}
+      {{ if $index }},{{ end }}
       {
-        "@context": "https://schema.org",
-        "@type": "Article",
-        "headline": {{ $seoTitle | safeJS }},
-        "image": {{ $seoImage | safeJS }},
-        "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
-        "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
-        "author": {
-          "@type": "Organization",
-          "name": "{{ .Params.author | default $siteName }}"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "{{ .Params.author | default $siteName }}",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "{{ .Params.publisher_logo | absURL }}"
-          }
-        },
-        "description": {{ $seoDescription | safeJS }}
-      }{{ if $faqItems }},
-      {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {{ range $index, $item := $faqItems }}
-          {{ if $index }},{{ end }}
-          {
-            "@type": "Question",
-            "name": {{ $item.question | safeJS }},
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": {{ $item.answer | safeJS }}
-            }
-          }
-          {{ end }}
-        ]
-      }{{ end }}
+        "@type": "Question",
+        "name": {{ $item.question | jsonify }},
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": {{ $item.answer | jsonify }}
+        }
+      }
+      {{ end }}
     ]
-    </script>
+  }{{ end }}
+]
+</script>
 
     <link href="{{ "css/tailwind-faq.css?v=2d" | absURL }}" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
