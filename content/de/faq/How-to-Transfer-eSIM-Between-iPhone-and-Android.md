@@ -1,9 +1,9 @@
 ---
-title: "Wechsel von Android zu iPhone? Übertragen Sie Ihre eSIM in 60 Sekunden (Guide 2026)"
-description: "Smartphone-Wechsel? Erfahren Sie, wie Sie Ihre eSIM in weniger als 60 Sekunden zwischen iPhone (iOS 26) und Android (Android 16) übertragen. Schritt-für-Schritt-Anleitungen, unterstützte Mobilfunkanbieter (Telekom, Vodafone, O2, AT&T), QR-Code-Scanning und Lösungen für Übertragungsfehler. Kein Anruf beim Anbieter nötig."
+title: "Android zu iPhone: eSIM in 60 Sekunden übertragen"
+description: "Smartphone-Wechsel? Übertragen Sie Ihre eSIM in 60 Sekunden zwischen iPhone (iOS 26) und Android (Android 16). Schritt-für-Schritt, unterstützte Anbieter, QR-Code & Lösungen für Fehler. Kein Anruf nötig."
 keywords: ["eSIM Fehlerbehebung", "eSIM Aktivierung fehlgeschlagen", "eSIM kein Netz", "eSIM Übertragungsfehler", "Apple eSIM", "iOS 26 eSIM", "iPad eSIM funktioniert nicht", "eSIM APN Einstellungen", "eSIM Bestätigungscode", "eSIM Profil abgelaufen", "eSIM an anderes Gerät gebunden", "Dual eSIM Signalproblem", "eSIM DFU Fehler 53", "eSIM Carrier Lock", "eSIM plattformübergreifende Übertragung"]
-date: 2026-05-08T10:00:00Z
-lastmod: 2026-05-08T10:00:00Z
+date: 2026-06-01T10:00:00Z
+lastmod: 2026-06-01T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Fehlerbehebung", "Reise-Setup"]
 toc: true
 

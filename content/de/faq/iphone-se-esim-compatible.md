@@ -1,9 +1,9 @@
 ---
-title: "Unterstützt das iPhone SE eSIM?  Vollständiger Leitfaden"
-description: "iPhone SE (2. Generation 2020) und iPhone SE (3. Generation 2022) unterstützen eSIM. Das originale SE von 2016 unterstützt eSIM NICHT. Erfahren Sie, wie Sie überprüfen, auf Airalo/Visible/Google Fi/Verizon/US Mobile/Holafly/Jio aktivieren und Alternativen für ältere Modelle."
+title: "iPhone SE eSIM: Vollständiger Leitfaden 2026"
+description: "iPhone SE (2020/2022) unterstützt eSIM, original SE (2016) nicht. Prüfung, Aktivierung bei Airalo, Visible, Google Fi, Verizon, US Mobile, Holafly, Jio und Alternativen."
 keywords: ["iphone se esim kompatibel", "iphone se 2020 esim kompatibel", "iphone se 2. gen esim", "iphone se 3. gen esim", "iphone se 2. generation esim kompatibel", "airalo kompatible telefone", "visible esim kompatible telefone", "verizon esim kompatibilität", "us mobile esim kompatible geräte", "holafly kompatible telefone", "jio esim kompatible telefone", "dual sim kompatibel", "liste der iphones die esim unterstützen", "esim fähige iphones", "iphone esim kompatibel", "esim iphone kompatibilität", "iphone 6s esim kompatibel", "iphone 7 esim kompatibel", "iphone 8 esim kompatibel"]
-date: 2026-05-21T10:00:00Z
-lastmod: 2026-05-21T10:00:00Z
+date: 2026-06-01T10:00:00Z
+lastmod: 2026-06-01T10:00:00Z
 tags: ["iPhone", "eSIM", "Kompatibilität", "iPhone SE"]
 toc: true
 

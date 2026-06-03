@@ -1,9 +1,9 @@
 ---
-title: "Перенос eSIM с Android на iPhone за 60 секунд (2026)"
-description: "Узнайте, как перенести eSIM с Android на iPhone и обратно за 60 секунд. Пошаговые инструкции для iOS 26 и Android 16, поддерживаемые операторы (AT&T, T-Mobile, Verizon, EE, Orange), устранение ошибок переноса. Также: сколько eSIM можно установить, как использовать две eSIM, где купить eSIM для путешествий (Турция, Египет, Китай)."
+title: "Перенос eSIM с Android на iPhone за 60 секунд"
+description: "Как перенести eSIM с Android на iPhone и обратно за 60 секунд. Инструкции для iOS 26 и Android 16, операторы (AT&T, T-Mobile, Verizon, EE, Orange), устранение ошибок."
 keywords: ["перенос eSIM", "как перенести eSIM", "кроссплатформенный перенос eSIM", "eSIM на другой телефон", "iPhone 17 eSIM", "Android 16 eSIM", "устранение неполадок eSIM", "активация eSIM", "eSIM нет обслуживания", "ошибка переноса eSIM", "сколько eSIM", "две eSIM", "купить eSIM", "eSIM для путешествий", "esim мтс", "билайн esim", "теле2 esim", "yota esim", "esim турция", "esim египет", "esim китай", "телефоны поддерживающие eSIM"]
-date: 2026-05-18T10:00:00Z
-lastmod: 2026-05-18T10:00:00Z
+date: 2026-06-01T10:00:00Z
+lastmod: 2026-06-01T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Устранение неполадок", "Перенос"]
 toc: true
 

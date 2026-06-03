@@ -24,17 +24,17 @@
 
 {{ if .IsTranslated }}
     {{ range .AllTranslations }}
-    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink | lower | strings.TrimSuffix "/" }}/">
     {{ end }}
     {{ $defaultLang := (index hugo.Sites 0).Language.Lang }}
     {{ range .AllTranslations }}
         {{ if eq .Language.Lang $defaultLang }}
-            <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+            <link rel="alternate" hreflang="x-default" href="{{ .Permalink | lower | strings.TrimSuffix "/" }}/">
         {{ end }}
     {{ end }}
 {{ else }}
-    <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
-    <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+    <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink | lower | strings.TrimSuffix "/" }}/">
+    <link rel="alternate" hreflang="x-default" href="{{ .Permalink | lower | strings.TrimSuffix "/" }}/">
 {{ end }}
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@
             {{- if not $first -}},{{- end -}}
             {{- $question := .q | plainify -}}
             {{- $snippet := .snippet | default $.Params.ui.default_snippet | plainify -}}
-            {{- $url := .url | absLangURL -}}
+            {{- $url := .url | absLangURL | lower | strings.TrimSuffix "/" -}}
             
             {{/* ----- 动态生成快速答案前缀（基于问题关键词）----- */}}
             {{- $quickPrefix := "" -}}
@@ -153,7 +153,7 @@
             {{- end -}}
             
             {{/* 最终拼接：前缀 + 原始 snippet + 阅读更多链接 */}}
-            {{- $fullAnswer := printf "%s%s <a href=\"%s\">%s</a>" $quickPrefix $snippet $url ($.Params.ui.read_more_schema | default "Read more") -}}
+            {{- $fullAnswer := printf "%s%s <a href=\"%s/\">%s</a>" $quickPrefix $snippet ($url) ($.Params.ui.read_more_schema | default "Read more") -}}
             
             {
               "@type": "Question",

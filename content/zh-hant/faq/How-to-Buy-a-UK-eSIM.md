@@ -1,9 +1,9 @@
 ---
-title: "2026 終極指南：如何購買英國 eSIM (最佳方案與啟用教學)"
-description: "準備前往英國旅遊或工作，想購買英國 eSIM？這份 2026 年終極指南比較了英國最佳 eSIM 方案的數據量、價格與覆蓋範圍。了解如何立即線上購買、在 iPhone/Android 上啟用，並避開常見錯誤。讓您一下飛機就能保持連線！"
+title: "2026 英國 eSIM 購買指南 | 最佳方案與啟用教學"
+description: "準備去英國？這份 2026 指南比較最佳 eSIM 方案的數據量、價格與覆蓋範圍。了解如何線上購買，並在 iPhone/Android 快速啟用，下飛機即可上網"
 keywords: ["eSIM 啟用", "如何啟用 eSIM", "iPhone eSIM 設定", "Android eSIM", "eSIM QR Code", "旅遊 eSIM", "eSIM 疑難排解"]
-date: 2026-05-19T10:00:00Z
-lastmod: 2026-05-19T10:00:00Z
+date: 2026-06-02T10:00:00Z
+lastmod: 2026-06-02T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "疑難排解", "旅遊設定"]
 toc: true
 image: "/images/esim-activation-guide.jpg"

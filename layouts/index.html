@@ -16,21 +16,18 @@
                 touch-action: manipulation;
             }
             
-            /* 1. 修复手机端标题换行，防止溢出屏幕 */
             .hero-title-main {
                 white-space: normal !important;
                 word-break: break-word;
                 max-width: 100%;
             }
             
-            /* 2. 首屏图片上的文字变小 */
             .floating-card-title {
                 font-size: 0.7rem !important;
             }
             .floating-card-desc {
                 font-size: 0.6rem !important;
             }
-            /* 调整浮动卡片内部间距 */
             .floating-card {
                 padding: 0.5rem !important;
                 gap: 0.5rem !important;
@@ -40,44 +37,35 @@
                 height: 2rem !important;
             }
             
-            /* 3. 整体紧凑：减少各个区域的上下内边距 */
             section {
                 padding-top: 2rem !important;
                 padding-bottom: 2rem !important;
             }
-            /* 恢复第一个section的独特内边距（hero） */
             section:first-of-type {
                 padding-top: 2rem !important;
                 padding-bottom: 2rem !important;
             }
-            /* 调整标题下方间距 */
             .section-title {
                 margin-bottom: 1rem !important;
             }
             .section-desc {
                 margin-bottom: 1.5rem !important;
             }
-            /* 卡片网格间距调整 */
             .grid.gap-5, .grid.gap-4 {
                 gap: 0.75rem !important;
             }
             
-            /* 4. Why Choose Roami 模块在手机上每行2个 */
             .why-choose-grid {
                 display: grid !important;
                 grid-template-columns: repeat(1, 1fr) !important;
                 gap: 0.75rem !important;
             }
         }
-        
-        /* 桌面端保持原有样式，不做更改 */
     </style>
 </head>
 <body class="bg-white text-slate-900 antialiased pb-24 md:pb-0">
 
 {{ partial "header.html" . }}
-
-
 
 <script>
     var btnTexts = {
@@ -86,11 +74,9 @@
         appStore: {{ .Params.button.app_store | default "Get 20% Discount" | jsonify | safeJS }},
         officialWebsite: {{ .Params.button.official_website | default "Get 20% Discount" | jsonify | safeJS }}
     };
-    // 悬浮按钮文案从 i18n 读取（用于 JS 动态更新）
     var floatingBtnText = {{ i18n "get_esim_discount" | default "Get 20% eSIM Discount" | jsonify | safeJS }};
 </script>
 
-<!-- ========== HERO 区域 ========== -->
 <section id="home" class="relative overflow-hidden bg-slate-50 pt-10 pb-20 lg:pt-16 lg:pb-24">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="grid lg:grid-cols-2 gap-12 lg:gap-8 items-center">
@@ -121,8 +107,9 @@
                     </div>
                 </div>
 
+                <!-- 桌面主按钮：添加 onclick="handleBuyNow()" -->
                 <div class="flex justify-center lg:justify-start mb-6">
-                    <button id="unifiedDownloadBtn" class="appstore-btn w-full sm:w-auto justify-center flex items-center gap-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-xl transition-all shadow-md">
+                    <button id="unifiedDownloadBtn" onclick="handleBuyNow()" class="appstore-btn w-full sm:w-auto justify-center flex items-center gap-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-xl transition-all shadow-md">
                         <span id="btnIcon" class="flex-shrink-0"></span>
                         <span id="btnText">{{ .Params.button.default | default "Get 20% Discount" }}</span>
                     </button>
@@ -158,11 +145,9 @@
     </div>
 </section>
 
-<!-- ========== 2026 FIFA WORLD CUP 专题（多语言版） ========== -->
 <section class="relative bg-slate-900 py-8 md:py-12 border-t border-b border-slate-800">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div class="flex flex-col md:flex-row gap-8 items-stretch">
-            <!-- 左侧：垂直居中 -->
             <div class="flex-1 flex items-center justify-center md:justify-start">
                 <div class="text-center md:text-left">
                     <h2 class="text-2xl md:text-3xl lg:text-4xl font-extrabold text-white leading-tight tracking-tight mb-3">
@@ -174,15 +159,12 @@
                     </p>
                 </div>
             </div>
-            <!-- 右侧：flex列 -->
             <div class="flex-1 flex flex-col">
-                <!-- 引导文案 -->
                 <div class="text-center md:text-left mb-4">
                     <p class="text-blue-200 text-sm md:text-base font-medium">
                         {{ i18n "fifa_guide_text" }}
                     </p>
                 </div>
-                <!-- 特性卡片 -->
                 <div class="bg-slate-800/80 backdrop-blur-sm border border-slate-700 rounded-2xl p-5 shadow-lg">
                     <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
                         <div class="flex flex-col items-center text-center gap-2">
@@ -208,16 +190,13 @@
                         </div>
                     </div>
                 </div>
-                <!-- 主办国标签 -->
                 <div class="mt-4 flex flex-wrap gap-3 justify-center md:justify-start text-slate-400 text-xs">
                     <span class="flex items-center gap-1">{{ i18n "fifa_country_canada" }}</span>
                     <span class="flex items-center gap-1">{{ i18n "fifa_country_mexico" }}</span>
                     <span class="flex items-center gap-1">{{ i18n "fifa_country_usa" }}</span>
                     <span class="flex items-center gap-1">{{ i18n "fifa_5g" }}</span>
                 </div>
-                <!-- 按钮 -->
-               
-			   <div class="mt-auto pt-6 text-center md:text-right">
+                <div class="mt-auto pt-6 text-center md:text-right">
     <a href="{{ "fifa2026/" | relLangURL }}" 
        class="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-2.5 rounded-lg shadow-md transition-all group focus:outline-none focus:ring-2 focus:ring-blue-400">
         <span>{{ i18n "fifa_button" }}</span>
@@ -227,7 +206,6 @@
             </div>
         </div>
     </div>
-    <!-- 背景装饰保持不变 -->
     <div class="absolute inset-0 opacity-5 pointer-events-none">
         <svg class="w-full h-full" viewBox="0 0 1200 200" preserveAspectRatio="none" fill="none" xmlns="http://www.w3.org/2000/svg">
             <line x1="0" y1="100" x2="1200" y2="100" stroke="white" stroke-width="2" stroke-dasharray="10 10"/>
@@ -238,7 +216,6 @@
 </section>
 
 
-<!-- ========== DESTINATIONS 区域 ========== -->
 <section id="destinations" class="py-24 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
@@ -325,7 +302,6 @@
     </div>
 </section>
 
-<!-- ========== FREE BANNER 区域 ========== -->
 <section class="py-20 bg-slate-900">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="grid md:grid-cols-2 gap-14 items-center">
@@ -358,7 +334,7 @@
                         </button>
                     </div>
                     
-                    <div id="free-ios" role="tabpanel" class="dl-tab-content active text-center" data-group="free">
+                    <div id="free-ios" onclick="handleBuyNow()" role="tabpanel" class="dl-tab-content active text-center" data-group="free">
                         <img src="/img/ios.png" alt="Scan QR code to download on iOS App Store" class="w-32 h-32 mx-auto rounded-xl mb-5 bg-white p-2 shadow-lg">
                         <a href="https://apps.apple.com/app/id6747127122" target="_blank" rel="noopener noreferrer" class="appstore-btn w-full justify-center flex js-download-link" aria-label="Download on the App Store">
                             <svg viewBox="0 0 24 24" fill="white" class="w-6 h-6 flex-shrink-0"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
@@ -366,7 +342,7 @@
                         </a>
                     </div>
 
-                    <div id="free-android" role="tabpanel" class="dl-tab-content hidden text-center" data-group="free">
+                    <div id="free-android" onclick="handleBuyNow()" role="tabpanel" class="dl-tab-content hidden text-center" data-group="free">
                         <img src="/img/Android.png" alt="Scan QR code to get it on Google Play" class="w-32 h-32 mx-auto rounded-xl mb-5 bg-white p-2 shadow-lg">
                         <a href="https://play.google.com/store/apps/details?id=com.usphonesimgo.app&hl=zh" target="_blank" rel="noopener noreferrer" class="appstore-btn android-btn w-full justify-center flex js-download-link" aria-label="Get it on Google Play">
                             <svg viewBox="0 0 24 24" fill="white" class="w-6 h-6 flex-shrink-0"><path d="M3 20.5v-17c0-.59.34-1.11.84-1.35L13.69 12 3.84 21.85C3.34 21.6 3 21.09 3 20.5m13.81-5.38-2.76-2.76-7.51 4.31 10.27-1.55m3.35-4.31c.34.27.59.69.59 1.19s-.25.92-.59 1.19l-2.27 1.31-2.5-2.5 2.5-2.5 2.27 1.31M6.05 2.66l10.76 6.22-2.27 2.27-8.49-8.49z"/></svg>
@@ -374,7 +350,7 @@
                         </a>
                     </div>
 
-                    <div id="free-web" role="tabpanel" class="dl-tab-content hidden text-center" data-group="free">
+                    <div id="free-web" onclick="handleBuyNow()" role="tabpanel" class="dl-tab-content hidden text-center" data-group="free">
                         <div class="w-32 h-32 mx-auto rounded-xl mb-5 bg-slate-700 flex items-center justify-center border border-slate-600 shadow-lg">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-12 h-12 text-slate-400" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>
                         </div>
@@ -394,7 +370,6 @@
     </div>
 </section>
 
-<!-- ========== FEATURES 区域 ========== -->
 <section id="features" class="py-24 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
@@ -430,7 +405,6 @@
     </div>
 </section>
 
-<!-- ========== GUIDE 区域 ========== -->
 <section id="guide" class="py-24 bg-slate-50">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
@@ -463,7 +437,6 @@
 
  
 
-<!-- ========== REVIEWS 区域 ========== -->
 <section id="reviews" class="py-24 bg-slate-50">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
@@ -522,19 +495,15 @@
         </div>
         <div class="space-y-4" itemscope itemtype="https://schema.org/FAQPage">
             {{ range .Params.faq.items }}
-            <!-- 使用 details 標籤，不加 open 屬性就是默認折疊 -->
             <details class="group bg-slate-50 rounded-2xl border border-slate-200 [&_summary::-webkit-details-marker]:hidden" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                <!-- summary 作為點擊控制條，內部放入問題 -->
                 <summary class="flex items-center justify-between p-6 font-bold text-lg text-slate-900 cursor-pointer list-none focus:outline-none select-none">
                     <span itemprop="name">{{ .q }}</span>
-                    <!-- 右側的小箭頭，展開時會自動旋轉 180 度 -->
                     <span class="ml-4 flex-shrink-0 transition duration-300 group-open:-rotate-180 text-slate-400">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
                         </svg>
                     </span>
                 </summary>
-                <!-- 折疊隱藏的答案區塊 -->
                 <div class="px-6 pb-6 border-t border-slate-100 pt-4" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                     <p class="text-slate-600 leading-relaxed text-sm" itemprop="text">{{ .a }}</p>
                 </div>
@@ -544,7 +513,6 @@
     </div>
 </section>
 {{ end }}
-<!-- ========== ABOUT 区域 ========== -->
 <section id="about" class="py-24 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
@@ -571,7 +539,6 @@
     </div>
 </section>
 
-<!-- ========== DOWNLOAD 区域（底部最后一个行动号召） ========== -->
 <section class="py-24 bg-slate-900">
     <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
@@ -588,7 +555,7 @@
             </div>
             
             <div class="max-w-sm mx-auto">
-                <div id="dl-ios" class="dl-tab-content2" style="display: block;">
+                <div  onclick="handleBuyNow()"  class="dl-tab-content2" style="display: block;">
                     <div class="bg-white p-4 rounded-2xl inline-block mb-6 shadow-xl">
                         <img src="/img/ios.png" alt="iOS Download QR Code" class="w-40 h-40">
                     </div>
@@ -601,7 +568,7 @@
                     </a>
                 </div>
 
-                <div id="dl-android" class="dl-tab-content2" style="display: none;">
+                <div onclick="handleBuyNow()" id="dl-android" class="dl-tab-content2" style="display: none;">
                     <div class="bg-white p-4 rounded-2xl inline-block mb-6 shadow-xl">
                         <img src="/img/Android.png" alt="Android Download QR Code" class="w-40 h-40">
                     </div>
@@ -616,7 +583,7 @@
                     </a>
                 </div>
 
-                <div id="dl-web" class="dl-tab-content2" style="display: none;">
+                <div onclick="handleBuyNow()" id="dl-web" class="dl-tab-content2" style="display: none;">
                     <div class="bg-slate-800 border border-slate-700 p-4 rounded-2xl inline-flex items-center justify-center mb-6 shadow-xl w-48 h-48">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-16 h-16 text-blue-400" aria-hidden="true"><rect width="20" height="14" x="2" y="3" rx="2"/><line x1="8" x2="16" y1="21" y2="21"/><line x1="12" x2="12" y1="17" y2="21"/></svg>
                     </div>
@@ -643,7 +610,7 @@
             <p class="text-white/75 mb-8 max-w-md mx-auto">{{ .Params.download.promo_desc }}</p>
             <div class="inline-block">
                 <p class="text-white/60 text-sm mb-3">{{ .Params.download.promo_label1 }}</p>
-                <a href="https://apps.apple.com/app/id6747127122" class="block text-center bg-white rounded-xl px-10 py-4 mb-3 hover:bg-gray-50 transition-colors shadow-xl focus:outline-none focus:ring-2 focus:ring-blue-500" aria-label="Use promo code {{ .Params.download.promo_code }} to get discount">
+                <a onclick="handleBuyNow()" class="block text-center bg-white rounded-xl px-10 py-4 mb-3 hover:bg-gray-50 transition-colors shadow-xl focus:outline-none focus:ring-2 focus:ring-blue-500" aria-label="Use promo code {{ .Params.download.promo_code }} to get discount">
                     <span class="font-mono text-3xl font-black text-slate-900">{{ .Params.download.promo_code }}</span>
                 </a>
                 <p class="text-white/60 text-sm">{{ .Params.download.promo_label2 }}</p>
@@ -652,9 +619,8 @@
     </div>
 </section>
 
-<!-- ========== 移动端底部悬浮按钮 ========== -->
-<div class="fixed bottom-0 left-0 right-0 z-50 p-4 bg-white/95 backdrop-blur-md border-t border-slate-200 shadow-[0_-8px_15px_-3px_rgba(0,0,0,0.1)] md:hidden transition-transform">
-    <button class="js-unified-download-btn appstore-btn w-full justify-center flex items-center gap-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3.5 px-6 rounded-xl transition-all shadow-md active:scale-[0.98]">
+<div  class="fixed bottom-0 left-0 right-0 z-50 p-4 bg-white/95 backdrop-blur-md border-t border-slate-200 shadow-[0_-8px_15px_-3px_rgba(0,0,0,0.1)] md:hidden transition-transform">
+    <button  class="js-unified-download-btn appstore-btn w-full justify-center flex items-center gap-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3.5 px-6 rounded-xl transition-all shadow-md active:scale-[0.98]">
         <span class="js-btn-icon flex-shrink-0"></span>
         <span class="mobile-btn-text text-base font-semibold">{{ i18n "get_esim_discount" | default "Get 20% eSIM Discount" }}</span>
     </button>
@@ -662,22 +628,8 @@
 
 {{ partial "footer.html" . }}
 
-<!-- ========== 弹窗 Modal ========== -->
-<div id="redirect-modal" class="fixed inset-0 z-50 hidden flex items-center justify-center bg-slate-900/60 backdrop-blur-sm transition-opacity" aria-modal="true" role="dialog" aria-labelledby="modal-title" aria-describedby="modal-desc">
-    <div class="bg-white rounded-2xl p-6 md:p-8 max-w-sm w-full mx-4 shadow-2xl transform scale-95 transition-transform duration-300" id="redirect-modal-content">
-        <div class="w-14 h-14 bg-blue-50 text-blue-600 rounded-full flex items-center justify-center mb-5 mx-auto border-4 border-blue-100" aria-hidden="true">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-6 h-6"><path d="M10.268 21a2 2 0 0 0 3.464 0"/><path d="M22 8c0-2.3-.8-4.3-2-6"/><path d="M3.262 15.326A1 1 0 0 0 4 17h16a1 1 0 0 0 .74-1.673C19.41 13.956 18 12.499 18 8A6 6 0 0 0 6 8c0 4.499-1.411 5.956-2.738 7.326"/><path d="M4 2C2.8 3.7 2 5.7 2 8"/></svg>
-        </div>
-        <h3 id="modal-title" class="text-xl font-bold text-slate-900 text-center mb-2">{{ i18n "friendly_reminder" | default "Friendly Reminder" }}</h3>
-        <p id="modal-desc" class="text-slate-600 text-center mb-8 text-sm leading-relaxed">{{ i18n "modal_upgrade_desc" | default "Our services have been upgraded. Please visit our official website or APP to get your promo code." }}</p>
-        <div class="flex gap-3">
-            <button id="modal-cancel-btn" class="flex-1 py-3 px-4 bg-slate-100 hover:bg-slate-200 text-slate-700 text-sm font-semibold rounded-xl transition-colors focus:outline-none focus:ring-2 focus:ring-slate-300">{{ i18n "cancel" | default "Cancel" }}</button>
-            <button id="modal-confirm-btn" class="flex-1 py-3 px-4 bg-blue-600 hover:bg-blue-700 text-white text-sm font-semibold rounded-xl transition-colors shadow-md shadow-blue-500/30 focus:outline-none focus:ring-2 focus:ring-blue-500">{{ i18n "proceed" | default "Proceed" }}</button>
-        </div>
-    </div>
-</div>
-
- <script type="application/ld+json">
+ 
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
@@ -699,120 +651,63 @@
 </script>
 
 <script>
-    (function() {
-        function getDeviceInfo() {
-            const ua = navigator.userAgent || navigator.vendor || window.opera;
-            if (/android/i.test(ua)) {
-                return {
-                    type: 'android',
-                    url: 'https://play.google.com/store/apps/details?id=com.usphonesimgo.app',
-                    iconHtml: `<svg viewBox="0 0 24 24" fill="white" class="w-6 h-6"><path d="M3 20.5v-17c0-.59.34-1.11.84-1.35L13.69 12 3.84 21.85C3.34 21.6 3 21.09 3 20.5m13.81-5.38-2.76-2.76-7.51 4.31 10.27-1.55m3.35-4.31c.34.27.59.69.59 1.19s-.25.92-.59 1.19l-2.27 1.31-2.5-2.5 2.5-2.5 2.27 1.31M6.05 2.66l10.76 6.22-2.27 2.27-8.49-8.49z"/></svg>`,
-                    text: btnTexts.googlePlay
-                };
-            } else if (/iPad|iPhone|iPod/.test(ua) && !window.MSStream) {
-                return {
-                    type: 'ios',
-                    url: 'https://apps.apple.com/app/id6747127122',
-                    iconHtml: `<svg viewBox="0 0 24 24" fill="white" class="w-6 h-6"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>`,
-                    text: btnTexts.appStore
-                };
-            } else {
-                return {
-                    type: 'web',
-                    url: 'https://www.phonesimgo.com',
-                    iconHtml: `<svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-6 h-6"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>`,
-                    text: btnTexts.officialWebsite
-                };
-            }
-        }
-
-        function updateAllButtons() {
-            const info = getDeviceInfo();
-            const desktopIcon = document.querySelector('#btnIcon');
-            const desktopText = document.querySelector('#btnText');
-            if (desktopIcon) desktopIcon.innerHTML = info.iconHtml;
-            if (desktopText) desktopText.textContent = info.text;
-            
-            const mobileBtns = document.querySelectorAll('.js-unified-download-btn');
-            mobileBtns.forEach(btn => {
-                const iconSpan = btn.querySelector('.js-btn-icon');
-                const textSpan = btn.querySelector('.mobile-btn-text');
-                if (iconSpan) iconSpan.innerHTML = info.iconHtml;
-                if (textSpan) textSpan.textContent = floatingBtnText;
-                btn.setAttribute('data-url', info.url);
-                btn.setAttribute('data-device-type', info.type);
-            });
-            
-            const desktopBtn = document.querySelector('#unifiedDownloadBtn');
-            if (desktopBtn) desktopBtn.setAttribute('data-url', info.url);
-            
-            return info;
-        }
-
-        const modal = document.getElementById('redirect-modal');
-        const modalContent = document.getElementById('redirect-modal-content');
-        const cancelBtn = document.getElementById('modal-cancel-btn');
-        const confirmBtn = document.getElementById('modal-confirm-btn');
-        
-        let currentTargetUrl = '';
-        
-        function closeModal() {
-            if (modal) modal.classList.add('hidden');
-            if (modalContent) modalContent.classList.replace('scale-100', 'scale-95');
-        }
-        
-        function openModal(url) {
-            currentTargetUrl = url;
-            if (modal) {
-                modal.classList.remove('hidden');
-                setTimeout(() => {
-                    if (modalContent) modalContent.classList.replace('scale-95', 'scale-100');
-                }, 10);
-            }
-        }
-        
-        function bindUnifiedButtons() {
-            const allUnifiedBtns = document.querySelectorAll('#unifiedDownloadBtn, .js-unified-download-btn');
-            allUnifiedBtns.forEach(btn => {
-                if (btn.hasAttribute('data-listener')) return;
-                btn.setAttribute('data-listener', 'true');
-                btn.addEventListener('click', function(e) {
-                    e.preventDefault();
-                    const url = this.getAttribute('data-url');
-                    if (url) openModal(url);
-                });
-            });
-        }
-        
-        function init() {
-            updateAllButtons();
-            bindUnifiedButtons();
-            
-            if (cancelBtn) cancelBtn.addEventListener('click', closeModal);
-            if (modal) modal.addEventListener('click', function(e) { if (e.target === modal) closeModal(); });
-            if (confirmBtn) {
-                confirmBtn.addEventListener('click', function() {
-                    if (currentTargetUrl) {
-                        window.open(currentTargetUrl, '_blank', 'noopener,noreferrer');
-                        closeModal();
-                    }
-                });
-            }
-        }
-        
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', init);
-        } else {
-            init();
-        }
-    })();
-</script>
-
-
-<script>
 document.addEventListener('DOMContentLoaded', function() {
     
-    // 1. 修复 Top Destinations 的 Tab 切换
+    // ==========================================
+    // 1. 获取设备信息及按钮渲染逻辑
+    // ==========================================
+    function getDeviceInfo() {
+        const ua = navigator.userAgent || navigator.vendor || window.opera;
+        if (/android/i.test(ua)) {
+            return {
+                type: 'android',
+                url: 'https://play.google.com/store/apps/details?id=com.usphonesimgo.app',
+                iconHtml: `<svg viewBox="0 0 24 24" fill="white" class="w-6 h-6"><path d="M3 20.5v-17c0-.59.34-1.11.84-1.35L13.69 12 3.84 21.85C3.34 21.6 3 21.09 3 20.5m13.81-5.38-2.76-2.76-7.51 4.31 10.27-1.55m3.35-4.31c.34.27.59.69.59 1.19s-.25.92-.59 1.19l-2.27 1.31-2.5-2.5 2.5-2.5 2.27 1.31M6.05 2.66l10.76 6.22-2.27 2.27-8.49-8.49z"/></svg>`,
+                text: btnTexts.googlePlay
+            };
+        } else if (/iPad|iPhone|iPod/.test(ua) && !window.MSStream) {
+            return {
+                type: 'ios',
+                url: 'https://apps.apple.com/app/id6747127122',
+                iconHtml: `<svg viewBox="0 0 24 24" fill="white" class="w-6 h-6"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>`,
+                text: btnTexts.appStore
+            };
+        } else {
+            return {
+                type: 'web',
+                url: 'https://www.phonesimgo.com',
+                iconHtml: `<svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-6 h-6"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>`,
+                text: btnTexts.officialWebsite
+            };
+        }
+    }
+
+    function updateAllButtons() {
+        const info = getDeviceInfo();
+        const desktopIcon = document.querySelector('#btnIcon');
+        const desktopText = document.querySelector('#btnText');
+        if (desktopIcon) desktopIcon.innerHTML = info.iconHtml;
+        if (desktopText) desktopText.textContent = info.text;
+        
+        const mobileBtns = document.querySelectorAll('.js-unified-download-btn');
+        mobileBtns.forEach(btn => {
+            const iconSpan = btn.querySelector('.js-btn-icon');
+            const textSpan = btn.querySelector('.mobile-btn-text');
+            if (iconSpan) iconSpan.innerHTML = info.iconHtml;
+            if (textSpan) textSpan.textContent = floatingBtnText;
+            btn.setAttribute('data-url', info.url);
+            btn.setAttribute('data-device-type', info.type);
+        });
+        
+        const desktopBtn = document.querySelector('#unifiedDownloadBtn');
+        if (desktopBtn) desktopBtn.setAttribute('data-url', info.url);
+    }
+    
+    updateAllButtons();
+
+    // ==========================================
+    // 2. Destinations Tab 切换
+    // ==========================================
     const destTabs = document.querySelectorAll('.tab-btn');
     const destContents = document.querySelectorAll('.tab-content');
     
@@ -845,7 +740,9 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    // 2. 修复 Free Banner 区域的下载 Tab 切换
+    // ==========================================
+    // 3. Free Banner Tab 切换
+    // ==========================================
     const dlTabs = document.querySelectorAll('.dl-tab-btn');
     const dlContents = document.querySelectorAll('.dl-tab-content');
     dlTabs.forEach(tab => {
@@ -873,11 +770,12 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    // 3. 修复底部 Download 区域的 Tab 切换（优化关键点）
+    // ==========================================
+    // 4. Download 区域 Tab 切换
+    // ==========================================
     const bottomTabBtns = document.querySelectorAll('.dl-tab-btn2');
     const bottomTabContents = document.querySelectorAll('.dl-tab-content2');
     
-    // 确保初始状态正确：只显示第一个 iOS 面板，其余隐藏
     bottomTabContents.forEach((content, idx) => {
         if (idx === 0) {
             content.style.display = 'block';
@@ -891,7 +789,6 @@ document.addEventListener('DOMContentLoaded', function() {
             const targetId = this.getAttribute('data-target');
             const targetContent = document.getElementById(targetId);
             
-            // 更新按钮样式
             bottomTabBtns.forEach(btnItem => {
                 btnItem.classList.remove('bg-blue-600', 'text-white');
                 btnItem.classList.add('text-slate-400');
@@ -899,7 +796,6 @@ document.addEventListener('DOMContentLoaded', function() {
             this.classList.add('bg-blue-600', 'text-white');
             this.classList.remove('text-slate-400');
             
-            // 更新内容显示
             bottomTabContents.forEach(content => {
                 content.style.display = 'none';
             });
@@ -908,53 +804,48 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     });
-    
 
-    // 4. 拦截下载链接，显示自定义弹窗
-    const downloadLinks = document.querySelectorAll('.js-download-link');
+    // ==========================================
+    // 5. 弹窗逻辑（极简可靠版，不依赖外部元素）
+    // ==========================================
     const modal = document.getElementById('redirect-modal');
-    const modalContent = document.getElementById('redirect-modal-content');
     const cancelBtn = document.getElementById('modal-cancel-btn');
     const confirmBtn = document.getElementById('modal-confirm-btn');
-    let currentTargetHref = '';
+    let currentUrl = '';
+
+    function openModal(url) {
+        currentUrl = url;
+        if (modal) {
+            modal.style.display = 'flex';
+        }
+    }
 
     function closeModal() {
-        modal.classList.add('hidden');
-        modalContent.classList.replace('scale-100', 'scale-95');
+        if (modal) modal.style.display = 'none';
     }
 
-    function openModal(href) {
-        currentTargetHref = href;
-        modal.classList.remove('hidden');
-        setTimeout(() => {
-            modalContent.classList.replace('scale-95', 'scale-100');
-        }, 10);
-    }
-
-    downloadLinks.forEach(link => {
-        link.addEventListener('click', function(e) {
+    // 绑定所有触发弹窗的按钮
+    const triggerBtns = document.querySelectorAll('#unifiedDownloadBtn, .js-unified-download-btn, .js-download-link');
+    triggerBtns.forEach(btn => {
+        btn.addEventListener('click', (e) => {
             e.preventDefault();
-            const href = this.getAttribute('href');
-            if (href) {
-                openModal(href);
-            }
+            const url = btn.getAttribute('data-url') || btn.getAttribute('href');
+            if (url) openModal(url);
         });
     });
 
-    cancelBtn.addEventListener('click', closeModal);
-    
-    modal.addEventListener('click', function(e) {
-        if (e.target === modal) {
+    if (cancelBtn) cancelBtn.addEventListener('click', closeModal);
+    if (confirmBtn) {
+        confirmBtn.addEventListener('click', () => {
+            if (currentUrl) window.open(currentUrl, '_blank', 'noopener,noreferrer');
             closeModal();
-        }
-    });
-
-    confirmBtn.addEventListener('click', function() {
-        if (currentTargetHref) {
-            window.open(currentTargetHref, '_blank', 'noopener,noreferrer');
-            closeModal();
-        }
-    });
+        });
+    }
+    if (modal) {
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) closeModal();
+        });
+    }
 });
 </script>
 

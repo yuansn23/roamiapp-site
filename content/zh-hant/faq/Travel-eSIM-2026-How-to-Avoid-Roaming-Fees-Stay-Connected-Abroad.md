@@ -1,9 +1,9 @@
 ---
-title: "2026 旅遊 eSIM：如何避免漫遊費用並在國外保持連線（iOS 26）"
-description: "要到國外旅行？使用 iOS 26 智慧助手的旅遊 eSIM。比較漫遊、當地 eSIM 與全球數據方案。逐步啟用、檢查解鎖狀態、預防高額帳單。節省高達 90% 的漫遊費。"
+title: "2026 旅遊 eSIM 指南：告別漫遊費，國外保持連線"
+description: "出國必看！使用 iOS 26 智慧助手搭配旅遊 eSIM。比較漫遊、當地 eSIM 與全球數據方案，逐步啟用、檢查解鎖狀態，避免高額帳單，最高省 90% 漫遊費。"
 keywords: ["旅遊 eSIM", "國際漫遊", "iOS 26 旅遊 eSIM", "購買旅行 eSIM", "遊客 eSIM", "便宜漫遊", "iPhone 旅遊 eSIM", "eSIM 對比 漫遊"]
-date: 2026-05-19T10:00:00Z
-lastmod: 2026-05-19T10:00:00Z
+date: 2026-06-02T10:00:00Z
+lastmod: 2026-06-02T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "故障排除", "旅行設定", "iPhone 17"]
 toc: true
 

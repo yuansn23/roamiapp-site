@@ -1,9 +1,9 @@
 ---
-title: "Поддержка eSIM на iPhone: список, проверка и настройка (2026)"
+title: "eSIM на iPhone: список, проверка и настройка"
 description: "Все iPhone от XS до 17 поддерживают eSIM (кроме Китая). Модели 5s, 6, 7, 8, X – нет. Как проверить EID, активировать, перенести eSIM. Полный список телефонов с eSIM."
 keywords: ["iphone 17 esim", "iphone 17 pro esim", "iphone 17 pro max esim", "iphone 16 esim", "iphone 15 esim", "iphone 14 esim", "iphone 13 esim", "iphone 12 esim", "iphone 11 esim", "iphone se esim", "iphone xr esim", "iphone xs esim", "iphone 8 esim", "iphone 7 esim", "iphone 7 plus esim", "iphone 8 plus esim", "esim iphone 5s", "какие iphone поддерживают esim", "в каких iphone есть esim", "esim айфон", "что такое esim на iphone", "set up esim iphone xs max"]
-date: 2026-05-27T10:00:00Z
-lastmod: 2026-05-27T10:00:00Z
+date: 2026-06-01T10:00:00Z
+lastmod: 2026-06-01T10:00:00Z
 tags: ["iPhone", "eSIM", "Совместимость", "Apple", "Dual SIM", "Цвета", "Память"]
 toc: true
 

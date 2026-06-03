@@ -1,9 +1,9 @@
 ---
-title: "Список смартфонов с поддержкой eSIM (Android) на 2026 год"
-description: "Гид по eSIM на Android 2026: список смартфонов Xiaomi, Huawei, Pixel, OnePlus и других. Как проверить поддержку через *#06#, активировать, перенести eSIM. Бесплатный пробный eSIM внутри."
+title: "Смартфоны Android с eSIM: список 2026"
+description: "Список смартфонов Android с eSIM: Xiaomi, Huawei, Pixel, OnePlus и другие. Проверка поддержки через #06#, активация, перенос eSIM. Бесплатный пробный eSIM внутри"
 keywords: ["android esim 2026", "xiaomi 14t pro esim", "xiaomi 15t pro esim", "redmi note 11 pro 5g esim", "realme 12 pro plus esim", "huawei p60 pro esim", "honor magic 6 pro esim", "google pixel 8 esim", "oppo find x7 pro esim", "vivo x100 pro esim", "oneplus 12 esim", "как узнать поддерживает ли телефон esim", "активация esim на андроид", "esim не работает андроид", "сколько esim можно хранить на андроид", "перенести esim на новый телефон", "лучший eSIM для путешествий андроид", "tecno esim", "infinix esim", "motorola esim", "nothing esim", "sony xperia esim", "nubia esim", "zte esim", "asus esim"]
-date: 2026-05-27T10:00:00Z
-lastmod: 2026-05-27T10:00:00Z
+date: 2026-06-01T10:00:00Z
+lastmod: 2026-06-01T10:00:00Z
 tags: ["Android", "eSIM", "Совместимость", "Xiaomi", "Realme", "Huawei", "Honor", "Google Pixel", "Oppo", "Vivo", "OnePlus", "Tecno", "Infinix", "Motorola", "Nothing", "Sony", "ZTE", "Nubia", "Asus"]
 toc: true
 

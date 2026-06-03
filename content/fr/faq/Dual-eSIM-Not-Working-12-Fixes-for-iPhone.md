@@ -1,9 +1,9 @@
 ---
-title: "Double eSIM ne fonctionne pas ? 12 solutions pour iPhone (CDMA, T-ADS, No Service)"
-description: "La deuxième eSIM affiche « No Service » ? Les appels entrants vont directement à la messagerie vocale ? Ce guide couvre les limites du repli vocal CDMA, les erreurs de cache T-ADS, les correctifs pour la batterie et les vérifications de verrouillage opérateur. Fonctionne pour iPhone 17, 16 et iOS 26. Double carte SIM physique également couverte."
+title: "Double eSIM sans service ? 12 solutions iPhone"
+description: "Double eSIM iPhone en panne ? No Service, appels en messagerie. Solutions CDMA, T-ADS, batterie, verrouillage. iPhone 17/16/iOS 26"
 keywords: ["dépannage eSIM", "activation eSIM échouée", "eSIM pas de service", "erreur de transfert eSIM", "Apple eSIM", "iOS 26 eSIM", "iPad eSIM ne fonctionne pas", "paramètres APN eSIM", "code de confirmation eSIM", "profil eSIM expiré", "eSIM liée à un autre appareil", "problème de signal double eSIM", "eSIM DFU erreur 53", "verrouillage opérateur eSIM", "transfert eSIM multiplateforme"]
-date: 2026-05-14T10:00:00Z
-lastmod: 2026-05-14T10:00:00Z
+date: 2026-06-01T10:00:00Z
+lastmod: 2026-06-01T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Dépannage", "Configuration de voyage"]
 toc: true
 

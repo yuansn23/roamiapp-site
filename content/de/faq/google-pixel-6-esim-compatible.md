@@ -1,9 +1,9 @@
 ---
-title: "Unterstützt Google Pixel 6 eSIM? Anleitung 2026"
-description: "Google Pixel 6, Pixel 6 Pro und Pixel 6a unterstützen alle eSIM – alle Regionen, keine Ausnahmen. Erfahren Sie, wie Sie mit *#06# prüfen, auf Airalo, Visible, Google Fi, Verizon, US Mobile, Holafly, Jio aktivieren und Probleme beheben. Auch Kompatibilität von Pixel 3/4/5/7/8/9/10 wird behandelt."
+title: "Unterstützt Google Pixel 6 eSIM? Anleitung"
+description: "Google Pixel 6 eSIM: Alle Modelle kompatibel (alle Regionen). So prüfen und aktivieren bei führenden Anbietern. Inkl. Pixel 3/4/5/7/8/9/10"
 keywords: ["google pixel 6 esim kompatibel", "google pixel 6 pro esim kompatibel", "pixel 6a esim kompatibel", "pixel 6 esim unterstützung", "airalo kompatible telefone", "visible esim kompatible telefone", "google fi esim kompatible telefone", "google pixel esim kompatibel", "pixel 4a esim kompatibel", "pixel 4a 5g esim kompatibel", "pixel 5 esim kompatibel", "pixel 7 esim kompatibel", "pixel 8 esim kompatibel", "pixel 3 esim kompatibel", "pixel 4 esim kompatibel", "holafly kompatible telefone", "jio esim kompatible telefone", "verizon esim kompatibilität", "us mobile esim kompatible geräte", "dual sim kompatibel"]
-date: 2026-05-21T10:00:00Z
-lastmod: 2026-05-21T10:00:00Z
+date: 2026-06-01T10:00:00Z
+lastmod: 2026-06-01T10:00:00Z
 tags: ["Google Pixel", "eSIM", "Kompatibilität", "Pixel 6"]
 toc: true
 

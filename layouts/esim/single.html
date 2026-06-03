@@ -851,40 +851,7 @@
         const targetPane = document.getElementById(targetId); if(targetPane) targetPane.classList.replace('hidden', 'block');
         btnElement.classList.add('active', 'bg-brand-600', 'text-white', 'shadow-md'); btnElement.classList.remove('bg-white', 'text-slate-600', 'hover:bg-slate-50', 'border-slate-200'); btnElement.setAttribute('aria-selected', 'true'); btnElement.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
     }
-
-    function handleBuyNow() {
-        const userAgent = navigator.userAgent || navigator.vendor || window.opera, 
-              isIOS = /iPad|iPhone|iPod/.test(userAgent) && !window.MSStream, 
-              isAndroid = /android/i.test(userAgent);
-              
-        let targetUrl = 'https://www.phonesimgo.com', 
-            modalTitle = `{{ default "Notice" .Params.modal.title }}`,
-            modalText = `{{ .Params.modal.text_default | safeHTML }}`;
-            
-        if (isIOS) { 
-            targetUrl = 'https://apps.apple.com/app/id6747127122'; 
-            modalTitle = `{{ i18n "modal_title_ios" | default "Service Updated" }}`;
-            modalText = `{{ i18n "modal_text_ios" | default "You will be redirected to the official app to get the discount code." }}`;
-        } else if (isAndroid) { 
-            targetUrl = 'https://play.google.com/store/apps/details?id=com.usphonesimgo.app'; 
-            modalTitle = `{{ default "Notice" .Params.modal.title }}`;
-            modalText = `{{ .Params.modal.text_android | safeHTML }}`; 
-        }
-        
-        const modal = document.getElementById('redirect-modal'), 
-              continueBtn = document.getElementById('modal-continue-btn'),
-              titleEl = document.getElementById('modal-dynamic-title'),
-              contentEl = document.getElementById('modal-dynamic-content');
-              
-        if (titleEl) titleEl.innerHTML = modalTitle;
-        if (contentEl) contentEl.innerHTML = modalText;
-        modal.classList.replace('hidden', 'flex'); 
-        
-        continueBtn.onclick = () => { 
-            window.open(targetUrl, '_blank'); 
-            closeModal(); 
-        };
-    }
+ 
 
     function closeModal() { document.getElementById('redirect-modal').classList.replace('flex', 'hidden'); }
 

@@ -326,3 +326,57 @@ weight = 5
     modal_title = "通知"
     modal_cancel = "取消"
     modal_confirm = "立即前往"
+	
+[languages.it]
+  languageName = "Italiano"
+  contentDir = "content/it"  # 意大利语内容文件夹
+  weight = 6
+
+[languages.it.params]
+  # 导航栏文案
+  nav_links = [
+    { name = "Home", url = "/" },
+    { name = "Acquista eSIM", url = "/plans/" },
+    { name = "Compatibilità eSIM", url = "/compatibility/" },
+    { name = "eSIM Gratuita", url = "/free-esim/" },
+    { name = "App Roami", url = "/app/" },
+    { name = "FAQ", url = "/faq/" }
+  ]
+
+  # 页脚文案
+  footer_desc = "Forniamo servizi eSIM premium in oltre 200 paesi e regioni, per mantenerci connessi ovunque tu viaggi."
+
+  footer_col1_title = "Destinazioni Top"
+  footer_col1_links = [
+    { name = "eSIM USA", url = "/united-states-esim/" },
+    { name = "eSIM Europa", url = "/europe-esim/" },
+    { name = "eSIM Giappone", url = "/japan-esim/" },
+    { name = "eSIM Germania", url = "/germany-esim/" },
+    { name = "eSIM Turchia", url = "/turkey-esim/" },
+    { name = "eSIM Canada", url = "/canada-esim/" }
+  ]
+
+  footer_col2_title = "Supporto Clienti"
+  footer_col2_links = [
+    { name = "FAQ", url = "/faq/" },
+    { name = "Compatibilità eSIM", url = "/compatibility/" },
+    { name = "Scarica Roami", url = "/app/" }
+  ]
+
+  footer_col3_title = "Azienda"
+  footer_col3_links = [
+    { name = "Chi Siamo", url = "/about-us/" },
+    { name = "eSIM Gratuita", url = "/free-esim/" },
+    { name = "Rimborsi", url = "/refund/" },
+    { name = "Contatti", url = "/contact/" },
+    { name = "Privacy Policy", url = "/privacy/" },
+    { name = "Termini di Servizio", url = "/terms/" }
+  ]
+
+  footer_copyright = "© 2026 Roami. Tutti i diritti riservati."
+  footer_slogan = "Fornitore professionale globale di eSIM | Esperto di roaming dati eSIM nel mondo"
+
+  # 弹窗文案
+  modal_title = "Avviso"
+  modal_cancel = "Annulla"
+  modal_confirm = "Inizia ora"

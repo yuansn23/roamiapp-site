@@ -1,9 +1,9 @@
 ---
-title: "什麼是 eSIM？內建 SIM 卡入門指南"
-description: "第一次接觸 eSIM 嗎？這份入門指南以 Apple 官方文件為基礎，為你解說什麼是嵌入式 SIM 卡、它在 iPhone 與 iPad 上的運作方式、與實體 SIM 卡相比的安全性優勢、相容性清單以及簡單的設定步驟。沒有專業術語，沒有混淆。"
+title: "什麼是 eSIM？內建 eSIM 卡入門指南"
+description: "第一次接觸 eSIM 嗎？這份入門指南以 Apple 官方文件為基礎，為你解說什麼是嵌入式 eSIM 卡、它在 iPhone 與 iPad 上的運作方式、與實體 SIM 卡相比的安全性優勢、相容性清單以及簡單的設定步驟。沒有專業術語，沒有混淆。"
 keywords: ["什麼是 eSIM", "eSIM 定義", "eSIM 如何運作", "eSIM 對比 實體 SIM", "Apple eSIM 支援", "eSIM 優點", "嵌入式 SIM 卡", "eSIM 入門指南"]
-date: 2026-05-19T10:00:00Z
-lastmod: 2026-05-19T10:00:00Z
+date: 2026-06-02T10:00:00Z
+lastmod: 2026-06-02T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "故障排除", "旅行設定", "iPhone 17"]
 toc: true
 

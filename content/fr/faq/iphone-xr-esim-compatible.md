@@ -1,9 +1,9 @@
 ---
-title: "L’iPhone XR prend-il en charge l’eSIM ? Guide complet 2026"
+title: "iPhone XR compatible eSIM ? Guide 2026"
 description: "Oui, l’iPhone XR est compatible eSIM – l’un des premiers. Vérifiez avec *#06# (EID). Compatible double SIM. Modèles Chine continentale : sans eSIM."
 keywords: ["iphone xr esim compatible", "iphone xr esim support", "airalo compatible phones", "visible esim compatible phones", "google fi esim compatible phones", "verizon esim compatibility", "dual sim compatible", "list of iphones that support esim", "iphone xr compatible esim", "téléphone compatible esim", "iphone compatible esim", "esim iphone compatible", "double sim compatible iphone"]
-date: 2026-05-22T10:00:00Z
-lastmod: 2026-05-22T10:00:00Z
+date: 2026-06-01T10:00:00Z
+lastmod: 2026-06-01T10:00:00Z
 tags: ["iPhone", "eSIM", "Compatibilité", "iPhone XR"]
 toc: true
 
