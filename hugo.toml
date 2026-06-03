@@ -75,6 +75,7 @@ disableKinds = ["taxonomy", "term"]
     # 优化：前面加 "/"，并建议去掉 .html 使用 Clean URL
     footer_col2_links = [
   { name = "FAQ", url = "/faq/" }, 
+  	  { name = "Blog", url = "/blog/" },
   { name = "eSIM Compatibility", url = "/compatibility/" },
    { name = "Carriers", url = "/carriers/" },
      { name = "Download Roami", url = "/app/" }
@@ -135,6 +136,7 @@ disableKinds = ["taxonomy", "term"]
   footer_col2_title = "Kundensupport"
   footer_col2_links = [
     { name = "FAQ", url = "/faq/" }, 
+	{ name = "Blog", url = "/blog/" },
     { name = "eSIM-Kompatibilität", url = "/compatibility/" },
 	   { name = "Netzbetreiber", url = "/carriers/" },
      { name = "Herunterladen Roami", url = "/app/" }
@@ -249,6 +251,7 @@ footer_col1_links = [
 footer_col2_title = "Assistance client"
 footer_col2_links = [
   { name = "FAQ", url = "/faq/" },
+  { name = "Blog", url = "/blog/" },
   { name = "Compatibilité eSIM", url = "/compatibility/" },
   { name = "Opérateurs", url = "/carriers/" },
   { name = "Télécharger Roami", url = "/app/" }
@@ -359,6 +362,7 @@ weight = 5
   footer_col2_title = "Supporto Clienti"
   footer_col2_links = [
     { name = "FAQ", url = "/faq/" },
+	{ name = "Blog", url = "/blog/" },
     { name = "Compatibilità eSIM", url = "/compatibility/" },
     { name = "Scarica Roami", url = "/app/" }
   ]
