@@ -19,62 +19,67 @@
     <meta name="twitter:description" content="{{ .Params.seo.description }}">
     <meta name="twitter:image" content="{{ site.Home.Permalink }}{{ strings.TrimPrefix "/" .Params.seo.og_image }}">
 
-    {{- /* 0. 提取纯国家名称 */ -}}
-    {{- $countryName := .Params.hero.title -}}
-    {{- $countryName = replace $countryName " Data Plan" "" -}}
-    {{- $countryName = replace $countryName " eSIM" "" -}}
-    {{- $countryName = trim $countryName " " -}}
+{{- /* 0. 提取纯国家名称（去除竖线、管道后的多余描述，以及 "eSIM" 等后缀） */ -}}
+{{- $countryName := .Params.hero.title -}}
+{{- /* 如果包含竖线 "|"，只取竖线之前的部分 */ -}}
+{{- if strings.Contains $countryName "|" -}}
+    {{- $countryName = index (split $countryName "|") 0 | strings.TrimSpace -}}
+{{- end -}}
+{{- /* 去除可能的后缀 */ -}}
+{{- $countryName = replace $countryName " Data Plan" "" -}}
+{{- $countryName = replace $countryName " eSIM" "" -}}
+{{- $countryName = trim $countryName " " -}}
 
-    {{- /* 1. 定义退款政策 */ -}}
-    {{- $returnPolicy := dict
-        "@type" "MerchantReturnPolicy"
-        "applicableCountry" $countryName
-        "returnPolicyCategory" "https://schema.org/MerchantReturnNotPermitted"
-        "description" "100% refund not available"
-    -}}
+{{- /* 1. 定义退款政策 */ -}}
+{{- $returnPolicy := dict
+    "@type" "MerchantReturnPolicy"
+    "applicableCountry" $countryName
+    "returnPolicyCategory" "https://schema.org/MerchantReturnNotPermitted"
+    "description" "100% refund not available"
+-}}
 
-    {{- /* 2. 定义物流信息 */ -}}
-    {{- $shippingDetails := dict
-        "@type" "OfferShippingDetails"
-        "description" "Free shipping, activate in 1 minute, instant delivery"
-        "shippingRate" (dict 
-            "@type" "MonetaryAmount" 
-            "value" "0" 
-            "currency" "USD"
-        )
-        "deliveryTime" (dict 
-            "@type" "ShippingDeliveryTime" 
-            "handlingTime" (dict "@type" "QuantitativeValue" "minValue" 0 "maxValue" 0 "unitCode" "DAY")
-            "transitTime" (dict "@type" "QuantitativeValue" "minValue" 0 "maxValue" 0 "unitCode" "DAY")
-        )
-        "shippingDestination" (dict 
-            "@type" "DefinedRegion" 
-            "addressCountry" $countryName
-        )
-    -}}
+{{- /* 2. 定义物流信息 */ -}}
+{{- $shippingDetails := dict
+    "@type" "OfferShippingDetails"
+    "description" "Free shipping, activate in 1 minute, instant delivery"
+    "shippingRate" (dict 
+        "@type" "MonetaryAmount" 
+        "value" "0" 
+        "currency" "USD"
+    )
+    "deliveryTime" (dict 
+        "@type" "ShippingDeliveryTime" 
+        "handlingTime" (dict "@type" "QuantitativeValue" "minValue" 0 "maxValue" 0 "unitCode" "DAY")
+        "transitTime" (dict "@type" "QuantitativeValue" "minValue" 0 "maxValue" 0 "unitCode" "DAY")
+    )
+    "shippingDestination" (dict 
+        "@type" "DefinedRegion" 
+        "addressCountry" $countryName
+    )
+-}}
 
-    {{- /* 3. 初始化 SKU 数组 */ -}}
-    {{- $offers := slice -}}
-    
-    {{- /* 4. 遍历 plans_data 生成 SKU URL */ -}}
-    {{- range $days, $plans := .Params.plans_data -}}
-        {{- $daysTitle := title $days -}}
-        {{- range $plans -}}
-            {{- $skuName := printf "%s %s %s" $.Params.hero.title $daysTitle .spec -}}
-            {{- $offer := dict 
-                "@type" "Offer" 
-                "name" $skuName 
-                "price" .price 
-                "priceCurrency" "USD" 
-                "availability" "https://schema.org/InStock" 
-                "url" $.Permalink 
-                "hasMerchantReturnPolicy" $returnPolicy
-                "shippingDetails" $shippingDetails
-            -}}
-            {{- $offers = $offers | append $offer -}}
-        {{- end -}}
+{{- /* 3. 初始化 SKU 数组 */ -}}
+{{- $offers := slice -}}
+
+{{- /* 4. 遍历 plans_data 生成 SKU */ -}}
+{{- range $days, $plans := .Params.plans_data -}}
+    {{- $daysTitle := title $days -}}
+    {{- range $plans -}}
+        {{- /* 构建简短的 SKU 名称，例如 "États-Unis 7 Days 5GB" */ -}}
+        {{- $skuName := printf "%s %s %s" $countryName $daysTitle .spec -}}
+        {{- $offer := dict 
+            "@type" "Offer" 
+            "name" $skuName 
+            "price" .price 
+            "priceCurrency" "USD" 
+            "availability" "https://schema.org/InStock" 
+            "url" $.Permalink 
+            "hasMerchantReturnPolicy" $returnPolicy
+            "shippingDetails" $shippingDetails
+        -}}
+        {{- $offers = $offers | append $offer -}}
     {{- end -}}
-
+{{- end -}}
     <script type="application/ld+json">
     {
       "@context": "https://schema.org/",

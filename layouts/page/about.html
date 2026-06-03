@@ -31,19 +31,20 @@
     {{ with .Params.seo.image }}<meta name="twitter:image" content="{{ . | absURL }}">{{ end }}
 
       <!-- JSON-LD Schema -->
-    <script type="application/ld+json">
-    {{- if .Params.schema -}}
-    {{- .Params.schema | safeHTML -}}
-    {{- else -}}
-    {
-      "@context": "https://schema.org",
-      "@type": "WebPage",
-      "name": "{{ .Title }}",
-      "description": "{{ with .Params.seo.description }}{{ . | safeJS }}{{ else }}{{ .Params.description | safeJS }}{{ end }}",
-      "url": "{{ .Permalink }}"
-    }
-    {{- end -}}
-    </script>
+ <!-- JSON-LD Schema -->
+<script type="application/ld+json">
+{{- if and .Params.schema (hasPrefix (trim .Params.schema " ") "{") -}}
+{{- .Params.schema | safeHTML -}}
+{{- else -}}
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ .Title | jsonify }},
+  "description": {{ (or .Params.seo.description .Params.description) | plainify | jsonify }},
+  "url": {{ .Permalink | jsonify }}
+}
+{{- end -}}
+</script>
     <link href="/css/tailwind-compiled.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <style>
