@@ -1,6 +1,6 @@
 ---
 title: "eSIM Not Activating? Fix iOS & Android Errors Fast"
-description: "Stuck on eSIM setup? Learn how to scan QR codes, enter details manually, and fix "Activation Failed" errors on iPhone & Android. Get connected in 2 mins."
+description: "Stuck on eSIM setup? Learn how to scan QR codes, enter details manually, and fix \"Activation Failed\" errors on iPhone & Android. Get connected in 2 mins."
 keywords: ["eSIM activation", "how to activate eSIM", "activate eSIM iPhone", "iPhone eSIM setup", "Android eSIM", "eSIM QR code", "travel eSIM", "eSIM troubleshooting", "how to activate an eSIM", "esim activation failed", "add eSIM to iPhone"]
 date: 2026-06-03T10:00:00Z
 lastmod: 2026-06-03T10:00:00Z
