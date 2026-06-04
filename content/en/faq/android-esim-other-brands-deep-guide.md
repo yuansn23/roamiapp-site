@@ -1,9 +1,9 @@
 ---
-title: "Android eSIM Guide: 17 Brands Included"
-description: "eSIM support on Motorola, OnePlus, Xiaomi, Huawei, LG, Sony, Nokia, Asus, Honor, Realme, Oppo, Vivo, iQOO, Poco. Tables, regional warnings, and alternatives."
+title: "Android eSIM Guide 2026: Is Your Phone Supported?"
+description: "Votre Android a-t-il une eSIM ? Consultez notre liste de compatibilité pour Xiaomi, OnePlus, Motorola, etc. Attention : les modèles chinois sont souvent incompatibles."
 keywords: ["android esim", "esim android", "android phones with esim", "does motorola have esim", "does moto g play have esim", "does moto g power have esim", "motorola razr esim", "motorola edge esim", "does oneplus have esim", "oneplus 12 esim", "oneplus 13 esim", "oneplus 11 esim", "oneplus 10 pro esim", "does xiaomi have esim", "xiaomi 13 esim", "xiaomi 14 esim", "xiaomi 12 esim", "xiaomi 13t pro esim", "does huawei have esim", "huawei p40 esim", "huawei p50 esim", "huawei mate 40 esim", "does lg have esim", "lg wing esim", "lg velvet esim", "lg v60 esim", "does sony have esim", "sony xperia 1 iv esim", "sony xperia 5 iv esim", "does blackberry have esim", "blackberry key2 esim", "does palm have esim", "palm phone esim", "does nokia have esim", "nokia x30 esim", "nokia g60 esim", "does asus have esim", "asus zenfone esim", "asus rog phone esim", "does honor have esim", "honor 50 esim", "honor magic esim", "does realme have esim", "realme gt esim", "does oppo have esim", "oppo find x5 esim", "does vivo have esim", "vivo x100 esim", "vivo x200 ultra esim", "does iqoo have esim", "iqoo 12 esim", "does poco have esim", "poco f5 esim", "poco x7 pro esim", "does infinix have esim", "does tecno have esim", "does itel have esim", "esim android phones", "android phones with esim list", "esim compatible android phones"]
-date: 2026-06-01T10:00:00Z
-lastmod: 2026-06-01T10:00:00Z
+date: 2026-06-03T10:00:00Z
+lastmod: 2026-06-03T10:00:00Z
 tags: ["Android", "eSIM", "Compatibility", "Motorola", "OnePlus", "Xiaomi", "Huawei"]
 toc: true
 
