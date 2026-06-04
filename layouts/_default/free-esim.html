@@ -10,11 +10,7 @@
     <meta name="keywords" content="{{ .Params.seo.keywords }}">
     {{ end }}
     
-    {{ if .Params.seo.canonical_url }}
-    <link rel="canonical" href="{{ .Params.seo.canonical_url | absURL }}">
-    {{ else }}
-    <link rel="canonical" href="{{ .Permalink }}">
-    {{ end }}
+   <link rel="canonical" href="{{ .Permalink | replaceRE "\\?.*$" "" }}">
     
 	{{ if .IsTranslated }}
     {{ range .AllTranslations }}
