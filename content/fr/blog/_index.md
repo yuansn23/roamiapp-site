@@ -1,71 +1,71 @@
 ---
-title: "Roami Blog – eSIM Travel Guides & Tips"
-description: "Latest eSIM technology, travel connectivity, and destination eSIM guides."
+title: "Blog Roami – Guides eSIM & Conseils de voyage"
+description: "Dernières technologies eSIM, connectivité de voyage et guides eSIM par destination."
 date: 2026-06-02T10:00:00Z
 hero:
-  badge: "eSIM Blog"
-  title: "eSIM knowledge for <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400\">global travellers</span>"
-  subtitle: "Latest guides, country comparisons and activation tips – stay connected wherever you go."
+  badge: "Blog eSIM"
+  title: "Connaissances eSIM pour <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400\">voyageurs du monde entier</span>"
+  subtitle: "Derniers guides, comparaisons par pays et astuces d'activation – restez connecté où que vous alliez."
 categories:
   - key: all
-    name: "All Articles"
+    name: "Tous les articles"
   - key: usa
-    name: "USA eSIM"
+    name: "eSIM USA"
   - key: china
-    name: "China eSIM"
+    name: "eSIM Chine"
   - key: taiwan
-    name: "Taiwan eSIM"
+    name: "eSIM Taïwan"
   - key: tuerkei
-    name: "Turkey eSIM"
+    name: "eSIM Turquie"
   - key: uk
-    name: "UK eSIM"
+    name: "eSIM Royaume-Uni"
   - key: japan
-    name: "Japan eSIM"
+    name: "eSIM Japon"
   - key: suedkorea
-    name: "South Korea eSIM"
+    name: "eSIM Corée du Sud"
   - key: deutschland
-    name: "Germany eSIM"
+    name: "eSIM Allemagne"
   - key: spanien
-    name: "Spain eSIM"
+    name: "eSIM Espagne"
   - key: frankreich
-    name: "France eSIM"
+    name: "eSIM France"
   - key: thailand
-    name: "Thailand eSIM"
+    name: "eSIM Thaïlande"
 posts:
-  - title: "2026 USA eSIM Guide: Best Plans & Smart Switching"
-    description: "Compare Airalo, Holafly and Roami for US travel. Roami offers smart switching on T-Mobile, AT&T, Verizon from $1.99 (20% off with web20). Free trial. Essential for road trips and national parks."
+  - title: "Meilleure eSIM USA 2026 : 5G sur AT&T, T‑Mobile & Verizon"
+    description: "Quelle eSIM choisir pour les USA ? Comparaison Airalo, Holafly et Roami. Roami bascule entre les 3 grands réseaux avec un support humain 24/7. Essai gratuit."
     date: "2026-06-03"
     author: "Roami Team"
     readTime: "9 min"
     image: "/img/esim/us-esim-guide-2026.jpg"
     link: "/blog/best-usa-esim-comparison-airalo-holafly/"
     category: "usa"
-  - title: "2026 UK eSIM Guide: Post‑Brexit Connectivity Solved"
-    description: "Brexit ended free EU roaming. UK-only eSIMs die in Paris. Roami offers smart switching on EE, Vodafone, O2, Three from $1.99 (20% off web20). Free trial. Avoid Heathrow SIM traps."
+  - title: "eSIM Royaume-Uni 2026 : itinérance UE incluse"
+    description: "Vous voyagez au Royaume-Uni ? L'eSIM Roami bascule automatiquement entre EE, Vodafone, O2 et Three. Évitez les tracas des SIM à l'aéroport avec une activation instantanée. Essai gratuit inclus."
     date: "2026-06-03"
     author: "Roami Team"
     readTime: "8 min"
     image: "/img/esim/uk-esim-guide-2026.jpg"
     link: "/blog/buy-uk-esim-guide/"
     category: "uk"
-  - title: "2026 Japan eSIM Guide: Why Pocket Wi‑Fi Is Dying"
-    description: "Japan's pocket Wi‑Fi costs $28-42/week. eSIM starts at $1.99 (20% off web20). Roami offers smart switching on SoftBank, au, NTT Docomo. Free trial. Avoid China/HK/Macau iPhone compatibility traps."
+  - title: "eSIM Japon 2026 : meilleure qu'un Wi‑Fi portable ?"
+    description: "Pourquoi le Wi‑Fi portable est obsolète pour voyager au Japon. L'eSIM Roami offre un switching intelligent sur SoftBank, au, NTT Docomo – à partir de 1,99 $ avec le code 'web20'. Essai gratuit. Évitez les problèmes d'iPhone Chine/HK/Macau."
     date: "2026-06-03"
     author: "Roami Team"
     readTime: "7 min"
     image: "/img/esim/japan-esim-guide-2026.jpg"
     link: "/blog/buy-japan-esim-guide/"
     category: "japan"
-  - title: "2026 Germany eSIM Guide: Crack the Telecom Market"
-    description: "Germany's Ausweispflicht law requires video ID for physical SIMs. eSIM skips it entirely. Roami offers smart switching on Telekom, Vodafone, O2 from $1.99 (20% off web20). Free trial. Conquer ICE train dropouts and rural Funkloch signal holes."
+  - title: "eSIM Allemagne 2026 : couverture complète sur Telekom"
+    description: "Restez connecté en Allemagne. L'eSIM Roami bascule intelligemment entre Telekom, Vodafone et O2. Pas d'inscription complexe, 5G instantanée. Parfait pour les trains ICE."
     date: "2026-06-03"
     author: "Roami Team"
     readTime: "7 min"
     image: "/img/esim/germany-esim-guide-2026.jpg"
     link: "/blog/buy-germany-esim-guide/"
     category: "deutschland"
-  - title: "2026 Australia eSIM Guide: Connect Across a Continent"
-    description: "Australia's vast distances create extreme coverage gaps. Telstra dominates rural; Optus & Vodafone AU are city-only. Roami's smart switching on all three from $1.99 (20% off web20). Free trial. Essential for Outback road trips and Working Holiday."
+  - title: "eSIM Australie 2026 : signal dans l'Outback et au-delà"
+    description: "Restez connecté en Australie avec Roami. Le switching intelligent entre Telstra, Optus et Vodafone garantit un signal même dans les zones reculées. Essai gratuit inclus"
     date: "2026-06-03"
     author: "Roami Team"
     readTime: "5 min"
@@ -73,43 +73,43 @@ posts:
     link: "/blog/buy-australia-esim-guide/"
     category: "australia"
 pagination:
-  prev: "← Previous"
-  next: "Next →"
-  showingLabel: "Showing"
-  ofLabel: "of"
+  prev: "← Précédent"
+  next: "Suivant →"
+  showingLabel: "Affichage"
+  ofLabel: "de"
   totalLabel: "articles"
 
 featured_products:
-  - name: "China"
+  - name: "Chine"
     flag: "/img/flags/cn.svg"
-    price: "From $1.99"
+    price: "À partir de 1,99 $"
     is_highlight: false
     slug: "china"
-  - name: "Japan"
+  - name: "Japon"
     flag: "/img/flags/jp.svg"
-    price: "From $1.99"
+    price: "À partir de 1,99 $"
     is_highlight: false
     slug: "japan"
-  - name: "South Korea"
+  - name: "Corée du Sud"
     flag: "/img/flags/kr.svg"
-    price: "From $1.99"
+    price: "À partir de 1,99 $"
     is_highlight: false
     slug: "south-korea"
   - name: "Hong Kong"
     flag: "/img/flags/hk.svg"
-    price: "From $1.99"
+    price: "À partir de 1,99 $"
     is_highlight: false
     slug: "hong-kong"
   - name: "Vietnam"
     flag: "/img/flags/vn.svg"
-    price: "From $1.99"
+    price: "À partir de 1,99 $"
     is_highlight: false
     slug: "vietnam"
-  - name: "Thailand"
+  - name: "Thaïlande"
     flag: "/img/flags/th.svg"
-    price: "From $1.99"
+    price: "À partir de 1,99 $"
     is_highlight: false
     slug: "thailand"
 ---
 
-Welcome to the Roami eSIM blog. Browse our latest articles to find the best travel connectivity solutions.
+Bienvenue sur le blog eSIM de Roami. Parcourez nos derniers articles pour trouver les meilleures solutions de connectivité de voyage.

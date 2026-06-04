@@ -94,14 +94,24 @@
                 {{ $currentRelPermalink := .RelPermalink }}
                 {{ $currentLang := .Language.Lang }}
                 {{/* 定义支持的语言列表：语言代码, 显示名称, 是否默认语言（英文无前缀） */}}
-                {{ $languages := slice 
-                    (dict "code" "en" "name" "English" "isDefault" true)
-                    (dict "code" "de" "name" "Deutsch" "isDefault" false)
-					 (dict "code" "it" "name" "Italiano" "isDefault" false)
-                    (dict "code" "ru" "name" "Русский" "isDefault" false)
-                    (dict "code" "fr" "name" "Français" "isDefault" false)
-                    (dict "code" "zh-hant" "name" "繁體中文" "isDefault" false)
-                }}
+               {{/* 定义支持的语言列表：语言代码, 显示名称, 是否默认语言（英文无前缀） */}}
+{{/* 定义支持的语言列表：语言代码, 显示名称, 是否默认语言（英文无前缀） */}}
+{{/* 定义支持的语言列表：语言代码, 显示名称, 是否默认语言（英文无前缀） */}}
+{{ $languages := slice 
+    (dict "code" "en" "name" "English" "isDefault" true)
+    (dict "code" "de" "name" "Deutsch" "isDefault" false)
+    (dict "code" "it" "name" "Italiano" "isDefault" false)
+    (dict "code" "ru" "name" "Русский" "isDefault" false)
+    (dict "code" "fr" "name" "Français" "isDefault" false)
+    (dict "code" "zh-hant" "name" "繁體中文" "isDefault" false)
+    (dict "code" "es" "name" "Español" "isDefault" false)
+}}
+{{/* 暂未启用的语言：日语(ja)、土耳其语(tr)、荷兰语(nl) —— 如需启用，取消下面三行的注释并加入上面的 slice 中 */}}
+{{/*
+    (dict "code" "ja" "name" "日本語" "isDefault" false)
+    (dict "code" "tr" "name" "Türkçe" "isDefault" false)
+    (dict "code" "nl" "name" "Nederlands" "isDefault" false)
+*/}}
                 
                 {{/* 获取当前页面的基础路径（不含语言前缀） */}}
                 {{ $basePath := $currentRelPermalink }}
