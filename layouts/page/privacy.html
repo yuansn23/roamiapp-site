@@ -5,9 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{ partial "head.html" . }}
-    <!-- 🌟 SEO 核心标签 (增加兜底逻辑) -->
-    <title>{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
-    <meta name="description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
+    <!-- 🌟 SEO 核心标签 (增加兜底逻辑) --> 
     <meta name="robots" content="index, follow">
 
     <!-- 🌟 规范化链接 -->

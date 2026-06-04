@@ -4,9 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     {{ partial "head.html" . }}
-    
-    <title>{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}</title>
-    <meta name="description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}">
+     
     <meta name="robots" content="index, follow">
     {{ $canonical := default .Permalink .Params.seo.canonical_url }}
     <link rel="canonical" href="{{ $canonical }}" />

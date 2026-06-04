@@ -3,9 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {{ partial "head.html" . }}
-    <title>{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
-    <meta name="description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}">
+    {{ partial "head.html" . }} 
     {{ with .Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
     <link rel="canonical" href="{{ .Permalink }}" />
 

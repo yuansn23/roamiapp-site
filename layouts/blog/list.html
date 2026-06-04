@@ -4,8 +4,7 @@
 <head>
     {{ partial "head.html" . }}
     <link rel="canonical" href="{{ .Permalink }}">
-    <title>{{ .Title | default .Params.title }}</title>
-    <meta name="description" content="{{ .Description | default .Params.description }}">
+    <title>{{ .Title | default .Params.title }}</title> 
     
     <link href="/css/tailwind-compiled.css" rel="stylesheet">
     <style>

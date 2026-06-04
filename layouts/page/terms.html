@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     {{ partial "head.html" . }}
-    <!-- 🌟 2. 动态标题和描述 (支持从 front matter 的 seo 字段读取，或者使用默认值) -->
-    <title>{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - Roami eSIM{{ end }}</title>
-    <meta name="description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}">
+     {{ partial "head.html" . }} 
     <meta name="robots" content="index, follow">
 
     <!-- 🌟 3. 规范化链接 (Canonical URL) -->

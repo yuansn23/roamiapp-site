@@ -3,9 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {{ partial "head.html" . }}
-    <title>{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - Roami{{ end }}</title>
-    <meta name="description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
+    {{ partial "head.html" . }} 
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="{{ .Permalink }}" />
 
