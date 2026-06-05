@@ -1,6 +1,6 @@
 ---
 title: eSIM Nuova Zelanda Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:04:08+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM da viaggio Nuova Zelanda | Dati 5G per viaggi
-  description: In viaggio in Nuova Zelanda? Roami offre uso equo dei dati e 5G nativo
-    da operatori locali affidabili. Perfetto per viaggi d'affari – dati illimitati
-    e roaming cross-regionale.
+  title: "eSIM Nuova Zelanda | 20% DI SCONTO, 5G Affidabile"
+  description: "Viaggio on the road in Nuova Zelanda con Roami eSIM. 5G affidabile su entrambe le isole. Configurazione immediata. Dati illimitati per l'intero viaggio."
   keywords: eSIM Nuova Zelanda, copertura mobile Nuova Zelanda, viaggio Nuova Zelanda,
     internet Nuova Zelanda, roaming Nuova Zelanda
 order_summary:

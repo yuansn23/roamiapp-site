@@ -1,6 +1,6 @@
 ---
 title: Saudi Arabia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Saudi Arabia eSIM | Unlimited 5G Data Plans| Roami
-  description: Planning a trip to Saudi Arabia? Enjoy Mobily Always-On 5G and No Hidden
-    Fees with Roami. Ideal for Light Travel. Enjoy No Hidden Charges with Nationwide
-    Coverage.
+  title: "Saudi Arabia eSIM | Fast 5G Nationwide"
+  description: "Travel Saudi Arabia with Roami eSIM. Fast 5G in Riyadh, Jeddah & nationwide. Instant QR setup. Unlimited data from $1.99."
   keywords: Saudi Arabia eSIM, cheap Saudi eSIM, travel internet Saudi, instant eSIM
     Saudi, no roaming charges, QR code activation eSIM
   low_price: 1.99

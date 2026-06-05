@@ -1,9 +1,7 @@
 ---
-title: eSIM prépayée Pays-Bas avec données illimitées (KPN & Vodafone)
-description: Meilleure eSIM prépayée pour Amsterdam. Données illimitées sur KPN et
-  Vodafone. Activation instantanée, pas de vérification de crédit. Parfait pour les
-  visites de canaux et les réunions d'affaires.
-date: '2026-05-21'
+title: "Guide eSIM Pays-Bas | KPN, Vodafone ou T-Mobile ?"
+description: "Roami compare les opérateurs néerlandais pour l'eSIM de voyage. 5G dense dans tout le pays. Quel réseau vous offre les données les plus rapides ?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Pays-Bas, données prépayées, réseau 5G, Odido, KPN, Vodafone, voyage
   d'affaires, données illimitées
 site_name: Roami

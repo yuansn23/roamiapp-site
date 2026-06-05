@@ -1,6 +1,6 @@
 ---
 title: Island eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:01+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Island Reise-eSIM | Verzögerungsfreies 5G Touristen-Daten | Roami
-  description: Fahren Sie den Ringstraßen-Rundweg in Island? Eine virtuelle SIM von
-    Roami garantiert immer-verfügbares 5G-Reiseinternet im ganzen Land. Genießen Sie
-    unbegrenzte Prepaid-Daten und 24/7 Support mit bester lokaler Netzabdeckung.
+  title: "Island eSIM | 20% sparen, unbegrenzte 5G-Daten"
+  description: "Fahren Sie durch Island mit Roami eSIM. Zuverlässiges 5G entlang des Ringwegs. Sofortige Aktivierung. Unbegrenzte Datentarife für Ihre Reise."
   keywords: Island eSIM, mobiles Internet Island, Reise eSIM Island, Datenflat Island,
     eSIM Reise
 order_summary:

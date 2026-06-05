@@ -1,6 +1,6 @@
 ---
 title: Kongo eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:52:22+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Kongo eSIM | 20% RABATT | Hochgeschwindigkeits-5G für digitale Nomaden |
-    Roami
-  description: Bald im Kongo? Erleben Sie 24/7 Daten und nahtloses verzögerungsfreies
-    5G vom lokalen Top-Betreiber. Mit landesweiter Abdeckung und keinen Roaminggebühren
-    – perfekt für Familienbesuche.
+  title: "Kongo eSIM | Zuverlässiges 5G landesweit"
+  description: "Besuchen Sie die Republik Kongo mit Roami eSIM. Zuverlässiges 5G in Brazzaville, Pointe-Noire und landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten."
   keywords: Kongo eSIM, Internet Kongo, Reise eSIM Kongo, lokale SIM Karte Kongo,
     mobile Daten Kongo
 order_summary:

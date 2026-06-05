@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Andorre | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:45+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Andorre | Frais cachés zéro & 5G illimitée | Roami
-  description: Vous planifiez un voyage en Andorre ? Obtenez la 5G rapide de Roami
-    sur le meilleur opérateur local avec des données sans engagement. Profitez de
-    données illimitées et du meilleur réseau local, adapté aux visites familiales.
+  title: "eSIM Andorre | 5G rapide dans tout le pays"
+  description: "Visitez Andorre avec l'eSIM Roami. 5G rapide dans la principauté. Activation instantanée par QR. Données illimitées pour votre voyage dans les Pyrénées."
   keywords: eSIM Andorre, forfait mobile Andorre, voyage Andorre, couverture réseau
     Andorre, opérateurs Andorre, tourisme Andorre
 order_summary:

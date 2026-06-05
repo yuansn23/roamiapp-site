@@ -3,12 +3,12 @@ title: "Contact Us | Roami Customer Support"
 description: "Contact Roami customer support team. We offer 24/7 service, ready to help you with any eSIM-related questions."
 layout: "contact"
 type: "page"
-date: '2026-05-15T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 
 # SEO
 seo:
-  title: "Contact Us | Roami 24/7 Customer Support"
-  description: "Need help? Contact Roami support team. We offer 24/7 customer support to answer any of your eSIM questions."
+  title: "Contact Us | 24/7 eSIM Support Worldwide"
+  description: "Need help with your Roami eSIM? Our team handles activation, refunds & travel questions. Reach us anytime worldwide."
   image: "/img/og-contact.jpg"
 
 # JSON-LD Schema (YAML object – 输出时将自动转为合法 JSON，不再被引号包裹)

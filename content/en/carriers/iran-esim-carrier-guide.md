@@ -1,8 +1,7 @@
 ---
-title: Prepaid Iran eSIM with Unlimited Data (Hamrah Aval & Irancell)
-description: Stay connected in Tehran & Shiraz. Prepaid Iran eSIM with unlimited data.
-  Instant activation, bypass local SIM restrictions.
-date: '2026-05-21'
+title: "Iran eSIM Guide | Hamrah-e Aval or Irancell?"
+description: "Roami compares Iran's carriers for travel eSIM. 5G in Tehran, Isfahan & nationwide. Which network is fastest?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: Iran eSIM, buy Iran eSIM, Iran travel eSIM, MCI, Hamrahe Aval, Iran 5G,
   eSIM for Iran, Iran prepaid eSIM, Iran tourist eSIM
 site_name: Roami

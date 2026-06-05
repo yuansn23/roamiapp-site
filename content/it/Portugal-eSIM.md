@@ -1,6 +1,6 @@
 ---
 title: eSIM Portogallo Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:56+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Acquista eSIM Portogallo | Dati 5G illimitati per viaggi
-  description: Hai bisogno di connessione in Portogallo? Resta connesso con operatori
-    top locali, 5G a bassa latenza e dati ad alta velocità. Copertura nazionale e
-    dati illimitati – ideale per viaggi leggeri.
+  title: "eSIM Portogallo | Risparmia il 20%, Dati 5G Illimitati"
+  description: "Scopri il Portogallo con Roami eSIM. 5G veloce da Lisbona all'Algarve. Attivazione immediata. Dati illimitati per viaggiatori."
   keywords: eSIM Portogallo, viaggio Portogallo, internet Portogallo, copertura mobile
     Portogallo, dati Portogallo
 order_summary:

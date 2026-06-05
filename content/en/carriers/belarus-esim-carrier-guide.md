@@ -1,8 +1,7 @@
 ---
-title: Prepaid Belarus eSIM with Unlimited Data (A1 & MTS)
-description: Stay connected in Minsk. Prepaid Belarus eSIM with unlimited data. Instant
-  activation, no local registration hassle.
-date: '2026-05-21'
+title: "Belarus eSIM Guide | A1, MTS or Life?"
+description: "Roami compares Belarus carriers for travel eSIM. 5G in Minsk & nationwide. Find the most reliable network."
+date: '2026-06-04T00:00:00+00:00'
 keywords: Belarus eSIM, high-speed data, A1 Belarus, MTS, 5G, travel eSIM, no roaming
   fees, Minsk, Independence Avenue
 site_name: Roami

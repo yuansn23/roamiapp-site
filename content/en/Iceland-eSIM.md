@@ -1,6 +1,6 @@
 ---
 title: Iceland eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Iceland Travel eSIM | Zero-Lag 5G Tourist Data | Roami
-  description: Driving the Ring Road in Iceland? A Roami virtual SIM guarantees always-on
-    5G travel internet across the country. Enjoy unlimited prepaid data and 24/7 support
-    with top local network coverage.
+  title: "Iceland eSIM | Save 20%, Unlimited 5G Data"
+  description: "Drive Iceland with Roami eSIM. Reliable 5G along the Ring Road. Instant activation. Unlimited data plans for your trip."
   keywords: Iceland eSIM, prepaid eSIM Iceland, best eSIM for Iceland, travel internet
     Iceland, no roaming charges
   low_price: 1.99

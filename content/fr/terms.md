@@ -1,8 +1,8 @@
 ---
-title: "Conditions d'utilisation de Roami | Votre accord d'utilisation eSIM mondial"
-description: "Lisez les conditions d'utilisation des solutions de connectivité eSIM mondiales de Roami."
+title: "Conditions d'utilisation | Accord d'utilisation de l'eSIM"
+description: "Consultez les conditions Roami pour l'utilisation de l'eSIM dans plus de 200 pays. Couvre l'utilisation équitable, les règles de compte et l'éligibilité aux remboursements."
 last_updated: "Mai 2026"
-date: '2026-05-15T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 layout: "terms"
 type: "page"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Switzerland eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Switzerland eSIM |20% OFF| Unlimited 5G Data Plans| Roami
-  description: Planning a trip to Switzerland? Enjoy Sunrise Reliable 5G and Transparent
-    Data with Roami. Features Multi-Country Roaming and Unlimited Data, great for
-    Digital Nomads.
+  title: "Switzerland eSIM | Save 20%, Fast 5G"
+  description: "Travel Switzerland with Roami eSIM. Fast, reliable 5G nationwide. Instant activation. Unlimited data plans."
   keywords: Switzerland eSIM, travel internet Switzerland, eSIM for Switzerland, cheap
     eSIM Switzerland, Swisscom eSIM, Sunrise eSIM, no roaming charges, instant delivery
     eSIM

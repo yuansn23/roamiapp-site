@@ -1,8 +1,7 @@
 ---
-title: Prepaid Switzerland eSIM with Unlimited Data (Swisscom & Sunrise)
-description: Alpine-proof connectivity. Prepaid Switzerland eSIM with unlimited data
-  on Swisscom. Works perfectly in mountain trains and ski resorts.
-date: '2026-05-21'
+title: "Swiss eSIM Guide | Swisscom, Sunrise or Salt?"
+description: "Roami compares Swiss carriers for travel eSIM. 5G from cities to Alpine peaks. Which network is the most reliable?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Schweiz, prepaid data, 5G network, Swisscom, Salt, Sunrise, travel
   eSIM, Roami
 site_name: Roami

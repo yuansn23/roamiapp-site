@@ -1,6 +1,6 @@
 ---
 title: Bolivie eSIM Forfait données | Meilleur eSIM voyage 2026 | Roami
-date: '2026-05-12T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à niveau vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20%, code promo : web20
 seo:
-  title: eSIM voyage Bolivie | Données illimitées | Véritable 5G | Roami
-  description: Vous partez bientôt en Bolivie ? Profitez de données Fair Use et d'une 5G fiable des meilleurs opérateurs locaux. Idéal pour les vacances en famille. Pas de frais d'itinérance avec commutation réseau automatique.
+  title: "eSIM Bolivie | 5G rapide dans tout le pays"
+  description: "Découvrez la Bolivie avec l'eSIM Roami. 5G rapide à La Paz, Santa Cruz et dans tout le pays. Activation instantanée. Données illimitées. Aucun contrat."
   keywords: eSIM Bolivie, eSIM prépayée Bolivie, données illimitées Bolivie, eSIM voyage Bolivie
   low_price: 1.99
   high_price: 39.9

@@ -1,9 +1,7 @@
 ---
-title: Prepaid Kolumbien eSIM mit unbegrenztem Datenvolumen (Claro & Tigo)
-description: Sichere Reisen in Medellín & Bogotá. Prepaid Kolumbien eSIM mit unbegrenztem
-  Datenvolumen. Sofortige Aktivierung, funktioniert im großen Claro-Netz. Keine spanische
-  ID erforderlich.
-date: '2026-05-21'
+title: "Kolumbien eSIM-Leitfaden | Claro, Movistar oder Tigo?"
+description: "Roami vergleicht die kolumbianischen Anbieter für Reise-eSIM. 5G von Bogotá bis Cartagena. Finden Sie das schnellste Netz."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Kolumbien, Prepaid Daten, 5G Netz, Claro, Movistar, Tigo, Roaming vermeiden,
   Reise eSIM
 site_name: Roami

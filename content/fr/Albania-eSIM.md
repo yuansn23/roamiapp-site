@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Albanie | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:59+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Albanie | 5G pleine vitesse & auto-connexion | Roami
-  description: Vous partez en Albanie ? Roami fournit des données de voyage 5G haut
-    débit sur les meilleurs réseaux locaux. Installez facilement votre eSIM prépayée
-    et profitez d'une expérience Internet à connexion automatique avec zéro frais
-    caché.
+  title: "eSIM Albanie | 5G rapide, pas de frais d'itinérance"
+  description: "Explorez l'Albanie avec l'eSIM Roami. 5G rapide dans tout le pays. Activation instantanée. Forfaits données illimitées. Pas de frais d'itinérance."
   keywords: eSIM Albanie, internet mobile Albanie, voyage Albanie, couverture réseau
     Albanie, forfait data Albanie
 order_summary:

@@ -1,9 +1,7 @@
 ---
-title: Prepaid eSIM USA mit unbegrenztem Datenvolumen (Verizon, AT&T & T-Mobile)
-description: Bleiben Sie in ganz Amerika verbunden mit der Prepaid-eSIM. Unbegrenztes
-  Highspeed-Datenvolumen auf Verizon, AT&T & T-Mobile. Sofortige QR-Code-Aktivierung,
-  keine Roaming-Gebühren. Perfekt für Reise und Geschäft.
-date: '2026-05-21'
+title: "USA eSIM-Leitfaden | Verizon, T-Mobile oder AT&T?"
+description: "Roami vergleicht Verizon, T-Mobile und AT&T 5G für USA eSIM. Geschwindigkeitstests und Abdeckungskarten. Finden Sie das schnellste Netzwerk."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM USA, Prepaid Daten, 5G Netz, T-Mobile, AT&T, Verizon, Roami eSIM, USA
   Reise, mobiles Internet USA
 site_name: Roami

@@ -1,6 +1,6 @@
 ---
 title: Senegal eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:54:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Senegal eSIM - Cheap eSIM with Orange & Free Networks - Roami
-  description: Get instant Senegal eSIM with no roaming charges. Enjoy 5G/4G data,
-    QR code activation, and coverage in Dakar, Saint-Louis, and Thiès. Perfect travel
-    internet for tourists. Buy now!
+  title: "Senegal eSIM | Reliable 5G Nationwide"
+  description: "Stay connected in Senegal with Roami eSIM. Reliable 5G nationwide. Instant QR activation. Unlimited data from $1.99."
   keywords: Senegal eSIM, cheap eSIM Senegal, travel internet Senegal, eSIM with QR
     activation, no roaming charges Senegal
   low_price: 1.99

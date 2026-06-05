@@ -1,9 +1,7 @@
 ---
-title: eSIM prépayée Hong Kong avec données illimitées (CSL & 3)
-description: Connectez-vous instantanément à Hong Kong. eSIM prépayée avec données
-  illimitées sur CSL et 3 HK. Parfait pour les voyages d'affaires. Gardez votre numéro
-  d'origine tout en utilisant les données localement.
-date: '2026-05-21'
+title: "Guide eSIM Hong Kong | CMHK, CSL, 3 ou SmarTone ?"
+description: "Roami teste les quatre opérateurs de Hong Kong pour l'eSIM de voyage. Analyse 5G en milieu urbain dense. Quel réseau vous offre les données les plus rapides ?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Hong Kong, données prépayées, réseau 5G, China Mobile Hong Kong, Netvigator,
   Speedtest, Roami
 site_name: Roami

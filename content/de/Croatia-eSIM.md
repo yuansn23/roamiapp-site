@@ -1,6 +1,6 @@
 ---
 title: Kroatien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:51:09+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Kaufen Sie Kroatien eSIM | Unbegrenztes 5G Reiseinternet | Roami
-  description: Bald an der kroatischen Küste? Roami garantiert sorgenfreie Prepaid-Daten
-    und nahtloses echtes 5G auf den besten lokalen Netzen. Aktivieren Sie sofort Ihre
-    digitale SIM und vermeiden Sie internationale Roaminggebühren.
+  title: "Kroatien eSIM | 20% sparen, zuverlässiges 5G"
+  description: "Entdecken Sie Kroatien mit Roami eSIM. Zuverlässiges 5G entlang der Adriaküste und im Landesinneren. Sofortige QR-Aktivierung. Unbegrenzte Daten."
   keywords: Kroatien eSIM, Reisen Kroatien, mobiles Internet Kroatien, günstige eSIM
     Kroatien, Urlaub Kroatien
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Égypte | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:15:19+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Égypte | 5G toujours activée & données 24/7 |20% DE RÉDUCTION| Roami
-  description: Vous bientôt en Égypte ? Roami offre l'absence de choc de roaming sur
-    la 5G toujours activée fiable du meilleur opérateur local. Profitez de l'auto-connexion
-    et d'une connexion stable, adapté aux visites familiales.
+  title: "eSIM Égypte | Économisez 20 %, données 5G illimitées"
+  description: "Explorez l'Égypte avec l'eSIM Roami. 5G fiable dans tout le pays. Activation instantanée par QR. Forfaits données illimitées. Pas de frais d'itinérance."
   keywords: eSIM Égypte, forfait data Égypte, voyage Égypte, internet mobile Égypte,
     carte eSIM Le Caire, réseau 5G Égypte
 order_summary:

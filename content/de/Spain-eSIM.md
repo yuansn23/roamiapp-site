@@ -1,6 +1,6 @@
 ---
 title: Spanien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:52:41+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Kaufen Sie Spanien eSIM | Prepaid 5G Reisedaten | 20% RABATT | Roami
-  description: Internet in Spanien nötig? Roami bietet nahtlose digitale SIM-Konnektivität
-    auf dem zuverlässigen Vodafone 5G-Netz. Genießen Sie transparentes, hochgeschwindigkeits
-    Reiseinternet mit landesweiter Abdeckung für Ihren Urlaub.
+  title: "Spanien eSIM | 20% RABATT, unbegrenzte 5G-Daten"
+  description: "Entdecken Sie Spanien mit Roami eSIM. Unbegrenztes 5G auf dem Festland und den Inseln. Sofortige Einrichtung, keine Roaming-Gebühren. Tarife ab 1,99 $."
   keywords:
   - eSIM Spanien
   - Reise Spanien

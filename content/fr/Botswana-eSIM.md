@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Botswana | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:15:11+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Botswana | 5G pleine vitesse & sans frais d'itinérance | Roami
-  description: Vous voyagez au Botswana ? Restez connecté via la vraie 5G du meilleur
-    opérateur local avec des données sans souci. Profitez de l'absence de frais d'itinérance
-    et de la commutation auto réseau, adapté aux voyages d'affaires.
+  title: "eSIM Botswana | 5G rapide dans tout le pays"
+  description: "Restez connecté au Botswana avec l'eSIM Roami. 5G rapide dans tout le pays. Activation instantanée. Données illimitées à partir de 1,99 $."
   keywords: eSIM Botswana, voyage Botswana, couverture réseau Botswana, opérateurs
     mobiles Botswana, internet Botswana
 order_summary:

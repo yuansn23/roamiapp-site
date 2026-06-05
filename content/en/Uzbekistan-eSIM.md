@@ -1,6 +1,6 @@
 ---
 title: Uzbekistan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:53:44+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Uzbekistan eSIM |5G High-Speed Network |20% Off Code |Roami
-  description: Roami prepaid eSIM for Uzbekistan with high-speed data on Ucell & Beeline.
-    Instant QR code activation, no physical SIM swap needed. Use ROAMI20 for 20% off.
+  title: "Uzbekistan eSIM | Fast 5G, Instant Activation"
+  description: "Visit Uzbekistan with Roami eSIM. Fast 5G in Tashkent, Samarkand & nationwide. Instant QR activation. Unlimited data."
   keywords: Uzbekistan eSIM, travel internet Uzbekistan, prepaid eSIM Uzbekistan,
     Ucell eSIM, Beeline Uzbekistan eSIM
   low_price: 1.99

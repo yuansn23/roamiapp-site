@@ -1,6 +1,6 @@
 ---
 title: Fiji eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Best Fiji eSIM | 24/7 Data & High-Speed 5G | 20% OFF | Roami
-  description: Heading to Fiji soon? Enjoy Top Local Carrier Full-Speed 5G and Worry-Free
-    Data with Roami. Features Auto Network Switch and No Hidden Charges, great for
-    Family Vacations.
+  title: "Fiji eSIM | Fast 5G Across the Islands"
+  description: "Visit Fiji with Roami eSIM. Fast 5G on Viti Levu & outer islands. Instant activation. Unlimited data for your Pacific trip."
   keywords: Fiji eSIM, travel internet Fiji, cheap data Fiji, no roaming charges Fiji,
     instant eSIM Fiji
   low_price: 1.99

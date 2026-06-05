@@ -1,6 +1,6 @@
 ---
 title: Peru eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:51:32+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Beste Peru eSIM | Kein Roaming-Schock & Hochgeschwindigkeits-5G | Roami
-  description: Reisen Sie nach Peru? Erleben Sie Fair-Use-Daten und nahtloses stabiles
-    5G vom lokalen Top-Betreiber. Mit nahtloser Abdeckung und unbegrenzten Daten –
-    perfekt für digitale Nomaden.
+  title: "Peru eSIM | 20% RABATT, unbegrenzte 5G-Daten"
+  description: "Entdecken Sie Peru mit Roami eSIM. Schnelles 5G in Lima, Cusco und landesweit. Sofortige Aktivierung. Unbegrenzte Daten. Keine Roaming-Gebühren."
   keywords:
   - Peru eSIM
   - Reise Peru

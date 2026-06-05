@@ -3,12 +3,12 @@ title: "Politique de remboursement Roami | Protection d'achat eSIM"
 description: "Découvrez la politique de remboursement et de retour de Roami eSIM. Nous nous engageons à vous offrir une expérience satisfaisante."
 layout: "refund"
 type: "page"
-date: '2026-05-15T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 
 # SEO
 seo:
-  title: "Politique de remboursement Roami | Garantie d'achat eSIM"
-  description: "Informez-vous sur les conditions de remboursement, la procédure de demande et les questions fréquentes concernant Roami eSIM. Nous nous efforçons de vous offrir une expérience satisfaisante."
+  title: "Politique de remboursement | Garantie d'achat eSIM"
+  description: "Explication des conditions de remboursement Roami. Remboursements équitables et sans tracas si votre eSIM ne fonctionne pas. Découvrez l'éligibilité et comment réclamer."
   image: "/img/og-refund.jpg"
 
 # JSON-LD Schema (YAML对象，非字符串)

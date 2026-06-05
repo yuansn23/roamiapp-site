@@ -1,8 +1,7 @@
 ---
-title: Prepaid Guatemala eSIM with Unlimited Data (Tigo & Claro)
-description: Mayan ruins ready. Prepaid Guatemala eSIM with unlimited data. Instant
-  QR code, works in Antigua & Tikal.
-date: '2026-05-21'
+title: "Guatemala eSIM Guide | Tigo, Claro or Movistar?"
+description: "Roami compares Guatemala's carriers for travel eSIM. 5G from Antigua to Lake Atitlan. Which is most reliable?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Guatemala, prepaid data, 5G network, Claro, Tigo, Cable Color, Roami
   eSIM
 site_name: Roami

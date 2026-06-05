@@ -1,6 +1,6 @@
 ---
 title: Singapore eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Singapore eSIM | 20% OFF| Unlimited 5G Data Plans | Roami
-  description: Need internet in Singapore? Experience No Roaming Shock and seamless
-    Seamless 5G from Singtel. With Stable Connection and No Physical SIM, it's perfect
-    for Light Travel.
+  title: "Singapore eSIM | 20% OFF, Ultra-Fast 5G"
+  description: "Stay online in Singapore with Roami eSIM. Ultra-fast 5G island-wide. Instant QR activation. For business & leisure travelers."
   keywords: Singapore eSIM, travel eSIM Singapore, Singapore data plan, eSIM for Singapore
     travel, instant eSIM Singapore, cheap eSIM Singapore
   low_price: 1.99

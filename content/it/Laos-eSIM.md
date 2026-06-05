@@ -1,6 +1,6 @@
 ---
 title: Laos eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-08T14:40:29+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: web20
 seo:
-  title: Beste Prepaid eSIM für Laos kaufen - Ab $1.99 - Roami
-  description: Holen Sie sich die günstigste Prepaid eSIM für Laos mit sofortiger
-    Lieferung. Keine Roaming-Gebühren, mobiles Internet per QR-Code. Ideal für Reisen!
+  title: "eSIM Laos | 5G Veloce, Nessuna Tariffa di Roaming"
+  description: "Scopri il Laos con Roami eSIM. 5G veloce in tutta la nazione. Attivazione QR immediata. Piani dati illimitati. Nessuna tariffa di roaming."
   keywords: eSIM Laos, Prepaid eSIM Laos, günstige eSIM Laos, mobiles Internet Laos,
     Roaming vermeiden
   low_price: 1.99

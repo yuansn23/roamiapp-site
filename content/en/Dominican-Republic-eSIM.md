@@ -1,6 +1,6 @@
 ---
 title: Dominican Republic eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Dominican Republic eSIM Plan | Top Local Carrier Stable 5G| Roami
-  description: Heading to Dominican Republic soon? Experience Transparent Data and
-    seamless Zero-Lag 5G from Top Local Carrier. Perfect for Digital Nomads, offering
-    Zero Contracts and Seamless Coverage.
+  title: "Dominican Republic eSIM | Fast 5G, Unlimited Data"
+  description: "Escape to the DR with Roami eSIM. Fast 5G in Punta Cana, Santo Domingo & nationwide. Instant activation. Unlimited data."
   keywords: Dominican Republic eSIM, Claro, Altice, travel internet, no roaming, instant
     delivery, QR code activation
   low_price: 1.99

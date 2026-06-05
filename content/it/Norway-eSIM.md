@@ -1,6 +1,6 @@
 ---
 title: Norvegia eSIM Tariffa Dati | Migliore eSIM da viaggio 2026 | Roami
-date: '2026-06-01T16:08:49+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con il codice: web20
 seo:
-  title: Norvegia eSIM | Dati illimitati 5G
-  description: Ottieni la migliore eSIM per la Norvegia con consegna immediata, niente roaming e attivazione tramite QR code. Resta connesso a Oslo, Bergen e Tromsø – senza costi nascosti. Acquista ora l'eSIM!
+  title: "eSIM Norvegia | 20% DI SCONTO, Dati 5G Illimitati"
+  description: "Esplora la Norvegia con Roami eSIM. 5G veloce da Oslo all'Artico. Attivazione immediata. Piani dati illimitati."
   keywords: Norvegia eSIM, eSIM Norvegia, eSIM da viaggio Norvegia, consegna immediata eSIM, nessuna tariffa di roaming, attivazione QR code, eSIM economica Norvegia, rete mobile Norvegia
 order_summary:
   title: Tariffa selezionata

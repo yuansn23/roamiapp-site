@@ -1,6 +1,6 @@
 ---
 title: Romania eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Buy Romania eSIM | No Roaming Shock | No Roaming Fees | Roami
-  description: Planning a trip to Romania? Get Roami's High-Speed 5G on Top Local
-    Carrier with No Contract Data. Features Auto Network Switch and Auto-Connect,
-    great for Visiting Family.
+  title: "Romania eSIM | Save 20%, Fast 5G Data"
+  description: "Explore Romania with Roami eSIM. Fast 5G across the country. Instant QR activation. Unlimited data plans. No contract."
   keywords: Romania eSIM, prepaid eSIM, cheap eSIM, unlimited data, travel internet
   low_price: 1.99
   high_price: 39.9

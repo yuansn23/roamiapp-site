@@ -1,8 +1,7 @@
 ---
-title: Prepaid Korea eSIM with Unlimited Data (SKT & KT)
-description: Blazing fast 5G in Seoul with prepaid Korea eSIM. Powered by SK Telecom
-  & KT. Unlimited data, instant QR code. Best alternative to physical SIM cards.
-date: '2026-05-21'
+title: "Korea eSIM Guide | SK Telecom, KT or LG U+?"
+description: "Roami tests Korea's 5G networks for travel eSIM. The world's fastest speeds compared. Data for Seoul, Busan & Jeju."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Südkorea, prepaid data, 5G network, SK Telecom, LG U+, KT, Roami eSIM,
   travel internet
 site_name: Roami

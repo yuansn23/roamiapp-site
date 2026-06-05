@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Russie | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:14+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Russie | Vraie 5G Beeline | 20% DE RÉDUCTION | Roami
-  description: Besoin d'Internet en Russie ? Restez connecté via la vraie 5G Beeline
-    avec des données illimitées. Avec une couverture nationale et une configuration
-    QR instantanée, c'est parfait pour les visites familiales.
+  title: "eSIM Russie | 5G rapide, aucun contrat requis"
+  description: "Voyagez en Russie avec l'eSIM Roami. 5G rapide à Moscou, Saint-Pétersbourg et dans tout le pays. Activation instantanée par QR. Données illimitées à partir de 1,99 $."
   keywords: eSIM Russie, forfait mobile Russie, internet voyage Russie, couverture
     réseau Russie, opérateurs mobiles Russie
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: Taiwan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Taiwan eSIM | 20% OFF| Unlimited 5G Data Plans| Roami
-  description: Planning a trip to Taiwan? Experience 24/7 Data and seamless Native
-    5G from Chunghwa Telecom. Enjoy Zero Contracts and Seamless Coverage, tailored
-    for Business Trips.
+  title: "Taiwan eSIM | Fast 5G Island-Wide"
+  description: "Explore Taiwan with Roami eSIM. Fast 5G across the entire island. Instant QR activation. Unlimited data plans available."
   keywords: Taiwan eSIM, prepaid eSIM Taiwan, unlimited data Taiwan, cheap eSIM Taiwan,
     travel internet Taiwan
   low_price: 1.99

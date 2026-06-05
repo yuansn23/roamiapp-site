@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Malte | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:15:06+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Malte | Vraie 5G & sans frais cachés | Roami
-  description: Vous planifiez un voyage à Malte ? Restez connecté via la vraie 5G
-    du meilleur opérateur local avec des données 24/7. Idéal pour les nomades numériques.
-    Profitez de l'absence de frais cachés avec une couverture transparente.
+  title: "eSIM Malte | 5G rapide, forfaits données illimitées"
+  description: "Explorez Malte avec l'eSIM Roami. 5G rapide sur les trois îles. Activation instantanée par QR. Données illimitées pour votre séjour."
   keywords: eSIM Malte, internet mobile Malte, forfait data Malte, voyage Malte, réseau
     mobile Malte
 order_summary:

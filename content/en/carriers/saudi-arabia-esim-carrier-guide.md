@@ -1,8 +1,7 @@
 ---
-title: Prepaid KSA eSIM with Unlimited Data (STC & Mobily)
-description: Stay connected during Hajj or business trips. Prepaid KSA eSIM with unlimited
-  data on STC & Mobily. Fast 5G speeds across Riyadh & Jeddah.
-date: '2026-05-21'
+title: "Saudi Arabia eSIM | Fast 5G Nationwide"
+description: "Travel Saudi Arabia with Roami eSIM. Fast 5G in Riyadh, Jeddah & nationwide. Instant QR setup. Unlimited data from $1.99."
+date: '2026-06-04T00:00:00+00:00'
 keywords: Saudi Arabia eSIM, 5G travel network, STC eSIM, Mobily eSIM, Saudi Arabia
   travel eSIM, no roaming fees, eSIM compatibility
 site_name: Roami

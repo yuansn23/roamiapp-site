@@ -1,6 +1,6 @@
 ---
 title: "Forfait de données eSIM Amérique du Nord | Meilleure eSIM de voyage 2026 | Roami"
-date: '2026-05-12T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |
     Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20%, code promo :web20
 seo:
-  title: "Meilleure eSIM Amérique du Nord | Réseau local 5G haut débit | Roami"
-  description: "Vous partez bientôt en Amérique du Nord ? Profitez du réseau local haut débit 5G et d'une utilisation équitable avec Roami. Sans frais d'itinérance, couverture nationale, conçu pour les voyageurs légers."
+  title: "eSIM Amérique du Nord | 3 pays, -20 %"
+  description: "Traversez l'Amérique du Nord avec une seule eSIM Roami. 5G aux États-Unis, au Canada et au Mexique. Pas d'itinérance aux frontières. Activation instantanée."
   keywords: "eSIM Amérique du Nord, eSIM prépayée, eSIM pas chère, données illimitées, internet voyage, sans frais d'itinérance, livraison instantanée"
   low_price: 1.99
   high_price: 39.9

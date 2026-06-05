@@ -1,8 +1,7 @@
 ---
-title: Prepaid Ethiopia eSIM with Unlimited Data (Safaricom & Ethio Telecom)
-description: Explore Addis Ababa with ease. Prepaid Ethiopia eSIM with unlimited data.
-  Instant activation, avoid local SIM shops.
-date: '2026-05-21'
+title: "Ethiopia eSIM Guide | Ethio Telecom or Safaricom?"
+description: "Roami compares Ethiopia's networks for travel eSIM. 5G in Addis, Lalibela & nationwide. Find your best option."
+date: '2026-06-04T00:00:00+00:00'
 keywords: Ethiopia eSIM, Ethio Telecom, Safaricom, dual-SIM, travel eSIM, avoid roaming
   fees, Lalibela, 5G, local data plan
 site_name: Roami

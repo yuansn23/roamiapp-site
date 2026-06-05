@@ -1,6 +1,6 @@
 ---
 title: Dominica eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:51:32+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Dominica eSIM | Bestes lokales Netzwerk | Unbegrenzte Daten | Roami
-  description: Internet in Dominica nötig? Bleiben Sie über den lokalen Top-Betreiber
-    mit nativem 5G und transparenten Daten verbunden. Mit landesweiter Abdeckung und
-    keinen Roaminggebühren – perfekt für Familienbesuche.
+  title: "Dominica eSIM | Schnelles 5G auf der ganzen Insel"
+  description: "Besuchen Sie Dominica mit Roami eSIM. Schnelles 5G auf der ganzen Insel. Sofortige Aktivierung. Unbegrenzte Datentarife. Kein Vertrag."
   keywords: Dominica eSIM, Reisender, Netzabdeckung, Mobilfunk, Reisevorbereitung,
     Datenroaming
 order_summary:

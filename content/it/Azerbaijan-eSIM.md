@@ -1,6 +1,6 @@
 ---
 title: eSIM Azerbaigian Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:02+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM da viaggio Azerbaigian |20% sconto | 5G affidabile
-  description: Hai bisogno di connessione in Azerbaigian? Goditi vero 5G e uso equo
-    dei dati con Roami dai migliori operatori locali. Migliore rete locale e connessione
-    automatica – ideale per viaggi leggeri.
+  title: "eSIM Azerbaigian | 5G Veloce in Tutta la Nazione"
+  description: "Visita l'Azerbaigian con Roami eSIM. 5G veloce in tutta la nazione. Attivazione QR immediata. Dati illimitati da 1,99 $. Nessun contratto."
   keywords: eSIM Azerbaigian, viaggio Azerbaigian, internet mobile Azerbaigian, turismo
     Azerbaigian, connettività Baku
 order_summary:

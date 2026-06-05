@@ -1,6 +1,6 @@
 ---
 title: Nepal eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:53:52+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Nepal Prepaid eSIM |20% Discount |5G High-Speed |Roami
-  description: High-speed connectivity with Roami Nepal eSIM on Ncell & NTC. Instant
-    QR code delivery, no physical SIM swap required. Enter ROAMI20 to save 20%.
+  title: "Nepal eSIM | Reliable 5G in City & Mountain"
+  description: "Travel Nepal with Roami eSIM. Reliable 5G in Kathmandu, Pokhara & beyond. Instant activation. Unlimited data available."
   keywords: Nepal eSIM, cheap eSIM Nepal, instant eSIM Nepal, travel internet Nepal,
     no roaming charges Nepal
   low_price: 1.99

@@ -1,8 +1,7 @@
 ---
-title: Prepaid N. Macedonia eSIM with Unlimited Data (A1 & Makedonski)
-description: Ohrid Lake connected. Prepaid North Macedonia eSIM with unlimited data.
-  Instant activation, no local ID required.
-date: '2026-05-21'
+title: "N. Macedonia eSIM Guide | Telekom or A1?"
+description: "Roami compares N. Macedonia carriers for travel eSIM. 5G from Skopje to Lake Ohrid. Find the most reliable network."
+date: '2026-06-04T00:00:00+00:00'
 keywords: North Macedonia eSIM, buy eSIM North Macedonia, A1 Macedonia, Makedonski
   Telekom, travel eSIM, instant connect, avoid roaming fees, Lake Ohrid, Skopje Old
   Bazaar

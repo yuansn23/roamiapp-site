@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Autriche | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:20+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Autriche | Données 24/7 & 5G rapide | 20% DE RÉDUCTION | Roami
-  description: Vous bientôt en Autriche ? Obtenez la 5G rapide de Roami sur le meilleur
-    opérateur local avec des données haut débit. Profitez de l'absence de SIM physique
-    et d'une couverture transparente, adaptée aux voyages d'affaires.
+  title: "eSIM Autriche | -20 %, 5G fiable"
+  description: "Restez connecté en Autriche avec l'eSIM Roami. 5G fiable dans les villes et les régions alpines. Activation instantanée. Données illimitées à partir de 1,99 $."
   keywords: eSIM Autriche, forfait data Autriche, internet voyage Autriche, réseau
     mobile Autriche, carte eSIM Autriche
 order_summary:

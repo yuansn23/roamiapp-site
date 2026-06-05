@@ -1,8 +1,7 @@
 ---
-title: Prepaid Romania eSIM with Unlimited Data (Vodafone & Orange)
-description: Transylvania connected. Prepaid Romania eSIM with unlimited data. Fast
-  speeds in Bucharest & Brasov. Instant digital delivery.
-date: '2026-05-21'
+title: "Romania eSIM Guide | Orange, Vodafone or Digi?"
+description: "Roami compares Romania's carriers for travel eSIM. 5G in Bucharest & nationwide. Find the most reliable network."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Rumänien, prepaid data, 5G network, Orange Romania, DIGI Romania, travel
   eSIM, mobile internet Romania
 site_name: Roami

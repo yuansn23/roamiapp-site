@@ -1,8 +1,7 @@
 ---
-title: Prepaid Uganda eSIM with Unlimited Data (MTN & Airtel)
-description: Gorilla trekking ready. Prepaid Uganda eSIM with unlimited data. Instant
-  setup, works in Kampala & national parks.
-date: '2026-05-21'
+title: "Uganda eSIM Guide | MTN, Airtel or UTL?"
+description: "Roami compares Uganda's carriers for travel eSIM. 5G in Kampala & nationwide. Find the fastest network."
+date: '2026-06-04T00:00:00+00:00'
 keywords: Uganda eSIM, travel internet Uganda, MTN Uganda, Airtel Uganda, Bwindi eSIM,
   no roaming fees Uganda, instant eSIM Uganda, plug-and-play eSIM
 site_name: Roami

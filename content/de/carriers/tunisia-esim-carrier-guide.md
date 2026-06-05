@@ -1,8 +1,7 @@
 ---
-title: Prepaid Tunesien eSIM mit unbegrenztem Datenvolumen (Ooredoo & Tunisie Telecom)
-description: Karthago-Geschichte verbunden. Prepaid Tunesien eSIM mit unbegrenztem
-  Datenvolumen. Sofortige Aktivierung, funktioniert in Tunis & Sousse.
-date: '2026-05-21'
+title: "Tunesien eSIM-Leitfaden | Tunisie Telecom oder Orange?"
+description: "Roami vergleicht die tunesischen Anbieter für Reise-eSIM. 5G von Karthago bis Djerba. Welches Netz ist am schnellsten?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Tunesien, Prepaid Daten, 5G Netz, Ooredoo, Tunisie Telecom, Orange
   Tunesien, Roami eSIM, Reise Internet Tunesien
 site_name: Roami

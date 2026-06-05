@@ -1,6 +1,6 @@
 ---
 title: French Guiana eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Best French Guiana eSIM | High-Speed 5G Local Data | Roami
-  description: Need internet in French Guiana? Get online instantly with a Roami prepaid
-    eSIM. Enjoy unlimited 5G travel data on reliable local mobile networks, complete
-    with multi-country roaming and no hidden fees.
+  title: "French Guiana eSIM | Fast 5G, Instant Setup"
+  description: "Stay connected in French Guiana with Roami eSIM. Fast 5G in Cayenne, Kourou & nationwide. Instant activation. Unlimited data."
   keywords: French Guiana eSIM, travel internet, instant delivery, no roaming charges,
     QR code activation, Digicel, Orange, cheap data, unlimited data, roaming free
   low_price: 1.99

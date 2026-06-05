@@ -1,6 +1,6 @@
 ---
 title: Turkey eSIM | 20% OFF | Best eSIM for Turkey Travel | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Turkey eSIM | 20% OFF | Unlimited 5G Data Plans| Roami
-  description: Buy the best eSIM for Turkey and enjoy high-speed 5G from Turkcell & Vodafone. Unlimited data options, instant delivery – the cheapest eSIM Turkey for tourists. Compare with Airalo Turkey & Holafly Turkey.
+  title: "Turkey eSIM | 20% OFF, Unlimited 5G Data"
+  description: "Explore Turkey with Roami eSIM. Fast 5G nationwide. Instant QR setup. Unlimited data from $1.99. No roaming charges."
   keywords: Turkey eSIM, cheap eSIM Turkey, unlimited data Turkey, travel internet Turkey, instant delivery eSIM, best eSIM Turkey, buy Turkey eSIM, eSIM Turkey tourist
   low_price: 1.99
   high_price: 39.9

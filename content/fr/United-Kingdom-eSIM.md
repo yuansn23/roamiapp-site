@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Royaume-Uni | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:47+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Royaume-Uni | 5G à latence zéro EE | 20% DE RÉDUCTION | Roami
-  description: Vous voyagez au Royaume-Uni ? Roami offre des données transparentes
-    sur la 5G à latence zéro fiable de Vodafone. Bénéficiez d'une couverture transparente
-    et de données illimitées, parfait pour les vacances en famille.
+  title: "eSIM Royaume-Uni | -20 %, données 5G illimitées"
+  description: "Restez en ligne au Royaume-Uni avec l'eSIM Roami. 5G rapide, données illimitées, configuration instantanée par QR. Couvre Londres, Édimbourg et tout le pays."
   keywords: eSIM Royaume-Uni, forfait data voyage, couverture mobile Londres, eSIM
     pas cher, internet Royaume-Uni, voyage Royaume-Uni, carte eSIM
 order_summary:

@@ -1,8 +1,7 @@
 ---
-title: Prepaid Nigeria eSIM with Unlimited Data (MTN & Airtel)
-description: Reliable internet for Lagos & Abuja. Prepaid Nigeria eSIM with unlimited
-  data. Instant activation, avoid local SIM registration stress.
-date: '2026-05-21'
+title: "Nigeria eSIM Guide | MTN, Airtel or Glo?"
+description: "Roami compares Nigeria's carriers for travel eSIM. 5G in Lagos, Abuja & nationwide. Find the fastest network."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Nigeria, prepaid data, 5G network, MTN, ipNX, Roami eSIM
 site_name: Roami
 brand_name: Roami

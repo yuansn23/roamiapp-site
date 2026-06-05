@@ -1,8 +1,7 @@
 ---
-title: Prepaid Netherlands eSIM with Unlimited Data (KPN & Vodafone)
-description: Best prepaid eSIM for Amsterdam. Unlimited data on KPN & Vodafone. Instant
-  activation, no credit checks. Perfect for canal tours and business meetings.
-date: '2026-05-21'
+title: "NL eSIM Guide | KPN, Vodafone or T-Mobile?"
+description: "Roami compares Dutch carriers for travel eSIM. Dense 5G nationwide. Which network gives you the fastest data?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Niederlande, prepaid data, 5G network, Odido, KPN Mobile, Vodafone,
   travel eSIM, Netherlands eSIM
 site_name: Roami

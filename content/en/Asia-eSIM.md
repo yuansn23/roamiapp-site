@@ -1,6 +1,6 @@
 ---
 title: Asia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Best Asia eSIM | Unlimited Travel Data for 15+ Countries | Roami
-  description: Exploring Japan, Korea, Thailand, and more? One Asia eSIM covers your
-    entire trip. Enjoy seamless cross-border 5G/4G data without changing SIM cards.
+  title: "Asia eSIM | 15+ Countries, 20% OFF"
+  description: "Backpack Asia with one Roami eSIM. 5G across Japan, Korea, Thailand & 12+ more. No roaming fees, no SIM swapping."
   keywords: Asia eSIM, travel SIM Asia, instant delivery eSIM, no roaming Asia, QR
     code activation, 5G coverage Asia, travel internet
   low_price: 1.99

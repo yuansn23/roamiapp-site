@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Chypre | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:13:47+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Chypre | Données illimitées 5G | 20% DE RÉDUCTION | Roami
-  description: Besoin d'Internet à Chypre ? Roami offre l'absence de choc de roaming
-    sur la 5G rapide fiable du meilleur opérateur local. Profitez de données illimitées
-    et d'une couverture transparente, adapté aux visites familiales.
+  title: "eSIM Chypre | 5G fiable sur toute l'île"
+  description: "Restez connecté à Chypre avec l'eSIM Roami. 5G fiable sur toute l'île. Activation instantanée. Données illimitées à partir de 1,99 $."
   keywords: eSIM Chypre, forfait eSIM Chypre, internet mobile Chypre, carte eSIM voyage
     Chypre, données mobiles Chypre
 order_summary:

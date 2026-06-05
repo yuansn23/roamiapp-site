@@ -1,6 +1,6 @@
 ---
 title: Indonesien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:50:53+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Indonesien eSIM Plan | Indosat Schnelles 5G | 20% RABATT | Roami
-  description: Reisen Sie nach Indonesien? Bleiben Sie über Indosat immer-verfügbares
-    5G mit Hochgeschwindigkeitsdaten verbunden. Perfekt für Familienbesuche – 24/7
-    Support und bestes lokales Netzwerk.
+  title: "Indonesien eSIM | 20% RABATT, unbegrenzte 5G-Daten"
+  description: "Bleiben Sie in ganz Indonesien mit Roami eSIM verbunden. Schnelles 5G auf Bali, Jakarta und großen Inseln. Sofortige Aktivierung. Unbegrenzte Daten."
   keywords: eSIM, Indonesien, Reise, mobiles Internet, Netzabdeckung, günstige eSIM,
     Datenpaket, Touristen, Bali, Jakarta, Yogiakarta, Telkomsel, XL Axiata, Indosat,
     5G, 4G, LTE, sofortige Aktivierung, Hotspot, lokale Simkarte, Auslandsreise, Urlaub,

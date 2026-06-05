@@ -1,8 +1,7 @@
 ---
-title: Prepaid Peru eSIM with Unlimited Data (Claro & Movistar)
-description: Stay connected on the Inca Trail. Prepaid Peru eSIM with unlimited data.
-  Reliable service in Cusco & Machu Picchu. Instant QR code sent to email.
-date: '2026-05-21'
+title: "Peru eSIM Guide | Movistar, Claro or Entel?"
+description: "Roami compares Peru's carriers for travel eSIM. 5G from Lima to Cusco. Which gives you the best coverage?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Peru, prepaid data, 5G network, Claro, Entel, Mi Fibra, Speedtest,
   travel eSIM
 site_name: Roami

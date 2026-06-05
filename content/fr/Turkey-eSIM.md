@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Turquie | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:13:55+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Turquie | 5G Türk Telekom | 20% DE RÉDUCTION | Roami
-  description: Explorez la Turquie en toute simplicité. Restez connecté via la 5G
-    haut débit Türk Telekom avec des données sans engagement. Profitez de l'absence
-    de SIM physique et de l'itinérance multi-pays, adapté aux voyages légers.
+  title: "eSIM Turquie | -20 %, données 5G illimitées"
+  description: "Explorez la Turquie avec l'eSIM Roami. 5G rapide dans tout le pays. Configuration instantanée par QR. Données illimitées à partir de 1,99 $. Pas de frais d'itinérance."
   keywords: eSIM Turquie, forfait data Turquie, voyage Turquie, connexion internet
     Turquie, carte eSIM Istanbul, Antalya, Ankara, Izmir
 order_summary:

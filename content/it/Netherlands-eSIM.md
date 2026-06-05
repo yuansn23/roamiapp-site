@@ -1,6 +1,6 @@
 ---
 title: eSIM Paesi Bassi Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:02:43+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Pacchetto eSIM Paesi Bassi | Dati 5G per viaggi
-  description: Hai bisogno di connessione nei Paesi Bassi? Ottieni 5G stabile KPN
-    e dati 24/7 con Roami. Supporto 24/7 e migliore rete locale – pensato per nomadi
-    digitali.
+  title: "eSIM Paesi Bassi | 20% DI SCONTO, 5G Veloce"
+  description: "Esplora i Paesi Bassi con Roami eSIM. 5G veloce in tutto il paese. Attivazione QR immediata. Piani dati illimitati."
   keywords: eSIM Paesi Bassi, internet mobile Paesi Bassi, viaggio Paesi Bassi, dati
     mobili Paesi Bassi, roaming Paesi Bassi, connettività Paesi Bassi
 order_summary:

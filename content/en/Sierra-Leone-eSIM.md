@@ -1,6 +1,6 @@
 ---
 title: Sierra Leone eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:53:44+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Sierra Leone eSIM |5G High-Speed Network |20% Off Code |Roami
-  description: Stable internet with Roami prepaid eSIM for Sierra Leone on Orange
-    & Africell. Instant activation via email, no physical card. Enter ROAMI20 for
-    20% off.
+  title: "Sierra Leone eSIM | Fast 5G, No Roaming"
+  description: "Discover Sierra Leone with Roami eSIM. Fast 5G nationwide. Instant activation. Unlimited data plans. No roaming."
   keywords: Sierra Leone eSIM, cheap eSIM Sierra Leone, travel internet Sierra Leone,
     instant delivery eSIM, no roaming charges
   low_price: 1.99

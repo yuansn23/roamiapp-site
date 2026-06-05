@@ -1,8 +1,7 @@
 ---
-title: Prepaid NZ eSIM with Unlimited Data (Spark & Vodafone)
-description: Road trip ready! Prepaid New Zealand eSIM with unlimited data. Works
-  great in remote areas. Instant activation, no need to visit a store.
-date: '2026-05-21'
+title: "NZ eSIM Guide | Spark, One NZ or 2degrees?"
+description: "Roami compares NZ carriers for travel eSIM. 5G on both islands. Find the best network for road trips & backcountry."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Neuseeland, prepaid data, 5G network, One NZ, Spark, 2degrees, travel
   eSIM
 site_name: Roami

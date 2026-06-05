@@ -1,8 +1,7 @@
 ---
-title: Prepaid India eSIM with Unlimited Data (Airtel & Jio)
-description: Reliable prepaid eSIM for India. Unlimited data on Airtel & Jio networks.
-  Instant activation, no local address needed. Stay connected in Mumbai, Delhi & Goa.
-date: '2026-05-21'
+title: "India eSIM Guide | Airtel, Jio or Vi?"
+description: "Roami compares India's carriers for travel eSIM. 5G across 28 states. Which works without a local ID? Speed data inside."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Indien, prepaid data, 5G network, Jio, Airtel, travel eSIM, digital
   nomad
 site_name: Roami

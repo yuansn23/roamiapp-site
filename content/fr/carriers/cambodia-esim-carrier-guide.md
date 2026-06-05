@@ -1,8 +1,7 @@
 ---
-title: eSIM prépayée Cambodge avec données illimitées (Smart & Cellcard)
-description: Prêt pour Angkor Wat. eSIM prépayée Cambodge avec données illimitées.
-  Code QR instantané, pas besoin d'acheter des SIM locales à Siem Reap.
-date: '2026-05-21'
+title: "Guide eSIM Cambodge | Smart, Cellcard ou Metfone ?"
+description: "Roami compare les opérateurs cambodgiens pour l'eSIM de voyage. 5G d'Angkor à la côte. Trouvez le réseau le plus rapide."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Cambodge, données prépayées, réseau 5G, Smart, Cellcard, MekongNet,
   Ta Khmau, guide voyage
 site_name: Roami

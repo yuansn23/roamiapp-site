@@ -1,8 +1,7 @@
 ---
-title: eSIM prépayée Macao avec données illimitées (CTM & 3 Macau)
-description: 5G haut débit à Macao. eSIM prépayée avec données illimitées. Activation
-  instantanée, parfait pour les voyages de casino et les affaires.
-date: '2026-05-21'
+title: "Guide eSIM Macao | CTM, SmarTone ou 3 ?"
+description: "Roami compare les opérateurs de Macao pour l'eSIM de voyage. 5G sur la péninsule et à Cotai. Trouvez le meilleur réseau."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Macao, données prépayées, réseau 5G, CTM, China Telecom, Speedtest,
   voyage Macao, itinérance gratuite
 site_name: Roami

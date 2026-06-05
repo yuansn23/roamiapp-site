@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Pologne | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:13:34+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Pologne | 5G pleine vitesse | 20% DE RÉDUCTION | Roami
-  description: Vous planifiez un voyage en Pologne ? Découvrez des données sans souci
-    et une 5G pleine vitesse transparente du meilleur opérateur local. Parfait pour
-    les voyages légers, offrant zéro contrat et une couverture nationale.
+  title: "eSIM Pologne | -20 %, forfaits à partir de 1,99 $"
+  description: "Visitez la Pologne avec l'eSIM Roami. 5G rapide à Varsovie, Cracovie et dans tout le pays. Configuration instantanée par QR. Données illimitées à partir de 1,99 $."
   keywords:
   - eSIM Pologne
   - itinérance internet Pologne

@@ -1,6 +1,6 @@
 ---
 title: Malawi eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Best Malawi eSIM | No Contract Data & Stable 5G | Roami
-  description: Traveling to Malawi? Stay connected via Top Local Carrier True 5G with
-    No Contract Data. Ideal for Visiting Family. Enjoy Unlimited Data with Best Local
-    Network.
+  title: "Malawi eSIM | Fast 5G Nationwide"
+  description: "Discover Malawi with Roami eSIM. Fast 5G nationwide. Instant activation. Unlimited data from $1.99."
   keywords: Malawi eSIM, travel internet Malawi, instant eSIM, no roaming charges,
     Airtel Malawi, TNM eSIM
   low_price: 1.99

@@ -1,6 +1,6 @@
 ---
 title: Tunesien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:40+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Tunesien eSIM Plan | Lokaler Top-Betreiber Natives 5G | 20% RABATT | Roami
-  description: Planen Sie eine Reise nach Tunesien? Roami bietet Hochgeschwindigkeitsdaten
-    auf dem zuverlässigen lokalen Top-Betreiber mit nativem 5G. Mit landesweiter Abdeckung
-    und keinen versteckten Gebühren – perfekt für digitale Nomaden.
+  title: "Tunesien eSIM | Schnelles 5G, keine Roaming-Gebühren"
+  description: "Besuchen Sie Tunesien mit Roami eSIM. Schnelles 5G landesweit. Sofortige Aktivierung. Unbegrenzte Datentarife. Keine Roaming-Gebühren."
   keywords: eSIM, Tunesien, Reise, mobiles Internet, Netzabdeckung, Tourismus, Datenpaket,
     Ausland
 order_summary:

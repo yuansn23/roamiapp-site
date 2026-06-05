@@ -1,6 +1,6 @@
 ---
 title: Andorra eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Best Andorra eSIM | No Hidden Fees & Seamless 5G | Roami
-  description: Planning a trip to Andorra? Get Roami's Fast 5G on Top Local Carrier
-    with No Contract Data. Enjoy Unlimited Data and Best Local Network, tailored for
-    Visiting Family.
+  title: "Andorra eSIM | Fast 5G Across the Country"
+  description: "Visit Andorra with Roami eSIM. Fast 5G across the principality. Instant QR activation. Unlimited data for your Pyrenees trip."
   keywords: Andorra eSIM, travel internet Andorra, eSIM Andorra, Andorra Telecom,
     instant eSIM, no roaming charges
   low_price: 1.99

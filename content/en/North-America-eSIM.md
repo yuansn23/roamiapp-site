@@ -1,6 +1,6 @@
 ---
 title: North America eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Top North America eSIM  Top Local Carrier High-Speed 5G | Roami
-  description: Heading to North America soon? Enjoy Top Local Carrier Fast 5G and
-    Fair Use Data with Roami. Enjoy No Roaming Fees and Nationwide Coverage, tailored
-    for Light Travel.
+  title: "North America eSIM | 3 Countries, 20% OFF"
+  description: "Cross North America with one Roami eSIM. 5G in USA, Canada & Mexico. No roaming at borders. Instant activation."
   keywords: North America eSIM, prepaid eSIM, cheap eSIM, unlimited data, travel internet,
     no roaming charges, instant delivery
   low_price: 1.99

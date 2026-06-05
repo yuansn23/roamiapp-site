@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Congo | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:15:24+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Congo | Données illimitées 5G | 20% DE RÉDUCTION | Roami
-  description: Vous bientôt au Congo ? Découvrez des données 24/7 et une 5G à latence
-    zéro transparente du meilleur opérateur local. Avec une couverture nationale et
-    l'absence de frais d'itinérance, c'est parfait pour les visites familiales.
+  title: "eSIM Congo | 5G fiable dans tout le pays"
+  description: "Visitez le Congo avec l'eSIM Roami. 5G fiable à Brazzaville, Pointe-Noire et dans tout le pays. Activation instantanée par QR. Données illimitées."
   keywords: eSIM Congo, forfait mobile Congo, internet voyage Congo, couverture réseau
     Congo, carte eSIM Congo
 order_summary:

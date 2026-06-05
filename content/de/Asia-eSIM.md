@@ -1,6 +1,6 @@
 ---
 title: Asien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-08T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Beste Asien eSIM – Unbegrenzte Reisedaten für 15+ Länder | Roami
-  description: Reisen Sie nach Japan, Korea, Thailand und mehr? Eine Asien eSIM deckt Ihre gesamte Reise ab. Genießen Sie nahtloses grenzüberschreitendes 5G/4G-Daten ohne SIM-Kartenwechsel.
+  title: "Asien eSIM | 15+ Länder, 20% RABATT"
+  description: "Backpacking durch Asien mit einer Roami eSIM. 5G in Japan, Korea, Thailand und 12+ weiteren Ländern. Keine Roaming-Gebühren, kein SIM-Wechsel."
   keywords: Asien eSIM, Reise-SIM Asien, sofortige eSIM-Lieferung, kein Roaming in Asien, QR-Code Aktivierung, 5G Abdeckung Asien, Reiseinternet
   low_price: 1.99
   high_price: 39.9

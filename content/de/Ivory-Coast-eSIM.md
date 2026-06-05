@@ -1,6 +1,6 @@
 ---
 title: Elfenbeinküste eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:19+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Elfenbeinküste eSIM | 20% RABATT | Nahtloses 5G für digitale Nomaden | Roami
-  description: Reisen Sie an die Elfenbeinküste? Roami bietet transparente Daten auf
-    dem zuverlässigen lokalen Top-Betreiber mit Hochgeschwindigkeits-5G. Bietet automatischen
-    Netzwerkwechsel und unbegrenzte Daten – ideal für leichte Reisen.
+  title: "Elfenbeinküste eSIM | Zuverlässiges 5G landesweit"
+  description: "Entdecken Sie die Elfenbeinküste mit Roami eSIM. Zuverlässiges 5G landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten ab 1,99 $."
   keywords: eSIM Elfenbeinküste, mobile Daten Côte d'Ivoire, Reise eSIM, Internet
     Abidjan, Touristen eSIM
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: Liberia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Liberia eSIM Plan | Seamless 5G Mobile Data | 20% OFF | Roami
-  description: Traveling to Liberia? Avoid roaming shock by downloading a Roami digital
-    SIM card. Connect to the best local networks for stable 5G travel internet and
-    enjoy unlimited prepaid data on the go.
+  title: "Liberia eSIM | Reliable 5G Nationwide"
+  description: "Stay connected in Liberia with Roami eSIM. Reliable 5G nationwide. Instant QR activation. Unlimited data from $1.99."
   keywords: Liberia eSIM, eSIM Liberia, Liberia travel internet, data eSIM Liberia,
     Orange Liberia, Lonestar Cell MTN
   low_price: 1.99

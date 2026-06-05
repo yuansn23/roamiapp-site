@@ -1,8 +1,7 @@
 ---
-title: Prepaid Philippines eSIM with Unlimited Data (Globe & Smart)
-description: Island-hopping ready! Prepaid Philippines eSIM with unlimited data on
-  Globe & Smart. Fast 5G coverage. No more searching for local SIM cards.
-date: '2026-05-21'
+title: "Philippines eSIM Guide | Globe, Smart or DITO?"
+description: "Roami compares PH carriers for travel eSIM. 5G across Luzon, Visayas & Mindanao. Find your best option for island trips."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Philippinen, prepaid data, 5G network, Globe, Smart, DITO, travel eSIM,
   Roami
 site_name: Roami

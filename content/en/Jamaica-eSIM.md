@@ -1,6 +1,6 @@
 ---
 title: Jamaica eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Best Jamaica eSIM | High-Speed 5G Travel Internet | Roami
-  description: Relax in Jamaica while staying perfectly connected. A Roami virtual
-    SIM provides always-on 5G access via reliable local networks. Enjoy fast, prepaid
-    travel data with absolutely no hidden roaming fees.
+  title: "Jamaica eSIM | Fast 5G Island-Wide"
+  description: "Visit Jamaica with Roami eSIM. Fast 5G across the island. Instant QR activation. Unlimited data for your stay."
   keywords: Jamaica eSIM, eSIM Jamaica, Jamaica travel internet, instant eSIM, no
     roaming charges, QR code activation
   low_price: 1.99

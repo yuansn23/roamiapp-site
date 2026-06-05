@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Afghanistan | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:07+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Afghanistan | 5G locale haut débit & données haut débit | Roami
-  description: Vous voyagez en Afghanistan ? Roami vous offre des données haut débit
-    sur un réseau 5G fiable d'un opérateur local. Avec une connexion stable et aucune
-    SIM physique, c'est parfait pour les vacances en famille.
+  title: "eSIM Afghanistan | 5G fiable dans les grandes villes"
+  description: "Restez connecté en Afghanistan avec l'eSIM Roami. 5G fiable à Kaboul et dans les grandes villes. Activation instantanée. Forfaits données illimitées."
   keywords: eSIM Afghanistan, voyage Afghanistan, couverture mobile Afghanistan, internet
     Afghanistan, tourisme Afghanistan
 order_summary:

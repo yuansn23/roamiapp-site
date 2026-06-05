@@ -1,8 +1,7 @@
 ---
-title: Prepaid Kazakhstan eSIM with Unlimited Data (Kcell & Beeline)
-description: Steppe-connectivity. Prepaid Kazakhstan eSIM with unlimited data. Instant
-  activation, works in Almaty & Astana. No physical card needed.
-date: '2026-05-21'
+title: "Kazakhstan eSIM Guide | Beeline, Kcell or Tele2?"
+description: "Roami compares Kazakhstan carriers for travel eSIM. 5G from Almaty to the Caspian. Which network is fastest?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Kasachstan, prepaid data, 5G network, Tele2, Kcell, Meganet, Speedtest
   Connectivity Report
 site_name: Roami

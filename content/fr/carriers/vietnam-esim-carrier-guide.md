@@ -1,9 +1,7 @@
 ---
-title: eSIM prépayée Vietnam avec données illimitées (Viettel & Vinaphone)
-description: Vivez une 5G stable à Hanoï et Hô-Chi-Minh-Ville. eSIM prépayée Vietnam
-  avec données illimitées. Évitez les tracas de carte SIM à l'aéroport. Activez par
-  simple scan QR.
-date: '2026-05-21'
+title: "Guide eSIM Vietnam | Viettel, Mobifone ou Vina ?"
+description: "Roami compare les opérateurs vietnamiens pour l'eSIM de voyage. 5G de Hanoï à Saigon. Lequel vous offre les vitesses les plus fiables ?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Vietnam, données prépayées, réseau 5G, Viettel, Vinaphone, mobifone,
   FPT Telecom, guide voyage, connectivité
 site_name: Roami

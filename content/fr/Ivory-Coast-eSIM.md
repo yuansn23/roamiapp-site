@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Côte d'Ivoire | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:41+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Côte d'Ivoire | 5G haut débit | 20% DE RÉDUCTION | Roami
-  description: Vous voyagez en Côte d'Ivoire ? Roami offre des données transparentes
-    sur la 5G haut débit fiable du meilleur opérateur local. Bénéficiez d'une commutation
-    auto réseau et de données illimitées, parfait pour les voyages légers.
+  title: "eSIM Côte d'Ivoire | 5G fiable dans tout le pays"
+  description: "Découvrez la Côte d'Ivoire avec l'eSIM Roami. 5G fiable dans tout le pays. Activation instantanée par QR. Données illimitées à partir de 1,99 $."
   keywords: eSIM Côte d'Ivoire, forfait mobile Côte d'Ivoire, internet voyage Côte
     d'Ivoire, carte eSIM Abidjan, réseau mobile 4G 5G Côte d'Ivoire
 order_summary:

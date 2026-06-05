@@ -1,6 +1,6 @@
 ---
 title: Gibraltar eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:54:09+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Gibraltar Prepaid eSIM |20% Off Code |5G High-Speed |Roami
-  description: Roami eSIM for Gibraltar delivers fast data on Gibtelecom. Instant
-    activation upon arrival, keep your primary number active. Use code ROAMI20 for
-    20% off.
+  title: "Gibraltar eSIM | Fast 5G, Instant Setup"
+  description: "Stay connected in Gibraltar with Roami eSIM. Fast 5G across the territory. Instant activation. Unlimited data from $1.99."
   keywords: Gibraltar eSIM, cheap eSIM Gibraltar, travel internet Gibraltar, instant
     delivery eSIM, no roaming charges Gibraltar, QR code activation eSIM
   low_price: 1.99

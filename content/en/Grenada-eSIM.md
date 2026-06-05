@@ -1,6 +1,6 @@
 ---
 title: Grenada eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Best Grenada eSIM | Worry-Free Data & Native 5G | Roami
-  description: Heading to Grenada soon? Roami offers Unlimited Data on the reliable
-    Top Local Carrier Fast 5G. Ideal for Family Vacations. Enjoy No Physical SIM with
-    Nationwide Coverage.
+  title: "Grenada eSIM | Reliable 5G Island-Wide"
+  description: "Stay connected in Grenada with Roami eSIM. Reliable 5G across the islands. Instant QR activation. Unlimited data from $1.99."
   keywords: Grenada eSIM, travel internet Grenada, instant eSIM, no roaming charges,
     QR code activation
   low_price: 1.99

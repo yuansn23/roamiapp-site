@@ -1,6 +1,6 @@
 ---
 title: eSIM Guadalupa Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:59+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM Guadalupa | Dati 5G illimitati per viaggi
-  description: Hai bisogno di connessione in Guadalupa? Goditi vero 5G e dati 24/7
-    con Roami da operatori top locali. Cambio automatico di rete e supporto 24/7 –
-    perfetto per vacanze in famiglia.
+  title: "eSIM Guadalupa | 5G Veloce su Tutte le Isole"
+  description: "Esplora la Guadalupa con Roami eSIM. 5G veloce su tutte le isole. Attivazione immediata. Piani dati illimitati. Nessun roaming."
   keywords: eSIM Guadalupa, copertura mobile Guadalupa, viaggio Guadalupa, Internet
     Guadalupa, roaming Guadalupa
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: EAU eSIM Forfait données | Meilleur eSIM voyage 2026 | Roami
-date: '2026-05-12T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à niveau vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20%, code promo : web20
 seo:
-  title: Forfait eSIM EAU | 5G toujours active du meilleur opérateur local | 20% DE RÉDUCTION|Roami
-  description: Explorez les EAU en toute simplicité. Obtenez la 5G toujours active de Roami sur le meilleur opérateur local avec des données haut débit. Profitez de la commutation réseau automatique et des données illimitées, idéal pour les nomades digitaux.
+  title: "eSIM Émirats arabes unis | -20 %, 5G ultra-rapide"
+  description: "Découvrez les Émirats arabes unis avec l'eSIM Roami. 5G ultra-rapide à Dubaï, Abou Dhabi et dans tous les émirats. Activation instantanée. Données illimitées."
   keywords: eSIM EAU, eSIM pas cher EAU, internet voyage EAU, sans frais d'itinérance, eSIM instantanée, forfait données EAU
   low_price: 1.99
   high_price: 39.9

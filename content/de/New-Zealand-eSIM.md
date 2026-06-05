@@ -1,6 +1,6 @@
 ---
 title: Neuseeland eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:50:58+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Neuseeland Reise-eSIM | Unbegrenzte Daten | Stabiles 5G | Roami
-  description: Reisen Sie nach Neuseeland? Roami bietet Fair-Use-Daten auf dem zuverlässigen
-    lokalen Top-Betreiber mit nativem 5G. Perfekt für Geschäftsreisen – unbegrenzte
-    Daten und länderübergreifendes Roaming.
+  title: "Neuseeland eSIM | 20% RABATT, zuverlässiges 5G"
+  description: "Roadtrip durch Neuseeland mit Roami eSIM. Zuverlässiges 5G auf beiden Inseln. Sofortige Einrichtung. Unbegrenzte Daten für Ihre gesamte Reise."
   keywords: Neuseeland eSIM, Daten eSIM Neuseeland, Reise eSIM Neuseeland, günstige
     eSIM Neuseeland, mobiles Internet Neuseeland
 order_summary:

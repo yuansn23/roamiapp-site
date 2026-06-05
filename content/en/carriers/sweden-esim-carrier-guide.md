@@ -1,8 +1,7 @@
 ---
-title: Prepaid Sweden eSIM with Unlimited Data (Telia & Tele2)
-description: Best prepaid eSIM for Stockholm. Unlimited data on Telia & Tele2. Fast
-  5G speeds, instant QR code. Ideal for business travelers.
-date: '2026-05-21'
+title: "Sweden eSIM Guide | Telia, Tele2 or Telenor?"
+description: "Roami compares Swedish carriers for travel eSIM. 5G from Stockholm to the Arctic. Find the most reliable network."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Schweden, prepaid data, 5G network, Telenor, Bahnhof, Sweden travel
   eSIM
 site_name: Roami

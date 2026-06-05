@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Azerbaïdjan | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:15:14+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Azerbaïdjan | Vraie 5G & sans frais cachés | Roami
-  description: Besoin d'Internet en Azerbaïdjan ? Profitez de la vraie 5G du meilleur
-    opérateur local et de données équitables avec Roami. Bénéficiez du meilleur réseau
-    local et de la connexion auto, parfait pour les voyages légers.
+  title: "eSIM Azerbaïdjan | 5G rapide dans tout le pays"
+  description: "Visitez l'Azerbaïdjan avec l'eSIM Roami. 5G rapide dans tout le pays. Activation instantanée par QR. Données illimitées à partir de 1,99 $. Aucun contrat."
   keywords: eSIM Azerbaïdjan, voyage Azerbaïdjan, internet mobile Azerbaïdjan, couverture
     réseau Azerbaïdjan, forfait eSIM
 order_summary:

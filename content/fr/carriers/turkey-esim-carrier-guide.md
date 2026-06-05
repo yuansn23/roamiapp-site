@@ -1,9 +1,7 @@
 ---
-title: eSIM prépayée Turquie avec données illimitées (Turkcell & Turk Telekom)
-description: Évitez les arnaques aux SIM touristiques. eSIM prépayée Turquie avec
-  données illimitées sur Turkcell. Activation instantanée, signal fiable à Istanbul
-  et Cappadoce.
-date: '2026-05-21'
+title: "Guide eSIM Turquie | Turkcell, Vodafone ou Telekom ?"
+description: "Roami compare les opérateurs turcs pour l'eSIM de voyage. 5G à Istanbul, Ankara et dans tout le pays. Trouvez le réseau le plus rapide."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Turquie, données prépayées, réseau 5G, voyage Turquie, Internet mobile,
   Roami eSIM, couverture réseau Turquie
 site_name: Roami

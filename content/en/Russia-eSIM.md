@@ -1,6 +1,6 @@
 ---
 title: Russia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Buy Russia eSIM | Fair Use 5G Data |20% OFF| Roami
-  description: Need internet in Russia? Stay connected via Beeline True 5G with Unlimited
-    Data. With Nationwide Coverage and Instant QR Setup, it's perfect for Visiting
-    Family.
+  title: "Russia eSIM | Fast 5G, No Contract Needed"
+  description: "Travel Russia with Roami eSIM. Fast 5G in Moscow, St Petersburg & nationwide. Instant QR activation. Unlimited data from $1.99."
   keywords: Russia eSIM, cheap data, MegaFon, MTS, instant delivery, no roaming charges,
     travel internet, QR code
   low_price: 1.99

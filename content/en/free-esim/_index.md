@@ -1,9 +1,9 @@
 ---
 title: "Claim Free eSIM | Global Travel Data Trial"
-date: '2026-05-18T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 
 seo:
-  title: "Free eSIM | No Credit Card Required|Zero Roaming Fees|Roami"
+  title: "Free eSIM | 5G, No Credit Card Required"
   description: "Get your free eSIM today and experience seamless internet connectivity worldwide. Includes free data plans for top destinations like Japan, Thailand, United States, and Europe. No credit card required, activate in 3 easy steps."
   keywords: "free eSIM, travel eSIM, international data plan, zero roaming fees, digital SIM card, global internet, prepaid eSIM, QR code eSIM"
   canonical_url: "/free-esim/"

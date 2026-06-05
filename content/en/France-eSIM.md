@@ -1,6 +1,6 @@
 ---
 title: France eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Best France eSIM | Unlimited 5G Data Plans | Roami
-  description: Looking for the best France eSIM for travel? Roami offers prepaid eSIM France with high-speed 5G on Orange, SFR & Bouygues. Buy eSIM online France – cheap unlimited data plans for tourists.
+  title: "France eSIM | Save 20%, Fast 5G Data"
+  description: "Visit France with Roami eSIM. Fast 5G speeds, instant activation before you land. Unlimited data available. No roaming charges."
   keywords: france esim, esim france, best esim for france, e sim france, prepaid esim france, unlimited data esim france, cheap esim france, esim for france travel, temporary esim france, buy esim online france, esim france tourist, france travel esim, best prepaid esim france
   low_price: 1.99
   high_price: 39.9

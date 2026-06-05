@@ -1,6 +1,6 @@
 ---
 title: Madagaskar eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:52:01+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Kaufen Sie Madagaskar eSIM | 24/7 5G-Daten | Keine versteckten Gebühren |
-    Roami
-  description: Entdecken Sie Madagaskar mit Leichtigkeit. Roami bietet keine versteckten
-    Gebühren auf dem zuverlässigen lokalen Top-Betreiber mit immer-verfügbarem 5G.
-    Bietet bestes lokales Netzwerk und Auto-Connect – ideal für leichte Reisen.
+  title: "Madagaskar eSIM | Zuverlässiges 5G, kein Vertrag"
+  description: "Entdecken Sie Madagaskar mit Roami eSIM. Zuverlässiges 5G landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten. Kein Vertrag."
   keywords: Madagaskar eSIM, mobiles Internet Madagaskar, Reise eSIM, Netzabdeckung
     Madagaskar, Urlaub Madagaskar
 order_summary:

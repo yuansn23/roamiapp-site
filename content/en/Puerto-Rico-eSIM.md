@@ -1,6 +1,6 @@
 ---
 title: Puerto Rico eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:54:18+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Puerto Rico eSIM |5G High-Speed Network |20% Off Code |Roami
-  description: Roami prepaid eSIM for Puerto Rico runs on AT&T & T-Mobile. Instant
-    QR code activation, works like a domestic US plan. Save 20% with code ROAMI20.
+  title: "Puerto Rico eSIM | 5G Like a US Plan, No Roaming"
+  description: "Explore Puerto Rico with Roami eSIM. 5G on the same networks as mainland US. Instant activation. Unlimited data."
   keywords: Puerto Rico eSIM, travel internet Puerto Rico, instant eSIM, no roaming
     charges, Claro Puerto Rico, Liberty Puerto Rico, Roami eSIM
   low_price: 1.99

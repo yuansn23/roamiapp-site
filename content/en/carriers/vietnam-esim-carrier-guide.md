@@ -1,8 +1,7 @@
 ---
-title: Prepaid Vietnam eSIM with Unlimited Data (Viettel & Vinaphone)
-description: Experience stable 5G in Hanoi & Ho Chi Minh. Prepaid Vietnam eSIM with
-  unlimited data. Avoid airport SIM hassles. Activate with a simple QR scan.
-date: '2026-05-21'
+title: "Vietnam eSIM Guide | Viettel, Mobifone or Vina?"
+description: "Roami compares Vietnam's carriers for travel eSIM. 5G from Hanoi to Saigon. Which gives you the most reliable speeds?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Vietnam, prepaid data, 5G network, Viettel, Vinaphone, mobifone, travel
   internet, Speedtest, [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/vietnam-speedtest-connectivity-report-h1-2025)
 site_name: Roami

@@ -1,7 +1,7 @@
 ---
-title: "Globaler eSIM Mobilfunkanbieter-Guide | Netzabdeckung & Geschwindigkeit"
-date: "2026-05-08T06:53:39+00:00"
-description: "Finden Sie das beste Mobilfunknetz für Ihre Reiseziele. Wir haben eSIM-Betreiberdetails für über 50 Länder zusammengestellt, inklusive Tiefenanalysen zur 4G/5G-Abdeckung."
+title: "eSIM-Netzbetreiber-Leitfaden | Vergleichen Sie 5G-Netze"
+date: "2026-06-04T06:53:39+00:00"
+description: "Vergleichen Sie die Netzbetreiber, die Roami eSIM in 50+ Ländern betreiben. Sehen Sie 5G-Abdeckung, Geschwindigkeitsdaten und wählen Sie das beste Netz für Ihre Reise."
 
 # Hero Section & Breadcrumbs
 hero:

@@ -5,8 +5,8 @@ type: "page"
 
 # 1. SEO 核心优化文案
 seo:
-  title: "200 Countries Supported with One Global eSIM Plan|Roami"
-  description: "Browse and buy the best 5G/4G travel eSIM plans for 200+ countries. Enjoy instant delivery, unlimited data, and hotspot tethering starting at just $1.99."
+  title: "eSIM Plans | Unlimited 5G for 200+ Destinations"
+  description: "Browse Roami eSIM plans for 200+ countries. Unlimited 5G data, instant delivery, hotspot included. Plans from $1.99 with 24/7"
   keywords: "esim plans, travel esim, global esim, buy esim online, unlimited data esim, europe esim, usa esim, japan esim, uk esim, turkey esim, prepaid esim packages"
   image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1200&auto=format&fit=crop"
 

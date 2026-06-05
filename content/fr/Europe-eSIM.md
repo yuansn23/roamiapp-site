@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Europe | Meilleur eSIM voyage 2026 | Roami
-date: '2026-05-12T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
 seo:
-  title: Meilleur eSIM Europe | 20% DE RÉDUCTION | 5G transparente des meilleurs opérateurs locaux | Roami
-  description: Vous voyagez en Europe ? Pas de choc d'itinérance et 5G transparente des meilleurs opérateurs locaux. Connexion stable et configuration instantanée par QR, idéal pour les nomades numériques.
+  title: "eSIM Europe | 40+ pays, économisez 20 % dès maintenant"
+  description: "Voyagez en Europe avec une seule eSIM Roami. 5G transfrontalière dans plus de 40 pays. Pas d'itinérance, pas de changement de SIM. QR instantané. Forfaits à partir de 5 $."
   keywords: eSIM Europe, données prépayées Europe, internet voyage Europe, eSIM pour Europe, données pas chères Europe, pas de frais d'itinérance Europe, livraison instantanée eSIM
   low_price: 1.99
   high_price: 39.9

@@ -1,8 +1,7 @@
 ---
-title: Prepaid Cyprus eSIM with Unlimited Data (Cyta & Epic)
-description: Mediterranean connectivity sorted. Prepaid Cyprus eSIM with unlimited
-  data. Instant QR code, perfect for Aphrodite's island getaways.
-date: '2026-05-21'
+title: "Cyprus eSIM Guide | Cyta, Epic or Primetel?"
+description: "Roami compares Cyprus carriers for travel eSIM. 5G island-wide. Find the most reliable network for your stay."
+date: '2026-06-04T00:00:00+00:00'
 keywords: Cyprus eSIM, instant activation, zero wait time, MTN Cyprus, PrimeTel, 5G,
   travel eSIM, avoid roaming fees, Tombs of the Kings, Paphos, connectivity
 site_name: Roami

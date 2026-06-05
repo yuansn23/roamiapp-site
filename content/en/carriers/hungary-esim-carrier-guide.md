@@ -1,8 +1,7 @@
 ---
-title: Prepaid Hungary eSIM with Unlimited Data (Telekom & Yettel)
-description: Explore Budapest with unlimited data. Prepaid Hungary eSIM on Magyar
-  Telekom. Instant setup, no contracts. Great for thermal baths visits.
-date: '2026-05-21'
+title: "Hungary eSIM Guide | Telekom, Vodafone or Yettel?"
+description: "Roami compares Hungary's carriers for travel eSIM. 5G along the Danube & nationwide. Which network is fastest?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Ungarn, prepaid data, 5G network, Yettel, Magyar Telekom, One, mobile
   internet Hungary, travel eSIM
 site_name: Roami

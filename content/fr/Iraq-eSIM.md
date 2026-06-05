@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Irak | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:15:03+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Irak | 5G native | 20% DE RÉDUCTION | Roami
-  description: Sécurisez votre connexion mobile en Irak avec Roami. Notre carte SIM
-    numérique offre des vitesses 5G natives sur les meilleurs opérateurs locaux. Profitez
-    de données de voyage transparentes sans engagement et d'un support client 24/7.
+  title: "eSIM Irak | 5G fiable dans les grandes villes"
+  description: "Restez connecté en Irak avec l'eSIM Roami. 5G fiable à Bagdad, Erbil et dans les grandes villes. Activation instantanée. Données illimitées."
   keywords: eSIM Irak, voyage Irak, réseau mobile Irak, internet Irak, tourisme Irak
 order_summary:
   title: Forfait sélectionné

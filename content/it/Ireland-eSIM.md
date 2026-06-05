@@ -1,6 +1,6 @@
 ---
 title: eSIM Irlanda Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:04:06+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM Irlanda | Dati 5G illimitati per viaggi
-  description: Esplora l'Irlanda con connettività digitale ininterrotta. Roami offre
-    eSIM prepagata con connessione automatica 5G su reti locali premium, copertura
-    seamless durante le vacanze.
+  title: "eSIM Irlanda | Risparmia il 20%, Dati 5G Illimitati"
+  description: "Scopri l'Irlanda con Roami eSIM. 5G affidabile in tutta la nazione. Attivazione QR immediata. Dati illimitati per città e campagna."
   keywords: eSIM Irlanda, copertura rete Irlanda, viaggio Irlanda, dati mobili Irlanda,
     roaming Irlanda
 order_summary:

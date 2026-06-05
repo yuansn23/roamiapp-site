@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Cambodge | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:46+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Cambodge | Vraie 5G & couverture nationale | Roami
-  description: Vous visitez les temples du Cambodge ? Restez connecté via la vraie
-    5G prépayée de Roami. Profitez d'un Internet de voyage transparent et d'une couverture
-    nationale sur les meilleurs opérateurs locaux avec absolument zéro contrat.
+  title: "eSIM Cambodge | 5G rapide, données illimitées"
+  description: "Explorez le Cambodge avec l'eSIM Roami. 5G rapide à Siem Reap, Phnom Penh et dans tout le pays. Activation instantanée par QR. Données illimitées."
   keywords: eSIM Cambodge, internet mobile Cambodge, voyage Cambodge, réseau mobile
     Cambodge, couverture 5G Cambodge
 order_summary:

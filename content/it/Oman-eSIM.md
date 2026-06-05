@@ -1,6 +1,6 @@
 ---
 title: eSIM Oman Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:46:23+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM Oman | Dati 5G illimitati per viaggi
-  description: Scopri l'Oman con la eSIM Roami. Dati 5G ad alta velocità, operatori
-    locali top, connessione automatica. Perfetto per avventure nel deserto e wadi
-    – niente contratti.
+  title: "eSIM Oman | 5G Affidabile, Dati Illimitati"
+  description: "Esplora l'Oman con Roami eSIM. 5G affidabile a Mascate, Salalah e in tutta la nazione. Attivazione QR immediata. Dati illimitati da 1,99 $."
   keywords: eSIM Oman, viaggio Oman, copertura mobile Oman, internet Oman, roaming
     digitale, turismo Oman
 order_summary:

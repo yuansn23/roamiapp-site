@@ -1,6 +1,6 @@
 ---
 title: Gabon eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Gabon eSIM |Unlimited Data| Stable 5G for Light Travel | Roami
-  description: Explore Gabon with ease. Experience No Roaming Shock and seamless Reliable
-    5G from Top Local Carrier. Perfect for Visiting Family, offering 24/7 Support
-    and Seamless Coverage.
+  title: "Gabon eSIM | Fast 5G, Unlimited Data"
+  description: "Stay connected in Gabon with Roami eSIM. Fast 5G nationwide. Instant activation. Unlimited data plans. No roaming."
   keywords: Gabon eSIM, travel internet, instant delivery, no roaming charges, QR
     code activation, local networks, cheap eSIM
   low_price: 1.99

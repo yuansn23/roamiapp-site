@@ -1,6 +1,6 @@
 ---
 title: eSIM Barbados Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:44+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Miglior eSIM Barbados | Dati 5G illimitati per viaggi
-  description: Prossimo viaggio a Barbados? Ottieni 5G ad alta velocità dai migliori
-    operatori locali con Roami, nessun costo nascosto. Perfetto per famiglie, niente
-    costo di roaming e roaming cross-regionale.
+  title: "eSIM Barbados | 5G Veloce su Tutta l'Isola"
+  description: "Rimani connesso a Barbados con Roami eSIM. 5G veloce su tutta l'isola. Attivazione QR immediata. Dati illimitati per il tuo viaggio."
   keywords: Barbados, eSIM, viaggio, copertura di rete, internet mobile, turismo Barbados
 order_summary:
   title: Piano selezionato

@@ -1,8 +1,7 @@
 ---
-title: eSIM prépayée République dominicaine avec données illimitées (Claro & Altice)
-description: Prêt pour les resorts tout inclus. eSIM prépayée République dominicaine
-  avec données illimitées. Configuration instantanée pour Punta Cana et Saint-Domingue.
-date: '2026-05-21'
+title: "Guide eSIM République dominicaine | Claro, Altice ou Viva ?"
+description: "Roami compare les opérateurs dominicains pour l'eSIM de voyage. 5G à Punta Cana et dans tout le pays. Trouvez le meilleur réseau."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM République dominicaine, données prépayées, réseau 5G, couverture mobile,
   voyage République dominicaine, eSIM voyage, données illimitées
 site_name: Roami

@@ -1,6 +1,6 @@
 ---
 title: Tanzania eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-08T14:39:11+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: web20
 seo:
-  title: Beste Prepaid eSIM für Tanzania - Ab $1.99 - Roami
-  description: Holen Sie sich eine günstige eSIM für Tanzania mit sofortiger Lieferung.
-    Keine Roaming-Gebühren, mobiles Internet per QR-Code aktivieren. Ideal für Touristen
-    und Geschäftsreisende. Jetzt kaufen!
+  title: "Tansania eSIM | Schnelles 5G, unbegrenzte Datentarife"
+  description: "Entdecken Sie Tansania mit Roami eSIM. Schnelles 5G in Daressalam, Sansibar und landesweit. Sofortige Aktivierung. Unbegrenzte Daten."
   keywords: Tanzania eSIM, Prepaid eSIM Tanzania, günstige eSIM Tanzania, mobiles
     Internet Tanzania, eSIM für Tanzania
   low_price: 1.99

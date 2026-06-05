@@ -1,6 +1,6 @@
 ---
 title: Japan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Best Japan eSIM | 20% OFF | Unlimited 5G Data Plans | Roami
-  description: Looking for the best Japan eSIM for travel? Roami offers prepaid eSIM Japan with high-speed 5G on NTT Docomo, SoftBank & KDDI. Buy eSIM online Japan – cheap unlimited data plans for tourists.
+  title: "Japan eSIM | Save 20%, Unlimited 5G Data"
+  description: "Stay connected across Japan with Roami eSIM. Fast 5G, unlimited data, instant QR activation from $1.99."
   keywords: japan esim, esim japan, best esim for japan, e sim japan, prepaid esim japan, unlimited data esim japan, cheap esim japan, esim for japan travel, temporary esim japan, buy esim online japan, esim japan tourist, japan travel esim, best prepaid esim japan, esim tokyo, esim japan unlimited data, japan esim card
   low_price: 1.99
   high_price: 39.9

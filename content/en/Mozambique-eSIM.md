@@ -1,6 +1,6 @@
 ---
 title: Mozambique eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:54:01+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Mozambique eSIM |Best 5G High-Speed Network |20% Off |Roami
-  description: Seamless mobile data with Roami prepaid eSIM for Mozambique on Vodacom.
-    Instant QR activation, keep your WhatsApp number. Apply ROAMI20 for 20% off.
+  title: "Mozambique eSIM | Fast 5G, No Roaming Fees"
+  description: "Travel Mozambique with Roami eSIM. Fast 5G along the coast & nationwide. Instant activation. Unlimited data. No roaming."
   keywords: Mozambique eSIM, travel internet Mozambique, Movitel eSIM, Vodacom eSIM,
     cheap eSIM Mozambique, instant delivery eSIM
   low_price: 1.99

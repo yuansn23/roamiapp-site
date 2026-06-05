@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Brésil | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:08+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Brésil | Sans frais cachés & données illimitées |20% DE RÉDUCTION |
-    Roami
-  description: Vous voyagez au Brésil ? Obtenez la 5G stable de Roami sur TIM sans
-    choc de roaming. Parfait pour les vacances en famille, offrant zéro contrat et
-    le meilleur réseau local.
+  title: "eSIM Brésil | -20 %, données 5G illimitées"
+  description: "Voyagez au Brésil avec l'eSIM Roami. 5G rapide à Rio, São Paulo et dans tout le pays. Activation instantanée. Données illimitées. Aucun contrat."
   keywords: eSIM Brésil, carte eSIM Brésil, internet mobile Brésil, voyage Brésil,
     forfait data Brésil
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: Israel eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:04+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Israel eSIM | 20% RABATT auf nahtlose 5G Reisedaten | Roami
-  description: Planen Sie eine Reise nach Israel? Roami liefert hochgeschwindigkeits
-    digitale SIM-Konnektivität auf zuverlässigen lokalen 5G-Netzen. Profitieren Sie
-    von sofortiger QR-Einrichtung und landesweitem Reiseinternet für Familienbesuche
-    und Besichtigungen.
+  title: "Israel eSIM | Schnelles 5G landesweit"
+  description: "Entdecken Sie Israel mit Roami eSIM. Schnelles 5G landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten ab 1,99 $."
   keywords: Israel eSIM, mobiles Internet Israel, Reise eSIM Israel, Datenflatrate
     Israel, lokale SIM Israel
 order_summary:

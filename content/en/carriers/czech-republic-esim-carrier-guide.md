@@ -1,8 +1,7 @@
 ---
-title: Prepaid Czech eSIM with Unlimited Data (O2 & T-Mobile)
-description: Stay online in Prague Castle. Prepaid Czech eSIM with unlimited data.
-  Instant activation, no physical card needed for your Bohemian trip.
-date: '2026-05-21'
+title: "Czech eSIM Guide | O2, T-Mobile or Vodafone?"
+description: "Roami compares Czech carriers for travel eSIM. 5G in Prague & nationwide. Which gives you the fastest speeds?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: Czech Republic eSIM, Vodafone CZ eSIM, T-Mobile CZ eSIM, travel eSIM Czech
   Republic, avoid roaming fees, Prague Castle eSIM, instant activation eSIM
 site_name: Roami

@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM États-Unis | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:13:53+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM États-Unis | 5G haut débit Verizon | 20% DE RÉDUCTION | Roami
-  description: Vous bientôt aux États-Unis ? Roami offre des données sans souci sur
-    la 5G haut débit fiable de Verizon. Idéal pour les visites familiales. Profitez
-    de l'absence de frais d'itinérance avec une connexion stable.
+  title: "eSIM États-Unis | -20 %, données 5G illimitées"
+  description: "Voyagez aux États-Unis avec l'eSIM Roami. Données 5G illimitées sur les meilleurs réseaux américains. Activation instantanée, sans contrat. Fonctionne dans les 50 États."
   keywords: eSIM États-Unis, forfait mobile États-Unis, internet voyage États-Unis,
     carte eSIM USA, data mobile États-Unis
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Arabie saoudite | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:45+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Arabie saoudite | 5G toujours activée Mobily & illimitée | Roami
-  description: Vous planifiez un voyage en Arabie saoudite ? Profitez de la 5G toujours
-    activée Mobily et de l'absence de frais cachés avec Roami. Idéal pour les voyages
-    légers. Profitez de l'absence de frais cachés avec une couverture nationale.
+  title: "eSIM Arabie saoudite | 5G rapide dans tout le pays"
+  description: "Voyagez en Arabie saoudite avec l'eSIM Roami. 5G rapide à Riyad, Djeddah et dans tout le pays. Configuration instantanée par QR. Données illimitées à partir de 1,99 $."
   keywords: eSIM Arabie saoudite, forfait mobile Arabie saoudite, internet voyage
     Arabie saoudite, carte eSIM Arabie saoudite
 order_summary:

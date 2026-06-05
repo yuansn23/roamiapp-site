@@ -1,6 +1,6 @@
 ---
 title: Weißrussland eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:55+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Beste Belarus eSIM | Hochgeschwindigkeitsdaten & Echtes 5G | Roami
-  description: Planen Sie eine Reise nach Belarus? Holen Sie sich Roamis schnelles
-    5G auf dem lokalen Top-Betreiber mit unbegrenztem Datenvolumen. Bietet länderübergreifendes
-    Roaming und 24/7 Support – ideal für leichte Reisen.
+  title: "Belarus eSIM | Schnelles 5G landesweit"
+  description: "Besuchen Sie Belarus mit Roami eSIM. Schnelles 5G landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten ab 1,99 $."
   keywords: Weißrussland eSIM, mobile Daten Weißrussland, Reise eSIM, Internet Weißrussland,
     eSIM für Touristen
 order_summary:

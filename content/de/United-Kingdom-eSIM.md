@@ -1,6 +1,6 @@
 ---
 title: Vereinigtes Königreich eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:52:30+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Vereinigtes Königreich eSIM Plan | EE Verzögerungsfreies 5G | 20% RABATT
-    | Roami
-  description: Reisen Sie in das Vereinigte Königreich? Roami bietet transparente
-    Daten auf dem zuverlässigen Vodafone verzögerungsfreien 5G. Bietet nahtlose Abdeckung
-    und unbegrenzte Daten – ideal für Familienurlaube.
+  title: "Großbritannien eSIM | 20% RABATT, unbegrenzte 5G-Daten"
+  description: "Bleiben Sie im Vereinigten Königreich mit Roami eSIM online. Schnelles 5G, unbegrenzte Daten, sofortige QR-Einrichtung. Deckt London, Edinburgh und das ganze Land ab."
   keywords:
   - Vereinigtes Königreich eSIM
   - UK Reise eSIM

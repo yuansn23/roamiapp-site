@@ -1,6 +1,6 @@
 ---
 title: Singapur eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:50:46+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Singapur Reise-eSIM | 20% RABATT | Nahtloses 5G | Roami
-  description: Internet in Singapur nötig? Erleben Sie keinen Roaming-Schock und nahtloses
-    5G von Singtel. Mit stabiler Verbindung und keiner physischen SIM – perfekt für
-    leichte Reisen.
+  title: "Singapur eSIM | 20% RABATT, ultraschnelles 5G"
+  description: "Bleiben Sie in Singapur mit Roami eSIM online. Ultraschnelles 5G auf der ganzen Insel. Sofortige QR-Aktivierung. Für Geschäfts- und Urlaubsreisende."
   keywords: eSIM Singapur, Reise eSIM, mobiles Internet Singapur, günstige eSIM, Reisevorbereitung
     Singapur
 order_summary:

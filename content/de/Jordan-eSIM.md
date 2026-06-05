@@ -1,6 +1,6 @@
 ---
 title: Jordanien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:03+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Top Jordanien eSIM | Unbegrenzte Daten | Lokaler Top-Betreiber Echtes 5G
-    | Roami
-  description: Internet in Jordanien nötig? Bleiben Sie über den lokalen Top-Betreiber
-    mit nahtlosem 5G und Hochgeschwindigkeitsdaten verbunden. Perfekt für digitale
-    Nomaden – sofortige QR-Einrichtung und stabile Verbindung.
+  title: "Jordanien eSIM | Schnelles 5G, sofortige Aktivierung"
+  description: "Entdecken Sie Jordanien mit Roami eSIM. Schnelles 5G landesweit. Sofortige Aktivierung. Unbegrenzte Datentarife. Keine Roaming-Gebühren."
   keywords:
   - Jordanien eSIM
   - Reise nach Jordanien

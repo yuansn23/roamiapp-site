@@ -1,8 +1,7 @@
 ---
-title: Prepaid Uruguay eSIM with Unlimited Data (Antel & Movistar)
-description: Montevideo connected. Prepaid Uruguay eSIM with unlimited data. Instant
-  setup, fastest internet speeds in South America.
-date: '2026-05-21'
+title: "Uruguay eSIM Guide | Antel, Movistar or Claro?"
+description: "Roami compares Uruguay's carriers for travel eSIM. 5G in Montevideo & nationwide. Find the most reliable network."
+date: '2026-06-04T00:00:00+00:00'
 keywords: Uruguay eSIM, Antel eSIM, Claro eSIM, travel eSIM Uruguay, eSIM compatibility,
   no roaming fees Uruguay, 5G Uruguay, Punta del Este eSIM
 site_name: Roami

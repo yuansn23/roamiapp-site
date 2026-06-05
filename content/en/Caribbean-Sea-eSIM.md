@@ -1,6 +1,6 @@
 ---
 title: Caribbean Sea eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:53:53+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Caribbean Sea eSIM - Affordable Data from Digicel & Flow - Roami
-  description: Get connected across the Caribbean Sea with a reliable eSIM from Roami.
-    Enjoy instant delivery, no roaming charges, and 5G/4G speeds on Digicel & Flow
-    networks. Perfect for travel internet in Jamaica, Bahamas, and Barbados. Buy now
-    and activate with a simple QR code!
+  title: "Caribbean eSIM | 15+ Islands, One Data Plan"
+  description: "Cruise the Caribbean with one Roami eSIM. 5G across 15+ islands. No SIM swapping, no roaming. Instant activation."
   keywords: Caribbean Sea eSIM, travel eSIM, Caribbean eSIM, Digicel eSIM, Flow eSIM,
     instant eSIM, no roaming charges, prepaid eSIM Caribbean
   low_price: 1.99

@@ -1,6 +1,6 @@
 ---
 title: Albania eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Albania Travel eSIM | Full-Speed 5G Mobile Data | Roami
-  description: Heading to Albania? Roami provides high-speed 5G travel data on the
-    best local networks. Easily install your prepaid eSIM and enjoy an auto-connecting
-    internet experience with zero hidden charges.
+  title: "Albania eSIM | Fast 5G, No Roaming Fees"
+  description: "Explore Albania with Roami eSIM. Fast 5G nationwide. Instant activation. Unlimited data plans. No roaming charges."
   keywords: Albania eSIM, Albania travel internet, Albania prepaid eSIM, Albania mobile
     data
   low_price: 1.99

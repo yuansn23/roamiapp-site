@@ -1,9 +1,7 @@
 ---
-title: eSIM prépayée Chili avec données illimitées (Entel & Movistar)
-description: Du désert d'Atacama à la Patagonie. eSIM prépayée Chili avec données
-  illimitées. Signal fort sur le réseau Entel. Pas besoin d'échanger de carte SIM
-  physique.
-date: '2026-05-21'
+title: "Guide eSIM Chili | Entel, Movistar ou WOM ?"
+description: "Roami compare les opérateurs chiliens pour l'eSIM de voyage. 5G de l'Atacama à la Patagonie. Quel réseau est le plus fiable ?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Chili, données prépayées, réseau 5G, opérateurs Chili, guide eSIM voyage
 site_name: Roami
 brand_name: Roami

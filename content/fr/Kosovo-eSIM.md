@@ -1,6 +1,6 @@
 ---
 title: Kosovo eSIM Forfait données | Meilleur eSIM voyage 2026 | Roami
-date: '2026-05-12T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à niveau vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20%, code promo : web20
 seo:
-  title: Meilleure eSIM Kosovo | 20% DE RÉDUCTION | 5G fiable du meilleur opérateur local | Roami
-  description: Vous planifiez un voyage au Kosovo ? Restez connecté grâce au meilleur opérateur local avec 5G toujours active et données Fair Use. Profitez de l'absence de frais d'itinérance et d'une couverture transparente, adaptée aux voyages d'affaires.
+  title: "eSIM Kosovo | 5G rapide dans tout le pays"
+  description: "Restez connecté au Kosovo avec l'eSIM Roami. 5G rapide dans tout le pays. Activation instantanée par QR. Données illimitées à partir de 1,99 $."
   keywords: eSIM Kosovo, eSIM prépayée Kosovo, internet voyage Kosovo, meilleure eSIM pour Kosovo, eSIM pas cher Kosovo, données illimitées Kosovo
   low_price: 1.99
   high_price: 39.9

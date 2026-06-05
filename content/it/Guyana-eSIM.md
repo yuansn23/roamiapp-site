@@ -1,6 +1,6 @@
 ---
 title: eSIM Guyana Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:04:20+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Miglior eSIM Guyana | Dati 5G illimitati per viaggi
-  description: In viaggio in Guyana? Ottieni 5G a bassa latenza e piani dati illimitati
-    con Roami da operatori top locali. Migliore rete locale e dati illimitati – perfetto
-    per vacanze in famiglia.
+  title: "eSIM Guyana | 5G Affidabile in Tutta la Nazione"
+  description: "Esplora la Guyana con Roami eSIM. 5G affidabile in tutta la nazione. Attivazione QR immediata. Dati illimitati da 1,99 $."
   keywords: eSIM Guyana, copertura mobile Guyana, viaggio Guyana, turismo Guyana,
     connettività Guyana, rete 4G Guyana
 order_summary:

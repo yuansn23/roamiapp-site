@@ -1,8 +1,7 @@
 ---
-title: eSIM prépayée Afrique du Sud avec données illimitées (Vodacom & MTN)
-description: Safaris simplifiés. eSIM prépayée Afrique du Sud avec données illimitées
-  sur Vodacom. Configuration instantanée, restez connecté au Cap et dans le parc Kruger.
-date: '2026-05-21'
+title: "Guide eSIM Afrique du Sud | Vodacom, MTN ou Cell C ?"
+description: "Roami compare les opérateurs sud-africains pour l'eSIM de voyage. 5G du Cap au Kruger. Trouvez le meilleur réseau avant votre voyage."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Afrique du Sud, données prépayées, réseau 5G, Vodacom, MTN, guide voyage,
   connexion haut débit
 site_name: Roami

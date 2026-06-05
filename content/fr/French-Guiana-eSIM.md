@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Guyane française | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:13:41+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Guyane française | 5G illimitée & sans frais cachés | Roami
-  description: Besoin d'Internet en Guyane française ? Connectez-vous instantanément
-    avec une eSIM prépayée Roami. Profitez de données de voyage 5G illimitées sur
-    des réseaux mobiles locaux fiables, avec itinérance multi-pays et sans frais cachés.
+  title: "eSIM Guyane française | 5G rapide, configuration instantanée"
+  description: "Restez connecté en Guyane française avec l'eSIM Roami. 5G rapide à Cayenne, Kourou et dans tout le pays. Activation instantanée. Données illimitées."
   keywords: eSIM Guyane française, forfait data Guyane, internet mobile Guyane, voyage
     Guyane, tourisme Guyane
 order_summary:

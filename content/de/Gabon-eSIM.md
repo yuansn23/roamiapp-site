@@ -1,6 +1,6 @@
 ---
 title: Gabun eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:52:56+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Gabun eSIM | Unbegrenzte Daten | Stabiles 5G für leichte Reisen | Roami
-  description: Entdecken Sie Gabun mit Leichtigkeit. Erleben Sie keinen Roaming-Schock
-    und nahtloses zuverlässiges 5G vom lokalen Top-Betreiber. Perfekt für Familienbesuche
-    – 24/7 Support und nahtlose Abdeckung.
+  title: "Gabun eSIM | Schnelles 5G, unbegrenzte Daten"
+  description: "Bleiben Sie in Gabun mit Roami eSIM verbunden. Schnelles 5G landesweit. Sofortige Aktivierung. Unbegrenzte Datentarife. Kein Roaming."
   keywords: Gabun eSIM, Reise nach Gabun, Internet in Gabun, mobiles Internet Gabun,
     Touristen eSIM Gabun
 order_summary:

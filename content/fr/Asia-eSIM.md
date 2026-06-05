@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Asie | Meilleur eSIM voyage 2026 | Roami
-date: '2026-05-12T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
 seo:
-  title: Meilleur eSIM Asie - Données de voyage illimitées pour plus de 15 pays | Roami
-  description: Vous explorez le Japon, la Corée, la Thaïlande et plus encore ? Une seule eSIM Asie couvre tout votre voyage. Profitez de données 5G/4G transfrontalières sans changer de carte SIM.
+  title: "eSIM Asie | 15+ pays, -20 %"
+  description: "Voyagez en Asie avec une seule eSIM Roami. 5G au Japon, en Corée, en Thaïlande et dans plus de 12 autres pays. Pas de frais d'itinérance, pas de changement de SIM."
   keywords: eSIM Asie, SIM voyage Asie, eSIM livraison instantanée, pas d'itinérance en Asie, activation par QR code, couverture 5G Asie, internet voyage
   low_price: 1.99
   high_price: 39.9

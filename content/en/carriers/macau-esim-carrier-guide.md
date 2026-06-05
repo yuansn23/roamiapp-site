@@ -1,8 +1,7 @@
 ---
-title: Prepaid Macau eSIM with Unlimited Data (CTM & 3 Macau)
-description: High-speed 5G in Macau. Prepaid eSIM with unlimited data. Instant activation,
-  perfect for casino trips & business.
-date: '2026-05-21'
+title: "Macau eSIM Guide | CTM, SmarTone or 3?"
+description: "Roami compares Macau's carriers for travel eSIM. 5G across the peninsula & Cotai. Find the best network."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Macau, prepaid data, 5G network, CTM, China Telecom, Roami eSIM
 site_name: Roami
 brand_name: Roami

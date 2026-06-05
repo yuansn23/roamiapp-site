@@ -1,9 +1,7 @@
 ---
-title: Prepaid Deutschland eSIM mit unbegrenztem Datenvolumen (Telekom & Vodafone)
-description: Beste Prepaid-eSIM für Oktoberfest & Geschäft. Unbegrenztes Datenvolumen
-  auf Deutscher Telekom & Vodafone. Starkes Signal selbst im ländlichen Bayern. Sofortige
-  QR-Code-Aktivierung.
-date: '2026-05-21'
+title: "Deutschland eSIM-Leitfaden | Telekom, Vodafone oder O2?"
+description: "Roami bewertet die deutschen Netze für Reise-eSIM. 5G in Berlin, München und bundesweit. Finden Sie die zuverlässigste Option."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Deutschland, Prepaid Daten, 5G Netz, Telekom, Vodafone, O2, Roami eSIM,
   Reise eSIM, Deutschland Reise
 site_name: Roami

@@ -1,8 +1,7 @@
 ---
-title: Prepaid France eSIM with Unlimited Data (Orange & SFR)
-description: Connect across Paris and the Riviera. Prepaid France eSIM with unlimited
-  5G data. No roaming fees within EU. Instant setup for your French adventure.
-date: '2026-05-21'
+title: "France eSIM Guide | Orange, SFR or Bouygues?"
+description: "Roami compares French carriers for travel eSIM. 5G in Paris, Riviera & rural areas. Which gives you the fastest speeds?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Frankreich, prepaid data, 5G network, Orange, Bouygues, SFR, Free,
   travel eSIM
 site_name: Roami

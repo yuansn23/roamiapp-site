@@ -1,8 +1,7 @@
 ---
-title: Prepaid Kenya eSIM with Unlimited Data (Safaricom & Airtel)
-description: Best prepaid eSIM for Masai Mara trips. Unlimited data on Safaricom.
-  Instant delivery, strong signal across Nairobi and wildlife parks.
-date: '2026-05-21'
+title: "Kenya eSIM Guide | Safaricom, Airtel or Telkom?"
+description: "Roami compares Kenya's carriers for travel eSIM. 5G in Nairobi & nationwide. Which gives you the best coverage?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: Kenya eSIM, Safaricom eSIM, Airtel Kenya eSIM, travel eSIM Kenya, Maasai
   Mara data, avoid roaming fees Kenya, Kenya prepaid eSIM, independent explorer eSIM
 site_name: Roami

@@ -3,12 +3,12 @@ title: "Roami Rückerstattungsrichtlinie | eSIM-Kaufschutz"
 description: "Erfahren Sie mehr über die Rückerstattungs- und Rückgaberichtlinien von Roami eSIM. Wir setzen uns für Ihre Zufriedenheit ein."
 layout: "refund"
 type: "page"
-date: '2026-05-15T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 
 # SEO
 seo:
-  title: "Roami Rückerstattungsrichtlinie | Kaufschutz für eSIM"
-  description: "Informieren Sie sich über die Rückerstattungsbedingungen, den Antragsprozess und häufige Fragen zu Roami eSIM. Wir sind bestrebt, Ihnen ein zufriedenstellendes Nutzungserlebnis zu bieten."
+  title: "Rückerstattungsrichtlinie | eSIM-Kaufgarantie"
+  description: "Roami Rückgabebedingungen erklärt. Faire, problemlose Rückerstattungen, wenn Ihre eSIM nicht funktioniert. Erfahren Sie mehr über die Berechtigung und wie Sie einen Antrag stellen."
   image: "/img/og-refund.jpg"
 
 # JSON-LD Schema (YAML对象，非字符串)

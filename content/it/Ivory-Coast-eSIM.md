@@ -1,6 +1,6 @@
 ---
 title: eSIM Costa d'Avorio Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:02:49+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM Costa d'Avorio | 20% di sconto | Dati 5G ad alta velocità
-  description: In viaggio in Costa d'Avorio? Roami offre dati trasparenti e 5G ad
-    alta velocità da operatori locali affidabili. Cambio automatico di rete e dati
-    illimitati – ideale per viaggi leggeri.
+  title: "eSIM Costa d'Avorio | 5G Affidabile in Tutta la Nazione"
+  description: "Scopri la Costa d'Avorio con Roami eSIM. 5G affidabile in tutta la nazione. Attivazione QR immediata. Dati illimitati da 1,99 $."
   keywords: eSIM Costa d'Avorio, viaggio Costa d'Avorio, copertura mobile Costa d'Avorio,
     internet Costa d'Avorio, roaming Costa d'Avorio
 order_summary:

@@ -1,8 +1,7 @@
 ---
-title: Prepaid Norway eSIM with Unlimited Data (Telenor & Telia)
-description: Fjord-connectivity guaranteed. Prepaid Norway eSIM with unlimited data.
-  Works on Telenor's network. Instant activation for your Nordic adventure.
-date: '2026-05-21'
+title: "Norway eSIM Guide | Telenor, Telia or Ice?"
+description: "Roami compares Norway's carriers for travel eSIM. 5G in cities & along the fjords. Which network covers you best?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Norwegen, prepaid data, 5G network, Telenor, Telia, GlobalConnect,
   Norway travel eSIM
 site_name: Roami

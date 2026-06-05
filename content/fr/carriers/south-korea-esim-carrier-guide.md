@@ -1,9 +1,7 @@
 ---
-title: eSIM prépayée Corée avec données illimitées (SKT & KT)
-description: 5G ultra-rapide à Séoul avec l'eSIM prépayée Corée. Alimenté par SK Telecom
-  et KT. Données illimitées, code QR instantané. La meilleure alternative aux cartes
-  SIM physiques.
-date: '2026-05-21'
+title: "Guide eSIM Corée | SK Telecom, KT ou LG U+ ?"
+description: "Roami teste les réseaux 5G coréens pour l'eSIM de voyage. Comparaison des vitesses les plus rapides du monde. Données pour Séoul, Busan et Jeju."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Corée du Sud, données prépayées, réseau 5G, SK Telecom, LG U+, KT,
   voyage Corée du Sud, itinérance, [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)
 site_name: Roami

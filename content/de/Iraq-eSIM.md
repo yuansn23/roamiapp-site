@@ -1,6 +1,6 @@
 ---
 title: Irak eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:51:46+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Irak eSIM Plan | 20% RABATT auf 5G Reiseinternet | Roami
-  description: Sichern Sie Ihre mobile Verbindung im Irak mit Roami. Unsere digitale
-    SIM-Karte liefert native 5G-Geschwindigkeiten auf lokalen Top-Betreibern. Genießen
-    Sie nahtlose, vertragsfreie Reisedaten und 24/7 Kundensupport.
+  title: "Irak eSIM | Zuverlässiges 5G in Großstädten"
+  description: "Bleiben Sie im Irak mit Roami eSIM verbunden. Zuverlässiges 5G in Bagdad, Erbil und Großstädten. Sofortige Aktivierung. Unbegrenzte Daten."
   keywords: Irak eSIM, mobiles Internet Irak, Reise eSIM Irak, Datenpaket Irak, eSIM
     für Touristen, Irak Netzabdeckung, eSIM Anbieter Irak
 order_summary:

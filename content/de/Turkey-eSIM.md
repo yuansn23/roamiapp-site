@@ -1,6 +1,6 @@
 ---
 title: Türkei eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:51:27+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Türkei eSIM | 20% RABATT | Echtes 5G für Familienbesuche | Roami
-  description: Entdecken Sie die Türkei mit Leichtigkeit. Bleiben Sie über Türk Telekom
-    Hochgeschwindigkeits-5G mit vertragsfreien Daten verbunden. Genießen Sie keine
-    physische SIM und länderübergreifendes Roaming – maßgeschneidert für leichte Reisen.
+  title: "Türkei eSIM | 20% RABATT, unbegrenzte 5G-Daten"
+  description: "Entdecken Sie die Türkei mit Roami eSIM. Schnelles 5G landesweit. Sofortige QR-Einrichtung. Unbegrenzte Daten ab 1,99 $. Keine Roaming-Gebühren."
   keywords: eSIM Türkei, Reise eSIM, mobile Daten Türkei, günstige eSIM, Internet
     Türkei
 order_summary:
@@ -390,7 +388,7 @@ activation_steps:
       WhatsApp nutzen, soziale Medien checken oder einen Hotspot für andere Geräte
       einrichten – ohne Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
-faq_section:
+faq_section1:
   title: Türkei eSIM FAQ & Reiseführer
   desc: Alles, was Sie über die Verwendung Ihrer Türkei eSIM in verschiedenen Reiseszenarien
     wissen müssen.
@@ -823,4 +821,158 @@ market_analysis:
         icon_color: "text-rose-600"
         title: "Kein internationales Roaming bei lokalen SIMs"
         desc: "Alle türkischen Prepaid-Karten (Turkcell, Vodafone, Türk Telekom) haben <b>kein internationales Roaming</b> und funktionieren nur in der Türkei und Nordzypern. Eine eSIM bietet weltweite Konnektivität."
+faq_section:
+  title: "The Ultimate Guide to eSIM Data Plans for Turkey"
+  desc: "Everything you need to know about using an eSIM in Turkey — from Turkcell coverage in Ankara to Hagia Sophia & Blue Mosque. Plans from $2.99 for 1GB (3 days)."
+  categories:
+    - id: faq-general
+      icon: help-circle
+      tab_title: General
+      title: "1. General Questions About Turkey eSIM"
+      questions:
+        - q: "Which networks does the Turkey eSIM connect to, and how fast is 4G/5G across Turkey?"
+          a: "Your Turkey eSIM connects to Turkcell, Vodafone TR, and Turk Telekom — Turkey's top carriers — automatically switching to the strongest available signal. Turkcell has the widest coverage nationwide, especially in rural areas and smaller towns. Best nationwide. Strong Istanbul, Ankara, coastal resorts. Vodafone TR Strong cities, good value. Turk Telekom Competitive. In Ankara and major cities like Istanbul, you'll typically get 4G LTE and 5G (where available) with speeds of 15–40 Mbps. Our multi-carrier eSIM means you're never locked to a single network — you always get the best signal wherever you are in Turkey. A $9.99 5GB/7-day plan gives you reliable data across the entire country."
+        - q: "What are the advantages of a Turkey eSIM vs. buying a local SIM card?"
+          a: "Local prepaid SIM cards in Turkey come with real friction: Tourist SIMs at IST/SAW airports and carrier stores. EUR 20-EUR 40. Passport + phone IMEI registration within 120 days (if using local SIM with Turkish phone — but our eSIM bypasses this!). Airport kiosks expensive. Our eSIM: instant, no IMEI registration. Our Turkey eSIM activates in under 1 minute online — no store visits, no paperwork, no Turkish required. Plus, a physical SIM locks you into one carrier's network; our eSIM connects to Turkcell, Vodafone TR, and Turk Telekom and auto-switches for the best coverage. For a 7-day trip, our 3GB plan is $7.99 — usually cheaper and far more convenient than a local SIM when you factor in the time and hassle saved."
+        - q: "How does your Turkey eSIM compare with Airalo, Holafly, and Nomad?"
+          a: "Most global eSIM providers partner with only one carrier in Turkey. Airalo uses Vodafone TR only. Our multi-carrier: Turkcell+Vodafone TR+Turk Telekom for best Turkey coverage. This matters because Turkcell is essential for coverage in many parts of Turkey. Airalo's plans use only one carrier. Holafly's unlimited plan throttles speeds after heavy usage. Nomad also uses a single carrier, which may have gaps outside major cities. Our multi-carrier approach gives you the best of all networks. 5GB for 7 days costs $9.99 — competitive pricing with significantly better coverage."
+        - q: "Can I use my Turkey eSIM for voice calls and texting?"
+          a: "Turkey eSIMs are data-only, so you won't get a local Turkey phone number. However, WhatsApp is extremely popular in Turkey — virtually every business, hotel, restaurant, and tour operator uses it as their primary contact method. You can WhatsApp message and call any Turkey number using your eSIM data. For dialing landlines (airlines, banks, embassy), use Skype, Google Voice, or Rebtel over your data connection — calls cost pennies per minute. For receiving SMS verification codes from your home bank, keep your home SIM active for texts while routing all data through your Turkey eSIM. Most travelers find WhatsApp covers 99% of their communication needs."
+        - q: "What phones and devices work with a Turkey eSIM?"
+          a: "Most modern smartphones support eSIM: iPhone XS/XR and newer, Google Pixel 3a and newer, Samsung Galaxy S20/Note20 and newer. Your phone must be unlocked to use our Turkey eSIM. Android models sold in some regions may have eSIM disabled — check your phone's specs before buying. iPads with cellular also support eSIM. When you purchase, we email a QR code — on iPhone: Settings > Cellular > Add eSIM, scan the code. On Android: Settings > Network & Internet > SIMs > Add eSIM. Label the plan 'Turkey' for easy switching. The plan activates only when you arrive in Turkey and connect to Turkcell — you can install it weeks in advance. Our $19.99 20GB/30-day plan is popular for tablet users."
+    - id: faq-airport
+      icon: plane
+      tab_title: Airports
+      title: "2. Turkey eSIM at Airports"
+      questions:
+        - q: "How to get online immediately after landing at Istanbul Airport (IST) in Istanbul?"
+          a: "Install your Turkey eSIM at home before departure. When you land at Istanbul Airport (IST), turn off Airplane Mode and select your eSIM as the data line. It connects to  (strongest signal at IST) within 20–40 seconds. IST is located 40km NW — Havaist buses to Taksim/Sultanahmet. With data active, you can immediately open Uber (limited, uses taxis only), BiTaksi (local, best), Marti (e-scooters) to book a ride. Official airport taxis cost TRY 500-650; Havaist bus TRY 100 60min; use your eSIM to compare with Uber (limited pricing. Free WiFi 1h.. Having your own data from the moment you land is far more reliable than airport Wi-Fi. A 1GB/3-day plan ($2.99) handles this easily."
+        - q: "Can I use my eSIM at all Turkey airports?"
+          a: "Yes, your Turkey eSIM works at all airports across Turkey. At Istanbul Airport (IST),  provides the strongest signal. Havaist buses to Taksim/Sultanahmet. Metro M11 under construction. Uber at zone. A 1GB/3-day plan ($2.99) handles this easily."
+        - q: "What about smaller Turkey airports — do they have coverage?"
+          a: "Your eSIM works at all Turkey airports. At all airports, you'll have solid 4G coverage from Turkcell. A 3GB/7-day plan ($7.99) covers all your arrival-day needs at any Turkey airport."
+        - q: "How to get an Uber (limited or airport transfer from Turkey airports?"
+          a: "At IST: Uber (limited, uses taxis only), BiTaksi (local, best), Marti (e-scooters) all operate. Ride-hailing is fully legal and regulated in Turkey. A ride from IST to central Istanbul costs approximately TRY 500-650; Havaist bus TRY 100 60min. A quick ride search uses under 3MB of data. A 1GB/3-day plan ($2.99) handles this easily."
+        - q: "Is airport Wi-Fi reliable in Turkey, or should I rely on my eSIM?"
+          a: "Turkey's airport Wi-Fi varies. Free WiFi 1h. For these reasons, having your eSIM active before landing is strongly recommended — you'll have data the moment the plane touches down, bypassing Wi-Fi frustrations entirely. A 1GB/3-day plan ($2.99) handles this easily."
+    - id: faq-transport
+      icon: car
+      tab_title: Transport
+      title: "3. Turkey eSIM for Transport & Navigation"
+      questions:
+        - q: "How to use Istanbul Metro+Tram with your eSIM?"
+          a: "Expanding metro (M2, M4, Marmaray cross-continent tunnel) + tram T1 (most useful for tourists). You'll need a Istanbulkart (purchase at any station, TRY 50 card+load). Your eSIM data is essential for: 1) The Google Maps/Moovit or Moovit for real-time route planning. 2) Checking line status and any service disruptions. 3) Navigating large transfer stations. Data usage: ~3MB per route lookup. Fare: TRY 20/ride per ride. Istanbulkart works metro, tram, bus, ferry. One card for two continents! A 5GB/7-day plan ($9.99) covers a week of transit navigation."
+        - q: "How to use Uber (limited, uses taxis only), BiTaksi (local, best), Marti (e-scooters) in Turkey?"
+          a: "Uber (limited, uses taxis only), BiTaksi (local, best), Marti (e-scooters) all operate in Ankara and major Turkey cities. Uber in Turkey only connects to licensed taxis. BiTaksi is the local alternative — more drivers. Taxis are metered but insist on the meter. Tip: always verify the license plate before getting in. A ride across Ankara typically costs a few dollars in local currency. A single ride search uses under 3MB. A 1GB/3-day plan ($2.99) handles this easily."
+        - q: "How to navigate inter-city travel across Turkey?"
+          a: "Turkey's inter-city transport network includes Turkish Airlines connects all cities. High-speed train (YHT) Istanbul-Ankara 4h. Kamil Koc and Metro Turizm for inter-city buses. Obilet for booking.. Use bus company apps or websites over your eSIM to compare schedules, book tickets, and display QR boarding passes. Onboard Wi-Fi is available on premium services but is often slow — your eSIM provides reliable entertainment and navigation during your trip. For peak travel periods (holidays and festivals), book days in advance using your eSIM. A 5GB/7-day plan ($9.99) covers all your booking and travel needs."
+        - q: "How to handle Turkey addresses and GPS navigation?"
+          a: "Google Maps and Apple Maps work well with your Turkey eSIM data. Google Maps works well in cities. Addresses in older areas can be complex — use Google Maps pin. For tricky locations, WhatsApp your accommodation or driver a pin drop — this is common practice in Turkey and uses about 5MB per share. In major cities, Waze is popular among local drivers for real-time traffic avoidance. A quick navigation search uses under 5MB. A 3GB/15-day plan ($14.99) handles all navigation across Turkey."
+        - q: "How much data do I need for a week of getting around Turkey?"
+          a: "For a week of transit navigation, ride-hailing, and inter-city bookings, 3GB is plenty — that's about $7.99. Typical daily usage: ~30MB for transit apps, ~15MB for ride-hailing, ~10MB for map searches — roughly 55–80MB per day of active sightseeing. If you're streaming music or video during long bus rides, a 5GB plan ($9.99) gives you plenty of headroom. Most travelers find a 5GB/7-day plan is the sweet spot for navigation plus social media and photo uploads."
+    - id: faq-hotels
+      icon: hotel
+      tab_title: Hotels
+      title: "4. Turkey eSIM for Hotels & Accommodation"
+      questions:
+        - q: "How to check into Turkey hotels and Airbnbs without relying on Wi-Fi?"
+          a: "Many Turkey Airbnbs and boutique hotels use WhatsApp to send check-in instructions, door codes, and Wi-Fi passwords. In Ankara, modern apartment buildings often use digital locks with codes sent via WhatsApp or booking app messaging. Without data, you'd be searching for a cafe with Wi-Fi just to get into your room. Hotels in Turkey typically have a check-in time of 2–3 PM; use your eSIM to message your host for early check-in or luggage drop-off. A 1GB/3-day plan ($2.99) handles this easily."
+        - q: "Is hotel Wi-Fi safe in Turkey vs. using your eSIM for banking and sensitive apps?"
+          a: "Hotel Wi-Fi in Turkey varies: business hotels in Ankara offer secure, enterprise-grade Wi-Fi, while budget guesthouses in tourist hotspots may use basic routers with shared passwords — less secure. Your eSIM provides an encrypted, personal cellular connection — significantly safer for banking, credit card transactions, and sensitive logins. Turkey locals routinely use mobile banking apps over cellular data for security. A 3GB plan ($7.99) covers secure banking throughout your trip."
+        - q: "How to find last-minute hotels during peak season in Turkey?"
+          a: "During Turkey's high season, popular destinations can book out. Use Booking.com and local booking sites over your eSIM to check for cancellations. Expand your search radius — accommodations slightly outside the main tourist zone are often available at lower prices and may offer a more authentic experience. Use Google Maps to verify the location before booking and read recent reviews for real-time availability hints. A 10-minute booking session uses ~15MB. A 5GB/7-day plan ($9.99) supports flexible itinerary changes."
+        - q: "How to communicate with Turkish-speaking accommodation hosts?"
+          a: "Outside international chain hotels, most Turkey accommodation staff speak Turkish. Your eSIM enables: 1) WhatsApp messaging — Turkey locals use it universally for host-guest communication. 2) Google Translate's conversation mode for real-time spoken dialogue. 3) Camera translation for written instructions, door codes, and checkout policies. Download the Turkish offline pack in Google Translate before your trip, but camera mode needs data for accurate translation of handwritten notes. A 1GB/3-day plan ($2.99) handles this easily."
+        - q: "How to order food delivery to your Turkey hotel using eSIM?"
+          a: "Yemeksepeti (dominant, Turkish), Getir (super-fast delivery Turkish startup), Trendyol Yemek — all work entirely over your eSIM data. Delivery times in Ankara are typically 25–45 minutes. In smaller towns and rural areas, delivery apps may not operate, but you can WhatsApp local restaurants for takeaway — ask your hotel for recommended spots and their WhatsApp numbers. Data per order: ~5–10MB. A 3GB/7-day plan ($7.99) supports dozens of delivery orders."
+    - id: faq-attractions
+      icon: landmark
+      tab_title: Attractions
+      title: "5. Turkey eSIM for Attractions & Sightseeing"
+      questions:
+        - q: "How to visit Hagia Sophia & Blue Mosque using your eSIM for tickets and info?"
+          a: "Hagia Sophia & Blue Mosque, Hagia Sophia: 1,500-year-old masterpiece — church, then mosque, then museum, now mosque again. Blue Mosque facing it with six minarets. The heart of old Istanbul. Tickets cost Free (mosques); Hagia Sophia open outside prayer times and can be purchased via No booking for mosques — your eSIM displays the QR code at the entrance. Best time to visit: Morning before crowds. Dress code: headscarf + covered shoulders/knees (provided at entrance).. Use your eSIM to pull up Wikipedia for historical context and Google Maps for navigating the area. Take a screenshot of your ticket as backup. A 3GB/7-day plan ($7.99) covers all your Istanbul sightseeing."
+        - q: "How to navigate Ankara's top landmarks with your eSIM?"
+          a: "Ankara has excellent cellular coverage from all major carriers. Use your eSIM data to: 1) Navigate between landmarks on Google Maps walking mode. 2) Pull up Wikipedia for historical context at each site. 3) Check real-time opening hours and ticket availability. 4) Find nearby cafes and restaurants with good ratings. 5) Translate signs and information boards with Google Translate camera mode. Each search uses under 3MB. A $7.99 3GB/7-day plan handles a full week of urban exploration."
+        - q: "How to plan a trip to Nevsehir/Goreme using your eSIM?"
+          a: "Fairytale landscape of fairy chimneys, cave churches, and underground cities. Hot air balloon at sunrise = bucket list experience. Use your eSIM to: 1) Book tickets in advance via Book balloon 2-4 weeks ahead via your hotel or GetYourGuide. 2) Check real-time weather before heading out. 3) Navigate to the best viewpoints and photo spots. 4) Find well-reviewed lunch spots nearby. Tickets cost around EUR 200-EUR 300 hot air balloon ride. Download offline Google Maps of the area as backup. A 5GB/7-day plan ($9.99) covers a full day of exploration with plenty of data for photos and navigation."
+        - q: "How to book day trips and tours in Turkey using your eSIM?"
+          a: "Use GetYourGuide, Viator, or local tour operator websites over your eSIM data. Compare prices, read recent reviews, and book instantly — your phone displays the booking confirmation. Many tours offer same-day booking, and last-minute spots can appear as other travelers change plans. In popular destinations like Istanbul, book 1–2 days ahead during peak season. A booking session uses ~10MB. A 5GB/7-day plan ($9.99) lets you book tours flexibly as you travel."
+        - q: "What's the best eSIM data plan for a week of sightseeing in Turkey?"
+          a: "For a week of active sightseeing — navigating between attractions, translating signs, booking tickets, and sharing photos — a 5GB/7-day plan ($9.99) is ideal. Typical daily use: ~100MB for maps and navigation, ~50MB for attraction research, ~200MB for photo uploads and social media — roughly 350–500MB per day. If you're a heavy photographer or video sharer, the 10GB/15-day plan ($14.99) gives you plenty of headroom. For light users who pre-download maps at the hotel, a 3GB plan ($7.99) is sufficient."
+    - id: faq-dining
+      icon: utensils
+      tab_title: Dining
+      title: "6. Turkey eSIM for Dining & Food Discovery"
+      questions:
+        - q: "How to find authentic Turkish food beyond tourist traps?"
+          a: "Use your eSIM to search Google Maps away from tourist zones — filter by '4.5+ stars' and read reviews in Turkish for authenticity. Turkish breakfast is a 2-hour ritual. Dinner 7-9 PM. Cay (tea) offered everywhere — it is rude to refuse. Street food culture is huge: simit, balik ekmek (fish sandwich EUR 3 at Eminonu), midye dolma (stuffed mussels). Tipping 5-10%. Must-try dishes: kebab (TRY 150-TRY 350 — doner, Adana, Iskender... endless varieties), Turkish breakfast kahvalti (TRY 200-TRY 400 spread of cheese, olives, honey, eggs, bread), baklava (TRY 80-TRY 150/portion), simit (TRY 10-TRY 15 sesame bread ring from street carts), Turkish tea cay (free-TRY 5 everywhere), Turkish coffee (TRY 30-TRY 50). Each search uses ~3MB. A 3GB/7-day plan ($7.99) covers 1,000+ restaurant searches across your trip."
+        - q: "How to use food delivery apps in Turkey?"
+          a: "Yemeksepeti (dominant, Turkish), Getir (super-fast delivery Turkish startup), Trendyol Yemek — no local phone number required, the apps work entirely over data. Order from hundreds of restaurants, from local eateries to international chains. Delivery in Ankara takes 25–90 minutes depending on distance and traffic. Tip in the app. Check for free delivery promotions. Data per order: ~5–10MB. A 5GB/7-day plan ($9.99) handles a full week of food delivery."
+        - q: "How to make restaurant reservations in Turkey?"
+          a: "Most casual restaurants walk-in. High-end Istanbul (Mikla, Neolokal) book weeks ahead. With your eSIM, message restaurants directly — a reservation takes seconds and uses under 1MB of data. For high-end dining, some use online booking platforms. Check Google Maps for opening hours before heading out, as smaller restaurants may close earlier than expected. A 1GB/3-day plan ($2.99) handles this easily."
+        - q: "How to translate Turkish menus and food terms?"
+          a: "Turkish menus can have unique food terms not found in standard dictionaries. Google Translate's camera mode works over your eSIM data — point at any menu for instant translation. The offline Turkish pack handles basics, but camera mode needs data for accuracy with handwritten menus and regional specialties. Each camera translation uses ~2MB. A 1GB/3-day plan ($2.99) handles this easily."
+        - q: "How to pay at Turkey restaurants and street food stalls?"
+          a: "Cards widely accepted in cities and tourist areas. Cash at small shops and street stalls. Carry TRY 500-TRY 1000. ATMs everywhere. Always pay in TRY (decline conversion). Use your eSIM to find nearby ATMs on Google Maps. Carry enough local currency in small denominations for street food and markets. An ATM search uses under 2MB. A 1GB/3-day plan ($2.99) handles this easily."
+    - id: faq-social
+      icon: smartphone
+      tab_title: Social & Messaging
+      title: "7. Turkey eSIM for Social Media & Staying in Touch"
+      questions:
+        - q: "Is WhatsApp the dominant messaging app in Turkey?"
+          a: "Yes — WhatsApp is dominant. Turkish people use it extensively. Your eSIM data allows WhatsApp to work normally with your home number — no Turkey SIM needed. A typical day of WhatsApp use: under 10MB. An hour of WhatsApp voice calls: ~30MB. A 1GB/3-day plan ($2.99) handles this easily."
+        - q: "How to post Instagram/TikTok from Turkey's most photogenic spots?"
+          a: "Turkey offers incredible social media backdrops: Cappadocia balloons at sunrise, Hagia Sophia interior, Pamukkale white terraces, Blue Mosque silhouette, Istanbul rooftops with seagulls. Your eSIM provides upload bandwidth — Turkcell typically delivers 10–25 Mbps upload in major cities. An Instagram story: ~10–50MB. A 1-minute 1080p TikTok: ~100–200MB. Uploads are fastest in mornings (8–11 AM) before network congestion. In remote areas, queue posts for later upload from your hotel. A 10GB/15-day plan ($14.99) supports 50–100 high-quality posts."
+        - q: "How to make video calls (FaceTime, WhatsApp) back home from Turkey?"
+          a: "Video calling home works well over your Turkey eSIM in cities and towns. WhatsApp video calls use ~200–500MB/hour; FaceTime is similar. For best quality: call during non-peak hours (10 AM–4 PM) when networks are less congested. WhatsApp excellent. Turkcell 30-60 Mbps. A 30-minute call uses ~150MB. A 5GB/7-day plan ($9.99) supports ~33 hours of video calling."
+        - q: "How to share your live location with family during Turkey travels?"
+          a: "Share your location via WhatsApp's 'Share Live Location' — it works reliably over your eSIM data and uses ~5MB/hour. Useful when: exploring new cities, taking a day trip to the countryside, or meeting up with friends at a festival. In rural areas, sharing pauses and auto-resumes when signal returns — no need to manage it. Share your accommodation address with family before heading out for the day — it's reassuring and takes 5 seconds. A 3GB/15-day plan ($14.99) supports 600+ hours of continuous sharing."
+        - q: "Can I use dating apps and social discovery apps in Turkey?"
+          a: "Yes — Tinder, Bumble, and other apps work well over your eSIM data. Ankara has an active social app scene. Data usage for swiping and messaging: ~10MB/hour. Meetup.com and Couchsurfing Hangouts are active in Ankara for group activities and language exchanges. Meet in public places and share your live location with a friend — standard travel practice anywhere in the world. A 1GB/3-day plan ($2.99) handles this easily."
+    - id: faq-crossborder
+      icon: globe
+      tab_title: Cross-border
+      title: "8. Turkey eSIM for Cross-Border Travel"
+      questions:
+        - q: "Can I use my Turkey eSIM in Greece?"
+          a: "No, your Turkey eSIM is single-country and won't work in Greece. The main crossing: Fly Istanbul-Athens (1.5h). Greece eSIM. Your Turkey eSIM works up to the Turkey border post, then disconnects. Purchase a Greece eSIM before crossing — ~$12/3GB. Keep separate plans — two small country plans cost far less than an overpriced regional package."
+        - q: "What if I want to visit another country from Turkey?"
+          a: "Buy individual country eSIMs — they give better coverage at lower cost than regional plans. Install all eSIMs before departure and switch data lines at each border."
+        - q: "How does the Turkey–Greece border crossing work?"
+          a: "The Fly Istanbul-Athens (1.5h) is the main crossing between Turkey and Greece. Greece eSIM. Your Turkey eSIM works up to the border post (Turkcell coverage), then drops — purchase a Greece eSIM before crossing. Download offline maps of both sides as backup."
+        - q: "How do I manage eSIMs when visiting multiple countries from Turkey?"
+          a: "Install all your country eSIMs before leaving home. At each border crossing, go to Settings > Cellular and switch your data line to the new country's eSIM — it takes 10 seconds. iPhones support multiple active eSIMs; Android stores multiple profiles. Label each plan clearly (e.g., 'Turkey Data', 'Greece Data'). This way you always have instant data when you cross, without relying on border Wi-Fi or searching for a local SIM shop. A 3GB plan per country is typically sufficient for short stays in each."
+        - q: "What's the best eSIM strategy for a multi-country trip including Turkey?"
+          a: "TR(5GB~$10)+GR(3GB~$12)+IT(3GB~$12)=~$34 Mediterranean. Install all eSIMs before departure and switch data lines at each border. Individual country plans give you multi-carrier access in each country, which regional plans typically don't. Avoid the 'one regional plan' trap — the price premium isn't worth it when switching takes 10 seconds in your phone's Settings."
+    - id: faq-emergency
+      icon: alert-triangle
+      tab_title: Emergencies
+      title: "9. Turkey eSIM for Travel Support & Staying Connected"
+      questions:
+        - q: "How to handle everyday travel situations in Turkey (pharmacies, medical help, lost items)?"
+          a: "Turkey has good infrastructure for travelers. For minor health needs, pharmacies are widespread in cities — pharmacists can advise on common travel ailments and dispense many medications without a prescription. Search 'farmacia' or 'pharmacy' on Google Maps using your eSIM data to find the nearest one. For medical consultations, private clinics in Ankara offer walk-in appointments, and some have English-speaking staff. For lost items on public transport, contact the transit authority's lost property office. Turkey's national emergency numbers work on any phone without credit or data. A search for help uses under 2MB. A 1GB/3-day plan ($2.99) handles this easily."
+        - q: "How to find hospitals and pharmacies in Turkish cities?"
+          a: "Search Google Maps for 'farmacia 24 horas' or 'hospital' using your eSIM data. In Ankara, the best private hospitals are concentrated in upscale neighborhoods. In smaller towns, pharmacies may close by 8 PM — there's usually a farmacia de turno (on-duty pharmacy) posted on pharmacy doors. Private clinic emergency rooms accept international credit cards and wait times are much shorter than public hospitals. For telemedicine, apps like Doctoralia connect you with English-speaking doctors via video call over your eSIM. A pharmacy search uses under 2MB. A 1GB plan ($2.99) covers emergency searches for your entire trip."
+        - q: "How to contact your country's embassy or consulate in Turkey?"
+          a: "Most embassies are in Ankara. Use your eSIM data to search 'embassy of [your country] in Ankara'. Major embassies (US, UK, Canada, Australia, EU countries) have 24-hour duty officers reachable by phone or sometimes WhatsApp. For lost passports: call ahead — most embassies require appointments. Use Skype or VoIP calling over your eSIM data to reach them affordably. Search takes under 2MB. Screenshot the contact details so you have them offline. A 1GB/3-day plan ($2.99) handles this easily."
+        - q: "What to do if you misplace your phone while traveling in Turkey?"
+          a: "If you lose your phone: 1) Use a friend's device or hotel computer to log into our website and suspend your eSIM — this stops data usage immediately. 2) Use Find My iPhone (iCloud) or Google Find My Device to locate it. Most Turkey businesses will hold a found phone for you. 3) If the phone is gone, buy a replacement eSIM online from any device and install it on a backup phone. 4) For insurance, file a report with local authorities — the process is straightforward. Pro tip: back up your eSIM QR code to cloud storage before travel. Also save your accommodation's address and phone number offline — it's the first thing you'll want if your phone goes missing. A 1GB/3-day plan ($2.99) handles this easily."
+        - q: "How to stay flexible and handle travel changes in Turkey?"
+          a: "Travel plans shift — a flight gets delayed, or you decide to extend your stay. Your eSIM keeps you agile: 1) Rebook flights instantly on airline apps. 2) Change bus or train reservations online — no need to visit a terminal. 3) Find last-minute accommodation on Booking.com or local platforms. 4) Check real-time weather to adjust your day plans. 5) Contact your travel insurance via their app or WhatsApp if needed. Turkey businesses are generally flexible with changes, especially when you communicate early via WhatsApp. A 5GB/15-day plan ($14.99) gives you the data to adapt your plans as you go."
+    - id: faq-business
+      icon: briefcase
+      tab_title: Business
+      title: "10. Turkey eSIM for Business Travelers & Digital Nomads"
+      questions:
+        - q: "What's the best eSIM for business in Ankara's financial district?"
+          a: "Ankara's business hub is concentrated in Istanbul Levent/Maslak (finance), Istanbul Atasehir. All major carriers provide excellent coverage here — Turkcell leads with speeds of 15–50 Mbps. For business: a 10GB/15-day plan ($14.99) covers a work week of email, Slack, video calls, and cloud access. Coworking spaces: WeWork (Istanbul), Kolektif House, Dam, Atolye. Use ride-hailing or local transit for getting to meetings — your eSIM gives you real-time traffic data. A 20GB/30-day plan ($19.99) supports a full month of business travel."
+        - q: "How reliable are Zoom and Microsoft Teams calls from Turkey?"
+          a: "Video conferencing works well in Ankara and major Turkey cities. Turkcell 30-60 Mbps. Tips: 1) Use eSIM data directly on your phone (not hotspot) for maximum stability. 2) Morning calls (8–11 AM) have the least network congestion. 3) A 1-hour Zoom meeting uses ~1GB. A 20GB/30-day plan ($19.99) supports ~20 hours of meetings. For heavy presenters: test your connection 5 minutes before important calls."
+        - q: "How to connect to a corporate VPN from Turkey using eSIM?"
+          a: "Turkey blocks some websites (Wikipedia was blocked 2017-2020). VPN usage is common and legal. Our eSIM routes traffic internationally.. Connect your corporate VPN (OpenVPN, WireGuard, Cisco AnyConnect, etc.) over your eSIM data without friction. Speed penalty through VPN: 20–30% due to encryption — still sufficient for email, file access, and occasional video calls. For heavy VPN users (all-day remote desktop, large transfers), choose the 20GB or 30GB plan. Test your VPN from your hotel before important meetings."
+        - q: "Is Turkey good for digital nomads, and how does eSIM support remote work?"
+          a: "Your eSIM supports remote work: 1) Reliable cellular data as backup for unreliable Airbnb Wi-Fi. 2) Coworking access — WeWork (Istanbul), Kolektif House, Dam, Atolye. 3) Cellular coverage extends to popular neighborhoods and cafe districts for 'work from a cafe' days. 4) Ankara's time zone (UTC+3) is convenient for certain remote teams. A 10GB/15-day plan ($7.99) covers this comfortably."
+        - q: "How to access cloud services and manage time zones when working from Turkey?"
+          a: "All major cloud services work normally over your Turkey eSIM — Google Drive, Dropbox, OneDrive, Slack, Notion, Microsoft 365 — no restrictions, no blocking. Upload speeds on Turkcell (10–20 Mbps) handle large files — a 100MB presentation uploads in under a minute. Turkey is in UTC+3. For cloud-heavy users (photographers, videographers), the 30GB/30-day plan ($19.99) provides ample bandwidth. Key productivity tip: Turkey business hours are typically 8 AM–6 PM, with a 1–2 hour lunch — schedule accordingly."
 ---

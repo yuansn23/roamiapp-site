@@ -1,6 +1,6 @@
 ---
 title: Malta eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Malta Travel eSIM | No Hidden Charges | High-Speed 5G | Roami
-  description: Planning a trip to Malta? Stay connected via Top Local Carrier True
-    5G with 24/7 Data. Ideal for Digital Nomads. Enjoy No Hidden Charges with Seamless
-    Coverage.
+  title: "Malta eSIM | Fast 5G, Unlimited Data Plans"
+  description: "Explore Malta with Roami eSIM. Fast 5G on all three islands. Instant QR activation. Unlimited data for your stay."
   keywords: Malta eSIM, Malta travel eSIM, eSIM Malta, instant eSIM Malta, no roaming
     charges, travel internet Malta
   low_price: 1.99

@@ -1,6 +1,6 @@
 ---
 title: Hongkong eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:52:07+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Hongkong Reise-eSIM | Immer-verfügbare 5G-Verbindung | Roami
-  description: Besuchen Sie bald Hongkong? Erleben Sie hochgeschwindigkeits-5G-Konnektivität
-    von CMHK mit einer Roami-Reise-eSIM. Genießen Sie sofortige QR-Aktivierung und
-    nahtlose Mobildaten ohne Vertragsabschluss.
+  title: "Hongkong eSIM | 20% sparen, schnelles 5G"
+  description: "Navigieren Sie durch Hongkong mit Roami eSIM. Schnelles 5G in der ganzen Stadt. Sofortige Aktivierung bei Ankunft. Unbegrenzte Datentarife verfügbar."
   keywords: eSIM Hongkong, mobile Daten Hongkong, Reise eSIM Hongkong, Internet Hongkong,
     günstige eSIM Hongkong
 order_summary:

@@ -1,9 +1,7 @@
 ---
-title: Prepaid Griechenland eSIM mit unbegrenztem Datenvolumen (Cosmote & Vodafone)
-description: Inselhüpfen leicht gemacht. Prepaid Griechenland eSIM mit unbegrenztem
-  Datenvolumen. Funktioniert auf Santorin & Mykonos. Sofortige Aktivierung, keine
-  physische SIM.
-date: '2026-05-21'
+title: "Griechenland eSIM-Leitfaden | Cosmote, Vodafone oder Nova?"
+description: "Roami vergleicht die griechischen Anbieter für Reise-eSIM. 5G von Athen bis zu den Inseln. Welcher hält Sie am besten verbunden?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Griechenland, Prepaid Daten, 5G Netz, Cosmote, Vodafone, Roami eSIM,
   Reise eSIM
 site_name: Roami

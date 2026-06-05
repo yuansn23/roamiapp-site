@@ -1,6 +1,6 @@
 ---
 title: Italy eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Italy eSIM | 20% OFF | Unlimited 5G Data Plans | Roami
-  description: Looking for the best Italy eSIM for travel? Roami offers prepaid eSIM Italy with high-speed 5G on TIM, Vodafone Italia & Wind Tre. Buy eSIM online Italy – cheap unlimited data plans for tourists.
+  title: "Italy eSIM | 20% OFF, Unlimited 5G Data"
+  description: "Explore Italy with Roami eSIM. Fast 5G nationwide, no roaming charges. Instant activation. Unlimited data from $1.99."
   keywords: italy esim, esim italy, best esim for italy, e sim italy, prepaid esim italy, unlimited data esim italy, cheap esim italy, esim for italy travel, temporary esim italy, buy esim online italy, esim italy tourist, italy travel esim, best prepaid esim italy
   low_price: 1.99
   high_price: 39.9

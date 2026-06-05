@@ -1,6 +1,6 @@
 ---
 title: "Forfait eSIM Asie du Sud-Est | Meilleur eSIM voyage 2026 | Roami"
-date: '2026-05-12T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |
     Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
 seo:
-  title: "Acheter eSIM Asie du Sud-Est | Données voyage 5G illimitées | Roami"
-  description: "Vous parcourez l'Asie du Sud-Est à dos de routard ? Obtenez l'eSIM régionale prépayée de Roami pour un internet 5G sans latence au-delà des frontières. Profitez d'une configuration instantanée par QR et de données mobiles illimitées sans changer de SIM physique."
+  title: "eSIM Asie du Sud-Est | 10 pays, -20 %"
+  description: "Sautez d'un pays à l'autre en Asie du Sud-Est avec une seule eSIM Roami. 5G en Thaïlande, Vietnam, Malaisie et 7 autres pays. Pas de frais de frontière. QR instantané."
   keywords: "eSIM Asie du Sud-Est, eSIM pas cher, livraison instantanée, pas de frais d'itinérance, internet voyage, activation par QR code"
   low_price: 1.99
   high_price: 39.9

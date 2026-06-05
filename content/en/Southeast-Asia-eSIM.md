@@ -1,6 +1,6 @@
 ---
 title: Southeast Asia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Buy Southeast Asia eSIM | Unlimited 5G Travel Data | Roami
-  description: Backpacking across Southeast Asia? Get Roami's regional prepaid eSIM
-    for zero-lag 5G internet across multiple borders. Enjoy instant QR setup and unlimited
-    mobile data without swapping physical SIMs.
+  title: "SE Asia eSIM | 10 Countries, 20% OFF"
+  description: "Hop Southeast Asia with one Roami eSIM. 5G in Thailand, Vietnam, Malaysia & 7 more. No border fees. Instant QR."
   keywords: Southeast Asia eSIM, cheap eSIM, instant delivery, no roaming charges,
     travel internet, QR code activation
   low_price: 1.99

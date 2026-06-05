@@ -1,9 +1,7 @@
 ---
-title: Prepaid Portugal eSIM mit unbegrenztem Datenvolumen (MEO & Vodafone)
-description: Erkunden Sie Lissabon & Porto mit unbegrenztem Datenvolumen. Prepaid
-  Portugal eSIM auf MEO & Vodafone. Sofortiger QR-Code, keine physische Karte. Bester
-  Wert für digitale Nomaden.
-date: '2026-05-21'
+title: "Portugal eSIM-Leitfaden | MEO, Vodafone oder NOS?"
+description: "Roami vergleicht die portugiesischen Anbieter für Reise-eSIM. 5G von Lissabon bis zur Algarve. Welches ist am schnellsten für Reisende?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Portugal, Prepaid Daten, 5G Netz, MEO, NOS, Vodafone, DIGI, Roami
 site_name: Roami
 brand_name: Roami

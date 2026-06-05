@@ -1,6 +1,6 @@
 ---
 title: eSIM Romania Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:04:26+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Acquista eSIM Romania | Dati 5G illimitati per viaggi
-  description: Pianifichi un viaggio in Romania? Ottieni 5G ad alta velocità e nessun
-    contratto con Roami da operatori top locali. Cambio automatico di rete e connessione
-    automatica – ideale per famiglie.
+  title: "eSIM Romania | Risparmia il 20%, Dati 5G Veloce"
+  description: "Esplora la Romania con Roami eSIM. 5G veloce in tutto il paese. Attivazione QR immediata. Piani dati illimitati. Nessun contratto."
   keywords: eSIM Romania, roaming Romania, internet Romania, viaggio Romania, connettività
     Romania
 order_summary:

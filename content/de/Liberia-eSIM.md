@@ -1,6 +1,6 @@
 ---
 title: Liberia eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:57+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Liberia eSIM Plan | Nahtlose 5G-Mobildaten | 20% RABATT | Roami
-  description: Reisen Sie nach Liberia? Vermeiden Sie den Roaming-Schock, indem Sie
-    eine digitale SIM-Karte von Roami herunterladen. Verbinden Sie sich mit den besten
-    lokalen Netzen für stabiles 5G-Reiseinternet und genießen Sie unbegrenzte Prepaid-Daten
-    unterwegs.
+  title: "Liberia eSIM | Zuverlässiges 5G landesweit"
+  description: "Bleiben Sie in Liberia mit Roami eSIM verbunden. Zuverlässiges 5G landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten ab 1,99 $."
   keywords: Liberia eSIM, Internet in Liberia, Reise Internet, Liberia Tourismus,
     Netzabdeckung Liberia
 order_summary:

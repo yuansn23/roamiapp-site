@@ -1,6 +1,6 @@
 ---
 title: Honduras eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:51:40+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Honduras Reise-eSIM | Unbegrenzte 5G-Mobildaten | Roami
-  description: Bald in Honduras? Bleiben Sie mit der digitalen SIM von Roami sicher
-    verbunden. Profitieren Sie von automatisch verbindenden schnellen 5G-Geschwindigkeiten
-    im besten lokalen Netzwerk für problemloses Reiseinternet während Ihrer gesamten
-    Reise.
+  title: "Honduras eSIM | Schnelles 5G, keine Roaming-Gebühren"
+  description: "Besuchen Sie Honduras mit Roami eSIM. Schnelles 5G landesweit. Sofortige Aktivierung. Unbegrenzte Datentarife. Keine Roaming-Gebühren."
   keywords: Honduras eSIM, Reise eSIM, mobiles Internet Honduras, günstig im Ausland
     surfen, Touristen eSIM, LTE/5G Honduras, sofortige Aktivierung, Partner Netzwerke
 order_summary:

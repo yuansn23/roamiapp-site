@@ -2,7 +2,7 @@
 title: "Scarica l'app Roami: il miglior confronto prezzi eSIM | Roami"
 description: "Ottieni la migliore app eSIM da viaggio. Confronto automatico dei prezzi, tariffe fino al 30% più economiche, reti locali 5G e garanzia di rimborso al 100%. Usa il codice promozionale WEB20 per il 20% di sconto."
 type: "page"
-date: '2026-06-01T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 layout: "app"
 
 # ================= UI & Accessibilità =================
@@ -44,8 +44,8 @@ links:
 
 # ================= SEO & Schema =================
 seo:
-  title: "Scarica l'app Roami | Le tariffe eSIM globali più convenienti"
-  description: "Non pagare più il roaming. Roami confronta automaticamente i prezzi per offrirti eSIM locali 5G con risparmio superiore al 30%. Garanzia di rimborso al 100%."
+  title: "Scarica l'App | Acquista e Attiva eSIM in Minuti"
+  description: "Scarica l'app Roami per iOS o Android. Sfoglia, acquista e attiva la tua eSIM da viaggio in meno di 2 minuti. Trova il piano 5G più economico."
   canonical_url: ""
 
 schema:

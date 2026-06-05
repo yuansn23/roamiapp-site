@@ -1,6 +1,6 @@
 ---
 title: Ireland eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Ireland eSIM | Unlimited 5G Data Plans |20% OFF| Roami
-  description: Discover Ireland with uninterrupted digital connectivity. Roami offers
-    a prepaid travel eSIM with auto-connecting 5G data on premium local networks,
-    ensuring seamless coverage for your vacation.
+  title: "Ireland eSIM | Save 20%, Unlimited 5G Data"
+  description: "Discover Ireland with Roami eSIM. Reliable 5G nationwide. Instant QR activation. Unlimited data for cities & countryside."
   keywords: Ireland eSIM, cheap eSIM Ireland, unlimited data Ireland, Vodafone Ireland,
     Three Ireland, travel internet Ireland, no roaming charges, instant delivery,
     QR code activation

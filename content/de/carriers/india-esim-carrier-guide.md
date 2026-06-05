@@ -1,9 +1,7 @@
 ---
-title: Prepaid Indien eSIM mit unbegrenztem Datenvolumen (Airtel & Jio)
-description: Zuverlässige Prepaid-eSIM für Indien. Unbegrenztes Datenvolumen auf Airtel
-  & Jio-Netzen. Sofortige Aktivierung, keine lokale Adresse nötig. Bleiben Sie verbunden
-  in Mumbai, Delhi & Goa.
-date: '2026-05-21'
+title: "Indien eSIM-Leitfaden | Airtel, Jio oder Vi?"
+description: "Roami vergleicht die indischen Anbieter für Reise-eSIM. 5G in 28 Bundesstaaten. Welcher funktioniert ohne lokale ID? Geschwindigkeitsdaten im Inneren."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Indien, Prepaid Daten, 5G Netz, Jio, Airtel, Roami eSIM, Reise-eSIM
   Indien
 site_name: Roami

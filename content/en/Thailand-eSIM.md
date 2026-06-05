@@ -1,6 +1,6 @@
 ---
 title: Thailand eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Thailand eSIM Plan | 20% OFF| Unlimited Data | Roami
-  description: Heading to Thailand soon? Get Roami's Full-Speed 5G on True with Worry-Free
-    Data. Enjoy Unlimited Data and Seamless Coverage, tailored for Visiting Family.
+  title: "Thailand eSIM | 20% OFF, Unlimited 5G Data"
+  description: "Discover Thailand with Roami eSIM. Fast 5G in Bangkok, Phuket & nationwide. Instant QR delivery. Unlimited data for travelers."
   keywords: Thailand eSIM, cheap data, AIS, TrueMove, travel internet, no roaming,
     QR code activation
   low_price: 1.99

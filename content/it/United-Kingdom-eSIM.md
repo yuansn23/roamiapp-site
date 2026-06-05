@@ -1,6 +1,6 @@
 ---
 title: eSIM Regno Unito Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:54+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Pacchetto eSIM Regno Unito | Rete 5G prepagata per viaggi
-  description: In viaggio nel Regno Unito? Roami offre dati trasparenti e 5G a bassa
-    latenza Vodafone. Copertura seamless e dati illimitati – ideale per vacanze in
-    famiglia.
+  title: "eSIM Regno Unito | 20% DI SCONTO, Dati 5G Illimitati"
+  description: "Rimani online in tutto il Regno Unito con Roami eSIM. 5G veloce, dati illimitati, configurazione QR immediata. Copre Londra, Edimburgo e l'intera nazione."
   keywords: eSIM Regno Unito, copertura rete, viaggio Regno Unito, Internet mobile
     Londra, roaming Regno Unito
 order_summary:

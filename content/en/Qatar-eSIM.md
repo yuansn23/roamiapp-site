@@ -1,6 +1,6 @@
 ---
 title: Qatar eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:54:08+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Qatar Prepaid eSIM |5G High-Speed Network |20% OFF |Roami
-  description: Premium 5G connectivity with Roami Qatar eSIM on Ooredoo & Vodafone.
-    Instant activation via QR code, no roaming fees. Save 20% using code ROAMI20.
+  title: "Qatar eSIM | Ultra-Fast 5G Nationwide"
+  description: "Visit Qatar with Roami eSIM. Ultra-fast 5G across the peninsula. Instant activation. Unlimited data for business & leisure."
   keywords: Qatar eSIM, eSIM Qatar, travel eSIM Qatar, Qatar prepaid eSIM, instant
     eSIM Qatar
   low_price: 1.99

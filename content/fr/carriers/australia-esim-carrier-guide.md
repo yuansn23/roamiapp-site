@@ -1,9 +1,7 @@
 ---
-title: eSIM prépayée Australie avec données illimitées (Telstra & Optus)
-description: Restez connecté de Sydney à l'Outback. eSIM prépayée avec données illimitées
-  sur Telstra et Optus. Aucune carte SIM physique nécessaire. Idéal pour les routards
-  et les courts séjours.
-date: '2026-05-21'
+title: "Guide eSIM Australie | Telstra, Optus ou Vodafone ?"
+description: "Roami compare les opérateurs australiens pour l'eSIM de voyage. 5G de Sydney à Perth. Données de vitesse pour les voyageurs en ville et dans l'outback."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Australie, données prépayées, réseau 5G, Optus, Telstra, Superloop,
   voyage Australie, internet mobile Australie
 site_name: Roami

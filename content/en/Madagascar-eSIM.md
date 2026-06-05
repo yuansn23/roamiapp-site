@@ -1,6 +1,6 @@
 ---
 title: Madagascar eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Buy Madagascar eSIM | 24/7 5G Data | No Hidden Charges | Roami
-  description: Explore Madagascar with ease. Roami offers No Hidden Fees on the reliable
-    Top Local Carrier Always-On 5G. Features Best Local Network and Auto-Connect,
-    great for Light Travel.
+  title: "Madagascar eSIM | Reliable 5G, No Contract"
+  description: "Explore Madagascar with Roami eSIM. Reliable 5G nationwide. Instant QR activation. Unlimited data. No contract."
   keywords: Madagascar eSIM, Madagascar travel internet, prepaid data Madagascar,
     eSIM Madagascar, instant eSIM Madagascar
   low_price: 1.99

@@ -1,8 +1,7 @@
 ---
-title: Prepaid Finland eSIM with Unlimited Data (Telia & DNA)
-description: Fast 5G in Helsinki. Prepaid Finland eSIM with unlimited data. Instant
-  activation, no hidden fees. Great for Lapland trips.
-date: '2026-05-21'
+title: "Finland eSIM Guide | Elisa, DNA or Telia?"
+description: "Roami compares Finland's carriers for travel eSIM. 5G from Helsinki to Lapland. Which network is fastest?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Finnland, prepaid data, 5G network, DNA, Telia, Elisa, Roami eSIM
 site_name: Roami
 brand_name: Roami

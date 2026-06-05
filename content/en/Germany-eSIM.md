@@ -1,6 +1,6 @@
 ---
 title: Germany eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-03-29T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Prepaid eSIM Germany | Unlimited 5G Data Plans | Roami
-  description: Looking for the best Germany eSIM for travel? Roami offers prepaid eSIM Germany with high-speed 5G on Deutsche Telekom, Vodafone & O2. Buy eSIM online Germany – cheap unlimited data plans for tourists. 
+  title: "Germany eSIM | 20% OFF, Fast 5G Nationwide"
+  description: "Travel Germany with Roami eSIM. Fast 5G across the country. Instant QR setup. Unlimited data plans. No contract needed."
   keywords: germany esim, esim germany, best esim for germany, e sim germany, prepaid esim germany, unlimited data esim germany, cheap esim germany, esim for germany travel, temporary esim germany, buy esim online germany, esim germany tourist, germany travel esim, best prepaid esim germany
   low_price: 1.99
   high_price: 39.9

@@ -1,6 +1,6 @@
 ---
 title: North America eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-08T14:38:46+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: web20
 seo:
-  title: North America eSIM - Günstige Daten ohne Roaming - Roami
-  description: Sofortige Lieferung, keine Roaming-Gebühren. North America eSIM mit
-    QR-Code Aktivierung für mobiles Internet. Jetzt unbegrenzte Daten und Top-Netzabdeckung
-    erhalten.
+  title: "Nordamerika eSIM | 3 Länder, 20% RABATT"
+  description: "Reisen Sie durch Nordamerika mit einer Roami eSIM. 5G in den USA, Kanada und Mexiko. Kein Roaming an den Grenzen. Sofortige Aktivierung."
   keywords: North America eSIM, günstige eSIM, unbegrenzte Daten, mobiles Internet
     USA/Kanada, Reise eSIM, keine Roaming-Gebühren
   low_price: 1.99

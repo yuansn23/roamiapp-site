@@ -1,6 +1,6 @@
 ---
 title: Kazakhstan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Kazakhstan eSIM Plan | Top Local Carrier Stable 5G |20% OFF| Roami
-  description: Traveling to Kazakhstan? Experience No Roaming Shock and seamless Reliable
-    5G from Top Local Carrier. Features Seamless Coverage and Unlimited Data, great
-    for Digital Nomads.
+  title: "Kazakhstan eSIM | Reliable 5G Nationwide"
+  description: "Explore Kazakhstan with Roami eSIM. Reliable 5G nationwide. Instant activation. Unlimited data from $1.99."
   keywords: Kazakhstan eSIM, prepaid eSIM, cheap eSIM, unlimited data, travel internet,
     no roaming charges, instant delivery, Roami
   low_price: 1.99

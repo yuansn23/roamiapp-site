@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Maldives | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:15:22+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Maldives | 5G pleine vitesse | 20% DE RÉDUCTION | Roami
-  description: Explorez les Maldives en toute simplicité. Découvrez des données illimitées
-    et une 5G pleine vitesse transparente du meilleur opérateur local. Profitez de
-    l'absence de SIM physique et de l'itinérance multi-pays, adapté aux voyages d'affaires.
+  title: "eSIM Maldives | 5G rapide sur tous les atolls"
+  description: "Évadez-vous aux Maldives avec l'eSIM Roami. 5G rapide sur les atolls des resorts. Activation instantanée par QR. Données illimitées pour votre séjour."
   keywords: eSIM Maldives, forfait data Maldives, voyage Maldives, internet mobile
     Maldives, connexion réseau Maldives
 order_summary:

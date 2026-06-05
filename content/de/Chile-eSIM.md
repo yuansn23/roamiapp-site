@@ -1,6 +1,6 @@
 ---
 title: Chile eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:52:56+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Chile Reise-eSIM | Volles 5G Mobiles Internet | Roami
-  description: Planen Sie ein Abenteuer in Chile? Erleben Sie nahtlose echte 5G-Digitalkonnektivität
-    von vertrauenswürdigen lokalen Betreibern mit Roami. Genießen Sie Prepaid-Reisedaten
-    und landesweite Abdeckung völlig ohne Roaminggebühren.
+  title: "Chile eSIM | 20% RABATT, schnelles 5G landesweit"
+  description: "Reisen Sie durch Chile mit Roami eSIM. Schnelles 5G von Santiago bis Patagonien. Sofortige Aktivierung. Unbegrenzte Daten ab 1,99 $."
   keywords:
   - Chile eSIM
   - Reise Internet Chile

@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Roumanie | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:34+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Roumanie | Sans choc de roaming & auto-connexion | Roami
-  description: Vous planifiez un voyage en Roumanie ? Obtenez la 5G haut débit de
-    Roami sur le meilleur opérateur local avec des données sans engagement. Bénéficiez
-    d'une commutation auto réseau et d'une auto-connexion, parfait pour les visites
-    familiales.
+  title: "eSIM Roumanie | Économisez 20 %, données 5G rapides"
+  description: "Explorez la Roumanie avec l'eSIM Roami. 5G rapide dans tout le pays. Activation instantanée par QR. Forfaits données illimitées. Aucun contrat."
   keywords: eSIM Roumanie, forfait mobile Roumanie, internet Roumanie, voyage Roumanie,
     couverture réseau Roumanie
 order_summary:

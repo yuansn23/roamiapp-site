@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Eswatini | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:13:48+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Eswatini | 5G haut débit & multi-pays | Roami
-  description: Explorez l'Eswatini ? Roami fournit des données mobiles 5G haut débit
-    sur les réseaux locaux les plus fiables du pays. Téléchargez instantanément votre
-    eSIM de voyage prépayée via code QR et profitez d'une connexion Internet stable
-    avec itinérance multi-pays.
+  title: "eSIM Eswatini | 5G rapide dans tout le pays"
+  description: "Visitez l'Eswatini avec l'eSIM Roami. 5G rapide dans tout le royaume. Activation instantanée. Données illimitées pour les affaires et les loisirs."
   keywords: eSIM Eswatini, forfait data Eswatini, voyage Eswatini, connexion internet
     Eswatini, réseau mobile Swaziland
 order_summary:

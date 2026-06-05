@@ -1,6 +1,6 @@
 ---
 title: eSIM Nepal Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:46:23+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM Nepal | Dati 5G illimitati per viaggi
-  description: In viaggio in Nepal? Roami ti offre 5G stabile e dati illimitati sulle
-    migliori reti locali. Connettività affidabile per trekking e visite a Kathmandu
-    – senza costi di roaming.
+  title: "eSIM Nepal | 5G Affidabile in Città e Montagna"
+  description: "Viaggia in Nepal con Roami eSIM. 5G affidabile a Kathmandu, Pokhara e oltre. Attivazione immediata. Dati illimitati disponibili."
   keywords: eSIM Nepal, viaggio Nepal, internet mobile Nepal, copertura rete Nepal,
     operatore telefonico Nepal
 order_summary:

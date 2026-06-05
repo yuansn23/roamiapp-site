@@ -1,9 +1,7 @@
 ---
-title: eSIM prépayée Indonésie avec données illimitées (Telkomsel)
-description: Meilleure eSIM prépayée pour Bali et Jakarta. Données illimitées sur
-  le réseau Telkomsel. Livraison instantanée, pas de problème d'enregistrement. Restez
-  connecté à travers les îles indonésiennes.
-date: '2026-05-21'
+title: "Guide eSIM Indonésie | Telkomsel, XL ou Indosat ?"
+description: "Roami compare les opérateurs indonésiens pour l'eSIM de voyage. 5G à Bali, Jakarta et sur les îles. Le meilleur pour les voyageurs."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Indonésie, données prépayées, réseau 5G, Telkomsel, XL, voyage Indonésie,
   Bali, Jakarta
 site_name: Roami

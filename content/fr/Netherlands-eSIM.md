@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Pays-Bas | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:35+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Pays-Bas | 5G stable KPN | 20% DE RÉDUCTION | Roami
-  description: Besoin d'Internet aux Pays-Bas ? Obtenez la 5G stable de Roami sur
-    KPN avec des données 24/7. Profitez d'un support 24/7 et du meilleur réseau local,
-    adapté aux nomades numériques.
+  title: "eSIM Pays-Bas | -20 %, 5G rapide"
+  description: "Explorez les Pays-Bas avec l'eSIM Roami. 5G rapide dans tout le pays. Activation instantanée par QR. Forfaits données illimitées."
   keywords: eSIM Pays-Bas, forfait data Pays-Bas, internet mobile Pays-Bas, voyage
     Pays-Bas, eSIM voyage
 order_summary:

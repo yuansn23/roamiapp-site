@@ -1,6 +1,6 @@
 ---
 title: Czech Republic eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Czech Republic Travel eSIM | Unlimited Data | Native 5G | Roami
-  description: Heading to Czech Republic soon? Get Roami's True 5G on Top Local Carrier
-    with Fair Use Data. Perfect for Visiting Family, offering Zero Contracts and Nationwide
-    Coverage.
+  title: "Czech Republic eSIM | 20% OFF, No Roaming"
+  description: "Visit Czechia with Roami eSIM. Fast 5G in Prague & nationwide. Instant QR activation. Unlimited data. No EU roaming."
   keywords: Czech Republic eSIM, travel internet Czech Republic, O2 eSIM, T-Mobile
     eSIM, cheap eSIM Czech Republic
   low_price: 1.99

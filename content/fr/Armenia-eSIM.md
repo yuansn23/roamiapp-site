@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Arménie | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:15:25+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Arménie | 5G haut débit | 20% DE RÉDUCTION | Roami
-  description: Besoin d'une connexion fiable en Arménie ? Roami offre une SIM numérique
-    sans choc de roaming avec une couverture locale 5G transparente. Obtenez des données
-    prépayées illimitées parfaitement adaptées aux voyages légers et au tourisme.
+  title: "eSIM Arménie | 5G fiable dans tout le pays"
+  description: "Explorez l'Arménie avec l'eSIM Roami. 5G fiable dans tout le pays. Activation instantanée. Forfaits données illimitées. Pas de frais d'itinérance."
   keywords: eSIM Arménie, forfait data Arménie, internet mobile Arménie, réseau Arménie,
     voyage Arménie
 order_summary:

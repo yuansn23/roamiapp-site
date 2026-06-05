@@ -1,6 +1,6 @@
 ---
 title: Estonia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Best Estonia eSIM | Transparent Data & Full-Speed 5G | Roami
-  description: Planning a trip to Estonia? Enjoy Top Local Carrier Native 5G and No
-    Contract Data with Roami. Features Auto Network Switch and Zero Contracts, great
-    for Light Travel.
+  title: "Estonia eSIM | Fast 5G Nationwide"
+  description: "Stay connected in Estonia with Roami eSIM. Fast 5G nationwide. Instant QR activation. Unlimited data. No contract."
   keywords: Estonia eSIM, prepaid eSIM Estonia, cheap eSIM Estonia, unlimited data
     Estonia, travel internet Estonia, Roami
   low_price: 1.99

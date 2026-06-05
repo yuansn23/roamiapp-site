@@ -1,6 +1,6 @@
 ---
 title: USA eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:52:41+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: USA Reise-eSIM | 20% RABATT | Hochgeschwindigkeits-5G | Roami
-  description: Bald in den USA? Roami bietet sorgenfreie Daten auf dem zuverlässigen
-    Verizon Hochgeschwindigkeits-5G. Ideal für Familienbesuche. Genießen Sie keine
-    Roaminggebühren mit stabiler Verbindung.
+  title: "USA eSIM | 20% RABATT, unbegrenzte 5G-Daten"
+  description: "Reisen Sie durch die USA mit Roami eSIM. Unbegrenzte 5G-Daten in den besten US-Netzen. Sofortige Aktivierung, kein Vertrag. Funktioniert in allen 50 Bundesstaaten."
   keywords: eSIM, Vereinigte Staaten, mobiles Internet, Reisen, USA, Netzabdeckung
 order_summary:
   title: Ausgewählter Tarif

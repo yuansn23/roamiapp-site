@@ -1,8 +1,7 @@
 ---
-title: Prepaid Fiji eSIM with Unlimited Data (Vodafone & Digicel)
-description: Island life connected. Prepaid Fiji eSIM with unlimited data. Instant
-  activation, perfect for resort hopping in Nadi & Suva.
-date: '2026-05-21'
+title: "Fiji eSIM Guide | Vodafone or Digicel?"
+description: "Roami compares Fiji's carriers for travel eSIM. 5G on Viti Levu & outer islands. Find the best network for your Pacific trip."
+date: '2026-06-04T00:00:00+00:00'
 keywords: Fiji eSIM, keep primary number active, Vodafone Fiji, Digicel Fiji, Yasawa
   Islands, Beqa Lagoon, free roaming, travel eSIM, Fiji network comparison
 site_name: Roami

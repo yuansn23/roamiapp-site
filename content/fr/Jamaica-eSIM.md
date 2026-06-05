@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Jamaïque | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:15:01+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Jamaïque | 5G haut débit & sans frais d'itinérance | Roami
-  description: Détendez-vous en Jamaïque tout en restant parfaitement connecté. Une
-    SIM virtuelle Roami fournit un accès 5G toujours activé via des réseaux locaux
-    fiables. Profitez de données de voyage prépayées rapides sans aucun frais d'itinérance
-    caché.
+  title: "eSIM Jamaïque | 5G rapide sur toute l'île"
+  description: "Visitez la Jamaïque avec l'eSIM Roami. 5G rapide sur toute l'île. Activation instantanée par QR. Données illimitées pour votre séjour."
   keywords: eSIM Jamaïque, forfait data Jamaïque, internet mobile Jamaïque, carte
     eSIM Jamaïque, voyage Jamaïque
 order_summary:

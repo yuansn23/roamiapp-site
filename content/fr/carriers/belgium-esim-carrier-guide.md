@@ -1,9 +1,7 @@
 ---
-title: eSIM prépayée Belgique avec données illimitées (Proximus & Orange)
-description: Parfait pour les voyages d'affaires dans l'UE. eSIM prépayée Belgique
-  avec données illimitées sur Proximus. Configuration instantanée, pas de frais d'itinérance
-  en Europe.
-date: '2026-05-21'
+title: "Guide eSIM Belgique | Proximus, Orange ou Telenet ?"
+description: "Roami compare les opérateurs belges pour l'eSIM de voyage. 5G dense à Bruxelles et dans tout le pays. Quel réseau est le meilleur ?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Belgique, données prépayées, réseau 5G, Proximus, Orange, Telenet,
   BASE, Speedtest, voyage Belgique
 site_name: Roami

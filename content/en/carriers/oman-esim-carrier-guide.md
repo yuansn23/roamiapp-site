@@ -1,8 +1,7 @@
 ---
-title: Prepaid Oman eSIM with Unlimited Data (Omantel & Ooredoo)
-description: Desert & city connectivity. Prepaid Oman eSIM with unlimited data. Instant
-  setup, works in Muscat & Salalah.
-date: '2026-05-21'
+title: "Oman eSIM Guide | Omantel, Ooredoo or Vodafone?"
+description: "Roami compares Oman's carriers for travel eSIM. 5G from Muscat to Salalah. Find the best network."
+date: '2026-06-04T00:00:00+00:00'
 keywords: Oman eSIM, Omantel, Ooredoo, travel eSIM, 5G Oman, no roaming fees, eSIM
   compatibility
 site_name: Roami

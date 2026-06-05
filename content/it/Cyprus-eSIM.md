@@ -1,6 +1,6 @@
 ---
 title: eSIM Cipro Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:38+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Pacchetto eSIM Cipro | Dati 5G illimitati per viaggi
-  description: Hai bisogno di connessione a Cipro? Roami offre nessuno shock da roaming
-    su rete 5G veloce da operatori locali affidabili. Dati illimitati e copertura
-    seamless – pensato per famiglie.
+  title: "eSIM Cipro | 5G Affidabile su Tutta l'Isola"
+  description: "Rimani connesso a Cipro con Roami eSIM. 5G affidabile su tutta l'isola. Attivazione immediata. Dati illimitati da 1,99 $."
   keywords: eSIM Cipro, Copertura mobile Cipro, Viaggio a Cipro, Internet Cipro, roaming
     Cipro
 order_summary:

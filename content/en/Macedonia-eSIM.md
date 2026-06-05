@@ -1,6 +1,6 @@
 ---
 title: Macedonia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:53:44+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Macedonia eSIM - Fast 4G/5G Coverage by A1 & Telekom - Roami
-  description: Get instant eSIM for Macedonia with fast 4G/5G from A1 & Telekom. No
-    roaming charges, QR activation. Enjoy reliable travel internet in Skopje, Ohrid,
-    Bitola. Buy now!
+  title: "North Macedonia eSIM | Fast 5G Nationwide"
+  description: "Visit North Macedonia with Roami eSIM. Fast 5G nationwide. Instant QR activation. Unlimited data. No contract."
   keywords: Macedonia eSIM, travel internet Macedonia, prepaid eSIM Macedonia, instant
     eSIM, no roaming charges
   low_price: 1.99

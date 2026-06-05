@@ -1,6 +1,6 @@
 ---
 title: eSIM Corea del Sud Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:14+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM da viaggio Corea del Sud| 5G ad alta velocità
-  description: Pianifichi un viaggio in Corea del Sud? Resta connesso con KT, 5G sempre
-    disponibile e uso equo dei dati. Copertura seamless e connessione automatica –
-    ideale per vacanze in famiglia.
+  title: "eSIM Corea del Sud | 20% DI SCONTO, 5G Ultra Veloce"
+  description: "Vivi il 5G più veloce del mondo in Corea del Sud con Roami eSIM. Velocità fulminee in tutta la nazione. Attivazione QR immediata."
   keywords: Corea del Sud, eSIM Corea, viaggio Corea, copertura rete, operatore mobile,
     turismo Corea, Seoul, Busan
 order_summary:

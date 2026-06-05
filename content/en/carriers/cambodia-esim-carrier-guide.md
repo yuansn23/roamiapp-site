@@ -1,8 +1,7 @@
 ---
-title: Prepaid Cambodia eSIM with Unlimited Data (Smart & Cellcard)
-description: Angkor Wat ready. Prepaid Cambodia eSIM with unlimited data. Instant
-  QR code, no need to buy local SIMs in Siem Reap.
-date: '2026-05-21'
+title: "Cambodia eSIM Guide | Smart, Cellcard or Metfone?"
+description: "Roami compares Cambodia's carriers for travel eSIM. 5G from Angkor to the coast. Find the fastest network."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Kambodscha, prepaid data, 5G network, Smart, Cellcard, MekongNet, travel
   eSIM Cambodia
 site_name: Roami

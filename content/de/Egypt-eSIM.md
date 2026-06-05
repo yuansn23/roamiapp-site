@@ -1,6 +1,6 @@
 ---
 title: Ägypten eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:52:12+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Top Ägypten eSIM | 24/7 Daten | Lokaler Top-Betreiber Schnelles 5G | Roami
-  description: Bald in Ägypten? Roami bietet keinen Roaming-Schock auf dem zuverlässigen
-    lokalen Top-Betreiber mit immer-verfügbarem 5G. Genießen Sie Auto-Connect und
-    stabile Verbindung – maßgeschneidert für Familienbesuche.
+  title: "Ägypten eSIM | 20% sparen, unbegrenzte 5G-Daten"
+  description: "Entdecken Sie Ägypten mit Roami eSIM. Zuverlässiges 5G landesweit. Sofortige QR-Aktivierung. Unbegrenzte Datentarife. Keine Roaming-Gebühren."
   keywords: Ägypten eSIM, mobiles Internet Ägypten, Reise eSIM Ägypten, Ägypten Reiseführer,
     günstige eSIM Ägypten
 order_summary:

@@ -1,9 +1,9 @@
 ---
-title: "Список совместимых с eSIM устройств | 300+ телефонов (2026)"
-description: "Какие устройства Apple поддерживают eSIM? Полный список на 2026: iPhone 17 Pro Max, iPad, Apple Watch, Samsung Galaxy S25, Google Pixel, Xiaomi 15T Pro и другие."
+title: "Проверка телефона на eSIM | Более 300 устройств в списке"
+description: "Проверьте, работает ли ваш телефон с Roami eSIM. Полный список iPhone, Samsung Galaxy, Google Pixel и более 300 устройств. Обновлено для 2026 года."
 keywords: "телефоны совместимые с eSIM, телефоны поддерживающие eSIM, мой телефон совместим с eSIM, совместимость iPhone с eSIM, телефоны Samsung с eSIM, устройства с поддержкой eSIM 2026, проверить совместимость eSIM, iphone 17 esim, samsung s25 esim, сколько esim, как подключить esim на айфон, esim какие, 17 pro max esim, esim samsung, galaxy esim"
 layout: "compatibility"
-date: '2026-05-27T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 type: "page"
 
 # Структурированные данные FAQ для SEO

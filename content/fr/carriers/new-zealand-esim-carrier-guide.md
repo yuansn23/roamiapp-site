@@ -1,9 +1,7 @@
 ---
-title: eSIM prépayée Nouvelle-Zélande avec données illimitées (Spark & Vodafone)
-description: Prêt pour un road trip ! eSIM prépayée Nouvelle-Zélande avec données
-  illimitées. Fonctionne très bien dans les zones reculées. Activation instantanée,
-  pas besoin de visiter un magasin.
-date: '2026-05-21'
+title: "Guide eSIM Nouvelle-Zélande | Spark, One NZ ou 2degrees ?"
+description: "Roami compare les opérateurs néo-zélandais pour l'eSIM de voyage. 5G sur les deux îles. Trouvez le meilleur réseau pour les road trips et l'arrière-pays."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Nouvelle-Zélande, données prépayées, réseau 5G, One NZ, Spark, 2degrees,
   voyage Nouvelle-Zélande, données illimitées
 site_name: Roami

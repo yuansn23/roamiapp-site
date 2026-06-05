@@ -1,6 +1,6 @@
 ---
 title: Europa eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:51:42+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Top Europa eSIM | 20% RABATT | Lokaler Top-Betreiber Nahtloses 5G | Roami
-  description: Reisen Sie nach Europa? Erleben Sie keinen Roaming-Schock und nahtloses
-    5G vom lokalen Top-Betreiber. Bietet stabile Verbindung und sofortige QR-Einrichtung
-    – ideal für digitale Nomaden.
+  title: "Europa eSIM | 40+ Länder, jetzt 20% sparen"
+  description: "Reisen Sie durch Europa mit einer Roami eSIM. Grenzüberschreitendes 5G in 40+ Ländern. Kein Roaming, kein SIM-Wechsel. Sofortiger QR. Tarife ab 5 $."
   keywords: Europa eSIM, Reise Internet Europa, mobiles Internet Europa, eSIM für
     Europa, günstige eSIM Europa, Europa Reise eSIM
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: Vatican City eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:54:15+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Vatican City eSIM - Vodafone & TIM Networks with Cheap Data Plans - Roami
-  description: Get instant Vatican City eSIM with local Vodafone and TIM networks.
-    Enjoy no roaming charges, travel internet with QR code activation. Starting at
-    $1.99. Stay connected now!
+  title: "Vatican City eSIM | Fast 5G, Instant Setup"
+  description: "Visit the Vatican with Roami eSIM. Fast 5G at St. Peter's, the Museums & into central Rome. Instant QR activation."
   keywords: Vatican City eSIM, Vatican City travel internet, Vatican City mobile data,
     Vatican City network coverage, eSIM Vatican City
   low_price: 1.99

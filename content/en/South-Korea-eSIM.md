@@ -1,6 +1,6 @@
 ---
 title: South Korea eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: South Korea eSIM | 20% OFF| Unlimited 5G Data Plans| Roami
-  description: Planning a trip to South Korea? Stay connected via KT Always-On 5G
-    with Fair Use Data. Features Seamless Coverage and Auto-Connect, great for Family
-    Vacations.
+  title: "South Korea eSIM | 20% OFF, Ultra-Fast 5G"
+  description: "Experience the world's fastest 5G in South Korea with Roami eSIM. Blazing speeds nationwide. Instant QR activation."
   keywords: South Korea eSIM, travel internet, roaming free, instant delivery, QR
     code activation
   low_price: 1.99

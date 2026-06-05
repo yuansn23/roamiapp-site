@@ -1,6 +1,6 @@
 ---
 title: Norway eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Norway eSIM | Unlimited 5G Data Plans |Roami
-  description: Traveling to Norway? Roami offers high-speed 5G data on Norway’s top
-    local carriers. Enjoy a stable connection with no physical SIM—perfect for exploring
-    the fjords and Northern Lights.
+  title: "Norway eSIM | 20% OFF, Unlimited 5G Data"
+  description: "Explore Norway with Roami eSIM. Fast 5G from Oslo to the Arctic. Instant activation. Unlimited data plans."
   keywords: Norway eSIM, Norway travel eSIM, instant eSIM Norway, no roaming charges
     Norway, eSIM with QR code activation, Norway mobile data, Telenor eSIM, Telia
     eSIM

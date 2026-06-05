@@ -1,8 +1,7 @@
 ---
-title: Prepaid Malta eSIM with Unlimited Data (GO & Melita)
-description: Valletta digital ready. Prepaid Malta eSIM with unlimited data. Instant
-  activation, stay connected on the historic Mediterranean island.
-date: '2026-05-21'
+title: "Malta eSIM Guide | GO, Epic or Melita?"
+description: "Roami compares Malta's carriers for travel eSIM. 5G on all three islands. Which gives you the best speeds?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: Malta eSIM, Malta travel eSIM, GO Malta, Epic Malta, Valletta eSIM, Grand
   Harbour, Mdina, Comino, no roaming fees, eSIM compatibility
 site_name: Roami

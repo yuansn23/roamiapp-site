@@ -1,6 +1,6 @@
 ---
 title: slovenia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:53:54+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Slovenia Prepaid eSIM |20% Off Code |5G High-Speed |Roami
-  description: High-speed data with Roami eSIM for Slovenia on A1 & Telekom Slovenije.
-    Instant digital delivery, compatible with all smartphones. Use ROAMI20 for 20%
-    off.
+  title: "Slovenia eSIM | Fast 5G Nationwide"
+  description: "Explore Slovenia with Roami eSIM. Fast 5G nationwide. Instant QR activation. Unlimited data. No roaming charges."
   keywords: Slovenia eSIM, eSIM Slovenia, cheap eSIM Slovenia, travel internet Slovenia,
     A1 Slovenia, Telekom Slovenije, instant eSIM, no roaming charges
   low_price: 1.99

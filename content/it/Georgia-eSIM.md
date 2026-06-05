@@ -1,6 +1,6 @@
 ---
 title: eSIM Georgia Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:04:17+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM da viaggio Georgia | Zero contratti | Rete 5G seamless
-  description: Esplora la Georgia senza sforzo. Ottieni 5G veloce e piani dati trasparenti
-    con Roami da operatori top locali. Perfetto per nomadi digitali – nessuna SIM
-    fisica e roaming cross-regionale.
+  title: "eSIM Georgia | 5G Veloce in Tutta la Nazione"
+  description: "Esplora la Georgia con Roami eSIM. 5G veloce in tutta la nazione. Attivazione immediata. Dati illimitati. Nessuna tariffa di roaming."
   keywords: eSIM Georgia, copertura rete Georgia, viaggio Georgia, internet mobile
     Georgia, roaming Georgia
 order_summary:

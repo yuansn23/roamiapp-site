@@ -1,8 +1,7 @@
 ---
-title: eSIM prépayée Costa Rica avec données illimitées (Kölbi & Claro)
-description: Connectivité Pura Vida. eSIM prépayée Costa Rica avec données illimitées.
-  Configuration instantanée, parfait pour les aventures dans la forêt tropicale.
-date: '2026-05-21'
+title: "Guide eSIM Costa Rica | Kolbi, Claro ou Liberty ?"
+description: "Roami compare les opérateurs costariciens pour l'eSIM de voyage. 5G dans tout le pays. Trouvez le réseau le plus fiable."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Costa Rica, données prépayées, réseau 5G, Claro, Kölbi, Metrocom, itinérance,
   voyage, guide réseau
 site_name: Roami

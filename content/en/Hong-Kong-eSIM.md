@@ -1,6 +1,6 @@
 ---
 title: Hong Kong eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Hong Kong eSIM | Unlimited 5G Data Plans | Roami
-  description: Visiting Hong Kong soon? Experience high-speed 5G connectivity from
-    CMHK with a Roami travel eSIM. Enjoy instant QR activation and seamless mobile
-    data without signing any contracts.
+  title: "Hong Kong eSIM | Save 20%, Fast 5G"
+  description: "Navigate Hong Kong with Roami eSIM. Fast 5G across the city. Instant activation on arrival. Unlimited data plans available."
   keywords: Hong Kong eSIM, prepaid eSIM Hong Kong, cheap eSIM Hong Kong, travel internet
     Hong Kong, instant delivery eSIM
   low_price: 1.99

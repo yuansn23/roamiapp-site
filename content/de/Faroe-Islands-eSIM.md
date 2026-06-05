@@ -1,6 +1,6 @@
 ---
 title: Färöer eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:52:48+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Färöer Inseln eSIM | Verzögerungsfreies 5G Reisedaten | Roami
-  description: Planen Sie eine Reise auf die Färöer Inseln? Bleiben Sie mit der Prepaid-Reise-eSIM
-    von Roami verbunden. Genießen Sie stabiles 5G-Mobildaten auf lokalen Top-Betreibern
-    mit sofortiger QR-Einrichtung und null Roaminggebühren.
+  title: "Färöer eSIM | Zuverlässiges 5G auf 18 Inseln"
+  description: "Entdecken Sie die Färöer mit Roami eSIM. Zuverlässiges 5G auf allen 18 Inseln. Sofortige QR-Aktivierung. Unbegrenzte Daten."
   keywords: Färöer eSIM, mobiles Internet Färöer, Reise nach Färöer, Daten eSIM Färöer,
     günstige eSIM Färöer, Netzabdeckung Färöer
 order_summary:

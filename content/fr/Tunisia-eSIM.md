@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Tunisie | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:53+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Tunisie | 5G native | 20% DE RÉDUCTION | Roami
-  description: Vous planifiez un voyage en Tunisie ? Roami offre des données haut
-    débit sur la 5G native fiable du meilleur opérateur local. Avec une couverture
-    nationale et l'absence de frais cachés, c'est parfait pour les nomades numériques.
+  title: "eSIM Tunisie | 5G rapide, pas de frais d'itinérance"
+  description: "Visitez la Tunisie avec l'eSIM Roami. 5G rapide dans tout le pays. Activation instantanée. Forfaits données illimitées. Pas de frais d'itinérance."
   keywords: eSIM Tunisie, voyage Tunisie, internet mobile Tunisie, couverture réseau
     Tunisie, opérateurs mobiles Tunisie
 order_summary:

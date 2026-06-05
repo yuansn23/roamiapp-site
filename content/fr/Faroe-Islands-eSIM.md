@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Îles Féroé | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:23+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Îles Féroé | 5G à latence zéro & QR instantané | Roami
-  description: Vous planifiez un voyage aux Îles Féroé ? Restez connecté avec l'eSIM
-    de voyage prépayée de Roami. Profitez d'une 5G mobile stable sur les meilleurs
-    opérateurs locaux avec une configuration QR instantanée et zéro frais d'itinérance.
+  title: "eSIM Îles Féroé | 5G fiable sur 18 îles"
+  description: "Explorez les Féroé avec l'eSIM Roami. 5G fiable sur les 18 îles. Activation instantanée par QR. Données illimitées."
   keywords: eSIM Îles Féroé, voyage Îles Féroé, couverture mobile Îles Féroé, forfait
     data Îles Féroé, internet voyage Îles Féroé
 order_summary:

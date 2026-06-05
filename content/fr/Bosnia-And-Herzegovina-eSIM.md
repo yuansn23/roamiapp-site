@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Bosnie-Herzégovine | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:22+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Bosnie | 5G toujours activée & couverture nationale | Roami
-  description: Vous voyagez en Bosnie-Herzégovine ? Profitez de la 5G toujours activée
-    du meilleur opérateur local et de données sans engagement avec Roami. Avec une
-    couverture nationale et des données illimitées, c'est parfait pour les vacances
-    en famille.
+  title: "eSIM Bosnie | 5G fiable dans tout le pays"
+  description: "Découvrez la Bosnie avec l'eSIM Roami. 5G fiable à Sarajevo, Mostar et dans tout le pays. Activation instantanée par QR. Données illimitées à partir de 1,99 $."
   keywords: eSIM Bosnie-Herzégovine, forfait data Bosnie, internet mobile Bosnie,
     voyage Bosnie, carte eSIM
 order_summary:

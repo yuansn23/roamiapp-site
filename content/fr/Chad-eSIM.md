@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Tchad | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:13:48+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Tchad | 5G transparente & support 24/7 |20% DE RÉDUCTION | Roami
-  description: Besoin d'Internet au Tchad ? Profitez de la 5G transparente du meilleur
-    opérateur local et de l'absence de frais cachés avec Roami. Avec une connexion
-    stable et des données illimitées, c'est parfait pour les vacances en famille.
+  title: "eSIM Tchad | 5G rapide dans les grandes villes"
+  description: "Restez connecté au Tchad avec l'eSIM Roami. 5G rapide à N'Djaména et dans les grandes villes. Activation instantanée. Forfaits données illimitées."
   keywords: eSIM Tchad, voyage Tchad, couverture réseau Tchad, opérateurs mobiles
     Tchad, internet Tchad
 order_summary:

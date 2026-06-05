@@ -1,8 +1,7 @@
 ---
-title: Prepaid Spain eSIM with Unlimited Data (Movistar & Orange)
-description: Stay online in Barcelona & Madrid. Prepaid Spain eSIM with unlimited
-  data. No EU roaming charges. Instant activation, keep your home number active.
-date: '2026-05-21'
+title: "Spain eSIM Guide | Movistar, Orange or Vodafone?"
+description: "Roami tests Spain's networks for travel eSIM. 5G on mainland, Costas & Islands. Which carrier has the best coverage?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Spanien, prepaid data, 5G network, Movistar, Orange, DIGI, travel eSIM,
   unlimited data
 site_name: Roami

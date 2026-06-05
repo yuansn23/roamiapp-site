@@ -1,6 +1,6 @@
 ---
 title: Dominikanische Republik eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:51:36+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Dominikanische Republik eSIM Plan | Lokaler Top-Betreiber Stabiles 5G | Roami
-  description: Bald in der Dominikanischen Republik? Erleben Sie transparente Daten
-    und nahtloses verzögerungsfreies 5G vom lokalen Top-Betreiber. Perfekt für digitale
-    Nomaden – null Verträge und nahtlose Abdeckung.
+  title: "Dominikanische Republik eSIM | Schnelles 5G, unbegrenzte Daten"
+  description: "Entfliehen Sie in die DR mit Roami eSIM. Schnelles 5G in Punta Cana, Santo Domingo und landesweit. Sofortige Aktivierung. Unbegrenzte Daten."
   keywords: eSIM Dominikanische Republik, Reise eSIM, mobiles Internet, Urlaub, Santo
     Domingo, Punta Cana, Roaming Alternativen, günstige eSIM
 order_summary:

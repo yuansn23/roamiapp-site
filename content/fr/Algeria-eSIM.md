@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Algérie | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:13:49+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Algérie | 5G rapide & sans choc de roaming | Roami
-  description: Vous visitez bientôt l'Algérie ? Restez connecté sans effort avec une
-    carte SIM numérique Roami. Profitez d'un accès Internet local 5G rapide et de
-    données de voyage illimitées sans subir de choc de roaming inattendu.
+  title: "eSIM Algérie | 5G fiable dans tout le pays"
+  description: "Explorez l'Algérie avec l'eSIM Roami. 5G fiable dans tout le pays. Activation instantanée par QR. Données illimitées à partir de 1,99 $."
   keywords: eSIM Algérie, internet mobile Algérie, voyage Algérie, couverture réseau
     Algérie, opérateurs Algérie
 order_summary:

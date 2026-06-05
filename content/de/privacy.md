@@ -1,8 +1,8 @@
 ---
-title: "Roami Datenschutzerklärung | Wie wir Ihre Reisedaten schützen"
-description: "Lesen Sie die Datenschutzerklärung, um zu verstehen, wie Roami Ihre Daten erhebt, verwendet und schützt."
+title: "Datenschutzrichtlinie | Wie wir Ihre Daten schützen"
+description: "Wie Roami mit Ihren persönlichen Daten umgeht. DSGVO-konform, kein Datenverkauf, transparente Praktiken für globale Reisende."
 last_updated: "Mai 2026"
-date: '2026-05-15T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 type: "page"
 layout: "privacy"  
 ---

@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Philippines | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:13:34+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Philippines | 5G pleine vitesse | 20% DE RÉDUCTION | Roami
-  description: Explorez les Philippines en toute simplicité. Obtenez la 5G pleine
-    vitesse de Roami sur le meilleur opérateur local avec des données 24/7. Profitez
-    de l'absence de SIM physique et de l'itinérance multi-pays, adapté aux visites
-    familiales.
+  title: "eSIM Philippines | -20 %, 5G fiable"
+  description: "Explorez les Philippines avec l'eSIM Roami. 5G fiable à Manille, Cebu et sur les grandes îles. Activation instantanée par QR. Données illimitées."
   keywords: Philippines, voyage, eSIM, couverture réseau, données mobiles, internet,
     tourisme, îles, Manille
 order_summary:

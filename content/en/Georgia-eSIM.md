@@ -1,6 +1,6 @@
 ---
 title: Georgia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Georgia Travel eSIM | Zero Contracts | Seamless 5G | Roami
-  description: Explore Georgia with ease. Get Roami's Fast 5G on Top Local Carrier
-    with Transparent Data. Perfect for Digital Nomads, offering No Physical SIM and
-    Multi-Country Roaming.
+  title: "Georgia eSIM | Fast 5G Nationwide"
+  description: "Explore Georgia with Roami eSIM. Fast 5G nationwide. Instant activation. Unlimited data. No roaming charges."
   keywords: Georgia eSIM, prepaid data Georgia, travel eSIM Georgia, Magti, Silknet,
     affordable eSIM
   low_price: 1.99

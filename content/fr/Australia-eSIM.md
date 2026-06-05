@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Australie | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:15:25+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Australie | 5G haut débit Optus | Roami
-  description: Vous partez en Australie ? Un eSIM de voyage Roami vous donne un accès
-    Internet mobile illimité sur le réseau 5G fiable Optus. Découvrez une connectivité
-    numérique nationale sans signer de contrat.
+  title: "eSIM Australie | -20 %, données 5G illimitées"
+  description: "Voyagez en Australie avec l'eSIM Roami. 5G rapide sur les meilleurs réseaux locaux à travers le pays. Activation instantanée, données illimitées. Aucun contrat."
   keywords: eSIM Australie, forfait data Australie, voyage Australie, internet mobile
     Australie, couverture réseau Australie
 order_summary:

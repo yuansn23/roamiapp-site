@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Dominique | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:13:41+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Dominique | Meilleur réseau local & données illimitées | Roami
-  description: Besoin d'Internet à la Dominique ? Restez connecté via la 5G native
-    du meilleur opérateur local avec des données transparentes. Avec une couverture
-    nationale et l'absence de frais d'itinérance, c'est parfait pour les visites familiales.
+  title: "eSIM Dominique | 5G rapide sur toute l'île"
+  description: "Visitez la Dominique avec l'eSIM Roami. 5G rapide sur toute l'île. Activation instantanée. Forfaits données illimitées. Aucun contrat."
   keywords: eSIM Dominique, voyage Dominique, couverture réseau Dominique, opérateurs
     mobiles Dominique, tourisme Dominique
 order_summary:

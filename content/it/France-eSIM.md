@@ -1,6 +1,6 @@
 ---
 title: eSIM Francia Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:01+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Miglior eSIM Francia | Dati 5G illimitati per viaggi
-  description: In viaggio in Francia? Resta connesso con 5G veloce Bouygues e dati
-    ad alta velocità. Perfetto per nomadi digitali – connessione automatica e copertura
-    seamless.
+  title: "eSIM Francia | Risparmia il 20%, Dati 5G Veloce"
+  description: "Visita la Francia con Roami eSIM. Velocità 5G elevate, attivazione immediata prima dell'atterraggio. Dati illimitati disponibili. Nessuna tariffa di roaming."
   keywords: eSIM Francia, internet mobile Francia, viaggio Francia, copertura rete
     Francia, roaming Francia
 order_summary:

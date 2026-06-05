@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM République tchèque | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:14+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM République tchèque | Données illimitées & vraie 5G | Roami
-  description: Vous bientôt en République tchèque ? Obtenez la vraie 5G de Roami sur
-    le meilleur opérateur local avec des données équitables. Parfait pour les visites
-    familiales, offrant zéro contrat et une couverture nationale.
+  title: "eSIM République tchèque | -20 %, pas d'itinérance"
+  description: "Visitez la Tchéquie avec l'eSIM Roami. 5G rapide à Prague et dans tout le pays. Activation instantanée par QR. Données illimitées. Pas d'itinérance UE."
   keywords: eSIM République tchèque, forfait mobile République tchèque, internet voyage
     République tchèque, data illimitée République tchèque, carte eSIM Prague
 order_summary:

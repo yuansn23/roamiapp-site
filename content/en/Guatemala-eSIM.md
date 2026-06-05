@@ -1,6 +1,6 @@
 ---
 title: Guatemala eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Guatemala eSIM |Reliable 5G for Business Trips | Roami
-  description: Explore Guatemala with ease. Experience High-Speed Data and seamless
-    Fast 5G from Top Local Carrier. With Best Local Network and Auto-Connect, it's
-    perfect for Visiting Family.
+  title: "Guatemala eSIM | Reliable 5G Nationwide"
+  description: "Explore Guatemala with Roami eSIM. Reliable 5G nationwide. Instant QR activation. Unlimited data from $1.99."
   keywords: Guatemala eSIM, eSIM Guatemala, travel internet Guatemala, Tigo eSIM,
     Claro eSIM
   low_price: 1.99

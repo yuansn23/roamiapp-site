@@ -1,9 +1,7 @@
 ---
-title: Prepaid UK eSIM mit unbegrenztem Datenvolumen (o2, EE & Vodafone)
-description: Erhalten Sie schnelle 5G-Konnektivität in England, Schottland & Wales.
-  Prepaid UK eSIM mit unbegrenztem Datenvolumen auf EE & Vodafone. Sofortige Lieferung
-  per E-Mail. Keine Verträge, jederzeit kündbar.
-date: '2026-05-21'
+title: "Großbritannien eSIM-Leitfaden | EE, Vodafone, O2 oder Three?"
+description: "Roami vergleich alle vier britischen Netze für Reise-eSIM. 5G-Geschwindigkeiten und Abdeckung in ganz Großbritannien. Wählen Sie den richtigen Anbieter."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Großbritannien, Prepaid Daten, 5G Netz, EE, Vodafone, O2, Three, Roami
   eSIM, Reise eSIM UK
 site_name: Roami

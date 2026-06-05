@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Mali | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:07+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Mali | Données illimitées 5G | 20% DE RÉDUCTION | Roami
-  description: Besoin d'Internet au Mali ? Restez connecté via la 5G rapide du meilleur
-    opérateur local avec des données sans engagement. Parfait pour les visites familiales,
-    offrant une configuration QR instantanée et une commutation auto réseau.
+  title: "eSIM Mali | 5G fiable, aucun contrat requis"
+  description: "Explorez le Mali avec l'eSIM Roami. 5G fiable dans tout le pays. Activation instantanée par QR. Forfaits données illimitées. Aucun contrat."
   keywords: eSIM Mali, internet mobile Mali, couverture réseau Mali, voyage Mali,
     tourisme Mali
 order_summary:

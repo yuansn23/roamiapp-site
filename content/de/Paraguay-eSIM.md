@@ -1,6 +1,6 @@
 ---
 title: Paraguay eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:55+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Top Paraguay eSIM | Schnelles 5G Reiseinternet | Roami
-  description: Bald in Paraguay? Stellen Sie mit einer Roami-Reise-eSIM eine stabile
-    digitale Verbindung sicher. Greifen Sie auf immer-verfügbare 5G-Mobildaten über
-    zuverlässige lokale Betreiber zu, unterstützt durch 24/7 Support für Touristen.
+  title: "Paraguay eSIM | Schnelles 5G landesweit"
+  description: "Entdecken Sie Paraguay mit Roami eSIM. Schnelles 5G landesweit. Sofortige Aktivierung. Unbegrenzte Daten ab 1,99 $."
   keywords: Paraguay eSIM, mobiles Internet Paraguay, Reise eSIM Paraguay, Daten eSIM
     Paraguay, Paraguay Tourismus, Asunción eSIM, Ciudad del Este eSIM, Encarnación
     eSIM

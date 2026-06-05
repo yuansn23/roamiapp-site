@@ -1,6 +1,6 @@
 ---
 title: Bosnia And Herzegovina eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Bosnia And Herzegovina eSIM Plan | Top Local Carrier Reliable 5G | Roami
-  description: Traveling to Bosnia And Herzegovina? Enjoy Top Local Carrier Always-On
-    5G and No Contract Data with Roami. With Nationwide Coverage and Unlimited Data,
-    it's perfect for Family Vacations.
+  title: "Bosnia eSIM | Reliable 5G Nationwide"
+  description: "Discover Bosnia with Roami eSIM. Reliable 5G in Sarajevo, Mostar & nationwide. Instant QR activation. Unlimited data from $1.99."
   keywords: Bosnia eSIM, Bosnia eSIM data plan, cheap eSIM Bosnia, travel eSIM Bosnia,
     instant eSIM Bosnia, prepaid eSIM Bosnia
   low_price: 1.99

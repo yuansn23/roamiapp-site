@@ -1,6 +1,6 @@
 ---
 title: eSIM Canada Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:04:16+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Miglior eSIM Canada | Dati 5G illimitati per viaggi
-  description: In viaggio in Canada? Goditi 5G sempre disponibile Telus e nessun contratto
-    con Roami. Copertura nazionale e connessione automatica – ideale per viaggi d'affari.
+  title: "eSIM Canada | Risparmia il 20%, Dati 5G Illimitati"
+  description: "Rimani connesso in tutto il Canada con Roami eSIM. 5G illimitato sulle migliori reti. Attivazione immediata. Nessuna tassa nascosta, nessun contratto."
   keywords: eSIM Canada, viaggio Canada, copertura rete Canada, internet mobile Canada,
     roaming Canada
 order_summary:

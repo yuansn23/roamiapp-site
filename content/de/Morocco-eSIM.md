@@ -1,6 +1,6 @@
 ---
 title: Marokko eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:52:28+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Marokko eSIM | Stabiles 5G Reisedaten | 20% RABATT | Roami
-  description: Entdecken Sie Marokko mit transparenten Prepaid-Reisedaten von Roami.
-    Unsere digitale SIM gewährleistet nahtloses 5G-Internet auf lokalen Top-Betreibern
-    mit länderübergreifendem Roaming für einen perfekten Urlaub.
+  title: "Marokko eSIM | 20% sparen, schnelle 5G-Daten"
+  description: "Reisen Sie durch Marokko mit Roami eSIM. Schnelles 5G landesweit. Sofortige Aktivierung. Unbegrenzte Daten ab 1,99 $. Kein Vertrag."
   keywords: eSIM Marokko, Marokko Reise, Marokko Urlaub, mobiles Internet Marokko,
     günstige eSIM Marokko
 order_summary:

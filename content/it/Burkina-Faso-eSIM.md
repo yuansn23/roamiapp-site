@@ -1,6 +1,6 @@
 ---
 title: eSIM Burkina Faso Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:08+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Pacchetto eSIM Burkina Faso | Dati illimitati per viaggi
-  description: In viaggio in Burkina Faso? Roami offre dati ad alta velocità su rete
-    5G da operatori locali affidabili. Ideale per vacanze in famiglia, supporto 24/7
-    e roaming cross-regionale.
+  title: "eSIM Burkina Faso | 5G Affidabile in Tutta la Nazione"
+  description: "Esplora il Burkina Faso con Roami eSIM. 5G affidabile in tutta la nazione. Attivazione QR immediata. Dati illimitati da 1,99 $."
   keywords: eSIM Burkina Faso, viaggio Burkina Faso, internet Burkina Faso, copertura
     mobile Burkina Faso, roaming Burkina Faso
 order_summary:

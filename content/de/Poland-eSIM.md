@@ -1,6 +1,6 @@
 ---
 title: Polen eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:26+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Kaufen Sie Polen eSIM | Transparente 5G-Daten | 20% RABATT | Roami
-  description: Planen Sie eine Reise nach Polen? Erleben Sie sorgenfreie Daten und
-    nahtloses volles 5G vom lokalen Top-Betreiber. Perfekt für leichte Reisen – null
-    Verträge und landesweite Abdeckung.
+  title: "Polen eSIM | 20% RABATT, Tarife ab 1,99 $"
+  description: "Besuchen Sie Polen mit Roami eSIM. Schnelles 5G in Warschau, Krakau und landesweit. Sofortige QR-Einrichtung. Unbegrenzte Daten ab 1,99 $."
   keywords: Polen eSIM, mobiles Internet Polen, Reise eSIM Polen, günstige eSIM Polen,
     Datenpaket Polen
 order_summary:

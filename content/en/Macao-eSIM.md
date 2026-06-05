@@ -1,6 +1,6 @@
 ---
 title: Macao eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:53:52+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Macao eSIM - Reliable Coverage on CTM & 3 Macau - Roami
-  description: Stay connected in Macao with Roami eSIM. Enjoy instant delivery, no
-    roaming charges, and fast 5G/4G on local networks. Perfect for travel internet
-    – activate via QR code now!
+  title: "Macau eSIM | Fast 5G Across the City"
+  description: "Stay connected in Macau with Roami eSIM. Fast 5G across the peninsula & Cotai. Instant activation. Unlimited data plans."
   keywords: Macao eSIM, travel internet Macao, eSIM for Macao, Macao data plan, Roami
     eSIM
   low_price: 1.99

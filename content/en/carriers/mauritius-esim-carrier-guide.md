@@ -1,8 +1,7 @@
 ---
-title: Prepaid Mauritius eSIM with Unlimited Data (My.t & Emtel)
-description: Paradise connected. Prepaid Mauritius eSIM with unlimited data. Instant
-  setup, perfect for honeymooners.
-date: '2026-05-21'
+title: "Mauritius eSIM Guide | Orange, Emtel or Chili?"
+description: "Roami compares Mauritius carriers for travel eSIM. 5G island-wide. Find the most reliable network."
+date: '2026-06-04T00:00:00+00:00'
 keywords: Mauritius eSIM, flexible data plans, multi-day eSIM, my.t, Emtel, Flic en
   Flac, no roaming fees, travel eSIM
 site_name: Roami

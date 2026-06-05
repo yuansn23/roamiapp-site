@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Madagascar | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:27+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Madagascar | 5G toujours activée & sans frais cachés | Roami
-  description: Explorez Madagascar en toute simplicité. Roami offre l'absence de frais
-    cachés sur la 5G toujours activée fiable du meilleur opérateur local. Bénéficiez
-    du meilleur réseau local et de l'auto-connexion, parfait pour les voyages légers.
+  title: "eSIM Madagascar | 5G fiable, aucun contrat"
+  description: "Explorez Madagascar avec l'eSIM Roami. 5G fiable dans tout le pays. Activation instantanée par QR. Données illimitées. Aucun contrat."
   keywords: eSIM Madagascar, voyage Madagascar, internet mobile Madagascar, réseau
     Madagascar, couverture 4G 5G
 order_summary:

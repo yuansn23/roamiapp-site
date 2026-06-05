@@ -1,9 +1,7 @@
 ---
-title: eSIM prépayée Suisse avec données illimitées (Swisscom & Sunrise)
-description: Connectivité alpine infaillible. eSIM prépayée Suisse avec données illimitées
-  sur Swisscom. Fonctionne parfaitement dans les trains de montagne et les stations
-  de ski.
-date: '2026-05-21'
+title: "Guide eSIM Suisse | Swisscom, Sunrise ou Salt ?"
+description: "Roami compare les opérateurs suisses pour l'eSIM de voyage. 5G des villes aux sommets alpins. Quel réseau est le plus fiable ?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Suisse, données prépayées, réseau 5G, Swisscom, Salt, voyage, itinérance,
   couverture mobile
 site_name: Roami

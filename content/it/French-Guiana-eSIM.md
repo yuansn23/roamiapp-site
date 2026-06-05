@@ -1,6 +1,6 @@
 ---
 title: eSIM Guyana francese Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:07+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Miglior eSIM Guyana Francese | Rete 5G prepagata per viaggi
-  description: Hai bisogno di connessione in Guyana Francese? Sii subito online con
-    eSIM prepagata Roami. Dati 5G illimitati da reti locali affidabili, roaming cross-regionale
-    incluso, nessun costo nascosto.
+  title: "eSIM Guyana Francese | 5G Veloce, Configurazione Istantanea"
+  description: "Rimani connesso nella Guyana Francese con Roami eSIM. 5G veloce a Cayenna, Kourou e in tutta la nazione. Attivazione immediata. Dati illimitati."
   keywords: eSIM Guyana francese, internet viaggio Guyana, roaming dati Guyana, copertura
     mobile Guyana, guida turistica Guyana francese
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: eSIM Sudafrica Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:09+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,10 +23,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Miglior eSIM Sudafrica | Dati 5G illimitati per viaggi
-  description: Prossimo viaggio in Sudafrica? Sperimenta dati 24/7 e 5G ad alta velocità
-    seamless con operatori top locali. Perfetto per vacanze in famiglia – nessun roaming
-    e migliore rete locale.
+  title: "eSIM Sudafrica | 20% DI SCONTO, 5G Veloce"
+  description: "Scopri il Sudafrica con Roami eSIM. 5G veloce da Città del Capo a Johannesburg. Attivazione immediata. Dati illimitati da 1,99 $."
   keywords:
   - eSIM Sudafrica
   - viaggio Sudafrica

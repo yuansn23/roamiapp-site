@@ -1,6 +1,6 @@
 ---
 title: Jamaika eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:54:07+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Beste Jamaika eSIM | Hochgeschwindigkeits-5G Reiseinternet | Roami
-  description: Entspannen Sie in Jamaika und bleiben Sie perfekt verbunden. Eine virtuelle
-    SIM von Roami bietet immer-verfügbaren 5G-Zugang über zuverlässige lokale Netze.
-    Genießen Sie schnelle, Prepaid-Reisedaten ohne versteckte Roaminggebühren.
+  title: "Jamaika eSIM | Schnelles 5G auf der ganzen Insel"
+  description: "Besuchen Sie Jamaika mit Roami eSIM. Schnelles 5G auf der ganzen Insel. Sofortige QR-Aktivierung. Unbegrenzte Daten für Ihren Aufenthalt."
   keywords: Jamaika eSIM, mobiles Internet Jamaika, Reise eSIM Jamaika, günstige eSIM
     Jamaika, LTE Jamaika, 5G Jamaika, Online eSIM Jamaika
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: Netherlands eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Netherlands eSIM |20% OFF | Unlimited 5G Data Plans | Roami
-  description: Need internet in Netherlands? Get Roami's Stable 5G on KPN with 24/7
-    Data. Enjoy 24/7 Support and Best Local Network, tailored for Digital Nomads.
+  title: "Netherlands eSIM | 20% OFF, Fast 5G"
+  description: "Explore the Netherlands with Roami eSIM. Fast 5G across the entire country. Instant QR activation. Unlimited data plans."
   keywords: Netherlands eSIM, prepaid eSIM, cheap eSIM, unlimited data, travel internet
   low_price: 1.99
   high_price: 39.9

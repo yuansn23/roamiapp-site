@@ -1,6 +1,6 @@
 ---
 title: Georgien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:54:01+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Georgien Reise-eSIM | Null Verträge | Nahtloses 5G | Roami
-  description: Entdecken Sie Georgien mit Leichtigkeit. Holen Sie sich Roamis schnelles
-    5G auf dem lokalen Top-Betreiber mit transparenten Daten. Perfekt für digitale
-    Nomaden – keine physische SIM und länderübergreifendes Roaming.
+  title: "Georgien eSIM | Schnelles 5G landesweit"
+  description: "Entdecken Sie Georgien mit Roami eSIM. Schnelles 5G landesweit. Sofortige Aktivierung. Unbegrenzte Daten. Keine Roaming-Gebühren."
   keywords: eSIM Georgien, Reise eSIM Georgien, mobiles Internet Georgien, günstige
     eSIM Georgien, Datenplan Georgien
 order_summary:

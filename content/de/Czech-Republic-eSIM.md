@@ -1,6 +1,6 @@
 ---
 title: Tschechien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:51:22+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Tschechien Reise-eSIM | Unbegrenzte Daten | Natives 5G | Roami
-  description: Bald in Tschechien? Holen Sie sich Roamis echtes 5G auf dem lokalen
-    Top-Betreiber mit Fair-Use-Daten. Perfekt für Familienbesuche – null Verträge
-    und landesweite Abdeckung.
+  title: "Tschechien eSIM | 20% RABATT, kein Roaming"
+  description: "Besuchen Sie Tschechien mit Roami eSIM. Schnelles 5G in Prag und landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten. Kein EU-Roaming."
   keywords: Tschechien eSIM, mobile Daten in Tschechien, Reisepaket, günstiges Internet,
     LTE, 5G, Roaming, Prag, Brünn, Ostrava, Vodafone, T-Mobile, O2
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: Faroe Islands eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Faroe Islands eSIM | Zero-Lag 5G Travel Data | Roami
-  description: Planning a trip to the Faroe Islands? Stay connected with Roami's prepaid
-    travel eSIM. Enjoy stable 5G mobile data on top local carriers with instant QR
-    setup and zero roaming fees.
+  title: "Faroe Islands eSIM | Reliable 5G on 18 Isles"
+  description: "Explore the Faroes with Roami eSIM. Reliable 5G on all 18 islands. Instant QR activation. Unlimited data."
   keywords: Faroe Islands eSIM, prepaid eSIM Faroe Islands, cheap eSIM Faroe Islands,
     unlimited data Faroe Islands, travel eSIM Faroe Islands, instant eSIM, no roaming
     charges

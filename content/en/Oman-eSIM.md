@@ -1,6 +1,6 @@
 ---
 title: Oman eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:54:16+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Oman eSIM |5G High-Speed Network |20% Off Code |Roami
-  description: Roami prepaid eSIM for Oman works on Omantel & Ooredoo. Instant activation
-    upon arrival, no roaming charges. Save 20% with code ROAMI20.
+  title: "Oman eSIM | Reliable 5G, Unlimited Data"
+  description: "Explore Oman with Roami eSIM. Reliable 5G in Muscat, Salalah & nationwide. Instant QR activation. Unlimited data from $1.99."
   keywords: Oman eSIM, travel internet Oman, instant eSIM, no roaming charges, QR
     code activation
   low_price: 1.99

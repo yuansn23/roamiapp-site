@@ -1,6 +1,6 @@
 ---
 title: eSIM Indonesia Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:43+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Pacchetto eSIM Indonesia | Dati 5G ad alta velocità
-  description: In viaggio in Indonesia? Resta connesso con Indosat, 5G sempre disponibile
-    e dati ad alta velocità. Perfetto per famiglie – supporto 24/7 e migliore rete
-    locale.
+  title: "eSIM Indonesia | 20% DI SCONTO, Dati 5G Illimitati"
+  description: "Rimani connesso in tutta l'Indonesia con Roami eSIM. 5G veloce a Bali, Jakarta e nelle isole principali. Attivazione immediata. Dati illimitati."
   keywords: eSIM Indonesia, viaggio Indonesia, copertura rete Indonesia, internet
     Indonesia, operatore locale Indonesia
 order_summary:

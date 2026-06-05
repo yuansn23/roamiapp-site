@@ -1,6 +1,6 @@
 ---
 title: eSIM Cambogia Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:32+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM da viaggio Cambogia | Dati mobili 5G nativi
-  description: Visiti i templi della Cambogia? Resta connesso con eSIM prepagata Roami
-    e vero 5G. Rete trasparente per viaggi e copertura nazionale da operatori top
-    locali, zero contratti.
+  title: "eSIM Cambogia | 5G Veloce, Dati Illimitati"
+  description: "Esplora la Cambogia con Roami eSIM. 5G veloce a Siem Reap, Phnom Penh e in tutta la nazione. Attivazione QR immediata. Dati illimitati."
   keywords:
   - eSIM Cambogia
   - Internet mobile Cambogia

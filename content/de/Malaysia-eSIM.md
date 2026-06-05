@@ -1,6 +1,6 @@
 ---
 title: Malaysia eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:11+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Malaysia eSIM Plan | Lokaler Top-Betreiber Volles 5G | 20% RABATT | Roami
-  description: Entdecken Sie Malaysia mit Leichtigkeit. Holen Sie sich Roamis nahtloses
-    5G auf dem lokalen Top-Betreiber mit Fair-Use-Daten. Mit bestem lokalen Netzwerk
-    und Auto-Connect – perfekt für Geschäftsreisen.
+  title: "Malaysia eSIM | 20% sparen, unbegrenzte 5G-Daten"
+  description: "Entdecken Sie Malaysia mit Roami eSIM. Schnelles 5G in KL, Penang und landesweit. Sofortige Aktivierung. Unbegrenzte Daten ab 1,99 $."
   keywords: eSIM Malaysia, Reise eSIM Malaysia, mobiles Internet Malaysia, Netzabdeckung
     Malaysia, günstige eSIM Malaysia
 order_summary:

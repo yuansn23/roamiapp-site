@@ -1,9 +1,7 @@
 ---
-title: eSIM prépayée France avec données illimitées (Orange & SFR)
-description: Connectez-vous à travers Paris et la Côte d'Azur. eSIM prépayée France
-  avec données 5G illimitées. Pas de frais d'itinérance dans l'UE. Configuration instantanée
-  pour votre aventure française.
-date: '2026-05-21'
+title: "Guide eSIM France | Orange, SFR ou Bouygues ?"
+description: "Roami compare les opérateurs français pour l'eSIM de voyage. 5G à Paris, sur la Côte d'Azur et en zones rurales. Lequel vous offre les vitesses les plus rapides ?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM France, données prépayées, réseau 5G, Orange, Bouygues, SFR, Free,
   voyage France, itinérance
 site_name: Roami

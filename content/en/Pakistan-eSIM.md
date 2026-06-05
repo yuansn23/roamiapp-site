@@ -1,6 +1,6 @@
 ---
 title: Pakistan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Top Pakistan eSIM | Unlimited Data | Top Local Carrier Fast 5G | Roami
-  description: Explore Pakistan with ease. Experience Transparent Data and seamless
-    Native 5G from Top Local Carrier. Ideal for Visiting Family. Enjoy Auto-Connect
-    with Stable Connection.
+  title: "Pakistan eSIM | Fast 5G, No Roaming Fees"
+  description: "Travel Pakistan with Roami eSIM. Fast 5G nationwide. Instant QR activation. Unlimited data plans. No roaming charges."
   keywords: Pakistan eSIM, prepaid eSIM, travel internet, instant delivery, no roaming
     charges
   low_price: 1.99

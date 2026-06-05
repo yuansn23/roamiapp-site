@@ -1,9 +1,7 @@
 ---
-title: eSIM prépayée Italie avec données illimitées (TIM & Vodafone)
-description: Partagez votre expérience de la côte amalfitaine en direct. eSIM prépayée
-  Italie avec données illimitées sur TIM et Vodafone. 5G rapide, sans contrat. Fonctionne
-  instantanément à l'arrivée.
-date: '2026-05-21'
+title: "Guide eSIM Italie | TIM, Vodafone ou Wind Tre ?"
+description: "Roami compare les opérateurs italiens pour l'eSIM de voyage. 5G à Rome, Milan et dans tout le pays. Lequel vous maintient le mieux connecté ?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Italie, données prépayées, réseau 5G, Vodafone, Iliad, WINDTRE, voyage
   Italie, guide eSIM
 site_name: Roami

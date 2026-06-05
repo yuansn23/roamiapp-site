@@ -1,6 +1,6 @@
 ---
 title: Italien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:21+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Kaufen Sie Italien eSIM | Schnelle 5G Touristen-Daten | 20% RABATT | Roami
-  description: Entdecken Sie Italien mühelos mit einer Prepaid-eSIM von Roami. Erleben
-    Sie unbegrenzte Mobildaten und nahtloses 5G-Internet von WindTre mit länderübergreifendem
-    Roaming und sofortigem Auto-Connect für Reisende.
+  title: "Italien eSIM | 20% RABATT, unbegrenzte 5G-Daten"
+  description: "Entdecken Sie Italien mit Roami eSIM. Schnelles 5G landesweit, keine Roaming-Gebühren. Sofortige Aktivierung. Unbegrenzte Daten ab 1,99 $."
   keywords: Italien eSIM, mobiles Internet Italien, Reise eSIM, Datenflat Italien,
     Italien Urlaub, günstige eSIM Italien, Netzabdeckung Italien
 order_summary:

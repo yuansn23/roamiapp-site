@@ -2,13 +2,13 @@
 title: "Über Roami | Der eSIM-Experte für globale Reisende"
 description: "Erfahren Sie mehr über Roami, Ihre Komplettlösung für globale Konnektivität. Hauptsitz in den USA mit Niederlassungen weltweit, bereitstellung kostengünstiger eSIM-Tarife."
 layout: "about"
-date: '2026-05-15T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 type: "page"
 
 # SEO
 seo:
-  title: "Über Roami – Globaler eSIM-Anbieter | 1M+ Reisende vertrauen uns"
-  description: "Erfahren Sie mehr über Roami, den führenden eSIM-Dienst für internationale Reisende. 200+ Länder, 50+ Partnernetzbetreiber, 24/7 Support."
+  title: "Über Roami | eSIM für globale Reisende"
+  description: "Roami bietet erschwingliche 5G-eSIM für über 1 Million Reisende in 200+ Ländern. Lernen Sie das Team hinter Ihrer Konnektivität kennen."
   image: "/img/og-about.jpg"
 
 # JSON-LD Schema

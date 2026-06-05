@@ -1,9 +1,7 @@
 ---
-title: Prepaid Thailand eSIM with Unlimited Data (AIS & True)
-description: Stay connected in Bangkok & Phuket. Prepaid eSIM with unlimited data
-  on AIS & TrueMove. No throttling, instant activation. The easiest way to get online
-  in Thailand.
-date: '2026-05-21'
+title: "Thailand eSIM Guide | AIS, TrueMove or dtac?"
+description: "Roami compares Thai carriers for travel eSIM. 5G in Bangkok, on islands & in the mountains. Find your best option."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Thailand, prepaid data, 5G network, AIS, TrueMove H, Thailand travel
   eSIM, best mobile network Thailand
 site_name: Roami

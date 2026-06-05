@@ -1,6 +1,6 @@
 ---
 title: Thailand eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:51:15+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Thailand eSIM Plan | AIS Verzögerungsfreies 5G | Unbegrenzte Daten | Roami
-  description: Bald in Thailand? Holen Sie sich Roamis volles 5G auf True mit sorgenfreien
-    Daten. Genießen Sie unbegrenzte Daten und nahtlose Abdeckung – maßgeschneidert
-    für Familienbesuche.
+  title: "Thailand eSIM | 20% RABATT, unbegrenzte 5G-Daten"
+  description: "Entdecken Sie Thailand mit Roami eSIM. Schnelles 5G in Bangkok, Phuket und landesweit. Sofortige QR-Lieferung. Unbegrenzte Datentarife für Reisende."
   keywords:
   - Thailand eSIM
   - Reise eSIM Thailand

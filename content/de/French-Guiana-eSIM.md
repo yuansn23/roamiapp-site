@@ -1,6 +1,6 @@
 ---
 title: Französisch-Guayana eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:52:24+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Beste Französisch-Guayana eSIM | Hochgeschwindigkeits-5G Lokaldaten | Roami
-  description: Internet in Französisch-Guayana nötig? Mit einer Prepaid-eSIM von Roami
-    sind Sie sofort online. Genießen Sie unbegrenzte 5G-Reisedaten auf zuverlässigen
-    lokalen Mobilfunknetzen, inklusive länderübergreifendem Roaming und ohne versteckte
-    Gebühren.
+  title: "Französisch-Guayana eSIM | Schnelles 5G, sofortige Einrichtung"
+  description: "Bleiben Sie in Französisch-Guayana mit Roami eSIM verbunden. Schnelles 5G in Cayenne, Kourou und landesweit. Sofortige Aktivierung. Unbegrenzte Daten."
   keywords: Französisch-Guayana eSIM, mobiles Internet, Reise eSIM, Frankreich Übersee,
     Cayenne eSIM
 order_summary:

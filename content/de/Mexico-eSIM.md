@@ -1,6 +1,6 @@
 ---
 title: Mexiko eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:40+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Top Mexiko eSIM | Vertragsfreie Daten | AT&T Zuverlässiges 5G | Roami
-  description: Entdecken Sie Mexiko mit Leichtigkeit. Genießen Sie Telcel volles 5G
-    und 24/7 Daten mit Roami. Bietet landesweite Abdeckung und unbegrenzte Daten –
-    ideal für leichte Reisen.
+  title: "Mexiko eSIM | 20% RABATT, unbegrenzte 5G-Daten"
+  description: "Bleiben Sie in Mexiko mit Roami eSIM verbunden. Unbegrenztes 5G landesweit, keine Roaming-Gebühren. Sofortige Aktivierung. Tarife ab 1,99 $."
   keywords: eSIM Mexiko, Mexiko Reise, mobiles Internet Mexiko, Touristen eSIM, günstige
     eSIM Mexiko
 order_summary:

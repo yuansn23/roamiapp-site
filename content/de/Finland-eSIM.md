@@ -1,6 +1,6 @@
 ---
 title: Finnland eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:09+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Beste Finnland eSIM | Prepaid 5G Reiseinternet | Roami
-  description: Erleben Sie nahtlose Konnektivität in Finnland mit einer digitalen
-    SIM-Karte von Roami. Greifen Sie über QR-Code sofort auf blitzschnelle 5G-Lokalnetze
-    zu und genießen Sie einen sorgenfreien Urlaub ohne teure Roaminggebühren.
+  title: "Finnland eSIM | 20% sparen, schnelle 5G-Daten"
+  description: "Bleiben Sie in ganz Finnland mit Roami eSIM verbunden. Schnelles 5G von Helsinki bis Lappland. Sofortige QR-Aktivierung. Unbegrenzte Daten verfügbar."
   keywords:
   - Finnland eSIM
   - Reise eSIM Finnland

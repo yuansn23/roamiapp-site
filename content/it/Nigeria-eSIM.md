@@ -1,6 +1,6 @@
 ---
 title: eSIM Nigeria Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:31+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Acquista eSIM Nigeria | 20% di sconto | Dati 5G per viaggi
-  description: In viaggio in Nigeria? Resta connesso con operatori top locali, 5G
-    sempre disponibile e dati ad alta velocità. Perfetto per viaggi leggeri – nessuna
-    SIM fisica e migliore rete locale.
+  title: "eSIM Nigeria | 5G Veloce, Nessun Contratto Necessario"
+  description: "Viaggia in Nigeria con Roami eSIM. 5G veloce a Lagos, Abuja e in tutta la nazione. Attivazione immediata. Dati illimitati. Nessun contratto."
   keywords:
   - eSIM Nigeria
   - viaggio Nigeria

@@ -1,6 +1,6 @@
 ---
 title: eSIM Iraq Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:20+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Pacchetto eSIM Iraq | Rete 5G per viaggi
-  description: Assicura connessione mobile in Iraq con Roami. La nostra SIM digitale
-    offre velocità 5G nativa da operatori top locali. Dati seamless senza contratto
-    e supporto clienti 24/7.
+  title: "eSIM Iraq | 5G Affidabile nelle Grandi Città"
+  description: "Rimani connesso in Iraq con Roami eSIM. 5G affidabile a Baghdad, Erbil e nelle grandi città. Attivazione immediata. Dati illimitati."
   keywords: eSIM Iraq, viaggio Iraq, copertura mobile Iraq, internet Iraq, turismo
     Iraq
 order_summary:

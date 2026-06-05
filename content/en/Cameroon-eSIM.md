@@ -1,6 +1,6 @@
 ---
 title: Cameroon eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Buy Cameroon eSIM | High-Speed 5G Data | Unlimited Data | Roami
-  description: Explore Cameroon with ease. Experience High-Speed Data and seamless
-    Native 5G from Top Local Carrier. Ideal for Visiting Family. Enjoy Instant QR
-    Setup with Multi-Country Roaming.
+  title: "Cameroon eSIM | Fast 5G, Instant Setup"
+  description: "Explore Cameroon with Roami eSIM. Fast 5G nationwide. Instant activation. Unlimited data plans. No contract."
   keywords: Cameroon eSIM, MTN Cameroon, Orange Cameroon, travel internet Cameroon,
     prepaid eSIM Cameroon
   low_price: 1.99

@@ -1,9 +1,9 @@
 ---
 title: "eSIM-kompatible Geräteliste | 300+ Telefone (2026)"
-description: "Hunderte von Geräten sind bereits enthalten. Ist Ihr Telefon und Tablet eSIM-kompatibel? Sehen Sie sich unsere Liste der Geräte an, die 2026 eSIM unterstützen werden, darunter iPhones, Samsung Galaxy-Telefone, Google Pixels und mehr."
+description: "Prüfen Sie, ob Ihr Telefon mit Roami eSIM funktioniert. Vollständige Liste der iPhones, Samsung Galaxy, Google Pixel und 300+ Geräte. Aktualisiert für 2026."
 keywords: "eSIM kompatible Telefone, Telefone die eSIM unterstützen, ist mein Telefon eSIM kompatibel, iPhone eSIM Kompatibilität, Samsung eSIM Telefone, eSIM kompatible Geräte 2026, eSIM Kompatibilität prüfen, iphone 17 esim, samsung s25 esim, wie viele esim, wie aktiviere ich esim auf iphone, welche esim, 17 pro max esim, esim samsung, galaxy esim, esim kompatible telefone, iphone 11 esim kompatibel, iphone xr esim kompatibel, iphone se esim kompatibel, s20 esim kompatibel, google pixel 6 esim kompatibel, moto g power esim kompatibel, samsung a13 esim kompatibel, iphone 8 esim kompatibel, iphone x esim kompatibel, airalo kompatible telefone, visible esim kompatible telefone, google fi esim kompatible telefone, verizon esim kompatibilität, us mobile esim kompatible geräte"
 layout: "compatibility"
-date: '2026-05-22T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 type: "page"
 
 # Strukturierte FAQ-Daten für SEO

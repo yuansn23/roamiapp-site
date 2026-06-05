@@ -1,6 +1,6 @@
 ---
 title: Moldova eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:54:10+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Moldova Prepaid eSIM |5G High-Speed Network |20% Off Code |Roami
-  description: Reliable connectivity with Roami eSIM for Moldova on Moldtelecom &
-    Orange. Instant setup via email, nationwide coverage. Save 20% with code ROAMI20.
+  title: "Moldova eSIM | Reliable 5G Nationwide"
+  description: "Discover Moldova with Roami eSIM. Reliable 5G nationwide. Instant activation. Unlimited data plans. No contract."
   keywords: Moldova eSIM, travel internet, instant delivery, no roaming charges, QR
     code activation, Orange Moldova, Moldcell
   low_price: 1.99

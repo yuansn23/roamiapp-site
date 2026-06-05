@@ -1,9 +1,7 @@
 ---
-title: Prepaid Canada eSIM with Unlimited Data (Rogers & Bell)
-description: Reliable prepaid eSIM for Canada. Unlimited data on Rogers, Bell & Telus
-  networks. Instant activation, works in Toronto, Vancouver & Montreal. No hidden
-  fees.
-date: '2026-05-21'
+title: "Canada eSIM Guide | Rogers, Bell or Telus?"
+description: "Roami rates Canada's Big Three for travel eSIM. 5G from Toronto to the Rockies. Find the best network for your trip."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Kanada, prepaid data, 5G network, Bell, Rogers, TELUS, travel eSIM
 site_name: Roami
 brand_name: Roami

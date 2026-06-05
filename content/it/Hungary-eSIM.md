@@ -1,6 +1,6 @@
 ---
 title: eSIM Ungheria Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:04:03+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Miglior eSIM Ungheria | Dati 5G illimitati per viaggi
-  description: Pianifichi un viaggio in Ungheria? Roami offre dati illimitati su rete
-    5G a bassa latenza da operatori locali affidabili. Perfetto per viaggi d'affari
-    – nessun costo nascosto e copertura seamless.
+  title: "eSIM Ungheria | 20% DI SCONTO, Dati 5G Illimitati"
+  description: "Rimani connesso in Ungheria con Roami eSIM. 5G veloce in tutta la nazione. Attivazione immediata. Dati illimitati da 1,99 $."
   keywords: eSIM Ungheria, Internet mobile Ungheria, viaggio Ungheria, connettività
     Ungheria, roaming Ungheria
 order_summary:

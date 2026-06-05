@@ -1,6 +1,6 @@
 ---
 title: Hungary eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Best Hungary eSIM | High-Speed Data & Full-Speed 5G | Roami
-  description: Planning a trip to Hungary? Roami offers Unlimited Data on the reliable
-    Top Local Carrier Zero-Lag 5G. Perfect for Business Trips, offering No Hidden
-    Charges and Seamless Coverage.
+  title: "Hungary eSIM | 20% OFF, Unlimited 5G Data"
+  description: "Stay connected in Hungary with Roami eSIM. Fast 5G nationwide. Instant activation. Unlimited data from $1.99."
   keywords: Hungary eSIM, cheap mobile data, travel internet, Vodafone, Telenor, instant
     delivery, no roaming charges
   low_price: 1.99

@@ -1,6 +1,6 @@
 ---
 title: Sweden eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Sweden eSIM |20% OFF| Unlimited 5G Data Plans|Roami
-  description: Traveling to Sweden? Get Roami's Stable 5G on Top Local Carrier with
-    No Roaming Shock. Perfect for Business Trips, offering No Hidden Charges and Stable
-    Connection.
+  title: "Sweden eSIM | Save 20%, Reliable 5G"
+  description: "Travel Sweden with Roami eSIM. Reliable 5G from Stockholm to the north. Instant activation. Unlimited data."
   keywords: Sweden eSIM, cheap eSIM Sweden, prepaid data Sweden, travel internet Sweden,
     no roaming charges
   low_price: 1.99

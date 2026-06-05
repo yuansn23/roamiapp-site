@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Islande | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:15:06+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Islande | 5G à latence zéro & support 24/7 | Roami
-  description: Vous parcourez la Route circulaire en Islande ? Une SIM virtuelle Roami
-    garantit un Internet de voyage 5G toujours activé dans tout le pays. Profitez
-    de données prépayées illimitées et d'un support 24/7 avec la meilleure couverture
-    réseau locale.
+  title: "eSIM Islande | Économisez 20 %, données 5G illimitées"
+  description: "Parcourez l'Islande avec l'eSIM Roami. 5G fiable le long de la Route circulaire. Activation instantanée. Forfaits données illimitées pour votre voyage."
   keywords: eSIM Islande, forfait mobile Islande, voyage Islande, connexion internet
     Islande, carte eSIM Islande
 order_summary:

@@ -1,9 +1,7 @@
 ---
-title: eSIM prépayée Thaïlande avec données illimitées (AIS & True)
-description: Restez connecté à Bangkok et Phuket. eSIM prépayée avec données illimitées
-  sur AIS et TrueMove. Pas de limitation, activation instantanée. Le moyen le plus
-  simple d'être en ligne en Thaïlande.
-date: '2026-05-21'
+title: "Guide eSIM Thaïlande | AIS, TrueMove ou dtac ?"
+description: "Roami compare les opérateurs thaïlandais pour l'eSIM de voyage. 5G à Bangkok, sur les îles et dans les montagnes. Trouvez votre meilleure option."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Thaïlande, données prépayées, réseau 5G, AIS, TrueMove H, voyage Thaïlande,
   nomade numérique
 site_name: Roami

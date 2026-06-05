@@ -1,6 +1,6 @@
 ---
 title: eSIM Bulgaria Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:04:11+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Miglior eSIM Bulgaria | Dati illimitati per viaggi
-  description: Pianifichi un viaggio in Bulgaria? Ottieni 5G a piena velocità da operatori
-    top locali con Roami, piani dati illimitati. Perfetto per viaggi leggeri – dati
-    illimitati e copertura seamless.
+  title: "eSIM Bulgaria | 5G Veloce in Tutta la Nazione"
+  description: "Scopri la Bulgaria con Roami eSIM. 5G veloce in tutta la nazione. Attivazione immediata. Dati illimitati da 1,99 $. Nessun roaming."
   keywords: eSIM Bulgaria, copertura rete Bulgaria, viaggiare in Bulgaria, internet
     mobile Bulgaria, roaming Bulgaria
 order_summary:

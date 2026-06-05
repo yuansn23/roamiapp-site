@@ -1,5 +1,5 @@
 ---
-title: "eSIM per uso globale: 5G ad alta velocità – Roami"
+title: "eSIM per uso globale: 5G ad alta velocità"
 date: '2026-06-01T00:00:00+00:00'
 description: "Roami offre eSIM prepagate 5G ad alta velocità in oltre 200 paesi e regioni – nessuna SIM fisica necessaria, piani a partire da soli 1,99 $. Con il codice promozionale web20 ottieni un ulteriore 20% di sconto."
 translationKey: "homepage"

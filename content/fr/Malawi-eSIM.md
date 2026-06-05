@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Malawi | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:13:47+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Malawi | Vraie 5G & données sans engagement |20% DE RÉDUCTION| Roami
-  description: Vous voyagez au Malawi ? Restez connecté via la vraie 5G du meilleur
-    opérateur local avec des données sans engagement. Idéal pour les visites familiales.
-    Profitez de données illimitées avec le meilleur réseau local.
+  title: "eSIM Malawi | 5G rapide dans tout le pays"
+  description: "Découvrez le Malawi avec l'eSIM Roami. 5G rapide dans tout le pays. Activation instantanée. Données illimitées à partir de 1,99 $."
   keywords: eSIM Malawi, forfait data Malawi, internet mobile Malawi, voyage Malawi,
     couverture réseau Malawi
 order_summary:

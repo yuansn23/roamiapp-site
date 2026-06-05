@@ -1,6 +1,6 @@
 ---
 title: eSIM Congo Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:04:26+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM Congo | 20% di sconto | Dati 5G illimitati per viaggi
-  description: Prossimo viaggio in Congo? Sperimenta dati 24/7 e 5G a bassa latenza
-    seamless con operatori top locali. Copertura nazionale e nessun costo di roaming
-    – perfetto per famiglie.
+  title: "eSIM Congo | 5G Affidabile in Tutta la Nazione"
+  description: "Visita il Congo con Roami eSIM. 5G affidabile a Brazzaville, Pointe-Noire e in tutta la nazione. Attivazione QR immediata. Dati illimitati."
   keywords: eSIM Congo, copertura internet Congo, viaggio Congo, roaming Congo, dati
     mobili Congo
 order_summary:

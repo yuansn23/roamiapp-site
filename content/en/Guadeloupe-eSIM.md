@@ -1,6 +1,6 @@
 ---
 title: Guadeloupe eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Guadeloupe eSIM |Seamless 5G for Visiting Family | Roami
-  description: Need internet in Guadeloupe? Enjoy Top Local Carrier True 5G and 24/7
-    Data with Roami. With Auto Network Switch and 24/7 Support, it's perfect for Family
-    Vacations.
+  title: "Guadeloupe eSIM | Fast 5G Across Islands"
+  description: "Explore Guadeloupe with Roami eSIM. Fast 5G on all islands. Instant activation. Unlimited data plans. No roaming."
   keywords: Guadeloupe eSIM, prepaid eSIM Guadeloupe, cheap eSIM Guadeloupe, unlimited
     data Guadeloupe, travel internet Guadeloupe
   low_price: 1.99

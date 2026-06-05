@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Allemagne | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:15+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Allemagne | 5G à latence zéro Telekom | 20% DE RÉDUCTION | Roami
-  description: Vous bientôt en Allemagne ? Restez connecté via la 5G à latence zéro
-    de Telekom sans frais cachés. Profitez d'un support 24/7 et d'une couverture transparente,
-    adapté aux vacances en famille.
+  title: "eSIM Allemagne | -20 %, 5G rapide dans tout le pays"
+  description: "Voyagez en Allemagne avec l'eSIM Roami. 5G rapide dans tout le pays. Configuration instantanée par QR. Forfaits données illimitées. Aucun contrat nécessaire."
   keywords: eSIM Allemagne, forfait data Allemagne, internet mobile Allemagne, voyage
     Allemagne, connexion 4G/5G Allemagne
 order_summary:

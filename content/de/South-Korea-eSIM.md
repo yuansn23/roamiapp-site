@@ -1,6 +1,6 @@
 ---
 title: Südkorea eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:52:41+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Südkorea Reise-eSIM | 20% RABATT | Immer-verfügbares 5G | Roami
-  description: Planen Sie eine Reise nach Südkorea? Bleiben Sie über KT immer-verfügbares
-    5G mit Fair-Use-Daten verbunden. Bietet nahtlose Abdeckung und Auto-Connect –
-    ideal für Familienurlaube.
+  title: "Südkorea eSIM | 20% RABATT, ultraschnelles 5G"
+  description: "Erleben Sie das weltweit schnellste 5G in Südkorea mit Roami eSIM. Blitzschnelle Geschwindigkeiten landesweit. Sofortige QR-Aktivierung."
   keywords: Südkorea eSIM, Reise nach Südkorea, mobiles Internet Südkorea, eSIM Seoul,
     Datenpaket Südkorea, Reisevorbereitung Südkorea, 5G Südkorea
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Guadeloupe | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Guadeloupe | Vraie 5G & commutation auto réseau | Roami
-  description: Besoin d'Internet en Guadeloupe ? Profitez de la vraie 5G du meilleur
-    opérateur local et de données 24/7 avec Roami. Avec commutation auto réseau et
-    support 24/7, c'est parfait pour les vacances en famille.
+  title: "eSIM Guadeloupe | 5G rapide sur toutes les îles"
+  description: "Explorez la Guadeloupe avec l'eSIM Roami. 5G rapide sur toutes les îles. Activation instantanée. Forfaits données illimitées. Pas d'itinérance."
   keywords: eSIM Guadeloupe, forfait mobile Guadeloupe, internet voyage Guadeloupe,
     couverture réseau Guadeloupe, opérateurs Guadeloupe
 order_summary:

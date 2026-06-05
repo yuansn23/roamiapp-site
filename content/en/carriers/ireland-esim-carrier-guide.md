@@ -1,8 +1,7 @@
 ---
-title: Prepaid Ireland eSIM with Unlimited Data (Vodafone & Three)
-description: Cliffs of Moher connected. Prepaid Ireland eSIM with unlimited data.
-  Instant activation, no roaming fees across the Emerald Isle.
-date: '2026-05-21'
+title: "Ireland eSIM Guide | Vodafone, Three or Eir?"
+description: "Roami compares Ireland's carriers for travel eSIM. 5G from Dublin to the Wild Atlantic Way. Find your best network."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Irland, prepaid data, 5G network, 3 Ireland, Vodafone, Eir, travel
   eSIM, digital nomad
 site_name: Roami

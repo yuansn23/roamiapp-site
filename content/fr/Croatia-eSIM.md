@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Croatie | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:13:47+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Croatie | 5G illimitée & véritable connectivité | Roami
-  description: Vous partez sur la côte croate ? Roami garantit des données prépayées
-    sans souci et une véritable connectivité 5G transparente sur les meilleurs réseaux
-    locaux. Activez instantanément votre SIM numérique et évitez les frais d'itinérance
-    internationaux.
+  title: "eSIM Croatie | Économisez 20 %, 5G fiable"
+  description: "Explorez la Croatie avec l'eSIM Roami. 5G fiable le long de la côte adriatique et à l'intérieur des terres. Activation instantanée par QR. Données illimitées."
   keywords: eSIM Croatie, internet mobile Croatie, voyage Croatie, données illimitées,
     couverture réseau Croatie
 order_summary:

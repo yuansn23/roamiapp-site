@@ -1,6 +1,6 @@
 ---
 title: eSIM Panama Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:04:19+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM Panamá | 20% di sconto | Dati 5G per viaggi
-  description: Pianifichi un viaggio a Panamá? Ottieni 5G affidabile e dati senza
-    pensieri con Roami da operatori top locali. Copertura seamless e dati illimitati
-    – ideale per viaggi d'affari.
+  title: "eSIM Panamá | 20% DI SCONTO, Nessun Contratto Necessario"
+  description: "Visita Panamá con Roami eSIM. 5G veloce in tutta la nazione. Attivazione immediata. Piani dati illimitati. Nessun contratto."
   keywords: eSIM Panama, copertura rete Panama, viaggio Panama, operatori mobili Panama,
     connettività Panama
 order_summary:

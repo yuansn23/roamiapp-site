@@ -1,8 +1,7 @@
 ---
-title: Prepaid Lithuania eSIM with Unlimited Data (Telia & Bite)
-description: Fast 5G in Vilnius. Prepaid Lithuania eSIM with unlimited data. Instant
-  activation, perfect for digital nomads in the Baltics.
-date: '2026-05-21'
+title: "Lithuania eSIM Guide | Telia, Bite or Tele2?"
+description: "Roami compares Lithuania's carriers for travel eSIM. 5G in Vilnius & nationwide. Find the fastest network."
+date: '2026-06-04T00:00:00+00:00'
 keywords: Lithuania eSIM, business travel Lithuania, Telia Lithuania, Bitė Lithuania,
   5G Lithuania, eSIM for travel, no roaming fees Lithuania, reliable network Lithuania
 site_name: Roami

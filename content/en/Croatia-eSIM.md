@@ -1,6 +1,6 @@
 ---
 title: Croatia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Croatia eSIM | Unlimited 5G Data Plans| 20% OFF| Roami
-  description: Heading to the Croatian coast? Roami guarantees worry-free prepaid
-    data and seamless true 5G connectivity on the best local networks. Instantly activate
-    your digital SIM and avoid international roaming fees.
+  title: "Croatia eSIM | Save 20%, Reliable 5G"
+  description: "Explore Croatia with Roami eSIM. Reliable 5G along the Adriatic coast and inland. Instant QR activation. Unlimited data."
   keywords: Croatia eSIM, prepaid eSIM Croatia, cheap eSIM Croatia, travel internet
     Croatia, no roaming charges
   low_price: 1.99

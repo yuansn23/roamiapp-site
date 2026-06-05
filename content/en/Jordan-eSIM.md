@@ -1,6 +1,6 @@
 ---
 title: Jordan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Top Jordan eSIM | Unlimited Data| Top Local Carrier True 5G | Roami
-  description: Need internet in Jordan? Stay connected via Top Local Carrier Seamless
-    5G with High-Speed Data. Perfect for Digital Nomads, offering Instant QR Setup
-    and Stable Connection.
+  title: "Jordan eSIM | Fast 5G, Instant Activation"
+  description: "Discover Jordan with Roami eSIM. Fast 5G nationwide. Instant activation. Unlimited data plans. No roaming fees."
   keywords: Jordan eSIM, eSIM Jordan, travel internet Jordan, no roaming charges Jordan,
     instant delivery eSIM
   low_price: 1.99

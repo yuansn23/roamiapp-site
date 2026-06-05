@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Barbade | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:20+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Barbade | Données sans souci & 5G haut débit | Roami
-  description: Vous bientôt à la Barbade ? Obtenez la 5G haut débit de Roami sur le
-    meilleur opérateur local sans frais cachés. Idéal pour les visites familiales.
-    Profitez de l'absence de frais d'itinérance avec itinérance multi-pays.
+  title: "eSIM Barbade | 5G rapide sur toute l'île"
+  description: "Restez connecté à la Barbade avec l'eSIM Roami. 5G rapide sur toute l'île. Activation instantanée par QR. Données illimitées pour votre voyage."
   keywords: eSIM Barbade, internet mobile Barbade, forfait data Barbade, voyage Barbade,
     tourisme Barbade
 order_summary:

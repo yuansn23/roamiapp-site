@@ -1,6 +1,6 @@
 ---
 title: Kamerun eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:52:49+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Kaufen Sie Kamerun eSIM | Hochgeschwindigkeits-5G-Daten | Unbegrenzte Daten
-    | Roami
-  description: Entdecken Sie Kamerun mit Leichtigkeit. Erleben Sie Hochgeschwindigkeitsdaten
-    und nahtloses natives 5G vom lokalen Top-Betreiber. Ideal für Familienbesuche.
-    Genießen Sie sofortige QR-Einrichtung mit länderübergreifendem Roaming.
+  title: "Kamerun eSIM | Schnelles 5G, sofortige Einrichtung"
+  description: "Entdecken Sie Kamerun mit Roami eSIM. Schnelles 5G landesweit. Sofortige Aktivierung. Unbegrenzte Datentarife. Kein Vertrag."
   keywords: Kamerun eSIM, Reise eSIM Kamerun, mobiles Internet Kamerun, LTE Kamerun,
     5G Kamerun, günstige eSIM Kamerun, Kamerun Reisevorbereitung
 order_summary:

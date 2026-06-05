@@ -1,6 +1,6 @@
 ---
 title: Kenia eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:53+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Kaufen Sie Kenia eSIM | Hochgeschwindigkeits-5G-Daten | Auto-Connect | Roami
-  description: Entdecken Sie Kenia mit Leichtigkeit. Erleben Sie sorgenfreie Daten
-    und nahtloses verzögerungsfreies 5G vom lokalen Top-Betreiber. Ideal für digitale
-    Nomaden. Genießen Sie unbegrenzte Daten mit bestem lokalen Netzwerk.
+  title: "Kenia eSIM | Zuverlässiges 5G, unbegrenzte Datentarife"
+  description: "Bleiben Sie in Kenia mit Roami eSIM verbunden. Zuverlässiges 5G in Nairobi, Mombasa und landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten."
   keywords: eSIM Kenia, mobiles Internet Kenia, Reise eSIM, Kenya Reise, LTE Kenia
 order_summary:
   title: Ausgewählter Tarif

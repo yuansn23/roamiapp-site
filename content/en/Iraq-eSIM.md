@@ -1,6 +1,6 @@
 ---
 title: Iraq eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Iraq eSIM Plan | 20% OFF 5G Travel Internet | Roami
-  description: Secure your mobile connection in Iraq with Roami. Our digital SIM card
-    delivers native 5G speeds on top local carriers. Enjoy seamless, contract-free
-    travel data and 24/7 customer support.
+  title: "Iraq eSIM | Reliable 5G in Major Cities"
+  description: "Stay connected in Iraq with Roami eSIM. Reliable 5G in Baghdad, Erbil & major cities. Instant activation. Unlimited data."
   keywords: Iraq eSIM, travel internet Iraq, instant eSIM, no roaming charges, QR
     code activation
   low_price: 1.99

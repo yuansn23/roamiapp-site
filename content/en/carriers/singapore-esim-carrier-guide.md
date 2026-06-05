@@ -1,8 +1,7 @@
 ---
-title: Prepaid Singapore eSIM with Unlimited Data (Singtel & StarHub)
-description: Ultra-fast 5G in the Lion City. Prepaid Singapore eSIM with unlimited
-  data. Compatible with iPhone & Android. Instant QR code sent to your email.
-date: '2026-05-21'
+title: "Singapore eSIM Guide | Singtel, StarHub or M1?"
+description: "Roami rates Singapore's carriers for travel eSIM. Ultra-fast 5G island-wide. Speed benchmarks for business & leisure."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Singapur, prepaid data, 5G network, Singtel, SIMBA Telecom, M1, travel
   eSIM
 site_name: Roami

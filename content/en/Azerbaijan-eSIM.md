@@ -1,6 +1,6 @@
 ---
 title: Azerbaijan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Azerbaijan Travel eSIM | No Hidden Charges | Reliable 5G | Roami
-  description: Need internet in Azerbaijan? Enjoy Top Local Carrier True 5G and Fair
-    Use Data with Roami. Features Best Local Network and Auto-Connect, great for Light
-    Travel.
+  title: "Azerbaijan eSIM | Fast 5G Nationwide"
+  description: "Visit Azerbaijan with Roami eSIM. Fast 5G nationwide. Instant QR activation. Unlimited data from $1.99. No contract."
   keywords: Azerbaijan eSIM, cheap eSIM Azerbaijan, travel internet, no roaming charges,
     instant delivery
   low_price: 1.99

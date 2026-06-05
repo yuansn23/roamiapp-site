@@ -1,6 +1,6 @@
 ---
 title: Uganda eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:53:44+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Uganda Prepaid eSIM |20% Discount Code |5G High-Speed |Roami
-  description: Roami eSIM for Uganda offers fast data on MTN & Airtel. Instant setup
-    via QR code, no local SIM registration. Use ROAMI20 for 20% savings.
+  title: "Uganda eSIM | Reliable 5G Nationwide"
+  description: "Stay connected in Uganda with Roami eSIM. Reliable 5G nationwide. Instant QR activation. Unlimited data from $1.99."
   keywords: Uganda eSIM, prepaid eSIM Uganda, cheap eSIM Uganda, unlimited data eSIM
     Uganda, buy Uganda eSIM, travel internet Uganda, eSIM with instant delivery
   low_price: 1.99

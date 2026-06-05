@@ -1,6 +1,6 @@
 ---
 title: Malediven eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:51:38+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Malediven eSIM | 20% RABATT | Natives 5G für Familienbesuche | Roami
-  description: Entdecken Sie die Malediven mit Leichtigkeit. Erleben Sie unbegrenzte
-    Daten und nahtloses volles 5G vom lokalen Top-Betreiber. Genießen Sie keine physische
-    SIM und länderübergreifendes Roaming – maßgeschneidert für Geschäftsreisen.
+  title: "Malediven eSIM | Schnelles 5G auf allen Atollen"
+  description: "Entfliehen Sie auf die Malediven mit Roami eSIM. Schnelles 5G auf den Resort-Atollen. Sofortige QR-Aktivierung. Unbegrenzte Daten für Ihren Aufenthalt."
   keywords: Malediven eSIM, Reise eSIM Malediven, mobiles Internet Malediven, Urlaub
     Malediven, eSIM für Malediven, günstige eSIM Malediven
 order_summary:

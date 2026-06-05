@@ -1,8 +1,7 @@
 ---
-title: Prepaid Jordan eSIM with Unlimited Data (Zain & Orange)
-description: Petra connected. Prepaid Jordan eSIM with unlimited data. Instant setup,
-  no roaming fees for Wadi Rum exploration.
-date: '2026-05-21'
+title: "Jordan eSIM Guide | Zain, Orange or Umniah?"
+description: "Roami compares Jordan's carriers for travel eSIM. 5G from Amman to Wadi Rum. Which gives you the best coverage?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: Jordan eSIM, Jordan travel internet, Zain Jordan, Orange Jordan, Petra eSIM,
   Dead Sea data, plug-and-play eSIM, no roaming fees Jordan
 site_name: Roami

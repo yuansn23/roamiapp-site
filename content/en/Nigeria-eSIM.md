@@ -1,6 +1,6 @@
 ---
 title: Nigeria eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Buy Nigeria eSIM | 24/7 5G Data | 20% OFF | Roami
-  description: Traveling to Nigeria? Stay connected via Top Local Carrier Always-On
-    5G with High-Speed Data. Perfect for Light Travel, offering No Physical SIM and
-    Best Local Network.
+  title: "Nigeria eSIM | Fast 5G, No Contract Needed"
+  description: "Travel Nigeria with Roami eSIM. Fast 5G in Lagos, Abuja & nationwide. Instant activation. Unlimited data. No contract."
   keywords: Nigeria eSIM, eSIM Nigeria, travel internet Nigeria, instant delivery
     Nigeria eSIM, no roaming charges Nigeria
   low_price: 1.99

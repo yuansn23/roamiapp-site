@@ -1,6 +1,6 @@
 ---
 title: China eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Best China eSIM | 20% OFF | Unlimited 5G Data Plans | Roami
-  description: Looking for the best China eSIM for travel? Roami offers prepaid eSIM China with high-speed 5G on China Mobile, China Unicom & China Telecom. Buy eSIM online China – cheap unlimited data plans for tourists. 
+  title: "China eSIM | 20% OFF, No VPN Needed"
+  description: "Stay connected in China with Roami eSIM. Fast 5G on local networks, no VPN required. Instant activation. Works across all major"
   keywords: china esim, esim china, best esim for china, e sim china, prepaid esim china, unlimited data esim china, cheap esim china, esim for china travel, temporary esim china, buy esim online china, esim china tourist, china travel esim, best prepaid esim china
   low_price: 1.99
   high_price: 39.9

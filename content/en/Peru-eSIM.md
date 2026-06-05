@@ -1,6 +1,6 @@
 ---
 title: Peru eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Best Peru eSIM | No Roaming Shock & High-Speed 5G | Roami
-  description: Traveling to Peru? Experience Fair Use Data and seamless Stable 5G
-    from Top Local Carrier. With Seamless Coverage and Unlimited Data, it's perfect
-    for Digital Nomads.
+  title: "Peru eSIM | 20% OFF, Unlimited 5G Data"
+  description: "Explore Peru with Roami eSIM. Fast 5G in Lima, Cusco & nationwide. Instant activation. Unlimited data. No roaming charges."
   keywords: Peru eSIM, prepaid eSIM Peru, travel internet Peru, Claro Peru eSIM, Movistar
     Peru eSIM
   low_price: '1.99'

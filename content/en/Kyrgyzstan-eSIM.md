@@ -1,6 +1,6 @@
 ---
 title: Kyrgyzstan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Kyrgyzstan eSIM Plan | Top Local Carrier Stable 5G | Roami
-  description: Heading to Kyrgyzstan soon? Get Roami's True 5G on Top Local Carrier
-    with High-Speed Data. Perfect for Business Trips, offering No Roaming Fees and
-    Multi-Country Roaming.
+  title: "Kyrgyzstan eSIM | Reliable 5G Nationwide"
+  description: "Stay connected in Kyrgyzstan with Roami eSIM. Reliable 5G nationwide. Instant activation. Unlimited data. No contract."
   keywords: Kyrgyzstan eSIM, prepaid eSIM Kyrgyzstan, travel internet Kyrgyzstan,
     cheap eSIM Kyrgyzstan, unlimited data Kyrgyzstan
   low_price: 1.99

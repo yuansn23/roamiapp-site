@@ -1,7 +1,7 @@
 ---
-title: "Dominican eSIM: Buy and Connect Instantly"
-description: "Stay connected in the Dominican Republic with an eSIM. Avoid roaming fees and enjoy fast 5G on Claro and Altice networks. Perfect for exploring Punta Cana beaches, Santo Domingo's Zona Colonial, or remote mountain trails with instant activation and no physical SIM needed."
-date: '2026-05-06T12:58:12+00:00'
+title: "Dominican eSIM Guide | Claro or Altice?"
+description: "Roami compares DR carriers for travel eSIM. 5G in Punta Cana & Santo Domingo. Which network is best for your trip?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: "Dominican eSIM, buy eSIM Dominican Republic, Claro eSIM, Altice eSIM, Dominican travel eSIM, instant eSIM Dominican, eSIM for Punta Cana, eSIM for Santo Domingo, avoid roaming fees Dominican"
 site_name: "Roami"
 brand_name: "Roami"

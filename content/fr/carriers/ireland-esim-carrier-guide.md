@@ -1,8 +1,7 @@
 ---
-title: eSIM prépayée Irlande avec données illimitées (Vodafone & Three)
-description: Falaises de Moher connectées. eSIM prépayée Irlande avec données illimitées.
-  Activation instantanée, pas de frais d'itinérance sur l'île d'Émeraude.
-date: '2026-05-21'
+title: "Guide eSIM Irlande | Vodafone, Three ou Eir ?"
+description: "Roami compare les opérateurs irlandais pour l'eSIM de voyage. 5G de Dublin à la Wild Atlantic Way. Trouvez votre meilleur réseau."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Irlande, données prépayées, réseau 5G, 3 Ireland, Vodafone, Eir, Virgin
   Media, guide voyage, données illimitées
 site_name: Roami

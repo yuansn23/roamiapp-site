@@ -1,9 +1,7 @@
 ---
-title: eSIM prépayée Taïwan avec données illimitées - Chunghwa & Taiwan Mobile
-description: Explorez Taipei avec notre eSIM prépayée. Données illimitées via Chunghwa
-  Telecom et Far EasTone. Vitesses 5G rapides, configuration instantanée. Pas besoin
-  de faire la queue aux comptoirs de l'aéroport.
-date: '2026-05-21'
+title: "Guide eSIM Taïwan | Chunghwa, FET ou Taiwan Mobile"
+description: "Roami compare les opérateurs taïwanais pour l'eSIM de voyage. 5G sur toute l'île. Quel réseau vous offre les meilleures vitesses d'un bout à l'autre ?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Taïwan, données prépayées, réseau 5G, opérateur Taïwan,中華電信, HiNet,
   voyage Taïwan, itinérance
 site_name: Roami

@@ -1,6 +1,6 @@
 ---
 title: Belarus eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Best Belarus eSIM | High-Speed Data & True 5G | Roami
-  description: Planning a trip to Belarus? Get Roami's Fast 5G on Top Local Carrier
-    with Unlimited Data. Features Multi-Country Roaming and 24/7 Support, great for
-    Light Travel.
+  title: "Belarus eSIM | Fast 5G Nationwide"
+  description: "Visit Belarus with Roami eSIM. Fast 5G nationwide. Instant QR activation. Unlimited data from $1.99."
   keywords: Belarus eSIM, prepaid eSIM Belarus, cheap eSIM Belarus, unlimited data
     Belarus, travel internet Belarus, instant delivery eSIM, no roaming charges eSIM
   low_price: 1.99

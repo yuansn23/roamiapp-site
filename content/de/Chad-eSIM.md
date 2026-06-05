@@ -1,6 +1,6 @@
 ---
 title: Tschad eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:51:12+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Tschad Reise-eSIM | 24/7 Support | Hochgeschwindigkeits-5G | Roami
-  description: Internet im Tschad nötig? Genießen Sie lokalen Top-Betreiber mit nahtlosem
-    5G und keinen versteckten Gebühren mit Roami. Mit stabiler Verbindung und unbegrenzten
-    Daten – perfekt für Familienurlaube.
+  title: "Tschad eSIM | Schnelles 5G in Großstädten"
+  description: "Bleiben Sie im Tschad mit Roami eSIM verbunden. Schnelles 5G in N'Djamena und Großstädten. Sofortige Aktivierung. Unbegrenzte Datentarife."
   keywords: Tschad, Reisen Tschad, eSIM Tschad, Netzabdeckung Tschad, Tourismus Tschad,
     mobiles Internet Tschad
 order_summary:

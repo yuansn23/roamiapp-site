@@ -1,8 +1,7 @@
 ---
-title: Prepaid Croatia eSIM with Unlimited Data (A1 & HT)
-description: Stay connected along the Dalmatian Coast. Prepaid Croatia eSIM with unlimited
-  data. Instant QR code, perfect for yacht charters.
-date: '2026-05-21'
+title: "Croatia eSIM Guide | HT, A1 or Telemach?"
+description: "Roami compares Croatia's carriers for travel eSIM. 5G along the Adriatic coast. Which network covers you best?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: Croatia eSIM, Hrvatski Telekom, A1 Hrvatska, Plitvice Lakes, Dubrovnik,
   high-speed data, no roaming fees, eSIM compatibility
 site_name: Roami

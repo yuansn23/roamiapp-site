@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Cameroun | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:13:40+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Cameroun | 5G haut débit & données illimitées | Roami
-  description: Explorez le Cameroun en toute simplicité. Découvrez des données haut
-    débit et une 5G native transparente du meilleur opérateur local. Idéal pour les
-    visites familiales. Profitez d'une configuration QR instantanée avec itinérance
-    multi-pays.
+  title: "eSIM Cameroun | 5G rapide, configuration instantanée"
+  description: "Explorez le Cameroun avec l'eSIM Roami. 5G rapide dans tout le pays. Activation instantanée. Forfaits données illimitées. Aucun contrat."
   keywords: Cameroun, eSIM Cameroun, voyage Cameroun, internet Cameroun, couverture
     réseau, tourisme Cameroun
 order_summary:

@@ -1,8 +1,7 @@
 ---
-title: eSIM prépayée Tunisie avec données illimitées (Ooredoo & Tunisie Telecom)
-description: Histoire de Carthage connectée. eSIM prépayée Tunisie avec données illimitées.
-  Activation instantanée, fonctionne à Tunis et Sousse.
-date: '2026-05-21'
+title: "Guide eSIM Tunisie | Tunisie Telecom ou Orange ?"
+description: "Roami compare les opérateurs tunisiens pour l'eSIM de voyage. 5G de Carthage à Djerba. Quel réseau est le plus rapide ?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Tunisie, données prépayées, réseau 5G, Tunisie Telecom, Ooredoo, Orange
   Tunisie, guide eSIM voyage
 site_name: Roami

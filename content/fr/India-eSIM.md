@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Inde | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:15:24+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Inde | Données illimitées 5G |20% DE RÉDUCTION| Roami
-  description: Vous voyagez en Inde ? Obtenez la 5G stable de Roami sur Jio avec des
-    données haut débit. Idéal pour les voyages légers. Profitez de l'absence de frais
-    d'itinérance avec le meilleur réseau local.
+  title: "eSIM Inde | -20 %, aucune pièce d'identité locale requise"
+  description: "Voyagez en Inde avec l'eSIM Roami. 5G fiable dans tout le pays, aucune adresse locale ni pièce d'identité requise. Activation instantanée. Forfaits à partir de 1,99 $."
   keywords: eSIM Inde, forfait data Inde, voyage Inde, connectivité Inde, internet
     mobile Inde
 order_summary:

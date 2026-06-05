@@ -3,12 +3,12 @@ title: "Politica di rimborso di Roami | Protezione per l'acquisto di eSIM"
 description: "Scopri le politiche di rimborso e reso di Roami eSIM. Ci impegniamo per la tua soddisfazione."
 layout: "refund"
 type: "page"
-date: '2026-06-01T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 
 # SEO
 seo:
-  title: "Politica di rimborso di Roami | Protezione per l'acquisto di eSIM"
-  description: "Informati sui termini di rimborso, la procedura di richiesta e le domande frequenti su Roami eSIM. Ci impegniamo a offrirti un'esperienza d'uso soddisfacente."
+  title: "Politica di Rimborso | Garanzia di Acquisto eSIM"
+  description: "Termini di rimborso Roami spiegati. Rimborsi equi e senza problemi se la tua eSIM non funziona. Scopri l'idoneità e come richiederli."
   image: "/img/og-refund.jpg"
 
 # JSON-LD Schema (oggetto YAML, non stringa)

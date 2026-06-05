@@ -1,8 +1,7 @@
 ---
-title: Prepaid SA eSIM with Unlimited Data (Vodacom & MTN)
-description: Safaris made easy. Prepaid South Africa eSIM with unlimited data on Vodacom.
-  Instant setup, stay connected in Cape Town & Kruger Park.
-date: '2026-05-21'
+title: "South Africa eSIM Guide | Vodacom, MTN or Cell C?"
+description: "Roami compares SA carriers for travel eSIM. 5G from Cape Town to Kruger. Find the best network before your trip."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Südafrika, prepaid data, 5G network, MTN, Vodacom, travel eSIM, roaming
 site_name: Roami
 brand_name: Roami

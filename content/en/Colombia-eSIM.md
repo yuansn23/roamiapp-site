@@ -1,6 +1,6 @@
 ---
 title: Colombia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Top Colombia eSIM |Unlimited Data|Top Local Carrier High-Speed 5G | Roami
-  description: Heading to Colombia soon? Stay connected via Top Local Carrier Seamless
-    5G with 24/7 Data. Ideal for Visiting Family. Enjoy No Hidden Charges with Multi-Country
-    Roaming.
+  title: "Colombia eSIM | Save 20%, Reliable 5G"
+  description: "Discover Colombia with Roami eSIM. Reliable 5G in Bogota, Medellin & nationwide. Instant QR activation. Unlimited data."
   keywords: Colombia eSIM, prepaid eSIM Colombia, best eSIM for Colombia travel, cheap
     Colombia eSIM, buy Colombia eSIM
   low_price: 1.99

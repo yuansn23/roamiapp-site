@@ -1,6 +1,6 @@
 ---
 title: Kambodscha eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:51:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Kambodscha Reise-eSIM | Native 5G-Mobildaten | Roami
-  description: Besuchen Sie die Tempel von Kambodscha? Bleiben Sie über die Prepaid-eSIM
-    von Roami mit echtem 5G verbunden. Genießen Sie transparentes Reiseinternet und
-    landesweite Abdeckung auf lokalen Top-Betreibern mit null Verträgen.
+  title: "Kambodscha eSIM | Schnelles 5G, unbegrenzte Daten"
+  description: "Entdecken Sie Kambodscha mit Roami eSIM. Schnelles 5G in Siem Reap, Phnom Penh und landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten."
   keywords: Kambodscha eSIM, Reise nach Kambodscha, Internet Kambodscha, mobiles Internet,
     Tourismus Kambodscha
 order_summary:

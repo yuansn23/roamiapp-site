@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Danemark | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:13:53+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Danemark | 5G à latence zéro & données 24/7 | Roami
-  description: Explorez le Danemark en toute simplicité. Profitez de la 5G à latence
-    zéro du meilleur opérateur local et de données 24/7 avec Roami. Parfait pour les
-    voyages d'affaires, offrant auto-connexion et itinérance multi-pays.
+  title: "eSIM Danemark | -20 %, aucun contrat requis"
+  description: "Voyagez au Danemark avec l'eSIM Roami. 5G fiable dans tout le pays. Activation instantanée, sans contrat. Données illimitées à partir de 1,99 $."
   keywords: eSIM Danemark, forfait data Danemark, voyage Danemark, internet mobile
     Danemark, connexion réseau Danemark
 order_summary:

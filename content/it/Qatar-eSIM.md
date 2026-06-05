@@ -1,6 +1,6 @@
 ---
 title: eSIM Qatar Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:46:29+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM Qatar | Dati 5G illimitati per viaggi
-  description: In viaggio in Qatar? Roami offre 5G e dati illimitati sulle migliori
-    reti locali. Connettività stabile per visitare Doha e i deserti – senza roaming,
-    senza SIM fisica.
+  title: "eSIM Qatar | 5G Ultra Veloce in Tutta la Nazione"
+  description: "Visita il Qatar con Roami eSIM. 5G ultra veloce in tutta la penisola. Attivazione immediata. Dati illimitati per affari e piacere."
   keywords: eSIM Qatar, viaggio Qatar, internet mobile Qatar, copertura 5G Qatar,
     roaming Qatar
 order_summary:

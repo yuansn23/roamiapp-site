@@ -1,6 +1,6 @@
 ---
 title: eSIM Afghanistan Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:02:55+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM Afghanistan | Dati 5G illimitati per viaggi
-  description: In viaggio in Afghanistan? Roami offre dati ad alta velocità su rete
-    5G completa, grazie a operatori locali affidabili. Connessione stabile, nessuna
-    SIM fisica – perfetto per vacanze in famiglia.
+  title: "eSIM Afghanistan | 5G Affidabile nelle Grandi Città"
+  description: "Rimani connesso in Afghanistan con Roami eSIM. 5G affidabile a Kabul e nelle grandi città. Attivazione immediata. Piani dati illimitati."
   keywords: eSIM Afghanistan, rete mobile Afghanistan, viaggio Afghanistan, copertura
     Afghanistan, roaming Afghanistan
 order_summary:

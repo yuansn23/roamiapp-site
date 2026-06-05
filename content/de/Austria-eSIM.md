@@ -1,6 +1,6 @@
 ---
 title: Österreich eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:52:10+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Top Österreich eSIM | 24/7 Daten | Lokaler Top-Betreiber Schnelles 5G | Roami
-  description: Bald in Österreich? Holen Sie sich Roamis schnelles 5G auf dem lokalen
-    Top-Betreiber mit Hochgeschwindigkeitsdaten. Genießen Sie keine physische SIM
-    und nahtlose Abdeckung – maßgeschneidert für Geschäftsreisen.
+  title: "Österreich eSIM | 20% RABATT, zuverlässiges 5G"
+  description: "Bleiben Sie in Österreich mit Roami eSIM verbunden. Zuverlässiges 5G in Städten und Alpenregionen. Sofortige Aktivierung. Unbegrenzte Daten ab 1,99 $."
   keywords: eSIM Österreich, mobiles Internet Österreich, Prepaid eSIM, Reise eSIM,
     Daten eSIM
 order_summary:

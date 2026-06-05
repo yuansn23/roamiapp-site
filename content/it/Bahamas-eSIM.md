@@ -1,6 +1,6 @@
 ---
 title: eSIM Bahamas Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:04:03+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Acquista eSIM Bahamas | Dati 5G illimitati per viaggi
-  description: In viaggio alle Bahamas? Goditi 5G seamless e piani dati senza pensieri
-    con Roami, dai migliori operatori locali. Perfetto per vacanze in famiglia – nessun
-    costo di roaming, connessione stabile.
+  title: "eSIM Bahamas | 5G Affidabile su Tutte le Isole"
+  description: "Esplora le Bahamas con Roami eSIM. 5G affidabile su tutte le isole. Attivazione immediata. Dati illimitati. Nessun roaming."
   keywords: eSIM Bahamas, roaming Bahamas, viaggio Bahamas, copertura mobile Bahamas,
     internet Bahamas
 order_summary:

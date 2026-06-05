@@ -1,8 +1,7 @@
 ---
-title: Prepaid Bulgaria eSIM with Unlimited Data (A1 & Vivacom)
-description: Affordable prepaid eSIM for Black Sea coast. Unlimited data on A1 & Vivacom.
-  Instant activation, no roaming fees.
-date: '2026-05-21'
+title: "Bulgaria eSIM Guide | A1, Vivacom or Yettel?"
+description: "Roami compares Bulgaria's carriers for travel eSIM. 5G from Sofia to the Black Sea. Find the fastest network."
+date: '2026-06-04T00:00:00+00:00'
 keywords: Bulgaria eSIM, hotspot tethering, A1 Bulgaria, Yettel, Vivacom, travel eSIM,
   no roaming fees, Sofia connectivity, Alexander Nevsky Cathedral, seamless data
 site_name: Roami

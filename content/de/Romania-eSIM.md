@@ -1,6 +1,6 @@
 ---
 title: Rumänien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:52:01+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Kaufen Sie Rumänien eSIM | Kein Roaming-Schock | Keine Roaminggebühren |
-    Roami
-  description: Planen Sie eine Reise nach Rumänien? Holen Sie sich Roamis Hochgeschwindigkeits-5G
-    auf dem lokalen Top-Betreiber mit vertragsfreien Daten. Bietet automatischen Netzwerkwechsel
-    und Auto-Connect – ideal für Familienbesuche.
+  title: "Rumänien eSIM | 20% sparen, schnelle 5G-Daten"
+  description: "Entdecken Sie Rumänien mit Roami eSIM. Schnelles 5G im ganzen Land. Sofortige QR-Aktivierung. Unbegrenzte Datentarife. Kein Vertrag."
   keywords: Rumänien eSIM, mobile Daten Rumänien, Reise eSIM, Internet Rumänien, Roaming
     Rumänien
 order_summary:

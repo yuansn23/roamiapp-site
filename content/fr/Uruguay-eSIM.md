@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Uruguay | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:07+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Uruguay | Données illimitées 5G | 20% DE RÉDUCTION | Roami
-  description: Besoin d'Internet en Uruguay ? Obtenez la 5G rapide de Roami sur le
-    meilleur opérateur local avec des données sans souci. Parfait pour les vacances
-    en famille, offrant une configuration QR instantanée et une itinérance multi-pays.
+  title: "eSIM Uruguay | 5G fiable, pas d'itinérance"
+  description: "Restez connecté en Uruguay avec l'eSIM Roami. 5G fiable à Montevideo et dans tout le pays. Activation instantanée par QR. Données illimitées."
   keywords: eSIM Uruguay, forfait data Uruguay, internet mobile Uruguay, voyage Uruguay,
     carte eSIM Uruguay
 order_summary:

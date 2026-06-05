@@ -1,6 +1,6 @@
 ---
 title: Bangladesch eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:29+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Kaufen Sie Bangladesch eSIM | Unbegrenztes 5G-Daten | Keine versteckten Gebühren
-    | Roami
-  description: Internet in Bangladesch nötig? Bleiben Sie über den lokalen Top-Betreiber
-    mit verzögerungsfreiem 5G und ohne Roaming-Schock verbunden. Ideal für Familienurlaube.
-    Genießen Sie 24/7 Support mit automatischem Netzwerkwechsel.
+  title: "Bangladesch eSIM | Zuverlässiges 5G landesweit"
+  description: "Entdecken Sie Bangladesch mit Roami eSIM. Zuverlässiges 5G landesweit. Sofortige Aktivierung. Unbegrenzte Daten ab 1,99 $."
   keywords: Bangladesch eSIM, Reise eSIM, Internet Bangladesch, günstige eSIM, LTE
     Bangladesch
 order_summary:

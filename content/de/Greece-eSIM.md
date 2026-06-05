@@ -1,6 +1,6 @@
 ---
 title: Griechenland eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:19+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Griechenland eSIM | 20% RABATT | Zuverlässiges 5G für leichte Reisen | Roami
-  description: Reisen Sie nach Griechenland? Genießen Sie lokalen Top-Betreiber mit
-    Hochgeschwindigkeits-5G und unbegrenzten Daten mit Roami. Perfekt für Geschäftsreisen
-    – keine physische SIM und landesweite Abdeckung.
+  title: "Griechenland eSIM | 20% RABATT, keine Roaming-Gebühren"
+  description: "Inselhüpfen in Griechenland mit Roami eSIM. Schnelles 5G auf dem Festland und den Inseln. Sofortige Aktivierung. Unbegrenzte Daten. Keine Roaming-Gebühren."
   keywords:
   - eSIM Griechenland
   - Reise eSIM

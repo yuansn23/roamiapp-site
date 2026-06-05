@@ -1,9 +1,7 @@
 ---
-title: Prepaid Malaysia eSIM with Unlimited Data (CelcomDigi)
-description: High-speed prepaid eSIM for Malaysia. Unlimited data on CelcomDigi &
-  Maxis. Works immediately upon landing. Ideal for tourists visiting Kuala Lumpur
-  or Langkawi.
-date: '2026-05-21'
+title: "Malaysia eSIM Guide | Maxis, Celcom or Digi?"
+description: "Roami compares Malaysia's carriers for travel eSIM. 5G in KL, Penang & nationwide. Find the best network."
+date: '2026-06-04T00:00:00+00:00'
 keywords: Malaysia eSIM, CelcomDigi, Maxis, travel eSIM, avoid roaming fees, Kuala
   Lumpur, Langkawi, digital nomad eSIM, Malaysia prepaid data
 site_name: Roami

@@ -1,6 +1,6 @@
 ---
 title: eSIM Camerun Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:14+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Acquista eSIM Camerun  | Dati illimitati per viaggi
-  description: Esplora il Camerun senza sforzo. Sperimenta dati ad alta velocità e
-    5G nativo seamless con operatori top locali. Ideale per famiglie, configurazione
-    QR immediata e roaming cross-regionale.
+  title: "eSIM Camerun | 5G Veloce, Configurazione Istantanea"
+  description: "Esplora il Camerun con Roami eSIM. 5G veloce in tutta la nazione. Attivazione immediata. Piani dati illimitati. Nessun contratto."
   keywords: eSIM Camerun, Internet Camerun, viaggio Camerun, connettività Camerun,
     roaming Camerun
 order_summary:

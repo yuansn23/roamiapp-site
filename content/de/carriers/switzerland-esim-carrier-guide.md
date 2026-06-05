@@ -1,8 +1,7 @@
 ---
-title: Prepaid Schweiz eSIM mit unbegrenztem Datenvolumen (Swisscom & Sunrise)
-description: Alpensichere Konnektivität. Prepaid Schweiz eSIM mit unbegrenztem Datenvolumen
-  auf Swisscom. Funktioniert perfekt in Bergbahnen und Skigebieten.
-date: '2026-05-21'
+title: "Schweiz eSIM-Leitfaden | Swisscom, Sunrise oder Salt?"
+description: "Roami vergleicht Schweizer Anbieter für Reise-eSIM. 5G von Städten bis zu Alpengipfeln. Welches Netz ist das zuverlässigste?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Schweiz, Prepaid Daten, 5G Netz, Swisscom, Salt, Roami eSIM, Schweiz
   Reise
 site_name: Roami

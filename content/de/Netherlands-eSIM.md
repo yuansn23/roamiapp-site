@@ -1,6 +1,6 @@
 ---
 title: Niederlande eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:51:05+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Niederlande eSIM Plan | Vodafone Volles 5G | 20% RABATT | Roami
-  description: Internet in den Niederlanden nötig? Holen Sie sich Roamis stabiles
-    5G auf KPN mit 24/7 Daten. Genießen Sie 24/7 Support und bestes lokales Netzwerk
-    – maßgeschneidert für digitale Nomaden.
+  title: "Niederlande eSIM | 20% RABATT, schnelles 5G"
+  description: "Entdecken Sie die Niederlande mit Roami eSIM. Schnelles 5G im ganzen Land. Sofortige QR-Aktivierung. Unbegrenzte Datentarife."
   keywords: Niederlande, eSIM, Reisen, mobiles Internet, Netzabdeckung, Amsterdam,
     Rotterdam, Den Haag, Utrecht, KPN, Vodafone, T-Mobile, Sehenswürdigkeiten, Sightseeing,
     Geschäftsreise

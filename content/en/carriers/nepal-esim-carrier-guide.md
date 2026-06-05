@@ -1,8 +1,7 @@
 ---
-title: Prepaid Nepal eSIM with Unlimited Data (Ncell & NTC)
-description: Everest Base Camp ready. Prepaid Nepal eSIM with unlimited data. Works
-  on Ncell network. Instant setup for trekkers.
-date: '2026-05-21'
+title: "Nepal eSIM Guide | Ncell or Nepal Telecom?"
+description: "Roami compares Nepal's carriers for travel eSIM. 5G from Kathmandu to Pokhara. Which network is most reliable?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: Nepal eSIM, travel internet, Ncell, Nepal Telecom, Everest Base Camp, Kathmandu,
   plug-and-play, avoid roaming fees, eSIM compatibility
 site_name: Roami

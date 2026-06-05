@@ -1,6 +1,6 @@
 ---
 title: eSIM Turchia Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:02:36+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM Turchia | Dati illimitati 5G mobile
-  description: Esplora la Turchia senza sforzo. Resta connesso con Türk Telekom, 5G
-    ad alta velocità e nessun contratto. Nessuna SIM fisica e roaming cross-regionale
-    – pensato per viaggi leggeri.
+  title: "eSIM Turchia | 20% DI SCONTO, Dati 5G Illimitati"
+  description: "Esplora la Turchia con Roami eSIM. 5G veloce in tutta la nazione. Configurazione QR immediata. Dati illimitati da 1,99 $. Nessuna tariffa di roaming."
   keywords: eSIM Turchia, viaggio Turchia, internet Turchia, rete mobile Turchia,
     roaming Turchia
 order_summary:

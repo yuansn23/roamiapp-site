@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM République dominicaine | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:13:53+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM République dominicaine | 5G à latence zéro & sans contrat | Roami
-  description: Vous bientôt en République dominicaine ? Découvrez des données transparentes
-    et une 5G à latence zéro transparente du meilleur opérateur local. Parfait pour
-    les nomades numériques, offrant zéro contrat et une couverture transparente.
+  title: "eSIM République dominicaine | 5G rapide, données illimitées"
+  description: "Évadez-vous en République dominicaine avec l'eSIM Roami. 5G rapide à Punta Cana, Saint-Domingue et dans tout le pays. Activation instantanée. Données illimitées."
   keywords: eSIM République dominicaine, connexion Internet République dominicaine,
     voyage République dominicaine, couverture mobile République dominicaine, eSIM
     pour République dominicaine

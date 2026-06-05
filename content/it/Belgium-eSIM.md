@@ -1,6 +1,6 @@
 ---
 title: eSIM Belgio Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:50+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM Belgio | Dati illimitati per viaggi
-  description: Hai bisogno di connessione in Belgio? Goditi 5G stabile e dati ad alta
-    velocità da operatori top locali con Roami. Cambio automatico di rete e supporto
-    24/7 – perfetto per viaggi leggeri.
+  title: "eSIM Belgio | Risparmia il 20%, 5G Veloce"
+  description: "Rimani connesso in Belgio con Roami eSIM. 5G veloce a Bruxelles, Bruges e in tutta la nazione. Attivazione QR immediata. Dati illimitati."
   keywords: eSIM Belgio, viaggio Belgio, copertura mobile Belgio, rete Belgio, roaming
     Belgio
 order_summary:

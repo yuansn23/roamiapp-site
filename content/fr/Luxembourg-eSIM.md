@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Luxembourg | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:15:20+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Luxembourg | Données illimitées 5G | 20% DE RÉDUCTION | Roami
-  description: Vous bientôt au Luxembourg ? Roami offre des données illimitées sur
-    la 5G stable fiable du meilleur opérateur local. Avec une couverture transparente
-    et des données illimitées, c'est parfait pour les voyages légers.
+  title: "eSIM Luxembourg | 5G rapide dans tout le pays"
+  description: "Restez connecté au Luxembourg avec l'eSIM Roami. 5G rapide dans tout le pays. Activation instantanée. Données illimitées."
   keywords: eSIM Luxembourg, internet mobile Luxembourg, couverture réseau Luxembourg,
     voyage Luxembourg, forfait data Luxembourg
 order_summary:

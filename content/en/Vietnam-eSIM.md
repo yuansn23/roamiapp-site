@@ -1,6 +1,6 @@
 ---
 title: Vietnam eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Vietnam eSIM | Unlimited 5G Data Plans| 20% OFF| Roami
-  description: Planning a trip to Vietnam? Enjoy Top Local Carrier Fast 5G and Fair
-    Use Data with Roami. Perfect for Light Travel, offering Unlimited Data and Nationwide
-    Coverage.
+  title: "Vietnam eSIM | Save 20%, Reliable 5G"
+  description: "Travel Vietnam with Roami eSIM. Reliable 5G from Hanoi to Ho Chi Minh City. Instant activation. Unlimited data available."
   keywords: Vietnam eSIM, instant delivery, no roaming charges, travel internet, QR
     code activation
   low_price: 1.99

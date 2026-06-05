@@ -1,9 +1,7 @@
 ---
-title: Prepaid Türkei eSIM mit unbegrenztem Datenvolumen (Turkcell & Turk Telekom)
-description: Vermeiden Sie Touristen-SIM-Betrug. Prepaid Türkei eSIM mit unbegrenztem
-  Datenvolumen auf Turkcell. Sofortige Aktivierung, zuverlässiges Signal in Istanbul
-  & Kappadokien.
-date: '2026-05-21'
+title: "Türkei eSIM-Leitfaden | Turkcell, Vodafone oder Turk Telekom?"
+description: "Roami vergleicht türkische Anbieter für Reise-eSIM. 5G in Istanbul, Ankara und landesweit. Finden Sie das schnellste Netz."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Türkei, Prepaid Daten, 5G Netz, Roaming, Hotspot Tethering, Türkei
   Reise eSIM, Vodafone Türkei, Turkcell, Türk Telekom
 site_name: Roami

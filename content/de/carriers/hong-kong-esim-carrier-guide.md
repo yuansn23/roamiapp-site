@@ -1,9 +1,7 @@
 ---
-title: Prepaid Hongkong eSIM mit unbegrenztem Datenvolumen (CSL & 3)
-description: Sofort verbinden in Hongkong. Prepaid-eSIM mit unbegrenztem Datenvolumen
-  auf CSL & 3 HK. Perfekt für Geschäftsreisen. Behalten Sie Ihre originale Nummer
-  bei lokaler Datennutzung.
-date: '2026-05-21'
+title: "Hongkong eSIM-Leitfaden | CMHK, CSL, 3 oder SmarTone?"
+description: "Roami testet alle vier HK-Anbieter für Reise-eSIM. Dichte städtische 5G-Analyse. Welches Netz gibt Ihnen die schnellsten Daten?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Hongkong, Prepaid Daten, 5G Netz, China Mobile Hong Kong, Netvigator,
   Reise eSIM
 site_name: Roami

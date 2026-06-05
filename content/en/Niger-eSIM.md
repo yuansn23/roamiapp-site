@@ -1,6 +1,6 @@
 ---
 title: Niger eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:53:44+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Niger Prepaid eSIM |Best 5G High-Speed Network |20% Off |Roami
-  description: Reliable mobile data with Roami eSIM for Niger on Airtel & Moov. Instant
-    activation via email, no physical card needed. Use ROAMI20 for 20% discount.
+  title: "Niger eSIM | Fast 5G Nationwide"
+  description: "Stay connected in Niger with Roami eSIM. Fast 5G nationwide. Instant activation. Unlimited data from $1.99."
   keywords: Niger eSIM, prepaid eSIM, unlimited data, travel internet, Roami
   low_price: 1.99
   high_price: 39.9

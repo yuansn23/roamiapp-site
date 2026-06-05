@@ -1,8 +1,8 @@
 ---
-title: "Termini di servizio di Roami | Il tuo accordo sull'utilizzo globale delle eSIM"
-description: "Leggi i termini di servizio per l'utilizzo delle soluzioni di connettività eSIM globale di Roami."
+title: "Condizioni di Servizio | Accordo di Utilizzo eSIM"
+description: "Consulta i termini Roami per l'uso di eSIM in oltre 200 paesi. Copre utilizzo corretto, regole dell'account e idoneità al rimborso."
 last_updated: "Maggio 2026"
-date: '2026-06-01T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 layout: "terms"
 type: "page"
 ---

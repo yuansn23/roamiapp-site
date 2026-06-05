@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Nouvelle-Zélande | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:58+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Nouvelle-Zélande | 5G native & données illimitées | Roami
-  description: Vous voyagez en Nouvelle-Zélande ? Roami offre des données équitables
-    sur la 5G native fiable du meilleur opérateur local. Parfait pour les voyages
-    d'affaires, offrant des données illimitées et l'itinérance multi-pays.
+  title: "eSIM Nouvelle-Zélande | -20 %, 5G fiable"
+  description: "Road-trip en Nouvelle-Zélande avec l'eSIM Roami. 5G fiable sur les deux îles. Configuration instantanée. Données illimitées pour tout votre voyage."
   keywords: eSIM Nouvelle-Zélande, forfait mobile Nouvelle-Zélande, internet voyage
     Nouvelle-Zélande, couverture réseau Nouvelle-Zélande, connexion 4G/5G Nouvelle-Zélande
 order_summary:

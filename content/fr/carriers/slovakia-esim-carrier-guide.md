@@ -1,8 +1,7 @@
 ---
-title: eSIM prépayée Slovaquie avec données illimitées (Slovak Telekom & Orange)
-description: Prêt pour les Hautes Tatras. eSIM prépayée Slovaquie avec données illimitées.
-  Code QR instantané, parfait pour explorer Bratislava et au-delà.
-date: '2026-05-21'
+title: "Guide eSIM Slovaquie | Orange, Telekom ou O2 ?"
+description: "Roami compare les opérateurs slovaques pour l'eSIM de voyage. 5G à Bratislava et dans tout le pays. Trouvez le meilleur réseau."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Slovaquie, données prépayées, réseau 5G, Telekom, Orange, 4ka, guide
   voyage, Roami
 site_name: Roami

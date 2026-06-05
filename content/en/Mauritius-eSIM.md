@@ -1,6 +1,6 @@
 ---
 title: Mauritius eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-21T06:54:02+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Mauritius Prepaid eSIM |Best 5G High-Speed |20% Off Code |Roami
-  description: Fast and stable connectivity with Roami Mauritius eSIM on My.t & Emtel.
-    Instant activation via email, no physical SIM required. Save 20% with code ROAMI20.
+  title: "Mauritius eSIM | Fast 5G Island-Wide"
+  description: "Relax in Mauritius with Roami eSIM. Fast 5G across the island. Instant activation. Unlimited data for your beach holiday."
   keywords: Mauritius eSIM, prepaid eSIM Mauritius, best eSIM for Mauritius, cheap
     eSIM Mauritius, travel internet Mauritius
   low_price: 1.99

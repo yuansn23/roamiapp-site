@@ -1,6 +1,6 @@
 ---
 title: eSIM Lussemburgo Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:50+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM da viaggio Lussemburgo |Rete 5G affidabile
-  description: Prossimo viaggio in Lussemburgo? Roami offre dati illimitati su rete
-    5G stabile da operatori locali affidabili. Copertura seamless e dati illimitati
-    – perfetto per viaggi leggeri.
+  title: "eSIM Lussemburgo | 5G Veloce in Tutto il Paese"
+  description: "Rimani connesso in Lussemburgo con Roami eSIM. 5G veloce in tutto il paese. Attivazione immediata. Dati illimitati."
   keywords: eSIM Lussemburgo, dati mobili Lussemburgo, internet viaggio Lussemburgo,
     roaming Lussemburgo, connettività Lussemburgo
 order_summary:

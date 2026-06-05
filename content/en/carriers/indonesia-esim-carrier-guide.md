@@ -1,8 +1,7 @@
 ---
-title: Prepaid Indonesia eSIM with Unlimited Data (Telkomsel)
-description: Best prepaid eSIM for Bali & Jakarta. Unlimited data on Telkomsel's network.
-  Instant delivery, no registration headache. Stay connected across Indonesian islands.
-date: '2026-05-21'
+title: "Indonesia eSIM Guide | Telkomsel, XL or Indosat?"
+description: "Roami compares Indonesia's carriers for travel eSIM. 5G in Bali, Jakarta & across the islands. Best for travelers."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Indonesien, prepaid data, 5G network, Telkomsel, XL, IM3 Ooredoo, travel
   eSIM, roaming free
 site_name: Roami

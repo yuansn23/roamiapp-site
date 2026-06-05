@@ -1,8 +1,7 @@
 ---
-title: Prepaid Albania eSIM with Unlimited Data (Vodafone & One)
-description: Discover the Albanian Riviera. Prepaid Albania eSIM with unlimited data.
-  Instant QR code, works on Vodafone's network. No local ID needed.
-date: '2026-05-21'
+title: "Albania eSIM Guide | Vodafone, One or ALBtelecom?"
+description: "Roami compares Albania's carriers for travel eSIM. 5G from Tirana to the coast. Find the fastest network."
+date: '2026-06-04T00:00:00+00:00'
 keywords: Albania eSIM, keep primary number active, Vodafone Albania, Telekom Albania,
   Blue Eye Spring, no roaming fees, eSIM compatibility, travel eSIM, Albania travel
   guide

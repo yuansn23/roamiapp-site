@@ -1,6 +1,6 @@
 ---
 title: eSIM Mauritius Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:46:29+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM Mauritius | Dati 5G illimitati per viaggi
-  description: Pianifichi una vacanza a Mauritius? Con Roami, goditi 5G e dati illimitati
-    dai migliori operatori locali. Connessione stabile, nessuna SIM fisica – perfetto
-    per famiglie.
+  title: "eSIM Mauritius | 5G Veloce su Tutta l'Isola"
+  description: "Rilassati a Mauritius con Roami eSIM. 5G veloce su tutta l'isola. Attivazione immediata. Dati illimitati per la tua vacanza al mare."
   keywords: eSIM Mauritius, viaggio Mauritius, copertura rete Mauritius, roaming Mauritius,
     internet Mauritius
 order_summary:

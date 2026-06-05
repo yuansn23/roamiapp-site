@@ -1,6 +1,6 @@
 ---
 title: Algerien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:40+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Beste Algerien eSIM | Schnelle 5G Touristen-Daten | Roami
-  description: Besuchen Sie bald Algerien? Bleiben Sie mühelos online mit einer digitalen
-    SIM-Karte von Roami. Genießen Sie schnellen lokalen 5G-Internetzugang und unbegrenzte
-    Reisedaten ohne unerwarteten Roaming-Schock.
+  title: "Algerien eSIM | Zuverlässiges 5G landesweit"
+  description: "Entdecken Sie Algerien mit Roami eSIM. Zuverlässiges 5G landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten ab 1,99 $."
   keywords: Algerien eSIM, mobile Daten Algerien, Reise eSIM Algerien, günstige eSIM
     Algerien, Internet Algerien
 order_summary:

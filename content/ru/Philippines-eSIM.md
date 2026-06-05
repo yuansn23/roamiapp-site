@@ -1,6 +1,6 @@
 ---
 title: Филиппины eSIM тариф | eSIM Филиппины | Roami
-date: '2026-05-26T05:05:09+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Наш eSIM-сервис обновлён до <strong>PhoneSIM</strong>.<br>Новые клиенты получают 20% скидку с кодом: web20
 seo:
-  title: eSIM Филиппины | Высокоскоростной 5G для россиян| Roami
-  description: eSIM Roami на 20% дешевле Trip. 5G от местного оператора, без физической SIM. Роуминг по странам для всей семьи.
+  title: "eSIM Филиппины | СКИДКА 20%, надежный 5G"
+  description: "Исследуйте Филиппины с Roami eSIM. Надежный 5G в Маниле, Себу и на крупных островах. Мгновенная активация по QR. Безлимитные данные."
   keywords: eSIM Филиппины, мобильный интернет Филиппины, туристическая eSIM, связь
     на Филиппинах, интернет в Маниле, сеть Globe, Smart Communications
 order_summary:

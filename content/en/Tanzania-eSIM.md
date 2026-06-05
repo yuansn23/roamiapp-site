@@ -1,6 +1,6 @@
 ---
 title: Tanzania eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Tanzania eSIM |20% OFF| Reliable 5G for Family Vacations |Roami
-  description: Heading to Tanzania soon? Get Roami's Zero-Lag 5G on Top Local Carrier
-    with 24/7 Data. Ideal for Visiting Family. Enjoy Unlimited Data with Multi-Country
-    Roaming.
+  title: "Tanzania eSIM | Fast 5G, Unlimited Data Plans"
+  description: "Explore Tanzania with Roami eSIM. Fast 5G in Dar es Salaam, Zanzibar & nationwide. Instant activation. Unlimited data."
   keywords: Tanzania eSIM, prepaid eSIM Tanzania, cheap eSIM Tanzania, travel internet
     Tanzania, eSIM for tourists
   low_price: 1.99

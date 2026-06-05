@@ -1,6 +1,6 @@
 ---
 title: Zypern eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:51:12+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Zypern eSIM Plan | Lokaler Top-Betreiber Hochgeschwindigkeits-5G | 20% RABATT
-    | Roami
-  description: Internet in Zypern nötig? Roami bietet keinen Roaming-Schock auf dem
-    zuverlässigen lokalen Top-Betreiber mit schnellem 5G. Genießen Sie unbegrenzte
-    Daten und nahtlose Abdeckung – maßgeschneidert für Familienbesuche.
+  title: "Zypern eSIM | Zuverlässiges 5G auf der ganzen Insel"
+  description: "Bleiben Sie in Zypern mit Roami eSIM verbunden. Zuverlässiges 5G auf der ganzen Insel. Sofortige Aktivierung. Unbegrenzte Daten ab 1,99 $."
   keywords: Zypern eSIM, mobiles Internet Zypern, Reise eSIM Zypern, Daten eSIM Zypern,
     günstige eSIM Zypern
 order_summary:

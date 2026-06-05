@@ -1,9 +1,7 @@
 ---
-title: eSIM prépayée Colombie avec données illimitées (Claro & Tigo)
-description: Voyages sûrs à Medellín et Bogotá. eSIM prépayée Colombie avec données
-  illimitées. Activation instantanée, fonctionne sur le vaste réseau Claro. Aucune
-  ID espagnole requise.
-date: '2026-05-21'
+title: "Guide eSIM Colombie | Claro, Movistar ou Tigo ?"
+description: "Roami compare les opérateurs colombiens pour l'eSIM de voyage. 5G de Bogota à Carthagène. Trouvez le réseau le plus rapide."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Colombie, données prépayées, réseau 5G, Claro, Movistar, Tigo, forfait
   voyage, données illimitées
 site_name: Roami

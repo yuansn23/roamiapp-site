@@ -1,8 +1,7 @@
 ---
-title: Prepaid Israel eSIM with Unlimited Data (Pelephone & Partner)
-description: Fast prepaid eSIM for Israel. Unlimited data on Pelephone & Partner networks.
-  Instant delivery, no kiosk lines. Perfect for tech-savvy travelers.
-date: '2026-05-21'
+title: "Israel eSIM Guide | Pelephone, Cellcom or Partner?"
+description: "Roami compares Israel's carriers for travel eSIM. 5G from Tel Aviv to Jerusalem. Find the fastest network."
+date: '2026-06-04T00:00:00+00:00'
 keywords: Israel eSIM, travel eSIM Israel, Cellcom eSIM, Partner eSIM, Israel mobile
   data, eSIM for tourists Israel, avoid roaming fees Israel, instant eSIM Israel,
   Dead Sea eSIM, Jerusalem eSIM

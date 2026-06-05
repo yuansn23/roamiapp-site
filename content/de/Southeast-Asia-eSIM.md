@@ -1,6 +1,6 @@
 ---
 title: Southeast Asia eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-08T14:41:24+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: web20
 seo:
-  title: Southeast Asia eSIM - Günstige Daten für Thailand, Vietnam & mehr - Roami
-  description: Entdecken Sie unsere Southeast Asia eSIM mit sofortiger Lieferung,
-    kein Roaming. Mobiles Internet in Singapur, Malaysia, Indonesien. QR-Code Aktivierung
-    für nahtloses Reisen. Jetzt kaufen!
+  title: "Südostasien eSIM | 10 Länder, 20% RABATT"
+  description: "Hüpfen Sie durch Südostasien mit einer Roami eSIM. 5G in Thailand, Vietnam, Malaysia und 7 weiteren Ländern. Keine Grenzgebühren. Sofortiger QR."
   keywords: Southeast Asia eSIM, günstige eSIM, unbegrenzte Daten, Reise eSIM, Asien,
     sofortige Lieferung, QR-Code Aktivierung
   low_price: 1.99

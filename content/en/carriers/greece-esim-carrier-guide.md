@@ -1,8 +1,7 @@
 ---
-title: Prepaid Greece eSIM with Unlimited Data (Cosmote & Vodafone)
-description: Island hopping made easy. Prepaid Greece eSIM with unlimited data. Works
-  on Santorini & Mykonos. Instant activation, no physical SIM.
-date: '2026-05-21'
+title: "Greece eSIM Guide | Cosmote, Vodafone or Nova?"
+description: "Roami compares Greece's carriers for travel eSIM. 5G from Athens to the islands. Which keeps you connected best?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Griechenland, prepaid data, 5G network, Cosmote, Vodafone, travel eSIM
 site_name: Roami
 brand_name: Roami

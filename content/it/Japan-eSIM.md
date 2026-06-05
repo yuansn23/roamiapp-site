@@ -1,6 +1,6 @@
 ---
 title: eSIM Giappone Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:37+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM Giappone |Dati 5G ad alta velocità
-  description: In viaggio in Giappone? Resta connesso con au, 5G completo e dati 24/7.
-    Ideale per viaggi d'affari, dati illimitati e cambio automatico di rete.
+  title: "eSIM Giappone | Risparmia il 20%, Dati 5G Illimitati"
+  description: "Rimani connesso in tutto il Giappone con Roami eSIM. 5G veloce, dati illimitati, attivazione QR immediata da 1,99 $."
   keywords: eSIM Giappone, viaggio Giappone, Internet Giappone, copertura mobile Giappone,
     turismo Giappone
 order_summary:

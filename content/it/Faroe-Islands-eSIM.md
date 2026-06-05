@@ -1,6 +1,6 @@
 ---
 title: eSIM Isole Fær Øer Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:03:26+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: eSIM Isole Fær Øer | Dati 5G a bassa latenza per viaggi
-  description: Pianifichi un viaggio alle Isole Fær Øer? Resta connesso con eSIM prepagata
-    Roami. Goditi 5G stabile da operatori top locali, configurazione QR immediata,
-    zero roaming.
+  title: "eSIM Isole Fær Øer | 5G Affidabile su 18 Isole"
+  description: "Esplora le Fær Øer con Roami eSIM. 5G affidabile su tutte le 18 isole. Attivazione QR immediata. Dati illimitati."
   keywords: eSIM Isole Fær Øer, viaggio Fær Øer, internet Fær Øer, roaming Fær Øer,
     rete mobile Fær Øer
 order_summary:

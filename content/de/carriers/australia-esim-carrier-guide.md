@@ -1,9 +1,7 @@
 ---
-title: Prepaid Australien eSIM mit unbegrenztem Datenvolumen (Telstra & Optus)
-description: Bleiben Sie online von Sydney bis ins Outback. Prepaid-eSIM mit unbegrenztem
-  Datenvolumen auf Telstra & Optus. Keine physische SIM benötigt. Ideal für Rucksacktouristen
-  & Kurzbesuche.
-date: '2026-05-21'
+title: "Australien eSIM-Leitfaden | Telstra, Optus oder Vodafone?"
+description: "Roami vergleicht australische Anbieter für Reise-eSIM. 5G von Sydney bis Perth. Geschwindigkeitsdaten für Stadt- und Outback-Reisende."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Australien, Prepaid Daten, 5G Netz, Optus, Telstra, Vodafone, Reise
   eSIM, Roami
 site_name: Roami

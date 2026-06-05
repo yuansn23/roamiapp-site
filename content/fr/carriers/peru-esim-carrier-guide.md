@@ -1,9 +1,7 @@
 ---
-title: eSIM prépayée Pérou avec données illimitées (Claro & Movistar)
-description: Restez connecté sur le Chemin de l'Inca. eSIM prépayée Pérou avec données
-  illimitées. Service fiable à Cusco et au Machu Picchu. Code QR instantané envoyé
-  par e-mail.
-date: '2026-05-21'
+title: "Guide eSIM Pérou | Movistar, Claro ou Entel ?"
+description: "Roami compare les opérateurs péruviens pour l'eSIM de voyage. 5G de Lima à Cusco. Lequel vous offre la meilleure couverture ?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Pérou, données prépayées, réseau 5G, Claro, Entel, voyage d'affaires,
   couverture mobile Pérou
 site_name: Roami

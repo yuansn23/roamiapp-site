@@ -1,6 +1,6 @@
 ---
 title: Armenien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:52:45+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Armenien eSIM | 20% RABATT | Hochgeschwindigkeits-5G Reisedaten | Roami
-  description: Brauchen Sie eine zuverlässige Verbindung in Armenien? Roami bietet
-    eine digitale SIM ohne Roaming-Schock mit nahtloser lokaler 5G-Abdeckung. Erhalten
-    Sie unbegrenzte Prepaid-Internetzugänge, perfekt zugeschnitten für leichte Reisen
-    und Tourismus.
+  title: "Armenien eSIM | Zuverlässiges 5G landesweit"
+  description: "Entdecken Sie Armenien mit Roami eSIM. Zuverlässiges 5G landesweit. Sofortige Aktivierung. Unbegrenzte Datentarife. Keine Roaming-Gebühren."
   keywords: Armenien eSIM, mobiles Internet Armenien, Reise eSIM Armenien, günstige
     eSIM Armenien, Daten eSIM Armenien
 order_summary:

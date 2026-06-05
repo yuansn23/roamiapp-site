@@ -1,6 +1,6 @@
 ---
 title: Guam eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Buy Guam eSIM | Transparent 5G Data | Instant QR Setup | Roami
-  description: Planning a trip to Guam? Experience Fair Use Data and seamless Native
-    5G from Top Local Carrier. Enjoy Auto-Connect and Nationwide Coverage, tailored
-    for Family Vacations.
+  title: "Guam eSIM | Fast 5G Island-Wide"
+  description: "Stay connected in Guam with Roami eSIM. Fast 5G across the island. Instant QR activation. Unlimited data for your stay."
   keywords: Guam eSIM, Guam travel internet, instant eSIM, no roaming charges, hotspot
     eSIM, DOCOMO Pacific, IT&E, GTA
   low_price: 1.99

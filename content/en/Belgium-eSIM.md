@@ -1,6 +1,6 @@
 ---
 title: Belgium eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Belgium eSIM Plan | Top Local Carrier Fast 5G | Roami
-  description: Need internet in Belgium? Enjoy Top Local Carrier Stable 5G and High-Speed
-    Data with Roami. With Auto Network Switch and 24/7 Support, it's perfect for Light
-    Travel.
+  title: "Belgium eSIM | Save 20%, Fast 5G"
+  description: "Stay connected in Belgium with Roami eSIM. Fast 5G in Brussels, Bruges & nationwide. Instant QR activation. Unlimited data."
   keywords: Belgium eSIM, cheap Belgium eSIM, Proximus eSIM, Orange Belgium eSIM,
     travel internet Belgium, eSIM with instant delivery
   low_price: 1.99

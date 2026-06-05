@@ -1,9 +1,7 @@
 ---
-title: Prepaid Japan eSIM mit unbegrenztem Datenvolumen (Docomo & SoftBank)
-description: Genießen Sie Highspeed-Internet in Tokio & Osaka. Prepaid Japan eSIM
-  nutzt NTT Docomo & SoftBank. Unbegrenztes Datenvolumen für Touristen & Auswanderer.
-  Schnelle Aktivierung, behalten Sie Ihr WhatsApp.
-date: '2026-05-21'
+title: "Japan eSIM-Leitfaden | Docomo, SoftBank oder KDDI?"
+description: "Roami vergleicht Docomo, SoftBank und KDDI 5G für Japan eSIM. Abdeckung in Tokio, Osaka und ländlichen Gebieten. Wählen Sie den besten aus."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Japan, Prepaid Daten, 5G Netz, Rakuten Mobile, SoftBank, NTT DoCoMo,
   Roami eSIM, Reise-eSIM Japan, mobiles Internet Japan
 site_name: Roami

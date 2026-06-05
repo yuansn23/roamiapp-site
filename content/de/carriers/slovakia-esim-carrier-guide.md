@@ -1,8 +1,7 @@
 ---
-title: Prepaid Slowakei eSIM mit unbegrenztem Datenvolumen (Slovak Telekom & Orange)
-description: Hohe Tatra bereit. Prepaid Slowakei eSIM mit unbegrenztem Datenvolumen.
-  Sofortiger QR-Code, perfekt zum Erkunden von Bratislava & darüber hinaus.
-date: '2026-05-21'
+title: "Slowakei eSIM-Leitfaden | Orange, Telekom oder O2?"
+description: "Roami vergleicht die slowakischen Anbieter für Reise-eSIM. 5G in Bratislava und landesweit. Finden Sie das beste Netz."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Slowakei, Prepaid Daten, 5G Netz, Telekom, Orange, 4ka, Roami eSIM,
   Reise Internet
 site_name: Roami

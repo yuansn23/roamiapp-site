@@ -1,6 +1,6 @@
 ---
 title: eSIM Kenya Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:02:49+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: 'Acquista eSIM Kenya | Dati 5G ad alta velocità '
-  description: Esplora il Kenya senza sforzo. Sperimenta dati senza pensieri e 5G
-    a bassa latenza seamless con operatori top locali. Ideale per nomadi digitali,
-    dati illimitati e migliore rete locale.
+  title: "eSIM Kenya | 5G Affidabile, Piani Dati Illimitati"
+  description: "Rimani connesso in Kenya con Roami eSIM. 5G affidabile a Nairobi, Mombasa e in tutta la nazione. Attivazione QR immediata. Dati illimitati."
   keywords: eSIM Kenya, viaggio Kenya, copertura mobile Kenya, internet Kenya, safari
     Kenya, Mombasa, Nairobi, roaming Kenya
 order_summary:

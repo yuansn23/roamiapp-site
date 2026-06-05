@@ -1,6 +1,6 @@
 ---
 title: Sud-est asiatico eSIM Tariffa Dati | Migliore eSIM da viaggio 2026 | Roami
-date: '2026-06-01T14:41:24+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con il codice: web20
 seo:
-  title: eSIM per il Sud-est asiatico - Dati di viaggio 5G illimitati
-  description: Scopri la nostra eSIM per il Sud-est asiatico con consegna immediata, niente roaming. Internet mobile a Singapore, Malesia, Indonesia. Attivazione con codice QR per viaggi senza problemi. Acquista ora!
+  title: "eSIM Sud-est Asiatico | 10 Paesi, 20% DI SCONTO"
+  description: "Salta da un paese all'altro del Sud-est asiatico con una sola eSIM Roami. 5G in Thailandia, Vietnam, Malesia e altri 7 paesi. Nessuna tariffa di confine. QR immediato."
   keywords: Sud-est asiatico eSIM, eSIM conveniente, dati illimitati, eSIM da viaggio, Asia, consegna immediata, attivazione QR code
   low_price: 1.99
   high_price: 39.9

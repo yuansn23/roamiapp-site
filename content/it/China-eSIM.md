@@ -1,6 +1,6 @@
 ---
 title: eSIM Cina Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:02:55+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: 'Miglior eSIM Cina | Dati 5G illimitati per viaggi '
-  description: Pianifichi un viaggio in Cina? Ottieni 5G seamless China Mobile senza
-    shock da roaming con Roami. Copertura seamless e zero contratti – perfetto per
-    famiglie in viaggio.
+  title: "eSIM Cina | 20% DI SCONTO, Nessuna VPN Necessaria"
+  description: "Rimani connesso in Cina con Roami eSIM. 5G veloce sulle reti locali, nessuna VPN richiesta. Attivazione immediata. Funziona in tutte le principali"
   keywords: eSIM Cina, internet mobile Cina, viaggio in Cina, roaming Cina, connettività
     Cina
 order_summary:

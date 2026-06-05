@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Liechtenstein | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:14:29+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Liechtenstein | 5G toujours activée & données illimitées | Roami
-  description: Vous voyagez au Liechtenstein ? Profitez de la 5G toujours activée
-    du meilleur opérateur local et de données transparentes avec Roami. Parfait pour
-    les nomades numériques, offrant des données illimitées et l'itinérance multi-pays.
+  title: "eSIM Liechtenstein | 5G rapide dans tout le pays"
+  description: "Visitez le Liechtenstein avec l'eSIM Roami. 5G rapide dans la principauté. Activation instantanée. Données illimitées."
   keywords: eSIM Liechtenstein, forfait data Liechtenstein, voyage Liechtenstein,
     internet mobile Liechtenstein, carte eSIM Liechtenstein
 order_summary:

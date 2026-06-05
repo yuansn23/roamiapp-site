@@ -1,9 +1,7 @@
 ---
-title: Prepaid UK eSIM with Unlimited Data (o2,EE & Vodafone)
-description: Get fast 5G connectivity in England, Scotland & Wales. Prepaid UK eSIM
-  with unlimited data on EE & Vodafone. Instant delivery via email. No contracts,
-  cancel anytime.
-date: '2026-05-21'
+title: "UK eSIM Guide | EE, Vodafone, O2 or Three?"
+description: "Roami compares all four UK networks for travel eSIM. 5G speeds & coverage across Britain. Pick the right carrier."
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Großbritannien, prepaid data, 5G network, UK eSIM, travel eSIM, digital
   nomad UK
 site_name: Roami

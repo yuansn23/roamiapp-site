@@ -1,8 +1,7 @@
 ---
-title: Prepaid Latvia eSIM with Unlimited Data (LMT & Tele2)
-description: Baltic business ready. Prepaid Latvia eSIM with unlimited data. Instant
-  QR code, works in Riga & Jurmala.
-date: '2026-05-21'
+title: "Latvia eSIM Guide | LMT, Tele2 or Bite?"
+description: "Roami compares Latvia's carriers for travel eSIM. 5G from Riga to the Baltic coast. Which is most reliable?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: Latvia eSIM, buy Latvia eSIM, instant connectivity, LMT Latvia, Tele2 Latvia,
   Riga Old Town, avoid roaming fees, travel eSIM, Baltic travel
 site_name: Roami

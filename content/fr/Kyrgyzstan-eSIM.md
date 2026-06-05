@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Kirghizistan | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:15:10+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Kirghizistan | Vraie 5G & sans frais d'itinérance | Roami
-  description: Vous bientôt au Kirghizistan ? Obtenez la vraie 5G de Roami sur le
-    meilleur opérateur local avec des données haut débit. Parfait pour les voyages
-    d'affaires, offrant l'absence de frais d'itinérance et l'itinérance multi-pays.
+  title: "eSIM Kirghizistan | 5G fiable dans tout le pays"
+  description: "Restez connecté au Kirghizistan avec l'eSIM Roami. 5G fiable dans tout le pays. Activation instantanée. Données illimitées. Aucun contrat."
   keywords: eSIM Kirghizistan, forfait data Kirghizistan, internet mobile Kirghizistan,
     voyage Kirghizistan, connexion réseau Kirghizistan
 order_summary:

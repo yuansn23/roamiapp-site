@@ -1,6 +1,6 @@
 ---
 title: Brasilien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:53:23+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Top Brasilien eSIM | Keine versteckten Gebühren | Unbegrenzte Daten | Roami
-  description: Reisen Sie nach Brasilien? Holen Sie sich Roamis stabiles 5G auf TIM
-    ohne Roaming-Schock. Perfekt für Familienurlaube – null Verträge und bestes lokales
-    Netzwerk.
+  title: "Brasilien eSIM | 20% RABATT, unbegrenzte 5G-Daten"
+  description: "Reisen Sie durch Brasilien mit Roami eSIM. Schnelles 5G in Rio, São Paulo und landesweit. Sofortige Aktivierung. Unbegrenzte Daten. Kein Vertrag."
   keywords:
   - eSIM Brasilien
   - Reise Brasilien eSIM

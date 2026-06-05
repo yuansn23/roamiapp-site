@@ -1,8 +1,7 @@
 ---
-title: eSIM prépayée Grèce avec données illimitées (Cosmote & Vodafone)
-description: Saut d'îles facilité. eSIM prépayée Grèce avec données illimitées. Fonctionne
-  à Santorin et Mykonos. Activation instantanée, pas de SIM physique.
-date: '2026-05-21'
+title: "Guide eSIM Grèce | Cosmote, Vodafone ou Nova ?"
+description: "Roami compare les opérateurs grecs pour l'eSIM de voyage. 5G d'Athènes aux îles. Lequel vous maintient le mieux connecté ?"
+date: '2026-06-04T00:00:00+00:00'
 keywords: eSIM Grèce, données prépayées, réseau 5G, Cosmote, Vodafone, Speedtest,
   voyage Grèce, itinérance
 site_name: Roami

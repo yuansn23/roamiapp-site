@@ -1,11 +1,11 @@
 ---
 title: "Ottieni eSIM gratuita | Prova dati di viaggio globali"
-date: '2026-05-18T08:51:42+00:00'
+date: '2026-06-04T08:51:42+00:00'
 layout: "free-esim-list"
 
 seo:
-  title: "eSIM gratuita | Nessuna carta di credito richiesta | Nessun costo di roaming | Roami"
-  description: "Ottieni subito la tua eSIM gratuita e prova una connettività Internet senza soluzione di continuità in tutto il mondo. Include piani dati gratuiti per destinazioni top come Giappone, Thailandia, USA ed Europa. Nessuna carta di credito richiesta, attivazione in 3 semplici passaggi."
+  title: "eSIM gratuita | Nessuna carta di credito richiesta"
+  description: "Prova Roami eSIM senza rischi. Dati gratuiti di prova per USA, Giappone, Regno Unito ed Europa. Nessuna carta di credito. Attiva in 3 passaggi."
   keywords: "eSIM gratuita, eSIM da viaggio, piano dati internazionale, zero costi di roaming, SIM digitale, Internet globale, eSIM prepagata, eSIM con codice QR"
   canonical_url: "/free-esim/"
   og_image: "/img/og-free-esim.jpg"

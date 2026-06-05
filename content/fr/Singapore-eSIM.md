@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Singapour | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:13:33+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Singapour | 5G transparente Singtel | 20% DE RÉDUCTION | Roami
-  description: Besoin d'Internet à Singapour ? Découvrez l'absence de choc de roaming
-    et une 5G transparente transparente de Singtel. Avec une connexion stable et l'absence
-    de SIM physique, c'est parfait pour les voyages légers.
+  title: "eSIM Singapour | -20 %, 5G ultra-rapide"
+  description: "Restez en ligne à Singapour avec l'eSIM Roami. 5G ultra-rapide sur toute l'île. Activation instantanée par QR. Pour les voyageurs d'affaires et de loisirs."
   keywords: eSIM Singapour, internet mobile Singapour, voyage Singapour, carte eSIM,
     données mobiles Singapour
 order_summary:

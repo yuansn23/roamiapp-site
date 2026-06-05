@@ -1,6 +1,6 @@
 ---
 title: Fidschi eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-05-11T08:51:46+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: Beste Fidschi eSIM | 24/7 Daten & Hochgeschwindigkeits-5G | 20% RABATT |
-    Roami
-  description: Bald in Fidschi? Genießen Sie lokalen Top-Betreiber mit vollem 5G und
-    sorgenfreien Daten mit Roami. Bietet automatischen Netzwerkwechsel und keine versteckten
-    Gebühren – ideal für Familienurlaube.
+  title: "Fidschi eSIM | Schnelles 5G auf allen Inseln"
+  description: "Besuchen Sie Fidschi mit Roami eSIM. Schnelles 5G auf Viti Levu und äußeren Inseln. Sofortige Aktivierung. Unbegrenzte Daten für Ihre Pazifikreise."
   keywords: Fidschi eSIM, Reisen Fidschi, mobiles Internet Fidschi, eSIM Fidschi,
     Urlaub Fidschi, Inseln Fidschi, Datenpaket Fidschi
 order_summary:

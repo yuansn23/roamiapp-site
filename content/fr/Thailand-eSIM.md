@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Thaïlande | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:15:11+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Thaïlande | 5G à latence zéro AIS & données illimitées | Roami
-  description: Vous bientôt en Thaïlande ? Obtenez la 5G pleine vitesse de Roami sur
-    True avec des données sans souci. Profitez de données illimitées et d'une couverture
-    transparente, adapté aux visites familiales.
+  title: "eSIM Thaïlande | -20 %, données 5G illimitées"
+  description: "Découvrez la Thaïlande avec l'eSIM Roami. 5G rapide à Bangkok, Phuket et dans tout le pays. Livraison instantanée par QR. Données illimitées pour les voyageurs."
   keywords: eSIM Thaïlande, forfait mobile Thaïlande, internet Thaïlande, voyage Thaïlande,
     carte eSIM Thaïlande
 order_summary:

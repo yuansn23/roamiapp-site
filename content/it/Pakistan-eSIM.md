@@ -1,6 +1,6 @@
 ---
 title: eSIM Pakistan Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:02:49+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: Miglior eSIM Pakistan | Dati illimitati | 20% di sconto
-  description: Esplora il Pakistan senza sforzo. Sperimenta dati trasparenti e 5G
-    nativo seamless con operatori top locali. Ideale per famiglie, connessione automatica
-    e stabile.
+  title: "eSIM Pakistan | 5G Veloce, Nessuna Tariffa di Roaming"
+  description: "Viaggia in Pakistan con Roami eSIM. 5G veloce in tutta la nazione. Attivazione QR immediata. Piani dati illimitati. Nessuna tariffa di roaming."
   keywords: eSIM Pakistan, viaggio Pakistan, copertura rete Pakistan, roaming Pakistan,
     Internet Pakistan
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Colombie | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-05-14T03:15:13+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: eSIM Colombie | Données illimitées & 5G haut débit | 20% DE RÉDUCTION | Roami
-  description: Vous bientôt en Colombie ? Restez connecté via la 5G transparente du
-    meilleur opérateur local avec des données 24/7. Idéal pour les visites familiales.
-    Profitez de l'absence de frais cachés avec l'itinérance multi-pays.
+  title: "eSIM Colombie | Économisez 20 %, 5G fiable"
+  description: "Découvrez la Colombie avec l'eSIM Roami. 5G fiable à Bogota, Medellin et dans tout le pays. Activation instantanée par QR. Données illimitées."
   keywords: eSIM Colombie, données mobiles Colombie, voyage Colombie, internet illimité
     Colombie, couverture réseau Colombie, eSIM tourisme Colombie
 order_summary:

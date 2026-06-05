@@ -1,6 +1,6 @@
 ---
 title: Congo (Kinshasa) eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-05-20T00:00:00+00:00'
+date: '2026-06-04T00:00:00+00:00'
 draft: false
 type: esim
 aliases:
@@ -21,8 +21,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: Congo (Kinshasa) eSIM |20% OFF| High-Speed 5G|Roami
-  description: Traveling to DR Congo for business? Get reliable high-speed data via top local carriers. Instant eSIM activation, wide coverage in Kinshasa & Lubumbashi. Avoid expensive roaming charges today.
+  title: "Congo eSIM | Reliable 5G Nationwide"
+  description: "Visit Congo with Roami eSIM. Reliable 5G in Brazzaville, Pointe-Noire & nationwide. Instant QR activation. Unlimited data."
   keywords: Congo (Kinshasa) eSIM, travel internet Congo, Airtel Congo, MTN Congo, eSIM for Congo,
     instant delivery eSIM
   low_price: 1.99
