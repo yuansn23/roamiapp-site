@@ -30,8 +30,13 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/108547144" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 
 <!-- 🌟 2. 动态 Description 逻辑 -->
-<meta name="description" content="{{- if .Params.seo.description -}}{{- .Params.seo.description -}}{{- else if .Params.description -}}{{- .Params.description -}}{{- else -}}{{- .Site.Params.description -}}{{- end -}}">
-
+<meta name="description" content="{{- if .Params.seo.description -}}
+    {{- .Params.seo.description | safeHTMLAttr -}}
+{{- else if .Params.description -}}
+    {{- .Params.description | safeHTMLAttr -}}
+{{- else -}}
+    {{- .Site.Params.description | safeHTMLAttr -}}
+{{- end -}}">
 <!-- 🌟 3. 动态 Keywords 逻辑 (可选) -->
 {{ if .Params.seo.keywords }}
 <meta name="keywords" content="{{ .Params.seo.keywords }}">
