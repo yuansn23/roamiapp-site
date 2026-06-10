@@ -110,6 +110,51 @@
             box-shadow: 0 8px 20px rgba(0,0,0,0.08);
         }
     </style>
+	
+	<!-- 结构化数据：CollectionPage + ItemList + Article -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": {{ .Params.hero.title | default .Title | jsonify }},
+    "description": {{ .Params.hero.subtitle | default .Site.Params.description | jsonify }},
+    "url": {{ .Permalink | jsonify }},
+    "mainEntity": {
+        "@type": "ItemList",
+        "itemListElement": [
+        {{- $posts := .Params.posts | default slice }}
+        {{- $len := len $posts }}
+        {{- range $idx, $post := $posts }}
+            {{- $postURL := $post.link | absLangURL }}
+            {{- $postDate := time.AsTime $post.date }}
+            {{- $postDateISO := $postDate.Format "2006-01-02T15:04:05-07:00" }}
+            {{- $imageURL := $post.image | absURL }}
+            {
+                "@type": "ListItem",
+                "position": {{ add $idx 1 }},
+                "item": {
+                    "@type": "Article",
+                    "headline": {{ $post.title | jsonify }},
+                    "url": {{ $postURL | jsonify }},
+                    "description": {{ $post.description | jsonify }},
+                    "datePublished": {{ $postDateISO | jsonify }},
+                    "dateModified": {{ $postDateISO | jsonify }},
+                    "author": {
+                        "@type": "Person",
+                        "name": {{ $post.author | default "Unknown" | jsonify }}
+                    },
+                    {{- if $post.image }}
+                    "image": {{ $imageURL | jsonify }},
+                    {{- end }}
+                    "mainEntityOfPage": {{ $postURL | jsonify }}
+                }
+            }{{- if lt $idx (sub $len 1) }},{{- end }}
+        {{- end }}
+        ]
+    }
+}
+</script>
+
 </head>
 <body class="bg-slate-50 text-slate-900 antialiased selection:bg-blue-200 selection:text-blue-900 relative">
 

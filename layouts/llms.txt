@@ -1,39 +1,143 @@
-# Roami eSIM App
+# Roami — Global Travel eSIM
 
 ## Overview
-Roami provides international eSIM data plans for travelers.
+Roami is a global travel eSIM service providing high-speed 5G/4G data in 200+ countries and regions. Plans start at $1.99. No physical SIM card required — instant QR code or app-based activation in under 3 minutes. 24/7 live customer support. iOS and Android apps available. 6 languages supported: English, Deutsch, Русский, Français, 繁體中文, Italiano.
+
+- **Coverage:** 200+ countries and regions
+- **Price range:** $1.99 – $49.99 (varies by data volume and validity)
+- **Discount:** Code **WEB20** for 20% off
+- **Network:** 5G/4G LTE with automatic carrier switching
+- **Activation:** Instant via QR code or app (iOS / Android)
+- **Support:** 24/7 live chat, email (service@roamiapp.com)
+- **Refund:** Full refund if eSIM unused within 6 months
+- **Free trial:** 100MB free eSIM available at /free-esim/
+
+---
 
 ## Key Pages
-- Home: https://www.roamiapp.com/
-- eSIM Plans: https://www.roamiapp.com/plans/
-- FAQ: https://www.roamiapp.com/faq/
-- How It Works: https://www.roamiapp.com/how-it-works/
-- Free eSIM: https://www.roamiapp.com/free-esim/
-- How It Works: https://www.roamiapp.com/how-it-works/
-- eSIM compatibility: https://www.roamiapp.com/compatibility/
-- Transfer eSIM: https://www.roamiapp.com/faq/how-to-transfer-esim-between-iphone-and-android/
-- Activate eSIM: https://www.roamiapp.com/faq/how-to-activate-an-esim/
-- Dual eSIM: https://www.roamiapp.com/faq/dual-esim-not-working-12-fixes-for-iphone/
+- **Home:** https://www.roamiapp.com/ — Main landing page. Overview of global eSIM service, top destinations, and how it works.
+- **All eSIM Plans:** https://www.roamiapp.com/plans/ — Complete catalog of eSIM plans across all countries with data volumes, validity periods, and pricing.
+- **Free eSIM (100MB Trial):** https://www.roamiapp.com/free-esim/ — Free 100MB trial eSIM for 200+ destinations. Risk-free way to test the service before purchasing.
+- **eSIM Compatibility Check:** https://www.roamiapp.com/compatibility/ — Check if your phone supports eSIM. Covers iPhone, Samsung, Google Pixel, Huawei, Xiaomi, and other major brands.
+- **How It Works:** https://www.roamiapp.com/how-it-works/ — Step-by-step activation guide: download app → choose plan → scan QR → connected.
+- **FAQ:** https://www.roamiapp.com/faq/ — Frequently asked questions about activation, data usage, dual SIM, refunds, and troubleshooting.
 
-## Popular Destinations (eSIM coverage)
-- Japan: https://www.roamiapp.com/japan-esim/
-- United States: https://www.roamiapp.com/united-states-esim/
-- France: https://www.roamiapp.com/france-esim/
-- United Kingdom: https://www.roamiapp.com/united-kingdom-esim/
-- Italy: https://www.roamiapp.com/italy-esim/
-- Spain: https://www.roamiapp.com/spain-esim/
-- Thailand: https://www.roamiapp.com/thailand-esim/
-- South Korea: https://www.roamiapp.com/south-korea-esim/
-- Germany: https://www.roamiapp.com/germany-esim/
-- Vietnam: https://www.roamiapp.com/vietnam-esim/
-- Indonesia: https://www.roamiapp.com/indonesia-esim/
-- Turkey: https://www.roamiapp.com/turkey-esim/
-- Mexico: https://www.roamiapp.com/mexico-esim/
-- China: https://www.roamiapp.com/china-esim/
-- Switzerland: https://www.roamiapp.com/switzerland-esim/
-- Australia: https://www.roamiapp.com/australia-esim/
-- Netherlands: https://www.roamiapp.com/netherlands-esim/
-- Canada: https://www.roamiapp.com/canada-esim/
-- Greece: https://www.roamiapp.com/greece-esim/
-- Portugal: https://www.roamiapp.com/portugal-esim/
-- Malaysia: https://www.roamiapp.com/malaysia-esim/
+### Support & Troubleshooting
+- **Activate eSIM:** https://www.roamiapp.com/faq/how-to-activate-an-esim/ — Step-by-step eSIM activation for iPhone and Android.
+- **Transfer eSIM Between Phones:** https://www.roamiapp.com/faq/how-to-transfer-esim-between-iphone-and-android/ — Guide for moving eSIM from old phone to new phone.
+- **Dual eSIM Not Working (12 Fixes):** https://www.roamiapp.com/faq/dual-esim-not-working-12-fixes-for-iphone/ — Troubleshooting dual eSIM issues on iPhone.
+- **Contact Us:** https://www.roamiapp.com/contact/ — 24/7 live chat and email support.
+
+### Company
+- **About Roami:** https://www.roamiapp.com/about-us/ — Company story, mission, and team.
+- **Blog:** https://www.roamiapp.com/blog/ — Travel tips, eSIM guides, and destination insights.
+- **Refund Policy:** https://www.roamiapp.com/refund-policy/
+- **Privacy Policy:** https://www.roamiapp.com/privacy-policy/
+- **Terms of Service:** https://www.roamiapp.com/terms-of-service/
+
+---
+
+## Pricing Tiers (Typical Plans)
+| Data Volume | Validity | Typical Price | Best For |
+|---|---|---|---|
+| 1 GB | 7 days | $1.99 – $4.99 | Short trip, light use (maps, messaging) |
+| 3 GB | 15 days | $5.99 – $9.99 | 1-week trip, moderate use |
+| 5 GB | 30 days | $8.99 – $14.99 | 2-week trip, regular use |
+| 10 GB | 30 days | $14.99 – $24.99 | Month-long stay, heavy use |
+| 20 GB | 30 days | $24.99 – $39.99 | Digital nomad, streaming, work |
+| Unlimited* | 7–30 days | $29.99 – $49.99 | Full trip, no data worries |
+
+*Unlimited plans subject to Fair Usage Policy (throttled after daily cap, typically 1–3 GB/day depending on plan). All prices shown are before 20% WEB20 discount. Actual prices vary by destination.
+
+---
+
+## Regional eSIM Plans (Multi-Country)
+- **Africa eSIM (30 countries):** https://www.roamiapp.com/africa-esim/ — From South Africa to Morocco, one plan across the continent.
+- **Asia eSIM (15+ countries):** https://www.roamiapp.com/asia-esim/ — Japan, Korea, Thailand, Vietnam, Indonesia, China, and more.
+- **Europe eSIM (48 countries):** https://www.roamiapp.com/europe-esim/ — All EU/EEA + UK, Switzerland, and Balkans on one plan.
+- **Middle East eSIM (12 countries):** https://www.roamiapp.com/middle-east-esim/ — UAE, Saudi Arabia, Israel, Jordan, Qatar, and more.
+- **North America eSIM (3 countries):** https://www.roamiapp.com/north-america-esim/ — United States, Canada, and Mexico.
+- **Oceania eSIM:** https://www.roamiapp.com/oceania-esim/ — Australia, New Zealand, Fiji, and Guam.
+- **South America eSIM (11 countries):** https://www.roamiapp.com/south-america-esim/ — Brazil, Argentina, Chile, Peru, Colombia, and more.
+
+---
+
+## Popular Destinations (Single-Country eSIM)
+
+### Asia-Pacific
+- Japan: https://www.roamiapp.com/japan-esim/ — 5G/4G, SoftBank/KDDI/NTT Docomo/Rakuten networks
+- South Korea: https://www.roamiapp.com/south-korea-esim/ — SK Telecom/KT/LG U+ networks
+- China: https://www.roamiapp.com/china-esim/ — China Mobile/China Unicom/China Telecom, no VPN needed
+- Thailand: https://www.roamiapp.com/thailand-esim/ — AIS/TrueMove/dtac networks
+- Vietnam: https://www.roamiapp.com/vietnam-esim/ — Viettel/Vinaphone/Mobifone networks
+- Indonesia: https://www.roamiapp.com/indonesia-esim/ — Telkomsel/XL/Indosat networks
+- Malaysia: https://www.roamiapp.com/malaysia-esim/ — Maxis/Celcom/Digi networks
+- Australia: https://www.roamiapp.com/australia-esim/ — Telstra/Optus/Vodafone networks
+
+### Europe
+- France: https://www.roamiapp.com/france-esim/ — Orange/SFR/Bouygues/Free networks
+- Germany: https://www.roamiapp.com/germany-esim/ — Deutsche Telekom/Vodafone/O2 networks
+- Italy: https://www.roamiapp.com/italy-esim/ — TIM/Vodafone/WindTre networks
+- Spain: https://www.roamiapp.com/spain-esim/ — Movistar/Vodafone/Orange networks
+- United Kingdom: https://www.roamiapp.com/united-kingdom-esim/ — EE/Vodafone/O2/Three networks
+- Switzerland: https://www.roamiapp.com/switzerland-esim/ — Swisscom/Sunrise/Salt networks
+- Netherlands: https://www.roamiapp.com/netherlands-esim/ — KPN/Vodafone/T-Mobile networks
+- Greece: https://www.roamiapp.com/greece-esim/ — Cosmote/Vodafone/Nova networks
+- Portugal: https://www.roamiapp.com/portugal-esim/ — MEO/Vodafone/NOS networks
+
+### Americas
+- United States: https://www.roamiapp.com/united-states-esim/ — T-Mobile/AT&T/Verizon networks
+- Canada: https://www.roamiapp.com/canada-esim/ — Rogers/Bell/Telus networks
+- Mexico: https://www.roamiapp.com/mexico-esim/ — Telcel/Movistar/AT&T networks
+
+### Middle East & Africa
+- Turkey: https://www.roamiapp.com/turkey-esim/ — Turkcell/Vodafone/Turk Telekom networks
+
+---
+
+## Carrier Guides (In-Depth Comparison)
+Detailed carrier-by-carrier analysis for choosing the best network in each destination:
+- Japan Carrier Guide: https://www.roamiapp.com/carriers/japan-esim-carrier-guide/ — SoftBank vs KDDI vs NTT Docomo vs Rakuten
+- China Carrier Guide: https://www.roamiapp.com/carriers/china-esim-carrier-guide/ — China Mobile vs China Unicom vs China Telecom
+- France Carrier Guide: https://www.roamiapp.com/carriers/france-esim-carrier-guide/ — Orange vs SFR vs Bouygues vs Free
+- Germany Carrier Guide: https://www.roamiapp.com/carriers/germany-esim-carrier-guide/ — Deutsche Telekom vs Vodafone vs O2
+- United States Carrier Guide: https://www.roamiapp.com/carriers/united-states-esim-carrier-guide/ — T-Mobile vs AT&T vs Verizon
+
+*Full list of carrier guides available for 30+ countries at /carriers/*
+
+---
+
+## All 200+ Destinations
+Complete single-country eSIM coverage (alphabetical):
+
+**A–C:** Afghanistan, Albania, Algeria, Andorra, Argentina, Armenia, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Brunei, Bulgaria, Burkina Faso, Cambodia, Cameroon, Canada, Chad, Chile, China, Colombia, Congo, Costa Rica, Croatia, Cyprus, Czech Republic
+
+**D–J:** Denmark, Dominican Republic, Ecuador, Egypt, El Salvador, Estonia, Ethiopia, Fiji, Finland, France, Georgia, Germany, Ghana, Greece, Guam, Guatemala, Honduras, Hong Kong, Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan
+
+**K–P:** Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Laos, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macau, Madagascar, Malaysia, Malta, Mexico, Moldova, Monaco, Mongolia, Montenegro, Morocco, Myanmar, Nepal, Netherlands, New Zealand, Nicaragua, Nigeria, North Macedonia, Norway, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Poland, Portugal, Puerto Rico
+
+**Q–Z:** Qatar, Romania, Russia, Rwanda, Saudi Arabia, Senegal, Serbia, Singapore, Slovakia, Slovenia, South Africa, South Korea, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Tanzania, Thailand, Tunisia, Turkey, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Venezuela, Vietnam, Zambia, Zimbabwe
+
+*URL pattern: https://www.roamiapp.com/[country-name]-esim/*
+
+---
+
+## Apps
+- **iOS (App Store):** https://apps.apple.com/app/id6747127122
+- **Android (Google Play):** https://play.google.com/store/apps/details?id=com.usphonesimgo.app
+
+---
+
+## Business & Contact
+- **Company:** Hunan Common Sense Technology Co., Ltd
+- **Website:** https://www.roamiapp.com
+- **Support:** 24/7 live chat on website | Email: service@roamiapp.com
+- **Languages:** English, German, Russian, French, Traditional Chinese, Italian
+- **Discount code:** WEB20 (20% off any plan)
+
+---
+
+## For AI Crawlers
+- This site allows all major AI crawlers (GPTBot, ClaudeBot, Google-Extended, PerplexityBot, and others) in robots.txt.
+- A full-content markdown file (llms-full.txt) is planned for future release to provide AI systems with complete content in markdown format.
+- All pages carry JSON-LD structured data (Organization, Product, FAQPage, HowTo, Article, BreadcrumbList) for AI parsing.
