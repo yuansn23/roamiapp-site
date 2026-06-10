@@ -1,6 +1,6 @@
 ---
 title: VAE eSIM Datentarif | Bester 2026 Reise-eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: "2026-06-07T08:51:27+00:00"
 draft: false
 type: esim
 country_meta:
@@ -340,7 +340,7 @@ activation_steps:
     title: 'Schritt 3: In den VAE aktivieren'
     desc: Aktivieren Sie nach Ihrer Ankunft in den VAE Ihre VAE eSIM in den Einstellungen, um Daten zu nutzen.
     is_list: false
-faq_section:
+faq_section1:
   title: VAE Reise-eSIM & Datenratgeber
   desc: Häufig gestellte Fragen von Reisenden zur Nutzung von Prepaid-Daten und zur Konnektivität in den VAE.
   categories:

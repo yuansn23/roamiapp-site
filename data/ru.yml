@@ -1,0 +1,138 @@
+related_products:
+  title: Похожие тарифы eSIM
+  items:
+    - name: Турция eSIM
+      flag: img/flags/tr.svg
+      price: От $1.99
+      is_highlight: false
+      slug: turkey-esim
+    - name: Китай eSIM
+      flag: img/flags/cn.svg
+      price: От $1.99
+      is_highlight: false
+      slug: china-esim
+    - name: ОАЭ eSIM
+      flag: img/flags/ae.svg
+      price: От $1.99
+      is_highlight: false
+      slug: united-arab-emirates-esim
+    - name: Египет eSIM
+      flag: img/flags/eg.svg
+      price: От $1.99
+      is_highlight: false
+      slug: egypt-esim
+    - name: Таиланд eSIM
+      flag: img/flags/th.svg
+      price: От $1.99
+      is_highlight: false
+      slug: thailand-esim
+    - name: Вьетнам eSIM
+      flag: img/flags/vn.svg
+      price: От $1.99
+      is_highlight: false
+      slug: vietnam-esim
+    - name: Италия eSIM
+      flag: img/flags/it.svg
+      price: От $1.99
+      is_highlight: false
+      slug: italy-esim
+    - name: Франция eSIM
+      flag: img/flags/fr.svg
+      price: От $1.99
+      is_highlight: false
+      slug: france-esim
+    - name: Армения eSIM
+      flag: img/flags/am.svg
+      price: От $1.99
+      is_highlight: false
+      slug: armenia-esim
+    - name: Грузия eSIM
+      flag: img/flags/ge.svg
+      price: От $1.99
+      is_highlight: false
+      slug: georgia-esim
+    - name: Испания eSIM
+      flag: img/flags/es.svg
+      price: От $1.99
+      is_highlight: false
+      slug: spain-esim
+    - name: Узбекистан eSIM
+      flag: img/flags/uz.svg
+      price: От $1.99
+      is_highlight: false
+      slug: uzbekistan-esim
+    - name: Мальдивы eSIM
+      flag: img/flags/mv.svg
+      price: От $1.99
+      is_highlight: false
+      slug: maldives-esim
+    - name: Индонезия eSIM
+      flag: img/flags/id.svg
+      price: От $1.99
+      is_highlight: false
+      slug: indonesia-esim
+    - name: Малайзия eSIM
+      flag: img/flags/my.svg
+      price: От $1.99
+      is_highlight: false
+      slug: malaysia-esim
+    - name: Южная Корея eSIM
+      flag: img/flags/kr.svg
+      price: От $1.99
+      is_highlight: false
+      slug: south-korea-esim
+    - name: Япония eSIM
+      flag: img/flags/jp.svg
+      price: От $1.99
+      is_highlight: false
+      slug: japan-esim
+    - name: Саудовская Аравия eSIM
+      flag: img/flags/sa.svg
+      price: От $1.99
+      is_highlight: false
+      slug: saudi-arabia-esim
+    - name: Марокко eSIM
+      flag: img/flags/ma.svg
+      price: От $1.99
+      is_highlight: false
+      slug: morocco-esim
+    - name: Германия eSIM
+      flag: img/flags/de.svg
+      price: От $1.99
+      is_highlight: false
+      slug: germany-esim
+    - name: Греция eSIM
+      flag: img/flags/gr.svg
+      price: От $1.99
+      is_highlight: false
+      slug: greece-esim
+    - name: Кипр eSIM
+      flag: img/flags/cy.svg
+      price: От $1.99
+      is_highlight: false
+      slug: cyprus-esim
+    - name: Израиль eSIM
+      flag: img/flags/il.svg
+      price: От $1.99
+      is_highlight: false
+      slug: israel-esim
+    - name: Сербия eSIM
+      flag: img/flags/rs.svg
+      price: От $1.99
+      is_highlight: false
+      slug: serbia-esim
+    - name: Казахстан eSIM
+      flag: img/flags/kz.svg
+      price: От $1.99
+      is_highlight: false
+      slug: kazakhstan-esim
+    - name: Азербайджан eSIM
+      flag: img/flags/az.svg
+      price: От $1.99
+      is_highlight: false
+      slug: azerbaijan-esim
+    - name: Беларусь eSIM
+      flag: img/flags/by.svg
+      price: От $1.99
+      is_highlight: false
+      slug: belarus-esim

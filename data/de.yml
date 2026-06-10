@@ -1,0 +1,153 @@
+related_products:
+  title: Ähnliche eSIM-Tarife
+  items:
+    - name: Spanien eSIM
+      flag: img/flags/es.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: spain-esim
+    - name: Italien eSIM
+      flag: img/flags/it.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: italy-esim
+    - name: Türkei eSIM
+      flag: img/flags/tr.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: turkey-esim
+    - name: Frankreich eSIM
+      flag: img/flags/fr.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: france-esim
+    - name: Griechenland eSIM
+      flag: img/flags/gr.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: greece-esim
+    - name: Kroatien eSIM
+      flag: img/flags/hr.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: croatia-esim
+    - name: Österreich eSIM
+      flag: img/flags/at.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: austria-esim
+    - name: Polen eSIM
+      flag: img/flags/pl.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: poland-esim
+    - name: Niederlande eSIM
+      flag: img/flags/nl.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: netherlands-esim
+    - name: Schweiz eSIM
+      flag: img/flags/ch.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: switzerland-esim
+    - name: Deutschland eSIM
+      flag: img/flags/de.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: germany-esim
+    - name: USA eSIM
+      flag: img/flags/us.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: united-states-esim
+    - name: Thailand eSIM
+      flag: img/flags/th.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: thailand-esim
+    - name: Ägypten eSIM
+      flag: img/flags/eg.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: egypt-esim
+    - name: Vereinigte Arabische Emirate eSIM
+      flag: img/flags/ae.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: united-arab-emirates-esim
+    - name: Schweden eSIM
+      flag: img/flags/se.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: sweden-esim
+    - name: Norwegen eSIM
+      flag: img/flags/no.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: norway-esim
+    - name: Dänemark eSIM
+      flag: img/flags/dk.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: denmark-esim
+    - name: Japan eSIM
+      flag: img/flags/jp.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: japan-esim
+    - name: Kanada eSIM
+      flag: img/flags/ca.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: canada-esim
+    - name: Australien eSIM
+      flag: img/flags/au.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: australia-esim
+    - name: UK eSIM
+      flag: img/flags/gb.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: united-kingdom-esim
+    - name: China eSIM
+      flag: img/flags/cn.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: china-esim
+    - name: Indien eSIM
+      flag: img/flags/in.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: india-esim
+    - name: Südkorea eSIM
+      flag: img/flags/kr.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: south-korea-esim
+    - name: Indonesien eSIM
+      flag: img/flags/id.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: indonesia-esim
+    - name: Mexiko eSIM
+      flag: img/flags/mx.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: mexico-esim
+    - name: Brasilien eSIM
+      flag: img/flags/br.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: brazil-esim
+    - name: Russland eSIM
+      flag: img/flags/ru.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: russia-esim
+    - name: Taiwan eSIM
+      flag: img/flags/tw.svg
+      price: Ab 1,99 $
+      is_highlight: false
+      slug: taiwan-esim

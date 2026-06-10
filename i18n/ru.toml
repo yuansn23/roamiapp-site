@@ -215,3 +215,84 @@ other = "🔗 Вам также может понравиться"
 
 [popular_destinations]
 other = "Популярные направления eSIM"
+
+[promo_limited_offer]
+other = "🔥 Ограниченное предложение 🔥"
+
+[promo_use_code]
+other = "Используйте код"
+
+[promo_checkout]
+other = "⭐ Введите код при оформлении заказа, чтобы получить скидку ⭐"
+
+[promo_stats_text]
+other = "Присоединяйтесь к более чем 1 миллиону путешественников, которые перешли на Roami. 5G в {{ .Countries }} странах. Тарифы от ${{ .Price }}. Мгновенная активация."
+
+[region_country_title]
+other = "eSIM {{ .RegionName }} работает в {{ .TotalCountries }} странах"
+
+[coverage_stats_text]
+other = """
+Одна eSIM автоматически подключается к самой сильной локальной сети в каждой стране.
+<strong class="text-orange-600">{{ .FiveGCount }} стран имеют 5G</strong>,
+{{ .FourGCount }} имеют надёжный 4G/LTE.
+Нажмите на страну, чтобы получить руководства по настройке и информацию об операторах.
+"""
+
+[powered_by_operators]
+other = "На базе крупнейших мобильных операторов {{ .RegionName }}"
+
+[auto_switch_carriers]
+other = """
+Ваша eSIM Roami автоматически переключается между <strong class="text-orange-600">{{ .CarrierCount }}+ операторами</strong> для наилучшего сигнала.
+"""
+
+[network_partners_label]
+other = "Партнёры по сети"
+
+[premium_carrier_partners_title]
+other = "{{ .Count }}+ премиальных партнёров-операторов"
+
+[network_partners_description]
+other = "Ваша eSIM Roami автоматически подключается к лучшим локальным сетям. Ручное переключение не требуется."
+
+[esim_auto_connect]
+other = "Один из крупнейших операторов со штаб-квартирой в {{ .HQ }}. Ваша eSIM подключается автоматически{{ .CountriesSuffix }}."
+
+[carrier_roaming_title]
+other = "Роуминг вашего оператора"
+
+[carrier_roaming_badge]
+other = "Скрытые платежи"
+
+[carrier_roaming_estimate]
+other = "оценка для поездки на 2 недели"
+
+[roami_title]
+other = "eSIM Roami {{ .RegionName }}"
+
+[roami_badge]
+other = "Лучшее соотношение цены и качества"
+
+[roami_price_label]
+other = "От 1,99 $"
+
+[roami_plan_description]
+other = "предоплаченные тарифы от 5 $ за всю поездку"
+
+[esim_vs_carrier_roaming]
+other = "eSIM {{ .RegionName }} против роуминга оператора"
+
+[heading_beyond_region]
+other = "Путешествуете за пределы {{ .RegionName }}?"
+
+[try_free_button]
+other = "Попробовать бесплатную eSIM"
+
+[regionQuestionsTitle]
+other = "{{ .RegionName }} eSIM: вопросы, которые задают путешественники"
+
+[stats]
+countries = "Страны"
+carriers = "Операторы"
+coverage_5g = "Покрытие 5G"

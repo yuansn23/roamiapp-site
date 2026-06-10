@@ -216,3 +216,84 @@ other = "🔗 You might also like"
 
 [popular_destinations]
 other = "Popular eSIM Destinations"
+
+[promo_limited_offer]
+other = "🔥 Limited Offer 🔥"
+
+[promo_use_code]
+other = "Use code"
+
+[promo_checkout]
+other = "⭐ Enter code at checkout to claim your discount ⭐"
+
+[promo_stats_text]
+other = "Join 1M+ travelers who switched to Roami. 5G in {{ .Countries }} countries. Plans from ${{ .Price }}. Instant activation."
+
+[region_country_title]
+other = "{{ .RegionName }} eSIM works in {{ .TotalCountries }} countries"
+
+[coverage_stats_text]
+other = """
+One eSIM connects to the strongest local network in every country automatically.
+<strong class="text-orange-600">{{ .FiveGCount }} countries have 5G</strong>,
+{{ .FourGCount }} have reliable 4G/LTE.
+Tap any country for setup guides and carrier details.
+"""
+
+[powered_by_operators]
+other = "Powered by {{ .RegionName }}'s largest mobile operators"
+
+[auto_switch_carriers]
+other = """
+Your Roami eSIM auto-switches between <strong class="text-orange-600">{{ .CarrierCount }}+ carriers</strong> for the best signal.
+"""
+
+[network_partners_label]
+other = "Network Partners"
+
+[premium_carrier_partners_title]
+other = "{{ .Count }}+ Premium Carrier Partners"
+
+[network_partners_description]
+other = "Your Roami eSIM connects to the best local networks automatically. No manual switching needed."
+
+[esim_auto_connect]
+other = "One of {{ .HQ }}'s largest operators. Your eSIM connects automatically{{ .CountriesSuffix }}."
+
+[carrier_roaming_title]
+other = "Your Carrier's Roaming"
+
+[carrier_roaming_badge]
+other = "Hidden Fees"
+
+[carrier_roaming_estimate]
+other = "estimated for a 2-week trip"
+
+[roami_title]
+other = "Roami {{ .RegionName }} eSIM"
+
+[roami_badge]
+other = "Best Value"
+
+[roami_price_label]
+other = "From $1.99"
+
+[roami_plan_description]
+other = "prepaid plans from $5 for a full trip"
+
+[esim_vs_carrier_roaming]
+other = "{{ .RegionName }} eSIM vs. carrier roaming"
+
+[heading_beyond_region]
+other = "Heading beyond {{ .RegionName }}?"
+
+[try_free_button]
+other = "Try Free eSIM"
+
+[regionQuestionsTitle]
+other = "{{ .RegionName }} eSIM: questions travelers ask"
+
+[stats]
+countries = "Countries"
+carriers = "Carriers"
+coverage_5g = "5G Coverage"

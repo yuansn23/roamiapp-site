@@ -1,6 +1,6 @@
 ---
 title: eSIM Corea del Sud Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: "2026-06-07T08:51:27+00:00"
 draft: false
 type: esim
 country_meta:
@@ -383,7 +383,7 @@ activation_steps:
       usare WhatsApp, controllare i social media o configurare un hotspot per altri
       dispositivi – senza attesa, senza documenti, senza contratto.
     is_list: false
-faq_section:
+faq_section1:
   title: FAQ eSIM Corea del Sud e Guida di Viaggio
   desc: Tutto ciò che devi sapere sull'uso della tua eSIM Corea del Sud in diversi
     scenari di viaggio.

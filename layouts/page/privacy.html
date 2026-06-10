@@ -8,20 +8,7 @@
     <!-- 🌟 SEO 核心标签 (增加兜底逻辑) --> 
     <meta name="robots" content="index, follow">
 
-    <!-- 🌟 规范化链接 -->
-    <link rel="canonical" href="{{ .Permalink }}" />
-
-    <!-- 🌟 SEO 优化 2：多语言 hreflang 标签 (极其重要！) -->
-    {{ if .IsTranslated }}
-        {{ range .AllTranslations }}
-        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
-        {{ end }}
-        <link rel="alternate" hreflang="x-default" href="{{ .Site.Home.Permalink }}">
-    {{ else }}
-        <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
-        <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
-    {{ end }}
-
+ 
     <!-- 🌟 Open Graph 社交分享标签 -->
     <meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}">
     <meta property="og:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">

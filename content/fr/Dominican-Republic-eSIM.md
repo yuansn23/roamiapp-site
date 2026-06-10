@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM République dominicaine | Meilleure eSIM de voyage 2026 | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: "2026-06-07T08:51:27+00:00"
 draft: false
 type: esim
 country_meta:
@@ -290,7 +290,7 @@ activation_steps:
       navigation, WhatsApp, les réseaux sociaux ou partager la connexion avec d'autres
       appareils – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
-faq_section:
+faq_section1:
   title: 'eSIM République dominicaine : Foire aux questions et guide de voyage'
   desc: Tout ce que vous devez savoir sur l'utilisation de votre eSIM pour République
     dominicaine dans divers scénarios de voyage.

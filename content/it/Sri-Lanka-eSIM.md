@@ -1,6 +1,6 @@
 ---
 title: eSIM Sri Lanka Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-01T08:46:24+00:00'
+date: "2026-06-07T08:51:27+00:00"
 draft: false
 type: esim
 country_meta:
@@ -369,7 +369,7 @@ activation_steps:
       Potrai subito navigare, usare WhatsApp, controllare i social media o configurare
       un hotspot per altri dispositivi – senza attesa, senza documenti, senza contratto.
     is_list: false
-faq_section:
+faq_section1:
   title: FAQ eSIM Sri Lanka e Guida di Viaggio
   desc: Tutto ciò che devi sapere sull'uso della tua eSIM Sri Lanka in diversi scenari
     di viaggio.

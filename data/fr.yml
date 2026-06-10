@@ -1,0 +1,153 @@
+related_products:
+  title: Forfaits eSIM similaires
+  items:
+    - name: Espagne eSIM
+      flag: img/flags/es.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: spain-esim
+    - name: Italie eSIM
+      flag: img/flags/it.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: italy-esim
+    - name: Maroc eSIM
+      flag: img/flags/ma.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: morocco-esim
+    - name: Portugal eSIM
+      flag: img/flags/pt.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: portugal-esim
+    - name: Grèce eSIM
+      flag: img/flags/gr.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: greece-esim
+    - name: Tunisie eSIM
+      flag: img/flags/tn.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: tunisia-esim
+    - name: Royaume-Uni eSIM
+      flag: img/flags/gb.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: united-kingdom-esim
+    - name: Allemagne eSIM
+      flag: img/flags/de.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: germany-esim
+    - name: Vietnam eSIM
+      flag: img/flags/vn.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: vietnam-esim
+    - name: Thaïlande eSIM
+      flag: img/flags/th.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: thailand-esim
+    - name: Cambodge eSIM
+      flag: img/flags/kh.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: cambodia-esim
+    - name: Japon eSIM
+      flag: img/flags/jp.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: japan-esim
+    - name: Canada eSIM
+      flag: img/flags/ca.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: canada-esim
+    - name: États-Unis eSIM
+      flag: img/flags/us.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: united-states-esim
+    - name: Belgique eSIM
+      flag: img/flags/be.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: belgium-esim
+    - name: Suisse eSIM
+      flag: img/flags/ch.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: switzerland-esim
+    - name: Pays-Bas eSIM
+      flag: img/flags/nl.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: netherlands-esim
+    - name: Pologne eSIM
+      flag: img/flags/pl.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: poland-esim
+    - name: République dominicaine eSIM
+      flag: img/flags/do.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: dominican-republic-esim
+    - name: Égypte eSIM
+      flag: img/flags/eg.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: egypt-esim
+    - name: Pérou eSIM
+      flag: img/flags/pe.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: peru-esim
+    - name: Inde eSIM
+      flag: img/flags/in.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: india-esim
+    - name: Chine eSIM
+      flag: img/flags/cn.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: china-esim
+    - name: Indonésie eSIM
+      flag: img/flags/id.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: indonesia-esim
+    - name: Brésil eSIM
+      flag: img/flags/br.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: brazil-esim
+    - name: Turquie eSIM
+      flag: img/flags/tr.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: turkey-esim
+    - name: Corée du Sud eSIM
+      flag: img/flags/kr.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: south-korea-esim
+    - name: Malaisie eSIM
+      flag: img/flags/my.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: malaysia-esim
+    - name: Islande eSIM
+      flag: img/flags/is.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: iceland-esim
+    - name: France eSIM
+      flag: img/flags/fr.svg
+      price: À partir de 1,99 $
+      is_highlight: false
+      slug: france-esim

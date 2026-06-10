@@ -215,3 +215,84 @@ other = "🔗 您可能也喜歡"
 
 [popular_destinations]
 other = "熱門 eSIM 目的地"
+
+[promo_limited_offer]
+other = "🔥 限時優惠 🔥"
+
+[promo_use_code]
+other = "使用代碼"
+
+[promo_checkout]
+other = "⭐ 結帳時輸入代碼以領取折扣 ⭐"
+
+[promo_stats_text]
+other = "加入超過 100 萬名改用 Roami 的旅客。{{ .Countries }} 個國家支援 5G。方案從 ${{ .Price }} 起。即時啟用。"
+
+[region_country_title]
+other = "{{ .RegionName }} eSIM 適用於 {{ .TotalCountries }} 個國家"
+
+[coverage_stats_text]
+other = """
+一張 eSIM 會自動連接到每個國家最強的當地網路。
+<strong class="text-orange-600">{{ .FiveGCount }} 個國家擁有 5G</strong>，
+{{ .FourGCount }} 個國家擁有穩定的 4G/LTE。
+點擊任一國家以取得設定指南與電信商詳細資訊。
+"""
+
+[powered_by_operators]
+other = "由 {{ .RegionName }} 最大的行動電信商提供技術支援"
+
+[auto_switch_carriers]
+other = """
+您的 Roami eSIM 會在 <strong class="text-orange-600">{{ .CarrierCount }} 家以上電信商</strong> 之間自動切換，以獲得最佳訊號。
+"""
+
+[network_partners_label]
+other = "網路合作夥伴"
+
+[premium_carrier_partners_title]
+other = "{{ .Count }} 家以上優質電信合作夥伴"
+
+[network_partners_description]
+other = "您的 Roami eSIM 會自動連接到最佳的當地網路。無需手動切換。"
+
+[esim_auto_connect]
+other = "總部位於 {{ .HQ }} 的最大電信商之一。您的 eSIM 會自動連線{{ .CountriesSuffix }}。"
+
+[carrier_roaming_title]
+other = "您原電信商的漫遊服務"
+
+[carrier_roaming_badge]
+other = "隱藏費用"
+
+[carrier_roaming_estimate]
+other = "預估為兩週行程"
+
+[roami_title]
+other = "Roami {{ .RegionName }} eSIM"
+
+[roami_badge]
+other = "最佳性價比"
+
+[roami_price_label]
+other = "從 1.99 美元起"
+
+[roami_plan_description]
+other = "預付方案，整趟行程從 5 美元起"
+
+[esim_vs_carrier_roaming]
+other = "{{ .RegionName }} eSIM 與原電信商漫遊之比較"
+
+[heading_beyond_region]
+other = "準備前往 {{ .RegionName }} 以外的地方？"
+
+[try_free_button]
+other = "試用免費 eSIM"
+
+[regionQuestionsTitle]
+other = "{{ .RegionName }} eSIM：旅行者常問的問題"
+
+[stats]
+countries = "國家"
+carriers = "運營商"
+coverage_5g = "5G覆蓋"

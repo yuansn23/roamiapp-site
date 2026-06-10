@@ -62,13 +62,13 @@ disableKinds = ["taxonomy", "term"]
     
     footer_col1_title = "Top Destinations"
     # 优化：将纯文本改为带链接的对象，并使用绝对路径
-    footer_col1_links = [
-{name="United States eSIM", url="/united-states-esim/"}, 
+  footer_col1_links = [
+{name="Asia eSIM", url="/Asia-eSIM/"}, 
 {name="Europe eSIM", url="/europe-esim/"}, 
-{name="Japan eSIM", url="/japan-esim/"}, 
-{name="Germany eSIM", url="/germany-esim/"}, 
-{name="Turkey eSIM", url="/turkey-esim/"}, 
-{name="Canada eSIM", url="/canada-esim/"}
+{name="Africa eSIM", url="/africa-esim/"}, 
+{name="South America eSIM", url="/south-america-esim/"}, 
+{name="North America eSIM", url="/north-america-esim/"}, 
+{name="Middle East eSIM", url="/middle-east-esim/"}
     ]
     
     footer_col2_title = "Customer Support"
@@ -124,14 +124,14 @@ disableKinds = ["taxonomy", "term"]
   footer_desc = "Bereitstellung erstklassiger eSIM-Dienste in über 200 Ländern und Regionen, damit Sie überall auf Reisen verbunden bleiben."
   
   footer_col1_title = "Top-Reiseziele"
-  footer_col1_links = [
-    {name="USA eSIM", url="/united-states-esim/"}, 
-    {name="Europa eSIM", url="/europe-esim/"}, 
-    {name="Japan eSIM", url="/japan-esim/"}, 
-    {name="Deutschland eSIM", url="/germany-esim/"}, 
-    {name="Türkei eSIM", url="/turkey-esim/"}, 
-    {name="Kanada eSIM", url="/canada-esim/"}
-  ]
+footer_col1_links = [
+  { name = "Asien eSIM", url = "/Asia-eSIM/" },
+  { name = "Europa eSIM", url = "/europe-esim/" },
+  { name = "Afrika eSIM", url = "/africa-esim/" },
+  { name = "Südamerika eSIM", url = "/south-america-esim/" },
+  { name = "Nordamerika eSIM", url = "/north-america-esim/" },
+  { name = "Naher Osten eSIM", url = "/middle-east-esim/" }
+]
   
   footer_col2_title = "Kundensupport"
   footer_col2_links = [
@@ -184,14 +184,14 @@ disableKinds = ["taxonomy", "term"]
     
     footer_col1_title = "Популярные направления"
     # Оптимизация: простой текст заменён на объекты со ссылками, используются абсолютные пути
-    footer_col1_links = [
-{name="eSIM Китай", url="/china-esim/"},
-{name="eSIM Турция", url="/turkey-esim/"},
-{name="eSIM Египет", url="/egypt-esim/"},
-{name="eSIM Беларусь", url="/belarus-esim/"},
-{name="eSIM Узбекистан", url="/uzbekistan-esim/"},
-{name="eSIM Казахстан", url="/kazakhstan-esim/"}
-    ]
+footer_col1_links = [
+  { name = "Азия eSIM", url = "/Asia-eSIM/" },
+  { name = "Европа eSIM", url = "/europe-esim/" },
+  { name = "Африка eSIM", url = "/africa-esim/" },
+  { name = "Южная Америка eSIM", url = "/south-america-esim/" },
+  { name = "Северная Америка eSIM", url = "/north-america-esim/" },
+  { name = "Ближний Восток eSIM", url = "/middle-east-esim/" }
+]
     
     footer_col2_title = "Поддержка клиентов"
     # Оптимизация: добавлен слэш в начале, убраны .html для чистых URL
@@ -241,12 +241,12 @@ nav_links = [
 footer_desc = "Services eSIM premium dans plus de 200 pays et régions – restez connecté où que vous voyagiez."
 footer_col1_title = "Destinations phares"
 footer_col1_links = [
-  { name = "eSIM États-Unis", url = "/united-states-esim/" },
-  { name = "eSIM Europe", url = "/europe-esim/" },
-  { name = "eSIM Japon", url = "/japan-esim/" },
-  { name = "eSIM Allemagne", url = "/germany-esim/" },
-  { name = "eSIM Turquie", url = "/turkey-esim/" },
-  { name = "eSIM Canada", url = "/canada-esim/" }
+  { name = "Asie eSIM", url = "/Asia-eSIM/" },
+  { name = "Europe eSIM", url = "/europe-esim/" },
+  { name = "Afrique eSIM", url = "/africa-esim/" },
+  { name = "Amérique du Sud eSIM", url = "/south-america-esim/" },
+  { name = "Amérique du Nord eSIM", url = "/north-america-esim/" },
+  { name = "Moyen-Orient eSIM", url = "/middle-east-esim/" }
 ]
 footer_col2_title = "Assistance client"
 footer_col2_links = [
@@ -293,16 +293,14 @@ weight = 5
     footer_desc = "我們在 200+ 個國家與地區提供優質 eSIM 服務，讓您無論旅行到何處都能保持連線。"
 
     footer_col1_title = "熱門目的地"
-    footer_col1_links = [
-	  { name = "日本 eSIM", url = "/japan-esim/" },
-      { name = "韓國 eSIM", url = "/south-korea-esim/" },
-      { name = "泰國 eSIM", url = "/thailand-esim/" },
-      { name = "越南 eSIM", url = "/vietnam-esim/" },
-      { name = "歐洲 eSIM", url = "/europe-esim/" },
-      { name = "美國 eSIM", url = "/united-states-esim/" },
-      { name = "中國 eSIM", url = "/china-esim/" },
-      { name = "香港 eSIM", url = "/hong-kong-esim/" }
-    ]
+footer_col1_links = [
+  { name = "亞洲 eSIM", url = "/Asia-eSIM/" },
+  { name = "歐洲 eSIM", url = "/europe-esim/" },
+  { name = "非洲 eSIM", url = "/africa-esim/" },
+  { name = "南美洲 eSIM", url = "/south-america-esim/" },
+  { name = "北美洲 eSIM", url = "/north-america-esim/" },
+  { name = "中東 eSIM", url = "/middle-east-esim/" }
+]
 
     footer_col2_title = "客戶支援"
     footer_col2_links = [
@@ -350,14 +348,14 @@ weight = 5
   footer_desc = "Forniamo servizi eSIM premium in oltre 200 paesi e regioni, per mantenerci connessi ovunque tu viaggi."
 
   footer_col1_title = "Destinazioni Top"
-  footer_col1_links = [
-    { name = "eSIM USA", url = "/united-states-esim/" },
-    { name = "eSIM Europa", url = "/europe-esim/" },
-    { name = "eSIM Giappone", url = "/japan-esim/" },
-    { name = "eSIM Germania", url = "/germany-esim/" },
-    { name = "eSIM Turchia", url = "/turkey-esim/" },
-    { name = "eSIM Canada", url = "/canada-esim/" }
-  ]
+footer_col1_links = [
+  { name = "Asia eSIM", url = "/Asia-eSIM/" },
+  { name = "Europa eSIM", url = "/europe-esim/" },
+  { name = "Africa eSIM", url = "/africa-esim/" },
+  { name = "Sud America eSIM", url = "/south-america-esim/" },
+  { name = "Nord America eSIM", url = "/north-america-esim/" },
+  { name = "Medio Oriente eSIM", url = "/middle-east-esim/" }
+]
 
   footer_col2_title = "Supporto Clienti"
   footer_col2_links = [

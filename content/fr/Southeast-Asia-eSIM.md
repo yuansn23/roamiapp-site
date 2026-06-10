@@ -1,6 +1,6 @@
 ---
 title: "Forfait eSIM Asie du Sud-Est | Meilleur eSIM voyage 2026 | Roami"
-date: '2026-06-04T00:00:00+00:00'
+date: "2026-06-07T08:51:27+00:00"
 draft: false
 type: esim
 country_meta:
@@ -276,7 +276,7 @@ activation_steps:
     title: "Étape 3 : Activer en Asie du Sud-Est"
     desc: "À votre arrivée en Asie du Sud-Est, activez votre eSIM Asie du Sud-Est dans les paramètres pour commencer à utiliser les données. Nous vous recommandons de vous connecter au Wi-Fi lors de l'activation initiale."
     is_list: false
-faq_section:
+faq_section1:
   title: "FAQ eSIM Asie du Sud-Est et guide de voyage"
   desc: "Tout ce que vous devez savoir sur l'utilisation de votre eSIM Asie du Sud-Est selon différents scénarios de voyage."
   categories:

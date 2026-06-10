@@ -1,571 +1,372 @@
 ---
-title: Asia eSIM Tariffa Dati | Migliore eSIM da viaggio 2026 | Roami
-date: '2026-06-04T00:00:00+00:00'
-draft: false
-type: esim
-country_meta:
-  core_keyword: Asia eSIM
-  scenario_keywords: Visita turistica a Tokyo, Tour gastronomico a Bangkok, Shopping a Singapore, Vacanza al mare a Bali, Esperienza K-Pop a Seul
-  operators: China Mobile, NTT Docomo, Singtel
-  competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: Tokyo, Bangkok, Singapore, Seul, Hong Kong
-  main_packages: 3/7/15/30 giorni, Dati illimitati
-modal:
-  title: Servizio aggiornato!
-  btn_text: Continua
-  text_default: |-
-    Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIMGo</strong>.<br>I nuovi clienti ricevono il 20% di sconto con il codice: web20
-  text_android: |-
-    Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con il codice: web20
-seo:
-  title: "eSIM Asia | 15+ Paesi, 20% DI SCONTO"
-  description: "Zaino in spalla per l'Asia con una sola eSIM Roami. 5G in Giappone, Corea, Thailandia e oltre 12 altri paesi. Nessuna tariffa di roaming, nessun cambio SIM."
-  keywords: Asia eSIM, SIM da viaggio Asia, consegna eSIM immediata, nessun roaming in Asia, attivazione QR code, copertura 5G Asia, internet da viaggio
-  low_price: 1.99
-  high_price: 39.9
-order_summary:
-  title: Tariffa selezionata
-  label_data: Dati inclusi
-  label_validity: Validità
-  label_daily: Media giornaliera
-  label_total: Prezzo totale
-  btn_primary: Ottieni 20% di sconto
-  btn_secondary: 'Codice: web20'
+title: Asia eSIM | 15+ Paesi, 20% DI SCONTO, Una tariffa
+description: Viaggia in Asia con una eSIM prepagata Roami – la migliore eSIM per l'Asia, che copre Giappone, Corea, Thailandia, Singapore e oltre 12 paesi. Attivazione immediata su reti locali senza costi di roaming. Tariffe a partire da 1,99 $.
+date: '2026-06-08'
+lastmod: '2026-06-08'
+type: regional-esim
 breadcrumbs:
-- label: Home
+- name: Home
   url: /
-- label: Asia eSIM
-banner:
-  image: img/esim/esim-travel.jpg
-  alt: Migliore eSIM per l'Asia
-  title: Migliore eSIM per l'Asia
+- name: Asia eSIM
+  url: /asia-esim/
+region:
+  name: Asia
+  country_count: 26
+  coverage_note: Copertura 5G con passaggio continuo tra 26 paesi della regione Asia-Pacifico
+  url: /asia-esim/
 hero:
-  flag_image: img/flags/ya.webp
-  flag_alt: Bandiera Asia
-  title: Asia eSIM Tariffa Dati
-  subtitle: Prima scelta per viaggi in Asia | Asia eSIM conveniente | Garanzia 100% rimborso
-features:
-  title: Perché i viaggiatori scelgono Roami
-  items:
-  - icon: zap
-    color: from-brand-400 to-brand-600
-    title: Codice QR immediato
-    desc: Consegna entro 5 minuti
-  - icon: headset
-    color: from-emerald-400 to-emerald-600
-    title: Supporto 24/7
-    desc: Sempre a tua disposizione
-  - icon: shield-check
-    color: from-amber-400 to-amber-600
-    title: Non disponibile
-    desc: Protezione rimborso
-  - icon: wifi
-    color: from-purple-400 to-purple-600
-    title: Hotspot supportato
-    desc: Condividi con altri dispositivi
-  - icon: file-x
-    color: from-rose-400 to-rose-600
-    title: Nessun contratto
-    desc: Disdici quando vuoi
-  - icon: radio-tower
-    color: from-blue-400 to-blue-600
-    title: Commutazione automatica
-    desc: Connessione con i migliori operatori
-plans_title: Scegli il tuo piano
-plans_data:
-  7 giorni:
-  - spec: 1GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per brevi viaggi d'affari
-    price: '7.99'
-    oldPrice: '11.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.14'
-  - spec: 1GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per brevi viaggi d'affari
-    price: '3.99'
-    oldPrice: '5.99'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '0.57'
-  - spec: Unlimited
-    data: Volume illimitato ad alta velocità
-    desc: Utilizzo dati senza pensieri
-    price: '27.99'
-    oldPrice: '41.98'
-    tag: Premium
-    tagColor: bg-purple-600
-    daily: '4.00'
-  - spec: 1GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per brevi viaggi d'affari
-    price: '7.99'
-    oldPrice: '11.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.14'
-  - spec: 3GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per visite turistiche
-    price: '3.99'
-    oldPrice: '5.99'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '0.57'
-    tagIcon: star
-  - spec: 5GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per viaggi approfonditi
-    price: '5.99'
-    oldPrice: '8.98'
-    tag: Miglior rapporto qualità-prezzo
-    tagColor: bg-emerald-500
-    daily: '0.86'
-  15 giorni:
-  - spec: 3GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per visite turistiche
-    price: '18.99'
-    oldPrice: '28.48'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '1.27'
-    tagIcon: star
-  - spec: 3GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per visite turistiche
-    price: '18.99'
-    oldPrice: '28.48'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '1.27'
-    tagIcon: star
-  - spec: 3GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per visite turistiche
-    price: '4.99'
-    oldPrice: '7.49'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '0.33'
-    tagIcon: star
-  - spec: 5GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per viaggi approfonditi
-    price: '6.99'
-    oldPrice: '10.48'
-    tag: Miglior rapporto qualità-prezzo
-    tagColor: bg-emerald-500
-    daily: '0.47'
-  - spec: 10GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per viaggi approfonditi
-    price: '10.99'
-    oldPrice: '16.48'
-    tag: Miglior rapporto qualità-prezzo
-    tagColor: bg-emerald-500
-    daily: '0.73'
-  30 giorni:
-  - spec: 3GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per visite turistiche
-    price: '5.99'
-    oldPrice: '8.98'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '0.20'
-    tagIcon: star
-  - spec: 5GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per viaggi approfonditi
-    price: '7.99'
-    oldPrice: '11.98'
-    tag: Miglior rapporto qualità-prezzo
-    tagColor: bg-emerald-500
-    daily: '0.27'
-  - spec: 10GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per viaggi approfonditi
-    price: '11.99'
-    oldPrice: '17.98'
-    tag: Miglior rapporto qualità-prezzo
-    tagColor: bg-emerald-500
-    daily: '0.40'
-  - spec: 3GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per visite turistiche
-    price: '19.99'
-    oldPrice: '29.98'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '0.67'
-    tagIcon: star
-  - spec: 3GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per visite turistiche
-    price: '19.99'
-    oldPrice: '29.98'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '0.67'
-    tagIcon: star
-  - spec: 10GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per viaggi approfonditi
-    price: '45.99'
-    oldPrice: '68.98'
-    tag: Miglior rapporto qualità-prezzo
-    tagColor: bg-emerald-500
-    daily: '1.53'
-  - spec: 10GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per viaggi approfonditi
-    price: '45.99'
-    oldPrice: '68.98'
-    tag: Miglior rapporto qualità-prezzo
-    tagColor: bg-emerald-500
-    daily: '1.53'
-  - spec: 20GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Perfetto per il tuo viaggio
-    price: '20.99'
-    oldPrice: '31.48'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '0.70'
-discount_banner:
-  title: Sconto speciale!
-  desc_html: |-
-    Usa il codice <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> al checkout e ottieni <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% DI SCONTO</span> sul tuo ordine!
-  btn_text: Ottieni lo sconto
-  validity: 'Valido: 3 giorni'
-network_coverage:
-  title: Dettagli copertura di rete
-  supports_text: 'Supporta:'
-  service_details:
-    title: Dettagli del servizio
-    items:
-    - icon: map
-      color: text-brand-500
-      title: Copertura
-      desc: Goditi un'ampia copertura di rete in tutta l'Asia, incluse le principali città come Tokyo, Bangkok, Singapore e Seul. La nostra Asia eSIM si connette perfettamente alle robuste reti di NTT Docomo, AIS e Singtel, garantendo segnali stabili nei centri urbani, nelle destinazioni turistiche e lungo le principali vie di trasporto.
-    - icon: zap
-      color: text-amber-500
-      title: Tempo di consegna
-      desc: Conseguimento immediato dopo l'acquisto.
-    - icon: wifi
-      color: text-emerald-500
-      title: Hotspot
-      desc: Nessuna restrizione hotspot.
-  carriers:
-    title: Reti mobili
-    badge: Partner ufficiale
-    items:
-    - name: NTT Docomo
-      coverage: Bassa latenza
-      network: Rete 5G/4G/LTE
-    - name: Singtel
-      coverage: Affidabilità
-      network: Rete 5G/4G/LTE
-    - name: AIS
-      coverage: IP dedicato
-      network: Rete 5G/4G/LTE
-reminders:
-  title: Avvertenze importanti
-  items:
-  - icon: 📱
-    html: |-
-      Prima dell'acquisto, assicurati che il tuo telefono sia <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibile con eSIM</a>.
-  - icon: ✈️
-    html: Consigliamo di attivare la linea dopo l'arrivo in Asia.
-  - icon: ⏰
-    html: La validità inizia al momento della connessione a una rete supportata.
-  - icon: 📧
-    html: Il codice QR verrà inviato al tuo indirizzo email.
-  - icon: 🔄
-    html: Puoi installare più eSIM contemporaneamente.
-  compatibility_check:
-    title: Verifica rapida compatibilità
-    desc: 'Non sei sicuro che il tuo telefono supporti eSIM? Puoi verificarlo facilmente da solo:'
-    instruction: 'Componi sulla tastiera:'
-    code: '*#06#'
-    result_html: |-
-      Se sullo schermo appare un numero <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>, il tuo dispositivo è compatibile!
-activation_steps:
-  title: Passaggi per l'attivazione
-  steps:
-  - num: '1'
-    title: 'Passo 1: Ricevi il codice QR'
-    desc: Dopo il pagamento riceverai via email entro 5 minuti un codice QR e le istruzioni di attivazione. Controlla la cartella spam se non vedi l'email.
-    is_list: false
-  - num: '2'
-    title: 'Passo 2: Aggiungi eSIM al telefono'
-    is_list: true
-    list_items:
-    - |-
-      Vai a Impostazioni > Cellulare (o Dati mobili)
-    - Tocca "Aggiungi piano cellulare" o "Aggiungi eSIM"
-    - Scansiona il codice QR con la fotocamera
-    - Segui le istruzioni sullo schermo per completare la configurazione
-  - num: '3'
-    title: 'Passo 3: Attiva in Asia'
-    desc: Dopo l'arrivo in Asia, attiva la tua Asia eSIM nelle impostazioni per utilizzare i dati. Consigliamo di connetterti a una rete Wi-Fi durante l'attivazione iniziale.
-    is_list: false
+  h1_line1: Asia eSIM
+  h1_line2: 15+ Paesi, 20% DI SCONTO
+  description: Esplora l'Asia senza dover acquistare una nuova SIM ad ogni confine. Una sola eSIM Roami copre Giappone, Corea del Sud, Thailandia, Vietnam, Singapore e oltre 10 destinazioni con velocità 5G. Attivazione immediata, nessun costo di roaming.
+  image: /img/esim/region/asia-esim-hero.jpg
+  image_alt: Mappa di copertura Asia eSIM con connettività 5G in 26 paesi della regione Asia-Pacifico
+  primary_cta_url: /plans/
+  primary_cta_text: Mostra le tariffe Asia
+  secondary_cta_url: /free-esim/
+  secondary_cta_text: Prova l'eSIM gratuita
+  trust_badges:
+  - 26 paesi
+  - Velocità 5G
+  - Tariffe da 1,99 $
+  - Attivazione immediata
+why_section:
+  title: Perché scegliere un'eSIM regionale per l'Asia?
+  subtitle: Se viaggi tra Giappone, Corea, Thailandia e oltre, un'unica tariffa regionale ti fa risparmiare denaro, tempo e la seccatura di gestire più SIM.
+  cards:
+  - icon: globe
+    color: blue
+    title: Transfrontaliero senza soluzione di continuità
+    description: Vola da Tokyo a Seul e poi a Bangkok – la tua connessione dati continua a funzionare senza interruzioni. Una sola tariffa copre tutti i 26 paesi, senza problemi ai confini.
+  - icon: currency
+    color: green
+    title: Risparmia il 50-70% rispetto alle tariffe singole per paese
+    description: Le eSIM individuali per Giappone (8 $), Corea (6 $) e Thailandia (5 $) si sommano rapidamente. Un'unica tariffa Asia copre tutto per una frazione del costo.
+  - icon: lightning
+    color: purple
+    title: Le reti 5G più veloci del mondo
+    description: 'Corea del Sud, Giappone e Singapore sono costantemente ai primi posti #1-3 per velocità 5G a livello mondiale. Roami ti collega a tutte tramite una sola eSIM.'
+country_section:
+  title: Tutti i 26 paesi della regione Asia-Pacifico coperti
+  subtitle: Clicca su un paese per vedere i dettagli sugli operatori, velocità 5G e prezzi locali.
+  subregions:
+  - key: east_asia
+    title: Asia orientale
+    color: blue
+  - key: southeast_asia
+    title: Sud-est asiatico
+    color: emerald
+  - key: south_asia
+    title: Asia meridionale
+    color: amber
+  - key: central_asia
+    title: Asia centrale
+    color: orange
+carrier_section:
+  title: I migliori partner di rete in Asia-Pacifico
+  subtitle: Roami collabora con oltre 40 operatori locali in tutta l'Asia. La regione ospita le reti 5G più veloci – Corea del Sud, Giappone e Singapore sono costantemente in cima alle classifiche di velocità.
+  footnote: '* La velocità effettiva della rete dipende dalla tua posizione, dall’ora del giorno e dal carico della rete. La disponibilità del 5G varia in base al paese e all’operatore.'
+vs_roaming:
+  title: Perché un'eSIM Asia invece del roaming
+  subtitle: Se utilizzi il roaming internazionale del tuo operatore domestico in Asia, molto probabilmente stai pagando troppo. Ecco il confronto.
+  rows:
+  - label: Costo giornaliero
+    roami: 0,33 $ - 2,00 $/giorno
+    carrier: 10 $ - 15 $/giorno
+    highlight: true
+  - label: Viaggio di 14 giorni (3 paesi)
+    roami: 15 $
+    carrier: 140 $ - 210 $
+    highlight: true
+  - label: Velocità 5G
+    roami: 5G più veloci al mondo (400-800 Mbit/s)
+    carrier: Spesso limitato al 3G
+    highlight: false
+  - label: Limite di dati
+    roami: Fino a dati illimitati
+    carrier: Spesso limitato a 0,5 GB/giorno
+    highlight: false
+  - label: Più paesi
+    roami: 26 paesi, nessun costo aggiuntivo
+    carrier: 10 $/giorno per paese (variabile)
+    highlight: false
+  - label: Tethering hotspot
+    roami: Incluso gratuitamente
+    carrier: Spesso limitato o a pagamento
+    highlight: false
+  - label: Tempo di configurazione
+    roami: 2 minuti (codice QR)
+    carrier: Già attivo (ma costoso)
+    highlight: false
+  saving_callout: Un viaggio di 14 giorni in Giappone, Corea e Thailandia con Roami costa solo <strong>15 $</strong> – contro <strong>140-210 $</strong> con il roaming dell’operatore domestico. Un <strong>risparmio del 90%</strong>.
+  promo_code: WEB20
+  promo_discount: 20% DI SCONTO
+  promo_text: Utilizza il codice <strong>WEB20</strong> al momento del pagamento per ottenere un ulteriore 20% di sconto sulla tua eSIM Asia. Questo sconto si applica a tutte le tariffe prepagate.
 faq_section:
-  title: FAQ e guida di viaggio per Asia eSIM
-  desc: Tutto ciò che devi sapere sull'uso della tua Asia eSIM in diversi scenari di viaggio.
-  categories:
-  - id: faq-general
-    icon: help-circle
-    tab_title: Generale
-    title: 1. Domande generali
-    questions:
-    - q: Il mio telefono supporta l'Asia eSIM? Come la installo?
-      a: La maggior parte degli smartphone moderni a partire da iPhone XS/XR, Samsung Galaxy S20+ e Google Pixel 3+ supportano l'eSIM. Puoi installare facilmente la tua Asia eSIM scansionando il codice QR che ti invieremo via email, nelle impostazioni Cellulare/Dati mobili del tuo telefono.
-    - q: Come posso acquistare e attivare l'Asia eSIM? È attiva immediatamente?
-      a: Puoi acquistarla direttamente sul nostro sito web. Non è attiva subito dopo l'acquisto; la validità inizia solo quando arrivi in Asia e il tuo telefono si connette alla rete locale.
-    - q: Cos'è un codice QR di attivazione? Scade? Può essere riutilizzato?
-      a: Il codice QR è il tuo profilo SIM digitale per l'Asia eSIM. Di solito deve essere installato entro 30 giorni dall'acquisto. Una volta installato, non può essere più scansionato o trasferito su un altro dispositivo.
-    - q: Posso ottenere un rimborso se l'Asia eSIM non funziona o ha un segnale scarso?
-      a: Sì, offriamo una garanzia di rimborso. Se riscontri problemi persistenti di rete in Asia che il nostro team di supporto non può risolvere, hai diritto a un rimborso.
-    - q: Offrite supporto clienti 24/7? Come posso contattarvi?
-      a: Sì, il nostro supporto tecnico è disponibile 24 ore su 24, 7 giorni su 7. Puoi contattarci tramite la chat live sul nostro sito web o rispondendo all'email di conferma dell'ordine.
-    - q: Ci sono codici sconto? Come si usa il codice promozionale 'web20'?
-      a: Sì! Puoi inserire il codice promozionale 'web20' nella pagina di checkout per ottenere immediatamente il 20% di sconto sul tuo ordine Asia eSIM.
-    - q: La vostra tariffa 'Dati illimitati' è davvero illimitata? C'è una politica di uso equo (FUP)?
-      a: Le nostre tariffe Unlimited offrono dati continui. Come per tutti i provider globali, si applica una politica di uso equo per prevenire abusi di rete. Se consumi una quantità di dati eccezionalmente elevata in poco tempo, la velocità potrebbe essere temporaneamente ridotta. Ciò non influisce sulla normale navigazione, sui social media, sulla visione di video, ecc.
-    - q: Posso condividere i dati della mia Asia eSIM (hotspot) con altri dispositivi?
-      a: Assolutamente. Tutte le nostre tariffe Asia eSIM supportano l'hotspot mobile e il tethering, permettendoti di condividere i dati con il tuo laptop, tablet o compagni di viaggio.
-    - q: Quali sono i vantaggi della vostra Asia eSIM rispetto alle SIM locali o ad altri fornitori?
-      a: A differenza delle SIM fisiche, non devi fare code in aeroporto o cambiare piccole schede di plastica. Collaboriamo direttamente con le migliori reti locali in Asia, come China Mobile, NTT Docomo e Singtel, per garantire velocità premium a una frazione dei costi di roaming.
-    - q: Come vi confrontate con fornitori eSIM noti come eSIM GO, Numero, Airalo, Holafly?
-      a: Mentre aziende eccellenti come eSIM GO, Numero, Airalo, Holafly forniscono servizi affidabili, noi ci concentriamo sull'offrire l'Asia eSIM più conveniente, con latenza inferiore e prezzi migliori grazie al nostro sistema automatico di corrispondenza dei prezzi.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2. Rete aeroportuale
-    questions:
-    - q: Come ottengo una rete affidabile subito dopo essere uscito dall'aereo?
-      a: Installa l'Asia eSIM prima del volo. Non appena atterri all'aeroporto di Tokyo Haneda, Singapore Changi o Bangkok Suvarnabhumi, disattiva la modalità aereo e attiva la tua linea eSIM. Si connetterà in pochi secondi alla rete 4G/5G locale.
-    - q: Come contatto il mio autista all'aeroporto o uso Uber/Grab?
-      a: Con la tua Asia eSIM attivata all'atterraggio, puoi aprire immediatamente Grab, Gojek o Didi Chuxing per prenotare una corsa, o usare WhatsApp per contattare il tuo autista prenotato, senza dipendere dal Wi-Fi inaffidabile dell'aeroporto.
-    - q: Come utilizzo Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: I tuoi dati ad alta velocità Asia eSIM ti permettono di aprire Google Maps direttamente al ritiro bagagli negli aeroporti di Tokyo Haneda, Singapore Changi, Bangkok Suvarnabhumi per controllare orari in tempo reale di treni, percorsi bus o percorsi a piedi verso il parcheggio taxi.
-    - q: Come evito l'acquisto di costose SIM temporanee in aeroporto?
-      a: Acquistando la nostra Asia eSIM online in anticipo, eviti completamente le trappole per turisti delle edicole SIM nell'area arrivi, risparmiando tempo e denaro.
-    - q: Come ricevo SMS dall'hotel/dall'agenzia di noleggio auto senza numero locale?
-      a: La nostra Asia eSIM fornisce solo dati. Per ricevere SMS, lascia la tua SIM domestica primaria attiva per i messaggi di testo (la ricezione SMS in roaming è solitamente gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia per segnalare la sicurezza e pianificare l'itinerario?
-      a: Non appena atterri, puoi utilizzare iMessage, WhatsApp o FaceTime attraverso i nostri veloci dati mobili Asia eSIM per far sapere alla tua famiglia che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3. Trasporti e viaggi
-    questions:
-    - q: Come utilizzo Google/Apple Maps per pianificare il percorso?
-      a: La nostra stabile connessione Asia eSIM assicura che Google Maps possa scaricare dati sul traffico in tempo reale e orari dei trasporti in tutta l'Asia, rendendo la navigazione fluida.
-    - q: Come possono contattarmi gli autisti Uber/Grab tramite l'app?
-      a: App come Grab, Gojek, Didi Chuxing utilizzano VoIP e messaggi in-app. Poiché hai dati Asia eSIM attivi, gli autisti possono chiamarti o inviarti messaggi direttamente tramite l'app senza bisogno di un numero di telefono locale.
-    - q: Come acquisto biglietti del treno/metropolitana online?
-      a: Puoi utilizzare i tuoi dati Asia eSIM per accedere a app di trasporto locale o siti web e acquistare biglietti digitali con codice QR in movimento, evitando lunghe code alle biglietterie automatiche.
-    - q: Come utilizzo Google Maps per la navigazione in tempo reale dopo aver noleggiato un'auto?
-      a: Basta fissare il telefono e utilizzare i tuoi dati Asia eSIM. Una tariffa da 5 GB o 10 GB fornisce dati più che sufficienti per un'ampia navigazione GPS durante un road trip in Asia.
-    - q: Come scansionare e sbloccare e-scooter condivisi come Lime/Bird?
-      a: Lo sblocco degli e-scooter richiede una connessione Internet veloce per elaborare il codice QR e il pagamento. La nostra Asia eSIM fornisce la copertura urbana affidabile necessaria.
-    - q: Come garantire che le app di ride-hailing funzionino normalmente attraverso più paesi?
-      a: Quando viaggi a livello regionale, il tuo account dell'app di ride-hailing rimane lo stesso. Assicurati solo di avere una connessione Internet attiva (tramite la nostra eSIM locale o regionale) per prenotare le corse.
-    - q: Come fornisco un hotspot personale stabile per i dispositivi della famiglia?
-      a: Vai alle impostazioni del telefono, attiva "Hotspot personale" e la tua famiglia può connettere i propri telefoni o iPad alla rete dati della tua Asia eSIM mentre sei in treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4. Hotel e alloggi
-    questions:
-    - q: Come faccio il check-in automatico dopo la prenotazione su Booking.com/Agoda?
-      a: Molte strutture moderne richiedono l'accesso a un portale online o la verifica dell'email per un codice di serratura intelligente. La tua Asia eSIM assicura che tu possa recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto immediatamente l'host Airbnb per le istruzioni all'arrivo?
-      a: Puoi utilizzare la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite i tuoi dati mobili Asia eSIM.
-    - q: Come utilizzo Google Maps per la navigazione verso l'hotel?
-      a: Che tu alloggi al The Ritz-Carlton Tokyo, Marina Bay Sands Singapore, Mandarin Oriental Bangkok o in una pensione locale, puoi inserire l'indirizzo in Google Maps e ricevere indicazioni passo passo con la tua Asia eSIM.
-    - q: Come ricevo i codici di conferma SMS con Wi-Fi dell'hotel ed eSIM?
-      a: Lascia la tua SIM domestica primaria attiva per gli SMS e utilizza il Wi-Fi dell'hotel o i tuoi dati Asia eSIM per attivare il codice di verifica dalla tua banca o app.
-    - q: Come contatto rapidamente il servizio clienti di Booking/Hotel per modificare gli ordini?
-      a: Puoi utilizzare app VoIP come Skype o le funzioni di chat del servizio clienti nell'app Booking.com con i tuoi dati Asia eSIM ad alta velocità.
-    - q: Come ordino cibo in hotel con app di consegna locali?
-      a: Se arrivi tardi, puoi scaricare GrabFood, Foodpanda o Meituan e ordinare un pasto caldo direttamente nella hall o nella tua camera d'albergo utilizzando i tuoi dati Asia eSIM.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dalla zona Wi-Fi dell'hotel, la tua Asia eSIM subentra automaticamente, permettendoti di inviare un messaggio all'hotel se hai dimenticato il bagaglio o se devi concordare un ritiro successivo.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e divertimenti
-    questions:
-    - q: Come acquisto biglietti elettronici tramite GetYourGuide/Viator?
-      a: Se decidi spontaneamente di visitare la Grande Muraglia Cinese, il Taj Mahal o Angkor Wat, puoi utilizzare i tuoi dati Asia eSIM per acquistare biglietti online senza fare code e mostrare il codice a barre sullo schermo.
-    - q: Come prenoto immediatamente esperienze su Tripadvisor?
-      a: Con l'affidabile 4G/5G della tua Asia eSIM, puoi leggere recensioni e prenotare tour o esperienze locali su Tripadvisor mentre sorseggi un caffè in un bar vicino.
-    - q: Come utilizzo Google/Wikipedia per cercare informazioni durante la visita?
-      a: Migliora la tua esperienza culturale cercando immediatamente fatti storici su Google o traducendo pannelli museali mentre esplori l'Asia.
-    - q: Come utilizzo Google Maps per navigare verso l'attrazione successiva?
-      a: Basta inserire la tua prossima destinazione in Google Maps; la forte copertura urbana della tua Asia eSIM ti guiderà lungo il percorso pedonale o di transito più veloce.
-    - q: Come verificare i tempi di attesa in tempo reale in parchi a tema come Disney?
-      a: Le app dei parchi a tema richiedono un accesso costante a Internet per mostrare i tempi di attesa aggiornati e prenotare i pass rapidi. La tua Asia eSIM ti mantiene connesso in tutto il parco.
-    - q: Come accedo a Ticketmaster per prenotare biglietti per spettacoli?
-      a: Puoi cercare in sicurezza biglietti last minute per teatro o concerti tramite app di ticketing e acquistarli con i tuoi dati mobili Asia eSIM.
-    - q: Come condivido immediatamente foto/video su Instagram/Facebook?
-      a: Le nostre veloci velocità di upload Asia eSIM significano che puoi pubblicare storie, Reel e foto di alta qualità del tuo viaggio in tempo reale, senza aspettare il Wi-Fi dell'hotel.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Ristorazione
-    title: 6. Cibo e ristoranti
-    questions:
-    - q: Come trovo ristoranti con Google Maps/Tripadvisor?
-      a: Utilizza i tuoi dati Asia eSIM per cercare "ristoranti vicino a me" su Google Maps e controllare recensioni, orari di apertura e foto del menu prima di entrare.
-    - q: Come prenoto tavoli tramite OpenTable o siti web di ristoranti?
-      a: Puoi facilmente assicurarti una prenotazione per cena accedendo a piattaforme di prenotazione online con la tua Asia eSIM mentre sei in giro per visite turistiche.
-    - q: Come scansionare i codici QR dei ristoranti per visualizzare i menu elettronici?
-      a: Molti ristoranti ora utilizzano menu digitali. La tua Asia eSIM assicura che tu possa scansionare il codice QR sul tavolo e caricare immediatamente il menu.
-    - q: Come utilizzo la fotocamera di Google Translate per tradurre i menu?
-      a: Apri l'app Google Translate, seleziona la funzione fotocamera e inquadra il menu locale. Ha bisogno di una connessione Internet tramite la tua Asia eSIM per elaborare le traduzioni live in modo accurato.
-    - q: Come registro e utilizzo le versioni internazionali di Uber Eats/DoorDash?
-      a: Puoi scaricare app locali come GrabFood, Foodpanda, Meituan, registrarti con la tua email o account social e ordinare cibo senza problemi con i tuoi dati mobili Asia eSIM.
-    - q: Come completo con successo il pagamento con Apple Pay/Google Pay?
-      a: I pagamenti contactless tramite Apple Pay, Google Pay o metodi locali come Alipay, WeChat Pay, PayPay richiedono una breve stretta di mano Internet che la tua Asia eSIM gestisce perfettamente.
-    - q: Come trovare ristoranti consigliati da Yelp/food blogger?
-      a: Puoi guardare vlog culinari su YouTube o navigare nelle recensioni di Yelp con la tua Asia eSIM mentre sei in movimento per scoprire gemme culinarie nascoste in città.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social media
-    title: 7. Social media e comunicazione
-    questions:
-    - q: Come utilizzare WhatsApp/Telegram in modo stabile all'estero?
-      a: I tuoi account WhatsApp e Telegram sono legati al tuo numero di casa. Con la nostra Asia eSIM come fonte Internet, puoi chattare e telefonare proprio come a casa.
-    - q: Come caricare contenuti su Instagram/TikTok senza connettermi al Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico può essere lento e insicuro. La nostra Asia eSIM 4G/5G ti fornisce la larghezza di banda per caricare file video di grandi dimensioni in modo sicuro su TikTok o Instagram.
-    - q: Come effettuare videochiamate FaceTime/WhatsApp con la famiglia?
-      a: Le nostre partnership con reti a bassa latenza garantiscono che le tue videochiamate FaceTime e via WhatsApp attraverso l'Asia eSIM siano chiare e senza ritardi, ovunque tu sia in Asia.
-    - q: È sicuro accedere agli account social quando si è connessi al Wi-Fi pubblico?
-      a: Le reti Wi-Fi pubbliche sono vulnerabili agli attacchi informatici. L'utilizzo dei tuoi dati mobili personali Asia eSIM è crittografato e molto più sicuro per l'accesso agli account.
-    - q: Come condividere la rete come hotspot personale con i compagni di viaggio?
-      a: Attiva la funzione hotspot del tuo telefono. I tuoi amici possono connettersi alla tua rete Wi-Fi e utilizzare il tuo volume di dati Asia eSIM per controllare i propri social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 8. Viaggi transfrontalieri
-    questions:
-    - q: Devo acquistare una SIM diversa per ogni paese se viaggio attraverso più paesi europei?
-      a: Se acquisti un'Asia eSIM per un singolo paese, funzionerà solo lì. Per viaggi di più giorni attraverso più paesi, consigliamo vivamente la nostra eSIM Regionale (es. Europa eSIM) che copre più paesi con un unico profilo.
-    - q: Come evitare costi di roaming elevati durante i viaggi in treno oltre confine?
-      a: Disattiva il roaming dati sulla tua SIM domestica. Assicurati che la tua Asia eSIM sia impostata come linea dati primaria, in modo da non incorrere mai in costi imprevisti dal tuo operatore domestico.
-    - q: Come ottenere una rete a breve termine durante uno scalo a Singapore/Dubai?
-      a: Puoi acquistare un'eSIM economica da 1 GB specifica per il tuo paese di transito per rimanere connesso durante il tuo soggiorno.
-    - q: Come ottenere una rete locale economica per le escursioni da crociera a terra?
-      a: Invece delle costose tariffe Wi-Fi della nave, attiva un'eSIM locale per i paesi in cui attraccherai. Si connetterà non appena sarai vicino alla riva.
-    - q: Come assicurarmi che Google Maps rimanga online durante i viaggi in auto transfrontalieri?
-      a: Con un'eSIM regionale, il tuo telefono passerà automaticamente alla rete del nuovo paese quando attraversi il confine, mantenendo attivo il GPS.
-    - q: Come gestire l'utilizzo dei dati per più paesi con un'unica app?
-      a: Puoi monitorare l'utilizzo dei dati per tutte le tue eSIM attive direttamente tramite il pannello di controllo utente sul nostro sito web.
-    - q: Come mantenere stabili le modalità di contatto durante il mio viaggio attraverso più paesi?
-      a: Poiché WhatsApp/iMessage dipendono dai dati, un'eSIM regionale assicura che amici e familiari possano sempre raggiungerti allo stesso numero senza interruzioni.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 9. Emergenze
-    questions:
-    - q: Come comporre i numeri di emergenza locali in un paese straniero?
-      a: In Asia, puoi comporre i numeri di emergenza locali come 110, 119, 112 direttamente dal tastierino del telefono, indipendentemente dalla tua SIM attiva, purché il telefono possa ricevere un segnale cellulare.
-    - q: Come trovare l'ospedale/farmacia più vicino in caso di malattia improvvisa?
-      a: I tuoi dati Asia eSIM ti permettono di cercare immediatamente "farmacia vicino a me" o "ospedale" su Google Maps e ottenere il percorso più veloce.
-    - q: Come trovare informazioni su ambasciata/consolato dopo lo smarrimento del passaporto?
-      a: Puoi navigare rapidamente su Internet con la tua Asia eSIM per trovare l'indirizzo esatto, l'email di emergenza e gli orari di apertura dell'ambasciata del tuo paese.
-    - q: Come contattare la linea di assistenza di emergenza dell'assicurazione di viaggio in caso di emergenza?
-      a: Utilizza app VoIP come Skype o Viber tramite i tuoi dati Asia eSIM per chiamare i numeri verdi internazionali della tua assicurazione.
-    - q: Come condividere la mia posizione in tempo reale in aree pericolose?
-      a: Puoi utilizzare la funzione "Condividi posizione in tempo reale" su WhatsApp o la funzione "Dov'è?" di Apple per inviare continuamente le tue coordinate GPS ad amici fidati utilizzando i tuoi dati mobili Asia eSIM.
-    - q: Come scaricare mappe offline/luoghi importanti prima di recarmi in aree remote?
-      a: Utilizza la tua Asia eSIM mentre hai ancora una forte copertura urbana per scaricare mappe offline su Google Maps, nel caso tu ti avventuri in montagna o in zone rurali profonde dove il segnale diminuisce.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10. Business e lavoro
-    questions:
-    - q: Come garantire riunioni video Zoom/Microsoft Teams stabili?
-      a: La nostra Asia eSIM si connette a reti locali di alta qualità e offre l'elevata larghezza di banda e la bassa latenza necessarie per una videoconferenza professionale fluida.
-    - q: Come connettermi in modo sicuro alla VPN aziendale durante i viaggi di lavoro per accedere ai sistemi interni?
-      a: I nostri dati mobili non limitano i protocolli VPN. Puoi avviare in sicurezza la tua app VPN aziendale sulla rete Asia eSIM per accedere ai server interni.
-    - q: Come fornire connettività di rete per laptop in aeroporti/caffè tramite hotspot mobile?
-      a: Basta attivare l'hotspot personale del telefono. La condivisione della tua Asia eSIM è notevolmente più veloce e molto più sicura dalle minacce informatiche rispetto all'utilizzo di reti Wi-Fi pubbliche aperte.
-    - q: Come assicurarmi di ricevere i codici di conferma da banche/email aziendali?
-      a: Lascia la tua SIM domestica attiva per la ricezione di SMS e utilizza i tuoi dati Asia eSIM per ricevere codici 2FA basati su email o notifiche push da app di autenticazione.
-    - q: Come caricare rapidamente file di grandi dimensioni su cloud drive presso sedi clienti/fiere?
-      a: Con le velocità 5G/4G LTE della tua Asia eSIM, puoi caricare rapidamente presentazioni o documenti di grandi dimensioni su Google Drive o Dropbox direttamente dal sito della fiera.
-    - q: Come utilizzare Slack/Gmail/Google Drive senza problemi per la collaborazione?
-      a: La tua Asia eSIM fornisce connettività costante, così ricevi immediatamente notifiche Slack ed email importanti e rimani sincronizzato con il tuo team.
-    - q: Come aggiornare i piani di viaggio online per comunicare sempre con l'azienda?
-      a: Puoi accedere ai portali di viaggio aziendali o inviare un'email alle risorse umane tramite la tua Asia eSIM per informarli su ritardi dei voli o cambi di programma.
-related_products:
-  title: Tariffe eSIM simili
-  items:
-  - name: eSIM Stati Uniti
-    flag: img/flags/us.svg
-    price: A partire da $1.99
-    is_highlight: false
-    slug: united-states-esim
-  - name: eSIM Regno Unito
-    flag: img/flags/gb.svg
-    price: A partire da $1.99
-    is_highlight: false
-    slug: united-kingdom-esim
-  - name: eSIM Europa
-    flag: img/flags/eu.svg
-    price: A partire da $1.99
-    is_highlight: true
-    slug: europe-esim
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: A partire da $1.99
-    is_highlight: false
-    slug: canada-esim
-  - name: eSIM Turchia
-    flag: img/flags/tr.svg
-    price: A partire da $1.99
-    is_highlight: false
-    slug: turkey-esim
-  - name: eSIM Cina
-    flag: img/flags/cn.svg
-    price: A partire da $1.99
-    is_highlight: false
-    slug: china-esim
-  - name: eSIM Giappone
-    flag: img/flags/jp.svg
-    price: A partire da $1.99
-    is_highlight: false
-    slug: japan-esim
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: A partire da $1.99
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: eSIM Francia
-    flag: img/flags/fr.svg
-    price: A partire da $1.99
-    is_highlight: false
-    slug: france-esim
-  - name: eSIM Spagna
-    flag: img/flags/es.svg
-    price: A partire da $1.99
-    is_highlight: false
-    slug: spain-esim
-  - name: eSIM Germania
-    flag: img/flags/de.svg
-    price: A partire da $1.99
-    is_highlight: false
-    slug: germany-esim
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: A partire da $1.99
-    is_highlight: false
-    slug: australia-esim
----
+  subtitle: Tutto ciò che devi sapere sull’uso di un’eSIM Asia.
+faq:
+- question: Un’eSIM Roami funziona in tutta l’Asia?
+  answer: >
+    Sì. Una sola eSIM Roami Asia copre 26 paesi in Asia orientale, Sud-est asiatico, Asia meridionale e Asia centrale con connettività 5G/4G. Passa dal Giappone alla Corea e poi alla Thailandia senza cambiare SIM o acquistare nuove tariffe. Con l’eSIM prepagata Asia, rimanere connessi è senza sforzo.
+- question: Quanto costa un’eSIM Asia?
+  answer: >
+    Le tariffe Roami Asia eSIM partono da soli 5 $ per brevi viaggi e arrivano fino a 59 $ per dati illimitati per soggiorni più lunghi. Rispetto all’acquisto di eSIM separate per Giappone (8 $), Corea (6 $) e Thailandia (5 $), un’unica tariffa Asia da 15 $ le sostituisce tutte. Utilizza il codice WEB20 per il 20% di sconto. Con questa soluzione prepagata, rimanere connessi è senza sforzo. Senza contratto, rimanere connessi è senza sforzo. Per le migliori tariffe prepagate Asia eSIM, consulta i nostri [prezzi Asia eSIM a partire da 1,99 $](/plans/) – copertura di 26 paesi a partire da soli 1,99 $ per un’eSIM da viaggio conveniente.
+- question: Quali paesi sono inclusi nella tariffa Asia?
+  answer: >
+    La nostra eSIM Asia copre 26 paesi, tra cui Giappone, Corea del Sud, Cina, Taiwan, Hong Kong, Thailandia, Vietnam, Indonesia, Filippine, Malaysia, Singapore, India e altri ancora. L’elenco completo si trova nell’indice dei paesi qui sopra.
+- question: Il 5G è veloce in Asia?
+  answer: >
+    L’Asia è la patria delle reti 5G più veloci del mondo. Corea del Sud, Giappone e Singapore occupano costantemente le posizioni #1-3 con velocità medie di download 5G tra 300 e 800 Mbit/s. Roami ti collega alla rete più veloce disponibile in ogni paese. Con la doppia SIM, rimanere connessi è senza sforzo. Con i viaggi in Asia, rimanere connessi è senza sforzo. Roami è ampiamente considerata una delle migliori opzioni eSIM per viaggi multi-paese in Asia – prepagata, conveniente, 26 paesi con velocità di rete locali e nessun costo di roaming.
+- question: Posso usare il tethering hotspot in tutta l’Asia?
+  answer: >
+    Assolutamente. Tutte le tariffe Roami Asia eSIM includono il tethering hotspot senza costi aggiuntivi. Condividi la tua connessione con il tuo laptop o i tuoi compagni di viaggio – essenziale per i nomadi digitali che lavorano da Bali, Chiang Mai o Tokyo.
+- question: La tariffa include la Cina senza VPN?
+  answer: >
+    Sì. L’eSIM Roami Asia si connette alle reti locali cinesi (China Mobile, China Unicom) e per la maggior parte delle app e dei servizi internazionali non è necessaria una VPN. Nessun documento d’identità cinese o registrazione richiesta.
+- question: Come attivo la mia eSIM Asia?
+  answer: >
+    L’attivazione della tua eSIM Roami Asia richiede meno di 2 minuti. Dopo l’acquisto, apri l’email di conferma e scansiona il codice QR con la fotocamera del tuo telefono. Per iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Per Android: Impostazioni > Rete e Internet > Aggiungi eSIM. La tua eSIM prepagata viene installata prima della partenza e si attiva automaticamente non appena atterri in Asia. Per ulteriori risposte, consulta la nostra pagina [FAQ](/faq/) o sfoglia il [blog di viaggio Roami](/blog/) per guide e consigli.
+- question: Quanto costa un’eSIM Asia?
+  answer: >
+    Le tariffe Roami Asia eSIM partono da soli 1,99 $, con tariffe dati prepagate a partire da 5 $ per l’intero viaggio. Confrontalo con il roaming dell’operatore domestico a 10-15 $ al giorno – un viaggio di due settimane ti fa risparmiare oltre 130 $. Nessun contratto né costi nascosti – paghi una volta in anticipo e ottieni opzioni di dati illimitati in tutti i paesi coperti.
+- question: Cosa succede se la mia eSIM Asia non funziona o cambio i miei piani di viaggio?
+  answer: >
+    Roami offre una garanzia di rimborso del 100% su tutte le tariffe prepagate Asia eSIM. Se la tua eSIM non si attiva o hai problemi di connessione, contatta il nostro team di supporto umano 24/7. Risolveremo il problema con te immediatamente – e se il problema non può essere risolto, riceverai un rimborso completo senza fare domande.
+cross_region_links:
+- title: Europa eSIM
+  url: /europe-esim/
+  note: Prosegui verso ovest dopo l’Asia?
+- title: Sud-est asiatico eSIM
+  url: /southeast-asia-esim/
+  note: Approfondimento sui 10 paesi ASEAN
+- title: Oceania eSIM
+  url: /oceania-esim/
+  note: 'Prossima fermata: Australia e Nuova Zelanda?'
+featured_carriers:
+- name: NTT Docomo
+  hq: Giappone
+  speed: Eccellente 5G/4G
+  rating: Eccellente
+  countries: Giappone
+- name: SK Telecom
+  hq: Corea del Sud
+  speed: Eccellente 5G/4G
+  rating: Eccellente
+  countries: Corea del Sud
+- name: China Mobile
+  hq: Cina
+  speed: Molto buono 5G/4G
+  rating: Molto buono
+  countries: Cina
+- name: Singtel
+  hq: Singapore
+  speed: Eccellente 5G/4G
+  rating: Eccellente
+  countries: Singapore
+- name: AIS
+  hq: Thailandia
+  speed: Eccellente 5G/4G
+  rating: Eccellente
+  countries: Thailandia
+- name: Viettel
+  hq: Vietnam
+  speed: Molto buono 5G/4G
+  rating: Molto buono
+  countries: Vietnam
+- name: Airtel
+  hq: India
+  speed: Molto buono 5G/4G
+  rating: Molto buono
+  countries: India
+- name: Telkomsel
+  hq: Indonesia
+  speed: Molto buono 5G/4G
+  rating: Molto buono
+  countries: Indonesia
+countries:
+  east_asia:
+  - name: Giappone
+    url: /japan-esim/
+    flag: 🇯🇵
+    carriers: Docomo, SoftBank, KDDI
+    is_popular: true
+    flag_image: /img/flags/jp.svg
+    network: 5G
+  - name: Corea del Sud
+    url: /south-korea-esim/
+    flag: 🇰🇷
+    carriers: SK Telecom, KT, LG U+
+    is_popular: true
+    flag_image: /img/flags/kr.svg
+    network: 5G
+  - name: Cina
+    url: /china-esim/
+    flag: 🇨🇳
+    carriers: China Mobile, China Unicom
+    is_popular: true
+    flag_image: /img/flags/cn.svg
+    network: 5G
+  - name: Taiwan
+    url: /taiwan-esim/
+    flag: 🇹🇼
+    carriers: Chunghwa, FET, Taiwan Mobile
+    is_popular: false
+    flag_image: /img/flags/tw.svg
+    network: 5G
+  - name: Hong Kong
+    url: /hong-kong-esim/
+    flag: 🇭🇰
+    carriers: CMHK, CSL, 3, SmarTone
+    is_popular: true
+    flag_image: /img/flags/hk.svg
+    network: 5G
+  - name: Macao
+    url: /macao-esim/
+    flag: 🇲🇴
+    carriers: CTM, SmarTone, 3
+    is_popular: false
+    flag_image: /img/flags/mo.svg
+    network: 5G
+  - name: Mongolia
+    url: /mongolia-esim/
+    flag: 🇲🇳
+    carriers: Mobicom, Unitel, Skytel
+    is_popular: false
+    flag_image: /img/flags/mn.svg
+    network: 4G
+  southeast_asia:
+  - name: Thailandia
+    url: /thailand-esim/
+    flag: 🇹🇭
+    carriers: AIS, TrueMove, dtac
+    is_popular: true
+    flag_image: /img/flags/th.svg
+    network: 5G
+  - name: Vietnam
+    url: /vietnam-esim/
+    flag: 🇻🇳
+    carriers: Viettel, Mobifone, Vinaphone
+    is_popular: true
+    flag_image: /img/flags/vn.svg
+    network: 5G
+  - name: Indonesia
+    url: /indonesia-esim/
+    flag: 🇮🇩
+    carriers: Telkomsel, XL, Indosat
+    is_popular: true
+    flag_image: /img/flags/id.svg
+    network: 5G
+  - name: Filippine
+    url: /philippines-esim/
+    flag: 🇵🇭
+    carriers: Globe, Smart, DITO
+    is_popular: false
+    flag_image: /img/flags/ph.svg
+    network: 5G
+  - name: Malesia
+    url: /malaysia-esim/
+    flag: 🇲🇾
+    carriers: Maxis, Celcom, Digi
+    is_popular: false
+    flag_image: /img/flags/my.svg
+    network: 5G
+  - name: Singapore
+    url: /singapore-esim/
+    flag: 🇸🇬
+    carriers: Singtel, StarHub, M1
+    is_popular: true
+    flag_image: /img/flags/sg.svg
+    network: 5G
+  - name: Cambogia
+    url: /cambodia-esim/
+    flag: 🇰🇭
+    carriers: Smart, Cellcard, Metfone
+    is_popular: false
+    flag_image: /img/flags/kh.svg
+    network: 4G
+  - name: Laos
+    url: /laos-esim/
+    flag: 🇱🇦
+    carriers: Unitel, Lao Telecom
+    is_popular: false
+    flag_image: /img/flags/la.svg
+    network: 4G
+  - name: Brunei
+    url: /brunei-esim/
+    flag: 🇧🇳
+    carriers: DST, Progresif
+    is_popular: false
+    flag_image: /img/flags/bn.svg
+    network: 4G
+  south_asia:
+  - name: India
+    url: /india-esim/
+    flag: 🇮🇳
+    carriers: Airtel, Jio, Vi
+    is_popular: true
+    flag_image: /img/flags/in.svg
+    network: 5G
+  - name: Pakistan
+    url: /pakistan-esim/
+    flag: 🇵🇰
+    carriers: Jazz, Zong, Telenor
+    is_popular: false
+    flag_image: /img/flags/pk.svg
+    network: 4G
+  - name: Bangladesh
+    url: /bangladesh-esim/
+    flag: 🇧🇩
+    carriers: Grameenphone, Robi
+    is_popular: false
+    flag_image: /img/flags/bd.svg
+    network: 4G
+  - name: Nepal
+    url: /nepal-esim/
+    flag: 🇳🇵
+    carriers: Ncell, Nepal Telecom
+    is_popular: false
+    flag_image: /img/flags/np.svg
+    network: 4G
+  - name: Maldive
+    url: /maldives-esim/
+    flag: 🇲🇻
+    carriers: Dhiraagu, Ooredoo
+    is_popular: false
+    flag_image: /img/flags/mv.svg
+    network: 4G
+  - name: Afghanistan
+    url: /afghanistan-esim/
+    flag: 🇦🇫
+    carriers: AWCC, Roshan
+    is_popular: false
+    flag_image: /img/flags/af.svg
+    network: 4G
+  central_asia:
+  - name: Kazakistan
+    url: /kazakhstan-esim/
+    flag: 🇰🇿
+    carriers: Beeline, Kcell, Tele2
+    is_popular: false
+    flag_image: /img/flags/kz.svg
+    network: 5G
+  - name: Uzbekistan
+    url: /uzbekistan-esim/
+    flag: 🇺🇿
+    carriers: Ucell, Beeline, Uzmobile
+    is_popular: false
+    flag_image: /img/flags/uz.svg
+    network: 4G
+  - name: Kirghizistan
+    url: /kyrgyzstan-esim/
+    flag: 🇰🇬
+    carriers: Beeline KG, MegaCom
+    is_popular: false
+    flag_image: /img/flags/kg.svg
+    network: 4G
+  - name: Tagikistan
+    url: /tajikistan-esim/
+    flag: 🇹🇯
+    carriers: Tcell, MegaFon TJ
+    is_popular: false
+    flag_image: /img/flags/tj.svg
+    network: 4G
+--- 

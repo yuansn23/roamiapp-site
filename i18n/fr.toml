@@ -216,3 +216,84 @@ other = "🔗 Cela pourrait aussi te plaire"
 
 [popular_destinations]
 other = "Destinations eSIM populaires"
+
+[promo_limited_offer]
+other = "🔥 Offre limitée 🔥"
+
+[promo_use_code]
+other = "Utilisez le code"
+
+[promo_checkout]
+other = "⭐ Saisissez le code à la caisse pour obtenir votre réduction ⭐"
+
+[promo_stats_text]
+other = "Rejoignez plus d'1 million de voyageurs qui sont passés à Roami. 5G dans {{ .Countries }} pays. Forfaits à partir de {{ .Price }} $. Activation instantanée."
+
+[region_country_title]
+other = "L'eSIM {{ .RegionName }} fonctionne dans {{ .TotalCountries }} pays"
+
+[coverage_stats_text]
+other = """
+Une seule eSIM se connecte automatiquement au réseau local le plus puissant dans chaque pays.
+<strong class="text-orange-600">{{ .FiveGCount }} pays disposent de la 5G</strong>,
+{{ .FourGCount }} disposent d'une 4G/LTE fiable.
+Appuyez sur un pays pour obtenir des guides d'installation et des détails sur les opérateurs.
+"""
+
+[powered_by_operators]
+other = "Propulsé par les plus grands opérateurs mobiles de {{ .RegionName }}"
+
+[auto_switch_carriers]
+other = """
+Votre eSIM Roami bascule automatiquement entre <strong class="text-orange-600">{{ .CarrierCount }}+ opérateurs</strong> pour bénéficier du meilleur signal.
+"""
+
+[network_partners_label]
+other = "Partenaires réseau"
+
+[premium_carrier_partners_title]
+other = "{{ .Count }}+ partenaires réseau premium"
+
+[network_partners_description]
+other = "Votre eSIM Roami se connecte automatiquement aux meilleurs réseaux locaux. Aucune commutation manuelle nécessaire."
+
+[esim_auto_connect]
+other = "L'un des plus grands opérateurs dont le siège est à {{ .HQ }}. Votre eSIM se connecte automatiquement{{ .CountriesSuffix }}."
+
+[carrier_roaming_title]
+other = "Itinérance de votre opérateur"
+
+[carrier_roaming_badge]
+other = "Frais cachés"
+
+[carrier_roaming_estimate]
+other = "estimé pour un voyage de 2 semaines"
+
+[roami_title]
+other = "eSIM Roami {{ .RegionName }}"
+
+[roami_badge]
+other = "Meilleur rapport qualité-prix"
+
+[roami_price_label]
+other = "À partir de 1,99 $"
+
+[roami_plan_description]
+other = "forfaits prépayés à partir de 5 $ pour un voyage complet"
+
+[esim_vs_carrier_roaming]
+other = "eSIM {{ .RegionName }} vs. itinérance opérateur"
+
+[heading_beyond_region]
+other = "Vous allez au-delà de {{ .RegionName }} ?"
+
+[try_free_button]
+other = "Essayer l'eSIM gratuite"
+
+[regionQuestionsTitle]
+other = "{{ .RegionName }} eSIM : questions fréquentes des voyageurs"
+
+[stats]
+countries = "Pays"
+carriers = "Opérateurs"
+coverage_5g = "Couverture 5G"

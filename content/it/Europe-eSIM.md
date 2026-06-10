@@ -1,725 +1,525 @@
 ---
-title: eSIM Europa Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-04T00:00:00+00:00'
-draft: false
-type: esim
-country_meta:
-  core_keyword: eSIM Europa
-  scenario_keywords: visite turistiche, viaggi d'affari, vacanze estive, city break,
-    viaggi in famiglia
-  operators: Vodafone, Orange, Deutsche Telekom
-  competitors: Airalo, Holafly, Nomad eSIM, Ubigi, Flexiroam
-  main_cities: Parigi, Roma, Barcellona, Berlino, Londra
-  main_packages: 3/7/15/30 giorni, dati illimitati
-modal:
-  title: Aggiornamento del servizio!
-  btn_text: Continua
-  text_default: |-
-    Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIMGo</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
-  text_android: |-
-    Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
-seo:
-  title: "eSIM Europa | 40+ Paesi, Risparmia il 20% Ora"
-  description: "Viaggia in Europa con una sola eSIM Roami. 5G transfrontaliero in oltre 40 paesi. Nessun roaming, nessun cambio SIM. QR immediato. Piani da 5 $."
-  keywords: eSIM Europa, viaggio Europa, roaming Europa, copertura mobile Europa,
-    connettività viaggio
-order_summary:
-  title: Piano selezionato
-  label_data: Volume dati
-  label_validity: Validità
-  label_daily: Prezzo giornaliero
-  label_total: Prezzo totale
-  btn_primary: Ottieni 20% di sconto
-  btn_secondary: 'Codice: web20'
+title: eSIM Europa | 40+ Paesi, un unico piano, niente costi di roaming
+description: Viaggia in Europa con una eSIM prepagata Roami — la migliore eSIM per viaggiare in più paesi europei. 5G transfrontaliero in 47 paesi con attivazione istantanea sulle reti locali. Nessun costo di roaming. Piani dati illimitati da 5 $.
+date: 2026-06-08
+lastmod: 2026-06-08
+type: regional-esim
 breadcrumbs:
-- label: Home
+- name: Home
   url: /
-- label: eSIM Europa
-banner:
-  image: img/esim/esim-travel.jpg
-  alt: Miglior eSIM per Europa
-  title: Miglior eSIM per Europa
+- name: eSIM Europa
+  url: /europe-esim/
+region:
+  name: Europa
+  country_count: 47
+  coverage_note: Copertura 5G con commutazione transfrontaliera senza interruzioni in 47 paesi
+  url: /europe-esim/
 hero:
-  flag_image: img/flags/eu.svg
-  flag_alt: Bandiera di Europa
-  title: eSIM Europa – eSIM prepagata
-  subtitle: Niente più costi di roaming | Attivazione in 1 minuto | Nessuna commissione
-    nascosta
-features:
-  title: Perché i viaggiatori scelgono l'eSIM Roami per Europa
-  items:
-  - icon: zap
-    color: from-brand-400 to-brand-600
-    title: Codice QR immediato
-    desc: Consegna in meno di 5 minuti
-  - icon: headset
-    color: from-emerald-400 to-emerald-600
-    title: Supporto 24/7
-    desc: Sempre qui per te
-  - icon: shield-check
-    color: from-amber-400 to-amber-600
-    title: Garanzia
-    desc: Protezione dell'acquirente garantita
-  - icon: wifi
-    color: from-purple-400 to-purple-600
-    title: Hotspot consentito
-    desc: Condividi i dati con altri
-  - icon: file-x
-    color: from-rose-400 to-rose-600
-    title: Nessun contratto
-    desc: Disdici in qualsiasi momento
-  - icon: radio-tower
-    color: from-blue-400 to-blue-600
-    title: Selezione automatica
-    desc: Migliori reti locali
-plans_title: Scegli il tuo piano
-plans_data:
-  30 Giorni:
-  - spec: 20GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Perfetto per il tuo viaggio
-    price: '21.99'
-    oldPrice: '32.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '0.73'
-  - spec: 50GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Perfetto per il tuo viaggio
-    price: '39.99'
-    oldPrice: '59.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.33'
-  - spec: 100GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Perfetto per il tuo viaggio
-    price: '54.99'
-    oldPrice: '82.48'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.83'
-  - spec: 3GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Perfetto per visite turistiche
-    price: '6.99'
-    oldPrice: '10.48'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '0.23'
-    tagIcon: star
-  - spec: 5GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per viaggi più lunghi
-    price: '9.99'
-    oldPrice: '14.98'
-    tag: Miglior rapporto qualità-prezzo
-    tagColor: bg-emerald-500
-    daily: '0.33'
-  - spec: 10GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per viaggi ancora più lunghi
-    price: '16.99'
-    oldPrice: '25.48'
-    tag: Miglior rapporto qualità-prezzo
-    tagColor: bg-emerald-500
-    daily: '0.57'
-  - spec: 20GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Perfetto per il tuo viaggio
-    price: '18.99'
-    oldPrice: '28.48'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '0.63'
-  - spec: 30GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Perfetto per il tuo viaggio
-    price: '27.99'
-    oldPrice: '41.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '0.93'
-  - spec: 50GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Perfetto per il tuo viaggio
-    price: '35.99'
-    oldPrice: '53.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.20'
-  - spec: Unlimited
-    data: Dati ad alta velocità illimitati
-    desc: Utilizzo dati senza preoccupazioni
-    price: '64.99'
-    oldPrice: '97.48'
-    tag: Premium
-    tagColor: bg-purple-600
-    daily: '2.17'
-  7 Giorni:
-  - spec: 10GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per viaggi ancora più lunghi
-    price: '12.99'
-    oldPrice: '19.48'
-    tag: Miglior rapporto qualità-prezzo
-    tagColor: bg-emerald-500
-    daily: '1.86'
-  - spec: 20GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Perfetto per il tuo viaggio
-    price: '20.99'
-    oldPrice: '31.48'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '3.00'
-  - spec: 3GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Perfetto per visite turistiche
-    price: '4.99'
-    oldPrice: '7.49'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '0.71'
-    tagIcon: star
-  - spec: 5GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per viaggi più lunghi
-    price: '7.99'
-    oldPrice: '11.98'
-    tag: Miglior rapporto qualità-prezzo
-    tagColor: bg-emerald-500
-    daily: '1.14'
-  - spec: 1GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per brevi viaggi d'affari
-    price: '2.99'
-    oldPrice: '4.49'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '0.43'
-  - spec: Unlimited
-    data: Dati ad alta velocità illimitati
-    desc: Utilizzo dati senza preoccupazioni
-    price: '23.99'
-    oldPrice: '35.98'
-    tag: Premium
-    tagColor: bg-purple-600
-    daily: '3.43'
-  15 Giorni:
-  - spec: 10GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per viaggi ancora più lunghi
-    price: '13.99'
-    oldPrice: '20.98'
-    tag: Miglior rapporto qualità-prezzo
-    tagColor: bg-emerald-500
-    daily: '0.93'
-  - spec: 20GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Perfetto per il tuo viaggio
-    price: '21.99'
-    oldPrice: '32.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.47'
-  - spec: 30GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Perfetto per il tuo viaggio
-    price: '28.99'
-    oldPrice: '43.48'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.93'
-  - spec: 3GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Perfetto per visite turistiche
-    price: '5.99'
-    oldPrice: '8.98'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '0.40'
-    tagIcon: star
-  - spec: 5GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per viaggi più lunghi
-    price: '8.99'
-    oldPrice: '13.48'
-    tag: Miglior rapporto qualità-prezzo
-    tagColor: bg-emerald-500
-    daily: '0.60'
-  - spec: Unlimited
-    data: Dati ad alta velocità illimitati
-    desc: Utilizzo dati senza preoccupazioni
-    price: '42.99'
-    oldPrice: '64.48'
-    tag: Premium
-    tagColor: bg-purple-600
-    daily: '2.87'
-  3 Giorni:
-  - spec: 1GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per brevi viaggi d'affari
-    price: '1.99'
-    oldPrice: '2.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '0.66'
-  - spec: 3GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Perfetto per visite turistiche
-    price: '3.99'
-    oldPrice: '5.99'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '1.33'
-    tagIcon: star
-  - spec: 5GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per viaggi più lunghi
-    price: '6.99'
-    oldPrice: '10.48'
-    tag: Miglior rapporto qualità-prezzo
-    tagColor: bg-emerald-500
-    daily: '2.33'
-  - spec: 10GB
-    data: Alta velocità 5G/4G/LTE
-    desc: Ideale per viaggi ancora più lunghi
-    price: '10.99'
-    oldPrice: '16.48'
-    tag: Miglior rapporto qualità-prezzo
-    tagColor: bg-emerald-500
-    daily: '3.66'
-  - spec: Unlimited
-    data: Dati ad alta velocità illimitati
-    desc: Utilizzo dati senza preoccupazioni
-    price: '8.99'
-    oldPrice: '13.48'
-    tag: Premium
-    tagColor: bg-purple-600
-    daily: '3.00'
-discount_banner:
-  title: Sconto speciale sull'eSIM Europa!
-  desc_html: |-
-    Usa il codice <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> al checkout per ottenere <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% DI SCONTO</span>!
-  btn_text: Salva lo sconto
-  validity: 'Valido: 3 giorni'
-network_coverage:
-  title: Dettagli copertura di rete eSIM Europa
-  supports_text: 'Supporta:'
-  service_details:
-    title: Dettagli del servizio
-    items:
-    - icon: map
-      color: text-brand-500
-      title: Copertura
-      desc: Goditi una copertura di rete completa in tutta Europa, comprese città
-        come Parigi, Roma, Barcellona, Berlino. La nostra eSIM Europa si connette
-        perfettamente alle reti di Vodafone, Orange, Deutsche Telekom.
-    - icon: zap
-      color: text-amber-500
-      title: Tempo di consegna
-      desc: Fornitura immediata dopo l'acquisto.
-    - icon: wifi
-      color: text-emerald-500
-      title: Hotspot
-      desc: Nessuna limitazione hotspot.
-  carriers:
-    title: Reti mobili
-    badge: Partner ufficiale
-    items:
-    - name: Vodafone
-      coverage: Bassa latenza
-      network: Rete 5G/4G/LTE
-    - name: Orange
-      coverage: IP nativo
-      network: Rete 5G/4G/LTE
-    - name: Deutsche Telekom
-      coverage: Ampia copertura
-      network: Rete 5G/4G/LTE
-reminders:
-  title: Avvisi importanti per l'eSIM Europa
-  items:
-  - icon: 📱
-    html: |-
-      Verifica la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilità eSIM</a> del tuo telefono prima dell'acquisto.
-  - icon: ✈️
-    html: Consigliamo di attivare l'eSIM solo dopo l'arrivo in Europa.
-  - icon: ⏰
-    html: La validità inizia al momento della connessione alla rete partner.
-  - icon: 📧
-    html: Il codice QR verrà inviato al tuo indirizzo email.
-  - icon: 🔄
-    html: Puoi installare più eSIM contemporaneamente.
-  compatibility_check:
-    title: Verifica rapida compatibilità
-    desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
-    instruction: 'Digita sulla tastiera:'
-    code: '*#06#'
-    result_html: |-
-      Se appare un numero <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>, l'eSIM è supportata!
-activation_steps:
-  title: Attiva la tua eSIM Europa in pochi minuti
-  steps:
-  - num: '1'
-    title: Ricevi e salva il codice QR – pronto per Europa
-    desc: Subito dopo l'ordine riceverai un'email con il tuo codice QR di attivazione
-      personale e le istruzioni di configurazione. Salva il codice QR sul tuo smartphone
-      o stampalo – non hai bisogno di una connessione Internet attiva per l'installazione
-      successiva. L'eSIM è valida per 30 giorni, quindi puoi prepararla con calma
-      prima della partenza per Europa.
-    is_list: false
-  - num: '2'
-    title: Installa l'eSIM sul tuo dispositivo - Scansiona il codice QR
-    is_list: true
-    list_items:
-    - Apri **Impostazioni** del tuo smartphone → **Cellulare / Dati mobili**
-    - Tocca **"Aggiungi eSIM"** o **"Aggiungi piano cellulare"**
-    - Scegli **"Scansiona codice QR"** e inquadra il codice con la fotocamera
-    - Il profilo eSIM Europa verrà caricato automaticamente – tocca **"Continua"**
-    - Assegna un nome (es. "Roami Europa") e impostala come **predefinita per i dati
-      mobili**
-    - L'eSIM è ora installata ma **inattiva** – perfetta per la preparazione al viaggio
-  - num: '3'
-    title: Preparazione a casa – test senza rischi
-    desc: Dopo l'installazione puoi lasciare l'eSIM disattivata nelle impostazioni.
-      Tuttavia, puoi già testarla con il Wi-Fi di casa (non verranno consumati dati
-      mobili). Non appena atterri in Europa, attiva l'eSIM – la validità inizierà
-      automaticamente al primo collegamento con la rete di Vodafone / Orange. Nessuna
-      tassa di attivazione nascosta, nessun costo di roaming.
-    is_list: false
-  - num: '4'
-    title: 'Arrivo in Europa: subito online con 5G/4G'
-    desc: Non appena atterrato in Europa (ad esempio in Aeroporto di Heathrow (Londra),
-      Aeroporto Charles de Gaulle (Parigi), Aeroporto di Francoforte), disattiva la
-      modalità aereo (o rimani in modalità aereo e attiva solo l'eSIM). Vai su **Impostazioni
-      → Cellulare** e attiva la tua eSIM Roami Europa. Entro pochi secondi il tuo
-      dispositivo si collegherà automaticamente alla rete 5G/4G più veloce disponibile
-      di Vodafone / Orange. Potrai subito navigare, usare WhatsApp, controllare i
-      social media o configurare un hotspot per altri dispositivi – senza attesa,
-      senza documenti, senza contratto.
-    is_list: false
+  h1_line1: eSIM Europa
+  h1_line2: 40+ Paesi, un unico piano
+  description: Viaggia attraverso l'Europa senza cambiare scheda SIM. Una sola eSIM Roami ti offre dati 5G illimitati in tutti i paesi dell'UE, oltre a Regno Unito, Svizzera, Norvegia e altri ancora. Attraversa i confini senza problemi — niente costi di roaming, niente complicazioni.
+  image: /img/esim/region/europe-esim-hero.jpg
+  image_alt: Mappa di copertura eSIM Europa che mostra la connettività 5G in 47 paesi europei
+  primary_cta_url: /plans/
+  primary_cta_text: Vedi i piani Europa
+  secondary_cta_url: /free-esim/
+  secondary_cta_text: Prova eSIM gratuita
+  trust_badges:
+  - 47 paesi
+  - Velocità 5G
+  - Piani da 1,99 $
+  - Attivazione istantanea
+why_section:
+  title: Perché scegliere un'eSIM regionale per l'Europa?
+  subtitle: Un unico piano regionale ti fa risparmiare denaro, tempo e la frustrazione di dover gestire più schede SIM.
+  cards:
+  - icon: globe
+    color: blue
+    title: Nessun roaming ai confini
+    description: Attraversa la Francia e la Germania, o l'Italia e la Svizzera — i tuoi dati continuano a funzionare senza interruzioni. Le normative UE sul roaming più le nostre partnership con gli operatori significano zero costi a ogni confine.
+  - icon: currency
+    color: green
+    title: Risparmia 40-60% rispetto ai piani per singolo paese
+    description: Acquistare eSIM individuali per Francia, Italia, Spagna e Germania potrebbe costare oltre 30 $. Un unico piano regionale costa solo 5 $ — e funziona ovunque. Perché pagare di più?
+  - icon: lightning
+    color: purple
+    title: Attiva una volta, viaggia ovunque
+    description: Installa prima della partenza, attiva all'arrivo e dimenticati della connettività per il resto del viaggio. Un codice QR. Una configurazione. 47 paesi. Meno di 2 minuti.
+country_section:
+  title: Tutti i 47 paesi europei coperti
+  subtitle: Clicca su qualsiasi paese per vedere informazioni dettagliate sugli operatori, velocità 5G e prezzi locali.
+  subregions:
+  - key: western_europe
+    title: Europa occidentale
+    color: blue
+  - key: northern_europe
+    title: Europa settentrionale
+    color: sky
+  - key: eastern_europe
+    title: Europa orientale
+    color: emerald
+  - key: southern_europe
+    title: Europa meridionale e Mediterraneo
+    color: amber
+  - key: balkans
+    title: Balcani
+    color: red
+  - key: caucasus
+    title: Caucaso
+    color: orange
+carrier_section:
+  title: I migliori partner operatori in Europa
+  subtitle: Roami collabora con oltre 50 operatori locali in tutta Europa. La tua eSIM si connette automaticamente alla rete più potente disponibile in ogni paese.
+  footnote: '* La velocità effettiva della rete dipende dalla tua posizione, dall''ora del giorno e dalla congestione della rete. La disponibilità del 5G varia per paese e operatore.'
+vs_roaming:
+  title: Perché un'eSIM Europa invece del roaming
+  subtitle: Se usi il roaming internazionale del tuo operatore in Europa, stai quasi certamente pagando troppo. Ecco il confronto.
+  rows:
+  - label: Costo giornaliero
+    roami: 0,33 $ - 2,00 $/giorno
+    carrier: 10 $ - 15 $/giorno
+    highlight: true
+  - label: Viaggio di 14 giorni (3 paesi)
+    roami: 15 $
+    carrier: 140 $ - 210 $
+    highlight: true
+  - label: Velocità 5G
+    roami: Piena velocità 5G locale
+    carrier: Spesso limitata a 3G o 4G
+    highlight: false
+  - label: Limite di dati
+    roami: Fino a dati illimitati
+    carrier: Spesso limitato a 0,5-2 GB/giorno
+    highlight: false
+  - label: Paesi multipli
+    roami: 47 paesi, zero costi extra
+    carrier: 10 $/giorno per paese (può variare)
+    highlight: false
+  - label: Tethering hotspot
+    roami: Incluso gratuitamente
+    carrier: Spesso limitato o a pagamento
+    highlight: false
+  - label: Tempo di configurazione
+    roami: 2 minuti (codice QR)
+    carrier: Già attivo (ma costoso)
+    highlight: false
+  saving_callout: Un viaggio di 14 giorni in 3 paesi europei costa solo <strong>15 $</strong> con Roami — contro <strong>140-210 $</strong> con il roaming dell'operatore. È un <strong>risparmio del 90%</strong>.
+  promo_code: WEB20
+  promo_discount: 20% DI SCONTO
+  promo_text: Usa il codice <strong>WEB20</strong> al checkout per un ulteriore 20% di sconto sulla tua eSIM Europa. Questo sconto si applica a tutti i piani prepagati.
 faq_section:
-  title: FAQ eSIM Europa e Guida di Viaggio
-  desc: Tutto ciò che devi sapere sull'uso della tua eSIM Europa in diversi scenari
-    di viaggio.
-  categories:
-  - id: faq-general
-    icon: help-circle
-    tab_title: Generale
-    title: 1. Domande Generali
-    questions:
-    - q: Il mio smartphone supporta l'eSIM per Europa e come la installo?
-      a: Sì, la maggior parte degli smartphone moderni (iPhone XS/XR o successivi,
-        Samsung Galaxy S20+/Note20+, Google Pixel 3a+) supportano l'eSIM. Installa
-        l'eSIM Europa scansionando il codice QR nelle impostazioni cellulari. Le reti
-        di Vodafone / Orange offrono un'eccellente copertura 5G/4G in Europa.
-    - q: Quali requisiti deve soddisfare il mio smartphone per utilizzare l'eSIM Europa?
-      a: Il tuo dispositivo deve essere compatibile con eSIM (iPhone XS/XR o successivi,
-        Samsung Galaxy S20/Note20 o successivi, Google Pixel 3a o successivi, e la
-        maggior parte dei telefoni 5G più recenti di Huawei, Xiaomi, OnePlus). Verifica
-        nelle impostazioni se è disponibile l'opzione 'Aggiungi eSIM'.
-    - q: Roami offre anche eSIM regionali per viaggiare al di fuori di Europa?
-      a: Sì, oltre all'eSIM Europa, offriamo eSIM regionali per Europa, Asia, Nord
-        America e globali. Ideali per gite di più giorni o tour attraverso più paesi
-        – senza cambiare SIM.
-    - q: Posso mantenere il mio numero di telefono attuale mentre uso l'eSIM per Europa?
-      a: 'L''eSIM Roami è una eSIM solo dati. Puoi usare la tua SIM domestica in parallelo
-        (ad es. per chiamate/SMS). La maggior parte dei telefoni dual-SIM gestisce
-        entrambi i profili: imposta semplicemente l''eSIM Roami come predefinita per
-        i dati mobili.'
-    - q: Quanto costa l'eSIM per Europa e ci sono offerte sconto?
-      a: Il nostro piano eSIM Europa parte da soli $1,99/GB. Con il codice promozionale
-        'web20' ottieni il 20% di sconto su ogni ordine – valido per tutti i piani.
-        Nessuna tassa nascosta, nessun vincolo di durata minima.
-    - q: Esiste una garanzia di rimborso se l'eSIM Europa non funziona?
-      a: Sì, offriamo una garanzia di rimborso del 100% entro 7 giorni dall'attivazione,
-        se i problemi tecnici non possono essere risolti dal nostro supporto 24/7.
-        Nessun rischio per te.
-    - q: Posso installare l'eSIM Europa prima della partenza e attivarla successivamente?
-      a: Sì, puoi installare l'eSIM già a casa (tramite Wi-Fi). L'attivazione avviene
-        automaticamente quando il tuo telefono si connette per la prima volta alla
-        rete di Vodafone / Orange in Europa. Così eviti qualsiasi stress all'atterraggio.
-    - q: Quanto è sicura l'eSIM Europa rispetto a una SIM fisica?
-      a: Le eSIM sono più resistenti alle manomissioni, poiché sono integrate nel
-        dispositivo e non possono essere rimosse o copiate. I tuoi dati rimangono
-        crittografati – nessun rischio di SIM persa o rubata.
-    - q: Posso installare l'eSIM per Europa anche senza codice QR?
-      a: Sì, oltre al codice QR, puoi installare l'eSIM manualmente inserendo l'indirizzo
-        SM-DP+ e il codice di attivazione (entrambi si trovano nella tua conferma
-        d'ordine). Il codice QR è comunque il metodo più rapido e semplice.
-    - q: Quali sono i vantaggi dell'eSIM Roami rispetto alle SIM locali prepagate
-        in Europa?
-      a: A differenza delle SIM locali prepagate, eviti di andare in negozio, la registrazione
-        dell'identità (KYC) e la ricerca di una ricarica adatta. Con Roami attivi
-        l'eSIM digitalmente in meno di 2 minuti – nessuna coda in aeroporto.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2. Rete Aeroportuale
-    questions:
-    - q: Come posso ottenere una rete affidabile subito dopo l'atterraggio?
-      a: Installa l'eSIM Europa prima del volo. Non appena atterri in aeroporti come
-        Aeroporto di Heathrow (Londra), Aeroporto Charles de Gaulle (Parigi), Aeroporto
-        di Francoforte, disattiva la modalità aereo e attiva la tua eSIM. Si collegherà
-        in pochi secondi alla rete 4G/5G locale.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Uber, Bolt,
-        Free Now per prenotare una corsa o WhatsApp per contattare il tuo autista,
-        senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Europa, puoi controllare in tempo reale gli orari di
-        treni e autobus direttamente al ritiro bagagli in Aeroporto di Heathrow (Londra),
-        Aeroporto Charles de Gaulle (Parigi), Aeroporto di Francoforte o trovare la
-        strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Europa online in anticipo, eviti completamente
-        i costosi chioschi SIM nell'area arrivi, risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Europa è solo dati. Per ricevere SMS, lascia attiva la tua
-        SIM domestica (la ricezione SMS in roaming è spesso gratuita) e usa l'eSIM
-        per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi
-        dati eSIM Europa per far sapere ai tuoi cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3. Trasporti e Viaggi
-    questions:
-    - q: Come uso Google Maps per pianificare il percorso?
-      a: La nostra stabile connessione eSIM Europa garantisce che Google Maps possa
-        caricare i dati sul traffico in tempo reale e gli orari ovunque in Europa.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Uber, Bolt, Free Now usano VoIP. Poiché hai dati eSIM Europa attivi,
-        gli autisti possono chiamarti o inviarti notifiche direttamente tramite l'app,
-        senza bisogno di un numero locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Europa per acquistare biglietti digitali con codice
-        QR nelle app locali, evitando lunghe code alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Europa. Un piano da 5GB o 10GB è sufficiente
-        per un'ampia navigazione GPS durante un viaggio su strada in Europa.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra
-        eSIM Europa offre la copertura affidabile necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione
-        Internet attiva tramite la nostra eSIM locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può
-        connettersi alla tua rete eSIM Europa sul treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4. Hotel e Alloggi
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email.
-        La tua eSIM Europa ti garantisce di poter recuperare questi dettagli direttamente
-        davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare
-        l'orario di arrivo con il tuo host tramite i dati mobili eSIM Europa.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in The Ritz (Parigi), Hotel de Crillon (Parigi), Four Seasons
-        George V (Parigi), inserisci l'indirizzo in Google Maps e usa la navigazione
-        della tua eSIM Europa.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Europa
-        per ricevere codici via email o app di autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i
-        tuoi dati ad alta velocità eSIM Europa.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Deliveroo, Just Eat, Glovo e usa i tuoi dati eSIM Europa per ordinare
-        un pasto caldo direttamente nella hall dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Europa subentra, permettendoti
-        di scrivere all'hotel se hai dimenticato qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: Come acquisto biglietti elettronici su GetYourGuide/Viator?
-      a: Se vuoi visitare Torre Eiffel (Parigi), Colosseo (Roma), Sagrada Familia
-        (Barcellona) all'ultimo minuto, puoi usare i tuoi dati eSIM Europa per acquistare
-        biglietti online e mostrare il codice a barre direttamente.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Europa, puoi leggere recensioni e prenotare
-        tour locali mentre sei seduto in un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google
-        o traducendo i cartelli dei musei mentre esplori Europa.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura
-        della tua eSIM Europa ti guiderà lungo il percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa
-        in tempo reale. La tua eSIM Europa ti mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite
-        app di ticketing con i tuoi dati eSIM Europa.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Europa ti permettono di pubblicare
-        Reel e foto in tempo reale, senza aspettare il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6. Social Media e Comunicazione
-    questions:
-    - q: Come utilizzo WhatsApp/Telegram in modo stabile all'estero?
-      a: I tuoi account sono legati al tuo numero di casa. Con la nostra eSIM Europa
-        come fonte Internet, puoi chattare e chiamare esattamente come a casa.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Europa 4G/5G
-        offre la larghezza di banda per caricamenti rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM
-        Europa siano chiare e senza ritardi, ovunque ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM
-        Europa personali è crittografato e molto più sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare
-        il tuo volume dati eSIM Europa per i loro social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7. Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Europa funziona solo lì. Per viaggiare attraverso più
-        paesi, consigliamo la nostra eSIM Regionale (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM
-        Europa sia impostata come linea dati primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere
-        online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per
-        i paesi che visiterai. Si collegherà non appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del
-        nuovo paese quando superi il confine, mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente
-        tramite il nostro dashboard utente sul sito Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce
-        di essere sempre raggiungibile allo stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8. Emergenze
-    questions:
-    - q: Come si compongono i numeri di emergenza locali?
-      a: In Europa puoi comporre direttamente numeri di emergenza come 112 (numero
-        unico emergenze UE), purché il telefono riceva un segnale cellulare.
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Europa consentono una ricerca immediata su Google Maps di
-        'farmacia' o 'ospedale' con il percorso più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Europa per trovare rapidamente l'indirizzo e il contatto
-        di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Europa per chiamare le linee
-        di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare
-        le tue coordinate tramite i dati eSIM Europa.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Europa per caricare mappe offline
-        in Google Maps prima di recarti in aree senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9. Business e Lavoro
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Europa si connette a reti premium offrendo larghezza di banda
-        e bassa latenza per videoconferenze professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale
-        in modo sicuro sulla rete eSIM Europa.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Europa è molto più veloce e sicuro
-        contro le minacce informatiche rispetto alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Europa per
-        i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Europa puoi caricare rapidamente presentazioni
-        sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Europa offre una connessione costante, così ricevi immediatamente
-        messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Europa in movimento per informare
-        le risorse umane sui ritardi dei voli.
-related_products:
-  title: Piani eSIM simili
-  items:
-  - name: Stati Uniti eSIM
-    flag: img/flags/us.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: united-states-esim
-  - name: Regno Unito eSIM
-    flag: img/flags/gb.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: united-kingdom-esim
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: A partire da $1,99
-    is_highlight: true
-    slug: europe-esim
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: canada-esim
-  - name: Turchia eSIM
-    flag: img/flags/tr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: turkey-esim
-  - name: Cina eSIM
-    flag: img/flags/cn.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: china-esim
-  - name: Giappone eSIM
-    flag: img/flags/jp.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: japan-esim
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: Francia eSIM
-    flag: img/flags/fr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: france-esim
-  - name: Spagna eSIM
-    flag: img/flags/es.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: spain-esim
-  - name: Germania eSIM
-    flag: img/flags/de.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: germany-esim
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: australia-esim
+  subtitle: Tutto quello che devi sapere sull'uso di un'eSIM Europa.
+faq:
+- question: Una sola eSIM Roami funziona in tutti i paesi europei?
+  answer: Sì. Un'unica eSIM Roami Europa copre oltre 40 paesi europei con 5G transfrontaliero senza interruzioni. Non è necessario cambiare SIM o acquistare un nuovo piano quando si passa dalla Francia alla Germania, o dalla Spagna al Portogallo. I tuoi dati continuano a funzionare automaticamente durante il viaggio. Con l'eSIM Europa prepagata, rimanere connessi è senza sforzo.
+- question: Quanto costa un'eSIM Europa?
+  answer: I piani eSIM Roami Europa partono da soli 5 $ per viaggi brevi e arrivano a 59 $ per dati illimitati su soggiorni prolungati. Rispetto ai costi di roaming degli operatori statunitensi (10-15 $/giorno), un solo viaggio si ripaga in poche ore. Usa il codice WEB20 per il 20% di sconto sul tuo primo acquisto. Con prepagato, rimanere connessi è senza sforzo. Senza contratto, rimanere connessi è senza sforzo. È la migliore eSIM per viaggiare in Europa — prepagata, conveniente, copre 47 paesi con attivazione istantanea tramite codice QR. Sfoglia i [piani eSIM Europa da 1,99 $](/plans/) per tutte le opzioni di prezzo.
+- question: Quali paesi europei sono coperti?
+  answer: La nostra eSIM Europa copre 47 paesi, inclusi tutti gli stati membri dell'UE più Regno Unito, Svizzera, Norvegia, Islanda e diversi microstati. La copertura è garantita da oltre 50 partnership con operatori locali come Deutsche Telekom, Orange, Vodafone, TIM e altri.
+- question: Il 5G è disponibile in tutta Europa?
+  answer: Sì. Roami collabora con i migliori operatori locali per offrire velocità 5G in praticamente tutte le principali città e paesi europei. Nelle aree alpine remote o rurali, la tua connessione passa automaticamente al 4G/LTE in modo da avere sempre servizio. Per la migliore eSIM di viaggio in Europa, sfoglia i piani prepagati sulla pagina [piani eSIM Europa](/plans/), o ottieni una [prova gratuita](/free-esim/) per testare le velocità delle reti locali prima del tuo viaggio.
+- question: Posso usare la mia eSIM Europa per il tethering hotspot?
+  answer: Assolutamente. Tutti i piani eSIM Roami Europa includono il tethering hotspot senza costi aggiuntivi. Condividi la tua connessione con il tuo laptop, tablet o compagni di viaggio.
+- question: Come attivo la mia eSIM Europa?
+  answer: L'installazione richiede meno di 2 minuti. Dopo l'acquisto, scansiona il codice QR inviato alla tua email, oppure attiva con un tocco tramite l'app Roami. Consigliamo di installare prima della partenza e attivare all'arrivo nella tua prima destinazione europea. Con i viaggi in Europa, rimanere connessi è senza sforzo.
+- question: Ho bisogno di un'eSIM separata per Regno Unito e Svizzera?
+  answer: No. Il nostro piano Europa include Regno Unito e Svizzera insieme ai paesi dell'UE. Puoi viaggiare da Londra a Parigi a Zurigo con la stessa eSIM senza alcuna modifica. Nessun costo di roaming, nessun cambio di SIM. Roami offre la migliore eSIM per i viaggi in Europa con attivazione istantanea, velocità delle reti locali e tethering hotspot. Per ulteriori suggerimenti, leggi il nostro [blog di viaggio](/blog/) per guide sulle destinazioni europee.
+- question: Come si confronta con l'acquisto di eSIM separate per ogni paese?
+  answer: Un'eSIM regionale per l'Europa è significativamente più economica e comoda rispetto all'acquisto di piani per singoli paesi. Invece di gestire 5-10 eSIM separate e spendere più di 30 $, un unico piano Europa copre tutto. Eviti anche la seccatura di attivare una nuova eSIM a ogni confine.
+- question: Posso usare la mia eSIM Europa insieme alla mia SIM normale (dual SIM)?
+  answer: Sì. La maggior parte degli iPhone e telefoni Android moderni supporta il dual SIM — una SIM fisica per il tuo numero di casa e una eSIM per i dati. La tua eSIM Roami Europa gestisce tutti i tuoi dati prepagati in 47 paesi, mentre la tua SIM normale mantiene attivo il tuo numero di casa per chiamate e SMS. Non sono necessarie modifiche contrattuali con il tuo operatore esistente.
+cross_region_links:
+- title: eSIM Asia
+  url: /asia-esim/
+  note: Prossima tappa dopo l'Europa?
+- title: eSIM Medio Oriente
+  url: /middle-east-esim/
+  note: Diretti in Turchia, Emirati Arabi o oltre?
+- title: eSIM Africa
+  url: /africa-esim/
+  note: Proseguendo verso sud verso Marocco o Egitto?
+featured_carriers:
+- name: Deutsche Telekom
+  hq: Germania
+  speed: 5G/4G eccellente
+  rating: Eccellente
+  countries: Germania, Austria, Polonia, Repubblica Ceca, Ungheria, Croazia, Slovacchia, Paesi Bassi, Grecia, Romania
+- name: Vodafone
+  hq: Regno Unito
+  speed: 5G/4G eccellente
+  rating: Eccellente
+  countries: Regno Unito, Germania, Italia, Spagna, Portogallo, Irlanda, Grecia, Paesi Bassi, Romania, Albania, Repubblica Ceca, Ungheria, Malta, Turchia
+- name: Orange
+  hq: Francia
+  speed: 5G/4G eccellente
+  rating: Eccellente
+  countries: Francia, Spagna, Belgio, Polonia, Romania, Slovacchia, Moldavia, Lussemburgo
+- name: TIM
+  hq: Italia
+  speed: 5G/4G molto buona
+  rating: Molto buona
+  countries: Italia, San Marino, Città del Vaticano
+- name: Movistar
+  hq: Spagna
+  speed: 5G/4G eccellente
+  rating: Eccellente
+  countries: Spagna, Germania (O2), Regno Unito (O2)
+- name: EE
+  hq: Regno Unito
+  speed: 5G/4G eccellente
+  rating: Eccellente
+  countries: Regno Unito
+- name: Swisscom
+  hq: Svizzera
+  speed: 5G/4G eccellente
+  rating: Eccellente
+  countries: Svizzera, Liechtenstein
+- name: Telenor
+  hq: Norvegia
+  speed: 5G/4G molto buona
+  rating: Molto buona
+  countries: Norvegia, Svezia, Danimarca, Finlandia, Serbia, Montenegro, Bulgaria
+countries:
+  western_europe:
+  - name: Francia
+    url: /france-esim/
+    flag: 🇫🇷
+    carriers: Orange, SFR, Bouygues
+    is_popular: true
+    flag_image: /img/flags/fr.svg
+    network: 5G
+  - name: Germania
+    url: /germany-esim/
+    flag: 🇩🇪
+    carriers: Telekom, Vodafone, O2
+    is_popular: true
+    flag_image: /img/flags/de.svg
+    network: 5G
+  - name: Regno Unito
+    url: /united-kingdom-esim/
+    flag: 🇬🇧
+    carriers: EE, Vodafone, O2, Three
+    is_popular: true
+    flag_image: /img/flags/gb.svg
+    network: 5G
+  - name: Italia
+    url: /italy-esim/
+    flag: 🇮🇹
+    carriers: TIM, Vodafone, Wind Tre
+    is_popular: true
+    flag_image: /img/flags/it.svg
+    network: 5G
+  - name: Spagna
+    url: /spain-esim/
+    flag: 🇪🇸
+    carriers: Movistar, Orange, Vodafone
+    is_popular: true
+    flag_image: /img/flags/es.svg
+    network: 5G
+  - name: Paesi Bassi
+    url: /netherlands-esim/
+    flag: 🇳🇱
+    carriers: KPN, Vodafone, T-Mobile
+    is_popular: true
+    flag_image: /img/flags/nl.svg
+    network: 5G
+  - name: Belgio
+    url: /belgium-esim/
+    flag: 🇧🇪
+    carriers: Proximus, Orange, Telenet
+    is_popular: false
+    flag_image: /img/flags/be.svg
+    network: 5G
+  - name: Svizzera
+    url: /switzerland-esim/
+    flag: 🇨🇭
+    carriers: Swisscom, Sunrise, Salt
+    is_popular: true
+    flag_image: /img/flags/ch.svg
+    network: 5G
+  - name: Austria
+    url: /austria-esim/
+    flag: 🇦🇹
+    carriers: A1, Magenta, Drei
+    is_popular: false
+    flag_image: /img/flags/at.svg
+    network: 5G
+  - name: Irlanda
+    url: /ireland-esim/
+    flag: 🇮🇪
+    carriers: Vodafone, Three, Eir
+    is_popular: false
+    flag_image: /img/flags/ie.svg
+    network: 5G
+  - name: Portogallo
+    url: /portugal-esim/
+    flag: 🇵🇹
+    carriers: MEO, Vodafone, NOS
+    is_popular: false
+    flag_image: /img/flags/pt.svg
+    network: 5G
+  - name: Lussemburgo
+    url: /luxembourg-esim/
+    flag: 🇱🇺
+    carriers: POST, Tango, Orange
+    is_popular: false
+    flag_image: /img/flags/lu.svg
+    network: 5G
+  - name: Liechtenstein
+    url: /liechtenstein-esim/
+    flag: 🇱🇮
+    carriers: Swisscom, FL1
+    is_popular: false
+    flag_image: /img/flags/li.svg
+    network: 4G
+  - name: Andorra
+    url: /andorra-esim/
+    flag: 🇦🇩
+    carriers: Andorra Telecom
+    is_popular: false
+    flag_image: /img/flags/ad.svg
+    network: 4G
+  - name: Monaco
+    url: /monaco-esim/
+    flag: 🇲🇨
+    carriers: Monaco Telecom
+    is_popular: false
+    flag_image: /img/flags/mc.svg
+    network: 4G
+  northern_europe:
+  - name: Svezia
+    url: /sweden-esim/
+    flag: 🇸🇪
+    carriers: Telia, Tele2, Telenor
+    is_popular: false
+    flag_image: /img/flags/se.svg
+    network: 5G
+  - name: Danimarca
+    url: /denmark-esim/
+    flag: 🇩🇰
+    carriers: TDC, Telia, 3
+    is_popular: false
+    flag_image: /img/flags/dk.svg
+    network: 5G
+  - name: Norvegia
+    url: /norway-esim/
+    flag: 🇳🇴
+    carriers: Telenor, Telia, Ice
+    is_popular: false
+    flag_image: /img/flags/no.svg
+    network: 5G
+  - name: Finlandia
+    url: /finland-esim/
+    flag: 🇫🇮
+    carriers: Elisa, DNA, Telia
+    is_popular: false
+    flag_image: /img/flags/fi.svg
+    network: 5G
+  - name: Islanda
+    url: /iceland-esim/
+    flag: 🇮🇸
+    carriers: Siminn, Vodafone, Nova
+    is_popular: false
+    flag_image: /img/flags/is.svg
+    network: 5G
+  - name: Isole Fær Øer
+    url: /faroe-islands-esim/
+    flag: 🇫🇴
+    carriers: Foroya Tele
+    is_popular: false
+    flag_image: /img/flags/fo.svg
+    network: 4G
+  - name: Estonia
+    url: /estonia-esim/
+    flag: 🇪🇪
+    carriers: Telia, Elisa, Tele2
+    is_popular: false
+    flag_image: /img/flags/ee.svg
+    network: 5G
+  - name: Lettonia
+    url: /latvia-esim/
+    flag: 🇱🇻
+    carriers: LMT, Tele2, Bite
+    is_popular: false
+    flag_image: /img/flags/lv.svg
+    network: 5G
+  - name: Lituania
+    url: /lithuania-esim/
+    flag: 🇱🇹
+    carriers: Telia, Bite, Tele2
+    is_popular: false
+    flag_image: /img/flags/lt.svg
+    network: 5G
+  eastern_europe:
+  - name: Polonia
+    url: /poland-esim/
+    flag: 🇵🇱
+    carriers: Orange, Play, T-Mobile
+    is_popular: false
+    flag_image: /img/flags/pl.svg
+    network: 5G
+  - name: Repubblica Ceca
+    url: /czech-republic-esim/
+    flag: 🇨🇿
+    carriers: O2, T-Mobile, Vodafone
+    is_popular: false
+    flag_image: /img/flags/cz.svg
+    network: 5G
+  - name: Ungheria
+    url: /hungary-esim/
+    flag: 🇭🇺
+    carriers: Telekom, Vodafone, Yettel
+    is_popular: false
+    flag_image: /img/flags/hu.svg
+    network: 5G
+  - name: Romania
+    url: /romania-esim/
+    flag: 🇷🇴
+    carriers: Orange, Vodafone, Digi
+    is_popular: false
+    flag_image: /img/flags/ro.svg
+    network: 5G
+  - name: Bulgaria
+    url: /bulgaria-esim/
+    flag: 🇧🇬
+    carriers: A1, Vivacom, Yettel
+    is_popular: false
+    flag_image: /img/flags/bg.svg
+    network: 5G
+  - name: Slovacchia
+    url: /slovakia-esim/
+    flag: 🇸🇰
+    carriers: Orange, Telekom, O2
+    is_popular: false
+    flag_image: /img/flags/sk.svg
+    network: 5G
+  - name: Slovenia
+    url: /slovenia-esim/
+    flag: 🇸🇮
+    carriers: Telekom Slovenije, A1, Telemach
+    is_popular: false
+    flag_image: /img/flags/si.svg
+    network: 5G
+  - name: Croazia
+    url: /croatia-esim/
+    flag: 🇭🇷
+    carriers: HT, A1, Telemach
+    is_popular: false
+    flag_image: /img/flags/hr.svg
+    network: 5G
+  - name: Serbia
+    url: /serbia-esim/
+    flag: 🇷🇸
+    carriers: MTS, Yettel, A1
+    is_popular: false
+    flag_image: /img/flags/rs.svg
+    network: 4G
+  - name: Ucraina
+    url: /ukraine-esim/
+    flag: 🇺🇦
+    carriers: Kyivstar, Vodafone UA, Lifecell
+    is_popular: false
+    flag_image: /img/flags/ua.svg
+    network: 4G
+  - name: Russia
+    url: /russia-esim/
+    flag: 🇷🇺
+    carriers: MTS, MegaFon, Beeline
+    is_popular: false
+    flag_image: /img/flags/ru.svg
+    network: 5G
+  - name: Bielorussia
+    url: /belarus-esim/
+    flag: 🇧🇾
+    carriers: A1, MTS, Life
+    is_popular: false
+    flag_image: /img/flags/by.svg
+    network: 4G
+  - name: Moldavia
+    url: /moldova-esim/
+    flag: 🇲🇩
+    carriers: Orange, Moldcell
+    is_popular: false
+    flag_image: /img/flags/md.svg
+    network: 4G
+  southern_europe:
+  - name: Grecia
+    url: /greece-esim/
+    flag: 🇬🇷
+    carriers: Cosmote, Vodafone, Nova
+    is_popular: true
+    flag_image: /img/flags/gr.svg
+    network: 5G
+  - name: Cipro
+    url: /cyprus-esim/
+    flag: 🇨🇾
+    carriers: Cyta, Epic, Primetel
+    is_popular: false
+    flag_image: /img/flags/cy.svg
+    network: 5G
+  - name: Malta
+    url: /malta-esim/
+    flag: 🇲🇹
+    carriers: GO, Epic, Melita
+    is_popular: false
+    flag_image: /img/flags/mt.svg
+    network: 5G
+  - name: Gibilterra
+    url: /gibraltar-esim/
+    flag: 🇬🇮
+    carriers: Gibtelecom
+    is_popular: false
+    flag_image: /img/flags/gi.svg
+    network: 4G
+  - name: Città del Vaticano
+    url: /vatican-city-esim/
+    flag: 🇻🇦
+    carriers: TIM, Vodafone IT
+    is_popular: false
+    flag_image: /img/flags/va.svg
+    network: 4G
+  balkans:
+  - name: Albania
+    url: /albania-esim/
+    flag: 🇦🇱
+    carriers: Vodafone, One, ALBtelecom
+    is_popular: false
+    flag_image: /img/flags/al.svg
+    network: 4G
+  - name: Bosnia ed Erzegovina
+    url: /bosnia-and-herzegovina-esim/
+    flag: 🇧🇦
+    carriers: BH Telecom, HT Mostar, Mtel
+    is_popular: false
+    flag_image: /img/flags/ba.svg
+    network: 4G
+  - name: Macedonia del Nord
+    url: /macedonia-esim/
+    flag: 🇲🇰
+    carriers: Makedonski Telekom, A1
+    is_popular: false
+    flag_image: /img/flags/mk.svg
+    network: 4G
+  - name: Montenegro
+    url: /montenegro-esim/
+    flag: 🇲🇪
+    carriers: Crnogorski Telekom, One, Mtel
+    is_popular: false
+    flag_image: /img/flags/me.svg
+    network: 4G
+  - name: Kosovo
+    url: /kosovo-esim/
+    flag: 🇽🇰
+    carriers: Vala, IPKO
+    is_popular: false
+    flag_image: /img/flags/xk.svg
+    network: 4G
+  caucasus:
+  - name: Georgia
+    url: /georgia-esim/
+    flag: 🇬🇪
+    carriers: Magti, Silknet, Beeline
+    is_popular: false
+    flag_image: /img/flags/ge.svg
+    network: 4G
 ---

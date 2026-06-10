@@ -1,6 +1,6 @@
 ---
 title: Fidschi eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: "2026-06-07T08:51:27+00:00"
 draft: false
 type: esim
 country_meta:
@@ -347,7 +347,7 @@ activation_steps:
       WhatsApp nutzen, soziale Medien checken oder einen Hotspot für andere Geräte
       einrichten – ohne Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
-faq_section:
+faq_section1:
   title: Fidschi eSIM FAQ & Reiseführer
   desc: Alles, was Sie über die Verwendung Ihrer Fidschi eSIM in verschiedenen Reiseszenarien
     wissen müssen.
@@ -782,4 +782,158 @@ market_analysis:
         icon_color: "text-rose-600"
         title: "Dual-Netzwerk für beste Abdeckung"
         desc: "Digicel hat schwache Abdeckung außerhalb der Städte. Roami eSIM verbindet sich automatisch mit <b>Vodafone</b> (95% Abdeckung) und <b>Digicel</b> für optimale Signalstärke auf allen Inseln."
+faq_section:
+  title: "Der ultimative Leitfaden zu eSIM-Datentarifen fur Fiji"
+  desc: "Alles uber die Fidschi-eSIM — Vodafone FJ Abdeckung, Tarife ab $4.99."
+  categories:
+    - id: faq-general
+      icon: help-circle
+      tab_title: Allgemein
+      title: "1. Allgemeine Fragen zur Fidschi-eSIM"
+      questions:
+        - q: "Mit welchen Netzen verbindet sich die Fidschi-eSIM und wie schnell ist 4G/5G in Fidschi?"
+          a: "Ihre Fidschi-eSIM verbindet sich mit Vodafone FJ and Digicel FJ - den Top-Anbietern in Fidschi - und wechselt automatisch zum starksten verfugbaren Signal. Vodafone FJ hat die grosste landesweite Abdeckung besonders in landlichen Gebieten und kleineren Stadten. Beste landesweit. Digicel FJ Strong tourist. In Suva und Grossstadten wie Nadi bekommen Sie typischerweise 4G LTE und 5G wo verfugbar mit 15-40 Mbit/s. Unsere Multi-Carrier-eSIM bedeutet dass Sie nie an ein einzelnes Netz gebunden sind - Sie bekommen immer das beste Signal in Fidschi. Ein $12.99 5GB/7-Tage-Tarif gibt Ihnen zuverlassige Daten im ganzen Land."
+        - q: "Was sind die Vorteile einer Fidschi-eSIM gegenuber dem Kauf einer lokalen SIM-Karte?"
+          a: "Lokale Prepaid-SIM-Karten in Fidschi kommen mit echten Hurden: Touristen-SIMs an airports und stores. Reisepass erforderlich. Unsere eSIM aktiviert sich sofort online. Unsere Fidschi-eSIM aktiviert sich in unter 1 Minute online - keine Ladenbesuche kein Papierkram keine English/Fidschian/Hindi-Kenntnisse erforderlich. Zudem bindet Sie eine physische SIM an das Netz eines Anbieters; unsere eSIM verbindet sich mit Vodafone FJ and Digicel FJ und wechselt automatisch fur die beste Abdeckung. Fur eine 7-tagige Reise kostet unser 3GB-Tarif $9.99 - gunstiger und bequemer als eine lokale SIM wenn man die gesparte Zeit und Muhe bedenkt."
+        - q: "Wie schneidet Ihre Fidschi-eSIM im Vergleich zu Airalo Holafly und Nomad ab?"
+          a: "Die meisten globalen eSIM-Anbieter arbeiten in Fidschi nur mit einem Anbieter zusammen. Airalo nutzt einzelnen Anbieter. Unser Multi-Carrier: Vodafone FJ, Digicel FJ fur beste Fidschi coverage. Dies ist wichtig weil Vodafone FJ fur die Abdeckung in vielen Teilen von Fidschi essenziell ist. Airals Tarife nutzen nur einen Anbieter. Holflys Unlimited-Tarif drosselt die Geschwindigkeit nach starker Nutzung. Nomad nutzt ebenfalls einen einzigen Anbieter was ausserhalb grosser Stadte Lucken haben kann. Unser Multi-Carrier-Ansatz gibt Ihnen das Beste aller Netze. 5GB fur 7 Tage kosten $12.99 - wettbewerbsfahige Preise mit deutlich besserer Abdeckung."
+        - q: "Kann ich meine Fidschi-eSIM fur Sprachanrufe und SMS nutzen?"
+          a: "Fidschi-eSIMs sind reine Datentarife Sie erhalten also keine lokale Fidschi-Telefonnummer. Allerdings ist WhatsApp in Fidschi ausserst beliebt - praktisch jedes Unternehmen Hotel Restaurant und jeder Reiseveranstalter nutzt es als primare Kontaktmethode. Sie konnen jede Fidschi-Nummer per WhatsApp-Nachricht und -Anruf mit Ihren eSIM-Daten erreichen. Fur Anrufe ins Festnetz (Fluggesellschaften Banken Botschaften) nutzen Sie Skype Google Voice oder Rebtel uber Ihre Datenverbindung - Anrufe kosten nur Cent-Betrage pro Minute. Um SMS-Verifizierungscodes von Ihrer Hausbank zu empfangen lassen Sie Ihre Heim-SIM fur SMS aktiv wahrend Sie alle Daten uber Ihre Fidschi-eSIM leiten. Die meisten Reisenden finden dass WhatsApp 99% ihrer Kommunikationsbedurfnisse abdeckt."
+        - q: "Welche Handys und Gerate funktionieren mit einer Fidschi-eSIM?"
+          a: "Die meisten modernen Smartphones unterstutzen eSIM: iPhone XS/XR und neuer Google Pixel 3a und neuer Samsung Galaxy S20/Note20 und neuer. Ihr Handy muss entsperrt sein um unsere Fidschi-eSIM zu nutzen. Bei Android-Modellen aus einigen Regionen kann eSIM deaktiviert sein - prufen Sie die technischen Daten vor dem Kauf. iPads mit Mobilfunk unterstutzen ebenfalls eSIM. Nach dem Kauf senden wir einen QR-Code per E-Mail - iPhone: Einstellungen > Mobiles Netz > eSIM hinzufugen Code scannen. Android: Einstellungen > Netzwerk & Internet > SIMs > eSIM hinzufugen. Beschriften Sie den Tarif mit 'Fiji' zum einfachen Wechseln. Der Tarif aktiviert sich erst wenn Sie in Fidschi ankommen und sich mit Vodafone FJ verbinden - Sie konnen ihn Wochen im Voraus installieren. Unser $24.99 20GB/30-Tage-Tarif ist beliebt bei Tablet-Nutzern."
+    - id: faq-airport
+      icon: plane
+      tab_title: Flughafen
+      title: "2. Fidschi-eSIM an Flughafen"
+      questions:
+        - q: "So kommen Sie sofort nach der Landung am Nadi International (NAN) in Nadi?"
+          a: "Installieren Sie Ihre Fidschi-eSIM zu Hause vor der Abreise. Bei der Landung am Nadi International (NAN) schalten Sie den Flugmodus aus und wahlen Ihre eSIM als Datenleitung. Sie verbindet sich mit  (starkstes Signal am NAN) innerhalb von 20-40 Sekunden. NAN liegt 9km town - Pre-book transfer. Mit aktiven Daten konnen Sie sofort Uber offnen um eine Fahrt zu buchen. Offizielle Flughafentaxis kosten FJD 15-20; Resort shuttle FJD 20-40; vergleichen Sie die Preise mit Uber. Kostenloses WLAN.. Eigene Daten ab der Landung zu haben ist viel zuverlassiger als Flughafen-WLAN. Ein 1GB/3-Tage-Tarif ($4.99) erledigt dies muhelos."
+        - q: "Kann ich meine eSIM an allen Flughafen in Fidschi nutzen?"
+          a: "Ja Ihre Fidschi-eSIM funktioniert an allen Flughafen in Fidschi. Am Nadi International (NAN) bietet  das starkste Signal. Pre-book transfer. Bula! Ein 1GB/3-Tage-Tarif ($4.99) erledigt dies muhelos."
+        - q: "Was ist mit kleineren Fidschi-Flughafen - haben sie Netzabdeckung?"
+          a: "Ihre eSIM funktioniert an allen Flughafen in Fidschi. An allen Flughafen haben Sie solide 4G von Vodafone FJ. Ein 3GB/7-Tage-Tarif ($9.99) deckt alle Ankunftstags-Bedurfnisse an jedem Flughafen in Fidschi ab."
+        - q: "Wie bekommt man einen Uber oder Flughafentransfer von Flughafen in Fidschi?"
+          a: "Am NAN: Uber funktionieren alle. Ride-Hailing ist in Fidschi vollstandig legal und reguliert. Eine Fahrt von NAN ins Zentrum von Nadi kostet etwa FJD 15-20; Resort shuttle FJD 20-40. Eine schnelle Fahrsuche verbraucht unter 3 MB Daten. Ein 1GB/3-Tage-Tarif ($4.99) erledigt dies muhelos."
+        - q: "Ist das Flughafen-WLAN zuverlassig in Fidschi oder sollte ich mich auf meine eSIM verlassen?"
+          a: "Das Flughafen-WLAN in Fidschi variiert. Kostenloses WLAN. Aus diesen Grunden wird dringend empfohlen Ihre eSIM vor der Landung zu aktivieren - Sie haben Daten sobald das Flugzeug aufsetzt und umgehen WLAN-Frustrationen vollstandig. Ein 1GB/3-Tage-Tarif ($4.99) erledigt dies muhelos."
+    - id: faq-transport
+      icon: car
+      tab_title: Transport
+      title: "3. Fidschi-eSIM fur Transport & Navigation"
+      questions:
+        - q: "Wie bewegt man sich in Suva mit Ihrer eSIM fort?"
+          a: "Nutzen Sie Google Maps oder Apple Maps fur Fussweg-Routen. Ihre Fidschi-eSIM liefert Daten fur Echtzeit-Navigation Busfahrplane und die nachste Haltestelle. Fur Fahrten nutzen Sie Uber. Navigation verbraucht ~5MB pro Stunde. Ein 3GB/7-Tage-Tarif ($9.99) deckt alle urbanen Navigationsbedurfnisse."
+        - q: "Wie nutzt man Uber in Fidschi?"
+          a: "Uber funktionieren alle in Suva und grosseren Stadten in Fidschi. Ride-hailing available in Stadten. Tipp: Uberprufen Sie immer das Kennzeichen bevor Sie einsteigen. Eine Fahrt quer durch Suva kostet typischerweise ein paar Euro in lokaler Wahrung. Eine einzelne Fahrsuche verbraucht unter 3 MB. Ein 1GB/3-Tage-Tarif ($4.99) erledigt dies muhelos."
+        - q: "Wie navigiert man Uberlandreisen in Fidschi?"
+          a: "Fijis Uberland-Verkehrsnetz umfasst Inter-city buses und trains available.. Nutzen Sie Bus-Apps oder Websites uber Ihre eSIM um Fahrplane zu vergleichen Tickets zu buchen und QR-Bordkarten anzuzeigen. WLAN an Bord ist bei Premium-Diensten verfugbar aber oft langsam - Ihre eSIM bietet zuverlassige Unterhaltung und Navigation wahrend Ihrer Reise. Fur Hauptreisezeiten buchen Sie Tage im Voraus mit Ihrer eSIM. Ein 5GB/7-Tage-Tarif ($12.99) deckt alle Buchungs- und Reisebedurfnisse."
+        - q: "Wie geht man mit Fidschi-Adressen und GPS-Navigation um?"
+          a: "Google Maps und Apple Maps funktionieren gut mit Ihrer Fidschi-eSIM. Google Maps funktioniert well. Bei schwierigen Orten senden Sie Ihrer Unterkunft oder dem Fahrer einen Pin-Drop per WhatsApp - das ist gangige Praxis in Fidschi und verbraucht etwa 5 MB pro Teilen. In grossen Stadten ist Waze bei einheimischen Fahrern fur Echtzeit-Verkehrsvermeidung beliebt. Eine schnelle Navigationssuche verbraucht unter 5 MB. Ein 3GB/15-Tage-Tarif ($19.99) bewaltigt die gesamte Navigation in Fidschi."
+        - q: "Wie viele Daten brauche ich fur eine Woche unterwegs in Fidschi?"
+          a: "Fur eine Woche Nahverkehrs-Navigation Ride-Hailing und Uberland-Buchungen sind 3 GB reichlich - das sind etwa $9.99. Typischer taglicher Verbrauch: ~30 MB fur Nahverkehrs-Apps ~15 MB fur Ride-Hailing ~10 MB fur Kartensuchen - etwa 55-80 MB pro Tag aktiver Besichtigung. Wenn Sie Musik oder Videos wahrend langer Busfahrten streamen gibt Ihnen ein 5GB-Tarif ($12.99) reichlich Spielraum. Die meisten Reisenden finden einen 5GB/7-Tage-Tarif als idealen Kompromiss fur Navigation plus soziale Medien und Foto-Uploads."
+    - id: faq-hotels
+      icon: hotel
+      tab_title: Hotels
+      title: "4. Fidschi-eSIM fur Hotels & Unterkunfte"
+      questions:
+        - q: "Wie checkt man ein in Fidschi-Hotels und Airbnbs ohne auf WLAN angewiesen zu sein?"
+          a: "Viele Fidschi-Airbnbs und Boutique-Hotels nutzen WhatsApp um Check-in-Anweisungen Turcodes und WLAN-Passworter zu senden. In Suva nutzen moderne Wohngebaude oft digitale Schlosser deren Codes per WhatsApp oder Buchungs-App gesendet werden. Ohne Daten mussten Sie nach einem Cafe mit WLAN suchen nur um in Ihr Zimmer zu kommen. Hotels in Fidschi haben typischerweise eine Check-in-Zeit von 14-15 Uhr; nutzen Sie Ihre eSIM um Ihren Gastgeber fur fruhen Check-in oder Gepackabgabe zu kontaktieren. Ein 1GB/3-Tage-Tarif ($4.99) erledigt dies muhelos."
+        - q: "Ist das Hotel-WLAN sicher in Fidschi im Vergleich zur Nutzung Ihrer eSIM fur Banking und sensible Apps?"
+          a: "Das Hotel-WLAN in Fidschi variiert: Business-Hotels in Suva bieten sicheres WLAN auf Unternehmensniveau wahrend Budget-Gastehauser in Touristen-Hotspots einfache Router mit geteilten Passwortern nutzen - weniger sicher. Ihre eSIM bietet eine verschlusselte personliche Mobilfunkverbindung - deutlich sicherer fur Banking Kreditkartentransaktionen und sensible Logins. Einheimische in Fidschi nutzen routinemassig Mobile-Banking-Apps uber Mobilfunkdaten aus Sicherheitsgrunden. Ein 3GB-Tarif ($9.99) deckt sicheres Banking wahrend Ihrer gesamten Reise ab."
+        - q: "Wie findet man Last-Minute-Hotels in der Hochsaison in Fidschi?"
+          a: "Wahrend der Hochsaison in Fidschi konnen beliebte Reiseziele ausgebucht sein. Nutzen Sie Booking.com und lokale Buchungsseiten uber Ihre eSIM um Stornierungen zu prufen. Erweitern Sie Ihren Suchradius - Unterkunfte etwas ausserhalb der Haupttouristenzone sind oft zu niedrigeren Preisen verfugbar und bieten ein authentischeres Erlebnis. Nutzen Sie Google Maps um die Lage vor der Buchung zu uberprufen und lesen Sie aktuelle Bewertungen. Eine 10-minutige Buchungssitzung verbraucht ~15 MB. Ein 5GB/7-Tage-Tarif ($12.99) unterstutzt flexible Reiseplananderungen."
+        - q: "Wie kommuniziert man mit English/Fidschian/Hindi-sprachigen Unterkunftsgebern?"
+          a: "Ausserhalb internationaler Kettenhotels sprechen die meisten Fidschi-Unterkunftsmitarbeiter English/Fidschian/Hindi. Ihre eSIM ermoglicht: 1) WhatsApp-Nachrichten - Einheimische in Fidschi nutzen es universell fur Gastgeber-Gast-Kommunikation. 2) Google Ubersetzers Konversationsmodus fur gesprochenen Echtzeit-Dialog. 3) Kamera-Ubersetzung fur schriftliche Anweisungen Turcodes und Check-out-Richtlinien. Laden Sie das English/Fidschian/Hindi-Offline-Paket in Google Ubersetzer vor Ihrer Reise herunter aber der Kamera-Modus benotigt Daten fur die genaue Ubersetzung handschriftlicher Notizen. Ein 1GB/3-Tage-Tarif ($4.99) erledigt dies muhelos."
+        - q: "Wie bestellt man Essenslieferungen ins Fidschi-Hotel mit der eSIM?"
+          a: "Uber Eats - funktionieren alle vollstandig uber Ihre eSIM-Daten. Lieferzeiten in Suva betragen typischerweise 25-45 Minuten. In kleineren Stadten und landlichen Gebieten funktionieren Liefer-Apps moglicherweise nicht aber Sie konnen lokale Restaurants per WhatsApp zum Mitnehmen kontaktieren - fragen Sie Ihr Hotel nach empfehlenswerten Orten und deren WhatsApp-Nummern. Daten pro Bestellung: ~5-10 MB. Ein 3GB/7-Tage-Tarif ($9.99) unterstutzt Dutzende von Lieferbestellungen."
+    - id: faq-attractions
+      icon: landmark
+      tab_title: Sehenswurdigkeiten
+      title: "5. Fidschi-eSIM fur Sehenswurdigkeiten & Besichtigungen"
+      questions:
+        - q: "Wie besucht man Mamanuca & Yasawa Insels mit Ihrer eSIM fur Tickets und Infos?"
+          a: "Mamanuca & Yasawa Insels Paradise islands. Where Blue Lagoon und Cast Away filmed. Crystal water, palm beaches. Tickets kosten Resort day FJD 100-200 und konnen uber Buchen via resort gekauft werden - Ihre eSIM zeigt den QR-Code am Eingang an. Beste Besuchszeit: May-Oct best. Turquoise lagoons.. Nutzen Sie Ihre eSIM um Wikipedia fur historischen Kontext aufzurufen und Google Maps zur Navigation zu nutzen. Machen Sie einen Screenshot Ihres Tickets als Backup. Ein 3GB/7-Tage-Tarif ($9.99) deckt alle Mamanucas/Yasawas-Besichtigungen ab."
+        - q: "Wie navigiert man durch Suvas wichtigste Sehenswurdigkeiten mit Ihrer eSIM?"
+          a: "Suva hat ausgezeichnete Mobilfunkabdeckung von allen grossen Anbietern. Nutzen Sie Ihre eSIM-Daten: 1) Navigieren zwischen Sehenswurdigkeiten mit Google Maps im Fussgangermodus. 2) Wikipedia fur historischen Kontext aufrufen. 3) Echtzeit-Offnungszeiten und Ticketverfugbarkeit prufen. 4) Cafes und Restaurants in der Nahe mit guten Bewertungen finden. 5) Schilder mit Google Ubersetzer Kamera-Modus ubersetzen. Jede Suche verbraucht unter 3 MB. Ein $9.99 3GB/7-Tage-Tarif bewaltigt eine ganze Woche Stadterkundung."
+        - q: "Wie entdeckt man das Beste von Suva mit Ihrer eSIM?"
+          a: "Nutzen Sie Google Maps und lokale Reise-Apps uber Ihre eSIM um Suvas Stadtviertel zu erkunden. Prufen Sie Offnungszeiten lesen Sie aktuelle Bewertungen und finden Sie versteckte Juwelen. Ein 3GB/7-Tage-Tarif ($9.99) deckt Ihre gesamte Stadterkundung."
+        - q: "Wie bucht man Tagesausfluge und Touren in Fidschi mit Ihrer eSIM?"
+          a: "Nutzen Sie GetYourGuide Viator oder lokale Reiseveranstalter-Websites uber Ihre eSIM-Daten. Vergleichen Sie Preise lesen Sie aktuelle Bewertungen und buchen Sie sofort - Ihr Handy zeigt die Buchungsbestatigung an. Viele Touren bieten Same-Day-Buchung und Last-Minute-Platze konnen erscheinen. In beliebten Reisezielen wie Nadi buchen Sie 1-2 Tage im Voraus wahrend der Hochsaison. Eine Buchungssitzung verbraucht ~10 MB. Ein 5GB/7-Tage-Tarif ($12.99) lasst Sie Touren flexibel unterwegs buchen."
+        - q: "Was ist der beste eSIM-Datentarif fur eine Woche Besichtigungen in Fidschi?"
+          a: "Fur eine Woche aktiver Besichtigung - Navigation zwischen Sehenswurdigkeiten Ubersetzen von Schildern Tickets buchen und Fotos teilen - ist ein 5GB/7-Tage-Tarif ($12.99) ideal. Typischer taglicher Gebrauch: ~100 MB fur Karten und Navigation ~50 MB fur Sehenswurdigkeiten-Recherche ~200 MB fur Foto-Uploads und soziale Medien - etwa 350-500 MB pro Tag. Wenn Sie viel fotografieren oder Videos teilen gibt Ihnen der 10GB/15-Tage-Tarif ($19.99) reichlich Spielraum. Fur Wenignutzer die Karten im Hotel vorab herunterladen ist ein 3GB-Tarif ($9.99) ausreichend."
+    - id: faq-dining
+      icon: utensils
+      tab_title: Gastronomie
+      title: "6. Fidschi-eSIM fur Gastronomie & Essensentdeckungen"
+      questions:
+        - q: "Wie findet man authentisches Fidschian Essen jenseits der Touristenfallen?"
+          a: "Nutzen Sie Ihre eSIM um Google Maps abseits der Touristenzonen zu durchsuchen - filtern Sie nach '4.5+ Sterne' und lesen Sie Bewertungen auf English/Fidschian/Hindi fur Authentizitat. Abendessen 6-8PM. Trinkgeld appreciated but nicht mandatory. Gerichte die man probieren muss: kokoda (FJD 15-25 raw fish coconut), lovo earth oven, fish curry, kava. Jede Suche verbraucht ~3 MB. Ein 3GB/7-Tage-Tarif ($9.99) deckt uber 1.000 Restaurantsuchen wahrend Ihrer Reise ab."
+        - q: "Wie nutzt man Essensliefer-Apps in Fidschi?"
+          a: "Uber Eats - keine lokale Telefonnummer erforderlich die Apps funktionieren vollstandig uber Daten. Bestellen Sie aus Hunderten von Restaurants von lokalen Imbissen bis zu internationalen Ketten. Lieferung in Suva dauert 25-90 Minuten je nach Entfernung und Verkehr. Trinkgeld in der App. Prufen Sie auf kostenlose Lieferaktionen. Daten pro Bestellung: ~5-10 MB. Ein 5GB/7-Tage-Tarif ($12.99) bewaltigt eine ganze Woche Essenslieferungen."
+        - q: "Wie macht man Restaurantreservierungen in Fidschi?"
+          a: "Most walk-in. Mit Ihrer eSIM kontaktieren Sie Restaurants direkt - eine Reservierung dauert Sekunden und verbraucht unter 1 MB Daten. Fur gehobene Gastronomie nutzen einige Online-Buchungsplattformen. Prufen Sie Google Maps fur Offnungszeiten bevor Sie losgehen da kleinere Restaurants fruher schliessen konnen. Ein 1GB/3-Tage-Tarif ($4.99) erledigt dies muhelos."
+        - q: "Wie ubersetzt man Fidschian Speisekarten und Essensbegriffe?"
+          a: "English/Fidschian/Hindi-Speisekarten konnen einzigartige Essensbegriffe enthalten. Google Ubersetzers Kamera-Modus funktioniert uber Ihre eSIM-Daten - richten Sie die Kamera auf eine beliebige Speisekarte fur sofortige Ubersetzung. Das English/Fidschian/Hindi-Offline-Paket bewaltigt Grundlagen aber der Kamera-Modus benotigt Daten fur Genauigkeit bei handgeschriebenen Karten und regionalen Spezialitaten. Jede Kamera-Ubersetzung verbraucht ~2 MB. Ein 1GB/3-Tage-Tarif ($4.99) erledigt dies muhelos."
+        - q: "Wie bezahlt man in Fidschi-Restaurants und an Strassenimbiss-Standen?"
+          a: "Cards widely accepted. Carry local cash fur small vendors. Nutzen Sie Ihre eSIM um Geldautomaten in der Nahe auf Google Maps zu finden. Fuhren Sie ausreichend lokale Wahrung in kleinen Stuckelungen fur Strassenimbisse und Markte mit. Eine Geldautomaten-Suche verbraucht unter 2 MB. Ein 1GB/3-Tage-Tarif ($4.99) erledigt dies muhelos."
+    - id: faq-social
+      icon: smartphone
+      tab_title: Soziale Medien
+      title: "7. Fidschi-eSIM fur Soziale Medien & In Kontakt Bleiben"
+      questions:
+        - q: "Ist WhatsApp die dominierende Messaging-App in Fidschi?"
+          a: "Ja - WhatsApp istt die dominierende Messaging-App in Fidschi. Ihre eSIM-Daten ermoglichen dass WhatsApp normal mit Ihrer Heimatnummer funktioniert - keine Fidschi-SIM notig. Ein typischer Tag mit WhatsApp-Nutzung: unter 10 MB. Eine Stunde WhatsApp-Sprachanrufe: ~30 MB. Ein 1GB/3-Tage-Tarif ($4.99) erledigt dies muhelos."
+        - q: "Wie postet man auf Instagram/TikTok aus Fijis fotogensten Orten?"
+          a: "Fiji bietet unglaubliche Social-Media-Kulissen: Mamanuca von above, Cloudbreak surf, Sawa-i-Lau caves, Garten of Sleeping Giant. Ihre eSIM bietet Upload-Bandbreite - Vodafone FJ liefert typischerweise 10-25 Mbit/s Upload in grossen Stadten. Eine Instagram-Story: ~10-50 MB. Ein 1-Minuten-1080p-TikTok: ~100-200 MB. Uploads sind am schnellsten morgens (8-11 Uhr) vor Netzwerkuberlastung. In abgelegenen Gebieten stellen Sie Posts fur spateren Upload vom Hotel zuruck. Ein 10GB/15-Tage-Tarif ($19.99) unterstutzt 50-100 hochwertige Posts."
+        - q: "Wie macht man Videoanrufe (FaceTime WhatsApp) nach Hause aus Fiji?"
+          a: "Videoanrufe nach Hause funktionieren gut uber Ihre Fidschi-eSIM in Stadten und Gemeinden. WhatsApp-Videoanrufe verbrauchen ~200-500 MB/Stunde; FaceTime ist ahnlich. Fur beste Qualitat: Rufen Sie ausserhalb der Stosszeiten an (10-16 Uhr) wenn die Netze weniger belastet sind. WhatsApp Videoanrufe work well. Mobile internet is fast. Ein 30-minutiger Anruf verbraucht ~150 MB. Ein 5GB/7-Tage-Tarif ($12.99) unterstutzt ~33 Stunden Videoanrufe."
+        - q: "Wie teilt man seinen Live-Standort mit der Familie wahrend Fidschi-Reisen?"
+          a: "Teilen Sie Ihren Standort uber WhatsApps 'Live-Standort teilen' - funktioniert zuverlassig uber Ihre eSIM-Daten und verbraucht ~5 MB/Stunde. Nutlich beim: Erkunden neuer Stadte Tagesausflug aufs Land oder Treffen mit Freunden auf einem Festival. In landlichen Gebieten pausiert das Teilen und setzt automatisch fort wenn das Signal zuruckkehrt. Teilen Sie Ihre Unterkunftsadresse mit der Familie bevor Sie fur den Tag losgehen - es ist beruhigend und dauert 5 Sekunden. Ein 3GB/15-Tage-Tarif ($19.99) unterstutzt uber 600 Stunden kontinuierliches Teilen."
+        - q: "Kann ich Dating-Apps und soziale Entdeckungs-Apps in Fidschi nutzen?"
+          a: "Ja - Tinder Bumble und andere Apps funktionieren gut uber Ihre eSIM-Daten. Suva hat eine aktive Social-App-Szene. Datenverbrauch fur Swipen und Nachrichten: ~10 MB/Stunde. Meetup.com und Couchsurfing Hangouts sind aktiv in Suva fur Gruppenaktivitaten und Sprachaustausch. Treffen Sie sich an offentlichen Orten und teilen Sie Ihren Live-Standort mit einem Freund - weltweit ubliche Reisepraxis. Ein 1GB/3-Tage-Tarif ($4.99) erledigt dies muhelos."
+    - id: faq-crossborder
+      icon: globe
+      tab_title: Grenzuberschreitend
+      title: "8. Fidschi-eSIM fur grenzuberschreitendes Reisen"
+      questions:
+        - q: "Kann ich meine Fidschi-eSIM in Neuseeland nutzen?"
+          a: "Nein Ihre Fidschi-eSIM ist landerspezifisch und funktioniert nicht in Neuseeland. Der Hauptubergang: Fly 3h. NZ eSIM. Ihre Fidschi-eSIM funktioniert bis zum Fidschi-Grenzposten dann wird die Verbindung getrennt. Kaufen Sie eine Neuseeland-eSIM vor dem Grenzubertritt - ~$12/3GB. Behalten Sie separate Tarife - zwei kleine Landertarife kosten viel weniger als ein uberteuertes Regionalpaket."
+        - q: "Was ist mit dem Grenzubertritt nach Australien?"
+          a: "Ihre Fidschi-eSIM funktioniert nicht in Australien. Der Hauptubergang: Fly 4-5h. AU eSIM. Kaufen Sie eine Australien-eSIM vor dem Grenzubertritt - ~$12/3GB. Installieren Sie beide eSIMs vor der Abreise und wechseln Sie die Datenleitung beim Grenzubertritt."
+        - q: "Wie funktioniert der Grenzubertritt zwischen Fidschi und Neuseeland?"
+          a: "Fly 3h ist der Hauptubergang zwischen Fidschi und Neuseeland. NZ eSIM. Ihre Fidschi-eSIM funktioniert bis zum Grenzposten (Vodafone FJ-Abdeckung) dann fallt sie aus - kaufen Sie eine Neuseeland-eSIM vor dem Grenzubertritt."
+        - q: "Wie verwalte ich eSIMs beim Besuch mehrerer Lander von Fidschi aus?"
+          a: "Installieren Sie alle Ihre Lander-eSIMs bevor Sie von zu Hause abreisen. Bei jedem Grenzubertritt gehen Sie zu Einstellungen > Mobilfunk und wechseln die Datenleitung zur eSIM des neuen Landes - es dauert 10 Sekunden. iPhones unterstutzen mehrere aktive eSIMs; Android speichert mehrere Profile. Beschriften Sie jeden Tarif eindeutig (z.B. 'Fiji Daten' 'Neuseeland Daten'). So haben Sie immer sofort Daten beim Ubertritt ohne sich auf Grenz-WLAN verlassen zu mussen. Ein 3GB-Tarif pro Land ist typischerweise ausreichend fur kurze Aufenthalte."
+        - q: "Was ist die beste eSIM-Strategie fur eine Mehrlanderreise mit Fiji?"
+          a: "FJ(5GB~$12)+NZ(3GB~$12)+AU(3GB~$12)=~$36. Installieren Sie alle eSIMs vor der Abreise und wechseln Sie die Datenleitungen an jeder Grenze. Einzelne Landertarife geben Ihnen Multi-Carrier-Zugang in jedem Land was regionale Tarife typischerweise nicht tun. Vermeiden Sie die Ein-Regionaltarif-Falle - der Preisaufschlag lohnt sich nicht wenn der Wechsel 10 Sekunden in den Einstellungen Ihres Handys dauert."
+    - id: faq-emergency
+      icon: alert-triangle
+      tab_title: Reiseunterstutzung
+      title: "9. Fidschi-eSIM fur Reiseunterstutzung & Verbunden Bleiben"
+      questions:
+        - q: "Wie geht man mit alltaglichen Reisesituationen in Fidschi um (Apotheken medizinische Hilfe Fundsachen)?"
+          a: "Fiji hat gute Infrastruktur fur Reisende. Fur kleinere gesundheitliche Bedurfnisse sind Apotheken in Stadten weit verbreitet - Apotheker konnen zu ublichen Reisebeschwerden beraten und viele Medikamente ohne Rezept abgeben. Suchen Sie 'Apotheke' auf Google Maps mit Ihren eSIM-Daten um die nachste zu finden. Fur arztliche Konsultationen bieten Privatkliniken in Suva Walk-in-Termine einige mit englischsprachigem Personal. Fur Fundsachen im Nahverkehr kontaktieren Sie das Fundburo des Verkehrsbetriebs. Nationale Notrufnummern funktionieren auf jedem Handy ohne Guthaben oder Daten. Eine Suche nach Hilfe verbraucht unter 2 MB. Ein 1GB/3-Tage-Tarif ($4.99) erledigt dies muhelos."
+        - q: "Wie findet man Krankenhauser und Apotheken in Fidschian Stadten?"
+          a: "Suchen Sie auf Google Maps nach 'Apotheke 24h' oder 'Krankenhaus' mit Ihren eSIM-Daten. In Suva konzentrieren sich die besten Privatkrankenhauser in gehobenen Wohngegenden. In kleineren Stadten schliessen Apotheken moglicherweise um 20 Uhr - es gibt normalerweise eine Notdienst-Apotheke. Privatklinik-Notaufnahmen akzeptieren internationale Kreditkarten Wartezeiten sind viel kurzer als in offentlichen Krankenhausern. Fur Telemedizin verbinden Apps wie Doctoralia Sie mit englischsprachigen Arzten per Videoanruf uber Ihre eSIM. Eine Apothekensuche verbraucht unter 2 MB. Ein 1GB-Tarif ($4.99) deckt Notfallsuchen fur Ihre gesamte Reise ab."
+        - q: "Wie kontaktiert man die Botschaft seines Landes in Fidschi?"
+          a: "Die meisten Botschaften sind in Suva. Nutzen Sie Ihre eSIM-Daten um 'Botschaft von [Ihrem Land] in Suva' zu suchen. Grosse Botschaften (USA Grossbritannien Kanada Australien EU-Lander) haben 24-Stunden-Bereitschaftsdienst erreichbar per Telefon oder WhatsApp. Bei verlorenen Passen: Rufen Sie vorher an - die meisten Botschaften benotigen Termine. Nutzen Sie Skype oder VoIP-Anrufe uber Ihre eSIM-Daten um sie gunstig zu erreichen. Suche dauert unter 2 MB. Screenshot der Kontaktdaten damit Sie sie offline haben. Ein 1GB/3-Tage-Tarif ($4.99) erledigt dies muhelos."
+        - q: "Was tun wenn Sie Ihr Handy auf Reisen in Fidschi verlieren?"
+          a: "Wenn Sie Ihr Handy verlieren: 1) Nutzen Sie das Gerat eines Freundes oder Hotel-Computer um sich auf unserer Website einzuloggen und Ihre eSIM zu sperren - das stoppt die Datennutzung sofort. 2) Nutzen Sie Find My iPhone (iCloud) oder Google Find My Device um es zu orten. Die meisten Fidschi-Geschafte bewahren ein gefundenes Handy fur Sie auf. 3) Wenn das Handy weg ist kaufen Sie eine Ersatz-eSIM online von einem beliebigen Gerat und installieren Sie sie auf einem Backup-Handy. 4) Fur die Versicherung erstatten Sie Anzeige bei den ortlichen Behorden - der Prozess ist unkompliziert. Profi-Tipp: Sichern Sie Ihren eSIM-QR-Code vor der Reise im Cloud-Speicher. Speichern Sie auch Adresse und Telefonnummer Ihrer Unterkunft offline - das ist das Erste was Sie brauchen wenn Ihr Handy verschwindet. Ein 1GB/3-Tage-Tarif ($4.99) erledigt dies muhelos."
+        - q: "Wie bleibt man flexibel und geht mit Reiseanderungen in Fidschi um?"
+          a: "Reiseplane andern sich - ein Flug verspatet sich oder Sie beschliessen Ihren Aufenthalt zu verlangern. Ihre eSIM halt Sie agil: 1) Buchen Sie Fluge sofort auf Airline-Apps um. 2) Andern Sie Bus- oder Zugreservierungen online - kein Besuch am Schalter notig. 3) Finden Sie Last-Minute-Unterkunfte auf Booking.com oder lokalen Plattformen. 4) Prufen Sie Echtzeit-Wetter um Ihre Tagesplane anzupassen. 5) Kontaktieren Sie Ihre Reiseversicherung uber deren App oder WhatsApp falls notig. Unternehmen in Fidschi sind generell flexibel bei Anderungen besonders wenn Sie fruhzeitig per WhatsApp kommunizieren. Ein 5GB/15-Tage-Tarif ($19.99) gibt Ihnen die Daten um Ihre Plane unterwegs anzupassen."
+    - id: faq-business
+      icon: briefcase
+      tab_title: Business
+      title: "10. Fidschi-eSIM fur Geschaftsreisende & Digitale Nomaden"
+      questions:
+        - q: "Was ist die beste eSIM fur Geschaftsreisen in Suvas Finanzviertel?"
+          a: "Suvas Geschaftszentrum konzentriert sich in Suva, Nadi. Alle grossen Anbieter bieten hier ausgezeichnete Abdeckung - Vodafone FJ fuhrt mit Geschwindigkeiten von 15-50 Mbit/s. Fur Geschaftsreisen: ein 10GB/15-Tage-Tarif ($19.99) deckt eine Arbeitswoche E-Mail Slack Videoanrufe und Cloud-Zugang. Coworking-Spaces: WeWork, Regus. Nutzen Sie Ride-Hailing oder Nahverkehr fur Wege zu Meetings - Ihre eSIM gibt Ihnen Echtzeit-Verkehrsdaten. Ein 20GB/30-Tage-Tarif ($24.99) unterstutzt einen ganzen Monat Geschaftsreisen."
+        - q: "Wie zuverlassig sind Zoom- und Microsoft Teams-Anrufe aus Fiji?"
+          a: "Videokonferenzen funktionieren gut in Suva und grosseren Stadten in Fidschi. Vodafone FJ 15-30Mbps. Tipps: 1) Nutzen Sie eSIM-Daten direkt auf Ihrem Handy (nicht Hotspot) fur maximale Stabilitat. 2) Morgendliche Anrufe (8-11 Uhr) haben die geringste Netzauslastung. 3) Ein 1-stundiges Zoom-Meeting verbraucht ~1 GB. Ein 20GB/30-Tage-Tarif ($24.99) unterstutzt ~20 Stunden Meetings. Fur Viel-Prasentierer: Testen Sie Ihre Verbindung 5 Minuten vor wichtigen Anrufen."
+        - q: "Wie verbindet man sich mit einem Firmen-VPN aus Fidschi mit eSIM?"
+          a: "Keine VPN-Einschrankungen.. Verbinden Sie Ihr Firmen-VPN (OpenVPN WireGuard Cisco AnyConnect etc.) uber Ihre eSIM-Daten ohne Reibung. Geschwindigkeitseinbusse durch VPN: 20-30% durch Verschlusselung - immer noch ausreichend fur E-Mail Dateizugriff und gelegentliche Videoanrufe. Fur Viel-VPN-Nutzer wahlen Sie den 20GB- oder 30GB-Tarif. Testen Sie Ihr VPN von Ihrem Hotel aus vor wichtigen Meetings."
+        - q: "Ist Fidschi gut fur digitale Nomaden und wie unterstutzt eSIM die Remote-Arbeit?"
+          a: "Ihre eSIM unterstutzt Remote-Arbeit: 1) Zuverlassige Mobilfunkdaten als Backup fur unzuverlassiges Airbnb-WLAN. 2) Coworking-Zugang - WeWork, Regus. 3) Mobilfunkabdeckung erstreckt sich auf beliebte Viertel und Cafe-Bezirke. 4) Suvas Zeitzone (UTC+12) ist praktisch fur bestimmte Remote-Teams. Ein 10GB/15-Tage-Tarif ($9.99) deckt dies komfortabel ab."
+        - q: "Wie greift man auf Cloud-Dienste zu und verwaltet Zeitzonen bei der Arbeit aus Fiji?"
+          a: "Alle grossen Cloud-Dienste funktionieren normal uber Ihre Fidschi-eSIM - Google Drive Dropbox OneDrive Slack Notion Microsoft 365 - keine Einschrankungen keine Blockierung. Upload-Geschwindigkeiten bei Vodafone FJ (10-20 Mbit/s) bewaltigen grosse Dateien - eine 100-MB-Prasentation wird in unter einer Minute hochgeladen. Fidschi liegt in UTC+12. Fur Cloud-intensive Nutzer bietet der 30GB/30-Tage-Tarif ($24.99) reichlich Bandbreite. Wichtiger Produktivitatstipp: Geschaftszeiten in Fidschi sind typischerweise 8-18 Uhr mit 1-2 Stunden Mittagspause - planen Sie entsprechend."
 ---

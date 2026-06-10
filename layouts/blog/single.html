@@ -3,8 +3,6 @@
 <head>
     {{ partial "head.html" . }}
     <link rel="canonical" href="{{ .Permalink }}">
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
-    <meta name="description" content="{{ .Description | default (.Summary | plainify | truncate 160) }}">
     
     <!-- Open Graph / Twitter Card -->
     <meta property="og:title" content="{{ .Title }}">

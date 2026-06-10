@@ -1,6 +1,6 @@
 ---
 title: Kosovo eSIM Forfait données | Meilleur eSIM voyage 2026 | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: "2026-06-07T08:51:27+00:00"
 draft: false
 type: esim
 country_meta:
@@ -211,7 +211,7 @@ activation_steps:
     title: 'Étape 3 : Activez au Kosovo'
     desc: À votre arrivée au Kosovo, activez votre eSIM Kosovo dans les réglages pour commencer à utiliser les données. Nous recommandons une connexion Wi-Fi pour l'activation initiale.
     is_list: false
-faq_section:
+faq_section1:
   title: FAQ eSIM Kosovo & Guide de voyage
   desc: Tout ce que vous devez savoir sur l'utilisation de votre eSIM Kosovo dans différents scénarios de voyage.
   categories:

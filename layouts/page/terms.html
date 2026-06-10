@@ -7,19 +7,7 @@
      {{ partial "head.html" . }} 
     <meta name="robots" content="index, follow">
 
-    <!-- 🌟 3. 规范化链接 (Canonical URL) -->
-    <link rel="canonical" href="{{ .Permalink }}" />
-
-    <!-- 🌟 4. 多语言 hreflang 标签 (多语言 SEO 核心！) -->
-    {{ if .IsTranslated }}
-        {{ range .AllTranslations }}
-        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
-        {{ end }}
-        <link rel="alternate" hreflang="x-default" href="{{ .Site.Home.Permalink }}">
-    {{ else }}
-        <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
-        <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
-    {{ end }}
+ 
 
     <!-- 🌟 5. Open Graph 社交分享标签 -->
     <meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }} - Roami eSIM{{ end }}">

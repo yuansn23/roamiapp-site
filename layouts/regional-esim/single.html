@@ -1,0 +1,654 @@
+{{/* layouts/regional-esim/single.html — fully data-driven, 100% Tailwind v4, zero inline classes */}}
+{{ $region    := .Params.region }}
+{{ $countries := .Params.countries }}
+{{ $carriers  := .Params.featured_carriers }}
+{{ $faq       := .Params.faq }}
+{{ $cross     := .Params.cross_region_links }}
+{{ $subregions := .Params.country_section.subregions }}
+{{ $totalCountries := 0 }}{{ range $k, $v := $countries }}{{ $totalCountries = add $totalCountries (len $v) }}{{ end }}
+{{ $fiveGCount := 0 }}{{ $fourGCount := 0 }}{{ range $k, $v := $countries }}{{ range $v }}{{ if eq .network "5G" }}{{ $fiveGCount = add $fiveGCount 1 }}{{ else }}{{ $fourGCount = add $fourGCount 1 }}{{ end }}{{ end }}{{ end }}
+<!DOCTYPE html>
+
+
+<html lang="{{ .Site.Language.Lang }}" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  
+  <meta name="robots" content="index,follow"> 
+    
+  <meta property="og:title" content="{{ .Params.title }}">
+  <meta property="og:description" content="{{ .Params.description }}">
+  <meta property="og:type" content="website">
+ <meta property="og:url" content="{{ .Permalink }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ .Params.title }}">
+  <meta name="twitter:description" content="{{ .Params.description }}">
+  <link href="/css/tailwind-compiled.css" rel="stylesheet">
+  {{ partial "head.html" . }}
+  
+  <style>
+    /* ---------- 重置与基础 ---------- */
+    *, ::before, ::after { box-sizing: border-box; border-width: 0; border-style: solid; border-color: #e5e7eb; }
+    body { margin: 0; font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; line-height: 1.5; }
+    h1, h2, h3, h4, p { margin: 0; }
+    ul, ol { margin: 0; padding: 0; list-style: none; }
+    a { color: inherit; text-decoration: none; }
+    img { max-width: 100%; height: auto; display: block; }
+    
+    /* 布局容器 */
+    .max-w-7xl { max-width: 80rem; margin-left: auto; margin-right: auto; }
+    .max-w-3xl { max-width: 48rem; margin-left: auto; margin-right: auto; }
+    .max-w-2xl { max-width: 42rem; margin-left: auto; margin-right: auto; }
+    .max-w-xl { max-width: 36rem; margin-left: auto; margin-right: auto; }
+    .max-w-md { max-width: 28rem; margin-left: auto; margin-right: auto; }
+    .mx-auto { margin-left: auto; margin-right: auto; }
+    .px-4 { padding-left: 1rem; padding-right: 1rem; }
+    .px-5 { padding-left: 1.25rem; padding-right: 1.25rem; }
+    .px-6 { padding-left: 1.5rem; padding-right: 1.5rem; }
+    .py-2 { padding-top: 0.5rem; padding-bottom: 0.5rem; }
+    .py-3 { padding-top: 0.75rem; padding-bottom: 0.75rem; }
+    .py-4 { padding-top: 1rem; padding-bottom: 1rem; }
+    .py-5 { padding-top: 1.25rem; padding-bottom: 1.25rem; }
+    .py-10 { padding-top: 2.5rem; padding-bottom: 2.5rem; }
+    .py-12 { padding-top: 3rem; padding-bottom: 3rem; }
+    .py-16 { padding-top: 4rem; padding-bottom: 4rem; }
+    .pt-12 { padding-top: 3rem; }
+    .pb-5 { padding-bottom: 1.25rem; }
+    .mb-1 { margin-bottom: 0.25rem; }
+    .mb-2 { margin-bottom: 0.5rem; }
+    .mb-3 { margin-bottom: 0.75rem; }
+    .mb-4 { margin-bottom: 1rem; }
+    .mb-5 { margin-bottom: 1.25rem; }
+    .mb-6 { margin-bottom: 1.5rem; }
+    .mb-8 { margin-bottom: 2rem; }
+    .mb-10 { margin-bottom: 2.5rem; }
+    .mt-1 { margin-top: 0.25rem; }
+    .mt-2 { margin-top: 0.5rem; }
+    .mt-3 { margin-top: 0.75rem; }
+    .mt-4 { margin-top: 1rem; }
+    .mt-5 { margin-top: 1.25rem; }
+    .mt-6 { margin-top: 1.5rem; }
+    .mt-7 { margin-top: 1.75rem; }
+    .mt-8 { margin-top: 2rem; }
+    .mr-1 { margin-right: 0.25rem; }
+    .mr-4 { margin-right: 1rem; }
+    .gap-1 { gap: 0.25rem; }
+    .gap-2 { gap: 0.5rem; }
+    .gap-3 { gap: 0.75rem; }
+    .gap-4 { gap: 1rem; }
+    .gap-5 { gap: 1.25rem; }
+    .gap-6 { gap: 1.5rem; }
+    
+    /* 网格系统 */
+    .grid { display: grid; }
+    .grid-cols-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .grid-cols-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .gap-1\.5 { gap: 0.375rem; }
+    
+    /* 弹性布局 */
+    .flex { display: flex; }
+    .inline-flex { display: inline-flex; }
+    .items-center { align-items: center; }
+    .justify-center { justify-content: center; }
+    .justify-between { justify-content: space-between; }
+    .flex-wrap { flex-wrap: wrap; }
+    .flex-col { flex-direction: column; }
+    .flex-shrink-0 { flex-shrink: 0; }
+    .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .min-w-0 { min-width: 0; }
+    
+    /* 定位 */
+    .relative { position: relative; }
+    .absolute { position: absolute; }
+    .sticky { position: sticky; }
+    .top-0 { top: 0; }
+    .inset-0 { top: 0; right: 0; bottom: 0; left: 0; }
+    .z-10 { z-index: 10; }
+    .z-50 { z-index: 50; }
+    .pointer-events-none { pointer-events: none; }
+    
+    /* 溢出 */
+    .overflow-hidden { overflow: hidden; }
+    .overflow-x-auto { overflow-x: auto; }
+    .whitespace-nowrap { white-space: nowrap; }
+    
+    /* 边框 */
+    .border { border-width: 1px; }
+    .border-2 { border-width: 2px; }
+    .border-b { border-bottom-width: 1px; }
+    .border-t { border-top-width: 1px; }
+    .border-slate-100 { border-color: #f1f5f9; }
+    .border-slate-200 { border-color: #e2e8f0; }
+    .border-slate-600 { border-color: #475569; }
+    .border-white\/10 { border-color: rgba(255,255,255,0.1); }
+    .border-amber-200 { border-color: #fde68a; }
+    .border-amber-500\/25 { border-color: rgba(245,158,11,0.25); }
+    .border-red-200 { border-color: #fecaca; }
+    .border-blue-200 { border-color: #bfdbfe; }
+    .rounded-sm { border-radius: 0.125rem; }
+    .rounded-lg { border-radius: 0.5rem; }
+    .rounded-xl { border-radius: 0.75rem; }
+    .rounded-2xl { border-radius: 1rem; }
+    .rounded-3xl { border-radius: 1.5rem; }
+    .rounded-full { border-radius: 9999px; }
+    
+    /* 背景与颜色 */
+    .bg-white { background-color: #ffffff; }
+    .bg-slate-50 { background-color: #f8fafc; }
+    .bg-slate-100 { background-color: #f1f5f9; }
+    .bg-slate-900 { background-color: #0f172a; }
+    .bg-blue-50 { background-color: #eff6ff; }
+    .bg-blue-600 { background-color: #2563eb; }
+    .bg-red-50 { background-color: #fef2f2; }
+    .bg-amber-50 { background-color: #fffbeb; }
+    .bg-amber-500\/15 { background-color: rgba(245,158,11,0.15); }
+    .bg-sky-500 { background-color: #0ea5e9; }
+    .bg-emerald-500 { background-color: #10b981; }
+    .bg-white\/5 { background-color: rgba(255,255,255,0.05); }
+    .text-slate-900 { color: #0f172a; }
+    .text-slate-800 { color: #1e293b; }
+    .text-slate-700 { color: #334155; }
+    .text-slate-600 { color: #475569; }
+    .text-slate-500 { color: #64748b; }
+    .text-slate-400 { color: #94a3b8; }
+    .text-slate-300 { color: #cbd5e1; }
+    .text-white { color: #ffffff; }
+    .text-blue-600 { color: #2563eb; }
+    .text-blue-700 { color: #1d4ed8; }
+    .text-red-600 { color: #dc2626; }
+    .text-red-700 { color: #b91c1c; }
+    .text-red-400 { color: #f87171; }
+    .text-amber-300 { color: #fcd34d; }
+    .text-amber-800 { color: #92400e; }
+    .text-emerald-400 { color: #34d399; }
+    .text-emerald-600 { color: #059669; }
+    .text-sky-400 { color: #38bdf8; }
+    
+    /* 字体 */
+    .text-xs { font-size: 0.75rem; line-height: 1rem; }
+    .text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+    .text-base { font-size: 1rem; line-height: 1.5rem; }
+    .text-lg { font-size: 1.125rem; line-height: 1.75rem; }
+    .text-xl { font-size: 1.25rem; line-height: 1.75rem; }
+    .text-2xl { font-size: 1.5rem; line-height: 2rem; }
+    .text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+    .font-medium { font-weight: 500; }
+    .font-semibold { font-weight: 600; }
+    .font-bold { font-weight: 700; }
+    .font-extrabold { font-weight: 800; }
+    .tracking-tight { letter-spacing: -0.025em; }
+    .uppercase { text-transform: uppercase; }
+    .antialiased { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+    .leading-tight { line-height: 1.25; }
+    .leading-relaxed { line-height: 1.625; }
+    
+    /* 阴影 */
+    .shadow-lg { box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -2px rgba(0,0,0,0.05); }
+    .shadow-xl { box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1), 0 10px 10px -5px rgba(0,0,0,0.04); }
+    .shadow-sky-500\/25 { box-shadow: 0 10px 15px -3px rgba(14,165,233,0.25); }
+    .shadow-blue-500\/25 { box-shadow: 0 10px 15px -3px rgba(37,99,235,0.25); }
+    .hover\:shadow-lg:hover { box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -2px rgba(0,0,0,0.05); }
+    .hover\:shadow-xl:hover { box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1), 0 10px 10px -5px rgba(0,0,0,0.04); }
+    
+    /* 过渡动画 */
+    .transition { transition-property: all; transition-timing-function: cubic-bezier(0.4,0,0.2,1); transition-duration: 150ms; }
+    .transition-colors { transition-property: background-color, border-color, color, fill, stroke; transition-timing-function: cubic-bezier(0.4,0,0.2,1); transition-duration: 150ms; }
+    .hover\:translate-y-[-2px]:hover { transform: translateY(-2px); }
+    .hover\:-translate-y-1:hover { transform: translateY(-0.25rem); }
+    .group:hover .group-hover\:scale-110 { transform: scale(1.1); }
+    
+    /* 按钮与链接交互 */
+    .hover\:bg-blue-50:hover { background-color: #eff6ff; }
+    .hover\:bg-sky-400:hover { background-color: #38bdf8; }
+    .hover\:bg-blue-700:hover { background-color: #1d4ed8; }
+    .hover\:bg-white\/10:hover { background-color: rgba(255,255,255,0.1); }
+    .hover\:border-blue-500:hover { border-color: #3b82f6; }
+    .hover\:border-slate-400:hover { border-color: #94a3b8; }
+    .hover\:text-blue-600:hover { color: #2563eb; }
+    .hover\:text-white:hover { color: #ffffff; }
+    .hover\:shadow-md:hover { box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0,0,0,0.06); }
+    
+    /* 响应式断点 */
+    @media (min-width: 640px) {
+      .sm\:grid-cols-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .sm\:grid-cols-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+      .sm\:grid-cols-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+      .sm\:grid-cols-5 { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+      .sm\:px-6 { padding-left: 1.5rem; padding-right: 1.5rem; }
+      .sm\:py-14 { padding-top: 3.5rem; padding-bottom: 3.5rem; }
+      .sm\:py-16 { padding-top: 4rem; padding-bottom: 4rem; }
+      .sm\:text-base { font-size: 1rem; line-height: 1.5rem; }
+      .sm\:text-lg { font-size: 1.125rem; line-height: 1.75rem; }
+      .sm\:text-2xl { font-size: 1.5rem; line-height: 2rem; }
+      .sm\:text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+      .sm\:gap-6 { gap: 1.5rem; }
+      .sm\:gap-2 { gap: 0.5rem; }
+    }
+    @media (min-width: 768px) {
+      .md\:grid-cols-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+    }
+    @media (min-width: 1024px) {
+      .lg\:col-span-2 { grid-column: span 2 / span 2; }
+      .lg\:col-span-3 { grid-column: span 3 / span 3; }
+      .lg\:grid-cols-5 { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+      .lg\:px-8 { padding-left: 2rem; padding-right: 2rem; }
+      .lg\:py-20 { padding-top: 5rem; padding-bottom: 5rem; }
+      .lg\:text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+      .lg\:text-4xl { font-size: 2.25rem; line-height: 2.5rem; }
+      .lg\:gap-12 { gap: 3rem; }
+    }
+    
+    /* 原有自定义样式 */
+    .rn-quicknav {
+      background: rgba(255,255,255,0.92);
+      backdrop-filter: saturate(180%) blur(16px);
+      -webkit-backdrop-filter: saturate(180%) blur(16px);
+    }
+    .rn-quicknav.scrolled { box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+    .rn-label { display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: #2563eb; margin-bottom: 0.75rem; }
+    .rn-label::before { content: ''; display: inline-block; width: 8px; height: 8px; border-radius: 2px; background: #2563eb; }
+    .rn-country:hover .rn-country-name { color: #2563eb; }
+    .rn-faq summary { cursor: pointer; user-select: none; list-style: none; }
+    .rn-faq summary::-webkit-details-marker { display: none; }
+    .rn-faq summary:hover { color: #2563eb; }
+    .rn-faq[open] summary { color: #2563eb; font-weight: 700; }
+    .rn-faq[open] .rn-faq-body { animation: rnFaqIn 0.25s ease-out; }
+    @keyframes rnFaqIn { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: translateY(0); } }
+    .rn-pulse { animation: rnPulse 2s infinite; }
+    @keyframes rnPulse { 0%, 100% { opacity: 0.7; } 50% { opacity: 1; } }
+  </style>
+</head>
+<body class="bg-white text-slate-900 antialiased">
+
+{{ partial "header.html" . }}
+{{ partial "breadcrumbs.html" . }}
+
+ 
+ 
+<!-- ===== ① HERO ===== -->
+<section class="bg-slate-900 text-white relative overflow-hidden">
+  <div class="absolute inset-0 pointer-events-none" style="background:radial-gradient(ellipse 60% 50% at 50% 30%,rgba(37,99,235,0.2),transparent)"></div>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16 lg:py-20 relative z-10">
+    <div class="grid lg:grid-cols-5 gap-8 lg:gap-12 items-center">
+      <div class="lg:col-span-3">
+        <h1 class="text-2xl sm:text-3xl lg:text-4xl xl:text-5xl font-extrabold tracking-tight leading-[1.15]">
+          {{ .Params.hero.h1_line1 }}<br>
+          <span class="text-sky-400">{{ .Params.hero.h1_line2 }}</span>
+        </h1>
+        <p class="mt-4 text-sm sm:text-base text-slate-300 max-w-lg leading-relaxed">{{ .Params.hero.description }}</p>
+        <div class="mt-5 flex flex-wrap items-center gap-x-4 gap-y-1.5">
+          {{ range .Params.hero.trust_badges }}
+          <span class="flex items-center gap-1 text-xs sm:text-[0.8125rem] text-slate-400">
+            <svg class="w-3.5 h-3.5 text-emerald-400 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+            {{ . }}
+          </span>
+          {{ end }}
+        </div>
+        <div class="mt-7 flex flex-wrap items-center gap-3">
+          <a href="{{ .Params.hero.primary_cta_url | relLangURL }}" class="inline-flex items-center gap-2 px-5 py-3 sm:px-6 sm:py-3.5 bg-sky-500 text-white font-bold rounded-xl hover:bg-sky-400 transition text-sm sm:text-base shadow-lg shadow-sky-500/25">
+            {{ .Params.hero.primary_cta_text }}
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+          </a>
+          <a href="{{ .Params.hero.secondary_cta_url | relLangURL }}" class="inline-flex items-center gap-2 px-5 py-3 border-2 border-slate-600 text-slate-300 font-semibold rounded-xl hover:border-slate-400 hover:text-white transition text-sm">
+            {{ .Params.hero.secondary_cta_text }}
+          </a>
+        </div>
+      </div>
+      <div class="hidden lg:block lg:col-span-2">
+  <div class="bg-white/5 rounded-2xl border border-white/10 p-5">
+  <img src="{{ .Params.hero.image }}" alt="{{ .Params.hero.image_alt }}" class="rounded-xl w-full h-auto mb-4" width="480" height="320" loading="eager" fetchpriority="high">
+  <div class="grid grid-cols-3 gap-3 text-center">
+    <div>
+      <div class="text-lg font-extrabold text-white">{{ $totalCountries }}</div>
+      <div class="text-[0.625rem] text-slate-400">{{ i18n "stats.countries" }}</div>
+    </div>
+    <div>
+      <div class="text-lg font-extrabold text-white">{{ len $carriers }}+</div>
+      <div class="text-[0.625rem] text-slate-400">{{ i18n "stats.carriers" }}</div>
+    </div>
+    <div>
+      <div class="text-lg font-extrabold text-white">{{ $fiveGCount }}/{{ $totalCountries }}</div>
+      <div class="text-[0.625rem] text-slate-400">{{ i18n "stats.coverage_5g" }}</div>
+    </div>
+  </div>
+</div>
+      </div>
+    </div>
+  </div>
+</section>
+ 
+
+<!-- ===== ③ WHY SECTION (from markdown data) ===== -->
+{{ if .Params.why_section }}
+<section class="bg-slate-50 py-12 sm:py-16">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-10">
+      <p class="rn-label">{{ .Params.why_section.title }}</p>
+      <h2 class="text-xl sm:text-2xl lg:text-3xl font-extrabold text-slate-900 tracking-tight">{{ .Params.why_section.subtitle }}</h2>
+    </div>
+    <div class="grid sm:grid-cols-3 gap-4 sm:gap-6">
+      {{ range .Params.why_section.cards }}
+      <div class="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6 text-center transition hover:-translate-y-1 hover:shadow-lg">
+        <div class="text-3xl mb-3">
+          {{ if eq .icon "globe" }}🌍{{ else if eq .icon "currency" }}💰{{ else if eq .icon "lightning" }}⚡{{ else }}{{ .icon }}{{ end }}
+        </div>
+        <h4 class="font-bold text-slate-900 text-sm sm:text-base mb-2">{{ .title }}</h4>
+        <p class="text-xs sm:text-sm text-slate-500 leading-relaxed">{{ .description }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- ===== ④ COUNTRY COVERAGE GRID ===== -->
+<section id="coverage" class="bg-white py-12 sm:py-16">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+  <div class="mb-10 w-full">
+  <!-- 标签：固定左对齐，无额外影响 --> 
+  <!-- 标题：统一左对齐，加大字号和行距 -->
+  <h2 class="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-slate-900 tracking-tight leading-tight">
+  {{ T "region_country_title" (dict "RegionName" $region.name "TotalCountries" $totalCountries) }}
+</h2>
+  
+ <!-- 描述：与标题严格左对齐，无宽度限制 -->
+<p class="mt-3 text-base text-slate-500 w-full leading-relaxed text-left">
+  {{ T "coverage_stats_text" (dict "FiveGCount" $fiveGCount "FourGCount" $fourGCount) | safeHTML }}
+</p>
+</div>
+
+    {{ if and $subregions $countries }}
+    <div class="space-y-6 sm:space-y-8">
+      {{ range $si, $sr := $subregions }}
+      {{ $entries := index $countries $sr.key }}
+      {{ if gt (len $entries) 0 }}
+      <div>
+        <h3 class="text-xs sm:text-sm font-bold uppercase tracking-wider text-slate-400 mb-3 flex items-center gap-2">
+          <span class="w-1.5 h-4 rounded-full flex-shrink-0" style="background:{{ if eq $sr.color "blue" }}#3b82f6{{ else if eq $sr.color "sky" }}#0ea5e9{{ else if eq $sr.color "emerald" }}#10b981{{ else if eq $sr.color "amber" }}#f59e0b{{ else if eq $sr.color "red" }}#ef4444{{ else if eq $sr.color "orange" }}#f97316{{ else if eq $sr.color "purple" }}#8b5cf6{{ else }}#3b82f6{{ end }}"></span>
+          {{ $sr.title }}
+        </h3>
+        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-1.5 sm:gap-2">
+          {{ range $entries }}
+          <a href="{{ .url | relLangURL }}" class="rn-country flex items-center gap-2 p-2 sm:p-2.5 bg-white rounded-xl border border-slate-200 text-slate-900 hover:border-blue-500 hover:shadow-md no-underline transition-all duration-150" title="{{ .name }} eSIM — {{ .network }} data on {{ .carriers }}">
+            <img src="{{ .flag_image }}" alt="{{ .name }} flag" class="w-6 h-4 sm:w-7 sm:h-5 rounded-sm flex-shrink-0 border border-slate-100 object-cover" loading="lazy" width="28" height="20" onerror="this.style.display='none';this.nextElementSibling.style.display='inline-block'">
+            <span class="text-base flex-shrink-0 leading-none hidden">{{ .flag }}</span>
+            <span class="rn-country-name text-xs sm:text-sm font-semibold text-slate-800 truncate flex-1 min-w-0 transition-colors duration-150">{{ .name }}</span>
+            {{ if .is_popular }}<span class="w-1 h-1 rounded-full bg-amber-500 flex-shrink-0" title="Most visited"></span>{{ end }}
+            <span class="text-xs font-bold px-1.5 py-0.5 rounded flex-shrink-0 {{ if eq .network "5G" }}bg-blue-100 text-blue-700{{ else }}bg-slate-100 text-slate-500{{ end }}">{{ .network }}</span>
+          </a>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+      {{ end }}
+    </div>
+    {{ else if $countries }}
+    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-1.5 sm:gap-2">
+      {{ range $regionKey, $countryList := $countries }}
+        {{ range $countryList }}
+        <a href="{{ .url | relLangURL }}" class="rn-country flex items-center gap-2 p-2 sm:p-2.5 bg-white rounded-xl border border-slate-200 text-slate-900 hover:border-blue-500 hover:shadow-md no-underline transition-all duration-150" title="{{ .name }} eSIM — {{ .network }} data on {{ .carriers }}">
+          <img src="{{ .flag_image }}" alt="{{ .name }} flag" class="w-6 h-4 sm:w-7 sm:h-5 rounded-sm flex-shrink-0 border border-slate-100 object-cover" loading="lazy" width="28" height="20" onerror="this.style.display='none';this.nextElementSibling.style.display='inline-block'">
+          <span class="text-base flex-shrink-0 leading-none hidden">{{ .flag }}</span>
+          <span class="rn-country-name text-xs sm:text-sm font-semibold text-slate-800 truncate flex-1 min-w-0 transition-colors duration-150">{{ .name }}</span>
+          {{ if .is_popular }}<span class="w-1 h-1 rounded-full bg-amber-500 flex-shrink-0" title="Most visited"></span>{{ end }}
+          <span class="text-xs font-bold px-1.5 py-0.5 rounded flex-shrink-0 {{ if eq .network "5G" }}bg-blue-100 text-blue-700{{ else }}bg-slate-100 text-slate-500{{ end }}">{{ .network }}</span>
+        </a>
+        {{ end }}
+      {{ end }}
+    </div>
+    {{ else }}
+   <!-- <p class="text-center text-slate-500">No country data available.</p> -->
+    {{ end }}
+  </div>
+</section>
+
+<!-- ===== ⑤ CARRIER PARTNERS ===== -->
+{{ if $carriers }}
+<section id="networks" class="bg-slate-50 py-12 sm:py-16">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <!-- 统一标题结构，仅内容随条件变化 -->
+    <div class="mb-8 text-center">
+      {{ if .Params.carrier_section }}
+        <div class="rn-label justify-center">{{ .Params.carrier_section.title }}</div>
+        <h2 class="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-slate-900">
+  {{ T "powered_by_operators" (dict "RegionName" $region.name) }}
+</h2>
+        <p class="mt-3 text-base text-slate-500 max-w-2xl mx-auto">
+  {{ T "auto_switch_carriers" (dict "CarrierCount" (len $carriers)) | safeHTML }}
+</p>
+      {{ else }}
+       <div class="rn-label justify-center">{{ T "network_partners_label" }}</div>
+<h2 class="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-slate-900">
+  {{ T "premium_carrier_partners_title" (dict "Count" (len $carriers)) }}
+</h2>
+<p class="mt-3 text-base text-slate-500 max-w-2xl mx-auto">
+  {{ T "network_partners_description" }}
+</p>
+      {{ end }}
+    </div>
+
+
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-5">
+      {{ range $carriers }}
+      <div class="bg-white rounded-2xl border border-slate-200 p-4 sm:p-5 transition hover:-translate-y-1 hover:shadow-lg">
+        <div class="flex items-center justify-between mb-3">
+          <h4 class="font-extrabold text-slate-800 text-base">{{ .name }}</h4>
+          <span class="text-xs text-slate-500 bg-slate-100 px-2 py-0.5 rounded-full">{{ .hq }}</span>
+        </div>
+       {{- $suffix := "" -}}
+{{- with .countries -}}
+  {{- $suffix = printf ", covering %s" . -}}
+{{- end -}}
+
+<p class="text-sm text-slate-600 leading-relaxed">
+  {{ T "esim_auto_connect" (dict "HQ" .hq "CountriesSuffix" $suffix) }}
+</p>
+	   
+        <div class="mt-3 flex items-center gap-2 pt-2 border-t border-slate-100">
+          <span class="w-2 h-2 rounded-full {{ if eq .rating "Excellent" }}bg-emerald-500{{ else }}bg-blue-500{{ end }}"></span>
+          <span class="text-xs font-bold {{ if eq .rating "Excellent" }}text-emerald-600{{ else }}text-blue-600{{ end }}">
+            {{ if eq .rating "Excellent" }}Excellent coverage{{ else }}Very good coverage{{ end }}
+          </span>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+
+    {{ if .Params.carrier_section.footnote }}
+    <p class="text-xs text-slate-400 mt-6 text-center">{{ .Params.carrier_section.footnote }}</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+<!-- ===== ⑥ VS ROAMING ===== -->
+{{ if .Params.vs_roaming }}
+<section id="compare" class="bg-white py-12 sm:py-16">
+  <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-10">
+      <p class="rn-label justify-center">{{ .Params.vs_roaming.title }}</p>
+     <h2 class="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-slate-900 tracking-tight">
+  {{ T "esim_vs_carrier_roaming" (dict "RegionName" $region.name) }}
+</h2>
+      <p class="mt-3 text-base text-slate-500 max-w-lg mx-auto leading-relaxed">{{ .Params.vs_roaming.subtitle }}</p>
+    </div>
+<div class="grid md:grid-cols-2 gap-6 lg:gap-8 mb-8">
+  <!-- Carrier roaming (anchor — shown first) -->
+  <div class="bg-red-50 border-2 border-red-200 rounded-3xl p-6 lg:p-8">
+    <div class="flex items-center justify-between mb-4">
+      <h3 class="text-xl font-extrabold text-red-600">{{ T "carrier_roaming_title" }}</h3>
+      <span class="bg-red-100 text-red-700 text-xs font-bold px-3 py-1 rounded-full">{{ T "carrier_roaming_badge" }}</span>
+    </div>
+    <div class="text-4xl lg:text-5xl font-black text-red-700 mb-2">$140–$210</div>
+    <div class="text-sm text-red-500 font-semibold mb-6">{{ T "carrier_roaming_estimate" }}</div>
+    <div class="space-y-3">
+      {{ range .Params.vs_roaming.rows }}
+      <div class="flex items-start gap-2 text-sm">
+        <span class="text-red-400 text-lg shrink-0">✖</span>
+        <span><span class="font-semibold">{{ .label }}:</span> {{ .carrier | default "—" }}</span>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+
+  <!-- Roami (relief — shown second) -->
+  <div class="bg-blue-50 border-2 border-blue-200 rounded-3xl p-6 lg:p-8">
+    <div class="flex items-center justify-between mb-4">
+      <h3 class="text-xl font-extrabold text-blue-600">{{ T "roami_title" (dict "RegionName" $region.name) }}</h3>
+      <span class="bg-blue-100 text-blue-700 text-xs font-bold px-3 py-1 rounded-full">{{ T "roami_badge" }}</span>
+    </div>
+    <div class="text-4xl lg:text-5xl font-black text-blue-600 mb-2">{{ T "roami_price_label" }}</div>
+    <div class="text-sm text-blue-500 font-semibold mb-6">{{ T "roami_plan_description" }}</div>
+    <div class="space-y-3">
+      {{ range .Params.vs_roaming.rows }}
+      <div class="flex items-start gap-2 text-sm">
+        <span class="text-emerald-500 text-lg shrink-0">✓</span>
+        <span><span class="font-semibold">{{ .label }}:</span> {{ .roami | default "—" }}</span>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+    <!-- Savings callout -->
+ 
+
+{{ with .Params.vs_roaming.promo_code }}
+<div class="relative bg-gradient-to-br from-green-100 via-green-50 to-emerald-100 border-2 border-green-400 rounded-2xl p-6 shadow-2xl overflow-hidden transition-all duration-300 hover:shadow-lg">
+  <div class="absolute top-2 right-2 text-2xl opacity-80">✨</div>
+  <div class="text-center">
+    <div class="inline-block bg-amber-100 text-amber-800 text-xs font-extrabold px-3 py-1 rounded-full mb-3 shadow-sm">
+      {{ T "promo_limited_offer" }}
+    </div>
+    <p class="text-xl font-black text-green-800 mb-2 flex flex-wrap items-center justify-center gap-x-1">
+      🎉 {{ $.Params.vs_roaming.promo_discount }} — {{ T "promo_use_code" }}
+      <span class="inline-block bg-yellow-300 text-green-900 font-mono font-bold text-2xl px-3 py-1 rounded-lg shadow-md border border-yellow-600 mx-1">{{ . }}</span>
+    </p>
+    <p class="text-base text-green-700">{{ $.Params.vs_roaming.promo_text | safeHTML }}</p>
+    <div class="mt-3 text-sm text-green-600 flex justify-center items-center gap-1">
+      {{ T "promo_checkout" }}
+    </div>
+  </div>
+</div>
+{{ end }}
+  </div>
+</section>
+{{ end }}
+ 
+ 
+<!-- ===== ⑦ FAQ ===== -->
+<!-- ===== ⑦ FAQ ===== -->
+{{ if $faq }}
+<section id="faq" class="bg-white py-12 sm:py-20">
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-10"> 
+<h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900">
+    {{ i18n "regionQuestionsTitle" (dict "RegionName" $region.name) }}
+</h2>
+      <p class="mt-2 text-slate-500">{{ .Params.faq_section.subtitle }}</p>
+    </div>
+    
+    <div class="space-y-4">
+      {{ range $faq }}
+      <details class="group bg-white border border-slate-200 rounded-2xl transition-all duration-200 hover:border-orange-200 hover:shadow-md [&_summary::-webkit-details-marker]:hidden">
+        <summary class="flex items-center justify-between w-full px-6 py-5 cursor-pointer list-none">
+          <span class="flex items-center gap-3 text-base font-semibold text-slate-800 group-hover:text-orange-600 transition-colors">
+            <span class="text-orange-500 text-lg">❓</span>
+            {{ .question }}
+          </span>
+          <svg class="w-5 h-5 text-slate-400 transition-transform duration-200 group-open:rotate-45" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"/>
+          </svg>
+        </summary>
+        <div class="px-6 pb-6 pt-1 text-slate-600 leading-relaxed border-t border-slate-100">
+          <div class="prose prose-sm max-w-none text-slate-500 faq-answer">
+            {{ .answer | markdownify }}
+          </div>
+        </div>
+      </details>
+      {{ end }}
+    </div>
+ 
+  </div>
+</section>
+
+<style>
+  /* 让 FAQ 答案中的链接更醒目 */
+  .faq-answer a {
+    color: #ea580c !important;      /* 橙色 */
+    font-weight: 600 !important;    /* 半粗/加粗 */
+    text-decoration: underline !important;
+    text-underline-offset: 2px;
+    transition: opacity 0.2s;
+  }
+  .faq-answer a:hover {
+    opacity: 0.8;
+    text-decoration-thickness: 2px;
+  }
+</style>
+{{ end }}
+
+<!-- ===== ⑨ CROSS-REGION LINKS ===== -->
+{{ if $cross }}
+<section class="bg-slate-50 py-12 sm:py-16 border-t border-slate-200">
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-6"> 
+      <h2 class="text-lg sm:text-xl font-extrabold text-slate-800">
+  {{ T "heading_beyond_region" (dict "RegionName" $region.name) }}
+</h2>
+    </div>
+    <div class="grid sm:grid-cols-3 gap-3 sm:gap-4">
+      {{ range $cross }}
+      <a href="{{ .url | relLangURL }}" class="flex flex-col p-4 bg-white rounded-2xl border border-slate-200 text-center transition hover:-translate-y-1 hover:shadow-lg">
+        <span class="text-sm sm:text-base font-bold text-slate-800">{{ .title }}</span>
+        <span class="text-xs sm:text-sm text-slate-400 mt-1">{{ .note }}</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- ===== ⑩ FINAL CTA ===== -->
+<section class="bg-slate-900 text-white py-10 sm:py-14">
+  <div class="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 text-center"> 
+<p class="mt-2 text-slate-400 text-sm max-w-md mx-auto">
+  {{ T "promo_stats_text" (dict "Countries" $totalCountries "Price" "1.99") }}
+</p>
+    <div class="mt-5 flex flex-wrap justify-center gap-3">
+      <a href="/plans/" class="inline-flex items-center gap-2 px-6 py-3.5 bg-sky-500 text-white font-bold rounded-xl hover:bg-sky-400 transition text-sm shadow-lg shadow-sky-500/25">
+        Get {{ $region.name }} eSIM →
+      </a>
+    <a href="/free-esim/" class="inline-flex items-center gap-2 px-6 py-3.5 border-2 border-slate-600 text-slate-300 font-semibold rounded-xl hover:border-slate-400 hover:text-white transition text-sm">
+  {{ T "try_free_button" }}
+</a>
+    </div>
+  </div>
+</section>
+
+<!-- ===== SCHEMA ===== -->
+{{ if $faq }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $f := $faq }}
+    {"@type":"Question","name":"{{ $f.question }}","acceptedAnswer":{"@type":"Answer","text":"{{ $f.answer }}"}}{{ if lt $i (sub (len $faq) 1) }},{{ end }}
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
+
+<script>
+(function(){
+  var n = document.getElementById('quickNav');
+  if (n) { window.addEventListener('scroll', function(){ n.classList.toggle('scrolled', window.scrollY > 10); }); }
+})();
+</script>
+
+{{ partial "footer.html" . }}
+
+</body>
+</html>

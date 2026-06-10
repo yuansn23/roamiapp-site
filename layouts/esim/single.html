@@ -209,18 +209,7 @@
 
 <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full">
 
-  <nav class="flex text-sm text-slate-500 mb-6" aria-label="Breadcrumb">
-    <ol class="inline-flex items-center space-x-1 md:space-x-2">
-        {{ range $index, $item := .Params.breadcrumbs }}
-            {{ if gt $index 0 }}<li><i data-lucide="chevron-right" class="w-4 h-4 text-slate-400" aria-hidden="true"></i></li>{{ end }}
-            {{ if $item.url }}
-                <li class="inline-flex items-center"><a href="{{ $item.url | relLangURL }}" class="hover:text-blue-600 transition-colors">{{ $item.label }}</a></li>
-            {{ else }}
-                <li aria-current="page" class="inline-flex items-center"><span class="text-slate-800 font-medium">{{ $item.label }}</span></li>
-            {{ end }}
-        {{ end }}
-    </ol>
-</nav>
+{{ partial "breadcrumbs.html" . }}
 
     <div class="w-full h-64 md:h-80 rounded-3xl overflow-hidden relative mb-8 shadow-sm">
         <img src="/{{ trim .Params.banner.image "/" }}" class="w-full h-full object-cover" alt="{{ .Params.banner.alt }}">
@@ -564,43 +553,65 @@
                     </div>
                 </div>
             </section>
+			
+			 
+
+{{/* 动态加载当前语言的数据文件 */}}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ if not $data }}
+  {{ $data = .Site.Data.en }}
+{{ end }}
+{{ $allItems := $data.related_products.items }}
+
+{{ $currentSlug := .Params.slug | default .File.BaseFileName }}
+{{ $usItem := index (where $allItems "slug" "united-states-esim") 0 }}
+
+{{ $finalItems := slice }}
+{{ if and $usItem (ne $currentSlug "united-states-esim") }}
+  {{ $finalItems = $finalItems | append $usItem }}
+  {{ $randomPool := where $allItems "slug" "not in" (slice "united-states-esim" $currentSlug) }}
+  {{ $shuffled := shuffle $randomPool }}
+  {{ $maxOther := sub 8 1 }}
+  {{ $finalItems = $finalItems | append (first $maxOther $shuffled) }}
+{{ else }}
+  {{ $randomPool := where $allItems "slug" "ne" $currentSlug }}
+  {{ $shuffled := shuffle $randomPool }}
+  {{ $finalItems = $finalItems | append (first 8 $shuffled) }}
+{{ end }}
+
 <section class="mt-12 pt-10 border-t border-slate-200">
-    <div class="flex items-center gap-3 mb-6"><h2 class="text-2xl font-bold text-slate-900">{{ .Params.related_products.title }}</h2></div>
-    <ul class="grid grid-cols-2 md:grid-cols-4 gap-4 list-none p-0 m-0">
-        {{ range first 8 (shuffle .Params.related_products.items) }}
-            {{- /* 1. 确定基础 slug */ -}}
-            {{ $slugBase := .slug | default (.name | urlize) }}
-            {{- /* 2. 强制追加 -esim 后缀（如果尚未包含） */ -}}
-            {{ $slugWithSuffix := $slugBase }}
-            {{ if not (hasSuffix $slugBase "-esim") }}
-                {{ $slugWithSuffix = printf "%s-esim" $slugBase }}
-            {{ end }}
-            
-            {{- /* 3. 根据语言环境构造完整 URL，确保尾部斜杠 */ -}}
-            {{ $targetUrl := "" }}
-            {{ if eq $.Site.Language.Lang "en" }}
-                {{ $targetUrl = or .url .link (printf "/%s/" $slugWithSuffix) }}
-            {{ else }}
-                {{ $targetUrl = printf "/%s/" (strings.Trim $slugWithSuffix "/") }}
-            {{ end }}
-            
-            <li class="h-full">
-                <a href="{{ $targetUrl | relLangURL }}" class="{{ if .is_highlight }}bg-brand-50 border-brand-200{{ else }}bg-white border-slate-200{{ end }} border rounded-2xl p-4 hover:border-brand-50 hover:shadow-md transition-all group h-full flex flex-col justify-center">
-                    {{ $imgPath := or .image .icon .img .flag "" }}
-                    {{ if $imgPath }}
-                        <img src="/{{ trim $imgPath "/" }}" loading="lazy" class="w-12 h-8 object-cover rounded-md shadow-sm mb-3" alt="{{ .name }}">
-                    {{ else }}
-                        <div class="w-12 h-8 rounded-md shadow-sm mb-3 bg-slate-100 flex items-center justify-center text-slate-400">
-                            <i data-lucide="globe" class="w-5 h-5"></i>
-                        </div>
-                    {{ end }}
-                    <h3 class="font-bold {{ if .is_highlight }}text-brand-700{{ else }}text-slate-900{{ end }} mb-1">{{ .name }}</h3>
-                    <p class="text-sm {{ if .is_highlight }}text-brand-600 font-medium{{ else }}text-slate-500{{ end }}">{{ .price }}</p>
-                </a>
-            </li>
-        {{ end }}
-    </ul>
+  <div class="flex items-center gap-3 mb-6">
+    <h2 class="text-2xl font-bold text-slate-900">
+      {{ $data.related_products.title }}
+    </h2>
+  </div>
+  <ul class="grid grid-cols-2 md:grid-cols-4 gap-4 list-none p-0 m-0">
+    {{ range $finalItems }}
+      {{ $targetUrl := "" }}
+      {{ if eq $.Site.Language.Lang "en" }}
+        {{ $targetUrl = or .url .link (printf "/%s/" .slug) }}
+      {{ else }}
+        {{ $targetUrl = printf "/%s/" .slug }}
+      {{ end }}
+
+      <li class="h-full">
+        <a href="{{ $targetUrl | relLangURL }}" class="{{ if .is_highlight }}bg-brand-50 border-brand-200{{ else }}bg-white border-slate-200{{ end }} border rounded-2xl p-4 hover:border-brand-50 hover:shadow-md transition-all group h-full flex flex-col justify-center">
+          {{ $imgPath := or .image .icon .img .flag "" }}
+          {{ if $imgPath }}
+            <img src="/{{ trim $imgPath "/" }}" loading="lazy" class="w-12 h-8 object-cover rounded-md shadow-sm mb-3" alt="{{ .name }}">
+          {{ else }}
+            <div class="w-12 h-8 rounded-md shadow-sm mb-3 bg-slate-100 flex items-center justify-center text-slate-400">
+              <i data-lucide="globe" class="w-5 h-5"></i>
+            </div>
+          {{ end }}
+          <h3 class="font-bold {{ if .is_highlight }}text-brand-700{{ else }}text-slate-900{{ end }} mb-1">{{ .name }}</h3>
+          <p class="text-sm {{ if .is_highlight }}text-brand-600 font-medium{{ else }}text-slate-500{{ end }}">{{ .price }}</p>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
 </section>
+
         </div>
 
         <aside class="lg:col-span-4" aria-label="Order Summary">

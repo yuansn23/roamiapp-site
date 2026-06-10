@@ -1,0 +1,148 @@
+related_products:
+  title: 類似 eSIM 方案
+  items:
+    - name: 日本 eSIM
+      flag: img/flags/jp.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: japan-esim
+    - name: 韓國 eSIM
+      flag: img/flags/kr.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: south-korea-esim
+    - name: 泰國 eSIM
+      flag: img/flags/th.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: thailand-esim
+    - name: 越南 eSIM
+      flag: img/flags/vn.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: vietnam-esim
+    - name: 新加坡 eSIM
+      flag: img/flags/sg.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: singapore-esim
+    - name: 美國 eSIM
+      flag: img/flags/us.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: united-states-esim
+    - name: 澳洲 eSIM
+      flag: img/flags/au.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: australia-esim
+    - name: 加拿大 eSIM
+      flag: img/flags/ca.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: canada-esim
+    - name: 法國 eSIM
+      flag: img/flags/fr.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: france-esim
+    - name: 義大利 eSIM
+      flag: img/flags/it.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: italy-esim
+    - name: 德國 eSIM
+      flag: img/flags/de.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: germany-esim
+    - name: 英國 eSIM
+      flag: img/flags/gb.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: united-kingdom-esim
+    - name: 瑞士 eSIM
+      flag: img/flags/ch.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: switzerland-esim
+    - name: 荷蘭 eSIM
+      flag: img/flags/nl.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: netherlands-esim
+    - name: 西班牙 eSIM
+      flag: img/flags/es.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: spain-esim
+    - name: 奧地利 eSIM
+      flag: img/flags/at.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: austria-esim
+    - name: 捷克 eSIM
+      flag: img/flags/cz.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: czech-republic-esim
+    - name: 匈牙利 eSIM
+      flag: img/flags/hu.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: hungary-esim
+    - name: 菲律賓 eSIM
+      flag: img/flags/ph.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: philippines-esim
+    - name: 馬來西亞 eSIM
+      flag: img/flags/my.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: malaysia-esim
+    - name: 印尼 eSIM
+      flag: img/flags/id.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: indonesia-esim
+    - name: 印度 eSIM
+      flag: img/flags/in.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: india-esim
+    - name: 土耳其 eSIM
+      flag: img/flags/tr.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: turkey-esim
+    - name: 希臘 eSIM
+      flag: img/flags/gr.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: greece-esim
+    - name: 紐西蘭 eSIM
+      flag: img/flags/nz.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: new-zealand-esim
+    - name: 比利時 eSIM
+      flag: img/flags/be.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: belgium-esim
+    - name: 瑞典 eSIM
+      flag: img/flags/se.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: sweden-esim
+    - name: 丹麥 eSIM
+      flag: img/flags/dk.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: denmark-esim
+    - name: 阿拉伯聯合大公國 eSIM
+      flag: img/flags/ae.svg
+      price: 從 $1.99
+      is_highlight: false
+      slug: united-arab-emirates-esim

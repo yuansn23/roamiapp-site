@@ -1,6 +1,6 @@
 ---
 title: Guyana eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: "2026-06-07T08:51:27+00:00"
 draft: false
 type: esim
 country_meta:
@@ -207,7 +207,7 @@ activation_steps:
       navigieren, WhatsApp nutzen, soziale Medien checken oder einen Hotspot für andere
       Geräte einrichten – ohne Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
-faq_section:
+faq_section1:
   title: Guyana eSIM FAQ & Reiseführer
   desc: Alles, was Sie über die Verwendung Ihrer Guyana eSIM in verschiedenen Reiseszenarien
     wissen müssen.

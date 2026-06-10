@@ -1,6 +1,6 @@
 ---
 title: VAE eSIM Tariffa Dati | Migliore eSIM da Viaggio 2026 | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: "2026-06-07T08:51:27+00:00"
 draft: false
 type: esim
 country_meta:
@@ -340,7 +340,7 @@ activation_steps:
     title: 'Passaggio 3: Attiva negli Emirati Arabi Uniti'
     desc: Dopo il tuo arrivo negli Emirati Arabi Uniti, attiva la tua VAE eSIM nelle impostazioni per utilizzare i dati.
     is_list: false
-faq_section:
+faq_section1:
   title: Guida ai dati e alla eSIM da viaggio per gli Emirati Arabi Uniti
   desc: Domande frequenti dei viaggiatori sull'uso dei dati prepagati e della connettività negli Emirati Arabi Uniti.
   categories:

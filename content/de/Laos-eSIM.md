@@ -1,6 +1,6 @@
 ---
 title: Laos eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: "2026-06-07T08:51:27+00:00"
 draft: false
 type: esim
 country_meta:
@@ -359,7 +359,7 @@ activation_steps:
     desc: Aktivieren Sie nach der Landung in Laos die eSIM in den Einstellungen. Wir
       empfehlen WLAN für die erste Aktivierung.
     is_list: false
-faq_section:
+faq_section1:
   title: Laos eSIM FAQ & Reiseführer
   desc: Alles, was Sie über die Nutzung Ihrer Laos eSIM in verschiedenen Reiseszenarien
     wissen müssen.

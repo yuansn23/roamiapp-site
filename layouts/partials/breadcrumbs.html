@@ -1,0 +1,320 @@
+{{/* ========================================
+    动态面包屑模板 - 多语言版本
+    支持 /{country}-esim/ 格式，自动插入大洲层级
+    从 data/continents/ 和 data/countries/ 读取多语言标签
+    ======================================== */}}
+
+{{ $crumbs := slice }}
+
+{{/* ---------- 1. 从 URL 提取国家标识（支持语言前缀） ---------- */}}
+{{ $relPath := strings.TrimPrefix "/" .RelPermalink }}
+{{ $segments := split $relPath "/" }}
+
+{{/* 动态获取本站点支持的语言代码列表 */}}
+{{ $langCodes := slice }}
+{{ range $.Site.Languages }}
+    {{ $langCodes = $langCodes | append .Lang }}
+{{ end }}
+
+{{/* 跳过语言前缀：如果 URL 第一段是某个支持的语言代码，则取第二段作为实际内容路径 */}}
+{{ $firstSegment := index $segments 0 }}
+{{ if and $firstSegment (in $langCodes $firstSegment) }}
+    {{ $firstSegment = index $segments 1 | default "" }}
+{{ end }}
+
+{{ $countryID := "" }}
+{{ if and $firstSegment (strings.HasSuffix $firstSegment "-esim") }}
+    {{ $countryID = strings.TrimSuffix "-esim" $firstSegment }}
+{{ end }}
+
+{{/* ---------- 2. 国家 → 大洲映射表（与语言无关，无需翻译） ---------- */}}
+{{ $continentMap := dict 
+    "afghanistan"     "asia"
+    "albania"         "europe"
+    "algeria"         "africa"
+    "andorra"         "europe"
+    "argentina"       "south-america"
+    "armenia"         "asia"
+    "australia"       "oceania"
+    "austria"         "europe"
+    "azerbaijan"      "europe"
+    "bahamas"         "north-america"
+    "bahrain"         "asia"
+    "bangladesh"      "asia"
+    "barbados"        "north-america"
+    "belarus"         "europe"
+    "belgium"         "europe"
+    "bolivia"         "south-america"
+    "bosnia-and-herzegovina" "europe"
+    "botswana"        "africa"
+    "brazil"          "south-america"
+    "brunei"          "asia"
+    "bulgaria"        "europe"
+    "burkina-faso"    "africa"
+    "cambodia"        "asia"
+    "cameroon"        "africa"
+    "canada"          "north-america"
+    "chad"            "africa"
+    "chile"           "south-america"
+    "china"           "asia"
+    "colombia"        "south-america"
+    "congo"           "africa"
+    "costa-rica"      "north-america"
+    "croatia"         "europe"
+    "cyprus"          "europe"
+    "czech-republic"  "europe"
+    "denmark"         "europe"
+    "dominica"        "north-america"
+    "dominican-republic" "north-america"
+    "ecuador"         "south-america"
+    "egypt"           "africa"
+    "el-salvador"     "north-america"
+    "estonia"         "europe"
+    "eswatini"        "africa"
+    "faroe-islands"   "europe"
+    "fiji"            "oceania"
+    "finland"         "europe"
+    "france"          "europe"
+    "french-guiana"   "south-america"
+    "gabon"           "africa"
+    "georgia"         "europe"
+    "germany"         "europe"
+    "ghana"           "africa"
+    "gibraltar"       "europe"
+    "greece"          "europe"
+    "grenada"         "north-america"
+    "guadeloupe"      "north-america"
+    "guam"            "oceania"
+    "guatemala"       "north-america"
+    "guyana"          "south-america"
+    "honduras"        "north-america"
+    "hong-kong"       "asia"
+    "hungary"         "europe"
+    "iceland"         "europe"
+    "india"           "asia"
+    "indonesia"       "asia"
+    "iraq"            "asia"
+    "ireland"         "europe"
+    "israel"          "asia"
+    "italy"           "europe"
+    "ivory-coast"     "africa"
+    "jamaica"         "north-america"
+    "japan"           "asia"
+    "jordan"          "asia"
+    "kazakhstan"      "asia"
+    "kenya"           "africa"
+    "kosovo"          "europe"
+    "kuwait"          "asia"
+    "kyrgyzstan"      "asia"
+    "laos"            "asia"
+    "latvia"          "europe"
+    "liberia"         "africa"
+    "liechtenstein"   "europe"
+    "lithuania"       "europe"
+    "luxembourg"      "europe"
+    "macao"           "asia"
+    "macedonia"       "europe"
+    "madagascar"      "africa"
+    "malawi"          "africa"
+    "malaysia"        "asia"
+    "maldives"        "asia"
+    "mali"            "africa"
+    "malta"           "europe"
+    "mauritius"       "africa"
+    "mexico"          "north-america"
+    "moldova"         "europe"
+    "mongolia"        "asia"
+    "montenegro"      "europe"
+    "morocco"         "africa"
+    "mozambique"      "africa"
+    "nepal"           "asia"
+    "netherlands"     "europe"
+    "new-zealand"     "oceania"
+    "niger"           "africa"
+    "nigeria"         "africa"
+    "norway"          "europe"
+    "oman"            "asia"
+    "pakistan"        "asia"
+    "panama"          "north-america"
+    "paraguay"        "south-america"
+    "peru"            "south-america"
+    "philippines"     "asia"
+    "poland"          "europe"
+    "portugal"        "europe"
+    "puerto-rico"     "north-america"
+    "qatar"           "asia"
+    "reunion-island"  "africa"
+    "romania"         "europe"
+    "russia"          "europe"
+    "saudi-arabia"    "asia"
+    "senegal"         "africa"
+    "serbia"          "europe"
+    "seychelles"      "africa"
+    "sierra-leone"    "africa"
+    "singapore"       "asia"
+    "slovakia"        "europe"
+    "slovenia"        "europe"
+    "south-africa"    "africa"
+    "south-korea"     "asia"
+    "spain"           "europe"
+    "sweden"          "europe"
+    "switzerland"     "europe"
+    "taiwan"          "asia"
+    "tajikistan"      "asia"
+    "tanzania"        "africa"
+    "thailand"        "asia"
+    "tunisia"         "africa"
+    "turkey"          "europe"
+    "uganda"          "africa"
+    "ukraine"         "europe"
+    "united-arab-emirates" "asia"
+    "united-kingdom"  "europe"
+    "united-states"   "north-america"
+    "uruguay"         "south-america"
+    "uzbekistan"      "asia"
+    "vatican-city"    "europe"
+    "vietnam"         "asia"
+    "zambia"          "africa"
+    "japan"           "asia"
+    "china"           "asia"
+    "south-korea"     "asia"
+    "thailand"        "asia"
+    "vietnam"         "asia"
+    "india"           "asia"
+    "uae"             "asia"
+    "usa"             "north-america"
+    "canada"          "north-america"
+    "uk"              "europe"
+    "france"          "europe"
+    "germany"         "europe"
+    "italy"           "europe"
+    "spain"           "europe"
+    "australia"       "oceania"
+    "new-zealand"     "oceania"
+    "brazil"          "south-america"
+    "argentina"       "south-america"
+}}
+
+{{/* ---------- 2.1 定义区域（大洲）标识列表 ---------- */}}
+{{ $regionIDs := slice "asia" "europe" "africa" "north-america" "south-america" "oceania" "middle-east" }}
+
+{{/* ---------- 3. 动态构建面包屑数组（多语言） ---------- */}}
+{{ if $countryID }}
+    {{/* 新增：如果是区域页面，直接使用 data/continents/ 中的翻译（因为大洲层级被跳过） */}}
+    {{ if in $regionIDs $countryID }}
+        {{ $currentLangData := index .Site.Data.continents .Lang }}
+        {{ if $currentLangData }}
+            {{ $regionData := index $currentLangData $countryID }}
+            {{ if $regionData }}
+                {{ $regionLabel := $regionData.name }}
+                {{ $crumbs = $crumbs | append (dict "label" (i18n "breadcrumb_home") "url" "/") }}
+                {{ $crumbs = $crumbs | append (dict "label" $regionLabel "url" "") }}
+            {{ else }}
+                {{/* 若数据缺失，回退到自动生成（但会保留英文，不理想，可手动处理） */}}
+                {{ $crumbs = $crumbs | append (dict "label" (i18n "breadcrumb_home") "url" "/") }}
+                {{ $fallbackLabel := printf "%s eSIM" ($countryID | replaceRE "-" " " | title) }}
+                {{ $crumbs = $crumbs | append (dict "label" $fallbackLabel "url" "") }}
+            {{ end }}
+        {{ else }}
+            {{ $crumbs = $crumbs | append (dict "label" (i18n "breadcrumb_home") "url" "/") }}
+            {{ $fallbackLabel := printf "%s eSIM" ($countryID | replaceRE "-" " " | title) }}
+            {{ $crumbs = $crumbs | append (dict "label" $fallbackLabel "url" "") }}
+        {{ end }}
+    {{ else }}
+        {{/* 原有国家页面逻辑（完全不变） */}}
+        {{ $continentID := index $continentMap $countryID }}
+
+        {{/* Home 链接 - 使用 i18n 翻译 */}}
+        {{ $crumbs = $crumbs | append (dict "label" (i18n "breadcrumb_home") "url" "/") }}
+
+        {{/* 大洲层级 - 从 data/continents/ 读取当前语言的翻译 */}}
+        {{ if $continentID }}
+            {{ $currentLangData := index .Site.Data.continents .Lang }}
+            {{ if $currentLangData }}
+                {{ $continentData := index $currentLangData $continentID }}
+                {{ if $continentData }}
+                    {{ $continentLabel := $continentData.name }}
+                    {{ $continentURL := $continentData.url | default (printf "/%s-esim/" $continentID) }}
+                    {{ $crumbs = $crumbs | append (dict "label" $continentLabel "url" $continentURL) }}
+                {{ else }}
+                    {{/* 回退：自动生成英文标签 */}}
+                    {{ $fallbackLabel := printf "%s eSIM" ($continentID | replaceRE "-" " " | title) }}
+                    {{ $fallbackURL := printf "/%s-esim/" $continentID }}
+                    {{ $crumbs = $crumbs | append (dict "label" $fallbackLabel "url" $fallbackURL) }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+
+        {{/* 国家层级 - 从 data/countries/ 读取当前语言的翻译 */}}
+        {{ $currentCountryData := index .Site.Data.countries .Lang }}
+        {{ if $currentCountryData }}
+            {{ $countryData := index $currentCountryData $countryID }}
+            {{ if $countryData }}
+                {{ $countryLabel := $countryData.name }}
+                {{ $crumbs = $crumbs | append (dict "label" $countryLabel "url" "") }}
+            {{ else }}
+                {{/* 回退：自动生成英文标签 */}}
+                {{ $fallbackLabel := printf "%s eSIM" ($countryID | replaceRE "-" " " | title) }}
+                {{ $crumbs = $crumbs | append (dict "label" $fallbackLabel "url" "") }}
+            {{ end }}
+        {{ else }}
+            {{ $fallbackLabel := printf "%s eSIM" ($countryID | replaceRE "-" " " | title) }}
+            {{ $crumbs = $crumbs | append (dict "label" $fallbackLabel "url" "") }}
+        {{ end }}
+    {{ end }}
+{{ else }}
+    {{/* 非产品页：使用 front matter 中手动定义的 breadcrumbs */}}
+    {{ $crumbs = .Params.breadcrumbs }}
+{{ end }}
+
+{{/* ---------- 4. 渲染 HTML 导航 ---------- */}}
+{{ if $crumbs }}
+<nav class="flex text-sm text-slate-500 mb-6" aria-label="Breadcrumb">
+    <ol class="inline-flex items-center space-x-1 md:space-x-2">
+        {{ range $index, $item := $crumbs }}
+            {{ if gt $index 0 }}
+            <li class="flex items-center text-slate-400">
+                {{/* 优先使用 Lucide 图标，加载失败时显示文本分隔符 */}}
+                <i data-lucide="chevron-right" class="w-4 h-4" aria-hidden="true"></i>
+                <span class="sr-only">›</span>
+            </li>
+            {{ end }}
+            {{ if $item.url }}
+            <li class="inline-flex items-center">
+                <a href="{{ $item.url | relLangURL }}" class="hover:text-blue-600 transition-colors">{{ $item.label }}</a>
+            </li>
+            {{ else }}
+            <li aria-current="page" class="inline-flex items-center">
+                <span class="text-slate-800 font-medium">{{ $item.label }}</span>
+            </li>
+            {{ end }}
+        {{ end }}
+    </ol>
+</nav>
+
+{{/* JSON-LD 结构化数据（无硬编码域名） */}}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+    {{ range $i, $bc := $crumbs }}
+        {{ if $bc.url }}
+        {
+            "@type": "ListItem",
+            "position": {{ add $i 1 }},
+            "name": {{ $bc.label | jsonify }},
+            "item": {{ $bc.url | absURL | jsonify }}
+        }{{ if lt $i (sub (len $crumbs) 1) }},{{ end }}
+        {{ else }}
+        {
+            "@type": "ListItem",
+            "position": {{ add $i 1 }},
+            "name": {{ $bc.label | jsonify }}
+        }{{ if lt $i (sub (len $crumbs) 1) }},{{ end }}
+        {{ end }}
+    {{ end }}
+    ]
+}
+</script>
+{{ end }}

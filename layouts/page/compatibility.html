@@ -5,17 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{ partial "head.html" . }} 
     {{ with .Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
-    <link rel="canonical" href="{{ .Permalink }}" />
-
-    {{ if .IsTranslated }}
-        {{ range .AllTranslations }}
-        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
-        {{ end }}
-        <link rel="alternate" hreflang="x-default" href="{{ .Site.Home.Permalink }}">
-    {{ else }}
-        <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
-        <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
-    {{ end }}
+   
+   
 
     <meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
     <meta property="og:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}">

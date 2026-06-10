@@ -214,3 +214,84 @@ other = "📑 Indice"
 other = "🔗 Potrebbe interessarti anche"
 [popular_destinations]
 other = "Destinazioni eSIM popolari"
+
+[promo_limited_offer]
+other = "🔥 Offerta limitata 🔥"
+
+[promo_use_code]
+other = "Usa il codice"
+
+[promo_checkout]
+other = "⭐ Inserisci il codice al checkout per ottenere lo sconto ⭐"
+
+[promo_stats_text]
+other = "Unisciti a oltre 1 milione di viaggiatori che sono passati a Roami. 5G in {{ .Countries }} paesi. Piani da ${{ .Price }}. Attivazione istantanea."
+
+[region_country_title]
+other = "L'eSIM {{ .RegionName }} funziona in {{ .TotalCountries }} paesi"
+
+[coverage_stats_text]
+other = """
+Una sola eSIM si connette automaticamente alla rete locale più forte in ogni paese.
+<strong class="text-orange-600">{{ .FiveGCount }} paesi hanno il 5G</strong>,
+{{ .FourGCount }} hanno 4G/LTE affidabile.
+Tocca un paese per guide all'impostazione e dettagli sugli operatori.
+"""
+
+[powered_by_operators]
+other = "Alimentato dai maggiori operatori mobili di {{ .RegionName }}"
+
+[auto_switch_carriers]
+other = """
+La tua eSIM Roami passa automaticamente tra <strong class="text-orange-600">{{ .CarrierCount }}+ operatori</strong> per il miglior segnale.
+"""
+
+[network_partners_label]
+other = "Partner di rete"
+
+[premium_carrier_partners_title]
+other = "{{ .Count }}+ partner di rete premium"
+
+[network_partners_description]
+other = "La tua eSIM Roami si connette automaticamente alle migliori reti locali. Nessuna commutazione manuale necessaria."
+
+[esim_auto_connect]
+other = "Uno dei maggiori operatori con sede a {{ .HQ }}. La tua eSIM si connette automaticamente{{ .CountriesSuffix }}."
+
+[carrier_roaming_title]
+other = "Roaming del tuo operatore"
+
+[carrier_roaming_badge]
+other = "Commissioni nascoste"
+
+[carrier_roaming_estimate]
+other = "stimato per un viaggio di 2 settimane"
+
+[roami_title]
+other = "eSIM Roami {{ .RegionName }}"
+
+[roami_badge]
+other = "Miglior rapporto qualità-prezzo"
+
+[roami_price_label]
+other = "Da 1,99 $"
+
+[roami_plan_description]
+other = "piani prepagati da 5 $ per un viaggio completo"
+
+[esim_vs_carrier_roaming]
+other = "eSIM {{ .RegionName }} vs. roaming operatore"
+
+[heading_beyond_region]
+other = "Oltre {{ .RegionName }}?"
+
+[try_free_button]
+other = "Prova l'eSIM gratuita"
+
+[regionQuestionsTitle]
+other = "{{ .RegionName }} eSIM: domande frequenti dei viaggiatori"
+
+[stats]
+countries = "Paesi"
+carriers = "Operatori"
+coverage_5g = "Copertura 5G"

@@ -1,0 +1,21 @@
+asia:
+  name: Asia eSIM
+  url: /asia-esim/
+europe:
+  name: Europe eSIM
+  url: /europe-esim/
+north-america:
+  name: North America eSIM
+  url: /north-america-esim/
+south-america:
+  name: South America eSIM
+  url: /south-america-esim/
+oceania:
+  name: Oceania eSIM
+  url: /oceania-esim/
+africa:
+  name: Africa eSIM
+  url: /africa-esim/
+middle-east:
+  name: Middle East eSIM
+  url: /middle-east-esim/

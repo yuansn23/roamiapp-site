@@ -1,0 +1,148 @@
+related_products:
+  title: Piani eSIM simili
+  items:
+    - name: Spagna eSIM
+      flag: img/flags/es.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: spain-esim
+    - name: Francia eSIM
+      flag: img/flags/fr.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: france-esim
+    - name: Grecia eSIM
+      flag: img/flags/gr.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: greece-esim
+    - name: Portogallo eSIM
+      flag: img/flags/pt.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: portugal-esim
+    - name: Regno Unito eSIM
+      flag: img/flags/gb.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: united-kingdom-esim
+    - name: Stati Uniti eSIM
+      flag: img/flags/us.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: united-states-esim
+    - name: Giappone eSIM
+      flag: img/flags/jp.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: japan-esim
+    - name: Germania eSIM
+      flag: img/flags/de.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: germany-esim
+    - name: Austria eSIM
+      flag: img/flags/at.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: austria-esim
+    - name: Paesi Bassi eSIM
+      flag: img/flags/nl.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: netherlands-esim
+    - name: Turchia eSIM
+      flag: img/flags/tr.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: turkey-esim
+    - name: Thailandia eSIM
+      flag: img/flags/th.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: thailand-esim
+    - name: Croazia eSIM
+      flag: img/flags/hr.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: croatia-esim
+    - name: Svizzera eSIM
+      flag: img/flags/ch.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: switzerland-esim
+    - name: Egitto eSIM
+      flag: img/flags/eg.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: egypt-esim
+    - name: Marocco eSIM
+      flag: img/flags/ma.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: morocco-esim
+    - name: Albania eSIM
+      flag: img/flags/al.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: albania-esim
+    - name: Emirati Arabi Uniti eSIM
+      flag: img/flags/ae.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: united-arab-emirates-esim
+    - name: Indonesia eSIM
+      flag: img/flags/id.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: indonesia-esim
+    - name: Corea del Sud eSIM
+      flag: img/flags/kr.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: south-korea-esim
+    - name: Canada eSIM
+      flag: img/flags/ca.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: canada-esim
+    - name: Albania eSIM
+      flag: img/flags/al.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: albania-esim
+    - name: India eSIM
+      flag: img/flags/in.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: india-esim
+    - name: Tunisia eSIM
+      flag: img/flags/tn.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: tunisia-esim
+    - name: Sri Lanka eSIM
+      flag: img/flags/lk.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: sri-lanka-esim
+    - name: Vietnam eSIM
+      flag: img/flags/vn.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: vietnam-esim
+    - name: Perù eSIM
+      flag: img/flags/pe.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: peru-esim
+    - name: Colombia eSIM
+      flag: img/flags/co.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: colombia-esim
+    - name: Australia eSIM
+      flag: img/flags/au.svg
+      price: Da 1,99 $
+      is_highlight: false
+      slug: australia-esim

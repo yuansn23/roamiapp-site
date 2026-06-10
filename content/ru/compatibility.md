@@ -3,7 +3,7 @@ title: "Проверка телефона на eSIM | Более 300 устро�
 description: "Проверьте, работает ли ваш телефон с Roami eSIM. Полный список iPhone, Samsung Galaxy, Google Pixel и более 300 устройств. Обновлено для 2026 года."
 keywords: "телефоны совместимые с eSIM, телефоны поддерживающие eSIM, мой телефон совместим с eSIM, совместимость iPhone с eSIM, телефоны Samsung с eSIM, устройства с поддержкой eSIM 2026, проверить совместимость eSIM, iphone 17 esim, samsung s25 esim, сколько esim, как подключить esim на айфон, esim какие, 17 pro max esim, esim samsung, galaxy esim"
 layout: "compatibility"
-date: '2026-06-04T00:00:00+00:00'
+date: "2026-06-07T08:51:27+00:00"
 type: "page"
 
 # Структурированные данные FAQ для SEO

@@ -5,17 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{ partial "head.html" . }} 
     <meta name="robots" content="index, follow"> 
-
-    {{ if .IsTranslated }}
-        {{ range .AllTranslations }}
-        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
-        {{ end }}
-        <link rel="alternate" hreflang="x-default" href="{{ .Site.Home.Permalink }}">
-    {{ else }}
-        <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
-        <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
-    {{ end }}
-
+ 
     <meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
     <meta property="og:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}">
     <meta property="og:type" content="website">
@@ -28,10 +18,20 @@
     {{ with .Params.seo.image }}<meta name="twitter:image" content="{{ . | absURL }}">{{ end }}
 
       <!-- JSON-LD Schema -->
- <!-- JSON-LD Schema -->
+<!-- JSON-LD Schema (Robust) -->
+{{- $customSchema := false -}}
+{{- if .Params.schema -}}
+    {{- $type := printf "%T" .Params.schema -}}
+    {{- if or (in $type "map") (in $type "struct") -}}
+        {{- $customSchema = .Params.schema -}}
+    {{- else -}}
+        {{- /* 忽略字符串类型的 schema，避免输出纯字符串 */ -}}
+    {{- end -}}
+{{- end -}}
+
 <script type="application/ld+json">
-{{- if and .Params.schema (hasPrefix (trim .Params.schema " ") "{") -}}
-{{- .Params.schema | safeHTML -}}
+{{- if $customSchema -}}
+{{- $customSchema | jsonify (dict "indent" "  ") | safeJS -}}
 {{- else -}}
 {
   "@context": "https://schema.org",
@@ -41,6 +41,8 @@
   "url": {{ .Permalink | jsonify }}
 }
 {{- end -}}
+</script>
+
 </script>
     <link href="/css/tailwind-compiled.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
