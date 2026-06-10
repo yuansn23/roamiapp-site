@@ -77,7 +77,7 @@ recentPosts:
     date: "2026-05-20"
 ---
 
-# Vollständiger Australien-eSIM-Leitfaden 2026: So bleiben Sie über kontinentale Entfernungen verbunden
+## Vollständiger Australien-eSIM-Leitfaden 2026: So bleiben Sie über kontinentale Entfernungen verbunden
 
 > **Wichtigste Erkenntnisse**
 > - **Die Größe Australiens erzeugt die extremste Mobilfunkabdeckungslücke der Erde** – 7,7 Mio. km², wobei 99 % der Bevölkerung in fünf Küstenstädten konzentriert sind. Zwischen den Städten liegen 1.000‑4.000 km mit riesigen Gebieten ohne Signal. Eine Single-Netzwerk-eSIM wird auf einer langen australischen Roadtrip irgendwann versagen.

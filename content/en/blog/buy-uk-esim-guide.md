@@ -77,7 +77,7 @@ recentPosts:
     date: "2026-05-20"
 ---
 
-# 2026 UK eSIM Complete Guide: The Post‑Brexit Connectivity Challenge and How to Solve It
+## 2026 UK eSIM Complete Guide: The Post‑Brexit Connectivity Challenge and How to Solve It
 
 > **Key Takeaways**
 > - **Brexit has changed everything about UK eSIM** — since 2021, UK mobile networks no longer include free EU roaming. If you buy a UK‑only eSIM and then take the Eurostar to Paris, your data will die as soon as you leave the tunnel. For a UK + Europe itinerary you must buy a Europe regional eSIM.

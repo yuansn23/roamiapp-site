@@ -77,7 +77,7 @@ recentPosts:
     date: "2026-05-20"
 ---
 
-# Guida definitiva eSIM USA 2026: Airalo vs Holafly vs Roami – Chi è la scelta migliore?
+## Guida definitiva eSIM USA 2026: Airalo vs Holafly vs Roami – Chi è la scelta migliore?
 
 > **Punti chiave**
 > - **Airalo è la migliore se hai bisogno di un vero numero di telefono USA** — il suo piano Discover+ è l'unica grande eSIM da viaggio che include un numero +1 per i codici di verifica bancaria e le chiamate locali.

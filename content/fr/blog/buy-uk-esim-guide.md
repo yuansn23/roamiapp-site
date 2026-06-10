@@ -77,7 +77,7 @@ recentPosts:
     date: "2026-05-20"
 ---
 
-# Guide complet eSIM Royaume-Uni 2026 : Le défi de la connectivité post-Brexit et comment le résoudre
+## Guide complet eSIM Royaume-Uni 2026 : Le défi de la connectivité post-Brexit et comment le résoudre
 
 > **Points clés à retenir**
 > - **Le Brexit a tout changé pour l'eSIM au Royaume-Uni** — depuis 2021, les réseaux mobiles britanniques n'incluent plus l'itinérance gratuite dans l'UE. Si vous achetez une eSIM uniquement Royaume-Uni et que vous prenez ensuite l'Eurostar pour Paris, vos données s'arrêteront dès que vous sortirez du tunnel. Pour un voyage Royaume-Uni + Europe, vous devez acheter une eSIM régionale Europe.

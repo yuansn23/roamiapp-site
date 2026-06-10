@@ -77,7 +77,7 @@ recentPosts:
     date: "2026-05-20"
 ---
 
-# Guide complet 2026 de l'eSIM Australie : Comment rester connecté à travers les distances continentales
+## Guide complet 2026 de l'eSIM Australie : Comment rester connecté à travers les distances continentales
 
 > **Points clés à retenir**
 > - **La taille de l'Australie crée le fossé de couverture mobile le plus extrême sur Terre** – 7,7 millions de km², avec 99 % de la population concentrée dans cinq villes côtières. Entre les villes, les distances sont de 1 000 à 4 000 km, avec de vastes zones sans aucun signal. Une eSIM mono-opérateur échouera inévitablement quelque part lors d'un long road trip australien.

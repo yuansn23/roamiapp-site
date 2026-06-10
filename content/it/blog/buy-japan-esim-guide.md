@@ -77,7 +77,7 @@ recentPosts:
     date: "2026-05-20"
 ---
 
-# Guida completa 2026 all'eSIM Giappone: Perché il pocket Wi‑Fi sta diventando obsoleto
+## Guida completa 2026 all'eSIM Giappone: Perché il pocket Wi‑Fi sta diventando obsoleto
 
 > **Punti chiave**
 > - **Il pocket Wi‑Fi è l'abitudine più costosa e superata per viaggiare in Giappone** — noleggiare un pocket Wi‑Fi a Narita costa 500‑800 ¥ (4‑6 $) al giorno, cioè 28‑42 $ per 7 giorni, oltre alla ricarica notturna, al trasporto di un dispositivo aggiuntivo e alla coda per restituirlo. Nel 2026, un'eSIM parte da 1,99 $ (1,59 $ dopo il codice promo web20) — zero dispositivi aggiuntivi, zero resi, zero ansia da ricarica.

@@ -460,14 +460,25 @@
             {{ $products := .Params.products }}
             {{ $productsTitle := .Params.productsTitle }}
           {{ if and $products $productsTitle }}
+
+{{/* 获取当前语言对应的数据文件（如 data/zh-hant.yml） */}}
+{{ $dataKey := .Lang }}
+{{ $data := index .Site.Data $dataKey }}
+{{ $products := $data.related_products.items | default slice }}
+{{ $productsTitle := $data.related_products.title | default "類似 eSIM 方案" }}
+
+{{ if $products }}
 <div class="sidebar-card">
     <div class="sidebar-title">{{ $productsTitle }}</div>
     <div class="product-grid">
-        {{ range first 6 $products }}
+        {{/* 随机排序后取前 6 个 */}}
+        {{ range first 6 (shuffle $products) }}
+        {{/* 直接使用 slug（已包含 -esim 后缀） */}}
         {{ $slug := .slug | default (.name | urlize) }}
-        {{ $productURL := printf "/%s-esim/" $slug | relLangURL }}
+        {{/* 确保 slug 以 / 开头和结尾，并添加语言前缀 */}}
+        {{ $productURL := printf "/%s/" $slug | relLangURL }}
         <a class="product-item" href="{{ $productURL }}">
-            <img src="{{ .flag | relURL }}" alt="{{ .name }} flag" class="product-flag-img" loading="lazy">
+            <img src="{{ .flag | relURL }}" alt="{{ .name }} 旗幟" class="product-flag-img" loading="lazy">
             <div class="product-info">
                 <div class="product-name">{{ .name }}</div>
                 <div class="product-price">{{ .price }}</div>
@@ -476,6 +487,9 @@
         {{ end }}
     </div>
 </div>
+{{ end }}
+
+
 {{ end }}
 
             <!-- 热门文章推荐 -->

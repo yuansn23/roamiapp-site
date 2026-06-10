@@ -52,7 +52,7 @@ products:
     is_highlight: false
     slug: "hong-kong"
 
-# Recent posts (sidebar)
+## Recent posts (sidebar)
 recentPosts:
   - title: "eSIM Deep Troubleshooting Guide (16 reale Fälle)"
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"

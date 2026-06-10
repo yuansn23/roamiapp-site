@@ -1,14 +1,14 @@
 ---
 title: "台灣 eSIM 故障排除指南｜五大電信常見問題全解"
 description: "中華電信、遠傳、台灣大哥大等電信的 eSIM 無法使用？本文一步步帶你解決 QR 碼掃描失敗、換機後方案消失、雙卡無法共存等常見問題。"
-keywords: ["中國移動 esim", "中國聯通 esim", "中國電信 esim", "香港 esim 運營商", "中國電信 esim", "大陸 eSIM 購買", "香港 eSIM 台灣", "中國 eSIM 實名認證"]
-date: 2026-05-31
-lastmod: 2026-05-31
+keywords: ["台灣 eSIM 故障排除", "中華電信 eSIM 無法使用", "遠傳 eSIM 設定失敗", "台灣大哥大 eSIM 卡住", "eSIM 掃描錯誤", "雙卡 eSIM 衝突", "Apple Watch eSIM 故障"]
+date: 2026-06-09T10:00:00Z
+lastmod: 2026-06-09T10:00:00Z
 author: "Roami 團隊"
 authorBio: "Roami 專注 eSIM 技術，提供全球上網方案。至今已協助超過 50 萬名台灣旅客輕鬆出國連線。我們為您打造最實用的 eSIM 設定指南與在地化實測"
 image: "/img/esim/esim-troubleshooting-guide.jpg"
-categories: ["台灣", "預付卡", "eSIM 指南"]
-tags: ["預付卡 eSIM", "中華電信", "台灣大哥大", "遠傳", "eSIM 轉換", "預付卡資費"]
+categories: ["台灣", "eSIM 故障排除"]
+tags: ["eSIM 錯誤", "中華電信", "遠傳電信", "台灣大哥大", "雙卡衝突", "eSIM 轉移"]
 readingTime: 5
 draft: false
 authorAvatar: "/img/logo.png"
@@ -77,7 +77,73 @@ recentPosts:
     date: "2026-05-20"
 ---
 
-# 2026 eSIM 故障排除大全｜中華電信／遠傳／台哥大／台星常見問題與解法
+<!-- 结构化数据：仅 FAQPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "我刪除 eSIM 後，原本的 QR 碼還能再用嗎？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "不一定。部分運營商的 QR 碼僅供一次性使用，刪除後需重新申請。建議刪除前先向運營商確認。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "為什麼重置網路設定後，eSIM 還是沒恢復？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "重置網路設定不會刪除 eSIM，但會清除手機與基地台之間的快取。若仍無效，請嘗試刪除重裝 eSIM。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "中華電信 eSIM 設定失敗，客服叫我換手機，真的嗎？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "如果你使用的是非台灣銷售的 iPhone（例如美版、日版），中華電信的系統有時會拒絕啟動。此時可要求客服手動開通，或改用台灣大哥大。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "遠傳 eSIM 問題是否與手機型號有關？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "有。遠傳的 eSIM 對 Samsung 部分型號（如 S20 系列）相容性較差。建議先查閱相關相容性指南。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "雙卡用戶如何避免 eSIM 衝突？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "設定「設定 > 行動服務 > 行動數據」指定給 eSIM，「預設語音線路」指定給實體 SIM。避免兩張卡同時使用數據。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "我該如何知道手機是否支援 eSIM？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "撥打 *#06#，出現 EID 則支援。也可參考相關型號列表。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apple Watch 的 eSIM 故障怎麼辦？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "手錶 eSIM 需與手機 eSIM 為同一運營商。若手錶無法連網，請先在 Watch App 中移除方案重新加入。"
+      }
+    }
+  ]
+}
+</script>
+
+## 2026 eSIM 故障排除大全｜中華電信／遠傳／台哥大／台星常見問題與解法
 
 > 根據 Roami 客服中心統計，超過 60% 的 eSIM 用戶諮詢都與**啟用失敗、無訊號、無法上網**有關。無論你使用的是**中華電信 eSIM**、**遠傳 eSIM**，還是台灣大哥大或台灣之星的 eSIM，當 QR 碼掃描後出現「無法加入行動方案」時，那種挫折感令人沮喪。本文將深度整理 15 種最常見的 eSIM 錯誤碼與異常症狀，逐一分析原因並提供可操作的解決步驟。最後收錄三大電信的特定問題（如中華下載慢、遠傳收不到驗證碼、台哥大設定卡住），以及一套終極故障排除流程，幫助你快速恢復連線。
 
@@ -161,7 +227,7 @@ recentPosts:
 3. 手動選擇網路：iPhone 可關閉「自動」，等待列表出現後選擇你的運營商（例如 Chunghwa Telecom）。
 4. 若使用 **台灣之星 eSIM**（已併入台哥大），請確認你所在的區域是否已完成網路整併，有時需手動選擇「Taiwan Mobile」。
 
-### 錯誤 4：有訊號格，但無法上網（無數據連線）—— Quick Answer
+### 錯誤 4：有訊號格，但無法上網（無數據連線）
 
 > **主要原因**：① 數據漫遊未開啟（這是旅遊 eSIM 最常見的遺漏）；② APN 設定錯誤；③ 行動數據被指定到另一張 SIM 卡。
 >
@@ -228,7 +294,7 @@ recentPosts:
 
 ## 五、運營商特定問題（中華／遠傳／台哥大／台星）
 
-### 5.1 中華電信 eSIM 問題（中華電信 esim 問題、中華電信 esim 設定失敗）
+### 5.1 中華電信 eSIM 問題
 
 **問題 A：eSIM 下載速度極慢，甚至卡在「正在啟用…」長達 10 分鐘**
 - **原因**：中華電信的 SM‑DP+ 伺服器在尖峰時段負載較高。
@@ -242,7 +308,9 @@ recentPosts:
 - **原因**：預付卡 eSIM 預設未開啟 VoLTE。
 - **解決**：撥打 539 進入語音選單，選擇「開啟 VoLTE」功能。或傳送簡訊 `VON` 至 935。
 
-### 5.2 遠傳 eSIM 問題（遠傳 esim 問題）
+> 官方參考：[中華電信 eSIM 服務說明](https://www.cht.com.tw/home/apple/service-offer-description/esim)
+
+### 5.2 遠傳 eSIM 問題
 
 **問題 A：收不到 eSIM 啟用驗證碼簡訊**
 - **原因**：遠傳的系統有時會將驗證碼發送到原本的實體 SIM 卡，但你已將實體卡拔出。
@@ -256,7 +324,7 @@ recentPosts:
 - **原因**：遠傳預付卡 eSIM 不支援國際漫遊（月租型需手動開啟）。
 - **解決**：出國前請務必致電客服開通「國際數據漫遊」，並確認你的方案包含漫遊服務。
 
-### 5.3 台灣大哥大 eSIM 設定問題（台哥大 esim 設定 卡住）
+### 5.3 台灣大哥大 eSIM 設定問題
 
 **問題 A：App 內申請 eSIM 時，畫面卡在「處理中」**
 - **原因**：台灣大哥大 App 偶發性伺服器延遲。
@@ -290,6 +358,8 @@ recentPosts:
 ### 步驟 3：檢查系統更新與電信商設定
 - iOS：設定 > 一般 > 關於本機，若有「電信業者設定更新」請立即安裝。
 - Android：設定 > 關於手機 > 軟體更新。
+
+> 若仍無法解決，可參考 [Apple 官方支援：如果無法在 iPhone 上設定 eSIM](https://support.apple.com/zh-tw/102478)。
 
 ### 步驟 4：聯繫運營商客服前準備清單
 - 你的手機型號與 iOS/Android 版本
@@ -365,3 +435,28 @@ eSIM 故障雖然煩人，但大多數都可以透過系統性的排查解決。
 ---
 
 *各運營商 eSIM 政策可能隨時調整，若上述步驟無法解決你的問題，歡迎[聯絡我們](/contact/) 取得一對一技術支援。*
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // 處理所有頁面內的錨點連結（href 以 # 開頭），包含目錄生成的所有內部連結
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function(e) {
+            const href = this.getAttribute('href');
+            // 排除空連結或單純的 #
+            if (href === '#' || href === '#0') return;
+            const targetId = href.substring(1);
+            const target = document.getElementById(targetId);
+            if (target) {
+                e.preventDefault();
+                // 與模板中的 scroll-margin-top 保持一致 (120px)
+                const headerOffset = 120;
+                const elementPosition = target.getBoundingClientRect().top;
+                const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+                window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
+                // 更新瀏覽器網址列的 hash，但不觸發跳轉
+                history.pushState(null, null, href);
+            }
+        });
+    });
+});
+</script>

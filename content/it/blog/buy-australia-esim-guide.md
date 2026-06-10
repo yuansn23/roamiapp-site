@@ -77,7 +77,7 @@ recentPosts:
     date: "2026-05-20"
 ---
 
-# Guida completa 2026 all'eSIM Australia: Come rimanere connessi attraverso le distanze continentali
+## Guida completa 2026 all'eSIM Australia: Come rimanere connessi attraverso le distanze continentali
 
 > **Punti chiave**
 > - **Le dimensioni dell'Australia creano il divario di copertura mobile più estremo sulla Terra** – 7,7 milioni di km², con il 99% della popolazione concentrata in cinque città costiere. Tra le città, le distanze sono di 1.000‑4.000 km, con vaste aree prive di segnale. Un'eSIM mono-operatore fallirà inevitabilmente da qualche parte durante un lungo road trip australiano.

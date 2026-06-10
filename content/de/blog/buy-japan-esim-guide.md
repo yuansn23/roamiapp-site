@@ -77,7 +77,7 @@ recentPosts:
     date: "2026-05-20"
 ---
 
-# Vollständiger Japan-eSIM-Leitfaden 2026: Warum mobile WLAN-Hotspots veraltet sind
+## Vollständiger Japan-eSIM-Leitfaden 2026: Warum mobile WLAN-Hotspots veraltet sind
 
 > **Wichtigste Erkenntnisse**
 > - **Mobiler WLAN-Hotspot ist die teuerste und veralteteste Angewohnheit für Japan-Reisen** — Das Mieten eines mobilen Hotspots am Flughafen Narita kostet ¥500-800 (4-6 $) pro Tag, insgesamt 28-42 $ für 7 Tage, plus nächtliches Aufladen, ein zusätzliches Gerät zum Mitnehmen und Warten auf die Rückgabe. 2026 kostet eine eSIM ab 1,99 $ (1,59 $ nach Rabattcode web20) — kein zusätzliches Gerät, keine Rückgabe, keine Lade-Angst.
