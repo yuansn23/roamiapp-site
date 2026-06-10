@@ -9,11 +9,11 @@
 <!-- 🌟 1. 动态 Title 逻辑 -->
 <title>
     {{- if .Params.seo.title -}}
-        {{- .Params.seo.title -}}  
+        {{- .Params.seo.title -}}
     {{- else if .Title -}}
-        {{- .Title -}} | {{- .Site.Title -}}  
+        {{- .Title -}}
     {{- else -}}
-        {{- .Site.Title -}}  
+        {{- .Site.Title -}}
     {{- end -}}
 </title>
 
@@ -214,44 +214,4 @@
     {{- $faq4_q := i18n "structured_data_faq4_question" | default "Why choose Roami over Airalo, Nomad, Holafly, or Ubigi?" -}}
     {{- $faq4_a := i18n "structured_data_faq4_answer" | default "While Airalo, Nomad eSIM, Holafly, Saily eSIM, Yesim, MobiMatter, and GigSky are options, Roami provides highly competitive pricing starting at $1.99, 24/7 human support, and a worry-free refund policy for 200+ countries." -}}
     
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": {{ $faq1_q | jsonify }},
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": {{ $faq1_a | jsonify }}
-          }
-        },
-        {
-          "@type": "Question",
-          "name": {{ $faq2_q | jsonify }},
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": {{ $faq2_a | jsonify }}
-          }
-        },
-        {
-          "@type": "Question",
-          "name": {{ $faq3_q | jsonify }},
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": {{ $faq3_a | jsonify }}
-          }
-        },
-        {
-          "@type": "Question",
-          "name": {{ $faq4_q | jsonify }},
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": {{ $faq4_a | jsonify }}
-          }
-        }
-      ]
-    }
-    </script>
 {{ end }}
