@@ -329,6 +329,7 @@
                     </div>
                 </div>
 
+
                 <div class="grid md:grid-cols-2 gap-10">
                     <!-- Service Details -->
                     <div>
@@ -351,6 +352,8 @@
                         </ul>
                     </div>
                     
+					
+					
                     <!-- Operators -->
                     <div>
                         <div class="flex items-center gap-3 mb-5">
@@ -374,6 +377,8 @@
                             {{ end }}
                         </div>
                     </div>
+					
+					
                 </div>
             </section>
 		<!-- Why Choose Us -->
@@ -404,6 +409,7 @@
         </div>
     </div>
 </section>
+			
 			
             {{ with .Params.market_analysis }}
             <section class="bg-white rounded-3xl p-8 lg:p-10 border border-slate-200 shadow-sm mt-8 mb-8 relative z-10">
@@ -447,6 +453,10 @@
         </tbody>
      </table>
 </div>
+
+
+ 
+			
                 {{ with .citation }}
                 <div class="mb-10 text-right">
                     <a href="{{ .url }}" target="_blank" rel="nofollow noopener" class="text-xs text-slate-400 hover:text-brand-600 transition-colors">
@@ -474,7 +484,54 @@
             </section>
             {{ end }}
 			 
+			 <!-- 运营商-->
 			
+			{{/* 获取当前页面的完整路径（去掉首尾斜杠） */}}
+{{ $path := strings.TrimPrefix "/" (strings.TrimSuffix "/" .RelPermalink) }}
+{{/* 按斜杠分割，取最后一段（如 de/turkey-esim -> turkey-esim） */}}
+{{ $segments := split $path "/" }}
+{{ $lastSegment := index $segments (sub (len $segments) 1) }}
+{{/* 去掉 -esim 后缀得到国家代码 */}}
+{{ $countryCode := $lastSegment }}
+{{ if hasSuffix $lastSegment "-esim" }}
+  {{ $countryCode = strings.TrimSuffix "-esim" $lastSegment }}
+{{ end }}
+
+{{/* 获取当前页面的语言代码 */}}
+{{ $lang := .Site.Language.Lang }}
+{{/* 读取运营商数据 */}}
+{{ $carrierData := index (index .Site.Data.carriers $lang) $countryCode }}
+
+{{ if $carrierData }}
+{{/* 构建多语言按钮链接：默认语言（en）不加前缀，其他语言添加 /$lang 前缀 */}}
+{{ $btnUrl := $carrierData.btn_url }}
+{{ if ne $lang "en" }}
+  {{ $btnUrl = printf "/%s%s" $lang $btnUrl }}
+{{ end }}
+
+<div class="bg-gradient-to-r from-blue-600 to-indigo-600 rounded-3xl p-6 shadow-lg text-white relative overflow-hidden">
+  <div class="relative z-10 flex flex-col h-full">
+    <!-- 左侧内容（图标+标题+描述） -->
+    <div class="flex items-center gap-4">
+      <div class="bg-white/20 p-3 rounded-full flex-shrink-0">
+        <i data-lucide="ticket" class="w-8 h-8 text-white"></i>
+      </div>
+      <div>
+        <h3 class="text-2xl font-extrabold text-white mb-1">{{ $carrierData.title }}</h3>
+        <p class="text-blue-50 text-base md:text-lg">{{ $carrierData.desc_html | safeHTML }}</p>
+      </div>
+    </div>
+    <!-- 按钮放置在右下角 -->
+    <div class="flex justify-end mt-4">
+      <a href="{{ $btnUrl | safeURL }}" 
+         class="bg-white text-blue-600 font-semibold text-sm py-2 px-4 rounded-xl shadow-md hover:bg-slate-50 transition-colors flex items-center gap-1.5">
+        {{ $carrierData.btn_text }} <i data-lucide="arrow-right" class="w-4 h-4"></i>
+      </a>
+    </div>
+  </div>
+</div>
+{{ end }}
+
      <section class="bg-white rounded-3xl p-8 border border-slate-200 shadow-sm">
   <h2 class="text-2xl font-bold text-slate-900 mb-8">
      {{ .Params.activation_steps.title | markdownify }}
