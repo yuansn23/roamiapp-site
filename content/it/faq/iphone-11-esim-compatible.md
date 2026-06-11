@@ -1,9 +1,10 @@
 ---
 title: "iPhone eSIM: guida compatibilità e configurazione"
+h1_title: "Guida completa alla compatibilità e configurazione dell’eSIM su iPhone"
 description: "Guida all'eSIM su iPhone: compatibilità (metodo EID), attivazione, dual SIM, doppia eSIM per iPhone 13+ e differenze regionali (Cina/USA/globale). Tabelle incluse."
 keywords: ["iphone esim", "esim iphone", "quali iphone supportano esim", "quali iphone hanno esim", "quali modelli iphone supportano esim", "quali iphone supportano esim", "iphone 11 ha esim", "iphone 12 ha esim", "iphone 13 ha esim", "iphone 14 ha esim", "iphone 15 ha esim", "iphone 16 ha esim", "iphone 17 ha esim", "iphone 11 supporta esim", "iphone 12 supporta esim", "iphone 13 supporta esim", "iphone 14 supporta esim", "iphone 15 supporta esim", "iphone 16 supporta esim", "iphone 17 supporta esim", "iphone se ha esim", "iphone se supporta esim", "iphone xr ha esim", "iphone xr supporta esim", "iphone xs ha esim", "iphone xs max ha esim", "iphone 8 ha esim", "iphone 7 ha esim", "iphone 11 esim", "iphone 12 esim", "iphone 13 esim", "iphone 14 esim", "iphone 15 esim", "iphone 16 esim", "iphone 17 esim", "iphone se esim", "iphone xr esim", "iphone xs esim", "iphone 8 esim", "iphone 11 pro esim", "iphone 12 pro esim", "iphone 13 pro esim", "iphone 14 pro esim", "iphone 15 pro esim", "iphone 16 pro esim", "iphone 17 pro esim", "iphone 14 solo esim", "iphone 15 esim o sim fisica", "iphone 16 solo esim", "iphone 17 solo esim", "iphone 17 air solo esim", "iphone 13 doppia esim", "iphone 14 doppia esim", "iphone 15 doppia esim", "iphone 16 doppia esim", "iphone 17 doppia esim", "primo iphone con esim", "quando gli iphone sono passati all'esim", "quando iphone ha iniziato a usare esim", "iphone esim compatibile", "iphone con esim", "iphone esim compatibili"]
-date: 2026-06-01T10:00:00Z
-lastmod: 2026-06-01T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["iPhone", "eSIM", "Doppia SIM", "Attivazione", "Compatibilità"]
 toc: true
 

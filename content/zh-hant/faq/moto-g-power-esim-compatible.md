@@ -1,9 +1,10 @@
 ---
 title: "Moto G Power 支援 eSIM 嗎？2026 完整指南"
+h1_title: "Moto G Power 支援 eSIM 嗎？2026 年完整指南"
 description: "Moto G Power (2024) 與 Moto G Stylus (2024) 支援 eSIM，舊款型號 (2020-2023) 則不支援。本文介紹如何檢查型號、使用 *#06# 驗證，以及在各電信業者與旅行 eSIM 服務上的啟用步驟。同時涵蓋 Motorola Edge、Razr 及其他支援 eSIM 的 Moto 手機"
 keywords: ["moto g power esim 相容", "moto g stylus esim 相容", "motorola esim 相容手機", "moto g power 2024 esim", "airalo 相容手機", "visible esim 相容手機", "verizon esim 相容性", "us mobile esim 相容裝置", "holafly 相容手機", "motorola edge esim", "motorola razr esim", "雙卡雙待相容"]
-date: 2026-05-26T10:00:00Z
-lastmod: 2026-05-26T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["Motorola", "eSIM", "相容性", "Moto G Power"]
 toc: true
 

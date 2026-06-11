@@ -1,9 +1,10 @@
 ---
 title: "如何在 iPhone 上啟用 eSIM？2026最新60秒教學"
+h1_title: "如何在 iPhone 上啟用 eSIM：2026 最新 60 秒設定教學"
 description: "2026 最新 iPhone eSIM 啟用教學。無需聯絡電信業者，掃描 QR 碼或手動輸入即可完成。支援 iOS 26，附常見錯誤解決方法，快速又免費。"
 keywords: ["啟用 eSIM", "如何啟用 eSIM", "在 iPhone 上設定 eSIM", "Android 上的 eSIM", "eSIM QR 碼", "旅遊 eSIM", "eSIM 故障排除"]
-date: 2026-05-19T10:00:00Z
-lastmod: 2026-05-19T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "故障排除", "旅遊設定"]
 toc: true
 image: "/images/esim-activation-guide.jpg"

@@ -1,9 +1,10 @@
 ---
 title: "eSIM-Aktivierung: Was ist das & wie funktioniert sie?"
+h1_title: "eSIM-Aktivierung: Was das ist und wie sie funktioniert"
 description: "Aktivieren Sie eine eSIM auf jedem Telefon – iPhone (iOS 26), Samsung, Pixel, OnePlus (Android 16). Mit Tipps zur Fehlerbehebung bei Aktivierungsfehlern und Netzwerkproblemen."
 keywords: ["eSIM-Aktivierung", "eSIM aktivieren", "iPhone eSIM-Einrichtung", "Android eSIM", "eSIM QR-Code", "Reise-eSIM", "eSIM-Fehlerbehebung"]
-date: 2026-06-01T10:00:00Z
-lastmod: 2026-06-01T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Fehlerbehebung", "Reise-Einrichtung"]
 toc: true
 image: "/images/esim-activation-guide.jpg"

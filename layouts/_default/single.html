@@ -195,7 +195,7 @@
             </ol>
         </nav>
 
-        <h1 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold mb-4 leading-tight">{{ .Title }}</h1>
+        <h1 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold mb-4 leading-tight">{{ .Params.h1_title | default .Title }}</h1>
         
         <div class="flex items-center text-blue-100 text-sm mt-6">
             <div class="flex items-center mr-6">
@@ -277,22 +277,23 @@
         {{ end }}
 
         {{ with .Params.sidebar_free }}
-        <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl shadow-lg border border-blue-100 p-5">
-            <h3 class="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
-                <span class="text-lg">{{ .icon | default "🎁" }}</span> {{ .title }}
-            </h3>
-            <div class="grid grid-cols-2 gap-3">
-                {{ range .items }}
-                <a href="{{ .url | relLangURL }}" class="flex items-center gap-2.5 p-3 bg-white rounded-xl border border-blue-100 hover:border-blue-500 hover:shadow-sm transition-all group">
-                    <img src="{{ .flag }}" loading="lazy" class="w-6 h-6 object-contain group-hover:scale-110 transition-transform shrink-0">
-                    <div class="flex flex-col">
-                        <span class="text-xs font-bold text-slate-800 leading-tight">{{ .name }}</span>
-                        <span class="text-[10px] text-slate-500 font-medium">{{ $.Params.sidebar_free.item_subtitle }}</span>
-                    </div>
-                </a>
-                {{ end }}
+     <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl shadow-lg border border-blue-100 p-5">
+    <h3 class="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+        <span class="text-lg">{{ .icon | default "🎁" }}</span> {{ .title }}
+    </h3>
+    <div class="grid grid-cols-2 gap-3">
+        {{ range .items }}
+        <a href="{{ .url | relLangURL }}" class="flex items-center gap-2.5 p-3 bg-white rounded-xl border border-blue-100 hover:border-blue-500 hover:shadow-sm transition-all group">
+            <!-- 添加了 alt 属性，值为 .name + " eSIM" -->
+            <img src="{{ .flag }}" loading="lazy" alt="{{ .name }} eSIM" class="w-6 h-6 object-contain group-hover:scale-110 transition-transform shrink-0">
+            <div class="flex flex-col">
+                <span class="text-xs font-bold text-slate-800 leading-tight">{{ .name }}</span>
+                <span class="text-[10px] text-slate-500 font-medium">{{ $.Params.sidebar_free.item_subtitle }}</span>
             </div>
-        </div>
+        </a>
+        {{ end }}
+    </div>
+</div>
         {{ end }}
         
     </aside>

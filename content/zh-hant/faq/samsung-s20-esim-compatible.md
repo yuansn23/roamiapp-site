@@ -1,9 +1,10 @@
 ---
 title: "Samsung Galaxy 支援 eSIM 嗎？（完整解答與設定教學）"
+h1_title: "Samsung Galaxy 支援 eSIM 嗎？完整解答與設定教學"
 description: "Samsung Galaxy S20、S20+、S20 Ultra 皆支援 eSIM – 但僅限特定地區。了解如何檢查、啟用，以及哪些電信業者適用於您的 S20。同時涵蓋 S10、S9、A 系列及更多 Samsung eSIM 相容性資訊。"
 keywords: ["s20 esim 相容", "samsung s20 esim 相容", "galaxy s20 esim 相容", "samsung s20 plus esim", "s20 ultra esim", "airalo samsung s20", "visible samsung s20", "samsung s10 esim 相容", "galaxy s10 esim 相容", "samsung s9 esim 相容", "samsung a13 esim 相容", "samsung a12 esim 相容", "samsung galaxy s21 esim 相容", "samsung galaxy s22 esim 相容", "esim 相容 samsung 手機", "samsung 手機支援 esim", "verizon esim 相容性", "us mobile esim 相容裝置", "holafly 相容手機"]
-date: 2026-05-26T10:00:00Z
-lastmod: 2026-05-26T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["Samsung", "eSIM", "相容性", "Galaxy S20"]
 toc: true
 

@@ -1,9 +1,10 @@
 ---
 title: "Samsung Galaxy поддерживает eSIM? (Руководство 2026)"
+h1_title: "Поддерживает ли Samsung Galaxy eSIM? Полное руководство на 2026 год"
 description: "Samsung Galaxy S25–S22, A, Z Fold/Flip (кроме Китая) – полная поддержка eSIM. Таблица цветов и памяти. Активация, перенос, решения проблем. Бесплатный eSIM от Roami."
 keywords: ["samsung esim", "galaxy esim", "samsung s25 esim", "samsung s24 esim", "samsung s23 esim", "samsung s22 esim", "samsung a55 esim", "samsung galaxy z fold esim", "samsung galaxy z flip esim", "samsung s25 ultra esim", "samsung s25 256gb esim", "samsung s25 512gb esim", "samsung s25 titanium black esim", "samsung s24 lavender esim", "dual sim esim samsung", "how to activate esim on samsung", "перенести esim samsung", "esim не работает samsung", "сколько esim можно хранить на samsung", "esim мтс samsung", "esim билайн samsung", "esim мегафон samsung", "esim tele2 samsung", "samsung galaxy s25 ultra esim compatible"]
-date: 2026-05-24T10:00:00Z
-lastmod: 2026-05-24T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["Samsung", "eSIM", "Совместимость", "Galaxy", "Dual SIM", "Цвета", "Память"]
 toc: true
 

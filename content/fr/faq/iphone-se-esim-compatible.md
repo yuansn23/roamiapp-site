@@ -1,9 +1,10 @@
 ---
 title: "iPhone SE eSIM : compatibilité & guide 2026"
+h1_title: "iPhone SE et eSIM : compatibilité et guide complet pour 2026"
 description: "iPhone SE (2020/2022) : compatibles eSIM. Modèle 2016 : non. Vérifiez avec *#06#. Fonctionne avec la plupart des opérateurs."
 keywords: ["iphone se esim compatible", "iphone se 2020 esim compatible", "iphone se 2nd gen esim", "iphone se 3rd gen esim", "iphone se 2nd generation esim compatible", "airalo compatible phones", "visible esim compatible phones", "verizon esim compatibility", "us mobile esim compatible devices", "holafly compatible phones", "jio esim compatible phones", "dual sim compatible", "list of iphones that support esim", "esim capable iphones", "iphone esim compatible", "esim iphone compatibility", "iphone 6s esim compatible", "iphone 7 esim compatible", "iphone 8 esim compatible", "iphone se compatible esim", "esim iphone se", "double sim iphone se", "iphone compatible double sim", "téléphone compatible esim"]
-date: 2026-06-01T10:00:00Z
-lastmod: 2026-06-01T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["iPhone", "eSIM", "Compatibilité", "iPhone SE"]
 toc: true
 

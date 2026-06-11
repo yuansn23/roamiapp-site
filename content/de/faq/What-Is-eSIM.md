@@ -1,9 +1,10 @@
 ---
 title: "Was ist eine eSIM? Einsteiger-Guide 2026"
+h1_title: "Die eSIM einfach erklärt: Einsteiger-Guide für 2026"
 description: "Neu bei eSIM? Dieser Einsteiger-Guide erklärt die integrierte SIM: Funktion auf iPhone & iPad, Sicherheitsvorteile, Kompatibilität & einfache Einrichtung. Basierend auf Apple-Dokumenten."
 keywords: ["was ist eSIM", "eSIM Definition", "wie funktioniert eSIM", "eSIM vs physische SIM", "Apple eSIM Unterstützung", "Vorteile eSIM", "integrierte SIM-Karte", "eSIM Leitfaden für Anfänger"]
-date: 2026-06-01T10:00:00Z
-lastmod: 2026-06-01T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Fehlerbehebung", "Reise-Setup", "iPhone 17"]
 toc: true
 

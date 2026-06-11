@@ -1,9 +1,10 @@
 ---
 title: "iPhone XR 支援 eSIM 嗎？2026設定全攻略"
+h1_title: "iPhone XR 支援 eSIM 嗎？2026 設定完整攻略"
 description: "iPhone XR 是最早支援 eSIM 的 iPhone 型號之一，完全相容於各大電信業者與旅行 eSIM 服務。本文提供 *#06# 驗證教學、完整啟用步驟，並說明中國版裝置的特殊處理方式。同時一併介紹 iPhone 7、iPhone 8、iPhone X 及其他型號的 eSIM 支援情況"
 keywords: ["iphone xr esim 相容", "iphone xr esim 支援", "airalo 相容手機", "visible esim 相容手機", "google fi esim 相容手機", "verizon esim 相容性", "雙卡雙待相容", "支援 esim 的 iphone 列表", "iphone 7 esim", "iphone 8 esim", "iphone 9 esim"]
-date: 2026-05-26T10:00:00Z
-lastmod: 2026-05-26T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["iPhone", "eSIM", "相容性", "iPhone XR"]
 toc: true
 

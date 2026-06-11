@@ -1,9 +1,10 @@
 ---
 title: "UK Travel 2026: eSIM vs Physical SIM Guide"
+h1_title: "The Complete Guide to eSIM vs Physical SIM for UK Travel in 2026"
 description: "Planning a UK trip? Confused about eSIM vs physical SIM? Plain‑English guide covers Vodafone UK eSIM, Roami, and more. No tech jargon."
 keywords: ["UK eSIM", "United Kingdom travel internet", "buy eSIM online United Kingdom", "Travel eSIM United Kingdom", "Roami eSIM", "Airalo eSIM United Kingdom", "UK mobile data", "vodafone esim uk", "vodafone uk esim"]
-date: 2026-06-01T10:00:00Z
-lastmod: 2026-06-01T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "Vodafone"]
 toc: true
 image: "/images/esim-activation-guide.jpg"

@@ -1,9 +1,10 @@
 ---
 title: "2026 智慧手錶 eSIM 相容性完整指南(啟用步驟)"
+h1_title: "2026 智慧手錶 eSIM 相容性完整指南：啟用步驟與注意事項"
 description: "想知道你的智慧手錶能不能用 eSIM？本文列出 Apple Watch、三星、Google Pixel 等所有支援型號（含地區版本），並提供詳細的啟用設定教學與 eSIM 購買建議"
 keywords: ["智慧型手錶 eSIM", "Apple Watch eSIM", "三星手錶 eSIM", "Google Pixel Watch eSIM", "小米手錶 eSIM", "華為手錶 eSIM", "TicWatch eSIM", "Amazfit Nexo", "Vivo Watch 2", "手錶獨立上網", "eSIM 手錶啟用", "Apple Watch Series 10 eSIM", "Samsung Galaxy Watch Ultra eSIM"]
-date: 2026-05-26T10:00:00Z
-lastmod: 2026-05-26T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "智慧型手錶", "相容性", "Apple Watch", "Samsung", "Google Pixel", "小米", "華為", "Oppo", "TicWatch", "Amazfit", "Vivo"]
 toc: true
 

@@ -1,9 +1,10 @@
 ---
 title: "US eSIM 2026: Avoid Throttling & Hidden Fees"
+h1_title: "How to Avoid Throttling and Hidden Fees with a US eSIM in 2026"
 description: "Is Airalo or Roami cheaper for the USA? We compare data allowances, call minutes, and roaming rules. Get the best value for your US trip. Free trial included."
 keywords: ["eSIM activation", "how to activate eSIM", "iPhone eSIM setup", "Android eSIM", "eSIM QR code", "travel eSIM", "eSIM troubleshooting"]
-date: 2026-06-03T10:00:00Z
-lastmod: 2026-06-03T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 image: "/images/esim-activation-guide.jpg"

@@ -1,9 +1,10 @@
 ---
 title: "Google Pixel 能用 eSIM 嗎？完整設定教學"
+h1_title: "Google Pixel eSIM 設定完整教學：如何啟用與使用"
 description: "Google Pixel 6、6 Pro 與 6a 皆完整支援 eSIM，全球版本通用。本文介紹 *#06# 驗證方法、詳細啟用步驟（適用於各大電信業者與旅行 eSIM 服務），並涵蓋 Pixel 3 至 10 全系列的 eSIM 相容性資訊"
 keywords: ["google pixel 6 esim compatible", "google pixel 6 pro esim compatible", "pixel 6a esim compatible", "pixel 6 esim support", "airalo compatible phones", "visible esim compatible phones", "google fi esim compatible phones", "google pixel esim compatible", "pixel 4a esim compatible", "pixel 4a 5g esim compatible", "pixel 5 esim compatible", "pixel 7 esim compatible", "pixel 8 esim compatible", "pixel 3 esim compatible", "pixel 4 esim compatible", "holafly compatible phones", "jio esim compatible phones", "verizon esim compatibility", "us mobile esim compatible devices", "dual sim compatible"]
-date: 2026-05-26T10:00:00Z
-lastmod: 2026-05-26T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["Google Pixel", "eSIM", "相容性", "Pixel 6"]
 toc: true
 

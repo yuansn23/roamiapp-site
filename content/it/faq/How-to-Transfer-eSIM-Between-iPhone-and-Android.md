@@ -1,9 +1,10 @@
 ---
 title: "Da Android a iPhone? Trasferisci eSIM in 60s"
+h1_title: "Passa da Android a iPhone: trasferisci la eSIM in 60 secondi"
 description: "Cambi telefono? Trasferisci eSIM tra iPhone (iOS 26) e Android (Android 16) in 60 secondi. Istruzioni, operatori supportati, QR code, soluzioni errori. Nessuna chiamata all'operatore."
 keywords: ["risoluzione problemi eSIM", "attivazione eSIM fallita", "eSIM nessun servizio", "errore trasferimento eSIM", "Apple eSIM", "iOS 26 eSIM", "iPad eSIM non funziona", "impostazioni APN eSIM", "codice di conferma eSIM", "profilo eSIM scaduto", "eSIM legata a un altro dispositivo", "problema segnale dual eSIM", "eSIM DFU errore 53", "blocco operatore eSIM", "trasferimento eSIM multipiattaforma"]
-date: 2026-06-01T10:00:00Z
-lastmod: 2026-06-01T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Risoluzione problemi", "Configurazione viaggio"]
 toc: true
 

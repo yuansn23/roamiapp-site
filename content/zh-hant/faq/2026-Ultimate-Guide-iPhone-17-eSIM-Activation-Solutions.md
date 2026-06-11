@@ -1,9 +1,10 @@
 ---
 title: "iPhone 17 eSIM: 購買、啟用與設定"
+h1_title: "iPhone 17 eSIM 購買、啟用與設定完整指南"
 description: "了解如何為 iPhone 17 購買 eSIM、30 秒快速啟用、設定雙重 eSIM、從 Android 轉移門號。相容性、漫遊、MTS、Beeline、Tele2、Yota 資費方案。土耳其、埃及、中國等國家的 eSIM 支援。"
 keywords: ["iPhone 17 eSIM", "iPhone 17 Air eSIM", "iPhone 17 相容性", "iPhone 17 eSIM 啟用", "Roami 5G", "eSIM 電池續航", "eSIM 與實體 SIM 比較", "iPhone 雙重 eSIM", "購買 eSIM", "如何在 iPhone 上設定 eSIM", "土耳其 esim", "埃及 esim", "MTS esim", "Beeline esim", "Tele2 esim", "Yota esim", "多少 eSIM", "轉移 eSIM", "esim qr 碼", "esim 設定", "旅遊 esim", "俄羅斯 esim", "支援 eSIM 的手機"]
-date: 2026-05-18T10:00:00Z
-lastmod: 2026-05-18T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "iOS", "iPhone 17", "旅遊", "設定", "漫遊"]
 toc: true
 

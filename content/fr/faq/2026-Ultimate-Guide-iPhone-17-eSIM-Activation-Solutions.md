@@ -1,9 +1,10 @@
 ---
 title: "iPhone 17 eSIM : activation mondiale 2026"
+h1_title: "L'iPhone 17 passe à l'eSIM : une activation mondiale prévue pour 2026"
 description: "iPhone 17 eSIM : compatibilité mondiale et activation en 30 secondes avec iOS 19 Push-to-Install, Quick Transfer ou QR. Corrigez les erreurs courantes et roaming 5G"
 keywords: ["iPhone 17 eSIM", "iPhone 17 Air eSIM", "compatibilité iPhone 17", "activer eSIM iPhone 17", "Roami 5G", "autonomie eSIM", "eSIM vs carte SIM physique", "double eSIM iPhone"]
-date: 2026-06-01T10:00:00Z
-lastmod: 2026-06-01T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Dépannage", "Configuration voyage", "iPhone 17"]
 toc: true
 

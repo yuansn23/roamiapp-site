@@ -1,9 +1,10 @@
 ---
 title: "Dual-eSIM nicht verfügbar? 12 iPhone Fixes"
+h1_title: "Dual-eSIM nicht verfügbar? 12 iPhone-Lösungen, die helfen"
 description: "Zweite eSIM ohne Netz? Anrufe zur Mailbox? Lösungen für CDMA-Fallback, T-ADS-Cache, Akku & Carrier-Lock. Für iPhone 17, 16, iOS 26."
 keywords: ["eSIM Fehlerbehebung", "eSIM Aktivierung fehlgeschlagen", "eSIM kein Netz", "eSIM Übertragungsfehler", "Apple eSIM", "iOS 26 eSIM", "iPad eSIM funktioniert nicht", "eSIM APN Einstellungen", "eSIM Bestätigungscode", "eSIM Profil abgelaufen", "eSIM an anderes Gerät gebunden", "Dual eSIM Signalproblem", "eSIM DFU Fehler 53", "eSIM Carrier Lock", "eSIM plattformübergreifende Übertragung"]
-date: 2026-06-01T10:00:00Z
-lastmod: 2026-06-01T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Fehlerbehebung", "Reise-Setup"]
 toc: true
 

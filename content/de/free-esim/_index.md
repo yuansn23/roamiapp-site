@@ -1,11 +1,11 @@
 ---
 title: "Kostenlose eSIM sichern | Globale Reisedaten-Testversion"
-date: '2026-06-04T08:51:42+00:00'
+date: '2026-06-10T08:51:42+00:00'
 layout: "free-esim-list"
 
 seo:
-  title: "Kostenlose eSIM-Testversion | Testen Sie 5G, keine Kreditkarte"
-  description: "Sichern Sie sich noch heute Ihre kostenlose eSIM und erleben Sie nahtlose Internetkonnektivität weltweit. Enthält kostenlose Datentarife für Top-Reiseziele wie Japan, Thailand, die USA und Europa. Keine Kreditkarte erforderlich, Aktivierung in 3 einfachen Schritten."
+  title: "Kostenlose eSIM-Testversion | keine Kreditkarte"
+  description: "Kostenlose eSIM, keine Kreditkarte erforderlich. Datentarife inklusive für Japan, Thailand, USA und Europa. Einfache Aktivierung in 3 Schritten."
   keywords: "kostenlose eSIM, Reise-eSIM, internationaler Datentarif, null Roaming-Gebühren, digitale SIM-Karte, globales Internet, Prepaid-eSIM, QR-Code-eSIM"
   canonical_url: "/free-esim/"
   og_image: "/img/og-free-esim.jpg"

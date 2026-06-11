@@ -1,15 +1,15 @@
 ---
 title: "Privacy Policy | How We Protect Your Data"
 description: "How Roami handles your personal information. GDPR-compliant, no data selling, transparent practices for global travelers."
-last_updated: "May 2026"
-date: '2026-06-04T00:00:00+00:00'
+last_updated: "June 2026"
+date: '2026-06-09T00:00:00+00:00'
 type: "page"
 layout: "privacy"  
+h1_title: "Roami Privacy Policy"
 ---
 
-# Roami Privacy Policy
 
-**Last Updated: May, 2026**
+**Last Updated: June, 2026**
 
 Welcome to Roami! This Privacy Policy explains how we collect, use, and disclose your information when you use our Services, and informs you of your privacy rights and how the law protects you.
 

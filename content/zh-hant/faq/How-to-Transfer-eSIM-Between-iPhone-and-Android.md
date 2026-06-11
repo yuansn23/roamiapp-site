@@ -1,9 +1,10 @@
 ---
 title: "60 秒完成 eSIM 轉移：從 Android 到 iPhone (2026)"
+h1_title: "60 秒完成 eSIM 轉移：從 Android 到 iPhone 的完整指南 (2026)"
 description: "學習如何在 60 秒內將 eSIM 從 Android 轉移到 iPhone（或反向）。適用 iOS 26 與 Android 16，支援 AT&T、T-Mobile、Verizon、EE、Orange 等電信業者。包含故障排除、雙 eSIM 使用教學，以及土耳其、埃及、中國的旅遊 eSIM 購買建議"
 keywords: ["轉移 eSIM", "如何轉移 eSIM", "跨平台 eSIM 轉移", "eSIM 到另一支手機", "iPhone 17 eSIM", "Android 16 eSIM", "eSIM 故障排除", "啟用 eSIM", "eSIM 無訊號", "eSIM 轉移錯誤", "多少 eSIM", "兩張 eSIM", "購買 eSIM", "旅遊 eSIM", "mts esim", "beeline esim", "tele2 esim", "yota esim", "土耳其 esim", "埃及 esim", "中國 esim", "支援 eSIM 的手機"]
-date: 2026-06-02T10:00:00Z
-lastmod: 2026-06-02T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "故障排除", "轉移"]
 toc: true
 

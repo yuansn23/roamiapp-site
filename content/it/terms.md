@@ -1,15 +1,15 @@
 ---
 title: "Condizioni di Servizio | Accordo di Utilizzo eSIM"
 description: "Consulta i termini Roami per l'uso di eSIM in oltre 200 paesi. Copre utilizzo corretto, regole dell'account e idoneità al rimborso."
-last_updated: "Maggio 2026"
-date: '2026-06-04T00:00:00+00:00'
+last_updated: "Giugno 2026"
+date: '2026-06-09T00:00:00+00:00'
 layout: "terms"
 type: "page"
+h1_title: "Roami Termini di servizio"
 ---
 
-# Termini di servizio di Roami
 
-📅 **Ultimo aggiornamento: 10 maggio 2026**
+📅 **Ultimo aggiornamento:  Giugno 2026**
 
 ---
 

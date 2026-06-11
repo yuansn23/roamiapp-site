@@ -70,7 +70,7 @@
 <header class="bg-white border-b border-slate-200 py-16 lg:py-24">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <!-- 动态获取标题 -->
-        <h1 class="text-3xl md:text-5xl font-extrabold text-slate-900 mb-4">{{ .Title }}</h1>
+        <h1 class="text-3xl md:text-5xl font-extrabold text-slate-900 mb-4">{{ .Params.h1_title | default .Title }}</h1>
         <!-- 动态获取更新时间 -->
 		<p class="text-slate-500 text-lg">{{ i18n "last_updated" }}: {{ .Params.last_updated }}</p> 
     </div>

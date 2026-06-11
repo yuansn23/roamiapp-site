@@ -3,8 +3,8 @@ title: "Obtenez votre eSIM gratuite | Essai de données de voyage mondial"
 layout: "free-esim-list"
 
 seo:
-  title: "eSIM gratuite | Aucune carte de crédit requise | Zéro frais d'itinérance | Roami"
-  description: "Obtenez votre eSIM gratuite dès aujourd'hui et profitez d'une connectivité Internet transparente dans le monde entier. Comprend des forfaits de données gratuits pour les principales destinations comme le Japon, la Thaïlande, les États-Unis et l'Europe. Aucune carte de crédit requise, activation en 3 étapes faciles."
+  title: "eSIM gratuite | Aucune carte de crédit requise"
+  description: "Obtenez votre eSIM gratuite sans carte de crédit. Profitez de données incluses au Japon, Thaïlande, États-Unis et Europe. Activation en 3 étapes simples."
   keywords: "eSIM gratuite, eSIM voyage, forfait données international, zéro frais d'itinérance, carte SIM numérique, Internet mondial, eSIM prépayée, code QR eSIM"
   canonical_url: "/free-esim/"
   og_image: "/img/og-free-esim.jpg"

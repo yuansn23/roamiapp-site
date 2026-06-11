@@ -1,9 +1,10 @@
 ---
 title: "Guida eSIM Android: 17 marchi inclusi"
+h1_title: "Guida completa alle eSIM per Android: 17 marchi a confronto"
 description: "Supporto eSIM su Motorola, OnePlus, Xiaomi, Huawei, LG, Sony, Nokia, Asus, Honor, Realme, Oppo, Vivo, iQOO, Poco. Tabelle, avvisi regionali e alternative."
 keywords: ["android esim", "esim android", "telefoni android con esim", "motorola ha esim", "moto g play ha esim", "moto g power ha esim", "motorola razr esim", "motorola edge esim", "oneplus ha esim", "oneplus 12 esim", "oneplus 13 esim", "oneplus 11 esim", "oneplus 10 pro esim", "xiaomi ha esim", "xiaomi 13 esim", "xiaomi 14 esim", "xiaomi 12 esim", "xiaomi 13t pro esim", "huawei ha esim", "huawei p40 esim", "huawei p50 esim", "huawei mate 40 esim", "lg ha esim", "lg wing esim", "lg velvet esim", "lg v60 esim", "sony ha esim", "sony xperia 1 iv esim", "sony xperia 5 iv esim", "blackberry ha esim", "blackberry key2 esim", "palm ha esim", "palm phone esim", "nokia ha esim", "nokia x30 esim", "nokia g60 esim", "asus ha esim", "asus zenfone esim", "asus rog phone esim", "honor ha esim", "honor 50 esim", "honor magic esim", "realme ha esim", "realme gt esim", "oppo ha esim", "oppo find x5 esim", "vivo ha esim", "vivo x100 esim", "vivo x200 ultra esim", "iqoo ha esim", "iqoo 12 esim", "poco ha esim", "poco f5 esim", "poco x7 pro esim", "infinix ha esim", "tecno ha esim", "itel ha esim", "telefoni android esim", "elenco telefoni android con esim", "telefoni android compatibili con esim"]
-date: 2026-06-01T10:00:00Z
-lastmod: 2026-06-01T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["Android", "eSIM", "Compatibilità", "Motorola", "OnePlus", "Xiaomi", "Huawei"]
 toc: true
 

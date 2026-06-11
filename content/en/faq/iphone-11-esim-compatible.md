@@ -1,9 +1,10 @@
 ---
 title: "iPhone eSIM: Full Compatibility & Setup Guide"
+h1_title: "The Complete Guide to iPhone eSIM Compatibility and Setup"
 description: "Check iPhone eSIM compatibility (EID method) and setup steps. Covers dual SIM, iPhone 13+ features, and China/US model differences. Includes tables."
 keywords: ["iphone esim", "esim iphone", "which iphones support esim", "which iphones have esim", "which iphone models support esim", "what iphones support esim", "does iphone 11 have esim", "does iphone 12 have esim", "does iphone 13 have esim", "does iphone 14 have esim", "does iphone 15 have esim", "does iphone 16 have esim", "does iphone 17 have esim", "does iphone 11 support esim", "does iphone 12 support esim", "does iphone 13 support esim", "does iphone 14 support esim", "does iphone 15 support esim", "does iphone 16 support esim", "does iphone 17 support esim", "does iphone se have esim", "does iphone se support esim", "does iphone xr have esim", "does iphone xr support esim", "does iphone xs have esim", "does iphone xs max have esim", "does iphone 8 have esim", "does iphone 7 have esim", "iphone 11 esim", "iphone 12 esim", "iphone 13 esim", "iphone 14 esim", "iphone 15 esim", "iphone 16 esim", "iphone 17 esim", "iphone se esim", "iphone xr esim", "iphone xs esim", "iphone 8 esim", "iphone 11 pro esim", "iphone 12 pro esim", "iphone 13 pro esim", "iphone 14 pro esim", "iphone 15 pro esim", "iphone 16 pro esim", "iphone 17 pro esim", "iphone 14 esim only", "iphone 15 esim or physical sim", "iphone 16 esim only", "iphone 17 esim only", "iphone 17 air esim only", "iphone 13 dual esim", "iphone 14 dual esim", "iphone 15 dual esim", "iphone 16 dual esim", "iphone 17 dual esim", "first iphone with esim", "when did iphones switch to esim", "when did iphone start using esim", "iphone esim compatible", "iphones with esim", "iphones esim compatible"]
-date: 2026-06-03T10:00:00Z
-lastmod: 2026-06-03T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["iPhone", "eSIM", "Dual SIM", "Activation", "Compatibility"]
 toc: true
 

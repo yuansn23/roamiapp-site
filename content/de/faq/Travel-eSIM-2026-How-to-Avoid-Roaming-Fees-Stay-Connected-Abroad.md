@@ -1,9 +1,10 @@
 ---
 title: "Reise-eSIM 2026: Roaming sparen & verbunden bleiben"
+h1_title: "Reise-eSIM 2026: So sparst du Roaming-Gebühren und bleibst verbunden"
 description: "Reisen ins Ausland? Nutzen Sie eine Reise-eSIM. Vergleichen Sie Tarife, Aktivierung in wenigen Schritten, Prüfung der Freischaltung. Sparen Sie bis zu 90 % Roaming-Kosten."
 keywords: ["Reise-eSIM", "internationales Roaming", "iOS 26 Reise-eSIM", "eSIM für Reisen kaufen", "eSIM für Touristen", "günstiges Roaming", "iPhone Reise-eSIM", "eSIM vs Roaming"]
-date: 2026-06-01T10:00:00Z
-lastmod: 2026-06-01T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Fehlerbehebung", "Reise-Einrichtung", "iPhone 17"]
 toc: true
 

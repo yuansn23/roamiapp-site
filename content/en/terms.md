@@ -1,15 +1,15 @@
 ---
 title: "Terms of Service | eSIM Usage Agreement"
 description: "Review Roami terms for eSIM use in 200+ countries. Covers fair usage, account rules, and refund eligibility."
-last_updated: "May 2026"
-date: '2026-06-04T00:00:00+00:00'
+last_updated: "June 2026"
+date: '2026-06-09T00:00:00+00:00'
 layout: "terms"
 type: "page"
+h1_title: "Roami Terms of Service"
 ---
 
-# Roami Terms of Service
 
-📅 **Last Updated: May 10, 2026**
+📅 **Last Updated: June 2026**
 
 ---
 

@@ -109,7 +109,7 @@ destinations:
           tags: ["5G Highspeed", "Unbegrenzte Daten"]
         - flag: "ae.svg"
           name: "VAE eSIM"
-          slug: "uae-esim"
+          slug: "United-Arab-Emirates-eSIM"
           price: "Ab 1,99 $"
           tags: ["5G Highspeed", "Hotspot unterstützt"]
         - flag: "jp.svg"
@@ -195,11 +195,6 @@ destinations:
           badge: "Beliebt"
           tags: ["Highspeed"]
         - flag: "cu.svg"
-          name: "Kuba eSIM"
-          slug: "cuba-esim"
-          price: "Ab 1,99 $"
-          tags: ["Hotspot unterstützt"]
-        - flag: "cr.svg"
           name: "Costa Rica eSIM"
           slug: "costa-rica-esim"
           price: "Ab 1,99 $"
@@ -257,11 +252,6 @@ destinations:
           badge: "Empfohlen"
           tags: ["Hotspot unterstützt"]
         - flag: "na.svg"
-          name: "Namibia eSIM"
-          slug: "namibia-esim"
-          price: "Ab 1,99 $"
-          tags: ["Highspeed"]
-        - flag: "ma.svg"
           name: "Marokko eSIM"
           slug: "morocco-esim"
           price: "Ab 1,99 $"
@@ -282,20 +272,6 @@ destinations:
           price: "Ab 1,99 $"
           tags: ["Highspeed"]
         - flag: "mu.svg"
-          name: "Mauritius eSIM"
-          slug: "mauritius-esim"
-          price: "Ab 1,99 $"
-          tags: ["Insel-Abdeckung"]
-        - flag: "sc.svg"
-          name: "Seychellen eSIM"
-          slug: "seychelles-esim"
-          price: "Ab 1,99 $"
-          tags: ["Insel-Abdeckung"]
-        - flag: "cv.svg"
-          name: "Kap Verde eSIM"
-          slug: "cape-verde-esim"
-          price: "Ab 1,99 $"
-          tags: ["Hotspot unterstützt"]
       btn: "Alle Afrika-Tarife anzeigen"
   promo_text1: "Rabatt für neue Nutzer"
   promo_code: "web20"

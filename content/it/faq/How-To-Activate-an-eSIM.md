@@ -1,9 +1,10 @@
 ---
 title: "Come attivare un eSIM (Guida completa per iOS e Android)"
+h1_title: "La guida completa per attivare un eSIM su iOS e Android"
 description: "Scopri come attivare facilmente un eSIM su dispositivi iPhone e Android. Segui la nostra guida passo dopo passo per scannerizzare il codice QR, inserire i dettagli manualmente, utilizzare le app dell'operatore e risolvere gli errori di attivazione comuni. Copre tutti i modelli iPhone da XS a iPhone 17, Samsung Galaxy e Google Pixel."
 keywords: ["attivazione eSIM", "come attivare eSIM", "attivare eSIM iPhone", "configurazione eSIM iPhone", "eSIM Android", "codice QR eSIM", "eSIM viaggio", "risoluzione problemi eSIM", "come attivare un eSIM", "attivazione eSIM fallita", "aggiungere eSIM a iPhone"]
-date: 2026-06-01T10:00:00Z
-lastmod: 2026-06-01T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Risoluzione problemi", "Configurazione viaggi"]
 toc: true
 image: "/images/esim-activation-guide.jpg"

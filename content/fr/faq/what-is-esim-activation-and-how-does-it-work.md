@@ -1,9 +1,10 @@
 ---
 title: "Activation eSIM : définition et fonctionnement (2026)"
+h1_title: "Activation eSIM : définition et fonctionnement en 2026"
 description: "Découvrez ce qu'est l'activation eSIM et comment elle fonctionne sur iPhone et Android. Configurez votre ligne sans carte SIM physique. Guide simple, compatible avec tous les opérateurs."
 keywords: ["activation eSIM", "comment activer eSIM", "configuration eSIM iPhone", "eSIM Android", "code QR eSIM", "eSIM voyage", "dépannage eSIM"]
-date: 2026-05-14T10:00:00Z
-lastmod: 2026-05-14T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Dépannage", "Configuration voyage"]
 toc: true
 image: "/images/esim-activation-guide.jpg"

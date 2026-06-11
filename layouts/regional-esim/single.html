@@ -258,6 +258,31 @@
     .rn-pulse { animation: rnPulse 2s infinite; }
     @keyframes rnPulse { 0%, 100% { opacity: 0.7; } 50% { opacity: 1; } }
   </style>
+
+  <!-- URL 自动小写重定向：确保路径部分全小写（保留查询参数和哈希） -->
+ <script>
+  (function() {
+    var loc = window.location;
+    var path = loc.pathname;
+    // 解码路径（处理特殊字符，如 %20）
+    try {
+      path = decodeURIComponent(path);
+    } catch(e) {}
+    
+    // 检查是否含有大写字母（A-Z）
+    if (/[A-Z]/.test(path)) {
+      var newPath = path.toLowerCase();
+      var newUrl = loc.origin + newPath + loc.search + loc.hash;
+      // 避免无限循环
+      if (newUrl !== loc.href) {
+        console.log('Redirecting to lowercase: ' + newUrl);
+        window.location.replace(newUrl);
+      }
+    } else {
+      console.log('URL already lowercase, no redirect.');
+    }
+  })();
+</script>
 </head>
 <body class="bg-white text-slate-900 antialiased">
 

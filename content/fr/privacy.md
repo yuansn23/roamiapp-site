@@ -1,15 +1,15 @@
 ---
 title: "Politique de confidentialité | Comment nous protégeons vos données"
 description: "Comment Roami traite vos informations personnelles. Conforme au RGPD, aucune vente de données, pratiques transparentes pour les voyageurs du monde entier."
-last_updated: "Mai 2026"
-date: '2026-06-04T00:00:00+00:00'
+last_updated: "Juin 2026"
+date: '2026-06-09T00:00:00+00:00'
 type: "page"
-layout: "privacy"  
+layout: "privacy"
+h1_title: "Roami Politique de confidentialité"
 ---
 
-# Politique de confidentialité de Roami
 
-**Dernière mise à jour : Mai 2026**
+**Dernière mise à jour : Juin 2026**
 
 Bienvenue sur Roami ! La présente Politique de confidentialité explique comment nous collectons, utilisons et divulguons vos informations lorsque vous utilisez nos Services, et vous informe de vos droits en matière de confidentialité ainsi que de la manière dont la loi vous protège.
 

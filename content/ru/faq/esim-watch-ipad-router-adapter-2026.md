@@ -1,9 +1,10 @@
 ---
 title: "eSIM на часах, планшетах и роутерах 2026: полный гид"
+h1_title: "Полное руководство по eSIM на часах, планшетах и роутерах в 2026 году"
 description: "Часы с eSIM: Apple Watch, Samsung Galaxy Watch 8, Huawei Watch. Планшеты iPad с eSIM, роутеры и модемы eSIM, адаптеры (USB, пластиковая eSIM). Как подключить и настроить."
 keywords: ["esim watch", "apple watch esim", "samsung watch esim", "huawei watch esim", "watch 3 esim", "watch 4 esim", "watch 5 esim", "watch ultra esim", "galaxy watch 8 esim", "galaxy watch ultra esim", "часы с esim", "смарт часы с esim", "часы телефон esim", "ipad esim", "ipad pro esim", "ipad air esim", "планшеты с esim", "роутер с esim", "модем с esim", "адаптер esim", "адаптер есим esim", "esim адаптер", "esim адаптер для android", "esim адаптер купить", "переходник esim", "внешняя esim", "модуль esim", "пластиковая esim", "физическая esim", "физическая карта esim", "физическая сим карта esim", "esim usb"]
-date: 2026-05-27T10:00:00Z
-lastmod: 2026-05-27T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "Apple Watch", "Samsung Watch", "Huawei Watch", "iPad", "роутер eSIM", "адаптер eSIM"]
 toc: true
 

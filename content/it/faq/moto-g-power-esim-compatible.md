@@ -1,9 +1,10 @@
 ---
 title: "Moto G Power supporta eSIM? Guida completa 2026"
+h1_title: "Moto G Power e eSIM: la guida completa per il 2026"
 description: "Moto G Power (2024) e Moto G Stylus (2024) supportano eSIM. I modelli più vecchi (2020-2023) non lo supportano. Verifica con *#06#. Copre anche Edge, Razr e altri telefoni Moto con eSIM."
 keywords: ["moto g power esim compatibile", "moto g stylus esim compatibile", "motorola telefoni compatibili esim", "moto g power 2024 esim", "airalo telefoni compatibili", "visible telefoni compatibili esim", "verizon compatibilità esim", "us mobile dispositivi compatibili esim", "holafly telefoni compatibili", "motorola edge esim", "motorola razr esim", "dual sim compatibile"]
-date: 2026-06-01T10:00:00Z
-lastmod: 2026-06-01T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["Motorola", "eSIM", "Compatibilità", "Moto G Power"]
 toc: true
 

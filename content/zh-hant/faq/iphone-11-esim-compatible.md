@@ -1,9 +1,10 @@
 ---
 title: "2026 最新 iPhone 11 eSIM 設定教學：從驗證到啟用全攻略"
+h1_title: "2026 最新 iPhone 11 eSIM 設定教學：從驗證到啟用的完整指南"
 description: "iPhone 11、11 Pro、11 Pro Max 完整支援 eSIM。本文提供 *#06# 驗證、雙卡雙待設定、中華電信/台灣大哥大/遠傳 eSIM 啟用步驟，以及出國使用旅行 eSIM 的完整教學。同時解答 iPhone 8/XR/X/SE/7/XS 等機種的 eSIM 相容性問題。"
 keywords: ["iphone 11 esim", "esim iphone", "iphone esim 設定", "台灣大哥大 iphone esim", "中華電信 esim iphone", "iphone esim 雙卡", "iphone esim 出國", "iphone esim 日本", "iphone 8 esim", "iphone xr esim", "iphone se esim", "google fi esim iphone"]
-date: 2026-05-26T10:00:00Z
-lastmod: 2026-05-26T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["iPhone", "eSIM", "iPhone 11", "雙卡雙待", "中華電信"]
 toc: true
 

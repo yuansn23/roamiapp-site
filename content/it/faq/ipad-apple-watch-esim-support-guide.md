@@ -1,9 +1,10 @@
 ---
 title: "eSIM su iPad e Apple Watch: Guida completa"
+h1_title: "La guida completa all'eSIM su iPad e Apple Watch"
 description: "Quali iPad e Apple Watch supportano l'eSIM? Elenco completo: iPad Pro, Air (M3/M4), mini (6ª gen), 10ª gen; Watch Serie 9, Ultra, SE. Attiva, trova piani e risolvi problemi."
 keywords: ["ipad esim", "ipad pro esim", "ipad air esim", "ipad mini esim", "ipad 10ª gen esim", "ipad ha esim", "ipad con esim", "piani esim ipad", "apple watch esim", "apple watch series 9 esim", "apple watch ultra esim", "apple watch se esim", "apple watch cellular esim", "smartwatch con esim", "telefoni a conchiglia con esim", "telefono a conchiglia con esim", "ipad pro 11 esim", "ipad pro 12.9 esim", "ipad air m3 esim", "ipad air m4 esim", "ipad mini 6 esim", "piano esim apple watch", "piani esim apple watch"]
-date: 2026-06-01T10:00:00Z
-lastmod: 2026-06-01T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["iPad", "Apple Watch", "eSIM", "Cellulare", "Compatibilità"]
 toc: true
 

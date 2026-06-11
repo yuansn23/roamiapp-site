@@ -1,9 +1,10 @@
 ---
 title: "Attivazione eSIM: come funziona e guida alla configurazione"
+h1_title: "Attivazione eSIM: guida completa al funzionamento e alla configurazione"
 description: "Come attivare eSIM su iPhone (iOS 26), Samsung, Pixel, OnePlus (Android 16). Verifica il supporto tramite IMEI/impostazioni. Risoluzione errori di attivazione e problemi di rete."
 keywords: ["attivazione eSIM", "come attivare eSIM", "configurazione eSIM iPhone", "eSIM Android", "codice QR eSIM", "eSIM viaggio", "risoluzione problemi eSIM", "come verificare esim su iphone", "come controllare esim in iphone", "come trovare esim su iphone", "dove si trova esim su iphone", "come verificare se il mio telefono è compatibile con esim", "come controllare compatibilità esim", "come sapere se il mio telefono è compatibile con esim", "controllare compatibilità esim", "strumento verifica compatibilità esim", "controllo compatibilità esim", "imei esim", "generatore imei esim", "esim imei", "controllo imei esim", "come verificare se esim è compatibile", "come verificare se il telefono è compatibile con esim", "il mio telefono ha esim", "il mio telefono supporta esim", "cos'è l'attivazione esim", "come trovare codice qr esim", "come ottenere codice qr esim"]
-date: 2026-06-01T10:00:00Z
-lastmod: 2026-06-01T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Risoluzione problemi", "Configurazione viaggi", "Compatibilità"]
 toc: true
 image: "/images/esim-activation-guide.jpg"

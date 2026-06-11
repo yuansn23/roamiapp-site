@@ -108,7 +108,7 @@ destinations:
           tags: ["5G ad alta velocità", "Dati illimitati"]
         - flag: "ae.svg"
           name: "eSIM Emirati Arabi"
-          slug: "uae-esim"
+          slug: "United-Arab-Emirates-eSIM"
           price: "Da 1,99 $"
           tags: ["5G ad alta velocità", "Hotspot supportato"]
         - flag: "jp.svg"
@@ -193,11 +193,6 @@ destinations:
           price: "Da 1,99 $"
           badge: "Popolare"
           tags: ["Alta velocità"]
-        - flag: "cu.svg"
-          name: "eSIM Cuba"
-          slug: "cuba-esim"
-          price: "Da 1,99 $"
-          tags: ["Hotspot supportato"]
         - flag: "cr.svg"
           name: "eSIM Costa Rica"
           slug: "costa-rica-esim"
@@ -290,11 +285,6 @@ destinations:
           slug: "seychelles-esim"
           price: "Da 1,99 $"
           tags: ["Copertura isole"]
-        - flag: "cv.svg"
-          name: "eSIM Capo Verde"
-          slug: "cape-verde-esim"
-          price: "Da 1,99 $"
-          tags: ["Hotspot supportato"]
       btn: "Mostra tutte le offerte Africa"
   promo_text1: "Sconto per nuovi utenti"
   promo_code: "web20"

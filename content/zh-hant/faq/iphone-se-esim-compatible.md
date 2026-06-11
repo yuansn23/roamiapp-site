@@ -1,9 +1,10 @@
 ---
 title: "iPhone SE 支援 eSIM 嗎?（完整解答與設定教學）"
+h1_title: "iPhone SE 支援 eSIM 嗎？完整解答與設定教學"
 description: "iPhone SE（第 2 代 2020 年）與 iPhone SE（第 3 代 2022 年）支援 eSIM，2016 年原版 SE 則不支援。本文介紹如何驗證 eSIM 相容性、在各大電信業者與旅行 eSIM 服務上的啟用步驟，以及舊款機型的替代方案。"
 keywords: ["iphone se esim compatible", "iphone se 2020 esim compatible", "iphone se 2nd gen esim", "iphone se 3rd gen esim", "iphone se 2nd generation esim compatible", "airalo compatible phones", "visible esim compatible phones", "verizon esim compatibility", "us mobile esim compatible devices", "holafly compatible phones", "jio esim compatible phones", "dual sim compatible", "list of iphones that support esim", "esim capable iphones", "iphone esim compatible", "esim iphone compatibility", "iphone 6s esim compatible", "iphone 7 esim", "iphone 8 esim", "iphone 9 esim"]
-date: 2026-05-26T10:00:00Z
-lastmod: 2026-05-26T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["iPhone", "eSIM", "相容性", "iPhone SE"]
 toc: true
 

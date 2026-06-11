@@ -1,15 +1,15 @@
 ---
 title: "Nutzungsbedingungen | eSIM-Nutzungsvereinbarung"
 description: "Lesen Sie die Roami-Bedingungen für die eSIM-Nutzung in 200+ Ländern. Deckt faire Nutzung, Kontoregeln und Rückerstattungsberechtigung ab."
-last_updated: "Mai 2026"
-date: '2026-06-04T00:00:00+00:00'
+last_updated: "Juni 2026"
+date: '2026-06-09T00:00:00+00:00'
 layout: "terms"
 type: "page"
+h1_title: "Roami Nutzungsbedingungen"
 ---
 
-# Roami Nutzungsbedingungen
 
-📅 **Letzte Aktualisierung: 10. Mai 2026**
+📅 **Letzte Aktualisierung:  Juni 2026**
 
 ---
 

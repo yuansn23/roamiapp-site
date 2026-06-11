@@ -1,9 +1,10 @@
 ---
 title: "Samsung Galaxy eSIM: S/A/Z Series Guide"
+h1_title: "The Complete Guide to Samsung Galaxy eSIM for the S, A, and Z Series"
 description: "Full Samsung eSIM support: S21-S25 (yes), S20 (global only), A54/A55/A35 (yes), A15/A16/A32 (no), Z series (yes). Verify, activate & carrier list."
 keywords: ["samsung esim", "samsung phones with esim", "samsung esim compatible phones", "samsung esim phones list", "samsung galaxy esim", "does samsung have esim", "does samsung a15 have esim", "does samsung a16 have esim", "does samsung a32 have esim", "does samsung a35 have esim", "does samsung a54 have esim", "does samsung s21 have esim", "does samsung s22 have esim", "does samsung s23 have esim", "does samsung s24 have esim", "does samsung s25 have esim", "samsung a15 esim", "samsung a16 esim", "samsung a32 esim", "samsung a35 esim", "samsung a54 esim", "samsung a56 esim", "samsung s21 esim", "samsung s22 esim", "samsung s23 esim", "samsung s24 esim", "samsung s25 esim", "samsung galaxy a15 esim", "samsung galaxy a16 esim", "samsung galaxy a32 esim", "samsung galaxy s21 esim", "samsung galaxy s22 esim", "samsung galaxy s23 esim", "samsung galaxy s24 esim", "samsung galaxy s25 esim", "samsung s22 ultra esim", "samsung s23 ultra esim", "samsung s24 ultra esim", "samsung s25 ultra esim", "samsung galaxy s22 ultra esim support", "samsung galaxy s24 ultra esim support", "samsung a15 esim compatible", "samsung a16 esim compatible", "samsung a32 esim compatible", "samsung a15 5g esim", "samsung a16 5g esim", "samsung galaxy a15 5g esim", "samsung galaxy a16 5g esim", "samsung esim activation", "samsung galaxy a16 esim support"]
-date: 2026-06-01T10:00:00Z
-lastmod: 2026-06-01T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["Samsung", "eSIM", "Compatibility", "Galaxy S21", "Galaxy S22", "Galaxy S23", "Galaxy S24", "Galaxy S25", "Galaxy A series", "Galaxy Z series"]
 toc: true
 

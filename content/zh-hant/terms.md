@@ -1,15 +1,16 @@
 ---
 title: "Roami 服務條款 | 您的全球 eSIM 使用協議"
 description: "閱讀使用 Roami 全球 eSIM 連接解決方案的服務條款。"
-last_updated: "2026年5月"
-date: '2026-05-19T00:00:00+00:00'
+last_updated: "2026年6月"
+date: '2026-06-09T00:00:00+00:00'
 layout: "terms"
 type: "page"
+h1_title: "Roami 使用者條款"
 ---
 
 # Roami 服務條款
 
-📅 **最後更新：2026年5月10日**
+📅 **最後更新：2026年6月**
 
 ---
 

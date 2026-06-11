@@ -273,11 +273,6 @@ destinations:
           slug: "algeria-esim"
           price: "From $1.99"
           tags: ["High-Speed"]
-        - flag: "et.svg"
-          name: "Ethiopia eSIM"
-          slug: "ethiopia-esim"
-          price: "From $1.99"
-          tags: ["Unlimited Data"]
         - flag: "ke.svg"
           name: "Kenya eSIM"
           slug: "kenya-esim"

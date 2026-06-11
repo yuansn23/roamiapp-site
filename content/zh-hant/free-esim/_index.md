@@ -1,10 +1,10 @@
 ---
 title: "領取免費eSIM | 全球旅行數據試用"
 layout: "free-esim-list"
-date: '2026-05-19T00:00:00+00:00'
+date: '2026-06-10T00:00:00+00:00'
 
 seo:
-  title: "免費eSIM | 免信用卡 | 零漫遊費 | Roami"
+  title: "免費eSIM | 免信用卡 | 零漫遊費 "
   description: "立即領取您的免費 eSIM，體驗全球順暢的網路連線。包含日本、泰國、美國、歐洲等熱門目的地的免費數據方案。無需信用卡，三步驟輕鬆啟用。"
   keywords: "免費 eSIM, 旅行 eSIM, 國際數據方案, 零漫遊費, 數位 SIM 卡, 全球上網, 預付 eSIM, QR code eSIM"
   canonical_url: "/free-esim/"

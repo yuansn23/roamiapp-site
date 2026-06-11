@@ -1,15 +1,15 @@
 ---
 title: "Informativa sulla Privacy | Come Proteggiamo i Tuoi Dati"
 description: "Come Roami gestisce le tue informazioni personali. Conforme al GDPR, nessuna vendita di dati, pratiche trasparenti per i viaggiatori globali."
-last_updated: "Maggio 2026"
-date: '2026-06-04T00:00:00+00:00'
+last_updated: "Giugno 2026"
+date: '2026-06-09T00:00:00+00:00'
 type: "page"
-layout: "privacy"  
+layout: "privacy" 
+h1_title: "Roami Politica sulla privacy" 
 ---
 
-# Informativa sulla privacy di Roami
 
-**Ultimo aggiornamento: Maggio 2026**
+**Ultimo aggiornamento: Giugno 2026**
 
 Benvenuto su Roami! La presente Informativa sulla privacy spiega come raccogliamo, utilizziamo e divulghiamo le tue informazioni quando utilizzi i nostri servizi e ti informa sui tuoi diritti alla privacy e su come la legge ti tutela.
 

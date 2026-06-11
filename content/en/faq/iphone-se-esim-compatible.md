@@ -1,9 +1,10 @@
 ---
 title: "Does iPhone SE Support eSIM? Full Guide(Update)"
+h1_title: "Does the iPhone SE Support eSIM? A Complete Guide (Updated)"
 description: "iPhone SE (2020/2022) support eSIM – original 2016 SE does not. Verify with *#06#. Works with major carriers and global eSIM providers."
 keywords: ["iphone se esim compatible", "iphone se 2020 esim compatible", "iphone se 2nd gen esim", "iphone se 3rd gen esim", "iphone se 2nd generation esim compatible", "airalo compatible phones", "visible esim compatible phones", "verizon esim compatibility", "us mobile esim compatible devices", "holafly compatible phones", "jio esim compatible phones", "dual sim compatible", "list of iphones that support esim", "esim capable iphones", "iphone esim compatible", "esim iphone compatibility", "iphone 6s esim compatible", "iphone 7 esim compatible", "iphone 8 esim compatible", "iphone se compatible with esim", "does iphone se have esim", "iphone se 3rd gen esim support", "iphone se 2020 esim capable", "esim iphone se 2020"]
-date: 2026-05-22T10:00:00Z
-lastmod: 2026-05-22T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["iPhone", "eSIM", "Compatibility", "iPhone SE"]
 toc: true
 

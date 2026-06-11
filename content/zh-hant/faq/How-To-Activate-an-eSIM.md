@@ -1,9 +1,10 @@
 ---
 title: "如何在 iPhone 和 Android 上啟用 eSIM"
+h1_title: "如何在 iPhone 和 Android 上啟用 eSIM"
 description: "完整的 eSIM 啟用指南：如何在 iPhone 和 Android 上連接 eSIM、掃描 QR 碼、設定旅遊用 eSIM、排除啟用錯誤。購買 eSIM 並在一分鐘內完成安裝。"
 keywords: ["eSIM 啟用", "如何啟用 eSIM", "在 iPhone 上設定 eSIM", "Android eSIM", "eSIM QR 碼", "旅遊 eSIM", "eSIM 故障排除", "如何在 iPhone 上連接 eSIM", "eSIM 設定", "購買 eSIM", "旅行用 eSIM", "支援 eSIM 的手機", "eSIM 無服務", "中華電信 iphone esim", "台灣大哥大 iphone esim", "遠傳 esim 設定", "中華電信 esim 設定", "台哥大 esim iphone"]
-date: 2026-05-18T10:00:00Z
-lastmod: 2026-05-18T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "故障排除", "旅行設定"]
 toc: true
 image: "/images/esim-activation-guide.jpg"

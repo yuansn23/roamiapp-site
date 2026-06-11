@@ -1,9 +1,10 @@
 ---
 title: "Активация eSIM: как подключить на iPhone и Android"
+h1_title: "Как активировать eSIM на iPhone и Android"
 description: "Пошаговое руководство по активации eSIM на iPhone и Android. Настройка через QR-код или приложение оператора. Решение частых ошибок. Совместимость с iPhone 17, Samsung, Pixel. Туристические eSIM для Турции, Египта, Китая, Казахстана."
 keywords: ["активация eSIM", "как активировать eSIM", "настройка eSIM на iPhone", "eSIM на Android", "QR-код eSIM", "туристическая eSIM", "устранение неполадок eSIM", "купить eSIM", "iPhone 17 eSIM", "как подключить eSIM на айфон", "eSIM для путешествий", "телефоны поддерживающие eSIM", "сколько eSIM", "две eSIM", "esim мтс", "билайн esim", "теле2 esim", "yota esim", "esim турция", "esim египет", "esim китай"]
-date: 2026-05-25T10:00:00Z
-lastmod: 2026-05-25T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Устранение неполадок", "Настройка для путешествий"]
 toc: true
 image: "/images/esim-activation-guide.jpg"

@@ -1,9 +1,10 @@
 ---
 title: "2026 美國 eSIM 完整指南：如何挑選最佳方案？"
+h1_title: "2026 美國 eSIM 完整指南：如何挑選最佳方案"
 description: "本指南全面介紹 2026 年美國 eSIM 方案的選擇，包括數據量、價格、網路覆蓋與隱藏條款的詳細比較。"
 keywords: ["eSIM 啟用", "如何啟用 eSIM", "在 iPhone 上設定 eSIM", "Android eSIM", "eSIM QR 碼", "旅遊 eSIM", "eSIM 故障排除"]
-date: 2026-05-19T10:00:00Z
-lastmod: 2026-05-19T10:00:00Z
+date: 2026-06-10T10:00:00Z
+lastmod: 2026-06-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "故障排除", "旅行設定"]
 toc: true
 image: "/images/esim-activation-guide.jpg"
