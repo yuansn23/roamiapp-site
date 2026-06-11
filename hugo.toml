@@ -63,7 +63,7 @@ disableKinds = ["taxonomy", "term"]
     footer_col1_title = "Top Destinations"
     # 优化：将纯文本改为带链接的对象，并使用绝对路径
   footer_col1_links = [
-{name="Asia eSIM", url="/Asia-eSIM/"}, 
+{name="Asia eSIM", url="/asia-esim/"}, 
 {name="Europe eSIM", url="/europe-esim/"}, 
 {name="Africa eSIM", url="/africa-esim/"}, 
 {name="South America eSIM", url="/south-america-esim/"}, 
@@ -125,7 +125,7 @@ disableKinds = ["taxonomy", "term"]
   
   footer_col1_title = "Top-Reiseziele"
 footer_col1_links = [
-  { name = "Asien eSIM", url = "/Asia-eSIM/" },
+  { name = "Asien eSIM", url = "/asia-esim/" },
   { name = "Europa eSIM", url = "/europe-esim/" },
   { name = "Afrika eSIM", url = "/africa-esim/" },
   { name = "Südamerika eSIM", url = "/south-america-esim/" },
@@ -185,7 +185,7 @@ footer_col1_links = [
     footer_col1_title = "Популярные направления"
     # Оптимизация: простой текст заменён на объекты со ссылками, используются абсолютные пути
 footer_col1_links = [
-  { name = "Азия eSIM", url = "/Asia-eSIM/" },
+  { name = "Азия eSIM", url = "/asia-esim/" },
   { name = "Европа eSIM", url = "/europe-esim/" },
   { name = "Африка eSIM", url = "/africa-esim/" },
   { name = "Южная Америка eSIM", url = "/south-america-esim/" },
@@ -241,7 +241,7 @@ nav_links = [
 footer_desc = "Services eSIM premium dans plus de 200 pays et régions – restez connecté où que vous voyagiez."
 footer_col1_title = "Destinations phares"
 footer_col1_links = [
-  { name = "Asie eSIM", url = "/Asia-eSIM/" },
+  { name = "Asie eSIM", url = "/asia-esim/" },
   { name = "Europe eSIM", url = "/europe-esim/" },
   { name = "Afrique eSIM", url = "/africa-esim/" },
   { name = "Amérique du Sud eSIM", url = "/south-america-esim/" },
@@ -294,7 +294,7 @@ weight = 5
 
     footer_col1_title = "熱門目的地"
 footer_col1_links = [
-  { name = "亞洲 eSIM", url = "/Asia-eSIM/" },
+  { name = "亞洲 eSIM", url = "/asia-esim/" },
   { name = "歐洲 eSIM", url = "/europe-esim/" },
   { name = "非洲 eSIM", url = "/africa-esim/" },
   { name = "南美洲 eSIM", url = "/south-america-esim/" },
@@ -349,7 +349,7 @@ footer_col1_links = [
 
   footer_col1_title = "Destinazioni Top"
 footer_col1_links = [
-  { name = "Asia eSIM", url = "/Asia-eSIM/" },
+  { name = "Asia eSIM", url = "/asia-esim/" },
   { name = "Europa eSIM", url = "/europe-esim/" },
   { name = "Africa eSIM", url = "/africa-esim/" },
   { name = "Sud America eSIM", url = "/south-america-esim/" },
