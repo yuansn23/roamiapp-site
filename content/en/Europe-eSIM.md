@@ -1,8 +1,7 @@
 ---
-title: Europe eSIM | 40+ Countries, One Plan, No Roaming Fees
-description: Travel Europe with one prepaid Roami eSIM — the best eSIM for multi-country Europe travel. Cross-border 5G across 47 countries with instant activation on local networks. No roaming fees. Unlimited
-  data plans from $5.
-date: 2026-06-08
+title: "Europe eSIM | Best Prepaid Plan for 40+ Countries"
+description: "Travel across Europe with one prepaid travel eSIM from Roami. Unlimited 5G data in 40+ countries. No SIM swapping, no roaming. Buy your plan online."
+date: '2026-06-11T00:00:00+00:00'
 lastmod: 2026-06-08
 type: regional-esim
 url: /europe-esim/

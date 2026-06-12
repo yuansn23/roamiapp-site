@@ -1,6 +1,6 @@
 ---
 title: India eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "India eSIM | 20% OFF, No Local ID Needed"
-  description: "Travel India with Roami eSIM. Reliable 5G nationwide, no local address or ID required. Instant activation. Plans from $1.99."
+  title: "India eSIM | Buy Fast Prepaid Data Plan"
+  description: "Travel to India with Roami's best prepaid travel eSIM. Unlimited 5G data with no local ID required. Instant activation. Buy your plan from $1.99."
   keywords: ''
   low_price: 1.99
   high_price: 39.9

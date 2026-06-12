@@ -2,13 +2,13 @@
 title: "About Roami | The eSIM expert connecting global travelers"
 description: "Learn more about Roami, your one-stop network solution for global travelers. Headquartered in the USA with offices worldwide, providing cost-effective eSIM plans."
 layout: "about"
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 type: "page"
 
 # SEO
 seo:
-  title: "About Roami | eSIM for Global Travelers"
-  description: "Roami provides affordable 5G eSIM to over 1M travelers in 200+ countries. Meet the team behind your connectivity."
+  title: "About Roami | Buy Prepaid Travel Data Online"
+  description: "Roami provides the best prepaid travel eSIM to over 1M travelers. Buy unlimited data plans for 200+ countries. Meet the team behind your connectivity."
   image: "/img/og-about.jpg"
 
 # JSON-LD Schema

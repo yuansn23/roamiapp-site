@@ -1,6 +1,6 @@
 ---
 title: United Kingdom eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "UK eSIM | 20% OFF, Unlimited 5G Data"
-  description: "Stay online across the UK with Roami eSIM. Fast 5G, unlimited data, instant QR setup. Covers London, Edinburgh & nationwide."
+  title: "UK eSIM | Ultimate Travel Data Plan"
+  description: "Travel to the UK with Roami's best prepaid travel eSIM. Unlimited 5G data with instant QR activation. Buy your plan before your trip. Covers all major cities."
   keywords: uk esim, esim uk, best esim for uk, e sim uk, prepaid esim uk, unlimited data esim uk, cheap esim uk, esim for uk travel, temporary esim uk, buy esim online uk, esim uk tourist, uk travel esim, best prepaid esim uk, london esim, esim scotland, pay as you go esim uk
   low_price: 1.99
   high_price: 39.9

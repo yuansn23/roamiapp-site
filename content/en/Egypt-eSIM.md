@@ -1,6 +1,6 @@
 ---
 title: Egypt eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Egypt eSIM | Save 20%, Unlimited 5G Data"
-  description: "Explore Egypt with Roami eSIM. Reliable 5G nationwide. Instant QR activation. Unlimited data plans. No roaming charges."
+  title: "Egypt eSIM | Buy Best eSIM Plan for Tourists"
+  description: "Get the best prepaid travel eSIM for Egypt from Roami. Unlimited 5G data on top networks. Instant QR activation. Covers Cairo, Alexandria & Giza."
   keywords: ''
   low_price: 1.99
   high_price: 39.9

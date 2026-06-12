@@ -1,6 +1,6 @@
 ---
 title: Latvia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Latvia eSIM | Reliable 5G Nationwide"
-  description: "Visit Latvia with Roami eSIM. Reliable 5G nationwide. Instant activation. Unlimited data from $1.99."
+  title: "Latvia eSIM | Best Prepaid Plan for Travel"
+  description: "Explore Latvia with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Instant QR activation. Covers Riga, Daugavpils & Jurmala."
   keywords: Latvia eSIM, prepaid eSIM Latvia, cheap eSIM Latvia, unlimited data eSIM
     Latvia, travel internet Latvia, buy eSIM Latvia, Roami eSIM
   low_price: 1.99

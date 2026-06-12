@@ -1,6 +1,6 @@
 ---
 title: Seychelles eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Seychelles eSIM | Reliable 5G Across Islands"
-  description: "Island-hop Seychelles with Roami eSIM. Reliable 5G on Mahe, Praslin & La Digue. Instant QR activation. Unlimited data."
+  title: "Seychelles eSIM | Best Travel eSIM for Your Journey"
+  description: "Enjoy unlimited 5G data in Seychelles with Roami's best prepaid travel eSIM. Covers Mahe, Praslin & La Digue. Instant activation Buy your plan online today."
   keywords: Seychelles eSIM, travel internet Seychelles, instant delivery eSIM, no
     roaming charges eSIM, QR code activation, cheap eSIM Seychelles, Roami eSIM
   low_price: 1.99

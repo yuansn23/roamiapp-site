@@ -1,6 +1,6 @@
 ---
 title: Bahamas eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Bahamas eSIM | Reliable 5G Across Islands"
-  description: "Explore the Bahamas with Roami eSIM. Reliable 5G across the islands. Instant activation. Unlimited data. No roaming."
+  title: "Bahamas eSIM | Best Prepaid Plan for Travel"
+  description: "Get the best prepaid travel eSIM for the Bahamas from Roami. Unlimited 5G data across 700+ islands. Covers Nassau, Freeport & Exuma. Instant activation."
   keywords: Bahamas eSIM, travel eSIM Bahamas, Bahamas 5G, Bahamas prepaid eSIM, instant
     eSIM Bahamas
   low_price: 1.99

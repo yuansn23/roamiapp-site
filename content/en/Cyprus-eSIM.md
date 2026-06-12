@@ -1,6 +1,6 @@
 ---
 title: Cyprus eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Cyprus eSIM | Reliable 5G Island-Wide"
-  description: "Stay connected in Cyprus with Roami eSIM. Reliable 5G across the island. Instant activation. Unlimited data from $1.99."
+  title: "Cyprus eSIM | Best eSIM Plan for Tourists"
+  description: "Enjoy unlimited 5G data in Cyprus with Roami's best prepaid travel eSIM. Island-wide coverage. Covers Nicosia, Limassol & Paphos. Instant activation."
   keywords: Cyprus eSIM, prepaid eSIM Cyprus, cheap eSIM Cyprus, travel internet Cyprus,
     instant delivery eSIM
   low_price: 1.99

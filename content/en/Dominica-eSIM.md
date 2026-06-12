@@ -1,6 +1,6 @@
 ---
 title: Dominica eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Dominica eSIM | Fast 5G Island-Wide"
-  description: "Visit Dominica with Roami eSIM. Fast 5G across the island. Instant activation. Unlimited data plans. No contract."
+  title: "Dominica eSIM | Best Prepaid eSIM for Travelers"
+  description: "Planning a trip to Dominica? Get Roami's best prepaid travel eSIM with unlimited 5G data. Covers Roseau & all parishes. Instant activation."
   keywords: Dominica eSIM, travel internet, instant delivery, no roaming charges,
     QR code activation, Digicel, Flow
   low_price: 1.99

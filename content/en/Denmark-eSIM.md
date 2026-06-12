@@ -1,6 +1,6 @@
 ---
 title: Denmark eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Denmark eSIM | 20% OFF, No Contract Needed"
-  description: "Travel Denmark with Roami eSIM. Reliable 5G nationwide. Instant activation, no contract. Unlimited data from $1.99."
+  title: "Denmark eSIM | Best Prepaid Plan for Travel"
+  description: "Travel to Denmark with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation. Covers Copenhagen, Aarhus & beyond."
   keywords: Denmark eSIM, prepaid eSIM Denmark, unlimited data Denmark, travel internet
     Denmark, eSIM for Denmark
   low_price: 1.99

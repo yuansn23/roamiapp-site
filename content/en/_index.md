@@ -1,7 +1,7 @@
 ---
-title: "Global Travel eSIM: High-Speed 5G"
-date: '2026-06-05T14:41:24+00:00'
-description: "Global 5G eSIM from $1.99. No physical SIM, instant activation. Code WEB20 for 20% off. 24/7 real person support."
+title: "Global eSIM | 5G Data in 200+ Countries"
+date: '2026-06-11T14:41:24+00:00'
+description: "Stay connected in 200+ countries with Roami eSIM. Instant 5G activation. No physical SIM needed. Plans from $1.99. Global coverage, local rates."
 
 
 button:

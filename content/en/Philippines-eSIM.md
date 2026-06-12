@@ -1,6 +1,6 @@
 ---
 title: Philippines eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Philippines eSIM | 20% OFF, Reliable 5G"
-  description: "Explore the Philippines with Roami eSIM. Reliable 5G in Manila, Cebu & major islands. Instant QR activation. Unlimited data."
+  title: "Philippines eSIM | Buy Prepaid eSIM for Travelers"
+  description: "Get the best prepaid travel eSIM for the Philippines from Roami. Unlimited 5G data on top networks. Covers Manila, Cebu & 7,000 islands. Instant activation."
   keywords: Philippines eSIM, prepaid eSIM Philippines, cheap eSIM Philippines, unlimited
     data Philippines, travel internet Philippines
   low_price: 1.99

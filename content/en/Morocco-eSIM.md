@@ -1,6 +1,6 @@
 ---
 title: Morocco eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Morocco eSIM | Save 20%, Fast 5G Data"
-  description: "Travel Morocco with Roami eSIM. Fast 5G nationwide. Instant activation. Unlimited data from $1.99. No contract."
+  title: "Morocco eSIM | Buy Prepaid eSIM for Travelers"
+  description: "Planning a trip to Morocco? Get Roami's best prepaid travel eSIM with unlimited 5G data. Covers Casablanca, Marrakech & Rabat. Instant activation."
   keywords: Morocco eSIM, travel internet Morocco, instant delivery eSIM, no roaming
     charges, QR code activation
   low_price: 1.99

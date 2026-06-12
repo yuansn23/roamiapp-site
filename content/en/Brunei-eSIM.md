@@ -1,6 +1,6 @@
 ---
 title: Brunei eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Brunei eSIM | Fast 5G Nationwide"
-  description: "Visit Brunei with Roami eSIM. Fast 5G across the sultanate. Instant QR activation. Unlimited data for business & leisure."
+  title: "Brunei eSIM | Ultimate Travel Data Plan"
+  description: "Get ready for Brunei with Roami's best prepaid travel eSIM. Unlimited 5G data across the sultanate. Covers Bandar Seri Begawan. Instant activation."
   keywords: Brunei eSIM, prepaid eSIM Brunei, cheap eSIM Brunei, unlimited data Brunei,
     travel eSIM Brunei
   low_price: 1.99

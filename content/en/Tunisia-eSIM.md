@@ -1,6 +1,6 @@
 ---
 title: Tunisia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Tunisia eSIM | Fast 5G, No Roaming Fees"
-  description: "Visit Tunisia with Roami eSIM. Fast 5G nationwide. Instant activation. Unlimited data plans. No roaming charges."
+  title: "Tunisia eSIM | Top Prepaid Travel eSIM Plan"
+  description: "Explore Tunisia with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Covers Tunis, Sfax & Sousse. Instant activation."
   keywords: Tunisia eSIM, prepaid eSIM Tunisia, travel internet Tunisia, cheap eSIM
     Tunisia, instant delivery eSIM, no roaming charges
   low_price: 1.99

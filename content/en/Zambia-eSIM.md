@@ -1,6 +1,6 @@
 ---
 title: Zambia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Zambia eSIM | Reliable 5G Nationwide"
-  description: "Explore Zambia with Roami eSIM. Reliable 5G nationwide. Instant QR activation. Unlimited data plans. No contract."
+  title: "Zambia eSIM | Ultimate Travel Data Plan"
+  description: "Travel to Zambia with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Lusaka, Kitwe & Ndola. Instant activation Buy your plan online today."
   keywords: Zambia eSIM, cheap eSIM, travel internet Zambia, no roaming charges, instant
     delivery eSIM, QR code activation
   low_price: 1.99

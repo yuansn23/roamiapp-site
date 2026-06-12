@@ -1,6 +1,6 @@
 ---
 title: Mexico eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Mexico eSIM | 20% OFF, Unlimited 5G Data"
-  description: "Stay connected in Mexico with Roami eSIM. Unlimited 5G nationwide, no roaming fees. Instant activation. Plans from $1.99."
+  title: "Mexico eSIM | Buy Unlimited Data Plan for Travelers"
+  description: "Get the best prepaid travel eSIM for Mexico from Roami. Unlimited 5G data nationwide with no roaming fees. Instant activation. Covers Cancun, Mexico City & beyond."
   keywords: mexico esim, esim mexico, best esim for mexico, e sim mexico, prepaid esim mexico, unlimited data esim mexico, cheap esim mexico, esim for mexico travel, temporary esim mexico, buy esim online mexico, esim mexico tourist, mexico travel esim, best prepaid esim mexico
   low_price: 1.99
   high_price: 39.9

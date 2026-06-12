@@ -1,8 +1,8 @@
 ---
 title: "Terms of Service | eSIM Usage Agreement"
-description: "Review Roami terms for eSIM use in 200+ countries. Covers fair usage, account rules, and refund eligibility."
+description: "Review Roami terms for prepaid travel eSIM plans in 200+ countries. Covers fair usage, account rules, and unlimited data refund eligibility."
 last_updated: "June 2026"
-date: '2026-06-09T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 layout: "terms"
 type: "page"
 h1_title: "Roami Terms of Service"

@@ -1,8 +1,7 @@
 ---
-title: Asia eSIM | 15+ Countries, 20% OFF, One Plan
-description: Backpack Asia with one prepaid Roami eSIM — the best eSIM for Asia travel covering Japan, Korea, Thailand, Singapore & 12+ more. Instant activation on local networks with no roaming fees. Plans
-  from $1.99.
-date: '2026-06-08'
+title: "Asia eSIM | Best Travel Plan for 15+ Countries"
+description: "Explore Asia with Roami's best prepaid travel eSIM. Unlimited 5G data across Japan, Korea, Thailand & 12+ countries. One plan for your entire journey."
+date: '2026-06-11T00:00:00+00:00'
 lastmod: '2026-06-08'
 type: regional-esim
 url: /asia-esim/

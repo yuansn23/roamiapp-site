@@ -1,6 +1,6 @@
 ---
 title: South Africa eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "South Africa eSIM | 20% OFF, Fast 5G"
-  description: "Discover South Africa with Roami eSIM. Fast 5G from Cape Town to Joburg. Instant activation. Unlimited data from $1.99."
+  title: "South Africa eSIM | Prepaid Data Plan for Your Trip"
+  description: "Travel to South Africa with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Instant activation. Covers Cape Town & Johannesburg."
   keywords: South Africa eSIM, prepaid eSIM South Africa, buy eSIM South Africa, cheap
     eSIM South Africa, unlimited data South Africa
   low_price: 1.99

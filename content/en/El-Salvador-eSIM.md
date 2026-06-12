@@ -1,6 +1,6 @@
 ---
 title: El Salvador eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "El Salvador eSIM | Reliable 5G Nationwide"
-  description: "Stay connected in El Salvador with Roami eSIM. Reliable 5G nationwide. Instant QR activation. Unlimited data. No contract."
+  title: "El Salvador eSIM | Best Travel eSIM for Your Journey"
+  description: "Enjoy fast 5G data in El Salvador. Unlimited 5G data with instant activation. Covers San Salvador, Santa Ana & San Miguel. Instant activation."
   keywords: El Salvador eSIM, travel internet, instant delivery, no roaming charges,
     QR code activation
   low_price: 1.99

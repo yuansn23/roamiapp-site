@@ -1,6 +1,6 @@
 ---
 title: United States eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "USA eSIM | 20% OFF, Unlimited 5G Data"
-  description: "Travel the USA with Roami eSIM. Unlimited 5G data on top US networks. Instant activation, no contract. Works in all 50 states."
+  title: "USA eSIM | Best Prepaid eSIM for Travelers"
+  description: "Planning a trip to the USA? Get the best prepaid travel eSIM from Roami with unlimited 5G data on top networks. Instant activation nationwide. Plans from $1.99."
   keywords: usa esim, esim usa, best eSIM for usa, e sim usa, prepaid esim usa, unlimited data esim usa, cheap esim usa, esim for usa travel, temporary esim usa, buy eSIM online usa, esim usa tourist, usa travel esim, best prepaid esim usa
   low_price: 1.99
   high_price: 39.9

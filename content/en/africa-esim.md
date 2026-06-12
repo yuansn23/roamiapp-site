@@ -1,7 +1,6 @@
 ---
 title: Africa eSIM | 30 Countries, 5G from Cape Town to Cairo
-description: Stay connected across Africa with one prepaid Roami eSIM. The best eSIM for Africa travel — 5G in 30 countries including South Africa, Egypt, Morocco, Kenya & Nigeria. Prepaid plans with instant
-  activation, no roaming fees, and local network speeds. From $1.99.
+description: "Roami Africa eSIM: Prepaid 5G in 30 countries South Africa, Egypt, Morocco, Kenya, Nigeria. Instant activation, no roaming fees. From $1.99."
 date: '2026-06-08'
 lastmod: '2026-06-08'
 type: regional-esim

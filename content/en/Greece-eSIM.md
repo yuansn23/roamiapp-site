@@ -1,6 +1,6 @@
 ---
 title: Greece eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Greece eSIM | 20% OFF, No Roaming Fees"
-  description: "Island-hop Greece with Roami eSIM. Fast 5G on mainland & islands. Instant activation. Unlimited data. No roaming charges."
+  title: "Greece eSIM | Top Prepaid Travel eSIM Plan"
+  description: "Explore Greece with the best prepaid travel eSIM from Roami. Unlimited 5G data on mainland & islands. Instant activation. Covers Athens, Santorini & Mykonos."
   keywords: Greece eSIM, travel internet, no roaming charges, instant delivery, QR
     code activation
   low_price: 1.99

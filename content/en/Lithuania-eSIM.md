@@ -1,6 +1,6 @@
 ---
 title: Lithuania eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Lithuania eSIM | Fast 5G Nationwide"
-  description: "Discover Lithuania with Roami eSIM. Fast 5G nationwide. Instant QR activation. Unlimited data plans. No contract."
+  title: "Lithuania eSIM | Fast & Reliable Prepaid Data Plan"
+  description: "Travel smart with a prepaid eSIM for Lithuania. Unlimited 5G data with instant activation. Covers Vilnius, Kaunas & Klaipeda Buy your plan online today."
   keywords: Lithuania eSIM, Lithuania travel internet, eSIM Lithuania, Tele2 Lithuania,
     Telia Lithuania, BITE Lithuania, instant eSIM, no roaming charges
   low_price: 1.99

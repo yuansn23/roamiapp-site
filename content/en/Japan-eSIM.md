@@ -1,6 +1,6 @@
 ---
 title: Japan eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Japan eSIM | Save 20%, Unlimited 5G Data"
-  description: "Stay connected across Japan with Roami eSIM. Fast 5G, unlimited data, instant QR activation from $1.99."
+  title: "Japan eSIM | Buy Prepaid eSIM for Travelers"
+  description: "Stay connected in Japan with the best prepaid travel eSIM from Roami. Get unlimited 5G data with instant activation. Buy your plan online before you depart.."
   keywords: japan esim, esim japan, best esim for japan, e sim japan, prepaid esim japan, unlimited data esim japan, cheap esim japan, esim for japan travel, temporary esim japan, buy esim online japan, esim japan tourist, japan travel esim, best prepaid esim japan, esim tokyo, esim japan unlimited data, japan esim card
   low_price: 1.99
   high_price: 39.9

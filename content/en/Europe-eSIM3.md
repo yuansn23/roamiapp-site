@@ -1,6 +1,6 @@
 ---
 title: Europe eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Europe eSIM | 40+ Countries, Save 20% Now"
-  description: "Travel Europe with one Roami eSIM. Cross-border 5G in 40+ countries. No roaming, no SIM swapping. Instant QR. Plans from $5."
+  title: "Europe eSIM | Best Prepaid Plan for 40+ Countries"
+  description: "Travel across Europe with one prepaid travel eSIM from Roami. Unlimited 5G data in 40+ countries. No SIM swapping, no roaming. Buy your plan online."
   keywords: Europe eSIM, prepaid data Europe, travel internet Europe, eSIM for Europe,
     cheap data Europe, no roaming charges Europe, instant delivery eSIM
   low_price: 1.99

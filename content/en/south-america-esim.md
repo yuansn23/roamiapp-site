@@ -1,9 +1,8 @@
 ---
 title: South America eSIM | 11 Countries, 5G from $1.99
-description: Explore South America with one prepaid Roami eSIM — the best eSIM for South America travel. 5G in Brazil, Argentina, Chile, Colombia, Peru & 6 more countries. Instant activation on local networks.
-  Plans from $1.99.
-date: '2026-06-08'
-lastmod: '2026-06-08'
+description: "Roami South America eSIM: Prepaid 5G in Brazil, Argentina, Chile, Colombia, Peru & 6 more countries. Instant activation, no roaming fees. From $1.99."
+date: '2026-06-11'
+lastmod: '2026-06-11'
 type: regional-esim
 url: /south-america-esim/
 breadcrumbs:
@@ -58,7 +57,7 @@ country_section:
 carrier_section:
   title: Top South America Carrier Partners
   subtitle: Roami partners with 15+ carriers across South America. 5G is expanding rapidly in Brazil, Chile, Argentina, and Colombia.
-  footnote: '* Actual network speeds depend on your location, time of day, and network congestion. 5G availability varies by country and carrier.'
+  footnote: "* Actual network speeds depend on your location, time of day, and network congestion. 5G availability varies by country and carrier."
 vs_roaming:
   title: Why a South America eSIM Instead of Roaming
   subtitle: If you use your home carrier's international roaming in South America, you are almost certainly overpaying. Here is how they compare.

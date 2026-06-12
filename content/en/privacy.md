@@ -1,8 +1,8 @@
 ---
 title: "Privacy Policy | How We Protect Your Data"
-description: "How Roami handles your personal information. GDPR-compliant, no data selling, transparent practices for global travelers."
+description: "How Roami protects your data. GDPR-compliant practices for our prepaid travel eSIM plans. No data selling, transparent policies for global travelers."
 last_updated: "June 2026"
-date: '2026-06-09T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 type: "page"
 layout: "privacy"  
 h1_title: "Roami Privacy Policy"

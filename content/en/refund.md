@@ -3,12 +3,12 @@ title: "Roami Refund Policy | eSIM Purchase Guarantee"
 description: "Learn about Roami eSIM refund and return policy. We are committed to providing you with a satisfactory experience."
 layout: "refund"
 type: "page"
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 
 # SEO
 seo:
   title: "Refund Policy | eSIM Purchase Guarantee"
-  description: "Roami refund terms explained. Fair, hassle-free refunds if your eSIM doesn't work. Learn eligibility & how to claim."
+  description: "Roami refund terms for prepaid travel eSIM plans. Fair, hassle-free refunds if your plan doesn't work. Learn about eligibility and how to submit a claim."
   image: "/img/og-refund.jpg"
 
 # JSON-LD Schema（注意：这是 YAML 对象，不是多行字符串）

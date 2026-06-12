@@ -1,6 +1,6 @@
 ---
 title: Indonesia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New
     customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Indonesia eSIM | 20% OFF, Unlimited 5G Data"
-  description: "Stay connected across Indonesia with Roami eSIM. Fast 5G in Bali, Jakarta & major islands. Instant activation. Unlimited data."
+  title: "Indonesia eSIM | Buy Prepaid eSIM for Travelers"
+  description: "Stay connected in Indonesia with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Covers Bali, Jakarta & major islands. Instant."
   keywords: Indonesia eSIM, Indonesia travel internet, instant eSIM, no roaming charges,
     4G/5G Indonesia
   low_price: 1.99

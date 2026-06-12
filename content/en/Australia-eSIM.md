@@ -1,6 +1,6 @@
 ---
 title: Australia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Australia eSIM | 20% OFF, Unlimited 5G Data"
-  description: "Travel Australia with Roami eSIM. Fast 5G on top local networks nationwide. Instant activation, unlimited data. No contract."
+  title: "Australia eSIM | Best Prepaid Plan for Travel"
+  description: "Get ready for your Australia trip with the best prepaid travel eSIM from Roami. Unlimited 5G data with instant activation. Covers Sydney, Melbourne & beyond."
   keywords: Australia eSIM, cheap Australia eSIM, Australia travel internet, eSIM
     Australia, Roami eSIM
   low_price: 1.99
