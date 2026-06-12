@@ -2,6 +2,8 @@
 <html lang="{{ .Site.LanguageCode }}" class="scroll-smooth">
 
 <head>
+
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{ partial "head.html" . }}
@@ -10,15 +12,18 @@
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
     <meta property="og:description" content="{{ .Params.seo.description }}">
+	<!--
     <meta property="og:image" content="{{ site.Home.Permalink }}{{ strings.TrimPrefix "/" .Params.seo.og_image }}">
+	-->
     <meta property="og:site_name" content="Roami">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="{{ .Permalink }}">
     <meta name="twitter:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
     <meta name="twitter:description" content="{{ .Params.seo.description }}">
+	<!--
     <meta name="twitter:image" content="{{ site.Home.Permalink }}{{ strings.TrimPrefix "/" .Params.seo.og_image }}">
-
+	-->
 {{- /* 0. 提取纯国家名称（去除竖线、管道后的多余描述，以及 "eSIM" 等后缀） */ -}}
 {{- $countryName := .Params.hero.title -}}
 {{- /* 如果包含竖线 "|"，只取竖线之前的部分 */ -}}
@@ -95,7 +100,7 @@
     }
     </script>
 
-    {{ if .Params.activation_steps }}
+{{ if .Params.activation_steps }}
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -108,14 +113,17 @@
         {
           "@type": "HowToStep",
           "name": "{{ .title }}",
-          "text": "{{ .desc | plainify }}",
+          "text": {{ or .desc .title | plainify | jsonify }},
           "url": "{{ $.Permalink }}#step-{{ .num }}"
         }{{ if ne (add $index 1) $len }},{{ end }}
         {{ end }}
       ]
     }
     </script>
-    {{ end }}
+{{ end }}
+
+
+
 
     <link href="/css/tailwind-compiled.css?=11" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -924,5 +932,71 @@
   })(document, window, "_AIHECONG");
   _AIHECONG("ini",{ channelId : "U8rW8b" });
 </script>
+
+{{- $faqCategories := .Params.faq_section.categories -}}
+{{- $generalQuestions := slice -}}
+{{- if $faqCategories -}}
+    {{- range $category := $faqCategories -}}
+        {{- if and (eq $category.id "faq-general") ($category.questions) -}}
+            {{- $generalQuestions = $generalQuestions | append $category.questions -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+
+{{- if $generalQuestions -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{- range $index, $item := $generalQuestions -}}
+    {
+      "@type": "Question",
+      "name": {{ $item.q | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $item.a | jsonify }}
+      }
+    }{{- if ne (add $index 1) (len $generalQuestions) }},{{ end -}}
+    {{- end -}}
+  ]
+}
+</script>
+{{- end -}}
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ (site.Home.Permalink) }}img/logo.png",
+  "description": "{{ .Site.Params.description | default "Roami – global eSIM provider for travelers" }}",
+  "sameAs": [
+    "https://www.facebook.com/profile.php?id=61552827344440",
+    "https://www.youtube.com/@RoamiAPP",
+	"https://www.tiktok.com/@roamiesim",
+    "https://x.com/getTraveleSIM"
+  ]
+}
+</script>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.description | default "Global eSIM provider for seamless travel connectivity" }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ .Site.BaseURL }}/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
 </body>
 </html>
