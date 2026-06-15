@@ -1,7 +1,7 @@
 ---
-title: "Belgien eSIM-Leitfaden | Proximus, Orange oder Telenet?"
-description: "Roami vergleicht die belgischen Anbieter für Reise-eSIM. Dichtes 5G in Brüssel und landesweit. Welches Netz ist am besten?"
-date: '2026-06-04T00:00:00+00:00'
+title: "Belgium eSIM Guide | Proximus, Orange or Telenet?"
+description: "Roami compares Belgium's carriers for travel eSIM. Proximus, Orange & Telenet dense 5G in Brussels & nationwide. Find the fastest network for your visit."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Belgien, Prepaid Daten, 5G Netz, Proximus, Orange, Telenet, BASE, Roami
   eSIM, Belgien Reise, mobiles Internet
 site_name: Roami

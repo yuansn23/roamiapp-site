@@ -1,7 +1,7 @@
 ---
-title: "Niederlande eSIM-Leitfaden | KPN, Vodafone oder T-Mobile?"
-description: "Roami vergleicht niederländische Anbieter für Reise-eSIM. Dichtes 5G landesweit. Welches Netz gibt Ihnen die schnellsten Daten?"
-date: '2026-06-04T00:00:00+00:00'
+title: "NL eSIM Guide | KPN, Vodafone or T-Mobile?"
+description: "Roami compares Dutch carriers for travel eSIM. KPN, Vodafone & T-Mobile dense 5G nationwide. Find the fastest network for your trip to the Netherlands."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Niederlande, Prepaid Daten, 5G Netz, Odido, KPN, Vodafone, Reise Internet,
   Roaming vermeiden
 site_name: Roami

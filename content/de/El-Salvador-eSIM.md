@@ -1,6 +1,6 @@
 ---
 title: El Salvador eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "El Salvador eSIM | Zuverlässiges 5G landesweit"
-  description: "Bleiben Sie in El Salvador mit Roami eSIM verbunden. Zuverlässiges 5G landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten. Kein Vertrag."
+  title: "El Salvador eSIM | Ohne Vertrag & günstig reisen"
+  description: "Prepaid eSIM für El Salvador mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
   keywords: eSIM El Salvador, Reise Internet El Salvador, mobiles Internet El Salvador,
     El Salvador eSIM kaufen, Datenflat El Salvador
 order_summary:

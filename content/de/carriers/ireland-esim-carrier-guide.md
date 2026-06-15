@@ -1,7 +1,7 @@
 ---
-title: "Irland eSIM-Leitfaden | Vodafone, Three oder Eir?"
-description: "Roami vergleicht die irischen Anbieter für Reise-eSIM. 5G von Dublin bis zum Wild Atlantic Way. Finden Sie Ihr bestes Netz."
-date: '2026-06-04T00:00:00+00:00'
+title: "Ireland eSIM Guide | Vodafone, Three or Eir?"
+description: "Roami compares Ireland's carriers for travel eSIM. Vodafone, Three & Eir 5G from Dublin to countryside. Find the best network for your trip."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Irland, Prepaid Daten, 5G Netz, 3 Irland, Vodafone Irland, Eir Irland,
   Roami eSIM, digitale Nomaden Irland
 site_name: Roami

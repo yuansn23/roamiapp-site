@@ -1,7 +1,7 @@
 ---
-title: "Großbritannien eSIM-Leitfaden | EE, Vodafone, O2 oder Three?"
-description: "Roami vergleich alle vier britischen Netze für Reise-eSIM. 5G-Geschwindigkeiten und Abdeckung in ganz Großbritannien. Wählen Sie den richtigen Anbieter."
-date: '2026-06-04T00:00:00+00:00'
+title: "UK Carrier Guide | Best Prepaid eSIM Plans Compared"
+description: "Roami compares all four UK networks for travel eSIM. EE, Vodafone, O2 & Three 5G speeds across Britain. Pick the right carrier for your trip to the UK."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Großbritannien, Prepaid Daten, 5G Netz, EE, Vodafone, O2, Three, Roami
   eSIM, Reise eSIM UK
 site_name: Roami

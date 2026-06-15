@@ -1,6 +1,6 @@
 ---
 title: Russland eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Russland eSIM | Schnelles 5G, kein Vertrag nötig"
-  description: "Reisen Sie durch Russland mit Roami eSIM. Schnelles 5G in Moskau, St. Petersburg und landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten ab 1,99 $."
+  title: "Russland eSIM | Prepaid Datenvolumen für den Urlaub"
+  description: "Prepaid eSIM für Russland mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
   keywords: Russland eSIM, mobiles Internet Russland, Reise eSIM, LTE Russland, günstige
     eSIM
 order_summary:

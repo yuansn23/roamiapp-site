@@ -1,6 +1,6 @@
 ---
 title: Südafrika eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Südafrika eSIM | 20% RABATT, schnelles 5G"
-  description: "Entdecken Sie Südafrika mit Roami eSIM. Schnelles 5G von Kapstadt bis Johannesburg. Sofortige Aktivierung. Unbegrenzte Daten ab 1,99 $."
+  title: "Südafrika eSIM | Günstig kaufen & sofort aktivieren"
+  description: "Reisen Sie nach Südafrika mit Roamis günstiger Prepaid eSIM. Unbegrenztes Datenvolumen, sofort aktiviert, ohne Vertrag. Jetzt online kaufen. Deckt alle Regionen ab."
   keywords: Südafrika eSIM, Reise eSIM, mobiles Internet Südafrika, Auslandssim, Daten
     eSIM Südafrika
 order_summary:

@@ -1,7 +1,7 @@
 ---
-title: "Philippinen eSIM-Leitfaden | Globe, Smart oder DITO?"
-description: "Roami vergleicht PH-Anbieter für Reise-eSIM. 5G über Luzon, Visayas und Mindanao. Finden Sie Ihre beste Option für Inselreisen."
-date: '2026-06-04T00:00:00+00:00'
+title: "Philippines eSIM Guide | Globe, Smart or DITO?"
+description: "Roami compares PH carriers for travel eSIM. 5G across Luzon, Visayas & Mindanao. Find your best option for island trips."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Philippinen, Prepaid Daten, 5G Netz, Smart, Globe, DITO, Converge,
   Roaming Alternativen
 site_name: Roami

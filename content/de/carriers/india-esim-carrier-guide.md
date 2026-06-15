@@ -1,7 +1,7 @@
 ---
-title: "Indien eSIM-Leitfaden | Airtel, Jio oder Vi?"
-description: "Roami vergleicht die indischen Anbieter für Reise-eSIM. 5G in 28 Bundesstaaten. Welcher funktioniert ohne lokale ID? Geschwindigkeitsdaten im Inneren."
-date: '2026-06-04T00:00:00+00:00'
+title: "India eSIM Guide | Airtel, Jio or Vi?"
+description: "Roami compares India's carriers for travel eSIM. Airtel, Jio & Vi 5G across 28 states. Find which carriers work without a local ID. Speed test data inside."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Indien, Prepaid Daten, 5G Netz, Jio, Airtel, Roami eSIM, Reise-eSIM
   Indien
 site_name: Roami

@@ -1,6 +1,6 @@
 ---
 title: Australien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Australien eSIM | 20% RABATT, unbegrenzte 5G-Daten"
-  description: "Reisen Sie durch Australien mit Roami eSIM. Schnelles 5G in den besten lokalen Netzen landesweit. Sofortige Aktivierung, unbegrenzte Daten. Kein Vertrag."
+  title: "Australien eSIM | Beste Prepaid eSIM für die Reise"
+  description: "Die günstigste Prepaid eSIM für Australien von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar. Deckt Sydney, Melbourne & ganz."
   keywords: Australien eSIM, Reise eSIM Australien, mobiles Internet Australien, Datenflat
     Australien, Roaming Australien
 order_summary:

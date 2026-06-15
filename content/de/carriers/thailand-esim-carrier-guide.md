@@ -1,7 +1,7 @@
 ---
-title: "Thailand eSIM-Leitfaden | AIS, TrueMove oder dtac?"
-description: "Roami vergleicht thailändische Anbieter für Reise-eSIM. 5G in Bangkok, auf Inseln und in den Bergen. Finden Sie Ihre beste Option."
-date: '2026-06-04T00:00:00+00:00'
+title: "Thailand eSIM Guide | AIS, TrueMove or dtac?"
+description: "Roami compares Thai carriers for travel eSIM. AIS, TrueMove & dtac 5G in Bangkok, on islands & in the mountains. Find your best coverage option."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Thailand, Prepaid Daten, 5G Netz, AIS, TrueMove H, Reise eSIM, Thailand
   Internet
 site_name: Roami

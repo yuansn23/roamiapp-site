@@ -1,7 +1,7 @@
 ---
-title: "Schweiz eSIM-Leitfaden | Swisscom, Sunrise oder Salt?"
-description: "Roami vergleicht Schweizer Anbieter für Reise-eSIM. 5G von Städten bis zu Alpengipfeln. Welches Netz ist das zuverlässigste?"
-date: '2026-06-04T00:00:00+00:00'
+title: "Swiss eSIM Guide | Swisscom, Sunrise or Salt?"
+description: "Roami compares Swiss carriers for travel eSIM. Swisscom, Sunrise & Salt 5G from cities to Alpine peaks. Which network is the most reliable for travelers?."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Schweiz, Prepaid Daten, 5G Netz, Swisscom, Salt, Roami eSIM, Schweiz
   Reise
 site_name: Roami

@@ -1,6 +1,6 @@
 ---
 title: China eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "China eSIM | 20% RABATT, kein VPN nötig"
-  description: "Bleiben Sie in China mit Roami eSIM verbunden. Schnelles 5G in lokalen Netzen, kein VPN erforderlich. Sofortige Aktivierung. Funktioniert in allen großen"
+  title: "China eSIM | Günstigste Prepaid Reise eSIM"
+  description: "Die günstigste Prepaid eSIM für China von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar. Deckt Peking, Shanghai & alle Städte ab."
   keywords: China eSIM, Reise China, mobiles Internet China, China SIM Karte, günstige
     eSIM China
 order_summary:

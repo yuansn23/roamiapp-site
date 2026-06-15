@@ -1,6 +1,6 @@
 ---
 title: Costa Rica eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Costa Rica eSIM | 20% RABATT, zuverlässiges 5G"
-  description: "Entdecken Sie Costa Rica mit Roami eSIM. Zuverlässiges 5G landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten. Keine Roaming-Gebühren."
+  title: "Costa Rica eSIM | Günstigste Prepaid Reise eSIM"
+  description: "Reisen Sie nach Costa Rica mit Roamis günstiger Prepaid eSIM. Unbegrenztes Datenvolumen, sofort aktiviert, ohne Vertrag. Jetzt online kaufen. Deckt alle Regionen ab."
   keywords: Costa Rica eSIM, mobile Daten Costa Rica, Internet Costa Rica, Reise eSIM,
     LTE Costa Rica, 5G Costa Rica, Netzabdeckung Costa Rica
 order_summary:

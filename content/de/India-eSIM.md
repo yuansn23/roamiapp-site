@@ -1,6 +1,6 @@
 ---
 title: Indien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Indien eSIM | 20% RABATT, keine lokale ID nötig"
-  description: "Reisen Sie durch Indien mit Roami eSIM. Zuverlässiges 5G landesweit, keine lokale Adresse oder ID erforderlich. Sofortige Aktivierung. Tarife ab 1,99 $."
+  title: "Indien eSIM | Günstiges Datenvolumen für Urlaub & Reise"
+  description: "Die günstigste Prepaid eSIM für Indien von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar. Deckt Delhi, Mumbai & ganz Indien ab."
   keywords: Indien eSIM, mobiles Internet Indien, Reise eSIM Indien, Datenflatrate
     Indien, LTE Indien
 order_summary:

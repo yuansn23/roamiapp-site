@@ -1,6 +1,6 @@
 ---
 title: Estland eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Estland eSIM | Schnelles 5G landesweit"
-  description: "Bleiben Sie in Estland mit Roami eSIM verbunden. Schnelles 5G landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten. Kein Vertrag."
+  title: "Estland eSIM | Günstigste Prepaid Option für Reisende"
+  description: "Die günstigste Prepaid Reise eSIM für Estland von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle."
   keywords: eSIM Estland, mobile Daten Estland, Reise-Internet Estland, Estland eSIM,
     Internet für Estland, Estland Simkarte
 order_summary:

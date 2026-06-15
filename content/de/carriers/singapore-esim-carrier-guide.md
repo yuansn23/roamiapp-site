@@ -1,7 +1,7 @@
 ---
-title: "Singapur eSIM-Leitfaden | Singtel, StarHub oder M1?"
-description: "Roami bewertet die Anbieter Singapurs für Reise-eSIM. Ultraschnelles 5G auf der ganzen Insel. Geschwindigkeitsvergleiche für Geschäft und Freizeit."
-date: '2026-06-04T00:00:00+00:00'
+title: "Singapore eSIM Guide | Singtel, StarHub or M1?"
+description: "Roami rates Singapore's carriers for travel eSIM. Singtel, StarHub & M1 ultra-fast 5G island-wide. Speed benchmarks for business & leisure travelers."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Singapur, Prepaid Daten, 5G Netz, Singtel, M1, StarHub, SIMBA Telecom,
   Reise eSIM, Roami
 site_name: Roami

@@ -1,6 +1,6 @@
 ---
 title: Saudi-Arabien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Saudi-Arabien eSIM | Schnelles 5G landesweit"
-  description: "Reisen Sie durch Saudi-Arabien mit Roami eSIM. Schnelles 5G in Riad, Dschidda und landesweit. Sofortige QR-Einrichtung. Unbegrenzte Daten ab 1,99 $."
+  title: "Saudi-Arabien eSIM | Vergleichen & besten Tarif finden"
+  description: "Die günstigste Prepaid Reise eSIM für Saudi-Arabien von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort nutzbar nach Aktivierung. Deckt alle Regionen ab."
   keywords: eSIM Saudi-Arabien, Reise eSIM, mobiles Internet Saudi-Arabien, Daten
     eSIM, Saudi-Arabien Reise
 order_summary:

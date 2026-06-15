@@ -1,7 +1,7 @@
 ---
-title: "Tunesien eSIM-Leitfaden | Tunisie Telecom oder Orange?"
-description: "Roami vergleicht die tunesischen Anbieter für Reise-eSIM. 5G von Karthago bis Djerba. Welches Netz ist am schnellsten?"
-date: '2026-06-04T00:00:00+00:00'
+title: "Tunisia eSIM Guide | Tunisie Telecom or Orange?"
+description: "Roami compares Tunisia's carriers for travel eSIM. Tunisie Telecom & Orange 5G from Tunis nationwide. Find the fastest network for your trip."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Tunesien, Prepaid Daten, 5G Netz, Ooredoo, Tunisie Telecom, Orange
   Tunesien, Roami eSIM, Reise Internet Tunesien
 site_name: Roami

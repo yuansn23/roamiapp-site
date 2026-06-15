@@ -1,6 +1,6 @@
 ---
 title: Ungarn eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Ungarn eSIM | 20% RABATT, unbegrenzte 5G-Daten"
-  description: "Bleiben Sie in Ungarn mit Roami eSIM verbunden. Schnelles 5G landesweit. Sofortige Aktivierung. Unbegrenzte Daten ab 1,99 $."
+  title: "Ungarn eSIM | Ohne Vertrag & sofort nutzbar"
+  description: "Reisen Sie nach Ungarn mit Roamis günstiger Prepaid eSIM. Unbegrenztes Datenvolumen, sofort aktiviert, ohne Vertrag. Jetzt online kaufen. Deckt alle Regionen ab."
   keywords: Ungarn eSIM, mobiles Internet Ungarn, Reise eSIM Ungarn, günstige eSIM
     Ungarn, Ungarn Reisevorbereitung
 order_summary:

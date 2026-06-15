@@ -1,7 +1,7 @@
 ---
-title: "Portugal eSIM-Leitfaden | MEO, Vodafone oder NOS?"
-description: "Roami vergleicht die portugiesischen Anbieter für Reise-eSIM. 5G von Lissabon bis zur Algarve. Welches ist am schnellsten für Reisende?"
-date: '2026-06-04T00:00:00+00:00'
+title: "Portugal eSIM Guide | MEO, Vodafone or NOS?"
+description: "Roami compares Portugal's carriers for travel eSIM. MEO, Vodafone & NOS 5G from Lisbon to the Algarve. Find which network is fastest for travelers."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Portugal, Prepaid Daten, 5G Netz, MEO, NOS, Vodafone, DIGI, Roami
 site_name: Roami
 brand_name: Roami

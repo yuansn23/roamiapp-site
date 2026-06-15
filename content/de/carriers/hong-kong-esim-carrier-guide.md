@@ -1,7 +1,7 @@
 ---
-title: "Hongkong eSIM-Leitfaden | CMHK, CSL, 3 oder SmarTone?"
-description: "Roami testet alle vier HK-Anbieter für Reise-eSIM. Dichte städtische 5G-Analyse. Welches Netz gibt Ihnen die schnellsten Daten?"
-date: '2026-06-04T00:00:00+00:00'
+title: "HK eSIM Guide | CMHK, CSL, 3 or SmarTone?"
+description: "Roami tests all four Hong Kong carriers for travel eSIM. CMHK, CSL, 3 & SmarTone dense urban 5G analysis. Which network delivers the fastest data speeds?."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Hongkong, Prepaid Daten, 5G Netz, China Mobile Hong Kong, Netvigator,
   Reise eSIM
 site_name: Roami

@@ -1,6 +1,6 @@
 ---
 title: Aserbaidschan eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Aserbaidschan eSIM | Schnelles 5G landesweit"
-  description: "Besuchen Sie Aserbaidschan mit Roami eSIM. Schnelles 5G landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten ab 1,99 $. Kein Vertrag."
+  title: "Aserbaidschan eSIM | Prepaid für Reise & Urlaub"
+  description: "Die günstigste Prepaid Reise eSIM für Aserbaidschan von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort nutzbar nach Aktivierung. Deckt alle Regionen ab."
   keywords: eSIM Aserbaidschan, Reise eSIM, mobiles Internet Aserbaidschan, Daten
     eSIM, Reisevorbereitung Aserbaidschan
 order_summary:

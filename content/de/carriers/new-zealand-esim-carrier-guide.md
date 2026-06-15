@@ -1,7 +1,7 @@
 ---
-title: "Neuseeland eSIM-Leitfaden | Spark, One NZ oder 2degrees?"
-description: "Roami vergleicht neuseeländische Anbieter für Reise-eSIM. 5G auf beiden Inseln. Finden Sie das beste Netz für Roadtrips und abgelegene Gebiete."
-date: '2026-06-04T00:00:00+00:00'
+title: "NZ eSIM Guide | Spark, One NZ or 2degrees?"
+description: "Roami compares New Zealand carriers for travel eSIM. Spark, One NZ & 2degrees 5G on both the North & South Islands. Find your best option for road trips."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Neuseeland, Prepaid Daten, 5G Netz, One NZ, Spark, 2degrees, Roami
   eSIM
 site_name: Roami

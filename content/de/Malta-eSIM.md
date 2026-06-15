@@ -1,6 +1,6 @@
 ---
 title: Malta eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Malta eSIM | Schnelles 5G, unbegrenzte Datentarife"
-  description: "Entdecken Sie Malta mit Roami eSIM. Schnelles 5G auf allen drei Inseln. Sofortige QR-Aktivierung. Unbegrenzte Daten für Ihren Aufenthalt."
+  title: "Malta eSIM | Unbegrenztes Datenvolumen für unterwegs"
+  description: "Prepaid eSIM für Malta mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort aktivieren & nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle."
   keywords: Malta eSIM, mobile Daten Malta, Reise eSIM Malta, Internet Malta, 5G Malta,
     günstige eSIM Malta
 order_summary:

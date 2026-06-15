@@ -1,7 +1,7 @@
 ---
-title: "Deutschland eSIM-Leitfaden | Telekom, Vodafone oder O2?"
-description: "Roami bewertet die deutschen Netze für Reise-eSIM. 5G in Berlin, München und bundesweit. Finden Sie die zuverlässigste Option."
-date: '2026-06-04T00:00:00+00:00'
+title: "Germany Carrier Guide | Best Prepaid eSIM Plans"
+description: "Roami rates Germany's networks for travel eSIM. Telekom, Vodafone & O2 5G in Berlin, Munich & nationwide. Find the most reliable network for your trip."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Deutschland, Prepaid Daten, 5G Netz, Telekom, Vodafone, O2, Roami eSIM,
   Reise eSIM, Deutschland Reise
 site_name: Roami

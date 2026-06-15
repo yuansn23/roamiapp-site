@@ -1,7 +1,7 @@
 ---
-title: "Südafrika eSIM-Leitfaden | Vodacom, MTN oder Cell C?"
-description: "Roami vergleicht die südafrikanischen Anbieter für Reise-eSIM. 5G von Kapstadt bis Kruger. Finden Sie vor Ihrer Reise das beste Netz."
-date: '2026-06-04T00:00:00+00:00'
+title: "South Africa eSIM Guide | Vodacom, MTN or Cell C?"
+description: "Roami compares South African carriers for travel eSIM. Vodacom, MTN & Cell C 5G across major cities. Find the best network before your trip."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Südafrika, Prepaid Daten, 5G Netz, Vodacom, MTN, Roaming Alternativen
 site_name: Roami
 brand_name: Roami

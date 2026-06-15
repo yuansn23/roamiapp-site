@@ -1,7 +1,7 @@
 ---
-title: "Frankreich eSIM-Leitfaden | Orange, SFR oder Bouygues?"
-description: "Roami vergleicht französische Anbieter für Reise-eSIM. 5G in Paris, an der Riviera und in ländlichen Gebieten. Welcher bietet die schnellsten Geschwindigkeiten?"
-date: '2026-06-04T00:00:00+00:00'
+title: "France Carrier Guide | Best Prepaid eSIM Plans Compared"
+description: "Roami compares French carriers for travel eSIM. Orange, SFR & Bouygues 5G in Paris, the Riviera & rural areas. Find which gives you the fastest speeds."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Frankreich, Prepaid Daten, 5G Netz, Orange, Bouygues, Roami eSIM, Frankreich
   Reise eSIM, günstige eSIM Frankreich
 site_name: Roami

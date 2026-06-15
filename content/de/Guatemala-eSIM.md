@@ -1,6 +1,6 @@
 ---
 title: Guatemala eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Guatemala eSIM | Zuverlässiges 5G landesweit"
-  description: "Entdecken Sie Guatemala mit Roami eSIM. Zuverlässiges 5G landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten ab 1,99 $."
+  title: "Guatemala eSIM | Günstigste Prepaid Reise eSIM"
+  description: "Reisen Sie nach Guatemala mit Roamis günstiger Prepaid eSIM. Unbegrenztes Datenvolumen, sofort aktiviert, ohne Vertrag. Jetzt online kaufen. Deckt alle Regionen ab."
   keywords: Guatemala eSIM, Reise eSIM, mobile Daten Guatemala, Internet Guatemala,
     eSIM Lateinamerika
 order_summary:

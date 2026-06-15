@@ -1,6 +1,6 @@
 ---
 title: Kolumbien eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Kolumbien eSIM | 20% sparen, zuverlässiges 5G"
-  description: "Entdecken Sie Kolumbien mit Roami eSIM. Zuverlässiges 5G in Bogotá, Medellín und landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten."
+  title: "Kolumbien eSIM | Günstigste Prepaid Reise eSIM"
+  description: "Prepaid eSIM für Kolumbien mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
   keywords: Kolumbien eSIM, Reise eSIM Kolumbien, mobiles Internet Kolumbien, günstige
     eSIM Kolumbien, Daten eSIM Kolumbien
 order_summary:

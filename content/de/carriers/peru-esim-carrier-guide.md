@@ -1,7 +1,7 @@
 ---
-title: "Peru eSIM-Leitfaden | Movistar, Claro oder Entel?"
-description: "Roami vergleicht die peruanischen Anbieter für Reise-eSIM. 5G von Lima bis Cusco. Welcher bietet die beste Abdeckung?"
-date: '2026-06-04T00:00:00+00:00'
+title: "Peru eSIM Guide | Movistar, Claro or Entel?"
+description: "Roami compares Peru's carriers for travel eSIM. Movistar, Claro & Entel 5G from Lima nationwide. Find the best coverage for your Peruvian travels."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Peru, Prepaid Daten, 5G Netz, Claro, Entel, Mi Fibra, Roami eSIM, Reise
   Internet Peru
 site_name: Roami

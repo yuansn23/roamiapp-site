@@ -1,7 +1,7 @@
 ---
-title: "Ungarn eSIM-Leitfaden | Telekom, Vodafone oder Yettel?"
-description: "Roami vergleicht die ungarischen Anbieter für Reise-eSIM. 5G entlang der Donau und landesweit. Welches Netz ist am schnellsten?"
-date: '2026-06-04T00:00:00+00:00'
+title: "Hungary eSIM Guide | Telekom, Vodafone or Yettel?"
+description: "Roami compares Hungary's carriers for travel eSIM. Telekom, Vodafone & Yettel 5G along the Danube & nationwide. Find the fastest network for your visit."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Ungarn, Prepaid Daten, 5G Netz, Yettel, Magyar Telekom, One, Hotspot
   Tethering, Reise eSIM
 site_name: Roami

@@ -1,7 +1,7 @@
 ---
-title: "Indonesien eSIM-Leitfaden | Telkomsel, XL oder Indosat?"
-description: "Roami vergleicht die indonesischen Anbieter für Reise-eSIM. 5G auf Bali, Jakarta und den Inseln. Am besten für Reisende."
-date: '2026-06-04T00:00:00+00:00'
+title: "Indonesia eSIM Guide | Telkomsel, XL or Indosat?"
+description: "Roami compares Indonesia's carriers for travel eSIM. Telkomsel, XL & Indosat 5G in Bali, Jakarta & across the archipelago. Best for travelers."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Indonesien, Prepaid Daten, 5G Netz, Telkomsel, XL, Roami eSIM, Reise-eSIM,
   mobiles Internet Indonesien
 site_name: Roami

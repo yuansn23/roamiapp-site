@@ -1,6 +1,6 @@
 ---
 title: Kanada eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Kanada eSIM | 20% sparen, unbegrenzte 5G-Daten"
-  description: "Bleiben Sie in ganz Kanada mit Roami eSIM verbunden. Unbegrenztes 5G in den besten Netzen. Sofortige Aktivierung. Keine versteckten Gebühren, kein Vertrag."
+  title: "Kanada eSIM | Unbegrenztes Datenvolumen für unterwegs"
+  description: "Die günstigste Prepaid eSIM für Kanada von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar. Deckt Toronto, Vancouver & ganz Kanada ab."
   keywords: Kanada eSIM, Reise nach Kanada, mobiles Internet Kanada, günstige eSIM
     Kanada, Kanada Reise, Netzabdeckung Kanada
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: Ghana eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Ghana eSIM | Zuverlässiges 5G landesweit"
-  description: "Entdecken Sie Ghana mit Roami eSIM. Zuverlässiges 5G landesweit. Sofortige QR-Aktivierung. Unbegrenzte Daten ab 1,99 $. Kein Roaming."
+  title: "Ghana eSIM | Günstigste Prepaid Option für Reisende"
+  description: "Die günstigste Prepaid Reise eSIM für Ghana von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle Regionen ab."
   keywords: eSIM Ghana, Reisestick Ghana, mobiles Internet Ghana, Ghana Reise, Tourismus
     Ghana
 order_summary:

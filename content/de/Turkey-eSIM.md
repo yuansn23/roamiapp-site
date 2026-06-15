@@ -1,6 +1,6 @@
 ---
 title: Türkei eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Türkei eSIM | 20% RABATT, unbegrenzte 5G-Daten"
-  description: "Entdecken Sie die Türkei mit Roami eSIM. Schnelles 5G landesweit. Sofortige QR-Einrichtung. Unbegrenzte Daten ab 1,99 $. Keine Roaming-Gebühren."
+  title: "Türkei eSIM | Ohne Vertrag & sofort nutzbar"
+  description: "Die günstigste Prepaid eSIM für Türkei von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort nutzbar. Deckt Istanbul, Antalya & die türkische Riviera ab."
   keywords: eSIM Türkei, Reise eSIM, mobile Daten Türkei, günstige eSIM, Internet
     Türkei
 order_summary:

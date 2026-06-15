@@ -1,6 +1,6 @@
 ---
 title: Dänemark eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Dänemark eSIM | 20% RABATT, kein Vertrag nötig"
-  description: "Reisen Sie durch Dänemark mit Roami eSIM. Zuverlässiges 5G landesweit. Sofortige Aktivierung, kein Vertrag. Unbegrenzte Daten ab 1,99 $."
+  title: "Dänemark eSIM | Günstigste Prepaid Reise eSIM"
+  description: "Die günstigste Prepaid Reise eSIM für Dänemark von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle."
   keywords: eSIM Dänemark, mobile Daten Dänemark, Reise Internet Dänemark, günstige
     eSIM Dänemark, Dänemark eSIM kaufen
 order_summary:

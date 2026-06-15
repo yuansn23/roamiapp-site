@@ -1,6 +1,6 @@
 ---
 title: Portugal eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Portugal eSIM | 20% sparen, unbegrenzte 5G-Daten"
-  description: "Entdecken Sie Portugal mit Roami eSIM. Schnelles 5G von Lissabon bis zur Algarve. Sofortige Aktivierung. Unbegrenzte Daten für Reisende."
+  title: "Portugal eSIM | Unbegrenztes Datenvolumen zum Bestpreis"
+  description: "Die günstigste Prepaid Reise eSIM für Portugal von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle."
   keywords: Portugal Reise eSIM, mobiles Internet Portugal, Portugal eSIM kaufen,
     günstige eSIM Portugal, Prepaid eSIM Portugal
 order_summary:

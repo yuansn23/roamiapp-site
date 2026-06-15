@@ -1,7 +1,7 @@
 ---
-title: "Norwegen eSIM-Leitfaden | Telenor, Telia oder Ice?"
-description: "Roami vergleicht die norwegischen Anbieter für Reise-eSIM. 5G in Städten und entlang der Fjorde. Welches Netz deckt Sie am besten ab?"
-date: '2026-06-04T00:00:00+00:00'
+title: "Norway eSIM Guide | Telenor, Telia or Ice?"
+description: "Roami compares Norway's carriers for travel eSIM. Telenor, Telia & Ice 5G in cities & along the stunning fjords. Which network gives you the best coverage?."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Norwegen, Prepaid Daten, 5G Netz, Telenor, GlobalConnect, Reise eSIM,
   mobiles Internet Norwegen
 site_name: Roami

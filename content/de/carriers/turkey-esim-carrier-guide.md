@@ -1,7 +1,7 @@
 ---
-title: "Türkei eSIM-Leitfaden | Turkcell, Vodafone oder Turk Telekom?"
-description: "Roami vergleicht türkische Anbieter für Reise-eSIM. 5G in Istanbul, Ankara und landesweit. Finden Sie das schnellste Netz."
-date: '2026-06-04T00:00:00+00:00'
+title: "Turkey eSIM Guide | Turkcell, Vodafone or Telekom?"
+description: "Roami compares Turkish carriers for travel eSIM. Turkcell, Vodafone & Turk Telekom 5G in Istanbul, Ankara & nationwide. Find the fastest network."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Türkei, Prepaid Daten, 5G Netz, Roaming, Hotspot Tethering, Türkei
   Reise eSIM, Vodafone Türkei, Turkcell, Türk Telekom
 site_name: Roami

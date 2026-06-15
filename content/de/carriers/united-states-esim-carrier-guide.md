@@ -1,7 +1,7 @@
 ---
-title: "USA eSIM-Leitfaden | Verizon, T-Mobile oder AT&T?"
-description: "Roami vergleicht Verizon, T-Mobile und AT&T 5G für USA eSIM. Geschwindigkeitstests und Abdeckungskarten. Finden Sie das schnellste Netzwerk."
-date: '2026-06-04T00:00:00+00:00'
+title: "USA Carrier Guide | Best Prepaid eSIM Plans Compared"
+description: "Roami compares the best prepaid travel eSIM plans for USA. Verizon, T-Mobile & AT&T 5G speed tests & coverage maps. Find the fastest unlimited data plan for your."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM USA, Prepaid Daten, 5G Netz, T-Mobile, AT&T, Verizon, Roami eSIM, USA
   Reise, mobiles Internet USA
 site_name: Roami

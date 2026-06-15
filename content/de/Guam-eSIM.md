@@ -1,6 +1,6 @@
 ---
 title: Guam eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
-  title: "Guam eSIM | Schnelles 5G auf der ganzen Insel"
-  description: "Bleiben Sie in Guam mit Roami eSIM verbunden. Schnelles 5G auf der ganzen Insel. Sofortige QR-Aktivierung. Unbegrenzte Daten für Ihren Aufenthalt."
+  title: "Guam eSIM | Günstigste Prepaid Reise eSIM"
+  description: "Prepaid eSIM für Guam mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort aktivieren & nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle."
   keywords: Guam eSIM, Reise eSIM Guam, Internet Guam, mobiles Internet Guam, eSIM
     für Guam
 order_summary:
