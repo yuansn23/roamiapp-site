@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Barbados eSIM | Günstig kaufen & sofort aktivieren"
-  description: "Reisen Sie nach Barbados mit Roamis günstiger Prepaid eSIM. Unbegrenztes Datenvolumen, sofort aktiviert, ohne Vertrag. Jetzt online kaufen. Deckt alle Regionen ab."
+  description: "Bereiten Sie Ihre Reise nach Barbados mit Roami vor. Unsere eSIM begleitet Sie überall hin für eine sorgenfreie Reise. Deckt alle Regionen ab."
   keywords: eSIM Barbados, mobiles Internet Barbados, Reise eSIM Barbados, Barbados
     Netzabdeckung, günstige eSIM Barbados
 order_summary:

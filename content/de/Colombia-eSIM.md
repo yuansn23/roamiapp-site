@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Kolumbien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Prepaid eSIM für Kolumbien mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
+  description: "Die Roami eSIM für Kolumbien kaufen Sie online ohne Wartezeit. Keine Lieferung, alles digital. Deckt alle Regionen ab."
   keywords: Kolumbien eSIM, Reise eSIM Kolumbien, mobiles Internet Kolumbien, günstige
     eSIM Kolumbien, Daten eSIM Kolumbien
 order_summary:

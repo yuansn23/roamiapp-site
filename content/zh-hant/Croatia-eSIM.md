@@ -1,6 +1,6 @@
 ---
 title: 克羅埃西亞 eSIM 方案 | 克羅埃西亞 eSIM | Roami
-date: '2026-05-19T10:09:10+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 克羅埃西亞 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
-  description: 克羅埃西亞旅遊推薦 Roami eSIM，提供最佳 5G 高速網路。立即選購並輸入折扣碼 20% 獲取優惠，讓您的歐洲旅遊網卡更划算。
+  title: "克羅埃西亞 eSIM | 上網吃到飽最划算安心推薦"
+  description: "去克羅埃西亞需要穩定可靠的網路嗎？Roami eSIM 提供高速 5G 連線，讓您不用到處尋找 WiFi 訊號。地圖導航社群媒體影音串流全都順暢無比。覆蓋 全區。"
   keywords: 克羅埃西亞 eSIM, 克羅埃西亞網路, 杜布羅夫尼克 eSIM, 斯普利特 eSIM, 薩格勒布 eSIM, 克羅埃西亞旅遊, 克羅埃西亞網卡
 order_summary:
   title: 選擇 克羅埃西亞 eSIM

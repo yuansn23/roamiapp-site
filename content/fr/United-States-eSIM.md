@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM USA | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM USA | -20 %, données 5G illimitées"
-  description: "Voyagez aux USA avec l'eSIM Roami. Données 5G illimitées sur les meilleurs réseaux américains. Activation instantanée, sans contrat. Fonctionne dans les 50 États."
+  title: "USA eSIM | Acheter pas cher, données illimitées"
+  description: "Vous arrivez a USA? Activez votre eSIM Roami immediatement, sans RDV ni papier. Connecte en un instant. Couvre tout le pays."
   keywords: eSIM USA, forfait mobile USA, internet voyage USA,
     carte eSIM USA, data mobile USA
 order_summary:

@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Vietnam eSIM | Prepaid Tarif für Reise & Urlaub"
-  description: "Die günstigste Prepaid eSIM für Vietnam von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar. Deckt Hanoi, Ho-Chi-Minh-Stadt & Da Nang ab."
+  description: "Bestellen Sie Ihre eSIM für Vietnam bei Roami. Einfach, schnell, und Sie sind schon vor der Ankunft verbunden. Deckt Hanoi, Ho-Chi-Minh-Stadt & Da Nang ab."
   keywords: Vietnam eSIM, Reise Vietnam, Internet Vietnam, mobiles Internet Vietnam,
     Vietnam SIM Karte
 order_summary:

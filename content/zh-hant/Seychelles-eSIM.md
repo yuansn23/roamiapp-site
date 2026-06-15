@@ -1,6 +1,6 @@
 ---
 title: 塞席爾 eSIM 方案 | 塞席爾 eSIM | Roami
-date: '2026-05-19T10:28:06+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 塞席爾 eSIM 方案 | 最佳旅遊上網選擇 | Roami
-  description: 塞席爾 eSIM 提供高速 5G/4G 網路，即時交付，無限熱點分享。適合旅行者、商務人士。立即獲取 20% 折扣！
+  title: "塞席爾 eSIM | 5G 流量吃到飽方案超划算"
+  description: "Roami 給您塞席爾性價比最高的 eSIM 上網卡，花更少的錢就能享受穩定的高速 5G 網路。最優惠的價格就在這裡，讓您的旅行更加輕鬆愉快沒有負擔。覆蓋 全區。"
   keywords:
   - 塞席爾 eSIM
   - 塞席爾網路覆蓋

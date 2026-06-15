@@ -20,7 +20,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Indien eSIM | Günstiges Datenvolumen für Urlaub & Reise"
-  description: "Die günstigste Prepaid eSIM für Indien von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar. Deckt Delhi, Mumbai & ganz Indien ab."
+  description: "Roami ist die günstigste eSIM für Indien. Ein fairer Preis, keine Überraschungen. Deckt Delhi, Mumbai & ganz Indien ab."
   keywords: Indien eSIM, mobiles Internet Indien, Reise eSIM Indien, Datenflatrate
     Indien, LTE Indien
 order_summary:

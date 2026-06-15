@@ -1,8 +1,8 @@
 ---
-title: "Télécharger l'application Roami : Meilleur comparateur de prix eSIM | Roami"
-description: "Obtenez la meilleure application eSIM de voyage. Comparaison automatique des prix, tarifs 30 % moins chers, réseaux 5G locaux et garantie de remboursement à 100 %. Utilisez le code promo WEB20 pour 20 % de réduction."
+title: "Roami : Comparateur eSIM voyage -20% avec code WEB20"
+description: "Roami compare les prix eSIM. Économisez 30%, 5G, remboursement 100%. Téléchargez l'app avec le code WEB20 pour -20%."
 type: "page"
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-14T00:00:00+00:00'
 layout: "app"
 
 # ================= 全局 UI 与无障碍标签配置 (UI & Accessibility Settings) =================

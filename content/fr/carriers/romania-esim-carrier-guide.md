@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Roumanie | Orange, Vodafone ou Digi ?"
-description: "Roami compare les opérateurs roumains pour l'eSIM de voyage. 5G à Bucarest et dans tout le pays. Trouvez le réseau le plus fiable."
-date: '2026-06-04T00:00:00+00:00'
+title: "Romania eSIM Guide | Orange, Vodafone or Digi?"
+description: "L'eSIM Roami pour Roumanie offre le meilleur rapport qualite-prix. Profitez de tarifs imbattables pour votre voyage. Couvre tout le pays."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Roumanie, données prépayées, réseau 5G, Orange, DIGI, voyage Roumanie,
   carte eSIM
 site_name: Roami

@@ -1,6 +1,6 @@
 ---
 title: 巴貝多 eSIM 方案 | 巴貝多 eSIM | Roami
-date: '2026-05-19T10:23:09+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 巴貝多 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
-  description: 前往巴貝多，選擇 Roami eSIM 確保 5G 網路自動切換。高品質連線體驗讓您旅遊更安心，結帳使用折扣碼 20% 即可享有優惠。
+  title: "巴貝多 eSIM | 流量吃到飽免合約最自由"
+  description: "準備好去巴貝多旅行了嗎？Roami eSIM 是您旅途中最棒的夥伴。出發前線上買好抵達就能立刻使用，不用忙著找 SIM 卡辦網路，讓旅程更輕鬆自在。覆蓋 全區。"
   keywords: 巴貝多 eSIM, 巴貝多網路覆蓋, 巴貝多旅遊, 巴貝多行動運營商, 巴貝多景點, 巴貝多機場
 order_summary:
   title: 選擇 巴貝多 eSIM

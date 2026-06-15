@@ -1,6 +1,6 @@
 ---
 title: 愛沙尼亞 eSIM 方案 | 愛沙尼亞 eSIM | Roami
-date: '2026-05-19T10:13:04+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 愛沙尼亞 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
-  description: 愛沙尼亞旅遊必備 Roami eSIM，支援 5G 網路自動切換。立即購買並輸入折扣碼 20%，享受穩定高品質的旅遊網路連線服務。
+  title: "愛沙尼亞 eSIM | 流量吃到飽即時通超方便"
+  description: "去愛沙尼亞需要穩定可靠的網路嗎？Roami eSIM 提供高速 5G 連線，讓您不用到處尋找 WiFi 訊號。地圖導航社群媒體影音串流全都順暢無比。覆蓋 全區。"
   keywords: 愛沙尼亞 eSIM, 塔林網路覆蓋, 愛沙尼亞旅遊, Telia 愛沙尼亞, Elisa 愛沙尼亞, 愛沙尼亞行動網路, 愛沙尼亞上網, 愛沙尼亞預付卡
 order_summary:
   title: 選擇 愛沙尼亞 eSIM

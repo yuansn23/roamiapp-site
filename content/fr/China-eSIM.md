@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Chine | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM Chine | -20 %, aucun VPN nécessaire"
-  description: "Restez connecté en Chine avec l'eSIM Roami. 5G rapide sur les réseaux locaux, aucun VPN requis. Activation instantanée. Fonctionne dans toutes les grandes villes."
+  title: "Chine eSIM | Voyager pas cher, données illimitées"
+  description: "Preparez votre voyage a Chine avec Roami. Notre eSIM vous accompagne partout pour un voyage sans accroc. Couvre Pékin, Shanghai & les grandes villes."
   keywords: eSIM Chine, internet mobile Chine, voyage Chine, couverture réseau Chine,
     opérateurs Chine
 order_summary:

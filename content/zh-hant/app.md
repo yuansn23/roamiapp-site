@@ -1,8 +1,8 @@
 ---
-title: "台灣旅客最愛eSIM｜支援中華電信、遠傳、台灣大哥大｜Roami"
+title: "台灣旅客最愛eSIM｜支援中華電信、遠傳、台灣大哥大"
 description: "取得最佳旅遊 eSIM App。自動比價、費率便宜 30%、當地 5G 網路、100% 退款保證。支援 iPhone、三星等主流手機，使用優惠碼 WEB20 享 20% 折扣。"
 type: "page"
-date: '2026-05-19T00:00:00+00:00'
+date: '2026-06-14T00:00:00+00:00'
 layout: "app"
 
 # ================= 全局 UI 與無障礙標籤配置 (UI & Accessibility Settings) =================
@@ -44,8 +44,8 @@ links:
 
 # ================= SEO & Schema =================
 seo:
-  title: "下載 Roami App | 台灣旅客最愛的全球 eSIM 流量方案｜支援中華電信、遠傳、台灣大哥大"
-  description: "告別漫遊超額收費。Roami 自動比價，為您提供便宜 30% 以上的當地 5G eSIM。支援 iPhone、三星、小米。100% 退款保證。"
+  title: "Roami App 下載 | 隨時購買旅行 eSIM"
+  description: "下載 Roami App 隨時隨地購買並啟用旅行 eSIM。iOS 與 Android 雙平台完整支援，管理方案查詢餘額一手輕鬆搞定，出國上網的最佳幫手。"
   canonical_url: ""
 
 schema:

@@ -1,6 +1,6 @@
 ---
 title: 比利時 eSIM 方案 | 比利時 eSIM | Roami
-date: '2026-05-19T10:03:25+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 比利時 eSIM | 流量吃到飽 | 5G網路自動切換 | Roami
-  description: 比利時旅遊推薦 Roami eSIM，享受流量吃到飽服務。強大的 5G 網路自動切換功能讓您暢行無阻，別忘使用折扣碼 20% 享有優惠。
+  title: "比利時 eSIM | 5G 高速上網不限流量推薦"
+  description: "去比利時旅行選擇 Roami 就能享受真正的自由。完全沒有合約束縛，想用就用想停就停，用多少天就付多少費用，完全由您自己決定，簡單透明。覆蓋 全區。"
   keywords: 比利時 eSIM, 比利時網路覆蓋, 比利時行動網路, 比利時旅遊, 比利時景點, 比利時美食
 order_summary:
   title: 選擇 比利時 eSIM

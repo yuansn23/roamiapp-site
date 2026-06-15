@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Cambodge | Smart, Cellcard ou Metfone ?"
-description: "Roami compare les opérateurs cambodgiens pour l'eSIM de voyage. 5G d'Angkor à la côte. Trouvez le réseau le plus rapide."
-date: '2026-06-04T00:00:00+00:00'
+title: "Cambodia eSIM Guide | Smart, Cellcard or Metfone?"
+description: "Vous planifiez un voyage a Cambodge? Roami est le compagnon ideal pour rester connecte en deplacement. Couvre tout le pays."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Cambodge, données prépayées, réseau 5G, Smart, Cellcard, MekongNet,
   Ta Khmau, guide voyage
 site_name: Roami

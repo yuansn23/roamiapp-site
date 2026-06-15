@@ -1,6 +1,6 @@
 ---
 title: 喬治亞 eSIM 方案 | 喬治亞 eSIM | Roami
-date: '2026-05-19T10:00:34+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 喬治亞旅遊 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
-  description: 喬治亞旅遊必備 Roami eSIM，支援 5G 網路自動切換。立即下單並輸入折扣碼 20%，讓您的旅程擁有穩定高品質的網路連線。
+  title: "喬治亞 eSIM | 出國網路流量吃到飽必備"
+  description: "想要 喬治亞 的 eSIM 嗎？Roami 直接把 QR Code 寄到您的信箱。免運費不用出門，在家裡就能搞定出國上網的所有準備工作，輕鬆又省事。覆蓋 全區。"
   keywords: 喬治亞 eSIM, 喬治亞網路, 喬治亞旅遊, 喬治亞手機上網, 第比利斯 eSIM, 巴統 eSIM, Magti, Geocell, Beeline
 order_summary:
   title: 選擇 喬治亞 eSIM

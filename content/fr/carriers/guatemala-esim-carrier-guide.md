@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Guatemala | Tigo, Claro ou Movistar ?"
-description: "Roami compare les opérateurs guatémaltèques pour l'eSIM de voyage. 5G d'Antigua au lac Atitlán. Lequel est le plus fiable ?"
-date: '2026-06-04T00:00:00+00:00'
+title: "Guatemala eSIM Guide | Tigo, Claro or Movistar?"
+description: "Pour Guatemala, choisissez Roami et payez moins cher. Notre eSIM est au meilleur prix pour voyager sans vous ruiner. Couvre tout le pays."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Guatemala, données prépayées, réseau 5G, Claro, Tigo, Cable Color,
   voyage Guatemala, connectivité mobile
 site_name: Roami

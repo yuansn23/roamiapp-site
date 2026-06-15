@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Thailand eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die günstigste Prepaid eSIM für Thailand von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar. Deckt Bangkok, Phuket & ganz Thailand ab."
+  description: "Die Roami eSIM für Thailand kaufen Sie online ohne Wartezeit. Keine Lieferung, alles digital. Deckt Bangkok, Phuket & ganz Thailand ab."
   keywords:
   - Thailand eSIM
   - Reise eSIM Thailand

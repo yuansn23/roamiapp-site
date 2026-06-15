@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Türkei eSIM | Ohne Vertrag & sofort nutzbar"
-  description: "Die günstigste Prepaid eSIM für Türkei von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort nutzbar. Deckt Istanbul, Antalya & die türkische Riviera ab."
+  description: "Planen Sie eine Reise nach Türkei? Roami ist der ideale Begleiter, um unterwegs verbunden zu bleiben. Deckt Istanbul, Antalya & die türkische Küste ab."
   keywords: eSIM Türkei, Reise eSIM, mobile Daten Türkei, günstige eSIM, Internet
     Türkei
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Malaisie | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM Malaisie | Économisez 20 %, données 5G illimitées"
-  description: "Découvrez la Malaisie avec l'eSIM Roami. 5G rapide à Kuala Lumpur, Penang et dans tout le pays. Activation instantanée. Données illimitées à partir de 1,99 $."
+  title: "Malaisie eSIM | Pas cher & sans engagement"
+  description: "Roami a Malaisie, c'est sans engagement. Pas d'abonnement, pas de surprise. Vous payez seulement pour votre voyage. Couvre tout le pays."
   keywords: eSIM Malaisie, Internet mobile Malaisie, voyage Malaisie, forfait data
     Malaisie, connexion 4G Malaisie
 order_summary:

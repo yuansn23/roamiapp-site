@@ -1,6 +1,6 @@
 ---
 title: eSIM Tunisia Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Tunisia | 5G Veloce, Nessuna Tariffa di Roaming"
-  description: "Visita la Tunisia con Roami eSIM. 5G veloce in tutta la nazione. Attivazione immediata. Piani dati illimitati. Nessuna tariffa di roaming."
+  title: "Tunisia eSIM | Dati illimitati per viaggiare"
+  description: "Prepara il tuo viaggio in Tunisia con Roami. La nostra eSIM ti accompagna ovunque per un'esperienza senza preoccupazioni, sempre connesso. Copre tutte le regioni."
   keywords: eSIM Tunisia, viaggio Tunisia, copertura rete Tunisia, internet Tunisia,
     roaming Tunisia
 order_summary:

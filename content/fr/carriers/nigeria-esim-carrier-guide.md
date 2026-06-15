@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Nigeria | MTN, Airtel ou Glo ?"
-description: "Roami compare les opérateurs nigérians pour l'eSIM de voyage. 5G à Lagos, Abuja et dans tout le pays. Trouvez le réseau le plus rapide."
-date: '2026-06-04T00:00:00+00:00'
+title: "Nigeria eSIM Guide | MTN, Airtel or Glo?"
+description: "Vous arrivez a Nigeria? Activez votre eSIM Roami immediatement, sans RDV ni papier. Connecte en un instant. Couvre tout le pays."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Nigéria, données prépayées, réseau 5G, MTN, Airtel, voyage, guide
 site_name: Roami
 brand_name: Roami

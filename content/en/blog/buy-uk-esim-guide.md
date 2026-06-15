@@ -13,6 +13,7 @@ readingTime: 16
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
+h1title: "UK eSIM 2026: Seamless EU & UK Coverage"
 
 # Sidebar module titles
 productsTitle: "Popular eSIM Plans"

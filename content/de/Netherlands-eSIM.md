@@ -20,7 +20,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Niederlande eSIM | Unbegrenztes Datenvolumen"
-  description: "Die günstigste Prepaid Reise eSIM für Niederlande von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort nutzbar nach Aktivierung. Deckt alle Regionen ab."
+  description: "Brauchen Sie eine bezahlbare eSIM für Niederlande? Roami bietet Top-Qualität zum kleinen Preis. Deckt alle Regionen ab."
   keywords: Niederlande, eSIM, Reisen, mobiles Internet, Netzabdeckung, Amsterdam,
     Rotterdam, Den Haag, Utrecht, KPN, Vodafone, T-Mobile, Sehenswürdigkeiten, Sightseeing,
     Geschäftsreise

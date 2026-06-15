@@ -1,6 +1,6 @@
 ---
 title: eSIM Singapore Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Singapore | 20% DI SCONTO, 5G Ultra Veloce"
-  description: "Rimani online a Singapore con Roami eSIM. 5G ultra veloce su tutta l'isola. Attivazione QR immediata. Per viaggiatori d'affari e di piacere."
+  title: "Singapore eSIM | Attivazione immediata"
+  description: "La tua eSIM Roami per Singapore è pronta in pochi secondi. Ricevi il QR code via email e attivalo subito. Senza complicazioni. Copre Singapore & tutta l'isola."
   keywords: eSIM Singapore, viaggio Singapore, internet mobile Singapore, copertura
     rete Singapore, operatore locale Singapore
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: 格瑞那達 eSIM 方案 | 格瑞那達 eSIM | Roami
-date: '2026-05-19T09:46:57+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 格瑞那達 eSIM | eSIM無限流量 | 5G網路自動切換 | Roami
-  description: 格瑞那達旅遊推薦 Roami eSIM 無限流量方案，支援 5G 網路自動切換。現在下單並使用折扣碼 20% 獲取您的旅遊網卡優惠。
+  title: "格瑞那達 eSIM | 高速上網預付卡超值推薦"
+  description: "去格瑞那達需要穩定可靠的網路嗎？Roami eSIM 提供高速 5G 連線，讓您不用到處尋找 WiFi 訊號。地圖導航社群媒體影音串流全都順暢無比。覆蓋 全區。"
   keywords: 格瑞那達 eSIM, 格瑞那達網路覆蓋, 格瑞那達旅遊, 格瑞那達機場, 格瑞那達景點, 格瑞那達飯店, 格瑞那達交通
 order_summary:
   title: 選擇 格瑞那達 eSIM

@@ -20,7 +20,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Polen eSIM | Prepaid Tarif für Reise & Urlaub"
-  description: "Prepaid eSIM für Polen mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort aktivieren & nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle."
+  description: "Reisen Sie nach Polen ohne Verpflichtungen. Roami bindet Sie an kein Abo. Sie bestimmen alles. Deckt alle Regionen ab."
   keywords: Polen eSIM, mobiles Internet Polen, Reise eSIM Polen, günstige eSIM Polen,
     Datenpaket Polen
 order_summary:

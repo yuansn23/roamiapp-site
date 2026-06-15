@@ -1,8 +1,8 @@
 ---
-title: "Roami App herunterladen: Bester eSIM-Preisvergleich | Roami"
+title: "Roami App herunterladen: Bester eSIM-Preisvergleich"
 description: "Holen Sie sich die beste Reise-eSIM-App. Automatischer Preisvergleich, 30 % günstigere Tarife, lokale 5G-Netze und eine 100%ige Rückerstattungsgarantie. Nutzen Sie den Promo-Code WEB20 für 20 % Rabatt."
 type: "page"
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-14T00:00:00+00:00'
 layout: "app"
 
 # ================= 全局 UI 与无障碍标签配置 (UI & Accessibility Settings) =================
@@ -44,8 +44,8 @@ links:
 
 # ================= SEO & Schema =================
 seo:
-  title: "App herunterladen | eSIM in Minuten kaufen und aktivieren"
-  description: "Holen Sie sich die Roami-App für iOS oder Android. Durchsuchen, kaufen und aktivieren Sie Ihre Reise-eSIM in unter 2 Minuten. Findet den günstigsten 5G-Tarif."
+  title: "Download Roami | Buy & Activate Travel eSIM Instantly"
+  description: "Laden Sie Roami herunter und kaufen Sie Ihre Reise eSIM direkt von unterwegs. Verfügbar für iOS und Android."
   canonical_url: ""
 
 schema:

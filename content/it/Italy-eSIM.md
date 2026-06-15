@@ -1,6 +1,6 @@
 ---
 title: eSIM Italia Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Italia | 20% DI SCONTO, Dati 5G Illimitati"
-  description: "Esplora l'Italia con Roami eSIM. 5G veloce in tutta la nazione, nessuna tariffa di roaming. Attivazione immediata. Dati illimitati da 1,99 $."
+  title: "Italia eSIM | Offerte eSIM per viaggiatori"
+  description: "Acquista la tua eSIM Roami per Italia in pochi clic. Pagamento sicuro, ricezione immediata del codice. Comodo e veloce. Copre Roma, Venezia & Firenze."
   keywords: eSIM Italia, copertura mobile Italia, rete 5G Italia, viaggiare in Italia,
     connettività turisti Italia
 order_summary:

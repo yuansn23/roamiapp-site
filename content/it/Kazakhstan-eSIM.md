@@ -1,6 +1,6 @@
 ---
 title: eSIM Kazakistan Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Kazakistan | 5G Affidabile in Tutta la Nazione"
-  description: "Esplora il Kazakistan con Roami eSIM. 5G affidabile in tutta la nazione. Attivazione immediata. Dati illimitati da 1,99 $."
+  title: "Kazakistan eSIM | Prepagato senza vincoli"
+  description: "Roami per Kazakistan: niente contratto, niente vincoli. Usala durante la tua vacanza, poi è finita. Senza complicazioni. Copre tutte le regioni."
   keywords: eSIM Kazakistan, internet mobile Kazakistan, viaggio Kazakistan, connettività
     Kazakistan, roaming Kazakistan
 order_summary:

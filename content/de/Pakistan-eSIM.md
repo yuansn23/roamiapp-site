@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Pakistan eSIM | Prepaid Datenvolumen für den Urlaub"
-  description: "Prepaid eSIM für Pakistan mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
+  description: "Roami in Pakistan ist ohne Vertrag. Kein Abo, keine Überraschungen. Sie zahlen nur für Ihre Reisezeit. Deckt alle Regionen ab."
   keywords: Pakistan eSIM, Reise Pakistan, mobiles Internet Pakistan, günstige eSIM
     Pakistan, AuslandseSIM Pakistan
 order_summary:

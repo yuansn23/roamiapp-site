@@ -1,6 +1,6 @@
 ---
 title: 烏茲別克 eSIM 方案 | 烏茲別克 eSIM | Roami
-date: '2026-05-19T10:16:49+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 烏茲別克 eSIM 方案 | 最佳旅遊上網選擇 | Roami
-  description: 烏茲別克 eSIM 提供高速 5G/4G 網路，即時交付，無限熱點分享。適合旅行者、商務人士。立即獲取 20% 折扣！
+  title: "烏茲別克 eSIM | 高速流量吃到飽出國推薦"
+  description: "去烏茲別克需要穩定可靠的網路嗎？Roami eSIM 提供高速 5G 連線，讓您不用到處尋找 WiFi 訊號。地圖導航社群媒體影音串流全都順暢無比。覆蓋 全區。"
   keywords: 烏茲別克 eSIM, 烏茲別克上網, 塔什干網路, 撒馬爾罕旅遊, 烏茲別克機場WIFI, Beeline烏茲別克, Ucell 4G, 烏茲別克叫車App
 order_summary:
   title: 選擇 烏茲別克 eSIM

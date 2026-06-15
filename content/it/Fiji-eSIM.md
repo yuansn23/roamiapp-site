@@ -1,6 +1,6 @@
 ---
 title: eSIM Figi Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Figi | 5G Veloce su Tutte le Isole"
-  description: "Visita le Figi con Roami eSIM. 5G veloce su Viti Levu e isole esterne. Attivazione immediata. Dati illimitati per il tuo viaggio nel Pacifico."
+  title: "Figi eSIM | Internet veloce senza limiti"
+  description: "Viaggi in Figi? Attiva la tua eSIM Roami in meno di 2 minuti. Nessuna procedura complicata, ricevi il QR code via email e sei subito online. Copre tutte le regioni."
   keywords: eSIM Figi, viaggio Figi, internet Figi, roaming Figi, copertura rete Figi
 order_summary:
   title: Piano selezionato

@@ -1,6 +1,6 @@
 ---
 title: 斐濟 eSIM 方案 | 斐濟 eSIM | Roami
-date: '2026-05-19T10:25:37+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 斐濟 eSIM | 流量吃到飽 | 最佳5G高速網路 | Roami
-  description: 斐濟旅遊推薦 Roami eSIM，流量吃到飽與最佳 5G 高速網路。立即下單並使用折扣碼 20%，為您的假期網卡增加更多折扣。
+  title: "斐濟 eSIM | 高速流量吃到飽出國推薦"
+  description: "去斐濟旅行不必擔心上網問題。Roami eSIM 只要兩分鐘就能快速開通，出發前先安裝好 QR Code，抵達目的地連上網路就能馬上打卡報平安，簡單方便。覆蓋 全區。"
   keywords: 斐濟 eSIM, 斐濟 上網, 斐濟 WiFi, 斐濟 網路覆蓋, 斐濟 旅遊, Digicel Fiji, Vodafone Fiji,
     斐濟 數據方案, 斐濟 eSIM 購買, 斐濟 便宜上網
 order_summary:

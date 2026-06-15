@@ -1,6 +1,6 @@
 ---
 title: "Greece eSIM Guide | Cosmote, Vodafone or Nova?"
-description: "Roami compares Greece's carriers for travel eSIM. Cosmote, Vodafone & Nova 5G from Athens to the Greek islands. Find the best coverage for island hopping."
+description: "Reisen Sie sorgenfrei nach Griechenland mit Roami. Unsere eSIM begleitet Sie überallhin. Deckt alle Regionen ab."
 date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Griechenland, Prepaid Daten, 5G Netz, Cosmote, Vodafone, Roami eSIM,
   Reise eSIM

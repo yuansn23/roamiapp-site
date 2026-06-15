@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Bulgarie | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM Bulgarie | 5G rapide dans tout le pays"
-  description: "Découvrez la Bulgarie avec l'eSIM Roami. 5G rapide dans tout le pays. Activation instantanée. Données illimitées à partir de 1,99 $. Pas d'itinérance."
+  title: "Bulgarie eSIM | Voyagez avec données illimitées"
+  description: "L'eSIM Roami pour Bulgarie inclut des donnees illimitees. Ideal pour les voyageurs qui veulent rester en ligne sans stress. Couvre tout le pays."
   keywords: eSIM Bulgarie, forfait data Bulgarie, internet mobile Bulgarie, voyage
     Bulgarie, couverture réseau Bulgarie
 order_summary:

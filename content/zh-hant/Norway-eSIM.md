@@ -1,6 +1,6 @@
 ---
 title: 挪威 eSIM 方案 | 挪威 eSIM | Roami
-date: '2026-05-19T09:58:08+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 挪威旅遊 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
-  description: 挪威旅遊必備 Roami eSIM，支援 5G 網路自動切換。立即選購並輸入折扣碼 20%，以最超值的優惠獲取高品質旅遊連線服務。
+  title: "挪威 eSIM | 出國網路流量吃到飽必備"
+  description: "去挪威旅行不必擔心上網問題。Roami eSIM 只要兩分鐘就能快速開通，出發前先安裝好 QR Code，抵達目的地連上網路就能馬上打卡報平安，簡單方便。覆蓋 全區。"
   keywords: 挪威 eSIM, 挪威上網卡, 挪威旅遊, 奧斯陸, 卑爾根, 特羅姆瑟, 挪威網路覆蓋
 order_summary:
   title: 選擇 挪威 eSIM

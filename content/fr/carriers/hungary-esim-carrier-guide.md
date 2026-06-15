@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Hongrie | Telekom, Vodafone ou Yettel ?"
-description: "Roami compare les opérateurs hongrois pour l'eSIM de voyage. 5G le long du Danube et dans tout le pays. Quel réseau est le plus rapide ?"
-date: '2026-06-04T00:00:00+00:00'
+title: "Hungary eSIM Guide | Telekom, Vodafone or Yettel?"
+description: "Roami pour Hongrie : installation rapide et activation immediate. Pas besoin de chercher une boutique sur place. Couvre tout le pays."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Hongrie, données prépayées, réseau 5G, Yettel, Magyar Telekom, One,
   voyage Hongrie, eSIM voyage
 site_name: Roami

@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Costa Rica | Kolbi, Claro ou Liberty ?"
-description: "Roami compare les opérateurs costariciens pour l'eSIM de voyage. 5G dans tout le pays. Trouvez le réseau le plus fiable."
-date: '2026-06-04T00:00:00+00:00'
+title: "Costa Rica eSIM Guide | Kolbi, Claro or Liberty?"
+description: "Profitez de donnees illimitees a Costa Rica avec Roami. Navigation, streaming, reseaux sociaux, tout est permis. Couvre tout le pays."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Costa Rica, données prépayées, réseau 5G, Claro, Kölbi, Metrocom, itinérance,
   voyage, guide réseau
 site_name: Roami

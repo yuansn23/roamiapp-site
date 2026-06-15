@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Suède | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM Suède | Économisez 20 %, 5G fiable"
-  description: "Voyagez en Suède avec l'eSIM Roami. 5G fiable de Stockholm au nord. Activation instantanée. Données illimitées."
+  title: "Suède eSIM | Activation rapide, pas d'engagement"
+  description: "Achetez votre eSIM Roami pour Suède depuis votre canape. Valable des l'achat, prete a l'emploi a l'arrivee. Couvre tout le pays."
   keywords: eSIM Suède, forfait mobile Suède, internet voyage Suède, Stockholm eSIM,
     Göteborg eSIM
 order_summary:

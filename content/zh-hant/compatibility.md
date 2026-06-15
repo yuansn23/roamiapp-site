@@ -1,9 +1,9 @@
 ---
-title: "eSIM 相容裝置列表 | 300+ 款手機 (2026)"
-description: "數百款裝置已收錄。您的手機和平板電腦是否相容 eSIM？查看我們 2026 年支援 eSIM 的裝置列表，包括 iPhone、Samsung Galaxy、Google Pixel 等。"
+title: "eSIM 相容裝置列表 | 300+ 款手機 (2026)？"
+description: "確認您的手機是否支援 Roami eSIM 服務。超過 300 款裝置已測試通過，從最新 iPhone 到主流 Android 機型都有完整涵蓋，相容性高免煩惱。"
 keywords: "eSIM 相容手機, 支援 eSIM 的手機, 我的手機是否相容 eSIM, iPhone eSIM 相容性, Samsung eSIM 手機, 2026 eSIM 相容裝置, 檢查 eSIM 相容性, iphone 17 esim, samsung s25 esim, 有多少 eSIM, 如何在 iphone 上啟用 eSIM, 哪種 eSIM, 17 pro max esim, esim samsung, galaxy esim, eSIM 相容手機, iphone 11 esim 相容, iphone xr esim 相容, iphone se esim 相容, s20 esim 相容, google pixel 6 esim 相容, moto g power esim 相容, samsung a13 esim 相容, iphone 8 esim 相容, iphone x esim 相容, airalo 相容手機, visible esim 相容手機, google fi esim 相容手機, verizon esim 相容性, us mobile esim 相容裝置"
 layout: "compatibility"
-date: '2026-05-26T00:00:00+00:00'
+date: '2026-06-14T00:00:00+00:00'
 type: "page"
 
 # 用於 SEO 的結構化常見問答資料

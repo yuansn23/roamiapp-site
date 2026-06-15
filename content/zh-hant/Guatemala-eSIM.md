@@ -1,6 +1,6 @@
 ---
 title: 瓜地馬拉 eSIM 方案 | 瓜地馬拉 eSIM | Roami
-date: '2026-05-19T09:59:49+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 瓜地馬拉 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
-  description: 瓜地馬拉旅遊必備 Roami eSIM，提供最佳 5G 高速網路與無限流量。現在購買並使用折扣碼 20%，讓您的網路連線更超值。
+  title: "瓜地馬拉 eSIM | 流量吃到飽最划算安心用"
+  description: "去瓜地馬拉旅行不必擔心上網問題。Roami eSIM 只要兩分鐘就能快速開通，出發前先安裝好 QR Code，抵達目的地連上網路就能馬上打卡報平安，簡單方便。覆蓋 全區。"
   keywords: 瓜地馬拉 eSIM, 瓜地馬拉 網路, 瓜地馬拉 旅遊, 安地瓜 eSIM, 瓜地馬拉市 eSIM, 提卡爾 網路
 order_summary:
   title: 選擇 瓜地馬拉 eSIM

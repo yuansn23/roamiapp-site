@@ -1,6 +1,6 @@
 ---
 title: 關島 eSIM 方案 | 關島 eSIM | Roami
-date: '2026-05-19T10:23:59+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 關島 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
-  description: 關島旅遊首選 Roami eSIM，支援 5G 網路自動切換。立即購買並輸入折扣碼 20%，以最實惠的價格獲取高品質旅遊網路服務。
+  title: "關島 eSIM | 5G 上網流量不中斷超穩定"
+  description: "Roami 在關島提供真正的無合約上網體驗。不綁約也不會自動續約，旅行結束網路服務就跟著結束。簡單又透明，讓您專心享受美好旅程。覆蓋 全區。"
   keywords: 關島 eSIM, 關島網路, Docomo Pacific, GTA, 關島旅遊, 關島上網, 5G 關島, 關島 WiFi, 關島景點
 order_summary:
   title: 選擇 關島 eSIM

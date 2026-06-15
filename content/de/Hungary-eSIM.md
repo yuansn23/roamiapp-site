@@ -20,7 +20,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Ungarn eSIM | Ohne Vertrag & sofort nutzbar"
-  description: "Reisen Sie nach Ungarn mit Roamis günstiger Prepaid eSIM. Unbegrenztes Datenvolumen, sofort aktiviert, ohne Vertrag. Jetzt online kaufen. Deckt alle Regionen ab."
+  description: "Sie kommen in Ungarn an? Aktivieren Sie Ihre Roami eSIM sofort, ohne Papierkram. In Sekunden online. Deckt alle Regionen ab."
   keywords: Ungarn eSIM, mobiles Internet Ungarn, Reise eSIM Ungarn, günstige eSIM
     Ungarn, Ungarn Reisevorbereitung
 order_summary:

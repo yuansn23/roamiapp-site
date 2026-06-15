@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Dominica eSIM | Prepaid Tarif für Reise & Urlaub"
-  description: "Prepaid eSIM für Dominica mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
+  description: "Reisen Sie nach Dominica ohne Verpflichtungen. Roami bindet Sie an kein Abo. Sie bestimmen alles. Deckt alle Regionen ab."
   keywords: Dominica eSIM, Reisender, Netzabdeckung, Mobilfunk, Reisevorbereitung,
     Datenroaming
 order_summary:

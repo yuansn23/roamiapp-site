@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Marokko eSIM | Prepaid Tarif für Reise & Urlaub"
-  description: "Prepaid eSIM für Marokko mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
+  description: "Bestellen Sie Ihre eSIM für Marokko bei Roami. Einfach, schnell, und Sie sind schon vor der Ankunft verbunden. Deckt alle Regionen ab."
   keywords: eSIM Marokko, Marokko Reise, Marokko Urlaub, mobiles Internet Marokko,
     günstige eSIM Marokko
 order_summary:

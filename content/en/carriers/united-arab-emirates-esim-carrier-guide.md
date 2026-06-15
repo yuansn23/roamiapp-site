@@ -1,7 +1,7 @@
 ---
-title: "UAE eSIM | 20% OFF, Ultra-Fast 5G"
-description: "Experience the UAE with Roami eSIM. Ultra-fast 5G in Dubai, Abu Dhabi & all emirates. Instant activation. Unlimited data."
-date: '2026-06-04T00:00:00+00:00'
+title: "UAE eSIM | Powered by Etisalat & du – 5G Turbo, No Roaming"
+description: "Get connected via the UAE’s top local operators (Etisalat/du). Ultra-fast 5G across Dubai, Abu Dhabi & all emirates. Instant QR activation"
+date: '2026-06-14T00:00:00+00:00'
 keywords: "United Arab Emirates eSIM, du eSIM, Etisalat eSIM, travel eSIM UAE, no roaming fees UAE, Dubai eSIM, Abu Dhabi eSIM, prepaid eSIM UAE, eSIM for tourists UAE"
 site_name: "Roami"
 brand_name: "Roami"

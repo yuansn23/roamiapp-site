@@ -1,6 +1,6 @@
 ---
 title: 埃及 eSIM 方案 | 埃及 eSIM | Roami
-date: '2026-05-19T10:19:59+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 埃及 eSIM | 流量吃到飽 | 5G網路自動切換 | Roami
-  description: 埃及旅遊推薦 Roami eSIM，流量吃到飽與 5G 網路自動切換功能。立即購買並使用折扣碼 20%，讓您的旅途隨時隨地保持連線。
+  title: "埃及 eSIM | 高速流量吃到飽出國推薦"
+  description: "線上購買 埃及 的 Roami eSIM 只要短短幾分鐘。安全付款後馬上就能收到 QR Code，不用等待運送也不用親自跑門市，方便又快速，輕鬆搞定。覆蓋 開羅、亞歷山卓及路克索。"
   keywords: 埃及 eSIM,埃及 網路,埃及 旅遊,開羅 eSIM,紅海 網路,埃及 行動網路
 order_summary:
   title: 選擇 埃及 eSIM

@@ -20,7 +20,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Griechenland eSIM | Günstigste Prepaid Option"
-  description: "Prepaid eSIM für Griechenland mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
+  description: "Kaufen Sie Ihre Roami eSIM für Griechenland bequem von zu Hause. Gültig ab Kauf, bereit bei Ankunft. Deckt alle Regionen ab."
   keywords:
   - eSIM Griechenland
   - Reise eSIM

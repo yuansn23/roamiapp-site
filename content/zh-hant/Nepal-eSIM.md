@@ -1,6 +1,6 @@
 ---
 title: 尼泊爾 eSIM 方案 | 尼泊爾 eSIM | Roami
-date: '2026-05-19T10:27:22+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 尼泊爾 eSIM 方案 | 最佳旅遊上網選擇 | Roami
-  description: 尼泊爾 eSIM 提供高速 5G/4G 網路，即時交付，無限熱點分享。適合旅行者、商務人士。立即獲取 20% 折扣！
+  title: "尼泊爾 eSIM | 流量吃到飽超穩定安心用"
+  description: "去尼泊爾旅行想找便宜的 eSIM 上網方案嗎？Roami 提供最優惠的預付卡價格，沒有任何隱藏費用也不犧牲品質，出發前線上購買抵達目的地馬上就能使用，省錢又方便。覆蓋 全區。"
   keywords: 尼泊爾 eSIM, 加德滿都 網路, 尼泊爾 手機上網, 尼泊爾 旅遊 eSIM, 尼泊爾 行動數據
 order_summary:
   title: 選擇 尼泊爾 eSIM

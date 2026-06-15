@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Grèce | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM Grèce | -20 %, pas de frais d'itinérance"
-  description: "Sautez d'île en île en Grèce avec l'eSIM Roami. 5G rapide sur le continent et les îles. Activation instantanée. Données illimitées. Pas de frais d'itinérance."
+  title: "Grèce eSIM | Acheter pas cher pour voyager"
+  description: "Achetez votre eSIM Roami pour Grèce depuis votre canape. Valable des l'achat, prete a l'emploi a l'arrivee. Couvre tout le pays."
   keywords: eSIM Grèce, forfait data Grèce, internet mobile Grèce, voyage Grèce, connexion
     4G/5G Grèce
 order_summary:

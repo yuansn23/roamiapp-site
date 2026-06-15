@@ -1,6 +1,6 @@
 ---
 title: eSIM Grecia Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Grecia | 20% DI SCONTO, Nessuna Tariffa di Roaming"
-  description: "Isola hop in Grecia con Roami eSIM. 5G veloce sulla terraferma e sulle isole. Attivazione immediata. Dati illimitati. Nessuna tariffa di roaming."
+  title: "Grecia eSIM | Compra al miglior prezzo online"
+  description: "Acquista la tua eSIM Roami per Grecia comodamente da casa. Valida subito, pronta all'arrivo. Facile e veloce. Copre tutte le regioni."
   keywords: eSIM Grecia, viaggio Grecia, internet Grecia, roaming Grecia, ricaricabile
     Grecia
 order_summary:

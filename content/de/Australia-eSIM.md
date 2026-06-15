@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Australien eSIM | Beste Prepaid eSIM für die Reise"
-  description: "Die günstigste Prepaid eSIM für Australien von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar. Deckt Sydney, Melbourne & ganz."
+  description: "Roami für Australien: schnelle Installation und sofortige Aktivierung. Kein Suchen nach einem Shop vor Ort. Deckt Sydney, Melbourne & ganz Australien ab."
   keywords: Australien eSIM, Reise eSIM Australien, mobiles Internet Australien, Datenflat
     Australien, Roaming Australien
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: 薩爾瓦多 eSIM 方案 | 薩爾瓦多 eSIM | Roami
-date: '2026-05-19T10:11:08+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 薩爾瓦多 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
-  description: 薩爾瓦多旅遊必備 Roami eSIM，暢享最佳 5G 高速網路。立即選購並輸入折扣碼 20%，獲取您的旅遊網卡優惠，連線品質更有保障。
+  title: "薩爾瓦多 eSIM | 5G 高速上網不限流量推薦"
+  description: "去薩爾瓦多旅行選擇 Roami 就能享受真正的自由。完全沒有合約束縛，想用就用想停就停，用多少天就付多少費用，完全由您自己決定，簡單透明。覆蓋 全區。"
   keywords: 薩爾瓦多 eSIM, 薩爾瓦多網路覆蓋, 薩爾瓦多旅遊, 聖薩爾瓦多, 聖米格爾, Tigo, Claro, Movistar, 薩爾瓦多景點
 order_summary:
   title: 選擇 薩爾瓦多 eSIM

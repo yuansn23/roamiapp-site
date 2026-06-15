@@ -1,6 +1,6 @@
 ---
 title: eSIM Thailandia Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Thailandia | 20% DI SCONTO, Dati 5G Illimitati"
-  description: "Scopri la Thailandia con Roami eSIM. 5G veloce a Bangkok, Phuket e in tutta la nazione. Consegna QR immediata. Piani dati illimitati per viaggiatori."
+  title: "Thailandia eSIM | Compra al miglior prezzo"
+  description: "La eSIM Roami per Thailandia si acquista online senza attese. Niente spedizione, tutto digitale, ricevuto via email. Copre Bangkok, Phuket & tutta la Thailandia."
   keywords: eSIM Thailandia, internet mobile Thailandia, viaggio Thailandia, copertura
     rete Thailandia, roaming Thailandia
 order_summary:

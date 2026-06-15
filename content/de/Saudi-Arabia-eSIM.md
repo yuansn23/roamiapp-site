@@ -20,7 +20,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Saudi-Arabien eSIM | Vergleichen & besten Tarif finden"
-  description: "Die günstigste Prepaid Reise eSIM für Saudi-Arabien von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort nutzbar nach Aktivierung. Deckt alle Regionen ab."
+  description: "Roami für Saudi-Arabien: schnelle Installation und sofortige Aktivierung. Kein Suchen nach einem Shop vor Ort. Deckt alle Regionen ab."
   keywords: eSIM Saudi-Arabien, Reise eSIM, mobiles Internet Saudi-Arabien, Daten
     eSIM, Saudi-Arabien Reise
 order_summary:

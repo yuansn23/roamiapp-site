@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Zypern eSIM | Günstigste Prepaid Option für Reisende"
-  description: "Die günstigste Prepaid Reise eSIM für Zypern von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle."
+  description: "Brauchen Sie eine bezahlbare eSIM für Zypern? Roami bietet Top-Qualität zum kleinen Preis. Deckt alle Regionen ab."
   keywords: Zypern eSIM, mobiles Internet Zypern, Reise eSIM Zypern, Daten eSIM Zypern,
     günstige eSIM Zypern
 order_summary:

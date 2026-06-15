@@ -1,6 +1,6 @@
 ---
 title: 宏都拉斯 eSIM 方案 | 宏都拉斯 eSIM | Roami
-date: '2026-05-19T10:19:39+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 宏都拉斯旅遊 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
-  description: 宏都拉斯旅遊首選 Roami eSIM，支援 5G 網路自動切換。現在下單並輸入折扣碼 20%，領取您的旅遊網卡專屬優惠折扣。
+  title: "宏都拉斯 eSIM | 流量吃到飽免綁約隨時停"
+  description: "去宏都拉斯需要穩定可靠的網路嗎？Roami eSIM 提供高速 5G 連線，讓您不用到處尋找 WiFi 訊號。地圖導航社群媒體影音串流全都順暢無比。覆蓋 全區。"
   keywords: 宏都拉斯 eSIM, 宏都拉斯網路, 宏都拉斯旅遊, 宏都拉斯機場, 宏都拉斯景點, Tigo 宏都拉斯, Claro 宏都拉斯, Hondutel
 order_summary:
   title: 選擇 宏都拉斯 eSIM

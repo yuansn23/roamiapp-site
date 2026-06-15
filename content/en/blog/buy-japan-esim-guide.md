@@ -13,6 +13,7 @@ readingTime: 16
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
+h1title: "Japan eSIM 2026: Triple-Carrier 5G – No More Pocket Wi-Fi Hassle"
 
 # Sidebar module titles
 productsTitle: "Popular eSIM Plans"

@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Turquie | Turkcell, Vodafone ou Telekom ?"
-description: "Roami compare les opérateurs turcs pour l'eSIM de voyage. 5G à Istanbul, Ankara et dans tout le pays. Trouvez le réseau le plus rapide."
-date: '2026-06-04T00:00:00+00:00'
+title: "Turkey eSIM Guide | Turkcell, Vodafone or Telekom?"
+description: "Vous planifiez un voyage a Turquie? Roami est le compagnon ideal pour rester connecte en deplacement. Couvre Istanbul, Antalya & la riviera turque."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Turquie, données prépayées, réseau 5G, voyage Turquie, Internet mobile,
   Roami eSIM, couverture réseau Turquie
 site_name: Roami

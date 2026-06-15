@@ -1,6 +1,6 @@
 ---
 title: eSIM India Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM India | 20% DI SCONTO, Nessun ID Locale Necessario"
-  description: "Viaggia in India con Roami eSIM. 5G affidabile in tutta la nazione, nessun indirizzo o ID locale richiesto. Attivazione immediata. Piani da 1,99 $."
+  title: "India eSIM | Offerte eSIM per viaggiatori"
+  description: "Roami è la eSIM più conveniente per India. Prezzo trasparente, nessuna sorpresa. Perfetta per viaggiare senza spendere troppo. Copre Delhi, Mumbai & tutta l'India."
   keywords: eSIM India, viaggio India, copertura rete India, operatore mobile India,
     internet India
 order_summary:

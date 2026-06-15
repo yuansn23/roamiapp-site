@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Südkorea eSIM | Günstigste Prepaid Option für Reisende"
-  description: "Die günstigste Prepaid eSIM für Südkorea von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar. Deckt Seoul, Busan & ganz Südkorea ab."
+  description: "Genießen Sie unbegrenztes Datenvolumen in Südkorea mit Roami. Navigation, Streaming, soziale Netzwerke – alles erlaubt. Deckt Seoul, Busan & ganz Südkorea ab."
   keywords: Südkorea eSIM, Reise nach Südkorea, mobiles Internet Südkorea, eSIM Seoul,
     Datenpaket Südkorea, Reisevorbereitung Südkorea, 5G Südkorea
 order_summary:

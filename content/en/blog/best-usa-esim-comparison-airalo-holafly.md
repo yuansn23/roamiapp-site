@@ -13,6 +13,7 @@ readingTime: 18
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
+h1title: "Best USA eSIM 2026: Tri‑Network 5G (AT&T + T‑Mobile + Verizon) – No Dead Zones"
 
 # Sidebar module titles
 productsTitle: "Popular eSIM Plans"

@@ -1,6 +1,6 @@
 ---
 title: eSIM Austria Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Austria | 20% DI SCONTO, 5G Affidabile"
-  description: "Rimani connesso in Austria con Roami eSIM. 5G affidabile nelle città e nelle regioni alpine. Attivazione immediata. Dati illimitati da 1,99 $."
+  title: "Austria eSIM | Prepagato senza vincoli contrattuali"
+  description: "Viaggi in Austria? Attiva la tua eSIM Roami in meno di 2 minuti. Nessuna procedura complicata, ricevi il QR code via email e sei subito online. Copre tutte le regioni."
   keywords: eSIM Austria, viaggio Austria, copertura internet Austria, rete mobile
     Austria, roaming Austria
 order_summary:

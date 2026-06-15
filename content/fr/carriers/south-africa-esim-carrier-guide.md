@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Afrique du Sud | Vodacom, MTN ou Cell C ?"
-description: "Roami compare les opérateurs sud-africains pour l'eSIM de voyage. 5G du Cap au Kruger. Trouvez le meilleur réseau avant votre voyage."
-date: '2026-06-04T00:00:00+00:00'
+title: "South Africa eSIM Guide | Vodacom, MTN or Cell C?"
+description: "Achetez votre eSIM Roami pour Afrique du Sud depuis votre canape. Valable des l'achat, prete a l'emploi a l'arrivee. Couvre tout le pays."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Afrique du Sud, données prépayées, réseau 5G, Vodacom, MTN, guide voyage,
   connexion haut débit
 site_name: Roami

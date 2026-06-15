@@ -1,6 +1,6 @@
 ---
 title: Taiwan eSIM Datentarif | Beste Reise-eSIM 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: web20
 seo:
-  title: "eSIM Taiwan | 5G Veloce su Tutta l'Isola"
-  description: "Esplora Taiwan con Roami eSIM. 5G veloce su tutta l'isola. Attivazione QR immediata. Piani dati illimitati disponibili."
+  title: "Taiwan eSIM | Ricarica immediata senza contratto"
+  description: "Hai bisogno di dati affidabili in Taiwan? Roami ti tiene online con il 5G veloce. Niente più ricerca del WiFi gratuito. Copre tutte le regioni."
   keywords: Taiwan eSIM, Prepaid eSIM Taiwan, günstige eSIM Taiwan, unbegrenzte Daten
     Taiwan, eSIM für Reisen, mobiles Internet Taiwan, keine Roaming-Gebühren
   low_price: 1.99

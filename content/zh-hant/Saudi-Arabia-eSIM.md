@@ -1,6 +1,6 @@
 ---
 title: 沙烏地阿拉伯 eSIM 方案 | 沙烏地阿拉伯 eSIM | Roami
-date: '2026-05-19T09:51:54+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 沙烏地阿拉伯 eSIM | eSIM無限流量 | 5G網路自動切換 | Roami
-  description: 沙烏地阿拉伯旅遊推薦 Roami eSIM 無限流量方案，支援 5G 網路自動切換。現在下單並使用折扣碼 20%，開啟您的專屬旅遊優惠。
+  title: "沙烏地阿拉伯 eSIM | 上網吃到飽最划算安心推薦"
+  description: "Roami eSIM 讓您抵達沙烏地阿拉伯就立刻可以上網。短短幾秒鐘就能完成開通，不用尋找電信門市也不用更換 SIM 卡，輕鬆保持連線讓旅行更順心。覆蓋 全區。"
   keywords: 沙烏地阿拉伯 eSIM, 沙烏地阿拉伯網路覆蓋, 沙國旅遊, 利雅德, 吉達, 麥加, 麥地那, 達曼, STC, Mobily, Zain,
     阿拉伯旅遊
 order_summary:

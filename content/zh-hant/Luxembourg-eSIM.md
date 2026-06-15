@@ -1,6 +1,6 @@
 ---
 title: 盧森堡 eSIM 方案 | 盧森堡 eSIM | Roami
-date: '2026-05-19T10:38:25+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 盧森堡旅遊 eSIM | 流量吃到飽 | 最佳5G高速網路 | Roami
-  description: 盧森堡旅遊首選 Roami eSIM，流量吃到飽且支援最佳 5G 高速網路。立即下單並輸入折扣碼 20%，讓您的歐洲之旅連線更超值。
+  title: "盧森堡 eSIM | 高速 5G 流量吃到飽首選"
+  description: "準備好去盧森堡旅行了嗎？Roami eSIM 是您旅途中最棒的夥伴。出發前線上買好抵達就能立刻使用，不用忙著找 SIM 卡辦網路，讓旅程更輕鬆自在。覆蓋 全區。"
   keywords: 盧森堡 eSIM, 盧森堡網路覆蓋, 盧森堡旅遊, 盧森堡自由行, 盧森堡上網卡, 盧森堡行動網路, 盧森堡景點
 order_summary:
   title: 選擇 盧森堡 eSIM

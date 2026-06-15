@@ -1,6 +1,6 @@
 ---
 title: 阿聯 eSIM 方案 | 阿聯 eSIM | Roami
-date: '2026-05-19T10:02:13+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 阿拉伯聯合大公國 eSIM | 流量吃到飽 | 最佳5G高速網路 | Roami
-  description: 阿聯酋旅遊首選 Roami eSIM，流量吃到飽與最佳 5G 高速網路。立即購買並輸入折扣碼 20%，讓您的旅程連線更具CP值。
+  title: "阿聯酋 eSIM | 5G 流量吃到飽方案超划算"
+  description: "Roami 給您阿聯酋性價比最高的 eSIM 上網卡，花更少的錢就能享受穩定的高速 5G 網路。最優惠的價格就在這裡，讓您的旅行更加輕鬆愉快沒有負擔。覆蓋 全區。"
   keywords: 阿聯 eSIM, 杜拜 eSIM, 阿布達比 eSIM, 阿聯網路覆蓋, Etisalat, du, 阿聯旅遊
 order_summary:
   title: 選擇 阿聯 eSIM

@@ -1,6 +1,6 @@
 ---
 title: eSIM Arabia Saudita Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Arabia Saudita | 5G Veloce in Tutta la Nazione"
-  description: "Viaggia in Arabia Saudita con Roami eSIM. 5G veloce a Riyadh, Jeddah e in tutta la nazione. Configurazione QR immediata. Dati illimitati da 1,99 $."
+  title: "Arabia Saudita eSIM | Dati illimitati per viaggiare"
+  description: "Roami per Arabia Saudita: installazione rapida e attivazione immediata. Pronta prima ancora di atterrare. La soluzione più semplice per viaggiare. Copre tutte le regioni."
   keywords: eSIM Arabia Saudita, viaggio in Arabia Saudita, connettività mobile, roaming
     internazionale, internet illimitato
 order_summary:

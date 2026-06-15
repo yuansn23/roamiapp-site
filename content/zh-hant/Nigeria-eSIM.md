@@ -1,6 +1,6 @@
 ---
 title: 奈及利亞 eSIM 方案 | 奈及利亞 eSIM | Roami
-date: '2026-05-19T10:40:03+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 奈及利亞 eSIM | eSIM無限流量 | 5G網路自動切換 | Roami
-  description: 奈及利亞旅遊推薦 Roami eSIM 無限流量方案，支援 5G 網路自動切換。現在購買並使用折扣碼 20%，領取您的旅遊優惠折扣。
+  title: "奈及利亞 eSIM | 流量吃到飽即時通超方便"
+  description: "去奈及利亞旅行不必擔心上網問題。Roami eSIM 只要兩分鐘就能快速開通，出發前先安裝好 QR Code，抵達目的地連上網路就能馬上打卡報平安，簡單方便。覆蓋 全區。"
   keywords: 奈及利亞 eSIM, 奈及利亞旅遊, 拉各斯 eSIM, 阿布加網路, 哈科特港 4G, 奈及利亞上網
 order_summary:
   title: 選擇 奈及利亞 eSIM

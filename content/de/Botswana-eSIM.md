@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Botswana eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die günstigste Prepaid Reise eSIM für Botswana von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle."
+  description: "Für Botsuana wählen Sie Roami und zahlen weniger. Unsere eSIM ist unschlagbar günstig. Deckt alle Regionen ab."
   keywords: eSim Botswana, Reise eSim, Botswana Reise, mobiles Internet Botswana,
     Touristen eSim Botswana
 order_summary:

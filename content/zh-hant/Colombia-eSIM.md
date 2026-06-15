@@ -1,6 +1,6 @@
 ---
 title: 哥倫比亞 eSIM 方案 | 哥倫比亞 eSIM | Roami
-date: '2026-05-19T10:42:25+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 哥倫比亞 eSIM | eSIM無限流量 | 5G網路自動切換 | Roami
-  description: 哥倫比亞旅遊必備 Roami eSIM 無限流量方案，支援 5G 網路自動切換。現在下單並使用折扣碼 20%，為您的旅程增添更多優惠。
+  title: "哥倫比亞 eSIM | 高速 5G 流量吃到飽出國必備"
+  description: "想要 哥倫比亞 的 eSIM 嗎？Roami 直接把 QR Code 寄到您的信箱。免運費不用出門，在家裡就能搞定出國上網的所有準備工作，輕鬆又省事。覆蓋 全區。"
   keywords: 哥倫比亞 eSIM, 哥倫比亞上網, 哥倫比亞網路覆蓋, 波哥大, 麥德林, 卡塔赫納, 哥倫比亞旅遊
 order_summary:
   title: 選擇 哥倫比亞 eSIM

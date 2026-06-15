@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Mexique | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM Mexique | -20 %, données 5G illimitées"
-  description: "Restez connecté au Mexique avec l'eSIM Roami. 5G illimitée dans tout le pays, pas de frais d'itinérance. Activation instantanée. Forfaits à partir de 1,99 $."
+  title: "Mexique eSIM | Voyagez avec données illimitées"
+  description: "Restez connecte a Mexique avec les donnees illimitees Roami. Surfez, partagez, appelez sans compter. Couvre tout le pays."
   keywords: eSIM Mexique, internet mobile Mexique, voyage Mexique, connexion 4G/5G
     Mexique
 order_summary:

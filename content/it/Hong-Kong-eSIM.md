@@ -1,6 +1,6 @@
 ---
 title: eSIM Hong Kong Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Hong Kong | Risparmia il 20%, 5G Veloce"
-  description: "Naviga a Hong Kong con Roami eSIM. 5G veloce in tutta la città. Attivazione immediata all'arrivo. Piani dati illimitati disponibili."
+  title: "Hong Kong eSIM | Prepagato senza vincoli"
+  description: "Roami per Hong Kong: niente contratto, niente vincoli. Usala durante la tua vacanza, poi è finita. Senza complicazioni. Copre tutte le regioni."
   keywords: eSIM Hong Kong, viaggio Hong Kong, copertura rete Hong Kong, operatore
     mobile Hong Kong, turismo Hong Kong
 order_summary:

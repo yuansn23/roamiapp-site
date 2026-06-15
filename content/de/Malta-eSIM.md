@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Malta eSIM | Unbegrenztes Datenvolumen für unterwegs"
-  description: "Prepaid eSIM für Malta mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort aktivieren & nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle."
+  description: "Sie möchten eine eSIM für Malta? Roami liefert den Code direkt per Email, ohne Versandkosten. Deckt alle Regionen ab."
   keywords: Malta eSIM, mobile Daten Malta, Reise eSIM Malta, Internet Malta, 5G Malta,
     günstige eSIM Malta
 order_summary:

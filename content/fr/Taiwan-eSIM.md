@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Taïwan | Meilleur eSIM voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
 seo:
-  title: "eSIM Taïwan | 5G rapide sur toute l'île"
-  description: "Explorez Taïwan avec l'eSIM Roami. 5G rapide sur toute l'île. Activation instantanée par QR. Forfaits données illimitées disponibles."
+  title: "Taïwan eSIM | Acheter prépayé, activation immédiate"
+  description: "Besoin de beaucoup de data a Taïwan? Roami propose des forfaits avec donnees illimitees. Plus besoin de chercher le WiFi. Couvre tout le pays."
   keywords: eSIM Taïwan, eSIM prépayée Taïwan, données illimitées Taïwan, eSIM pas cher Taïwan, internet voyage Taïwan
   low_price: 1.99
   high_price: 39.9

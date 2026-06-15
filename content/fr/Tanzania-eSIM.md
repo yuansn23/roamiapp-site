@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Tanzanie | Meilleur eSIM voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
 seo:
-  title: "eSIM Tanzanie | 5G rapide, forfaits données illimitées"
-  description: "Explorez la Tanzanie avec l'eSIM Roami. 5G rapide à Dar es Salaam, Zanzibar et dans tout le pays. Activation instantanée. Données illimitées."
+  title: "Tanzanie eSIM | Acheter pas cher, données illimitées"
+  description: "Roami pour Tanzanie : installation rapide et activation immediate. Pas besoin de chercher une boutique sur place. Couvre tout le pays."
   keywords: eSIM Tanzanie, eSIM prépayée Tanzanie, eSIM pas cher Tanzanie, internet voyage Tanzanie, eSIM pour touristes
   low_price: 1.99
   high_price: 39.9

@@ -1,6 +1,6 @@
 ---
 title: Sud-est asiatico eSIM Tariffa Dati | Migliore eSIM da viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con il codice: web20
 seo:
-  title: "eSIM Sud-est Asiatico | 10 Paesi, 20% DI SCONTO"
-  description: "Salta da un paese all'altro del Sud-est asiatico con una sola eSIM Roami. 5G in Thailandia, Vietnam, Malesia e altri 7 paesi. Nessuna tariffa di confine. QR immediato."
+  title: "Sud-est Asiatico eSIM | Thailandia Vietnam"
+  description: "Esplora il Sud-est Asiatico con Roami eSIM. Thailandia, Vietnam, Indonesia, Filippine, Malaysia: una sola eSIM per tutta la regione."
   keywords: Sud-est asiatico eSIM, eSIM conveniente, dati illimitati, eSIM da viaggio, Asia, consegna immediata, attivazione QR code
   low_price: 1.99
   high_price: 39.9

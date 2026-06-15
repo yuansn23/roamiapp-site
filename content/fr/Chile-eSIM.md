@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Chili | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM Chili | -20 %, 5G rapide dans tout le pays"
-  description: "Voyagez au Chili avec l'eSIM Roami. 5G rapide de Santiago à la Patagonie. Activation instantanée. Données illimitées à partir de 1,99 $."
+  title: "Chili eSIM | Activation immédiate au meilleur prix"
+  description: "Preparez votre voyage a Chili avec Roami. Notre eSIM vous accompagne partout pour un voyage sans accroc. Couvre tout le pays."
   keywords: Chili, eSIM, itinérance, forfait mobile, voyage Chili, couverture réseau
     5G
 order_summary:

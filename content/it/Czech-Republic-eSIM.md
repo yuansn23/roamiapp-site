@@ -1,6 +1,6 @@
 ---
 title: eSIM Repubblica Ceca Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Repubblica Ceca | 20% DI SCONTO, Nessun Roaming"
-  description: "Visita la Repubblica Ceca con Roami eSIM. 5G veloce a Praga e in tutta la nazione. Attivazione QR immediata. Dati illimitati. Nessun roaming UE."
+  title: "Repubblica Ceca eSIM | Ricarica immediata senza contratto"
+  description: "Cerchi una eSIM economica per Repubblica Ceca? Roami offre il miglior prezzo sul mercato. Nessun costo nascosto, qualità garantita. Acquista online e usa subito."
   keywords: eSIM Repubblica Ceca, Internet mobile Praga, viaggio Repubblica Ceca,
     connettività ceca, roaming dati
 order_summary:

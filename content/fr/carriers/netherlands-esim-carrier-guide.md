@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Pays-Bas | KPN, Vodafone ou T-Mobile ?"
-description: "Roami compare les opérateurs néerlandais pour l'eSIM de voyage. 5G dense dans tout le pays. Quel réseau vous offre les données les plus rapides ?"
-date: '2026-06-04T00:00:00+00:00'
+title: "NL eSIM Guide | KPN, Vodafone or T-Mobile?"
+description: "Vous voulez une eSIM pas chere pour Pays-Bas? Roami vous propose le prix le plus attractif du marche. Couvre tout le pays."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Pays-Bas, données prépayées, réseau 5G, Odido, KPN, Vodafone, voyage
   d'affaires, données illimitées
 site_name: Roami

@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Kasachstan eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Prepaid eSIM für Kasachstan mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
+  description: "Für Kasachstan bietet Roami eine eSIM ohne Vertragsbindung. Nutzen Sie sie für Ihre Reise, dann ist Schluss. Nichts zu kündigen. Deckt alle Regionen ab."
   keywords: Kasachstan eSIM, Internet in Kasachstan, Reise eSIM, mobilfunk Kasachstan,
     LTE Kasachstan
 order_summary:

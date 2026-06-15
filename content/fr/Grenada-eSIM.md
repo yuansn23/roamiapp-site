@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Grenade | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM Grenade | 5G fiable sur toutes les îles"
-  description: "Restez connecté à la Grenade avec l'eSIM Roami. 5G fiable sur toutes les îles. Activation instantanée par QR. Données illimitées à partir de 1,99 $."
+  title: "Grenade eSIM | Acheter prépayé, activation immédiate"
+  description: "L'eSIM Roami pour Grenade inclut des donnees illimitees. Ideal pour les voyageurs qui veulent rester en ligne sans stress. Couvre tout le pays."
   keywords: eSIM Grenade, forfait mobile Grenade, internet voyage Grenade, couverture
     réseau Grenade, carte eSIM Grenade
 order_summary:

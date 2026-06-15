@@ -1,6 +1,6 @@
 ---
 title: "UK Carrier Guide | Best Prepaid eSIM Plans Compared"
-description: "Roami compares all four UK networks for travel eSIM. EE, Vodafone, O2 & Three 5G speeds across Britain. Pick the right carrier for your trip to the UK."
+description: "Die Roami eSIM für UK bietet unbegrenztes Datenvolumen. Ideal für Reisende, die immer online sein wollen. Deckt alle Regionen ab."
 date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Großbritannien, Prepaid Daten, 5G Netz, EE, Vodafone, O2, Three, Roami
   eSIM, Reise eSIM UK

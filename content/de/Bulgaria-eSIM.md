@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Bulgarien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die günstigste Prepaid Reise eSIM für Bulgarien von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle."
+  description: "Die Roami eSIM für Bulgarien bietet unbegrenztes Datenvolumen. Ideal für Reisende, die immer online sein wollen. Deckt alle Regionen ab."
   keywords: eSIM Bulgarien, Reise Internet Bulgarien, mobiles Internet Bulgarien,
     günstige eSIM Bulgarien, Datenpaket Bulgarien
 order_summary:

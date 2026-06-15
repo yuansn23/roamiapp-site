@@ -1,7 +1,7 @@
 ---
-title: 歐洲 eSIM | 40+ 國家，單一方案，無漫遊費
-description: 使用一張 Roami 預付費 eSIM 暢遊歐洲 — 最適合多國歐洲旅行的 eSIM。47 個國家跨境 5G，於當地網路即時啟用。無漫遊費。無限數據方案從 5 美元起。
-date: 2026-06-08
+title: "歐洲 eSIM | 40+ 國家一卡通用超方便"
+description: "用 Roami eSIM 暢遊歐洲各國，無論是法國巴黎、義大利羅馬還是德國柏林，一卡就能適用 40 多個國家，隨處穩定連線讓您的旅行更輕鬆自在。"
+date: '2026-06-14T00:00:00+00:00'
 lastmod: 2026-06-08
 type: regional-esim
 breadcrumbs:

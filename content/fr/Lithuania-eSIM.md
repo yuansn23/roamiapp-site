@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Lituanie | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM Lituanie | 5G rapide dans tout le pays"
-  description: "Découvrez la Lituanie avec l'eSIM Roami. 5G rapide dans tout le pays. Activation instantanée par QR. Forfaits données illimitées. Aucun contrat."
+  title: "Lituanie eSIM | Données illimitées au meilleur prix"
+  description: "Roami pour Lituanie : installation rapide et activation immediate. Pas besoin de chercher une boutique sur place. Couvre tout le pays."
   keywords: eSIM Lituanie, forfait mobile Lituanie, internet voyage Lituanie, carte
     eSIM Lituanie, téléphone Lituanie
 order_summary:

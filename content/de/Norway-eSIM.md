@@ -20,7 +20,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: web20
 seo:
   title: "Norwegen eSIM | Ohne Vertrag & sofort nutzbar"
-  description: "Reisen Sie nach Norwegen mit Roamis günstiger Prepaid eSIM. Unbegrenztes Datenvolumen, sofort aktiviert, ohne Vertrag. Jetzt online kaufen. Deckt alle Regionen ab."
+  description: "Sie kommen in Norwegen an? Aktivieren Sie Ihre Roami eSIM sofort, ohne Papierkram. In Sekunden online. Deckt alle Regionen ab."
   keywords: Norwegen eSIM, eSIM Norwegen, Reise eSIM Norwegen, sofortige Lieferung
     eSIM, keine Roaming-Gebühren, QR-Code Aktivierung, günstige eSIM Norwegen, Mobilfunk
     Norwegen

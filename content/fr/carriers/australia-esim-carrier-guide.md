@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Australie | Telstra, Optus ou Vodafone ?"
-description: "Roami compare les opérateurs australiens pour l'eSIM de voyage. 5G de Sydney à Perth. Données de vitesse pour les voyageurs en ville et dans l'outback."
-date: '2026-06-04T00:00:00+00:00'
+title: "Australia Carrier Guide | Best Prepaid eSIM Plans"
+description: "L'eSIM Roami pour Australie au meilleur prix. Simple, rapide, fiable. Couvre Sydney, Melbourne & toute l'Australie."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Australie, données prépayées, réseau 5G, Optus, Telstra, Superloop,
   voyage Australie, internet mobile Australie
 site_name: Roami

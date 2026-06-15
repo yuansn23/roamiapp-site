@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "China eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die günstigste Prepaid eSIM für China von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar. Deckt Peking, Shanghai & alle Städte ab."
+  description: "Bereiten Sie Ihre Reise nach China mit Roami vor. Unsere eSIM begleitet Sie überall hin für eine sorgenfreie Reise. Deckt Peking, Shanghai & alle großen Städte ab."
   keywords: China eSIM, Reise China, mobiles Internet China, China SIM Karte, günstige
     eSIM China
 order_summary:

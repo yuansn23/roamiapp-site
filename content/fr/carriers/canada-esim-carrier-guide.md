@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Canada | Rogers, Bell ou Telus ?"
-description: "Roami évalue les trois grands opérateurs canadiens pour l'eSIM de voyage. 5G de Toronto aux Rocheuses. Trouvez le meilleur réseau pour votre voyage."
-date: '2026-06-04T00:00:00+00:00'
+title: "Canada Carrier Guide | Best Prepaid eSIM Plans Compared"
+description: "Profitez de donnees illimitees a Canada avec Roami. Navigation, streaming, reseaux sociaux, tout est permis. Couvre Toronto, Vancouver & tout le Canada."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Canada, données prépayées, réseau 5G, Bell, Rogers, TELUS, forfait
   data voyage
 site_name: Roami

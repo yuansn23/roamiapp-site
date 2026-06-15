@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Singapur eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die günstigste Prepaid eSIM für Singapur von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar. Deckt Singapur & die ganze Insel ab."
+  description: "Die Roami eSIM für Singapur ist in wenigen Sekunden aktiviert. Code per Email erhalten und loslegen. Deckt Singapur & die ganze Insel ab."
   keywords: eSIM Singapur, Reise eSIM, mobiles Internet Singapur, günstige eSIM, Reisevorbereitung
     Singapur
 order_summary:

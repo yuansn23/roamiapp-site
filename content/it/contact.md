@@ -3,12 +3,12 @@ title: "Contattaci | Supporto clienti Roami"
 description: "Contatta il team di supporto clienti di Roami. Offriamo servizio 24/7 e siamo sempre pronti ad aiutarti con qualsiasi domanda sulle eSIM."
 layout: "contact"
 type: "page"
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-14T00:00:00+00:00'
 
 # SEO
 seo:
-  title: "Contattaci | Supporto eSIM 24/7 in Tutto il Mondo"
-  description: "Hai bisogno di aiuto con la tua eSIM Roami? Il nostro team gestisce attivazione, rimborsi e domande di viaggio. Contattaci in qualsiasi momento in tutto il mondo."
+  title: "Contattaci | Supporto 24/7"
+  description: "Hai bisogno di aiuto con Roami eSIM? Il nostro servizio clienti è disponibile 24 ore su 24 per assistenza su attivazione, rimborsi e viaggi."
   image: "/img/og-contact.jpg"
 
 # JSON-LD Schema

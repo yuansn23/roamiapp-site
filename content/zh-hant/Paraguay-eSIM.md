@@ -1,6 +1,6 @@
 ---
 title: 巴拉圭 eSIM 方案 | 巴拉圭 eSIM | Roami
-date: '2026-05-19T10:21:28+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 巴拉圭 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
-  description: 巴拉圭旅遊必備 Roami eSIM，暢享最佳 5G 高速網路。現在選購並輸入折扣碼 20%，讓您的旅途連線品質有保障，費用更實惠。
+  title: "巴拉圭 eSIM | 高速 5G 網路吃到飽超值"
+  description: "準備好去巴拉圭旅行了嗎？Roami eSIM 是您旅途中最棒的夥伴。出發前線上買好抵達就能立刻使用，不用忙著找 SIM 卡辦網路，讓旅程更輕鬆自在。覆蓋 全區。"
   keywords: 巴拉圭 eSIM, 巴拉圭網路, 巴拉圭旅遊, 亞松森 eSIM, 東方市 eSIM, 巴拉圭行動網路, 巴拉圭景點
 order_summary:
   title: 選擇 巴拉圭 eSIM

@@ -1,6 +1,6 @@
 ---
 title: 保加利亞 eSIM 方案 | 保加利亞 eSIM | Roami
-date: '2026-05-19T09:57:18+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 保加利亞 eSIM | 流量吃到飽 | 最佳5G高速網路 | Roami
-  description: 保加利亞旅遊首選 Roami eSIM，流量吃到飽與最佳 5G 高速網路。別忘了使用折扣碼 20%，讓您的歐洲旅程連線更超值！
+  title: "保加利亞 eSIM | 高速網路不限流量隨時連線"
+  description: "去保加利亞需要穩定可靠的網路嗎？Roami eSIM 提供高速 5G 連線，讓您不用到處尋找 WiFi 訊號。地圖導航社群媒體影音串流全都順暢無比。覆蓋 全區。"
   keywords: 保加利亞 eSIM, 保加利亞網路覆蓋, 保加利亞旅遊, 索菲亞 eSIM, 普羅夫迪夫網路, 瓦爾納海灘, 保加利亞運營商, A1, Telenor,
     Vivacom
 order_summary:

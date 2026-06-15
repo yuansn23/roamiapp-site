@@ -1,6 +1,6 @@
 ---
 title: 馬爾他 eSIM 方案 | 馬爾他 eSIM | Roami
-date: '2026-05-19T10:05:02+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 馬爾他旅遊 eSIM | 流量吃到飽 | 最佳5G高速網路 | Roami
-  description: 馬爾他旅遊首選 Roami eSIM，流量吃到飽與最佳 5G 高速網路。現在選購並輸入折扣碼 20%，領取您的專屬旅遊網卡折扣。
+  title: "馬爾他 eSIM | 高速上網預付卡超值推薦"
+  description: "想要 馬爾他 的 eSIM 嗎？Roami 直接把 QR Code 寄到您的信箱。免運費不用出門，在家裡就能搞定出國上網的所有準備工作，輕鬆又省事。覆蓋 全區。"
   keywords: 馬爾他 eSIM, 馬爾他網路, 馬爾他旅遊, 馬爾他景點, 馬爾他交通, 馬爾他飯店, 馬爾他緊急電話
 order_summary:
   title: 選擇 馬爾他 eSIM

@@ -1,6 +1,6 @@
 ---
 title: eSIM Dominica Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Dominica | 5G Veloce su Tutta l'Isola"
-  description: "Visita la Dominica con Roami eSIM. 5G veloce su tutta l'isola. Attivazione immediata. Piani dati illimitati. Nessun contratto."
+  title: "Dominica eSIM | Compra al miglior prezzo online"
+  description: "Viaggia in Dominica senza pensieri. Roami non ti lega ad alcun abbonamento. Decidi tu quanto e quando usarla. Semplice e onesto. Copre tutte le regioni."
   keywords: eSIM Dominica, viaggio Dominica, rete mobile Dominica, copertura eSIM,
     internet Dominica
 order_summary:

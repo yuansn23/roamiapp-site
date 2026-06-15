@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Colombie | Claro, Movistar ou Tigo ?"
-description: "Roami compare les opérateurs colombiens pour l'eSIM de voyage. 5G de Bogota à Carthagène. Trouvez le réseau le plus rapide."
-date: '2026-06-04T00:00:00+00:00'
+title: "Colombia eSIM Guide | Claro, Movistar or Tigo?"
+description: "Roami pour Colombie : installation rapide et activation immediate. Pas besoin de chercher une boutique sur place. Couvre tout le pays."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Colombie, données prépayées, réseau 5G, Claro, Movistar, Tigo, forfait
   voyage, données illimitées
 site_name: Roami

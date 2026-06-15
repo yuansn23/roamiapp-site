@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Canada | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM Canada | Économisez 20 %, données 5G illimitées"
-  description: "Restez connecté au Canada avec l'eSIM Roami. 5G illimitée sur les meilleurs réseaux. Activation instantanée. Pas de frais cachés, pas de contrat."
+  title: "Canada eSIM | Pas cher & sans engagement"
+  description: "Voyagez a Canada en toute liberte avec Roami. Pas d'engagement, pas de renouvellement automatique. Simple et honnete. Couvre Toronto, Vancouver & tout le Canada."
   keywords: eSIM Canada, internet voyage Canada, forfait data Canada, réseau mobile
     Canada, tourisme Canada
 order_summary:

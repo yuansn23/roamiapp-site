@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Irland eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die günstigste Prepaid Reise eSIM für Irland von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle."
+  description: "Sie wollen eine günstige eSIM für Irland? Roami bietet den besten Preis auf dem Markt. Keine versteckten Kosten. Deckt alle Regionen ab."
   keywords:
   - Irland eSIM
   - LTE Netz

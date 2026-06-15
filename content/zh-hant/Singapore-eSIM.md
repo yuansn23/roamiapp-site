@@ -1,6 +1,6 @@
 ---
 title: 新加坡 eSIM 方案 | 新加坡 eSIM | Roami
-date: '2026-05-19T09:48:38+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 新加坡旅遊 eSIM | 流量吃到飽 | 最佳5G高速網路 | Roami
-  description: 新加坡旅遊首選 Roami eSIM，流量吃到飽與最佳 5G 高速網路。立即購買並輸入折扣碼 20%，讓您的新加坡之行連線更加順暢。
+  title: "新加坡 eSIM | 高速上網預付卡超值推薦"
+  description: "出發前安裝好 Roami eSIM，落地新加坡就能馬上連線。不用繁瑣設定也不用跑門市，QR Code 直接寄到信箱，啟用快速又可靠，省時省力。覆蓋 新加坡全島。"
   keywords: 新加坡 eSIM, 新加坡上網卡, 新加坡旅遊, 新加坡網路, 樟宜機場, 星和電信, 新電信, M1, 新加坡景點, 新加坡美食
 order_summary:
   title: 選擇 新加坡 eSIM

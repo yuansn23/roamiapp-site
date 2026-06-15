@@ -1,6 +1,6 @@
 ---
 title: eSIM Lettonia Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Lettonia | 5G Affidabile in Tutta la Nazione"
-  description: "Visita la Lettonia con Roami eSIM. 5G affidabile in tutta la nazione. Attivazione immediata. Dati illimitati da 1,99 $."
+  title: "Lettonia eSIM | Offerte eSIM per viaggiatori"
+  description: "Viaggia in Lettonia in libertà con Roami. Nessun rinnovo automatico, nessuna penale di recesso. Usala e basta. Copre tutte le regioni."
   keywords: eSIM Lettonia, copertura mobile Lettonia, viaggio in Lettonia, internet
     Lettonia, roaming Lettonia
 order_summary:

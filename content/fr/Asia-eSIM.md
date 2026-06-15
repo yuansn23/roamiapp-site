@@ -1,7 +1,7 @@
 ---
-title: Asie eSIM | 15+ pays, -20 % DE RÉDUCTION, Un seul tarif
-description: Voyagez en Asie avec une eSIM prépayée Roami – la meilleure eSIM pour l'Asie, couvrant le Japon, la Corée, la Thaïlande, Singapour et 12+ autres pays. Activation instantanée sur les réseaux locaux sans frais d'itinérance. Tarifs à partir de 1,99 $.
-date: '2026-06-08'
+title: "Asie eSIM | Activation immédiate pas chère"
+description: "Explorez l'Asie avec Roami. Disponible au Japon, Coree, Thailande, Inde et 12+ pays. Une eSIM pour tout le continent."
+date: '2026-06-14T00:00:00+00:00'
 lastmod: '2026-06-08'
 type: regional-esim
  

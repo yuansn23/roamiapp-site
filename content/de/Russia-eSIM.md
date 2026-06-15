@@ -20,7 +20,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Russland eSIM | Prepaid Datenvolumen für den Urlaub"
-  description: "Prepaid eSIM für Russland mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
+  description: "Roami in Russland ist ohne Vertrag. Kein Abo, keine Überraschungen. Sie zahlen nur für Ihre Reisezeit. Deckt alle Regionen ab."
   keywords: Russland eSIM, mobiles Internet Russland, Reise eSIM, LTE Russland, günstige
     eSIM
 order_summary:

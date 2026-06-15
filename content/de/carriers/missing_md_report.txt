@@ -1,6 +1,5 @@
 以下文件未更新（原因见括号内）：
 
   - macau-esim-carrier-guide.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
-  - _index.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
 
-共 2 个文件。
+共 1 个文件。

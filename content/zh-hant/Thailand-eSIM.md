@@ -1,6 +1,6 @@
 ---
 title: 泰國 eSIM 方案 | 泰國 eSIM | Roami
-date: '2026-05-19T10:19:44+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 泰國 eSIM | 流量吃到飽 | 5G網路自動切換 | Roami
-  description: 泰國旅遊首選 Roami eSIM，流量吃到飽且支援 5G 網路自動切換。立即購買並輸入折扣碼 20%，領取您的旅遊專屬優惠折扣。
+  title: "泰國 eSIM | 出國網路流量吃到飽必備"
+  description: "Roami eSIM 線上購買就是這麼簡單。選擇想要的方案、完成付款、信箱收件，簡單三個步驟就能搞定。去泰國的網路準備就是這麼輕鬆。覆蓋 曼谷、普吉島及全泰國。"
   keywords: 泰國 eSIM, 泰國網路覆蓋, 泰國旅遊, 曼谷, 普吉島, 清邁, AIS, TrueMove, dtac
 order_summary:
   title: 選擇 泰國 eSIM

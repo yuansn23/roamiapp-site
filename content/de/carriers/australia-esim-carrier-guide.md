@@ -1,6 +1,6 @@
 ---
 title: "Australia Carrier Guide | Best Prepaid eSIM Plans"
-description: "Roami compares Australian carriers for travel eSIM. Telstra, Optus & Vodafone 5G from Sydney to Perth. Speed data for city & outback travelers."
+description: "Unterwegs in Australien in voller Freiheit mit Roami. Keine automatische Verlängerung, keine Kündigung nötig. Deckt Sydney, Melbourne & ganz Australien ab."
 date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Australien, Prepaid Daten, 5G Netz, Optus, Telstra, Vodafone, Reise
   eSIM, Roami

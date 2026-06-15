@@ -1,6 +1,6 @@
 ---
 title: 烏拉圭 eSIM 方案 | 烏拉圭 eSIM | Roami
-date: '2026-05-19T10:21:32+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 烏拉圭 eSIM | 流量吃到飽 | 5G網路自動切換 | Roami
-  description: 烏拉圭旅遊首選 Roami eSIM，流量吃到飽與 5G 網路自動切換。別忘了在結帳時使用折扣碼 20%，獲取您的旅遊網卡折扣。
+  title: "烏拉圭 eSIM | 流量吃到飽即時通超方便"
+  description: "線上購買 烏拉圭 的 Roami eSIM 只要短短幾分鐘。安全付款後馬上就能收到 QR Code，不用等待運送也不用親自跑門市，方便又快速，輕鬆搞定。覆蓋 全區。"
   keywords: 烏拉圭 eSIM, 烏拉圭上網卡, 烏拉圭網路, 烏拉圭旅遊, 蒙得維的亞 eSIM, 埃斯特角城 eSIM, Antel eSIM, Claro
     eSIM, Movistar eSIM
 order_summary:

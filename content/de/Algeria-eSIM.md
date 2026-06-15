@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Algerien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Prepaid eSIM für Algerien mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
+  description: "Die Roami eSIM für Algerien kaufen Sie online ohne Wartezeit. Keine Lieferung, alles digital. Deckt alle Regionen ab."
   keywords: Algerien eSIM, mobile Daten Algerien, Reise eSIM Algerien, günstige eSIM
     Algerien, Internet Algerien
 order_summary:

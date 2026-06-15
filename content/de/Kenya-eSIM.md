@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Kenia eSIM | Unbegrenztes Datenvolumen zum Bestpreis"
-  description: "Die günstigste Prepaid Reise eSIM für Kenia von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle Regionen ab."
+  description: "Brauchen Sie eine bezahlbare eSIM für Kenia? Roami bietet Top-Qualität zum kleinen Preis. Deckt alle Regionen ab."
   keywords: eSIM Kenia, mobiles Internet Kenia, Reise eSIM, Kenya Reise, LTE Kenia
 order_summary:
   title: Ausgewählter Tarif

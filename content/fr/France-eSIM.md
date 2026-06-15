@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM France | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM France | Économisez 20 %, données 5G rapides"
-  description: "Visitez la France avec l'eSIM Roami. Vitesses 5G rapides, activation instantanée avant votre arrivée. Données illimitées disponibles. Pas de frais d'itinérance."
+  title: "France eSIM | Voyagez avec données illimitées"
+  description: "L'eSIM Roami pour France inclut des donnees illimitees. Ideal pour les voyageurs qui veulent rester en ligne sans stress. Couvre Paris, Nice, la Provence."
   keywords: eSIM France, forfait mobile France, voyage France, connexion internet
     France, données mobiles France
 order_summary:

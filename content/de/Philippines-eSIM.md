@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Philippinen eSIM | Günstigste Prepaid Option"
-  description: "Die günstigste Prepaid Reise eSIM für Philippinen von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort nutzbar nach Aktivierung. Deckt alle Regionen ab."
+  description: "Für Ihre Reise nach Philippinen ist die Roami eSIM in 2 Minuten einsatzbereit. Schnell und ohne Komplikationen. Deckt alle Regionen ab."
   keywords: eSIM Philippinen, Mobilfunk Philippinen, Internet Philippinen, Reisen
     Philippinen, Netzabdeckung Philippinen
 order_summary:

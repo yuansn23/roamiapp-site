@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Paraguay | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,8 +20,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM Paraguay | 5G rapide dans tout le pays"
-  description: "Explorez le Paraguay avec l'eSIM Roami. 5G rapide dans tout le pays. Activation instantanée. Données illimitées à partir de 1,99 $."
+  title: "Paraguay eSIM | Activation immédiate au meilleur prix"
+  description: "Pour vos voyage a Paraguay, Roami est la solution eSIM la plus pratique. Prete a l'emploi des l'arrivee. Couvre tout le pays."
   keywords: eSIM Paraguay, forfait mobile Paraguay, internet voyage Paraguay, couverture
     réseau Paraguay, opérateurs Paraguay
 order_summary:

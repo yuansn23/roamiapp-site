@@ -1,6 +1,6 @@
 ---
 title: eSIM Serbia Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Serbia | 5G Veloce, Nessun Contratto Necessario"
-  description: "Rimani connesso in Serbia con Roami eSIM. 5G veloce in tutta la nazione. Attivazione QR immediata. Piani dati illimitati."
+  title: "Serbia eSIM | Compra al miglior prezzo online"
+  description: "Viaggia in Serbia senza pensieri con Roami. La nostra eSIM ti segue ovunque per un viaggio sereno. Copre tutte le regioni."
   keywords: eSIM Serbia, viaggio in Serbia, copertura mobile Serbia, internet Serbia,
     roaming Serbia
 order_summary:

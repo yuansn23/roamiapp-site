@@ -1,6 +1,6 @@
 ---
 title: 俄羅斯 eSIM 方案 | 俄羅斯 eSIM | Roami
-date: '2026-05-19T10:09:38+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 俄羅斯 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
-  description: 俄羅斯旅遊必備 Roami eSIM，暢享最佳 5G 高速網路。現在選購並輸入折扣碼 20%，讓您的連線品質更有保障，費用更超值。
+  title: "俄羅斯 eSIM | 高速 5G 流量吃到飽首選"
+  description: "Roami 在俄羅斯不綁約也不用簽合約，只需要為您使用的天數付費。旅行結束就自然終止，沒有自動續約也不用打電話解約，自由自在完全無負擔。覆蓋 全區。"
   keywords: 俄羅斯 eSIM, 俄羅斯上網, 俄羅斯旅遊, 莫斯科網路, 聖彼得堡網路, 俄羅斯行動網路
 order_summary:
   title: 選擇 俄羅斯 eSIM

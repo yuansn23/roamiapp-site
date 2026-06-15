@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Italien eSIM | Prepaid Datenvolumen für den Urlaub"
-  description: "Die günstigste Prepaid Reise eSIM für Italien von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort nutzbar nach Aktivierung. Deckt Rom, Venedig & Florenz ab."
+  description: "Kaufen Sie Ihre Roami eSIM für Italien mit wenigen Klicks. Sichere Bezahlung, sofortiger Erhalt des Codes. Deckt Rom, Venedig & Florenz ab."
   keywords: Italien eSIM, mobiles Internet Italien, Reise eSIM, Datenflat Italien,
     Italien Urlaub, günstige eSIM Italien, Netzabdeckung Italien
 order_summary:

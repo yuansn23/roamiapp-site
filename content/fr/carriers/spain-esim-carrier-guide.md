@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Espagne | Movistar, Orange ou Vodafone ?"
-description: "Roami teste les réseaux espagnols pour l'eSIM de voyage. 5G sur le continent, les Costas et les îles. Quel opérateur a la meilleure couverture ?"
-date: '2026-06-04T00:00:00+00:00'
+title: "Spain Carrier Guide | Best Prepaid eSIM Plans Compared"
+description: "Roami pour Espagne : installation rapide et activation immediate. Pas besoin de chercher une boutique sur place. Couvre Barcelone, Madrid & les Baléares."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Espagne, données prépayées, réseau 5G, Movistar, Orange, DIGI, Roami,
   guide voyage
 site_name: Roami

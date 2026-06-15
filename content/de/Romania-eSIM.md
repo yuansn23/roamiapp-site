@@ -20,7 +20,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Rumänien eSIM | Prepaid Tarif für Reise & Urlaub"
-  description: "Prepaid eSIM für Rumänien mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
+  description: "Reisen Sie nach Rumänien ohne Verpflichtungen. Roami bindet Sie an kein Abo. Sie bestimmen alles. Deckt alle Regionen ab."
   keywords: Rumänien eSIM, mobile Daten Rumänien, Reise eSIM, Internet Rumänien, Roaming
     Rumänien
 order_summary:

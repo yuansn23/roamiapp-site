@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Bahamas eSIM | Reise eSIM mit unbegrenztem Datenvolumen"
-  description: "Reisen Sie nach Bahamas mit Roamis günstiger Prepaid eSIM. Unbegrenztes Datenvolumen, sofort aktiviert, ohne Vertrag. Jetzt online kaufen. Deckt alle Regionen ab."
+  description: "Für Ihre Reise nach Bahamas ist Roami die praktischste eSIM Lösung. Einsatzbereit ab dem ersten Moment. Deckt alle Regionen ab."
   keywords: Bahamas eSIM, Internet Bahamas, Reise eSIM Bahamas, Mobilfunk Bahamas,
     Bahamas Reise
 order_summary:

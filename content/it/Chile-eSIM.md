@@ -1,6 +1,6 @@
 ---
 title: eSIM Cile Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Cile | 20% DI SCONTO, 5G Veloce in Tutta la Nazione"
-  description: "Viaggia attraverso il Cile con Roami eSIM. 5G veloce da Santiago alla Patagonia. Attivazione immediata. Dati illimitati da 1,99 $."
+  title: "Cile eSIM | Offerte eSIM per viaggiatori"
+  description: "Prepara il tuo viaggio in Cile con Roami. La nostra eSIM ti accompagna ovunque per un'esperienza senza preoccupazioni, sempre connesso. Copre tutte le regioni."
   keywords: eSIM Cile, viaggio Cile, internet mobile Cile, copertura rete Cile, turismo
     Cile
 order_summary:

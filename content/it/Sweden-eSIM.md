@@ -1,6 +1,6 @@
 ---
 title: eSIM Svezia Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Svezia | Risparmia il 20%, 5G Affidabile"
-  description: "Viaggia in Svezia con Roami eSIM. 5G affidabile da Stoccolma al nord. Attivazione immediata. Dati illimitati."
+  title: "Svezia eSIM | Attivazione immediata conveniente"
+  description: "Acquista la tua eSIM Roami per Svezia comodamente da casa. Valida subito, pronta all'arrivo. Facile e veloce. Copre tutte le regioni."
   keywords: eSIM Svezia, viaggio in Svezia, rete mobile Svezia, internet Svezia, roaming
     Svezia
 order_summary:

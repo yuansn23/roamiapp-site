@@ -1,6 +1,6 @@
 ---
 title: 波蘭 eSIM 方案 | 波蘭 eSIM | Roami
-date: '2026-05-19T09:54:04+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 波蘭 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
-  description: 波蘭旅遊必備 Roami eSIM，支援 5G 網路自動切換。現在購買並輸入折扣碼 20%，以最實惠的價格體驗高品質旅遊連線服務。
+  title: "波蘭 eSIM | 5G 高速隨時連線不限速"
+  description: "Roami 讓您在波蘭輕鬆上網不受任何合約限制。沒有月租費也不用長期綁約，旅行期間使用剛剛好，回國後也不用擔心取消的問題，省心省力。覆蓋 全區。"
   keywords: 波蘭 eSIM, 波蘭網路, 華沙旅遊, 克拉科夫, 格但斯克
 order_summary:
   title: 選擇 波蘭 eSIM

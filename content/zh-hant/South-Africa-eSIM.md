@@ -1,6 +1,6 @@
 ---
 title: 南非 eSIM 方案 | 南非 eSIM | Roami
-date: '2026-05-19T10:13:54+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 南非 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
-  description: 南非旅遊必備 Roami eSIM，支援 5G 網路自動切換。現在購買並輸入折扣碼 20%，以最實惠的價格獲取高品質旅遊連線服務。
+  title: "南非 eSIM | 流量吃到飽免合約最自由"
+  description: "帶著 Roami 去南非旅行可以完全無憂無慮。不用煩惱網路連線問題，專心享受異國風情，隨時分享旅途中的每一個美好時刻給親友。覆蓋 全區。"
   keywords: 南非 eSIM, 南非上網, 開普敦旅遊, 約翰尼斯堡網路, Vodacom, MTN, Cell C, 南非景點, 南非旅行
 order_summary:
   title: 選擇 南非 eSIM

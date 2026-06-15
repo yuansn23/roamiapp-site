@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Brasilien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die günstigste Prepaid eSIM für Brasilien von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort nutzbar. Deckt Rio de Janeiro, São Paulo & ganz Brasilien ab."
+  description: "Unterwegs in Brasilien in voller Freiheit mit Roami. Keine automatische Verlängerung, keine Kündigung nötig. Deckt Rio, São Paulo & ganz Brasilien ab."
   keywords:
   - eSIM Brasilien
   - Reise Brasilien eSIM

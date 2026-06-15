@@ -2,12 +2,12 @@
 title: "方案"
 layout: "plans"
 type: "page"
-date: '2026-05-19T00:00:00+00:00'
+date: '2026-06-14T00:00:00+00:00'
 
 # 1. SEO 核心优化文案
 seo:
-  title: "全球eSIM方案支援200國 | 台灣用戶最愛| Roami"
-  description: "瀏覽並購買適用於 200+ 國家的最佳 5G/4G 旅遊 eSIM 方案。支援iPhone、三星等主流手機，。享即時發送、無限數據、熱點分享，只需 $1.99 起。"
+  title: "eSIM 上網方案 | 全球 200+ 國家高速 5G"
+  description: "瀏覽 Roami eSIM 各國上網方案，涵蓋 200 多個國家與地區的高速 5G 服務。即時開通不綁約也不用簽合約，出國旅行必備的上網選擇。"
   keywords: "eSIM 方案, 旅遊 eSIM, 全球 eSIM, 線上購買 eSIM, 無限數據 eSIM, 歐洲 eSIM, 美國 eSIM, 日本 eSIM, 英國 eSIM, 土耳其 eSIM, 預付 eSIM 套餐, 台灣 eSIM, 中華電信 eSIM, 遠傳 eSIM, 台灣大哥大 eSIM, Klook eSIM, KKday eSIM, iPhone eSIM, 三星 eSIM, 漫遊 eSIM, 預付卡 eSIM"
   image: "img/search.png"
 

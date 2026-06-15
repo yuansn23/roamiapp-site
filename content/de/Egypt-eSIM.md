@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Ägypten eSIM | Prepaid Datenvolumen für den Urlaub"
-  description: "Die günstigste Prepaid eSIM für Ägypten von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar. Deckt Kairo, Alexandria & Luxor ab."
+  description: "Kaufen Sie Ihre Roami eSIM für Ägypten mit wenigen Klicks. Sichere Bezahlung, sofortiger Erhalt des Codes. Deckt Kairo, Alexandria & Luxor ab."
   keywords: Ägypten eSIM, mobiles Internet Ägypten, Reise eSIM Ägypten, Ägypten Reiseführer,
     günstige eSIM Ägypten
 order_summary:

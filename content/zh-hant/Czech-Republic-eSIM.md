@@ -1,6 +1,6 @@
 ---
 title: 捷克 eSIM 方案 | 捷克 eSIM | Roami
-date: '2026-05-19T10:16:29+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 捷克旅遊 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
-  description: 捷克旅遊推薦 Roami eSIM，支援 5G 網路自動切換。現在購買並使用折扣碼 20%，以最超值的優惠享受順暢網路連線，旅途更順利。
+  title: "捷克 eSIM | 流量吃到飽高速 5G 超值方案"
+  description: "去捷克旅行想找便宜的 eSIM 上網方案嗎？Roami 提供最優惠的預付卡價格，沒有任何隱藏費用也不犧牲品質，出發前線上購買抵達目的地馬上就能使用，省錢又方便。覆蓋 全區。"
   keywords: 捷克 eSIM, 布拉格網路, 捷克行動數據, 捷克旅遊上網, 捷克預付卡
 order_summary:
   title: 選擇 捷克 eSIM

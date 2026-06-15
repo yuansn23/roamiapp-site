@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Tunesien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Reisen Sie nach Tunesien mit Roamis günstiger Prepaid eSIM. Unbegrenztes Datenvolumen, sofort aktiviert, ohne Vertrag. Jetzt online kaufen. Deckt alle Regionen ab."
+  description: "Bereiten Sie Ihre Reise nach Tunesien mit Roami vor. Unsere eSIM begleitet Sie überall hin für eine sorgenfreie Reise. Deckt alle Regionen ab."
   keywords: eSIM, Tunesien, Reise, mobiles Internet, Netzabdeckung, Tourismus, Datenpaket,
     Ausland
 order_summary:

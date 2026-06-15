@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Corée | SK Telecom, KT ou LG U+ ?"
-description: "Roami teste les réseaux 5G coréens pour l'eSIM de voyage. Comparaison des vitesses les plus rapides du monde. Données pour Séoul, Busan et Jeju."
-date: '2026-06-04T00:00:00+00:00'
+title: "South Korea Carrier Guide | Best Prepaid eSIM Plans"
+description: "Preparez votre voyage a Corée du Sud avec Roami. Notre eSIM vous accompagne partout pour un voyage sans accroc. Couvre Séoul, Busan & toute la Corée."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Corée du Sud, données prépayées, réseau 5G, SK Telecom, LG U+, KT,
   voyage Corée du Sud, itinérance, [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)
 site_name: Roami

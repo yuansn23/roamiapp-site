@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Slovaquie | Orange, Telekom ou O2 ?"
-description: "Roami compare les opérateurs slovaques pour l'eSIM de voyage. 5G à Bratislava et dans tout le pays. Trouvez le meilleur réseau."
-date: '2026-06-04T00:00:00+00:00'
+title: "Slovakia eSIM Guide | Orange, Telekom or O2?"
+description: "Pour Slovaquie, choisissez Roami et payez moins cher. Notre eSIM est au meilleur prix pour voyager sans vous ruiner. Couvre tout le pays."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Slovaquie, données prépayées, réseau 5G, Telekom, Orange, 4ka, guide
   voyage, Roami
 site_name: Roami

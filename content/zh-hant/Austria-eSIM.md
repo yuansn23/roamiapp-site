@@ -1,6 +1,6 @@
 ---
 title: 奧地利 eSIM 方案 | 奧地利 eSIM | Roami
-date: '2026-05-19T10:37:46+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 奧地利 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
-  description: 前往奧地利？Roami 提供最佳 5G 高速網路與 eSIM 無限流量。高品質服務保障您的旅程，結帳使用折扣碼 20% 立即享有專屬折扣。
+  title: "奧地利 eSIM | 流量吃到飽最划算安心用"
+  description: "去奧地利旅行不必擔心上網問題。Roami eSIM 只要兩分鐘就能快速開通，出發前先安裝好 QR Code，抵達目的地連上網路就能馬上打卡報平安，簡單方便。覆蓋 全區。"
   keywords: 奧地利 eSIM, 奧地利網路覆蓋, 維也納 eSIM, 奧地利旅遊, eSIM 奧地利, A1 網路, Magenta 奧地利
 order_summary:
   title: 選擇 奧地利 eSIM

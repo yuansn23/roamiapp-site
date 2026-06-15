@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM France | Orange, SFR ou Bouygues ?"
-description: "Roami compare les opérateurs français pour l'eSIM de voyage. 5G à Paris, sur la Côte d'Azur et en zones rurales. Lequel vous offre les vitesses les plus rapides ?"
-date: '2026-06-04T00:00:00+00:00'
+title: "France Carrier Guide | Best Prepaid eSIM Plans Compared"
+description: "Voyagez a France sans souci avec Roami. Notre eSIM vous suit partout pour un voyage en toute serenite. Couvre Paris, Nice, la Provence."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM France, données prépayées, réseau 5G, Orange, Bouygues, SFR, Free,
   voyage France, itinérance
 site_name: Roami

@@ -1,6 +1,6 @@
 ---
 title: eSIM USA Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM USA | 20% DI SCONTO, Dati 5G Illimitati"
-  description: "Viaggia negli USA con Roami eSIM. Dati 5G illimitati sulle migliori reti USA. Attivazione immediata, nessun contratto. Funziona in tutti i 50 stati."
+  title: "USA eSIM | Compra al miglior prezzo online"
+  description: "Arrivi in USA? Attiva subito la tua eSIM Roami. Nessun negozio da cercare, nessuna coda. Connesso in pochi secondi. Copre tutte le regioni."
   keywords: eSIM USA, viaggio USA, internet mobile USA, copertura 5G USA,
     roaming USA
 order_summary:

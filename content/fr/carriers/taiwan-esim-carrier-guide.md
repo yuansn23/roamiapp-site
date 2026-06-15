@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Taïwan | Chunghwa, FET ou Taiwan Mobile"
-description: "Roami compare les opérateurs taïwanais pour l'eSIM de voyage. 5G sur toute l'île. Quel réseau vous offre les meilleures vitesses d'un bout à l'autre ?"
-date: '2026-06-04T00:00:00+00:00'
+title: "Taiwan eSIM Guide | Chunghwa, FET or Taiwan Mobile"
+description: "Roami a Taïwan, c'est sans engagement. Pas d'abonnement, pas de surprise. Vous payez seulement pour votre voyage. Couvre tout le pays."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Taïwan, données prépayées, réseau 5G, opérateur Taïwan,中華電信, HiNet,
   voyage Taïwan, itinérance
 site_name: Roami

@@ -1,6 +1,6 @@
 ---
 title: 巴哈馬 eSIM 方案 | 巴哈馬 eSIM | Roami
-date: '2026-05-19T09:58:53+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 巴哈馬 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
-  description: 巴哈馬度假必備 Roami eSIM，讓您享有最佳 5G 高速網路。別忘了使用折扣碼 20%，以更划算的價格購買優質 eSIM 數據服務。
+  title: "巴哈馬 eSIM | 流量吃到飽超穩定安心用"
+  description: "準備好去巴哈馬旅行了嗎？Roami eSIM 是您旅途中最棒的夥伴。出發前線上買好抵達就能立刻使用，不用忙著找 SIM 卡辦網路，讓旅程更輕鬆自在。覆蓋 全區。"
   keywords: 巴哈馬 eSIM, 巴哈馬網路, 拿索市 eSIM, 巴哈馬旅遊, 巴哈馬上網
 order_summary:
   title: 選擇 巴哈馬 eSIM

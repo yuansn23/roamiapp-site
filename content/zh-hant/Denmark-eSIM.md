@@ -1,6 +1,6 @@
 ---
 title: 丹麥 eSIM 方案 | 丹麥 eSIM | Roami
-date: '2026-05-19T10:14:40+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 丹麥 eSIM | 流量吃到飽 | 5G網路自動切換 | Roami
-  description: 丹麥旅遊首選 Roami eSIM，流量吃到飽且支援 5G 網路自動切換。立即下單並輸入折扣碼 20%，領取您的旅遊網卡優惠折扣。
+  title: "丹麥 eSIM | 流量吃到飽免綁約隨時停"
+  description: "Roami 在丹麥給您穩定可靠的高速上網體驗。無論是在熱鬧的市區還是偏遠的郊區，都能享受順暢的 5G 連線，旅行期間隨時保持不斷線。覆蓋 全區。"
   keywords: 丹麥 eSIM, 丹麥上網, 丹麥4G, 哥本哈根網路覆蓋, TDC, Telenor, 3 Denmark, 丹麥旅遊, eSIM推薦
 order_summary:
   title: 選擇 丹麥 eSIM

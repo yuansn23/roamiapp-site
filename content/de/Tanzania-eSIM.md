@@ -20,7 +20,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: web20
 seo:
   title: "Tansania eSIM | Beste Prepaid eSIM für die Reise"
-  description: "Reisen Sie nach Tansania mit Roamis günstiger Prepaid eSIM. Unbegrenztes Datenvolumen, sofort aktiviert, ohne Vertrag. Jetzt online kaufen. Deckt alle Regionen ab."
+  description: "Roami für Tansania: schnelle Installation und sofortige Aktivierung. Kein Suchen nach einem Shop vor Ort. Deckt alle Regionen ab."
   keywords: Tanzania eSIM, Prepaid eSIM Tanzania, günstige eSIM Tanzania, mobiles
     Internet Tanzania, eSIM für Tanzania
   low_price: 1.99

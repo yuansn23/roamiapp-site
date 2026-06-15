@@ -1,6 +1,6 @@
 ---
 title: 美國 eSIM 方案 | 美國 eSIM | Roami
-date: '2026-05-19T10:31:41+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 美國旅遊 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
-  description: 美國旅遊推薦 Roami eSIM，提供最佳 5G 高速網路與無限流量。立即選購並使用折扣碼 20%，讓您的美國之旅連線更優質。
+  title: "美國 eSIM | 高速 5G 流量吃到飽出國必備"
+  description: "去美國旅行不必擔心上網問題。Roami eSIM 只要兩分鐘就能快速開通，出發前先安裝好 QR Code，抵達目的地連上網路就能馬上打卡報平安，簡單方便。覆蓋 全區。"
   keywords: 美國eSIM, 美國旅遊, 美國網路覆蓋, 紐約觀光, 洛杉磯景點, 美國行動數據
 order_summary:
   title: 選擇 美國 eSIM

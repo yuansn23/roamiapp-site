@@ -1,6 +1,6 @@
 ---
 title: "Dominican eSIM Guide | Claro, Altice or Viva?"
-description: "Roami compares Dominican Republic carriers for travel eSIM. Claro, Altice & Viva 5G in Punta Cana & nationwide. Find the best network for your Caribbean escape."
+description: "Die Roami eSIM für Dominikanische Republik kaufen Sie online ohne Wartezeit. Keine Lieferung, alles digital. Deckt alle Regionen ab."
 date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Dominikanische Republik, Prepaid Daten, 5G Netz, Altice Dominicana,
   Claro Dominicana, Viva, Roami eSIM, Reise Internet Karibik

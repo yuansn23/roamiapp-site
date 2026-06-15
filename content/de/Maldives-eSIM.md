@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Malediven eSIM | Beste Prepaid eSIM für die Reise"
-  description: "Reisen Sie nach Malediven mit Roamis günstiger Prepaid eSIM. Unbegrenztes Datenvolumen, sofort aktiviert, ohne Vertrag. Jetzt online kaufen. Deckt alle Regionen ab."
+  description: "Roami macht Ihre Reise nach Malediven einfacher. Eine eSIM, die Sie vor Abreise herunterladen – bereit bei Ankunft. Deckt alle Regionen ab."
   keywords: Malediven eSIM, Reise eSIM Malediven, mobiles Internet Malediven, Urlaub
     Malediven, eSIM für Malediven, günstige eSIM Malediven
 order_summary:

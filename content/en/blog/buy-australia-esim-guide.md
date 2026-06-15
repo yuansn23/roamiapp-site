@@ -13,6 +13,7 @@ readingTime: 16
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
+h1title: "2026 Australia eSIM: From Urban 5G to Outback – Never Lose Signal"
 
 # Sidebar module titles
 productsTitle: "Popular eSIM Plans"

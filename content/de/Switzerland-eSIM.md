@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Schweiz eSIM | Unbegrenztes Datenvolumen für unterwegs"
-  description: "Die günstigste Prepaid Reise eSIM für Schweiz von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort nutzbar nach Aktivierung. Deckt Zürich, Genf & die Alpen ab."
+  description: "Sie möchten eine eSIM für Schweiz? Roami liefert den Code direkt per Email, ohne Versandkosten. Deckt Zürich, Genf & die Alpen ab."
   keywords: eSIM Schweiz, Reise eSIM Schweiz, Schweiz Mobilfunk, Daten eSIM Schweiz,
     Schweiz Netzabdeckung, Schweiz Reisen, Schweiz Tourismus, Swisscom eSIM, Sunrise
     eSIM, Salt eSIM

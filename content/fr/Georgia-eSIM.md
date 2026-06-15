@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Géorgie | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM Géorgie | 5G rapide dans tout le pays"
-  description: "Explorez la Géorgie avec l'eSIM Roami. 5G rapide dans tout le pays. Activation instantanée. Données illimitées. Pas de frais d'itinérance."
+  title: "Géorgie eSIM | Activation rapide, pas d'engagement"
+  description: "L'eSIM prepayee Roami pour Géorgie s'achete en ligne sans attendre. Pas de livraison, tout est dematerialise. Couvre tout le pays."
   keywords: eSIM Géorgie, forfait mobile Géorgie, internet voyage Géorgie, carte SIM
     virtuelle Géorgie, connexion 4G Géorgie
 order_summary:

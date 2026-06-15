@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Aserbaidschan eSIM | Prepaid für Reise & Urlaub"
-  description: "Die günstigste Prepaid Reise eSIM für Aserbaidschan von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort nutzbar nach Aktivierung. Deckt alle Regionen ab."
+  description: "Die Roami eSIM für Aserbaidschan ist in wenigen Sekunden aktiviert. Code per Email erhalten und loslegen. Deckt alle Regionen ab."
   keywords: eSIM Aserbaidschan, Reise eSIM, mobiles Internet Aserbaidschan, Daten
     eSIM, Reisevorbereitung Aserbaidschan
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: 馬爾地夫 eSIM 方案 | 馬爾地夫 eSIM | Roami
-date: '2026-05-19T10:41:13+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 馬爾地夫 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
-  description: 馬爾地夫度假必備 Roami eSIM，暢享最佳 5G 高速網路。現在購買並輸入折扣碼 20%，以最超值的優惠享受高品質的旅遊連線服務。
+  title: "馬爾地夫 eSIM | 5G 高速隨時連線不限速"
+  description: "準備好去馬爾地夫旅行了嗎？Roami eSIM 是您旅途中最棒的夥伴。出發前線上買好抵達就能立刻使用，不用忙著找 SIM 卡辦網路，讓旅程更輕鬆自在。覆蓋 全區。"
   keywords: 馬爾地夫 eSIM, 馬爾地夫上網, 馬爾代夫旅遊, 馬爾地夫網路覆蓋, 馬爾地夫機場, 馬爾地夫度假村, 馬累, 馬爾地夫景點
 order_summary:
   title: 選擇 馬爾地夫 eSIM

@@ -1,6 +1,6 @@
 ---
 title: 加拿大 eSIM 方案 | 加拿大 eSIM | Roami
-date: '2026-05-19T09:49:05+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 美國旅遊 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
-  description: 美國旅遊推薦 Roami eSIM，提供最佳 5G 高速網路與無限流量。立即選購並使用折扣碼 20%，讓您的美國之旅連線更優質。
+  title: "加拿大 eSIM | 高速 5G 網路吃到飽超值"
+  description: "去加拿大玩不想被合約綁住嗎？Roami eSIM 就是不綁約的方案。依照需求自由選擇天數，用完即止，不用擔心忘記取消而被扣款，安心使用。覆蓋 多倫多、溫哥華及全加拿大。"
   keywords: 加拿大 eSIM, 加拿大旅遊, eSIM 加拿大, 加拿大網路覆蓋, 加拿大熱點分享
 order_summary:
   title: 選擇 加拿大 eSIM

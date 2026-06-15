@@ -20,7 +20,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Schweden eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Prepaid eSIM für Schweden mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
+  description: "Kaufen Sie Ihre Roami eSIM für Schweden bequem von zu Hause. Gültig ab Kauf, bereit bei Ankunft. Deckt alle Regionen ab."
   keywords: Schweden eSIM, Reise Schweden, Mobilfunk Schweden, Internet Schweden,
     eSIM Reisen
 order_summary:

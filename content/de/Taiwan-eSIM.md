@@ -20,7 +20,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: web20
 seo:
   title: "Taiwan eSIM | Ohne Vertrag & günstig reisen"
-  description: "Die günstigste Prepaid Reise eSIM für Taiwan von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle."
+  description: "Brauchen Sie viel Datenvolumen in Taiwan? Roami bietet Tarife mit unbegrenztem Datenvolumen. Kein WLAN-Suchen mehr. Deckt alle Regionen ab."
   keywords: Taiwan eSIM, Prepaid eSIM Taiwan, günstige eSIM Taiwan, unbegrenzte Daten
     Taiwan, eSIM für Reisen, mobiles Internet Taiwan, keine Roaming-Gebühren
   low_price: 1.99

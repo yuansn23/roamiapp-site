@@ -1,6 +1,6 @@
 ---
 title: 厄瓜多 eSIM 方案 | 厄瓜多 eSIM | Roami
-date: '2026-05-19T09:56:20+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 厄瓜多 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
-  description: 厄瓜多旅遊首選 Roami eSIM，提供最佳 5G 高速網路與無限流量。立即選購並輸入折扣碼 20%，讓您的連線體驗更完善。
+  title: "厄瓜多 eSIM | 出國網路流量吃到飽必備"
+  description: "去厄瓜多旅行不必擔心上網問題。Roami eSIM 只要兩分鐘就能快速開通，出發前先安裝好 QR Code，抵達目的地連上網路就能馬上打卡報平安，簡單方便。覆蓋 全區。"
   keywords: 厄瓜多 eSIM, 厄瓜多上網卡, 厄瓜多網路, 厄瓜多旅遊, 基多eSIM, 瓜亞基爾eSIM, 昆卡eSIM
 order_summary:
   title: 選擇 厄瓜多 eSIM

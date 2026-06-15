@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Indonesien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die günstigste Prepaid Reise eSIM für Indonesien von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle."
+  description: "Für Indonesien wählen Sie Roami und zahlen weniger. Unsere eSIM ist unschlagbar günstig. Deckt alle Regionen ab."
   keywords: eSIM, Indonesien, Reise, mobiles Internet, Netzabdeckung, günstige eSIM,
     Datenpaket, Touristen, Bali, Jakarta, Yogiakarta, Telkomsel, XL Axiata, Indosat,
     5G, 4G, LTE, sofortige Aktivierung, Hotspot, lokale Simkarte, Auslandsreise, Urlaub,

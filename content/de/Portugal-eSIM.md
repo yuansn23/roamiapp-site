@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Portugal eSIM | Unbegrenztes Datenvolumen zum Bestpreis"
-  description: "Die günstigste Prepaid Reise eSIM für Portugal von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle."
+  description: "Die Roami eSIM für Portugal bietet unbegrenztes Datenvolumen. Ideal für Reisende, die immer online sein wollen. Deckt alle Regionen ab."
   keywords: Portugal Reise eSIM, mobiles Internet Portugal, Portugal eSIM kaufen,
     günstige eSIM Portugal, Prepaid eSIM Portugal
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Afrique du Sud | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM Afrique du Sud | -20 %, 5G rapide"
-  description: "Découvrez l'Afrique du Sud avec l'eSIM Roami. 5G rapide du Cap à Johannesburg. Activation instantanée. Données illimitées à partir de 1,99 $."
+  title: "Afr du Sud eSIM | Meilleur prix sans engagement"
+  description: "Voyagez a Afrique du Sud sans souci avec Roami. Notre eSIM vous suit partout pour un voyage en toute serenite. Couvre tout le pays."
   keywords: eSIM Afrique du Sud, forfait data Afrique du Sud, voyage Afrique du Sud,
     internet mobile Afrique du Sud, tourisme Afrique du Sud
 order_summary:

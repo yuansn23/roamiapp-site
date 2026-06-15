@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Mexiko eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die günstigste Prepaid Reise eSIM für Mexiko von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle."
+  description: "Bleiben Sie in Mexiko mit unbegrenzten Daten von Roami verbunden. Surfen, teilen, streamen ohne Limit. Deckt alle Regionen ab."
   keywords: eSIM Mexiko, Mexiko Reise, mobiles Internet Mexiko, Touristen eSIM, günstige
     eSIM Mexiko
 order_summary:

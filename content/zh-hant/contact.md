@@ -3,12 +3,12 @@ title: "聯絡我們 | Roami 客戶支援"
 description: "聯絡 Roami 客戶支援團隊。我們提供 24/7 全天候服務，隨時協助您解決任何 eSIM 相關問題。"
 layout: "contact"
 type: "page"
-date: '2026-05-19T00:00:00+00:00'
+date: '2026-06-14T00:00:00+00:00'
 
 # SEO
 seo:
-  title: "聯絡我們 | Roami 24/7 客戶支援"
-  description: "需要協助嗎？聯絡 Roami 支援團隊。我們提供 24/7 客戶支援，解答您關於 eSIM 的任何疑問。"
+  title: "聯絡 Roami 客服 | 24 小時線上支援"
+  description: "需要 Roami eSIM 協助嗎？我們提供 24 小時線上客服，無論是啟用問題、退款需求還是旅遊諮詢，都會隨時為您服務解答，讓您安心沒煩惱。"
   image: "/img/og-contact.jpg"
 
 # JSON-LD Schema (YAML object – 輸出時將自動轉為合法 JSON，不再被引號包裹)

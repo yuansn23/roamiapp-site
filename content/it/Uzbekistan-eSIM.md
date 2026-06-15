@@ -1,6 +1,6 @@
 ---
 title: eSIM Uzbekistan Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Uzbekistan | 5G Veloce, Attivazione Istantanea"
-  description: "Visita l'Uzbekistan con Roami eSIM. 5G veloce a Tashkent, Samarcanda e in tutta la nazione. Attivazione QR immediata. Dati illimitati."
+  title: "Uzbekistan eSIM | Ricarica immediata senza contratto"
+  description: "Resta connesso in Uzbekistan con Roami. Naviga, condividi, guarda video in streaming con il 5G veloce. La connessione perfetta per il tuo viaggio. Copre tutte le regioni."
   keywords: eSIM Uzbekistan, viaggio Uzbekistan, copertura mobile Uzbekistan, internet
     Uzbekistan, rete Uzbekistan
 order_summary:

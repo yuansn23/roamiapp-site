@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Fidji | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM Fidji | 5G rapide sur toutes les îles"
-  description: "Visitez les Fidji avec l'eSIM Roami. 5G rapide sur Viti Levu et les îles extérieures. Activation instantanée. Données illimitées pour votre voyage dans le Pacifique."
+  title: "Fidji eSIM | Données illimitées au meilleur prix"
+  description: "Partez pour Fidji avec Roami. L'activation de votre eSIM prend moins de 2 minutes. Simple comme un clic. Couvre tout le pays."
   keywords: eSIM Fidji, voyage Fidji, couverture réseau Fidji, internet mobile Fidji,
     forfait data Fidji
 order_summary:

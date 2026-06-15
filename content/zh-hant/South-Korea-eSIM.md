@@ -1,6 +1,6 @@
 ---
 title: 韓國 eSIM 方案 | 韓國 eSIM | Roami
-date: '2026-05-19T10:18:03+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 韓國旅遊 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
-  description: 韓國旅遊推薦 Roami eSIM，提供最佳 5G 高速網路與無限流量。立即選購並使用折扣碼 20%，讓您的韓國之旅連線更優質。
+  title: "南韓 eSIM | 流量吃到飽即時通超方便"
+  description: "去南韓需要穩定可靠的網路嗎？Roami eSIM 提供高速 5G 連線，讓您不用到處尋找 WiFi 訊號。地圖導航社群媒體影音串流全都順暢無比。覆蓋 首爾、釜山及全南韓。"
   keywords: 韓國 eSIM, 韓國上網, SK Telecom, KT, LGU+, 首爾, 釜山, 濟州島
 order_summary:
   title: 選擇 韓國 eSIM

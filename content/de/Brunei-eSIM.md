@@ -21,7 +21,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit dem Code: web20
 seo:
   title: "Brunei eSIM | Unbegrenztes Datenvolumen für unterwegs"
-  description: "Prepaid eSIM für Brunei mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
+  description: "Sie möchten eine eSIM für Brunei? Roami liefert den Code direkt per Email, ohne Versandkosten. Deckt alle Regionen ab."
   keywords: eSIM Brunei, Prepaid eSIM, günstige eSIM, mobiles Internet Brunei, Roaming
     Vermeidung
   low_price: 1.99

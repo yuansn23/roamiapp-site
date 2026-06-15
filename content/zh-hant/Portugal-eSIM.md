@@ -1,6 +1,6 @@
 ---
 title: 葡萄牙 eSIM 方案 | 葡萄牙 eSIM | Roami
-date: '2026-05-19T10:34:19+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 葡萄牙 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
-  description: 葡萄牙旅遊推薦 Roami eSIM，提供最佳 5G 高速網路與無限流量。現在下單並使用折扣碼 20%，讓您的連線服務更優惠。
+  title: "葡萄牙 eSIM | 高速上網預付卡超值推薦"
+  description: "旅行葡萄牙不能沒有網路。Roami eSIM 提供高速穩定的 5G 連線品質，是旅遊達人的必備配備，隨時保持連線分享每一個精彩瞬間。覆蓋 全區。"
   keywords: 葡萄牙 eSIM, 葡萄牙網路覆蓋, 葡萄牙旅遊, 里斯本 eSIM, 波爾圖 eSIM, NOS, MEO, Vodafone, 葡萄牙4G,
     葡萄牙5G
 order_summary:

@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Honduras eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die günstigste Prepaid Reise eSIM für Honduras von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle."
+  description: "Mit Roami in Honduras sagen Sie Datenlimits ade. Unbegrenztes Internet für Ihre Reise, ohne Stress. Deckt alle Regionen ab."
   keywords: Honduras eSIM, Reise eSIM, mobiles Internet Honduras, günstig im Ausland
     surfen, Touristen eSIM, LTE/5G Honduras, sofortige Aktivierung, Partner Netzwerke
 order_summary:

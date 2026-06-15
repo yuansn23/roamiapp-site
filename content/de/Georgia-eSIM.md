@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Georgien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Prepaid eSIM für Georgien mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
+  description: "Die Roami eSIM für Georgien kaufen Sie online ohne Wartezeit. Keine Lieferung, alles digital. Deckt alle Regionen ab."
   keywords: eSIM Georgien, Reise eSIM Georgien, mobiles Internet Georgien, günstige
     eSIM Georgien, Datenplan Georgien
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: 孟加拉 eSIM 方案 | 孟加拉 eSIM | Roami
-date: '2026-05-19T10:27:16+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 孟加拉 eSIM | 流量吃到飽 | 最佳5G高速網路 | Roami
-  description: 孟加拉旅遊首選 Roami eSIM，提供流量吃到飽與最佳 5G 高速網路。現在購買並使用折扣碼 20%，享受您的旅遊連線優惠方案。
+  title: "孟加拉 eSIM | 出國上網高速 5G 超方便"
+  description: "去孟加拉旅行不必擔心上網問題。Roami eSIM 只要兩分鐘就能快速開通，出發前先安裝好 QR Code，抵達目的地連上網路就能馬上打卡報平安，簡單方便。覆蓋 全區。"
   keywords: 孟加拉 eSIM, 孟加拉上網卡, 孟加拉網路覆蓋, 達卡 eSIM, 吉大港 eSIM, Grameenphone, Robi, Banglalink
 order_summary:
   title: 選擇 孟加拉 eSIM

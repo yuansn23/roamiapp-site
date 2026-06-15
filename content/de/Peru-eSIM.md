@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Peru eSIM | Günstiges Datenvolumen für Urlaub & Reise"
-  description: "Die günstigste Prepaid Reise eSIM für Peru von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle Regionen ab."
+  description: "Roami ist die günstigste eSIM für Peru. Ein fairer Preis, keine Überraschungen. Deckt alle Regionen ab."
   keywords:
   - Peru eSIM
   - Reise Peru

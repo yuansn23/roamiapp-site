@@ -1,6 +1,6 @@
 ---
 title: 菲律賓 eSIM 方案 | 菲律賓 eSIM | Roami
-date: '2026-05-19T09:57:38+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 菲律賓 eSIM | 流量吃到飽 | 最佳5G高速網路 | Roami
-  description: 菲律賓旅遊首選 Roami eSIM，流量吃到飽與最佳 5G 高速網路。立即選購並輸入折扣碼 20%，讓您的旅程擁有穩定高品質的網路。
+  title: "菲律賓 eSIM | 出國上網高速 5G 超方便"
+  description: "去菲律賓旅行不必擔心上網問題。Roami eSIM 只要兩分鐘就能快速開通，出發前先安裝好 QR Code，抵達目的地連上網路就能馬上打卡報平安，簡單方便。覆蓋 全區。"
   keywords: 菲律賓 eSIM, 菲律賓網路, Globe, Smart, 旅遊上網, 馬尼拉 eSIM, 宿霧, 長灘島
 order_summary:
   title: 選擇 菲律賓 eSIM

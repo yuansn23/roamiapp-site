@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Guam eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Prepaid eSIM für Guam mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort aktivieren & nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle."
+  description: "Für Guam bietet Roami eine eSIM ohne Vertragsbindung. Nutzen Sie sie für Ihre Reise, dann ist Schluss. Nichts zu kündigen. Deckt alle Regionen ab."
   keywords: Guam eSIM, Reise eSIM Guam, Internet Guam, mobiles Internet Guam, eSIM
     für Guam
 order_summary:

@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Fidschi eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Reisen Sie nach Fidschi mit Roamis günstiger Prepaid eSIM. Unbegrenztes Datenvolumen, sofort aktiviert, ohne Vertrag. Jetzt online kaufen. Deckt alle Regionen ab."
+  description: "Reisen Sie nach Fidschi mit Roami. Die eSIM Aktivierung dauert weniger als 2 Minuten. Einfach und unkompliziert. Deckt alle Regionen ab."
   keywords: Fidschi eSIM, Reisen Fidschi, mobiles Internet Fidschi, eSIM Fidschi,
     Urlaub Fidschi, Inseln Fidschi, Datenpaket Fidschi
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: "Nordamerika eSIM | Günstiger Prepaid Tarif für 3 Länder"
-description: "Günstig reisen in USA, Kanada & Mexiko mit einer Prepaid eSIM von Roami. Unbegrenztes Datenvolumen ohne Vertrag, sofort aktivieren & nutzbar."
+description: "Reisen Sie in die USA, nach Kanada oder Mexiko mit Roami. Eine eSIM für ganz Nordamerika, einfach und praktisch."
 date: '2026-06-14T00:00:00+00:00'
 lastmod: '2026-06-08'
 type: regional-esim

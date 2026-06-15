@@ -1,6 +1,6 @@
 ---
 title: 英國 eSIM 方案 | 英國 eSIM | Roami
-date: '2026-05-19T10:26:23+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 英國 eSIM | 5G網路自動切換 | 折扣碼20% | Roami
-  description: 英國旅遊必備 Roami eSIM，支援 5G 網路自動切換。現在購買並輸入折扣碼 20%，以最實惠的價格體驗高品質旅遊連線服務。
+  title: "英國 eSIM | 出國上網流量吃到飽免綁約"
+  description: "Roami 讓您在英國輕鬆上網不受任何合約限制。沒有月租費也不用長期綁約，旅行期間使用剛剛好，回國後也不用擔心取消的問題，省心省力。覆蓋 全區。"
   keywords: 英國eSIM, 英國上網卡, 英國旅遊, 英國網路覆蓋, 倫敦, 曼徹斯特, 愛丁堡, Vodafone, EE, O2
 order_summary:
   title: 選擇 英國 eSIM

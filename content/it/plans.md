@@ -2,12 +2,12 @@
 title: "Piani"
 layout: "plans"
 type: "page"
-date: '2026-06-04T00:00:00+00:00'
+date: '2026-06-14T00:00:00+00:00'
 
 # 1. SEO core optimization
 seo:
-  title: "Piani eSIM | 5G Illimitato per 200+ Destinazioni"
-  description: "Scopri i piani eSIM Roami per oltre 200 paesi. 5G illimitato, consegna istantanea, hotspot incluso. Piani da 1,99 $ con supporto 24/7"
+  title: "Piani eSIM | 200+ Paesi 5G Veloce"
+  description: "Scopri i piani eSIM Roami per oltre 200 paesi. 5G veloce, attivazione immediata, nessun contratto. La soluzione perfetta per viaggiare sempre connessi."
   keywords: "piani eSIM, eSIM da viaggio, eSIM globale, acquistare eSIM online, eSIM dati illimitati, eSIM Europa, eSIM USA, eSIM Giappone, eSIM Regno Unito, eSIM Turchia, pacchetti eSIM prepagati"
   image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1200&auto=format&fit=crop"
 

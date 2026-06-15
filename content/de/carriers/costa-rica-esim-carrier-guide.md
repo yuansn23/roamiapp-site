@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica eSIM Guide | Kolbi, Claro or Liberty?"
-description: "Roami compares Costa Rica's carriers for travel eSIM. Kolbi, Claro & Liberty 5G nationwide. Find the most reliable network for your trip."
+description: "Genießen Sie unbegrenztes Datenvolumen in Costa Rica mit Roami. Navigation, Streaming, soziale Netzwerke – alles erlaubt. Deckt alle Regionen ab."
 date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Costa Rica, Prepaid Daten, 5G Netz, Claro, Kölbi, Metrocom, Reise eSIM,
   Roami

@@ -1,7 +1,7 @@
 ---
-title: Amérique du Nord eSIM | 3 pays, -20 % DE RÉDUCTION
-description: Parcourez l'Amérique du Nord avec une eSIM prépayée Roami – la meilleure eSIM pour voyager aux États-Unis, au Canada et au Mexique. 5G sur les réseaux locaux dans les 3 pays avec activation instantanée. Pas de roaming aux frontières. Forfaits données illimités à partir de 1,99 $.
-date: '2026-06-08'
+title: "Amérique Nord eSIM | Meilleur prix sans engagement"
+description: "Partez aux USA, Canada ou Mexique avec Roami. Une seule eSIM pour toute l'Amerique du Nord, simple et pratique."
+date: '2026-06-14T00:00:00+00:00'
 lastmod: '2026-06-08'
 type: regional-esim
 breadcrumbs:

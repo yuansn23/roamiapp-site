@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Ghana eSIM | Günstigste Prepaid Option für Reisende"
-  description: "Die günstigste Prepaid Reise eSIM für Ghana von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle Regionen ab."
+  description: "Genießen Sie unbegrenztes Datenvolumen in Ghana mit Roami. Navigation, Streaming, soziale Netzwerke – alles erlaubt. Deckt alle Regionen ab."
   keywords: eSIM Ghana, Reisestick Ghana, mobiles Internet Ghana, Ghana Reise, Tourismus
     Ghana
 order_summary:

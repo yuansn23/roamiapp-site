@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Deutschland eSIM | Unbegrenztes Datenvolumen"
-  description: "Die günstigste Prepaid eSIM für Deutschland von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar. Deckt Berlin, München & ganz."
+  description: "Reisen Sie sorgenfrei nach Deutschland mit Roami. Unsere eSIM begleitet Sie überallhin. Deckt Berlin, München & ganz Deutschland ab."
   keywords: eSIM Deutschland, Reise eSIM, mobiles Internet Deutschland, Deutschland
     eSIM kaufen
 order_summary:

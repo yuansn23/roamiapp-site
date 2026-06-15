@@ -1,6 +1,6 @@
 ---
 title: eSIM Repubblica Dominicana Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,8 +20,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Repubblica Dominicana | 5G Veloce, Dati Illimitati"
-  description: "Fuggi nella RD con Roami eSIM. 5G veloce a Punta Cana, Santo Domingo e in tutta la nazione. Attivazione immediata. Dati illimitati."
+  title: "Repubblica Dominicana eSIM | Dati illimitati per viaggiare"
+  description: "Con Roami in Repubblica Dominicana dì addio ai limiti di dati. 5G veloce per tutte le tue esigenze di viaggio. Sempre connesso. Copre tutte le regioni."
   keywords: eSIM Repubblica Dominicana, viaggio Repubblica Dominicana, internet mobile
     Repubblica Dominicana, roaming Repubblica Dominicana, connettività Repubblica
     Dominicana

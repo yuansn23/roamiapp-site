@@ -13,6 +13,7 @@ readingTime: 16
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
+h1title: "Germany eSIM 2026: ICE-Proof 5G – Telekom, Vodafone & O2 Smart Switching"
 
 # Sidebar module titles
 productsTitle: "Popular eSIM Plans"

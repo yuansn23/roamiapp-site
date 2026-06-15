@@ -1,6 +1,6 @@
 ---
 title: eSIM Vietnam Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Vietnam | Risparmia il 20%, 5G Affidabile"
-  description: "Viaggia in Vietnam con Roami eSIM. 5G affidabile da Hanoi a Ho Chi Minh City. Attivazione immediata. Dati illimitati disponibili."
+  title: "Vietnam eSIM | Attivazione immediata conveniente"
+  description: "Ordina la tua eSIM per Vietnam da Roami. Semplice, veloce e sarai connesso prima ancora di partire. Copre Hanoi, Ho Chi Minh & Da Nang."
   keywords: Vietnam, eSIM, viaggio in Vietnam, copertura rete Vietnam, turismo Vietnam,
     connettività Vietnam
 order_summary:

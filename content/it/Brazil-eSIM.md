@@ -1,6 +1,6 @@
 ---
 title: eSIM Brasile Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Brasile | 20% DI SCONTO, Dati 5G Illimitati"
-  description: "Viaggia in Brasile con Roami eSIM. 5G veloce a Rio, San Paolo e in tutta la nazione. Attivazione immediata. Dati illimitati. Nessun contratto."
+  title: "Brasile eSIM | Attivazione immediata conveniente"
+  description: "Viaggia in Brasile in libertà con Roami. Nessun rinnovo automatico, nessuna penale di recesso. Usala e basta. Copre Rio, San Paolo & tutto il Brasile."
   keywords: eSIM Brasile, connettività Brasile, viaggio Brasile, internet mobile Brasile,
     rete Brasile, roaming Brasile, dati mobili Brasile
 order_summary:

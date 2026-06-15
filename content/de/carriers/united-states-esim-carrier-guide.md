@@ -1,6 +1,6 @@
 ---
 title: "USA Carrier Guide | Best Prepaid eSIM Plans Compared"
-description: "Roami compares the best prepaid travel eSIM plans for USA. Verizon, T-Mobile & AT&T 5G speed tests & coverage maps. Find the fastest unlimited data plan for your."
+description: "Sie wollen eine günstige eSIM für USA? Roami bietet den besten Preis auf dem Markt. Keine versteckten Kosten. Deckt alle Regionen ab."
 date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM USA, Prepaid Daten, 5G Netz, T-Mobile, AT&T, Verizon, Roami eSIM, USA
   Reise, mobiles Internet USA

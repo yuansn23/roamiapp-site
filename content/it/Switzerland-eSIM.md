@@ -1,6 +1,6 @@
 ---
 title: eSIM Svizzera Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Svizzera | Risparmia il 20%, 5G Veloce"
-  description: "Viaggia in Svizzera con Roami eSIM. 5G veloce e affidabile in tutta la nazione. Attivazione immediata. Piani dati illimitati."
+  title: "Svizzera eSIM | Dati illimitati per viaggiare"
+  description: "Vuoi una eSIM per Svizzera? Roami ti invia il codice direttamente via email, senza spese di spedizione. Copre Zurigo, Ginevra & le Alpi."
   keywords: eSIM Svizzera, internet mobile Svizzera, viaggio Svizzera, dati Svizzera,
     roaming Svizzera
 order_summary:

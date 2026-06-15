@@ -20,7 +20,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Estland eSIM | Günstigste Prepaid Option für Reisende"
-  description: "Die günstigste Prepaid Reise eSIM für Estland von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle."
+  description: "Genießen Sie unbegrenztes Datenvolumen in Estland mit Roami. Navigation, Streaming, soziale Netzwerke – alles erlaubt. Deckt alle Regionen ab."
   keywords: eSIM Estland, mobile Daten Estland, Reise-Internet Estland, Estland eSIM,
     Internet für Estland, Estland Simkarte
 order_summary:

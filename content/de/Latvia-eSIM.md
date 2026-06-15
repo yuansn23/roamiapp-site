@@ -20,7 +20,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Lettland eSIM | Unbegrenztes Datenvolumen für unterwegs"
-  description: "Prepaid eSIM für Lettland mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
+  description: "Unterwegs in Lettland in voller Freiheit mit Roami. Keine automatische Verlängerung, keine Kündigung nötig. Deckt alle Regionen ab."
   keywords: Lettland eSIM, Lettland Reise, Internet Lettland, mobiles Internet Lettland,
     Lettland Urlaub, Riga, eSIM Lettland
 order_summary:

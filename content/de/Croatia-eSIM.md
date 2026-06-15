@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Kroatien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die günstigste Prepaid Reise eSIM für Kroatien von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle."
+  description: "Bleiben Sie in Kroatien mit unbegrenzten Daten von Roami verbunden. Surfen, teilen, streamen ohne Limit. Deckt alle Regionen ab."
   keywords: Kroatien eSIM, Reisen Kroatien, mobiles Internet Kroatien, günstige eSIM
     Kroatien, Urlaub Kroatien
 order_summary:

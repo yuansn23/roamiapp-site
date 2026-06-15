@@ -1,6 +1,6 @@
 ---
 title: 紐西蘭 eSIM 數據方案 | 最佳 2026 旅遊 eSIM | Roami
-date: '2026-05-19T00:00:00+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級為 <strong>PhoneSIM</strong>。<br>新客戶享有 20% 折扣，折扣碼：web20
 seo:
-  title: 紐西蘭旅遊 eSIM | 無限數據 | 穩定 5G | Roami
-  description: 準備前往紐西蘭旅遊？Roami 在可靠的在地頂級電信商原生 5G 網路上提供公平使用量數據。非常適合商務旅行，提供無限數據與多國漫遊服務。
+  title: "紐西蘭 eSIM | 出國上網流量吃到飽免綁約"
+  description: "準備好去紐西蘭旅行了嗎？Roami eSIM 是您旅途中最棒的夥伴。出發前線上買好抵達就能立刻使用，不用忙著找 SIM 卡辦網路，讓旅程更輕鬆自在。覆蓋 紐西蘭南北雙島。"
   keywords: 紐西蘭 eSIM, 旅遊 eSIM, 紐西蘭數據方案, 即時發送, 免漫遊費, QR code eSIM
   low_price: 1.99
   high_price: 39.9

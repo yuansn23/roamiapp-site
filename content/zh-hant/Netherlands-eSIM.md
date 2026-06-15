@@ -1,6 +1,6 @@
 ---
 title: 荷蘭 eSIM 方案 | 荷蘭 eSIM | Roami
-date: '2026-05-19T09:54:56+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 荷蘭 eSIM | 流量吃到飽 | 5G網路自動切換 | Roami
-  description: 荷蘭旅遊首選 Roami eSIM，流量吃到飽且支援 5G 網路自動切換。立即下單並輸入折扣碼 20%，為您的荷蘭之旅連線更具CP值。
+  title: "荷蘭 eSIM | 5G 上網流量不中斷超穩定"
+  description: "去荷蘭旅行想找便宜的 eSIM 上網方案嗎？Roami 提供最優惠的預付卡價格，沒有任何隱藏費用也不犧牲品質，出發前線上購買抵達目的地馬上就能使用，省錢又方便。覆蓋 全區。"
   keywords: 荷蘭 eSIM, 荷蘭網路, 荷蘭旅遊網路, 荷蘭網卡, 荷蘭上網, eSIM 荷蘭, 阿姆斯特丹 eSIM, 鹿特丹 eSIM
 order_summary:
   title: 選擇 荷蘭 eSIM

@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Kanada eSIM | Unbegrenztes Datenvolumen für unterwegs"
-  description: "Die günstigste Prepaid eSIM für Kanada von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar. Deckt Toronto, Vancouver & ganz Kanada ab."
+  description: "Unterwegs in Kanada in voller Freiheit mit Roami. Keine automatische Verlängerung, keine Kündigung nötig. Deckt Toronto, Vancouver & ganz Kanada ab."
   keywords: Kanada eSIM, Reise nach Kanada, mobiles Internet Kanada, günstige eSIM
     Kanada, Kanada Reise, Netzabdeckung Kanada
 order_summary:

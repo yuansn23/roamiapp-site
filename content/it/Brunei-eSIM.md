@@ -1,6 +1,6 @@
 ---
 title: Brunei eSIM Tariffa Dati | Migliore eSIM da Viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con il codice: web20
 seo:
-  title: "eSIM Brunei | 5G Veloce in Tutta la Nazione"
-  description: "Visita il Brunei con Roami eSIM. 5G veloce in tutto il sultanato. Attivazione QR immediata. Dati illimitati per affari e piacere."
+  title: "Brunei eSIM | Internet veloce senza limiti"
+  description: "Vuoi una eSIM per Brunei? Roami ti invia il codice direttamente via email, senza spese di spedizione. Copre tutte le regioni."
   keywords: eSIM Brunei, eSIM prepagata, eSIM economica, internet mobile Brunei, evitare roaming
   low_price: 1.99
   high_price: 39.9

@@ -1,6 +1,6 @@
 ---
 title: 阿爾及利亞 eSIM 方案 | 阿爾及利亞 eSIM | Roami
-date: '2026-05-19T10:36:03+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 阿爾及利亞 eSIM | 最佳5G高速網路 | 流量吃到飽 | Roami
-  description: 暢遊阿爾及利亞，Roami 為您提供最佳 5G 高速網路。流量吃到飽方案讓您旅遊無負擔，現在使用折扣碼 20% 即可體驗高品質行動網路。
+  title: "阿爾及利亞 eSIM | 上網吃到飽最划算安心推薦"
+  description: "想要 阿爾及利亞 的 eSIM 嗎？Roami 直接把 QR Code 寄到您的信箱。免運費不用出門，在家裡就能搞定出國上網的所有準備工作，輕鬆又省事。覆蓋 全區。"
   keywords: 阿爾及利亞 eSIM, 阿爾及利亞上網卡, 阿爾及利亞網路覆蓋, 阿爾及利亞旅遊, 阿爾及利亞5G, Mobilis, Djezzy, Ooredoo
 order_summary:
   title: 選擇 阿爾及利亞 eSIM

@@ -1,6 +1,6 @@
 ---
 title: 冰島 eSIM 方案 | 冰島 eSIM | Roami
-date: '2026-05-19T10:30:39+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 冰島旅遊 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
-  description: 冰島旅遊首選 Roami eSIM，提供最佳 5G 高速網路。立即選購並輸入折扣碼 20%，以超值優惠體驗高品質的網路連線服務。
+  title: "冰島 eSIM | 5G 上網流量不中斷超穩定"
+  description: "Roami 在冰島提供真正的無合約上網體驗。不綁約也不會自動續約，旅行結束網路服務就跟著結束。簡單又透明，讓您專心享受美好旅程。覆蓋 全區。"
   keywords: 冰島 eSIM,冰島上網卡,冰島網路覆蓋,冰島自駕網路,冰島旅遊 eSIM,雷克雅維克 eSIM,阿克雷里網路,Síminn eSIM,Vodafone
     冰島,Nova 冰島,冰島極光直播
 order_summary:

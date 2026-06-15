@@ -1,6 +1,6 @@
 ---
 title: eSIM Croazia Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Croazia | Risparmia il 20%, 5G Affidabile"
-  description: "Esplora la Croazia con Roami eSIM. 5G affidabile lungo la costa adriatica e nell'entroterra. Attivazione QR immediata. Dati illimitati."
+  title: "Croazia eSIM | Attivazione immediata conveniente"
+  description: "Resta connesso in Croazia con Roami. Naviga, condividi, guarda video in streaming con il 5G veloce. La connessione perfetta per il tuo viaggio. Copre tutte le regioni."
   keywords: eSIM Croazia, internet mobile Croazia, viaggio Croazia, dati internet
     Croazia, roaming Croazia
 order_summary:

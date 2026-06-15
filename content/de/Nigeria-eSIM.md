@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Nigeria eSIM | Günstig kaufen & sofort aktivieren"
-  description: "Reisen Sie nach Nigeria mit Roamis günstiger Prepaid eSIM. Unbegrenztes Datenvolumen, sofort aktiviert, ohne Vertrag. Jetzt online kaufen. Deckt alle Regionen ab."
+  description: "Für Ihre Reise nach Nigeria ist die Roami eSIM in 2 Minuten einsatzbereit. Schnell und ohne Komplikationen. Deckt alle Regionen ab."
   keywords: eSIM Nigeria, Reise eSIM, mobiles Internet Nigeria, günstige eSIM, Nigeria
     Reise
 order_summary:

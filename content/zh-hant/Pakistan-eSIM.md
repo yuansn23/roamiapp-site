@@ -1,6 +1,6 @@
 ---
 title: 巴基斯坦 eSIM 方案 | 巴基斯坦 eSIM | Roami
-date: '2026-05-19T10:22:52+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 巴基斯坦 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
-  description: 巴基斯坦旅遊推薦 Roami eSIM，提供最佳 5G 高速網路與無限流量。立即下單並使用折扣碼 20%，讓您的連線服務更超值。
+  title: "巴基斯坦 eSIM | 流量吃到飽高速 5G 超值方案"
+  description: "Roami 在巴基斯坦不綁約也不用簽合約，只需要為您使用的天數付費。旅行結束就自然終止，沒有自動續約也不用打電話解約，自由自在完全無負擔。覆蓋 全區。"
   keywords: 巴基斯坦 eSIM, 巴基斯坦網路覆蓋, 巴基斯坦旅遊, 巴基斯坦手機網路, 巴基斯坦上網卡, Jazz, Zong, Telenor, 巴基斯坦景點
 order_summary:
   title: 選擇 巴基斯坦 eSIM

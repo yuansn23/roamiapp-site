@@ -1,7 +1,7 @@
 ---
-title: 亞洲 eSIM | 15+ 個國家，20% 折扣，一個方案
-description: 用一張預付的 Roami eSIM 揹包遊亞洲 — 覆蓋日本、韓國、泰國、新加坡及 12+ 多個國家的最佳亞洲旅遊 eSIM。即時啟用當地網路，無漫遊費。方案從 $1.99 起。
-date: '2026-06-08'
+title: "亞洲 eSIM | 日韓泰印 12+ 國通用"
+description: "用 Roami eSIM 探索亞洲各國，日本韓國泰國印度新加坡等 12 國以上一卡通用，完整涵蓋所有熱門旅遊目的地，出國上網超方便又省錢。"
+date: '2026-06-14T00:00:00+00:00'
 lastmod: '2026-06-08'
 type: regional-esim
 breadcrumbs:

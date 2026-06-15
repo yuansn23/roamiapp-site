@@ -1,6 +1,6 @@
 ---
 title: 模里西斯 eSIM 方案 | 模里西斯 eSIM | Roami
-date: '2026-05-19T10:19:59+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 模里西斯 eSIM 方案 | 最佳旅遊上網選擇 | Roami
-  description: 模里西斯 eSIM 提供高速 5G/4G 網路，即時交付，無限熱點分享。適合旅行者、商務人士。立即獲取 20% 折扣！
+  title: "模里西斯 eSIM | 高速流量吃到飽出國推薦"
+  description: "線上購買 模里西斯 的 Roami eSIM 只要短短幾分鐘。安全付款後馬上就能收到 QR Code，不用等待運送也不用親自跑門市，方便又快速，輕鬆搞定。覆蓋 全區。"
   keywords: 模里西斯 eSIM, 模里西斯網路覆蓋, 模里西斯旅遊, 模里西斯上網, 模里西斯行動網路
 order_summary:
   title: 選擇 模里西斯 eSIM

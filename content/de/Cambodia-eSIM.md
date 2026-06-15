@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Kambodscha eSIM | Prepaid Tarif für Reise & Urlaub"
-  description: "Prepaid eSIM für Kambodscha mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
+  description: "Bestellen Sie Ihre eSIM für Kambodscha bei Roami. Einfach, schnell, und Sie sind schon vor der Ankunft verbunden. Deckt alle Regionen ab."
   keywords: Kambodscha eSIM, Reise nach Kambodscha, Internet Kambodscha, mobiles Internet,
     Tourismus Kambodscha
 order_summary:

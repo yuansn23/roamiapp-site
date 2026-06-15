@@ -20,7 +20,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Litauen eSIM | Beste Prepaid eSIM für die Reise"
-  description: "Reisen Sie nach Litauen mit Roamis günstiger Prepaid eSIM. Unbegrenztes Datenvolumen, sofort aktiviert, ohne Vertrag. Jetzt online kaufen. Deckt alle Regionen ab."
+  description: "Roami für Litauen: schnelle Installation und sofortige Aktivierung. Kein Suchen nach einem Shop vor Ort. Deckt alle Regionen ab."
   keywords: Litauen eSIM, Litauen Reise, Litauen Internet, günstige eSIM Litauen,
     Litauen Mobilfunk
 order_summary:

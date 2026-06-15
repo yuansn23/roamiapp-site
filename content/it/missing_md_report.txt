@@ -1,0 +1,42 @@
+以下文件未更新（原因见括号内）：
+
+  - Afghanistan-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - africa-esim.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Albania-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Andorra-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Bahrain-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Belarus-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Bosnia-And-Herzegovina-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Burkina-Faso-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Cameroon-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Chad-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Congo-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Eswatini-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Faroe-Islands-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - French-Guiana-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Gabon-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Guadeloupe-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Guyana-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Iraq-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Israel-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Ivory-Coast-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Jordan-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Kosovo-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Kuwait-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Kyrgyzstan-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Liberia-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Liechtenstein-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Madagascar-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Malawi-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Mali-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - middle-east-esim.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Montenegro-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - oceania-esim.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Oman-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Qatar-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - south-america-esim.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - Sri-Lanka-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - United-Arab-Emirates-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+  - _index.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
+
+共 38 个文件。

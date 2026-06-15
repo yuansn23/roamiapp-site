@@ -1,6 +1,6 @@
 ---
 title: 塞爾維亞 eSIM 方案 | 塞爾維亞 eSIM | Roami
-date: '2026-05-19T10:03:39+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 塞爾維亞 eSIM | 塞爾維亞旅遊網路覆蓋指南
-  description: 前往塞爾維亞旅遊，使用 eSIM 保持連線！了解貝爾格萊德、諾維薩德、尼什的網路覆蓋，以及 Telenor、VIP 等當地業者。提供即時開通、熱點分享，讓您暢遊無阻。
+  title: "塞爾維亞 eSIM | 5G 上網流量不中斷超穩定"
+  description: "準備好去塞爾維亞旅行了嗎？Roami eSIM 是您旅途中最棒的夥伴。出發前線上買好抵達就能立刻使用，不用忙著找 SIM 卡辦網路，讓旅程更輕鬆自在。覆蓋 全區。"
   keywords: 塞爾維亞 eSIM, 塞爾維亞旅遊, 塞爾維亞網路, 塞爾維亞行動網路, 貝爾格萊德 eSIM, 諾維薩德 網路
 order_summary:
   title: 選擇 塞爾維亞 eSIM

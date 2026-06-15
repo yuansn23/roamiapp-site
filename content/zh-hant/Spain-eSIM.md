@@ -1,6 +1,6 @@
 ---
 title: 西班牙 eSIM 方案 | 西班牙 eSIM | Roami
-date: '2026-05-19T10:29:32+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 西班牙 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
-  description: 西班牙旅遊必備 Roami eSIM，暢享最佳 5G 高速網路。立即選購並輸入折扣碼 20%，讓您的連線服務更超值，旅途更順暢。
+  title: "西班牙 eSIM | 5G 高速上網不限流量推薦"
+  description: "Roami 給您西班牙性價比最高的 eSIM 上網卡，花更少的錢就能享受穩定的高速 5G 網路。最優惠的價格就在這裡，讓您的旅行更加輕鬆愉快沒有負擔。覆蓋 巴塞隆納、馬德里及巴利亞利群島。"
   keywords: 西班牙 eSIM, 西班牙網路覆蓋, 西班牙旅遊, 馬德里 eSIM, 巴塞隆納 eSIM, 西班牙上網卡
 order_summary:
   title: 選擇 西班牙 eSIM

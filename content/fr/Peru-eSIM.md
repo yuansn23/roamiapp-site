@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM Pérou | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM Pérou | -20 %, données 5G illimitées"
-  description: "Explorez le Pérou avec l'eSIM Roami. 5G rapide à Lima, Cusco et dans tout le pays. Activation instantanée. Données illimitées. Pas de frais d'itinérance."
+  title: "Pérou eSIM | Prépayé sans engagement, activé immédiat"
+  description: "Pour Pérou, choisissez Roami et payez moins cher. Notre eSIM est au meilleur prix pour voyager sans vous ruiner. Couvre tout le pays."
   keywords: eSIM Pérou, forfait mobile Pérou, voyage Pérou, internet Pérou, carte
     eSIM Pérou
 order_summary:

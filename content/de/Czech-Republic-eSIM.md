@@ -20,7 +20,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Tschechien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die günstigste Prepaid Reise eSIM für Tschechien von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar nach Aktivierung. Deckt alle."
+  description: "Sie wollen eine günstige eSIM für Tschechien? Roami bietet den besten Preis auf dem Markt. Keine versteckten Kosten. Deckt alle Regionen ab."
   keywords: Tschechien eSIM, mobile Daten in Tschechien, Reisepaket, günstiges Internet,
     LTE, 5G, Roaming, Prag, Brünn, Ostrava, Vodafone, T-Mobile, O2
 order_summary:

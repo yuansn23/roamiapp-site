@@ -1,6 +1,6 @@
 ---
 title: eSIM Filippine Dati | Migliore eSIM viaggio 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Filippine | 20% DI SCONTO, 5G Affidabile"
-  description: "Esplora le Filippine con Roami eSIM. 5G affidabile a Manila, Cebu e nelle isole principali. Attivazione QR immediata. Dati illimitati."
+  title: "Filippine eSIM | Prepagato senza vincoli"
+  description: "Per il tuo viaggio in Filippine, la eSIM Roami è operativa in 2 minuti. Attivazione rapida, senza stress, connessione immediata all'arrivo. Copre tutte le regioni."
   keywords: eSIM Filippine, viaggio Filippine, copertura rete Filippine, internet
     mobile Filippine, roaming Filippine
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: 拉脫維亞 eSIM 方案 | 拉脫維亞 eSIM | Roami
-date: '2026-05-19T10:39:17+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 拉脫維亞 eSIM | eSIM無限流量 | 5G網路自動切換 | Roami
-  description: 拉脫維亞旅遊推薦 Roami eSIM 無限流量方案，支援 5G 網路自動切換。立即購買並輸入折扣碼 20%，獲取您的旅遊專屬優惠。
+  title: "拉脫維亞 eSIM | 高速 5G 網路吃到飽超值"
+  description: "去拉脫維亞玩不想被合約綁住嗎？Roami eSIM 就是不綁約的方案。依照需求自由選擇天數，用完即止，不用擔心忘記取消而被扣款，安心使用。覆蓋 全區。"
   keywords: 拉脫維亞 eSIM, 拉脫維亞網路覆蓋, 里加 eSIM, 波羅的海 eSIM, 拉脫維亞旅遊
 order_summary:
   title: 選擇 拉脫維亞 eSIM

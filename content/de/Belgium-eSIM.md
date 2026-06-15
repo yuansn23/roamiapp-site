@@ -19,7 +19,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Belgien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Prepaid eSIM für Belgien mit unbegrenztem Datenvolumen. Ohne Vertrag, günstig kaufen, sofort nutzbar. Die ideale Lösung für Ihre Reise. Deckt alle Regionen ab."
+  description: "Die Roami eSIM für Belgien lässt Sie frei. Ohne Vertragsbindung, nutzbar wann immer Sie wollen. Deckt alle Regionen ab."
   keywords: Belgien eSIM, Belgien Reise, Mobiles Internet Belgien, Daten eSIM Belgien,
     Internet Belgien Urlaub
 order_summary:

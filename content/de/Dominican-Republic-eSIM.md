@@ -20,7 +20,7 @@ modal:
     Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit Code: web20
 seo:
   title: "Dominikanische Republik eSIM | Beste Prepaid eSIM"
-  description: "Die günstigste Prepaid eSIM für Dominikanische Republik von Roami. Unbegrenztes Datenvolumen, ohne Vertrag, sofort aktivieren & nutzbar. Deckt alle Regionen ab."
+  description: "Mit Roami in Dominikanische Republik sagen Sie Datenlimits ade. Unbegrenztes Internet für Ihre Reise, ohne Stress. Deckt alle Regionen ab."
   keywords: eSIM Dominikanische Republik, Reise eSIM, mobiles Internet, Urlaub, Santo
     Domingo, Punta Cana, Roaming Alternativen, günstige eSIM
 order_summary:

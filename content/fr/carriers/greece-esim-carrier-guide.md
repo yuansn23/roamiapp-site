@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Grèce | Cosmote, Vodafone ou Nova ?"
-description: "Roami compare les opérateurs grecs pour l'eSIM de voyage. 5G d'Athènes aux îles. Lequel vous maintient le mieux connecté ?"
-date: '2026-06-04T00:00:00+00:00'
+title: "Greece eSIM Guide | Cosmote, Vodafone or Nova?"
+description: "Voyagez a Grèce sans souci avec Roami. Notre eSIM vous suit partout pour un voyage en toute serenite. Couvre tout le pays."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Grèce, données prépayées, réseau 5G, Cosmote, Vodafone, Speedtest,
   voyage Grèce, itinérance
 site_name: Roami

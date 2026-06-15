@@ -1,6 +1,6 @@
 ---
 title: 多米尼克 eSIM 方案 | 多米尼克 eSIM | Roami
-date: '2026-05-19T10:24:35+00:00'
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 多米尼克 eSIM | eSIM無限流量 | 5G網路自動切換 | Roami
-  description: 多米尼克旅遊推薦 Roami eSIM 無限流量方案。支援 5G 網路自動切換，訊號穩定。現在下單並輸入折扣碼 20%，獲取專屬優惠折扣。
+  title: "多米尼克 eSIM | 5G 高速隨時連線不限速"
+  description: "Roami 讓您在多米尼克輕鬆上網不受任何合約限制。沒有月租費也不用長期綁約，旅行期間使用剛剛好，回國後也不用擔心取消的問題，省心省力。覆蓋 全區。"
   keywords: 多米尼克 eSIM, 多米尼克網路, 多米尼克旅遊, 多米尼克上網, 多米尼克景點, Digicel, Flow
 order_summary:
   title: 選擇 多米尼克 eSIM

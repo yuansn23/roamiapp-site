@@ -1,6 +1,6 @@
 ---
 title: "Japan Carrier Guide | Best Prepaid eSIM Plans Compared"
-description: "Roami compares Docomo, SoftBank & KDDI 5G for Japan eSIM. Coverage in Tokyo, Osaka & rural areas. Speed data to help you pick the best carrier."
+description: "Sie kommen in Japan an? Aktivieren Sie Ihre Roami eSIM sofort, ohne Papierkram. In Sekunden online. Deckt Tokio, Osaka & Kyoto ab."
 date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Japan, Prepaid Daten, 5G Netz, Rakuten Mobile, SoftBank, NTT DoCoMo,
   Roami eSIM, Reise-eSIM Japan, mobiles Internet Japan

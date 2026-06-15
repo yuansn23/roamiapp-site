@@ -1,6 +1,6 @@
 ---
 title: Forfait eSIM UK | Meilleure eSIM de voyage 2026 | Roami
-date: "2026-06-07T08:51:27+00:00"
+date: '2026-06-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de 20% de réduction avec le code : web20
 seo:
-  title: "eSIM UK | -20 %, données 5G illimitées"
-  description: "Restez en ligne au UK avec l'eSIM Roami. 5G rapide, données illimitées, configuration instantanée par QR. Couvre Londres, Édimbourg et tout le pays."
+  title: "UK eSIM | Meilleur prix sans engagement"
+  description: "Voyagez a UK en toute liberte avec Roami. Pas d'engagement, pas de renouvellement automatique. Simple et honnete. Couvre tout le pays."
   keywords: eSIM UK, forfait data voyage, couverture mobile Londres, eSIM
     pas cher, internet UK, voyage UK, carte eSIM
 order_summary:

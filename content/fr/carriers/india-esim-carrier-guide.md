@@ -1,7 +1,7 @@
 ---
-title: "Guide eSIM Inde | Airtel, Jio ou Vi ?"
-description: "Roami compare les opérateurs indiens pour l'eSIM de voyage. 5G dans 28 États. Lequel fonctionne sans pièce d'identité locale ? Données de vitesse à l'intérieur."
-date: '2026-06-04T00:00:00+00:00'
+title: "India eSIM Guide | Airtel, Jio or Vi?"
+description: "L'eSIM prepayee Roami pour Inde s'achete en ligne sans attendre. Pas de livraison, tout est dematerialise. Couvre Delhi, Bombay & toute l'Inde."
+date: '2026-06-14T00:00:00+00:00'
 keywords: eSIM Inde, données prépayées, réseau 5G, Jio, Airtel, voyage Inde, connexion
   rapide
 site_name: Roami

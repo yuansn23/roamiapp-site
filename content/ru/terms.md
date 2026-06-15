@@ -5,7 +5,7 @@ last_updated: "Июнь 2026"
 date: "2026-06-09T08:51:27+00:00"
 layout: "terms"
 type: "page"
-1_title: "Roami Условия использования"
+h1_title: "Roami Условия использования"
 ---
 
 
