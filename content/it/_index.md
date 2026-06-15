@@ -52,7 +52,7 @@ destinations:
           price: "Da $1.99"
           tags: ["5G ad Alta Velocità", "Dati Illimitati"]
         - flag: "gb.svg"
-          name: "eSIM Regno Unito"
+          name: "eSIM UK"
           slug: "united-kingdom-esim"
           price: "Da $1.99"
           badge: "Popolare"
@@ -148,7 +148,7 @@ destinations:
       desc: "eSIM con il miglior rapporto qualità-prezzo in Nord America, supporto al confronto automatico dei prezzi."
       cards:
         - flag: "us.svg"
-          name: "eSIM Stati Uniti"
+          name: "eSIM USA"
           slug: "united-states-esim"
           price: "Da $1.99"
           badge: "Popolare"

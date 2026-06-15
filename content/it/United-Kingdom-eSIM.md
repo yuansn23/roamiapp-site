@@ -1,10 +1,10 @@
 ---
-title: eSIM Regno Unito Dati | Migliore eSIM viaggio 2026 | Roami
+title: eSIM UK Dati | Migliore eSIM viaggio 2026 | Roami
 date: "2026-06-07T08:51:27+00:00"
 draft: false
 type: esim
 country_meta:
-  core_keyword: eSIM Regno Unito
+  core_keyword: eSIM UK
   scenario_keywords: visite turistiche, viaggi d'affari, studio all'estero, festival
     musicali, shopping di lusso
   operators: EE, Vodafone, O2
@@ -19,10 +19,10 @@ modal:
   text_android: |-
     Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
 seo:
-  title: "eSIM Regno Unito | 20% DI SCONTO, Dati 5G Illimitati"
-  description: "Rimani online in tutto il Regno Unito con Roami eSIM. 5G veloce, dati illimitati, configurazione QR immediata. Copre Londra, Edimburgo e l'intera nazione."
-  keywords: eSIM Regno Unito, copertura rete, viaggio Regno Unito, Internet mobile
-    Londra, roaming Regno Unito
+  title: "eSIM UK | 20% DI SCONTO, Dati 5G Illimitati"
+  description: "Rimani online in tutto il UK con Roami eSIM. 5G veloce, dati illimitati, configurazione QR immediata. Copre Londra, Edimburgo e l'intera nazione."
+  keywords: eSIM UK, copertura rete, viaggio UK, Internet mobile
+    Londra, roaming UK
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -34,18 +34,18 @@ order_summary:
 breadcrumbs:
 - label: Home
   url: /
-- label: eSIM Regno Unito
+- label: eSIM UK
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Miglior eSIM per Regno Unito
-  title: Miglior eSIM per Regno Unito
+  alt: Miglior eSIM per UK
+  title: Miglior eSIM per UK
 hero:
   flag_image: img/flags/gb.svg
-  flag_alt: Bandiera di Regno Unito
-  title: eSIM Regno Unito – eSIM prepagata
+  flag_alt: Bandiera di UK
+  title: eSIM UK – eSIM prepagata
   subtitle: Consegna immediata | Nessuna commissione nascosta | Internet senza preoccupazioni
 features:
-  title: Perché i viaggiatori scelgono l'eSIM Roami per Regno Unito
+  title: Perché i viaggiatori scelgono l'eSIM Roami per UK
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -306,13 +306,13 @@ plans_data:
     tagColor: bg-purple-600
     daily: '2.47'
 discount_banner:
-  title: Sconto speciale sull'eSIM Regno Unito!
+  title: Sconto speciale sull'eSIM UK!
   desc_html: |-
     Usa il codice <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> al checkout per ottenere <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% DI SCONTO</span>!
   btn_text: Salva lo sconto
   validity: 'Valido: 3 giorni'
 network_coverage:
-  title: Dettagli copertura di rete eSIM Regno Unito
+  title: Dettagli copertura di rete eSIM UK
   supports_text: 'Supporta:'
   service_details:
     title: Dettagli del servizio
@@ -320,8 +320,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Copertura
-      desc: Goditi una copertura di rete completa in tutta Regno Unito, comprese città
-        come Londra, Manchester, Edimburgo e Glasgow. La nostra eSIM Regno Unito si
+      desc: Goditi una copertura di rete completa in tutta UK, comprese città
+        come Londra, Manchester, Edimburgo e Glasgow. La nostra eSIM UK si
         connette perfettamente alle reti di EE, Vodafone e O2.
     - icon: zap
       color: text-amber-500
@@ -345,13 +345,13 @@ network_coverage:
       coverage: Ampia copertura
       network: Rete 5G/4G/LTE
 reminders:
-  title: Avvisi importanti per l'eSIM Regno Unito
+  title: Avvisi importanti per l'eSIM UK
   items:
   - icon: 📱
     html: |-
       Verifica la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilità eSIM</a> del tuo telefono prima dell'acquisto.
   - icon: ✈️
-    html: Consigliamo di attivare l'eSIM solo dopo l'arrivo in Regno Unito.
+    html: Consigliamo di attivare l'eSIM solo dopo l'arrivo in UK.
   - icon: ⏰
     html: La validità inizia al momento della connessione alla rete partner.
   - icon: 📧
@@ -366,15 +366,15 @@ reminders:
     result_html: |-
       Se appare un numero <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>, l'eSIM è supportata!
 activation_steps:
-  title: Attiva la tua eSIM Regno Unito in pochi minuti
+  title: Attiva la tua eSIM UK in pochi minuti
   steps:
   - num: '1'
-    title: Ricevi e salva il codice QR – pronto per Regno Unito
+    title: Ricevi e salva il codice QR – pronto per UK
     desc: Subito dopo l'ordine riceverai un'email con il tuo codice QR di attivazione
       personale e le istruzioni di configurazione. Salva il codice QR sul tuo smartphone
       o stampalo – non hai bisogno di una connessione Internet attiva per l'installazione
       successiva. L'eSIM è valida per 30 giorni, quindi puoi prepararla con calma
-      prima della partenza per Regno Unito.
+      prima della partenza per UK.
     is_list: false
   - num: '2'
     title: Installa l'eSIM sul tuo dispositivo - Scansiona il codice QR
@@ -383,32 +383,32 @@ activation_steps:
     - Apri **Impostazioni** del tuo smartphone → **Cellulare / Dati mobili**
     - Tocca **"Aggiungi eSIM"** o **"Aggiungi piano cellulare"**
     - Scegli **"Scansiona codice QR"** e inquadra il codice con la fotocamera
-    - Il profilo eSIM Regno Unito verrà caricato automaticamente – tocca **"Continua"**
-    - Assegna un nome (es. "Roami Regno Unito") e impostala come **predefinita per
+    - Il profilo eSIM UK verrà caricato automaticamente – tocca **"Continua"**
+    - Assegna un nome (es. "Roami UK") e impostala come **predefinita per
       i dati mobili**
     - L'eSIM è ora installata ma **inattiva** – perfetta per la preparazione al viaggio
   - num: '3'
     title: Preparazione a casa – test senza rischi
     desc: Dopo l'installazione puoi lasciare l'eSIM disattivata nelle impostazioni.
       Tuttavia, puoi già testarla con il Wi-Fi di casa (non verranno consumati dati
-      mobili). Non appena atterri in Regno Unito, attiva l'eSIM – la validità inizierà
+      mobili). Non appena atterri in UK, attiva l'eSIM – la validità inizierà
       automaticamente al primo collegamento con la rete di EE / Vodafone. Nessuna
       tassa di attivazione nascosta, nessun costo di roaming.
     is_list: false
   - num: '4'
-    title: 'Arrivo in Regno Unito: subito online con 5G/4G'
-    desc: Non appena atterrato in Regno Unito (ad esempio in Aeroporto di Heathrow
+    title: 'Arrivo in UK: subito online con 5G/4G'
+    desc: Non appena atterrato in UK (ad esempio in Aeroporto di Heathrow
       (Londra), Aeroporto di Gatwick (Londra), Aeroporto di Manchester), disattiva
       la modalità aereo (o rimani in modalità aereo e attiva solo l'eSIM). Vai su
-      **Impostazioni → Cellulare** e attiva la tua eSIM Roami Regno Unito. Entro pochi
+      **Impostazioni → Cellulare** e attiva la tua eSIM Roami UK. Entro pochi
       secondi il tuo dispositivo si collegherà automaticamente alla rete 5G/4G più
       veloce disponibile di EE / Vodafone. Potrai subito navigare, usare WhatsApp,
       controllare i social media o configurare un hotspot per altri dispositivi –
       senza attesa, senza documenti, senza contratto.
     is_list: false
 faq_section1:
-  title: FAQ eSIM Regno Unito e Guida di Viaggio
-  desc: Tutto ciò che devi sapere sull'uso della tua eSIM Regno Unito in diversi scenari
+  title: FAQ eSIM UK e Guida di Viaggio
+  desc: Tutto ciò che devi sapere sull'uso della tua eSIM UK in diversi scenari
     di viaggio.
   categories:
   - id: faq-general
@@ -416,48 +416,48 @@ faq_section1:
     tab_title: Generale
     title: 1. Domande Generali
     questions:
-    - q: Quanto costa l'eSIM per Regno Unito e ci sono offerte sconto?
-      a: Il nostro piano eSIM Regno Unito parte da soli $1,99/GB. Con il codice promozionale
+    - q: Quanto costa l'eSIM per UK e ci sono offerte sconto?
+      a: Il nostro piano eSIM UK parte da soli $1,99/GB. Con il codice promozionale
         'web20' ottieni il 20% di sconto su ogni ordine – valido per tutti i piani.
         Nessuna tassa nascosta, nessun vincolo di durata minima.
-    - q: Il mio smartphone supporta l'eSIM per Regno Unito e come la installo?
+    - q: Il mio smartphone supporta l'eSIM per UK e come la installo?
       a: Sì, la maggior parte degli smartphone moderni (iPhone XS/XR o successivi,
         Samsung Galaxy S20+/Note20+, Google Pixel 3a+) supportano l'eSIM. Installa
-        l'eSIM Regno Unito scansionando il codice QR nelle impostazioni cellulari.
-        Le reti di EE / Vodafone offrono un'eccellente copertura 5G/4G in Regno Unito.
+        l'eSIM UK scansionando il codice QR nelle impostazioni cellulari.
+        Le reti di EE / Vodafone offrono un'eccellente copertura 5G/4G in UK.
     - q: Quali sono i vantaggi dell'eSIM Roami rispetto alle SIM locali prepagate
-        in Regno Unito?
+        in UK?
       a: A differenza delle SIM locali prepagate, eviti di andare in negozio, la registrazione
         dell'identità (KYC) e la ricerca di una ricarica adatta. Con Roami attivi
         l'eSIM digitalmente in meno di 2 minuti – nessuna coda in aeroporto.
-    - q: Posso trasferire l'eSIM Regno Unito su un altro dispositivo dopo l'installazione?
+    - q: Posso trasferire l'eSIM UK su un altro dispositivo dopo l'installazione?
       a: Un'eSIM una volta installata non può essere trasferita su un altro dispositivo.
         Installa l'eSIM sul dispositivo che utilizzerai durante il viaggio. Per dispositivi
         aggiuntivi puoi acquistare altre eSIM.
-    - q: Esiste una garanzia di rimborso se l'eSIM Regno Unito non funziona?
+    - q: Esiste una garanzia di rimborso se l'eSIM UK non funziona?
       a: Sì, offriamo una garanzia di rimborso del 100% entro 7 giorni dall'attivazione,
         se i problemi tecnici non possono essere risolti dal nostro supporto 24/7.
         Nessun rischio per te.
-    - q: Quanto è sicura l'eSIM Regno Unito rispetto a una SIM fisica?
+    - q: Quanto è sicura l'eSIM UK rispetto a una SIM fisica?
       a: Le eSIM sono più resistenti alle manomissioni, poiché sono integrate nel
         dispositivo e non possono essere rimosse o copiate. I tuoi dati rimangono
         crittografati – nessun rischio di SIM persa o rubata.
-    - q: Come funziona il roaming internazionale con l'eSIM per Regno Unito nei paesi
+    - q: Come funziona il roaming internazionale con l'eSIM per UK nei paesi
         vicini?
-      a: L'eSIM Regno Unito è ottimizzata principalmente per Regno Unito. Per viaggi
+      a: L'eSIM UK è ottimizzata principalmente per UK. Per viaggi
         nei paesi limitrofi dell'UE, consigliamo la nostra eSIM Europa, che offre
         roaming senza soluzione di continuità senza costi aggiuntivi. La sola eSIM
-        nazionale non funziona in modo affidabile al di fuori di Regno Unito.
-    - q: Roami offre anche eSIM regionali per viaggiare al di fuori di Regno Unito?
-      a: Sì, oltre all'eSIM Regno Unito, offriamo eSIM regionali per Europa, Asia,
+        nazionale non funziona in modo affidabile al di fuori di UK.
+    - q: Roami offre anche eSIM regionali per viaggiare al di fuori di UK?
+      a: Sì, oltre all'eSIM UK, offriamo eSIM regionali per Europa, Asia,
         Nord America e globali. Ideali per gite di più giorni o tour attraverso più
         paesi – senza cambiare SIM.
-    - q: Posso installare l'eSIM Regno Unito prima della partenza e attivarla successivamente?
+    - q: Posso installare l'eSIM UK prima della partenza e attivarla successivamente?
       a: Sì, puoi installare l'eSIM già a casa (tramite Wi-Fi). L'attivazione avviene
         automaticamente quando il tuo telefono si connette per la prima volta alla
-        rete di EE / Vodafone in Regno Unito. Così eviti qualsiasi stress all'atterraggio.
-    - q: Quali reti 5G/4G utilizza l'eSIM per Regno Unito e com'è la copertura?
-      a: L'eSIM Regno Unito lavora esclusivamente con EE / Vodafone. Riceverai automaticamente
+        rete di EE / Vodafone in UK. Così eviti qualsiasi stress all'atterraggio.
+    - q: Quali reti 5G/4G utilizza l'eSIM per UK e com'è la copertura?
+      a: L'eSIM UK lavora esclusivamente con EE / Vodafone. Riceverai automaticamente
         la migliore rete disponibile (5G/4G/LTE) con la migliore copertura nelle città
         come Roma, Milano, Napoli e anche in campagna e lungo le autostrade.
   - id: faq-airport
@@ -466,7 +466,7 @@ faq_section1:
     title: 2. Rete Aeroportuale
     questions:
     - q: Come posso ottenere una rete affidabile subito dopo l'atterraggio?
-      a: Installa l'eSIM Regno Unito prima del volo. Non appena atterri in aeroporti
+      a: Installa l'eSIM UK prima del volo. Non appena atterri in aeroporti
         come Aeroporto di Heathrow (Londra), Aeroporto di Gatwick (Londra), Aeroporto
         di Manchester, disattiva la modalità aereo e attiva la tua eSIM. Si collegherà
         in pochi secondi alla rete 4G/5G locale.
@@ -475,20 +475,20 @@ faq_section1:
         Gett per prenotare una corsa o WhatsApp per contattare il tuo autista, senza
         affidarti al Wi-Fi insicuro dell'aeroporto.
     - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Regno Unito, puoi controllare in tempo reale gli orari
+      a: Con i tuoi dati eSIM UK, puoi controllare in tempo reale gli orari
         di treni e autobus direttamente al ritiro bagagli in Aeroporto di Heathrow
         (Londra), Aeroporto di Gatwick (Londra), Aeroporto di Manchester o trovare
         la strada per il parcheggio dei taxi.
     - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Regno Unito online in anticipo, eviti completamente
+      a: Acquistando la nostra eSIM UK online in anticipo, eviti completamente
         i costosi chioschi SIM nell'area arrivi, risparmiando tempo e denaro.
     - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Regno Unito è solo dati. Per ricevere SMS, lascia attiva la
+      a: La nostra eSIM UK è solo dati. Per ricevere SMS, lascia attiva la
         tua SIM domestica (la ricezione SMS in roaming è spesso gratuita) e usa l'eSIM
         per tutto il traffico dati.
     - q: Come contatto immediatamente la mia famiglia?
       a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi
-        dati eSIM Regno Unito per far sapere ai tuoi cari che sei arrivato sano e
+        dati eSIM UK per far sapere ai tuoi cari che sei arrivato sano e
         salvo.
   - id: faq-transport
     icon: car
@@ -496,29 +496,29 @@ faq_section1:
     title: 3. Trasporti e Viaggi
     questions:
     - q: Come uso Google Maps per pianificare il percorso?
-      a: La nostra stabile connessione eSIM Regno Unito garantisce che Google Maps
+      a: La nostra stabile connessione eSIM UK garantisce che Google Maps
         possa caricare i dati sul traffico in tempo reale e gli orari ovunque in Regno
         Unito.
     - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Uber, Bolt, Gett usano VoIP. Poiché hai dati eSIM Regno Unito attivi,
+      a: App come Uber, Bolt, Gett usano VoIP. Poiché hai dati eSIM UK attivi,
         gli autisti possono chiamarti o inviarti notifiche direttamente tramite l'app,
         senza bisogno di un numero locale.
     - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Regno Unito per acquistare biglietti digitali con codice
+      a: Usa i tuoi dati eSIM UK per acquistare biglietti digitali con codice
         QR nelle app locali, evitando lunghe code alle biglietterie automatiche.
     - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Regno Unito. Un piano da 5GB o 10GB è
+      a: Monta il telefono e usa la tua eSIM UK. Un piano da 5GB o 10GB è
         sufficiente per un'ampia navigazione GPS durante un viaggio su strada in Regno
         Unito.
     - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
       a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra
-        eSIM Regno Unito offre la copertura affidabile necessaria.
+        eSIM UK offre la copertura affidabile necessaria.
     - q: Le app di ride-hailing funzionano oltre confine?
       a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione
         Internet attiva tramite la nostra eSIM locale o regionale.
     - q: Come offro un hotspot stabile per la mia famiglia?
       a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può
-        connettersi alla tua rete eSIM Regno Unito sul treno o in auto.
+        connettersi alla tua rete eSIM UK sul treno o in auto.
   - id: faq-hotels
     icon: hotel
     tab_title: Hotel
@@ -526,25 +526,25 @@ faq_section1:
     questions:
     - q: Come faccio il self-check-in dopo la prenotazione?
       a: Molte strutture moderne inviano codici per serrature intelligenti via email.
-        La tua eSIM Regno Unito ti garantisce di poter recuperare questi dettagli
+        La tua eSIM UK ti garantisce di poter recuperare questi dettagli
         direttamente davanti alla porta.
     - q: Come contatto il mio host Airbnb al mio arrivo?
       a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare
-        l'orario di arrivo con il tuo host tramite i dati mobili eSIM Regno Unito.
+        l'orario di arrivo con il tuo host tramite i dati mobili eSIM UK.
     - q: Come uso Google Maps per navigare verso l'hotel?
       a: Che tu alloggi in The Ritz London, The Savoy, Claridge's, inserisci l'indirizzo
-        in Google Maps e usa la navigazione della tua eSIM Regno Unito.
+        in Google Maps e usa la navigazione della tua eSIM UK.
     - q: Come ricevo i codici di verifica SMS?
       a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Regno
         Unito per ricevere codici via email o app di autenticazione.
     - q: Come contatto rapidamente l'assistenza clienti?
       a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i
-        tuoi dati ad alta velocità eSIM Regno Unito.
+        tuoi dati ad alta velocità eSIM UK.
     - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Deliveroo, Uber Eats, Just Eat e usa i tuoi dati eSIM Regno Unito
+      a: Scarica Deliveroo, Uber Eats, Just Eat e usa i tuoi dati eSIM UK
         per ordinare un pasto caldo direttamente nella hall dell'hotel.
     - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Regno Unito subentra,
+      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM UK subentra,
         permettendoti di scrivere all'hotel se hai dimenticato qualcosa.
   - id: faq-attractions
     icon: landmark
@@ -553,25 +553,25 @@ faq_section1:
     questions:
     - q: Come acquisto biglietti elettronici su GetYourGuide/Viator?
       a: Se vuoi visitare London Eye, Torre di Londra, Big Ben all'ultimo minuto,
-        puoi usare i tuoi dati eSIM Regno Unito per acquistare biglietti online e
+        puoi usare i tuoi dati eSIM UK per acquistare biglietti online e
         mostrare il codice a barre direttamente.
     - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Regno Unito, puoi leggere recensioni
+      a: Con l'affidabile 4G/5G della tua eSIM UK, puoi leggere recensioni
         e prenotare tour locali mentre sei seduto in un bar.
     - q: Come uso Wikipedia/Google per informazioni durante la visita?
       a: Arricchisci la tua esperienza culturale cercando fatti storici su Google
-        o traducendo i cartelli dei musei mentre esplori Regno Unito.
+        o traducendo i cartelli dei musei mentre esplori UK.
     - q: Come trovo la strada per l'attrazione successiva?
       a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura
-        della tua eSIM Regno Unito ti guiderà lungo il percorso più veloce.
+        della tua eSIM UK ti guiderà lungo il percorso più veloce.
     - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
       a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa
-        in tempo reale. La tua eSIM Regno Unito ti mantiene online in tutto il parco.
+        in tempo reale. La tua eSIM UK ti mantiene online in tutto il parco.
     - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
       a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite
-        app di ticketing con i tuoi dati eSIM Regno Unito.
+        app di ticketing con i tuoi dati eSIM UK.
     - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Regno Unito ti permettono di pubblicare
+      a: Le nostre veloci velocità di upload eSIM UK ti permettono di pubblicare
         Reel e foto in tempo reale, senza aspettare il Wi-Fi dell'hotel.
   - id: faq-social
     icon: smartphone
@@ -582,28 +582,28 @@ faq_section1:
       a: I tuoi account sono legati al tuo numero di casa. Con la nostra eSIM Regno
         Unito come fonte Internet, puoi chattare e chiamare esattamente come a casa.
     - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Regno Unito 4G/5G
+      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM UK 4G/5G
         offre la larghezza di banda per caricamenti rapidi.
     - q: Come faccio videochiamate con la mia famiglia?
       a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM
-        Regno Unito siano chiare e senza ritardi, ovunque ti trovi nel paese.
+        UK siano chiare e senza ritardi, ovunque ti trovi nel paese.
     - q: È sicuro accedere ai social network su Wi-Fi pubblico?
       a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM
-        Regno Unito personali è crittografato e molto più sicuro.
+        UK personali è crittografato e molto più sicuro.
     - q: Come condivido la rete come hotspot con i compagni di viaggio?
       a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare
-        il tuo volume dati eSIM Regno Unito per i loro social media.
+        il tuo volume dati eSIM UK per i loro social media.
   - id: faq-crossborder
     icon: globe
     tab_title: Transfrontaliero
     title: 7. Viaggi Transfrontalieri
     questions:
     - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Regno Unito funziona solo lì. Per viaggiare attraverso
+      a: L'eSIM singola per UK funziona solo lì. Per viaggiare attraverso
         più paesi, consigliamo la nostra eSIM Regionale (ad es. eSIM Europa).
     - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
       a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM
-        Regno Unito sia impostata come linea dati primaria.
+        UK sia impostata come linea dati primaria.
     - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
       a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere
         online durante lo scalo.
@@ -625,23 +625,23 @@ faq_section1:
     title: 8. Emergenze
     questions:
     - q: Come si compongono i numeri di emergenza locali?
-      a: In Regno Unito puoi comporre direttamente numeri di emergenza come 999 (emergenze),
+      a: In UK puoi comporre direttamente numeri di emergenza come 999 (emergenze),
         101 (polizia non urgente), 111 (consulenza medica non urgente), purché il
         telefono riceva un segnale cellulare.
     - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Regno Unito consentono una ricerca immediata su Google Maps
+      a: I tuoi dati eSIM UK consentono una ricerca immediata su Google Maps
         di 'farmacia' o 'ospedale' con il percorso più veloce.
     - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Regno Unito per trovare rapidamente l'indirizzo e il contatto
+      a: Usa la tua eSIM UK per trovare rapidamente l'indirizzo e il contatto
         di emergenza della tua ambasciata.
     - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Regno Unito per chiamare
+      a: Usa app VoIP come Skype tramite i tuoi dati eSIM UK per chiamare
         le linee di assistenza della tua assicurazione.
     - q: Come condivido la mia posizione in tempo reale?
       a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare
-        le tue coordinate tramite i dati eSIM Regno Unito.
+        le tue coordinate tramite i dati eSIM UK.
     - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Regno Unito per caricare mappe
+      a: Usa la copertura cittadina della tua eSIM UK per caricare mappe
         offline in Google Maps prima di recarti in aree senza segnale.
   - id: faq-business
     icon: briefcase
@@ -649,25 +649,25 @@ faq_section1:
     title: 9. Business e Lavoro
     questions:
     - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Regno Unito si connette a reti premium offrendo larghezza
+      a: La nostra eSIM UK si connette a reti premium offrendo larghezza
         di banda e bassa latenza per videoconferenze professionali.
     - q: Come mi connetto in modo sicuro alla VPN aziendale?
       a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale
-        in modo sicuro sulla rete eSIM Regno Unito.
+        in modo sicuro sulla rete eSIM UK.
     - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Regno Unito è molto più veloce e
+      a: Attiva l'hotspot. Utilizzare la tua eSIM UK è molto più veloce e
         sicuro contro le minacce informatiche rispetto alle reti Wi-Fi aperte.
     - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Regno Unito
+      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM UK
         per i codici basati su email.
     - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Regno Unito puoi caricare rapidamente
+      a: Con le velocità 5G/4G della tua eSIM UK puoi caricare rapidamente
         presentazioni sui servizi cloud.
     - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Regno Unito offre una connessione costante, così ricevi immediatamente
+      a: La tua eSIM UK offre una connessione costante, così ricevi immediatamente
         messaggi Slack ed email.
     - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Regno Unito in movimento per
+      a: Accedi ai portali aziendali con la tua eSIM UK in movimento per
         informare le risorse umane sui ritardi dei voli.
 related_products:
   title: Piani eSIM simili
@@ -677,7 +677,7 @@ related_products:
     price: A partire da $1,99
     is_highlight: false
     slug: united-states-esim
-  - name: Regno Unito eSIM
+  - name: UK eSIM
     flag: img/flags/gb.svg
     price: A partire da $1,99
     is_highlight: false

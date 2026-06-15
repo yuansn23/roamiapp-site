@@ -35,15 +35,15 @@ order_summary:
 breadcrumbs:
 - label: Home
   url: /
-- label: United States eSIM
+- label: USA eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for United States
-  title: Best eSIM for United States
+  alt: Best eSIM for USA
+  title: Best eSIM for USA
 hero:
   flag_image: img/flags/us.svg
   flag_alt: United States Flag
-  title: United States eSIM data plan
+  title: USA eSIM data plan
   subtitle: No more roaming fees | Automatic network selection | 100% money-back guarantee – The best prepaid eSIM for USA travelers
 features:
   title: Why Travelers Choose Roami for USA eSIM  

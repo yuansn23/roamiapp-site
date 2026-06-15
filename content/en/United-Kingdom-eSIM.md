@@ -35,15 +35,15 @@ order_summary:
 breadcrumbs:
 - label: Home
   url: /
-- label: United Kingdom eSIM
+- label: UK eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for United Kingdom
-  title: Best eSIM for United Kingdom
+  alt: Best eSIM for UK
+  title: Best eSIM for UK
 hero:
   flag_image: img/flags/gb.svg
   flag_alt: United Kingdom Flag
-  title: United Kingdom eSIM data plan
+  title: UK eSIM data plan
   subtitle: Worry-free internet | 20% discount for a limited time | Smart choice – The best prepaid eSIM for UK travelers
 features:
   title: Why Travelers Choose Roami for UK eSIM

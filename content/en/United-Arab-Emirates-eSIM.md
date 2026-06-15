@@ -44,11 +44,11 @@ banner:
 hero:
   flag_image: img/flags/ae.svg
   flag_alt: UAE Flag
-  title: Uae eSIM data plan
+  title: UAE eSIM data plan
   subtitle: No ID required | Worry-free internet | 20% discount for a limited time
-    – The best prepaid eSIM for United Arab Emirates travelers
+    – The best prepaid eSIM for UAE travelers
 features:
-  title: Why Travelers Choose Roami for United Arab Emirates eSIM
+  title: Why Travelers Choose Roami for UAE eSIM
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -269,11 +269,11 @@ plans_data:
     tagColor: bg-slate-800
     daily: '2.53'
 discount_banner:
-  title: Special Discount on United Arab Emirates eSIM Plans
+  title: Special Discount on UAE eSIM Plans
   desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5
     rounded font-bold mx-1">web20</span> at checkout to get <span class="font-bold
     underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
-    your order! Get the cheapest eSIM plan United Arab Emirates for your trip.
+    your order! Get the cheapest eSIM plan UAE for your trip.
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
@@ -312,7 +312,7 @@ network_coverage:
       coverage: Native IP
       network: 5G/4G/LTE Network
 reminders:
-  title: Important reminders when using United Arab Emirates eSIM
+  title: Important reminders when using UAE eSIM
   items:
   - icon: 📱
     html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700
@@ -506,7 +506,7 @@ faq_section:
         - q: "How does Roami's service compare to other providers like Airalo for business use?"
           a: "eSIM providers like Roami and Airala offer competitive high-speed data plans suitable for business use. Roami is often praised for its simple app and reliable connection, while Airalo is known for its extensive global coverage. For a business trip, both are excellent choices, but you should compare specific plan prices like the 10GB options. The best choice depends on your specific data needs and preferred app interface."
 related_products:
-  title: Related United Arab Emirates eSIM Plans
+  title: Related UAE eSIM Plans
   items:
   - name: united states eSIM
     flag: img/flags/us.svg

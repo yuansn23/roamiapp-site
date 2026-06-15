@@ -1,10 +1,10 @@
 ---
-title: VAE eSIM Datentarif | Bester 2026 Reise-eSIM | Roami
-date: "2026-06-07T08:51:27+00:00"
+title: UAE eSIM Datentarif | Bester 2026 Reise-eSIM | Roami
+date: "2026-06-14T08:51:27+00:00"
 draft: false
 type: esim
 country_meta:
-  core_keyword: VAE eSIM
+  core_keyword: UAE eSIM
   scenario_keywords: Geschäftsreise, Luxus-Shopping, Wüstensafari, Strandurlaub, Kulturelle Erkundung
   operators: Etisalat, du, Virgin Mobile UAE
   competitors: Airalo, Holafly, Nomad, SimOptions, GigSky
@@ -18,9 +18,9 @@ modal:
   text_android: |-
     Unser eSIM-Dienst wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt, Promocode: web20
 seo:
-  title: "VAE eSIM | 20% RABATT, ultraschnelles 5G"
-  description: "Erleben Sie die VAE mit Roami eSIM. Ultraschnelles 5G in Dubai, Abu Dhabi und allen Emiraten. Sofortige Aktivierung. Unbegrenzte Daten."
-  keywords: VAE eSIM, VAE Reise-SIM, VAE mobile Daten, VAE 5G, VAE Internet, VAE Touristen-SIM, VAE Datentarif, VAE digitaler Nomade, VAE Konnektivität
+  title: "UAE eSIM | 20% RABATT, ultraschnelles 5G"
+  description: "Erleben Sie die UAE mit Roami eSIM. Ultraschnelles 5G in Dubai, Abu Dhabi und allen Emiraten. Sofortige Aktivierung. Unbegrenzte Daten."
+  keywords: UAE eSIM, UAE Reise-SIM, UAE mobile Daten, UAE 5G, UAE Internet, UAE Touristen-SIM, UAE Datentarif, UAE digitaler Nomade, UAE Konnektivität
   low_price: 1.99
   high_price: 39.9
 order_summary:
@@ -34,23 +34,23 @@ order_summary:
 breadcrumbs:
 - label: Startseite
   url: /
-- label: VAE eSIM
+- label: UAE eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Bestwert VAE eSIM
-  title: Bestwert VAE eSIM
+  alt: Bestwert UAE eSIM
+  title: Bestwert UAE eSIM
 hero:
   flag_image: img/flags/ae.svg
-  flag_alt: Flagge der VAE
-  title: VAE eSIM Datentarif
+  flag_alt: Flagge der UAE
+  title: UAE eSIM Datentarif
   subtitle: Reise-Essential | Entspannt reisen | Hotspot unterstützt
 features:
-  title: VAE eSIM entwickelt für nahtloses Reisen
+  title: UAE eSIM entwickelt für nahtloses Reisen
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
     title: Schnellstart
-    desc: Erhalten Sie Ihren VAE QR-Code in 5 Minuten
+    desc: Erhalten Sie Ihren UAE QR-Code in 5 Minuten
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: Lokale Netzwerk-Expertise
@@ -58,11 +58,11 @@ features:
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: Intelligente Verbindung
-    desc: Automatischer Wechsel zum stärksten VAE-Anbieter
+    desc: Automatischer Wechsel zum stärksten UAE-Anbieter
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: Frei teilen
-    desc: Hotspot für alle Ihre Geräte in den VAE
+    desc: Hotspot für alle Ihre Geräte in den UAE
   - icon: file-x
     color: from-rose-400 to-rose-600
     title: Totale Freiheit
@@ -70,7 +70,7 @@ features:
   - icon: shield-check
     color: from-amber-400 to-amber-600
     title: Seelenfrieden
-    desc: Zuverlässig in allen wichtigen Regionen der VAE
+    desc: Zuverlässig in allen wichtigen Regionen der UAE
 plans_title: Wählen Sie Ihren Tarif
 plans_data:
   3 Days:
@@ -280,7 +280,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Genießen Sie umfassende Netzabdeckung in den VAE, einschließlich Großstädten wie Dubai, Abu Dhabi, Sharjah und Al Ain. Unsere VAE eSIM verbindet sich nahtlos mit den robusten Netzen von Etisalat, du und Virgin Mobile UAE und gewährleistet stabile Signale in urbanen Zentren, Touristen-Hotspots und entlang wichtiger Verkehrswege.
+      desc: Genießen Sie umfassende Netzabdeckung in den UAE, einschließlich Großstädten wie Dubai, Abu Dhabi, Sharjah und Al Ain. Unsere UAE eSIM verbindet sich nahtlos mit den robusten Netzen von Etisalat, du und Virgin Mobile UAE und gewährleistet stabile Signale in urbanen Zentren, Touristen-Hotspots und entlang wichtiger Verkehrswege.
     - icon: zap
       color: text-amber-500
       title: Lieferzeit
@@ -306,7 +306,7 @@ reminders:
     html: |-
       Überprüfen Sie unsere <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">Liste unterstützter Geräte</a>, um sicherzustellen, dass Ihr Telefon mit eSIM funktioniert.
   - icon: ✈️
-    html: Warten Sie, bis Sie in den VAE gelandet sind, um Ihren Datentarif zu aktivieren.
+    html: Warten Sie, bis Sie in den UAE gelandet sind, um Ihren Datentarif zu aktivieren.
   - icon: ⏰
     html: Die Gültigkeit beginnt mit der Verbindung zu einem unterstützten Netzwerk.
   - icon: 📧
@@ -337,29 +337,29 @@ activation_steps:
     - Scannen Sie den QR-Code
     - Folgen Sie den Anweisungen
   - num: '3'
-    title: 'Schritt 3: In den VAE aktivieren'
-    desc: Aktivieren Sie nach Ihrer Ankunft in den VAE Ihre VAE eSIM in den Einstellungen, um Daten zu nutzen.
+    title: 'Schritt 3: In den UAE aktivieren'
+    desc: Aktivieren Sie nach Ihrer Ankunft in den UAE Ihre UAE eSIM in den Einstellungen, um Daten zu nutzen.
     is_list: false
 faq_section1:
-  title: VAE Reise-eSIM & Datenratgeber
-  desc: Häufig gestellte Fragen von Reisenden zur Nutzung von Prepaid-Daten und zur Konnektivität in den VAE.
+  title: UAE Reise-eSIM & Datenratgeber
+  desc: Häufig gestellte Fragen von Reisenden zur Nutzung von Prepaid-Daten und zur Konnektivität in den UAE.
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Allgemein
     title: 1. Allgemeine Fragen
     questions:
-    - q: Was passiert, wenn mir in den VAE das Datenvolumen ausgeht?
+    - q: Was passiert, wenn mir in den UAE das Datenvolumen ausgeht?
       a: Wenn Sie Ihr Datenvolumen aufgebraucht haben, wird die Verbindung unterbrochen, um unerwartete Kosten zu vermeiden. Sie können auf unserer Website ganz einfach einen Zusatztarif kaufen, um verbunden zu bleiben.
     - q: Kann ich meine physische Heimat-SIM-Karte im Telefon lassen?
       a: Ja! Sie können Ihre physische SIM aktiv lassen, um SMS und Anrufe von zu Hause zu empfangen, während Sie unser mobiles Datenpaket als primäre Quelle für Mobilfunkdaten einstellen.
-    - q: Bieten Sie eine Rückerstattung an, wenn die VAE eSIM nicht funktioniert?
-      a: Ja, wir haben eine 100% Geld-zurück-Garantie. Wenn Sie in den VAE auf technische Probleme stoßen, die unser 24/7-Support-Team nicht lösen kann, erstatten wir Ihnen den vollen Betrag.
-    - q: Entlädt sich mein Akku schneller, wenn ich eine virtuelle VAE-SIM verwende?
-      a: Die Nutzung einer eSIM verbraucht die gleiche Akkumenge wie eine physische SIM. Wenn Sie sich jedoch in einem Gebiet mit schwachem Signal in den VAE befinden, kann Ihr Telefon mehr Strom für die Netzwerksuche verbrauchen.
-    - q: Ist mein Telefon mit dieser digitalen SIM für die VAE kompatibel?
-      a: Die meisten modernen Smartphones (iPhone XS und neuer, Samsung Galaxy S20+, Pixel 3+) sind voll kompatibel. Sie können das VAE-Profil einfach durch Scannen des QR-Codes, den wir Ihnen zusenden, installieren.
-    - q: Kann ich den VAE-Datentarif auf ein anderes Telefon übertragen?
+    - q: Bieten Sie eine Rückerstattung an, wenn die UAE eSIM nicht funktioniert?
+      a: Ja, wir haben eine 100% Geld-zurück-Garantie. Wenn Sie in den UAE auf technische Probleme stoßen, die unser 24/7-Support-Team nicht lösen kann, erstatten wir Ihnen den vollen Betrag.
+    - q: Entlädt sich mein Akku schneller, wenn ich eine virtuelle UAE-SIM verwende?
+      a: Die Nutzung einer eSIM verbraucht die gleiche Akkumenge wie eine physische SIM. Wenn Sie sich jedoch in einem Gebiet mit schwachem Signal in den UAE befinden, kann Ihr Telefon mehr Strom für die Netzwerksuche verbrauchen.
+    - q: Ist mein Telefon mit dieser digitalen SIM für die UAE kompatibel?
+      a: Die meisten modernen Smartphones (iPhone XS und neuer, Samsung Galaxy S20+, Pixel 3+) sind voll kompatibel. Sie können das UAE-Profil einfach durch Scannen des QR-Codes, den wir Ihnen zusenden, installieren.
+    - q: Kann ich den UAE-Datentarif auf ein anderes Telefon übertragen?
       a: Aus Sicherheitsgründen kann ein eSIM-QR-Code normalerweise nur einmal gescannt und installiert werden. Wenn Sie das Telefon wechseln, müssen Sie sich für einen Ersatz an unseren Support wenden.
   - id: faq-airport
     icon: plane
@@ -367,16 +367,16 @@ faq_section1:
     title: 2. Ankunft am Flughafen
     questions:
     - q: Brauche ich WLAN am Flughafen, um den QR-Code zu scannen?
-      a: Ja, Sie benötigen eine Internetverbindung, um die eSIM zu installieren. Deshalb empfehlen wir dringend, den QR-Code bereits vor Ihrer Abreise in die VAE zu Hause zu scannen.
+      a: Ja, Sie benötigen eine Internetverbindung, um die eSIM zu installieren. Deshalb empfehlen wir dringend, den QR-Code bereits vor Ihrer Abreise in die UAE zu Hause zu scannen.
     - q: Wie kann ich meinen Abholfahrer am Dubai International Airport (DXB), Abu Dhabi International Airport (AUH), Sharjah International Airport (SHJ) ohne lokale Nummer kontaktieren?
-      a: Da unser Prepaid-VAE-Datentarif sofort Highspeed-Daten bereitstellt, können Sie WhatsApp, iMessage oder VoIP-Apps nutzen, um Ihren Fahrer gleich nach dem Verlassen des Flugzeugs anzurufen oder ihm zu schreiben.
-    - q: Kann ich diese VAE eSIM am Flughafen am Kiosk kaufen?
+      a: Da unser Prepaid-UAE-Datentarif sofort Highspeed-Daten bereitstellt, können Sie WhatsApp, iMessage oder VoIP-Apps nutzen, um Ihren Fahrer gleich nach dem Verlassen des Flugzeugs anzurufen oder ihm zu schreiben.
+    - q: Kann ich diese UAE eSIM am Flughafen am Kiosk kaufen?
       a: Unsere Tarife sind 100% digital. Sie können sie jetzt online kaufen und erhalten sie sofort per E-Mail, sodass Sie nach einem langen Flug nicht an physischen SIM-Karten-Kiosken anstehen müssen.
-    - q: Kann ich meine virtuelle VAE-SIM aktivieren, während ich auf das Gepäck warte?
+    - q: Kann ich meine virtuelle UAE-SIM aktivieren, während ich auf das Gepäck warte?
       a: Auf jeden Fall. Solange das Profil installiert ist, werden Sie durch das Einschalten der Leitung sofort verbunden, ohne das langsame, überlastete Flughafen-WLAN zu benötigen.
     - q: Kann ich außerhalb des Flughafens Careem, Uber, Dubai Metro nutzen?
-      a: Ja, mit Ihren aktiven VAE-Daten können Sie sofort Careem, Uber, Dubai Metro öffnen, um eine Fahrt zu Ihrem Hotel zu buchen, ohne eine teure Touristen-SIM in der Ankunftshalle kaufen zu müssen.
-    - q: Was ist, wenn ich einen Zwischenstopp in den VAE habe? Kann ich diesen Tarif nutzen?
+      a: Ja, mit Ihren aktiven UAE-Daten können Sie sofort Careem, Uber, Dubai Metro öffnen, um eine Fahrt zu Ihrem Hotel zu buchen, ohne eine teure Touristen-SIM in der Ankunftshalle kaufen zu müssen.
+    - q: Was ist, wenn ich einen Zwischenstopp in den UAE habe? Kann ich diesen Tarif nutzen?
       a: Ja, unsere Kurzzeit-Datentarife sind perfekt für Zwischenlandungen. Sie können während des Wartens auf Ihren Anschlussflug verbunden bleiben, E-Mails checken oder Videos streamen.
     - q: Habe ich sofort nach der Landung am Dubai International Airport (DXB), Abu Dhabi International Airport (AUH), Sharjah International Airport (SHJ) Internetzugang?
       a: Ja! Wenn Sie das Profil vor Ihrem Flug installiert haben, schalten Sie einfach nach der Landung am Dubai International Airport (DXB), Abu Dhabi International Airport (AUH), Sharjah International Airport (SHJ) den Flugmodus aus. Es verbindet sich innerhalb weniger Sekunden automatisch mit dem lokalen 4G/5G-Netz.
@@ -389,50 +389,50 @@ faq_section1:
     questions:
     - q: Kann ich digitale Zug- oder U-Bahn-Tickets auf meinem Telefon kaufen?
       a: Ja, Sie können Ihre schnellen mobilen Daten nutzen, um auf lokale Transit-Apps zuzugreifen und QR-Code-Tickets unterwegs zu kaufen, sodass Sie lange Schlangen an den Bahnhöfen vermeiden.
-    - q: Erstreckt sich die Abdeckung auch auf abgelegene Autobahnen in den VAE?
+    - q: Erstreckt sich die Abdeckung auch auf abgelegene Autobahnen in den UAE?
       a: Wir arbeiten mit Etisalat, du, Virgin Mobile UAE zusammen, die die landesweit größte Abdeckung bieten, sodass Sie auf den meisten wichtigen Autobahnen und Landstraßen verbunden bleiben.
     - q: Kann ich Waze nutzen, um nach Blitzern zu suchen?
-      a: Ja, Waze benötigt Echtzeitdaten, um über Gefahrenstellen und Blitzer zu informieren. Ihr VAE-Datentarif hält die App während Ihrer Fahrt vollständig auf dem neuesten Stand.
+      a: Ja, Waze benötigt Echtzeitdaten, um über Gefahrenstellen und Blitzer zu informieren. Ihr UAE-Datentarif hält die App während Ihrer Fahrt vollständig auf dem neuesten Stand.
     - q: Kann ich die Live-Fahrpläne von Bussen einsehen?
       a: Auf jeden Fall. Sie können lokale Transit-Apps oder Google Maps nutzen, um Live-Ankünfte und -Abfahrten von Bussen zu verfolgen, ohne auf Busbahnhof-WLAN angewiesen zu sein.
-    - q: Verliere ich das Signal, wenn ich einen Hochgeschwindigkeitszug in den VAE nehme?
+    - q: Verliere ich das Signal, wenn ich einen Hochgeschwindigkeitszug in den UAE nehme?
       a: Obwohl in Tunneln kleinere Aussetzer auftreten können, sorgen unsere Premium-Netzpartner für die stabilste Verbindung während Zugreisen zwischen den Städten.
-    - q: Kann ich diesen Tarif nutzen, um Elektroroller oder Fahrräder in den VAE auszuleihen?
+    - q: Kann ich diesen Tarif nutzen, um Elektroroller oder Fahrräder in den UAE auszuleihen?
       a: Ja, das Scannen von QR-Codes zum Ausleihen lokaler E-Scooter oder Leihfahrräder erfordert eine schnelle Internetverbindung, die Ihr aktiver Datentarif perfekt bewältigt.
   - id: faq-hotels
     icon: hotel
     tab_title: Hotels
     title: 4. Unterkunft
     questions:
-    - q: Kann ich diese digitale SIM für die VAE für den Selbst-Check-in in meinem Airbnb oder Hotel nutzen?
+    - q: Kann ich diese digitale SIM für die UAE für den Selbst-Check-in in meinem Airbnb oder Hotel nutzen?
       a: Ja. Viele moderne Mietobjekte und Hotels wie Burj Al Arab Jumeirah, Emirates Palace, Atlantis The Palm verlangen, dass Sie auf einen Smart-Lock-Code per E-Mail oder über eine App zugreifen. Ihr Datentarif stellt sicher, dass Sie diese Informationen direkt an der Tür abrufen können.
     - q: Was ist, wenn das WLAN im Burj Al Arab Jumeirah, Emirates Palace, Atlantis The Palm langsam oder kostenpflichtig ist?
-      a: Sie können einfach das WLAN ausschalten und sich auf Ihre VAE eSIM verlassen. Unsere 4G/5G-Geschwindigkeiten sind oft schneller und sicherer als öffentliche Hotelnetzwerke.
+      a: Sie können einfach das WLAN ausschalten und sich auf Ihre UAE eSIM verlassen. Unsere 4G/5G-Geschwindigkeiten sind oft schneller und sicherer als öffentliche Hotelnetzwerke.
     - q: Wie bestelle ich spätabends Essen auf mein Zimmer mit Talabat, Deliveroo, Zomato?
       a: Laden Sie einfach Talabat, Deliveroo, Zomato herunter, registrieren Sie sich mit Ihrer E-Mail-Adresse und nutzen Sie Ihre zuverlässigen mobilen Daten, um Mahlzeiten direkt in die Hotellobby zu bestellen.
     - q: Sind die Daten schnell genug, um Netflix im Hotelzimmer zu streamen?
       a: Absolut. Wenn Sie einen Tarif mit ausreichend Datenvolumen kaufen, unterstützt unsere Hochgeschwindigkeitsverbindung problemlos HD-Video-Streaming auf Plattformen wie Netflix oder YouTube.
     - q: Kann ich Bank-SMS-Codes empfangen, während ich Hotel-WLAN und diese eSIM nutze?
-      a: Ja! Lassen Sie Ihre primäre Heimat-SIM zum Empfang von SMS eingeschaltet (dies ist im Roaming normalerweise kostenlos) und nutzen Sie die VAE eSIM für all Ihre Datenbedürfnisse.
+      a: Ja! Lassen Sie Ihre primäre Heimat-SIM zum Empfang von SMS eingeschaltet (dies ist im Roaming normalerweise kostenlos) und nutzen Sie die UAE eSIM für all Ihre Datenbedürfnisse.
   - id: faq-attractions
     icon: landmark
     tab_title: Sehenswürdigkeiten
     title: 5. Besichtigungen & Touren
     questions:
     - q: Fällt das Signal in alten Steingebäuden oder Kathedralen aus?
-      a: Während dicke Steinmauern jedes Mobilfunksignal schwächen können, bieten unsere Premium-Netzpartner die bestmögliche Innenraum-Abdeckung in den VAE.
-    - q: Ist die Upload-Geschwindigkeit gut genug, um Videos aus den VAE zu posten?
+      a: Während dicke Steinmauern jedes Mobilfunksignal schwächen können, bieten unsere Premium-Netzpartner die bestmögliche Innenraum-Abdeckung in den UAE.
+    - q: Ist die Upload-Geschwindigkeit gut genug, um Videos aus den UAE zu posten?
       a: Ja, unsere 4G/5G-Verbindungen bieten ausgezeichnete Upload-Geschwindigkeiten, sodass Sie während Ihrer Besichtigungen in Echtzeit hochwertige Instagram-Stories oder TikToks posten können.
     - q: Wie kann ich meine Freunde finden, wenn wir uns an einem überfüllten Touristenort verlaufen haben?
       a: Mit Ihrer aktiven Datenverbindung können Sie Ihren Live-Standort sofort über WhatsApp oder Apple Maps teilen, um sich mit Ihrer Gruppe wieder zu vereinen.
-    - q: Funktioniert diese virtuelle VAE-SIM zum Herunterladen von Audio-Guides?
+    - q: Funktioniert diese virtuelle UAE-SIM zum Herunterladen von Audio-Guides?
       a: Absolut. Viele Museen bieten heute app-basierte Audio-Guides an. Sie können diese großen Dateien mit Ihren schnellen mobilen Daten problemlos vor Ort herunterladen.
     - q: Werde ich beim Besuch von Burj Khalifa, Sheikh Zayed Grand Mosque, The Dubai Mall ein Signal haben?
       a: Ja, unsere eSIM verbindet sich mit erstklassigen Netzen wie Etisalat, du, Virgin Mobile UAE und gewährleistet so eine starke Abdeckung selbst in überfüllten Touristen-Hotspots wie Burj Khalifa, Sheikh Zayed Grand Mosque, The Dubai Mall.
     - q: Kann ich meinen Besuch zu meiner Familie nach Hause live streamen?
       a: Ja, unser stabiles 5G/4G-Netz ermöglicht reibungslose, unterbrechungsfreie Live-Streams auf Plattformen wie YouTube, Instagram oder Facebook.
     - q: Kann ich online Tickets ohne Anstehen kaufen, während ich vor dem Burj Khalifa, der Sheikh Zayed Grand Mosque oder der Dubai Mall stehe?
-      a: Auf jeden Fall. Mit Ihrer schnellen virtuellen VAE-SIM können Sie spontan digitale Tickets auf GetYourGuide oder Viator kaufen und den Barcode von Ihrem Bildschirm scannen lassen.
+      a: Auf jeden Fall. Mit Ihrer schnellen virtuellen UAE-SIM können Sie spontan digitale Tickets auf GetYourGuide oder Viator kaufen und den Barcode von Ihrem Bildschirm scannen lassen.
   - id: faq-dining
     icon: utensils
     tab_title: Gastronomie
@@ -449,8 +449,8 @@ faq_section1:
     - q: Ist es sicher, Trinkgeld über einen digitalen Zahlungslink auf meinem Telefon zu geben?
       a: Ja, Zahlungen über Ihre privaten Mobilfunkdaten abzuwickeln, ist im Vergleich zum öffentlichen WLAN des Restaurants hochsicher.
     - q: Benötige ich Daten, um digitale QR-Menüs in Restaurants zu scannen?
-      a: Ja, viele Restaurants in den VAE verwenden mittlerweile QR-Codes anstelle von gedruckten Menüs. Ihre eSIM stellt sicher, dass Sie diese digitalen Menüs laden können, ohne nach dem WLAN-Passwort fragen zu müssen.
-    - q: Wie finde ich gute lokale Restaurants in meiner Nähe in den VAE?
+      a: Ja, viele Restaurants in den UAE verwenden mittlerweile QR-Codes anstelle von gedruckten Menüs. Ihre eSIM stellt sicher, dass Sie diese digitalen Menüs laden können, ohne nach dem WLAN-Passwort fragen zu müssen.
+    - q: Wie finde ich gute lokale Restaurants in meiner Nähe in den UAE?
       a: Nutzen Sie Ihre Touristen-eSIM, um unterwegs Google Maps oder Tripadvisor zu durchsuchen. Sie können Bewertungen, Öffnungszeiten und Speisekarten prüfen, bevor Sie eintreten.
   - id: faq-social
     icon: smartphone
@@ -464,25 +464,25 @@ faq_section1:
     - q: Berechnet mir mein Heimanbieter Kosten für den Empfang von WhatsApp-Nachrichten?
       a: Nein, WhatsApp nutzt Internetdaten, keine herkömmlichen SMS. Solange Sie unser mobiles Datenpaket für Daten verwenden, berechnet Ihnen Ihr Heimanbieter keine Kosten für App-Nachrichten.
     - q: Wie kann ich unterwegs meine E-Mails abrufen?
-      a: Die E-Mail-App Ihres Telefons synchronisiert automatisch im Hintergrund, solange Ihre VAE eSIM aktiv ist und noch Datenvolumen hat.
-    - q: Kann ich mit diesem VAE-Datentarif ein VPN verwenden?
+      a: Die E-Mail-App Ihres Telefons synchronisiert automatisch im Hintergrund, solange Ihre UAE eSIM aktiv ist und noch Datenvolumen hat.
+    - q: Kann ich mit diesem UAE-Datentarif ein VPN verwenden?
       a: Absolut. Unser Netzwerk schränkt die VPN-Nutzung nicht ein, sodass Sie Ihre Unternehmenssicherheit aufrechterhalten oder auf zu Hause geoblockte Inhalte zugreifen können.
     - q: Kann ich FaceTime- oder WhatsApp-Videoanrufe nach Hause tätigen?
-      a: Ja, unsere Partnerschaften mit Netzwerken mit niedriger Latenz stellen sicher, dass Ihre Videoanrufe klar und verzögerungsfrei sind, egal wo Sie sich in den VAE befinden.
+      a: Ja, unsere Partnerschaften mit Netzwerken mit niedriger Latenz stellen sicher, dass Ihre Videoanrufe klar und verzögerungsfrei sind, egal wo Sie sich in den UAE befinden.
   - id: faq-emergency
     icon: alert-triangle
     tab_title: Notfälle
     title: 8. Sicherheit & Notfälle
     questions:
     - q: Wie kann ich meine Kreditkarten sperren lassen, wenn meine Brieftasche gestohlen wird?
-      a: Sie können sofort Ihre Banking-Apps mit Ihren sicheren VAE-Mobilfunkdaten öffnen, um Ihre Karten zu sperren und unbefugte Transaktionen zu verhindern.
+      a: Sie können sofort Ihre Banking-Apps mit Ihren sicheren UAE-Mobilfunkdaten öffnen, um Ihre Karten zu sperren und unbefugte Transaktionen zu verhindern.
     - q: Wie rufe ich 999 (Polizei), 998 (Krankenwagen), 997 (Feuerwehr), wenn ich nur eine Daten-eSIM habe?
       a: Notrufnummern wie 999 (Polizei), 998 (Krankenwagen), 997 (Feuerwehr) können direkt über die Wähltastatur Ihres Telefons gewählt werden, unabhängig von Ihrer aktiven SIM, solange Ihr Telefon ein Mobilfunksignal empfängt.
-    - q: Was soll ich tun, wenn ich mein Telefon in den VAE verliere?
-      a: Wenn Sie Ihr Gerät verlieren, können Sie sich von einem anderen Gerät aus in Ihr Konto einloggen, um Ihre VAE eSIM auszusetzen, und unser Support-Team kontaktieren, um einen Ersatz-QR-Code zu erhalten.
+    - q: Was soll ich tun, wenn ich mein Telefon in den UAE verliere?
+      a: Wenn Sie Ihr Gerät verlieren, können Sie sich von einem anderen Gerät aus in Ihr Konto einloggen, um Ihre UAE eSIM auszusetzen, und unser Support-Team kontaktieren, um einen Ersatz-QR-Code zu erhalten.
     - q: Kann ich mit diesem Datentarif die Botschaft meines Landes kontaktieren?
       a: Ja, Sie können die Kontaktdaten der Botschaft online nachschlagen und Skype oder E-Mail nutzen, um konsularische Hilfe zu erhalten.
-    - q: Wie kann ich meinen Live-Standort teilen, wenn ich mich in den VAE unsicher fühle?
+    - q: Wie kann ich meinen Live-Standort teilen, wenn ich mich in den UAE unsicher fühle?
       a: Sie können die Funktion „Live-Standort teilen“ in WhatsApp oder die Funktion „Mein iPhone suchen“ von Apple nutzen, um Ihre GPS-Koordinaten kontinuierlich an vertrauenswürdige Freunde zu senden, indem Sie Ihre mobilen Daten verwenden.
     - q: Kann ich mit diesem Tarif meine Reiseversicherung kontaktieren?
       a: Da dies eine reine Daten-eSIM ist, können Sie VoIP-Apps wie Skype, Viber oder WLAN-Telefonie nutzen, um die internationalen gebührenfreien Nummern Ihrer Versicherung anzurufen.
