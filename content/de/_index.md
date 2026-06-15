@@ -29,7 +29,7 @@ destinations:
   quick_stats: ["Kaufen & Nutzen, sofortige Aktivierung", "Keine Roaming-Gebühren, lokales Netz", "Automatischer Preisvergleich, beste Raten"]
   tabs:
     - id: "europe"
-      name: "Europa"
+      name: "Europa eSIM"
       desc: "Preiswerte eSIMs für Europa, inklusive automatischem Preisvergleich."
       cards:
         - flag: "es.svg"
@@ -85,9 +85,10 @@ destinations:
           slug: "switzerland-esim"
           price: "Ab 1,99 $"
           tags: ["5G Highspeed"]
-      btn: "Alle Europa-Tarife anzeigen"
+      btn: "Europa eSIM-Tarife anzeigen"
+      zslug: "/europe-esim/"
     - id: "asia"
-      name: "Asien"
+      name: "Asien eSIM"
       desc: "Beste eSIM-Angebote für Asien mit Echtzeit-Preisanpassung."
       cards:
         - flag: "th.svg"
@@ -142,9 +143,10 @@ destinations:
           slug: "south-korea-esim"
           price: "Ab 1,99 $"
           tags: ["5G Highspeed", "Unbegrenzte Daten"]
-      btn: "Alle Asien-Tarife anzeigen"
+      btn: "Asien eSIM-Tarife anzeigen"
+      zslug: "/asia-esim/"
     - id: "north-america"
-      name: "Nordamerika"
+      name: "Nordamerika eSIM"
       desc: "Top eSIM-Tarife für Nordamerika zu unschlagbaren Preisen."
       cards:
         - flag: "us.svg"
@@ -164,8 +166,9 @@ destinations:
           price: "Ab 1,99 $"
           tags: ["Hotspot unterstützt"]
       btn: "Alle Nordamerika-Tarife anzeigen"
+      zslug: "/north-america-esim/"
     - id: "oceania"
-      name: "Ozeanien"
+      name: "Ozeanien eSIM"
       desc: "eSIM-Pläne für Ozeanien, automatischer Preisvergleich inklusive."
       cards:
         - flag: "au.svg"
@@ -183,7 +186,8 @@ destinations:
           slug: "fiji-esim"
           price: "Ab 1,99 $"
           tags: ["Insel-Abdeckung"]
-      btn: "Alle Ozeanien-Tarife anzeigen"
+      btn: "Ozeanien eSIM-Tarife anzeigen"
+      zslug: "/oceania-esim/"
     - id: "south-america"
       name: "Süd- & Zentralamerika"
       desc: "Süd- & Zentralamerika eSIM-Tarife mit zuverlässiger Konnektivität."
@@ -234,9 +238,10 @@ destinations:
           slug: "bolivia-esim"
           price: "Ab 1,99 $"
           tags: ["Hotspot unterstützt"]
-      btn: "Alle Südamerika-Tarife anzeigen"
+      btn: "Südamerika eSIM-Tarife anzeigen"
+      zslug: "/south-america-esim/"
     - id: "africa"
-      name: "Afrika"
+      name: "Afrika eSIM"
       desc: "Zuverlässige eSIM-Abdeckung für Ihre Reise durch Afrika."
       cards:
         - flag: "eg.svg"
@@ -272,7 +277,8 @@ destinations:
           price: "Ab 1,99 $"
           tags: ["Highspeed"]
         - flag: "mu.svg"
-      btn: "Alle Afrika-Tarife anzeigen"
+      btn: "Afrika eSIM-Tarife anzeigen"
+      zslug: "/africa-esim/"
   promo_text1: "Rabatt für neue Nutzer"
   promo_code: "web20"
   promo_text2: "Erhalten Sie 20 % Rabatt auf Ihre erste Bestellung"

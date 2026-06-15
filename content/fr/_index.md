@@ -1,9 +1,7 @@
 ---
-title: "eSIM voyage mondiale : 5G haute vitesse"
-date: '2026-05-14T03:13:34+00:00'
-description: "Roami propose des eSIM prépayées 5G haut débit dans plus de 200 pays et régions – sans carte SIM physique nécessaire, les forfaits commencent à seulement 1,99 $. Utilisez le code promo web20 pour bénéficier de 20 % de réduction supplémentaire."
-translationKey: "homepage"
-
+title: "eSIM Global | Données 5G dans plus de 200 pays"
+date: '2026-06-14T14:41:24+00:00'
+description: "Restez connecté dans plus de 200 pays avec Roami eSIM. Activation instantanée 5G. Aucune carte SIM physique nécessaire. Forfaits à partir de 1,99 $. Couverture mondiale, tarifs locaux."
 
 button:
   default: "Obtenez 20% de réduction"
@@ -14,11 +12,11 @@ button:
 hero:
   tag: "Couverture en direct dans plus de 200 pays"
   title: "Votre expert en<br class='hidden lg:block'> <span class='gradient-text'>connectivité</span> mondiale"
-  desc: "Couverture dans plus de 200 pays et régions, approuvé par plus d'1 million d'utilisateurs. Activation instantanée, pas de SIM physique, voyagez en toute simplicité."
+  desc: "Couverture dans plus de 200 pays et régions, approuvé par plus d'1 million d'utilisateurs. Activation instantanée, aucune carte SIM physique nécessaire, voyagez en toute simplicité."
   promo_tag: "Exclusivité nouveaux utilisateurs"
   promo_text: "Obtenez <span class='font-extrabold text-red-600 text-lg'>20% DE RÉDUCTION</span> avec le code :"
   promo_code: "web20"
-  stats: ["Livraison instantanée", "Sans frais cachés"]
+  stats: ["Livraison instantanée", "Aucuns frais cachés"]
   floating_card_title: "Activation instantanée"
   floating_card_desc: "Connexion automatique à l'arrivée"
 
@@ -26,39 +24,39 @@ destinations:
   tag: "Couverture mondiale"
   title: "Destinations phares"
   desc: "Partenariat avec les meilleurs opérateurs mondiaux pour une couverture réseau premium et une activation instantanée."
-  quick_stats: ["Achat et utilisation, activation instantanée", "Sans frais d'itinérance, réseau local", "Comparaison automatique des prix, meilleurs tarifs"]
+  quick_stats: ["Achetez et utilisez, activation instantanée", "Pas de frais d'itinérance, réseau local", "Alignement automatique des prix, meilleurs tarifs"]
   tabs:
     - id: "europe"
-      name: "Europe"
-      desc: "Meilleurs eSIM en Europe, comparaison automatique des prix."
+      name: "eSIM Europe"
+      desc: "eSIM au meilleur rapport qualité-prix en Europe, comparaison automatique des prix prise en charge."
       cards:
         - flag: "fr.svg"
           name: "eSIM France"
           slug: "france-esim"
           price: "À partir de 1,99 $"
-          tags: ["5G haut débit", "Données illimitées"]
+          tags: ["5G Haut Débit", "Données illimitées"]
         - flag: "es.svg"
           name: "eSIM Espagne"
           slug: "spain-esim"
           price: "À partir de 1,99 $"
-          tags: ["5G haut débit", "Données illimitées"]
+          tags: ["5G Haut Débit", "Données illimitées"]
         - flag: "eu.svg"
           name: "eSIM Europe"
           slug: "europe-esim"
           price: "À partir de 1,99 $"
           badge: "Tendance"
-          tags: ["Multipays", "Données illimitées"]
+          tags: ["Multi-pays", "Données illimitées"]
         - flag: "it.svg"
           name: "eSIM Italie"
           slug: "italy-esim"
           price: "À partir de 1,99 $"
-          tags: ["5G haut débit", "Données illimitées"]
+          tags: ["5G Haut Débit", "Données illimitées"]
         - flag: "gb.svg"
           name: "eSIM Royaume-Uni"
           slug: "united-kingdom-esim"
           price: "À partir de 1,99 $"
           badge: "Tendance"
-          tags: ["5G haut débit", "Données illimitées"]
+          tags: ["5G Haut Débit", "Données illimitées"]
         - flag: "de.svg"
           name: "eSIM Allemagne"
           slug: "germany-esim"
@@ -68,12 +66,12 @@ destinations:
           name: "eSIM Russie"
           slug: "russia-esim"
           price: "À partir de 1,99 $"
-          tags: ["Haut débit"]
+          tags: ["Haut Débit"]
         - flag: "pt.svg"
           name: "eSIM Portugal"
           slug: "portugal-esim"
           price: "À partir de 1,99 $"
-          tags: ["Point d'accès supporté"]
+          tags: ["Point d'accès pris en charge"]
         - flag: "gr.svg"
           name: "eSIM Grèce"
           slug: "greece-esim"
@@ -83,18 +81,19 @@ destinations:
           name: "eSIM Suisse"
           slug: "switzerland-esim"
           price: "À partir de 1,99 $"
-          tags: ["5G haut débit"]
-      btn: "Voir tous les forfaits Europe"
+          tags: ["5G Haut Débit"]
+      btn: "Voir les forfaits eSIM Europe"
+      zslug: "/europe-esim/"
     - id: "asia"
-      name: "Asie"
-      desc: "Meilleurs eSIM en Asie, comparaison automatique des prix."
+      name: "eSIM Asie"
+      desc: "eSIM au meilleur rapport qualité-prix en Asie, comparaison automatique des prix prise en charge."
       cards:
         - flag: "cn.svg"
           name: "eSIM Chine"
           slug: "china-esim"
           price: "À partir de 1,99 $"
           badge: "Tendance"
-          tags: ["5G haut débit", "Données illimitées"]
+          tags: ["5G Haut Débit", "Données illimitées"]
         - flag: "tr.svg"
           name: "eSIM Turquie"
           slug: "turkey-esim"
@@ -105,7 +104,7 @@ destinations:
           name: "eSIM Japon"
           slug: "japan-esim"
           price: "À partir de 1,99 $"
-          tags: ["5G haut débit", "Données illimitées"]
+          tags: ["5G Haut Débit", "Données illimitées"]
         - flag: "th.svg"
           name: "eSIM Thaïlande"
           slug: "thailand-esim"
@@ -115,12 +114,12 @@ destinations:
           name: "eSIM Malaisie"
           slug: "malaysia-esim"
           price: "À partir de 1,99 $"
-          tags: ["Point d'accès supporté"]
+          tags: ["Point d'accès pris en charge"]
         - flag: "in.svg"
           name: "eSIM Inde"
           slug: "india-esim"
           price: "À partir de 1,99 $"
-          tags: ["5G haut débit", "Données illimitées"]
+          tags: ["5G Haut Débit", "Données illimitées"]
         - flag: "kr.svg"
           name: "eSIM Corée du Sud"
           slug: "south-korea-esim"
@@ -131,7 +130,7 @@ destinations:
           name: "eSIM Indonésie"
           slug: "indonesia-esim"
           price: "À partir de 1,99 $"
-          tags: ["5G haut débit", "Données illimitées"]
+          tags: ["5G Haut Débit", "Données illimitées"]
         - flag: "vn.svg"
           name: "eSIM Vietnam"
           slug: "vietnam-esim"
@@ -141,38 +140,40 @@ destinations:
           name: "eSIM Singapour"
           slug: "singapore-esim"
           price: "À partir de 1,99 $"
-          tags: ["Point d'accès supporté"]
-      btn: "Voir tous les forfaits Asie"
+          tags: ["Point d'accès pris en charge"]
+      btn: "Voir les forfaits eSIM Asie"
+      zslug: "/asia-esim/"
     - id: "north-america"
-      name: "Amérique du Nord"
-      desc: "Meilleurs eSIM en Amérique du Nord, comparaison automatique des prix."
+      name: "eSIM Amérique du Nord"
+      desc: "eSIM au meilleur rapport qualité-prix en Amérique du Nord, comparaison automatique des prix prise en charge."
       cards:
         - flag: "us.svg"
           name: "eSIM États-Unis"
           slug: "united-states-esim"
           price: "À partir de 1,99 $"
           badge: "Tendance"
-          tags: ["5G haut débit", "Données illimitées"]
+          tags: ["5G Haut Débit", "Données illimitées"]
         - flag: "mx.svg"
           name: "eSIM Mexique"
           slug: "mexico-esim"
           price: "À partir de 1,99 $"
-          tags: ["Point d'accès supporté"]
+          tags: ["Point d'accès pris en charge"]
         - flag: "ca.svg"
           name: "eSIM Canada"
           slug: "canada-esim"
           price: "À partir de 1,99 $"
           tags: ["Réseau 5G"]
       btn: "Voir tous les forfaits Amérique du Nord"
+      zslug: "/north-america-esim/"
     - id: "oceania"
-      name: "Océanie"
-      desc: "Forfaits eSIM Océanie, comparaison automatique des prix."
+      name: "eSIM Océanie"
+      desc: "Forfaits eSIM pour l'Océanie, comparaison automatique des prix prise en charge."
       cards:
         - flag: "au.svg"
           name: "eSIM Australie"
           slug: "australia-esim"
           price: "À partir de 1,99 $"
-          tags: ["5G haut débit"]
+          tags: ["5G Haut Débit"]
         - flag: "nz.svg"
           name: "eSIM Nouvelle-Zélande"
           slug: "new-zealand-esim"
@@ -183,21 +184,22 @@ destinations:
           slug: "fiji-esim"
           price: "À partir de 1,99 $"
           tags: ["Couverture insulaire"]
-      btn: "Voir tous les forfaits Océanie"
+      btn: "Voir les forfaits eSIM Océanie"
+      zslug: "/oceania-esim/"
     - id: "south-america"
-      name: "Amérique du Sud"
-      desc: "Forfaits eSIM Amérique du Sud, comparaison automatique des prix."
+      name: "eSIM Amérique du Sud"
+      desc: "Forfaits eSIM pour l'Amérique du Sud, comparaison automatique des prix prise en charge."
       cards:
         - flag: "ar.svg"
           name: "eSIM Argentine"
           slug: "argentina-esim"
           price: "À partir de 1,99 $"
-          tags: ["Haut débit"]
+          tags: ["Haut Débit"]
         - flag: "br.svg"
           name: "eSIM Brésil"
           slug: "brazil-esim"
           price: "À partir de 1,99 $"
-          tags: ["Point d'accès supporté"]
+          tags: ["Point d'accès pris en charge"]
         - flag: "cl.svg"
           name: "eSIM Chili"
           slug: "chile-esim"
@@ -207,17 +209,17 @@ destinations:
           name: "eSIM Pérou"
           slug: "peru-esim"
           price: "À partir de 1,99 $"
-          tags: ["Haut débit"]
+          tags: ["Haut Débit"]
         - flag: "co.svg"
           name: "eSIM Colombie"
           slug: "colombia-esim"
           price: "À partir de 1,99 $"
-          tags: ["Point d'accès supporté"]
+          tags: ["Point d'accès pris en charge"]
         - flag: "pa.svg"
           name: "eSIM Panama"
           slug: "panama-esim"
           price: "À partir de 1,99 $"
-          tags: ["Haut débit"]
+          tags: ["Haut Débit"]
         - flag: "ec.svg"
           name: "eSIM Équateur"
           slug: "ecuador-esim"
@@ -227,32 +229,33 @@ destinations:
           name: "eSIM Uruguay"
           slug: "uruguay-esim"
           price: "À partir de 1,99 $"
-          tags: ["Haut débit"]
+          tags: ["Haut Débit"]
         - flag: "bo.svg"
           name: "eSIM Bolivie"
           slug: "bolivia-esim"
           price: "À partir de 1,99 $"
-          tags: ["Point d'accès supporté"]
+          tags: ["Point d'accès pris en charge"]
         - flag: "py.svg"
           name: "eSIM Paraguay"
           slug: "paraguay-esim"
           price: "À partir de 1,99 $"
-          tags: ["Haut débit"]
-      btn: "Voir tous les forfaits Amérique du Sud"
+          tags: ["Haut Débit"]
+      btn: "Voir eSIM Amérique du Sud"
+      zslug: "/south-america-esim/"
     - id: "africa"
-      name: "Afrique"
-      desc: "Forfaits eSIM Afrique, comparaison automatique des prix."
+      name: "eSIM Afrique"
+      desc: "Forfaits eSIM pour l'Afrique, comparaison automatique des prix prise en charge."
       cards:
         - flag: "ma.svg"
           name: "eSIM Maroc"
           slug: "morocco-esim"
           price: "À partir de 1,99 $"
-          tags: ["Haut débit"]
+          tags: ["Haut Débit"]
         - flag: "za.svg"
           name: "eSIM Afrique du Sud"
           slug: "south-africa-esim"
           price: "À partir de 1,99 $"
-          tags: ["Point d'accès supporté"]
+          tags: ["Point d'accès pris en charge"]
         - flag: "eg.svg"
           name: "eSIM Égypte"
           slug: "egypt-esim"
@@ -262,38 +265,34 @@ destinations:
           name: "eSIM Tunisie"
           slug: "tunisia-esim"
           price: "À partir de 1,99 $"
-          tags: ["Haut débit"]
+          tags: ["Haut Débit"]
         - flag: "ci.svg"
           name: "eSIM Côte d'Ivoire"
           slug: "ivory-coast-esim"
           price: "À partir de 1,99 $"
-          tags: ["Haut débit"]
+          tags: ["Haut Débit"]
         - flag: "dz.svg"
           name: "eSIM Algérie"
           slug: "algeria-esim"
           price: "À partir de 1,99 $"
-          tags: ["Haut débit"]
-        - flag: "et.svg"
-          name: "eSIM Éthiopie"
-          slug: "ethiopia-esim"
-          price: "À partir de 1,99 $"
-          tags: ["Données illimitées"]
+          tags: ["Haut Débit"]
         - flag: "ke.svg"
           name: "eSIM Kenya"
           slug: "kenya-esim"
           price: "À partir de 1,99 $"
-          tags: ["Haut débit"]
+          tags: ["Haut Débit"]
         - flag: "tz.svg"
           name: "eSIM Tanzanie"
           slug: "tanzania-esim"
           price: "À partir de 1,99 $"
-          tags: ["Haut débit"]
+          tags: ["Haut Débit"]
         - flag: "gh.svg"
           name: "eSIM Ghana"
           slug: "ghana-esim"
           price: "À partir de 1,99 $"
-          tags: ["Haut débit"]
-      btn: "Voir tous les forfaits Afrique"
+          tags: ["Haut Débit"]
+      btn: "Voir les forfaits eSIM Afrique"
+      zslug: "/africa-esim/"
   promo_text1: "Réduction nouveau client"
   promo_code: "web20"
   promo_text2: "Obtenez 20% de réduction sur votre première commande"
@@ -301,56 +300,56 @@ destinations:
 free_banner:
   tag: "Forfait gratuit"
   title: "Votre première eSIM est<br>gratuite avec Roami"
-  desc: "Téléchargez l'application pour obtenir 100 Mo de données gratuites. Sans carte de crédit."
+  desc: "Téléchargez l'application pour obtenir 100 Mo de données gratuites. Aucune carte de crédit requise."
   items:
     - icon: "📧"
       text: "Envoyer/recevoir 50 e-mails"
     - icon: "💬"
-      text: "Applications de messagerie (textes) pendant 1 jour"
+      text: "Applications de messagerie (texte) pendant 1 jour"
     - icon: "🌐"
-      text: "Navigation web pendant 5 heures"
+      text: "Navigation Web pendant 5 heures"
   bottom_text: "Gratuit · 100 Mo de données"
 
 features:
   tag: "Fonctionnalités"
   title: "Pourquoi choisir Roami"
-  desc: "Approuvé par les voyageurs du monde entier, fournissant les meilleures solutions de connectivité réseau pour vos voyages."
+  desc: "Approuvé par les voyageurs du monde entier, fournit les meilleures solutions de connectivité réseau pour vos voyages."
   stats:
     - value: "200+"
       label: "Pays"
     - value: "1M+"
-      label: "Utilisateurs"
+      label: "Utilisateurs de confiance"
     - value: "24/7"
-      label: "Support"
+      label: "Assistance"
     - value: "21"
       label: "Langues"
   cards:
     - icon: "layers"
-      title: "Forfaits variés, choix flexibles"
-      desc: "Forfaits journaliers illimités, forfaits données 1 Go–30 Go, différentes durées, et options avec appels vocaux."
+      title: "Forfaits diversifiés, choix flexibles"
+      desc: "Forfaits quotidiens illimités, forfaits données de 1 Go à 30 Go, durées variées et options avec appels vocaux pris en charge."
     - icon: "shield-check"
       title: "Réseau stable et sécurisé"
       desc: "Partenariat avec les meilleurs opérateurs dans plus de 200 pays pour garantir une couverture réseau premium, fiable et sécurisée."
     - icon: "dollar-sign"
-      title: "Excellent rapport qualité-prix"
-      desc: "Comparé à la concurrence, l'argent économisé en achetant un eSIM avec Roami peut vous offrir une tasse de café supplémentaire."
+      title: "Rapport qualité-prix élevé"
+      desc: "Comparé aux concurrents, l'argent que vous économisez en achetant une eSIM avec Roami peut vous offrir une tasse de café premium supplémentaire."
     - icon: "rotate-ccw"
       title: "Politique de remboursement sans souci"
       desc: "Remboursement intégral si le forfait ne fonctionne pas ou reste inutilisé. Achetez en toute sérénité."
     - icon: "headphones"
-      title: "Support humain 24/7"
-      desc: "Assistance en ligne 24/7/365 pour vous aider à résoudre tout problème pendant votre voyage, avec des temps de réponse rapides."
+      title: "Assistance humaine 24/7"
+      desc: "Assistance en ligne 24/7/365 pour vous aider à résoudre tout problème pendant votre voyage avec des temps de réponse rapides."
     - icon: "globe"
       title: "Support localisé"
-      desc: "Prend en charge 21 langues, plusieurs devises, méthodes de paiement locales et service client dans votre langue maternelle."
+      desc: "Prend en charge 21 langues, plusieurs devises, méthodes de paiement locales et service client de langue maternelle."
 
 guide:
   tag: "3 étapes simples"
   title: "Connectez-vous à Roami eSIM en 3 minutes"
-  desc: "Profitez de la connectivité mondiale en seulement trois étapes simples."
+  desc: "Profitez d'une connectivité mondiale en seulement trois étapes simples."
   steps:
     - img: "home1.png"
-      title: "Vérifiez la compatibilité de l'appareil"
+      title: "Vérifiez la compatibilité de votre appareil"
       desc: "Composez *#06# → Si un numéro EID apparaît, votre appareil prend en charge l'eSIM."
     - img: "home2.png"
       title: "Achetez et installez"
@@ -361,7 +360,7 @@ guide:
 
 reviews:
   tag: "Avis utilisateurs"
-  title: "Apprécié par les voyageurs du monde entier"
+  title: "Adoré par les voyageurs du monde entier"
   desc: "Approuvé par plus d'1 million d'utilisateurs."
   main:
     quote: "\"J'ai utilisé Roami lors de mon voyage en Europe. La connexion était stable, les prix abordables et le service client très réactif. Même dans les zones reculées, le signal était fort. Absolument fantastique !\""
@@ -372,24 +371,24 @@ reviews:
     - name: "Sarah J."
       role: "Voyage d'affaires aux États-Unis"
       img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop"
-      quote: "\"Je l'ai utilisé pour un voyage d'affaires aux États-Unis. Facile à configurer, internet rapide et bien moins cher que les forfaits locaux.\""
+      quote: "\"Je l'ai utilisé pour un voyage d'affaires aux États-Unis. Facile à configurer, internet rapide et beaucoup moins cher que les forfaits des opérateurs locaux.\""
     - name: "David W."
       role: "Voyage en famille au Japon"
       img: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop"
       quote: "\"Toute notre famille a utilisé Roami pour nos vacances au Japon. Excellente couverture et très rentable pour plusieurs personnes.\""
     - name: "Emma L."
-      role: "Première utilisatrice"
+      role: "Premier utilisateur"
       img: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop"
-      quote: "\"Première utilisation d'un eSIM. Les tutoriels de Roami étaient très détaillés et l'équipe d'assistance était patiente. Excellente expérience !\""
+      quote: "\"Première utilisation d'une eSIM. Les tutoriels de Roami étaient très détaillés et l'équipe d'assistance était patiente. Excellente expérience !\""
     - name: "James B."
       role: "Voyageur d'affaires"
       img: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=100&h=100&fit=crop"
-      quote: "\"Un incontournable pour les voyages d'affaires. Large couverture mondiale et qualité réseau stable. Très fiable.\""
+      quote: "\"Indispensable pour les voyages d'affaires. Large couverture mondiale et qualité de réseau stable. Très fiable.\""
 
 about:
-  tag: "À propos"
+  tag: "À propos de nous"
   title: "Notre histoire"
-  desc: "Roami se consacre à être votre expert mondial de la connectivité, fournissant des solutions réseau complètes aux voyageurs internationaux du monde entier."
+  desc: "Roami s'engage à être votre expert en connectivité mondiale, fournissant des solutions réseau complètes pour les voyageurs internationaux du monde entier."
   stats:
     - icon: "globe"
       value: "200+"
@@ -397,7 +396,7 @@ about:
       color: "bg-blue-600"
     - icon: "users"
       value: "1M+"
-      label: "Utilisateurs dans le monde"
+      label: "Utilisateurs mondiaux"
       color: "bg-emerald-500"
     - icon: "calendar"
       value: "2021"
@@ -410,27 +409,27 @@ about:
 
 faq:
   tag: "FAQ"
-  title: "Questions fréquentes"
+  title: "Foire aux questions"
   desc: "Tout ce que vous devez savoir sur l'achat, l'installation et l'utilisation de votre eSIM."
   items:
-    - q: "Comment acheter un eSIM pour les États-Unis, le Japon ou d'autres pays ?"
-      a: "Savoir comment acheter un eSIM pour les États-Unis ou le Japon est incroyablement simple avec notre plateforme. Sélectionnez votre destination, choisissez un forfait de données adapté à vos besoins, et finalisez l'achat en toute sécurité. Que vous ayez besoin d'un eSIM pour le Royaume-Uni, la France ou l'Italie, vous recevrez un code QR instantanément par e-mail après l'achat."
+    - q: "Comment acheter une eSIM pour les États-Unis, une eSIM pour le Japon ou d'autres eSIM locales ?"
+      a: "Savoir comment acheter une eSIM pour les États-Unis ou une eSIM pour le Japon est extrêmement simple avec notre plateforme. Il suffit de sélectionner votre destination, de choisir un forfait données adapté à vos besoins et de finaliser le paiement sécurisé. Que vous ayez besoin d'une eSIM pour le Royaume-Uni, la France ou l'Italie, vous recevrez un code QR par e-mail instantanément après l'achat."
     - q: "Comment installer et activer mon eSIM avant de voyager ?"
-      a: "L'installation prend moins de 2 minutes. Une fois que vous avez appris à acheter un eSIM pour le Canada ou l'Australie sur notre site, scannez le code QR fourni avec l'appareil photo de votre téléphone. Nous recommandons d'installer votre eSIM pour l'Allemagne ou l'Espagne pendant que vous êtes encore chez vous connecté au Wi-Fi ; il s'activera automatiquement une fois connecté au réseau local de votre destination."
-    - q: "Vos forfaits eSIM sont-ils plus rentables que ceux d'Airalo, Nomad eSIM ou Holafly ?"
-      a: "Oui ! En termes de rapport qualité-prix, nos forfaits de données offrent une rentabilité supérieure sans frais d'itinérance cachés. Comparé à Airalo, Nomad eSIM et Holafly, nous proposons des volumes de données plus importants à des prix inférieurs, faisant de nous le choix idéal pour votre prochain eSIM pour la Corée du Sud ou la Thaïlande."
+      a: "L'installation prend moins de 2 minutes. Une fois que vous avez appris à acheter une eSIM pour le Canada ou l'Australie sur notre site, scannez le code QR fourni avec l'appareil photo de votre téléphone. Nous recommandons d'installer votre eSIM pour l'Allemagne ou l'Espagne pendant que vous êtes encore chez vous connecté au WiFi, et elle s'activera automatiquement lorsque vous vous connecterez au réseau local à destination."
+    - q: "Vos forfaits eSIM sont-ils plus avantageux qu'Airalo, Nomad eSIM ou Holafly ?"
+      a: "Oui ! En ce qui concerne le rapport qualité-prix, nos forfaits de données offrent un meilleur rapport coût-efficacité sans frais d'itinérance cachés. Par rapport à Airalo, Nomad eSIM et Holafly, nous fournissons des volumes de données plus importants à des prix plus bas, ce qui fait de nous le choix parfait pour votre prochaine eSIM pour la Corée du Sud ou la Thaïlande."
     - q: "Quels appareils sont compatibles avec votre eSIM ?"
-      a: "Nos eSIM sont compatibles avec la plupart des smartphones modernes débloqués, y compris les derniers modèles iPhone, Samsung Galaxy et Google Pixel. Que vous téléchargiez un eSIM pour le Mexique, la Turquie ou la Suisse, assurez-vous que votre appareil prend en charge la technologie eSIM et n'est pas verrouillé par un opérateur avant d'acheter."
+      a: "Nos eSIM sont compatibles avec la plupart des smartphones modernes débloqués, y compris les derniers iPhone, Samsung Galaxy et Google Pixel. Que vous téléchargiez une eSIM pour le Mexique, la Turquie ou la Suisse, assurez-vous que votre appareil prend en charge la technologie eSIM et n'est pas bloqué par un opérateur avant l'achat."
     - q: "Comment votre service se compare-t-il à Saily eSIM, Yesim et Ubigi ?"
-      a: "Bien que Saily eSIM, Yesim et Ubigi offrent de bons services, notre plateforme se concentre sur une connectivité transparente et des réseaux locaux premium. Par exemple, notre eSIM pour les Pays-Bas et les Émirats arabes unis se connecte directement aux meilleurs fournisseurs locaux, garantissant des vitesses 5G/4G plus rapides et une meilleure couverture que de nombreux concurrents."
-    - q: "Puis-je utiliser un seul eSIM pour plusieurs pays, ou dois-je en acheter un spécifique comme pour Singapour ?"
-      a: "Nous proposons à la fois des forfaits locaux et régionaux. Si vous ne visitez qu'un seul pays, apprendre à acheter un eSIM pour Singapour ou le Brésil est votre meilleure option. Cependant, si vous voyagez à travers l'Europe ou l'Asie, nos eSIM régionaux couvrent plusieurs pays, vous évitant d'acheter un eSIM séparé pour l'Inde ou la Chine."
+      a: "Bien que Saily eSIM, Yesim et Ubigi offrent de bons services, notre plateforme se concentre sur une connectivité transparente et des réseaux locaux premium. Par exemple, notre eSIM pour les Pays-Bas et pour les Émirats arabes unis se connecte directement aux meilleurs fournisseurs locaux, garantissant des vitesses 5G/4G plus élevées et une meilleure couverture que de nombreux concurrents."
+    - q: "Puis-je utiliser une seule eSIM pour plusieurs pays ou ai-je besoin d'eSIM spécifiques comme celle pour Singapour ?"
+      a: "Nous proposons à la fois des forfaits locaux et régionaux. Si vous ne visitez qu'un seul pays, apprendre à acheter une eSIM pour Singapour ou pour le Brésil est la meilleure option. Cependant, si vous voyagez à travers l'Europe ou l'Asie, nos eSIM régionales couvrent plusieurs pays, vous évitant d'avoir à acheter une eSIM séparée pour l'Inde ou la Chine."
     - q: "Y a-t-il des frais cachés par rapport à MobiMatter ou GigSky ?"
-      a: "Absolument pas. La transparence est notre priorité. Contrairement à certains forfaits que vous pourriez trouver chez MobiMatter ou GigSky, nos prix sont clairs. Ce que vous voyez est ce que vous payez pour une expérience de données premium, que vous utilisiez notre service pour un court voyage d'affaires ou de longues vacances."
-    - q: "Que faire si je manque de données sur mon eSIM ?"
-      a: "Manquer de données n'est jamais un problème. Vous pouvez facilement recharger votre eSIM actif directement via notre site Web. Si vous utilisez un forfait très demandé comme notre eSIM pour les États-Unis ou le Japon, nous vous recommandons de suivre votre consommation dans les paramètres de votre compte pour garantir une connectivité ininterrompue."
+      a: "Absolument pas. La transparence est notre priorité. Contrairement à certains forfaits que vous pourriez trouver sur MobiMatter ou GigSky, nos prix sont clairs. Ce que vous voyez est ce que vous payez pour votre expérience de données premium, que vous utilisiez notre service pour un court voyage d'affaires ou de longues vacances."
+    - q: "Que dois-je faire si je manque de données sur mon eSIM ?"
+      a: "Manquer de données n'est jamais un problème. Vous pouvez facilement recharger votre eSIM active directement via notre site Web. Si vous utilisez un forfait à forte demande comme notre eSIM pour les États-Unis ou pour le Japon, nous recommandons de suivre votre consommation dans les paramètres de votre compte pour garantir une connectivité ininterrompue."
     - q: "Quel est le meilleur moment pour acheter mon eSIM ?"
-      a: "Nous recommandons vivement d'acheter votre eSIM 1 à 2 jours avant votre départ. Par exemple, si vous voyagez en Europe, configurer votre eSIM Europe à l'avance vous assure d'être connecté dès que votre avion atterrit, évitant ainsi le stress de chercher un Wi-Fi à l'aéroport."
+      a: "Nous recommandons vivement d'acheter votre eSIM 1 à 2 jours avant votre départ. Par exemple, si vous voyagez en Europe, configurer votre eSIM Europe à l'avance vous garantit d'être connecté dès que votre avion atterrit, évitant ainsi le stress de chercher le WiFi à l'aéroport."
 
 modal:
   title: "Service mis à jour"
@@ -440,11 +439,11 @@ modal:
 
 download:
   tag: "Télécharger l'application"
-  title: "Téléchargez l'application Roami maintenant"
-  desc: "Commencez votre voyage de connectivité mondiale et profitez d'Internet haut débit stable à tout moment, n'importe où."
+  title: "Téléchargez l'application Roami dès maintenant"
+  desc: "Commencez votre voyage de connectivité mondiale et profitez d'Internet stable et à haut débit partout et à tout moment."
   promo_title: "Offre exclusive pour les nouveaux utilisateurs"
-  promo_desc: "Téléchargez l'application pour obtenir 100 Mo de données gratuites, plus des codes de réduction exclusifs vous attendent."
+  promo_desc: "Téléchargez l'application pour obtenir 100 Mo de données gratuites, ainsi que des codes de réduction exclusifs qui vous attendent."
   promo_label1: "Code de réduction exclusif"
   promo_code: "web20"
-  promo_label2: "Appliquez à la caisse pour 20% de réduction"
+  promo_label2: "Appliquez lors du paiement pour obtenir 20% de réduction"
 ---

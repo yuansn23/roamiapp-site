@@ -29,7 +29,7 @@ destinations:
   quick_stats: ["隨買隨用，即時啟用", "免漫遊費，使用本地網路", "自動比價，最佳費率"]
   tabs:
     - id: "europe"
-      name: "歐洲"
+      name: "歐洲 eSIM"
       desc: "歐洲最超值的 eSIM，支援自動比價。"
       cards:
         - flag: "fr.svg"
@@ -84,9 +84,10 @@ destinations:
           slug: "spain-esim"
           price: "$1.99 起"
           tags: ["5G 高速", "無限數據"]
-      btn: "查看所有歐洲方案"
+      btn: "查看所有歐洲eSIM方案"
+      zslug: "/europe-esim/"
     - id: "asia"
-      name: "亞洲"
+      name: "亞洲 eSIM"
       desc: "亞洲最超值的 eSIM，支援自動比價。"
       cards:
         - flag: "jp.svg"
@@ -141,9 +142,10 @@ destinations:
           slug: "indonesia-esim"
           price: "$1.99 起"
           tags: ["5G 高速", "無限數據"]
-      btn: "查看所有亞洲方案"
+      btn: "查看所有亞洲eSIM方案"
+      zslug: "/asia-esim/"
     - id: "north-america"
-      name: "北美洲"
+      name: "北美洲 eSIM"
       desc: "北美洲最超值的 eSIM，支援自動比價。"
       cards:
         - flag: "us.svg"
@@ -162,9 +164,10 @@ destinations:
           slug: "mexico-esim"
           price: "$1.99 起"
           tags: ["支援熱點"]
-      btn: "查看所有北美洲方案"
+      btn: "查看所有北美洲eSIM方案"
+      zslug: "/north-america-esim/"
     - id: "oceania"
-      name: "大洋洲"
+      name: "大洋洲 eSIM"
       desc: "大洋洲 eSIM 方案，支援自動比價。"
       cards:
         - flag: "au.svg"
@@ -183,9 +186,10 @@ destinations:
           slug: "guam-esim"
           price: "$1.99 起"
           tags: ["海島覆蓋"]
-      btn: "查看所有大洋洲方案"
+      btn: "查看所有大洋洲eSIM方案"
+      zslug: "/oceania-esim/"
     - id: "south-america"
-      name: "南美洲"
+      name: "南美洲 eSIM"
       desc: "南美洲 eSIM 方案，支援自動比價。"
       cards:
         - flag: "pe.svg"
@@ -238,9 +242,10 @@ destinations:
           slug: "paraguay-esim"
           price: "$1.99 起"
           tags: ["高速網路"]
-      btn: "查看所有南美洲方案"
+      btn: "查看所有南美洲eSIM方案"
+      zslug: "/south-america-esim/"
     - id: "africa"
-      name: "非洲"
+      name: "非洲 eSIM"
       desc: "非洲 eSIM 方案，支援自動比價。"
       cards:
         - flag: "eg.svg"
@@ -293,7 +298,8 @@ destinations:
           slug: "ghana-esim"
           price: "$1.99 起"
           tags: ["高速網路"]
-      btn: "查看所有非洲方案"
+      btn: "查看所有非洲eSIM方案"
+      zslug: "/africa-esim/"
   promo_text1: "新用戶優惠"
   promo_code: "web20"
   promo_text2: "首筆訂單享 8 折優惠"

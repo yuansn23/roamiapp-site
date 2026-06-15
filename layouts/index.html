@@ -215,7 +215,6 @@
     </div>
 </section>
 
-
 <section id="destinations" class="py-24 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
@@ -283,8 +282,9 @@
                 {{ end }}
 
             </div>
+            <!-- 修改点：href 使用当前 tab 的 zslug 字段，而不是固定的 "plans/" -->
             <div class="text-center mt-8">
-                <a href="{{ "plans/" | relLangURL }}" aria-label="Browse all global eSIM plans" class="inline-flex items-center gap-2 px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-xl text-sm transition-colors shadow-sm">
+                <a href="{{ .zslug | default "#" | relLangURL }}" aria-label="Browse all global eSIM plans" class="inline-flex items-center gap-2 px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-xl text-sm transition-colors shadow-sm">
                     {{ .btn }} <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
                 </a>
             </div>

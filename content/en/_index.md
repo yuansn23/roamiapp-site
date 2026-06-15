@@ -1,6 +1,6 @@
 ---
 title: "Global eSIM | 5G Data in 200+ Countries"
-date: '2026-06-11T14:41:24+00:00'
+date: '2026-06-14T14:41:24+00:00'
 description: "Stay connected in 200+ countries with Roami eSIM. Instant 5G activation. No physical SIM needed. Plans from $1.99. Global coverage, local rates."
 
 
@@ -29,7 +29,7 @@ destinations:
   quick_stats: ["Buy & Use, Instant Activation", "No Roaming Fees, Local Network", "Auto Price Match, Best Rates"]
   tabs:
     - id: "europe"
-      name: "Europe"
+      name: "Europe eSIM"
       desc: "Best value eSIMs in Europe, auto price comparison supported."
       cards:
         - flag: "fr.svg"
@@ -84,9 +84,10 @@ destinations:
           slug: "switzerland-esim"
           price: "From $1.99"
           tags: ["5G High-Speed"]
-      btn: "View all Europe plans"
+      btn: "View Europe eSIM plans"
+      zslug: "/europe-esim/"
     - id: "asia"
-      name: "Asia"
+      name: "Asia eSIM"
       desc: "Best value eSIMs in Asia, auto price comparison supported."
       cards:
         - flag: "cn.svg"
@@ -142,9 +143,10 @@ destinations:
           slug: "singapore-esim"
           price: "From $1.99"
           tags: ["Hotspot Supported"]
-      btn: "View all Asia plans"
+      btn: "View Asia eSIM plans"
+      zslug: "/asia-esim/"
     - id: "north-america"
-      name: "North America"
+      name: "North America eSIM"
       desc: "Best value eSIMs in North America, auto price comparison supported."
       cards:
         - flag: "us.svg"
@@ -164,8 +166,9 @@ destinations:
           price: "From $1.99"
           tags: ["5G Network"]
       btn: "View all North America plans"
+      zslug: "/north-america-esim/"
     - id: "oceania"
-      name: "Oceania"
+      name: "Oceania eSIM"
       desc: "Oceania eSIM plans, auto price comparison supported."
       cards:
         - flag: "au.svg"
@@ -183,9 +186,10 @@ destinations:
           slug: "fiji-esim"
           price: "From $1.99"
           tags: ["Island Coverage"]
-      btn: "View all Oceania plans"
+      btn: "View Oceania eSIM plans"
+      zslug: "/oceania-esim/"
     - id: "south-america"
-      name: "South America"
+      name: "South America eSIM"
       desc: "South America eSIM plans, auto price comparison supported."
       cards:
         - flag: "ar.svg"
@@ -238,9 +242,10 @@ destinations:
           slug: "paraguay-esim"
           price: "From $1.99"
           tags: ["High-Speed"]
-      btn: "View all South America plans"
+      btn: "View South America eSIM"
+      zslug: "/south-america-esim/"
     - id: "africa"
-      name: "Africa"
+      name: "Africa eSIM"
       desc: "Africa eSIM plans, auto price comparison supported."
       cards:
         - flag: "ma.svg"
@@ -288,7 +293,8 @@ destinations:
           slug: "ghana-esim"
           price: "From $1.99"
           tags: ["High-Speed"]
-      btn: "View all Africa plans"
+      btn: "View Africa eSIM plans"
+      zslug: "/africa-esim/"
   promo_text1: "New User Discount"
   promo_code: "web20"
   promo_text2: "Get 20% off your first order"
